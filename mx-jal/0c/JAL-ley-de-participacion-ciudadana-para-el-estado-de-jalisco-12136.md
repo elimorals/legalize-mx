@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-participacion-ciudadana-para-el-estado-de-jalisco-12136"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-07"
-last_updated: "1999-09-28"
+last_updated: "2000-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de marzo de 1998.
 
@@ -115,7 +115,9 @@ El Gobernador del Estado podrá solicitar al Consejo Electoral someta a plebisci
 
 El plebiscito municipal, previsto en el artículo 84 de la Constitución Política del Estado, podrán solicitarlo ante el Consejo Electoral:
 
-I. El Presidente Municipal o el Cabildo, antes de la ejecución del acto o disposición administrativa, cuando sean considerados como trascendentales para el orden público el interés social; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+I. El Presidente Municipal, el Ayuntamiento o el Concejo Municipal, en su caso, antes de la ejecución del acto o disposición administrativa, cuando sean considerados como trascendentales para el orden público y el interés social; y
 
 II. Los ciudadanos, dentro de los treinta días siguientes a la fecha del acuerdo de cabildo o antes de la realización del acto, que residan en el municipio y representen cuando menos a un cinco por ciento de los electores, en los municipios cuyo número de habitantes sea inferior a trescientos mil; y en los que excedan de esa cifra, bastará que lo solicite un tres por ciento de los electores.
 
@@ -153,9 +155,11 @@ d) Sección electoral a que pertenecen los solicitantes; y
 
 e) Firma de cada elector solicitante, que concuerde con la que aparece en la credencial de elector.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 15.
 
-Los escritos para promover los procedimientos de referéndum y de plebiscito, presentados por el titular del Poder Ejecutivo, el Congreso del Estado, los presidentes municipales o los cabildos o consejos municipales, deberán contener cuando menos:
+Los escritos para promover los procedimientos de referéndum y de plebiscito, presentados por el Titular del Poder Ejecutivo, el Congreso del Estado, los presidentes municipales, los ayuntamientos o los concejos municipales, deberán contener cuando menos:
 
 I. Nombre de la autoridad que lo promueve. En caso de tratarse de un organismo colegiado, el acuerdo que apruebe la promoción del procedimiento respectivo;
 
@@ -167,7 +171,9 @@ IV. Autoridad o autoridades de las que emana la materia del referéndum o del pl
 
 V. Exposición de motivos, la cual debe contener en forma precisa y detallada las razones por las cuales consideran necesario derogar la norma impersonal, general y abstracta, si se tratare de un procedimiento de referéndum o, en su caso, los motivos por los cuales se considera que el acto de autoridad no debe realizarse, en caso de procedimiento de plebiscito;
 
-VI. Nombre y firma del titular del Ejecutivo, del Presidente y los secretarios del Congreso del Estado o del Presidente Municipal o del Consejo Municipal y del Secretario y Síndico, según sea el caso.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+VI. Nombre y firma del Titular del Ejecutivo, del Presidente y los secretarios del Congreso del Estado o del Presidente Municipal, de los integrantes del Ayuntamiento o del Concejo Municipal y del funcionario encargado de la Secretaría del Ayuntamiento, según sea el caso.
 
 ###### Artículo 16.
 
@@ -215,9 +221,9 @@ IV. Cuando el acto objeto del procedimiento de plebiscito se haya consumado y no
 
 V. Cuando el acto no se ha realizado o no se pretenda realizar por las autoridades señaladas en el escrito de solicitud;
 
-VI. Cuando la exposición de motivos sea frívola, no contenga una relación directa causa-efecto entre los motivos expuestos y el acto administrativo o que sea inverosímil o subjetiva.
+VI. Cuando la exposición de motivos sea frívola, no contenga una relación directa causa-efecto entre los motivos expuestos y el acto administrativo o que sea inverosímil o subjetiva;
 
-VII. Cuando el escrito de solicitud sea insultante o atente contra la dignidad de las instituciones jurídicas o sea ilegible.
+VII. Cuando el escrito de solicitud sea insultante o atente contra la dignidad de las instituciones jurídicas o sea ilegible;
 
 VIII. Cuando la solicitud respectiva no cumpla con todas las formalidades que se establecen en el presente ordenamiento.
 
@@ -225,7 +231,7 @@ VIII. Cuando la solicitud respectiva no cumpla con todas las formalidades que se
 
 Son causas de improcedencia de la solicitud del procedimiento de referéndum:
 
-I. Que la ley materia del referéndum, no esté contemplada en el artículo 3, del presente ordenamiento.
+I. Que la ley materia del referéndum, no esté contemplada en el artículo 3, del presente ordenamiento;
 
 II. Cuando el escrito de solicitud se haya presentado en forma extemporánea;
 
@@ -235,19 +241,21 @@ IV. Que la ley, el reglamento o el decreto objeto del procedimiento de referénd
 
 V. Que la ley, el reglamento o el decreto no exista o las autoridades señaladas en el escrito de solicitud no lo hayan emitido;
 
-VI. Que la exposición de motivos sea frívola, no contenga una relación directa causa-efecto entre los motivos expuestos y la ley, el reglamento o el decreto o que sea inverosímil o subjetiva.
+VI. Que la exposición de motivos sea frívola, no contenga una relación directa causa-efecto entre los motivos expuestos y la ley, el reglamento o el decreto o que sea inverosímil o subjetiva;
 
-VII. Que el escrito de solicitud sea insultante, atente contra la dignidad de las instituciones jurídicas o sea ilegible.
+VII. Que el escrito de solicitud sea insultante, atente contra la dignidad de las instituciones jurídicas o sea ilegible;
 
-VIII. Que la solicitud respectiva no cumpla con todas las formalidades que se establecen en el presente ordenamiento;
+VIII. Que la solicitud respectiva no cumpla con todas las formalidades que se establecen en el presente ordenamiento.
 
 ###### Artículo 23.
 
 En el término de 15 días naturales contados a partir de la fecha en que se recibió la contestación de la autoridad de donde emanó el acto o norma a consultar, el Consejo Electoral, previo estudio elaborado por el presidente y con aprobación de cuando menos las dos terceras partes de sus integrantes, deberá emitir un acuerdo en el cual declare, de manera fundada y motivada, la procedencia o improcedencia de la solicitud del plebiscito o del referéndum, según sea el caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 24.
 
-El acuerdo que declare la procedencia del referéndum o del plebiscito, será publicado en el periódico oficial "El Estado de Jalisco", o en su caso, en la Gaceta Municipal, incluyendo la convocatoria que deberá contener cuando menos los siguientes requisitos:
+El acuerdo que declare la procedencia del referéndum o del plebiscito, será publicado en el Periódico Oficial "El Estado de Jalisco", o en su caso, en la Gaceta Municipal o en el medio oficial de divulgación previsto por el reglamento municipal aplicable, incluyendo la convocatoria que deberá contener cuando menos los siguientes requisitos:
 
 I. Fecha, lugar y hora de la jornada electoral;
 
@@ -269,7 +277,7 @@ IX. El número de electores que tiene derecho a participar, así como el porcent
 
 X. Normatividad y bases a las que se ajusta la consulta;
 
-XI. Consecuencias de los resultados que arrojaría la consulta.
+XI. Consecuencias de los resultados que arrojaría la consulta;
 
 XII. Las demás disposiciones reglamentarias del procedimiento respectivo y particular que consideren pertinentes.
 
@@ -281,7 +289,9 @@ Al día siguiente de que se declare la procedencia, se notificará a la autorida
 
 El Consejo Electoral, en los casos de referéndum y de plebiscito, tendrá facultades para ampliar o modificar los plazos y términos establecidos en esta ley, cuando a su juicio exista imposibilidad material para realizar dentro de los mismos, los actos para los cuales se prevén, o así resulte conveniente para un mejor y debido cumplimiento de las diversas etapas del procedimiento respectivo.
 
-El acuerdo o acuerdos del Consejo Electoral que determinen ampliaciones o modificaciones a los plazos y términos del procedimiento electoral, se publicarán en el Periódico Oficial "El Estado de Jalisco", o en su caso, en la Gaceta Municipal, dentro de los tres días siguientes a la fecha de su aprobación.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+El acuerdo o acuerdos del Consejo electoral que determinen ampliaciones o modificaciones a los plazos y términos del procedimiento electoral, se publicarán en el Periódico Oficial "El Estado de Jalisco", o en su caso, en la Gaceta Municipal o en el medio oficial de divulgación previsto por el reglamento municipal aplicable, dentro de los tres días siguientes a la fecha de su aprobación.
 
 ### CAPÍTULO III. DE LAS INSTANCIAS CALIFICADORAS Y MUNICIPALES ELECTORALES
 
@@ -297,7 +307,7 @@ Las mesas directivas se integrarán de conformidad a lo que establece la Ley Ele
 
 ###### Artículo 29.
 
-El Consejo Electoral, de conformidad con las necesidades particulares y específicas de cada procedimiento, decidirá el numero y ubicación de las casillas electorales, debiendo establecerse cuando menos una casilla por cada cinco secciones electorales contenidas en el área territorial donde se aplicará el procedimiento.
+El Consejo Electoral, de conformidad con las necesidades particulares y específicas de cada procedimiento, decidirá el número y ubicación de las casillas electorales, debiendo establecerse cuando menos una casilla por cada cinco secciones electorales contenidas en el área territorial donde se aplicará el procedimiento.
 
 ###### Artículo 30.
 
@@ -401,11 +411,15 @@ El Presidente del Consejo Electoral declarará oficialmente los resultados del r
 
 Una vez transcurridos los términos de impugnación y en su caso, causado ejecutoria las resoluciones del Tribunal Electoral del Estado, el Consejo Electoral, remitirá los resultados definitivos al titular del Poder Ejecutivo del Estado, a efecto de que publique dichos resultados en el Periódico Oficial "El Estado de Jalisco"; así mismo remitirá los resultados finales a los medios de comunicación masiva y deberá publicarlos en dos diarios de mayor circulación en el Estado.
 
-El Consejo Electoral notificará al Congreso del Estado, al Poder Ejecutivo del Estado, al ayuntamiento o a los ayuntamientos, según sea el caso, a efecto de que en un plazo no mayor de treinta días, acaten el resultado final del procedimiento de referéndum, cuando éste le haya sido vinculante, y se abstenga de publicar el ordenamiento revocado dentro de los 18 meses siguientes.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+El Consejo Electoral notificará al Congreso del Estado, al Poder Ejecutivo del Estado, al Ayuntamiento o ayuntamientos o a los concejos municipales, según sea el caso, a efecto de que en un plazo no mayor de treinta días, acaten el resultado final del procedimiento de referéndum, cuando éste le haya sido vinculante, y se abstenga de publicar el ordenamiento revocado dentro de los 18 meses siguientes.
 
 Para el caso de los resultados finales del procedimiento de plebiscito, el Consejo Electoral notificará a la autoridad de la que emanó el acto o decisión materialmente administrativa, en un plazo no mayor de 30 días.
 
-Los ayuntamientos, publicarán los resultados a nivel local, a través de los medios de comunicación, en la gaceta municipal o en su caso, en los estrados de la Presidencia Municipal los resultados del plebiscito o del referéndum.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+Los ayuntamientos o concejos municipales publicarán a nivel local, a través de la Gaceta Oficial del municipio o en el medio oficial de comunicación previsto por el reglamento municipal aplicable, los resultados del plebiscito o del referéndum.
 
 ## TÍTULO CUARTO. DE LA INICIATIVA POPULAR
 
@@ -542,5 +556,9 @@ Lic. Raúl Octavio Espinoza Martínez
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 28 DE SEPTIEMBRE DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2000.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
