@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1950-06-17"
+last_updated: "1951-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 1951.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -170,6 +170,8 @@ Los chihuahuenses serán preferidos, en igualdad de circunstancias, a los que no
 ### CAPITULO I.
 
 DE LA ORGANIZACION DEL CONGRESO.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1951)</small>
 
 ###### Art. 20.
 
@@ -341,7 +343,7 @@ DE LA INSTALACION DEL CONGRESO, PERIODOS DE SUS SESIONES Y CARACTER DE SUS DISPO
 
 ###### Art. 40.
 
-El Congreso se compondrá de tantos Diputados como Distritos Electorales haya en el Estado no pudiendo éstos ser menos de nueve. La Ley Electoral dividirá al efecto en Distritos el territorio del Estado, correspondiendo a cada uno no menos de veinte mil ni más de treinta mil habitantes. Por cada Distrito se elegirán popularmente un Diputado Propietario y un Suplente.
+El Congreso se integrará por tantos Diputados como Distritos Electorales haya en el Estado, no pudiendo éstos ser menos de nueve. La Ley Electoral dividirá en Distritos el Territorio del Estado, correspondiendo a cada uno no menos de 30,000 habitantes. Por cada Distrito se elegirá popularmente un Diputado Propietario y un Suplente.
 
 ###### Art. 41.
 
@@ -1271,7 +1273,9 @@ La contabilidad de las Tesorerías Municipales queda sujeta a revisión por los 
 
 La Ley Orgánica determinará los ramos que sean de la competencia de la Administración Municipal. En forma enunciativa y no limitativa, serán de la competencia municipal los siguientes:
 
-I.- En materia de servicios públicos: policía, tránsito, aguas potables, alcantarillado, pavimentación, limpia, alumbrado de la vía pública, rastros, mercados, parques y paseos, jardines públicos, panteones, vías públicas, nomenclatura de calles, construcciones ejecutadas por particulares, planeación, planificación y zonificación, alineamiento, ampliación y ornato de las calles, jardines y paseos, caminos vecinales y todos aquellos que por su naturaleza o declaración de la autoridad competente deban ser considerados como servicios públicos municipales.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 1951)</small>
+
+I.- En materia de servicios públicos: policía, aguas potables, alcantarillado, pavimentación, limpia, alumbrado de la vía pública, rastros, mercados, parques y paseos, jardines públicos, panteones, vías públicas, nomenclatura de calles, construcciones ejecutadas por particulares, planificación y zonificación, alineamiento, ampliación y ornato de las calles, jardines y paseos, caminos vecinales y todos aquellos que por su naturaleza o declaración de la autoridad competente deban ser considerados como servicios públicos municipales.
 
 II.- En materia de acción política gubernativa, castigo de las infracciones de policía; espectáculos públicos; establecimientos fabriles y comerciales en lo que atañe al régimen municipal, y cumplimiento de las disposiciones que le encomienden las leyes federales y del Estado.
 
@@ -1650,3 +1654,17 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 Palacio de Gobierno del Estado. Chihuahua a 16 de junio de 1950.
 
 ING. FERNANDO FOGLIO MIRAMONTES. El Srio. Gral. de Gobierno, ING.- CRISOFORO CABALLERO B.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 2 DE MAYO DE 1951.
+
+PRIMERO.- Estas reformas entran en vigor en todo el territorio del Estado, al día siguiente de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Entre tanto se expide y promulga la Ley General de Tránsito, se repone en vigor la que con igual denominación se promulgó el 16 de febrero de 1948, publicada en suplemento correspondiente al Núm. 32 del Periódico Oficial de 21 de Abril de ese mismo año, arreglándose su vigencia provisional a lo ordenado en el artículo siguiente.
+
+TERCERO.- El Ejecutivo del Estado designará a la persona que, con el carácter de Director General de Tránsito del Estado, controlará el desempeño de las funciones relativas al servicio y será el superior jerárquico de las demás autoridades inferiores de tránsito. Los emolumentos del Director General de Tránsito serán cubiertos por el Erario del Estado con cargo a la Partida de Gastos Extraordinarios de Gobierno mientras se hace a la Ley de Egresos vigente la modificación pertinente.
+
+Los jefes de tránsito, los comandantes de agentes, los oficiales motociclistas y demás personal que actualmente se hallan desempeñando funciones de autoridades de tránsito por nombramiento de los respectivos Ayuntamientos, continuarán en sus puestos subordinados jerárquicamente al Director General de Tránsito. Sus emolumentos seguirán cubriéndose por las Tesorerías Municipales respectivas de acuerdo con los Presupuestos de Egresos vigentes.
+
+CUARTO.- Se derogan todas las leyes y reglamentos que se opongan a la presente Ley Constitucional.
