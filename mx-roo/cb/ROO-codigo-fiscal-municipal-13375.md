@@ -4,7 +4,7 @@ identifier: "ROO-codigo-fiscal-municipal-13375"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-15"
-last_updated: "1997-12-15"
+last_updated: "1998-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO FISCAL MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre 1997.
 
@@ -61,13 +61,19 @@ III.- S.M.G: Por estas siglas se entenderá el salario mínimo general diario vi
 
 Todo lo referente a las contribuciones para cubrir el gasto público de los municipios del estado de Quintana Roo, será establecido en la Ley de Ingresos y de Hacienda de los Municipios del Estado de Quintana Roo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O 15 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 4o.
 
-Son leyes fiscales municipales:
+Además del presente código, son ordenamientos fiscales municipales:
 
-I.- La Ley de Hacienda de los Municipios.
+> <small>(REFORMADA, P.O 15 DE DICIEMBRE DE 1998)</small>
 
-II.- La Ley de Ingresos de los Municipios;
+I.- La Ley de Hacienda de los Municipios del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O 15 DE DICIEMBRE DE 1998)</small>
+
+II.- La Ley de Ingresos de los Municipios del Estado de Quintana Roo;
 
 III.- Las que autoricen ingresos extraordinarios;
 
@@ -103,7 +109,9 @@ II.- DERECHOS: Las contraprestaciones que se fijara conforme a la ley en pago po
 
 III.- PRODUCTOS: Son las contraprestaciones por los servicios que presten los municipios en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes de dominio privado.
 
-IV.- APROVECHAMIENTOS: Son ingresos derivados de rezagos, multas y otros que perciban los municipios por sus funciones de derecho público y cuya naturaleza no sea clasificar como impuesto, derecho o producto;
+> <small>(REFORMADA, P.O EL 15 DE DICIEMBRE DE 1998)</small>
+
+IV.- APROVECHAMIENTOS: Son ingresos derivados de recargos, gastos de ejecución, multas y otros que perciban los municipios por sus funciones de derecho público y cuya naturaleza no sea clasificable como impuesto, derecho o producto;
 
 V.- PARTICIPACIONES: Son recursos que establezcan en favor de los municipios las Leyes Fiscales Federales, estatales o los Convenios de Coordinación en materia fiscal;
 
@@ -151,13 +159,17 @@ Las contribuciones se pagan en las fechas o dentro de los plazos señalados en l
 
 Quien haga pago de contribuciones o créditos fiscales deberá obtener de la oficina autorizada, el recibo oficial o la forma aprobada por las Tesorerías.
 
+> <small>(REFORMADO, P.O 15 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 13.
 
-Los Ayuntamientos tendrán acción real para el cobro del Impuesto Predial y demás prestaciones accesorias y en consecuencia, el Procedimiento Administrativo de Ejecución se aplicará afectando los predios directamente, o cualquier otro bien propiedad del contribuyente que a juicio de la entidad exacto garantice el pago del crédito fiscal omitido así como de sus accesorios legales. Las multas impuestas por infracciones al presente capítulo, se considerarán personales para todos los efectos legales.
+Los Ayuntamientos tendrán acción real para el cobro del Impuesto Predial y demás prestaciones accesorias y en consecuencia, el Procedimiento Administrativo de Ejecución se aplicará afectando los predios directamente, o cualquier otro bien propiedad del contribuyente que a juicio de la autoridad exactora garantice el pago del crédito fiscal omitido así como de sus accesorios legales. Las multas impuestas por infracciones al presente capítulo, se considerarán personales para todos los efectos legales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O 15 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 14.
 
-Para los efectos de esta ley, se entiende por adquisición la que se derive de:
+Se entiende por adquisición la que se derive de:
 
 I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causas de muerte y la aportación a toda clase de asociaciones o sociedades a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges;
 
@@ -273,7 +285,9 @@ VI.- Exhibir y poner a la vista los documentos municipales públicos y privados 
 
 VII.- Proporcionar con veracidad los datos que requiera la Tesorería Municipal;
 
-VIII.- Realizar los pagos y cumplir las obligaciones en la forma y técnica que señala este Código;
+> <small>(REFORMADA, P.O 15 DE DICIEMBRE DE 1998)</small>
+
+VIII.- Realizar los pagos y cumplir las obligaciones en la forma y términos que señala este Código;
 
 IX.- Las demás que señalen las leyes y reglamentos municipales;
 
@@ -293,13 +307,17 @@ I.- Constar por escrito;
 
 II.- El nombre, la denominación o razón social, el domicilio fiscal y el registro al padrón municipal, en su caso:
 
-III.- Señalar la autoridad a la que se dirige actividad o giro comercial, industrial, de servicios o de inversión de capitales;
+> <small>(REFORMADA, P.O 15 DE DICIEMBRE DE 1998)</small>
+
+III.- Señalar la autoridad a la que se dirige. Su actividad o giro comercial, industrial, de servicios o de inversión de capitales;
 
 IV.- Señalar o especificar el propósito de la promoción o declaración y en su caso la determinación de los montos a cubrir, así como de la base graciable (sic) y,
 
 V.- En su caso, el domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas.
 
-Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de tres días a partir de que surta efectos la notificación cumpla con el requisito omitido. En caso de subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
+> <small>(REFORMADO, P.O 15 DE DICIEMBRE DE 1998)</small>
+
+Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de tres días a partir de que surta efectos la notificación cumplan con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
 
 ###### ARTICULO 22.
 
@@ -319,7 +337,9 @@ Las contribuciones y sus accesorios, los productos y aprovechamientos, se causar
 
 Tratándose de contribuciones y accesorios determinados por operaciones con moneda extranjera, se considerará el tipo de cambio o que se trate y no habiendo adquisición, se estará al tipo de cambio que el Banco de México publique en el Diario Oficial de la Federación, el día anterior a aquél en que se causen las contribuciones. Los días en que el Banco de Mexicano publique dicho tipo de cambio, se aplicará el último publicado con anterioridad al día en que se causen las contribuciones.
 
-Se aceptarán como medios de pago los cheques certificados y los giros postales telegráficos o bancarios y demás que autoricen las Tesorerías Municipales. Los pagos que se hagan se aplicarán a los créditos más antiguos, siempre que se trate de la misma contribución y antes del adeudo principal, y a los accesorios en el siguiente orden:
+> <small>(REFORMADO, P.O 15 DE DICIEMBRE DE 1998)</small>
+
+Se aceptarán como medios de pago los cheques certificados o de caja, los giros postales, telegráficos o bancarios; los cheques personales sin certificar deberán ser de la cuenta del deudor y librarse a cargo de instituciones de crédito que se encuentren dentro de la población donde este establecida la autoridad recaudadora y serán recibidos salvo buen cobro. También podrán aceptarse la dación en pago con bienes muebles o inmuebles de la legítima propiedad del deudor, previo avalúo comercial practicado por perito designado por la propia autoridad. Los honorarios correspondientes serán a cargo del deudor. Los pagos que se hagan se aplicarán a los créditos más antiguos, siempre que se trate de la misma contribución y antes del adeudo principal, y a los accesorios en el siguiente orden:
 
 I.- Honorarios y gastos de ejecución;
 
@@ -369,9 +389,11 @@ Si el pago de lo indebido se hubiera efectuado el cumplimiento de actos de autor
 
 La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O 15 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 28.
 
-El monto de las contribuciones fiscales o de las devoluciones de contribuciones o créditos fiscales a cargo del fisco estatal, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor respectivo a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período, entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Los créditos fiscales no se actualizarán por fracciones de mes.
+El monto de las contribuciones fiscales o de las devoluciones de contribuciones o créditos fiscales a cargo del fisco municipal, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor respectivo a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Los créditos fiscales no se actualizarán por fracciones de mes.
 
 Las cantidades actualizadas conservarán la naturaleza jurídica antes de la actualización.
 
@@ -383,7 +405,9 @@ I.- Las personas físicas o morales que adquieren bienes o negociaciones que rep
 
 II.- Los copropietarios, condóminos o poseedores de un bien determinado por el cual se cause un crédito fiscal a favor del municipio;
 
-III.- Los representantes legales, albaceas y apoderados, por los créditos fiscales municipales que dejan de pagar sus representados con motivo del acto jurídico que originó la representación que dejen;
+> <small>(REFORMADA, P.O 15 DE DICIEMBRE DE 1998)</small>
+
+III.- Los representantes legales, albaceas y apoderados, por los créditos fiscales municipales que dejan de pagar sus representados con motivo del acto jurídico que originó la representación que tengan;
 
 IV.- Los retenedores y las personas a quienes las leyes impongan la obligación de recaudar contribuciones a cargo de los contribuyentes, hasta por el monto de dichas contribuciones;
 
@@ -425,11 +449,15 @@ V.- Condonar hasta el 100% de los recargos, siempre y cuando se compruebe que la
 
 No se dará curso a ninguna instancia de condonación después de transcurridos cuarenta y cinco días hábiles contados a partir de la fecha en que se hubiere quedado firme la resolución que impuso la multa, salvo que por pruebas diversas a las presentadas ante las autoridades administrativas o jurisdiccionales, en su caso, se demuestre que no se cometió la infracción o la persona a la que se atribuye no es la responsable, caso en el cual existirá la obligación de condonar la totalidad de la multa impuesta;
 
-VI.- Celebrar convenios con los contribuyentes para determinar el monto de los impuestos que deban y su forma de pago, siempre que impere una situación económica difícil de los sujetos para cubrir la totalidad de los créditos fiscales y que con tales convenios, se facilite el desarrollo de actividades que se traduzcan en mejoramiento económico y social del municipio, siempre y cuando el término para el pago a plazos de dichos convenios no exceda de treinta y seis mensualidades;
+> <small>(REFORMADA, P.O 15 DE DICIEMBRE DE 1998)</small>
+
+VI.- Celebrar convenios con los contribuyentes para determinar el monto de los impuestos que deban y su forma de pago, siempre que impere una situación económica difícil de los sujetos para cubrir la totalidad de los créditos fiscales y que con tales convenios, se facilite el desarrollo de actividades que se traduzcan en mejoramiento económico y social del Municipio, siempre y cuando el término para el pago a plazos de dichos convenios no exceda de veinticuatro mensualidades;
 
 VII.- Conceder mediante resoluciones de carácter general, subsidios o estímulos fiscales a los contribuyentes, siempre y cuando el otorgamiento de estos coadyuve al desarrollo de las actividades económicas, culturales y sociales del Municipio hasta por el 100% del monto del impuesto en los casos de calamidad pública o situación de desastre y;
 
-En los casos no descritos en el artículo anterior, los Presidentes Municipales, podrán otorgar subsidios hasta del 75% de las cuotas de las tarifas o tasas establecidas en la Ley; a excepción de los gravámenes a la propiedad inmobiliaria que estén sujetos a lo que establece el artículo 112 Fracción IV de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADO, P.O 15 DE DICIEMBRE DE 1998)</small>
+
+En los casos no descritos en el artículo anterior, los Presidentes Municipales, podrán otorgar subsidios hasta del 75% de las cuotas, de las tarifas o tasas establecidas en la Ley; a excepción de los gravámenes a la propiedad inmobiliaria que estén sujetos a lo que establece el artículo 115 Fracción IV de la Constitución Política de los Estados Unidos Mexicanos;
 
 VIII.- Tramitar y resolver los asuntos y recursos que ante él se presentan conforme a las leyes y reglamentos fiscales;
 
@@ -461,9 +489,11 @@ IX.- Reducir las multas fiscales que hayan quedado firmes siempre y cuando se ac
 
 X.- Las demás que le correspondan conforme a las leyes, reglamentos y acuerdos del Presidente Municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O 15 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 33.
 
-Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de treinta y seis meses. Las contribuciones omitidas y sus accesorios se actualizarán a partir de los meses en que debieron haber pagado hasta aquél en que se conceda la autorización. Cada parcialidad se actualizará, desde esta última fecha, hasta el mes en que cada parcialidad se pague. Durante el plazo concedido se causarán recargos por prórroga según la tasa que para estos efectos publique la Secretaría de Hacienda y Crédito Público en el Diario Oficial de la Federación, por cada mes o fracción sobre el saldo insoluto, incluyendo accesorios. Dicho saldo se actualizará desde la fecha de autorización del pago en parcialidades hasta el mes por el que se calculan los recargos.
+Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazo, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de veinticuatro meses. Las contribuciones omitidas y sus accesorios se actualizarán a partir de los meses en que debieron haber pagado hasta aquél en que se conceda la autorización. Cada parcialidad se actualizará, desde esta última fecha, hasta el mes en que cada parcialidad se pague. Durante el plazo concedido se causarán recargos por prórroga según la tasa que para estos efectos publique la Secretaría de Hacienda y Crédito Público en el Diario Oficial de la Federación, por cada mes o fracción sobre el saldo insoluto, incluyendo accesorios. Dicho saldo se actualizará desde la fecha de autorización del pago en parcialidades hasta el mes por el que se calculan los recargos.
 
 Las autoridades fiscales, al autorizar el pago a plazos, exigirán se garantice el interés fiscal.
 
@@ -545,6 +575,14 @@ III.- Embargar precautoriamente los bienes o la negociación cuando el contribuy
 
 En el caso de la fracción II y agotados los actos señalados en la misma, se pondrán los hechos y conocimientos de la autoridad competente, para que se proceda por desobediencia a mandato legitimo a la autoridad competente.
 
+> <small>(ADICIONADO, P.O 15 DE DICIEMBRE DE 1998)</small>
+
+La (sic) oficinas a que se refiere el primer párrafo de este artículo recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban sin hacer observaciones, ni objeciones y devolverán copia sellada a quien los presente. Unicamente se podrá rechazar la presentación cuando no contenga el nombre, denominación o razón social del contribuyente, su clave de registro federal de contribuyentes, su domicilio fiscal o no aparezcan debidamente firmados, no acompañen los anexos o tratándose de declaraciones, estas contengan errores aritméticos. En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios. La recepción de los mencionados documentos no presume el correcto cumplimiento o pago del crédito fiscal, por parte del contribuyente.
+
+> <small>(ADICIONADO, P.O 15 DE DICIEMBRE DE 1998)</small>
+
+Lo dispuesto en este precepto, no limita las facultades de revisión y comprobación de las autoridades fiscales.
+
 ###### ARTICULO 42.
 
 Las autoridades fiscales de los Municipios, a fin de comprobar que los contribuyentes o responsables solidarios han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la omisión o delitos fiscales, estarán facultadas para:
@@ -597,7 +635,7 @@ Los visitados, sus representantes o la persona con quien se entienda la visita e
 
 Los visitadores podrán recoger la contabilidad para examinarla en las oficinas de la autoridad fiscal, cuando se dé (sic) algunos de los siguientes supuestos:
 
-I.- El visitado, su representante o quien se encuentre en el lugar de la visita se niegue a recibir la orden;
+I.- El visitado, su representante o quien se encuentre en el lugar de la visita se niegue a recibir la orden ;
 
 II.- Existan sistemas dé contabilidad, registros o libros sociales que no estén sellados cuando deban estarlo conforme a las disposiciones fiscales;
 
@@ -665,7 +703,7 @@ IV.- La resolución que determine las contribuciones omitidas se notificará en 
 
 ###### ARTICULO 49.
 
-Las autoridades fiscales tienen facultades para verificar o calificar la capacidad tributaria de los contribuyentes cuando esto sea necesario, y en todo caso, para recaudar los ingresos y reconocer la existencia de exenciones fijadas por la Ley.
+Las autoridades fiscales tienen facultades para verificar o calificar la capacidad tributaria de los contribuyentes cuando ésto sea necesario, y en todo caso, para recaudar los ingresos y reconocer la existencia de exenciones fijadas por la Ley.
 
 ###### ARTICULO 50.
 
@@ -1027,7 +1065,11 @@ Al que viole, deteriore o destruya los sellos o marcas colocados por autoridades
 
 Se impondrá prisión de tres meses a tres años a los servidores públicos que ordenen o practiquen intervenciones o embargos, sin mandamiento escrito de autoridad fiscal competente.
 
-## TITULO SEXTO (SIC). DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1998)</small>
+
+TITULO QUITO
+
+DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
 ### CAPITULO I. DE LOS RECURSOS ADMINISTRATIVOS
 
@@ -1063,7 +1105,9 @@ Si las violaciones tuvieran lugar con posterioridad a la mencionada convocatoria
 
 El escrito de interposición de recursos deberá presentarse ante la autoridad competente en razón del domicilio del contribuyente o ante la que emitió o ejecutó el acto impugnado, dentro del término de cuarenta y cinco días siguientes a aquél en que haya surtido efecto su notificación.
 
-Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, se suspenderá hasta un año, si antes no se hubiere aceptado el cargo de representante de la sucesión.
+> <small>(REFORMADO, P.O 15 DE DICIEMBRE DE 1998)</small>
+
+Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, se prorrogará hasta un año, previa presentación del acta de defunción, si antes no se hubiere aceptado el cargo de representante de la sucesión.
 
 En los casos de incapacidad o declaración de ausencia, decretadas por autoridad judicial, cuando el particular se encuentre afectado por un acto o resolución administrativa, se suspenderá el plazo para interponer el recurso de revocación hasta por un año.
 
@@ -1081,9 +1125,11 @@ III.- Las pruebas y los hechos controvertidos de que se trate.
 
 Cuando no se haga alguno de los señalamientos de las fracciones I y II de este artículo, la autoridad fiscal desechará como improcedente el recurso interpuesto. Si se omiten los de la fracción III, se tendrán por no ofrecidas las pruebas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O 15 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 98.
 
-El promovente deberá acompañar al escrito en que se interponga el recurso, de:
+El promovente deberá acompañar al escrito en que se interponga el recurso, lo siguiente:
 
 I.- Los documentos que acrediten su personalidad cuando actúe en nombre de otro o de personas morales;
 
@@ -1117,9 +1163,11 @@ V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso 
 
 VI.- Que, hayan sido revocados por la autoridad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 100.
 
-El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá hacer valer recurso de revocación en cualquier tiempo antes de que se finque el remate, se enajene fuera de remate o se adjudiquen los bienes a favor del fisco Federal.
+El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá hacer valer el recurso de revocación en cualquier tiempo antes de que se finque el remate, se enajene fuera de remate o se adjudiquen los bienes a favor del fisco municipal.
 
 El tercero que afirme tener derecho a que los créditos en su favor se cubran preferentemente a los fiscos municipales, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe de remate para cubrir el crédito fiscal.
 
@@ -1275,7 +1323,7 @@ V.- Embargo en la vía administrativa.
 
 La garantía deberá comprender además de las contribuciones adeudadas, los accesorios causados, así como los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá ampliarse la garantía para que cubra el crédito y el importe de los recargos, incluso los correspondientes a los doce mese (sic) siguientes.
 
-El Tesorero Municipal podrá dispensar las garantías del interés fiscal cuando, en relación con el monto del crédito respectivo, sean (sic) notaría (sic) la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
+El Tesorero Municipal podrá dispensar las garantías del interés fiscal cuando, en relación con el monto del crédito respectivo, sean (sic) notaría(sic) la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
 
 ###### ARTICULO 114.
 
@@ -1400,6 +1448,10 @@ Las erogaciones extraordinarias únicamente podrán comprender los gastos de tra
 La autoridad recaudadora vigilará que las erogaciones extraordinarias a que se refiere el párrafo anterior sean las estrictamente indispensables y que no excedan a las contraprestaciones normales del mercado, debiendo contratar a las personas que designe el contribuyente, salvo que a juicio de la autoridad ejecutora la persona propuesta no tenga los medios para prestar el servicio o exista peligro de que el depositario se ausente, enajene, oculte los bienes o realice maniobras tendientes a evadir el cumplimiento de sus obligaciones.
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora debiendo pagarse junto con las contribuciones omitidas y demás accesorios, en los términos de las disposiciones de éste Código.
+
+> <small>(ADICIONADO, P.O 15 DE DICIEMBRE DE 1998)</small>
+
+Los honorarios y gastos de ejecución a que aluden las tarifas que anteceden, no son condonables, ni objeto de convenio alguno con la hacienda pública municipal, pasará a formar parte del fondo de administración tributaria, de la Tesorería Municipal y será distribuido de conformidad con la reglamentación y porcentajes que al efecto determine la propia Tesorería municipal.
 
 #### SECCION SEGUNDA. DEL EMBARGO Y CLAUSURA
 
@@ -1814,3 +1866,11 @@ ING. MARIO E. VILLANUEVA MADRID.
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 DR. HECTOR ESQUILANO SOLIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O 15 DE DICIEMBRE DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
