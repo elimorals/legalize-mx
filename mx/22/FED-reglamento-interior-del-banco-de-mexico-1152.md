@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "1996-05-24"
+last_updated: "1996-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE SEPTIEMBRE DE 1996.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -53,7 +53,7 @@ El Secretario será asistido en sus funciones por un Prosecretario, quien ademá
 
 Las actas de las sesiones de la Junta, se levantarán y conservarán en los términos acordados por ésta, serán firmadas por los miembros asistentes y por el Secretario, debiéndose conservar un ejemplar de los documentos que hubieran sido relacionados en la sesión correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE MARZO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE SEPTIEMBRE DE 1996)</small>
 
 ###### ARTICULO 4o.
 
@@ -73,9 +73,13 @@ Dirección de Disposiciones de Banca Central.
 
 Dirección de Organismos y Acuerdos Internacionales.
 
+Dirección de Supervisión de Fideicomisos de Fomento.
+
 Dirección de Operaciones.
 
 Dirección de Sistemas Operativos de Banca Central.
+
+Dirección de Trámite Operativo.
 
 Dirección de Estudios Económicos
 
@@ -85,9 +89,7 @@ Dirección de Análisis Macroeconómico.
 
 Dirección de Información Económica
 
-Dirección de Intermediarios Financieros Privados.
-
-Dirección de Intermediarios Financieros de Fomento.
+Dirección de Intermediarios Financieros.
 
 Dirección de Administración.
 
@@ -97,7 +99,9 @@ Dirección Jurídica.
 
 Dirección de Sistemas.
 
-Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. Las Direcciones de Emisión, Disposiciones de Banca Central y Organismos y Acuerdos Internacionales, dependerán del Gobernador.
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 1996)</small>
+
+Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. Las Direcciones de Emisión, Disposiciones de Banca Central, Organismos y Acuerdos Internacionales, así como de Supervisión de Fideicomisos de Fomento, dependerán del Gobernador.
 
 > <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1996)</small>
 
@@ -163,21 +167,23 @@ La Dirección General de Operaciones de Banca Central tendrá las atribuciones q
 
 A esta Dirección General estarán adscritas la Dirección de Operaciones, la de Sistemas Operativos de Banca Central y la de Trámite Operativo.
 
-> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE SEPTIEMBRE DE 1996)</small>
 
 ###### ARTICULO 13.
 
-La Dirección General de Investigación Económica tiene las atribuciones señaladas en los artículos 21 a 23 Bis.
+La Dirección General de Investigación Económica tendrá las atribuciones señaladas en los artículos 21 a 24.
+
+> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1996)</small>
 
 A esta Dirección General estarán adscritas las Direcciones de Estudios Económicos, Medición Económica, Análisis Macroeconómico e Información Económica.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE MARZO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 1996)</small>
 
 ###### ARTICULO 14.
 
-La Dirección General de Análisis del Sistema Financiero tendrá las atribuciones señaladas en los artículos 24, 25, así como las relativas al desempeño en los fideicomisos Fondo Bancario de Protección al Ahorro y Fondo de Apoyo al Mercado de Valores.
+La Dirección General de Análisis del Sistema Financiero tendrá las atribuciones señaladas en el artículo 25, así como las relativas al desempeño en los fideicomisos Fondo Bancario de Protección al Ahorro y Fondo de Apoyo al Mercado de Valores.
 
-A esta Dirección General estarán adscritas la Dirección de Intermediarios Financieros Privados y la de Intermediarios Financieros de Fomento.
+A esta Dirección General estarán adscritas la Dirección de Intermediarios Financieros.
 
 ###### ARTICULO 15.
 
@@ -244,6 +250,20 @@ IV. Coadyuvar con las autoridades financieras en la negociación y formalizació
 V. Atender, en el ámbito de su competencia, las consultas que presenten las dependencias del Gobierno Federal, y
 
 VI. Operar sistemas de información con organismos internacionales.
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 1996)</small>
+
+ARTICULO 18 BIS.- La Dirección de Supervisión de Fideicomisos de Fomento, tendrá las atribuciones siguientes:
+
+I. Supervisar el desempeño de las funciones encomendadas al Banco como Fiduciario en el Fondo de Operación y Financiamiento Bancario a la Vivienda, Fondo para el Desarrollo Comercial, Fondo de Garantía y Fomento para las Actividades Pesqueras, Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, Fondo Especial para Financiamientos Agropecuarios y Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios;
+
+II. Requerir a los fideicomisos de fomento económico a que se refiere la fracción inmediata anterior, la información necesaria para evaluar la operación de éstos;
+
+III. Atender consultas de las entidades señaladas en la fracción I de este artículo, en relación con las disposiciones financieras, cuya supervisión corresponda al Banco;
+
+IV. Coadyuvar con las autoridades competentes, en las negociaciones tendientes a la obtención de recursos por parte de las entidades señaladas en la referida fracción I, y
+
+V. Coadyuvar, con las autoridades competentes, en la imposición de las sanciones y en la supervisión de las entidades a que se refiere la multicitada fracción I de este artículo.
 
 ###### ARTICULO 19.
 
@@ -319,19 +339,25 @@ La Dirección de Análisis Macroeconómico estará facultada para recabar y proc
 
 También contará con la atribución de comercializar publicaciones, reportes y demás instrumentos de divulgación vinculados a las materias mencionadas en el párrafo anterior.
 
-> <small>(ADICIONADO, D.O.F. 28 DE MARZO DE 1996)</small>
+ARTICULO 23 BIS.- (DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 1996)
 
-ARTICULO 23 BIS. La Dirección de Información Económica estará facultada para recabar y procesar información relacionada con los índices de precios, salarios y formación de capital de las actividades económicas del país, así como para establecer los sistemas de procesamiento, manejo y diseminación de información económica y financiera.
-
-También contará con la atribución de comercializar publicaciones, reportes y demás instrumentos de divulgación vinculados a las materias señaladas en este artículo.
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 1996)</small>
 
 ###### ARTICULO 24.
 
-La Dirección de Intermediarios Financieros Privados, tendrá las atribuciones siguientes:
+La Dirección de Información Económica estará facultada para recabar y procesar información relacionada con los índices de precios, salarios y formación de capital de las actividades económicas del país, así como para establecer los sistemas de procesamiento, manejo y diseminación de información económica y financiera.
+
+También contará con la atribución de comercializar publicaciones, reportes y demás instrumentos de divulgación vinculados a las materias señaladas en este artículo.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 1996)</small>
+
+###### ARTICULO 25.
+
+La Dirección de Intermediarios Financieros, tendrá las atribuciones siguientes:
 
 I. Participar en las operaciones de financiamiento del Banco al Gobierno Federal, a las instituciones de crédito, al Fondo Bancario de Protección al Ahorro y al Fondo de Apoyo al Mercado de Valores;
 
-II. Requerir a los intermediarios financieros, distintos a los señalados en la fracción I del artículo 25, así como a las sociedades controladoras de éstos, la información que considere conveniente para evaluar su funcionamiento;
+II. Requerir a los intermediarios financieros, distintos de los señalados en el artículo 18 bis, así como a las sociedades controladoras de éstos, la información que considere conveniente para evaluar su funcionamiento;
 
 III. Supervisar, en el ámbito de la competencia del Banco, a las empresas citadas en la fracción anterior, verificando su apego a las disposiciones y sanas prácticas financieras;
 
@@ -340,22 +366,6 @@ IV. Coadyuvar, con las autoridades competentes, en los procesos relativos a la d
 V. Atender consultas de los particulares en relación con las disposiciones financieras, cuya supervisión corresponda al Banco, y
 
 VI. Publicar información de carácter económico y financiero.
-
-> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1996)</small>
-
-###### ARTICULO 25.
-
-La Dirección de Intermediarios Financieros de Fomento, tendrá las atribuciones siguientes:
-
-I. Dirigir, supervisar y coordinar las funciones encomendadas al Banco como Fiduciario en el Fondo de Operación y Financiamiento Bancario a la Vivienda, Fondo para el Desarrollo Comercial, Fondo de Garantía y Fomento para las Actividades Pesqueras y en los fideicomisos instituidos en relación a la agricultura, que son Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura; Fondo Especial para Financiamientos Agropecuarios y Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios;
-
-II. Requerir a las instituciones de banca de desarrollo y a los fideicomisos de fomento económico a que se refiere la fracción I, la información necesaria para evaluar la operación de éstos;
-
-III. Atender consultas de las entidades señaladas en el párrafo anterior con relación a las disposiciones financieras, cuya supervisión corresponda al Banco;
-
-IV. Coadyuvar con las autoridades competentes en las negociaciones tendientes a la obtención de recursos por parte de las entidades señaladas en la fracción II de este artículo, y
-
-V. Coadyuvar con las autoridades competentes en la imposición de las sanciones y en la supervisión de las entidades a que se refiere la fracción II de este artículo.
 
 ###### ARTICULO 26.
 
@@ -724,3 +734,7 @@ Las presentes reformas, adición y derogación entrarán en vigor a partir de la
 D.O.F. 24 DE MAYO DE 1996.
 
 UNICO.- Las presentes reformas y adición entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE SEPTIEMBRE DE 1996.
+
+UNICO.- Las presentes reformas, derogación y adición entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
