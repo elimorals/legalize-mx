@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1955-08-20"
+last_updated: "1962-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1955.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1962.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -725,19 +725,17 @@ El Secretario General, mientras funcione con este carácter, no podrá ejercer l
 
 Del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1962)</small>
 
 ###### Artículo 67.
 
-El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Tribunal para Menores y demás Autoridades que designe la Ley Orgánica del Poder Judicial.
+El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Jueces Menores, Jueces de Paz, Tribunal para Menores y Jurados.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1954)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1962)</small>
 
 ###### Artículo 68.
 
-El Supremo Tribunal de Justicia se compone de dos Magistrados Propietarios, un Supernumerario y dos Suplentes; funcionará en Tribunal Pleno o dividido en Salas Unitarias, en los términos que disponga la ley. Las audiencias del Tribunal Pleno y de las Salas serán públicas, excepto aquellas en que la moral o el interés público exijan que sean secretas. El Supremo Tribunal de Justicia designará a uno de sus miembros como Presidente y este durará en su cargo un año y podrá ser reelecto.
-
-Las competencias y funciones que correspondan al Presidente, al Pleno y a las Salas del Supremo Tribunal, serán las que fije la Ley Orgánica del Poder Judicial.
+El Supremo Tribunal de Justicia funcionará en Acuerdo Pleno o en Sala, y estará integrado con el número de Magistrados que fije la Ley Orgánica del mismo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
@@ -1686,3 +1684,7 @@ Este Decreto surtirá sus efectos legales a partir de la fecha de su publicació
 P.O. 20 DE AGOSTO DE 1955.
 
 Estas reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado, derogándose todas aquellas disposiciones que se les opongan.
+
+P.O. 3 DE FEBRERO DE 1962.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
