@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-instituto-de-credito-para-los-trabajadores-al-6640"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-04"
-last_updated: "1984-01-04"
+last_updated: "2000-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL INSTITUTO DE CREDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -51,41 +51,49 @@ LEY DEL INSTITUTO DE CREDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL 
 
 ### CAPITULO I. DEL OBJETO Y LOS SUJETOS DE LA LEY
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 1o.
 
-Se crea un Instituto denominado "Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado", tendiente a mejorar las condiciones económicas de los servidores públicos del Gobierno del Estado de Morelos.
+Se crea un Instituto denominado "Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado", con el objeto de mejorar integralmente las condiciones de vida de los trabajadores del Gobierno del Estado de Morelos.
 
 ###### ARTICULO 2o.
 
 Al Instituto de Crédito para los servidores públicos del Gobierno del Estado se le reconoce el carácter de organismo público descentralizado Estatal, con personalidad jurídica, patrimonio, órgano de Gobierno y Administración Propia, con domicilio en la Ciudad de Cuernavaca, Morelos.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley se le denominará el Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado, como "EL INSTITUTO" y a los Trabajadores al Servicio del Estado, como "LOS TRABAJADORES".
+Para los efectos de esta Ley se denominará al Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado, como "EL INSTITUTO" y a los Servidores Públicos y a los Trabajadores al Servicio del Estado, como "LOS TRABAJADORES".
 
 ###### ARTICULO 4o.
 
 "EL INSTITUTO" tendrá por objeto otorgar préstamos Quirografarios, Especiales e Hipotecarios a los servidores públicos del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 5o.
 
 Son sujetos de esta Ley con las obligaciones y derechos que la misma impone:
 
-1.- El Gobierno del Estado de Morelos;
+I.- Los tres Poderes del Gobierno del Estado de Morelos;
 
-2.- Las Instituciones y Organismos Públicos, coordinados y descentralizados de carácter Estatal, siempre que no estén afectos a un régimen distinto;
+II.- Las Instituciones y Organismos Públicos, coordinados y descentralizados de carácter estatal, siempre que no estén afectos a un régimen distinto; y
 
-3.- Los Servidores Públicos al Servicio del Estado con nombramientos de vigencia indefinida, los de Base, los de Confianza y Supernumerarios; y,
-
-4.- Los Magistrados del H. Tribunal Superior de Justicia.
+III.- Los servidores públicos o trabajadores al servicio del Estado que desempeñen un empleo, cargo o comisión de vigencia determinada o indefinida, de base, de confianza o supernumerario.
 
 ###### ARTICULO 6o.
 
 Quedan excluidos de los beneficios de esta Ley, los Trabajadores a Lista de Raya, los sujetos a Contrato Civil o Laboral y los que desempeñen actividades eventuales o los de emergencia.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 7o.
 
-La observancia de esta Ley es obligatoria para las Entidades Públicas, Trabajadores y Organismos Coordinados y descentralizados y sus Trabajadores, requiriéndose de estas últimas Convenio previo formalizado con el Instituto para su afiliación.
+La observancia de esta Ley será obligatoria para las Entidades públicas y sus trabajadores cuando formalicen convenio con el Instituto para su afiliación.
+
+El Instituto podrá celebrar convenios con los Ayuntamientos de la Entidad para otorgar parcial o totalmente las prestaciones consignadas en esta Ley.
 
 ### CAPITULO II. EL INSTITUTO, SU PATRIMONIO Y DE LAS OBLIGACIONES ECONOMICAS
 
@@ -229,6 +237,10 @@ Sección 3a. DE LOS PRESTAMOS HIPOTECARIOS.
 
 Los Trabajadores con más de tres años de cotización al Instituto, tendrán derecho a préstamos hipotecarios, los que serán otorgados por acuerdo expreso del Consejo Directivo y serán destinados exclusivamente a resolver el problema de la habitación familiar.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2000)</small>
+
+El Instituto podrá contratar, con asesoría de la Secretaría de Desarrollo Urbano y Obras Públicas del Gobierno del Estado de Morelos, el desarrollo de programas de vivienda que satisfagan la demanda de sus trabajadores.
+
 ###### ARTICULO 33.
 
 Los préstamos Hipotecarios se destinarán exclusivamente a:
@@ -245,13 +257,23 @@ IV.- Para pagos de gravámenes que soporte el inmueble.
 
 El préstamo Hipotecario se cubrirá en un plazo no mayor de quince años, con las amortizaciones mensuales que fije el Consejo Directivo y que no excederá del 50% de las percepciones sobre las que se practiquen los descuentos para el Instituto. Podrán exceptuarse de la anterior disposición los Trabajadores que comprueben tener otros ingresos permanentes computables, en cuyo caso el monto del descuento será proporcional a la suma de sus ingresos totales.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 35.
 
-Los préstamos Hipotecarios causarán un interés anual del 15% sobre saldos insolutos, sobre el cual el Instituto determinará el monto que habrá de destinar para integrar el Fondo de Reserva a que se refiere el Artículo 27 de la presente Ley.
+Los préstamos hipotecarios que otorgue el Instituto a los trabajadores, causarán un interés anual ordinario sobre saldos insolutos, conforme a la siguiente tasa anual:
+
+a).- La tasa aplicable a los trabajadores cuyo sueldo básico de cotización sea de 1 a 2 salarios mínimos mensuales vigentes en el Estado será del 6.0%.
+
+b).- La tasa aplicable a los trabajadores cuyo sueldo básico de cotización sea de 2.05 a 3 salarios mínimos mensuales vigentes en el Estado será del 8.0%; y
+
+c).- La tasa aplicable a los trabajadores cuyo sueldo básico de cotización sea de 3.05 ó más salarios mínimos mensuales vigentes en el Estado será del 10.0%.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 36.
 
-Los préstamos Hipotecarios no excederán del 80% del valor comercial del inmueble, conforme al avalúo que formule el Instituto o alguna Institución Bancaria. El 20% restante deberá cubrirlo o garantizarlo a satisfacción del Instituto, el solicitante del préstamo.
+Los préstamos hipotecarios que se otorguen a los trabajadores cubrirán hasta el 100% del valor comercial del inmueble, conforme al avalúo que formule el Instituto o alguna Institución Bancaria, el cual no excederá en ningún caso del valor que el Consejo Directivo del Instituto determine anualmente. En caso de que los trabajadores lo solicitaren, el préstamo hipotecario podrá ampliarse hasta un 10% más del monto aprobado para cubrir los gastos de escrituración e impuesto que genere la compraventa.
 
 ###### ARTICULO 37.
 
@@ -278,6 +300,10 @@ Todo aquel que solicite un préstamo hipotecario está obligado a cumplir con lo
 ###### ARTICULO 40.
 
 Los préstamos Hipotecarios destinados a la construcción o compra de casas-habitación solo se concederán, en su caso, a quien demuestre, a satisfacción del Instituto, carecer de una casa-habitación de su propiedad.
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO] P.O. 23 DE AGOSTO DE 2000)</small>
+
+Los bienes inmuebles adjudicados judicial o extrajudicialmente al Instituto por la recuperación de créditos podrán enajenarse a los trabajadores de acuerdo con los procedimientos para el otorgamiento de créditos hipotecarios, debiendo satisfacerse los requisitos previstos en esta Ley y su reglamento.
 
 ###### ARTICULO 41.
 
@@ -333,7 +359,7 @@ f).- Revisar los estados contables mensuales y los balances anuales del patrimon
 
 g).- Proponer al Ejecutivo del Estado los proyectos de reformas a esta Ley y la expedición de sus reglamentos.
 
-h).- Conferir poderes o representaciones especiales.
+h).- (DEROGADO, P.O. 23 DE AGOSTO DE 2000)
 
 i).- Acordar o realizar todos aquellos actos que sean convenientes para la mejor administración del Instituto.
 
@@ -341,7 +367,9 @@ i).- Acordar o realizar todos aquellos actos que sean convenientes para la mejor
 
 El Director del Instituto tendrá las obligaciones y facultades siguientes:
 
-I.- Representar al Instituto en los asuntos administrativos y judiciales.
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2000)</small>
+
+I.- Representar al Instituto ante toda clase de autoridades y personas de derecho público o privado, con todas las facultades, aún aquellas que requieran autorización especial, que corresponden a los apoderados generales para pleitos y cobranzas, actos de administración y de riguroso dominio en términos del artículo 2762 del Código Civil del Estado de Morelos;
 
 II.- Presentar a la consideración del Consejo Directivo:
 
@@ -363,7 +391,17 @@ VI.- Despachar los acuerdos del Consejo y la correspondencia del Instituto.
 
 VII.- Informar cada año al Consejo Directivo en los primeros diez días del mes de Enero, del estado financiero del patrimonio y del cumplimiento de las obligaciones económicas a cargo del Instituto.
 
-VIII.- Todas las demás que le confiere la presente Ley o le señale el Consejo Directivo.
+> <small>(REFORMADA, [N. DE E. ADICIONADA] P.O. 23 DE AGOSTO DE 2000)</small>
+
+VIII.- Otorgar, sustituir y revocar poderes generales y especiales, con todas las facultades, aún las que requieran cláusula especial;
+
+> <small>(REFORMADA, [N. DE E. ADICIONADA] P.O. 23 DE AGOSTO DE 2000)</small>
+
+IX.- Presentar denuncias, formular querellas y otorgar perdón, así como ejercitar y desistirse de acciones judiciales aún las del juicio de amparo y formular y absolver posiciones; y
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2000)</small>
+
+X.- Todas las demás que le confiera la presente Ley o le señale el Consejo Directivo.
 
 T R A N S I T O R I O S :
 
@@ -422,3 +460,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 Lic. David Jiménez González
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE AGOSTO DE 2000.
+
+PRIMERO.- Aprobado que sea el presente Decreto, túrnese al titular del Poder Ejecutivo del Estado, para efectos de su publicación correspondiente.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+TERCERO.- Los porcentajes previstos en este Decreto, serán aplicables a los créditos hipotecarios que se otorguen a partir del inicio de la vigencia del presente Decreto.
