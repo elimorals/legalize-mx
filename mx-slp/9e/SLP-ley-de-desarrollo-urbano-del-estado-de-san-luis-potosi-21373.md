@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2002-07-09"
+last_updated: "2003-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2003.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -221,9 +221,9 @@ El Estado y los Ayuntamientos en el ámbito de sus respectivas competencias, fij
 
 La sociedad organizada participará en la planeación, ejecución, control y vigilancia de las acciones del desarrollo urbano, en los términos que se contemplan en las disposiciones correspondientes de esta Ley, conforme a las reglas generales siguientes:
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2003)</small>
 
-I. Intervención en el procedimiento para la elaboración, evaluación y cumplimiento de los Planes de Desarrollo Urbano, a través del Consejo Consultivo Estatal de Desarrollo Urbano, y de los Consejos Consultivos Municipales de Desarrollo Urbano respectivos, y
+I. Intervención en el procedimiento para la elaboración, evaluación y cumplimiento de los Planes de Desarrollo Urbano, a través del Consejo Consultivo Estatal de Desarrollo Urbano y Vivienda, y de los Consejos Consultivos Municipales de Desarrollo Urbano respectivos, y
 
 II. Expresión de su opinión y en su caso, de conformidad respecto de los usos que, cuando existan planos de zonificación secundaria, se asignen a los predios comprendidos en manzanas, colonias y distritos.
 
@@ -527,15 +527,19 @@ La formulación, revisión, ejecución, control y evaluación de los Planes de D
 
 Para los efectos de ésta Ley, son organismos de participación social y de consulta:
 
-I. El Consejo Consultivo Estatal de Desarrollo Urbano o el Comité de Planeación de Desarrollo;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2003)</small>
+
+I. El Consejo Consultivo Estatal de Desarrollo Urbano y Vivienda o el Comité de Planeación de Desarrollo;
 
 II. Los Consejos Consultivos Municipales de Desarrollo Urbano o los Comités de Planeación del Desarrollo Municipal, y
 
 III. Los organismos que se constituyan para la conservación y mejoramiento de sitios y fincas, afectos al patrimonio cultural del Estado, conforme a las disposiciones de ésta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 22.
 
-Para los efectos de ésta Ley, el Consejo Consultivo Estatal de Desarrollo Urbano se integrará por:
+Para los efectos de esta Ley, el Consejo Consultivo Estatal de Desarrollo Urbano y Vivienda se integrará por:
 
 I. Un Presidente, que será el Gobernador del Estado;
 
@@ -565,9 +569,11 @@ a) Un representante por cada ayuntamiento, quienes con voz y voto intervendrán 
 
 b) Un representante por cada uno de los consejeros y/o integrante del Comité de Planeación del Desarrollo Municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 23.
 
-El Consejo Consultivo Estatal de Desarrollo Urbano tendrá las siguientes atribuciones:
+El Consejo Consultivo Estatal de Desarrollo Urbano y Vivienda tendrá las siguientes atribuciones:
 
 I. Emitir opiniones y formular propuestas concensadas (sic) sobre conducción, orientación y evaluación de la política de ordenación territorial y de desarrollo urbano;
 
@@ -589,19 +595,25 @@ IX. Colaborar en la búsqueda de la permanencia de los usos de suelo en los asen
 
 X. Coordinarse con los Consejos Consultivos Municipales de Desarrollo Urbano o Institutos Municipales de Planeación Urbana, y
 
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2003)</small>
+
+XI. Llevar a cabo la coordinación intergubernamental y social para la instrumentación, seguimiento y evaluación de los compromisos y acciones establecidas en el Convenio de Coordinación para el Desarrollo de la Vivienda y del Suelo, que suscriben cada año el Gobierno Federal y el Gobierno del Estado;
+
 > <small>(ADICIONADA, P.O. 9 DE JULIO DE 2002)</small>
 
-XI. Apoyar a los ayuntamientos a fin de promover la constitución de los Consejos de Colaboración Municipal;
+XII. Apoyar a los ayuntamientos a fin de promover la constitución de los Consejos de Colaboración Municipal;
 
 > <small>(ADICIONADA, P.O. 9 DE JULIO DE 2002)</small>
 
-XII. Convocar a los ayuntamientos y a los Consejos de Colaboración Municipal, para que por medio de los representantes que designen, participen en el Consejo cuando en él se planteen programas, planes y acciones que afecten una región, un grupo de municipios, o a un municipio en particular, y
+XIII. Convocar a los ayuntamientos y a los Consejos de Colaboración Municipal, para que por medio de los representantes que designen, participen en el Consejo cuando en él se planteen programas, planes y acciones que afecten una región, un grupo de municipios, o a un municipio en particular, y
 
-XIII. Las demás que sean necesarias para el cumplimiento de sus funciones.
+XIV. Las demás que sean necesarias para el cumplimiento de sus funciones.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 24.
 
-El Consejo Consultivo Estatal de Desarrollo Urbano, será una instancia permanente de participación social para la asesoría y consulta del Ejecutivo Estatal, en materia de ordenación territorial de los asentamientos humanos y desarrollo urbano de los centros de población.
+El Consejo Consultivo Estatal de Desarrollo Urbano y Vivienda, será una instancia permanente de participación social para la asesoría y consulta del Ejecutivo Estatal, en materia de ordenación territorial de los asentamientos humanos y desarrollo urbano de los centros de población.
 
 ###### ARTICULO 25.
 
@@ -1707,7 +1719,7 @@ IV. Zonas Típicas: Aquellas áreas que por su aspecto peculiar contienen un nú
 
 V. Lugares de bellezas naturales: Los sitios cuyas características de flora y fauna requieran de conservación y mejoramiento, y
 
-VI. Inventario: El catálogo de los bienes muebles e inmuebles clasificados por su reelevancia (sic) arqueológica, histórica, arquitectónica, artística y natural en el Estado.
+VI. Inventario: El catálogo de los bienes muebles e inmuebles clasificados por su reelevancia (sic)arqueológica, histórica, arquitectónica, artística y natural en el Estado.
 
 ###### ARTICULO 97.
 
@@ -3606,3 +3618,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales que se opongan al presente Decreto.
 
 TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos por las autoridades competentes en los términos de las disposiciones que se derogan.
+
+P.O. 1 DE FEBRERO DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales que se opongan al presente Decreto.
