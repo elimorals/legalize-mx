@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1992-05-22"
+last_updated: "1992-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1992.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -1085,9 +1085,9 @@ Llegado el caso de la desaparición de los poderes del Estado se observará el p
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
+### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ###### ARTICULO 74.
 
@@ -1191,7 +1191,7 @@ XXXVIII.- Las demás que se deriven de las Constituciones Federal y Local, así 
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
+### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1225,9 +1225,9 @@ Cuando conforme al régimen de excusas y recusaciones propio de la actividad jur
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
+### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 77.
 
@@ -1261,25 +1261,31 @@ El Procurador y los Subprocuradores serán nombrados y removidos por el Gobernad
 
 Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y en los demás Tribunales inferiores que establece la Constitución para administrar justicia en nombre del Estado en todos los negocios de su competencia y con arreglo a las Leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 82.
 
-El Tribunal Superior de Justicia se integrará con 13 Magistrados Numerarios, y 5 Supernumerarios, quienes durarán en su cargo 6 años, pudiendo ser ratificados, y solo podrán ser privados de sus cargos, en los términos del Título Décimo Tercero de esta Constitución.
+El Tribunal Superior de Justicia se integrará con 16 Magistrados Numerarios, y 5 Supernumerarios, quienes durarán en su encargo 6 años, pudiendo ser ratificados, y sólo podrán ser privados de sus cargos en los términos del Título Décimo Tercero de esta Constitución.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 Los Magistrados percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante el desempeño del cargo, y estarán impedidos para desempeñar un empleo o cargo de los Municipios, del Estado, de la Federación o de particulares, salvo los cargos honoríficos en asociaciones literarias, científicas y de beneficiencia (sic), actividades docentes y el ejercicio de su profesión en causa propia.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 83.
 
-El Tribunal Superior de Justicia funcionará en Pleno o en Salas Civil, Penal y Familiar. Se crea una Sala Penal con sede en Acapulco de Juárez, Guerrero. Tres de los Magistrados Supernumerarios podrán integrar una Sala Auxiliar, y formarán parte del Pleno solamente cuando suplan a los Numerarios, conforme a lo que disponga la Ley Orgánica respectiva. El Tribunal será presidido por el Magistrado que elija la Corporación, y las Salas por quienes elijan sus integrantes, durando los Presidente en su cargo un año y pudiendo ser reelectos.
+El Tribunal Superior de Justicia funcionará en Pleno o en Salas Civil, Penal y Familiar. Contará, además, con una Sala Penal con sede en Acapulco de Juárez, Gro., y otra Sala Penal con Sede en Iguala de la Independencia. Tres de los Magistrados Supernumerarios podrán integrar una Sala Auxiliar, y formarán parte del Pleno solamente cuando suplan a los Numerarios, conforme a lo que disponga la Ley Orgánica respectiva. El Tribunal será presidido por el Magistrado que elija la Corporación, y las Salas por quienes elijan sus integrantes, durando los Presidente en su cargo un año y pudiendo ser reelectos.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1990)</small>
 
 El Tribunal Superior de Justicia contará con el Instituto para Mejoramiento Judicial, dependiente directamente del Pleno, y que tendrá por objeto coordinar los trabajos tendientes al nombramiento de funcionarios judiciales, y para su superación profesional; realizar estudios para la organización y funcionamiento más eficiente del Poder Judicial; llevar a cabo investigaciones sobre la legislación del Estado y su aplicación; y coadyuvar a la más estrecha comunicación con instituciones académicas y agrupaciones profesionales.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1990)</small>
+
 El Instituto, en los términos que establezca la Ley Orgánica, auxiliará técnicamente al Pleno en el conocimiento de las irregularidades en que puedan incurrir los servidores judiciales, así como en la aplicación de la Ley de Responsabilidades de los Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1990)</small>
 
 El titular del Instituto de Mejoramiento Judicial deberá reunir los mismos requisitos requeridos para ser Magistrado del H. Tribunal Superior de Justicia del Estado.
 
@@ -1339,9 +1345,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
-(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 89.
 
@@ -1431,9 +1437,7 @@ VII.- Planear y regular de manera conjunta y coordinada con la Federación, el E
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ###### ARTICULO 94.
 
@@ -1545,7 +1549,7 @@ No pueden ser electos como integrantes de los Ayuntamientos, los miembros en ser
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1629,7 +1633,7 @@ Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosar
 
 Todo Funcionario Público o empleado que tenga que manejar fondos, ya sea del Estado o del Municipio, deberá otorgar caución en términos de Ley.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 108.
 
@@ -1641,7 +1645,7 @@ La educación que proporcione el Estado será gratuita y lo puede hacer por sí 
 
 El sistema estatal de enseñanza ajustará sus planes y programas de estudio al sistema federal, estableciendo para el efecto la coordinación necesaria con las autoridades educativas federales. Tratándose de la educación superior, se procurará el desarrollo del Estado o la región, sin perjuicio de aprovechar los conocimientos, las experiencias o los medios de las instituciones federales o de otras entidades.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 110.
 
@@ -1859,7 +1863,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO NOVENO. DEL PODER JUDICIAL
+## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1883,11 +1887,15 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO. DEL MUNICIPIO LIBRE
+## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+## TITULO DECIMO. DEL MUNICIPIO LIBRE
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1895,19 +1903,17 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
-
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
-
-### CAPITULO UNICO
+### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
+## TITULO NOVENO. DEL PODER JUDICIAL
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ## TITULO DECIMO CUARTO. DE LA ADMINISTRACION PUBLICA
 
@@ -2612,3 +2618,7 @@ Las presentes Reformas y Adiciones, entrarán en vigor al día siguiente de su p
 ###### ARTICULO SEGUNDO.
 
 Se deroga toda disposición legal que se oponga a lo prevenido en este Decreto de Reformas y Adiciones.
+
+P.O. 21 DE JULIO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
