@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-11036"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-26"
-last_updated: "1990-12-26"
+last_updated: "1991-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1991.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 26 de diciembre de 1990.
 
@@ -49,15 +49,21 @@ LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
 Son objeto de este Impuesto, los Ingresos que se perciben por los siguientes conceptos:
 
-I.- En el ejercicio de una profesión, arte, oficio o actividad técnica, deportiva o cultural, como agente de una Institución de Crédito, Seguros o Fianzas y en aquellas que se deriven, directa o indirectamente, los trabajos de servicios personales cualquiera que sea el nombre con que se les designe.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1991)</small>
+
+I.- En el ejercicio de una profesión, arte, oficio o actividad técnica deportiva o cultural, y sobre los obtenidos por las personas que realicen directa o indirectamente, los trabajos de servicios personales cualquiera que sea el nombre con que se les designe.
 
 II.- En el transporte Público de personas y cosas.
 
 III.- En el ejercicio de una actividad profesional prestado bajo la dirección y dependencia de un tercero dentro del territorio del Estado cuando quien realice los pagos no cause el impuesto sobre salarios a que se refiere el Impuesto sobre la Renta.
 
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1991)</small>
+
+IV.- Otros que no paguen el impuesto al valor agregado.
+
 En este caso quienes efectúen los pagos están obligados a retener y enterar el impuesto.
 
-No serán objeto de este impuesto los ingresos de empresas formadas por profesionistas que se encuentren organizados en forma mercantil ni los de los profesionistas que actúen como empresarios.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 25 DE DICIEMBRE DE 1991)</small>
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
@@ -103,9 +109,13 @@ I.- Empadronarse en las Oficinas Recaudadoras de su Jurisdicción y dar en su ca
 
 II.- Llevar un libro de ingresos en el que consignarán el concepto por el que se obtengan, fecha de percepción y su importe.
 
-III.- Expedir recibos por los ingresos que perciban.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1991)</small>
 
-IV.- Presentar declaraciones bimestrales de los ingresos percibidos.
+III.- Expedir recibos preimpresos por los ingresos que perciban, los cuales deberán estar numerados de manera progresiva señalando nombre, dirección, actividad y número de registro.
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1991)</small>
+
+IV.- Presentar declaraciones mensuales de los ingresos percibidos.
 
 En los casos de las Fracciones II y III, será suficiente para efectos de esta Ley, que se dé cumplimiento con la autorización y expedición de los libros y recibos a que obliga la Legislación Fiscal Federal.
 
@@ -129,23 +139,33 @@ Son sujetos de este impuesto las personas físicas o morales obligadas a efectua
 
 #### SECCION TERCERA. DE LA BASE
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O.25 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 12.
 
-Es base del Impuesto sobre Nóminas el monto total de las erogaciones realizadas por el concepto de remuneraciones al trabajo personal subordinado.
+Es base del impuesto sobre nómina el monto total de las erogaciones realizadas por el concepto de remuneraciones al trabajo personal subordinado, aún cuando no exceda del salario mínimo.
 
 #### SECCION CUARTA. DE LA CUOTA
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 13.
 
-Este impuesto se liquidará de conformidad con la tarifa que al efecto establezca la Ley de Ingresos del Estado.
+Este impuesto se liquidará de conformidad con la tasa que al efecto establezca la Ley de Ingresos del Estado.
 
 #### SECCION QUINTA. DEL PAGO
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 14.
 
-El pago del Impuesto deberá efectuarse, dentro de los diez primeros días del mes siguiente a aquél en que se causó. El pago deberá hacerse mediante declaración en la oficina que corresponda al domicilio fiscal del contribuyente, en las formas oficiales que apruebe la Secretaría de Finanzas.
+El pago del impuesto deberá efectuarse, dentro de los primeros 10 días hábiles del mes siguiente a aquél en que se causó. El pago deberá hacerse mediante declaración en la oficina que corresponda al domicilio fiscal del contribuyente, en las formas oficiales que apruebe la Secretaría de Finanzas.
+
+> <small>N. DE E. ESTE PARRAFO NO FUE DEROGADO EXPRESAMENTE EN REFORMA PUBLICADA EL 25 DE DICIEMBRE DE 1991</small>
 
 La Secretaría de Finanzas podrá celebrar convenios con los sujetos de este Impuesto, a efecto de que éstos puedan anticipar pagos semestrales, con un descuento del 5% sobre la estimación que la misma Secretaría determine.
+
+> <small>N. DE E. ESTE PARRAFO NO FUE DEROGADO EXPRESAMENTE EN REFORMA PUBLICADA EL 25 DE DICIEMBRE DE 1991</small>
 
 La obligación de presentar declaración subsistirá, aún cuando no se hayan efectuado erogaciones gravadas.
 
@@ -181,13 +201,15 @@ B) Instituciones sin fines de lucro que realicen o promuevan asistencia social e
 
 C) Asociaciones de trabajadores, organismos empresariales que no realicen actividades lucrativas y colegios de profesionistas.
 
-D) Las Asociaciones y Partidos Políticos que realicen conforme a lo dispuesto por el Articulo 41 de la Constitución General de la República y las Leyes de la materia.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1991)</small>
+
+D) Partidos Políticos;
 
 E) Quienes realicen actividades comerciales en puestos fijos, semifijos, ambulantes, tianguis y locatarios de los mercados.
 
-F) Quienes estén exentos de pago del Impuesto Sobre la Renta; y
+F) (DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
 
-G) Las Sociedades Cooperativas.
+G) (DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
 
 #### SECCION SEPTIMA. DE LA ESTIMACION DE EROGACIONES
 
@@ -199,7 +221,9 @@ I.- Cuando no presenten sus declaraciones o no lleven los libros o registros con
 
 II.- Cuando, por los informes que se obtengan, se ponga de manifiesto que entre la tributación pagada y la que debió enterarse, exista discrepancia mayor a un 3%.
 
-#### SECCION OCTAVA (SIC). DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1991)</small>
+
+#### SECCION OCTAVA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES DE ESTE IMPUESTO
 
 ###### ARTICULO 17.
 
@@ -207,13 +231,17 @@ Son obligaciones de los Contribuyentes de este Impuesto:
 
 I.- Presentar su aviso de inscripción ante la Recaudación de Rentas correspondiente a su domicilio fiscal, dentro del mes siguiente al día en que inicien por las cuales deban efectuar los pagos a que se refiere el Artículo 10 de esta Ley.
 
-II.- Presentar ante las mismas Autoridades, dentro del plazo que señala la Fracción anterior, los avisos de cambio de domicilio, nombre, razón social, traslado, traspaso o suspensión de actividades.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1991)</small>
 
-III.- Presentar los avisos, datos documentos e informes que les soliciten las autoridades fiscales, en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto, y
+II.- Presentar ante las mismas autoridades, dentro del plazo que señala la fracción anterior, los avisos de cambio de domicilio, nombre, razón social o suspensión de actividades.
+
+III.- Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales, en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto, y
 
 IV.- Las sucursales, bodegas, agencias y otras dependencias de la matriz, que se establezcan fuera del domicilio fiscal de ésta, deberán empadronarse por separado, y las que estén ubicadas en la misma localidad, se deberán empadronar sólo para efectos de control.
 
-V.- Las personas físicas o morales que para efecto de impuestos federales su domicilio fiscal se encuentre en otra Entidad Federativa, pero que efectúen pagos en el Estado por remuneraciones al trabajo personal subordinado tendrán la obligación de registrar como domicilio fiscal estatal el lugar donde se origine la actividad o contraprestación.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1991)</small>
+
+V.- Las personas físicas o morales que para efecto de impuestos federales su domicilio fiscal se encuentre en otra Entidad Federativa, pero que se efectúen pagos en el Estado por remuneraciones al trabajo personal subordinado, tendrán la obligación de registrar como domicilio fiscal estatal, el lugar donde se origine la actividad contraprestación, además deberán hacer dichos pagos en la oficina recaudadora que corresponda su jurisdicción.
 
 ### CAPITULO III
 
@@ -221,9 +249,11 @@ DEL IMPUESTO SOBRE DIVERSIONES Y ESPECTACULOS PUBLICOS.
 
 #### SECCION PRIMERA. DEL OBJETO
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 18.
 
-Son objeto de este impuesto los ingresos que se obtengan por la explotación de las diversiones y espectáculos públicos que habitual o accidentalmente se exploten en el Estado, con fines lucrativos.
+Son objeto de este impuesto los ingresos que se obtengan por la explotación de las diversiones y espectáculos públicos que habitual o accidentalmente se realicen en el Estado con fines lucrativos.
 
 #### SECCION SEGUNDA
 
@@ -235,9 +265,11 @@ Son sujetos de este impuesto las personas físicas o morales que habitual o acci
 
 #### SECCION TERCERA. DE LA CUOTA
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 20.
 
-Este impuesto se causará y liquidará conforme a las tasas y cuotas que señale la Ley de Ingresos del Estado.
+Este impuesto se causará y liquidará conforme a las tasas que señale la Ley de Ingresos del Estado.
 
 #### SECCION CUARTA. DEL PAGO
 
@@ -259,9 +291,13 @@ El pago del Impuesto se hará en los formatos oficiales aprobados por la Secreta
 
 Las personas que habitualmente organicen, exploten o patrocinen diversiones, espectáculos públicos, estarán obligados:
 
-I.- A registrarse en la Secretaría de Finanzas, dentro de los diez días siguientes al de la iniciación de sus operaciones, haciendo uso de las formas oficiales aprobadas, anexando la Licencia de Funcionamiento.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1991)</small>
 
-II.- A manifestarse por escrito a la misma Secretaría la baja del espectáculo o diversión cuando menos con tres días de anticipación al hecho.
+I.- A registrarse en la oficina recaudadora, dentro de los diez días siguientes al de la iniciación de sus operaciones, haciendo uso de las formas oficiales aprobadas, anexando la licencia de funcionamiento.
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1991)</small>
+
+II.- A manifestarse por escrito a la misma oficina recaudadora la baja del espectáculo o diversión cuando menos con tres días de anticipación al hecho.
 
 III.- Presentar ante la Oficina de Recaudación respectiva, para su resello, el boletaje y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen los espectáculos.
 
@@ -281,9 +317,11 @@ Quienes organicen, exploten o patrocinen diversiones o espectáculos públicos d
 
 No causan este Impuesto las diversiones o espectáculos públicos organizados directamente por la Federación, el Estado o los Municipios, así como los realizados por los Organismos auxiliares de éstos últimos. En consecuencia, no se gozará del beneficio que establece esta exención si las propias Entidades solo patrocinan las diversiones o espectáculos públicos.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 26.
 
-El Secretario de Finanzas del Estado, estará facultado para reducir el Impuesto a que se refiere este Título cuando se trate de diversiones o espectáculos públicos organizados con fines exclusivamente culturales o de beneficencia, previa solicitud que al respecto formulen los organizadores.
+El Secretario de Finanzas del Estado, esta facultado para reducir o exentar el impuesto a que se refiere este título cuando se trate de diversiones o espectáculos públicos organizados con fines exclusivamente culturales o de beneficencia, previa solicitud que al respecto formulen los organizadores.
 
 ### CAPITULO IV. DEL IMPUESTO SOBRE JUEGOS Y APUESTAS PERMITIDAS Y SOBRE RIFAS, LOTERIAS Y SORTEOS
 
@@ -349,47 +387,47 @@ II.- A manifestar por escrito a la misma Secretaría, la baja de la explotación
 
 Las personas que accidentalmente organicen o exploten las operaciones gravadas por este Título, tendrán además de las obligaciones señaladas en el Artículo anterior la de garantizar a satisfacción de la Secretaria de Finanzas el pago del impuesto a que se refiere este capítulo.
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 1991)</small>
+
 ### CAPITULO V. DEL IMPUESTO SOBRE OBRAS DE PLANIFICACION
+
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 25 DE DICIEMBRE DE 1991)</small>
 
 #### SECCION PRIMERA. DEL OBJETO
 
 ###### ARTICULO 33.
 
-Los propietarios o poseedores de predios ubicados en el Estado, están obligados a contribuir para la ejecución de obras de planificación mediante el pago del impuesto que establece el presente Título.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
+
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 25 DE DICIEMBRE DE 1991)</small>
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
 ###### ARTICULO 34.
 
-Son sujetos de este impuesto los propietarios de predios que estén ubicados dentro del área de imposición en los términos de este Título.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
 
-El poseedor será sujeto del impuesto cuando el predio no tenga propietario, cuando el propietario no esté definido o cuando el propietario se obligue a transmitir el dominio del inmueble, dando desde luego su posesión.
-
-Si el predio está afectado en fideicomiso, pagará el impuesto la institución fiduciaria con cargo a quien quede como propietario del predio beneficiado, una vez que sea ejecutado el fideicomiso.
-
-Cuando sean personas distintas el propietario de la tierra y el de las construcciones, el impuesto se cobrará al propietario de la tierra.
-
-Cuando se trate de edificios sujetos al régimen de propiedad de condominio, divididos en pisos, departamentos, viviendas o locales; se considerará que la totalidad del predio se beneficia con la obra de planificación de que se trate, aunque solo parte del mismo se encuentre dentro de la zona de imposición; la parte del impuesto a cargo de cada propietario se determinará dividiendo el monto que corresponda a todo el inmueble entre la superficie construida exceptuando lo que se destine al servicio de uso común, multiplicando ese cociente por el número de metros que corresponda al piso, departamento, vivienda o local de que se trate.
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 25 DE DICIEMBRE DE 1991)</small>
 
 #### SECCION TERCERA. DE LA TARIFA
 
 ###### ARTICULO 35.
 
-El Impuesto para obras de planificación que debe pagarse por cada uno de los predios comprendidos dentro del área de imposición se calculará tomando en consideración los parámetros que recomiende la Dependencia Normativa.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 25 DE DICIEMBRE DE 1991)</small>
 
 #### SECCION CUARTA. DEL PAGO
 
 ###### ARTICULO 36.
 
-Este Impuesto se pagará de conformidad con lo que establezca la Ley de Ingresos del Estado.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
 
 #### SECCION PRIMERA. DEL OBJETO
 
 ###### ARTICULO 37.
 
-La Secretaría de Finanzas del Estado, tiene acción real para el cobro del Impuesto sobre obras de planificación, así como los recargos y demás créditos accesorios que se carguen.
-
-En consecuencia, la misma Secretaría de Finanzas del Estado, ejercerá la facultad económica-coactiva contra cualquier propietario o poseedor del predio que se considerarán sujetos con responsabilidad objetiva.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
 
 #### SECCION SEGUNDA
 
@@ -397,15 +435,13 @@ DEL SUJETO.
 
 ###### ARTICULO 38.
 
-Las obras de urbanización que deban ejecutarse a consecuencia de una obra de planificación darán lugar al cobro de los derechos de cooperación para la ejecución de obras públicas que establece esta Ley.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
 
 #### SECCION TERCERA. DE LA BASE
 
 ###### ARTICULO 39.
 
-Los Notarios, Corredores y Funcionarios autorizados para dar Fe Pública no autorizarán ningún contrato de compraventa, venta con reserva de dominio o cualquier otro que tenga por objeto la transmisión de la propiedad de bienes inmuebles, si no se les demuestra por medio de los correspondientes recibos o certificados de no adeudo, que el predio no lo cause o que no ha principiado a correr el plazo para el pago del Impuesto que establece este título.
-
-La Infracción a este Artículo, será sancionada con multa equivalente de uno a 15 días de salario mínimo vigente, que impondrá la Secretaría de Finanzas del Estado, atendiendo a la gravedad de la infracción.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
 
 #### SECCION CUARTA. DE LA CUOTA
 
@@ -416,6 +452,8 @@ La Infracción a este Artículo, será sancionada con multa equivalente de uno a
 #### SECCION PRIMERA. DEL OBJETO
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1991)</small>
 
 #### SECCION TERCERA. DE LA BASE
 
@@ -469,7 +507,7 @@ Es objeto de los impuestos adicionales el pago de impuestos, de derechos y produ
 
 ###### ARTICULO 47.
 
-Son sujetos de los impuestos adicionales los que lo sean de los impuestos, derechos y productos.
+Son sujetos de los Impuestos Adicionales los propios Impuestos, Derechos y Productos considerados como tales en la Ley de Ingresos del Estado.
 
 ###### ARTICULO 48.
 
@@ -614,3 +652,9 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno,
 
 Lic. Javier Germán Rodríguez Jiménez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE DICIEMBRE DE 1991
+
+UNICO.- El presente Decreto surtirá sus efectos a partir del día 1º. de enero de mil novecientos noventa y dos previa publicación en el Periódico Oficial, Organo del Gobierno del Estado.
