@@ -4,7 +4,7 @@ identifier: "TAB-ley-general-de-seguridad-publica-y-transito-del-estado-de-11463
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-08-01"
-last_updated: "1984-08-01"
+last_updated: "1989-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY GENERAL DE SEGURIDAD PUBLICA Y TRANSITO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1989.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 1 de agosto de 1984.
 
@@ -47,13 +47,19 @@ LEY GENERAL DE SEGURIDAD PUBLICA Y TRANSITO DEL ESTADO DE TABASCO.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 1.
 
-Esta Ley es de observancia obligatoria para la Dirección General de Seguridad Pública y Tránsito del Estado y para los cuerpos de Seguridad Pública de los distintos municipios de la Entidad, que permanente o transitoriamente desempeñan tales funciones, ya por mandato expreso de una Ley, Reglamento o disposición de observancia general, o por comisión o delegación especial.
+Esta Ley es de observancia obligatoria para la Dirección General de Seguridad Pública del Estado, para la Dirección General de Tránsito del Estado, y para los órganos de Seguridad Pública y Tránsito de los distintos Municipios de la Entidad, que permanente o transitoriamente desempeñan tales funciones ya por mandato expreso de la Ley, Reglamento o disposición de observancia general, o por comisión o delegación especial.
+
+Para el correcto ejercicio de las atribuciones y funciones a que se refiere esta Ley, debe entenderse que a la Dirección General de Tránsito corresponderán todas las que se refieren a tránsito y vialidad; las demás a que se refiere esta Ley corresponderán a la Dirección General de Seguridad Pública, dentro de los lineamientos en ella establecidos.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 2.
 
-Los cuerpos de Seguridad Pública y Tránsito del Estado y los de Seguridad Pública de los Municipios, son instituciones destinadas a conservar la paz, la tranquilidad y el orden público dentro del ámbito de competencia, protegiendo los intereses de la sociedad. En consecuencia, sus funciones oficiales son de vigilancia, prevención y defensa social, para evitar la comisión de ilícitos por medio de acciones adecuadas y concretas que protejan eficazmente la vida y los legítimos intereses del individuo, el orden dentro de la sociedad y la seguridad del Estado, previniendo todo acto que perturbe o ponga en peligro los bienes jurídicamente protegidos del Estado y sus habitantes y las condiciones de existencia de los mismos.
+Los cuerpos de seguridad pública del Estado y los de seguridad pública de los Municipios, son instituciones destinadas a conservar la paz, la tranquilidad y el orden público dentro del ámbito de su competencia, protegiendo los intereses de la sociedad. En consecuencia, sus funciones oficiales son de vigilancia, prevención y defensa social, para evitar la comisión de ilícitos por medio de acciones adecuadas y concretas que protejan eficazmente la vida y los legítimos intereses del individuo, el orden dentro de la sociedad y la seguridad del Estado, previniendo todo acto que perturbe o ponga en peligro los bienes jurídicamente protegidos del Estado y sus habitantes, y las condiciones de existencia de los mismos.
 
 ###### ARTICULO 3.
 
@@ -67,9 +73,11 @@ I.- El Ejecutivo del Estado;
 
 II.- Los Ayuntamientos de la Entidad.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 5.
 
-El Gobernador del Estado tendrá el mando de la Fuerza Pública en el Municipio donde resida habitual o temporalmente y lo ejercerá a través de la Dirección General de Seguridad Pública y Tránsito del Estado, Dependencia de la Secretaría de Gobierno que tiene a su cargo preservar la tranquilidad y el orden público y ejercer las funciones de tránsito y vialidad en dicha Entidad. En los demás casos, el mando de la fuerza pública lo ejercerán los Presidente (sic) Municipales en el ámbito que les competa.
+El Gobernador del Estado tendrá el mando de la fuerza pública en el municipio donde resida habitual o temporalmente, y lo ejercerá a través de la Dirección General de Seguridad Pública, dependencia de la Secretaría de Gobierno que tiene a su cargo preservar la tranquilidad y el orden público. En los demás casos, el mando de la fuerza pública lo ejercerán los Presidentes Municipales en el ámbito que les competa.
 
 ###### ARTICULO 6.
 
@@ -79,7 +87,9 @@ I.- Reglamentar, regular y vigilar los servicios de Seguridad Pública;
 
 II.- Ordenar las medidas de seguridad necesarias para prevenir la comisión de ilícitos;
 
-III.- Ordenar y ejecutar las medidas de emergencia conducentes en caso de catástrofes, terremotos, epidemias, endemias y demás circunstancias que ameriten su intervención directa. En casos especiales de emergencia o de desastre en la Entidad, todos los cuerpos de seguridad pública serán coordinados por la Dirección General de Seguridad Pública y Tránsito del Estado con el objeto de aprovechar de manera más eficiente los recursos humanos y materiales para el auxilio de la población;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
+
+III.- Ordenar y ejecutar las medidas de emergencia conducentes en caso de catástrofes, terremotos, epidemias y demás circunstancias que ameriten su intervención directa. En casos especiales de emergencia o de desastre en la Entidad, todos los cuerpos de seguridad pública, serán coordinados por la Dirección General de Seguridad Pública del Estado, con el objeto de aprovechar de manera más eficiente los recursos humanos y materiales para el auxilio de la población;
 
 IV.- Estudiar, planear, reglamentar, regular y vigilar el tránsito vehicular y peatonal en las vías públicas del Estado;
 
@@ -91,13 +101,17 @@ VII.- Celebrar convenios con las autoridades federales y de los demás Estados p
 
 VIII.- Las demás que determinen esta ley y los reglamentos correspondientes.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 7.
 
-La Dirección General de Seguridad Pública y Tránsito del Estado, desarrollará conjuntamente las funciones de tránsito y vialidad, y las de Seguridad Pública en el Municipio donde tenga su residencia habitual o temporal el Gobernador del Estado;0 y en toda la Entidad en los términos del artículo anterior, y solo la de tránsito y vialidad en los demás municipios del Estado.
+La Dirección General de Seguridad Pública del Estado, desarrollará sus funciones en el municipio donde tenga su residencia habitual o temporal el Gobernador del Estado, y en toda la entidad en los términos del Artículo anterior.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 8.
 
-Para cumplir con la función de Seguridad Pública, en cada municipio del Estado se integrarán los Cuerpos correspondientes, con el número de miembros que sean necesarios para prestar ese servicio, y a tal efecto podrán coordinarse con la Dirección General de Seguridad Pública y Tránsito del Estado para que les asesore en cuanto a la organización, funcionamiento y dirección técnica de los mismos, mediante los acuerdos que se firmen con el Ejecutivo Estatal.
+Para cumplir con la función de seguridad pública en cada municipio del Estado se integrarán los cuerpos correspondientes, con el número de miembros que sean necesarios para prestar ese servicio, y a tal efecto podrán coordinarse con la Dirección General de Seguridad Pública del Estado, para que les asesore en cuanto a la organización, funcionamiento y dirección técnica de los mismos, mediante los acuerdos que firmen con el Ejecutivo Estatal.
 
 Los Ayuntamientos tendrán las siguientes atribuciones:
 
@@ -111,31 +125,41 @@ III.- Las demás que determinen esta ley y los reglamentos aplicables.
 
 Los Cuerpos de Seguridad Pública se organizarán de conformidad con esta ley y sus reglamentos, y solo podrá variarse dicha organización por reformas o adiciones a los mismos.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 10.
 
-La Dirección General de Seguridad Pública y Tránsito del Estado podrá proporcionar a los elementos integrantes de todos los cuerpos de Seguridad Pública que se organicen en la Entidad, la instrucción profesional y técnica que les capacite para el cumplimiento de su cometido.
+La Dirección General de Seguridad Pública del Estado, podrá proporcionar a los elementos integrantes de todos los cuerpos de seguridad pública que se organicen en la Entidad, la instrucción profesional y técnica que les capacite para el cumplimiento de su cometido.
 
-Como complemento de su instrucción profesional, en esos casos, los Cuerpos de Seguridad Pública y de Tránsito del Estado, y los correspondientes de los Municipios, recibirán instrucción jurídica y militar que los fortalezca en el ámbito de la disciplina, la obediencia y el conocimiento de las Leyes.
+Como complemento de su instrucción profesional, los cuerpos de Seguridad Pública y Tránsito del Estado y los de Seguridad Pública de los Municipios, recibirán instrucción jurídica y militar que los fortalezca en el ámbito de la disciplina, la obediencia y el conocimiento de las Leyes.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 11.
 
-La Dirección General de Seguridad Pública y Tránsito del Estado, al igual que los Cuerpos de Seguridad Pública de los distintos Municipios de la Entidad, serán auxiliares de la Procuraduría General de Justicia en el Estado y de las demás autoridades e instituciones encargadas de administrar justicia, para la aprehensión de presuntos responsables de delitos en los términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y de las Leyes Penales en vigor.
+La Dirección General de Seguridad Pública del Estado, al igual que los cuerpos de seguridad pública de los distintos municipios de la Entidad, serán auxiliares de la Procuraduría General de Justicia en el Estado y de las demás autoridades e instituciones encargadas de administrar justicia, para la aprehensión de presuntos responsables de delitos, en los términos del Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y de las Leyes Penales en vigor.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 12.
 
-Los elementos de la Dirección General de Seguridad Pública y Tránsito del Estado y los Cuerpos de Seguridad Pública Municipales, como agentes de la autoridad, deben exigir respeto y obediencia a la Ley, lo que harán del conocimiento de cualquier persona de manera comprensible y respetuosa.
+Los elementos de la Dirección General de Seguridad Pública del Estado y los de los cuerpos de Seguridad Pública municipal, como agentes de la autoridad, deben exigir respeto y obediencia a la Ley, lo que harán del conocimiento de cualquier persona de manera comprensible y respetuosa.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 13.
 
-La Dirección General de Seguridad Pública y Tránsito del Estado, auxiliará y colaborará estrechamente con el Ayuntamiento Constitucional del Municipio del Centro, a fin de que éste, dentro del orden y tranquilidad pública, pueda cumplir cabalmente con sus funciones.
+La Dirección General de Seguridad Pública del Estado, auxiliará y colaborará estrechamente con el Ayuntamiento Constitucional del Municipio del Centro, a fin de que éste, dentro del orden y tranquilidad pública, pueda cumplir cabalmente con sus funciones.
 
-La Dirección General de Seguridad Pública y Tránsito llevará un registro de las Escuelas de Artes Marciales que funcionan en la Entidad y recabará información de su alumnado, por lo que aquéllas tendrán obligación de rendirlas.
+La Dirección General de Seguridad Pública del Estado, llevará un registro de las escuelas de artes marciales que funcionan en la Entidad y recabará información de su alumnado, por lo que aquéllas tendrán obligación de rendirla.
 
 ### CAPITULO II. FUNCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 14.
 
-Los elementos de los cuerpos de Seguridad Pública y Tránsito del Estado, para el desarrollo de sus funciones, deberán participar en las siguientes actividades:
+Los elementos de la Dirección General de Seguridad Pública del Estado, para el desarrollo de sus funciones deberán participar en las siguientes actividades:
 
 I.- De orden y tranquilidad pública;
 
@@ -147,15 +171,19 @@ IV.- De turismo;
 
 V.- De salubridad pública;
 
-VI.- De tránsito y vialidad;
+VI.- (DEROGADA, P.O. 14 DE ENERO DE 1989)
 
 VII.- De trabajo y previsión Social.
 
-De igual manera los Cuerpos de Seguridad Pública de los Municipios de la Entidad, en el ámbito de sus jurisdicciones territoriales, deberán participar y realizar dichas actividades, excepción hecha de la de tránsito y vialidad, la cual queda reservada a los elementos de la Dirección General de Seguridad Pública y Tránsito del Estado.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
+De igual manera los cuerpos de Seguridad Pública de los Municipios de la Entidad, en el ámbito de sus jurisdicciones territoriales, deberán participar y realizar dichas actividades.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 15.
 
-En materia de orden y tranquilidad pública corresponde a los miembros de la Dirección General de Seguridad Pública y Tránsito del Estado, y a los Cuerpos de Seguridad Pública de los Municipios, realizar las siguientes actividades:
+En materia de orden y tranquilidad pública corresponde a los miembros de la Dirección General de Seguridad Pública, y a los cuerpos de Seguridad Pública de los Municipios, realizar las siguientes actividades:
 
 I.- Prevenir la ejecución de hechos contrarios a la tranquilidad de los habitantes del Estado; a tal efecto, cuidarán de evitar toda clase de ruidos, disputas, tumultos, riñas y escándalos con los que se intentare perturbar aquélla;
 
@@ -195,9 +223,11 @@ XVIII.- Presentar inmediatamente a toda persona que haya sido detenida en flagra
 
 XIX.- Las demás que al respecto le señalan otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 16.
 
-En materia educativa, corresponde a los elementos de la Dirección General de Seguridad Pública y Tránsito del Estado, y a los Cuerpos de Seguridad Pública de los Municipios:
+En materia educativa corresponde a los elementos de Seguridad Pública del Estado y a los cuerpos de Seguridad Pública de los Municipios:
 
 I.- Vigilar que los niños en edad escolar que vaguen por las calles concurran a la escuela en la que estén inscritos o bien a la que debieran estarlo, exigiendo a los padres o a las personas encargadas de la educación de esos menores el cumplimiento de tal obligación;
 
@@ -217,9 +247,11 @@ VIII.- Tratar en forma cortés y respetuosa a las peresonas (sic) con las que te
 
 IX.- Las demás que en lo relativo les señalen otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 17.
 
-En lo referente a ornato deberán:
+En lo referente a ornato corresponde a los elementos de la Dirección General de Seguridad Pública del Estado y a los cuerpos de Seguridad Pública de los Municipios:
 
 I.- Vigilar el que las disposiciones concernientes a limpias y aseo tenga su debido cumplimiento, haciendo uso de las funciones que a tal efecto les haya conferidos (sic) las autoridades del ramo;
 
@@ -239,9 +271,11 @@ VIII.- Reportar a las autoridades correspondientes cualquier falta de mantenimie
 
 IX.- Las demás que al respecto les señalen otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 18.
 
-En lo relativo a turismo, les corresponde:
+En lo relativo a turismo corresponde a los elementos de la Dirección General de Seguridad Pública del Estado y a los cuerpos de Seguridad Pública de los Municipios:
 
 I.- Vigilar el movimiento de pasajeros en las estaciones de ferrocarril, aeropuertos y terminales de autobuses, con la finalidad de evitar que los turistas y usuarios sean víctimas de abusos, asaltos o malos tratos;
 
@@ -253,9 +287,11 @@ IV.- Informarse con respecto a los domicilios de hoteles, casas de huéspedes, c
 
 V.- Las demás que en la materia les indiquen los ordenamientos legales en vigor.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 19.
 
-Les corresponde en materia de Salubridad Pública:
+Les corresponde en materia de Salubridad a los elementos de la Dirección General de Seguridad Pública del Estado y a los de los cuerpos de Seguridad Pública de los Municipios:
 
 I.- Auxiliar a las autoridades sanitarias en el cumplimiento de las leyes y reglamentos que tengan por objeto preservar la salud de los habitantes de la Entidad; al efecto deberán hacer del conocimiento de ellas los casos de enfermedades epidémicas o endémicas que se detecten y colaborar con tales autoridades en el control y erradicación de las mismas, de conformidad con las leyes aplicables;
 
@@ -275,9 +311,11 @@ VII.- Dar aviso a los encargados de la limpieza pública, cuando detecten la pre
 
 VIII.- Las demás que al respecto les señalen otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 20.
 
-En lo relativo a Tránsito y Vialidad, corresponde a los elementos de seguridad Pública y Tránsito:
+En lo relativo a tránsito y vialidad corresponde a los elementos de la Dirección General de Tránsito del Estado, las siguientes atribuciones:
 
 I.- Vigilar el cumplimiento de las normas que rigen el tránsito y transporte de personas y objetos, así como el de vehículos y su estacionamiento en las vías públicas, abiertas a la circulación, que no sean de competencia federal y que estén comprendidas en el territorio del Estado;
 
@@ -289,9 +327,11 @@ IV.- Vigilar que los vehículos que circulen en el territorio de la Entidad est�
 
 V.- Las demás que al respecto les señalen otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 21.
 
-Por lo que hace a Trabajo y Previsión Social, les corresponde:
+Por lo que hace a Trabajo y Previsión Social, corresponde a los elementos de la Dirección General de Seguridad Pública del Estado y a los cuerpos de Seguridad Pública de los Municipios:
 
 I.- Contener, en los términos de las leyes y reglamentos vigentes, la vagancia y la mendicidad;
 
@@ -307,17 +347,23 @@ VI.- Las demás que en la materia les señalen las disposiciones legales en vigo
 
 ### CAPITULO III. OBLIGACIONES GENERALES Y ESPECIFICAS
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 22.
 
-Se entiende por actos del servicio los que ejecuten los elementos de la Dirección General de Seguridad Pública y Tránsito del Estado, o los elementos de los Cuerpos de Seguridad Pública municipales, conjunta o separadamente, en el cumplimiento de las órdenes que reciban en el desempeño de sus funciones.
+Se entiende por actos del servicio los que ejecuten los elementos de la Dirección General de Seguridad Pública del Estado, de la Dirección General de Tránsito del Estado, o los elementos de los Cuerpos de Seguridad Pública municipales, conjunta o separadamente, en el cumplimiento de las órdenes que reciban en el desempeño de sus funciones.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 23.
 
-En forma general, los elementos de La Dirección General de Seguridad Pública y Tránsito del Estado y de los Cuerpos de Seguridad Pública Municipales deberán cumplir y hacer cumplir las disposiciones legales en vigor, ya sean de carácter federal, estatal o municipal, pero sus atribuciones y competencias están constreñidas al territorio de la Entidad.
+En forma general los elementos de las Direcciones Generales de Seguridad Pública y de Tránsito del Estado, y los de los cuerpos de Seguridad Pública municipales, deberán cumplir y hacer cumplir las disposiciones legales en vigor, ya sean de carácter federal, estatal o municipal, pero sus atribuciones y competencias están constreñidas al territorio de la Entidad.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 24.
 
-El servicio exige que los elementos de la Dirección General de Seguridad Pública y Tránsito del Estado y de los Cuerpos de Seguridad Pública Municipales lleven el cumplimiento del deber hasta el sacrificio, que sean leales al Gobierno legalmente constituido, que observen una conducta ejemplar para hacerse merecedores de la confianza de la sociedad y que cuiden del prestigio de la institución a la que pertenecen.
+El servicio exige que los elementos de las Direcciones Generales de Seguridad Pública del Estado y de Tránsito del Estado, así como los elementos de los cuerpos de Seguridad Pública municipales, lleven el cumplimiento del deber hasta el sacrificio, que sean leales al Gobierno legalmente constituido, que observen una conducta ejemplar para hacerse merecedores de la confianza de la sociedad y que cuiden del prestigio de la institución a que pertenecen.
 
 ###### ARTICULO 25.
 
@@ -327,13 +373,17 @@ En función de la naturaleza del trabajo que desempeñan, están particularmente
 
 En asuntos del servicio, nadie podrá hacerse representar por medio de apoderado, ni hacer peticiones que tienda a contrariar o retardar las órdenes giradas oportunamente, sino que deberá ejecutarlas sin contradicción alguna a menos que conlleven la comisión de un ilícito.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 27.
 
-Los elementos de la Dirección General de Seguridad Pública y Tránsito del Estado y de los Cuerpos de Seguridad Pública Municipales no pierden sus derechos como ciudadanos pero les queda estrictamente prohibido inmiscuirse en asuntos político (sic) estando en servicio, debiéndose en todo caso ajustarse a las disposiciones de la materia.
+Los elementos de las Direcciones Generales de Seguridad Pública del Estado y de Tránsito del Estado, así como los elementos de los cuerpos de Seguridad Pública municipales, no pierden sus derechos como ciudadanos pero les queda estrictamente prohibido inmiscuirse en asuntos políticos estando en servicio, debiéndose en todo caso ajustar a las disposiciones de la materia.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 28.
 
-Cuando los elementos de la Dirección General de Seguridad Pública y Tránsito del Estado y de los Cuerpos de Seguridad Pública Municipal tengan conocimiento de que se ha cometido un delito, deberán comunicarlo inmediatamente al Ministerio Público para que dicha institución provea lo conducente de conformidad con sus facultades legales.
+Cuando los elementos de la Dirección General de Seguridad Pública del Estado y de la Dirección General de Tránsito del Estado, así como los elementos de lo (sic) cuerpos de Seguridad Pública de los municipios, tengan conocimiento de que se ha cometido un delito, deberán comunicarlo inmediatamente al Ministerio Público para que dicha institución provea lo conducente de conformidad con sus facultades legales.
 
 ###### ARTICULO 29.
 
@@ -347,13 +397,19 @@ En los casos en que proceda, se podrán recoger las armas, instrumentos y objeto
 
 En el caso de que se descubra algún delito, deberán de tomarse las medidas preventivas que tiendan a la preservación de los vestigios, huellas, indicios etc., para el mejor esclarecimiento de la verdad, por lo que de ser necesario se prohibirá el acceso a toda persona ajena a la investigación de los acontecimientos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 32.
 
-Deberán prevenir y extinguir los incendios. Para el primer caso tiene a su cargo el dictamen sobre la seguridad interior de los centros y salones de espectáculos, estaciones de gasolina y depósitos de explosivos. Para el segundo caso, el personal y los elementos necesarios para extinguir los incendios.
+Los elementos de la Dirección de Seguridad Pública del Estado y de los cuerpos de Seguridad Pública de los municipios, deberán prevenir y extinguir los incendios. Para el primer paso tienen a su cargo el dictamen sobre la seguridad interior de los centros y salones de espectáculos, estaciones de gasolina y depósitos de explosivos. Para el segundo caso, el personal y los elementos necesarios para extinguir los incendios.
 
-En caso de incendios, inundaciones, explosiones, etc., los elementos de la Dirección General de Seguridad Pública y Tránsito del Estado y de los Cuerpos de Seguridad Pública Municipales, deberán comunicarlo al Ministerio Público, tomando las medidas de emergencia que sean necesarias para impedir que en las proximidades se estacionen vehículos o transiten personas que innecesariamente se expongan al peligro o dificulten sus labores.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
-Las actividades de la Dirección General de Seguridad Pública y Tránsito del Estado y los Cuerpo (sic) de Seguridad Pública Municipales, se extiende a:
+En caso de incendio, inundaciones, explosiones, etc., los elementos de las Direcciones Generales de Seguridad Pública del Estado y de Tránsito del Estado y de los cuerpos de Seguridad Pública municipales, deberán comunicarlo al Ministerio Público, tomando medidas de emergencia que sean necesarias para impedir que en las proximidades se estacionen vehículos o transiten personas que innecesariamente se expongan al peligro o dificulten sus labores.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
+Las actividades de la Dirección General de Seguridad Pública, de la Dirección General de Tránsito y de los cuerpos de Seguridad Pública municipales, se extienden a:
 
 a).- Salvamento en derrumbes, en desbarrancamientos, en precipitación de personas o pozos o en lugares profundos.
 
@@ -367,11 +423,15 @@ e).- Salvamento en caídas de árboles, líneas de tensión eléctrica, etc., so
 
 f).- Desasolve (sic) de desagüe en zonas populosas y residenciales donde se pone en peligro la salud del vecindario por la acumulación o estacionamiento de aguas.
 
-g).- En todos estos casos es responsabilidad de la Dirección General de Seguridad Pública y Tránsito Estado, toda irregularidad o abusos sobre los bienes de las personas.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
+g).- En todos estos casos es responsabilidad de la Dirección General de Seguridad Pública y de la Dirección General de Tránsito del Estado, toda irregularidad o abusos sobre bienes de las personas.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 33.
 
-Tratándose de violaciones a las disposiciones del Bando de Policía y buen Gobierno en cuyo conocimiento deban intervenir los elementos de la Dirección General de Seguridad Pública y Tránsito del Estado o de los Cuerpos de Seguridad Pública Municipales, se limitarán a conducir al infractor ante la autoridad correspondiente.
+Tratándose de violaciones a las disposiciones del Bando de Policía y Buen Gobierno en cuyo conocimiento deban intervenir los elementos de la Dirección General de Seguridad Pública del Estado o los de los cuerpos de Seguridad Pública de los municipios, se limitarán a conducir al infractor ante la autoridad correspondiente.
 
 ###### ARTICULO 34.
 
@@ -395,9 +455,11 @@ V.- Si la violación a las disposiciones relativas a la circulación de vehícul
 
 El incumplimiento de este precepto es causa de responsabilidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 36.
 
-Son abligaciones (sic) específicas de los elementos de Seguridad Pública y Tránsito del Estado y de los Cuerpos de Seguridad Pública Municipal:
+Son obligaciones específicas de los elementos de Seguridad Pública y Tránsito del Estado y de los cuerpos de Seguridad Pública Municipal:
 
 I.- Poner inmediatamente a disposición de la autoridad competente a los presuntos responsables de un ilícito;
 
@@ -405,7 +467,9 @@ II.- Asistir puntualmente al desempeño del servicio o comisión, dentro de las 
 
 III.- Conocer el organigrama general de la institución y personalmente a sus superiores jerárquicos;
 
-IV.- Comunicar por escrito a la Dirección cuando cambie de domicilio, así como dar aviso oportuno en caso de enfermedades o causa justificada para faltar al desempeño de sus labores;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
+
+IV.- Comunicar por escrito a la Dirección a la que pertenezcan, cuando cambien de domicilio, así como dar aviso oportuno en caso de enfermedades o causa justificada para faltar al desempeño de sus labores;
 
 V.- Asistir puntualmente a las academias, cursos intensivos, instrucción militar y entrenamiento que se impartan dentro y fuera de las (sic) institución, con la finalidad de mejorar sus condiciones físicas e intelectuales y capacitarlos para el mejor desempeño de sus funciones;
 
@@ -425,7 +489,9 @@ XII.- Vigilar y observar cuidadosamente el área a que se le comisione a tal efe
 
 XIII.- Respetar las órdenes de suspensión, provisionales o definitivas, dictadas por autoridad competente en materia de amparo;
 
-XIV.- Entregar a la Dirección los objetos de valor que se encuentren abandonados, así como dar aviso de los objetos expuestos en la vía pública cuando no hubiere interesados en reclamarlos, inclusive en los casos de lanzamientos;
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
+
+XIV.- Entregar a la Dirección a la que pertenezcan, los objetos de valor que se encuentren abandonados, así como dar aviso de los objetos expuestos en la vía pública cuando no hubiere interesados en reclamarlos, inclusive en los casos de lanzamiento;
 
 XV.- Tomar las medidas necesarias para franquear el paso a las unidades de bomberos, Cruz Roja, y demás similares, así como a los equipos motorizados de emergencia destinados a servicios especiales;
 
@@ -441,9 +507,11 @@ XX.- Las demás que les señalen otras disposiciones legales.
 
 ### CAPITULO IV. PROHIBICIONES
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 37.
 
-Queda prohibido a elementos de la Dirección General de Seguridad Pública y Tránsito del Estado y a los de los Cuerpos de Seguridad Pública de los Municipios detener sin motivo a cualquier persona, careciendo para ello de fundamento legal, o maltratar a los detenidos en el acto de la aprehensión o en las prisiones, sea cual fuere la falta o delito que se le impute.
+Queda prohibido a elementos de la Dirección General de Seguridad Pública, de la Dirección General de Tránsito y a los de los cuerpos de Seguridad Pública de los municipios, detener sin motivo a cualquier persona, careciendo para ello de fundamento legal, o maltratar a los detenidos en el acto de su aprehensión o en las prisiones, sea cual fuere la falta o delito que se le impute.
 
 ###### ARTICULO 38.
 
@@ -457,9 +525,11 @@ Por ningún concepto las autoridades policíacas podrán retener a una persona d
 
 Es causa de responsabilidad no consignar inmediatamente a la disposición del Ministerio Público y, en general, a las autoridades competentes, a las personas que se encuentren detenidas como presuntos responsables de la comisión de delitos, faltas o infracciones a los reglamentos gubernativos, así como avocarse al conocimiento de los hechos y decidir, con invasión de facultades que correspondan a las citadas autoridades, acerca de la situación legal de las personas detenidas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 41.
 
-Los elementos de la Dirección General de Seguridad Pública y Tránsito del Estado, y de los Cuerpos de Seguridad Pública de los Municipios tienen estrictamente prohibido:
+Los elementos de las Direcciones Generales de Seguridad Pública del Estado y de Tránsito del Estado, así como los de los cuerpos de Seguridad Pública de los municipios, tienen extrictamente (sic) prohibido:
 
 I.- Participar en cualquier acto en el que se ultraje al gobierno, sus leyes, emblemas patrios o a la Institución de la cual son miembros;
 
@@ -513,7 +583,9 @@ XXV.- Llevar a cabo todo compromiso que implique deshonor para la Institución o
 
 XXVI.- En general, violar las leyes, reglamentos y demás disposiciones que integren el orden jurídico vigente.
 
-La contravención a estas prohibiciones será sancionada de conformidad con lo previsto en la Ley Estatal de los Servidores Públicos, sin perjuicio de la responsabilidad civil o penal en que se incurra conforme a las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
+La contravención a estas prohibiciones será sancionada de conformidad con lo previsto en la Ley de Responsabilidades de los Servidores Públicos, sin perjuicio de la responsabilidad civil o penal en que incurran, conforme a las disposiciones legales aplicables.
 
 ###### ARTICULO 42.
 
@@ -521,15 +593,19 @@ El superior jerárquico es responsable del orden que guarden los elementos a su 
 
 ### CAPITULO V. ORGANIZACION
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 43.
 
-La Dirección General de Seguridad Pública y Tránsito, para el desempeño más cabal de su cometido se organizará internamente por una policía uniformada cuyas funciones sean las de Seguridad Pública y Administración del Tránsito.
+La Dirección General de Seguridad Pública y la Dirección General de Tránsito del Estado, para el desempeño cabal de sus cometido (sic) se organizarán internamente por una policía uniformada cuyas funciones sean las de seguridad pública y administración de tránsito, respectivamente.
 
-Los Cuerpos de Seguridad Pública de los Municipios contarán con una policía uniformada y un cuerpo de rescate con su equipo correspondiente, la que se organizará en la forma que determinen sus reglamentos.
+Los cuerpos de Seguridad Pública de los municipios contarán con una policía uniformada y un cuerpo de rescate con su equipo correspondiente, la que se organizará en la forma que determinen sus reglamentos.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 44.
 
-Se considerarán como auxiliares de Seguridad Pública los Cuerpos o Grupos que por acuerdo previo del Gobernador y con la autorización del Director General de Seguridad Pública y Tránsito del Estado se organicen por Bancos y otras clases de Instituciones particulares, para vigilancia interior a su costa.
+Se consideran como auxiliares de Seguridad Pública, los cuerpos o grupos que por acuerdo previo del Gobernador y con la autorización del Director General de Seguridad Pública del Estado, se organicen por bancos, y otras clases de Instituciones particulares para vigilancia interior, a su costa.
 
 ###### ARTICULO 45.
 
@@ -539,13 +615,17 @@ Para lograr la unidad en cuanto a conocimientos técnicos y demás relacionados 
 
 Um (sic) Reglamento interior fijará los períodos de preparación de los aspirantes, programas y organización del Colegio.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 47.
 
-Se consideran organismos de Seguridad Pública dependientes de la Dirección General de Seguridad Pública y Tránsito del Estado, en cuanto a la función y régimen interior, el cuerpo de bomberos y los cuerpos de auxilio y de rescate, incluyendo a los voluntarios de rescate, los que se organizarán en la forma que determinen los reglamentos respectivos.
+Se consideran organismos de seguridad pública dependientes de la Dirección General de Seguridad Pública del Estado, en cuanto a función y régimen interior, el cuerpo de bomberos y los cuerpos de auxilio y de rescate, incluyendo a los voluntarios de rescate, los que se organizarán en forma que determinen los reglamentos respectivos.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 48.
 
-Las Relaciones de trabajo entre la Dirección General de Seguridad Pública y Tránsito y Cuerpo de Seguridad Pública de los Municipios y sus elementos se regirán por las disposiciones de la Ley respectiva.
+Las relaciones de trabajo entre la Dirección General de Seguridad Pública, la Dirección General de Tránsito, y los cuerpos de Seguridad Pública de los municipios, y sus elementos, se regirán por las disposiciones de la Ley respectiva.
 
 ###### ARTICULO 49.
 
@@ -596,3 +676,9 @@ ENRIQUE GONZALEZ PEDRERO
 LIC. JOSE EDUARDO BELTRAN HERNANDEZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE ENERO DE 1989.
+
+UNICO: Estas reformas y adiciones entrarán en vigor treinta días después de su publicación en el Periódico Oficial del Gobierno del Estado.
