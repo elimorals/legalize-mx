@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1994-03-22"
+last_updated: "1994-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE MARZO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE ABRIL DE 1994.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -485,9 +485,11 @@ Para designar el Congreso electo en la forma establecida en el Artículo anterio
 
 El Congreso tendrá en el año dos períodos de sesiones ordinarias: el primero comenzará el 16 de septiembre y terminará el 15 de diciembre y el segundo comprenderá desde el 1o de abril hasta el día último de junio. Ambos períodos pueden ser prorrogables.
 
+> <small>(REFORMADO, B.O. 28 DE ABRIL DE 1994)</small>
+
 ###### Artículo 42.
 
-En el primer período el Congreso se ocupará preferentemente de discutir y aprobar los Presupuestos de Egresos e Ingresos para el año siguiente. El segundo período se destinará, de preferencia, a examinar y calificar la Cuenta de Gastos hechos en el año anterior.
+En el primer período el Congreso se ocupará de discutir y aprobar los presupuestos de egresos e ingresos para el año siguiente. El segundo período se destinará, preferentemente, a examinar las cuentas públicas del año anterior, y a calificarlas dentro de los cinco meses siguientes, contados a partir de la fecha límite de su presentación ante el Congreso.
 
 ###### Artículo 43.
 
@@ -2598,6 +2600,10 @@ LEY No. 305, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 22 DE MARZO DE 1994.
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 28 DE ABRIL DE 1994.
 
 UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
