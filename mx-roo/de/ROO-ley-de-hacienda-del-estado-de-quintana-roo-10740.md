@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "1996-04-09"
+last_updated: "1996-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -4775,7 +4775,7 @@ Es objeto de este derecho el servicio especial prestado por convenio o contrato,
 
 ###### ARTICULO 207-E.
 
-Son sujetos de este derecho las personas físicas o morales, empresas, organizadores de fiestas o eventos que soliciten en forma periódica, eventual o permanente el servicio policiaco.
+Son sujetos de este derecho las personas físicas o morales, empresas, organizadores de fiestas o eventos que soliciten en forma periódica, eventual o permanente el servicio policíaco.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -5143,12 +5143,18 @@ P.O. 31 DE ENERO DE 1996.
 
 La aplicación del Impuesto al Hospedaje y este Decreto entrarán en vigor a partir del 1º de octubre de 1996, previa su publicación en el Periódico Oficial del Gobierno del Estado.
 
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO SEGUNDO.
 
-Durante los años de 1996 y 1997, el impuesto al hospedaje se calculará aplicando la tasa del 3% sobre el valor de facturación y/o contratación de los servicios a que se refiere el Artículo 168-B y 168-C, en lugar de la tasa establecida en el Artículo 168-E adicionado a la Ley de Hacienda del Estado mediante el Decreto número 161 que se reforma.
+Durante los años de 1996 y 1997, el Impuesto al Hospedaje se calculará aplicando la tasa del 2% sobre el valor de facturación y/o contratación de los servicios a que se refiere los Artículo 168-B y 168-C, en lugar de la tasa establecida en el Artículo 168-F adicionado a la Ley de Hacienda del Estado mediante el Decreto número 161 de fecha 18 de enero de 1996.
 
 P.O. 9 DE ABRIL DE 1996.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE QUINTANA ROO.
+
+P.O. 30 DE AGOSTO DE 1996.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
