@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2002-07-05"
+last_updated: "2003-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2003.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -497,7 +497,47 @@ Estos servicios comprenderán la atención médica, la atención materno infanti
 
 Son servicios privados, los que presten personas físicas o morales en las condiciones que convengan con los usuarios y sujetas a los ordenamientos legales civiles y mercantiles, sin perjuicio de los requisitos y obligaciones que establezcan otras disposiciones aplicables.
 
-#### SECCION I. DE LOS PROFESIONALES, TECNICOS Y AUXILIARES
+#### SECCION IX. DE LA PREVENCION Y EL CONTROL DE LAS ENFERMEDADES BUCODENTALES
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+
+ARTÍCULO 50 BIS.- El Ejecutivo del Estado a través de la Secretaría de Salud del Estado, en coordinación con las autoridades sanitarias Federales elaborarán programas y campañas temporales o permanentes para la prevención y control de las enfermedades bucodentales.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+
+ARTÍCULO 50 BIS 1.- El ejercicio de la acción de prevención y control de las enfermedades bucodentales, comprenderá una o más de las siguientes medidas, según el caso de que se trate:
+
+I.- La detección oportuna de las enfermedades bucodentales y la evaluación del riesgo de contraerlas;
+
+II.- La divulgación de medidas higiénicas para el control de los padecimientos bucodentales;
+
+III.- La prevención específica en cada caso y la vigilancia de su cumplimiento, y
+
+IV.- Las demás que sean necesarias para la prevención tratamiento y control de las enfermedades bucodentales que se presenten en la población.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+
+ARTÍCULO 50 BIS 2.- La detección y prevención de las enfermedades bucodentales en la población preescolar tiene carácter prioritario, los programas que la Secretaría de Salud del Estado elabore para atender este sector serán permanentes; además de las medidas señaladas en el artículo anterior, establecerá:
+
+I.- Acciones para el fomento y educación de la salud bucal orientadas al preescolar;
+
+II.- Actividades que promuevan la participación activa de los padres en la detección y prevención de las enfermedades bucodentales del preescolar;
+
+III.- Acuerdo de coordinación con las instituciones de los sectores público, social y privado, con el objeto de alcanzar una amplia cobertura en la atención de los servicios de salud bucal del preescolar, y
+
+IV.- Acciones que permitan el acceso de la salud bucal a la comunidad preescolar de los centros educativos ubicados en zonas rurales de la Entidad.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+
+ARTÍCULO 50 BIS 3.- Se establece la Cartilla Estatal de Salud Bucal, como el documento oficial de carácter gratuito que de forma individual, permita llevar un registro y control de la atención bucodental del educando; la Secretaría de Salud del Estado y las Autoridades Educativas Estatales determinarán su contenido, tomando en cuenta los objetivos de los programas estatal y nacional para la prevención y control de las enfermedades bucodentales.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+
+ARTÍCULO 50 BIS 4.- La prevención y control de la salud bucal de los menores es una responsabilidad que comparten los padres, los tutores o quienes ejerzan la patria potestad sobre ellos, los sectores de salud y educativo del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+
+ARTÍCULO 50 BIS 5.- La Secretaría de Educación y Bienestar Social del Estado en el ámbito de su competencia, coadyuvará con la Secretaría de Salud en la observancia y aplicación de los programas de salud bucal que se instrumenten a la población preescolar, de conformidad con las bases de coordinación que se establezcan entre ambas autoridades.
 
 ###### ARTÍCULO 41.
 
@@ -553,6 +593,10 @@ Para los efectos del artículo anterior, las Autoridades Sanitarias del Estado p
 
 Se concede acción popular para denunciar ante las Autoridades Sanitarias del Estado todo hecho, acto u omisión que represente un riesgo o provoque un daño a la salud de la población, bastando para darle curso el señalamiento de los datos que permitan localizar la causa del riesgo.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 14 DE MARZO DE 2003)</small>
+
+#### SECCION I. DE LOS PROFESIONALES, TECNICOS Y AUXILIARES
+
 #### SECCION II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 #### SECCION III. DE LA FORMACION, CAPACITACION Y ACTUALIZACION DE PERSONAL
@@ -565,11 +609,9 @@ Se concede acción popular para denunciar ante las Autoridades Sanitarias del Es
 
 #### SECCION I. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
-#### SECCION II. DEL PROGRAMA CONTRA EL TABAQUISMO
-
 ### CAPITULO QUINTO. DE LOS RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
-#### SECCION III. DEL PROGRAMA CONTRA LA FARMACODEPENDENCIA
+#### SECCION II. DEL PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTÍCULO 51.
 
@@ -605,7 +647,7 @@ El número de registro deberá consignarse en los documentos y papelería utiliz
 
 La Secretaría de Salud del Estado coadyuvará con el Departamento de Profesiones de la Secretaría de Educación y Bienestar Social, en la vigilancia del ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos.
 
-#### SECCION I. DISPOSICIONES COMUNES
+#### SECCION III. DEL PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
 ###### ARTÍCULO 57.
 
@@ -629,7 +671,7 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 Las Autoridades Sanitarias del Estado, con la participación de las instituciones de educación superior, colegios de profesionistas de la salud o asociaciones civiles, según se requiera, elaborarán programas de servicio social para los profesionales de la salud, en beneficio de grupos vulnerables, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-#### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
+#### SECCION I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 62.
 
@@ -717,7 +759,7 @@ De igual forma vigilarán la calidad del agua para uso y consumo humano, así co
 
 ### CAPITULO SEPTIMO. DE LA PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-#### SECCION III. DE LAS FUNERARIAS Y PANTEONES
+#### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
 
 ###### ARTÍCULO 73.
 
@@ -837,7 +879,7 @@ El Gobierno del Estado, a través de la Secretaría de Salud del Estado y las Au
 
 Las Autoridades Sanitarias del Estado mantendrán campañas permanentes a fin de orientar a la población, en la necesidad de vacunar y mantener bajo control los animales domésticos. Igualmente orientarán a la población sobre los diferentes sistemas para esterilizar a los animales domésticos, en forma voluntaria o en su caso obligatoria.
 
-#### SECCION IV. DE LA LIMPIEZA PUBLICA
+#### SECCION III. DE LAS FUNERARIAS Y PANTEONES
 
 ###### ARTÍCULO 89.
 
@@ -861,7 +903,7 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud rendirán los informes que la Autoridad Sanitaria del Estado requiera acerca de las enfermedades no transmisibles, en los términos de las disposiciones aplicables.
 
-#### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
+#### SECCION IV. DE LA LIMPIEZA PUBLICA
 
 ###### ARTÍCULO 92.
 
@@ -885,6 +927,8 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 ### CAPITULO OCTAVO. DE LA PREVENCION Y REHABILITACION DE DISCAPACITADOS
 
+#### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
+
 #### SECCION VI. DE LAS ALBERCAS Y BAÑOS PUBLICOS
 
 #### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
@@ -892,8 +936,6 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 #### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
 
 #### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS ESTETICOS COMO PELUQUERIAS, SALAS DE BELLEZA O MASAJE
-
-#### SECCION X. DE LOS TRANSPORTES DE CARGA
 
 ### CAPITULO NOVENO. DE LAS ADICCIONES
 
@@ -935,7 +977,7 @@ Las Autoridades Sanitarias del Estado tendrán entre sus objetivos, operar estab
 
 ### CAPITULO DECIMO. DE LA SALUBRIDAD LOCAL
 
-#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL
+#### SECCION X. DE LOS TRANSPORTES DE CARGA
 
 ###### ARTÍCULO 99.
 
@@ -963,7 +1005,7 @@ IV.- Efectos del abuso de bebidas alcohólicas en el ambiente familiar, social, 
 
 Queda estrictamente prohibido vender bebidas alcohólicas a menores de edad, a la persona que infrinja esta norma se le sancionará en términos de lo dispuesto por la normatividad aplicable.
 
-#### SECCION I. DE LAS AUTORIZACIONES
+#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL
 
 ###### ARTÍCULO 102.
 
@@ -987,7 +1029,7 @@ III.- Los efectos de la publicidad en la incidencia del tabaquismo y en los prob
 
 Queda estrictamente prohibido vender tabaco en cualquiera de sus presentaciones a los menores de edad, a quién infrinja esta disposición se le sancionará en términos de la normatividad aplicable.
 
-#### SECCION II. DE LA REVOCACION DE PERMISOS SANITARIOS
+#### SECCION I. DE LAS AUTORIZACIONES
 
 ###### ARTÍCULO 105.
 
@@ -1006,6 +1048,8 @@ III.- Brindarán la atención que se requiera a las personas que realicen o haya
 IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes.
 
 A los establecimientos, así como a los responsables de los mismos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que disponga la Secretaría de Salud del Estado y los Municipios, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
+
+#### SECCION II. DE LA REVOCACION DE PERMISOS SANITARIOS
 
 #### SECCION III. DE LOS CERTIFICADOS
 
@@ -1177,11 +1221,11 @@ La Autoridad Sanitaria del Estado realizará las inspecciones sanitarias que con
 
 ###### ARTÍCULO 142.
 
-Para los efectos de esta Ley, se entiende por establecimientos de belleza, los dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas; arreglo estético de uñas, manos y pies; la aplicación de tratamientos capilares de belleza o faciales, así como aquellos que se dediquen a proporcionar masajes, terapias fisícocorporales y similares.
+Para los efectos de esta Ley, se entiende por establecimientos de belleza, los dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas; arreglo estético de uñas, manos y pies; la aplicación de tratamientos capilares de belleza o faciales, así como aquellos que se dediquen a proporcionar masajes, terapias físicocorporales y similares.
 
 ###### ARTÍCULO 143.
 
-Se consideran procedimientos de embellecimiento del cuerpo humano mediante masajes faciales o terapias fisícocorporales y similares, así como aquellos que se utilizan para modificar las características externas y superficiales, mediante la aplicación de sustancias, productos o preparados de uso externo, los destinados a incrementar la belleza del cuerpo humano o a mejorar su apariencia física y en donde no haya intervención quirúrgica.
+Se consideran procedimientos de embellecimiento del cuerpo humano mediante masajes faciales o terapias físicocorporales y similares, así como aquellos que se utilizan para modificar las características externas y superficiales, mediante la aplicación de sustancias, productos o preparados de uso externo, los destinados a incrementar la belleza del cuerpo humano o a mejorar su apariencia física y en donde no haya intervención quirúrgica.
 
 ###### ARTÍCULO 144.
 
@@ -1678,3 +1722,11 @@ C.P. JORGE RAMOS.
 P.O. 5 DE JULIO DE 2002.
 
 UNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE MARZO DE 2003.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado por conducto de la Secretaría de Salud, elaborará el "Programa Estatal de Prevención y Control de la salud bucodental del preescolar" dentro de un término no mayor a seis meses, contados a partir de la entrada en vigor de esta reforma, para dicho efecto tomará en cuenta los programas ya existentes, adecuando su contenido.
+
+TERCERO.- La Secretaría de Salud del Estado conjuntamente con la Secretaría de Educación y Bienestar Social del Estado, y escuchando la opinión de las Asociaciones de Odontólogos debidamente registrados en el Departamento de Profesiones del Estado, definirán el contenido que deba establecerse en la "Cartilla Estatal de Salud Bucal" dentro de un plazo no mayor a seis meses, contados a partir de la entrada en vigor de esta reforma.
