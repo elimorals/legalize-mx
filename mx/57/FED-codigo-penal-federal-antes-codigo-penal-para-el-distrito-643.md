@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2002-02-06"
+last_updated: "2002-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 2002.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1127,8 +1127,6 @@ La muerte del delincuente extingue la acción penal, así como las sanciones que
 
 ### CAPITULO III. Perdón del Ofendido o Legitimado para Otorgarlo
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
-
 ###### ARTICULO 92.
 
 La amnistía extingue la acción penal y las sanciones impuestas, excepto la reparación del daño, en los términos de la ley que se dictare concediéndola, y si no se expresaren, se entenderá que la acción penal y las sanciones impuestas se extinguen con todos sus efectos, con relación a todos los responsables del delito.
@@ -1141,21 +1139,13 @@ La amnistía extingue la acción penal y las sanciones impuestas, excepto la rep
 
 El perdón del ofendido o del legitimado para otorgarlo extingue la acción penal respecto de los delitos que se persiguen por querella, siempre que se conceda ante el Ministerio Público si éste no ha ejercitado la misma o ante el órgano jurisdiccional antes de dictarse sentencia de segunda instancia. Una vez otorgado el perdón, éste no podrá revocarse.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
 Lo dispuesto en el párrafo anterior es igualmente aplicable a los delitos que sólo pueden ser perseguidos por declaratoria de perjuicio o por algún otro acto equivalente a la querella, siendo suficiente para la extinción de la acción penal la manifestación de quien está autorizado para ello de que el interés afectado ha sido satisfecho.
-
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
 Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facultad de perdonar al responsable del delito y al encubridor, el perdón sólo surtirá efectos por lo que hace a quien lo otorga.
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
-
 El perdón sólo beneficia al inculpado en cuyo favor se otorga, a menos que el ofendido o el legitimado para otorgarlo, hubiese obtenido la satisfacción de sus intereses o derechos, caso en el cual beneficiará a todos los inculpados y al encubridor.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
-El perdón del ofendido y del legitimado para otorgarlo en delitos de los mencionados en los dos párrafos anteriores, también extingue la ejecución de la pena, siempre y cuando se otorgue en forma indubitable ante la autoridad ejecutora.
+> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 4 DE DICIEMBRE DE 2002)</small>
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -2681,9 +2671,7 @@ Al que cometa el delito de coalición de servidores públicos se le impondrán d
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
-### CAPITULO II. Falsificación y utilización indebida de títulos al portador, documentos de crédito público
-
-y documentos relativos al crédito
+### CAPITULO II. Falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito
 
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
@@ -2795,7 +2783,7 @@ I.- El servidor público que por sí, o por interpósita persona solicite o reci
 
 II.- El que de manera espontánea dé u ofrezca dinero o cualquier otra dádiva a alguna de las personas que se mencionan en la fracción anterior, para que cualquier servidor público haga u omita un acto justo o injusto relacionado con sus funciones.
 
-Al que comete el delito de cohecho se le impondrán las siguientes sanciones:
+Al que comete el delito de cohecho se le impondrán las siguiente sanciones:
 
 Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
 
@@ -4493,7 +4481,7 @@ En los demás casos en que espontáneamente se libere al secuestrado, sin lograr
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2000)</small>
 
-ARTICULO 366 bis.- Se impondrá pena de dos a diez años de prisión y de doscientos a mil días multa, al que en relación con las conductas sancionadas por el artículo anterior y fuera de las causas de exclusión del delito previstas por la ley:
+ARTICULO 366 BIS.- Se impondrá pena de dos a diez años de prisión y de doscientos a mil días multa, al que en relación con las conductas sancionadas por el artículo anterior y fuera de las causas de exclusión del delito previstas por la ley:
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 13 DE MAYO DE 1996)</small>
 
@@ -6066,3 +6054,7 @@ D.O.F. 6 DE FEBRERO DE 2002.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los artículos del Título Vigésimo Quinto del Código Penal Federal, vigentes hasta la entrada en vigor del presente decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal Federal.
+
+D.O.F. 4 DE DICIEMBRE DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
