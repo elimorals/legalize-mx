@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-fraccionamientos-del-estado-de-baja-california-37
 country: "mx"
 rank: "reglamento"
 publication_date: "1971-04-10"
-last_updated: "1991-09-20"
+last_updated: "1993-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE FRACCIONAMIENTOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 1993.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el sábado 10 de abril de 1971.
 
@@ -1143,25 +1143,25 @@ e.- Las manzanas o lotes cedidos al Gobierno del Estado de acuerdo con las dispo
 
 f.- Los nombres y superficies de las vías públicas.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 62.
 
-De la licencia.
+Para la realización de todo tipo de fraccionamientos en el Estado, se requiere autorización previa que será otorgada por el Ejecutivo del Estado o por la autoridad municipal correspondiente, dentro de sus respectivos ámbitos de competencia.
 
-Todos los fraccionamientos que se realicen en el Estado de Baja California requieren licencia; que otrogará (sic) el Ejecutivo del Gobierno del Estado.
+La autorización surtirá sus efectos a los ocho días hábiles, contados a partir de su publicación en el Periódico Oficial del Estado, siempre que no haya sido impugnado por el fraccionador en cuyo caso se entenderá que acepta en sus términos la autorización así como las obligaciones en él establecidas.
 
-Las autorizaciones para el establecimiento de fraccionamientos serán otorgadas por escritura pública en que se concreten todas las obligaciones a que debe sujetarse el propietario del fraccionamiento. Para el otorgamiento de la escritura pública se fija un plazo de noventa días. Los gastos respectivos serán por cuenta del fraccionador.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 63.
 
-De las operaciones de compra-venta.
+Se dejará sin efecto autorización de un fraccionamiento si lleva a cabo contratos de promesa de venta o vende a terceros, sin que haya realizado las obras de urbanización y se haya formalizado las entregas de las áreas de donación correspondientes.
 
-Ningún fraccionador podrá vender lotes en el fraccionamiento o zonas autorizadas, hasta que se hayan otorgado las escrituras a que se refiere el Artículo 62 del presente Reglamento y se hayan terminado las obras de urbanización correspondientes y éstas hayan sido aprobadas por la Dirección General de Obras y Servicios Públicos del Estado. Para los efectos de este Artículo se considera que el fraccionador tiene derecho a que se le aprueben las obras de urbanización cuando éstas se hayan ejecutado por manzanas completas.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 64.
 
-De los permisos de construcción de las edificaciones.
-
-El Gobierno del Estado no autorizará edificación alguna en el fraccionamiento o zona de que se trata sino hasta que la Dirección General de Obras y Servicios Públicos del Estado, reciba de conformidad todos los servicios municipales construídos en dicho fraccionamiento o zona en que se haya otorgado la escritura a que se refiere el Artículo 62.
+No se otorgará autorización de edificación de ningún fraccionamiento, si no hasta que el fraccionador haya realizado las obras de urbanización a que se haya obligado.
 
 ###### ARTICULO 65.
 
@@ -1195,13 +1195,13 @@ Del uso del beneficio de la expropiación.
 
 El propietario o propietarios de los terrenos que fueron expropiados en el caso del Artículo anterior, estarán obligados, si llegaren a fraccionar o a ejecutar edificaciones con frente a las calles así formadas, a reintegrar el valor pagado por concepto de dicha expropiación y a cubrir, además, el costo de las obras de urbanización ejecutadas.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 70.
 
-De las donaciones.
+Las superficies donables en favor de los Municipios o del Gobierno del Estado, no podrán ser inferiores a los porcentajes que el presente reglamento señala; asímismo dichas áreas deberán ser las que la autoridad respectiva señale.
 
-De acuerdo con lo que se establece en los Artículos respectivos del presente Reglamento en lo que respecta al porcentaje de cada tipo de fraccionamiento autorizado, en todo fraccionamiento deberá hacerse donación a favor del Gobierno del Estado y la superficie que se calcule será a juicio de la Dirección General de Obras y Servicios Públicos del Estado el determinar su ubicación.
-
-Para los efectos del cálculo de las superficies de donación, se entiende por superficie vendible la que resulte de deducir de la superficie total del terreno por fraccionar, la destinada a vías públicas, a jardines, a áreas para escuelas, y a superficie de donación.
+Para los efectos del cálculo de las superficies de donación, se entiende por superficie vendible la que resulte de deducir de la superficie total del terreno por fraccionar, las destinadas a vías públicas, a jardines, a áreas para escuelas, y a superficies de donación.
 
 ###### ARTICULO 71.
 
@@ -1211,17 +1211,19 @@ Al aceptar el Gobierno del Estado la donación a que se refiere el Artículo ant
 
 Para su enajenación a cualquier título, se requerirá de la anuencia del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 72.
 
-De la escritura pública.
+En el acuerdo de autorización de un fraccionamiento, se identificarán las superficies correspondientes a los porcentajes de donación a que se refiere el presente reglamento.
 
-En la misma escritura pública a que se refiere el Artículo 62, se harán constar las donaciones de las superficies que se destinarán a vías públicas y a aquellas a que se contraen en el Artículo 70 y los demás en que se señalan dependiendo de la clasificación del tipo de fraccionamiento que se autoriza.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 73.
 
 De fraccionamientos dentro de otros fraccionamientos.
 
-En el caso de nuevos fraccionamientos que pretendan ejecutarse dentro de otros que hayan sido establecidos con anterioridad y que hubieren satisfecho la obligación de donar terrenos para servicios públicos de conformidad con las Leyes y Reglamentos o disposiciones vigentes en la fecha de su iniciación o de acuerdo con los contratos celebrados con la Autoridad competente no estarán obligados a hacer la donación a que se refiere el Artículo 70 y demás de este Ordenamiento. La comprobación se haber satisfecho esa donación, se hará mediante las escrituras públicas debidamente registradas.
+En el caso de nuevos fraccionamientos que pretendan ejecutarse dentro de otros que hayan sido establecidos y autorizados con anterioridad y que hubieren satisfecho la obligación de donar terrenos para servicios públicos de conformidad con las Leyes y reglamentos o disposiciones vigentes en la fecha de su iniciación o de acuerdo con los contratos celebrados con la autoridad competente no serán obligados a hacer la donación a que se refiere el Artículo 70 y demás de este Ordenamiento.
 
 ###### ARTICULO 74.
 
@@ -1241,17 +1243,19 @@ De la iniciación de las obras.
 
 El fraccionador no podrá iniciar las obras de urbanización en los terrenos por fraccionar, hasta que se le haya autorizado y recibido los trazos de planificación del fraccionamiento, haya otorgado la fianza, fideicomiso o constituído el depósito que garantice la ejecución de dichas obras; cubierto la supervisión, entregado las superficies de donación y pagado las cantidades que señalen en cada caso las Leyes relativas.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 77.
 
-De los gastos de escrituración.
-
-Todos los gastos de escrituras públicas que tengan por objeto legalizar convenios entre el gobierno del Estado y los fraccionadores, para cumplimentar las prescripciones de este Reglamento, serán por cuenta exclusiva de los fraccionadores.
+Todos los gastos que se hagan por la entrega de las áreas donables serán por cuenta del fraccionador.
 
 ###### ARTICULO 78.
 
 De las Colonias Populares.
 
-De acuerdo con lo que señala la Ley de Fraccionamientos del Estado de Baja California, se declara de utilidad pública la creación de Colonias Populares y éstas se ajustarán en lo que para el caso establece el presente Reglamento.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1993)</small>
+
+De acuerdo con lo que señala el Reglamento de Fraccionamientos del Estado de Baja California, se declara de utilidad pública la creación de colonias populares y éstas se ajustarán en lo que para el caso establece el presente reglamento.
 
 ### CAPITULO IV. URBANIZACION
 
@@ -1325,43 +1329,45 @@ Ya sea un solo predio o varios, con un sólo propietario o varios, pueden juntar
 
 Para el trámite del permiso de fraccionamiento, todos los propietarios nombrarán a una sola persona para que se encargue del trámite y los represente, para lo cual todos y cada uno de ellos le darán poder notarial que lo acredite como tal.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 90.
 
-De la superficie de calles, avenidas y banquetas.
+Las áreas donables destinadas a vías públicas, podrán ser entregadas mediante documento privado.
 
-Las superficies de las calles, avenidas y banquetas, mediante escritura pública, serán cedidas al Gobierno del Estado, previa a la iniciación del fraccionamiento.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 91.
 
-Parques y jardines.
+Las superficies donables destinadas para áreas verdes no podrán ser inferiores a los porcentajes que señala este reglamento, su construcción o conservación serán a cargo del fraccionador, hasta el momento en que el fraccionamiento sea recibido por la autoridad correspondiente, éstas donaciones se podrán hacer mediante documento privado.
 
-Como lo establecen los artículos correspondientes del presente Reglamento, los parques y jardines se ajustarán a la superficie mínima cuyo porcentaje se estableció para cada tipo de fraccionamiento. El costo de construcción de los mismos será por cuenta del fraccionador así como su conservación, hasta el momento en que el fraccionamiento sea recibido por el Gobierno del Estado.
-
-La superficie correspondiente, mediante escritura pública será cedida al Gobierno del Estado, previa a la iniciación del fraccionamiento.
-
-Los camellones enjardinados de las calles o avenidas, para efectos de donación al Gobierno, no se considerarán como parques o jardines, salvo que éstos tengan un ancho mayor de 8 metros.
+Los camellones enjardinados de las calles o avenidas; para efectos de donación no se considerarán como parques y jardines, salvo que éstos tengan un ancho mayor de 8.00 metros.
 
 El proyecto de las obras de los parques y jardines, formarán parte del conjunto de los demás proyectos de obras de urbanización.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 92.
 
-De las áreas para servicios públicos.
-
-Todos los fraccionamientos, de acuerdo con las exigencias de los mismos y a juicio de la Dirección General de Obras y Servicios Públicos, destinarán, dentro de su zonificación, áreas suficientes para construir en ellas aquellas instalaciones que se requieran para atender servicios públicos especiales.
-
-La superficie que se destine para el caso, mediante escritura pública, será cedida al Gobierno del Estado, previa a la iniciación del fraccionamiento.
+Todos los fraccionamientos destinarán, dentro de su zonificación áreas suficientes, a juicio de la autoridad correspondiente, para construir en ellas aquellas instalaciones que se requieran para atender servicios públicos especiales, su donación podrá efectuarse en favor de la autoridad pública mediante documento privado.
 
 ###### ARTICULO 93.
 
 De las áreas para escuelas.
 
-La superficie destinada a escuela, se señalará con toda claridad en los planos del fraccionamiento y mediante escritura pública, será cedida al Gobierno del Estado, previa él la iniciación del fraccionamiento.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1993)</small>
+
+La superficie destinada para escuela se señalará con toda claridad en los planos del fraccionamiento y su entrega en favor del Gobierno del Estado se podrá hacer en documento privado, mismo que deberá inscribirse ante el Registro Público de la Propiedad y del Comercio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE NOVIEMBRE DE 1993)</small>
+
+Previo a la aprobación de los planos o proyectos, así como del acuerdo de autorización de un fraccionamiento, se deberá solicitar por escrito la opinión de la Oficialía Mayor de Gobierno, para determinar la ubicación de la superficie de acuerdo a las necesidades educativas.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 94.
 
-De la superficie de donación al Gobierno del Estado.
-
-La superficie de donación que corresponde al Gobierno del Estado y cuyos porcentajes se establecen para cada tipo de fraccionamiento en los artículos relativos, se señalarán claramente en los planos del fraccionamiento autorizado y mediante escritura pública, se cederán al Gobierno del Estado, previa a la iniciación del fraccionamiento.
+Las superficies de donación que correspondan en favor del Gobierno del Estado o de los Municipios de acuerdo a los porcentajes que este reglamento señala, serán indicadas claramente en los planos correspondientes, y su entrega en favor de dichas entidades públicas se podrá efectuar mediante documento privado.
 
 ###### ARTICULO 95.
 
@@ -1801,6 +1807,10 @@ TERCERO.- Mientras se publican las Normas y Especificaciones de Urbanización de
 
 CUARTO.- Para el caso de los fraccionamientos existentes que no tienen permiso se les concede un plazo de un año a partir de la fecha de la publicación del presente Reglamento, para que soliciten su regularización, pasado ese tiempo se harán acreedores a las sanciones que para el caso se señalan.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 1993)</small>
+
+QUINTO.- Cuando en las disposiciones del presente Reglamento se mencione: "Dirección General de Obras y Servicios Públicos"; y "Tesorería General del Estado"; debe entenderse que se refiere a la Secretaría de Asentamientos Humanos y Obras Públicas y Secretaría de Finanzas del Estado, respectivamente, quienes no obstante el cambio de denominación, desempeñan las atribuciones conferidas a aquellas.
+
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 DADO en la Ciudad de Mexicali, Capital del Estado de Baja California, el día veinte y tres (sic) de enero de mil novecientos setenta y uno.
@@ -1832,3 +1842,13 @@ TERCERO.- Estas reformas entrarán en vigor el día siguiente de su publicación
 P.O. 20 DE SEPTIEMBRE DE 1991.
 
 PRIMERO.- EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL, ORGANO DEL GOBIERNO DEL ESTADO.
+
+P.O. 26 DE NOVIEMBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente hábil, al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Fraccionamientos autorizados con anterioridad a la publicación del presente acuerdo y que no hayan formalizado la entrega de las áreas donables correspondientes, se podrán efectuar mediante documento privado.
