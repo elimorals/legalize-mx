@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-7180
 country: "mx"
 rank: "ley"
 publication_date: "1970-09-29"
-last_updated: "1974-08-07"
+last_updated: "2001-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LIBERTAD DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1974
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2001.
 
 Ley publicada en el Periódico Oficial "Estado de Sinaloa", el martes 29 de septiembre de 1970.
 
@@ -481,6 +481,10 @@ III.- Que alguna persona solvente, honrada y de arraigo, se obligue a presentarl
 
 IV.- Haber reparado el daño u otorgado garantía para cubrir su monto;
 
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)</small>
+
+El beneficio de la libertad preparatoria no se concederá a sentenciados por el delito de secuestro previsto por los artículos 167 y 168 del Código Penal para el Estado.
+
 ###### ARTICULO 61.
 
 La libertad preparatoria sólo se concederá a los reincidentes cuando medie informe favorable, del Organismo Técnico Criminológico y el Director del Instituto lo remita al Ejecutivo del Estado, recabando previamente, la opinión de la Procuraduría General de Justicia del Estado.
@@ -596,3 +600,9 @@ Los reos que al entrar en vigor el presente Decreto tengan cumplidas las dos qui
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 22 DE AGOSTO DE 2001.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
