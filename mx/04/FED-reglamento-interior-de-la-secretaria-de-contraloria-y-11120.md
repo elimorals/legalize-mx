@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-contraloria-y-11120"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-16"
-last_updated: "2001-11-29"
+last_updated: "2003-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,9 @@ issue_date: "2001-07-12"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE CONTRALORIA Y DESARROLLO ADMINISTRATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 2003.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el lunes 16 de julio de 2001.
-
-REGLAMENTO Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -561,7 +559,7 @@ VIII. Proponer a la superioridad los sistemas y procedimientos a que deba sujeta
 
 IX. Coordinar acciones con la Unidad de Control y Evaluación de la Gestión Pública y la Coordinación General de Órganos de Vigilancia y Control, a efecto de que los órganos internos de control de las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y de la Procuraduría General de la República coadyuven en la realización de auditorías específicas;
 
-X. (DEROGADOA, D.O.F. 29 DE NOVIEMBRE DE 2001)
+X. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2001)
 
 > <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
@@ -811,11 +809,27 @@ VII. Proponer a la superioridad la resolución de los requerimientos de autoriza
 
 VIII. Nombrar a los notarios públicos que fungirán como notarios del Patrimonio Inmueble Federal; autorizar y revisar sus protocolos especiales y habilitar a los notarios públicos en el caso previsto en el artículo 73 de la Ley General de Bienes Nacionales;
 
-IX. Imponer las sanciones que compete aplicar a esta Secretaría de conformidad con la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como las que correspondan a los notarios públicos del patrimonio inmueble federal, en los términos de la Ley General de Bienes Nacionales;
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2003)</small>
 
-X. Llevar por sí o por conducto de los órganos internos de control, los procedimientos de conciliación a que se refieren los artículos 71 a 73 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 89 a 91 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y
+IX. Imponer las sanciones que compete aplicar a esta Secretaría a los notarios públicos en los términos de la Ley General de Bienes Nacionales;
 
-XI. Las demás que le atribuya expresamente el Titular de la Secretaría.
+> <small>(ADICIONADA, D.O.F. 13 DE MARZO DE 2003)</small>
+
+X. Imponer las sanciones que corresponde aplicar a esta Secretaría a los licitantes, proveedores o contratistas, de conformidad con lo previsto por las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios Relacionados con las Mismas y demás ordenamientos legales aplicables y actuar igualmente en los asuntos que por acuerdo de atracción determine el Titular de la Secretaría deba conocer directamente, en cuyo caso solicitará al órgano interno de control de la dependencia, órgano desconcentrado o entidad de que se trate, o de la Procuraduría General de la República la remisión del expediente respectivo.
+
+Asimismo impondrá las sanciones a que se refiere el párrafo anterior, en tratándose de actos y procedimientos regulados por dichos ordenamientos que realicen las entidades federativas y el Gobierno del Distrito Federal con cargo total o parcial a fondos federales, conforme a los convenios que celebren con el Ejecutivo Federal;
+
+> <small>(ADICIONADA, D.O.F. 13 DE MARZO DE 2003)</small>
+
+XI. Verificar y supervisar el trámite de los expedientes administrativos de sanciones que impongan los órganos internos de control a los licitantes, proveedores o contratistas que infrinjan las leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios Relacionados con las Mismas;
+
+> <small>(ADICIONADA, D.O.F. 13 DE MARZO DE 2003)</small>
+
+XII. Proponer a la superioridad los criterios y lineamientos tendientes a agilizar y perfeccionar la sustanciación de los expedientes administrativos de sanciones y realizar los estudios que para este propósito se requieran y, en su caso, coadyuven al desarrollo de las actividades que en esta materia competen a los órganos internos de control de las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y de la Procuraduría General de la República;
+
+XIII. Llevar por sí o por conducto de los órganos internos de control, los procedimientos de conciliación a que se refieren los artículos 71 a 73 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 89 a 91 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y
+
+XIV. Las demás que le atribuya expresamente el Titular de la Secretaría.
 
 ### CAPÍTULO VI. De la Contraloría Interna
 
@@ -1525,7 +1539,9 @@ III. Los titulares de los órganos internos de control tendrán, en el ámbito d
 
 Calificar los pliegos preventivos de responsabilidades que formulen las dependencias, órganos desconcentrados y entidades y la Procuraduría General de la República, en los términos de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, así como la Tesorería de la Federación, conforme a lo dispuesto por la Ley del Servicio de Tesorería de la Federación, fincando cuando proceda los pliegos de responsabilidades a que hubiere lugar, salvo los que sean competencia de la Dirección General mencionada;
 
-2. Dictar las resoluciones en los recursos de revocación que interpongan los servidores públicos, y de revisión que se hagan valer en contra de las resoluciones de las inconformidades previstas en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, que emitan los titulares de las áreas de responsabilidades;
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2003)</small>
+
+2. Dictar las resoluciones en los recursos de revocación que interpongan los servidores públicos, y de revisión que se hagan valer en contra de las resoluciones de las inconformidades previstas en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como en contra de aquellas resoluciones por las que se impongan sanciones a los licitantes, proveedores y contratistas en los términos de dichos ordenamientos, que emitan los titulares de las áreas de responsabilidades;
 
 3. Realizar la defensa jurídica de las resoluciones que emitan ante las diversas instancias jurisdiccionales, representando al Titular de la Secretaría, así como expedir las certificaciones de los documentos que obren en los archivos del órgano interno de control;
 
@@ -1563,13 +1579,23 @@ a) Los titulares de las áreas de Responsabilidades:
 
 3. Dictar las resoluciones en los recursos de revocación interpuestos por los servidores públicos respecto de la imposición de sanciones administrativas, así como realizar la defensa jurídica de las resoluciones que emitan ante las diversas instancias jurisdiccionales, representando al Titular de la Secretaría;
 
-4. Recibir y resolver las inconformidades interpuestas por los actos que contravengan lo dispuesto por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y por la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y realizar, cuando lo considere conveniente, investigaciones de oficio a partir de las inconformidades que hubiere conocido, en los términos de los artículos 68 y 86 de dichos ordenamientos, respectivamente, con excepción de aquellas que por acuerdo del Secretario deba conocer la Dirección General de Inconformidades, así como instruir los recursos de revisión que se hagan valer en contra de las resoluciones de inconformidades en los términos de las Leyes mencionadas, y someterlos a la consideración del titular del órgano interno de control;
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2003)</small>
 
-5. Auxiliar al titular del órgano interno de control en la formulación de requerimientos, información y demás actos necesarios para la atención de los asuntos en materia de responsabilidades, así como solicitar a las unidades administrativas la información requerida para el cumplimiento de sus funciones, y
+4. Recibir y resolver las inconformidades interpuestas por los actos que contravengan lo dispuesto por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y por la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y realizar, cuando lo considere conveniente, investigaciones de oficio a partir de las inconformidades que hubiere conocido, en los términos de los artículos 68 y 86 de dichos ordenamientos, respectivamente, con excepción de aquellas que por acuerdo del Secretario deba conocer la Dirección General de Inconformidades;
+
+> <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2003)</small>
+
+5. Con excepción de lo establecido en la fracción X del artículo 22 de este Reglamento, tramitar y resolver los procedimientos administrativos correspondientes e imponer las sanciones a los licitantes, proveedores y contratistas en los términos de las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios Relacionados con las Mismas, e informar a la Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal sobre el estado que guarde la tramitación de los expedientes de sanciones que sustancie;
+
+> <small>(ADICIONADO, D.O.F. 13 DE MARZO DE 2003)</small>
+
+6. Instruir los recursos de revisión que se hagan valer en contra de las resoluciones de inconformidades, así como en contra de las resoluciones por las que se impongan sanciones a los licitantes, proveedores y contratistas en los términos de las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios Relacionados con las Mismas, y someterlos a la consideración del titular del órgano interno de control;
+
+7. Auxiliar al titular del órgano interno de control en la formulación de requerimientos, información y demás actos necesarios para la atención de los asuntos en materia de responsabilidades, así como solicitar a las unidades administrativas la información requerida para el cumplimiento de sus funciones, y
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-6. Las demás que les atribuya expresamente el Secretario y el titular del órgano interno de control correspondiente;
+8. Las demás que les atribuya expresamente el Secretario y el titular del órgano interno de control correspondiente;
 
 b) Los titulares de las áreas de Auditoría:
 
@@ -1753,9 +1779,11 @@ V. Las demás que le confiera el Titular de la Secretaría y las que le señalen
 
 ### CAPÍTULO XII. De la Suplencia de los Servidores Públicos de la Secretaría
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MARZO DE 2003)</small>
+
 ###### ARTÍCULO 52.
 
-Durante las ausencias del Secretario el despacho y resolución de los asuntos correspondientes a la Dependencia, estarán a cargo de los Subsecretarios de Atención Ciudadana y Normatividad, y de Control y Auditoría de la Gestión Pública en el orden mencionado y en ausencia de éstos, por el Oficial Mayor. En los juicios de amparo y en las controversias constitucionales en que deba intervenir en representación del Presidente de la República o como Titular de la Secretaría, será suplido indistintamente, por los servidores públicos antes señalados y en el orden indicado o por el Titular de la Unidad de Asuntos Jurídicos.
+Durante las ausencias del Secretario el despacho y resolución de los asuntos correspondientes a la Dependencia, estarán a cargo de los Subsecretarios de Atención Ciudadana y Normatividad, de Control y Auditoría de la Gestión Pública, y de Desarrollo y Simplificación Administrativa en el orden mencionado y en ausencia de éstos, por el Oficial Mayor. En los juicios de amparo y en las controversias constitucionales en que deba intervenir en representación del Presidente de la República o como Titular de la Secretaría, será suplido indistintamente, por los servidores públicos antes señalados y en el orden indicado o por el Titular de la Unidad de Asuntos Jurídicos.
 
 En los juicios de amparo en que deban intervenir los Subsecretarios y el Oficial Mayor serán suplidos por el Titular de la Unidad o el Director General adscrito en el área de su responsabilidad que ellos mismos designen.
 
@@ -1775,9 +1803,9 @@ Durante las ausencias de los titulares de las áreas de responsabilidades, audit
 
 Las ausencias de los supervisores regionales serán suplidas por los supervisores regionales adjuntos, y éstos, por el especialista en atención ciudadana que designe el supervisor regional.
 
-> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2003)</small>
 
-En el caso de las vacantes de los titulares de los órganos internos de control, en tanto el Titular de la Secretaría designa al servidor público correspondiente fungirá con ese carácter el titular del área de auditoría o el de quejas, en ese orden.
+En el caso de las vacantes de los titulares de los órganos internos de control, en tanto el Titular de la Secretaría designa al servidor público correspondiente fungirá con ese carácter el titular del área de auditoría interna o el de auditoría, según corresponda, o el de quejas, en ese orden.
 
 > <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
@@ -1816,3 +1844,17 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 TERCERO.- Los asuntos pendientes al entrar en vigor este Decreto, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les haya atribuido la competencia en el presente ordenamiento.
+
+D.O.F. 13 DE MARZO DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Diario Oficial de la Federación, con excepción de la reforma a los artículos 52, párrafo primero y 54, párrafo quinto del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, la cual entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- Los procedimientos de aplicación de sanciones previstos en las Leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios Relacionados con las Mismas que se encuentren en trámite o pendientes de resolución al entrar en vigor el presente Decreto y que con motivo del mismo corresponda conocer a los titulares de las áreas de responsabilidades de los órganos internos de control de las dependencias, órganos desconcentrados y entidades de la Administración Pública Federal y de la Procuraduría General de la República, deberán ser turnados por la Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal a dichos titulares, en el estado procesal en que se encuentren para que éstos continúen con su tramitación y resuelvan en definitiva.
+
+Los recursos de revisión presentados en contra de las sanciones impuestas por el Titular de la Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal que a la entrada en vigor del presente Decreto se encuentren en trámite, serán resueltos por el superior jerárquico de dicho Titular, en los términos de la Ley Federal de Procedimiento Administrativo.
+
+CUARTO.- Los procedimientos de aplicación de sanciones que en materia de adquisiciones, arrendamientos, servicios de cualquier naturaleza, obras públicas y servicios relacionados con las mismas, se encuentren en trámite o pendientes de resolución bajo los supuestos de la Ley de Adquisiciones y Obras Públicas, se tramitarán y resolverán por la Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal.
+
+QUINTO.- Sin perjuicio de lo anterior, el Titular de la Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal, podrá turnar los asuntos referidos en el artículo que antecede al titular del área de responsabilidades del órgano interno de control que corresponda de conformidad con el presente Decreto, para su trámite y resolución en los términos señalados en el artículo tercero transitorio de este ordenamiento.
