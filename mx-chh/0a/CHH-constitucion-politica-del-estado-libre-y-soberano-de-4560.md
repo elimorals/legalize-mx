@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1968-01-31"
+last_updated: "1976-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1976.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -341,6 +341,8 @@ DEL PODER LEGISLATIVO.
 
 DE LA INSTALACION DEL CONGRESO, PERIODOS DE SUS SESIONES Y CARACTER DE SUS DISPOSICIONES.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1976)</small>
+
 ###### Art. 40.
 
 El Congreso se integrará por tantos Diputados como Distritos Electorales haya en el Estado, no pudiendo éstos ser menos de nueve. La Ley Electoral dividirá en Distritos el Territorio del Estado, correspondiendo a cada uno no menos de 30,000 habitantes. Por cada Distrito se elegirá popularmente un Diputado Propietario y un Suplente.
@@ -397,7 +399,7 @@ DE LAS ATRIBUCIONES DEL CONGRESO.
 
 ###### Art. 44.
 
-El Congreso se renovará totalmente el año correspondiente y los Diputados durarán tres años en su encargo. Ninguno de ellos, ya sean Propietarios o Suplentes, podrán ser reelectos en cualquiera de sus cargos para el período siguiente, exceptuando a los Suplentes cuando no hubieren entrado en funciones durante su período constitucional para el que fueron electos. El Congreso se instalará en casos ordinarios el día 15 quince de septiembre y en los extraordinarios, únicos en que será necesaria la convocatoria, el día que ésta fije, y cambiará su nomenclatura cada tres años.
+El Congreso se renovará totalmente el año correspondiente y los Diputados durarán tres años en su encargo. Ninguno de ellos, ya sean Propietarios o Suplentes, podrán ser reelectos en cualquiera de sus cargos para el período siguiente, exceptuando a los Suplentes cuando no hubieren entrado en funciones durante su período constitucional para que fueron electos. El Congreso se instalará en casos ordinarios el día treinta de septiembre y en los extraordinarios, únicos en que será necesaria la convocatoria, el día que ésta fije y cambiará su nomenclatura cada tres años.
 
 ###### Art. 45.
 
@@ -415,9 +417,11 @@ Si no hubiere la mayoría requerida para la instalación del Congreso, o para qu
 
 Para la discusión y votación de todo proyecto de ley, se requiere la concurrencia de los dos tercios del número total de Diputados que integren la Legislatura.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1976)</small>
+
 ###### Art. 48.
 
-El Congreso tendrá cada año dos períodos ordinarios de sesiones, comenzando el primero el 15 de septiembre y terminando el 31 de diciembre y se destinará de preferencia al examen y votación de las leyes de Ingresos y Presupuesto de Egresos del Estado y de los Municipios que deban regir en el año siguiente.
+El Congreso tendrá cada año dos períodos ordinarios de sesiones, comenzando el primero el treinta de septiembre y terminando el treinta y uno de diciembre y se destinará de preferencia al examen y votación de las Leyes de Ingresos y Presupuesto de Egresos del Estado y de los Municipios que deban regir en el año siguiente.
 
 ###### Art. 49.
 
@@ -451,9 +455,11 @@ Señalado el día para la discusión de iniciativas presentadas por el Ejecutivo
 
 Siempre que el Congreso abra o cierre un período de sesiones, o lo prorrogue, lo hará por formal decreto.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1976)</small>
+
 ###### Art. 55.
 
-A la apertura del primer período ordinario de sesiones, concurrirán el Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia, y leerá cada uno de ellos un informe sobre el estado que guarden los ramos de su administración, respectivamente; debiendo el Presidente del Congreso contestarles en términos generales.
+A la apertura del primer período ordinario de sesiones, concurrirá el Gobernador del Estado, quien leerá un informe sobre el estado que guarde la Administración Pública, debiendo el Presidente del Congreso contestarle en términos generales.
 
 ###### Art. 56.
 
@@ -481,7 +487,9 @@ Si pasado un mes de la fecha en que deba instalarse una Legislatura no hubieren 
 
 Sólo desaparecerá la Legislatura:
 
-I.- Cuando llegado el quince de septiembre, no hubiere electos más de la mitad del número total de Diputados que deban integrar la que ha de instalarse en esa fecha, ya sean propietarios o sus respectivos suplentes.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1976)</small>
+
+I.- Cuando llegado el treinta de septiembre, no hubiere electos más de la mitad del número total de Diputados que deban integrar la que ha de instalarse en esa fecha, ya sean Propietarios o sus respectivos Suplentes.
 
 II.- Cuando dividida en grupos sin que alguno de ellos tenga quórum legal de Diputados Propietarios, o de éstos y Suplentes de quienes no figuraren en alguno de los grupos y que hayan sido llamados legalmente antes de la división, se prolongue ésta por un mes sin obtenerse el quórum expresado.
 
@@ -1007,9 +1015,11 @@ Cuando la falta temporal o absoluta ocurra durante el receso del H. Congreso, la
 
 Si el Ejecutivo no remite las ternas de candidatos para cubrir las faltas absolutas o temporales de los Magistrados, el Congreso, o en su caso la Diputación Permanente, la formará haciendo de entre ellas, la designación respectiva.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1976)</small>
+
 ###### Art. 105.
 
-El Supremo Tribunal de Justicia funcionará en Acuerdo Pleno y en Salas Unitarias, como lo determina la Ley Orgánica respectiva.
+El Supremo Tribunal de Justicia funcionará en Acuerdo Pleno y en Salas Unitarias como lo determina la Ley Orgánica respectiva y su Presidente rendirá el cuarto viernes del mes de agosto de cada año, un informe ante el Pleno, sobre el estado que guarde la Administración de Justicia.
 
 ### CAPITULO II.
 
@@ -1718,3 +1728,9 @@ P.O. 31 DE ENERO DE 1968.
 PRIMERO.- En tanto se reforma la Ley Orgánica del Poder Judicial, la Ley que crea la Dirección de Pensiones Civiles del Estado o se emite una reglamentaria de los Artículos 103 y 112 Constitucionales, los funcionarios a quienes se otorga la inamovilidad tendrán derecho, en caso de tener más de 15 años de prestaciones de servicios al Estado, a ser jubilados por incapacidad que les impida desempeñar sus funciones, percibiendo el 55% de los emolumentos que devengaban en la fecha de su separación, porcentaje que se aumentará proporcionalmente al número de años de servicios que exceda a los 15, hasta llegar a los 30 años de servicios en que se percibirá el 100%.
 
 SEGUNDO.- Las presentes reformas a la Constitución General del Estado, entrarán en vigor, una vez que se reforme y sea publicada la Ley Orgánica del Poder Judicial.
+
+P.O. 31 DE JULIO DE 1976.
+
+PRIMERO.- Este Constituyente Permanente prorroga el ejercicio de la LI Legislatura Local hasta el 29 de septiembre de 1977.
+
+SEGUNDO.- Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
