@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1930-06-28"
+last_updated: "1930-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 1930.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1930.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -169,7 +169,7 @@ De la División de Poderes
 
 ### CAPITULO SEGUNDO. DE LA ELECCION E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO, D.O. 2 DE OCTUBRE DE 1924)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1930)</small>
 
 ###### Artículo 16.
 
@@ -197,11 +197,13 @@ Los Diputados son inviolables por las opiniones que manifiesten en el desempeño
 
 ###### Artículo 20.
 
-El Congreso del Estado de Yucatán se compondrá de Representantes electos en su totalidad cada dos años, y su elección será popular directa.
+El Congreso del Estado de Yucatán se compondrá de Representantes electos en su totalidad cada tres años y su elección será popular y directa.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1930)</small>
 
 ###### Artículo 21.
 
-Para constituir el Congreso, elegirán los ciudadanos del Estado, un Diputado Propietario y otro Suplente, por cada veinte mil habitantes o por una fracción que llegue a la mitad, sin que nunca pueda su número ser menor de quince Diputados Propietarios. En cada Distrito Electoral será elegido un Diputado Propietario y un Suplente.
+Para constituir el Congreso elegirán los ciudadanos del Estado un Diputado Propietario y otro Suplente por cada cuarenta y cinco mil habitantes o por una fracción que llegue a la mitad sin que nunca pueda su número ser menor de siete Diputados Propietarios. En cada Distrito Electoral será elegido un Diputado Propietario y un Suplente.
 
 ###### Artículo 22.
 
@@ -215,7 +217,9 @@ III.- no ser Ministro de ningún culto;
 
 IV.- no estar en servicio activo en el Ejército Federal, Guardia Nacional, ni tener mando en la Policía o Gendarmería, en el Distrito en que se haga la elección, cuando menos sesenta días antes de ella;
 
-V.- no ser Gobernador del Estado, Magistrado del Tribunal Superior, ni Tesorero General del Estado, a menos que se separen de sus funciones noventa días antes de la elección;
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1930)</small>
+
+V.- no ser Gobernador del Estado, Magistrado del Tribunal Superior de Justicia, a menos que se separe de sus funciones noventa días antes de la elección;
 
 VI.- haber residido en el Estado los dos años inmediatamente anteriores a la elección. La vecindad no se pierde por desempeñar comisiones oficiales procedentes del Gobierno del Estado o de las Instituciones dependientes de éste. Tampoco se pierde por desempeñar los cargos de Diputado al Congreso de la Unión o de Senador.
 
@@ -489,7 +493,9 @@ V.- no ser Ministro de ningún Culto;
 
 VI.- no estar en servicio activo, en caso de pertenecer al Ejército o Guardia Nacional, noventa días antes de la elección;
 
-VII.- no ser Secretario General de Gobierno, Oficial Mayor o Tesorero General, a menos que se separe de su puesto noventa días antes de la elección.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1930)</small>
+
+VII.- no ser Secretario General de Gobierno ni Oficial Mayor del mismo, a menos que se separe de su puesto noventa días antes de la elección.
 
 > <small>(REFORMADO, D.O. 4 DE FEBRERO DE 1921)</small>
 
@@ -545,7 +551,9 @@ I.- publicar y hacer cumplir las Leyes Federales;
 
 II.- promulgar, publicar y ejecutar las leyes que expida el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
 
-III.- nombrar y remover libremente al Secretario General de Gobierno, al Tesorero General del Estado, al Procurador General de Justicia y a todos los demás funcionarios o empleados del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las Leyes;
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1930)</small>
+
+III.- nombrar y remover libremente al Secretario General de Gobierno, a los Jefes de Departamento, al Procurador General de Justicia y a todos los demás funcionarios o empleados del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes;
 
 IV.- disponer de la Guardia Nacional y de la Fuerza Pública del Municipio en donde residiere habitual o transitoriamente;
 
@@ -1036,6 +1044,10 @@ EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITO
 D.O. 28 DE JUNIO DE 1930.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
+
+D.O. 31 DE DICIEMBRE DE 1930.
+
+La reforma de los artículos 20 y 21 constitucionales, entrará en vigor al verificarse las elecciones para integrar la XXXII Legislatura del Estado y la de las demás disposiciones a que este decreto se refiere, el día primero de enero de 1931.
 
 ###### ARTICULO UNICO.
 
