@@ -4,7 +4,7 @@ identifier: "JAL-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-15282"
 country: "mx"
 rank: "ley"
 publication_date: "1996-10-31"
-last_updated: "1998-01-15"
+last_updated: "1999-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 31 de octubre de 1996.
 
@@ -137,11 +137,17 @@ III. Regidor miembro de la Comisión de Inspección y Vigilancia;
 
 IV. Regidor miembro de la Comisión de Seguridad Pública y Tránsito;
 
-V. Regidor miembro de la Comisión de Salubridad e Higiene.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE SEPTIEMBRE DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
+V. Regidor miembro de la Comisión de Turismo; y
 
-Los miembros de las comisiones señaladas en las fracciones anteriores serán preferentemente aquellos que las presidan o quienes sean designados por la comisión que corresponda, no pudiendo tener una misma persona dos o más representaciones en este Consejo, lo mismo se aplicará en caso de que el Presidente Municipal presida además, alguna de las comisiones.
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
+VI. Regidor miembro de la Comisión de Promoción del Desarrollo Económico.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
+Los miembros de las comisiones señaladas en las fracciones anteriores, serán preferentemente aquellos que las presidan o quienes sean designados por la comisión que corresponda, no pudiendo tener una misma persona más de una representación en este Consejo, lo mismo, se aplicará en caso de que el Presidente Municipal presida además, alguna de las comisiones.
 
 ###### Artículo 6o.
 
@@ -169,7 +175,21 @@ Son funciones del Consejo Municipal de Giros Restringidos sobre Venta y Consumo 
 
 I. Aprobar o rechazar la expedición, cambio de domicilio y revocación de las licencias a que se refiere la fracción I del artículo 25.
 
-II. Proponer al Cabildo, medidas tendientes a prevenir y combatir el alcoholismo en el municipio.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
+II. Proponer al Cabildo la designación de zonas turísticas dentro del Municipio que corresponda.
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
+III. Proponer al Cabildo los horarios en que deban operar los distintos establecimientos que regula esta ley, salvo las disposiciones expresas que establezca el presente ordenamiento.
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
+IV. Proponer al Cabildo, medidas tendientes a prevenir y combatir el alcoholismo en el municipio, tales como campañas de difusión sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños y adolescentes y demás que se desprendan del Programa contra el Alcoholismo y el Abuso de Bebidas Alcohólicas, a que se refiere el artículo 127 de Ley Estatal de Salud.
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
+V. Celebrar acuerdos y convenios con las autoridades sanitarias y con el Consejo Estatal para la Prevención de Adiciones en materia de su competencia.
 
 #### SECCIÓN TERCERA. DE LAS SESIONES DEL CONSEJO
 
@@ -235,9 +255,11 @@ No se concederá licencia o permiso alguno, para venta o consumo de bebidas alco
 
 ### CAPÍTULO IV. DE LOS DÍAS Y HORARIO DE FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+
 ###### Artículo 17.
 
-Los establecimientos referidos en el artículo 9° de la presente ley, se sujetarán al horario que determinen los Ayuntamientos.
+Los establecimientos referidos en el artículo 9° de la presente ley, se sujetarán al horario que determinen los Ayuntamientos a propuestas del Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas.
 
 ###### Artículo 18.
 
@@ -297,13 +319,11 @@ VI. Vender o permitir el consumo de bebidas alcohólicas a los que visiblemente 
 
 Queda prohibido instalar establecimientos cuyo giro sea la venta o consumo de bebidas alcohólicas en bienes del domino público, de la Federación, Estado o del Municipio o edificios de la beneficencia pública, a excepción de aquellos destinados a espectáculos, eventos culturales o centros de recreación, donde conforme a su naturaleza lo autorice el Ayuntamiento respectivo, indicando las modalidades y limitaciones que considere necesarios, para esas actividades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
 
 ###### Artículo 23.
 
-Para el caso de nuevos establecimientos que se encuentren comprendidos en la fracción I del Artículo 9º, o se dediquen como giro principal a la venta o consumo de bebidas alcohólicas así como los billares con venta o consumo de bebidas alcohólicas, no se les otorgará licencia si se encuentran situados a una distancia menor de 150 metros de escuelas, hospitales, templos, cárceles, centros de prevención o readaptación social y hospicios, o que se encuentren adyacentes o frente a este tipo de establecimientos o a fábricas en que presten sus servicios trabajadores asalariados.
-
-Los nuevos establecimientos referidos en la fracción I del Artículo 9°, no deberán situarse a una distancia menor de 150 metros uno de otro, a excepción de aquellos que se establezcan en zonas que el Cabildo determine como turísticas las que deberán precisar en sus límites.
+Para el caso de nuevos establecimientos que se encuentren comprendidos en la fracción I del artículo 9º, no se otorgará licencia si se encuentran situados dentro de un radio menor de 150 metros de escuelas, hospitales, templos, cuarteles, centros de prevención o readaptación social u hospicios, o que se encuentren ubicados adyacentes o frente a fábricas en que presten sus servicios trabajadores asalariados.
 
 La distancia a que se refiere este artículo se computará por las vías ordinarias de tránsito, desde la puerta de las escuelas, hospitales y demás lugares a que se refieren los párrafos anteriores, a la puerta principal del establecimiento.
 
@@ -504,3 +524,15 @@ Francisco Julián Iñiguez García
 P.O. 15 DE ENERO DE 1998.
 
 UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 28 DE SEPTIEMBRE DE 1999.
+
+DECRETO NUMERO 18000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE SEPTIEMBRE DE 1999.
+
+DECRETO NUMERO 18001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
