@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-tenencia-o-uso-de-vehiculos-618"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1982-12-31"
+last_updated: "1983-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=618&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1980-12-19"
 
 LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1983.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 30 de diciembre de 1980.
 
@@ -39,13 +39,17 @@ LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 1o.
 
-Están obligadas al pago del impuesto establecido en esta Ley, las personas físicas y las morales, tenedoras o usuarias de los vehículos sujetos a registro en los términos de la Ley del Registro Federal de Vehículos.
+Están obligadas al pago del impuesto establecido en esta Ley, las personas físicas y las morales tenedoras o usuarias de los vehículos a que se refiere la misma.
 
 Para los efectos de esta Ley, se presume que el propietario es tenedor o usuario del vehículo.
 
-El contribuyente pagará el impuesto por año de calendario durante los dos primeros meses ante las oficinas autorizadas. La Secretaría de Hacienda y Crédito Público tendrá facultades para ampliar este plazo.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante las oficinas autorizadas, no estando obligados a presentar por este impuesto la solicitud de inscripción ni los avisos del registro federal de contribuyentes.
 
 Los importadores ocasionales efectuarán el pago del impuesto a que se refiere esta Ley, correspondiente al primer año de calendario en la aduana respectiva en el momento en que los vehículos queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva. Por el segundo y siguientes años de calendario se estará a lo dispuesto en el párrafo anterior.
 
@@ -53,7 +57,9 @@ Los importadores, comerciantes en vehículos, así como los fabricantes, las pla
 
 Tratándose de motocicletas y automóviles nuevos, cuya enajenación al público se realice en los últimos 3 meses del año de calendario correspondiente al año de fabricación o al año modelo del vehículo, según se trate, no se pagará el impuesto por dicho año. En el caso de vehículos importados para su venta al público, cuando la enajenación se realice en los últimos 3 meses del año de calendario en el que se hubiere internado al país el vehículo, no se pagará el impuesto por dicho año.
 
-Por el segundo y siguientes años a aquel en que se efectuaron las enajenaciones a que se refiere el párrafo anterior, se pagará el impuesto en los términos de esta Ley.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+El impuesto correspondiente al siguiente año a aquél en que se efectuaron las enajenaciones a que se refiere el párrafo anterior, lo deberá retener el vendedor tomando como base el pago que el contribuyente tendría que cubrir de no encontrarse en el supuesto a que se refiere el mencionado párrafo. La cantidad así retenida se ajustará al efectuar el pago conforme a la Ley en el año siguiente. Por los años posteriores se pagará el impuesto en los términos de esta Ley.
 
 Para los efectos de esta Ley, también se consideran automóviles, a los omnibuses, camiones y tractores no agrícolas tipo quinta rueda.
 
@@ -83,9 +89,7 @@ III.- Los funcionarios de las oficinas de tránsito que autoricen altas o cambio
 
 Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
 
-En los casos en que la Secretaría de Hacienda y Crédito Público proporcione calcomanía para comprobar el pago de este impuesto o para acreditar que no se está obligado al pago del mismo, éstas serán fijadas en lugar visible del vehículo y se conservarán durante el año de que se trate y el siguiente. En caso de destrucción de la calcomanía, la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general señalará la forma por medio de la cual se pueda comprobar el pago del impuesto.
-
-En caso de no fijarse la calcomanía en la forma que se señala en el párrafo anterior, se sancionará con una multa equivalente al 20% del impuesto que corresponda.
+> <small>(DEROGADOS SEGUNDO Y TERCER PARRAFOS, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO II. Automóviles
 
@@ -97,7 +101,9 @@ Tratándose de automóviles, omnibuses, camiones y tractores no agrícolas, tipo
 
 A.- Vehículos destinados al transporte hasta de diez pasajeros:
 
-I.- Tratándose de vehículos del año modelo al de aplicación de la Ley, de fabricación de la Ley, de fabricación nacional o importados iguales a los de fabricación nacional, aun cuando en el extranjero tengan una denominación comercial diferente, el impuesto será la cantidad que resulte de multiplicar el factor que corresponda a la unidad determinado conforme al artículo 6o. de esta Ley, por la cantidad que anualmente establezca el Congreso de la Unión.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+I.- Tratándose de vehículos de fabricación nacional o importados equiparables o iguales a los de fabricación nacional, aun cuando en el extranjero tengan una denominación comercial diferente, el impuesto será la cantidad que resulte de sumar el 0.3% del precio de venta al público de la unidad típica con la cantidad que se obtenga de multiplicar el factor que corresponda a la unidad, determinado conforme al artículo 6o. de esta Ley, por la cantidad que anualmente establezca el Congreso de la Unión.
 
 II.- Por lo que se refiere a vehículos importados a las zonas libres y a la franja fronteriza del norte del país, de circulación restringida a esas regiones, diferentes a los de fabricación nacional, el impuesto será la cantidad que resulte de multiplicar el monto que anualmente establezca el Congreso de la Unión, por el factor que a continuación se señala:
 
@@ -143,9 +149,23 @@ c).- El peso del automóvil se compone del peso de la unidad austera y el de su 
 
 d).- Por unidad austera se entiende el automóvil que no incluye equipo opcional común o de lujo.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+e).- Por unidad típica se entiende el automóvil que incluye el equipo común.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+f).- Por precio de la unidad típica, el que tengan los vehículos al 1o. de enero del año de aplicación de la Ley. Tratádose (sic) de vehículos de año modelo anteriores, el precio de la unidad típica será el que resulte de aplicarle a dicho precio el factor correspondiente conforme a la tabla de ajuste que anualmente establezca el Congreso de la Unión.
+
 Para la determinación del desplazamiento y del peso se considerará el motor con el que se venda el automóvil aun cuando sea opcional. Un automóvil importado se considerará igual al nacional cuando coincidan el factor, modelo, marca y tipo, aun cuando en el extranjero ostente un nombre comercial diferente.
 
-II.- Automóviles importados diferentes a los de fabricación nacional.
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+Se entiende por vehículos equiparables a los de fabricación nacional, aquéllos cuyo peso vehicular, desplazamiento y precio en el país sean semejantes o inferiores a los de fabricación nacional.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+II.- Automóviles importados diferentes a los de fabricación nacional o a sus equiparables.
 
 1.- Vehículos importados a las zonas libres y a la franja fronteriza del Norte del país, de circulación restringida a esas regiones:
 
@@ -574,3 +594,53 @@ CATEGORIA MODELO
 UNICA 130000 97500 65000 52000
 
 Los contribuyentes del impuesto sobre tenencia o uso de vehículos podrán optar por pagar dicho impuesto por los vehículos de los años modelo que se indican en este artículo, aplicando lo dispuesto en el mismo o conforme a las disposiciones de la Ley de la materia vigente.
+
+D.O.F. 30 DE DICIEMBRE DE 1983.
+
+DISPOSICIONES DE VIGENCIA ANUAL
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1984.
+
+ARTICULO TRIGESIMO CUARTO.- Por los automóviles importados diferentes a los de fabricación nacional o a sus equiparables de los años modelo 1975 a 1977, se causará en 1984 el impuesto sobre tenencia o uso de vehículos, conforme a la siguiente tarifa:
+
+I.- Vehículos importados a las zonas libres y franja fronteriza del norte del país de circulación restringida a esas regiones:
+
+Categoría Año Modelo
+
+1977 1976 1975
+
+PRIMERA 15600 11600 7800
+
+SEGUNDA 23400 19400 15600
+
+TERCERA 46800 39000 31200
+
+II.- Vehículos importados al país de circulación no restringida:
+
+Categoría Año Modelo
+
+1977 1976 1975
+
+UNICA 156000 117000 78000
+
+Los contribuyentes del impuesto sobre tenencia o uso de vehículos podrán optar por pagar dicho impuesto por los vehículos de los años modelo que se indican en este artículo, aplicando lo dispuesto por el mismo o conforme a las disposiciones de la Ley del Impuesto sobre Tenencia o Uso de Vehículos.
+
+###### ARTICULO DECIMO OCTAVO.
+
+Para los efectos del cálculo del Impuesto sobre tenencia o uso de vehículos para el año de 1984, se dan a conocer las siguientes cantidades:
+
+I.- Vehículos a que se refiere el artículo 5o. apartado A fracción I de la ley de la materia .......... $ 2,500.00
+
+II.- Vehículos comprendidos en el artículo 5o. apartado A fracciones II y III de la ley de la materia, así como los veleros .......... 4,800.00
+
+III.- Vehículos a que se refiere el artículo 5o. apartado B de la ley de la materia .......... 3,800.00
+
+IV.- Embarcaciones distintas de los veleros .......... 21,600.00
+
+V.- Aeronaves .......... 138,000.00
+
+VI.- Motocicletas .......... 30,000.00
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
