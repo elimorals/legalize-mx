@@ -4,7 +4,7 @@ identifier: "LAC"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-12"
-last_updated: "1998-01-23"
+last_updated: "2001-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2551&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAC"
 
 LEY DE AVIACION CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
 
@@ -56,7 +56,7 @@ II. Aeródromo civil: área definida de tierra o de agua adecuada para el despeg
 
 III. Aeropuerto: aeródromo civil de servicio público, que cuenta con las instalaciones y servicios adecuados para la recepción y despacho de aeronaves;
 
-IV. Aerovía: ruta aérea dotada de radioayudas a la navegación.
+IV. Aerovía: ruta aérea dotada de radioayudas a la navegación;
 
 V. Certificado de aeronavegabilidad: documento oficial que acredita que la aeronave está en condiciones técnicas satisfactorias para realizar operaciones de vuelo;
 
@@ -64,11 +64,11 @@ VI. Certificado de matrícula: documento que identifica y determina la nacionali
 
 VII. Helipuerto: aeródromo civil para el uso exclusivo de helicópteros;
 
-VIII. Ruta: espacio aéreo establecido por la Secretaría para canalizar el tráfico aéreo.
+VIII. Ruta: espacio aéreo establecido por la Secretaría para canalizar el tráfico aéreo;
 
 IX. Secretaría: la Secretaría de Comunicaciones y Transportes;
 
-X. Servicio al público de transporte aéreo: el que se ofrece de manera general y que, en términos de la presente Ley, incluye el servicio público sujeto a concesión, así como otros servicios sujetos a permiso.
+X. Servicio al público de transporte aéreo: el que se ofrece de manera general y que, en términos de la presente Ley, incluye el servicio público sujeto a concesión, así como otros servicios sujetos a permiso;
 
 XI. Servicio de transporte aéreo regular: el que está sujeto a itinerarios, frecuencias de vuelos y horarios;
 
@@ -106,7 +106,9 @@ I. Civiles, que podrán ser:
 
 a) De servicio al público: las empleadas para la prestación al público de un servicio de transporte aéreo regular o no regular, nacional o internacional, y
 
-b) Privadas: las utilizadas para usos comerciales diferentes al servicio al público o para el transporte particular sin fines de lucro, y
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+b) Privadas: las utilizadas para usos comerciales diferentes al servicio al público o para el transporte particular sin fines de lucro, y aquellas cuyo fin expreso sea la experimentación, acrobacia, exhibición y las que por su naturaleza sean de colección.
 
 II. De Estado, que podrán ser:
 
@@ -116,9 +118,11 @@ b) Las militares, que son las destinadas o en posesión del Ejército, Armada y 
 
 ### Capítulo II. De la autoridad aeronáutica
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 6.
 
-La Secretaría tendrá las siguientes atribuciones en materia de aviación civil, sin perjuicio de las otorgadas a otras dependencias de la administración pública federal:
+La Secretaría tendrá las siguientes atribuciones en materia de aviación civil y aeroportuaria, sin perjuicio de las otorgadas a otras dependencias de la administración pública federal:
 
 I. Planear, formular y conducir las políticas y programas para la regulación y el desarrollo de los servicios de transporte aéreo;
 
@@ -130,7 +134,9 @@ IV. Prestar y controlar los servicios a la navegación aérea y establecer las c
 
 V. Expedir y aplicar las medidas y normas de seguridad e higiene que deben observarse en los servicios de transporte aéreo, así como verificar su cumplimiento;
 
-VI. Expedir certificados de matrícula y de aeronavegabilidad, así como llevar el Registro Aeronáutico Mexicano;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+VI. Expedir certificados de matrícula, de aeronavegabilidad y los de explotador de servicios aéreos y, en su caso, decretar la suspensión, cancelación, revalidación o revocación de los mismos, así como llevar el Registro Aeronáutico Mexicano;
 
 VII. Establecer y verificar el sistema de aerovías dentro del espacio aéreo nacional;
 
@@ -140,19 +146,59 @@ IX. Promover la formación, capacitación y adiestramiento del personal técnico
 
 X. Expedir y, en su caso, revalidar o cancelar las licencias del personal técnico aeronáutico;
 
-XI. Interpretar la presente Ley y sus reglamentos para efectos administrativos, y
+XI. Interpretar la presente Ley y sus reglamentos para efectos administrativos, y (sic)
 
-XII. Las demás que señalen esta Ley y demás ordenamientos aplicables.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 1998)</small>
+XII. Promover el desarrollo de la industria aeronáutica, así como la aviación comercial y no comercial;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+XIII. Autorizar la práctica de visitas de verificación;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+XIV. Designar o, en su caso, remover a los comandantes regionales, comandantes de aeropuertos, helipuertos y aeródromos civiles en general, así como al personal técnico especializado que preste sus servicios en los mismos; y
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+XV. Las demás que señalen esta Ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+Estas atribuciones podrán ser ejercidas a través de la Dirección General de Aeronáutica Civil, con excepción de aquellas facultades señaladas como indelegables en el Reglamento Interior de la Secretaría, y sin perjuicio de las conferidas en el mismo a dicha Unidad Administrativa.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 7.
 
-La Secretaría ejercerá la autoridad aeronáutica en los aeropuertos, helipuertos y aeródromos en general, a través del comandante de aeropuerto quien deberá ser mexicano por nacimiento que no adquiera otra nacionalidad.
+La Secretaría ejercerá la autoridad aeronáutica en los aeropuertos, helipuertos y aeródromos en general, a través de la Dirección General de Aeronáutica Civil, por conducto de los comandantes regionales y los comandantes de aeropuerto.
 
-> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1998)</small>
+Los comandantes regionales deberán ser mexicanos por nacimiento que no adquieran otra nacionalidad, y en el ejercicio de sus atribuciones dependerán funcional y operativamente de la Dirección General de Aeronáutica Civil.
 
-El comandante de aeropuerto tendrá las atribuciones que a continuación se mencionan, las cuales ejercerá en las demarcaciones geográficas que expresamente le sean determinadas por la propia Secretaría:
+Los comandantes regionales tendrán a su cargo las comandancias de aeropuerto que expresamente les sean determinadas por la propia Dirección General de Aeronáutica Civil, los cuales ejercerán las atribuciones que a continuación se mencionan:
+
+I. Vigilar y verificar permanentemente que los concesionarios, permisionarios, operadores de aeronaves y los prestadores de servicios a la navegación aérea, cumplan con lo dispuesto en esta Ley, su Reglamento, normas oficiales mexicanas y demás disposiciones aplicables;
+
+II. Vigilar el cumplimiento de las disposiciones e instrucciones contenidas en el Manual de Autoridades Aeronáuticas;
+
+III. Vigilar el estricto cumplimiento de los deberes y responsabilidades de los Comandantes de Aeropuerto;
+
+IV. Vigilar que el personal de las comandancias de aeropuerto de su región esté debidamente capacitado para el desempeño de sus funciones;
+
+V. Vigilar la seguridad y eficiencia de las operaciones aeronáuticas;
+
+VI. Levantar actas administrativas por violaciones a lo previsto en esta Ley, sus reglamentos y normas oficiales mexicanas; actuar como auxiliar del ministerio público; cumplimentar las resoluciones judiciales y coordinar sus actividades con las demás autoridades que ejerzan funciones en los aeropuertos; y
+
+VII. Las demás que expresamente les sean conferidas por su superior jerárquico y se encuentren fundadas en la legislación vigente aplicable a la materia.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+###### Artículo 7 Bis.
+
+Los comandantes de aeropuerto deberán ser mexicanos por nacimiento que no adquieran otra nacionalidad, y en el ejercicio de sus atribuciones dependerán funcional y operativamente de la Dirección General de Aeronáutica Civil, a través de los comandantes regionales.
+
+Los comandantes de aeropuerto tendrán las atribuciones que a continuación se mencionan, las cuales ejercerán en las demarcaciones geográficas que expresamente les sean determinadas por la propia Dirección General de Aeronáutica Civil:
 
 I. Autorizar o suspender la operación de las aeronaves, conforme a lo dispuesto por esta Ley;
 
@@ -160,17 +206,17 @@ II. Verificar que los servicios de control de tránsito aéreo, de radioayudas a
 
 III. Verificar la vigencia de las licencias y capacidades del personal técnico aeronáutico, de los certificados de matrícula y de aeronavegabilidad de las aeronaves;
 
-IV. Verificar el cumplimiento de las condiciones de seguridad e higiene en los servicios de transporte aéreo;
+IV. Verificar el cumplimiento de las condiciones de seguridad y eficiencia en los servicios de transporte aéreo;
 
 V. Disponer el cierre parcial o total de aeropuertos, helipuertos o aeródromos en general, cuando no reúnan las condiciones de seguridad para las operaciones aéreas;
 
 VI. Prohibir a cualquier piloto o miembro de la tripulación la realización de operaciones, cuando no cumplan con las disposiciones aplicables;
 
-VII. Levantar actas administrativas por violaciones a lo previsto en esta Ley, sus reglamentos y normas oficiales mexicanas; actuar como auxiliar del ministerio público; cumplimentar las resoluciones judiciales; y coordinar sus actividades con las demás autoridades que ejerzan funciones en los aeropuertos, y
+VII. Levantar actas administrativas por violaciones a lo previsto en esta Ley, sus reglamentos y normas oficiales mexicanas; actuar como auxiliar del ministerio público; cumplimentar las resoluciones judiciales y coordinar sus actividades con las demás autoridades que ejerzan funciones en los aeropuertos; y
 
-VIII. Las demás que señalen esta Ley y demás ordenamientos aplicables.
+VIII. Las demás que señalen esta Ley y otros ordenamientos aplicables.
 
-Para estos efectos, el comandante dispondrá del apoyo de un cuerpo de verificadores aeronáuticos subordinados a él.
+Para estos efectos, los comandantes dispondrán del apoyo de un cuerpo de verificadores aeronáuticos subordinados a ellos.
 
 ###### Artículo 8.
 
@@ -190,7 +236,11 @@ I. La capacidad técnica, financiera, jurídica y administrativa para prestar el
 
 II. La disponibilidad de aeronaves y demás equipo aéreo que cumplan con los requisitos técnicos de seguridad, las condiciones de aeronavegabilidad requeridas y las disposiciones en materia ambiental, y
 
-III. La disponibilidad de hangares, talleres, de la infraestructura necesaria para sus operaciones, así como del personal técnico aeronáutico y administrativo capacitado para el ejercicio de la concesión solicitada.
+III. La disponibilidad de hangares, talleres, de la infraestructura necesaria para sus operaciones, así como del personal técnico aeronáutico y administrativo capacitado para el ejercicio de la concesión solicitada;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+IV. Contar, por sí mismas o a través de sociedades mercantiles mexicanas asociadas, con la experiencia que haga viable su permanencia en el sector y maximicen la seguridad de sus operaciones.
 
 Los concesionarios a que se refiere este artículo podrán prestar el servicio de transporte aéreo regular internacional siempre que cuenten con la autorización de las rutas correspondientes por parte de la Secretaría.
 
@@ -384,7 +434,13 @@ III. Los servicios serán complementarios a los del transporte aéreo regular, y
 
 IV. En los contratos de fletamento de aeronaves que celebren con prestadores de servicios turísticos, deberá pactarse que los servicios de transporte aéreo se comercializarán, en todo caso, como parte de otros servicios en paquete; y conforme con lo que establezca el reglamento respectivo.
 
-La prestación de los servicios de taxi aéreo se sujetarán a las condiciones que se especifiquen en los permisos que, para tal efecto, se otorguen por la Secretaría con base en esta Ley, considerando criterios que atiendan, entre otros elementos, a las especificaciones de los equipos aéreos, las características de las operaciones y la forma de comercialización de los servicios.
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+Las aeronaves autorizadas para la prestación del servicio de taxi aéreo podrán ser de hasta 15 pasajeros o 3,500 kilogramos de carga.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+La prestación de los servicios de taxi aéreo se sujetará a las condiciones que se especifiquen en los permisos que, para tal efecto, se otorguen por la Secretaría con base en esta Ley, considerando criterios que atiendan, entre otros elementos, a las especificaciones de los equipos aéreos, las características de las operaciones y la forma de comercialización de los servicios.
 
 ###### Artículo 24.
 
@@ -418,17 +474,43 @@ La operación de las aeronaves de transporte aéreo privado no comercial no requ
 
 Las personas que operen las aeronaves a que se refiere este artículo, en ningún caso podrán prestar servicios comerciales a terceros.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+El transporte aéreo privado no comercial se regirá específicamente por esta Ley, su Reglamento y por las disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 29.
 
-Las aeronaves extranjeras de servicio privado no comercial, podrán sobrevolar el espacio aéreo nacional y aterrizar y despegar en territorio mexicano, siempre que obtengan, en cada caso, autorización de la Secretaría. El primer aterrizaje deberán hacerlo en un aeropuerto internacional.
+Las aeronaves extranjeras de servicio privado no comercial, podrán sobrevolar el espacio aéreo nacional y aterrizar y despegar en territorio mexicano, siempre que cuenten con la autorización de la Secretaría. El primer aterrizaje deberán hacerlo en un aeropuerto internacional, en el cual se deberá tramitar la autorización correspondiente.
 
-Los propietarios o la tripulación de aeronaves extranjeras de servicio privado no comercial, deberán acreditar a la Secretaría, cuando ésta se los solicite, que aquélla y la aeronave cumplen con los requisitos técnicos sobre aeronavegabilidad y licencias establecidos en el Estado de su matrícula.
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+Dicha autorización se podrá obtener mediante dos mecanismos:
+
+I. Autorización por internación única, la cual tendrá una vigencia de seis meses.
+
+Esta autorización vencerá de manera anticipada, si durante su periodo de vigencia, la aeronave abandona territorio nacional, y
+
+II. Autorización por entradas múltiples, con vigencia hasta el último día del año en que fue solicitada, mediante solicitud previa a la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+En ambos casos, previo cumplimiento de las disposiciones legales aplicables.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+Los propietarios o la tripulación de aeronaves extranjeras de servicio privado no comercial, deberán acreditar a la Secretaría, cuando ésta se los solicite, que aquélla y la aeronave cumplen con los requisitos técnicos sobre aeronavegabilidad y licencia establecidos en el Estado de su matrícula.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 30.
 
-Los aerostatos, aeronaves ultraligeras u otras análogas, con o sin motor, que no presten servicio al público, requerirán registrarse ante la Secretaría, y sujetarse a lo establecido en las disposiciones generales y normas oficiales mexicanas respectivas.
+Los aerostatos, aeronaves ultraligeras u otras análogas, con o sin motor, que no presten servicio al público, requerirán registrarse ante la Secretaría y deberán sujetarse a lo establecido en las disposiciones aplicables que expida la misma.
 
-Los clubes aéreos y de aeromodelismo quedarán sujetos a los reglamentos derivados de esta Ley y a las normas oficiales mexicanas que, en su caso, expida la Secretaría.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+Independientemente de su forma de constitución, los operadores de aeronaves privadas, así como los clubes aéreos, de aeromodelismo y las personas físicas que practiquen deportes aéreos, quedarán sujetos a los reglamentos derivados de esta Ley y a las disposiciones que expida la Secretaría.
 
 #### Sección Primera. Disposiciones comunes
 
@@ -442,9 +524,11 @@ Las aeronaves militares se regirán para su operación por las disposiciones apl
 
 ### Capítulo V. De las operaciones
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 32.
 
-Toda aeronave, para realizar vuelos, deberá contar con póliza de seguro y certificados de matrícula y de aeronavegabilidad vigentes.
+Toda aeronave, para realizar vuelos, deberá llevar a bordo la póliza de seguro o el documento que acredite que ésta se encuentra vigente, así como los certificados de aeronavegabilidad y de matrícula o copia certificada de este último, vigentes.
 
 La obtención del certificado de aeronavegabilidad se sujetará a las pruebas, al control técnico y a los requisitos de mantenimiento que establezcan los reglamentos.
 
@@ -464,11 +548,15 @@ La Secretaría regulará el transporte aéreo de materiales, sustancias y objeto
 
 ### Capítulo VI. Del tránsito aéreo
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 35.
 
-Para la navegación en el espacio aéreo será obligatorio utilizar los servicios de tránsito aéreo, radioayudas, meteorología, telecomunicaciones e información aeronáuticas, así como de despacho e información de vuelos, que preste la Secretaría o, en su caso, las personas facultadas por ésta.
+Para la navegación de acuerdo a las reglas de vuelo por instrumentos en el espacio aéreo, será obligatorio utilizar los servicios de tránsito aéreo, radioayudas, meteorología, telecomunicaciones e información aeronáuticas, así como de despacho e información de vuelos, que preste la Secretaría o, en su caso, las personas facultadas por ésta. Asimismo, será obligatorio hacer uso del sistema de aerovías establecido por la Secretaría en el espacio aéreo controlado.
 
-Asimismo, será obligatorio hacer uso del sistema de aerovías establecido por la Secretaría en el espacio aéreo controlado.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+Para la navegación, de acuerdo a las reglas de vuelo visual en el espacio aéreo controlado, las aeronaves deberán establecer comunicación y sujetarse al servicio de control de tránsito aéreo, conforme a lo establecido en esta Ley, su Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 36.
 
@@ -493,6 +581,10 @@ Por razones de seguridad nacional o de orden público, la Secretaría ejercerá 
 ###### Artículo 38.
 
 El personal técnico aeronáutico está constituido por el personal de vuelo que interviene directamente en la operación de la aeronave y por el personal de tierra, cuyas funciones se especifiquen en el reglamento correspondiente. Dicho personal deberá, además de ser mexicano por nacimiento que no adquiera otra nacionalidad, contar con las licencias respectivas, previa comprobación de los requisitos de capacidad, aptitud física, exámenes, experiencia y pericia, entre otros.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+Para el caso de la aviación privada no comercial, los pilotos extranjeros y nacionales podrán convalidar u obtener la licencia de piloto privado, previo el cumplimiento de las disposiciones expresas en el reglamento correspondiente.
 
 ###### Artículo 39.
 
@@ -530,6 +622,10 @@ Las tarifas internacionales se aprobarán por la Secretaría de conformidad con 
 
 Las tarifas deberán registrarse ante la Secretaría para su puesta en vigor y estarán permanentemente a disposición de los usuarios.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+La Secretaría podrá negar el registro de las tarifas fijadas por los concesionarios o permisionarios, si las mismas implican prácticas depredatorias, de carácter monopólico, de dominancia en el mercado o una competencia desleal que impida la permanencia en el mercado de otros concesionarios o permisionarios, y podrá establecer niveles tarifarios mínimos o máximos, según sea el caso, para los servicios respectivos, a fin de ordenar dichos niveles, con el objeto de fomentar la sana competencia.
+
 En las tarifas se describirán clara y explícitamente las restricciones a que estén sujetas y permanecerán vigentes por el tiempo y en las condiciones ofrecidas. Las restricciones deberán hacerse del conocimiento del usuario al momento de la contratación del servicio.
 
 ###### Artículo 43.
@@ -558,7 +654,13 @@ La nacionalidad mexicana de la aeronave se adquiere con el certificado de matrí
 
 Las aeronaves matriculadas en otro Estado podrán adquirir matrícula mexicana, previa cancelación de la extranjera.
 
-En casos excepcionales, las aeronaves con matrícula extranjera arrendadas por los concesionarios o permisionarios, podrán ser operadas temporalmente, previa autorización de la Secretaría, con sujeción al reglamento respectivo.
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+Tratándose de aeronaves con matrícula mexicana o extranjera, que se encuentren arrendadas, en intercambio, fletadas o bajo cualquier figura jurídica, la Secretaría promoverá ante las instancias correspondientes, la celebración de Tratados con gobiernos extranjeros, con la finalidad de transferir o aceptar de forma total o parcial, las funciones y obligaciones que como Estado de matrícula se tengan respecto de dichas aeronaves.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+En casos excepcionales, las aeronaves con matrícula extranjera, arrendadas por los concesionarios o permisionarios, podrán ser operadas temporalmente, previa autorización de la Secretaría, con sujeción al reglamento respectivo.
 
 ###### Artículo 46.
 
@@ -750,7 +852,9 @@ Será nula de pleno derecho toda cláusula que se inserte en los contratos de tr
 
 Cuando por la operación de una aeronave, por objetos desprendidos de la misma o por abordaje, se causen daños a personas o cosas que se encuentren en la superficie, nacerá la responsabilidad con sólo establecer la existencia del daño y su causa.
 
-Será responsabilidad del concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, del propietario o poseedor de la aeronave, cubrir las indemnizaciones por los daños causados.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+Será responsabilidad del concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, del propietario o poseedor de la aeronave, cubrir las indemnizaciones por los daños causados, en términos de lo dispuesto en las disposiciones legales aplicables.
 
 Para los efectos de este capítulo, una aeronave se encuentra en operación cuando está en movimiento, lo que ocurrirá en los casos en que:
 
@@ -822,7 +926,11 @@ En el caso de aeronaves abandonadas en aeródromos o helipuertos en los que no h
 
 ### Capítulo XVIII. De la verificación
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
 ### Capítulo XIX. De las sanciones
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 79.
 
@@ -838,7 +946,9 @@ II. Incidente: todo suceso relacionado con la utilización de una aeronave, que 
 
 La búsqueda y salvamento en accidentes de aeronaves civiles es de interés público y las autoridades, propietarios, poseedores, concesionarios, permisionarios y miembros de la tripulación de vuelo estarán obligados a participar en las acciones que se lleven a cabo.
 
-Las operaciones de búsqueda y salvamento estarán bajo la dirección y control de la Secretaría, y los gastos que se originen por la investigación y el rescate de las víctimas o de sus bienes serán por cuenta del concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, del propietario o poseedor de la aeronave accidentada.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+Las operaciones de búsqueda y salvamento estarán bajo la dirección y control de la Secretaría, y los costos directos que se originen por la investigación y el rescate de las víctimas o de sus bienes serán por cuenta del concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, del propietario o poseedor de la aeronave accidentada.
 
 ###### Artículo 81.
 
@@ -862,7 +972,21 @@ El Gobierno Federal, salvo en el caso de guerra internacional, indemnizará a lo
 
 ###### Artículo 84.
 
-La Secretaría verificará el cumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables. Para tal efecto, los concesionarios o permisionarios y, en el caso del servicio de transporte aéreo privado no comercial, los propietarios o poseedores de aeronaves, estarán obligados a permitir el acceso a los verificadores de la Secretaría a sus instalaciones, a transportarlos en sus equipos para que realicen la verificación en términos de la presente Ley, y en general, a otorgarles todas las facilidades para estos fines, así como a proporcionar a la Secretaría informes con los datos que permitan conocer de la operación y explotación de los servicios de transporte aéreo.
+La Secretaría verificará el cumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables. Para tal efecto, los concesionarios o permisionarios y, en el caso del servicio de transporte aéreo privado no comercial, los propietarios o poseedores de aeronaves, estarán obligados a permitir el acceso a los verificadores de la Secretaría a sus instalaciones, a transportarlos en sus equipos para que realicen sus funciones en términos de la presente Ley, su Reglamento y las disposiciones que al efecto expida la Secretaría y, en general, a otorgarles todas las facilidades para estos fines, así como a proporcionar a la Secretaría informes con los datos que permitan conocer de la operación y explotación de los servicios de transporte aéreo.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+Con la finalidad de verificar que en la prestación de los servicios de transporte aéreo, se garanticen las condiciones máximas de seguridad y de operación que permitan proteger la integridad física de los usuarios y de sus bienes, así como la de terceros, los verificadores aeronáuticos, podrán realizar las verificaciones de la naturaleza que fuere necesaria en términos de lo establecido en la legislación vigente.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+Asimismo, y con la finalidad de asegurar la adecuada prestación del servicio de transporte aéreo, los verificadores aeronáuticos, podrán practicar verificaciones sobre aspectos específicos, en términos de lo dispuesto por el Reglamento de la materia.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+Para el caso anterior, los verificadores aeronáuticos, habrán de acreditarse con un documento que contenga los requisitos exigidos por la Ley Federal de Procedimiento Administrativo.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 Las personas físicas o morales que sean sujetos de verificación, cubrirán las cuotas que por este concepto se originen.
 
@@ -872,7 +996,7 @@ Las certificaciones de las unidades de verificación establecidas por terceros t
 
 ###### Artículo 86.
 
-Las infracciones a lo dispuesto en la presente Ley cometidas por el concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, por el propietario o poseedor de la aeronave, según se trate, serán sancionadas por la Secretaría de acuerdo con lo siguiente:
+Las infracciones a lo dispuesto en la presente Ley cometidas por el concesionario o permisionario, según se trate, serán sancionadas por la Secretaría de acuerdo con lo siguiente:
 
 I. Permitir que la aeronave transite:
 
@@ -886,13 +1010,23 @@ d) Tripulada por personas que carezcan de la licencia correspondiente, con multa
 
 e) Sin el plan de vuelo o cuando se modifique sin autorización, salvo causa de fuerza mayor, con multa de un mil a ocho mil salarios mínimos;
 
-f) Por no llevar a bordo las pólizas de seguro a que se refiere esta Ley, con multa de cien a dos mil salarios mínimos;
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+f) Por no llevar a bordo la póliza de seguro o el documento que acredite la vigencia de la misma, una multa de cien a dos mil salarios mínimos.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+En el caso de acreditar dentro de los tres días hábiles siguientes a la fecha del evento, que la póliza se encontraba vigente, se aplicará una multa de cien a doscientos días de salarios mínimos;
 
 g) Sin los instrumentos de seguridad y equipo de auxilio que corresponda, con multa de quinientos a cinco mil salarios mínimos;
 
-h) Sin hacer uso de las instalaciones y de los servicios auxiliares, salvo casos de fuerza mayor, con multa de quinientos a cinco mil salarios mínimos, y
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
-i) Por no llevar a bordo el certificado de aeronavegabilidad o de matrícula, con multa de doscientos a un mil salarios mínimos;
+h) Sin hacer uso de las instalaciones y de los servicios de tránsito aéreo, radioayudas, meteorología, telecomunicaciones e información aeronáuticas, así como de despacho e información de vuelos, en caso de ser aplicable, salvo casos de fuerza mayor, con multa de quinientos a cinco mil salarios mínimos; e
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+i) Por no llevar a bordo certificado de aeronavegabilidad o de matrícula o copia certificada de este último, con una multa de doscientos a un mil salarios mínimos;
 
 II. Internar al territorio nacional una aeronave extranjera o por llevar una aeronave mexicana al extranjero, sin cumplir con los requisitos exigidos por esta Ley, con multa de dos mil a diez mil salarios mínimos;
 
@@ -905,6 +1039,12 @@ V. Cuando de manera negligente no se haga del conocimiento de la Secretaría los
 VI. Impedir el tránsito o la circulación en los aeródromos, aeropuertos y helipuertos por causas imputables a él, con multa de un mil a cinco mil salarios mínimos, y
 
 VII. Negarse a participar en las operaciones de búsqueda y salvamento, salvo causa de fuerza mayor, con multa de un mil a cinco mil salarios mínimos.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+###### Artículo 86 Bis.
+
+Las infracciones a que se refiere el artículo anterior, cometidas en el caso del servicio de transporte aéreo privado no comercial, por el propietario o poseedor de la aeronave, serán sancionadas por la Secretaría con una multa de cien a mil salarios mínimos.
 
 ###### Artículo 87.
 
@@ -950,7 +1090,9 @@ V. Abandonar la aeronave, la tripulación, los pasajeros, la carga y demás efec
 
 VI. Realizar vuelos acrobáticos, rasantes o de exhibición en lugares prohibidos, multa de quinientos a cinco mil salarios mínimos;
 
-VII. Tripular la aeronave sin licencia, multa de quinientos a cinco mil salarios mínimos.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+VII. Tripular la aeronave sin licencia, multa de quinientos a cinco mil salarios mínimos. En caso de acreditar dentro de los tres días hábiles siguientes a la fecha del evento, que se contaba con licencia vigente, se aplicará una multa de cien a doscientos días de salarios mínimos;
 
 VIII. Desobedecer las órdenes o instrucciones que reciba con respecto al tránsito aéreo, salvo causa de fuerza mayor, multa de quinientos a cinco mil salarios mínimos;
 
@@ -960,7 +1102,9 @@ X. Operar la aeronave de manera negligente o fuera de los límites y parámetros
 
 XI. No informar a la Secretaría o al comandante del aeropuerto más cercano, en el caso de incidentes o accidentes aéreos, dentro de las cuarenta y ocho horas siguientes a que tengan conocimiento de ellos, multa de trescientos a tres mil salarios mínimos;
 
-XII. No utilizar durante la operación de la aeronave los servicios e instalaciones de ayudas a la navegación aérea y demás servicios auxiliares, multa de trescientos a tres mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+
+XII. No utilizar durante la operación de la aeronave los servicios e instalaciones de ayudas a la navegación aérea; en caso de ser aplicable, multa de trescientos a tres mil salarios mínimos;
 
 XIII. Realizar vuelos de demostración, pruebas técnicas o de instrucción, sin la autorización respectiva, multa de trescientos a tres mil salarios mínimos;
 
@@ -1045,3 +1189,11 @@ SEPTIMO. A más tardar en 180 días, contados a partir de la entrada en vigor de
 D.O.F. 23 DE ENERO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 28 DE DICIEMBRE DE 2001.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. El presente Decreto deroga todas aquellas disposiciones jurídicas que se opongan al mismo.
+
+La autoridad correspondiente deberá adecuar todas aquellas disposiciones reglamentarias a más tardar dentro de los 120 días siguientes a la fecha de su entrada en vigor.
