@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1961-12-28"
+last_updated: "1963-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1961.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 1963.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -841,11 +841,11 @@ IX. Aprobar o reprobar los nombramientos de Magistrados Suplentes hechos por el 
 
 Poder Judicial. Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADO, P. O. 7 DE JULIO DE 1963)</small>
 
 ###### Art. 61.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Supremo Tribunal de Justicia del Estado, Jueces de Partido, Jueces Municipales y Jurado Popular. El Supremo Tribunal de Justicia se compondrá de siete Magistrados Propietarios y tres Supernumerarios, nombrados por el Gobernador del Estado, con la aprobación de la Legislatura, en los términos del artículo 32 de esta Constitución. El funcionamiento de las Salas del Pleno, las atribuciones de los Magistrados y el número y competencia de los Jueces de Partido y de los Jueces Municipales, se regirán por lo que disponga esta Constitución y las Leyes. Las audiencias del Tribunal Pleno y de las Salas, serán públicas, hecha excepción de los casos en que la moral o el interés público exijan que sean secretas; los Magistrados sólo podrán ser privados de sus puestos cuando, por sentencia ejecutoria en los términos del Título Noveno de esta Constitución, sean condenados por la comisión de delitos del orden común, y en los casos en que así lo prevenga la Ley de Responsabilidades de los Funcionarios Públicos. La remuneración que reciban por sus servicios los Magistrados y los Jueces de Partido y Municipales, no podrá ser disminuida durante su encargo.
+Se deposita el ejercicio del Poder Judicial del Estado en un Supremo Tribunal de Justicia, Jueces de Partido, Jueces Municipales y Jurado Popular. El Supremo Tribunal de Justicia se compondrá de diez Magistrados Propietarios y tres Supernumerarios, nombrados por el Gobernador del Estado, con la aprobación de la Legislatura, en los términos del artículo 32 de esta Constitución. El funcionamiento de las Salas del Pleno, las atribuciones de los Magistrados y el número y competencia de los Jueces de Partido y de los Jueces Municipales, se regirán por lo que disponga esta Constitución y las Leyes. Las audiencias del Tribunal Pleno y de las Salas, serán públicas, hecha excepción de los casos en que la moral o el interés público exijan que sean secretas; los Magistrados sólo podrán ser privados de sus puestos cuando, por sentencia ejecutoria en los términos del Título Noveno de esta Constitución, sean condenados por la condición de delitos del orden común, y en los casos en que así lo prevenga la Ley de Responsabilidades de los Funcionarios Públicos. La remuneración que reciban por sus servicios los Magistrados y los Jueces de Partido y Municipales, no podrá ser disminuida durante su encargo.
 
 (REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1929) (REPUBLICADO, P.O. 29 DE DICIEMBRE DE 1929)
 
@@ -1266,3 +1266,11 @@ Los asuntos que actualmente se tramitan en las Salas Unitarias del Supremo Tribu
 ###### Artículo 6o.
 
 Los procesos penales que actualmente se tramitan en primera instancia, en las Salas Unitarias del Supremo Tribunal, pasarán a los Juzgados de Partido a quienes corresponda el conocimiento, y los que estén pendientes de sentencia por el Tribunal Pleno, en segunda instancia, pasarán a la Sala Penal.
+
+P.O. 7 DE JULIO DE 1963.
+
+Artículo Primero.- Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los tres Magistrados Propietarios que se nombren, para dar cumplimiento al precepto que se reforma, integrarán la Segunda Sala Penal Colegiada del Supremo Tribunal de Justicia del Estado.
+
+Artículo Tercero.- Los asuntos que actualmente se tramitan en la Sala Penal Colegiada del Supremo Tribunal de Justicia del Estado, se distribuirán entre los Magistrados de las Salas Primera y Segunda del propio Ramo, en igual número, para la substanciación de los mismos o su resolución por dichas Salas, según proceda, de conformidad con la Ley Orgánica del Poder Judicial del Estado.
