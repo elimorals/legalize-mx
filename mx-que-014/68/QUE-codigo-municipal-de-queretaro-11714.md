@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2000-01-28"
+last_updated: "2000-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CODIGO MUNICIPAL DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2000.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -5391,261 +5391,99 @@ La administración queda facultada para que en la vigilancia del establecimiento
 
 Todo lo relacionado con el servicio de vigilancia, será de cumplimiento riguroso y, por lo mismo, las faltas que cometa el personal, serán sancionadas de manera enérgica y como estime conveniente la Secretaría del Ayuntamiento.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)</small>
+
 APARTADO SEPTIMO
 
 DEL ARCHIVO HISTORICO
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)</small>
 
 ### CAPITULO II. De las Facultades y Obligaciones del Responsable del Archivo
 
 ###### ARTICULO 607.
 
-El Archivo Municipal de Querétaro, es la dependencia encargada de resguardar y difundir el acervo histórico existente en la misma, así como rescatar y recopilar aquellos documentos que deban permanecer en él.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)
 
 ###### ARTICULO 608.
 
-El presente apartado tiene como objeto regular la integración, organización y funcionamiento del archivo municipal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)
 
 ###### ARTICULO 609.
 
-El acervo del archivo municipal, es de carácter público, y está constituido principalmente por la documentación concentrada de las dependencias del Ayuntamiento, y las recibidas directamente del estado o la federación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)
 
 ###### ARTICULO 610.
 
-El archivo municipal, conservará sin depurar los expedientes enviados, en un plazo establecido por las prescripciones jurídicas vigentes, al término del cual pasarán a ser analizadas por la comisión técnica, la que determinará su conservación o destrucción, la cual estará integrada por los titulares de las dependencias generadoras de los documentos, quienes se ocuparán de emitir la valoración en el plano administrativo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)
 
 ###### ARTICULO 611.
 
-Ninguna autoridad, empleado o particular podrá destruir, adaptar, modificar, añadir, señalar o alterar en cualquier forma la estructura o peculiaridades que distingan a un documento histórico que conforman el acervo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)
 
 ###### ARTICULO 612.
 
-La Comisión Técnica Consultiva, es la única autorizada para adaptar, modificar, añadir o cualquier otro tipo de alteración en los documentos pertenecientes al Archivo de Transferencia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)
 
 ###### ARTICULO 613.
 
-Para el estricto cumplimiento de sus objetivos, el archivo municipal ejercerá las siguientes funciones:
-
-I. Custodiar, administrar el acervo documental e histórico del Municipio de Querétaro;
-
-II. Analizar, seleccionar y clasificar la documentación existente en el mismo;
-
-III. Recopilar y rescatar la documentación, que por su naturaleza deba permanecer en el archivo;
-
-IV. Brindar el servicio de consulta de su acervo documental a las diferentes instituciones públicas o privadas, investigadores, así como a los particulares que lo manifiesten, con previa solicitud;
-
-V. Difundir por cualquier medio, el acervo existente y los servicios del propio archivo;
-
-VI. Efectuar la depuración física de documentos analizados y aprobados de acuerdo a los dictámenes emitidos por la Comisión Técnica Consultiva;
-
-VII. Recibir y conservar adecuadamente la documentación histórica liberada por el Archivo de Concentración de la dependencia a que pertenece; y
-
-VIII. Las demás que el H. Ayuntamiento le encomiende.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)
 
 ###### ARTICULO 614.
 
-La documentación del archivo municipal, se encuentra concentrada en tres áreas:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)
 
-I. De Concentración;
-
-II. De Transferencia; y
-
-III. Histórico.
-
-Y subdivididas por ramos en cada una:
-
-1) Presidencia.
-
-2) Secretaría.
-
-3) Tesorería.
-
-4) Policía.
-
-5) Comisaría.
-
-6) Mercados.
-
-7) Obras Públicas.
-
-8) Padrones.
-
-9) Elecciones.
-
-10) Personal.
-
-11) Compras-Proveeduría.
-
-12) Predial.
-
-13) Oficialía Mayor.
-
-14) Rastro.
-
-15) Periódico Oficial.
-
-16) Transporte.
-
-17) Limpia.
-
-18) Nomenclatura.
-
-19) Registro Civil.
-
-20) Alumbrado.
-
-21) Parques y Jardines.
-
-22) Agua.
-
-23) Barrios.
-
-24) Biblioteca y Hemeroteca.
-
-25) Juzgado.
-
-26) Servicios Médicos.
-
-27) Reglamentos.
-
-28) Espectáculos.
-
-29) Relaciones Exteriores.
-
-30) Cárcel.
-
-31) Reclutamiento.
-
-32) Sindicatos.
-
-33) Panteones.
-
-34) Educación Pública.
-
-35) Casa de la Cultura.
-
-36) Prensa y Relaciones Públicas.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)</small>
 
 ### CAPITULO III. De los Jefes de Area
 
 ###### ARTICULO 615.
 
-Para el cumplimiento y ejecución de sus funciones, el archivo municipal contará con una Dirección o Jefatura, de la cual dependerán las áreas señaladas en el artículo anterior.
-
-Las áreas deberán contar con el personal suficiente y capacitado para el buen desempeño de sus funciones y un Coordinador por cada una de las áreas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)
 
 ###### ARTICULO 616.
 
-El H. Ayuntamiento de Querétaro, nombrará un Jefe del Archivo Municipal, quien será el responsable del mismo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)
 
 ###### ARTICULO 617.
 
-Son facultades y obligaciones del Jefe del Archivo Histórico Municipal;
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)
 
-a) Dirigir en forma técnica y administrativa el archivo;
-
-b) Formular e implantar políticas, lineamientos, métodos, técnicas y procedimientos aplicables en la Dependencia a su cargo;
-
-c) Coordinar y supervisar las actividades desarrolladas por medio de los Coordinadores;
-
-d) Procurar la conservación y seguridad del acervo documental del archivo, así como los bienes muebles que lo conforman;
-
-e) Fomentar el acervo histórico en concordancia con el Archivo General de la Nación y el Archivo Histórico del Estado, por medio de convenios;
-
-f) Proporcionar a la Comisión Técnica Consultiva, catálogos de los documentos que se conservan en su área de Transferencia;
-
-g) Formar parte de la Comisión Técnica Consultiva, teniendo voto de calidad; y
-
-h) Expedir copias simples de los documentos que deberán tener la certificación del Secretario del Ayuntamiento.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)</small>
 
 ### CAPITULO IV. Reglamentación para la Consulta y Préstamos de los Documentos
 
 ###### ARTICULO 618.
 
-Los Jefes de Area dependen directamente del Jefe del Archivo, al cual le informarán de sus actividades en forma mensual o las veces que sean requeridas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)
 
 ###### ARTICULO 619.
 
-Son facultades de los Jefes de Area:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)
 
-a) Clasificar, catalogar e inventariar el acervo documental a su cargo;
-
-b) Coordinar, controlar, evaluar, e informar de las actividades asignadas en el área conforme a los objetivos o lineamientos emitidos por el Jefe del Archivo;
-
-c) Proporcionar para consulta, con previa solicitud a quienes lo soliciten, el acervo documental a su cargo; y
-
-d) Revisar periódicamente, la vigencia de los documentos a fin de solicitar al Jefe del Archivo, el análisis y depuración de aquellos que haya prescrito su utilidad.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)</small>
 
 ### CAPITULO V. De la Comisión Técnica Consultiva
 
 ###### ARTICULO 620.
 
-Para la consulta de documentos del acervo, el usuario tendrá que, además de proporcionar por escrito los datos necesarios sobre los documentos a consultar, así como la institución de procedencia pública o privada que lo respalda, observar las siguientes disposiciones:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)
 
-a) La solicitud para la consulta del documento de referencia, expediente o cualquier otro, se hará a través de una cédula, donde se consignarán los datos relativos a la investigación;
-
-b) No hacer anotaciones sobre los documentos, se sancionará a quien lo haga privándole en lo futuro de consultas;
-
-c) La consulta o investigación deberá hacerse forzosamente en el área destinada para tal efecto, quedando estrictamente prohibido sacar del Archivo Histórico Municipal el acervo documental, salvo por acuerdo del Secretario del Ayuntamiento, o previo documento que ampare la salida del documento por orden judicial;
-
-d) El horario de funcionamiento para la consulta o investigación del acervo documental, será de 9:00 a 14:00 horas y de 16:00 a 20:00 horas de lunes a viernes;
-
-e) No introducir alimentos o bebidas, en la sede de investigación;
-
-f) No fumar, evitando con esto la posibilidad de un incendio;
-
-g) Dejar con el encargado cualquier tipo de bolso; y
-
-h) No hablar en voz alta.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)</small>
 
 ### CAPITULO I. De la Naturaleza de los Panteones
 
 ###### ARTICULO 621.
 
-Para el estudio y análisis del acervo documental que se requiera depurar, se contará con un órgano auxiliar denominado: “Comisión Técnica Consultiva”, que será nombrada por el Ayuntamiento a propuesta del Presidente Municipal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)
 
 ###### ARTICULO 622.
 
-La Comisión Dictaminadora estará integrada de la siguiente forma:
-
-I. Presidente Municipal;
-
-II. Secretario del Ayuntamiento;
-
-III. Jefe del Archivo Municipal;
-
-IV. Director del Archivo de Gobierno del Estado;
-
-V. Secretario de Acuerdos;
-
-VI. Cronistas; y
-
-VII. Secretario del Area Sustantiva.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)
 
 ###### ARTICULO 623.
 
-Son funciones de la Comisión Técnica Consultiva:
-
-I. Seleccionar y analizar, así como dictaminar el valor del acervo documental concentrado en el Archivo Histórico Municipal de Querétaro; así como también el estudio y análisis de la documentación; observando los siguientes puntos:
-
-a) Los motivos y objetivos de la entidad, objeto de la depuración.
-
-b) Su organización, procedimientos y políticas.
-
-c) Su desarrollo.
-
-d) Su legislación y normas.
-
-e) Sus recursos humanos y personalidades.
-
-f) Sus productos.
-
-II. Elaborar las actas de baja o destrucción de documentos;
-
-III. Prestar asesoría, a las diferentes dependencias del H. Ayuntamiento de Querétaro, en materia de depuración de documentos;
-
-IV. Salvo por orden judicial, la comisión será la única quien podrá destruir, adaptar, modificar, añadir, hacer señalamientos o alterar en cualquier forma la estructura o peculiaridades, que distingan a un documento del acervo; y
-
-V. Las demás que le encomiende el H. Ayuntamiento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)
 
 APARTADO OCTAVO
 
@@ -8700,3 +8538,13 @@ P.O. 28 DE ENERO DE 2000.
 QUINTO.- De conformidad a lo establecido e el artículo 169 de la Ley Orgánica Municipal del Estado de Querétaro, el presente Acuerdo deberá publicarse en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", y en la Gaceta Municipal.
 
 SEXTO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 16 DE JUNIO DE 2000.
+
+REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL.
+
+PRIMERO.- El Reglamento Interno del Archivo Municipal entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO.- Se deroga el Apartado Séptimo del Libro Tercero del Código Municipal De Querétaro.
+
+TERCERO.- Cualquier aspecto no previsto en el presente documento será resuelto por el H. Ayuntamiento de Querétaro.
