@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1941-09-24"
+last_updated: "1941-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1941.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -763,27 +763,29 @@ El Secretario General de Gobierno, formará el reglamento interior de la Secreta
 
 Siendo Abogado no podrá ejercer su profesión, en negocios agenos (sic).
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 1934)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1941)</small>
 
 ###### Artículo 73.
 
-Las ausencias temporales del Secretario General serán suplidas por el Subsecretario, y las de éste en funciones de Secretario, por el Jefe del Departamento de Gobernación.
+Las faltas temporales del Secretario General, serán suplidas por el Oficial Mayor, con la misma responsabilidad y prerrogativas de aquél.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1941)</small>
 
 ###### Artículo 74.
 
-El Secretario General o el Subsecretario en su caso, asistirán al Congreso:
+El Secretario General o el Oficial Mayor en su caso, asistirán al Congreso:
 
 I. Cuando el Gobernador concurra a los actos oficiales que determina esta Constitución.
 
-II. Cuando tenga que tomar parte en la discusión de las leyes.
+II. Cuando tenga que tomar parte en la discusión de las Leyes.
 
-III. Cuando fuere llamado por el Congreso para informar sobre algún negocio.
+III. Cuando fuere llamado por el Congreso para informar sobre algún asunto.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1922)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1941)</small>
 
 ###### Artículo 75.
 
-El Secretario General en unión del Procurador General de Justicia, del Tesorero General, Juez de primera Instancia y Presidente del Ayuntamiento de la Capital del Estado, constituyen el Consejo de Gobierno; cuya Presidencia asumirá el primero. El Consejo dará dictamen al Gobernador siempre que éste lo pida, procurando fundarlo en la Ley.
+En consulta de los problemas de Estado de gran interés, el C. Gobernador podrá reunir, sólo para escuchar su opinión, a los CC. Secretario General de Gobierno, Oficial Mayor, Procurador General de Justicia y a los Directores que se haga necesario, pudiendo también auscultar la opinión de Representantes de los otros Poderes.
 
 > <small>(ADICIONADO, P.O. 12 DE MAYO DE 1923)</small>
 
@@ -875,9 +877,11 @@ Los Jueces menores serán nombrados a mayoría de votos por los Ayuntamientos ce
 
 La Hacienda Pública se formará de las contribuciones que decrete el Congreso y de los demás bienes que pertenezcan al Estado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1941)</small>
+
 ###### Artículo 87.
 
-En el lugar de la residencia de los Poderes del Estado, habrá una Tesorería General en la que se concentrarán todos los caudales públicos del mismo.
+En el lugar de la residencia de los Poderes del Estado, habrá una Dirección General de Hacienda y de Economía, en la que se concentrarán todos los caudales públicos del mismo.
 
 ###### Artículo 88.
 
@@ -891,9 +895,11 @@ Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosar
 
 La glosa de las cuentas de todas las Oficinas de Hacienda del Estado y de los Municipios, se hará por la Contaduría del Ramo con arreglo a la ley respectiva.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1941)</small>
+
 ###### Artículo 91.
 
-El Ejecutivo cuidará de que la fianza con que el Tesorero General caucione su manejo, se remita al Congreso para su conocimiento.
+El Ejecutivo cuidará de que la fianza con que el encargado de los caudales públicos caucione su manejo, se remita al Congreso para su conocimiento.
 
 ### CAPITULO III.
 
@@ -1294,3 +1300,9 @@ Se derogan todas las disposiciones anteriores que se opongan a este Decreto.
 ###### Artículo 3o.
 
 Por solo este año el segundo Período ordinario de Sesiones se iniciará el 1o. de octubre y terminará el 31 de diciembre.
+
+P.O. 31 DE DICIEMBRE DE 1941.
+
+###### Art. 1o.
+
+Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
