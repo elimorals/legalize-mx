@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1924-05-08"
+last_updated: "1925-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 1924.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1925.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -102,6 +102,10 @@ Por tanto, mando se imprima, publique solemnemente por Bando y circule para su f
 Palacio del Poder Ejecutivo, en Pachuca de Soto, a veintiuno de septiembre de mil novecientos veinte.- Nicolás Flores.- Lic. Eduardo Suárez, Subsecretario, Encargado del Despacho de la Secretaría General.
 
 P.O. 8 DE MAYO DE 1924.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 16 DE ENERO DE 1925.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
 
@@ -245,7 +249,7 @@ Las resoluciones así dictadas y todas las que prevengan del Congreso erigido en
 
 ###### Artículo 25.
 
-El Congreso se reunirá en sesiones ordinarias y extraordinarias. Tendrá cada año dos periodos de sesiones ordinarias: el primero comenzará el 1º. de marzo y terminará el 15 de mayo, y el segundo comenzará el 1º. de septiembre y terminará el 15 de noviembre. Se reunirá en sesiones extraordinarias, cuando fuere convocado por la Diputación Permanente.
+El Congreso se reunirá en sesiones ordinarias y extraordinarias. Tendrá cada año dos períodos de sesiones ordinarias: el primero comenzará el 1º. de marzo y terminará el 15 de mayo, y el segundo comenzará el 1º. de septiembre y terminará el 15 de noviembre. Se reunirá en sesiones extraordinarias, cuando fuere convocado por la Diputación Permanente.
 
 ###### Artículo 26.
 
@@ -441,7 +445,9 @@ I. Los Ministros de cualquier culto.
 
 II. El Gobernador substituto y el provisional para el periodo siguiente a aquél en que hubiere desempeñado el cargo.
 
-III. El Secretario General, el Subsecretario, los Magistrados del Tribunal Superior, el Procurador General de Justicia del Estado y los funcionarios de la Federación, que no se hayan separado de sus respectivos cargos cuando menos, seis meses antes de la elección.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 1925)</small>
+
+III.- El Secretario General, el Subsecretario, los Magistrados del Tribunal Superior de Justicia del Estado, el Procurador General de Justicia del mismo y los Funcionarios de la Federación que no se hayan separado de sus respectivos cargos, cuando menos seis meses antes de la elección, no quedando comprendidos en este mandato los Funcionarios de la Federación que ocupen sus puestos por elección popular.
 
 IV. Los militares que no se hayan separado del servicio, cuando menos, seis meses antes de la elección. Para los efectos de esta disposición, no se tienen por militares a los ciudadanos alistados en la Guardia Nacional.
 
@@ -571,7 +577,7 @@ Se deposita el ejercicio del Poder Judicial en un Tribunal Superior y en los Tri
 
 ###### Artículo 61.
 
-El Tribunal Superior de Justicia estará formado por seis Magistrados que durarán en sus cargos cuatro años y tomarán posesión el día 5 de mayo.
+El Tribunal Superior de Justicia estará formado por seis Magistrados que durarán en sus cargos cuatro años y tomaran posesión el día 5 de mayo.
 
 ###### Artículo 62.
 
@@ -817,7 +823,7 @@ En los delitos del orden común que cometiere el Gobernador, el Secretario Gener
 
 En los delitos oficiales cometidos por los mismos funcionarios, el Congreso erigido en Jurado de Acusación, declarará por mayoría del número total de sus miembros, si ha lugar a acusar al funcionario ante el Tribunal Superior erigido en Gran Jurado.
 
-En caso afirmativo, el Congreso nombraáa una comisión de tres de sus miembros para que sostenga la acusación.
+En caso afirmativo, el Congreso nombrará una comisión de tres de sus miembros para que sostenga la acusación.
 
 Si el Tribunal Superior, después de oír al acusado, lo declara culpable, éste quedará privado de su puesto e inhabilitado para obtener otro en el tiempo que la ley determine.
 
@@ -852,6 +858,8 @@ Todos los funcionarios y empleados públicos sin excepción, antes de tomar pose
 ###### Artículo 99.
 
 Ninguna autoridad política o administrativa, dispondrá de manera alguna de las personas de los acusados o reos, mientras no le estén formalmente consignados, y entonces, sólo para el efecto de ejecutar la sentencia.
+
+úArtículo 100. Todo funcionario y empleado público, tendrá derecho a percibir el sueldo o emolumento que la ley señale, sin que pueda renunciarlo, y la ley que lo aumente o disminuya, no podrá tener lugar durante el período en que un funcionario ejerce el cargo.
 
 ###### Artículo 100.
 
