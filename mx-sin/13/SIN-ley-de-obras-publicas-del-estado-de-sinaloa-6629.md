@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-obras-publicas-del-estado-de-sinaloa-6629"
 country: "mx"
 rank: "ley"
 publication_date: "1985-04-01"
-last_updated: "1985-04-01"
+last_updated: "1993-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1993.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 1º de abril de 1985.
 
@@ -43,7 +43,9 @@ LEY DE OBRAS PUBLICAS DEL ESTADO DE SINALOA
 
 La presente Ley es de orden público e interés social y tiene por objeto regular el gasto y las acciones relativas a la planeación programación, presupuestación, ejecución, conservación, mantenimiento, demolición y control de la obra pública que realicen:
 
-I.- El Gobierno del Estado, a través de la Secretaría de Obras Públicas y de las demás dependencias facultadas por la Ley, para ello;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+I.- El Gobierno del Estado, a través de la Secretaría de Comunicaciones y Obras Públicas y de las demás dependencias facultadas por la Ley, para ello;
 
 II.- Los Ayuntamientos por conducto de las Direcciones Municipales de Obras Públicas y Desarrollo Urbano y de las demás dependencias facultadas por la Ley, para ello;
 
@@ -69,9 +71,11 @@ El gasto que se realice en toda obra pública, se sujetará a lo previsto en los
 
 Quedan sujetos a las disposiciones de esta Ley, en los términos que la misma establece, los contratos de servicios y de adquisiciones relacionados con la obra pública, que requieran celebrar las dependencias y organismos mencionados en el Artículo 1o.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### Artículo 5o.
 
-La aplicación de la presente Ley corresponderá al Ejecutivo del Estado, a través de la Secretaría de Obras Públicas y a los Ayuntamientos por conducto de las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, según se trate de obras públicas estatales o municipales.
+La aplicación de la presente Ley corresponderá al Ejecutivo del Estado, a través de la Secretaría de Comunicaciones y Obras Públicas y a los Ayuntamientos por conducto de las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, según se trate de Obras Públicas Estatales o Municipales.
 
 La Secretaría y las Direcciones Municipales, según corresponda, dictarán las normas administrativas que en aplicación de la presente Ley deban observarse en la contratación, ejecución y control de las obras públicas.
 
@@ -95,13 +99,17 @@ III.- De los estudios y proyectos que realicen sobre las obras públicas, los qu
 
 ### CAPITULO III. DEL PADRON DE CONTRATISTAS DE OBRA PUBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### Artículo 8o.
 
 La planeación de la obra pública que realicen el Gobierno del Estado, los Ayuntamientos y los organismos a que se refiere el artículo 1o. deberá:
 
 I.- Sujetarse a los objetivos, políticas y prioridades señalados en los planes y programas que se elaboren a nivel sectorial y regional de desarrollo urbano, social y económico a corto, mediano y largo plazo, de acuerdo con los recursos identificados en los mismos planes, y en observancia de las normas y lineamientos que de ellos se deriven.
 
-II.- Prever los requerimientos de áreas y predios para la obra pública, previa consulta con la Secretaría de Obras Públicas o de las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, para que estas, dentro de sus respectivas competencias, determinen la conveniencia y viabilidad de los mismos y observar, así mismo, las declaratorias de provisiones, usos, reservas y destinos de áreas y predios;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+II.- Prever los requerimientos de áreas y predios para la obra pública, previa consulta con la Secretaría de Comunicaciones y Obras Públicas o de las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, para que éstas, dentro de sus respectivas competencias, determinen la conveniencia y viabilidad de los mismos y a observar, así mismo, las declaratorias de provisiones, usos, reservas y destinos de áreas y predios;
 
 III.- Considerar la disponibilidad de recursos con relación a las necesidades de la obra pública;
 
@@ -123,7 +131,9 @@ III.- Los recursos necesarios para su ejecución, así como la calendarización 
 
 IV.- Las dependencias u organismos responsables de su ejecución.
 
-Los organismos a que se refiere la presente Ley deberán remitir sus programas de obra pública a la Secretaría de Obras Públicas o a las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, según corresponda, a efecto de que sean integrados a la planeación del desarrollo del Estado o de los Municipios.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+Los organismos a que se refiere la presente Ley deberán remitir sus programas de obra pública a la Secretaría de Comunicaciones y Obras Públicas o a las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, según corresponda, a efecto de que sean integrados a la planeación del desarrollo del Estado o de los Municipios.
 
 ###### Artículo 10.
 
@@ -153,17 +163,21 @@ En el caso de obras cuya ejecución rebase un ejercicio presupuestal, deberá de
 
 ###### Artículo 13.
 
-La Secretaría de Obras Públicas y las Direcciones Municipales de Obras Públicas y Desarrollo Urbano llevarán, cada una de ellas, un padrón de contratistas de obra pública en el que se clasificarán a las persona (sic) inscritas en los mismos, de acuerdo con su especialidad, capacidad técnica y económica. Dicha clasificación deberá considerarse en la convocatoria y contratación de la obra pública.
+La Secretaría de Comunicaciones y Obras Públicas y las Direcciones Municipales de Obras Públicas y Desarrollo Urbano llevarán, cada una de ellas, un padrón de contratistas de obra pública en el que se clasificarán a las personas inscritas en los mismos, de acuerdo con su especialidad, capacidad técnica y económica. Dicha clasificación deberá considerarse en la convocatoria y contratación de la obra pública.
 
 La relación de personas inscritas en el padrón, se hará del conocimiento de los organismos y público en general.
 
 Las dependencias y organismos sólo podrán celebrar contratos de obra pública con las personas inscritas en el padrón cuyo registro esté vigente, con excepción de los casos en que el costo de la obra no rebase el importe de quinientas veces el salario mínimo general diario vigentes en la zona económica de ubicación de la obra.
 
-En caso de estar incompleto el padrón estatal, la Secretaría de Obras Públicas podrá recurrir al padrón de contratistas del Gobierno Federal. Tratándose del padrón municipal, si estuviere incompleto, los Ayuntamientos podrán recurrir, a su vez, a los padrones de registro de contratistas de los demás municipios, al del Gobierno del Estado o bien al del Gobierno Federal.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+En caso de estar incompleto el Padrón Estatal, la Secretaría de Comunicaciones y Obras Públicas podrá recurrir al Padrón de Contratistas del Gobierno Federal, los Ayuntamientos podrán recurrir, a su vez, a los Padrones de Registro de Contratistas de los demás municipios, al del Gobierno del Estado o bien al del Gobierno Federal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### Artículo 14.
 
-Las personas interesadas en inscribirse en el padrón de contratistas de obra pública, deberán solicitarlo por escrito ante la Secretaría de Obras Públicas, o ante la Dirección Municipal de Obras Públicas y Desarrollo Urbano que corresponda, debiendo proporcionar, según se trate de personas físicas o morales, la siguiente información y documentos:
+Las personas interesadas en inscribirse en el Padrón de Contratistas de Obra Pública, deberán solicitarlo por escrito ante la Secretaría de Comunicaciones y Obras Públicas, o ante la Dirección Municipal de Obras Públicas y Desarrollo Urbano que corresponda, debiendo proporcionar, según se trate de personas físicas o morales, la siguiente información y documentos:
 
 I.- Datos generales de la interesada;
 
@@ -209,9 +223,11 @@ II.- Se les declare incapacitados legalmente para contratar.
 
 La suspensión se levantará cuando cesen las causas que la motivaron, a solicitud del interesado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### Artículo 18.
 
-La Secretaría de Obras Públicas y las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, según corresponda, estarán facutadas (sic) para cancelar el registro de los contratistas cuando:
+La Secretaría de Comunicaciones y Obras Públicas y las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, según corresponda, estarán facultadas para cancelar el registro de los contratistas cuando:
 
 I.- Incurran en actos u omisiones que les sean imputables y que perjudiquen gravemente los intereses de la contratante;
 
@@ -245,6 +261,8 @@ Los contratos a que se refiere el artículo 20 podrán adjudicarse directamente 
 
 ### CAPITULO VI. DE LA INFORMACION Y VERIFICACION DE LA OBRA PUBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### Artículo 23.
 
 Las obras públicas podrán realizarse por administración directa o por contratación.
@@ -263,7 +281,9 @@ III.- Que se cumplan los trámites o gestiones complementarios que se relacionen
 
 El Gobierno del Estado, así como los Ayuntamientos y organismos a que se refiere esta Ley, podrán realizar obras por administración directa, siempre que cuenten con la capacidad técnica y los elementos necesarios.
 
-Previamente a la ejecución de estas obras, los titulares de la Secretaría de Obras Públicas y de las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, así como de los organismos a que se refiere la presente Ley, según corresponda, dictarán el respectivo acuerdo de iniciación de la obra, fundando y motivando la decisión de llevarla a cabo por administración directa, y lo harán del conocimiento de la Contraloría General del Poder Ejecutivo o del órgano de control municipal, según el caso, debiendo además informar periódicamente el avance físico de la obra y los gastos efectuados. Igualmente deberán comunicarles la suspensión y terminación de la misma.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+Previamente a la ejecución de estas obras, los Titulares de la Secretaría de Comunicaciones y Obras Públicas y de las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, así como de los organismos a que se refiere la presente Ley, según corresponda, dictarán el respectivo acuerdo de iniciación de la obra, fundando y motivando la decisión de llevarla a cabo por administración directa, y lo harán del conocimiento de la Contraloría General del Poder Ejecutivo o del Organo de Control Municipal, según el caso, debiendo además informar periódicamente el avance físico de la obra y los gastos efectuados. Igualmente deberán comunicarles la suspensión y terminación de la misma.
 
 Formarán parte integrante del acuerdo a que se refiere este artículo, la descripción pormenorizada de la obra que se pretende ejecutar, así como los proyectos, planos, especificaciones, programas de ejecución y de suministro y el presupuesto correspondiente.
 
@@ -301,9 +321,11 @@ IX.- La especialidad que se requiera para participar en el concurso, de acuerdo 
 
 Toda persona que satisfaga los términos de la convocatoria, tendrá derecho a presentar proposiciones solventes en sobre cerrado, que será abierto en junta pública, a fin de asegurar al Gobierno del Estado, a los Municipios y organismos a que se refiere la presente Ley, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### Artículo 29.
 
-En los supuestos contemplados en los Artículos 49 y 50, la Secretaría de Obras Públicas del Estado, así como las Direcciones Municipales de Obras Públicas y Desarrollo Urbano y los organismos a que se refiere la presente Ley, podrán optar por contratar las obras públicas señaladas en dichos artículos sin llevar a cabo las licitaciones a que se refiere el Artículo 26.
+En los supuestos contemplados en los artículos 49 y 50, la Secretaría de Comunicaciones y Obras Públicas del Estado, así como las Direcciones Municipales de Obras Públicas y Desarrollo Urbano y los organismos a que se refiere la presente Ley, podrán optar por contratar las obras públicas señaladas en dichos artículos sin llevar a cabo las licitaciones a que se refiere el Artículo 26.
 
 La contratación de obras en los términos del párrafo anterior deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficiencia, eficacia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado, los Municipios u organismos, según corresponda.
 
@@ -419,9 +441,11 @@ Los contratos que con base en la presente Ley celebren el Gobierno del Estado, l
 
 Las controversias relativas a las resoluciones y contratos, así como a la interpretación y aplicación de esta Ley, se regirán por lo dispuesto en el Capítulo octavo.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### Artículo 46.
 
-La Secretaría de Obras Públicas y las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, así como los organismos a que se refiere la presente Ley, deberán proporcionar a la Secretaría de Hacienda Pública y Tesorería o a la Tesorería Municipal, según sea el caso, copia de los títulos de propiedad, si los hubiere, de los inmuebles objeto de la obra pública realizada o en proceso de realización y los datos de localización y construcción de ésta, a efecto de que se proceda a inscribirlos en el Registro Público de la Propiedad, en el Municipio de ubicación de los mismos y para que se incluyan en los catálogos e inventarios de los bienes y recursos respectivos.
+La Secretaría de Comunicaciones y Obras Públicas y las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, así como los organismos a que se refiere la presente Ley, deberán proporcionar a la Secretaría de Hacienda Pública y Tesorería o a la Tesorería Municipal, según sea el caso, copia de los títulos de propiedad, si los hubiere, de los inmuebles objeto de la obra pública realizada o en proceso de realización y los datos de localización y construcción de ésta, a efecto de que se proceda a inscribirlos en el Registro Público de la Propiedad, en el municipio de ubicación de los mismos y para que se incluyan en los catálogos e inventarios de los bienes y recursos respectivos.
 
 ###### Artículo 47.
 
@@ -465,7 +489,7 @@ El titular de la dependencia u organismo, en un plazo que no excederá de diez d
 
 ###### Artículo 51.
 
-Son facultades y obligaciones de la Secretaría de Obras Públicas, así como de las Direcciones Municipales de Obras Públicas y Desarrollo Urbano y organismos a que se refiere la presente Ley, en materia de información y verificación de la obra pública:
+Son facultades y obligaciones de la Secretaría de Comunicaciones y Obras Públicas, así como de las Direcciones Municipales de Obras Públicas y Desarrollo Urbano y organismos a que se refiere la presente Ley, en materia de información y verificación de la obra pública:
 
 I.- Llevar el control de la obra pública en todas sus fases;
 
@@ -513,7 +537,9 @@ IV.- Con la reparación del daño causado.
 
 La subcontratación de obra pública que realice el contratista en violación del Artículo 37, será causa de cancelación de su registro en el padrón de contratistas del Estado o de los Municipios, según corresponda y será motivo, además, para rescindir administrativamente los contratos de obra que le hubieren adjudicado.
 
-Las sanciones mencionadas, se aplicarán por la Secretaría de Gobierno a través de la Dirección de Asuntos Jurídicos, o por la Secretarías de los Ayuntamientos, según corresponda, una vez remitida la información conducente por la Secretaría de Obras Públicas o por las Direcciones Municipales de Obras Públicas y Desarrollo Urbano. En cada caso, las multas impuestas se harán efectivas por las autoridades fiscales competentes.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+Las sanciones mencionadas, se aplicarán por la Secretaría General de Gobierno a través de la Dirección de Asuntos Jurídicos, o por la Secretaría de los Ayuntamientos, según corresponda, una vez remitida la información conducente por la Secretaría de Comunicaciones y Obras Públicas o por las Direcciones Municipales de Obras Públicas y Desarrollo Urbano. En cada caso, las multas impuestas se harán efectivas por las Autoridades Fiscales competentes.
 
 Las infracciones cometidas por los servidores públicos serán sancionadas conforme a la Ley de Responsabilidades.
 
@@ -551,9 +577,11 @@ La omisión a lo dispuesto en el párrafo anterior será sancionada conforme a l
 
 Las sanciones a que se refiere la presente Ley son independientes de las responsabilidades de orden civil, penal o administrativo que puedan derivarse de la comisión de tales hechos.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### Artículo 59.
 
-Los actos, convenios, contratos y negocios jurídicos que se realicen en contravención a lo dispuesto por esta Ley, serán nulos de pleno derecho. Dicha nulidad será constatada de oficio por la Secretaría de Gobierno o las Secretarías de los Ayuntamientos, según corresponda, observándose el procedimiento previsto por el Artículo 56.
+Los actos, convenios, contratos y negocios jurídicos que se realicen en contravención a lo dispuesto por esta Ley, serán nulos de pleno derecho. Dicha nulidad será constatada de oficio por la Secretaría General de Gobierno o las Secretarías de los Ayuntamientos, según corresponda observándose el procedimiento previsto por el artículo 56.
 
 ###### Artículo 60.
 
@@ -593,7 +621,9 @@ VIII.- Vencido el plazo para la rendición de las pruebas se dictará resolució
 
 Artículo Primero.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-Artículo Segundo.- Los contratistas que tengan interés en continuar inscritos en el Padrón de Obra Pública del Estado que lleva la Secretaría de Obras Públicas, deberán cumplir con los requisitos que señala el presente decreto para obtener su registro, lo cual harán dentro de los noventa días siguientes contados a partir de la fecha en que entre en vigor este Ordenamiento. Si dentro del término señalado se celebrare algún concurso de obra pública estatal, podrán paritcipar (sic) en el mismo los contratistas que cuenten con registro de dicho padrón, que se hubiere otorgado con anterioridad a la vigencia del presente Decreto.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+Artículo Segundo.- Los contratistas que tengan interés en continuar inscritos en el Padrón de Obra Pública del Estado que lleva la Secretaría de Comunicaciones y Obras Públicas, deberán cumplir con los requisitos que señala el presente Decreto para obtener su registro, lo cual harán dentro de los 90 días siguientes contados a partir de la fecha en que entre en vigor este ordenamiento. Si dentro del término señalado se celebrare algún concurso de obra pública estatal, podrán participar en el mismo los contratistas que cuenten con registro de dicho padrón, que se hubiere otorgado con anterioridad a la vigencia del presente Decreto.
 
 Dentro del término señalado, las direcciones municipales de obras públicas y desarrollo urbano abrirán el registro del Padrón de Obra Pública Municipal, pudiendo los contratistas solicitar su registro en cualquier tiempo una vez transcurrido dicho término. Mientras no se abra el registro, podrán participar en los concursos para obra pública municipal los contratistas inscritos en el Padrón de Obra Pública del Estado, en los términos del párrafo anterior.
 
@@ -632,3 +662,11 @@ LIC. ELEUTERIO RIOS ESPINOZA
 El Secretario de Obras Públicas
 
 ARQ. JAIME SEVILLA POYASTRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS QUE REFORMAN LA PRESENTE LEY.</small>
+
+P.O. 4 DE AGOSTO DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
