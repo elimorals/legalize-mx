@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1991-12-30"
+last_updated: "1992-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 1992.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -2642,57 +2642,57 @@ TITULO DECIMOTERCERO
 
 Falsedad
 
-### CAPITULO I. Falsificación y alteración de moneda
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 11 DE JUNIO DE 1992)</small>
+
+### CAPITULO I. Falsificación, alteración y destrucción de moneda
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 234.
 
-Al que cometa el delito de falsificación de moneda, se le aplicarán de seis meses a cinco años de prisión, y multa de cien a tres mil pesos.
+Al que cometa el delito de falsificación de moneda, se le impondrá de cinco a doce años de prisión y hasta quinientos días multa.
+
+Se entiende por moneda para los efectos de este Capítulo, los billetes y las piezas metálicas, nacionales o extranjeros, que tengan curso legal en el país emisor.
+
+Comete el delito de falsificación de moneda el que produzca, almacene, distribuya o introduzca al territorio nacional cualquier documento o pieza que contenga imágenes u otros elementos utilizados en las monedas circulantes, y que por ello resulten idóneos para engañar al público, por ser confundibles con monedas emitidas legalmente. A quien cometa este delito en grado de tentativa, se le impondrá de cuatro a ocho años de prisión y hasta trescientos días multa.
+
+La pena señalada en el primer párrafo de este artículo, también se impondrá al que a sabiendas hiciere uso de moneda falsificada.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 235.
 
-Comete el delito de falsificación de moneda:
+Se impondrá de uno a cinco años de prisión y hasta quinientos días multa:
 
-I.- El que en la República, falsifique moneda o expenda moneda falsificada o introduzca del extranjero moneda igualmente falsificada.
+I.- Al que, produzca, almacene o distribuya piezas de papel con tamaño similar o igual al de los billetes, cuando dichas piezas presenten algunas de las imágenes o elementos de los contenidos en aquellos, resultando con ello piezas con apariencia de billetes;
 
-II.- El que introduzca moneda legítima alterada de oro o de plata, o la altere en la República disminuyendo su valor, ya sea limándolo, recortándola, disolviéndola en ácidos o empleando cualquier otro medio;
+II.- Al que marque la moneda con leyendas, sellos, troqueles o de cualquier otra forma, que no sean delebles para divulgar mensajes dirigidos al público.
 
-III.- El que, a sabiendas, hiciere uso de moneda falsa o alterada. Se presumirá que el inculpado obra a sabiendas: si fuere cambista o persona que, por razón de su profesión y ocupación habitual, debiere conocer la calidad de la moneda; si llevare consigo o tuviere en su poder varias monedas falsas o alteradas o en número mayor de tres, en el acto de poner en circulación alguna de ellas, o si alguna otra vez sin acuerdo con el falsario, hubiere hecho uso de moneda falsa o alterada sabiendo que lo era;
+III.- Al que permita el uso o realice la enajenación, por cualquier medio y título, de máquinas, instrumentos o útiles que únicamente puedan servir para la fabricación de moneda, a personas no autorizadas legalmente para ello.
 
-IV.- El empleado de una casa de moneda que, por cualquier medio, haga que las monedas de oro o de plata que en ella se acuñen, se fabriquen de metal diverso del señalado por la ley, o tengan menor peso que el legal o una ley inferior;
-
-La prisión para este caso no podrá bajar del máximum fijado en el artículo precedente, pudiendo llegar hasta nueve años a juicio del juez.
-
-V.- El que mande construir, compre o construya máquinas, instrumentos o útiles para la fabricación de moneda, si únicamente pudieren servir para ese objeto.
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 236.
 
-La falsificación hecha por un mexicano en otro país, de moneda extranjera que no tenga circulación legal en la República, se sancionará en ésta con seis meses a cinco años de prisión si la nación ofendida reclamare y no hubiese sido castigado en ella. La misma pena se aplicará si el delincuente es extranjero y no se concede su extradición.
+Se impondrá prisión de cinco a doce años y hasta quinientos días multa, al que altere moneda. Igual sanción se impondrá al que a sabiendas circule moneda alterada.
+
+Para los efectos de este artículo se entiende que altera un billete, aquel que forme piezas mediante la unión de dos o más fracciones procedentes de diferentes billetes, y que altera una moneda metálica, aquel que disminuye el contenido de oro, plata, platino o paladio que compongan las piezas monetarias de curso legal, mediante limaduras, recortes, disolución en ácidos o empleando cualquier otro medio.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 237.
 
-No se librará de las sanciones impuestas por la falsificación de moneda: el que de la ya falsificada haga botones o cualquiera otra cosa, a no ser que esa nueva forma la inutilice para la circulación.
+Se castigará con prisión de cinco a doce años y hasta quinientos días multa, a quien preste sus servicios o desempeñe un cargo o comisión en la casa de moneda o en cualquier empresa que fabrique cospeles, y que por cualquier medio, haga que las monedas de oro, plata, platino o paladio, contengan metal diverso al señalado por la ley, o tengan menor peso que el legal o una ley de aleación inferior.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 11 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 238.
 
-Al que cometa el delito de falsificación de billetes de banco, se le impondrán de cinco a doce años de prisión y multa de mil a diez mil pesos.
+Se le impondrá de tres a siete años de prisión y hasta quinientos días multa, al que aproveche ilícitamente el contenido metálico destruyendo las monedas en circulación mediante su fundición o cualquier otro procedimiento.
 
-Comete el delito de que habla el párrafo anterior:
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 11 DE JUNIO DE 1992)</small>
 
-I.- El que falsifique los billetes de banco emitidos legalmente;
-
-II.- El que altere de cualquier forma los billetes de banco emitidos legalmente.
-
-III.- El que falsificare los billetes de un banco, existente en un país extranjero autorizado legalmente en él, para emitirlos;
-
-IV.- El que alterare en cualquier forma los billetes a que se refiere la fracción anterior.
-
-Al que introduzca a la República o pusiere en circulación en ella los billetes de banco falsos o alterados a que se refieren los párrafos anteriores, se le aplicará la sanción señalada en este artículo, y se le aplicará también en su caso la parte final del artículo 236.
-
-Al que comete el delito de falsificación de billetes de banco en grado de tentativa, se le impondrá la misma pena que si lo hubiere consumado.
-
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
-
-### CAPITULO II. Falsificación de billetes de banco, títulos al portador y documentos de crédito público
+### CAPITULO II. Falsificación de títulos al portador y documentos de crédito público
 
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
@@ -2708,11 +2708,11 @@ II.- Las obligaciones de la deuda pública de otra nación, cupones de intereses
 
 III.- Las obligaciones y otros títulos legalmente emitidos por sociedades o empresas o por las administraciones públicas de la Federación, de los Estados o de cualquier Municipio, y los cupones de intereses o de dividendos de los documentos mencionados.
 
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 240.
 
-Al que introduzca a la República o pusiere en circulación en ella los documentos falsos de que habla el artículo anterior, se le aplicará la sanción señalada por el artículo 239, y se le aplicará también en su caso, la parte final del artículo 236.
+Al que introduzca en la República o pusiere en circulación en ella los documentos falsificados de que habla el artículo anterior, se le aplicará la sanción ahí señalada.
 
 ### CAPITULO III. Falsificación de sellos, llaves, cuños o troqueles, marcas, pesas y medidas
 
@@ -4306,8 +4306,6 @@ Cuando por cualquier medio se causen daño, destrucción o deterioro de cosa aje
 
 ARTICULO 399 bis.- Los delitos previstos en este título se perseguirán por querella de la parte ofendida cuando sean cometidos por un ascendiente, descendiente, cónyuge, parientes por consanguinidad hasta el segundo grado, concubina o concubinario, adoptante o adoptado y parientes por afinidad asimismo hasta el segundo grado. Igualmente se requerirá querella para la persecución de terceros que hubiesen incurrido en la ejecución del delito con los sujetos a que se refiere el párrafo anterior. Si se cometiere algún otro hecho que por si solo constituya un delito, se aplicará la sanción que para éste señala la ley.
 
-> <small>N. DE E. EL CONTENIDO DE LOS ANTIGUOS PARRAFOS SEGUNDO Y TERCERO SE ENCUENTRA COMPRENDIDO EN EL ACTUAL PARRAFO SEGUNDO.</small>
-
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 Se perseguirán por querella los delitos previstos en los artículos 380 y 382 a 399, salvo el artículo 390 y los casos a que se refieren los dos últimos párrafos del artículo 395.
@@ -4923,3 +4921,9 @@ D.O.F. 30 DE DICIEMBRE DE 1991.
 DECRETO QUE ADICIONA UN ARTICULO 254 BIS AL CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DEL FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE JUNIO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
