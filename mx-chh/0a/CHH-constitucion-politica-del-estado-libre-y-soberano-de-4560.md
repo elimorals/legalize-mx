@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1998-10-03"
+last_updated: "1999-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1999.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1575,7 +1575,9 @@ Los magistrados y jueces en funciones o que disfruten de licencia con goce de su
 
 El Supremo Tribunal de Justicia funcionará en pleno o en salas unitarias, que podrán ser regionales, según lo determine la ley.
 
-Su presidente rendirá en el mes de agosto de cada año un informe ante el pleno sobre el estado que guarda la administración de justicia.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
+
+Su Presidente rendirá en el mes de diciembre de cada año, un informe ante el Pleno sobre el estado que guarda la Administración de Justicia.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2732,3 +2734,13 @@ SEGUNDO.- Siempre que algún ordenamiento mencione a la Secretaría de Gobierno,
 Estas previsiones serán aplicables en lo conducente, a las asignaciones correspondientes del Presupuesto de Egresos del Gobierno del Estado para el ejercicio fiscal de 1998.
 
 Lo anterior, sin perjuicio de las consecuentes modificaciones a la normatividad estatal para adecuarla al presente decreto.
+
+P.O. 21 DE AGOSTO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Por esta única ocasión, el informe anual que rinda el Presidente del Supremo Tribunal de Justicia, comprenderá las actividades del Poder Judicial desarrolladas desde el primero de julio de 1998 al 31 de diciembre de 1999.
