@@ -4,7 +4,7 @@ identifier: "FED-ley-que-establece-las-normas-minimas-sobre-readaptacion-2572"
 country: "mx"
 rank: "ley"
 publication_date: "1971-05-19"
-last_updated: "1992-12-28"
+last_updated: "1999-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2572&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1971-02-08"
 
 LEY QUE ESTABLECE LAS NORMAS MINIMAS SOBRE READAPTACION SOCIAL DE SENTENCIADOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 19 de mayo de 1971.
 
@@ -105,9 +105,9 @@ IV.- Traslado a la institución abierta; y
 
 V.- Permisos de salida de fin de semana o diaria con reclusión nocturna, o bien de salida en días hábiles con reclusión de fin de semana.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-No se concederán las medidas de tratamiento preliberacional establecidas en las fracciones IV y V de este artículo, a los sentenciados por los delitos contra la salud en materia de estupefacientes o psicotrópicos previstos en las fracciones I a IV del artículo 197, salvo que se trate de individuos en los que concurran evidente atraso cultural, aislamiento social y extrema necesidad económica; por el delito de violación previsto en el primero y segundo párrafos del artículo 265, en relación al artículo 266 bis fracción primera por el delito de plagio o secuestro previsto en el artículo 366 con excepción a lo previsto por la fracción VI de dicho artículo en relación con su antepenúltimo párrafo y lo dispuesto en el penúltimo párrafo; por el delito de robo con violencia en las personas en un inmueble habitado o destinado para habitación conforme a lo previsto en el artículo 367, en relación con los artículos 372 y 381 bis, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+Al aplicar las medidas de tratamiento establecidas en las fracciones IV y V, la autoridad condicionará su otorgamiento, al cumplimiento de lo previsto en la fracción III y en los incisos a) a d) del artículo 84 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal. No se concederán dichas medidas cuando el sentenciado se encuentre en cualquiera de los casos a que se refiere el artículo 85 del mencionado Código Penal. La autoridad podrá revocar dichas medidas, conforme a lo establecido en el artículo 86 del citado Código Penal.
 
 ###### ARTICULO 9o.
 
@@ -179,13 +179,13 @@ El otorgamiento de la remisión se condicionará, además de lo previsto en el p
 
 Al disponer la remisión, la autoridad que la conceda establecerá las condiciones que deba observar el reo, conforme a lo estipulado en los incisos a) a d) de la segunda parte del artículo 84 del Código Penal.
 
-> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-La remisión es revocable por la autoridad que la otorga, en los casos y conforme al procedimiento dispuestos para la revocación de la libertad preparatoria.
+La autoridad al conceder la remisión parcial de la pena, establecerá las condiciones que deba cumplir el sentenciado, conforme a lo establecido en la fracción III y los incisos a) a d) del artículo 84 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal. La remisión parcial de la pena no se concederá a los sentenciados que se encuentren en cualquiera de los casos a que se refiere el artículo 85 del citado Código Penal.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-No se concederá la remisión parcial de la pena a los sentenciados por los delitos contra la salud en materia de estupefacientes o psicotrópicos previstos por las fracciones I a IV del artículo 197, salvo que se trate de individuos en los que concurran evidente atraso cultural, aislamiento social y extrema necesidad económica; por el delito de violación previsto en el primero y segundo párrafos del artículo 265, en relación al 266 bis fracción I; el delito de plagio o secuestro previsto por el artículo 366 con excepción a lo previsto por la fracción VI de dicho artículo en relación con su antepenúltimo párrafo y lo dispuesto en el penúltimo párrafo; por el delito de robo en un inmueble habitado o destinado para habitación con violencia en las personas, conforme a lo previsto en el artículo 367, en relación con los artículos 372 y 381 bis, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+La autoridad podrá revocar la remisión parcial de la pena, conforme a lo dispuesto por el artículo 86 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
 
 ### CAPITULO VI. Normas Instrumentales
 
@@ -248,3 +248,13 @@ El presente Decreto entrará en vigor a los treinta días de su publicación en 
 D.O.F. 28 DE DICIEMBRE DE 1992.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE MAYO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicadas las disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal y de la Ley de la Propiedad Industrial vigentes en el momento en que se haya cometido.
+
+TERCERO.- Las referencias que otras disposiciones hagan al artículo 194 del Código Federal de Procedimientos Penales respecto de la detención de personas en casos urgentes, se entenderán hechas al artículo 193 bis del mismo ordenamiento.
+
+CUARTO.- Las referencias que en el presente Decreto se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se entenderán hechas al Código Penal Federal, si es llegado el caso de aprobarse, y en su momento, publicarse la iniciativa por el que se reforman diversas disposiciones en materia penal que el ciudadano Presidente de los Estados Unidos Mexicanos envió a la consideración del Congreso de la Unión por conducto del Senado de la República como Cámara de Origen, el 23 de marzo de 1999.
