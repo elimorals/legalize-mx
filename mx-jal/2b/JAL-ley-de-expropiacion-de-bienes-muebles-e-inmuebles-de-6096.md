@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-expropiacion-de-bienes-muebles-e-inmuebles-de-6096"
 country: "mx"
 rank: "ley"
 publication_date: "1923-05-16"
-last_updated: "1943-12-11"
+last_updated: "1978-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EXPROPIACION DE BIENES MUEBLES E INMUEBLES DE PROPIEDAD PRIVADA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 1978.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el miércoles 16 de mayo de 1923.
 
@@ -57,7 +57,9 @@ V. La defensa, conservación desarrollo o aprovechamiento de elementos naturales
 
 VI. La creación, fomento o conservación de empresas para beneficio de la colectividad.
 
-VII. Los demás casos previstos por Leyes especiales.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE ENERO DE 1978)</small>
+
+VII. También hay utilidad pública en la consecución de los medios y elementos necesarios para la realización de las obras de interés social, en los casos a que se refieren las fracciones anteriores de este artículo y las enumeradas en el artículo 43 de la Ley de Asentamientos Humanos del Estado, por medio de la sub-utilización de las obras construidas con fines productivos o por medio de la venta de parte de los bienes expropiados. En este caso, la indemnización será el valor de la cosa tasada conforme avalúo técnico; en los términos del artículo 7o. Fracción XXIV de la Ley de Asentamientos Humanos del Estado de Jalisco, las resoluciones expropiatorias fijarán los términos y modalidades de las operaciones de venta y sub-utilización.
 
 ###### Art. 3.
 
@@ -198,3 +200,9 @@ P.O. 11 DE DICIEMBRE DE 1943.
 PRIMERO. Los procedimientos de expropiación que actualmente se encuentran instaurados pero sin tener la resolución correspondiente, se iniciarán de nuevo observándose las disposiciones contenidas en el precepto anterior.
 
 SEGUNDO. Esta Ley surtirá sus efectos a partir del día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 12 DE ENERO DE 1978.
+
+PRIMERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEGUNDO.- Esta edición entrará en vigor a los tres días de su publicación en el Periódico Oficial "El Estado de Jalisco".
