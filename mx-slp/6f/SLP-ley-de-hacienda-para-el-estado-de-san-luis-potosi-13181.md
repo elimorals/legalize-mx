@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "1999-12-30"
+last_updated: "2001-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2001.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -477,7 +477,9 @@ La inscripción de instrumentos jurídicos en el Registro Público de la Propied
 
 I. Títulos de propiedad:
 
-a) De bienes inmuebles, cuya base será el avalúo o reavalúo emitido por la Dirección de Catastro estatal, o bien el precio de la operación si éste es mayor que el del avalúo o reavalúo catastral y se aplicará la tarifa siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 2001)</small>
+
+a) De bienes inmuebles, cuya base será el avalúo o reavalúo emitido por la Dirección de Catastro Municipal del ayuntamiento correspondiente, o bien el precio de la operación si éste es mayor que el del avalúo o reavalúo catastral y se aplicará la tarifa siguiente:
 
 1. Hasta $5,000.00 pagará 3.60 salarios mínimos;
 
@@ -1618,3 +1620,9 @@ P.O. 30 DE DICIEMBRE DE 1999.
 PRIMERO. Este Decreto entrará en vigor a partir del día primero de enero del año 2000.
 
 SEGUNDO. La derogación del artículo 80 de la Ley de Hacienda del Estado, entrará en vigor al iniciar su vigencia la reforma aprobada por la Cámara de Diputados del Congreso de la Unión, con fecha 17 de julio de 1999, al artículo 115 de la Constitución General de la República; mientras tanto, los derechos por la expedición de la licencia estatal de uso de suelo a que se refieren los artículos 60 a 62 del Código Urbano y Ecológico, los seguirá cobrando el Estado.
+
+P.O. 27 DE ABRIL DE 2001.
+
+PRIMERO. El presente Decreto entrará en vigor simultáneamente con la Ley de Catastro del Estado y Municipios de San Luis Potosí, publicada en la edición extraordinaria del Periódico Oficial del Estado, de fecha 22 de marzo de 2001.
+
+SEGUNDO. Se derogarán todas las disposiciones que se opongan al presente Decreto.
