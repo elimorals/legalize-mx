@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-el-organismo-publico-descentralizado-10326"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-20"
-last_updated: "1992-06-20"
+last_updated: "1992-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10326&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO COORDINACION DE LOS SERVICIOS EDUCATIVOS DEL ESTADO DE COLIMA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE JUNIO DE 1992 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COORDINACION DE LOS SERVICIOS EDUCATIVOS DEL ESTADO DE COLIMA"
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE COLIMA EL 27 DE JUNIO DE 1992.]</small>
 
 Ley publicada en el Número 25 del Periódico Oficial del Estado de Colima, el sábado 20 de junio de 1992.
 
@@ -57,7 +57,9 @@ LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COORDINACION DE LO
 
 Se crea la Coordinación de los Servicios Educativos del Estado de Colima, con el carácter de organismo público descentralizado del Gobierno Estatal, con personalidad jurídica y patrimonio propios.
 
-Para los efectos de esta Ley, el término LA COORDINACION se entenderá referido a la Coordinación de los Servicios Educativos Descentralizados del Estado.
+> <small>(F. DE E., P.O. 27 DE JUNIO DE 1992)</small>
+
+Para los efectos de esta Ley, el término LA COORDINACION se entenderá referido a la Coordinación de Servicios Educativos del Estado.
 
 ###### ARTICULO 2o.
 
