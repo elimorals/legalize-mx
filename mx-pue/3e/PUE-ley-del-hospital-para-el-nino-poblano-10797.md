@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-hospital-para-el-nino-poblano-10797"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-08"
-last_updated: "1994-07-29"
+last_updated: "1996-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL HOSPITAL PARA EL NIÑO POBLANO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1996.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 8 de diciembre de 1992.
 
@@ -103,9 +103,17 @@ V.- Utilidades que pueda percibir por actos de comercio, arrendamiento, maquilas
 
 VI.- En general, los demás bienes, derechos y recursos que por cualquier título legal adquiera.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
+
 ###### ARTICULO 4o.
 
-El hospital estará regido por una Junta Directiva, la cual será la máxima autoridad y por un Director General.
+El Hospital para el Niño Poblano tendrá los siguientes órganos superiores:
+
+I.- Una Junta Directiva;
+
+II.- Un Director General;
+
+III.- Un Patronato.
 
 ###### ARTICULO 5o.
 
@@ -115,131 +123,121 @@ El hospital contará también con un consejo técnico consultivo como órgano de
 
 (DEROGADO, P.O. 29 DE JULIO DE 1994)
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
+
 ###### ARTICULO 7o.
 
-La Junta Directiva estará integrada por un Presidente, un Vice-Presidente, un Revisor, un Secretario, un Tesorero y por tantos vocales como sean necesarios; nunca menos de quince y entre los cuales deberán participar la Presidenta de la unidad de Promotoras Voluntarias del Hospital.
+La Junta Directiva será el máximo órgano de Gobierno, y se integrará por los Titulares de las Secretarías de Finanzas y Salud; el Director General del Sistema Estatal para el Desarrollo Integral de la Familia; el Administrador General del Instituto de Asistencia Pública; un representante del Patronato; y el Director General del Hospital.
 
 ###### ARTICULO 8o.
 
-Entre los Vocales uno deberá ser médico y otro abogado.
+(DEROGADO, P.O. 15 DE MARZO DE 1996)
 
 ###### ARTICULO 9o.
 
-Se integrará una Comisión Ejecutiva por: El Presidente, el Vice-Presidente, el Secretario, el Tesorero, el Revisor, el Abogado y el Médico.
+(DEROGADO, P.O. 15 DE MARZO DE 1996)
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
 
 ###### ARTICULO 10.
 
-El Presidente de la Junta Directiva será designado por el Titular del Poder Ejecutivo del Estado, a propuesta de una terna que propondrá la propia Junta.
+La Junta Directiva del Hospital, será presidida por el Titular de la Dependencia Coordinadora del Sector, en términos del Acuerdo de Sectorización que al efecto expida el Gobernador del Estado, ocupando el cargo de Secretario el Director General del Hospital, participando los demás miembros del mismo como vocales.
+
+El cargo de integrante de la Junta tendrá el carácter de honorífico. Cada miembro, a excepción del Secretario, nombrará un suplente, el cual tendrá las mismas atribuciones del Titular al que supla.
 
 ###### ARTICULO 11.
 
-El Vice-Presidente de la Junta Directiva será elegido por la Comisión Ejecutiva de entre los propios miembros de la Junta.
-
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 1994)</small>
-
-El revisor, secretario y tesorero serán el Secretario de Salud del Estado, el Director General del D.I.F. y el Secretario de Finanzas del Gobierno del Estado, respectivamente.
+(DEROGADO, P.O. 15 DE MARZO DE 1996)
 
 ###### ARTICULO 12.
 
-Para ser miembro de la Junta Directiva se requiere:
-
-I.- Ser ciudadano mexicano;
-
-II.- Mayor de edad y en pleno goce de sus derechos y faultades (sic);
-
-III.- Ser de reconocida honorabilidad en la comunidad; y
-
-IV.- No haber sido removido de algún patronato.
+(DEROGADO, P.O. 15 DE MARZO DE 1996)
 
 ###### ARTICULO 13.
 
-El término del ejercicio de cada miembro de la Junta, será por cinco años.
+(DEROGADO, P.O. 15 DE MARZO DE 1996)
 
-No podrán ser reelegidos para el ejercicio inmediato, pero sí transcurridos dos años después del fin de sus funciones.
-
-El cargo es renunciable en cualquier momento mediante comunicación por escrito que se presente a la Junta Directiva.
-
-Los miembros de la Junta Directiva representantes del Gobierno del Estado, ejercerán el cargo durante el período que corresponda a sus funciones oficiales.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
 
 ###### ARTICULO 14.
 
-Los miembros de la Junta no podrán desempeñar cargo alguno en el hospital.
+Los miembros del Patronato no podrán desempeñar cargo alguno en el Hospital.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
 
 ###### ARTICULO 15.
 
-La Junta Directiva, para la realización de los objetivos del hospital, ejercerá las siguientes facultades no delegables:
+La Junta Directiva tendrá las siguientes funciones:
 
-I.- Establecer, en congruencia con los programas nacional y estatal de salud, las políticas generales de acción y definir las prioridades a las que deberá sujetarse el hospital;
+I.- Dictar las normas generales y establecer los criterios que deban orientar las actividades del organismo;
 
-II.- Contribuir a la obtención de recursos que promuevan el cumplimiento de los objetivos del hospital;
+II.- Aprobar la estructura básica, los Reglamentos Interiores del Hospital y del Patronato, así como las modificaciones que procedan;
 
-III.- Aprobar, en los términos de la Legislación aplicable, los programas y presupuestos del hospital, así como sus modificaciones;
+III.- Aprobar los presupuestos anuales de ingresos y egresos, así como los planes, programas y proyectos del Organismo que le sean presentados por el Director General;
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 1994)</small>
+IV.- Expedir las normas o bases generales con arreglo a las cuales el Director General pueda invertir los recursos de la Entidad;
 
-IV.- Aprobar cada año, los estados financieros del Hospital y autorizar su publicación, previo informe del Comisario y Dictamen de los auditores externos;
+V.- Aprobar y vigilar la debida aplicación de los fondos destinados al Hospital, a fin de que no se distraigan de su objeto;
 
-V.- Aprobar la concertación de empréstitos y créditos internos y externos para el financiamiento del hospital, de acuerdo a los lineamientos relativos al manejo de disponibilidades financieras que dicten las autoridades competentes. En lo que se refiere a los créditos externos deberá informar a las autoridades competentes a fin de que, en su caso sean autorizados y registrados;
+VI.- Emitir las políticas, bases y lineamientos generales que regulen los contratos y demás actos jurídicos que sean necesarios para el cumplimiento de los objetivos del Hospital;
 
-VI.- Autorizar al Director General la disposición, cuando fuere necesario, de los activos fijos del hospital que no correspondan a las operaciones propias del mismo;
+VII.- Examinar y en su caso, aprobar los estados financieros y balances ordinarios y extraordinarios, así como los informes generales y especiales que presente el Director General;
 
-VII.- Fijar las bases y los mínimos y máximos de los montos de las cuotas de recuperación y su actualización por los servicios que prestan;
+VIII.- Aprobar a propuesta del Gobernador, el nombramiento del Director General;
 
-VIII.- Acordar, conforme a las disposiciones legales aplicables, los donativos o pagos extraordinarios, así como verificar que éstos se destinen a los fines señalados por la Junta Directiva;
+IX.- Otorgar a propuesta del Director General, poderes a personas físicas o morales, para que en nombre y representación del Hospital ejerzan y defiendan los derechos del mismo;
 
-IX.- Establecer con sujeción a las disposiciones legales aplicables, las normas para la adquisición y arrendamiento de inmuebles que el hospital requiera;
+X.- Establecer los mecanismos de evaluación, que permitan analizar la eficiencia y la eficacia con que se desempeña el Hospital;
 
-X.- Aprobar, de acuerdo con las disposiciones aplicables los programas generales, las bases y las políticas relativos a los convenios, contratos o acuerdos que celebre el hospital en materia de obras públicas, adquisiciones, arrendamientos y cualquier prestación de servicios;
+XI.- Aprobar a propuesta del Director General, la coordinación de los proyectos y programas del Hospital con los de las instituciones públicas y privadas que tengan objetivos similares;
 
-XI.- Aprobar la estructura orgánica básica del hospital así como las modificaciones que procedan;
+XII.- Promover y en su caso, aprobar la realización de actividades productivas, tendientes a allegarse de fondos, que deberán aplicarse siempre a los fines del Hospital;
 
-XII.- Aprobar los estatutos, manuales y reglamentos necesarios que se elaboren para el buen funcionamiento del hospital;
+XIII.- Resolver sobre los asuntos que sometan a su consideración, el Patronato o los miembros de la Junta Directiva;
 
-XIII.- Autorizar la creación y funcionamiento de Comités de apoyo;
-
-XIV.- Nombrar y remover al Director General;
+XIV.- Fijar y ajustar las tarifas de los servicios que preste el Hospital en uso de sus atribuciones, con excepción de aquellas que se determinan por otras leyes o reglamentos;
 
 XV.- Designar y remover a propuesta del Director General a los Servidores Públicos de los niveles inferiores inmediatos, como son los subdirectores, médico, de cirugía y administrativo;
 
-XVI.- Aprobar la creación de nuevas unidades de investigación y de servicios, sujetándose a estudios previos de necesidades y factibilidad;
+XVI.- Expedir las normas o bases generales conforme a las cuales, cuando fuere necesario, el Director General pueda disponer de activos fijos muebles del Hospital que no correspondan a las operaciones propias de su objeto o cuando dejen de ser de utilidad para el mismo;
 
-XVII.- (DEROGADA, P.O. 29 DE JULIO DE 1994)
+XVII.- Aprobar la constitución de reservas y la aplicación de las utilidades;
 
-XVIII.- Aceptar, en su caso, la propuesta que haga el Consejo Técnico Consultivo de médicos que puedan ejercer su práctica en el área del hospital, destinada para tales efectos, siempre que se cumplan las disposiciones reglamentarias; y
+XVIII.- Aprobar a propuesta del Director General y de conformidad con las disposiciones que en materia de gasto emitan las autoridades competentes, el tabulador de sueldos aplicable a los trabajadores del Hospital;
 
-XIX.- Analizar y en su caso, aprobar los informes periódicos que rinda el Director General.
+XIX.- Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor del Hospital, cuando sea notoria la imposibilidad de su cobro; y
+
+XX.- Las demás que tiendan a la buena marcha y funcionamiento del organismo.
 
 ###### ARTICULO 16.
 
-Los cargos de los miembros de la Junta Directiva se ejercerán honoríficamente.
+(DEROGADO, P.O. 15 DE MARZO DE 1996)
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
 
 ###### ARTICULO 17.
 
-La Junta Directiva en pleno, celebrará sesiones ordinarias, cada tres meses, para lo cual se requiere la asistencia mínima de tres cuartas partes de los miembros, y con la asistencia del Presidente.
+La Junta Directiva sesionará ordinariamente cada tres meses y extraordinariamente las veces que sea necesario según la importancia de los asuntos a tratar.
 
-La Comisión Ejecutiva de la Junta Directiva celebrará sesiones ordinarias, por lo menos una vez al mes y las extraordinarias que proponga su Presidente o cuando menos tres de sus miembros. Para la validez de las acciones, se requerirá de la asistencia cuando menos de la mitad más uno de sus miembros, siempre que entre ellos figure el Presidente o el Vice-Presidente. Los acuerdos serán tomados por mayoría y el Presidente, o en ausencia de éste, el Vice-Presidente, tendrá voto de calidad para los casos de empate.
+Para la validez de las sesiones se requiere la concurrencia, por lo menos, de cuatro de sus miembros, entre los cuales deberá estar el Presidente, o en quien delegue su representación. Las decisiones se tomarán por mayoría de votos, teniendo el Presidente o su representante, voto de calidad en caso de empate.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 1994)</small>
-
-El Director General y el Subdirector Administrativo podrán concurrir a las sesiones de la Junta, con voz pero sin voto, cuando sean convocados por la misma.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
 
 ###### ARTICULO 18.
 
-El Presidente de la Junta Directiva tendrá las siguientes atribuciones:
+Corresponden al Presidente las siguientes facultades:
 
-I.- Convocar y presidir las sesiones de la Junta;
+I.- Dictar las medidas necesarias para el debido cumplimiento de los acuerdos de la Junta Directiva;
 
-II.- Autorizar los acuerdos y demás disposiciones que tome la Junta;
+II.- Presidir las sesiones ordinarias y extraordinarias de la Junta Directiva;
 
-III.- Vigilar el cumplimiento de las comisiones que la Junta confiera a sus miembros; y
+III.- Resolver en casos urgentes, los asuntos que le sean sometidos a su acuerdo por el Director General y que correspondan a la Junta Directiva, dando cuenta a ésta de las decisiones adoptadas en la sesión inmediata siguiente; y
 
-IV.- Representar a la Junta Directiva en sus relaciones con cualquier autoridad.
+IV.- Las demás que de esta Ley se deriven o le confiera la Junta Directiva.
 
 ###### ARTICULO 19.
 
-El Vice-Presidente tendrá las siguientes atribuciones:
-
-I.- Sustituir al Presidente en su ausencia.
+(DEROGADO, P.O. 15 DE MARZO DE 1996)
 
 ###### ARTICULO 20.
 
@@ -251,75 +249,79 @@ II.- Informar a la Junta de las anomalías, urgencias o situaciones especiales q
 
 III.- Asesorar a la Junta en cuestiones médicas.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
+
 ###### ARTICULO 21.
 
-El Secretario de la Junta Directiva tendrá las siguientes atribuciones:
+Corresponden al Secretario las siguientes facultades:
 
-I.- Auxiliar al Presidente de la Junta;
+I.- Convocar a los integrantes de la Junta Directiva a las sesiones ordinarias y extraordinarias, adjuntando a la convocatoria respectiva el orden del día;
 
-II.- Constatar que haya quórum, para la celebración de las sesiones;
+II.- Levantar las actas de las sesiones que celebre la Junta Directiva;
 
-III.- Supervisar que el Secretario de Acuerdos que nombre la Junta cumpla con sus funciones; y
+III.- Expedir previo acuerdo del Presidente, las copias certificadas de los documentos de la Junta Directiva;
 
-IV.- Coordinar las acciones del hospital con instituciones de asistencia pública o privada.
+IV.- Tener a su cargo y bajo su responsabilidad, el archivo y demás documentos y objetos pertenecientes a la Junta Directiva; y
+
+V.- Las demás atribuciones que le confiera la Junta Directiva.
 
 ###### ARTICULO 22.
 
-El Tesorero de la Junta tendrá las siguientes funciones:
+(DEROGADO, P.O. 15 DE MARZO DE 1996)
 
-I.- Vigilar el correcto ejercicio del Presupuesto y recursos del hospital;
-
-II.- Analizar los estados financieros y los presupuestos del hospital;
-
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 1994)</small>
-
-III.- Recibir los informes del Comisario. Cuando lo considere conveniente, avisará al Presidente de la Junta Directiva para que sea citado e informe directamente de los asuntos que se le indiquen;
-
-IV.- Informar a la Junta Directiva del resultado de los análisis financieros; y
-
-V.- Estudiar la viabilidad financiera de los proyectos de desarrollo del hospital.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
 
 ###### ARTICULO 23.
 
-Los vocales desempeñarán indistintamente las comisiones que les confiera la Junta Directiva.
+Corresponde a los Vocales:
+
+I.- Asistir a las sesiones de la Junta Directiva;
+
+II.- Proponer a la Junta Directiva lo que considere necesario para cumplir con los objetivos del Hospital;
+
+III.- Desempeñar las comisiones, que por acuerdo de la Junta Directiva, se les asignen;
+
+IV.- Iniciar ante la Junta Directiva todo proyecto que beneficie al Hospital; y
+
+V.- Las demás atribuciones que les confiera el Reglamento Interior del Hospital.
 
 ###### ARTICULO 24.
 
-Las ausencias temporales hasta por tres meses del Vice-Presidente, Revisor, Secretario o Tesorero podrán ser sustituidas por el vocal que la Junta designe. El Presidente será sustituido por el Vice-Presidente.
+(DEROGADO, P.O. 15 DE MARZO DE 1996)
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
 
 ###### ARTICULO 25.
 
-Serán sustituidos de su cargo de la Junta directiva, los que integren la comisión ejecutiva, cuando falten injustificadamente a tres o más sesiones ordinarias, y los vocales, cuando se ausenten por tres sesiones continuas.
+El Patronato del Hospital para el Niño Poblano es un Organo de apoyo externo y tiene por objeto la captación de recursos financieros para el objeto del Hospital; se integrará por siete personas que serán nombradas y removidas libremente por el Gobernador del Estado y para el ejercicio de las atribuciones que esta Ley le confiere, se integrará en la forma siguiente: un Presidente, un Secretario, un Tesorero y cuatro Vocales. El Comisario Público, asistirá a las sesiones del Patronato con voz pero sin voto.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
 
 ###### ARTICULO 26.
 
-Los miembros de la Junta Directiva podrán ser removidos de su cargo por:
+El Patronato sesionará, por lo menos, una vez cada tres meses y su funcionamiento se sujetará a lo establecido en su Reglamento Interior.
 
-I.- Faltas de probidad y honradez justificada;
-
-II.- Incapacidad física y mental; y
-
-III.- Acumular faltas de asistencia injustificadas ante la Junta Directiva.
-
-Para efecto de remover a un miembro de la Junta Directiva, se integrará la Comisión de Honor y Justicia por cinco miembros de la misma que se encargará de aplicar las normas correspondientes. En caso de que se trate de un miembro representante de alguna de las dependencias oficiales, la decisión se comunicará al C. Gobernador del Estado para los efectos que correspondan.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
 
 ###### ARTICULO 27.
 
-El Secretario de Acuerdos tendrá las siguientes atribuciones:
+El Patronato tendrá las siguientes facultades:
 
-I.- Convocar a los miembros de la Junta Directiva a las sesiones ordinarias y extraordinarias;
+I.- Emitir opinión y formular sugerencias sobre los presupuestos, informes y estados financieros de la entidad;
 
-II.- Redactar las actas de las sesiones de la Junta y recavar en las mismas, las firmas de los miembros que concurran;
+II.- Apoyar las actividades del Hospital y formular sugerencias tendientes a su mejor desempeño;
 
-III.- Presentar al Secretario para su certificación, los acuerdos que tome la Junta así como la documentación oficial de la Institución; y
+III.- Designar de entre sus miembros, al Presidente, Secretario y Tesorero del mismo quienes tendrán, dentro del ámbito de su competencia, las mismas atribuciones que los correspondientes de la Junta Directiva;
 
-IV.- Distribuir la correspondencia de trámite de la Junta.
+IV.- Designar de entre sus miembros a un representante ante la Junta Directiva;
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 1994)</small>
+V.- Realizar y promover actividades tendientes a la obtención de recursos financieros que permitan incrementar el patrimonio del hospital y el cumplimiento cabal de su objetivo; y
+
+VI.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
 ###### ARTICULO 28.
 
-El Secretario de Acuerdos, deberá ser nombrado por el Presidente de la Junta, a propuesta de la Comisión Ejecutiva.
+(DEROGADO, P.O. 15 DE MARZO DE 1996)
 
 ###### ARTICULO 29.
 
@@ -333,43 +335,61 @@ III.- Ser menor de 65 años al momento de su designación.
 
 ###### ARTICULO 30.
 
-El Director General del hospital durará en su cargo cinco años y podrá ser ratificado por otro período igual en una sola ocasión, siempre que al momento de la ratificación cumpla con los requisitos a que se refiere el artículo anterior fracción III. Podrá ser removido por causa plenamente comprobada, relativa a incompetencia técnica, abandono de labores o falta de honorabilidad, para lo que se requiere la mayoría de votos de los miembros de la Junta Directiva.
+(DEROGADO, P.O. 15 DE MARZO DE 1996)
 
-El estatuto orgánico del hospital prevendrá la forma en que el Director General debe ser suplido en sus ausencias.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
 
 ###### ARTICULO 31.
 
-El Director General tendrá las siguientes funciones:
+Corresponde al Director General:
 
-I.- Vigilar el exacto cumplimiento de los acuerdos de la Junta Directiva;
+I.- Cumplir y vigilar que se lleven a cabo las disposiciones de la Junta Directiva;
 
-II.- Representar legalmente al hospital;
+II.- Actuar como apoderado del Hospital, con facultades generales de administración, pudiendo ejercer actos de dominio, circunscribiendo su actuación a los lineamientos establecidos por la Junta Directiva;
 
-III.- Presentar a la Junta Directiva los proyectos y avance de planes y programas, informes y estados financieros relativos al hospital, y los que específicamente le soliciten;
+III.- Representar legalmente al Hospital, como mandatario general para pleitos y cobranzas, con todas las facultades generales y las que requieran cláusulas especiales conforme a la Ley;
 
-IV.- Someter a la Junta Directiva los asuntos de importancia y trascendencia que puedan afectar el funcionamiento del hospital, para lo cual deberá acordar semanalmente con el Presidente de la Junta y en su ausencia con el Vice-Presidente;
+IV.- Designar y remover a los Servidores Públicos del Hospital, asignándoles la remuneración correspondiente, en los términos que en la materia apruebe la Junta Directiva;
 
-V.- Ejercer el presupuesto del hospital;
+V.- Conducir las relaciones laborales de los empleados del Hospital, de acuerdo con los criterios establecidos por la Junta Directiva;
 
-VI.- Administrar y custodiar el patrimonio del hospital;
+VI.- Vigilar la correcta administración del Hospital;
 
-VII.- Realizar las actividades necesarias para la consecución de los objetivos del hospital;
+VII.- Someter al acuerdo del Presidente de la Junta Directiva, la resolución de casos urgentes y que correspondan a la Junta Directiva;
 
-VIII.- Nombrar y, en su caso remover a los funcionarios y al personal técnico y administrativo del hospital, con la aprobación de la Junta Directiva, en los casos que se requiera;
+VIII.- Levantar y mantener actualizado, el inventario de los recursos humanos y materiales del Hospital;
 
-IX.- Proponer a la Junta el cincuenta porciento del personal técnico del hospital que integre el Consejo Técnico Consultivo;
+IX.- Rendir los informes generales y especiales que le soliciten a la Junta Directiva o su Presidente y rendir mensualmente a la misma un informe general de las actividades realizadas;
 
-X.- Presidir el Consejo Técnico Consultivo;
+X.- Coordinar la formulación de los programas de corto, mediano y largo plazo, los estados financieros mensuales y anuales, así como los presupuestos anuales de ingresos y egresos del Hospital y presentarlos para su aprobación a la Junta;
 
-XI.- Fijar las condiciones generales de trabajo del personal con la aprobación de la Junta Directiva;
+XI.- Proponer a la Junta Directiva, el otorgamiento de poderes a personas físicas o morales, para que en nombre y representación del Hospital ejerzan y defiendan los derechos del mismo;
 
-XII.- Aplicar las medidas correctivas recomendadas por el órgano de vigilancia del hospital y que sean convenientes para la organización y funcionamiento del mismo;
+XII.- Coordinar los proyectos y programas del Organismo con los de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal y Organizaciones no Gubernamentales nacionales e internacionales;
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 1994)</small>
+XIII.- Autorizar las liberaciones, transferencias y ejercicio de fondos que se requieran hacer, de acuerdo con los presupuestos aprobados y los lineamientos expedidos por la Junta Directiva;
 
-XIII.- Proporcionar al Comisario Público la información que le solicite, para el cumplimiento de sus funciones;
+XIV.- Suscribir los contratos, convenios y demás actos jurídicos que celebre el Hospital de acuerdo a los lineamientos señalados por la Junta Directiva;
 
-XIV.- Las demás que con fundamento en la presente Ley le sean delegadas por la Junta Directiva.
+XV.- Autorizar de conformidad con las bases generales expedidas por la Junta Directiva, la disposición de activos fijos muebles que no correspondan a las operaciones propias del objeto del Hospital, o cuando dejen de ser utilidad para el mismo;
+
+XVI.- Proponer a la Junta Directiva la integración de comisiones de trabajo que se formen para el encargo de asuntos del Hospital;
+
+XVII.- Vigilar la aplicación de los fondos del Hospital;
+
+XVIII.- Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Hospital;
+
+XIX.- Establecer los sistemas de control necesarios para alcanzar las metas y objetivos propuestos;
+
+XX.- Dictar las medidas pertinentes a fin de que las funciones del Hospital se realicen de manera articulada, congruente y eficaz;
+
+XXI.- Elaborar los proyectos de planes y programas de trabajo del organismo y someterlos a la aprobación de la Junta Directiva;
+
+XXII.- Elaborar los Reglamentos Interiores del Hospital y del Patronato y someterlos a la aprobación de la Junta Directiva;
+
+XXIII.- Aplicar y hacer cumplir, el Reglamento Interior y manuales administrativos del Hospital; y
+
+XXIV.- Las demás funciones que emanen de éste ordenamiento, le señale el Reglamento Interior o le encomiende la Junta Directiva.
 
 ###### ARTICULO 32.
 
@@ -442,3 +462,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 15 DE MARZO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente ordenamiento.
+
+###### ARTICULO TERCERO.
+
+El Titular de la Dependencia Coordinadora del Sector, de conformidad con el Acuerdo de Sectorización que emita el Gobernador del Estado, convocará en un plazo no mayor de quince días, contados a partir de la fecha de dicho Acuerdo de iniciación de vigencia del presente Decreto, a la constitución de la Junta Directiva del Hospital para el Niño Poblano.
