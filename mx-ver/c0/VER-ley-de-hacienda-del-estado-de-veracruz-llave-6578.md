@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-del-estado-de-veracruz-llave-6578"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1989-12-30"
+last_updated: "1990-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 1990.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -217,11 +217,15 @@ ASISTENCIA PUBLICA
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
 
-### CAPITULO CUARTO. DEL IMPUESTO ADICIONAL PARA EL FOMENTO DE LA EDUCACION
+### CAPITULO CUARTO. DEL IMPUESTO SOBRE ADQUISICION DE VEHICULOS
 
-### CAPITULO PRIMERO. DE LOS DERECHOS
+AUTOMOTORES USADOS
 
-DISPOSICIONES GENERALES
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+### CAPITULO V. DEL IMPUESTO ADICIONAL PARA EL FOMENTO
+
+DE LA EDUCACION
 
 ###### ARTICULO 18.
 
@@ -391,15 +395,367 @@ T A R I F A :
 
 o se pagará este impuesto, cuando por el mismo concepto, se cause el Impuesto al Valor Agregado.
 
+> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+### CAPITULO PRIMERO. DE LOS DERECHOS
+
+DISPOSICIONES GENERALES
+
+###### ARTICULO 33-A.
+
+Es objeto de este Impuesto la Adquisición de Vehículos de motor usados en general, independientemente de las características del mismo, que se efectué en territorio del Estado.
+
+Para los efectos de este artículo se considera adquisición de Vehículos:
+
+I.-Toda transmisión honerosa de la propiedad sobre vehículos de motor aún en la que exista reserva de dominio.
+
+II.-Las adquisiciones por donación, legado, cesión de derechos, la aportación a una sociedad o asociación y con motivo de un sorteo o rifa.
+
+III.-Las adjudicaciones aun cuando se realicen por el acreedor y la dación en pago.
+
+IV.-La permuta.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 33-B.
+
+Son sujetos de este impuesto, las personas físicas y morales que adquieran vehículos de motor en el territorio del Estado.
+
+Se considera, salvo prueba en contrario que la adquisición se efectuó en el Estado de Veracruz, cuando al realizar trámites vehiculares de circulación se de alguno de los siguientes supuestos:
+
+I.-Que así conste en el endoso que aparece en el documento que ampare la propiedad del vehículo en cuestión.
+
+II.-Cuando el endoso a que se refiere el inciso anterior no contenga lugar de realización o se lleve a cabo en otra Entidad, siempre y cuando:
+
+a).-El vehículo en cuestión circule con placas del Estado de Veracruz; o
+
+b).-La documentación de pagos de otros impuestos y/o derechos a que este afecto el vehículo de que se trate, haya sido transmitidas ante autoridades domiciliadas en el Estado.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 33-C.
+
+La base de este Impuesto será el modelo y categoría del vehículo de motor objeto del mismo.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 33-D.
+
+El impuesto que se causará en la adquisición de vehículos de motor usados, será el que resulte de aplicar la siguiente:
+
+T A R I F A
+
+VEHICULOS COMPACTOS
+
+ANTIGÜEDAD SALARIOS MINIMOS APLICABLES
+
+Hasta 1 año 12
+
+2 años 11
+
+3 años 10
+
+4 años 09
+
+5 años 08
+
+6 años 07
+
+7 años 06
+
+8 años 05
+
+9 años 04
+
+10 años 03
+
+De 10 años en adelante 02
+
+VEHICULOS MEDIANOS
+
+ANTIGÜEDAD SALARIOS MINIMOS APLICABLES
+
+Hasta 1 año 15
+
+2 años 13
+
+3 años 11
+
+4 años 09
+
+5 años 08
+
+6 años 07
+
+7 años 06
+
+8 años 05
+
+9 años 04
+
+10 años 03
+
+De 10 años en adelante 02
+
+VEHICULOS GRANDES
+
+ANTIGÜEDAD SALARIOS MINIMOS APLICABLES
+
+Hasta 1 año 20
+
+2 años 18
+
+3 años 16
+
+4 años 14
+
+5 años 12
+
+6 años 10
+
+7 años 08
+
+8 años 07
+
+9 años 06
+
+10 años 05
+
+De 10 años en adelante. 04
+
+VEHICULOS DESTINADOS AL TRANSPORTE
+
+DE MAS DE 10 PERSONAS O EFECTOS (CARGA)
+
+C A T E G O R I A A
+
+ANTIGÜEDAD SALARIOS MINIMOS APLICABLES
+
+Hasta 1 año 20
+
+2 años 18
+
+3 años 16
+
+4 años 14
+
+5 años 12
+
+6 años 10
+
+7 años 08
+
+8 años 07
+
+9 años 06
+
+10 años 05
+
+De 10 años en adelante. 04
+
+C A T E G O R I A B
+
+ANTIGÜEDAD SALARIOS MINIMOS APLICABLES
+
+Hasta 1 año 20
+
+2 años 19
+
+3 años 18
+
+4 años 17
+
+5 años 16
+
+6 años 15
+
+7 años 14
+
+8 años 13
+
+9 años 12
+
+10 años 11
+
+De 10 años en adelante. 10
+
+C A T E G O R I A C
+
+ANTIGÜEDAD SALARIOS MINIMOS APLICABLES
+
+Hasta 1 año 25
+
+2 años 23
+
+3 años 21
+
+4 años 19
+
+5 años 17
+
+6 años 16
+
+7 años 15
+
+8 años 14
+
+9 años 13
+
+10 años 12
+
+De 10 años en adelante. 10
+
+MOTOCICLETAS CHICAS
+
+HASTA 250 C.C.
+
+ANTIGÜEDAD SALARIOS MINIMOS APLICABLES
+
+Hasta 1 año 10
+
+2 años 09
+
+3 años 08
+
+4 años 07
+
+5 años 06
+
+6 años 05
+
+7 años 04
+
+8 años 03
+
+9 años 02
+
+10 años 01
+
+De 10 años en adelante. 01
+
+MOTOCICLETAS MEDIANAS
+
+MAS DE 250 HASTA 500 C.C.
+
+Hasta 1 año 12
+
+2 años 11
+
+3 años 10
+
+4 años 09
+
+5 años 08
+
+6 años 07
+
+7 años 06
+
+8 años 05
+
+9 años 04
+
+10 años 03
+
+De 10 años en adelante. 02
+
+MOTOCICLETAS GRANDES
+
+MAS DE 500 C.C.
+
+ANTIGÜEDAD SALARIOS MINIMOS APLICABLES
+
+Hasta 1 año 15
+
+2 años 14
+
+3 años 13
+
+4 años 12
+
+5 años 11
+
+6 años 10
+
+7 años 09
+
+8 años 08
+
+9 años 07
+
+10 años 06
+
+De 10 años en adelante. 05
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 33-E.
+
+Para los efectos de aplicación de este Impuesto se consideran:
+
+VEHICULOS COMPACTOS.-Tales como los de la Marca Volkswagen tipo: Sedan, Caribe, Golf, Brasilia; Marca Datsun tipo: Sedan, Guayin, Samurai, Ninja, Hatch-Back, Tsuru; Marca Renault tipo: Encore, Aliance, Renault 5 Mirage, Renault 12 Guayin, Renault 12 Routier, Renault 12 Routier Guayin, Renault 4, Renault 8 s, Renault 10 y Renault 12; y demás equiparables.
+
+VEHICULOS MEDIANOS.-Tales como los de Marca Volkswagen tipo: Combi, Atlantic, Corsar, Jetta; Marca Datsun tipo: Hicari Coupe, Ichi Van, Samurai-Tsuru; Marca Chrysler de México, S.A. tipo Shadow, Dart, Dart K., Volare, Dart Guayin; Marca Vehículos Automotores de México, S.A. tipo: Gremlin, AMX, Rally; Marca General Motors de México, S.A. de C.V. tipo: Citation Sedan; Marca Ford Motor Company, S.A. tipo: Topaz; y demás equiparables.
+
+VEHICULOS GRANDES.-Tales como los de la marca Chrysler de México, S.A. tipo: Spirit, Phantom, Ram Charger, Le Baron, Magnun, New Yorker, Córdoba; marca Vehículos Automotores de México, S.A. tipo: Lerma Lift Back; Marca General Motors, S.A. de C.V. tipo: Cutlass, Celebrity, Century, Citation Coupe, Montecarlo, Caprice, Malibu; Marca Ford Motor Company, S.A. tipo: Taurus, Thunderbid, Cougar, Mustang, Gran Marquis, Galaxie, Cuayin 8 Cil. y Fairmont; y demás equiparables.
+
+CATEGORIA A
+
+Camiones (Pick-Ups, Estacas, Plataformas, Panel, Hormiga, etc.) Cualquiera que sea su marca, cuyo peso vehicular sea hasta 8,000 Kgs., Jeep Civil Universal tracción sencilla o doble y Cherokes Vagoneta 4 ptas. 6 y 8 Cil. (doble tracción); Ford Bronco, Club Vagoneta de pasajeros; Chevrolet C. 10703 y Chevy Blazer Van 10, 20 y 30 y Dodge D-100 Van y Sportman Vagoneta, Jeep y Vagoneta Ford Chateau Econoline; y demás equiparables.
+
+CATEGORIA B
+
+Camiones de cualquiera que sea su Marca y tipo cuyo peso vehicular sea mayor de 8,000 Kgs.; excepto Pick-Ups, Panels y Jeep; y demás equiparables.
+
+CATEGORIA C
+
+Tractocamiones (tractores 5ª. rueda), microbuses, ómnibus y demás vehículos para el transporte de más de 10 pasajeros, de cualquier tipo y marca; y demás equiparables.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 33-F.
+
+Los sujetos de este Impuesto están obligados a exhibir ante las Oficinas Recaudadoras correspondientes, el documento original con una copia del mismo que ampare la propiedad del vehículo objeto de la adquisición, debiendo efectuar el pago del Impuesto dentro de los quince días siguientes a la adquisición del mismo.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 33-G.
+
+Para la recaudación de este Impuesto se observará lo siguiente:
+
+I.- Las personas que lleven a cabo las adquisiciones objeto de este Impuesto, deberán presentar una declaración en las formas oficialmente aprobadas por la Secretaría de Finazas y Planeación, a fin de proporcionar los datos y documentos relativos a la adquisición.
+
+II.-La Oficina Recaudadora al recibir el pago expedirá el comprobante respectivo para hacer constar que el Impuesto ha sido cubierto.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 33-H.
+
+La Dirección General de Tránsito y Transporte y sus Delegaciones no tramitarán ninguna solicitud de alta o baja de vehículos por los cuales no se hubiese pagado el Impuesto en los términos establecidos en este Capítulo.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 33-I.
+
+Las Autoridades estarán facultadas para solicitar y requerir a los contribuyentes sujetos de este Impuesto que acrediten y realicen el pago correspondiente.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+ARTICULO-33-J.-Son sujetos responsables solidarios de este Impuesto:
+
+I.-Los Funcionarios o Empleados Públicos que autoricen cualquier trámite relacionado con los vehículos de motor gravados por este Impuesto, sin haberse cerciorado de su pago.
+
+II.-El adquirente de vehículos de motor por los endosos anteriores.
+
+III.-Los comisionistas o intermediarios que intervengan en las adquisiciones.
+
+Tienen obligación los adjudicantes de vehículos de motor, de endosar la factura a la persona o sociedad a la que se adjudique señalando la fecha en que esto suceda; en caso de no hacerlo incurrirá en responsabilidad solidaria, estando facultada la Autoridad a cobrar indistintamente el Impuesto correspondiente.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
 ### CAPITULO SEGUNDO. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-### CAPITULO TERCERO. DE LOS DERECHOS PRESTADOS POR LA
-
-SECRETARÍA DE FINANZAS Y PLANEACIÓN
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 19899)</small>
 
 ###### ARTICULO 34.
 
@@ -441,11 +797,11 @@ III.-Las contribuciones por mejoras.
 
 ## TITULO SEGUNDO
 
-### CAPITULO CUARTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION
+### CAPITULO TERCERO. DE LOS DERECHOS PRESTADOS POR LA
 
-GENERAL DE TRÁNSITO Y TRANSPORTE
+SECRETARÍA DE FINANZAS Y PLANEACIÓN
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 19899)</small>
 
 ###### ARTICULO 40.
 
@@ -471,11 +827,11 @@ El funcionario o empleado público que preste algún servicio por el que se caus
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-### CAPITULO QUINTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR
+### CAPITULO CUARTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION
 
-LA DIRECCION GENERAL DE GOBERNACION
+GENERAL DE TRÁNSITO Y TRANSPORTE
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 45.
 
@@ -603,11 +959,11 @@ j).-Las inscripciones preventivas a que se refiere el artículo 2951 del Código
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-### CAPITULO SEXTO. De los Derechos por servicios prestados por la Secretaría de Comunicaciones y Obras Públicas
+### CAPITULO QUINTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR
 
-Dirección General de Comunicaciones Departamento de Telecomunicaciones
+LA DIRECCION GENERAL DE GOBERNACION
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 47.
 
@@ -625,85 +981,221 @@ II.-Por la certificación de documentos públicos que se hayan sido expedidos po
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
+### CAPITULO SEXTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS
+
+POR LA SECRETARIA DE COMUNICACIONES
+
+DIRECCION GENERAL DE COMUNICACIONES
+
+DEPARTAMENTO DE TELECOMUNICACIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 48.
+
+Por los servicios prestados por la Dirección General de Tránsito y Transporte, se causarán y cobrarán los derechos siguientes:
+
+I.- Expedición de Licencia de Chofer, tipo A, para conducir vehículos de motor dedicados al Servicio Público de Pasajeros, de acuerdo con el Reglamento de Tránsito y Transporte, incluyendo examen médico y pericial.
+
+8 salarios mínimos
+
+Resello Bianual
+
+3 salarios mínimos
+
+II.-Expedición de Licencia de Chofer, tipo B, para conducir toda clase de vehículos de motor de Servicio Público de Carga y Particular, de acuerdo con el Reglamento de Tránsito y Transporte, incluyendo examen médico y pericial.
+
+7 salario mínimos
+
+Resello Bianual
+
+3 salarios mínimos
+
+III.-Expedición de Licencia de Automovilista, tipo C, para conducir únicamente automóviles de Servicio Particular, de acuerdo con el Reglamento de Tránsito y Transporte, incluyendo examen
+
+médico y pericial.
+
+6 salario mínimos
+
+Resello Bianual
+
+2 salarios mínimos
+
+IV.-Expedición de Licencia de Motociclista, tipo D, para conducir vehículos de motor de dos o tres ruedas, de acuerdo con el Reglamento de Tránsito y Transporte, incluyendo examen médico y pericial.
+
+4 salario mínimos
+
+Resello Bianual
+
+2 salarios mínimos
+
+V.-Expedición de Duplicados de cualquier tipo de Licencias de las señaladas en las fracciones anteriores de este artículo.
+
+4 salarios mínimos
+
+VI.-Por la expedición de los siguientes permisos:
+
+A).-Permisos especiales para conducir hasta por 180 días renovables, a personas mayores de
+
+16 años y menores de 18.
+
+4 salarios mínimos.
+
+B).-Permiso Provisional para conducir por 15 días.
+
+1 salario mínimo
+
+C).-Permiso para ocupar zonas para estacionamiento exclusivo en las Vías Públicas, cuando éstas resulten necesarias para la prestación de un Servicio Público, de acuerdo con el Reglamento de Tránsito y Transporte (Por vehículo).
+
+4 salarios mínimos
+
+Por revalidación anual
+
+2 salarios mínimos
+
+D).-Permiso para establecer el Servicio al Público de Estacionamiento de Vehículos, de acuerdo con el Reglamento de Tránsito y Transporte.
+
+30 salarios mínimos
+
+Por revalidación anual
+
+15 salarios mínimos
+
+E).-Permiso particular para el Transporte de Carga Especifica.
+
+Por un año
+
+10 salarios mínimos
+
+Por un día
+
+1 salario mínimo
+
+F).-Permiso particular para circular vehículos nuevos sin placas ni tarjeta de circulación por 15 días.
+
+1 salario mínimo
+
+G).-Permiso especial a particular para circular por 30 días con el parabrisas deteriorado, sin tarjeta de circulación o sin una placa o con vehículo en mal estado.
+
+1 salario mínimo
+
+VII.-Por Servicios de control vehicular:
+
+A).-Dotación de placas para todo tipo de vehículos.
+
+4 salarios mínimos
+
+B).-Por la reposición de una placa.
+
+2 salarios mínimos
+
+C).-Canje anual de engomado y tarjeta de circulación.
+
+2 salarios mínimos
+
+D).-Canje anual de tarjeta de circulación para motocicleta.
+
+1 salario mínimo
+
+E).-Baja de placas correspondientes a la misma localidad.
+
+1 salario mínimo
+
+F).-Baja de placas correspondientes a otra Delegación de Tránsito o Entidad Federativa.
+
+8 salarios mínimos
+
+G).-Alta de vehículo, sin presentar la baja correspondiente.
+
+20 salarios mínimos
+
+H).-Falta de entrega de placas en el trámite de baja.
+
+Por placa
+
+2 salarios mínimos
+
+I).-Falta de entrega de tarjeta de circulación en el trámite de baja.
+
+2 salarios mínimos
+
+J).-Alta o Baja extemporánea del vehículo.
+
+2 salarios mínimos
+
+VIII.-Por servicios de Transporte Público.
+
+A).-Alta de unidad
+
+4 salarios mínimos
+
+B).-Baja de unidad
+
+1 salario mínimo.
+
+C).-Expedición de Tarjeta Anual de Identificación de Operador de Transporte Público de Pasajeros.
+
+3 salarios mínimos
+
+D).-Reposición de la Tarjeta Anual de identificación de Operador de Transporte Público de Pasajeros.
+
+1 salario mínimo
+
+E).-Expedición de Tarifa oficial para el Cobro de Servicio Público de Pasajeros.
+
+1 salario mínimo
+
+IX.-Por la Prestación de otros Servicios:
+
+A).-Duplicado de Tarjeta de Circulación.
+
+2 salarios mínimos
+
+B).-Expedición de constancia y certificados diversos.
+
+1 salario mínimo
+
+C).-Expedición de permisos diversos.
+
+Por día
+
+hasta 1 salario mínimo.
+
+D).-Por la utilización de grúas oficiales para el retiro de vehículos accidentados, infraccionados o por orden judicial, dentro de los limites de la ciudad de que se trate.
+
+4 salarios mínimos
+
+X.-Por el otorgamiento de concesión para prestar el servicio publico de transporte.
+
+Hasta 1000 salarios mínimos
+
+XI.-Por la transmisión de los derechos de concesión para prestar el servicio público de transporte.
+
+Hasta 150 salarios mínimos
+
+XII.-Por el otorgamiento de permiso para prestar el servicio de grúas.
+
+Por grúa
+
+60 salarios mínimos
+
+Revalidación anual
+
+30 salarios mínimos
+
+XIII.- Por la autorización para prestar el servicio de depósito y custodia de vehículos, de acuerdo con el reglamento de tránsito y Transporte.
+
+60 salarios mínimos
+
+Revalidación anual
+
+30 salarios mínimos
+
 ### CAPITULO SEPTIMO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL
 
 PODER JUDICIAL DEL ESTADO
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-###### ARTICULO 48.
-
-Por los servicios prestados por la Dirección General de Transito y Transporte, se causarán y cobrarán los derechos siguientes:
-
-I.- Expedición de licencias de automovilistas, para conducir vehículos de motor de servicio particular, de acuerdo con el Reglamento de Tránsito incluyendo examen de capacidad y médico. 6 salarios mínimos
-
-Resello bianual. 2 salarios mínimos
-
-II.-Expedición de licencias de chofer, para manejar todo tipo de vehículos de motor, dedicados al servicio público o particular, de acuerdo con el Reglamento de Tránsito y Transporte, incluyendo examen de capacidad y médico. 6 salarios mínimos
-
-2 salarios mínimos
-
-III.- Expedición de licencias de motociclistas para conducir vehículos de motor de acuerdo con el Reglamento de Tránsito, incluyendo examen de capacidad y médico. 4 salarios mínimos
-
-Resello bianual 2 salarios mínimos
-
-IV.-Por la expedición de licencias de motoristas para conducir tranvías, tractores agrícolas y maquinaria pesada para construcción, de acuerdo al Reglamento de Transito, incluyendo examen de capacidad y medico. 5 salarios mínimos
-
-Resello bianual. 3 salarios mínimos
-
-V.-Expedición de permisos para ocupar zonas para estacionamiento exclusivo en las vías públicas, cuando estas resulten necesarias para la prestación de un servicio público, de acuerdo con el Reglamento de Tránsito.
-
-3 salarios mínimos
-
-Por revalidación anual. 2 salarios mínimos
-
-VI.-Expedición de permisos para establecer el servicio al público de estacionamiento de vehículos, de acuerdo con el Reglamento de Tránsito. 30 salarios mínimos
-
-Por revalidación anual. 15 salarios mínimos
-
-VII.-Permisos especiales para conducir hasta por 180 días renovables a personas mayores de 16 años. 2 salarios mínimos
-
-VIII.-Por servicios de control vehicular.
-
-Dotación de placas:
-
-a).-Automóviles.-Vehículos con capacidad hasta nueve pasajeros y aun de demostración.
-
-4 salarios mínimos
-
-b).-Autobuses.-Vehículos con capacidad de más de nueve pasajeros. 4 salarios mínimos
-
-c).-Camiones de carga y tractores. 4 salarios mínimos
-
-d).-Remolques y semirremolques. 2 salarios mínimos
-
-e).-Para motocicletas aun las demostración y prueba. 2 salarios mínimos
-
-Independientemente de los derechos que se causan por la dotación de placas a que se refieren los incisos anteriores de esta fracción, por el refrendo anual, se cubrirá el importe de
-
-2 salarios mínimos
-
-f).-Por el permiso provisional para la circulación por un término no mayor de quince días, para circular sin placas ni tarjeta de circulación, cuando el vehículo vaya a ser registrado.
-
-0.25 salarios mínimos
-
-IX.-Por la prestación de otros servicios.
-
-a).-Por modificaciones a la tarjeta de circulación. 1 salario mínimo
-
-b).-Por modificaciones a los datos en la licencia para manejar vehículos de motor.
-
-1 salario mínimo
-
-c).-Duplicado de tarjetas de circulación. 1 salario mínimo
-
-d).-Por baja de vehículos. 1 salario mínimo
-
-### CAPITULO OCTAVO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL
-
-DE ENSEÑANZA MEDIA
-
-(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989
 
 ###### ARTICULO 49.
 
@@ -733,85 +1225,33 @@ IV.-Por la expedición de constancias sobre antecedentes penales en el Casillero
 
 0.50 salario mínimo
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(ADICIONADA. G.O. 29 DE DICIEMBRE DE 1990)</small>
 
-### CAPITULO NOVENO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA
+V.- Por la conformidad para:
 
-DIRECCION GENERAL DE EDUCACION POPULAR
+A).-Que las personas morales adquieran, posean o administren fincas rústicas para el cumplimiento de su objeto social.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+30 salarios mínimos
 
-ARTICULO 53 BIS.-Por los servicios prestados por la Dirección General de Educación Popular se causarán y cobrarán los siguientes derechos:
+B).-El establecimiento de clubes de caza, tiro y otros de naturaleza similar.
 
-T A R I F A S :
+30 salarios mínimos
 
-1.-Inscripción anual Licenciatura e Educación Básica. 1.50 salarios mínimos
+C).-El uso y almacenamiento de explosivos.
 
-2.-Inscripción semestral Licenciatura en Educación Básica o Preescolar en la Universidad Pedagógica. 1 salario mínimo
+30 salarios mínimos
 
-3.-Inscripción anual Postgrado en la Universidad Pedagógica. 6 salarios mínimos
+> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
-4.-Inscripción semestral en el Instituto de Regularización Pedagógica 3 salarios mínimos
+### CAPITULO OCTAVO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL
 
-5.-Expedición de certificado de estudios. 0.50 salario mínimo
+DE ENSEÑANZA MEDIA
 
-6.-Expedición de Carta de Pasante. 0.50 salario mínimo
+(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989
 
-7.-Expedición de Título Profesional. 2 salarios mínimos
+###### ARTICULO 50.
 
-8.-Duplicado de Acta de Examen Profesional. 0.25 salario mínimo
-
-9.-Examen Extraordinario. 0.25 salario mínimo
-
-10.-Examen a Título de Suficiencia. 0.50 salario mínimo
-
-11.-Examen de Regularización 0.75 salario mínimo
-
-12.-Expedición de Constancia de calificaciones. 0.25 salario mínimo
-
-13.-Expedición de Constancia de Servicio Social 0.25 salario mínimo
-
-14.-Duplicado de credencial. 0.50 salario mínimo
-
-15.-Duplicado de boleta de calificaciones. 0.50 salario mínimo
-
-16.-Certificación de copia fotostática del título profesional. 0.25 salario mínimo
-
-17.-Certificación de copia fotostática de acta de nacimiento. 0.25 salario mínimo
-
-18.-Certificación de copia fotostática de certificado de secundaria. 0.25 salario mínimo
-
-19.-Expedición a punto y raya de Carta de Pasante. 1 salario mínimo
-
-20.-Expedición a punto y raya de Título Profesional. 1 salario mínimo
-
-21.-Expedición de constancia de equivalencia y revisión de estudios. 1 salario mínimo
-
-22.-Expedición de certificado de equivalencia de estudios. 1 salario mínimo
-
-23.-Certificación de firmas a boletas, acta de examen, constancia de escolaridad y carta de buena conducta. 0.25 salario mínimo
-
-24.-Certificación de Título de Profesor de Educación Primaria (Lugar y fecha de examen profesional). 0.25 salario mínimo
-
-25.-Certificación de boletas de educación primaria. 0.25 salario mínimo
-
-26.-Reexpedición de certificado de educación primaria. 0.25 salario mínimo
-
-27.-Expedición de constancia de educación primaria. 0.25 salario mínimo
-
-28.-Expedición de constancia de educación preescolar. 0.25 salario mínimo
-
-29.-Examen a título de suficiencia de educación primaria. 0.50 salario mínimo
-
-30.-Incorporación de escuelas primarias o jardines de niños. 180 salarios mínimos
-
-31.-Cuota de incorporación anual de escuelas primarias y jardines de niños particulares, por alumno. 0.50 salario mínimo
-
-> <small>(ADICIONADO, G.O. 12 DE SEPTIEMBRE DE 1985)</small>
-
-###### Artículo 50.
-
-Por los servicios prestados por la Secretaría de Comunicaciones y Obras Públicas, Dirección General de Comunicaciones, Departamento de Telecomunicaciones se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Secretaría de Comunicaciones, Dirección General de Comunicaciones, Departamento de Telecomunicaciones se causarán y pagarán los derechos siguientes:
 
 I.- Por los servicios telefónicos que presta la Secretaría a través de su red de telecomunicaciones del Estado, se causarán los derechos conforme a la siguiente:
 
@@ -885,15 +1325,21 @@ Anualmente $ 24,000.00
 
 Depósito $ 10,000.00
 
-### CAPITULO DECIMO. DE LOS DERECHOS POR SERVICIOS DIVERSOS
+### CAPITULO NOVENO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
+DIRECCION GENERAL DE EDUCACION POPULAR
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 51.
 
 Por los servicios prestados por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Juzgados Menores y Juzgados Municipales, se causarán y pagarán derechos, por la expedición de copias certificadas, por cada hoja o fracción 0.25 salario mínimo
 
-### CAPITULO UNICO
+### CAPITULO DÉCIMO. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR
+
+LA SECRETARIA DE DESARROLLO URBANO
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 52.
 
@@ -993,7 +1439,687 @@ Las escuelas oficiales y las particulares incorporadas al Sistema de Enseñanza 
 
 ### CAPITULO UNICO
 
+###### ARTICULO 53 -A.
+
+Por los servicios prestados por la Dirección General de Educación Popular se causarán y cobrarán los siguientes derechos:
+
+T A R I F A S :
+
+1.-Inscripción anual Licenciatura e Educación Básica. 1.50 salarios mínimos
+
+2.-Inscripción semestral Licenciatura en Educación Básica o Preescolar en la Universidad Pedagógica. 1 salario mínimo
+
+3.-Inscripción anual Postgrado en la Universidad Pedagógica. 6 salarios mínimos
+
+4.-Inscripción semestral en el Instituto de Regularización Pedagógica 3 salarios mínimos
+
+5.-Expedición de certificado de estudios. 0.50 salario mínimo
+
+6.-Expedición de Carta de Pasante. 0.50 salario mínimo
+
+7.-Expedición de Título Profesional. 2 salarios mínimos
+
+8.-Duplicado de Acta de Examen Profesional. 0.25 salario mínimo
+
+9.-Examen Extraordinario. 0.25 salario mínimo
+
+10.-Examen a Título de Suficiencia. 0.50 salario mínimo
+
+11.-Examen de Regularización 0.75 salario mínimo
+
+12.-Expedición de Constancia de calificaciones. 0.25 salario mínimo
+
+13.-Expedición de Constancia de Servicio Social 0.25 salario mínimo
+
+14.-Duplicado de credencial. 0.50 salario mínimo
+
+15.-Duplicado de boleta de calificaciones. 0.50 salario mínimo
+
+16.-Certificación de copia fotostática del título profesional. 0.25 salario mínimo
+
+17.-Certificación de copia fotostática de acta de nacimiento. 0.25 salario mínimo
+
+18.-Certificación de copia fotostática de certificado de secundaria. 0.25 salario mínimo
+
+19.-Expedición a punto y raya de Carta de Pasante. 1 salario mínimo
+
+20.-Expedición a punto y raya de Título Profesional. 1 salario mínimo
+
+21.-Expedición de constancia de equivalencia y revisión de estudios. 1 salario mínimo
+
+22.-Expedición de certificado de equivalencia de estudios. 1 salario mínimo
+
+23.-Certificación de firmas a boletas, acta de examen, constancia de escolaridad y carta de buena conducta. 0.25 salario mínimo
+
+24.-Certificación de Título de Profesor de Educación Primaria (Lugar y fecha de examen profesional). 0.25 salario mínimo
+
+25.-Certificación de boletas de educación primaria. 0.25 salario mínimo
+
+26.-Reexpedición de certificado de educación primaria. 0.25 salario mínimo
+
+27.-Expedición de constancia de educación primaria. 0.25 salario mínimo
+
+28.-Expedición de constancia de educación preescolar. 0.25 salario mínimo
+
+29.-Examen a título de suficiencia de educación primaria. 0.50 salario mínimo
+
+30.-Incorporación de escuelas primarias o jardines de niños. 180 salarios mínimos
+
+31.-Cuota de incorporación anual de escuelas primarias y jardines de niños particulares, por alumno. 0.50 salario mínimo
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
 ### CAPITULO UNICO
+
+###### ARTICULO 53-B.
+
+Por los servicios prestados por la Dirección General del Patrimonio, se causarán y pagarán los derechos siguientes:
+
+I.- Trabajos Técnicos por Lote. 2 salarios mínimos
+
+II.-Replanteo de Linderos por Lote. 2 salarios mínimos
+
+III.-Elaboración de Croquis de Lote. 2 salarios mínimos
+
+IV.-Elaboración de Avaluos de Lote. 6 salarios mínimos
+
+V.-Levantamientos de Poligonales Envolventes.
+
+Por hectárea. 15 salarios mínimos
+
+VI.-Subdivisión de Lotes. 1 salario mínimo
+
+VII.-Constancia de Posesión 1 salario mínimo
+
+VIII.-Por Copias Certificadas de Documentos, por hoja. 0.25 salario mínimo
+
+IX.-Por Certificación de Copias Heliográficas de Planos. 2 salarios mínimos
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 53-C.
+
+Por los servicios prestados por la Dirección General de Asuntos Ecológicos, se causarán y pagarán los derechos siguientes:
+
+I.- Por la verificación en materia de impacto ambiental para la autorización de los proyectos de obras o actividades.
+
+A).-Por la recepción y evaluación del informe preventivo 10 salarios mínimos
+
+B).-Por la recepción y evaluación de la manifestación de impacto ambiental.
+
+15 salarios mínimos
+
+C).-Por la inscripción de prestadores de servicios que realicen estudios de impacto ambiental.
+
+30 salarios mínimos
+
+D).-Por refrendo anual de la inscripción al padrón de prestadores de servicios.
+
+15 salarios mínimos
+
+II.-Verificación vehicular de emisión de contaminación atmosférica.
+
+A).-Por verificación de vehículos con motor a gasolina, incluyendo motocicletas.
+
+1.5 salarios mínimos
+
+B).-Por verificación a vehículos con motor a diesel.
+
+3 salarios mínimos
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 53-D.
+
+Por los servicos prestados por la Unidad de Planeación, se causarán y cobrarán los siguientes derechos:
+
+I.-Por copias certificadas de documentos.
+
+Por hoja. 0.25 salario mínimo
+
+II.-Por certificación de planos. 2 salarios mínimos
+
+III.-Recepción, Estudio y Expedición de Dictámenes Técnicos de uso del Suelo.
+
+USO/RANGO SALARIOS MININOS
+
+Residencial
+
+1º, 2°, y3° Orden (medio) 41
+
+Interés Social 32
+
+Popular 22
+
+Industrial 60
+
+Comercial 60
+
+Agropecuario 41
+
+Servicios 32
+
+IV.-Recepción, Evaluación para expedir Dictámenes Técnicos para la celebración de convenios notariales y emitir la autorización de inicio de obra de fraccionamiento.
+
+USO/RANGO 1 a 5,000 M2.
+
+SALARIOS MININOS
+
+Residencial
+
+1º y 2°, Orden 25
+
+Residencial
+
+3er. Orden (medio) 20
+
+Interés Social 15
+
+Popular 10
+
+Industrial 30
+
+Comercial 30
+
+Campestre, Habitacional o Agropecuario 20
+
+Servicios 25
+
+USO/RANGO 5,001 a 10,000 M2
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, Orden 30
+
+Residencial 3er. Orden (medio) 25
+
+Interés Social 20
+
+Popular 15
+
+Industrial 35
+
+Comercial 35
+
+Campestre, Habitacional o Agropecuario 25
+
+Servicios 20
+
+USO/RANGO 10,001 a 30,000 M2
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, Orden 35
+
+Residencial 3er. Orden (medio) 30
+
+Interés Social 25
+
+Popular 20
+
+Industrial 40
+
+Comercial 40
+
+Campestre, Habitacional o Agropecuario 30
+
+Servicios 25
+
+USO/RANGO 30,001 a 50,000 M2
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 40
+
+Residencial 3er. orden (medio) 35
+
+Interés Social 30
+
+Popular 25
+
+Industrial 45
+
+Comercial 45
+
+Campestre, Habitacional o Agropecuario 35
+
+Servicios 30
+
+USO/RANGO 50,001 a 100,000 M2
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 45
+
+Residencial 3er. orden (medio) 40
+
+Interés Social 35
+
+Popular 30
+
+Industrial 50
+
+Comercial 50
+
+Campestre, Habitacional o Agropecuario 40
+
+Servicios 35
+
+USO/RANGO Más de 100,000 M2
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 50
+
+Residencial 3er. orden (medio) 45
+
+Interés Social 40
+
+Popular 35
+
+Industrial 55
+
+Comercial 55
+
+Campestre, Habitacional o Agropecuario 45
+
+Servicios 40
+
+V.-Recepción, Evaluación y Autorización de Publicación y Proyecto de Lotificación.
+
+USO/RANGO 1 a 5,000 M2
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 25
+
+Residencial 3er. Orden (medio) 20
+
+Interés Social 15
+
+Popular 10
+
+Industrial 30
+
+Comercial 30
+
+Campestre, Habitacional o Agropecuario 20
+
+Servicios 15
+
+USO/RANGO 5,001 a 10,000 M2
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 30
+
+Residencial 3er. Orden (medio) 25
+
+Interés Social 20
+
+Popular 15
+
+Industrial 35
+
+Comercial 35
+
+Campestre, Habitacional o Agropecuario 25
+
+Servicios 20
+
+USO/RANGO 10,001 a 30,000 M2
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 35
+
+Residencial 3er. Orden (medio) 30
+
+Interés Social 25
+
+Popular 20
+
+Industrial 40
+
+Comercial 40
+
+Campestre, Habitacional o Agropecuario 30
+
+Servicios 25
+
+USO/RANGO 30,001 a 50,000 M2
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 40
+
+Residencial 3er. orden (medio) 35
+
+Interés Social 30
+
+Popular 25
+
+Industrial 45
+
+Comercial 45
+
+Campestre, Habitacional o Agropecuario 35
+
+Servicios 30
+
+USO/RANGO 50,001 a 100,000 M2
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 45
+
+Residencial 3er. orden (medio) 40
+
+Interés Social 35
+
+Popular 30
+
+Industrial 50
+
+Comercial 50
+
+Campestre, Habitacional o Agropecuario 40
+
+Servicios 35
+
+USO/RANGO Mas de 100,00 M2
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 50
+
+Residencial 3er. orden (medio) 45
+
+Interés Social 40
+
+Popular 35
+
+Industrial 55
+
+Comercial 55
+
+Campestre, Habitacional o Agropecuario 45
+
+Servicios 40
+
+VI.-Recepción, Estudio e Inspecciones Locales y/o Foráneas con reporte fotográfico para emitir dictámenes para la fusión, subdivisión y relotificación de terrenos, así como para verificar edificios en los que se pretende constituir el régimen en condominio
+
+USO/RANGO 1 a 500 M2
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 8
+
+Residencial 3er. orden (medio) 4
+
+Interés Social 3
+
+Popular 2
+
+Industrial 10
+
+Comercial 10
+
+Campestre, Habitacional o Agropecuario 2
+
+Servicios 4
+
+USO/RANGO 501 a 1,000 M2
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 12
+
+Residencial 3er. orden (medio) 8
+
+Interés Social 6
+
+Popular 4
+
+Industrial 16
+
+Comercial 16
+
+Campestre, Habitacional o Agropecuario 4
+
+Servicios 8
+
+USO/RANGO 1,001 a 3,000 M2
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 20
+
+Residencial 3er. orden (medio) 16
+
+Interés Social 12
+
+Popular 8
+
+Industrial 30
+
+Comercial 30
+
+Campestre, Habitacional o Agropecuario 8
+
+Servicios 16
+
+USO/RANGO 3,001 a 5,000 M2
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 40
+
+Residencial 3er. orden (medio) 30
+
+Interés Social 20
+
+Popular 12
+
+Industrial 40
+
+Comercial 40
+
+Campestre, Habitacional o Agropecuario 12
+
+Servicios 30
+
+USO/RANGO 5,001 a 10,000 M2
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 50
+
+Residencial 3er. orden (medio) 40
+
+Interés Social 30
+
+Popular 20
+
+Industrial 60
+
+Comercial 60
+
+Campestre, Habitacional o Agropecuario 20
+
+Servicios 40
+
+USO/RANGO Más de 10, 000 M2.
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 60
+
+Residencial 3er. orden (medio) 50
+
+Interés Social 40
+
+Popular 30
+
+Industrial 80
+
+Comercial 80
+
+Campestre, Habitacional o Agropecuario 30
+
+Servicios 50
+
+VII.-Recepción, elaboración y expedición de dictámenes técnicos para autorización de regímenes de propiedad en condominio.
+
+USO/RANGO 1 a 100 M2. Const.
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 24
+
+Residencial 3er. orden (medio) 15
+
+Interés Social 9
+
+Popular 6
+
+Industrial 27
+
+Comercial 27
+
+Campestre, Habitacional o Agropecuario 9
+
+Servicios 15
+
+USO/RANGO 101 a 200 M2. Const.
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 30
+
+Residencial 3er. orden (medio) 23
+
+Interés Social 14
+
+Popular 9
+
+Industrial 41
+
+Comercial 41
+
+Campestre, Habitacional o Agropecuario 14
+
+Servicios 23
+
+USO/RANGO 201 a 300 M2. Const.
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 45
+
+Residencial 3er. orden (medio) 35
+
+Interés Social 21
+
+Popular 14
+
+Industrial 49
+
+Comercial 49
+
+Campestre, Habitacional o Agropecuario 21
+
+Servicios 35
+
+USO/RANGO 301 a 400 M2. Const.
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 54
+
+Residencial 3er. orden (medio) 52
+
+Interés Social 25
+
+Popular 20
+
+Industrial 58
+
+Comercial 58
+
+Campestre, Habitacional o Agropecuario 25
+
+Servicios 52
+
+USO/RANGO 401 a 500 M2. Const.
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 65
+
+Residencial 3er. orden (medio) 60
+
+Interés Social 30
+
+Popular 25
+
+Industrial 70
+
+Comercial 70
+
+Campestre, Habitacional o Agropecuario 30
+
+Servicios 60
+
+USO/RANGO 501 a 1000 M2. Const.
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 70
+
+Residencial 3er. orden (medio) 65
+
+Interés Social 35
+
+Popular 30
+
+Industrial 80
+
+Comercial 80
+
+Campestre, Habitacional o Agropecuario 35
+
+Servicios 65
+
+USO/RANGO Más de 1,000 M2. Const.
+
+SALARIOS MININOS
+
+Residencial 1º y 2°, orden 75
+
+Residencial 3er. orden (medio) 70
+
+Interés Social 40
+
+Popular 35
+
+Industrial 90
+
+Comercial 90
+
+Campestre, Habitacional o Agropecuario 40
+
+Servicios 70
+
+> <small>(ADICIONADO. G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+CAPITULO DECIMOPRIMERO
+
+DE LOS DERECHOS POR SERVICIOS
+
+DIVERSOS
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 54.
 
@@ -1016,8 +2142,6 @@ Las cuotas señaladas en este Título para certificados o copias certificadas se
 ## TITULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
 
 ### CAPITULO UNICO
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 56.
 
@@ -1165,6 +2289,10 @@ Los notarios, corredores y funcionarios con fe pública, no autorizarán ningún
 
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
+### CAPITULO UNICO
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 67.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtiene el Estado por concepto de:
@@ -1249,6 +2377,12 @@ II.-Crear, suprimir, o modificar las tasas o tarifas de los productos.
 
 Para los efectos de esta Ley, se entiende por salario mínimo, el salario mínimo diario general que esté vigente en la zona económica de que se trate.
 
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 75.
+
+Todos los ingresos que tenga derecho a percibir el Estado, deberán pagarse en las Oficinas de Hacienda, incluyendo las multas administrativas y judiciales.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -1312,3 +2446,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 29 DE DICIEMBRE DE 1990.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día primero de enero de mil novecientos noventa y uno, previa su publicación en la Gaceta Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Las Licencias que se hayan expedido con anterioridad a la entrada en vigor de la presente Ley y que tengan vencimiento con posterioridad, deberán ser canjeadas en los términos del artículo 48 a la fecha de su vencimiento.
