@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1970-05-27"
+last_updated: "1974-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1974.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -206,15 +206,17 @@ DE LOS PODERES PUBLICOS.
 
 DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1974)</small>
 
 ###### Artículo 20.
 
 El poder Público del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1974)</small>
+
 ###### Artículo 21.
 
-No podrán reunirse dos o más poderes en una sola persona o corporación ni encomendarse el Legislativo a un Congreso formado por menos de siete Diputados.
+No podrán reunirse dos o más Poderes en una sola persona o corporación, ni encomendarse el Legislativo a un Congreso formado por menos de nueve Diputados.
 
 ###### Artículo 22.
 
@@ -228,7 +230,21 @@ DE LA INSTALACION DEL CONGRESO Y DE LOS PERIODOS DE SUS SESIONES.
 
 ###### Artículo 23.
 
-El Poder Legislativo se deposita en una Asamblea que se denomina "Congreso del Estado de Morelos", compuesta de Diputados designados en su totalidad cada tres años, en elección popular directa, en los términos que disponga la Ley, y no podrán ser reelectos para el período inmediato, ni aún tratándose de distinto Distrito Electoral.
+El Poder Legislativo se deposita en una Asamblea que se denomina "CONGRESO DEL ESTADO DE MORELOS", compuesta por Diputados Electos por Sufragio Directo y se complementará, además, con Diputados de Partido, apegándose a los que disponga la Ley Electoral.
+
+I.- Los Diputados serán designados en su totalidad cada tres años, en los términos que dispone la Ley Electoral, y no podrán ser reelectos para el período inmediato ni aún tratándose de distinto Distrito Electoral.
+
+En cuanto se refiere a Diputados de Partido, regirán las reglas siguientes:
+
+I.- Los Partidos Políticos Nacionales y Estatales, legalmente registrados en la Dirección de Gobernación del Estado, con un año de anterioridad al día de la elección, y que obtengan cuando menos el cinco por ciento de la votación total para la renovación de la Legislatura, tendrán derecho a que se les acredite como Diputados de Partido a uno de sus Candidatos;
+
+II.- Cuando un Partido logre la mayoría en uno o más Distritos Electorales, no tendrá derecho a designar Diputado de Partido;
+
+III.- El Diputado de Partido se acreditará en riguroso orden, de acuerdo con el porcentaje de votos que haya logrado en relación con los demás Candidatos del mismo partido;
+
+IV.- Los Diputados de Mayoría y los de Partido como representantes del pueblo tienen la misma categoría y, por lo tanto, iguales derechos e idénticas obligaciones.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1974)</small>
 
 ### CAPITULO III.
 
@@ -246,7 +262,9 @@ DE LA INICIATIVA Y FORMACION DE LAS LEYES.
 
 ###### Artículo 24.
 
-Se elegirá un Diputado propietario y un suplente por cada Distrito Electoral. La ley determinará el número de Distritos electorales en que deba dividirse el Estado y la circunscripción de cada uno de ellos, de manera que el Congreso quede integrado por siete Diputados por los menos.
+Se elegirá un Diputado Propietario y un Suplente por cada 80,000 habitantes o fracción mayor de 40,000 correspondiendo cada uno de ellos a un Distrito Electoral Local.
+
+La Ley determinará el número de Distritos Electorales en que deba dividirse el Estado y la circunscripción de cada uno de ellos, de manera que el Congreso quede integrado por nueve Diputados, por lo menos.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -440,7 +458,7 @@ I.- Los trabajadores solo podrán ser suspendidos o cesados por causa justificad
 
 J.- Los trabajadores tendrán el derecho de asociarse para la defensa de sus intereses comunes. Podrán, asimismo, hacer uso del derecho de huelga previo el cumplimiento de los requisitos que determine la Ley, respecto de una o varias dependencias de los poderes públicos, cuando se violen de manera general y sistemático los derechos que este artículo les consagra.
 
-K.- La seguridad social se organizará conforme a las siguientes bases mínimas:
+K.- La seguridad social se organizará conforme a las siguientes bases mínimas;
 
 a).- Cubrirá los accidentes y enfermedades profesionales; las enfermedades no profesionales y maternidad; y la jubilación, la invalidez, vejez y muerte.
 
@@ -632,7 +650,7 @@ B.- Cuando sea necesario para el cumplimiento de alguna ley general.
 
 C.- En los casos de falta absoluta del Gobernador, o cuando tenga que separase de sus funciones por más de dos meses.
 
-D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la destitución del cargo.
+D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la de destitución del cargo.
 
 E.- Cuando lo pida el Ejecutivo del Estado.
 
@@ -854,7 +872,7 @@ XXVI.- Adoptar todas las medidas necesarias para la buena marcha de la administr
 
 XXVII.- Remover a los miembros de los Ayuntamientos cuando observen mala conducta, abusen de sus facultades, incurran en responsabilidad o cometan algún delito, sometiendo a la aprobación del Congreso o de la Diputación Permanente, la medida adoptada, llamar a los suplentes al ejercicio de sus funciones municipales, y en caso de falta de éstos o que sean incluídos en la remoción, aprobar la designación que haga el Ejecutivo para integrar el Concejo Municipal, sin perjuicio de la consignación que proceda a las Autoridades competentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
 ###### Artículo 71.
 
@@ -1643,3 +1661,13 @@ P.O. 27 DE MAYO DE 1970.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Remítase al Poder Ejecutivo de la Entidad, para los efectos de la Fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 13 DE NOVIEMBRE DE 1974.
+
+###### ARTICULO PRIMERO.
+
+Estas reformas a la Constitución Política Local, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Previo el procedimiento legal, remítase al Ejecutivo del Estado para los efectos de la Fracción XVII del Artículo 70 de la Constitución Política Local.
