@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-11932"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-30"
-last_updated: "1996-08-30"
+last_updated: "1997-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 1997.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 30 de agosto de 1996.
 
@@ -363,7 +363,9 @@ b).- A quienes tengan mayor antigüedad como operadores en el servicio de transp
 
 c).- A quienes tengan mayor antigüedad como solicitantes.
 
-En ningún caso se otorgarán concesiones a quienes habiéndolas tenido se les hayan cancelado.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1997)</small>
+
+En ningún caso se otorgarán concesiones a quienes habiéndolas tenido se les hayan cancelado o las hayan enajenado bajo cualquier figura jurídica.
 
 ###### ARTICULO 30.
 
@@ -502,6 +504,14 @@ Las personas morales concesionarias deberán rendir a la Dirección General de C
 ###### ARTICULO 40.
 
 Los titulares de las concesiones y permisos están obligados a vigilar que sus operadores del servicio público de transporte cumplan con los requisitos establecidos en esta ley, así como a mantener sus unidades en las condiciones de servicio y operación señaladas en la misma y usar en éstas los colores que se establezcan en cada caso.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1997)</small>
+
+La publicidad de productos comerciales y la fijación de cualquier clase de propaganda en los vehículos con los cuales se preste el servicio público de transporte, deberá ser sometida en todo caso a la sanción y aprobación de la Dirección General de Comunicaciones y Transportes, la cual por ningún motivo, autorizará publicidad o propaganda que lesionen la moral o las buenas costumbres. La Dirección General de Comunicaciones y Transportes señalará los espacios que forzosamente deberán ser destinados a la identificación de la unidad y a los mensajes de carácter social.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1997)</small>
+
+Lo dispuesto en el párrafo precedente no exime a los concesionarios o permisionarios de la obligación de cumplir con las exigencias que al respecto establezcan otros ordenamientos.
 
 ###### ARTICULO 41.
 
@@ -843,6 +853,10 @@ Para la imposición de la sanción a que se contrae la fracción IV del presente
 
 Las citadas sanciones administrativas se impondrán sin perjuicio de la responsabilidad en que se pudiera haber incurrido por la comisión de un ilícito.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1997)</small>
+
+La infracción a lo dispuesto por el artículo 15 de esta ley, se sancionará con multa de doscientos días de salario mínimo vigente en la Entidad y se amonestará al infractor para que no reincida en dicha conducta; quedando facultada la Dirección General de Comunicaciones y Transportes para retirar de la circulación las unidades utilizadas al efecto, a fin de evitar que se continúe prestando indebidamente el servicio.
+
 ## TITULO DECIMO. DE LOS RECURSOS
 
 ### CAPITULO PRIMERO. Del recurso de Revocación
@@ -900,3 +914,17 @@ LIC. HORACIO SANCHEZ UNZUETA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. FERNANDO SILVA NIETO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE MAYO DE 1997.
+
+PRIMERO.- El titular del Ejecutivo del Estado, atendiendo a las circunstancias específicas de cada caso y considerando la opinión del Director General de Comunicaciones y Transportes, podrá mediante resolución debidamente motivada, autorizar la transferencia o regularización de uno concesión o servicio público, cuando a su juicio resulte necesaria esa medida para la mayor eficacia y seguridad jurídica en la prestación de los mismos. En todos los casos deberá acreditarse que dicha concesión o servicio público estuvo operando antes del 30 de agosto de 1996.
+
+En lo relativo a la transferencia o regularización de concesiones o servicios públicos, se deberá instaurar por la Dirección General de Comunicaciones y Transportes el procedimiento administrativo correspondiente, a fin de que el titular del Ejecutivo del Estado cuente con los elementos de convicción suficientes para emitir la resolución que en derecho proceda al respecto; serán aplicables en lo conducente las formalidades procesales establecidas en el artículo 34 de la Ley de Transporte Público del Estado.
+
+La solicitud para la regularización señalada en los párrafos anteriores, se recibirán en la Dirección General de Comunicación y Transporte únicamente durante los dos meses siguientes a la publicación del presente decreto en el Periódico Oficial del Estado.
+
+Unicamente serán válidas las resoluciones de transferencia o regularización que emita el titular del Ejecutivo del Estado durante los seis meses siguientes, contados a partir de la publicación del presente decreto en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
