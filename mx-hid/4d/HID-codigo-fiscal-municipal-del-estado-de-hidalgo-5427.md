@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-del-estado-de-hidalgo-5427"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-31"
-last_updated: "1982-12-31"
+last_updated: "1983-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1983.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1982.
 
@@ -160,6 +160,10 @@ I.- Los créditos municipales provenientes de impuestos, derechos, productos y a
 II.- Para que sea aplicable la excepción establecida en la fracción anterior, será requisito indispensable que antes de que se hubiere notificado al deudor el crédito fiscal, se haya presentado la demanda ante las autoridades competentes;
 
 III.- La vigencia y la exigibilidad en cantidad liquida del derecho del crédito cuya preferencia se invoque, deberá comprobarse en forma fehaciente al hacerse valer el recurso administrativo respectivo.
+
+> <small>(ADICIONADA, P.O 30 DE DICIEMBRE DE 1983)</small>
+
+IV.- El impuesto predial, será preferente a cualesquiera otros créditos, incluso a los fiscales, federales y estatales cuando se trate de la aplicación, de los frutos de los mismos del producto de su venta.
 
 ###### ARTICULO 20.
 
@@ -1155,13 +1159,23 @@ Contra las notificaciones que se hagan en contravención a las disposiciones ant
 
 No obstante lo dispuesto en el párrafo anterior, cuando la persona notificada en forma distinta a la señalada por este capítulo se manifestare sabedora de la providencia, la notificación surtirá sus efectos desde entonces como si estuviere legalmente hecha.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 122.
 
-En los términos procesales fijados en días por las disposiciones generales o por las autoridades fiscales del Municipio, se computarán sólo los días hábiles, considerándose así aquellos en que se encuentren abiertas al público las oficinas.
+Se consideran días y horas hábiles, las comprendidas entre las 7:30 y las 18:00 horas siempre y cuando se encuentren abierto al público las oficinas fiscales correspondientes, pudiendo una diligencia de notificación indicada en horas hábiles, concluirse en hora inhábil sin afectar su validez.
 
-La existencia del personal de guardia no habilitará los días en que se suspendan las labores.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-Los términos en que este artículo se refiere, principiarán a correr el día hábil siguiente a la fecha en que surta sus efectos la notificación, o que se realicen los hechos o las circunstancias que las disposiciones legales o las resoluciones administrativas prevengan.
+Los términos procesales fijados en días, por las disposiciones generales o por las autoridades fiscales del Municipio, se computarán sólo los días hábiles. Y cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario se entenderán que en el primer caso el plazo concluye el mismo día del mes del calendario posterior a aquel en que se inicie, y el segundo el término vencerá el mismo día del siguiente año de calendario a aquel en que se inició.
+
+La existencia del personal de guardia no habilitará los días en que se suspendan labores.
+
+Los términos a que este Artículo se refiere, principiarán a correr al día hábil siguiente a la fecha en que surta efectos la notificación, o que realicen los hechos o las circunstancias que las disposiciones legales o las resoluciones administrativas prevengan.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+La autoridad fiscal correspondiente podrá habilitar días y horas inhábiles por acuerdo escrito y fundado.
 
 ###### ARTICULO 123.
 
@@ -1185,21 +1199,43 @@ No satisfecho un crédito a favor del Erario del Municipio dentro del plazo que 
 
 Los vencimientos que ocurran durante el procedimiento administrativo de ejecución, incluso recargos, gastos de ejecución y cualesquiera otros, se harán efectivos, juntamente con el crédito inicial, sin necesidad de notificación ni otras formalidades especiales.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 127.
 
-En el caso del artículo 125, la dependencia recaudadora donde radique el cobro formulará la liquidación del adeudo e iniciará la ejecución administrativa por mandamiento motivado y fundado, ordenando que se notifique al deudor el crédito y se le requiera para que efectúe en la caja de la propia dependencia el pago dentro de los diez días siguientes al del requerimiento, apercibiendo de que si no lo hiciere, se le embargarán bienes suficientes para garantizar el importe del crédito insoluto, así como los vencimientos y gastos de que trate el articulo 126.
+En el caso del artículo 125, se procederá como sigue:
+
+I.- Transcurridos cinco días a partir de la exigibilidad del crédito fiscal respectivo la dependencia recaudadora donde radique el cobro, formulará la liquidación del adeudo e iniciará el Procedimiento Administrativo de Ejecución, con mandamiento debidamente motivado y fundado ordenando que se notifique al deudor el crédito determinado a su cargo, para que efectúe el pago en la caja de la propia dependencia dentro de los diez días siguientes al de la notificación.
+
+II.- Transcurrido el término que señala la fracción anterior, se ordenará requerir al deudor para que se efectúe el pago y en caso de no hacerlo en la misma diligencia se le embargarán bienes de su propiedad suficientes para garantizar el crédito fiscal y sus accesorios.
+
+III.- Si la exigibilidad se origina por situaciones previstas en el artículo 50, se ordenará requerir al deudor para que efectúe el pago dentro de los cinco días hábiles siguientes a la fecha en que se surta efectos dicho requerimiento apercibido que de no hacerlo se le embargarán bienes de su propiedad suficientes para hacer efectivo el crédito fiscal y sus accesorios.
 
 ###### ARTICULO 128.
 
-El requerimiento se hará personalmente al deudor, si fuere encontrado en su domicilio. Se entregará a la persona con quien se atienda la diligencia, copia del mandamiento de ejecución y se levantará acta pormenorizada de la diligencia, de la que también se entregará copia a dicha persona.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 129.
 
-Si no se encontrare el deudor en la primera búsqueda, se procederá a los términos del Artículo 119, fracción II, inciso a).
+El requerimiento se hará personalmente, pero cuando el deudor no se encontrare en la primera búsqueda se procederá en los términos del artículo 119, Fracción II inciso a).
 
 ###### ARTICULO 130.
 
 Cuando la autoridad fiscal, por cualquier motivo, no haya localizado al deudor o a su representante legal, el requerimiento se hará y surtirá sus efectos en los términos de los artículos 119, fracción II, inciso b) y 120 fracción IV.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 130 BIS.- Para iniciar un procedimiento de cobro en contra de un responsable solidario de crédito fiscal, será necesario hacerle notificación en la que se expresará:
+
+I.- Nombre del causante;
+
+II.- La resolución de la que se derive el crédito fiscal y el monto de éste.
+
+III.- Los motivos y fundamentos por los que se considere responsable del crédito, y
+
+IV.- El plazo para el pago de diez días, salvo que la Ley señale otro.
 
 #### SECCION SEGUNDA
 
@@ -1207,23 +1243,55 @@ Cuando la autoridad fiscal, por cualquier motivo, no haya localizado al deudor o
 
 El aseguramiento de bienes en la vía administrativa de ejecución procederá:
 
-I.- Transcurrido el plazo de diez días del requerimiento de pago, si el deudor no ha cubierto totalmente el crédito de su cargo.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+I.- Transcurridos el plazo de diez días de la notificación del adeudo, si el deudor no ha cubierto totalmente el crédito a su cargo;
 
 II.- A petición del interesado, para garantizar un crédito fiscal;
 
-III.- Cuando a juicio de la autoridad fiscal, hubiere peligro de que el obligado se ausente, enajene u oculte sus bienes o realice cualquier maniobra tendiente a dejar insoluto el crédito. El crédito en estos casos si el crédito fiscal se cubre dentro de los plazos legales, el deudor no estará obligado a pagar gastos de ejecución.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-IV.- Cuando al realizarse acto de inspección se descubran negociaciones, vehículos y objetos, cuya tenencia, producción, explotación, captura, transporte o importación deba ser manifestada a las autoridades fiscales o autoridades por ella, sin que se hubiere cumplido con la obligación respectiva;
+III.- Para asegurar el interés fiscal antes de la fecha en que el crédito fiscal sea exigible; cuando a juicio de la autoridad fiscal, hubiere peligro de que el obligado se ausente, enajene y oculte sus bienes o realice cualquier maniobra tendiente a dejar insoluto el crédito.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+IV.- En el mismo caso del artículo anterior cuando al realizarse actos de inspección, se descubran negociaciones, vehículos u objetos, cuya tenencia, producción, explotación, captura o transporte deba ser manifestada a las autoridades fiscales o autorizadas por ellas, sin que se hubiera cumplido con la obligación respectiva; y
 
 V.- En los demás casos que prevengan las leyes.
 
 En los casos de las fracciones III y IV, la autoridad deberá iniciar el procedimiento tendiente a determinar y liquidar el crédito fiscal en un plazo que no excederá de treinta días.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+Una vez determinado el crédito fiscal, el embargo precautorio se convertirá en definitivo y se proseguirá procedimiento administrativo de ejecución conforme a las disposiciones de este capítulo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+Si el crédito fiscal se cubre dentro de los plazos legales, el deudor no estará obligado a cubrir recargos ni gastos de ejecución.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 131 BIS.- Las autoridades fiscales una vez que haya transcurrido el término de diez días de la notificación del crédito fiscal; sin haber realizado el pago, procederá a requerir del mismo al deudor y, en caso de no hacerlo en el acto, procederá como sigue:
+
+I.- A embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera de subasta o adjudicarlos a favor del fisco.
+
+II.- A embargar negociaciones con todo lo que de hecho y por derecho les corresponda, a fin de obtener, mediante la intervención de ellos, los ingresos necesarios que permitan satisfacer el crédito fiscal y los accesorios legales.
+
+El embargo de bienes raíces, de derechos legales o de negociaciones de cualquier género si inscribirá en el Registro Público de la Propiedad que corresponda en atención a la naturaleza de los bienes o derechos de que se trate. Dicho aseguramiento de bienes podrá realizarse a petición del interesado para garantizar un crédito fiscal.
+
 ###### ARTICULO 132.
 
 El ejecutor que designe la oficina en que sea radicado el crédito fiscal se constituirá en el domicilio del deudor y practicará la diligencia de secuestro administrativo con las mismas formalidades de las notificaciones personales.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+De esta diligencia se levantará acta pormenorizada de la que se entregará copia a la persona con quién se entiende la misma.
+
 Si el requerimiento de pago se hizo por edicto, la diligencia de embargo se entenderá con la autoridad auxiliar municipal de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciera el deudor, en cuyo caso se entenderá con él.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+En el caso de la fracción IV del artículo 131, quien realice el acto de inspección llevará a cabo el secuestro administrativo, si está facultado para ello en la orden de inspección.
 
 ###### ARTICULO 133.
 
@@ -1271,7 +1339,7 @@ Si al estarse practicando la diligencia de embargo, el deudor hiciere pago del a
 
 Si al designarse bienes para el secuestro administrativo, se opusiere un tercero fundándose en el dominio de ellos, no se practicará el embargo si se demuestra en el mismo acto la propiedad con prueba documental suficiente a juicio del ejecutor. La resolución dictada tendrá el carácter de provisional y deberá ser sometida a ratificación, en todos los casos por la Tesorería Municipal, a la que deberán allegarse los documentos exhibidos en el momento de la oposición. Si a juicio de la Tesorería las pruebas no son suficientes, ordenará al ejecutivo que continúe con el embargo y notificará al interesado que pueda hacer valer la oposición de tercero en los términos de este Código.
 
-En todo el momento los opositores podrán ocurrir ante la Tesorería Municipal haciéndole saber la existencia de otros bienes propiedad del deudor del crédito fiscal libres de gravamen y suficientes para responder de las prestaciones fiscales exigidas. Esas informaciones no obligarán a la Tesorería a levantar el embargo sobre los bienes a que se refiere la oposición.V
+En todo el momento los opositores podrán ocurrir ante la Tesorería Municipal haciéndole saber la existencia de otros bienes propiedad del deudor del crédito fiscal libres de gravamen y suficientes para responder de las prestaciones fiscales exigidas. Esas informaciones no obligarán a la Tesorería a levantar el embargo sobre los bienes a que se refiere la oposición.
 
 ###### ARTICULO 137.
 
@@ -1397,6 +1465,10 @@ Los secuestros administrativos podrán ampliarse en cualquier momento del proced
 
 #### SECCION TERCERA. DE LOS REMATES
 
+#### SECCION PRIMERA
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 151.
 
 La venta de bienes embargados procederá:
@@ -1493,11 +1565,27 @@ Fincado el remate de bienes muebles se aplicará el depósito constituido y el p
 
 Tan pronto como el postor hubiere cumplido con los requisitos a que se refiere el párrafo anterior y el remate sea aprobado por la Tesorería Municipal, si este requisito fuere necesario conforme al artículo siguiente, la Tesorería Municipal procederá a entregar los bienes que le hubiere adjudicado.
 
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 165.
 
-Aprobado el remate de bienes raíces se lo comunicará al postor para que, dentro del plazo de diez días, entere en la Caja de la Tesorería Municipal la cantidad de contado ofrecida en su postura aceptada.
+Si los bienes rematados fueran raíces o muebles cuyo valor exceda de N$50.00, la Oficina ejecutora, dentro de un plazo de cinco días enviará el expediente a la Tesorería Municipal, para que previa revisión, apruebe el remate, si se encuentra ajustado a las normas que lo rigen.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+Si la resolución es negativa, el fincamiento de remate que haya hecho la Oficina Ejecutora quedará sin efectos y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiere constituido.
+
+Aprobado el remate de bienes raíces, se le comunicará al postor para que dentro del plazo de 10 días entere a la caja de la Tesorería Municipal la cantidad de contado ofrecida en su postura aceptada.
 
 Hecho el pago a que se refiere el párrafo anterior y cuando proceda, designado el notario por el postor, se citará al deudor para que, dentro del plazo de tres días otorgue y firme la escritura de venta correspondiente, apercibido de que si no lo hace, el Tesorero Municipal lo otorgará y firmará en su rebeldía.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+La propia escritura consignará garantía hipotecaria a favor de la Presidencia Municipal por la parte que el adquiriente le quede adeudando, en su caso.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+Aún en este caso, el deudor responderá de la evicción y saneamiento del inmueble rematado.
 
 ###### ARTICULO 166.
 
@@ -1585,39 +1673,679 @@ Cuando la garantía fuere dinero en efectivo depositado en la institución de cr
 
 ### CAPITULO PRIMERO
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 176.
 
-Contra las resoluciones de las Autoridades Fiscales Municipales que determinen créditos fiscales, apliquen sanciones o que causen en materia fiscal distintos a los anteriores; el contribuyente afectado, cuando las leyes fiscales especiales no establezcan recursos, sólo podrá interponer el recurso administrativo que establece este capítulo.
+Contra las resoluciones dictadas en materia fiscal municipal, sólo procederán los recursos administrativos que establezca este Código o los demás ordenamientos fiscales.
 
-Las resoluciones que se dicten como consecuencia de recursos no establecidos legalmente, serán nulas y aún de oficio serán declaradas así cuando no favorezcan al particular.
+Las resoluciones que se dicten como consecuencia de recursos no establecidos legalmente, serán nulas. Dicha nulidad será declarada, aún de oficio por la autoridad superior a la que hubiere dictado la resolución si ésta no modifica, en favor del particular, la primera resolución; si hubiere modificación favorable al particular, la nulidad de la nueva resolución sólo podrá ser declarada por la autoridad competente.
 
-Si aquellas resoluciones favorecen al particular solamente el Tribunal Fiscal Administrativo del Estado podrá declarar su nulidad.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 177.
 
-La tramitación del recurso administrativo establecido en este Código, se sujetará a las normas siguientes:
+La tramitación de los recursos administrativos establecidos en este Código y la de los instituidos en las demás leyes fiscales que no tengan señalado trámite especial, se sujetará a las normas siguientes:
 
-I.- Se interpondrán por escrito dirigido al Tesorero Municipal, en el que se expresará el nombre del recurrente y su domicilio en el Municipio, la resolución o procedimiento que se imponga, los agravios que cause el acto combatido y se hará el ofrecimiento de pruebas. Asimismo, se justificará la personalidad cuando no se gestione a nombre propio;
+I.- Se interpondrán por el recurrente mediante escrito que presentará ante la autoridad que dictó o realizó el acto impugnado, dentro de los quince días siguientes al en que surta efectos su notificación, expresando los agravios que aquel le cause, ofreciendo las pruebas que se proponga rendir y acompañando copia de la resolución combatida, así como la constancia de la notificación de esta última, excepto si la notificación se hizo por correo.
 
-II.- El escrito será presentado durante los quince días siguientes al en que surta efectos la notificación del acto que se imponga ante la autoridad que dictó la resolución o ante el Tesorero Municipal;
+Si el recurrente tiene su domicilio en población distinta del lugar en que resida la autoridad citada, podrá enviar su escrito dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que la haya notificado la resolución. En estos casos se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue en la oficina de correos o a la autoridad que efectuó la notificación;
 
-III.- El Tesorero Municipal proveerá el desahogo de las pruebas ofrecidas. A efecto, señalará un término que no podrá exceder de veinte días, a partir de la fecha de recepción del escrito del recurrente, dentro del cual los interesados deberán exhibir todos los documentos que hubieren ofrecido, y deberán presentar a sus peritos y testigos;
+II.- En los recursos administrativos no será admisible la prueba de confesión de las autoridades. Si dentro del trámite que haya dado origen a la resolución recurrida, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se admitirán en el recurso las que hubieran allegado en tal oportunidad;
 
-IV,- Para la resolución de los recursos, el Tesorero Municipal, podrá pedir que se rindan los informes que estime pertinentes por parte de quienes hayan intervenido en la formación de la resolución o acto de terceras personas;
+III.- Las pruebas que ofrezca el recurrente deberá relacionarlas con cada uno de los hechos controvertidos, sin el cumplimiento de este requisito serán desechados de plano;
 
-V.- Rendidas las pruebas y recibidos, en su caso los informes, se dictará resolución dentro de un plazo que no excederá de diez días;
+IV.- Se tendrán por no ofrecidas las pruebas de documentos si estos no se acompañan al escrito en que se interponga el recurso y en ningún caso, serán recabadas por la autoridad, salvo que obren en el expediente en que se haya originado la resolución combatida;
 
-VI.- Al dictar la resolución el Tesorero Municipal tomará en cuanta las condiciones económicas y sociales a que se refiere el Artículo 18 del presente Código.
+V.- La prueba pericial se desahogará con la prestación del dictamen a cargo del perito designado por el recurrente. De no presentarse el dictamen dentro del plazo de Ley, la prueba será declarada desierta;
+
+VI.- Las autoridades fiscales podrán pedir que se le rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en el acto reclamado;
+
+VII.- La autoridad encargada de resolver el recurso, acordará lo que proceda sobre su admisión y la de las pruebas que el recurrente hubiere ofrecido, que fueren pertinentes e idóneas para dilucidar las cuestiones controvertidas; ordenando su desahogo dentro del improrrogable plazo de quince días; y
+
+VIII.- Vencido el plazo para la rendición de las pruebas, la autoridad dictará resolución en un término que no excederá de treinta días.
 
 ###### ARTICULO 178.
 
-Se suspenderá el procedimiento administrativo de ejecución durante la tramitación de los recursos administrativos, cuando lo solicite el interesado y garantice el crédito fiscal de que se trata, en alguna de las formas señaladas por el artículo 16 de éste Código.
-
-No se exigirá garantía adicional, si en el procedimiento administrativo de ejecución se hubieren ya secuestrado bienes suficientes para garantizar el interés fiscal.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 179.
 
-La resolución que se dicte en los recursos que establece este capítulo será impugnable ante el Tribunal Fiscal Administrativo del Estado, quien tiene personalidad para conocer y resolver los asuntos de índole tributaria municipal.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 180.
+
+Cuando las leyes fiscales no establezcan recursos procederán:
+
+I.- La revocación;
+
+II.- La oposición al procedimiento ejecutivo;
+
+III.- La oposición de tercero;
+
+IV.- La reclamación de preferencia; y
+
+V.- La nulidad de notificaciones.
+
+Estas defensas no podrán ser ejercitadas en contra de resoluciones o actos que sean consecuencia de recursos, establecidos en otras leyes fiscales.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 181.
+
+La revocación procederá contra resoluciones definitivas en que se determinen créditos fiscales; se niegue la devolución de las cantidades pagadas indebidamente o de las que procedan conforme a las Leyes Fiscales; se imponga una sanción por infracción de las citadas Leyes Fiscales; y contra los dictámenes emitidos por la Dirección de Catastro.
+
+El afectado por las resoluciones administrativas a que se refiere el párrafo anterior, podrá optar entre interponer el recurso de revocación o promover el juicio de nulidad ante el Tribunal Fiscal del Estado, pero deberá intentar la misma vía cuando se trate de créditos fiscales conexos; por lo tanto, será improcedente este recurso contra resoluciones administrativas que determinen créditos fiscales conexos a otro directamente impugnado en juicio de nulidad.
+
+La resolución que se dicte en el recurso de revocación será también impugnable ante dicho tribunal.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 182.
+
+La oposición al procedimiento ejecutivo será hacha valer ante la oficina ejecutora por quienes hayan sido afectados por él y afirmen:
+
+I.- Que el crédito que se les exige se ha extinguido por cualquiera de los medios que para el efecto establece este Código;
+
+II.- Que el monto del crédito es inferior al exigido, cuando el acto del que se derive la diferencia sea imputable a la oficina ejecutora que cobra el crédito, o se refiera a recargos y gastos de ejecución; y
+
+III.- Que el procedimiento no se ha ajustado a la Ley. En este último caso la oposición no podrá hacerse valer, si no en contra de su resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación, de actos de ejecución sobre bienes legalmente embargables, de los casos en los que el remate, no queda sujeto a aprobación, por parte de la Tesorería Municipal en los términos del artículo 165 y de los supuestos a que se refiere el artículo 111 de este Código.
+
+En la oposición, a que se refiere este artículo no podrá discutirse la validez de la resolución en que se haya determinado el crédito fiscal.
+
+La oposición al procedimiento ejecutivo será resuelta en todos los casos por la Tesorería Municipal.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 183.
+
+La oposición de tercero podrá hacerse valer ante la oficina ejecutora por quien no siendo la persona contra la que se despachó ejecución afirme ser propietario de los bienes o titular de los derechos embargados.
+
+La declaración del ejecutado no será admisible como prueba del derecho del opositor.
+
+La oposición podrá hacerse valer en cualquier tiempo antes de que se apruebe el remate, sin atenerse a la regla que en cuanto al término establece, la fracción II del Artículo 177.V
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 184.
+
+La reclamación de preferencia será hecha valer por quienes sostengan tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales municipales.
+
+La declaración del ejecutado no será admisible como prueba del derecho del reclamante.
+
+La reclamación podrá hacerse valer en cualquier tiempo antes de que se haya aplicado al producto del remate, sin atenerse a la regla que en cuanto al término establece la fracción II del Artículo 177.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 185.
+
+La nulidad de notificaciones procederá respecto de las que se hicieren en contravención a las disposiciones legales.
+
+La interposición del recurso, suspenderá los plazos para el ejercicio de las facultades de las autoridades fiscales y de los derechos de los particulares, hasta en tanto se emita la resolución que proceda.
+
+La declaratoria de nulidad de notificaciones, traerá como consecuencia la de las actuaciones efectuadas con posterioridad a la notificación anulada y que tenga relación con ella.
+
+En tanto se resuelve este recurso, quedarán en suspenso el término legal para impugnar la resolución de fondo.
+
+Cuando ya se haya iniciado juicio ante el Tribunal Fiscal será improcedente la solicitud sobre nulidad de notificaciones ante la autoridad administrativa y que se hará valer mediante ampliación de la demanda respectiva.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+### CAPITULO SEGUNDO. DE LA SUSPENSION DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 186.
+
+Se suspenderá el procedimiento administrativo de ejecución durante la tramitación de los recursos administrativos que señala este Código o juicios de nulidad cuando lo solicite el interesado y garantice el crédito fiscal impugnado, en alguna de las formas señaladas por el artículo 16 de este Código, sin que en los citados juicios de nulidad proceda su dispensa.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 187.
+
+Puede obtenerse la suspensión del procedimiento de ejecución mediante el aseguramiento del interés fiscal, en los términos señalados por el artículo 16.V
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 188.
+
+La solicitud se formulará por escrito con copia de la demanda respectiva en cualquier tiempo, hasta de dictar sentencia ante la Tesorería Municipal, la que otorgando para ello un plazo de 15 días, aceptará la garantía que se ofrezca, si fuera procedente, y suspenderá de plano el procedimiento hasta que se comunique la resolución del Tribunal que ponga fin al juicio. Si transcurren treinta días desde la fecha de la suspensión sin que la Tesorería Municipal tenga noticia oficial de la admisión de la demanda, podrá continuar el procedimiento de ejecución, a menos que el afectado demuestre que la demora le es imputable.
+
+La suspensión concedida queda sujeta, en todo caso, a la resolución del Tribunal que ponga fin al juicio.
+
+La garantía podrá otorgarse directamente ante la Tesorería Municipal, la que al recibirla lo comunicará a la dependencia ejecutora, para los efectos consiguientes.
+
+No se exigirá la constitución de la garantía si el interés fiscal está asegurado con anterioridad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 189.
+
+Si la autoridad fiscal, sin causa justificada, niega la suspensión o rechaza la garantía ofrecida, podrá ocurrirse en queja ante el Tribunal Fiscal Administrativo en un término de cinco días.
+
+La Tesorería Municipal, tendrá a su alcance el mismo recurso para combatir, dentro del plazo señalado, las decisiones dictadas en materia de suspensión que no se ajusten a las normas legales aplicables.
+
+> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+## TITULO SEPTIMO. PROCEDIMIENTO CONTENCIOSO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 190.
+
+Los juicios que se promuevan ante el Tribunal Fiscal Administrativo del Estado, de acuerdo con la competencia que le señala su Ley Orgánica, se substanciarán y resolverán con arreglo al procedimiento que determina este Código. A falta de disposición expresa se aplicarán las reglas del Código de Procedimientos Civiles en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 191.
+
+En los juicios que se tramiten ante el Tribunal Fiscal y Administrativo del Estado, no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 192.
+
+Toda promoción deberá ser firmada por quien la formule y sin este requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, caso en el que se aplicará el Derecho común.
+
+Ante el Tribunal Fiscal no procederá la gestión de negocios. Quien promueva a nombre de otro deberá acreditar que la representación le fue otorgada, a más tardar, en la fecha de la presentación de la demanda.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 193.
+
+Las diligencias que deban practicarse fuera del local del Tribunal, podrán encomendarse al Secretario del mismo juez de Primera Instancia de la jurisdicción.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+### CAPITULO SEGUNDO. DEL PROCEDIMIENTO
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+#### SECCION SEGUNDA. DE LAS NOTIFICACIONES Y DE LOS TERMINOS
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 194.
+
+Serán parte en el procedimiento:
+
+I.- El actor;
+
+II.- El demandado. Tendrá este carácter:
+
+a).- La autoridad fiscal o administrativa que dicte u ordene, ejecute o trate de ejecutar la resolución o tramite el procedimiento impugnado, o la que legalmente la sustituya.
+
+b).- El particular a quien favorezca la resolución cuya nulidad se pida ante la autoridad administrativa.
+
+III.- El tercero que dentro del procedimiento administrativo, aparezca como titular de un derecho incompatible con el que pretenda el actor; y
+
+IV.- El Tesorero Municipal, quien será representado en la forma que señalan los ordenamientos, aún cuando no sea actor ni demandado.
+
+Podrá apersonarse al juicio como coadyuvante de la Tesorería Municipal, quien tenga interés directo en la anulación de una resolución favorable a un particular.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 195.
+
+Las autoridades que figuren como parte en los juicios de nulidad podrán mediante oficio, acreditar representantes en las audiencias, con facultades para rendir pruebas y alegar.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+#### SECCION TERCERA. DE LA DEMANDA
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 196.
+
+Toda notificación, citación, emplazamiento o resolución, deberá de practicarse a más tardar al segundo día a aquel en que el expediente se haya turnado al actuario, para tal efecto y se asentará la razón respectiva a continuación de la misma resolución.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 197.
+
+Las notificaciones se harán:
+
+I.- A las autoridades fiscales siempre por oficio o telegrama cuando se trate de resoluciones que exijan cumplimiento inmediato;
+
+II.- Personalmente en la forma señalada por el Código de Procedimiento Civiles del Estado o por correo certificado con acuse de recibo, a los particulares cuando se trate de alguna de las siguientes resoluciones:
+
+a).- La que admita o deseche alguna demanda.
+
+b).- La que admita o deseche algún recurso.
+
+c).- La que rechace una garantía o declare no haber lugar a dispensarla.
+
+d).- La que señale día para la audiencia.
+
+e).- La de sobreseimiento y la de sentencia.
+
+f).- La que mande citar un tercero.
+
+g).- El requerimiento de un acto a la parte que deba cumplirlo.
+
+h).- En cualquier caso, urgente, si así lo ordena el tribunal.
+
+i).- La que tenga por contestada la demanda, cuando se impugne una negativa ficta o el actor no conozca los fundamentos de la resolución si no hasta que se conteste la demanda. En este caso se acompañará copia de la contestación a la resolución que se notifica.
+
+III.- Fuera de los casos señalados en la fracción anterior, las notificaciones se harán personalmente en las salas del Tribunal a los particulares, si se presentan dentro de las 24 horas siguientes a la en que se haya dictado la resolución, y si no se presentare con oportunidad, por lista autorizada que se fijará en los estratos del local de las secretarías, de acuerdo con la sala que corresponda, al día siguiente del acuerdo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 198.
+
+La lista contendrá el nombre de la persona a quien se notifique el número de expediente en que la notificación se haga, síntesis de la parte dispositiva en su caso, de la resolución correspondiente y fecha de la misma, asentándose en el expediente la fecha de la lista.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 199.
+
+Las notificaciones se harán a los representantes de las partes, cuando en autos hayan sido facultados al efecto. La facultad para recibir notificaciones, autorizará a la persona designada para promover o interponer los recursos que procedan, ofrecer y rendir las pruebas y alegar en las audiencias.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 200.
+
+Las notificaciones surtirán sus efectos al día hábil siguiente al en que se haya hecho la notificación personal o entregado el oficio que contenga copia de la resolución que se notifica, o fijado la lista respectiva.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 201.
+
+Las notificaciones que no fueren hechas en la forma que establecen las disposiciones precedentes serán nulas. Las partes perjudicadas podrán pedir la nulidad a que se refiere este artículo, antes de dictarse nuevo acuerdo que implique conocimiento de notificación irregular, en el expediente que haya motivado la notificación, cuya nulidad se pide y que se reponga, el procedimiento desde el momento en que se incurrió en la nulidad.
+
+Este incidente, se considerará como de previo y especial pronunciamiento, se substanciará en una sola audiencia en la que se recibirán las pruebas de las partes, se oirán, sus alegatos que no excederán de media hora por cada uno, y se dictará la resolución que fuera procedente. Si se declara la nulidad de la notificación, se impondrá una multa de $100.00 a $500.00 al empleado responsable, quien será destituido de su cargo en caso de reincidencia.
+
+Las promociones de nulidad notoriamente infundadas se desecharán de plano.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 202.
+
+El cómputo de los términos se sujetará a las reglas siguientes:
+
+I.- Serán improrrogables, se incluirá en ellos el día del vencimiento y empezará a correr el día siguiente al en que surta efectos la notificación; pero si fueren varias las partes, los términos comunes correrán desde el día siguiente a la fecha en que haya surtido sus efectos la notificación a la última de ellas; y
+
+II.- Se contarán por días naturales; excluyendo inhábiles y aquellos en los que suspendan las labores del Tribunal.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 203.
+
+Los impedimentos, recusaciones y excusas, de los magistrados y demás personal del Tribunal Fiscal y Administrativo, serán regulados por la Ley Orgánica del mismo.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+#### SECCION CUARTA. DE LA CONTESTACION
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 204.
+
+La demanda deberá ser presentada directamente ante el Tribunal Fiscal del Estado, en virtud de ser competente en la circunscripción territorial en que radique la autoridad ordenadora de la resolución impugnada, o enviarse por correo certificado si el actor tiene su domicilio fiscal fuera de la sede del Tribunal, siempre y cuando el depósito se haga en el lugar en que reside aquel. En este caso se tendrá como fecha de presentación del escrito respectivo la del día en que se entregue en la oficina de correos.
+
+La presentación deberá hacerse dentro de los 15 días siguientes a aquel en que haya surtido efecto la notificación de dicha resolución, excepción hecha de los casos siguientes:
+
+I.- Si el perjudicado reside en el extranjero y no tiene representante en la República, el término para iniciar el juicio será de 45 días;
+
+II.- Cuando se pida la nulidad de una resolución favorable a un particular, la demanda deberá presentarse dentro de los 5 años siguientes a la fecha en que se haya originado efectos de tracto sucesivo, caso en el cual la autoridad podrá demandar la nulidad en cualquier época, pero los efectos de la sentencia, en caso de nulificarse la resolución favorable, sólo se retraerán a los 5 años anteriores a la presentación de la demanda;
+
+III.- Cuando la resolución administrativa dé nacimiento al cobro de una pensión, haber de retiro, jubilación, compensación o cualquiera otra prestación, civil o militar, por cantidad menor a la que se pretende, el plazo de presentación de la demanda vencerá 15 días después de la fecha en que realice el primer cobro. Cuando la pensión esté formada por 2 o más cuotas, el plazo para presentar la demanda correrá a partir de la fecha de la primera percepción de la cuota cobrada en el último término. Si la resolución impugnada concedió compensación y el interesado considere tener derecho a pensión, se estará a la regla general y será condición indispensable para tramitar la demanda que se otorgue fianza por una cantidad igual al importe de la compensación, si ésta fue cobrada, para garantizar la devolución de ésta, en caso de que prospere la demanda;
+
+IV.- En los casos de negativa ficta, el interesado no está obligado a interponer la demanda dentro del término a que se refiere este artículo, pudiendo presentarla en cualquier tiempo mientras no se dicte resolución expresa y siempre que haya transcurrido el plazo respectivo; y
+
+V.- Cuando la Ley señale otro plazo. Cuando el perjudicado fallezca durante el plazo a que se refiere este Artículo, se suspenderá el término hasta que haya sido designado el albacea o representante de la sucesión.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 205.
+
+La demanda deberá contener:
+
+I.- El nombre del actor y domicilio que señale para oír y recibir notificaciones, debiéndose designar casa ubicada en la población donde tenga asiento el Tribunal Fiscal ante la que se promueva y los del tercero interesado cuando lo haya;
+
+II.- El nombre y domicilio del demandado;
+
+III.- La resolución o procedimiento que se impugne y la autoridad o autoridades demandadas;
+
+IV.- Los hechos y fundamentos de derecho en que se apoye la reclamación;
+
+V.- Los conceptos de nulidad que se hagan valer en contra de la resolución o procedimientos impugnados; y
+
+VI.- Las pruebas que el actor se proponga rendir, las cuales deberá relacionar con cada uno de los hechos. Cuando ofrezca prueba pericial o testimonial el actor deberá indicar los nombres de los peritos o testigos y acompañar los interrogatorios que deben contestar. Sin el cumplimiento de estos requisitos no se tendrán por ofrecidas.
+
+Se presentará con la demanda el documento o documentos que el actor ofrezca pruebas y esté en posibilidades de obtener o indicará el archivo o lugar en que se encuentren para que su costa se mande expedir copia de ellos o se requiera su remisión, cuando ésta sea legalmente posible; para este efecto deberá identificar con toda precisión dichos documentos. Se entiende que el actor tiene a su disposición los documentos, siempre que legalmente pueda obtener copia autorizada de los originales.
+
+El actor presentará copia de la demanda para cada una de las partes y copia de los documentos que presente para la Tesorería Municipal y para la autoridad emisora de la resolución o acto impugnado, cuando no dependa de la Tesorería mencionada.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 206.
+
+El demandante tendrá derecho a ampliar la demanda dentro de los 15 días siguientes al en que surta efectos el acuerdo recaído a la contestación de la misma, cuando se demande una negativa ficta o cuando el actor no conozca los fundamentos de la resolución impugnada, sino hasta que la demanda esté constada.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 207.
+
+El actor deberá acompañar con su instancia los documentos justificados de su personalidad cuando no gestione en nombre propio, a menos que compruebe que dicha personalidad le ha sido reconocida en el procedimiento dentro del cual haya emanado la resolución que reclame.
+
+Igualmente deberá presentar el documento en que conste la resolución o acto impugnado, o señalar el archivo o lugar en que se encuentre. Para este efecto deberá identificar con toda precisión dicho documento.
+
+Si se demanda la nulidad de una negativa ficta, deberá exhibirse copia de la instancia no resuelta por la autoridad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 208.
+
+Se comunicará a las autoridades demandadas la resolución por la que se deseche una demanda, remitiéndoles copia de ésta si la hubiere.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+#### SECCION QUINTA. DE LOS INCIDENTES
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 209.
+
+Admitida la demanda se correrá traslado de ella a las partes, notificándola y emplazándola para que la contesten dentro del término de 10 días. En el mismo acuerdo citará para la audiencia del juicio dentro de un plazo que no excederá de 30 días y dictará las demás providencias que procedan de acuerdo a la Ley. Cuando los demandados fueren varios el término correrá a las partes individualmente. El demandado contestará dentro del término legal los puntos cuestionados aún cuando se interponga el recurso de reclamación en contra del acuerdo que la admitió.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 210.
+
+El demandado, en su contestación, expresará:
+
+I.- Las cuestiones de previo y especial pronunciamiento;
+
+II.- Las consideraciones que a su juicio impidan se emita decisión en cuanto al fondo o demuestren que no ha nacido o se ha extinguido el derecho en que el actor apoya su demanda;
+
+III.- Se referirá concretamente a cada uno de los hechos que el actor le impute de manera expresa, afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo como ocurrieron;
+
+IV.- Se referirá a cada uno de los conceptos de anulación hechos valer en la demanda, expresando las razones por las que los considera ineficaces;
+
+V.- Las pruebas que se proponga rendir, las cuales deberá relacionar con cada uno de los hechos controvertidos.
+
+Cuando se trate de pruebas periciales o testimoniales, indicará los nombres de los peritos o de los testigos y acompañará los interrogatorios para el desahogo; sin el cumplimiento de estos requisitos no se tendrán por ofrecidas.
+
+Se presentará con la contestación de la demanda el documento o documentos que el demandado ofrezca como prueba o indicará el archivo o lugar en que se encuentren para que se mande a expedir copia de ellos o se requiera su remisión, cuando ésta sea legalmente posible. El demandado presentará copia de su contestación para cada una de las partes y su omisión dará lugar a que el magistrado lo requiera para que exhiba las copias necesarias dentro del plazo de cinco días apercibiéndolo de que se tendrá por no contestada la demanda en caso de incumplimiento, y
+
+VI.- Los fundamentos de derecho que considere aplicables para apoyar la validez de la resolución o acto impugnado. No podrán cambiarse los fundamentos de derecho de la resolución impugnada, en caso de negativa ficta, la autoridad expresará los hechos y el derecho en que se apoya la misma.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 211.
+
+Se presumirán ciertos, salvo que por las pruebas rendidas resulten desvirtuados, los hechos que el actor impute de manera precisa el demandado, en los siguientes casos:
+
+a).- Cuando no se produzca la contestación dentro del plazo a que alude el artículo 209;
+
+b).- Cuando la contestación no se refiera correctamente a los hechos afirmados por el actor, que sean propios del demandado;
+
+c).- Cuando sin causa justificada el demandado no exhiba los documentos ofrecidos por el actor para probar los hechos imputados a aquel, a pesar de haber sido requerido para ello; siempre que dichos documentos hayan sido identificados con toda precisión tanto en sus características como en su contenido.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 212.
+
+Dentro del mismo plazo de diez días que señala el artículo 209, el tercero interesado y el coadyuvante a que alude la parte final del artículo 194, podrán apersonarse en el juicio mediante un escrito respecto el cual será aplicable lo dispuesto en los artículos anteriores.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+#### SECCION SEXTA. DE LOS CASOS DE IMPROCEDENCIA Y SOBRESEIMIENTO
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 200 (SIC).- Es improcedente el juicio ante el Tribunal Fiscal:
+
+I.- Contra resoluciones o actos que no afecten los intereses jurídicos del actor;
+
+II.- Contra resoluciones o actos que sean materia de otro juicio que se encuentre pendiente de resolución ante el Tribunal Fiscal, o que hayan sido materia de sentencia pronunciada por el mismo Tribunal, siempre que hubiere identidad de parte y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas;
+
+III.- Contra resoluciones o actos consentidos, expresa o tácticamente, entendiéndose por éstos últimos aquellos contra los que no se promovió el juicio dentro de los plazos señalados en este Código;
+
+IV.- Contra las resoluciones o actos respecto de los cuales concede este Código o la Ley Fiscal especial, algún recurso, medio de defensa ante las autoridades administrativas, o deban ser revisadas de oficio, por virtud del cual puedan ser modificadas, revocadas o nulificadas, aún cuando la parte interesada no la hubiese hecho valer oportunamente. No opera esta causa de improcedencia cuando las disposiciones respectivas declaren expresamente que es optativa la interposición de algún recurso o medio de defensa ante las autoridades administrativas;
+
+V.- Contra resoluciones, o actos administrativas que hayan sido impugnados en un procedimiento judicial;
+
+VI.- Contra ordenamientos que dan normas o instrucciones de carácter general o abstracto, sin haber sido aplicados concretamente al promovente;
+
+VII.- Cuando de las constancias de autos apareciera claramente que no existe la resolución o el acto impugnado;
+
+VIII.- Contra resoluciones administrativas en que se determinen créditos fiscales conexos a otro que haya sido impugnado por medio del recurso de revocación a que se refiere el artículo 214 de este Código;
+
+Para efectos de esta fracción, se entiende que hay conexidad siempre que concurren las causas de acumulación previstas en el artículo 214 de este Código; y
+
+IX.- En los demás casos en que la improcedencia resulte de alguna imposición de este Código o de las Leyes Fiscales especiales.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 213.
+
+En los juicios que se transmiten ante el Tribunal Fiscal y Administrativo, sólo se admitirán como incidente de previo y especial pronunciamiento, los relativos a la acumulación de autos, la nulidad de actuaciones, la recusación por causa de impedimento y la incompetencia por razón de territorio.
+
+Todas las cuestiones diversas a la acumulación de autos, a la nulidad de actuaciones, recusación por causa de impedimento, incompetencia por razón de territorio, suspensión del procedimiento de ejecución o rechazo de la garantía ofrecida, se reservaran para la audiencia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 214.
+
+Procede la acumulación, aunque las partes sean diversas y se invoquen distintas violaciones legales, cuando estén pendientes de resolución dos, o más juicios intentados contra el mismo acto o contra varios puntos decisorios de una misma resolución, o contra actos que, aunque diversos, sean unos antecedentes o consecuencia de los otros. También procederá la acumulación cuando las partes sean las mismas y se invoquen idénticas violaciones legales.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 215.
+
+La acumulación se tramitará de oficio o a petición de parte ante el magistrado instructor que conozca del juicio que se haya promovido primero, en una sola audiencia en la que se hará la relación de los autos, se oirán los alegatos y la sala dictará la determinación que corresponda.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 216.
+
+Entre tanto se resuelva sobre la acumulación, se suspenderá el procedimiento en los juicios respectivos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 217.
+
+Las solicitudes de acumulación notoriamente infundadas, se desecharán de plano. Decretada la acumulación, pasarán todos los autos a la sala que conozca del asunto que se haya presentado primero.
+
+Cuando no pueda decretarse la acumulación por haberse cerrado la instrucción en uno de los juicios o por encontrarse en diversas instancias, a petición de parte se decretará la suspensión del procedimiento en el juicio de nulidad en trámite. La suspensión del procedimiento en el juicio de nulidad en trámite subsistirá hasta que se pronuncie la resolución definitiva en el otro negocio.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 218.
+
+Si la autoridad niega la suspensión del procedimiento de ejecución o rechaza la garantía ofrecida, podrá promoverse, hasta antes de notificarse la resolución que ponga fin a la instancia ante el Tribunal Fiscal, el incidente respectivo ante la sala en que esté radicado el juicio.
+
+La Tesorería Municipal podrá promover el mismo incidente para combatir las decisiones dictadas por las autoridades fiscales en materia de suspensión, que no se ajuste a las normas legales aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 219.
+
+Promovido el incidente a que se refiere el artículo anterior, el magistrado instructor correrá traslado a la autoridad que haya negado la suspensión, rechazado la garantía o haya dictado la decisión impugnada, por el término de tres días y citará, a una audiencia de pruebas y alegatos dentro del décimo quinto día, en la que la sala dictará la resolución que corresponda.
+
+Si la autoridad no contesta el traslado o no se refiere a todos los hechos en su contestación, se presumirán ciertos, salvo prueba en contrario, los hechos que el promovente impute de manera precisa y se impondrá a aquella autoridad una multa de $100.00 a $1,000.00.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+#### SECCION SEPTIMA. DE LAS PRUEBAS
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 221.
+
+Procede el sobreseimiento del juicio:
+
+I.- Cuando el demandante se desista del juicio;
+
+II.- Cuando durante el juicio apareciere o sobreviniese algunas de las causas de improcedencia a que se refiere el artículo anterior; y
+
+III.- En los demás casos en que por disposición legal haya impedimento para emitir resolución en cuanto al fondo.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+#### SECCION OCTAVA. DE LA AUDIENCIA
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 222.
+
+En los juicios que se tramiten ante el Tribunal Fiscal serán admisibles toda clase de pruebas, excepto la de "confesión" de las autoridades y las que no hayan sido ofrecidas ante la autoridad demandada en la fase oficiosa del procedimiento, salvo que en ésta no hubiese habido oportunidad legal de hacerlo.
+
+No se considerará comprendida en esa prohibición la petición de informes a las autoridades fiscales respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 223.
+
+El tribunal gozará de las más amplia libertad para ordenar la práctica de cualquier diligencia que tenga relación con los puntos controvertidos y para pedir o aceptar la exhibición de cualquier documento.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 224.
+
+Cuando se planteen cuestiones de carácter técnico, el tribunal de oficio, deberá exigir que se rinda prueba pericial.
+
+La audiencia podrá suspenderse o diferirse de oficio a solicitud de alguna de las partes, cuando exista motivo fundado, a juicio del tribunal.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 225.
+
+La recepción de las pruebas se hará en la audiencia de acuerdo a las siguientes reglas; y en lo previsto se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado:
+
+I.- Las posiciones se articularán precisamente en el acto de las audiencias y no se requerirá segunda citación para tener por confeso al absolvente que no concurra sin causa justificada.
+
+Cuando la persona que deba absolver las posiciones radique fuera de la población donde tenga asiento la sala respectiva y no tenga constituido en ésta apoderado con facultad de absolverlos, la diligencia se encomendará al Juez de primera instancia de la jurisdicción que corresponda;
+
+II.- La impugnación de los documentos exhibidos por las partes se hará conforme a las siguientes reglas:
+
+a).- Los exhibidos con la demanda, en el escrito de contestación;
+
+b).- Los presentados con la contestación, dentro del plazo de 5 días contados a partir del día siguiente al en que surta efectos la notificación del acuerdo que tengan por contestada la demanda; y
+
+c).- En que los demás casos, dentro de los 5 días siguientes al en que surta efectos la notificación del auto que tenga por exhibidos los documentos;
+
+III.- La prueba pericial se rendirá en la audiencia. Los peritos dictaminarán por escrito u oralmente. Las partes y el Tribunal les pueden formular observaciones y hacerles las preguntas que estimen pertinentes en relación con los puntos sobre los que dictaminen.
+
+El perito tercero, será designado por el Tribunal.
+
+Cuando haya lugar a designar perito tercero o valuador, el nombramiento deberá recaer de preferencia en institución bancaria, debiéndose cubrir sus honorarios por las partes.
+
+IV.- No será impedimento para intervenir como testigo, el hecho de desempeñar un empleo o cargo público;
+
+V.- Para el examen de los testigos se calificarán previamente los cuestionarios, no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes; tendrán relación directa con los puntos controvertidos y no serán contrarios al derecho o a la moral. Deberán estar concebidos en términos claros y precisos procurando que en una sola no se comprenda más que un hecho. El Tribunal deberá cuidar de que se cumplan estas condiciones, impidiendo preguntas que las contraríen;
+
+VI.- La protesta y el examen de los testigos se hará en presencia de las partes que concurrieron. Interrogará el promovente de la prueba y a continuación los demás litigantes; y
+
+VII.- Se apreciará la resolución impugnada, tal y como aparezca probada ante la autoridad fiscal, a menos que ésta se haya negado a admitir pruebas que se le ofrecieron, o que en la fase oficiosa del procesamiento tributario no haya tenido el actor oportunidad de ofrecerlas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 226.
+
+La valorización de las pruebas se hará de acuerdo con las disposiciones del Código de Procedimiento Civiles del Estado, con las siguientes modificaciones:
+
+I.- El valor probatorio de los dictámenes periciales, inclusive el de los avalúos, será calificado por el Tribunal según circunstancias;
+
+II.- Cuando por el enlace de las pruebas rendidas y de las presunciones formadas el Tribunal adquiera convicción distinta acerca de los hechos materia de litigio, podrá no sujetarse a los preceptos del Código, pero deberá entonces fundar cuidadosamente esta parte de su sentencia;
+
+III.- El Tribunal podrá invocar los hechos notorios, aunque respecto de ellos no se rinda prueba alguna; y
+
+IV.- No se presumirán válidos los actos o resoluciones de la autoridad administrativa no impugnados de manera expresa en la demanda, o aquellos respecto de los cuales, aunque impugnados, no se allegaren elementos de prueba para acreditar su ilegalidad.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+#### SECCION NOVENA. DE LA SENTENCIA
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 227.
+
+El orden de la audiencia será el siguiente:
+
+I.- Se dará cuenta con las reclamaciones de las partes y con cualquier cuestión incidental suscitada durante la tramitación del juicio; al efecto, se recibirán las pruebas y se escucharán los alegatos de las partes sobre el particular. Acto continuo la sala pronunciará la resolución que proceda, ordenando, en su caso, que se practiquen las diligencias omitidas;
+
+II.- Si la resolución de las reclamaciones o de los incidentes no trae como consecuencia el que deba suspenderse la audiencia, se leerán la demanda, la contestación y las demás constancias de autos;
+
+III.- Se estudiarán, aún de oficio, los sobreseimientos que procedan respecto de las cuestiones que impidan se emita una decisión en cuanto al fondo y se dictará la resolución que corresponda;
+
+IV.- En su caso, se recibirán las pruebas que hayan sido ofrecidas con relación a la validez o nulidad del acuerdo o procedimiento impugnado;
+
+Los magistrados podrán formular toda clase de preguntas respecto a las cuestiones debatidas a las partes o sus representantes, así como a los testigos y peritos; y
+
+V.- Se oirán los alegatos del actor, de la parte demandada, del tercero interesado y del coadyuvante que se pronunciará en ese orden.
+
+Las partes podrán presentar tales alegatos por escrito. Cuando se formulen de palabra no podrán exceder de media hora para cada una de las partes.
+
+Las promociones que las partes formulen en una audiencia, así como sus oposiciones contra los acuerdos que en ellas se dicten, se resolverán de plano.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 228.
+
+Con excepción de alegatos, se tomará versión taquigráfica de la audiencia, misma versión que se agregará a los autos después de revisada, bajo la responsabilidad del Secretario respectivo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 229.
+
+La audiencia deberá suspenderse cuando no se haya resuelto los incidentes de previo y especial pronunciamiento. También podrá suspenderse, prorrogarse de oficio o a solicitud de alguna de las partes, cuando exista motivo fundado, a juicio de la Sala.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 230.
+
+Instruido el proceso y declarados vistos los autos, el magistrado formulará el proyecto de sentencia dentro de los 15 días siguientes.
+
+Los demás magistrados integrantes de la sala deberán emitir su voto dentro de los diez días siguientes a la fecha en que se les entregue el proyecto.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 231.
+
+Los proyectos tendrán el carácter de reservados. Los magistrados, secretarios, actuarios y empleados administrativos incurrirán en responsabilidad si dan a conocer a alguna de las partes, o a un tercero, el sentido del proyecto.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 232.
+
+Si la mayoría está de acuerdo con el proyecto del magistrado, lo firmarán y quedará elevado a la categoría de sentencia. Cuando la mayoría esté de acuerdo con el proyecto, el magistrado disidente podrá formular voto particular razonado, pidiendo al efecto los autos por un plazo de ocho días, o bien, podrá limitarse a expresar que vota en contra del proyecto.
+
+Si el proyecto del magistrado no fuere aceptado por los otros magistrados, de manera que éstos constituyan mayoría, se formularán el fallo con los argumentos de la mayoría y el proyecto podrá quedar como voto particular del magistrado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 233.
+
+Serán causas de anulación de una resolución o de un procedimiento administrativo:
+
+a).- Incompetencia del funcionario o empleado que haya dictado el acuerdo o que haya tramitado el procedimiento impugnado;
+
+b).- Omisión o incumplimiento de las formalidades que legalmente deba revestir la resolución o el procedimiento impugnado;
+
+c).- Violación de la disposición aplicada, o no haberse aplicado la disposición debida; y
+
+d).- Desvío de poder tratándose de sanciones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 234.
+
+Las sentencias del Tribunal Fiscal y Administrativo se fundarán en derecho y examinarán todos y cada uno de los puntos controvertidos de la resolución, la demanda y la contestación; en sus puntos resolutivos expresarán con claridad los actos o procedimientos cuya nulidad se declare o cuya validez se reconozca. Causan estado las sentencias que no admitan recurso.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 235.
+
+Cuando la sentencia declare la nulidad y salvo que se limite a mandar reponer el procedimiento o reconocer la ineficacia del acto en los casos en que la autoridad haya demandado la anulación de una resolución favorable a un particular, indicará los términos conforme a los cuales deba dictar su nueva resolución a la autoridad fiscal.
 
 ## TRANSITORIOS
 
@@ -1642,3 +2370,19 @@ Diputado Secretario.- PROFR. ANTONINO MARTINEZ HERNANDEZ.- Rúbrica.
 Diputado Secretario.- LIC. EDMUNDO PANIAGUA VARGAS.- Rúbrica.
 
 El Gobernador Constitucional del Estado.- ARQ. GUILLERMO ROSSELL DE LA LAMA.- Secretario General de Gobierno.- ROBERTO VALDESPINO CASTILLO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 30 DE DICIEMBRE DE 1983.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el 1º. de Enero de 1984.
+
+###### ARTICULO SEGUNDO.
+
+Deberá ordenarse la publicación de este Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
