@@ -4,7 +4,7 @@ identifier: "COL-ley-de-aguas-para-el-estado-de-colima-antes-ley-para-18298"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-22"
-last_updated: "1996-12-21"
+last_updated: "1997-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DE AGUAS PARA EL ESTADO DE COLIMA- ANTES LEY PARA REGULAR LA PRESTACION DEL SERVICIO PUBLICO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO PARA EL ESTADO DE COLIMA-
 
-LEY PARA REGULAR LA PRESTACION DEL SERVICIO PUBLICO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO PARA EL ESTADO DE COLIMA
+LEY DE AGUAS PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1997.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Colima", el sábado 22 de julio de 1995.
 
@@ -45,27 +45,41 @@ DECRETO No. 109
 
 Se aprueba la Ley para Regular la Prestación del Servicio Público de Agua Potable, Alcantarillado y Saneamiento para el Estado de Colima, en los siguientes términos:
 
-LEY PARA REGULAR LA PRESTACION DEL SERVICIO PUBLICO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO PARA EL ESTADO DE COLIMA.
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+LEY DE AGUAS PARA EL ESTADO DE COLIMA
 
 ## TITULO PRIMERO. GENERALIDADES
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 1o.
 
-Las disposiciones de esta Ley son de orden público e interés social y regulan en el Estado de Colima los servicios públicos de agua potable, alcantarillado y saneamiento.
+Las disposiciones de esta Ley son de orden público e interés social y regulan en el Estado de Colima los servicios públicos de agua potable y alcantarillado, los servicios de agua distintos al doméstico y de saneamiento.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
 ###### ARTICULO 2o.
 
 Esta Ley tiene por objeto regular:
 
-I.- El sistema estatal de agua potable, alcantarillado y saneamiento;
+I.- El sistema estatal de agua, alcantarillado y saneamiento;
 
-II.- La prestación de los servicios públicos de agua potable, alcantarillado y saneamiento;
+II.- La prestación de los servicios públicos de agua potable y alcantarillado;
 
-III.- La organización y funcionamiento de los organismos operadores del sistema de agua potable, alcantarillado y saneamiento; y
+III.- La prestación del servicio de agua para usos no domésticos;
 
-IV.- La recuperación de los gastos y costos de inversión, operación, conservación y mantenimiento del sistema de agua potable, alcantarillado y saneamiento.
+IV.- La prestación del servicio de saneamiento;
+
+V.- La organización, funcionamiento y atribuciones de la Comisión Estatal del Agua y de los Organismos Operadores Municipales e Intermunicipales;
+
+VI.- La recuperación de los gastos y costos de inversión, operación, conservación y mantenimiento del sistema de agua potable, alcantarillado y saneamiento;
+
+VII.- La participación del sector social en la prestación de los servicios públicos de agua potable y alcantarillado, y de los servicios de saneamiento, en su caso; y
+
+VIII.- Las relaciones entre las autoridades, los prestadores de servicios públicos de agua potable y alcantarillado, o de los servicios de saneamiento, en su caso, los contratistas y los usuarios de dichos servicios;
 
 ###### ARTICULO 3o.
 
@@ -75,9 +89,21 @@ I.- Organismos operadores municipales;
 
 II.- Organismos operadores intermunicipales; y
 
-III.- Comisión de Agua Potable y Alcantarillado del Estado de Colima.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+III.- Comisión Estatal del Agua; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+IV.- Organismos privados como concesionarios.
 
 Los organismos señalados en las fracciones I y III del presente artículo formarán, respectivamente, parte de la administración paramunicipal y de la administración paraestatal, a efecto de prestar los servicios objeto de esta ley.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+ARTICULO 3o BIS.- Los servicios públicos y de saneamiento serán prestados en condiciones que aseguren su continuidad, regularidad, calidad y cobertura, de manera que se logre la satisfacción de las necesidades de los usuarios y la protección del medio ambiente.
+
+Corresponde al organismo operador o a los prestadores de los servicios el tratamiento de las aguas residuales, previa a su descarga a cuerpos receptores de propiedad nacional, de conformidad con lo dispuesto con la legislación aplicable.
 
 ###### ARTICULO 4o.
 
@@ -85,15 +111,29 @@ Para los efectos de esta Ley, se entenderá por:
 
 I.- Ley, al presente ordenamiento;
 
-II.- Sistema, al Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+II.- Sistema, Al Sistema Estatal del Agua, Alcantarillado y Saneamiento;
 
 III.- Gobernador, al Titular del Poder Ejecutivo del Estado;
 
-IV.- Comisión Estatal, a la Comisión de Agua Potable y Alcantarillado del Estado de Colima;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
-V.- Organismo operador, al organismo operador municipal o intermunicipal que preste los servicios de agua potable, alcantarillado y saneamiento en determinada circunscripción territorial.
+IV.- Comisión Estatal, a la Comisión Estatal del Agua de Colima;
 
-### CAPITULO II. SISTEMA ESTATAL DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
+V.- Organismo operador, al organismo operador municipal o intermunicipal que preste los servicios de agua potable, alcantarillado y saneamiento en determinada circunscripción territorial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+VI.- Servicios públicos, al servicio público de agua potable y alcantarillado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+VII.- Prestadores de servicios, a las empresas privadas o contratistas de obra a quienes se concesione la prestación de los servicios públicos o la ejecución de obras de infraestructura hidráulica para la prestación de los mismos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+### CAPITULO II. SISTEMA ESTATAL DEL AGUA
 
 ###### ARTICULO 5o.
 
@@ -103,7 +143,9 @@ I.- La propuesta, formulación y ejecución de las políticas que orienten el fo
 
 II.- La planeación y programación hidráulica en el Estado;
 
-III.- La prestación de los servicios públicos de agua potable, alcantarillado y saneamiento en la entidad;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+III.- La prestación de los servicios públicos de agua potable y alcantarillado, y de los servicios de agua de uso no doméstico y de saneamiento en la entidad;
 
 IV.- Los sistemas de regulación, captación, conducción, potabilización, acondicionamiento para uso y consumo humano, almacenamiento y distribución de agua; así como la colección, desalojo, tratamiento de aguas residuales y el manejo de lodos;
 
@@ -111,7 +153,9 @@ V.- Las obras destinadas a dichos servicios públicos, tanto en su estudio, dise
 
 VI.- La administración a través de organismos operadores de los servicios de agua potable, alcantarillado y saneamiento, así como la participación de los sectores privado y social en la prestación de los mismos y en la construcción y operación de las obras relativas;
 
-VII.- El uso eficiente y la operación, mantenimiento y rehabilitación responsable de la red de distribución de agua potable, de alcantarillado o drenaje sanitario, para atender oportunamente la demanda y evitar fugas o filtraciones en el sistema;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+VII.- El uso eficiente y la operación, mantenimiento y rehabilitación adecuada de la red de distribución de agua, alcantarillado o drenaje sanitario, para atender oportunamente la demanda y evitar fugas o filtraciones en el sistema;
 
 VIII.- La planeación, promoción, estímulo y, en su caso, ejecución de las acciones para el tratamiento de aguas residuales y manejo de lodos, y las que sean necesarias para la prevención y control de la contaminación del agua;
 
@@ -123,15 +167,21 @@ XI.- La corresponsabilidad de la administración pública estatal y municipal y 
 
 XII.- Las acciones encaminadas a preservar el equilibrio ecológico y protección del ambiente con motivo de la realización de las actividades señaladas en las fracciones anteriores.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 6o.
 
-El Gobernador y los ayuntamientos deberán coordinarse para su participación en el establecimiento y desarrollo del Sistema.
+La facultad de administración, operación y ejecución de políticas y acciones en materia de aguas de jurisdicción estatal y de sus bienes públicos corresponde al Ejecutivo del Estado. Dichas facultades y demás atribuciones que le confiere esta Ley, las ejercerá directamente o a través de la Comisión Estatal del Agua.
 
-La administración descentralizada estatal y municipal participarán en dicho Sistema, en los términos previstos en la presente Ley.
+El Gobernador del Estado y los Ayuntamientos deberán coordinarse para su participación en el establecimiento y desarrollo del Sistema.
+
+La administración descentralizada estatal y municipal participarán en dicho Sistema, en los términos previstos en la presente ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
 ###### ARTICULO 7o.
 
-Los Ayuntamientos tendrán a su cargo:
+Es función de los Ayuntamientos:
 
 I.- Prestar, con el concurso del Estado en los términos previstos por esta Ley, los servicios de agua potable, alcantarillado y saneamiento en sus jurisdicciones, a través de los organismos operadores municipales respectivos o de los organismos que se constituyan en virtud de la coordinación y asociación de dos o más municipios, o bien convenir con el Estado para que éste los preste, por conducto de la Comisión Estatal;
 
@@ -147,31 +197,79 @@ VI.- Las demás que le otorguen ésta u otras disposiciones legales.
 
 Las atribuciones anteriores se ejercerán a través de los organismos operadores municipales a que se refiere esta Ley.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 8o.
 
-El Gobernador tendrá a su cargo:
+Corresponde al Gobernador del Estado;
 
-I.- Establecer, con la participación de los Ayuntamientos, las políticas, estrategias, objetivos, programas y normas para el óptimo aprovechamiento del agua en el Sistema y su justa distribución y uso entre las diversas comunidades;
+I.- Definir la política hidráulica escuchando la opinión de los Ayuntamientos y aprobar el Programa Hidráulico del Estado de Colima, acorde al Plan Hidráulico Nacional;
 
-II.- Coordinarse, en su caso, con las autoridades federales y municipales a efecto de participar en la planeación, programación, diseño, construcción, control y evaluación de obras, para crear los sistemas de abastecimiento de agua potable y desalojo y utilización de aguas residuales en las localidades de la entidad
+II.- Establecer, con la participación de los Ayuntamientos, las políticas estrategias, objetivos, programas y normas para el óptimo aprovechamiento del agua en el sistema y su justa distribución y uso entre las diversas comunidades;
 
-III.- Participar con los Ayuntamientos, en los términos de esta Ley, en la prestación de los servicios de agua potable y alcantarillado;
+III.- Coordinarse, en su caso, con las Autoridades Federales y Municipales a efecto de participar en la planeación, programación, diseño, construcción, control y evaluación de obras, para crear los sistemas de abastecimiento de agua y desalojo y utilización de aguas residuales en la entidad;
 
-VI.- Coadyuvar en la vigilancia de la prestación y el funcionamiento de los servicios, para que éstos se realicen eficaz y adecuadamente; y
+IV.- Participar con los Ayuntamientos, en los términos de esta Ley, en la prestación de los servicios públicos de agua potable y alcantarillado, y de los servicios de saneamiento;
 
-V.- Las demás que ésta u otras leyes le confieran.
+V.- Coadyuvar en la vigilancia de la prestación y el funcionamiento de los servicios públicos, para que éstos se realicen eficaz y adecuadamente;
 
-Las atribuciones anteriores las podrá ejercitar el Gobernador directamente o a través de la Comisión Estatal.
+VI.- Reglamentar el control y utilización de aguas de jurisdicción estatal en términos de esta Ley y demás disposiciones aplicables;
 
-###### ARTICULO 9.
+VII.- Decretar, por causa de utilidad pública la expropiación u ocupación temporal, total o parcial de los bienes o la limitación de los derechos de dominio sobre los mismos para cumplir con los objetivos que establece esta Ley;
 
-Las autoridades estatales y municipales se podrán coordinar con las autoridades federales competentes, para el efecto de que el Sistema tome en consideración, en materia de agua potable, alcantarillado y saneamiento, los lineamientos emanados del Sistema Nacional de Planeación Democrática, así como para que el gobierno federal proporcione la asistencia técnica que se le solicite, en los proyectos de las obras en las materias a que se refiere este artículo, a fin de asegurar la compatibilidad de los sitios de entrega y recepción del agua en bloque, la eficiencia de la operación de las obras y el mejor aprovechamiento del agua, así como para el ejercicio de atribuciones que les correspondan.
+VIII.- Programar, ejecutar y promover acciones para la construcción de infraestructura que permita el uso eficiente del agua y la energía eléctrica, dentro del marco de desarrollo sustentable;
+
+IX.- Fomentar la ejecución de programas que permitan el mejoramiento, mantenimiento y ampliación de la infraestructura hidráulica agrícola;
+
+X.- Promover la sustitución de agua clara por aguas residuales tratadas para uso agrícola en el marco de la Ley de Aguas Nacionales;
+
+XI.- Coadyuvar con la federación en la ejecución de acciones para la modernización y rehabilitación de las unidades y distritos de riego;
+
+XII.- Participar en apoyo de la federación en la supervisión de la operación, conservación y administración de la red mayor del distrito de riego transferido a las asociaciones o sociedades de usuarios;
+
+XIII.- Llevar la estadística e hidrometría de la red menor agrícola;
+
+XIV.- Realizar diagnósticos y estudios de factibilidad técnica para la modernización y rehabilitación de los distritos y unidades de riego;
+
+XV.- Evaluar periódicamente el funcionamiento de las asociaciones y sociedades de usuarios de agua para uso agrícola;
+
+XVI.- Brindar la asistencia técnica en materia de ingeniería de riego y drenaje que requieran las asociaciones y sociedades de usuarios para eficientar la operación, conservación y administración que realicen éstos en los distritos y unidades de riego;
+
+XVII.- Estudiar, proyectar y construir las obras hidráulicas para uso distinto al riego, en el ámbito de su jurisdicción;
+
+XVIII.- Programar y realizar obras menores para el control de avenidas, previa aprobación de los proyectos y la supervisión de las mismas por la Comisión Nacional del Agua, así como ejecutar las que le asigne dicha dependencia;
+
+XIX.- Realizar los estudios y proyectos y efectuar la construcción de obras hidráulicas rurales y de protección rural, que sean previamente autorizadas por la Comisión Nacional del Agua;
+
+XX.- Supervisar a los organismos operadores en la prestación de los servicios públicos de agua potable, proporcionando apoyo técnico, material y financiero, a fin de garantizar el suministro de agua desinfectada a la población;
+
+XXI.- Promover entre la población la adopción de medidas para evitar la contaminación de las fuentes de abastecimiento de agua potable;
+
+XXII.- Promover y apoyar la ejecución de campañas de limpieza de residuos sólidos en cauces y zonas federales de áreas urbanas y fomentar la realización de programas de saneamiento básico rural que incluya la letrinización;
+
+XXIII.- Coadyuvar con las autoridades del Sector Salud en la vigilancia de la calidad del agua industrializada que en estado líquido y sólido se expenda para consumo humano;
+
+XXIV.- Coadyuvar con la Comisión Nacional del Agua, en la vigilancia para evitar que con las aguas residuales sin tratar, se rieguen cultivos agrícolas, a efecto de que se cumpla con las normas oficiales y la legislación correspondiente;
+
+XXV.- Ejercer operativamente los programas para el control de malezas acuáticas y promover la participación de los usuarios y de las dependencias municipales en la ejecución de dichas acciones;
+
+XXVI.- Celebrar convenios y acuerdos de coordinación con las autoridades federales y municipales para ejercer las atribuciones que les sean transferidas por delegación, en apoyo y participación; y
+
+XXVII.- Las demás que esta y otras leyes le confieran.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+###### ARTICULO 9o.
+
+Las autoridades estatales y municipales se podrán coordinar con las autoridades federales competentes, para el efecto de que el Sistema tome en consideración, en materia de agua potable, y de uso no doméstico, alcantarillado y saneamiento, los lineamientos emanados del Sistema Nacional de Planeación Democrática, así como para que el gobierno federal proporcione la asistencia técnica que se le solicite, en los proyectos de las obras en las materias a que se refiere este artículo, a fin de asegurar la compatibilidad de los sitios de entrega y recepción del agua en bloque, la eficiencia de la operación de las obras y el mejor aprovechamiento del agua, así como para el ejercicio de atribuciones que les correspondan.
 
 Igualmente, se podrá convenir entre autoridades estatales y municipales la asistencia técnica que aquéllas les presten a éstas o a sus organismos operadores.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 10.
 
-Los usos específicos correspondientes a la prestación del servicio de agua potable, son:
+Los usos específicos del agua de jurisdicción estatal, son:
 
 I.- Domésticos, considerándose como tales los contratados para casa-habitación;
 
@@ -181,17 +279,27 @@ III.- Industriales, los que se utilicen en los giros considerados por la Cámara
 
 IV.- Comerciales, los que se utilicen en los giros considerados por la Cámara Nacional de Comercio; y
 
-V.- Otros.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+V.- Agrícola, considerándose como tal los destinados para el uso en actividades productivas del campo; y
+
+VI.- Otros.
 
 Salvo el uso doméstico que siempre tendrá preferencia en relación a los demás, el orden de prelación para la prestación del servicio se podrá variar por el ayuntamiento respectivo.
 
-7ARTICULO (SIC) 11.- Con el objeto de reducir la contaminación y atender la degradación de la calidad original de las aguas dentro del Sistema, las autoridades estatales y municipales, así como los organismos a que se refiere la presente Ley, en el ámbito de su competencia, promoverán el establecimiento de sistemas de potabilización y, en su caso, de tratamiento de aguas residuales y manejo de lodos, así como el fomento de sistemas alternos que sustituyan al alcantarillado sanitario, cuando éste no pueda construirse; y la realización de las acciones necesarias para conseguir y mantener un adecuado nivel de calidad de las aguas.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+###### ARTICULO 11.
+
+Con el objeto de reducir la contaminación y atender la degradación de la calidad original de las aguas dentro del sistema, las autoridades estatales y municipales, la Comisión Estatal y los organismos operadores a que se refiere esta ley, en el ámbito de su competencia promoverán el establecimiento de sistemas de potabilización y de tratamiento de aguas residuales y manejo de lodos, así como el fomento de sistemas alternos que sustituyan al alcantarillado sanitario, cuando éste no pueda construirse; y la realización de acciones necesarias para conseguir y mantener un adecuado nivel de calidad de las aguas.
 
 ###### ARTICULO 12.
 
 Para los efectos del artículo anterior, las autoridades y organismos a que el mismo se refiere, en coordinación con las autoridades federales competentes y atento a lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley de Preservación Ambiental del Estado, podrán:
 
-I.- Otorgar el permiso para efectuar las descargas de aguas residuales en los sistemas de drenaje o alcantarillado respectivo, a las personas físicas o morales que por el uso o aprovechamiento de agua en actividades productivas produzcan su contaminación, en los casos y en los términos y condiciones que se señalen en esta Ley y su reglamento;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+I.- Otorgar el permiso para efectuar descargas de aguas residuales en los sistemas de drenaje o alcantarillado respectivo, a las personas físicas o morales que por el uso o aprovechamiento de agua en actividades productivas produzcan contaminación, en los casos, en los términos y condiciones que se señalen en esta ley y su reglamento, así como definir los parámetros máximos de contaminación aceptables para la descarga e inspeccionar que la calidad de las aguas provenientes del aprovechamiento en actividades productivas, que se descarguen a las redes de alcantarillado sanitario cumplan con las disposiciones legales vigentes en materia de calidad de agua residual que se vierta a los alcantarillados;
 
 II.- Ordenar, cuando sea necesario, a los que utilicen y contaminen los recursos hidráulicos del Estado con motivo de su operación o durante sus procesos productivos, el tratamiento de aguas residuales y manejo de lodos, antes de su descarga al drenaje o alcantarillado;
 
@@ -199,37 +307,65 @@ III.- Determinar qué usuarios están obligados a construir y operar plantas de 
 
 IV.- Establecer las cuotas o tarifas que deberán cubrir las personas que realizan actividades productivas susceptibles de producir contaminación del agua o producir o generar aguas residuales, por el servicio de drenaje y alcantarillado que utilizan para hacer sus descargas y para el tratamiento de aguas residuales de origen urbano, que se deba efectuar conforme a la ley antes de su descarga en ríos, cuencas, vasos, aguas marinas y demás depósitos o corrientes de agua, incluyendo las aguas del subsuelo y en general en bienes nacionales;
 
-V.- Vigilar y promover la aplicación de las disposiciones y normas sobre equilibrio ecológico y protección al ambiente, en materia de prevención y control de la contaminación del agua y de los ecosistemas acuáticos, así como el acondicionamiento del agua para uso y consumo humano; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
-VI.- Intervenir en la aplicación de la Ley de Preservación Ambiental del Estado, en los términos de la misma.
+V.- Vigilar y promover la aplicación de las disposiciones y normas sobre equilibrio ecológico y protección al ambiente, en materia de prevención y control de la contaminación del agua y de los ecosistemas acuáticos, así como el acondicionamiento del agua para uso y consumo humano;
 
-Los usuarios de los servicios de agua potable y alcantarillado, deberán tener el permiso a que se refiere la fracción I, para poder efectuar la descarga de aguas residuales provenientes de actividades productivas, a los sistemas de drenaje o alcantarillado, se exceptúa del permiso al uso doméstico.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+VI.- Intervenir en la aplicación de la Ley de Preservación Ambiental del Estado, en los términos de la misma; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+VII.- Cancelar las descargas provenientes de servicios o de industrias cuando no cumplan con los parámetros permitidos de contaminación para la descarga de aguas residuales a las redes de alcantarillado sanitario, de conformidad con lo establecido en esta Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+Los usuarios de los servicios de agua y alcantarillado, deberán tener el permiso a que se refiere la fracción I, para poder efectuar la descarga de aguas residuales provenientes de actividades productivas, a los sistemas de drenaje o alcantarillado.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+ARTICULO 12 BIS.- La Comisión Estatal y los Organismos Operadores, prestarán el auxilio y colaboración que le solicite el Gobierno Federal, a través de la Secretaría del Medio Ambiente, Recursos Naturales y Pesca, en la prevención, control, fiscalización e inspección de las actividades que se consideran altamente riesgosas, así como para el manejo y control de los materiales o residuos peligrosos que sean vertidos a los sistemas de drenaje o alcantarillado, conforme a la a la (sic) Ley General de Equilibrio Ecológico y Protección al Ambiente.
+
+No obstante lo anterior, la Comisión Estatal y los Organismos Operadores están obligados a comunicar de inmediato a dichas autoridades de cualquier riesgo inminente de desequilibrio ecológico o de casos de contaminación con repercusiones peligrosas a los ecosistemas, a sus componentes o a la salud pública que tengan conocimiento para que se tomen las medidas de seguridad respectivas.
 
 ###### ARTICULO 13.
 
 Se declara de utilidad pública dentro del Sistema:
 
-I.- El estudio, la planeación, construcción, ampliación, rehabilitación, mantenimiento, administración y recuperación de las obras y servicios necesarios para la operación de los sistemas de captación, conducción, almacenamiento y distribución de agua potable y los de alcantarillado en los centros de población y asentamientos humanos de los municipios del Estado;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
-II.- La adquisición, utilización y aprovechamiento de las obras hidráulicas o bienes de propiedad privada, cuando se requieran para la eficiente operación de los sistemas de captación, conducción, almacenamiento y distribución de agua potable y los de alcantarillado establecidos o por establecer;
+I.- El estudio, la planeación, construcción, ampliación, rehabilitación, mantenimiento, administración y recuperación de las obras y servicios necesarios para la operación de los sistemas de captación, conducción, almacenamiento y distribución de agua y alcantarillado en los centros de población y asentamientos humanos de los municipios del Estado;
 
-III.- La regulación, captación, conducción, acondicionamiento para uso y consumo humano, almacenamiento y distribución del agua, así como la prevención y control de la contaminación de las aguas, la colección, desalojo y el tratamiento de las aguas residuales y el manejo de lodos que se localicen dentro del territorio del Estado, cuando no sean de jurisdicción federal;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
-IV.- La adquisición de los bienes muebles e inmuebles que sean necesarios para la construcción, ampliación, rehabilitación, conservación, mantenimiento, operación y el desarrollo de los sistemas de agua potable y alcantarillado, incluyendo las instalaciones conexas como son los caminos de acceso y las zonas de protección; y
+II.- La adquisición, utilización y aprovechamiento de las obras hidráulicas o bienes de propiedad privada, cuando se requieran para la eficiente operación de los sistemas de captación, conducción, almacenamiento y distribución de agua y los de alcantarillado establecidos o por establecer;
 
-V.- La formación, modificación y manejo tanto de los padrones de usuarios, como de las tarifas conforme a las cuales se cobrará la prestación de los servicios públicos de agua potable, alcantarillado y saneamiento en los distintos sistemas urbanos y rurales del Estado.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+III.- La regulación, captación, conducción, acondicionamiento para uso y consumo humano, agrícola e industrial, el almacenamiento y distribución del agua, así como la prevención y control de la contaminación de las aguas, la recolección, desalojo y el tratamiento de aguas residuales y el manejo de lodos que se localicen dentro del territorio del Estado, cuando no sean de jurisdicción federal;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+IV.- La adquisición de los bienes muebles e inmuebles que sean necesarios para la construcción, rehabilitación, conservación, mantenimiento, operación y el desarrollo de los sistemas de agua y alcantarillado, incluyendo las instalaciones conexas como son los caminos de acceso y las obras de protección, y
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+V.- La formación, modificación y manejo tanto de los padrones de usuarios, como de las tarifas conforme a las cuales se cobrará la prestación de los servicios públicos de agua, alcantarillado y saneamiento en los distintos sistemas urbanos y rurales del Estado.
 
 Para los efectos del presente artículo, los ayuntamientos respectivos promoverán la expropiación de los bienes de propiedad privada; asimismo, el Gobernador, por sí o como consecuencia de la promoción del ayuntamiento correspondiente, podrá expedir el acuerdo de expropiación, sujetándose a las disposiciones de la ley de la materia.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 14.
 
-Los usuarios de los servicios de agua potable y alcantarillado participarán en los sistemas de agua potable del Estado en la planeación, programación, administración, operación, supervisión y vigilancia de los sistemas hidráulicos, en los términos de la presente Ley, a través de organizaciones representativas dentro de la jurisdicción correspondiente; participarán tanto en los órganos consultivos como de gobierno de los organismos operadores.
+Los usuarios de los servicios públicos de agua potable y alcantarillado, y de los servicios de agua para uso no doméstico participarán en la planeación, programación, administración, operación, supervisión y vigilancia de los sistemas hidráulicos, en los términos de la presente Ley, a través de organizaciones representativas dentro de la jurisdicción correspondiente; participarán tanto en los órganos consultivos como de gobierno de los organismos operadores.
 
 Los usuarios, además, podrán:
 
-I.- Formar comités para promover la construcción, conservación, mantenimiento, rehabilitación y operación de los sistemas de agua potable y alcantarillado; y
+I.- Formar comités para promover la construcción, conservación, mantenimiento, rehabilitación y operación de los sistemas de agua y alcantarillado, y
 
-II.- Constituir personas morales a las que se pudiera otorgar en concesión o con las que se pudieran celebrar contratos para construir y operar sistemas, prestar los servicios de agua potable y alcantarillado o administrar, operar, conservar o mantener la infraestructura hidráulica respectiva.
+II.- Constituir personas morales a las que se pudiera otorgar en concesión o con las que se pudieran celebrar contratos para construir y operar sistemas, prestar los servicios de agua y alcantarillado o administrar, operar, conservar o mantener la infraestructura hidráulica respectiva.
 
 ## TITULO SEGUNDO. ADMINISTRACION DESCENTRALIZADA DE LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
 
@@ -257,19 +393,27 @@ Los organismos operadores municipales se podrán convertir en organismos operado
 
 En el caso previsto por el artículo 82 de la Ley Orgánica del Municipio Libre, éste adecuará su estructura y operación para llevar a cabo la normatividad, asistencia, supervisión, control, evaluación e intervención que en apoyo al municipio se requiera, a fin de que la construcción, administración, operación, mantenimiento y desarrollo del sistema de agua potable y alcantarillado, incluyendo el saneamiento, se realice adecuadamente, de conformidad con las disposiciones legales aplicables; asimismo, seguirá ejerciendo los actos de autoridad a que se refiere la presente ley.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 19.
 
-Los organismos operadores municipales contratarán directamente los créditos que se requieran y responderán de sus adeudos con su propio patrimonio y con los ingresos que perciban en los términos de la presente Ley.
+Los organismos operadores municipales contratarán directamente los créditos que se requieran y responderán de sus adeudos con su propio patrimonio y con los ingresos que perciban en los términos de la presente ley. La Comisión Estatal apoyará a dichos organismos en la gestión de líneas de crédito para aplicarlas en el cumplimiento de sus objetivos.
 
 #### SECCION SEGUNDA. ATRIBUCIONES Y PATRIMONIO DE LOS ORGANISMOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 20.
 
-Los organismos operadores municipales tendrán a su cargo:
+Corresponderá a los organismos operadores municipales;
 
-I.- Planear y programar, en el ámbito de su jurisdicción, así como estudiar, proyectar, presupuestar, construir, rehabilitar, ampliar, operar, administrar, conservar y mejorar tanto los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable, como los sistemas de alcantarillado, tratamiento de aguas residuales, reuso de las mismas y manejo de lodos.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
-II.- Proporcionar los servicios públicos de agua potable y alcantarillado a los centros de población y asentamientos humanos de su jurisdicción, en los términos de los convenios y contratos que para ese efecto se celebren;
+I.- Planear y programar en el ámbito de su jurisdicción, así como estudiar, proyectar, presupuestar, construir, rehabilitar, ampliar, operar, administrar, conservar y mejorar tanto los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable, como los sistemas de alcantarillado, tratamiento de aguas residuales, reuso de las mismas y manejo de lodos;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+II.- Proporcionar los servicios públicos de agua potable y saneamiento a los centros de población y asentamientos humanos de su jurisdicción, en los términos de los convenios y contratos que para ese efecto se celebren, y de conformidad con la normatividad municipal, atendiendo a la Ley de Aguas Nacionales y su Reglamento, a la legislación de equilibrio ecológico y protección al ambiente, y a las normas oficiales mexicanas que se emitan con relación a los mismos;
 
 III.- Formular y mantener actualizado el padrón de usuarios de los servicios a su cargo;
 
@@ -281,13 +425,17 @@ VI.- Aplicar las demás sanciones previstas en esta Ley;
 
 VII.- Elaborar los estudios necesarios que fundamenten y permitan la fijación de cuotas y tarifas apropiadas, para el cobro de los servicios, tomando en cuenta la opinión y sugerencias del Consejo Consultivo del propio organismo operador;
 
-VIII.- Realizar las gestiones que sean necesarias a fin de obtener los financiamientos que se requieran para la más completa prestación de los servicios;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+VIII.- Realizar con apoyo de la Comisión Estatal las gestiones que sean necesarias a fin de obtener los financiamientos que se requieran para la más completa prestación de los servicios públicos;
 
 IX.- Solicitar a los ayuntamientos promuevan la expropiación total o parcial de bienes, o limitación de los derechos de dominio, en los términos de la ley de la materia;
 
 X.- Constituir y manejar fondos de reserva para la rehabilitación, ampliación y mejoramiento de los sistemas a su cargo, para la reposición de sus activos fijos, para el servicio de su deuda y para contingencias, en los términos del reglamento interior del organismo;
 
-XI.- Realizar por sí o por terceros las obras para agua potable, alcantarillado y saneamiento de su circunscripción, y recibir las que se construyan en la misma;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+XI.- Realizar por sí o por terceros las obras para agua potable, alcantarillado y saneamiento de su circunscripción y recibir las que se construyan en la misma, comunicando a la Comisión Estatal del inicio de las obras y, del avance físico y financiero;
 
 XII.- Celebrar con personas de los sectores público, social y privado, los convenios y contratos necesarios para el cumplimiento de sus atribuciones, en los términos de la legislación aplicable;
 
@@ -299,7 +447,7 @@ XV.- Rendir anualmente al ayuntamiento respectivo, un informe de las labores del
 
 XVI.- Desarrollar programas de capacitación y adiestramiento para su personal;
 
-XVII.- Establecer las oficinas necesarias dentro de su jurisdicción.
+XVII.- Establecer las oficinas necesarias dentro de su jurisdicción;
 
 XVIII.- Formular y mantener actualizado el inventario de bienes y recursos que integran su patrimonio;
 
@@ -309,7 +457,9 @@ XX.- Ejercer la facultad económico-coactiva, en los términos consignados en la
 
 XXI.- Resolver los recursos y demás medios de impugnación interpuestos en contra de sus actos o resoluciones;
 
-XXII.- Elaborar los estados financieros del organismo y proporcionar la información y documentación que les solicite la autoridad municipal o la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+XXII.- Elaborar los estados financieros del organismo y proporcionar la información y documentación que les solicite la autoridad municipal, la Contaduría Mayor de Hacienda y la Comisión Estatal;
 
 XXIII.- Inspeccionar, verificar y, en su caso, aplicar las sanciones que establece la Ley;
 
@@ -317,9 +467,21 @@ XXIV.- Utilizar los ingresos que recaude, obtenga o reciba, exclusivamente en lo
 
 XXV.- Otorgar los permisos de descarga de aguas residuales a los sistemas de drenaje o alcantarillado, en los términos de la presente Ley y su reglamento;
 
-XXVI.- Realizar todas las acciones que se requieran, directa o indirectamente, para el cumplimiento de sus objetivos, y;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
-XXVII.- Las demás que señala esta Ley y otras disposiciones legales;
+XXVI.- Realizar todas las acciones que se requieran, directa o indirectamente, para el cumplimiento de sus objetivos;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+XXVII.- Remitir a la Comisión Estatal, los expedientes correspondientes a las obras que pretenda realizar, con recursos de otros (sic) órdenes de Gobierno, a partir de que se le apoye en la integración de los mismos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+XXVIII.- Elaborar la programación y presupuestación anual de obras, debiendo someterla para acuerdo del Consejo de Administración y posteriormente remitirla a la Comisión Estatal en el mes de agosto anterior a su ejercicio, para efectos de que ésta contribuya en la gestión de los recursos correspondientes, y una vez definidos los techos financieros hacerlos del conocimiento de los organismos operadores para que se elaboren los expedientes técnicos respectivos; y
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+XXIX.- Las demás que señale esta Ley y otras disposiciones legales.
 
 ###### ARTICULO 21.
 
@@ -373,9 +535,13 @@ V.- Un representante del Gobierno del Estado;
 
 VI.- Un representante de la Comisión Nacional del Agua, a quien se invitará a participar en el Consejo;
 
-VII.- El Presidente y cuatro miembros del Consejo Consultivo del organismo; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
-VIII.- El Director General del organismo, quien fungirá como Secretario del Consejo.
+VII.- El Presidente y cuatro miembros del Consejo Consultivo del organismo. Entratándose de organismos intermunicipales se ampliará en dos miembros más la representación del Consejo Consultivo, y
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+VIII.- El Director General del Organismo, quien fungirá como Secretario del Consejo.
 
 Se podrá invitar a participar en las sesiones del Consejo, únicamente con voz, a representantes de las dependencias federales, estatales o del municipio, cuando se trate de algún asunto que por su competencia o jurisdicción, deban participar, así como a representantes de los usuarios que formen parte del Consejo Consultivo, para lo cual bastará que manifiesten su interés de asistir.
 
@@ -387,7 +553,9 @@ I.- Establecer, en el ámbito de su competencia, los lineamientos y políticas e
 
 II.- Autorizar las tarifas o cuotas que se aplicarán para los cobros de los servicios de agua y alcantarillado, incluyendo saneamiento, de conformidad con lo previsto por los artículo (sic) del 72 al 74 del presente ordenamiento;
 
-III.- Designar y remover, en su caso, al Director General del organismo;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+III.- Designar al Director General del Organismo de entre la terna que proponga el Presidente del Consejo de Administración, quién deberá contar con experiencia técnica y administrativa debidamente acreditada en materia de aguas, preferentemente a nivel profesional;
 
 IV.- Resolver sobre los asuntos en materia de agua potable, alcantarillado y calidad del agua que le someta a su consideración el Director General;
 
@@ -575,9 +743,15 @@ Los organismos operadores intermunicipales tendrán los objetivos, atribuciones,
 
 El organismo operador intermunicipal se regirá por las normas de este Capítulo, así como por las generales del capítulo anterior y por el convenio que le dé origen, en cuanto no las contraríen.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+El Director General del Organismo intermunicipal será designado por el Consejo de Administración, a propuesta del Gobernador del Estado, debiendo observarse los requisitos que señala la fracción III del artículo 24 de la presente ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 36.
 
-En el órgano de gobierno de los organismos operadores intermunicipales, concurrirán con el carácter de Presidente, el Gobernador; y como Vicepresidentes, los presidentes municipales de los ayuntamientos que hubieren celebrado el respectivo convenio. En este caso, se suprimirá la figura del representante del Gobierno del Estado.
+En el órgano de gobierno de los organismos operadores intermunicipales, concurrirán con el carácter de Presidente, el Gobernador; y como Vicepresidentes, los presidentes municipales de los ayuntamientos que hubieren celebrado el respectivo convenio. En este caso, se suprimirá la figura del representante del Gobierno del Estado, debiéndose incorporar al Secretario de Desarrollo Urbano.
 
 El Presidente y los Vicepresidentes tendrán sus respectivos suplentes.
 
@@ -591,27 +765,39 @@ Los Regidores y Diputados se considerarán por cada uno de los ayuntamientos y d
 
 Lo dispuesto en este capítulo será independiente de que el Congreso del Estado resuelva lo conducente, cuando por causa de interés público o para la más eficiente prestación del servicio se requiera que cree un organismo intermunicipal, estableciendo su estructura y operación, en los términos de la presente Ley.
 
-### CAPITULO III. COMISION DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE COLIMA
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+### CAPITULO III. COMISION ESTATAL DEL AGUA DE COLIMA
 
 ###### ARTICULO 38.
 
 Las disposiciones de este capítulo tienen por objeto estructurar la organización y funcionamiento de la Comisión Estatal.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 39.
 
-La Comisión Estatal es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, con domicilio en la Capital del Estado, tiene por objeto intervenir en la planeación y presupuestación del sector hidráulico estatal; ejecutar, en su caso, las políticas del Gobierno del Estado en la coordinación del Sistema Estatal; asesorar, auxiliar y prestar servicios de apoyo y asistencia técnica a los organismos operadores municipales e intermunicipales; y prestar, previo acuerdo con el ayuntamiento respectivo y de manera transitoria los servicios de agua potable y alcantarillado en aquellos municipios en donde no existan organismos operadores que los presten, o el municipio no tenga todavía la capacidad para hacerse cargo de ellos, realizando en este caso funciones de autoridad administrativa, mediante el ejercicio de las atribuciones que le confiere la presente ley.
+La Comisión Estatal es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propio, con domicilio en la Ciudad de Colima, y tiene por objeto coordinar la planeación y presupuestación del sector hidráulico, aplicar, en su caso, las políticas del Gobierno en la coordinación del Sistema; asesorar, auxiliar y prestar los servicios de apoyo y asistencia técnica a los organismos operadores municipales e intermunicipales; y prestar, previo acuerdo con el ayuntamiento respectivo y de manera transitoria los servicios de agua potable y alcantarillado en aquellos municipios en donde no existan organismos operadores que los presten, o el municipio no tenga todavía la capacidad para hacerse cargo de ellos, realizando en este caso sus funciones de autoridad administrativa, mediante el ejercicio de las atribuciones que le confiere la presente ley.
 
-Será aplicable a este organismo lo previsto por el artículo 16 de este ordenamiento.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
 ###### ARTICULO 40.
 
-La Comisión Estatal tendrá a su cargo:
+Corresponde a la Comisión Estatal;
 
-I.- Participar y, en su caso, elaborar los programas derivados del Plan Estatal de Desarrollo que se relacionen con el objeto del organismo y supervisar el cumplimiento de las prioridades y su ejecución;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
-II.- Formular y proponer el proyecto del programa estatal en materia de agua potable y alcantarillado;
+I.- Participar y, en su caso, elaborar los programas derivados del Plan Estatal de Desarrollo que se relacionen con el objeto del organismo y supervisar el cumplimiento de las prioridades y su ejecución, así como formular, promover y ejecutar las políticas que orienten el desarrollo hidráulico en el Estado;
 
-III.- Promover el establecimiento y difusión de normas en lo referente a la realización de obras y a la construcción, operación, administración, conservación y mantenimiento de los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable y de alcantarillado, incluyendo el saneamiento;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+II.- Formular y proponer para su aprobación ante el Consejo de Administración el Proyecto del Programa Estatal de Agua Potable, de Agua para Uso no doméstico y Saneamiento.
+
+En congruencia con el programa estatal, elaborará el programa operativo anual que integrará los programas que formulen los organismos operadores;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+III.- Promover el establecimiento y difusión de normas en lo referente a la realización de obras y a la construcción, operación, administración, conservación y mantenimiento de los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua para uso público urbano y agrícola, y de alcantarillado, incluyendo el saneamiento;
 
 IV.- Promover el desarrollo y autosuficiencia administrativa, técnica y financiera de los organismos operadores a que se refiere la presente Ley, vigilando que los mismos cumplan con las normas técnicas y administrativas, así como con las especificaciones que establezca en coordinación con las autoridades competentes;
 
@@ -621,13 +807,19 @@ VI.- Desarrollar programas de orientación a los usuarios, con el objeto de pres
 
 VII.- Promover el tratamiento de aguas residuales y el reuso de las mismas, el manejo de lodos y la potabilización del agua, en el ámbito de su competencia;
 
-VIII.- Asesorar, auxiliar y dar asistencia técnica en los aspectos administrativos, operativos y financieros a los organismos operadores, así como prestarles los servicios de apoyo que le soliciten;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+VIII.- Asesorar, auxiliar y dar asistencia técnica en los aspectos administrativos, operativos, constructivos y financieros a los organismos operadores, así como prestarles los servicios de apoyo que le soliciten;
 
 IX.- Promover adecuaciones a las cuotas y tarifas de los organismos operadores, atendiendo a la necesidad de autosuficiencia financiera y mejorar su capacidad técnica y administrativa, así como la eficiencia del Sistema;
 
-X.- Coadyuvar con los organismos operadores en las gestiones de financiamiento y planeación de obras para los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable y alcantarillado, así como de tratamiento de aguas residuales y manejo de lodos;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
-XI.- Elaborar y mantener actualizado el inventario de los bienes y recursos del Sistema y de las reservas hidrológicas de la entidad;
+X.- Apoyar a los organismos operadores en las gestiones de financiamiento y en la planeación de obras para los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable y de alcantarillado, así como de tratamiento de aguas residuales y manejo de lodos;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+XI.- Operar y mantener actualizado el Sistema Estatal de Información de los Servicios de Agua Potable y Alcantarillado y de Tratamiento de Aguas Residuales;
 
 XII.- Operar y mantener actualizado el Sistema Estatal de Información de los Servicios de Agua Potable y Alcantarillado y de Tratamiento de Aguas Residuales;
 
@@ -637,7 +829,9 @@ XIV.- Promover, apoyar y, en su caso, gestionar ante las dependencias y entidade
 
 XV.- Promover convenios de colaboración entre organismos operadores;
 
-XVI.- Promover y difundir las actividades que desarrollen en el sistema para el suministro de agua potable y alcantarillado, así como el de tratamiento de aguas residuales, reuso de las mismas y manejo de lodos;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+XVI.- Promover y difundir las actividades que se desarrollen en el sistema para el suministro de agua y alcantarillado, así como el de tratamiento de aguas residuales, reuso de las mismas y manejo de lodos;
 
 XVII.- Celebrar los convenios y contratos necesarios para el cumplimiento de sus atribuciones;
 
@@ -649,7 +843,9 @@ XX.- Tramitar y resolver los recursos o medios de impugnación que le competan, 
 
 XXI.- Expedir su reglamento interior;
 
-XXII.- Conocer de los asuntos que en forma general o específica interesen al buen funcionamiento de los sistemas de agua potable y alcantarillado;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+XXII.- Conocer de los asuntos que en forma general o específica interesen al buen funcionamiento de los sistemas de agua y alcantarillado;
 
 XXIII.- Actuar con las atribuciones y competencia que la presente Ley otorga a los organismos operadores, cuando preste directamente y en forma transitoria los servicios públicos de agua potable, alcantarillado y saneamiento en alguno de los municipios de la entidad, debiendo entre otras actividades:
 
@@ -659,9 +855,37 @@ b).- Elaborar y mantener actualizado el padrón de usuarios respectivo; y
 
 c).- Cubrir oportunamente las contribuciones, derechos, aprovechamientos o productos federales que en materia de agua establece la legislación fiscal aplicable;
 
-XXIV.- Cuidar que todos los ingresos que recaude y los que obtenga y perciba, se utilicen exclusivamente en los servicios públicos de agua potable, alcantarillado y saneamiento, del o los municipios correspondientes, ya que en ningún caso podrán ser destinados a otro fin; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
-XXV.- Las demás que señale esta Ley y otros ordenamientos jurídicos.
+XXIV.- Cuidar que todos los ingresos que recaude y los que obtenga y perciba, se utilicen prioritariamente en mejorar la eficiencia de la prestación de los servicios públicos de agua potable, alcantarillado y saneamiento, y posteriormente en la ampliación de los mismos, en el o los municipios correspondientes, ya que en ningún caso podrán ser destinados a otro fin;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+XXV.- Validar los expedientes técnicos de las obras que pretendan ejecutar los organismos operadores y gestionar la obtención de recursos ante las instancias correspondientes
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+XXVI.- Supervisar que los recursos federales y estatales destinados para la ejecución de las obras contempladas en el programa operativo anual de los organismos operadores se apliquen de conformidad con el esquema autorizado, y en el caso de la necesidad de transferencias de recursos, deberá conocer de éstas, a fin de coadyuvar, en su caso, en la gestión de las mismas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+XXVII.- Someter a los Consejos de Administración de los organismos operadores, los resultados de los estudios técnicos respecto al funcionamiento de los organismos y efectuar las propuestas de mejoramiento que crea conveniente se implementen;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+XXVIII.- Ejecutar las obras que sean autorizadas con cargo a su presupuesto o al techo financiero asignado en los programas federales, y apoyar en los casos que los organismos operadores no cuenten con la capacidad técnica para hacerlas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+XXIX.- Destinar un porcentaje anual de sus recursos para promover la participación ciudadana en la cultura del agua;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+XXX.- Promover acciones par (sic) la conservación de infraestructura hidráulica con el propósito de evitar fugas de agua, así como para rescatar volúmenes de este líquido en la red de distribución; y
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+XXXI.- Las demás que señale esta ley y otros ordenamientos jurídicos.
 
 ###### ARTICULO 41.
 
@@ -681,7 +905,9 @@ VI.- Los remanentes, frutos, utilidades, productos, intereses y rentas que se ob
 
 VII.- Los demás bienes y derechos que adquiera por cualquier título legal.
 
-Los bienes de la Comisión afectos directamente a la prestación del servicio de agua potable y alcantarillado, serán inembargables e imprescriptibles.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+Los bienes de la Comisión afectos directamente a la prestación de los servicios públicos de agua potable y alcantarillado, serán inembargables e imprescriptibles.
 
 Los bienes inmuebles del organismo destinados directamente a la prestación de los servicios se equipararán a bienes del dominio público del Estado.
 
@@ -703,7 +929,9 @@ El Consejo de Administración se integrará por los siguientes miembros:
 
 I.- El Gobernador del Estado, quien lo presidirá;
 
-II.- Cuatro representantes de las dependencias de la administración pública estatal, en cuyo ámbito de competencia se encuentran los aspectos de planeación y desarrollo económico, de finanzas, de infraestructura urbana y ecología y de salud;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+II.- Seis representantes de las dependencias de la administración pública estatal, en cuyo ámbito de competencia se encuentran los aspectos de planeación, de desarrollo económico, de finanzas, de infraestructura urbana y ecología, da (sic) salud y de desarrollo rural;
 
 III.- Un representante de cada uno de los organismos operadores de la entidad;
 
@@ -711,7 +939,9 @@ IV.- Un representante, en su caso, de los ayuntamientos de los municipios en los
 
 V.- Un representante de la Comisión Nacional del Agua, quien será invitado a formar parte del Consejo;
 
-VI.- El Presidente y dos miembros del Consejo Consultivo de la Comisión; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+VI.- El Presidente y tres miembros del consejo consultivo de la Comisión Estatal entre los que estarán representados los usuarios de agua para consumo doméstico y los usuarios de agua para consumo no doméstico; y
 
 VII.- El Director General de la Comisión, quien fungirá como Secretario del Consejo.
 
@@ -731,9 +961,11 @@ El Consejo de Administración, a través de su Presidente, nombrará y removerá
 
 El Comisario será designado por la Secretaría de la Contraloría del Gobierno del Estado y tendrá, en lo conducente, las atribuciones que se establecen en el artículo 30 de esta Ley.
 
-###### ARTICULO 45.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
-El Consejo Consultivo se integrará con los representantes de los sectores social y privado y de los usuarios de los servicios de agua potable y alcantarillado del Estado. En su integración y funcionamiento se aplicará en lo conducente lo dispuesto en los artículos 27 y 28 de la presente Ley, así como lo que señale al efecto el Reglamento Interior de la Comisión.
+###### Artículo 45.
+
+El Consejo Consultivo se integrará con los representantes de los sectores social y privado y de los usuarios de los servicios de agua y alcantarillado del Estado. En su integración y funcionamiento se aplicará en lo conducente lo dispuesto en los artículos 27 y 28 de la presente Ley, así como lo que señale al efecto el Reglamento Interior de la Comisión Estatal.
 
 ###### ARTICULO 46.
 
@@ -879,19 +1111,25 @@ Todo lo relacionado con los predios, giros o establecimientos; la forma en que o
 
 ### CAPITULO II. CORRESPONSABILIDAD DE LOS USUARIOS
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 63.
 
-Todo usuario, tanto del sector público como del sector social o privado, está obligado al pago de los servicios de agua potable, alcantarillado y tratamiento de aguas residuales que preste el organismo operador, o en su caso, la Comisión Estatal, con base en las tarifas o cuotas autorizadas, las que serán exigibles con una periodicidad bimestral.
+Todo usuario, tanto del sector público como del sector social o privado, está obligado al pago de los servicios de agua potable, alcantarillado y tratamiento de aguas residuales que preste el organismo operador, o en su caso, la Comisión Estatal, con base en las tarifas o cuotas autorizadas.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
 ###### ARTICULO 64.
 
-Los usuarios deberán pagar el importe de la tarifa o cuota dentro de los plazos que en cada caso señale el recibo correspondiente y en las oficinas que determine el organismo operador respectivo.
+Los usuarios deberán pagar el importe de la tarifa o cuota dentro de los plazos que en cada caso señale el recibo correspondiente y en las oficinas que determine la comisión Estatal o el Organismo Operador respectivo.
 
 ###### ARTICULO 65.
 
 El propietario de un predio responderá solidariamente ante el organismo operador, por los adeudos que ante el mismo se generen en los términos de esta Ley.
 
-Cuando se transfiera la propiedad de un inmueble con los servicios, el nuevo propietario se subroga en los derechos y obligaciones derivados de la contratación anterior, debiendo dar aviso al organismo operador correspondiente.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+Cuando se transfiera la propiedad de un inmueble con los servicios, el nuevo propietario se subroga en los derechos y obligaciones derivados de la contratación anterior, debiendo dar aviso a la Comisión Estatal o al Organismo correspondiente.
 
 ###### ARTICULO 66.
 
@@ -919,11 +1157,13 @@ El Gobierno del Estado y los ayuntamientos, coordinadamente con los organismos o
 
 Los Consejos Consultivos a que se refiere esta Ley, coadyuvarán con la autoridad respectiva en la elaboración, ejecución y evaluación de las campañas a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 70.
 
-En épocas de escasez de agua, comprobada o previsible, los organismos operadores podrán acordar condiciones de restricción en las zonas y durante el lapso que estimen necesario, previo aviso oportuno a los usuarios a través de los medios de comunicación disponibles.
+En épocas de escasez de agua, comprobada o previsible, la Comisión Estatal o los Organismos Operadores podrán acordar condiciones de restricción en las zonas y durante el lapso que estimen necesario, previo aviso a los usuarios a través de los medios de comunicación disponibles.
 
-Cuando la escasez de agua sea originada por negligencia o falta de previsión del organismo operador, éste responderá en los términos que prevenga el contrato respectivo.
+Cuando la escasez de agua sea originada por negligencia o falta de previsión de la Comisión Estatal o del Organismo Operador, éstas responderán en los términos que prevenga el contrato respectivo.
 
 ### CAPITULO III. CUOTAS Y TARIFAS
 
@@ -1085,11 +1325,13 @@ La entrega del citatorio se hará constar por medio de acuse de recibo que firma
 
 En caso de resistencia a la práctica de la visita anunciada, ya sea de una manera franca o por medio de evasiva o aplazamientos injustificados, se levantará una acta de infracción.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 87.
 
-El organismo operador notificará nuevamente al infractor previniéndole para que, el día y la hora que al efecto se señale, permita realizar la inspección, con el apercibimiento que de negarse a ella, se le impondrá una nueva sanción administrativa, considerándolo como reincidente.
+La Comisión Estatal o el Organismo Operador notificará nuevamente al infractor previniéndole para que, el día y la hora que al efecto se señale, permita realizar la inspección, con el apercibimiento que de negarse a ella, se le impondrá una nueva sanción administrativa, considerándolo como reincidente.
 
-Si a pesar de la notificación anterior se impide la visita, se levantará nueva acta de infracción, imponiendo una sanción por el doble que la anterior, e independientemente de dicha circunstancia el organismo operador podrá cancelar la prestación de los servicios.
+Si a pesar de la notificación anterior se impide la visita, se levantará nueva acta de infracción, imponiendo una sanción por el doble que la anterior, e independientemente de dicha circunstancia la Comisión Estatal o el Organismo Operador podrá cancelar la prestación de los servicios.
 
 ###### ARTICULO 88.
 
@@ -1101,15 +1343,19 @@ El usuario podrá enterar previamente por escrito al organismo operador de ausen
 
 Las visitas se limitarán exclusivamente al objeto indicado en la orden respectiva, salvo que se descubra accidentalmente flagrante infracción a las disposiciones de esta Ley, en cuyo caso el inspector lo hará constar en el acta respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 90.
 
-Los usuarios están obligados a permitir el acceso al personal del organismo operador, debidamente acreditados, al lugar o lugares en donde se encuentren instalados los medidores para que tomen lectura de éstos.
+Los usuarios están obligados a permitir el acceso al personal de la Comisión Estatal o del Organismo Operador, debidamente acreditados, al lugar o lugares en donde se encuentren instalados los medidores para que tomen lectura de éstos.
 
 El lecturista llenará un formato oficial, verificando que el número del medidor y el domicilio que se indique, sea el correspondiente y expresará la lectura del medidor o la clave de no lectura, en su caso.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 91.
 
-Corresponde en forma exclusiva a los organismos operadores instalar y operar los aparatos medidores, así como verificar su funcionamiento y su retiro cuando hayan sufrido daños.
+Corresponde en forma exclusiva a la Comisión Estatal y a los Organismos Operadores instalar y operar los aparatos medidores, así como verificar su funcionamiento y su retiro cuando hayan sufrido daños.
 
 ###### ARTICULO 92.
 
@@ -1145,7 +1391,9 @@ III.- Cuando estén rotos los sellos del medidor o se hayan alterado sus funcion
 
 IV.- Si el usuario no efectúa el pago de la tarifa en los términos de la presente Ley; y
 
-V.- Cuando se opongan u obstaculicen la iniciación o desarrollo de las facultades de verificación y medición o no se presente la información o documentación que le solicite el organismo operador.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+V.- Cuando se opongan u obstaculicen la iniciación o desarrollo de las facultades de verificación y medición o no se presente la información o documentación que le solicite la Comisión Estatal o el Organismo Operador.
 
 La determinación a que se refiere este artículo procederá independientemente de las sanciones a que haya lugar.
 
@@ -1159,7 +1407,9 @@ II.- Los volúmenes que marque el aparato de medición o que se desprendan de al
 
 III.- Calculando la cantidad de agua que el usuario pudo obtener durante el período para el cual se efectúe la determinación, de acuerdo a las características de sus instalaciones;
 
-IV.- Otra información obtenida por los organismos operadores, en el ejercicio de sus facultades de comprobación; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+IV.- Otra información obtenida por la Comisión Estatal o los Organismos Operadores, en el ejercicio de sus facultades de comprobación; y
 
 V.- Los medios indirectos de investigación económica o de cualquier otra clase.
 
@@ -1314,3 +1564,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, CARLOS DE LA MADRID VIRGEN.- Rúbrica.-
 P.O. 21 DE DICIEMBRE DE 1996.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE SEPTIEMBRE DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
