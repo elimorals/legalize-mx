@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-2691"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-01-15"
-last_updated: "2002-07-03"
+last_updated: "2005-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE JULIO DE 2002.
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR PUBLICADO EN EL B.O. EL 20 DE MARZO DE 2005, SE ABROGA EL PRESENTE CODIGO A LOS SEIS MESES A PARTIR DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL ESTADO DE BAJA CALIFORNIA SUR.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MARZO DE 2005.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 15 de enero de 1991.
 
@@ -3498,3 +3500,13 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 B.O. 3 DE JULIO DE 2002.
 
 Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE MARZO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor seis meses después de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir del día en que entre en vigor el presente decreto, queda abrogado el Código Penal para el Estado de Baja California Sur publicado mediante Decreto 802 en el Boletín oficial del Gobierno del Estado número 01, en fecha 15 de enero de 1991, así como todas las disposiciones que se opongan al presente decreto.
