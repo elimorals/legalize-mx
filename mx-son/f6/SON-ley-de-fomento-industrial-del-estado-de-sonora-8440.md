@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-industrial-del-estado-de-sonora-8440"
 country: "mx"
 rank: "ley"
 publication_date: "1969-03-22"
-last_updated: "1971-12-25"
+last_updated: "1974-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE FOMENTO INDUSTRIAL DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE DICIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE ABRIL DE 1974.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el sábado 22 de marzo de 1969.
 
@@ -35,7 +35,7 @@ NUMERO 49
 
 EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, DECRETA LA SIGUIENTE
 
-LEY DE FOMENTO INDUSTRIAL DEL ESTADO DE SONORA
+LEYDE FOMENTO INDUSTRIAL DEL ESTADO DE SONORA
 
 ### CAPITULO PRIMERO
 
@@ -189,7 +189,7 @@ En los términos precisados en el artículo 24 las industrias comprendidas en lo
 
 a).- IMPUESTO DE TRASLACION DE DOMINIO, en las operaciones en que adquieran inmuebles destinados a las instalaciones industriales o a los fines específicos de la empresa. El beneficio de la exención se extenderá a la otra parte contratante o sea el vendedor.
 
-b).- IMPUESTO PREDIAL para los terrenos y edificaciones, propiedad de la empresa, que la misma ocupe con las instalaciones industriales.
+b).- (DEROGADO, B.O. 17 DE ABRIL 1974)
 
 c).- IMPUESTO GENERAL AL COMERCIO, INDUSTRIA, ARRENDAMIENTO Y PRESTACION DE SERVICIOS.
 
@@ -344,3 +344,9 @@ Angel López Gutiérrez.
 B.O. 25 DE DICIEMBRE DE 1971.
 
 UNICO.- Esta ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 17 DE ABRIL DE 1974.
+
+PRIMERO.- Las personas que hubieren presentado sus avisos de terminación de obra durante la vigencia de la Ley que se abroga y preceptos derogados tendrán derechos a las franquicias en los términos consagrados por aquellas disposiciones.
+
+SEGUNDO.- Esta Ley entrará en vigor tres días después de la fecha de su publicación en el Boletín Oficial del Estado.
