@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-procuraduria-de-la-defensa-del-menor-y-la-familia-762
 country: "mx"
 rank: "ley"
 publication_date: "1992-10-21"
-last_updated: "1999-02-10"
+last_updated: "2000-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 21 de octubre de 1992.
 
@@ -103,7 +103,9 @@ V.- Visitar las Dependencias del Sistema para el Desarrollo Integral de la Famil
 
 VI.- Coadyuvar con el Ministerio Público que promueva los Juicios Especiales de Pérdida de la Patria Potestad. Asesorar en lo jurídico a los promoventes de los procedimientos de adopción y tutela que así lo soliciten;
 
-VII.- Velar porque los menores maltratados o abandonados obtengan un hogar definitivo y seguro;
+> <small>(REFORMADA, P.O. 3 DE ENERO DEL 2000)</small>
+
+VII.- Velar porque los menores u otros incapaces abandonados, maltratados o víctimas de violencia familiar, obtengan, provisional o definitivamente, un hogar seguro;
 
 VIII.- Coadyuvar con las Autoridades Educativas para que los menores ocurran a su instrucción primaria y secundaria, vigilando que quienes tengan la patria potestad o tutela cumplan con esa obligación;
 
@@ -131,33 +133,41 @@ XIV.- Determinar el egreso de menores internados en instituciones públicas o pr
 
 XV.- Determinar provisionalmente la custodia de los menores sujetos a asistencia social, entendiéndose por éstos los que se encuentran en estado de abandono, desamparo, desnutrición o sujetos a maltrato; dejándose a salvo los derechos de los interesados e iniciando el procedimiento o trámite ante la autoridad que corresponda;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 3 DE ENERO DEL 2000)</small>
 
-XVI.- Solicitar al Ministerio Público el ejercicio de las acciones legales necesarias para la protección del menor o sus bienes, así como darle aviso de los casos de menores expósitos o abandonados;
+XVI.- Emitir dictámenes que, en su caso, respalden una solicitud ante autoridad judicial de separación cautelar o definitiva de menores u otros incapaces que sufran de violencia familiar;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 3 DE ENERO DEL 2000)</small>
 
-XVII.- Procurar la conciliación de los interesados en los asuntos de su competencia, exhortándolos a resolver sus diferencias mediante convenio, el cual será vinculatorio y exigible para las partes. Quedan exceptuadas aquellas controversias que versen sobre acciones o derechos del estado civil irrenunciables o delitos que se persigan de oficio;
+XVII.- Solicitar al Ministerio Público, o al juez, según el caso, el ejercicio de las acciones legales necesarias para la protección de los menores u otros incapaces abandonados o víctimas de violencia familiar;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 3 DE ENERO DEL 2000)</small>
 
-XVIII.- Realizar las acciones necesarias para brindar atención y protección integral a los menores que realizan actividades paraeconómicas en la calle o en lugares públicos cuidando que no sean objeto de explotación;
+XVIII.- Brindar asesoría jurídica a las personas sujetas a violencia familiar y en general respecto de asuntos en materia familiar;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 3 DE ENERO DEL 2000)</small>
 
-XIX.- Determinar la presentación de los involucrados en los asuntos de su competencia;
+XIX.- Procurar la conciliación de los interesados en los asuntos de su competencia, exhortándolos a resolver sus diferencias mediante convenio, el cual será vinculatorio y exigible para las partes. Quedarán exceptuadas de este procedimiento las controversias que versen sobre acciones o derechos del estado civil irrenunciables o los delitos que se persigan de oficio. Este procedimiento no es requisito previo para el ejercicio de cualquier acción judicial. La conciliación no se promoverá cuando exista riesgo grave para la integridad física o psicológica de los involucrados particularmente en los casos de violencia familiar;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 3 DE ENERO DEL 2000)</small>
 
-XX.- Emplear, para hacer cumplir sus determinaciones cualesquiera de los medios de apremio que establece esta ley;
+XX.- Realizar las acciones necesarias para brindar atención y protección integral a los menores u otros incapaces que en la calle o lugares públicos, realicen actividades de riesgo o sean objeto de explotación laboral, y en su caso, solicitar al Ministerio Público el ejercicio de las acciones legales correspondientes;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DEL 2000)</small>
+
+XXI.- Determinar la presentación de los involucrados en los asuntos de su competencia;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DEL 2000)</small>
+
+XXII.- Emplear, para hacer cumplir sus determinaciones cualesquiera de las (sic) medios de apremio que establece la presente ley;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DEL 2000)</small>
+
+XXIII.- Gestionar, en su caso, ante el Oficial del Registro Civil la elaboración del acta de nacimiento de menores abandonados o expósitos; y
 
 > <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 1999)</small>
 
-XXI.- Gestionar, en su caso, ante el Oficial del Registro Civil la elaboración del acta de nacimiento de menores abandonados o expósitos; y
-
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 1999)</small>
-
-XXII.- Las demás que le confieran las leyes.
+XXIII.- Las demás que le confieran las leyes.
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
 
@@ -203,17 +213,25 @@ El Comité aportará documentación e información sobre todo aquello que concie
 
 Son funciones del Comité de Protección del Menor y la Familia:
 
-I.- Velar por la efectividad de las medidas de protección al menor y a la familia;
+> <small>(REFORMADA, P.O. 3 DE ENERO DEL 2000)</small>
 
-II.- Asegurar los derechos del menor y vigilar que aquéllos sean respetados;
+I.- Velar por que las medidas de protección hacia el menor y la familia, así como aquéllas dirigidas a proteger a los sujetos de violencia familiar, sean eficaces y eficientes;
 
-III.- Difundir profusamente los derechos del menor y la familia;
+> <small>(REFORMADA, P.O. 3 DE ENERO DEL 2000)</small>
+
+II.- Asegurar que los derechos de los menores u otros incapaces así como de otros miembros de la familia sean respetados;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DEL 2000)</small>
+
+III.- Difundir profusamente los derechos del menor y la familia, así como el derecho a una vida libre de violencia de acuerdo con el Programa Estatal de Prevención y Atención a la Violencia Familiar;
 
 IV.- Promover la participación de personas y grupos en actividades relacionadas con el menor y la familia;
 
 V.- Hacer recomendaciones al Procurador de la Defensa del Menor y la Familia, en beneficio de éstos;
 
-VI.- Localizar hogares para los menores abandonados, procurando un medio familiar que permita su adecuada integración;
+> <small>(REFORMADA, P.O. 3 DE ENERO DEL 2000)</small>
+
+VI.- Localizar hogares y familias que ofrezcan un medio ambiente adecuado para el desarrollo integral de los menores abandonados así como de aquellos menores que por resolución judicial carecen de quien ejerza sobre ellos la patria potestad o la tutela;
 
 VII.- Instar a los padres de menores sujetos a la protección de la Procuraduría, se presenten en intervalos regulares ante ésta, a fin de informarles de los avances de su cometido;
 
@@ -243,9 +261,11 @@ Para los efectos de la presente Ley, sin ser limitativo, se entiende por maltrat
 
 Maltrato institucional es el producido por un empleado o funcionario de una institución pública o privada, contra un menor residente o cuando se suceda como resultado de la política, prácticas y condiciones imperantes en la institución de que se trate.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DEL 2000)</small>
+
 ###### ARTICULO 18.
 
-Toda persona está en el deber de evitar maltrato a los menores y a denunciarlo en su caso.
+Toda persona tiene el deber de denunciar el maltrato a los menores y a los incapaces así como los actos de violencia familiar.
 
 ###### ARTICULO 19.
 
@@ -312,3 +332,7 @@ P.O. 10 DE FEBRERO DE 1999.
 ###### ARTÍCULO PRIMERO
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 3 DE ENERO DEL 2000.
+
+Único.- El presente Decreto entrará en vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
