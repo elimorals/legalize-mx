@@ -4,7 +4,7 @@ identifier: "LCE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-27"
-last_updated: "1993-12-22"
+last_updated: "2000-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCE"
 
 LEY DE COMERCIO EXTERIOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 27 de julio de 1993.
 
@@ -808,11 +808,17 @@ Los recursos de revocación contra las resoluciones en materia de certificación
 
 El recurso a que se refiere este capítulo tiene por objeto revocar, modificar o confirmar la resolución impugnada y los fallos que se dicten contendrán la fijación del acto reclamado, los fundamentos legales en que se apoyen y los puntos de resolución.
 
-El recurso de revocación se tramitará y resolverá conforme a lo dispuesto por el Código Fiscal de la Federación, siendo necesario su agotamiento para la procedencia del juicio ante la Sala Superior del Tribunal Fiscal de la Federación.
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-Las resoluciones que se dicten al resolver el recurso de revocación o aquellas que lo tengan por no interpuesto, tendrán el carácter de definitivas y podrán ser impugnadas ante la Sala Superior del Tribunal Fiscal de la Federación, mediante juicio que se sustanciará conforme lo dispuesto en el último párrafo del artículo 239 bis del Código Fiscal de la Federación.
+El recurso de revocación se tramitará y resolverá conforme a lo dispuesto por el Código Fiscal de la Federación, siendo necesario su agotamiento para la procedencia del juicio ante la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa.
 
-Las resoluciones no recurridas dentro del término establecido en el Código Fiscal de la Federación, se tendrán por consentidas, y no podrán ser impugnadas ante el Tribunal Fiscal de la Federación.
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+Las resoluciones que se dicten al resolver el recurso de revocación o aquellas que lo tengan por no interpuesto, tendrán el carácter de definitivas y podrán ser impugnadas ante la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa, mediante juicio que se sustanciará conforme lo dispuesto en el último párrafo del artículo 239 bis del Código Fiscal de la Federación.
+
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+Las resoluciones no recurridas dentro del término establecido en el Código Fiscal de la Federación, se tendrán por consentidas, y no podrán ser impugnadas ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 
 ###### ARTICULO 96.
 
@@ -824,7 +830,9 @@ II. Si se impugnan ambos, la resolución del recurso contra la determinación de
 
 III. Si se interponen recursos sucesivos contra la resolución que determinó la cuota compensatoria y contra los actos de aplicación, se suspenderá la tramitación de estos últimos. El recurrente estará obligado a dar aviso de la situación a las autoridades competentes para conocer y resolver dichos recursos. La suspensión podrá decretarse aun de oficio cuando la autoridad tenga conocimiento por cualquier causa de esta situación, y
 
-IV. Cuando se interponga el juicio ante la Sala Superior del Tribunal Fiscal de la Federación, impugnando la resolución dictada al resolver el recurso de revocación interpuesto contra la determinación de la cuota compensatoria definitiva, impugne posteriormente también la resolución que se dicte al resolver el recurso contra los actos de aplicación, deberá ampliar la demanda inicial dentro del término correspondiente para formular esta última impugnación.
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+IV. Cuando se interponga el juicio ante la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa, impugnando la resolución dictada al resolver el recurso de revocación interpuesto contra la determinación de la cuota compensatoria definitiva, impugne posteriormente también la resolución que se dicte al resolver el recurso contra los actos de aplicación, deberá ampliar la demanda inicial dentro del término correspondiente para formular esta última impugnación.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
@@ -832,9 +840,9 @@ IV. Cuando se interponga el juicio ante la Sala Superior del Tribunal Fiscal de 
 
 En relación a las resoluciones y actos a que se refieren las fracciones IV, V, VI y VIII del Artículo 94, cualquier parte interesada podrá optar por acudir a los mecanismos alternativos de solución de controversias en materia de prácticas desleales contenidos en tratados comerciales internacionales de los que México sea parte. De optarse por tales mecanismos:
 
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-I.- No procederá el recurso de revocación previsto en el Artículo 94 ni el juicio ante la Sala Superior del Tribunal Fiscal de la Federación contra dichas resoluciones, ni contra la resolución de la Secretaría dictada como consecuencia de la decisión que emane de dichos mecanismos alternativos, y se entenderá que la parte interesada que ejerza la opción acepta la resolución que resulte del mecanismo alternativo de solución de controversias;
+I.- No procederá el recurso de revocación previsto en el Artículo 94 ni el juicio ante la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa contra dichas resoluciones, ni contra la resolución de la Secretaría dictada como consecuencia de la decisión que emane de dichos mecanismos alternativos, y se entenderá que la parte interesada que ejerza la opción acepta la resolución que resulte del mecanismo alternativo de solución de controversias;
 
 II. Sólo se considerará como definitiva la resolución de la Secretaría dictada como consecuencia de la decisión que emane de los mecanismos alternativos, y
 
@@ -854,7 +862,9 @@ I.- Cuando dichas resoluciones sean recurribles mediante mecanismos alternativos
 
 II.- Cuando dichas resoluciones sean recurribles mediante mecanismos alternativos de solución de controversias pactados por México en tratados internacionales, el recurrente que opte por el recurso de revocación deberá cumplir, además, con las formalidades previstas en el tratado internacional de que se trate; y
 
-III. Las partes interesadas que acudan al recurso de revocación, al juicio de nulidad ante la Sala Superior del Tribunal Fiscal de la Federación o a los mecanismos alternativos de solución de controversias a que se refiere esta Ley, podrán garantizar el pago de las cuotas compensatorias definitivas, en los términos del Código Fiscal de la Federación, siempre que la forma de garantía correspondiente sea aceptada por la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+III. Las partes interesadas que acudan al recurso de revocación, al juicio de nulidad ante la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa o a los mecanismos alternativos de solución de controversias a que se refiere esta Ley, podrán garantizar el pago de las cuotas compensatorias definitivas, en los términos del Código Fiscal de la Federación, siempre que la forma de garantía correspondiente sea aceptada por la Secretaría de Hacienda y Crédito Público.
 
 ## TRANSITORIOS
 
@@ -874,6 +884,12 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 D.O.F. 22 DE DICIEMBRE DE 1993.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMA QUE SE RELACIONA CON LA LEY.
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMA QUE SE RELACIONA CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
+
+D.O.F. 31 DE DICIEMBRE DE 2000.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMA QUE SE RELACIONA CON LA LEY.
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
