@@ -4,7 +4,7 @@ identifier: "HID-decreto-que-crea-el-colegio-de-bachilleres-y-su-ley-organica-54
 country: "mx"
 rank: "decreto"
 publication_date: "1984-09-24"
-last_updated: "1984-09-24"
+last_updated: "1991-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 DECRETO QUE CREA EL COLEGIO DE BACHILLERES DEL ESTADO Y SU LEY ORGANICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 1991.
 
 Decreto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de septiembre de 1984.
 
@@ -93,23 +93,27 @@ V.- Los directores de cada uno de los planteles que establezca el Colegio.
 
 En la Junta Directiva, como órgano colegiado de la institución, los acuerdos se tomarán por mayoría de votos y el Quórum se integrará con la asistencia de la mitad más uno de sus miembros y en caso de empate el presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 7°.
 
 La Junta Directiva será el órgano supremo y estará integrado por:
 
-I.- El coordinador de Turismo, Cultura y Recreación del Estado;
+I.- El Secretario de Desarrollo Social;
 
-II.- El Director General de la Unidad de Servicios Educativos a descentralizar de la Secretaría de Educación pública;
+II.- El Secretario de Planeación;
 
 III.- El Secretario de Finanzas;
 
-IV.- El Secretario de Planeación.
+IV.- El Director General de Servicios Coordinados de Educación Pública en el Estado;
 
-V.- El encargado de Planeación Educativa de la Delegación Estatal de la Secretaría de Educación Pública.
+V.- El Director General de Desarrollo Educativo; y
+
+VI.- El Sub-Director General de Planeación Educativa de la Dirección General de Servicios Coordinados de Educación Pública.
 
 Los nombramientos serán con carácter exclusivamente honoríficos.
 
-La Junta Directiva será presidida por uno de los funcionarios que se mencionan en las fracciones del I y V de este Artículo, mediante designación hecha por sus miembros y durará en su cargo dos años, pudiendo ser reelecto.
+La Junta Directiva será presidida por uno de los funcionarios que se mencionan, mediante designación hecha por sus miembros y durará en su cargo dos años pudiendo ser reelectos.
 
 ###### ARTICULO 8°.
 
@@ -252,3 +256,9 @@ Por lo tanto mando se imprima, publique y circule para su debido cumplimiento, e
 Dado en el Palacio del Poder Ejecutivo, en la Ciudad de Pachuca de Soto, Estado de Hidalgo, a los siete días del mes de septiembre del año de mil novecientos ochenta y cuatro.
 
 El Gobernador Constitucional del Estado.- GUILLERMO ROSSELL.- El Secretario General de Gobierno.- EFRAIN ARISTA RUIZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+
+P.O. 9 DE MAYO DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
