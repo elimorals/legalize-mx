@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1949-12-30"
+last_updated: "1950-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1950.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -62,6 +62,10 @@ d). Las monedas fraccionarias de cuproníquel con denominaciones de cinco centav
 
 e). Las monedas fraccionarias de latón de dos centavos y un centavo, con los diámetros, composición de liga metálica, pesos, tolerancias en la composición y peso, y cuños que señala el Decreto relativo de esta misma fecha.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1950)</small>
+
+f). Las monedas fraccionarias de latón con denominaciones de cinco centavos y veinte centavos, con las características que señalan, respectivamente, los Decretos de 28 de diciembre de 1942 y de 3 de agosto de 1943, modificados por el diverso Decreto fechado hoy.
+
 ###### ARTICULO 2o.
 
 Los productos líquidos de la acuñación hecha en los términos del artículo tercero transitorio de la Ley de 9 de marzo de 1932, que reformó la Ley Monetaria, así como el oro en barras o amonedado que ha sido adquirido con dichos fondos, y entregado al Banco de México, se aplicarán íntegramente a la Reserva Monetaria.
@@ -74,7 +78,7 @@ D.O.F. 27 DE ABRIL DE 1935.
 
 ###### ARTICULO 5°.
 
-Las monedas de cinco pesos, a que se refiere el inciso b) del artículo 2°. de esta Ley, tendrán poder liberatorio limitado a $500.00 en un mismo pago; las de un peso, cincuenta centavos y veinticinco centavos a que se refiere el inciso c), tendrán poder liberatorio limitado a $100.00 en un mismo pago; las de cuproníquel de cinco centavos y diez centavos a que se refiere el inciso d), tendrán poder liberatorio limitado a $2.00 en un mismo pago; y las de latón de un centavo y dos centavos a que se refiere el inciso e), tendrán poder liberatorio limitado a $1.00 en un mismo pago.
+Las monedas de cinco pesos a que se refiere el inciso b) del artículo 2°. de esta ley, tendrán poder liberatorio limitado a quinientos pesos en un mismo pago; las de un peso, cincuenta centavos y veinticinco centavos a que se refiere el inciso c) tendrán poder liberatorio limitado a cien pesos en un mismo pago; las de cupro níquel de cinco centavos y diez centavos a que se refiere el inciso d) tendrán poder liberatorio limitado a dos pesos en un mismo pago; las de latón de un centavo y dos centavos a que se refiere el inciso e) tendrán poder liberatorio limitado a un peso en un mismo pago; y las de latón de cinco centavos y de veinte centavos a que se refiere el inciso f) tendrán poder liberatorio limitado, respectivamente, a dos pesos y veinte pesos, en un mismo pago.
 
 ###### ARTICULO 6°.
 
@@ -176,7 +180,7 @@ Se declaran libres la exportación y la importación de oro acuñado o en pasta,
 
 Los billetes del Banco de México tendrán poder liberatorio ilimitado.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1949)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 30 DE DICIEMBRE DE 1950)</small>
 
 ###### ARTICULO 5°.
 
@@ -475,6 +479,20 @@ El Banco de México, S.A., y sus Sucursales, las Oficinas Federales de Hacienda 
 ###### ARTICULO QUINTO.
 
 El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1950.
+
+###### ARTICULO 1°.
+
+Desde la fecha en que entre en vigor el presente Decreto dejarán de acuñarse las siguientes monedas: las de plata de un peso establecidas por Decreto de once de septiembre de mil novecientos cuarenta y siete; las de cupro níquel de cinco y diez centavos establecidas por Decreto de veintiséis de marzo de mil novecientos treinta y seis y las de bronce con denominación de un centavo establecidas en la Ley Monetaria de veinticinco de marzo de mil novecientos cinco, reformado por decreto de veintinueve de febrero de mil novecientos cuarenta y cuatro.
+
+###### ARTICULO 3°.
+
+Este Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 2°.
+
+Se derogan las disposiciones que se opongan a lo establecido por el presente Decreto.
 
 ###### ARTICULO 3°.
 
