@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2003-07-25"
+last_updated: "2004-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de junio de 1999.
 
@@ -2503,6 +2503,10 @@ Los descendientes, cualquiera que sea su estado, edad y condición, deben respet
 
 La ley no hace ninguna distinción en los derechos de los hijos.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
+El Registro Civil en la expedición de certificados de nacimiento omitirá todo dato personal que atente contra la dignidad humana en los términos del artículo 180 de este Código.
+
 ###### ARTÍCULO 430.
 
 El Estado a través de la autoridad y organismo que la ley señale, debe instruir sobre los deberes y derechos inherentes a la filiación, a quienes hayan llegado a la pubertad.
@@ -2609,9 +2613,13 @@ Cuando el marido teniendo o no tutor, ha muerto sin recobrar la razón, sus here
 
 Los herederos en el caso a que se refiere el artículo anterior, podrán contradecir la paternidad de un hijo nacido en el matrimonio o dentro de los trescientos días siguientes a la disolución del mismo, si la acción de negación de paternidad no quedó precluida para el marido, pudiendo ejercitar dichos herederos la acción precitada dentro del plazo de sesenta días contados desde aquel en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
 ###### ARTÍCULO 448.
 
-El desconocimiento de un hijo, de parte del marido o de sus herederos, se hará por demanda en forma ante el juez competente. Todo desconocimiento practicado de otra manera será nulo.
+El desconocimiento de un hijo de parte del marido o de sus herederos, se hará por demanda ante el juez competente. Todo desconocimiento practicado de otra manera será nulo. La sola declaración de la madre no será suficiente para tenerlo por demostrado.
+
+La pericial biológica deberá ser decretada de oficio por el juez en beneficio del menor cuya paternidad se impugne, en los casos de que no hubiere sido solicitada por las partes.
 
 ###### ARTÍCULO 449.
 
@@ -2621,13 +2629,19 @@ En el juicio de contradicción de la paternidad serán oídos, la madre, el hijo
 
 Faltando alguna de las circunstancias a que alude el párrafo tercero del artículo 31, nunca ni nadie podrá entablar demanda sobre la paternidad.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
 ###### ARTÍCULO 451.
 
-No puede haber sobre la filiación, ni transacción, ni compromiso en árbitros.
+La maternidad puede ser impugnada por no ser la mujer la madre del hijo que pasa por suyo.
+
+Esta acción puede ser entablada en todo tiempo por el marido o sus herederos legítimos, por el hijo y por todo tercero que invoque interés legítimo. La mujer registrada como madre puede ejercer la acción cuando alegue suposición del parto o sustitución del nacido siempre que sea ajena a los hechos.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2004)</small>
 
 ###### ARTÍCULO 452.
 
-Puede haber transacción o arbitramento sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran deducirse, sin que las concesiones que se hagan al que se dice hijo, importen la adquisición de estado de hijo de matrimonio.
+No puede haber sobre la filiación, ni transacción, ni compromiso en árbitros, pero sí sobre los derechos pecuniarios que de la filiación legalmente adquirida se pudieran deducir, sin que en este caso las concesiones que se hagan al que se dice hijo, importen la adquisición de estado de hijo de matrimonio.
 
 ###### ARTÍCULO 453.
 
@@ -2693,9 +2707,13 @@ La madre y el padre pueden reconocer, junta o separadamente, a su hijo.
 
 El reconocimiento hecho por el padre, o por la madre, puede ser contradicho por quien pretenda también ser el padre o madre del reconocido.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
 ###### ARTÍCULO 465.
 
-Es irrevocable el reconocimiento de un hijo, y en el supuesto de haberse hecho en testamento, si éste se revoca, no se tiene por revocado aquél.
+El reconocimiento de un hijo es declarativo de filiación, no está sujeto a modalidades, es irrevocable, pero podrá impugnarse por el hijo y por quién tenga interés legítimo. El hijo podrá hacerlo en cualquier tiempo y los demás interesados dentro del año siguiente de haber conocido el acto de reconocimiento.
+
+Si el reconocimiento hubiese tenido lugar en testamento, en caso de que éste se revoque, no se tendrá por revocado aquél. El reconocimiento surtirá sus efectos no obstante la nulidad del testamento por defecto de forma, siempre y cuando se trate de testamento público abierto o cerrado.
 
 ###### ARTÍCULO 466.
 
@@ -2712,6 +2730,10 @@ IV. En escritura pública.
 V. En testamento.
 
 VI. Por confesión judicial.
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2004)</small>
+
+VII. Por declaración o afirmación incidental hecha de manera clara e inequívoca en un acto realizado con otro objeto, siempre que conste en documento público.
 
 ###### ARTÍCULO 467.
 
@@ -2802,6 +2824,54 @@ Las acciones de investigación de maternidad o paternidad sólo pueden intentars
 Si los padres hubieren fallecido durante la menor edad de los hijos, tendrán éstos el derecho de intentar la acción antes de que se cumplan cuatro años de su mayor edad.
 
 Si el hijo fallece durante la tramitación del juicio sus herederos legítimos podrán continuar la acción intentada por aquél.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
+Si la reclamación de la filiación importa dejar sin efecto una filiación anteriormente establecida, debe, previa o simultáneamente, ejercerse la acción de impugnación de esta última.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
+El reconocimiento del hijo por la parte demandada pone término al juicio sobre la filiación en todos aquellos casos en que el reconocimiento sea admisible, de conformidad con el presente Código.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
+La posesión de estado debidamente acreditada, tiene el mismo valor que el reconocimiento expreso, siempre que no se desvirtúe por prueba en contrario sobre el nexo biológico, caso en el cual el juez ponderará ambas pruebas y con las demás que obren en autos, resolverá sobre la filiación que considere más verosímil.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
+La filiación podrá ser establecida judicialmente con todo género de pruebas, incluidas la biológica que se practicará solo con propósitos de identificación y con conocimiento de las partes involucradas sobre su objeto. La negativa de éstas a someterse a dichas pruebas, se considerará como una presunción en su contra.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
+El juez podrá negar la admisión de la prueba biológica sólo cuando, de practicarse, pueda originarse grave riesgo para la salud de quien debe sujetarse a examen, o cuando existan otros medios menos lesivos con igual eficacia para acreditar la filiación, supuestos que en todo caso deberán justificarse de manera indubitable.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
+Los motivos de conciencia, los basados en la desconfianza y rigor científico del laboratorio o del personal sanitario encargado de realizar la prueba o la imposibilidad física o material de acudir a su práctica, debidamente acreditados, serán libremente apreciados por el juez como causas para contradecir la presunción a que se refiere el párrafo quinto de este artículo.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
+La prueba testimonial sólo se admitirá cuando exista un principio de prueba por escrito, o cuando las presunciones o los indicios resultantes de hechos ya comprobados, sean suficientes y bastante graves par determinar su admisión.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
+El principio de prueba por escrito resulta de documentos de familia, de registros y de cartas privadas de los padres o de actos privados o públicos provenientes de una de las partes en el litigio, o de persona que tuviere interés en él.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
+El tribunal decidirá, por todos los medios de pruebas desahogados, la filiación que le parezca más verosímil, en atención a la posesión de estado, cuando la haya.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
+Comprobada la filiación mediante sentencia, el hijo concebido y nacido fuera de matrimonio tiene la misma condición que el hijo nacido o concebido dentro de matrimonio con relación al padre y a la madre y a los parientes consanguíneos de ambos.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
+El hijo concebido y nacido fuera de matrimonio cuya filiación haya sido establecida en relación con ambos progenitores, tomará los apellidos de éstos en el mismo orden que los hijos concebidos o nacidos durante el matrimonio. Si la filiación ha sido establecida con posterioridad a la partida de nacimiento, el hijo podrá usar los nuevos apellidos, caso en el cual deberá efectuarse la anotación marginal en dicha partida por el Registro Civil, mediante la presentación del instrumento o la sentencia en que conste la prueba de su filiación.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
+Si la filiación solo se ha determinado en relación con uno de los progenitores, el hijo tiene derecho a llevar los apellidos de éste. Si el progenitor tuviera un solo apellido, el hijo tendrá derecho a repetirlo.
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -19820,3 +19890,9 @@ P.O. 25 DE JULIO DE 2003.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 17 DE AGOSTO DE 2004.
+
+PRIMERO. El presente decreto entrará en vigor sesenta días hábiles siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los artículos del Código Civil y del Código Procesal Civil en los que se autorizan las pruebas periciales biológicas para la determinación de la paternidad y la maternidad, así como la presunción que se genera en perjuicio de quienes no otorgan su consentimiento para someterse a dichas pruebas, entrarán en vigor una vez que se expidan las leyes que regulen el funcionamiento seguro y eficiente de los laboratorios en los que se practiquen y que las Dependencias Oficiales competentes estén en condiciones de realizarlas, con el máximo grado de confiabilidad.
