@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2003-06-14"
+last_updated: "2003-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2003.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -1203,15 +1203,21 @@ Los padres o tutores de los menores de 18 años que no hayan cursado la educaci�
 
 Los padres o tutores de los menores de 18 años con necesidades de educación especial, están obligados a inscribirlos en planteles que presten servicios de este tipo.
 
-###### ARTICULO 128.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
 
-En cada plantel en el que se impartan servicios educativos del nivel básico podrá formarse una Asociación integrada por padres de familia, tutores o quienes ejerzan la patria potestad.
+###### Artículo 128.
+
+En cada plantel en el que se impartan servicios educativos del nivel básico podrá formarse la asociación de padres de familia, a la cual libremente podrán integrarse los padres de familia, tutores o quienes ejerzan la patria potestad de los educandos.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Educación, alentará la formación de asociaciones de padres de familia, así como la renovación periódica y democrática de sus mesas directivas.
 
 ###### ARTICULO 129.
 
 Las Asociaciones de Padres de Familia tendrán por objeto:
 
-I.- Representar ante todo tipo de autoridades escolares los intereses que en materia educativa sean comunes a los asociados;
+(REFORMADA, P.O. 24 DE JUNIO DE 2003) (F. DE E., P.O. 7 DE AGOSTO DE 2003)
+
+I.- Representar ante todo tipo de autoridades escolares los intereses que en materia educativa sean comunes a sus miembros y en general a la comunidad del plantel que representan;
 
 II.- Colaborar en el mejoramiento de la integración de la comunidad educativa compuesta por directivos, maestros y trabajadores, alumnos y padres de familia, así como en el mejoramiento de los planteles;
 
@@ -1229,7 +1235,13 @@ Las Asociaciones de Padres de Familia podrán:
 
 I.- Proponer y promover en coordinación con las autoridades escolares y educativas, las acciones necesarias para el mejoramiento de los establecimientos escolares;
 
-II.- Reunir fondos con participaciones voluntarias o actividades de sus miembros para los fines de la educación, mismos que serán considerados como de las propias asociaciones, hasta en tanto no sean entregados oficialmente a la autoridad educativa mediante bienes o servicios, que no serán considerados como contraprestaciones del servicio, por lo que en ningún caso se podrán condicionar alguno de los derechos del educando;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2003)</small>
+
+II.- Reunir fondos con participaciones voluntarias o actividades que libremente desarrollen sus integrantes para los fines de la educación, mismos que serán considerados como de las propias asociaciones, hasta en tanto no sean entregados oficialmente a la autoridad educativa mediante bienes o servicios, mismos que no serán considerados como contraprestaciones del servicio público de educación.
+
+Los fondos o aportaciones a que se refiere esta fracción, así como cualquier otro tipo de cuota que se solicite a los integrantes son totalmente libres y voluntarios y por tanto, la ausencia en su pago en ningún caso podrá condicionar algunos de los derechos de los educandos.
+
+Queda estrictamente prohibido a las instituciones educativas del Estado y de sus organismos descentralizados, así como a las instituciones particulares con autorización o reconocimiento de validez oficial de estudios, limitar o condicionar el derecho a la educación de los educandos, debido a la no integración de los padres de familia, tutores o quienes ejerzan la patria potestad a las asociaciones de padres de familia o por falta de pago de las cuotas, fondos o cualesquier otra aportación que deban otorgar a estas asociaciones.
 
 III.- Colaborar en la ejecución de los proyectos estratégicos que mejoren la vida familiar y social de sus miembros;
 
@@ -1584,3 +1596,7 @@ P.O. 14 DE JUNIO DE 2003.
 DECRETO No. 20001
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE JUNIO DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor el próximo ciclo escolar previa su publicación en el Periódico Oficial "El Estado de Jalisco".
