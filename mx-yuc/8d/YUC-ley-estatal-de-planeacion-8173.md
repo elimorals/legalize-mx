@@ -4,7 +4,7 @@ identifier: "YUC-ley-estatal-de-planeacion-8173"
 country: "mx"
 rank: "ley"
 publication_date: "1988-04-04"
-last_updated: "1993-10-29"
+last_updated: "1996-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ESTATAL DE PLANEACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE AGOSTO DE 1996.
 
 Ley publicada en el Suplemento al Diario Oficial el Lunes 4 de abril de 1988.
 
@@ -55,13 +55,17 @@ IV.- Las bases para que el Ejecutivo Estatal coordine sus actividades de planeac
 
 V.- Las bases para que el Ejecutivo Estatal Coordine sus actividades de planeación con los municipios, conforme a la Legislación aplicable;
 
-VI. Las bases para promover y garantizar la participación democrática de los diversos grupos sociales, a través de las organizaciones representativas, en la elaboración de los planes y programas a que se refiere esta Ley; y
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 1996)</small>
+
+VI. Las bases del Subsistema de participación social que se integra por los mecanismos, procedimientos, instrumentos, órganos y normas que garantizan la participación efectiva de la sociedad, a través de los grupos y organizaciones sociales y civiles, en las diversas etapas del proceso de planeación relativas a el Plan y los programas a mediano y corto plazo, así como para que las comunidades determinen la orientación del gasto público hacia la superación de los rezagos que padecen y la satisfacción de sus demandas, de manera compatible con el interés general; y
 
 VII.- Las bases para que las acciones de los particulares contribuyan a alcanzar los objetivos y prioridades de planes y programas.
 
-###### Articulo 2.
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 26 DE AGOSTO DE 1996)</small>
 
-La planeación deberá llevar a cabo como un medio para el eficaz desempeño de la responsabilidad del Estado sobre su desarrollo y deberá atender a la consecución de los fines y objetivos políticos, sociales, económicos y culturales contenidos en la Constitución Política de los Estados Unidos Mexicanos para ello, estará basada en los siguientes principios:
+###### ARTICULO 2.
+
+La planeación deberá llevar a cabo como un medio para el eficaz desempeño de la responsabilidad del Estado sobre su desarrollo y deberá atender a la consecución de los fines y objetivos políticos, sociales, económicos y culturales contenidos en la Constitución Política de los Estados Unidos Mexicanos, para ello, estará basada en los siguientes principios:
 
 I.- El fortalecimiento del Pacto Federal de la Autonomía del Régimen Interior del Estado, y la ampliación del sistema de garantías individuales y sociales en lo político, económico y cultural.
 
@@ -73,11 +77,19 @@ IV.- El respeto irrestricto de las garantías individuales y de las libertades y
 
 V.- El fortalecimiento del Municipio Libre, para lograr un desarrollo equilibrado del Estado, promoviendo la descentralización de la vida nacional y estatal; y
 
-VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo, en un marco de estabilidad económica y social.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 1996)</small>
 
-###### Artículo 3.
+VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo, en un marco de estabilidad económica y social; y
 
-Para los efectos de esta Ley, se entiende por Planeación Estatal del Desarrollo, la ordenación racional y sistemática de acciones en materia de regulación y promoción de la actividad económica, social, política y cultural, que corresponden al Ejecutivo Estatal y a los Ayuntamientos, de acuerdo con las normas, principios y objetivos establecidos por las Constituciones Federal y Estatal, y las demás Leyes relativas.
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 1996)</small>
+
+VII. La participación social en el diseño, instrumentación y vigilancia de las acciones públicas.
+
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
+
+###### ARTICULO 3.
+
+Para los efectos de esta Ley, se entiende por Planeación Estatal del Desarrollo, la ordenación racional y sistemática de acciones en materia de regulación y promoción de la actividad económica, social, política y cultural, que corresponden al Ejecutivo estatal y a los ayuntamientos, con la participación efectiva de la sociedad, de acuerdo con las normas, principios y objetivos establecidos por la Constitución Política de los Estados Unidos Mexicanos y del Estado de Yucatán, las demás disposiciones legales aplicables y el Plan Estatal de Desarrollo.
 
 ###### ARTICULO 4.
 
@@ -101,9 +113,33 @@ El Gobernador del Estado, al informar ante el Congreso sobre el estado general q
 
 El contenido de las cuentas anuales de la Hacienda Pública Estatal y de los municipios deberá relacionarse, en lo conducente, con la información a que alude el párrafo anterior. Esto con el objeto de permitir al Congreso del Estado el análisis de las cuentas de acuerdo con los fines y prioridades de la planeación estatal.
 
-###### Artículo 9.
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
 
-El Gobernador del Estado al enviar al Congreso las iniciativas de Ley de Ingresos y los proyectos de presupuesto de egresos, informará sobre el contenido general de estos documentos y de su relación con los programas anuales, que conforme a lo previsto en los artículos 16 fracción VI y 34 de esta Ley deberán elaborarse para la ejecución del Plan Estatal de Desarrollo.
+###### ARTICULO 9.
+
+El Gobernador del Estado al enviar al Congreso las iniciativas de Ley de Ingresos y los proyectos de presupuesto de egresos, informará sobre el contenido general de estos documentos y de su relación con los programas operativos anuales, previstos en el artículo 34 de esta Ley, que deberán elaborarse para la ejecución del Plan Estatal de Desarrollo. Los programas operativos anuales se integrarán en el Programa Operativo Anual Global del Estado.
+
+El Programa Operativo Anual Global del Estado tendrá los elementos siguientes:
+
+I. Diagnóstico de la situación económica y social del Estado en el año específico y su relación con la situación del país.
+
+II. Objetivos y metas a corto plazo o globales.
+
+III. Políticas, estrategias e instrumentos a utilizar.
+
+IV. Previsiones y recursos necesarios y fuente de los mismos.
+
+V. Acciones globales a realizar en las vertientes de la planeación obligatoria, coordinada y concertada e inducida en relación a los Sectores Social y Privado.
+
+Igualmente se formularán programas operativos Sectoriales, especiales y regionales que se integrarán en el Global del Estado.
+
+Correlativamente a los programas operativos anuales se formularán los respectivos programas de inversión, gasto y financiamiento que los complementarán.
+
+Los municipios formularán sus programas operativos anuales y programas de inversión, gasto y financiamiento, que también se integrarán en sus correlativas estatales.
+
+Los programas operativos y los programas de inversión, gasto y financiamiento deberán contener las propuestas prioritarias de la sociedad que contribuyan a abatir los rezagos sociales que manifiestan los indicadores de marginación del desarrollo.
+
+Las dependencias y entidades formularán sus planes operativos de trabajo con las acciones y recursos que les correspondan de entre los previstos en el Programa Operativo Anual y el Programa Anual de Inversión, Gasto y Financiamiento definitivos.
 
 ###### ARTICULO 10.
 
@@ -123,9 +159,11 @@ Lo dispuesto en el párrafo anterior será aplicable a las entidades de la Admin
 
 Los proyectos de iniciativa de ley y los reglamentos, decretos y acuerdos que formule el Ejecutivo Estatal, señalarán las relaciones que, en su caso, existan entre el proyecto de que se trate y el Plan y los programas respectivos.
 
-###### Artículo 13.
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
 
-En caso de duda sobre la interpretación de las disposiciones de esta Ley se estará a lo que resuelva el Ejecutivo Estatal, para efectos administrativos, por conducto de la Secretaría de Planeación
+###### ARTICULO 13.
+
+En caso de duda sobre la interpretación de las disposiciones de esta Ley se estará a lo que resuelva el Ejecutivo Estatal, para efectos administrativos, por conducto de su dependencia responsable de la planeación estatal.
 
 ### CAPITULO SEGUNDO. SISTEMA DE PLANEACION DEL DESARROLLO
 
@@ -137,107 +175,105 @@ La planeación estatal del desarrollo se llevará a cabo por las dependencias y 
 
 Las dependencias y entidades de la Administración Pública Estatal y los Municipios, formarán parte del Sistema a través de las unidades administrativas que tengan asignadas las funciones de planeación dentro de las propias dependencias.
 
-###### Artículo 15.
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
 
-Las disposiciones reglamentarias de esta Ley establecerán las normas de organización y funcionamiento del Sistema de Planeación del Desarrollo Integral del Estado y el proceso de planeación a que deberán sujetarse las actividades conducentes a la formulación, instrumentación, control y evaluación de los planes y programas a que se refiere esta Ley.
+###### ARTICULO 15.
 
-###### Artículo 16.
+Son elementos del Sistema Estatal de Planeación: el Plan Estatal de Desarrollo; el Comité de Planeación para el Desarrollo del Estado de Yucatán y sus órganos e integrantes; los comités de planeación para el desarrollo de los municipios; el subsistema de participación social; la normatividad legal y administrativa relativa al proceso de planeación; y, los recursos humanos y económicos destinados a la planeación del desarrollo del Estado. El conjunto ordenado de estos elementos y su utilización sistemática por el gobierno del Estado para lograr el desarrollo integral de Yucatán constituyen el Sistema Estatal de Planeación. El sistema estatal, a su vez, forma parte del Sistema Nacional de Planeación Democrática.
 
-La Secretaría de Planeación con el apoyo de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, integradas en el Comité de Planeación para el Desarrollo del Estado de Yucatán tendrán las siguientes atribuciones.
+La Administración Pública del Estado y los municipios operarán el Sistema.
 
-I.- Coordinar las actividades de la planeación estatal del desarrollo;
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
 
-II.- Integrar, en congruencia con el Plan Nacional de Desarrollo y con los planes municipales, el Plan Estatal de Desarrollo, tomando en cuenta las propuestas de las dependencias de la Administración Pública Estatal, de los Ayuntamientos, así como los planteamientos que se formulen por los grupos sociales interesados;
+###### ARTICULO 16.
 
-III.- Asesorar, proyectar y coordinar la planeación municipal con la participación que corresponde a los Ayuntamientos y elaborar los programas subregionales y especiales que señale el Gobernador del Estado;
+Las disposiciones reglamentarias de esta Ley establecerán las normas de organización y funcionamiento del proceso de planeación, y para hacer efectiva la participación de la sociedad en sus diversas etapas, a que deberán sujetarse la formulación, instrumentación, seguimiento, evaluación y control de planes y los programas a que se refiere esta Ley.
 
-IV.- Asegurar que el Plan y los programas que se generen en el sistema mantengan congruencia en su elaboración y contenido, proponiendo las metodologías y lineamientos que deberán seguirse;
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
 
-V.- Coordinar las actividades, que en materia de investigación y capacitación para la planeación, realicen las dependencias de la Administración Pública Estatal;
+###### ARTICULO 17.
 
-VI.- Elaborar el programa operativo anual global estatal conforme a los lineamientos siguientes:
+El Gobernador del Estado expedirá el Reglamento del Comité de Planeación para el Desarrollo del Estado de Yucatán, que lo creará con la figura jurídica de un organismo desconcentrado de la dependencia responsable de la planeación estatal, en el que se establecerán sus órganos, las atribuciones de éstos, las funciones de sus titulares y miembros, y las reglas para su funcionamiento.
 
-a) Diagnóstico de la situación económica y social del Estado en el año específico y su relación con la situación del País.
+En el Comité participarán:
 
-b) Objetivos y metas de corto plazo o globales.
+I. El Gobernador del Estado.
 
-c) Políticas, estrategias e instrumentos a utilizar.
+II. Las dependencias y entidades de la Administración Pública del Estado.
 
-d) Previsiones y recursos necesarios y fuente de los mismos.
+III. Las dependencias y entidades de la Administración Pública Federal que actúen en el Estado.
 
-e) Acciones globales a realizar en las vertientes de la planeación obligatoria, coordinada y concertada e inducida en relación a los Sectores Social y Privado.
+IV. Los subcomités sectoriales, especiales y regionales.
 
-VII.- Elaborar los programas operativos anuales estatales para la ejecución del Plan Estatal y de los programas subregionales y especiales, tomando en cuenta las propuestas que para el efecto realicen las Secretarías de la Administración Pública Estatal y los Ayuntamientos.
+V. Los Presidentes Municipales, en sus caracteres de presidentes de los comités de planeación para el desarrollo de los municipios.
 
-VIII.- Verificar periódicamente la relación que guarden los programas y presupuestos de las diversas dependencias de la Administración Pública, así como los resultados de su ejecución con los objetivos y prioridades del Plan y los programas a que se refiere esta Ley, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y reformar, en su caso el Plan y los programas respectivos.
+VI. Los representantes de los grupos y organizaciones sociales y civiles.
 
-IX.- Elaborar sus programas internos así como los manuales de organización y procedimientos de sus distintas unidades administrativas, comisiones y sub-comisiones.
+Las disposiciones reglamentarias determinarán el procedimiento mediante el cual se incorporará la representación de la sociedad a los órganos de la planeación estatal.
 
-###### Artículo 17.
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
 
-A la Secretaría de Finanzas le corresponde:
+###### ARTICULO 18.
 
-I.- Participar en la elaboración del Plan Estatal de Desarrollo, respecto de la definición de las políticas financieras, fiscales y crediticias; estableciendo la congruencia con las políticas que sobre esta materia haya dictado la Federación;
+El Comité de Planeación para el Desarrollo del Estado tiene los objetivos siguientes:
 
-II.- Proyectar y calcular los ingresos del Estado, de las entidades paraestatales y las participaciones municipales, considerando las necesidades de recursos y la utilización del crédito público, para la ejecución del Plan Estatal, de los Planes Municipales y de los programas que de ellos se deriven;
+I. Operar el sistema estatal de planeación, para avanzar en el proceso de desarrollo integral.
 
-III.- Procurar el cumplimiento de los objetivos y prioridades del Plan Estatal y del programa, en el ejercicio de sus atribuciones financieras, fiscales y crediticias;
+II. Ser el único medio de coordinación y comunicación permanente entre las instancias de planeación nacional, estatal y municipal.
 
-IV.- Verificar que las operaciones en que se haga uso del crédito público prevean el cumplimento de los objetivos y prioridades del Plan Estatal y de los programas que de él se deriven;
+III. Establecer los mecanismos y procedimientos de coordinación interinstitucional y de concertación social para realizar el proceso de planeación en sus etapas de formulación, instrumentación, evaluación y control.
 
-V:- Considerar los efectos de la política crediticia adoptada para el logro de los objetivos y prioridades del Plan Estatal y de los programas; y
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
 
-VI.- Adecuar y diseñar un sistema de contabilidad, congruente con los objetivos y prioridades del Plan Estatal y de los programas que de él se deriven, para sistematizar programáticamente la contabilidad Estatal y Municipal.
+###### ARTICULO 19.
 
-###### Artículo 18.
+El Gobernador del Estado, en su carácter de Presidente del Comité, podrá establecer subcomités sectoriales, especiales y regionales del Comité de Planeación para el Desarrollo del Estado de Yucatán para realizar actividades que requieran la participación conjunta de dos o más dependencias y entidades de las administraciones públicas, estatal y Federal que operen en el Estado y la participación de las organizaciones sociales no gubernamentales.
 
-A las dependencias de la Administración Pública Estatal, en particular, corresponden:
+En los subcomités regionales participarán los presidentes municipales en sus caracteres de Presidentes de los comités de planeación para el desarrollo de los municipios.
 
-I.- Intervenir en las materias que les competen en la elaboración del Plan Estatal de Desarrollo;
+Estos subcomités podrán contar con grupos de trabajo que los auxiliarán en el cumplimiento de sus objetivos y fines.
 
-II.- Coordinar el desempeño de las actividades que en materia de planeación correspondan a las entidades paraestatales que se agrupen en el sector que, conforme a las leyes vigentes, determine el Gobernador del Estado;
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
 
-III.- Elaborar programas sectoriales, tomando en cuenta las propuestas que presenten las entidades del sector y los Ayuntamientos, así como las opiniones de los grupos sociales interesados;
+###### ARTICULO 20.
 
-IV.- Asegurar la congruencia de los programas sectoriales con el Plan Estatal, con los planes municipales y con los programas que de ellos se deriven;
+A la Secretaría de Hacienda y Planeación y sus unidades administrativas, como coordinadora del Comité de Planeación para el Desarrollo del Estado, le corresponde:
 
-V.- Elaborar los programas operativos anuales para la ejecución de los programas sectoriales correspondientes;
+I. Conducir el Sistema de Evaluación e Información del Estado.
 
-VI.- Considerar el ámbito territorial de las actividades previstas en su programas procurando su congruencia con los objetivos y prioridades de los planes y programas del Gobierno Federal y de los Municipios;
+II. Apoyar al Comité de Planeación para el Desarrollo del Estado en la realización de las funciones de planeación, programación, ejecución, información, seguimiento, evaluación y control del proceso de planeación.
 
-VII.- Vigilar que las entidades del sector que coordinen conduzcan sus actividades conforme al Plan Estatal de Desarrollo y el programa sectorial correspondiente, y cumpla con lo previsto en el programa institucional a que se refiere el artículo 19 fracción II; y
+III. Compilar los programas operativos y los presupuestos de inversión, gasto y financiamiento municipales, regionales y sectoriales, para integrar el Programa Operativo Anual Global y el Programa de Inversión, Gasto y Financiamiento del Estado, en sus versiones preliminar y definitiva, y procurar sus congruencias con los objetivos de la planeación estatal y nacional.
 
-VIII.- Verificar periódicamente la relación que guarden los programas y presupuestos de las entidades paraestatales del sector que coordine, así como los resultados de su ejecución con los objetivos y prioridades de los programas sectoriales, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y reformar, en su caso, los programas respectivos.
+IV. Formular el Programa de Gasto Anual del Estado para efectos del Convenio de Desarrollo Social, con la información de los presupuestos de inversión, gasto y financiamiento parciales.
 
-###### Artículo 19.
+V. Recibir de las dependencias y entidades de la administración pública estatal la información sobre el avance de sus programas, proyectos y acciones, para que en su caso coordine con ellas su reprogramación conforme a las prioridades establecidas, cuando la asignación de los recursos aprobados sea insuficiente para cumplir los compromisos programáticos adquiridos o por cualquier otra causa que lo haga necesario.
 
-Las entidades paraestatales deberán:
+VI. Formular el informe mensual del seguimiento y evaluación de la ejecución de los programas, proyectos y acciones de las dependencias y entidades de la administración estatal, con los informes parciales que reciba.
 
-I.- Participar en la elaboración de los programas sectoriales, mediante la presentación de las propuestas que procedan en relación con sus funciones y objetivos, a la Secretaría del ramo a que pertenezcan;
+VII. Recibir de las dependencias y entidades de la administración pública estatal la información que les compete generar en relación con el diagnóstico, la estadística y los recursos del Estado, para procesarla e integrarla al Subsistema de Información y Estadística del Estado, clasificándola en los niveles municipal, regional y estatal, y difundirla.
 
-II.- Elaborar su respectivo programa institucional, atendiendo a las previsiones contenidas en el programa sectorial correspondiente;
+VIII. Asegurar que los programas Federales se integren, complementen y coordinen con los programas estatales, en su formulación, programación y ejecución, y contribuyan a la consecución de los objetivos de la planeación del Estado y sus municipios.
 
-III.- Elaborar los programas operativos anuales para la ejecución de los programas sectoriales y, en su caso, institucionales;
+IX. Realizar los estudios técnicos necesarios para crear, modificar o extinguir subcomités sectoriales, especiales y regionales, y grupos de trabajo, que le solicite el Coordinador General.
 
-IV.- Considerar el ámbito territorial de sus acciones, atendiendo a las propuestas de los Ayuntamientos a través de la dependencia coordinadora del sector, conforme a los lineamientos que al efecto señale ésta última;
+X. Verificar y dar seguimiento a la instalación y funcionamiento de los subcomités y sus grupos de trabajo y mantener actualizada la información sobre sus integrantes y las modificaciones en la titularidad de sus representaciones.
 
-V.- Asegurar la congruencia del programa institucional con el programa sectorial respectivo;
+XI. Vigilar el debido cumplimiento de los acuerdos y resoluciones de los órganos del Comité de Planeación para el Desarrollo del Estado.
 
-VI.- Verificar periódicamente la relación que guarden sus actividades así como los resultados de su ejecución con los objetivos y prioridades del programa institucional.
+XII. Cumplir y hacer cumplir la normatividad legal y administrativa relacionada con el proceso de planeación.
 
-###### Artículo 20.
+XIII. Realizar los trabajos técnicos necesarios para sustentar el proceso de toma de decisiones del Sistema Estatal de Planeación.
 
-La Secretaría de la Contraloría del Gobierno del Estado deberá ejercer el control y vigilancia de los objetivos y prioridades del Plan Estatal y de los programas que de él se deriven, disponiendo las medidas necesarias para su corrección conforme a las facultades y procedimientos que las leyes señalen.
+XIV. Participar en los procedimientos de información, seguimiento, evaluación y control.
 
-###### Artículo 21.
+XV. Mantener actualizada la información sobre la integración de la Asamblea Plenaria, la Comisión Permanente, los subcomités y los grupos de trabajo, así como las modificaciones en la titularidad de los miembros.
 
-El Gobernador del Estado podrá establecer comisiones intersecretariales para la atención de las actividades de la planeación estatal que deben desarrollar conjuntamente varias Secretarías.
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
 
-Estas comisiones podrán, a su vez, contar con subcomisiones para la elaboración de programas especiales que el mismo gobernador determine.
+###### ARTICULO 21.
 
-Las entidades de la Administración Pública Paraestatal podrán integrarse a dichas comisiones y subcomisiones, cuando se trate de asuntos relacionados con su objeto.
-
-Las comisiones y subcomisiones a que se hace referencia en los párrafos anteriores formarán parte del Comité de Planeación para el Desarrollo del Estado de Yucatán, en los términos del artículo 16 de la presente Ley.
+La Secretaría de la Contraloría General del Estado participará en la función de seguimiento, evaluación y control del cumplimiento del Plan Estatal de Desarrollo y los programas que de él se deriven, disponiendo las medidas necesarias para la corrección de las desviaciones de sus objetivos, prioridades y metas, conforme las atribuciones y funciones que otras disposiciones legales le otorgan.
 
 ### CAPITULO TERCERO. PARTICIPACION SOCIAL EN LA PLANEACION
 
@@ -245,13 +281,17 @@ Las comisiones y subcomisiones a que se hace referencia en los párrafos anterio
 
 Dentro del Sistema de Planeación del Desarrollo Integral del Estado tendrá lugar la participación y consulta de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones para la elaboración, actualización y ejecución del Plan Estatal, de los planes municipales y de los programas a que se refiere esta Ley.
 
-> <small>(REFORMADO, D.O. 29 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
 
-###### Artículo 23.
+###### ARTICULO 23.
 
-Las organizaciones representativas de los obreros, campesinos, Comités de Solidaridad, grupos populares de las instituciones académicas, profesionales y de investigación; de los organismos empresariales; de otras agrupaciones sociales y partidos políticos participarán como órganos de consulta permanente en los aspectos de la planeación democrática relacionados con su actividad, a través de los foros de consulta popular que al efecto se convoque, podrán participar en los mismos foros los Diputados del Congreso Local.
+Los grupos y organizaciones sociales y civiles; las instituciones académicas y de investigación científica y tecnológica, participarán en la formulación del Plan Estatal de Desarrollo y los programas de él derivados y en las demás etapas del proceso de planeación, conforme a las disposiciones de esta Ley y sus disposiciones reglamentarias.
 
-Para el efecto, y conforme a la Legislación aplicable en el Sistema deberán preverse la organización y funcionamiento de las formalidades, periodicidad y términos a que deberá sujetarse la participación y consulta para la planeación estatal del desarrollo.
+La participación de las organizaciones representativas de la etnia maya de Yucatán será obligatoria en el proceso estatal de planeación.
+
+El Titular del Ejecutivo Estatal, determinará los grupos y organizaciones sociales que serán invitadas a participar como integrantes del Comité de Planeación para el Desarrollo del Estado y sus subcomités sectoriales, especiales y regionales.
+
+Las disposiciones reglamentarias en la materia deberán prever la organización y funcionamiento, las formalidades, periodicidad y términos a que deberá sujetarse la participación social y las consultas públicas para la Planeación democrática del desarrollo.
 
 ### CAPITULO CUARTO. PLANES Y PROGRAMAS
 
@@ -307,15 +347,15 @@ Las dependencias encargadas de la Ejecución del Plan Estatal y de los municipio
 
 Los planes y programas a que se refieren los artículos anteriores, especificarán las acciones que serán objeto de coordinación entre los gobiernos de los municipios, del Estado y de la Federación, así como de inducción o concertación con los grupos sociales interesados.
 
-###### Artículo 36.
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
 
-El Plan Estatal y los programas subregionales, institucionales y especiales deberán ser sometidos por la Secretaría de Planeación en el seno del Comité de Planeación para el Desarrollo del Estado de Yucatán al que alude el Artículo 16 de esta Ley, a la consideración y aprobación del Gobernador del Estado.
+###### ARTICULO 36.
 
-Los programas institucionales deberán ser sometidos por el órgano de gobierno y administración de la entidad paraestatal o paramunicipal respectiva a la aprobación del titular de la dependencia coordinadora del sector, en el primer caso, y al Ayuntamiento, en el segundo.
+El Plan Estatal de Desarrollo y los programas sectoriales, especiales, regionales e institucionales deberán ser sometidos por la dependencia responsable de la planeación estatal a la consideración y aprobación del Gobernador del Estado, en el seno del Comité de Planeación para el Desarrollo del Estado de Yucatán.
 
-Si la entidad paraestatal no estuviera agrupada en un sector específico, la aprobación a que salude el párrafo anterior corresponderá ala Secretaría de Planeación.
+Las propuestas de los programas sectoriales y especiales serán formulados por los subcomités respectivos y presentados al Coordinador del Comité de Planeación para el Desarrollo del Estado para su aprobación, por conducto del titular de la dependencia o entidad de la Administración Pública Estatal que los coordine.
 
-Los programas sectoriales deberán ser sometidos a la consideración y aprobación del Gobernador del Estado, en el seno del Comité de Planeación para el Desarrollo del Estado de Yucatán a que alude el artículo 16 de esta Ley, por la dependencia coordinadora del sector correspondiente.
+Los programas institucionales de las entidades paraestatales serán presentados por conducto de la dependencia a que estuvieren sectorizadas. Los programas de las que no estuvieran agrupadas en un sector administrativo especifico, serán aprobados por la dependencia responsable de la planeación estatal.
 
 ###### ARTICULO 37.
 
@@ -383,13 +423,17 @@ III.- Los procedimientos de coordinación entre las autoridades federales, estat
 
 IV.- Los lineamientos metodológicos para la realización de las actividades de planeación, en el ámbito de su jurisdicción;
 
-V. La elaboración de los programas a que se refiere la fracción III del artículo 16 de este ordenamiento;
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 1996)</small>
+
+V. La elaboración de los programas sectoriales, especiales y regionales que señale el Gobernador del Estado.
 
 VI.- La ejecución de las acciones que deban realizarse en cada entidad municipal y que competen a ambas órdenes de gobierno, considerando la participación que corresponda a los municipios interesados v a los sectores de la sociedad; y
 
 VII.- La ejecución de las acciones que deban realizarse en cada entidad municipal y que competen a los órganos federal, estatal y municipal, considerando la participación que corresponda a los municipios interesados y a los sectores de la sociedad.
 
-Para este efecto la Secretaría de Planeación, en el seno del Comité de Planeación del Desarrollo del Estado de Yucatán, a que alude el artículo 16 de esta Ley propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las dependencias coordinadoras de sector, tanto federales como estatales, conforme a sus atribuciones.
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
+
+Para este propósito la dependencia responsable de la planeación estatal, en el seno del Comité de Planeación para el Desarrollo del Estado de Yucatán, propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las dependencias coordinadoras de sector, conforme a sus atribuciones.
 
 ###### ARTICULO 50.
 
@@ -401,9 +445,11 @@ EL Ejecutivo ordenará la publicación en el Diario Oficial del Gobierno del Est
 
 ### CAPITULO SEXTO. CONCERTACION E INDUCCION
 
-###### Artículo 52.
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
 
-El Ejecutivo del Estado, por sí o a través de sus dependencias integradas en el Comité de Planeación para el Desarrollo del Estado de Yucatán, a que alude el Artículo 16 de esta Ley, podrá concertar la realización de las acciones previstas en el Plan y los programas, con las representaciones de los grupos sociales o con los particulares interesados.
+###### ARTICULO 52.
+
+El Gobernador del Estado, directamente o a través de sus dependencias integradas en el Comité de Planeación para el Desarrollo del Estado de Yucatán, podrá concertar la realización de las acciones previstas en el Plan y los programas, con las representaciones de los grupos y organizaciones sociales y civiles o con los particulares interesados.
 
 ###### ARTICULO 53.
 
@@ -486,3 +532,13 @@ D.O. 29 DE OCTUBRE DE 1993.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 26 DE AGOSTO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Este decreto deroga todas las disposiciones legales que a él se opongan y específicamente los decretos números 409 y 260, publicados en el Diario Oficial del Gobierno del Estado en sus ediciones del 12 de febrero de 1981 y 21 de septiembre de 1984, respectivamente.
