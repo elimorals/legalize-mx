@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-penales-para-el-estado-libre-y-4716"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-01-30"
-last_updated: "1992-06-11"
+last_updated: "1992-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 1992.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de enero de 1992.
 
@@ -2379,21 +2379,23 @@ En el caso de que la sentencia en que se apliquen las disposiciones de los artí
 
 #### SECCION PRIMERA. LIBERTAD PROVISIONAL BAJO CAUCION
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1992)</small>
+
 ###### ARTICULO 377.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, si no excede de cinco años el término medio aritmético de la pena privativa de libertad que corresponda al delito imputado, incluyendo sus modalidades. En caso de acumulación se atenderá al delito cuya pena sea mayor.
+Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, si no excede de cinco años el término medio aritmético de la pena privativa de libertad que corresponda al delito imputado, incluyendo sus modalidades. En caso de acumulación se atenderá al delito cuyo pena sea mayor.
 
 En los casos en que la pena del delito imputado rebase el término medio aritmético de cinco años de prisión, y no se trate de los delitos señalados en el siguiente párrafo de este artículo, el juzgador concederá la libertad provisional en resolución fundada y motivada, siempre que se cumpla con los siguientes requisitos:
 
-I.- Que se garantice debidamente, a juicio del juez, la reparación del daño;
+I.- Que se garantice debidamente, a juicio del Juez, la reparación del daño;
 
 II.- Que la concesión de la libertad no constituya un grave peligro social;
 
-III.- Que no exista riesgo fundado de que el inculpado pueda sustraerse a la acción de la justicia, y
+III.- Que no exista riesgo fundado de que el inculpado pueda sustraerse a la acción de la justicia; y
 
-IV.- Que no se trate de personas que por ser reincidentes o haber mostrado habitualidad, la concesión de la libertad haga presumir fundadamente que evadiría la acción de la justicia.
+IV.- Que no se trate de personas que por ser reincidentes o haber mostrado habitualidad, la concesión de la libertad haga presumir fundadamente que evadirían la acción de la justicia.
 
-Para los efectos del párrafo anterior, no procederá la libertad provicional (sic) cuando se trate de los delitos previstos en los siguientes artículos del Código Penal: 69 incisos a) y b), 70, 118, 119, 121, 122, 123, 126, 127, 207, 254, 258, 261, 262, 266, 267, 268, 280, 285, 296, 317 Fracciones IV y V, 320, 321 segundo párrafo, 327, 328, 329, 330, 331 y 332.
+Para los efectos del párrafo anterior, no procederá la libertad provisional bajo caución cuando se trate de los delitos previstos en los Artículos: 69 incisos a) y b); 70, 118, 119, 121, 122, 126, 127, 207, 254, 256, 258, 261, 262, 266, 267, 268, 280, 281, 285, 296, 297, 298, 299, 300, 301, 317 Fracciones IV y V; 319, 320, 321 segundo párrafo, 327, 328, 329, 330, 331; y 332, todos ellos del Código Penal para el Estado de Durango.
 
 ###### ARTICULO 378.
 
@@ -3128,3 +3130,9 @@ Este Decreto entrará en vigor al tercer día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente.
+
+P.O. 01 DE NOVIEMBRE DE 1992.
+
+###### ARTICULO UNICO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
