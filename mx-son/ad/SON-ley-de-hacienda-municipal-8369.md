@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1989-12-29"
+last_updated: "1991-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE JUNIO DE 1991.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -493,7 +493,7 @@ Son obligaciones de los contribuyentes, así como de los sujetos que tengan obli
 
 > <small>(REFORMADA, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-I.- Inscribirse, dentro de los diez días siguientes a la fecha de iniciación de operaciones, o de que naciere a su cargo la obligación de retener o recaudar contribuciones municipales, en el Registro de Empadronamiento de la Tesorería Municipal respectiva.
+I.- Inscribirse, dentro de los diez días siguientes a la fecha de iniciación de operaciones, o de que naciere a su cargo la obligación de retener o recaudar contribuciones municipales, en el Registro de Empadronamiento de la Tesorería Municipal respectiva .
 
 II.- Pagar oportunamente los créditos fiscales en los términos que dispongan las leyes fiscales municipales.
 
@@ -671,11 +671,11 @@ Los sujetos del impuesto estarán obligados a manifestar a la Tesorería Municip
 
 ### CAPITULO SEGUNDO. Del Impuesto sobre Traslación de Dominio de Bienes Inmuebles
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 71.
 
-Es objeto de este impuesto, la adquisición de bienes inmuebles que consistan en suelo, construcciones o en suelo y las construcciones adheridas a éste, ubicadas en el territorio del Estado.
+Es objeto de este impuesto, la adquisición de bienes inmuebles que consistan en suelo, construcciones o en suelo y las construcciones adheridas a éste, ubicadas en el territorio del Estado, así como los derechos relacionados con los mismos a que este Capítulo se refiere.
 
 ###### ARTICULO 72.
 
@@ -711,15 +711,17 @@ X.- La enajenación a través de fideicomiso en los términos del Código Fiscal
 
 XI.- La división de la copropiedad y la disolución de la sociedad conyugal por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge.
 
-> <small>(ADICIONADA, B.O. 16 DE JULIO DE 1984)</small>
-
-XII.- La celebración de contratos de arrendamiento financiero y la cesión de derechos del arrendatario financiero.
+XII.- (DEROGADA, B.O. 27 DE JUNIO DE 1991)
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
 ###### ARTICULO 73.
 
 Son sujetos de este impuesto, los adquirentes de bienes inmuebles, en los términos del Artículo anterior.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 1991)</small>
+
+No se pagará el impuesto además de los casos señalados en el último párrafo del Artículo 24 de esta Ley, en la adquisición de inmuebles que hagan los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso y en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
 ###### ARTICULO 74.
 
@@ -739,33 +741,15 @@ Cuando con motivo de la adquisición, el adquirente asuma la obligación de paga
 
 Para los fines de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos del 50% del valor de la propiedad.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 75.
 
-La tasa del impuesto será la del 8% sobre la base determinada, después de reducirla en cinco veces el salario mínimo general elevado al año, de la zona económica en la que se encuentre ubicado el inmueble, correspondiente al año de calendario en que se esté en los supuestos del pago del impuesto.
-
-Tratándose de adquisiciones de casa habitación cuyo valor al monto de la operación se encuentre dentro de los rangos que para préstamos hipotecarios de vivienda de interés social fija periódicamente el Sistema Bancario Nacional, la reducción a que se refiere el párrafo anterior, será la siguiente:
-
-Municipios comprendidos en los grupos I y II.- 5.5 veces el salario mínimo general elevado al año de la zona económica en la que se encuentre ubicado el inmueble.
-
-Municipios comprendidos en los grupos III y IV.- 8.5 veces el salario mínimo general elevado al año de la zona económica en la que se encuentre ubicado el inmueble.
-
-En los casos de adquisiciones de bienes inmuebles para destinarse a industrias que se encuentren ubicados en los parques industriales existentes en el Estado, debidamente inscritos en el Registro Nacional correspondiente, la reducción a que se refiere este artículo será de diez veces el salario mínimo general elevado al año de la zona económica en la que se encuentre ubicado el inmueble.
+La tasa del impuesto será la del 2% sobre la base determinada conforme al Artículo anterior.
 
 ###### ARTICULO 76.
 
-La reducción a que se refiere el Artículo anterior se realizará conforme a lo siguiente:
-
-> <small>(REFORMADA, B.O. 19 DE JULIO DE 1984)</small>
-
-I.- Se considerarán como un solo inmueble los bienes que sean o resulten colindantes adquiridos por la misma persona en un período de veinticuatro meses. De la suma de los precios o valores de los predios, únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar bajo protesta de decir verdad al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiera adquirido con anterioridad, para que se ajuste el monto el monto de la reducción y pagará en su caso, las diferencias del impuesto que corresponda.
-
-II.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, a que se refiere el Art. 72 de esta Ley, la reducción se hará en la proporción que corresponda a dicha parte.
-
-III.- Tratándose del usufructo o de la nuda propiedad únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
-
-IV.- No se considerarán departamentos habitacionales los que por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos, aun cuando se utilicen para otros fines.
+(DEROGADO, B.O. 27 DE JUNIO DE 1991)
 
 ###### ARTICULO 77.
 
@@ -957,23 +941,23 @@ Las Tesorerías Municipales, podrán nombrar interventores para que concurran a 
 
 Los Ayuntamientos de los Municipios del Estado, conforme a sus características y necesidades propias, podrán proponer en sus Iniciativas de Leyes de Ingresos y Presupuestos de Ingresos, los impuestos adicionales que requieran, los que en todo caso deberán fijarse como respaldo financiero en obras y acciones de interés general, asistencia social, mejoramiento en la prestación de los servicios públicos, fomento turístico, fomento deportivo y sostenimiento de instituciones de educación media y superior.
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 101.
 
-Será objeto de este impuesto la realización de pagos por concepto de los impuestos y derechos que establece esta Ley, a excepción del Impuesto Predial y derecho de estacionamiento de vehículos en la vía pública, donde se hayan instalado sistemas de control de tiempo y espacio.
+Será objeto de este impuesto la realización de pagos por conceptos de los impuestos y derechos que establece esta Ley, a excepción de los impuestos predial y sobre traslación de dominio de bienes inmuebles y derechos de estacionamiento de vehículos en la vía pública, donde se hayan instalado sistemas de control de tiempo y espacio.
 
 ###### ARTICULO 102.
 
 Son sujetos de estos impuestos, quienes realicen los pagos a que se refiere el artículo anterior, siendo base de los mismos el monto total del pago realizado, debiendo cubrirse simultáneamente a éste.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 27 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 103.
 
 Las Leyes de Ingresos y Presupuestos de Ingresos señalarán las tasas de estos impuestos, las que en su totalidad en ningún caso podrán exceder del 50% sobre la base determinada.
 
-Tratándose de pagos del impuesto sobre la traslación de dominio de los bienes inmuebles, la tasa aplicable será del 25% sobre la base determinada.
+> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 27 DE JUNIO DE 1991)</small>
 
 > <small>N. DE E. LOS TITULOS TERCERO A OCTAVO SE REESTRUCTURAN INTEGRAMENTE, CON SUS RESPECTIVOS CAPITULOS Y SECCIONES, OBSERVANDOSE QUE ESTAS ULTIMAS NO EXISTEN EN LA NUEVA ESTRUCTURA DE LA LEY, B.O. 16 DE NOVIEMBRE DE 2003.</small>
 
@@ -1900,3 +1884,25 @@ La presente ley entrará en vigor al día siguiente de su publicación en el Bol
 B.O. 29 DE DICIEMBRE DE 1989.
 
 UNICO.- La presente Ley entrará en vigor, previa su publicación en el Boletín Oficial del Gobierno del Estado, el día 1o. de enero de 1990.
+
+B.O. 27 DE JUNIO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+Para la aplicación de los artículos de la Ley Municipal que se reforman y adicionan conforme a los preceptos anteriores, se estará a las siguientes disposiciones transitorias:
+
+I.- A partir del 1º. de julio al 31 de diciembre de 1991 y durante los años 1992 y 1993 se aplicarán las tasas del 8%, 6% y 4%, respectivamente, en lugar de la tasa establecida en el Artículo 75 de la Ley de Hacienda Municipal.
+
+Tratándose de adquisiciones de casa-habitación cuyo valor al momento de la operación se encuentre dentro de los rangos de financiamiento de interés social, que para dichos efectos fijan los Organismos Públicos o Instituciones Bancarias que regulan este tipo de crédito y que su monto sea hasta de 450 veces el salario mínimo general diario vigente que rija para la zona económica en la que se encuentra la Cd. de Hermosillo, Sonora, elevado al mes, la base determinada para la aplicación de las tasas anteriormente señaladas, se reducirá conforme a lo siguiente:
+
+Municipios comprendidos en los grupos I y II, 5.5 veces el salario mínimo general elevado al año de la zona económica, en la que se encuentre ubicado el inmueble.
+
+Municipios comprendidos en los grupos III y IV, 8.5 veces el salario mínimo general elevado al año de la zona económica en la que se encuentre ubicado el inmueble.
+
+En los casos de adquisiciones de bienes inmuebles para destinarse a industrias que se encuentren ubicados en los parques industriales existentes en el Estado, debidamente inscritos en el Registro Nacional correspondiente, la reducción a que se refiere el párrafo anterior será de diez veces el salario mínimo general elevado al año de la zona económica en la que se encuentre ubicado el inmueble.
+
+II.- El impuesto que resulte a cargo del contribuyente en los años a que se refiere la fracción anterior, en ningún caso será mayor a aquél que se hubiere determinado en los términos de la propia Ley de Hacienda Municipal, vigente al 31 de diciembre de 1990, incluyendo los efectos de los impuestos adicionales.
+
+###### ARTICULO SEGUNDO.
+
+La presente Ley entrará en vigor previa su publicación en el Boletín Oficial del Gobierno del Estado, el día 1º. de julio de 1991.
