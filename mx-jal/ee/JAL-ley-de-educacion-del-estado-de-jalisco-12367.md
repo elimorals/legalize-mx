@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2003-08-28"
+last_updated: "2004-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -138,6 +138,10 @@ III.- Será humanitaria, en tanto que contribuirá a la mejor convivencia humana
 ###### ARTICULO 9o.
 
 En la impartición de todo tipo de educación para menores de edad, se tomarán las medidas que aseguren al educando la protección y cuidados necesarios para preservar su integridad física, psicológica y social, sobre la base del respeto a su dignidad. La aplicación de la disciplina escolar será compatible con su edad.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
+Para tal fin, se implementarán programas permanentes de capacitación y orientación a los directivos, maestros y personal administrativo en asistencia y primeros auxilios para accidentes en las escuelas, considerando en todo caso, la concurrencia de los padres de familia y vigilando que estos programas sean acordes al a edad de los educandos.
 
 ###### ARTICULO 10.
 
@@ -672,6 +676,10 @@ V.- Promover la formación y estimular la adquisición de hábitos, de ejercer d
 VI.- Fomentar la manifestación de actividades, positivas, individuales y grupales, así como la adquisición de valores a partir de aquellas actividades que utilicen al movimiento como una forma de expresión;
 
 VII.- Incrementar las actividades sociales favorables de respeto, cooperación y confianza en los demás, mediante las actividades físicas grupales que promuevan su integración al medio y su relación interpersonal.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
+ARTICULO 54 bis.- La educación artística que imparta el Estado, los Ayuntamientos y sus organismos descentralizados tendrá, además de los propósitos establecidos, los de fomentar en el alumno el gusto por las manifestaciones artísticas y su capacidad de apreciar y distinguir las formas y recursos que éstas utilizan, así como propiciar la manifestación artística a partir de la práctica de actividades artísticas, culturales y recreativas que le permitan integrarse a interactuar con los demás.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2000)</small>
 
@@ -1313,6 +1321,10 @@ k) Promover la atención de alumnos con problemas de bajo aprovechamiento escola
 
 l) Realizar acciones orientadas a la conservación y mejoramiento ambiental de las zonas en que se ubiquen los planteles educativos.
 
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
+m) Fomentar y promover en los padres de familia y tutores, la vigilancia y orientación que deben realizar en los programas televisivos que ven los niños y adolescentes.
+
 ###### ARTICULO 134.
 
 Los Ayuntamientos y las autoridades educativas locales colaborarán para vincular a cada escuela pública de educación básica, activa y constantemente, con la comunidad.
@@ -1650,3 +1662,9 @@ P.O. 28 DE AGOSTO DE 2003.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Quedarán a salvo los derechos de quienes ejerzan el cargo previo a la reforma.
+
+P.O. 10 DE FEBRERO DE 2004.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- Gírese atento Oficio a la Secretaría de Educación Pública para sugerir se estudie la posibilidad de incluir dentro la currícula de la educación normal la licenciatura de educación artística.
