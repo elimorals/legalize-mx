@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-2-1994-del-tribunal-pleno-de-la-suprema-62462"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-04-21"
-last_updated: "1994-04-21"
+last_updated: "1996-02-28"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1994-04-13"
 
 ACUERDO NO. 2/1994 DEL TRIBUNAL EN PLENO DEL DIA DOCE DE ABRIL DE MIL NOVECIENTOS NOVENTA Y CUATRO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO NUMERO 1/1996 DEL TRIBUNAL EN PLENO DEL DIA DIECINUEVE DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y SEIS, PUBLICADO EN EL D.O.F. DE 28 DE FEBRERO DE 1996, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: SIN EFECTOS.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de abril de 1994.
 
@@ -186,3 +188,13 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
 
 Licenciado José Javier Aguilar Domínguez, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Que este Acuerdo 2/1994, relativo a la reforma, adición y modificación del Acuerdo Plenario 3/1992 de fecha once de septiembre de mil novecientos noventa y dos, fue emitido por el Tribunal en Pleno en Sesión Privada de doce de abril de mil novecientos noventa y cuatro, por unanimidad de diecinueve votos de los señores ministros: Presidente Ulises Schmill Ordóñez, Carlos de Silva Nava, Ignacio Magaña Cárdenas, Miguel Angel García Domínguez, Carlos Sempé Minvielle, Noé Castañón León, Luis Fernández Doblado, José Antonio Llanos Duarte, Victoria Adato Green, Samuel Alba Leyva, Ignacio Moisés Cal y Mayor Gutiérrez, Clementina Gil de Lester, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Carlos García Vázquez, Mariano Azuela Güitrón, Juan Díaz Romero y Sergio Hugo Chapital Gutiérrez. El señor ministro Miguel Angel García Domínguez integró el Pleno en términos de lo dispuesto en el artículo tercero de la Ley Orgánica del Poder Judicial de la Federación, y en virtud del Acuerdo Plenario de cinco de abril del año en curso.- México, Distrito Federal, a trece de abril de mil novecientos noventa y cuatro.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 28 DE FEBRERO DE 1996.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Quedan sin efectos los Acuerdos Plenarios 3/1992 y 2/1994 de fechas once de septiembre de mil novecientos noventa y dos y doce de abril de mil novecientos noventa y cuatro, respectivamente, así como todos aquellos que se opongan a lo acordado en el presente.
+
+TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
