@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-2594"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-08-07"
-last_updated: "2001-02-19"
+last_updated: "2001-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Código publicado en el Suplemento al Número 32 del Periódico Oficial del Estado de Aguascalientes, el 7 de agosto de 1994.
 
@@ -269,6 +269,10 @@ VIII.- Secuestro, previsto en el Artículo 138;
 
 IX.- Robo calificado, previsto en el Artículo 149, cuando el valor de lo robado exceda de trescientas veces el salario mínimo general vigente en el Estado. No será grave el robo calificado previsto en la fracción III del Artículo 149, cualquiera que sea el monto de lo robado;
 
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+IX Bis.- Fraude, previsto en la fracción XIII del Artículo 154 independientemente del valor que se fije a los bienes inmuebles objeto de la conducta.
+
 X.- Extorsión, prevista en el Artículo 156, cuando el lucro obtenido sea mayor de trescientas veces el salario mínimo general vigente en el Estado;
 
 XI.- Evasión de Presos, prevista en el Artículo 181;
@@ -293,7 +297,9 @@ I.- Lesiones Dolosas, previstas en el Artículo 105 fracciones I y II;
 
 II.- Lesiones Culposas, previstas en el Artículo 108 bis;
 
-III.- Hostigamiento Sexual y Atentados al Pudor, previstos en los Artículos 120 y 121;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+III.- Hostigamiento Sexual previsto en el Artículo 120;
 
 IV.- Estupro, previsto en el Artículo 122;
 
@@ -709,11 +715,21 @@ V.- Remoción de sus funcionarios, sólo por el tiempo indispensable para sustit
 
 La pena de prisión puede ser sustituida por el juzgador, atendiendo a las condiciones personales del sentenciado, por:
 
-I.- Multa, cuando no exceda de dos años;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
-II.- Tratamiento en Libertad, cuando no exceda de tres años; y
+I.- Multa, cuando la pena impuesta en la sentencia no exceda de dos años;
 
-III.- Semilibertad, cuando no exceda de cuatro años.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+II.- Tratamiento en Libertad, cuando la pena impuesta en la sentencia no exceda de tres años; y
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+III.- Semilibertad, cuando la pena impuesta en la sentencia no exceda de cuatro años.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+La pena de prisión no podrá ser sustituida por multa al sentenciado que haya sido condenado por el delito de Atentados al Pudor.
 
 ###### ARTICULO 66.
 
@@ -735,9 +751,11 @@ III.- Salida diurna con reclusión nocturna, o viceversa.
 
 La multa que resulte de la sustitución es independiente de la establecida, en su caso, como pena. Esta deberá pagarse totalmente para que proceda la sustitución.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 69.
 
-Para que proceda la sustitución, se requiere que el sentenciado pague la reparación de los daños y perjuicios causados y el juzgador estime la conveniencia de este medio en atención a sus fines y a las condiciones personales del beneficiado, y no se trate de delito grave.
+Para que proceda la sustitución, se requiere que el sentenciado pague la reparación de los daños y perjuicios causados y el juzgador estime la conveniencia de este medio en atención a sus fines y a las condiciones personales del beneficiado, y no se trate de delito grave, ni se trate de reincidentes.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2001)</small>
 
@@ -753,7 +771,9 @@ En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta
 
 Se podrá de oficio suspender condicionalmente la ejecución de la pena de prisión que no exceda de dos años en beneficio del sentenciado, si se cubren los siguientes requisitos:
 
-I.- Que sea la primera vez que haya delinquido el sentenciado y ha observado buena conducta, en general;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+I.- Que sea la primera vez que haya delinquido el sentenciado y ha observado buena conducta, en general y el delito por el que fue sentenciado no sea considerado como grave;
 
 II.- Que por sus antecedentes personales y modo honesto de vivir, así como la naturaleza, modalidades y móviles del hecho delictivo, se presuma fundadamente que el sentenciado no volverá a delinquir;
 
@@ -1211,7 +1231,9 @@ I.- Realizar cópula con persona menor de doce años de edad sin hacer uso de la
 
 II.- Realizar cópula con persona que no tenga capacidad para comprender el significado del hecho, o por cualquier causa no pueda resistirlo, sin hacer uso de la violencia.
 
-Si se utilizare con violencia física o moral, el mínimo y el máximo de la punibilidad establecida para el tipo de violación se aumentará en una mitad.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+Al responsable de este delito se le impondrá la misma penalidad prevista para el delito de violación establecida en el Artículo 124; pero si se utilizare con violencia física o moral, el mínimo y el máximo de la punibilidad establecida para el tipo de violación se aumentará en una mitad.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2001)</small>
 
@@ -1219,7 +1241,9 @@ Si se utilizare con violencia física o moral, el mínimo y el máximo de la pun
 
 El Abuso Sexual consiste en la introducción por vía vaginal o anal de cualquier elemento o instrumento distinto del miembro viril, por medio de la violencia física o moral suficiente para la realización de la conducta, sea cual fuere el sexo del ofendido.
 
-Al responsable de Abuso Sexual se le aplicarán de 3 a 8 años de prisión y de 10 a 50 días multa.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+Al responsable de Abuso Sexual se le aplicarán de 5 a 10 años de prisión y de 10 a 50 días multa.
 
 Cuando el inculpado pertenezca o haya pertenecido a un cuerpo de Seguridad Pública o Privada, se incrementará la sanción hasta en una tercera parte del mínimo y máximo establecido y se le impondrá además la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro de esta naturaleza hasta por 5 años.
 
@@ -2938,3 +2962,9 @@ P.O. 19 DE FEBRERO DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente.
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor a los treinta días siguientes a la fecha de su publicación en el Periódico Oficial del Estado.
