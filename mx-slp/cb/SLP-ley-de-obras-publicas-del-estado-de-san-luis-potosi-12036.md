@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-del-estado-de-san-luis-potosi-12036"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-30"
-last_updated: "1998-07-06"
+last_updated: "2003-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 1998.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, PUBLICADA EN EL PERIODICO OFICIAL EL 31 DE MAYO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el lunes 30 de octubre de 1995.
 
@@ -1002,3 +1004,15 @@ P.O. 6 DE JULIO DE 1998.
 PRIMERO.- EL presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MAYO DE 2003.
+
+PRIMERO. La presente Ley entrará en vigor a los treinta días contados a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Obras Públicas del Estado de San Luis Potosí, contenida en el Decreto N° 424, publicado en el número extraordinario del precitado órgano de difusión oficial, el 30 de octubre de 1995, y todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO. El Ejecutivo del Estado expedirá el Reglamento de esta Ley, en un plazo no mayor a ciento ochenta días contados a partir del día siguiente en que entre en vigor el presente ordenamiento.
+
+CUARTO. Los procedimientos de contratación; de aplicación de sanciones y de inconformidades; así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+Los contratos de obras públicas y de servicios relacionados con las mismas, que se encuentren vigentes al entrar en vigor esta Ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
