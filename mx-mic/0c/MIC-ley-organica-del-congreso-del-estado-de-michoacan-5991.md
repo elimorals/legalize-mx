@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-congreso-del-estado-de-michoacan-5991"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-03-03"
-last_updated: "2002-01-25"
+last_updated: "2003-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY ORGANICA DEL CONGRESO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2002.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO NOVENO TRANSITORIO DE LA LEY ORGANICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADO EN EL PERIODICO OFICIAL EL 13 DE MARZO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el día 3 de marzo de 1983.
 
@@ -868,3 +870,29 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 P.O. 25 DE ENERO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 13 DE MARZO DE 2003.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+SEGUNDO. El día en que entre en vigor la presente Ley, el Congreso deberá nombrar Mesa Directiva que funcionará hasta el 14 de mayo de 2003.
+
+TERCERO. Los dictámenes que al momento de la entrada en vigor de la presente Ley se encuentren en comisiones, deberán ser substanciados y presentados al pleno conforme a las disposiciones del mismo.
+
+CUARTO. La Junta de Coordinación Política, en un plazo no mayor a un mes contado a partir de la entrada en vigor de la presente Ley, deberá proponer a los titulares de los órganos técnicos y administrativos del Congreso. La Junta emitirá el acuerdo en que se defina la forma en que se ocuparán los cargos y plazas vacantes.
+
+QUINTO. Los órganos técnicos y administrativos de que habla la presente Ley, deberán estar conformados y comenzar a funcionar a más tardar el 15 de junio de 2003 en tanto, se funcionará con la estructura actual.
+
+SEXTO. En tanto se aprueba el Reglamento del Servicio de Carrera, el personal de base y confianza, laborará conforme a lo dispuesto a la Ley de los Trabajadores al Servicio del Estado de Michoacán de Ocampo y sus Municipios.
+
+SEPTIMO. En tanto son elaborados los manuales de procedimientos y reglamentos referidos en la presente Ley, el Congreso funcionará conforme al mismo y acuerdos que emita la asamblea.
+
+OCTAVO. En tanto se expide la Ley de Fiscalización Superior de Michoacán, el órgano de fiscalización superior del Congreso es regido conforme a la Ley Orgánica de la Contaduría General de Glosa.
+
+NOVENO. Se abroga la Ley Orgánica del Congreso del Estado, publicada en el Periódico Oficial del Estado, el 3 de marzo de 1983 y sus reformas.
+
+DÉCIMO. Se abroga el Reglamento del Congreso, publicado en el Periódico Oficial del Estado, el 18 de abril de 1983 y sus reformas.
+
+UNDÉCIMO. En los ordenamientos que se mencione la Ley Orgánica del Congreso del Estado, o el Reglamento del Congreso del Estado, se entiende que hablan de la presente Ley.
