@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1978-04-22"
+last_updated: "1980-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1980.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -343,17 +343,17 @@ Si una vez instalado el Congreso o abierto su período de sesiones, no pudiere e
 
 El Diputado que sin causa justificada faltare diez días consecutivos, perderá el derecho de concurrir a sesiones hasta el nuevo período ordinario, y se llamará al Suplente.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1980)</small>
 
 ###### Art. 35.
 
-El Congreso del Estado se renovará cada tres años contados desde el 15 de octubre hasta el 14 de octubre de los años respectivos.
+El Congreso del Estado se renovará cada tres años contados desde el 18 de Agosto hasta el 17 de Agosto de los años respectivos.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1980)</small>
 
 ###### Art. 36.
 
-La Legislatura del Estado celebrará anualmente dos períodos de sesiones ordinarias: uno que contará desde el 15 de octubre hasta el día 14 de enero, y otro que comenzará el 15 de abril terminando el 14 de Julio. Cada uno de estos períodos podrá prorrogarse hasta por un mes, si así lo exige la importancia de los asuntos pendientes de resolución y lo juzga necesario las dos terceras partes de los CC. Diputados.
+La Legislatura del Estado celebrará anualmente dos Períodos de Sesiones Ordinarias: Uno que contará desde el 18 de Agosto hasta el día 17 de Noviembre y otro que comenzará el 18 de Febrero terminando el 17 de Mayo. Cada uno de estos períodos podrá prorrogarse hasta por un mes si así lo exige la importancia de los asuntos pendientes de resolución y lo juzgan necesario las dos terceras partes de los ciudadanos Diputados.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 1977)</small>
 
@@ -393,13 +393,11 @@ A estas sesiones extraordinarias, precederá una Junta Preparatoria.
 
 La celebración de sesiones extraordinarias no impedirá la elección del Congreso en el tiempo que deba hacerse, y el nuevo seguirá ocupándose del asunto o asuntos de que se ocupaba el saliente.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1980)</small>
 
 ###### Art. 42.
 
-El Congreso celebrará sesión solemne el tercer domingo de diciembre de cada año, a la que comparecerá el Gobernador y rendirá por escrito un informe anual, en el que expondrá sucintamente el estado de todos los Ramos de la Administración Pública. El Presidente de la Legislatura contestará en términos generales.
-
-Solo el último año de su mandato, el Gobernador rendirá dicho informe el 15 de octubre.
+El Congreso celebrará sesión solemne el dieciocho de Agosto de cada año, a la que comparecerá el Gobernador y rendirá por escrito un informe anual en el que expondrá suscintamente el estado que guardan todos los Ramos de la Administración Pública. El Presidente de la Legislatura contestará en términos generales.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -677,11 +675,11 @@ V. No haber sufrido condena alguna impuesta por los Tribunales que hubiere exced
 
 VI. No haber figurado directa ni indirectamente en alguna sedición, cuartelazo, motín o asonada.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1980)</small>
 
 ###### Art. 63.
 
-El Gobernador será electo popular y directamente cada seis años. Empezará a ejercer sus funciones el quince de noviembre posterior a la elección, protestando ante el Congreso del Estado, y en ningún caso ni por motivo alguno, podrá ser reelecto.
+El Gobernador será electo popular y directamente cada seis años. Empezará a ejercer sus funciones el diecinueve de Septiembre posterior a la elección, protestando ante el Congreso del Estado y en ningún caso, ni por motivo alguno, podrá ser reelecto.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -1397,7 +1395,7 @@ P.O. 14 DE MARZO DE 1934.
 
 Primero:- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-SEGUNDO:- Este Decreto comienza a surtir sus efectos a partir del día de su publicación.
+SEGUNDO:- Este Decreto comienza a surtir sus efectos a partir del día de su publicación..
 
 P.O. 11 DE SEPTIEMBRE DE 1935.
 
@@ -1578,3 +1576,17 @@ P.O. 22 DE ABRIL DE 1978.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE JUNIO DE 1980.
+
+###### ARTICULO PRIMERO.
+
+Solo por lo que respecta al presente año, el Gobernador comparecerá ante el Congreso el Tercer Domingo de Diciembre y rendirá el informe anual de Gobierno.
+
+###### ARTICULO SEGUNDO.
+
+Esta XIX Legislatura, durante el tercer año de su ejercicio constitucional, celebrará dos períodos ordinarios de sesiones: Uno que contará desde el quince de Octubre de 1980 hasta el día 14 de Enero de 1981; y otro que comenzará el 15 de Abril y terminará el 14 de Julio de 1981.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
