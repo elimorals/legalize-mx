@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1984-12-26"
+last_updated: "1985-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 1985.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -627,7 +627,7 @@ Las personas que pretendan contraer matrimonio presentarán solicitud al Oficial
 
 La solicitud a que se refiere el artículo anterior, expresará:
 
-I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si éstos fueran conocidos. Cuando alguno o ambos pretendientes hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y fecha de ésta.
+I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si estos fueran conocidos. Cuando alguno o ambos pretendientes hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y fecha de ésta.
 
 II.- Que no tienen impedimento legal para casarse; y
 
@@ -11215,19 +11215,11 @@ En la venta de que habla el artículo 2206, mientras que no pasa la propiedad de
 
 El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 1985)</small>
 
 ###### Art. 2211.
 
-La venta de un inmueble cuyo precio no exceda de $50.000.00 (CINCUENTA MIL PESOS 00/100 M.N.), se hará en instrumento privado que firmarán el vendedor y el comprador ante dos testigos, debiendo ratificar los contratantes el contenido del Contrato y reconocer sus firmas ante Notario. Las partes pueden convenir en que este Contrato lleve la forma prescrita por el artículo 2214.
-
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 1981)</small>
-
-En los casos a que se contrae el Artículo 734 de este Código se hará constar expresamente en el Título de propiedad que se formaliza la constitución del patrimonio familiar, estableciéndose además cláusula testamentaria automática en la que se determine que al fallecimiento de cualquiera de los cónyuges o concubinos, el que sobreviva será heredero de los derechos correspondientes al patrimonio familiar y que a falta de ambos, dicho carácter lo tendrán los hijos. El título referido podrá constar en documento privado, sin la exigencia de testigos o ratificación de firmas.
-
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 1981)</small>
-
-En caso de que el título se otorgue en Escritura Pública, el Notario Público deberá expedir ésta en un plazo no mayor de treinta días.
+La venta de un inmueble cuyo precio no exceda del salario mínimo general elevado al año, entendiéndose por este el que resulte más bajo de los diversos que puedan regir en la Entidad, se hará en instrumento privado, que firmarán el vendedor y el comprador ante dos testigos, debiendo ratificar los contratantes el contenido del contrato y reconocer sus firmas ante Notario. Las partes pueden convenir en que este contrato lleve la forma prescrita por el Artículo 2214.
 
 ###### Art. 2212.
 
@@ -11237,23 +11229,17 @@ Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su r
 
 De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1982)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 1985)</small>
 
 ###### Art. 2214.
 
-Si el valor del inmueble excede de $50,000.00 (cincuenta mil pesos 00/100 M.N.), se hará en Escritura Publica.
+Si el valor del inmueble excede de la suma a que se hace referencia el Artículo 2211, la forma del contrato de compraventa se hará en Escritura Pública.
 
-No quedan comprendidos en lo anterior, los contratos traslativos de dominio, los de garantía y los de constitución de régimen de propiedad en condominio que se celebren con el Instituto de Fondo Nacional de la Vivienda para los Trabajadores, o por sus derechohabientes; así como los celebrados con los Organismos Públicos que tengan por objeto la regularización de la tenencia de la tierra o el otorgamiento de viviendas de interés social; los que podrán hacerse constar en documento privado otorgado ante dos testigos, cuya autenticidad de las firmas y voluntad de las partes se hará ante el propio Registrador Público de la Propiedad, al inscribirse los contratos correspondientes.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 1985)</small>
 
 ###### Art. 2215.
 
-Tratándose de bienes ya inscritos en el Registro Público y cuyo valor no exceda de $50,000.00 (CINCUENTA MIL PESOS 00/100 M.N.), cuando la venta sea al contado y sin condición o modalidad alguna, puede transmitirse el dominio por endoso puesto en el certificado de propiedad que el Registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
-
-El endoso debe contener la fecha, la voluntad de transmitir la propiedad del bien que se menciona en el certificado, su precio y que fué recibido al contado por el vendedor, así como la firma de ésta y del comprador, debiendo ratificarse el endoso y reconocerse las firmas ante Notario Público.
-
-El Oficial del Registro Público hará la inscripción correspondiente en favor del comprador a quien se le devolverá el certificado, previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma.
+Tratándose de bienes ya inscritos en el Registro Público y cuyo valor no exceda de la suma referida en el Artículo 2211, cuando la venta sea al contado y sin condición o modalidad alguna, puede transmitirles el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor están inscritos los bienes.
 
 ###### Art. 2216.
 
@@ -15162,3 +15148,9 @@ P.O. 26 DE DICIEMBRE DE 1984.
 DECRETO No. 240.
 
 UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE FEBRERO DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
