@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2001-10-13"
+last_updated: "2003-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -100,15 +100,15 @@ Para el cumplimiento de sus funciones, el Estado se dividirá en Distritos, cual
 
 Garantías Individuales.
 
-#### SECCION I.
-
-La División Territorial.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
-
 #### SECCION II.
 
 El Ayuntamiento y el Concejo Municipal.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+#### SECCION I.
+
+La División Territorial.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -119,6 +119,50 @@ Todos los que habiten o residan, así sea accidentalmente en el territorio de Co
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de estas personas. La ley establecerá mecanismos a favor de dichas personas, para que el goce de sus garantías de libertad, igualdad, seguridad jurídica y justicia social, sean reales, efectivas y equitativas dentro del estado humanista, social y democrático de derecho que salvaguarda esta Constitución.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+Toda persona tiene derecho a la intimidad. Este derecho será garantizado en el marco de la sociedad democrática.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+Toda persona tiene derecho a la información pública. La garantía de acceso a la información pública, se definirá a partir de los principios siguientes:
+
+I. Su fundamento reside en el estado humanista, social y democrático de derecho que establece esta Constitución.
+
+II. El acceso libre, gratuito, sencillo, antiformal, eficaz, pronto y expedito a la información.
+
+III. La interpretación constitucional más favorable del principio de publicidad, salvo las excepciones que por razones de interés público establezca la ley en sentido estricto.
+
+IV. La protección de los datos personales.
+
+V. La obligación de transparencia del Poder Público o cualquier otra entidad que utilice, reciba o disponga de recursos públicos, en los términos de la ley.
+
+VI. La administración, conservación y preservación de la documentación pública a través de mecanismos confiables, eficientes y eficaces.
+
+VII. La constitución de un organismo público autónomo conforme a las bases previstas en esta Constitución y las siguientes:
+
+1. Será autoridad constitucional en la materia, independiente en sus funciones y decisiones, y profesional en su desempeño.
+
+2. Contará con autonomía política, jurídica, administrativa presupuestal, patrimonial y financiera, en los términos que establezca la ley.
+
+3. Tendrá a su cargo la rectoría de las siguientes materias:
+
+a) El acceso a la información pública.
+
+b) La cultura de transparencia informativa.
+
+c) Los datos personales.
+
+d) La documentación pública.
+
+e) La realización de estadísticas, sondeos, encuestas o cualquier instrumento de opinión pública.
+
+f) Las demás atribuciones que establezca la ley.
+
+4. Su actuación se regirá por los principios de constitucionalidad, legalidad, certeza, independencia, imparcialidad y objetividad.
+
+5. Sus integrantes serán designados por el voto de cuando menos las dos terceras partes del Congreso del Estado, en los términos y conforme al procedimiento que disponga la ley.
 
 ###### Artículo 8º.
 
@@ -135,6 +179,14 @@ La dignidad, la igualdad y el libre desarrollo del ser humano, los derechos fund
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 La ley establecerá las formas, términos y procedimientos de los instrumentos de participación ciudadana y comunitaria, para garantizar el derecho a participar en la vida pública del estado y de los municipios.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+El acceso a la información pública garantiza el derecho a la participación de las personas.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+Toda persona tiene derecho a la libertad de expresión. Este derecho comprende las libertades de opinión y de investigar, recibir o comunicar informaciones o ideas sin censura y sin más límites que los que establece la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPITULO III.
 
@@ -806,6 +858,10 @@ IV. Adicionar y reformar esta Constitución en los términos que la misma prescr
 
 V. Nombrar a los funcionarios electorales que por ley le corresponda designar al Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+Designar a los integrantes del organismo público autónomo a que se refiere la fracción VII del artículo 7º de esta Constitución, con el voto de cuando menos las dos terceras partes de los miembros del Congreso del Estado en los términos y conforme al procedimiento que disponga la ley.
+
 VI. Facultar al Ejecutivo del Estado para que por sí o por medio de una comisión, celebre arreglos con los Estados vecinos sobre sus límites territoriales; reservándose el mismo Congreso la facultad de aprobar o no dichos convenios, los que en el primer caso, serán sometidos al Congreso de la Unión, para los efectos que establece la Constitución General.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
@@ -925,6 +981,10 @@ XXXII. Expedir las Leyes que establezcan la concurrencia del Gobierno del Estado
 XXXIII. Examinar, discutir y aprobar anualmente la Ley de Ingresos y el Presupuesto de Egresos del Estado, discutiendo primero los ingresos que deben decretarse para cubrir el ejercicio presupuestal.
 
 Asimismo, examinar, discutir y aprobar anualmente las leyes de ingresos de los Municipios, así como determinar, también anualmente, las bases, montos y plazos que habrán de observarse conforme a los principios que establece el artículo 158-T de esta Constitución, para que los Municipios reciban de inmediato y sin demora las participaciones y aportaciones federales o estatales que les correspondan.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+Las leyes garantizarán la gratuidad de la información pública bajo el principio de disponibilidad presupuestal, sin perjuicio de los derechos o cuotas proporcionales, equitativas y mínimas por la reproducción, gastos de envío, servicio o trámite público, conforme a las leyes fiscales.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
@@ -1536,6 +1596,10 @@ En la administración de los recursos económicos del Estado, se observará lo d
 
 No se hará ningún gasto que no esté comprendido en el Presupuesto o haya sido autorizado por el Congreso. La infracción de este artículo hace responsable a la autoridad que ordene el gasto y al servidor público que lo ejecute.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+La disponibilidad presupuestal en materia de acceso a la información pública, se regirá por la eficiencia, racionalidad, optimización de recursos e interés social.
+
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
 ###### Artículo 103.
@@ -1579,6 +1643,8 @@ De la Instrucción Pública.
 #### SECCION III.
 
 La Competencia Municipal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 108.
 
@@ -1974,7 +2040,7 @@ Los Magistrados de los Tribunales Unitarios de Distrito, los Jueces de Primera I
 
 (REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
 
-### CAPITULO III
+### CAPITULO III.
 
 De las Garantías de Acceso y Ejercicio de la Función Jurisdiccional.
 
@@ -2096,11 +2162,11 @@ Los daños causados por error judicial grave, así como los que sean consecuenci
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO I.
+### CAPITULO II.
 
-Bases Fundamentales.
+El Gobierno Municipal.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158.
 
@@ -2178,25 +2244,19 @@ La única vía para plantear la inconstitucionalidad de leyes, decretos o acuerd
 
 La Justicia Constitucional se regirá en todos los casos por la jurisprudencia local.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
-
-APARTADO PRIMERO.
-
-Bases Generales.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ## TITULO SEXTO.
 
 El Municipio Libre.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-El Gobierno Municipal.
+Bases Fundamentales.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-A.
 
@@ -2232,7 +2292,13 @@ Los gobiernos estatal y municipal y los organismos públicos autónomos, en la e
 
 Estos principios están vinculados directamente con los valores, principios y bases previstas en esta Constitución y demás leyes aplicables, bajo el estado humanista, social y democrático de derecho.
 
-> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+
+APARTADO TERCERO.
+
+Las Funciones y Servicios Públicos Municipales.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ### CAPITULO UNICO.
 
@@ -2286,7 +2352,13 @@ III. Si se trata de la creación de un nuevo Municipio deberán, por lo menos, s
 
 IV. Podrá crearse un nuevo Municipio mediante fusión o división de los existentes cuando así lo exija el interés público.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+
+APARTADO SEGUNDO.
+
+La Hacienda Municipal.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-K.
 
@@ -2344,7 +2416,7 @@ VII. En el caso de que un Concejo Municipal se ubique en el supuesto previsto en
 
 VIII. En todo caso, el Congreso del Estado deberá tomar las medidas necesarias para asegurar la gobernabilidad del Municipio mientras realiza la designación de los miembros del Concejo Municipal.
 
-> <small>(ADICIONADA CON LOS APARTADOS Y ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-N.
 
@@ -2376,13 +2448,7 @@ En la ley o en el convenio se preverá la correspondiente transferencia de medio
 
 Los supuestos contenidos en este artículo se fundamentarán en una interpretación funcional de los artículos 115 y 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
-
-APARTADO SEGUNDO.
-
-La Hacienda Municipal.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA CON LOS APARTADOS Y ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-P.
 
@@ -2438,11 +2504,11 @@ Toda contribución que establezca el Congreso del Estado para integrar la hacien
 
 Para fijar la distribución de las participaciones o aportaciones federales y estatales a los Municipios, el Congreso del Estado deberá tomar en cuenta, por lo menos, los criterios de población, marginación social, desarrollo económico, esfuerzo recaudatorio y eficiencia de los servicios públicos, a fin de que la distribución de los ingresos a los Municipios genere un desarrollo integral armónico, sustentable y equitativo en todas las regiones del Estado, bajo los principios de fidelidad federal y municipal.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
-APARTADO TERCERO.
+APARTADO PRIMERO.
 
-Las Funciones y Servicios Públicos Municipales.
+Bases Generales.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2644,8 +2710,6 @@ III. En el caso de que no exista la solicitud previa del Ayuntamiento, aprobada 
 
 IV. En todo caso, la resolución se basará en el interés público de garantizar el ejercicio o prestación continua y eficiente de la función o servicio público de que se trate. Para tal efecto, las partes en conflicto deberán ofrecer todas las pruebas necesarias para determinar la situación real que guarda la prestación del servicio o el ejercicio de la función; pero la autoridad que resuelva tiene, en cualquier momento, el derecho de recabar todas las pruebas necesarias para decidir lo conducente.
 
-> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
-
 ## TITULO SEPTIMO.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE ENERO DE 1984)</small>
@@ -2690,11 +2754,11 @@ Las leyes penales, por su parte, sancionarán el enriquecimiento ilícito, con e
 
 Todo ciudadano, bajo su responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refieren los dos artículos anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 163.
 
-Podrán ser sujetos de juicio político los diputados del Congreso del Estado; el gobernador del Estado; los secretarios del ramo; el procurador general de justicia; los subsecretarios; los subprocuradores de justicia; los directores generales y los directores de las dependencias del Poder Ejecutivo; los magistrados del Tribunal Superior de Justicia; los magistrados del Tribunal Electoral; los magistrados de los Tribunales Unitarios de Distrito; los jueces de primera instancia; los presidentes, regidores y síndicos de los Ayuntamientos del estado; los integrantes de los concejos municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales; y los consejeros electorales propietarios del Consejo General del Instituto Electoral y de Participación Ciudadana de Coahuila.
+Podrán ser sujetos de juicio político los diputados del Congreso del Estado; el gobernador del Estado; los secretarios del ramo; el procurador general de justicia, los subsecretarios; los subprocuradores de justicia; los directores generales y los directores de las dependencias del Poder Ejecutivo; los magistrados del Tribunal Superior de Justicia; los magistrados del Tribunal Electoral; los magistrados de los Tribunales Unitarios de Distrito; los jueces de primera instancia; los presidentes, regidores y síndicos de los Ayuntamientos del estado; los integrantes de los concejos municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales; los consejeros electorales del Consejo General del Instituto Electoral y de Participación Ciudadana de Coahuila; y los demás integrantes de los organismos públicos autónomos que establezca esta Constitución.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2710,19 +2774,19 @@ Para la aplicación de dichas sanciones, el Congreso del Estado conocerá de las
 
 Las declaraciones y resoluciones que emita el Congreso del Estado en estos casos, serán inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 165.
 
-Para proceder penalmente contra el gobernador del Estado; los diputados del Congreso del Estado; los magistrados del Tribunal Superior de Justicia; los magistrados del Tribunal Electoral; los secretarios del ramo; el procurador general de justicia; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los concejos municipales; y los consejeros electorales propietarios del Consejo General del Instituto Electoral y de Participación Ciudadana de Coahuila, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar mediante resolución de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado, sujetándose a la garantía de audiencia.
+Para proceder penalmente contra el gobernador del Estado; los diputados del Congreso Local; los magistrados del Tribunal Superior de Justicia; los magistrados del Tribunal Electoral; los secretarios del ramo; el procurador general de justicia; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los concejos municipales; los consejeros electorales del Consejo General del Instituto Electoral y de Participación Ciudadana de Coahuila; y los demás integrantes de los organismos públicos autónomos que establezca esta Constitución, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar mediante resolución de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado, sujetándose a la garantía de audiencia.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 Si la resolución del Congreso del Estado fuere negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluído el ejercicio de su encargo, pues la resolución no prejuzga los fundamentos de la imputación.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
 
-Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes, para que actúen con arreglo a la ley. Cuando se trate del gobernador del Estado, de los diputados al Congreso del Estado, de los magistrados del Tribunal Superior de Justicia, de los magistrados del Tribunal Electoral y de los consejeros electorales propietarios del Consejo General del Instituto Electoral y de Participación Ciudadana de Coahuila, éstos quedarán sujetos a la acción del Pleno del Tribunal Superior de Justicia, el cual fallará en definitiva, previas las formalidades esenciales del procedimiento y con audiencia del inculpado, del Ministerio Público y del acusador, si lo hubiere.
+Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes, para que actúen con arreglo a la ley. Cuando se trate del gobernador del Estado, de los diputados al Congreso Local, de los magistrados del Tribunal Superior de Justicia, de los magistrados del Tribunal Electoral, de los consejeros electorales del Consejo General del Instituto Electoral y de Participación Ciudadana de Coahuila, y los demás integrantes de los organismos públicos autónomos que establezca esta Constitución, éstos quedarán sujetos a la acción del Pleno del Tribunal Superior de Justicia, el cual fallará en definitiva, previas las formalidades esenciales del procedimiento y con audiencia del inculpado, del Ministerio Público y del acusador, si lo hubiere.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -3543,3 +3607,21 @@ Para auxiliar y orientar el entendimiento, la interpretación y la aplicación d
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los noventa días hábiles siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Dentro del plazo de vacancia de este Decreto, los poderes legislativo, ejecutivo y judicial promoverán la difusión de esta reforma.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado deberá expedir la nueva legislación de la materia para reglamentar el derecho a la información pública; asimismo, deberá realizar las modificaciones y adecuaciones pertinentes a la legislación secundaria vigente para remover todo obstáculo normativo para el ejercicio de este derecho.
+
+En todo caso, la ley de la materia establecerá las modalidades temporales para implementar de manera efectiva el ejercicio del derecho de libre acceso a la información pública.
+
+###### ARTÍCULO TERCERO.
+
+En todo caso, el organismo público autónomo a que se refiere la fracción VII del artículo 7º de la Constitución, se regirá para su establecimiento a partir de principios de eficiencia, economía presupuestal, la no duplicidad innecesaria de funciones, así como el aprovechamiento de las estructuras actuales de la documentación pública en el estado.
