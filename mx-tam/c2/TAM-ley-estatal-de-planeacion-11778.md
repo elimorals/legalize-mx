@@ -4,7 +4,7 @@ identifier: "TAM-ley-estatal-de-planeacion-11778"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-19"
-last_updated: "1984-09-19"
+last_updated: "1996-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ESTATAL DE PLANEACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el 19 de septiembre de 1984.
 
@@ -183,7 +183,7 @@ II.- Coordinar el desempeño de las actividades que en materia de planeación co
 
 III.- Elaborar Programas Sectoriales, tomando en cuenta las propuestas que presenten las entidades del sector y los Gobiernos de los Municipios, así como las opiniones de los grupos sociales interesados;
 
-IV. - Asegurar la congruencia de los Programas Sectoriales con el Plan Estatal, con los Planes Municipales y con los Programas que de ellos se deriven;
+IV.- Asegurar la congruencia de los Programas Sectoriales con el Plan Estatal, con los Planes Municipales y con los Programas que de ellos se deriven;
 
 V.- Elaborar los Programas Operativos Anuales para la ejecución de los Programas Sectoriales correspondientes;
 
@@ -383,6 +383,34 @@ El Ejecutivo Estatal ordenará la publicación, en el Periódico Oficial del Est
 
 El Ejecutivo del Estado, por sí o a través de sus Dependencias y Entidades podrán concertar la realización de las acciones previstas en el Plan y los Programas, con las representaciones de los grupos sociales o con los particulares interesados.
 
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1996)</small>
+
+Lo anterior se realizará a través de los Consejos de Desarrollo para el Bienestar Social que para el efecto se constituyan, cuyas funciones serán entre otras, las siguientes:
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 1996)</small>
+
+I.- Planear, programar, operar, controlar, dar seguimiento y evaluar, los recursos correspondientes de Presupuesto de Egresos de la Federación, Ramo 00026.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 1996)</small>
+
+II.- Participar en la formulación de presupuestos de obras, proyectos y acciones para el desarrollo integral de las comunidades, que puedan ser financiados con los recursos mencionados en el párrafo anterior.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 1996)</small>
+
+III.- Impulsar la participación amplia, plural y democrática de las comunidades, para la orientación y aplicación de los recursos mencionados.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 1996)</small>
+
+IV.- Propiciar el establecimiento de compromisos para el desarrollo y bienestar social, entre los miembros de las comunidades y las autoridades.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 1996)</small>
+
+V.- Supervisar la adecuada aplicación de los recursos.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1996)</small>
+
+La integración y el funcionamiento de los Consejos se sujetará al Reglamento correspondiente.
+
 ###### ARTICULO 52.
 
 La concertación a que se refiere el Artículo anterior será objeto de contratos o convenios de cumplimiento obligatorio para las partes que lo celebren en los cuales se establecerán las consecuentes sanciones que se deriven de su incumplimiento, a fin de asegurar el interés general y de garantizar su ejecución en tiempo y forma.
@@ -445,4 +473,20 @@ Cd. Victoria, Tam., a 5 de septiembre de 1984.- Diputado Presidente, C.P. MARIO 
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tam., a los trece días del mes de septiembre de mil novecientos ochenta y cuatro.- DR. EMILIO MARTINEZ MANAUTUO.- El Secretario General de Gobierno, LIC. JOAQUIN CONTRERAS CANTU.- Rúbricas.
+Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los trece días del mes de septiembre de mil novecientos ochenta y cuatro.- DR. EMILIO MARTINEZ MANAUTUO.- El Secretario General de Gobierno, LIC. JOAQUIN CONTRERAS CANTU.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE ABRIL DE 1996
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Reglamento a que se hace referencia en el Artículo 51, deberá formularse en un término no mayor de 90 días, posteriores a la vigencia del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+A partir de la vigencia del presente Decreto, los Consejos que actualmente se encuentran integrados, se denominarán Consejos de Desarrollo para el Bienestar Social, con sujeción al Reglamento que se expide.
