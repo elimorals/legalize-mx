@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1994-01-03"
+last_updated: "1995-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1995.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -163,9 +163,9 @@ El Estado adopta para su régimen interior, la forma de gobierno republicano, re
 
 Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
 
@@ -179,25 +179,53 @@ En los procesos electorales estatales y municipales los partidos políticos debe
 
 Los partidos políticos tendrán derecho al uso en forma permanente, de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la ley.
 
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
 
-La organización de las elecciones es una función estatal que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos y de los ciudadanos según lo disponga la Ley. Esta función la realizará un organismo público autónomo con personalidad jurídica. La certeza, legalidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
+La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo dotado de personalidad jurídica y patrimonio propios, en cuya integración participan los Poderes Legislativo y Ejecutivo del Estado, los partidos políticos y de los ciudadanos, según lo disponga la Ley. La certeza, legalidad, objetividad, imparcialidad, independencia, equidad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
 
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
 
-La Ley establecerá un sistema de medios de impugnación de los que conocerá un tribunal autónomo, que será órgano jurisdiccional en materia electoral y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones, contará en su estructura con órganos de dirección, ejecutivos y desconcentrados. El órgano superior de dirección se integrará en la forma y términos que establezca la ley de la materia.
 
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
 
-El tribunal electoral tendrá la competencia y organización que determine la Ley; funcionará en pleno o en salas; resolverá en una sola instancia; y sus sesiones serán públicas. Los Poderes Legislativo y Ejecutivo garantizará su debida integración.
+El organismo público cubrirá en su desempeño, además de lo que determine la ley, las actividades relativas a la preparación y desarrollo de la jornada electoral, otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de los órganos colegiados electorales serán públicas en los términos que disponga la ley.
 
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
 
-Las resoluciones del tribunal electoral serán obligatorias, contra ellas no procederá juicio ni recurso alguno y sólo podrán ser modificadas o revocadas por los Colegios Electorales, mediante el voto de las dos terceras partes de sus miembros presentes, cuando de su revisión se deduzca que existen violaciones a las reglas en materia de admisión y valoración de pruebas y en la motivación del fallo.
+Los consejeros ciudadanos del órgano superior de dirección, deberán satisfacer los requisitos que señale la ley y serán electos por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, de entre los propuestos por los grupos parlamentarios en la propia Cámara. La ley señalará las reglas y el procedimiento correspondientes.
 
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
 
-Los Magistrados del tribunal deberán satisfacer los requisitos que señale la Ley, que no podrán ser menores a los que señale esta Constitución para ser Magistrados del Supremo Tribunal de Justicia del Estado. Serán electos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, de entre los propuestos por el Ejecutivo del Estado, que siempre será el doble del número a nombrar. Si dicha mayoría no se logrará en la primera votación, se complementará la propuesta con una mitad más del número de candidatos que formaron la lista original. Si aún así no se obtuviere la mayoría, se procederá a insacular de los candidatos propuestos, el número que corresponda de Magistrados del Tribunal. La Ley señalará las reglas y el procedimiento correspondiente.
+Durante los recesos del Congreso del Estado, la elección a que se refiere el párrafo anterior será realizada por la Diputación Permanente.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+La ley establecerá un sistema de medios de impugnación, de los que conocerá el organismo público, previsto en el párrafo séptimo de este artículo y el Tribunal Electoral del Estado. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+En materia electoral la interposición de los recursos no produce efectos suspensivos del acto o resolución impugnado en ningún caso.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+El Tribunal Electoral del Estado, será órgano autónomo y máxima autoridad jurisdiccional electoral. Los poderes Legislativo, Ejecutivo y Judicial, garantizarán su debida integración.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+El Tribunal Electoral del Estado tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la ley, las impugnaciones que se presenten en materia electoral y sólo podrán ser modificadas o revocadas, en su caso, por el colegio electoral.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+El Tribunal Electoral del Estado funcionará en Salas Unitarias y en Pleno; sus sesiones de resolución serán públicas, en los términos que establezca la ley. Para cada proceso electoral se integrará una Sala de Segunda Instancia, que estará constituida con tres Magistrados del Pleno del Tribunal. Esta Sala será competente para resolver los recursos de reconsideración resultando sus resoluciones definitivas e inatacables.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+El Tribunal Electoral del Estado se organizará en los términos que señale la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+Los magistrados del Tribunal, los cuales serán independientes y responderán al mandato de la ley, deberán satisfacer los requisitos que señale la Ley, que no podrán ser menores a los que señala esta Constitución para ser designado Magistrado del Supremo Tribunal de Justicia del Estado. Serán electos por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, de entre los propuestos por el Ejecutivo del Estado y el Supremo Tribunal de Justicia.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -261,11 +289,13 @@ Se deposita el ejercicio del Poder Legislativo en una asamblea que se denominar�
 
 #### SECCION I. De la Formación del Poder Legislativo
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 1995)</small>
 
 ###### Artículo 20.
 
-El Congreso del Estado se compondrá de representantes del pueblo, electos en su totalidad cada tres años.
+El Congreso del Estado se integra con representantes del pueblo, electos en su totalidad cada tres años. La elección se celebrará el segundo domingo del mes de noviembre del año en que concluya su función la Legislatura.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
 
 Por cada diputado propietario, se elegirá un suplente.
 
@@ -273,31 +303,31 @@ Por cada diputado propietario, se elegirá un suplente.
 
 El Congreso estará integrado por dieciocho diputados electos según el principio de votación mayoría relativa, mediante el sistema de distritos electorales uninominales y hasta doce diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas de candidatos votadas en una circunscripción plurinominal.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 1995)</small>
 
 ###### Artículo 21.
 
-Para la elección de los Diputados de mayoría relativa, el Estado se dividirá en dieciocho distritos electorales, uninominales, cuya denominación y demarcación territorial señalará la Ley, teniendo en cuenta el último censo general de población.
+Para la elección de los Diputados de mayoría relativa, el Estado se dividirá en dieciocho distritos electorales, cuya denominación y demarcación territorial señalará la Ley.
 
-> <small>(REFORMADO, P.O 12 DE DICIEMBRE DE 1991)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE ABRIL DE 1995)</small>
 
-Para la elección de doce diputados según el principio de representación proporcional y el sistema de listas de candidatos, se constituirá una circunscripción electoral plurinominal en el estado y se sujetará a las bases generales siguientes y a lo que en lo particular disponga la ley:
+I. (DEROGADA, P.O. 27 DE ABRIL DE 1995)
 
-I. Un partido político, para obtener el registro de su lista de candidatos, deberá acreditar que participa con candidatos a diputados de mayoría relativa en por lo menos nueve distritos uninominales.
+II. (DEROGADA, P.O. 27 DE ABRIL DE 1995)
 
-II. Todo partido político que alcance por lo menos el uno y medio por ciento del total de la votación emitida para las listas de candidatos de la circunscripción plurinominal, tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional.
+III. (DEROGADA, P.O. 27 DE ABRIL DE 1995)
 
-III. Al partido político que cumpla con lo dispuesto por las dos bases anteriores, le serán asignados diputados por el principio de representación proporcional. La Ley establecerá la fórmula para la asignación. Además, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+IV. (DEROGADA, P.O. 27 DE ABRIL DE 1995)
 
-IV. En todo caso, para el otorgamiento de las constancias de asignación, se observarán las siguientes reglas:
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
 
-a) Ningún partido político podrá contar con más de veintiún diputados electos mediante ambos principios.
+a) Ningún partido político podrá contar con más de diecinueve diputados electos mediante ambos principios.
 
-b) Si ningún partido político obtiene por lo menos el treinta y cinco por ciento de la votación emitida, a todos los partidos políticos que cumplan con lo dispuesto en las dos bases anteriores, le será otorgada constancia de asignación por el número de diputados que se requerirán para que su representación en el Congreso, por ambos principios, corresponda en su caso, al porcentaje de votos obtenidos.
+b) (DEROGADO, P.O. 27 DE ABRIL DE 1995)
 
-c) Al partido político que obtenga nueve o más constancias de mayoría y el treinta y cinco por ciento de la votación estatal, le será otorgada constancia de asignación de diputados en número suficiente para alcanzar la mayoría absoluta en el Congreso, inferior a su porcentaje de votos, tendrá derecho a participar en la distribución de diputados electos según el principio de representación proporcional, adicionalmente a la mayoría absoluta, por cada ocho por ciento de votación obtenida por encima del treinta y cinco y hasta menos del sesenta por ciento, en la forma que determine la Ley.
+c) (DEROGADO, P.O. 27 DE ABRIL DE 1995)
 
-d) El partido político que obtenga entre el sesenta por ciento y el setenta por ciento de la votación estatal, y su número de constancias de mayoría relativa represente un porcentaje del total del Congreso, inferior a su porcentaje de votos, tendrá derecho a participar en la distribución de diputados electos según el principio de representación proporcional, hasta que la suma de diputados obtenidos por ambos principios represente el mismo porcentaje de votos.
+d) (DEROGADO, P.O. 27 DE ABRIL DE 1995)
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -337,21 +367,13 @@ IV.- Los ministros de cualquier culto religioso.
 
 Los ciudadanos enumerados en las fracciones I, II y III pueden ser electos, siempre que se separen de sus cargos noventa días antes de la elección.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
-
 ###### Artículo 25.
 
-El Congreso del Estado calificará a través de un Colegio Electoral la elegibilidad y la conformidad a la Ley de las constancias de mayoría o asignación proporcional a fin de declarar; cuando proceda, la validez de la elección de sus miembros.
-
-El Colegio Electoral del Congreso del Estado integrará con nueve presuntos diputados propietarios, nombrados por los partidos políticos en la proporción que les corresponda, respecto del total de las constancias otorgadas por la autoridad electoral en la elección de que se trate.
-
-La resolución de los colegios electorales serán definitivas e inatacables.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+(DEROGADO, P.O. 27 DE ABRIL DE 1995)
 
 ###### Artículo 26.
 
-Las sesiones del Colegio Electoral se iniciarán treinta días antes de la instalación del Congreso. Las credenciales que no fueren calificadas en este período, lo serán con posterioridad.
+(DEROGADO, P.O. 27 DE ABRIL DE 1995)
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -377,11 +399,11 @@ La misma regla se observará con los diputados suplentes cuando estuvieren en ej
 
 De la Reunión, Receso y Renovación del Congreso.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
 
 ###### Artículo 29.
 
-El Congreso se renovará totalmente cada tres años, y se instalará el día quince de septiembre del año en que hubiere elecciones ordinarias.
+El Congreso se renovará totalmente cada tres años, y se instalará el día quince de diciembre del año en que hubiere elecciones ordinarias.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -407,19 +429,23 @@ También incurrirán en responsabilidad, que la misma ley sancionará, los parti
 
 En el Congreso del Estado, las vacantes de sus miembros electos por el principio de representación proporcional, deberán ser cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista de candidatos respectiva, después de habérseles asignado los diputados que le hubieren correspondido.
 
-(REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
 
 ###### Artículo 31.
 
-El Congreso tendrá cada año un período de sesiones ordinarias que comenzará el 15 de septiembre de cada año y terminará el 15 de febrero del año siguiente. Ese plazo podrá prorrogarse por un mes, por acuerdo del Congreso y a iniciativa de alguno de los diputados o del Gobernador del Estado.
+El Congreso tendrá cada año dos períodos de sesiones ordinarias. El primero se inicia el quince de diciembre de cada año y terminará el quince de marzo del año siguiente; el segundo dará comienzo el quince de junio y terminará el quince de septiembre del mismo año.
 
-En este período de sesiones se ocupará de los siguientes asuntos:
+En el Primer período de sesiones el Congreso se ocupará de los siguientes asuntos:
 
-I.- Revisar la cuenta pública del año anterior, que deberá enviarle el Ejecutivo dentro de los diez primeros días de la apertura de sesiones. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas del presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y a las responsabilidades a que hubiere lugar;
+I.- Examinar, discutir y aprobar el presupuesto del año fiscal siguiente y decretar los impuestos necesarios para cubrirlo
 
-II.- Examinar, discutir y aprobar el presupuesto del año fiscal siguiente y decretar los impuestos necesarios para cubrirlo, y
+II.- Estudiar, discutir y votar las iniciativas de Ley que se presenten durante este período, y resolver los demás asuntos que le corresponda, conforme a esta Constitución.
 
-III.- Estudiar, discutir y votar las iniciativas de ley que se presenten, y resolver los demás asuntos que le corresponda, conforme a esta Constitución.
+En el segundo período de sesiones el Congreso se ocupará de los siguientes asuntos:
+
+I.- Revisar la cuenta pública del año anterior, que deberá enviarle al Ejecutivo dentro de los diez primeros días de la apertura de sesiones. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas del presupuesto, si no que se extenderá al examen de la exactitud y justificación de los gastos hechos y a las responsabilidades a que hubiere lugar; y
+
+II.- Estudiar, discutir y votar las iniciativas de Ley que se presenten durante este período, y resolver los demás asuntos que le corresponda, conforme a esta Constitución.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -427,11 +453,11 @@ III.- Estudiar, discutir y votar las iniciativas de ley que se presenten, y reso
 
 El Congreso tendrá sesiones extraordinarias, cada vez que sea convocado por el Gobernador del Estado, o por la Diputación Permanente en los casos previstos en esta Constitución; en ellas no se ocupará de otros asuntos que de los consignados en la respectiva convocatoria, a menos que durante estas mismas sesiones ocurran otros de mayor urgencia, calificados por el voto de las dos terceras partes de los diputados presentes.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1962)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
 
 ###### Artículo 33.
 
-El Gobernador del Estado asistirá a la apertura de sesiones de cada año legislativo y rendirá en ese acto o dentro de los treinta días siguientes, según lo determine el Congreso, el informe que manifieste el estado que guarde la Administración Pública. El Presidente del Congreso contestará en términos generales. En el último año de ejercicio de cada período gubernamental el informe de que trata este artículo, se rendirá ante la legislatura que concluya su período constitucional, la que se constituirá en sesión especial para este solo efecto. Al acto que se refiere este precepto, deberán asistir el Presidente del Supremo Tribunal de Justicia y los miembros que formen este Cuerpo.
+El Gobernador del Estado asistirá a la apertura del primer período ordinario de sesiones del Congreso de cada año legislativo y presentará en ese acto o dentro de los cuarenta y cinco días siguientes, el informe que manifieste el estado que guarde la Administración Pública. El Presidente del Congreso dará respuesta en términos generales. Al acto a que se refiere este precepto, deberán asistir el Presidente del Supremo Tribunal de Justicia y los miembros que formen este cuerpo.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -613,7 +639,7 @@ En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absolu
 
 XIX A.- Designar a las personas que han de integrar los ayuntamientos, cuando falte alguna de ellas, por cualquier causa.
 
-XX.- Hacer la declaratoria de haber resultado electos Senadores por el Estado, los ciudadanos que a su juicio hubiesen obtenido la mayoría de los votos emitidos, de acuerdo con lo dispuesto por el artículo 56 de la Constitución General de la República;
+XX.- (DEROGADA, P.O. 27 DE ABRIL DE 1995)
 
 XXI.- Aprobar o desaprobar las propuestas, solicitudes de licencia y renuncias de los magistrados del Supremo Tribunal de Justicia;
 
@@ -677,7 +703,9 @@ II.- Acordar, a propuesta del Ejecutivo, o por propia iniciativa en los casos pr
 
 III.- Expedir la convocatoria a sesiones extraordinarias, por medio de su Presidente, cuando el Ejecutivo no publique, en el término de tres días, el decreto correspondiente;
 
-IV.- Recibir las actas y expedientes de elección de Representantes Populares del Estado, de cuya validez debe conocer el Congreso, y presentarlos a éste para su calificación cuando se reúna;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1995)</small>
+
+IV.- Recibir las actas y expedientes de elección de Gobernador, de cuya validez debe conocer el Congreso, y presentarlos a éste para su calificación cuando se reúna;
 
 V.- Ejercer, en su caso, las facultades de que habla el artículo 30;
 
@@ -741,11 +769,11 @@ c).- Los titulares de las dependencias básicas de la organización administrati
 
 Las personas a que se refieren las tres incisos anteriores, podrán ser electas si se separan de sus cargos 90 días antes de la elección.
 
-(REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
 
 ###### Artículo 51.
 
-El Gobernador entrará a ejercer su cargo el 16 de septiembre del año de su elección, y no podrá durar en él más de seis años. El Ciudadano que haya desempeñado el cargo de Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+La elección de Gobernador se celebrará el segundo domingo del mes de noviembre del año anterior en que concluya el período Constitucional. El Gobernador entrará a ejercer su cargo el 15 de febrero del año siguiente al de la elección y no podrá durar en él más de seis años. El ciudadano que haya desempeñado el cargo de Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -785,11 +813,11 @@ El cargo de Gobernador del Estado sólo es renunciable por causa grave que calif
 
 La designación de Gobernador Provisional, Interino y Substituto debe recaer en persona que reúna los requisitos a que se refiere el artículo 49 y que no esté comprendida en alguna de las prohibiciones aplicables de los artículos 50 y 52 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 1995)</small>
 
 ###### Artículo 57.
 
-Si al comenzar un período constitucional no se presentare el Gobernador electo, o la elección no estuviera hecha y declarada el 16 de septiembre, cesará, sin embargo, el Gobernador cuyo período haya concluído, y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el que designe el Congreso del Estado, o en su receso, con el carácter de provisional, el que designe la Diputación Permanente, en cuyo caso se procederá conforme a lo dispuesto en el artículo 54.
+Si al comenzar un período Constitucional no se presentare el Gobernador electo, o la elección no estuviera hecha y declarada el 15 de febrero, cesará, sin embargo, el Gobernador cuyo período haya concluído, y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el que designe el Congreso del Estado, o en su receso, con el carácter de provisional, el que designe la Diputación Permanente, en cuyo caso se procederá conforme a lo dispuesto en el artículo 54.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
@@ -833,7 +861,9 @@ VII.- Expedir los reglamentos interiores de las oficinas a su cargo;
 
 VIII.- Cuidar de la recaudación y de la inversión de los caudales del Estado, con arreglo a las leyes;
 
-IX.- Presentar cada año al Congreso, durante los primeros diez días de cada período ordinario de sesiones, la cuenta de gastos del ejercicio fiscal próximo anterior, y antes de que concluya el año, los proyectos de presupuestos de ingresos y egresos para el año siguiente;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1995)</small>
+
+IX.- Presentar cada año al Congreso, durante los primeros diez días del segundo período ordinario de sesiones, la cuenta de gastos del ejercicio fiscal próximo anterior, y antes de que concluya el año, los proyectos de presupuestos de ingresos y egresos para el año siguiente;
 
 X.- Dar informes al Congreso de la Diputación Permanente, cuando le fueren pedidos, sobre cualquier ramo de la administración pública.
 
@@ -865,7 +895,7 @@ Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado c
 
 Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
-XVII.- Pedir al Congreso prórroga de sus sesiones ordinarias en el caso a que se refiere el artículo 31 de esta Constitución;
+XVII.- (DEROGADA, P.O. 27 DE ABRIL DE 1995)
 
 XVIII.- Pedir a la Diputación Permanente la reunión extraordinaria del Congreso;
 
@@ -1101,7 +1131,9 @@ IV.- Las demás que le asigne esta Constitución y la Ley Orgánica respectiva.
 
 El Supremo Tribunal de Justicia nombrará cada año su Presidente, el cual podrá ser reelecto.
 
-El Presidente del Supremo Tribunal de Justicia rendirá ante el Pleno, el trece de septiembre de cada año, informe que manifieste el estado que guarde la administración de justicia. A este acto asistirán el Gobernador del Estado, el Presidente del Congreso y los diputados.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+El Presidente del Supremo Tribunal de Justicia rendirá ante el Pleno, el 10 de febrero de cada año, informe que manifieste el estado que guarde la administración de justicia. A este acto asistirá el Gobernador del Estado, el Presidente del Congreso y los diputados.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1439,6 +1471,10 @@ El Estado adopta como base de su división territorial y de su organización pol
 
 Cada Municipio será representado y administrado por un Ayuntamiento de elección popular directa, que debe residir en la cabecera que señale la Ley y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+La elección de los integrantes de los ayuntamientos se celebrará el segundo domingo del mes de noviembre del año en que concluya el período constitucional, y tomarán posesión de su cargo el día primero de enero del año siguiente al de su elección.
+
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 113.
@@ -1479,11 +1515,9 @@ Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos serán e
 
 El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que las leyes prevengan, siempre y cuando sus miembros hayan tenido la oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan; todo esto sujeto a lo que dispone el título cuarto de esta Constitución.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
-
 ###### Artículo 118.
 
-El Ayuntamiento electo calificará la validez de las elecciones de sus miembros y resolverá las dudas que se susciten sobre ellas.
+(DEROGADO, P.O. 27 DE ABRIL DE 1995)
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
@@ -1891,6 +1925,10 @@ Ningún individuo podrá desempeñar, a la vez, dos cargos de elección popular;
 
 El cargo de Gobernador prefiere a cualquier otro.
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+Ningún individuo podrá ser registrado simultáneamente como candidato a dos cargos de elección popular.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
 
 ###### Artículo 156.
@@ -2179,7 +2217,7 @@ SEGUNDO. Reserve la Secretaría del Honorable Congreso del Estado, el expediente
 
 P.O. 7 DE JULIO DE 1983.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NO. 337, CONTIENE ADICIONA Y REFORMA AL TÍTULO QUINTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NO. 337, CONTIENE ADICIONA Y REFORMA AL TÍTULO QUINTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO".]
 
 PRIMERO. Este decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
 
@@ -2262,3 +2300,21 @@ UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicac
 P.O. 3 DE ENERO DE 1994.
 
 UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ABRIL DE 1995.
+
+PRIMERO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para ser operante la presente reforma constitucional, se requiere adecuar los tiempos de este año de elección; por lo cual, la Sexagésima Sexta Legislatura prolongará sus funciones en el Congreso hasta el 15 de diciembre del presente año, de modo que se pueda articular con la fecha de instalación de la Sexagésima Séptima Legislatura a elegir el segundo domingo de noviembre del año actual.
+
+TERCERO.- El titular del Poder Ejecutivo del Estado, por esta única ocasión , concluirá su período constitucional el día 15 de febrero de 1996, fecha en la que entrará a ejercer su cargo del Gobernador del Estado electo para el período Constitucional a iniciarse en esa fecha.
+
+CUARTO.- Para desahogar el trabajo legislativo propio de su competencia, la Legislatura actual en funciones lo hará bajo los mecanismos del artículo 32 de la Constitución vigente.
+
+QUINTO.- La revisión de la cuenta pública anual de 1994, dispuesta en el artículo 31 de la Constitución Política Local, por esta sola ocasión, se efectuará en sesión extraordinaria convocada para tal efecto por la actual Legislatura.
+
+SEXTO.- Los informes a cargo del Presidente del Supremo Tribunal de Justicia y del Titular del Poder Ejecutivo, según los numerales 33 y 78 de la Constitución Particular de Michoacán, serán rendidos en la nueva fecha que se contempla en la presente reforma constitucional.
+
+SEPTIMO.- Remítase la presente Minuta Proyecto de Decreto a los Honorables Ayuntamientos del Estado para los efectos del artículo 164 fracción IV de la Constitución Política del Estado.
+
+OCTAVO.- Se derogan todas las disposiciones normativas y reglamentarias que se opongan al presente Decreto.
