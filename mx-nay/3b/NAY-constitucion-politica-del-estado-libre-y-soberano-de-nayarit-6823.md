@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1924-08-14"
+last_updated: "1925-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1924.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 1925.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -259,7 +259,9 @@ I. Ser mexicano por nacimiento.
 
 II. Tener veinticinco años de edad cumplidos el día de la elección.
 
-III. Ser originario del Distrito Electoral que deba representar o vecino del mismo por cuatro años anteriores al día de la elección.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 1925)</small>
+
+III. Ser originario del Distrito Electoral que deba representar o vecino del mismo por dos años anteriores al día de la elección, siempre que el Candidato sea ciudadano Nayarita.
 
 ###### Art. 29.
 
@@ -293,13 +295,17 @@ Si una vez instalado el Congreso o abierto su período de sesiones, no pudiere e
 
 El diputado que sin causa justificada faltare diez días consecutivos, perderá el derecho de concurrir a sesiones hasta el nuevo periodo, y se llamará al suplente.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 1925)</small>
+
 ###### Art. 35.
 
-El Congreso del Estado durará en el ejercicio de sus funciones y se renovará en su totalidad, cada cuatro años, que se contarán desde el día primero de enero hasta el 31 de diciembre de los años respectivos. Por ningún caso los Diputados podrán ser reelectos.
+El Congreso del Estado durará en el ejercicio de sus funciones y se renovará en su totalidad, cada cuatro años, que se contarán desde el primero de diciembre hasta el treinta de noviembre de los años respectivos.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 1925)</small>
 
 ###### Art. 36.
 
-La Legislatura del Estado celebrará anualmente dos períodos de sesiones ordinarias: Uno que contará desde el primero de enero hasta el 31 de marzo y otro que comenzará el primero de julio terminando el treinta de septiembre. Cada uno de esos periodos podrá prorrogarse hasta por un mes si así lo exige la importancia de los asuntos pendientes de resolución y lo juzgan necesario las dos terceras partes de los miembros de la Cámara.
+La Legislatura del Estado celebrará anualmente dos períodos de sesiones ordinarias: Uno que contará desde el primero de diciembre hasta el día último de febrero y otro que comenzará el primero de junio, terminando el treinta y uno de agosto. Cada uno de estos periodos podrá prorrogarse hasta por un mes, si así lo exige la importancia de los asuntos pendientes de resolución y lo juzgan necesario las dos terceras partes del número total de los Ciudadanos Diputados.
 
 ###### Art. 37.
 
@@ -387,7 +393,9 @@ VI. Fijar anualmente, a propuesta del Gobernador del Estado, los gastos de la Ad
 
 VII. Dar la resolución correspondiente, aprobando, reformando, o reprobando las leyes de EGRESOS de los Municipios y sus planes de arbitrios para cubrirlos.
 
-VIII. Convocar a elecciones. Hacer el escrutino de los votos emitidos para Gobernador y Diputados; calificar dichas eleciones (sic) y declarar electos a los que hayan obtenido mayoría de sufragios.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 1925)</small>
+
+VIII. Convocar a elecciones, hacer el escrutinio de los votos emitidos para Gobernador; calificar dicha elección y declarar electo al que haya tenido mayoría de sufragios válidos.
 
 IX. Constituirse en colegio electoral para elegir a los Magistrados del Supremo Tribunal de Justicia y al Procurador General de la misma en el Estado.
 
@@ -1121,6 +1129,20 @@ P.O. 14 DE AGOSTO DE 1924
 
 Por esta sola vez, y de acuerdo con lo que estatuye el Reglamento Interior del H. Congreso en su artículo 5o, el día 15 de diciembre del año en curso, se hará la elección de los C.C. Magistrados Propietarios que faltan para que sea integrado el Tribunal Trinitario (sic); a cuyo efecto, la Comisión Permanente que funcione en aquella fecha, se encargará de hacer la convocatoria que procede. Los Ciudadanos electos rendirán la protesta de ley, el día 27 del propio diciembre ante la Diputación Permanente y se harán cargo de sus puestos, el 1o. de enero próximo.
 
+P.O. 3 DE MAYO DE 1925
+
+###### Art. 1o.
+
+Mientras el H. Congreso no decrete el Reglamento para la instalación del Colegio Electoral formado por los presuntos Diputados, se estará en lo relativo a lo dispuesto por el Reglamento que sirvió para la instalación del Consejo Electoral que funcionó para declarar el H. Congreso Constituyente de este Estado en 1917
+
 ###### Art. 1o.
 
 Esta Constitución se promulgará por Bando Solemne el día 5 de febrero del corriente año, en la Capital del Estado, empezando a regir desde luego. En las poblaciones foráneas, se publicará oportunamente con la misma solemnidad y surtirá sus efectos desde el día de su publicación.
+
+###### Art. 2o.
+
+A fín de que no sea interrumpido o restado el presente período Constitucional, por esta sola vez los ciudadanos presuntos Diputados, tomarán posesión de sus respectivos cargos, hasta el día treinta y uno de diciembre a las y veintienatro (sic) horas, sin perjuicio de que ellos hagan el examen de los expedientes electorales y declaratoria respectiva, tanto en la elección de Diputados, como en la de Gobernador, con sujeción a lo dispuesto por este Decreto.
+
+###### Art. 3o.
+
+El presente decreto comenzará a surtir sus efectos legales, a partir del día de su promulgación.
