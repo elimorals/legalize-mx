@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1996-12-25"
+last_updated: "1999-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -1253,11 +1253,15 @@ Son sujetos de este impuesto, las personas físicas o morales que habitual o acc
 
 DE LA BASE
 
-###### ARTICULO 114o.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
 
-La base de este impuesto será el ingreso total que se obtenga por los conceptos gravados.
+###### ARTICULO 114.
 
-La Tesorería General del Estado, podrá efectuar avalúos de los bienes motivo del acto, convenio o contrato objeto de este impuesto, para efectos de determinar la base, en los casos que no se tenga documentación que acredite su valor o cuando este sea inferior al que rija en el mercado.
+La base de este impuesto será:
+
+I. Tratándose de vehículos, el valor que resulte mayor entre el precio consignado en la operación y el que se encuentre señalado en los tabuladores oficiales de valores mínimos de la Secretaría de Finanzas y Administración.
+
+II. Tratándose de otros bienes muebles, el valor de la operación. Cuando este valor sea inferior al que rija en el mercado o no se tenga la documentación que acredite su valor, la Secretaría de Finanzas y Administración, podrá efectuar el avalúo de los bienes motivo del acto o convenio, objeto de este impuesto para efectos de determinar la base
 
 DE LA TASA
 
@@ -1273,7 +1277,9 @@ DEL PAGO
 
 El pago del impuesto deberá ser efectuado a más tardar el día siguiente hábil a aquél en que se haya realizado cualquiera de los actos, convenios o contratos objeto de este impuesto.
 
-En los casos en que los actos gravados se deriven de convenios o contratos, el impuesto se pagará a más tardar al día siguiente hábil de su fecha, independientemente del momento en que surta sus efectos.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+En los casos en que los actos gravados se deriven de convenios o contratos, el impuesto se pagará a mas tardar el día siguiente hábil de su fecha, independientemente del momento en que surta sus efectos.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -1289,9 +1295,9 @@ DE LAS OBLIGACIONES
 
 Los sujetos de este impuesto tendrán las siguientes obligaciones:
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1999)</small>
 
-I.- Solicitar su inscripción en el Registro de contribuyentes de la secretaría de Hacienda del Estado, utilizando al efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Secretaría de Hacienda podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto. Las sucursales u otras dependencias de la matriz deberán inscribirse por separado.
+I. Tratándose de sujetos habituales, solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas y Administración, utilizando al efecto las formas aprobadas. La Secretaría de Finanzas y Administración podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto. Las sucursales u otras dependencias de la matriz deberán inscribirse por separado.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -1323,9 +1329,19 @@ a).- El enajenante, cedente, u otorgante resida fuera del Estado.
 
 b).- Cuando el adquirente, cesionario o beneficiario, no se cerciore del pago del impuesto.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
 
-ARTICULO 119 BIS.- Se exime del pago de este impuesto los actos, convenios o contratos de carácter civil contemplados en las fracciones I, V y VII del Artículo 111o, si se causa y se paga por dichos conceptos el Impuesto al Valor Agregado.
+ARTICULO 119 BIS.- Se exime del pago de este impuesto:
+
+a).- Los actos, convenios o contratos de carácter civil, si se causa y se paga por dichos conceptos el Impuesto al Valor Agregado.
+
+b).- La donación y la transmisión por herencia realizada entre los cónyuges o a sus ascendientes y descendientes en línea recta.
+
+c).- La aportación de bienes a una sociedad o asociación.
+
+d).- La transmisión de bienes entre dependencias y organismos públicos descentralizados del Gobierno del Estado de Tamaulipas.
+
+e).- La donación de bienes a instituciones de asistencia social con reconocimiento oficial, así como a Dependencias y Organismos Públicos Descentralizados del Gobierno del Estado de Tamaulipas.
 
 ### CAPITULO IV. IMPUESTO SOBRE PRODUCTOS DE INVERSION
 
@@ -2237,191 +2253,83 @@ DEL OBJETO
 
 ###### ARTICULO 184o.
 
-Son objeto de este impuesto los ingresos por espectáculos públicos que se organicen y celebren dentro del Estado.
-
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983) (F. DE E., P.O. 21 DE ENERO DE 1984)
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 185o.
 
-Para los efectos de este impuesto se entiende por espectáculos públicos toda función teatral, cinematográfica, deportiva, las peleas de gallos, las carreras de animales, los concursos, exhibiciones, bailes, las albercas, juegos recreativos, establecimientos que presenten variedades, o de cualquier otra especie, que se realicen en locales o espacios abiertos o cerrados donde se autorice la entrada mediante el pago de cierta suma de dinero, se cobre derecho de mesa o distintivo.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 186o.
 
-Para los efectos de este impuesto, se entiende:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1979)</small>
-
-I.- Por espectáculo teatral, las representaciones de dramas, comedias, sainetes, conciertos, ópera, opereta, ballets, zarzuela, revistas y, en general, la actuación personal de actores, músicos o artistas ante el público. Están comprendidos en este concepto, los espectáculos que se den en las carpas o circos.
-
-II.- Por función cinematográfica la exhibición, habitual u ocasional, de películas de cualquier especie.
-
-III.- Por funciones deportivas, los encuentros de box o luchas, los juegos de pelota en cualquier forma, las competencias o exhibiciones hípicas, de natación, de regatas, de pesca y otras similares.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 DE LOS SUJETOS
 
 ###### ARTICULO 187o.
 
-Son sujetos de este impuesto las personas físicas o morales que habitual u ocasionalmente organicen o administren espectáculos públicos.
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
-
-###### ARTICULO 188.
-
-El impuesto se causa con la tasa del 8 por ciento sobre el precio de entrada al espectáculo.
-
-Para este efecto, los pases se considerarán que tienen el mismo valor que las autorizaciones o boletos de admisión, en cada caso.
-
-DEL PAGO
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 188o.
 
-VEASE TABLA ANEXA
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 DEL PAGO
 
 ###### ARTICULO 189o.
 
-El impuesto deberá ser pagado en la Oficina Fiscal de la jurisdicción de la empresa de diversiones o espectáculos públicos dentro de los siguientes plazos:
-
-I.- Tratándose de sujetos habituales, dentro de los cinco primeros días del mes siguiente a aquel en que se haya causado; y
-
-II.- Por lo que hace a los sujetos accidentales, a más tardar el día siguiente hábil al que se realice.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 190o.
 
-Cuando además del espectáculo o diversión, se presente en el mismo local otro u otros servicios que no constituyan espectáculos o diversiones, el cobro de estos servicios se hará en forma independiente del cobro del precio de los boletos que den derecho a entrar al local, pero en ningún caso podrá ser obligatorio para el público, el pago de los mismos servicios como condición para la venta de esos boletos.
-
-El incumplimiento a estas disposiciones dará lugar a considerar que todas las cuotas se cobran por el espectáculo o diversión y, en consecuencia, que el Impuesto se cause y pague sobre el importe total de lo cobrado.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 191o.
 
-Cuando por cualquier título se tenga derecho a asistir y presenciar diversiones o espectáculos, o para ocupar determinadas localidades, el impuesto se causa por cada asistente, aún cuando no haya venta de boletos.
-
-El impuesto se calculará sobre el precio de localidades similares y será a cargo de la persona o empresa que organice, explote o patrocine dichas diversiones o espectáculos.
-
-> <small>(F. DE E., P.O. 29 DE ENERO DE 1977)</small>
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 192o.
 
-Cuando las empresas de espectáculos públicos expidan pases o autorizaciones para entrar al espectáculo sin el pago de la cuota establecida, el impuesto se causará sobre dichos pases o autorizaciones como en los casos en que se paga el importe del boleto o la entrada al espectáculo.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 193o.
 
-En los casos en que legalmente proceda la devolución de la totalidad o de una parte del importe de las entradas a un espectáculo o diversión, no se causará el impuesto sobre las cantidades devueltas.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 194.
 
-Se faculta al Ejecutivo del Estado a través de la Secretaría de Hacienda, para celebrar convenios para el pago de impuestos sobre espectáculos públicos, sobre cuota fija, en los casos de sujetos habituales del mismo, siempre y cuando dichos convenio se ajusten a las siguientes reglas:
-
-a).- Que se celebren únicamente por un ejercicio fiscal.
-
-b).- Que la cuota mensual que se señale en los citados convenios no sea inferior al importe promedio del impuesto causado, en los meses del año fiscal anterior, por la misma empresa y por el mismo espectáculo.
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
-
-c).- Que las cuotas a que se refiere el inciso anterior, sean cubiertas por anualidades adelantadas, dentro de los primeros quince días del mes de enero. En este caso quedan relevados de la obligación establecida en el Artículo 189 fracción I de esta Ley.
-
-d).- Que cualquier riesgo de suspensión del espectáculo sujeto a convenio, corra a cargo de la empresa, sin poder alegar en su favor, para suspender el pago de las cuotas fijadas por impuestos, el caso fortuito de causa de fuerza mayor, o cualquier otro motivo de excepción.
-
-e).- Sólo podrán celebrarse convenios de cuota fija, con aquellas empresas que hubieren efectuado funciones del mismo espectáculo, cuando menos durante un año anterior.
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 18 DE DICIEMBRE DE 1991)</small>
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 194-A.
 
-La Secretaría de Hacienda del Estado podrá determinar presuntivamente la base de este impuesto, en los siguientes casos:
-
-I.- Cuando no se presenten en la Ofirina (sic) Fiscal para su sellado los boletos o comprobantes de entrada, incluyendo los pases que expidan.
-
-II.- Cuando no se presenten las declaraciones a que están obligados los contribuyentes o responsables solidarios en este capítulo.
-
-III.- Cuando los contribuyentes o responsables solidarios se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales.
-
-IV.- Cuando por los informes o documentación que se disponga se conozca la obtención de un ingreso superior al declarado en un 5%, cuando menos.
-
-Para la determinación presuntiva de la base del impuesto se tendrán en cuenta las actividades realizadas el precio de los boletos de entrada, el número de asistentes, o en su caso, la cantidad de boletos emitidos. Se aplicará en lo conducente lo dispuesto en el Código Fiscal del Estado.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 195.
 
-Los sujetos habituales u ocasionales no podrán iniciar la función en su espectáculo si no han pagado el impuesto correspondiente a la función anterior. La Secretaría de Hacienda del Estado o la Oficina Fiscal, están facultadas para suspender la función y para clausurar el local donde se celebre el espectáculo, en los casos en que no se pague el impuesto.
-
-La clausura se realizará sellando las puertas de acceso al local en que se celebre el espectáculo y tendrá el carácter de provisional. La clausura sólo se levantará cuando se pague el impuesto insoluto, más los recargos, multas y accesorios causados.
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
-
-Los sujetos habituales que celebren Convenios de acuerdo con lo previsto en el presente Capítulo están sujetos a las sanciones que señalan los párrafos anteriores de este Artículo, si no cubren oportunamente sus cuotas fijadas.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 DE LAS OBLIGACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1991)</small>
-
 ###### ARTICULO 196.
 
-Los sujetos habituales del impuesto están obligados:
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
-
-I.- A solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Hacienda del Estado, utilizando para el efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Secretaría de Hacienda del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realiza actividades gravadas con este impuesto.
-
-II.- A entregar en la Oficina Fiscal de su jurisdicción un ejemplar de sus programas, cuando menos el día hábil anterior de la celebración de la función.
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
-
-III.- A notificar por escrito, a más tardar el mismo día del espectáculo, a la Oficina Fiscal de su jurisdicción, de cualquier cambio en los precios fijados en los programas a que se refiere la fracción anterior.
-
-IV.- A expedir boletos y comprobantes de entrada individuales, en los que se exprese el nombre de la empresa, la clase de espectáculo, el precio de entrada y el importe del impuesto. Dichos boletos o comprobantes deberán estar numerados progresivamente.
-
-V.- A presentar, para que sean sellados los boletos o comprobantes de entrada, incluyendo los pases que expidan, en la Oficina Fiscal de la jurisdicción donde se realice el espectáculo.
-
-VI.- A permitir y facilitar la intervención, inspección y vigilancia de los ingresos del espectáculo, por las autoridades fiscales competentes.
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
-
-VII.- A presentar en la Oficina Fiscal de la jurisdicción, los avisos relacionados con la modificación a los datos contenidos en la solicitud de inscripción, en los términos que establece el Código Fiscal del Estado.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 197o.
 
-Las personas que ocasionalmente organicen o administren un espectáculo público, están obligadas:
-
-I.- A dar aviso, a la Oficina Fiscal de la jurisdicción de la celebración de cada función, a más tardar el día hábil anterior a aquel en que deba realizarse el espectáculo. En los casos en que el espectáculo vaya a tener funciones sucesivas, bastará el aviso que deberá darse a más tardar el día hábil anterior a la fecha en que deba celebrarse la primera función.
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
-
-II.- A otorgar ante la Oficina Fiscal del Estado donde se haya presentado el aviso, a más tardar el día hábil anterior a la fecha en que se realice la función, garantía suficiente del interés fiscal, en los términos del Código Fiscal del Estado, que deberá comprender el importe estimado de los impuestos que deba causar el espectáculo. Para este efecto, el Jefe de la Oficina Fiscal fijará, bajo su responsabilidad, el importe de la garantía y resolverá su admisión.
-
-III.- A expedir boletos o comprobantes de entrada individuales, en los que se expresará el nombre de la empresa, la clase de espectáculo, el precio de entrada y el importe del impuesto. Dichos boletos o comprobantes deberán estar numerados progresivamente y deberán expedirse, a más tardar el día anterior a la fecha en que deba realizarse la primera función.
-
-IV.- A presentar, para que sean sellados, los boletos o comprobantes de entrada individuales, incluyendo los pases, en la Oficina Fiscal de su jurisdicción, a más tardar el día hábil anterior a la celebración de cada función.
-
-V.- A dar aviso a la Oficina Fiscal de la jurisdicción, de la clausura de su espectáculo, cuando éste se celebre en funciones sucesivas. Dicho aviso se presentará a más tardar el día hábil anterior a la fecha en que se clausure el espectáculo.
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
-
-VI.- A cumplir con la obligación que establece la fracción VI del Artículo anterior.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 198o.
 
-El pago del impuesto y los avisos presentados a las autoridades fiscales son independientes de las licencias que, para celebrar el espectáculo deban expedir las autoridades municipales. En consecuencia, el pago del impuesto y la presentación de los avisos, en ningún caso sustituyen las mencionadas licencias.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
-
 ###### ARTICULO 199.
 
-Tienen responsabilidad solidaria para el pago del impuesto, las personas que permitan el uso o goce de los locales o inmuebles en donde se lleven a cabo espectáculos.
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 200.
 
-Las autoridades municipales, deberán dar aviso, a la Oficina Fiscal de su jurisdicción, de los permisos que otorgue para la celebración de espectáculos y diversiones públicas, por lo menos un día antes de la celebración del mismo.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -2429,9 +2337,7 @@ Las autoridades municipales, deberán dar aviso, a la Oficina Fiscal de su juris
 
 En los casos de incumplimiento de las obligaciones establecidas en este Capítulo a los sujetos o responsables solidarios, las autoridades fiscales estarán facultadas para embargar precautoriamente bienes suficientes que garanticen el interés fiscal, de acuerdo a lo dispuesto en el Código Fiscal del Estado.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
-
-ARTICULO 201 BIS.- Se exime del pago de este impuesto los espectáculos por los que se cause y se pague el Impuesto al Valor Agregado.
+ARTICULO 201 BIS.- (DEROGADO, P.O. 22 DE DICIEMBRE DE 1999)
 
 (SUSPENDIDO, POR EL ANEXO 4 AL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 5 DE NOVIEMBRE DE 1980)
 
@@ -2653,59 +2559,113 @@ III.- Los ingresos a que se refiere este Capítulo, cuando por ellos se cause y 
 
 > <small>(DEROGADO ULTIMO PARRAFO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-### CAPITULO XII. IMPUESTO SOBRE PRODUCCION, DISTRIBUCION Y VENTA
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 1999)</small>
 
-DE ALCOHOL Y SOBRE EXPENDIOS DE BEBIDAS ALCOHOLICAS
+### CAPITULO XII. IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
 DEL OBJETO
 
-###### ARTICULO 221o.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1999)</small>
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
+###### ARTICULO 221.
 
-###### ARTICULO 222o.
+El objeto de este impuesto es la prestación de servicios de hospedaje, el otorgamiento de albergue y cualquier otro servicio de naturaleza análoga.
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1999)</small>
 
-###### ARTICULO 223o.
+###### ARTICULO 222.
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
+Para efecto de este impuesto, se entenderá como servicios de hospedaje, además de los citados en el artículo anterior los siguientes:
+
+I.- La prestación de servicios, bajo el sistema de tiempo compartido o de cualquier otra denominación, mediante el que se conceda el uso o goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea una unidad cierta, considerada en lo individual, o una unidad variable dentro de una clase determinada, durante un período especifico, a intervalos determinados o determinables.
+
+II. La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los que se otorgue el espacio e instalaciones para el establecimiento temporal de estas.
+
+III. Los servicios de campamento a través de los que se otorguen espacios para acampar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 223.
+
+Son sujetos de este impuesto las personas físicas y morales que presten servicios de hospedaje, dentro del territorio del Estado de Tamaulipas, independientemente del lugar donde se concerte o se realice el pago por dichos servicios.
 
 DE LOS SUJETOS
 
-###### ARTICULO 224o.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1999)</small>
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
+###### ARTICULO 224.
+
+La base gravable de éste impuesto será el monto total de los Ingresos por la prestación del servicio de hospedaje, incluyendo depósitos, anticipos, intereses normales o moratorios, penas convencionales y cualquier otro concepto de la misma naturaleza.
+
+Cuando los contribuyentes realicen la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, alimentos, uso de instalaciones u otros similares y no desglosen y comprueben con la documentación correspondiente la prestación de éstos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
+
+Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, además del costo de la membresía o certificado de titularidad, el monto de los pagos que se reciban por cuotas de mantenimiento u otras similares
 
 DE LA BASE
 
-###### ARTICULO 225o.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1999)</small>
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
+###### ARTICULO 225.
 
-###### ARTICULO 226o.
+El monto del impuesto se determinará aplicando la tasa del 2 % a la base gravable a que se refiere el artículo anterior.
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 226.
+
+Para los efectos de este capítulo, el impuesto se causará cuando se realice cualquiera de los supuestos siguientes:
+
+I.- Se pague parcial o totalmente el servicio a que se refiere el artículo 224 de esta ley.
+
+II. Se expida el comprobante que ampare la prestación del servicio.
+
+III. Cuando el servicio sea prestado.
 
 DEL PAGO
 
-###### ARTICULO 227o.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1999)</small>
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
+###### ARTICULO 227.
 
-###### ARTICULO 228o.
+El impuesto deberá pagarse mensualmente, a más tardar el día quince del mes siguiente a aquel al que corresponda el pago, presentándose al efecto, declaración en la Oficina Fiscal de su jurisdicción, en las formas aprobadas.
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 228.
+
+Los sujetos de este impuesto tendrán las siguientes obligaciones:
+
+I. Solicitar su inscripción en el Registro de Contribuyentes de la Secretaria de Finanzas y Administración del Estado, utilizando, para tal efecto, las formas aprobadas. La SecretarÍa de Finanzas y Administración del Estado podrá, de oficio, inscribir a los contribuyentes cuando tenga a su disposición informes por este impuesto. Las sucursales u otras dependencias de la matriz deberán inscribirse por separado.
+
+II. Presentar, ante las mismas autoridades, los avisos de cambios de datos contenidos en su solicitud de inscripción, en los términos del Código Fiscal del Estado.
+
+III. Presentar declaraciones, así como los avisos, datos, documentos e informes que les soliciten las autoridades en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
+
+IV. Trasladar, en forma expresa y por separado, a los usuarios de los servicios de hospedaje, el impuesto correspondiente.
+
+V. Conservar, a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de las operaciones realizadas y del pago del impuesto.
+
+VI. Cuando los sujetos operen con varios establecimientos, podrán optar por acumular la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado, para lo cual presentará aviso en la Oficina Fiscal ante la cual dejarán de presentar declaraciones.
+
+VII. Llevar la contabilidad y expedir comprobantes por las contraprestaciones que obtenga, de conformidad con el Código Fiscal del Estado. Deberá conservar una copia de los comprobantes a disposición de las autoridades fiscales.
 
 DISPOSICIONES COMUNES
 
-###### ARTICULO 229o.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1999)</small>
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
+###### ARTICULO 229.
 
-###### ARTICULO 230o.
+La Secretaría de Finanzas y Administración del Estado podrá determinar presuntivamente la base gravable de este impuesto, cuando los contribuyentes se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales, cuando se omita presentar alguna declaración o cuando no presenten a las autoridades fiscales la contabilidad para efectos de su revisión, así como los datos, documentos o informes que éstas le requieran. Para este efecto, la Secretaría de Finanzas y Administración del Estado, presumirá como base gravable del impuesto la siguiente:
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 1991)
+a) El monto total de las contraprestaciones recibidas a cambio del servicio de hospedaje, en el mismo mes del año anterior, actualizándolas con el factor a que se refiere el artículo 18-A del Código Fiscal del Estado, desde el mes del año anterior y hasta el mes a que se refiere la determinación presuntiva. En caso de haber aumentado la capacidad de servicio, se incrementará la base en la misma proporción.
+
+b) La que resulte del monto total de las contraprestaciones por el servicio de hospedaje que observen durante siete días incluyendo los inhábiles cuando menos, y el promedio diario resultante se multiplicará por el numero de días que comprende el período objeto de revisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 230.
+
+Este impuesto no se causa por los servicios de hospedaje proporcionados por hospitales, clínicas, asilos, conventos, seminarios o internados.
 
 ###### ARTICULO 231o.
 
@@ -2939,7 +2899,7 @@ Son obligaciones de los sujetos de este impuesto:
 
 I.- Liquidar el impuesto en el momento en que se haga el entero de los conceptos básicos sobre los cuales recae, en las declaraciones que se presenten con motivo del pago de estos, salvo en aquellos casos en que se prevea una forma distinta.
 
-II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días 1o. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
+II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días lo. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
 
 III.- Las demás que este capítulo establece.
 
@@ -3239,7 +3199,7 @@ Para la determinación y cobro de los derechos que establece el artículo anteri
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-I.- Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, aquel que sirva de base para el cálculo del Impuesto sobre Adquisición de Bienes Inmuebles sin deducción alguna; en los casos que no cause dicho impuesto, se tomará como base el valor de los bienes inmuebles determinado en el avalúo pericial expedido por la Dirección de Catastro de la Secretaría de Hacienda del Estado.
+I.- Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, aquel que sirva de base para el cálculo del Impuesto sobre Adquisición de Bienes Inmuebles sin deducción alguna; en los casos que no se cause dicho impuesto, se tomará como base el valor de los bienes inmuebles determinado en el avalúo pericial expedido por la Dirección de Catastro de la Secretaría de Hacienda del Estado.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -3953,7 +3913,7 @@ DECRETO No. 127
 
 UNICO.- El presente Decreto entrará en vigor el 1º. de enero de 1982.
 
-P.O. 3 DE ABRIL DE 1978
+P.O. 3 DE ABRIL DE 1982
 
 DECRETO No. 178
 
@@ -4040,3 +4000,13 @@ Para los efectos de lo dispuesto en el artículo 145 primer párrafo de la Ley d
 ###### ARTICULO TERCERO.
 
 Para los efectos de lo dispuesto en el inciso a) de la fracción I del artículo 146 de la Ley de Hacienda del Estado, los sujetos que realicen actividades objeto del impuesto, podrán solicitar su inscripción a más tardar el día 17 de marzo de 1997, sin la aplicación de sanciones.
+
+P.O. 22 DE DICIEMBRE DE 1999
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del 1 de enero del año 2000.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de lo estipulado en el artículo 228 de la Ley de Hacienda del Estado, los contribuyentes de este impuesto que ya estén inscritos en el Registro de Contribuyentes de la Secretaría de Finanzas y Administración del Estado, deberán de presentar aviso de aumento de obligaciones a más tardar el 15 de febrero del año 2000.
