@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2004-11-13"
+last_updated: "2004-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -779,11 +779,11 @@ Las comisiones, durante los recesos, continuarán el estudio de los asuntos pend
 
 Los dictámenes que se produzcan sobre asuntos que no llegue a conocer la Legislatura que los recibió, quedarán a disposición de la siguiente con el carácter de proyectos prioritarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Art. 62.
 
-Son Comisiones de Dictamen Legislativo lo siguiente:
+Son Comisiones de Dictamen Legislativo, las siguientes:
 
 I.- De Gobernación y Puntos Constitucionales;
 
@@ -865,7 +865,9 @@ Las comisiones tendrán a su cargo las cuestiones relacionadas con la materia pr
 
 La Junta de Coordinación Parlamentaria podrá proponer al pleno el aumento o la disminución del número de comisiones.
 
-Los diputados podrán formar parte de no más de tres comisiones y hasta de dos cuando presidan alguna. En su integración las comisiones reflejarán la composición plural del Congreso.
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2004)</small>
+
+En su integración, las Comisiones de Dictamen Legislativo reflejarán la composición plural del Congreso. Los Diputados podrán formar parte de no más de tres Comisiones de Dictamen Legislativo y solamente podrán presidir una.
 
 ###### Art. 63.
 
@@ -1990,3 +1992,7 @@ P.O. 13 DE NOVIEMBRE DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
