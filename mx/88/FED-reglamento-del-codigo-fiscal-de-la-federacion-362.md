@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-codigo-fiscal-de-la-federacion-362"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "1992-03-31"
+last_updated: "1993-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=362&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DEL CODIGO FISCAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE OCTUBRE DE 1993.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 29 de febrero de 1984.
 
@@ -1131,7 +1131,7 @@ e).- La conciliación de registros contables con la declaración del ejercicio y
 
 4.- En relación con el impuesto al valor agregado acreditable del ejercicio, se deberá anotar el impuesto trasladado al contribuyente, el pagado en aduanas por importación de bienes tangibles y el que se pagó por otras importaciones, y se obtendrá el subtotal de este impuesto.
 
-5.- Al resultado obtenido en el inciso anterior se le restará el impuesto al valor agregado correspondiente a los gastos realizados con motivo de importaciones, en los casos en que conforme a la Ley de la materia no sean acreditables, a las inversiones o gastos referentes a periodos preoperativos y a los gastos e inversiones correspondientes a los actos o actividades por los que no se está obligado al pago del impuesto y, en su caso, el impuesto al valor agregado compensado contra otros impuestos, y
+5.- Al resultado obtenido en el inciso anterior se le restará el impuesto al valor agregado correspondiente a los gastos realizados con motivo de importaciones, en los casos en que conforme a la Ley de la materia no sean acreditables, a las inversiones o gastos referentes a períodos preoperativos y a los gastos e inversiones correspondientes a los actos o actividades por los que no se está obligado al pago del impuesto y, en su caso, el impuesto al valor agregado compensado contra otros impuestos, y
 
 6.- La información anterior dará como resultado el importe total del impuesto del ejercicio a cargo o del saldo a favor del contribuyente.
 
@@ -1243,7 +1243,7 @@ I.- El texto del dictamen fiscal simplificado, deberá apegarse a alguno de los 
 
 En el informe relativo al dictamen fiscal simplificado, el contador público registrado deberá verificar:
 
-a).- Que la donataria éste autorizada para recibir donativos deducibles para efectos del impuesto sobre la renta y que se encuentre incluida en la lista de donatarias dada a conocer por la Secretaría, señalando la fecha de publicación en el Diario Oficial de la Federación en que fue incluida.
+a).- Que la donataria esté autorizada para recibir donativos deducibles para efectos del impuesto sobre la renta y que se encuentre incluida en la lista de donatarias dada a conocer por la Secretaría, señalando la fecha de publicación en el Diario Oficial de la Federación en que fue incluida.
 
 b).- Que los donativos y sus rendimientos se hayan destinado a los fines propios del objeto social de la donataria, en los términos del artículo 14-C del Reglamento de la Ley del Impuesto sobre la Renta.
 
@@ -1639,6 +1639,18 @@ La autoridad recaudadora vigilará que los gastos extraordinarios que se efectú
 
 No se cobrarán los gastos de ejecución a que se refiere el artículo 150 del Código, cuando los créditos fiscales respecto de los cuales se ejercitó el procedimiento' administrativo de ejecución que dio lugar a dichos gastos, hayan quedado insubsistentes en su totalidad mediante resolución o sentencia definitiva dictada por autoridad competente.
 
+> <small>(ADICIONADO, D.O.F. 4 DE OCTUBRE DE 1993)</small>
+
+###### ARTICULO 74-B.
+
+Cuando el requerimiento y el embargo a que se refiere el artículo 150 del Código Fiscal de la Federación, se lleven a cabo en una misma diligencia se efectuará un solo cobro por concepto de gastos de ejecución.
+
+> <small>(ADICIONADO, D.O.F. 4 DE OCTUBRE DE 1993)</small>
+
+###### ARTICULO 74-C.
+
+Las autoridades fiscales, para la determinación del monto de los gastos de ejecución a que se refiere el artículo 150 del Código Fiscal de la Federación, considerarán como un solo crédito la totalidad de los adeudos que se determinen en una resolución, así como la totalidad de los adeudos por los que se solicite, en un mismo acto, el pago en parcialidades, aun cuando provengan de diferentes contribuciones o correspondan a años distintos.
+
 #### SECCION TERCERA. El Embargo, Intervención y Remate
 
 ###### ARTICULO 75.
@@ -1724,3 +1736,11 @@ D.O.F. 31 DE MARZO DE 1992.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, excepto la adición el último párrafo del artículo 20 que entrará en vigor el 1o. de enero de 1993.
 
 SEGUNDO.- Los contribuyentes que con anterioridad a la entrada en vigor de este Decreto hubieran estado obligados a efectuar los avisos o el sellado de los libros que fueron suprimidos por el presente Decreto, quedarán liberados de cumplir con dicha obligación.
+
+D.O.F. 4 DE OCTUBRE DE 1993.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La opción establecida en el ARTICULO PRIMERO de este Decreto se podrá ejercer a más tardar el 31 de diciembre de 1994, salvo en los casos a que se refiere el artículo siguiente.
+
+TERCERO.- Los contribuyentes que hayan venido cubriendo sus adeudos fiscales en parcialidades conforme a lo dispuesto por el artículo 66 del Código Fiscal de la Federación con anterioridad a la entrada en vigor del presente Decreto, inclusive cuando hayan incumplido con el pago de tres o más parcialidades, podrán por una sola vez, efectuar el pago del saldo insoluto de su adeudo fiscal hasta en treinta y seis nuevas parcialidades mensuales y sucesivas, de acuerdo con lo dispuesto en el ARTICULO PRIMERO de este Decreto, siempre que presenten aviso ante la Administración de Recaudación que corresponda a más tardar el 30 de noviembre de 1993 y cumplan con los demás requisitos que establece el artículo citado.
