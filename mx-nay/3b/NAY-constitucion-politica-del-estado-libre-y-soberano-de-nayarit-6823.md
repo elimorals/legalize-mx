@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2001-01-24"
+last_updated: "2001-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -629,9 +629,13 @@ XXXIV.- Conceder el revalúo de cualquiera finca urbana o rústica con sujeción
 
 XXXV. Designar al Presidente y a los Consejeros del Organo Electoral del Estado en los términos de la ley de la materia.
 
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2001)</small>
 
-XXXVI. Expedir todas las Leyes que sean necesarias o propias para hacer efectivas las facultades que anteceden y todas las otras concedidas por esta Constitución a los Poderes del Estado.
+XXXVI.- Instituir la jurisdicción administrativa para resolver las controversias que se susciten en relación con la legalidad, la interpretación, cumplimiento y efectos de los actos, procedimientos y disposiciones de naturaleza administrativa emitidos por las autoridades del Estado o Municipios, para lo cual podrá crearse un tribunal administrativo dotado de plena autonomía para dictar sus fallos estableciéndose las normas de su organización, funcionamiento, competencia, procedimiento y recursos contra sus resoluciones.
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2001)</small>
+
+XXXVII. Expedir todas las leyes que sean necesarias o propias para hacer efectivas las facultades que le anteceden y todas las otras concedidas por esta Constitución a los Poderes del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
 
@@ -2271,7 +2275,7 @@ Para todos los efectos prevenidos en la Ley Orgánica del Poder Legislativo y el
 
 P.O. 1 DE JUNIO DE 1994.
 
-DECRETO NUM. 7766, QUE REFORMA LOS ARTS. 29 Y 124, Y DEL 72 AL 79.
+DECRETO NUM. 7766, QUE REFORMA LOS ARTS. 29 Y 124, Y DEL 72 AL 79, P.O. 1º. DE JUNIO DE 1994.
 
 ###### ARTICULO UNICO.
 
@@ -2345,7 +2349,7 @@ Remítase la minuta aprobada a los Honorables Ayuntamientos Constitucionales del
 
 P.O. 18 DE NOVIEMBRE DE 1995.
 
-DECRETO 7887, QUE DEROGA EL SEGUNDO PARRAFO DE LA FRACCION XXVI DEL ART. 47.
+DECRETO 7887, QUE DEROGA EL SEGUNDO PARRAFO DE LA FRACCION XXVI DEL ART. 47, P.O. 18 DE NOVIEMBRE DE 1995.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
 
@@ -2428,3 +2432,9 @@ Artículo Tercero.- Para equiparar los valores unitarios de suelo que sirven de 
 Artículo Cuarto.- Se entienden por reproducidos los artículos transitorios del Decreto de reformas publicado en el Diario Oficial de la Federación el 23 de diciembre de 1999, que al efecto corresponda.
 
 Artículo Quinto.- En su oportunidad, y de resultar aprobado por esta Asamblea Legislativa en funciones de constituyente, túrnese la minuta a los HH. Ayuntamientos de los Municipios del Estado, para los efectos a que se refiere el artículo 131 de la Constitución Política del Estado de Nayarit.
+
+P.O. 23 DE JUNIO DE 2001.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+Artículo Segundo.- En cumplimiento a lo dispuesto por el artículo 131 de la Constitución Política, remítase el expediente y la Minuta Proyecto de Decreto relativa a los Honorables Ayuntamientos del Estado para los efectos a que alude el mencionado ordenamiento.
