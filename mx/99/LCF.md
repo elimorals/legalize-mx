@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "2004-08-26"
+last_updated: "2005-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE FEBRERO DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 27 de diciembre de 1978.
 
@@ -310,9 +310,9 @@ La Federación por conducto de la Secretaría de Hacienda y Crédito Público in
 
 Las participaciones que correspondan a las Entidades y Municipios son inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por las Entidades o Municipios, con autorización de las legislaturas locales e inscritas a petición de dichas Entidades ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, a favor de la Federación, de las Instituciones de Crédito que operen en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana.
 
-(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981) (F. DE E., D.O.F. 15 DE ABRIL DE 1982)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
-Las obligaciones de los Municipios se registrarán cuando cuenten con la garantía solidaria del Estado, salvo cuando a juicio de la Secretaría de Hacienda y Crédito Público tengan suficientes participaciones para responder a sus compromisos.
+Las obligaciones de los Municipios se registrarán cuando cuenten con la garantía solidaria del Estado, salvo cundo (sic) a juicio de la Secretaría de Hacienda y Crédito Público tengan suficientes participaciones para responder a sus compromisos.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -424,7 +424,7 @@ IV.- Actos de inspección y vigilancia.
 
 Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los incisos del a) al g) de la fracción I y la fracción III.
 
-(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981) (F. DE E., D.O.F. 15 DE ABRIL DE 1982)
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 Las certificaciones de documentos así como la reposición de éstos por extravío o destrucción parcial o total, no quedará comprendida dentro de lo dispuesto en las fracciones I y II de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
 
@@ -1072,19 +1072,25 @@ c) La actualización que se determine para el ejercicio que se presupueste de lo
 
 III.- Adicionalmente, en el caso de los servicios de educación para adultos, la determinación de los recursos del Fondo de Aportaciones para la Educación Tecnológica y de Adultos y su consiguiente distribución, responderán a fórmulas que consideren las prioridades específicas y estrategias compensatorias para el abatimiento del rezago en materia de alfabetización, educación básica y formación para el trabajo. Las fórmulas a que se refiere esta fracción deberán publicarse por la Secretaría de Educación Pública en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 44.
 
-El Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal se constituirá con cargo a recursos federales, mismos que serán determinados anualmente en el Presupuesto de Egresos de la Federación. La Secretaría de Gobernación formulará a la Secretaría de Hacienda y Crédito Público una propuesta para la integración de dicho Fondo.
+El Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal se constituirá con cargo a recursos Federales, mismos que serán determinados anualmente en el Presupuesto de Egresos de la Federación. La Secretaría de Seguridad Pública formulará a la Secretaría de Hacienda y Crédito Público una propuesta para la integración de dicho Fondo.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 En el Presupuesto de Egresos de la Federación de cada ejercicio fiscal se hará la distribución de los recursos federales que integran este Fondo entre los distintos rubros de gasto del Sistema Nacional de Seguridad Pública aprobados por el Consejo Nacional de Seguridad Pública.
 
-> <small>(REFORMADO, D.O.F. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2005)</small>
 
-El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, entregará a las Entidades Federativas el Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal con base en los criterios que el Consejo Nacional de Seguridad Pública determine, a propuesta de la Secretaría de Gobernación, utilizando para la distribución de los recursos, criterios que incorporen el número de habitantes de los Estados y del Distrito Federal; el índice de ocupación penitenciaria; la tasa de crecimiento anual de indiciados y sentenciados; así como el avance en la aplicación del Programa Nacional de Seguridad Pública en materia de profesionalización, equipamiento, modernización tecnológica e infraestructura. La información relacionada con las fórmulas y variables utilizadas en el cálculo para la distribución y el resultado de su aplicación que corresponderá a la asignación por cada Estado y el Distrito Federal, deberá publicarse en el Diario Oficial de la Federación a más tardar el 31 de enero del ejercicio fiscal de que se trate. Los convenios celebrados entre las partes integrantes del Sistema Nacional, deberán firmarse en un término no mayor a sesenta días contados a partir de la publicación antes mencionada.
+El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, entregará a las Entidades Federativas el Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal con base en los criterios que el Consejo Nacional de Seguridad Pública determine, a propuesta de la Secretaría de Seguridad Pública, utilizando para la distribución de los recursos, criterios que incorporen el número de habitantes de los Estados y del Distrito Federal; el índice de ocupación penitenciaria; la tasa de crecimiento anual de indiciados y sentenciados; así como el avance en la aplicación del Programa Nacional de Seguridad Pública en materia de profesionalización, equipamiento, modernización tecnológica e infraestructura. La información relacionada con las fórmulas y variables utilizadas en el cálculo para la distribución y el resultado de su aplicación que corresponderá a la asignación por cada Estado y el Distrito Federal, deberá publicarse en el Diario Oficial de la Federación a más tardar el 31 de enero del ejercicio fiscal de que se trate. Los convenios celebrados entre las partes integrantes del Sistema Nacional, deberán firmarse en un término no mayor a sesenta días contados a partir de la publicación antes mencionada.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 Este Fondo se enterará mensualmente por la Secretaría de Hacienda y Crédito Público durante los primeros diez meses del año a los Estados, de manera ágil y directa sin más limitaciones ni restricciones, incluyendo aquellas de carácter administrativo.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 Para los efectos del entero a que se refiere el párrafo anterior no procederán los anticipos a que se refiere el segundo párrafo del artículo 7o. de esta Ley.
 
@@ -1222,9 +1228,7 @@ A partir del ejercicio de 1982, se aplicará en sus términos la fórmula del ar
 
 Durante 1982, 1983 y 1984, la participación en el impuesto adicional del 3% sobre el impuesto general de exportación de petróleo crudo y gas natural y sus derivados, a que se refiere el artículo 2o. A de la Ley de Coordinación Fiscal se dividirá en la forma siguiente:
 
-> <small>(F. DE E., D.O.F. 15 DE ABRIL DE 1982)</small>
-
-I.- Una tercera parte corresponderá al Fondo de Fomento Municipal y a los Municipios donde se encuentren ubicadas las aduanas fronterizas o marítimas por las que se efectúe la exportación, en los siguientes por cientos conforme a los años que se señalan:
+I.- Una tercera parte corresponderá al Fondo de Fomento Municipal y a los Municipios donde se encuentren ubicadas las aduanas fronterizas o marítimas por las que se efectúe la exportación, en los siguientes por cientos conforme a los años que señalan:
 
 a).- En 1982, en un 50% al Fondo de Fomento Municipal y en un 50% a los Municipios donde estén ubicadas las aduanas.
 
@@ -1631,3 +1635,7 @@ Tercero.- Los convenios a que se refiere el artículo 9-A, que se reforma por me
 D.O.F. 26 DE AGOSTO DE 2004.
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE FEBRERO DE 2005.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
