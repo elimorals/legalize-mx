@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-7824"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-11-21"
-last_updated: "1991-12-11"
+last_updated: "1997-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1997.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 21 de noviembre de 1990.
 
@@ -67,7 +67,9 @@ IV.- Los Juzgados Penales de Primera Instancia;
 
 V.- Los Juzgados Mixtos de Primera Instancia;
 
-VI.- El Jurado Popular;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 1997)</small>
+
+VI.- Los Juzgados de Paz;
 
 VII.- Los Arbitros; y
 
@@ -127,7 +129,7 @@ DECIMO OCTAVO DISTRITO, Villa la Venta y los Ejidos el Chapo, Francisco Trujillo
 
 ###### ARTICULO 6°.
 
-En la residencia de cada uno de los Distritos Judiciales funcionará el Jurado Popular en la forma que establezca el Código de Procedimientos Penales del Estado.
+(DEROGADO, P.O. 30 DE ABRIL DE 1997)
 
 ###### ARTICULO 7°.
 
@@ -153,9 +155,11 @@ Los auxiliares de la Administración de Justicia, están obligados a cumplir con
 
 ### CAPITULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+
 ###### ARTICULO 8°.
 
-El Tribunal Superior de Justicia funcionará en Pleno y en Salas y estará integrado por 10 Magistrados Numerarios y los Supernumerarios e interinos que se requieran, nombrados los primeros en los términos del artículo 56 de la Constitución Política del Estado y los siguientes por el Pleno del propio Tribunal.
+El Tribunal Superior de Justicia funcionará en Pleno y en Salas y estará integrado por quince magistrados numerarios y los supernumerarios e interinos que se requieran, nombrados los primeros en los términos del artículo 56 de la Constitución Política del Estado y los siguientes por el Pleno del propio Tribunal.
 
 ###### ARTICULO 9°.
 
@@ -339,9 +343,11 @@ El Presidente del Tribunal puede renunciar a la Presidencia, sin hacer dimisión
 
 ### CAPITULO IV. DE LAS SALAS DEL TRIBUNAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 1997)</small>
+
 ###### ARTICULO 22.
 
-El Tribunal Superior de Justicia se constituye por tres Salas, una Civil y dos Penales más las que determine el Pleno, integradas por tres Magistrados cada una, cuya adscripción será determinada por el mismo Pleno, presidida respectivamente por uno de ellos elegido anualmente por la propia Sala.
+El Tribunal Superior de Justicia se constituye por Salas, dos civiles y tres penales, más las que determine el Pleno, integradas por tres magistrados cada una, cuya adscripción será determinada por el mismo Pleno, presidida respectivamente por uno de ellos elegido anualmente por la propia Sala.
 
 Las resoluciones de las Salas del Tribunal se tomarán por unanimidad o por mayoría de votos, sin que ningún Magistrado pueda abstenerse de votar, salvo que tuviere algún impedimento legal. Cada Sala sesionará por lo menos una vez en la semana.
 
@@ -365,9 +371,11 @@ VI.- Dar cuenta al Pleno con una recopilación de los criterios sobresalientes s
 
 VII. Las demás que le encomienden las Leyes y que no sean competencia del Presidente del Tribunal.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+
 ###### ARTICULO 24.
 
-Los tocas en estado de resolución se sortearán entre los Magistrados de las Salas correspondientes, de conformidad con lo que establece el Reglamento Interior del Tribunal.
+Los tocas se sortearán entre los Magistrados de las Salas correspondientes, de conformidad con lo que establece la legislación aplicable.
 
 ###### ARTICULO 25.
 
@@ -389,7 +397,7 @@ Corresponde a las Salas Penales conocer:
 
 I.- De las apelaciones y denegadas apelaciones, incluyéndose las determinaciones relativas a incidentes Civiles que surjan en los procesos;
 
-II.- De la revisión de las causas del Jurado Popular;
+II.- (DEROGADA, P.O. 30 DE ABRIL DE 1997)
 
 III.- De las excusas, recusaciones, incompetencias, o impedimentos de los Jueces y de los Secretarios de acuerdo de las Salas;
 
@@ -575,6 +583,56 @@ XIII.- Cumplir y hacer cumplir los reglamentos;
 
 XIV.- Las demás que les impongan la Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1997)</small>
+
+###### ARTICULO 43 Bis.
+
+Los Juzgados de Paz residirán y funcionarán en los lugares y cabeceras de distrito que el Pleno del Tribunal Superior de Justicia determine, atendiendo las necesidades de trabajo y de acuerdo al presupuesto respectivo.
+
+Los Juzgados de Paz en su organización y funcionamiento, se ajustarán a lo dispuesto por la presente Ley para los de Primera Instancia.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1997)</small>
+
+###### ARTICULO 43 Bis 1.
+
+Los Jueces de Paz deberán reunir los siguientes requisitos:
+
+I.- Ser Ciudadano Mexicano por nacimiento;
+
+II.- Ser de notoria honorabilidad;
+
+III.- No haber sido condenado por delito doloso que amerite sanción corporal;
+
+IV.- Estar en pleno uso de sus facultades físicas y mentales;
+
+V.- Ser Licenciado en Derecho con título y cédula profesional;
+
+VI.- Tener 25 años de edad cumplidos; y
+
+VII.- No ser ministro de algún culto religioso.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1997)</small>
+
+###### ARTICULO 43 Bis 2.
+
+Para el despacho de los asuntos de su competencia, cada juzgado contará con el siguiente personal: un Juez, dos Secretarios (penal y civil), un Actuario y los demás que determine el presupuesto.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1997)</small>
+
+###### ARTICULO 43 Bis 3.
+
+Los jueces de paz conocerán de la conciliación en toda controversia civil o penal que se persiga por querella y le sea planteada. Además, de los siguientes asuntos:
+
+I.- De los Juicios Civiles cuyo monto no exceda del importe de ciento ochenta y dos veces el salario mínimo diario general vigente en el Estado de Tabasco;
+
+Se exceptúan los juicios que versen sobre propiedad y demás derechos reales sobre inmuebles, de arrendamiento de inmuebles, los posesorios y los que versen sobre estado y condición de las personas y derecho de familia;
+
+II.- De las diligencias preliminares de consignación cuando el valor de la cosa o la cantidad no exceda del monto fijado en la fracción anterior;
+
+III.- De los delitos cuya pena no exceda de dos años de prisión independientemente de la sanción pecuniaria y los sancionados con pena no corporal; así como de los delitos de amenazas, difamación, calumnias y robo de aves de corral;
+
+IV.- Los demás asuntos que le correspondan de acuerdo a la Ley.
+
 ### CAPITULO UNICO. DEL JURADO POPULAR
 
 ### CAPITULO I. DE LOS PERITOS
@@ -589,65 +647,39 @@ XIV.- Las demás que les impongan la Ley.
 
 ###### ARTICULO 44.
 
-El Jurado Popular funcionará en la forma que determine el Código de Procedimientos Penales del Estado.
+(DEROGADO, P.O. 30 DE ABRIL DE 1997)
 
 ###### ARTICULO 45.
 
-El Jurado Popular resolverá mediante veredicto las cuestiones de hecho que conforme a la Ley le someta el Juez de la causa en relación con los delitos mencionados en el artículo 20 fracción VI, DE LA Constitución General de la República.
+(DEROGADO, P.O. 30 DE ABRIL DE 1997)
 
 ###### ARTICULO 46.
 
-Es de carácter obligatorio en el Estado el servicio de Jurado, para todo Ciudadano que reúna los requisitos que establece el artículo siguiente.
+(DEROGADO, P.O. 30 DE ABRIL DE 1997)
 
 ###### ARTICULO 47.
 
-Para ser Jurado se requiere:
-
-I.- Ser ciudadano mexicano, en pleno uso de sus derechos civiles y políticos;
-
-II.- Tener modo honesto de vivir y ser de conducta honorable reconocida;
-
-III.- Saber leer y escribir;
-
-IV.- No haber sido condenado a sufrir pena por delito no político;
-
-V.- No ser ciego, sordo, mudo, ni padecer alguna enfermedad que debilite las facultades mentales;
-
-VI.- No ser mayor de 60 años de edad;
-
-VII.- Estar domiciliado en el Distrito Judicial en que radique la causa a juzgar; y
-
-VIII.- No estar procesado.
+(DEROGADO, P.O. 30 DE ABRIL DE 1997)
 
 ###### ARTICULO 48.
 
-Son causas justificadas para pedir excepción en lista de Jurado:
-
-I.- Tener enfermedad que lo imposibilite al tiempo de ser llamado al desempeño de su cargo, comprobando la excepción con certificado médico legalmente autorizado para expedirlo;
-
-II.- Desempeñar empleo oficial por el que reciba remuneración en el momento de ser llamado al ejercicio de su cargo.
+(DEROGADO, P.O. 30 DE ABRIL DE 1997)
 
 ###### ARTICULO 49.
 
-Los Presidentes Municipales formarán cada tres años en sus respectivas jurisdicciones, una lista cuando menos de 50 vecinos que reúnan los requisitos a que se refiere el artículo 46 de esta Ley y que no tengan alguno de los impedimentos expresados en el artículo 47, y la publicarán en lugares visibles en las Presidencias Municipales, el primero de julio del año en que deba formarse.
+(DEROGADO, P.O. 30 DE ABRIL DE 1997)
 
 ###### ARTICULO 50.
 
-Los individuos comprendidos en esa lista y que carezcan de alguno de los requisitos que señala el artículo 46 de esta Ley, o que se creyeren comprendidos en alguna de las prohibiciones del artículo 47, están obligados a manifestarlo a la autoridad que haya formado la lista. Esta manifestación irá acompañada del justificante respectivo, el que podrá consistir, a falta de otro legal, en la declaración de tres testigos quienes la ratificarán ante las propias autoridades. Los testigos deberán ser vecinos de la Municipalidad correspondiente y de reconocida honorabilidad y arraigo, a juicio de las mismas autoridades.
-
-Los que justifiquen haber desempeñado el cargo de jurado durante un año, tendrán derecho a ser excluidos de la lista y, los que reúnan los requisitos para ser jurados y no figuren en ella, lo tendrán para que se les incluya.
-
-La autoridad administrativa resolverá, bajo su responsabilidad, lo que corresponda, y hará, en su caso las modificaciones respectivas antes del 15 de julio.
+(DEROGADO, P.O. 30 DE ABRIL DE 1997)
 
 ###### ARTICULO 51.
 
-Las listas se publicarán el 31 de julio en el periódico Oficial del Estado y en las tablas de avisos de las Presidencias Municipales, remitiéndose sendos ejemplares al Tribunal Superior de Justicia, al Procurador General de Justicia y al Secretario de Gobierno.
+(DEROGADO, P.O. 30 DE ABRIL DE 1997)
 
 ###### ARTICULO 52.
 
-Una vez publicada la lista definitiva no se admitirán manifestaciones o solicitudes para modificarla.
-
-La falta de requisitos que para ser jurado exige el artículo 46 de esta Ley, aunque sea superveniente, sólo podrá tomarse en consideración como causa de impedimento, en la forma y términos que establezca el Código de Procedimientos Penales.
+(DEROGADO, P.O. 30 DE ABRIL DE 1997)
 
 ## TITULO QUINTO. DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
 
@@ -1051,6 +1083,8 @@ V.- Realizar las demás funciones y asumir las responsabilidades que las disposi
 
 ### CAPITULO III. DE LOS IMPEDIMENTOS Y EXCUSAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 1997)</small>
+
 ## TITULO SEPTIMO. DE LA RESPONSABILIDAD OFICIAL, FALTAS Y SANCIONES
 
 ### CAPITULO IV. DE LAS VISITAS A LOS RECLUSORIOS
@@ -1287,7 +1321,7 @@ El personal de Poder Judicial, deberá concurrir a sus labores, todos los días 
 
 ###### ARTICULO 132.
 
-Son aplicables a los Jurados populares, las causas de impedimento a que se refieren los numerales siguientes.
+(DEROGADO, P.O. 30 DE ABRIL DE 1997)
 
 ###### ARTICULO 133.
 
@@ -1345,7 +1379,7 @@ Todo lo no previsto en esta Ley respecto a las condiciones generales de trabajo 
 
 ###### ARTICULO 140.
 
-Los Magistrados, Jueces y Secretarios Judiciales están impedidos para conocer, en materia Civil, por las causas previstas en el artículo 169 del Código de Procedimientos Civiles del Estado debiendo excusarse del negocio, y en materia penal por las siguientes:
+Los Magistrados, Jueces y Secretarios Judiciales están impedidos para conocer, en materia civil por las causas previstas en el artículo 42 del Código de Procedimientos Civiles del Estado debiendo excusarse del negocio, y en materia penal por las siguientes:
 
 I.- Tener parentesco en línea recta, sin limitación de grados; en la colateral por consanguinidad, hasta el cuarto grado; y en la colateral por afinidad, hasta el segundo, con alguno de los procesados, defensores o la parte agraviada;
 
@@ -1373,7 +1407,9 @@ XII.- Ser el cónyuge o alguno de los hijos del servidor, acreedor, deudor o fia
 
 XIII.- Haber sido Juez o Magistrado en el mismo proceso, o en otra Instancia; y
 
-XIV.- Haber sido agente del Ministerio Público, jurado, testigo, apoderado, patrono o defensor en la causa de que se trata, haber recomendado anteriormente el asunto, en favor o en contra de alguno de los procesados.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 1997)</small>
+
+XIV.- Haber sido agente del Ministerio Público, testigo, apoderado, patrono o defensor en la causa de que se trata, haber recomendado anteriormente el asunto, en favor o en contra de alguno de los procesados.
 
 ###### ARTICULO 141.
 
@@ -1550,3 +1586,13 @@ SECRETARIO DE GOBIERNO.
 P.O. 11 DE DICIEMBRE DE 1991.
 
 UNICO: Este Decreto surte sus efectos legales a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE ABRIL DE 1997.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas y adiciones entrarán en vigor el día primero de mayo de 1997.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones.
