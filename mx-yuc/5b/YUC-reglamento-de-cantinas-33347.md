@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-cantinas-33347"
 country: "mx"
 rank: "reglamento"
 publication_date: "1956-06-05"
-last_updated: "1956-06-05"
+last_updated: "1958-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE CANTINAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE NOVIEMBRE DE 1958.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el martes 5 de junio de 1956.
 
@@ -61,15 +61,19 @@ IV.- Los conciertos musicales, el empleo de aparatos mecánicos de música y el 
 
 V.- Utilizar los servicios de mujeres y de menores de 21 años.
 
-VI.- Instalar puertas y mamparas, biombos, cortinas o cualquier otro objeto que impida la visibilidad interior del local, desde su exterior.
+VI.- (DEROGADA, D.O. 1 DE NOVIEMBRE DE 1958)
 
 VII.- Pintar o fijar en el interior del local, cuadros o fotografías que ofendan a la moral o las buenas costumbres, a juicio de las autoridades estatales o municipales.
 
 VIII.- Que los dueños, encargados o empleados ingieran bebidas embriagantes en sus propios establecimientos, durante el tiempo en que estén trabajando en el mismo.
 
+> <small>(REFORMADO, D.O. 1 DE NOVIEMBRE DE 1958)</small>
+
 ###### ARTICULO 4o.
 
-En Las cantinas se podrá tener salón especial para familias, siempre que su entrada independiente de la cantina, que no tenga mamparas para el exterior ni paso a los consumidores de uno y otro lugar. Estos salones estarán exceptuados de la prohibición contenida en la fracción I del artículo inmediato anterior, por lo que respecta a las mujeres.
+Las cantinas estarán provistas en sus puertas exteriores de mamparas, que se cierren automáticamente y que impidan la vista hacia el interior, debiendo ser dichas mamparas de madera, o madera y vidrio opacos que llene el objeto indicado y que presenten buen aspecto. Estas mamparas deberán tener un metro y setenta y cinco centímetros de altura y serán colocadas de modo que dejen un espacio libre de veinticinco centímetros entre su extremidad inferior y el umbral de la puerta.
+
+En dichos establecimientos se podrá tener un salón especial para familias, siempre que su entrada sea independiente de la cantina, que no tenga mamparas para el exterior ni paso a los consumidores de uno y otro lugar. Estos salones estarán exceptuados de la prohibición contenida en la fracción I del artículo inmediato anterior, por lo que respecta a las mujeres.
 
 ###### ARTICULO 5o.
 
@@ -307,7 +311,9 @@ e) Por no presentar el cedente el aviso de traspaso dentro de los quince días s
 
 f) Por trasladar el negocio a otro local sin que previamente se hubiese obtenido la autorización respectiva.
 
-g) Por instalar puertas, mamparas biombos, cortinas o cualquier otro objeto que impidan la visibilidad al interior del local o del compartimiento anexo, desde su exterior.
+> <small>(REFORMADO, D.O. 1 DE NOVIEMBRE DE 1958)</small>
+
+g) Por no instalar en las cantinas mamparas con las cualidades previstas en el párrafo primero del artículo 4o., o por hacer instalaciones que impidan la visibilidad del interior de los salones especiales para familias.
 
 h) Por infringir un establecimiento en el término de un año por tres veces las disposiciones del presente Reglamento.
 
@@ -352,3 +358,15 @@ VÍCTOR MENA PALOMO.
 El Secretario General de Gobierno
 
 Lic. NICOLAS LOPEZ RIVAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O. 1 DE NOVIEMBRE DE 1958.
+
+###### ARTICULO 1o.
+
+Estas disposiciones entrarán en vigor a los quince días de su publicación en el "Diario Oficial" del Gobierno del Estado.
+
+###### ARTICULO 2o.
+
+Se derogan todas las disposiciones dictadas con anterioridad que se opongan a la presente.
