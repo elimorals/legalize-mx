@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1939-04-15"
+last_updated: "1940-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,13 @@ state: "OAX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
+LEY DE INGRESOS DEL MUNICIPIO DE VILLA DE COS, ZACATECAS PARA EL EJERCICIO FISCAL 2025
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 1939.
+TEXTO ORIGINAL.
 
-Constitución promulgada por bando solemne el martes 4 de abril de 1922.
+Ley publicada en el Suplemento 38 al Número 104 Número 104 del Periódico Oficial del Estado de Zacatecas, el lunes 30 de diciembre de 2024.
 
-MANUEL GARCIA VIGIL, Gobernador Constitucional del Estado Libre y Soberano de Oaxaca, a sus habitantes hace saber:
-
-Que la XXVIII Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, en funciones de Constituyente, de acuerdo con el artículo quinto del Decreto número ciento veinticinco expedido por el ciudadano Primer Jefe del Ejército Constitucionalista, encargado del Poder Ejecutivo de la Unión, el veintisiete de marzo de mil novecientos diecisiete, y con el artículo noventa y uno del decreto número catorce, expedido con fecha treinta de septiembre de mil novecientos veinte por el ciudadano Jesús Acevedo, Gobernador provisional, reforma la Constitución Política del Estado en los términos siguientes:
-
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA IMPUGNADO ANTE ESTE TRIBUNAL CONSTITUCIONAL.]</small>
 
 ## TITULO PRIMERO. De las Garantías Individuales
 
@@ -647,9 +643,17 @@ VII. Si no obstante las prevenciones anteriores, se presentare el caso previsto 
 
 El ciudadano electo por la Legislatura del Estado para suplir las faltas absolutas del Gobernador, deberá reunir los requisitos señalados en el artículo sesenta y ocho de la presente Constitución.
 
-###### ARTICULO 74.
+###### Artículo 74.
 
-En los casos a que se refieren las fracciones I y II del artículo 72, inmediatamente que ocurra la falta asumirá el cargo de Gobernador el Secretario General del Despacho, sin necesidad de requisito previo.
+La expedición de licencias de construcción se causará en cuotas al millar y Unidades de Medida y Actualización diaria de conformidad con lo siguiente:
+
+[…]
+
+III. En construcciones de torres generadoras de energía eólica que incluye la obra nueva, remodelación, ampliación o extensión de licencia será del 5 al millar del costo total por unidad;
+
+IV. En construcciones de fuente de energía fotovoltaica será aplicable a 0.2000 Unidad de Medida Actualizada diaria, por cada metro cuadrado:
+
+[…]
 
 ###### ARTICULO 75.
 
