@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-media-y-superior-del-estado-libre-y-12016"
 country: "mx"
 rank: "ley"
 publication_date: "1974-09-17"
-last_updated: "1974-09-17"
+last_updated: "1977-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACION MEDIA Y SUPERIOR DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 1977.
 
 Ley Publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el martes 17 de septiembre de 1974.
 
@@ -47,9 +47,11 @@ La educación de tipo medio y superior que se imparta por el Estado o por los pa
 
 La aplicación, interpretación y cumplimiento de esta Ley, corresponde al Poder Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1977)</small>
+
 ###### ARTICULO 3.
 
-Para los efectos de esta Ley la educación de tipo medio comprende los estudios de bachillerato. Será eminentemente formativa con carácter terminal, y constituye antecedente obligatorio de la licenciatura.
+La educación de tipo medio y superior debe comprender los estudios de bachillerato, que constituyen antecedente obligatorio de la licenciatura. Dicha educación será eminentemente formativa y con carácter terminal, por lo que comprenderá también la que se imparta en los Centros de Estudios Científicos y Tecnológicos.
 
 ###### ARTICULO 4.
 
@@ -188,3 +190,9 @@ CUARTO.- La presente Ley entrará en vigor al día siguiente de su publicación 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los 15 días del mes de Septiembre de 1974.- Heriberto Morales Arroyo, D. P.- Antonio Montes García, D. S.- Felipe Arroyo Sosa, D. S.- Rúbricas.
 
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los diecisiete días del mes de Septiembre de mil novecientos setenta y cuatro.- El Gobernador del Estado, Guillermo Morales Blúmenkron.- Rúbrica.- El Secretario General de Gobierno, Lic. Eduardo Langle Martínez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE ABRIL DE 1977.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
