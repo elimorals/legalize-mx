@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-minatitlan-colima-26789"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2002-11-11"
+last_updated: "2003-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MINATITLAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -515,7 +515,13 @@ I. Los giros que a continuación se mencionan se gravarán según el monto de su
 
 7.- Espectáculos deportivos 5
 
-8.- Cualquier otro espectáculo público por
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+8.- Palenque de gallos 8
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+9.- Cualquier otro espectáculo público por
 
 el que se cobren derechos de admisión 5 a 8
 
@@ -579,9 +585,11 @@ Garantizarán preferentemente el pago de este impuesto con los bienes inmuebles 
 
 #### SECCION CUARTA. DE LAS EXENCIONES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 51.
 
-No se pagará el impuesto por los espectáculos públicos de funciones de cine y palenques de gallos.
+No se pagará el impuesto por los espectáculos públicos de funciones de cine.
 
 ### CAPITULO UNICO
 
@@ -1669,9 +1677,13 @@ Unidad de salario
 
 a).- Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por cada una:
 
-1.- Agencias 500.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-2.- Bares y centros botaneros 100.00
+1.- Agencias 200.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+2.- Bares y centros botaneros 50.00
 
 3.- Birrierías 20.00
 
@@ -1683,21 +1695,35 @@ a).- Por la expedición de licencias de funcionamiento, por ejercicio fiscal, po
 
 7.- Centros nocturnos 500.00
 
-8.- Clubes sociales 50.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+8.- Clubes sociales 20.00
 
 9.- Depósito de cerveza 30.00
 
-10.- Depósito de cerveza, vinos y licores 100.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-11.- Discotecas 100.00
+10.- Depósito de cerveza, vinos y licores 50.00
 
-12.- Hoteles y moteles 150.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-13.- Locales para fiestas tipo "A" 150.00
+11.- Discotecas 50.00
 
-14.- Locales para fiestas tipo "B" 150.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-15.- Locales para fiestas tipo "C" 150.00
+12.- Hoteles y moteles 100.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+13.- Locales para fiesta tipo "A" 50.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+14.- Locales para fiesta tipo "B" 50.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+15.- Locales para fiesta tipo "C" 50.00
 
 16.- Marisquerías 50.00
 
@@ -1709,9 +1735,13 @@ a).- Por la expedición de licencias de funcionamiento, por ejercicio fiscal, po
 
 20.- Restaurante clasificación "A" 50.00
 
-21.- Restaurante clasificación "B" 50.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-22.- Restaurante clasificación "C" 50.00
+21.- Restaurante clasificación "B" 40.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+22.- Restaurante clasificación "C" 30.00
 
 23.- Restaurantes-Bar 50.00
 
@@ -1771,7 +1801,7 @@ c).- Por la expedición de permisos para el funcionamiento temporal de estableci
 
 10.- Depósitos de cerveza 5.00
 
-11.- Depósito de cerveza, vinos y licores 8.00
+11.- Depósitos de cerveza, vinos y licores 8.00
 
 12.- Discotecas 5.00
 
@@ -1779,9 +1809,9 @@ c).- Por la expedición de permisos para el funcionamiento temporal de estableci
 
 14.- Locales para fiesta 5.00
 
-15.- Marisquerías 5.00
+15.- Marisquería 5.00
 
-16.- Menuderías 5.00
+16.- Menudería 5.00
 
 17.- Parianes 30.00
 
@@ -1810,152 +1840,6 @@ con venta de cerveza, vinos y licores 8.00
 27.- Tiendas departamentales 10.00
 
 28.- Otros giros no especificados 2.00 a 30.00
-
-d).- Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos en los que expendan bebidas alcohólicas, por cada hora:
-
-1.- Agencias 0.50 a 2.50
-
-2.- Bares 0.50 a 1.50
-
-3.- Birrierías 0.25 a 1.50
-
-4.- Cabaretes 2.50 a 50
-
-5.- Casinos y similares 2.50 a 150
-
-6.- Cenadurías 0.25 a 1.00
-
-7.- Centro botanero 0.50 a 1.50
-
-8.- Centros nocturnos 0.50 a 1.50
-
-9.- Clubes sociales 2.5 a 15.00
-
-10.- Depósitos de cerveza 0.25 a 1.50
-
-11.- Depósito de cerveza, vinos y licores 0.50 a 1.50
-
-12.- Discotecas 1.00 a 2.50
-
-13.- Hoteles y moteles 2.50 a 5.00
-
-14.- Locales para fiesta 1.50 a 2.50
-
-15.- Marisquerías 0.25 a 1.50
-
-16.- Menuderias 0.25 a 1.50
-
-17.- Parianes 2.50 a 15.00
-
-18.- Pizzerías 0.50 a 1.50
-
-19.- Restaurante clasificación "A" 0.50 a 1.50
-
-20.- Restaurante clasificación "B" 0.50 a 1.50
-
-21.- Restaurnate (sic) clasificación "C" 0.50 a 1.50
-
-22.- Restaurante-Bar 0.50 a 2.50
-
-23.- Rosticerías 0.50 a 1.50
-
-24.- Taquerías 0.50 a 1.50
-
-25.- Tienda de abarrotes con venta
-
-de cerveza 0.25 a 1.50
-
-26.- Tienda de autoservicio y departamentales
-
-con venta de cerveza, vinos y licores 0.50 a 1.50
-
-27.- Tiendas departamentales 1.50 a 5.00
-
-28.- Otros giros no especificados 0.25 a 15.00
-
-e).- Por autorización de:
-
-CAMBIO DE DOMICILIO:
-
-1.- Agencias 50.00 a 80.00
-
-2.- Bares 25.00 a 60.00
-
-3.- Birrierías 2.00 a 5.00
-
-4.- Cabaretes 100.00 a 150.00
-
-5.- Casinos y similares 120.00
-
-6.- Cenadurías 2.00 a 5.00
-
-7.- Centro botanero 25.00 a 60.00
-
-8.- Centros nocturnos 100.00 a 240.00
-
-9.- Clubes sociales 5.00 a 50.00
-
-10.- Depósitos de cerveza 5.00 a 10.00
-
-11.- Depósito de cerveza, vinos y licores 15.00 a 35.00
-
-12.- Discotecas 100.00
-
-13.- Hoteles y moteles 25.00 a 50.00
-
-14.- Locales para fiesta tipo "A" 90.00
-
-15.- Locales para fiesta tipo "B" 50.00
-
-16.- Locales para fiesta tipo "C" 20.00
-
-17.- Marisquerías 2.00 a 10.00
-
-18.- Menuderías 2.00 a 10.00
-
-19.- Parianes 60.00
-
-20.- Pizzerías 20.00 a 36.00
-
-21.- Restaurante clasificación "A" 35.00 a 60.00
-
-22.- Restaurante clasificación "B" 40.00 a 42.00
-
-23.- Restaurante clasificación "C" 10.00 a 15.00
-
-24.- Restaurante-Bar 15.00 a 30.00
-
-25.- Rosticerías 5.00 a 18.00
-
-26.- Taquerías 2.00 a 5.00
-
-27.- Tienda de abarrotes con venta
-
-de cerveza 3.00 a 8.00
-
-28.- Tiendas de autoservicio con venta
-
-de cerveza, vinos y Licores 10.00 a 20.00
-
-29.- Tiendas departamentales 125.00
-
-30.- Otros giros no especificados 2.00 a 240.00
-
-En zona rural, por cada uno:
-
-1.- Tienda de abarrotes con venta de
-
-cerveza y mezcal 5.00
-
-2.- Autoservicio 10.00
-
-3.- Cenadurías 5.00
-
-4.- Taquerías 3.00
-
-5.- Salón para fiestas 15.00
-
-6.- Ramadas 10.00
 
 CAMBIO DE PROPIETARIO
 
@@ -2157,11 +2041,11 @@ II.- Certificaciones:
 
 a).- Certificaciones de documentos
 
-catastrales 9.00
+catastrales 1.80
 
 b) Certificación catastral de un predio
 
-para tramitar juicio a favor del poseedor 1.80
+para tramitar juicio a favor del poseedor 9.00
 
 c).- Constancia certificada de inscripción
 
@@ -3117,13 +3001,17 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO QUINTO.
 
-En los predios con valor catastral de $0.00 a $264,000.00 el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+En los predios con valor catastral de $0.00 a $264,000.00 el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.04 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
 
-En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.12 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.08 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
 
 Lo previsto en este artículo, no será aplicable respecto de los predios cuyo valor se hubiera modificado en el último bimestre del año que se trate, por motivos distintos a la publicación de las tablas de valores unitarios de terreno y de construcción.
+
+Los predios que con motivo del sismo ocurrido el día 21 de enero del año 2003, resultaron dañados, se clasifiquen actualmente, por haberse demolido, como lotes baldíos, el impuesto predial a cobrar, por el ejercicio fiscal 2004, no deberá de ser en ningún caso superior al que se cobró en el 2003.
 
 ###### ARTICULO SEXTO.
 
@@ -3144,3 +3032,11 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno a los 11 días del mes de noviembre del año dos mil dos.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL DIRECTOR GENERAL DE GOBIERNO, ENCARGADO DEL DESPACHO DE LA SECRETARÍA GENERAL DE GOBIERNO, LIC. JOSÉ GILBERTO GARCÍA NAVA. Rúbrica. EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día 1° de enero del año 2004, previa su publicación en el Periódico Oficial "El Estado de Colima".
