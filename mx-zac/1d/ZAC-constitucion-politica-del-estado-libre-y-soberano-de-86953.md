@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "1999-05-26"
+last_updated: "1999-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 1999.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -1415,7 +1415,9 @@ La división política y administrativa del territorio del Estado comprende los 
 
 9. Chalchihuites,
 
-10. El Plateado de Joaquín Amaro
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+10. El Plateado de Joaquín Amaro,
 
 11. El Salvador,
 
@@ -1427,7 +1429,9 @@ La división política y administrativa del territorio del Estado comprende los 
 
 15. Genaro Codina,
 
-16. Guadalupe (y su Congregación Trancoso),
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+16. Guadalupe,
 
 17. Huanusco,
 
@@ -1493,21 +1497,25 @@ La división política y administrativa del territorio del Estado comprende los 
 
 48. Tlaltenango de Sánchez Román,
 
-49. Valparaíso,
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
-50. Vetagrande,
+49. Trancoso,
 
-51. Villa de Cos,
+50. Valparaíso,
 
-52. Villa García,
+51. Vetagrande,
 
-53. Villa González Ortega,
+52. Villa de Cos,
 
-54. Villa Hidalgo,
+53. Villa García,
 
-55. Villanueva, y
+54. Villa González Ortega,
 
-56. Zacatecas.
+55. Villa Hidalgo,
+
+56. Villanueva, y
+
+57. Zacatecas.
 
 Las modificaciones a los nombres de los Municipios se realizarán a iniciativa de los Ayuntamientos respectivos y con la aprobación de la Legislatura del Estado.
 
@@ -2092,3 +2100,29 @@ Dentro de los quince días hábiles siguientes al inicio de vigencia del present
 ###### ARTICULO TERCERO.
 
 A partir de la vigencia de este Decreto, quienes habían sido nombrados como Magistrados Supernumerarios, asumen el carácter de Magistrados en los términos del artículo 95 de la Constitución Política del Estado.
+
+P.O. 17 DE NOVIEMBRE DE 1999.
+
+PRIMERO.- Publicado que sea por una sola vez en el Periódico Oficial, Organo del Gobierno del Estado, el presente Decreto entrará en vigor el día 1 de enero del año 2000.
+
+SEGUNDO.- A partir del 1 de enero del año 2000, la actual Junta de Congregación se convierte en Consejo Municipal, integrado por un Presidente, un Síndico y diez Regidores, cada uno con sus respectivos suplentes.
+
+TERCERO.- El actual Presidente de Congregación, se convertirá en la misma fecha, en Presidente del Consejo Municipal.
+
+CUARTO.- A más tardar el 30 de noviembre de 1999, la Legislatura del Estado elegirá al suplente de Presidente del Consejo Municipal, así como a las formulas de propietario y suplente de Síndico y Regidores. A más tardar el 23 de noviembre de 1999 las fracciones parlamentarias representadas en la Legislatura, harán las correspondientes propuestas al Pleno.
+
+QUINTO.- Para ser miembro del Consejo Municipal deberán reunirse los requisitos previstos en el artículo 7, fracciones I, II, III, V, VI, VII, VIII y IX del Código Electoral del Estado.
+
+SEXTO.- El Consejo Municipal de Trancoso concluirá sus funciones el día 15 de septiembre del año 2001, fecha en que entrará en ejercicio el Ayuntamiento electo en el proceso comicial respectivo.
+
+SEPTIMO.- A partir del 1 de enero del año 2000, no habrá ninguna autoridad intermedia entre el Consejo Municipal de Trancoso y el Gobierno del Estado.
+
+OCTAVO.- Al aprobarse en el mes de diciembre de 1999, las Leyes de Ingresos y Presupuestos de Egresos, las instancias correspondientes harán las previsiones necesarias para que el Municipio de Trancoso, cuente a partir del año 2000, con su propia Ley de Ingresos y Presupuesto de Egresos que administrará el Consejo Municipal, el que deberá rendir cuentas en los términos que lo hacen los demás municipios.
+
+NOVENO.- Al inicio de vigencia del presente Decreto, se convierten en patrimonio del Municipio de Trancoso, los bienes muebles, recursos financieros y pasivos, así como los inmuebles que localizados dentro del polígono referido en este dictamen, formaban parte de la propiedad raíz del Municipio de Guadalupe.
+
+DECIMO.- Los regímenes de propiedad derivados de resoluciones agrarias, o de cualquier otra modalidad de propiedad, localizadas dentro del polígono del Municipio de Trancoso conservarán su situación, de conformidad con el título legal que les dio origen.
+
+DECIMO PRIMERO.- En un plazo que no excederá de 180 días contados a partir del inicio de vigencia del presente Decreto, deberán hacerse las reformas necesarias a las leyes que así lo requieran. En el mismo plazo, el Consejo Municipal de Trancoso deberá expedir su Bando de Policía y Buen Gobierno, y los reglamentos que se requieran. En tanto ello ocurre, continuará aplicándose en lo conducente, el Reglamento, para la Congregación Municipal de Trancoso.
+
+DECIMO SEGUNDO.- En el mismo plazo que no excederá de 180 días contados a partir del inicio de vigencia del presente Decreto, el Consejo Municipal de Trancoso elaborará el padrón de contribuyentes del municipio.
