@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2004-12-30"
+last_updated: "2005-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 2005.
 
-Ley publicada de la Segunda a la Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
+Ley publicada de la Segunda a Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -1814,7 +1814,7 @@ b) que tenga la resistencia mínima al desgarre y a la ruptura por tracción ind
 
 (VEASE ARCHIVO ANEXO)
 
-### Capítulo 49. Productos editoriales, de la prensa y de las demás industrias gráficas;textos manuscritos o mecanografiados y planos
+### Capítulo 49. Productos editoriales, de la prensa y de las demás industrias gráficas; textos manuscritos o mecanografiados y planos
 
 Notas.
 
@@ -3204,7 +3204,7 @@ el metal con un contenido de cobre superior o igual al 99.85% en peso; o
 
 el metal con un contenido de cobre superior o igual al 97.5% en peso, siempre que el contenido de cualquier otro elemento sea inferior o igual a los límites indicados en el cuadro siguiente:
 
-CUADRO-Otros elementos
+CUADRO - Otros elementos
 
 CUADRO - Otros elementos
 
@@ -4681,3 +4681,23 @@ D.O.F. 6 DE DICIEMBRE DE 2004.
 D.O.F. 30 DE DICIEMBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE ENERO DE 2005.
+
+N. DE E., POR LA TRASCENDENCIA SE TRANSCRIBE A CONTINUACION EL ARTICULO SEXTO DEL DECRETO DE REFORMAS.
+
+###### ARTÍCULO SEXTO.
+
+Se considerarán incorporadas a los Programas de Importación Temporal para Producir Artículos de Exportación y de Fomento y Operación de la Industria Maquiladora de Exportación, a partir de la entrada en vigor de la presente publicación, sin que se requiera autorización particular por parte de la Secretaría de Economía, las fracciones arancelarias que se señalan en la columna DOS de la correlación contenida en la siguiente tabla, siempre que a la fecha de publicación del presente ordenamiento, hubiesen tenido autorizadas para importar temporalmente en sus respectivos programas las fracciones arancelarias que se indican en la columna UNO de la correlación antes citada.
+
+TABLA: Correlación de fracciones
+
+(VER TABLA ANEXA)
+
+La Secretaría de Economía enviará por medios electrónicos al Servicio de Administración Tributaria, la información que por virtud del primer párrafo de este artículo se hubiese actualizado.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, excepto lo señalado en el artículo segundo transitorio del presente Decreto.
+
+SEGUNDO.- El artículo segundo de este Decreto entrará en vigor el día que entre en vigor el Acuerdo que modifica el similar que establece la clasificación y codificación de mercancías cuya importación está sujeta a regulación por parte de las dependencias que integran la Comisión Intersecretarial para el Control de Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas.
