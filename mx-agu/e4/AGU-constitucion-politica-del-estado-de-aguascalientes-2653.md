@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1994-10-23"
+last_updated: "1995-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -187,69 +187,43 @@ El Congreso se integrará con representantes del pueblo que residan en el territ
 
 Por cada Diputado Propietario se eligirá (sic) un Suplente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1995)</small>
 
 ###### Artículo 17.
 
-El Congreso del Estado estará integrado por dieciocho Diputados electos según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán ocho al Municipio de Aguascalientes y uno por cada uno de los Municipios restantes y hasta siete Diputados que serán electos según el principio de representación proporcional mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
+El Congreso del Estado, estará integrado por dieciocho Diputados electos según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán ocho al Municipio de Aguascalientes y uno por cada uno de los Municipios restantes; y hasta nueve Diputados que serán electos según el principio de representación proporcional mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+El Consejo Estatal Electoral fijará el ámbito territorial de los distritos electorales uninominales y sus cabeceras.
 
-La Comisión Estatal Electoral fijará el ámbito territorial de los distritos electorales uninominales y sus cabeceras.
+La asignación de los nueve Diputados según el principio de representación proporcional se sujetará a las siguientes bases y a lo que en particular disponga la Ley:
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+A).- El partido político deberá acreditar que tiene su registro definitivo y registrar candidatos a Diputados por mayoría relativa en por lo menos 12 de los dieciocho distritos uninominales.
 
-La asignación de los siete Diputados según el principio de representación proporcional se sujetará a las siguientes bases y a lo que en particular disponga la Ley:
+B).- Las Diputaciones por el principio de representación proporcional se otorgarán a todo partido político que obtenga por lo menos el 2% de la votación emitida.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1992)</small>
-
-a).- El partido político deberá acreditar que tiene su registro definitivo y registrar candidatos a Diputados de Mayoría Relativa, en por lo menos un 50% de los dieciocho distritos uninominales.
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
-
-b).- Las Diputaciones por el principio de representación proporcional se otorgarán a todo partido político que obtenga por lo menos el 1.5% de la votación emitida.
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
-
-c).- El partido político que cumpla con los incisos anteriores tendrá derecho a que se le asigne por el principio de representación proporcional el número de Diputados de sus listas que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal.
+C).- El partido político que cumpla con los incisos anteriores tendrá derecho a que se le asigne por el principio de representación proporcional el número de Diputados de sus listas que correspondan al porcentaje de votos obtenidos en la circunscripción plurinominal.
 
 La Ley determinará la fórmula electoral y el procedimiento que se observará en dicha asignación.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
-
-d)- Los Diputados por mayoría relativa y de representación proporcional, como representantes del pueblo, tendrán la misma jerarquía e igualdad de derechos y obligaciones.
-
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 1994)</small>
+D).- Los Diputados por mayoría relativa y de representación proporcional, como representantes del pueblo, tendrán la misma jerarquía e igualdad de derechos y obligaciones.
 
 Sus obligaciones consisten en el ejercicio de sus funciones en el Congreso del Estado, Diputación Permanente, Colegio Electoral y Gran Jurado.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
+El Congreso del Estado, constituido en Colegio Electoral, tendrá como función la de calificar la elección de Gobernador del Estado.
 
-El Congreso del Estado constituido en Colegio Electoral, tendrá como función la de calificar la elección de los presuntos Diputados de la Legislatura entrante, Gobernador del Estado y Ayuntamientos.
+La renovación de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos se verificará por medio de elecciones populares directas, cuya organización es una función pública que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos acreditados y de los ciudadanos, reglamentada por la Ley de la materia. En el ejercicio de esta función pública, la certeza, legalidad, independencia, imparcialidad y objetividad, serán principios rectores.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+La Ley Electoral del Estado de Aguascalientes regulará el ejercicio de los derechos y obligaciones políticos y electorales de los ciudadanos y partidos políticos, determinará las prerrogativas que tendrán estos últimos; dispondrá la forma, procedimientos y requisitos a los que deberán ajustarse las elecciones; reglamentará las atribuciones de los organismos electorales; establecerá un sistema de medios de impugnación de los que conocerá el organismo superior y un tribunal local electoral autónomo que será órgano jurisdiccional en materia electoral y establecerá las penas que deberán aplicarse a los infractores de sus disposiciones, debiendo contar ambos organismos con consejeros ciudadanos y magistrados profesionalizados, respectivamente.
 
-La Ley Orgánica de este Poder determinará el procedimiento respectivo. Contra las resoluciones del Colegio Electoral no procede juicio ni recurso alguno.
+Se considera a los partidos políticos como entidades de interés público; la Ley determinará las formas específicas de su intervención en el proceso electoral.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
 
-La renovación de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos se verificará por medio de elecciones populares directas, cuya organización es una función pública que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos acreditados y de los ciudadanos reglamentada por la ley de la materia.
+Los partidos políticos nacionales registrados tendrán derecho a participar en las elecciones estatales y municipales, y deberán contar, en forma equitativa, con un mínimo de elementos para el desarrollo de sus actividades tendientes a la obtención del sufragio popular.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+Los partidos político tendrán derecho al uso permanente de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la Ley.
 
-La Ley Electoral del Estado de Aguascalientes regulará el ejercicio de los derechos y obligaciones políticos y electorales de los ciudadanos y partidos políticos, determinará las prerrogativas que tendrán estos últimos; dispondrá la forma, procedimientos y requisitos a los que deberán ajustarse las elecciones; reglamentará las atribuciones de los organismos electorales; establecerá un sistema de medios de impugnación de los que conocerá el organismo superior y un Tribunal Local Electoral autónomo que será órgano jurisdiccional en materia electoral y establecerá las penas que deberán aplicarse a los infractores de sus disposiciones, debiendo contar ambos organismos con Magistrados profesionalizados.
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
-
-Se considera a los Partidos Políticos como Entidades de interés público; la Ley determinará las formas específicas de su intervención en el proceso electoral.
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
-
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
-
-Los partidos políticos nacionales registrados tendrán derecho a participar en las elecciones estatales y municipales.
+La Ley establecerá las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales.
 
 ###### Artículo 17 Bis.
 
@@ -319,17 +293,17 @@ El cargo de Diputado Propietario o Suplente en ejercicio, es incompatible con cu
 
 La infracción de esta disposición será sancionada con la pérdida de la investidura de Diputado.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1995)</small>
 
 ###### Artículo 23.
 
-El Congreso del Estado se instalará cada tres años, el 15 de octubre del año de la elección.
+El Congreso del Estado se instalará cada tres años, el 15 de noviembre del año de la elección.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1995)</small>
 
 ###### Artículo 24.
 
-El Congreso se reunirá cada año, del 15 de octubre al 31 de diciembre para celebrar un primer periodo de sesiones ordinarias y del 15 de abril al 30 de junio para celebrar un segundo periodo de sesiones ordinarias.
+El Congreso se reunirá el primer año de su ejercicio constitucional del 15 de noviembre al 31 de enero, para celebrar un primer período ordinario de sesiones. El segundo y tercer año de ejercicio constitucional, se reunirá del 15 de octubre al 31 de diciembre, para celebrar el primer período ordinario de sesiones. Asimismo, se reunirá del 15 de abril al 30 de junio, para celebrar un segundo período ordinario de sesiones, cada año.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
 
@@ -411,9 +385,9 @@ IX.- Crear y suprimir empleos públicos.
 
 X.- Convocar a elecciones conforme a la Ley.
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1995)</small>
 
-XI.- Erigirse en Colegio Electoral para la calificación de las elecciones de Diputados por ambos principios, Gobernador y miembros de los Ayuntamientos y declarar electos a los que hayan obtenido mayoría.
+XI. - Erigirse en Colegio Electoral para la calificación de la elección de Gobernador del Estado.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
@@ -431,9 +405,9 @@ XIV.- Decidir sobre la renuncia del cargo de Gobernador; conceder licencia a dic
 
 XV.- Aprobar los nombramientos de los Magistrados del Supremo Tribunal de Justicia del Estado, que expida el Ejecutivo; y en caso de que los rechace, nombrarlos de entre los listados en las ternas que éste le proponga.
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 1994)</small>
+> <small>(REFORMADA P.O. 15 DE ENERO DE 1995)</small>
 
-XVI.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia, los Comisionados Magistrados de la Comisión Estatal Electoral y los del Tribunal Local Electoral, comunicándose su aceptación al Ejecutivo para que proceda conforme a sus facultades.
+XVI.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia, los Consejeros Ciudadanos del Consejo Estatal Electoral y los Magistrados del Tribunal Local Electoral, comunicándose su aceptación a la autoridad competente, para que proceda conforme a sus facultades.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
@@ -497,9 +471,9 @@ XXX.- Citar a solicitud de la mitad de sus miembros al Gobernador del Estado, a 
 
 Integrar a solicitud de una tercera parte de sus miembros, comisiones para investigar el funcionamiento de todos los Organismos Descentralizados del Estado o de las Empresas de Participación Estatal. Los resultados de las investigaciones se harán del conocimiento del Ejecutivo del Estado; y
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADA P.O. 15 DE ENERO DE 1995)</small>
 
-XXXI.- Elegir de entre las propuestas que le presente el Ejecutivo a los Comisionados Magistrados de la Comisión Estatal Electoral y a los Magistrados integrantes del Tribunal Local Electoral por el voto de las dos terceras partes de sus integrantes; si en una primera votación no se obtuviese tal mayoría, se procederá a insacular de entre los candidatos propuestos.
+XXXI.- Elegir de entre las propuestas que le presenten sus integrantes a los Consejeros Ciudadanos y a los Magistrados del Tribunal Local Electoral, que reúnan los requisitos de la Ley de la materia por el voto de dos terceras partes de sus integrantes, si en una primera votación no se obtuviese tal mayoría, se procederá a designarlos mediante el procedimiento de insaculación.
 
 > <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 1991)</small>
 
@@ -533,9 +507,9 @@ III.- Convocar al Congreso a sesiones extraordinarias, cuando lo juzgue necesari
 
 IV.- Cambiar temporalmente la residencia de los Poderes del Estado, en casos de suma urgencia, mediante la aprobación del Ejecutivo.
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1995)</small>
 
-V.- Recibir los expedientes relativos a las elecciones de Gobernador, miembros de los Ayuntamientos y Diputados, para el sólo efecto de turnarlos al Congreso erigido en Colegio Electoral para proceder a su calificación;
+V.- Recibir el expediente relativo a la elección de Gobernador del Estado, para el solo efecto de turnarlo al Congreso que erigido en Colegio Electoral procederá a su calificación.
 
 > <small>(ADICIONADA, P.O. 24 DE JULIO DE 1994)</small>
 
@@ -759,9 +733,7 @@ XVI.- Disponer de la Policía en los Municipios en que habitual o transitoriamen
 
 XVII.- Nombrar Magistrados del Supremo Tribunal de Justicia, observándose lo dispuesto por la fracción XVI del artículo 27 de esta Constitución; y (sic)
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1991)</small>
-
-XVIII.- Proponer al Congreso del Estado candidatos a ocupar los puestos de Magistrados ante la Comisión Estatal Electoral y del Tribunal Local Electoral.
+XVIII.- (DEROGADA, P.O. 15 DE ENERO DE 1995)
 
 > <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 1991)</small>
 
@@ -1013,15 +985,15 @@ I).- Los demás que el Congreso del Estado determine según las condiciones terr
 
 Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponda.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1995)</small>
 
-###### Articulo 67.
+###### Artículo 67.
 
-Los Ayuntamientos se compondrán del número de Regidores y Síndicos que prevenga la ley; serán electos por el sistema de mayoría relativa; residirán en las Cabeceras de los Municipios y estarán presididos por el Primer Regidor quien a la vez tendrá el carácter de Presidente Municipal. Este servidor público es política y administrativamente el Representante del Ayuntamiento y el Municipio.
+Los Ayuntamientos se compondrán del número de Regidores y Síndicos que prevenga la Ley; serán electos por el sistema de mayoría relativa; residirán en las cabeceras de los Municipios y estarán presididos por el Primer Regidor quien a la vez tendrá el carácter de Presidente Municipal. Este servidor público es política y administrativamente el representante del Ayuntamiento y del Municipio.
 
-Tendrán, además, hasta tres Regidores que serán electos según el principio de representación proporcional, y su asignación a los Partidos Políticos, entre los cuales no debe figurar el que haya obtenido mayoría de votos, se hará de acuerdo con el procedimiento que establezca la ley.
+Tendrán, además, hasta seis Regidores que serán electos según el principio de representación proporcional y su asignación a los partidos políticos, entre los cuales no debe figurar el que haya obtenido mayoría de votos, se hará de acuerdo con el procedimiento que establezca la Ley.
 
-Los Regidores de mayoría relativa y los de representación proporcional tendrán la misma categoría e iguales derechos y obligaciones.
+Los Regidores de mayoría relativa y los de representación proporcional, tendrán la misma categoría e iguales derechos y obligaciones.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1977)</small>
 
@@ -1037,9 +1009,7 @@ I.- Ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos;
 
 II.- Tener 18 años cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
-
-III.- Haber terminado la instrucción primaria.
+III.- (DEROGADA, P.O. 15 DE ENERO DE 1995)
 
 > <small>(ADICIONADA, P.O. 8 DE JULIO DE 1973)</small>
 
@@ -1497,7 +1467,7 @@ P.O. 5 DE ENERO DE 1975.
 
 DECRETO NÚMERO 12, POR EL QUE SE ADICIONA LA FRACCIÓN XXX AL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES..
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 5 DE ENERO DE 1975.
 
@@ -1573,7 +1543,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 26 DE AGOSTO DE 1990.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.S.
 
 P.O. 24 DE FEBRERO DE 1991.
 
@@ -1654,3 +1624,17 @@ QUINTO.- De conformidad con el nuevo contenido del Artículo 23, y para efectos 
 P.O. 23 DE OCTUBRE DE 1994.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ENERO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La presente reforma constitucional en materia electoral regirá a partir de 1995 los procesos electorales del Estado. Las reformas y adiciones a la Ley Electoral deberán ser expedidas antes del 31 de enero de 1995.
+
+###### ARTICULO TERCERO.
+
+En tanto no se aprueben las reformas y adiciones a la Ley Orgánica del Congreso del Estado, se aplicará la vigente en lo que no contravenga al presente Decreto.
