@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-funcionamiento-de-las-juntas-de-mejoras-13099"
 country: "mx"
 rank: "ley"
 publication_date: "1949-03-12"
-last_updated: "1967-04-08"
+last_updated: "1998-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL FUNCIONAMIENTO DE LAS JUNTAS DE MEJORAS MATERIALES EN EL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 12 de marzo de 1949.
 
@@ -47,19 +47,23 @@ Se establecerán Juntas Locales de Mejoras Materiales en la cabecera de cada Mun
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 1967)</small>
 
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 1998)</small>
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 3o.
 
 Las Juntas Locales de Mejoras Materiales se integrarán:
 
-I.- Por un Representante del Gobierno del Estado, que fungirá como Presidente.
+I.- Por un Presidente, que será un representante del gobierno del Estado, designado por el Titular del Ejecutivo.
 
-II.- Por un Representante del R. Ayuntamiento que fungirá como Secretario.
+II.- Por un Secretario, que será un representante designado por el Presidente Municipal del Ayuntamiento correspondiente.
 
-III.- Por un Representante de la Cámara de Propietarios, que fungirá como Tesorero.
+III.- Por un Tesorero, designado por el Presidente de la Junta de la propuesta en terna, que presenten de entre ellos mismos, los Vocales a que se refiere la fracción IV de este artículo; y
 
-IV.- Por un Representante de la Cámara de Comercio, que fungirá como Vocal, y
+IV.- Por Vocales, que no serán menos de tres ni más de 10, entre los que se incluirá a un representante de cada una de las organizaciones privadas y sociales más representativas de la comunidad.
 
-V.- Por un Representante, de la Cámara de Propietarios, que fungirá como Vocal.
+Cada miembro propietario de la Junta, contará con un suplente que se designará por aquél.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 1967)</small>
 
@@ -282,3 +286,9 @@ P.O. 8 DE ABRIL DE 1967.
 ###### ARTICULO UNICO
 
 - Se fija un Término de noventa días contados a partir de la publicación de este Decreto en el Periódico Oficial, para que las Juntas Locales de Mejoras Materiales que actualmente funcionan en el Estado, se restructuren (sic) ajustándose a lo dispuesto en el Artículo Tercero.
+
+P.O. 27 DE OCTUBRE DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
