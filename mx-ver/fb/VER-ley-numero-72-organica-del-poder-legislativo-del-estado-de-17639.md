@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2004-11-10"
+last_updated: "2005-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE FEBRERO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -1069,11 +1069,17 @@ La Secretaría de Fiscalización, cuyo titular deberá contar con título de Lic
 
 I. Revisar y analizar la aplicación de los recursos públicos de los Ayuntamientos, durante el ejercicio fiscal correspondiente, mediante la verificación de sus estados financieros, anexos y demás información relativa que les requiera el Congreso;
 
-II. Fiscalizar e investigar a los Ayuntamientos, durante el año de que se trate, conforme a su Programa Operativo Anual;
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2005)</small>
 
-III. Practicar, por instrucciones del Secretario General, previo acuerdo del Presidente de la Mesa Directiva del Congreso o, en su caso, de la Diputación Permanente, auditorías a los Ayuntamientos durante el ejercicio fiscal correspondiente o designarles interventores;
+II. Evaluar el avance del informe de la Gestión Financiera de los Ayuntamientos, conforme a su Programa Operativo Anual. Dicho Programa será aprobado por la Comisión Permanente de Vigilancia;
 
-IV. Implementar programas permanentes de capacitación y orientación preventiva para los servidores públicos municipales;
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2005)</small>
+
+III. Practicar, por instrucciones del Secretario General, previo acuerdo del Presidente de la Mesa Directiva, Presidente de la Junta de Coordinación Política o de la Comisión Permanente de Vigilancia, indistintamente, con la aprobación del pleno del Congreso o, en su caso, de la Diputación Permanente, auditorías a los ayuntamientos, o designarle interventores;
+
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2005)</small>
+
+IV. Instrumentar programas permanentes de capacitación y orientación preventiva para los servidores públicos municipales, conforme a su Programa Operativo Anual;
 
 V. Apoyar a la Secretaría General en la recepción, control y sistematización de las declaraciones de situación patrimonial que presenten los servidores públicos estatales y municipales, así como programar y ejecutar acciones tendientes al cumplimiento de las disposiciones en la materia;
 
@@ -1211,4 +1217,10 @@ Primero. El presente Decreto entrará en vigor el día de su publicación en la 
 
 .
 
-Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decretto.
+
+G.O. 15 DE FEBRERO DE 2005.
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial.
+
+Segundo. Se derogan las disposiciones de observancia general que se opongan a este decreto.
