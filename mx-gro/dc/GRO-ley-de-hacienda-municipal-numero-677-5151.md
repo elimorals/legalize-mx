@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "1989-12-29"
+last_updated: "1990-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1990.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -599,11 +599,27 @@ La base de estos impuestos será el monto total del pago por los conceptos seña
 
 Los impuestos se causarán conforme a las tasas, porcentajes y tarifas factorizadas que establezca la Ley de Ingresos de los Municipios y se pagarán en el mismo acto en que se pague el concepto principal. Si el pago de créditos fiscales se realiza en forma extemporánea estos impuestos causarán recargos de ley.
 
-#### SECCION PRIMERA. Disposiciones generales
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+#### SECCION QUINTA. De Peritos Valuadores
+
+###### ARTICULO 51
+
+BIS.- Perito Valuador es la persona con capacidad técnica y legalmente autorizada por la Secretaría de Finanzas y Administración del Gobierno del Estado, para emitir su opinión en materia de valoración de suelo y de construcción de la Propiedad Raíz.
+
+A).- El Perito Valuador, deberá realizar sus avalúos con responsabilidad, honestidad, profesionalismo y estricto apego a las normas aplicables.
+
+I.- Es obligación de los Peritos Valuadores que practiquen la valuación en territorios de los Municipios del Estado para fines fiscales, inscribirse en el Registro Estatal de Valuadores; el cual llevará en orden y al corriente el archivo en esta Secretaría. La vigencia de este registro será de un año, a partir de la fecha de su expedición.
+
+B).- Para la aplicación correcta de los valores unitarios de los predios, el Perito Valuador podrá solicitar a la Dirección o área de Catastro Municipal, la información relativa a los valores unitarios de suelo y construcción; así como los procedimientos para la valuación catastral implícita en el instructivo.
+
+I.- Los avalúos que realicen los Peritos Valuadores, deberán de aplicar las normas de la presente Ley, y se basarán en lineamientos técnicos y administrativos que emitan los municipios del Estado y las sociedades nacionales de crédito.
+
+II.- La vigencia del valor determinado por avalúo para efectos fiscales, será de seis meses contados a partir de la fecha de formulación del mismo, así como a lo previsto por el segundo párrafo de la fracción V del Artículo 143 del Código Fiscal Municipal.
 
 ### CAPITULO II. De los derechos
 
-#### SECCION SEGUNDA. Derechos de cooperación para obras públicas
+#### SECCION PRIMERA. Disposiciones generales
 
 ###### ARTICULO 52.
 
@@ -631,7 +647,7 @@ El funcionario o empleado público que preste algún servicio por el que se caus
 
 Están exentos del pago de derechos, la Federación, el Estado y los Municipios, salvo disposición expresa en contrario.
 
-#### SECCION UNICA
+#### SECCION SEGUNDA. Derechos de cooperación para obras públicas
 
 ###### ARTICULO 58.
 
@@ -728,6 +744,8 @@ Para los efectos del pago de las multas que se impongan, ya sea de orden judicia
 Los municipios del Estado, tendrán derecho a participar del rendimiento de impuestos federales, en los términos y disposiciones que al efecto señalen las leyes federales que los conceden y en los convenios que en su caso se celebren.
 
 ### CAPITULO I. Del comercio ambulante
+
+#### SECCION UNICA
 
 ###### ARTICULO 69.
 
@@ -862,3 +880,9 @@ P.O. 29 DE DICIEMBRE DE 1989.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día primero de enero de mil novecientos noventa.
+
+P.O. 25 DE DICIEMBRE DE 1990.
+
+PRIMERO.- Todos los Peritos Valuadores que ejerzan dicha actividad en el ámbito Estatal, tienen noventa días para registrarse ante la Secretaría de Finanzas y Administrción (sic) del Gobierno del Estado, contados a partir de que entra en vigor el presente Decreto.
+
+SEGUNDO.- Este Decreto empezará a surtir sus efectos al día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
