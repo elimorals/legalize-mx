@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-contaduria-mayor-de-hacienda-del-estado-8232
 country: "mx"
 rank: "ley_organica"
 publication_date: "1964-04-30"
-last_updated: "1974-12-23"
+last_updated: "2004-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE DICIEMBRE DE 1974.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE YUCATAN, PUBLICADA EN EL DIARIO OFICIAL EL 31 DE MARZO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial el Jueves 30 de Abril de 1964.
 
@@ -208,3 +210,25 @@ D.O. 23 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 23 DE FEBRERO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga La Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Yucatán, publicada en Diario Oficial del Gobierno del Estado, el 30 de abril de 1964.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan a esta ley.
+
+###### ARTÍCULO CUARTO.
+
+La revisión de las Cuentas Públicas, conforme a las disposiciones de esta ley, se efectuarán a partir del mes de abril del año 2004. Las anteriores se revisaran conforme a la Ley vigente al momento de su rendición.
+
+###### ARTÍCULO QUINTO.
+
+Los requisitos para ser Contador Mayor de Hacienda previstos en el artículo sexto de la presente Ley, se aplicarán a partir de que la Gran Comisión del Congreso del Estado realice nuevos nombramientos.
