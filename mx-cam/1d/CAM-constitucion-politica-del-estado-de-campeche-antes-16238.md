@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1993-12-30"
+last_updated: "1994-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 1994.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -329,7 +329,7 @@ La ley establecerá un sistema de medios de impugnación, de los que conocerán 
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
-El Tribunal Electoral del Estado tendrá la competencia y organización que determine la ley; funcionará en pleno, resolverá en una sola instancia y sus sesiones serán públicas. Los Poderes Legislativo y Ejecutivo garantizarán su debida integración. Contra sus resoluciones no procederá juicio ni recurso alguno, pero aquéllas que se dicten con posterioridad a la jornada electoral podrán ser revisadas y en su caso modificadas por el Colegio Electoral, en los términos de los artículos 36 y 54, fracciones XVII y XVIII, de esta Constitución. Para el ejercicio de sus funciones, contará con un cuerpo de magistrados y jueces instructores, los cuales serán independientes y responderán sólo al mandato de la ley.
+El Tribunal Electoral del Estado tendrá la competencia y organización que determine la ley; funcionará en pleno, resolverá en una sola instancia y sus sesiones serán públicas. Los Poderes Legislativo y Ejecutivo garantizarán su debida integración. Contra sus resoluciones no procederá juicio ni recurso alguno, pero aquellas que se dicten con posterioridad a la jornada electoral podrán ser revisadas y en su caso modificadas por el Colegio Electoral, en los términos de los artículos 36 y 54, fracciones XVII y XVIII de esta Constitución. Para el ejercicio de sus funciones, contará con un cuerpo de magistrados y jueces instructores, los cuales serán independientes y responderán solo al mandato de la ley.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
@@ -407,7 +407,7 @@ La asignación de los diputados según el principio de representación proporcio
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-a) Para obtener el registro de sus listas de candidatos a diputados de representación proporcional, los partidos políticos deberán acreditar que participan con candidatos a diputados por mayoría relativa en cuando menos 14 de los distritos uninominales del Estado;
+a) Para obtener el registro de sus listas de candidatos a diputados de representación proporcional, los partidos políticos deberán acreditar que participan con candidatos a diputados por mayoría relativa en cuando menos 14 de los distritos uninominales del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -1385,9 +1385,9 @@ I.- Ser mexicano por nacimiento y ciudadano campechano en ejercicio de sus derec
 
 II.- No haber sido condenado por algún delito que merezca pena corporal;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1994)</small>
 
-III.- Tener 25 años cumplidos, el día de la elección;
+III.- Tener 21 años cumplidos, el día de la elección.
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1932,3 +1932,7 @@ P.O. 30 DE DICIEMBRE DE 1993.
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO INICIARA SU VIGENCIA AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+P.O. 14 DE ENERO DE 1994.
+
+Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
