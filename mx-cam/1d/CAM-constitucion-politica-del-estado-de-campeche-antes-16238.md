@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2000-06-27"
+last_updated: "2001-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2000.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE JUNIO DE 2000.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -469,7 +467,7 @@ II.- Tener 21 años cumplidos, el día de la elección;
 
 III.- Además de los requisitos anteriores, según el caso se necesitarán los siguientes:
 
-a).- Ser originario del municipio en donde esté ubicado el distrito en que se haga la elección, con residencia en el propio municipio de seis meses inmediatamente anteriores a la fecha en que aquélla se verifique;
+a).- Ser originario del municipio en donde esté ubicado el distrito en que se haga la elección, con residencia en el propio municipio de seis meses inmediatamente anteriores a la fecha en que aquella se verifique;
 
 b).- Ser nativo del Estado, con residencia de un año en el municipio en donde esté ubicado el distrito respectivo, inmediatamente anterior a la fecha de la elección;
 
@@ -741,13 +739,13 @@ XIX.- Expedir la ley que regule la estructura y funcionamiento del organismo est
 
 XX.- Resolver los problemas políticos intermunicipales y los que se susciten entre el Poder Ejecutivo y los Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2000)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2001)</small>
 
-XXI.- Revisar y aprobar, en su caso, la Cuenta Pública del Estado que, anualmente y en la forma que prevenga la correspondiente ley secundaria, le sea remitida, por conducto del Ejecutivo del Estado, ya consolidada;
+XXI.- Revisar, fiscalizar y aprobar, en su caso, la Cuenta Pública del Estado que, anualmente y en la forma que prevenga la correspondiente ley secundaria, le sea remitida por conducto del Ejecutivo del Estado, ya consolidada;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2000)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2001)</small>
 
-XXII.- Revisar y aprobar, en su caso, la Cuenta Pública de cada uno de los Municipios del Estado, que anualmente y en la forma que prevenga la correspondiente ley secundaria, le sean remitidas por sus Ayuntamientos;
+XXII.- Revisar, fiscalizar y aprobar, en su caso, la Cuenta Pública de cada uno de los Municipios del Estado, que anualmente y en la forma que prevenga la correspondiente ley secundaria, le sean remitidas por sus Ayuntamientos;
 
 > <small>(REFORMADA P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -919,11 +917,11 @@ Si el Congreso estuviere en receso, la Diputación Permanente nombrará desde lu
 
 Cuando la falta de gobernador ocurriese después de los dos primeros años del período para el cual fué electo, si el Congreso del Estado se encontrare en sesiones ordinarias, elegirá al gobernador substituto que deberá concluír el período respectivo; pero si el Congreso no estuviese reunido, la Diputación Permanente nombrará un gobernador provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la designación de un gobernador substituto. Si se tratare de renuncia del gobernador y el Congreso estuviese en sesiones ordinarias, procederá con las formalidades del caso a elegir al gobernador substituto que haya de terminar el período constitucional, previa la calificación de la renuncia. Si el Congreso estuviese en receso, la Diputación Permanente lo convocará a sesiones extraordinarias para que calificando la renuncia, proceda en la forma ya señalada.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### ARTICULO 66.
 
-Si al comenzar un período Constitucional no se presentase el Gobernador electo, o la elección no estuviese hecha y declarada el 16 de octubre, se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el ciudadano que designe el Congreso del Estado o, en su caso, con el carácter de provisional, el que designe la Diputación Permanente, de acuerdo con lo dispuesto en los artículos 64 y 65 de esta Constitución.
+Si al comenzar un período constitucional no se presentase el gobernador electo, o la elección no estuviese hecha y declarada el 16 de septiembre, se encargará desde luego del Poder Ejecutivo, en calidad de gobernador interino, el ciudadano que designe el Congreso del Estado o, en su caso, con el carácter de provisional, el que designe la Diputación Permanente, de acuerdo con lo dispuesto en los artículos 64 y 65 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -959,7 +957,7 @@ El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Est
 
 El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 71.
 
@@ -1321,7 +1319,29 @@ II.- (DEROGADA, P.O. 1 DE ABRIL DE 1992)
 
 III.- Dirimir las competencias que se susciten entre los Tribunales inferiores del Estado, así como todas aquellas controversias y asuntos que determinen las leyes;
 
-IV.- Conocer de los conflictos entre los Ayuntamientos o entre éstos y el Ejecutivo, así como de aquellos en que el Estado fuese parte;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2001)</small>
+
+IV.- Conocer y resolver los conflictos que se susciten entre:
+
+a) El Estado y un Municipio;
+
+b) Un Municipio y otro;
+
+c) Un Municipio y una Sección Municipal;
+
+d) Una Sección Municipal y otra;
+
+e) Los Poderes Ejecutivo y Legislativo del Estado;
+
+f) Alguno de los anteriores y una entidad paraestatal o paramunicipal;
+
+g) Dos entidades paraestatales;
+
+h) Dos entidades paramunicipales; o
+
+i) Una entidad paraestatal y una paramunicipal.
+
+El procedimiento para resolver los mencionados conflictos se establecerá en la correspondiente ley reglamentaria. Las sentencias de fondo que emita el Tribunal Pleno serán definitivas e inatacables.
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
@@ -1457,7 +1477,9 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 Los Municipios que integran el Estado serán Libres y se regirán por la Ley Orgánica de la materia, teniendo como bases las siguientes:
 
-I.- Cada Municipio será administrado por un cuerpo colegiado denominado Ayuntamiento, de elección popular directa;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2001)</small>
+
+I.- Cada Municipio será gobernado por un cuerpo colegiado denominado Ayuntamiento, de elección popular directa;
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
 
@@ -1529,29 +1551,71 @@ IV.- Los que tuvieren mando de fuerza pública, si no dejaren el mando por lo me
 
 V.- El padre en concurrencia con el hijo, el hermano en concurrencia con el hermano, el socio con su consocio y el patrón con su dependiente.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### ARTICULO 105.
 
+Los Municipios tendrán a su cargo las funciones y los servicios públicos siguientes:
+
+a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+
+b) Alumbrado público;
+
+c) Limpia, recolección, traslado, tratamiento y disposición final de residuos;
+
+d) Mercados y centrales de abasto;
+
+e) Panteones;
+
+f) Rastro;
+
+g) Calles, parques, jardines y su equipamiento;
+
+h) Seguridad pública en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito; e
+
+i) Los demás que la legislatura local determine según las condiciones territoriales y socioeconómicas del Municipio, así como su capacidad administrativa y financiera.
+
+Los Municipios en los términos de las leyes federales y del Estado están facultados para:
+
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
+
+b) Participar en la creación y administración de sus reservas territoriales;
+
+c) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Estado elabore proyectos de desarrollo regional deberá asegurar la participación de los Municipios;
+
+d) Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;
+
+e) Intervenir en la regularización de la tenencia de la tierra urbana;
+
+f) Otorgar licencias y permisos para construcciones;
+
+g) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
+
+h) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial; e
+
+i) Celebrar convenios para la administración y custodia de zonas federales.
+
+En lo conducente y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+
 Los Municipios no podrán en ningún caso:
 
-I.- Prohibir o evitar en cualquier forma la entrada o salida de mercancías locales, nacionales o extranjeras, o productos de cualquier clase;
+a) Prohibir o evitar en cualquier forma la entrada o salida de mercancías locales, nacionales o extranjeras, o productos de cualquier clase;
 
-II.- Gravar directa o indirectamente la entrada o salida de los mismos o el paso por el territorio de su jurisdicción, y
+b) Gravar directa o indirectamente la entrada o salida de los mismos o el paso por el territorio de su jurisdicción; y
 
-III.- Imponer contribuciones que no estén especificadas en las leyes fiscales del Municipio.
+c) Imponer contribuciones que no estén especificadas en las leyes fiscales del Municipio.
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 106.
 
-Los Municipios no podrán enajenar o gravar de cualquier manera los bienes que les pertenezcan , ni contratar empréstitos, sin la autorización expresa del Congreso del Estado.
+Los Municipios no podrán enajenar o gravar de cualquier manera los bienes que les pertenezcan, ni contratar empréstitos, sin la autorización expresa del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### ARTICULO 107.
 
-Los Poderes del Estado son los únicos superiores jerárquicos de los Municipios, sin coartar ni limitar las libertades que les concede la Constitución Federal de la República y la particular del Estado.
+Los ámbitos de competencia del Gobierno del Estado y los Gobiernos de los Municipios serán los que determinen la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes que de ambas emanen.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -2110,3 +2174,7 @@ P.O. 22 DE JUNIO DE 2000
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Entretanto la Entidad de Fiscalización Superior del Estado, a que se contrae la fracción IX del artículo 54 de la Constitución Local, no se encuentre debidamente integrada e instalada en sus funciones, la Contaduría Mayor de Hacienda continuará operando conforme a las disposiciones de la Ley Orgánica del Congreso del Estado y del Reglamento para el Gobierno Interior del propio Congreso.
+
+P.O. 2 DE FEBRERO DE 2001.
+
+Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
