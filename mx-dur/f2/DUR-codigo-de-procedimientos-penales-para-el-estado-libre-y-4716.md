@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-penales-para-el-estado-libre-y-4716"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-01-30"
-last_updated: "1994-07-17"
+last_updated: "1994-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1994.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de enero de 1992.
 
@@ -1075,17 +1075,29 @@ La autoridad revocará la concesión inmediatamente después de que el inculpado
 
 CONSIGNACION ANTE LOS TRIBUNALES
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 163.
 
-El Ministerio Público y la Policía Judicial a su mando están obligados a detener al responsable, sin esperar a tener orden judicial, en delito flagrante o en caso urgente:
+El Ministerio Público y la Policía Judicial a su mando, están obligados a detener al responsable, sin esperar a tener orden judicial, en delito flagrante o en caso urgente.
 
-I.- Se entiende que existe delito flagrante, no sólo cuando la persona es detenida en el momento de estarlo cometiendo, sino cuando, después de ejecutado el hecho delictuoso, el inculpado es perseguido materialmente o cuando en el momento de haberlo cometido, alguien lo señala como responsable del mismo delito, y se encuentra en su poder el objeto del mismo, el instrumento con que aparezca cometido o huellas o indicios que hagan presumir fundadamente su culpabilidad.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1994)</small>
 
-En estos casos el Ministerio Público iniciará desde luego la averiguación previa y bajo su responsabilidad, según proceda, decretará la retención del indiciado si están satisfechos los requisitos de procedibilidad y el delito merezca pena privativa de la libertad, o bien, ordenará la libertad del detenido, cuando la sanción sea no privativa de libertad, o bien alternativa.
+I.- Se entiende que existe delito flagrante:
 
-La violación de esta disposición hará penalmente responsable al Ministerio Público que decrete la indebida retención, y el indiciado deberá ser puesto en libertad.
+A).- Cuando la persona es detenida en el momento de estarlo cometiendo.
+
+B).- Cuando después de ejecutado el hecho delictuoso, el inculpado es perseguido materialmente.
+
+C).- Cuando en el momento de haberlo cometido, alguien lo señala como responsable del mismo delito.
+
+D).- Si después de haberlo cometido se encuentra en su poder el objeto del delito o el instrumento con que aparezca cometido.
+
+E).- Si a partir de haberlo cometido aparezcan huellas o indicios que hagan presumir fundadamente su culpabilidad.
+
+En los casos anteriores, cualquier persona podrá detener al indiciado poniéndolo sin demora a disposición de la autoridad.
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 1994)</small>
 
 II.- Habrá caso urgente cuando:
 
@@ -1095,9 +1107,15 @@ b).- Que exista riesgo fundado de que el indiciado pueda sustraerse a la acción
 
 c).- Que el Ministerio Público no pueda ocurrir ante la autoridad judicial por razón de la hora, lugar u otras circunstancias.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+
 El Ministerio Público al emitir la orden de detención en caso urgente deberá hacerlo por escrito, fundando y expresando los indicios que acrediten los requisitos mencionados en los incisos anteriores.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+
 La orden mencionada será ejecutada por la Policía Judicial, quien deberá sin dilación alguna poner al detenido a disposición del Ministerio Público que la haya librado.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
 
 Para todos los efectos legales se califican como delitos graves, los previstos en los artículos: 69 inciso a) y b); 70, 118, 119, 121, 122, 126, 127, 151, Fracción II, 207, 254, 256, 258, 261, 262, 266, 267, 268, 280, 281, 285, 296, 297, 298, 299, 300, 301, 314, 317, fracciones IV y V; 319, 320, 321, segundo párrafo; 327 fracción VI; 328, 329, 330, 331, 332, todos ellos del Código Penal de nuestro Estado.
 
@@ -3252,3 +3270,7 @@ P.O. 17 DE JULIO DE 1994.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día (1o.) primero de Septiembre de (1994) mil novecientos noventa y cuatro.
+
+P.O. 15 DE DICIEMBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
