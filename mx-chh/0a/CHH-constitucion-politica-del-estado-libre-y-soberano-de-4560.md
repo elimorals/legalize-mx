@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1988-12-24"
+last_updated: "1989-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1989.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -613,7 +613,7 @@ VII.- Revisar la cuenta pública del Estado que por mes, trimestre o semestre pr
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-VIII.- Aprobar las leyes de Ingresos de los municipios a más tardar el día treinta de noviembre y revisar sus cuentas públicas.
+VIII.- Aprobar las Leyes de Ingresos de los municipios a más tardar el día 15 de diciembre y revisar sus cuentas públicas.
 
 IX.- Autorizar al Gobernador:
 
@@ -1037,7 +1037,9 @@ VII.- Hacer observaciones a las leyes o decretos en los términos del artículo 
 
 VIII.- Prestar al Poder Judicial los auxilios que demande para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
 
-IX.- Presentar anualmente al Congreso, antes del veinte de noviembre, el proyecto de Ley de Ingresos y de Presupuesto de Egresos del año siguiente, y por mes, trimestre o semestre, la Cuenta General de Ingresos y Egresos del Erario, correspondiente al mes, trimestre o semestre próximo anterior.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1989)</small>
+
+IX. Presentar anualmente al Congreso antes deld (sic) iá (sic) 10 de Diciembre, el proyecto de Ley de Ingresos y Presupuesto de Egresos del año siguiente, y por mes, trimestre o semestre, la cuenta general de Ingresos y Egresos del erario, correspondiente al mes, trimestre o semestre próximo anterior.
 
 X.- Formar y remitir al Congreso, o en su caso a la Diputación Permanente la lista de candidatos a Magistrados o la terna a que se refieren, respectivamente, los artículos 103 y 104 de la presente Constitución.
 
@@ -1899,7 +1901,7 @@ El procedimiento de juicio político sólo podrá iniciarse durante el período 
 
 ###### Art. 183.
 
-Para proceder penalmente en contra de los servidores públicos que menciona el Artículo 179 por la comisión de delitos comunes durante el tiempo de su cargo, el Congreso del Estado declarará por el voto de más de la mitad de los presentes, si ha o no lugar a ejercitar la acción persecutoria correspondiente.
+Para proceder penalmente en contra de los servidores públicos que menciona el artículo 179 por la comisión de delitos comunes durante el tiempo de su cargo, el Congreso del Estado declarará por el voto de más de la mitad de los presentes, si ha o no lugar a ejercitar la acción persecutoria correspondiente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2146,3 +2148,9 @@ Los Jueces de Primera Instancia que se encuentren en ejercicio y que hayan sido 
 P.O. 24 DE DICIEMBRE DE 1988.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
