@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "1975-05-17"
+last_updated: "1976-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 1976.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -3497,9 +3497,11 @@ IV.- En los demás casos en que la ley expresamente lo disponga.
 
 Para que proceda la vía ejecutiva en los casos de que habla este artículo, se necesita que los contratos en que se funde la pretensión se hayan registrado, o se hayan cumplido con los requisitos que fije la ley.
 
+> <small>(ADICIONADO [N. DE E., REFORMADO], P.O. 11 DE AGOSTO DE 1976)</small>
+
 ###### ARTICULO 490.
 
-Si el título ejecutivo, en los casos del artículo anterior, contiene obligaciones recíprocas, la parte que solicite la ejecución, al presentar la demanda hará consignación de las debidas al demandado, o comprobará fehacientemente haber cumplido con su obligación. Al llevar a efecto la consignación de que habla este artículo, el actor podrá hacer la reducción correspondiente al demérito de la cosa, de acuerdo con las bases calculadas en el contrato, o en la forma que sea moderada prudentemente por el juez.
+Si el título ejecutivo, en los casos del artículo anterior contiene obligaciones recíprocas, la parte que solicite la ejecución, al presentar la demanda, hará consignación de las debidas al demandado, o comprobará fehacientemente haber cumplido con su obligación. Al llevar a efecto la consignación de que habla este artículo, el actor podrá hacer la reducción correspondiente al demérito de la cosa, de acuerdo con las bases calculadas en el contrato, o en la forma que sea moderada prudentemente por el Juez. En todos los casos que dicha consignación deba hacerse en efectivo, se acompañará el certificado de depósito expedido por la Tesorería General del Estado o, en su caso, por la Oficina Fiscal del Estado que corresponda.
 
 ###### ARTICULO 491.
 
@@ -5107,7 +5109,9 @@ II.- El postor que adquiera el inmueble, cubrirá de inmediato, en el acto de la
 
 III.- El postor no podrá rematar para un tercero sino con poder y cláusula especial. Igualmente queda prohibido hacer postura, reservándose la facultad de declarar después el nombre de la persona para quien se hizo;
 
-IV.- Para tomar parte en la subasta, deberán los postores depositar previamente en el Banco de México o en su defecto, en la oficina fiscal del Estado del lugar, y a disposición del juez, el veinte por ciento del valor que sirva de base al remate de los bienes y presentarán al efecto al funcionario aludido el certificado respectivo, sin cuyo requisito no serán admitidos, así como, por escrito en sobre cerrado que se abrirá al momento en que deba procederse al remate, la postura respectiva, que deberá ser sobre la base que se haya fijado a la legal. Estos certificados se devolverán a sus respectivos presentantes, con la orden de pago, inmediatamente después del remate, excepto el que corresponda al mejor postor, en quien se haya fincado aquél, el cual se conservará en depósito del propio juzgado como garantía del cumplimiento de su obligación, y en su caso, como parte del precio de la venta;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 1976)</small>
+
+IV.- Para tomar parte en la subasta, deberán los postores previamente depositar en la Tesorería General del Estado o, en su defecto, en la Oficina Fiscal del Estado del lugar, a disposición del Juez, el veinte por ciento del valor que sirva de base al remate de los bienes y presentarán al efecto al Juez aludido el certificado respectivo, sin cuyo requisito no serán admitidos, así como por escrito en sobre cerrado que se abrirá al momento en que deba procederse al remate, la postura correspondiente, que deberá ser sobre la base que se haya fijado a la legal. Estas certificaciones se devolverán a sus presentantes con la orden de pago inmediatamente después del remate, excepto el que corresponda al mejor postor, en quien se haya fincado aquel, el cual se conservará en depósito del propio Juzgado como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de la venta;
 
 V.- El ejecutante podrá tomar parte en la subasta, y mejorar las posturas que se hicieren, sin necesidad de consignar el depósito prevenido en la fracción anterior. El mismo derecho tendrán los acreedores hipotecarios y embargantes anteriores.
 
@@ -7110,3 +7114,7 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE AGOSTO DE 1976
+
+UNICO:- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
