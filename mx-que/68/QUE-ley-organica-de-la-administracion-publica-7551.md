@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-administracion-publica-7551"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-26"
-last_updated: "1999-04-09"
+last_updated: "2003-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de diciembre de 1991.
 
@@ -191,9 +191,19 @@ IX. Secretaría de Turismo;
 
 X. Secretaría de Salud;
 
-XI. Oficialía Mayor; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
-El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado, La Ley Orgánica del Ministerio Público y demás Leyes le confieren. Este servidor público será el Consejero Jurídico del Gobierno.
+XI. Oficialía Mayor;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+XII. Procuraduría General de Justicia, que ejercerá las atribuciones y tendrá la estructura orgánica que señala la Constitución Política del Estado y la ley correspondiente; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+XIII. Secretaría de Seguridad Ciudadana.
+
+> <small>(DEROGADO PENULTIMO PARRAFO, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
 La representación legal del Estado corresponde al Titular del Ejecutivo, quien la ejercerá directamente, o por conducto de la Secretaría de Gobierno, o delegándola a las personas que expresamente designe.
 
@@ -223,7 +233,9 @@ X. Llevar el registro de autógrafos y legalizar y certificar las firmas de los 
 
 XI. Vigilar y controlar todo lo relacionado con la demarcación y conservación de los límites del Estado y sus Municipios;
 
-XII. Intervenir en auxilio o en coordinación con las Autoridades Federales, en los términos de las leyes relativas en materia de cultos religiosos; detonantes y pirotecnia; portación de armas, juegos y sorteos; migración; prevención y readaptación social y medidas de apremio en caso de desastres naturales;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+XII. Intervenir en auxilio o en coordinación con las Autoridades Federales, en los términos de las leyes relativas en materia de cultos religiosos; detonantes y pirotecnia; juegos y sorteos; migración y readaptación social;
 
 XIII. Intervenir y ejercer las atribuciones que en materia electoral le señalan las Leyes o los Convenios que para ese efecto se celebran;
 
@@ -237,11 +249,11 @@ XVII. Tramitar los recursos administrativos que competan resolver al Gobernador 
 
 XVIII. Realizar los Actos Jurídicos necesarios para reivindicar, administrar y conservar la propiedad del Estado; así como elaborar y controlar el padrón de Bienes Patrimoniales del Gobierno del Estado;
 
-XIX. Proponer al Gobernador del Estado y ejecutar los programas de Seguridad Pública;
+XIX. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
 
-XX. Velar por la Protección de los habitantes, el orden público y la prevención de delitos;
+XX. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
 
-XXI. Administrar y vigilar el tránsito en las carreteras y caminos de jurisdicción estatal, en los términos que señalen las Leyes y Reglamentos respectivos;
+XXI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
 
 XXII. Elaborar y ejecutar los programas de readaptación social de los infractores;
 
@@ -263,7 +275,7 @@ XXX. Organizar los actos cívicos del Gobierno del Estado;
 
 XXXI. Administrar y publicar el Periódico Oficial "La Sombra de Arteaga";
 
-XXXII. Realizar las tareas relativas al desarrollo de la vialidad en el Estado;
+XXXII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
 
 XXXIII. Otorgar, revocar y modificar las concesiones y permisos necesarios para la explotación de vialidades de jurisdicción estatal; para el servicio público de transporte o carga; y para el almacenaje, enajenación y consumo de bebidas alcohólicas; así como ejercer, en su caso, el derecho de reversión;
 
@@ -771,6 +783,60 @@ XX. Coordinar funcionalmente las áreas de apoyo administrativo del Poder Ejecut
 
 XXI. Los demás que le señalan las Leyes y Reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO 29 BIS.- La Secretaría de Seguridad Ciudadana es la dependencia estatal que, con respeto de las (sic) competencia federal y municipal, tiene a su cargo, velar por el orden público y la paz social, en los términos del artículo 21 y 115 de la Constitución Política de los Estados Unidos Mexicanos, a través de la prevención y combate a todo tipo de conductas antisociales, así como la protección de las personas y sus bienes ante siniestros y desastres naturales, y le corresponde el despacho de los siguientes asuntos:
+
+I. Diseñar, proponer y ejecutar las políticas y programas de seguridad pública en el ámbito estatal para prevenir la comisión de delitos y apoyar la procuración de justicia en bien (sic) los gobernados;
+
+II. Diseñar, proponer y ejecutar las políticas y programas de tránsito, de transporte privado y de la prestación del servicio de transporte público, en su caso, con la participación de los Municipios de acuerdo a los convenios y programas en que estos intervengan; así como expedir los permisos y placas de circulación, las licencias y permisos para conducir;
+
+III. Diseñar, proponer y ejecutar las políticas y programas de protección civil en el ámbito estatal;
+
+IV. Proponer al Ejecutivo del Estado las medidas que garanticen la congruencia de las políticas de seguridad pública, tránsito, transporte y protección civil entre las dependencias de la administración pública;
+
+V. Organizar, dirigir, administrar y supervisar a la Policía Estatal, así como garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario;
+
+VI. Nombrar al Director de la Policía Estatal y demás mandos de seguridad pública, tránsito y transporte;
+
+VII. Organizar, dirigir y administrar el Colegio de Policía y el servicio civil de carrera de la policía a su cargo;
+
+VIII. Organizar, dirigir, administrar y supervisar el Sistema Estatal de Protección Civil a través de la Unidad Estatal de Protección Civil de conformidad con la ley de la materia;
+
+IX. Representar al Poder Ejecutivo del Estado en el Sistema Nacional de Seguridad Pública;
+
+X. El titular de la Secretaría de Seguridad Ciudadana, fungirá como Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
+
+XI. Proponer en el seno del Consejo Estatal de Seguridad Pública, políticas, acciones y estrategias de coordinación en materia de prevención del delito y seguridad vial para todo el territorio del Estado;
+
+XII. Proponer en el seno del Consejo Estatal de Protección Civil, políticas, acciones y estrategias de coordinación en materia de protección civil para todo el territorio del Estado;
+
+XIII. Intervenir en auxilio o en coordinación con las autoridades competentes y en términos de las leyes relativas en materia de portación de armas y supervisar la portación por empleados estatales;
+
+XIV. Otorgar las autorizaciones a empresas que presten servicios privados de seguridad en la Entidad, así como supervisar su funcionamiento;
+
+XV. Participar en los convenios y acuerdos de colaboración, en el ámbito de su competencia, con autoridades federales, estatales y municipales, y con instituciones cuyo objeto o interés sea coincidente con los de la Secretaría;
+
+XVI. Efectuar, en coordinación con la Procuraduría General de Justicia estudios sobre los actos delictivos e incorporarlos en el diseño de las políticas en materia de prevención del delito;
+
+XVII. Participar en los convenios y acuerdos con autoridades federales estatales o municipales y con particulares, para la protección de la integridad física de las personas y preservación de sus bienes, en situaciones de peligro o amenazas por disturbios, violencia o riesgo inminente;
+
+XVIII. Auxiliar a las autoridades jurisdiccionales y administrativas cuando así lo requieran, para el debido ejercicio de sus funciones;
+
+XIX. Fomentar la participación ciudadana en la formulación de planes y programas de prevención del delito, seguridad vial y protección civil coordinándose, en su caso, con los diferentes órdenes de gobierno;
+
+XX. Promover y facilitar la participación social para el desarrollo de actividades de observación sobre el ejercicio de sus atribuciones;
+
+XXI. Atender de manera expedita las denuncias y quejas ciudadanas con relación al ejercicio de sus atribuciones;
+
+XXII. Proponer al Ejecutivo la creación o modificación de las direcciones o departamentos administrativos para el buen funcionamiento de la Secretaría;
+
+XXIII. Proponer al Ejecutivo al titular de la Unidad Estatal de Protección Civil;
+
+XXIV. Proponer al Ejecutivo los reglamentos en las materias de su competencia; y
+
+XXV. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
 ### CAPITULO CUARTO. DE LOS TRIBUNALES ADMINISTRATIVOS
 
 ###### ARTICULO 30.
@@ -900,3 +966,13 @@ Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico
 ###### ARTICULO SEGUNDO.
 
 Todos los ordenamientos jurídicos que hagan referencia a las atribuciones de la Secretaría de Desarrollo Urbano, Obras Públicas y Ecología en materia de preservación y restauración del equilibrio ecológico y la protección del ambiente se entenderán referidos a la Secretaría de Desarrollo Sustentable.
+
+P.O. 24 DE DICIEMBRE DE 2003.
+
+PRIMERO. Esta ley entrará en vigor el día 1 de enero del año 2004, debiéndose publicar en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Se abroga la "Ley que Crea la Dirección de Seguridad Pública del Estado de Querétaro" del 22 de febrero de 1974, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" con fecha 7 de marzo de 1974, y se derogan todas las demás disposiciones que se opongan a esta Ley. En consecuencia, las referencias que las leyes y demás disposiciones legales en el Estado tengan o hagan respecto de la Dirección de Seguridad Pública y/o Dirección de Tránsito y Transporte y/o sus titulares, se deberán entender hechas a favor de la Secretaría de Seguridad Ciudadana o su Titular.
+
+TERCERO. Las Unidades Administrativas que con motivo de esta Ley se transfieran de la Secretaría de Gobierno o de alguna otra a la Secretaría de Seguridad Ciudadana, incluirán al personal a su servicio, sin perjuicio de sus derechos adquiridos, así como el mobiliario, los vehículos, maquinaria, aparatos, instrumentos, archivos y el equipo que se haya venido usando. Los derechos laborales del personal que, en virtud de lo dispuesto en la presente Ley, pasen de una dependencia a otra, se respetarán conforme a la disposición legal de la materia.
+
+CUARTO. Los juicios y procedimientos administrativos que se encuentren en trámite y que con motivo de esta Ley deban pasar al conocimiento de la Secretaría de Seguridad Ciudadana, continuarán con su desahogo por quien conozca, y para el caso de que no se hayan resuelto a la fecha de entrada en vigor de esta Ley, se remitirán a la Secretaría a efectos de que ella determine lo conducente. Tratándose de asuntos en litigio, la Secretaría asumirá la personalidad jurídica, ya sea activa o pasiva, hasta la total terminación de los mismos a partir de la entrada en vigor de esta Ley.
