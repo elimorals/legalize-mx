@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1949-08-24"
+last_updated: "1957-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE JUNIO DE 1957.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -63,7 +63,7 @@ La capacidad jurídica es igual para el hombre y la mujer; en consecuencia, la m
 
 Las leyes, decretos, reglamentos, circulares o cualesquiera otras disposiciones de observancia general, obligan y surten sus efectos tres días después de su publicación en el Periódico Oficial.
 
-En los lugares distintos del en que se publique el Periódico Oficial, para que las leyes, decretos, reglamentos, etc., se reputen publicados y sean obligatorios, se necesita que, además del plazo que fija el párrafo anterior, transcurra un día más por cada cuarenta kilómetros de distancia o fracción que exceda de la mitad.
+En los lugares distintos del en que se publique el Periódico Oficial, para que las leyes, decretos, reglamentos, etc., se reputen publicados y sean obligatorios, se necesita que, además del plazo que fija el párrafo anterior, transcurra un día mas por cada cuarenta kilómetros de distancia o fracción que exceda de la mitad.
 
 ###### Art. 5º.
 
@@ -659,7 +659,7 @@ II.- Del menor que no esté bajo la patria potestad y del mayor incapacitado, el
 
 III.- De los militares en servicio activo, el lugar en que están destinados;
 
-IV.- De los empleados públicos, el lugar donde desempeñan sus funciones por más de seis meses. Los que por tiempo menor desempeñen alguna comisión, no adquirirán domicilio en el lugar en donde la cumplen, sino que conservarán su domicilio anterior;
+IV.- De los empleados públicos, el lugar donde desempeñan sus funciones por mas de seis meses. Los que por tiempo menor desempeñen alguna comisión, no adquirirán domicilio en el lugar en donde la cumplen, sino que conservarán su domicilio anterior;
 
 V.- De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
 
@@ -5991,17 +5991,15 @@ Cuando parte de la cosa perteneciere exclusivamente a un copropietario o alguno 
 
 Todo condueño tiene la plena propiedad de la parte alícuota que le corresponda y la de sus frutos y utilidades, pudiendo, en consecuencia, enajenarla, cederla o hipotecarla, y aun subsistir otro en su aprovechamiento, salvo si se tratare de derecho personal. Pero el efecto de la enajenación o de la hipoteca con relación a los condueños, estará limitado a la porción que se le adjudique en la división al cesar la comunidad. Los condueños gozan del derecho del tanto.
 
+> <small>(REFORMADO, B.O. 22 DE JUNIO DE 1957)</small>
+
 ###### Art. 1121.
 
-Cuando los diferentes pisos de una casa pertenecieren a distintos propietarios si los títulos de propiedad no arreglan los términos en que deben contribuir a las obras necesarias, se observarán las reglas siguientes:
+Cuando los diferentes pisos, departamentos, viviendas o locales de un edificio, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquél o a la vía pública, pertenecieren a distintos propietarios, cada uno de éstos tendrá un derecho singular y exclusivo de propiedad sobre su piso, departamento, vivienda o local y además un derecho de copropiedad sobre los elementos y partes comunes del edificio, necesarios para su adecuado uso o disfrute, tales como el suelo, cimientos, sótanos, muros de carga, fosos, patios, pozos, escaleras, elevadores, pasos, corredores, cubiertas, canalizaciones desagües, servidumbres, etc.
 
-I.- Las paredes maestras, el tejado o azotea, y las demás cosas de uso común, estarán a cargo de todos los propietarios en proporción al valor de su piso;
+El derecho de copropiedad sobre los elementos comunes del edificio sólo será enajenable, gravable o embargable por terceros, conjuntamente con el piso, departamento, vivienda o local de propiedad exclusiva respecto del cual se considera anexo inseparable. La copropiedad sobre los elementos comunes del edificio no es susceptible de división.
 
-II.- Cada propietario costeará el suelo de su piso;
-
-III.- El pavimento del portal, puerta de entrada, patio común y obras de policía, comunes a todos, se costeará a prorrata por todos los propietarios;
-
-IV.- La escalera que conduce al piso primero se costeará a prorrata entre todos excepto el dueño del piso bajo; la que desde el primer piso conduce al segundo, se costeará por todos, excepto por los dueños del piso bajo y del primero, y así sucesivamente.
+Los derechos y obligaciones de los propietarios a que se refiere este precepto, se regirán por las escrituras en que se hubiera establecido el régimen de propiedad, por las de compra venta correspondientes, por el Reglamento de Condominio y Administración y, en su caso, por la Ley Reglamentaria de este artículo.
 
 ###### Art. 1122.
 
@@ -6909,7 +6907,7 @@ Prescripción es un medio de adquirir bienes o derechos, o de perder estos últi
 
 ###### Art. 1307.
 
-Se llama prescripción positiva la forma de adquirir bienes o derechos mediante la posesión en concepto de dueño o de titular de un derecho real, ejercida en forma pacífica, continua, pública y cierta, por el tiempo que fije la ley. Tratándose de derechos reales de garantía, no se podrán adquirir por prescripción.
+Se llama prescripción positiva la forma de adquirir bienes o derechos mediante la posesión en concepto de dueño o de titular de un derecho real, ejercida en forma pacifica, continua, pública y cierta, por el tiempo que fije la ley. Tratándose de derechos reales de garantía, no se podrán adquirir por prescripción.
 
 Se llama prescripción negativa la forma de liberarse de obligaciones, por no exigirse su cumplimiento, o de perder derechos reales por no ejercitarse, dentro del término que la ley fije en cada caso o por disposiciones generales.
 
@@ -6991,17 +6989,17 @@ V.- Cierta.
 
 Los bienes inmuebles y los derechos reales sobre inmuebles, susceptibles de prescripción positiva, se adquieren con los requisitos mencionados;
 
-I.- En cinco años, cuando se poseen en concepto de dueño o de titular del derecho real, con buena fe, y de manera pacífica, continua, cierta y pública;
+I.- En cinco años, cuando se poseen en concepto de dueño o de titular del derecho real, con buena fe, y de manera pacifica, continua, cierta y pública;
 
 II.- En cinco años, cuando los inmuebles o derechos reales hayan sido objeto de una inscripción de posesión;
 
-III.- En diez años, cuando se posean de mala fe, si la posesión es en concepto de propietario o de titular del derecho y se ejerce en forma pacífica, continua, pública y de manera cierta;
+III.- En diez años, cuando se posean de mala fe, si la posesión es en concepto de propietario o de titular del derecho y se ejerce en forma pacifica, continua, pública y de manera cierta;
 
 IV.- Se aumentará en una tercera parte el tiempo señalado en las fracciones I y III, si se demuestra, por quien tenga interés jurídico en ello, que el poseedor de finca rústica no la ha cultivado durante más de tres años, o que por no haber hecho el poseedor de finca urbana las reparaciones necesarias, ésta ha permanecido deshabitada la mayor parte del tiempo que ha estado en su poder.
 
 ###### Art. 1324.
 
-Los bienes muebles y los derechos reales susceptibles de prescripción positiva, se adquieren en tres años cuando son poseídos en concepto de dueño o de titular del derecho, con buena fe, y de manera pacífica, continua, pública y cierta. Faltando la buena fe se prescribirán en cinco años.
+Los bienes muebles y los derechos reales susceptibles de prescripción positiva, se adquieren en tres años cuando son poseídos en concepto de dueño o de titular del derecho, con buena fe, y de manera pacifica, continua, pública y cierta. Faltando la buena fe se prescribirán en cinco años.
 
 ###### Art. 1325.
 
@@ -9295,7 +9293,7 @@ II.- El aseguramiento de los bienes de la herencia;
 
 III.- La formación de inventarios;
 
-IV.- La administración de los bienes y la rendición de las cuentas del albaceazgo;
+IV.- La administración de los bienes y la rendición de las cuentas del albacezgo;
 
 V.- El pago de las deudas mortuorias, hereditarias y testamentarias;
 
@@ -9487,7 +9485,7 @@ El testador puede señalar al albacea la retribución que quiera, sin perjuicio 
 
 ###### Art. 1827.
 
-Si el testador no designare la retribución, el albacea cobrará el dos por ciento sobre el importe líquido y efectivo de la herencia, y el cinco por ciento sobre los frutos industriales de los bienes hereditarios.
+Si el testador no designare la retribución, el albacea cobrará el dos por ciento sobre el importe liquido y efectivo de la herencia, y el cinco por ciento sobre los frutos industriales de los bienes hereditarios.
 
 ###### Art. 1828.
 
@@ -18204,3 +18202,9 @@ LIC. HORACIO SOBARZO
 El Secretario Gral. de Gobierno,
 
 GERARDO LOUSTAUNAU.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+B.O. 22 DE JUNIO DE 1957.
+
+UNICO.- La presente Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
