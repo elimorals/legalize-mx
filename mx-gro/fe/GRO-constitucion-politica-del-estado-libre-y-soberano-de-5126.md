@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1987-06-16"
+last_updated: "1987-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1987.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -557,23 +557,23 @@ Los diputados suplentes podrán ser electos para el período inmediato con el ca
 
 ### CAPITULO III. DE LA CALIFICACION DE LAS ELECCIONES DE DIPUTADOS DE MAYORIA Y ASIGNACION DE LOS DE REPRESENTACION PROPORCIONAL
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1987)</small>
 
 ###### ARTICULO 38.
 
-Constituidos en Colegio Electoral, los Presuntos Diputados que hubieren obtenido constancias de Mayoría otorgadas por el Comité Distrital Electoral correspondiente, debidamente registradas por la Comisión Electoral, o de ésta las Constancias de Asignación en el caso de Diputados de Representación Proporcional se reunirán en la Capital del Estado, en el mes de febrero del año siguiente al de la Elección, para calificar las Elecciones a Diputados de Mayoría y la Asignación de los Diputados de Representación Proporcional, conforme al procedimiento que al efecto se establezca en la Ley Electoral del Estado y la Ley Orgánica del Poder Legislativo y su Reglamento.
+Constituidos en Colegio Electoral, los presuntos Diputados que hubieran obtenido constancias de mayoría otorgadas por el Comité Distrital Electoral correspondiente, debidamente registradas por la Comisión Electoral, o de ésta, las Constancias de asignación en el caso de Diputados por Minoría se reunirán en la Capital del Estado, el 15 de marzo del año de la elección, para calificar las elecciones de Diputados de Mayoría y la asignación de los de Minoría, conforme al procedimiento que al efecto se establezca en la Ley Electoral del Estado y la Ley Orgánica del Poder Legislativo y su Reglamento.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ### CAPITULO IV. DE LA INSTALACION Y FUNCIONAMIENTO DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1987)</small>
 
 ###### ARTICULO 39.
 
-El día primero de marzo del año de renovación del Poder Legislativo se instalará el Congreso iniciándose el acto con la protesta de Ley que otorgarán los Diputados. Igual requisito se exigirá a los que no hayan asistido a la instalación cuando se presenten a desempeñar su cargo.
+El día veinticuatro de marzo del año de renovación del Poder Legislativo se instalará el Congreso iniciándose el acto con la protesta de Ley que otorgarán los Diputados. Igual requisito se exigirá a los que no hayan asistido a la instalación cuando se presenten a desempeñar su cargo.
 
-El mismo primero de marzo, después de instalada la Legislatura iniciará su primer período ordinario de sesiones en los términos del artículo 41 de la presente Constitución.
+El mismo veinticuatro de marzo, después de instalada la Legislatura iniciará su primer Período Ordinario de Sesiones en los términos del artículo 41 de la presente Constitución.
 
 (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
@@ -581,13 +581,13 @@ El mismo primero de marzo, después de instalada la Legislatura iniciará su pri
 
 Para que el Congreso pueda instalarse y ejercer sus funciones se necesita por lo menos la asistencia de las dos terceras partes del número total de sus miembros, pero los presentes, deberán reunirse el día señalado en el artículo anterior y compeler a los ausentes para que concurran de inmediato, apercibiéndolos que de no hacerlo se llamará al suplente respectivo, salvo los casos de impedimento justificado. Si el suplente correspondiente tampoco se presentara a la brevedad requerida se declarará vacante el puesto y se convocará a nuevas elecciones.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1987)</small>
 
 ###### ARTICULO 41.
 
-Habrá en cada año dos períodos de sesiones ordinarias: El primero comenzará el día primero de marzo y terminará el treinta y uno de mayo; y el segundo, el día primero de octubre y terminará el día treinta y uno de diciembre. Ambos períodos podrán prorrogarse por el tiempo que acuerde el Congreso y lo requiera la importancia de los asuntos pendientes. En caso de que por alguna circunstancia no pudieren abrirse o cerrarse las sesiones en los días señalados, estos actos se verificarán en la forma que lo acuerden los diputados.
+Habrá en cada año dos períodos de Sesiones Ordinarias: el primero comenzará el día veinticuatro de marzo y terminará el treinta de junio, y el segundo el día primero de octubre y terminará el día treinta y uno de diciembre. Ambos períodos podrán prorrogarse por el tiempo que acuerde el Congreso y lo requiera la importancia de los asuntos pendientes. En caso de que por alguna circunstancia no pudieren abrirse o cerrarse las sesiones en los días señalados, estos actos se verificarán en la forma que lo acuerden los Diputados. Cuando se trate de la calificación de las elecciones de Ayuntamiento, el Segundo Período se prorrogará hasta el día veintiocho de febrero.
 
-La Ley Orgánica del Poder Legislativo señalará las formalidades con que deberá celebrarse la apertura y clausura de las sesiones.
+El año de elecciones Municipales, el Congreso celebrará, para calificar las mismas, un Período que se iniciará el 1o. de marzo y concluirá el 12 de dicho mes, la Ley Orgánica del Poder señalará las formalidades con que deberá celebrarse la apertura y clausura de las sesiones.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -675,7 +675,9 @@ XVII.- Excitar a los Poderes de la Unión a que protejan al Estado en los casos 
 
 XVIII.- Examinar, discutir y aprobar en su caso anualmente a iniciativa del Jefe del Ejecutivo, el Presupuesto de Egresos del Estado y expedir la Ley relativa. No podrá dejar de señalar el Congreso la retribución que corresponda a un empleo que esté establecido por la Ley y en caso de que por cualquier circunstancia se omita fijar dicha remuneración se tendrá por señalada la que hubiese sido fijada en el presupuesto del año anterior o al de la Ley que estableció el empleo.
 
-XIX.- Revisar en el primer período ordinario de sesiones, las erogaciones e inversiones de los ingresos públicos Estatales del año fiscal anterior, otorgando constancia definitiva de aprobación en su caso o exigiendo las responsabilidades correspondientes.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1987)</small>
+
+XIX.- Revisar en período ordinario de Sesiones, las erogaciones e inversiones de los ingresos públicos Estatales del año fiscal anterior, otorgando constancia definitiva de aprobación en su caso o exigiendo las responsabilidades correspondientes.
 
 XX.- Convocar a elecciones extraordinarias para Diputados cuando no se hubieren realizado en el período respectivo o hubiesen sido declaradas nulas las efectuadas, y proveer lo conducente.
 
@@ -947,7 +949,7 @@ II.- El Gobernador Interino, el Provisional o el Ciudadano que bajo cualquier de
 
 En las faltas temporales del Gobernador que no excedan de treinta días, se encargará del despacho el funcionario que el Jefe del Ejecutivo designe.
 
-(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+(REFORMADO, P.O. 31 DE ENERO DE 1984) (F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ARTCULO (SIC) 69.- Si al comenzar un período constitucional no se presentare el Gobernador electo, o la elección no estuviese hecha y declarada el primero de abril, cesará sin embargo, el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo en calidad de Gobernador Interino, el que designe el Congreso del Estado, o en su falta con el carácter de Provisional, el que designe la Comisión Permanente.
 
@@ -1223,7 +1225,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 89.
 
@@ -1309,9 +1313,7 @@ VII.- Planear y regular de manera conjunta y coordinada con la Federación, el E
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
+### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ###### ARTICULO 94.
 
@@ -1326,6 +1328,10 @@ Entre el Gobierno del Estado y los Municipios, no habrá ninguna autoridad inter
 Los Ayuntamientos son cuerpos colegiados deliberantes y autónomos que entrarán a realizar sus atribuciones para un período de tres años.
 
 Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos cualquiera que sea la denominación que se les dé no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 1987)</small>
+
+Los Ayuntamientos se instalarán el 8 de abril del año en que deban renovarse.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1377,7 +1383,7 @@ No pueden ser electos como integrantes de los Ayuntamientos, los miembros en ser
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
+### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1457,7 +1463,7 @@ Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosar
 
 Todo Funcionario Público o empleado que tenga que manejar fondos, ya sea del Estado o del Municipio, deberá otorgar caución en términos de Ley.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 108.
 
@@ -1675,7 +1681,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1695,31 +1701,31 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
-
-## TITULO DECIMO. DEL MUNICIPIO LIBRE
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
 ## TITULO DECIMO PRIMERO. DE LA HACIENDA PUBLICA DEL ESTADO Y SU ADMINISTRACION
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
+
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+
+## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
+
+## TITULO DECIMO. DEL MUNICIPIO LIBRE
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2268,3 +2274,17 @@ P.O. 16 DE JUNIO DE 1987.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE JUNIO DE 1987.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Ayuntamientos que hayan de instalarse el 1o. de enero de 1990 durarán en su encargo hasta el 7 de abril de 1993.
+
+###### ARTICULO TERCERO.
+
+La LIII Legislatura, que habrá de instalarse el 1o. de marzo de 1990, desempeñará sus funciones constitucionales hasta el 23 de marzo de 1993.
