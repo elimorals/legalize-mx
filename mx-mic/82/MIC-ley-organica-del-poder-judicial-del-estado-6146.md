@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-6146"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-08-02"
-last_updated: "1989-11-30"
+last_updated: "1991-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 1991.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 2 de agosto de 1982.
 
@@ -679,19 +679,27 @@ En igual forma se hará la designación de la persona que deba substituir al jue
 
 ### CAPITULO UNICO. DISTRIBUCION Y COMPETENCIA DE LOS JUZGADOS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 33.
 
-En la cabecera del municipio de Morelia habrá dos juzgados municipales y en las demás cabeceras uno. Por cada juzgado se designará un juez propietario y fuera de Morelia, además, un suplente.
+En la cabecera del Municipio de Morelia habrá dos Juzgados municipales y en las demás cabeceras uno. Por cada juzgado de la capital y de las cabeceras de Apatzingán, Hidalgo, Tacámbaro, Pátzcuaro, Los Reyes, Uruapan, La Piedad, Lázaro Cárdenas, Zacapu, Zamora y Zitácuaro se designará un Juez Propietario y, en los restantes, además, un suplente.
 
-Los juzgados municipales tendrán jurisdicción civil y penal.
+Todos Juzgados Municipales tendrán jurisdicción civil y penal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 34.
 
-En materia civil, los juzgados municipales conocerán de los asuntos siguientes:
+En materia civil, los Juzgados Municipales de las cabeceras distritales de Apatzingán, Hidalgo, Tacámbaro, Pátzcuaro, Los Reyes, Morelia, Uruapan, La Piedad, Lázaro Cárdenas, Zacapu, Zamora y Zitácuaro, conocerán de los asuntos siguientes:
 
-I. De los que se susciten en la cabecera municipal donde residan y que no excedan de veinte mil pesos; de los que se susciten fuera de la cabecera municipal, pero dentro del mismo municipio, conocerán cuando excedan de un mil pesos y no de veinte mil; y
+I. De los que se susciten en la cabecera municipal en que residan y dentro del territorio que comprenda el Distrito Judicial correspondiente que no excedan del importe de ciento ochenta y dos días de salario mínimo general vigente en el lugar;
 
-II. En general, de todos aquellos para los que tengan competencia conforme al Código de Procedimientos Civiles u otras leyes.
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 1991)</small>
+
+II. Los restantes Juzgados Municipales del Distrito Judicial conocerán de los asuntos que se susciten dentro del mismo Municipio y que no excedan del importe de veinte días de salario mínimo vigente en el lugar;
+
+III. En general de todos aquellos asuntos para los que tengan competencia, conforme al Código de Procedimientos Civiles del Estado u otras leyes, salvo los de arrendamiento, caundo su cuantía exceda del importe de veinte días de salario mínimo general vigente en el lugar.
 
 Fuera de los casos expresamente permitidos por la ley, ningún juzgado municipal conocerá de asuntos de Derecho Familiar.
 
@@ -752,6 +760,10 @@ Los árbitros tendrán las funciones y conocerán de los asuntos que señala el 
 ###### ARTICULO 46.
 
 Los jurados se integrarán y funcionarán con arreglo a lo establecido en el Código Procesal Penal.
+
+ARARTICULO 47.- Los jueces de primera instancia con jurisdicción penal deberán pedir oportunamente, al Presidente Municipal de la cabecera de su respectivo distrito, las listas previas y definitivas de las personas que desempeñarán el cargo de jurados.
+
+La remuneración a los jurados no será inferior al salario mínimo que rija en el municipio donde estén domiciliados.
 
 ###### ARTICULO 47.
 
@@ -1043,7 +1055,9 @@ El Pleno del Supremo Tribunal y los jueces de primera instancia, resolverán las
 
 ###### ARTICULO 73.
 
-Cuando la excitativa de justicia sea procedente, se impondrá al responsable amonestación por escrito o multa de uno a diez días, de sueldo, y se le fijará un término para dictar resolución, el cual no excederá de diez días. Si la excitativa se denegare por carecer de fundamento, la autoridad que la resuelva aplicará al peticionario multa de cien a mil pesos.
+Cuando la excitativa de justicia sea procedente, se impondrá al responsable amonestación por escrito o multa de uno a diez días, de sueldo, y se le fijará un término para dictar resolución, el cual no excederá de diez días.
+
+Si la excitativa se denegare por carecer de fundamento, la autoridad que la resuelva aplicará al peticionario multa de cien a mil pesos.
 
 ### CAPITULO II. AUSENCIAS Y SUBSTITUCIONES
 
@@ -1685,7 +1699,7 @@ d) Los asuntos existentes en la Tercera Sala Colegiada al entrar en vigor este D
 
 e) Los asuntos que se encuentran en trámite ante la Tercera Sala Colegiada, al entrar en vigor el presente Decreto, serán enviados a las Salas Unitarias Penales conforme a las siguientes reglas:
 
-Los expedientes con número de registro terminado el "1" a la Primera; en "2" a la Segunda; en "3" a la Tercera; en "4" a la cuarta; en "5" a la Quinta; en "6" a la Sexta; en "7" a la Séptima. Los que terminen en "8" se distribuirán proporcionalmente entre las Salas Primera y Segunda; en "9" entre las Salas Quinta, Sexta y Séptima, para la continuación de su trámite y resolución;
+Los expedientes con número de registro terminado en "1" a la Primera; en "2" a la Segunda; en "3" a la Tercera; en "4" a la cuarta; en "5" a la Quinta; en "6" a la Sexta; en "7" a la Séptima. Los que terminen en "8" se distribuirán proporcionalmente entre las Salas Primera y Segunda; en "9" entre las Salas Quinta, Sexta y Séptima, para la continuación de su trámite y resolución;
 
 ###### ARTICULO CUARTO.
 
@@ -1740,5 +1754,19 @@ El Supremo Tribunal de Justicia del Estado, directamente o por conducto de las s
 Se deroga en parte el Decreto número 99, de 24 de noviembre de 1970, publicado en el Periódico Oficial del Estado, correspondiente al 14 de diciembre de 1970, únicamente por cuanto se refiere a los depósitos en efectivo que se tengan que efectuar en lo sucesivo, a favor de las autoridades judiciales del Estado.
 
 ###### ARTICULO SEXTO.
+
+Se derogan todas las disposiciones legales que se opongan a las previstas por este Decreto.
+
+P.O. 7 DE MARZO DE 1991
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todos los asuntos de las materias civil y mercantil en proceso, a la fecha de entrar en vigor este Decreto, proseguirán regidos por las disposiciones anteriores al mismo, el cual regulará únicamente los asuntos que se inicien con posterioridad a su vigencia.
+
+###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones legales que se opongan a las previstas por este Decreto.
