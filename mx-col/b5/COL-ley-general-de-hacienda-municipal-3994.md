@@ -4,7 +4,7 @@ identifier: "COL-ley-general-de-hacienda-municipal-3994"
 country: "mx"
 rank: "ley_general"
 publication_date: "1994-04-16"
-last_updated: "2001-02-17"
+last_updated: "2001-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY GENERAL DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", sábado 16 de abril de 1994.
 
@@ -2025,10 +2025,16 @@ TECOMAN 40.00% 50.00% 60.00% 70.00% 80.00% 90.00% 100.00%
 
 VILLA DE ALVAREZ40.00% 50.00% 60.00% 70.00% 80.00% 90.00% 100.00%
 
+> <small>(REFORMADO, P.O 29 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO TERCERO.
 
-Durante el ejercicio fiscal 2001, la base del impuesto sobre transmisiones patrimoniales será el 50% del valor que resulte conforme al artículo 81 de la presente ley.
+Durante el ejercicio fiscal 2002, la Base del impuesto sobre transmisiones patrimoniales será el 50% del valor que resulte conforme al artículo 81 de la presente Ley.
 
 P.O. 17 DE FEBRERO DE 2001
 
 UNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE DICIEMBRE DE 2001
+
+UNICO.- El presente Decreto entrará en vigor el día primero de enero del año dos mil dos, previa su publicación en el Periódico Oficial del Estado.
