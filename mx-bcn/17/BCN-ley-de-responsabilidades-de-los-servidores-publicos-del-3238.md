@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-3238"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-31"
-last_updated: "1997-07-25"
+last_updated: "1999-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 1999.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de enero de 1984.
 
@@ -663,6 +663,10 @@ En las declaraciones anuales se manifestarán solo las modificaciones al patrimo
 
 Tratándose de bienes muebles, la Secretaría decidirá, mediante acuerdo general, las características que deba tener la declaración.
 
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 1999)</small>
+
+Las declaraciones de situación patrimonial hechas por los servidores públicos titulares de los Poderes Legislativo, Ejecutivo, Judicial y de los Ayuntamientos se harán públicas.
+
 ###### ARTICULO 76.
 
 Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Secretaría podrá ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando estos actos requieran orden de autoridad judicial, la Secretaría hará ante ésta la solicitud correspondiente.
@@ -782,3 +786,21 @@ Se deroga la fracción VI del artículo 72 de la Ley de Responsabilidades de los
 P.O. 25 DE JULIO DE 1997.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MARZO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma de adición al Artículo 75 entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo, en un plazo no mayor de 30 días a par tir de la fecha en que entre en vigor la presente Reforma, ordenará que se establezca en el reglamento correspondiente la forma en que se hará pública y se publicará su declaración patrimonial.
+
+###### ARTICULO TERCERO.
+
+El Poder Judicial, en un plazo no mayor de 30 días a partir de la fecha en que entre en vigor la presente Refoforma, ordenará que se establezca en el reglamento correspondiente la forma en que se harán públicas y se publicitarán las declaraciones patrimoniales de los servidores públicos titulares del Poder Judicial.
+
+###### ARTICULO CUARTO.
+
+Los Ayuntamientos del Estado, en un plazo no mayor de 30 días a partir de la fecha en que entre en vigor la presente Reforma, ordenarán que se establezca en el reglamento correspondiente la forma en que se harán públicas y se publicitarán las declaraciones patrimoniales de los servidores públicos titulares del Ayuntamiento.
