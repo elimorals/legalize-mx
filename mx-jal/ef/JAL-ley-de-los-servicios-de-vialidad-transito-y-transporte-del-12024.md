@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2004-07-01"
+last_updated: "2004-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -2169,6 +2169,10 @@ VII. Carecer el vehículo de holograma que contenga el número de las placas; y
 
 VIII. Usar luces no permitidas por el reglamento.
 
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2004)</small>
+
+IX. Arrojar desde el interior del vehículo cualquier clase de objeto o basura a la vía pública, o depositar materiales y objetos que modifiquen o entorpezcan las condiciones apropiadas para circular, detener y estacionar vehículos automotores.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 162.
@@ -2844,3 +2848,11 @@ SEGUNDO.- El Titular del Poder Ejecutivo contará con un plazo de 90 días para 
 P.O. 1 DE JULIO DE 2004.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 16 DE SEPTIEMBRE DE 2004.
+
+PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Dentro de los treinta días que refiere el artículo anterior, el Poder Ejecutivo implementará una campaña de concienciación ciudadana.
+
+TERCERO. El titular del Poder Ejecutivo, en un plazo no mayor a 90 días naturales, deberá realizar las adecuaciones necesarias al Reglamento de la Ley para los Servicios de Vialidad, Tránsito y Transporte, derivadas de las disposiciones del presente decreto.
