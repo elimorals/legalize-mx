@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2001-05-16"
+last_updated: "2002-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2000.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 16 DE MAYO DE 2001 NO APLICA AL ARTICULADO DEL DECRETO 1221 PUBLICADO EN EL P.O. DEL 18 DE OCTUBRE DE 2000.]</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2002.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1957,7 +1955,7 @@ VI. En contra de cualquier oficina en que se conservan caudales o valores, o en 
 
 VII. En local abierto al público;
 
-VIII. Respecto de vehículos estacionados en la vía pública o en otro lugar destinado a su guarda o reparación;
+VIII. (DEROGADA, P.O. 6 DE MARZO DE 2002)
 
 IX. Con quebranto de la confianza o seguridad derivadas de una relación de servicio, trabajo u hospitalidad;
 
@@ -1977,21 +1975,41 @@ XIII. Cuando se realice sobre equipaje o valores de viajeros en cualquier lugar 
 
 B).- Cuando el robo sea cometido por dos o más sujetos, sin importar el monto de lo robado, a través de la violencia, la acechanza o cualquier otra circunstancia que impida la defensa de la víctima y el valor de lo sustraído se encuentre en los términos de la fracción IV del artículo 174, la sanción aplicable será de cinco a quince años de prisión y de cincuenta a mil días multa. También podrá aplicarse la prohibición de ir a lugar determinado o vigilancia de la autoridad, hasta por un término igual al de la sanción privativa de libertad impuesta.
 
-C).- Se sancionará con cinco a quince años de prisión y de cien hasta mil días multa, con independencia de las sanciones que correspondan por otros delitos cometidos, a quien:
+C).- (DEROGADO, P.O. 6 DE MARZO DE 2002)
 
-I. Desmantele uno o más vehículos robados o comercialice conjunta o separadamente sus partes;
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2002)</small>
 
-II. Enajene o trafique de cualquier manera con vehículo o vehículos robados;
+###### ARTICULO 176 Bis.
 
-III. Detente, posea, custodie, altere o modifique de cualquier manera la documentación que acredite la propiedad o identificación de un vehículo robado;
+Se impondrá de cinco a veinte años de prisión y de cien hasta mil días de multa, a quien se robe un vehículo automotor.
 
-IV. Traslade el o los vehículos robados a otra entidad federativa o al extranjero, y
+Asimismo se sancionará con las citadas penalidades, a quien o quienes, sean responsables o no del robo de vehículos automotores, y que realice o realicen cualquiera de las siguientes conductas:
 
-V. Utilice el o los vehículos robados en la comisión de otro u otros delitos.
+I. Desmantele uno o más vehículos automotores que posea ilegalmente o comercialice conjunta o separadamente sus partes o las utilice en otros vehículos sin que acredite la legítima procedencia de estas, o las adquiera, detente, posea, custodie, enajene o trasmita de cualquier manera a sabiendas de su origen ilícito;
 
-A quien aporte recursos económicos o de cualquier índole para la ejecución de las actividades descritas en las fracciones anteriores, se le considerará responsable en los términos que correspondan, conforme al artículo 18 de este Código.
+II. Enajene, trafique, permute o realice cualquier transacción del traslado de dominio de uno o más vehículos automotores a sabiendas de su procedencia ilícita;
 
-Si en los actos mencionados en las cinco fracciones anteriores, a propósito de robo de vehículos, participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de penas, a las sanciones que correspondan se aumentarán hasta una mitad más de la pena de prisión correspondiente y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un período igual al de la sanción privativa de libertad impuesta.
+III. Altere, modifique, elabore o reproduzca, de cualquier manera, la documentación que acredite la propiedad o los datos de identificación o la documentación que acredite el pago de la tenencia, de uno o más vehículos automotores, sin la autorización de la autoridad competente para hacerlo;
+
+IV. Detente, posea o custodie instrumentos para la alteración, modificación, elaboración o reproducción, de documentación que acredite la propiedad o los datos de identificación o la documentación que acredite el pago de la tenencia, de un vehículo automotor o bien elabore o posea, documentación y elementos de identificación, falsos, de uno o más vehículos automotores, con propósito de su comercio ilícito;
+
+V. Detente, posea, custodie o adquiera uno o más vehículos automotores con conocimiento de que son de procedencia ilícita o a sabiendas de que su forma de adquisición advierte su origen ilegal;
+
+VI. Detente o posea en más de una ocasión algún vehículo que haya sido robado, salvo adquisición de buena fé que se presume al haberse realizado el registro y haberse obtenido la certificación correspondiente del Registro Estatal de Vehículos y Automotores del Estado de Morelos;
+
+VII. Traslade uno o más vehículos automotores a otro Estado de la República o al extranjero con conocimiento de que son robados;
+
+VIII. Utilice uno o más vehículos automotores robados en la comisión de otro u otros delitos;
+
+IX. Se robe un vehículo automotor en la vía pública o en otro lugar destinado a su guarda o reparación;
+
+X. Organice y determine a otro u otros a la participación y ejecución de cualquiera de las conductas antes referidas; y
+
+XI. Si en el robo de algún vehículo automotor se ejerce violencia física o moral, se impondrá una mitad más de la pena que corresponda.
+
+A quien proporcione medios de cualquier especie o aporte recursos económicos o de cualquier índole para la ejecución de las actividades descritas en las fracciones anteriores, se le considerará responsable en los términos que correspondan, conforme al artículo 18 de este Código.
+
+Si en los actos mencionados en las fracciones anteriores del presente artículo, participa algún servidor público, brinda protección o proporciona información o de cualquier manera encubre a los responsables de dichos delitos, a las sanciones que le correspondan, se le aumentara hasta una mitad más en la pena de prisión correspondiente y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos, por un período al doble de la sanción privativa de libertad que se le imponga, y si se trata de algún servidor público que tenga en su cargo funciones de prevención, persecución o sanción del delito o de ejecución de penas, a la sanción que corresponda se aumentará hasta el cien por ciento más de la pena de prisión correspondiente y se le inhabilitará para desempeñar cualquier empleo, comisión o cargo público.
 
 ###### ARTICULO 177.
 
@@ -3608,3 +3626,13 @@ PRIMERO.- Túrnese al titular del Poder Ejecutivo del Estado, para efectos de su
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 6 DE MARZO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos constitucionales correspondientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de informativo del Gobierno del Estado de Morelos.
