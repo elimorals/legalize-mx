@@ -4,7 +4,7 @@ identifier: "VER-ley-de-adquisiciones-arrendamientos-administracion-y-29503"
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-21"
-last_updated: "2003-03-18"
+last_updated: "2003-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACION Y ENAJENACION DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE NOVIEMBRE DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 21 de febrero de 2003.
 
@@ -149,7 +149,13 @@ VI. Asistir, mediante representante, cuando así se considere necesario, a las j
 
 VII. Establecer las reglas para la determinación y acreditación del grado de contenido nacional, cuando se trate de adquisiciones nacionales con componentes extranjeros; y
 
-VIII. Las demás que les confieran ésta y otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE NOVIEMBRE DE 2003)</small>
+
+VIII. Reducir los plazos contemplados en el artículo 35, sin que ello implique limitar la participación de los proveedores en el procedimiento de contratación; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 25 DE NOVIEMBRE DE 2003)</small>
+
+IX. Las demás que les confieran éste y otros ordenamientos.
 
 ###### Artículo 7°.
 
@@ -223,9 +229,11 @@ VII. Las demás previsiones que deban tomarse en cuenta, según la naturaleza y 
 
 A fin de obtener las mejores condiciones en cuanto a precio, calidad y oportunidad y de apoyar en condiciones de competencia a las áreas prioritarias del desarrollo en el Estado, los programas anuales referidos en el artículo anterior, servirán de base al área encargada de la función financiera y administrativa en cada institución para planear, programar y licitar públicamente las compras y la contratación de servicios en forma consolidada.
 
+(REFORMADO PRIMER PARRAFO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+
 ###### Artículo 17.
 
-Cada institución, a más tardar en la primera quincena de marzo de cada año, publicará la relación de requerimientos de bienes muebles y servicios de sus distintas áreas, con la estimación de cantidades o volúmenes y los períodos aproximados de compra o contratación.
+Cada institución, a más tardar en la primera quincena de marzo de cada año, publicará la relación de requerimientos, derivados del programa anual de adquisiciones consolidado, de bienes muebles y servicios de sus distintas áreas, con la estimación de cantidades o volúmenes y los periodos aproximados de compra o contratación.
 
 La publicación a que se refiere el párrafo anterior, no implicará obligación alguna de contratación y podrá ser adicionada, modificada, suspendida o cancelada, sin responsabilidad alguna para la institución.
 
@@ -249,31 +257,49 @@ Ninguna convocatoria será publicada, si antes no se verifica la suficiencia de 
 
 ### CAPÍTULO ÚNICO. Padrón de Proveedores
 
+(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+
 ###### Artículo 22.
 
-Para que una persona física o moral sea registrada en el padrón de proveedores deberá satisfacer los requisitos siguientes:
+Para que una persona física o moral sea registrada en el padrón de proveedores deberá cumplir y entregar los documentos siguientes:
 
 I. Para las personas físicas:
 
-a). Copia certificada de acta de nacimiento;
+(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
 
-b). Copia certificada por fedatario público, de identificación oficial;
+a) Copia fotostática cotejada de acta de nacimiento;
 
-c). Copia certificada por fedatario público, de la cédula de identificación fiscal como contribuyente ante la Secretaria de Hacienda y Crédito Público;
+(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
 
-d). Copias certificadas por fedatario público, de las últimas declaraciones de obligaciones fiscales ante la Federación, el Estado o Municipio; y
+b) Copia fotostática cotejada de identificación oficial;
+
+(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+
+c) Copia fotostática cotejada de la cédula de identificación fiscal como contribuyente ante la Secretaría de Hacienda y Crédito Público;
+
+(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+
+d) Copias fotostáticas cotejadas de las últimas declaraciones de obligaciones fiscales ante la Federación, el Estado o el Municipio; y
 
 e). La demás información que la unidad administrativa determine mediante disposiciones generales, publicadas en la Gaceta Oficial del estado.
 
 II. Para las personas morales:
 
-a). Copia certificada, expedida por fedatario público, del acta constitutiva de la sociedad debidamente inscrita en el Registro Público de la Propiedad;
+(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
 
-b). Copia certificada por fedatario público, de la cédula de identificación fiscal como contribuyente ante la Secretaria de Hacienda y Crédito Público;
+a) Copia fotostática cotejada del acta constitutiva de la sociedad debidamente inscrita en el Registro Público de la Propiedad;
 
-c). El poder general o especial a favor del representante, otorgado ante la fe de notario público, debidamente inscrito en el Registro Público de la Propiedad, para intervenir en los procedimientos a que esta Ley se refiere en nombre y representación del poderdante;
+(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
 
-d). Copias certificadas por fedatario público, de las últimas declaraciones de obligaciones fiscales ante la Federación, el Estado o Municipio; y
+b) Copia fotostática cotejada de la cédula de identificación fiscal como contribuyente ante la Secretaría de Hacienda y Crédito Público;
+
+(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+
+c) Copia fotostática cotejada del poder general o especial a favor del representante, otorgado ante la fe de notario público, debidamente inscrito en el Registro Público de la Propiedad para intervenir en los procedimientos a que esta Ley se refiere en nombre y representación del poderdante;
+
+(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+
+d) Copias fotostáticas cotejadas de las últimas declaraciones de obligaciones fiscales ante la Federación, el Estado o el Municipio; y
 
 e). La demás información que la unidad administrativa determine mediante disposiciones generales, publicadas en la Gaceta Oficial del estado.
 
@@ -289,7 +315,7 @@ La institución, de manera fundada, motivada, respetando la garantía de audienc
 
 ###### Artículo 25.
 
-Los proveedores podrán solicitar, mediante escrito debidamente fundado, razonado y probado, la cancelación del registro de otro u otros proveedores.
+(DEROGADO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
 
 ## TÍTULO CUARTO. Procedimientos de Contratación
 
@@ -311,9 +337,13 @@ Las dependencias y entidades del Poder Ejecutivo del Estado se sujetarán, en lo
 
 Para las demás instituciones señaladas en el artículo 1º de esta Ley los montos y modalidades serán los siguientes:
 
-I. La que rebase el monto de once mil setecientos cincuenta días de salario mínimo general vigente en la zona económica de la localidad, se hará en licitación pública nacional;
+(REFORMADA, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
 
-II. La que se encuentre entre setecientos ochenta y cinco días y once mil setecientos cuarenta y nueve días de salario mínimo general vigente en la zona económica de la localidad, se hará en licitación simplificada; y
+I. La que rebase el monto de dieciséis mil ciento treinta días de salario mínimo general vigente en la zona económica de la localidad se hará en licitación pública nacional;
+
+(REFORMADA, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+
+II. La que se encuentre entre setecientos ochenta y cinco días y dieciséis mil ciento treinta días de salario mínimo general vigente en la zona económica de la localidad se hará en licitación simplificada; y
 
 III. La inferior a setecientos ochenta y cinco días de salario mínimo general vigente en la zona económica de la localidad, se hará en Adjudicación Directa.
 
@@ -479,9 +509,11 @@ Las proposiciones se presentarán por escrito en papel membretado del licitante,
 
 La proposición técnica contendrá los documentos solicitados en las bases, así como copia de la identificación oficial del representante legal de la persona moral o persona física participante, y carta en que declare conocer las disposiciones de esta Ley.
 
+(REFORMADO PRIMER PARRAFO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+
 ###### Artículo 43.
 
-La presentación y apertura de las proposiciones, se efectuará de la forma siguiente:
+La presentación y apertura de las proposiciones se efectuará en un solo evento de la forma siguiente:
 
 I. Apertura de los sobres que contengan las proposiciones técnicas, desechándose aquellas que hubieren omitido algún requisito o documento a que se refieran las bases;
 
@@ -503,9 +535,11 @@ VII. Terminado el procedimiento anterior, se turnará el expediente al área que
 
 La institución notificará el fallo a los licitantes, por escrito y con acuse de recibo, a través de correo certificado o cualquier medio electrónico, en los términos del Código de Procedimientos Administrativos.
 
+(REFORMADO PRIMER PARRAFO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+
 ###### Artículo 45.
 
-Las instituciones no podrán recibir proposiciones o celebrar contrato alguno, con las personas físicas o morales que se mencionan:
+Las instituciones no podrán recibir proposiciones o celebrar contratación alguna, con las personas físicas o morales que se mencionan:
 
 I. Aquellas con las que cualquier servidor público en cargos de dirección, mandos medios o superiores de la propia institución, tenga relación familiar o de negocios, incluyendo aquellas de cuya contratación pueda resultar algún beneficio económico para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles hasta el segundo, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o bien para socios, sociedades o asociaciones de las que el servidor público o las personas antes enunciadas, formen o hayan formado parte, cuando menos dos años antes de que aquél haya ocupado el cargo;
 
@@ -571,7 +605,9 @@ Cuando dos o más proposiciones en igualdad de circunstancias cumplan con los re
 
 El fallo de la licitación contendrá los datos y criterios de evaluación que determinen cuál fue la mejor proposición recibida, adjudicándose los contratos a favor de ésta, señalándose, en su caso, la segunda y tercera mejores opciones.
 
-El fallo definitivo de la licitación se notificará a los participantes, y una vez que aquél quede firme, se devolverán las garantías otorgadas a quienes no obtuvieron resolución favorable.
+(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+
+El fallo de la licitación se notificará a los participantes por escrito.
 
 ###### Artículo 52.
 
@@ -623,6 +659,8 @@ XIV. Las instituciones se adhieran a un proceso de licitación celebrado por otr
 
 ### CAPÍTULO VII. Formalización del Contrato
 
+> <small>(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003)</small>
+
 ###### Artículo 56.
 
 Para proceder a una licitación simplificada, la institución invitará cuando menos a tres de sus proveedores registrados, a quienes les hará llegar la información a que se refiere el artículo siguiente.
@@ -633,11 +671,11 @@ La invitación que por escrito haga llegar la institución a los proveedores con
 
 El fallo de la licitación, si no es posible emitirlo en el acto de recepción y apertura de proposiciones, deberá notificarse por escrito en un plazo máximo de tres días hábiles.
 
+(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+
 ###### Artículo 58.
 
-La licitación simplificada se realizará en una sola etapa, de conformidad con el procedimiento señalado en el artículo 43 de esta Ley, sin la presencia de los participantes, pero invariablemente se contará con la participación del órgano de control interno.
-
-Sólo se admitirá una proposición por participante. En caso de que se presentara sólo una de ellas, la unidad procederá a realizar una investigación de mercado para determinar la conveniencia de adjudicar el contrato al licitante único. Si se declara desierta la licitación simplificada, la institución podrá adjudicarlo directamente.
+La licitación simplificada se realizará en una sola etapa, de conformidad con el procedimiento señalado en el artículo 43 de esta Ley con o sin la presencia de los participantes, pero invariablemente se contará con la participación del órgano de control interno. Sólo se admitirá una proposición por participante. En caso de que se presentara sólo una de ellas, la unidad procederá a realizar una investigación de mercado para determinar la conveniencia de adjudicar el contrato al licitante único. Si se declara desierta la licitación simplificada, la institución podrá adjudicarlo directamente.
 
 ###### Artículo 59.
 
@@ -647,7 +685,7 @@ Las adjudicaciones directas sólo se realizarán con los proveedores previamente
 
 ###### Artículo 60.
 
-Las adjudicaciones directas, así como las derivadas de procedimientos de licitación, cuyo valor no exceda de doscientos cincuenta salarios mínimos vigentes en el lugar de su celebración, se formalizarán mediante pedido; las que excedan de este valor, mediante contrato.
+Las adjudicaciones directas por monto previstas en el presupuesto de egresos y en esta Ley se formalizarán mediante pedido; las adjudicaciones que rebasen los montos para la adjudicación directa, derivadas de los supuestos del artículo 55 de la presente Ley y de los procedimientos de licitación, se harán mediante contrato.
 
 ###### Artículo 61.
 
@@ -704,6 +742,12 @@ Las garantías se constituirán a favor de las instituciones.
 ###### Artículo 65.
 
 Las instituciones podrán pactar con sus proveedores la ampliación mediante adendum de los contratos formalizados, sean éstos de bienes o servicios, siempre y cuando ésta no represente más del veinte por ciento del monto total de la partida que se amplíe y que el proveedor sostenga en la ampliación el precio pactado originalmente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE NOVIEMBRE DE 2003)</small>
+
+Igual porcentaje se aplicará a las prórrogas que se hagan respecto de la vigencia de los contratos.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], G.O. 25 DE NOVIEMBRE DE 2003)</small>
 
 Las ampliaciones se harán dentro de los seis meses posteriores a la firma del contrato.
 
@@ -855,6 +899,8 @@ La resolución del recurso de revocación podrá ser impugnada ante el Tribunal 
 
 ### CAPÍTULO ÚNICO. Procedimiento de Enajenación y Baja de Bienes Muebles
 
+> <small>(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003)</small>
+
 ###### Artículo 85.
 
 Los bienes muebles que se adquieran y que por su naturaleza y costo deban constituir activo fijo de la institución, serán objeto de registro en inventario y contabilidad.
@@ -927,7 +973,7 @@ Cuando los bienes estén asegurados, pagarán los gastos directos e indirectos d
 
 ###### Artículo 94.
 
-Las instituciones dispondrán de sus bienes muebles inventariados; cuando proceda su enajenación se contará previamente con la autorización del Congreso del Estado.
+Las instituciones dispondrán de sus bienes muebles inventariados; cuando proceda su enajenación se contará previamente con la autorización del Congreso del Estado o de la Diputación Permanente.
 
 ###### Artículo 95.
 
@@ -1062,3 +1108,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 25 DE NOVIEMBRE DE 2003.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
