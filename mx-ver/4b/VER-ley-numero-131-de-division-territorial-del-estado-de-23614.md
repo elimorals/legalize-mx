@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-131-de-division-territorial-del-estado-de-23614"
 country: "mx"
 rank: "ley"
 publication_date: "1988-07-14"
-last_updated: "2002-05-21"
+last_updated: "2003-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 131 DE DIVISION TERRITORIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE PARA LA ELECCION DEL PODER LEGISLATIVO DEL MISMO
 
-LEY DE DIVISION TERRITORIAL DEL ESTADO DE VERACRUZ-LLAVE, PARA LA ELECCION DEL PODER LEGISLATIVO DEL MISMO
+LEY DE DIVISION TERRITORIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA LA ELECCION DEL PODER LEGISLATIVO DEL MISMO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 14 de julio de 1988.
 
@@ -37,9 +37,11 @@ Al margen un sello con el Escudo Nacional que dice: "Estados Unidos Mexicanos.- 
 
 LA HONORABLE QUINQUAGESIMA CUARTA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, EN USO DE LA FACULTAD QUE LE CONCEDE LA FRACCION I, DEL ARTICULO 68 DE LA CONSTITUCION POLITICA LOCAL, Y EN NOMBRE DEL PUEBLO EXPIDE LA SIGUIENTE
 
+> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
 LEY Número 131
 
-DE DIVISION TERRITORIAL DEL ESTADO DE VERACRUZ-LLAVE, PARA LA ELECCION DEL PODER LEGISLATIVO DEL MISMO
+DE DIVISION TERRITORIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA LA ELECCION DEL PODER LEGISLATIVO DEL MISMO
 
 ###### ARTICULO 1°.
 
@@ -49,69 +51,129 @@ Esta Ley tiene por objeto, determinar el número y ámbito espacial de la demarc
 
 Para los efectos de esta Ley, se entiende por Distrito Electoral Uninominal, la demarcación territorial en que se divide el Estado de Veracruz, para la recepción del sufragio, en las elecciones de diputados por el principio de mayoría relativa, con base en la cual se elaborarán las listas nominales de electores y por Circunscripción Plurinominal, se entiende el territorio de toda la Entidad, para la elección por el principio de representación proporcional.
 
-> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 3°.
 
-El estado de Veracruz-Llave se divide en treinta distritos electorales uninominales, con las jurisdicciones y cabeceras siguientes:
+El Estado de Veracruz de Ignacio de la Llave se divide en treinta distritos electorales uninominales, con las jurisdicciones y cabeceras siguientes:
+
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
 Distrito I. Cabecera: Pánuco. Municipios: El Higo, Ozuluama, Pueblo Viejo, Tampico Alto, Tempoal y Pánuco.
 
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+
 Distrito II. Cabecera: Tantoyuca. Municipios: Citlaltépetl, Chalma, Chiconamel, Chinampa de Gorostiza, Chontla, Ixcatepec, Platón Sánchez, Tamalín, Tantima y Tantoyuca.
+
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
 Distrito III. Cabecera: Chicontepec. Municipios: Benito Juárez, Huayacocotla, Ilamatlán, Ixhuatlán de Madero, Texcatepec, Tlachichilco, Zacualpan, Zontecomatlán y Chicontepec.
 
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+
 Distrito IV. Cabecera: Ciudad de Álamo, perteneciente al municipio de Temapache. Municipios: Castillo de Teayo, Tepetzintla, Tihuatlán y Temapache.
+
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
 Distrito V. Cabecera: Tuxpan. Municipios: Cazones de Herrera, Cerro Azul, Naranjos-Amatlán, Tamiahua, Tancoco y Tuxpan.
 
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+
 Distrito VI. Cabecera: Poza Rica de Hidalgo. Municipios: Coatzintla y Poza Rica de Hidalgo.
+
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
 Distrito VII. Cabecera: Papantla. Municipios: Coahuitlán, Coxquihui, Coyutla, Chumatlán, Espinal, Filomeno Mata, Mecatlán, Zozocolco de Hidalgo y Papantla.
 
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+
 Distrito VIII. Cabecera: Martínez de la Torre. Municipios: Gutiérrez Zamora, Nautla, Tecolutla, Tlapacoyan y Martínez de la Torre.
+
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
 Distritos IX. Cabecera: Misantla. Municipios: Acatlán, Coacoatzintla, Colipa, Chiconquiaco, Jilotepec, Juchique de Ferrer, Landero y Coss, Miahuatlán, Naolinco, Tenochtitlán, Tepetlán, Tonayán, Vega de Alatorre, Yecuatla y Misantla.
 
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+
 Distrito X. Cabecera: Perote. Municipios: Acajete, Altotonga, Atzalan, Jalacingo, Las Minas, Las Vigas de Ramírez, Rafael Lucio, Tatatila, Tlacolulan, Villa Aldama y Perote.
+
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
 Distrito XI. Cabecera: Xalapa I. Municipios: Xalapa (parte centro y este de la ciudad de Xalapa y zona rural del municipio, con un total de 137 secciones electorales, que son; de la 1905 a la 1911; de la 1919 a la 1928; de la 1946 a la 1953; de la 1964 a la 1981; de la 1991 a la 2011; de la 2018 a la 2035; de la 2043 a la 2063; de la 2065 a la 2077 y de la 2080 a la 2100).
 
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+
 Distrito XII. Cabecera: Xalapa II. Municipios: Banderilla, Tlalnelhuayocan y Xalapa (parte centro y oeste de la ciudad de Xalapa, con un total de 117 secciones electorales de este municipio, que son: de la 1848 a la 1904; de la 1912 a la 1918; de la 1929 a la 1945; de la 1954 a la 1963; de la 1982 a la 1990; de la 2012 a la 2017; de la 2036 a la 2042; y 2064, 2079 y 4719).
+
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
 Distrito XIII. Cabecera: Coatepec. Municipios: Apazapan, Ayahualulco, Cosautlán de Carvajal, Emiliano Zapata, Ixhuacán de los Reyes, Jalcomulco, Teocelo, Tlaltetela, Xico y Coatepec.
 
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+
 Distrito XIV. Cabecera: Huatusco. Municipios: Alpatláhuac, Atoyac, Calcahualco, Comapa, Coscomatepec, Chocamán, Ixhuatlán del Café, Sochiapa, Tenampa, Tepatlaxco, Tlacopetec de Mejía, Tomatlán, Totutla, Zentla y Huatusco.
+
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
 Distrito XV. Cabecera: Orizaba. Municipios: Atzacan, Ixhuatlancillo, Ixtaczoquitlán, Mariano Escobedo, La Perla, Río Blanco y Orizaba.
 
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+
 Distrito XVI. Cabecera: Córdoba. Municipios: Amatlán de los Reyes, Coetzala, Fortín, Naranjal y Córdoba.
+
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
 Distrito XVII. Cabecera: Tierra Blanca. Municipios: Carrillo Puerto, Cotaxtla, Cuichapa, Cuitláhuac, Omealca, Tezonapa, Yanga y Tierra Blanca.
 
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+
 Distrito XVIII. Cabecera. Zongolica. Municipios: Acultzingo, Aquila, Astacinga, Atlahuilco, Camerino Z. Mendoza, Huiloapan de Cuauhtémoc, Los Reyes, Magdalena, Maltrata, Mixtla de Altamirano, Nogales, Rafael Delgado, San Andrés Tenejapan, Soledad Atzompa, Tehuipango, Tequila, Texhuacan, Tlaquilpa, Tlilapan, Xoxocotla y Zongolica.
+
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
 Distrito XIX. Cabecera: Ciudad de Cardel, perteneciente al municipio de La Antigua. Municipios: Actopan, Alto Lucero de Gutiérrez Barrios, Camarón de Tejeda, Manlio Fabio Altamirano, Paso de Ovejas, Paso del Macho, Puente Nacional, Soledad de Doblado, Úrsulo Galván y La Antigua.
 
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+
 Distrito XX. Cabecera: Veracruz I. Municipio: Veracruz (parte norte de la ciudad de Veracruz, con un total de 137 secciones electorales, que son: de la 4217 a la 4348; 4387 y 4388, y de la 4474 a la 4476).
+
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
 Distrito XXI. Cabecera: Veracruz II. Municipio: Veracruz (parte sur de la ciudad de Veracruz y la mayor parte de la zona rural del municipio, con un total de 147 secciones electorales, que son: de la 4349 a la 4386; de la 4389 a la 4473; y de la 4477 a la 4500).
 
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+
 Distrito XXII. Cabecera: Boca del Río. Municipios: Ignacio de la Llave, Jamapa, Medellín, Tlalixcoyan y Boca del Río.
+
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
 Distrito XXIII. Cabecera: Cosamaloapan. Municipios: Acula, Alvarado, Amatitlán, Carlos A. Carrillo, Chacaltianguis, Ixmatlahuacan, Otatitlán, Tlacojalpan, Tlacotalpan, Tres Valles, Tuxtilla y Cosamaloapan.
 
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+
 Distrito XXIV. Cabecera: Santiago Tuxtla. Municipios: Isla, José Azueta, Juan Rodríguez Clara, Playa Vicente y Santiago Tuxtla.
+
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
 Distrito XXV. Cabecera: San Andrés Tuxtla. Municipios: Ángel R. Cabada, Catemaco, Lerdo de Tejada, Saltabarranca y San Andrés Tuxtla.
 
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+
 Distrito XXVI. Cabecera: Acayucan. Municipios: Hueyapan de Ocampo, Jesús Carranza, Oluta, San Juan Evangelista, Sayula de Alemán, Soconusco, Texistepec y Acayucan.
+
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
 Distrito XXVII. Cabecera: Cosoleacaque. Municipios: Chinameca, Jáltipan, Mecayapan, Oteapan, Pajapan, Soteapan, Tatahuicapan de Juárez, Zaragoza y Cosoleacaque.
 
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+
 Distrito XXVIII. Cabecera: Minatitlán. Municipios: Hidalgotitlán, Uxpanapa y Minatitlán.
 
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+
 Distrito XXIX. Cabecera: Coatzacoalcos I. Municipio: Coatzacoalcos (con un total de 146 secciones electorales, que comprenden de la 763 a la 908).
+
+> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
 Distrito XXX. Cabecera: Coatzacoalcos II. Municipios: Las Choapas, Ixhuatlán del Sureste, Moloacán, Nanchital de Lázaro Cárdenas del Río, Agua Dulce y Coatzacoalcos (con un total de 23 secciones electorales, que comprenden de la 909 a la 931).
 
@@ -184,3 +246,21 @@ G.O. 21 DE MAYO DE 2002.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Estése en todo a la demarcación territorial electoral establecida en los planos aprobados por el Instituto Electoral Veracruzano, en sesión de su Consejo General de fecha 15 de abril de 2002.
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
