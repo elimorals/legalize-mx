@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-presupuesto-de-egresos-del-estado-de-9980"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1966-03-19"
-last_updated: "1992-11-02"
+last_updated: "1993-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 02 DE NOVIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 04 DE AGOSTO DE 1993.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", del sábado 19 de marzo de 1966.
 
@@ -61,11 +61,11 @@ III. Según la finalidad del gasto.
 
 Elaboración del Proyecto del Presupuesto de Egresos del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 04 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 3o.
 
-El Proyecto de Presupuesto de Egresos del Estado que formule anualmente el Ejecutivo, será elaborado por conducto de la Secretaría de Planeación y Desarrollo quien para el efecto, tendrá las atribuciones y desempeñará las funciones siguientes:
+El Proyecto de Presupuesto de Egresos del Estado que formule anualmente el Ejecutivo, será elaborado por conducto de la Secretaría de Hacienda Pública y Tesorería quien para el efecto, tendrá las atribuciones y desempeñará las funciones siguientes:
 
 I. Formular y expedir el instructivo para la formación del proyecto del Presupuesto de Egresos.
 
@@ -79,33 +79,33 @@ V. Formular los anteproyectos de presupuesto corrospondientes (sic) a aquellas d
 
 > <small>(REFORMADA, P.O. 02 DE NOVIEMBRE DE 1992)</small>
 
-VI. Fijar las sumas definitivas que habrán de incluirse en el proyecto de Presupuesto de Egresos para cada una de las Dependencias Gubernamentales, de acuerdo con las instrucciones del Gobernador del Estado las cuales en materia de Promoción, Fomento, Preservación y Enriquecimiento de la Cultura, las Artes, la Investigación y el Desarrollo Científico y Tecnológico, nunca será menor a tres puntos porcentuales, del Programa Anual de Operación del Gobierno, procurando que el total de estas sumas se encuentre acorde con la estimación de los ingresos que se hagan para el ejercicio del presupuesto proyectado.
+VI. Fijar las sumas definitivas que habrán de incluirse en el proyecto del Presupuesto de Egresos para cada una de las Dependencias Gubernamentales, de acuerdo con las instrucciones del Gobernador del Estado las cuales en materia de Promoción, Fomento, Preservación y Enriquecimiento de la Cultura, las Artes, la Investigación y el Desarrollo Científico y Tecnológico, nunca será menor a tres puntos porcentuales, del Programa Anual de Operación del Gobierno, procurando que el total de estas sumas se encuentre acorde con la estimación de los ingresos que se hagan para el ejercicio del presupuesto proyectado.
 
-> <small>(ADICIONADA, P.O. 02 DE NOVIEMBRE DE 1992)</small>
+> <small>(ADICIONADA, P.O. 02 DE FEBRERO DE 1992)</small>
 
 VII. Establecer en el caso específico de la Universidad Autónoma de Sinaloa, la participación del Gobierno del Estado en el subsidio que anualmente otorga el Gobierno Federal a esta institución; participación que podrá ser hasta por la cantidad equivalente a las doce y medio puntos porcentuales del monto total asignado.
 
-> <small>(ADICIONADO, P.O. 02 DE NOVIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 04 DE AGOSTO DE 1993)</small>
 
-ARTICULO 3 BIS.- Para la captación y distribución, de los tres puntos porcentuales del Programa Anual de Operación del Gobierno, tendiente a Promover, Fomentar, Preservar y Enriquecer la Cultura, las Artes, la Investigación y el Desarrollo Científico y Tecnológico, expresados en la Fracción Sexta del Artículo anterior, se crea el Organismo Intersecretarial denominado "Instituto Sinaloense de la Cultura, la Ciencia y la Investigación Científica", el cual estará integrado por: Un Presidente que será el Gobernador Constitucional del Estado; el Secretario de Educación Pública y Cultura, quien fungirá como Secretario del Instituto; y los siguientes Vocales; Secretario de Planeación y Desarrollo; Secretario de Hacienda Pública y Tesorería; y Secretario de Administración.
+###### ARTICULO 3º Bis.
 
-Este Instituto, para la determinación del monto, asignación y determinación de prioridades de los recursos financieros que habrán de otorgarse a los distintos organismos o dependencias que realizan funciones de Promoción, Fomento, Preservación y Enriquecimiento de la Cultura, las Artes, la Investigación y el Desarrollo Científico y Tecnológico, tendrá como base los programas elaborados para dichos fines, así como promover el Desarrollo Regional del Estado.
+Para la captación y distribución, de los 3 puntos porcentuales del Programa Anual de Operación del Gobierno tendiente a promover, fomentar, preservar y enriquecer la cultura, las artes, la investigación y el desarrollo científico y tecnológico expresados en la fracción sexta del artículo anterior, se crea el Organismo Intersecretarial denominado "Instituto Sinaloense de la Cultura, la Ciencia y la Investigación Científica" el cual estará integrado por: Un Presidente que será el Gobernador Constitucional del Estado, el Secretario de Educación Pública y Cultura, quien fungirá como Secretario del Instituto; y los siguientes vocales: Secretario de Desarrollo Social; Secretario de Hacienda Pública y Tesorería; Secretario de Administración y Secretario General de Gobierno.
 
 ###### ARTICULO 4o.
 
 Las distintas etapas que constituyen el proceso anual de la elaboración del Proyecto del Presupuesto de Egresos deberán sujetarse a los siguientes plazos y fechas:
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 1990)</small>
+> <small>(REFORMADA, P.O. 04 DE AGOSTO DE 1993)</small>
 
-I. La Secretaría de Planeación y Desarrollo expedirá los lineamientos para la formulación del Presupuesto de Egresos, a más tardar el 30 de agosto, y los enviará a los Poderes Legislativo y Judicial y a las Dependencias del Gobierno del Estado.
+I. La Secretaría de Hacienda Pública y Tesorería expedirá los lineamientos para la formulación del Presupuesto de Egresos, a más tardar el 30 de agosto, y los enviará a los Poderes Legislativo y Judicial y a las Dependencias del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 1990)</small>
+> <small>(REFORMADA, P.O. 04 DE AGOSTO DE 1993)</small>
 
-II. Las dependencias formularán y presentarán a la Secretaría de Planeación y Desarrollo, los anteproyectos del Presupuesto de Egresos correspondiente a su ramo, durante el período del 1 al 30 de septiembre.
+II. Las Dependencias formularán y presentarán a la Secretaría de Hacienda Pública y Tesorería, los anteproyectos del Presupuesto de Egresos correspondientes a su ramo, durante el período del 1º al 30 de septiembre.
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 1990)</small>
+> <small>(REFORMADA, P.O. 04 DE AGOSTO DE 1993)</small>
 
-III. La Secretaría de Planeación y Desarrollo, presentará a consideración del Ejecutivo el Proyecto de Presupuesto de Egresos del Estado a más tardar el 21 de noviembre.
+III. La Secretaría de Hacienda Pública y Tesorería, presentará a consideración del Ejecutivo el proyecto de presupuesto de egresos del Estado a más tardar el 21 de noviembre;
 
 Los plazos y fechas mencionados en este artículo corresponden al año inmediato anterior a aquel en que habrá de regir el Presupuesto de Egresos a cuyo proyecto se refiere.
 
@@ -135,41 +135,47 @@ Reformas al Presupuesto de Egresos.
 
 La aplicación de Leyes, Decretos o Programas determinados con posterioridad a la aprobación del Presupuesto de Egresos, cuya ejecución requiera el desembolso de fondos públicos, motivará las modificaciones necesarias al propio Presupuesto.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 04 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 10o.
 
-En los casos a que se refiere el artículo anterior, será la Secretaría de Planeación y Desarrollo, quien formule las iniciativas de reformas correspondientes para ser remitidas al Congreso por el Ejecutivo del Estado.
+En los casos a que se refiere el artículo anterior, será la Secretaría de Hacienda Pública y Tesorería, quien formule las Iniciativas de Reformas correspondientes para ser remitidas al Congreso por el Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 04 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 11o.
 
-Los Poderes Legislativo y Judicial y las dependencias de la administración pública estatal, solicitarán a la Secretaría de Planeación y Desarrollo, previa justificación, las modificaciones presupuestales que se requieran para el cumplimiento de sus funciones durante el ejercicio fiscal.
+Los Poderes Legislativo y Judicial y las Dependencias de la Administración Pública Estatal, solicitarán a la Secretaría de Hacienda Pública y Tesorería, previa justificación, las modificaciones presupuestales que se requieran para el cumplimiento de sus funciones durante el ejercicio fiscal.
 
-Las (sic) Secretarías (sic) de Planeación y Desarrollo, estudiará y en su caso, autorizará las adecuaciones presupuestales, siempre y cuando éstas no constituyan presiones de gastos que impliquen erogaciones adicionales al monto anual del Presupuesto de Egresos, aprobado por el H. Congreso del Estado.
+> <small>(REFORMADO SEGUNDO PÁRRAFO, P.O. 04 DE AGOSTO DE 1993)</small>
 
-La (sic) Secretaría (sic) de Hacienda Pública y Tesorería y de Planeación y Desarrollo analizarán todas aquellas solicitudes de modificación presupuestal que signifiquen ampliaciones al monto del Presupuesto anual de Egresos aprobado, y formularán recomendaciones que someterán a la consideración del C. Gobernador del Estado.
+La Secretaría de Hacienda Pública y Tesorería, estudiará y en su caso, autorizará las adecuaciones presupuestales, siempre y cuando éstas no constituyan presiones de gastos que impliquen erogaciones adicionales al monto anual del Presupuesto de Egresos, aprobado por el H. Congreso del Estado.
 
-En el caso de que las ampliaciones presupuestales solicitadas requieran de crédito para su financiamiento, la Secretaría de Planeación y Desarrollo, formulará la iniciativa correspondiente para ser sometida por el Ejecutivo del Estado al H. Congreso.
+> <small>(REFORMADO TERCER PÁRRAFO, P.O. 04 DE AGOSTO DE 1993)</small>
+
+La Secretaría de Hacienda Pública y Tesorería analizará todas aquellas solicitudes de modificación presupuestal que signifiquen ampliaciones al monto del presupuesto anual de egresos aprobado, y formulará recomendaciones que someterá a la consideración del C. Gobernador del Estado.
+
+> <small>(REFORMADO CUARTO PÁRRAFO, P.O. 04 DE AGOSTO DE 1993)</small>
+
+En el caso de que las ampliaciones presupuestales solicitadas requieran de crédito para su financiamiento, la Secretaría de Hacienda Pública y Tesorería formulará la Iniciativa correspondiente para ser sometida por el Ejecutivo del Estado al H. Congreso.
 
 ### CAPITULO V.
 
 Ejecución del Presupuesto de Egresos.
 
-(REFORMADO, P.O. 12 DE ENERO DE 1990) (F. DE E., P.O. 17 DE ENERO DE 1990)
+> <small>(REFORMADO, P.O. 04 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 12o.
 
-El Gobernador, por conducto de la Secretaría de Planeación y Desarrollo, tendrá a su cargo, el control del ejercicio del presupuesto aprobado por el H. Congreso, vigilando la exacta aplicación del mismo. Para este efecto, la Secretaría de Planeación y Desarrollo, determinará las normas a que debe sujetarse dicha ejecución y tendrá amplias facultades para hacer las inspecciones, comprobaciones y auditorías de la aplicación presupuestaria que juzgue necesarias.
+El Gobernador por conducto de la Secretaría de Hacienda Pública y Tesorería, tendrá a su cargo el control del ejercicio del presupuesto aprobado por el H. Congreso, vigilando la exacta aplicación del mismo, para este efecto, la Secretaría de Hacienda Pública y Tesorería, determinará las normas a que debe sujetarse dicha ejecución y tendrá amplias facultades para hacer las inspecciones, comprobaciones y auditorías de la ampliación presupuestaria que juzgue necesaria.
 
 ###### ARTICULO 13o.
 
 Ningún gasto podrá efectuarse sin que exista partida expresa del Presupuesto que lo autorice y que acuse saldo suficiente para cubrirlo.
 
-> <small>(REFORMADO SEGUNDO PÁRRAFO, P.O. 12 DE ENERO DE 1990)</small>
+> <small>(REFORMADO SEGUNDO PÁRRAFO, P.O. 04 DE AGOSTO DE 1993)</small>
 
-Para que una erogación sea lícita, deberá ajustarse estrictamente al texto de la partida que reciba el cargo. En los casos de duda, la Secretaría de Planeación y Desarrollo resolverá lo conveniente.
+Para que una erogación sea lícita, deberá ajustarse estrictamente al texto de la partida que reciba el cargo. En los casos de duda, la Secretaría de Hacienda Pública y Tesorería resolverá lo conveniente.
 
 ###### ARTICULO 14o.
 
@@ -185,27 +191,27 @@ Toda transferencia que se efectúe con base en lo dispuesto en este artículo, d
 
 Todo gasto con cargo a las partidas globales o extraordinarias, requerirá libramiento autorizado por el Gobernador.
 
-> <small>(REFORMADO SEGUNDO PÁRRAFO, P.O. 12 DE ENERO DE 1990)</small>
+> <small>(REFORMADO SEGUNDO PÁRRAFO, P.O. 04 DE AGOSTO DE 1993)</small>
 
-La liberación de los recursos, serán expedidas por la Secretaría de Planeación y Desarrollo, a petición de las diversas dependencias gubernamentales, mediante solicitudes o autorizaciones de pago, de acuerdo con los lineamientos y requisitos que al efecto fije la propia Secretaría de Planeación y Desarrollo.
+La liberación de los recursos, serán expedidas por la Secretaría de Hacienda Pública y Tesorería, a petición de las diversas dependencias gubernamentales, mediante solicitudes o autorizaciones de pago, de acuerdo con los lineamientos y requisitos que al efecto fije la propia Secretaría de Hacienda y Tesorería.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 04 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 17o.
 
-Todas las dependencias de gobierno que sean autorizadas para formular solicitudes o autorizaciones de pago, tendrán la obligación de vigilar que el importe de las mismas se encuentre acorde con el calendario de pagos que formule la Secretaría de Planeación y Desarrollo y que no excedan el monto de las partidas autorizadas, cuidando que el concepto de los gastos que originen dichas solicitudes o autorizaciones, se encuentren estrictamente apegadas a la liberación de recursos del presupuesto anual de egresos.
+Todas las Dependencias de Gobierno que sean autorizadas para formular solicitudes o autorizaciones de pago, tendrán la obligación de vigilar que el importe de las mismas se encuentre acorde con el calendario de pagos que formule la Secretaría de Hacienda Pública y Tesorería y que no exceda el monto de las partidas autorizadas, cuidando que el concepto de los gastos que originen dichas solicitudes o autorizaciones, se encuentren, estrictamente apegadas a la liberación de recursos del presupuesto anual de egresos.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 04 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 18o.
 
-Para la correcta ejecución y control del ejercicio presupuestal, la Secretaría de Planeación y Desarrollo, contará con registros actualizados a nivel de dependencia, partida y concepto del gasto, conforme lo establece la contabilidad gubernamental.
+Para la correcta ejecución y control del ejercicio presupuestal, la Secretaría de Hacienda Pública y Tesorería, contará con registros actualizados a nivel de dependencia, partida y concepto del gasto, conforme lo establece la contabilidad gubernamental.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 04 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 19o.
 
-La Secretaría de Planeación y Desarrollo, examinará, autorizará y registrará los programas de trabajo y contratos que afecten o comprometan a las finanzas gubernamentales. Por lo tanto, ningún acto, programa o contrato que afecta o pueda afectar al presupuesto de egresos, se considerará legalmente formulado o celebrado si no ha sido autorizado y registrado por la Secretaría de Planeación y Desarrollo.
+La Secretaría de Hacienda Pública y Tesorería, examinará, y registrará los programas de trabajo y contratos que afecten o comprometan a las finanzas gubernamentales. Por lo tanto, todos los actos, convenios, programas o contratos que afecten o puedan afectar el presupuesto de egresos deberán ser invariablemente enviados para su registro, autorización y previsión financiera a esta dependencia.
 
 ### CAPITULO VI
 
@@ -223,21 +229,21 @@ A excepción de las relativas a deuda pública, las partidas eomprendidas (sic) 
 
 Las obligaciones contraídas fuera de las asignaciones presupuestales por las que deban satisfacer en ejercicios posteriores a aquel en que se contrajeron, requieren, para ser pagadas, el reconocimiento por medio de Ley expresa en la que se fijen los términos de pago.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 04 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 23o.
 
-Cuando pretendan contraerse obligaciones financieras que afecten futuros ejercicios presupuestales, la Secretaría de Planeación y Desarrollo manifestará su conformidad o inconformidad fundando su resolución.
+En los convenios o contratos que celebre el Estado, por virtud de los cuales se contraigan obligaciones financieras que afecten futuros ejercicios presupuestales, se dará a la Secretaría de Hacienda Pública y Tesorería la intervención que le corresponda.
 
 ### CAPITULO VII
 
 Evaluación del Ejercicio del Presupuesto.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 04 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 24o.
 
-El Congreso del Estado, por medio de la Contaduría Mayor de Hacienda, revisará los estados financieros que se deriven del ejercicio del presupuesto y que para el efecto formulará el Ejecutivo, por conducto de la Secretaría de Planeación y Desarrollo. Los documentos comprobatorios que justifiquen los movimientos contables efectuados deberán mantenerse en los archivos de las dependencias que el Ejecutivo haya autorizado para tal efecto. Dichos comprobantes deberán estar en todo momento a disposición del H. Congreso del Estado, quien podrá ordenar su revisión o inspección en las propias oficinas de las dependencias del Ejecutivo, o bien, solicitar le sean remitidas a sus oficinas, según lo juzgue conveniente.
+El Congreso del Estado, por medio de la Contaduría Mayor de Hacienda, revisará los estados financieros que se deriven del ejercicio del presupuesto y que para el efecto formulará el Ejecutivo, por conducto de la Secretaría de Hacienda Pública y Tesorería. Los documentos comprobatorios que justifiquen, los movimientos contables efectuados deberán mantenerse en los archivos de las Dependencias que el Ejecutivo haya autorizado para tal efecto. Dichos comprobantes deberán estar en todo momento a disposición del H. Congreso del Estado, quien podrá ordenar su revisión o inspección en las propias oficinas de las Dependencias del Ejecutivo, o bien solicitar les sean remitidas a sus oficinas, según lo juzgue conveniente.
 
 > <small>(REFORMADO, P.O. 12 DE ENERO DE 1990)</small>
 
@@ -320,3 +326,13 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 ###### ARTICULO SEGUNDO.
 
 Conforme a lo dispuesto en los Artículos 9º y 10º de la Ley Orgánica del Presupuesto de Egresos del Estado de Sinaloa, en su oportunidad y previo a la elaboración a los cálculos correspondientes, la Secretaría de Planeación y Desarrollo presentará ante el Congreso, las iniciativas de reformas inherentes al debido cumplimiento del presente Decreto.
+
+P.O. 04 DE AGOSTO DE 1993.
+
+###### ARTICULO PRIMERO.
+
+Las facultades y obligaciones señaladas a la Secretaría de Planeación y Desarrollo en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa para el ejercicio fiscal de 1993, pasarán a formar parte de las atribuciones de la Secretaría de Hacienda Pública y Tesorería, en congruencia con las modificaciones al Reglamento Orgánico de la Administración Pública de fecha 1º de enero de 1993.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto empezará a surtir sus efectos a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
