@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2002-10-25"
+last_updated: "2003-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 2003.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2105,13 +2105,13 @@ Requisitos de procedibilidad.- Los delitos a que se refiere el presente capítul
 
 Tipo y punibilidad.- Al que para obtener un lucro obligue a otro, a realizar u omitir un acto en perjuicio de su patrimonio o el de un tercero, se le impondrá prisión de dos a ocho años y hasta cuatrocientos días multa.
 
-### CAPITULO VII. VIOLENCIA INTRAFAMILIAR
+### CAPITULO VII. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2003)</small>
 
 ###### Artículo 242
 
-BIS.- Tipo y punibilidad.- Al que ejerza dolosamente de manera reiterada la fuerza física o moral, así como la omisión grave de cumplir con un deber, en contra de su cónyuge, concubina o concubino, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa-habitación, y que con ello quebrante el respeto, la dignidad, tranquilidad, seguridad y concordia intrafamiliar, imposibilitando o haciendo intolerable la convivencia familiar o les provoque trastornos psicoemocionales, se le impondrá de seis meses a seis años de prisión, multa por veinticuatro a trescientos días; y la privación del ejercicio de la patria potestad; sin perjuicio de la sanción que corresponda por la comisión de cualquier otro delito previsto por este Código aplicándose para ello las reglas de concurso de delitos.
+BIS.- Tipo y punibilidad.- Al que ejerza dolosamente de manera reiterada la fuerza física o moral, así como la omisión grave de cumplir con un deber, en contra de su cónyuge, concubina o concubino, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa-habitación, y que con ello quebrante el respeto, la dignidad, tranquilidad, seguridad y concordia familiar, imposibilitando o haciendo intolerable la convivencia familiar o les provoque trastornos psicoemocionales, se le impondrá de seis meses a seis años de prisión, multa por veinticuatro a trescientos días; y la privación del ejercicio de la patria potestad; sin perjuicio de la sanción que corresponda por la comisión de cualquier otro delito previsto por este Código aplicándose para ello las reglas de concurso de delitos.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1998)</small>
 
@@ -2127,17 +2127,17 @@ c) Sujeción a tratamiento psicológico especializado.
 
 Hay violencia cuando se emplea fuerza física, amenazas u omisión grave, que importen peligro de perder la vida, la honra, la libertad, la salud física o mental.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2003)</small>
 
-Se quebranta el respeto, la dignidad, tranquilidad, seguridad y concordia intrafamiliar con los actos u omisiones que realice un miembro de la familia ejerciendo de manera reiterada la fuerza física o amenazas, así como la omisión grave, en contra de otro miembro de la misma, y que conforme a la educación, cultura, posición socio-económica en que se desenvuelve la familia imposibilite o haga intolerable la convivencia familiar.
+Se quebranta el respeto, la dignidad, tranquilidad, seguridad y concordia familiar con los actos u omisiones que realice un miembro de la familia ejerciendo de manera reiterada la fuerza física o amenazas, así como la omisión grave, en contra de otro miembro de la misma, y que conforme a la educación, cultura, posición socio-económica en que se desenvuelve la familia imposibilite o haga intolerable la convivencia familiar.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
 Para los efectos de este delito, se entenderá por manera reiterada, la conducta de aquel sujeto que registre antecedentes penales o policiales por la comisión de dos o más actos de violencia física o psicológica en contra de algún miembro de la familia que habite en la misma casa.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2003)</small>
 
-Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz.
+Este delito se perseguirá de oficio.
 
 ###### Artículo 225.
 
@@ -2327,7 +2327,7 @@ Tipo y punibilidad.- Al que contraiga nuevo matrimonio, sin hallarse legítimame
 
 Tipo y punibilidad del delito de incesto.- A los parientes consanguíneos, sean ascendientes, descendientes o hermanos, que con conocimiento de su parentesco tengan cópula entre sí, se les impondrá prisión de dos a seis años.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE ENERO DE 2003)</small>
 
 ### CAPITULO III. USURPACION DE PROFESIONES
 
@@ -3654,3 +3654,7 @@ UNICO.- La presente reforma entrará en vigor a partir del día siguiente de su 
 P.O. 25 DE OCTUBRE DE 2002.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 24 DE ENERO DE 2003.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
