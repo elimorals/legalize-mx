@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-14868"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-25"
-last_updated: "2002-07-15"
+last_updated: "2004-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 25 de diciembre de 1996.
 
@@ -715,13 +715,19 @@ En los Juzgados Menores habrá el personal autorizado por el Pleno. El Juez nomb
 
 Habrá un Juez Auxiliar y dos suplentes en cada una de las fracciones de los diferentes municipios del Estado, que serán electos por una asamblea de los ciudadanos del lugar de su residencia, haciéndose llegar la propuesta de los Jueces electos, por conducto del Presidente Municipal, durante la primera quincena de enero de cada año al Supremo Tribunal de Justicia, para que previa su aprobación, otorgue el nombramiento respectivo.
 
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2004)</small>
+
+La convocatoria para la celebración de la asamblea deberá ser emitida por el Supremo Tribunal de Justicia, en la forma y términos que fije el Reglamento Interior el Poder Judicial del Estado.
+
 ###### ARTICULO 69.
 
 Para ser Juez Auxiliar se requiere: ser ciudadano potosino en ejercicio de sus derechos, vecino del lugar y saber leer y escribir. Este cargo es gratuito y los que lo desempeñen están exentos de cualquier otro cargo concejil.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 70.
 
-Los Jueces Auxiliares se renovarán cada año, sin perjuicio de que puedan ser nuevamente electos.
+Los Jueces Auxiliares durarán en su encargo un año; o en su caso, hasta que se expida el nombramiento del nuevo Juez, sin perjuicio de que puedan ser nuevamente electos.
 
 Podrán ser suspendidos o removidos mediante causa justificada por el Supremo Tribunal de Justicia.
 
@@ -1185,7 +1191,9 @@ Son sujetos de responsabilidad administrativa los Jueces de Primera Instancia, J
 
 La responsabilidad de los delitos o faltas administrativas de los Magistrados y Jueces del Supremo Tribunal de Justicia, se sujetará a las disposiciones que establezca la Constitución Política del Estado.
 
-### CAPITULO III. De las Sanciones Administrativas
+### CAPITULO II. De las Faltas Administrativas
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 128.
 
@@ -1245,9 +1253,7 @@ IV. Hacer notificaciones, citaciones o emplazamientos a las partes, por cédula 
 
 V. Practicar embargos, aseguramiento o retención de bienes, o lanzamiento de personas o corporación que no sea la designada en el auto respectivo, o cuando en el momento de la diligencia o antes de retirarse el personal del juzgado, se le demuestre que esos bienes son ajenos; para comprobar tal hecho, en todo caso, deberán agregar a los autos la documentación que se les presente, a efecto de dar cuenta a quien hubiere ordenado la diligencia.
 
-### CAPITULO II. De las Faltas Administrativas
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2000)</small>
+### CAPITULO III. De las Sanciones Administrativas
 
 ###### ARTICULO 132.
 
@@ -1468,3 +1474,11 @@ P.O. 15 DE JULIO DE 2002.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones y ordenamientos que se opongan al presente Decreto.
+
+P.O. 24 DE ABRIL DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Supremo Tribunal de Justicia del Estado deberá realizar las adecuaciones a su Reglamento Interior, de conformidad con el presente Decreto, en un plazo no mayor de noventa días contados a partir de la entrada en vigor de éste último.
+
+TERCERO. Se derogan todas las disposiciones y ordenamientos que se opongan al presente Decreto.
