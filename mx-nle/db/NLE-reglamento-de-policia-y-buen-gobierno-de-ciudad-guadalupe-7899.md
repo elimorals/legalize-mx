@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-de-ciudad-guadalupe-7899"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-15"
-last_updated: "1995-11-15"
+last_updated: "2000-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2000.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de noviembre de 1995.
 
@@ -117,21 +117,25 @@ Este Reglamento tiene por objeto el preservar, mantener y conservar el orden pú
 
 Las sanciones a las infracciones administrativas cometidas a este Reglamento, serán aplicadas sin perjuicio de las responsabilidades civiles o penales que le resulten al infractor.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 4.
 
-Son Autoridades Municipales facultadas para aplicar el presente Reglamento, y quienes además deberán conocer tanto éste como las demás disposiciones necesarias para la exacta aplicación, cumplimiento y observancia del mismo:
+Son Autoridades Municipales facultadas para aplicar el presente reglamento, y demás disposiciones que en materia de seguridad pública, tránsito y vialidad se refieren, las siguientes:
 
 I.- El C. Presidente Municipal.
 
 II.- El C. Secretario del R. Ayuntamiento.
 
-III.- Los C. Jueces Calificadores.
+III.- El C. Secretario de Seguridad Pública y Tránsito.
 
-IV.- El C. Director de Policía.
+IV.- Los C. Jueces Calificadores.
 
-V.- El C. Director de Tránsito y Vialidad.
+V.- El C. Director de Policía.
 
-VI.- La Coordinación de los C. Inspectores.
+VI.- El C. Director de Tránsito.
+
+VII.- La Coordinación de los C. Inspectores.
 
 ###### ARTICULO 5.
 
@@ -169,9 +173,11 @@ IX.- Colaborar y/o auxiliar a la Dirección de Tránsito y Vialidad, a fin de qu
 
 DE LAS FACULTADES Y OBLIGACIONES DE LA DIRECCION DE POLICÍA MUNICIPAL.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 7.
 
-A la Dirección de Policía Municipal, le corresponden por conducto de su Titular, las siguientes Facultades y Obligaciones:
+Al Secretario de Seguridad Pública y Tránsito, le corresponde las siguientes facultades y Obligaciones:
 
 I.- Vigilar, aplicar y hacer cumplir el presente Reglamento.
 
@@ -194,6 +200,10 @@ IX.- Prevenir que los menores de edad ingresen a los bares, cantinas y demás ne
 X.- Tomar todas aquellas medidas que tengan por objeto el mantener el orden, la paz, la tranquilidad y la seguridad de los ciudadanos.
 
 XI.- Las demás conferidas por las Leyes y los Reglamentos vigentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2000)</small>
+
+Facultades que podrá delegar en el Director de Policía Preventiva.
 
 ###### ARTICULO 8.
 
@@ -229,7 +239,9 @@ I.- Colaborar en la preservación de la seguridad y la tranquilidad de los ciuda
 
 II.- Cooperar con la Autoridad Municipal en las campañas que se organicen para mejorar el servicio de Seguridad Pública.
 
-III.- Informar a la Dirección de Policía Municipal, sobre los problemas de Seguridad Pública que se presenten en su comunidad.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2000)</small>
+
+III.- Informar a la Secretaría de Seguridad Pública y Tránsito, sobre los problemas de Seguridad Pública que se presenten en su comunidad.
 
 IV.- Solicitar la designación de uno o varios vigilantes, según el caso, el lugar, las condiciones y las necesidades del vecindario; siempre y cuando los vecinos cooperen para tal propósito.
 
@@ -585,9 +597,9 @@ La Autoridad Municipal se reserva los procedimientos para identificar plenamente
 
 DEL RECURSO DE INCONFORMIDAD.
 
-### CAPITULO 18
+### CAPITULO 18. DE LA COMISION DE HONOR Y JUSTICIA Y TRAMITE DE QUEJAS
 
-DE LA ACTUALIZACIÓN A ESTE REGLAMENTO.
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 39.
 
@@ -623,13 +635,103 @@ VIII.- Deberá firmarse por el Recurrente o por su Representante, debidamente ac
 
 Dentro de un término no mayor de 15-quince días hábiles, después de concluir el período de pruebas, la Autoridad confirmará, modificará o revocará el Acto Recurrido. Si no lo hiciere en ese término, el Recurso se entenderá resuelto a favor del quejoso.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2000)</small>
+
 ## TITULO VI
 
-DE LA ACTUALIZACIÓN A ESTE REGLAMENTO.
+DE LA COMISION DE HONOR Y JUSTICIA.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2000)</small>
+
+### CAPITULO 19
+
+DE LA ACTUALIZACION DE ESTE REGLAMENTO.
+
+(REUBICADO, P.O. 27 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 42.
 
+Se crea la Comisión de Honor y Justicia, a que se refiere el artículo 86 de la Ley del Sistema de Seguridad Pública del Estado, como un órgano de carácter administrativo, dependiente del Presidente Municipal, integrado por cinco miembros y cuyo objeto será el conocimiento, trámite y resolución de las quejas que se presenten en relación con la actuación de los integrantes de la policía preventiva, que fueren presentadas tanto por particulares como por integrantes de la misma corporación preventiva.
+
+Los cinco miembros serán nombrados y removidos libremente por el Presidente Municipal, de la siguiente forma:
+
+l.- Una persona con experiencia en el área de Policía;
+
+II.- Una persona con experiencia en el área de Tránsito;
+
+III.- Un miembro del Ayuntamiento;
+
+IV.- Un miembro de la Dirección Jurídica Municipal; y
+
+V.- Un miembro de la ciudadanía.
+
+Así mismo la Comisión de honor y Justicia conocerá de las quejas o denuncias que se presenten en relación con la actuación de los elementos de Tránsito.
+
+La Comisión de Honor y Justicia sólo tendrá competencia tratándose de los servidores públicos adscritos a la Secretaría de Seguridad Pública y Tránsito del Municipio de Guadalupe, Nuevo León.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 43.
+
+La substanciación del procedimiento de responsabilidad administrativa y la aplicación de sanciones a los miembros de la Secretaría de Seguridad Pública y Tránsito, se ceñirá a las prescripciones de la Ley de responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+
+En el caso de personal adscrito a la Dirección de Policía, la Comisión de Honor y Justicia, remitirá a la Secretaría de la Contraloría General del Estado copia de las resoluciones mediante las cuales se impongan sanciones por responsabilidades administrativas, a fin de que sean inscritas en el Registro de Servidores Públicos sancionados e inhabilitados o para efectos laborales en los términos de la Ley del Servicio Civil del Estado de Nuevo León. Esto con apego al artículo 87 de la Ley del Sistema de Seguridad Pública del Estado en vigor.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 44.
+
+Las quejas de particulares que se presenten, ante la Comisión de Honor y Justicia, podrán ser por escrito o denuncia verbal ante la propia Comisión, la cual deberá reunir claramente los siguientes requisitos:
+
+VII. (SIC) Nombre del denunciante
+
+VIII. Domicilio particular del denunciante
+
+IX. Ocupación
+
+X. Señalar el nombre o identificación, si lo supiera, del servidor público adscrito a la Secretaría de Seguridad Pública y Tránsito contra el cual se entabla la denuncia o en su caso los razgos o características o cualquier otro indicio que lleve a determinar que efectivamente se trata de un elemento de dicha Secretaría.
+
+XI. Señalar los hechos o actos que considere gravosos en su persona, familia, derechos o posesiones.
+
+XII. Presentar las pruebas que estime necesarias.
+
+Nunca y por ningún motivo se admitirán denuncias anónimas.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 45.
+
+Cuando se trate de actos o hechos cometidos por personal adscrito a la Secretaría de Seguridad Pública y Tránsito en contra de sus superiores jerárquicos, en la actividad que desempeña o en persona de sus propios compañeros, se procederá como sigue:
+
+III. (SIC) Se procederá al levantamiento del acta administrativa correspondiente, señalándose el o los actos o hechos cometidos por el elemento de la Secretaría de Seguridad Pública y Tránsito y que sean contrarios a lo señalado en el artículo 7 del presente reglamento.
+
+En dicha acta se señalará lugar, fecha y hora en que se levanta, nombre, puesto y dependencia a la que se encuentra adscrito el empleado que incurrió en la falta, enseguida se asentará la narración de actos o hechos que motivaron la misma, señalándose los testigos y demás pruebas que se relacionen con los hechos. Firmándose por último con dos testigos y el superior jerárquico.
+
+IV. Se remitirá todo lo actuado a la Comisión de Honor y Justicia quien será la encargada de iniciar el procedimiento de responsabilidad a que se refiere el artículo 43 del presente reglamento.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 46.
+
+La Comisión de Honor y Justicia será competente para determinar la responsabilidad del servidor público adscrito a la Secretaría de Seguridad Pública y Tránsito de este Municipio, cuando de comprobarse, actúe contrario a lo señalado en el artículo 7 de este Reglamento.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 47.
+
+En ambos casos a que se refiere tanto el artículo 44 como el artículo 45 del presente Reglamento, el elemento que fuere objeto de una queja o denuncia, tendrá el término de cinco días a partir de que tenga conocimiento de la queja, para aportar los elementos que refuten los actos o hechos que se le atribuyen.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 48.
+
 En la medida en que se modifiquen las condiciones socioeconómicas de este Municipio, en virtud de su crecimiento demográfico, surgimiento y desarrollo de actividades productivas; modificación de las condiciones políticas y múltiples aspectos de la vida comunitaria, este R. Ayuntamiento adecuará su Reglamentación Municipal, con el fin de preservar su Autoridad Institucional y propiciar el desarrollo armónico de la Sociedad.
+
+## TITULO VII
+
+DE LA ACTUALIZACION DE ESTE REGLAMENTO.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2000)</small>
 
 ## ARTÍCULOS TRANSITORIOS.
 
@@ -650,3 +752,13 @@ PRESIDENTE MUNICIPAL.
 LIC. JOSÉ ÁNGEL RAMÓN LOZANO.
 
 SECRETARIO DEL R. AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE DICIEMBRE DE 2000.
+
+PRIMERO: Estas modificaciones entrarán en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
+
+SEGUNDO: Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes modificaciones.
+
+TERCERO: Envíese al C. Secretario General de Gobierno, para que por su conducto se publique en el Periódico Oficial del Estado.
