@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-anuncios-de-la-ciudad-de-monterrey-nuevo-leon-257
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-27"
-last_updated: "1995-09-27"
+last_updated: "1998-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE ANUNCIOS DE LA CIUDAD DE MONTERREY
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 1998.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de septiembre de 1995.
 
@@ -485,6 +485,32 @@ ART.- 29.- En los anuncios relativos a la fijación de propaganda impresa con du
 
 En todos los casos se tomaran en cuenta, factores como; densidad de anuncios en la zona, croquis de ubicación, mecanismos de fijación que no deterioren las estructuras en las que se soportan o los señalamientos viales, así como los demás elementos que puedan afectar el entorno urbano en cada caso particular en que se presente solicitud y en el cual se valoraría la autorización y las licencias respectivas.
 
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 1998)</small>
+
+ART.- 29 Bis.- Se permitirá la instalación de anuncios en el nuevo mobiliario urbano que se instale en la vía pública, concediendo la autorización correspondiente a las empresas que costeen o realicen el gasto para la construcción, adquisición e instalación de dicho mobiliario, siempre que para tal efecto se formalice mediante Convenio ante la autoridad municipal lo siguiente:
+
+a).- Las características de calidad, diseño, dimensiones y materiales tanto del mobiliario urbano como del tipo de anuncios;
+
+b).- Las condiciones obligatorias para la empresa, de brindar el mantenimiento adecuado al mobiliario y cuidar el buen aspecto del anuncio;
+
+c).- La duración o el término en el que podrá permanecer el anuncio publicitario, mismo que permitirá a la empresa recuperar la inversión realizada, así como obtener una ganancia justa y razonable, previo análisis financiero específico que realice la Tesorería Municipal;
+
+d).- Los puntos o lugares específicos en donde se instalará el referido mobiliario, tomándose en consideración el dictamen que para tal efecto emita la Secretaría de Vialidad y Tránsito y el Consejo Estatal del Transporte,
+
+e).- Las garantías para el cumplimiento de las obligaciones establecidas;
+
+f).- Las sanciones que se deberá aplicar en el caso de incumplimiento de las obligaciones establecidas;
+
+g).- Otras condiciones que la autoridad municipal estime necesarias.
+
+El referido Convenio deberá ser firmado en representación del Municipio de Monterrey por el C. Presidente Municipal, el C. Secretario del R. Ayuntamiento, el C. Secretario de Desarrollo Urbano y Ecología y el C. Síndico Segundo.
+
+En todos los casos se tomaran en cuenta factores como la densidad de anuncios en la zona, croquis de ubicación, mecanismo de fijación a las estructuras que soporten el anuncio, los señalamientos viales y los elementos que puedan afectar el entorno.
+
+Dentro del plazo establecido por el Convenio, la empresa o compañía responsable, deberá obtener el refrendo anual a que se refieren los artículos 40 y 46 de este Reglamento, así como cubrir los derechos respectivos. Deberá también contar, en relación con los anuncios que se instalen en los puentes peatonales, con seguro de protección de responsabilidad civil, al momento de iniciar su instalación, y conservarlo vigente durante toda su estancia, su construcción, instalación, modificación, reparación, mantenimiento y retiro, que deberá realizarse bajo la dirección de un Director Técnico de obra, como responsable técnico de la instalación, seguridad y calidad del anuncio.
+
+Se deberá establecer también en el Convenio, que transcurrido el plazo fijado en el mismo, el mobiliario urbano pasará por ese solo hecho, a ser un bien del dominio público municipal.
+
 ART.- 30.- El área que ocupen los anuncios pintados o fijados sobre bardas, tapiales, cercas, paredes, taludes, techos o cualquier parte exterior de una edificación, deberán de contar con permiso o Licencia expresa y no deberá de exceder el porcentaje de ocupación de la superficie total de la fachada, tal como se indica a continuación:
 
 I.- 30% si tiene una altura hasta de 15 metros o menor.
@@ -794,3 +820,9 @@ C. Jesús Hinojosa Tijerina.
 El C. Secretario del R. Ayuntamiento.
 
 Lic. José Martínez González.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE FEBRERO DE 1998.
+
+La presente reforma por adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
