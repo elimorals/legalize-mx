@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-la-mujer-para-el-estado-de-baja-21659"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-22"
-last_updated: "2001-06-22"
+last_updated: "2004-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2004.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 22 de junio de 2001.
 
@@ -55,11 +55,15 @@ Para los efectos de esta Ley se entenderá por:
 
 INSTITUTO: al Instituto de la Mujer para el Estado de Baja California;
 
-CONSEJO DIRECTIVO: al Consejo Directivo del Instituto de la Mujer para el Estado de Baja California;
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
+
+JUNTA DIRECTIVA: Al órgano de gobierno del Instituto de la Mujer para el Estado de Baja California;
 
 CONSEJO CONSULTIVO: al Consejo Consultivo del Instituto de la Mujer para el Estado de Baja California.
 
-TRANSVERSALIDAD: a la manera integradora en que deberá expresarse el Programa de la Mujer en los programas de las distintas dependencias de la administración Pública Estatal, como una de sus dimensiones.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
+
+PROGRAMA: El Programa Institucional de la Mujer.
 
 ###### ARTÍCULO 4.
 
@@ -75,15 +79,23 @@ El objeto del Instituto es promover y fomentar las condiciones que posibiliten l
 
 El Instituto tendrá las siguientes atribuciones:
 
-I. Elaborar el Programa Estatal de la Mujer y coordinar las acciones en él contenidas;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
+
+I. Elaborar el Programa y coordinar las acciones en él contenidas;
 
 II. Apoyar la formulación de políticas públicas e impulsar las propuestas de la sociedad, para alcanzar la igualdad de derechos y oportunidades de desarrollo para la mujer en el ámbito político, social, cultural y económico, e incorporar este principio en la planeación del desarrollo.
 
-III. Impulsar la incorporación de los lineamientos del Programa Estatal de la Mujer en el programa anual de cada dependencia y entidad de la Administración Pública del Estado, así como en el de los sectores en general vinculados con estos instrumentos, para la ejecución de sus programas sectoriales o, en su caso, institucionales específicos;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
 
-IV. Establecer y concertar acuerdos y convenios con las autoridades de los tres órdenes de gobierno para promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y subprogramas que se establezcan en el Programa Estatal de la Mujer;
+III. Impulsar la incorporación de los lineamientos del Programa en el programa anual de cada dependencia y entidad de la Administración Pública del Estado, así como en el de los sectores en general vinculados con estos instrumentos, para la ejecución de sus programas sectoriales o, en su caso, institucionales específicos;
 
-V. Promover ante los poderes públicos del Estado, acciones dirigidas a mejorar la condición social de las mujeres generando igualdad de oportunidades para su desarrollo y erradicando toda forma de discriminación en su contra;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
+
+IV. Establecer y concertar acuerdos y convenios con las autoridades de los tres órdenes de gobierno para promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y subprogramas que se establezcan en el Programa;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
+
+V. Procurar, impulsar y apoyar ante los poderes públicos del Estado, acciones dirigidas al ejercicio pleno de los derechos de las mujeres, así como el fortalecimiento de mecanismos administrativos para el mismo fin;
 
 VI. Establecer y operar en coordinación con el Comité de Planeación del Desarrollo del Estado y otras dependencias del Ejecutivo, un sistema de seguimiento de los programas federales, estatales y municipales relacionados con la mujer, de conformidad con lo previsto en las leyes y convenios respectivos;
 
@@ -129,25 +141,37 @@ XXVI. Promover las aportaciones de recursos provenientes de dependencias e insti
 
 XXVII. Impulsar la cooperación nacional e internacional, para el apoyo financiero y técnico en la materia de equidad entre hombres y mujeres, de conformidad con las disposiciones aplicables;
 
-XXVIII. Emitir informes de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa Estatal de la Mujer;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
 
-XXIX. Actualizar periódicamente el diagnóstico sobre la situación de las mujeres, en relación con los avances y operatividad del Programa Estatal de la Mujer, y
+XXVIII. Emitir informes de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
+
+XXIX. Actualizar periódicamente el diagnóstico sobre la situación de las mujeres, en relación con los avances y operatividad del Programa, y
 
 XXX. Las demás que señale el reglamento de esta Ley.
 
-### CAPÍTULO III. DEL PROGRAMA ESTATAL DE LA MUJER
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE JUNIO DE 2004)</small>
+
+### CAPÍTULO III. DEL PROGRAMA INSTITUCIONAL DE LA MUJER
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 7.
 
-El Programa Estatal de la Mujer, es el documento que contiene las acciones que en forma planeada y coordinada, deberán realizarse en beneficio de la mujer en las dependencias y entidades de la Administración Pública del Estado y en los poderes legislativo y judicial.
+El Programa, es el documento que contiene las acciones que en forma planeada y coordinada, deberán realizarse en beneficio de la mujer en las dependencias y entidades de la Administración Pública del Estado y en los Poderes Legislativo y Judicial.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 8.
 
-El Programa Estatal de la Mujer se elaborará anualmente, en consulta con la sociedad y con base en programas relativos a la mujer que emanen de los Gobiernos Federal y Estatal en esta materia. En su elaboración se incluirá la coordinación y concertación con los sectores público, privado y social y de los municipios del Estado, de conformidad con el reglamento de esta Ley.
+El Programa se elaborará, en consulta con la sociedad y con base en programas relativos a la mujer que emanen de los Gobiernos Federal y Estatal en esta materia. En su elaboración se incluirá la coordinación y concertación con los sectores público, privado y social y de los municipios del Estado, de conformidad con el reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 9.
 
-El Programa Estatal de la Mujer deberá contener las propuestas de los programas de los Comités de consulta municipal a que se refiere esta Ley.
+El programa deberá contener las propuestas de los programas de los Comités de consulta municipal a que se refiere esta Ley.
 
 ### CAPÍTULO IV. DE LA ESTRUCTURA ORGANICA DEL INSTITUTO
 
@@ -155,47 +179,53 @@ El Programa Estatal de la Mujer deberá contener las propuestas de los programas
 
 El Instituto contará con los siguientes órganos:
 
-I. El Consejo Directivo;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
+
+I. La Junta Directiva;
 
 II. La Dirección General, y
 
 III. El Consejo Consultivo.
 
-#### SECCIÓN PRIMERA. DEL CONSEJO DIRECTIVO
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE JUNIO DE 2004)</small>
+
+#### SECCIÓN PRIMERA. DE LA JUNTA DIRECTIVA
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 11.
 
-El Consejo Directivo será el órgano de gobierno del Instituto, integrado de la siguiente manera:
+La Junta Directiva será el órgano de gobierno del Instituto, y estará integrado de la siguiente manera:
 
-I. Un Presidente, que será el titular del Poder Ejecutivo del Estado;
+I. Un Presidente, que será el Titular de la dependencia coordinadora de sector o la persona que éste designe;
 
-II. Las o los Titulares de las dependencias del ejecutivo, siguientes:
+II. Las o los Titulares de las siguientes dependencias:
 
-Secretaría de Desarrollo Social
+a) Secretaría de Educación y Bienestar Social;
 
-Secretaría de Educación y Bienestar Social
+b) Secretaría de Planeación y Finanzas;
 
-Secretaría de Planeación y Finanzas
+c) Secretaría de Trabajo y Previsión Social;
 
-Dirección de Trabajo y Previsión Social
+d) Secretaría de Salud Pública del Estado;
 
-Sistema Estatal para el desarrollo Integral de la Familia
+e) Procuraduría General de Justicia del Estado;
 
-Secretaría de Salud Pública del Estado de B.C.
+f) Procuraduría de los Derechos Humanos y Protección Ciudadana; y,
 
-Procuraduría de los Derechos Humanos y Participación Ciudadana
+g) Sistema para el Desarrollo Integral de la Familia del Estado.
 
-La o el Presidente del Consejo Consultivo
+III. Cinco Vocales municipales;
 
-III. Cinco Vocales municipales; y
-
-IV. Una Secretaría Técnica, que será la Directora o Director General del Instituto.
+La Directora o Director del Instituto fungirá como Secretaría Técnica de la Junta Directiva, teniendo únicamente el derecho al uso de la voz pero sin voto. Asimismo el Comisario, puede asistir participando únicamente con el uso de la voz pero sin derecho a voto.
 
 ###### ARTÍCULO 12.
 
 Los vocales municipales serán propuestos por los sectores privado y social, previa convocatoria pública de los ayuntamientos del Estado, en los términos previstos por el reglamento de esta ley.
 
-Concluido el procedimiento previsto en el reglamento, cada uno de los municipios propondrá a cuatro personas para ocupar el cargo de vocal del Consejo Directivo.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
+
+Concluido el procedimiento previsto en el reglamento, cada uno de los municipios propondrá a cuatro personas para ocupar el cargo de vocal de la Junta Directiva.
 
 Del total de las propuestas presentadas por los municipios, el Ejecutivo del Estado, mediante el procedimiento de insaculación por municipio, nombrará a los propietarios y sus respectivos suplentes.
 
@@ -217,33 +247,35 @@ V. No haber sido condenado o condenada por sentencia ejecutoriada por delito dol
 
 VI. No ejercer cargos directivos de un partido político o puesto de elección popular.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
+
 ###### ARTÍCULO 14.
 
-Los vocales propuestos por los ayuntamientos, constituirán los Comités de Consulta Municipal para promover la participación de los organismos no gubernamentales y ciudadanía en general en la elaboración del Programa Estatal de la Mujer y las demás acciones encaminadas a los fines y objetivos del mismo.
+Los vocales propuestos por los Ayuntamientos, constituirán los Comités de Consulta Municipal para promover la participación de los organismos no gubernamentales y ciudadanía en general en la elaboración del Programa y las demás acciones encaminadas a los fines y objetivos del mismo.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 15.
 
-El Consejo Directivo sesionará en forma ordinaria cada cuatro meses y, en forma extraordinaria, cuantas veces sea necesario, a juicio de la presidencia o, de cuando menos, una tercera parte de sus integrantes. La convocatoria será notificada con una anticipación de cuando menos tres días hábiles, para sesiones ordinarias y de un día para las extraordinarias.
+La Junta Directiva sesionará en forma ordinaria cada trimestre y, en forma extraordinaria, cuantas veces sea necesario, a juicio de la presidencia o, de cuando menos, una tercera parte de sus integrantes. La convocatoria para sesiones ordinarias deberá notificarse con cinco días hábiles de anticipación cuando menos y para sesiones extraordinarias con un día hábil de anticipación.
 
-Los vocales titulares del Consejo Directivo tendrán derecho a voz y voto. En su ausencia, este derecho corresponderá a sus suplentes.
+Las o los integrantes titulares de la Junta Directiva tendrán derecho a voz y voto. En su ausencia, este derecho corresponderá a sus suplentes.
 
-Para contar con quórum legal, las sesiones del Consejo Directivo deberán celebrarse con la mayoría de sus integrantes, entre ellos, el Presidente.
+Para contar con quórum legal, las sesiones de la Junta Directiva deberán celebrarse con la mayoría de sus integrantes, entre ellos, el Presidente.
 
-Las resoluciones del Consejo Directivo se tomarán preferentemente por consenso y, en caso de que no se produzca, en el orden de prelación siguiente:
+Las resoluciones de la Junta Directiva se tomarán por mayoría de votos de los integrantes presentes y en caso de empate el Presidente de la Junta Directiva tendrá el voto de calidad.
 
-a) Por las dos terceras partes de los asistentes;
-
-b) Por mayoría simple; en caso de empate, el Presidente del Consejo podrá emitir el voto de calidad.
-
-De cada sesión se levantará acta circunstanciada que deberá ser firmada por quien haya presidido la misma, así como por la Secretaría Técnica.
+De cada sesión se levantará acta circunstanciada que deberá ser firmada por quien haya presidido la misma, por la Secretaría Técnica, el Comisario, así como por todos los integrantes de la Junta Directiva.
 
 ###### ARTÍCULO 16.
 
-Las ausencias del Presidente del Consejo Directivo, serán suplidas por quien se determine en el reglamento de esta Ley.
+(DEROGADO, P.O. 18 DE JUNIO DE 2004)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 17.
 
-El Consejo Directivo tendrá las siguientes atribuciones:
+La Junta Directiva tendrá las siguientes atribuciones:
 
 I. Proponer al Ejecutivo del Estado, la terna para elegir al Director o Directora General, previa convocatoria pública que expida para su integración;
 
@@ -253,59 +285,75 @@ III. Establecer en congruencia con las partidas presupuestales asignadas, los pr
 
 IV. Proponer las bases conforme a las que deberá sujetarse el Instituto para la celebración de acuerdos, convenios y contratos; así como conocer y aprobar los convenios de colaboración que hayan de celebrarse con dependencias y entidades públicas;
 
-V. Aprobar el presupuesto de egresos del Instituto, informes de actividades y estados financieros anuales;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
 
-VI. Otorgar a la Dirección General poderes generales y especiales necesarios para el cumplimiento del objeto del Instituto, con las limitaciones que establezcan las disposiciones legales aplicables, así como las que considere necesario determinar;
+V. Otorgar al titular del Instituto poderes generales y especiales necesarios para el cumplimiento del objeto mismo, con las limitaciones que establezcan las disposiciones legales aplicables, así como las que considere necesario determinar;
 
-VII. Promover las donaciones, legados y demás liberalidades que se otorguen a favor del Instituto, así como aprobar su aceptación;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
 
-VIII. Aprobar el reglamento de esta Ley, así como el interior del Instituto y los manuales de procedimientos, y
+VI. Aprobar los programas institucional y operativo anual, así como las modificaciones que requieran los mismos;
 
-IX. Las demás que le confiere esta Ley.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
+
+VII. Aprobar los programas que requieran de financiamiento;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
+
+VIII. Aprobar los proyectos de presupuesto de ingresos y egresos, así como los estados financieros anuales;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
+
+IX. Aprobar la estructura orgánica básica del Instituto y las remociones del personal que conformen la misma;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2004)</small>
+
+X. Aprobar el proyecto de reglamento interno y los manuales administrativos del Instituto, así como las modificaciones que procedan a los mismos;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2004)</small>
+
+XI. Promover las donaciones, legados y demás liberalidades que se otorguen a favor del Instituto, así como aprobar su aceptación;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2004)</small>
+
+XII. Las demás que le confiere esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 18.
 
-El Presidente del Consejo Directivo, tendrá las siguientes atribuciones:
+El Presidente de la Junta Directiva, tendrá las siguientes atribuciones:
 
-I. Presidir las sesiones ordinarias o extraordinarias del Consejo Directivo y asumir la representación del mismo;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
 
-II. Promover la participación de las dependencias y entidades del sector público que correspondan, dentro del Programa Estatal de la Mujer;
+I. Presidir las sesiones ordinarias o extraordinarias de la Junta Directiva y asumir la representación del mismo;
 
-III. Constatar los avances y resultados del Programa Estatal de la Mujer; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
+
+II. Promover la participación de las dependencias y entidades del sector público que correspondan, dentro del Programa;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
+
+III. Constatar los avances y resultados del Programa; y
 
 IV. Las demás que le confiera el Reglamento Interior.
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL
 
-###### ARTÍCULO 19.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
 
-La Dirección General estará a cargo de un o una titular que durará tres años en su cargo y tendrá las siguientes facultades:
+###### ARTICULO 19.
 
-I. Instrumentar y ejecutar los acuerdos del Consejo Directivo;
+La Dirección General estará a cargo de un o una titular que será designado y removido libremente por el Gobernador del Estado y tendrá las siguientes facultades y obligaciones:
 
-II. Elaborar y emitir la convocatoria a sesiones ordinarias y extraordinarias del Consejo Directivo, y fungir como Secretaría Técnica de dicho órgano sólo con derecho a voz;
+I.- Instrumentar y ejecutar los acuerdos de la Junta Directiva;
 
-III. Proponer ante el Consejo Directivo su proyecto de Programa;
+II.- Fungir como Secretaria o Secretario Técnico en el Organo de Gobierno sólo con derecho a voz pero no a voto;
 
-IV. Someter ante el Consejo Directivo para su aprobación, el anteproyecto de presupuesto de egresos del Instituto;
+III.- Proponer ante la Junta Directiva el proyecto de programa institucional;
 
-V. Dirigir las actividades administrativas del Instituto y representarlo legalmente;
+IV.- Realizar toda clase de actos inherentes al objeto del Instituto; la celebración de actos de dominio requerirá la aprobación de la Junta Directiva; y,
 
-VI. Proponer al Consejo Directivo los programas de financiamiento del Instituto;
-
-VII. Someter al Consejo Directivo el informe anual sobre el desempeño de las funciones del Instituto, así como presentar los demás informes de actividades que le sean requeridos por el mismo;
-
-VIII. Elaborar y presentar a consideración y aprobación del Consejo Directivo, el proyecto de reglamento de esta Ley, así como el interior del Instituto y demás ordenamientos que sean necesarios para su funcionamiento;
-
-IX. Realizar toda clase de actos inherentes al objeto del Instituto; la celebración de actos de dominio requerirá la aprobación previa del Consejo Directivo.
-
-X. Establecer mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe el Instituto y presentar al Consejo Directivo, una vez al año, la evaluación de gestión, con el detalle que se acuerde por el propio Consejo Directivo;
-
-XI. Suscribir en su caso, los contratos que regulen las relaciones laborales del Instituto con sus trabajadores;
-
-XII. Proponer el nombramiento y remoción del personal del Instituto ante el Consejo Directivo, y
-
-XIII. Las demás que le confiera esta Ley, el reglamento de la misma y demás disposiciones.
+V.- Las conferidas por la Ley de las Entidades Paraestatales del Estado de Baja California y demás disposiciones aplicables.
 
 ###### ARTÍCULO 20.
 
@@ -325,33 +373,45 @@ VI. No haber sido condenada o condenado por sentencia ejecutoriada por delito do
 
 VII. No formar parte, ni haber figurado en puestos directivos de un partido político o haber ocupado un puesto de elección popular, durante los últimos cinco años, y
 
-VIII. No formar parte del Consejo Directivo del Instituto.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
 
-###### ARTÍCULO 21.
+VIII.- No formar parte de la Junta Directiva del Instituto.
 
-Para conformar la terna que será propuesta al Gobernador del Estado, para ocupar el cargo de Director o Directora General, el Consejo Directivo emitirá convocatoria pública, debiéndola publicar en el Periódico Oficial del Estado y en los diarios de mayor circulación de la Entidad.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
 
-La convocatoria deberá contener por lo menos, el plazo de la inscripción, requisitos a cubrir por los aspirantes, y procedimiento a que se sujetarán las comparecientes ante el Consejo Directivo. Las reglas necesarias para este procedimiento serán establecidas en el reglamento de esta Ley.
+###### ARTICULO 21.
+
+Para conformar la terna que será propuesta al Gobernador del Estado para ocupar el cargo de Directora o Director General, la Junta Directiva emitirá convocatoria pública, debiéndola publicar en el Periódico Oficial del Estado y en los diarios de mayor circulación de la Entidad.
+
+La convocatoria deberá contener por lo menos, el plazo de la inscripción, requisitos a cubrir por los aspirantes, y procedimiento a que se sujetarán las comparecientes ante la Junta Directiva. Las reglas necesarias para este procedimiento serán establecidas en el reglamento interno del Instituto.
 
 #### SECCIÓN TERCERA. DEL CONSEJO CONSULTIVO
 
-###### ARTÍCULO 22.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
 
-El Instituto contará con un Consejo Consultivo, que será un órgano asesor y de consulta en lo relativo al Programa Estatal de la Mujer y en los demás asuntos en materia de la problemática de la mujer.
+###### ARTICULO 22.
 
-###### ARTÍCULO 23.
+El Instituto contará con un Consejo Consultivo, que será un órgano asesor y de consulta en lo relativo al Programa y en los demás asuntos en materia de la problemática de la mujer.
 
-El Consejo Consultivo estará integrado mayoritariamente por mujeres, en un número no menor de cinco ni mayor de diez miembros, representativos de los diferentes sectores de la sociedad, de organizaciones no gubernamentales, de asociaciones civiles, así como de instituciones académicas. Su designación recaerá en el Consejo Directivo, a propuesta de las organizaciones representativas de defensa de los derechos de las mujeres. Todo cargo en el Consejo Consultivo, será honorífico.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
 
-El Consejo Directivo Determinará en el reglamento interior, la estructura, organización y funcionamiento del Consejo Consultivo, el cual será dirigido por una Presidencia, electa de entre los integrantes del propio Consejo, a propuesta de la Dirección General.
+###### ARTICULO 23.
 
-###### ARTÍCULO 24.
+El Consejo Consultivo estará integrado mayoritariamente por mujeres, en un número no menor de cinco ni mayor de diez miembros, representativos de los diferentes sectores de la sociedad, de organizaciones no gubernamentales, de asociaciones civiles, así como de instituciones académicas. Su designación recaerá en la Junta Directiva, a propuesta de las organizaciones representativas de defensa de los derechos de las mujeres. Todo cargo del Consejo Consultivo será honorífico.
 
-Las integrantes del Consejo Consultivo durarán en su encargo tres años y presentarán un informe anual al Consejo Directivo.
+La Junta Directiva determinará en el reglamento interno, la estructura, organización y funcionamiento del Consejo Consultivo, el cual será dirigido por una Presidencia, electa de entre los integrantes del propio Consejo, a propuesta de la Dirección General.
 
-###### ARTÍCULO 25.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
 
-Son funciones del Consejo Consultivo:
+###### ARTICULO 24.
+
+Las o los integrantes del Consejo Consultivo durarán en su encargo tres años y presentarán un informe anual a la Junta Directiva.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2004)</small>
+
+###### ARTICULO 25.
+
+El Consejo Consultivo tendrá las siguientes atribuciones:
 
 I. Proponer medidas para impulsar y favorecer la participación de los sectores interesados en las acciones relacionadas con el objeto de esta Ley;
 
@@ -363,9 +423,13 @@ IV. Proponer modificaciones a las políticas, estrategias, programas, proyectos 
 
 V. Dar seguimiento a las políticas, programas, proyectos y acciones que se emprendan en beneficio de las mujeres, de conformidad a esta Ley, y
 
-VI. Presentar al Consejo Directivo los informes de evaluación en las materias objeto de esta Ley.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
 
-### CAPÍTULO V. DEL PATRIMONIO, VIGILANCIA Y RÉGIMEN LABORAL DEL INSTITUTO
+VI.- Presentar a la Junta Directiva los informes de evaluación en las materias objeto del Instituto.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE JUNIO DE 2004)</small>
+
+### CAPÍTULO V. DEL PATRIMONIO, VIGILANCIA, REGIMEN LABORAL DEL INSTITUTO Y TERMINOS DE FUSION O EXTINCION
 
 ###### ARTÍCULO 26.
 
@@ -381,9 +445,11 @@ IV. Los que adquiera por otros conceptos.
 
 Dichos bienes y derechos deberán tener como propósito facilitar el cumplimiento del objeto del Instituto.
 
-###### ARTÍCULO 27.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
 
-La vigilancia del Instituto estará a cargo de un Comisario cuyo titular será designado y removido libremente por el Gobernador del Estado, a propuesta del Director de Control y Evaluación Gubernamental del Estado.
+###### ARTICULO 27.
+
+La vigilancia del Instituto estará a cargo de un Comisariato, integrado por un comisario propietario y un suplente, designados y removidos libremente por el Director de Control y Evaluación Gubernamental del Estado.
 
 ###### ARTÍCULO 28.
 
@@ -393,11 +459,17 @@ I. Vigilar que la administración de los recursos y el funcionamiento del Instit
 
 II. Practicar la auditoría interna de los estados financieros y las de carácter administrativo que se requieran;
 
-III. Recomendar al Consejo Directivo las medidas correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento administrativo del Instituto;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
 
-IV. Asistir a las sesiones del Consejo Directivo con derecho a voz exclusivamente;
+III.- Recomendar a la Junta Directiva las medidas correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento administrativo del Instituto;
 
-V. Brindar el apoyo técnico que la Dirección General requiera en cumplimiento de la Ley para el Control de los Organismos Públicos Descentralizados, Empresas de Participación Estatal y Fideicomisos del Estado, y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
+
+IV.- Asistir a las sesiones de la Junta Directiva con derecho al uso de la voz pero no al voto;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
+
+V.- Brindar el apoyo técnico que la Dirección General requiera en cumplimiento de la Ley de las Entidades Paraestatales del Estado de Baja California; y,
 
 VI. Las demás que en materia de control y vigilancia le confiera el Reglamento Interno del Instituto y las Leyes en la materia.
 
@@ -408,6 +480,12 @@ El Instituto queda sometido a las normas de contabilidad, presupuesto y gasto p�
 ###### ARTÍCULO 30.
 
 Las relaciones laborales entre el Instituto y sus trabajadores, se regirán por el Apartado "A" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2004)</small>
+
+###### ARTICULO 31.
+
+Cuando el Instituto deje de cumplir con el objeto para lo que fue creado o su funcionamiento no resultare ya conveniente desde el punto de vista de la economía del Estado o del interés público, la Secretaría de Planeación y Finanzas, atendiendo la opinión de la Secretaría de Desarrollo Social, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de este organismo. Asimismo podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
 
 ## TRANSITORIOS
 
@@ -456,3 +534,9 @@ LIC. ALEJANDRO GONZALEZ ALCOCER
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C.P. JORGE RAMOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 18 DE JUNIO DE 2004.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
