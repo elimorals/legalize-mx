@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "1993-12-29"
+last_updated: "1994-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 1994.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -35,7 +35,7 @@ DECRETO Núm. 241
 
 LA H. QUINCUAGESIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS.
 
-DECRETO:
+DECRETA:
 
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
@@ -941,6 +941,10 @@ III.- Al que oculte, sustraiga, venda o compre alimentos, bebidas o sustancias m
 
 IV.- Al que envenene o infeccione comestibles, bebidas, cosas para venderlas al público o usare substancias venenosas o nocivas para teñir, colorear, pintar, envolver o envasar los citados artículos, así como al que envenene o infeccione las aguas de un manantial, de un estanque, fuente o cualquier otro depósito de agua, destinada a ingerirla, sean públicos o privados.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1994)</small>
+
+Cuando en la comisión de los actos delictivos tipificados en las fracciones anteriores, los productos hayan sido elaborados para el consumo de la población infantil, o por su naturaleza o características tengan demanda preferente de niños menores de doce años, según la gravedad del caso a criterio del juez, se podrán aumentar las penas de uno a dos años de prisión y multa de quince a ciento cincuenta cuotas.
+
 177.- Se impondrá prisión de uno a seis años y multa de diez a cien cuotas al que utilice medios directos y eficaces de propagación de una enfermedad.
 
 Si el infractor fuere médico, biólogo o farmacéutico, o se dedicare a la venta de medicamentos, las penas señaladas en el párrafo anterior se aumentarán hasta en una mitad más, sin perjuicio de las sanciones que correspondan por la responsabilidad médica o técnica si se realiza el daño.
@@ -963,15 +967,31 @@ II.- Al que públicamente y por cualquier medio ejecute o haga ejecutar por otro
 
 III.- Al que de modo escandaloso invite a otro al comercio carnal.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1994)</small>
+
+Cuando los actos a que se refiere este artículo se realicen en plazas, parques, avenidas, calles y otros espacios considerados como vía pública, donde concurran habitualmente menores de edad o por estar próximos a centros de diversión y esparcimiento para familias o a edificios escolares, sean lugares por donde los propios menores deben transitar, se podrá imponer a los responsables de seis a doce meses más de prisión y multa de veinte a cien cuotas.
+
 182.- Si los delitos de que habla el artículo anterior fueren cometidos al amparo de una persona jurídica o con medios que ésta proporcione para tal fin a los delincuentes, a juicio del juez, se disolverá la empresa o se suspenderán sus actividades hasta por un año.
 
 ### CAPITULO II. CORRUPCION DE MENORES
 
-183.- Se aplicarán prisión de seis meses a dos años y multa de cinco a veinte cuotas, al que procure o facilite la corrupción de cualquier naturaleza, de un menor de dieciseis años.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1994)</small>
+
+183.- Se aplicarán prisión de seis meses a dos años y multa de cinco a veinte cuotas, al que procure o facilite la corrupción de cualquier naturaleza, de un menor de dieciséis años. Cuando el menor no haya cumplido los doce años, las penas aplicables se podrán aumentar de uno a dos años más de prisión y, del mismo modo, se podrá duplicar la multa.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1994)</small>
+
+183 Bis.- También cometen el delito de corrupción de menores y se harán acreedores a las sanciones previstas:
+
+I.- Quienes vendan o alquilen a menores de edad, material audiovisual clasificado como exclusivo para adultos;
+
+II.- Quienes propicien o permitan que menores de dieciséis años presencien, por medio de aparatos electrónicos la exhibición de audiovisuales a que se refiere la fracción anterior.
 
 184.- Al que emplee menores de dieciséis años en cantinas, tabernas o centros de vicios, se le sancionará con prisión de tres meses a un año y multa de cinco a veinte cuotas y cierre definitivo del establecimiento. Incurrirán en las mismas sanciones de prisión y multa los padres o tutores que acepten que sus hijos o menores, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
 
-185.- Las sanciones que señalan los dos artículos anteriores, se duplicarán cuando el que corrompa o emplee al menor sea ascendiente, padrastro, madrastra o tutor de aquél, privando al responsable de todo derecho a los bienes del ofendido y de la patria potestad sobre todos sus descendientes.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1994)</small>
+
+185.- Las sanciones que señalan los tres artículos anteriores, se duplicarán cuando el que corrompa o emplee al menor sea ascendiente, padrastro, madrastra o tutor de aquél, privando al responsable de todo derecho a los bienes del ofendido y de la patria potestad sobre todos sus descendientes.
 
 186.- Quienes hayan sido sancionados por los delitos de que trata este capítulo quedarán inhabilitados para ser tutores o curadores.
 
@@ -987,15 +1007,21 @@ II.- El que induzca o solicite a una persona para que con otra comercie sexualme
 
 III.- El que regentee, administre o sostenga prostíbulos, casas de cita o lugares de concurrencia, en donde se explote la prostitución u obtenga cualquier beneficio con sus productos; y
 
-IV.- El que encubra, concierte o permita el comercio carnal de un menor de edad.
+IV.- (DEROGADA, P.O. 28 DE MAYO DE 1994)
 
 El lenocinio se sancionará con prisión de seis meses a tres años y multa de diez a setenta y cinco cuotas.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1994)</small>
+
+187 Bis.- El que encubra, concierte o permita el comercio carnal de un menor de edad será sancionado con prisión de uno a seis años y multa de diez a cien cuotas. Esta penalidad se duplicará cuando el ofendido no haya cumplido los doce años de edad.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 188.- Al que dé en arrendamiento una finca teniendo conocimiento de que será destinada al lenocinio, se le aplicará prisión de tres meses a seis meses, o multa de cinco a quince cuotas o trabajo en favor de la comunidad hasta por quince días.
 
-189.- Si el sancionado por el artículo 187 fuere ascendiente, tutor, curador o cónyuge, o tuviere cualquier otra autoridad sobre la persona explotada, se le impondrá prisión de uno a seis años y multa de diez a cien cuotas y será privado de todo derecho sobre los bienes de aquélla, en su caso, e inhabilitado hasta por diez años para ser tutor o curador, o para el ejercicio de la patria potestad.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1994)</small>
+
+189.- Si el que cometiere los delitos a que se refiere el artículo 187 y 187 Bis fuere ascendiente, tutor o curador del menor que resultare agraviado, se le impondrá como pena, además de las sanciones corporales y pecuniarias previstas, la pérdida de la patria potestad o, en su caso, de la prerrogativa de ser tutor o curador, privándosele de todo derecho sobre los bienes del ofendido. Si la víctima es mayor de edad, ésta última disposición se aplicará, en lo conducente, cuando el sancionado sea el cónyuge u otra persona que tuviere sobre aquella alguna otra autoridad.
 
 ## TITULO SEXTO. DELITOS CONTRA LA MORAL PUBLICA
 
@@ -1062,6 +1088,10 @@ XI.- Aprovechar el poder o autoridad propios del empleo, cargo o comisión que d
 XII.- El servidor público que teniendo conocimiento de una privación ilegal de libertad, no la haga cesar si esto estuviere dentro de sus atribuciones.
 
 195.- Al que cometa el delito de abuso de autoridad se le impondrá prisión de seis meses a seis años, multa de cinco a cincuenta cuotas y destitución de empleo.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1994)</small>
+
+195 Bis.- El agente de una corporación de seguridad pública que en ejercicio de sus funciones o con motivo de ellas, haga objeto de vejaciones físicas o verbales a un menor de edad o niegue a éste la protección o el servicio que estuviere obligado a proporcionarle, será sancionado con prisión de uno a tres años, multa de diez a treinta cuotas, o inhabilitación para desempeñar cualquier empleo, cargo o comisión con el carácter de autoridad pública.
 
 ### CAPITULO III. COALICION
 
@@ -1199,9 +1229,13 @@ II.- Estarán obligados a la reparación del daño, no solamente por sus actos p
 
 213.- El artículo anterior se aplicará a los profesionales, similares y auxiliares que habiendo otorgado responsiva para hacerse cargo de la atención de un lesionado o enfermo, lo abandonen en su tratamiento sin causa justificada, y no den aviso inmediato a la autoridad correspondiente.
 
-214.- Quienes ejerzan la medicina y sin causa justificada se nieguen a prestar sus servicios a un enfermo que lo requiera por notoria urgencia, o no los presten poniendo en peligro su vida, por exigir que se les paguen o garanticen anticipadamente sus honorarios, serán sancionados con la pena de tres a seis meses de prisión y multa de cinco a veinte cuotas o prestación obligatoria de servicio en favor de la comunidad de hasta quince días.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 1994)</small>
 
-Si se produjere daño por la falta de intervención, las penas anteriores se duplicarán y, además, se impondrá inhabilitación para el ejercicio profesional por un término de un mes a dos años.
+214.- Quienes ejerzan la medicina y sin causa justificada se nieguen a prestar sus servicios a un enfermo que lo requiera por notoria urgencia, o no los presten poniendo en peligro su vida, por exigir que se les paguen o garanticen anticipadamente sus honorarios, serán sancionados con la pena de tres a seis meses de prisión y multa de cinco a veinte cuotas o prestación obligatoria de servicio en favor de la comunidad de hasta quince días. Si el enfermo tiene menos de doce años cumplidos, la pena de prisión será de tres meses a un año, y multa de diez a cincuenta cuotas.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1994)</small>
+
+Si se produjere daño por la falta de intervención, las penas anteriores se duplicarán y, además, se impondrá inhabilitación para el ejercicio profesional por un término de un mes a dos años. Cuando la falta de intervención y el daño consiguiente sean imputables a los directores, administradores o encargados del sanatorio, hospital o establecimiento de salud en donde el médico preste sus servicios, serán aquellos y no éste quienes incurran en responsabilidad penal y deban ser sancionados con las penas previstas en este párrafo y el anterior.
 
 Cuando una persona de las mencionadas en el artículo 212 efectúe una exploración ginecológica por motivos deshonestos o que no sea necesaria, se le sancionará con prisión de tres meses a un año y multa de diez a cincuenta cuotas. Si con la exploración se causa el desfloramiento, las sanciones se duplicarán, sin perjuicio de las que deban aplicarse por los otros delitos que por el mismo acto se cometan.
 
@@ -1377,7 +1411,9 @@ Las disposiciones contenidas en este Título, no se aplicarán sino en lo que no
 
 231.- Al que sin consentimiento de una persona púber o impúber, o con consentimiento de ésta última, o de persona que por cualquier causa no pudiere resistir, ejecute en ella un acto erótico, sin el propósito directo o inmediato de llegar a la cópula, se le impondrá sanción tres meses a seis meses de prisión y multa de tres a cinco cuotas.
 
-Si se hiciere uso de la violencia física o moral, la sanción será de tres meses a dos años de prisión y multa de cinco a diez cuotas.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1994)</small>
+
+Si se hiciere uso de la violencia física o moral, la sanción será de tres meses a dos años de prisión y multa de cinco a diez cuotas. Existe la presunción legal de que la violencia fue el medio utilizado para la comisión del delito, cuando la víctima tuviere menos de doce años cumplidos.
 
 232.- Los atentados al pudor se sancionarán a petición del ofendido o de sus representantes.
 
@@ -1393,7 +1429,9 @@ Si se hiciere uso de la violencia física o moral, la sanción será de tres mes
 
 236.- Se sancionará como violación al que tenga cópula con persona impúber o con persona privada de razón o de sentido, o cuando por enfermedad o por cualquier causa no pudiera resistir.
 
-Si la persona impúber fuere menor de diez años, la sanción será de cinco a veinte años de prisión y multa de diez a sesenta cuotas.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1994)</small>
+
+Si la persona impúber fuera menor de doce años, la sanción será de cinco a veinte años de prisión y multa de diez a sesenta cuotas.
 
 La sanción prevista en el párrafo anterior se aplicará también en los casos de violación de un ascendiente a su descendiente o de éste a aquél.
 
@@ -1443,6 +1481,10 @@ A los testigos y a las personas que intervengan en la celebración del nuevo mat
 
 Se aplicará esta última sanción en caso de incesto entre hermanos.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1994)</small>
+
+No se admitirá que hubo anuencia, por lo cual el acto cometido tendrá el carácter de violación, cuando el descendiente o uno de los hermanos tenga menos de doce años cumplidos, y se impondrán al ascendiente o al hermano que fuere mayor de 18 años, las reglas y sanciones previstas en el artículo 236 de este ordenamiento. Los menores ofendidos quedarán sujetos a la protección que disponga el Código Familiar o, en defecto de éste, el Código Tutelar para Menores.
+
 ### CAPITULO VI. ADULTERIO
 
 247.- Se entiende por adulterio la cópula de mujer casada con hombre que no sea su marido, o de hombre casado con mujer que no sea su esposa. El adulterio sólo se sancionará cuando se cometa en el domicilio conyugal o con escándalo.
@@ -1464,6 +1506,10 @@ Tampoco se procederá contra el adúltero que ignore la relación conyugal del o
 251.- Al que sin motivo justificado incumpla respecto de sus hijos, cónyuge, o de cualquier otro familiar con el que tenga obligación alimentaria, el deber de asistencia sin ministrarle los recursos para atender sus necesidades de subsistencia, se le aplicará prisión de seis meses a dos años y multa de cinco a quince cuotas.
 
 252.- El delito a que se refiere el artículo anterior, sólo se perseguirá a petición del ofendido o del legítimo representante de los menores; a falta de los representantes de éstos, la averiguación previa se iniciará de oficio por el Ministerio Público, a reserva de que el Juez de la causa designe un tutor especial para los efectos de este precepto.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1994)</small>
+
+El abandono en perjuicio de menores de edad que no tuvieren otro u otros familiares que provean a su subsistencia, se perseguirá de oficio y su penalidad será de uno a tres años de prisión y multa de diez a cincuenta cuotas.
 
 253.- Para que el perdón concedido por el ofendido o su representante pueda producir efectos, el responsable deberá pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y garantizar el pago futuro de los mismos.
 
@@ -1544,6 +1590,10 @@ II.- Al que obligue a otro a prestarle trabajos o servicios personales sin la re
 III.- Al particular que por medio de la violencia obligue a una persona a tolerar, hacer u omitir alguna cosa; y
 
 IV.- Al que de alguna manera viole con perjuicio de otro, los derechos establecidos por la Constitución General de la República o por la Constitución del Estado en favor de las personas.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1994)</small>
+
+Cuando los ilícitos tipificados en las cuatro fracciones anteriores se cometan en perjuicio de personas menores de doce años se duplicarán las sanciones aplicables.
 
 266.- Se impondrán de quince a treinta años de prisión y multa de cincuenta a ciento cincuenta cuotas, cuando la detención arbitraria tenga el carácter de plagio o secuestro, en alguna de las formas siguientes:
 
@@ -1635,7 +1685,9 @@ DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
 ### CAPITULO I. LESIONES
 
-285.- La lesión consiste en todo daño en el cuerpo de alguien o en cualquiera alteración de la salud, producida por una causa externa imputable a una persona.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1994)</small>
+
+285.- La lesión consiste en todo daño en el cuerpo de alguien o en cualquiera alteración de la salud, producida por una causa externa imputable a una persona. Cuando las lesiones se infieran a un menor de doce años las sanciones aplicables se podrán duplicar.
 
 286.- Al responsable del delito de lesiones que no pongan en peligro la vida, se le sancionará:
 
@@ -1669,9 +1721,13 @@ III.- Cuando las lesiones causadas sean de naturaleza y consecuencias diversas y
 
 290.- Si el ofendido fuere ascendiente del autor de una lesión se aumentarán dos años de prisión al mínimo y al máximo de la sanción que corresponda conforme a los artículos que preceden.
 
-291.- Las lesiones inferidas por quienes ejerzan la patria potestad o la tutela, y en ejercicio del derecho de corregir, no serán punibles si fueren de las comprendidas en la fracción I del artículo 286 y si, además, el autor no abusare de su derecho corrigiendo con crueldad o con innecesaria frecuencia.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1994)</small>
 
-En cualquier otro caso, se impondrá al delincuente la sanción que corresponda con arreglo a las prevenciones anteriores y quedará, además, privado de la potestad en virtud de la cual tenga el derecho de corrección.
+291.- Las lesiones inferidas por quienes ejerzan la patria potestad o la tutela son punibles y a la sanción que corresponda conforme a los artículos que preceden, se le aumentará de tres meses a dos años de prisión. En todo caso se perseguirán de oficio.
+
+Además, el delincuente podrá ser privado del ejercicio de la patria potestad si la conducta se considera como grave.
+
+Cuando el autor de la lesión sea persona de notoria escasa instrucción a criterio del juez y tratándose de la primera ocasión, únicamente se le impondrá la obligación de asistir a una o varias terapias al sistema DIF, quedando a disposición de esta institución, siempre y cuando la lesión, o lesiones, sean de las comprendidas en la fracción I del artículo 286.
 
 292.- De las lesiones que a una persona cause algún animal bravío, será responsable el que con esa intención lo azuce o lo suelte. Si lo suelta por descuido, la sanción será la correspondiente al delito culposo.
 
@@ -2327,7 +2383,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 10 DE JULIO DE 1993.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
 
@@ -2336,3 +2392,7 @@ SEGUNDO.- Se derogan los capítulos I, II y III del Título Cuarto del libro Pri
 P.O. 29 DE DICIEMBRE DE 1993
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Organo de Gobierno del Estado.
+
+P.O. 28 DE MAYO DE 1994.
+
+UNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Zacatecas.
