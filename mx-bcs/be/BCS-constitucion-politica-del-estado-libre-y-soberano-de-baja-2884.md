@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1996-10-22"
+last_updated: "1997-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE OCTUBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE FEBRERO DE 1997.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -195,11 +195,15 @@ II.- Por ausencia con motivo de la realización de estudios profesionales, cient
 
 28.- Son prerrogativas del ciudadano sudcaliforniano:
 
-I.- Votar en las elecciones del Estado;
+> <small>(REFORMADA, B.O. 14 DE FEBRERO DE 1997)</small>
+
+I.- Votar en las elecciones populares en los términos que señale la Ley;
 
 II.- Poder ser votado para todo cargo de elección popular, teniendo las calidades que establezca la ley;
 
-III.- Asociarse para tratar los asuntos políticos de la entidad;
+> <small>(REFORMADA, B.O. 14 DE FEBRERO DE 1997)</small>
+
+III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado;
 
 IV.- Ejercer en toda clase de negocios el derecho de petición; y
 
@@ -247,69 +251,39 @@ Natividad, San Roque, Asunción, Magdalena, Margarita y Creciente, situadas en e
 
 ## TITULO QUINTO. DE LA SOBERANIA Y DE LA FORMA DE GOBIERNO
 
-36.- La soberanía del Estado reside esencial y originariamente en el pueblo sudcaliforniano, quien la ejerce por medio de los poderes constituídos en los términos de esta ley fundamental.
+> <small>(REFORMADO, B.O. 14 DE FEBRERO DE 1997)</small>
 
-> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1978)</small>
+36.- La Soberanía del Estado, reside esencial y originariamente en el pueblo sudcaliforniano, quien la ejerce por medio de los poderes constituidos en los términos de esta Ley Fundamental. La renovación de los poderes Legislativo y Ejecutivo, así como de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-Los Partidos Políticos Nacionales y Estatales tienen como fin promover la participación del pueblo sudcaliforniano en la vida democrática, contribuir a la integración de la representación del Estado y como organizaciones de ciudadanos, hacer posible el acceso de éstas al ejercicio del Poder Público en las esferas Estatal y Municipal y de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+I.- Los partidos políticos son entidades de interés público; la Ley determinará las formas específicas de su intervención en los procesos electorales. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
 
-> <small>(ADICIONADO, B.O. 11 DE JUNIO DE 1992)</small>
+Los partidos políticos nacionales y estatales tienen como fin promover la participación del pueblo sudcaliforniano en la vida democrática, contribuir en la integración de la representación del Estado y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público en las esferas estatal y municipal y de acuerdo a los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
 
-En los procesos electorales estatales los partidos políticos deberán contar en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
+II.- La Ley garantizará que en los procesos electorales estatales y municipales los partidos políticos cuenten de manera equitativa con los recursos para llevar a cabo sus actividades político electorales.
 
-> <small>(ADICIONADO, B.O. 14 DE JULIO DE 1995)</small>
+De igual manera determinará condiciones de equidad para que los partidos políticos tengan acceso a los medios de comunicación social.
 
-La organización de los procesos electorales es una función que corresponde realizar al poder público, a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propios, que se denominará Comisión Estatal Electoral y en cuya integración concurren los Poderes Ejecutivo y Legislativo del Estado, con la participación de los partidos políticos y de los ciudadanos en los términos que disponga la ley.
+III.- La Ley señalará las reglas a las que se sujetará el financiamiento de los partidos políticos y de sus campañas político electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
 
-> <small>(ADICIONADO, B.O. 14 DE JULIO DE 1995)</small>
+El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y a las que se produzcan durante los procesos políticos electorales, mismas que se otorgarán de acuerdo con las disponibilidades presupuestales y conforme a lo prescrito en la Ley.
 
-En el ejercicio de las funciones del organismo electoral serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad.
+La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecunarias (sic) de sus simpatizantes y los procedimientos para el control y vigilancia del origen y el uso de todos los recursos con que cuenten y asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-> <small>(ADICIONADO, B.O. 14 DE JULIO DE 1995)</small>
+IV.- La organización de los procesos electorales es una función que corresponde realizar al poder público, a través de un organismo público autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propios, que se denominará Instituto Estatal Electoral y en cuya integración concurren el Poder Legislativo del Estado, los partidos políticos y los ciudadanos en los términos que disponga la Ley. En el ejercicio de las funciones del organismo electoral, serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad.
 
-La Comisión Estatal Electoral residirá en la ciudad capital del Estado y se integrará por cinco consejeros ciudadanos propietarios de entre quienes se eligirá (sic) al Presidente; por un representante de cada uno de los partidos políticos que participen en las elecciones; por un representante de cada una de las fracciones parlamentarias del Congreso del Estado; por el Director del Registro Estatal de Electores y por un Secretario General que se designará a propuesta del Presidente con la aprobación de la mayoría de los consejeros ciudadanos. Los Comités Distritales y Municipales Electorales y el Registro Estatal de Electores formarán parte de su estructura orgánica.
+El Instituto Estatal Electoral residirá en la ciudad capital del Estado y se conformará por un Consejo General, que será su órgano superior de dirección, el cual se integrará por un consejero Presidente y cuatro consejeros electorales con voz y voto. También concurrirán, con voz pero sin voto, un representante de cada uno de los partidos políticos que participen en las elecciones; un representante de cada una de las fracciones parlamentarias del Congreso del Estado; el Director del Registro Estatal de Electores y un Secretario General que se designará a propuesta del consejero Presidente con la aprobación de la mayoría de los consejeros electorales. Los Comités Distritales y Municipales Electorales y el Registro Estatal de Electores formarán parte de su estructura orgánica. Las mesas directivas de casilla estarán integradas por ciudadanos.
 
-> <small>(ADICIONADO, B.O. 14 DE JULIO DE 1995)</small>
+El consejero Presidente y los consejeros electorales del Instituto Estatal Electoral, serán electos sucesivamente, por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado de entre los propuestos por las fracciones parlamentarias del propio Congreso del Estado. Conforme al mismo procedimiento, se designarán un consejero presidente y cuatro consejeros electorales suplentes, en orden de prelación. El consejero Presidente y los consejeros electorales durarán en su encargo 6 años.
 
-Los consejeros ciudadanos de la Comisión Estatal Electoral, serán electos por las dos terceras partes de los miembros presentes del Congreso del Estado de entre los propuestos por el Gobernador del Estado y las fracciones parlamentarias del propio Congreso del Estado. Si dicha mayoría no se lograra en la primera votación, se procederá a insacular de los candidatos propuestos, el número que corresponda de consejeros ciudadanos. Por cada uno de los consejeros ciudadanos propietarios se eligirá (sic) un suplente.
+La Ley señalará los requisitos que deben reunir el consejero Presidente y los consejeros Electorales del Instituto Estatal Electoral y determinarán las reglas y procedimientos correspondientes a su elección.
 
-> <small>(ADICIONADO, B.O. 14 DE JULIO DE 1995)</small>
+El Instituto Estatal Electoral tendrá a su cargo en forma integral y directa, además de las que determine la Ley, las actividades relativas a la capacitación electoral y educación cívica, geografía electoral, los derechos y prerrogativas de las agrupaciones y de los partidos políticos, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la Ley, declaración de validez y otorgamientos de constancias en las elecciones de Diputados locales y Ayuntamientos, cómputo de la elección de Gobernador del Estado de Baja California Sur en cada uno de los distritos electorales uninominales, así como la regulación de la observancia electoral y de las encuestas o sondeos de opinión con fines electorales. Lo relativo al catálogo general de electores, padrón electoral, listado nominal y credencial para votar con fotografía, se sujetará a los convenios que celebre el Instituto Estatal Electoral con el Instituto Federal Electoral. Las sesiones de todos los órganos electorales de dirección serán públicas en los términos que señale la Ley.
 
-La ley señalará los requisitos que deben reunir los consejeros ciudadanos de la Comisión Estatal Electoral y determinará las reglas y procedimientos correspondientes a su elección.
+V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación.
 
-> <small>(ADICIONADO, B.O. 11 DE JUNIO DE 1992)</small>
+En materia electoral la interposición de los medios de impugnación constitucionales o legales no producirá efectos suspensivos sobre la resolución del acto impugnado.
 
-La ley establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y un Tribunal Estatal de lo Contencioso Electoral, dotado de plena autonomía, que será órgano jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
-
-> <small>(REFORMADO, B.O. 14 DE JULIO DE 1995)</small>
-
-El Tribunal Estatal de lo Contencioso Electoral, tendrá la competencia y la organización que determine la Ley; funcionará en Pleno y resolverá en una sola instancia y sus sesiones serán públicas, a excepción de las que determine el propio Tribunal. Los Poderes Legislativo, Ejecutivo y Judicial garantizarán su debida integración. Contra sus resoluciones no procederá juicio ni recurso alguno, pero aquellas que se dicten con posterioridad a la jornada electoral se estará a los términos del artículo 43 de esta Constitución. Para el ejercicio de sus funciones el Tribunal Estatal de lo Contencioso Electoral, estará integrado con tres Magistrados numerarios y dos supernumerarios, los cuales responderán sólo al mandato de la Ley.
-
-> <small>(REFORMADO, B.O. 14 DE JULIO DE 1995)</small>
-
-Los magistrados del Tribunal Estatal de lo Contencioso Electoral serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por los Poderes Ejecutivo y Judicial del Estado. Si dicha mayoría no se logra en la primera votación, se procederá a insacular de los candidatos propuestos, el número que corresponda de Magistrados. La ley señalará las reglas y procedimientos correspondientes.
-
-> <small>(ADICIONADO, B.O. 14 DE JULIO DE 1995)</small>
-
-Para ser Magistrado del Tribunal Estatal de lo Contencioso Electoral, se deberán cumplir los siguientes requisitos:
-
-I.- Ser ciudadano sudcaliforniano en pleno ejercicio de sus derechos políticos y civiles, y con residencia en el Estado de tres años;
-
-I (SIC).- No tener más de 65 años de edad, ni menos de 35 en la fecha de su elección;
-
-III.- Poseer el día de su elección, con una antigüedad mínima de cinco años, título profesional de Licenciado en Derecho, expedido por la autoridad o corporación legalmente facultada para ello;
-
-IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión en sentencia ejecutoria; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
-
-V.- No haber sido ministro de algún culto religioso; a menos que se haya separado formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección.
-
-VI.- No tener ni haber tenido cargo alguno de elección popular los cinco años anteriores al de su elección;
-
-VII.- No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún Partido Político en los cinco años anteriores al de su elección.
-
-VIII.- No ocupar cargo alguno en la administración pública estatal o municipal por lo menos dos años antes del día de la celebración de las elecciones, excepto los relativos en materia electoral o la docencia.
-
-IX.- Estar inscrito en el Padrón Electoral y poseer credencial para votar con fotografía.
+VI.- La Ley correspondiente tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que por ellos deban imponerse.
 
 37.- El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo, teniendo como base de su división territorial, de su organización política y administrativa, el Municipio Libre.
 
@@ -507,7 +481,9 @@ V.- Erigirse en Colegio Electoral para ejercer las atribuciones que la ley le se
 
 VI.- (DEROGADA, B.O. 14 DE JULIO DE 1995)
 
-VII.- (DEROGADA, B.O. 14 DE JULIO DE 1995)
+> <small>(ADICIONADA, B.O. 14 DE FEBRERO DE 1997)</small>
+
+VII.- Elegir a los Magistrados del Tribunal Estatal Electoral, en los términos del artículo 99 de esta Constitución;
 
 VIII.- Convocar a elecciones para Gobernador, en caso de falta absoluta de éste ocurrida dentro de los dos primeros años del período constitucional, conforme a lo establecido en este ordenamiento;
 
@@ -919,27 +895,31 @@ Este organismo que establezca el Congreso de la Unión conocerá de las inconfor
 
 ### CAPITULO III. DEL PODER JUDICIAL
 
-87.- Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del fuero común en los términos de esta Constitución.
+> <small>(REFORMADO, B.O. 14 DE FEBRERO DE 1997)</small>
+
+87.- Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia; en un Tribunal Estatal Electoral y Jueces del fuero común en los términos de esta Constitución.
 
 88.- Corresponde al Tribunal Superior de Justicia y Jueces del Estado la función jurisdiccional en los asuntos del fuero común, lo mismo que en los de orden federal, en los casos que expresamente se la concedan las leyes.
 
-> <small>(REFORMADO, B.O. 20 DE MAYO DE 1977)</small>
+> <small>(REFORMADO, B.O. 14 DE FEBRERO DE 1997)</small>
 
 89.- El desempeño de la función jurisdiccional corresponde a:
 
 I.- El Tribunal Superior de Justicia;
 
-II.- Los Jueces de Primera Instancia;
+II.- Tribunal Estatal Electoral;
 
-III.- Los Jueces Menores;
+III.- Los Jueces de Primera Instancia;
 
-IV.- Los Jueces de Paz;
+IV.- Los Jueces Menores;
 
-V.- Los Arbitros;
+V.- Los Jueces de Paz;
 
-VI.- El Jurado Popular; y
+VI.- Los Árbitros;
 
-VII.- Los demás funcionarios y auxiliares de la Administración de Justicia.
+VII.- El Jurado Popular; y
+
+VIII.- Los demás funcionarios y auxiliares de la administración de Justicia.
 
 > <small>(REFORMADO, B.O. 10 DE MARZO DE 1990)</small>
 
@@ -1017,11 +997,39 @@ X.- Conocer de la recusación conjunta de los Magistrados; y
 
 XI.- Las demás que le confiera esta Constitución y las leyes.
 
-98.- La ley orgánica del Poder Judicial regulará la forma de organización y funcionamiento del Tribunal Superior de Justicia y de los juzgados dependientes de éste y determinará los requisitos necesarios para ser juez.
+> <small>(REFORMADO, B.O. 14 DE FEBRERO DE 1997)</small>
 
-La misma ley normará la integración, organización y funcionamiento de los jurados.
+98.- La Ley Orgánica del Poder Judicial regulará la forma de organización y funcionamiento del Tribunal Superior de Justicia y de los Juzgados dependientes de éste y determinará los requisitos para ser Juez.
 
-99.- El Tribunal Superior de Justicia, oyendo la opinión del Gobernador del Estado, determinará el número de jueces que deberán establecerse, su lugar de residencia y su jurisdicción territorial.
+La misma Ley normará la integración, organización y funcionamiento de los Jurados.
+
+El Tribunal Superior de Justicia, oyendo la opinión del Gobernador del Estado, determinará el número de Jueces que deberán establecerse, su lugar de residencia y su jurisdicción territorial.
+
+> <small>(REFORMADO, B.O. 14 DE FEBRERO DE 1997)</small>
+
+99.- El Tribunal Estatal Electoral, tendrá la competencia y organización que determine la Ley, funcionará en pleno y resolverá en una sola instancia y sus sesiones serán públicas, a excepción de las que determine el propio Tribunal. Los Poderes Legislativo y Judicial garantizarán su debida integración. Para el ejercicio de sus funciones el Tribunal Estatal Electoral, estará integrado con tres Magistrados numerarios y dos supernumerarios, los cuales ejercerán el cargo por seis años y responderán sólo al mandato de la Ley. El Presidente del mismo será elegido de entre sus miembros, para ejercer la función por seis años.
+
+Los Magistrados del Tribunal Estatal Electoral, serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por el Tribunal Superior de Justicia del Estado. Si dicha mayoría no se logra en la primera votación, se procederá a insacular de los candidatos propuestos, el número que corresponda de Magistrados. La Ley señalará las reglas y procedimientos correspondientes.
+
+Para ser Magistrado del Tribunal Estatal Electoral, se deberán cumplir los siguientes requisitos:
+
+I.- Ser ciudadano sudcaliforniano en pleno ejercicio de sus derechos políticos y civiles, y con residencia en el Estado por tres años;
+
+II.- No tener más de 65 años de edad, ni menos de 35 en la fecha de su elección;
+
+III.- Poseer al día de su elección, con una antigüedad mínima de cinco años, título profesional de Licenciado en Derecho, expedido por la autoridad o corporación legalmente facultada para ello;
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión en sentencia ejecutoria; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+V.- No haber sido ministro de algún culto religioso; a menos que se haya separado formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de su elección;
+
+VI.- No tener ni haber tenido cargo alguno de elección popular cinco años anteriores al de su elección;
+
+VII.- No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los cinco años anteriores al de su elección;
+
+VIII.- No ocupar cargo alguno en la administración pública estatal o municipal por lo menos dos años del día de la celebración de las elecciones, excepto los relativos en materia electoral o la docencia; y
+
+IX.- Estar inscrito en el Padrón Electoral y poseer credencial para votar con fotografía.
 
 100.- Ningún funcionario judicial podrá tener ocupación o empleo diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
 
@@ -1479,9 +1487,9 @@ Las leyes determinarán las causas y circunstancias por las que se deba sanciona
 
 Cualquier ciudadano, mediante la presentación de elementos de prueba y bajo su más estricta responsabilidad, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a las que se refiere el presente Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE FEBRERO DE 1997)</small>
 
-158.- Podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador y el Subprocurador General de Justicia, el Contralor, el Revisor Fiscal, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones Asimiladas y los Presidentes de Juntas y del Tribunal de Conciliación y Arbitraje, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
+158.- Podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de fuero común, los Secretarios y Subsecretarios del Despacho, el Procurador y Subprocurador General de Justicia, el Contralor, el Revisor Fiscal, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, Presidentes de Juntas y Tribunal de Conciliación y Arbitraje, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -2044,3 +2052,9 @@ B.O. 22 DE OCTUBRE DE 1996.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 14 DE FEBRERO DE 1997.
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno de Estado de Baja California Sur.
+
+SEGUNDO: A más tardar el día 15 de Diciembre de 1997, se deberán realizar las adecuaciones a la legislación secundaria en la materia objeto del presente Decreto.
