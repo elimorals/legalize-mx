@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-18282"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-30"
-last_updated: "2000-10-30"
+last_updated: "2001-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2001.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Aguascalientes, el 30 de octubre de 2000.
 
@@ -575,13 +575,15 @@ Los partidos políticos se abstendrán de recibir aportaciones o donativos de ot
 
 ### CAPITULO III. De la Fiscalización
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 51.
 
 A efecto de fiscalizar el debido origen y destino de los recursos de los partidos políticos, el Consejo General del Instituto Estatal Electoral nombrará a una Comisión de Fiscalización de los Recursos, con la cual coadyuvará el despacho de auditores que el Instituto determine, mediante concurso y licitación pública.
 
-El Consejo General del Instituto Estatal Electoral establecerá los criterios que para tal efecto aplicará la Comisión de Fiscalización en materia de auditoría. Dicha Comisión, en consecuencia, realizará las auditorías y verificaciones procedentes y conocerá la documentación comprobatoria de los ingresos y egresos de los partidos políticos cuando éstos provengan del financiamiento público o privado, en términos de este Código.
+El Consejo General del Instituto Estatal Electoral establecerá los criterios que para tal efecto aplicará la Comisión de Fiscalización en materia de auditoría. Dicha comisión, en consecuencia, realizará las auditorías y verificaciones procedentes y conocerá la documentación comprobatoria de los ingresos y egresos de los partidos políticos cuando éstos provengan del financiamiento público o privado, en términos de este Código.
 
-Esta Comisión podrá auxiliarse con despachos profesionales de auditores externos. Los resultados de la auditoría serán comunicados en un término no mayor de 30 días, a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda del Congreso del Estado, a fin de que ésta emita el dictamen definitivo.
+Esta Comisión podrá auxiliarse con despachos profesionales de auditores externos.
 
 ###### ARTICULO 52.
 
@@ -2269,9 +2271,11 @@ Resto mayor de votos: Es el remanente de porcentajes deducidos los utilizados en
 
 IV.- A todos los partidos que hayan obtenido el 2.5% o más de la votación estatal se le asignará una diputación. En segundo término se asignará una diputación adicional a cada uno de los partidos políticos una vez deducido el 2.5% y que alcancen el cociente electoral. En tercer término se asignará una diputación adicional a cada uno de los partidos políticos cuyos porcentajes restantes una vez deducidos los porcentajes ya utilizados contengan el cociente rectificado. Si aún quedaren curules por repartir, éstas se asignarán utilizando los restos mayores.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 208.
 
-Todo partido político que obtenga el triunfo en la totalidad de los distritos uninominales, tendrá derecho a participar en la asignación de Diputados por el principio de representación proporcional, sin que pueda exceder de veinte, tomando en cuenta los asignados por ambos principios.
+Todo partido político tendrá derecho a participar en la asignación de Diputados por el principio de representación proporcional, sin que pueda exceder de dieciocho, tomando en cuenta los asignados por ambos principios.
 
 ###### ARTICULO 209.
 
@@ -2538,3 +2542,9 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 12 DE MARZO DE 2001.
+
+UNICO.- Las presente reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
