@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-en-materia-penal-del-estado-de-8128"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-15"
-last_updated: "2000-03-30"
+last_updated: "2004-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA PENAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE JULIO DE 2004.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 15 de diciembre de 1994.
 
@@ -345,7 +345,7 @@ Los testigos no podrán ser intérpretes.
 
 ###### ARTICULO 37.
 
-Al indiciado que se encuentre en las condiciones que se precisan en el artÍculo 34, desde el momento de su detención se le nombrará intérprete, quien deberá asistirlo en todos los actos procedimentales sucesivos y en la correcta comunicación que haya de tener con su defensor.
+Al indiciado que se encuentre en las condiciones que se precisan en el artículo 34, desde el momento de su detención se le nombrará intérprete, quien deberá asistirlo en todos los actos procedimentales sucesivos y en la correcta comunicación que haya de tener con su defensor.
 
 ###### ARTICULO 38.
 
@@ -791,7 +791,7 @@ Los representantes del Ministerio Público y los Secretarios de los juzgados o T
 
 Son también irrecusables, las autoridades ministeriales y judiciales a quien corresponda de acuerdo con esta ley, calificar la excusa o recusación.
 
-> <small>(REFORMADA SU DENOMUNACION, D.O. 30 DE MARZO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O. 30 DE MARZO DE 2000)</small>
 
 ## TITULO SEGUNDO. DE LA PRUEBA EN MATERIA PENAL
 
@@ -1529,7 +1529,9 @@ La detención por delito flagrante podrá realizarla cualquier persona, poniendo
 
 Habrá caso urgente cuando:
 
-a).- El indiciado haya intervenido en la comisión de alguno de los delitos señalados como graves en el artículo siguiente.
+> <small>(REFORMADO, D.O. 6 DE JULIO DE 2004)</small>
+
+a).- El indiciado haya intervenido en la comisión de alguno de los delitos señalados como graves en el artículo 13 del Código Penal del Estado de Yucatán.
 
 b).- Exista riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia; y,
 
@@ -3318,3 +3320,7 @@ SEGUNDO.- Se derogan las disposiciones de igual o menor rango que se opongan a e
 > <small>(F. DE E., D.O. 4 DE ABRIL DE 2000)</small>
 
 El Artículo 239 que se deroga, continuará aplicándose por hechos u omisiones cometidos hasta antes de la vigencia del presente decreto.
+
+D.O. 6 DE JULIO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el diario Oficial del Gobierno del Estado de Yucatán.
