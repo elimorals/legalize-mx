@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1997-04-21"
+last_updated: "1998-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1998.
 
 Código publicado en el Suplemento 6 del Periódico Oficial Número 34, el Jueves 30 de Julio de 1936.
 
@@ -2141,15 +2141,15 @@ Los hijos menores de edad, no emancipados, están bajo la patria potestad mientr
 
 La patria potestad se ejerce sobre la persona y los bienes de los hijos.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 367.
 
 La patria potestad sobre los hijos de matrimonio se ejerce:
 
-I. Por el padre y la madre;
+I. Por el padre y la madre; y,
 
-II. Por el abuelo y la abuela paternos;
-
-III. Por el abuelo y la abuela maternos.
+II. Por el abuelo y la abuela paternos, o por el abuelo y la abuela maternos, indistintamente, tomando en consideración con cuáles de ambos pueden tener los hijos mejor desarrollo moral, educativo, social, económico y familiar.
 
 ###### Artículo 368.
 
@@ -2165,15 +2165,17 @@ En los casos previstos en los artículos 335 y 336 si uno de los padres, por cua
 
 Si los padres de un hijo nacido fuera de matrimonio que viven juntos se separan, continuará ejerciendo la patria potestad, en caso de que no se pongan de acuerdo sobre ese punto, el progenitor que designe el Juez, teniendo siempre en cuenta los intereses del hijo.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 371.
 
-A falta del padre, ejercerán la patria potestad sobre el hijo reconocido, por su orden, los demás ascendientes a que se refieren las fracciones II y III del artículo 367.
+A falta del padre, ejercerán la patria potestad sobre el hijo reconocido, indistintamente, los ascendientes a que se refiere la fracción II del artículo 367, bajo las disposiciones ahí previstas.
 
-Sólo los adoptantes ejercerán la patria potestad sobre el hijo adoptivo.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 372.
 
-Unicamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores. Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que queda, continuará en el ejercicio de ese derecho.
+Unicamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores y, bajo las prevenciones que ahí se establecen. Si solo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede, continuará en el ejercicio de ese derecho.
 
 ###### Artículo 373.
 
@@ -14337,11 +14339,11 @@ XII. El testimonio de las informaciones ad-perpetuam promovidas y protocolizadas
 
 XIII. Las fianzas judiciales, cuidándose de anotar al margen de los registros que amparen bienes del fiador, la inscripción de la fianza;
 
-(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADA, P.O. 25 DE FEBRERO DE 1965)
 
 XIV. La demanda y el auto que la admite, cuando el negocio verse sobre alguna de las cuestiones a que se refiere la fracción I, debiendo, además, hacerse anotación al margen del registro del título del demandado;
 
-(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADA, P.O. 25 DE FEBRERO DE 1965)
 
 XV. Los demás títulos que la ley ordene expresamente que sean registrados.
 
@@ -14457,7 +14459,7 @@ IV. Cuando se declare la nulidad de la inscripción;
 
 V. Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto por el artículo 2177;
 
-VI. (DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+VI. (DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADA, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 2857.
 
@@ -14710,3 +14712,9 @@ Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 P.O. 21 DE ABRIL DE 1997.
 
 UNICO.- El presente decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
