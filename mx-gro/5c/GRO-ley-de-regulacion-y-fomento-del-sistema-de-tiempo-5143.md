@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-regulacion-y-fomento-del-sistema-de-tiempo-5143"
 country: "mx"
 rank: "ley"
 publication_date: "1989-11-03"
-last_updated: "1990-03-09"
+last_updated: "1990-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5143&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE REGULACION Y FOMENTO DEL SISTEMA DE TIEMPO COMPARTIDO DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO 1990.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 3 de noviembre de 1989.
 
@@ -103,6 +103,10 @@ A falta de disposición expresa de esta Ley, se aplicará supletoriamente el Có
 
 Queda prohibido efectuar cualquier clase de promoción o campaña publicitaria que tenga una policitación de ventas de tiempo compartido, así como celebrar cualesquiera clase de actos jurídicos, incluyendo contratos, tendientes a la creación o transmisión de derechos de tiempo compartido, tales como contratos preparatorios, de promesa de venta, de preventa, de reservación, de ofertas de venta o compra, o cualesquiera otros similares, sin que previamente se haya constituido el Sistema de Tiempo Compartido con sujeción a esta Ley y, en su caso, otorgar las garantías que en los artículos siguientes se establecen.
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 1990)</small>
+
+Sólo podrán hacerlo aquellas personas que tengan a su cargo la promoción, publicidad de ofrecimiento de la celebración de los contratos o actos jurídicos a que se refiere el párrafo anterior, podrán hacerlo en los sitios y con las modalidades que expresamente autoricen las autoridades estatales y municipales conforme a las disposiciones vigentes a efecto de evitar molestias a terceros y observar cabalmente lo establecido en esta Ley.
+
 ###### ARTICULO 10.
 
 Queda estrictamente prohibido vender derechos de tiempo compartido por plazos que excedan al de la afectación del inmueble al Sistema de Tiempo Compartido establecido en la escritura constitutiva.
@@ -130,6 +134,10 @@ Dichos actos jurídicos deberán inscribirse en el Registro Público de la Propi
 ###### ARTICULO 14.
 
 Para lo prevenido en el Artículo anterior el notario público exigirá al declarante que exhiba los siguientes documentos, sin perjuicio de lo que prescriban otras leyes:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE JULIO DE 1990)</small>
+
+Así como la presentación del formulario respectivo en el que demuestre que su domicilio fiscal se encuentra ubicado en el Estado de Guerrero.
 
 I.- El título de propiedad del inmueble debidamente inscrito en el Registro Público de la Propiedad. En el caso de que el inmueble estuviere gravado o tuviere limitaciones de dominio el acreedor o cualquier interesado deberá otorgar su consentimiento en escritura pública;
 
@@ -722,3 +730,9 @@ Rúbrica.
 P.O. 9 DE MARZO DE 1990.
 
 UNICO.- El presente Decreto de Reformas y Adiciones a la Ley de Regulación y Fomento del Sistema de Tiempo Compartido del Estado de Guerrero entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE JULIO DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
