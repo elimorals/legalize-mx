@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1994-12-21"
+last_updated: "1995-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE DICIEMBRE DE 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE MAYO DE 1995.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -383,11 +383,13 @@ Las resoluciones del Tribunal Electoral del Estado a que se refiere el segundo p
 
 El Congreso no puede abrir sus sesiones ni ejercer su cargo sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la Ley y compeler a los ausentes a que concurran bajo las penas que la misma Ley designe, y, en su caso, llamar a los respectivos suplentes a fin de que funcionen mientras se presentan los propietarios.
 
-> <small>(REFORMADO, D.O. 24 DE ABRIL DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE MAYO DE 1995)</small>
 
 ###### Artículo 27.
 
-El Congreso tendrá cada año tres períodos de sesiones ordinarias que durarán el tiempo que sea necesario para tratar los asuntos que se le presenten y comenzarán a partir del 16 de julio, del 16 de noviembre y del 16 de marzo y sin que los mismos puedan prolongarse más que hasta el 15 de septiembre, el 15 de enero del año siguiente y 15 de mayo. Este último período podrá ampliarse hasta el 30 de junio de los años en que el Congreso se constituya en Colegio Electoral.
+El Congreso tendrá cada año tres períodos ordinarios de sesiones que durarán el tiempo que sea necesario para tratar los asuntos que se le presenten y comenzarán a partir del 1 de julio, del 16 de noviembre y del 16 de marzo y sin que los mismos puedan prolongarse más que hasta el 31 de agosto, 15 de enero y 15 de mayo. El último período podrá ampliarse hasta el 30 de junio de los años en que el Congreso concluya su ejercicio legal.
+
+> <small>(REFORMADO, D.O. 24 DE ABRIL DE 1993)</small>
 
 En sus períodos de sesiones ordinarias, el Congreso se ocupará del estudio, discusión y votación de las iniciativas de las leyes que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a esta Constitución y en los términos que señala su Ley Orgánica.
 
@@ -491,7 +493,7 @@ XV.- expedir Leyes sobre Educación Pública, con sujeción a las bases siguient
 
 > <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
-a) La educación que imparta el Estado será: Nacionalista, Democrática y tendiente a abolir la distinción social entre los individuos, sin hostilidades ni exclusivismos, procurando siempre el máximo aprovechamiento de nuestros recursos, en ejemplificante conducta de amor a la nación; la defensa de nuestra independencia política; el aseguramiento de nuestra independencia económica y, la continudad (sic) y acrecentamiento de nuestra cultura y, además de excluir toda doctrina religiosa combatirá el fanatismo y los perjuicios, para lo cual la escuela organizará sus enseñanzas y actividades en los términos establecidos por el artículo tercero de la Constitución General de la República.
+a) la educación que imparta el Estado será: Nacionalista, Democrática y tendiente a abolir la distinción social entre los individuos, sin hostilidades ni exclusivismos, procurando siempre el máximo aprovechamiento de nuestros recursos, en ejemplificante conducta de amor a la nación; la defensa de nuestra independencia política; el aseguramiento de nuestra independencia económica y, la continudad (sic) y acrecentamiento de nuestra cultura y, además de excluir toda doctrina religiosa combatirá el fanatismo y los perjuicios, para lo cual la escuela organizará sus enseñanzas y actividades en los términos establecidos por el artículo tercero de la Constitución General de la República.
 
 b) no podrán funcionar planteles particulares de educación sin haber obtenido previamente, en cada caso, la autorización expresa del Poder Público;
 
@@ -615,7 +617,7 @@ XLII.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 1994)
 
 > <small>(REFORMADA, D.O. 12 DE MARZO DE 1993)</small>
 
-XLIII.- Convocar a elecciones extraordinarias en el Distrito Electoral que fuera necesario, con objeto de cubrir las vacantes de sus miembros propietarios y suplentes electos por el principio de mayoría relativa, en los plazos y términos que disponga la ley y la convocatoria respectiva;
+XLIII.- Convocar a elecciones extraordinarias en el Distrito Electoral que fuera necesario, con objeto de cubrir las vacantes de sus miembros propietarios y suplentes electos por el principio de mayoría relativa, en los plazos y términos que disponga la ley y la convocatoria respectiva,
 
 > <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1989)</small>
 
@@ -2103,10 +2105,14 @@ D.O. 16 DE DICIEMBRE DE 1994.
 
 PRIMERO.- Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
 
-SEGUNDO.- Para la aplicación de las reformas al segundo párrafo del Artículo 21 de nuestra Carta Magna y por esta única ocasión el H. Congreso del Estado determinará el ámbito territorial de los distritos electorales dentro de los treinta días siguientes a la vigencia del presente decreto
+SEGUNDO.- Para la aplicación de las reformas al segundo párrafo del Artículo 21 de nuestra Carta Magna y por esta única ocasión el H. Congreso del Estado determinará el ámbito territorial de los distritos electorales dentro de los treinta días siguientes a la vigencia del presente decreto.
 
 D.O. 21 DE DICIEMBRE DE 1994.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 31 DE MAYO DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
