@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-861
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-08-27"
-last_updated: "1997-04-30"
+last_updated: "1997-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8619&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-08-26"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE AGOSTO DE 1997.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el martes 27 de agosto de 1996.
 
@@ -179,9 +179,19 @@ V. Resolver las discrepancias que se susciten en el ámbito administrativo con m
 
 VI. Fungir como coordinador de sector respecto de las entidades paraestatales agrupadas en la Procuraduría;
 
-VII. Expedir acuerdos, circulares, instructivos, manuales de organización, procedimientos y de servicios al público, necesarios para el mejor funcionamiento de la Institución, en su caso, ordenar su publicación, y
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 1997)</small>
 
-VIII. Las demás que con este carácter le confieran otras disposiciones.
+VII. Expedir acuerdos, circulares, instructivos, manuales de organización, de procedimientos y de servicios al público, necesarios para el mejor funcionamiento de la Institución y, en su caso, ordenar su publicación;
+
+> <small>(ADICIONADA, D.O.F. 13 DE AGOSTO DE 1997)</small>
+
+VIII. Determinar mediante acuerdo, los ámbitos en que las Subprocuradurías de Procedimientos Penales “A”, “B” y “C” ejercerán sus funciones;
+
+> <small>(ADICIONADA, D.O.F. 13 DE AGOSTO DE 1997)</small>
+
+IX. Determinar mediante acuerdo, la distribución de los asuntos que corresponda conocer a los Comités de Zona, a que se refiere el artículo 41 de la Ley Orgánica de la Procuraduría General de la República, y
+
+X. Las demás que con este carácter le confieran otras disposiciones.
 
 ### CAPÍTULO TERCERO. FACULTADES GENÉRICAS DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -929,13 +939,179 @@ El Consejo General se auxiliará de los consejos técnicos de Evaluación; de Pr
 
 El Procurador determinará mediante acuerdos la integración, facultades y funcionamiento de los Consejos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 1997)</small>
 
 ###### Artículo 52.
 
-El Consejo de Profesionalización del Ministerio Público de la Federación estará integrado por el Procurador General de la República; el Subprocurador de Coordinación General y Desarrollo; el Subprocurador Jurídico y de Asuntos Internacionales; y los Subprocuradores de Procedimientos Penales “A”, “B” y “C”; el Fiscal Especializado para la Atención de Delitos contra la Salud; el Oficial Mayor; el Visitador General; el Contralor Interno; el Director General de Planeación y Operación de la Policía Judicial Federal; el Director General del Instituto de Capacitación y el Director General del Instituto Nacional de Ciencias Penales. Además, el Procurador designará a tres Agentes del Ministerio Público de la Federación, dos Agentes de la Policía Judicial Federal y dos peritos, que deberán cumplir con los requisitos señalados en las fracciones VII, VIII y IX del artículo 40 de la Ley Orgánica de la Procuraduría General de la República. Será la instancia normativa de supervisión, control y evaluación del Servicio Civil de Carrera.
+El Consejo de Profesionalización del Ministerio Público de la Federación estará integrado por:
 
-Los Comités de Zona se integrarán por el Subprocurador de Procedimientos Penales correspondiente; representantes del Procurador y del Subprocurador de Coordinación General y Desarrollo; por el Director General de lo Contencioso y Consultivo en representación del Subprocurador Jurídico y de Asuntos Internacionales; representantes del Oficial Mayor; del Contralor Interno; y del Visitador General; tres delegados de la zona correspondiente y dos Agentes del Ministerio Público de la Federación; de la Policía Judicial Federal y de los Peritos que el Consejo de Profesionalización determine. Dichos Comités auxiliarán en la ejecución de las normas del Servicio Civil de Carrera y ejercerán las facultades que señala la fracción II del artículo 52 y el recurso de rectificación a que se refiere el tercer párrafo del artículo 58 de la Ley.
+I.- El Procurador General de la República;
+
+II.- El Subprocurador de Coordinación General y Desarrollo;
+
+III.- El Subprocurador Jurídico y de Asuntos Internacionales;
+
+IV.- Los Subprocuradores de Procedimientos Penales "A", "B" y "C";
+
+V.- El Fiscal Especializado para la Atención de Delitos contra la Salud;
+
+VI.- El Oficial Mayor;
+
+VII.- El Contralor Interno;
+
+VIII.- El Visitador General;
+
+IX.- El Director General de Planeación y Operación de la Policía Judicial Federal;
+
+X.- El Director General del Instituto de Capacitación;
+
+XI.- El Director General del Instituto Nacional de Ciencias Penales;
+
+XII.- Tres Agentes del Ministerio Público de la Federación de reconocido prestigio profesional, buena reputación y desempeño excelente en la Institución, designados por el Procurador;
+
+XIII.- Dos Agentes de la Policía Judicial Federal de reconocido prestigio profesional, buena reputación y desempeño excelente en la corporación, designados por el Procurador, y
+
+XIV.- Dos Peritos de los servicios periciales, de reconocido prestigio, buena reputación y desempeño excelente en este órgano auxiliar, designados por el Procurador.
+
+Los miembros del Consejo serán suplidos en sus ausencias en los términos previstos por el artículo 56 de este Reglamento.
+
+El Consejo de Profesionalización del Ministerio Público de la Federación será la instancia normativa, de supervisión, control y evaluación de la operación del Servicio Civil de Carrera y tendrá a su cargo las atribuciones señaladas en los artículos 39 a 49 de la Ley Orgánica de la Procuraduría General de la República y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 1997)</small>
+
+###### ARTICULO 52
+
+bis. El Consejo de Profesionalización del Ministerio Público de la Federación funcionará de conformidad con las bases siguientes:
+
+I.- El Consejo será presidido por el Procurador General de la República, quien tendrá las facultades siguientes:
+
+a) Presidir y dirigir las sesiones del Consejo;
+
+b) Representar al Consejo ante cualquier autoridad judicial o administrativa, para todos los efectos a que haya lugar;
+
+c) Rendir los informes previos y justificados en los juicios de amparo en que se señale como autoridad responsable al Consejo;
+
+d) Acordar la convocatoria a sesiones del Consejo;
+
+e) Proponer al Consejo la integración de comisiones de estudio y opinión sobre determinados asuntos que por su naturaleza lo requieran;
+
+f) Invitar a las sesiones del Consejo, con voz pero sin voto, a personas que por sus funciones, conocimientos, experiencia, prestigio o interés en el tema, se estime que puedan coadyuvar en sus tareas, y
+
+g) Las demás que sean necesarias para el buen funcionamiento del Consejo;
+
+II.- El Secretario Técnico del Consejo tendrá las facultades siguientes:
+
+a) Formular las convocatorias a sesiones del Consejo, previo acuerdo de su Presidente;
+
+b) Integrar los expedientes de los asuntos que deban ser tratados en el seno del Consejo;
+
+c) Dar seguimiento a los acuerdos y resoluciones del Consejo e informar a éste sobre su cumplimiento;
+
+d) Substanciar el recurso de rectificación a que se refiere el artículo 55 de la Ley Orgánica de la Procuraduría General de la República, así como formular y proponer al Consejo el proyecto de resolución;
+
+e) Desahogar los requerimientos que las autoridades judiciales formulen al Consejo, incluyendo las sentencias de amparo;
+
+f) Desempeñar las comisiones y asuntos que les sean encomendados por el Consejo o su Presidente;
+
+g) Registrar los asuntos, acuerdos y resoluciones del Consejo, así como conservar su archivo, y
+
+h) Las demás que le otorguen el Presidente del Consejo;
+
+III.- Para que las sesiones del Consejo sean válidas, se requerirá la presencia de la mitad más uno de sus miembros;
+
+IV.- El Consejo sesionará las veces que resulte necesario, previo acuerdo de su Presidente;
+
+V.- Las convocatorias serán realizadas por el Secretario Técnico del Consejo;
+
+VI.- Las decisiones del Consejo se tomarán por mayoría de votos de los miembros presentes. En caso de empate el Presidente tendrá voto de calidad, y
+
+VII.- De las resoluciones del Consejo se levantará acta por escrito que será firmada por el Presidente y el Secretario Técnico.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 1997)</small>
+
+###### ARTICULO 52
+
+bis-1. Los Comités de Zonas se integrarán por:
+
+I.- El Subprocurador de Procedimientos Penales responsable de la Zona;
+
+II.- Un representante del Procurador General de la República;
+
+III.- Un representante del Subprocurador de Coordinación General y Desarrollo;
+
+IV.- Un representante del Subprocurador Jurídico y de Asuntos Internacionales;
+
+V.- Un representante del Oficial Mayor;
+
+VI.- Un representante del Contralor Interno;
+
+VII.- Un representante del Visitador General;
+
+VIII.- Dos delegados de la Zona correspondiente, y
+
+IX.- El número de agentes del Ministerio Público de la Federación, de la Policía Judicial Federal y Peritos que determine el Consejo de Profesionalización del Ministerio Público de la Federación.
+
+Los Comités de Zona auxiliarán al Consejo de Profesionalización del Ministerio Público de la Federación en la ejecución de las normas del Servicio Civil de Carrera y ejercerán las atribuciones que les confieren los artículos 52, fracción II, y 58, párrafo último, de la Ley Orgánica de la Procuraduría General de la República y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 13 DE AGOSTO DE 1997)</small>
+
+###### ARTICULO 52
+
+bis-2. El funcionamiento de los Comités de Zona se sujetará a las bases siguientes:
+
+I.- Los Comités de Zona serán presididos por el Subprocurador responsable de la Zona o, en sus ausencias, por quien designe el Comité de entre los miembros a que se refieren las fracciones II a IV del artículo anterior. El Presidente del Comité tendrá las facultades siguientes:
+
+a) Presidir y dirigir las sesiones del Comité;
+
+b) Representar al Comité ante cualquier autoridad judicial o administrativa, para todos los efectos a que haya lugar;
+
+c) Rendir los informes previos y justificados en los juicios de amparo en que se señale como autoridad responsable al Comité;
+
+d) Designar al Secretario Técnico del Comité;
+
+e) Acordar la convocatoria a sesiones del Comité;
+
+f) Proponer al Comité la designación de secretarios encargados de instruir los procedimientos de remoción y los recursos de rectificación, en términos de lo dispuesto por los artículos 52, fracción II, 54 y 58, párrafo último, de la Ley Orgánica de la Procuraduría General de la República y demás disposiciones aplicables, y
+
+g) Las demás necesarias para el buen funcionamiento del Comité;
+
+II.- El Secretario Técnico del Comité tendrá las facultades siguientes:
+
+a) Formular las convocatorias a sesiones del Comité, previo acuerdo de su Presidente;
+
+b) Integrar los expedientes de los asuntos que deban ser tratados en el seno del Comité;
+
+c) Dar seguimiento a los acuerdos y resoluciones del Comité e informar a éste sobre su cumplimiento;
+
+d) Desahogar los requerimientos que las autoridades judiciales formulen al Comité, incluyendo las sentencias de amparo;
+
+e) Desempeñar las comisiones y asuntos que le sean encomendados por el Comité o su Presidente;
+
+f) Registrar los asuntos, acuerdos y resoluciones del Comité, así como conservar su archivo, y
+
+g) Las demás que le otorgue el Presidente del Comité;
+
+III.- Para que las sesiones de los Comités de Zona sean válidas se requiere la presencia de la mitad más uno de sus miembros;
+
+IV.- Los Comités de Zona sesionarán las veces que resulte necesario, previo acuerdo de su Presidente;
+
+V.- Las convocatorias serán realizadas por el Secretario Técnico;
+
+VI.- Las decisiones de los Comités se tomarán por mayoría de los miembros presentes. En caso de empate el Presidente tendrá voto de calidad;
+
+VII.- Los procedimientos de remoción por cualquier causa a que se refieren los artículos 52, fracción II, y 54 de la Ley Orgánica de la Procuraduría General de la República, serán instruidos por secretarios instructores designados por el Comité de Zona, que tendrán las facultades siguientes:
+
+a) Recibir las peticiones de inicio de procedimiento de remoción y citar a los presuntos responsables para que comparezcan a la audiencia en los términos a que se refiere el artículo 54, de la Ley Orgánica de la Procuraduría General de la República;
+
+b) Desahogar la audiencia, en la que se acordará la admisión o desechamiento de las pruebas que se ofrezcan y presenten; se desahogaran las que hubieren sido admitidas y se recibirán los alegatos;
+
+c) Formular y someter al Comité de Zona el proyecto de resolución respectivo, y
+
+d) Las demás que determine el Procurador mediante acuerdo o el Comité de Zona;
+
+VIII.- Los recursos de rectificación a que se refiere el artículo 58, párrafo último, de la Ley Orgánica de la Procuraduría General de la República serán instruidos por los secretarios a que se refiere la fracción anterior, quienes acordarán la admisión o desechamiento de los mismos y, en su caso, someterán al Comité el proyecto de resolución respectivo, y
+
+IX.- De las resoluciones del Comité se levantará acta por escrito que será firmada por el Presidente, el Secretario Técnico y, en su caso, el Secretario Instructor.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1997)</small>
 
@@ -1034,3 +1210,11 @@ QUINTO.- Los Agentes del Ministerio Público de la Federación, de la Policía J
 SEXTO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en el Instituto Nacional para el Combate a las Drogas, quedarán a cargo de la Fiscalía Especializada para la Atención de Delitos contra la Salud.
 
 SÉPTIMO.- Las referencias que los acuerdos, circulares, instructivos y demás disposiciones administrativas hagan al Instituto Nacional para el Combate a las Drogas, se entenderán a la Fiscalía Especializada para la Atención de Delitos contra la Salud.
+
+D.O.F. 13 DE AGOSTO DE 1997.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. En tanto entra en vigor el artículo 2 del Reglamento de la Ley Orgánica de la Procuraduría General de la República, en lo referente a las Subprocuradurías de Procedimientos Penales "A", "B" y "C", habrá dos Comités de Zona. El Procurador General de la República determinará mediante acuerdo, el Subprocurador que presidirá cada uno y la distribución de asuntos de los que deban conocer dichos Comités.
+
+TERCERO. Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
