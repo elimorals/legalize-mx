@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2004-10-29"
+last_updated: "2005-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -635,7 +635,7 @@ IX. Por la omisión reiterada en el cumplimiento de sus obligaciones;
 
 X. Por llevar a cabo conductas ilícitas en contra del Ayuntamiento, y
 
-XI. Los demás análogas igualmente graves que hagan imposible el desempeño de sus funciones.
+XI. Los demás análogas (sic) igualmente graves que hagan imposible el desempeño de sus funciones.
 
 La Legislatura por acuerdo de las dos terceras partes de sus miembros declarará la suspensión, inhabilitación o revocación de un miembro del Ayuntamiento, siempre y cuando este haya tenido la oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
@@ -941,6 +941,10 @@ Para los casos no previstos en esta Ley será aplicable en lo conducente la Ley 
 
 Para la asistencia social y el desarrollo integral de la familia, en cada municipio existirá un organismo público descentralizado, que presidirá la persona que designe el Presidente Municipal pudiendo ser el cónyuge.
 
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2005)</small>
+
+Para la atención de los asuntos de los jóvenes, en cada municipio existirá un organismo público descentralizado, que presidirá la persona que designe el Ayuntamiento y que deberá ser un ciudadano no mayor de 25 años.
+
 ### CAPÍTULO OCTAVO. DEL SERVICIO CIVIL DE CARRERA
 
 ###### ARTICULO 64.
@@ -1165,7 +1169,7 @@ Los ayuntamientos están obligados, preferentemente, a adquirir predios circunda
 
 ###### ARTICULO 84.
 
-Cuando la administración pública municipal no pueda ejecutar por si obras públicas municipales y deba contratar o concesionar su ejecución o administración a particulares, o requiera la elaboración de proyectos de obras por éstos, someterá las solicitudes a concurso público, observando las normas de las ley de la materia y el reglamento respectivo.
+Cuando la administración pública municipal no pueda ejecutar por si obras públicas municipales y deba contratar o concesionar su ejecución o administración a particulares, o requiera la elaboración de proyectos de obras por éstos, someterá las solicitudes a concurso público, observando las normas de las (sic) ley de la materia y el reglamento respectivo.
 
 ### CAPÍTULO SEXTO. DE LAS CONCESIONES, LICENCIAS Y PERMISOS
 
@@ -1345,7 +1349,7 @@ III. Los bienes mencionados en este precepto pasarán a formar parte del dominio
 
 ###### ARTICULO 98.
 
-Los bienes de dominio público del municipios son inalienables, imprescriptibles, inembargables, no se podrán ejercer acciones restitutorias respecto de los mismos y solo podrán ser objeto de gravamen de conformidad con lo establecido en las leyes y los reglamentos.
+Los bienes de dominio público del municipios (sic) son inalienables, imprescriptibles, inembargables, no se podrán ejercer acciones restitutorias respecto de los mismos y solo podrán ser objeto de gravamen de conformidad con lo establecido en las leyes y los reglamentos.
 
 Los derechos de tránsito, vistas, luces y otros semejantes, se regirán por las leyes y reglamentos administrativos; y los permisos o concesiones otorgadas por la autoridad municipal sobre esta clase de bienes, tendrán siempre el carácter de revocables.
 
@@ -1731,7 +1735,7 @@ Las notificaciones podrán hacerse personalmente, por cédula o por edicto, en l
 
 El ayuntamiento deberá tomar en cuenta para la resolución de los recursos, las pruebas que se aporten en los términos del Código de Procedimientos Civiles y los argumentos expuestos por el inconforme en la promoción respectiva.
 
-Si por naturaleza de las pruebas el término para la resolución del recurso interpuesto resulta insuficiente, se podrá ampliar en el lapso que se estime necesario, únicamente para el efecto de desahogar las pruebas sin que este pueda ser mayor a quince día hábiles.
+Si por naturaleza de las pruebas el término para la resolución del recurso interpuesto resulta insuficiente, se podrá ampliar en el lapso que se estime necesario, únicamente para el efecto de desahogar las pruebas sin que este pueda ser mayor a quince días hábiles.
 
 ###### ARTICULO 144.
 
@@ -2060,3 +2064,17 @@ P.O. 29 DE OCTUBRE DE 2004.
 Artículo Primero.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 1 DE ABRIL DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos deberán presentar, dentro de los siguientes treinta días contados a partir de la entrada en vigor de la presente Ley, a la Legislatura del Estado para su aprobación, la iniciativa para crear los Institutos Municipales.
