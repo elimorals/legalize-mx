@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-integral-de-seguridad-publica-del-estado-de-330
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-30"
-last_updated: "2003-07-30"
+last_updated: "2005-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA INTEGRAL DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 30 de julio de 2003.
 
@@ -221,7 +221,7 @@ III. El Secretario de Gobierno;
 
 IV. El Procurador General de Justicia; y
 
-V. El Consejo Permanente del Consejo Estatal de Seguridad Pública.
+V. (DEROGADA, P.O. 16 DE MARZO DE 2005)
 
 ###### Artículo 15.
 
@@ -373,9 +373,11 @@ Los elementos auxiliares de seguridad pública y de seguridad privada contemplad
 
 Será responsabilidad del Colegio Estatal de Seguridad Pública, determinar las modalidades para certificar a los auxiliares de seguridad pública.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### Artículo 35.
 
-La Secretaría de Gobierno aportará a la Coordinación General Ejecutiva del Consejo Estatal de Seguridad Pública la información relativa al registro del personal y equipo de los auxiliares de seguridad pública a que se refiere el artículo 24 de la presente Ley, y en general proporcionar la información estadística y sobre la delincuencia que aporte datos relevantes para una mejor coordinación en materia de seguridad pública.
+La Secretaría de Gobierno aportará al Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública la información relativa al registro del personal y equipo de los auxiliares de seguridad pública a que se refiere el artículo 24 de la presente Ley, y en general proporcionar la información estadística y sobre la delincuencia que aporte datos relevantes para una mejor coordinación en materia de seguridad pública.
 
 ### CAPÍTULO V. DE LA COMPETENCIA
 
@@ -399,7 +401,7 @@ I. Formular, conducir y evaluar las políticas de Seguridad Pública Municipal;
 
 II. Regular a través de sus ordenamientos jurídicos respectivos, las acciones relativas a la seguridad pública y aquellas que no siendo tipificadas como delitos alteren el orden público o atenten las disposiciones de los bandos de policía y gobierno municipales; y
 
-III. Fomentar la aplicación de las tecnologías avanzadas, equipos y procesos que hagan eficiente la actividad de sus corporaciones, la integridad de sus elementos, las comunicaciones, y la atención a la ciudadanía, acorde a su capacidades presupuestales, con pleno respeto a los derechos humanos.
+III. Fomentar la aplicación de las tecnologías avanzadas, equipos y procesos que hagan eficiente la actividad de sus corporaciones, la integridad de sus elementos, las comunicaciones, y la atención a la ciudadanía, acorde a sus capacidades presupuestales, con pleno respeto a los derechos humanos.
 
 ###### Artículo 39.
 
@@ -657,7 +659,9 @@ Corresponde a la Secretaría de Seguridad Pública conducir el proceso de consul
 
 El Programa Estatal de Seguridad Pública se publicará en el Periódico Oficial del Estado y se revisará anualmente.
 
-El Consejo Estatal de Seguridad Pública a través de su Coordinación General Ejecutiva, la Secretaría de Seguridad Pública y los presidentes municipales darán amplia difusión al programa, enfatizando la forma en que la población puede participar en el cumplimiento del mismo.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+El Consejo Estatal de Seguridad Pública a través de su Secretariado Ejecutivo, la Secretaría de Seguridad Pública y los presidentes municipales darán amplia difusión al programa, enfatizando la forma en que la población puede participar en el cumplimiento del mismo.
 
 ###### Artículo 64.
 
@@ -689,7 +693,9 @@ De igual manera, el Programa Municipal de Seguridad Pública de cada municipio d
 
 Los integrantes de las instituciones de seguridad pública, en todos sus niveles jerárquicos, y las unidades de adscripción serán sujetos de evaluación permanente, con el propósito de aplicar en forma expedita las medidas de refuerzo, ajuste y disciplina que sean necesarias.
 
-Una unidad de evaluación, que dependerá del Coordinador General Ejecutivo del Consejo Estatal de Seguridad Pública o del Consejo Municipal de Seguridad Pública respectivo, elaborará y actualizará permanentemente los registros sobre el grado de cumplimiento de los objetivos y las metas programáticas de cada unidad de adscripción y de su responsable. Estos registros se añadirán a la hoja de servicio.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+Una unidad de evaluación, que dependerá del Secretario Ejecutivo del Consejo Estatal de Seguridad Pública o del Consejo Municipal de Seguridad Pública respectivo, elaborará y actualizará permanentemente los registros sobre el grado de cumplimiento de los objetivos y las metas programáticas de cada unidad de adscripción y de su responsable. Estos registros se añadirán a la hoja de servicio.
 
 La unidad de evaluación utilizará una metodología, índices de gestión y unidades de medición uniformes.
 
@@ -837,7 +843,7 @@ VI. Incitar en cualquier forma, a la comisión de delitos o faltas administrativ
 
 VII. Cometer cualquier acto de indisciplina o abuso de autoridad en el servicio o fuera de él;
 
-VIII. Emitir o cumplir órdenes cuya ejecución constituye un delito; ante esta circunstancia el elemento que reciba la orden lo comunicará inmediatamente al Secretario del Consejo de Honor y Justicia o su homólogo en los ayuntamientos, quien atendiendo a las circunstancia podrá relevar al elemento hasta que se realice la investigación correspondiente;
+VIII. Emitir o cumplir órdenes cuya ejecución constituye un delito; ante esta circunstancia el elemento que reciba la orden lo comunicará inmediatamente al Secretario del Consejo de Honor y Justicia o su homólogo en los ayuntamientos, quien atendiendo a las circunstancias podrá relevar al elemento hasta que se realice la investigación correspondiente;
 
 IX. Permitir la participación de personas que se ostenten como policías sin serlo, en actividades que deban ser desempeñadas por miembros de la corporación o institución;
 
@@ -873,7 +879,7 @@ I. Inscribir a sus elementos y equipo en los registros estatal y nacional de seg
 
 II. Proporcionar a los elementos de las corporaciones de seguridad pública el acceso a los servicios y prestaciones que proporcionan el Instituto Mexicano del Seguro Social ó el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-III. Solicitar del personal, inmediatamente que cause baja del servicio, el arma, credencial, equipo, uniforme y divisa, que le hayan asignado para el desempeño del cargo;
+III. Solicitar del personal, inmediatamente que cause baja del servicio, el arma, credencial, equipo, uniforme y divisa que le hayan asignado para el desempeño del cargo;
 
 IV. Aplicar las medidas conducentes para mantener el orden y la disciplina de los elementos, conforme a esta Ley y a la reglamentación respectiva;
 
@@ -1063,7 +1069,9 @@ Los elementos que hayan recibido alguna de las condecoraciones a que se refiere 
 
 Las propuestas de estímulos o cualquier otro beneficio económico, se ajustarán al presupuesto anual correspondiente de cada corporación e institución de seguridad pública y se otorgarán a los elementos que se hayan distinguido por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficacia en el desempeño de sus funciones.
 
-Las propuestas hechas por el superior jerárquico serán sometidas a votación en sesión plenaria del Consejo Estatal o Municipal de Seguridad Pública; una vez aprobadas, el Coordinador General Ejecutivo la remitirá al Consejo de Honor y Justicia de la corporación o institución de seguridad pública correspondiente, para su ejecución.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+Las propuestas hechas por el superior jerárquico serán sometidas a votación en sesión plenaria del Consejo Estatal o Municipal de Seguridad Pública; una vez aprobadas, el Secretario Ejecutivo la remitirá al Consejo de Honor y Justicia de la corporación o institución de seguridad pública correspondiente, para su ejecución.
 
 ### CAPÍTULO IV. DE LOS REQUISITOS DE PERMANENCIA
 
@@ -1187,7 +1195,9 @@ Los Consejos Estatales, Regionales y Municipales, establecerán las bases y regl
 
 El Consejo Estatal de Seguridad Pública es un órgano colegiado que constituye la instancia superior de coordinación y consulta del Sistema Estatal de Seguridad Pública y cuyas atribuciones son:
 
-I. Designar a los Consejeros a que se refiere la fracción XVII del artículo 119 de la presente Ley;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+I. Designar a los Consejeros a que se refiere la fracción XIX del artículo 119 de la presente Ley;
 
 II. Participar en la elaboración de las políticas estatales y municipales de seguridad publica;
 
@@ -1225,15 +1235,17 @@ XVIII. Publicar y divulgar los acuerdos y resoluciones del propio Consejo; y
 
 XIX. Las demás que contribuyan al cumplimiento de sus objetivos.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### Artículo 119.
 
-El Consejo Estatal de Seguridad Pública está integrado por:
+El Consejo Estatal de Seguridad Pública estará integrado por:
 
 I. El Gobernador del Estado, quien lo presidirá;
 
 II. El Secretario de Seguridad Pública;
 
-III. El Coordinador General Ejecutivo, quien será designado por el Gobernador del Estado;
+III. El Secretario Ejecutivo, quien será designado por el Gobernador del Estado;
 
 IV. El Secretario de Gobierno;
 
@@ -1247,13 +1259,13 @@ VIII. El Secretario de Desarrollo Económico;
 
 IX. El Director de Protección Civil en el Estado;
 
-X. Seis Presidentes Municipales representantes de los Municipios del Estado;
+X. Seis presidentes municipales representantes de los Municipios del Estado;
 
 XI. El Presidente del Tribunal Superior de Justicia;
 
 XII. El Diputado Presidente de la Comisión de Asuntos de Seguridad Pública del Congreso Local;
 
-XIII. El Diputado Presidente de la Comisión de Justicia y Derechos Humanos del Congreso Local;
+XIII. El diputado Presidente de la Comisión de Justicia y Derechos Humanos del Congreso Local;
 
 XIV. El Comandante de la 24/a Zona Militar;
 
@@ -1261,27 +1273,27 @@ XV. El Delegado de la Procuraduría General de la República;
 
 XVI. El Delegado de la Secretaría de Seguridad Pública del Gobierno Federal o de la Policía Federal Preventiva en su caso;
 
-XVII. El Delegado de la Secretaría de Gobernación; y
+XVII. El Delegado de la Secretaría de Gobernación;
 
-XVIII. Hasta ocho representantes de los sectores productivos y sociales debidamente organizados, con amplia representación estatal o regional, así como los que a título personal representen algún sector de la población y que cumplan con los requisitos para ser consejero.
+XVIII. El Presidente de la Comisión Estatal de Derechos Humanos, y
 
-Los Consejeros considerados en las fracciones de la I a la X constituirán el Consejo Permanente y contarán para la determinación del quórum.
+XIX. Hasta ocho representantes de los sectores productivos y sociales debidamente organizados, con amplia representación estatal o regional, así como los que a título personal representen algún sector de la población y que cumplan con los requisitos para ser consejero.
 
-La designación de los consejeros a que se refiere la fracción X de este artículo, se deberá hacer buscando preferentemente la representación de las tres regiones del Estado existentes en materia de seguridad pública, procuración y administración de justicia; estos Consejeros durarán seis meses en el cargo, propiciando que, en su rotación, tengan acceso en la integración del Consejo todos los Presidentes Municipales del Estado.
+Todos los consejeros tendrán derecho a voz y voto, respecto de todos los asuntos que sean tratados en el seno del Consejo.
 
-Se reconocerá a los delegados de la Procuraduría General de la República, Secretaría de Seguridad Pública y Secretaría de Gobernación, así como al Comandante de la 24/a. Zona Militar, la capacidad jurídica para tomar parte en los acuerdos sobre coordinación y operativos conjuntos.
+La designación de los consejeros a que se refiere la fracción X de este artículo, se deberá hacer a través del Instituto de Desarrollo y Fortalecimiento Municipal, buscando preferentemente la representación de las tres regiones del Estado existentes en materia de seguridad pública, procuración y administración de justicia; estos Consejeros durarán seis meses en el cargo, propiciando que, en su rotación, tengan acceso en la integración del Consejo todos los Presidentes Municipales del Estado.
 
-A los consejeros permanentes corresponde el derecho de voto, además del de voz, respecto a los asuntos relativos a la totalidad de las atribuciones del Consejo Estatal de Seguridad Pública estipuladas en el artículo 118 de la presente Ley.
+Se reconoce a los delegados de la Procuraduría General de la República, Secretaría de Seguridad Pública y Secretaría de Gobernación, así como al Comandante de la 24/a. Zona Militar, la capacidad jurídica para tomar parte en los acuerdos sobre coordinación y operativos conjuntos.
 
-A los consejeros considerados en las fracciones XI a XVII corresponde el derecho de voz respecto a todos los asuntos y el de voto con relación a los temas de las atribuciones del Consejo Estatal de Seguridad Publica, estipuladas en las fracciones IX a XIX del artículo 118 de la presente Ley.
+El Presidente del Consejo podrá invitar a Secretarios de Despacho y a especialistas en la materia, quienes no serán considerados como miembros del consejo, y únicamente tendrán derecho a voz.
 
-El Presidente del Consejo podrá invitar a secretarios de despacho y especialistas, quienes tendrán derecho a voz.
+El cargo de consejero será honorífico, con excepción del Secretario Ejecutivo del Consejo.
 
-El cargo de consejero será honorario, con excepción del Coordinador General Ejecutivo del Consejo.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### Artículo 120.
 
-Para ser consejero en términos de la fracción XVII del artículo anterior se requiere:
+Para ser consejero en términos de la fracción XIX del artículo anterior se requiere:
 
 I. Tener representatividad estatal el organismo u organización proponente;
 
@@ -1291,9 +1303,11 @@ III. Obtener la aprobación del Consejo, mismo que se hará con base en la valor
 
 La resolución que emita el Consejo, ya sea de aprobación o rechazo a la solicitud, será inapelable.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### Artículo 121.
 
-Los miembros del Consejo a que se refiere la fracción XVII del artículo 119 de este ordenamiento, permanecerán en su cargo por un periodo no mayor de dos años dentro del Consejo Estatal, como representante de la organización que originalmente lo propuso, pudiendo ser designados para un periodo más, a propuesta de la misma organización.
+Los miembros del Consejo a que se refiere la fracción XIX del artículo 119 de este ordenamiento, permanecerán en su cargo por un periodo no mayor de dos años dentro del Consejo Estatal, como representante de la organización que originalmente lo propuso, pudiendo ser designados para un periodo más, a propuesta de la misma organización.
 
 ###### Artículo 122.
 
@@ -1317,9 +1331,13 @@ II. Promover y coordinar los programas y las acciones del Consejo con los distin
 
 III. Mantener las relaciones con el Consejo Nacional de Seguridad Pública, así como coordinar los programas y acciones pertinentes a esa instancia;
 
-IV. Convocar a través del Coordinador General Ejecutivo, las sesiones del Consejo, así corno conducir las mismas;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-V. Nombrar e instruir al Coordinador General Ejecutivo del Consejo para promover y vigilar el cumplimiento de los acuerdos del propio Consejo; y
+IV. Convocar a través del Secretario Ejecutivo, las sesiones del Consejo, así como conducir las mismas;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+V. Nombrar e instruir al Secretario Ejecutivo del Consejo para promover y vigilar el cumplimiento de los acuerdos del propio Consejo; y
 
 VI. Proponer al Consejo la instalación de comisiones especiales para estudiar y evaluar políticas y acciones en materia de seguridad pública.
 
@@ -1327,15 +1345,21 @@ VI. Proponer al Consejo la instalación de comisiones especiales para estudiar y
 
 El Presidente del Consejo será sustituido en sus ausencias por el Secretario de Seguridad Pública.
 
-### CAPÍTULO III. DE LA COORDINACIÓN GENERAL EJECUTIVA DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MARZO DE 2005)</small>
+
+### CAPÍTULO III. DEL SECRETARIADO EJECUTIVO DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
 
 ###### Artículo 126.
 
 En términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Particular del Estado de Morelos, en el Gobernador del Estado recae la atribución de establecer los métodos de coordinación con la Federación y los municipios en materia de Seguridad Pública.
 
-Para la atención de los procesos de participación ciudadana, a cargo del Consejo Estatal de Seguridad Pública, y demás actividades relativas, el Titular del Poder Ejecutivo se auxiliará de un servidor público que se denomina Coordinador Genera Ejecutivo del Consejo Estatal de Seguridad Pública.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
-Son funciones del Coordinador General Ejecutivo del Consejo:
+Para la atención de los procesos de participación ciudadana, a cargo del Consejo Estatal de Seguridad Pública, y demás actividades relativas, el Titular del Poder Ejecutivo se auxiliará de un servidor público que se denomina Secretario Ejecutivo del Consejo Estatal de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+Son funciones del Secretario Ejecutivo del Consejo:
 
 I. Colaborar en el proceso de consulta para la elaboración del Programa Estatal de Seguridad Pública;
 
@@ -1353,25 +1377,31 @@ VII. Informar anualmente al Consejo de sus actividades;
 
 VIII. Proponer al Consejo Estatal de Seguridad Pública los estudios especializados en materia de seguridad publica;
 
-IX. Ejercer la responsabilidad y dirección financiera, administrativa y operativa sobre la Coordinación General Ejecutiva del Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-X. Coadyuvar en el ejercicio de las atribuciones del Secretario Ejecutivo del Sistema Nacional de Seguridad Pública;
+IX.- Ejercer la responsabilidad y dirección financiera, administrativa y operativa sobre el Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública;
 
 XI. Apoyar a las corporaciones e instituciones de seguridad pública para que operen sus respectivos consejos de honor y justicia; y
 
 XII. Las demás que les confieran las normas jurídicas aplicables, que les asigne el Consejo o instruya el Presidente.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### Artículo 127.
 
-En el ejercicio de sus funciones la Coordinación General Ejecutiva del Consejo Estatal de Seguridad Pública promoverá en todo caso la participación ciudadana, a través de foros de consulta, buzones y reuniones de trabajo.
+En el ejercicio de sus funciones el Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública promoverá en todo caso la participación ciudadana, a través de foros de consulta, buzones y reuniones de trabajo.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### Artículo 128.
 
-La Coordinación General Ejecutiva del Consejo Estatal de Seguridad Pública se integrará por las unidades administrativas y operativas, el personal técnico, administrativo, de asesoría y apoyo que se requiera para el cumplimiento y buen desempeño de sus funciones, de conformidad con el presupuesto autorizado. Su organización y procedimientos específicos se establecerán en los manuales correspondientes.
+El Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública se integrará por las unidades administrativas y operativas, el personal técnico, administrativo, de asesoría y apoyo que se requiera para el cumplimiento y buen desempeño de sus funciones, de conformidad con el presupuesto autorizado. Su organización y procedimientos específicos se establecerán en los manuales correspondientes.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### Artículo 129.
 
-La Coordinación General Ejecutiva del Consejo Estatal de Seguridad Pública está obligada a mantener, de manera permanente, vinculación e intercambio de información con todos los integrantes del Sistema Estatal de Seguridad Pública; éstos, en el seno del Consejo Estatal de Seguridad Pública, harán periódica evaluación de los trabajos y eficiencia del Coordinador General Ejecutivo, pudiendo, en su caso, recomendar al Titular del Ejecutivo Estatal su remoción, fundando y motivando su propuesta.
+El Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública está obligada a mantener, de manera permanente, vinculación e intercambio de información con todos los integrantes del Sistema Estatal de Seguridad Pública; éstos, en el seno del Consejo Estatal de Seguridad Pública, harán periódica evaluación de los trabajos y eficiencia del Secretario Ejecutivo, pudiendo, en su caso, recomendar al Titular del Ejecutivo Estatal su remoción, fundando y motivando su propuesta.
 
 ### CAPÍTULO IV. DE LOS CONSEJOS REGIONALES
 
@@ -1465,15 +1495,19 @@ III. Levantar las minutas de trabajo que se desprendan de las sesiones ordinaria
 
 IV. Participar, a petición del Presidente del Consejo, en el cumplimiento y ejecución de los acuerdos en sesión del Consejo Municipal de Seguridad Pública;
 
-V. Hacer entrega de la minuta de trabajo levantada en cada sesión de Consejo al Coordinador General Ejecutivo del Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+
+V.- Hacer entrega de la minuta de trabajo levantada en cada sesión de Consejo al Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
 
 VI. Dar seguimiento a los acuerdos y resoluciones del Consejo; y
 
 VII. Informar a la población el estado que guarda la seguridad así como de las medidas y acciones que en esta materia se lleven a cabo en el municipio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### Artículo 137.
 
-El Consejo sesionará mensualmente a convocatoria del Presidente Municipal; en casos de urgencia, tendrá las sesiones extraordinarias que el Presidente estime necesarias, para lo cual convocará a todos los integrantes del Consejo con tres días de anticipación y por los conductos idóneos.
+El Consejo sesionará bimestralmente a convocatoria del Presidente Municipal; en casos de urgencia, tendrá las sesiones extraordinarias que el Presidente estime necesarias, para lo cual convocará a todos los integrantes del Consejo con tres días de anticipación y por los conductos idóneos.
 
 Al inicio de cada sesión, se pasará lista de asistencia, se verificará el quórum y se desarrollará la sesión conforme al orden del día.
 
@@ -1485,17 +1519,21 @@ Los acuerdos se tornarán por votación de la mayoría de los consejeros asisten
 
 En materia de seguridad pública la participación ciudadana es prioritaria, por lo que toda autoridad estatal o municipal estará obligada a proveer lo necesario para incluir la participación ciudadana en todas sus actividades. Con excepción de las acciones reservadas al sector público, la ciudadanía podrá participar organizadamente para una eficaz y oportuna prevención de conductas antisociales, para mejorar la procuración y administración de justicia y para lograr que la reinserción social de las delincuentes sea plena y sin restricciones, de conformidad con los programas aprobados en el seno del Consejo Estatal de Seguridad Pública, estableciendo al efecto los programas que este considere pertinentes, entre ellos la promoción de la denuncia anónima.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### Artículo 139.
 
-Los Municipios, con la coordinación del Coordinador General Ejecutivo del Consejo Estatal de Seguridad Pública, establecerán comités y programas de apoyo y cooperación voluntaria de la ciudadanía tendientes a la prevención de conductas antisociales en los ámbitos escolar, patrimonial, familiar, domiciliario y personal.
+Los Municipios, con la coordinación del Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, establecerán comités y programas de apoyo y cooperación voluntaria de la ciudadanía tendientes a la prevención de conductas antisociales en los ámbitos escolar, patrimonial, familiar, domiciliario y personal.
 
 ###### Artículo 140.
 
 La ciudadanía podrá participar en la elaboración de medidas para la vigilancia y seguridad de la población que auxilien a los cuerpos de seguridad pública a través de los comités de participación ciudadana que se describen en el siguiente artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### Artículo 141.
 
-El Consejo Estatal de Seguridad Publica del Estado de Morelos, a través de su Coordinación General Ejecutiva, apoyará al Secretario Técnico del Consejo Municipal de Seguridad Pública y promoverán la integración de Comités de Consulta y Participación Ciudadana, que estarán vinculados con el propio Consejo y con los Consejos Municipales de Seguridad Pública, siendo estos los siguientes:
+El Consejo Estatal de Seguridad Pública del Estado de Morelos, a través de su Secretariado Ejecutivo, apoyará al Secretario Técnico del Consejo Municipal de Seguridad Pública y promoverán la integración de Comités de Consulta y Participación Ciudadana, que estarán vinculados con el propio Consejo y con los Consejos Municipales de Seguridad Pública, siendo éstos los siguientes:
 
 I. Comité Municipal de Consulta y Participación Ciudadana en Seguridad Pública: Son agrupaciones de personas físicas y representantes de personas morales integrantes de la sociedad, representativas del municipio y coordinados por el Secretario Técnico del Consejo Municipal de Seguridad Pública.
 
@@ -1561,9 +1599,11 @@ Se exceptúa el acceso a la información a los prestadores de los servicios de s
 
 A fin de que se integre al Sistema Estatal de Información sobre Seguridad Pública, la Secretaría de Seguridad Pública, promoverá la celebración de convenios con los ayuntamientos de Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### Artículo 147.
 
-El Centro Estatal de Información Sobre Seguridad Pública es una unidad administrativa responsable de información y estadística dependiente de la Coordinación General Ejecutiva y estará obligada a informar al Consejo Estatal de Seguridad Pública de sus actividades.
+El Centro Estatal de Información Sobre Seguridad Pública es una unidad administrativa responsable de información y estadística dependiente del Secretariado Ejecutivo y estará obligada a informar al Consejo Estatal de Seguridad Pública de sus actividades.
 
 Las autoridades e instituciones en materia de seguridad pública del Estado y de los municipios proporcionarán al Centro Estatal de Información toda la información y estadísticas que sean necesarias para la elaboración de sus estudios respectivos.
 
@@ -1573,11 +1613,15 @@ El incumplimiento de proveer la información para integrar el Sistema Estatal de
 
 El Reglamento determinará las condiciones de seguridad sobre manejo y acceso a la información, la que tendrá siempre un responsable de inscripción. En los casos necesarios se asignará una clave confidencial a los responsables de inscribir y a las personas autorizadas para obtener la información de los sistemas, a fin de que exista la debida constancia de cualquier movimiento o consulta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### Artículo 149.
 
-La utilización de los registros se hará bajo los más estrictos principios de confidencialidad y de reserva. La consulta a los Registros se realizará única y exclusivamente por las autoridades señaladas en el artículo 14 de este ordenamiento y el Coordinador General Ejecutivo del Sistema Estatal de Seguridad Pública.
+La utilización de los registros se hará bajo los más estrictos principios de confidencialidad y de reserva. La consulta a los Registros se realizará única y exclusivamente por las autoridades señaladas en el artículo 14 de este ordenamiento y el Secretario Ejecutivo del Sistema Estatal de Seguridad Pública.
 
-En caso de que un presidente municipal requiera información relacionada con su municipio, el Coordinador General Ejecutivo del Consejo Estatal de Seguridad Pública deberá proporcionarla oportunamente.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+En caso de que un presidente municipal requiera información relacionada con su municipio. El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública deberá proporcionarla oportunamente.
 
 No se proporcionará al público la información que ponga en riesgo la seguridad publica o de las personas y sus bienes o atente contra el honor de las personas.
 
@@ -1633,9 +1677,11 @@ X. Información de medios de comunicación, instituciones académicas y civiles;
 
 XI. En general los datos provenientes de cualquier fuente que tenga relación con la seguridad pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### Artículo 153.
 
-Se establecerá un programa permanente de estudios para el reconocimiento de los delitos no denunciados y las infracciones no registradas oficialmente, mediante encuestas, investigaciones y otros métodos idóneos, a cargo de la Coordinación General Ejecutiva del Consejo Estatal de Seguridad Pública.
+Se establecerá un programa permanente de estudios para el reconocimiento de los delitos no denunciados y las infracciones no registradas oficialmente, mediante encuestas, investigaciones y otros métodos idóneos, a cargo del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública.
 
 Al menos realizará una encuesta general anual, la cual seguirá la metodología científica universalmente aceptada.
 
@@ -1721,9 +1767,11 @@ Se integrará una base estatal de datos sobre personas probables responsables de
 
 ### CAPÍTULO IV. DEL REGISTRO ESTATAL DEL PERSONAL DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+
 ###### Artículo 159.
 
-El Coordinador General Ejecutivo del Consejo Estatal de Seguridad Pública organizará el Registro Estatal del Personal de Seguridad Pública, que contendrá todos los datos personales de identificación para elaborar la Clave Única de Identificación Permanente, de los integrantes de sus corporaciones e instituciones de seguridad pública estatal, municipal, auxiliar y ministerial, así como de los servicios de seguridad privada, que, como mínimo, serán los siguientes:
+El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública organizará el Registro Estatal del Personal de Seguridad Pública, que contendrá todos los datos personales de identificación para elaborar la Clave Única de Identificación Permanente, de los integrantes de sus corporaciones e instituciones de seguridad pública estatal, municipal, auxiliar y ministerial, así como de los servicios de seguridad privada, que, como mínimo, serán los siguientes:
 
 I. Los generales y la media filiación;
 
@@ -2127,7 +2175,9 @@ Para cada uno de estos cargos se designará un suplente y los cargos serán hono
 
 El Consejo contará con un Secretario, que será designado por el Presidente del Consejo de Honor y Justicia, quien deberá ser licenciado en derecho o pasante.
 
-El Coordinador General Ejecutivo del Consejo Estatal de Seguridad Pública asistirá y asesorará en la integración, funcionamiento y desarrollo de las sesiones de los Consejos de Honor y Justicia e informará al Consejo Estatal de Seguridad Pública del seguimiento y cumplimiento de las determinaciones de los mismos Consejos de Honor y Justicia.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
+
+El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública asistirá y asesorará en la integración, funcionamiento y desarrollo de las sesiones de los Consejos de Honor y Justicia e informará al Consejo Estatal de Seguridad Pública del seguimiento y cumplimiento de las determinaciones de los mismos Consejos de Honor y Justicia.
 
 ###### Artículo 208.
 
@@ -2278,3 +2328,15 @@ SECRETARIO DE SEGURIDAD PÚBLICA
 JESÚS SEBASTIAN ISUNZA GUTIÉRREZ
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE MARZO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
