@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-calvillo-aguascalientes-29030"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1991-08-11"
+last_updated: "1994-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE CALVILLO, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1994.
 
 Ley publicada en la Sección Cuarta del Alcance del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 
@@ -393,7 +393,7 @@ Los notarios o quienes hagan sus veces, los registradores y las autoridades comp
 
 En todo caso, al margen de la matriz y en los testimonios deberá asentarse la constancia de pago o la de que éste no se causa.
 
-#### SECCION SEPTIMA (SIC). De las Obligaciones de los Contribuyentes
+#### SECCION SEPTIMA. De las Obligaciones de los Contribuyentes
 
 ###### ARTICULO 33.
 
@@ -427,9 +427,19 @@ En todo caso, al margen de la matriz y en los testimonios deberá asentarse la c
 
 #### SECCION NOVENA. De las Exenciones
 
+> <small>N. DE E. EL PRESENTE ARTICULO HABIA SIDO DEROGADO MEDIANTE DECRETO NUMERO 111, PUBLICADO EN EL P.O. DE 11 DE AGOSTO DE 1991, SIN EMBARGO, POR DECRETO NUMERO 104, PUBLICADO EN EL P.O. DE 12 DE JUNIO DE 1994, ES ADICIONADO; MOTIVO POR EL CUAL, SE DEJA A CONSIDERACION DEL USUARIO.</small>
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 40.
 
-(REFORMADO, P.O. 11 DE AGOSTO DE 1991)
+Se exceptúa del pago del pago de este impuesto:
+
+I.- (DEROGADA, P.O. 11 DE AGOSTO DE 1991)
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 1994)</small>
+
+II.- Las Asociaciones constituidas conforme a la Ley de Asociaciones Religiosas y Culto Público, siempre y cuando la adquisición se realice antes del 31 de diciembre de 1994.
 
 ### CAPITULO III. Del Impuesto Sobre Incremento de Valor y Mejoría Específica de la Propiedad
 
@@ -810,3 +820,7 @@ Lic. Joaquín Cruz Ramírez.
 P.O. 11 DE AGOSTO DE 1991.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 12 DE JUNIO DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
