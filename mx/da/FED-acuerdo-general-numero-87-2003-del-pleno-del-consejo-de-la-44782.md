@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-87-2003-del-pleno-del-consejo-de-la-4478
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-12-12"
-last_updated: "2003-12-12"
+last_updated: "2004-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44782&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2003-12-03"
 ---
 # ACUERDO GENERAL NUMERO 87/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2004 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 87/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL USO OBLIGATORIO DEL MODULO DE CAPTURA DEL SISTEMA INTEGRAL DE SEGUIMIENTO DE EXPEDIENTES, RELATIVO A LAS SENTENCIAS DICTADAS EN LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 16 DE ENERO DE 2004.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 12 de diciembre de 2003.
 
@@ -55,9 +55,9 @@ SEGUNDO.- Los titulares de tribunales de Circuito y juzgados de Distrito del Pod
 
 La información obtenida de cada uno de los órganos que opere el citado módulo, podrá ser utilizada para efectos de control, gestión y administración interna, así como para responder a las consultas que de manera ordinaria o extraordinaria formulen los órganos competentes del Poder Judicial de la Federación.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE PUNTO DE ACUERDO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2004 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 16 DE ENERO DE 2004)</small>
 
-TERCERO.- La Visitaduría Judicial, con motivo de las visitas de inspección que se realicen a los órganos jurisdiccionales del Poder Judicial de la Federación, supervisará que la captura de las sentencias sea de manera oportuna y que la información almacenada corresponda fielmente con su contenido.
+TERCERO.- La Visitaduría Judicial, con motivo de las visitas de inspección que se realicen a los órganos jurisdiccionales del Poder Judicial de la Federación, supervisará en su caso, por muestreo, que la captura de las sentencias sea de manera oportuna y que la información almacenada corresponda fielmente con su contenido.
 
 ## TRANSITORIOS
 
