@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "1991-05-18"
+last_updated: "1992-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1992.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1215,7 +1215,9 @@ XI.- La división de la copropiedad y la disolución de la sociedad conyugal por
 
 El valor del inmueble que se considerará para los efectos del Artículo 124, será el valor más alto entre el precio pactado y el del avalúo pericial que al efecto expida la Dirección de Catastro de la Tesorería General del Estado.
 
-En las adquisiciones por donación y la que ocurra por muerte, entre ascendientes y descendientes en línea recta y entre cónyuges, se tendrá como base el valor menor que resulte del avalúo pericial o de dos veces el valor catastral.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1992)</small>
+
+En las adquisiciones por donación y la que ocurra por muerte, entre ascendientes y descendientes en línea recta y entre cónyuges, se tendrá como base el valor menor que resulte del 25 % del avalúo pericial o del valor catastral.
 
 Cuando con motivo de la adquisición, el adquiriente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
 
@@ -2666,3 +2668,9 @@ Durante el período de julio a diciembre de 1991 y los años de 1992 y 1993 se a
 ###### ARTICULO TERCERO.
 
 Durante el período de julio a diciembre de 1991 y los años 1992 y 1993, el impuesto que resulte a cargo del contribuyente, en ningún caso será mayor a aquél que se hubiera determinado en los términos de las disposiciones vigentes al 31 de diciembre de 1990.
+
+P.O. 15 DE JULIO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
