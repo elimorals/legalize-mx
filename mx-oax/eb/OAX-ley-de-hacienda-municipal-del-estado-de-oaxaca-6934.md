@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "1992-07-04"
+last_updated: "1993-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -303,11 +303,13 @@ En los casos no previstos en las fracciones anteriores, cuando los actos de que 
 
 El contribuyente podrá pagar el impuesto por anticipado.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1993)</small>
 
 ###### ARTICULO 30.
 
-No se pagará el impuesto establecido en esta Ley en las adquisiciones de inmuebles que hagan la Federación, El Distrito Federal, los Estados y los Municipios para formar parte del dominio público, así como los que adquieran los Estados extranjeros en caso de reciprocidad y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
+No se pagará el impuesto establecido en esta Ley en las adquisiciones de inmuebles que hagan la Federación, el Distrito Federal, el Estado y los Municipios para formar parte del dominio público, así como tampoco lo harán los que adquieran los estados extranjeros, en caso de reciprocidad.
+
+Tampoco se pagará el impuesto establecido en esta Ley en las adquisiciones de inmuebles que hagan los arrendatarios financieros, al ejercer la acción de compras en los términos de arrendamiento financiero, así como en las adquisiciones que realicen las asociaciones religiosas constituídas en los términos de la Ley de la materia, siempre que en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
 
 ###### ARTICULO 31.
 
@@ -1146,3 +1148,9 @@ P.O. 4 DE JULIO DE 1992.
 PRIMERO.- Se Derogan todas las disposiciones legales que se opongan al presente decreto.
 
 SEGUNDO.- Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, exceptuando el artículo 8° que entrará en vigor a partir del 1° de enero de 1993.
+
+P.O. 13 DE FEBRERO DE 1993.
+
+PRIMERO.- Se derogan todos los decretos y disposiciones fiscales que se opongan a lo prescrito en esta reforma.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
