@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2000-09-23"
+last_updated: "2000-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2000.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -1511,6 +1511,10 @@ Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio
 
 El Consejo de Familia que hubiere autorizado a un menor para contraer matrimonio, no podrá revocar el consentimiento una vez que lo haya otorgado, sino por justa causa superveniente.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+Art. 267 bis.- El hombre y la mujer, acreditarán ante el Oficial del Registro Civil, el haber recibido el curso prematrimonial que no será menor de dos horas, cuyo contenido versará sobre los derechos y obligaciones que se contraen con el vínculo del matrimonio de acuerdo a los capítulos correspondientes de este Código. Dicho curso será diseñado e impartido por el Sistema Estatal para el Desarrollo Integral de la Familia.
+
 ###### Art. 268.
 
 Son impedimentos para celebrar el matrimonio:
@@ -1531,7 +1535,11 @@ VII. Las enfermedades crónicas e incurables que sean, además, contagiosas y qu
 
 VIII. La enajenación psíquica declarada judicialmente; y
 
-IX. La fuerza o miedo graves.
+IX. La fuerza o miedo graves;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+X. No acreditar ante el Oficial del Registro Civil, que los interesados recibieron el curso prematrimonial, a que se hace referencia en el artículo anterior.
 
 De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral en el tercero y cuarto grados.
 
@@ -16976,3 +16984,7 @@ DECRETO 18440
 P.O. 23 DE SEPTIEMBRE DE 2000.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE OCTUBRE DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
