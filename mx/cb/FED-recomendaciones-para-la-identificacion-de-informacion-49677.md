@@ -4,7 +4,7 @@ identifier: "FED-recomendaciones-para-la-identificacion-de-informacion-49677"
 country: "mx"
 rank: "otro"
 publication_date: "2003-04-01"
-last_updated: "2003-04-01"
+last_updated: "2003-08-18"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49677&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-03-27"
 
 RECOMENDACIONES PARA LA IDENTIFICACION DE INFORMACION RESERVADA O CONFIDENCIAL POR PARTE DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO ESTABLECIDO POR EL ARTICULO SEGUNDO TRANSITORIO DE LOS LINEAMIENTOS GENERALES PARA LA CLASIFICACION Y DESCLASIFICACION DE LA INFORMACION DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA FEDERAL PUBLICADOS EN EL D.O.F. DE 18 DE AGOSTO DE 2003, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: SIN EFECTOS.
 
 Recomendaciones publicada en la Primera Sección del Diario Oficial de la Federación, el martes 1 de abril de 2003.
 
@@ -782,3 +784,11 @@ LEGISLACION FEDERAL1
 228. REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
 1 La presente lista no es exhaustiva.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LAS PRESENTES RECOMENDACIONES.</small>
+
+D.O.F. 18 DE AGOSTO DE 2003.
+
+PRIMERO.- Los presentes Lineamientos entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Como consecuencia de la expedición de los presentes Lineamientos, quedan sin efecto las Recomendaciones para la Identificación de Información Reservada o Confidencial por parte de las Dependencias y Entidades de la Administración Pública Federal, publicadas en el Diario Oficial de la Federación el 1 de abril de 2003, así como cualquier otra disposición administrativa que se oponga a los presentes Lineamientos.
