@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1983-11-22"
+last_updated: "1983-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1983.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -803,9 +803,11 @@ Firmadas las declaraciones por los que las hubieren producido, o, en su defecto,
 
 En caso de enfermedad debidamente comprobada del que deba declarar, el tribunal se trasladará al domicilio de aquél, donde se efectuará la diligencia, a presencia de la otra parte, si asistiere.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 121.
 
-Cuando el juicio se siga en rebeldía, la citación para absolver posiciones, se hará publicando la determinación, por tres veces consecutivas, en el Periódico Oficial del Estado, a no ser que el emplazamiento se haya entendido personalmente con el demandado, su representante o apoderado, pues en tal caso, la citación se hará por rotulón.
+Cuando el emplazamiento se haya hecho por edictos y el juicio se siga en rebeldía, la citación para absolver posiciones, se hará publicando la determinación por dos veces consecutivas en el Periódico Oficial del Estado y por dos veces seguidas en uno de los diarios de mayor circulación en el Partido Judicial o en uno del más próximo si no existieran diarios en aquél. En igual forma se notificará la sentencia definitiva, en cuyo caso sólo se publicarán los puntos resolutivos.
 
 ###### Art. 122.
 
@@ -1729,9 +1731,11 @@ Si una diligencia se inició en día y hora hábiles, puede llevarse hasta su fi
 
 Siempre que deba tener lugar un acto judicial en día y hora señalados, y, por cualquier circunstancia, no se efectuare, el secretario hará constar, en los autos, la razón por la cual no se practicó.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 290.
 
-Los términos judiciales, salva disposición, diversa de la ley, empezarán a correr el día siguiente al del emplazamiento, citación o notificación, y se contará en ellos el día de su vencimiento.
+Los términos judiciales, salvo disposición, diversa de la Ley, empezarán a correr el día siguiente al en que surta efectos el emplazamiento, citación o notificación, y se contará en ellos el día de su vencimiento.
 
 ###### Art. 291.
 
@@ -1885,13 +1889,15 @@ Los tribunales tienen el deber de examinar la primera promoción de cualquier pe
 
 Las notificaciones serán personales:
 
-I.- Para emplazar a juicio al demandado y en todo caso en que se trate de la primera notificación en el negocio;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1983)</small>
+
+I.- Para emplazar a juicio al demandado y en todo caso en que se trate de la primera notificación en la instancia, así como cuando se notifique la sentencia definitiva o resolución que termine cualesquiera de las instancias;
 
 II.- Cuando dejare de actuarse durante más de seis meses, por cualquier motivo; en este caso, si se ignora el domicilio de una parte, se le hará la notificación por edictos;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE JUNIO DE 1969)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1983)</small>
 
-III.- Cuando el Tribunal estime que se trata de un caso urgente, o por alguna circunstancia deben ser personales, y así lo ordene expresamente. También serán personales cuando en el procedimiento judicial intervenga la Universidad de Guanajuato, y
+III.- Cuando el Tribunal estime que se trata de un caso urgente, o por alguna circunstancia deban ser personales, y así lo ordene expresamente;
 
 IV.- En los demás casos en que la ley expresamente lo disponga.
 
@@ -1919,27 +1925,31 @@ Cuando, a juicio del notificador, hubiere sospecha fundada de que se niegue que 
 
 Cuando la persona que haya de ser notificada por primera vez, resida fuera del lugar del juicio, se aplicará lo dispuesto por el artículo 305.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 324.
 
-Cuando hubiere que citar a juicio a alguna persona que haya desaparecido, no tenga domicilio fijo o se ignore dónde se encuentra, la notificación se hará por edictos, que contendrán una relación sucinta de la demanda y se publicará por dos veces consecutivas en el Periódico Oficial del Estado y por dos veces seguidas en uno de los diarios de mayor circulación en el partido judicial. En caso de que no hubiese diarios, la publicación se hará en el del partido judicial más próximo que los tenga. Por estos medios se hará saber a la persona citada que debe presentarse dentro del término de treinta días contados del siguiente al de la última publicación en el Periódico Oficial. Se fijará, además, en la puerta del tribunal una copia íntegra de la resolución por todo el tiempo del emplazamiento. Si pasado este término no comparece por sí, por apoderado o por gestor que pueda representarla se seguirá el juicio en rebeldía, haciéndose las ulteriores notificaciones por rotulón, que se fijarán en la puerta del juzgado y deberá contener, en síntesis, la determinación judicial que ha de notificarse.
+Cuando hubiere que citar a juicio a alguna persona que haya desaparecido, no tenga domicilio fijo o se ignore dónde se encuentra, la notificación se hará por edictos, que contendrán una relación sucinta de la demanda y se publicarán por dos veces consecutivas en el Periódico Oficial del Estado y por dos veces seguidas en uno de los diarios de mayor circulación en el Partido Judicial. En caso de que no hubiere diarios, la publicación se hará en el del Partido Judicial más próximo que los tenga. Por estos medios se hará saber a la persona citada que debe presentarse dentro del término de treinta días contados del siguiente al de la última publicación en el Periódico Oficial. Se fijará, además, en la puerta del tribunal una copia íntegra de la resolución por todo el tiempo del emplazamiento. Si pasado este término no comparece por sí, por apoderado o por gestor que pueda representarlo, se seguirá el juicio en rebeldía, haciéndose las ulteriores notificaciones por lista, salvo disposición en contrario de la Ley.
 
-Las publicaciones que se hagan en el diario a que se refiere el párrafo anterior, deberá ser, por lo menos, en un treintaidosavo de plana.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 325.
 
-Las notificaciones que no deban ser personales, se harán en el tribunal, si vienen las personas que han de recibirlas a más tardar el día siguiente al que se dicten las resoluciones que han de notificarse, sin perjuicio de hacerlo, dentro de igual tiempo, por rotulón, que se fijará en la puerta del juzgado.
+Las notificaciones que no deban ser personales, se harán en el Tribunal, en lugar visible y de fácil acceso, por medio de lista fechada, autorizada por el Secretario, que se fijará a primera hora de despacho del día siguiente al de la fecha de la resolución, en la que se expresará el número del juicio, la naturaleza de éste, y los nombres de las partes.
 
-De toda notificación por rotulón se agregará a los autos un tanto de éste, sentándose la razón correspondiente.
+En los autos, el Secretario hará constar el día y hora de la notificación por lista y formará con dichas listas un legajo mensual que deberá conservar por el término de un año a disposición de los interesados.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 326.
 
-Deben firmar las notificaciones la persona que las hace y aquella a quien se hacen. Si ésta no supiere o no quisiere firmar, lo hará el notificador, haciendo constar esta circunstancia. A toda persona se le dará copia simple de la resolución que se le notifique, si la pidiere, sin necesidad de acuerdo judicial.
+A toda persona se le dará copia simple de la resolución que se le notifique, si la pidiere, sin necesidad de acuerdo judicial.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 327.
 
-Si los interesados, sus procuradores o las personas autorizadas por ellos, no ocurren al tribunal a notificarse dentro del término señalado por el artículo 325, las notificaciones se darán por hechas y surtirán efectos el día siguiente al de la fijación del rotulón.
+Los autos quedarán obligatoriamente a disposición de las partes el día que se notifique por lista y el siguiente, a fin de que puedan imponerse de su contenido.
 
 ###### Art. 328.
 
@@ -4033,9 +4043,11 @@ El término ordinario para formar los inventarios, será el de quince días, el 
 
 Para el examen y aprobación de los inventarios, lo mismo que para el de las cuentas de albaceazgo y partición, no se correrán traslados; sino que sólo se pondrán los cuadernos relativos en la secretaría del juzgado, a la vista de los interesados, por el término que el juez señale y que no podrá exceder de diez días, a fin de que se enteren y hagan a su tiempo las promociones que a su derecho convengan. Concluído el término se les citará a junta, la que se verificará dentro de tercero (sic) día, y en ella expresarán su conformidad o disconformidad y las razones en que la funden. Si hubiere acuerdo, se procederá conforme a lo convenido; y si no, se substanciará la controversia por el procedimiento incidental.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 681.
 
-Para la venta de bienes que deba hacerse en subasta pública, porque la ley exija esta formalidad, sólo se publicarán edictos en el Periódico Oficial, o en otro que tenga bastante circulación, a juicio del juez; y si, por falta de postores en la primera almoneda hubiere de repetirse ésta, bastará que se anuncie con tres días de anticipación, por medio de rotulones en la puerta del juzgado.
+Para la venta de bienes que deba hacerse en subasta pública, porque la ley exija esta formalidad, sólo se publicarán edictos en el Periódico Oficial, o en otro que tenga bastante circulación, a juicio del Juez; y si, por falta de postores en la primera almoneda hubiere de repetirse ésta, bastará que se anuncie con tres días de anticipación, por medio de convocatoria en la puerta del Juzgado.
 
 ###### Art. 682.
 
@@ -4770,3 +4782,9 @@ DECRETO NO. 82, QUE REFORMA Y ADICIONA DIVERSOS ARTS.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor el día primero de diciembre del año de 1983.
+
+P.O. 13 DE DICIEMBRE DE 1983.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor el día primero de enero del año de 1984.
