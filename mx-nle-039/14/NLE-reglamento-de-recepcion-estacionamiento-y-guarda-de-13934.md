@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-recepcion-estacionamiento-y-guarda-de-13934"
 country: "mx"
 rank: "reglamento"
 publication_date: "1976-08-18"
-last_updated: "1990-09-12"
+last_updated: "1991-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "NLE"
 
 REGLAMENTO DE RECEPCION, ESTACIONAMIENTO Y GUARDA DE VEHICULOS EN EDIFICIOS O LOCALES PUBLICOS O PRIVADOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 1991.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de agosto de 1976.
 
@@ -78,7 +78,9 @@ V.- Proyecto arquitectónico con las especificaciones indispensables del edifici
 
 12. Cuando por cualquier causa exista necesidad para el permisionario de suspender el servicio de estacionamiento, deberá hacerlo del conocimiento de la Autoridad Municipal y del público usuario con quince días de anticipación, haciendo notar el tiempo aproximado que requiera la ejecución de las obras de acondicionamiento o demás circunstancias que hayan motivado la suspensión, cuando ésta sea provisional, o que se trata (sic) de suspensión definitiva, en su caso.
 
-13. Ya sea que el servicio de estacionamiento se realice en edificios total o parcialmente destinados a tal fin, o en predios no edificados, se requiere que tengan las condiciones mínimas para la prestación del servicio, contándose entre ellas, las siguientes instalaciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 1991)</small>
+
+13. Ya sea que el servicio de estacionamiento se realice en Edificios total ó parcialmente destinados a tal fin, ó en predios no edificados, se requiere que tengan las condiciones mínimas para la prestación del servicio, contándose entre ellas, las siguientes instalaciones:
 
 I.- Iluminación adecuada.
 
@@ -96,7 +98,13 @@ VII.- Que esté el predio debidamente cercado cuando no se trate de edificación
 
 VIII.- Zona de espera y protección para el público usuario, cuando así lo requiera la Autoridad Municipal.
 
-IX.- Las demás que exigen los Reglamentos Administrativos aplicables.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1991)</small>
+
+IX.- Los estacionamientos deberán contar, según su capacidad, cuando menos con 2 áreas para el estacionamiento de los minusválidos, las mismas (sic) deben estar estratégicamente colocadas (sic) lo más cercana al área de entrada ó salida del estacionamiento y con el señalamiento debido.
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 1991)</small>
+
+X.- Las demás que exigen los Reglamentos Administrativos aplicables.
 
 14. Atendiendo a la mayor o menor inversión en las instalaciones del servicio público de estacionamiento que hagan los permisionarios, se establecen tarifas diferenciales conforme a las categorías siguientes:
 
@@ -249,3 +257,7 @@ P.O. 12 DE SEPTIEMBRE DE 1990.
 PRIMERO:- Las presentes modificaciones entrarán en vigor el día de de (sic) su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO:- Para los efectos del Artículo 11 que se modifica, los actuales permisionarios procederán a la renovación de su permiso en el mes de enero del próximo año.
+
+P.O. 2 DE DICIEMBRE DE 1991.
+
+UNICO:- Esta modificación entrará en vigor al día siguiente de su publicación.
