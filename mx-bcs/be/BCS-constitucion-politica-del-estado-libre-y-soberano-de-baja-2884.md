@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1994-05-20"
+last_updated: "1995-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 1995.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -257,17 +257,59 @@ Los Partidos Políticos Nacionales y Estatales tienen como fin promover la parti
 
 En los procesos electorales estatales los partidos políticos deberán contar en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
 
+> <small>(ADICIONADO, B.O. 14 DE JULIO DE 1995)</small>
+
+La organización de los procesos electorales es una función que corresponde realizar al poder público, a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propios, que se denominará Comisión Estatal Electoral y en cuya integración concurren los Poderes Ejecutivo y Legislativo del Estado, con la participación de los partidos políticos y de los ciudadanos en los términos que disponga la ley.
+
+> <small>(ADICIONADO, B.O. 14 DE JULIO DE 1995)</small>
+
+En el ejercicio de las funciones del organismo electoral serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad.
+
+> <small>(ADICIONADO, B.O. 14 DE JULIO DE 1995)</small>
+
+La Comisión Estatal Electoral residirá en la ciudad capital del Estado y se integrará por cinco consejeros ciudadanos propietarios de entre quienes se eligirá (sic) al Presidente; por un representante de cada uno de los partidos políticos que participen en las elecciones; por un representante de cada una de las fracciones parlamentarias del Congreso del Estado; por el Director del Registro Estatal de Electores y por un Secretario General que se designará a propuesta del Presidente con la aprobación de la mayoría de los consejeros ciudadanos. Los Comités Distritales y Municipales Electorales y el Registro Estatal de Electores formarán parte de su estructura orgánica.
+
+> <small>(ADICIONADO, B.O. 14 DE JULIO DE 1995)</small>
+
+Los consejeros ciudadanos de la Comisión Estatal Electoral, serán electos por las dos terceras partes de los miembros presentes del Congreso del Estado de entre los propuestos por el Gobernador del Estado y las fracciones parlamentarias del propio Congreso del Estado. Si dicha mayoría no se lograra en la primera votación, se procederá a insacular de los candidatos propuestos, el número que corresponda de consejeros ciudadanos. Por cada uno de los consejeros ciudadanos propietarios se eligirá (sic) un suplente.
+
+> <small>(ADICIONADO, B.O. 14 DE JULIO DE 1995)</small>
+
+La ley señalará los requisitos que deben reunir los consejeros ciudadanos de la Comisión Estatal Electoral y determinará las reglas y procedimientos correspondientes a su elección.
+
 > <small>(ADICIONADO, B.O. 11 DE JUNIO DE 1992)</small>
 
 La ley establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y un Tribunal Estatal de lo Contencioso Electoral, dotado de plena autonomía, que será órgano jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
 
-> <small>(ADICIONADO, B.O. 11 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, B.O. 14 DE JULIO DE 1995)</small>
 
-El Tribunal Estatal de lo Contencioso Electoral, tendrá la competencia y organización que determine la ley; funcionará en pleno y resolverá en una sola instancia y sus sesiones serán públicas, a excepción de las que determine el propio tribunal. Los poderes Legislativo y Ejecutivo garantizarán su debida integración. Contra sus resoluciones no procederá juicio ni recurso alguno, pero aquéllas que se dicten con posterioridad a la jornada electoral se estará a los términos del artículo 43 de esta Constitución. Para el ejercicio de sus funciones el Tribunal Estatal de lo Contencioso Electoral, estará integrado con tres magistrados numerarios y dos supernumerarios, los cuales responderán sólo al mandato de la ley.
+El Tribunal Estatal de lo Contencioso Electoral, tendrá la competencia y la organización que determine la Ley; funcionará en Pleno y resolverá en una sola instancia y sus sesiones serán públicas, a excepción de las que determine el propio Tribunal. Los Poderes Legislativo, Ejecutivo y Judicial garantizarán su debida integración. Contra sus resoluciones no procederá juicio ni recurso alguno, pero aquellas que se dicten con posterioridad a la jornada electoral se estará a los términos del artículo 43 de esta Constitución. Para el ejercicio de sus funciones el Tribunal Estatal de lo Contencioso Electoral, estará integrado con tres Magistrados numerarios y dos supernumerarios, los cuales responderán sólo al mandato de la Ley.
 
-> <small>(ADICIONADO, B.O. 11 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, B.O. 14 DE JULIO DE 1995)</small>
 
-Los magistrados del Tribunal Estatal de lo Contencioso Electoral, deberán satisfacer los requisitos que señala la ley, que no podrán ser menores a los que dispone esta Constitución para ser magistrado del Tribunal Superior de Justicia. Serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por el Ejecutivo del Estado. Si dicha mayoría no se lograra en la primera votación, se procederá a insacular de los candidatos propuestos, el número que corresponda de magistrados. La ley señalará las reglas y procedimientos correspondientes.
+Los magistrados del Tribunal Estatal de lo Contencioso Electoral serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por los Poderes Ejecutivo y Judicial del Estado. Si dicha mayoría no se logra en la primera votación, se procederá a insacular de los candidatos propuestos, el número que corresponda de Magistrados. La ley señalará las reglas y procedimientos correspondientes.
+
+> <small>(ADICIONADO, B.O. 14 DE JULIO DE 1995)</small>
+
+Para ser Magistrado del Tribunal Estatal de lo Contencioso Electoral, se deberán cumplir los siguientes requisitos:
+
+I.- Ser ciudadano sudcaliforniano en pleno ejercicio de sus derechos políticos y civiles, y con residencia en el Estado de tres años;
+
+I (SIC).- No tener más de 65 años de edad, ni menos de 35 en la fecha de su elección;
+
+III.- Poseer el día de su elección, con una antigüedad mínima de cinco años, título profesional de Licenciado en Derecho, expedido por la autoridad o corporación legalmente facultada para ello;
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión en sentencia ejecutoria; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+V.- No haber sido ministro de algún culto religioso; a menos que se haya separado formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección.
+
+VI.- No tener ni haber tenido cargo alguno de elección popular los cinco años anteriores al de su elección;
+
+VII.- No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún Partido Político en los cinco años anteriores al de su elección.
+
+VIII.- No ocupar cargo alguno en la administración pública estatal o municipal por lo menos dos años antes del día de la celebración de las elecciones, excepto los relativos en materia electoral o la docencia.
+
+IX.- Estar inscrito en el Padrón Electoral y poseer credencial para votar con fotografía.
 
 37.- El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo, teniendo como base de su división territorial, de su organización política y administrativa, el Municipio Libre.
 
@@ -295,9 +337,11 @@ No podrán reunirse dos o más de estos poderes en una sola persona o corporaci�
 
 I.- La base para realizar la demarcación territorial de los 15 Distritos Electorales, será el resultante de dividir la población total del Estado conforme al último censo general de población entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y el socioeconómico;
 
-> <small>(REFORMADA, B.O. 25 DE ABRIL DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE JULIO DE 1995)</small>
 
-II.- La elección de Diputados por el principio de Representación Proporcional se efectuará mediante el sistema de listas de candidatos que presenten los Partidos Políticos y se sujetará a las siguientes bases:
+II.- La elección de diputados por el principio de representación proporcional se efectuará conforme al sistema de listas de candidatos que presenten los partidos políticos y a los resultados electorales y se sujetarán a las siguientes bases:
+
+> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1983)</small>
 
 a).- Se constituirá una sola circunscripción plurinominal que comprenderá todo el Estado.
 
@@ -305,25 +349,33 @@ a).- Se constituirá una sola circunscripción plurinominal que comprenderá tod
 
 b).- Los Partidos Políticos tendrán derecho a postular Candidatos por el Principio de Representación Proporcional, siempre y cuando hayan registrado Candidatos por lo menos en ocho Distritos Electorales Uninominales.
 
-> <small>(REFORMADO, B.O. 11 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, B.O. 14 DE JULIO DE 1995)</small>
 
-c).- Para que un partido político tenga derecho a que les sean acreditados de entre sus candidatos, diputados de representación proporcional, deberá alcanzar por lo menos el 2% del total de las votaciones emitidas en el Estado para todas las listas y siempre que no haya logrado más de una diputación de mayoría relativa; se tomarán en cuenta para las asignaciones, el orden que tuviesen los candidatos en las listas correspondientes.
+c).- Para que un partido político tenga derecho a que le sean acreditados de entre sus candidatos, diputados de representación proporcional, deberá alcanzar por lo menos el uno punto cinco por ciento del total de las votaciones emitidas en el Estado para todas las listas y siempre que no haya logrado más de cinco diputaciones de mayoría relativa, en los términos que establezca la ley.
 
-La ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación.
+> <small>(REFORMADA, B.O. 14 DE JULIO DE 1995)</small>
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 1989)</small>
+III.- La Comisión Estatal Electoral asignará las diputaciones por el principio de representación proporcional a los partidos políticos o coaliciones con derecho a ello, conforme a las bases siguientes:
 
-III.- El Partido Político que logre mayoría relativa en la elección directa, en dos o más Distritos Electorales, mediante el Sistema Electoral Uninominal, no tendrá derecho a que se les asigne Diputado por el Principio de Representación Proporcional.
+a).- En primer término asignará una diputación a todo aquel partido político o coalición que tenga derecho a ello y no haya obtenido constancia de mayoría en ningún distrito electoral, conforme lo disponga la ley de la materia.
+
+b).- Sí después de hechas las asignaciones que se señalan en el inciso anterior aún quedaren diputaciones por distribuir, éstas se otorgarán a los partidos políticos o coaliciones que hayan logrado hasta cinco diputaciones de mayoría relativa, sin que en ningún caso logren más de seis diputaciones por ambos principios.
+
+c).- No podrán asignarse más de cuatro diputaciones por el principio de representación proporcional a los partidos políticos o coaliciones, que no hayan obtenido diputación de mayoría relativa.
+
+La ley determinará las fórmulas electorales y el procedimiento que se observará en las asignaciones.
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
 
 42.- Los diputados de mayoría relativa y de representación proporcional, son representantes del pueblo sudcaliforniano, tienen la misma categoría e igualdad de derechos y obligaciones. Por cada diputado propietario se elegirá un suplente y la elección será por fórmula.
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADO, B.O. 14 DE JULIO DE 1995)</small>
 
-43.- La Diputación Permanente del Congreso del Estado, convocará a Período Extraordinario de Sesiones, para que en los términos de la Ley Electoral del Estado, proceda a calificar las elecciones de los Diputados Locales que habrán de constituir la siguiente Legislatura.
+43.- Las elecciones de diputados por el principio de mayoría relativa serán computadas y declaradas válidas por los órganos electorales en cuyo territorio se haya llevado a cabo el proceso electoral correspondiente, el que otorgará las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos, en los términos de la ley de la materia.
 
-Por lo que hace a las elecciones de Gobernador y Ayuntamientos, el Congreso del Estado que se instale cada tres años, habrá de constituirse en Colegio Electoral, en los términos de la Ley Electoral del Estado para su calificación y en su momento la Comisión respectiva emitirá el dictamen que corresponda.
+El cómputo de las elecciones de diputados de representación proporcional, así como la asignación de éstos, será efectuada por la Comisión Estatal Electoral.
+
+Por lo que hace a la elección de Gobernador del Estado, el Congreso del Estado que se instale en el año de dicha elección habrá de constituirse en Colegio Electoral en los términos de la Ley Electoral del Estado, para su calificación y en su momento la Comisión respectiva emitirá el dictamen que corresponda. La resolución será definitiva e inapelable.
 
 44.- Para ser diputado al Congreso del Estado se requiere:
 
@@ -351,7 +403,9 @@ IV.- Los funcionarios y empleados federales en el Estado, a menos que se separen
 
 V.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos sesenta días anteriores a la elección; y
 
-VI.- Los que sean o hayan sido ministros de cualquier culto religioso.
+> <small>(REFORMADA, B.O. 14 DE JULIO DE 1995)</small>
+
+VI.- Los ministros de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección.
 
 46.- Los diputados al Congreso del Estado, no podrán ser reelectos para el período inmediato. Los suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán serlo para el período inmediato con el carácter de suplentes.
 
@@ -447,15 +501,13 @@ III.- Iniciar leyes y decretos ante el Congreso de la Unión;
 
 IV.- Formular su Ley Reglamentaria, así como la de la Contaduría Mayor de Hacienda;
 
-> <small>(ADICIONADA, B.O. 11 DE JUNIO DE 1992)</small>
+> <small>(REFORMADA, B.O. 14 DE JULIO DE 1995)</small>
 
-V.- Erigirse en Colegio Electoral para ejercer las atribuciones que la Ley le señale respecto a las elecciones de gobernador y diputados.
+V.- Erigirse en Colegio Electoral para ejercer las atribuciones que la ley le señale respecto a la elección de Gobernador del Estado;
 
-> <small>(REFORMADA, B.O. 30 DE ABRIL DE 1981)</small>
+VI.- (DEROGADA, B.O. 14 DE JULIO DE 1995)
 
-VI.- Declarar electos a los Senadores de la República que hubieren obtenido mayoría de votos en la Entidad;
-
-VII.- Calificar las elecciones de los Ayuntamientos del Estado, declarando electos a los ciudadanos que hayan obtenido la mayoría de votos;
+VII.- (DEROGADA, B.O. 14 DE JULIO DE 1995)
 
 VIII.- Convocar a elecciones para Gobernador, en caso de falta absoluta de éste ocurrida dentro de los dos primeros años del período constitucional, conforme a lo establecido en este ordenamiento;
 
@@ -579,7 +631,9 @@ XLVI.- Expedir las leyes que sean necesarias para hacer efectivas las facultades
 
 I.- Acordar por sí o a propuesta del Gobernador, la Convocatoria a Período Extraordinario de Sesiones.
 
-II.- Recibir, en su caso, los expedientes relativos a las elecciones de Gobernador, diputados locales y ayuntamientos, convocando al Congreso del Estado para los efectos conducentes;
+> <small>(REFORMADA, B.O. 14 DE JULIO DE 1995)</small>
+
+II.- Recibir en su caso, el expediente relativo a la elección de Gobernador del Estado, convocando al Congreso del Estado para los efectos conducentes;
 
 III.- Instalar y presidir la primera Junta Preparatoria del nuevo Congreso del Estado;
 
@@ -611,7 +665,9 @@ I.- Ser ciudadano mexicano por nacimiento, nativo del Estado con residencia efec
 
 II.- Tener 30 años cumplidos el día de la elección;
 
-III.- No pertenecer al Estado eclesiástico ni ser ministro de algún culto religioso;
+> <small>(REFORMADA, B.O. 14 DE JULIO DE 1995)</small>
+
+III.- No pertenecer al estado eclesiástico ni ser ministro de algún culto, a menos que se separe formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección;
 
 IV.- No ser militar en servicio activo o ciudadano con mando en los cuerpos de seguridad pública, dentro de los noventa días anteriores a la fecha de la elección;
 
@@ -1209,7 +1265,9 @@ Los miembros de los Ayuntamientos durarán en su cargo tres años a partir de la
 
 137.- Los miembros del ayuntamiento se elegirán por planillas en los términos de la Ley Electoral, las que comprenderán a los candidatos por cada uno de los cargos.
 
-138.- Para ser miembro de un ayuntamiento se requiere:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE JULIO DE 1995)</small>
+
+138.- Para ser miembro de un Ayuntamiento se requiere:
 
 I.- Ser ciudadano sudcaliforniano en ejercicio de sus derechos políticos;
 
@@ -1221,9 +1279,13 @@ IV.- Ser persona de reconocida buena conducta;
 
 V.- No desempeñar, con excepción de los docentes, cargos o comisión del gobierno federal o estatal, a menos que se separe con dos meses de anticipación al día de la elección; y
 
-VI.- No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso.
+> <small>(REFORMADA, B.O. 14 DE JULIO DE 1995)</small>
 
-139.- Las elecciones de los miembros de los ayuntamientos se calificarán por el Congreso del Estado.
+VI.- No pertenecer al estado eclesiástico ni ser ministro de cualquier culto, a menos que se separe formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección.
+
+(REFORMADO, B.O. 14 DE JULIO DE 1995)(F. DE E., B.O. 18 DE AGOSTO DE 1995)
+
+139.- Las elecciones de los miembros de los ayuntamientos serán computadas y declaradas válidas por el órgano electoral municipal, mismo que otorgará la constancia de mayoría a la planilla de candidatos que la hubieren obtenido y hará la asignación de regidores por el principio de representación proporcional, de acuerdo a los requisitos y reglas que establezca la ley de la materia.
 
 140.- La Ley Electoral reglamentará la preparación, desarrollo y vigilancia del proceso comicial para la renovación de ayuntamientos.
 
@@ -1966,3 +2028,13 @@ B.O. 20 DE MAYO DE 1994.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 14 DE JULIO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Los Magistrados numerarios y supernumerarios que actualmente integran el Tribunal Estatal de lo Contencioso Electoral podrán ser propuestos y designados para ocupar esos cargos, conforme a lo que dispone el presente Decreto.
