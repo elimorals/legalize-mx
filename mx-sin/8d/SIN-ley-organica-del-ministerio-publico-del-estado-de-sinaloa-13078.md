@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-ministerio-publico-del-estado-de-sinaloa-13078
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-11-16"
-last_updated: "1999-07-09"
+last_updated: "2000-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2000.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 16 de noviembre de 1998.
 
@@ -229,7 +229,9 @@ Son auxiliares del Ministerio Público:
 
 I. Directos, y por ende integrantes de la institución:
 
-a). La Policía Judicial del Estado; y
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
+
+a). La Policía Ministerial del Estado; y
 
 b). Los Servicios Periciales.
 
@@ -249,7 +251,9 @@ f). Los demás que señalen otras leyes.
 
 Para los efectos de esta ley, se entenderá que los auxiliares directos estarán permanentemente a disposición de la institución del Ministerio Público, en tanto los auxiliares indirectos deberán llevar a cabo las actividades que, siendo compatibles con sus funciones, le sean ordenadas por los servidores públicos del Ministerio Público en apoyo a las funciones de la institución.
 
-A ese fin, las Agencias del Ministerio Público estarán constituidas permanentemente por un agente titular y el número de auxiliares necesarios, así como con agentes investigadores de Policía Judicial, Peritos en Criminalística y Médicos Forenses, en el número que el servicio requiera, todos los cuales estarán bajo el mando directo e inmediato del titular de la Agencia del Ministerio Público respectiva.
+> <small>(REFORMADO P.O. 12 DE ABRIL DE 2000)</small>
+
+A ese fin, las Agencias del Ministerio Público estarán constituidas permanentemente por un agente titular y el número de auxiliares necesarios, así como con agentes investigadores de Policía Ministerial, Peritos en Criminalística y Médicos Forenses, en el número que el servicio requiera, todos los cuales estarán bajo el mando directo e inmediato del titular de la Agencia del Ministerio Público respectiva.
 
 ###### Artículo 17.
 
@@ -287,7 +291,9 @@ VII. Dirección de Planeación, Desarrollo y Atención Ciudadana;
 
 VIII. Dirección de Investigación Criminalística y Servicios Periciales;
 
-IX. Dirección de Policía Judicial;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2000)</small>
+
+IX. Dirección de Policía Ministerial;
 
 X. Coordinación Administrativa;
 
@@ -439,7 +445,9 @@ II. Coordinar y supervisar en la región correspondiente, las actividades y func
 
 III. Iniciar, integrar y resolver las averiguaciones previas que les encomiende el Procurador General de Justicia;
 
-IV. Visitar las Agencias del Ministerio Público y Partidas de la Policía Judicial del Estado, en su circunscripción territorial;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2000)</small>
+
+IV. Visitar las Agencias del Ministerio Público y partidas de la Policía Ministerial del Estado, en su circunscripción territorial;
 
 V. Formular y proponer al Procurador General de Justicia los programas que consideren aplicables en las zonas de su adscripción;
 
@@ -559,7 +567,9 @@ XV. Vigilar el exacto cumplimiento del principio de legalidad y de la pronta y e
 
 XVI. Estudiar los expedientes en los que se le dé vista a los Agentes del Ministerio Público por estimar que existen en ellos hechos que pueden constituir delito, proveyendo lo conducente e informar sobre el particular al Procurador General, expresando su opinión debidamente fundada y motivada, relativa al asunto que se tratare;
 
-XVII. Remitir a la Dirección de Policía Judicial, las órdenes de aprehensión, reaprehensión, comparecencia, arresto, presentación y cateo y llevar un estricto control y seguimiento de las mismas;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2000)</small>
+
+XVII. Remitir a la Dirección de Policía Ministerial, las órdenes de aprehensión, reaprehensión, comparecencia, arresto, presentación y cateo y llevar un estricto control y seguimiento de las mismas;
 
 XVIII. Remitir a la Dirección de Investigación Criminalística y Servicios Periciales la información que ésta requiera para la expedición de certificados o constancias de antecedentes penales, conforme a los datos de que disponga; y
 
@@ -709,19 +719,27 @@ IX. Mantener actualizado el registro de antecedentes penales en el Estado; y
 
 X. Las demás que le sean encomendadas por el Procurador General de Justicia.
 
-### CAPITULO X. DE LA POLICÍA JUDICIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ABRIL DE 2000)</small>
+
+### CAPÍTULO X. DE LA DIRECCIÓN DE LA POLICÍA MINISTERIAL
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
 
 ###### Artículo 46.
 
-La Policía Judicial es el cuerpo policial encargado de la investigación de los delitos del fuero común, que actuará bajo la autoridad y mando directo e inmediato del Ministerio Público. Tendrá las dependencias y áreas que estatuya su reglamento.
+La Policía Ministerial es el cuerpo policial encargado de la investigación de los delitos del fuero común, que actuará bajo la autoridad y mando directo e inmediato del Ministerio Público. Tendrá las dependencias y áreas que estatuya su reglamento.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
 
 ###### Artículo 47.
 
-La Dirección de la Policía Judicial del Estado estará a cargo de un Director, mismo que será designado y removido libremente por el Procurador General de Justicia.
+La Dirección de Policía Ministerial del Estado estará a cargo de un Director, mismo que será designado y removido libremente por el Procurador General de Justicia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2000)</small>
 
 ###### Artículo 48.
 
-Para ser Director de la Policía Judicial del Estado se requiere:
+Para ser Director de la Policía Ministerial del Estado, se requiere:
 
 I. Ser ciudadano mexicano;
 
@@ -737,13 +755,19 @@ VI. No haber sido condenado por delito doloso; y
 
 VII. No tener antecedentes negativos en los Registros Estatal y Nacional de Personal de Seguridad Pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2000)</small>
+
 ###### Artículo 49.
 
-El Director de la Policía Judicial tendrá las facultades y obligaciones siguientes:
+El Director de la Policía Ministerial tendrá las facultades y obligaciones siguientes:
 
-I. Dirigir los servicios de la Policía Judicial del Estado;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2000)</small>
 
-II. Vigilar que la Policía Judicial actúe siempre bajo la autoridad y mando inmediato del Ministerio Público del Estado, a cuyo efecto deberá asignar el número de elementos que estará adscrito permanentemente a las Agencias del Ministerio Público;
+I. Dirigir los servicios de la Policía Ministerial del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2000)</small>
+
+II. Vigilar que la Policía Ministerial actúe siempre bajo la autoridad y mando inmediato del Ministerio Público del Estado, a cuyo efecto deberá asignar el número de elementos que estará adscrito permanentemente a las Agencias del Ministerio Público;
 
 III. Coordinar las actividades y funcionamiento de sus áreas administrativas y operativas;
 
@@ -759,13 +783,33 @@ VIII. Ejecutar las órdenes de presentación, comparecencia, aprehensión y cate
 
 IX. Poner inmediatamente a disposición de la autoridad competente, a las personas aprehendidas y a las que deban ser presentadas por órdenes de comparecencia;
 
-X. Llevar el registro, distribución, control y trámite de las órdenes de investigación y presentación que dicten los Agentes del Ministerio Público, así como las órdenes de presentación, comparecencia, aprehensión y cateo que giren los órganos jurisdiccionales;
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2000)</small>
 
-XI. Rendir los informes necesarios para su intervención en los juicios de amparo;
+X. Coordinar el registro de la información y en su caso, de las actividades relacionadas con la detención en flagrancia de personas, de conformidad con lo dispuesto por los artículos 16 de la Constitución Política de los Estados Unidos Mexicanos y 116 del Código de Procedimientos Penales del Estado;
 
-XII. Colaborar en operativos con otras corporaciones policiales, previo acuerdo del Procurador General de Justicia, otorgándoles el apoyo que en derecho proceda y de acuerdo a los convenios que para ese efecto celebre la Procuraduría General de Justicia; y
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2000)</small>
 
-XIII. Las demás que le confieran otras disposiciones legales y el Procurador General de Justicia.
+XI. Coordinar, las actividades tendentes a otorgar protección a las víctimas u ofendidos por el delito, así como a sus familiares o personas relacionadas con el hecho, y a los testigos del mismo;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2000)</small>
+
+XII. Disponer y controlar, previo acuerdo con el Procurador General de Justicia, las actividades de colaboración institucional que solicite o proporcione a otras instituciones de procuración de justicia, así como con instancias públicas federales, estatales, municipales y del extranjero, conforme a sus atribuciones y competencia legales;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2000)</small>
+
+XIII. Llevar el registro, distribución, control y trámite de las órdenes de investigación y presentación que dicten los agentes del Ministerio Público, así como las órdenes de presentación, comparecencia, aprehensión y cateo que giren los órganos jurisdiccionales;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2000)</small>
+
+XIV. Rendir los informes necesarios que se les requieran en los juicios de amparo;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2000)</small>
+
+XV. Colaborar en operativos con otras corporaciones policiales, previo acuerdo con el Procurador General de Justicia, otorgándoles el apoyo que en derecho proceda y de acuerdo con los convenios que para ese efecto celebre la Procuraduría General de Justicia; y,
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2000)</small>
+
+XVI. Las demás que le confieran otras disposiciones legales y el Procurador General de Justicia.
 
 ### CAPITULO XI. DE LA COORDINACIÓN ADMINISTRATIVA
 
@@ -857,7 +901,9 @@ IV. Formular un programa de auditorías a las distintas unidades administrativas
 
 V. Recibir, llevar control e investigar, conforme a las normas y procedimientos aplicables, de las quejas y denuncias de irregularidades de los servidores públicos de la institución, resolviendo en su oportunidad sobre la aplicación de medidas o sanciones a que hubiere lugar;
 
-VI. Realizar visitas de supervisión a las dependencias del Ministerio Público, incluyendo a la Policía Judicial, para verificar que el desempeño de sus funciones se ajusten al principio de legalidad;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2000)</small>
+
+VI. Realizar visitas de supervisión a las dependencias del Ministerio Público, incluyendo a la Policía Ministerial, para verificar que el desempeño de sus funciones se ajuste al principio de legalidad;
 
 VII. Formular un programa para la aplicación de exámenes antidrogas al personal de la institución, y una vez autorizado por el Procurador General de Justicia, ocuparse de su ejecución;
 
@@ -1027,6 +1073,8 @@ Contra las resoluciones de no ejercicio de la acción penal por hechos que se hu
 
 ### CAPITULO ÚNICO. DE LAS CAUSAS, SANCIONES Y PROCEDIMIENTO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2000)</small>
+
 ###### Artículo 64.
 
 El Procurador General de Justicia tendrá los impedimentos que señala la Constitución Política del Estado. Los Agentes del Ministerio Público y demás servidores públicos mencionados en el artículo 20 de la presente Ley, no podrán ejercer la abogacía más que en causa propia y de su familia.
@@ -1057,13 +1105,17 @@ El Gobernador del Estado calificará las excusas del Procurador General de Justi
 
 La profesionalización de la institución del Ministerio Público se regirá por la presente Ley, sus normas reglamentarias y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
+
 ###### Artículo 69.
 
-La profesionalización del personal del Ministerio Público comprenderá el ingreso, formación, permanencia, promoción, especialización, prestaciones y sanciones de los Agentes del Ministerio Público, Peritos y Agentes de Policía Judicial.
+La profesionalización del personal del Ministerio Público comprenderá el ingreso, formación, permanencia, promoción, especialización, prestaciones y sanciones de los Agentes del Ministerio Público, Peritos y Agentes de la Policía Ministerial.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
 
 ###### Artículo 70.
 
-Por la naturaleza de sus funciones, los Agentes del Ministerio Público, Peritos y Agentes de Policía Judicial son trabajadores de confianza.
+Por la naturaleza de sus funciones, los Agentes del Ministerio Público, Peritos y Agentes de Policía Ministerial son trabajadores de confianza.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1999)</small>
 
@@ -1071,11 +1123,13 @@ Por la naturaleza de sus funciones, los Agentes del Ministerio Público, Peritos
 
 El servicio civil de carrera del Ministerio Público se regirá por lo dispuesto en el estatuto respectivo, el cual será expedido por el Gobernador Constitucional del Estado.
 
-## TITULO SÉPTIMO. DE LAS RESPONSABILIDADES ESPECIALES DE LOS AGENTES DEL MINISTERIO PUBLICO, PERITOS Y AGENTES DE POLICÍA JUDICIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ABRIL DE 2000)</small>
+
+## TITULO SEPTIMO. DE LAS RESPONSABILIDADES ESPECIALES DE LOS AGENTES DEL MINISTERIO PUBLICO, PERITOS Y AGENTES DE POLICIA MINISTERIAL
 
 ###### Artículo 71.
 
-Además de las señaladas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, son obligaciones, y su incumplimiento será causa de responsabilidad de los Agentes del Ministerio Público del Fuero Común, de los Agentes de Policía Judicial del Estado y de los Peritos al servicio de la Procuraduría General de Justicia, las siguientes:
+Además de las señaladas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, son obligaciones, y su incumplimiento será causa de responsabilidad de los Agentes del Ministerio Público del Fuero Común, de los Agentes de Policía Ministerial del Estado y de los Peritos al servicio de la Procuraduría General de Justicia, las siguientes:
 
 I. Conducirse en su función con apego a la legalidad y respeto a los derechos humanos;
 
@@ -1139,9 +1193,11 @@ En lo no previsto respecto a la investigación e imposición de sanciones a los 
 
 En el ejercicio de sus funciones, el personal del Ministerio Público observará las obligaciones inherentes a su calidad de servidores públicos y actuará con la diligencia necesaria para lograr la pronta, completa y debida procuración de justicia.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
+
 ###### Artículo 77.
 
-Los Agentes del Ministerio Público, Agentes de Policía Judicial y Peritos que sean sujetos a procesos (sic) penal como probables responsables de delito doloso o culposo calificado como grave por la ley, serán suspendidos desde que se dicte el auto de formal prisión y hasta que se emita sentencia ejecutoriada. En caso de que la sentencia fuese condenatoria, serán destituidos los involucrados; si fuese absolutoria, se les restituirá en sus derechos.
+Los Agentes del Ministerio Público, de Policía Ministerial y Peritos que sean sujetos a procesos penales como probables responsables de delito doloso o culposo calificado como grave por la ley, serán suspendidos desde que se dicte el auto de formal prisión y hasta que se emita sentencia ejecutoriada. En caso de que la sentencia fuese condenatoria, serán destituidos los involucrados; si fuese absolutoria, se les restituirá en sus derechos.
 
 TRANSITORIOS:
 
@@ -1202,3 +1258,13 @@ P.O. 9 DE JULIO DE 1999.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE ABRIL DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias que en otras disposiciones jurídicas se hagan a la Policía Judicial, se entenderán hechas a la Policía Ministerial.
