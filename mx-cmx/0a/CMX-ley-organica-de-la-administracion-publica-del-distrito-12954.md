@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "1999-05-20"
+last_updated: "2002-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE ENERO DE 2002.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -244,13 +244,17 @@ X. Secretaría de Seguridad Pública;
 
 XI. Secretaría de Turismo;
 
-XII. Procuraduría General de Justicia del Distrito Federal;
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
 
-XIII. Oficialía Mayor;
+XII. Secretaría de Cultura;
 
-XIV. Contraloría General del Distrito Federal, y
+XIII. Procuraduría General de Justicia del Distrito Federal;
 
-XV. Consejería Jurídica y de Servicios Legales.
+XIV. Oficialía Mayor;
+
+XV. Contraloría General del Distrito Federal, y
+
+XVI. Consejería Jurídica y de Servicios Legales.
 
 La Secretaría de Seguridad Pública y la Procuraduría General de Justicia del Distrito Federal se ubican en el ámbito orgánico del Gobierno del Distrito Federal y se regirán por las leyes específicas correspondientes.
 
@@ -506,9 +510,19 @@ XIV. Establecer y promover políticas para la educación y participación comuni
 
 XV. Regular y controlar las actividades ambientalmente riesgosas, de conformidad con lo que establece la Ley Ambiental del Distrito Federal;
 
-XVI. Realizar actividades de vigilancia y verificación ambiental, así como aplicar las sanciones previstas en las disposiciones jurídicas de la materia, y
+XVI. Realizar actividades de vigilancia y verificación ambiental, así como aplicar las sanciones previstas en las disposiciones jurídicas de la materia, y (sic)
 
-XVII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+XVII. Formular, conducir y ejecutar las políticas relativas a la flora y faunas silvestres que correspondan al ámbito de competencia del Distrito Federal, en términos de lo dispuesto por las leyes federales y locales en la materia y de conformidad con los convenios que se suscriban con la federación;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+
+XVIII. Administrar, coordinar y supervisar la operación y funcionamiento de los zoológicos del Distrito Federal, como centros de conservación, preservación y exhibición de flora y fauna, con fines de investigación, educación, recreación y esparcimiento para la población;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+
+XIX. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### Artículo 27.
 
@@ -538,9 +552,11 @@ X. Llevar a cabo los estudios técnicos e investigaciones de ingeniería para ma
 
 XI. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2002)</small>
+
 ###### Artículo 28.
 
-A la Secretaría de Desarrollo Social corresponde el despacho de las materias relativas a: desarrollo social, alimentación, educación, promoción de la equidad, cultura, recreación, deporte, administración de zoológicos, información social y servicios sociales comunitarios:
+A la Secretaría de Desarrollo Social corresponde el despacho de las materias relativas a: desarrollo social, alimentación, educación, promoción de la equidad, recreación, deporte, administración de zoológicos, información social y servicios sociales comunitarios:
 
 Específicamente cuenta con las siguientes atribuciones:
 
@@ -552,39 +568,37 @@ III. Formular, fomentar y ejecutar políticas y programas que contribuyan a elev
 
 IV. Establecer e instrumentar políticas y programas de apoyo, suministro y orientación en materia alimentaria;
 
-V. Formular, fomentar, coordinar y ejecutar políticas, programas y acciones de difusión, promoción y preservación de la cultura en el Distrito Federal;
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN LA G. O. DE 31 DE ENERO DE 2002, POR EL QUE SE REFORMA EL ARTICULO 28 DEL PRESENTE ORDENAMIENTO, SE ELIMINA EL CONTENIDO DE LA FRACCION V, RECORRIENDOSE LOS NUMERALES DE LAS SIGUIENTES FRACCIONES RESPETANDO SU TEXTO ACTUAL.</small>
 
-VI. Formular, fomentar, coordinar y ejecutar políticas y programas para el desarrollo, organización, promoción y difusión del deporte y recreación de la población del Distrito Federal;
+V. Formular, fomentar, coordinar y ejecutar políticas y programas para el desarrollo, organización, promoción y difusión del deporte y recreación de la población del Distrito Federal;
 
-VII. Formular, fomentar, coordinar y ejecutar políticas y programas que promuevan la equidad y la igualdad de oportunidades y que eliminen los mecanismos de exclusión social de grupos sociales de atención prioritaria: mujeres, jóvenes, niños y niñas, población indígena, adultos mayores y personas con discapacidad;
+VI. Formular, fomentar, coordinar y ejecutar políticas y programas que promuevan la equidad y la igualdad de oportunidades y que eliminen los mecanismos de exclusión social de grupos sociales de atención prioritaria: mujeres, jóvenes, niños y niñas, población indígena, adultos mayores y personas con discapacidad;
 
-VIII. Promover la coordinación de acciones y programas de combate a la pobreza que se ejecuten en el Distrito Federal;
+VII. Promover la coordinación de acciones y programas de combate a la pobreza que se ejecuten en el Distrito Federal;
 
-IX. Establecer, fomentar, coordinar y ejecutar políticas y programas en materia de asistencia social en el Distrito Federal;
+VIII. Establecer, fomentar, coordinar y ejecutar políticas y programas en materia de asistencia social en el Distrito Federal;
 
-X. Formular, fomentar, coordinar y ejecutar políticas y programas de prevención y atención a grupos sociales de alta vulnerabilidad como son: niños y niñas de la calle, víctimas de violencia familiar, población con adicciones, personas que viven con el virus de la inmuno deficiencia humana, trabajadoras y trabajadores sexuales e indigentes;
+IX. Formular, fomentar, coordinar y ejecutar políticas y programas de prevención y atención a grupos sociales de alta vulnerabilidad como son: niños y niñas de la calle, víctimas de violencia familiar, población con adicciones, personas que viven con el virus de la inmuno deficiencia humana, trabajadoras y trabajadores sexuales e indigentes;
 
-XI. Establecer y vigilar el cumplimiento de normas y modelos de atención para grupos de alta vulnerabilidad en el Distrito Federal;
+X. Establecer y vigilar el cumplimiento de normas y modelos de atención para grupos de alta vulnerabilidad en el Distrito Federal;
 
-XII. Promover, fomentar y coordinar acciones para prevenir y combatir la desintegración familiar;
+XI. Promover, fomentar y coordinar acciones para prevenir y combatir la desintegración familiar;
 
-XIII. Vigilar que las instituciones de asistencia privada y sus patronatos cumplan con las leyes y otras disposiciones jurídicas aplicables;
+XII. Vigilar que las instituciones de asistencia privada y sus patronatos cumplan con las leyes y otras disposiciones jurídicas aplicables;
 
-XIV. Administrar, coordinar, y supervisar la operación de zoológicos del Distrito Federal, con el fin de la investigación, conservación y exhibición de flora y fauna que contribuyan a la educación, recreación y esparcimiento de la población;
+XIII. Proporcionar mediante un servicio público telefónico información, orientación y apoyo, así como asistencia médica, legal y psicológica a la población en general;
 
-XV. Proporcionar mediante un servicio público telefónico información, orientación y apoyo, así como asistencia médica, legal y psicológica a la población en general;
+XIV. Formular, fomentar, coordinar y ejecutar políticas, programas y acciones de promoción y difusión de la investigación científica y la innovación tecnológica;
 
-XVI. Formular, fomentar, coordinar y ejecutar políticas, programas y acciones de promoción y difusión de la investigación científica y la innovación tecnológica;
+XV. Recibir y sistematizar la información que en materia de investigación científica e innovación tecnológica reciba de las instituciones académicas y centros de investigación públicos y privados, y operar un sistema de consulta al servicio de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal y público en general;
 
-XVII. Recibir y sistematizar la información que en materia de investigación científica e innovación tecnológica reciba de las instituciones académicas y centros de investigación públicos y privados, y operar un sistema de consulta al servicio de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal y público en general;
+XVI. Fomentar la participación de las organizaciones civiles y comunitarias, de las instituciones académicas y de investigación y de la sociedad en general, en el diseño instrumentación y operación de las políticas y programas que lleve a cabo la Secretaría;
 
-XVIII. Fomentar la participación de las organizaciones civiles y comunitarias, de las instituciones académicas y de investigación y de la sociedad en general, en el diseño instrumentación y operación de las políticas y programas que lleve a cabo la Secretaría;
+XVII. Apoyar iniciativas y proyectos de la sociedad relacionados con las materias a cargo de la Secretaría;
 
-XIX. Apoyar iniciativas y proyectos de la sociedad relacionados con las materias a cargo de la Secretaría;
+XVIII. Coordinarse con las dependencias, entidades, órganos desconcentrados de la Administración Pública del Distrito Federal, de la Federación y de otras entidades federativas, en los ámbitos de su competencia, de acuerdo con lo establecido por las disposiciones jurídicas de la materia; y
 
-XX. Coordinarse con las dependencias, entidades, órganos desconcentrados de la Administración Pública del Distrito Federal, de la Federación y de otras entidades federativas, en los ámbitos de su competencia, de acuerdo con lo establecido por las disposiciones jurídicas de la materia; y
-
-XXI. Las demás que le atribuyan expresamente las leyes y reglamentos.
+XIX. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### Artículo 29.
 
@@ -761,6 +775,62 @@ X. Promover, coordinar y, en su caso, asesorar y apoyar la organización de reun
 XI. Proyectar, promover y apoyar el desarrollo de la infraestructura turística de la ciudad y estimular la participación de los sectores social y privado, y
 
 XII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+Artículo 32 bis.- A la Secretaría de Cultura le corresponde diseñar y normar las políticas, programas y acciones de investigación, formación, difusión, promoción y preservación del arte y cultura en el Distrito Federal, así como impulsar, desarrollar, coordinar y ejecutar todo tipo de actividades culturales. Las actividades de la Secretaría estarán orientadas a enriquecer la calidad de las manifestaciones culturales con base en los principios democráticos de igualdad, libertad, tolerancia y pluralidad. Lo anterior en el marco del respeto a la diversidad e identidad culturales, el derecho al desarrollo de la propia cultura, la conservación de las tradiciones y la participación social.
+
+Específicamente tendrá las siguientes atribuciones:
+
+I. Apoyar la formación y el desarrollo cultural de los habitantes de la Ciudad de México, sin distinción alguna;
+
+II. Fomentar, propiciar y apoyar la creación artística en todos sus géneros;
+
+III. Promover y difundir entre la población del Distrito Federal la cultura local, nacional e internacional en sus expresiones artísticas, científicas y tecnológicas;
+
+IV. Conservar, administrar y acrecentar los bienes, históricos, arqueológicos y artísticos ubicados en la Ciudad de México, a excepción de los que sean competencia de la federación, en los términos de las leyes relativas;
+
+V. Formular y coordinar la ejecución de programas de formación cultural no formal;
+
+VI. Estimular la educación artística, a través de los talleres de iniciación, escritura, lectura, artes plásticas, música, artes escénicas, cine, audio, video y multimedia para niños, jóvenes y adultos;
+
+VII. Organizar cursos, concursos, festivales, y otras formas de participación para enriquecer la vida cultural;
+
+VIII. Impulsar la participación de los habitantes de la ciudad en la elaboración, promoción y divulgación de los proyectos culturales a cargo de la administración pública;
+
+IX. Operar un sistema de información y comunicación a fin de promover de manera oportuna al público en general la oferta y demanda culturales en la Ciudad de México;
+
+X. Apoyar la creación, la difusión editorial y el hábito de la lectura entre los habitantes del Distrito Federal;
+
+XI. Establecer las políticas y lineamientos para la creación, uso y aprovechamiento de los centros y espacios culturales, tanto de la administración centralizada, como de los que se encuentren asignados a los órganos político administrativos y coordinar con ellos, las actividades de su competencia;
+
+XII. Promover el conocimiento de la historia, la geografía y el patrimonio cultural urbano y rural de la Ciudad de México;
+
+XIII. Procurar y concertar los instrumentos jurídicos necesarios que permitan desarrollar la cooperación cultural con todo tipo de organismos o instituciones tanto públicas como privadas, nacionales o extranjeras;
+
+XIV. Apoyar las actividades de investigación, reflexión y discusión relativas a la cultura;
+
+XV. Promover la creación y ampliación de diversas opciones de organización, administración y de financiamiento, que permitan impulsar y fortalecer las actividades culturales;
+
+XVI. Impulsar la actividad cultural que se desarrolla en las unidades territoriales, pueblos, barrios, colonias y unidades habitacionales. En coordinación con los órganos político administrativos;
+
+XVII. Procurar el equilibrio geográfico y social de la oferta de servicios y bienes culturales que se generan en la Ciudad de México;
+
+XVIII. Otorgar reconocimientos y estímulos al mérito de los creadores artísticos, investigadores, interpretes o promotores culturales, mediante evaluaciones sustentadas en los principios de objetividad, imparcialidad y equidad;
+
+XIX. Desarrollar la formación y capacitación de investigadores y promotores culturales;
+
+XX. Apoyar, preservar y difundir el arte, las artesanías, las expresiones de cultura popular, las festividades y tradiciones de las comunidades establecidas en el Distrito Federal;
+
+XXI. Establecer los instrumentos y procedimientos necesarios, a fin de brindar apoyo y facilitar las gestiones de los creadores y productores que, por la magnitud y trascendencia de sus proyectos o actividades, así lo requieran ante la autoridad correspondiente;
+
+XXII. Concertar y desarrollar de manera conjunta con otras instituciones y dependencias del sector público, programas cívicos y protocolarios que permitan fortalecer los valores nacionales y las conductas patrióticas y democráticas;
+
+XXIII. Fijar los lineamientos de operación del Archivo Histórico de la Ciudad, del Consejo de la Crónica de la Ciudad de México;
+
+XXIV. Administrar y programar las actividades de los museos, las agrupaciones musicales, los teatros que le sean adscritos; la Orquesta Filarmónica de la Ciudad de México, las escuelas de música y danza y las demás que le sean asignadas; y
+
+XXV. Las demás que le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 33.
 
@@ -1052,7 +1122,7 @@ XXXVI. Prestar en forma gratuita, servicios funerarios cuando se trate de person
 
 XXXVII. Proponer las modificaciones al Programa Delegacional y a los Programas Parciales de su demarcación territorial;
 
-XXXVllI. Realizar campañas de salud pública, en coordinación con las autoridades federales y locales que correspondan;
+XXXVIII. Realizar campañas de salud pública, en coordinación con las autoridades federales y locales que correspondan;
 
 XXXIX. Coordinar con otras dependencias oficiales, instituciones públicas o privadas y con los particulares, la prestación de los servicios médicos asistenciales;
 
@@ -1152,15 +1222,25 @@ Son empresas de participación estatal mayoritaria de la Administración Públic
 
 Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles en las que la mayoría de los asociados sean dependencias o entidades de la Administración Pública del Distrito Federal o servidores públicos de ésta que participen en razón de sus cargos o alguna o varias de ellas se obliguen a realizar o realicen las aportaciones económicas preponderantes.
 
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
 ###### Artículo 43.
 
-Los fideicomisos públicos a que se refiere el artículo 2o. de la presente Ley, son aquellos contratos mediante los cuales la Administración Pública del Distrito Federal, a través de la Secretaría de Finanzas en su carácter de fideicomitente, destina ciertos bienes a un fin lícito determinado, encomendando la realización de ese fin a una institución fiduciaria, con el propósito de auxiliar al Jefe de Gobierno en la realización de las funciones que legalmente le corresponden.
+Los Fideicomisos Públicos al que se refiere el artículo 2º de la presente ley, son aquellos contratos mediante los cuales la Administración Pública del Distrito Federal, a través de la Secretaría de Finanzas en su carácter de fideicomitente, destina ciertos bienes a un fin licito determinado, encomendando la realización de ese fin a una institución fiduciaria, con el propósito de auxiliar al Jefe de Gobierno o a los Jefes Delegacionales, en la realización de las funciones que legalmente les corresponden.
 
 ###### Artículo 44.
 
 El Jefe de Gobierno, aprobará la participación del gobierno de la entidad en las empresas de participación estatal mayoritaria, ya sea para su creación o para aumentar su capital o patrimonio y, en su caso, adquirir todo o parte de éstas.
 
 Dicha aprobación también será indispensable para constituir o aumentar fideicomisos públicos. Las autorizaciones serán otorgadas por conducto de la Secretaría de Finanzas, la que fungirá como fideicomitente único de la Administración Pública del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+Las delegaciones únicamente podrán participar en fideicomisos públicos previa autorización del Jefe de Gobierno, y en estos la Secretaría de Finanzas también fungirá como fideicomitente único.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+Las delegaciones no podrán constituir ni participar en fideicomisos de carácter privado.
 
 ###### Artículo 45.
 
@@ -1169,6 +1249,10 @@ A efecto de llevar la operación de las entidades del Distrito Federal, el Jefe 
 ###### Artículo 46.
 
 Los órganos de gobierno de las entidades estarán a cargo de la administración de los organismos descentralizados, de las empresas de participación estatal mayoritaria, así como, en su caso, los comités técnicos de los fideicomisos públicos, y deberán estar integrados mayoritariamente por servidores públicos de la Administración Pública del Distrito Federal, sin que en ningún caso existan regímenes especiales de voto que afecten la capacidad de decisión de dichos servidores públicos.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+En los fideicomisos en los que participen las delegaciones el Jefe de Gobierno podrá autorizar que la participación mayoritaria de servidores públicos de la Administración Pública Local, a que se refiere el párrafo anterior, se constituye a través de los servidores públicos de la delegación que corresponda.
 
 ###### Artículo 47.
 
@@ -1270,9 +1354,11 @@ El Consejo de Administración o su equivalente se reunirá con la periodicidad q
 
 ### CAPITULO IV. De los Fideicomisos Públicos
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2002)</small>
+
 ###### Artículo 61.
 
-Los fideicomisos públicos que se establezcan por la Administración Pública del Distrito Federal, serán los que se consideren entidades paraestatales conforme a lo dispuesto en esta Ley y quedarán sujetos a las disposiciones de la misma.
+Los fideicomisos públicos que se establezcan por la Administración Pública del Distrito Federal, incluso aquellos que se constituyan para auxiliar a los Jefes Delegacionales, serán los que se consideren entidades paraestatales conforme a lo dispuesto en esta ley y quedarán sujetos a las disposiciones de la misma.
 
 Los comités técnicos y los directores generales de los fideicomisos públicos citados en primer término se ajustarán en cuanto a su integración, facultades y funcionamiento a las disposiciones que en ésta Ley se establecen para los órganos de gobierno y para los directores generales, en cuanto sea compatible a su naturaleza.
 
@@ -1280,13 +1366,17 @@ Los comités técnicos y los directores generales de los fideicomisos públicos 
 
 El Jefe de Gobierno a través de la Secretaría de Finanzas, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al Comité Técnico, el cuál deberá existir obligadamente en los fideicomisos a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
 ###### Artículo 63.
 
-Las instituciones fiduciarias, a través del delegado fiduciario general, dentro de los seis meses siguientes a la constitución o modificación de los fideicomisos deberán someter a la consideración de la Secretaría encargada de la coordinación del sector al que pertenezcan, los proyectos de estructura administrativa o las modificaciones que se requieran.
+Las instituciones fiduciarias, a través del delegado fiduciario general, dentro de los seis meses siguientes a la constitución o modificación de los fideicomisos deberán someter a la consideración de la Secretaría encargada de la coordinación del sector al que pertenezcan o a la delegación que correspondan, los proyectos de estructura administrativa o las modificaciones que se requieran.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### Artículo 64.
 
-Cuando por virtud de la naturaleza, especialización u otras circunstancias de los fideicomisos, la institución fiduciaria requiera informes y controles especiales, de común acuerdo con la coordinadora de sector, instruirán al delegado fiduciario para:
+Cuando por virtud de la naturaleza, especialización u otras circunstancias de los fideicomisos, la institución fiduciaria requiera informes y controles especiales, de común acuerdo con la coordinadora de sector, o con la delegación, según corresponda instruirán al delegado fiduciario para:
 
 I. Someter a la previa consideración de la institución que desempeñe el cargo de fiduciaria, los actos, contratos y convenios de los que resulten derechos y obligaciones para el fideicomiso o para la propia institución;
 
@@ -1296,7 +1386,9 @@ III. Informar a la fiduciaria acerca de la ejecución de los acuerdos del comit�
 
 IV. Presentar a la fiduciaria la información contable requerida para precisar la situación financiera del fideicomiso; y
 
-V. Cumplir con los demás requerimientos que de común acuerdo con la coordinadora de sector, le fije la fiduciaria.
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+V. Cumplir con los demás requerimientos que de común acuerdo con la coordinadora de sector, o con la delegación, según corresponda, le fije la fiduciaria.
 
 ###### Artículo 65.
 
@@ -1304,11 +1396,17 @@ En los contratos de los fideicomisos se deberán precisar las facultades especia
 
 La institución fiduciaria deberá abstenerse de cumplir las resoluciones que el Comité Técnico dicte en exceso de las facultades expresamente fijadas por el fideicomitente, o en violación a las cláusulas del contrato de fideicomiso, debiendo responder de los daños y perjuicios que se causen, en caso de ejecutar actos en acatamiento de acuerdos dictados en exceso de dichas facultades o en violación al citado contrato.
 
-Cuando para el cumplimiento de la encomienda fiduciaria se requiera la realización de actos urgentes, cuya omisión pueda causar notoriamente perjuicios al fideicomiso, si no es posible reunir al Comité Técnico por cualquier circunstancia, la institución fiduciaria procederá a consultar al Jefe de Gobierno a través del coordinador de sector, quedando facultada para ejecutar aquellos actos que este autorice.
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
+Cuando para el cumplimiento de la encomienda fiduciaria se requiera la realización de actor (sic) urgentes, cuya omisión pueda causar notoriamente prejuicios al fideicomiso, si no es posible reunir al comité técnico por cualquier circunstancia, la institución fiduciaria procederá a consulta (sic) al Jefe de Gobierno a través del coordinador de sector o de la delegación, según corresponda, quedando facultada para ejecutar aquellos actos que aquel autorice.
 
 ###### Artículo 66.
 
 En los contratos constitutivos de fideicomisos de la Administración Pública del Distrito Federal centralizada, se deberá reservar al Jefe de Gobierno la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios, o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la Ley o que la naturaleza de sus fines no lo permita.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+La facultad del Jefe de Gobierno para revocar fideicomisos públicos, a que se refiere el párrafo anterior, también deberá reservarse para el Jefe de Gobierno en los contratos constitutivos de fideicomisos auxiliares de las delegaciones. El Jefe de Gobierno podrá delegar esta facultad en los Jefes Delegacionales.
 
 ### CAPITULO V. De la Operación y Control de las Entidades Paraestatales
 
@@ -1421,3 +1519,29 @@ G.O. 20 DE MAYO DE 1999.
 PRIMERO. El presente decreto entrará en vigor a los quince días de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal.
 
 SEGUNDO. Por ser de interés general, publíquese en el Diario Oficial de la Federación.
+
+G.O. 31 DE ENERO DE 2002.
+
+DECRETO POR EL QUE SE REFORMAN Y DEROGAN LOS ARTICULOS 26 Y 28 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL D.F.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- La Administración Pública del Distrito Federal realizará los actos jurídico-administrativos que sean necesarios para transferir a la Secretaría del Medio Ambiente los recursos humanos, materiales y financieros con los que cuentan actualmente las unidades administrativas adscritas a la Secretaría de Desarrollo Social, encargadas de la administración, coordinación y operación de los zoológicos del Distrito Federal, respetando los derechos laborales.
+
+G.O. 31 DE ENERO DE 2002.
+
+DECRETO POR EL QUE SE ADICIONAN, REFORMAN Y DEROGAN LOS ARTICULOS 15, 28 Y 32 BIS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL D.F.
+
+PRIMERO.- El presente decreto entrará en vigor a los noventa días naturales siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga la Ley del Instituto de Cultura de la Ciudad de México publicada el 31 de diciembre de 1999 en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Dentro del plazo señalado en el artículo primero transitorio de este decreto, el Jefe de Gobierno del Distrito Federal, por conducto de la Secretaría de Finanzas, Desarrollo Social, y Oficialía Mayor, instrumentará los actos jurídico-administrativos que sean necesarios para la extinción del organismo público descentralizado denominado Instituto de Cultura de la Ciudad de México y para la asignación de los recursos humanos, financieros y materiales que integran su patrimonio a la Secretaría de Cultura del Distrito Federal para el cumplimiento de sus atribuciones. En la transferencia de los recursos humanos deberán respetarse los derechos laborales de los trabajadores.
+
+CUARTO.- Las atribuciones establecidas en otras leyes para el Instituto de Cultura de la Ciudad de México y para la Secretaría de Desarrollo Social en materia de cultura, se entenderán conferidas a la Secretaría de Cultura a partir de la entrada en vigor de este decreto.
+
+G.O. 31 DE ENERO DE 2002.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 43, 44, 46, 61 Y 63 A 66 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL D.F.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
