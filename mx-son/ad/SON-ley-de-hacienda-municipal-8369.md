@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1987-11-16"
+last_updated: "1989-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE NOVIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE NOVIEMBRE DE 1989.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -105,7 +105,9 @@ I.- Impuestos: Las contribuciones establecidas en Ley, a cargo de las personas f
 
 II.- Derechos: Las contribuciones establecidas en Ley, por los servicios que prestan los Ayuntamientos en sus funciones de derecho público, así como por el uso o aprovechamiento de sus bienes de dominio público.
 
-III.- Contribuciones especiales por mejoras: Las aportaciones establecidas en las leyes fiscales respectivas, a cargo de personas físicas o morales, que se beneficien en forma directa por obras públicas de interés general realizadas por los Ayuntamientos.
+> <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 1989)</small>
+
+III.- Contribuciones especiales por mejoras: Las aportaciones establecidas en las leyes fiscales respectivas, a cargo de personas físicas o morales, que se beneficien por obras públicas de interés general.
 
 IV.- Productos: Las contraprestaciones por los servicios que presten los Ayuntamientos en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de sus bienes de dominio privado.
 
@@ -153,7 +155,9 @@ GRUPO I.- Aconchi, Arivechi, Arizpe, Bacadéuachi, Bacanora, Bacerac, Bacoachi, 
 
 GRUPO II.- Alamos, Altar, Atil, Bacúm, Benjamín Hill, Carbó, La Colorada, Cucurpe, Imuris, Opodepe, Oquitoa, San Miguel de Horcasitas, Magdalena, Nacozari de García, Saric, Suaqui Grande, Trincheras, Tubutama, Pitiquito, Santa Ana y Ures.
 
-GRUPO III.- Agua Prieta, Cananea, Empalme, Etchojoa, Huatabampo, Nogales, Puerto Peñasco y San Luis Río Colorado.
+> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
+
+GRUPO III.- Agua Prieta, Cananea, Empalme, Etchojoa. Gral. Plutarco Elías Calles, Huatabampo, Nogales, Puerto Peñasco y San Luis Río Colorado.
 
 GRUPO IV.- Caborca, Cajeme, Guaymas, Hermosillo, y Navojoa.
 
@@ -1337,7 +1341,7 @@ Por los servicios en materia de control sanitario de animales domésticos, que s
 
 ### CAPITULO TERCERO. Forma de Pago
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
 
 ###### ARTICULO 138.
 
@@ -1349,7 +1353,7 @@ Las actividades señaladas en el presente Capítulo causarán las siguientes cuo
 
 ### CAPITULO CUARTO. Recursos
 
-> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
 
 ### CAPITULO UNICO. Productos
 
@@ -1379,6 +1383,10 @@ II.- La construcción y reconstrucción de banquetas y guarniciones;
 
 III.- La construcción y reconstrucción de todas aquellas obras públicas que, por su realización, generen un beneficio directo a propietarios o poseedores a título de dueño, de inmuebles.
 
+> <small>(ADICIONADO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
+
+Cuando las obras públicas a que se refiere el presente Artículo, se realicen con fondos federales o estatales, previa la celebración de los acuerdos de coordinación respectivos, los Ayuntamientos podrán percibir, en los términos del presente Capítulo, las contribuciones especiales por mejoras y los ingresos que se perciban por el valor recuperable que de dichas obras corresponda, se destinará a la ejecución de obras públicas.
+
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 141.
@@ -1397,11 +1405,11 @@ II.- Las personas físicas o morales poseedoras a título de dueño de los predi
 
 III.- Las personas físicas o morales que hayan adquirido derechos sobre los predios beneficiados con las obras públicas, en virtud de cualquier contrato preparatorio de otro que sea traslativo de dominio o posesorio, siempre que estén en posesión de los mismos. El propietario del predio será solidariamente responsable con su contratante por el monto total de la contribución que les corresponda cubrir, mientras no se perfeccione el contrato definitivo.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
 
 ###### ARTICULO 143.
 
-La cantidad global a cargo de los contribuyentes beneficiados, siempre será inferior al costo total de las obras, y se destinará exclusivamente para el pago de las erogaciones que se originen de las mismas.
+La cantidad global a cargo de los contribuyentes beneficiados, siempre será inferior al costo total de las obras, y se destinará exclusivamente para el pago de las erogaciones que se originen de las mismas, con excepción de lo previsto en el Artículo 140 de este ordenamiento.
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1427,7 +1435,9 @@ Cuando los Ayuntamientos de los Municipios del Estado determinen realizar las ob
 
 I.- Elaborar los proyectos, programas, especificaciones de construcción y presupuestos de las obras;
 
-II.- Identificar los predios que recibirán el beneficio directo por la realización de las obras relativas; y
+> <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 1989)</small>
+
+II.- Identificar los predios que recibirán la mejora por la realización de las obras relativas;
 
 III.- Determinar:
 
@@ -1445,23 +1455,11 @@ d) La forma y términos en que deberá hacerse el pago respectivo.
 
 En la Iniciativa de Ley que los Ayuntamientos de los Municipios del Estado envíen a la Legislatura Local, para que se establezcan las contribuciones especiales por mejoras, deberán especificarse los datos a que se refiere el artículo anterior.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
 
 ###### ARTICULO 148.
 
-Antes de la iniciación de las obras, el Ayuntamiento, por conducto de la Tesorería Municipal, notificará personalmente a los beneficiados:
-
-I.- La descripción genérica de la obra pública relativa;
-
-II.- La ubicación del predio del contribuyente;
-
-III.- El costo total estimado de la obra;
-
-IV.- La cantidad global que deben aportar los beneficiados y la individual que le corresponda a cada uno;
-
-V.- El período probable de iniciación y terminación de la obra; y
-
-VI.- El término en que debe hacerse el pago y si será al contado o en parcialidades.
+La documentación relativa al valor de las obras podrá ser consultada por las personas obligadas a pagar la contribución especial por mejoras, durante un año, contado a partir de la fecha en que se concluya la obra.
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1475,23 +1473,23 @@ II.- Los precios de las construcciones que sea necesario demoler y de los predio
 
 III.- Los gastos generales necesarios para la ejecución de la obra, incluyendo su financiamiento.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
 
 ###### ARTICULO 150.
 
-Del costo de las obras a que se refiere el artículo anterior, deberá deducirse, según sea el caso:
+Del costo de las obras a que se refiere el Artículo anterior, deberá deducirse según sea el caso:
 
-I.- El precio en que se estime se venderán las fracciones de predios adquiridos, que no se utilicen para la obra;
+I.- El precio en que se estime se venderán las fracciones de predios adquiridos, que no se utilicen para la obra; y
 
-II.- El precio en que se estimen se venderán, previo el cumplimiento de las formalidades legales relativas, las superficies de vía pública que vayan a dejar de ser utilizadas como tales, con motivo de la ejecución de la obra; y
+II.- El precio que se estime se venderán, previo el cumplimiento de las formalidades legales relativas, las superficies de vía pública que vayan a dejar de ser utilizadas como tales, con motivo de la ejecución de las obras.
 
-III.- Las aportaciones voluntarias de particulares o de entidades públicas, destinadas a la ejecución de la obra.
+Cuando las obras públicas se realicen con fondos del Municipio, se deberán deducir del costo de las obras, según el caso, las aportaciones voluntarias o de entidades públicas, destinadas a la ejecución de la obra.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
 
 ###### ARTICULO 151.
 
-Los presupuestos de las obras a que este Título se refiere, estarán sujetos a las fluctuaciones en el costo de materiales de construcción y mano de obra; los ajustes que se requieran por este concepto, una vez conocidos por el Ayuntamiento, se harán del conocimiento de los contribuyentes para el ajuste correspondiente, por conducto de la Tesorería Municipal.
+Los presupuestos de las obras a que este Título se refiere, estarán sujetos a las fluctuaciones en el costo de materiales de construcción, mano de obra y operación de la maquinaria y equipo utilizados.
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1507,13 +1505,29 @@ La forma de determinar el monto de las cuotas de las contribuciones especiales p
 
 ###### ARTICULO 153.
 
-El pago de las contribuciones especiales por mejoras, podrá hacerse en una sola exhibición o en parcialidades.
+El pago de las contribuciones especiales por mejoras, podrá hacerse en una sola exhibición o en parcialidades. Las leyes fiscales que establezcan contribuciones especiales por mejoras determinarán la forma para el pago de estas en parcialidades, atendiendo a la naturaleza específica de cada obra.
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 154.
 
 El término para el pago empezará a correr desde el día siguiente a la fecha en que se notifique al contribuyente la terminación total de la obra o cuando parte de ésta se ponga en servicio.
+
+> <small>(ADICIONADO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
+
+La notificación a que se refiere el presente Artículo, que realizará el Ayuntamiento por conducto de la Tesorería Municipal, deberá contener:
+
+I.- La descripción genérica de la obra pública relativa;
+
+II.- La ubicación del predio del contribuyente;
+
+III.- El costo total de la obra;
+
+IV.- La cantidad global que deban aportar los beneficiados y la individual que le corresponda pagar al contribuyente que se notifica.
+
+Cuando se hubieren realizado aportaciones voluntarias para la ejecución de obras públicas, se deducirá de la cantidad individual a que se refiere esta fracción el importe de la cantidad que se hubiere aportado previamente; y
+
+V.- El término en que deberá hacerse el pago y si será al contado o en parcialidades.
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1539,7 +1553,9 @@ Cuando las contribuciones especiales por mejoras se paguen en parcialidades, el 
 
 ###### ARTICULO 157.
 
-Dentro de los quince días siguientes a las notificaciones a que se refieren los artículos 148 y 151 del presente Título, el beneficiado podrá interponer el recurso administrativo de reconsideración y ofrecer, en su caso, las pruebas correspondientes ante la Tesorería Municipal; de no hacerlo, se considerarán aceptadas la contribución a su cargo y las condiciones de pago de los incrementos notificados.
+Dentro de los quince días siguientes a la notificación a que se refiere el Artículo 154 del presente Título, el beneficiado podrá interponer el recurso administrativo de reconsideración y ofrecer, en su caso, las pruebas correspondientes ante la Tesorería Municipal; de no hacerlo, se considerará aceptada la contribución a su cargo.
+
+> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 Si el recurso se interpone fuera de término o no se ofrecieren las pruebas correspondientes, se desechará de plano.
 
@@ -1878,3 +1894,9 @@ Cuando con anterioridad al 1o. de enero de 1988, se hubieran causado recargos so
 ###### ARTICULO CUARTO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, quedando derogadas todas aquéllas disposiciones administrativas, resoluciones, consultas, interpretaciones y autorizaciones de carácter general o que se hubiesen otorgado a título particular, que contravengan o supongan a lo preceptuado a la presente Ley.
+
+B.O. 9 DE NOVIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
