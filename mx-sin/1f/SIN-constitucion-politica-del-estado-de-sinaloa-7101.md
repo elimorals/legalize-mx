@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1930-05-31"
+last_updated: "1930-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1930.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1930.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -703,7 +703,29 @@ La Ley Orgánica del Ministerio Público, reglamentará la institución.
 
 #### SECCION IV. DE LA HACIENDA PUBLICA
 
-#### SECCION V. DE LA ENSEÑANZA PUBLICA
+#### SECCION IV BIS. DE LA COMPETENCIA FISCAL
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 1930)</small>
+
+Art. 89 A. De los impuestos que cobren los Municipios y el Gobierno del Estado, corresponden a éste exclusivamente los que graven las siguientes fuentes de riqueza:
+
+I. Propiedad raíz rústica y urbana.
+
+II. El comercio, la industria y la Agricultura.
+
+III. Ejercicio de profesiones y oficios.
+
+IV. Herencias, legados y donaciones.
+
+V. Cualesquiera otras fuentes, siempre que no se oponga la Constitución General de la República o las leyes federales.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 1930)</small>
+
+Art. 89 B. La base de los ingresos de los Municipios del Estado será el producto de sus bienes propios y de los servicios públicos que suministren cuando éstos no deban prestarse gratuitamente; sólo cuando los ingresos resultantes sean insuficientes, el Congreso del Estado autorizará a los Municipios por medio de una Ley general de ingresos municipales a cobrar impuestos sobre ramos que no graven el Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 1930)</small>
+
+Art. 89 C. Para compensar a los Ayuntamientos la prohibición que tienen de fijar impuestos sobre las mismas fuentes que se reserva el Estado, éste cobrará directamente un adicional sobre todos sus impuestos, que destinará a los Municipios; dicho adicional subsistirá mientras subsista la insuficiencia a que se refiere el artículo anterior. Unicamente no se cobrará el repetido adicional, sobre la minería y otros ramos en que la Federación fije determinado límite de imposición.
 
 ###### Art. 78.
 
@@ -713,7 +735,7 @@ Habrá en el Estado un Cuerpo de Defensores de Oficio, cuya misión será procur
 
 Los Defensores de Oficio deberán reunir los mismos requisitos exigidos para los Agentes del Ministerio Público y serán nombrados y removidos libremente por el Gobernador del Estado.
 
-#### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
+#### SECCION V. DE LA ENSEÑANZA PUBLICA
 
 ###### Art. 80.
 
@@ -756,6 +778,10 @@ Habrá en la Capital del Estado una Tesorería General, a la que real o virtualm
 Ningún funcionario o empleado del Estado o de los Municipios, que tenga a su cargo el manejo de caudales públicos, entrará a ejercer sus funciones, sin haberlo caucionado suficientemente.
 
 La omisión de esta formalidad hace responsables a las autoridades a quienes la ley encomiende hacer efectivo este requisito.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 8 DE NOVIEMBRE DE 1930)</small>
+
+#### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
 #### SECCION II. DE LOS JUECES DE 1ª INSTANCIA Y MENORES
 
@@ -1300,3 +1326,7 @@ P.O. 31 DE MAYO DE 1930.
 1o.- Esta ley comenzará a surtir sus efectos desde el día 15 de septiembre del año en curso.
 
 2o.- Los Diputados electos por las nuevas circunscripciones o Distritos Electorales durarán en su ejercicio, por esta sola vez, dos años; en el concepto que tan luego como queden incorporadas a la Constitución estas reformas, se votará la ley que marque los nuevos Distritos Electorales.
+
+P.O. 8 DE NOVIEMBRE DE 1930.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SINALOA.
