@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2001-01-16"
+last_updated: "2001-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2001.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -239,6 +239,10 @@ Dentro del Presupuesto de Egresos se considerarán como Unidades Presupuestales 
 
 Los organismos descentralizados aprobarán por conducto de sus propios órganos de gobierno sus respectivos presupuestos de egresos, con apego a lo establecido en la presente ley.
 
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2001)</small>
+
+Una vez aprobado el presupuesto, se remitirá copia del mismo al titular del poder ejecutivo para su conocimiento y para la publicación en el periódico oficial del estado, de la parte relativa a las remuneraciones de los titulares de los organismos a que se refiere este artículo.
+
 ###### Artículo 34.
 
 Las propuestas presupuestales que se hubiesen remitido a la Secretaría, serán revisadas en el seno del Comité y en su caso, se adecuarán de conformidad a los lineamientos emitidos y de acuerdo con el programa de Gobierno trazado por el titular del Poder Ejecutivo del Estado.
@@ -367,6 +371,16 @@ Aprobado el presupuesto de Egresos del Estado, éste regirá para el ejercicio f
 
 En caso de que para el día 31 de diciembre no sea aprobado el Presupuesto de Egresos correspondiente, se aplicará el ejercido el año inmediato anterior, incluyendo sus modificaciones.
 
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2001)</small>
+
+Artículo 46 bis.- El presupuesto que apruebe el Congreso deberá especificar el sueldo mensual bruto que corresponda a cada uno de los servidores públicos de los tres poderes del Estado, así como de sus respectivas entidades y dependencias. Las partidas destinadas al pago de prestaciones económicas distintas al sueldo se aplicarán atendiendo lo previsto en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y demás normatividad aplicable.
+
+El Congreso del Estado aprobará las remuneraciones de los diputados con base a los criterios de racionalidad, austeridad y disciplina fiscal. Las remuneraciones que correspondan a los magistrados del Poder Judicial y a los consejeros del Consejo General del mismo poder, serán iguales a las correspondientes a los diputados.
+
+La remuneración de los secretarios del Poder Ejecutivo será fijado entre el 80 y 150 por ciento de la que corresponda a los diputados.
+
+La remuneración que corresponda al Gobernador no podrá ser inferior al ciento cincuenta por ciento ni superior al doscientos por ciento de la que le corresponda a los diputados.
+
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 47.
@@ -428,6 +442,10 @@ III. Enviar al Congreso del Estado un informe detallado que justifique el uso de
 ###### Artículo 52.
 
 El ejercicio del gasto público estatal comprende el manejo y aplicación de los recursos, que para dar cumplimiento a los objetivos y metas de los programas aprobados, realicen las Dependencias y Entidades. Este deberá ajustarse a las partidas y montos presupuestales autorizados, salvo que se trate de aquellas que se señalen en el presupuesto de Egresos del Estado como de ampliación automática cuyo monto de erogación no sea posible prever.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2001)</small>
+
+Ninguna partida podrá considerarse como de ampliación automática en lo relativo a las remuneraciones que por cualquier concepto se establezca para los servidores públicos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -506,6 +524,10 @@ Solo se podrán realizar devoluciones por ingresos recibidos indebidamente de co
 ###### Artículo 63.
 
 Para el pago de las remuneraciones al personal que presta sus servicios al Estado, por concepto de sueldos, salarios, honorarios y demás prestaciones inherentes a éstos, se estará a lo dispuesto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, así como a la demás normatividad en la materia. Las nóminas se harán por cada periodo de pago y contendrán el nombre y la firma del Servidor Público que lo recibe. Dichos pagos no podrán ser modificados sin autorización en el presupuesto de egresos respectivo.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2001)</small>
+
+Los servidores públicos no podrán percibir pago alguno que no esté expresamente asignado en el presupuesto.
 
 ###### Artículo 64.
 
@@ -840,3 +862,7 @@ SEGUNDO.- El presente Decreto entrará en vigor 60 días después de su publicac
 P.O. 16 DE ENERO DE 2001.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE ENERO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor a los 60 sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
