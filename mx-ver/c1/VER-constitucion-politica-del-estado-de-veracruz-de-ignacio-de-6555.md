@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1986-12-16"
+last_updated: "1988-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE ENERO DE 1988.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -217,7 +217,7 @@ Los individuos que desempeñen algún cargo concejil quedarán exentos, durante 
 
 DEL PODER LEGISLATIVO.
 
-> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 1988)</small>
 
 ###### Artículo 20.
 
@@ -345,9 +345,11 @@ El Poder Legislativo, se deposita en una Asamblea denominada: "Legislatura del E
 
 El Poder Ejecutivo es ejercido por una sola persona, bajo la denominación de: "Gobernador del Estado."
 
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
+
 ###### Artículo 36.
 
-El ejercicio del Poder Judicial se deposita: en un Tribunal Superior de Justicia, en los Jueces de Primera Instancia, en los Municipales y en los demás que la ley establezca.
+El ejercicio del Poder Judicial, se deposita: en un Tribunal Superior de Justicia, en los Jueces de Primera Instancia, en los Menores, en los Municipales y en los demás que establezca la Ley.
 
 ###### Artículo 37.
 
@@ -363,17 +365,17 @@ No podrán ser reelectos para el período inmediato siguiente, los funcionarios 
 
 Los Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal del Estado, serán designados por el Gobernador y los nombramientos sometidos para su aprobación a la Legislatura.
 
-> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
 
 ###### Artículo 39.
 
-Para las elecciones de diputados se dividirá el Estado en dieciséis distritos electorales uninominales y toda la entidad constituirá una circunscripción plurinominal, en la que serán electos hasta quince diputados según el principio de representación proporcional, mediante el sistema de listas.
+Para las elecciones de Diputados, se dividirá al Estado en veinticuatro Distritos Electorales Uninominales y toda la Entidad constituirá una Circunscripción Plurinominal, en la que serán electos hasta dieciséis Diputados, según el principio de representación proporcional mediante el sistema de listas.
 
-> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
 
 ###### Artículo 40.
 
-La demarcación de cada uno de los dieciséis distritos electorales uninominales se señalará en la ley respectiva.
+La demarcación de cada uno de los veinticuatro Distritos Electorales Uninominales, se señalará en la Ley respectiva.
 
 > <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
 
@@ -409,19 +411,33 @@ Los padrones electorales se obtendrán en términos de la Ley Electoral respecti
 
 ###### Artículo 46.
 
-La Legislatura del Estado se compondrá de dieciséis miembros nombrados popularmente en elección directa, por mayoría relativa en los distritos electorales uninominales que establece la ley y hasta con quince diputados que serán electos por representación proporcional, mediante el sistema de listas votadas en la circunscripción plurinominal, que se sujetarán a las bases generales siguientes y a lo que en lo particular disponga la ley:
+La Legislatura del Estado se compondrá de veinticuatro miembros nombrados popularmente en elección directa, por la mayoría relativa en los Distritos Electorales Uninominales que establece la Ley y hasta con dieciséis Diputados que serán electos por representación proporcional, mediante el sistema de listas votadas en la circunscripción Plurinominal, que se sujetarán a las bases generales siguientes y a lo que en lo particular disponga la Ley:
 
-I. Para obtener el registro de su lista regional, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos ocho de los distritos uninominales.
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 1988)</small>
+
+I. Para tener el registro de su lista regional el Partido Político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa, en por lo menos doce de los veinticuatro Distritos Uninominales.
+
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
 
 II. Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido que alcance por lo menos el uno y medio por ciento del total de la votación emitida en la circunscripción plurinominal;
 
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
+
 III. El partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo le serán asignados, por el principio de representación proporcional, el número de diputados de su lista regional que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal;
+
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
 
 IV. La ley determinará la fórmula electoral y procedimientos que se observarán en dicha asignación, en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente;
 
-V. Los partidos políticos tendrán derecho a que les sean reconocidos hasta veintitrés diputados, sumando los electos por mayoría relativa y por representación proporcional; y
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 1988)</small>
+
+V. Los Partidos Políticos tendrán derecho a que les sean reconocidos hasta veintiocho Diputados, sumando los electos por mayoría relativa y por representación proporcional; y
+
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
 
 VI. Los diputados de mayoría relativa y de representación proporcional, como representantes del pueblo, tienen la misma categoría e iguales derechos y obligaciones.
+
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
 
 Por cada diputado propietario se nombrará un suplente.
 
@@ -437,9 +453,9 @@ Los diputados no podrán ser reelectos para el período inmediato a aquél en qu
 
 Para ser electo diputado propietario o suplente, se requiere:
 
-> <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 1988)</small>
 
-I. Ser ciudadano veracruzano, nativo del Estado, con residencia efectiva en el mismo, no menor de dos años anteriores al día de la elección y en ejercicio de sus derechos; o ser ciudadano mexicano por nacimiento, con residencia efectiva en el Estado no menor de cinco años al día de la elección, en caso de no ser nativo del mismo;
+I. Ser ciudadano veracruzano, nativo del Estado, o con residencia efectiva en el mismo no menor de cinco años inmediatamente anteriores al día de la elección en caso de no ser natural del mismo; en ambos casos en pleno ejercicio de sus derechos;
 
 II. Saber leer y escribir;
 
@@ -451,9 +467,9 @@ III. Haber cumplido veintiún años;
 
 IV. No ser ministro de ningún culto religioso;
 
-> <small>(REFORMADA, G.O. 11 DE ABRIL DE 1985)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO 1988)</small>
 
-V. No tener empleo, cargo o comisión del Estado o de otros estados, ni de la federación o municipios, o estar separado de ellos cuando menos sesenta días antes de la elección, únicamente por lo que hace a los propietarios; y
+V. No tener empleo, cargo o comisión del Estado o de otros Estados, ni de la Federación o Municipios, o estar separado de ellos cuando menos noventa días antes de la elección, únicamente por lo que hace a los propietarios; y
 
 > <small>(ADICIONADA, G.O. 21 DE ENERO DE 1984)</small>
 
@@ -479,11 +495,13 @@ V. Los Presidentes Municipales por los Distritos en que ejerzan autoridad; y
 
 VI. Los Jefes de las Rentas Federales y los Administradores de Rentas por los Distritos en donde ejerzan sus funciones.
 
-> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 1988)</small>
 
 ###### Artículo 50.
 
-La Legislatura calificará la elección de sus miembros a través de un Colegio Electoral, que se integrará por los seis presuntos diputados que, de acuerdo con las constancias de mayoría que registre la Comisión Estatal Electoral, hubieren obtenido mayor número de votos y por un presunto diputado de cada una de las 4 listas, de las registradas que hayan alcanzado la votación más alta en la circunscripción plurinominal.
+La Legislatura calificará la elección de sus miembros a través de un Colegio Electoral, que se integrará por todos los presuntos Diputados Electos por el principio de mayoría relativa que hubieren obtenido constancia de mayoría debidamente registrada y por todos los presuntos Diputados Electos por el principio de representación proporcional que hubieren obtenido constancia de asignación.
+
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
 
 Las resoluciones del Colegio Electoral de la Legislatura del Estado serán definitivas e inatacables.
 
@@ -593,7 +611,7 @@ Los Diputados, durante el período de su encargo, no podrán desempeñar, sin pe
 
 DE LA DIPUTACIÓN PERMANENTE.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
 
 ###### Artículo 67.
 
@@ -881,19 +899,21 @@ DE LOS MUNICIPIOS.
 
 El municipio libre es la base de la división territorial y de la organización política del Estado. Cada municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
 
 ###### Artículo 111.
 
-Para la aplicación del principio de representación proporcional, en la elección de los Ayuntamientos del Estado, el partido que alcance el mayor número de votos obtendrá la presidencia municipal, las sindicaturas y las agencias municipales. Las regidurías serán asignadas a cada partido, incluyendo aquél que obtuvo la mayor votación, de acuerdo con las fórmulas electorales y procedimientos que establezca la Ley.
+Para la aplicación del principio de representación proporcional, en la elección de los Ayuntamientos del Estado, el Partido que alcance el mayor número de votos obtendrá la Presidencia Municipal y las Sindicaturas. Las Regidurías serán asignadas a cada Partido, incluyendo aquel que obtuvo la mayor votación, de acuerdo con las fórmulas electorales y procedimientos que establezca la Ley.
+
+Los Agentes Municipales se elegirán de acuerdo al procedimiento que señala la Ley Orgánica del Municipio Libre.
 
 ###### Artículo 112.
 
 Para ser miembro de un Ayuntamiento se requiere:
 
-> <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 1988)</small>
 
-I. Ser ciudadano veracruzano, nativo del Estado, con residencia efectiva en el municipio, no menor de tres años anteriores al día de la elección y en ejercicio de sus derechos; o ser ciudadano mexicano por nacimiento en ejercicio de sus derechos; con residencia efectiva en el municipio, no menor de cinco años anteriores al día de la elección, en caso de no ser nativo del Estado;
+I. Ser ciudadano veracruzano, nativo del Estado, o con residencia efectiva en el municipio, no menor de cinco años inmediatamente anteriores al día de la elección en caso de no ser nativo del Estado; en ambos casos en pleno ejercicio de sus derechos.
 
 II. Saber leer y escribir;
 
@@ -901,9 +921,9 @@ II. Saber leer y escribir;
 
 III. No ser ministro de ningún culto religioso;
 
-> <small>(REFORMADA, G.O. 11 DE ABRIL DE 1985)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 1988)</small>
 
-IV. No tener empleo, cargo o comisión del Estado o de otros estados, ni de la federación o municipios, o estar separado de ellos cuando menos cuarenta y cinco días antes de la elección, únicamente por lo que hace a los propietarios; y
+IV. No tener empleo, cargo o comisión del Estado o de otros Estados, ni de la Federación o Municipios, o estar separado de ellos cuando menos sesenta días antes de la elección únicamente por lo que hace a los propietarios; y
 
 > <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
 
@@ -1039,7 +1059,13 @@ El ejercicio del Poder Judicial del Estado se deposita en los órganos a que se 
 
 El Tribunal Superior de Justicia estará integrado por 16 Magistrados Numerarios y 4 Supernumerarios; funcionará en Pleno o en Salas, según lo determine la Ley Orgánica y será presidido por un Magistrado que no integrará Sala, sino en los casos expresamente establecidos en la propia ley y designado por el Tribunal en Pleno, en la primera sesión del mes de diciembre de cada año, pudiendo ser reelecto; en sus faltas temporales, no mayores de treinta días, será sustituido por el Magistrado que él designe, pero si excediere de ese término, la designación la hará el Tribunal en Pleno. Los Magistrados Supernumerarios suplirán en sus ausencias a los Numerarios y además, tendrán el carácter de Visitadores Judiciales. Cada Magistrado del Tribunal Superior al entrar a ejercer su cargo, protestará ante la Legislatura y en los recesos de ésta, ante la Diputación Permanente, guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ellas emanen, mirando en todo por la prosperidad y bienestar del Estado, así como impartir recta y pronta justicia.
 
-Los jueces de Primera Instancia, protestarán en los mismos términos ante el Presidente del Tribunal Superior o ante la autoridad judicial que el mismo Presidente designe. Los jueces municipales y los auxiliares, protestarán, respectivamente ante los jueces primeros o únicos de Primera Instancia y ante los jueces municipales primeros o únicos.
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
+
+Los Jueces de Primera Instancia y los Menores, protestarán en los mismos términos ante el Presidente del Tribunal Superior o ante la Autoridad Judicial que el mismo Presidente designe.
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 1988)</small>
+
+Los Jueces Municipales protestarán ante los Jueces Primeros o únicos Menores o de Primera Instancia, y los auxiliares ante los Jueces Municipales.
 
 > <small>(REFORMADO, G.O. 21 y 23 DE DICIEMBRE DE 1944)</small>
 
@@ -1073,29 +1099,43 @@ Las designaciones de Magistrados serán sometidas a la aprobación de la Legisla
 
 Los Jueces de Primera Instancia y los Agentes del Ministerio Público que reúnan los requisitos prevenidos para ser nombrados Magistrados y que se hayan distinguido por su laboriosidad, eficacia, competencia y honradez en el ejercicio de sus funciones, serán preferidos a cualquier otro abogado para ser designados Magistrados.
 
-> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 1988)</small>
 
 ###### Artículo 98.
 
-Los Jueces de Primera Instancia serán nombrados por el Tribunal Superior de Justicia en Pleno mediante concurso de oposición. Será requisito previo para concursar en el citado examen de oposición, acreditar las materias del plan de estudios del Instituto de Especialización del Poder Judicial y satisfacer las cualidades de reconocido prestigio profesional, honradez, capacidad y buenos antecedentes dentro del Poder Judicial, en su caso.
+Los Jueces de Primera Instancia y los Jueces Menores, serán nombrados por el Tribunal Superior de Justicia en pleno mediante concurso de oposición. Será requisito previo para concursar en el citado examen de oposición, acreditar las materias del plan de estudios del Instituto de Especialización del Poder Judicial y satisfacer las cualidades de reconocido prestigio profesional, honradez, capacidad y buenos antecedentes dentro del Poder Judicial, en su caso.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
 Podrán quedar exentos de examen de oposición, a juicio del Tribunal en Pleno, quienes hayan fungido como Magistrados, Jueces de Primera Instancia o Procurador General de Justicia, en el supuesto de que reúnan las cualidades antes apuntadas.
 
-El Tribunal Superior podrá designar Jueces de Primera Instancia Interinos, hasta por un año improrrogable, para ocupar las vacantes que dejen los Titulares en los casos que señale la Ley respectiva.
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
+
+El Tribunal Superior podrá designar Jueces de Primera Instancia o Menores Interinos, hasta por un año improrrogable para ocupar las vacantes que dejen los titulares en los casos que señale la Ley respectiva.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
 Los Jueces Municipales serán nombrados por el Tribunal Superior de Justicia, a propuesta en terna del Juez o Jueces de Primera Instancia del Distrito Judicial respectivo.
 
-Los Jueces Auxiliares serán designados por el Juez Municipal de su Jurisdicción, oyendo a la comunidad y con aprobación de la Presidencia del Tribunal.
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
 
-> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
+Los Jueces Auxiliares serán designados por el Juez Municipal de su Jurisdicción o por el Juez Menor en su caso, oyendo a la comunidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 1988)</small>
 
 ###### Artículo 99.
 
-Los Magistrados del Tribunal Superior de Justicia y los jueces de Primera Instancia durarán en su cargo tres años, al término de los cuales, si fueren ratificados, sólo podrán ser privados de sus puestos, en los términos del Título Cuarto de la Constitución Federal o del Título Sexto de esta Constitución.
+Los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y los Jueces Menores durarán en su cargo tres años, al término de los cuales si fueren ratificados, sólo podrán ser privados de sus puestos, en los términos del Título Cuarto de la Constitución Federal o del Título Sexto de esta Constitución.
+
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
 
 Los jueces municipales durarán indefinidamente en sus funciones, siempre que desempeñen correctamente sus atribuciones legales; pero podrán ser destituidos cuando lo estime conveniente el Tribunal Superior, o en los casos que determine la Ley.
 
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
+
 Los jueces auxiliares durarán en sus funciones un año, pudiendo ser nombrados nuevamente para el siguiente, pero sin exceder de este término.
+
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
 
 El límite máximo de edad para el ejercicio de los cargos anteriores, será el de setenta años, cumplidos los cuales deberán retirarse forzosamente, para cuyo efecto el Tribunal en Pleno, a instancia del interesado o de oficio, hará la declaración correspondiente.
 
@@ -1129,11 +1169,11 @@ Si faltare algún Magistrado Propietario por defunción, renuncia, suspensión d
 
 Las licencias de los Magistrados, cuando no excedan de un mes serán concedidas por el Tribunal Superior; las que excedan de este tiempo, las concederá el Gobernador con aprobación de la Legislatura o, en sus recesos, de la Diputación Permanente.
 
-> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
 
 ###### Artículo 104.
 
-Los magistrados numerarios y supernumerarios del Tribunal Superior, el Procurador General de Justicia del Estado, los Jueces de Primera Instancia y los respectivos secretarios, no podrán servir o desempeñar al mismo tiempo, otro empleo o cargo de la Federación, del Estado, del Municipio o de particulares, salvo lo señalado en el artículo 133 de esta Constitución, los empleos en el ramo de enseñanza, y los cargos honoríficos en asociaciones científicas, literarias o de beneficencia, la infracción a esta disposición será castigada con la pérdida del cargo.
+Los Magistrados Numerarios y Supernumerarios del Tribunal Superior, el Procurador General de Justicia del Estado, los Jueces de Primera Instancia, los Jueces Menores y los respectivos Secretarios, no podrán servir o desempeñar al mismo tiempo otro empleo o cargo de la Federación, del Estado, del Municipio o de particulares, salvo los cargos honoríficos en asociaciones científicas, literarias o de beneficencia y lo señalado en el artículo 133 de esta Constitución. La infracción a esta disposición será castigada con la pérdida del cargo.
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
@@ -1151,15 +1191,17 @@ II. Erigirse en Jurado de Sentencia, conforme a lo dispuesto en el artículo 123
 
 III. Conocer, en los términos que fije la ley respectiva, en pleno, de los instructivos de responsabilidad que hayan de formarse a sus miembros, a los Secretarios del Despacho, al Procurador General de Justicia y a los Jueces de Primera Instancia, hasta resolver si ha lugar o no a formación de causas;
 
-> <small>(REFORMADA, G.O. 5 DE ABRIL DE 1984)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 1988)</small>
 
-IV. Nombrar a los jueces de Primera Instancia conforme a lo dispuesto en el artículo 98; removerlos de un Juzgado a otro o a Distrito distinto; admitirles sus renuncias; concederles, sin goce de sueldo, las licencias que soliciten para separarse del despacho; destituirlos o suspenderlos hasta por tres meses, con audiencia del interesado, por causa grave justificada que no dé lugar a que se les enjuicie e imponerles las demás sanciones económicas que determinen las leyes;
+IV. Nombrar a los Jueces de Primera Instancia y a los Jueces Menores conforme a lo dispuesto en el artículo 98;
 
 > <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
 V. Nombrar a los Jueces Municipales en los términos establecidos en el artículo 98;
 
-VI. Conceder licencias sin goce de sueldos a sus empleados, y cuando excedieren de tres meses a los de los Juzgados de Primera Instancia y a los Jueces Municipales, también sin goce de sueldo, así como a los Auxiliares, a los Defensores de Pobres y a los Visitadores Judiciales;
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 1988)</small>
+
+VI. Conceder licencias sin goce de sueldo a sus empleados y cuando excedieren de tres meses a los de los Juzgados de Primera Instancia y Menores, a los Jueces Municipales, así como a los defensores de oficio y a los Visitadores Judiciales;
 
 > <small>(REFORMADA, G.O. 5 DE ABRIL DE 1984)</small>
 
@@ -1175,13 +1217,19 @@ X. Dirimir los conflictos que surjan entre los Municipios y cualquiera de los Po
 
 XI. Ejercer las demás atribuciones que les señalen las leyes.
 
-> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 1988)</small>
 
 ###### Artículo 106.
 
-El cargo de Juez de Primera Instancia es renunciable y sólo con motivos fundados no aceptará el Tribunal la renuncia.
+Los cargos de Juez de Primera Instancia y de Juez Menor son renunciables y sólo por motivos fundados no aceptará el Tribunal su renuncia.
+
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
 
 Los Jueces de Primera Instancia tendrán las atribuciones que les señalen las Leyes; nombrarán y removerán conforme a la Ley a sus empleados y podrán conceder a éstos, a los Jueces Municipales y a los Auxiliares, licencias sin goce de sueldo, a los que lo devenguen, hasta por tres meses, dando aviso al Tribunal. El nombramiento de Secretario de los Juzgados de Primera Instancia se hará con aprobación del Presidente del Tribunal, quien podrá retirarlo cuando existiere causa grave para ello.
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 1988)</small>
+
+El nombramiento de Secretario de los Juzgados de Primera Instancia y de los Juzgados Menores, se hará con la aprobación del Presidente del Tribunal, quien podrá destituirlo cuando existiere causa grave para ello.
 
 ###### Artículo 74.
 
@@ -1525,7 +1573,7 @@ Las faltas temporales del Procurador General de Justicia, que no excedan de cinc
 
 ###### Artículo 80.
 
-La víspera del día en que deben terminar las Sesiones Ordinarias, la Legislatura mediante votación secreta nombrará para el tiempo de su receso una Diputación Permanente, compuesta de diez Diputados en ejercicio, de los cuales cinco funcionarán como Propietarios y cinco quedarán como Suplentes.
+La víspera del día en que deben terminar las sesiones ordinarias, la Legislatura mediante votación secreta nombrará para el tiempo de su receso una Diputación Permanente, compuesta por catorce Diputados en ejercicio, de los cuales siete funcionarán como propietarios y siete quedarán como suplentes.
 
 ###### Artículo 115.
 
@@ -2014,3 +2062,13 @@ Los Jueces de Primera Instancia que se encuentren en ejercicio y que hayan sido 
 ###### ARTICULO CUARTO.
 
 La reforma del primer párrafo del artículo 98, entrará en vigor a partir del día 7 de abril de 1987; pero no será aplicable para los casos a que se refiere el Artículo Tercero Transitorio anterior.
+
+G.O. 19 DE ENERO DE 1988.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor, al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga cualquier disposición legal que se oponga a la presente.
