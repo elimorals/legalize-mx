@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "1998-01-10"
+last_updated: "2000-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -613,7 +613,9 @@ Si por defunción, renuncia, incapacidad médica o licencia concedida por un té
 
 El Tribunal de lo Administrativo, es el órgano especializado del Poder Judicial del Estado, con plena jurisdicción para resolver las controversias de carácter administrativo y fiscal que se susciten entre las autoridades del Estado, de los municipios y de los organismos descentralizados de ambos, con los particulares, además de las que surjan entre el Estado y los municipios, o de éstos entre sí. El Tribunal de lo Administrativo conocerá también, de los conflictos laborales que se susciten con sus propios trabajadores.
 
-El Tribunal de lo Administrativo, residirá en la capital del Estado y dictará sus resoluciones con base en los principios de autonomía, independencia e imparcialidad.
+> <small>(REFORMADO P.O. 18 DE ENERO DE 2000)</small>
+
+El Tribunal de lo Administrativo, residirá en la capital del Estado, asimismo tendrá Salas Regionales que funcionarán en las cabeceras municipales que autorice el Pleno del Tribunal, Así como Sala Auxiliar en la capital del estado, con base en la disponibilidad presupuestal, con la competencia y jurisdicción que el Pleno del Tribunal les asigne y dictará sus resoluciones con base en los principios de autonomía, independencia e imparcialidad.
 
 ### CAPÍTULO IV. DEL PLENO DEL TRIBUNAL DE LO ADMINISTRATIVO
 
@@ -633,9 +635,13 @@ V. Los actuarios; y
 
 VI. El personal administrativo que requiera para su buen funcionamiento.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2000)</small>
+
 ###### Artículo 59.
 
-El Tribunal de lo Administrativo, funcionará en Pleno o en Salas, y estará integrado por el número de magistrados propietarios y suplentes que sean necesarios para el buen despacho de los asuntos de su competencia, los cuales, en ningún caso podrán ser menos de tres propietarios y tres suplentes, que conformarán una Sala.
+El Tribunal de lo Administrativo funcionará en Pleno o en Salas, el Pleno del Tribunal será integrado por los Magistrados que Presiden Sala con residencia en la capital del Estado, excepción hecha de los magistrados que integran Sala Auxiliar.
+
+El Tribunal de lo Administrativo estará integrado por la cantidad de Magistrados, que sean necesarios para el buen despacho de los asuntos de su competencia, los cuales, en ningún caso serán menos de seis los Magistrados que presidan Sala con residencia en la capital del Estado.
 
 ###### Artículo 60.
 
@@ -671,6 +677,8 @@ VI. No haber sido Secretario de Estado o jefe de departamento administrativo de 
 
 ### CAPÍTULO V. DE LAS SALAS DEL TRIBUNAL DE LO ADMINISTRATIVO
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2000)</small>
+
 ###### Artículo 63.
 
 Para la elección del Magistrado que presidirá el Tribunal de lo Administrativo, el Pleno realizará una votación por cédula, secreta y en escrutinio público, en la primera sesión de cada año. El Magistrado que haya obtenido mayoría de votos, durará un año en su encargo y podrá ser reelecto.
@@ -681,9 +689,13 @@ El Presidente del Tribunal de lo Administrativo, tendrá las siguientes atribuci
 
 I. Representar al Tribunal ante toda clase de autoridades;
 
-II. Presidir una de las Salas del Tribunal;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2000)</small>
 
-III. Integrar el Pleno del Tribunal, con los demás magistrados;
+II. Presidir una de las Salas del Tribunal del primer Partido Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2000)</small>
+
+III. Integrar el Pleno del Tribunal, con los demás magistrados presidentes de Sala Unitaria, no Auxiliar, con residencia en la capital del Estado;
 
 IV. Conocer y despachar la correspondencia del Tribunal;
 
@@ -727,7 +739,9 @@ III. Conceder licencias a los magistrados hasta por un mes, en el período de un
 
 IV. Establecer las reglas para la distribución de los negocios entre los magistrados;
 
-V. Fijar la adscripción de los magistrados;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2000)</small>
+
+V. Autorizar el establecimiento de las Salas Regionales y Auxiliares, así como fijar la adscripción de los magistrados;
 
 VI. Nombrar al Secretario General de Acuerdos, formular la lista de auxiliares y aprobar o rechazar los nombramientos y remociones propuestas por las salas;
 
@@ -755,15 +769,21 @@ XVI. Las demás que determinen las leyes.
 
 ###### Artículo 66.
 
-Las salas del Tribunal de lo Administrativo, estarán integradas por tres magistrados, cuya presencia será indispensable para efectuar las sesiones necesarias para emitir por mayoría de votos, las resoluciones que correspondan a los asuntos de su competencia.
+Todas las Salas del Tribunal de lo Administrativo serán conformadas con carácter unitario, inclusive las Auxiliares que autorice el Pleno.
 
-En caso de recusaciones, excusas o impedimentos o licencias de los magistrados, no mayores de dos meses, el pleno del Tribunal de lo Administrativo, nombrará al Magistrado de la Sala que le siga en número, para que ésta se integre, pueda sesionar y resolver los asuntos que le han sido turnados.
+En caso de procedencia de recusaciones, excusas o impedimentos el Pleno del Tribunal de lo Administrativo turnará el asunto a la Sala que en el orden corresponda, si el asunto se tramitó originalmente en cualquiera de las salas residentes dentro de la capital del estado. Tratándose de asuntos del conocimiento de las salas regionales, se turnará el asunto a la más cercana al domicilio de la que conoció en primer término.
 
-Cuando la licencia sea superior al término de dos meses, el Pleno designará, de entre los magistrados suplentes, al que deba integrar la Sala correspondiente.
+En los casos de licencia de los magistrados, el Pleno designará a un magistrado de entre los suplentes, para que integre la sala que corresponda.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 2000)</small>
 
 ###### Artículo 67.
 
-Las salas del Tribunal de lo Administrativo, conocerán de los juicios que se instauren en contra de:
+El Pleno del Tribunal de lo Administrativo conocerá de los asuntos en que se dé trámite a recursos de apelación y reclamación.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2000)</small>
+
+Las Salas del primer partido judicial del estado, las Regionales y las Auxiliares del Tribunal de lo Administrativo, conocerán de los juicios que se instauren en contra de:
 
 I. Las resoluciones definitivas emanadas de las autoridades dependientes del Poder Ejecutivo Estatal, de los municipios y de los organismos descentralizados, cuando éstos actúen como autoridades, que causen agravio a los particulares;
 
@@ -2742,3 +2762,9 @@ Lic. Raúl Octavio Espinoza Martínez
 P.O. 10 DE ENERO DE 1998.
 
 UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 18 DE ENERO DE 2000.
+
+PRIMERO. En concordancia con el artículo cuarto transitorio del Decreto 18214, las Salas del Tribunal funcionarán simultáneamente de manera unitaria para conocer los asuntos iniciados bajo la vigencia de la Ley de Justicia Administrativa y, seguirán funcionando las Salas de manera colegiada, como hasta la fecha se encuentran integradas, única y exclusivamente y hasta en tanto se resuelvan los juicios cuyo trámite hubiese iniciado conforme a las disposiciones de la ley del Procedimiento Administrativo del Estado, antes Ley del Procedimiento Contencioso Administrativo del Estado de Jalisco.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
