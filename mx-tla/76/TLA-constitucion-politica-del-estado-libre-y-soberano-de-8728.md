@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2003-03-12"
+last_updated: "2003-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -67,7 +67,7 @@ La soberanía estatal se manifiesta básicamente mediante el establecimiento del
 
 En el Estado de Tlaxcala toda persona gozará de las garantías individuales y derechos sociales consignados en la Constitución Política de los Estados Unidos Mexicanos, y los que enunciativamente consagra esta Constitución:
 
-I.- A la identificación plena de su personalidad, contar con un nombre y dos apellidos; a ser respetado y privilegiar su dignidad. Nadie podrá ser sometido a tortura ni a penas o tratos inhumanos o degradantes;
+I. A la identificación plena de su personalidad, contar con un nombre y dos apellidos; a ser respetado y privilegiar su dignidad. Nadie podrá ser sometido a tortura ni a penas o tratos inhumanos o degradantes;
 
 II. Las Leyes tendrán carácter proteccionista en favor de las personas cultural, social o económicamente débiles;
 
@@ -107,11 +107,13 @@ Las Leyes del Estado de Tlaxcala tenderán a la realización de la justicia entr
 
 Es objetivo del poder público el integral y constante mejoramiento de los habitantes del Estado, con base en el perfeccionamiento de la democracia política, económica y social.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 5o.
 
-Las leyes establecerán los derechos de los particulares, garantizarán a éstos su libre ejercicio, fundamentarán el cumplimiento de sus obligaciones y regularán expresamente el ejercicio de las facultades y acatamiento de los deberes de las autoridades.
+Las Leyes establecerán los derechos de los particulares, garantizarán a éstos su libre ejercicio, fundamentarán el cumplimiento de sus obligaciones y regularán expresamente el ejercicio de las facultades y acatamiento de los deberes de las autoridades.
+
+Las instituciones públicas del Estado promoverán e instrumentarán las garantías necesarias para la realización y protección de los derechos fundamentales de las personas y los ciudadanos.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -125,25 +127,29 @@ En el Estado de Tlaxcala, por cuanto a su régimen interior serán Ley Suprema e
 
 El orden jurídico del Estado atendiendo a la naturaleza y alcance de las normas se integra por:
 
-I.- Esta Constitución.
+I. Esta Constitución.
 
-II.- Leyes, decretos y convenios que de ella emanen.
+II. Leyes, decretos y convenios que de ella emanen.
 
-III.- Reglamentos.
+III. Reglamentos.
 
-IV.- Acuerdos.
+IV. Acuerdos.
 
-V.- Circulares.
+V. Circulares.
 
-VI.- Resoluciones concretas.
+VI. Resoluciones concretas.
 
-VII.- Convenios y acuerdos entre particulares.
+VII. Convenios y acuerdos entre particulares.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 8o.
 
-El Gobierno del Estado es democrático, republicano, representativo, participativo y popular. El Municipio Libre, de acuerdo con lo preceptuado en la Constitución Política de los Estados Unidos Mexicanos, será la base de su división territorial y su organización política y administrativa.
+La forma de Gobierno del Estado es democrática, republicana, representativa, participativa y popular. El Gobierno del Estado se integra con los poderes Legislativo, Ejecutivo y Judicial.
+
+El Municipio Libre, de acuerdo con lo preceptuado en la Constitución Política de los Estados Unidos Mexicanos, es la base de la división territorial y la organización política y administrativa del Estado.
+
+El sistema político del Estado, en cuanto sistema de intermediación entre el Gobierno y los ciudadanos, se funda en los principios democráticos de pluralidad, tolerancia, equidad, racionalidad, cooperación y respeto mutuo, así como en la regla de mayoría, en la inclusión proporcional de las minorías en la representación política y en la renovación de cargos públicos de elección popular por medio del sufragio universal, libre, secreto y directo.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -155,73 +161,81 @@ El Gobierno del Estado es democrático, republicano, representativo, participati
 
 Con base en la Constitución Política de los Estados Unidos Mexicanos, los gobiernos del Estado y los municipales promoverán, dentro de sus respectivas esferas de competencia, el equilibrio dinámico entre la democracia política y la económica; para ello, se privilegiará el combate a las causas que generan pobreza, mediante la aplicación de programas prioritarios que permitan a su población, el acceso al empleo, a los servicios de salud y de educación, a fin de procurar la justicia social.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 10.
 
-Los procesos electorales en el Estado, se efectuarán conforme a las bases que establece la presente Constitución, la General de la República y las demás Leyes de la materia, y se sujetarán a los principios de legalidad, certeza, imparcialidad, equidad, objetividad, profesionalismo e independencia.
+Los procesos de elección para renovar los Poderes Legislativo y Ejecutivo del Estado, así como los ayuntamientos, se realizarán por medio del sufragio universal, libre, secreto y directo, ordinaria o extraordinariamente, según sean convocados, y de acuerdo con los principios y las bases que prescriben la Constitución Política de los Estados Unidos Mexicanos y la presente Constitución. La Ley de la materia determinará las reglas y los procedimientos aplicables.
 
-I. Los partidos políticos son entidades de interés público; el Código Electoral del Estado determinará las formas específicas de su intervención en los procesos electorales.
+El voto es la forma concreta y práctica del sufragio universal, libre, secreto y directo, cada ciudadano lo ejercerá una sola vez en el tipo de elección y en la boleta de que se trate.
 
-Los partidos políticos tienen como fin, promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos en forma libre e individual, podrán afiliarse a los partidos políticos.
+En los procesos electorales los votos válidos se computarán sólo a favor de los partidos políticos; para los candidatos de ciudadanía, en el caso de presidentes de comunidad, se computarán sólo a favor de éstos.
 
-Los partidos políticos con registro nacional o estatal tendrán derecho a participar en las elecciones estatales y municipales, conforme a las disposiciones de la presente Constitución y a la ley de la materia.
+Durante la jornada electoral y en el lapso de treinta días previos a ésta, correspondiente a los procesos de elección a que se refiere el primer párrafo del presente artículo, los servidores públicos del Poder Ejecutivo del Estado y de los municipios, con funciones de dirección y atribuciones de mando, así como los legisladores locales, suspenderán las campañas publicitarias de todo lo relativo a los programas y acciones de los cuales sean responsables y cuya difusión no sea necesaria o de utilidad pública inmediata; asimismo se abstendrán durante el mismo plazo de realizar actividades proselitistas que impliquen la entrega a la población de materiales, alimentos o cualquier elemento que forme parte de sus programas asistenciales o de gestión y desarrollo social.
 
-Los partidos políticos estatales que no obtengan como mínimo el tres por ciento de la votación válida, en dos procesos electorales consecutivos, en la elección de diputados de mayoría relativa, perderán su registro como tal y sus activos pasarán a formar parte del Instituto Electoral de Tlaxcala, en términos del Código Electoral. Los que no obtengan como mínimo el uno punto cinco por ciento de la misma votación, bastará una sola elección para perder su registro e igualmente sus activos pasarán a formar parte del citado Instituto.
+I. Los partidos políticos estatales y nacionales son entidades de interés público; tienen como fin promover la participación del pueblo en la vida política y democrática del Estado, contribuir a la integración de la representación estatal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, los principios y las ideas que postulen.
 
-Los Partidos Políticos dentro del Estado de Tlaxcala, debidamente registrados, podrán coaligarse, constituir frentes y fusionarse, en términos de lo establecido en la Ley respectiva;
+La Ley de la materia determinará las reglas y los procedimientos relativos a la constitución, obtención y pérdida de registro de partidos políticos estatales, y a la acreditación de partidos políticos con registro nacional, a efecto de que cumplan sus obligaciones y ejerzan sus derechos y prerrogativas en la vida política y democrática del Estado.
 
-II. En los procesos electorales, los partidos políticos deberán contar con los elementos necesarios para sus actividades tendientes a su consolidación orgánica y a la obtención del voto popular; por tanto, tendrán derecho al uso permanente de los medios de comunicación social propiedad del Estado, de acuerdo con la forma y procedimientos que determine la Ley, la que, además, señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales, los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten, así como las sanciones por incumplimiento a las disposiciones que se expidan en la materia;
+Todo partido estatal perderá su registro sino obtiene por lo menos tres por ciento de la votación total válida en la elección ordinaria de diputados locales de mayoría relativa. La Ley de la materia determinará las demás causas de pérdida de registro.
 
-III. El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales, y se otorgará conforme a lo que disponga esta Constitución y el Código Electoral, de conformidad con las siguientes bases:
+El proceso relativo a la constitución y registro de un partido político estatal, no podrá resolverse en el año en que se realicen elecciones ordinarias.
 
-a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, conforme a los montos y términos que para tal efecto determine el Consejo General del Instituto Electoral de Tlaxcala, y que será sometido como parte del presupuesto general del Instituto Electoral de Tlaxcala a la consideración del Congreso, para que se incluya en el presupuesto general del Estado. El veinte por ciento de la cantidad total que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos con registro en forma igualitaria y el ochenta por ciento restante se distribuirá entre los mismos, de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados de mayoría relativa inmediata anterior;
+La Ley de la materia establecerá las obligaciones y prohibiciones que conciernen directamente a los partidos políticos, a sus militantes, dirigentes, representantes y candidatos a cargos de elección popular, así como las sanciones que sea necesario aplicar, y determinará las formas específicas de su participación en los procesos de elección a que se refiere el párrafo primero del presente Artículo.
 
-b) El financiamiento público para las actividades tendientes a la obtención del voto durante los procesos electorales del Estado, equivaldrá a una cantidad igual al monto del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese año; y,
+Los activos derivados del financiamiento público estatal, de los partidos políticos estatales que pierdan su registro, así como de los partidos políticos nacionales que pierdan su registro o sea cancelada su acreditación, por cualesquiera de las causas que prescriba la Ley de la materia, pasarán a formar parte del patrimonio del Instituto Electoral de Tlaxcala. La Ley de la materia establecerá las reglas y los procedimientos al respecto.
 
-c) Se reintegrará un porcentaje de los gastos anuales que eroguen los partidos políticos, por concepto de las actividades relativas a la educación, capacitación, investigación socio-económica y política, así como a las tareas editoriales; conforme a las bases que establezca el Consejo General del Instituto Electoral de Tlaxcala.
+Los partidos políticos y las coaliciones garantizarán la equidad de género en las elecciones ordinarias de diputados locales y de ayuntamientos. Con respecto a su número total de candidatos en la elección de que se trate, ningún partido político o coalición excederá del setenta por ciento de candidatos de un mismo género, a excepción de los que sean producto de procesos de selección interna por medio de consulta directa.
 
-Los partidos políticos nacionales de nuevo registro, tendrán derecho al financiamiento público, a partir del uno de enero del año siguiente al de su acreditación ante el Instituto Electoral de Tlaxcala.
+II. Se garantizará a los partidos políticos los elementos necesarios para sus actividades tendientes a su consolidación orgánica y a la obtención del voto popular; por tanto, tendrán derecho al financiamiento público y al acceso permanente, equitativo y gratuito a los medios de comunicación social propiedad del Gobierno del Estado. La Ley de la materia determinará las reglas y los procedimientos para realizar estos derechos y otorgar las prerrogativas que correspondan.
 
-Los partidos políticos nacionales que no obtengan el tres por ciento de la votación válida a que se refiere el Párrafo Cuarto de la Fracción I de este Artículo, dejarán de percibir financiamiento público, hasta el año en que nuevamente se realicen elecciones estatales;
+A los partidos políticos nacionales que no obtengan mínimo tres por ciento de la votación total válida en la última elección ordinaria de diputados locales de mayoría relativa, se les otorgará financiamiento público estatal para el sostenimiento de sus actividades ordinarias permanentes en la proporción que establezca la Ley de la materia.
 
-IV. La organización, dirección y vigilancia de las elecciones en el Estado, estarán a cargo del Instituto Electoral de Tlaxcala; autoridad en la materia, dotada de autonomía en su funcionamiento e independencia en sus decisiones, con relación a los poderes del Estado; de carácter permanente, con personalidad jurídica y ejercicio de su patrimonio conforme a la Ley; tendrá las facultades que le señale la presente Constitución y el Código Electoral y contará con los órganos que éstos dispongan en los distritos y Municipios en que se divida la entidad, los que estarán bajo su dirección. Además, tendrá a su cargo en los términos de la presente Constitución y en la Ley respectiva, la organización de los procesos plebiscitarios y de referéndum.
+III. El financiamiento público y privado de los partidos políticos y sus candidatos, así como su cálculo, otorgamiento, ejercicio y fiscalización, se determinarán de acuerdo con esta Constitución y con las reglas y los procedimientos de las Leyes aplicables.
 
-El Instituto Electoral de Tlaxcala contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El órgano superior de dirección se denominará Consejo General y estará integrado por seis consejeros electorales, que serán elegidos y acreditados por el Congreso del Estado, un Secretario Ejecutivo y un representante por cada partido político que participe en el proceso electoral, todos ellos designados conforme al Código Electoral. Por cada integrante se elegirá un suplente y en el caso de los consejeros electorales se elegirán dos supernumerarios.
+El financiamiento público para los partidos políticos se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y de las tendientes a la obtención del voto durante los procesos electorales en que participen, y se fijará y otorgará de acuerdo con las bases siguientes:
 
-El Presidente del Consejo será electo por el pleno del mismo, de entre sus miembros; el Secretario Ejecutivo será designado por el Presidente y ratificado por el Consejo.
+a) El monto del financiamiento público para el sostenimiento de sus actividades ordinarias permanentes será fijado anualmente de acuerdo con lo que determine la Ley de la materia, y será parte del presupuesto general de dicho Instituto, el que, a su vez, se incluirá en el presupuesto general del Estado.
 
-Los consejeros electorales, incluyendo al Presidente del Instituto y al Secretario Ejecutivo, durarán en su cargo seis años, serán sustituidos por mitad cada tres, y no podrán, en ningún caso, desempeñar empleo o cargo público o privado, salvo las actividades científicas, docentes, literarias o de beneficencia.
+Treinta por ciento de la cantidad total que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restante se distribuirá entre los mismos de acuerdo con el porcentaje de la votación total válida que hubieren obtenido en la última elección ordinaria de diputados locales de mayoría relativa.
 
-Los consejeros electorales tendrán derecho a voz y voto; los demás integrantes del Instituto tendrán derecho a voz; en caso de empate, el consejero Presidente tendrá voto de calidad;
+b) El monto del financiamiento público para las actividades tendientes a la obtención del voto por los partidos políticos, durante los procesos electorales de Gobernado del Estado, de diputados locales y de integrantes de los ayuntamientos por planillas, será el equivalente al monto del financiamiento público para el sostenimiento de actividades ordinarias permanentes, y también será parte del presupuesto general de dicho Instituto, el que, a su vez, se incluirá en el presupuesto general del Estado.
 
-V. El Instituto Electoral de Tlaxcala, a través de su órgano superior y de conformidad con lo que disponga el Código Electoral, tendrá las siguientes atribuciones:
+c) Se reintegrará un porcentaje de los gastos anuales que eroguen los partidos políticos, por concepto de actividades relativas a educación, capacitación, investigación socio-económica y política, así como a tareas editoriales, conforme a las bases que establezca el Consejo General del Instituto Electoral de Tlaxcala.
 
-a) Declarar la validez de las elecciones de Gobernador, diputados, Ayuntamientos y presidentes de comunidad;
+IV. La organización, dirección, vigilancia y desarrollo de los procesos electorales y de consulta ciudadana constituyen una función de carácter público y estatal, que estará a cargo del Instituto Electoral de Tlaxcala, quien es autoridad en la materia, dotada de autonomía en su funcionamiento e independencia en sus decisiones con relación a los poderes públicos y a los particulares; tiene carácter permanente y personalidad jurídica y patrimonio propios; dispondrá de los elementos necesarios para el cumplimiento de sus atribuciones y gozará de autonomía presupuestal y financiera; además, tendrá en su estructura órganos de dirección, vigilancia, ejecutivos y técnicos, con responsabilidades específicas y diferenciadas, y el personal necesario e idóneo para el cumplimiento de sus atribuciones en el Estado, los distritos electorales locales y los municipios.
 
-b) Otorgar las constancias a los candidatos que hubiesen obtenido mayoría de votos en elección directa;
+En el cumplimiento de sus atribuciones y la consecución de sus fines, el Instituto Electoral de Tlaxcala se conducirá en todos sus actos de acuerdo con los principios de constitucionalidad, legalidad, imparcialidad, objetividad, equidad, certeza, profesionalismo e independencia.
 
-c) Realizar la asignación de diputados y regidores de representación proporcional. Además, las que determine el Código Electoral;
+El órgano superior y titular de dirección del Instituto Electoral de Tlaxcala es el Consejo General, integrado por siete consejeros electorales propietarios, cada uno con su suplente.
 
-d) Tener a su cargo las actividades relativas a la integración del Padrón Electoral, preparación de la jornada electoral, cómputos y otorgamientos de constancias, capacitación electoral, educación cívica e impresión de material electoral, geografía electoral, padrón, lista nominal de electores, regulación de la observancia electoral, de las encuestas y sondeos de opinión con fines electorales;
+Los consejeros electorales del Consejo General del Instituto Electoral de Tlaxcala, serán designados y acreditados por el Congreso del Estado por lo menos las dos terceras partes de la totalidad de sus integrantes y de entre ellos, al consejero Presidente; asimismo, al Secretario General del mismo Instituto. Todos ellos durarán en su cargo tres años y podrán ser reelectos por una sola vez.
 
-e) Atender lo relativo a los derechos y prerrogativas de los partidos políticos; y,
+Los consejeros electorales de Consejo General y el Secretario General no podrán, en ningún caso, desempeñar empleo o cargo público o privado, salvo las actividades estrictamente científicas, docentes, literarias, de investigación, académica o de beneficencia, que no se contrapongan a sus responsabilidades.
 
-f) Las demás que determine el Código Electoral.
+La Ley de la materia determinará los requisitos para ser consejero electoral y Secretario General del Instituto.
 
-Las sesiones de los órganos colegiados del Instituto, serán públicas y sus resoluciones recurribles conforme lo disponga la Ley de la materia.
+En las sesiones del Consejo General los consejeros electorales tendrán derecho de voz y voto; el consejero Presidente votará sólo en caso de empate.
 
-VI. El Tribunal Superior de Justicia contará con una Sala electoral-administrativa que será el órgano investido de legalidad y conocerá en única instancia de las impugnaciones que se presenten en materia electoral, las que se sustanciarán en términos de lo establecido en el código de la materia. Su estructura, temporalidad y demás características se establecerán en esta Constitución en el capitulo relativo al Poder Judicial.
+Ante el Consejo General concurrirán, sólo con derecho a voz, el Secretario General del Instituto y un representante propietario o su suplente por cada partido político o coalición.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+Las sesiones de los órganos colegiados del Instituto Electoral de Tlaxcala serán públicas y sus resoluciones recurribles conforme lo disponga la Ley de la materia.
+
+V. El Instituto Electoral de Tlaxcala, bajo la dirección de su órgano superior, además de las atribuciones que establezca la Ley de la materia, otorgará las constancias de mayoría relativa y de asignación de cargos de representación proporcional; declarará la validez de las elecciones; atenderá lo relativo a prerrogativas, derechos, obligaciones y prohibiciones de los partidos políticos; promoverá el ejercicio de la libertad del sufragio y del voto; fomentará y difundirá la cultura política democrática; establecerá la metodología para la realización de estudios de opinión pública con fines electorales y verificará su cumplimiento; efectuará el monitoreo de medios de comunicación masiva en procesos electorales; y regulará la observación electoral.
+
+Igualmente, el Instituto verificará y sancionará lo relativo al proceso de constitución y registro de partidos políticos estatales; y fiscalizará el origen, los montos, la operación, la aplicación y el destino concreto del financiamiento público y privado de los partidos políticos y sus candidatos y, en general, dentro del ámbito de su competencia, todo recurso que impacte o se vincule con el desarrollo y resultado de los procesos electorales.
+
+VI. De acuerdo con las bases que determinan la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, y en los términos de la Ley de la materia, se establecerá un sistema jurisdiccional estatal de medios de impugnación uniinstancial (sic), para garantizar los principios de constitucionalidad y legalidad en materia electoral del Estado. Este sistema dará definitividad y legalidad a los distintos actos y etapas de los procesos electorales, y garantizará la protección de los derechos político electorales de los ciudadanos.
+
+El Tribunal Superior de Justicia contará con una Sala Electoral-Administrativa, que será órgano investido de legalidad y conocerá en única instancia de las impugnaciones que se presenten en materia electoral, las que se substanciarán en términos de lo establecido en la Ley de la materia. Su estructura, temporalidad y demás características se establecerán en esta Constitución en el capítulo relativo al Poder Judicial.
 
 ###### ARTICULO 11.
 
 Son ciudadanos del Estado todos los varones y las mujeres que teniendo la calidad de tlaxcaltecas, reúnan, además, los siguientes requisitos:
 
-I.- Haber cumplido 18 años de edad, y
+I. Haber cumplido 18 años de edad, y
 
-II.- Tener un modo honesto de vivir.
+II. Tener un modo honesto de vivir.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -231,27 +245,27 @@ Son prerrogativas del ciudadano tlaxcalteca:
 
 > <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
 
-I.- Votar en las elecciones populares del Estado.
+I. Votar en las elecciones populares del Estado.
 
-II.- Poder ser votado para todos los cargos de elección popular y nombrado para cualquier otro empleo o comisión, si reúne las cualidades que la Ley establezca.
-
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
-
-III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos del Estado.
+II. Poder ser votado para todos los cargos de elección popular y nombrado para cualquier otro empleo o comisión, si reúne las cualidades que la Ley establezca.
 
 > <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
 
-IV.- Ejercer ante las autoridades Estatales y Municipales, el derecho de petición; en los términos y condiciones establecidas en el Artículo 8 de la Constitución Política de los Estados Unidos Mexicanos.
+III. Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos del Estado.
 
-V.- Tomar las armas para la defensa del Estado o sus Instituciones, conforme lo prevenga la Ley.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
+
+IV. Ejercer ante las autoridades Estatales y Municipales, el derecho de petición; en los términos y condiciones establecidas en el Artículo 8 de la Constitución Política de los Estados Unidos Mexicanos.
+
+V. Tomar las armas para la defensa del Estado o sus Instituciones, conforme lo prevenga la Ley.
 
 > <small>(ADICIONADA, P.O. 25 DE JUNIO DE 1997)</small>
 
-VI.- Presentar Iniciativas ante el Congreso del Estado de acuerdo con los requisitos y procedimientos establecidos en la Ley Orgánica del Poder Legislativo y su Reglamento Interior y que se considerará en el siguiente período ordinario de Sesiones.
+VI. Presentar Iniciativas ante el Congreso del Estado de acuerdo con los requisitos y procedimientos establecidos en la Ley Orgánica del Poder Legislativo y su Reglamento Interior y que se considerará en el siguiente período ordinario de Sesiones.
 
 > <small>(ADICIONADA, P.O. 25 DE JUNIO DE 1997)</small>
 
-VII.- Participar en las consultas populares, plebiscitarias y de referéndum.
+VII. Participar en las consultas populares, plebiscitarias y de referéndum.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -275,21 +289,21 @@ IV. Votar en las elecciones estatales y municipales.
 
 ### CAPITULO III. DE LA INSTALACION, DURACION Y LABORES DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 14.
 
 Los derechos y prerrogativas del ciudadano tlaxcalteca se suspenden:
 
-I.- Por falta de cumplimiento, sin causa justificada, de cualesquiera de las obligaciones enumeradas en el artículo anterior. Esta suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señalare la Ley.
+I. Por falta de cumplimiento, sin causa justificada, de cualesquiera de las obligaciones enumeradas en el artículo anterior. Esta suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señalare la Ley.
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1984)</small>
 
-II.- Por estar sujeto a un proceso criminal por delito intencional que merezca pena corporal, desde que se provea el auto de formal prisión hasta la sentencia.
+II. Por estar sujeto a un proceso criminal por delito intencional que merezca pena corporal, desde que se provea el auto de formal prisión hasta la sentencia.
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1984)</small>
 
-III.- Por sentencia condenatoria por delito intencional que merezca pena corporal, hasta la extinción de la pena.
+III. Por sentencia condenatoria por delito intencional que merezca pena corporal, hasta la extinción de la pena.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -297,13 +311,11 @@ III.- Por sentencia condenatoria por delito intencional que merezca pena corpora
 
 Los derechos del ciudadano tlaxcalteca se pierden:
 
-I.- Por adquirir la ciudadanía de otro Estado, excepto cuando haya sido concedida a título de honor o recompensa por servicios anteriores.
+I. Por adquirir la ciudadanía de otro Estado, excepto cuando haya sido concedida a título de honor o recompensa por servicios anteriores.
 
-II.- Por la pérdida de la ciudadanía mexicana; y,
+II. Por la pérdida de la ciudadanía mexicana; y,
 
-.
-
-III.- Por sentencia ejecutoria que así lo declare en calidad de pena impuesta
+III. Por sentencia ejecutoria que así lo declare en calidad de pena impuesta
 
 > <small>(DEROGADO ULTIMO PARRAFO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
@@ -477,9 +489,9 @@ Ziltlaltépec de Trinidad Sánchez Santos.
 
 Para constituir un Municipio, se requiere del cumplimiento de los siguientes requisitos:
 
-I.- Que el Municipio a constituir tenga una demarcación territorial que conforme una unidad demográfica continua.
+I. Que el Municipio a constituir tenga una demarcación territorial que conforme una unidad demográfica continua.
 
-II.- Que exista conformidad de los Municipios colindantes y de los pueblos que integran la unidad geográfica propuesta, en cuanto a los límites territoriales existentes entre ellos.
+II. Que exista conformidad de los Municipios colindantes y de los pueblos que integran la unidad geográfica propuesta, en cuanto a los límites territoriales existentes entre ellos.
 
 III. Que se presente la posible solución a los problemas de conurbación que tenga con otros Municipios;
 
@@ -497,23 +509,23 @@ IX. Que cuando menos las dos terceras partes de los contribuyentes, cumplan y ha
 
 X. Que se presenten los proyectos de convenios para la transferencia y cumplimiento de obligaciones crediticias, contraídas en su régimen de gobierno anterior a la petición;
 
-XI.- Que mediante consulta popular, muestren su aprobación a la solicitud, cuando menos las dos terceras partes de los ciudadanos que participen en el plebiscito y que tengan residencia en el Municipio o Municipios involucrados.
+XI. Que mediante consulta popular, muestren su aprobación a la solicitud, cuando menos las dos terceras partes de los ciudadanos que participen en el plebiscito y que tengan residencia en el Municipio o Municipios involucrados.
 
 El Instituto Electoral de Tlaxcala organizará el plebiscito de que se trate.
 
 XII. Que se hayan presentado los proyectos de planes de desarrollo municipal, desarrollo urbano, regularización de la tenencia de la tierra, ecología, presupuesto de ingresos y egresos, bando de policía y buen gobierno y reglamentos de los servicios públicos;
 
-XIII.- Que presenten los proyectos de los ordenamientos adecuados, para lograr la prevención y respeto al medio ambiente.
+XIII. Que presenten los proyectos de los ordenamientos adecuados, para lograr la prevención y respeto al medio ambiente.
 
 XIV. Que el proyecto de programa de obras se funde en la distribución equitativa y porcentual, por Presidencia de Comunidad, en su caso, de los recursos federales y estatales asignados;
 
-XV.- Ser autosuficiente económicamente;
+XV. Ser autosuficiente económicamente;
 
-XVI.- Contar con la infraestructura mínima de servicios;
+XVI. Contar con la infraestructura mínima de servicios;
 
 XVII. Que se presenten los proyectos de las políticas y ordenamientos necesarios que requiera el crecimiento demográfico;
 
-XVIII.- Tener la infraestructura suficiente, para dotar a la población de los servicios de transporte público, salud y educación básica;
+XVIII. Tener la infraestructura suficiente, para dotar a la población de los servicios de transporte público, salud y educación básica;
 
 XIX. Reunir los demás requisitos que a juicio del Congreso sea necesario acreditar, atendiendo a las circunstancias propias de la población y del territorio;
 
@@ -521,7 +533,7 @@ XX. Si la unidad demográfica abarca varios pueblos, el consentimiento aprobator
 
 XXI. La petición de constituir un Municipio deberá ser firmada por ciudadanos empadronados en el registro de electores que estén en pleno ejercicio de sus derechos civiles y políticos, que sean residentes de la población solicitante. Estos hechos serán certificados ante Notario Público; y,
 
-XXII.- La manifestación expresada en la solicitud y la acreditada durante la instrucción, será tomada como tal y con características de virtual, la cual será definitiva si se demuestra en dos procesos electorales municipales continuos.
+XXII. La manifestación expresada en la solicitud y la acreditada durante la instrucción, será tomada como tal y con características de virtual, la cual será definitiva si se demuestra en dos procesos electorales municipales continuos.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -545,9 +557,9 @@ Son transeúntes las personas que, sin residir habitualmente en el Estado, perma
 
 Son tlaxcaltecas:
 
-I.- Los nacidos en el territorio del Estado;
+I. Los nacidos en el territorio del Estado;
 
-II.- Los mexicanos nacidos fuera del territorio del Estado, de padre o madre tlaxcalteca.
+II. Los mexicanos nacidos fuera del territorio del Estado, de padre o madre tlaxcalteca.
 
 Podrán adquirir la calidad de tlaxcaltecas:
 
@@ -561,15 +573,15 @@ II. La persona de nacionalidad mexicana que contraiga matrimonio con tlaxcalteca
 
 Son deberes y obligaciones de los habitantes, sin distinción alguna:
 
-I.- Cumplir las Leyes.
+I. Cumplir las Leyes.
 
-II.- Obedecer a las Autoridades legalmente constituidas.
+II. Obedecer a las Autoridades legalmente constituidas.
 
-III.- Prestar a las mismas el auxilio para el que fueren legalmente requeridos.
+III. Prestar a las mismas el auxilio para el que fueren legalmente requeridos.
 
-IV.- Contribuir a los gastos públicos de la manera proporcional y equitativa que dispongan las leyes.
+IV. Contribuir a los gastos públicos de la manera proporcional y equitativa que dispongan las leyes.
 
-V.- Recibir la educación básica, civil y militar, con arreglo a las leyes.
+V. Recibir la educación básica, civil y militar, con arreglo a las leyes.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -609,11 +621,11 @@ El carácter de habitantes del Estado se pierde por dejar de residir durante un 
 
 El carácter de habitantes no se pierde por ausencia:
 
-I.- En el desempeño de cargos públicos de elección popular y por la defensa de la patria y sus instituciones.
+I. En el desempeño de cargos públicos de elección popular y por la defensa de la patria y sus instituciones.
 
-II.- Para realizar estudios o comisiones científicas, o artísticas o
+II. Para realizar estudios o comisiones científicas, o artísticas o
 
-III.- Desempeñar empleos o comisiones de la administración pública o como dirigente en organismos nacionales de representación gremial.
+III. Desempeñar empleos o comisiones de la administración pública o como dirigente en organismos nacionales de representación gremial.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -629,7 +641,7 @@ El Poder Público del Estado se divide para su ejercicio en Legislativo, Ejecuti
 
 ## TITULO IV. DE LOS MUNICIPIOS
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
 ### CAPITULO X. DE LA COMISION DE DERECHOS HUMANOS
 
@@ -641,51 +653,55 @@ El Poder Legislativo del Estado se deposita en una Asamblea que se denomina "Con
 
 El Organo Superior de Gobierno y Dirección del Congreso se denominará Gran Comisión; estará compuesta por las diferentes fracciones parlamentarias, con base en el principio de mayoría en los términos que establezca su Ley Orgánica.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 32.
 
-El Congreso del Estado, estará integrado por diecinueve diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales y trece diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal; todos ellos tendrán la misma categoría e iguales obligaciones y derechos. Por cada diputado propietario se elegirá un suplente.
+El Congreso del Estado estará integrado por diecinueve diputados, electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y trece diputados electos según el principio de representación proporcional en una circunscripción plurinominal, mediante el sistema de listas de candidatos. Las listas se integrarán y votarán de acuerdo con las bases que determina esta Constitución y con las reglas y los procedimientos que establece la Ley de la materia. Por cada Diputado propietario se elegirá un suplente, y ambos conformarán una misma fórmula.
 
-Un mismo candidato a diputado podrá ser postulado por ambos principios en los términos que establezca el Código Electoral del Estado.
+Todos los diputados tienen la misma categoría e iguales obligaciones y derechos.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+De los partidos políticos que obtengan la mayoría de la votación total válida en la elección de diputados locales de mayoría relativa en los distritos electorales uninominales de que se trate, se les adjudicarán a sus candidatos las constancias de mayoría respectivas.
+
+Si alguno de los diputados dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá de acuerdo con lo que prescribe la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+###### ARTICULO 32.
+
+El Congreso del Estado estará integrado por diecinueve diputados, electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y trece diputados electos según el principio de representación proporcional en una circunscripción plurinominal, mediante el sistema de listas de candidatos. Las listas se integrarán y votarán de acuerdo con las bases que determina esta Constitución y con las reglas y los procedimientos que establece la Ley de la materia. Por cada Diputado propietario se elegirá un suplente, y ambos conformarán una misma fórmula.
+
+Todos los diputados tienen la misma categoría e iguales obligaciones y derechos.
+
+De los partidos políticos que obtengan la mayoría de la votación total válida en la elección de diputados locales de mayoría relativa en los distritos electorales uninominales de que se trate, se les adjudicarán a sus candidatos las constancias de mayoría respectivas.
+
+Si alguno de los diputados dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá de acuerdo con lo que prescribe la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ###### ARTICULO 33.
 
-La elección de los trece Diputados según el Principio de Representación Proporcional, se sujetará a lo que disponga la Ley y a las siguientes bases:
+La elección de los diputados según el principio de representación proporcional, por medio de listas de candidatos en la circunscripción plurinominal, así como la asignación de diputaciones, se sujetarán a lo que disponen la presente Constitución y la Ley de la materia, de acuerdo con las bases siguientes:
 
-I.- Un Partido Político, para obtener el registro de sus listas de candidatos, deberá acreditar que participa con candidatos a Diputados por mayoría relativa en por lo menos trece Distritos Uninominales;
+I.- Para obtener el registro de su lista de candidatos para la circunscripción plurinominal, todo partido político debe acreditar que en el mismo proceso electoral participa con candidatos a diputados locales por mayoría relativa en por lo menos trece distritos electorales uninominales;
 
-II. Todo partido político que alcance por lo menos el tres punto dos por ciento del total de la votación efectiva, tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional;
+II. Todo partido político tendrá derecho a participar en la asignación de diputaciones según el principio de representación proporcional, si obtiene cuando menos tres punto ciento veinticinco por ciento de la votación total válida en la circunscripción plurinominal;
 
-III. Al partido que cumpla con lo dispuesto en las dos Fracciones anteriores y que obtenga el mayor número de constancias de mayoría relativa en la elección de diputados y cuando menos el cuarenta y dos por ciento del total de la votación efectiva en el Estado, tendrá derecho a que se le asignen diputados por el principio de representación proporcional, hasta acreditar la mitad más uno del total de diputados que integren la Legislatura.
+III. Los partidos que cumplan con lo dispuesto por las dos fracciones anteriores, tendrán derecho a que se les asignen diputados conforme al principio de representación proporcional, de acuerdo con la votación total efectiva, siguiendo el orden que tuviesen los candidatos en las listas respectivas y conforme a lo que establecen las tres fracciones siguientes.
 
-La asignación de diputados de representación proporcional se sujetará a las siguientes reglas:
+IV. En ningún caso un partido político podrá contar con más de diecinueve diputados conjuntamente por los principios de mayoría relativa y de representación proporcional. La asignación de diputaciones de representación proporcional cesará para todo partido político que se encuentre en este supuesto.
 
-a) El cómputo se concretará a la suma de los resultados consignados en las actas de cómputo parciales, realizados por cada Comité Distrital Electoral;
+V. A fin de determinar la votación total emitida en la circunscripción plurinominal, el cómputo final de la elección de diputados por el principio de representación proporcional que realice el Consejo General del Instituto Electoral de Tlaxcala, se efectuará en modo idéntico a la suma total de los votos anotados en las actas de cómputo distrital uninominal respectivas.
 
-b) Se determinará el total de la votación emitida para todas las listas registradas en la circunscripción plurinominal, para estar en condiciones de hacer la declaratoria de los partidos políticos que no obtuvieron el tres punto dos por ciento de la votación efectiva en la circunscripción.
+Se determinará el total de la votación válida por la circunscripción plurinominal para realizar la declaratoria de los partidos políticos que no obtuvieron tres punto ciento veinticinco por ciento de dicha votación.
 
-Es votación efectiva, la que resulte de restar a la votación total emitida los votos nulos, y la de los sufragados en favor de los partidos políticos que no obtengan el tres punto dos por ciento de la votación efectiva; y,
+VI. La fórmula, los métodos, los cálculos y las definiciones aplicables al procedimiento de asignación de diputaciones de representación proporcional se establecerán en la Ley de la materia, aplicando los métodos de cociente electoral y resto mayor, y se procederá de la forma siguiente:
 
-c) Concluido el cómputo se procederá a levantar el acta correspondiente, haciendo constar en ella los incidentes que se presentaren; se entregará copia del acta a los representantes de los partidos políticos o a los candidatos que la soliciten;
+a) En una primera ronda se aplicará el método de cociente electoral y se asignarán diputaciones a cada partido político tantas veces como su votación contenga dicho cociente;
 
-IV.- En ningún caso un partido político podrá contar con más de diecinueve Diputados.
+b) Agotada la primera ronda, y si aún quedaren diputaciones por asignar, en una segunda ronda se aplicará el método de resto mayor y se asignará una diputación a cada partido político, hasta donde alcance y no quedare ninguna diputación por asignar.
 
-V. En los términos de lo establecido en las Fracciones III y IV anteriores, las diputaciones de representación proporcional que resten, se adjudicarán a los demás partidos políticos con derecho a ello, en proporción directa con las respectivas votaciones de estos últimos. La Ley desarrollará las reglas y fórmulas necesarias para estos efectos; y,
-
-VI. Los partidos políticos que no queden comprendidos dentro del supuesto de la fracción III de este artículo, participarán en la asignación de diputados por el principio de representación proporcional, tomando en cuenta el cociente natural y hasta agotar las diputaciones.
-
-Para la aplicación de la fórmula de representatividad mínima, se observará el siguiente procedimiento:
-
-a) Se procederá a obtener el cociente natural y resto mayor, en los términos que establezca la Ley de la materia;
-
-b) Obtenido el cociente natural, se asignarán a cada partido político tantas diputaciones como número de veces contenga su votación dicho cociente natural; y,
-
-c) Si quedaran diputaciones por asignar después de haberse aplicado el cociente natural, las restantes se asignarán a los partidos políticos, aplicando el resto mayor y hasta que no quede ninguna diputación por asignar.
-
-Los partidos políticos que obtengan el triunfo por el principio de mayoría relativa, se les adjudicarán las constancias de mayoría en todos los distritos en que hayan triunfado.
+La asignación de diputaciones de representación porporcional (sic) cesará para el partido político cuyo porcentaje de diputaciones, con respecto a la totalidad de los integrantes del Congreso del Estado, exceda en más de seis punto veinticinco por ciento a su porcentaje de votación válida.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -695,41 +711,83 @@ VII.- (DEROGADA, P.O. 18 DE MAYO DE 2001)
 
 VIII.- (DEROGADA, P.O. 18 DE MAYO DE 2001)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 34.
 
-La demarcación de los diecinueve Distritos Electorales Uninominales, será la que resulte de dividir la población total del Estado, según el último censo entre tales Distritos, los que comprenderán un número de habitantes que no podrá diferir más o menos del 10% del cociente resultante. El Consejo General del Instituto Electoral de Tlaxcala, señalará la demarcación territorial de estos Distritos; los que deberán tener continuidad geográfica, incluir íntegro el territorio de cada uno de los Municipios que comprenda, sólo se exceptúan de este requisito los Municipios cuya población sea superior al cociente natural, y la demarcación de las Secciones Locales Electorales que correspondan a la de las Secciones Electorales Federales.
+La demarcación de los diecinueve distritos electorales uninominales será la que resulte de dividir la población total del Estado, según el último Censo General de Población y Vivienda o el último Conteo de Población y Vivienda entre tales distritos, los que comprenderán un número de habitantes que no podrá exceder más o menos del diez por ciento del cociente resultante. El Consejo General del Instituto Electoral de Tlaxcala señalará la demarcación territorial de estos distritos, los que deberán tener continuidad geográfica, incluir íntegro el territorio de cada uno de los municipios que comprenda; sólo se exceptúan de este requisito los municipios cuya población sea superior al cociente natural y la demarcación de las secciones locales electorales que correspondan a la de las secciones electorales federales.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 1994)</small>
+Para la elección de los diputados locales según el principio de representación proporcional, se constituirá una circunscripción electoral plurinominal que corresponderá a la totalidad del territorio del Estado.
 
-Para la elección de los Diputados según el principio de representación proporcional, se constituirá una circunscripción electoral plurinominal que corresponderá a la totalidad del territorio del Estado.
-
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 35.
 
-Para ser Diputado, Propietario o Suplente, se requiere:
+Para ser Diputado local propietario o suplente se requiere:
 
-I.- Ser mexicano por nacimiento y ciudadano tlaxcalteca en pleno ejercicio de sus derechos, con cinco años de residencia consecutiva en el Estado inmediatamente anteriores al día de la elección o uno si fuere nacido en él;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
-II.- Tener veintiún años de edad cumplidos el día de la elección.
+I. Ser mexicano por nacimiento y ciudadano tlaxcalteca en pleno ejercicio de sus derechos, con cinco años de residencia consecutiva en el Estado inmediatamente anteriores al día de la elección o uno si fuere nacido en él;
 
-III. No ser ministro de algún culto religioso;
+II. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2003)
 
-IV. No estar en servicio activo en las Fuerzas Armadas ni tener mando en las corporaciones de seguridad en el Estado;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
-V. No ser servidor público de la Federación en el Estado;
+III. No ser ministro de cualquier culto religioso;
 
-VI. No ocupar el cargo de Gobernador, Secretario del Ejecutivo, Magistrado, propietario o suplente en funciones de propietario, del Tribunal Superior de Justicia o Procurador General de Justicia en el Estado;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
-VII. No ser Juez ni Secretario de Juzgado de Primera Instancia, Presidente Municipal, Secretario del Ayuntamiento, Recaudador de Rentas en el Distrito en el que se pretenda su elección.
+IV. No estar en servicio activo en las Fuerzas Armadas ni tener funciones de dirección o atribuciones de mando en las corporaciones de seguridad en el Estado;
 
-En el caso de las Fracciones IV, V, VI y VII de este Artículo, no habrá impedimento si el interesado se separa de sus funciones o cargo antes a su registro como candidato ante el organismo electoral correspondiente; y,
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+V. No ser servidor público de la Federación, del Estado o de los municipios con funciones de dirección y atribuciones de mando;
+
+VI. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2003)
+
+VII. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2003)
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 VIII. No haber sido diputado, propietario o suplente en ejercicio, en el período inmediato anterior a la elección.
 
-Los diputados suplentes que no hayan estado en ejercicio podrán ser electos con el carácter de propietarios para el período inmediato, pero no como suplentes.
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+IX. No ser consejero de la Comisión Estatal de Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+X. No ser consejero electoral de cualesquiera de los Consejos que conforman la estructura del Instituto Electoral de Tlaxcala;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+XI. No ser Secretario General ni director o encargado de los órganos de dirección, ejecutivos, de vigilancia y técnicos del Instituto Electoral de Tlaxcala;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+XII. No ser Magistrado ni Secretario de la Sala Electoral-Administrativa;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+XIII. No ser titular del Organo de Fiscalización Superior, y
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+XIV. No ser titular de los demás órganos públicos autónomos en el Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+En el caso de las fracciones IV y V de este Artículo, no habrá impedimento si el interesado se separa de sus funciones o cargo cuando menos ciento ochenta días antes del día de la elección de que se trate.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+En el caso de las fracciones IX, X, XI, XII, XIII y XIV de este Artículo, desaparece el impedimento si la persona de que se trata se separa de sus funciones o cargo por lo menos un año antes del día de la elección de que se trate.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+Los diputados suplentes que no hayan estado en funciones de propietario podrán ser electos con el carácter de propietarios para el período inmediato, pero no como suplentes.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 Los Diputados propietarios no podrán ser electos con el carácter de suplentes para el período inmediato.
 
@@ -757,13 +815,13 @@ La infracción de esta disposición será castigada con la pérdida del carácte
 
 ###### ARTICULO 38.
 
-El Congreso se renovará en su totalidad cada tres años y comenzará a funcionar el día catorce de enero del año inmediato posterior a la elección.
+El Congreso del Estado se renovará en su totalidad cada tres años; la Legislatura entrante comenzará a funcionar el día catorce de enero del año inmediato posterior al de la elección ordinaria de los diputados que la integran.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 39.
 
-Resuelta por el Tribunal Electoral de Tlaxcala la última impugnación relativa a la asignación de Diputados por ambos principios, éste lo hará del conocimiento del Consejo General del Instituto Electoral, Organo que hará la declaratoria de estar integrada la Legislatura y mandará publicar su declaración en el Periódico Oficial del Gobierno del Estado.
+Resuelta por los órganos jurisdiccionales la última impugnación relativa al otorgamiento de constancias de mayoría de diputados de mayoría relativa y a la asignación de diputados de representación proporcional, inmediatamente aquéllos lo harán del conocimiento del Consejo General del Instituto Electoral de Tlaxcala, órgano que hará la declaratoria de estar integrada la Legislatura y mandará publicar su declaración en el Periódico Oficial del Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1997)</small>
 
@@ -817,17 +875,17 @@ Las resoluciones del Congreso tendrán el carácter de Leyes, Decretos o Acuerdo
 
 La facultad de iniciar Leyes y Decretos corresponde:
 
-I.- A los Diputados;
+I. A los Diputados;
 
-II.- Al Gobernador;
+II. Al Gobernador;
 
-III.- Al Tribunal Superior de Justicia, en asuntos del ramo;
+III. Al Tribunal Superior de Justicia, en asuntos del ramo;
 
-IV.- A los Ayuntamientos en lo relativo al gobierno municipal;
+IV. A los Ayuntamientos en lo relativo al gobierno municipal;
 
-V.- A las personas residentes en el Estado en los términos que establezca la Ley; y,
+V. A las personas residentes en el Estado en los términos que establezca la Ley; y,
 
-VI.- A los titulares de los órganos públicos autónomos, en asuntos de su ramo.
+VI. A los titulares de los órganos públicos autónomos, en asuntos de su ramo.
 
 Todo proyecto de Ley o Decreto, así como los asuntos en que deba recaer resolución del Congreso, se tramitarán conforme a lo establecido en su Ley Orgánica y disposiciones reglamentarias.
 
@@ -967,11 +1025,15 @@ XXVII. Designar a los Magistrados del Tribunal Superior de Justicia;
 
 XXVIII. Elegir a los miembros del Consejo Consultivo de la Comisión Estatal de Derechos Humanos;
 
-XXIX. Nombrar a los consejeros del Instituto Electoral de Tlaxcala, por el voto aprobatorio, cuando menos, de las dos terceras partes del total de los diputados presentes, en la sesión correspondiente;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+XXIX. Designar a los consejeros electorales del Consejo General del Instituto Electoral de Tlaxcala y al Secretario General de éste, así como removerlos en los términos previstos por las Leyes aplicables.
 
 XXX. Recibir la protesta de Ley a los servidores públicos que el Congreso designe;
 
-XXXI. Conceder licencia a sus miembros, al Gobernador y a los consejeros electorales, en los términos que dispone esta Constitución;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+XXXI. Conceder licencia a sus miembros, al Gobernador, a los consejeros electorales del Consejo General del Instituto Electoral de Tlaxcala y al Secretario General de éste, en los términos que dispone esta Constitución.
 
 XXXII. Nombrar Gobernador en los casos y términos previstos en esta Constitución;
 
@@ -1063,13 +1125,13 @@ VII.- Las demás que le confiere esta Constitución y la Ley.
 
 El ejercicio del Poder Ejecutivo del Estado se deposita en un solo ciudadano que se denominará "Gobernador del Estado de Tlaxcala" y que residirá en la Capital del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 58.
 
-La elección de Gobernador será universal, popular, directa y se realizará en los términos que disponga el Código Electoral del Estado de Tlaxcala.
+La elección de Gobernador del Estado se realizará de acuerdo con lo establecido por esta Constitución y la Ley de la materia.
 
-La Legislatura del Estado expedirá el Bando Solemne para dar a conocer en toda la Entidad la declaración de Gobernador electo que hubiere hecho el Instituto Electoral de Tlaxcala.
+La Legislatura del Estado expedirá el Bando Solemne para dar a conocer en toda la Entidad la declaración de Gobernador electo que hubiere hecho el Instituto Electoral de Tlaxcala, de acuerdo con los resultados de la votación.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -1101,21 +1163,57 @@ De los Municipios.
 
 Para ser Gobernador del Estado se requiere:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
 I. Ser mexicano por nacimiento y ciudadano tlaxcalteca en pleno ejercicio de sus derechos, con una residencia mínima de cinco años inmediatamente anteriores al día de la elección.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
-II. Tener cuando menos treinta años cumplidos el día de la elección;
+II. Tener treinta años cumplidos, cuando menos, al día de la elección;
 
 III. No ser ministro de algún culto religioso;
 
-IV.- No estar en servicio activo en las fuerzas armadas, ni en las corporaciones de seguridad del Estado, salvo que se separe antes de su registro como candidato ante los organismos electorales correspondientes;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
-V. No ser servidor público de la Federación en el Estado, Secretario del Ejecutivo o quienes hagan sus veces, coordinadores del Ejecutivo o titulares de los organismos públicos autónomos, Magistrado, Procurador General de Justicia u Oficial Mayor de Gobierno, salvo que se separe antes de su registro como candidato ante los organismos electorales correspondientes; y,
+IV. No estar en servicio activo en las Fuerzas Armadas, ni en las corporaciones de seguridad del Estado;
 
-VI. No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 59 de esta Constitución.
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+V. No ser servidor público de la Federación, del Estado o de los municipios con funciones de dirección y atribuciones de mando;
+
+VI. No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 59 de esta Constitución;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+VII. No ser consejero de la Comisión Estatal de Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+VIII. No ser Magistrado ni Secretario de la Sala Electoral Administrativa;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+IX. No ser consejero electoral de cualesquiera de los Consejos que forman parte de la estructura del Instituto Electoral de Tlaxcala;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+X. No ser Secretario General ni director o encargado de los órganos de dirección, ejecutivos, de vigilancia y técnicos del Instituto Electoral de Tlaxcala;
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+XI. No ser titular del Órgano de Fiscalización Superior, y
+
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+XII. No ser titular de los demás órganos públicos autónomos en el Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+En el caso de las fracciones IV y V de este Artículo, no habrá impedimento si el interesado se separa de sus funciones o cargo cuando menos ciento ochenta días antes de la elección de que se trate.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+En el caso de las fracciones VII, VIII, IX, X, XI y XII de este Artículo, no habrá impedimento si el interesado se separa de sus funciones o cargo cuando menos un año antes del día de la elección de que se trate.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
 
@@ -1333,11 +1431,7 @@ XXI. Pedir dictámenes, en términos de las disposiciones legales sobre la mater
 
 XXII. Otorgar y cancelar patentes de Notario;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
-
-XXIII. Velar por el libre ejercicio ciudadano del voto;
+XXIII. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2003)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1423,11 +1517,9 @@ XXXVI. Celebrar convenios con el Ejecutivo Federal y con los de otros Estados, d
 
 XXXVII. Ejercitar todos los derechos que asigna a la Nación el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, siempre que por el texto mismo de este Artículo o por las disposiciones federales que de él se deriven, no deban considerarse como reservados al Gobierno Federal o concedidos a los cuerpos municipales; y,
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
-
-XXXVIII. Las demás que señalen las Leyes.
+XXXVIII. Las demás que establezcan esta Constitución y las Leyes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1755,79 +1847,145 @@ XIII. Las demás que señalen las Leyes.
 
 ###### ARTICULO 86.
 
-El Municipio será gobernado por un Ayuntamiento de elección popular directa, y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado. Y tendrá las siguientes facultades:
+El Municipio será gobernado por un Ayuntamiento y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+
+El Ayuntamiento tendrá las siguientes facultades:
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 I. Expedir, de acuerdo con las bases normativas que establezcan las Leyes, los Bandos de Policía y Gobierno y los Reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la Administración Pública Municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia;
 
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+
 II. Promover y asegurar la participación ciudadana y vecinal, en los términos previstos por el Artículo 48 de esta Constitución, así como la voz ciudadana en el Cabildo;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 III. Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
 
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+
 IV. Participar en la creación y administración de sus reservas territoriales;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 V. Participar en la formulación de planes de desarrollo regional, que deberán ser congruentes con los planes generales de la materia;
 
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+
 VI. Autorizar, controlar y vigilar la utilización del suelo en el ámbito de su competencia en sus jurisdicciones territoriales;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 VII. Intervenir en la regularización de la tenencia de la tierra urbana;
 
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+
 VIII. Otorgar licencias y permisos para construcciones;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 IX. Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
 
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+
 X. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquéllos afecten su ámbito territorial;
 
-XI.- Celebrar convenios para la administración y custodia de las zonas federales; y,
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+
+XI. Celebrar convenios para la administración y custodia de las zonas federales; y,
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 XII. Las demás que señale la Ley.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 87.
 
-Los ayuntamientos se compondrán de un Presidente Municipal, un Síndico, los regidores que determine la Ley y los presidentes de comunidad, nombrados cada tres años, en elección popular directa calificada en los términos que la propia Ley prescriba. Los presidentes de comunidad electos en los mismos comicios de los Ayuntamientos y conforme lo dispongan las Leyes respectivas, formarán parte de los propios Ayuntamientos con el carácter de regidores. Tomarán posesión el día quince de enero inmediato posterior a la elección; y no podrán ser reelectos ni como propietarios ni como suplentes, para el período inmediato. Igual impedimento tendrán las personas que integren los concejos municipales .
+Cada Ayuntamiento se integrará por un Presidente Municipal, un Síndico y los regidores cuya cantidad determinen las Leyes aplicables. Por cada integrante propietario habrá un suplente.
 
-Las presidencias de comunidad son órganos desconcentrados de la Administración Pública municipal, subordinados al Ayuntamiento del Municipio del que formen parte, y se constituirán conforme a los requisitos que señale la Ley, y actuarán en sus respectivas jurisdicciones como representantes del mismo.
+El Presidente Municipal, el Síndico y los regidores tendrán el carácter de munícipes y serán electos por medio de planillas en la circunscripción municipal, en procesos electorales ordinarios cada tres años, o en el plazo y para el periodo que determinen el Congreso del Estado y las Leyes aplicables en caso de procesos electorales extraordinarios. También tendrán ese mismo carácter los presidentes de comunidad, y las Leyes aplicables determinarán las reglas, los procedimientos y las modalidades de su elección, así como sus atribuciones y obligaciones.
 
-Los Ayuntamientos serán electos de acuerdo con las fórmulas que establezca la Ley de la materia y de conformidad con las siguientes bases:
+Los integrantes del Ayuntamiento electos en procesos ordinarios tomarán posesión el día quince de enero inmediato posterior a la fecha de su elección, y no podrán ser reelectos ni como propietarios ni como suplentes, para el período inmediato al en que hubieren ejercido su encargo, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en el ejercicio.
 
-I. El partido político cuya planilla haya obtenido el mayor número de votos, tendrá derecho a que se le acrediten a quienes encabecen la lista como Presidente Municipal y Síndico del Ayuntamiento, respectivamente; y,
+Las asignaciones de los cargos específicos de Presidente Municipal, Síndico y regidores, a los partidos políticos, se efectuarán de acuerdo con las bases siguientes:
 
-II.- Las regidurías que integren el Cabildo se dividirán entre la votación total emitida para todas las planillas presentadas por los partidos políticos contendientes, a fin de obtener un cociente electoral.
+I. Al partido político cuya planilla obtenga el mayor número de votos válidos, se le asignarán los cargos de Presidente Municipal y de Síndico;
 
-La Ley reglamentaria determinará los procedimientos que se observarán en la asignación de los regidores de representación proporcional.
+II. La Ley de la materia establecerá los cálculos, la fórmula y los métodos aplicables para el procedimiento de asignación de regidurías, y se tomarán en cuenta las definiciones siguientes:
 
-Los suplentes que no hubieren desempeñado el cargo podrán ser electos para el período inmediato como propietarios.
+Es votación total emitida la suma de todos los votos depositados en las urnas de la elección de Ayuntamiento en cada Municipio, anotados en las actas respectivas.
 
-Si alguno de los miembros dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga la Ley.
+Es votación total válida la que resulta de deducir los votos nulos a la votación total emitida en cada Municipio.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+Es cociente electoral el que resulta de dividir la votación total válida entre el número total de regidurías a asignar.
+
+Es resto mayor el remanente absoluto más alto entre los restos de los votos de cada partido político, una vez realizada la asignación de regidurías mediante el cociente electoral.
+
+III. Para realizar la asignación de regidurías se atenderá el orden de prelación en que aparecen los candidatos en la planilla de cada partido político;
+
+IV. La asignación de regidurías se hará en dos rondas, en las que se aplicarán los métodos de cociente electoral y de resto mayor:
+
+a) En la primera ronda se aplicará el método de cociente electoral y se asignarán tantas regidurías a cada uno de los partidos políticos en igual cantidad de veces que su votación contenga el cociente electoral determinado;
+
+b) Agotada la asignación de regidurías en la primera ronda, y si quedaren regidurías por asignar, en una segunda ronda se aplicará el método de resto mayor y se asignará una regiduría por partido político, hasta donde alcance.
+
+Las elecciones de presidentes de comunidad se realizarán por el principio de sufragio universal, libre, directo y secreto, y bajo la modalidad de usos y costumbres.
+
+Las elecciones de presidentes de comunidad por el principio de sufragio universal, libre, secreto y directo, se realizarán en procesos ordinarios cada tres años.
+
+Corresponde a los ciudadanos y a los partidos políticos postular candidatos a presidentes de comunidad en los términos que prescriba la Ley respectiva.
+
+Las elecciones de presidentes por usos y costumbres se realizarán de acuerdo con las condiciones generales que señale la Ley de la materia.
+
+Si a partir de la instalación del Ayuntamiento alguno de sus integrantes dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá de acuerdo con lo que prescriba la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 88.
 
-Para ser Munícipe se requiere:
+Para ser integrante del Ayuntamiento se requiere:
 
-I.- Ser ciudadano tlaxcalteca en ejercicio de sus derechos.
+I. Ser ciudadano tlaxcalteca en ejercicio pleno de sus derechos;
 
-II.- Tener al menos veintiún años cumplidos el día de la elección.
+II. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2003)
 
-III.- Haber residido en el lugar de su elección cuando menos seis meses anteriores a la fecha de ésta.
+III. Haber residido en el lugar de su elección durante los tres años previos a la fecha de la elección de que se trate, y
 
-IV.- Las demás que señale la Ley.
+IV. Los demás requisitos que señale la Ley de la materia.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 89.
 
-No podrán ser munícipes:
+No podrán ser integrantes del Ayuntamiento:
 
-I.- Los servidores públicos de los gobiernos, federal, local o municipal;
+I. Los servidores públicos de los gobiernos federal, local o municipal, con funciones de dirección y atribuciones de mando;
 
-II.- Quienes estén en servicio activo en las Fuerzas Armadas o tengan mando de fuerza en las corporaciones de seguridad en el Municipio.
+II. Quienes estén en servicio activo en las Fuerzas Armadas o tengan funciones de dirección y atribuciones de mando en las corporaciones de seguridad en el Municipio;
 
-En el caso de las dos fracciones anteriores, cesará la prevención si el interesado se separa del cargo antes de registrarse como candidato ante los organismos electorales correspondientes; y,
+III. Los ministros de cualquier culto religioso;
 
-III.- Los ministros de algún culto religioso.
+IV. Los consejeros de la Comisión Estatal de Derechos Humanos;
+
+V. Los consejeros electorales de cualesquiera de los Consejos que integran la estructura del Instituto Electoral de Tlaxcala;
+
+VI. Los Magistrados y Secretarios de la Sala Electoral Administrativa;
+
+VII. El Secretario General del Instituto Electoral de Tlaxcala;
+
+VIII. Los directores o encargados de los órganos de dirección, vigilancia, ejecutivos y técnicos del Instituto Electoral de Tlaxcala;
+
+IX. El titular del Órgano de Fiscalización Superior, y
+
+X. Los titulares de los demás órganos públicos autónomos.
+
+En los casos de las Fracciones I y II cesará la prevención si el interesado se separa de las funciones o del cargo cuando menos noventa días antes del día de la elección de que se trate.
+
+En el caso de las fracciones IV, V, VI, VII, VIII, IX y X, cesará la prevención si el interesado se separa de las funciones o del cargo por lo menos un año antes del día de la elección.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -1843,13 +2001,13 @@ Las relaciones de trabajo entre los Municipios y sus trabajadores se regirán po
 
 Los Ayuntamientos administrarán libremente la Hacienda Municipal, la cual se formará con:
 
-I.- Los rendimientos de los bienes que les pertenezcan.
+I. Los rendimientos de los bienes que les pertenezcan.
 
-II.- Las contribuciones sobre propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación, mejora y cambio de valor, así como las tasas adicionales.
+II. Las contribuciones sobre propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación, mejora y cambio de valor, así como las tasas adicionales.
 
-III.- Las participaciones generales que serán cubiertas por montos y plazos que determine la Ley; y,
+III. Las participaciones generales que serán cubiertas por montos y plazos que determine la Ley; y,
 
-IV.- Los ingresos derivados de los servicios públicos encomendados a su cargo.
+IV. Los ingresos derivados de los servicios públicos encomendados a su cargo.
 
 No se establecerán exenciones o subsidios a favor de persona o institución alguna respecto de las contribuciones a que se refieren las Fracciones II y IV de este Artículo.
 
@@ -1973,17 +2131,17 @@ Los Planes de Desarrollo, tanto Estatal como Municipales, se orientarán para lo
 
 La Hacienda Pública del Estado se integra por:
 
-I.- Los impuestos que decrete el Congreso;
+I. Los impuestos que decrete el Congreso;
 
-II.- Los derechos que se establezcan para cubrir los costos administrativos de servicios que los particulares demanden;
+II. Los derechos que se establezcan para cubrir los costos administrativos de servicios que los particulares demanden;
 
-III.- El producto de la enajenación o explotación de bienes que, según las leyes, pertenezcan al Estado;
+III. El producto de la enajenación o explotación de bienes que, según las leyes, pertenezcan al Estado;
 
-IV.- Los aprovechamientos que pertenezcan al Estado;
+IV. Los aprovechamientos que pertenezcan al Estado;
 
-V.- Las participaciones que correspondan al Estado en los ingresos federales; y,
+V. Las participaciones que correspondan al Estado en los ingresos federales; y,
 
-VI.- Los demás ingresos que se obtengan conforme a las Leyes.
+VI. Los demás ingresos que se obtengan conforme a las Leyes.
 
 En caso de los ingresos que se obtengan por contratación de deuda pública, considerando al Estado y Municipios durante un año fiscal, no podrán ser superiores al tres por ciento del equivalente al presupuesto inicialmente autorizado para el Estado durante ese año. Dicho monto deberá ser liquidado a más tardar en el año fiscal inmediato posterior, no pudiendo contratar nuevos créditos si existiesen adeudos derivados de este concepto.
 
@@ -2075,29 +2233,47 @@ Todo servidor público será responsable política, administrativa, penal y civi
 
 El Congreso expedirá la Ley que determine las responsabilidades y sanciones de los servidores públicos, señalará las causas y procedimientos, así como las autoridades competentes para tales efectos.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 109.
 
-El juicio político procede contra los servidores públicos a que se refiere el Párrafo segundo del Artículo 107, los titulares de las secretarías del Ejecutivo, Procuraduría General de Justicia, Oficialía Mayor, Organo de Fiscalización Superior, las Coordinaciones y los Organismos que integran la Administración Pública Paraestatal, así como los consejeros electorales, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, de acuerdo a las prevenciones siguientes:
+El juicio político procede contra los servidores públicos a que se refiere el párrafo segundo del Artículo 107, los titulares de las secretarías del Ejecutivo, de la Procuraduría General de Justicia, de la Oficialía Mayor del Órgano de Fiscalización Superior y de las Coordinaciones y los Organismos que integran la administración pública paraestatal, así como contra los consejeros electorales del Consejo General del Instituto Electoral de Tlaxcala y el Secretario General de éste, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, de acuerdo a las prevenciones siguientes:
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 I. El juicio político sólo podrá iniciarse en el tiempo que el servidor público se encuentre en funciones y dentro de un año después. Este procedimiento no tendrá una duración mayor de seis meses;
 
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+
 II. No procede juicio político por la mera expresión de ideas, ni por las recomendaciones que emita el Presidente de la Comisión Estatal de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 III. Podrán tramitarse conjuntamente el juicio político y el de declaratoria de procedencia de causa y desafuero;
 
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+
 IV. A través del juicio político se impondrán las sanciones de destitución del cargo y de inhabilitación para desempeñar algún empleo, cargo o comisión en el servicio público por el término que señale la Ley;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 V. Redundan en perjuicio de los intereses públicos fundamentales o de su buen despacho las causas que señale la Ley de la materia;
 
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+
 VI. El Congreso será el órgano responsable de substanciar los procedimientos de juicio político y en su caso, el de procedencia de causa y desafuero, a través de la comisión instructora, la cual presentará la acusación con sus pruebas al pleno y éste resolverá en definitiva respecto del juicio de procedencia y desafuero. Las declaraciones y resoluciones que dicte el Congreso son inatacables;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 VII. Si dentro de la sustanciación del juicio político se demostrare la probable comisión de un delito por parte del inculpado, en la resolución que declare la existencia de responsabilidad política, se podrá realizar la declaratoria de procedencia de causa y desafuero, en cuyo caso, se dictarán las medidas conducentes para el aseguramiento del inculpado;
 
-VIII. El Congreso dictará las declaratorias y resoluciones de juicio político y de procedencia de causa y desafuero, en sesión en que se encuentren cuando menos, las dos terceras partes de sus integrantes y por mayoría absoluta.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
+
+VIII. El Congreso dictará las declaratorias y resoluciones de juicio político y de procedencia de causa y desafuero, en sesión en que se encuentren cuando menos, las dos terceras partes de sus integrantes y por mayoría absoluta;
 
 El Tribunal Superior de Justicia, en Juicio Político, es el órgano de sentencia cuando los responsables sean miembros del Congreso o el Titular del Poder Ejecutivo; y el Congreso cuando el responsable fuere un Magistrado o el titular de un órgano público autónomo; y,
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
 IX. Toda persona bajo su más estricta responsabilidad y mediante la presentación de medios de prueba, podrá formular la denuncia ante el Congreso, respecto de las conductas a que se refiere este Artículo para la iniciación de juicio político.
 
@@ -2175,11 +2351,13 @@ Nadie puede ejercer a la vez en el Estado dos o más cargos de elección popular
 
 Los funcionarios de elección popular sólo podrán renunciar a su cargo por causa grave que calificará la autoridad respectiva; y cuando sin causa justa o sin licencia previa faltare al desempeño de sus funciones, quedarán separados de su cargo, privados de los derechos de ciudadanos e inhabilitados para ocupar otro empleo público por el tiempo que debieren durar en su encargo.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 119.
 
-El Gobernador, Diputados, Magistrados, Secretarios del Ejecutivo, Subsecretarios, Directores, Procurador General de Justicia, agentes del Ministerio Publico, munícipes, jueces y secretarios del Tribunal y juzgados, no podrán funcionar como árbitros o arbitradores, ni ejercer la abogacía ni la procuración, sino cuando se trate de sus propios derechos o de su consorte, ascendientes, descendientes o personas que estén bajo su tutela o dependencia económica.
+Los servidores públicos de los poderes del Estado, de los municipios y de los órganos públicos autónomos, con funciones de dirección y atribuciones de mando, no podrán funcionar como árbitros o arbitradores, ni ejercer la abogacía ni la procuración, sino cuando se trate de sus propios derechos o de su consorte, ascendientes, descendientes o personas que estén bajo su tutela o dependencia económica.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 La infracción de este artículo será causa de responsabilidad.
 
@@ -2556,3 +2734,39 @@ P.O. 12 DE MARZO DE 2003.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE NOVIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el tres de noviembre de dos mil tres.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas y adiciones a las disposiciones contenidas en el Artículo 10 de esta Constitución que se refieren a la designación de los consejeros electorales propietarios y suplentes del Consejo General del Instituto Electoral de Tlaxcala, entrarán en vigor el tres de noviembre de dos mil tres.
+
+###### ARTÍCULO TERCERO.
+
+Las reformas y adiciones a las disposiciones contenidas en el Artículo 10 de esta Constitución que se refieren a la organización, el funcionamiento y las atribuciones del Instituto Electoral de Tlaxcala, entrarán en vigor el uno de diciembre de dos mil tres.
+
+###### ARTÍCULO CUARTO.
+
+Los actuales concejales electorales, el concejal Presidente, los Supernumerarios y el Secretario Ejecutivo, todos ellos del Consejo General del Instituto Electoral de Tlaxcala, concluirán el periodo de su encargo y sus funciones el treinta de noviembre de dos mil tres.
+
+El uno de diciembre de dos mil tres los consejeros electorales del Consejo General del Instituto Electoral de Tlaxcala y el Secretario General de éste, rendirán su protesta de Ley ante el Congreso del Estado, e inmediatamente iniciarán sus funciones.
+
+Los consejeros electorales propietarios, al iniciar sus funciones, realizarán una sesión solemne de apertura e instalación del Consejo General del Instituto Electoral de Tlaxcala; del mismo modo, emitirán los acuerdos necesarios para el inicio de la organización y el funcionamiento de dicho Instituto. Todos los acuerdos se enviarán al Periódico Oficial del Gobierno del Estado para su publicación.
+
+En lo relativo a los requisitos de elegibilidad a que se refieren los Artículos 35 Fracciones IX, X, XI, XII, XIII y XIV, 60 Fracciones VII, VIII, IX, X, XI y XII, 89 Fracciones IV, V, VI, VII, VIII, IX y X, de este Decreto, por única ocasión el plazo de separación de los servidores públicos de sus cargos o funciones será a más tardar el treinta y uno de marzo de dos mil cuatro.
+
+###### ARTÍCULO QUINTO.
+
+Para auxiliar y orientar el entendimiento, la interpretación y la aplicación de la reforma político-electoral que aquí se aprueba, el Ejecutivo del Estado publicará el dictamen del presente Decreto, que incluye la exposición de motivos, en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEXTO.
+
+Quedan derogadas todas las disposiciones que se opongan al presente Decreto, incluidas las que hayan sido publicadas y su fecha de entrada en vigor sea posterior a la del presente Decreto, así también las que subsistan se adecuarán al mismo.
+
+###### ARTÍCULO SÉPTIMO.
+
+Iníciese y cúmplase el procedimiento que establece el Artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala.
