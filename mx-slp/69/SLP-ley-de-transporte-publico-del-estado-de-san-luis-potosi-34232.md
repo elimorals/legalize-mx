@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-34232"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-18"
-last_updated: "2003-09-18"
+last_updated: "2004-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de septiembre de 2003.
 
@@ -259,9 +259,13 @@ b) Foráneo de segunda clase: es el que se presta con vehículos de una capacida
 
 IV. Rural:
 
-a) Colectivo de ruta: es el que se presta en vehículo cerrado con capacidad de ocho a doce usuarios; en condiciones óptimas de seguridad, comodidad e higiene; con itinerario fijo entre una comunidad rural y otra, o la vía de entronque por donde circulen servicios colectivos urbanos, interurbanos o foráneos, con tarifa aprobada.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
 
-b) Mixto de carga y pasaje: es aquel que se presta fuera de la circunscripción urbana o suburbana, dentro del territorio estatal, con itinerario fijo entre una comunidad rural y otra, o la vía de entronque por donde circulen servicios colectivos urbanos, interurbanos o foráneos; debiendo prestarse en vehículos adaptados con compartimientos específicos para el transporte de pasaje y carga, de conformidad con las especificaciones que determine la Secretaría de Comunicaciones y Transportes, y
+a) Colectivo de ruta: es el que se presta en vehículo cerrado con capacidad de cinco a doce usuarios, de acuerdo a la certificación del fabricante; en condiciones óptimas de seguridad, comodidad e higiene; con itinerario fijo entre una comunidad rural y otra, o desde una comunidad rural hacia la cabecera municipal y viceversa, en las terminales o puntos que establezca la Secretaría en los que exista conexión con servicios de transporte urbano, con tarifa aprobada por la misma Secretaría.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+
+b) Mixto de carga y pasaje: es aquél que se presta con vehículos de doble cabina con capacidad de cinco pasajeros y carga de hasta 1,500 kilogramos, de acuerdo a la certificación del fabricante; o bien con vehículos adaptados con compartimientos específicos para el transporte de pasaje y carga, de conformidad con las especificaciones que determine la Secretaría de Comunicaciones y Transportes; en condiciones óptimas de seguridad, comodidad e higiene, con itinerario fijo entre una comunidad rural a otra, o desde una comunidad rural hacia la cabecera municipal y viceversa, en las terminales o puntos que establezca la Secretaría en los que exista conexión con servicios de transporte urbano, con tarifa aprobada por la misma Secretaría, y
 
 V. Servicios especiales: es aquel que se presta mediante tarifa autorizada y previo contrato entre el prestador del servicio y el usuario, para cubrir una necesidad eventual o permanente de desplazamiento de pasaje, en las siguientes modalidades:
 
@@ -339,6 +343,8 @@ En la elaboración de la declaratoria de necesidades, el titular del Ejecutivo p
 
 El titular del Ejecutivo otorgará las concesiones mediante concurso, siguiendo el procedimiento establecido en la presente Ley.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 30.
 
 Las concesiones y permisos para explotar los servicios públicos de transporte son personalísimas e inembargables, y no se podrán enajenar salvo en los siguientes casos:
@@ -349,11 +355,21 @@ El beneficiario deberá hacer uso de este derecho dentro de los treinta días si
 
 II. Cuando se trate de sucesiones testamentarias o intestamentarias o en el caso de conflicto de la titularidad de la concesión, en cuyo caso la misma será otorgada a quien determine la autoridad judicial, y
 
-III. Cuando el beneficiario de la concesión se declare incompetente para seguir prestando el servicio, podrá solicitar al titular del Ejecutivo por conducto de la Secretaría, autorización para transferir su concesión mediante cesión de derechos, que el Ejecutivo del Estado aprobará en caso que resulte procedente.
+III. Cuando el beneficiario de la concesión se declare incompetente para seguir prestando el servicio, podrá solicitar al Titular del Ejecutivo por conducto de la Secretaría, autorización para transferir su concesión mediante cesión de derechos, que el Ejecutivo del Estado aprobará en caso que resulte procedente.
 
-El trámite de cesión de derechos se hará bajo las reglas que esta misma Ley determina, sin sujetarse al procedimiento de concurso señalado por este Ordenamiento, siempre y cuando el beneficiario cumpla con los requisitos exigidos por el mismo.
+El trámite de cesión de derechos se hará bajo las reglas que esta misma Ley determina, sin sujetarse al procedimiento de concurso señalado por la misma, siempre y cuando se cumpla en todos los casos con lo que este Ordenamiento establece y en especial con los siguientes requisitos:
 
-Los concesionarios que se encuentren en el supuesto señalado en el párrafo que antecede, no podrán volver a ser sujetos para el otorgamiento de otra concesión.
+a) Que se acredite que la concesión o permiso se encuentre al corriente de las obligaciones y pagos administrativos.
+
+b) Que la concesión o permiso permanezca y haya sido explotada sin interrupción desde la fecha de su otorgamiento.
+
+c) Que el titular de la concesión, así como el que pretende adquirirla soliciten la respectiva autorización por escrito y bajo protesta de decir verdad.
+
+En caso de otorgarse la autorización previo cumplimiento de los requisitos, deberán celebrar el Contrato de Cesión de Derechos respectivo ante fedatario público.
+
+Cualquier tipo de operación que se realice sin previa autorización del Titular del Ejecutivo del Estado, será nula de pleno derecho; sin menoscabo de lo que se dispone en el artículo 48 de la presente Ley.
+
+Los concesionarios que sean autorizados para ceder sus derechos de acuerdo a lo establecido en la fracción III de este artículo, no podrán en ningún caso volver a ser sujetos para el otorgamiento de otra concesión en la misma modalidad y municipio; pudiendo ser sujetos de cesión de derechos en su favor.
 
 ###### ARTICULO 31.
 
@@ -455,11 +471,19 @@ Con la finalidad de prestar el servicio público de transporte en su modalidad d
 
 En la concesión o permiso se indicará el nombre del titular, la clase de servicio para el que se otorga, y en su caso, la ruta para la que se expide, así como su vigencia y las características de los vehículos con los que se presentará el servicio.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 41.
 
-Las unidades de transporte que se utilicen para los sistemas de transporte de pasajeros y carga, serán con carrocería, chasis y motor de modelo con antigüedad máxima de diez años; de fabricación nacional o importados que hayan sido ingresados legalmente al país, y deberán cumplir los requisitos que establecen las normas ecológicas y las de tránsito.
+Los vehículos que se utilicen para los sistemas de transporte de pasajeros a que se refieren las fracciones I, II y III del artículo 17 de esta Ley, serán de carrocería, chasis y motor de modelo con antigüedad máxima de diez años; de fabricación nacional, o que hayan sido ingresados legalmente al país.
 
-En ningún caso se autorizará la sustitución de un vehículo por otro de modelo igual o anterior al que se vaya a reemplazar, aun y cuando se encuentre dentro del rango de diez años de antigüedad establecido en el presente artículo; el vehículo relevado invariablemente deberá ser presentado, sin los rótulos de identificación y los colores oficiales que se determinen en el reglamento respectivo, en caso contrario no procederá el registro y alta de la unidad.
+Los vehículos destinados para el transporte de pasajeros y de carga a que se refieren los artículos 17 fracciones IV y V, y 18 de la presente Ley, serán de carrocería, chasis y motor de fabricación nacional, o que hayan sido ingresados legalmente al país.
+
+En todos los casos, deberán cumplir con los requisitos y estándares de calidad que establecen las normas ecológicas y de tránsito aplicables. Asimismo, deberán acreditar satisfactoriamente la revista vehicular anual en los términos de la fracción XV del artículo 72 de esta Ley y su Reglamento.
+
+No se autorizará la sustitución de un vehículo por otro de modelo anterior al que se vaya a reemplazar, aun y cuando se encuentre dentro del rango de diez años de antigüedad, establecido para los que se refiere el primer párrafo de este artículo, salvo en caso de que por accidente, falla mecánica mayor o causa justificada, el concesionario se encuentre en la necesidad de reemplazar el vehículo, se autorizará la sustitución por un vehículo de hasta tres años anteriores al modelo que se sustituye.
+
+El vehículo relevado invariablemente deberá ser presentado, sin los rótulos de identificación y los colores oficiales que se determinen en el Reglamento respectivo; en caso contrario no procederá el registro y alta de la unidad.
 
 ### CAPITULO II. DE LA DURACION DE LAS CONCESIONES
 
@@ -1177,6 +1201,12 @@ Los inspectores o el personal habilitado en los términos del artículo anterior
 
 Los inspectores o el personal habilitado para tal efecto, en ejercicio de su responsabilidad no podrán recoger documentos de ninguna clase a los operadores del servicio público de transporte en todas sus modalidades.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 105 BIS. Se concede acción popular para denunciar ante la Secretaría, a las unidades de transporte público colectivo o de alquiler que contaminen visiblemente el ambiente, o incumplan cualquiera otro de los requisitos que establece la presente Ley, en la prestación del servicio que les corresponde.
+
+La Secretaría publicitará ampliamente el número telefónico en el que puedan hacerse las denuncias, guardando la confidencialidad de los datos personales de quien hace la misma; debiendo publicar mensualmente en un medio de circulación impresa en el Estado, el trámite y resultado final de las denuncias planteadas, hasta su total resolución.
+
 ## TITULO DECIMO CUARTO. DE LAS SANCIONES Y DEL PROCEDIMIENTO PARA SU APLICACION
 
 ### CAPITULO I. DISPOSICIONES GENERALES
@@ -1231,9 +1261,17 @@ VIII. En caso de que el conductor se encuentre bajo los efectos de bebidas alcoh
 
 IX. En el caso de las modalidades de urbano colectivo, colectivo de primera clase, interurbano, y foráneo primera y segunda clase, por permitir o inducir a que los pasajeros asciendan a los vehículos por la puerta trasera;
 
-X. Por abastecer de combustible las unidades con pasaje a bordo, y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
 
-XI. Cuando el operador a juicio de la autoridad incurra en falta grave que ponga en riesgo la seguridad de terceros, o impida la adecuada prestación del servicio de transporte público.
+X. Por abastecer combustible las unidades con pasaje a bordo;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+
+XI. Cuando el operador a juicio de la autoridad incurra en falta grave que ponga en riesgo la seguridad de terceros, o impida la adecuada prestación del servicio de transporte público, y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+
+XII. Cuando el vehículo contamine ostensible y flagrantemente el ambiente, cualquier oficial de policía o tránsito podrá realizar la remisión respectiva.
 
 ### CAPITULO III. DEL PROCEDIMIENTO PARA LA APLICACION DE SANCIONES
 
@@ -1286,3 +1324,27 @@ El Secretario General de Gobierno
 LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO. Los concesionarios que a la entrada en vigor de las disposiciones que se modifican por este Decreto, utilicen vehículos para los sistemas de transporte de pasajeros a que se refieren las fracciones I, II y III del artículo 17 de esta Ley, que tengan una antigüedad mayor de 10 años y correspondan a municipios de baja, media, alta y muy alta marginación de acuerdo a la clasificación vigente en el Estado que establece el Instituto Nacional de Estadística, Geografía e Informática, dispondrán de un plazo para renovarlos por un modelo no mayor de 10 años, en los siguientes términos:
+
+Municipios de baja marginación: trescientos sesenta y cinco días naturales.
+
+Municipios de media marginación: setecientos treinta días naturales.
+
+Municipios de alta y muy alta marginación: mil noventa y cinco días naturales.
+
+Los plazos anteriormente otorgados no relevan a los concesionarios de las obligaciones contenidas en la fracción XV del artículo 72 de esta ley y su Reglamento.
+
+CUARTO. Transcurridos los plazos establecidos en el artículo Tercero Transitorio del presente Decreto, la Secretaría de Comunicaciones y Transportes del Estado, por conducto del personal de inspección podrá retirar de circulación a todo vehículo que no cumpla con los requisitos que establece la presente Ley.
+
+QUINTO. El titular del Ejecutivo del Estado, previo dictamen que presente la Secretaría de Comunicaciones y Transportes, en cada caso, validará la cesión de derechos de concesiones de servicio público de transporte hechas constar mediante contrato celebrado ante fedatario público, con anterioridad a la vigencia de este Decreto, de acuerdo al procedimiento que establezca la propia Secretaría.
+
+El plazo para llevar a cabo la validación a que se refiere este artículo, será de mil noventa y cinco días naturales, contados a partir de la entrada en vigor del presente Decreto. En todos los casos, deberá efectuarse el pago de los derechos correspondientes derivados de la sesión, respecto de los cuales no podrá otorgarse descuento alguno.
