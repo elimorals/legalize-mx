@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1954-01-09"
+last_updated: "1965-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ENERO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1965.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -741,9 +741,11 @@ Cuando se presente la querella o la denuncia por escrito, deberá ser citado el 
 
 Las personas a que se refiere el artículo 117, no están obligadas a hacer esa ratificación; pero el funcionario que reciba la denuncia deberá asegurarse de la personalidad de aquéllas y de la autenticidad del documento en que se haga la denuncia, si tuviere duda sobre ellas.
 
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1965)</small>
+
 ###### ARTICULO 120.
 
-No se admitirá la intervención de apoderado jurídico para la presentación de denuncias. Para la de querellas, sólo se admitirá cuando el apoderado tenga poder con cláusula especial o instrucciones concretas de sus mandantes para el caso.
+No se admitirá intervención de apoderado jurídico para la presentación de denuncias, salvo en el caso de personas morales que podrán actuar por conducto de apoderado general para pleitos y cobranzas. Las querellas formuladas en representación de personas morales, se admitirán cuando el apoderado tenga un poder general para pleitos y cobranzas, con cláusula especial para formular querellas, sin que sean necesarios acuerdo o ratificación del Consejo de Administración o de la Asamblea de Socios o Accionistas, poder especial para el caso determinado, ni instrucciones concretas del mandante.
 
 ###### ARTICULO 121.
 
@@ -3392,3 +3394,7 @@ Este decreto surtirá sus efectos un mes después de su publicación en el "Diar
 ###### ARTICULO SEGUNDO.
 
 Las audiencias en los procesos del orden federal que se celebren dentro de la vigencia de esta ley, se sujetarán a lo que se dispone en los preceptos que se reforman.
+
+D.O.F. 13 DE ENERO DE 1965.
+
+UNICO.- Este decreto entrará en vigor dentro de los tres días siguientes de su publicación en el "Diario Oficial" de la Federación.
