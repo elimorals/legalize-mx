@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1924-12-24"
+last_updated: "1925-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1924.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 1925.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -211,7 +211,9 @@ V.- Los Funcionarios y empleados Federales en el Estado.
 
 VI.- Los Presidentes Municipales por los Distritos en donde ejerzan autoridad.
 
-VII.- Los Jefes Militares con mando de fuerza sea federal o del Estado.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE MAYO DE 1925)</small>
+
+VII. Los Diputados Propietarios no podrán ser reelectos con tal carácter o con el de Suplentes, por ninguno de los Distritos Electorales del Estado, sino después de dos años de terminadas sus funciones constitucionales. Tampoco podrán serlo los Suplentes, en la forma y términos expresados, cuando hayan fungido durante tres meses o cualquier término durante los últimos seis de la Legislatura a que pertenecieron.
 
 ###### Art. 49.
 
@@ -984,6 +986,10 @@ P.O. 30 DE MAYO DE 1923.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 24 DE DICIEMBRE DE 1924.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+
+P.O. 20 DE MAYO DE 1925.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
