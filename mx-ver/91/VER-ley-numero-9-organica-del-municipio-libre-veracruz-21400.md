@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2004-12-31"
+last_updated: "2005-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE FEBRERO DE 2005.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -2067,7 +2067,9 @@ III. VOTO SECRETO. El procedimiento por el cual se convoca a los ciudadanos veci
 
 Los candidatos a ocupar los cargos de Agentes o Subagentes municipales deberán reunir los requisitos previstos en el artículo 20 de esta Ley. Los Agentes o Subagentes municipales propietarios no podrán ser electos para el periodo inmediato siguiente, pero quienes hayan tenido el carácter de suplentes, podrán ser electos para el periodo inmediato siguiente como propietarios, siempre que no hayan estado en funciones.
 
-La aplicación de estos procedimientos se hará conforme a la convocatoria respectiva, que será emitida por el Ayuntamiento con la aprobación del cabildo y sancionada previamente por el Congreso del Estado.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2005)</small>
+
+La aplicación de estos procedimientos se hará conforme a la convocatoria respectiva, que será emitida por el Ayuntamiento con la aprobación del cabildo y sancionada previamente por el Congreso del Estado o la Diputación Permanente.
 
 El Presidente Municipal, en sesión de Cabildo, tomará la protesta a los Agentes y Subagentes Municipales, el primer día del mes de mayo siguiente a la elección de que se trate, levantándose el acta respectiva, misma que será remitida al Congreso del Estado.
 
@@ -2089,7 +2091,9 @@ Los procedimientos de elección de los Agentes y Subagentes municipales se sujet
 
 I. Los Ayuntamientos serán responsables en la preparación, desarrollo y vigilancia de la aplicación de los procedimientos de elección de los Agentes y Subagentes municipales;
 
-II. El Congreso del Estado sancionará y aprobará los procedimientos de elección de los Agentes y Subagentes municipales señalados en la convocatoria que al efecto expidan los Ayuntamientos;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2005)</small>
+
+II. El Congreso del Estado o la Diputación Permanente, sancionará y aprobará los procedimientos de elección de los Agentes y Subagentes municipales señalados en la convocatoria que al efecto expidan los Ayuntamientos;
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -2097,7 +2101,9 @@ III. El Congreso o, en su caso, la Diputación Permanente resolverá sobre aquel
 
 IV. Los Ayuntamientos, dentro de un plazo no mayor de veinte días contados a partir de su instalación, deberán celebrar la sesión de cabildo para aprobar los procedimientos de elección que se aplicarán en la elección de Agentes y Subagentes municipales en cada una de las congregaciones y comunidades que integren su territorio, así como la convocatoria respectiva, la que deberán remitir al Congreso del Estado, dentro de un plazo no mayor a las 48 horas siguientes a la celebración de la sesión de cabildo;
 
-V. Aprobada la convocatoria por el Congreso del Estado, se devolverá a los Ayuntamientos, con las modificaciones que hubiesen procedido, en su caso, para su publicación en términos de lo que previene el artículo anterior;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2005)</small>
+
+V. Aprobada la convocatoria por el Congreso del Estado o la Diputación Permanente, se devolverá a los ayuntamientos, con las modificaciones que hubiesen procedido, en su caso, para su publicación en términos de lo que previene el artículo anterior;
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -2376,3 +2382,9 @@ G.O. 31 DE DICIEMBRE DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE FEBRERO DE 2005.
+
+Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
