@@ -4,7 +4,7 @@ identifier: "FED-codigo-agrario-de-los-estados-unidos-mexicanos-1515"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-04-12"
-last_updated: "1934-07-04"
+last_updated: "1937-03-06"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1515&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1934-03-22"
 
 CODIGO AGRARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL 4 DE JULIO DE 1934.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MARZO DE 1937.
 
 Código publicado en el Diario Oficial de la Federación, el jueves 12 de abril de 1934.
 
@@ -482,6 +480,18 @@ En caso de que las tierras señaladas para la permuta estén comprendidas en una
 Las superficies compensadas en los términos de la fracción II de este artículo, se considerarán disgregadas de la propiedad y no se computarán para el efecto de nuevas afectaciones.
 
 En los expedientes agrarios a que se refiere este precepto, las Comisiones Agrarias Mixtas y los Gobernadores de los Estados, procederán de tal manera que el Departamento Agrario pueda dar su autorización para la permuta de las tierras a cuyo efecto, los plazos de la tramitación normal se podrán modificar con aprobación del citado Departamento.
+
+> <small>(ADICIONADO, D.O.F. 6 DE MARZO DE 1937)</small>
+
+ARTICULO 52 BIS, Inciso I.- A petición de parte interesada, el Presidente de la República, oyendo el parecer de la Secretaría de Agricultura y Fomento, y del Departamento Autónomo Agrario, podrá declarar inafectables por la vía de dotación, durante un período de veinticinco años, las extensiones de tierra necesarias para el funcionamiento de negociaciones ganaderas que tengan un pie no inferior a quinientas cabezas de ganado mayor si no son lecheras, y trescientas si lo son, o su equivalente en ganado menor, siempre que terrenos y llenos pertenezcan al mismo propietario con la antigüedad que el Reglamento señale y que los terrenos se encuentren en zonas donde hayan quedado totalmente satisfechas las necesidades agrarias de los núcleos de población o que de acuerdo con los datos del último censo se compruebe que en un radio de siete kilómetros existan terrenos suficientes para las necesidades dotatorias de los pueblos con derecho. Si existen necesidades agrarias, sólo podrá decretarse la inafectabilidad de los terrenos pertenecientes a las negociaciones ganaderas, previa la satisfacción completa de aquéllas, por el método de permuta establecido en la fracción II del artículo 52.
+
+La extensión inafectable para cada negociación ganadera, se determinará en el Decreto Presidencial de inafectabilidad, tomando en cuenta el índice de aridez de los terrenos, que resulte de considerar los factores agrológicos, hidrógicos y climatológicos, así como el número, ubicación y capacidad de los aguajes existentes. Esa extensión fluctuará entre los máximos de TRESCIENTAS hectáreas para las tierras más feraces y CINCUENTA MIL hectáreas para las desérticas, conforme a la clasificación que establezca el Reglamento de este artículo.
+
+La modificación, en sentido favorable, del índice de aridez de las tierras que no sea debida a obras construídas por el propietario, tendrá como efecto la derogación del Decreto que establezca la inafectabilidad.
+
+La solicitud para que se declare inafectable un predio, en los términos de este artículo, deberá dirigirse al Departamento Autónomo Agrario, y los requisitos de procedimiento que deben llenar los solicitantes, así como las obligaciones a que han de quedar sometidos los concesionarios, se establecerán en el Reglamento que expida el Ejecutivo.
+
+Inciso II.- En todos los casos en que hubiera necesidad de afectar una explotación ganadera para satisfacer las necesidades ejidales de los pueblos en terrenos que estuvieran totalmente cubiertos de ganado, y cuando los Bancos Nacional de Crédito Agrícola y Ejidal no estuvieran capacitados para refaccionar a los núcleos de población dotados, para llenar desde luego los terrenos propios para ganadería; con el fin de evitar una disminución en la capacidad productora de la zona, tendrá derecho el propietario de la explotación ganadera afectada, a mantener en el terreno todos los ganados correspondientes, por el término de uno a tres años, con el fin de no disminuir la capacidad productora de la zona y evitar el remate del ganado excedente, a precios antieconómicos; pagando como compensación del terreno ejidal ocupado, un tanto por ciento de las crías, que se fijará de acuerdo con lo que señala el Reglamento respectivo.
 
 ###### ARTICULO 53.
 
@@ -1650,3 +1660,9 @@ Sufragio Efectivo. No Reelección.
 México, D. F., a 9 de abril de 1934.- El Secretario de Gobernación, Eduardo Vasconcelos.- Rúbrica.
 
 Al C. . . .
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 6 DE MARZO DE 1937.
+
+UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial."
