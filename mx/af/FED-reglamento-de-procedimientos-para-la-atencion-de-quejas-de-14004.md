@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-procedimientos-para-la-atencion-de-quejas-de-1400
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-04-29"
-last_updated: "1999-04-29"
+last_updated: "2003-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14004&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1999-03-17"
 
 REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCION DE QUEJAS DE LA COMISION NACIONAL DE ARBITRAJE MEDICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCION DE QUEJAS MEDICAS Y GESTION PERICIAL DE LA COMISION NACIONAL DE ARBITRAJE MEDICO, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 21 DE ENERO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el jueves 29 de abril de 1999.
 
@@ -746,3 +748,13 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Los asuntos en trámite arbitral se resolverán con arreglo a las cláusulas compromisorias y los compromisos arbitrales otorgados previamente por las partes. En el evento que la naturaleza del procedimiento arbitral lo permita, dado el avance de su tramitación, las partes podrán acordar que las diligencias pendientes se sujeten a lo previsto en el presente Reglamento.
 
 De conformidad con lo dispuesto por el artículo 8o., fracción II del Decreto por el que se crea la Comisión Nacional de Arbitraje Médico, el Consejo de la Comisión, en su décima segunda sesión ordinaria, celebrada en la Ciudad de México, Distrito Federal, el diecisiete de marzo de mil novecientos noventa y nueve, expidió el presente Reglamento de Procedimientos para la Atención de Quejas, instruyendo al Secretario Técnico para que se publique en el Diario Oficial de la Federación.- El Presidente del Consejo de la Comisión Nacional de Arbitraje Médico, Héctor Fernández Varela Mejía.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 21 DE ENERO DE 2003.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos en trámite arbitral se resolverán con arreglo a las cláusulas compromisorias y los compromisos arbitrales otorgados previamente por las partes. En el evento que la naturaleza del procedimiento arbitral lo permita, dado el avance de su tramitación, las partes podrán acordar que las diligencias pendientes se sujeten a lo previsto en el presente Reglamento.
+
+TERCERO.- Se abroga el Reglamento de Procedimientos para la Atención de Quejas de la Comisión Nacional de Arbitraje Médico, expedido por su Consejo en la décima segunda sesión ordinaria, celebrada el diecisiete de marzo de mil novecientos noventa y nueve, y publicado en el Diario Oficial de la Federación el veintinueve de abril de ese mismo año.
