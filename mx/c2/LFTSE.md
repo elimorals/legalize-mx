@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "1963-12-28"
+last_updated: "1967-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 1967.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -388,7 +388,9 @@ Los trabajadores que tengan encomendado manejo de fondos, valores o bienes, podr
 
 Ningún trabajador podrá ser cesado sino por justa causa. En consecuencia, el nombramiento o designación de los trabajadores sólo dejará de surtir efectos sin responsabilidad para los titulares de las dependencias por las siguientes causas:
 
-I.- Por renuncia, por abandono de empleo o por abandono de labores técnicas relativas al funcionamiento de maquinaria o equipo, o a la atención de personas, que ponga en peligro esos bienes o que cause la suspensión o la deficiencia de un servicio, o que ponga en peligro la salud o vida de las personas;
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 1967)</small>
+
+I.- Por renuncia, por abandono de empleo o por abandono o repetida falta injustificada a labores técnicas relativas al funcionamiento de maquinaria o equipo, o a la atención de personas, que ponga en peligro esos bienes o que cause la suspensión o la deficiencia de un servicio, o que ponga en peligro la salud o vida de las personas, en los términos que señalen los Reglamentos de Trabajo aplicables a la dependencia respectiva;
 
 II.- Por conclusión del término o de la obra determinantes de la designación;
 
@@ -862,9 +864,13 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 El Tribunal Federal de Conciliación y Arbitraje será colegiado y lo integrarán un magistrado representante del Gobierno Federal que será designado por éste, un magistrado representante de los trabajadores, designado por la Federación de Sindicatos de Trabajadores al Servicio del Estado; y un magistrado tercer árbitro que nombrarán los dos representantes citados. Este último fungirá como presidente.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1967)</small>
+
 ###### ARTICULO 119.
 
-Para la designación de nuevos magistrados, por vacantes, se seguirá el procedimiento indicado en el artículo anterior.
+Para la designación de nuevos magistrados, por vacantes, se seguirá el procedimiento indicado en el Artículo anterior.
+
+Las faltas temporales del presidente del Tribunal, serán cubiertas por el Secretario General de Acuerdos y las de los demás Magistrados por la persona que designe el Organismo que cada uno representa.
 
 ###### ARTICULO 120.
 
@@ -926,9 +932,11 @@ En el procedimiento ante el Tribunal Federal de Conciliación y Arbitraje no se 
 
 El procedimiento para resolver las controversias que se sometan al Tribunal Federal de Conciliación y Arbitraje, se reducirá: a la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia; a la contestación, que se hará en igual forma; y a una sola audiencia en la que se recibirán las pruebas y alegatos de las partes, y se pronunciará resolución, salvo cuando a juicio del propio Tribunal se requiera la práctica de otras diligencias, en cuyo caso se ordenará que se lleven a cabo, y, una vez desahogadas, se dictará laudo.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1967)</small>
+
 ###### ARTICULO 128.
 
-Las actuaciones se efectuarán con la asistencia de los magistrados que integran el Tribunal y serán válidas con la concurrencia de dos de ellos. Sus resoluciones se dictarán por mayoría de votos.
+Las audiencias estarán a cargo de los Secretarios de Audiencias del Tribunal. El Secretario General de Acuerdos resolverá todas las cuestiones que en ellas se susciten. Estas resoluciones serán revisadas por el Tribunal a petición de parte, la que deberá formularla por escrito dentro de las 24 horas siguientes. Las demás actuaciones se efectuarán con la asistencia de los Magistrados que integran el Tribunal y serán válidas con la concurrencia de dos de ellos. Sus resoluciones se dictarán por mayoría de votos.
 
 ###### ARTICULO 129.
 
@@ -990,23 +998,25 @@ Antes de pronunciarse el laudo, los magistrados representantes podrán solicitar
 
 Si de la demanda, o durante la secuela del procedimiento, resultare, a juicio del Tribunal, su incompetencia, la declarará de oficio.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1967)</small>
+
 ###### ARTICULO 140.
 
-La caducidad en el proceso se producirá, cuando cualquiera que sea su estado, no se haya efectuado algún acto procesal ni promoción durantet (sic) un término mayor de tres meses, así sea con el fin de pedir que se dicte el laudo.
+Se tendrá por desistida de la acción y de la demanda intentada, a toda persona que no haga promoción alguna en el término de tres meses, siempre que esa promoción sea necesaria para la continuación del procedimiento. El Tribunal, de oficio o a peitción (sic) de parte, una vez transcurrido este término, declarará la caducidad.
 
-No operará la caducidad, aun cuando el término transcurra, por el desahogo de diligencias que deban practicarse fuera del local del Tribunal o por estar pendientes de recibirse informes o copias certificadas que hayan sido solicitadas.
-
-A petición de parte interesada, o de oficio, el Tribunal declarará la caducidad.
+No operará la caducidad, aún cuando el término transcurra, por el desahogo de diligencias que deban practicarse fuera del local del Tribunal o por estar pendientes de recibirse informes o copias certificadas que hayan sido solicitadas.
 
 ###### ARTICULO 141.
 
 Los incidentes que se susciten con motivo de la personalidad de las partes o de sus representantes, de la competencia del Tribunal, del interés de tercero, de nulidad de actuaciones u otros motivos, serán resueltos de plano.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1967)</small>
+
 ###### ARTICULO 142.
 
-Las notificaciones se harán personalmente a los interesados por los actuarios del Tribunal o mediante oficio enviado con acuse de recibo. En todo caso, le (sic) demanda, la reclaratoria (sic) de caducidad y el laudo se notificarán personalmente.
+La demanda, la citación para absolver posiciones, la declaratoria de caducidad, el laudo y los acuerdos con apercibimiento, se notificarán personalmente a las partes. Las demás notificaciones se harán por estrados.
 
-Todos los términos correrán a partir del día hábil siguiente a aquel en que se haga el emplazamiento, citación o notificación, y se contará en ellos el día del vencimiento.
+Todos los términos correrán a partir del día hábil siguiente a aquél en que se haga el emplazamiento, citación notificación, y se contará en ellos el día del vencimiento.
 
 ###### ARTICULO 143.
 
@@ -1163,3 +1173,17 @@ El registro de los Sindicatos ante el Tribunal de Arbitraje, hecho durante la vi
 Joaquín Gamboa Pascoe.- D.P.- Rúbrica.- Lic. Manuel Moreno Sánchez, S.P.- Rúbrica.- J. Guadalupe Mata López, D.S.- Rúbrica.- Lic. Carlos Román Celis, S.S.- Rúbrica".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintisiete días del mes de diciembre de mil novecientos sesenta y tres.- Adolfo López Mateos.- Rúbrica.- El Subsecretario de Gobernación Encargado del Despacho, Luis Echeverría.- Rúbrica.- El Secretario de Relaciones Exteriores, Manuel Tello.- Rúbrica.- El Secretario de Marina, Manuel Zermeño Araico.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortíz Mena.- Rúbrica.- El Secretario del Patrimonio Nacional, Eduardo Bustamante.- Rúbrica.- El Secretario de Industria y Comercio, Raúl Salinas Lozano.- Rúbrica.- El Secretario de Agricultura y Ganadería, Julián Rodríguez Adame.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Walter C. Buchanan.- Rúbrica.- El Secretario de Obras Públicas, Javier Barros Sierra.- Rúbrica.- El Secretario de Recursos Hidráulicos, Alfredo del Mazo.- Rúbrica.- El Secretario de Educación Pública, Jaime Torres Bodet.- Rúbrica.- El Secretario de Salubridad y Asistencia, José Alvarez Amezquita.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Salomón González Blanco.- Rúbrica.- El Secretario de la Presidencia, Donato Miranda Fonseca.- Rúbrica.- El Jefe del Departamento de Asuntos Agrarios y Colonización, Roberto Barrios.- Rúbrica.- El Jefe del Departamento de Turismo, Francisco González de la Vega.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ernesto P. Uruchurtu.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 20 DE ENERO DE 1967.
+
+DECRETO QUE ADICIONA Y REFORMA DIVERSOS ARTICULOS A LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTICULO 123 CONSTITUCIONAL.
+
+UNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 20 DE ENERO DE 1967.
+
+DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 46 DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTICULO 123 CONSTITUCIONAL.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
