@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-bienes-nacionales-416"
 country: "mx"
 rank: "ley_general"
 publication_date: "1982-01-08"
-last_updated: "2001-12-31"
+last_updated: "2004-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2001.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY GENERAL DE BIENES NACIONALES, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 20 DE MAYO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 8 de enero de 1982.
 
@@ -274,9 +276,9 @@ II. Incorporar al dominio público, mediante decreto, un bien que forme parte de
 
 III. Desincorporar del dominio público, en los casos en que la Ley lo permita y asimismo mediante decreto, un bien que haya dejado de ser útil para fines de servicio público;
 
-IV. Dictar las reglas a que deberá sujetarse la policía, vigilancia y aprovechamiento de los bienes de dominio público y tomar las medidas administrativas encaminadas a obtener, mantener o recuperar la posesión de ellos, así como procurar la remoción de cualquier obstáculo creado natural o artificialmente para el uso y destino. La Procuraduría General de la República y a través de la Secretaría de Gobernación, las Secretarías de la Defensa Nacional y de Marina, prestarán el auxilio necesario cuando formalmente se les requiera, con el fin de salvaguardar los intereses patrimoniales de la Federación.
+IV. Dictar las reglas a que deberá sujetarse la policía, vigilancia y aprovechamiento de los bienes de dominio público y tomar las medidas administrativas encaminadas a obtener, mantener o recuperar la posesión de ellos, así como procurar la remoción de cualquier obstáculo creado natural o artificialmente para el uso y destino. La Procuraduría General de la República y a través de la Secretaría de Gobernación, las Secretarías de la Defensa Nacional y de Marina, prestarán el auxilio necesario cuando formalmente se les requiera, con el fin de salvaguardar los intereses patrimoniales de la Federación;
 
-V. En general, dictar las disposiciones que demande el cumplimiento de esta ley o de las demás específicas a que estén sometidos los bienes de dominio público.
+V. En general, dictar las disposiciones que demande el cumplimiento de esta ley o de las demás específicas a que estén sometidos los bienes de dominio público;
 
 Las facultades que este artículo señala se ejercerán por conducto de la Secretaría de Desarrollo Urbano y Ecología.
 
@@ -1084,7 +1086,7 @@ IV. Las informaciones ad-perpetuam promovidas por el Ministerio Público Federal
 
 V. Las resoluciones judiciales o de árbitros o arbitradores que produzcan alguno de los efectos mencionados en la fracción I;
 
-VI. Los decretos que incorporen o desincorporen del dominio público determinados bienes,
+VI. Los decretos que incorporen o desincorporen del dominio público determinados bienes;
 
 VII. Las declaratorias a que se refiere la fracción I del artículo 17 de esta ley; y
 
@@ -1277,3 +1279,43 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 D.O.F. 31 DE DICIEMBRE DE 2001.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE MAYO DE 2004.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga la Ley General de Bienes Nacionales, publicada en el Diario Oficial de la Federación el 8 de enero de 1982.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en la presente Ley.
+
+CUARTO.- Los inmuebles a que se refiere la fracción V del artículo 6 de esta Ley, son los nacionalizados a que se refiere el Artículo Decimoséptimo Transitorio de la Constitución Política de los Estados Unidos Mexicanos, que las iglesias y agrupaciones religiosas hubiesen administrado o utilizado con anterioridad al 29 de enero de 1992, incluyendo aquéllos respecto de los cuales, a la fecha de entrada en vigor del presente ordenamiento, aún no se hubiere expedido la resolución judicial o la declaración administrativa correspondiente.
+
+QUINTO.- Las entidades y los gobiernos del Distrito Federal, estatales y municipales que antes de la entrada en vigor de la presente Ley, hubieren adquirido de la Federación, mediante enajenación a título gratuito, inmuebles considerados monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, están obligados a absorber los costos de reparación, conservación y mantenimiento y a dar a los inmuebles un uso compatible con su naturaleza.
+
+SEXTO.- En el caso de los bienes que a la fecha de entrada en vigor de esta Ley, se hayan desincorporado del régimen de dominio público de la Federación o autorizado su enajenación a través del Decreto respectivo, sin haberse enajenado, se entenderá que dicha desincorporación tiene el efecto a que se refiere el artículo 95 de la presente Ley.
+
+SÉPTIMO.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de esta Ley, serán resueltos conforme a lo dispuesto por la Ley General de Bienes Nacionales abrogada.
+
+Los trámites pendientes sobre la desincorporación del régimen de dominio público de la Federación y la autorización para la enajenación de inmuebles federales o propiedad de organismos descentralizados, se resolverán conforme a lo dispuesto por la presente Ley.
+
+OCTAVO.- El Ejecutivo Federal deberá expedir, en un plazo no mayor a noventa días naturales fatales, contados a partir de la entrada en vigor de esta Ley, el reglamento en el que se determine la integración y funcionamiento del nuevo órgano administrativo desconcentrado de la Secretaría que, en sustitución de la Comisión de Avalúos de Bienes Nacionales, se hará cargo de las atribuciones que esta Ley le confiere a dicha dependencia en materia de administración de inmuebles federales y de valuación de bienes nacionales.
+
+La creación del nuevo órgano desconcentrado a que se refiere el párrafo anterior, deberá sujetarse a los recursos humanos, financieros y materiales con los que cuenta actualmente la Comisión de Avalúos de Bienes Nacionales. En caso de que para dicho efecto se requieran de mayores recursos, éstos tendrán que provenir del presupuesto de la Secretaría.
+
+En tanto se constituya el nuevo órgano desconcentrado a que se refiere este transitorio, la Comisión de Avalúos de Bienes Nacionales ejercerá las atribuciones que esta Ley le confiere a la Secretaría en materia de administración de inmuebles federales y de valuación de bienes nacionales.
+
+NOVENO.- La Secretaría de Educación Pública deberá elaborar, a través del Instituto Nacional de Antropología e Historia, y proponer al Ejecutivo Federal el reglamento para el otorgamiento de permisos y autorizaciones para la realización de actividades cívicas y culturales en las zonas de monumentos arqueológicos, a que se refiere el artículo 30 de esta Ley, dentro de los siguientes seis meses contados a partir de la entrada en vigor de la presente Ley.
+
+DÉCIMO.- Las dependencias administradoras de inmuebles para el ejercicio de las facultades que les confiere esta Ley, promoverán las medidas necesarias ante las instancias correspondientes, sujetándose a los recursos humanos, financieros y materiales con los que disponen actualmente.
+
+DÉCIMO PRIMERO.- La Secretaría, dentro de los sesenta días naturales siguientes a la entrada en vigor de la presente Ley, deberá formular un programa a efecto de que las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y entidades efectúen los trámites necesarios para destinar formalmente a su servicio los inmuebles federales que vienen utilizando sin contar con el correspondiente acuerdo secretarial o, en su caso, decreto presidencial de destino.
+
+DÉCIMO SEGUNDO.- Las dependencias, la Procuraduría General de la República, las unidades administrativas de la Presidencia de la República y entidades que no cuenten con responsable inmobiliario, comunicarán a la Secretaría, en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente ordenamiento, los datos del servidor público que fungirá con tal carácter.
+
+DÉCIMO TERCERO.- Los Poderes Legislativo y Judicial de la Federación, las entidades y las instituciones de carácter federal con personalidad jurídica y patrimonio propios a las que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía, contarán con un plazo de ciento veinte días naturales contados a partir de la fecha de publicación de la presente Ley, para promover la inscripción en el Registro Público de la Propiedad Federal de los títulos que acrediten la propiedad de los inmuebles que hayan adquirido y no se encuentren registrados.
+
+DÉCIMO CUARTO.- En tanto se expiden los reglamentos, normas, bases, lineamientos y demás disposiciones derivadas de la presente Ley, se continuarán aplicando las disposiciones reglamentarias y administrativas vigentes en lo que no se opongan a este ordenamiento, independientemente de que respecto de los inmuebles sujetos al régimen de dominio público de la Federación que formen parte del patrimonio de los organismos descentralizados, sus respectivos órganos de gobierno podrán aprobar en cada caso específico la realización de los actos jurídicos a que se refieren los artículos 65 y 84 de la presente Ley.
+
+DÉCIMO QUINTO.- Las dependencias administradoras de inmuebles deberán establecer un programa para integrar en el registro de la contabilidad gubernamental el valor de los inmuebles de su competencia.
+
+DÉCIMO SEXTO.- Para dar cumplimiento a lo establecido en la fracción IV, del artículo 2 del Decreto que extingue el organismo público descentralizado, Ferrocarriles Nacionales de México y abroga su Ley Orgánica, la Secretaría de Comunicaciones y Transportes como responsable del proceso de liquidación de dicho organismo, procederá a regularizar la propiedad de las casas habitación y terrenos en posesión legítima de jubilados y pensionados ferrocarrileros o, en su caso, sus sucesores, mediante las donaciones correspondientes.
