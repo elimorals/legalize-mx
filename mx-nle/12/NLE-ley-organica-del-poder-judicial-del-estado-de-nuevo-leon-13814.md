@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-judicial-del-estado-de-nuevo-leon-13814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-08"
-last_updated: "1999-02-08"
+last_updated: "2000-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 8 de febrero de 1999.
 
@@ -73,9 +73,13 @@ Son auxiliares de la impartición de justicia:
 
 I. Los Consejos Locales de Tutela a que se refiere el Código Civil;
 
-II. Los Oficiales del Registro Civil;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
 
-III. Los Registradores de la Propiedad y del Comercio;
+II. El Director del Registro Civil y los Oficiales del mismo;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
+
+III. El Director del Registro de la Propiedad y del Comercio y los Registradores del mismo;
 
 IV. Los médicos forenses, intérpretes oficiales y demás peritos en sus ramos;
 
@@ -87,7 +91,9 @@ VII. Los depositarios e interventores;
 
 VIII. Los jefes y agentes de la policía estatal y municipal;
 
-IX. Los servidores públicos correspondientes adscritos a la Dirección de Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
+
+IX. Los servidores públicos adscritos a la Dirección de Prevención y Readaptación Social;
 
 X. Los Presidentes Municipales; y
 
@@ -103,9 +109,11 @@ El Consejo de la Judicatura remitirá al Congreso del Estado el presupuesto de e
 
 Las partidas presupuestales asignadas al Poder Judicial serán ejercidas en forma autónoma por éste. La Ley de Egresos establecerá la forma de asignación de estos recursos.
 
-###### ARTÍCULO 5.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
-En los órganos del Poder Judicial del Estado, se considerarán como días inhábiles: los sábados y domingos, el 1o. de enero, 5 de febrero, 21 de marzo, 1o. de mayo, 5 de mayo, 16 de septiembre, 20 de noviembre, 25 de diciembre, así como aquellos que se determinen en el calendario oficial, durante los cuales no se practicarán actuaciones judiciales, salvo en los casos expresamente considerados en la ley.
+###### ARTICULO 5.
+
+En los órganos del Poder Judicial del Estado, se considerarán como días inhábiles: los sábados y domingos, el 1° de enero, 5 de febrero, 21 de marzo, 1° de mayo, 5 de mayo, 16 de septiembre, 20 de noviembre, 25 de diciembre, así como aquellos que se determinen en el calendario oficial o cuando se suspendan las labores por orden del Tribunal Superior de Justicia, durante los cuales no se practicarán actuaciones judiciales, salvo en los casos expresamente considerados en la Ley.
 
 ### CAPÍTULO SEGUNDO. DE LA DISTRITACIÓN JUDICIAL
 
@@ -117,9 +125,11 @@ Para efectos de la presente Ley, el Estado se divide en los Distritos Judiciales
 
 ### CAPÍTULO PRIMERO. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-###### ARTÍCULO 7.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
-El Tribunal Superior de Justicia se integrará con nueve Magistrados. Las faltas temporales de los Magistrados se suplirán en términos del artículo 115.
+###### ARTICULO 7.
+
+El Tribunal Superior de Justicia se integrará con diez Magistrados. Las faltas temporales de los Magistrados se suplirán en los términos del artículo 115 de esta Ley.
 
 ###### ARTÍCULO 8.
 
@@ -255,7 +265,9 @@ I. Conocer en segunda instancia, en los términos que dispongan las leyes, de lo
 
 II. Conocer de los recursos que les correspondan conforme a los Códigos de Procedimientos;
 
-III. Imponer correcciones disciplinarias en los términos de esta ley a los litigantes o a los abogados, que de palabra o por escrito falten al respeto debido a los servidores públicos judiciales, o se cometan entre sí dichas faltas; dando de esto conocimiento al Presidente del Tribunal para los efectos de la fracción XIII del Artículo 23 de esta Ley.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
+
+III. Imponer correcciones disciplinarias en los términos de esta Ley a los litigantes o a los abogados, que falten al respeto a los Servidores Públicos Judiciales, dando de esto conocimiento al Presidente del Tribunal para los efectos de la fracción XIII del artículo 23 de esta Ley;
 
 IV. Conocer de las recusaciones de los Jueces de Primera Instancia en los términos de las leyes;
 
@@ -275,9 +287,13 @@ Para ser Secretario de Sala, se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-II. Contar con título de Lic. en Derecho o Ciencias Jurídicas debidamente expedido;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
 
-III. Tener por lo menos dos años de ejercicio profesional; y
+II. Contar con título de Licenciado en Derecho o Ciencias Jurídicas debidamente expedido;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
+
+III. Tener por lo menos dos años de ejercicio profesional o práctica jurisdiccional por el mismo lapso en el Poder Judicial del Estado; y
 
 IV. No haber sido condenado por delito intencional y en general tener buena reputación.
 
@@ -315,9 +331,11 @@ Los Jueces de Primera Instancia serán designados por el Pleno del Tribunal Supe
 
 Los Jueces de Primera Instancia confirmados serán inamovibles durante el período de su encargo, salvo lo dispuesto en el artículo 100 de la referida Constitución.
 
-###### ARTÍCULO 33.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
-De acuerdo con el presupuesto de egresos aprobado al Poder Judicial, en los Distritos Judiciales habrá el número de Juzgados que el Tribunal Superior de Justicia, a propuesta del Consejo de la Judicatura, considere necesarios para que la impartición de justicia sea expedita. Cuando en un Distrito Judicial existan dos o más juzgados, estarán numerados progresivamente.
+###### ARTICULO 33.
+
+De acuerdo con el presupuesto de egresos aprobado al Poder Judicial, en los Distritos Judiciales habrá el número de Juzgados que el Tribunal Superior de Justicia, a propuesta del Consejo de la Judicatura, considere necesarios para que la impartición de justicia sea expedita. Cuando en un Distrito Judicial existan dos o más juzgados de la misma materia, estarán numerados progresivamente.
 
 ###### ARTÍCULO 34.
 
@@ -353,7 +371,9 @@ III. De los Juicios Sucesorios y aquellos que sean atraídos por éstos;
 
 IV. De los asuntos judiciales concernientes a otras acciones relativas al estado civil y a la capacidad de las personas;
 
-V. De las diligencias de consignación en todo lo relativo al derecho familiar;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
+
+V. De los Actos Prejudiciales en todo lo relativo al derecho familiar;
 
 VI. De la diligenciación de los exhortos, suplicatorias, requisitorias y despachos relacionados con el derecho familiar;
 
@@ -515,13 +535,19 @@ Los Magistrados y los Jueces inspeccionarán personalmente, una vez al mes por l
 
 ### CAPÍTULO SEGUNDO. DE LOS JUZGADOS MENORES
 
-###### ARTÍCULO 49.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
-Habrá en cada distrito, en su cabecera o donde lo determine el Pleno del Tribunal Superior de Justicia, uno o más Juzgados Menores los que ejercerán sus funciones en todo el territorio distrital, con excepción de los Juzgados Menores del Primer Distrito, los que actuarán sólo en el territorio del municipio en que residan.
+###### ARTICULO 49.
 
-###### ARTÍCULO 50.
+Habrá en cada Distrito, en su cabecera o donde lo determine el Pleno del Tribunal Superior de Justicia, uno o más Juzgados Menores, los que ejercerán sus funciones en todo el territorio distrital o en los municipios que acuerde el Pleno, considerando las recomendaciones que al efecto emita el Consejo de la Judicatura.
 
-Los Jueces Menores serán designados por el Tribunal Superior de Justicia a propuesta del Consejo de la Judicatura que la presentará al Pleno, en los términos de la Constitución Política del Estado y de esta Ley.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
+
+###### ARTICULO 50.
+
+Los Jueces Menores serán designados por el Tribunal Superior de Justicia a propuesta del Consejo de la Judicatura que la presentará al Pleno, en los términos de la Constitución Política del Estado y de esta Ley. Para efectos de la confirmación a que se refiere el artículo 99 Constitucional, los Jueces Menores durarán en su cargo 5 años como período inicial. El Pleno del Tribunal Superior de Justicia resolverá sobre la confirmación o remoción, con anticipación de sesenta días naturales a la fecha en que expire el plazo de ejercicio del Juez que corresponda, considerando los informes que se tengan respecto al desempeño de su labor y la opinión del Consejo de la Judicatura, de no ser confirmado cesará en sus funciones al termino de su gestión de 5 años.
+
+Los Jueces Menores confirmados serán inamovibles durante el período de su encargo el cual sólo se perderá cuando incurran en alguna de las causas señaladas en el artículo 100 de la Constitución Política del Estado.
 
 ###### ARTÍCULO 51.
 
@@ -531,15 +557,19 @@ I. Atender de los negocios civiles para los que fueren competentes, según el C�
 
 II. Conocer de los negocios mercantiles por la misma cuantía de los que sean de su competencia en materia civil;
 
-III. Remitir al Tribunal Superior de Justicia y al Consejo de la Judicatura, dentro de los primeros ocho días de cada mes, informe de los negocios pendientes y despachados respecto de los negocios civiles y mercantiles de su competencia;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
+
+III. Remitir al Tribunal Superior de Justicia y al Consejo de la Judicatura, dentro de los primeros ocho días de cada mes, informe de los negocios pendientes y despachados respecto de los asuntos de su competencia, así como de la asistencia de los empleados del juzgado;
 
 IV. Diligenciar sin demora los exhortos, despachos y demás encomiendas que directamente reciban de otros Jueces Menores o de los Jueces de Primera Instancia; y,
 
 V. De los demás asuntos que les encomienden las leyes.
 
-###### ARTÍCULO 52.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
-Son aplicables para los juzgados menores lo dispuesto en los artículos del 41 al 44 y del 46 al 48 de esta Ley, en lo conducente.
+###### ARTICULO 52.
+
+Son aplicables para los juzgados menores lo dispuesto en los artículos del 39 al 44 y del 46 al 48 de esta Ley, en lo conducente.
 
 ### CAPÍTULO TERCERO. DE LAS OFICIALÍAS DE PARTES
 
@@ -749,9 +779,23 @@ Los asuntos tratados en el Pleno o en las Comisiones constarán en actas, las qu
 
 En caso de que las resoluciones del Pleno deban notificarse, dicha notificación se realizará en un plazo de tres días hábiles por conducto de quien determine el propio Consejo.
 
-###### ARTÍCULO 91.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
-Corresponde al Pleno del Consejo de la Judicatura ejercer las atribuciones que establece el artículo 97 de la Constitución Política del Estado.
+###### ARTICULO 91.
+
+Corresponde al Pleno del Consejo de la Judicatura del Estado:
+
+I.- Ejercer las atribuciones que le confiere la Constitución Política del Estado;
+
+II.- Conocer de las quejas o denuncias administrativas contra los servidores públicos del Poder Judicial, con excepción de los Magistrados del Tribunal Superior de Justicia, tomando en consideración lo previsto por este ordenamiento y la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios;
+
+III.- Ordenar la práctica de visitas ordinarias y extraordinarias a los Juzgados de Primera Instancia y Menores;
+
+IV.- Calificar legalmente los impedimentos de los integrantes del Consejo;
+
+V.- Comunicar al Ministerio Público la presunta comisión de delitos por servidores públicos del Poder Judicial, cuando con motivo de su actuación tenga conocimiento de éstos; y
+
+VI.- Las demás que le otorguen las disposiciones jurídicas.
 
 #### SECCIÓN SEGUNDA. DEL INSTITUTO DE LA JUDICATURA
 
@@ -965,9 +1009,11 @@ II. Las de los Magistrados, cuando la ausencia no pase de treinta días y se tra
 
 En las faltas absolutas se procederá en los términos de la Constitución Política del Estado;
 
-III. Las faltas temporales de los Jueces, sean de Primera Instancia o Menores, siempre que no pasen de un mes, serán cubiertas por el Primer Secretario, en cuyo caso actuará como fedatario el de mayor antigüedad en el cargo. Si la falta fuere del Juez y del Primer Secretario, el juzgado quedará a cargo del Secretario siguiente en orden de antigüedad, quien actuará con el Secretario que le siga en este supuesto o con dos testigos de asistencia. Concurriendo la falta de juez y secretarios, el Tribunal, a propuesta del Consejo de la Judicatura, designará a los sustitutos temporales correspondientes.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
 
-Cuando la falta del Juez exceda de un mes o sea absoluta, se designará nuevo Juez conforme la Constitución Política del Estado.
+III. Las faltas temporales de los Jueces, sean de Primera Instancia o Menores, serán cubiertas por el Primer Secretario, en cuyo caso actuará como Secretario Fedatario el de mayor antigüedad en el cargo. Si la falta fuere del Juez y del Primer Secretario, el juzgado quedará a cargo del Secretario siguiente en orden de antigüedad, quien actuará con el Secretario que le siga en este supuesto o con dos testigos de asistencia. Concurriendo la falta de Juez y Secretarios, el Tribunal, a propuesta del Consejo de la Judicatura, designará a los sustitutos temporales correspondientes.
+
+Cuando la falta fuere absoluta, se aplicará en lo conducente lo dispuesto en el párrafo anterior hasta en tanto se designe nuevo Juez conforme la Constitución Política del Estado.
 
 ###### ARTÍCULO 116.
 
@@ -1047,9 +1093,11 @@ En los juzgados penales los períodos de vacaciones se disfrutarán en forma esc
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 125.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
 
-El ingreso y la promoción de los servidores públicos del Poder Judicial del Estado, referidos en el artículo siguiente, se dará en el contexto de el sistema de carrera judicial que establece el presente Título, misma que se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+###### ARTICULO 125.
+
+El ingreso, formación, permanencia, promoción, especialización, evaluación y reconocimiento de los servidores públicos del Poder Judicial del Estado, se dará en el contexto del Sistema de Carrera Judicial que establece el presente Título y las disposiciones aplicables, mismo que se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
 ###### ARTÍCULO 126.
 
@@ -1079,11 +1127,23 @@ Los Magistrados serán designados por el H. Congreso del Estado a propuesta del 
 
 El ingreso y promoción para las categorías de Juez de Primera Instancia ya sea especializado por materia o mixto y Juez Menor se realizará conforme al procedimiento de designación establecido en la Constitución para lo cual el Consejo realizará concursos de oposición.
 
-###### ARTÍCULO 129.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
-Para acceder a las categorías señaladas en las fracciones III a VII del artículo 126 se requerirá el acreditamiento de un examen de aptitud.
+###### ARTICULO 129.
 
-El Consejo de la Judicatura tendrá la facultad de comprobar la veracidad de la información que los aspirantes hubieren proporcionado.
+El ingreso y permanencia en las categorías señaladas en las fracciones III a VII del artículo 126, se sujetará a lo siguiente:
+
+I. Para el ingreso, el acreditamiento de un examen de aptitud.
+
+Los servidores públicos en las categorías señaladas tendrán una designación provisional hasta por dos años.
+
+Para el nombramiento definitivo se considerará el resultado aprobatorio de la evaluación que el Consejo de la Judicatura haga al interesado, acerca de la calidad y trayectoria en el desempeño de la función, así como lo establecido en los reglamentos aplicables; haciendo, en su caso, la propuesta que corresponda al Tribunal Superior de Justicia. Si no se da el nombramiento definitivo en los últimos noventa días del período de designación provisional, cesarán en sus funciones.
+
+El trámite para el nombramiento definitivo podrá iniciarse de oficio por el Consejo de la Judicatura, o a petición del interesado o del titular del órgano jurisdiccional al que se encuentra adscrito.
+
+II. Para la permanencia, se atenderá a lo preceptuado al respecto en los reglamentos del Poder Judicial del Estado.
+
+El Consejo de la Judicatura tendrá la facultad de comprobar la veracidad de la información que los aspirantes hubieren proporcionado, así como de los demás datos que deban ser tomados en cuenta para los efectos de lo dispuesto en el presente artículo.
 
 ###### ARTÍCULO 130.
 
@@ -1091,27 +1151,39 @@ Las designaciones que deban hacerse en las categorías de Juez de Primera Instan
 
 En los concursos de oposición libre podrán participar servidores públicos del Poder Judicial y toda aquella persona que cumpla con los requisitos legales.
 
-La selección por medio del concurso interno de oposición cubrirá una cuarta parte de las plazas existentes en el Poder Judicial del Estado y podrán participar únicamente servidores públicos integrantes del mismo.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
+
+En los concursos internos de oposición únicamente podrán participar servidores públicos del Poder Judicial que cumplan los requisitos legales para las categorías concursadas.
 
 ###### ARTÍCULO 131.
 
 Los concursos de oposición libre o internos de oposición para las categorías de Juez de Primera Instancia y Juez Menor se sujetarán al siguiente procedimiento:
 
-I. El Consejo de la Judicatura del Estado emitirá una convocatoria que deberá ser publicada por una vez en el Periódico Oficial del Estado y por dos veces en uno de los diarios de mayor circulación en el Estado, con un intervalo de cinco días hábiles entre cada publicación.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
 
-La convocatoria señalará las categorías y número de vacantes sujetas a concurso; lugar, día y hora en que se llevarán a cabo los exámenes, el plazo, lugar de inscripción y demás elementos que se estimen necesarios;
+I. El Consejo de la Judicatura del Estado emitirá una convocatoria que deberá ser publicada por una vez, tanto en el Periódico Oficial de la Entidad, como en uno de los diarios de mayor circulación en el Estado;
 
-II. Los aspirantes inscritos deberán resolver por escrito un cuestionario cuyo contenido versará sobre las materias que se relacionen con la función de la categoría por la que concursan.
+La convocatoria señalará las categorías sujetas a concurso; lugar, día y hora en que se llevarán a cabo los exámenes, el plazo y lugar de inscripción y demás elementos que se estimen necesarios;
 
-De entre el número total de aspirantes sólo tendrán derecho a pasar a la siguiente etapa las cinco personas que por cada una de las vacantes sujetas a concurso hayan obtenido las más altas calificaciones. Esto de conformidad con las disposiciones generales que se emitan al efecto;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
 
-III. Los aspirantes seleccionados, en los términos de la fracción anterior, resolverán los casos prácticos que se les asignen mediante la redacción de las respectivas resoluciones: Posteriormente se procederá a la realización del examen oral y público en el que participarán, en calidad de jurado, el Director del Instituto de la Judicatura y los miembros del Comité Académico designados a ese efecto por el Consejo. El examen consistirá en las preguntas e interpelaciones que realice el jurado sobre cuestiones relativas al asunto que corresponda. La calificación final se determinará con el promedio de los puntos que cada miembro del jurado le asigne al sustentante.
+II. Los aspirantes inscritos deberán resolver por escrito un cuestionario cuyo contenido se relacione con la categoría por la que concursan.
 
-En caso de empate y tratándose de concurso interno de oposición el jurado tomará en consideración los cursos que hayan realizado los sustentantes en el Instituto de la Judicatura, su desempeño profesional, el grado académico, los cursos de actualización y especialización que hayan acreditado y la antigüedad que tengan en el Poder Judicial del Estado. En caso de empate entre un servidor público del Poder Judicial y un particular, se preferirá al primero.
+El Consejo de la Judicatura determinará de entre el número total de participantes los que tengan derecho a pasar a la siguiente etapa, tomando en cuenta las calificaciones obtenidas y los antecedentes personales y profesionales de cada uno. Esto de conformidad con las bases generales que se emitan al efecto en la convocatoria correspondiente;
 
-Cuando ningún sustentante alcance el puntaje mínimo requerido, el concurso se declarará desierto; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
 
-IV. Concluidos los exámenes se levantará un acta y el presidente del jurado declarará quienes son los concursantes que resultaron seleccionados y el medio utilizado para ello, e informará de inmediato al Consejo de la Judicatura para que éste promueva ante el Tribunal Superior de Justicia, las propuestas respectivas.
+III. Los aspirantes seleccionados, en los términos de la fracción anterior, resolverán el o los casos prácticos que se les asignen, mediante la redacción de las respectivas resoluciones o dictamen jurídico del planteamiento presentado, cuando así se le indicare. Posteriormente, se procederá a la realización del examen oral y público en el que participarán en calidad de jurado, el Director del Instituto de la Judicatura o algún miembro del Comité Académico y las personas que para ese efecto designe el Consejo, las cuales deberán reunir los requisitos previstos en el artículo 94 de esta Ley. El examen consistirá en las preguntas e interpelaciones que realice el jurado sobre cuestiones relativas al asunto que corresponda. La calificación final de esta etapa del concurso se determinará con el promedio de los puntos que cada miembro del jurado le asigne al sustentante.
+
+Concluidos los exámenes a que se refiere esta fracción, el Director del Instituto levantará las actas correspondientes en que asentará los resultados proporcionados por el Presidente de cada jurado y con la misma informará al Pleno del Consejo de la Judicatura.
+
+Cuando ningún sustentante alcance el puntaje requerido por el Consejo, éste declarará desierto el concurso y hará una nueva convocatoria;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
+
+IV. El Consejo de la Judicatura analizará el contenido del acta a que se refiere la fracción anterior, y tomará en cuenta los cursos que hayan realizado los sustentantes en el Instituto de la Judicatura o en otra institución de educación superior, el grado académico, los cursos de actualización y especialización que hayan acreditado, su antigüedad en el Poder Judicial, en su caso, y los demás elementos que permitan valorar integralmente su trayectoria profesional. En caso de empate entre un servidor público del Poder Judicial y un particular, se preferirá al primero.
+
+El Pleno del Consejo propondrá al Tribunal Superior de Justicia, la o las ternas procedentes, debiendo tomar en cuenta para ello a quienes en otros concursos de la misma categoría, realizados en el año próximo anterior, hubieren aprobado el examen a que se refiere la fracción III de este artículo y considerando lo expuesto en esta fracción.
 
 ###### ARTÍCULO 132.
 
@@ -1163,7 +1235,13 @@ X. Programar las adquisiciones de bienes, y servicios que se requiera;
 
 XI. Elaborar los programas de capacitación y adiestramiento al personal administrativo; y
 
-XII. Las demás que les confieran el Pleno del Tribunal Superior de Justicia o el Pleno del Consejo de la Judicatura.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
+
+XII. Coordinar y vigilar el cobro por concepto del servicio de copiadora al público, uso de instalaciones, productos y aprovechamientos del Poder Judicial del Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2000)</small>
+
+XIII. Las demás que les confieran el Pleno del Tribunal Superior de Justicia o el Pleno del Consejo de la Judicatura.
 
 ## TÍTULO NOVENO. DEL ARCHIVO JUDICIAL
 
@@ -1195,9 +1273,11 @@ Los tribunales remitirán al archivo los expedientes respectivos. Para su resgua
 
 La extracción de expedientes o documentos del Archivo Judicial, sólo podrá realizarse mediante orden escrita de la autoridad que lo haya remitido al archivo o de quien legalmente la sustituya. La orden se colocará en el lugar que ocupó el expediente extraído y el documento respectivo de salida será suscrito por persona autorizada.
 
-###### ARTÍCULO 142.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
-El examen de libros, documentos o expedientes del archivo solo podrá hacerse dentro de la oficina y en presencia de personal de la misma, por los interesados o sus procuradores, o por cualquier abogado debidamente acreditado.
+###### ARTICULO 142.
+
+El examen de libros, documentos o expedientes del Archivo Judicial solo podrá hacerse dentro de la oficina y en presencia de personal de la misma, por los interesados o sus procuradores, o por cualquier abogado debidamente acreditado, previo oficio del titular del órgano jurisdiccional que los remitió, el que deberá entregarse para su debido registro en el Archivo.
 
 ###### ARTÍCULO 143.
 
@@ -1211,9 +1291,11 @@ El reglamento fijará las atribuciones de los servidores públicos adscritos al 
 
 ### CAPÍTULO PRIMERO. DEL BOLETÍN JUDICIAL
 
-###### ARTÍCULO 145.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
-Se publicará diariamente en los días hábiles un instrumento de comunicación oficial denominado Boletín Judicial, en el que se publicarán los acuerdos y resoluciones del día, edictos y avisos judiciales de los Juzgados de Primera Instancia, Juzgados Menores y de las Salas del Tribunal Superior de Justicia. Este boletín estará a deposición de los interesados previo pago de los derechos correspondientes.
+###### ARTICULO 145.
+
+Se publicará diariamente en los días hábiles un instrumento de comunicación oficial denominado Boletín Judicial, en el que se publicarán los acuerdos y resoluciones del día, edictos y avisos de los Juzgados de Primera Instancia, Juzgados Menores y de las Salas del Tribunal Superior de Justicia. Este boletín estará a disposición de los interesados previo el pago correspondiente.
 
 ###### ARTÍCULO 146.
 
@@ -1233,9 +1315,11 @@ Se editará en la Capital del Estado una publicación que se denominará "Revist
 
 El Consejo de la Judicatura designará al titular de la Revista Jurídica.
 
-###### ARTÍCULO 150.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
-La Revista estará a disposición de los interesados previo pago de los derechos correspondientes y para su consulta habrá suficientes ejemplares en la Biblioteca del Poder Judicial.
+###### ARTICULO 150.
+
+La revista estará a disposición de los interesados previo el pago correspondiente y para su consulta habrá suficientes ejemplares en la Biblioteca del Poder Judicial.
 
 ###### ARTÍCULO 151.
 
@@ -1336,3 +1420,9 @@ LIC. FERNANDO DE JESUS CANALES CLARIOND
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JOSE LUIS COINDREAU GARCIA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE JUNIO DE 2000.
+
+Único.- El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
