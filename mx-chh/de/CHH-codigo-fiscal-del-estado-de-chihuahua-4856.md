@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1974-05-04"
+last_updated: "1974-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1974.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -253,7 +253,11 @@ VI.- Al concluirse la visita se levantará acta en la que se harán constar los 
 
 VII.- El visitado, los testigos y los visitadores firmarán el acta. Si el visitado o los testigos se niegan a firmar, así lo harán constar los visitadores, sin que esta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará en todo caso al visitado o a la persona con la que se entienda la diligencia, y
 
-VIII.- Con las mismas formalidades indicadas en el inciso anterior, se levantarán actas previas, o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión.
+VIII.- Con las mismas formalidades indicadas en el inciso anterior, se levantarán actas previas, o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión;
+
+(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 1974) (F. DE E., P.O. 8 DE ENERO DE 1975)
+
+IX.- El visitado o quien lo represente deberá expresar dentro de los 15 días siguientes a la conclusión de las actas ante la Tesorería General del Estado, las razones de su inconformidad, en forma circunstanciada, ofreciendo las pruebas pertinentes. Para la substanciación del presente recurso, se estará a lo dispuesto en el Artículo 397 de este Código.
 
 38.- Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
@@ -261,23 +265,17 @@ VIII.- Con las mismas formalidades indicadas en el inciso anterior, se levantar�
 
 Las demás autoridades fiscales quedan sometidas a la dirección del Tesorero General del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
-40.- La Tesorería General del Estado, para el desempeño de sus funciones tendrá las direcciones, los departamentos y secciones que fije el reglamento respectivo. Son autoridades fiscales:
+40.- La Tesorería General del Estado, para el desempeño de sus funciones, tendrá las direcciones, los departamentos y secciones que fije el reglamento respectivo. Son autoridades fiscales:
 
 I.- La Tesorería General del Estado;
 
 II.- Las Recaudaciones de Rentas y Colecturías;
 
-III.- La Junta Central de Catastro;
+III.- Los organismos fiscales descentralizados.
 
-IV.- Las Juntas Regionales de Catastro;
-
-V.- Los organismos fiscales descentralizados.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 1973)</small>
-
-Todas las autoridades judiciales, administrativas y municipales del Estado, tienen el carácter de auxiliares de las autoridades fiscales, estando obligadas a presentarles el auxilio y cooperación que soliciten, de acuerdo con las disposiciones de este Código y sus reglamentos.
+Todas las autoridades judiciales, administrativas y municipales del Estado, tienen el carácter de auxiliares de las autoridades fiscales, estando obligadas a prestarles el auxilio y cooperación que soliciten, de acuerdo con las disposiciones de este Código y sus reglamentos.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
@@ -497,19 +495,15 @@ IV.- Tratándose de personas físicas o morales, residentes fuera del Estado, qu
 
 V.- Las personas domiciliadas fuera del Estado que perciban ingresos cuya fuente se localice en el territorio de la Entidad o realicen actos u operaciones en el Estado o que surtan sus efectos dentro de él, están obligadas a pagar las contribuciones establecidas en este Código. Los sujetos residentes en la Entidad que con ellos contraten o intervengan en la relación jurídica o económica correspondiente, estarán obligados a retener el gravamen que se cause.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
-73.- La Federación, los Estados y los Municipios no son causantes de impuestos. Estarán exentos de impuestos:
+73.- La Federación, los Estados y los Municipios no son sujetos de impuestos, contribuciones especiales, derechos, y aprovechamientos, estando exentos de los mismos:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
+a).- Las instituciones y asociaciones de beneficencia pública y privada;
 
-I.- Los organismos descentralizados si están exceptuados por la Ley especial, pero no las personas que con ellos contraten si son los sujetos pasivos.
+b).- Las sociedades cooperativas, de acuerdo con las leyes respectivas, y
 
-II.- Las instituciones y asociaciones de beneficencia pública y privada.
-
-III.- Las sociedades cooperativas, de acuerdo con las leyes respectivas, y
-
-IV.- Las demás personas que expresamente señalen las leyes.
+c).- Las demás personas que expresamente señalen las leyes del Estado.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
@@ -537,7 +531,9 @@ V.- Cuando se trate de bodegas de almacenamiento, el día en que se pongan en se
 
 VI.- La fecha de la autorización definitiva de la escritura notarial constitutiva, independientemente del registro de dicha escritura o de otras circunstancias.
 
-77.- Las oficinas Recaudadoras expedirán, dentro de los 10 días siguientes a la fecha de presentación de las solicitudes, las cédulas de empadronamiento. Los causantes deberán colocarlas en lugar visible de sus establecimientos.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
+77.- Las Oficinas Recaudadoras expedirán dentro de los 45 días siguientes a la fecha de presentación de las solicitudes, las cédulas de empadronamiento. Los causantes deberán colocarlas en lugar visible de sus establecimientos.
 
 78.- Mientras las cédulas de empadronamiento no sean canceladas por autoridad competente, tendrán duración y vigencia indefinida y no requerirán ser renovadas sino en los casos del artículo siguiente, en los que deberá expedirse nueva cédula.
 
@@ -959,27 +955,47 @@ Si no lo hicieren se tendrá como domicilio, para los efectos de este Capítulo,
 
 #### SECCION SEGUNDA. BASE
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
 103.- El valor catastral es el valor real del predio y se determinará:
 
 I.- Por declaración del causante sujeta a aprobación por la Tesorería General del Estado;
 
-II.- Por avalúos practicados por la Tesorería General del Estado, en los casos previstos por este capítulo y disposiciones relativas;
+II.- Por avalúos practicados por la Tesorería General del Estado, en los casos previstos por este Capítulo y disposiciones relativas.
 
-III.- Por las resoluciones dictadas por las Juntas Regionales y Central de Catastro.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+104.- La base del impuesto será el valor catastral:
 
-104.- La base del impuesto será el valor catastral. El impuesto se causará en la siguiente forma:
+I.- Tratándose de predios urbanos el impuesto se causará conforme a las tasas de la siguiente
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+TARIFA
 
-I.- Tratándose de predios rústicos se aplicará una cuota de 6.25 al millar anual sobre el valor catastral;
+VALOR CATASTRAL TASA ANUAL
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+Hasta $ 10,000.00 Exento
 
-II.- Tratándose de predios urbanos se aplicará una cuota de 7.50 al millar anual sobre el valor catastral;
+Hasta $ 50,000.00 7.5 al millar
 
-III.- Tratándose de plantas de beneficio y establecimientos metalúrgicos, la base del impuesto será el valor catastral, incluyendo instalaciones y maquinaria, conforme al avalúo que practique la Tesorería General del Estado. En este caso, se aplicará una cuota de 5 al millar anual sobre el valor catastral.
+Hasta $ 100,000.00 8.0 al millar
+
+Hasta $ 250,000.00 9.0 al millar
+
+Hasta $ 500,000.00 10.5 al millar
+
+Hasta $ 1,000,000.00 12.5 al millar
+
+Más de $ 1,000,000.00 15.0 al millar
+
+Si el valor catastral total de un predio queda comprendido entre un renglón y otro de la anterior escala, el impuesto se causará con la tasa correspondiente al renglón inmediato de mayor valor.
+
+Tratándose de predios no edificados o cuya construcción tenga un valor inferior a la tercera parte del valor del terreno, el impuesto se causará conforme a la tarifa señalada en este artículo aumentando la tasa correspondiente en un 20%.
+
+Tratándose de predios urbanos no edificados propiedad de fraccionamientos autorizados, el aumento del 20% se causará dos años después de la enajenación a terceros, por cualquier título, de cada lote de terreno.
+
+II.- Tratándose de predios rústicos se aplicará una cuota de 6.25 al millar anual sobre el valor catastral.
+
+III.- Tratándose de plantas de beneficio y establecimientos metalúrgicos, la base del impuesto será el valor catastral, incluyendo instalaciones y maquinaria, conforme al avalúo que practique la Tesorería General del Estado, aplicándose una cuota de 7.5 al millar anual sobre el valor catastral.
 
 ### CAPITULO II. IMPUESTO SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES
 
@@ -1015,7 +1031,7 @@ N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACIO
 
 153.- A los vehículos comprendidos en la fracción III del artículo anterior, se les expedirá un oficio de exención del tributo y una calcomanía especial diferentes a la de los vehículos por los que se haya cubierto el gravamen, previa comprobación por parte de la Tesorería General del Estado de que los mismos quedan comprendidos dentro del supuesto de esa fracción.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE CCOORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
 
 154.- Los tenedores o usuarios de vehículos que por cualquier motivo dejen de estar comprendidos en alguna de las fracciones del artículo 152, causarán el impuesto correspondiente, el cual se cubrirá dentro de los 15 días siguientes al cambio de situación.
 
@@ -1149,7 +1165,17 @@ Esta exención se concederá si se prueba:
 
 IV.- Los predios y edificios en que se encuentran establecidos consulados, cuando sean propiedad de sus respectivos gobiernos y siempre que exista reciprocidad de trato fiscal con nuestro país;
 
-V.- Los inmuebles que los derechohabientes de la Dirección de Pensiones Civiles del Estado adquieran o construyan, mediante préstamo hipotecario suministrado por la misma, disfrutarán de la exención que concede la Ley en la materia;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
+V.- Los inmuebles que los derechohabientes de la Dirección de Pensiones Civiles del Estado adquieran o construyan por conducto de dicha institución, en los términos de la Ley de la materia, sobre las bases siguientes:
+
+a).- Se concederá por una sola vez a cada beneficiario;
+
+b).- La exención queda sin efecto aún cuando no haya transcurrido el lapso de la misma si se da alguna de las circunstancias que la Ley de Pensiones Civiles establece para el vencimiento anticipado del acto jurídico que le dió origen, sin que por situación posterior tenga derecho nuevamente a la exención. No se considera vencimiento anticipado el hecho de que el beneficiario cubra el total de su adeudo antes del plazo que le haya sido concedido para tal efecto;
+
+c).- El acuerdo de exención queda sin efecto de pleno derecho en el momento en que el derechohabiente realice cualquiera de los actos de vencimiento anticipado, haciéndose exigible el crédito fiscal y sus accesorios por concepto de este impuesto desde la fecha en que se haya dado la circunstancia que motivó la cancelación de la exención;
+
+d).- La exención solo comprende el inmueble hasta el valor de cien mil pesos. En caso de inmuebles de mayor valor, el impuesto se causará sobre el excedente de dicha cantidad;
 
 VI.- Los predios pertenecientes a instituciones descentralizadas del Gobierno Federal, del Estado y de los Municipios, si están exceptuadas del pago de este impuesto por ley especial;
 
@@ -1159,7 +1185,17 @@ VIII.- Los Predios en que se establezcan industrias nuevas o necesarias gozarán
 
 IX.- Los predios construidos o en que se construyan habitaciones tipo vivienda popular, en la forma y términos de las disposiciones legales respectivas;
 
-X.- Los terrenos destinados a cementerios, exclusivamente por la parte que ya hubiere sido afectada para ese fin.
+X.- Los terrenos destinados a cementerios, exclusivamente por la parte que ya hubiere sido afectada para ese fin;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 1974)</small>
+
+XI.- Los predios y edificios se destinan exclusivamente a fines deportivos, si se demuestra lo siguiente:
+
+1o.- Que los propietarios de los predios o fincas cedieron el uso de éstos a título gratuito.
+
+2o.- Que los usuarios no persigan fines de lucro.
+
+3o.- Que los ingresos que obtengan se destinen exclusivamente al mantenimiento de dichos predios y edificios.
 
 106.- Las exenciones se solicitarán por escrito a la Tesorería General del Estado, debiéndose acompañar todas las pruebas que demuestren su procedencia o, en su caso, ofrecer dichas pruebas.
 
@@ -1177,9 +1213,13 @@ La vigencia de las exenciones que se concedan de acuerdo con lo dispuesto por es
 
 #### SECCION QUINTA. AVALUOS
 
-111.- La valuación catastral de los predios será practicada en la forma y los términos que señale este Capítulo y los Reglamentos e instructivos correspondientes.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
-En los casos de reavalúos a que se refiere la Sección de Catastro, el nuevo valor entrará en vigor a partir del bimestre siguiente a la fecha del traslado del dominio, de la terminación de nuevas construcciones, de las ampliaciones de las construcciones ya existentes o de la notificación del avalúo en los demás casos, con excepción de lo relativo a avalúos provisionales.
+111.- La valuación catastral de los predios será practicada en la forma y término que señale este capítulo y los reglamentos e instructivos correspondientes. Este valor se fijará cada dos años, de acuerdo con los valores unitarios de tierra y de construcción que la propia Tesorería aprueba para regir en el ejercicio fiscal correspondiente.
+
+Para la actualización bienal de los valores catastrales de predios ya valuados, que no hayan sufrido modificación, no se requerirá valuación de los peritos valuadores de la Tesorería, pues bastará fijar los nuevos valores unitarios que menciona el párrafo anterior.
+
+En los casos de reavalúos a que se refiere la Sección de Catastro, el nuevo valor entrará en vigor a partir del bimestre siguiente a la fecha del traslado de dominio, de la terminación de nuevas construcciones, de las ampliaciones de las construcciones ya existentes o de la notificación del avalúo en los demás casos, con excepción de lo relativo a avalúos provisionales.
 
 ### CAPITULO IV. IMPUESTO SOBRE SUELDOS Y EMOLUMENTOS
 
@@ -1221,9 +1261,11 @@ I.- A retener el importe del impuesto que a cada uno corresponda. Cuando se trat
 
 Cuando el sujeto del impuesto perciba ingresos en dos o más empresas, avisará a todos los pagadores de tal circunstancia indicando el monto de las percepciones que de cada uno perciba, para que quien pague mayor cantidad retenga el importe total del impuesto. A falta del aviso anterior, todos retendrán el gravamen correspondiente al pago que hagan. También comunicará a los demás patrones el nombre de quien va a hacer la retención, para que los restantes se abstengan de efectuarla.
 
-II.- A enterar dentro de los días 1o. al 20 de cada mes en las oficinas recaudadores el impuesto retenido, conforme a los sueldos, salarios y remuneraciones diversas cubiertas el mes anterior, empleando para ello las formas oficiales. Dentro de los cuatro meses siguientes a la fecha en que termine el ejercicio fiscal del retenedor, deberán exhibir una copia de la declaración anual presentada para el pago del Impuesto Federal sobre la Renta, productos del trabajo.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
-Previa autorización de la Tesorería General, tratándose exclusivamente de sociedades que operen con sucursales, el entero del impuesto de todos los causantes que presten servicios a la sociedad podrá llevarse a cabo en la Recaudación de Rentas que corresponda al domicilio de la matriz o a la que para el efecto se señale.
+II.- A enterar dentro de los días 1o. al 20 de cada mes en las Oficinas Recaudadoras el impuesto retenido, conforme a los sueldos, salarios y remuneraciones diversas cubiertas el mes anterior, empleando para ello las formas oficiales. Deberán además presentar dentro de los días 1o. al 20 del mes siguiente al bimestre que corresponda, copia fotoeléctrica de la declaración que tienen la obligación de presentar al Seguro Social para el entero de las cuotas obrero patronales.
+
+Previa autorización de la Tesorería General, tratándose exclusivamente de sociedades que operen con sucursales, el entero del impuesto de todos los causantes que presten servicios a la sociedad podrá llevarse a cabo en la Recaudación de Rentas que corresponda al domicilio de la matriz o la que para el efecto se señale.
 
 III.- A extender a los causantes una constancia de las sumas que les hayan retenido por este concepto.
 
@@ -1395,41 +1437,9 @@ e).- La fecha de iniciación de la vigencia de la exención y la fecha de su ter
 
 Los predios registrados en el Padrón de Exenciones también se registrarán en los otros padrones.
 
-114.- Son organismos auxiliares de la Tesorería General del Estado para efectos catastrales:
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
-I.- Las Juntas Regionales de Catastro que operan en cada Recaudación de Rentas, que estarán integradas en la siguiente forma:
-
-a).- Por el Recaudador de Rentas de la jurisdicción correspondiente, quien presidirá la Junta y tendrá voto de calidad;
-
-b).- Por el Tesorero del Ayuntamiento del Municipio en que se integre y tenga asiento la junta;
-
-c).- Por un experto en Ingeniería, designado por el Gobernador del Estado;
-
-d).- Por dos representantes de los causantes que radiquen en la jurisdicción rentística, que serán nombrados por el Ejecutivo del Estado de las listas propuestas por las Ligas o Uniones de propietarios. Un representante lo será por los predios urbanos y otro por los rústicos, debiendo designarse en la misma forma un suplente por cada uno de ellos.
-
-II.- La Junta Central de Catastro, que tendrá su asiento en la Capital del Estado y estará integrada por ocho miembros; cuatro de ellos tendrán el carácter de representantes oficiales y los restantes de representantes de los causantes.
-
-Los Representantes Oficiales serán:
-
-a).- Un representante del Gobernador del Estado que fungirá como Presidente de la Junta y tendrá voto de calidad;
-
-b).- Un Ingeniero Civil o un Arquitecto, designado por el Gobernador del Estado;
-
-c).- Un Agrónomo designado por el Gobernador del Estado;
-
-d).- Un representante del Tesorero General del Estado.
-
-Los representantes de los causantes serán:
-
-a).- Un representante de los propietarios y poseedores;
-
-b).- Un representante de las organizaciones ganaderas;
-
-c).- Un representante de las organizaciones de agricultores;
-
-d).- Un representante de las Cámaras de Industria y Comercio.
-
-Los representantes de los sectores particulares serán designados por las organizaciones respectivas, previa convocatoria que se publique en el Periódico Oficial y en un periódico de amplia circulación en la Capital del Estado, con quince días de anticipación a la fecha en que se designarán los integrantes. Estos permanecerán en su cargo tres años. Si las organizaciones no hicieren el nombramiento, lo hará el Gobernador del Estado discrecionalmente.
+114.- No obstante lo dispuesto por el Artículo 111 la Tesorería General del Estado, para llevar a cabo la valuación catastral, podrá oír a los particulares afectados y a las uniones de propietarios.
 
 115.- En materia catastral se considera:
 
@@ -1453,7 +1463,9 @@ VI.- Predio urbano, el que se encuentra ubicado dentro del Fundo Legal o estando
 
 VII.- Predio rústico, el que no sea urbano;
 
-VIII.- Valor catastral, el que acepta provisionalmente la Tesorería General del Estado, basándose en la declaración que haga el causante; el que fije a cada predio el Dirección de Catastro en los términos de este capítulo; el que determinen en los casos de inconformidad las Juntas Regionales de Catastro y la Junta Central de Catastro. En todo caso el valor catastral deberá aproximarse, lo más posible, al valor comercial que tenga el predio en la fecha de su avalúo.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
+VIII.- Valor catastral, el que acepta provisionalmente la Tesorería General del Estado, basándose en la declaración que haga el causante; el que fije a cada predio el Departamento del Catastro en los términos de este capítulo. En todo caso el valor catastral deberá aproximarse, lo más posible, al valor comercial que tenga el predio en la fecha de su avalúo.
 
 116.- Los Ayuntamientos deberán remitir a la Oficina de Catastro de la Tesorería General del Estado, aviso de la iniciación y terminación de las obras de urbanización de los fraccionamientos que hubieran aprobado, a efecto de:
 
@@ -1511,7 +1523,17 @@ I.- TERRENOS DE RIEGO POR GRAVEDAD.
 
 PRIMERA CLASE.- Aquéllos que cuenten con agua normalmente segura en todo el año, suelos profundos y fértiles, sensiblemente planos, o aquellos otros que no reuniendo estas características se adapten de manera especial para el establecimiento de un determinado cultivo.
 
-SEGUNDA CLASE.- Cuando el riego sea eventual, o los suelos sensiblemente pobres, en los casos de topografía accidentada y de suelos afectados por sales nocivas.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
+SEGUNDA CLASE.- Cuando el riego sea eventual, o los suelos sensiblemente pobres, en los casos de topografía accidentada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 1974)</small>
+
+TERCERA CLASE.- Con las mismas características de la segunda pero que se encuentren afectados por sales nocivas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 1974)</small>
+
+CUARTA CLASE.- Aquellos que estando ubicados en sistemas de riego estén sensiblemente afectados por sales nocivas y para hacerlos producir les sean efectuados necesariamente trabajos especiales.
 
 II.- TERRENOS DE RIEGO POR BOMBEO.- Se clasificarán y valorizarán en relación a la profundidad de extracción de agua.
 
@@ -1585,7 +1607,9 @@ Siempre estarán obligados a mostrar a las autoridades fiscales los datos, libro
 
 124.- Los predios a los cuales ya se hubiese fijado un valor catastral, podrán ser revaluados en los siguientes casos:
 
-I.- Cuando el avalúo anterior del predio tenga una antigüedad de más de 5 años;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
+I.- Cuando el avalúo anterior del predio tenga una antigüedad de más de 2 años;
 
 II.- Cuando en el predio se hagan construcciones, reconstrucciones o ampliaciones de las construcciones ya existentes;
 
@@ -1595,7 +1619,11 @@ IV.- Cuando sea cancelada la exención de que se disfrute;
 
 V.- Cuando se tengan los elementos de catastración técnica necesarios y el avalúo existente haya sido dado con carácter provisional;
 
-VI.- Cuando en las fincas urbanas en construcción o reedificación, haya transcurrido un año de la iniciación de la construcción o reedificación sin haberse terminado, se calificarán en el estado en que se encuentren.
+VI.- Cuando en las fincas urbanas en construcción o reedificación, haya transcurrido un año de la iniciación de la construcción o reedificación sin haberse terminado, se calificarán en el estado en que se encuentren;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 1974)</small>
+
+VII.- Cuando el predio aumente de valor con motivo de algún fraccionamiento próximo que se construya, o alguna obra urbanística que incremente significativamente su valor, aunque el avalúo vigente tenga una antigüedad menor a 2 años.
 
 125.- Al practicarse las valuaciones catastrales, los comisionados deberán presentarse en día y hora hábiles en el predio que deba ser objeto de la valuación y mostrarán a los ocupantes tanto la orden correspondiente como su credencial de identificación.
 
@@ -1605,13 +1633,9 @@ Si los ocupantes se opusieran en cualquier forma a ese trabajo, el valuador info
 
 Tales modificaciones deberán ajustarse al procedimiento establecido por este capítulo y los instructivos correspondientes.
 
-127.- Contra las resoluciones dictadas por la Tesorería General del Estado, al fijar las clasificaciones y calificaciones de los predios, procederá el recurso de inconformidad en los siguientes términos:
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
-I.- La persona afectada después de haber sido notificada deberá interponer el recurso dentro del término de quince días hábiles contados a partir del día siguiente a aquél en que se haya realizado la notificación.
-
-II.- La promoción se interpondrá por escrito e irá dirigida al Presidente de la Junta Central de Catastro, expresando el nombre del recurrente, número de cuenta y domicilio, así como los puntos concretos de hecho y derecho en que se funde su instancia. La Junta Central de Catastro procederá a conocer del asunto con los documentos e informes que reporte el expediente respectivo y otros que pueda allegarse.
-
-III.- La Junta Central de Catastro dictará resolución en un plazo de sesenta días, la cual será definitiva para los efectos de este recurso.
+127.- Contra las resoluciones dictadas por la Tesorería del Estado, al fijar las clasificaciones y calificaciones de los predios, procederá el recurso de revisión.
 
 128.- Las autoridades judiciales del Estado están obligadas a dar aviso a la Tesorería General, de todas las resoluciones que causen ejecutoria en las que se traslade el dominio de bienes inmuebles, dentro de los quince días siguientes a la fecha de la resolución respectiva.
 
@@ -1679,7 +1703,21 @@ V.- El fideicomitente en los casos de los párrafos segundo y tercero del artíc
 
 VI.- El cesionario de los derechos hereditarios en los casos de la fracción V del artículo anterior.
 
-135.- El Impuesto sobre Traslación de Dominio de bienes Inmuebles se causará a razón del 1% sobre el valor gravable determinado en los artículos 136 y 137.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
+135.- El impuesto sobre Traslación de Dominio de Bienes Inmuebles se causará sobre el valor gravable determinado de conformidad con los artículos 136 y 137 conforme a la siguiente
+
+TARIFA:
+
+Hasta $100,000.00 1%
+
+De $100,000.01 a $250,000.00 1.5%
+
+De $250,000.01 a $500,000.00 2%
+
+Más de $500,000.00 3%
+
+Tratándose de adquisiciones en virtud de la prescripción, se causará el impuesto con la tasa del 10%, cualquiera que sea el valor gravable.
 
 136.- Será base gravable del Impuesto:
 
@@ -1901,11 +1939,11 @@ Si los causantes no cumplen con los requisitos que establece el párrafo anterio
 
 184.- Los causantes que obtengan ingresos provenientes de actividades gravadas por este Capítulo, podrán cubrir el impuesto a base de cuota fija bimestral siempre que sus ingresos brutos no sean superiores a $300.000.00 (Trescientos mil pesos, 00/100) anuales, en las condiciones y con las formalidades siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
-I.- Los causantes que opten por el pago del Impuesto a cuota fija, lo manifestarán por escrito a la Recaudación de Rentas de su jurisdicción para que ésta de acuerdo con ellos determine provisionalmente la cuota que les corresponda, la q e (sic) en ningún caso podrá ser inferior a $100.00 (Cien pesos, 00/100) bimestrales si se trata de sujetos cuya actividad exija título para su ejercicio, y de $30.00 (Treinta pesos, 00/100) en los demás casos. Al fijarse la cuota se aplicará la tarifa establecida en el artículo 177.
+I.- Los causantes que opten por el pago del impuesto a cuota fija, lo manifestarán por escrito a la Recaudación de Rentas de su jurisdicción, para que ésta de acuerdo con ellos determine provisionalmente la cuota que les corresponda, la que en ningún caso podrá ser inferior a $200.00 (Doscientos Pesos, 00/100 M.N.) bimestrales, si se trata de sujetos cuya actividad exija título para su ejercicio, y de $60.00 (Sesenta Pesos, 00/100 M.N.) en los demás casos. Al fijarse la cuota se aplicará la tarifa establecida en el Artículo 177.
 
-Sólo podrán proponerse los convenios a que se refiere este artículo, después de seis meses siguientes a la fecha de empadronamiento.
+Sólo podrán proporcionarse los convenios a que se refiere este artículo, después de seis meses siguientes a la fecha de empadronamiento.
 
 II.- Las Recaudaciones de Rentas someterán los convenios a la aprobación definitiva de la Tesorería General del Estado, anotando los ingresos mensuales que los causantes interesados hayan venido manifestando y la cuota que se les haya asignado.
 
@@ -2507,7 +2545,9 @@ IV.- Las personas que adquieran empresas ganaderas respecto de las prestaciones 
 
 265.- El pago del impuesto deberá hacerse en la fecha en que se realice la operación gravada.
 
-266.- Los propietarios, administradores o encargados de las fábricas industrializadoras de la avena y las personas físicas o morales que comercien con este cereal, están obligados a retener el impuesto que establece este Capítulo, en todos aquellos casos en que los productores de avena no les comprueben, con los recibos oficiales que al efecto les expidan las Recaudaciones de Rentas, haber pagado el tributo.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
+266.- Los propietarios, administradores o encargados de las fábricas industrializadoras de la avena y las personas físicas o morales que comercien con este cereal, están obligados a retener el impuesto que establece este capítulo, en todos aquellos casos en que los productores de avena no les comprueben, con los recibos oficiales que al efecto les expidan las Recaudaciones de Rentas, haber pagado el tributo. En caso de que acrediten tal extremo, el adquiriente deberá recabar y conservar en su poder el recibo que se le expidió al propietario al momento de efectuar el pago.
 
 #### SECCION PRIMERA. OBJETO, SUJETO Y BASE
 
@@ -2541,7 +2581,9 @@ I.- A empadronarse y a retener el impuesto al causarse éste en los términos de
 
 II.- A colocar en cada paca, una placa oficial de las que previamente les proporcionarán las Recaudaciones de Rentas para identificación de las pacas y control del impuesto;
 
-III.- A entregar cada quince días en la Recaudación de Rentas de su jurisdicción, el impuesto total cobrado, de acuerdo con las liquidaciones que por el mismo período formulen en las formas oficiales que proporcionará la misma Oficina Recaudadora.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
+III.- A entregar los días 15 y último de cada mes en la Recaudación de Rentas de su jurisdicción, el impuesto total cobrado, de acuerdo con las liquidaciones que por el mismo período presenten en las formas oficiales que proporcionará la misma Oficina Recaudadora;
 
 IV.- A no permitir la salida del algodón y su semilla de sus locales o almacenes, si no está debidamente pagado el impuesto;
 
@@ -3095,153 +3137,15 @@ VI.- 20% sobre las participaciones que al Estado correspondan en los impuestos a
 
 VII.- 20% sobre las participaciones que al Estado correspondan en el Impuesto al Ingreso Global de las Empresas, Causantes Menores.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
-VIII.- 20 % sobre los ingresos de los restantes impuestos estatales.
+VIII.- 40% sobre las participaciones que al Estado corresponden en los Impuestos Federales sobre Reventa de Aceites y Grasas Lubricantes y Automóviles y Camiones Ensamblados.
 
-La Participación total a que se refieren las fracciones V, VI, VII y VIII, se distribuirá entre los Municipios de conformidad con los estudios económicos elaborados atendiendo a los siguientes elementos: número de habitantes, importe de su presupuesto de egresos, gasto público municipal por habitante y otras consideraciones. En consecuencia los porcentajes de participación del producto total serán los siguientes:
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
-Ahumada 0.7%
+IX.- 20% sobre los ingresos de los restantes impuestos estatales.
 
-Aldama 0.9%
-
-Allende Valle de 1.4%
-
-Aquiles Serdán 0.6%
-
-Ascensión 0.6%
-
-Bachíniva 1.0%
-
-Balleza 1.6%
-
-Batopilas 1.2%
-
-Belisario Domínguez 1.0%
-
-Bocoyna 2.0%
-
-Buenaventura 1.8%
-
-Camargo 2.3%
-
-Carichic 1.2%
-
-Casa Grandes 0.7%
-
-Coronado 0.7%
-
-Coyame 0.6%
-
-Cuauhtémoc 3.3%
-
-Cusihuiriáchic 1.2%
-
-Chihuahua 5.0%
-
-Chínipas 1.0%
-
-Delicias 3.3%
-
-Praxedis G. Guerrero 1.0%
-
-Galeana 0.6%
-
-General Trías 1.0%
-
-Gómez Farías 1,2%
-
-Gran Morelos 0.9%
-
-Guachochi 2.0%
-
-Guadalupe, D. B. 1.2%
-
-Guadalupe y Calvo 3.6%
-
-Guerrero 4.0%
-
-H. del Parral 3.3%
-
-Ignacio Zaragoza 1.4%
-
-Janos 0.6%
-
-Jiménez 1.8%
-
-Juárez 5.0%
-
-Julimes 0.9%
-
-La Cruz 0.7%
-
-López Villa 0.9%
-
-Madera 3.8%
-
-Maguarichic 0.7%
-
-Manuel Benavides 1.0%
-
-Matachic 0.9%
-
-Matamoros Villa 0.9%
-
-Meoqui 1.7%
-
-Morelos 1.0%
-
-Moris 0.6%
-
-Maniquipa 3.6%
-
-Nonoava 0.6%
-
-Nuevo Casas Grandes 1.9%
-
-Ocampo 0.9%
-
-Ojinaga 1.6%
-
-Riva Palacio 1.6%
-
-Rosales 1.4%
-
-Rosario Valle de 0.9%
-
-San Francisco de Borja 1.0%
-
-San Francisco del Oro 0.9%
-
-Santa Bárbara 1.3%
-
-Satevó 0.7%
-
-Saucillo 3.6%
-
-Temósachic 0.6%
-
-Urique 1.6%
-
-Uruachi 1.0%
-
-Zaragoza Valle de 0.9%
-
-Huejotitán 0.7%
-
-Guazapares 1.0%
-
-El Tule 0.7%
-
-San Francisco de Conchos 0.7%
-
-Del importe de la participación a que se contrae esta fracción, se destinará por lo menos el 50% a obras públicas. El Municipio que no lo hiciere perderá la participación en beneficio de aquellos que cumplan este requisito. La Tesorería General del Estado vigilará el estricto cumplimiento de esta disposición.
-
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1974)</small>
-
-IX.- 40% sobre las participaciones que al Estado corresponden en los Impuestos Federales sobre Reventa de Aceites y Grasas Lubricantes y Automóviles y Camiones Ensamblados.
-
-La participación total a que se refieren las fracciones V, VI, VII, VIII, IX, se distribuirá entre los Municipios de conformidad con los estudios económicos elaborados atendiendo a los siguientes elementos: Número de habitantes, importe de su presupuesto de egresos, gasto público municipal por habitante y otras consideraciones. En consecuencia los porcentajes de participación del producto total serán los siguientes:
+La participación total a que se refieren las fracciones V, VI, VII, VIII y IX, se distribuirá entre los Municipios de conformidad con los estudios económicos elaborados atendiendo a los siguientes elementos: Número de habitantes, importe de su presupuesto de egresos, gasto público municipal por habitante y otras consideraciones. En consecuencia, los porcentajes de participación del producto total serán los siguientes:
 
 Ahumada 0.7%
 
@@ -3349,7 +3253,7 @@ Riva Palacio 1.6%
 
 Rosales 1.4%
 
-Rosario Valle de 0.9%
+Rosario Valle del 0.9%
 
 San Francisco de Borja 1.0%
 
@@ -3377,11 +3281,11 @@ El Tule 0.7%
 
 San Francisco de Conchos 0.7%
 
-Del importe de la participación a que se contrae esta fracción, se destinará por lo menos el 50% a obras públicas. El Municipio que no lo hiciere perderá la participación en beneficio de aquellos que cumplan este requisito. La Tesorería General del Estado vigilará el estricto cumplimiento de esta disposición.
+Del importe de la participación a que se contrae esta fracción, se destinará por lo menos el 50% a obras públicas. El Municipio que no lo hiciere perderá la participación en beneficio de aquéllos que cumplan este requisito. La Tesorería General del Estado vigilará el estricto cumplimiento de esta disposición.
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 1974)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
-X.- También participarán los Municipios productores o consumidores en los ingresos que en calidad de participaciones señalen las leyes federales al Estado, sobre los impuestos que obtenga la Federación en esta Entidad Federativa, en materia de: consumo de cerveza, caza y similares, pesca y buceo, producción de metales y minerales no metálicos, consumo y producción de cemento, explotación forestal, venta y arrendamiento de bosques y terrenos nacionales, energía eléctrica y otros tributos que correspondan a su esfera impositiva y en las que sean partícipes los Municipios. La Secretaría de Hacienda y Crédito Público cubrirá directamente a los Municipios las participaciones que les correspondan de conformidad con las Leyes federales que normen estas percepciones.
+X.- También participarán los Municipios productores o consumidores en los ingresos que en calidad de participaciones señalen las leyes federales al Estado, sobre los impuestos que obtenga a (sic) Federación en esta Entidad Federativa, en materia de: consumo de cerveza, caza y similares, pesca y buceo, producción de metales y minerales no metálicos, consumo y producción de cemento, explotación forestal, venta y arrendamiento de bosques y terrenos nacionales, energía eléctrica y otros tributos que correspondan a su esfera impositiva y en las que sean partícipes los Municipios. La Secretaría de Hacienda y Crédito Público cubrirá directamente a los Municipios las participaciones que les correspondan de conformidad con las leyes federales que normen estas percepciones.
 
 317.- Con el objeto de evitar la duplicidad de los impuestos, los municipios no podrán gravar ninguna fuente de riqueza ni actividad comercial o industrial de las contenidas en este Código con la única excepción del impuesto llamado de Licencia Anual al Comercio y la Industria.
 
@@ -4500,3 +4404,7 @@ ARTICULO TRANSITORIO.- El presente decreto entrará en vigor en todo el Estado d
 P.O. 4 DE MAYO DE 1974.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1974.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado de Chihuahua el día primero de Enero de mil novecientos setenta y cinco.
