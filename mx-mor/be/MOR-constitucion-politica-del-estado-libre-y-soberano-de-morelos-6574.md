@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1970-03-11"
+last_updated: "1970-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 1970.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -594,9 +594,9 @@ Tampoco podrán hacerlas al Decreto de convocatoria que expida la Diputación Pe
 
 ### CAPITULO III.
 
-DE LA SECRETARIA GENERAL.
+DE LOS SECRETARIOS.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1970)</small>
 
 ###### Artículo 53.
 
@@ -632,7 +632,7 @@ B.- Cuando sea necesario para el cumplimiento de alguna ley general.
 
 C.- En los casos de falta absoluta del Gobernador, o cuando tenga que separase de sus funciones por más de dos meses.
 
-D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la de destitución del cargo.
+D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la destitución del cargo.
 
 E.- Cuando lo pida el Ejecutivo del Estado.
 
@@ -774,9 +774,9 @@ II.- Hacer observaciones a los proyectos de leyes o decretos que apruebe y le re
 
 III.- Pedir a la Diputación Permanente que convoque al Congreso a Sesiones extraordinarias, si la urgencia e importancia del asunto así lo requieren.
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1970)</small>
 
-IV.- Nombrar y remover libremente al Secretario de Gobierno y al Secretario de Finanzas y Promoción Económica y nombrar y remover a los demás trabajadores al servicio del Poder Ejecutivo, con arreglo a las leyes a que se refiere la fracción XIX del artículo 40.
+IV.- Nombrar y remover libremente a los Secretarios de Gobierno, Finanzas y Promoción Económica, así como a los demás trabajadores al servicio del Poder Ejecutivo, con arreglo a las leyes a que se refiere la fracción XIX del artículo 40 de la Constitución Política del Estado.
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -896,6 +896,8 @@ Cuando el interés público demande lo contrario, toca al Congreso del Estado la
 
 El Gobernador Provisional nombrado por el Senado en el caso del artículo 69 de esta Constitución, ejercerá las facultades, tendrá las atribuciones y quedará sujeto a las restricciones a que se refieren los tres artículos anteriores, en cuanto fueren aplicables e indispensables para la conservación del orden, la continuación de los servicios públicos, hasta donde lo permita la normalidad de la situación, y para restablecer el orden constitucional en el Estado.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 1970)</small>
+
 ### CAPITULO II.
 
 DEL TRIBUNAL SUPERIOR DE JUSTICIA.
@@ -904,27 +906,25 @@ DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 ###### Artículo 74.
 
-Para el despacho de los negocios encomendados al Ejecutivo, habrá un Secretario de Gobierno y un Secretario de Finanzas y Promoción Económica.
+Para el despacho de los negocios encomendados al Ejecutivo habrá un Secretario de Gobierno, un Secretario de Finanzas y un Secretario de Promoción Económica.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1970)</small>
 
 ###### Artículo 75.
 
-Para ser Secretario General de Gobierno se requiere:
+Para ser Secretario de Gobierno, de Finanzas y de Promoción Económica, se requiere:
 
-I.- Ser ciudadano Morelense por nacimiento.
+I.- Ser ciudadano Morelense por nacimiento o ciudadano Mexicano por nacimiento, debiendo en este último caso, tener un mínimo de cinco años de residencia en el Estado.
 
-II.- Ser mayor de 30 años de edad.
+II.- Ser mayor de 25 años de edad.
 
-III.- Tener la instrucción necesaria a juicio del Gobernador para el desempeño de su cargo.
+III.- Tener la preparación necesaria a juicio del Gobernador del Estado, para el desempeño de su cargo.
 
-El Secretario de Finanzas y Promoción Económica deberá tener los mismos requisitos, sin que sea necesario el comprendido en la fracción I.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1970)</small>
 
 ###### Artículo 76.
 
-Los decretos, reglamentos y acuerdos del Gobernador que se refieran a la Hacienda Pública o a la Promoción Económica del Estado, serán firmados por el Secretario de Finanzas y Promoción Económica. Todos los demás acuerdos, reglamentos y decretos del Gobernador, serán firmados únicamente por el Secretario de Gobierno.
+Los Decretos, Reglamentos y Acuerdos del Gobernador del Estado, que se refieran a la Hacienda Pública y a la Promoción Económica, deberán ser suscritos por los Secretarios de Finanzas y de Promoción Económica, respectivamente. Todos los demás Acuerdos, Reglamentos y Decretos del Gobernador del Estado, deberán ser suscritos solamente por el Secretario de Gobierno.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -974,31 +974,43 @@ VII.- Por los ingresos provenientes de empréstitos, y
 
 VIII.- Por los demás bienes e ingresos a que tenga derecho.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1970)</small>
 
 ###### Artículo 81.
 
-El encargado directo del manejo de la Hacienda Pública será el Secretario de Finanzas y Promoción Económica, quien tendrá las siguientes atribuciones:
+Los encargados directos de la planeación económica y del programa para obtener los ingresos y el manejo de la hacienda pública, serán:
 
-I.- La recaudación e inversión de los fondos públicos, su control y vigilancia.
+a).- El Secretario de Promoción Económica, tendrá las siguientes facultades:
 
-II.- La promoción económica.
+I.- Proyectar el fomento y desarrollo económico del Estado.
 
-III.- El catastro público.
+II.- Representar al Estado para que los capitales que le correspondan en organismos descentralizados y empresas de participación estatal, den mejores rendimientos.
 
-IV.- Las adquisiciones de todas clases.
+III.- Programar y coordinar las inversiones públicas de acuerdo con los planes de desarrollo establecidos.
 
-> <small>(F. DE E., P.O. 11 DE AGOSTO DE 1965)</small>
+IV.- Realizar la inversión de los fondos públicos.
 
-V.- Las que le otorguen la Ley que rige la organización administrativa del Estado y las leyes y decretos del Congreso, y
+V.- Vigilar la aplicación de los fondos públicos.
 
-VI.- Las demás que le señale el Gobernador.
+VI.- Las adquisiciones de todas clases.
 
-(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E., P.O. 11 DE AGOSTO DE 1965)
+VII.- La promoción económica en general.
+
+VIII.- Las demás que le asignen las leyes de la materia y las que le señale el Gobernador.
+
+b).- El Secretario de Finanzas tendrá las siguientes atribuciones:
+
+I.- La recaudación de los fondos públicos, su control y vigilancia.
+
+II.- Las que le otorgue la Ley General de Hacienda, las Leyes Especiales de Impuestos y Contribuciones, la Ley de Ingresos para cada año, la Ley de lo Contencioso Administrativo cuando tenga aplicación en materia hacendaria, los reglamentos, circulares y demás disposiciones derivadas y conexas, así como la Legislación Presupuestaria.
+
+III.- Las demás que le señale el Gobernador.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1970)</small>
 
 ###### Artículo 82.
 
-El pago de los sueldos señalados en el Presupuesto, se hará con estricta equidad a todos los funcionarios y servidores del Estado. Es caso de responsabilidad para el Secretario de Finanzas y Promoción Económica, cualquiera infracción a este precepto.
+El pago de los sueldos señalados en el presupuesto, se hará con equidad a todos los funcionarios y servidores del Estado. Es caso de responsabilidad para el Secretario de Finanzas, cualquier infracción a este Artículo.
 
 ###### Artículo 83.
 
@@ -1625,3 +1637,9 @@ P.O. 11 DE MARZO DE 1970.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Remítase el presente Decreto al Ejecutivo del Estado, para los efectos a que se contrae la Fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 27 DE MAYO DE 1970.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Remítase al Poder Ejecutivo de la Entidad, para los efectos de la Fracción XVII del Artículo 70 de la Constitución Política Local.
