@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-coordinacion-de-seguridad-publica-en-el-estado-de-14881"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-30"
-last_updated: "1999-05-30"
+last_updated: "1999-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE COORDINACION DE SEGURIDAD PUBLICA EN EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 30 de mayo de 1999.
 
@@ -589,6 +589,36 @@ La comunidad urbana y rural, y la sociedad en general, a través de los Comités
 
 Para la integración de los Comités, los Consejos Municipales de Coordinación de Seguridad Pública, convocarán a los sectores sociales de la comunidad, llamando a las personas más representativas a colaborar en el programa de seguridad pública.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 1999)</small>
+
+## TITULO QUINTO. DEL PADRÓN DE PROPIETARIOS Y POSEEDORES
+
+DE VEHÍCULOS AUTOMOTORES DE PROCEDENCIA EXTRANJERA
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 70.
+
+Con el objetivo de construir un banco de información e identificación, la Procuraduría General de Justicia del Estado creará y actualizará periódicamente el Padrón de Propietarios y Poseedores de Vehículos Automotores de Procedencia Extranjera que circulan en el Estado de Durango, cuya internación y estancia no se acredite en los términos de la legislación vigente aplicable.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 71.
+
+La inscripción en el Padrón es obligatoria para todas las personas que sean propietarios o poseedores de vehículos de procedencia extranjera a que se refiere el artículo anterior; para la selección de la marca, modelo o destino, se estará a lo dispuesto en el Reglamento que para tal efecto emita el Ejecutivo del Estado a través de la Secretaría de Finanzas y de Administración. En el caso de las personas que transmitan la propiedad o la posesión de vehículos registrados en el Padrón, estarán obligados a notificarlo inmediatamente a la Procuraduría, para efecto de la actualización del Padrón, aportando los datos correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 72.
+
+Para la inscripción en el padrón de uno o más vehículos, el propietario o poseedor deberá presentar los documentos que la Procuraduría considere necesarios para tal efecto. La presentación de estos documentos, tendrá el único objetivo de acreditar y comprobar la información que se incluirá en el Padrón.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 73.
+
+La información que conformará el Padrón, será la que establezca el Reglamento respectivo, debiendo contener por lo menos, el nombre, edad, domicilio, ocupación, número telefónico y el carácter de propietario o poseedor; y la marca, tipo, modelo, número de motor, número de serie, color exterior, lugar de procedencia y número de placa extranjera de cada vehículo.
+
 TRANSITORIOS:
 
 PRIMERO.- Esta Ley entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
@@ -610,3 +640,15 @@ POR TANTO MANDO SE IMPRIMA PUBLIQUE, CIRCULE Y COMUNIQUESE A QUIENES CORRESPONDA
 DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS DOCE DÍAS DEL MES DE MAYO DEL AÑO DE MIL NOVECIENTOS NOVENTA Y NUEVE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE DICIEMBRE DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto es temporal y su vigencia será hasta que el H. Congreso de la Unión resuelva la Iniciativa de Decreto relativa a la regularización de vehículos automotores de procedencia extranjera cuya estancia en el país es irregular.
+
+TERCERO.- El Ejecutivo Estatal, dentro del término de diez días contados a partir de que entre en vigor el presente Decreto, expedirá el Reglamento respectivo al Título Quinto de la Ley de Coordinación de Seguridad Pública en el Estado de Durango, para proveer su exacto cumplimiento.
+
+CUARTO.- Los propietarios o poseedores de vehículos automotores de procedencia extranjera a que se refiere el presente Decreto, deberán inscribirse en el Padrón, dentro del término de seis meses contados a partir de la fecha en que entre en vigor el Reglamento respectivo al Título Quinto de la citada ley.
