@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-panteones-para-el-municipio-de-san-nicolas-de-254
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-06"
-last_updated: "1996-09-06"
+last_updated: "2002-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PANTEONES PARA EL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el vieres 6 de septiembre de 1996.
 
@@ -41,9 +41,11 @@ El presente Reglamento es de orden público y observancia general en el Municipi
 
 La prestación del servicio público de panteones comprende actos de inhumación, exhumación, reinhumación y cremación de cadáveres y restos humanos.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 3.
 
-La aplicación y vigilancia de las disposiciones del presente Reglamento corresponden al Presidente Municipal, quien las ejercerá a través de la Dirección de Panteones o dependencia que él designe.
+La aplicación y vigilancia de las disposiciones del presente Reglamento corresponden al Presidente Municipal, quien las ejercerá a través de la Dirección de Organismos Municipales o dependencia que él designe.
 
 ###### ARTICULO 4.
 
@@ -187,19 +189,21 @@ V.- Fijar anualmente las tarifas que deberán cobrarse por los servicios de inhu
 
 Cuando exista la ocupación total de las áreas destinadas a inhumaciones en los panteones municipales, la Administración Municipal elaborará censo actualizado de la ocupación de tumbas, para conocer su estado de abandono y, en su caso, proceder conforme a lo dispuesto en los Artículos 28 y 29 de este Reglamento.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 17.
 
 Son obligaciones de los concesionarios las siguientes:
 
 I.- Tener a disposición de la Autoridad Municipal competente plano aprobado del panteón, en donde aparezcan definidas las áreas a que se refiere el artículo 9.
 
-II.- Llevar libro de registro autorizado por la Dirección de Panteones Municipal competente de inhumaciones en el cual se anotará: nombre, edad, nacionalidad, sexo y domicilio de la persona fallecida, causa que determinó su muerte, la Oficialía del Registro Civil que expidió el acta correspondiente, asentando su número y la ubicación del lote o fosa que ocupa.
+II.- Llevar libro de registro autorizado por la Dirección de Organismos Municipales competente de inhumaciones en el cual se anotará: nombre, edad, nacionalidad, sexo y domicilio de la persona fallecida, causa que determinó su muerte, la Oficialía del Registro Civil que expidió el acta correspondiente, asentando su número y la ubicación del lote o fosa que ocupa.
 
-III.- Llevar libro de registro autorizado por la Dirección de Panteones Municipal competente de las transmisiones de propiedad o uso que se realicen respecto a los lotes de panteón, tanto por la Administración con particulares como particulares entre sí, debiendo inscribirse además las resoluciones de la Autoridad competente relativas a dichos lotes.
+III.- Llevar libro de registro autorizado por la Dirección de Organismos Municipales competente de las transmisiones de propiedad o uso que se realicen respecto a los lotes de panteón, tanto por la Administración con particulares como particulares entre sí, debiendo inscribirse además las resoluciones de la Autoridad competente relativas a dichos lotes.
 
-IV.- Llevar libro de registro de la Dirección de Panteones Municipal de exhumaciones, reinhumaciones, traslados y cremaciones.
+IV.- Llevar libro de registro de la Dirección de Organismos Municipales de exhumaciones, reinhumaciones, traslados y cremaciones.
 
-V.- Remitir dentro de los primeros cinco días de cada mes a la Dirección de Panteones Municipal; la relación de cadáveres y restos humanos áridos exhumados, cremados, inhumados correspondientes al mes anterior.
+V.- Remitir dentro de los primeros cinco días de cada mes a la Dirección de Organismos Municipales; la relación de cadáveres y restos humanos áridos exhumados, cremados, inhumados correspondientes al mes anterior.
 
 VI.- Mantener y conservar en condiciones higiénicas y de seguridad las instalaciones del panteón, manteniendo personal de vigilancia las 24 horas del día.
 
@@ -492,3 +496,9 @@ Presidente Municipal
 LIC. FCO. FELIX GARZA GZZ.
 
 Secretario del R. Ayuntamiento
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE JULIO DE 2002.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
