@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1931-09-17"
+last_updated: "1933-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1931.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 1933.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -287,31 +287,33 @@ DEL ESTADO Y SU FORMA DE GOBIERNO.
 
 El Congreso del Estado determinará por ley especial que llevará el nombre de "Ley de Municipios del Estado," los estatutos económicos y administrativos a que deben sujetarse los Municipios en su régimen interior, y los cuales podrá el mismo Congreso alterar o modificar cuando el bien de la administración pública general o de los mismos Municipios lo hiciere necesario. Tanto en la Ley de Municipios, como en sus alteraciones o modificaciones en su caso, se atenderá siempre a mantener la unidad de gobierno, que necesariamente exige la Administración Pública General del Estado, en relación con el grado de libertad interior administrativa que les señala la Constitución Federal de la República. En consecuencia, los Municipios, sin infringir las leyes federales o del Estado, y sin excederse de sus presupuestos respectivos, tienen derecho de atender libremente, de la manera que juzguen más eficaz, todos los ramos de la Administración Pública interior de los mismos Municipios.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1923)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
 
 ###### Artículo 41.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermediaria entre éste y el Gobierno del Estado, que será su superior gerárquico (sic).
+Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Ejecutivo del Estado, que será su superior jerárquico.
 
-Para ser Munícipe se requiere ser ciudadano mexicano en ejercicio de sus derechos; saber leer y escribir y tener residencia efectiva dentro del Territorio del correspondiente Municipio, inmediata al día de la elección cuando menos de dos años si no es nativo del Estado.
+Para ser Munícipe se requiere ser ciudadano mexicano en ejercicio de sus derechos; saber leer y escribir y tener residencia efectiva dentro del territorio del correspondiente Municipio, inmediata al día de la elección, cuando menos de dos años si no es nativo del Estado.
 
 No podrán ser electos:
 
-I.- Los Ministros de culto alguno.
+I.- Los ministros de culto alguno.
 
-II.- Los que hayan sido condenados por cualquier delito, excepto los de culpa, a más de un año de prisión: pero si se hubieren sido condenados por robo, fraude, falsificación, abuso de confianza y en general cualquiero (sic) otro delito que lastime seriamente la buena fama en el cocepto (sic) público, quedarán inhabilitados para el cargo, cualquiera que haya sido la pena.
+II.- Los que hayan sido condenados por cualquier delito, excepto los de culpa, a más de un año de prisión; pero si hubieren sido condenados por robo, fraude, falsificación, abuso de confianza y en general cualquier otro delito que lastime seriamente la buena fama en el concepto público, quedarán inhabilitados para el cargo, cualquiera que haya sido la pena.
 
-III.- Los Regidores propietarios, y los suplentes en funciones dentro de los seis meses anteriores al día de la eleccién (sic).
+III.- Los funcionarios y los empleados públicos del Estado, del Municipio o de la Federación, si no se separan de sus cargos, cuando menos tres meses antes del día de la elección.
 
-IV.- Los funcionarios y los empleados públicos del Estado, del Municipio o de la Federación, si no se separan de sus cargos cuando menos tres meses antes del día de la elección.
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos popularmente, no podrán ser reelectos para el período inmediato. Los miembros de la Junta Provisional de que habla el artículo 49 de esta Constitución, no podrán ser electos para el período inmediato. Todos los funcionarios municipales antes mencionados, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato con el carácter de propietarios, a menos que hayan estado en ejercicio.
 
 ###### Artículo 42.
 
 Los Ayuntamientos tienen personalidad jurídica para todos los efectos legales.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
+
 ###### Artículo 43.
 
-Los Ayuntamientos se renovarán cada año en los términos que disponga la ley.
+Los Ayuntamientos se renovarán totalmente cada dos años, en los términos que disponga la ley.
 
 ###### Artículo 44.
 
@@ -567,7 +569,15 @@ IX. Velar sobre la observancia de esta Constitución dando cuanta (sic) a la Leg
 
 ###### Artículo 70.
 
-El Ejercicio del Poder Ejecutivo se depostará (sic) en una sola persona, que se denominará Gobernador del Estado, siendo su duración de cuatro años, sin poder ser reelecto. El Gobernador entrará a ejercer sus funciones el 16 de septiembre.
+El Ejercicio del Poder Ejecutivo se depositará en una sola persona que se denominará Gobernador del Estado, siendo su duración de cuatro años, y en ningún caso y por ningún motivo podrá volver a ocupar ese cargo ni aun con el carácter de interino, Provisional, Substituto o Encargado del Despacho. El Gobernador entrará a ejercer sus funciones el 16 de septiembre.
+
+Nunca podrá ser electo para el período inmediato:
+
+a). El Gobernador Substituto Constitucional designado para concluir el período en caso de falta absoluta del Constitucional, en el caso del artículo 80 de esta Constitución.
+
+b). El Gobernador Provisional en los casos de los artículos 72 y 74 de esta Constitución.
+
+c). El Gobernador Interino, siempre que desempeñe el cargo en los dos últimos años del período.
 
 ###### Artículo 71.
 
@@ -649,7 +659,9 @@ VIII.- Hacer observaciones dentro del término de diez días a las leyes que exp
 
 IX - Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones.
 
-X.- Presentar al día siguiente del primer periodo de sesiones, una memoria del estado de la administración pública.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1933)</small>
+
+X.- Presentar el mismo día de la apertura del primer período de sesiones del Congreso, una memoria del estado de la Administración Pública.
 
 XI.- Convocar a la Legislatura a sesiones extraordinarias, por sí y cuando lo acordare la Diputación permanente.
 
@@ -713,9 +725,11 @@ II. Los Defensores de Oficio.
 
 III. Los peritos Médicos Legistas y demás que sean necesarios.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
+
 ###### Artículo 86.
 
-El Supremo Tribunal de Justicia del Estado se compondrá de seis Magistrados Propietarios y seis Supernumerarios, quienes cubrirán las faltas temporales de los Propietarios o temporalmente las faltas absolutas de éstos, entrando en el orden numérico en que hayan sido electos.
+El Supremo Tribunal de Justicia del Estado se compondrá de tres Magistrados propietarios y seis supernumerarios con quienes se cubrirán las faltas temporales de los propietarios o temporalmente las faltas absolutas de éstos, entrando en el orden numérico en que hayan sido electos.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
 
@@ -939,6 +953,8 @@ En ningún caso perderá esta Constitución su fuerza y vigor; y siempre que hub
 
 DEL PODER EJECUTIVO.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
+
 ## TITULO VII.
 
 DEL PODER JUDICIAL.
@@ -1108,3 +1124,13 @@ En las elecciones que se efectúen en el año de 1934, para la integración de l
 ###### Artículo 3o.
 
 La instalación de la XXXV Legislatura se efectuará el día 1o. de septiembre de 1932, y por esta sóla vez comenzará a ejercer sus funciones, hasta el día 16 de septiembre de ese mismo año.
+
+P.O. 1 DE OCTUBRE DE 1933.
+
+###### Artículo 1o.
+
+Los Regidores de número par que resultaren electos en las próximas elecciones durarán en su encargo solamente un año, para así establecer la renovación total de los Ayuntamientos para 1935.
+
+###### Artículo 2o.
+
+La reducción de los Magistrados del Supremo Tribunal de Justicia, se efectuará al iniciarse el próximo período Constitucional el primero de agosto del año de 1935.
