@@ -4,7 +4,7 @@ identifier: "VER-ley-organica-del-ministerio-publico-del-estado-de-veracruz-6582
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-08-20"
-last_updated: "1989-04-01"
+last_updated: "1989-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ABRIL DE 1989.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JULIO DE 1989.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 20 de agosto de 1983.
 
@@ -159,11 +159,15 @@ El personal del Ministerio Público del Estado de Veracruz está integrado por:
 
 I.- El Procurador General de Justicia.
 
-II.- Un Subprocurador, sustituto del Procurador.
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 1989)</small>
+
+II.- Los subprocuradores regionales.
 
 III.- Un Oficial Mayor de la Procuraduría General de Justicia.
 
-IV.- Tres Visitadores Regionales.
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 1989)</small>
+
+IV.- Los visitadores.
 
 V.- Un Director General de Averiguaciones Previas.
 
@@ -197,9 +201,11 @@ El Procurador General de Justicia será nombrado y removido libremente por el de
 
 El Procurador General de Justicia deberá reunir los requisitos que, para ser Magistrado del Tribunal Superior de Justicia del Estado, señala el artículo 96 de la Constitución Política Local.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE JULIO DE 1989)</small>
+
 ###### ARTICULO 13.
 
-El Subprocurador será nombrado y removido por el Procurador, con aprobación del Gobernador del Estado.
+Los subprocuradores, serán nombrados y removidos por el Procurador, con aprobación del Gobernador del Estado.
 
 Para ser Subprocurador se requiere satisfacer los requisitos que esta Ley exige para ser el Procurador General de Justicia.
 
@@ -277,9 +283,13 @@ Los Servidores del Ministerio Público, otorgarán protesta de las siguientes ma
 
 I.- El Procurador, ante el depositario del Poder Ejecutivo del Gobierno del Estado.
 
-II.- El Subprocurador, Directores, Agentes del Ministerio Público de cualquier categoría, Jefes de Oficina o Departamento y Empleados, ante el Procurador.
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 1989)</small>
 
-Puede el Procurador delegar su facultad de tomar la protesta de los Agentes del Ministerio Público, investigadores o adscritos, en el Visitador Regional del Distrito Judicial en que aquéllos vayan a ejercer sus funciones.
+II.- Los subprocuradores, directores, agentes del Ministerio Público de cualquier categoría, jefes de oficina o departamentos y empleados, ante el Procurador.
+
+> <small>(REFORMADO, G.O. 11 DE JULIO DE 1989)</small>
+
+Puede el Procurador delegar su facultad de tomar la protesta de los agentes del Ministerio Público, investigadores o adscritos, en el subprocurador regional de la zona en que aquéllos vayan a ejercer sus funciones.
 
 La protesta será otorgada en los términos establecidos por el artículo 135 de la Constitución Política del Estado de Veracruz, y se consignará en un acta, de la que se levantarán los tantos que sean necesarios.
 
@@ -287,11 +297,17 @@ La protesta será otorgada en los términos establecidos por el artículo 135 de
 
 El personal del Ministerio Público, será suplido, incluyendo los casos de excusa, de la siguiente manera:
 
-I.- Al Procurador lo suplirá el Subprocurador, cuando las faltas temporales de aquél no excedan de cinco días. Las de mayor tiempo se suplirán como lo dispone el artículo 109 de la Constitución Política Local.
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 1989)</small>
 
-II.- El Subprocurador se suplirá por el Agente del Ministerio Público auxiliar del Procurador General de Justicia que éste designe con acuerdo previo del depositario del Poder Ejecutivo del Estado.
+I.- Al Procurador lo suplirán los subprocuradores, o el director que designe, cuando las faltas temporales de aquél no excedan de cinco días, las de mayor tiempo se suplirán como lo dispone el artículo 109 de la Constitución Política del Estado.
 
-III.- Los Agentes del Ministerio Público Auxiliares del Procurador y los adscritos, por quienes el Procurador designe.
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 1989)</small>
+
+II.- Los subprocuradores se suplirán por el visitador o el Agente del Ministerio Público auxiliar del Procurador General de Justicia que éste designe con acuerdo previo del depositario del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 1989)</small>
+
+III.- Los visitadores, los agentes del Ministerio Público, auxiliares del Procurador y los adscritos, por quienes el Procurador designe.
 
 IV.- Los Agentes del Ministerio Público Investigadores por el Oficial Secretario en funciones, quien, en tal caso, actuará con dos testigos de asistencia.
 
@@ -329,11 +345,13 @@ El Procurador podrá acordar que un médico legista opine sobre esas mismas circ
 
 Los Agentes del Ministerio Público, sus Secretarios y los Auxiliares de la función investigadora, no son recusables; pero deben excusarse en los negocios en que intervengan, cuando en éstos exista alguna de las causas que motivan la excusa de los jueces del fuero común. Será causa de responsabilidad que no se excusen, teniendo impedimento legal.
 
+> <small>(REFORMADO, G.O. 11 DE JULIO DE 1989)</small>
+
 ###### ARTICULO 25.
 
-El Gobernador del Estado calificará las excusas del Procurador, y éste las del Subprocurador, Visitadores y Directores.
+El Gobernador del Estado, calificará las excusas del Procurador y éste, las de los subprocuradores, visitadores y directores.
 
-Los titulares de los diversos órganos del Ministerio Público calificarán las excusas del personal bajo su dirección o dependencia.
+Los titulares de los diversos órganos del Ministerio Público, calificarán las excusas del personal bajo su dirección o dependencia.
 
 ###### ARTICULO 26.
 
@@ -375,7 +393,9 @@ XI.- Cuidar de que se haga efectiva la responsabilidad en que hayan incurrido lo
 
 XII.- Expedir circulares de observancia general a los Agentes del Ministerio Público, especialmente para definir el criterio de la instrucción en el ejercicio de sus funciones ante los Tribunales de Justicia.
 
-XIII.- Practicar personalmente o por medio del Subprocurador o de los Agentes del Ministerio Público, visitas a los Juzgados o Reclusorios del Estado, a fin de observar el funcionamiento de éstos y proponer medidas para evitar las irregularidades que advierta.
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 1989)</small>
+
+XIII.- Practicar personalmente o por medio de los subprocuradores o de los agentes del Ministerio Público, visitas a los Juzgados o Reclusorios del Estado, a fin de observar el funcionamiento de éstos y proponer medidas para evitar las irregularidades que advierta.
 
 XIV.- Resolver sobre el desistimiento de la acción penal en cualquier estado del proceso.
 
@@ -393,19 +413,45 @@ XX.- Imponer al personal del Ministerio Público, las correcciones disciplinaria
 
 XXI.- Las demás que ésta y otras leyes o reglamentos le confieran.
 
-### CAPITULO II. DEL SUBPROCURADOR
+> <small>(REFORMADA SU DENOMINACION, G.O. 11 DE JULIO DE 1989)</small>
+
+### CAPITULO II. DE LOS SUBPROCURADORES REGIONALES
+
+> <small>(REFORMADO, G.O. 11 DE JULIO DE 1989)</small>
 
 ###### ARTICULO 28.
 
-El Procurador General de Justicia, delegará a discreción en el Subprocurador, funciones de supervisión y control de las dependencias que integran la Procuraduría, conforme a una división del trabajo congruente con las necesidades del servicio. Excepto las facultades y obligaciones que correspondan personalmente al Procurador, todas las demás podrán ser delegadas.
-
-Mediante la misma delegación, el Subprocurador podrá:
+Son facultades y obligaciones de los subprocuradores regionales:
 
 I.- Auxiliar al Procurador en las funciones que le encomienda esta Ley, especialmente en la atención al público que le solicita audiencia.
 
-II.- Resolver en los casos de no ejercicio de la acción penal, desistimiento de ésta y formulación de conclusiones sujetas a revisión.
+II.- Conocer los negocios jurídicos en que haya de intervenir por discrecional acuerdo del Procurador.
 
-III.- Conocer de los negocios jurídicos en que haya de intervenir por discrecional acuerdo del Procurador.
+III.- Promover las acciones pertinentes para la expedita procuración de justicia, autorizando en su caso, instancias alternativas de conciliación cuando no se trate de delitos que deban ser perseguidos de oficio.
+
+IV.- Vigilar el cumplimiento de las instrucciones generales y especiales que el Procurador estime convenientes, para que el personal del Ministerio Público, cumpla debidamente con sus atribuciones, facultades y obligaciones.
+
+V.- Encomendar cualesquiera asuntos, para el estudio que de ellos estime conveniente, a los agentes del Ministerio Público de su región independientemente de las funciones ordinarias de éstos.
+
+VI.- Vigilar en su región, el exacto cumplimiento de las circulares emitidas por el Procurador General de Justicia en el Estado.
+
+VII.- Recibir quejas sobre demoras, excesos o faltas, en el despacho de los negocios en que intervenga el personal del Ministerio Público de su región.
+
+VIII.- Practicar personalmente, las visitas a los juzgados o reclusorios de su región que ordene el Procurador, a fin de observar el funcionamiento de éstos y proponer medidas para evitar las irregularidades que advierta.
+
+IX.- Investigar las detenciones que sean denunciadas como arbitrarias y, en su caso, promover el castigo de los responsables, adoptando medidas pertinentes previo acuerdo del Procurador, para evitar que tales abusos se repitan.
+
+X.- Recabar, con apego a la Ley, de cualquier institución, personal física o moral, los documentos, informes o cualquier otro elemento que juzgue indispensable para el ejercicio de sus funciones.
+
+XI.- Revisar y dictaminar los acuerdos de reserva a que se refiere el artículo 132 del Código de Procedimientos Penales del Estado, dictados por los agentes de Ministerio Público de su región.
+
+XII.- Resolver sobre las conclusiones sujetas a revisión, en términos del artículo 273 del Código de Procedimientos Penales en el Estado, en los asuntos competencia de los juzgados menores de su región.
+
+El Procurador General de Justicia, delegará a discreción en los subprocuradores regionales, funciones de supervisión y control de las dependencias que integran la Procuraduría, conforme a una división del trabajo congruente con las necesidades del servicio.
+
+> <small>(ADICIONADO, G.O. 11 DE JULIO DE 1989)</small>
+
+ARTICULO 28 A.- El Procurador General de Justicia, previa asignación presupuestal y atendiendo a las necesidades de servicio, con la aprobación del Gobernador del Estado, acordará la creación de cada Subprocuraduría Regional, indicando los distritos judiciales que le corresponda y el lugar de su sede. Este acuerdo, para su obligatoriedad, deberá publicarse en la 'Gaceta Oficial' del Estado.
 
 ### CAPITULO III. DE LA OFICIALIA MAYOR
 
@@ -459,31 +505,29 @@ XVIII.- Las demás que le señalen las Leyes y Reglamentos.
 
 ### CAPITULO IV. DE LA VISITADURIA GENERAL
 
+> <small>(REFORMADO, G.O. 11 DE JULIO DE 1989)</small>
+
 ###### ARTICULO 31.
 
-La Visitaduría General se compondrá de tres visitadores regionales.
+La Visitaduría General se compondrá de un visitador por cada Subprocuraduría Regional.
 
-Los Visitadores Regionales ejercerán sus funciones bajo la dirección inmediata del Procurador; en las zonas norte, centro y sur del Estado.
+Los visitadores ejercerán sus funciones, bajo la dirección inmediata del subprocurador de la región que corresponda.
 
-La Zona Norte comprende los distritos judiciales de Pánuco, Tantoyuca, Chicontepec, Huayacocotla, Ozuluama, Túxpam, Poza Rica y Papantla. La Zona Centro, los Distritos de Misantla, Jalacingo, Xalapa, Coatepec, Huatusco, Córdoba Orizaba y Zongolica y la Zona Sur los Distritos de Veracruz, Cosamaloapan, San Andrés Tuxtla, Acayucan y Coatzacoalcos.
-
-Los Visitadores Regionales podrán ser intercambiados de adscripción temporalmente, según lo demanden las necesidades del servicio.
+> <small>(REFORMADO, G.O. 11 DE JULIO DE 1989)</small>
 
 ###### ARTICULO 32.
 
-Son facultades y atribuciones de los Visitadores Regionales:
+Son facultades y obligaciones de los visitadores:
 
-I.- Practicar, desde el punto de vista técnico, jurídico y administrativo las visitas generales o especiales que a las Agencias del Ministerio Público en el Estado determine el Procurador General de Justicia.
+I.- Practicar desde el punto de vista técnico jurídico y administrativo, las visitas generales o especiales que a las Agencias del Ministerio Público en la región de su adscripción, determine el Procurador General de Justicia o el Subprocurador Regional.
 
-II.- Revisar las averiguaciones previas en las agencias investigadoras y en las agencias adscritas, los expedientes en los cuales el Ministerio Público es parte, así como acordar las diligencias que sean necesarias para el perfeccionamiento de las averiguaciones y para la correcta defensa de los intereses de la sociedad o de las personas a quienes, conforme a la Ley, deba representar éstos.
+II.- Revisar las averiguaciones previas en las agencias investigadoras y en las adscritas, los expedientes en los cuales el Ministerio Público es parte, así como acordar las diligencias que sean necesarias para el perfeccionamiento de las averiguaciones y para la correcta defensa de los intereses de la sociedad o de las personas a quienes, conforme a la Ley, deben representar éstos.
 
-III.- Desahogar las consultas de quienes presenten quejas o reclamaciones, contra los Agentes del Ministerio Público investigadores o adscritos y dedicarse inmediatamente a la comprobación de éstas, disponiendo que se enmienden las faltas susceptibles de ello o, si son graves, dando cuenta al Procurador.
+III.- Informar por escrito al Subprocurador Regional, de las visitas que se hayan practicado, proponiendo medidas concretas para mejorar el funcionamiento de las Agencias del Ministerio Público.
 
-IV.- Informar por escrito al Procurador, de las visitas que se hayan practicado, proponiendo medidas concretas para mejorar el funcionamiento de las Agencias del Ministerio Público.
+IV.- Desempeñar las comisiones especiales que el Procurador o Subprocurador Regional les encomiende, además de las que les asignen las Leyes y Reglamentos correspondientes.
 
-V.- Desempeñar las comisiones especiales que el Procurador les encomiende, además de las que les asignen las Leyes y los Reglamentos correspondientes.
-
-Los Visitadores Regionales rendirán mensualmente sus informes al Procurador General de Justicia, sin menoscabo de la facultad de aquél para llamarlos a informar directamente en cualquier tiempo, ante el funcionario que el disponga.
+Los visitadores rendirán mensualmente sus informes al Subprocurador Regional, sin menoscabo de la facultad del Procurador General de Justicia, para llamarlos a informar directamente en cualquier tiempo, ante el funcionario que él disponga.
 
 ### CAPITULO V. DE LA DIRECCION GENERAL DE AVERIGUACIONES PREVIAS
 
@@ -527,9 +571,13 @@ XIII.- Rendir al Procurador los informes que éste requiera y, en forma obligato
 
 XIV.- Proporcionar a los denunciantes, querellantes o a sus representantes legales, información del estado que guarda la averiguación previa a que se refieran su denuncia o querella, así como copias certificadas de las pruebas documentales que ellos aporten.
 
-XV.- Solicitarle al Procurador que encomiende a los Visitadores Regionales, la inspección de las agencias investigadoras del Ministerio Público, si advierte irregularidades en el trámite de las averiguaciones previas.
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 1989)</small>
 
-XVI.- Acordar todo lo relativo a los asuntos de su competencia, con el Procurador o con el Subprocurador en su caso, conforme a la delegación discrecional que aquél haya otorgado.
+XV.- Solicitarle al Procurador que encomiende a los subprocuradores regionales, la inspección de las agencias investigadoras del Ministerio Público, si advierte irregularidades en el trámite de las averiguaciones previas.
+
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 1989)</small>
+
+XVI.- Acordar todo lo relativo a los asuntos de su competencia, con el Procurador o con los subprocuradores regionales en su caso, conforme a la Delegación discrecional que aquél haya otorgado.
 
 ### CAPITULO VI. LA DIRECCION GENERAL DE CONTROL DE PROCESOS
 
@@ -591,9 +639,11 @@ Los Agentes del Ministerio Público adscritos a los Juzgados de los ramos penal 
 
 El Procurador General de Justicia, conforme a las necesidades del servicio y las previsiones del presupuesto, determinará a qué Juzgados de Primera Instancia, Menores y Municipales, debe adscribirse un Agente del Ministerio Público.
 
+> <small>(REFORMADO, G.O. 11 DE JULIO DE 1989)</small>
+
 ###### ARTICULO 41.
 
-El Director de Control de Procesos ejercitará ante las Salas del H. Tribunal Superior de Justicia del Estado, las funciones que las leyes y reglamentos atribuyan al Ministerio Público y que no estén reservadas expresamente al Procurador, o sobre las que éste instruya al Subprocurador o a sus Agentes Auxiliares.
+El Director de Control de Procesos, ejercitará ante las salas del Tribunal Superior de Justicia del Estado, las funciones que las Leyes y Reglamentos atribuyan al Ministerio Público y que no estén reservadas expresamente al Procurador, o sobre las que éste instruya a los subprocuradores regionales o a sus agentes auxiliares.
 
 ### CAPITULO VII. DE LA DIRECCION GENERAL JURIDICO CONSULTIVA
 
@@ -751,7 +801,9 @@ Corresponde a los Agentes del Ministerio Público, Auxiliares del Procurador:
 
 I.- Intervenir como Agentes Especiales en los asuntos que determine el Procurador.
 
-II.- Dictaminar, en los asuntos en que el Procurador, o, en su caso, el Subprocurador deban decidir:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE JULIO DE 1989)</small>
+
+II.- Dictaminar, en los asuntos en que el Procurador, o en su caso, los subprocuradores regionales deban decidir:
 
 a).- Sobre el no ejercicio de la acción penal, que amerite determinación de archivo.
 
@@ -879,17 +931,23 @@ VII.- Las demás que le encomienden el titular de la Agencia, esta Ley y las ley
 
 ### CAPITULO I. DE LA RESIDENCIA DEL PERSONAL DEL MINISTERIO PUBLICO
 
+> <small>(REFORMADO, G.O. 11 DE JULIO DE 1989)</small>
+
 ###### ARTICULO 68.
 
-El Procurador, el Subprocurador, el Oficial Mayor, los Directores de: Averiguaciones Previas, Control de Procesos, Jurídico- Consultivo de la Policía Judicial y de Servicios Periciales y los Agentes Auxiliares del Procurador, residirán en la capital del Estado.
+El Procurador, el Oficial Mayor, los Directores de: Averiguaciones Previas, Control de Procesos, Jurídico Consultivo, de la Policía Judicial y de Servicios Periciales residirán en la capital del Estado.
 
-Los Agentes del Ministerio Público Investigadores, en el lugar que designe el Procurador, y los Agentes del Ministerio Público adscritos en el lugar de radicación del Juzgado al que correspondan.
+Los subprocuradores regionales y los visitadores en las sedes de cada Subprocuraduría.
 
-Los Visitadores Regionales residirán: el de la Zona Norte, en la ciudad de Túxpam de Rodríguez Cano; el de la Zona Centro, en la ciudad de Córdoba y el de la Zona Sur, en la ciudad de San Andrés Tuxtla.
+Los agentes auxiliares del Procurador, en las sedes de las subprocuradurías y en la capital del Estado, según su adscripción.
+
+Los Agentes del Ministerio Público Investigadores, en el lugar que designe el Procurador; y los Agentes del Ministerio Público adscrito en el lugar de radicación del Juzgado al que corresponda.
+
+> <small>(REFORMADO, G.O. 11 DE JULIO DE 1989)</small>
 
 ###### ARTICULO 69.
 
-Los Servidores del Ministerio Público no pueden abandonar el Distrito de su residencia y, en el caso de los Agentes y Visitadores, la circunscripción territorial de la zona asignada, ni dejar de desempeñar sus funciones, sin previa licencia, salvo los casos en que, para asuntos del servicio fueren llamados por el Procurador o el Subprocurador.
+Los servidores del Ministerio Público no pueden abandonar el Distrito de su residencia y, en el caso de los subprocuradores regionales, agentes y visitadores, la circunscripción territorial de la zona asignada, ni dejar de desempeñar sus funciones, sin previa licencia, salvo los casos en que, para asuntos del servicio fueran llamados por el Procurador o el Subprocurador Regional, según corresponda.
 
 ###### ARTICULO 70.
 
@@ -901,9 +959,11 @@ El Procurador, cuando lo estime conveniente, podrá trasladarse a cualquier part
 
 El Procurador General de Justicia y demás servidores del Ministerio Público, son responsables de las faltas y delitos en que incurran durante el ejercicio de su cargo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE JULIO DE 1989)</small>
+
 ###### ARTICULO 72.
 
-El Procurador General de Justicia podrá imponer al Subprocurador, a sus Agentes Auxiliares y al personal del Ministerio Público o al servicio de la Procuraduría, las correcciones disciplinarias siguientes:
+El Procurador General de Justicia podrá imponer a los subprocuradores, a sus agentes auxiliares y al personal del Ministerio Público o al servicio de la Procuraduría, las correcciones disciplinarias siguientes:
 
 I.- Apercibimiento o amonestación.
 
@@ -945,9 +1005,11 @@ Fuera de lo establecido por los Códigos de Procedimientos para el caso de rebel
 
 El Ministerio Público, en el desempeño de sus funciones no puede ser condenado en costas ni acusado de calumnia. Cuando existan datos para creer que un miembro del Ministerio Público ha calumniado, se pondrá el caso en conocimiento del Procurador General de Justicia, y este servidor resolverá lo que considere pertinente de acuerdo con la Ley.
 
+> <small>(REFORMADO, G.O. 11 DE JULIO DE 1989)</small>
+
 ###### ARTICULO 78.
 
-La responsabilidad por delitos comunes u oficiales del Procurador General de Justicia del Estado, se exigirán de conformidad con lo prevenido por la Constitución Política del Estado; la de los Agentes del Ministerio Público Auxiliares del Procurador incluyendo al Subprocurador, y de los Agentes del Ministerio Público Investigadores o adscritos, en los términos señalados en el Código de Procedimientos Penales.
+La responsabilidad por delitos comunes u oficiales del Procurador General de Justicia del Estado, se exigirán de conformidad con lo previsto por la Constitución Política del Estado, la de los agentes del Ministerio Público, auxiliares del Procurador, incluyendo a los subprocuradores, y de los agentes del Ministerio Público investigadores o adscritos, en los términos señalados en el Código de Procedimientos Penales.
 
 ### CAPITULO III. DE LA SUSPENSION Y SEPARACION DE LOS SERVIDORES DEL MINISTERIO PUBLICO
 
@@ -1030,3 +1092,17 @@ La presente reforma entrará en vigor al día siguiente de su publicación en la
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+G.O. 11 DE JULIO DE 1989.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma y adición entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El funcionamiento de las subprocuradurías a que se refiere esta reforma y adición, queda sujeto a que se efectúen las asignaciones presupuestales correspondientes, debiendo el Procurador General de Justicia dictar los acuerdos y circulares que para el efecto se requieran.
+
+###### ARTICULO TERCERO.
+
+Publíquese en la 'Gaceta Oficial' órgano del Gobierno del Estado.
