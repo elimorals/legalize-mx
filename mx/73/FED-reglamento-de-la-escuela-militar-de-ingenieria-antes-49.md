@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-ingenieria-antes-49"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "1994-11-16"
+last_updated: "2001-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE INGENIEROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2001.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 13 de abril de 1993.
 
@@ -41,9 +41,11 @@ La Escuela Militar de Ingenieros es un establecimiento de Educación Militar de 
 
 ### CAPITULO II. Dependencia
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 2o.
 
-La Escuela Militar de Ingenieros, depende del Alto Mando del Ejército y Fuerza Aérea a través de la Universidad del Ejército y Fuerza Aérea.
+La Escuela Militar de Ingenieros depende del Alto Mando del Ejército y Fuerza Aérea a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
 ### CAPITULO III. Objetivos
 
@@ -75,7 +77,11 @@ II. Ingeniero Industrial Militar, en sus diferentes ramas, Mecánico, Eléctrico
 
 III. Ingeniero Militar en Comunicaciones y Electrónica, y
 
-IV. Otras que la superioridad determine.
+IV. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Ingeniero Militar en Computación e Informática.
 
 ###### ARTICULO 5o.
 
@@ -117,61 +123,153 @@ IV. Sección Pedagógica:
 
 A. Jefatura;
 
-B. Subsección de Planeación de Ingenieros Constructores Militares;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-C. Subsección de Planeación de Ingenieros Mecánicos Militares;
+B. Subsección de Planeación y Evaluación de Ingenieros Constructores Militares;
 
-D. Subsección de Planeación de Ingenieros Electricistas Militares;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-E. Subsección de Planeación de Ingenieros Químicos Militares;
+C. Subsección de Planeación y Evaluación de Ingenieros Mecánicos Militares;
 
-F. Subsección de Planeación de Ingenieros Militares en Comunicaciones y Electrónica;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-G. Subsección de Planeación de Estudios de Tronco Común y Materias Militares;
+D. Subsección de Planeación y Evaluación de Ingenieros Electricistas Militares;
 
-H. Subsección Psicopedagógica; y Subsección de Estadística.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+E. Subsección de Planeación y Evaluación de Ingenieros Químicos Militares;
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+F. Subsección de Planeación y Evaluación de Ingenieros Militares en Comunicaciones y Electrónica;
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+G. Subsección de Planeación y Evaluación de Ingenieros Militares en Computación e Informática;
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+H. Subsección de Planeación y Evaluación de Estudios de Tronco Común y Materias Militares;
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+I. Subsección Psicopedagógica;
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+J. Subsección de Estadística, y
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+K. Subsección de Educación Física y Deportes.
 
 V. Sección Académica:
 
 A. Jefatura;
 
-B. Subsección de Ingenieros Constructores Militares;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-C. Subsección de Ingenieros Mecánicos Militares;
+B. Subsección de Ejecución y Control de Ingenieros Constructores Militares;
 
-D. Subsección de Ingenieros EIectricistas Militares;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-E. Subsección de Ingenieros Químicos Militares;
+C. Subsección de Ejecución y Control de Ingenieros Mecánicos Militares;
 
-F. Subsección de Ingenieros Militares en Comunicaciones y Electrónica; y
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-G. Subsección de Estudios de Tronco Común y Materias Militares.
+D. Subsección de Ejecución y Control de Ingenieros Electricistas Militares;
 
-VI. Sección de Investigación y Difusión:
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+E. Subsección de Ejecución y Control de Ingenieros Químicos Militares;
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+F. Subsección de Ejecución y Control de Ingenieros Militares en Comunicaciones y Electrónica;
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+G. Subsección de Ejecución y Control de Ingenieros Militares en Computación e Informática, y
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+H. Subsección de Ejecución y Control de Estudios de Tronco Común y Materias Militares.
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Sección de Estudios de Posgrado:
 
 A. Jefatura;
 
-B. Subsección de Investigación; y
+B. Subsección de Estudios de Posgrado en Ingeniería de la Construcción;
+
+C. Subsección de Estudios de Posgrado en Ingeniería Mecánica, Química; Eléctrica e Industrial;
+
+D. Subsección de Estudios de Posgrado en Comunicaciones, Computación y Electrónica, y
+
+E. Subsección de Laboratorios de Cómputo Especializado.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VII. Sección de Investigación, Difusión y Doctrina Militar:
+
+A. Jefatura;
+
+B. Subsección de Investigación y Doctrina Militar, y
 
 C. Subsección de Difusión y Relaciones Públicas.
 
-VII. Sección de Apoyos Didácticos:
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VIII. Sección de Laboratorios:
 
 A. Jefatura;
 
-B. Subsección de Laboratorios;
+B. Subsección de Laboratorios de Ciencias Básicas;
 
-C. Subsección de lnformática;
+C. Subsección de Laboratorios de Ingenieros Constructores;
 
-D. Subsección de Talleres;
+D. Subsección de Laboratorios de Ingenieros Mecánicos;
 
-E. Subsección de Topografía;
+E. Subsección de Laboratorios de Ingenieros Químicos;
 
-F. Biblioteca; y
+F. Subsección de Laboratorios de Ingenieros Electricistas;
 
-G. Taller Autográfico.
+G. Subsección de Laboratorios de Ingenieros en Comunicaciones y Electrónica, y
 
-VIII. Ayudantía General:
+H. Subsección de Laboratorios de Ingenieros en Computación e Informática.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IX. Sección de Apoyos Didácticos:
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+A. Jefatura;
+
+B. (DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
+
+C. Subsección Cómputo;
+
+D. (DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
+
+E. (DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+F. Subsección de Biblioteca;
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+G. Subsección de Taller Autográfico, y
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+H. Subsección de Recursos Materiales Auxiliares de enseñanza.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+X. Ayudantía General:
 
 A. Ayudantía General;
 
@@ -185,27 +283,31 @@ b. Materiales de Guerra;
 
 c. Sanidad;
 
-d. Transmisiones; y
+d. Transmisiones, y
 
 e. Transportes.
 
-D. Ingeniero Residente; y
+D. Ingeniero Residente, y
 
 E. Servicios Generales.
 
-lX. Sección Administrativa:
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XI. Sección Administrativa:
 
 A. Jefatura;
 
 B. Subsección de Personal;
 
-C. Subsección de Recursos Materiales;
+C. Subsección de Recursos Materiales,
 
-D. Subsección de Contabilidad; y
+D. Subsección de Contabilidad, y
 
 E. Subsección de Archivo y Correspondencia.
 
-X. Unidad Ejecutora de Pago.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XII. Unidad Ejecutora de Pago.
 
 ###### ARTICULO 8o.
 
@@ -237,17 +339,25 @@ lII. Administrar los recursos humanos, económicos y materiales puestos a su dis
 
 IV. Impulsar permanentemente la investigación científica y tecnológica en el plantel;
 
-V. Proponer a la Rectoría de la Universidad del Ejército y Fuerza Aérea, las modificaciones a los planes y programas de estudio de las carreras o cursos que se impartan en el plantel;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea las modificaciones a los planes y programas de estudio de las carreras o cursos que se impartan en el plantel;
 
 VI. Convocar a la Junta Técnica-Consultiva;
 
-VII. Solicitar a través de la Rectoría de la Universidad del Ejército y Fuerza Aérea, la designación del Subdirector, Jefes de las diversas Secciones, así como la del Comandante del Cuerpo de Cadetes y Oficiales en Instrucción y la del Ayudante General;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-VIII. Proponer a la Rectoría de la Universidad del Ejército y Fuerza Aérea, las reformas al presente Reglamento y al Manual de Organización y Funcionamiento del plantel, cuando corresponda;
+VII. Solicitar a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea la designación del Subdirector, jefes de las diversas secciones, así como la del Comandante del Cuerpo de Cadetes y Oficiales en Instrucción y la del Ayudante General;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VIII. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, las reformas al presente Reglamento y al Manual de Organización y Funcionamiento del plantel cuando corresponda;
 
 IX. Difundir permanentemente el contenido del presente Reglamento a todo el personal que integra el plantel;
 
-X. Proponer a la Rectoría de la Universidad del Ejército y Fuerza Aérea, la creación de otras carreras y cursos;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+X. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, la creación de otras carreras y cursos;
 
 XI. Proponer al personal del plantel que se haga acreedor a recompensas, premios y diplomas;
 
@@ -255,9 +365,13 @@ XII. Proponer y opinar las altas, bajas y cambios del personal docente y adminis
 
 XIII. Realizar la evaluación de las capacidades y funcionamiento de los órganos del plantel;
 
-XIV. Presentar a la Rectoría de la Universidad del Ejército y Fuerza Aérea, un informe general de actividades al término, de cada ciclo escolar;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-XV. Proponer a la Rectoría de la Universidad del Ejército y Fuerza Aérea, el proyecto de presupuesto de su competencia;
+XIV. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, un informe general de actividades al término de cada ciclo escolar;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, el proyecto de presupuesto de su competencia;
 
 XVI. Firmar la documentación oficial que se genere con motivo de las actividades académicas y administrativas del plantel; y
 
@@ -295,7 +409,9 @@ Vll. Coordinar y consolidar los informes de los diferentes órganos que integran
 
 VIII. Coordinar y supervisar la elaboración y actualización permanente del Manual de Organización y Funcionamiento del plantel;
 
-IX. Convocar y presidir juntas de coordinación con el personal docente del plantel;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IX. Convocar y presidir juntas de coordinación con el personal docente y académico del plantel;
 
 X. Dirigir el proceso enseñanza-aprendizaje;
 
@@ -313,9 +429,11 @@ XIV. Las que sean asignadas por la superioridad.
 
 El Cuerpo de Cadetes y Oficiales en lnstrucción de la Escuela Militar de Ingenieros, está a cargo de un Teniente Coronel o Mayor de Arma, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Comandante del Cuerpo de Cadetes y Oficiales en Instrucción.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 14.
 
-El Comandante del Cuerpo de Cadetes y Oficiales en Instrucción de la Escuela Militar de Ingenieros, tiene las siguientes funciones:
+El Comandante del Cuerpo de Cadetes y Oficiales en Instrucción de la Escuela Militar de Ingenieros tiene las atribuciones y responsabilidades siguientes:
 
 I. Ejercer el mando del Cuerpo de Cadetes y Oficiales en instrucción del plantel;
 
@@ -329,7 +447,9 @@ V. Exigir la buena presentación del Cuerpo de Cadetes y Oficiales en Instrucci�
 
 VI. Proponer la reunión del Consejo de Honor;
 
-VII. Supervisar el pago del "PRE" al personal de Cadetes de acuerdo a las directivas de la superioridad;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VII. Supervisar el pago de la Percepción Recreativa Estudiantil (PRE) del personal de cadetes de acuerdo a las directivas de la superioridad;
 
 VIII. Capacitar y supervisar al personal de Oficiales de Alumnos respecto de las funciones y responsabilidades que desarrollan en el Cuerpo de Cadetes y Oficiales en Instrucción;
 
@@ -337,7 +457,9 @@ IX. Controlar y supervisar el desempeño de los servicios de arma, económicos y
 
 X. Elaborar y aplicar el Plan de Defensa del plantel y los que sean necesarios;
 
-XI. Proponer a la superioridad al personal de Cadetes nacionales que por su aprovechamiento y disciplina se hagan acreedores a recibir distinción o algún grado;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XI. Proponer a la superioridad al personal de cadetes que por su aprovechamiento y disciplina se hagan acreedores a recibir distinción o algún grado;
 
 XII. Formular los informes de su competencia;
 
@@ -355,9 +477,11 @@ I. Tener experiencia docente;
 
 II. Tener experiencia académica.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 16.
 
-La Sección Pedagógica de la Escuela Militar de Ingenieros tiene las siguientes funciones:
+La Sección Pedagógica de la Escuela Militar de Ingenieros tiene las atribuciones y responsabilidades siguientes:
 
 I. Planear, coordinar y supervisar las actividades pedagógicas del plantel;
 
@@ -383,13 +507,25 @@ XI. Proponer los programas de capacitación y actualización pedagógica del per
 
 XII. Controlar el archivo pedagógico;
 
-XIII. Coordinar la formulación de los exámenes profesionales y supervisar su aplicación;
+XIII. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
 
-XIV. Coordinar y controlar las actividades que realicen las subsecciones que le dependen;
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-XV. Coordinar sus actividades con los demás órganos del plantel; y
+XIV. Organizar, controlar, supervisar y conducir los trabajos relacionados con la elaboración de las tesis;
 
-XVI. Las que le sean asignadas por la superioridad.
+XV. Coordinar y controlar las actividades que realicen las subsecciones que le dependen;
+
+XVI. Coordinar sus actividades con los demás órganos del plantel; y
+
+XVII. Las que le sean asignadas por la superioridad.
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVIII. Proponer el Programa de Educación Física y Deportes.
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIX. Elaborar, en coordinación con la Comandancia del Cuerpo de Cadetes y Oficiales en Instrucción, el Programa de Prácticas en el terreno y proponerlo al Director del plantel.
 
 ### CAPITULO V. De la Sección Académica
 
@@ -401,9 +537,11 @@ I. Tener experiencia académica;
 
 II. Tener experiencia docente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 18.
 
-La Sección Académica de la Escuela Militar de Ingenieros, tiene las siguientes funciones:
+La Sección Académica de la Escuela Militar de Ingenieros tiene las atribuciones y responsabilidades siguientes:
 
 I. Coordinar y supervisar el desarrollo de los planes y programas de estudio del plantel;
 
@@ -419,7 +557,9 @@ VI. Coordinar y controlar al personal docente del plantel;
 
 VII. Coordinar y supervisar las actividades académicas del personal en instrucción del plantel;
 
-VIII. Organizar, controlar, supervisar y conducir los trabajos relacionados con las tesis y los exámenes profesionales;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VIII. Coordinar el desarrollo de los exámenes profesionales y supervisar su aplicación;
 
 IX. Supervisar el desarrollo del programa de prácticas y visitas;
 
@@ -437,13 +577,57 @@ XV. Coordinar y controlar las actividades que realicen las subsecciones que le d
 
 XVI. Las que le sean asignadas por la superioridad.
 
-### CAPITULO VI. De la Sección de Investigación y Difusión
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-### CAPITULO VII. De la Sección de Apoyos Didácticos
+### CAPITULO VI. De la Sección de Estudios de Posgrado
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 18 Bis.
+
+La Sección de Estudios de Posgrado de la Escuela Militar de Ingenieros, es la responsable de la planeación y evaluación de estudios de posgrado de las diferentes disciplinas y especialidades de la ingeniería, así como de su desarrollo científico y tecnológico para satisfacer las necesidades del Ejército y Fuerza Aérea Mexicanos, está a cargo de un Mayor o Teniente Coronel egresado del plantel, a quien se denomina Jefe de la Sección de Estudios de Posgrado, mismo que además debe reunir los requisitos siguientes:
+
+I. Tener experiencia docente;
+
+II. Tener experiencia académica, y
+
+III. Tener estudios de posgrado registrados ante la Secretaría de la Defensa Nacional.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 18 Bis
+
+1.- La Sección de Estudios de Posgrado de la Escuela Militar de Ingenieros tiene las atribuciones y responsabilidades siguientes:
+
+I. Elaborar, revisar, actualizar y supervisar la aplicación de los planes y programas de los cursos de posgrado a impartirse en el plantel;
+
+II. Proponer cursos de posgrado de acuerdo a las necesidades del Ejército y Fuerza Aérea Mexicanos;
+
+III. Desarrollar en el personal en instrucción una alta capacidad innovativa, técnica y metodológica;
+
+IV. Fomentar la participación del personal en instrucción en eventos científicos nacionales e internacionales, con la finalidad de promover la actualización, educación continua y el intercambio científico y técnico;
+
+V. Elaborar los dictámenes, opiniones e informes que le sean ordenados por el Director del plantel;
+
+VI. Elaborar la documentación que ordene el Director del plantel al término de cada curso;
+
+VII. Coordinar sus actividades con los demás órganos del plantel;
+
+VIII. Controlar y coordinar las actividades que realicen los órganos que le dependen;
+
+IX. Administrar los materiales puestos a su disposición por la Dirección del plantel, y
+
+X. Las que le sean asignadas por el Director del plantel.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+### CAPITULO VII. De la Sección de Investigación, Difusión y Doctrina Militar
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 19.
 
-La Sección de Investigación y Difusión de la Escuela Militar de Ingenieros, es un órgano para la investigación y desarrollo de la ciencia, tecnología y humanística en el área de Ingeniería; a cargo de un Teniente Coronel o Mayor Ingeniero Militar, egresado del propio plantel a quien se denomina Jefe de la Sección de Investigación y Difusión, mismo que debe reunir cualquiera de los siguientes requisitos:
+La Sección de Investigación, Difusión y Doctrina Militar de la Escuela Militar de Ingenieros, es un órgano para la investigación y desarrollo de la ciencia, tecnología y humanística en el área de ingeniería, a cargo de un Teniente Coronel o Mayor Ingeniero Militar, egresado del propio plantel a quien se denomina Jefe de la Sección de Investigación, Difusión y Doctrina Militar, mismo que además debe reunir cualquiera de los requisitos siguientes:
 
 I. Tener experiencia académica;
 
@@ -451,9 +635,11 @@ II. Tener experiencia docente; y
 
 III. Tener estudios de postgrado en ingeniería, registrados en la Secretaría de la Defensa Nacional.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 20.
 
-La Sección de Investigación y Difusión de la Escuela Militar de Ingenieros, tiene las siguientes funciones:
+La Sección de Investigación, Difusión y Doctrina Militar de la Escuela Militar de Ingenieros tiene las atribuciones y responsabilidades siguientes:
 
 I. Proponer áreas para la investigación;
 
@@ -481,19 +667,59 @@ XII. Coordinar sus actividades con los demás órganos del plantel;
 
 XIII. Coordinar, supervisar y controlar las actividades que realizan las subsecciones que le dependen; y
 
-XIV. Las que le sean asignadas por la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-### CAPITULO VIII. De la Ayudantía General
+XIV. Atender asuntos de doctrina militar, y
 
-### CAPITULO IX. De la Sección Administrativa
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Las que le sean asignadas por la superioridad.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+### CAPITULO VIII. De la Sección de Laboratorios
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 20 Bis.
+
+La Sección de Laboratorios de la Escuela Militar de Ingenieros, está a cargo de un Teniente Coronel o Mayor Ingeniero Militar, egresado del propio plantel, a quien se denomina Jefe de la Sección de Laboratorios.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 20 Bis
+
+1.- La Sección de Laboratorios de la Escuela Militar de Ingenieros tiene las atribuciones y responsabilidades siguientes:
+
+I. Promover, controlar y coordinar el uso del material didáctico, equipos, herramientas y demás elementos que conforman los laboratorios del plantel;
+
+II. Proponer la adquisición y actualización de los elementos constitutivos de los laboratorios, de acuerdo a las necesidades para la aplicación de los planes y programas de estudio;
+
+III. Establecer y supervisar las normas de seguridad y mantenimiento en los laboratorios, a fin de mantener operativos los equipos y material;
+
+IV. Proponer la adquisición de material de consumo para los laboratorios;
+
+V. Formular los informes de la sección que ordene el Director del plantel;
+
+VI. Coordinar sus actividades con los demás órganos del plantel;
+
+VII. Controlar y coordinar las actividades de los órganos que le dependen, y
+
+VIII. Las que le sean asignadas por el Director del plantel.
+
+> <small>(REFORMADA SU NUMERACIÓN, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+### CAPITULO IX. De la Sección de Apoyos Didácticos
 
 ###### ARTICULO 21.
 
 La Sección de Apoyos Didácticos, es el órgano encargado de proveer y controlar el material didáctico necesario para la materialización del proceso educativo en el plantel, a cargo de un Teniente Coronel o Mayor Ingeniero Militar, egresado del propio plantel, a quien se denomina Jefe de la Sección de Apoyos Didácticos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 22.
 
-La Sección de Apoyos Didácticos de la Escuela Militar de Ingenieros, tiene las siguientes funciones:
+La Sección de Apoyos Didácticos de la Escuela Militar de Ingenieros tiene las atribuciones y responsabilidades siguientes:
 
 I. Proporcionar los recursos materiales para el desarrollo de investigaciones, prácticas y de trabajos;
 
@@ -515,15 +741,21 @@ XI. (sic) Coordinar y controlar las actividades que realicen sus órganos subord
 
 X. Las que le sean asignadas por la superioridad.
 
-### CAPITULO X. De la Unidad Ejecutora de Pago
+> <small>(REFORMADA SU NUMERACION, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+### CAPITULO X. De la Ayudantía General
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 23.
 
-La Ayudantía General de la Escuela Militar de Ingenieros, está a cargo de un Jefe de Arma, a quien se denomina Ayudante General.
+La Ayudantía General de la Escuela Militar de Ingenieros, es el órgano encargado de satisfacer las necesidades de vida interna del plantel, a cargo de un Jefe de Arma, a quien se denomina Ayudante General.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 24.
 
-El Ayudante General de la Escuela Militar de Ingenieros, tiene las siguientes funciones:
+El Ayudante General de la Escuela Militar de Ingenieros tiene las atribuciones y responsabilidades siguientes:
 
 I. Las correspondientes a un Ayudante y a un Jefe de Instrucción de un Cuerpo de Tropa, respecto al personal de la planta de la escuela, perteneciente a los servicios técnicos y generales;
 
@@ -553,15 +785,21 @@ XIII. Formular los informes de su competencia; y
 
 XIV. Las que le sean asignadas por la superioridad.
 
-### CAPITULO XI. De la Junta Técnica-Consultiva
+> <small>(REFORMADA SU NUMERACION, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+### CAPITULO XI. De la Sección Administrativa
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 25.
 
-La Sección Administrativa de la Escuela Militar de Ingenieros, está a cargo de un Jefe u Oficial de Arma o Servicio, a quien se denomina Jefe de la Sección Administrativa.
+La Sección Administrativa de la Escuela Militar de Ingenieros es el órgano de apoyo administrativo del plantel, a cargo de un Jefe u Oficial de Arma u Oficinista, a quien se denomina Jefe de la Sección Administrativa.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 26.
 
-El Jefe de la Sección Administrativa de la Escuela Militar de Ingenieros, tiene las siguientes funciones:
+El Jefe de la Sección Administrativa de la Escuela Militar de Ingenieros, tiene las atribuciones y responsabilidades siguientes:
 
 I. Elaborar y tramitar la documentación que se genere con motivo de los movimientos del personal de la escuela y mantener completos y actualizados los expedientes del mismo;
 
@@ -587,7 +825,9 @@ XI. Coordinar y controlar las actividades que realicen sus órganos subordinados
 
 XII. Las que le sean asignadas por la superioridad.
 
-### CAPITULO I. Clasificación
+> <small>(REFORMADA SU NUMERACION, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+### CAPITULO XII. De la Unidad Ejecutora de Pago
 
 ###### ARTICULO 27.
 
@@ -597,11 +837,15 @@ La Unidad Ejecutora de Pago de la Escuela Militar de Ingenieros, está a cargo d
 
 El Jefe de la Unidad Ejecutora de Pago de la Escuela Militar de Ingenieros, tiene la responsabilidad de proporcionar el servicio de pago de haberes y demás percepciones al personal de la misma, de conformidad con las disposiciones legales aplicables y directivas que emita la superioridad.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 29.
 
-La Unidad Ejecutora de Pago, normará sus actividades de conformidad con los ordenamientos respectivos.
+La Unidad Ejecutora de Pago norma su estructura y funcionamiento de conformidad con las disposiciones legales respectivas.
 
-### CAPITULO II. Del Personal Docente
+> <small>(REFORMADA SU NUMERACION, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+### CAPITULO XIII. De la Junta Técnica-Consultiva
 
 ###### ARTICULO 30.
 
@@ -617,11 +861,25 @@ A. Jefe de la Sección Pedagógica;
 
 B. Jefe de la Sección Académica;
 
-C. Jefe de la Sección de Investigación y Difusión;
+C. (DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
 
-D. Jefe de la Sección de Apoyos Didácticos; y
+D. (DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
 
-E. Comandante del Cuerpo de Cadetes y Oficiales en Instrucción.
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+E. Jefe de la Sección de Estudios de Posgrado;
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+F. Jefe de la Sección de Laboratorios;
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+G. Comandante del Cuerpo de Cadetes y Oficiales en Instrucción, y
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+H. Jefe de la Sección de Apoyos Didácticos.
 
 III. Secretario, que será el vocal de menor jerarquía y antigüedad.
 
@@ -633,9 +891,11 @@ Los Vocales de la Junta Técnica-Consultiva serán suplidos en sus ausencias, po
 
 En casos especiales, la Junta Técnica-Consultiva podrá recurrir a otras fuentes de asesoramiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 33.
 
-Las funciones de la Junta Técnica-Consultiva son:
+Las atribuciones y responsabilidades de la Junta Técnica-Consultiva son:
 
 I. Analizar y proponer soluciones a problemas de carácter pedagógico y académico que surjan en el plantel;
 
@@ -655,7 +915,7 @@ VIII. Las que en materia pedagógica y académica le asigne el Director del plan
 
 ## TITULO CUARTO. Del Personal
 
-### CAPITULO III. Del Personal en Instrucción
+### CAPITULO I. Clasificación
 
 ###### ARTICULO 34.
 
@@ -669,9 +929,13 @@ B. Subdirector.
 
 II. Académico:
 
-A. Jefes de las Secciones Pedagógica, Académica y de Investigación y Difusión; y
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-B. Jefes de las Subsecciones de las Secciones Pedagógica, Académica y de Investigación y Difusión.
+A. Jefes de las secciones Pedagógica, Académica, Estudios de Posgrado y de Investigación, Difusión y Doctrina Militar, y
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+B. Jefes de las subsecciones de las secciones Pedagógica, Académica, Estudios de Posgrado y de Investigación, Difusión y Doctrina Militar.
 
 IlI. Docente:
 
@@ -691,43 +955,57 @@ a. Oficiales en Instrucción; y
 
 b. Cadetes.
 
-V. Personal Administrativo:
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-A. Jefe de la Sección de Apoyos Didácticos;
+V. Administrativo:
 
-B. Ayudante General;
+A. Jefe de la Sección de Laboratorios;
 
-C. Jefe de la Sección Administrativa; y
+B. Jefe de la Sección de Apoyos Didácticos;
 
-D. Jefe de la Unidad Ejecutora de Pago.
+C. Ayudante General;
+
+D. Jefe de la Sección Administrativa, y
+
+E. Jefe de la Unidad Ejecutora de Pago.
 
 VI. De la Planta:
 
 Está constituido por el Ingeniero Residente, el Personal de los Servicios Técnicos, Administrativos y Generales del plantel.
 
-### CAPITULO UNICO
+### CAPITULO II. Del Personal Docente
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 35.
 
-Es Profesor, el personal militar o civil que tiene a su cargo labores de enseñanza o transmisión de conocimientos previa acreditación del título profesional que avale el dominio de la o las asignaturas que imparta; pudiendo ser titular o adjunto.
+Al personal docente le corresponde el desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo, tiene las atribuciones y responsabilidades prescritas en el presente Reglamento y en las disposiciones que emita la superioridad; los docentes militares tienen además, las atribuciones y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares; este personal puede ser profesor o instructor.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 36.
 
-Son Instructores, los elementos militares o civiles a quienes se encomienda la impartición de conocimientos sobre materias que requieran habilidad o destreza.
+Es profesor el militar o civil que tiene a su cargo con carácter de titular o de adjunto, labores permanentes de enseñanza o transmisión de conocimientos, previa acreditación del título profesional que avale el dominio de la o las asignaturas por impartir.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 37.
 
-Los Profesores e Instructores Honorarios, son los que imparten conocimientos o prácticas y que no perciben remuneración por este hecho.
+Son instructores, los militares a quienes se encomienda la impartición de conocimientos sobre materias que requieren habilidad, pericia o destreza y que acrediten previamente ante la Sección Académica el conocimiento que vayan a impartir.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 38.
 
-El personal docente tiene la responsabilidad del desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo y del cumplimiento a lo establecido en el presente Reglamento en las partes correspondientes.
+Los profesores e instructores honorarios, son los que imparten conocimientos o prácticas y que no perciben remuneración por este hecho, debiendo extendérseles un nombramiento como estímulo a dichas actividades.
 
-### CAPITULO I. Generalidades
+### CAPITULO III. Del Personal en Instrucción
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 39.
 
-El personal que realiza sus estudios en el plantel, recibe la denominación de Oficial en Instrucción o Cadete, según corresponda.
+El personal que realiza sus estudios en el plantel recibe la denominación de personal en instrucción (Oficial en instrucción o cadete).
 
 ###### ARTICULO 40.
 
@@ -741,13 +1019,23 @@ II. El personal procedente de Tropa del Ejército y de la Fuerza Aérea y los ci
 
 Los militares y civiles de nacionalidad extranjera que ingresen al plantel, lo harán en calidad de becarios y se regirán durante su estancia en él, por lo establecido en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos en las partes aplicables y en el presente Reglamento; no estarán sujetos al fuero de guerra que comprende faltas y delitos contra la disciplina militar, regulándose su situación disciplinaria, en cada caso, como lo determine la Secretaría de la Defensa Nacional.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 42.
 
-(DEROGADO, D.O.F. 16 DE NOVIEMBRE DE 1994)
+El personal de cadetes que termine satisfactoriamente el 4o. año de alguna de las carreras que se imparten en el plantel, causará baja como tal y alta como Subteniente Pasante de Ingeniería, empleo que ostentará mientras permanezca en la escuela; al causar baja del plantel por situarse en lo establecido en el artículo 68, fracciones II, III, IV, V y VII, de este Reglamento podrá ser reclasificado al Arma o Servicio afín a la carrera que cursa y asignado al organismo que determine la Secretaría de la Defensa Nacional.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 42 Bis.
+
+Los Subtenientes Pasantes de Ingeniería que terminen satisfactoriamente el 5o. año de alguna de las carreras que se imparten en el plantel, causarán baja como tal y alta como Tenientes Pasantes de Ingeniería, empleo que ostentarán mientras permanezcan en la escuela; al causar baja del plantel por situarse en lo establecido en el artículo 68, fracciones II, III, IV, V y VII, de este Reglamento podrán ser reclasificados al Arma o Servicio afín a la carrera que cursan y asignados al organismo que determine la Secretaría de la Defensa Nacional.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 43.
 
-El Personal en Instrucción tendrá las siguientes obligaciones:
+El personal en instrucción tendrá las atribuciones y responsabilidades siguientes:
 
 I. Asistir puntualmente a las actividades que le señalen las distribuciones de tiempo respectivas;
 
@@ -759,7 +1047,7 @@ IV. Desempeñar los servicios y comisiones inherentes a su jerarquía que se le 
 
 ## TITULO QUINTO. De la Admisión
 
-### CAPITULO II. De la Planeación
+### CAPITULO UNICO
 
 ###### ARTICULO 44.
 
@@ -783,29 +1071,33 @@ Las actividades de admisión al plantel, se realizarán con base en las disposic
 
 ## TITULO SEXTO. Del Proceso Enseñanza-Aprendizaje
 
-### CAPITULO III. De la Ejecución
+### CAPITULO I. Generalidades
 
 ###### ARTICULO 49.
 
 La formación del personal en instrucción del plantel, se realizará mediante el proceso enseñanza-aprendizaje en sus tres fases: planeación, ejecución y evaluación.
 
-### CAPITULO IV. De la Evaluación
+### CAPITULO II. De la Planeación
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 50.
 
-La planeación, tiene por finalidad establecer los objetivos de aprendizaje, los métodos y técnicas de enseñanza, así como determinar los métodos de evaluación con base en los planes y programas de estudios del plantel.
+La planeación didáctica es el conjunto de acciones que permiten establecer la estructura, diseño y secuencia del proceso enseñanza-aprendizaje con el fin de organizarlo, sistematizarlo, dirigirlo, evaluarlo y en su caso, rectificarlo para alcanzar los objetivos prescritos en los planes y programas de estudio del plantel.
 
-### CAPITULO V. De los Jurados
+### CAPITULO III. De la Ejecución
 
 ###### ARTICULO 51.
 
 La ejecución de la enseñanza, tiene por objeto desarrollar el contenido de los planes y programas de estudios a través de la interacción del personal docente y en instrucción.
 
-### CAPITULO I. De las Faltas de Asistencia Académica
+### CAPITULO IV. De la Evaluación
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 52.
 
-La evaluación académica, tiene por objeto verificar el nivel de aprovechamiento del personal en instrucción en el proceso enseñanza-aprendizaje; así como la eficiencia del personal docente y la de la programación.
+La evaluación académica tiene por objeto verificar el nivel de aprovechamiento del personal en instrucción en el proceso enseñanza-aprendizaje, así como la eficiencia del personal docente y de los planes y programas de estudio.
 
 ###### ARTICULO 53.
 
@@ -827,9 +1119,11 @@ II. Final Ordinario:
 
 Es aquel que se aplica a todo el personal en instrucción, al término del semestre correspondiente y cubre la totalidad del programa de una asignatura.
 
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 III. Extraordinario:
 
-Es aquel que se aplica al personal en instrucción por reprobar un examen final ordinario, o tres exámenes parciales en una misma asignatura de un semestre.
+Es aquel que se aplica al personal en instrucción cuya calificación final de la asignatura sea menor de seis puntos, calculado de acuerdo a lo establecido en el artículo 58, de este Reglamento.
 
 IV Profesional:
 
@@ -853,13 +1147,17 @@ III. Prácticos; o
 
 IV. Una combinación de los anteriores.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 56.
 
-Para calificar todos los exámenes, excepto el profesional, se utilizará la escala numérica de CERO a CIEN puntos, sin incluir decimales.
+Para calificar todos los exámenes, excepto el profesional se utiliza la escala numérica de cero a diez puntos incluyendo decimales.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 57.
 
-La calificación mínima aprobatoria será de SESENTA puntos.
+La calificación mínima aprobatoria será de seis puntos para nivel licenciatura y siete puntos para nivel de posgrado.
 
 ###### ARTICULO 58.
 
@@ -869,9 +1167,11 @@ El promedio de las evaluaciones parciales, (tres por semestre como mínimo), con
 
 II. El resultado del examen final ordinario constituirá el 40% de la calificación final.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 59.
 
-La calificación obtenida en un examen extraordinario o especial, se asentará en el registro de calificaciones con la anotación "OBTENIDA EN EXAMEN EXTRAORDINARIO" u "OBTENIDA EN EXAMEN ESPECIAL", excluyendo estadísticamente al alumno para obtener algún premio académico.
+La calificación obtenida en un examen extraordinario o especial, se asentará en el registro de calificaciones con la anotación "Obtenida en Examen Extraordinario" u "Obtenida en Examen Especial", esta situación excluye al personal en instrucción de la posibilidad de obtener algún premio académico.
 
 ###### ARTICULO 60.
 
@@ -895,9 +1195,11 @@ I. Elaborar una tesis con alta calidad académica y originalidad;
 
 II. No haber presentado exámenes extraordinarios durante la carrera; y
 
-III. Tener un promedio general mínimo de 85 puntos durante la carrera.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-### CAPITULO II. De las Bajas
+III. Tener un promedio general mínimo de 8.5 puntos durante la carrera.
+
+### CAPITULO V. De los Jurados
 
 ###### ARTICULO 63.
 
@@ -905,7 +1207,7 @@ Los Jurados, estarán integrados por personal docente del plantel y aquel otro q
 
 ## TITULO SEPTIMO. De las Faltas, Bajas y Reingresos
 
-### CAPITULO III. De los Reingresos
+### CAPITULO I. De las Faltas de Asistencia Académica
 
 ###### ARTICULO 64.
 
@@ -929,7 +1231,7 @@ II. Las faltas justificadas originadas por actos fuera del servicio, por motivos
 
 III. El registro y cómputo de faltas, será dado a conocer al personal en instrucción oportuna y periódicamente por la Sección Académica.
 
-### CAPITULO I. De los Títulos, Certificados y Patentes
+### CAPITULO II. De las Bajas
 
 ###### ARTICULO 68.
 
@@ -943,7 +1245,9 @@ III. Reprobar el 40% o más de los exámenes finales ordinarios en un semestre;
 
 IV. Reprobar uno o más exámenes extraordinarios;
 
-V. Reprobar el examen profesional;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Reprobar el examen profesional, el personal de licenciatura;
 
 VI. Acumular el 10% o más de faltas injustificadas en una sola asignatura o el 15% o más en el conjunto de ellas en un semestre;
 
@@ -963,6 +1267,14 @@ XIII. Por solicitud del interesado; que sea aceptada por la superioridad, y
 
 XIV. Para el personal Becario extranjero, faltar injustificadamente a sus labores académicas durante tres días consecutivos.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Adquirir otra nacionalidad, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Encontrarse sujeto a proceso en el fuero de guerra, en el orden común o federal.
+
 ###### ARTICULO 69.
 
 El personal en instrucción que cause baja del plantel, quedará a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan.
@@ -971,11 +1283,19 @@ El personal en instrucción que cause baja del plantel, quedará a disposición 
 
 El personal en instrucción que cause baja del plantel en el primero o segundo año lectivo, no podrá reingresar a la Escuela.
 
-### CAPITULO II. De los Premios y Recompensas
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 70 Bis.
+
+Al personal en instrucción que por cualquier motivo vaya a ser dado de baja del plantel se le comunicará previamente por escrito esta circunstancia, haciéndole saber las razones y fundamentos legales, concediéndole un término de 15 días naturales contados a partir de la fecha en que sea notificado, a efecto de que manifieste lo que a sus intereses convenga sobre el particular.
+
+### CAPITULO III. De los Reingresos
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 71.
 
-Reingreso, es el acto mediante el cual el personal en instrucción que habiendo causado baja del plantel antes de terminar sus estudios, es admitido nuevamente para continuarlos.
+Para efectos del presente Reglamento, se considera como reingreso el acto mediante el cual el personal en instrucción que habiendo causado baja de la Escuela Militar de Ingenieros antes de terminar los estudios, es admitido nuevamente para continuarlos.
 
 ###### ARTICULO 72.
 
@@ -987,9 +1307,11 @@ II. Por motivos de salud; o
 
 III. Por haberse encontrado sujeto a proceso en el Fuero de Guerra, en el Orden Común o Federal y haya resultado absuelto.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 73.
 
-El personal en instrucción que cause baja por los motivos citados en el artículo anterior, del 3/er. año, 5/o. semestre, en adelante, será puesto a disposición de la Secretaría de la Defensa Nacional, para que sea destinado a prestar sus servicios donde ésta lo determine y por el tiempo necesario para regresar al siguiente período de exámenes extraordinarios del semestre que cursaba.
+El personal en instrucción que cause baja por motivos citados en el artículo anterior, del 3/er. año 5/o. semestre en adelante, será puesto a disposición de la Secretaría de la Defensa Nacional, por el tiempo necesario para regresar al siguiente periodo de exámenes extraordinarios del semestre que cursaba, para que sea destinado a prestar sus servicios donde ésta lo determine, los cadetes como clases y los Oficiales con su jerarquía.
 
 ###### ARTICULO 74.
 
@@ -1001,7 +1323,13 @@ El personal en instrucción que se sitúe en lo establecido en el artículo 68 f
 
 ###### ARTICULO 76.
 
-El personal en instrucción que haya causado baja del plantel por motivos de salud o por haberse encontrado sujeto a proceso en el Fuero de Guerra, en el Orden Común o Federal y haya resultado absuelto, podrá reingresar al plantel por una sola vez al inicio del semestre que cursaba, en el siguiente año lectivo.
+(DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 76 Bis.
+
+El personal en instrucción que cause baja por situarse en lo establecido en el artículo 68 fracciones VI, VIII, IX, X, XI, XII, XIV y XV, del presente Reglamento no podrá reingresar al plantel.
 
 ###### ARTICULO 77.
 
@@ -1009,7 +1337,7 @@ El personal en instrucción que repruebe un examen especial, no podrá reingresa
 
 ## TITULO OCTAVO. De los Reconocimientos Académicos
 
-### CAPITULO I. De la Disciplina
+### CAPITULO I. De los Títulos, Certificados y Patentes
 
 ###### ARTICULO 78.
 
@@ -1021,11 +1349,25 @@ II. Certificado de Estudios; y
 
 III. Patente correspondiente.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Certificado de estudios y diploma de especialización para el personal en instrucción de los cursos de especialización;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Certificado de estudios y Grado Académico para el personal en instrucción de los cursos de Maestría, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Al personal militar de procedencia extranjera únicamente se le expedirá título profesional y certificado de estudios.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 79.
 
-Al personal en instrucción que no concluya satisfactoriamente sus estudios, se le expedirá a solicitud del interesado; Certificado Parcial de Estudios, previa aprobación de la Universidad del Ejército y Fuerza Aérea.
+Al personal en instrucción que no concluya satisfactoriamente sus estudios, se le expedirá a solicitud del interesado, certificado parcial de estudios, previa aprobación de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
-### CAPITULO II. De la Garantía de Permanencia
+### CAPITULO II. De los Premios y Recompensas
 
 ###### ARTICULO 80.
 
@@ -1035,13 +1377,23 @@ I. Primer Premio: al que acumule exclusivamente el primer lugar por mayor promed
 
 II. Segundo Premio: a quienes hayan acumulado primeros, segundos y terceros lugares, al término de cada uno de los años escolares durante la carrera respectiva.
 
-Estos premios sólo serán otorgados siempre y cuando los promedios obtenidos no sean menores de 85 puntos.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-III. Figurar en el Cuadro de Honor, en el período de evaluación siguiente a aquel en que haya obtenido un promedio de 80 puntos o más;
+Estos premios sólo serán otorgados siempre y cuando los promedios obtenidos no sean menores de 8.5 puntos;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Figurar en el cuadro de honor en el periodo de evaluación siguiente a aquel en que haya obtenido un promedio de 8.0 puntos o más;
 
 IV. El personal en instrucción que obtenga los tres promedios más altos en cada año escolar de la carrera respectiva recibirá: Diploma de Primero, Segundo o Tercer Lugar según corresponda; y
 
-V. Otros que autorice la Secretaría de la Defensa Nacional.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Exento de realizar el examen final ordinario el personal en instrucción que obtenga un promedio mínimo de 9.0 puntos en una materia, después de haber sustentado los exámenes parciales de la misma, asentándose la calificación obtenida en el promedio, quedando a elección del alumno la opción de presentar o no dicha evaluación para incrementar su promedio general, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Otros que autorice la Secretaría de la Defensa Nacional.
 
 ###### ARTICULO 81.
 
@@ -1049,13 +1401,19 @@ El personal en instrucción del plantel que termine satisfactoriamente sus estud
 
 ## TITULO NOVENO. Disposiciones Complementarias
 
+### CAPITULO I. De la Disciplina
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 82.
 
-Los arrestos que se impongan al personal en instrucción de procedencia militar, serán graduados por el Director del plantel conforme a lo establecido en la Legislación Militar, se cumplirán a partir del momento en que se le comunique dicho correctivo disciplinario.
+Los arrestos que se impongan al personal en instrucción en calidad de externo serán graduados por el Director del plantel conforme a lo establecido en la legislación militar y se cumplirán a partir del momento en que se le comunique dicho correctivo disciplinario.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 83.
 
-El Director de la Escuela Militar de Ingenieros podrá arrestar hasta por quince días al personal de Cadetes en el interior del plantel.
+El Director del plantel podrá arrestar hasta por 300 puntos de demérito al personal de cadetes en el interior del mismo.
 
 ###### ARTICULO 84.
 
@@ -1065,25 +1423,37 @@ El personal de Cadetes, cumplirá su arresto los sábados y domingos de franquic
 
 La graduación de arrestos impuestos a los Cadetes, se contabilizará con puntos de demérito, los que sirven de base para el control y registro de su conducta; el hecho de acumular 500 (quinientos) durante el ciclo Iectivo, será motivo de baja del plantel, siempre y cuando determine mala conducta el Consejo de Honor.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 86.
 
-Los arrestos impuestos al personal en instrucción, se computarán con 20 puntos de demérito por cada veinticuatro horas.
+Los arrestos impuestos al personal de oficiales en instrucción se computarán con 20 puntos de demérito por cada veinticuatro horas.
 
 ###### ARTICULO 87.
 
 Los cadetes cumplirán su arresto en las semanas laborables de la siguiente manera:
 
-I. A partir de la hora de franquicia del sábado hasta las 24:00 horas del mismo, 10 puntos de demérito;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-II. A partir de la hora de franquicia del sábado hasta las 12:00 horas del domingo, 20 puntos de demérito;
+I. A partir de la hora de franquicia del sábado hasta las 0800 horas del domingo, 20 puntos de demérito;
 
-III. Sin disfrutar la franquicia del sábado y domingo, 30 puntos de demérito; y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-IV. Los arrestos graduados con más de 72 horas, más de 60 puntos, se cumplirán alternando dos fines de semana continuos de reclusión, por uno de franquicia.
+II. De las 0800 horas del domingo hasta la hora que termine la franquicia, 20 puntos de demérito;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Sin disfrutar la franquicia del sábado y domingo, 40 puntos de demérito, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Los arrestos graduados con más de 80 puntos de demérito, se cumplirán alternando dos fines de semana continuos de reclusión por uno de franquicia.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 88.
 
-Los arrestos en días inhábiles correspondientes a semanas no laborables, se cumplirán ininterrumpidamente conforme al cómputo establecido.
+El personal en instrucción en calidad de interno, cumplirá su arresto ininterrumpidamente conforme al cómputo establecido, en días inhábiles correspondientes a semanas no laborables.
 
 ###### ARTICULO 89.
 
@@ -1108,6 +1478,8 @@ El personal en instrucción que ostente grado jerárquico superior al del docent
 ###### ARTICULO 94.
 
 El personal directivo, académico, docente militar, en instrucción, administrativo y de la planta, queda sujeto a lo establecido en las leyes y reglamentos militares.
+
+### CAPITULO II. De la Garantía de Permanencia
 
 ###### ARTICULO 95.
 
@@ -1138,3 +1510,9 @@ D.O.F. 16 DE NOVIEMBRE DE 1994.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JUNIO DE 2001.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
