@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2004-05-08"
+last_updated: "2004-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2004.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -263,9 +263,17 @@ X. No intervenir en los asuntos legislativos, en los que tengan un interés pers
 
 XI. Presentar al menos una iniciativa de ley dentro del tiempo que dure su encargo;
 
-XII. Presentar su declaración de situación patrimonial conforme a las disposiciones legales aplicables; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2004)</small>
 
-XIII. Las demás que le señalen las leyes y disposiciones reglamentarias aplicables.
+XII. Presentar su declaración de situación patrimonial conforme a las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2004)</small>
+
+XIII. Percibir exclusivamente la dieta o remuneración establecida en el Presupuesto de Egresos del Poder Legislativo y de conformidad con la ley, sin que bajo ninguna circunstancia puedan recibir bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación; y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2004)</small>
+
+XIV. Las demás que le señalen las leyes y disposiciones reglamentarias aplicables.
 
 2. El incumplimiento de cualquiera de estas obligaciones, constituye causal de responsabilidad, misma que es sancionada de conformidad con la legislación aplicable.
 
@@ -849,7 +857,7 @@ II. La Fracción parlamentaria con el segundo mejor porcentaje de representació
 
 III. Posteriormente, el resto de las fracciones parlamentarias, seleccionan una comisión siguiendo el orden de acuerdo a su representación en la Asamblea;
 
-IV. En el supuesto que dos o mas fracciones parlamentarias tengan el mismo porcentaje de representación en la Asamblea, se tomará el porcentaje de votación valida estatal obtenido por el partido político en la elección de diputados, para determinar el orden en que corresponde seleccionar comisiones; y
+IV. En el supuesto que dos o más fracciones parlamentarias tengan el mismo porcentaje de representación en la Asamblea, se tomará el porcentaje de votación valida estatal obtenido por el partido político en la elección de diputados, para determinar el orden en que corresponde seleccionar comisiones; y
 
 V. En caso de que faltaren comisiones por seleccionar, se inicia otra ronda en el mismo orden del procedimiento hasta agotarlas.
 
@@ -1181,9 +1189,21 @@ IX. La propuesta ante la Junta de Coordinación Política de la terna para el no
 
 X. La supervisión y coordinación del órgano técnico de Hacienda Pública;
 
-XI. La propuesta a la Asamblea del nombramiento y la remoción de los servidores públicos del órgano técnico de Hacienda Pública; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2004)</small>
 
-XII. Las políticas planes y programas en materia fiscal y hacendaria.
+XI. La propuesta a la Asamblea del nombramiento y la remoción de los servidores públicos del Órgano Técnico de Hacienda Pública;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2004)</small>
+
+XII. La vigilancia de que en el Presupuesto de Egresos del Estado de Jalisco no se realice la incorporación, bajo ninguna circunstancia, de bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración que legalmente deben recibir los servidores públicos, cualquiera que sea su denominación, de conformidad con la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2004)</small>
+
+XIII. La presentación, dentro del proceso de análisis de los presupuestos de egresos respectivos, a la Asamblea de los acuerdos legislativos que contengan las recomendaciones sobre percepciones salariales de los servidores públicos de todas las autoridades del Estado de Jalisco y sus Municipios, a que se refiere la ley estatal en materia de servidores públicos; y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2004)</small>
+
+XIV. Las políticas, planes y programas en materia fiscal y hacendaria.
 
 ###### Artículo 90.
 
@@ -1201,11 +1221,11 @@ I. La legislación en materia de fiscalización;
 
 II. La revisión, examen y fiscalización de las cuentas públicas de los Poderes del Estado, organismos públicos autónomos, descentralizados y desconcentrados; ayuntamientos, sus dependencias y entidades; así como los entes públicos de índole estatal y municipal e instituciones públicas o privadas que administran fondos o valores públicos, incluyendo la aplicación de recursos de origen federal cuando estos formen parte de la respectiva cuenta pública estatal o municipal; así como el Tribunal de Arbitraje y Escalafón;
 
-III. La legislación, actuación, administración, control y vigilancia del órgano técnico de auditoria superior del estado en los términos de la legislación estatal aplicable en la materia;
+III. La legislación, actuación, administración, control y vigilancia del órgano técnico de auditoría superior del estado en los términos de la legislación estatal aplicable en la materia;
 
 IV. La propuesta para el nombramiento y remoción del titular y los directores de la Auditoría Superior del Estado, de conformidad con lo establecido por la legislación estatal aplicable en la materia;
 
-V. La propuesta para el nombramiento y la remoción de los empleados del órgano técnico de auditoria superior del estado;
+V. La propuesta para el nombramiento y la remoción de los empleados del órgano técnico de auditoría superior del estado;
 
 VI. La sustanciación y resolución, en su caso, en los términos de ley de las denuncias e inconformidades que se presenten en contra de la actuación de servidores públicos de la Auditoría Superior del Estado por incumplimiento de la legislación estatal aplicable en la materia;
 
@@ -2476,3 +2496,7 @@ RICARDO RÍOS BOJÓRQUEZ
 P.O. 8 DE MAYO DE 2004.
 
 UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE AGOSTO DE 2004.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco ".
