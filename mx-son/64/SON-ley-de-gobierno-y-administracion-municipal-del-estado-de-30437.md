@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2001-10-15"
+last_updated: "2003-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACION MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ABRIL DE 2003.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -251,9 +251,11 @@ Para los efectos de este precepto, se considera Regidor propietario a aquel que 
 
 Para ser miembro del Ayuntamiento, deberán reunirse los requisitos establecidos por el artículo 132 de la Constitución Política Local y los correspondientes de la Legislación Electoral para el Estado.
 
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2003)</small>
+
 ###### Artículo 27.
 
-Los cargos de Presidente Municipal, Síndico y Regidor de un Ayuntamiento, son obligatorios pero no gratuitos y su remuneración se fijará en el Presupuesto de Egresos del Municipio que al efecto apruebe el Ayuntamiento, atendiendo siempre a los principios de racionalidad, austeridad y disciplina del gasto público Municipal. Estos cargos sólo podrán ser renunciables por causa justificada que calificará el propio Ayuntamiento. En todos los casos conocerá el Congreso del Estado, quien hará la declaratoria correspondiente y proveerá lo necesario para cubrir la vacante.
+Los cargos de Presidente Municipal, Síndico y Regidor de un Ayuntamiento, son obligatorios pero no gratuitos y su remuneración se fijará en el Presupuesto de Egresos del Municipio que al efecto apruebe el Ayuntamiento, atendiendo siempre a los principios de racionalidad, austeridad y disciplina del gasto público Municipal. Estos cargos sólo podrán ser renunciables por causa justificada que calificará el propio Ayuntamiento y aprobará el Congreso del Estado conforme a lo previsto por el Título Quinto de esta Ley.
 
 ###### Artículo 28.
 
@@ -593,7 +595,7 @@ H).- Crear organismos descentralizados y autorizar la constitución de empresas 
 
 I).- Formar y actualizar el catastro municipal, así como prestar todos los servicios inherentes a éste, mediante la dependencia que considere conveniente y conforme a la ley de la materia y al reglamento que, en su caso, expida el Ayuntamiento;
 
-J).- Nombrar y remover, al Secretario del Ayuntamiento, Tesorero Municipal, Jefe de la Policía Preventiva Municipal y al titular del Organo de Control y Evaluación Gubernamental, con arreglo a las disposiciones de esta Ley;
+J).- Nombrar y remover, al Secretario del Ayuntamiento, Tesorero Municipal, Jefe de la Policía Preventiva Municipal y al titular del Órgano de Control y Evaluación Gubernamental, con arreglo a las disposiciones de esta Ley;
 
 K).- Nombrar apoderados y representantes generales o especiales que hagan valer los derechos que correspondan al Municipio, sin perjuicio de las facultades que esta Ley confiere al Síndico Municipal;
 
@@ -1665,17 +1667,23 @@ El Ayuntamiento deberá publicar trimestralmente, un resumen del estado de ingre
 
 Los estados financieros y demás información presupuestal que emane de la contabilidad, serán utilizados por la Tesorería Municipal para la formulación de los avances financieros trimestrales y de la cuenta.
 
-## TITULO QUINTO. DE LAS PROTESTAS, FALTAS, LICENCIAS, RENUNCIAS Y RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL MUNICIPIO
+> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE ABRIL DE 2003)</small>
 
-### CAPITULO UNICO. DE LAS PROTESTAS, FALTAS, LICENCIAS, RENUNCIAS Y RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL MUNICIPIO
+## TITULO QUINTO. DE LAS PROTESTAS, PERMISOS, FALTAS, LICENCIAS, RENUNCIAS Y RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL MUNICIPIO
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE ABRIL DE 2003)</small>
+
+### CAPITULO UNICO. DE LAS PROTESTAS, PERMISOS, FALTAS, LICENCIAS, RENUNCIAS Y RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL MUNICIPIO
 
 ###### Artículo 164.
 
 Ningún funcionario ni empleado municipal podrá encargarse de sus funciones sin haber otorgado previamente la protesta a que se refiere el artículo 157 de la Constitución Política del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE ABRIL DE 2003)</small>
+
 ###### Artículo 165.
 
-El Presidente Municipal podrá ausentarse de la circunscripción territorial del Municipio hasta por treinta días para el arreglo de los asuntos relacionados con la administración municipal sin perder el carácter de tal, observándose las siguientes disposiciones:
+El Presidente Municipal tendrá permiso para ausentarse de la circunscripción territorial del Municipio hasta por treinta días para el arreglo de los asuntos relacionados con la administración municipal sin perder el carácter de tal, observándose las siguientes disposiciones:
 
 I. Si la ausencia no excede de ocho días, el Presidente Municipal no tendrá obligación de dar aviso al Ayuntamiento, en este lapso el Secretario del Ayuntamiento resolverá los asuntos de mero trámite y aquellos que no admitan demora, de acuerdo con las instrucciones que reciba del Presidente Municipal;
 
@@ -1683,13 +1691,17 @@ II. Si la ausencia es mayor de ocho días, sin exceder de quince, el Presidente 
 
 III. Si la ausencia es mayor de quince días, sin exceder de treinta, el Presidente Municipal deberá recabar previamente el permiso del Ayuntamiento y éste designará al Regidor que se encargará del despacho.
 
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2003)</small>
+
 ###### Artículo 166.
 
-Cuando el Presidente Municipal debiera ausentarse por un tiempo mayor de treinta días y siempre que sea por causa justificada, el Ayuntamiento calificará la causa y, en su caso, aprobará por mayoría absoluta la licencia respectiva, debiendo dar aviso inmediato al Congreso del Estado a efecto de que ése provea lo necesario para nombrar, de entre los miembros del Ayuntamiento, a la persona que ejercerá las funciones del Presidente Municipal.
+El Presidente Municipal podrá ausentarse por un tiempo no mayor a noventa días previa solicitud de licencia ante el Ayuntamiento respectivo y siempre que sea por causa justificada ajena a los asuntos relacionados con la administración municipal. En este caso, el Ayuntamiento deberá calificar la causa y, si la estimare procedente, aprobará por mayoría absoluta la licencia respectiva; hecho lo anterior, el Ayuntamiento designará, de entre sus miembros y por mayoría absoluta, a la persona que ejercerá las funciones del Presidente Municipal durante el término concedido en la licencia aprobada.
 
-Cuando el Presidente Municipal debiera ausentarse por un tiempo mayor de treinta días y siempre que sea por causa justificada, el Ayuntamiento calificará la causa y, en su caso, aprobará por mayoría absoluta la licencia respectiva. Transcurrido lo anterior, dentro de los ocho días siguientes, el Ayuntamiento podrá designar, de entre sus miembros y por mayoría absoluta, a la persona que ejercerá las funciones del Presidente Municipal.
+En caso de que el Ayuntamiento no realice la designación a que se refiere el párrafo anterior, el Congreso del Estado o la Diputación Permanente proveerán lo necesario para nombrar, de entre los miembros del Ayuntamiento, a la persona que ejercerá las funciones de Presidente Municipal durante el término concedido en la licencia aprobada.
 
-En caso de que el Ayuntamiento no realice la designación dentro del término mencionado, deberá dar aviso al Congreso del Estado a efecto de que éste provea lo necesario para nombrar, de entre los miembros del Ayuntamiento, a la persona que ejercerá las funciones del Presidente Municipal.
+Los acuerdos aprobados por los Ayuntamientos que deriven del supuesto previsto en el párrafo primero de este artículo deberán ser informados, inmediatamente, al Congreso del Estado por parte del Ayuntamiento respectivo.
+
+El supuesto establecido en el párrafo primero del presente artículo aplicará al Síndico y Regidores del Ayuntamiento, sólo que en ambos casos se llamará para que entren en funciones los suplentes respectivos.
 
 ###### Artículo 167.
 
@@ -1709,13 +1721,21 @@ III. En caso de falta absoluta del Síndico, el Ayuntamiento deberá dar aviso a
 
 De las licencias y renuncias de los Presidentes Municipales, Regidores, Síndicos, Secretarios, Tesoreros, Comisarios, Delegados Municipales y demás servidores públicos de los municipios, conocerán los Ayuntamientos respectivos en los términos de este título.
 
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2003)</small>
+
 ###### Artículo 170.
 
-Las licencias serán siempre serán concedidas sin goce de sueldo y no excederán de cinco días continuos o de quince discontinuos en un año, a excepción del supuesto previsto en el artículo 166 de esta Ley. El Ayuntamiento valorará discrecionalmente las causas o motivos que se invoquen en las solicitudes de las mismas.
+Las licencias serán siempre concedidas sin goce de sueldo.
+
+Las licencias de los demás funcionarios públicos del Ayuntamiento no excederán de cinco días continuos o de quince discontinuos en un año.
 
 ###### Artículo 171.
 
 Las renuncias a los cargos de Presidente Municipal, Síndico y Regidores, solamente procederán por causas justificadas que calificará el Ayuntamiento y aprobará el Congreso del Estado o, en caso de que éste se encuentre en receso, la aprobación recaerá en la Diputación Permanente.
+
+> <small>(ADICIONADO, B.O. 10 DE ABRIL DE 2003)</small>
+
+Al momento de calificar la causa que se invoque en la solicitud de renuncia al cargo de Presidente Municipal, el Ayuntamiento respectivo aprobará la propuesta que hará al Poder Legislativo de la persona que ejercerá las funciones de Presidente Municipal de entre los miembros que integran al propio Ayuntamiento, lo cual deberán comunicar inmediatamente al Poder Legislativo Estatal. El Congreso del Estado o la Diputación Permanente, según sea el caso, al momento de aprobar la renuncia procederá a nombrar a la persona que ejercerá las funciones de Presidente Municipal.
 
 ###### Artículo 172.
 
@@ -1978,6 +1998,10 @@ II. Será postura legal la que cubra la totalidad del precio fijado y los licita
 III. El Síndico Municipal declarará fincado el remate y el Ayuntamiento determinará si procede o no aprobarlo. De aprobarse, el mismo acuerdo ordenará se emita el documento justificativo de propiedad, que tendrá el carácter de escritura pública.
 
 IV. En la diligencia de remate y en cualquier otra formalidad se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 10 DE ABRIL DE 2003)</small>
+
+Los Ayuntamientos podrán autorizar la enajenación directa en forma onerosa fuera de subasta de sus bienes muebles de dominio privado, o bien, proceder a gravarlos, siempre que la necesidad de la medida responda a la obtención de recursos para satisfacer el gasto corriente o para la ejecución de un programa cuyo objetivo esté relacionado con la ejecución de la obra pública o el servicio comunitario, debiendo observar, al efecto, las previsiones del Capítulo Sexto, Título Sexto de esta Ley y al Título Quinto de la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios.
 
 ###### Artículo 203.
 
@@ -3682,3 +3706,11 @@ POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL ESTADO Y SE LE DE EL DEB
 PALACIO DE GOBIERNO, HERMOSILLO, SONORA, DIECISIETE DE SEPTIEMBRE DEL DOS MIL UNO.-
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE ABRIL DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
