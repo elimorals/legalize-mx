@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2003-12-17"
+last_updated: "2004-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
+CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2004.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -191,7 +191,15 @@ ART. 40.- El Oficial del Registro Civil que no cumpla la prevención de remitir 
 
 ART. 41.- Correlativamente a las actas del Registro Civil, se integrará un Apéndice que estará constituído por todos los documentos relacionados con dichas actas.
 
-ART. 42.- Toda persona puede solicitar que se le muestre o se le expida copia certificada de las actas del Registro Civil y de los documentos del Apéndice. El Director y los Oficiales del Registro Civil están obligados a expedirlas o mostrarlas, en su caso.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+ART. 42.- Toda persona puede solicitar que se le muestre o se le expida copia certificada de las actas del Registro Civil y de los documentos del Apéndice. El Director, los Oficiales del Registro Civil y aquellas personas a las que la ley les concede la facultad de autentificarlas, están obligados a expedirlas o mostrarlas, en su caso.
+
+Las copias certificadas de las actas del estado civil de las personas, podrán expedirse por la Dirección del Registro Civil, los Oficiales del Registro Civil, aquéllos a quien la ley les conceda esta facultad o por medio de máquinas despachadoras automatizadas, que permanecerán abiertas las veinticuatro horas del día, todos los días del año.
+
+Las copias certificadas que se expidan contendrán sólo aquellos elementos necesarios que arroje el banco de datos de información digitalizado que tiene implementado la Dirección del Registro Civil.
+
+La certificación de las actas del estado civil podrá autentificarse con firma autógrafa o electrónica. Por firma electrónica se entiende la firma, clave, código o cualquier otra forma de autentificar por medios electrónicos, la autorización del funcionario competente, según el sistema de mecanismos confiables que implemente la Dirección.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2001)</small>
 
@@ -9952,6 +9960,12 @@ P.O. 5 DE DICIEMBRE DE 2002.
 Único.- El presente Decreto entrará en vigor al dia siguiente de su publicación en el Périódico Oficial del Estado.
 
 P.O. 17 DE DICIEMBRE DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE FEBRERO DE 2004.
 
 ###### ARTICULO UNICO.
 
