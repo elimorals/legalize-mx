@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "1991-01-09"
+last_updated: "1995-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MAYO DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -49,6 +49,10 @@ El Escudo, la Bandera y el Himno Nacionales, son los Símbolos Patrios de los Es
 ###### Artículo 2o.
 
 El Escudo Nacional está constituido por un águila mexicana, con el perfil izquierdo expuesto, la parte superior de las alas en un nivel más alto que el penacho y ligeramente desplegadas en actitud de combate; con el plumaje de sustentación hacia abajo tocando la cola y las plumas de ésta en abanico natural. Posada su garra izquierda sobre un nopal florecido que nace en una peña que emerge de un lago, sujeta con la derecha y con el pico, en actitud de devorar, a una serpiente curvada, de modo que armonice con el conjunto. Varias pencas del nopal se ramifican a los lados. Dos ramas, una de encino al frente del águila y otra de laurel al lado opuesto, forman entre ambas un semicírculo inferior y se unen por medio de un listón dividido en tres franjas que, cuando se representa el Escudo Nacional en colores naturales, corresponden a los de la Bandera Nacional.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 1995)</small>
+
+Cuando el Escudo Nacional se reproduzca en el reverso de la Bandera Nacional, el águila mexicana se presentará posada en su garra derecha, sujetando con la izquierda y el pico la serpiente curvada.
 
 Un modelo del Escudo Nacional, autenticado por los tres poderes de la Unión, permanecerá depositado en el Archivo General de la Nación, uno en el Museo Nacional de Historia y otro en la Casa de Moneda.
 
@@ -150,6 +154,12 @@ Aniversario de la promulgación de las Constituciones de 1857 y 1917.
 
 Aniversario de la Proclamación del Plan de Ayutla.
 
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 1995)</small>
+
+15 de marzo.
+
+Apertura del segundo período de sesiones ordinarias del Congreso de la Unión.
+
 18 de marzo:
 
 Aniversario de la Expropiación Petrolera en 1938.
@@ -166,11 +176,7 @@ Día de la Promulgación del Plan de Guadalupe.
 
 Aniversario de la Toma de Puebla en 1867.
 
-> <small>(ADICIONADO, D.O.F. 9 DE ENERO DE 1991)</small>
-
-15 de abril:
-
-Apertura del segundo periodo de sesiones ordinarias del Congreso de la Unión.
+15 de abril: (DEROGADO, D.O.F. 9 DE MAYO DE 1995)
 
 1o. de mayo:
 
@@ -196,7 +202,11 @@ Aniversario de la Toma de Querétaro, por las Fuerzas de la República, en 1867.
 
 Aniversario de la Victoria de las armas nacionales sobre el Imperio en 1867.
 
-1o. de septiembre: (DEROGADO, D.O.F. 9 DE ENERO DE 1991)
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 1995)</small>
+
+1o. de septiembre.
+
+Apertura del primer período de sesiones ordinarias del Congreso de la Unión.
 
 14 de septiembre:
 
@@ -234,11 +244,7 @@ Aniversario del nacimiento de José María Morelos en 1765.
 
 Aniversario del nacimiento de Francisco I. Madero, en 1873.
 
-> <small>(ADICIONADO, D.O.F. 9 DE ENERO DE 1991)</small>
-
-1o. de noviembre:
-
-Apertura del primer periodo de sesiones ordinarias del Congreso de la Unión.
+1o. de noviembre: (DEROGADO, D.O.F. 9 DE MAYO DE 1995)
 
 6 de noviembre:
 
@@ -247,6 +253,12 @@ Conmemoración de la Promulgación del Acta de la Independencia Nacional por el 
 20 de noviembre:
 
 Aniversario del inicio de la Revolución Mexicana en 1910.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 1995)</small>
+
+23 de noviembre.
+
+“Día de la Armada de México”
 
 > <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1991)</small>
 
@@ -418,7 +430,7 @@ El canto, ejecución, reproducción y circulación del Himno Nacional, se apegar
 
 ###### Artículo 39.
 
-Queda estrictamente prohibido alterar la letra o música del Himno Nacional y ejecutarlo total o parcialmente en composiciones o arreglos. Asimismo, se prohíbe cantar o ejecutar el Himno Nacional con fines de publicidad comercial o de índole semejante. Se prohíbe cantar o ejercutar los himnos de otras naciones, salvo autorización expresa del representante diplomático respectivo y de la Secretaría de Gobernación.
+Queda estrictamente prohibido alterar la letra o música del Himno Nacional y ejecutarlo total o parcialmente en composiciones o arreglos. Asimismo, se prohíbe cantar o ejecutar el Himno Nacional con fines de publicidad comercial o de índole semejante. Se prohibe cantar o ejecutar los himnos de otras naciones, salvo autorización expresa del representante diplomático respectivo y de la Secretaría de Gobernación.
 
 ###### Artículo 40.
 
@@ -486,11 +498,19 @@ Además, destinará un sitio destacado en cada Embajada o Consulado para ubicar 
 
 Las autoridades educativas dictarán las medidas para que en todas las instituciones del Sistema Educativo Nacional, se profundice en la enseñanza de la historia y significación de los símbolos patrios. Convocará y regulará, asimismo, en los términos del reglamento correspondiente, concursos nacionales sobre los símbolos patrios de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 1995)</small>
+
+###### Artículo 54 Bis.
+
+Cuando se requiera destruir alguna réplica de la Bandera Nacional, se hará mediante la incineración, en acto respetuoso y solemne, de conformidad con las especificaciones que el reglamento correspondiente determine.
+
 ### CAPITULO SEPTIMO. Competencias y Sanciones
+
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 1995)</small>
 
 ###### Artículo 55.
 
-Compete a la Secretaría de Gobernación vigilar el cumplimiento de esta Ley; en esa función serán sus auxiliares todas las autoridades del país. Queda a cargo de las autoridades educativas vigilar su cumplimiento en los planteles educativos.
+Compete a la Secretaría de Gobernación vigilar el cumplimiento de esta Ley; en esa función serán sus auxiliares todas las autoridades del país. Queda a cargo de las autoridades educativas vigilar su cumplimiento en los planteles educativos. Lo anterior se llevará a cabo de conformidad con los reglamentos correspondientes.
 
 ###### Artículo 56.
 
@@ -606,6 +626,18 @@ Al sonoro rugir del cañón.
 
 La música oficial del Himno Nacional es la siguiente: (N. DE E., PARA CONSULTAR LA MUSICA A QUE REFIERE EL PRESENTE ARTICULO, VEASE D.O.F. 8 DE FEBRERO DE 1984)
 
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 1995)</small>
+
+###### Artículo 59.
+
+En encuentros deportivos de cualquier índole, que se celebren dentro del territorio nacional, el abanderamiento y la ejecución del Himno Nacional, así como el uso de la propia Bandera, se ajustarán a las determinaciones del reglamento respectivo.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 1995)</small>
+
+###### Artículo 60.
+
+Los accesorios en que se reproduzcan, para efectos comerciales, la Bandera o el Himno Nacionales, deberán cumplir con los requisitos que determine el reglamento respectivo, con arreglo a los preceptos de este ordenamiento.
+
 ## TRANSITORIOS
 
 PRIMERO.- Se abroga la Ley sobre las características y el uso del Escudo, la Bandera y el Himno Nacionales, de fecha 23 de diciembre de 1967, publicada en el Diario Oficial de la Federación de fecha 17 de agosto de 1968.
@@ -623,3 +655,13 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 9 DE ENERO DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE MAYO DE 1995.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las réplicas de la Bandera Nacional que existan actualmente en las dependencias de los poderes federales, estatales, municipales, escuelas, institutos de educación públicos y privados, o en poder de particulares, que contengan el escudo nacional en forma distinta a lo preceptuado por el artículo 2o. de esta ley, podrán seguir honrándose hasta que sea necesaria su destrucción, misma que deberá llevarse a cabo como lo indica el artículo 54 Bis.
+
+A partir de la fecha en que entran en vigor las presentes reformas, la elaboración de réplicas de la Bandera Nacional se apegará fielmente a lo preceptuado en esta Ley.
+
+TERCERO.- El Ejecutivo Federal expedirá el reglamento de esta Ley, en el que determinará las atribuciones que corresponden a cada dependencia del gobierno Federal y la coordinación entre éste y los gobiernos del Distrito Federal, los estados y los municipios.
