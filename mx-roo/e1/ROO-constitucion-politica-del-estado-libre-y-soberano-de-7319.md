@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1989-11-09"
+last_updated: "1992-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1992.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -951,9 +951,13 @@ Para el Despacho de los negocios del orden administrativo habrá el número de s
 
 Toda Ley o decreto será refrendada por el Secretario de Gobierno y por el funcionario del ramo relativo.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
 ###### ARTICULO 94.
 
-El Ministerio Público estará a cargo deun (sic) Procurador General de Justicia y del número de agentes que la ley determine.
+La Legislatura Estatal, mediante la Ley o Decreto que al efecto expida, establecerá un Organismo de Protección de los Derechos Humanos, en el marco que otorga el orden jurídico vigente, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier Autoridad o Servidor Público, del Estado o de los Ayuntamientos que violen estos derechos.
+
+Este Organismo formulará recomendaciones públicas autónomas no vinculatorias y denuncias y quejas ante las Autoridades respectivas, y no será competente tratándose de asuntos electos (sic), laborales o jurisdiccionales.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
@@ -1251,17 +1255,23 @@ VI.- MUNICIPIO DE BENITO JUAREZ, con cabecera en Cancún. al norte el paralelo q
 
 VII.- MUNICIPIO DE ISLA MUJERES, con cabecera en la población del mismo nombre: Al norte, el canal de Yucatán. Al sur, el municipio Benito Juárez. Al este, el Mar Caribe. Al oeste, el municipio Lázaro Cárdenas. Comprende las Islas de Mujeres, Contoy y Blanca, islotes y cayos adyacentes a su litoral.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
 ###### ARTICULO 131.
 
 Los municipios se dividirán en:
 
 I.- Cabeceras.
 
-II.- Delegaciones, y
+II.- Alcaldías.
 
-III.- Subdelegaciones.
+III.- Delegaciones y,
 
-La extensión y límites de las delegaciones y subdelegaciones, serán determinadas por el ayuntamiento respectivo.
+IV.- Subdelegaciones.
+
+La subdelegación y límites de las cabeceras, Alcaldías, Delegaciones y Subdelegaciones serán determinados por el Ayuntamiento respectivo en los términos que establezca la Ley Orgánica.
+
+La Ley Orgánica Municipal determinará la forma de integración y elección de los Miembros de las Alcaldías y Titulares de las Delegaciones y Subdelegaciones.
 
 ###### ARTICULO 132.
 
@@ -1463,7 +1473,51 @@ En caso de falta absoluta del Presidente Municipal, la Legislatura del Estado, o
 
 ### CAPITULO VIII. De las Facultades y Obligaciones del Ayuntamiento
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+ARTICULO 136 (SIC).- Son facultades y obligaciones del Ayuntamiento:
+
+I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estatales y municipales.
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
+
+II.- Expedir su Reglamento Interior los Gubernativos y de policía, de acuerdo a las bases normativas establecidas en la Ley Orgánica Municipal.
+
+III.- Convocar a elecciones extraordinarias para cubrir las vacantes de sus miembros en los términos de esta Constitución y de la Ley Electoral.
+
+IV.- Nombrar y remover al secretario y tesorero, a propuesta del presidente municipal.
+
+V.- Conceder licencias a sus miembros hasta por treinta días y convocar a quienes deban suplirlos.
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+VI.- Establecer en el Territorio del Municipio las Alcaldías, Delegacionales y Subdelegacionales necesarias y fijarles sus atribuciones, obligaciones y recursos presupuestales anuales correspondientes.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+VII.- Mantener los servicios de Seguridad Pública y Tránsito Municipal de conformidad al contenido de la Fracción VIII del Artículo 163.
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+VIII.- Remover a los integrantes de las Alcadías (sic) de acuerdo a las disposiciones aplicables.
+
+IX.- Cooperar con las autoridades federales y estatales en las funciones de su competencia y planes de desarrollo dentro del municipio.
+
+X.- Proceder conforme a la Ley sobre Monumentos y Zonas Arqueológicas, Artísticas, e Históricas con auxilio del Instituto correspondiente, para ordenar la suspensión provisional de las obras de restauración y conservación de bienes declarados monumentos, y que se ejecuten sin la autorización o permiso correspondiente.
+
+XI.- Promover el mejoramiento de los servicios y acrecentamiento del patrimonio municipal.
+
+XII.- Formular anualmente su Presupuesto de Egresos.
+
+XIII.- Formular anualmente su proyecto de Ley de Ingresos que será cometido (sic) a aprobación de la Legislatura.
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1981)</small>
+
+XIV.- Rendir a la Legislatura del Estado, la cuenta anual del gasto público, en la forma establecida en la Ley Orgánica Municipal y las disposiciones legales conducentes.
+
+XV.- Promover el desenvolvimiento político, económico, social y cultural de la comunidad.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
 ###### ARTICULO 155.
 
@@ -1661,9 +1715,17 @@ Los Cuerpos de Seguridad Pública y Tránsito de los Municipios, coordinarán su
 
 IX.- Solicitar la autorización del ayuntamiento para ausentarse del municipio por más de quince días.
 
-X.- Vigilar que los delegados y subdelegados cumplan las funciones de su encargo e informar de ello al ayuntamiento, y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
 
-XI.- Las demás que le confieran las disposiciones legales aplicables.
+X.- Convocar dentro de los primeros 120 días de su gestión, en asambleas de vecinos de las comunidades, a la elección directa de los integrantes de las Alcaldías, así como de los Delegados y Subdelegados Municipales que establezca cada Ayuntamiento, de conformidad con lo dispuesto por la Ley Orgánica Municipal.
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+XI.- Vigilar que los integrantes de las Alcaldías, Delegados y Subdelegados de los poblados que integran el Municipio, cumplan las funciones para las que fueron electos e informar de ello al Ayuntamiento y,
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+XII.- Las demás que le confieran las disposiciones legales aplicables.
 
 #### SECCION TERCERA. De los Regidores
 
@@ -1753,13 +1815,17 @@ I.- Secretaría.
 
 II.- Tesorería.
 
-III.- Delegaciones y subdelegaciones municipales.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+III.- Alcaldías, Delegaciones y Subdelegaciones.
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
 
 IV.- De seguridad pública y tránsito y
 
-V.- De readaptación social.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
+V.- Las demás Dependencias y Unidades Descentralizadas que el Ayuntamiento establezca en el reglamento respectivo.
 
 ###### ARTICULO 169.
 
@@ -1944,3 +2010,17 @@ Artículo Segundo.- Los Magistrados del Tribunal Superior de Justicia que se enc
 P.O. 9 DE NOVIEMBRE DE 1989.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 30 DE SEPTIEMBRE DE 1992.
+
+DECRETO QUE REFORMA ART. 94.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 30 DE SEPTIEMBRE DE 1992.
+
+DECRETO QUE REFORMA ARTS. 131, 160, 163 Y 168.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- Dentro de los 10 días a la entrada en vigor de estas reformas, los Ayuntamientos habrán de establecer las primeras Alcaldías Municipales dentro de su circunscripción territorial.
