@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-sistema-nacional-para-el-desarrollo-14251
 country: "mx"
 rank: "estatuto"
 publication_date: "1999-06-01"
-last_updated: "1999-06-01"
+last_updated: "2002-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14251&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-05-17"
 
 ESTATUTO ORGANICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE MARZO DE 2002.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 1 de junio de 1999.
 
@@ -37,17 +37,23 @@ ESTATUTO ORGANICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 ### CAPITULO II: DEL PATRONATO
 
-### CAPITULO III: DE LA JUNTA DE GOBIERNO
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2002)</small>
+
+### CAPITULO III DE LA H. JUNTA DE GOBIERNO
 
 ### CAPITULO IV: DEL DIRECTOR GENERAL
 
-### CAPITULO V: DEL COMISARIO
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2002)</small>
+
+### CAPITULO V DEL COMISARIO PUBLICO
 
 ### CAPITULO VI: DE LAS SUBDIRECCIONES GENERALES
 
 ### CAPITULO VII: DE LA OFICIALIA MAYOR
 
-### CAPITULO VIII: DE LA CONTRALORIA INTERNA
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2002)</small>
+
+### CAPITULO VIII DEL ORGANO INTERNO DE CONTROL
 
 ### CAPITULO IX: DE LAS DIRECCIONES
 
@@ -113,6 +119,8 @@ XXI. Promover dentro de su ámbito de competencia, que las dependencias y entida
 
 XXII. Las demás que establezcan las disposiciones legales aplicables en la materia.
 
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2002)</small>
+
 ###### ARTICULO 3.
 
 Para el despacho de los asuntos de su competencia, el Sistema Nacional para el Desarrollo Integral de la Familia contará con la siguiente estructura orgánica:
@@ -125,19 +133,19 @@ Dirección General
 
 Subdirección General de Atención a Población Vulnerable
 
-Subdirección General de Asistencia e Integración Social
+Subdirección General de Asistencia e Integración
 
-Oficialía Mayor
+Social Oficialía Mayor
 
 Dirección de Asuntos Internacionales
 
 Dirección de Comunicación Social
 
+Dirección de Modelos de Atención
+
 Dirección de Alimentación y Desarrollo Comunitario
 
 Dirección de Protección a la Infancia
-
-Dirección de Modelos de Atención
 
 Dirección de Rehabilitación y Asistencia Social
 
@@ -149,9 +157,9 @@ Dirección de Recursos Materiales y Servicios Generales
 
 Dirección de Programación, Organización y Presupuesto
 
-El Organismo contará con una Contraloría Interna, órgano interno de control, cuyo funcionamiento se regirá conforme a los artículos 23, 24 y 25 del presente Estatuto y las demás disposiciones aplicables.
+El Organismo contará con un órgano interno de control, cuyo funcionamiento se regirá conforme a los artículos 23, 24 y 25 del presente Estatuto y las demás disposiciones aplicables.
 
-Asimismo, el Organismo contará con las unidades subalternas que se establezcan por acuerdo de su Director General, las que deberán contenerse y especificarse en sus correspondientes Manuales de Organización.
+Asimismo, el Organismo contará con las unidades subalternas que se establezcan por acuerdo de su Director General, las que deberán contenerse y especificarse en sus correspondientes manuales de organización.
 
 ###### ARTICULO 4.
 
@@ -187,19 +195,23 @@ El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias qu
 
 ### CAPITULO III. DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2002)</small>
+
 ###### ARTICULO 8.
 
-La Junta de Gobierno estará integrada por el Secretario de Salud, quien la presidirá, por los titulares de las Secretarías de Gobernación, de Hacienda y Crédito Público, de Educación Pública, del Trabajo y Previsión Social, de la Procuraduría General de la República y de los directores generales de la Compañía Nacional de Subsistencias Populares, del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Lotería Nacional para la Asistencia Pública, de Pronósticos para la Asistencia Pública y del propio Organismo.
+La Junta de Gobierno estará integrada por el Secretario de Salud, quien la presidirá, por los titulares de las secretarías de Gobernación, de Hacienda y Crédito Público, de Educación Pública, del Trabajo y Previsión Social, de la Procuraduría General de la República y de los directores generales del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Lotería Nacional para la Asistencia Pública, de Pronósticos para la Asistencia Pública y del propio Organismo.
 
-Los miembros de la Junta de Gobierno serán suplidos por los representantes que al efecto designe cada uno de los miembros propietarios de la misma.
+Los miembros de la H. Junta de Gobierno serán suplidos por los representantes que al efecto designe cada uno de los miembros propietarios de la misma.
 
 ###### ARTICULO 9.
 
 La Junta de Gobierno contará con un Secretario Técnico, designado por la misma a propuesta del Director General del Organismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE MARZO DE 2002)</small>
+
 ###### ARTICULO 10.
 
-Corresponderán a la Junta de Gobierno las siguientes atribuciones:
+Corresponderán a la H. Junta de Gobierno las siguientes atribuciones:
 
 I. Representar al Organismo con las facultades que establezcan las leyes para actos de dominio, de administración y para pleitos y cobranzas;
 
@@ -215,15 +227,25 @@ V. Conocer los informes, dictámenes y recomendaciones del Comisario y del Audit
 
 VI. Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades;
 
-VII. Estudiar y aprobar los proyectos de inversión;
+> <small>(ADICIONADA, D.O.F. 11 DE MARZO DE 2002)</small>
 
-VIII. Conocer de los Convenios de Coordinación que se hayan celebrado con dependencias, entidades públicas y privadas, así como de Convenios de Colaboración con organismos internacionales;
+VII. Aprobar el otorgamiento de donativos;
 
-IX. Conocer de la integración de Comités Internos y grupos de trabajo del Organismo;
+VIII. Estudiar y aprobar los proyectos de inversión;
 
-X. Aprobar los programas de mediano plazo a que quedarán sujetos los servicios de asistencia social que preste el Organismo, con base en las políticas, estrategias y directrices establecidas en el Plan Nacional de Desarrollo y en los Programas Sectoriales, así como las prioridades presupuestales autorizadas; y
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
 
-XI. Las demás que sean necesarias para el ejercicio de las atribuciones anteriores.
+IX. Conocer de los convenios de coordinación que se hayan celebrado con dependencias, entidades públicas y privadas, así como de convenios de colaboración con organismos internacionales;
+
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
+
+X. Conocer de la integración de comités internos y grupos de trabajo del Organismo;
+
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
+
+XI. Aprobar los programas de mediano plazo a que quedarán sujetos los servicios de asistencia social que preste el Organismo, con base en las políticas, estrategias y directrices establecidas en el Plan Nacional de Desarrollo y en los programas sectoriales, así como las prioridades presupuestales autorizadas, y
+
+XII. Las demás que sean necesarias para el ejercicio de las atribuciones anteriores.
 
 ###### ARTICULO 11.
 
@@ -267,7 +289,9 @@ VIII. Informar a la Junta de Gobierno de los convenios de coordinación que cele
 
 IX. Celebrar acuerdos y concertar acciones con los sectores público, social y privado de las entidades federativas y municipales en materia de asistencia social;
 
-X. Pactar con los gobiernos de las entidades federativas y a través de éstos con los municipios, las acciones orientadas a promover e impulsar la prestación de servicios de asistencia social, dentro del marco de los convenios únicos de desarrollo;
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
+
+X.- Pactar con los gobiernos de las entidades federativas y a través de éstos con los municipios, las acciones orientadas a promover e impulsar la prestación de servicios de asistencia social, dentro del marco de los convenios de desarrollo social;
 
 XI. Celebrar los convenios, contratos y demás actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;
 
@@ -293,15 +317,21 @@ XXI. Informar a la Junta de Gobierno de la creación de comités que coadyuven, 
 
 XXII. Las demás que sean necesarias para el ejercicio de las anteriores y las disposiciones legales aplicables.
 
-### CAPITULO V. DEL COMISARIO
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 11 DE MARZO DE 2002)</small>
+
+### CAPITULO V. DEL COMISARIO PUBLICO
+
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2002)</small>
 
 ###### ARTICULO 15.
 
-El Comisario será designado por la Secretaría de Contraloría y Desarrollo Administrativo y fungirá como representante de la misma, ante los órganos de gobierno o internos de control del Organismo.
+El Comisario Público será designado por la Secretaría de Contraloría y Desarrollo Administrativo y fungirá como representante de la misma, ante los órganos de gobierno o internos de control del Organismo.
+
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2002)</small>
 
 ###### ARTICULO 16.
 
-El Comisario tendrá las facultades que le confieren la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, el Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo y demás disposiciones legales aplicables.
+El Comisario Público tendrá las siguientes facultades que le confieren la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales y su Reglamento, el Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, y demás disposiciones legales aplicables.
 
 ### CAPITULO VI. DE LAS SUBDIRECCIONES GENERALES
 
@@ -353,19 +383,21 @@ XVIII. Promover y vigilar que en la atención y resolución de los asuntos de su
 
 XIX. Las demás que les confieran las disposiciones legales y reglamentarias relativas.
 
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2002)</small>
+
 ###### ARTICULO 19.
 
 Corresponderán al Subdirector General de Atención a Población Vulnerable las siguientes facultades:
 
-I. Planear, organizar, dirigir y controlar el desarrollo general de las funciones en materia de asistencia alimentaria, desarrollo familiar y comunitario, protección a la infancia y adolescencia, así como de desarrollo y evaluación de modelos de atención en asistencia social del Organismo;
+I. Planear, organizar, dirigir y controlar el desarrollo general de las funciones en materia de asistencia alimentaria, desarrollo familiar y comunitario, protección a la infancia y adolescencia;
 
-II. Establecer las políticas, estrategias y programas en materia de asistencia alimentaria, desarrollo familiar y comunitario, protección a la infancia y adolescencia y para el desarrollo y evaluación de modelos de atención en asistencia social, a cargo del Organismo;
+II. Establecer las políticas, estrategias y programas en materia de asistencia alimentaria, desarrollo familiar y comunitario, protección a la infancia y adolescencia, a cargo del Organismo;
 
 III. Promover y dirigir los estudios, investigaciones y el desarrollo de programas y acciones en materia alimentaria, de desarrollo familiar y comunitario y de protección y atención a la infancia, bajo la responsabilidad del Organismo;
 
 IV. Dirigir los proyectos y estudios de investigación orientados a censar los recursos con que cuenta el país, en las materias asistenciales de su competencia y promover su óptimo y racional aprovechamiento en beneficio de la población sujeta de atención;
 
-V. Concertar y coordinar los programas bajo su responsabilidad con los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia;
+V. Concertar y coordinar los programas bajo su responsabilidad con los sistemas estatales y municipales para el Desarrollo Integral de la Familia;
 
 VI. Participar en coordinación con instituciones públicas, privadas y sociales en programas asistenciales en materia alimentaria, de desarrollo familiar y comunitario, así como de protección y atención a menores y adolescentes, en que intervengan;
 
@@ -373,23 +405,15 @@ VII. Impulsar la organización social y comunitaria para la ejecución de progra
 
 VIII. Coordinar la participación del Organismo en los programas y acciones de ayuda a personas en condiciones de emergencia, afectadas por casos de desastre;
 
-IX. Dirigir las políticas y programas institucionales dirigidos a la atención de menores en edad temprana y adolescentes, así como aquellos relacionados con el conocimiento, defensa y difusión de sus derechos;
+IX. Dirigir las políticas y programas institucionales enfocados a la atención de menores en edad temprana y adolescentes, así como aquéllos relacionados con el conocimiento, defensa y difusión de sus derechos;
 
 X. Conducir las políticas y el desarrollo de los programas del Organismo, dirigidos a la prevención de riesgos sociales y a la atención de las diversas problemáticas que enfrentan la infancia y la adolescencia en situación vulnerable;
 
 XI. Promover las actividades recreativas, culturales y deportivas en favor de menores y adolescentes en riesgo, que coadyuven a su desarrollo e integración familiar;
 
-XII. Conducir las estrategias, investigaciones y programas dirigidos al diseño, desarrollo e instrumentación de modelos de atención en asistencia social, así como las de capacitación y evaluación operativa de los mismos;
+XII. Proponer a la Secretaría de Salud, a través del Director General, normas en materia de asistencia alimentaria, desarrollo familiar y comunitario, protección y atención a menores y adolescentes, y
 
-XIII. Dirigir las estrategias, mecanismos e instrumentos para la evaluación del desempeño e impacto de los modelos de atención en asistencia social que se encuentren en operación, sobre la población vulnerable beneficiaria de su aplicación;
-
-XIV. Alentar la participación de las diversas áreas que integran el Organismo, así como de los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia en los trabajos de diseño, desarrollo e instrumentación de modelos de atención en asistencia social;
-
-XV. Sancionar la integración y difusión del Directorio Nacional de Instituciones y Beneficiarios de Asistencia Social, así como la conformación, funcionamiento y divulgación del Centro Nacional de Documentación en Asistencia Social a cargo del Organismo;
-
-XVI. Proponer a la Secretaría de Salud, a través del Director General, normas en materia de asistencia alimentaria, desarrollo familiar y comunitario, protección y atención a menores y adolescentes, así como para la aplicación y evaluación de modelos de atención en asistencia social; y
-
-XVII. Las demás que le confiera expresamente el Director General del Organismo.
+XIII. Las demás que le confiera expresamente el Director General del Organismo.
 
 ###### ARTICULO 20.
 
@@ -415,7 +439,7 @@ IX. Instrumentar programas integrales de rehabilitación y asistencia social a n
 
 X. Investigar las necesidades y recursos nacionales en materia de rehabilitación y asistencia jurídica social y proponer normas sobre las condiciones materiales, personales, científicas y tecnológicas, que deban cumplir los establecimientos públicos y privados que presten este tipo de servicios para su debido funcionamiento;
 
-XI. Dictaminar respecto del objeto social y la actividad que realizan las asociaciones sociales, civiles e instituciones privadas y/o todo tipo de instituciones privadas cuyo objeto sea la prestación de servicios susceptibles de ser considerados de asistencia social, para la obtención de la autorización hacendaria para recibir donativos deducibles de impuesto;
+XI. Dictaminar respecto del objeto social y la actividad que realizan las asociaciones sociales, civiles e instituciones privadas y/o todo tipo de instituciones privadas cuyo objeto sea la prestación de servicios susceptibles de ser considerados de asistencia social, para la obtención de la autorización hacendaría para recibir donativos deducibles de impuesto;
 
 XII. Instrumentar los sistemas de información sobre los servicios con que cuenta el país en materia de rehabilitación, servicios asistenciales y asistencia jurídica; y
 
@@ -485,23 +509,27 @@ XXV. Promover y vigilar que en la atención y resolución de los asuntos de su c
 
 XXVI. Las demás que le confiera el Director General y las que le señalen las disposiciones legales y reglamentarias relativas.
 
-### CAPITULO VIII. DE LA CONTRALORIA INTERNA
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 11 DE MARZO DE 2002)</small>
+
+### CAPITULO VIII. DEL ORGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2002)</small>
 
 ###### ARTICULO 23.
 
-La Contraloría Interna actuará y ejercerá sus facultades teniendo por objeto apoyar la función directiva y promover el mejoramiento de la gestión del Organismo, manteniendo un adecuado nivel de coordinación con las distintas unidades administrativas que conforman su estructura orgánica y desarrollando sus funciones conforme a los lineamientos emitidos por la Secretaría de Contraloría y Desarrollo Administrativo.
+El Organo Interno de Control actuará y ejercerá sus facultades teniendo por objeto apoyar la función directiva y promover el mejoramiento de la gestión del Organismo, manteniendo un adecuado nivel de coordinación con las distintas unidades administrativas que conforman su estructura orgánica y desarrollando sus funciones conforme a los lineamientos emitidos por la Secretaría de Contraloría y Desarrollo Administrativo.
 
-> <small>(F. DE E., D.O.F. 18 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2002)</small>
 
 ###### ARTICULO 24.
 
-El Contralor Interno del Organismo será designado conforme a lo establecido en la Ley Orgánica de la Administración Pública Federal y en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de Auditoría, Quejas y Responsabilidades designados en los mismos términos.
+El Titular del Organo Interno de Control será designado conforme a lo establecido a la Ley Orgánica de la Administración Pública Federal y en el ejercicio de sus facultades se auxiliará por los titulares de las áreas de Auditoría Interna, de Auditoría de Control y Evaluación, de Responsabilidades y de Quejas designados en los mismos términos.
 
-> <small>(F. DE E., D.O.F. 18 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2002)</small>
 
 ###### ARTICULO 25.
 
-Los servidores públicos a que se refiere el artículo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el artículo 26 fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+Los servidores públicos a que se refiere el artículo anterior, en el ámbito de sus respectivas competencias ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el artículo 47 fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
 
 ### CAPITULO IX. DE LAS DIRECCIONES
 
@@ -567,7 +595,9 @@ VII. Emitir opinión de los acuerdos en materia de asistencia social, de caráct
 
 VIII. Representar al Director General ante organismos financieros internacionales participantes en el desarrollo de proyectos de asistencia social, conjuntamente con el Oficial Mayor;
 
-IX. Concertar la participación del Organismo en congresos, conferencias y congresos internacionales de carácter binacional o multilateral y coordinar la participación de organismos e instituciones internacionales en reuniones y eventos de dicho carácter, promovidos por el Organismo; y
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
+
+IX.- Concertar la participación del Organismo en conferencias y congresos nacionales e internacionales de carácter binacional o multilateral y coordinar la participación de organismos e instituciones internacionales en reuniones y eventos de dicho carácter, promovidos por el Organismo, y
 
 X. Las demás que le confiera su superior jerárquico y las disposiciones legales aplicables.
 
@@ -597,11 +627,15 @@ X. Mantener coordinación y comunicación permanente con los medios de comunicac
 
 XI. Las demás que le confiera su superior jerárquico y las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE MARZO DE 2002)</small>
+
 ###### ARTICULO 30.
 
-Corresponderán al Director de Alimentación y Desarrollo Comunitario las siguientes facultades:
+Corresponderán al Director de Modelos de Atención las siguientes facultades:
 
-I. Establecer las políticas en materia alimentaria y de desarrollo familiar y comunitario del Organismo;
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
+
+I.- Establecer y ejecutar las políticas en materia de diseño, desarrollo, capacitación y evaluación de modelos de atención en asistencia social;
 
 II. Conducir estudios e investigaciones para la detección, registro y diagnóstico de población vulnerable sujeta a la aplicación de programas y modelos de asistencia alimentaria, desarrollo familiar y comunitario;
 
@@ -635,9 +669,11 @@ XVI. Vigilar la debida aplicación de recursos federales en los programas de asi
 
 XVII. Las demás que le confieran su superior jerárquico y las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE MARZO DE 2002)</small>
+
 ###### ARTICULO 31.
 
-Corresponderán al Director de Protección a la Infancia las siguientes facultades:
+Corresponderán al Director de Alimentación y Desarrollo Comunitario las siguientes facultades:
 
 I. Establecer las políticas y lineamientos en materia de atención y prevención de riesgos sociales de la infancia y la adolescencia en situación vulnerable y en circunstancias difíciles;
 
@@ -663,23 +699,31 @@ XI. Proporcionar apoyo a las autoridades competentes en la instrumentación, eva
 
 XII. Coordinar el desarrollo del Programa Nacional de Acción en Favor de la Infancia, así como la participación de las dependencias federales y estatales, involucradas en el Capítulo de Menores en Circunstancias Especialmente Difíciles;
 
-XIII. Coordinar las acciones de evaluación y seguimiento de los programas y compromisos que se establezcan en el marco de la cooperación con UNICEF, en el ámbito de la atención de menores y adolescentes en riesgo;
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
+
+XIII.- Proponer la celebración de acuerdos y convenios con los sistemas estatales y municipales para el Desarrollo Integral de la Familia para la implementación de programas de asistencia social alimentaria y de desarrollo familiar y comunitario;
 
 XIV. Proponer la celebración de acuerdos y convenios con los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia, para la implementación de programas de asistencia social en materia de infancia y adolescencia;
 
 XV. Intervenir en el diseño de modelos de atención de carácter integral orientados a la protección, atención y prevención de riesgos sociales de la infancia y la adolescencia, e instrumentar su aplicación;
 
-XVI. Concertar esfuerzos y acciones con dependencias e instituciones públicas, privadas y sociales, dedicadas a la asistencia social para la infancia y la adolescencia;
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
+
+XVI.- Vigilar la debida aplicación de recursos federales en los programas de asistencia social alimentaria y de desarrollo familiar y comunitario a los que se encuentran destinados, y
 
 XVII. Vigilar la debida aplicación de recursos federales en los programas de asistencia social para la infancia a los que se encuentran destinados; y
 
 XVIII. Las demás que le confieran su superior jerárquico y las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE MARZO DE 2002)</small>
+
 ###### ARTICULO 32.
 
-Corresponderán al Director de Modelos de Atención las siguientes facultades:
+Corresponderán al Director de Protección a la Infancia las siguientes facultades:
 
-I. Establecer y ejecutar las políticas en materia de diseño, desarrollo, capacitación y evaluación de modelos de atención en asistencia social a población vulnerable;
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
+
+I.- Establecer y ejecutar las políticas y lineamientos en materia de atención y prevención de riesgos sociales de la infancia y la adolescencia en situación vulnerable y en circunstancias difíciles;
 
 II. Establecer las normas técnicas de carácter interno para el desarrollo, operación y evaluación de modelos de atención en asistencia social, a que deben sujetarse las áreas que integran el Organismo y realizar su actualización y difusión;
 
@@ -695,7 +739,9 @@ VII. Coordinar la participación de las áreas que integran el organismo en los 
 
 VIII. Realizar las acciones de capacitación dirigidas al personal de las diversas áreas del Organismo y de los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia, para la instrumentación y aplicación de los modelos de atención aprobados;
 
-IX. Divulgar los modelos de atención en asistencia social del Organismo, a nivel interno y externo;
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
+
+IX. Instrumentar y promover acciones de difusión y defensa de los derechos de los menores, orientadas a cimentar una cultura de respeto, tolerancia y protección hacia la población infantil, en el marco de la Convención sobre los Derechos del Niño, con la participación de los distintos sectores de la asistencia social;
 
 X. Establecer y operar estrategias e instrumentos para evaluar el impacto y el desempeño de los modelos de atención en asistencia social en operación, sobre los grupos de población beneficiarios de su aplicación;
 
@@ -709,9 +755,11 @@ XIV. Concertar esfuerzos y acciones con dependencias e instituciones públicas, 
 
 XV. Las demás que le confieran su superior jerárquico y las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE MARZO DE 2002)</small>
+
 ###### ARTICULO 33.
 
-Corresponderán al Director de Rehabilitación y Asistencia Social, las siguientes facultades:
+Corresponderán al Director de Rehabilitación y Asistencia Social las siguientes facultades:
 
 I. Establecer las políticas y estrategias en materia de prevención de discapacidad, de rehabilitación integral y servicios asistenciales conexos;
 
@@ -721,7 +769,9 @@ III. Integrar y proponer normas oficiales en materia de prevención de discapaci
 
 IV. Integrar y proponer normas para el funcionamiento de establecimientos públicos y privados que proporcionen servicios de rehabilitación a discapacitados;
 
-V. Administrar y operar las unidades de rehabilitación y centros asistenciales del Organismo, concertando acciones de apoyo y coordinación con los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
+
+V. Administrar y coordinar la operación de las unidades de rehabilitación y centros asistenciales del Organismo, concertando acciones de apoyo y coordinación con los sistemas estatales y municipales para el Desarrollo Integral de la Familia;
 
 VI. Promover y concertar con los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia, el establecimiento de unidades operativas de rehabilitación y centros de asistencia social;
 
@@ -747,7 +797,9 @@ XV. Las demás que le confieran su superior jerárquico y las disposiciones lega
 
 Corresponderán al Director de Asistencia Jurídica las siguientes facultades:
 
-I. Establecer el marco jurídico de las políticas en materia de asistencia jurídica social, en apego a la legislación aplicable;
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
+
+I. Establecer un marco jurídico de las políticas en materia de asistencia jurídica social, en apego a la legislación aplicable;
 
 II. Proporcionar asesoría jurídica y patrocinar en los juicios en materia de derecho familiar, a los sujetos de asistencia social;
 
@@ -781,7 +833,9 @@ XVI. Actuar como Apoderado General para pleitos y cobranzas del Organismo, ante 
 
 XVII. Formular denuncias y querellas ante las Procuradurías General de la República, General de Justicia del Distrito Federal y de las entidades federativas, sobre hechos que pudieran ser constitutivos de delito y que afecten al funcionamiento del Organismo, así como a su patrimonio;
 
-XVIII. Llevar a cabo los actos que requieran la regularización, legislación, adquisición y enajenación de bienes inmuebles del Organismo;
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
+
+XVIII.- Llevar a cabo los actos que requieran la regularización, legalización, adquisición y enajenación de bienes inmuebles del Organismo;
 
 XIX. Establecer y operar los sistemas de información de las actividades y servicios que en materia jurídica presten el Organismo y los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia;
 
@@ -805,7 +859,9 @@ IV. Tramitar las altas, nombramientos, licencias, cambios de adscripción, movim
 
 V. Administrar las estructuras de puestos y de sueldos y salarios del Organismo y aplicar los sistemas de estímulos y recompensas determinados por ley y sus Condiciones Generales de Trabajo;
 
-VI. Operar el sistema de nómina para el pago de remuneraciones y aplicación de descuentos al personal;
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
+
+VI.- Conducir la ejecución de las obras y programas de adaptación, mantenimiento y conservación de los equipos, e inmuebles propiedad del Organismo, y mantener actualizado su inventario;
 
 VII. Determinar los importes derivados de las deducciones y retenciones al personal efectuadas por el Organismo y coordinar su entero en favor de terceros a los que les correspondan;
 
@@ -821,9 +877,13 @@ XII. Determinar las sanciones al personal acreedor a las mismas en estricto apeg
 
 XIII. Intervenir en los estudios de organización que impliquen la modificación y/o cambios de la estructura orgánica del Organismo;
 
-XIV. Aplicar, en el ejercicio de sus atribuciones, los lineamientos y políticas dictadas por el Oficial Mayor; y
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
 
-XV. Las demás que le confieran el Oficial Mayor y las disposiciones legales aplicables.
+XIV. Aplicar, en el ejercicio de sus atribuciones, los lineamientos y políticas dictadas por la Oficialía Mayor; y
+
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
+
+XV. Las demás que le confieran la Oficialía Mayor y las disposiciones legales aplicables.
 
 ###### ARTICULO 36.
 
@@ -849,9 +909,13 @@ IX. Instrumentar y operar las políticas, sistemas y procedimientos para la pres
 
 X. Establecer y operar los planes y programas de Protección Civil del Organismo, en coordinación con las diversas áreas e instituciones involucradas;
 
-XI. Aplicar, en el ejercicio de sus atribuciones, los lineamientos y políticas dictadas por el Oficial Mayor; y
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
 
-XII. Las demás que le confieran el Oficial Mayor y las disposiciones legales aplicables.
+XI. Aplicar, en el ejercicio de sus atribuciones, los lineamientos y políticas dictadas por la Oficialía Mayor; y
+
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
+
+XII. Las demás que le confieran la Oficialía Mayor y las disposiciones legales aplicables.
 
 ###### ARTICULO 37.
 
@@ -887,9 +951,13 @@ XIV. Administrar los sistemas de planeación, operación, registro y control de 
 
 XV. Establecer las previsiones presupuestales y el control de los compromisos de pago del Organismo y realizar su liquidación conforme a las disponibilidades presupuestarias existentes;
 
-XVI. Aplicar en el ejercicio de sus atribuciones, los lineamientos y políticas dictadas por el Oficial Mayor; y
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
 
-XVII. Las demás que le confieran el Oficial Mayor y las disposiciones legales aplicables.
+XVI. Aplicar en el ejercicio de sus atribuciones, los lineamientos y políticas dictadas por la Oficialía Mayor; y
+
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2002)</small>
+
+XVII. Las demás que le confieran la Oficialía Mayor y las disposiciones legales aplicables.
 
 ### CAPITULO X. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
@@ -901,11 +969,11 @@ Durante la ausencia del Director General del Organismo, el despacho y resolució
 
 Durante la ausencia de los Subdirectores Generales y del Oficial Mayor, serán suplidos por los Directores adscritos a sus correspondientes áreas de responsabilidad, conforme a la competencia de los asuntos.
 
-> <small>(F. DE E., D.O.F. 18 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2002)</small>
 
 ###### ARTICULO 40.
 
-Las ausencias del Contralor Interno, así como de los titulares de las áreas de responsabilidades, auditoría y quejas serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+Las ausencias y vacantes del Titular del Organo Interno de Control, así como de los titulares de las áreas de Auditoría Interna, de Auditoría de Control y Evaluación, y de Responsabilidades y de Quejas, se sujetarán a lo previsto en el Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
 
 ###### ARTICULO 41.
 
@@ -938,3 +1006,19 @@ ACUERDOS
 "Los integrantes de la H. Junta de Gobierno aprueban por unanimidad la Propuesta de Reestructuración Orgánica - Funcional y el proyecto del nuevo Estatuto Orgánico del Sistema Nacional DIF, presentados por su Director General, doy fe.- México, Distrito Federal, a dieciocho de diciembre del mil novecientos noventa y ocho. La Secretaria Técnica, Dra. Elva Leonor Cárdenas Miranda.
 
 "Los integrantes de la H. Junta de Gobierno se dan por enterados de la aprobación de la Propuesta de Reestructuración Orgánica - Funcional y el Proyecto del nuevo Estatuto Orgánico del Sistema Nacional DIF, presentado por su Director General y en consecuencia, aprueban por unanimidad su publicación en el Diario Oficial de la Federación, doy fe.- México, Distrito Federal, a diecisiete de mayo de mil novecientos noventa y nueve. La Secretaria Técnica, Elva Leonor Cárdenas Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 11 DE MARZO DE 2002.
+
+N. DE E.: POR SU IMPORTANCIA SE TRANSCRIBE EL ARTICULO TERCERO DEL DECRETO DE REFORMAS AL PRESENTE ESTATUTO.
+
+###### ARTICULO TERCERO.
+
+En los artículos 35 fracciones XIV y XV; 36 fracciones XI y XII; y 37 fracciones XVI y XVII donde se hace referencia al Oficial Mayor, se deberá sustituir por "la Oficialía Mayor"; así mismo en todo el texto del Estatuto, cuando se mencione al Organo Superior de Gobierno del Organismo, deberá considerarse como "H. Junta de Gobierno".
+
+## TRANSITORIOS
+
+PRIMERO. El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los asuntos pendientes a la entrada en vigor de este Estatuto, que conforme al mismo deben transferirse de un área administrativa a otra, continuarán su trámite y serán resueltos por aquéllas a las que se les haya atribuido la competencia correspondiente.
