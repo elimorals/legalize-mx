@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-poder-judicial-del-estado-de-sinaloa-6639"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-10"
-last_updated: "2000-06-30"
+last_updated: "2004-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 10 de abril de 1995.
 
@@ -127,9 +127,11 @@ La extensión territorial de cada uno de estos Distritos Judiciales es la del Mu
 
 Las cabeceras de dichos Distritos Judiciales serán las poblaciones de: Los Mochis, El Fuerte, Choix, Guasave, Sinaloa de Leyva, Angostura, Guamúchil, Mocorito, Badiraguato, Culiacán, Navolato, La Cruz, Cosalá, San Ignacio, Mazatlán, Concordia, El Rosario y Escuinapa, respectivamente, y en ellas residirán los Juzgados de Primera Instancia.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 17.
 
-Los Juzgados de Primera Instancia ejercerán jurisdicción en todo el territorio del Distrito Judicial de su residencia.
+Los Juzgados de Primera Instancia ejercerán jurisdicción en todo el territorio del Distrito Judicial de su residencia y, en su caso, en los que fijen las leyes.
 
 ###### ARTICULO 18.
 
@@ -393,9 +395,11 @@ Los Actuarios de las Salas lo serán también del Pleno.
 
 ### CAPITULO VII. DE LAS SALAS DE CIRCUITO
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 36.
 
-Las Salas de Circuito serán competentes para conocer de los recursos que procedan en contra de las resoluciones distintas de sentencias definitivas que dicten los Jueces de Primera Instancia Penales, Civiles o Familiares.
+Las Salas de Circuito serán competentes para conocer de los recursos que procedan en contra de las resoluciones distintas de sentencias definitivas que dicten los Jueces de Primera Instancia Penales, Civiles o Familiares, así como de los que se interpongan en contra de las resoluciones que dicten los Jueces de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito.
 
 ###### ARTICULO 37.
 
@@ -517,9 +521,11 @@ Para ser Secretario y Actuario de Juzgado de Primera Instancia se requieren los 
 
 En cada Distrito Judicial habrá el número de Juzgados de Primera Instancia que determine el Pleno del Supremo Tribunal de Justicia, conforme a las necesidades del servicio judicial.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 52.
 
-El Pleno del Supremo Tribunal de Justicia fijará la competencia penal, civil o familiar de dichos Juzgados. En los Distritos Judiciales en que haya un solo Juzgado de Primera Instancia, éste conocerá tanto de asuntos del orden penal, civil y familiar.
+El Pleno del Supremo Tribunal de Justicia fijará la competencia penal, civil, familiar o de vigilancia de la ejecución de las consecuencias jurídicas del delito de dichos Juzgados. En los Distritos en que haya un solo Juzgado de Primera Instancia, éste conocerá tanto de asuntos del orden penal, civil y familiar; los asuntos del orden de vigilancia de las consecuencias jurídicas del delito, sólo serán conocidos por los Juzgados de ese ramo.
 
 ###### ARTICULO 53.
 
@@ -562,6 +568,28 @@ V.- De las cuestiones relativas a los asuntos que afecten en sus derechos de per
 Los registros que se lleven en los Juzgados de lo Familiar, en que consten los discernimientos que se hicieren de los cargos de tutor y curador, estarán a disposición del Consejo de Tutelas o de la institución que se encargue de ello.
 
 En los Distritos Judiciales en que no exista Juzgado de lo Familiar, los Jueces de Primera Instancia Civiles o Mixtos, conocerán de los asuntos previstos en este artículo.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2004)</small>
+
+###### ARTICULO 55 Bis.
+
+Los Juzgados de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito, tendrán las atribuciones siguientes:
+
+I. Declarar la extinción de las consecuencias jurídicas del delito, cuando proceda en los términos previstos por el Código Penal, de conformidad con las disposiciones jurídicas aplicables;
+
+II. Conocer y resolver los incidentes y recursos a que se refiere la Ley de Ejecución de las Consecuencias Jurídicas del Delito, o los que se regulen en otras disposiciones jurídicas de la materia;
+
+III. Resolver sobre las propuestas de otorgamiento de la libertad preparatoria que formule el Director de Prevención y Readaptación Social;
+
+IV. Resolver sobre el pedimento que formulen los sentenciados en el caso previsto por el artículo 528 del Código de Procedimientos Penales;
+
+V. Vigilar que no haya en los centros de ejecución de la pena de prisión, persona alguna internada en forma ilegal;
+
+VI. Autorizar permisos de salida, en los términos previstos por la Ley de la materia;
+
+VII. Resolver sobre las solicitudes de rehabilitación de derechos, funciones o empleo, en los términos del Código Penal y la Ley de Ejecución de las Consecuencias Jurídicas del Delito; y
+
+VIII. Las demás que les encomienden las leyes y disposiciones jurídicas aplicables.
 
 ###### ARTICULO 56.
 
@@ -618,6 +646,10 @@ Cuando un Juez de Primera Instancia del orden Familiar tenga impedimento legal p
 Cuando el Juez de Primera Instancia del orden Penal tenga impedimento legal para conocer determinado negocio, conocerá del asunto el otro que ejerza jurisdicción en el mismo Ramo; en defecto de éste, el Juez del Ramo Civil y a falta o impedimento de éste, el Juez de Primera Instancia del Ramo Familiar, siguiendo siempre el orden numérico.
 
 Si persiste el impedimento, el competente será el Juez del Distrito Judicial a cuya cabecera exista comunicación más rápida, correspondiendo conocer en primer término al de la materia de que se trate, atendiéndose al orden numérico como en los casos anteriores.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2004)</small>
+
+Cuando un Juez de Primera Instancia de Vigilancia de las Consecuencias Jurídicas del Delito tenga impedimento legal para conocer determinado negocio, conocerá del asunto un Juez de Primera Instancia del Ramo Penal del Distrito Judicial en que aquél tenga su asiento, siguiendo el orden numérico.
 
 ###### ARTICULO 63.
 
@@ -1070,3 +1102,9 @@ P.O. 30 DE JUNIO DE 2000.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 2 DE ENERO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
