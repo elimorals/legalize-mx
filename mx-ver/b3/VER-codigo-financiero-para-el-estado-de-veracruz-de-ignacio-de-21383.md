@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2002-07-04"
+last_updated: "2002-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2002.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -734,6 +734,10 @@ III. Difundir, a través de los diversos medios de comunicación disponibles, la
 IV. Publicar anualmente las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; asimismo podrá publicar aisladamente aquellas disposiciones cuyos efectos se limitan a períodos inferiores a un año, y
 
 V. Celebrar reuniones o audiencias periódicas con las organizaciones y síndicos de los contribuyentes.
+
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+Asimismo, asesorará por conducto de la Procuraduría Fiscal, a las dependencias, entidades, ayuntamientos y contribuyentes, en la interpretación y aplicación de las disposiciones del presente Código, cuando así lo soliciten por escrito y cumpliendo las demás formalidades del caso.
 
 ## TÍTULO CUARTO. DE LAS INFRACCIONES Y SANCIONES FISCALES
 
@@ -3235,7 +3239,9 @@ La Secretaría será la encargada de efectuar las previsiones de ingresos, en la
 
 Las unidades presupuestales remitirán sus respectivos proyectos de presupuesto a la Secretaría con sujeción a las normas y estimaciones financieras que el Gobernador del Estado establezca por conducto de la Secretaría.
 
-Los Poderes y los Organismos Autónomos elaborarán sus proyectos de presupuesto, y conforme a sus propios programas operativos, tomando en consideración los lineamientos y estimaciones económicas que emita la Secretaría, los cuales remitirán dentro de los cinco primeros días hábiles del mes de noviembre de cada año.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+Los Poderes y los Organismos autónomos remitirán a la Secretaría, dentro de los quince primeros días hábiles del mes de noviembre, sus proyectos anuales de presupuesto, elaborados conforme a sus propios programas operativos y los lineamientos y estimaciones económicas que emita la Secretaría.
 
 La Secretaría queda facultada para formular el proyecto de presupuesto de las unidades presupuestales cuando no sea presentado en los plazos señalados al efecto.
 
@@ -3453,19 +3459,21 @@ Los órganos de gobierno de las entidades reportarán en tiempo y forma a la Sec
 
 El Ejecutivo del Estado podrá ordenar las modificaciones presupuestales de las entidades no incorporadas al presupuesto estatal, mismas que informarán a la Secretaría los cambios efectuados.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 185.
 
-En cada dependencia y entidad habrá una unidad administrativa encargada de la atención de los asuntos relacionados con los recursos humanos, financieros y materiales asignados. El titular de cada una de dichas unidades administrativas deberá contar con título profesional de las Licenciaturas en derecho, contaduría pública, administración o economía, expedido por autoridad o institución legalmente facultada para ello, y cumplir con los demás requisitos que establezca la Ley.
+Corresponde a las respectivas unidades administrativas de los Poderes Legislativo y Judicial y de los Organismos Autónomos de Estado, en el ejercicio del gasto público, presupuestar, programar, ejercer y registrar los recursos financieros, humanos y materiales que tengan asignados, de conformidad con lo dispuesto por este Código, sus correspondientes leyes y demás disposiciones aplicables. Dichas unidades administrativas tendrán, en lo conducente las responsabilidades que para éstas dispone el artículo siguiente:
 
 Cuando, por la naturaleza de las funciones que correspondan a la dependencia, o cuando el volumen de las operaciones, lugar en donde se efectúe el gasto o por existir circunstancias especiales, se requiera la existencia de coordinaciones administrativas para determinadas áreas, el titular de la dependencia correspondiente determinará su instalación, previo acuerdo con el Gobernador del Estado.
 
 Para el ejercicio del gasto público, las coordinaciones administrativas tendrán las mismas facultades que la unidad administrativa, salvo las que se señalen como exclusivas de esta última.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
 ###### Artículo 186.
 
-Corresponde a las unidades administrativas en el ejercicio del gasto público:
+Los respectivos titulares de las unidades administrativas en las dependencias centralizadas o entidades paraestatales de su adscripción, serán responsables del ejercicio del gasto público asignado a la dependencia o entidad de que se trate de conformidad con lo dispuesto por la Ley Orgánica del Poder Ejecutivo, este Código y demás disposiciones aplicables para lo cual contarán con las siguientes responsabilidades en el ejercicio del gasto público.
 
 I. Organizar y dirigir, por acuerdo del titular de la dependencia, las actividades administrativas de la dependencia o entidad;
 
@@ -4801,7 +4809,9 @@ En el Registro Público de Deuda Estatal se inscribirán los siguientes datos:
 
 I. Las características de la operación de endeudamiento, identificando el sujeto crédito, las obligaciones contraídas, el objeto, plazos, montos, garantías y, en su caso, el aval;
 
-II. El grado de prelación y la fecha de inscripción de la obligación consignada;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+II. La fecha de inscripción de la obligación consignada en el documento que formalice la operación de endeudamiento;
 
 III. La fecha de publicación de la Gaceta Oficial del Estado en donde conste la autorización del Congreso;
 
@@ -4811,7 +4821,7 @@ V. Las fechas de autorización de los órganos de gobierno, tratándose de entid
 
 VI. La cancelación de las inscripciones cuando se acredite el cumplimiento de las obligaciones.
 
-El grado de prelación y la fecha de inscripción de la obligación consignada en el Registro Público de Deuda Estatal, otorgará preferencia a los acreditantes sobre los acreditados para efectos de exigibilidad en el pago de las obligaciones contraídas de acuerdo al orden de prelación.
+> <small>(DEROGADO PENULTIMO PARRAFO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
 La Secretaría expedirá a todos aquellos que acrediten su interés jurídico, las certificaciones que soliciten respecto de las obligaciones inscritas en el Registro Público de Deuda Estatal.
 
@@ -4837,17 +4847,21 @@ Las participaciones federales que corresponden al Estado y a los Municipios son 
 
 Las operaciones deberán estar debidamente inscritas en el registro de la Secretaría de Hacienda y Crédito Público, en el Registro Público de Deuda Estatal y, en su caso, en el Registro de Deuda Pública Municipal correspondiente, tratándose de adeudos avalados por el Estado.
 
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
 ###### Artículo 345.
 
-La Secretaría, previa autorización del Congreso, estará facultada para afectar directamente el monto de las participaciones que en ingresos federales le correspondan al Estado o a los municipios, con el propósito de efectuar las amortizaciones de operaciones de endeudamiento asumidas por éstos, previa verificación de los documentos que acrediten su legítima procedencia y atendiendo al grado de prelación y fecha de inscripción de la obligación consignada en el Registro Público de Deuda Estatal.
+La Secretaría, previa autorización del Congreso, estará facultada para afectar directamente el monto de las participaciones que en ingresos federales le correspondan al Estado o a los municipios, con el propósito de efectuar las amortizaciones de las operaciones de endeudamiento asumidas por éstos, previa verificación de los documentos que acrediten su legítima procedencia en el Registro Público de Deuda Estatal a través del mecanismo financiero creado para tal efecto.
 
-Lo previsto en el párrafo anterior será aplicable cuando la persona física o moral acreditante haga del conocimiento de la Secretaría cualquier incumplimiento de pago verificado sobre alguna de las obligaciones adquiridas por el Estado o los municipios y esta situación haya sido confirmada plenamente.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 346.
 
-Se considerará que un Municipio se encuentra en mora, cuando no presente la documentación que acredite el cumplimiento de la obligación asumida en un término de cinco días contados a partir del momento en que la Secretaría le notifique su incumplimiento.
+El descuento en el importe de las participaciones federales que correspondan a los municipios, podrá efectuarse cuando se cuente con la respectiva autorización del Congreso del Estado.
 
-De no demostrar el cumplimiento, se procederá a efectuar los pagos de las erogaciones que se hayan dejado de amortizar, mediante la afectación de las participaciones que en ingresos federales le correspondan.
+Para efectos de lo dispuesto en el párrafo anterior, en caso de que el descuento de las participaciones se deba a que el municipio incurrió en mora, ésta se tendrá por actualizada cuando el municipio de que se trate no presente la documentación que acredite el cumplimiento de la obligación asumida, en un término de cinco días contados a partir del momento en que la Secretaría notifique al Congreso y al municipio su cumplimiento.
+
+De no demostrar el cumplimiento se procederá a efectuar los pagos de las erogaciones que se hayan dejado de amortizar, mediante la afectación de las participaciones que en ingresos federales le correspondan.
 
 ### CAPÍTULO ÚNICO
 
@@ -4912,3 +4926,11 @@ G.O. 4 DE JULIO DE 2002.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de difusión del Gobierno del estado de Veracruz-Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 28 DE NOVIEMBRE DE 2002.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado de Veracruz-Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Los titulares de las Dependencias y Entidades del Poder Ejecutivo contarán con un plazo no mayor a treinta días naturales, a partir del inicio de la vigencia de este Decreto, para designar o ratificar a los titulares de las unidades administrativas, quienes deberán reunir los requisitos que señale la Ley.
