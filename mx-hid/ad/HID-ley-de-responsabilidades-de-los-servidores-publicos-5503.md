@@ -4,7 +4,7 @@ identifier: "HID-ley-de-responsabilidades-de-los-servidores-publicos-5503"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-08"
-last_updated: "1992-07-20"
+last_updated: "1997-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 8 de junio de 1984.
 
@@ -633,13 +633,19 @@ II.- Auxilio de la fuerza pública.
 
 Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 78.
 
-Las facultades del superior jerárquico y de la Secretaría para imponer las sanciones que esta Ley prevé se sujetarán a los siguientes:
+Las facultades del superior jerárquico y de la Secretaría para imponer las sanciones que esta Ley prevé se sujetará (sic) a los siguientes:
 
-I.- Prescribirán en tres meses si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo diario vigente en el Estado, o si la responsabilidad no fuese estimable en dinero. El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiera incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo; y
+I.- Prescribirán en un año si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo diario vigente en el Estado o si la responsabilidad no fuese estimable en dinero y
 
 II.- En los demás casos prescribirán en tres años.
+
+El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiera incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fuese de carácter continuo.
+
+En todos los casos la prescripción a que alude este precepto se interrumpirá al iniciarse el procedimiento administrativo previsto por el artículo 64.
 
 ## TITULO CUARTO
 
@@ -768,3 +774,9 @@ El Gobernador Constitucional del Estado.- GUILLERMO ROSSELL DE LA LAMA.- El Secr
 P.O. 20 DE JULIO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE ENERO DE 1997.
+
+PRIMERO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
