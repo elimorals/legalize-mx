@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1938-12-01"
+last_updated: "1943-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE DICIEMBRE DE 1938.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE ENERO DE 1943.
+
+REPUBLICADO, G.O. 31 DE AGOSTO DE 1943.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -90,6 +92,12 @@ Esta reforma surtirá sus efectos a partir de la fecha de su publicación, por B
 G.O. 1 DE DICIEMBRE DE 1938.
 
 Las presentes reformas surtirán sus efectos a partir de la fecha de su publicación por BANDO SOLEMNE en todas las poblaciones del Estado.
+
+G.O. 28 DE ENERO DE 1943.
+
+REPUBLICADO, G.O. 31 DE AGOSTO DE 1943.
+
+La presente Ley surtirá efectos a partir de la fecha de su publicación, por Bando Solemne.
 
 ### CAPITULO II.
 
@@ -291,11 +299,11 @@ No pueden reunirse dos o más de esos Poderes en una sola persona o corporación
 
 Los miembros de la Legislatura, los Ayuntamientos y el Gobernador, serán nombrados popularmente en elección directa, en los términos que disponga la Ley Orgánica respectiva. Los Magistrados del Tribunal Superior, serán propuestos por el Gobernador a la Legislatura o a la Diputación Permanente, en su caso, en la forma que determina esta Constitución.
 
-> <small>(REFORMADO, G.O. 10 DE NOVIEMBRE DE 1931)</small>
+(REFORMADO, G.O. 28 DE ENERO DE 1943) (REPUBLICADO, G.O. 31 DE AGOSTO DE 1943)
 
 ###### Artículo 39.
 
-Para las elecciones de Diputados se dividirá el Estado en Distritos de cien mil habitantes. La fracción que pase de cincuenta mil habitantes compondrá también un Distrito, salvo lo dispuesto en el artículo 46.
+Para las elecciones de Diputados, se dividirá el Estado en Distritos de ciento cincuenta mil habitantes. La fracción que pase de setenta y cinco mil habitantes, compondrá también un Distrito.
 
 ###### Artículo 40.
 
@@ -308,6 +316,8 @@ El ciudadano o vecino que resulte nombrado popularmente para dos o más cargos, 
 ### CAPITULO II.
 
 DE LA INSTALACIÓN DE LA LEGISLATURA Y DE SUS SESIONES.
+
+(REFORMADO, G.O. 28 DE ENERO DE 1943) (REPUBLICADO, G.O. 31 DE AGOSTO DE 1943)
 
 ###### Artículo 42.
 
@@ -367,7 +377,7 @@ La Legislatura calificará las elecciones de sus miembros, resolviendo las dudas
 
 ###### Artículo 51.
 
-La Legislatura se renovará, en su totalidad, cada dos años y comenzará a funcionar, en cada bienio, el 16 de septiembre posterior a las elecciones.
+La Legislatura se renovará, en su totalidad, cada tres años y comenzará a funcionar, en cada trienio, el 16 de septiembre inmediato posterior a las elecciones.
 
 > <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 1938)</small>
 
@@ -667,9 +677,11 @@ IV. No tener empleo, cargo o comisión del Estado o del Gobierno Federal; y
 
 V. Ser del estado seglar.
 
+(REFORMADO, G.O. 28 DE ENERO DE 1943) (REPUBLICADO, G.O. 31 DE AGOSTO DE 1943)
+
 ###### Artículo 113.
 
-Los Ayuntamientos durarán en su cargo dos años y no podrán ser reelectos.
+Los Ayuntamientos durarán en su cargo, tres años y no podrán ser reelectos.
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
@@ -1191,11 +1203,11 @@ VI. No haber figurado ni directa ni indirectamente en alguna asonada o cuartelaz
 
 El Gobernador, en cada período constitucional, tomará posesión de su encargo el día 1o de diciembre y hará previamente, ante la Legislatura, formal protesta de guardar y hacer guardar esta Constitución y la General de la República, así como las leyes que de ambas emanen, y cumplir bien y fielmente las obligaciones de su encargo.
 
-> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 1926)</small>
+(REFORMADO, G.O. 28 DE ENERO DE 1943) (REPUBLICADO, G.O. 31 DE AGOSTO DE 1943)
 
 ###### Artículo 85.
 
-El Gobernador durará cuatro años en su cargo y no podrá ser electo nuevamente, sino para después de transcurrir un período desde que termine aquel en que haya ejercido sus funciones. El ciudadano que substituya al Gobernador en caso de falta absoluta de éste, no podrá ser electo para el período inmediato. Tampoco podrá ser electo para el período inmediato, el ciudadano que fuere nombrado Gobernador Interino en las faltas temporales del constitucional.
+El Gobernador durará seis años en su cargo y en ningún caso, ni por ningún motivo podrá volver a ocupar ese puesto, ni aun con el carácter de Interino, Provisional, Substituto o Encargado del Despacho.
 
 ###### Artículo 86.
 
