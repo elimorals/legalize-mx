@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-preservacion-del-aseo-publico-en-el-16464"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-31"
-last_updated: "2004-11-19"
+last_updated: "2004-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA PRESERVACION DEL ASEO PUBLICO EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DIEMBRE DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 31 de marzo del 2000.
 
@@ -421,9 +421,15 @@ A quien cometa cualquiera de las infracciones que se describen en la tabla conte
 
 > <small>N. DE E. VEASE TABLA EN EL P.O. DE 31 DE MARZO DEL 2000, PAGS. 36-41.</small>
 
-Las sanciones a que se refiere este artículo, en el caso de que procedan por el monto mínimo del rango correspondiente, serán impuestas por los Inspectores de Aseo Público de la Dirección, mediante boletas de infracción, cuyo diseño y contenido deberá ser aprobado por medio de Acuerdo de Cabildo.
+> <small>N. DE E. REFORMAS A LA TABLA , P.O. 10 DE DICIEMBRE DE 2004, PAGS. 6-7.</small>
 
-Si a juicio del Inspector, la infracción merece la imposición de una sanción por un monto mayor al que se refiere el párrafo anterior, levantará un acta en la que hará constar los datos necesarios para describir la conducta e identificar el responsable, citando a éste para que comparezca ante la Dirección a fin de que se le califique la multa (sic) deberá pagar.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+Las sanciones a que se refiere este artículo, en el caso de que procedan por el monto mínimo del rango correspondiente, serán impuestas por el Titular de la Dirección, mediante boletas de infracción, cuyo diseño y contenido deberá ser aprobado por medio de Acuerdo de Cabildo.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+Si a juicio del Titular de la Dirección, la infracción merece la imposición de una sanción por un monto mayor al que se refiere el párrafo anterior, se levantará un acta en la que hará constar los datos necesarios para describir la conducta e identificar el responsable, citando a éste para que comparezca ante la Dirección a fin de que se le califique la multa (sic) deberá pagar.
 
 Para determinar el monto de la sanción a imponer, dentro del rango correspondiente, la Dirección tomará en cuenta:
 
@@ -544,3 +550,7 @@ P.O. 19 DE NOVIEMBRE DE 2004.
 PRIMERO.- Las presentes modificaciones entrarán en vigor, a partir del día primero de enero del año dos mil cinco.
 
 SEGUNDO.- La Dirección de Servicios Públicos Municipales deberá elaborar los formatos de boletas de infracción correspondientes, en un plazo que no exceda de treinta días naturales, y presentarlas ante el Cabildo para su autorización.
+
+P.O. 10 DE DICIEMBRE DE 2004.
+
+ÚNICO: Las presentes modificaciones entrarán en vigor, a partir del día primero de enero del año dos mil cinco.
