@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1981-10-29"
+last_updated: "1982-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE OCTUBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 1982.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -263,7 +263,9 @@ También lo serán los que del Poder Legislativo obtengan carta de ciudadanía; 
 
 Son derechos del ciudadano veracruzano:
 
-I. Votar en las elecciones populares;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 30 DE DICIEMBRE DE 1982)</small>
+
+I. Votar en las elecciones populares. El sufragio será Universal, Libre, Secreto y Directo;
 
 II. Poder ser votado en dichas elecciones y nombrado para cualquier cargo o comisión, siempre que tenga los requisitos que exijan las leyes;
 
@@ -554,6 +556,8 @@ Los Diputados, durante el período de su encargo, no podrán desempeñar, sin pe
 ### CAPITULO V.
 
 DE LA DIPUTACIÓN PERMANENTE.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1982)</small>
 
 ###### Artículo 67.
 
@@ -1225,7 +1229,7 @@ Las faltas temporales del Procurador General de Justicia, que no excedan de cinc
 
 ###### Artículo 80.
 
-La víspera del día en que deban terminar las sesiones ordinarias, la Legislatura, mediante votación secreta, nombrará para el tiempo de su receso una Diputación permanente, compuesta de seis Diputados en ejercicio, de los cuales tres funcionarán como propietarios y tres quedarán como suplentes.
+La víspera del día en que deben terminar las Sesiones Ordinarias, la Legislatura mediante votación secreta nombrará para el tiempo de su receso una Diputación Permanente, compuesta de diez Diputados en ejercicio, de los cuales cinco funcionarán como Propietarios y cinco quedarán como Suplentes.
 
 ###### Artículo 115.
 
@@ -1598,3 +1602,19 @@ G.O. 29 DE OCTUBRE DE 1981.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor, al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
+
+G.O. 30 DE DICIEMBRE DE 1982.
+
+LEY No. 403.
+
+###### ARTICULO UNICO.
+
+Esta Ley surtirá sus efectos a partir del día de su publicación en la 'Gaceta Oficial' del Estado.
+
+G.O. 30 DE DICIEMBRE DE 1982.
+
+LEY No. 404.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día de su publicación en la 'Gaceta Oficial' del Estado.
