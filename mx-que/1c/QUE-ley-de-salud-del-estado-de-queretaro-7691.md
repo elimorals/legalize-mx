@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-7691"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-12"
-last_updated: "1996-12-05"
+last_updated: "1999-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 1999.
 
 Ley Publicada en el Periódico Oficial "La Sombra de Arteaga" el 12 de Diciembre de 1985
 
@@ -99,7 +99,9 @@ XIV.- La prevención y el control de enfermedades transmisibles y accidentes;
 
 XV.- La prevención y el control de las enfermedades no transmisibles;
 
-XVI.- La prevención de la invalidez y la rehabilitación de los inválidos
+> <small>(REFORMADA, P.O. 07 DE MAYO DE 1999)</small>
+
+XVI.- La prevención de la discapacidad y rehabilitación de las personas con discapacidad.
 
 XVII.- La asistencia social;
 
@@ -108,6 +110,10 @@ XVIII.- Participar con la autoridades federales en el desarrollo de los programa
 > <small>(REFORMADA, P.O 18 DE ABRIL DE 1991)</small>
 
 XIX.- El control sanitario de la disposición de órganos, tejidos y sus componentes y cadáveres de seres humanos.
+
+> <small>(ADICIONADA, P.O. 07 DE MAYO DE 1999)</small>
+
+XX.- Las demás que establezca esta Ley, la Ley General de Salud y demás disposiciones aplicables.
 
 B.- EN MATERIA DE SALUBRIDAD LOCAL, EL CONTROL SANITARIO DE:
 
@@ -151,11 +157,15 @@ Son Autoridades Sanitarias Estatales:
 
 I.- El C. Gobernador del Estado;
 
-II.- La Secretaria de salud;
+> <small>(REFORMADA, P.O. 07 DE MAYO DE 1999)</small>
+
+II.- El Secretario de Salud del Estado de Querétaro;
 
 III.- El organismo público Descentralizado denominado Servicios de Salud del Estado de Querétaro, en lo sucesivo SESEQ;
 
-IV.- Los Ayuntamientos en los términos de los acuerdos que celebren con el Estado de conformidad con esta ley y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 07 DE MAYO DE 1999)</small>
+
+IV.- Los Ayuntamientos en los términos de los acuerdos que celebren con el Gobernador del Estado de conformidad con esta Ley y demás disposiciones aplicables.
 
 ## TÍTULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -185,41 +195,61 @@ VI.- Impulsar en el ámbito estatal un sistema racional de administración y des
 
 VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
 
-> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 7o.
 
-La Coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría de Salud correspondiéndole lo siguiente:
+El Secretario de Salud en el Estado coordinará el organismo denominado Servicios de Salud del Estado de Querétaro correspondiéndole lo siguiente:
+
+> <small>(REFORMADA, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
 I.- Establecer y conducir la política Estatal en materia de Salud en los términos de esta Ley y de conformidad con las políticas del Sistema Estatal de Salud y con lo dispuesto por el Ejecutivo Federal;
 
+> <small>(REFORMADA, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 II.- Coordinar los programas de Servicios de Salud de las Dependencias y Entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
 III.- Impulsar en los términos de los convenios que al efecto se suscriban la desconcentración y descentralización a los Municipios de los Servicios de Salud;
 
+> <small>(REFORMADA, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 IV.- Promover, coordinar y realizar la evaluación de programas y servicios de salud que le sea solicitada por el Ejecutivo Estatal;
+
+> <small>(REFORMADA, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
 V.- Apoyar la coordinación entre las instituciones de Salud y Educativas del Estado para formar y capacitar Recursos Humanos para la salud;
 
+> <small>(REFORMADA, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 VI.- Impulsar la permanente actualización de las disposiciones legales en materia de salud; y
 
-VII.- Las de más atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las determinen las disposiciones generales aplicables.
+> <small>(REFORMADA, P.O. 07 DE MAYO DE 1999)</small>
 
-> <small>(ADICIONADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+VII.- Apoyar la coordinación de los programas y servicios de salud de toda dependencia o entidad pública en los términos de la legislación aplicable y de los acuerdos de coordinación que en su caso se celebren;
 
-ARTICULO 7 BIS A.- El SESEQ tendrá las siguientes atribuciones en materia de salud:
+> <small>(ADICIONADA, P.O. 07 DE MAYO DE 1999)</small>
 
-I.- Coordinar el proceso de programación de las actividades de salud en el Estado, con sujeción a las disposiciones legales aplicables
+VIII.- Impulsar en los términos de los convenios que al efecto se suscriban con los municipios que no cuenten con los elementos necesarios para afrontar, la descentralización, y desconcentración de los servicios de salud y de la vigilancia sanitaria;
 
-II.- Formular recomendaciones a las dependencias competentes sobre la asignación de los recursos que requieran los programas de salud del Estado;
+> <small>(ADICIONADA, P.O. 07 DE MAYO DE 1999)</small>
 
-III.- Promover el establecimiento de un sistema estatal de información en materia de salud;
+IX.- Determinar la periodicidad y características de la información que deberán de proporcionar las dependencias y entidades de salud del estado y de aquellas cuyas acciones repercutan en la salud de la población con sujeción a las disposiciones legales aplicables;
 
-IV.- Coadyuvar a la formación y distribución de los recursos para que la salud sea congruente con las prioridades del Sistema Estatal de Salud.
+> <small>(ADICIONADA, P.O. 07 DE MAYO DE 1999)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 05 DE DICIEMBRE DE 1996)</small>
+X.- Coordinar el proceso de programación de las actividades de salud en el estado y vigilancia sanitaria; y
 
-ARTICULO 7 BIS B.- La coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría, la que será competente en el aspecto normativo, en tanto que el SESEQ se ocupará de los aspectos operativos. Ambos de manera coordinada en la esfera de su competencia, conjugan esfuerzos para hacer efectivos los programas y servicios de salud en la entidad.
+> <small>(ADICIONADA, P.O. 07 DE MAYO DE 1999)</small>
+
+XI.- Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+
+ARTICULO 7 BIS A.- (DEROGADO, P.O. 07 DE MAYO DE 1999)
+
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
+
+ARTICULO 7 BIS. B- Al frente de la Secretaría de Salud estará el Secretario de Salud del Estado de Querétaro, que será competente en el aspecto normativo, en tanto que el SESEQ se ocupará de los aspectos operativos. Ambos de manera coordinada en la esfera de su competencia, conjugarán esfuerzos para hacer efectivos los programas y servicios de salud en la entidad.
 
 ###### ARTICULO 8o.
 
@@ -341,9 +371,11 @@ El Gobierno del Estado y los Municipios, en los términos de los convenios que s
 
 El Gobierno del Estado podrá celebrar convenios de coordinación y cooperación sanitaria con los gobiernos de los Estados circunvecinos, sobre aquellas materias que sean de su interés común. Asimismo, los Municipios del Estado podrán celebrar entre ellos este tipo de convenios sobre materias sanitarias que sean de la competencia municipal.
 
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 20.
 
-El Estado podrá celebrar con la Secretaría de Salud acuerdos de coordinación a fin de que ésta asuma temporalmente, a petición de la propia entidad, la prestación de servicios, el ejercicio de las funciones de control y regulación sanitaria a que se refiere el Artículo 13 de la ley General de Salud.
+El Ejecutivo Estatal podrá celebrar con la Secretaría de Salud del gobierno federal, acuerdos de coordinación a fin de que ésta asuma temporalmente, a petición de la propia entidad, la prestación de servicios, el ejercicio de las funciones de control y regulación sanitaria a que se refiere el Artículo 13 de la ley General de Salud.
 
 ###### ARTICULO 21.
 
@@ -423,7 +455,7 @@ El Gobierno del Estado coadyuvará con las autoridades federales competentes, pa
 
 ###### ARTICULO 31.
 
-La Secretaría de Salud y el SESEQ coadyuvarán con las demás Dependencias Estatales para que los establecimientos de los Sectores Público, Social y Privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a lo que al efecto establecen las Leyes aplicables.
+La Secretaria de Salud y el SESEQ coadyuvarán con las demás Dependencias Estatales para que los establecimientos de los Sectores Público, Social y Privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a lo que al efecto establecen las Leyes aplicables.
 
 ###### ARTICULO 32.
 
@@ -431,11 +463,19 @@ El Gobierno del Estado, en coordinación con las dependencias competentes del Ej
 
 ### CAPITULO II. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
-> <small>(REFORMADO P.O. 05 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 33.
 
-De conformidad con la norma técnica que expida la Secretaría de Salud Federal, El SESEQ ejercerá el control sanitario de los establecimientos que expendan o suministren alimentos, bebidas alcohólicas y no alcohólicas en el Estado.
+De conformidad con la norma oficial mexicana que expida la Secretaría de Salud Federal , El SESEQ ejercerá el control sanitario de los establecimientos que produzcan, expendan o suministren alimentos, bebidas alcohólicas y no alcohólicas en el Estado.
+
+Será responsabilidad del SESEQ en esta materia :
+
+a) Vigilar que en los establecimientos que expendan bebidas alcoholicas, estas ostenten las etiquetas correspondientes que garanticen la calidad sanitaria;
+
+b) Que el contenido se ajuste a lo especificado en la etiqueta correspondiente;
+
+c) En caso del incumplimiento de lo anterior, hacer un muestreo y en caso de encontrar irregularidades, remitir a la autoridad competente.
 
 > <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
@@ -465,7 +505,9 @@ I.- Preventivas, que incluyen las de promoción general y las de protección esp
 
 II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno, y
 
-III.- De rehabilitación, que incluyen acciones tendientes a corregir las invalideses físicas y mentales.
+> <small>(REFORMADA, P.O. 07 DE MAYO DE 1999)</small>
+
+III.- De rehabilitación, que incluyen acciones tendientes a corregir la discapacidad física o mental.
 
 ### CAPITULO IV. PRESTADORES DE LOS SERVICIOS DE SALUD
 
@@ -587,9 +629,11 @@ VI.- Información a las autoridades competentes de las irregularidades o deficie
 
 VII.- Otras actividades que coadyuven a la protección de la salud.
 
-> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
-ARTICULO 58 La Secretaría de Salud, el SESEQ, así como las instituciones de salud estatales y municipales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual y colectiva así como en los de prevención de enfermedades y accidentes, y de prevención de invalidez y de rehabilitación de inválidos.
+###### ARTICULO 58.
+
+La Secretaria de Salud, el SESEQ, así como las Instituciones de salud estatales y municipales promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual y colectiva, así como en los de prevención de enfermedades, accidentes, discapacidades y de rehabilitación de personas con discapacidad.
 
 ###### ARTICULO 59.
 
@@ -703,11 +747,11 @@ I.- La atención de personas con padecimientos mentales, la rehabilitación psiq
 
 II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
 
-> <small>(REFORMADO P.O. 05 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 75.
 
-El SESEQ, conforme con las normas técnicas básicas que establezca la Secretaría de Salud Federal, gestionará la remisión a instituciones especializadas y prestará atención a los enfermos mentales que se encuentren en los reclusorios del Estado o en otras instituciones no especializadas en salud mental.
+El SESEQ, conforme con la norma oficial mexicana que establezca la Secretaría de Salud Federal, gestionará la remisión a instituciones especializadas y prestarán atención a los enfermos mentales que se encuentren en los reclusorios del Estado o en otras instituciones no especializadas en salud mental, debiendo cubrir los requisitos que establece la Ley de Ejecución de Sanciones Privativas y Restrictivas de Libertad, para lo que se habrán de coordinar acciones con la Dirección de Readapatación y Previsión Social.
 
 A estos efectos se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, adiministrativas y otras, según corresponda.
 
@@ -733,11 +777,11 @@ III.- Los convenios que al efecto se suscriban entre el Gobierno del Estado y la
 
 IV.- Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 78.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, optometría, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales y los certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
-
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, Odontología, Optometría, Veterinaria, enfermería, laboratorio clínico, Radiología, Terapia física, Terapia ocupacional, Terapia de lenguaje, Prótesis y Ortesis, Trabajo social, Nutrición, Citotecnología, Patología, Bioestadística, Codificación Clínica, Bioterios, Farmacia, Saneamiento, Histopatología y Embalsamiento y sus ramas, requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales, técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, optometría, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, histopatología, citotecnología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, embalsamiento y sus ramas y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos de licenciatura, certificados de técnico y diplomas de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
 ###### ARTICULO 79.
 
@@ -787,7 +831,9 @@ Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia
 
 Corresponde al Gobierno del Estado, sin perjuicio de las autoridades educativas en la materia y en coordinación con éstas:
 
-I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del país en materia de salud;
+> <small>(REFORMADA, P.O. 07 DE MAYO DE 1999)</small>
+
+I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del estado en materia de salud;
 
 II.- Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud;
 
@@ -915,11 +961,15 @@ IV.- Salud ocupacional.
 
 La educación para la salud tiene por objeto:
 
-I.- Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes, y protegerse de los riesgos que pongan en peligro la salud;
+> <small>(REFORMADA, P.O. 07 DE MAYO DE 1999)</small>
+
+I.- Fomentar en la población el desarrollo de actividades y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes, y protegerse de los riesgos que pongan en peligro la salud;
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual planificación familiar; riesgos de automedicación prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud prevención de accidentes, y prevención y rehabilitación de la invalidez y detección oportuna de enfermedades
+> <small>(REFORMADA, P.O. 07 DE MAYO DE 1999)</small>
+
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, bucal y ocupacional; educación sexual y planificación familiar; prevención de riesgos de automedicación, farmacodependencia, accidentes y discapacidades; uso adecuado de los servicios de salud y rehabilitación de la discapacidad y detección de otras enfermedades y vigilancia sanitaria.
 
 ###### ARTICULO 101.
 
@@ -1075,9 +1125,11 @@ VII.- La inspección de pasajeros que puedan ser portadores de gérmenes, así c
 
 VIII.- Las demás que determine esta Ley, sus reglamentos y la Secretaría de Salud.
 
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 118.
 
-Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias sin contravenir las disposiciones de esta Ley, las que expida el Consejo de Salubridad General y las de las normas técnicas que dicte la Secretaría de Salud
+Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias dentro de su competencia sin contravenir las disposiciones de esta Ley, las que expida el Consejo de Salubridad General y las de la norma oficial mexicana que dicte la Secretaría de Salud del Gobierno Federal.
 
 ###### ARTICULO 119.
 
@@ -1159,7 +1211,9 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 Para la mayor eficacia de las acciones a la que se refiere este artículo, se creará el consejo Estatal para la prevención de Accidentes, del que formarán parte representantes de los sectores público, social y privado del Estado. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
-## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 07 DE MAYO DE 1999)</small>
+
+## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION Y REHABILITACION DE LAS PERSONAS CON DISCAPACIDAD
 
 ### CAPITULO UNICO
 
@@ -1173,15 +1227,21 @@ Serán objeto de esta Ley los servicios asistenciales que presten tanto las inst
 
 Son actividades básicas de Asistencia Social:
 
-I.- La atención a personas que, por sus carencias socio – económicas o por problemas de invalidez se ven impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+> <small>(REFORMADA, P.O. 07 DE MAYO DE 1999)</small>
 
-II.- La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo e inválidos sin recursos;
+I.- La atención a personas que, por sus carencias socio – económicas o por problemas de discapacidad, se ven impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+
+> <small>(REFORMADA, P.O. 07 DE MAYO DE 1999)</small>
+
+II.- La atención en establecimientos especializados a menores, ancianos y personas con discapacidad en estado de abandono o desamparo que no tengan recursos económicos suficientes para cubir los gastos correspondientes;
 
 III.- La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
 
 IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
 
-V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos e inválidos sin recursos;
+> <small>(REFORMADA, P.O. 07 DE MAYO DE 1999)</small>
+
+V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos y personas con discapacidad, siempre que no cuenten con recursos para ello;
 
 VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -1207,11 +1267,11 @@ Los integrantes del Sistema Estatal de Salud, deberán dar atención preferente 
 
 En estos casos, las instituciones de salud del Estado podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y ancianos, sin perjuicio de dar intervención a las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 137.
 
-El Gobierno del Estado a través del SESEQ se coordinará con los organismos federales encargados de la asistencia social, la promoción de ésta en el ámbito estatal, la prestación de servicios en ese campo y la realización de las demás acciones que establezcan las disposiciones legales aplicables.
+El Gobierno del Estado a través de la Secretaría de Salud, se coordinará con los organismos federales, estatales y municipales encargados de la asistencia social, de su promoción en el ámbito estatal, así como la prestación de servicios y la realización de las demás acciones que establezcan las disposiciones legales aplicables.
 
 ###### ARTICULO 138.
 
@@ -1225,25 +1285,31 @@ El Gobiernos el Estado y los Municipios, en coordinación con las dependencias y
 
 La autoridad sanitaria del Estado podrá autorizar la constitución de instituciones privadas cuyo objeto sea la prestación de servicios asistenciales.
 
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 141.
 
-Serán consideradas instituciones de Asistencia Privada las que se constituyan conforme con ésta Ley, al reglamento correspondiente y demás disposiciones aplicables y cuyo objeto sea la prestación de servicios asistenciales sin propósito de lucro y sin designar individualmente a los beneficiarios.
+Serán consideradas instituciones de Asistencia Privada las que se constituyan conforme a la Ley para el Fomento y Regularización de las Instituciones de Asistencia Privada en el Estado de Querétaro y demás disposiciones aplicables y cuyo objeto sea la prestación de servicios asistenciales sin propósito de lucro y sin designar individualmente a los beneficiarios.
 
 ###### ARTICULO 142.
 
-Se crea la Junta de Asistencia Privada como órgano dependiente del organismo a que se refiere el articulo 137 de esta Ley a través del cual se ejercerá la vigilancia y promoción de las instituciones de Asistencia Privada
+(DEROGADO, P.O. 07 DE MAYO DE 1999)
 
 ###### ARTICULO 143.
 
 Serán consideradas instituciones de asistencia privada los asilos, los hospicios, las casas de cuna y las demás que determine el Reglamento correspondiente.
 
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 144.
 
-La integración, funcionamiento y facultades de la Junta de Asistencia Privada, se determinará por el reglamento correspondiente
+La integración, funcionamiento y facultades de la Junta de Asistencia Privada, se determinará por la Ley para el Fomento y Regularización de las Instituciones de Asistencia Privada en el Estado de Querétaro.
+
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 145.
 
-El organismo que a se refiere el articulo 137 de esta Ley coadyuvará con la junta de Asistencia Privada en la vigilancia y promoción de las instituciones de asistencia privada, estableciendo al efecto los mecanismos de coordinación necesarios.
+El Secretario de Salud del Estado de Querétaro, coadyuvará con la junta de Asistencia Privada en la vigilancia y promoción de las instituciones de asistencia privada, estableciendo al efecto los mecanismos de coordinación necesarios.
 
 ###### ARTICULO 146.
 
@@ -1261,49 +1327,47 @@ Los servicios y acciones que presten y realicen las instituciones de asistencia 
 
 Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus respectivas competencias, colaborarán para proporcionar atención rehabilitadora, cuando así se requiera.
 
-> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 150.
 
-La Secretaría de Salud y EL SESEQ en coordinación con otras instituciones públicas promoverán que en los lugares en que se presten servicios públicos se dispongan facilidades para las personas inválidas.
+La Secretaría de Salud y el SESEQ en coordinación con el Instituto Queretano Pro personas con discapacidad y otras instituciones afines promoverán que en los lugares que se presenten servicios públicos se realicen adecuaciones que faciliten el acceso, libre desplazamiento y uso de esos servicios a las personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 151.
 
-El patrimonio de la beneficencia pública, será administrado por el organismo a que se refiere el Artículo 137 de esta Ley, al respecto, a este organismo corresponderá, entre otras atribuciones, representar los intereses del Patrimonio de la beneficencia pública y distribuir los recursos que a la misma se le destinen.
+El patrimonio de la beneficencia pública, estará a cargo del Organo denominado "Administración del Patrimonio de la Beneficencia Pública", adscrito al organismo descentralizado SESEQ y corresponderá éste representar los intereses de la beneficencia pública y distribuir los recursos que a la misma se destinen.
+
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 152.
 
-Para los efectos de esta ley, se entiende por invalidez la limitación en la capacidad de una persona para realizar por si misma actividades necesarias para su desempleo físico mental, social, ocupacional y económico como consecuencia de una deficiencia sómatica, psicológica o social.
+Para los efectos de esta ley, se entenderá por personas con discapacidad a todo ser humano que padece temporal o permanentemente una disminución en sus facultades físicas, mentales o sensoriales que le impidan realizar una actividad considerada como normal.
+
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 153.
 
-La atención en materia de prevención de invalidez y rehabilitación de inválidos comprende:
+La atención en materia de prevención y rehabilitación de las personas con discapacidad, será de acuerdo a lo estipulado en la Ley para la Atención e Integración Social de las Personas con Discapacidad del Estado de Querétaro.
 
-I.- La investigación de las causas de la invalidez y de los factores que la condicionan;
-
-II.- La promoción en la participación de la comunidad en la prevención y control de las causas y factores condicionantes de la invalidez;
-
-III.- La indentificación temprana y la atención oportuna de procesos físicos, mentales o sociales que puedan causar invalidez;
-
-IV.- La orientación educativa en materia de rehabilitación a la colectividad en general, y en particular a las familias que cuenten con algún inválido, promoviendo al efecto la solidaridad social;
-
-V.- La atención integral de los inválidos, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran;
-
-VI.- La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de los inválidos, y
-
-VII.- La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 154.
 
-Los servicios de rehabilitación que proporcionen los establecimientos que dependan del Estado estarán vinculados sistemáticamente a los de rehabilitación y asistencia social que preste el organismo a que se refiere el Artículo 137 de esta Ley.
+Los servicios de rehabilitación y de asistencia social del Sistema para el Desarrollo Integral de la Familia de los Municipios y del Estado, estarán vinculados sistemáticamente a los servicios de rehabilitación que proporcionen los establecimientos del sector salud.
+
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 155.
 
-El Gobierno del Estado, a través del organismo a que se refiere el Articulo 137 de esta Ley y en coordinación con las dependencias y entidades federales, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de invalidez, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+El Gobierno del Estado y Municipios, a través del Sistema para el Desarrollo Integral de la Familia, promoverán el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales.
+
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 156.
 
-El organismo del Gobierno Estatal previsto en el Artículo 137 de esta Ley tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de invalidez y participar en programas de rehabilitación y educación especial.
+La Secretaría de Salud del Estado conformará un Comité Técnico de Valoración para certificar el diagnóstico y la posibilidad de rehabilitación de las personas con discapacidad, expidiendo al solicitante el documento que acredite el grado de discapacidad, el cual tendrá validez ante cualquier organismo público o privado del Estado de Querétaro.
 
 ## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
@@ -1343,6 +1407,10 @@ I.- La prevención y el tratamiento de padecimientos originados por el tabaquism
 
 II.- La educación sobre los efectos del tabaquismo en la salud dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos.
 
+> <small>(ADICIONADA, P.O. 07 DE MAYO DE 1999)</small>
+
+III.- Determinarán y ejercerán medios de control en el expendio de tabaco en cualquiera de sus formas, para prevenir su consumo por parte de menores de edad y de los legalmente incapaces.
+
 ###### ARTICULO 160.
 
 Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta los siguientes aspectos:
@@ -1359,17 +1427,25 @@ II.- La educación a la familia para prevenir el consumo de tabaco por parte de 
 
 El Gobierno del Estado coadyuvará con la Secretaría de Salud Federal en la ejecución, en el territorio del Estado de Querétaro del Programa Nacional contra la Farmacodependencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 07 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 162.
 
-El Gobierno del Estado y los Municipios, para evitar y prevenir el consumo de sustancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustará a lo siguiente:
+El Gobierno del Estado y los Municipios, para evitar y prevenir el consumo de sustancias tóxicas y psicotrópicos, se ajustará a lo siguiente:
 
-I.- Determinarán y ejercerán medios de control en el expendio de sustancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces;
+> <small>(REFORMADA, P.O. 07 DE MAYO DE 1999)</small>
+
+I.- Determinarán y ejercerán medios de control en el expendio de sustancias tóxicas, para prevenir su consumo por parte de menores de edad y de los demás legalmente incapaces;
 
 II.- Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas substancias, para evitar el empleo indebido de las mismas;
 
-III.- Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de inhalantes, y
+> <small>(REFORMADA, P.O. 07 DE MAYO DE 1999)</small>
 
-IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el uso de sustancias inhalantes
+III.- Brindarán la atención médica que se requiera, a las personas que usen o hayan utilizado sustancias tóxicas; y
+
+> <small>(REFORMADA, P.O. 07 DE MAYO DE 1999)</small>
+
+IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el uso de sustancias tóxicas;
 
 A los establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el Gobierno Estatal y los Municipios, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
 
@@ -1385,7 +1461,7 @@ Compete al SESEQ en los términos de esta Ley y de las demás disposiciones lega
 
 ###### ARTICULO 164.
 
-Se entiende por control y regulación sanitaria el conjunto de actos que lleve a cabo la autoridad a fin de prevenir riesgos y daños a la salud de la población que comprende: El otorgamiento de autorizaciones, la vigilancia sanitaria, la aplicación de medidas de seguridad y la imposición de sanciones a los establecimientos, servicios o personas a que se refiere esta Ley.
+Se entiende por control y regulación sanitaria el conjunto de actos que lleve a cabo la autoridad a fin de prevenir riesgos y daños a la salud de la población que comprende: El otorgamiento de autorizaciones la y vigilancia sanitaria, la aplicación de medidas de seguridad y la imposición de sanciones a los establecimientos, servicios o personas a que se refiere esta Ley.
 
 > <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
@@ -1587,9 +1663,11 @@ Las condiciones sanitarias que deban reunir estos establecimientos estarán fija
 
 ### CAPITULO IX. PROSTITUCION
 
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 206.
 
-Para los efectos de esta Ley, se entiende por prostitución la actividad que realizan las mujeres utilizando sus funciones sexuales como medio de vida.
+Para los efectos de esta Ley, se entiende por prostitución la actividad que realice cualquier persona mayor de edad, utilizando sus funciones sexuales para establecer comercio a cambio de cualquier remuneración.
 
 > <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
@@ -1597,13 +1675,31 @@ Para los efectos de esta Ley, se entiende por prostitución la actividad que rea
 
 Toda persona que ejerza la prostitución se sujetará a las medidas y formas de control que señale El SESEQ conforme a las prevenciones de esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 208.
 
-Queda prohibido el ejercicio de la prostitución a las mujeres menores de 18 años
+No podrán ejercer la prostitución dentro del Estado de Querétaro, las personas que no reúnan los siguientes requisitos:
+
+I.- Ser mayor de 18 años;
+
+II.- Estar en pleno uso y goce de sus facultades físicas y mentales;
+
+III.- No ser adicto a bebidas alcohólicas ni a drogas o enervantes, y
+
+IV.- Contar con tarjeta de control sanitario que para tal efecto otorgue la autoridad sanitaria.
+
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 209.
 
-Queda prohibido el ejercicio de la prostitución, en tanto se padezca de alguna enfermedad venérea.
+No podrán o dejarán de ejercer la prostitución, quienes:
+
+I.- Padezcan alguna enfermedad infectocontagiosa o de transmisión sexual;
+
+II.- Estén embarazadas, o
+
+III.- Cuando su tarjeta de control sanitario presente vencimiento, carezca de sello y firma vigente o les sea retirada.
 
 ###### ARTICULO 210.
 
@@ -1613,9 +1709,11 @@ El ejercicio de esta práctica estará sujeto a lo que prescribe esta Ley y otra
 
 Queda prohibido el acceso de menores de edad al interior del establecimiento o zonas donde se realice el ejercicio de la prostitución.
 
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 212.
 
-Para la expedición de la licencia sanitaria respectiva, se recabará la opinión de la Autoridad Municipal. En ningún caso los establecimientos o zonas a que se refiere el articulo anterior podrán funcionar dentro de las zonas urbanas.
+Las autoridades sanitarias en coordinación estrecha con las municipales, tomarán las medidas necesarias para evitar y controlar lo referente a la prostitución.
 
 ### CAPITULO X. RECLUSORIOS
 
@@ -1707,7 +1805,9 @@ Las gasolineras deberán contar con las instalaciones de sanidad y seguridad que
 
 La autorización sanitaria es el acto administrativo mediante el cual El SESEQ permite a una persona pública o privada la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine esta Ley y demás disposiciones generales aplicable.
 
-Las autorizaciones sanitarias tendrán el carácter de licencias, y permisos o tarjetas de control sanitario en su caso.
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
+
+Las autorizaciones sanitarias tendrán el carácter de licencias, aviso de apertura, permisos o tarjetas de control sanitario en su caso.
 
 > <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
@@ -1869,49 +1969,109 @@ Las demás dependencias y entidades públicas coadyuvarán a la vigilancia del c
 
 El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrán ser objeto de orientación y educación de los infractores con independencia de que se aplique, si procedieren, las medidas de seguridad y las sanciones correspondientes en esos casos.
 
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 253.
 
-La vigilancia sanitaria se llevará a cabo mediante visitas de inspección a cargo de inspectores designados por la autoridad sanitaria estatal, quienes deberán realizar las respectivas diligencias de conformidad con las prescripciones de esta Ley y demás disposiciones aplicables.
+La vigilancia sanitaria se llevará a cabo mediante visitas de verificación a cargo de verificadores designados por la autoridad sanitaria estatal, quienes deberán realizar las respectivas diligencias de conformidad con las prescripciones de esta Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 254.
 
-Las autoridades sanitarias del Estado podrán encomendar a sus inspectores además, actividades de orientación, educación y aplicación, en su caso, de las medidas de seguridad que se refiere el artículo 260 de esta Ley.
+Las autoridades sanitarias del Estado podrán encomendar a sus verificadores, además, actividades de orientación, educación y aplicación, en su caso, de las medidas de seguridad que se refiere el artículo 260 de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 255.
 
-Las inspecciones podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo.
+Las verificaciones podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo.
 
 Para los efectos de esta Ley, tratándose de establecimientos industriales, comerciales o de servicios, se considerarán horas hábiles las de su funcionamiento habitual.
 
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 256.
 
-Los inspectores sanitarios, en ejercicio de sus funciones, tendrán libre acceso a los edificios, establecimientos comerciales y de servicios, y en general, a todos los lugares a que hace referencia esta Ley.
+Los verificadores sanitarios, en ejercicio de sus funciones, tendrán acceso a los edificios, establecimientos comerciales y de servicios, y en general, a todos los lugares a que hace referencia esta Ley.
 
-Los propietarios, responsables, encargados y ocupantes de establecimientos objeto de inspección, estarán obligados a permitir el acceso y a dar facilidades e informes a los inspectores para el desarrollo de su labor.
+Los propietarios, responsables, encargados y ocupantes de establecimientos objeto de verificación, estarán obligados a permitir el acceso y a dar facilidades e informes a los verificadores para el desarrollo de su labor.
+
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 257.
 
-Los inspectores, para practicar visitas, deberán estar provistos de órdenes escritas, expedidas por la autoridad sanitaria estatal competente, en las que se deberá precisar el lugar o zona que ha de inspeccionarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
+Los verificadores, para practicar visitas, deberán estar provistos de órdenes escritas, expedidas por la autoridad sanitaria estatal competente, en las que se deberá precisar el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
 
-La órden de inspección deberá ser exhibida a la persona con quien se entienda la diligencia, a quien se le entregará una copia.
-
-Las órdenes podrán expedirse para visitar establecimientos de una rama determinada de actividades o señalar al inspector la zona en la que vigilará el cumplimiento por todos los obligados, de las disposiciones sanitarias.
+Las órdenes podrán expedirse para visitar establecimientos de una rama determinada de actividades o señalar al verificador, la zona en la que vigilará el cumplimiento por todos los obligados, de las disposiciones sanitarias.
 
 Tratándose de actividades que se realicen en la vía pública, las órdenes podrán darse para vigilar una rama determinada de actividades o una zona que se delimitará en la misma orden.
 
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 258.
 
-En la diligencia de inspección sanitaria se deberán observar las siguientes reglas:
+En la diligencia de verificación sanitaria se deberá observar las siguientes reglas:
 
-I.- Al iniciar la visita, el inspector deberá exhibir la credencial vigente, expedida por la autoridad sanitaria competente, que lo acredite legalmente para desempeñar dicha función. Esta circunstancia se deberá anotar en el acta correspondiente;
+I.- Al iniciar la visita, el verificador deberá exhibir la credencial vigente, expedida por la autoridad sanitaria competente, que lo acredite legalmente para desempeñar dicha función. Esta circunstancia se deberá anotar en el acta correspondiente;
 
-II.- Al inicio de la visita, se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, que proponga dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, lo designará la autoridad que practique la inspección. Estas circunstancias, el nombre, domicilio y firma de los testigos, se hará constar en el acta;
+II.- La orden de verificación deberá ser exhibida a la persona con quien se entienda la diligencia, a quien e le entregará una copia;
 
-III.- En el acta que se levante con motivo de la inspección, se harán constar las circunstancias de la diligencia, las deficiencias o anomalías sanitarias observadas y, en su caso, las medidas de seguridad que se ejecuten, y
+III.- Al inicio de la visita, se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, que proponga dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, lo designará la autoridad que practique la verificación. Estas circunstancias, el nombre, domicilio y firma de los testigos, se hará constar en el acta;
 
-IV.- Al concluir la inspección, se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento del que se le entregará una copia.
+IV- En el acta que se levante con motivo de la verificación, se hará constar las circunstancias de la diligencia, las deficiencias o anomalías sanitarias observadas y, en su caso, las medidas de seguridad que se ejecuten, y
 
 La negativa a firmar el acta o a recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez ni la de la diligencia practicada.
+
+V.- Al concluir la verificación se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, de manifestar lo que a su derecho convenga asentando su dicho en el acta respectiva y recabando su firma en el propio documento del que se le entregará una copia.
+
+> <small>(ADICIONADO, P.O. 07 DE MAYO DE 1999)</small>
+
+###### ARTICULO 258-A.
+
+Cuando sea necesario, la autoridad sanitaria practicará el muestreo para que con los análisis de laboratorio se verifique la calidad, la composición y el estado de los productos en cuestión. La recolección de las muestras de estos productos, se efectuará con sujeción a las siguientes reglas:
+
+I. Se observarán las formalidades y requisitos exigidos para las visitas de verificación;
+
+II. La toma de muestras se realizará en cualquiera de las etapas de proceso, pero deberán tomarse del mismo lote, producción o recipiente, procediéndose a identificar las muestras en envases que puedan ser cerrados y sellados;
+
+III. Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular; otra muestra quedará debidamente sellada en poder de la misma persona a disposición de la autoridad sanitaria y tendrá el carácter de muestra testigo; la última será enviada por la autoridad sanitaria al laboratorio autorizado y habilitado por ésta, para su análisis oficial;
+
+IV. El resultado del análisis oficial, se notificará al visitado o titular de la autorización sanitaria de que se trate, por cualquier medio por el que se pueda comprobar fehacientemente su recepción, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
+
+V. En caso de desacuerdo con el resultado que se haya notificado, el visitado lo podrá impugnar dentro de un plazo de quince días, hábiles a partir de la notificación del análisis oficial. Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial, esté quedará firme y la autoridad sanitaria procederá conforme a la fracción VII de este artículo según corresponda;
+
+VI. Con la impugnación a que se refiere la fracción anterior, el visitado deberá acompañar el original del análisis particular que se hubiere practicado a la muestra que haya sido dejada en poder de la persona con quien se entendió la diligencia de muestreo, así como, en su caso, la muestra testigo.
+
+Sin el cumplimiento de este requisito no se dará trámite a la impugnación y el resultado del análisis oficial quedará firme;
+
+VII. La impugnación presentada en los términos de las fracciones anteriores, dará lugar a que el visitado, a su cuenta y cargo, solicite a la autoridad sanitaria, el análisis de la muestra testigo en el laboratorio que la misma señale; en el caso de insumos médicos, el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarias exigidas; y
+
+VIII. El resultado de los análisis de la muestra testigo, se notificará al visitado o titular de la autorización sanitaria de que se trate, por cualquier medio por el que se pueda comprobar fehacientemente su recepción y, en caso de que el producto reúna las especificaciones y requisitos requeridos, la autoridad sanitaria procederá a otorgar la autorización que se haya solicitado, o a ordenar el levantamiento de la medida de seguridad que se hubiera ejecutado, según corresponda.
+
+Si el resultado a que se refiere la fracción anterior comprueba que el producto no satisface los requisitos y especificaciones sanitarias, la autoridad sanitaria procederá a dictar y ejecutar las medidas de seguridad sanitaria que procedan o a confirmar las que hubieren ejecutado, imponiendo las sanciones que correspondan y negando o revocando, en su caso, la autorización de que se trate.
+
+Si la diligencia se practica en un establecimiento que no sea donde se fabrica o produce el producto o no sea el establecimiento del titular del registro, el verificador está obligado a enviar, en condiciones adecuadas de conservación, dentro del término de tres días hábiles siguientes a la toma de muestras, copia del acta de verificación que consigne el muestreo realizado, así como las muestras que quedaron en poder de la persona con quien se entendió la diligencia, a efecto de que tenga la oportunidad de realizar los análisis particulares y, en su caso, impugnar el resultado del análisis oficial, dentro de los quince días hábiles siguientes a la notificación de resultados.
+
+En este caso, el titular podrá inconformarse, solicitando sea realizado el análisis de la muestra testigo.
+
+El depositario de la muestra será responsable solidario con el titular, si no conserva la muestra citada.
+
+El procedimiento de muestreo no impide que la Secretaría dicte y ejecute las medidas de seguridad sanitaria que procedan, en cuyo caso se asentará en el acta de verificación las que hubieren ejecutado y los productos que comprenda.
+
+> <small>(ADICIONADO, P.O. 07 DE MAYO DE 1999)</small>
+
+ARTICULO 258 B.- En el caso de toma de muestras de productos perecederos deberá conservarse en condiciones óptimas para evitar su descomposición, su análisis deberá iniciarse dentro de las cuarenta y ocho horas siguientes a la hora en que se recogieron.
+
+El resultado del análisis se notificará en forma personal o por cualquier medio por el que se pueda comprobar fehacientemente su recepción al visitado dentro de los quince días hábiles siguientes contados a partir de la fecha en que se hizo la verificación.
+
+El particular podrá impugnar el resultado del análisis en un plazo de tres días contados a partir de la notificación, en cuyo caso se procederá en los términos de las fracciones VI y VII del artículo anterior.
+
+Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial, este quedará firme.
+
+> <small>(ADICIONADO, P.O. 07 DE MAYO DE 1999)</small>
+
+ARTICULO 258 C.- En el caso de los productos recogidos en procedimientos de muestreo o verificación, solo los laboratorios autorizados o habilitados por la Secretaría para tal efecto, podrán determinar por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
 
 ## TITULO DECIMO CUARTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
@@ -2045,21 +2205,33 @@ III.- Las condiciones socio-económicas del infractor, y
 
 IV.- La calidad de reincidencia del infractor.
 
+> <small>(ADICIONADA, P.O. 07 DE MAYO DE 1999)</small>
+
+V.- El beneficio obtenido por el infractor como resultado de la infracción.
+
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 274.
 
-Se sancionará con multa equivalente hasta de veinte veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 54,55,80,95,97,115,116,117, 129,167,230,232,247,248 y 249.
+Se sancionará con multa equivalente hasta de mil veces el salario mínimo general diario vigente en la zona económica a la que pertenezca la entidad federativa de Querétaro, la violación de las disposiciones contenidas en los artículos 54,55,80,95,97,115,116,117,125,129,167,230,232,247,248 y 249.
+
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 275.
 
-Se sancionará con multa equivalente de diez hasta cien veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 107,119,125, 162,233, 256 y 267.
+Se sancionará con multa equivalente de mil a cuatro mil veces el salario mínimo general diario vigente en la zona económica a la que pertenezca la entidad federativa de Querétaro, la violación de las disposiciones contenidas en los artículos 107,119,162,233, 256 y 267.
+
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 276.
 
-Se sancionará con multa equivalente de cincuenta a quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 93, 94 y 108.
+Se sancionará con multa equivalente de cuatro mil a diez mil veces el salario mínimo general diario vigente en la zona económica a la que pertenezca la entidad federativa de Querétaro, la violación de las disposiciones contenidas en los artículos 93, 94 y 108.
+
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 277.
 
-Las infracciones contenidas no previstas en este capítulo serán sancionadas con multa equivalente hasta por quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo las reglas de calificación que se establecen en el artículo 273 de esta Ley.
+Las infracciones contenidas en esta Ley y no previstas en este capítulo, serán sancionadas con multa equivalente hasta de diez mil veces el salario mínimo general diario vigente en la zona económica a la que pertenezca la entidad federativa de Querétaro, atendiendo las reglas de calificación que se establecen en el artículo 273 de esta Ley.
 
 ###### ARTICULO 278.
 
@@ -2080,6 +2252,10 @@ II.- Cuando el peligro para la salud de las personas se origine por la violació
 III.- Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, por motivo de suspensión de trabajos o actividades, o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud, y
 
 IV.- Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población.
+
+> <small>(ADICIONADA, P.O. 07 DE MAYO DE 1999)</small>
+
+V.- Por reincidencia en tercera ocasión.
 
 ###### ARTICULO 281.
 
@@ -2141,11 +2317,11 @@ X.- Jerarquía, y
 
 XI.- Buena fe.
 
-> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 285.
 
-El SESEQ, con base en el resultado de la inspección dictará las medidas necesarias para corregir, en su caso, las irregularidades que se hubiesen encontrado, notificándolas al interesado y dándole un plazo adecuado para su realización.
+El SESEQ, con base en el resultado de la verificación, dictará las medidas necesarias para corregir, en su caso, las irregularidades que se hubiesen encontrado, notificándolas al interesado y dándole un plazo adecuado para su realización.
 
 > <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
@@ -2153,9 +2329,11 @@ El SESEQ, con base en el resultado de la inspección dictará las medidas necesa
 
 El SESEQ podrá hacer uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las medidas y sanciones de seguridad que procedan.
 
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 287.
 
-Turnada una acta de inspección se citará al interesado personalmente o por correo certificado con acuse de recibo, para que dentro de un plazo de cinco días, ni mayor de treinta comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes, en relación con los hechos asentados en el acta de inspección.
+Turnada una acta de verificación, se citará al interesado personalmente o por correo certificado con acuse de recibo, para que dentro de un plazo no menor de cinco días, ni mayor de treinta, comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes, en relación con los hechos asentados en el acta de verificación.
 
 ###### ARTICULO 288.
 
@@ -2173,9 +2351,11 @@ En caso de que el presunto infractor no compareciera dentro del plazo fijado por
 
 En los casos de suspensión de trabajos o de servicios o de clausura temporal o definitiva, parcial o total, el personal comisionado para su ejecución procederá a levantar acta detallada de la diligencia, siguiendo para ello los lineamientos generales establecidos para las inspecciones.
 
+> <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 292.
 
-Cuando el contenido de un acta de inspección se desprenda la posible comisión de uno o varios delitos, se formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+Cuando el contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, se formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
 ### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
@@ -2336,3 +2516,13 @@ Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opong
 ###### ARTICULO CUARTO.
 
 A cualquier tramite o procedimiento que está pendiente de concluirse y que se hubiere iniciado ante la Coordinación de Salud, antes de entrar en vigor esta Ley, será resulto por el Organismo Público descentralizado denominado Servicios de Salud del Estado de Querétaro (SESEQ.)
+
+P.O. 7 DE MAYO DE 1999
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado " La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan aquellas disposiciones que se opongan a la presente Ley.
