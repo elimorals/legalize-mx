@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-proteccion-civil-para-el-estado-de-1799
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-19"
-last_updated: "2000-09-19"
+last_updated: "2001-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE PROTECCION CIVIL PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 19 de septiembre de 2000.
 
@@ -41,7 +41,7 @@ DECRETO GUBERNATIVO NUMERO 173
 
 SE EXPIDE EL REGLAMENTO DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE GUANAJUATO.
 
-REGLAMENTO DE LA LEY DE PROTECCION CIVIL PARA EL ESTADO DE GUANAJUATO
+REGLAMENTO DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE GUANAJUATO
 
 ## TITULO PRIMERO. GENERALIDADES
 
@@ -397,7 +397,7 @@ d) Lluvia ácida.
 
 De origen Socio - Organizativo:
 
-a) Problemas derivados de concentraciones masivas de población; Mítines, Peregrinaciones, Eventos deportivos, Espectáculos masivos, etc.;
+a) Problemas derivados de concentraciones masivas de población; Mítines, Peregrinaciones, Eventos deportivos, Espectáculos masivos, etc.
 
 b) Interrupción o fallas en suministro u operación de servicios públicos y sistemas vitales;
 
@@ -633,7 +633,7 @@ II.- Copia certificada del acta constitutiva, debidamente autorizada por la Secr
 
 III.- Copia certificada del acta que acredite la personalidad del promovente;
 
-IV.- Comprobante del domicilio social y teléfono,
+IV.- Comprobante del domicilio social y teléfono;
 
 V.- Directorio actualizado de los dirigentes de la asociación;
 
@@ -1591,6 +1591,22 @@ La resolución mediante la cual se otorgue o niegue la conformidad del Ejecutivo
 
 La Unidad Estatal de Protección Civil, podrá dictar las medidas necesarias y obligatorias en todo el territorio del Estado, para la vigilancia de la normatividad aplicable a las instalaciones de aprovechamiento de Gas LP y a los vehículos automotores o motores estacionarios de combustión interna, atendiendo a las especificaciones técnicas de seguridad contenidas en las Normas Oficiales Mexicanas vigentes aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+###### Artículo 141-A.
+
+La Unidad Estatal de Protección Civil en coordinación con las unidades municipales, efectuarán visitas semestrales a los Centros de Carburación que utilicen gas L.P. o natural, para verificar el estricto cumplimiento de las medidas de seguridad y protección civil que hayan sido dictadas tanto por las autoridades federales como por las estatales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+###### Articulo 141-B.
+
+La unidad estatal de protección civil de manera conjunta con la Dirección General de Tránsito y Transporte llevará a cabo una campaña permanente de vigilancia y verificación de las unidades del transporte público de pasajeros que estén autorizados para utilizar gas L.P. o natural así como para detectar a aquellas unidades que utilizan dicho combustible sin la autorización respectiva.
+
 ### CAPITULO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 142.
@@ -1764,3 +1780,15 @@ LIC. RAMON MARTIN HUERTA
 EL SECRETARIO DE GOBIERNO
 
 LIC. ANTONIO OBREGON PADILLA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE JUNIO DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+EL PRESENTE DECRETO GUBERNATIVO ENTRARÁ EN VIGOR EL CUARTO DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+###### ARTÍCULO SEGUNDO.
+
+SE DEROGAN TODAS LAS DISPOSICIONES ADMINISTRATIVAS QUE SE OPONGAN AL PRESENTE DECRETO GUBERNATIVO.
