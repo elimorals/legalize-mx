@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1956-06-20"
+last_updated: "1957-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 1956.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE AGOSTO DE 1957.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -1199,11 +1199,11 @@ El cargo de Magistrado solamente es renunciable por causa grave calificada por e
 
 Los Magistrados Propietarios y Suplentes, rendirán la protesta de Ley ante el Congreso del Estado o ante la Diputación Permanente, y los insaculados ante el Presidente del Supremo Tribunal.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 14 DE AGOSTO DE 1957)</small>
 
 ###### Artículo 117.
 
-El Supremo Tribunal de Justicia funcionará conforme a las prescripciones de la Ley Orgánica respectiva, en Tribunal Pleno que se integrará por los cinco magistrados, y en Salas Unitarias que se distinguirán por la numeración ordinal primera, segunda, tercera, cuarta y quinta.
+El Supremo Tribunal de Justicia funcionará conforme a las prescripciones de la Ley Orgánica respectiva, la cual se ajustará a las bases establecidas en esta Constitución. Los Magistrados se distinguirán entre sí por el calificativo numérico que corresponda al orden en que hayan sido designados.
 
 > <small>(REFORMADO, B.O. 5 DE ABRIL DE 1952)</small>
 
@@ -1259,11 +1259,13 @@ XVII. Conocer de conformidad con las leyes relativas de los juicios de responsab
 
 XVIII. Las demás que le confieran o impongan las leyes.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 14 DE AGOSTO DE 1957)</small>
 
 ###### Artículo 121.
 
-Si un magistrado se excusare o tuviere impedimento para conocer de un asunto de la competencia de Sala Unitaria, pasarán los autos a la siguiente por orden numérico; agotadas las salas, se llamará a los magistrados suplentes, por su orden. Si el asunto fuere de Tribunal Pleno, se llamará desde luego al suplente que corresponda. En uno y otro caso, agotado el número de propietarios y suplentes se procederá a integrar el Pleno o la Sala Unitaria con magistrados insaculados.
+Cuando algún Magistrado tuviere que eximirse de conocer de un asunto determinado, por recusación o excusa, se llamará para que lo substituya al Suplente que corresponda. Si el Magistrado impedido fuere el ponente en dicho asunto, el Suplente que lo substituya no asumirá la ponencia, quedando la elaboración del proyecto de resolución respectivo a cargo del Magistrado Propietario siguiente en número a quien no afecte impedimento.
+
+Cuando todos los Magistrados en ejercicio estuvieren impedidos para conocer de determinado negocio, el Supremo Tribunal se integrará por Magistrados Suplentes o Insaculados, en su caso, correspondiendo presidir los debates y ser ponente al primero que conforme a la Ley hubiere sido llamado.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1822,6 +1824,10 @@ SEXTO.- Entre tanto se expidan las Leyes Orgánicas y Reglamentarias relativas o
 SEPTIMO.- La presente Ley entrará en vigor el día 5 de mayo de 1954, previa su publicación en el Boletín Oficial del Estado.
 
 B.O. 20 DE JUNIO DE 1956.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 14 DE AGOSTO DE 1957.
 
 UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
