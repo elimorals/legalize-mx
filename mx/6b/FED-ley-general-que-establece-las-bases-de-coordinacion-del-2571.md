@@ -4,7 +4,7 @@ identifier: "FED-ley-general-que-establece-las-bases-de-coordinacion-del-2571"
 country: "mx"
 rank: "ley_general"
 publication_date: "1995-12-11"
-last_updated: "1995-12-11"
+last_updated: "1998-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2571&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-12-08"
 
 LEY GENERAL QUE ESTABLECE LAS BASES DE COORDINACION DEL SISTEMA NACIONAL DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 11 de diciembre de 1995.
 
@@ -161,7 +161,9 @@ El Consejo designará, a propuesta de su presidente, al Secretario Ejecutivo del
 
 El Secretario Ejecutivo del Sistema Nacional de Seguridad Pública deberá cumplir con los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I. Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce de sus derechos civiles y políticos;
 
 II. Tener más de 35 años de edad;
 
@@ -500,3 +502,9 @@ Sexto.- Se deroga el Acuerdo por el que se crea la Coordinación de Seguridad P�
 México, D.F., a 21 de noviembre de 1995.- Sen. Ernesto Navarro González, Presidente.- Dip. Fernando Salgado Delgado, Presidente.- Sen. Graciela Larios Rivas, Secretario.- Dip. Aurelio Marín Huazo, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
