@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-agua-potable-y-alcantarillado-del-estado-de-baja-3210"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-31"
-last_updated: "1990-06-20"
+last_updated: "1999-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 31 de diciembre de 1980.
 
@@ -39,9 +39,11 @@ DECRETA:
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 1o.
 
-Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto establecer las bases para la prestación de los servicios públicos de agua potable y alcantarillado en el Estado de Baja California Sur.
+Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto establecer las bases para la prestación de los servicios públicos de agua potable, alcantarillado y aguas residuales en el Estado de Baja California Sur.
 
 > <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 1985)</small>
 
@@ -75,7 +77,9 @@ IV.- Industriales.
 
 Se declara de utilidad pública:
 
-I.- La planeación, estudio, proyección, ejecución, rehabilitación, mantenimiento y ampliación de las obras y servicios necesarios para la operación y administración de los sistemas de agua potable y alcantarillado dentro del Estado.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1999)</small>
+
+I.- La planeación, estudio, proyección, ejecución, rehabilitación, mantenimiento y ampliación de las obras y servicios necesarios para la operación y administración de los sistemas de agua potable, alcantarillado y aguas residuales.
 
 II.- La adquisición y la utilización o aprovechamiento de obras hidráulicas de propiedad privada, cuando se requieran para la eficiente prestación del servicio público de distribución de agua potable y alcantarillado establecido o por establecer.
 
@@ -83,11 +87,13 @@ III.- La prevención y el control de la contaminación de las aguas que se local
 
 IV.- La adquisición de los bienes inmuebles o muebles que sean necesarios para la construcción, rehabilitación, ampliación, mejoramiento, conservación, desarrollo y mantenimiento de los sistemas de agua potable y alcantarillado, incluyendo las instalaciones conexas, como son los caminos de acceso y las zonas de protección.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFOCIEMBRE DE 1999)</small>
 
 ###### ARTICULO 6o.
 
-El Ejecutivo del Estado podrá decretar la expropiación, ocupación temporal, total o parcial de las obras hidráulicas y los bienes de propiedad privada, sujetándose a las leyes que sobre la materia se encuentren vigentes.
+El ejecutivo del Estado podrá decretar la expropiación, ocupación temporal, total o parcial de las obras hidráulicas y los bienes de propiedad privada, incluidas las que se refieren al tratamiento de aguas residuales, sujetándose a las leyes que sobre la materia se encuentren vigentes.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 El monto de la indemnización correspondiente podrá ser cubierta por el operador del sistema con cargo a los fondos de que disponga, provenientes de la recaudación del servicio, o con cargo a los fondos que por acuerdo especial se le otorguen en cada caso concreto.
 
@@ -569,14 +575,6 @@ V.- (DEROGADA, B.O. 20 DE JUNIO DE 1990)
 
 VI.- Las demás que le sean conferidas por los ordenamientos vigentes.
 
-> <small>N. DE E. EL LEGISLADOR FUE OMISO EN CUANTO A LA EXISTENCIA DEL PRESENTE APARTADO, B.O. 20 DE JUNIO DE 1990.</small>
-
-DE LAS ATRIBUCIONES.
-
-> <small>N. DE E. EL LEGISLADOR FUE OMISO EN CUANTO A LA EXISTENCIA DEL PRESENTE APARTADO, B.O. 20 DE JUNIO DE 1990.</small>
-
-DE LOS PRESIDENTES MUNICIPALES.
-
 > <small>(REFORMADA SU DENOMINACION, B.O. 20 DE JUNIO DE 1990)</small>
 
 ### CAPITULO CUARTO
@@ -631,65 +629,113 @@ VII.- Otorgar o sustituir poderes especiales o generales y revocar los mismos.
 
 VIII.- Las demás que les señalen las disposiciones aplicables.
 
-> <small>(ADICIONADO Y REUBICADO, B.O. 20 DE JUNIO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1999)</small>
 
-ARTICULO 39 E.- Los Organismos Operadores tendrán las siguientes funciones y atribuciones:
+###### ARTICULO 39-E.
+
+Los organismos operadores tendrán las siguientes funciones y atribuciones:
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
 
 I.- Administrar, operar, conservar y mantener los Sistemas de Agua Potable y Alcantarillado de su Jurisdicción.
 
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
+
 II.- Facturar y recaudar el importe de los servicios conforme a las tarifas en vigor.
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
 
 III.- Proponer ante la Comisión Estatal de Agua Potable y Alcantarillado, las obras de construcción y ampliación que requieran de apoyos financieros Federales, Estatales o Crediticios.
 
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
+
 IV.- Proponer ante el Consejo de Administración las obras de construcción, conservación, mantenimiento, rehabilitación o ampliación de los Sistemas de su Jurisdicción y en su caso, llevar a cabo la ejecución de las mismas, respetando los términos de la Ley de Desarrollo Urbano del Estado de Baja California Sur.
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
 
 V.- Formular los proyectos de tarifas para el cobro de los servicios y proponerlos al Consejo de Administración para su aprobación.
 
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
+
 VI.- Contratar libremente con empresas privadas los servicios de medición, facturación, cobranza, mantenimiento y reparación de fugas de los Sistemas a su cargo.
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
 
 VII.- Formular y mantener actualizado el Padrón de usuarios.
 
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
+
 VIII.- Tener la Administración General de los Estado Muebles e Inmuebles de su propiedad.
 
-IX.- Recibir las obras de agua potable y alcantarillado que se construyen en su Jurisdicción.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1999)</small>
+
+IX.- Recibir las obras de agua potable, alcantarillado y tratamiento de aguas residuales que se construyan en su jurisdicción y solicitar a las autoridades correspondientes, las expropiaciones temporales o parciales de obras hidráulicas y bienes propiedades privada incluidas las que se refieran al tratamiento de aguas residuales para el logro de sus objetivos.
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
 
 X.- Contratar los servicios con los usuarios cobrar los Derechos correspondientes, instalar medidores en tomas domiciliarias, en fuentes de captación y líneas de conducción, así como realizar las instalaciones necesarias.
 
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
+
 XI.- Atender las quejas y recursos interpuestos pro los usuarios.
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
 
 XII.- Solicitar a las Tesorerías Municipales el ejercicio de la facultad económica coactiva en contra de los terceros y usuarios morosos y los procedimientos de apremio previstos por la Ley de Hacienda Municipal, para hacer efectivos los adeudos, multas, recargos, derechos de cooperación y cualquier Ingreso lícito que no fuera cubierto oportunamente.
 
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
+
 XIII.- Vigilar que todos los Ingresos que se recauden se inviertan en los programas y obras de agua potable y alcantarillado y que en ningún caso podrán ser destinados a otro fin.
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
 
 XIV.- Aplicar las sanciones que establezcan la Ley de Agua Potable y Alcantarillado por las infracciones que cometan.
 
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
+
 XV.- Solicitar ante las autoridades correspondientes, las expropiaciones temporales o parciales de obras hidráulicas y bienes propiedad privada para el logro de sus atribuciones.
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
 
 XVI.- Establecer las Oficinas y Dependencias dentro de su Jurisdicción.
 
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
+
 XVII.- Formular su Presupuesto Anual y sus Estados Financieros conforme a los lineamientos que se establezcan.
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
 
 XVIII.- Establecer sistemas contables que entre otros, consideren la depreciación y reposición de sus Activos Fijos para suprimir los Subsidios.
 
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
+
 XIX.- Practicar el control de calidad del agua potable desde las fuentes mismas de abastecimiento, zonas de protección, estructuras de capacitación, sistemas de conducción, de regularización y distribución, así como en las instalaciones de tratamiento y operación de los sistemas y operación de los sistemas y equipos en los términos de las disposiciones legales aplicables e informar trimestralmente de los resultados obtenidos al Consejo de Administración del Organismo Operador Municipal y a la Comisión Estatal de Agua Potable y Alcantarillado.
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
 
 XX.- Desarrollar los programas de capacitación y adiestramiento para su personal en coordinación con la Comisión Estatal.
 
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
+
 XXI.- Ejecutar en el ámbito de su jurisdicción los programas que le correspondan dentro del programa "CULTURA DEL AGUA", dependiente de la Comisión Estatal.
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
 
 XXII.- Formular y mantener actualización el Inventario de bienes y recursos que integran su Patrimonio.
 
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
+
 XXIII.- Formular y mantener actualizado el Inventario del Sistema de Agua Potable y Alcantarillado del Municipio correspondiente y remitir copia del mismo a la Comisión Estatal.
 
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
+
 XXIV.- Gestionar la obtención de créditos necesarios, a fin de destinarlos a la planeación, construcción, ampliación, rehabilitación y mantenimiento de las obras y servicios para la operación de los Sistemas de Agua Potable y Alcantarillado del Municipio respectivo. En garantía de los créditos que se obtengan los Organismos Operadores podrán ceder los Derechos, rentas y cualquier ingresos que perciban pro la explotación de los Sistemas, hasta por el monto del crédito otorgado, incluyendo los intereses que se generen.
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 1990)</small>
 
 XXV.- Los demás que le confieren las Leyes, Reglamentos y acuerdos.
 
 > <small>(ADICIONADO Y REUBICADO, B.O. 20 DE JUNIO DE 1990)</small>
-
-###### ARTICULO 39-E.
-
-(DEROGADO, B.O. 10 DE OCTUBRE DE 1985)
 
 ###### ARTICULO 40.
 
@@ -1238,3 +1284,7 @@ Se derogan todas las disposiciones que se opongan a la Ley de Agua Potable y Alc
 ###### ARTICULO TERCERO.
 
 Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE DICIEMBRE DE 1999.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
