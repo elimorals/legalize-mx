@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1998-12-30"
+last_updated: "1999-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -95,9 +95,9 @@ Cuando en esta Ley o en alguna otra se dé una denominación nueva o distinta a 
 
 El pago de los créditos fiscales deberá hacerse en efectivo, salvo disposición expresa de una ley particular. Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo.
 
-> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-Se aceptarán como medios de pago, los cheques, certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados y las tarjetas electrónicas bancarias de crédito o de débito. Las tarjetas electrónicas bancarias de crédito o débito, únicamente se aceptarán cuando exista identidad entre el titular del crédito fiscal y el de la forma de pago, y en los lugares y operaciones que así autorice la Secretaría de Finanzas y Tesorería General del Estado. Los créditos fiscales podrán ser cubiertos en especie, mediante previa autorización por escrito del Secretario de Finanzas y Tesorero General del Estado, debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el presente Código.
+Se aceptarán como medios de pago, los cheques certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados y las tarjetas electrónicas bancarias de crédito o de débito, así como las transferencias electrónicas de fondos reguladas por el Banco de México. Las tarjetas electrónicas bancarias de crédito o débito, únicamente se aceptarán en los lugares y operaciones que así autorice la Secretaría de Finanzas y Tesorería General del Estado. Las transferencias electrónicas de fondos reguladas por el Banco de México, solamente se aceptarán de acuerdo a las reglas generales que fije la Secretaría de Finanzas y Tesorería General del Estado. Los créditos fiscales podrán ser cubiertos en especie, mediante previa autorización por escrito del Secretario de Finanzas y Tesorero General del Estado, debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el presente Código.
 
 ## TITULO SEGUNDO. De los Impuestos
 
@@ -839,23 +839,35 @@ Las infracciones que se cometan al presente capítulo, si no se encuentran expre
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 1975)
 
-### CAPITULO TERCERO. Del Impuesto sobre Enajenación de Automóviles, Camiones y demás vehículos de motor
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+### CAPITULO TERCERO. Del Impuesto Sobre Transmisión de Propiedad de Vehículos Automotores Usados
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 104.
 
-Es objeto de este impuesto la enajenación de automóviles, camiones y demás vehículos de motor usados, que se realice dentro del territorio del Estado, excepto cuando la enajenación sea efectuada por personas físicas o morales que realicen actividades empresariales.
+Es objeto de este impuesto la transmisión de propiedad de automóviles, camiones y demás vehículos de motor usados, que se realice dentro del territorio del Estado, excepto cuando los vehículos se adquieran de personas físicas o morales que realicen actividades empresariales.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 105.
 
-Son sujetos de este impuesto, quienes por cualquier título transmitan el dominio de bienes de conformidad con lo dispuesto en el Artículo anterior.
+Son sujetos de este impuesto, quienes por cualquier título adquieran el dominio de vehículos automotores usados, de conformidad con lo dispuesto en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 106.
 
-Es base de este Impuesto, el valor que resulte mayor entre el precio consignado en la operación y el que se encuentre señalado en los Tabuladores Oficiales de valores mínimos de la Tesorería General, o de la Secretaría de Hacienda y Crédito Público, cuando sean modelos anteriores al año en curso.
+Es base de este impuesto, el valor mayor entre el de operación y el valor comercial.
 
-Para modelos del año, será base del impuesto el 90% del importe de la primera facturación.
+La autoridad recaudadora podrá utilizar como referencia para determinar el valor comercial, el valor que se establezca en las diversas Guías y Publicaciones sobre precios de automóviles usados, que existen en el mercado y tratándose de vehículos no comprendidos en dichos documentos, la Secretaría de Finanzas y Tesorería General del Estado practicará un avalúo para determinar el valor que sirva de base para el pago del impuesto.
+
+El valor comercial determinado conforme a lo anterior, será publicado en el Periódico Oficial del Estado por lo menos una vez cada año.
+
+Los particulares que realicen las operaciones a que se refiere este capítulo, dentro del término a que se refiere el artículo 109, podrán inconformarse con el valor publicado, mediante escrito de inconformidad que presentarán ante la propia Secretaría, acompañando el avalúo y los demás elementos de prueba necesarios, debiendo emitirse la resolución en un término no menor de veinte días, misma que podrá ser impugnada en los términos de la Ley de Justicia Administrativa del Estado.
+
+En el caso de adquisición de vehículos modelo del año de aplicación de la Ley, se tendrá como valor base de este impuesto, el 90% del valor de factura original expedido por el Distribuidor, sin incluir el Impuesto al Valor Agregado.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -869,35 +881,53 @@ Para los efectos de este impuesto se considerará, salvo prueba en contrario, qu
 
 Este impuesto se causará, liquidará y pagará, con tasa del 1.8% sobre la base determinada de conformidad con las disposiciones precedentes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 109.
 
-El pago de este impuesto deberá efectuarse en la Oficina Recaudadora correspondiente, dentro de los quince días siguientes a la celebración de la operación.
+El pago del Impuesto deberá efectuarse en la Oficina Recaudadora correspondiente o ante la Institución Bancaria autorizada, dentro de los 30 días naturales siguientes a la celebración de la operación.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 110.
 
-Los automóviles, camiones y demás vehículos de motor trasmitidos o adquiridos, quedarán afectos preferentemente al pago del impuesto a que se refiere este Capítulo.
+Los automóviles, camiones y demás vehículos de motor usados, cuya transmisión se realice por cualquier título, quedarán afectos preferentemente al pago del Impuesto a que se refiere este capítulo.
 
 ###### ARTICULO 111.
 
 Para la recaudación de este impuesto se observarán las siguientes reglas:
 
-I.- Las personas que lleven a cabo las operaciones objeto de este impuesto, deberán presentar una manifestación en las formas oficialmente aprobadas, ante la Oficina Recaudadora correspondiente, a fin de proporcionar los datos y documentos relativos a la operación, especificando debidamente su monto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-II.- La Oficina Recaudadora, al recibir dicha declaración procederá a efectuar el cobro del impuesto, expedirá el comprobante respectivo y sellará la factura o comprobante que ampare la propiedad del vehículo materia de la operación, para hacer constar que el impuesto ha sido cubierto;
+I.- Los enajenantes, comisionistas o cualquier persona que lleve a cabo las operaciones objeto de este impuesto deberán presentar un aviso dentro de los 15 días naturales siguientes de celebrada la operación, en las formas oficialmente aprobadas, ante las Oficinas Recaudadoras correspondientes. También podrá presentarse ante las instituciones bancarias autorizadas cuando se vaya a enterar el impuesto respectivo conjuntamente con el aviso. El aviso deberá ser firmado tanto por el vendedor, como por el comprador y contener los requisitos que establezca la Secretaría de Finanzas y Tesorería General del Estado.
 
-III.- Las autoridades correspondientes en el Estado, no darán trámite a ninguna solicitud de alta, bajo (sic) o traspaso de vehículos si no se hubiere cubierto previamente el impuesto a que se refiere este Capítulo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-IV.- Las empresas dedicadas a la compraventa de vehículos llevarán un libro autorizado por la Tesorería General, en el que anotarán en el acto de recibir cada unidad las características que la identifiquen, el nombre y domicilio del propietario anterior, el del comitente o consignante.
+II.- La Autoridad Recaudadora, al tener conocimiento de operaciones objeto de este impuesto, se cerciorará de que se haya cubierto el impuesto respectivo dentro del plazo de los 30 días naturales siguientes de celebrada la operación, transcurrido dicho plazo sin que se hubiese efectuado el pago, la Autoridad procederá al cobro del importe del impuesto, a través del procedimiento administrativo de ejecución.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+III.- Tratándose de vehículos por los cuales deba pagarse el Impuesto Sobre Tenencia o Uso de Vehículos y derechos de control vehicular, no se aceptará el aviso a que se refiere la fracción I, de este artículo, si no se hubiere cubierto previamente el impuesto y los derechos mencionados.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+IV.- Las personas físicas o morales que realicen actividades empresariales, dedicadas a la compraventa de vehículos usados, deberán presentar el aviso a que se refiere la fracción I de este artículo, dentro del término señalado, no obstante que la operación correspondiente no genere el pago del impuesto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+El Estado podrá celebrar Convenios de Colaboración con los Municipios, a fin de que éstos apoyen al Estado en la ubicación y en su caso detención de los vehículos por los cuales se hubiese presentado el aviso a que se refiere este artículo y no se hubiese cubierto oportunamente el impuesto correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 112.
 
-Son solidariamente responsables del pago de este impuesto:
+Son solidariamente responsables del pago de este Impuesto, hasta por el valor comercial del vehículo:
 
-I.- Los adquirientes;
+I.- Los enajenantes, cuando no se dé el aviso oportunamente, resulten falsos los datos proporcionados y no se localice al comprador.
 
-II.- Los comisionistas o cualquiera otra persona que intervenga en las operaciones;
+II.- Los comisionistas, o cualquier otra persona que intervenga en las operaciones, salvo que demuestre fehacientemente que presentaron el aviso y anexos respectivos en las formas oficiales aprobadas, ante la Oficina Recaudadora correspondiente.
 
-III.- Los empleados o funcionarios públicos que autoricen cualquier trámite de los referidos en este Capítulo, sin haberse cerciorado del pago de este impuesto.
+III.- Los empleados o Funcionarios Públicos que autoricen cualquier trámite definitivo, de los referidos en éste Capítulo, sin haberse cerciorado del pago de este impuesto.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1183,11 +1213,11 @@ Es base de este impuesto, el monto total de los pagos a que se refiere el Artíc
 
 Este impuesto se causará con tasa del 2% sobre la base a que se refiere el Artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 158.
 
-El pago del impuesto deberá efectuarse a más tardar el día quince del mes siguiente a aquél al que corresponda dicho pago, presentándose al efecto una declaración en la oficina recaudadora correspondiente, en las formas oficialmente aprobadas
+El pago del impuesto deberá efectuarse a más tardar el día diecisiete del mes siguiente a aquél al que corresponda dicho pago, presentándose al efecto una declaración en la Oficina Recaudadora correspondiente, en las formas oficialmente aprobadas.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1219,9 +1249,7 @@ III.- Presentar los avisos, datos, documentos e informes que les soliciten las a
 
 IV.- Las sucursales, bodegas, agencias, u otras dependencias de la matriz, deberán empadronarse por separado;
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-V.- Solicitar la devolución de las cantidades que resulten a su favor, en los términos del Código Fiscal del Estado.
+V.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 160.
 
@@ -1463,11 +1491,13 @@ II.- Se hagan exigibles las erogaciones por la prestación de los servicios grav
 
 III.- Se expida el comprobante de pago correspondiente.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 176.
 
-El impuesto se calculará por meses de calendario y se cubrirá ante la oficina recaudadora correspondiente a más tardar el día 15 del mes siguiente al período que corresponda.
+El impuesto se calculará por meses de calendario y se cubrirá ante la oficina recaudadora correspondiente a más tardar el día 17 del mes siguiente al período que corresponda.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 Las devoluciones, descuentos, reducciones y bonificaciones se deducirán en el mes que efectivamente se realicen.
 
@@ -2065,45 +2095,45 @@ T A R I F A
 
 Concepto:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- Inscripción de actas de nacimiento, reconocimiento de hijos, adopción, tutela y defunción .5 cuotas
+I.- Inscripción de actas de nacimiento, reconocimiento de hijos, adopción, tutela y defunción .64 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-II.- Inscripción de actas de matrimonio 2.5 cuotas
+II.- Inscripción de actas de matrimonio 2.95 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-III.- Inscripción de sentencias de divorcio 5 cuotas
+III.- Inscripción de sentencias de divorcio 6.05 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-IV.- Expedición de copias certificadas de las actas del estado civil, cada .5 cuotas
+IV.- Expedición de copias certificadas de las actas del estado civil, cada una .55 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-V.- Cuando los servicios del oficial se presten a solicitud del interesado en horas o días inhábiles, o en lugar distinto a la sede de la Oficialía, se causarán dos tantos más de la suma fijada en las fracciones anteriores. En casos de que el servicio se preste en horas o días inhábiles o en lugar distinto al de la Oficialía, se cobrará en favor del Oficial del Registro Civil, por concepto de reposición de gastos, una cantidad de hasta 5 cuotas
+V.- Cuando los servicios del oficial se presten a solicitud del interesado en horas o días inhábiles, o en lugar distinto a la sede de la Oficialía, se causarán dos tantos más de la suma fijada en las fracciones anteriores. En los casos de que el servicio se preste en horas o días inhábiles o en lugar distinto al de la Oficialía, se cobrará en favor del Oficial del Registro Civil, por concepto de reposición de gastos, una cantidad de hasta 6.8 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-VI.- Las anotaciones marginales 1.5 cuotas
+VI.- Las anotaciones marginales 1.84 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-VII.- Por la inscripción de actos o hechos realizados en el extranjero 5.5 cuotas
+VII.- Por la inscripción de actos o hechos realizados en el extranjero 6.32 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-VIII.- Por la tramitación del procedimiento de aclaración o rectificación de actas 1.5 cuotas
+VIII.- Por la tramitación del procedimiento de aclaración o rectificación de actas 1.92 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-IX.- Por servicio de información de inscripciones de Registro Civil, obtenidos mediante sistemas de comunicación, proporcionada por Oficialías ubicadas fuera del área metropolitana o del Estado, por acta 2.5 cuotas
+IX.- Por servicio de información de inscripciones de de (sic) Registro Civil, obtenidos mediante sistemas de comunicación, proporcionada por Oficialías ubicadas fuera del área metropolitana o del Estado, por acta 2.87 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-X.- Por otros servicios no especificados.. 1.07 cuotas
+X.- Por otros servicios no especificados 1.23 cuotas
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
@@ -2251,11 +2281,11 @@ a) Por búsqueda de antecedentes registrales respecto de condominios, fraccionam
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-b) Expedición de copias de registro de antecedentes, por cada una ..... .70 cuotas
+b) Expedición de copias de registro de antecedentes, por cada una... .70 cuotas
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-c) Información de datos de antecedentes registrales ..... .70 cuotas
+c) Información de datos de antecedentes registrales... .70 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2633,9 +2663,9 @@ V.- Por expedición de constancias catastrales sin certificar, cada una 1 cuota
 
 VI.- Por expedición de constancias catastrales certificadas, cada una 2 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-VII.- Por la inscripción de subdivisiones, relotificaciones, fraccionamientos, condominios o departamentos, por cada lote resultante 1 cuota
+VII.- Por la inscripción de subdivisiones, parcelaciones, relotificaciones, fraccionamientos, condominios, departamentos o disolución de copropiedades, por cada lote resultante 1 cuota
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2705,9 +2735,9 @@ a) Para vehículos de motor, excepto motocicletas, anualmente 18 cuotas
 
 b) Para remolques, anualmente 7 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-c) Para motocicletas con motor mayor de 75 centímetros cúbicos, incluyendo el alta en el padrón, anualmente 3 cuotas
+c) Para motocicletas con motor mayor de 75 centímetros cúbicos, anualmente 1.5 cuotas
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2721,17 +2751,21 @@ XIV.- Por reposición de tarjeta de circulación 2 cuotas
 
 XV.- Por expedición de licencia de manejar o su reposición:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-a) Con vigencia de un año...1.9 cuota
+a) Con vigencia de un año 2.9 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-b) Con vigencia de tres años 5 cuotas
+b) Con vigencia de tres años 6 cuotas
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 XVI.- Por expedición o reposición de placas a los vehículos mencionados en la fracción XIII en los incisos a) y b).... 5 cuotas
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Por expedición o reposición de placas a los vehículos mencionados en la fracción XIII, inciso c) 1.5 cuotas
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2745,9 +2779,9 @@ XVIII.- Por expedición de constancias y certificaciones……………. 1 cuota
 
 XIX. - Por servicio de información de datos o documentos de control vehicular, obtenidos mediante sistemas de comunicación, proporcionada por otras Entidades Federativas, por documento...2 cuotas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-Para dar trámite al pago sobre el derecho de servicios de control vehicular, el propietario del vehículo deberá acreditar que no existe infracción alguna por violación al reglamento de tránsito en vigor.
+Para dar trámite al pago de los derechos por servicios de control vehicular, expedición o reposición de placas o baja de vehículos del padrón vehicular, el propietario del vehículo deberá acreditar que no existe infracción alguna por violación al reglamento de tránsito en vigor, además de acreditar el pago del Impuesto Sobre Transmisión de Propiedad de Vehículos Automotores Usados, en caso de que éste se haya generado.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2757,13 +2791,11 @@ El Estado y los Municipios podrán coordinarse en materia de control vehicular, 
 
 Quienes se encuentren obligados legalmente a solicitar los servicios a que se refiere la fracción XIII de este artículo, deberán hacerlo a más tardar el último día del mes de marzo. De no ser así, se les aplicará una multa hasta del 100% de los derechos omitidos. El plazo a que se refiere este párrafo, podrá ser prorrogado por la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-La vigencia de las licencias de manejar expirará el último día del mes de nacimiento del conductor.
+La vigencia de las licencias de manejar expirará en el término de un año o de tres años según corresponda, contados a partir del día de su emisión.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-Las personas físicas y morales que adquieran vehículos en el Estado, están obligadas a solicitar la inscripción o cambio de propietario en el padrón vehicular de la Secretaría de Finanzas y Tesorería General del Estado, dentro de los 15 días siguientes a su adquisición, mediante la documentación y requisitos que señale la propia Secretaría, siendo responsables solidarios en esta obligación los enajenantes, además de la responsabilidad en el pago de las contribuciones y demás obligaciones fiscales que se generen con motivo de la propiedad, posesión o tenencia de vehículos inscritos en el padrón vehicular, a cargo de las personas que aparezcan inscritas en dicho padrón. En caso de incumplimiento de esta obligación se impondrá una sanción hasta del 100% de los derechos, que correspondan conforme a la fracción XIII de este artículo.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 (REUBICADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 31 DE DICIEMBRE DE 1993)
 
@@ -2913,187 +2945,35 @@ X.- Por expedición de certificaciones relativas a los derechos patrimoniales de
 
 ## TITULO CUARTO. De los Productos
 
-(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 31 DE DICIEMBRE DE 1993)
-
 ### CAPITULO SEXTO. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Urbano y Obras Públicas
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ARTICULO 276 bis.- Por los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas del Estado, se causarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- Por subdivisiones, fusiones y relotificaciones, por cada lote o fracción resultante 30 cuotas
+I.- Por expedición de copias certificadas de planos 3.5 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-Por los predios resultantes de hasta 250 metros cuadrados de superficie y los que se deriven de herencias, si el valor catastral de éstos no excede de 6,378 cuotas, siempre que el propietario sea persona física y no tenga otra propiedad raíz en el Estado o, teniendo una sola, su valor catastral no exceda de 12,755 cuotas, se pagarán por cada lote o fracción resultante. ….. 3 cuotas
+II.- Por la expedición de diversas constancias y certificaciones 2.5 cuotas
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-Por información de factibilidad y lineamientos de los usos de suelo urbanos y de las edificaciones 2 cuotas
+IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+V.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-II.- Por inicio de trámite de licencia de uso de suelo o de edificación, por unidad de edificación o vivienda o por superficie de terreno, conforme a la siguiente tarifa:
+VI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-a) Hasta 100 m2. ….. 6 cuotas
+VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-b) Mayor de 100 m2 y hasta 250 m2. ….. 12 cuotas
+VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-c) Mayor de 250 m2 y hasta 500 m2. ….. 18 cuotas
+IX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-d) Mayor de 500 m2 y hasta 1,000 m2 ….. 24 cuotas
-
-e) Mayor de 1,000 m2. ….. 30 cuotas
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
-
-III.- Por la licencia de uso de suelo o de edificaciones, por unidad de edificación o vivienda o por superficie de terreno, conforme a la siguiente tarifa:
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-a) Hasta 100 m2. ….. 6 cuotas
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-b) Mayor de 100 m2 y hasta 250 m2. ….. 12 cuotas
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-c) Mayor de 250 m2 y hasta 500 m2. ….. 18 cuotas
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-d) Mayor de 500 m2 y hasta 1,000 m2. ….. 24 cuotas
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-e) Mayor de 1,000 m2. ….. 30 cuotas
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
-
-Adicionalmente se cubrirá una cantidad complementaria, por metro cuadrado de construcción, excluyendo estacionamientos, conforme a la siguiente tarifa:
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-a) Hasta 100 m2 .09 cuotas
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-b) Mayor de 100 m2 y hasta 250 m2 .18 cuotas
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-c) Mayor de 250 m2 y hasta 500 m2 .27 cuotas
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-d) Mayor de 500 m2 y hasta 1,000 m2 .36 cuotas
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-e) Mayor de 1,000 m2 .43 cuotas
-
-La cuota prevista en el párrafo anterior no excederá de $ 8.00 por metro cuadrado, para las edificaciones habitacionales multifamiliares. Las casas habitación estarán exentas del pago de este derecho.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-IV.- Por factibilidad y autorización de regímenes en condominio:
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-a) Vertical, por metro cuadrado de construcción, excluyendo estacionamientos .13 cuotas
-
-b) Horizontal, por metro cuadrado de terreno, conforme a la tarifa señalada en la fracción V.
-
-c) Mixto, le serán aplicables los derechos previstos en los incisos a) y b).
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-V.- Por autorización de fraccionamientos:
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-a) Por factibilidad y lineamientos 117.5 cuotas
-
-b) Por proyecto urbanístico, por metro cuadrado de área vendible:
-
-1.- Habitacionales o industriales, exceptuando los predios reservados para equipamientos comerciales y de servicios de acuerdo a lo siguiente:
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-A. Lotes con superficie de hasta 150 metros cuadrados .107 cuotas
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-B. Lotes con superficie de más de 150 metros cuadrados hasta 300 metros cuadrados .143 cuotas
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-C. Lotes con superficie mayor de 300 metros cuadrados .172 cuotas
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-2.- Industriales ubicados en los municipios de Apodaca, Escobedo, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina .107 cuotas
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-3.- Campestres ubicados en los municipios de Apodaca, Guadalupe, Monterrey, San Pedro Garza García, Santa Catarina y Santiago .107 cuotas
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-4.- Campestres ubicados en el resto del Estado .007 cuotas
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-5.- Otros ubicados en los municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santiago y Santa Catarina .107 cuotas
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-6.- Otros ubicados en el resto del Estado .007 cuotas
-
-7.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1998)
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-c) Proyecto Ejecutivo 117.5 cuotas
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-d) Certificación del cumplimiento de requisitos para ventas 117.5 cuotas
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-e) Prórroga 58.5 cuotas
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-f) Actualización de garantías 58.5 cuotas
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-g) Modificaciones 58.5 cuotas
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-h) Recepción de obra 586.5 cuotas
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-VI.- Por regularización y ordenamiento urbano en fraccionamientos y en licencia de uso de suelo o de edificaciones, se cubrirán las cuotas previstas en este artículo en las fracciones III y V, con un incremento del 75%.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-VII.- Por expedición de copias certificadas de planos 3.5 cuotas
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-VIII.- Por la expedición de diversas constancias y certificaciones 2.5 cuotas
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-IX.- Por información de alineamiento de la vialidad 1.5 cuotas
+(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 31 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 278.
 
@@ -3155,6 +3035,8 @@ XI.- Accesorios y Rezagos; y,
 
 XII.- Otros no especificados.
 
+> <small>N. DE E. LOS INGRESOS PREVISTOS POR EL ARTICULO 281 NO SE COBRARAN DURANTE EL AÑO 2000, SEGUN EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO 245 P.O. 31 DE DICIEMBRE DE 1999</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 ## TITULO SEXTO. Tasas Adicionales
@@ -3172,6 +3054,8 @@ Los organismos descentralizados del Estado y los fideicomisos en los que el Esta
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 Dicha aportación la realizarán a más tardar el día 7 del mes siguiente a aquél al que se hayan percibido los ingresos.
+
+> <small>N. DE E. LOS INGRESOS PREVISTOS POR EL ARTICULO 282 NO SE COBRARAN DURANTE EL AÑO 2000, SEGUN EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO 245 P.O. 31 DE DICIEMBRE DE 1999</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -3556,3 +3440,9 @@ Durante el año de 1999, los Derechos por Servicios prestados en el Registro Pú
 ###### ARTICULO CUARTO.
 
 Durante 1999 no se cubrirán los ingresos previstos en los artículos 281 y 282 de la Ley de Hacienda del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1999.
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1o. de Enero del año 2000.
+
+Artículo Segundo.- Durante el año 2000 no se cubrirán los ingresos previstos en los artículos 281 y 282 de la Ley de Hacienda del Estado.
