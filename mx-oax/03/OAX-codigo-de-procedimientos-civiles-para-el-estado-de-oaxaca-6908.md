@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1984-06-09"
+last_updated: "1986-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 1986.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -525,17 +525,21 @@ III. Una copia en papel común del escrito y de los documentos, cuando haya de c
 
 Si excedieren los documentos de veinticinco fojas, quedarán en la secretaría para que se instruyan las partes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 1986)</small>
+
 ###### Artículo 93.
 
-También deberá acompañarse a toda demanda, contestación, réplica o dúplica, el documento o documentos en que la parte interesada funde su derecho.
+También deberán acompañar a toda demanda y a su contestación, el documento o documentos en que las partes interesadas funden su derecho.
 
 Si no los tuviere a su disposición, designará el archivo o lugar en que se encuentren los originales.
 
 Se entenderá que el actor tiene a su disposición los documentos y deberá acompañarlos precisamente a la demanda, siempre que existan los originales en un protocolo o archivo público del que pueda pedir y obtener copias autorizadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 1986)</small>
+
 ###### Artículo 94.
 
-Después de la demanda, contestación, réplica o dúplica, no se admitirán al actor ni al demandado, respectivamente, otros documentos que los que se hallen en alguno de los casos siguientes:
+Después de la demanda y de su contestación no se admitirán al actor ni al demandado, respectivamente, otros documentos que los que se hallen en los casos siguientes:
 
 I. Ser de fecha posterior a dichas promociones;
 
@@ -671,13 +675,19 @@ III. En todos los demás casos previstos por la ley.
 
 En los casos de las fracciones I y II, los edictos se publicarán por tres veces, con intervalos no menores de siete días en el Periódico Oficial y otro periódico de los de mayor circulación, haciéndose saber al citado que deberá presentarse dentro de un término que no bajará de quince ni excederá de treinta días, si se trata de citaciones.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 1986)</small>
 
 ###### Artículo 116.
 
-La segunda y ulteriores notificaciones se harán por medio de lista que se fijara en lugar visible y de fácil acceso del juzgado. La lista se fijará a primera hora de despacho del día siguiente al de la fecha de la resolución. Si alguna de las partes no se presentará a oír notificaciones hasta las 14:30 horas del mismo día se tendrá por hecha, poniendo el notificador la razón correspondiente.
+En los juzgados que funcionan en la Ciudad de Oaxaca de Juárez, la segunda (sic) ulteriores notificaciones se harán por medio de lista, que se fijará en lugar visible y de fácil acceso. La lista se fijará a primera hora de despacho del día siguiente al de la fecha de la resolución. Si alguna de las partes no se presentara a oír notificaciones hasta las catorce treinta horas del mismo día, se tendrá por hecha, poniendo en la notificación la razón correspondiente.
 
-En la lista a que se refiere el párrafo anterior, se expresaran el número del juicio de que se trate, el nombre del actor y del demandado, y síntesis de la resolución que se notifique.
+En la lista a que se refiere el párrafo anterior, se expresarán el número del juicio de que se trata, el nombre del actor y del demandado y síntesis de la resolución que se notifique.
+
+Las resoluciones que se dicten fuera del término que señala el artículo 82 de este Código, se hará personalmente por el Secretario o el notificador a los interesados o sus procuradores si ocurren a horas de audiencia al juzgado o tribunal respectivo en el mismo día en que se dicten. Si no lo verifican y tuvieren casa señalada, la notificación se hará al día siguiente en dicha casa o por medio de instructivo que se les dejará, entregándose este a cualquiera de las personas designadas en el artículo 112.
+
+Si no tuvieren casa señalada, la notificación se hará por lista en los términos de este artículo.
+
+En los juzgados foráneos, la segunda y ulteriores notificaciones se harán en todo caso en el domicilio señalado para oírlas y con las formalidades señaladas anteriormente.
 
 ###### Artículo 117.
 
@@ -2167,7 +2177,7 @@ La declaración una vez firmada no puede variarse ni en la substancia ni en la r
 
 ###### Artículo 365.
 
-En el acto del examen de un testigo, o dentro de los tres días siguientes, pueden la partes atacar el dicho de aquél por cualquier circunstancia que en su concepto afecte su veracidad, cuando esa circunstancia no haya sido ya expresada en sus declaraciones. La petición de tachas se substanciará en incidente por cuaderno separado y su resolución se reservará para la definitiva.
+En el acto del examen de un testigo, o dentro de los tres días siguientes, pueden las partes atacar el dicho de aquél por cualquier circunstancia que en su concepto afecte su veracidad, cuando esa circunstancia no haya sido ya expresada en sus declaraciones. La petición de tachas se substanciará en incidente por cuaderno separado y su resolución se reservará para la definitiva.
 
 ###### Artículo 366.
 
@@ -2234,6 +2244,8 @@ No se admite prueba contra la presunción legal cuando la ley lo prohibe expresa
 Contra las demás presunciones legales y contra las humanas es admisible la prueba.
 
 ### CAPITULO V. De los alegatos
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 1986)</small>
 
 ###### Artículo 377.
 
@@ -2341,7 +2353,7 @@ La valoración de las pruebas se hará de acuerdo con el presente capítulo, a m
 
 ###### Artículo 399.
 
-Concluido el término probatorio quedarán los autos en la Secretaría por el término de diez días a disposición de cada una de las partes, primero para el actor y después para el reo, para que aleguen dentro de aquel término. Pasado que sea éste serán citados para sentencia, que se pronunciará dentro de ocho días.
+Concluido el término de prueba a petición de parte se señalará día para la audiencia de alegatos, que se verificará a más tardar dentro de los diez siguientes. La citación para esta audiencia produce también efectos de citación para sentencia que dictará el Juez dentro de los ocho días siguientes a la celebración de aquella diligencia
 
 ### CAPITULO VII. De los incidentes
 
@@ -5517,11 +5529,11 @@ TITULO DECIMOSEXTO
 
 Del procedimiento en los negocios de la competencia de los alcaldes
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1961)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 1986)</small>
 
 ###### Artículo 931.
 
-Los alcaldes, en los negocios de su competencia, o sean aquellos cuyo interés no exceda de quinientos pesos, procederán con sujeción a las disposiciones especiales de este título y, en lo no previsto, observarán las reglas generales y disposiciones de este Código para el juicio ordinario.
+Los Alcaldes, en los negocios de su competencia, o sean aquellos cuyo interés no exceda del importe de 50 salarios mínimos generales diarios, vigente en la Zona Centro del Estado de Oaxaca, en el momento de presentación de la demanda, procederán con sujeción a las disposiciones especiales de este título, y en lo no previsto observarán las reglas generales y disposiciones de este Código para el juicio ordinario.
 
 ###### Artículo 932.
 
@@ -5529,11 +5541,11 @@ Para estimar el interés del negocio se atenderá a lo que el actor demande. Los
 
 Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se trate de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1961)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 1986)</small>
 
 ###### Artículo 933.
 
-Si el alcalde en cualquier estado del juicio encuentra que éste no es de su competencia, por exceder su interés de quinientos pesos, o en razón de corresponder su conocimiento a alcalde de distinta jurisdicción, suspenderá de plano el procedimiento y remitirá lo actuado al tribunal correspondiente.
+Si el Alcalde en cualquier estado del Juicio encuentra que éste no es de su competencia, por exceder su interés de la cantidad a que se refiere el artículo 931 de éste Código, o en razón de corresponder su conocimiento a alcalde de distinta jurisdicción, suspenderá de plano el procedimiento y remitirá lo actuado al Tribunal correspondiente.
 
 ###### Artículo 934.
 
@@ -5890,3 +5902,39 @@ P.O. 9 DE JULIO DE 1984.
 PRIMERO.- Las modificaciones, adiciones, derogaciones y agregado a que se contrae el presente decreto, comenzará (sic) a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La tramitación de los negocios que estén pendientes al entrar en vigor las presentes modificaciones, adiciones, derogaciones y agregado, se sujetarán al Código anterior hasta pronunciarse sentencia definitiva.
+
+P.O. 18 DE ENERO DE 1986.
+
+DECRETO No. 136, QUE REFORMA EL ARTICULO 399 DEL PRESENTE CODIGO.
+
+PRIMERO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En los juicios ordinarios actualmente en trámite, que se encuentren en la fase procesal de alegar, en el momento de entrar en vigencia la reforma, se citará para audiencia de alegatos.
+
+P.O. 18 DE ENERO DE 1986.
+
+DECRETO No. 137, QUE REFORMA EL ARTICULO 116 DEL PRESENTE CODIGO.
+
+PRIMERO.- La reforma y adición a que se refiere el presente decreto, entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En los negocios iniciados antes del decreto de nueve de junio de mil novecientos ochenta y cuatro, las notificaciones se harán en los términos señalados en el Código de Procedimientos Civiles anterior a dicho decreto, y en los iniciados durante su vigencia, se sujetarán a la presente reforma.
+
+P.O. 18 DE ENERO DE 1986.
+
+DECRETO No. 138, QUE REFORMA EL ARTICULO 93, PRIMER PARRAFO Y 94, PRIMER PARRAFO DEL PRESENTE CODIGO.
+
+###### ARTICULO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al contenido de este decreto.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ENERO DE 1986.
+
+DECRETO No. 139, QUE REFORMA LOS ARTICULOS 931 Y 933 DEL PRESENTE CODIGO.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los asuntos civiles y mercantiles actualmente en trámite ante los Juzgados de Primera Instancia del Estado, que por la nueva cuantía correspondieran a los Alcaldes, continuarán tramitándose ante los Juzgados de Primera Instancia hasta su conclusión.
