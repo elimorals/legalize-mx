@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "2003-10-03"
+last_updated: "2004-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -9581,11 +9581,19 @@ Las disposiciones del artículo anterior se observarán en el caso del artículo
 
 Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspectos físicos, o bien en la consideración que de si misma tienen los demás.
 
-Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño patrimonial, tanto en responsabilidad contractual, como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva conforme al artículo 1776, así como el Estado y sus funcionarios conforme al artículo 1779, ambas disposiciones del presente Código.
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2004)</small>
+
+También se entiende como daño moral, cuando se vulnere o se afecte de forma ilícita el bien jurídico de la libertad o integridad física o psíquica de las personas.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2004)</small>
+
+Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño patrimonial, tanto en responsabilidad contractual, como extracontractual. Igual obligación de reparar el daño moral, tendrá quien incurra en responsabilidad objetiva conforme al artículo 1776, así como el Estado y sus funcionarios, conforme al artículo 1799, ambas disposiciones del presente Código.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 1782.
 
-El monto de la indemnización por daño moral lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso. Dicho monto nunca excederá del importe de la indemnización por muerte.
+El monto de la indemnización por daño moral lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
 
 ###### ARTÍCULO 1783.
 
@@ -15794,3 +15802,17 @@ PRIMERO.- La presente Ley entrará en vigor a partir de su publicación en el Pe
 SEGUNDO.- Las disposiciones contenidas en la presente Ley, podrán aplicarse retroactivamente a los menores, siempre que sean para beneficio de ellos y se garantice el interés superior de los mismos.
 
 TERCERO.- Se derogan las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 4 DE JUNIO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Todos los procedimientos civiles que estén en trámite al día de la publicación de la presente ley, con motivo de reparación de daño moral, sin importar la etapa procesal en que se encuentren, se sujetarán a las disposiciones de los artículos 1781 y 1782 del Código Civil del Estado de Querétaro, que se encontraban vigentes previo a esta reforma.
+
+###### ARTÍCULO TERCERO.
+
+Todos los actos que se hubiesen generado o presentado en forma anterior a esta Ley y que pudieren dar lugar a un proceso civil, susceptible de reclamare a través de la acción de reparación por daño moral en vía ordinaria civil o a través del incidente civil de reparación de daños en materia penal, se regirán conforme a las disposiciones vigentes previo a esta reforma.
