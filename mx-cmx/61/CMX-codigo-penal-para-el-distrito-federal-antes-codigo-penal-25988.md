@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1979-12-05"
+last_updated: "1980-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1980.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -1816,6 +1816,8 @@ Los delincuentes de que se trata en este capítulo quedarán inhabilitados para 
 
 ### CAPITULO V. Peculado y concusión
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 206.
 
 El lenocinio se sancionará con prisión de seis meses a ocho años y multa de cincuenta a mil pesos.
@@ -1952,9 +1954,11 @@ El delito de cohecho se castigará con tres meses a cinco años de prisión y mu
 
 ###### ARTICULO 219.
 
-Al que cometa el delito de peculado se le aplicarán de seis meses a doce años de prisión, multa de diez a tres mil pesos y destitución de empleo o cargo e inhabilitación de dos a seis años.
+Al que cometa el delito de peculado se le aplicarán de uno a doce años de prisión, multa de mil a cien mil pesos, destitución del empleo o cargo e inhabilitación de dos a seis años para obtener otro.
 
-(REFORMADO, D.O.F. 9 DE MARZO DE 1946) (F. DE E., D.O.F. 16 DE JULIO DE 1946)
+Cuando el peculado no exceda en su monto al equivalente a seis meses del salario mínimo general vigente en la región y en la fecha en que se consuma el delito, se impondrán al responsable de tres meses a seis años de prisión, multa de quinientos a cinco mil pesos, destitución del empleo o cargo e inhabilitación de a uno tres años para obtener otro.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1980)</small>
 
 ### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones o uniformes
 
@@ -1962,15 +1966,13 @@ Al que cometa el delito de peculado se le aplicarán de seis meses a doce años 
 
 ###### ARTICULO 220.
 
-Comete el delito de peculado toda persona encargada de un servicio público, del Estado o descentralizado, aunque sea en comisión por tiempo limitado y que no tenga el carácter de funcionario, que, para usos propios o ajenos, distraiga de su objeto dinero, valores, fincas o cualquiera otra cosa perteneciente al Estado, al organismo descentralizado, o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa.
+Comete el delito de peculado todo funcionario, empleado o encargado de un servicio público, del Estado o Descentralizado, aunque sea en comisión por tiempo limitado y que, para usos propios o ajenos, distraiga de su objeto dinero, valores, fincas o cualquiera otra cosa perteneciente al Estado, al organismo descentralizado o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa.
 
 ### CAPITULO VIII. Disposiciones comunes a los capítulos precedentes
 
 ###### ARTICULO 221.
 
-La sanción será de uno a seis meses de prisión, si dentro de los diez días siguientes a aquel en que se descubrió el delito, devolviere el reo substraído.
-
-Este artículo se entiende sin perjuicio de la destitución, de la inhabilitación y de la multa correspondiente.
+(DEROGADO, D.O.F. 3 DE ENERO DE 1980)
 
 ### CAPITULO I. Delitos contra el consumo y la riqueza nacionales
 
@@ -3338,7 +3340,9 @@ Si el monto es mayor de ochenta mil pesos la prisión será de seis a doce años
 
 Se considera como abuso de confianza para los efectos de la pena:
 
-I.- El hecho de disponer o sustraer una cosa, su dueño, si le ha sido embargada y la tiene en su poder con el carácter de depositario judicial;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1980)</small>
+
+I.- El hecho de disponer o sustraer una cosa, su dueño, si le ha sido embargada y la tiene en su poder con el carácter de depositario judicial, o bien si la hubiere dado en prenda y la conserva en su poder como depositario a virtud de un contrato celebrado con alguna Institución de Crédito, en perjuicio de ésta.
 
 > <small>(REFORMADA, D.O.F. 24 DE MARZO DE 1944)</small>
 
@@ -3847,6 +3851,22 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el "Di
 D.O.F. 5 DE DICIEMBRE DE 1979.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 3 DE ENERO DE 1980.
+
+DECRETO de reformas a los artículos 219, 220 y derogación del 221 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 3 DE ENERO DE 1980.
+
+DECRETO de reforma de la fracción I del artículo 383 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor el día siguiente al de su publicación en el "Diario Oficial".
 
 ###### ARTICULO 2o.
 
