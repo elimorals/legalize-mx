@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1997-10-18"
+last_updated: "1997-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 1997.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -221,7 +221,9 @@ XLVI.- MORELOS; con cabecera en el pueblo del mismo nombre;
 
 XLVII.- MORIS; con cabecera en el pueblo del mismo nombre;
 
-XLVIII.- NAMIQUIPA, con cabecera en el pueblo del mismo nombre y las secciones municipales de Cruces, Santa Ana, El Terrero y Santa Clara;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1997)</small>
+
+XLVIII.- NAMIQUIPA; con cabecera en el pueblo del mismo nombre y las secciones municipales de Cruces, Santa Ana, El Terrero, Santa Clara y Benito Juárez;
 
 XLIX.- NONOAVA; con cabecera en el pueblo del mismo nombre;
 
@@ -2728,3 +2730,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 DECIMO TERCERO.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 22 DE OCTUBRE DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para la elección de la Junta Municipal en la Sección Municipal de Benito Juárez, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado, en lo conducente, debiéndose llevar a cabo la elección dentro de los 60 días siguientes a la entrada en vigor del presente decreto.
