@@ -4,7 +4,7 @@ identifier: "FED-ley-para-regular-las-agrupaciones-financieras-180"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1993-12-23"
+last_updated: "1995-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRAF"
 
 LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE FEBRERO DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -194,35 +194,29 @@ Los estatutos de la controladora, el convenio de responsabilidades mencionado en
 
 Una vez aprobados los documentos citados, se inscribirán en el Registro Público de Comercio sin que sea preciso mandamiento judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 18.
 
-El capital social de las sociedades controladoras estará formado por una parte ordinaria y podrá también estar integrado por una parte adicional. El capital social ordinario de las sociedades controladoras se integrará por acciones de la Serie "A", que representarán el cincuenta y uno por ciento del capital ordinario de la sociedad.
+El capital social de las sociedades controladoras estará formado por una parte ordinaria y podrá también estar integrado por una parte adicional.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+El capital social ordinario de las sociedades controladoras se integrará por acciones de la serie "A", que representarán cuando menos el cincuenta y uno por ciento de dicho capital. El cuarenta y nueve por ciento restante de la parte ordinaria del capital social, podrá integrarse indistinta o conjuntamente por acciones series "A" y "B".
 
-Asimismo, el cuarenta y nueve por ciento de la parte ordinaria del capital social, podrá integrarse indistinta o conjuntamente por acciones series "A", "B" y "C"; la serie "C", sólo podrá emitirse hasta por el treinta por ciento de dicho capital ordinario.
+En su caso, el capital social adicional estará representado por acciones serie "L", que podrán emitirse hasta por un monto equivalente al cuarenta por ciento del capital social ordinario, previa autorización de la Comisión Nacional de Valores.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+Las acciones representativas de la serie "A" sólo podrán adquirirse por:
 
-En su caso, el capital social adicional estará representado por acciones serie "L", que podrán emitirse hasta por un monto equivalente al treinta por ciento del capital social ordinario de la sociedad, previa autorización de la Comisión Nacional de Valores.
+I.- Personas físicas mexicanas;
 
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+II.- Personas morales mexicanas, cuyo capital sea mayoritariamente propiedad de mexicanos, sean efectivamente controladas por los mismos y cumplan los demás requisitos que mediante disposiciones de carácter general establezca la Secretaría de Hacienda y Crédito Público;
 
-Las acciones de la serie "A" sólo podrán adquirirse por personas físicas mexicanas y sociedades de inversión comunes exclusivas para esas personas; por el Fondo Bancario de Protección al Ahorro, así como por el fondo de protección y garantía a que se refiere la Ley del Mercado de Valores.
+III.- El Fondo Bancario de Protección al Ahorro y el Fondo de Apoyo al Mercado de Valores, y
 
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+IV.- Los inversionistas institucionales mencionados en el artículo 19 de esta Ley.
 
-Las acciones de la serie "B" sólo podrán adquirirse por las personas señaladas en el párrafo anterior; por personas morales mexicanas cuyos estatutos contengan cláusula de exclusión directa e indirecta de extranjeros, así como por inversionistas institucionales de los mencionados en el artículo 19 de esta Ley.
+Las acciones representativas de las series "B" y "L" serán de libre suscripción.
 
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
-
-Las acciones de las series "C" y "L", podrán adquirirse por las personas a que se refiere el párrafo anterior; por las demás personas mexicanas, así como por personas físicas o morales extranjeras.
-
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
-
-En ningún momento podrán participar en forma alguna en el capital de la controladora, personas morales extranjeras que ejerzan funciones de autoridad. Tampoco podrán hacerlo entidades financieras del país, incluso las que formen parte del respectivo grupo, salvo cuando actúen como inversionistas institucionales, en términos del artículo 19 de esta Ley.
+No podrán participar en forma alguna en el capital social de la controladora, personas morales extranjeras que ejerzan funciones de autoridad. Tampoco podrán hacerlo entidades financieras del país, incluso las que formen parte del respectivo grupo, salvo cuando actúen como inversionistas institucionales, en los términos del artículo 19 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 9 DE JUNIO DE 1992)</small>
 
@@ -234,21 +228,25 @@ Las acciones serie "L" serán de voto limitado y otorgarán derecho de voto úni
 
 Además, las acciones serie "L" podrán conferir derecho a recibir un dividendo preferente y acumulativo, así como a un dividendo superior al de las acciones representativas del capital ordinario, siempre y cuando así se establezca en los estatutos sociales de la sociedad emisora. En ningún caso los dividendos de esta serie podrán ser inferiores a los de las otras series.
 
-Las sociedades podrán emitir acciones no suscritas, que conservarán en tesorería. Los suscriptores recibirán las constancias respectivas contra el pago total de su valor nominal y de las primas que, en su caso, fije la sociedad.
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+Las sociedades podrán emitir acciones no suscritas, que conservarán en tesorería, las cuales no computarán para efectos de determinar los límites de tenencia accionaria a que se refiere esta Ley. Los suscriptores recibirán las constancias respectivas contra el pago total de su valor nominal y de las primas que, en su caso, fije la sociedad.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 19.
 
-Para efectos de lo previsto en la presente Ley, por inversionistas institucionales se entenderá a las instituciones de seguros y de fianzas, únicamente cuando inviertan sus reservas técnicas y para fluctuaciones de valores; a las sociedades de inversión; a los fondos de pensiones o jubilaciones de personal, complementarios a los que establece la Ley del Seguro Social y de primas de antigüedad, que cumplan los requisitos señalados en la Ley del Impuesto Sobre la Renta, así como a los demás inversionistas institucionales que la Secretaría de Hacienda y Crédito Público autorice expresamente, oyendo la opinión de la Comisión Nacional de Valores.
+Para efectos de lo previsto en la presente Ley, por inversionistas institucionales se entenderá a las instituciones de seguros y de fianzas, únicamente cuando inviertan sus reservas técnicas y para fluctuaciones de valores; a las sociedades de inversión comunes; a los fondos de pensiones o jubilaciones de personal, complementarios a los que establece la Ley del Seguro Social y de primas de antigüedad, que cumplan con los requisitos señalados en la Ley del Impuesto sobre la Renta, así como a los demás inversionistas institucionales que la Secretaría de Hacienda y Crédito Público autorice expresamente, oyendo la opinión de la Comisión Nacional de Valores.
 
 Salvo lo previsto en el párrafo siguiente, las instituciones de seguros y de fianzas, actuando como inversionistas institucionales, y en su caso, cualesquiera otros inversionistas institucionales integrantes o controlados directa o indirectamente por participantes de un grupo, no podrán adquirir acciones representativas del capital de la controladora o de los demás integrantes del grupo.
 
 Las inversiones que realicen, individual o conjuntamente, sociedades de inversión controladas directa o indirectamente por entidades financieras integrantes de un grupo, en acciones y obligaciones subordinadas computables emitidas por la controladora y demás participantes del grupo, en ningún caso podrán ser superiores al diez por ciento del total de tales acciones y obligaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 20.
 
-Ninguna persona física o moral podrá adquirir directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de más del cinco por ciento del capital social de una sociedad controladora. La Secretaría de Hacienda y Crédito Público podrá autorizar, cuando a su juicio así se justifique, un porcentaje mayor, sin exceder en caso alguno del diez por ciento.
+Ninguna persona física o moral podrá adquirir, directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de acciones de las series "A" y "B" por más del cinco por ciento del capital social de una sociedad controladora. La Secretaría de Hacienda y Crédito Público podrá autorizar, cuando a su juicio se justifique, un porcentaje mayor, sin exceder del veinte por ciento.
 
 Dichos límites también se aplicarán a las personas que la citada Secretaría considere, para estos efectos, como una misma persona.
 
@@ -264,9 +262,9 @@ III. A las personas que adquieran acciones conforme a programas aprobados por la
 
 IV. A las propias controladoras, cuando adquieran acciones de otra controladora, conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público, conducentes a la fusión de las mismas.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
-V. Las entidades financieras del exterior que inviertan en acciones serie "C" del capital social de una sociedad controladora quienes, previa autorización de la Secretaría de Hacienda y Crédito Público, podrán adquirir el control de acciones representativas de hasta el veinte por ciento del capital social de una sociedad controladora, siempre y cuando el capital social de dichas entidades financieras del exterior se encuentre diversificado a juicio de la propia Secretaría. Si dicha diversificación disminuyera, la Secretaría de Hacienda y Crédito Público podrá requerir a la entidad financiera del exterior que ajuste su inversión en acciones de la serie "C" a los límites señalados en el primer párrafo de este artículo.
+V. A las Instituciones Financieras del Exterior que adquieran acciones de cualquier serie, conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con la finalidad de convertir a la respectiva sociedad controladora en una Sociedad Controladora Filial.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -344,9 +342,9 @@ La emisión de obligaciones subordinadas se sujetará a lo dispuesto en el artí
 
 El consejo de administración estará integrado, a elección de los accionistas de la sociedad, por once consejeros o sus múltiplos. Su nombramiento deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, así como a aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
 
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
-En el supuesto de que el consejo se integre con once miembros, los accionistas de la serie "A" designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que exceda del cincuenta por ciento del capital pagado ordinario, tendrán derecho a designar un consejero más, y en su caso los de la serie "B" hasta cinco y los de la serie "C", por cada diez por ciento del capital pagado ordinario correspondiente a esta serie, podrán nombrar a un consejero. Los consejeros de la serie "B" deberán disminuirse según corresponda, en caso de que las acciones serie "C" den derecho a nombrar consejeros o que por las acciones serie "A" se designen más de seis consejeros.
+En el supuesto de que el consejo se integre con once miembros, los accionistas de la serie "A" designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que exceda del cincuenta por ciento del capital pagado ordinario, tendrán derecho a designar un consejero más. Los accionistas de la serie "B", en su caso, designarán a los consejeros restantes.
 
 > <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
 
@@ -378,9 +376,13 @@ III. Quienes tengan litigio pendiente con la controladora o con alguno de los in
 
 IV. Los quebrados o concursados que no hayan sido rehabilitados, las personas sentenciadas por delitos patrimoniales, así como los inhabilitados para ejercer el comercio, o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano, y
 
-V. Quienes realicen funciones de regulación, inspección y vigilancia de la controladora o de las entidades financieras integrantes del grupo.
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
-Los consejeros que representen a las series "A" y "B" deberán ser mexicanos.
+V. Quienes realicen funciones de regulación, inspección y vigilancia de la controladora o de las entidades financieras integrantes del grupo, salvo en el caso en que la referida sociedad o entidades correspondientes reciban apoyos del Fondo Bancario de Protección al Ahorro o del Fondo de Apoyo al Mercado de Valores.
+
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+Los consejeros que representen a la serie "A" deberán ser mexicanos o extranjeros residentes en territorio nacional.
 
 ###### ARTICULO 26.
 
@@ -464,21 +466,33 @@ Solamente podrá constituir un grupo financiero la Institución Financiera del E
 
 La solicitud de autorización para constituir una Sociedad Controladora Filial deberá cumplir con los requisitos establecidos en la presente Ley y en las reglas a las que se refiere el artículo anterior.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 27-H.
 
-El capital social de las Sociedades Controladoras Filiales deberá estar integrado por una sola serie de acciones. Una Institución Financiera del Exterior, directa o indirectamente, deberá ser en todo momento propietaria de acciones que representen cuando menos el noventa y nueve por ciento del capital social de la Filial, salvo en el caso a que se refiere el último párrafo del artículo 27-I.
+El capital social de las Sociedades Controladoras Filiales estará integrado por acciones de la serie "F", que representarán cuando menos el cincuenta y uno por ciento de dicho capital. El cuarenta y nueve por ciento restante del capital social, podrá integrarse indistinta o conjuntamente por acciones series "F" y "B".
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+Las acciones de la serie "F" solamente podrán ser adquiridas, directa o indirectamente, por una Institución Financiera del Exterior, salvo en el caso a que se refiere el último párrafo del artículo 27-I.
+
+Las acciones de la serie "B" se regirán por lo dispuesto para esta serie de acciones en los demás artículos de esta Ley. La Institución Financiera del Exterior propietaria de las acciones serie "F", no quedará sujeta a los límites establecidos en el artículo 20 de esta Ley, respecto de su tenencia de acciones serie "B".
+
+Las acciones serán de igual valor, dentro de cada serie conferirán a sus tenedores los mismos derechos, y deberán pagarse íntegramente en efectivo en el acto de ser suscritas. Las mencionadas acciones se mantendrán en depósito en alguna de las instituciones para el depósito de valores reguladas en la Ley del Mercado de Valores, quienes en ningún caso se encontrarán obligadas a entregarlas a los titulares.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 27-I.
 
-Las acciones representativas del capital social de una Sociedad Controladora Filial o una entidad financiera Filial únicamente podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
+Las acciones de la serie "F" representativas del capital social de una Sociedad Controladora Filial o de una Filial únicamente podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
 
-Salvo en el caso en que el adquirente sea una Institución Financiera del Exterior o una Sociedad Controladora Filial, para llevar a cabo la enajenación deberán modificarse los estatutos sociales de la Sociedad Controladora Filial cuyas acciones sean objeto de la operación, a efecto de cumplir con lo dispuesto en Capítulo I del presente Título.
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+Salvo el caso en que el adquirente sea una Institución Financiera del Exterior o una Sociedad Controladora Filial, para llevar a cabo la enajenación deberán modificarse los estatutos sociales de la Sociedad Controladora Filial cuyas acciones sean objeto de la operación.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 Cuando el adquirente sea una Institución Financiera del Exterior o una Sociedad Controladora Filial deberá observarse lo dispuesto en las fracciones I y III del artículo 27-J.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 No se requerirá autorización de la Secretaría de Hacienda y Crédito Público ni modificación de estatutos cuando la transmisión de acciones sea, en garantía o propiedad, al Fondo Bancario de Protección al Ahorro o al Fondo de Apoyo al Mercado de Valores.
 
@@ -494,7 +508,9 @@ b) a las Sociedades Controladoras Filiales la adquisición de acciones represent
 
 Siempre y cuando se cumplan los siguientes requisitos:
 
-I. La Institución Financiera del Exterior o la Sociedad Controladora Filial, según corresponda, deberá adquirir acciones que representen cuando menos el noventa y nueve por ciento del capital social de la sociedad controladora o de la entidad financiera, según sea el caso;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+I. La Institución Financiera del Exterior o la Sociedad Controladora Filial, según corresponda, deberá adquirir acciones que representen cuando menos el cincuenta y uno por ciento del capital social de la sociedad controladora, institución de banca múltiple, institución de seguros, casa de bolsa o especialista bursátil o cuando menos el noventa y nueve por ciento del capital social de las demás entidades financieras, según sea el caso;
 
 II. Deberán modificarse los estatutos sociales de la sociedad controladora o de la entidad financiera mexicana de que se trate, cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo; y
 
@@ -506,11 +522,23 @@ III. Cuando el adquirente sea una Institución Financiera del Exterior o una Soc
 
 Las Sociedades Controladoras Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiridas por la Institución Financiera del Exterior propietaria, directa o indirectamente, de las acciones representativas del capital social de la Sociedad Controladora Filial emisora. Tampoco les estará permitido a las Sociedades Controladoras Filiales establecer sucursales o subsidiarias fuera del territorio nacional.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 27-L.
 
-El consejo de administración de las Sociedades Controladoras Filiales estará integrado por lo menos por cinco consejeros, de entre los cuales la mayoría deberá residir en territorio nacional.
+El consejo de administración de las Sociedades Controladoras Filiales estará integrado, a elección de los accionistas de la sociedad, por once consejeros o sus múltiplos. Su nombramiento deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, así como a aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
+
+En el supuesto de que el consejo se integre con once miembros, los accionistas de la serie "F" designarán a seis consejeros, y por cada diez por ciento de acciones de esta serie que exceda del cincuenta por ciento del capital pagado, tendrán derecho a designar un consejero más. Los accionistas de la serie "B", en su caso, designarán a los consejeros restantes.
+
+Los accionistas de cada una de las citadas series, que representen cuando menos un diez por ciento del capital pagado de la Sociedad Controladora Filial, tendrán derecho a designar a un consejero de la serie que corresponda. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
+
+En caso de que el consejo se integre por múltiplos de once, o cuente con más de seis consejeros de la serie "F", para efectos de lo previsto en el párrafo anterior y en el artículo 25, fracción II de esta Ley, se deben guardar las proporciones correspondientes conforme a lo dispuesto en este artículo.
+
+El presidente del consejo deberá elegirse de entre los propietarios de la serie "F", y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
+
+En caso de que una Institución Financiera del Exterior sea propietaria de acciones que representen por lo menos el noventa y nueve por ciento del capital social de la Sociedad Controladora Filial, ésta podrá determinar libremente el número de consejeros, el cual en ningún caso podrá ser inferior a cinco.
+
+La mayoría de los consejeros de una Sociedad Controladora Filial deberá residir en territorio nacional.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -518,11 +546,11 @@ El consejo de administración de las Sociedades Controladoras Filiales estará i
 
 Se exceptúa a los directores generales de las Sociedades Controladoras Filiales del requisito previsto en la fracción I del artículo 26 de la presente Ley. Los directores generales de las Sociedades Controladoras Filiales deberán residir en territorio nacional.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 27-N.
 
-El órgano de vigilancia de las Sociedades Controladoras Filiales estará integrado por lo menos por un comisario nombrado por la Institución Financiera del Exterior propietaria de las acciones representativas del capital social de la Sociedad Controladora Filial.
+El órgano de vigilancia de la Sociedad Controladora Filial, estará integrado por lo menos por un comisario designado por los accionistas de la serie "F" y, en su caso, un comisario nombrado por los accionistas de la serie "B", así como sus respectivos suplentes.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -550,11 +578,19 @@ Las referidas responsabilidades estarán previstas expresamente en los estatutos
 
 En el convenio citado también deberá señalarse expresamente que cada una de las entidades financieras del grupo no responderá por las pérdidas de la controladora, ni por las de los demás participantes del grupo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
 ###### ARTICULO 29.
 
-Los apoyos preventivos del Fondo Bancario de Protección al Ahorro y del fondo de protección y garantía previsto en la Ley del Mercado de Valores, sólo se concederán previa garantía suficiente que otorgue la controladora del grupo de que se trate, o bien, sobre las acciones representativas del capital de esta última. En caso de ser suficientes estas garantías, no será obligatorio otorgar las previstas en otros ordenamientos legales.
+Los apoyos preventivos del Fondo Bancario de Protección al Ahorro y del Fondo de Apoyo al Mercado de Valores, sólo se concederán previa garantía suficiente que otorgue la controladora del grupo de que se trate, o bien, sobre las acciones representativas del capital de esta última. En caso de ser suficientes estas garantías, no será obligatorio otorgar las previstas en otros ordenamientos legales.
 
-En el evento que, en virtud de algún apoyo de los fondos citados, se tuvieren que dar en garantía las acciones representativas del capital de la controladora, primero se afectarían las de la serie "A" y, en caso de no ser suficiente las correspondientes a las demás series. Dichas acciones garantizarán el pago del apoyo en la proporción a prorrata que corresponda conforme al valor de cada una de ellas.
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+En el evento que, en virtud de algún apoyo de los fondos citados, se tuvieren que dar en garantía las acciones representativas del capital de la controladora, primero se afectarían las de la serie "A" o "F", según se trate, y en caso de no ser suficiente, las correspondientes a las demás series. Dichas acciones garantizarán el pago del apoyo en la proporción a prorrata que corresponda conforme al valor de cada una de ellas. Para la constitución de esta garantía preferente de interés público, las acciones deberán traspasarse a una cuenta a favor del fondo de que se trate, en la institución para el depósito de valores en que se encuentren depositadas, correspondiendo a dicho fondo el ejercicio de los derechos patrimoniales y corporativos inherentes a tales acciones, quedando el producto de los derechos patrimoniales afecto en garantía a favor del fondo. El fondo respectivo podrá optar porque la garantía se ejecute mediante la venta extrajudicial de las acciones, de conformidad con el procedimiento previsto para la caución bursátil en la Ley del Mercado de Valores, o de acuerdo con lo establecido para la prenda en la Ley General de Títulos y Operaciones de Crédito.
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+Los apoyos previstos en el párrafo anterior podrán otorgarse directamente a una sociedad controladora a fin de que ésta los canalice, según corresponda, a la institución de banca múltiple o a la casa de bolsa que forme parte del grupo financiero al que pertenezca dicha sociedad.
 
 Para los efectos de la garantía y proporción antes citadas, las acciones se considerarán por el equivalente al setenta y cinco por ciento de su valor en libros, según el último estado financiero aprobado por el consejo de administración de la controladora y revisado por la Comisión que la supervisa.
 
@@ -570,9 +606,39 @@ La controladora estará sujeta a la inspección y vigilancia de la Comisión que
 
 La contabilidad que la controladora deba llevar se ajustará al catálogo y reglas que al efecto autorice la citada Comisión, quien además fijará las reglas para la estimación de sus activos.
 
-La controladora estará obligada a recibir las visitas de la Comisión competente y a proporcionarle los informes en la forma y términos que la misma solicite. Asimismo, quedará sujeta a la intervención administrativa por parte de dicha Comisión, de conformidad con el ordenamiento legal que regule a esta última.
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+La controladora estará obligada a recibir las visitas de la Comisión competente y a proporcionarle los informes en la forma y términos que la misma solicite.
 
 Las empresas de servicios complementarios a que se refiere el último párrafo del artículo 9o. de esta Ley, quedarán sujetas a la inspección y vigilancia de la Comisión que supervise a la controladora. Las entidades financieras integrantes del grupo estarán sujetas a la inspección y vigilancia de la Comisión que corresponda conforme a los ordenamientos legales que las regulan.
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+###### ARTICULO 30-A.
+
+Cuando en virtud de los procedimientos de supervisión la autoridad competente encuentre que la controladora comete irregularidades graves en contravención a la legislación financiera o a las disposiciones que emanen de ella, el Presidente de la Comisión correspondiente dictará las medidas necesarias para regularizar las actividades de la sociedad controladora, señalando un plazo para tal efecto. Si transcurrido el plazo mencionado, la controladora no ha regularizado su situación, el Presidente de la referida Comisión podrá, sin perjuicio de las sanciones que procedan, declarar la intervención administrativa de la controladora, designando al efecto un interventor con objeto de que se suspendan, normalicen o resuelvan los actos irregulares.
+
+Asimismo, el Presidente de la Comisión citada podrá designar interventor cuando se haya decretado la intervención administrativa de alguna entidad financiera integrante del grupo al que pertenezca dicha sociedad controladora.
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+###### ARTICULO 30-B.
+
+Cuando a juicio de la Comisión competente, las irregularidades de cualquier género detectadas en la controladora afecten su estabilidad o solvencia y pongan en peligro los intereses del público o de sus acreedores, el Presidente de aquélla podrá, con acuerdo de la Junta de Gobierno declarar la intervención gerencial de la controladora de que se trate y designar, sin que para ello requiera acuerdo de la mencionada Junta, a la persona física que se haga cargo de la sociedad, con el carácter de interventor-gerente.
+
+Asimismo, la citada Comisión podrá declarar la intervención gerencial de la controladora cuando en alguna de las entidades financieras que integren el grupo al que pertenece la controladora se haya decretado una intervención con tal carácter.
+
+El interventor-gerente designado tendrá todas las facultades que requiera la administración de la controladora intervenida y plenos poderes generales para actos de dominio, de administración y de pleitos y cobranzas, con las facultades que requieran cláusula especial conforme a la Ley, incluyendo, entre otras, la facultad para otorgar o suscribir títulos de crédito, para presentar denuncias o querellas y desistirse de estas últimas, previo acuerdo del Presidente de la Comisión competente, así como para otorgar los poderes generales o especiales que juzgue convenientes y revocar los que estuvieren otorgados por la sociedad intervenida y los que él mismo hubiere conferido.
+
+El interventor-gerente ejercerá sus facultades sin supeditarse a la asamblea de accionistas, ni al consejo de administración de la sociedad intervenida. Desde el momento de la intervención quedarán supeditadas al referido interventor todas las facultades del órgano de administración y los poderes de las personas que dicho interventor determine, pero la asamblea de accionistas podrá continuar reuniéndose regularmente para conocer de los asuntos que le competen, y lo mismo podrá hacer el consejo a fin de estar informado por el interventor-gerente sobre el funcionamiento y las operaciones que realice la sociedad, y para opinar sobre los asuntos que el mismo interventor-gerente someta a su consideración. El interventor-gerente podrá citar a asambleas de accionistas y a reuniones del consejo de administración con los propósitos que considere necesarios o convenientes.
+
+El nombramiento del interventor-gerente, su sustitución y su revocación, deberán inscribirse en el Registro Público de Comercio que corresponda al domicilio de la sociedad intervenida, sin más requisitos que el oficio respectivo de la Comisión competente en que conste dicho nombramiento, la sustitución del interventor-gerente o su revocación cuando la referida Comisión autorice levantar la intervención.
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+###### ARTICULO 30-C.
+
+Las intervenciones administrativa y gerencial a que se refieren los artículos 30-A y 30-B de esta Ley, se llevarán a cabo directamente por el interventor de que se trate y al iniciarse la intervención deberá ser atendido por el principal funcionario o empleado de la sociedad controladora que se encuentre en las oficinas de ésta.
 
 ## TITULO QUINTO. De las Disposiciones Generales
 
@@ -619,6 +685,12 @@ No se considerará que existe violación al secreto bancario cuando una entidad 
 Las personas que realicen alguna gestión financiera ante usuarios de información crediticia podrán solicitar, a través del propio usuario de que se trate, los datos que éste hubiere obtenido de la sociedad. Las aclaraciones respecto de tales datos se realizarán por los interesados ante los acreedores respectivos, quienes, en su caso, llevarán a cabo las gestiones conducentes ante la sociedad de información crediticia de que se trate.
 
 > <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+ARTICULO 33 B.- Las sociedades de información crediticia, al proporcionar información sobre operaciones activas, deberán guardar secreto respecto de la denominación de las entidades acreedoras, salvo en el supuesto a que se refiere el último párrafo del artículo anterior, en cuyo caso únicamente informarán directamente a las personas interesadas el nombre de las entidades acreedoras que correspondan.
+
+Dichas sociedades responderán por los daños y perjuicios que causen al proporcionar información cuando exista culpa grave, dolo o mala fe en el manejo de la base de datos.
+
+Por su parte, las personas que proporcionen información a las sociedades de información crediticia igualmente responderán por los daños y perjuicios que causen al proporcionar dicha información, cuando exista culpa grave, dolo o mala fe.
 
 ###### ARTICULO 33-B.
 
@@ -737,3 +809,25 @@ DECIMO TERCERO.- No obstante lo dispuesto en el artículo 29 fracción II de la 
 Las Instituciones Financieras del Exterior que antes de la entrada en vigor del tratado o acuerdo aplicable tengan inversiones en instituciones de seguros, podrán incrementar éstas de conformidad con dicho tratado.
 
 A las inversiones señaladas en los dos párrafos anteriores no les serán aplicables los límites de capital individuales y agregados de conformidad con el tratado o acuerdo internacional aplicable.
+
+D.O.F. 15 DE FEBRERO DE 1995.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto para el penúltimo párrafo del artículo 73 de la Ley de Instituciones de Crédito, que entrará en vigor el 1o. de julio de 1995.
+
+SEGUNDO.- Lo establecido en los artículos segundo y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para Regular las Agrupaciones Financieras, Ley de Instituciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley del Mercado de Valores, Ley de Sociedades de Inversión, Ley General de Instituciones y Sociedades Mutualistas de Seguros y Ley Federal de Instituciones de Fianzas, publicado en el Diario Oficial de la Federación el 23 de diciembre de 1993, no es aplicable a las Filiales que resulten de las adquisiciones que sean autorizadas por la Secretaría de Hacienda y Crédito Público.
+
+En todo caso, el monto agregado de capital neto del total de las instituciones de banca múltiple Filiales, no será superior al veinticinco por ciento de la suma del capital neto que alcancen en su conjunto las instituciones de banca múltiple, durante el período de transición establecido en el tratado o acuerdo internacional aplicable.
+
+TERCERO.- Las instituciones de crédito, sociedades controladoras e intermediarios en el mercado de valores, deberán efectuar los actos corporativos necesarios para ajustar sus estatutos a lo dispuesto por el presente Decreto, dentro de un plazo máximo de ciento veinte días contado a partir de la entrada en vigor del mismo.
+
+CUARTO.- Los canjes de acciones que deban efectuarse por las instituciones de banca múltiple, casas de bolsa y sociedades controladoras para ajustarse a lo dispuesto en el presente Decreto, se realizarán conforme a lo siguiente:
+
+I.- Las acciones que resulten del canje, deberán representar la misma participación del capital pagado que las acciones canjeadas;
+
+II.- No se considerará que existe enajenación de acciones para efectos de la Ley del Impuesto sobre la Renta, siempre y cuando el canje a que se refiere la fracción anterior no implique cambio en el titular de las acciones, y
+
+III.- Para los efectos de la fracción anterior el costo promedio de las acciones que resulten del canje será el que corresponda a las acciones canjeadas.
+
+QUINTO.- Los consejeros y comisarios de la serie "C", de las instituciones de crédito y sociedades controladoras, continuarán en el desempeño de sus funciones mientras no se realicen las designaciones que correspondan a la nueva estructura de capital y los designados tomen posesión de sus cargos.
+
+SEXTO.- Durante el período establecido en el tratado o acuerdo internacional aplicable, las casas de bolsa Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiridas por la Institución Financiera del Exterior propietaria, directa o indirectamente, de las acciones de la casa de bolsa Filial emisora.
