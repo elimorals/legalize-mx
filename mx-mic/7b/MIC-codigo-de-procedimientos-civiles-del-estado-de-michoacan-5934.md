@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1997-10-16"
+last_updated: "1998-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 1998.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -295,11 +295,11 @@ III. Cuando alguno tenga acción o excepción que dependa del ejercicio de la ac
 
 Las acciones prescriben en el mismo término que para los derechos que las originan señala la ley.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 30.
 
-Ninguna acción puede intentarse si no se acompaña el título legal que la acredite, en todos los casos en que las leyes exigen para la validez de los contratos que se otorguen en escritura pública o en escrito privado; comprendiéndose en esto la acción que nace de actos solemnes que no son contratos. Los jueces desecharán de plano las demandas que no se ajusten a lo dispuesto en este artículo, bajo pena de una multa de diez a cien pesos que impondrá el tribunal de apelación.
+Ninguna acción puede intentarse si no se acompaña el título legal que la acredite, en todos los casos en que las leyes exigen para la validez de los contratos que se otorguen en escritura pública o en escrito privado; comprendiéndose en esto la acción que nace de actos solemnes que no son contratos. Los jueces desecharán de plano las demandas que no se ajusten a lo dispuesto en este artículo, bajo pena de una multa de cuatro a veinticinco días de salario mínimo general vigente en el Estado, que impondrá el Tribunal de apelación.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -523,13 +523,15 @@ En las actuaciones judiciales no se emplearán abreviaturas, raspaduras, ácidos
 
 Las resoluciones y diligencias deberán ser firmadas, bajo pena de nulidad, por el funcionario judicial a quien corresponda dictarlas o practicarlas y por aquéllos que puedan dar fé o certificar el acto: las primeras al terminar las labores del juzgado o tribunal y las segundas, en el momento de concluirlas.
 
-El que infrinja este precepto sufrirá una multa de veinticinco a cien pesos y responderá de todos los daños y perjuicios que ocasione. Si por segunda vez comete la infracción, en lugar de la multa será suspendido de su cargo, de uno a seis meses.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+El que infrinja este precepto sufrirá una multa de diez a veinticinco días de salario mínimo general vigente en el Estado y responderá de todos los daños y perjuicios que ocasione. Si por segunda vez comete la infracción, en lugar de la multa será suspendido de su cargo, de uno a seis meses.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 57.
 
-El secretario hará constar el día y hora en que se presente un escrito, y si el ocursante no sabe firmar, el mismo secretario de oficio le leerá el escrito y sentará razón de haber sido ratificado. Dará cuenta inmediatamente al juez si el caso es de urgencia o dentro de las veinticuatro horas siguientes si no lo es, bajo pena de uno a diez pesos de multa, sin perjuicio de las demás en que incurriere conforme a las leyes.
+El secretario hará constar el día y hora en que se presente un escrito, y si el ocursante no sabe firmar, el mismo secretario de oficio le leerá el escrito y sentará razón de haber sido ratificado. Dará cuenta inmediatamente al juez si el caso es de urgencia o dentro de las veinticuatro horas siguientes si no lo es, bajo pena de uno a cuatro días de salario mínimo general vigente en el Estado de multa, sin perjuicio de las demás en que incurriere conforme a las leyes.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -587,11 +589,11 @@ No se entregarán a las partes en virtud de un traslado, más que las copias que
 
 La parte que haya firmado el conocimiento y no devolviere los autos o las copias, transcurrido el término por el que los recibió, será apremiada por el juez de los autos por los medios que prescribe este código, hasta que los devuelva. Si a pesar del apremio no los devuelve, se consignará el caso al Ministerio Público para que proceda en su contra como responsable de substracción de documentos, y pagará los daños y perjuicios que originare.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 67.
 
-Por ningún motivo se entregarán en confianza a las partes los autos, para sacarlos del juzgado. El juez o secretario que infrinja este precepto sufrirá una multa de veinticinco a cien pesos, responderá de todos los daños y perjuicios que ocasione y será destituido del empleo u oficio, si por segunda vez incurriere en esta falta; quedando inhábil para ejercer otro igual, durante dos años, contados desde el día en que se verifique la destitución. Cuando la entrega en confianza se hiciere por alguno de los otros empleados subalternos de la secretaría, se procederá criminalmente en su contra como responsable de substracción de documentos, aunque éstos fueren devueltos. Lo mismo se observará respecto del secretario si los autos entregados por él en confianza se perdieren.
+Por ningún motivo se entregarán en confianza a las partes los autos, para sacarlos del juzgado. El juez o secretario que infrinja este precepto sufrirá una multa de diez a veinticinco días de salario mínimo general vigente en el Estado, responderá de todos los daños y perjuicios que ocasione y será destituido del empleo u oficio, si por segunda vez incurriere en esta falta; quedando inhábil para ejercer otro igual, durante dos arios, contados desde el día en que se verifique la destitución. Cuando la entrega en confianza se hiciere por alguno de los otros empleados subalternos de la Secretaría, se procederá criminalmente en su contra como responsable de substracción de documentos, aunque éstos fueren devueltos. Lo mismo se observará respecto del secretario si los autos entregados por él en confianza se perdieren.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -643,11 +645,11 @@ Sentencia definitiva es la que decide el negocio en lo principal, e interlocutor
 
 Todas las resoluciones deberán ser autorizadas con firma entera de los magistrados o jueces y de los secretarios. Estos autorizarán también con firma entera todas las diligencias o razones en que intervengan.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 74.
 
-Los autos se dictarán en el término de tres días. El magistrado o juez que infrinja este artículo, incurrirá en una multa de cinco a veinticinco pesos que se hará efectiva por el Tribunal pleno o por la Sala, a petición de parte legítima.
+Los autos se dictarán en el término de tres días. El magistrado o juez que infrinja este artículo, incurrirá en una multa de dos a diez días de salario mínimo general vigente en el Estado, que se hará efectiva por el Tribunal Pleno o por la Sala, a petición de parte legítima.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -659,11 +661,11 @@ El magistrado y el juez podrán modificar o variar las resoluciones antes de fir
 
 ### CAPITULO IV. De las notificaciones
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 76.
 
-Las notificaciones, emplazamientos, citaciones y entrega de expedientes se verificarán lo más tarde, el día siguiente al en que se dicten las resoluciones que las prevengan, siempre que el juez no disponga en éstas otra cosa. Se impondrá de plano a los infractores de este artículo una multa que no exceda de veinticinco pesos.
+Las notificaciones, emplazamientos, citaciones y entrega de expedientes se verificaran lo más tarde, el día siguiente al en que se dicten las resoluciones que las prevengan, siempre que el juez no disponga en éstas otra cosa. Se impondrá de plano a los infractores de este artículo una multa que no exceda de diez días de salario mínimo general vigente en el Estado.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -777,11 +779,11 @@ En ningún caso se harán las notificaciones a los abogados de las partes, a no 
 
 Las sentencias, los autos y demás resoluciones judiciales se entenderán consentidos, cuando notificada la parte contesta expresamente de conformidad, o cuando después de la notificación deje correr, sin aprovecharlo, el término que para hacer valer un derecho o para interponer un recurso, le concede la ley.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 94.
 
-Si se probare que el que debe hacer la notificación, no la hizo en el modo y términos que previene este capítulo, será responsable de los daños y perjuicios y satisfará una multa de diez a treinta pesos.
+Si se probare que el que debe hacer la notificación, no la hizo en el modo y términos que previene este capítulo, será responsable de los daños y perjuicios y satisfará una multa de cuatro a quince días de salario mínimo general vigente en el Estado.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -813,11 +815,13 @@ La nulidad establecida en beneficio de una de las partes, no puede ser invocada 
 
 La nulidad de actuaciones y notificaciones se substanciará en la forma y términos que determine este código para los incidentes.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 100.
 
-Sólo formará artículo de previo y especial pronunciamiento la nulidad de actuaciones por falta de emplazamiento o por defecto en éste. Si en el incidente se resuelve que son válidas la notificación o las actuaciones, se impondrá al promovente y a su abogado solidariamente una multa de cien pesos.
+Solo formará artículo de previo y especial pronunciamiento la nulidad de actuaciones por falta de emplazamiento o por defecto en éste. Si en el incidente se resuelve que son válidas la notificación o las actuaciones, se impondrá al promovente y a su abogado solidariamente una multa de veinticinco días de salario mínimo general vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
 Las cuestiones que se susciten con motivo de nulidades de actuacianes (sic) o de notificaciones, se decidirán en la sentencia definitiva.
 
@@ -977,13 +981,15 @@ Queda estrictamente prohibido dictar otros trámites que los que para cada caso 
 
 Al variar el personal de una sala o de un juzgado, no se proveerá decreto para que se haga saber a las partes el cambio, sino que en el pie del primer auto que se dicte, se pondrá el nombre y apellido del magistrado o juez que lo dictó, para que al hacerse la notificación debida, los conozcan los interesados y puedan hacer uso del derecho de recusar. Se exceptúa el caso en que el cambio de personal sobrevenga decretada la citación para sentencia.
 
-Los magistrados o jueces que infrinjan esta disposición sufrirán una multa de cinco a veinticinco pesos, que harán efectiva mediante queja de cualquiera de los litigantes, el tribunal pleno o su presidente, respectivamente.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+Los magistrados o jueces que infrinjan esta disposición sufrirán una multa de dos a diez días de salario mínimo general vigente en el Estado, que harán efectiva mediante queja de cualquiera de los litigantes, el Tribunal Pleno o su presidente, respectivamente.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 124.
 
-Los magistrados y los jueces tienen el deber de mantener el orden en los debates judiciales y de exigir que las partes, sus representantes o abogados y agentes del Ministerio Público les guarden y se guarden entre sí el respeto y consideraciones correspondientes, lo mismo que a las autoridades cuyos actos sean materia de la instancia o petición, o aquellas que por cualquier otro motivo fueren aludidas en los escritos o alegatos; corrigiendo las faltas que se cometieren con multas que no podrán exceder de diez pesos en los juzgados municipales, de veinticinco en los de primera instancia y de cien en las salas del tribunal. Pueden también emplear el uso de la fuerza pública. Si las faltas llegaren a constituir delitos, se procederá criminalmente contra los que lo cometieron, consignando al culpable a la autoridad competente, con testimonio de las constancias conducentes.
+Los magistrados y los jueces tienen el deber de mantener el orden en los debates judiciales y de exigir que las partes, sus representantes o abogados y agentes del Ministerio Público les guarden y se guarden entre sí el respeto y consideraciones correspondientes, lo mismo que a las autoridades cuyos actos sean materia de la instancia o petición, o aquellas que por cualquier otro motivo fueren aludidas en los escritos o alegatos; corrigiendo las faltas que se cometieren con multas que no podrán exceder de cuatro días de salario mínimo general vigente en el Estado, en los juzgados municipales; de diez en los de primera instancia, y de veinticinco en las Salas del Tribunal. Pueden también emplear el uso de la fuerza pública. Si las faltas llegaren a constituir delitos, se procederá criminalmente contra los que lo cometieron, consignando al culpable a la autoridad competente, con testimonio de las constancias conducentes.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -999,7 +1005,9 @@ Se entenderá corrección disciplinaria:
 
 I. El apercibimiento o amonestación;
 
-II. La multa que no exceda de cien pesos, que se duplicará en caso de reincidencia;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1998)</small>
+
+II. La multa que no exceda de veinticinco días de salario mínimo general vigente en el Estado, que se duplicará en caso de reincidencia;
 
 III. La suspensión que no exceda de un mes. Esta no podrá aplicarse al Ministerio Público.
 
@@ -1039,7 +1047,9 @@ Los magistrados, procuradores o subprocuradores de justicia, agentes del Ministe
 
 Los tribunales, para hacer cumplir sus determinaciones, pueden emplear, a discreción, los siguientes medios de apremio:
 
-I. La multa hasta cien pesos, que podrá duplicarse en caso de reincidencia;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1998)</small>
+
+I. La multa hasta de veinticinco días de salario mínimo general vigente en el Estado, que podrá duplicarse en caso de reincidencia;
 
 II. El auxilio de la fuerza pública;
 
@@ -1531,6 +1541,10 @@ Decidida la competencia, enviará los autos al juez declarado competente, con te
 
 Cada juez al remitir los autos rendirá a la vez al tribunal un informe sobre las razones que los asistan en pro o en contra de su competencia, sin que le baste referirse a las constancias del expediente respectivo. El juez que no cumpla con esta disposición, incurrirá en una multa de veinticinco a cien pesos, según la gravedad de la falta.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
+
+El juez que no cumpla con esta disposición, incurrirá en una multa de diez a veinticinco días de salario mínimo general vigente en el Estado, según la gravedad de la falta.
+
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
 ###### Artículo 201.
@@ -1667,7 +1681,9 @@ Los magistrados, jueces y secretarios tienen el deber de excusarse del conocimie
 
 Sin perjuicio de las providencias que conforme a este código deben dictar, tienen la obligación de inhibirse inmediatamente que se avoquen al conocimiento de un negocio de que no deben conocer por impedimento, o dentro de las veinticuatro horas siguientes de que ocurra el hecho que origina el impedimento o de que tengan conocimiento de él.
 
-Cuando un juez o magistrado se excuse sin causa legítima cualquiera de las partes puede acudir en queja al presidente del tribunal quien encontrando injustificada la abstención podrá imponer una multa que no baje de veinticinco pesos, ni exceda de cien.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
+
+Cuando un juez o magistrado se excuse sin causa legítima cualquiera de las partes puede acudir en queja al presidente del Tribunal, quien encontrando injustificada la abstención podrá imponer una multa que no baje de diez días de salario mínimo general vigente en el Estado, ni exceda de veinticinco.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -1861,11 +1877,11 @@ De las multas señaladas en este título al recusante, son solidariamente respon
 
 Si interpuesta la recusación con causa por un litigante, el contrario estuviere conforme, pasará el negocio, sin substanciarse la recusación, al juez o magistrado a que corresponde, mas no se tendrá, por esto, por probada la causa para proceder en contra del recusado.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 244.
 
-Si se declarare improcedente o no probada la causa de la recusación, se impondrá al recusante una multa de diez a veinticinco pesos, si se trata de un juez menor; de veinticinco a cien si fuere un juez de primera instancia, y de cien a quinientos pesos, en la recusación de un magistrado. No se dará curso a ninguna recusación con causa, si no exhibe el recusante al interponerla el comprobante de depósito por el máximo de la multa, hecho en una institución de crédito donde la hubiere, o, en su defecto, en la oficina de Rentas del Estado, la que en su caso, se aplicará al Fisco.
+Si se declarare improcedente o no probada la causa de la recusación, se impondrá al recusante una multa de cuatro a diez días de salario mínimo general vigente en el Estado, si se trata de un juez municipal; de diez a veinticinco si fuera un juez de primera instancia, y de veinticinco a treinta y cinco, en la recusación de un magistrado. No se dará curso a ninguna recusación con causa, si no exhibe el recusante al interponerla el comprobante de depósito por el máximo de la multa, hecho en una institución de crédito donde la hubiere, o, en su defecto, en la Oficina de Rentas del Estado, la que en su caso, las remitirá al Fondo Auxiliar para la Administración de Justicia.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -2583,17 +2599,17 @@ Las excepciones dilatorias de incompetencia y falta de personalidad deberán pro
 
 La declinatoria de jurisdicción se propondrá ante el juez, pidiéndole que se abstenga del conocimiento del negocio. El juez remitirá desde luego los autos a su inmediato superior, emplazando a los interesados para que en un término de tres días comparezcan ante éste, el cual citará a las partes y al representante del Ministerio Público a una audiencia dentro de los tres días siguientes al de la citación, en la que recibirá pruebas y alegatos y pronunciará resolución, mandando inmediatamente los autos al juez que estime competente, quien debe hacerlo saber a los litigantes. En este caso, la demanda y la contestación se tendrán como presentadas ante éste.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 346.
 
-Cuando no proceda la declinatoria, el que la promovió deberá pagar, además de las costas, una multa hasta de trescientos pesos, que, según la importancia del litigio, le impondrá el superior a favor del colitigante.
+Cuando no proceda la declinatoria, el que la promovió deberá pagar, además de las costas, una multa hasta de treinta días de salario mínimo general vigente en el Estado, que, según la importancia del litigio, le impondrá el superior a favor del colitigante.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 347.
 
-Cuando el juez hubiere dado entrada a una demanda, el reo puede al producir su contestación, objetarla de obscuridad o de defecto legal en la forma de proponerla. Si en la sentencia ejecutoria de segunda instancia se declarare procedente la excepción, se impondrá de oficio al juez que admitió el libelo, una multa de diez a cincuenta pesos.
+Cuando el juez hubiere dado entrada a una demanda, el reo puede al producir su contestación, objetarla de obscuridad o de defecto legal en la forma de proponerla. Si en la sentencia ejecutoria de segunda instancia se declarare procedente la excepción, se impondrá de oficio al juez que admitió el libelo, una multa de cuatro a veinte días de salario mínimo general vigente en el Estado.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -2793,11 +2809,11 @@ Sólo los hechos están sujetos a prueba; el derecho lo estará únicamente cuan
 
 El juez debe recibir todas las pruebas que se le presenten, excepto las que fueren contra derecho o contra la moral.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 374.
 
-El que presentare pruebas notoriamente impertinentes, deberá pagar los gastos e indemnizar los perjuicios que ocasione con ellas a su colitigante, aunque en lo principal hubiere sentencia favorable. Se le impondrá, además, una multa de cincuenta a quinientos pesos, según la importancia del negocio, en favor de su colitigante.
+El que presentare pruebas notoriamente impertinentes, deberá pagar los gastos e indemnizar los perjuicios que ocasione con ellas a su colitigante, aunque en lo principal hubiere sentencia favorable. Se le impondrá, además, una multa de veinte a treinta y cinco días de salario mínimo general vigente en el Estado, según la importancia del negocio, a favor de su colitigante.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -3033,11 +3049,11 @@ Concluído el término ordinario, no se recibirá prueba alguna que no fuere aqu
 
 El término extraordinario concluye con la rendición de la prueba para que se pidió, aunque no haya expirado el plazo concedido.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 405.
 
-El litigante a quien se concediere el término extraordinario y no rindiere la prueba protesta, sin justificar que tuvo para ello impedimento bastante, a juicio del juez, será condenado a pagar a su contrario una multa de cien a mil pesos y la indemnización de daños y perjuicios. En la misma pena incurrirá si la prueba fuere calificada de inconducente.
+El litigante a quien se concediere el término extraordinario y no rindiere la prueba propuesta, sin justificar que tuvo para ello impedimento bastante, a juicio del juez, será condenado a pagar a su contrario una multa de veinticinco a cuarenta días de salario mínimo general vigente en el Estado y la indemnización de daños y perjuicios. En la misma pena incurrirá si la prueba fuere calificada de inconducente.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -3619,7 +3635,9 @@ El juez señalará lugar, día y hora para que la diligencia se practique, si de
 
 En el caso de la primera parte del artículo anterior concurrirá el tercero en discordia y se observarán las reglas siguientes:
 
-I. El perito que dejare de concurrir sin justa causa, calificada por el tribunal, incurrirá en una multa de diez a cincuenta pesos, y será responsable de los daños causados por su culpa, sin perjuicio de lo que previene el artículo 578;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1998)</small>
+
+l. El perito que dejare de concurrir sin justa causa, calificada por el Tribunal, incurrirá en una multa de cuatro a veinte días de salario mínimo general vigente en el Estado, y será responsable de los daños causados por su culpa, sin perjuicio de lo que previene el artículo 486;
 
 II. Los peritos practicarán unidos la diligencia, pudiendo concurrir los interesados al acto y hacerles cuantas observaciones quieran; pero deberán retirarse, para que los peritos discutan y deliberen solos;
 
@@ -4461,11 +4479,11 @@ Cuando hubiere condena de frutos, intereses, daños o perjuicios, no siendo ést
 
 La infracción del artículo anterior será motivo de aclaración de sentencia.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 605.
 
-Los magistrados y jueces que no pronuncien las sentencias se observarán dentro de los términos establecidos, incurrirán en una pena de seis meses de suspensión y multa de diez a cien pesos.
+Los magistrados y jueces que no pronuncien las sentencias dentro de los términos establecidos, incurrirán en una pena de seis meses de suspensión y multa de cuatro a veinticinco días de salario mínimo general vigente en el Estado.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5315,11 +5333,11 @@ De la solicitud en que este incidente se promueva, se correrá traslado por tres
 
 Si el que obtuvo resolución favorable quiere impugnar la admisión del recurso, porque no lo considera procedente o porque habiéndose concedido en ambos efectos sostenga que solamente deba admitirse en el devolutivo, puede hacerlo dentro de los dos días siguientes al de la notificación del auto en que se haga saber a las partes la llegada de los autos o la presentación del testimonio en su respectivo caso. Este incidente se substanciará en los mismos términos que el anterior.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 716.
 
-Si se declara inadmisible la apelación, se devolverán los autos o el testimonio al juez inferior, para que ejecute la resolución o continúe el procedimiento en su caso.
+Si se declara que la apelación es procedente tal como fue admitida, se impondrá al que promovió el artículo, una multa de diez a veinticinco días de salario mínimo general vigente en el Estado, siguiendo su curso la segunda instancia.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5433,13 +5451,15 @@ El recurso de queja contra el juez se interpondrá ante él, dentro de los tres 
 
 Recibidas las actuaciones en el Supremo Tribunal de Justicia, se turnarán a la sala que corresponda, para que de inmediato ordene traer los autos a la vista a fin de dictar resolución, dentro del tercer día.
 
-La falta de informe con justificación, se sancionará con multa de cien a quinientos pesos.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
+La falta de informe con justificación, se sancionará con multa de veinticinco a treinta y cinco días de salario mínimo general vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 733.
 
-Si la queja no está apoyada en hecho cierto o no estuviere fundada en derecho o hubiere recurso ordinario contra la resolución reclamada, será desechada por la sala, imponiendo a la parte quejosa y a su abogado solidariamente, una multa de cien a quinientos pesos.
+Si la queja no está apoyada en hecho cierto o no estuviere fundada en derecho o hubiere recurso ordinario contra la resolución reclamada, será desechada por la Sala, imponiendo a la parte quejosa y a su abogado solidariamente, una multa de veinticinco a treinta y cinco días de salario mínimo general vigente en el Estado.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5669,11 +5689,11 @@ Si los bienes muebles no estuvieren valuados anteriormente o si su precio no con
 
 Si los bienes fueren raíces, el valor catastral servirá de base para el remate, excepto el caso en que cualquiera de las partes pida que el valor se fije por peritos, pues entonces éstos harán el avalúo con las formalidades establecidas por la ley.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 765.
 
-Justipreciados los bienes, si fueren raíces se anunciará su venta por tres veces de siete en siete días, fijándose edictos en los parajes públicos, y si el valor del inmueble pasare de mil pesos se insertarán en el periódico oficial y en otro de los de más circulación, a juicio del juez, si los hubiere en el lugar del pleito. Si los bienes fueren muebles, los plazos para la publicación de los edictos serán de tres en tres días, fijándose solamente en los parajes públicos.
+Justipreciados los bienes, si fueren raíces se anunciará su venta por tres veces de siete en siete días, fijándose edictos en los parajes públicos, y si el valor del inmueble pasare del equivalente a cuarenta días de salario mínimo general vigente en el Estado, se insertarán en el Periódico Oficial y en otro de los de más circulación, a juicio del juez, si los hubiere en el lugar del pleito. Si los bienes fueren muebles, los plazos para la publicación de los edictos serán de tres en tres días, fijándose solamente en los parajes públicos.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -6201,11 +6221,11 @@ Cualquier documento que se presente con posterioridad, se presumirá simulado y 
 
 Cuando entre los bienes embargados estuviere comprendida alguna finca destinada a habitación y viviere en ella el ejecutado, podrá el depositario exigir la desocupación inmediata, a menos que aquél estuviere físicamente impedido para trabajar o sin culpa suya careciere de otros bienes o de profesión u oficio. El juez apreciará estas circunstancias y las demás que concurran en el negocio y podrá permitir al ejecutado que siga ocupando todo o parte de la finca, sin pagar renta o fijando la que haya de pagar en atención a las circunstancias. En todo caso procederá la desocupación de la finca cuando llegare el caso del remate y de su adjudicación a un tercero o al mismo acreedor.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 833.
 
-Los sueldos y emolumentos, en los casos en que lo permita la Ley Federal del Trabajo, sólo podrán embargarse en un 20%, si el total de los mismos no llegare a $1,000.00 anuales; en un 40%, si no llegare a $2,000.00 anuales, y en un 60% de $2,000.00 en adelante. Las disposiciones de este artículo tampoco son renunciables.
+Los sueldos y emolumentos, en los casos en que lo permita la Ley Federal del Trabajo, sólo podrán embargarse en un 20%, si el total de los mismos no llegare a un importe equivalente a cuarenta días de salario mínimo general vigente en el Estado; en un 40% si no llegare a un importe equivalente a ochenta días de salario mínimo general vigente en el Estado; y en un 60% en un importe superior a ochenta días de salario mínimo general vigente en el Estado. Las disposiciones de este artículo tampoco son renunciables.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -6243,11 +6263,11 @@ Todas las cuestiones que surjan con motivo del embargo y de la depositaría, no 
 
 Todas las resoluciones, cuando lo amerite la cuantía del negocio, serán apelables en un solo efecto y se ejecutarán desde luego, sin necesidad de ninguna caución o garantía, salvo lo dispuesto en este capítulo respecto al depositario.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 839.
 
-En los juicios de menor cuantía, en que no procediere legalmente el recurso de apelación, cabrá el de revisión para ante el juez de primera instancia, si la cosa embargada tuviere un valor que exceda de $100.00.
+En los juicios de menor cuantía, en que no procediere legalmente el recurso de apelación, cabrá el de revisión para ante el juez de primera instancia, si la cosa embargada tuviere un valor que exceda de veinticinco días de salario mínimo general vigente en el Estado.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -6437,7 +6457,9 @@ El día del remate a la hora señalada, pasará el juez personalmente lista de l
 
 Calificadas de buenas las posturas, el juez mandará darles lectura por la secretaría, para que los postores presentes puedan mejorarlas. Si hay varias posturas legales el juez decidirá cuál sea la preferente.
 
-Hecha la declaración de la postura considerada preferente, el juez preguntará si alguno de los licitadores la mejora. En caso de que alguno la mejore dentro de los cinco minutos que sigan a la pregunta, interrogará de nuevo si algún postor puja la mejora y así sucesivamente con respecto a las pujas que se hagan. En cualquier momento en que pasados cinco minutos de hecha la pregunta corresponriente (sic), no se mejorare la última postura o puja, declarará el tribunal fincado el remate en favor del postor que hubiere hecho aquélla. Esta resolución es apelable en ambos efectos, siempre que el interés que represente la postura admitida o aquella cuya admisión se pretenda exceda de un mil pesos. El tribunal superior substanciará el recurso con un escrito de cada parte, citando a continuación para sentencia que dictará dentro del término legal.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
+
+Hecha la declaración de la postura considerada preferente, el juez preguntará si alguno de los licitadores la mejora. En caso de que alguno la mejore dentro de los cinco minutos que sigan a la pregunta, interrogará de nuevo si algún postor puja la mejora y as¡ sucesivamente con respecto a las pujas que se hagan. En cualquier momento en que pasados cinco minutos de hecha la pregunta correspondiente, no se mejorare la última postura o puja, declarará el Tribunal fincado el remate a favor del postor que hubiere hecho aquélla. Esta resolución es apelable en ambos efectos, siempre que el interés que represente la postura admitida o aquélla cuya admisión se pretenda exceda de cuarenta días de salario mínimo general vigente en el Estado. El Tribunal Superior substanciará el recurso con un escrito de cada parte, citando a continuación para sentencia que dictará dentro del término legal.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -7113,11 +7135,11 @@ El compromiso posterior a la sentencia irrevocable, sólo tendrá lugar, si los 
 
 En el caso del artículo anterior, si el compromiso es anulado o caduca por causa del que fué condenado en la sentencia irrevocable, recobrará ésta toda su fuerza; quedando aquél obligado al resarcimiento de todos los daños y perjuicios.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 960.
 
-El compromiso debe celebrarse en escritura pública, siempre que el interés del pleito exceda de cinco mil pesos y si no llegare a esa cantidad puede celebrarse en escrito privado ante dos testigos o en acta ante el juez.
+El compromiso debe celebrarse en escritura pública, siempre que el interés del pleito exceda al equivalente a doscientos días de salario mínimo general vigente en el Estado, y si no llegare a esa cantidad puede celebrarse en escrito privado ante dos testigos o en acta ante el juez.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -7421,11 +7443,11 @@ La junta de rectificación y graduación será presidida por el juez, procedién
 
 En el informe deberá también calificar los créditos de acuerdo con sus privilegios según el Código Civil.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 999.
 
-Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios y será removido de plano imponiéndose, además, una multa de cincuenta pesos.
+Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios y será removido de plano imponiéndose, además, una multa de veinte días de salario mínimo general vigente en el Estado.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -7761,11 +7783,11 @@ Todo albacea definitivo o provisional presentará al juez, a los treinta días d
 
 Los albaceas, cónyuges sobrevivientes, herederos u otras personas que con cualquier carácter se encarguen de los bienes de alguna sucesión, están obligados a participarlo por escrito al representante del Fisco en el distrito o municipio donde ocurra la muerte del autor de la herencia, dentro de treinta días de haber entrado en posesión de dichos bienes, agregando una lista de los mismos, así como de los que tengan conocimiento pertenecen a la sucesión aunque no los haya recibido.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 1043.
 
-Los jueces y albaceas, al radicarse el juicio de sucesión, exigirán constancia de haberse dado el aviso a que se refiere el artículo anterior, y en caso de que no se presente tal constancia, impondrán a los infractores una multa de diez a cien pesos y lo comunicarán al representante del Fisco para que la haga efectiva conforme a las leyes, no pudiendo continuar el juicio sucesorio sino hasta que esté pagada la multa. Igualmente exigirán certificado del Archivo de Notarías en que conste que el testamento presentado es el último del autor de la herencia o que no hay testamento alguno otorgado por él, cuando se trate de un intestado.
+Los jueces y albaceas, al radicarse el juicio de sucesión, exigirán constancia de haberse dado el aviso a que se refiere el artículo anterior, y en caso de que no se presente tal constancia, impondrá a los infractores una multa de cuatro a veinticinco días de salario mínimo general vigente en el Estado y lo comunicarán al representante del Fisco para que la haga efectiva conforme a las leyes, no pudiendo continuar el juicio sucesorio sino hasta que esté pagada la multa. Igualmente exigirán certificado del archivo de notarias en que conste que el testamento presentado es el último del autor de la herencia o que no hay testamento alguno otorgado por él, cuando se trate de un intestado.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -8177,11 +8199,11 @@ Provisional será la que esté a cargo del albacea nombrado conforme al artícul
 
 Es definitiva la que esté a cargo del albacea nombrado en el testamento, por los herederos o por el juez, conforme al artículo 1121 de este propio ordenamiento.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 1099.
 
-Cuando los herederos o el juez hagan uso de la facultad que les conceden los artículos 1586 y 1589 y correlativos del Código Civil, el interventor nombrado se tendrá como albacea mancomunado del provisional o definitivo. El albacea, cualquiera que sea su carácter, no podrá ejecutar actos de administración sino de acuerdo con el interventor, bajo la pena de nulidad de los actos que ejecuta y será castigado, además, disciplinariamente hasta con un mes de arresto o quinientos pesos de multa, sin perjuicio de la responsabilidad civil y criminal que debe satisfacer.
+Cuando los herederos o el juez hagan uso de la facultad que les conceden los artículos 1586 y 1589 y correlativos del Código Civil, el interventor nombrado se tendrá como albacea mancomunado del provisional o definitivo. El albacea, cualquiera que sea su carácter, no podrá ejecutar actos de administración sino de acuerdo con el interventor, bajo la pena de nulidad de los actos que ejecuta y treinta y cinco días de salario mínimo general vigente en el Estado de multa, sin perjuicio de la responsabilidad civil y criminal que debe satisfacer.
 
 (REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (F. DE E., P.O. 25 DE FEBRERO DE 1965)
 
@@ -8251,11 +8273,13 @@ Reconocido y nombrado el albacea definitivo, recibirá la correspondencia anteri
 
 Todas las disposiciones referentes al albacea definitivo regirán, en lo conducente, respecto del provisional.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 1111.
 
-El albacea provisional y el interventor, en su caso, tendrán el dos por ciento del importe de los bienes, si no exceden de diez mil pesos; si excedieren de esta suma, pero no de cincuenta mil, tendrán, además, el uno por ciento, y excediendo de cincuenta mil, tendrán, además, el medio por ciento de la cantidad excedente.
+El albacea provisional y el interventor, en su caso, tendrán el dos por ciento del importe de los bienes, si no exceden al equivalente de cuatrocientos días de salario mínimo general vigente en el Estado; si excedieren de esta suma, pero no al equivalente de dos mil días de salario mínimo general vigente en el Estado, tendrán, además, el uno por ciento, y excediendo de esta última, tendrán, además, el medio por ciento de la cantidad excedente.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
 El albacea definitivo tendrá el que señala el artículo 1599 del Código Civil, si su encargo hubiere durado más de seis meses; si hubiere durado menos tiempo, sólo cobrará como interventor.
 
@@ -8319,7 +8343,9 @@ A la cuenta mensual deberán acompañarse los justificantes que procedan, y apro
 
 El albacea provisional, judicial o definitivo y el cónyuge en el caso a que se refiere el artículo anterior, rendirán su cuenta general de administración dentro de los treinta días siguientes a aquel en que cesen en su cargo.
 
-La falta de cumplimiento de la obligación de rendir cuentas, se castigará con prisión de uno a seis meses, sin perjuicio de las acciones civiles y penales que procedan en contra del obligado.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
+
+La falta de cumplimiento de la obligación de rendir cuentas, se sancionará con multa de treinta y cinco días de salario mínimo general vigente en el Estado, sin perjuicio de las acciones civiles y penales que procedan en contra del obligado.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -8435,11 +8461,11 @@ Si no hubiere mayoría, el juez nombrará partidor, eligiéndolo entre los propu
 
 El cónyuge, aunque no tenga el carácter de heredero será tenido como parte, si entre los bienes hereditarios hubiere bienes en copropiedad.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 1134.
 
-El juez pondrá a disposición del partidor los autos y bajo inventario, los papeles y documentos relativos al caudal, para que proceda a la partición, señalándole un término que nunca excederá de veinticinco días para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo y de multa de cinco a cien pesos.
+El juez pondrá a disposición del partidor los autos y bajo inventario, los papeles y documentos relativos al caudal, para que proceda a la partición, señalándole un término que nunca excederá de veinticinco días para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo y de multa de dos a veinticinco días de salario mínimo general vigente en el Estado.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -8945,11 +8971,11 @@ Esta propia regla se observará cuando cualquier interesado promueva diligencias
 
 Los actos de jurisdicción voluntaria de que no hiciere mención especial este código, se sujetarán a lo dispuesto en este capítulo.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
-###### Artículo 1199.
+###### Artículo 1099.
 
-Los actos de que tratan los capítulos siguientes se sujetarán a las reglas que en ellos se establecen y a las contenidas en el presente, en cuanto no se opongan a lo establecido en sus respectivos capítulos.
+Cuando los herederos o el juez hagan uso de la facultad que les conceden los artículos 1586 y 1589 y correlativos del Código Civil, el interventor nombrado se tendrá como albacea mancomunado del provisional o definitivo. El albacea, cualquiera que sea su carácter, no podrá ejecutar actos de administración sino de acuerdo con el interventor, bajo la pena de nulidad de los actos que ejecuta y treinta y cinco días de salario mínimo general vigente en el Estado de multa, sin perjuicio de la responsabilidad civil y criminal que debe satisfacer.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -9023,7 +9049,9 @@ I. Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limit
 
 II. El estado de demencia puede probarse por testigos o documentos; pero en todo caso se requiere certificación de tres médicos, por lo menos, que nombrará el juez, sin perjuicio de la prueba pericial que las partes promuevan. El tutor puede nombrar un médico para que tome parte en el reconocimiento o reconocimientos que se practiquen, y se oiga su dictamen;
 
-III. El que promueva dolosamente la interdicción incurrirá en las penas que la ley impone, por falsedad y calumnia, y sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa de cincuenta a un mil pesos que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1998)</small>
+
+III. El que promueva dolosamente la interdicción incurrirá en las penas que la ley impone, por falsedad y calumnia, y sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa de veinte a cuarenta días de salario mínimo general vigente en el Estado, que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino; y,
 
 IV. Luego que cause ejecutoria la sentencia de interdicción, se llamará al ejercicio de la tutela a las personas a quienes corresponda, conforme a la ley, o hará el nombramiento de tutor en los casos en que para ello esté legalmente facultado. Cuando el cargo de tutor definitivo deba recaer en el tutor interino, bastará confirmar el nombramiento anterior; lo mismo se observará para el nombramiento de curador definitivo.
 
@@ -9237,11 +9265,13 @@ V. Si los jueces lo creyeren conveniente, decretarán el depósito cuando se pre
 
 VI. Pedirán al efecto las noticias que estimen necesarias del estado en que se halle la gestión de la tutela, y adoptarán las medidas necesarias que juzguen convenientes para evitar los abusos, y remediar los que puedan haberse cometido.
 
-(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (F. DE E., P.O. 25 DE FEBRERO DE 1965)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 1239.
 
-Las cuentas de la tutela deben ser acompañadas de sus documentos justificativos, a excepción de aquellas partidas que no excedan de cinco pesos.
+Las cuentas de la tutela deben ser acompañadas de sus documentos justificativos, a excepción de aquellas partidas que no excedan de dos días de salario mínimo general vigente en el Estado.
+
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (F. DE E., P.O. 25 DE FEBRERO DE 1965)
 
 Son justificantes del gasto:
 
@@ -9703,7 +9733,9 @@ II. Derechos reales sobre muebles;
 
 III. Alhajas y muebles preciosos;
 
-IV. Acciones de compañías industriales y mercantiles, cuyo valor exceda de cinco mil pesos.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1998)</small>
+
+IV. Acciones de compañías industriales y mercantiles, cuyo valor exceda de doscientos días de salario mínimo general vigente en el Estado.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -9727,11 +9759,11 @@ El remate de los inmuebles se hará conforme al capítulo II, título decimoprim
 
 Si en la primera almoneda no hubiere postor, el juez convocará a solicitud del tutor, o del curador, a una junta dentro del tercero día, para ver si son de notificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 1303.
 
-Cuando el valor de los inmuebles no exceda de quinientos pesos, la venta se hará fuera de subasta.
+Cuando el valor de los inmuebles no exceda de treinta y cinco días de salario mínimo general vigente en e! Estado, la venta se hará fuera de subasta.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -9881,7 +9913,9 @@ Presentada la solicitud, se mandará publicar un edicto que contenga el extracto
 
 Transcurrido ese término sin que se hubiere presentado opositor, el juez recibirá desde luego la información, la que se aprobará o declarará sin lugar según su resultado, siendo apelable en ambos efectos la resolución que se dicte en el último sentido. En el primer caso, el juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y mandará inscribir tal declaración en el Registro Público.
 
-La falta de presentación de los certificados que previene la fracción II del artículo 1319, producirá de pleno derecho la nulidad de la información y el juez que la autorice sufrirá una multa de cien a quinientos pesos y responderá de los daños y perjuicios que ocasione. Si por segunda vez comete la infracción, en lugar de la multa será suspendido de su cargo, de uno a seis meses.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
+
+La falta de presentación de los certificados que previene la fracción II del artículo 1319, producirá de pleno derecho la nulidad de la información y el juez que la autorice sufrirá una multa de veinticinco a treinta y cinco días de salario mínimo general vigente en el Estado y responderá de los daños y perjuicios que ocasione. Si por segunda vez comete la infracción, en lugar de la multa será suspendido de su cargo, de uno a seis meses.
 
 Las mismas sanciones se impondrán al Registrador de la Propiedad que inscriba la información y al notario que la admita como antecedente legal de algún acto que autorice en el ejercicio de sus funciones, si en el testimonio o copia certificada de las diligencias que se les presente no están insertos los certificados de que trata el citado articulo 1319.
 
@@ -10179,11 +10213,11 @@ Respecto de las actuaciones ante los jueces municipales y ante los de tenencia, 
 
 Ante los jueces no será necesaria la intervención de abogados ni se exigirá ritualidad alguna ni forma determinada en las promociones o alegaciones que hagan. Las partes deberán precisar los puntos petitorios y los fundamentos de los mismos.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 1355.
 
-En los juicios cuya cantidad no exceda de cien pesos, no habrá condenación en costas ni en multa, a pesar de cualquier pacto en contrario. En los negocios que excedan de cien pesos se condenará al vencido al pago de un diez por ciento del importe del negocio por toda indemnización, que se aplicará al que obtuvo.
+En los juicios cuya cuantía no exceda de veinticinco días de salario mínimo general vigente en el Estado, no habrá condenación en costas ni en multa, a pesar de cualquier pacto en contrario. En los negocios de cuantía mayor a veinticinco días de salario mínimo general vigente en el Estado se condenará al vencido al pago de un diez por ciento del importe del negocio por toda indemnización, que se aplicará al que obtuvo.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10227,7 +10261,9 @@ Para cada asunto se formará un breve expediente con los documentos relativos a 
 
 Bastará que las actas sean autorizadas por el juez y el secretario o los testigos de asistencia, en su caso; pero los interesados tendrán el derecho de firmarlas también, pudiendo sacar copias de ellas, cuya exactitud certificará el secretario previo cotejo si así se pidiere. El condenado que estuviere presente firmará en todo caso el acta, a menos de no saber o estar físicamente impedido; si fuere posible, se imprimirán sus huellas digitales.
 
-En los asuntos de menos de veinticinco pesos no se requiere ni la formación de expediente, bastando con asentar en el libro de gobierno el asunto de la demanda y la contestación que se diere sucintamente relatada y los puntos resolutivos de la sentencia con los preceptos legales que sirvieron de fundamento.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
+
+En los asuntos de menos de diez días de salario mínimo general vigente en el Estado no se requiere ni la formación de expediente, bastando con asentar en el libro de gobierno el asunto de la demanda y la contestación que se diere suscintamente relatada y los puntos resolutivos de la sentencia con los preceptos legales que sirvieron de fundamento.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10245,7 +10281,7 @@ Los jueces no son recusables; pero deben excusarse cuando estén impedidos, y en
 
 ### CAPITULO III. Del juicio
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 1364.
 
@@ -10253,7 +10289,9 @@ A petición del actor se citará al demandado para que comparezca dentro del ter
 
 Debe llevarse en los juzgados un libro de registro en que se asentarán por días y meses los nombres de actores y demandados y el objeto de las demandas.
 
-En los negocios que pasen de cien pesos la demanda debe presentarse precisamente por escrito.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
+
+En los negocios de una cuantía mayor a veinticinco días de salario mínimo general vigente en el Estado, la demanda debe presentarse precisamente por escrito.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10323,7 +10361,7 @@ El que se presente como actor o como reo usando el nombre de otro para hacerse p
 
 ###### Artículo 1373.
 
-Si al anunciarse el despacho del negocio no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de uno a diez pesos, que se aplicará al reo por vía de indemnización, y sin que se justifique haberse hecho el pago no se citará de nuevo para el juicio.
+Si al anunciarse el despacho del negocio no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de uno a cuatro días de salario mínimo general vigente en el Estado, que se aplicará al reo por vía de indemnización, y sin que se justifique haberse hecho el pago no se citará de nuevo para el juicio.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10375,11 +10413,11 @@ V. Concluído el período de ofrecimiento de pruebas y acordada la recepción de
 
 VI. El juez oirá las alegaciones de las partes, para lo cual concederá hasta diez minutos a cada una y en seguida pronunciará su fallo en presencia de ellas, de una manera clara y sencilla.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 1379.
 
-En los negocios menores de cien pesos, las sentencia se dictarán a verdad sabida, sin necesidad de sujetarse a las reglas sobre estimación de las pruebas, sino apreciando los hechos según los jueces lo creyeren debido en conciencia; y en los que excedan de esa suma, se sujetarán a las reglas generales sobre apreciación de pruebas señaladas en este código.
+En los negocios de una cuantía menor a veinticinco días de salario mínimo general vigente en el Estado, las sentencias se dictarán a verdad sabida, sin necesidad de sujetarse a las reglas sobre estimación de las pruebas, sino apreciando los hechos según los jueces lo creyeren debido en conciencia; y en los que excedan de esa suma, se sujetarán a las reglas generales sobre apreciación de pruebas señaladas en esté Código.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10588,3 +10626,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 16 DE OCTUBRE DE 1997.
 
 UNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE DICIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a las previstas por este Decreto.
