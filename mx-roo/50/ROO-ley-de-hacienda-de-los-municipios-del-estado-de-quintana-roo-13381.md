@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2002-12-30"
+last_updated: "2003-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -407,7 +407,9 @@ Tampoco se pagará el impuesto establecido en esta Ley en las adquisiciones de i
 
 El valor del inmueble que se considerará para efectos del Artículo 29 de esta Ley, será la cantidad que resulte de actualizar el precio pactado por el factor que se obtenga de dividir el índice de precios al consumidor del mes inmediato anterior a aquél en que sea exigible el pago, entre el índice del mes anterior en que se efectúo la adquisición. Las autoridades fiscales están facultadas para tomar en cuenta el valor del inmueble a la fecha de adquisición, el valor catastral con una antigüedad no mayor de treinta días a la fecha de adquisición o el avalúo practicado por institución bancaria con una antigüedad no mayor de treinta días a la fecha de adquisición. El impuesto se calculará sobre el valor mayor, determinándose las diferencias de impuestos que resulten.
 
-Cuando no exista precio pactado, el Impuesto se calculará eligiendo el valor mayor del inmueble, entre el avalúo catastral, el bancario, el de corredor público o practicado u ordenado por la Tesorería Municipal. En la constitución, adquisición o extinción de usufructo o de la nuda propiedad y en adquisición de bienes en remate, no se tomará en cuenta el precio pactado, sino el valor a que se refiere este párrafo.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
+
+Cuando no exista precio pactado, el impuesto se calculará eligiendo el valor mayor del inmueble, entre el avalúo catastral, el bancario, el de corredor público, el practicado u ordenado por la Tesorería Municipal o el practicado por personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública y que se encuentren inscritos en el Registro Estatal de Peritos Valuadores. En la constitución, adquisición o extinción de usufructo o de la nuda propiedad y en adquisición de bienes en remate, no se tomará en cuenta el precio pactado, sino el valor a que se refiere este párrafo.
 
 Para los fines de esta Ley se considera que el usufructo o la nuda propiedad tienen un valor cada uno de ellos, del 50% del valor de la propiedad.
 
@@ -462,6 +464,14 @@ VIII.- Copia del certificado de no adeudo de cooperación por obras;
 IX.- Tratándose de compra-venta de inmuebles, deberán presentar copia del recibo oficial de pago del impuesto predial, expedido por la Tesorería Municipal con el que acrediten estar al corriente en el pago de esta contribución.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
+
+ARTÍCULO 34 La vivienda de interés social y popular tendrá un deducible equivalente para la ZONA "A" y ZONA "B" a 5 días de S.M.G. y para la ZONA "C" a 10 días de S.M.G. vigente en el Estado elevado al año, mismo que será aplicable a la base para el cálculo del impuesto.
+
+Para los efectos de este artículo se considera:
+
+I.- Vivienda de interés social, aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar para la ZONA "A" por diez y para la ZONA "B" Y ZONA "C" por quince el S.M.G. elevado al año; y
+
+II.- Vivienda popular; aquella cuyo valor al término de su edificación, no exceda del importe que resulte de multiplicar para la ZONA "a" por veinte y para la ZONA "B" y ZONA "C" por veinticinco el S.M.G. elevado al año.
 
 ###### ARTÍCULO 34.
 
@@ -2193,7 +2203,21 @@ Se entiende por financiamientos los ingresos que perciba el municipio por crédi
 
 ###### ARTICULO CUARTO.
 
+Por esta única ocasión la tasa aplicable para el pago del impuesto predial respecto de predios edificados en zonas urbanas, cuyo valor sea de $5,001.00 en adelante, exclusivamente del Municipio de Othón P. Blanco, contenida en el inciso b) de la Fracción II del Artículo 13 de la Ley de Hacienda de los Municipios del Estado, será de 10.5 al millar, cobrando vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado y por todo el ejercicio fiscal del año 2003.
+
+###### ARTICULO QUINTO.
+
 Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+P.O. 15 DE ABRIL DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+###### ARTICULO SEGUNDO.
+
+Se dejan sin efectos todas las disposiciones legales que se opongan al presente Decreto.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2320,3 +2344,5 @@ TERCERO: Para la determinación del Impuesto Predial en el ejercicio fiscal 2003
 TABLA PARA EL CALCULO ANUAL DEL IMPUESTO PREDIAL 2003
 
 (VEASE ARCHIVO ANEXO)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2003)</small>
