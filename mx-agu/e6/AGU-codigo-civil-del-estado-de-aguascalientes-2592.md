@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "1975-08-24"
+last_updated: "1977-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1977.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -4103,7 +4103,11 @@ II.- Una fracción de terreno anexa a la casa habitación de la familia o a dist
 
 III.- Los equipos agrícolas, considerando como tales los semovientes, maquinarias, útiles, implementos y aperos de labranza;
 
-IV.- Los equipos de trabajo correspondientes a familias obreras, considerándose como tales las maquinarias, herramientas y en general toda clase de utensilios propios para el ejercicio del arte, industria, trabajo o profesión a que la familia se dedique.
+IV.- Los equipos de trabajo correspondientes a familias obreras, considerándose como tales las maquinarias, herramientas y en general toda clase de utensilios propios para el ejercicio del arte, industria, trabajo o profesión a que la familia se dedique;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1977)</small>
+
+V.- Los lotes destinados a la construcción de casa-habitación y los derechos derivados del acto jurídico que transmita la propiedad sobre el terreno objeto de ese fin.
 
 ###### Artículo 747.
 
@@ -4135,9 +4139,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el Muni
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1977)</small>
+
 ###### Artículo 754.
 
-El valor máximo de los bienes afectos al patrimonio de familia será de: diez mil pesos para el Municipio de la Capital; cinco mil pesos para los Municipios de Calvillo y Rincón de Romos, y tres mil para los Municipios restantes.
+El valor máximo de los bienes afectos al patrimonio de familia, se calculará sobre el importe del salario mínimo vigente en el Estado y será el equivalente a la suma de nueve años para el Municipio de la Capital; cuatro años para los Municipios de Calvillo, Rincón de Romos y Pabellón de Arteaga; y dos años para los Municipios restantes.
 
 ###### Artículo 755.
 
@@ -14965,9 +14971,11 @@ El registrador que haga una inscripción sin cumplir con lo dispuesto en el art�
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 1977)</small>
+
 ###### Artículo 2891.
 
-Una vez que se firme una escritura en que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que lo autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha transmitido o modificado su dominio o se ha constituido, transmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación de número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El registrador, con el aviso del notario y sin cobro de derecho alguno hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo su inscripción surtirá efecto contra tercero desde la fecha de su anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
+Una vez que se firme una escritura en que se adquiera, trasmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que lo autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha trasmitido o modificado su dominio o se ha constituido, trasmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación de número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El registrador, con el aviso del notario y sin cobro de derecho alguno hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro de los noventa días siguientes a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
 
 Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que este artículo se refiere, las autoridades de que habla la fracción III del artículo 2884, y el mencionado aviso producirá los mismos efectos que el dado por el notario.
 
@@ -15184,3 +15192,17 @@ El presente decreto surtirá sus efectos a los tres días de su publicación en 
 P.O. 24 DE AGOSTO DE 1975.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 28 DE AGOSTO DE 1977.
+
+DECRETO No. 66.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 28 DE AGOSTO DE 1977.
+
+DECRETO No. 80.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
