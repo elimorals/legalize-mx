@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "1999-10-09"
+last_updated: "2001-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2001.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1034,6 +1034,32 @@ III.- La casa que servirá de habitación a cada uno de los esposos durante el p
 IV.- La cantidad que por concepto de alimentos un cónyuge deba pagar al otro durante el procedimiento, la forma de hacer el pago y la garantía que deba darse para asegurarlo;
 
 V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. Para ese efecto se acompañará un inventario y avalúo de todos los bienes y deudas de la sociedad.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2001)</small>
+
+ART. 254 BIS.- Solo cuando haya transcurrido por lo menos un año de la celebración del matrimonio, procede el divorcio administrativo ante la Oficialía del Registro Civil en que se llevó a cabo el matrimonio, una vez que se agote el procedimiento que establece el presente artículo, y siempre que los cónyuges comparezcan personalmente a manifestar su voluntad de dar por terminado el vínculo matrimonial, para lo cual deberán reunirse los siguientes requisitos:
+
+I.- Que se solicite el divorcio administrativo ante el Oficial del Registro Civil respectivo;
+
+II.- Presentar copia certificada del acta de matrimonio;
+
+III.- Que los solicitantes se identifiquen plenamente;
+
+IV.- Que sean mayores de edad, lo que acreditarán con las copias certificadas de las actas correspondientes;
+
+V.- Que no tengan hijos entre sí, o teniéndolos, sean mayores de edad, siempre que no sean incapaces;
+
+VI.- En caso de que hayan contraído matrimonio bajo el régimen de sociedad conyugal, que acrediten con copia certificada de la resolución judicial o del convenio notarial correspondiente, haber liquidado la misma;
+
+VII.- Que la mujer presente original de certificado medico en el que conste que no se encuentra en estado de gravidez.
+
+El Oficial del Registro Civil, después de haber verificado que los solicitantes cumplieron con los requisitos antes mencionados, levantará un acta en la que hará constar la solicitud de divorcio administrativo y citará a los cónyuges para que se presenten a ratificar la solicitud dentro de un plazo no menor de diez ni mayor de quince días.
+
+Si los cónyuges ratifican la solicitud, el Oficial del Registro Civil los declarará divorciados, levantando el acta correspondiente ante la presencia de dos testigos y hará la anotación respectiva para la cancelación del matrimonio.
+
+Los cónyuges que sean declarados divorciados no podrán contraer matrimonio, hasta que transcurra un año a partir de la declaración de divorcio administrativo.
+
+Si se comprueba que los cónyuges no cumplen con los requisitos exigidos, el divorcio así obtenido no producirá efectos, independientemente de las sanciones previstas en las leyes.
 
 ART. 255.- Sólo cuando haya transcurrido por lo menos un año de la celebración del matrimonio puede pedirse el divorcio por mutuo consentimiento, y será nulo si se efectúa antes. La acción de nulidad en este caso corresponde en cualquier tiempo al Ministerio Público, pero si alguno de los divorciados contrajo nuevas nupcias únicamente podrá ejercitarla dentro de un año a partir del pronunciamiento del divorcio.
 
@@ -6849,7 +6875,7 @@ ART. 2047.- Pasado el término por el cual fue constituida la sociedad, si ésta
 
 ART. 2048.- En el caso de que a la muerte de un socio la sociedad hubiere de continuar con los supervivientes, se procederá a la liquidación de la parte que corresponda al socio difunto, para entregarla a su sucesión. Los herederos tendrán derecho al capital y utilidades que correspondan al finado en el momento del fallecimiento y, en lo sucesivo, sólo tendrán parte en lo que dependa necesariamente de los derechos adquiridos o de las obligaciones contraídas por su causante.
 
-ART. 2049.- La renuncia se considera maliciosa cuando el socio que la hace se propone aprovecharse exclusivamente de los beneficios e evitarse pérdidas que los socios deberían de recibir o reportar en común con arreglo al acto constitutivo de la sociedad.
+ART. 2049.- La renuncia se considera maliciosa cuando el socio que la hace se propone aprovecharse exclusivamente de los beneficios o evitarse pérdidas que los socios deberían de recibir o reportar en común con arreglo al acto constitutivo de la sociedad.
 
 ART. 2050.- Se dice extemporánea la renuncia, si al hacerla, los bienes no se hallan en su estado íntegro, de tal suerte que la sociedad pueda ser perjudicada con la disolución que originaría la renuncia.
 
@@ -9840,3 +9866,9 @@ P.O. 9 DE OCTUBRE DE 1999
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2001
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
