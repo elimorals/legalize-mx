@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "1994-11-09"
+last_updated: "1995-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 1995.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -505,6 +505,10 @@ VIII. Concluir las obras iniciadas por administraciones anteriores y dar manteni
 
 IX. Crear las unidades administrativas necesarias para el adecuado funcionamiento de la administración pública municipal y para la eficaz prestación de los servicios públicos;
 
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 1995)</small>
+
+IX Bis. Crear en el ámbito de sus respectivas competencias una Coordinación Municipal de Derechos Humanos, la cual será autónoma en sus decisiones;
+
 X. Conocer los informes contables y financieros anuales dentro de los tres meses siguientes a la terminación del ejercicio presupuestal que presentará el tesorero con el visto bueno del sindico;
 
 XI. Designar de entre sus miembros a los integrantes de las comisiones del ayuntamiento; y de entre los habitantes del municipio, a los jefes de sector y de manzana;
@@ -742,6 +746,10 @@ IV. Asumir la representación jurídica del municipio en los casos previstos por
 V. Convocar a sesiones ordinarias y extraordinarias a los integrantes del ayuntamiento;
 
 VI. Proponer al ayuntamiento los nombramientos de secretario, tesorero y titulares de las dependencias y organismos auxiliares de la administración pública municipal;
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
+
+VI Bis. Proponer al ayuntamiento el nombramiento del Coordinador Municipal de Derechos Humanos, considerando preferentemente para ello, a los integrantes de la Comisión de Planeación para el Desarrollo Municipal y a los integrantes de los Consejos de Participación Ciudadana;
 
 VII. Presidir las comisiones que le asigne la ley o el ayuntamiento;
 
@@ -1485,7 +1493,59 @@ Los órganos de control y evaluación gubernamental de los ayuntamientos, serán
 
 Público Municipal
 
-### CAPITULO PRIMERO. De las Oficialías Conciliadoras y Calificadoras Municipales
+### CAPITULO DECIMO. Nombramiento, Atribuciones y Obligaciones del
+
+Coordinador Municipal de Derechos Humanos
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
+
+Artículo 147 A.- En cada municipio, el ayuntamiento respectivo designará, por el voto de las dos terceras partes de sus integrantes, a propuesta del Presidente Municipal, un Coordinador Municipal de Derechos Humanos, quien se apoyará en el personal necesario para atender la Coordinación Municipal de Derechos Humanos.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
+
+Artículo 147 B.- El Coordinador Municipal deberá reunir los siguientes requisitos:
+
+I. Ser originario del municipio de que se trate o vecino de él, con residencia efectiva en su territorio no menor de tres años;
+
+II. Ser ciudadano mexicano en pleno ejercicio de sus derechos y de reconocida honorabilidad en su municipio; y
+
+III. No desempeñar ningún empleo o cargo público al momento de asumir sus funciones en la coordinación.
+
+Durante el tiempo de su encargo, el Coordinador no podrá desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
+
+Artículo 147 C.- Son atribuciones del Coordinador Municipal de Derechos Humanos:
+
+I. Recibir las quejas de la población y remitirlas a la Comisión de Derechos Humanos del Estado de México, por conducto de sus visitadurías, conforme al Reglamento Interno de ese organismo;
+
+II. Informar a la Comisión de Derechos Humanos del Estado, acerca de presumibles violaciones a los derechos humanos por actos u omisiones de naturaleza administrativa de cualquier autoridad o servidor público que residan en el municipio de su adscripción;
+
+III. Conciliar, con la anuencia de la Comisión, las quejas que por su naturaleza estrictamente administrativa lo permitan;
+
+IV. Llevar el seguimiento de las recomendaciones que el organismo estatal dirija a las autoridades o servidores públicos del ayuntamiento;
+
+V. Vigilar que se elaboren y rindan oportunamente los informes que la Comisión de Derechos Humanos del Estado de México solicite a la autoridad municipal, los cuales deberán contener la firma del servidor público respectivo;
+
+VI. Promover el respeto a los derechos humanos por parte de los servidores públicos del ayuntamiento, por medio de cursos de capacitación y actualización;
+
+VII. Fortalecer la práctica de los derechos humanos con la participación de los organismos no gubernamentales del municipio;
+
+VIII. Asesorar a las personas, en especial a los menores, personas de la tercera edad, indígenas, discapacitados y detenidos o arrestados por autoridades municipales, por la comisión de faltas administrativas, a fin de que les sean respetados sus derechos humanos;
+
+IX. Impulsar la protección de los derechos humanos, promoviendo, según las circunstancias del municipio, las disposiciones legales aplicables;
+
+X. Proponer acuerdos y circulares que orienten a los servidores públicos del ayuntamiento para que, durante el desempeño de sus funciones, actúen con pleno respeto a los derechos humanos; y
+
+XI. Organizar actividades para la población a efecto de promover el fortalecimiento de la cultura de los derechos humanos.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
+
+Artículo 147 D.- El Coordinador Municipal de Derechos Humanos, en todo caso, deberá coordinar acciones con la Comisión de Derechos Humanos del Estado de México, específicamente con el Visitador General de la región a la que corresponda el municipio.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 1995)</small>
+
+Artículo 147 E.- El Coordinador Municipal de Derechos Humanos, rendirá un informe semestral de actividades al ayuntamiento reunido en sesión solemne de cabildo, debiendo remitir copia del mismo al Presidente de la Comisión de Derechos Humanos del Estado de México.
 
 ###### Artículo 125.
 
@@ -1625,7 +1685,7 @@ El ayuntamiento emitirá la declaratoria de municipalización, una vez oído a l
 
 Una vez decretada la municipalización del servicio, si el ayuntamiento carece de recursos para prestarlo, podrá concesionarlo en términos de esta Ley.
 
-### CAPITULO SEGUNDO. De los Recursos Administrativos
+### CAPITULO PRIMERO. De las Oficialías Conciliadoras y Calificadoras Municipales
 
 ###### Artículo 142.
 
@@ -1641,7 +1701,7 @@ En el municipio donde residan permanentemente los Poderes del Estado, el mando d
 
 Los cuerpos de seguridad pública, bomberos y tránsito municipales se coordinarán en lo relativo a su organización, función y aspectos técnicos con la Dirección General de Seguridad Pública y Tránsito del Estado.
 
-### CAPITULO PRIMERO. Del Bando y los Reglamentos
+### CAPITULO SEGUNDO. De los Recursos Administrativos
 
 ###### Artículo 145.
 
@@ -1691,11 +1751,15 @@ VI. Promover la capacitación y especialización permanente del personal que lab
 
 VII. Las que el ayuntamiento le asigne.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 1995)</small>
+
+### CAPITULO PRIMERO. Del Bando y los Reglamentos
+
 ### CAPITULO SEGUNDO. De las Sanciones
 
-### CAPITULO UNICO. De las Responsabilidades de los Servidores Públicos Municipales
-
 ## TITULO V. De la Función Conciliadora y Calificadora de los Ayuntamientos
+
+### CAPITULO UNICO. De las Responsabilidades de los Servidores Públicos Municipales
 
 ###### Artículo 148.
 
@@ -1910,3 +1974,13 @@ G.G. 9 DE NOVIEMBRE DE 1994.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta del Gobierno.
 
 SEGUNDO.- Este Decreto entrará en vigor el día treinta de noviembre de mil novecientos noventa y cuatro.
+
+G.G. 6 DE ENERO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la Gaceta del Gobierno.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor el día de su publicación en la Gaceta del Gobierno.
