@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "1998-06-24"
+last_updated: "1998-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -105,11 +105,11 @@ Los demás que la Legislatura local determine según las condiciones territorial
 
 Las autoridades municipales tienen competencia plena sobre su territorio, población, así como su organización política y administrativa, dentro de los marcos legales.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 10.
 
-Los Municipios Libres en que se divide el Estado de Campeche son: Calakmul, Calkiní, Campeche, Carmen, Champotón, Escárcega, Hecelchakán, Hopelchén, Palizada y Tenabo.
+Los Municipios Libres en que se divide el Estado de Campeche son: Calakmul, Calkiní, Campeche, Candelaria, Carmen, Champotón, Escárcega, Hecelchakán, Hopelchén, Palizada y Tenabo.
 
 ###### ARTICULO 11.
 
@@ -227,7 +227,9 @@ A la Sección Municipal de Pich, corresponden:
 
 a) El pueblo de Pich, Cabecera de la Sección.
 
-b) Los pueblos de Bolonchencahuich y San Juan Cantemó.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1998)</small>
+
+b) Los pueblos de Bolonchéncahuich y San Juan Cantemó, Quetzal Edzná y Los Laureles.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 1994)</small>
 
@@ -345,6 +347,20 @@ b) Los Ejidos de Sabancuy, Oxcabal, Ignacio M. Altamirano, Chekubul, Chicbul, Pl
 
 c) Los Ranchos de San Felipe González, Molón, Sabancuy, El Sitio, Chan Rosado, Yabaxique, Tiche, Pocito, Calax, Punta de Piedra, San Pedro, Quita Calzones, Hermanos Maldonado, La Pita, Flamboyán, El Sequel, Tres Hermanos, Chamizal, Alfredo Góngora, Cuyoc, Polkay, El Gallo, Hoaxin, Yacaxal, El Pavito, José Gallo, Don Mauro, El Esfuerzo, Mecina, Hermanos May, Buenavista, Martirio, Las Piedras, Ensenada, Honda, Zacazonapan, California, Desiderio Campos, Conchecuenché, El Toro, Supultepec, San Enrique, Bolostoc, Cuyo de la Mula, Santa Lilia, Pirí, Cobal, San Gabriel, La Esperanza, Mina de Oro, Santa Isabel, Sal Sol, Augusto Gómez Villanueva, Tres Marías, Los Pasos, Geny, San Luis, Chevojá, Infierno, Catalina, San Fernando, Santa Josefa, Santa Anita, Cien Fuegos, y Camaguey, y los demás que se encuentren dentro de los lindes de este Municipio, aunque no estén mencionados en esta relación.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 1998)</small>
+
+ARTICULO 15 BIS.- El Municipio de Candelaria comprende:
+
+I.- La Ciudad de Candelaria, cabecera del Municipio y sede del H. Ayuntamiento;
+
+II.- Los pueblos de Benito Juárez, Miguel Hidalgo y Costilla, y El Naranjo;
+
+III.- Las Congregaciones de: Adolfo López Mateos, Aguas Malas (Tres Cruces), Arroyo San Juan (Las Golondrinas), Candelaria II, El Cayuco, Coahuilita, El Cocay, Corpus Cristi, La Curva, El Cuyo y La Plata, Champas Quemadas, El Chinal, Chuncopo, Delicias I, El Destino, Emiliano Zapata, El Encanto, La Envidia, Esmeralda (Samudio), La Esperancita, La Esperanza, Flor de Chiapas, La Florida 3, La Franelita, Las Gaviotas, Ignacio Zaragoza (El Salvaje), Ignacio Zaragoza (El Pulguero), Laguna La Perdida, La Lucha, Miguel de la Madrid (El Pañuelo), La Misteriosa, Nuevas Delicias II, Pajaral, Las Palmitas, Las Palomas, El Paso del Cuervo (El Cuervo), La Pelusa, Pimental (El Pocito), El Ramonal II (Los Manguitos), Ranchería Pimental II, El Relámpago, El Sacrificio I, Sal Si Puedes, San José, San José (El Tulipancito), San José de Las Montañas, San Juan, San Miguel, San Pedro, Santa Cruz 2, Santa Rosa, Santa Rosa (sic), Santo Domingo (El Cuyo), Selva Negra, El Tablón, El Taxistal, El Tigre, El Tigre (sic), El Tintal, El Triunfo (Los Tochos), La Unión, Vicente Guerrero No. 2, Alianza Productora, Arroyo De Cuba, El Mirador, Paraguas, Carlos Sansores Pérez (La Paz), Solidaridad, La Tómbola, Tres Reyes, y La Unión (Dos Arroyos):
+
+a) Los ejidos de: El Zapote Boval, El Luinal, El Pedregal, Pablo Torres Burgos, Nueva Rosita, El Chilar, El Tigre, Las Delicias, Peje Lagarto, Miguel Alemán, Primer Presidente de México, (Guadalupe Victoria), Vicente Guerrero, Tenancingo, Justo Sierra Méndez, Nuevo Coahuila, Lázaro Cárdenas, Las Golondrinas, Pedro Baranda, El Mamey, Estado de México, Monclova, Pablo García, Paraíso Nuevo, Corte Pajaral, Venustiano Carranza, Santa Lucía, La Olla, La Esmeralda, Cuauhtémoc, El Machetazo, Héctor Pérez Morales, El Cuervo, El Desengaño, Esperanza, Estrella del Sur, La Florida (El Cuatro), La Fortuna, Francisco I. Madero, General Francisco J. Mújica, Nueva Esperanza, Narciso Mendoza, Nuevo Canutillo (San Manuel), El Pocito, El Porvenir, El Ramonal, San Rafael del Río Caribe, Santo Domingo, El Tulipán (El Imposible), La Zanja (La Palma), Vicente Lombardo Toledano y la Nueva Lucha.
+
+Y los ranchos El Astillero, El Burrito, Champas Quemadas, El Guacamayo, Los Mairen, Nuevo Comacalco, Nuevo Rancho II, Rancho Alegre, El Recreo, San Felipe, San Joaquín, San Martín (El Abalanzadero), San Nicolás, Santo Domingo, El Sinaí, La Tolva, Las Toyas, 2 Hermanos, 3 de Mayo, 4 Hermanos, Los 4 Hermanos, Acapulco, Achotal, Agrora, Agua Azul, El Aguacate, El Aguacate (sic), El alazán, Altamira, Alvarín, Amapola, Los Amigos, anexo Dos Hermanos, Anexo El Charro, Anexo El Huasteco, Anexo El Tigre, Anexo La Lucha, Anexo Las Ruinas, Los Angeles (Rancho Nuevo), El Arpón I, El Arpón II, Arroyo Seco, El Bosquecito, La Botella, El Botellón, La Botica, Buenavista, Las Bugambilias, Las Calaveras, California, Campamento Escalante, Las Campanas, Las Campanas (sic), El Campesino, Campo Escondido, Cantemó, Caña Fístola, El Capricho, El Capricho (sic), El Capulín, El Capulín, El Capulín (sic), El Caracol, Los Cardenales, El Cariño, La Carmelita, El Carmen, El Carmen, El Carmen, El Carmen (sic), La Ceiba, Las Ceibas, El Ceibo, Cenote, El Cenote Azul, El Cenote, Cerro del Aguila, Cerro Pelón, La Cobra, Los Cocos, La Concepción, La Conquista, El Copo, El Corozal, Las Cruces, Las Cruces (sic), Los Cuatro Hermanos, El Cuervo II, La Cumbre, El Cura, La Curva, El Charro, El Chechén, El Chechén (sic), La Chiapaneca, El Chilar, Las Delicias de los Tres Hermanos, Las Delicias, Las Delicias (sic), El Delirio, El Desengaño, El Desengaño, El Desengaño (sic), El Destino, El Diamante, El Diamante, El Diamante, El Diamante (sic), Don Manuel, Dos Hermanos, Dos Hermanos (sic), Dos Puertas, El Eco, Edzá-Ep, El Encanto, Entronque, Estado de México, La Envidia, La Envidia (sic), Escondido, El Escondido, El Esfuerzo, El Esfuerzo (sic), Esmeralda, El Espejo, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza (sic), La Estrella, El Faisán, El Faisán (sic), El Farol, La Florecita, Las Flores, El Framboyán, La Franela, Los Gavilanes, El Girasol, El Girasol (sic), La Gloria, La Gloria (sic), La Granada, La Granada (sic), Grano de Oro, La Guadalupe, La Guadalupe (sic), Hermanos Cámara, Hermanos Carmolín, Hermanos Morales, El Herradero, La Herradura, La Herradura, La Herradura, La Herradura (sic), La Higuera, El Huasteco I, El Huayacán, Huiro Solo, La Ilusión II, La Ilusión, La Ilusión (sic), El Infierno, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado (sic), El Jazmín, Jilguero II, Los Lagartos, Las Lágrimas, Los Laureles, Los Laureles, Los Laureles, Los Laureles (sic), Los Laureles (Palmas), La Libertad, El Limón, El Limón, El Limón, El Limón, El Limón, El Limón (sic), Loma Linda, Lomas de Sotelo, La Lomita, La Lucha, La Lucha (sic), La Lupita, La Llave, El Machiche, Madrigal, Las Malvinas, Las Malvinas (sic), Los Manantiales, Los Manguitos, Las Margaritas, Las Maravillas, Las Maravillas (sic), El Marfil (Palo Alto), María Luisa, Las Mariposas, El Martillo, La Martinica, La Mascada, Las Melinas, La Misteca, La Mojina, La Montaña, Montebello, El Moral, Mucal, El Naranjo, El Naranjo (sic), Nueva Esperanza, Nueva Esperanza (sic), La Nueva Esperanza, La Nueva Historia, Nuevo California, Nuevo Capricho, El Nuevo Ferrocarril, Nuevo Marente, Nuevo Mundo, Nuevo Progreso, Nuevo Progreso (sic), El Oasis (Los Pocitos), Las Pailas, La Palma, El Palmar, El Palmar, El Palmar (sic), El Palmar (San Pedro), Palmas, Las Palmas, Las Palomas, Las Palomas (sic), La Pampa, Paraíso Escondido, El Paraíso, Paso Real, Los Patitos, El Pedregal, El Pedregal, El Pedregal (sic), La Perdiz, El Perico, La Perla, El Pitayo, El Pocito, El Pocito (sic), El Porvenir II, El Porvenir III, El Porvenir, El Potrerillo, La Preciosa, Primavera, La Primavera, El Progreso, La Providencia, La Providencia, La Providencia, La Providencia (sic), El Pulguero, Rancho Alegre, Rancho Bonito, Rancho Chico, Rancho Grande, Rancho Nuevo, Rayo Solar, El Recuerdo, Reforma, La Reforma, El Refugio, El Renolino, La Renuncia, Los Reyes, Los Robles, El Rodeo, La Rosita, El Rubí, El Rubí (sic), Las Ruinas, Las Ruinas (sic), El Sacrificio, El Sacrificio, El Sacrificio (sic), Sagrado Corazón, El Saguayo, Salto Ahogado, San Andrés, San Antonio, San Antonio, San Antonio, San Antonio, San Antonio, San Antonio, San Antonio (sic), San Antonio California II, San Bartolo, San Carlos, San Carlos (sic), San Diego, San Dimas, San Fernando, San Fernando (sic), San Florencio, San Francisco, San Francisco, San Francisco, San Francisco (sic), San Isidro, San Isidro, San Isidro (sic), San Joaquín, San Jorge, San Jorge (sic), San José, San José, San José, San José, San José (sic), San José (Ojo de Agua), San José (Sal Si Puedes), San Juan, San Juan (sic), San Juanito, San Juanito (sic), San Lorenzo, San Luis, San Manuel, San Marcos, San Marcos (sic), San Mariano, San Miguel, San Miguel, San Miguel, San Miguel (sic), San Ramón, San Ramón (sic), San Roberto, San Rodrigo, San Román, San Román, San Román (sic), San Salvador, Sanacuas, Santa Ana, Santa Bárbara, Santa Cecilia, Santa Cruz, Santa Cruz (sic), Santa Elena, Santa Eugenia, Santa Fe, Santa Gertrudis, Santa Isabel I (Las Pozas de Santa Isabel), Santa Lucía, Santa Lucía (sic), Santa Rosa, Santa Rosa, Santa Rosa, Santa Rosa (sic), Santa Teresa, Santo Domingo, El Sarzal, El Satélite, El Sauso, El Senderito, El Sicar, Solamente Dios, El Solitario, El Surtidor, El Suspiro, El Suspiro, El Suspiro (sic), Tamarindo, El Tamarindo, El Tesoro, Tierra Blanca, El Tigre, El Tigre, El Tigre (sic), Toñita, El Torito, El Toro, El Toro (sic), El Treinta (Las Aguilas), Los Tres Clavos, Tres Hermanos, Tres Hermanos (sic), Triple R, Tulipán, El Tumbo, La Unión, La Unión, La Unión (sic), El Veinte, El Veinte (sic), El Vergel, La Victoria, El Virgilio, Vista Hermosa II, La Voluntad de Dios, Zacatonal, San Dimas (Alianza II), Los Pollos, El Silencio, La Amapola, Placeres, 2 de Marzo, Aguacero, y El Aguilar; y los demás que se encuentren dentro de los lindes de este Municipio, aunque no estén mencionados en esta relación.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 16.
@@ -367,7 +383,9 @@ VI.- Las poblaciones ejidos, rancherías y heredades que constituyen la circunsc
 
 1.- A la ciudad de Champotón, Cabecera del Municipio, corresponden:
 
-a) El pueblo de: Pustunich.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1998)</small>
+
+a) Los pueblos de: Pustunich y Maya Tecún.
 
 b) Ejidos de: Paraíso, San Pablo Pixtún, Villa de Guadalupe, José María Morelos y Pavón, Ley Federal de Reforma Agraria, Dzacabuchén, Aquiles Serdán, (antes Chuiná), Xbacab, Revolución, Juan de la Barrera, Km. 67 (antes Venustiano Carranza), López Mateos (antes La Desconfianza), San Antonio Yacasay, Buenaventura, San Miguel, Ulumal, Moguel, San Juan Carpizo, Canasayab y López Portillo No. 2, El Cañaveral, General Ortiz Avila, Ignacio López Rayón, San Miguel, Punta de Valle de Quetzalcoatl, Lázaro Cárdenas, Carlos Salinas de Gortari, N.C.P.E. Villamar, La Prudencia, San Antonio del Río, Nuevo Michoacán, Nayarit Castellot, Moch Cohuó, N.C.P.E. Ignacio Allende, N.C.P.E. Melchor Ocampo, Kukulcán, General Ignacio Gutiérrez, Profr. Graciano Sánchez, Dzitbalché Castellot, Chilam Balam, Ah-kim-pech y Coronel Ortiz Avila.
 
@@ -379,7 +397,9 @@ e) Los ranchos de: Apazote, Continente, Champox, Desempeño, Gesté, Holatún, H
 
 2.- A la Sección Municipal de Hool, corresponden:
 
-a) El Pueblo de Hool, Cabecera de la Sección.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1998)</small>
+
+a) Los pueblos de: Hool, Cabecera de la Sección y Santo Domingo Kesté.
 
 b) El Ejido de Santa Cruz de Rovira.
 
@@ -2708,3 +2728,9 @@ Segundo.- Se derogan todas las disposiciones legales y reglamentarias en los que
 Tercero.- Quedan Alterados los límites municipales en la forma que se precisa en este decreto.
 
 Cuarto.- Entre tanto se precisan los límites de los distritos electorales y judiciales, se continuarán manteniendo, no obstante la alteración de los límites intermunicipales, los que hasta la fecha han venido sirviendo como tales.
+
+P.O. 19 DE OCTUBRE DE 1998.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
