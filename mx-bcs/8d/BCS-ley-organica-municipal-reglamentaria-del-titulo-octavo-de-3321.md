@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "2004-08-10"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -299,7 +299,11 @@ VIII. Solicitar la expropiación de bienes para causas de utilidad pública.
 
 IX. Nombrar Secretario, Tesorero y Jefes de Departamento a propuestas del Presidente Municipal y removerlos por justa causa.
 
-X. Formular anualmente la iniciativa de la Ley de Ingresos, remitiéndola al Congreso por conducto del Ejecutivo, para su aprobación a más tardar en la segunda quincena del mes de noviembre.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+X. Formular anualmente la iniciativa de la Ley de Ingresos, remitiéndola al Congreso del Estado, para su aprobación, a más tardar, en la segunda quincena del mes de noviembre.
+
+Dichas Leyes de Ingresos deberán incluir, en los diferentes conceptos de ingresos a recaudar, los montos probables o aproximados de cada uno de ellos que permita la operación de los servicios públicos.
 
 > <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
 
@@ -1604,3 +1608,9 @@ B.O. 10 DE FEBRERO DE 2004.
 B.O. 10 DE AGOSTO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2004.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín oficial del Gobierno del Estado de Baja California Sur.
