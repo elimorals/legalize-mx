@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1997-12-12"
+last_updated: "1998-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE JUNIO DE 1998.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -323,9 +323,9 @@ a).- Se constituirá una sola circunscripción plurinominal que comprenderá tod
 
 b).- Los Partidos Políticos tendrán derecho a postular Candidatos por el Principio de Representación Proporcional, siempre y cuando hayan registrado Candidatos por lo menos en ocho Distritos Electorales Uninominales.
 
-> <small>(REFORMADO, B.O. 14 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, B.O. 18 DE JUNIO DE 1998)</small>
 
-c).- Para que un partido político tenga derecho a que le sean acreditados de entre sus candidatos, diputados de representación proporcional, deberá alcanzar por lo menos el uno punto cinco por ciento del total de las votaciones emitidas en el Estado para todas las listas y siempre que no haya logrado más de cinco diputaciones de mayoría relativa, en los términos que establezca la ley.
+c).- Para que un partido político tenga derecho a que le sean acreditados de entre sus candidatos, diputados de representación proporcional, deberá alcanzar, por lo menos, el dos por ciento del total de las votaciones emitidas en el Estado para todas las listas y siempre que no haya logrado más de cinco diputaciones de mayoría relativa, en los términos que establezca la Ley.
 
 > <small>(REFORMADA, B.O. 14 DE JULIO DE 1995)</small>
 
@@ -347,9 +347,11 @@ La ley determinará las fórmulas electorales y el procedimiento que se observar
 
 43.- Las elecciones de diputados por el principio de mayoría relativa serán computadas y declaradas válidas por los órganos electorales en cuyo territorio se haya llevado a cabo el proceso electoral correspondiente, el que otorgará las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos, en los términos de la ley de la materia.
 
-El cómputo de las elecciones de diputados de representación proporcional, así como la asignación de éstos, será efectuada por la Comisión Estatal Electoral.
+> <small>(REFORMADO, B.O. 18 DE JUNIO DE 1998)</small>
 
-Por lo que hace a la elección de Gobernador del Estado, el Congreso del Estado que se instale en el año de dicha elección habrá de constituirse en Colegio Electoral en los términos de la Ley Electoral del Estado, para su calificación y en su momento la Comisión respectiva emitirá el dictamen que corresponda. La resolución será definitiva e inapelable.
+El cómputo de las elecciones de Diputados por el principio de representación proporcional, así como la asignación de éstos, será efectuada por el Instituto Estatal Electoral.
+
+> <small>(DEROGADO TERCER PARRAFO, B.O. 18 DE JUNIO DE 1998)</small>
 
 44.- Para ser diputado al Congreso del Estado se requiere:
 
@@ -475,9 +477,9 @@ III.- Iniciar leyes y decretos ante el Congreso de la Unión;
 
 IV.- Formular su Ley Reglamentaria, así como la de la Contaduría Mayor de Hacienda;
 
-> <small>(REFORMADA, B.O. 14 DE JULIO DE 1995)</small>
+> <small>(REFORMADA, B.O. 18 DE JUNIO DE 1998)</small>
 
-V.- Erigirse en Colegio Electoral para ejercer las atribuciones que la ley le señale respecto a la elección de Gobernador del Estado;
+V.- Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador del Estado electo, que hubiere emitido el Instituto Estatal Electoral;
 
 VI.- (DEROGADA, B.O. 14 DE JULIO DE 1995)
 
@@ -607,9 +609,9 @@ XLVI.- Expedir las leyes que sean necesarias para hacer efectivas las facultades
 
 I.- Acordar por sí o a propuesta del Gobernador, la Convocatoria a Período Extraordinario de Sesiones.
 
-> <small>(REFORMADA, B.O. 14 DE JULIO DE 1995)</small>
+> <small>(REFORMADA, B.O. 18 DE JUNIO DE 1998)</small>
 
-II.- Recibir en su caso, el expediente relativo a la elección de Gobernador del Estado, convocando al Congreso del Estado para los efectos conducentes;
+II.- Expedir, en su caso, el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador del Estado electo, que hubiere emitido el Instituto Estatal Electoral;
 
 III.- Instalar y presidir la primera Junta Preparatoria del nuevo Congreso del Estado;
 
@@ -935,7 +937,9 @@ I.- Ser ciudadano sudcaliforniano, en pleno ejercicio de sus derechos políticos
 
 II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección, pero si al concluir el ejercicio sexenal excediere esta edad, podrán ser nombrados para el próximo periodo hasta alcanzar los setenta años en que serán sustituidos.
 
-III.- Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de abogado, expedido por la autoridad o corporación legalmente facultada para ello.
+> <small>(REFORMADA, B.O. 18 DE JUNIO DE 1998)</small>
+
+III.- Poseer al día de su elección, con una antigüedad mínima de diez años, Título y Cédula Profesional de Licenciado en Derecho, expedidos por la autoridad o institución legalmente facultada para ello;
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
 
@@ -1017,7 +1021,9 @@ I.- Ser ciudadano sudcaliforniano en pleno ejercicio de sus derechos políticos 
 
 II.- No tener más de 65 años de edad, ni menos de 35 en la fecha de su elección;
 
-III.- Poseer al día de su elección, con una antigüedad mínima de cinco años, título profesional de Licenciado en Derecho, expedido por la autoridad o corporación legalmente facultada para ello;
+> <small>(REFORMADA, B.O. 18 DE JUNIO DE 1998)</small>
+
+III.- Poseer al día de su elección, con una antigüedad mínima de diez años, Título y Cédula Profesional de Licenciado en Derecho, expedidos por la autoridad o institución legalmente facultada para ello;
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión en sentencia ejecutoria; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
@@ -1247,23 +1253,27 @@ CONCEPTO E INTEGRACION
 
 135.- Los Ayuntamientos se integrarán de la siguiente manera:
 
-El Ayuntamiento de La Paz, se integrará con un Presidente, un Síndico y catorce Regidores electos por sufragio universal directo, libre y secreto mediante el sistema de mayoría relativa y hasta con cinco Regidores por el principio de representación proporcional.
+> <small>(REFORMADO, B.O. 18 DE JUNIO DE 1998)</small>
 
-> <small>(REFORMADO, B.O. 26 DE AGOSTO DE 1992)</small>
+El Ayuntamiento de La Paz, se integrará con un Presidente, un Síndico y doce Regidores electos por Sufragio Universal, directo, libre y secreto mediante el sistema de Mayoría Relativa y con siete Regidores por el Principio de Representación Proporcional.
 
-El Ayuntamiento de Comondú, se integrará con un Presidente, un Síndico y diez Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con cuatro Regidores electos por el principio de representación proporcional.
+> <small>(REFORMADO, B.O. 18 DE JUNIO DE 1998)</small>
 
-> <small>(REFORMADO, B.O. 26 DE AGOSTO DE 1992)</small>
+Los Ayuntamientos de Comondú y Los Cabos se integrarán con un Presidente, un Síndico y ocho Regidores electos por Sufragio Universal, directo, libre y secreto mediante el sistema de Mayoría Relativa y con seis Regidores por el Principio de Representación Proporcional.
 
-El Ayuntamiento de Mulegé y Los Cabos, se integrarán con un Presidente, un Síndico y diez Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con tres Regidores electos por el principio de representación proporcional.
+> <small>(REFORMADO, B.O. 18 DE JUNIO DE 1998)</small>
 
-> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 1992)</small>
+El Ayuntamiento de Mulegé se integrará con un Presidente, un Síndico y ocho Regidores electos por Sufragio Universal, directo, libre y secreto mediante el sistema de Mayoría Relativa y con cinco Regidores por el Principio de Representación Proporcional.
 
-El Ayuntamiento de Loreto, se integrará con un Presidente, un Síndico y cinco Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con un Regidor electo por el principio de representación proporcional.
+> <small>(REFORMADO, B.O. 18 DE JUNIO DE 1998)</small>
+
+El Ayuntamiento de Loreto se integrará con un Presidente, un Síndico y cuatro Regidores electos por Sufragio Universal, directo, libre y secreto mediante el sistema de Mayoría Relativa y con dos Regidores por el Principio de Representación Proporcional.
 
 Por cada miembro de los Ayuntamientos, habrá un suplente.
 
-La Ley Reglamentaria determinará los procedimientos que se observarán para las asignaciones que correspondan.
+> <small>(REFORMADO, B.O. 18 DE JUNIO DE 1998)</small>
+
+La ley de la materia determinará la fórmula y el procedimiento de asignación de las Regidurías por el Principio de Representación Proporcional.
 
 Los miembros de los Ayuntamientos durarán en su cargo tres años a partir de la fecha en que tomen posesión del mismo.
 
@@ -1487,9 +1497,9 @@ Las leyes determinarán las causas y circunstancias por las que se deba sanciona
 
 Cualquier ciudadano, mediante la presentación de elementos de prueba y bajo su más estricta responsabilidad, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a las que se refiere el presente Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE JUNIO DE 1998)</small>
 
-158.- Podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de fuero común, los Secretarios y Subsecretarios del Despacho, el Procurador y Subprocurador General de Justicia, el Contralor, el Revisor Fiscal, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, Presidentes de Juntas y Tribunal de Conciliación y Arbitraje, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
+158.- Podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador y Subprocuradores de la Procuraduría General de Justicia, el Contralor, el Revisor Fiscal, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, Presidentes de Juntas y Tribunal de Conciliación y Arbitraje, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -2064,3 +2074,7 @@ SEGUNDO: A más tardar el día 15 de Junio de 1998, se deberán realizar las ade
 B.O. 12 DE DICIEMBRE DE 1997.
 
 ÚNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 18 DE JUNIO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
