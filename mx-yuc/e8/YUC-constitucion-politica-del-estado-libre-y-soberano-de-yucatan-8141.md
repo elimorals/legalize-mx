@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1982-01-29"
+last_updated: "1984-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE ENERO 1982.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE FEBRERO 1984.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -199,7 +199,7 @@ La Soberanía reside esencial y originariamente en el Pueblo; y la del Estado de
 
 ### CAPITULO UNICO. De la división de Poderes
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
 ###### Artículo 14.
 
@@ -223,9 +223,9 @@ Para su régimen político-administrativo, judicial, fiscal y electoral, el Terr
 
 ###### Artículo 16.
 
-El Poder Público del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial.
+El Poder Público del Estado de Yucatán se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial.
 
-No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo.
+No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un Congreso formado por menos diputados que los señalados en el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -257,7 +257,7 @@ Los Diputados son inviolables por las opiniones que manifiesten en el desempeño
 
 ### CAPITULO III. De las facultades del Congreso
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 2 DE FEBRERO 1984)</small>
 
 ###### Artículo 20.
 
@@ -265,45 +265,41 @@ El Congreso del Estado de Yucatán se compondrá de representantes electos cada 
 
 Las personas que hubiesen desempeñado las funciones de Diputado no podrán ser reelectos para el período inmediato siguiente. Los Diputados Suplentes podrán ser electos para el período inmediato siguiente con el carácter de Propietario, siempre que no hubieren estado en ejercicio; pero los Propietarios no podrán ser electos para dicho período ni con el carácter de Suplentes.
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
 ###### Artículo 21.
 
-El Congreso del Estado se integrará con trece Diputados electos según el principio de votación mayoritaria relativa, en igual número de Distritos Electorales y hasta con cinco Diputados que serán designados según el principio de representación proporcional.
+El Congreso del Estado se integrará con quince diputados electos en forma directa y mayoritaria en igual número de Distritos Electorales y hasta con cinco diputados de minoría que serán designados según el principio propio de este sistema.
 
-La demarcación territorial de los trece Distritos Electorales será la que resulte de dividir la población total del Estado entre los Distritos señalados.
+La demarcación territorial de los quince Distritos Electorales la llevará a cabo la Comisión Electoral del Estado.
 
-Para acreditar Diputados por el principio de representación proporcional se observarán las siguientes bases y lo que en lo particular disponga la Ley.
+Para la asignación de diputados de minoría, se observarán las siguientes bases generales y, lo que sobre el particular disponga la Ley de Organizaciones Políticas y Procesos Electorales del Estado de Yucatán:
 
-a) que los Partidos Políticos que los postulen obtengan cuando menos el uno y medio por ciento de la votación total del Estado;
+A) Que los partidos políticos hubiesen registrado candidatos, llenado los requisitos que disponga la Ley de la materia en, por lo menos ocho Distritos Electorales;
 
-b) que los mismos Partidos hayan postulado también candidatos en, por lo menos, seis Distritos Electorales;
+B) Los partidos políticos que obtengan cuando menos el 1.5% de la votación emitida en todo el Estado y no hayan obtenido alguna Diputación de mayoría.
 
-c) que los propios Partidos no hayan acreditado dos o más Diputados de mayoría relativa, pudiendo obtener hasta dos de representación proporcional, siempre que no hubieren obtenido alguno de mayoría relativa.
+Para asignar a los partidos políticos los Diputados de minoría se procederá conforme a lo que establezca la Ley de Organizaciones Políticas y Procesos eletorales (sic) del Estado de Yucatán.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+Por cada diputado propietario habrá un suplente. Todos los Diputados que integren el Congreso del Estado, como representantes del pueblo tienen la misma categoría e iguales derechos y obligaciones.
+
+> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
 ###### Artículo 22.
 
 Para ser Diputado, se requiere:
 
-I.- ser ciudadano mexicano por nacimiento y tener además las calidades de ciudadano yucateco en el ejercicio de sus derechos;
+I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco en el ejercicio de sus derechos;
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 1979)</small>
+II.- Tener veintiun años cumplidos el día de la elección;
 
-II.- tener veintún años cumplidos el día de la elección;
+III.- No ser Gobernador del Estado, Magistrado del Tribunal Superior de Justicia ni munícipe o integrante de alguno de los Ayuntamientos del Estado durante el año de calendario correspondiente a la elección, a menos que se separen de sus funciones noventa días antes de la elección;
 
-III.- No ser Ministro de ningún culto;
+IV.- No estar en servicio activo en el Ejército Nacional, ni tener el mando de la corporación policiaca o gendarmería que corresponda al Distrito en que pretenda su elección, cuando menos durante los noventa días anteriores a ella;
 
-IV.- no estar en servicio activo en el Ejército Federal, Guardia Nacional, ni tener mando en la Policía o Gendarmería, en el Distrito en que se haga la elección, cuando menos sesenta días antes de ella;
+V.- No haber sido procesado, con sentencia condenatoria ejecutoriada por delitos del orden común que estuvieren tipificados y sancionados en el Código de Defensa Social del Estado;
 
-V.- no ser Gobernador del Estado, ni Magistrado del Tribunal Superior de Justicia, a menos que se separen de sus funciones noventa días antes de la elección; y
-
-VI.- haber residido en el Estado los dos años inmediatamente anteriores a la elección. La vecindad no se pierde por desempeñar comisiones oficiales procedentes del Gobierno del Estado o de las Instituciones dependientes de éste. Tampoco se pierde por desempeñar los cargos de Diputado al Congreso de la Unión o de Senador.
-
-> <small>(ADICIONADA, D.O. 24 DE DICIEMBRE DE 1979)</small>
-
-VII.- no tener antecedentes penales.
+VI.- Haber residido en el Estado los dos años inmediatos anteriores al de la elección. La residencia o vecindad no se pierde ni se interrumpe por ausencias durante el desempeño de cargos públicos federales o estatales de elección popular, ni por la ejecución o cumplimiento, fuera de la entidad, de comisiones oficiales otorgadas por el Gobierno del Estado o por alguno de los organismos e instituciones de los que forme parte el propio Gobierno.
 
 > <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1979)</small>
 
@@ -353,13 +349,15 @@ Toda resolución del Congreso tendrá el carácter de Ley o Decreto. Las Leyes o
 
 ###### Artículo 30.
 
-Son atribuciones del Congreso:
+Son facultades y atribuciones del Congreso del Estado:
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 I.- formar nuevos municipios dentro de los límites de los existentes, siendo necesario al efecto:
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
-a) Que la fracción o fracciones que pidan erigirse en municipio cuenten con una población de dos mil vecinos por lo menos, mayores de edad, que reúnan las condiciones que disponga la Ley del Municipio Libre del Estado;
+a) Que la fracción o fracciones que pidan erigirse en municipio cuenten con una población de veinticinco mil vecinos por lo menos, mayores de edad que reúnan las condiciones que disponga la Ley Orgánica Municipal del Estado de Yucatán;
 
 b) que se compruebe ante el Congreso que tienen los elementos bastantes para proveer a su existencia autónoma;
 
@@ -369,37 +367,65 @@ d) que igualmente se oiga al Ejecutivo del Estado, el cual enviará su informe d
 
 e) que sea votada la erección del nuevo municipio por las tres cuartas partes de los Diputados que forman el Congreso.
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 II.- arreglar definitivamente los límites de los municipios, terminando las diferencias que entre ellos se susciten sobre demarcación de sus respectivos territorios;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 III.- revocar los acuerdos de los Ayuntamientos, a petición del Ejecutivo del Estado, cuando sean contrarios a la Constitución Federal o a la del Estado o a cualquiera otra Ley o lesionen los intereses municipales;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 IV.- decidir sobre la legalidad de las elecciones de los Ayuntamientos;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 V.- dar, interpretar y derogar Leyes y Decretos;
 
 > <small>(REFORMADA, D.O.23 DE DICIEMBRE DE 1974)</small>
 
-VI.- Examinar las cuentas de los caudales públicos durante el primero o segundo periodo de sesiones ordinarias o durante un periodo de sesiones extraordinarias a que se convoque; y aprobar la Ley de Ingresos y Presupuesto de Egresos que debe presentarle el Ejecutivo en los términos que establece la fracción XIV del artículo 55 de esta Constitución e imponer las contribuciones necesarias para cubrirlo.
+VI.- Examinar las cuentas de los caudales públicos durante el primero o segundo periodo de sesiones ordinarias o durante un periodo de sesiones extraordinarias a que se convoque; y aprobar la Ley de Ingresos y Presupuesto de Egresos que debe presentarle el Ejecutivo en los términos que establece la fracción XIV del artículo 55 de esta Constitución e imponer las contribuciones necesarias para cubrirlo,
 
-VII.- señalar las contribuciones que deban formar la Hacienda Municipal, procurando sean suficientes a cubrir las necesidades del Municipio;
+> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
+
+VII.- Señalar las contribuciones y otros ingresos que deban formar la Hacienda Municipal, procurando sean suficientes a cubrir las necesidades de los municipios; determinar anualmente las bases, montos y plazos con que sean cubiertas las participaciones federales a los municipios,
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 VIII.- dar bases conforme a las cuales el Ejecutivo pueda celebrar empréstitos a nombre del Estado, con las limitaciones puestas a las facultades de los Estados en el artículo 117 de la Constitución Federal; aprobar esos mismos empréstitos, reconocer y mandar pagar la deuda del Estado;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 IX.- crear o suprimir empleos públicos, y señalar, aumentar o disminuir sus dotaciones;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 X.- expedir los Reglamentos que correspondan para fijar y cubrir el contingente de hombres que corresponda dar al Estado para el ejército Nacional;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 XI.- autorizar la organización, disciplina e instrucción de la Guardia Nacional y de la Policía de los municipios;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 XII.- dar reglas de colonización conforme a las bases que establezca el Congreso General;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 XIII.- conceder amnistías por los delitos cuyo conocimiento pertenezca exclusivamente a los Tribunales del Estado;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 XIV.- conceder premios y recompensas por servicios eminentes prestados al Estado;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 XV.- expedir Leyes sobre Educación Pública, con sujeción a las bases siguientes:
 
-a) La educación que se imparta en el Estado será socialista, y además de excluir toda doctrina religiosa combatirá el fanatismo y los prejuicios, para lo cual la escuela organizará sus enseñanzas y actividades en forma que permita crear en la juventud un concepto racional y exacto del Universo y de la vida social;
+> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
+
+a) La educación que imparta el Estado será: Nacionalista, Democrática y tendiente a abolir la distinción social entre los individuos, sin hostilidades ni exclusivismos, procurando siempre el máximo aprovechamiento de nuestros recursos, en ejemplificante conducta de amor a la nación; la defensa de nuestra independencia política; el aseguramiento de nuestra independencia económica y, la continudad (sic) y acrecentamiento de nuestra cultura y, además de excluir toda doctrina religiosa combatirá el fanatismo y los perjuicios, para lo cual la escuela organizará sus enseñanzas y actividades en los términos establecidos por el artículo tercero de la Constitución General de la República.
 
 b) no podrán funcionar planteles particulares de educación sin haber obtenido previamente, en cada caso, la autorización expresa del Poder Público;
 
@@ -409,71 +435,131 @@ d) la educación secundaria que imparta el Estado será gratuita; y
 
 e) la educación preparatoria y la profesional, serán o no gratuitas, según lo determinen las Leyes;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 XVI.- prorrogar el periodo de sus sesiones ordinarias por el tiempo que requieran las necesidades del servicio público;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 XVII.- formar su Reglamento interior;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 XVIII.- nombrar y remover libremente al Contador Mayor, a los empleados de la Secretaría del Congreso y a los de la Contaduría Mayor;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 XIX.- autorizar en cada caso al Ejecutivo para vender bienes de la propiedad del Estado, en los términos y con las condiciones que fije el mismo Congreso;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 XX.- donar a las Instituciones de interés público o de beneficencia, cualquiera clase de bienes de la propiedad del Estado;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 XXI.- conceder licencias al Gobernador del Estado, cuando éste trate de separarse de sus funciones por un lapso mayor de sesenta días;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 XXII.- aceptar las renuncias de los Magistrados del Tribunal Superior de Justicia, en los términos del artículo 69 de esta Constitución;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 XXIII.- nombrar a los Magistrados del Tribunal Superior de Justicia y a los suplentes de éstos;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 XXIV.- hacer uso del derecho de iniciar Leyes que le concede la Constitución General, y aprobar o secundar, cuando lo crea conveniente, las de los Congresos de los otros Estados;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 XXV.- aprobar o no la formación o erección de nuevos Estados o Territorios;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 XXVI.- recibir la protesta de Ley al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia del mismo y al Contador Mayor;
 
-XXVII.- resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, para separarse temporalmente de sus respectivos encargos, así como de sus renuncias;
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
+XXVII.- resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, para separarse temporalmente de sus respectivos encargos, así como de sus renuncias,
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 XXVIII.- nombrar Gobernador interino en los casos de falta temporal o absoluta del Gobernador Constitucional del Estado;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 XXIX.- arreglar los límites del Estado, por convenios amistosos, los cuales no se llevarán a efecto sin la aprobación del Congreso de la Unión;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 XXX.- nombrar el día anterior al de la clausura de cada período de sesiones ordinarias, la Diputación permanente que ha de funcionar en el receso del Congreso;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 XXXI.- erigirse en Colegio Electoral para hacer el escrutinio y la declaración respecto de la elección de Gobernador del Estado y Senadores al Congreso de la Unión;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 XXXII.- determinar según las necesidades locales, el número máximo de Ministros de los cultos que puedan ejercer en el Estado;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 XXXIII.- erigirse en Jurado de Acusación para los altos funcionarios de que tratan los artículos 97 y 98;
 
 > <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
 
-XXXIV.- Solicitar al Ejecutivo la comparecencia de cualquier funcionario de la administración pública estatal, para que informe u oriente cuando se discuta una ley o se estudie un negocio, que se relacione con la función de éste.
+XXXIV.- Solicitar al Ejecutivo la comparecencia de cualquier funcionario de la administración pública estatal, para que informe u oriente cuando se discuta una ley o se estudie un negocio, que se relacione con la función de éste;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 XXXV.- expedir las bases generales de Policía y Buen Gobierno, a las que deberán sujetarse los Ayuntamientos en la formación de los Reglamentos respectivos;
 
-XXXVI.- autorizar la enajenación o gravamen de los bienes de los municipios;
+> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
+
+XXXVI.- Autorizar la enajenación o, el gravamen, de los bienes de los municipios; autorizar también, la celebración de convenios especiales entre el Estado libre y soberano de Yucatán y sus municipios, con objeto de que éstos presten a sus comunidades, con el concurso del Estado, los servicios públicos a que se refiere la fracción III del Artículo 115 de la Constitución General de la República y, asimismo, autorizar la celebración de contratos por los Ayuntamientos entre sí, para coordinarse y asociarse para los fines señalados en la propia fracción del numeral citado anteriormente;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 XXXVII.- pedir, si no lo hubiese hecho antes el Ejecutivo del Estado, en caso de trastorno o sublevación interior, la protección de los Poderes de la Unión;
 
-XXXVIII.- fijar las modalidades que a la propiedad privada deban imponerse para beneficio público, y ejercer los derechos que le confieren los artículos 27 y 28 de la Constitución Federal;
+> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
+
+XXXVIII.- Fijar las modalidades que a la propiedad privada deban imponerse para beneficio público; ejercer los derechos que le confieren los artículos 27 y 28 de la Constitución Federal;
 
 XXXIX.- (DEROGADA, D.O.5 DE MARZO DE 1965)
 
-XL.- nombrar, en caso de renuncia colectiva de un Ayuntamiento, tres personas que se hagan cargo provisionalmente del municipio, mientras se hacen nuevas elecciones y toman posesión de sus cargos los electos;
+> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
-XLI.- revocar el mandato conferido al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia, a los Diputados y a los Presidentes y Concejales de los Ayuntamientos. Esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos, excepto cuando se trate del Gobernador y de los Diputados, en cuyos casos será necesaria la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate del Gobernador, y de las dos terceras partes para el caso de los Diputados; y
+XL.- Suspender Ayuntamientos y/o declarar, según el caso, que éstos han desaparecido, por acuerdo de las dos terceras partes del número total de integrantes de la Legislatura respectiva procediendo como disponga, para estos casos, la Ley Orgánica Municipal;
 
-> <small>(REFORMADA, D.O. 26 DE JUNIO DE 1978)</small>
+> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
-XLII.- Hacer el cómputo de los votos emitidos en la elección de sus miembros, y resolver acerca de los Diputados de representación proporcional, en los términos del artículo 21, reformado, de esta Constitución; y (sic)
+XLI.- Revocar el mandato conferido al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia y a los diputados en lo particular, esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos, excepto cuando se trate del Gobernador y de los diputados, en cuyos casos será necesario la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate del Gobernador, y de las dos terceras partes para el caso de los Diputados;
 
-> <small>(REFORMADA, D.O. 18 DE JULIO DE 1978)</small>
+> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
-XLIII.- Convocar para elecciones extraordinarias en el Distrito de que se trate, a fin de cubrir la (sic) vacantes de sus miembros electos por votación mayoritaria relativa, en los términos que dispone esta Ley y la convocatoria, las vacantes de los miembros del Congreso, designados según el principio de representación proporcional, se cubrirán con los candidatos del mismo Partido que les sigan según el porcentaje de votos alcanzados.
+XLII.- Hacer el cómputo de los votos emitidos en la elección de sus propios miembros, y resolver acerca de los Diputados de minoría, en los términos del Artículo 21, reformado, de esta Constitución;
 
-> <small>(ADICIONADA, D.O.7 DE MARZO DE 1975)</small>
+> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
-XLIV.- Las demás que le confiere esta Constitución.
+XLIII.- Convocar a elecciones extraordinarias en el Distrito Electoral que fuere necesario con objeto de cubrir las vacantes de sus miembros propietarios y suplentes electos por vocación (sic) mayoritaria relativa, en los plazos y términos que disponga la Ley y la convocatoria respectiva. Las vacantes de los miembros de minoría del Congreso, propietarios y suplentes se cubrirán en cada caso, con los candidatos del mismo partido político que les siguieren conforme al porcentaje de votos alcanzados en la elección correspondiente;
+
+> <small>(ADICIONADA, D.O. 2 DE FEBRERO 1984)</small>
+
+XLIV.- Suspender o revocar, según el caso y, por acuerdo de las dos terceras partes de sus integrantes, el mandato conferido al Presidente Municipal y/o a otro u otros regidores o miembros de los Ayuntamientos en lo particular ajustándose a cualesquiera de las causas previstas en la Ley de la materia, procediendo de inmediato a la designación del o de los substitutos correspondientes; se establece como requisito previo e indispensable para el ejercicio de las atribuciones señaladas en esta fracción y en la Fraccin (sic) XL procedente, que él o los regidores afectados, ante la Comisión Permanente de Legislación, puntos constitucionales y Gobernación del propio Congreso, tengan oportunidad suficiente para rendir las pruebas y ofrecer los alegatos que a sus intereses convengan, cuando las circunstancias así lo permitan a juicio de la mencionada comisión permanente;
+
+> <small>(ADICIONADA, D.O. 2 DE FEBRERO 1984)</small>
+
+XLV.- Designar en los casos de suspensión o de declaración de desaparición de un Ayuntamiento en su totalidad, a tres personas que necesariamente deberán ser ciudadanos y vecinos de esta Entidad Federativa, para integrar un Consejo Municipal, éste, se hará cargo del desempeño de las funciones del Ayuntamiento en cuestión, en una cualesquiera de las siguientes formas:
+
+a).- Provisional, si su designación se lleva a cabo dentro del lapso de los primeros dieciocho meses de ejercicio legal del Ayuntamiento al que substituya, mientras se hacen nuevas elecciones y toman posesión de sus cargos los electos y,
+
+b).- Definitiva si su nombramiento se realiza con posterioridad al mencionado lapso. En ambos casos y mientas durante en su encargo, los concejos municipales estarán investidos de personalidad jurídica, para todos los efectos legales consiguientes y serán la autoridad que regirá en los Municipios que se designen, con el mismo caácter (sic) legal que los Ayuntamientos respectivos y,
+
+> <small>(ADICIONADA, D.O. 2 DE FEBRERO 1984)</small>
+
+XLVI.- Las demás que le confiera esta Constitución.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -503,7 +589,7 @@ El Contador Mayor de Hacienda enviará al Congreso con la periodicidad y oportun
 
 ### CAPITULO V. De la Diputación Permanente y sus atribuciones
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
 ###### Artículo 35.
 
@@ -515,13 +601,15 @@ II.- al Gobernador del Estado;
 
 III.- al Tribunal Superior de Justicia en los asuntos de su Ramo; y
 
-IV.- A los Ayuntamientos en las cuestiones municipales.
+> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+IV.- a los Ayuntamientos o Concejos Municipales que conforme a las Leyes en vigor hagan y realicen sus funciones, tratándose de cuestiones municipales.
+
+> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
 ###### Artículo 36.
 
-Las iniciativas presentadas por el Gobernador del Estado, por el Tribunal Superior de Justicia y por los Ayuntamientos, pasarán desde luego a comisión. Las que presentaren los Diputados se sujetarán a los trámites que designe el Reglamento del Congreso.
+Las iniciativas presentadas por las autoridades a que se refieren las fracciones II, III y IV del Artículo inmediato anterior, pasarán a la o las comisiones que correspondan, salvo que se otorgue la respectiva dispensa en los términos de Ley, las que presenten los diputados, se sujetarán necesariamente a los trámites que disponga el reglamento para el Gobierno Interior del Congreso.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -561,7 +649,7 @@ El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Cong
 
 ###### Artículo 42.
 
-Durante los recesos del Congreso, funcionará una Diputación Permanente compuesta de tres Diputados.
+Para funcionar durante los recesos, el Congreso designará a mayoría de votos una diputación permanente compuesta de tres diputados y por cada uno de éstos un suplente.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -739,9 +827,9 @@ XII.- cumplir con lo dispuesto en el artículo 28 de esta Constitución;
 
 XIII.- expedir la convocatoria para las elecciones públicas;
 
-> <small>(REFORMADA, D.O. 24 DE MARZO DE 1964)</small>
+> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
-XIV.- presentar en el segundo periodo de sesiones ordinarias del Congreso, o en su defecto en un periodo de sesiones extraordinarias a que se convoque antes de concluir el mes de diciembre, el Plan de Ingresos y Presupuesto de Egresos que han de regir en el año siguiente;
+XIV.- presentar ante el Congreso del Estado, a más tardar el día quince del mes de diciembre de cada año, las iniciativas relativas a la Ley de Ingresos del Estado, al Presupuesto de Egresos del Gobierno Estatal y a la Ley General de Hacienda del propio Estado, que hubieren de regir durante el año inmediato siguiente;
 
 > <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
 
@@ -805,11 +893,11 @@ Para ser titular de las dependencias del Poder Ejecutivo se requiere ser ciudada
 
 (DEROGADO, D.O. 29 DE ENERO 1982)
 
-> <small>(REFORMADO, D.O.27 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
 ###### Artículo 60.
 
-Todas las disposiciones del Gobernador del Estado deberán ir firmadas por éste y por el Titular de la Dependencia a la que conciernan o por quien supla a éste. Sin este requisito no serán válidas.
+Todas las Iniciativas de Leyes, de Decretos y de Reglamentos, así como los reglamentos y acuerdos que el Ejecutivo formule, promulgue o expida, para que puedan ser obligatorios, deberán estar firmados también por el Secretario General de Gobierno o por quienes hagan su vez conforme a la ley, las demás disposiciones del Gobernador del Estado, deberán ir también firmadas por el titular de la dependencia a la que el asunto corresponda, sin éste requisito no serán válidas.
 
 > <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
 
@@ -817,11 +905,11 @@ Todas las disposiciones del Gobernador del Estado deberán ir firmadas por éste
 
 Los titulares de las dependencias del Poder Ejecutivo, Directores, Jefes de Oficina y Organismos descentralizados, en su caso, serán responsables de las disposiciones que autoricen con infracción de la Constitución Federal, de la local y de las Leyes. Esta responsabilidad es sin perjuicio de la que resulte contra el Gobernador.
 
-> <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
+> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
 ###### Artículo 62.
 
-Las faltas del Secretario General de Gobierno serán suplidas por el Oficial Mayor y a falta de éste el Secretario de Gobernación y Asuntos Jurídicos, con las mismas responsabilidades del substituido.
+Las faltas del Secretario General de Gobierno, serán suplidas por el Oficial Mayor de Gobierno, con las mismas responsabilidades del substituido y, en igual forma, las faltas de éste serán suplidas por el Secretario de Gobernación y Asuntos Jurídicos.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -903,15 +991,11 @@ La Ley establecerá y organizará los Juzgados de Primera Instancia y los demás
 
 La persecución de los delitos incumbe al Ministerio Público, jefaturado por el Procurador General de Justicia, y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato del Ministerio Público. El Procurador General de Justicia, los Agentes del Ministerio Público y los Jefes y Agentes de la Policía Judicial, serán nombrados por el Gobernador del Estado.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
 ###### Artículo 73.
 
-La imposición de sanciones por delitos, es propia y exclusiva de la autoridad judicial.
-
-Compete a la autoridad municipal reprimir y sancionar en primera instancia, las infracciones a los Reglamentos gubernativos y de policía. Las sanciones consistirán únicamente en arresto hasta por treinta y seis horas, y multa que se impondrá teniendo en cuenta la gravedad de la infracción y las condiciones económicas del infractor; de no ser pagada la multa impuesta, se permutará por el arresto correspondiente, que en ningún caso excederá de quince días. Si el infractor fuere jornalero u obrero, no podrá ser sancionado con multa mayor del importe de su jornal o sueldo de una semana.
-
-De las sanciones que impongan las autoridades municipales, resolverá definitivamente el Gobernador del Estado.
+La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los Reglamentos Gubernativos y de Policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas. Pero si el infractor no pagare la multa que se les hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas. Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso. De las sanciones que impongan las autoridades municipales y que fueren recurridas, resolverá definitivamente el Gobernador del Estado.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -920,6 +1004,8 @@ De las sanciones que impongan las autoridades municipales, resolverá definitiva
 De los Municipios del Estado.
 
 > <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1978)</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 2 DE FEBRERO 1984)</small>
 
 ###### Artículo 74.
 
@@ -957,47 +1043,57 @@ VI.- vigilar y promover cuanto se relacione con la buena marcha de la Administra
 
 ###### Artículo 76.
 
-El Estado de Yucatán adopta para su régimen interior la forma de Gobierno republicano, democrático, representativo y popular y tendrá como base de su división territorial y de su organización política y administrativa los Municipios, regidos por Ayuntamientos, sin que haya entre éstos y el Gobierno del Estado ninguna autoridad intermedia; los Ayuntamientos se compondrán de Concejales, que serán electos en su totalidad por votación popular directa cada tres años, en la forma que la Ley prescribe. Por cada Concejal Propietario se elegirá un Suplente. Uno de los Concejales será electo con carácter de Presidente.
+El Estado de Yucatán adopta para su régimen interior la forma de Gobierno Republicano, democrático, representativo y popular y tendrán como base de su división territorial y de su organización política y administrativa los municipios, regidos por ayuntamientos, sin que haya entre éstos y el Gobierno del Estado ninguna autoridad intermedia; los Ayuntamientos se compondrán de concejales o regidores que serán electos en su totalidad por votación popular directa, cada tres años, en la forma que la Ley establece. Por cada regidor propietario se elegirá un suplente uno de los regidores será electo con el carácter de Presidente. En las elecciones municipales participarán las mujeres con igualdad de condiciones que los varones, con el derecho de votar y ser votadas.
 
-En las elecciones municipales participarán las mujeres con igualdad de condiciones que los varones, con el derecho de votar y ser votadas.
+> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
-Para ser Concejal se requiere:
+Para ser regidor se requiere:
 
 I.- Ser ciudadano mexicano;
 
 II.- Haber residido en el Municipio como vecino del mismo cinco años inmediatamente anteriores al día de la elección;
 
-III.- Tener dieciocho años cumplidos en la fecha de los comicios, con excepción del Concejal Presidente, que deberá tener veinticinco años;
+> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
+
+III.- Tener dieciocho años cumplidos el día de la elección, con excepción del regidor Presidente, que deberá tener veinticinco años;
 
 IV.- Estar en pleno goce de sus derechos civiles y políticos, y
 
 V.- Saber leer y escribir.
 
-En ausencia del electo, sólo podrá ejercer las funciones de Presidente el Concejal que haya cumplido veinticinco años de edad el día de la elección.
+> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
-Las personas que hubieren desempeñado las funciones de Concejal en los Ayuntamientos, no serán elegibles para integrar los mismos, en el periodo inmediato siguiente. Si podrán serlo con el carácter de propietarios, los Concejales suplentes que no hubieren estado en ejercicio, pero los propietarios no serán elegibles para el siguiente periodo ni con el carácter de suplentes.
+El cargo de regidor es incompatible con cualquier otro de la Federación o del Estado. Las falta (sic) de los regidores propietarios serán cubiertas por sus suplentes y, a falta de éstos, por los suplentes que al efecto designe el Presidente del Ayuntamiento y, las del Presidente y Secretario lo serán por designación a mayoría de votos del cuerpo edilicio.
 
-En el Municipio en cuya demarcación territorial se encuentre la capital del Estado y en aquellos cuya población sea de doscientos mil o más habitantes, se adopta el sistema mixto de mayoría relativa y de representación proporcional para la elección de sus Ayuntamientos, con apego a las normas siguientes y a lo que en lo particular disponga la Ley.
+> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
-a) Los Ayuntamientos se integrarán con un Concejal Presidente y doce Concejales Propietarios, electos por el principio de mayoría relativa y hasta tres Concejales Propietarios por el de representación proporcional;
+Los Presidentes Municipales y Regidores de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el periodo inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el periodo inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el periodo inmediato como propietarios, a menos que hayan estado en ejercicio. En ausencia del electo sólo podrán ejercer las funciones de Presidente, el concejal o regidor que haya cumplido veinticinco años de edad el día de la elección.
 
-b) Para acreditar Concejales Propietarios de representación proporcional y a sus suplentes, los partidos registrados deberán obtener un mínimo del uno y medio por ciento de la votación total en el Municipio.
+> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
-c) Los Partidos Políticos podrán acreditar hasta dos Concejales propietarios de representación proporcional, quienes serán los que encabecen la planilla;
+Se adopta el sistema de mayoría relativa y de representación proporcional para la elección de los Ayuntamientos, con apego a las normas siguientes y a lo que en particular disponga la Ley.
 
-d) Los Concejales de mayoría y los de representación proporcional tendrán los mismos derechos y obligaciones.
+A) Los Ayuntamientos se integrarán de la siguiente manera:
 
-> <small>(REFORMADO, D.O. 2 DE OCTUBRE DE 1946)</small>
+Por un Presidente Municipal y el número de Regidores que de acuerdo a la cifra total de habitantes del municipio correspondiente, disponga la Ley Electoral del Estado.
+
+Además de los componentes ya mencionados, los Ayuntamientos se integrarán con regidores de representación proporcional, que se asignarán en la forma y términos previstos por la Ley Electoral respectiva.
+
+B) Para acreditar regidores propietarios de representación proporcional y sus suplentes, los partidos registrados deberán obtener un mínimo del 15% de la votación total en el Municipio;
+
+C) Los partidos políticos podrán acreditar el número de regidores propietarios de representación proporcional, que determine la Ley de Organizaciones Políticas y Procesos Electorales del Estado de Yucatán;
+
+D) Los regidores de mayoría relativa y los de representación proporcional tendrán los mismos derechos y obligaciones.
 
 ###### Artículo 77.
 
-Si un ayuntamiento renunciare colectivamente, solo se convocará para elecciones municipales si faltaren dieciocho meses o más para terminar el periodo por el que hubiere sido electo el ayuntamiento que renuncia. Si faltaren menos de dieciocho meses, el Congreso procederá como dispone la fracción XL del artículo 30.
+(DEROGADO, D.O. 2 DE FEBRERO 1984)
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
 ###### Artículo 78.
 
-Los municipios pueden arreglar, entre sí, por convenios amistosos, sus respectivos límites; pero no se llevarán a efecto esos arreglos sin la aprobación del Congreso del Estado.
+Las cuestiones que surjan entre los municipios respecto de sus límites territoriales, la formación de nuevos municipios, la modificación de los ya existentes y la supresión de los que ya no reúnan los requisitos legales para su existencia, serán resueltas en los términos que establece el artículo 30 de esta Ley,
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1007,19 +1103,23 @@ Son atribuciones de los Ayuntamientos:
 
 I.- acordar sobre todos los asuntos que conciernan exclusivamente al municipio;
 
-II.- formar sus presupuestos de ingresos, sin otra limitación que la de hacerlos compatibles con el sistema tributario del Estado, elevándolos al Congreso para que éste los apruebe y decrete;
+(ADICIONADA, D.O. 2 DE FEBRERO 1984) (F. DE E., D-O. 2 DE MARZO DE 1984)
 
-III.- tomar dinero prestado para las necesidades públicas o para una obra de utilidad general, siempre que se obtenga en cada caso la previa aprobación del Congreso;
+II.- formular, aprobar, y administrar la zonificación y planes de Desarrollo Urbano Municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones y, participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad con lo que establece el párrafo tercero del artículo 27 Constitucional, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+
+III.- formar sus presupuestos de ingresos, sin otra limitación que la de hacerlos compatibles con el sistema tributario del Estado, elevándolos al Congreso para que éste los apruebe y decrete;
+
+IV.- tomar dinero prestado para las necesidades públicas o para una obra de utilidad general, siempre que se obtenga en cada caso la previa aprobación del Congreso;
 
 > <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 1961)</small>
 
-IV.- nombrar y remover a todos los empleados de su dependencia y cubrir los emolumentos de los jueces de Paz del Municipio;
+V.- nombrar y remover a todos los empleados de su dependencia y cubrir los emolumentos de los jueces de Paz del Municipio;
 
-V.- hacer uso del derecho de iniciar Leyes;
+VI.- hacer uso del derecho de iniciar Leyes;
 
-VI.- ejercer las funciones que les encomienda, en materia de cultos, el párrafo once del artículo 130 de la Constitución Federal; y
+VII.- ejercer las funciones que les encomienda, en materia de cultos, el párrafo once del artículo 130 de la Constitución Federal; y
 
-VII.- las demás que les confieren las Leyes.
+VIII.- las demás que les confieren las Leyes.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1572,3 +1672,7 @@ Este Decreto entrará en vigor el día primero de febrero del año en curso.
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O. 2 DE FEBRERO 1984.
+
+UNICO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
