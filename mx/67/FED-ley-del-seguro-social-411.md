@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1992-02-24"
+last_updated: "1992-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LSS"
 ---
 # LEY DEL SEGURO SOCIAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE MARZO DE 1992 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL SEGURO SOCIAL
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE FEBRERO DE 1992.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 12 DE MARZO DE 1992.</small>
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -2000,15 +2000,15 @@ El comité técnico del sistema de ahorro para el retiro determinará la comisi�
 
 La Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México, y mediante la expedición de disposiciones de carácter general, podrá autorizar formas y términos distintos a los establecidos para el entero y la comprobación de las cuotas del seguro de retiro.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE MARZO DE 1992 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 183-G.
 
 El trabajador podrá notificar a la Secretaría de Hacienda y Crédito Público, el incumplimiento de las obligaciones a cargo de los patrones establecidas en este Capítulo.
 
-Los trabajadores titulares de las cuentas del sistema de ahorro para el retiro y, en su caso sus beneficiarios, podrán, a su elección, presentar directamente o a través de sus representantes sindicales, sus reclamaciones contra las instituciones de crédito ante la Comisión Nacional Bancaria o hacer valer sus derechos en la forma que establecen las leyes. El procedimiento de conciliación a que se refiere este párrafo se sujetará a lo dispuesto en los artículos 95 y 96 de la Ley de Instituciones de Crédito.
+> <small>(F. DE E., D.O.F. 12 DE MARZO DE 1992)</small>
+
+Los trabajadores titulares de las cuentas del sistema de ahorro para el retiro y, en su caso sus beneficiarios, podrán, a su elección, presentar directamente o a través de sus representantes sindicales, sus reclamaciones contra las instituciones de crédito ante la Comisión Nacional Bancaria o hacer valer sus derechos en la forma que establecen las leyes. El procedimiento de conciliación a que se refiere este párrafo se sujetará a lo dispuesto en los artículos 119 y 120 de la Ley de Instituciones de Crédito.
 
 > <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
@@ -2116,15 +2116,15 @@ El derecho consignado en esta fracción, sólo podrán ejercerlo los trabajadore
 
 Los trabajadores tendrán en todo tiempo el derecho de hacer aportaciones adicionales a su cuenta individual, ya sea por conducto de su patrón al efectuarse el entero de las cuotas, o mediante la entrega de efectivo o documentos aceptables para la institución que los reciba.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE MARZO DE 1992 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 183-S.
 
 El trabajador titular de una cuenta individual del sistema de ahorro para el retiro, deberá, a la apertura de la misma designar beneficiarios. Lo anterior, sin perjuicio de que en cualquier tiempo el trabajador pueda sustituir a las personas que hubiere designado, así como modificar, en su caso, la proporción correspondiente a cada una de ellas.
 
-En caso de fallecimiento del trabajador, la institución de crédito respectiva entregará el saldo de la cuenta individual a los beneficiarios que el titular haya señalado por escrito para tal efecto, en la forma elegida por el beneficiario de entre las señaladas en el artículo 183-O. La designación de beneficiarios queda sin efecto si él o los designados mueren antes que el titular de la cuenta.
+> <small>(F. DE E., D.O.F. 12 DE MARZO DE 1992)</small>
+
+En caso de fallecimiento del trabajador, la institución de crédito respectiva entregará el saldo de la cuenta individual a los beneficiarios que el titular haya señalado por escrito para tal efecto, en la forma elegida por el beneficiario de entre las señaladas en el artículo 183-O. La designación de beneficiarios queda sin efecto si el o los designados mueren antes que el titular de la cuenta.
 
 A falta de los beneficiarios a que se refiere el párrafo anterior, dicha entrega se hará en el orden de prelación previsto en el artículo 501 de la Ley Federal del Trabajo.
 
@@ -2966,13 +2966,11 @@ Los subsidios por incapacidad para trabajar derivada de un riesgo de trabajo, pr
 
 Es inextinguible el derecho al otorgamiento de una pensión, ayuda asistencial o asignación familiar.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE MARZO DE 1992 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992) (F. DE E., D.O.F. 12 DE MARZO DE 1992)
 
 ###### ARTICULO 280 Bis.
 
-El derecho del trabajador y, en su caso, beneficiarios, a recibir los fondos de la subcuenta del seguro de retiro, en los términos descritos en los artículo (sic) 183-O y 183-S de la presente Ley, prescribe en favor del Instituto a los diez años de que sean exigibles.
+El derecho del trabajador y, en su caso, beneficiarios, a recibir los fondos de la subcuenta del seguro de retiro, en los términos descritos en los artículos 183-O y 183-S de la presente Ley, prescribe en favor del Instituto a los diez años de que sean exigibles.
 
 ## TITULO SEPTIMO. De las Responsabilidades y Sanciones
 
