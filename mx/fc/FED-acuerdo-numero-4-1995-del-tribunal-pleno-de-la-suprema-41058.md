@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-4-1995-del-tribunal-pleno-de-la-suprema-41058"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1995-02-17"
-last_updated: "1995-02-17"
+last_updated: "1995-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41058&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1995-02-13"
 
 ACUERDO NUMERO 4/1995 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DE FECHA TRECE DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CINCO, RELATIVO A LA DETERMINACION DEL ENVIO DE ASUNTOS DEL PLENO A LAS SALAS DE ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO 7/1995 DEL TRIBUNAL EN PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN D.O.F. DE 23 DE JUNIO DE 1995, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de febrero de 1995.
 
@@ -94,3 +96,11 @@ UNICO.- Este Acuerdo se publicará en el Diario Oficial de la Federación y en e
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, C E R T I F I C A :
 
 Que este Acuerdo 4/1995, relativo a la determinación del envío de asuntos del Pleno a las Salas de este alto Tribunal, fue emitido por el Tribunal Pleno en Sesión Pública de trece de febrero de mil novecientos noventa y cinco, por unanimidad de once votos de los señores ministros: Presidente, José Vicente Aguinaco Alemán, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juventino V. Castro y Castro, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayogoitia, Humberto Román Palacios, Olga María del Carmen Sánchez Cordero y Juan N. Silva Meza.- México, Distrito Federal, a trece de febrero de mil novecientos noventa y cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 23 DE JUNIO DE 1995.
+
+PRIMERO.- Este acuerdo se publicará en el Semanario Judicial de la Federación y en el Diario Oficial de la Federación y entrará en vigor el día de su publicación en aquél.
+
+SEGUNDO.- Se abroga el Acuerdo 4/1995, emitido por el Tribunal Pleno el día trece de febrero de mil novecientos noventa y cinco.
