@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "2000-12-04"
+last_updated: "2000-12-05"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE DICIEMBRE DE 2000.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -49,9 +49,9 @@ En consecuencia, con fundamento en las citadas disposiciones constitucionales y 
 
 ACUERDO
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO DECIMO TERCERO DEL ACUERDO GENERAL NUMERO 49/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 86/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE DICIEMBRE DE 2000)</small>
 
-PRIMERO.- El territorio de la República se divide en veinticinco circuitos, cuya circunscripción territorial es la siguiente:
+PRIMERO.- El territorio de la República se divide en veintiséis Circuitos cuya circunscripción territorial es la siguiente:
 
 I.- PRIMER CIRCUITO: Distrito Federal.
 
@@ -77,9 +77,9 @@ X.- DECIMO CIRCUITO: Estado de Tabasco y los Municipios de Acayucan, Agua Dulce,
 
 XI.- DECIMO PRIMER CIRCUITO: Estado de Michoacán.
 
-> <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 86/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE DICIEMBRE DE 2000)</small>
 
-XII.- DECIMO SEGUNDO CIRCUITO: Estados de Baja California Sur y Sinaloa.
+XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa.
 
 XIII.- DECIMO TERCER CIRCUITO: Estado de Oaxaca.
 
@@ -111,13 +111,17 @@ XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
 
 XXV.- VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los Municipios de Gómez Palacio, General Simón Bolívar, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
 
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 86/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE DICIEMBRE DE 2000)</small>
+
+XXVI.- VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
+
 SEGUNDO.- Cada uno de los circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de circuito y los juzgados de distrito que a continuación se precisan:
 
 I.- PRIMER CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 15/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE MARZO DE 2000)</small>
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 83/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE DICIEMBRE DE 2000)</small>
 
-1.- Cuarenta y dos tribunales colegiados especializados: seis en materia penal, once en materia administrativa, trece en materia civil y doce en materia de trabajo; y, seis tribunales unitarios especializados: cuatro en materia penal y dos en materias civil y administrativa, todos con residencia en el Distrito Federal.
+1.- Cuarenta y cuatro Tribunales Colegiados especializados: seis en materia penal, trece en materia administrativa, trece en materia civil y doce en materia de trabajo; y, seis Tribunales Unitarios especializados: cuatro en materia penal y dos en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
 > <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 55/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
 
@@ -149,9 +153,9 @@ III.- TERCER CIRCUITO:
 
 IV.- CUARTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 35/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL NUMERO 84/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE DICIEMBRE DE 2000)</small>
 
-1.- Cinco tribunales colegiados especializados: tres en materias administrativa y de trabajo y dos en materias penal y civil, y dos tribunales unitarios, con residencia en la ciudad de Monterrey.
+1.- Ocho Tribunales Colegiados especializados: uno en materia penal, dos en materia administrativa, dos en materia civil y tres en materia de trabajo; y, dos Tribunales Unitarios, todos con residencia en Monterrey, Nuevo León.
 
 2.- Siete juzgados de distrito con sede en la ciudad de Monterrey.
 
@@ -235,9 +239,7 @@ XII.- DECIMO SEGUNDO CIRCUITO:
 
 2.- Diez juzgados de distrito: cuatro con residencia en la ciudad de Culiacán, tres con sede en la ciudad de Los Mochis y tres con residencia en la ciudad de Mazatlán.
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 51/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
-
-3.- Dos juzgados de distrito en el Estado de Baja California Sur, con sede en la ciudad de La Paz.
+3.- (DEROGADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 86/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE DICIEMBRE DE 2000)
 
 4.- (DEROGADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)
 
@@ -281,9 +283,9 @@ XV.- DECIMO QUINTO CIRCUITO:
 
 XVI.- DECIMO SEXTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 3/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 85/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE DICIEMBRE DE 2000)</small>
 
-1.- Cuatro tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Guanajuato.
+1.- Cinco Tribunales Colegiados, cuatro con residencia en Guanajuato, Guanajuato y uno en León, Guanajuato; y, dos Tribunales Unitarios, con residencia en Guanajuato, Guanajuato.
 
 > <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 53/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
 
@@ -379,6 +381,14 @@ XXV.- VIGESIMO QUINTO CIRCUITO:
 
 2.- Tres juzgados de distrito en el Estado de Durango, con sede en la ciudad de Durango.
 
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 86/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE DICIEMBRE DE 2000)</small>
+
+XXVI.- VIGESIMO SEXTO CIRCUITO:
+
+1.- Un Tribunal Colegiado y un Tribunal Unitario, con residencia en La Paz.
+
+2.- Dos Juzgados de Distrito en el Estado de Baja California Sur, con sede en La Paz.
+
 TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios de circuito es la que en seguida se indica:
 
 I.- PRIMER CIRCUITO: Distrito Federal.
@@ -409,9 +419,9 @@ X.- DECIMO CIRCUITO: Estado de Tabasco y los Municipios de Acayucan, Agua Dulce,
 
 XI.- DECIMO PRIMER CIRCUITO: Estado de Michoacán.
 
-> <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 86/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE DICIEMBRE DE 2000)</small>
 
-XII.- DECIMO SEGUNDO CIRCUITO: Estados de Baja California Sur y Sinaloa.
+XII.- DECIMO SEGUNDO CIRCUITO: Estado de Sinaloa.
 
 XIII.- DECIMO TERCER CIRCUITO: Estado de Oaxaca.
 
@@ -427,7 +437,15 @@ En relación con los tribunales unitarios con residencia en la ciudad de Mexical
 
 En cuanto a los tribunales unitarios con residencia en la ciudad de Tijuana será la misma que la establecida para los juzgados de distrito en el Estado de Baja California, con sede en la citada ciudad y en la ciudad de Ensenada.
 
-XVI.- DECIMO SEXTO CIRCUITO: Estado de Guanajuato.
+> <small>(REFORMADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 85/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE DICIEMBRE DE 2000)</small>
+
+XVI.- DECIMO SEXTO CIRCUITO:
+
+Respecto de los Tribunales Colegiados con residencia en Guanajuato, Guanajuato, su jurisdicción territorial será el Estado de Guanajuato y tendrán conocimiento exclusivo para conocer de las quejas a que alude la fracción XI, del artículo 95, de la Ley de Amparo que se originen en los Juzgados de Distrito en el Estado de Guanajuato, con sede en la ciudad del mismo nombre y en los Juzgados de Distrito con residencia en la ciudad de Celaya.
+
+En cuanto al Tribunal Colegiado con residencia en León, Guanajuato, su jurisdicción territorial será el Estado de Guanajuato y tendrá conocimiento exclusivo para conocer de las quejas a que alude la fracción XI, del artículo 95, de la Ley de Amparo, que se originen en los Juzgados de Distrito en el Estado de Guanajuato, con residencia en León.
+
+La jurisdicción territorial de los Tribunales Unitarios comprenderá el Estado de Guanajuato.
 
 XVII.- DECIMO SEPTIMO CIRCUITO: Estado de Chihuahua.
 
@@ -478,6 +496,10 @@ XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
 > <small>(ADICIONADA POR EL PUNTO DECIMO TERCERO DEL ACUERDO GENERAL NUMERO 49/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
 
 XXV.- VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los Municipios de Gómez Palacio, General Simón Bolívar, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
+
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 86/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE DICIEMBRE DE 2000)</small>
+
+XXVI.- VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
 
 CUARTO.- La jurisdicción territorial de los juzgados de distrito es la siguiente:
 
@@ -591,9 +613,7 @@ Los Juzgados Quinto, Sexto y Séptimo de Distrito en el Estado de Sinaloa, con r
 
 Los Juzgados Octavo, Noveno y Décimo de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Concordia, Cosalá, Elota, Rosario, Escuinapa, Mazatlán y San Ignacio.
 
-> <small>(REFORMADO, POR EL PUNTO NOVENO DEL ACUERDO GENERAL 51/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
-
-Los Juzgados de Distrito en el Estado de Baja California Sur, con residencia en la ciudad de La Paz, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+> <small>(DEROGADO ULTIMO PARRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 86/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE DICIEMBRE DE 2000)</small>
 
 XIII.- DECIMO TERCER CIRCUITO:
 
@@ -714,6 +734,12 @@ Los Juzgados Primero y Segundo de Distrito en el Estado de Nayarit, con residenc
 XXV.- VIGESIMO QUINTO CIRCUITO:
 
 Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Durango, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Canatlán, Canelas, Coneto de Comonfort, Cuencamé, Durango, El Oro, Guadalupe Victoria, Guanaceví, Hidalgo, Indé, Mezquital, Nombre de Dios, Nuevo Ideal, Ocampo, Otáez, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo, Rodeo, San Bernardo, San Dimas, San Juan del Río, Santa Clara, Santiago Papasquiaro, Súchil, Tamazula, Tepehuanes, Topia y Vicente Guerrero.
+
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 86/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE DICIEMBRE DE 2000)</small>
+
+XXVI.- VIGESIMO SEXTO CIRCUITO:
+
+Los Juzgados de Distrito en el Estado de Baja California Sur, con residencia en La Paz, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 QUINTO.- El Pleno del Consejo de la Judicatura Federal interpretará y resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
 
@@ -1236,6 +1262,38 @@ SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en e
 D.O.F. 4 DE DICIEMBRE DE 2000.
 
 ACUERDO GENERAL NUMERO 82/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE DICIEMBRE DE 2000.
+
+ACUERDO GENERAL NUMERO 83/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE DICIEMBRE DE 2000.
+
+ACUERDO GENERAL NUMERO 84/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE DICIEMBRE DE 2000.
+
+ACUERDO GENERAL NUMERO 85/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE DICIEMBRE DE 2000.
+
+ACUERDO GENERAL NUMERO 86/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
