@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1983-12-31"
+last_updated: "1984-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1984.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -2991,145 +2991,147 @@ La participación total a que se refieren las fracciones anteriores, se distribu
 
 Número de habitantes, importe de su presupuesto de egresos, gasto público municipal por habitante y otras consideraciones. En consecuencia, los porcentajes de participación del producto total serán:
 
-Municipio: Porcentaje de Porcentaje de
+(REFORMADA, P.O. 28 DE ENERO DE 1984)(F. DE E., P.O. 11 DE FEBRERO DE 1984)
+
+Municipio Porcentaje de Porcentaje de
 
 Participación Participación
 
-según Fracción I. según fracción II.
+según fracción I según fracción II
 
-Ahumada 0.51 0.8
+Ahumada 0.50 0.8
 
-Aldama 0.42 1.0
+Aldama 0.41 1.0
 
-Allende Valle de 0.34 1.4
+Allende Valle de 0.33 1.4
 
-Aquiles Serdán 0.40 0.9
+Aquiles Serdán 0.39 0.9
 
-Ascensión 0.31 1.0
+Ascensión 0.30 1.0
 
-Bachíniva 0.32 1.2
+Bachíniva 0.31 1.2
 
-Balleza 0.47 1.4
+Balleza 0.46 1.4
 
-Batopilas 0.31 1.4
+Batopilas 0.30 1.4
 
-Dr. Belisario Domínguez 0.24 1.4
+Dr. Belizario (sic) Domínguez 0.23 1.4
 
-Bocoyna 0.58 1.5
+Bocoyna 0.57 1.5
 
-Buenaventura 0.61 1.4
+Buenaventura 0.60 1.4
 
-Camargo 2.11 1.5
+Camargo 2.08 1.5
 
-Carichic 0.30 1.4
+Carichí (sic) 0.29 1.4
 
-Casas Grandes 0.34 1.0
+Casas Grandes 0.33 1.0
 
-Coronado 0.18 1.5
+Coronado 0.17 1.5
 
-Coyame 0.19 1.4
+Coyame 0.18 1.4
 
-Cuauhtémoc 5.32 2.0
+Cuauhtémoc 5.25 2.0
 
-Cusihuiriáchic 0.30 1.4
+Cusihuiriachic 0.29 1.4
 
-Chihuahua 25.98 3.0
+Chihuahua 25.70 3.0
 
-Chínipas 0.25 1.4
+Chínipas 0.24 1.4
 
-Delicias 3.49 2.0
+Delicias 4.84 2.0
 
-El Tule 0.16 1.7
+El Tule 0.15 1.7
 
-Praxedis G. Guerrero 0.24 1.4
+Praxedis G. Guerrero 0.23 1.4
 
-Galeana 0.14 1.8
+Galeana 0.13 1.8
 
-General Trías 0.24 1.4
+General Trías 0.23 1.4
 
-Gómez Farías 0.35 1.3
+Gómez Farías 0.34 1.3
 
-Gran Morelos 0.23 1.4
+Gran Morelos 0.22 1.4
 
-Guachochi 0.59 1.5
+Guachochi 0.58 1.5
 
-Guadalupe, D. B. 0.39 1.2
+Guadalupe D. B. 0.38 1.2
 
-Guadalupe y Calvo 1.03 2.4
+Guadalupe y Calvo 1.01 2.4
 
-Guazapares 0.26 1.4
+Guazapares 0.25 1.4
 
-Guerrero 1.27 2.5
+Guerrero 1.24 2.5
 
-H. del Parral 4.95 2.0
+H. del Parral 4.89 2.0
 
-Huejotitán 0.16 1.7
+Huejotitán 0.15 1.7
 
-Ignacio Zaragoza 0.34 1.4
+Ignacio Zaragoza 0.33 1.4
 
-Janos 0.27 1.0
+Janos 0.26 1.0
 
-Jiménez 1.14 1.3
+Jiménez 1.11 1.3
 
-Juárez 31.05 3.0
+Juárez 30.72 3.0
 
-Julimes 0.24 1.2
+Julimes 0.23 1.2
 
-La Cruz 0.17 1.6
+La Cruz 0.16 1.6
 
-López 0.28 1.2
+López 0.27 1.2
 
-Madera 1.48 2.4
+Madera 1.45 2.4
 
-Maguarichic 0.17 1.6
+Maguarichi 0.16 1.6
 
-Manuel Benavides 0.23 1.4
+Manuel Benavides 0.22 1.4
 
-Matachic 0.24 1.3
+Matachic 0.23 1.3
 
-Matamoros 0.25 1.3
+Matamoros 0.24 1.3
 
-Meoqui 0.73 1.3
+Meoqui 0.85 1.3
 
-Morelos 0.23 1.5
+Morelos 0.22 1.5
 
-Moris 0.18 1.5
+Moris 0.17 1.5
 
-Maniquipa 0.95 2.4
+Maniquipa 0.94 2.4
 
-Nonoava 0.17 1.5
+Nonoava 0.16 1.5
 
-Nuevo Casas Grandes 2.03 1.2
+Nuevo Casas Grandes 2.00 1.2
 
-Ocampo 0.37 1.1
+Ocampo 0.36 1.1
 
-Ojinaga 0.86 1.2
+Ojinaga 0.85 1.2
 
-Riva Palacio 0.45 1.4
+Riva Palacio 0.44 1.4
 
-Rosales 0.34 1.4
+Rosales 0.33 1.4
 
-Rosario Valle de 0.21 1.5
+Rosario Valle de 0.20 1.5
 
-San Francisco de Borja 0.24 1.4
+San Francisco de Borja 0.23 1.4
 
-San Francisco del Oro 0.70 0.9
+San Francisco del Oro 0.69 0.9
 
-San Francisco de Conchos 0.17 1.6
+San Francisco de Conchos 0.16 1.6
 
-Santa Bárbara 0.88 1.0
+Santa Bárbara 0.87 1.0
 
-Satevó 0.24 1.2
+Satevó 0.23 1.2
 
-Saucillo 1.11 2.3
+Saucillo 1.09 2.3
 
-Temósachic 0.34 1.0
+Temósachi (sic) 0.33 1.0
 
-Urique 0.46 1.4
+Urique 0.45 1.4
 
-Uruachi 0.26 1.4
+Uruachi 0.25 1.4
 
-Zaragoza Valle de 0.24 1.4
+Zaragoza Valle de 0.23 1.4
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
 
@@ -3653,7 +3655,7 @@ Cuando la autoridad ejecutora encuentre que los documentos presentados por el te
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
-I.- Se interpondrán ante el Tesorero General del Estado precisamente por escrito, en el que se expresarán: El nombre del recurrente; domicilio para ser notificado en el Estado; el acto impugnado; los agravios que éste le cause y el ofrecimiento de las pruebas que pretende rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se considerarán en el recurso las que hubiere allegado en tal oportunidad y las supervenientes.
+I.- Se interpondrán ante el Tesorero General del Estado precisamente por escrito, en el que se expresarán: El nombre del recurrente; domicilio para ser notificado en el Estado; el acto impugnado; los agravios que éste le cause y el ofrecimiento de las pruebas que pretende rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se considerarán en el recurso las que hubiere allegado en tal oportunidad y la supervenientes.
 
 II.- El escrito será presentado dentro de los quince días siguientes al en que surta efectos la notificación del acto que se impugna. Si el recurrente tiene su domicilio en población distinta del lugar de residencia de la Tesorería General del Estado, podrá enviar su escrito, dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución. En estos casos, se tendrá como fecha de presentación del escrito respectivo, el del día en que se haga la entrega en la Oficina de Correos o a la autoridad que efectuó la notificación.
 
@@ -4308,3 +4310,9 @@ Las autoridades judiciales, los encargados de los Registros Públicos de la Prop
 ###### ARTICULO TERCERO.
 
 Publíquese en el Periódico Oficial del Estado y entrará en vigor el primero de enero de mil novecientos ochenta y cuatro.
+
+P.O. 28 DE ENERO DE 1984.
+
+PRIMERO.- La reforma al artículo 316 del Código Fiscal entrará en vigor en todo el Estado a partir del 1o. de febrero de 1984.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Estado para que, salvo lo dispuesto en el artículo que antecede, entre en vigor el presente Decreto al día siguiente de su publicación.
