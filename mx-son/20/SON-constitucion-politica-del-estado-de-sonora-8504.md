@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1923-12-29"
+last_updated: "1924-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1923.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE ABRIL DE 1924.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -1131,7 +1131,7 @@ XX. Las demás que las leyes federales o del Estado les señalen.
 
 Las Comisarías serán administradas por funcionarios que se denominarán "Comisarios de Policía".
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1923)</small>
+> <small>(REFORMADO, B.O. 19 DE ABRIL DE 1924)</small>
 
 ###### Artículo 139.
 
@@ -1332,3 +1332,11 @@ PRIMERO.- Los Comisarios de Policía y los Ayuntamientos que resulten electos el
 SEGUNDO.- Sometanse las reformas que anteceden a la aprobación de los H. H. Ayuntamientos del Estado para los efectos legales correspondientes.
 
 TERCERO.- Esta Ley entrará en vigor cuando sea aprobada por la mayoría de los H. H. Ayuntamientos del Estado y previa publicación en el Boletín Oficial.
+
+B.O. 19 DE ABRIL DE 1924.
+
+Primeros (sic).- Los Comisarios de Policía y los Ayuntamientos que resulten electos el último domingo de abril de 1924, durarán en funciones hasta el 15 de septiembre de 1925, y en los períodos siguientes tendrán la duración que señala la Constitución Política Local.
+
+Segundo.- Sométanse las reformas que anteceden a la aprobación de los H H. Ayuntamientos del Estado para los efectos legales correspondientes.
+
+Tercero.- Esta Ley entrará en vigor cuando sea aprobada por la mayoría de los H. H. Ayuntamientos del Estado y previa publicación en el Boletín Oficial.
