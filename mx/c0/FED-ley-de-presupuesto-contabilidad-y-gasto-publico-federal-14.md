@@ -4,7 +4,7 @@ identifier: "FED-ley-de-presupuesto-contabilidad-y-gasto-publico-federal-14"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1994-01-10"
+last_updated: "1995-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1976-12-30"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 31 de diciembre de 1976
 
@@ -233,7 +233,13 @@ Una vez concluida la vigencia de un Presupuesto de Egresos de la Federación só
 
 En casos excepcionales y debidamente justificados, la Secretaría de Programación y Presupuesto podrá autorizar que se celebren contratos de obras públicas, de adquisiciones o de otra índole, que rebasen las asignaciones presupuestales aprobadas para el año, pero en estos casos los compromisos excedentes no cubiertos quedarán sujetos, para los fines de su ejecución y pago, a la disponibilidad presupuestal de los años subsecuentes.
 
-Cuando se trate de programas cuyos presupuestos se incluyan en el Presupuesto de Egresos de la Federación se hará mención especial de estos casos al presentar el Proyecto de Presupuesto a la Cámara de Diputados.
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
+
+Tratándose de proyectos incluidos en programas prioritarios a los que se refiere el párrafo tercero del artículo 18 de la Ley General de Deuda Pública, en que la mencionada Secretaría, en los términos que establezca el reglamento de esta Ley, haya otorgado su autorización por considerar que el esquema de financiamiento correspondiente fue el más recomendable de acuerdo a las condiciones imperantes, a la estructura del proyecto y al flujo de recursos que genere, el servicio de las obligaciones derivadas de los financiamientos correspondientes, se considerará preferente respecto de nuevos financiamientos, para ser incluido en los presupuestos de egresos de los años posteriores, hasta la total terminación de los pagos relativos.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
+
+Cuando los proyectos a que se refiere este artículo correspondan a programas de entidades cuyos presupuestos se incluyan en el Presupuesto de Egresos de la Federación, se hará mención especial de estos casos al presentar el proyecto de Presupuesto a la Cámara de Diputados.
 
 ###### Artículo 31.
 
@@ -488,3 +494,7 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+D.O.F. 21 DE DICIEMBRE DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1996.
