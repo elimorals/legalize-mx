@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1971-08-28"
+last_updated: "1971-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE AGOSTO DE 1971.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE DICIEMBRE DE 1971.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1531,11 +1531,11 @@ Las autoridades del Estado no tienen más facultades que las que expresamente le
 
 Ningún individuo puede desempeñar a la vez dos cargos del Estado, de elección popular; pero el electo puede escoger entre ambos el que quiera desempeñar.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1971)</small>
 
 ###### Art. 171.
 
-Todos los funcionarios y empleados del Estado y de los Municipios al entrar a desempeñar sus cargos, harán protesta formal de guardar y cumplir la Constitución General de la República, la Particular del Estado, y todas las Leyes que de ambas emanen. Nunca podrán reunirse en un solo individuo dos empleos o cargos públicos del Estado o Municipales, por los que se disfrute sueldo, con excepción de los relativos a los Ramos de Educación y de beneficencias Públicas. Tampoco podrán reunirse más de tres cargos de Educación o de beneficencia, ni más de tres de estos ramos combinados, o uno de ellos con otro de los demás ramos de la Administración Pública.
+Todos los funcionarios y empleados del Estado y de los Municipios al entrar a desempeñar sus cargos, harán protesta formal de guardar y cumplir la Constitución General de la República, la Particular del Estado y todas las Leyes que de ambas emanen. Nunca podrán reunirse en un solo individuo dos empleos o cargos públicos del Estado o Municipales, por los que se disfrute un sueldo, salvo que exista compatibilidad en horarios, especialidad y funciones, conforme a lo que determinen las leyes respectivas.
 
 ###### Art. 172.
 
@@ -1973,21 +1973,19 @@ II. De las contribuciones que para cada Municipio decrete la Legislatura.
 
 Para la revisión de las cuentas de la inversión de los caudales públicos del Estado y Municipales, habrá en la residencia de la Legislatura del Estado y dependiente de ésta, una oficina que se llamará Contaduría General de Glosa, la que tendrá las atribuciones que determinen las leyes.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1971)</small>
 
 ###### Art. 192.
 
-Todos los pagos que efectúe el Director General de Hacienda se harán mediante orden escrita formada por el Gobernador y por el Secretario General de Gobierno, en la que se deberá expresar la partida del Presupuesto a cargo de la cual se hace el pago, pues las asignaciones respectivas se aplicarán únicamente al objeto a que están destinadas.
+El Gobernador del Estado por conducto de las Autoridades Hacendarias cuidarán de la exacta aplicación del Presupuesto aprobado por la Legislatura del Estado, de conformidad con la Ley Orgánica respectiva y demás ordenamientos que rijan la función presupuestaria. Todos los pagos que se efectúen, se harán mediante orden escrita en la que se expresará la partida del Presupuesto a cargo de la cual se hace el pago.
 
 ###### Art. 193.
 
 (DEROGADO, P.O. 1 DE ENERO DE 1955)
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1944)</small>
-
 ###### Art. 194.
 
-El Director General de Hacienda no producirá resolución alguna, sin previo acuerdo superior.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1971)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -2023,11 +2021,13 @@ De conformidad con lo establecido en el artículo 115 de la Constitución Federa
 
 Una ley orgánica determinará el número de Municipios a que se refiere el artículo anterior, así como su división interior.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1971)</small>
+
 ###### Art. 9.
 
-El Estado se divide en dieciséis Distritos rentísticos y judiciales que son:
+El Estado se divide en dieciséis Distritos Judiciales que son:
 
-Chalco, Cuautitlán, El Oro de Hidalgo, Ixtlahuaca, Jilotepec, Lerma, Otumba, Sultepec, Temascaltepec, Tenango del Valle, Tenancingo, Texcoco, Tlalnepantla, Toluca, Valle de Bravo y Zumpango, cuyas cabeceras y extensión territorial son las que actualmente tienen. La Legislatura, a iniciativa de alguno de sus miembros, del Ejecutivo o del Tribunal Superior de Justicia, podrá aumentar el número de estos Distritos.
+Chalco, Cuautitlán, El Oro de Hidalgo, Ixtlahuaca, Jilotepec, Lerma, Otumba, Sultepec, Temascaltepec, Tenango del Valle, Tenancingo, Texcoco, Tlalnepantla, Toluca, Valle de Bravo y Zumpango, cuyas cabeceras y extensión territorial son las que actualmente tienen. La Legislatura a iniciativa de alguno de sus miembros, del Ejecutivo o del Tribunal Superior de Justicia, podrá aumentar el número de estos Distritos.
 
 ###### Art. 10.
 
@@ -2192,3 +2192,9 @@ G.G. 28 DE AGOSTO DE 1971.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
 
 SEGUNDO.- El informe sobre el estado que guarda la Administración Pública que debería rendir el Ejecutivo del Estado el día 5 de septiembre del año en curso, lo rendirá el 20 de enero próximo.
+
+G.G. 29 DE DICIEMBRE DE 1971.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
