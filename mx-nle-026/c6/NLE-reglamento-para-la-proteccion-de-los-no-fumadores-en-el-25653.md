@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-proteccion-de-los-no-fumadores-en-el-25653"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-27"
-last_updated: "1993-08-27"
+last_updated: "2002-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA PROTECCIÓN DE LOS NO FUMADORES, EN EL MUNICIPIO DE GUADALUPE, N.L.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 27 de agosto de 1993.
 
@@ -115,7 +115,9 @@ e).- Medios de transporte colectivo. De los Sindicatos y de las empresas que pro
 
 Los integrantes de las asociaciones de padres de familia de las escuelas e instituciones públicas y privadas, deberán vigilar de manera individual o colectiva, para que se cumpla con la prohibición de fumar en las aulas, bibliotecas, auditorios y demás instituciones a las que deban acudir los alumnos y el personal de las respectivas instituciones educativas.
 
-### CAPITULO IV. DE LAS INSPECCIONES
+> <small>(ADICIONADO [N. DE E. REFORMADA SU NUMERACIÓN], P.O. 9 DE AGOSTO DE 2002)</small>
+
+### CAPITULO V (SIC). DE LAS INSPECCIONES
 
 ###### ARTICULO 12.
 
@@ -125,17 +127,29 @@ Las Autoridades a que se refiere el Artículo 2°, ejercerán las funciones de v
 
 Las inspecciones se sujetarán a las siguientes bases:
 
-I.- El inspector deberá contar con orden escrita expedida por la Autoridad competente y contendrá la fecha, ubicación del local o establecimiento a inspeccionar, el objeto de la visita, el nombre del inspector autorizado para llevar a cabo la diligencia, la fundamentación y motivación así como el nombre y firma del funcionario que la emitió.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE AGOSTO DE 2002)</small>
 
-II.- El inspector deberá identificarse ante el propietario, poseedor o responsable, con la credencial vigente que para tal efecto expida la Secretaría de Salud Pública Municipal, y entregará copias legibles de la orden de inspección.
+I.- El Inspector Genérico deberá contar con orden escrita expedida por la autoridad competente y contendrá la fecha, ubicación del local o establecimiento a inspeccionar, el objeto de la visita, el nombre del inspector autorizado para llevar a cabo la diligencia, la fundamentación y motivación así como el nombre y firma del funcionario que la emitió.
 
-III.- Los Inspectores practicarán la visita dentro de las 24 horas siguientes a la expedición de la orden.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE AGOSTO DE 2002)</small>
 
-IV.- Al inicio de la visita de la inspección, el inspector deberá requerir al visitado, para que designe a dos personas que funjan como testigos en el desarrollo de la diligencia, advirtiéndole que en caso de no hacerlo, éstos serán propuestos por el propio infractor.
+II.- El Inspector Genérico deberá identificarse ante el propietario, poseedor o responsable, con la credencial vigente que para tal efecto expida la Secretaría de Salud Pública Municipal, y entregará copias legibles de la orden de inspección.
 
-V.- De toda visita se levantará acta circunstanciada por triplicado, en forma numerada y foliadas, en las que se expresarán: lugar, fecha y nombre de la persona con quien se entiende la diligencia; así como las incidencias y el resultado de la misma,;(sic) el acta deberá ser firmada por el inspector, por la persona con quien se entendió la diligencia, y por los testigos de asistencia propuestos por ésta o nombrados por el inspector y en el caso de la fracción anterior. Si alguna de las personas señaladas se niega a firmar, el inspector lo hará constar en el acta, sin que esta circunstancia altere el valor probatorio del documento.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE AGOSTO DE 2002)</small>
 
-VI.- El inspector comunicará al visitado si existen omisiones en el cumplimiento de cualquier obligación a su cargo ordenado en el Reglamento, haciendo constar en el acta que cuenta con diez días hábiles para impugnarla por escrito ante la Secretaría de Salud Pública Municipal y exhibir las pruebas y alegatos que a su derecho convengan, y
+III.- Los Inspectores Genéricos practicarán la visita dentro de las 24 horas siguientes a la expedición de la orden.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE AGOSTO DE 2002)</small>
+
+IV.- Al inicio de la visita de la inspección, el Inspector Genérico deberá requerir al visitado, para que designe a dos personas que funjan como testigos en el desarrollo de la diligencia, advirtiéndole que en caso de no hacerlo, éstos serán propuestos por el propio infractor.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE AGOSTO DE 2002)</small>
+
+V.- De toda visita se levantará acta circunstanciada por triplicado, en forma numerada y foliadas, en las que se expresarán: lugar, fecha y nombre de la persona con quien se entiende la diligencia, así como las incidencias y el resultado de la misma; el acta deberá ser firmada por el inspector Genérico, por la persona con la quien se entendió la diligencia, y por los testigos de asistencia propuestos por ésta o nombrados por el inspector Genérico y en el caso de la fracción anterior. Si alguna de las personas señaladas se niega a firmar el inspector lo hará constar en la acta, sin que esta circunstancia altere el valor probatorio del documento.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE AGOSTO DE 2002)</small>
+
+VI.- El Inspector Genérico comunicara al visitado si existen omisiones en el cumplimiento de cualquier obligación a su cargo ordenado en el Reglamento, haciendo constar en el acta que cuenta con diez días hábiles para impugnarla por escrito ante la Secretaría de Salud Pública Municipal y exhibir las pruebas y alegatos que a su derecho convengan, y
 
 VII.- Uno de los ejemplares legibles del acta quedará en poder de la persona con quien se entendió la diligencia; el original y la copia se entregarán a la Secretaría de Salud Pública Municipal.
 
@@ -248,3 +262,17 @@ PRESIDENTE MUNICIPAL.
 C.P. NOEL RAMÍREZ BARRERA.
 
 SECRETARIO DEL R. AYUNTAMIENTO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE AGOSTO DE 2002.
+
+## [N. DE E. TRANSITORIOS DE LAS “ADICIONES AL REGLAMENTO DE NOMENCLATURA; AL REGLAMENTO DE LIMPIA; AL REGLAMENTO DE ESPECTÁCULOS; AL REGLAMENTO DE ANUNCIOS; AL REGLAMENTO QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS; AL REGLAMENTO DE PROTECCIÓN AMBIENTAL; AL REGLAMENTO DE CEMENTERIOS; AL REGLAMENTO DE PROTECCIÓN A LOS NO FUMADORES Y AL REGLAMENTO DE CONSTRUCCIÓN”.]
+
+PRIMERO: Las presentes adiciones a los Reglamentos, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado y Gaceta Municipal.
+
+SEGUNDO: Se derogan las disposiciones Municipales que se opongan a lo dispuesto en las adiciones hechas a los reglamentos mencionados con antelación.
+
+TERCERA: Por tanto, mando se imprima, publique, circule y se dé el debido cumplimiento. Dado en la Presidencia Municipal de Ciudad Guadalupe, Nuevo León a los 14-catorce días del mes de Mayo del 2002-dos mil dos.
+
+CUARTA: Cúmplase.
