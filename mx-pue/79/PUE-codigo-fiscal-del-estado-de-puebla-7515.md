@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2001-12-17"
+last_updated: "2002-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2002.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -307,7 +307,7 @@ III. Si ambos o todos los acreedores públicos poseen derechos reales, la prefer
 
 Para determinar la preferencia de los créditos fiscales se estará a lo siguiente:
 
-I.- Los créditos a favor del Gobierno del Estado provenientes de impuestos, derechos, productos y aprovechamientos, serán preferentes a cualesquiera otros con excepción de los créditos de alimentos, de salario y sueldos devengados durante el último año, o de indemnizaciones a los obreros conforme lo que dispone la Ley Federal del Trabajo, además de los créditos con garantía hipotecaria o prendaria.
+I.- Los créditos a favor del Gobierno del Estado provenientes de impuestos, derechos, productos y aprovechamientos, serán preferentes a cualesquiera otros con excepción de los créditos de alimentos, de salario y sueldos devengados durante el último año, o de indemnizaciones a los obreros conforme lo que dispone la Ley Federal del Trabajo, además de los créditos con garantía hipotecaría o prendaria.
 
 II.- Para que sea aplicable la excepción a que se refiere la fracción anterior, será requisito indispensable que antes de que se notifique al deudor el crédito fiscal, se haya presentado la demanda ante la Autoridad competente, y ésta, hubiere dictado el auto que la admita. En el caso de las garantías hipotecarias y prendarias, el requisito será que éstas se encuentren inscritas en el Registro Público de la Propiedad y del Comercio, antes de la notificación del crédito Fiscal.
 
@@ -1401,63 +1401,61 @@ La Autoridad Fiscal impondrá las sanciones por infracción a las disposiciones 
 
 A.- Por las infracciones señaladas en el artículo 58:
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+I.- De $ 36.00 a $ 72.00 a la comprendida en la fracción VI.
 
-I.- De $ 35.00 a $ 70.00 a la comprendida en la fracción VI.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
+II.- De $ 106.00 a $ 214.00 a la comprendida en la fracción II.
 
-II.- De $ 104.00 a $ 209.00 a la comprendida en la fracción II.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
+III.- De $ 143.00 a $ 285.00 a la comprendida en la fracción III.
 
-III.- De $ 140.00 a $ 279.00 a la comprendida en la fracción III.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
+IV.- De $ 178.00 a $ 355.00 a la establecida en la fracción V.
 
-IV.- De $ 174.00 a $ 347.00 a la establecida en la fracción V.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
+V.- De $ 178.00 a $ 355.00 a la establecida en la fracción VII.
 
-V.- De $ 174.00 a $ 347.00 a la establecida en la fracción VII.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
+VI.- De $ 214.00 a $ 427.00 a la comprendida en la fracción XV.
 
-VI.- De $ 209.00 a $ 418.00 a la comprendida en la fracción XV.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
+VII.- De $ 285.00 a $ 570.00 a la señalada en la fracción XVIII.
 
-VII.- De $ 279.00 a $ 558.00 a la señalada en la fracción XVIII.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
+VIII.- De $ 356.00 a $ 713.00 a las comprendidas en las fracciones IX y XI.
 
-VIII.- De $ 348.00 a $ 697.00 a las comprendidas en las fracciones IX y XI.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
+IX.- De $ 534.00 a $ 1,067.00 a la establecida en la fracción X.
 
-IX.- De $ 522.00 a $ 1,044.00 a la establecida en la fracción X.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
+X.- De $ 569.00 a $ 1,140.00 a la comprendida en la fracción IV.
 
-X.- De $ 557.00 a $ 1,115.00 a la comprendida en la fracción IV.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
+XI.- De $ 642.00 a $ 1,283.00 a las comprendidas en las fracciones I, VIII, XII y XIII.
 
-XI.- De $ 628.00 a $ 1,255.00 a las comprendidas en las fracciones I, VIII, XII y XIII.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
+XII.- De $ 713.00 a $ 1,425.00 a la señalada en la fracción XVII.
 
-XII.- De $ 697.00 a $ 1,394.00 a las señaladas en la fracción XVII.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
+XIII.- De $ 1,781.00 a $ 3,563.00 a la comprendida en la fracción XIX.
 
-XIII.- De $ 1,742.00 a $ 3,485.00 a la comprendida en la fracción XIX.
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 2 DE JULIO DE 2001)
-
-XIV.- De $ 107.00 a $ 266.00 a quien cometa la comprendida en la fracción XX.
+XIV.- De $ 109.00 a $ 272.00 a quien cometa la comprendida en la fracción XX.
 
 B.- Cuando la comisión de la infracción señalada en el artículo 58-A sea descubierta por las Autoridades Fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes sanciones:
 
@@ -2326,3 +2324,7 @@ PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Es
 SEGUNDO.- Las Autoridades Fiscales a que se refieren las fracciones IV, VIII, X, XI y XII del artículo 13 que se reforma, entrarán en funciones una vez que se realicen las adecuaciones orgánicas, administrativas y en materia jurídica correspondientes.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE ENERO DE 2002.
+
+El presente Acuerdo entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
