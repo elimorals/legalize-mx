@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2002-03-13"
+last_updated: "2003-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE FEBRERO DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -666,9 +666,9 @@ XXXII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 XXXIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
-ARTICULO 32 bis.- A la Secretaría de Medio Ambiente y Recursos Naturales, corresponde el despacho de los siguientes asuntos:
+ARTICULO 32 BIS.- A la Secretaría de Medio Ambiente y Recursos Naturales corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -718,13 +718,13 @@ XI.- Evaluar y dictaminar las manifestaciones de impacto ambiental de proyectos 
 
 XII.- Elaborar, promover y difundir las tecnologías y formas de uso requeridas para el aprovechamiento sustentable de los ecosistemas y sobre la calidad ambiental de los procesos productivos, de los servicios y del transporte;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
-XIII.- Fomentar y realizar programas de reforestación y restauración ecológica, con la cooperación de las autoridades federales, estatales y municipales, en coordinación, en su caso, con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+XIII.- Fomentar y realizar programas de restauración ecológica, con la cooperación de las autoridades federales, estatales y municipales, en coordinación, en su caso, con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y demás dependencias y entidades de la administración pública federal;
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
-XIV.- Evaluar la calidad del ambiente y establecer y promover el sistema de información ambiental, que incluirá los sistemas de monitoreo atmosférico, de suelos y de cuerpos de agua de jurisdicción federal, y los inventarios de recursos naturales y de población de fauna silvestre, con la cooperación de las autoridades estatales y municipales, las instituciones de investigación y educación superior, y las dependencias y entidades que correspondan;
+XIV.- Evaluar la calidad del ambiente y establecer y promover el sistema de información ambiental, que incluirá los sistemas de monitoreo atmosférico, de suelos y de cuerpos de agua de jurisdicción federal, y los inventarios de recursos naturales y de población de fauna silvestre, con la cooperación de las autoridades federales, estatales y municipales, las instituciones de investigación y educación superior, y las dependencias y entidades que correspondan;
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -738,17 +738,17 @@ XVI.- Conducir las políticas nacionales sobre cambio climático y sobre protecc
 
 XVII.- Promover la participación social y de la comunidad científica en la formulación, aplicación y vigilancia de la política ambiental, y concertar acciones e inversiones con los sectores social y privado para la protección y restauración del ambiente;
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
-XVIII.- Realizar el censo de predios forestales y silvopastoriles y de sus productos; levantar, organizar y manejar la cartografía y estadística forestal, así como llevar el registro y cuidar la conservación de los árboles históricos y notables del país;
+XVIII.- Llevar el registro y cuidar la conservación de los árboles históricos y notables del país;
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 XIX.- Proponer, y en su caso resolver sobre el establecimiento y levantamiento de vedas forestales, de caza y pesca, de conformidad con la legislación aplicable, y establecer el calendario cinegético y el de aves canoras y de ornato;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
-XX.- Imponer las restricciones que establezcan las disposiciones aplicables sobre la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del o destinadas al extranjero, y promover ante la Secretaría de Economía el establecimiento de medidas de regulación o restricción a su importación o exportación, cuando se requiera para su conservación y aprovechamiento;
+XX.- Imponer, con la participación que corresponda a otras dependencias y entidades, las restricciones que establezcan las disposiciones aplicables sobre la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del o destinadas al extranjero, y promover ante la Secretaría de Economía el establecimiento de medidas de regulación o restricción a su importación o exportación, cuando se requiera para su conservación y aprovechamiento;
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -878,11 +878,11 @@ IV.- Fomentar, en coordinación con la Secretaría de Relaciones Exteriores, el 
 
 V.- Estudiar, proyectar y determinar los aranceles y fijar los precios oficiales, escuchando la opinión de la Secretaría de Hacienda y Crédito Público; estudiar y determinar las restricciones para los artículos de importación y exportación, y participar con la mencionada Secretaría en la fijación de los criterios generales para el establecimiento de los estímulos al comercio exterior;
 
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+VI.- Estudiar y determinar mediante reglas generales, conforme a los montos globales establecidos por la Secretaría de Hacienda y Crédito Público, los estímulos fiscales necesarios para el fomento industrial, el comercio interior y exterior y el abasto, incluyendo los subsidios sobre impuestos de importación, y administrar su aplicación, así como vigilar y evaluar sus resultados;
+
 > <small>N. DE E. EN RELACION CON LA PRESENTE FRACCION, SE DEROGAN EXCLUSIVAMENTE LAS FACULTADES EN MATERIA DE INSPECCION Y VIGILANCIA, DE PRECIOS O TARIFAS, ASI COMO LA DE SANCIONAR EN LOS CASOS DE INCUMPLIMIENTO, D.O.F. 4 DE ENERO DE 1989.</small>
-
-VII.- Establecer la política de precios, y con el auxilio y participación de las autoridades locales, vigilar su estricto cumplimiento, particularmente en lo que se refiere a artículos de consumo y uso popular, y establecer las tarifas para la prestación de aquellos servicios de interés público que considere necesarios, con la exclusión de los precios y tarifas de los bienes y servicios de la Administración Pública Federal; y definir el uso preferente que deba darse a determinadas mercancías;
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 VII.- Establecer la política de precios, y con el auxilio y participación de las autoridades locales, vigilar su estricto cumplimiento, particularmente en lo que se refiere a artículos de consumo y uso popular, y establecer las tarifas para la prestación de aquellos servicios de interés público que considere necesarios, con la exclusión de los precios y tarifas de los bienes y servicios de la Administración Pública Federal; y definir el uso preferente que deba darse a determinadas mercancías;
 
@@ -1975,3 +1975,17 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente ordenamiento.
 
 Artículo Tercero.- En relación con la reforma a que se refiere el ARTICULO TERCERO del presente Decreto, los asuntos relativos a las responsabilidades administrativas, civiles y penales en que hubieren incurrido las autoridades locales o municipales, con motivo de la desviación de recursos federales recibidos y que se encuentren en trámite o pendientes de resolución, deberán sustanciarse de conformidad con las disposiciones vigentes al momento en que se cometió la irregularidad.
+
+D.O.F. 25 DE FEBRERO DE 2003.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor el mismo día de la entrada en vigor de la Ley General de Desarrollo Forestal Sustentable.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE QUE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+...
+
+SEGUNDO.- La presente Ley entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+
+...
