@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1977-08-24"
+last_updated: "1979-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1979.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -2567,11 +2567,15 @@ Si se reclara (sic) inadmisible la apelación, se devolverán los autos al infer
 
 Si se declara que procede la apelación tal como fue admitida, se impondrá al que promovió el incidente una multa de diez a quinientos pesos, y seguirá su curso legal la segunda instancia.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### Artículo 446.
 
-Notificadas las partes que se han recibido los autos o testimonio, en la sala que ha de conocer el recurso, o resuelto los incidentes a que se refieren lols (sic) artículos anteriores, al (sic) apelante, dentro de seis días, expondrá los agravios que, en su concepto, le cause la resolución recurrida, expresando clara y suscintamente los puntos de hecho y de derecho en que se funde cada agravio.
+Notificadas las partes de que se han recibido los autos o testimonio, en la sala que ha de conocer el recurso o resueltos los incidentes a que se refieren los artículos anteriores, el apelante, dentro de seis días, expondrá los agravios que en su concepto le cause la resolución recurrida, expresando clara y suscintamente los puntos de hecho y de derecho en que se funde cada agravio.
 
 Si no se hubiere formulado ningún agravio se declarará desierto el recurso, a petición de parte.
+
+Sin embargo, en los procedimientos relacionados con derechos de menores o incapaces, se suplirá la deficiencia de la queja. Lo mismo se observará tratándose de alimentos, cuando la parte apelante sea la creedora (sic) alimentista.
 
 ###### Artículo 447.
 
@@ -3695,6 +3699,8 @@ DE LOS JUICIOS.
 
 DEL JUICIO SUMARIO DE ALIMENTOS.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### Artículo 638.
 
 Las controversias que no tuvieren señalada en este Código tramitación especial se ventilarán en juicio ordinario.
@@ -4129,47 +4135,67 @@ Para decretar alimentos en favor de quien tenga derecho de exigirlos, se necesit
 
 I.- Que se acredite cumplidamente el título en cuya virtud se piden;
 
-II.- Que se acredite la necesidad que haya de recibir los alimentos;
+II.- Que se justifique, al menos aproximadamente, la capacidad económica del que deba darlos.
 
-III.- Que se justifique, al menos aproximadamente, la capacidad económica del que deba carlos (sic).
+El que exige los alimentos tiene a su favor la presunción de necesitarlos, por lo tanto no requiere prueba.
 
 ###### Artículo 725.
 
 La prueba de que trata la fracción I del artículo anterior será: el testamento, los documentos comprobantes de parentesco o de matrimonio, el convenio o la ejecutoria en que conste la obligación de dar alimentos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### Artículo 726.
 
-Presentada la demanda con los documentos a que se refiere el artículo anterior, se correrá traslado al deudor alimentista por un término de tres días para que produzca su contestación, citándose a una audiencia que se celebrará dentro de los tres días siguientes, en la que se rendirán las pruebas y se formularán los alegatos, dictándose la resolución correspondiente dentro de los tres días siguientes, en la que el juez señalará la suma en que deban consistir los alimentos, mandando abonarlos por mensualidades adelantadas en todos los casos.
+Presentada la demanda con los documentos a que se refiere el artículo anterior, se correrá traslado al deudor alimentista por un término de tres días para que produzca su contestación. Esta sólo se admitirá a trámite si se refiere a lo previsto en la fracción II y último párrafo del artículo 724, de suerte que el Juez esté en condiciones de fijar el monto proporcional a que se contrae el artículo 311 del Código Civil, lo que se decretará de plano.
+
+En el auto que admite la demanda. el Juez fijará prudencialmente una pensión provisional, contra lo cual no se admitirá recurso alguno. Lo anterior se comunicará de inmediato a la persona física o moral de quien perciba el ingreso el deudor alimentista, para que se haga entrega de la misma al que exige los alimentos. Lo mismo se observará respecto de cualquier otro emolumento o crédito que exista en favor del deudor.
+
+Fuera de los casos anteriores, se ordenará requerir al deudor sobre el pago inmediato de dicha pensión provisional embargando en su caso bienes de su propiedad que garanticen su cumplimiento.
+
+Transcurrido el periodo de emplazamiento, dentro de tres días siguientes, se celebrará una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente requieran.
 
 La prueba documental podrá presentarse con anterioridad, sin perjuicio de que el juez haga relación de ella en la audiencia y la tenga por recibida en ese acto, aunque no exista gestión expresa del interesado.
 
 Cuando las partes tengan que rendir prueba testimonial deberán anunciarla en la demanda o en la contestación, respectivamente, exhibiendo copia de los interrogatorios al tenor de los cuales deberán ser examinados los testigos. El juez ordenará que se entregue una copia a la contraria, para que pueda formular por escrito o hacer verbalmente las repreguntas, al celebrarse la audiencia.
 
-La oposición y las pruebas del deudor alimentista, sólo proceden en relación a los extremos previstos en las fracciones II y III del artículo 724.
+La sentencia se pronunciará en la misma audiencia o dentro de los tres días siguientes: (sic)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 727.
 
-Inmediatamente que se dicte sentencia otorgando alimentos, se exigirá al que deba abonarlos el pago de la primera mensualidad.
+La sentencia que decrete los alimentos, fijará la pensión correspondiente que deberá abonarse siempre por adelantado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 728.
 
-Si el deudor alimentista no hiciere el pago, se procederá al embargo y venta de bienes bastantes a cubrir su importe y el de las subsecuentes mensualidades, pudiendo el Juez, en este caso, ordenar el embargo de la parte proporcional del salario del deudor o de cualquier otro emolumento o crédito a su favor, ordenándose la retención correspondiente y su entrega al acreedor alimentista.
+Notificada la sentencia, se comunicará sin demora conforme a lo establecido en el segundo párrafo del citado artículo 726 se tendrá por definitivo el embargo, trabado para garantizar la pensión provisional, pudiendo ampliarse el mismo y procederse a la venta para cubrirse el pago de las pensiones provisionales adeudadas y de la fijada en la sentencia y subsecuentes. El Registrador de la Propiedad, en su caso, cuidará del debido cumplimiento de esta disposición.
+
+La pensión provisional subsistirá mientras no se cumpla con la sentencia pronunciada, conforme a lo dispuesto en los párragos (sic) que anteceden).
 
 ###### Artículo 729.
 
 La sentencia en que se denieguen los alimentos será apelable en ambos efectos, y contra la que los concede, sólo se admitirá la apelación en el efecto devolutivo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### Artículo 730.
 
-En estas diligencias no se permitirá ninguna discusión sobre el derecho a percibir alimentos; cualquiera reclamación que sobre este derecho se hiciere, se substanciará en juicio ordinario y, entre tanto, seguirá abonándose la suma señalada para alimentos.
+En este juicio no se admitirá ninguna discusión sobre el derecho a percibir alimentos. Cualquiera reclamación en este sentido deberá intentarse en juicio ordinario.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 731.
 
-Las controversias que se promuevan sobre el importe de los alimentos se decidirán en forma incidental sin perjuicio de seguirse abonando al acreedor alimentista, durante la substanciación del incidente, la cantidad que se le haya asignado conforme al artículo 726.
+Las controversias que se promuevan sobre el importe de los alimentos se decidirán en forma incidental sin perjuicio de seguirse abonando al acreedor alimentista, durante la substanciación del incidente, la cantidad que se le haya asignado conforme al artículo 727.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 732.
 
-De este juicio sólo conocerán los jueces de letras.
+De este juicio solo conocerán los Jueces de lo Familiar. En donde no los haya, conocerán los Jueces de lo Civil o de jurisdicción mixta.
 
 ### CAPITULO IV
 
@@ -5887,6 +5913,8 @@ EL SECRETARIO GENERAL DE GOBIERNO:
 
 LIC. ARTURO SUAREZ LUNA.
 
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
 P.O. 1º. DE FEBRERO DE 1975.
 
 ###### Artículo 1º.
@@ -5922,3 +5950,7 @@ TERCERO.- Los negocios que no sean del orden familiar, actualmente en trámite e
 CUARTO.- Los términos que estén concedidos y transcurriendo en los asuntos citados en los artículos 2º. Y 3º. Transitorios, quedarán interrumpidos desde que se inicien los quince días del inventario y distribución, reanudándose al siguiente día hábil de aquel en que cause estado el auto de recepción del negocio que dicte el nuevo juez del conocimiento.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 31 DE DICIEMBRE DE 1979.
+
+ÚNICO.- El presente Decreto entrará en vigor, al siguiente día después de su publicación en el Periódico Oficial del Gobierno del Estado.
