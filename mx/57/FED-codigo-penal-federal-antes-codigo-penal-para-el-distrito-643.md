@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1965-01-13"
+last_updated: "1966-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 1966.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -719,11 +719,11 @@ III.- Que el agraciado con la libertad preparatoria resida en el lugar que se de
 
 IV.- Que el reo haya reparado el daño causado u otorgado garantía para cubrir su monto.
 
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
 
 ###### ARTICULO 85.
 
-La libertad preparatoria no se concederá al condenado por robo de infante, ni a los reincidentes ni a los habituales.
+La libertad preparatoria no se concederá al condenado por robo de infante, corrupción de menores, ni a los reincidentes ni a los habituales.
 
 ###### ARTICULO 86.
 
@@ -1277,9 +1277,9 @@ Al que violare los deberes de humanidad en los prisioneros y rehenes de guerra, 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
 
-### CAPITULO I. Ultrajes a la moral pública o a las buenas costumbres e incitación a la prostitución
+### CAPITULO I. Ultrajes a la moral pública
 
-> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
 
 ###### ARTICULO 150.
 
@@ -1302,6 +1302,8 @@ Si la reaprehensión del prófugo se lograre por gestiones del responsable de la
 Al preso que se fugue no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros presos y se fugue alguno de ellos o ejerciere violencia en las personas, en cuyo caso la pena aplicable será de seis meses a tres años de prisión.
 
 ### CAPITULO II. Corrupción de menores
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
 
 ###### ARTICULO 155.
 
@@ -1533,6 +1535,8 @@ El que sabiendo que está enfermo de sífilis o de un mal venéreo en período i
 
 Cuando se trate de cónyuges, sólo podrá procederse por querella del ofendido.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE ENERO DE 1966)</small>
+
 ###### ARTICULO 184.
 
 El que procure con actos materiales impedir la ejecución de una obra o trabajo públicos, mandados hacer con los requisitos legales por la autoridad competente, o con su autorización, será castigado con prisión de ocho días a tres meses.
@@ -1585,9 +1589,9 @@ Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicar�
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
-## TITULO OCTAVO. Delitos contra la moral pública
+## TITULO OCTAVO. Delitos contra la moral pública y las buenas costumbres
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE FEBRERO DE 1940)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE ENERO DE 1966)</small>
 
 ### CAPITULO III. Falsificación de sellos, llaves, cuños o troqueles, marcas, pesas y medidas
 
@@ -1661,17 +1665,23 @@ Las drogas enervantes, las substancias, aparatos y demás objetos que se emplear
 
 ###### ARTICULO 200.
 
-Se aplicará prisión hasta de cuatro meses y multa hasta de $50.00:
+Se aplicará prisión de seis meses o cinco años y multa hasta de $10,000.00.
 
-I.- Al que fabrique, reproduzca o publique libros, escritos, imágenes u objetos obscenos y al que los exponga, distribuya o haga circular;
+I.- Al que fabrique, reproduzca o publique libros, escritos, imágenes u objetos obscenos, y al que los exponga, distribuya o haga circular;
 
-II.- Al que publique por cualquier medio, ejecute o haga ejecutar por otro, exhibiciones obscenas;
+II.- Al que publique por cualquier medio, ejecute o haga ejecutar por otro, exhibiciones obcenas (sic), y
 
 III.- Al que de modo escandaloso invite a otro al comercio carnal.
 
 ###### ARTICULO 201.
 
-Se aplicarán prisión de seis meses a dos años y multa de cincuenta a mil pesos, al que procure o facilite la corrupción de un menor de dieciocho años o lo induzca a la mendicidad.
+Se aplicará prisión, de seis meses a cinco años, al que facilite o procure la corrupción de un menor de dieciocho años de edad.
+
+Comete el delito de corrupción de menores el que procure o facilite su depravación sexual, si es púber; la iniciación en la vida sexual o la depravación de un impúber, o los induzca o incite a la práctica de la mendicidad, de hábitos viciosos, a la ebriedad, al uso de tóxicos o drogas heroicas, a formar parte de una asociación delictuosa, o a cometer cualquier delito.
+
+Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor y debido a ello éste adquiera los hábitos del alcoholismo, uso de drogas heroicas o de substancias tóxicas, se dedique a la prostitución o a las prácticas homosexuales, o forme parte de una asociación delictuosa, la pena de prisión será de cinco a diez años y multa hasta de veinticinco mil pesos.
+
+Si además de los delitos previstos en este capítulo resultase cometido otro, se aplicarán las reglas de acumulación.
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -1682,6 +1692,10 @@ Se aplicarán prisión de seis meses a dos años y multa de cincuenta a mil peso
 ###### ARTICULO 202.
 
 Queda prohibido emplear a menores de dieciocho años en cantinas, tabernas y centros de vicio. La contravención a esta disposición se castigará con prisión de tres días a un año, multa de veinticinco a quinientos pesos y, además, con cierre definitivo del establecimiento en caso de reincidencia. Incurrirán en la misma pena los padres o tutores que acepten que sus hijos o menores, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
+
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 1966)</small>
+
+Para los efectos de este precepto se considerará como empleado en la cantina, taberna y centro de vicio al menor de dieciocho años que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumento, o gratuitamente, preste sus servicios en tal lugar.
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
@@ -1703,7 +1717,7 @@ Los delincuentes de que se trata en este capítulo quedarán inhabilitados para 
 
 ###### ARTICULO 205.
 
-El delito de corrupción de menores sólo se castigará cuando se consumen los hechos materiales que lo constituyen.
+(DEROGADO, D.O.F. 14 DE ENERO DE 1966)
 
 ### CAPITULO II. Rapto
 
@@ -1723,11 +1737,13 @@ II.- Al que induzca o solicite a una persona para que con otra, comercie sexualm
 
 III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbulos, casas de cita o lugares de concurrencia expresamente dedicados a explotar la prostitución, u obtenga cualquier beneficio con sus productos.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
+
 ### CAPITULO III. Incesto
 
 ###### ARTICULO 208.
 
-Al que habitual o accidentalmente encubra, concierte o permita el comercio carnal de una menor de edad, se le aplicará la sanción señalada en el artículo 201.
+Cuando la mujer cuyo cuerpo sea explotado por medio del comercio carnal, sea menor de edad, se aplicará al que encubra, concierte o permita dicho comercio, pena de cinco a diez años de prisión y multa de mil a cinco mil pesos.
 
 ###### ARTICULO 209.
 
@@ -3482,3 +3498,7 @@ UNICO.- La presente reforma entrará en vigor cinco días después de su publica
 D.O.F. 13 DE ENERO DE 1965.
 
 UNICO.- Esta reforma entrará en vigor tres días después a la de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 14 DE ENERO DE 1966.
+
+UNICO.- Estas reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
