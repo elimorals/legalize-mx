@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-planeacion-del-estado-de-san-luis-potosi-7949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-04-30"
-last_updated: "1996-08-14"
+last_updated: "2001-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE PLANEACION DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1996.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PLANEACION DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, PUBLICADA EN P.O. 24 DE NOVIEMBRE DE 2001.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el 30 de abril de 1985.
 
@@ -492,3 +494,15 @@ P.O. 14 DE AGOSTO DE 1996.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE NOCIEMBRE DE 2001.
+
+PRIMERO. El presente Decreto entrará en vigor el día 1 de enero de 2002.
+
+SEGUNDO. Se deroga la Ley de Planeación del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 30 de abril de 1985.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. El Ejecutivo y los ayuntamientos del Estado, si resultara necesario, deberán modificar sus respectivos Planes de Desarrollo, conforme a los lineamientos que establece este ordenamiento, dentro del año siguiente a la entrada en vigor del presente Decreto.
+
+QUINTO. El Ejecutivo del Estado emitirá el Reglamento de esta Ley y los demás que se deriven de la misma, los cuales deberán ser publicados en el Periódico Oficial del Estado, dentro de los seis meses siguientes a la entrada en vigor de la presente Ley.
