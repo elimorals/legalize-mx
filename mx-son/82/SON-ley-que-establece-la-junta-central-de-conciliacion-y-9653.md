@@ -4,7 +4,7 @@ identifier: "SON-ley-que-establece-la-junta-central-de-conciliacion-y-9653"
 country: "mx"
 rank: "ley"
 publication_date: "1918-10-10"
-last_updated: "1927-05-14"
+last_updated: "1927-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE ESTABLECE LA JUNTA CENTRAL DE CONCILIACION Y ARBITRAJE Y LAS JUNTAS MUNICIPALES DE CONCILIACION
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE MAYO DE 1927.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE NOVIEMBRE DE 1927.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el jueves 10 de octubre de 1918.
 
@@ -85,7 +85,7 @@ El representante del Gobierno del Estado tendrá el carácter de Presidente de l
 
 Los patronos y obreros de todo el Estado, que existiesen constituidos o no en Sindicato o Sindicatos, nombrarán sus representantes respectivamente, de modo que unos y otros queden designados el día 1° de enero de cada año.
 
-> <small>(REFORMADO, B.O. 18 DE NOVIEMBRE DE 1925)</small>
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1927)</small>
 
 ###### Art. 10.
 
@@ -139,7 +139,9 @@ En los asuntos que sean de competencia exclusiva de la Junta Central, ésta func
 
 Son atribuciones y facultades de las Juntas Municipales de Conciliación:
 
-I.- Conocer de los conflictos que surjan entre trabajadores y patronos en materia de contrato de trabajo, jornada, salario, responsabilidad por accidentes y enfermedades profesionales, huelga y cualquier otro relacionado con la Ley del Trabajo, siempre que esos conflictos afecten solamente los intereses de un Municipio.
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 16 DE NOVIEMBRE DE 1927)</small>
+
+I.- Conocer de los conflictos que surjan entre trabajadores y patrones en materia de contrato de trabajo, jornada, salario, responsabilidad por accidentes y enfermedades profesionales, huelga y cualesquiera otro relacionado con la Ley del Trabajo, siempre que esos conflictos afecten solamente los intereses de un Municipio, excepto el caso en que el mismo Municipio se halle interesado directamente en el asunto o conflicto que se ventile, en cuyo caso habrá de inhibirse para que la Junta Central conozca el asunto en vía de conciliación.
 
 II.- Cuando los conflictos que expresa la fracción anterior, sean de la competencia de la Junta Central, iniciar la investigación de ellos y someterlos a la resolución de aquélla; y
 
@@ -151,7 +153,9 @@ Son atribuciones y facultades de la Junta Central de Conciliación y Arbitraje d
 
 I.- Ejercer jurisdicción sobre las Juntas Municipales de Conciliación y sobre las comisiones especiales del Salario Mínimo.
 
-II.- Conocer y resolver los conflictos entre trabajadores y patronos en materia de contrato de trabajo, jornada, salario, responsabilidad por accidentes y enfermedades profesionales, huelgas y cualesquiera otros relacionados con la Ley del Trabajo, cuando estos conflictos afecten los intereses de dos o más Municipios.
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 16 DE NOVIEMBRE DE 1927)</small>
+
+II.- Conocer y resolver los conflictos entre trabajadores y patronos en materia de contrato de trabajo, jornada, salario, responsabilidad por accidentes y enfermedades profesionales, huelgas y cualesquiera otros relacionados con la Ley del Trabajo, y conocer también de los mismos asuntos en la vía conciliatoria primeramente, cuando tales conflictos afecten los intereses de dos o más Municipios o cuando un Municipio se halle en el caso previsto en la parte final de la Fracción I del Artículo 20.
 
 III.- Aprobar los Reglamentos de las fábricas, talleres, establecimientos industriales, etc.
 
@@ -159,9 +163,11 @@ IV.- Inscribir los Sindicatos de patronos y obreros, así como borrarlos de la i
 
 V.- Los demás que les fijen las Leyes.
 
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1927)</small>
+
 ###### Art. 22.
 
-En cualquier caso en que deba conocer una Junta Municipal de Conciliación, de conformidad con la Ley del Trabajo, el patrón y el trabajador interesados, ocurrirán al Presidente Municipal para que éste proceda a la integración e instalación de la Junta en los términos de los artículos relativos.
+En cualquier caso en que deba conocer la Junta Municipal de Conciliación, de conformidad con la Ley del Trabajo, el patrono o trabajador interesado, ocurrirán al Presidente Municipal para que éste proceda a la integración e instalación de la Junta, en los términos de los artículos relativos.
 
 ###### Art. 23.
 
@@ -259,6 +265,12 @@ Hecha la declaración a que se refiere el artículo anterior, la Junta Central o
 
 Transcurrido el término a que se refiere el artículo anterior, la Junta pronunciará su laudo dentro de los ocho días siguientes.
 
+> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1927)</small>
+
+###### Art. 40 Bis.
+
+Todas las notificaciones a las partes contendientes se harán por conducto de los Síndicos Municipales, como Presidentes de las respectivas Juntas de Conciliación de cada Municipio excepto en la Capital del Estado, en donde lo (sic) Junta Central deberá hacerlas directamente a los interesados. Cuando el demandante o demandados se ausenten o se ignore su domicilio, las notificaciones se harán mediante avisos que se publicarán en un periódico de la localidad y en el Boletín Oficial del Estado, cuya publicación deberá hacerse por tres veces con intervalos de ocho días, y si terminada esta formalidad y el plazo que la Junta General otorgue al notificado, éste no se presenta o manifiesta por escrito haber oído la notificación, la Junta Central la dará por hecha a fin de que los procedimientos subsiguientes continúen su curso.
+
 ###### Art. 41.
 
 El laudo se pronunciará a mayoría de votos y se redactará por escrito, con expresión de las razones que lo funden y de la resolución, en puntos concretos sobre todas las cuestiones discutidas.
@@ -277,11 +289,15 @@ Tanto las Juntas Municipales como la Central, en sus respectivos casos, proceder
 
 ### CAPITULO VII.. Comisiones Especiales del Salario Mínimo
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 16 DE NOVIEMBRE DE 1927)</small>
+
 ###### Art. 44.
 
-En cada una de las Comisiones Municipales del Estado se formarán Comisiones Especiales de patronos y trabajadores, que tendrán por obligación la de fijar el salario mínimo de que deban disfrutar los jornaleros en los distintos ramos del trabajo.
+En cada una de las Municipalidades del Estado se formarán Comisiones Especiales de patronos y trabajadores que tendrán por obligación la de fijar el salario mínimo de que deben disfrutar los jornaleros en los distintos ramos del trabajo.
 
 La Junta Central fijará en todos los casos el número de comisionados que integrarán las Comisiones Especiales del Salario Mínimo.
+
+Siempre que ordene la Junta Central de Conciliación y Arbitraje, la integración de las Comisiones del Salario Mínimo, el Presidente Municipal del lugar, otorgará a patronos y obreros un plazo de 8 (ocho) días para que nombren sus representantes, y en caso de que algunas de las partes dejare de hacerlo, los nombrará el Presidente Municipal.
 
 ###### Art. 45.
 
@@ -374,3 +390,9 @@ Segundo.- Esta Ley comenzará a surtir sus efectos desde la fecha de su publicac
 B.O. 14 DE MAYO DE 1927.
 
 UNICO.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 16 DE NOVIEMBRE DE 1927.
+
+Primero.- Se deroga el artículo 10 de la Ley número 11 de 6 de noviembre de 1925.
+
+Segundo.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
