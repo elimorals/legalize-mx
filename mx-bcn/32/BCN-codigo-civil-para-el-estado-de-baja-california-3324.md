@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1979-06-30"
+last_updated: "1979-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1979.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -623,7 +623,7 @@ Al margen del acta se imprimirán las huellas digitales de los contrayentes.
 
 ###### ARTICULO 101.
 
-Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquellos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la Facción IV del artículo 95, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
+Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquellos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la Fracción IV del artículo 95, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
 
 ###### ARTICULO 102.
 
@@ -10925,11 +10925,13 @@ De dicho instrumento se formarán dos originales, uno para el comprador y el otr
 
 Si el valor del inmueble excede de sesenta y cinco mil pesos, su venta se hará en Escritura Pública, salvo lo dispuesto por el artículo 2191.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+
 ###### ARTICULO 2195.
 
-Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de cinco mil pesos, cuando la venta sea al contado puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
+Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de sesenta y cinco mil pesos, cuando la venta sea al contado puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor, a cuyo favor estén inscritos los bienes.
 
-El endoso será ratificado ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma, hará una nueva inscripción de los bienes, vendidos en favor del comprador.
+El endoso será ratificado ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma, hará una nueva inscripción de los bienes vendidos, en favor del comprador.
 
 ###### ARTICULO 2196.
 
@@ -14345,13 +14347,13 @@ En los casos previstos en las dos Fracciones anteriores, se tomará razón del a
 
 XII.- Las resoluciones judiciales en que se declare un concurso o se admita una cesión de bienes;
 
-XIII.- El testimonio de las informaciones ad perpetuam promovidas y protocolizadas de acuerdo con lo que disponga el Código de Procedimientos Civiles;
+XIII.- El testimonio de las informaciones ad perpétuam promovidas y protocolizadas de acuerdo con lo que disponga el Código de Procedimientos Civiles;
 
 XIV.- Los demás títulos que la Ley ordene expresamente que sean registrados.
 
 ###### ARTICULO 2870.
 
-Los documentos que conforme a esta Ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuanto le fueren favorables.
+Los documentos que conforme a esta Ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuánto le fueren favorables.
 
 ###### ARTICULO 2871.
 
@@ -14720,3 +14722,9 @@ P.O. 30 DE JUNIO DE 1979.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 1979.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
