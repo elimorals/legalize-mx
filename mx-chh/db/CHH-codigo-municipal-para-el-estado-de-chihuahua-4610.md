@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2002-07-20"
+last_updated: "2002-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2002.
-
-REPUBLICADO EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2002.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -861,7 +859,7 @@ II.- Los Comisarios de Policía.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1998)</small>
 
-la elección se realizará de acuerdo con lo establecido en el artículo 44 de este Código, por planillas en que se mencionen los nombres y apellidos de propietarios y suplentes.
+La elección se realizará de acuerdo con lo establecido en el artículo 44 de este Código, por planillas en que se mencionen los nombres y apellidos de propietarios y suplentes.
 
 ###### ARTICULO 38.
 
@@ -1107,7 +1105,13 @@ VIII.- Adopción de forma de Gobierno o base de organización política, distint
 
 IX.- Incapacidad física que impida el desempeño del cargo para el cual fue electo o legal judicialmente declarada; en ambas la incapacidad deberá ser permanente.
 
-En estos casos se aplicará, en lo conducente, lo dispuesto en los artículos 53 y 54 de este Código. En la hipótesis de que la totalidad de los integrantes del Ayuntamiento se encuentren en alguno de los supuestos previstos en las fracciones anteriores, se estará a lo dispuesto en el artículo 59 de este Código.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2002)</small>
+
+En estos casos se aplicará, en lo conducente, lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua. La resolución correspondiente requerirá el acuerdo de por lo menos las dos terceras partes de los integrantes del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2002)</small>
+
+En la hipótesis de que la totalidad de los integrantes del Ayuntamiento se encuentre en alguno de los supuestos previstos en las fracciones anteriores, se estará a lo dispuesto en el artículo 59 de este Código.
 
 ###### ARTICULO 58.
 
@@ -2161,7 +2165,9 @@ a).- Los propietarios, que hubiesen prometido en venta o hubieren vendido con re
 
 b).- Los comisariados ejidales o comunales, en los términos de la legislación agraria;
 
-c).- Los servidores públicos, que dolosamente expidan constancias de no adeudo del Impuesto Predial;
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2002)</small>
+
+c).- Los servidores públicos, que dolosamente expidan constancias de no adeudo del Impuesto Predial o cuya conducta consistente en la omisión por dos o más veces del cobro de este Impuesto, cause daños o perjuicios a la Hacienda Pública Municipal;
 
 d).- Los propietarios, poseedores, copropietarios o coposeedores, respecto de los créditos fiscales derivados del bien o derecho en común o individual y hasta por el monto del valor de éste, respecto de las prestaciones fiscales que en cualquier tiempo se hubieren causado;
 
@@ -2266,6 +2272,10 @@ A requerimiento de la autoridad, el contribuyente deberá acreditar dicha condic
 El pago del impuesto será bimestral, debiendo efectuarse dentro del período que comprende cada bimestre.
 
 Para los efectos de este Artículo, el año se entiende dividido en seis bimestres: Enero-Febrero, Marzo-Abril, Mayo-Junio, Julio-Agosto, Septiembre-Octubre y Noviembre-Diciembre.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2002)</small>
+
+Corresponde a la Tesorería Municipal realizar el cobro del Impuesto Predial, de conformidad con lo establecido en el presente ordenamiento y su incumplimiento será causa de responsabilidad administrativa.
 
 ###### ARTICULO 152.
 
@@ -2847,7 +2857,7 @@ La suspensión, podrá ser solicitada en cualquier tiempo ante la autoridad ejec
 
 La tramitación de los recursos administrativos, en contra de actos de las autoridades municipales, se sujeta al procedimiento siguiente:
 
-I.- Se interpondrá por sí o por representante legalmente investido ante el Secretario Municipal, por escrito expresando: El nombre del recurrente; domicilio para ser notificado en la cabecera del Municipio; señalamiento del acto impugnado; los agravios que el mismo le causa y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido el interesado tuvo oportunidad razonable de rendir pruebas, sólo serán admisibles las que hubiere ofrecido y no se hubieren desahogado por causas no imputables a él y las supervenientes;
+I.- Se interpondrá por sí o por representante legalmente investido ante el Secretario Municipal, por escrito expresando: El nombre del recurrente; domicilio para ser notificado en la cabecera del Municipio; señalamiento del acto impugnado; los agravios que el mismo le causa y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido el interesado tuvo oportunidad razonable de rendir pruebas, sólo serán admisibles las que hubiere ofrecido y no se hubieran desahogado por causas no imputables a él y las supervenientes;
 
 II.- El escrito deberá presentarse dentro de los quince días siguientes, al en que surta efectos la notificación del acto que se impugna. No será admisible la interposición de recursos por medio del correo;
 
@@ -3228,3 +3238,9 @@ REPUBLICADO, P.O. 31 DE JULIO DE 2002.
 DECRETO No. 315 /02 II P.O.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE AGOSTO DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Estado.
