@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "1998-01-17"
+last_updated: "1999-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -603,7 +603,7 @@ XVI. Comunicar por escrito al titular de la Dependencia o Entidad de la que pres
 
 XVII. Abstenerse de ejercer las funciones de un empleo, cargo o comisión, después de concluido el período para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
 
-XVIII. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, sin causa justificada, a sus labores por más de quince días contínuos o treinta discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
+XVIII. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, sin causa justificada, a sus labores por más de quince días continuos o treinta discontínuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
 
 XIX. Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la ley le prohíba;
 
@@ -652,6 +652,16 @@ XI. Proporcionar servicios médicos, quirúrgicos, hospitalarios, farmacéuticos
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
 XII. Otorgar las jubilaciones conforme lo dispone la Ley de Pensiones para el estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
+Art. 56 bis. Ninguna entidad pública podrá:
+
+I.- Exigir la presentación de certificados médicos de ingravidez a las mujeres que aspiren a un empleo en el servicio público.
+
+II.- Negar la admisión a un empleo sólo por el hecho de ser mujer, estar embarazada, pertenecer a un estado civil determinado o estar al cuidado de hijos menores;
+
+III.- Provocar el despido o la renuncia de las mujeres trabajadoras por cualquier causa distinta a las mencionadas en el numeral 22 de este ordenamiento, y las demás leyes aplicables.
 
 ### CAPITULO I. De los sindicatos
 
@@ -1370,3 +1380,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 17 DE ENERO DE 1998.
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 20 DE NOVIEMBRE DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
