@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1931-12-31"
+last_updated: "1932-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1931.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 1932.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -253,6 +253,8 @@ Toda resolución del Congreso tendrá el carácter de Ley o Decreto. Las Leyes o
 
 ### CAPITULO QUINTO. DE LA DIPUTACION PERMANENTE Y SUS ATRIBUCIONES
 
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 1932)</small>
+
 ###### Artículo 30.
 
 Son atribuciones del Congreso:
@@ -433,7 +435,7 @@ El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Cong
 
 ###### Artículo 42.
 
-Durante los recesos del Congreso, funcionará una Diputación Permanente compuesta de cinco Diputados.
+Durante los recesos del H. Congreso funcionará una Diputación Permanente compuesta de tres Diputados.
 
 ###### Artículo 43.
 
@@ -1062,6 +1064,10 @@ La reforma de los artículos 20 y 21 constitucionales, entrará en vigor al veri
 D.O. 31 DE DICIEMBRE DE 1931.
 
 Este decreto entrará en vigor el día primero de enero del año de mil novecientos treinta y dos.
+
+D.O. 30 DE MARZO DE 1932.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
 ###### ARTICULO UNICO.
 
