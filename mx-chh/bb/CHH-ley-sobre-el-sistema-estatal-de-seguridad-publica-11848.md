@@ -4,7 +4,7 @@ identifier: "CHH-ley-sobre-el-sistema-estatal-de-seguridad-publica-11848"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-27"
-last_updated: "1998-12-30"
+last_updated: "1999-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 1999.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de junio de 1998.
 
@@ -1445,4 +1445,12 @@ PRIMERO.- El presente decreto entrará en vigor el día primero de enero del añ
 
 SEGUNDO.- El Ejecutivo Estatal, dentro del término de diez días contados a partir de que entre en vigor el presente decreto, expedirá el Reglamento respectivo a los artículos 124-A, 124-B, 124-C y 124-D para proveer al exacto cumplimiento de los mismos.
 
-TERCERO.- Los propietarios o poseedores de vehículos extranjeros deberán inscribirse en el padrón a que el presente decreto se refiere, dentro del término de tres meses contados a partir de la fecha en que entre en vigor el reglamento respectivo a los artículos 124-A, 124-B, 124-C y 124-D de la Ley sobre el Sistema Estatal de Seguridad Pública.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1999)</small>
+
+TERCERO.- Los propietarios o poseedores de vehículos extranjeros deberán inscribirse en el padrón a que el presente Decreto se refiere, dentro del término de cuatro meses contados a partir de la fecha en que entre en vigor el Reglamento respectivo a los Artículos 124-A, 124-B, 124-C y 124-D de la Ley Sobre el Sistema Estatal de Seguridad Pública.
+
+P.O. 31 DE MARZO DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
