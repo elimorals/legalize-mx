@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-2594"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-08-07"
-last_updated: "1995-07-30"
+last_updated: "1997-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 1997.
 
 Código publicado en el Suplemento al Número 32 del Periódico Oficial del Estado de Aguascalientes, el 7 de agosto de 1994.
 
@@ -1441,7 +1441,9 @@ IX.- Obtener el constructor o vendedor de edificios en condominio, casas o habit
 
 X.- Obtener dinero, valores, dádivas u obsequios el servidor público, de un organismo descentralizado, de una empresa de participación estatal o de cualquier agrupación sindical, que valiéndose de sus relaciones con otros servidores públicos o dirigentes de tales organismos, prometa al sujeto pasivo un trabajo, un ascenso, un aumento de salario u otras prestaciones de tales organismos, sin cumplir con ello;
 
-XI.- Obtener para sí o para otro, un lucro o ganancia evidentemente desproporcionados, en relación con las tasas de interés vigentes en el sistema financiero nacional, al realizar contratos o convenios aprovechándose de la necesidad apremiante, ignorancia o inexperiencia del sujeto pasivo;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 1997)</small>
+
+XI.- Obtener para sí o para otro, un interés superior al permitido por el Artículo 2266 del Código Civil para el Estado, al realizar cualquier tipo de contrato o convenio de carácter civil;
 
 XII.- Alterar cuentas o condiciones de los contratos; hacer operaciones o gastos inexistentes o exagerar los reales; ocultar o retener valores o emplearlos indebidamente, el que por cualquier razón tuviere a su cargo la administración o cuidado de bienes ajenos, perjudicando al titular de éstos;
 
@@ -2496,3 +2498,7 @@ P.O. 30 DE JULIO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MARZO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
