@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1977-12-26"
+last_updated: "1978-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 1978.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -752,11 +752,11 @@ c) Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes:
 
 d).- Sujetarse a las medidas de orientación y supervisión que se le dicten y a la vigilancia de alguna persona honrada y de arraigo, que se obligue a informar sobre su conducta, presentándolo siempre que para ello fuere requerida.
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 85.
 
-La libertad preparatoria no se concederá a los condenados por delito contra la salud en materia de estupefacientes, ni a los habituales, ni a quienes hubieren incurrido en segunda reincidencia.
+La libertad preparatoria no se concederá a los condenados por alguno de los delitos contra la salud en materia de estupefacientes o psicotrópicos previstos en el artículo 197, ni a los habituales o a los que hubieren incurrido en segunda reincidencia.
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -1674,61 +1674,65 @@ II. Las sustancias y vegetales considerados como estupefacientes por la ley, con
 
 III.- Los psicotrópicos a que se refiere la fracción III del artículo 321 del Código Sanitario.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 194.
 
-Se impondrán prisión de dos a nueve años y multa de un mil a diez mil pesos a quien siembre, cultive o coseche plantas de cannabis o mariguana.
+Si a juicio del Ministerio Público o del Juez competentes, que deberán actuar para todos los efectos que se señalan en este Artículo con el auxilio de peritos, la persona que adquiera o posea para su consumo personal substancias o vegetales de los descritos en el Artículo 193 tiene el hábito o la necesidad de consumirlos, se aplicarán las reglas siguientes:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+I.- Si la cantidad no excede de la necesaria para su propio e inmediato consumo, el adicto o habitual sólo será puesto a la disposición de las autoridades sanitarias para que bajo la responsabilidad de estas sea sometido al tratamiento y a las demás medidas que procedan.
+
+II.- Si la cantidad excede de la fijada conforme al inciso anterior, pero no de la requerida para satisfacer las necesidades del adicto o habitual durante un término máximo de tres días, la sanción aplicable será la de prisión de dos meses a dos años y multa de quinientos a quince mil pesos.
+
+III.- Si la cantidad excede de la señalada en el inciso que antecede, se aplicarán las penas que correspondan conforme a este capítulo.
+
+IV.- Todo procesado o sentenciado que sea adicto o habitual quedará sujeto a tratamiento. Asimismo, para la concesión de la condena condicional o del beneficio de la libertad preparatoria, cuando procedan, no se considerará como antecedente de mala conducta el relativo al hábito o adición, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento adecuado para su curación, bajo la vigilancia de la autoridad ejecutora.
+
+Se impondrán prisión de seis meses a tres años y multa hasta de quince mil pesos al que no siendo adicto a cualquiera de las substancias comprendidas en el artículo 193, adquiera o posea alguna de éstas por una sola vez, para su uso personal y en cantidad que no exceda de la destinada para su propio e inmediato consumo.
+
+Si alguno de los sujetos que se encuentran comprendidos en los casos a que se refieren los incisos I y II del primer párrafo de este Artículo, o en el párrafo anterior, suministra, además, gratuitamente, a un tercero, cualquiera de las substancias indicadas, para uso personal de este último y en cantidad que no exceda de la necesaria para su consumo personal e inmediato, será sancionado con prisión de dos a seis años y multa de dos mil a veinte mil pesos, siempre que su conducta no se encuentre comprendida en la fracción IV del Artículo 197.
+
+La simple posesión de cannabis o mariguana, cuando tanto por la cantidad como por las demás circunstancias de ejecución del hecho, no pueda considerarse que está destinada a realizar alguno de los delitos a que se refieren los artículos 197 y 198 de este Código, se sancionará con prisión de dos a ocho años y multa de cinco mil a veinticinco mil pesos.
+
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 195.
 
-Se castigará con prisión de seis meses a tres años y multa hasta de cinco mil pesos al que no siendo adicto a la cannabis o mariguana o a cualquiera de las sustancias consideradas en las fracciones II y III del artículo 193, adquiera o posea alguna de éstas por una sola vez, en cantidad tal que esté destinada a su propio e inmediato consumo. Si el mismo sujeto además suministra gratuitamente a un tercero cualquiera de las sustancias indicadas, para su propio e inmediato consumo será sancionado con dos a seis años de prisión y multa de un mil a diez mil pesos, siempre que la conducta no se encuentre comprendida en la fracción IV del artículo 198.
+Se impondrá prisión de dos a ocho años y multa de mil a veinte mil pesos a quien por cuenta o con financiamiento de terceros siembre, cultive o coseche plantas de cannabis o mariguana, siempre que en él concurran escasa instrucción y extrema necesidad económica. Las mismas sanciones se impondrán a quien permita, en iguales circunstancias que en el caso anterior, que en un predio de su propiedad, tenencia o posesión, se cultiven dichas plantas.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 196.
 
-Cuando con motivo de su actividad los farmacéuticos, boticarios, droguistas, laboratoristas o personas relacionadas con la medicina en alguna de sus ramas, ejecuten alguno de los actos señalados en la fracción I del artículo 198, con cualquiera de las sustancias consideradas como estupefacientes o psicotrópicos por el artículo 193, las sanciones serán las siguientes:
+Se impondrá prisión de dos a ocho años y multa de mil a veinte mil pesos a quien, no siendo miembro de una asociación delictuosa, transporte cannabis o mariguana, por una sola ocasión siempre que la cantidad no exceda de cien gramos.
 
-I. Prisión de cinco años tres meses a doce años y multa de cinco mil a cincuenta mil pesos.
-
-II. Inhabilitación para el ejercicio de las actividades a que se refiere el párrafo inicial por un plazo equivalente al de la sanción corporal que se imponga. Este plazo empezará a contar una vez que haya cumplido la sanción privativa de libertad.
-
-III. Suspensión definitiva de las actividades del establecimiento utilizado para realizar cualquiera de los actos, si el responsable es el propietario.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 197.
 
-Al que importe o exporte ilegalmente estupefacientes o psicotrópicos, se le impondrán de siete a quince años de prisión y multa de cinco mil a cincuenta mil pesos, sin perjuicio de aplicarle, en su caso, las sanciones a las que se refieren las fracciones II y III del artículo anterior.
+Fuera de los casos comprendidos en los artículos anteriores:
 
-Las mismas sanciones se impondrán al funcionario o empleado público aduanal que permitiere la introducción o la salida del país de cualquiera de tales sustancias, con violación de las prescripciones contenidas en el Código Sanitario de los Estados Unidos Mexicanos, en los convenios o tratados internacionales suscritos por México o que en lo sucesivo suscriba, en las leyes o disposiciones sanitarias, o en cualquier otra ley.
+Se impondrá prisión de siete a quince años y multa de diez mil a un millón de pesos:
 
-Para los efectos de este artículo se entenderá por importación y exportación, respectivamente, el transporte material de estupefacientes de un país al territorio nacional o de éste a otro país.
+I.- Al que siembre, cultive, coseche, manufacture, fabrique, elabore, prepare, acondicione, posea, transporte, venda, compre, adquiera, enajene o trafique en cualquier forma, comercie, suministre aun gratuitamente, o prescriba vegetales o substancias de los comprendidos en cualquiera de las fracciones del artículo 193, sin satisfacer los requisitos fijados por las normas a que se refiere el primer párrafo del propio artículo.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+II.- Al que ilegalmente introduzca o saque del país vegetales o substancias de los comprendidos en cualquiera de las fracciones del artículo 193, aunque fuere en forma momentánea o en tránsito, o realice actos tendientes a consumar tales hechos.
+
+Las mismas sanciones se impondrán al funcionario o empleado público que permita o encubra los hechos anteriores o los tendientes a realizarlos.
+
+III.- Al que aporte recursos económicos o de cualquier especie, o colabore de cualquier manera al financiamiento, para la ejecución de alguno de los delitos a que se refiere este capítulo.
+
+IV.- Al que realice actos de publicidad, propaganda, provocación general, proselitismo, instigación o auxilio ilegal a otra persona para que consuma cualquiera de los vegetales o substancias comprendidos en el artículo 193.
+
+Si el agente aprovechare su ascendiente o autoridad sobre la persona instigada, inducida o auxiliada, las penas se aumentarán en una tercera parte. Los farmacéuticos, boticarios, droguistas, laboratoristas, médicos, químicos, veterinarios y personal relacionado con la medicina en algunas de sus ramas, así como los comerciantes que directamente o a través de terceros cometan cualquiera de los delitos previstos en este capítulo, además de las penas que les correspondan, serán inhabilitados para el ejercicio de su profesión, oficio o actividad, por un plazo que podrá ser hasta el equivalente de la sanción corporal que se les imponga y que se empezará a contar una vez que se haya cumplido esta última. Si reincidieren, además del aumento de la pena derivada de esta circunstancia, la inhabilitación será definitiva.
+
+Si el propietario de un establecimiento de cualquier naturaleza lo empleare para realizar alguno de los delitos previstos en este capítulo o permitiere su realización por terceros, además de la sanción que deba aplicársele, según el caso, se clausurará en definitiva aquel establecimiento.
+
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 198.
 
-Fuera de los actos previstos en los artículos anteriores:
-
-I. Se impondrán prisión de cinco años tres meses a doce años y multa de cinco mil a cincuenta mil pesos, al que siembre, cultive, coseche, manufacture, fabrique, elabore, prepare, acondicione, almacene, posea, transporte, venda, compre, adquiera, enajene, o trafique en cualquier forma, comercie, suministre aún gratuitamente, o prescriba cualquiera de las sustancias o vegetales considerados en la fracción I del artículo 193, sin satisfacer los requisitos fijados por las normas a que se refiere el primer párrafo del propio artículo.
-
-II. Se castigará con las mismas penas de la fracción precedente al que aporte recursos económicos, o de otra especie, para la ejecución de cualquiera de los delitos a los que se refiere este Capítulo.
-
-III. Se impondrán prisión de tres a doce años y multa de tres mil a treinta mil pesos, al que realice ilícitamente alguna de las conductas señaladas en la fracción I de este precepto con cualquiera de las sustancias o vegetales considerados en la fracción II del artículo 193.
-
-IV. Se castigará con las penas que establece la fracción anterior al que realice actos de publicidad o propaganda, de provocación general, proselitismo, instigación o inducción, o auxilie a otra persona para que consuma estupefacientes o psicotrópicos, cualesquiera que fuere su naturaleza, o ejecute con ellos alguna de las conductas previstas en este Capítulo.
-
-Si la persona instigada, inducida o auxiliada fuere menor de dieciocho años o estuviere incapacitada por otra causa, o si el agente aprovechase su ascendiente o autoridad para ello, la pena será, además de la multa establecida, de cinco años tres meses a doce años de prisión.
-
-V. Se impondrán prisión de seis meses a ocho años y multa de dos mil a veinte mil pesos, al que ejecute ilícitamente cualquiera de los actos a los que se refiere la fracción I de este precepto, empleando alguna de las sustancias o vegetales considerados en la fracción III del artículo 193.
-
-Si el propietario de un establecimiento lo empleare para realizar cualquiera de los actos delictivos señalados en este artículo, y sin perjuicio de la sanción que deba aplicársele según el caso, se suspenderán en definitiva las actividades del mencionado establecimiento.
-
-No es delito la adquisición o posesión de estupefacientes o psicotrópicos por parte de quien tenga el hábito o la necesidad de consumirlos, siempre y cuando sea en la cantidad estrictamente necesaria para su propio consumo. En este caso quedará sujeto a las medidas de seguridad que señala el inciso 3 del artículo 24 de este Código.
+Cuando alguno de los delitos previstos en este capítulo se cometiere por funcionarios, empleados o agentes de la autoridad, encargados de vigilar, prevenir o reprimir el tráfico ilegal de los vegetales o substancias comprendidos en el artículo 193, así como cuando la víctima fuere menor de dieciocho años o estuviere de hecho incapacitada por otra causa, o el delito se cometiere en centros educativos, asistenciales o penitenciarios o en sus inmediaciones, la sanción que en su caso resulte aplicable se aumentará en una tercera parte.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -3817,6 +3821,12 @@ D.O.F. 26 DE DICIEMBRE DE 1977.
 ###### ARTICULO UNICO.
 
 Estas reformas entrarán en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 8 DE DICIEMBRE DE 1978.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO 2o.
 
