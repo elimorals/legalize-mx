@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-trabajadores-al-servicio-de-los-poderes-4139"
 country: "mx"
 rank: "ley"
 publication_date: "1979-09-11"
-last_updated: "1979-09-11"
+last_updated: "1984-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1984.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 11 de septiembre de 1979.
 
@@ -237,7 +237,9 @@ ARTICULO TRIGESIMO OCTAVO.- AUMENTOS PERIODICOS.- De ser posible se otorgarán a
 
 ARTICULO TRIGESIMO NOVENO.- LUGAR DE PAGO.- Los pagos de sueldos se harán precisamente en el lugar de prestación de servicio del trabajador, en moneda del curso legal o mediante cheque.
 
-ARTICULO CUADRAGESIMO.- AGUINALDO.- Se pagará a los trabajadores entre el 15 y el 20 de Diciembre un aguinaldo anual equivalente al importe de 15 días de salarios. El que no tenga un año de servicios recibirá la parte proporcional al tiempo trabajado.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1984)</small>
+
+ARTICULO CUADRAGESIMO.- AGUINALDO.- Se pagará a los trabajadores entre el 15 y el 20 de diciembre un aguinaldo anual equivalente al importe de 45 días de salarios. El que no tenga un año de servidos recibirá parte proporcional al tiempo trabajado.
 
 ARTICULO CUADRAGESIMO PRIMERO.- Los plazos para el pago de sueldo no serán mayores de 15 días.
 
@@ -786,3 +788,9 @@ Dado en el Palacio del Poder Legislativo del Estado, en Campeche, a los diez dí
 Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los diez días del mes de Septiembre del año de mil novecientos setenta y nueve.- El Gobernador Constitucional del Estado, LIC. RAFAEL RODRIGUEZ BARRERA.- El Secretario General de Gobierno, LIC. FERNANDO TRUEBA BROWN.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 1984.
+
+UNICO- El presente Decreto iniciará su vigencia el día primero de enero de 1985.
