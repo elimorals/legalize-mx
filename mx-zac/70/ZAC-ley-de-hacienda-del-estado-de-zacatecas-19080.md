@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2000-12-30"
+last_updated: "2002-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -87,9 +87,11 @@ La presente Ley tiene por objeto regular la percepción de los ingresos que anua
 
 Los ingresos que se establecen en esta ley, se regularán además en forma supletoria, por la legislación fiscal de la Entidad.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 3.
 
-Cuando en esta Ley y en otras disposiciones de carácter fiscal se haga mención a cuotas, se entenderá que se refiere al importe del salario mínimo general vigente en el Estado de Zacatecas.
+Cuando en esta Ley y en otras disposiciones de carácter fiscal se haga mención a cuotas, se entenderá que se refiere al Importe del salario mínimo general diario vigente de la Zona Geográfica a la que pertenece el Estado.
 
 ## TITULO II. DE LOS IMPUESTOS
 
@@ -107,9 +109,11 @@ Cuando parte de la operación se encuentre gravada por el Impuesto al Valor Agre
 
 DEL SUJETO
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 5.
 
-Son sujetos de este impuesto las personas físicas y morales que realicen las adquisiciones a que se refiere el artículo anterior dentro del territorio del Estado de Zacatecas.
+Son sujetos de este impuesto las personas físicas y morales que realicen las adquisiciones a que se refiere el artículo anterior.
 
 ###### ARTICULO 6.
 
@@ -157,7 +161,7 @@ I. Las adquisiciones de los Gobiernos Estatal y Municipal;
 
 II. Las adquisiciones de tractores para usos agropecuarios, bicicletas y carros de tracción animal;
 
-III. Los partidos políticos en los términos de la legislación electoral, federal y local;
+III. Los partidos políticos en los términos de la legislación electoral, federal y local.
 
 IV. Los jubilados, pensionados y personas con discapacidad permanente que certifique la Comisión Estatal para la Integración Social de las Personas con Discapacidad, en un 50 %.
 
@@ -185,7 +189,9 @@ DE LA BASE
 
 La base gravable para el cálculo del impuesto se integra con el monto total del pago de la contraprestación pactada a favor de quien preste el servicio, considerando sólo la renta por hospedaje sin incluir los alimentos y otros servicios.
 
-Este impuesto no se causará por el servicio de hospedaje o alojamiento prestado por hospitales, clínicas o sanatorios, conventos, asilos, seminarios, internados, orfanatos, casas de beneficencia o de asistencia social y casas de huéspedes sin fines turísticos.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+Este impuesto no se causará por el servicio de hospedaje o alojamiento prestado por hospitales, clínicas o sanatorios, conventos, asilos, internados, orfanatos, casas de beneficencia o de asistencia social y casas de huéspedes sin fines turísticos.
 
 DE LA TASA Y DEL PAGO
 
@@ -271,17 +277,21 @@ Este impuesto será destinado a subsidiar a la Universidad Autónoma de Zacateca
 
 DEL OBJETO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 28.
 
-Es objeto de este impuesto la realización de erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal subordinado, independientemente de la designación que se les otorgue, dentro del territorio del Estado.
+Son objeto de este impuesto las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal subordinado por los servicios prestados dentro del territorio del Estado, bajo la dirección o dependencia de un patrón o de un tercero que actúe en su nombre aún cuando éstos tengan su domicilio fuera de la entidad.
 
 Para los efectos de este impuesto, se consideran erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás prestaciones que se deriven de una relación laboral.
 
 DEL SUJETO
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 29.
 
-Son sujetos de este impuesto las personas físicas y morales que realicen las erogaciones a que se refiere el artículo anterior.
+Son sujetos de este impuesto las personas físicas, morales, las unidades económicas, la Federación y sus organismos descentralizados y desconcentrados, que realicen las erogaciones a que se refiere el artículo anterior.
 
 DE LA BASE
 
@@ -291,21 +301,23 @@ La base de este impuesto es el monto total de las erogaciones a que se refiere e
 
 DE LA TASA
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 31.
 
-Este impuesto se causará en el momento en que se realicen las erogaciones señaladas en el artículo 28, aplicando las siguientes tasas:
+Este impuesto se causará en el momento en que se realicen las erogaciones señaladas en el artículo 28, y se determinará aplicando la tasa del 1.9% a la base que al respecto se determina en el artículo que antecede.
 
-I. Las personas físicas y morales que tengan hasta 4 trabajadores 0.0%
+I. (DEROGADA, P.O. 2 DE ENERO DE 2002)
 
-II. Las personas físicas y morales que tengan de 5 a 10 trabajadores 1.0%
+II. (DEROGADA, P.O. 2 DE ENERO DE 2002)
 
-III. Las personas físicas y morales que tengan de 11 a 25 trabajadores 1.3%
+III. (DEROGADA, P.O. 2 DE ENERO DE 2002)
 
-IV. Las personas físicas y morales que tengan de 26 a 150 trabajadores 1.7%
+IV. (DEROGADA, P.O. 2 DE ENERO DE 2002)
 
-V. Las personas físicas y morales que tengan más de 150 trabajadores 1.9%
+V. (DEROGADA, P.O. 2 DE ENERO DE 2002)
 
-Para los efectos de este artículo, se determinará un promedio mensual con la sumatoria del número de trabajadores empleados cada día, entre el número de días del mes al que corresponda el pago.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 2 DE ENERO DE 2002)</small>
 
 DEL PAGO
 
@@ -329,21 +341,31 @@ c) Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte
 
 d) Indemnizaciones y primas por rescisión o terminación de la relación laboral que tenga su origen en la prestación de servicios personales subordinados.
 
-e) Pagos por gastos funerales.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
+
+e) Pagos por gastos funerales erogados en beneficios de los trabajadores.
 
 f) Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados en los mismos términos que para su deducibilidad requiera la Ley del Impuesto Sobre la Renta.
 
-g) Aportaciones al SAR, al INFONAVIT y cuotas al IMSS a cargo del patrón.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-h) El ahorro, cuando se integre por un depósito de cantidad semanaria o mensual igual del trabajador y de la empresa; y las cantidades otorgadas por el patrón para fines sociales y sindicales.
+g) Aportaciones al Sistema de Ahorro para el Retiro, al Instituto para el Fondo Nacional de Vivienda para los Trabajadores, al Instituto de Seguridad Social al Servicio de los Trabajadores del Estado y cuotas al Instituto Mexicano del Seguro Social a cargo del patrón.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+h) El ahorro, cuando se integre por un depósito de cantidad semanaria, quincenal o mensual igual del trabajador y de la empresa; siempre y cuando no se constituya en forma diversa ni pueda el trabajador retirarlo más de dos veces al año; y las cantidades otorgadas por el patrón para fines sociales de carácter sindical.
 
 i) Los premios por asistencia y puntualidad, siempre que el importe de cada uno de los conceptos no rebase el 10% del salario base.
 
 j) Los pagos por tiempo extraordinario, cuando éste no rebase las tres horas diarias, ni tres veces por semana de trabajo, ni cuando este tipo de servicios esté pactado en forma de tiempo fijo.
 
-k) La alimentación y habitación, cuando se otorguen en forma onerosa a trabajadores.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
 
-l) Prestaciones de servicio de comedor, bono de transporte, uniformes de trabajo y deportivos, festejos de convivios, becas para los trabajadores y sus familias, que se otorguen con carácter general y sean pagadas totalmente por el patrón.
+k) La alimentación y habitación cuando se otorguen en forma onerosa a los trabajadores; se entienden que son onerosas estas prestaciones cuando el trabajador pague por cada una de ellas como mínimo el 20% del salario mínimo general diario vigente que rija en la zona geográfica a la que pertenece el Estado.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
+
+l) Prestaciones de servicio de comedor, bono de transporte, uniformes de trabajo y deportivos, herramientas.
 
 m) Pagos a personas discapacitadas.
 
@@ -351,21 +373,53 @@ n) Primas de seguros por gastos médicos o de vida.
 
 ñ) El pago de aguinaldos o gratificaciones de fin de año:
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+
+o) El pago de despensas que haga el patrón a sus trabajadores en especie o en vales.
+
 II. Las erogaciones que efectúen:
 
-a) El Estado y los municipios.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
 
-b) Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas, reconocidas como tales por el Ejecutivo del Estado.
+a) El Estado, los municipios y la administración pública paraestatal y paramunicipal.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+b) Las Instituciones de asistencia o de beneficencia autorizadas por las leyes de la materia, así como las sociedades o asociaciones civiles autorizadas para recibir donativos en los términos de la Ley del Impuesto Sobre la Renta que, sin designar individualmente a los beneficiarios, tengan como actividades las que a continuación se señalan:
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+
+1.- Atención a personas que, por sus carencias socio económicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+
+2.- Atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo y discapacitados de escasos recursos.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+
+3.- La prestación de asistencia médica o jurídica, de orientación social, y de servicios funerarios a personas de escasos recursos, especialmente a menores, ancianos o discapacitados.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+
+4.- La readaptación social de personas que han llevado a cabo conductas ilícitas.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+
+5.- La rehabilitación de fármaco-dependientes de escasos recursos.
 
 c) Asociaciones de trabajadores, organismos empresariales que no realicen actividades lucrativas y colegios de profesionistas.
 
-d) Partidos políticos.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
+
+d) Partidos políticos y asociaciones políticas legalmente reconocidas.
 
 e) Instituciones educativas que cuenten con autorización o reconocimiento de validez oficial y con planes de estudio autorizados por las autoridades competentes.
 
 f) Quienes contraten servicio doméstico para casa-habitación.
 
-g) Uniones de Ejidos y comunidades.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
+
+g) Ejidos, comunidades, uniones de ejidos y de comunidades, la empresa social constituida por avecindados, ejidatarios o hijos de éstos.
 
 h) Las asociaciones rurales de interés colectivo.
 
@@ -379,15 +433,21 @@ Los contribuyentes de este impuesto, tendrán las siguientes obligaciones, adem�
 
 1) Presentar aviso de inscripción en la oficina recaudadora de rentas del Estado más cercana a su domicilio, dentro de los veinte días naturales siguientes a la fecha en que inicie las actividades por las cuales deba efectuar el pago de este impuesto, en las formas autorizadas para tal efecto.
 
-2) Presentar ante las mismas autoridades y dentro del plazo señalado en la fracción anterior, los avisos de cambio de nombre o razón social, domicilio, actividad, suspensión de actividades o clausura.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+2) Presentar ante las mismas autoridades y dentro de los quince días naturales siguientes, los avisos de cambio de nombre o razón social, domicilio, actividad, suspensión de actividades o clausura.
 
 3) Presentar las declaraciones correspondientes aún cuando no exista cantidad a pagar, a excepción de los sujetos descritos en la fracción I del artículo 31 de esta ley.
 
 4) Proporcionar los documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al respecto.
 
-5) Las personas físicas o morales que para efectos de impuestos federales tengan su domicilio fiscal en otra entidad federativa, pero que efectúen pagos en el Estado por remuneraciones al trabajo personal subordinado, deberán registrar como domicilio fiscal estatal el lugar donde se origine dicha contraprestación, cumpliendo con las obligaciones señaladas en este capítulo.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-6) Conservar la documentación comprobatoria, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años, a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas.
+5) Los sujetos señalados en el artículo 29 para efectos de impuestos federales tengan su domicilio fiscal en otra entidad federativa, pero que efectúen pagos en el Estado por remuneraciones al trabajo personal subordinado, deberán registrar como domicilio fiscal estatal el lugar donde se origine dicha contraprestación, cumpliendo con las obligaciones señaladas en este capítulo. En el caso de que tenga más de una sucursal en el Estado, el domicilio fiscal de todas las sucursales ubicadas en el Estado será en donde se ubique la sucursal que tenga mayor erogación por concepto de contraprestación laboral.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
+
+6) Registrar en contabilidad y Conservar la documentación comprobatoria, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años, a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas.
 
 7) Cuando los contribuyentes detecten diferencias en sus pagos, deberán presentar declaraciones complementarias para corregir las diferencias.
 
@@ -409,6 +469,14 @@ DEL SUJETO
 
 Están obligados al pago del impuesto establecido en este capítulo, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el artículo anterior.
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+
+Para los efectos de este impuesto, se presume que el propietario es tenedor o usuario del vehículo y que el año modelo del vehículo es el de fabricación.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+
+Las autoridades competentes no autorizarán registros de vehículos, matrículas, altas o bajas, cambio de placas o efectuarán la renovación de los mismos, si el tenedor o usuario del vehículo no comprueba el pago del impuesto o, en su caso, acredita que se encuentra liberado de esta obligación.
+
 ###### ARTICULO 37.
 
 Son responsables solidarios del pago de este impuesto:
@@ -429,13 +497,19 @@ I. Para los vehículos a que se refiere el artículo 35 de esta Ley: 4 cuotas
 
 II. Remolques 2 cuotas
 
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
+
+III. Motocicletas, motonetas y similares 2 cuotas.
+
 ###### ARTICULO 39.
 
 El pago de este impuesto deberá efectuarse anualmente dentro de los tres primeros meses del ejercicio al que corresponda el pago o al momento de registrar la unidad en esta Entidad Federativa. El pago se recibirá en cualquier oficina recaudadora de rentas de la Secretaría de Finanzas o Instituciones de Crédito autorizadas.
 
 ## TITULO III. DE LOS DERECHOS
 
-### CAPITULO II. SERVICIOS DE LA SECRETARÍA GENERAL DE GOBIERNO
+### CAPITULO II. SERVICIOS DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO Y CORDINACION GENERAL JURIDICA
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 40.
 
@@ -461,11 +535,13 @@ La Federación, los municipios, los organismos públicos de seguridad social, de
 
 Las certificaciones que soliciten las autoridades para surtir efectos probatorios en juicios penales o amparos, y las que expidan las autoridades judiciales con el mismo fin, están exentas del pago de derechos.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ENERO DE 2002)</small>
+
 ### CAPITULO III. SERVICIOS DE LA SECRETARÍA DE FINANZAS
 
 ###### ARTICULO 46.
 
-Los servicios que presten por concepto de:
+Los servicios que preste la Secretaría General de Gobierno por concepto de:
 
 I. Expedición de certificados de:
 
@@ -475,35 +551,61 @@ b) Libertad condicional 1 cuota;
 
 c) Indulto 5 cuotas;
 
-II. Expedición de títulos de fraccionamiento, de conformidad con la Ley Reglamentaria de la fracción XVII del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos 5 cuotas;
+II. Legalización de las firmas ológrafas de Servidores Públicos y de Notarios Públicos:
 
-III. Legalización de las firmas ológrafas de Servidores Públicos y de Notarios Públicos:
+a) Certificado de estudio 1 cuota
 
-a) Certificado de estudio 1 cuota;
+b) Título profesional 1 cuota
 
-b) Título profesional 1 cuota;
+c) De cualquier materia 1 cuota
 
-c) De cualquier materia 1 cuota;
+d) De notarios públicos 1 cuota
 
-d) De notarios públicos 1 cuota;
+e) De exhortos 1 cuota
 
-e) De exhortos 1 cuota;
+III. Emisión de opinión relativa a juegos y sorteos: 37 cuotas;
 
-IV. Expedición de actas de Registro Civil y otra clase de documentos:
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
 
-a) Entregadas en la oficina 1 cuota;
+###### ARTICULO 46
 
-b) Remitidas por correo 1 cuota;
+BIS.- Los servicios que preste la Coordinación General Jurídica a través de:
 
-c) En fotocopia, por cada una 1 cuota;
+I. La Dirección de Fraccionamientos:
 
-V. Expedición de testimonio notarial, por hoja: 1 cuota;
+a) Expedición de Título 5 cuotas;
 
-VI. Autorización de libro de protocolo:
+b) Constancia para Procampo 0 cuotas;
 
-Estos derechos incluyen la forma 1 cuota;
+c) Autorización para crédito con banco 1.5 cuotas;
 
-VII. Emisión de opinión relativa a juegos y sorteos: 37 cuotas;
+d) Adjudicaciones 5% Avalúo Catastral;
+
+e) Copia certificada del título 5 cuotas;
+
+f) Copia simple año 2001 $2.90 siguiente: $1.50;
+
+g) Copia simple año 2000 $4.40 siguiente: $1.40;
+
+h) Copia simple año 1999 $5.43 siguiente: $1.50;
+
+i) Copia simple de título 2 cuotas;
+
+j) Por cambio de uso de suelo 1.5 cuotas;
+
+k) Copia certificada simple (de una a cinco) 2 cuotas;
+
+II. La Dirección del Registro Civil:
+
+a) Expedición de acta 1 cuota;
+
+b) Expedición de constancia de inexistencia 1 cuota;
+
+c) Expedición de segundo testimonio 1 cuota por hoja;
+
+d) Certificación del protocolo de los notarios 1 cuota por libro;
+
+e) Expedición de copia certificada 1 cuota por hoja;
 
 ### CAPITULO IV. SERVICIOS DE CATASTRO
 
@@ -599,43 +701,77 @@ IV. La verificación que se realice de documentación con otras entidades, respe
 
 V. Baja de Placas 1 cuota;
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+
+Los propietarios de unidades que se encuentran registradas en el padrón estatal vehicular del Gobierno del Estado de Zacatecas, podrán efectuar canje de placas, siempre y cuando cubran además los derechos de refrendo que refiere el artículo 49 de esta Ley.
+
 Cuando no se cubra la contribución dentro del plazo señalado, deberán pagarse recargos y actualización por concepto de indemnización a la Hacienda Pública Estatal por falta de pago oportuno, de conformidad con la Ley de Ingresos del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 49.
 
-El refrendo de la tarjeta de circulación y expedición de calcomanía con vigencia al 30 de abril del año siguiente, deberá efectuarse durante los primeros cuatro meses del mencionado año, para:
+El refrendo de la tarjeta de circulación y expedición de calcomanía con vigencia al 31 de marzo del año siguiente, deberá efectuarse durante los primeros tres meses del mencionado año, para:
 
 I. Vehículos de servicio particular:
 
-a) Modelos 2001 12 cuotas;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) Modelos 2000 11 cuotas;
+a) Modelos 2002 12 cuotas;
 
-c) Modelos 1999 10 cuotas;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-d) Modelos 1998 9 cuotas;
+b) Modelos 2001 11 cuotas;
 
-e) Modelos 1997 8 cuotas;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-f) Modelos 1996 y anteriores 7 cuotas;
+c) Modelos 2000 10 cuotas;
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+d) Modelos 1999 9 cuotas;
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+e) Modelos 1998 8 cuotas;
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+f) Modelos 1997 y anteriores 7 cuotas;
 
 II. Vehículos de servicio público:
 
-a) Modelos 2001 12 cuotas;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) Modelos 2000 11 cuotas;
+a) Modelos 2002 12 cuotas;
 
-c) Modelos 1999 10 cuotas;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-d) Modelos 1998 9 cuotas;
+b) Modelos 2001 11 cuotas;
 
-e) Modelos 1997 8 cuotas;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-f) Modelos 1996 y anteriores 7 cuotas;
+c) Modelos 2000 10 cuotas;
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+d) Modelos 1999 9 cuotas;
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+e) Modelos 1998 8 cuotas;
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+f) Modelos 1997 y anteriores 7 cuotas;
 
 III. Remolques 5 cuotas;
 
 IV. Motocicletas 2 cuotas;
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+
+Cuando no se cubra la contribución dentro del plazo señalado, deberán pagarse recargos y actualización por concepto de indemnización a la Hacienda Pública Estatal por falta de pago oportuno, de conformidad con la Ley de Ingresos del Estado.
 
 ###### ARTICULO 50.
 
@@ -659,23 +795,47 @@ c) Tratándose de terrenos rústicos cuyo valor no exceda 4 veces el salario mí
 
 d) Tratándose de terrenos rústicos cuyo valor se encuentre entre 4 y 8 veces el salario mínimo general vigente elevado al año. 8 cuotas;
 
-e) Tratándose de predio con construcción, cuyo valor no exceda al equivalente a 7 veces el salario mínimo general vigente elevado al año. (valor catastral medio asignado a la vivienda popular) 6 cuotas;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-f) Tratándose de predio con construcción cuyo valor se encuentre entre los 7 y 14 veces el salario mínimo general vigente elevado al año. (Valor catastral medio asignado a la vivienda de interés medio) 12 cuotas
+e) Tratándose de predio con construcción, cuyo valor no exceda al equivalente a 7 veces el salario mínimo general vigente elevado al año. (valor catastral asignado a la vivienda popular) 6 cuotas;
 
-g) Para avalúos cuyo monto rebase lo previsto en los incisos anteriores se aplicará la tarifa adicional de 5.0 al millar al monto excedente.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+f) Tratándose de predio con construcción cuyo valor se encuentre entre los 7 y 14 veces el salario mínimo general vigente elevado al año. (Valor catastral asignado a la vivienda de interés medio) 12 cuotas
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+g) Para avalúos cuyo monto rebase lo previsto en los incisos anteriores se aplicará la tarifa adicional de 15.0 (quince) al millar al monto excedente.
 
 En ningún caso, los derechos por concepto de avalúo, excederán al equivalente de 250 cuotas.
 
+12 cuotas;
+
 h) Renovaciones:
 
-Para el caso de expedición de avalúos cuya vigencia haya caducado conforme a lo establecido en la Ley de Catastro del Estado, a las tarifas anteriores se aplicará proporcionalmente una cuota equivalente al 0.0083% por día, de la cuota respectiva, por los noventa días siguientes al vencimiento de la vigencia.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+Para el caso de expedición de avalúos cuya vigencia haya caducado conforme a lo establecido en la Ley de Catastro del Estado, a las tarifas anteriores se aplicará proporcionalmente atendiendo a lo siguiente:
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+
+- Durante el mes siguiente a la fecha de caducidad 25.00%
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+
+- Para el segundo mes 50.00 %
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+
+- Para el tercer mes 75.00 %
 
 A partir del inicio del cuarto mes posterior a la caducidad se considerará como emisión de nuevo avalúo.
 
 II. Deslinde o levantamiento topográfico de predios urbanos:
 
-Hasta de 200.00 m2 8 cuotas
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+Hasta de 200.00 m2 10 cuotas
 
 De 200.01 a 400.00 m2 12 cuotas
 
@@ -685,7 +845,9 @@ De 600.01 a 1000.00 m2 20 cuotas
 
 Para la superficie mayor de mil metros, por cada metro cuadrado excedente se aplicará una cuota de: $ 0.25
 
-III. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior: 6 cuotas;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+
+III. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior: 8 cuotas;
 
 IV. Deslinde o levantamiento topográfico de predios rústicos:
 
@@ -727,31 +889,31 @@ i) De 100-00-01 has.
 
 A 200-00-00 has. 278 cuotas 324 cuotas 386 cuotas
 
-j) De 200-00-01 has.,
+j) De 200-00-01 has., en adelante,
 
-en adelante, se
+se aumentará por cada hectárea
 
-aumentará por cada
-
-hectárea excedente. 1 cuota 1 cuota 1 cuota
+excedente. 1 cuota 1 cuota 1 cuota
 
 k) Si el levantamiento topográfico se solicita con curvas de nivel, se tasará el doble de lo que resulte la clasificación del terreno que le corresponda;
 
-l) Cuando el levantamiento topográfico que se solicite deba realizarse a una distancia mayor a un radio de 30 Kms. de la ciudad de Zacatecas, se cobrará por cada kilómetro adicional $ 3.50;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+l) Cuando el levantamiento topográfico que se solicite deba realizarse a una distancia mayor a un radio de 30 Kms. de la ciudad de Zacatecas, se cobrará por cada kilómetro adicional $ 4.00;
 
 V. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior:
 
 a) 1: 100 a 1: 5,000 30 cuotas;
 
-b) 1: 5,000 a 1: 10,000 18 cuotas;
+b) 1: 5,000 a 1: 10,000 18 cuotas
 
-c) 1: 10,000 en adelante 8 cuotas;
+c) 1: 10,000 en adelante 8 cuotas
 
 VI. Certificación de acta de:
 
-a) Deslinde de predios 5 cuotas;
+a) Deslinde de predios 5 cuotas
 
-b) Ficha catastral 5 cuotas;
+b) Ficha catastral 5 cuotas
 
 VII. Certificación de plano en:
 
@@ -761,17 +923,15 @@ b) Rústico 5 cuotas
 
 VIII. Copia de plano:
 
-a) Plano impreso de la zona conurbada Zacatecas-Guadalupe,edición 1995 6 cuotas
+a) Plano impreso de la zona conurbada Zacatecas-Guadalupe, edición 1995 6 cuotas
 
-b) Plano manzanero de zonas urbanas de las cabeceras municipales de: Zacatecas, Guadalupe, Fresnillo, Jerez, Río Grande, Sombrerete, Ojocaliente, Calera, Jalpa, Loreto, Tlaltenango, valparaíso y Villanueva. 30 cuotas
+b) Plano manzanero de zonas urbanas de las cabeceras municipales de: Zacatecas, Guadalupe, Fresnillo, Jerez, Río Grande, Sombrerete, Ojocaliente, Calera, Jalpa, Loreto, Tlaltenango, Valparaíso y Villanueva. 30 cuotas
 
 c) Plano manzanero de zonas urbanas de las cabeceras municipales de: Morelos, Villa de Cos, Pinos, Juchipila, Juan Aldama, Luis Moya, Miguel Auza, Monte Escobedo, Nochistlán de Mejía, Saín Alto, Tabasco, Tepetongo, Villa García, Cañitas de Felipe Pescador, Téul de González
 
 Ortega, Chalchihuites, Fco. R. Murguía, Concepción del Oro, Cuauhtémoc, Tepechitlán y Trancoso. 24 cuotas
 
-d) Plano manzanero de zonas urbanas de las cabeceras municipales de: Apozol, Apulco, Atolinga, Benito Juárez, Jiménez del Téul, García de la Cadena, Genaro Codina, Gral.
-
-Enrique Estrada, Gral. Joaquín Amaro, Gral. Pánfilo Natera, Huanusco, Momax, Moyahua de Estrada, Mazapil, Melchor Ocampo, Mezquital del Oro, Noria de Angeles, Pánuco, El Salvador, Susticacán, Vetagrande, Villa Hidalgo y Villa González Ortega. 15 cuotas
+d) Plano manzanero de zonas urbanas de las cabeceras municipales de: Apozol, Apulco, Atolinga, Benito Juárez, Jiménez del Téul, García de la Cadena, Genaro Codina, Gral. Enrique Estrada, Gral. Joaquín Amaro, Gral. Pánfilo Natera, Huanusco, Momax, Moyahua de Estrada, Mazapil, Melchor Ocampo, Mezquital del Oro, Noria de Angeles, Pánuco, El Salvador, Susticacán, Vetagrande, Villa Hidalgo y Villa González Ortega. 15 cuotas
 
 e) Plano del Estado de Zacatecas con la división política de los Municipios, vías de comunicación y localización de poblaciones. 32 cuotas
 
@@ -793,13 +953,17 @@ c) Escala 1:5000; 10 cuotas
 
 XI. Expedición de copia de título de propiedad o de otro existente en los archivos de catastro:
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
 a) Certificadas hasta cinco fojas: 5 cuotas
 
-Por cada foja excedente $ 5.00
+Por cada foja excedente $ 15.00
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
 b) Simples, hasta 5 fojas: 2 cuotas
 
-Por cada foja excedente $ 10.00
+Por cada foja excedente $ 15.00
 
 XII. Verificación física de inmueble 10 cuotas;
 
@@ -809,7 +973,9 @@ XIV. Por los servicios que se soliciten cuando los antecedentes a que se refiera
 
 XV. Los conceptos no considerados en el presente artículo se tasarán de acuerdo con su monto equiparable en cuotas de salario mínimo.
 
-Del ingreso percibido por concepto de servicios catastrales, un 5% será destinado a la modernización del equipo e instalaciones del Registro Público, así como la capacitación continua de su personal, conforme al contrato de fideicomiso que para tal efecto se suscriba.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+Del ingreso percibido por concepto de servicios catastrales, un 5% será destinado a la modernización del equipo e instalaciones del Registro Público, así como la capacitación continua de su personal, conforme al contrato de fideicomiso que para tal efecto se suscribió.
 
 ### CAPITULO VI. SERVICIOS DE OBRAS PÚBLICAS
 
@@ -821,13 +987,21 @@ I. Calificación Registral, por testimonio o documento ½ cuota
 
 II. Inscripción de documentos relativos a bienes inmuebles:
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
+
 a) Tratándose de inmuebles con valor de hasta siete veces el salario
 
-mínimo vigente elevado al año, se cubrirá la tarifa mínima general equivalente a: 12 cuotas
+mínimo vigente elevado al año, se cubrirá la tarifa mínima general por
+
+inmueble equivalente a: 12 cuotas
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
 
 b) Tratándose de inmuebles cuyo valor se sitúe entre las 7.0 y 14.0 veces el
 
-salario mínimo vigente elevado al año se cubrirá la tarifa base de: 30 cuotas
+salario mínimo vigente elevado al año se cubrirá la tarifa base por
+
+inmueble de: 30 cuotas
 
 Para inscripciones cuyo monto rebase el rango de valor establecido en el inciso anterior, se aplicará la tarifa adicional del 1.0% al monto excedente.
 
@@ -872,6 +1046,10 @@ Para los efectos de este capítulo se equiparan a la compraventa los siguientes 
 16.- Tratándose de títulos bajo el PROCEDE o el programa que se instituya en su lugar, estará exento de pago;
 
 17.- Tratándose de títulos otorgados por la CORETT e INFONAVIT y otras instituciones oficiales, o por los programas que se instituyan en su lugar, se estará sujeto a los acuerdos institucionales que se celebren para el caso.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+
+18.- División de copropiedad, por cada uno de los predios resultantes.
 
 III. Diligencias de apeo y deslinde: 4 cuotas;
 
@@ -989,7 +1167,7 @@ II. Inscripción o no inscripción: 3 cuotas;
 
 III. Libertad de gravamen: 2 cuotas;
 
-IV. Existencia de gravamen, a la fracción anterior se adicionará por cada gravamen: 1 cuota.
+IV. Existencia de gravamen, a la fracción anterior se adicionará por cada gravámen: 1 cuota.
 
 ###### ARTICULO 55.
 
@@ -1035,85 +1213,97 @@ I. Otorgamiento de licencia con vigencia de un año para fraccionar, lotificar o
 
 a) De interés social:
 
-1.- Menor de 1-00-00 has, por m2 $ 0.16
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-2.- De 1.00.01 a 5-00-00 has, por m2 $ 0.26
+1.- De 1-00-00 a 5-00-00 has, por m2 $ 0.28
 
-3.- De 5-00-01 has, en adelante por m2 $ 0.39
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+2.- De 5-00-01 has, en adelante por m2 $ 0.45
 
 b) Habitaciones de tipo medio:
 
-1.- Menor de 1-00-00 has, por m2. $ 0.26
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-2.- De 1.00.01 has, en adelante por m2 $ 0.39
+1.- De 1.00.01 has, en adelante por m2 $ 0.45
 
-c) Habitacional residencial, por m2 $ 0.69;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-d) Habitacional campestre, por m2 $0.69;
+c) Habitacional residencial, por m2 $ 1.17;
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+d) Habitacional campestre, por m2 $ 1.17;
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
 e) Comercial y zonas destinadas al comercio en los fraccionamientos
 
-habitacionales, por m2 $ 0.83;
+habitacionales, por m2 $ 1.45;
 
-f) Granja de explotación agropecuaria, por m 2 $ 0.83;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-g) Funerario o cementerio, por m 3 del volumen de las fosas o gavetas.$ 2.78;
+f) Granja de explotación agropecuaria, por m 2 $ 1.45;
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+g) Funerario o cementerio, por m3 del volumen de las fosas o gavetas.$ 4.86;
 
 Cuando las obras autorizadas no se ejecuten dentro de la vigencia de la autorización, se deberá solicitar el refrendo de la misma debiendo cubrirse los derechos en términos de este artículo como si se tratare de una inicial;
 
-II. Autorización de división, lotificación, hasta 10 predios o fusión de lotes urbanos, por m 2 :
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-a) Menores de 200 m 2 $ 0.18
-
-b) De 201 a 400 m 2 $ 0.18
-
-c) De 401 a 800 m 2 $ 0.22
-
-d) De 801 a 1,000 m 2 $ 0.26
-
-La regularización de fraccionamientos, lotificaciones, relotificaciones, desmembraciones, subdivisiones o fusiones, se tasará tres veces la cuota establecida, según el tipo al que pertenezcan;
-
-III. Realización de peritaje: 130 cuotas;
-
-IV. Expedición de dictamen para diligencias de información Ad-Perpétuam:
+II. Expedición de dictamen para diligencia de información Ad-Perpetuam
 
 a) Rústicos:
 
-1.- Hasta 1-00-00 Has. 8 cuotas
+1.- Hasta 1-00-00 Has. 9 cuotas
 
-2.- De 1-00-01 Has; en adelante, se aumentará por hectárea o fracción 4 cuotas
+2.- De 1-00-01 Has; en adelante, se aumentará por hectárea o fracción 4.5 cuotas.
 
-b) Urbano, por m2 $ 2.21
+b) Urbano, por m2 1.5 cuotas;
 
-V. Expedición de constancia de uso de suelo: 1.35 cuotas;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-VI. Expedición de declaratoria para establecer el régimen de propiedad
+III.- Expedición de constancia estatal de compatibilidad urbanística 4 cuotas
 
-en condominio, por m 2 de terreno y construcción $ 2.21;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-VII. Registro de director responsable de obra, con vigencia de un año: 16 cuotas.
+IV. Registro de director responsable de obra, con vigencia de un año: 16 cuotas.
 
-VIII. Revalidación anual de registro de director responsable de obra: 8 cuotas.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-IX. Emisión de opinión y dictámen para el establecimiento de
-
-fraccionamientos de todo tipo, lotificaciones, relotificaciones,
-
-subdivisiones, desmembraciones y fusiones de áreas y predios por metro
-
-cuadrado de área vendible de acuerdo a la clasificación correspondiente: $ 0.47
-
-X. Emisión de opinión y dictamen para el establecimiento y declaratoria del régimen de propiedad en condominio por metro cuadrado de terreno y construcción: $ 2.36
-
-Si a la autoridad municipal corresponde la prestación de este servicio, será ésta la que aplique y cobre su tarifa.
+V. Revalidación anual de registro de director responsable de obra: 8 cuotas.
 
 ###### ARTICULO 59.
 
 Los servicios prestados por concepto de inscripción a concurso: 34 cuotas;
 
-Por cada foja de la base y demás documentos que se proporcionen a los concursantes: $ 3.10;
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
 
-Por cada copia heliográfica de los planos que se proporcionen: 1.35 cuotas;
+I. Por cada disco magnético que se proporcione a los concursantes: $7.00
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+
+II.Por cada foja de la base y demás documentos que se proporcionen
+
+a los concursantes: $ 3.10 c/u;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+
+III.Por cada copia heliográfica de los planos que se proporcionen: $1.35 cada uno;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
+
+IV.Sobre tamaño legal para cada paquete de concurso: 2.50
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
+
+V. Costo por inscripción a concurso en obra: 42 cuotas.
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
+
+VI. Costo por inscripción a concurso en suministro: 28 cuotas.
 
 ###### ARTICULO 60.
 
@@ -1141,133 +1331,227 @@ II. Expedición de diplomas a egresados de:
 
 a) Academias y centros de capacitación para el trabajo 1 cuota
 
-b) Tipo medio básico $ 5.00
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+b) Tipo medio básico $ 8.00
 
 III. Expedición de duplicados de certificados de estudios de:
 
-a) Primaria o secundaria $6.50
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) Academias $ 8.50
+a) Primaria o secundaria $ 20.00
 
-c) Nivel medio superior $ 15.00
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-d) De tipo superior $ 25.00
+b) Academias $ 25.00
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+c) Nivel medio superior $ 25.00
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+d) De tipo superior $ 35.00
 
 IV. Práctica de examen extraordinario por materia:
 
-a) De educación secundaria $ 6.50
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) De nivel medio superior o academias $ 8.50
+a) De educación secundaria $ 7.50
 
-c) De tipo superior $ 12.00
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+b) De nivel medio superior o academias $ 10.00
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+c) De tipo superior $ 15.00
 
 V. Exámenes a título de suficiencia:
 
-a) De educación primaria $ 13.00
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) De educación secundaria, por materia $ 6.50
+a) De educación primaria $ 15.00
 
-c) De tipo superior, por materia $ 12.00
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+b) De educación secundaria, por materia $ 10.00
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+c) De tipo superior, por materia $ 25.00
 
 VI. Exámenes profesionales que sustenten los egresados de escuelas del Estado:
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
 a) De centros de capacitación para el trabajo o academias 1 cuota
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
 b) De idiomas 1 cuota
 
-c) De tipo superior 1 cuota
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+c) De tipo superior $50.00;
 
 VII. Revalidación de estudios de:
 
-a) Primaria $ 7.00
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) Secundaria, por grado $ 20.00
+a) Primaria $ 10.00
 
-c) Tipo medio superior 5 cuotas
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-d) Tipo superior 15 cuotas
+b) Secundaria, por grado $ 25.00
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+c) Tipo medio superior 6 cuotas
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+d) Tipo superior 16 cuotas
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
 VIII. Forma de certificado o boleta de evaluación extra a la dotación ordinaria,
 
-por cada una: $2.50;
+por cada una: $ 5.00;
 
-IX. Expedición de copias certificadas de documentos, por cada foja tamaño
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-carta u oficio $ 7.00;
+IX. Expedición de copias certificadas de documentos,
+
+por cada foja tamaño carta u oficio $ 10.00;
 
 X. Reposición de certificados:
 
-a) De primaria o secundaria $ 22.00
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) De tipo medio superior o academias 1 cuota
+a) De primaria o secundaria $ 30.00
 
-c) De tipo superior 1 cuota
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-XI. Compulsa de documentos, por foja: $ 5.00;
+b) De tipo medio superior o academias $ 45.00
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+c) De tipo superior $ 60.00
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+
+XI. Compulsa de documentos, por foja: $ 7.00;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
 XII. Por cualquier otra certificación o expedición de constancia distintas a
 
-las señaladas en las fracciones anteriores: $ 22.00;
+las señaladas en las fracciones anteriores: $ 25.00;
 
-XIII. Reconocimientos de validez oficial de estudios a particulares por cada
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-plan de estudios de tipo superior: 9 cuotas;
+XIII. Por solicitud, estudios y resolución del trámite de reconocimiento de validez de estudios de tipo superior 137 cuotas.
 
-XIV. Reconocimiento de validez oficial de estudios a particulares, por cada plan de estudios de:
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-a) Educación básica 4 cuotas
-
-b) Academias, centros de capacitación para el trabajo y escuelas de idiomas 4 cuotas
+XIV. Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudios de los niveles preescolar y medio superior o equivalente y de formación para el trabajo sea cual fuere la modalidad 15 cuotas
 
 XV. Acreditación y certificación de conocimiento de tipo elemental:
 
-a) Completo $ 14.00
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) Por área $ 6.00
+a) Completo $ 20.00
 
-c) Por grado $ 2.50;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+b) Por área $ 10.00
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+c) Por grado $ 5.00;
 
 XVI. Acreditación y certificación de conocimiento, por materia de:
 
-a) Secundaria $ 8.50
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) Preparatoria $ 13.00
+a) Secundaria $ 10.50
 
-c) Tipo superior $ 22.00
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-XVII. Revisión de certificados de estudios, por grado escolar $ 3.00;
+b) Preparatoria $ 15.00
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+c) Tipo superior $ 25.00
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+
+XVII. Revisión de certificados de estudios, por grado escolar $ 5.00;
 
 XVIII. Equivalencia de estudios:
 
-a) Secundaria, por grado $ 15.00
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) Tipo medio superior 5 cuotas
+a) Secundaria, por grado $ 25.00
 
-c) Tipo superior 15 cuotas
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+b) Tipo medio superior 6 cuotas
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+c) Tipo superior 16 cuotas
 
 XIX. Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
 
-a) De tipo inicial y preescolar $ 2.50
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) De tipo elemental $ 5.00
+a) De tipo inicial y preescolar $ 4.00
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+b) De tipo elemental $ 6.00
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
 c) De tipo medio, academias comerciales o centros de capacitación
 
-para el trabajo 7.50
+para el trabajo $8.00
 
-d) De tipo superior 10.00
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-XX. Registro de colegio de profesionistas 27 cuotas;
+d) De tipo superior $ 11.00
 
-XXI. Registro de títulos profesionales $ 10.00
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-XXII. Autorización provisional para ejercer como pasante 2 cuotas;
+XX. Registro de colegio de profesionistas 28 cuotas;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+
+XXI. Registro de títulos profesionales $ 15.00
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+
+XXII. Autorización provisional para ejercer como pasante 3 cuotas;
 
 XXIII. Legalización de certificados:
 
-a) Secundaria $ 15.00
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) Medio superior $ 27.00
+a) Secundaria $ 25.00
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+b) Medio superior $ 35.00
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
+
+XXIV. Por solicitud, estudio y resolución del trámite de autorización para impartir educación primaria, secundaria, normal y demás para la información de maestros, sea cual fuere la modalidad. 15 cuotas.
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
+
+XXV. Por solicitud, estudio y resolución del trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial. 59 cuotas.
 
 ### CAPITULO X. SERVICIOS DE SEGURIDAD PUBLICA Y VIALIDAD
 
@@ -1295,29 +1579,59 @@ a) Operador de servicio público 6 cuotas;
 
 b) Chofer 4 cuotas;
 
-c) Automovilista 3 cuotas;
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
 
-d) Motociclista 2 cuotas;
+c) Chofer (plastificada) 6 cuotas;
+
+d) Automovilista 3 cuotas;
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+
+e) Automovilista (plastificada) 6 cuotas;
+
+f) Motociclista 2 cuotas
 
 II. Examen médico a conductores de vehículo que participen en un hecho de tránsito: 1 cuota;
 
-III. Expedición de permiso provisional de manejo incluido certificado médico, hasta
+> <small>(ADICIONADA, [N. DE E. REFORMADA] P.O. 2 DE ENERO DE 2002)</small>
 
-por 90 días: 1 cuota;
+III. Expedición de permiso provisional de manejo para mayores de 16 años y menores de 18 años incluido certificado médico, hasta por 90 días: 1 cuota;
 
 IV. Vehículo depositado en los recintos de tránsito, por día: $ 2.10;
 
 V. Gafetes para operadores del servicio público 5 cuotas;
 
-VI. Por servicio de grúa 3 cuotas;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-II (SIC). Expedición de permiso para circular sin placas:
+VI. Por servicio de grúa 4 cuotas;
 
-a) Por 5 días 2 cuotas;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) Por 10 días 4 cuotas;
+VII. Expedición de permiso para circular sin placas:
 
-c) Por 15 días 6 cuotas;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+a) Por 5 días
+
+- Servicio Público: 3 cuotas;
+
+- Servicio Particular: 2 cuotas;
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+b) Por 10 días
+
+- Servicio Público: 5 cuotas;
+
+- Servicio Particular: 4 cuotas;
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+c) Por 15 días
+
+- Servicio Público: 7 cuotas;
+
+- Servicio Particular: 6 cuotas.
 
 Los permisos expedidos no podrán otorgarse por más de 30 días naturales.
 
@@ -1329,25 +1643,33 @@ I. Servicio público de transporte colectivo urbano y suburbano, por unidad:
 
 a) Iniciación 201 cuotas
 
-b) Año posterior 6 cuotas
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+b) Año posterior 8 cuotas
 
 II. Servicio público de transporte colectivo foráneo, por unidad:
 
 a) Iniciación 193 cuotas
 
-b) Año posterior 6 cuotas;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+b) Año posterior 8 cuotas;
 
 III. Servicio público de taxi, por unidad
 
 a) Iniciación 153 cuotas
 
-b) Año posterior 6 cuotas;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+b) Año posterior 8 cuotas;
 
 IV. Servicio público de transporte turístico, por unidad:
 
 a) Iniciación 102 cuotas
 
-b) Año posterior 6 cuotas;
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+b) Año posterior 8 cuotas;
 
 V. Servicio público de arrendamiento, hasta por 10 unidades:
 
@@ -1361,15 +1683,21 @@ VI. Servicio público de transporte proporcionado por agencia funeraria, de carg
 
 a) Iniciación 121 cuotas
 
-b) Año posterior 6 cuotas
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+b) Año posterior 8 cuotas
 
 VII. Certificación de servicio público: 1 cuota;
 
 VIII. Revisión operativa de:
 
-a) Cambio de vehículo 1 cuota
+> <small>(REFORMADAO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) Cambio ruta 8 cuotas
+a) Cambio de vehículo 2 cuotas;
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+b) Cambio ruta 10 cuotas;
 
 c) Ampliación de ruta 4 cuotas.
 
@@ -1379,15 +1707,23 @@ c) Ampliación de ruta 4 cuotas.
 
 Por la evaluación y emisión de dictamen de impacto ambiental:
 
-I. Informe preventivo 24 cuotas
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+
+I. Informe preventivo 28 cuotas
 
 II. Informe definitivo
 
-a) Tipo general 43 cuotas
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) Tipo Intermedio 60 cuotas
+a) Tipo general 51 cuotas
 
-c) Tipo específico 123 cuotas
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+b) Tipo Intermedio 72 cuotas
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
+
+c) Tipo específico 147 cuotas
 
 ###### ARTICULO 67.
 
@@ -1397,17 +1733,29 @@ I. Reproducción de material didáctico, ecológico y ambiental $ 1.15 por foja
 
 II. Reproducción de material informático ecológico y ambiental en disco flexible $11.50 c/u;
 
-III. Reproducción de material informático ecológico y ambiental en disco compacto 2 cuotas c/u;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-IV. Información de planos con información ecológica y ambiental 5 cuotas c/u;
+III. Reproducción de material informático ecológico y ambiental en disco compacto 2.5 cuotas c/u;
 
-V. Reproducción de planos con información ecológica y ambiental 2 cuotas c/u;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-VI. Asesoría y capacitación en materias de ecología y medio ambiente, por cada hora 7 cuotas;
+IV. Información de planos con información ecológica y ambiental 6 cuotas c/u;
 
-VII. Registro en el Padrón de Prestadores de Servicio Ecológico y ambiental 35 cuotas;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-VIII. Reproducción en plotter 3 cuotas
+V. Reproducción de planos con información ecológica y ambiental 2.5 cuotas c/u;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+
+VI. Asesoría y capacitación en materias de ecología y medio ambiente, por cada hora 8 cuotas;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+
+VII. Registro en el Padrón de Prestadores de Servicio Ecológico y ambiental 42 cuotas;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+
+VIII. Reproducción en plotter 3.5 cuotas
 
 ### CAPÍTULO ÚNICO
 
@@ -1429,7 +1777,9 @@ c) A más de dos años anteriores; $ 5.17
 
 d) Por cada foja excedente correspondiente a asuntos de cualquier año; $ 1.43;
 
-II. Certificado de no antecedentes penales $ 5.17.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+
+II. Certificado de no antecedentes penales 1 cuota
 
 ## TITULO IV. DE LOS PRODUCTOS
 
@@ -1558,3 +1908,11 @@ LIC. ARTURO NAHLE GARCIA.
 EL SECRETARIO DE PLANEACION Y FINANZAS
 
 C.P. GUILLERMO HUIZAR CARRANZA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE ENERO DE 2002.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Zacatecas.
