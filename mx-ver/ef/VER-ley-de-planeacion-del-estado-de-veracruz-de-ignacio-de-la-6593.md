@@ -4,7 +4,7 @@ identifier: "VER-ley-de-planeacion-del-estado-de-veracruz-de-ignacio-de-la-6593"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-29"
-last_updated: "1987-01-29"
+last_updated: "2003-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY DE PLANEACION DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY DE PLANEACION DEL ESTADO DE VERACRUZ-LLAVE
+LEY DE PLANEACION DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 29 de enero de 1987.
 
@@ -41,7 +41,9 @@ La Honorable Quincuagésima Cuarta Legislatura del Estado Libre y Soberano de Ve
 
 LEY NUMERO 56.
 
-DE PLANEACION DEL ESTADO DE VERACRUZ-LLAVE.
+> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+DE PLANEACION DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 ### CAPITULO I
 
@@ -51,9 +53,11 @@ DISPOSICIONES GENERALES.
 
 La presente Ley, norma el Sistema de Planeación Democrática Estatal y señala las modalidades para que el Gobernador del Estado, coordine, mediante convenios, la participación de Veracruz en la planeación nacional del desarrollo. Sus disposiciones son de orden público e interés social.
 
+REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)
+
 ###### ARTICULO 2o.
 
-La planeación tiene por objeto desarrollar integralmente al Estado, y deberá llevarse a cabo de acuerdo con los fines políticos, sociales, culturales y económicos, contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Veracruz-Llave.
+La planeación tiene por objeto desarrollar integralmente al Estado, y deberá llevarse a cabo de acuerdo con los fines políticos, sociales, culturales y económicos, contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Veracruz de Ignacio de la Llave.
 
 ###### ARTICULO 3o.
 
@@ -79,7 +83,9 @@ La organización y funcionamiento del Sistema Estatal de Planeación Democrátic
 
 El Sistema Estatal de Planeación Democrática, contará con:
 
-I.- Una estructura institucional constituida por las dependencias estatales y municipales responsables de la formulación, instrumentación, control y evaluación de los programas, y por el Comité de Planeación para el Desarrollo del Estado de Veracruz-Llave, y los Comités de Planeación Municipal, como foros de consulta en las diferentes etapas del proceso de planeación.
+REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)
+
+I.- Una estructura institucional constituida por las dependencias estatales y municipales responsables de la formulación, instrumentación, control y evaluación de los programas, y por el Comité de Planeación para el Desarrollo del Estado de Veracruz de Ignacio de la Llave, y los Comités de Planeación Municipal, como foros de consulta en las diferentes etapas del proceso de planeación.
 
 II.- Una infraestructura de apoyo constituida por las instituciones y organismos sociales y privados que participen dentro del Sistema.
 
@@ -125,7 +131,9 @@ La competencia, en materia de planeación se distribuye conforme a lo siguiente:
 
 I.- Al Gobernador del Estado le compete:
 
-a).- Presidir y conducir el Comité de Planeación para el Desarrollo del Estado de Veracruz-Llave.
+REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)
+
+a).- Presidir y conducir el Comité de Planeación para el Desarrollo del Estado de Veracruz de Ignacio de la Llave.
 
 b).- Remitir el Plan Estatal de Desarrollo al Poder Legislativo para su conocimiento, opinión y observaciones. Para tal efecto, la Diputación Permanente convocará a un período extraordinario de sesiones de la Legislatura del Estado.
 
@@ -137,7 +145,9 @@ e).- Convenir con el Ejecutivo Federal, con los Ayuntamientos y con los sectores
 
 II.- A la Secretaría de Finanzas y Planeación compete:
 
-a).- Coordinar y elaborar el Plan Estatal de Desarrollo y los programas que de él se deriven, con apoyo y participación de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, integradas en el Comité de Planeación para el Desarrollo del Estado de Veracruz-Llave.
+REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)
+
+a).- Coordinar y elaborar el Plan Estatal de Desarrollo y los programas que de él se deriven, con apoyo y participación de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, integradas en el Comité de Planeación para el Desarrollo del Estado de Veracruz de Ignacio de la Llave.
 
 b).- Verificar periódicamente, y en coordinación con las demás Secretarías, la relación que guarden los programas y presupuestos de las diversas dependencias y entidades de la Administración Pública Estatal con los propósitos y objetivos del Plan Estatal de Desarrollo, así como con los resultados de su ejecución.
 
@@ -355,9 +365,11 @@ La revisión y análisis que haga la Legislatura, de las cuentas públicas munic
 
 COORDINACION.
 
+REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)
+
 ###### ARTICULO 36.
 
-El Ejecutivo Estatal podrá convenir con el Ejecutivo Federal o con los Ayuntamientos de los municipios del Estado, satisfaciendo las formalidades que en cada caso procedan, la coordinación que se requiera a efecto de que participen en la planeación estatal del desarrollo; coadyuven en el ámbito de sus respectivas competencias, en la consecución de los objetivos de la planeación estatal, y para que las acciones a realizarse por el Estado, la Federación y los Municipios, se planeen de manera conjunta, en el Comité de Planeación para el Desarrollo del Estado de Veracruz-Llave, el que se considera como la única instancia para hacer compatibles los esfuerzos de los tres niveles de gobierno.
+El Ejecutivo Estatal podrá convenir con el Ejecutivo Federal o con los Ayuntamientos de los municipios del Estado, satisfaciendo las formalidades que en cada caso procedan, la coordinación que se requiera a efecto de que participen en la planeación estatal del desarrollo; coadyuven en el ámbito de sus respectivas competencias, en la consecución de los objetivos de la planeación estatal, y para que las acciones a realizarse por el Estado, la Federación y los Municipios, se planeen de manera conjunta, en el Comité de Planeación para el Desarrollo del Estado de Veracruz de Ignacio de la Llave, el que se considera como la única instancia para hacer compatibles los esfuerzos de los tres niveles de gobierno.
 
 ###### ARTICULO 37.
 
@@ -454,3 +466,23 @@ DADA en el Salón de Sesiones de la Honorable Quincuagésima Cuarta Legislatura 
 Por lo tanto, mando se imprima promulgue, circule y se le dé el debido cumplimiento.
 
 Xalapa-Enríquez, Ver., a 7 de enero de 1987.- FERNANDO GUTIERREZ BARRIOS.- Rúbrica.- El Secretario General de Gobierno, DANTE DELGADO RANNAURO.- Rúbrica.- El Secretario de Finanzas y Planeación, RAUL A. OJEDA MESTRE.- Rúbrica.- El Secretario de Educación y Cultura, GUILLERMO ZUÑIGA MARTINEZ.- Rúbrica.- El Secretario de Desarrollo Económico, ARMANDO MENDEZ DE LA LUZ.- Rúbrica.- El Secretario de Comunicaciones y Obras Públicas, GUSTAVO NACHON AGUIRRE.- Rúbrica.- El Secretario de Desarrollo Agropecuario y Pesquero, RICARDO GARCIA LAGOS.- Rúbrica.- El Secretario de Salud y Asistencia, PEDRO CORONEL PEREZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "... Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "... Estado de Veracruz-Llave", se entenderán referidas al "... Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "... del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
