@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-las-mujeres-25809"
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-09-17"
-last_updated: "2002-09-17"
+last_updated: "2004-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-10-02"
 
 ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE LAS MUJERES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ABRIL DE 2004.
 
 Estatuto publicado en la Sección Segunda del Diario Oficial de la Federación el día Martes 17 de septiembre de 2002.
 
@@ -131,9 +131,7 @@ La Junta de Gobierno determinará el establecimiento de oficinas distintas de la
 
 El Instituto, al cumplir su objeto general y sus objetivos específicos, tal como están determinados en los artículos 4 y 6 de su ley, actuará de conformidad con los criterios definidos en este último, de transversalidad, federalismo y fortalecimiento de vínculos entre los Poderes de la Unión, y atenderá a la perspectiva de género determinada en el artículo 5 de la misma ley; para ello tendrá, además de las atribuciones que le confiere el artículo 7 de la ley, y derivada de ellas las siguientes:
 
-I. Definir las directrices, las características y los elementos que deben contener las políticas
-
-públicas desde la perspectiva de género para lograr que se alcance la equidad de género;
+I. Definir las directrices, las características y los elementos que deben contener las políticas públicas desde la perspectiva de género para lograr que se alcance la equidad de género;
 
 II. Promover y coordinar las actividades que incorporen la perspectiva de género, proponiendo, promoviendo, difundiendo y estableciendo los vínculos necesarios para el cumplimiento de su objeto;
 
@@ -141,9 +139,7 @@ III. Intervenir en el diseño de los programas y proyectos del Ejecutivo Federal
 
 IV. Promover la elaboración y ejecución de programas en el sector público, orientados a fomentar la igualdad de oportunidades y no-discriminación contra las mujeres;
 
-V. Fungir como órgano de consulta de los sectores público, social y privado en materia
-
-de perspectiva de género;
+V. Fungir como órgano de consulta de los sectores público, social y privado en materia de perspectiva de género;
 
 VI. Celebrar convenios con el Poder Judicial, Poder Legislativo, con personas físicas o morales nacionales o extranjeras, necesarios para la mejor consecución de sus objetivos;
 
@@ -317,9 +313,7 @@ VI. Elaborar el acta de la sesión anterior y someterla a consideración de las 
 
 VII. Recabar la información correspondiente al cumplimiento de los acuerdos adoptados por la Junta de Gobierno y hacerla del conocimiento de los integrantes de la misma;
 
-VIII. Firmar las actas y constancias necesarias que se deriven de las sesiones de la Junta
-
-de Gobierno;
+VIII. Firmar las actas y constancias necesarias que se deriven de las sesiones de la Junta de Gobierno;
 
 IX. Expedir las certificaciones que sean necesarias, respecto de los acuerdos adoptados por la Junta de Gobierno;
 
@@ -337,9 +331,7 @@ XIV. Las demás que le sean asignadas por la Presidencia del Instituto.
 
 Son atribuciones de la Prosecretaría:
 
-I. Ejecutar y coordinar las acciones que permitan el desarrollo de las sesiones de la Junta
-
-de Gobierno;
+I. Ejecutar y coordinar las acciones que permitan el desarrollo de las sesiones de la Junta de Gobierno;
 
 II. Levantar las actas de las sesiones que celebre la Junta de Gobierno y una vez aprobadas, obtener las firmas correspondientes, asimismo llevar el registro de los acuerdos tomados;
 
@@ -349,15 +341,11 @@ IV. Desarrollar la logística de las sesiones de la Junta de Gobierno, para llev
 
 V. Apoyar en la elaboración de las Actas de la Junta de Gobierno, que servirán de constancia de los acuerdos tomados por el Pleno;
 
-VI. Integrar las carpetas de información, que serán entregadas a los miembros de la Junta
-
-de Gobierno;
+VI. Integrar las carpetas de información, que serán entregadas a los miembros de la Junta de Gobierno;
 
 VII. Apoyar en la logística de las reuniones de los Consejos Consultivo y Social, para facilitar el desarrollo de las sesiones de trabajo;
 
-VIII. Redactar los acuerdos tomados en el Pleno del Organo de Gobierno para firma de las y
-
-los asistentes;
+VIII. Redactar los acuerdos tomados en el Pleno del Organo de Gobierno para firma de las y los asistentes;
 
 IX. Recabar de las áreas administrativas del Instituto, con la anticipación necesaria, la información que deba proporcionarse a la Junta de Gobierno;
 
@@ -415,9 +403,33 @@ IX. Establecer los procedimientos para controlar la calidad de los suministros y
 
 X. Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
 
-XI. Presentar anualmente ante la Junta de Gobierno el informe del desempeño de las actividades del Instituto, incluido el ejercicio del presupuesto y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos con la persona titular de la Presidencia con las realizaciones alcanzadas;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 26 DE ABRIL DE 2004)</small>
 
-XII. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe el Instituto y presentar a la Junta de Gobierno por lo menos una vez al año, la evaluación de la gestión con el detalle que previamente se acuerde con la Junta de Gobierno y escuchando al Comisario Público;
+XI. Establecer los mecanismos de evaluación que destaquen la eficiencia y eficacia con que se desempeña el Instituto y presentar semestralmente ante la Junta de Gobierno un informe de autoevaluación, el cual deberá contener los siguientes puntos:
+
+a) Integración y funcionamiento del órgano de gobierno;
+
+b) Informe de gestión de la oficina de la Presidencia;
+
+c) Situación operativa y financiera de la entidad (incluir estados financieros, con sus notas respectivas);
+
+d) Integración de programas y presupuestos (cumplimiento de programas sustantivos);
+
+e) Cumplimiento de la normatividad y políticas generales, sectoriales e institucionales del organismo:
+
+I. Cumplimiento de las disposiciones de racionalidad, austeridad y disciplina presupuestal;
+
+II. Programa de Fomento al Ahorro;
+
+III. Reportes al sistema integral de información;
+
+IV. Indicadores de gestión;
+
+V. Programa de Transparencia y Combate a la Corrupción;
+
+f) Informe del órgano interno de control, sobre el desempeño del Instituto en el apego a la normatividad aplicable;
+
+XII. (DEROGADA, D.O.F. 26 DE ABRIL DE 2004)
 
 XIII. Ejecutar los acuerdos que dicte la Junta de Gobierno;
 
@@ -435,9 +447,7 @@ XIX. Someter a la aprobación de la Junta de Gobierno, las normas y bases para l
 
 XX. Proponer a la Junta de Gobierno las modificaciones que procedan a la estructura básica de la organización del Instituto;
 
-XXI. Proponer a la Junta de Gobierno las medidas conducentes para atender los informes que presente el Contralor Interno, resultantes de las auditorías, exámenes y evaluaciones que
-
-haya realizado;
+XXI. Proponer a la Junta de Gobierno las medidas conducentes para atender los informes que presente el Contralor Interno, resultantes de las auditorías, exámenes y evaluaciones que haya realizado;
 
 XXII. Establecer las instancias de asesoría, de coordinación, de consulta y de apoyo administrativo que se estimen necesarias para el adecuado funcionamiento del Instituto;
 
@@ -453,13 +463,9 @@ XXVII. Definir las políticas de instrumentación de los sistemas de control que
 
 XXVIII. Establecer los criterios de eficiencia, eficacia y productividad de conformidad con el artículo 15 del Reglamento de la Ley Federal de las Entidades Paraestatales;
 
-XXIX. Celebrar y suscribir los acuerdos e instrumentos jurídicos a que se refieren los artículos
+XXIX. Celebrar y suscribir los acuerdos e instrumentos jurídicos a que se refieren los artículos 7 fracciones VII, VIII y XIV y 13 fracción XV de la ley;
 
-7 fracciones VII, VIII y XIV y 13 fracción XV de la ley;
-
-XXX. Las que señalen otras leyes, reglamentos, decretos, acuerdos y demás disposiciones
-
-legales aplicables.
+XXX. Las que señalen otras leyes, reglamentos, decretos, acuerdos y demás disposiciones legales aplicables.
 
 Para que la persona titular de la Presidencia pueda ejercer la atribución consistente en otorgar poderes generales y especiales con las facultades que les competan a los mandatarios, bajo su responsabilidad, determinará cuándo es procedente la protocolización de los mismos, ante notario público, de conformidad con las disposiciones aplicables.
 
@@ -507,9 +513,7 @@ La persona titular de la Presidencia resolverá lo procedente, cuando exista dud
 
 Son atribuciones de la Secretaría Ejecutiva:
 
-I. Auxiliar a la Presidencia en la administración, organización, funcionamiento y operación
-
-del Instituto.
+I. Auxiliar a la Presidencia en la administración, organización, funcionamiento y operación del Instituto;
 
 II. Diseñar y proponer a la persona titular de la Presidencia programas y actividades tendientes a instaurar una cultura de equidad de género y de igualdad de oportunidades y de trato para las mujeres, así como participar en su desarrollo y coordinar su seguimiento y evaluación;
 
@@ -521,17 +525,15 @@ V. Coordinarse y mantener comunicación constante con los Consejos y demás unid
 
 VI. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las labores encomendadas a la Secretaría Ejecutiva a su cargo;
 
-VII. Coordinar, programar y realizar los informes que deberán ser presentados a la Junta de Gobierno anualmente, previa autorización de la Presidencia;
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2004)</small>
+
+VII. Coordinar, programar y realizar los informes que deberán ser presentados a la Junta de Gobierno anualmente y aquellos que deba presentar el Instituto ante las autoridades competentes cuando resulte procedente, previa la autorización de la Presidencia;
 
 VIII. Colaborar y participar vigilando la función de las unidades administrativas del Instituto, reportando a la Presidencia, oportunamente la actuación de éstas;
 
-IX. Vigilar que se cumplan estrictamente las disposiciones legales en todos los asuntos de
+IX. Vigilar que se cumplan estrictamente las disposiciones legales en todos los asuntos de su competencia;
 
-su competencia;
-
-X. Emitir los dictámenes, opiniones e informes que les sean solicitados por la persona titular de
-
-la Presidencia;
+X. Emitir los dictámenes, opiniones e informes que les sean solicitados por la persona titular de la Presidencia;
 
 XI. Desempeñar las demás funciones que se establezcan en el presente Estatuto, en el Reglamento y en el Manual de Organización y demás disposiciones aplicables.
 
@@ -625,9 +627,7 @@ VI. Operar las líneas de comunicación con la sociedad civil, para la instituci
 
 VII. Coordinar la operación de los lineamientos y metodologías de institucionalización con los sectores privado, académico y social;
 
-VIII. Poner en marcha los programas para el fomento e institucionalización de la perspectiva
-
-de género;
+VIII. Poner en marcha los programas para el fomento e institucionalización de la perspectiva de género;
 
 IX. Estudiar, en coordinación con las demás unidades administrativas, y someter a la consideración de la Secretaria Ejecutiva del Instituto, los contratos y convenios con organismos nacionales y extranjeros;
 
@@ -655,9 +655,7 @@ III. Establecer los mecanismos de medición del impacto de la institucionalizaci
 
 IV. Evaluar el proceso de incorporación de la institucionalización de la perspectiva de género, así como los avances de las políticas públicas y de los programas, proyectos y acciones de las dependencias y entidades de la Administración Pública Federal en la materia;
 
-V. Evaluar que las estrategias de colaboración con las entidades federativas y con los poderes u órganos Ejecutivo, Legislativo y Judicial cumplan con la institucionalización de la perspectiva
-
-de género;
+V. Evaluar que las estrategias de colaboración con las entidades federativas y con los poderes u órganos Ejecutivo, Legislativo y Judicial cumplan con la institucionalización de la perspectiva de género;
 
 VI. Elaborar los proyectos estadísticos;
 
@@ -667,7 +665,9 @@ VIII. Evaluar los lineamientos y políticas de institucionalización de la persp
 
 IX. Evaluar periódica y sistemáticamente la ejecución del Programa Nacional para la Igualdad de Oportunidades y No-Discriminación contra las Mujeres en las dependencias, entidades, órganos del gobierno federal y estatal;
 
-X. Elaborar y emitir los informes y recomendaciones sobre los resultados en el cumplimiento del Programa Nacional para la Igualdad de Oportunidades y No-Discriminación contra las Mujeres;
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2004)</small>
+
+X. Elaborar los informes que deban presentarse ante la Junta de Gobierno y emitir las recomendaciones que procedan sobre los resultados en el cumplimiento del Programa Nacional para Igualdad de Oportunidades y no Discriminación Contra las Mujeres, así como los demás que deben ser presentados ante las autoridades competentes, cuando resulte procedente, previa autorización de la Secretaría Ejecutiva y la Presidencia;
 
 XI. Realizar la evaluación periódica y sistemática del desempeño de la gestión institucional a cargo de las Direcciones Generales de Planeación, Promoción y Enlace, así como de la propia Dirección General de Evaluación y Desarrollo Estadístico;
 
@@ -687,9 +687,7 @@ Son atribuciones de la Dirección General de Administración y Finanzas:
 
 I. Administrar los recursos humanos, materiales, inmateriales, servicios generales y financieros del Instituto, con base en los lineamientos establecidos por la normatividad aplicable y conforme a las políticas dispuestas por la persona titular de la Presidencia;
 
-II. Analizar, proponer, gestionar, dictaminar y autorizar las adecuaciones a la estructura
-
-orgánica-ocupacional;
+II. Analizar, proponer, gestionar, dictaminar y autorizar las adecuaciones a la estructura orgánica-ocupacional;
 
 III. Realizar, formalizar, celebrar y suscribir en representación del Instituto los contratos y convenios en materia de adquisiciones, arrendamientos, enajenación y suministro de bienes y servicios, así como de obra pública y servicios relacionados con ésta, de acuerdo a la normatividad aplicable;
 
@@ -739,7 +737,11 @@ XXV. Autorizar y vigilar que se realicen oportunamente los pagos de los requerim
 
 XXVI. Verificar que, en su caso, se efectúen los enteros a la Tesorería de la Federación por concepto de rendimientos bancarios, recuperación de ejercicios anteriores, recuperación de indemnizaciones, ingresos autogenerados, remanentes del ejercicio anterior, así como ejercer la representación legal del Instituto, para el pago o entero de contribuciones federales y locales, y de retenciones al personal a favor de terceros, y
 
-XXVII. Las demás que las disposiciones legales y administrativas le confieran y que le encomiende la persona titular de la Presidencia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 26 DE ABRIL DE 2004)</small>
+
+XXVII. Certificar y/o cotejar los documentos que forman parte de los archivos del Instituto y que sean solicitados por el público en general, en cumplimiento con lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y su Reglamento;
+
+XXVIII. Las demás que las disposiciones legales y administrativas le confieran y que le encomiende la persona titular de la Presidencia.
 
 ###### Artículo 30.
 
@@ -749,21 +751,15 @@ I. Fomentar, en coordinación con las demás unidades administrativas del Instit
 
 II. Representar al Instituto, previa instrucción de la persona titular de la Presidencia, en el cumplimiento de los compromisos que se deriven de los programas de carácter internacional a que se refiere la fracción anterior;
 
-III. Coordinar las actividades que se requieran, para el cumplimiento de los acuerdos interinstitucionales suscritos por el Instituto, de conformidad con la Ley sobre la Celebración
-
-de Tratados;
+III. Coordinar las actividades que se requieran, para el cumplimiento de los acuerdos interinstitucionales suscritos por el Instituto, de conformidad con la Ley sobre la Celebración de Tratados;
 
 IV. Promover el cumplimiento de los tratados y acuerdos internacionales suscritos por México, conforme a los objetivos establecidos en la Ley del Instituto;
 
-V. Promover y gestionar ante organismos internacionales, el apoyo a proyectos y programas de equidad de género e igualdad de oportunidades entre hombres y mujeres y el ejercicio pleno
-
-de los derechos de las mujeres;
+V. Promover y gestionar ante organismos internacionales, el apoyo a proyectos y programas de equidad de género e igualdad de oportunidades entre hombres y mujeres y el ejercicio pleno de los derechos de las mujeres;
 
 VI. Propiciar y organizar la participación del Instituto, en reuniones, congresos, asambleas y eventos internacionales que correspondan al objeto del Instituto;
 
-VII. Promover y difundir en el extranjero, en beneficio de las mujeres del país, las políticas que en materia de equidad de género e igualdad de oportunidades entre hombres y mujeres opera
-
-el Instituto;
+VII. Promover y difundir en el extranjero, en beneficio de las mujeres del país, las políticas que en materia de equidad de género e igualdad de oportunidades entre hombres y mujeres opera el Instituto;
 
 VIII. Servir como enlace del Instituto, previa instrucción de la persona titular de la Presidencia, ante las(os) funcionarios extranjeros que visiten el país en comisión oficial, para tratar asuntos relacionados con la condición social, política, económica y cultural de las mujeres, así como de sus derechos y de equidad de género e igualdad de oportunidades entre hombres y mujeres;
 
@@ -817,11 +813,7 @@ XII. Elaborar y dirigir los procesos de sondeo, encuesta y monitoreo de opinión
 
 XIII. Proponer a la persona titular de la Presidencia, la realización de diversas acciones de imagen institucional que requiera el Instituto;
 
-XIV. Gestionar ante las autoridades federales competentes en materia de comunicación social,
-
-las autorizaciones, consultas, trámites y demás que se requieran conforme a las
-
-disposiciones aplicables;
+XIV. Gestionar ante las autoridades federales competentes en materia de comunicación social, las autorizaciones, consultas, trámites y demás que se requieran conforme a las disposiciones aplicables;
 
 XV. Las demás que las disposiciones legales y administrativas le confieran y que le encomiende la persona titular de la Presidencia.
 
@@ -945,13 +937,9 @@ III. Vigilar la instrumentación y funcionamiento de los sistemas de programaci�
 
 IV. Vigilar que el Instituto conduzca sus actividades conforme a los programas que le sean aplicables;
 
-V. Promover y vigilar que el Instituto establezca indicadores básicos de gestión en materia de operación, productividad, financieros y de impacto social, que permitan medir y evaluar
+V. Promover y vigilar que el Instituto establezca indicadores básicos de gestión en materia de operación, productividad, financieros y de impacto social, que permitan medir y evaluar su desempeño;
 
-su desempeño;
-
-VI. Con base en las autoevaluaciones del Instituto, opinar sobre su desempeño general. La opinión respectiva deberá presentarse por escrito a la Junta de Gobierno y abarcará los
-
-siguientes aspectos:
+VI. Con base en las autoevaluaciones del Instituto, opinar sobre su desempeño general. La opinión respectiva deberá presentarse por escrito a la Junta de Gobierno y abarcará los siguientes aspectos:
 
 a) Integración y funcionamiento de la Junta de Gobierno;
 
@@ -1093,9 +1081,7 @@ Cada Consejera vocal propietaria designará de entre las integrantes del Consejo
 
 Ante tres ausencias injustificadas de una Consejera vocal propietaria, la Junta de Gobierno podrá otorgar en definitiva a la suplente, la designación de vocal propietaria.
 
-II. La persona titular de la Presidencia del Instituto será suplida por la persona titular de la
-
-Secretaría Ejecutiva;
+II. La persona titular de la Presidencia del Instituto será suplida por la persona titular de la Secretaría Ejecutiva;
 
 III. La persona titular de la Secretaría Ejecutiva será suplida por la(el) titular de la Dirección General que en cada caso designe por escrito la persona titular de la Presidencia; en caso de no existir dicha designación o en ausencia de la persona designada, por la(el) de Planeación, de Promoción y Enlace, de Evaluación y Desarrollo Estadístico, en el orden mencionado y de la Dirección General de Administración y Finanzas en ausencia de éstos;
 
@@ -1120,3 +1106,9 @@ CUARTO.- Se derogan las disposiciones internas de carácter administrativo que s
 QUINTO.- Lo dispuesto en el artículo 55 fracción I, párrafo tercero de este Estatuto, no será aplicable respecto de las integrantes de los Consejos Consultivo y Social que fueron nombradas por única vez por el H. Congreso de la Unión de conformidad con el artículo quinto transitorio de la ley.
 
 México, D.F., a 2 de octubre de 2001.- Con fundamento en los artículos 13 fracción XI y 16 fracción V de la Ley del Instituto Nacional de las Mujeres, se expide el presente Estatuto Orgánico: la Presidenta del Instituto Nacional de las Mujeres, Patricia Espinosa Torres.- Rúbrica.- La Secretaria Técnica de la Junta de Gobierno del Instituto, Marta Laura Carranza Aguayo.- Rúbrica.- La Prosecretaria de la Junta de Gobierno del Instituto, Ma. Teresita Aguilar Marmolejo.- Rúbrica.- Documento revisado por: el Coordinador de Asuntos Jurídicos del Instituto, Juan Pablo López Zertuche.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 26 DE ABRIL DE 2004.
+
+Artículo Unico.- El presente Acuerdo entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
