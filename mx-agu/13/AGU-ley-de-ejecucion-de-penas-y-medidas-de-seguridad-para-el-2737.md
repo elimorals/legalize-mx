@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-para-el-2737"
 country: "mx"
 rank: "ley"
 publication_date: "1994-08-07"
-last_updated: "2001-11-26"
+last_updated: "2003-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2003.
 
 Ley publicada en el Suplemento al No. 32 del Periódico Oficial del Estado de Aguascalientes, el 7 de agosto de 1994.
 
@@ -85,9 +85,13 @@ IX.- Hacerse cargo de la publicación especial de sentencia;
 
 X.- Promover lo necesario para que la suspensión o disolución de sociedades sea efectiva;
 
-XI.- Llevar un registro de las conmutaciones, suspensiones condicionadas de ejecución, sustituciones de penas de prisión y medidas de seguridad que se determinen por los tribunales del Estado u organismos especializados, así como de las Preliberaciones que se decreten en los Centros de Reeducación Social a su cargo, para su debido cumplimiento;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2003)</small>
 
-XII.- Conceder a los internos los beneficios de la preliberación; y
+XI.- Llevar un registro de las conmutaciones, suspensiones condicionadas de ejecución, sustituciones de penas de prisión y medidas de seguridad que se determinen por los tribunales del Estado u organismos especializados, así como de los beneficios de preliberación y libertad preparatoria que se decreten en los Centros de Reeducación Social a su cargo, para su debido cumplimiento;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2003)</small>
+
+XII.- Conceder a los internos los beneficios de preliberación y libertad preparatoria; y
 
 XIII.- Las demás que ésta y otras leyes penales le señalen.
 
@@ -115,7 +119,9 @@ Ejecutada alguna pena o medida de seguridad, la Dirección General de Reeducaci�
 
 ## TITULO SEGUNDO. DE LA EJECUCION DE LA PENA DE PRISION
 
-### CAPITULO I. De los Centros de Prevención y Readaptación
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE FEBRERO DE 2003)</small>
+
+### CAPITULO I. De los Centros de Reeducación Social
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
@@ -129,11 +135,11 @@ Los Centros correspondientes estarán a cargo de un Director y del personal admi
 
 En los Centros y secciones destinados a mujeres, el personal de vigilancia será femenino.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 9o.
 
-Los Centros de Prevención y Readaptación Social estarán bajo la inspección y supervisión de la Dirección General de Reeducación Social, la que cuidará que se encuentren en buenas condiciones de higiene y seguridad y que cuenten con los locales separados para los procesados y los sentenciados, así como para hombres y mujeres.
+Los Centros de Reeducación Social estarán bajo la inspección y supervisión de la Dirección General de Reeducación Social, la que cuidará que se encuentren en buenas condiciones de higiene y seguridad, que cuenten con los locales separados para los procesados y los sentenciados, así como para hombres y mujeres y vigilará que se realice el proceso de reeducación social en los internos.
 
 ###### ARTICULO 10.
 
@@ -141,11 +147,13 @@ El Ejecutivo del Estado podrá celebrar Convenios con la Federación, a fin de q
 
 ### CAPITULO II. Del Régimen Penitenciario
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 11.
 
-En todos los Centros de Reeducación Social se implantará un régimen de reeducación basado en la individualización del tratamiento y en el estudio y trabajo obligatorio.
+En todos los Centros de Reeducación Social se implantará un régimen de reeducación basado en la individualización del tratamiento, en estudio y trabajo obligatorio.
+
+Para la mejor individualización del tratamiento se clasificará a los internos en instituciones especializadas entre las que podrán figurar establecimientos de seguridad máxima, media y mínima, así como instituciones psiquiátricas especializadas en el tratamiento de enfermos mentales.
 
 ###### ARTICULO 12.
 
@@ -201,19 +209,35 @@ A todo interno se le formará un expediente que incluirá los resultados de los 
 
 El expediente se dividirá en las siguientes secciones:
 
-I.- Correccional, donde se harán constar los antecedentes sobre su conducta, sanciones disciplinarias, estímulos y recompensas;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2003)</small>
 
-II.- Médico - Psicológica, donde se incluirán los estudios que se realicen sobre el estado de salud física y mental del interno;
+I.- Comportamiento, donde se harán constar los antecedentes sobre su conducta, sanciones disciplinarias, estímulos y recompensas;
 
-III.- Pedagógica, donde se establecerá el grado inicial de instrucción, así como los progresos y calificaciones obtenidas durante su estancia en el establecimiento;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2003)</small>
 
-IV.- Ocupacional, que comprenderá el grado inicial de aptitud para el trabajo, así como las labores desempeñadas y el grado de capacitación para el trabajo que se obtenga; y
+II.- Médico - psiquiátrico, donde se incluirán los estudios que se realicen sobre el estado de salud física y mental del interno;
 
-V.- Social, que comprenderá el estudio del ámbito social y familiar del interno así como su nivel de vida y grado de readaptación social.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2003)</small>
+
+III.- Desarrollo Humano y Formativo, donde se establecerá el grado de avance y desarrollo de los valores personales y de convivencia del interno, así como el grado inicial de instrucción y los progresos y calificaciones educativas obtenidas durante su estancia en el establecimiento;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2003)</small>
+
+IV.- Laboral, que comprenderá el grado inicial de aptitud para el trabajo, así como las labores desempeñadas y el grado de capacitación para el trabajo que se obtenga;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2003)</small>
+
+V.- Social, que comprenderá el estudio del ámbito social y familiar del interno, así como su nivel de vida; y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2003)</small>
+
+VI.- Psicocriminológico, en donde se establecerán los avances en su tratamiento y el grado de probabilidad de reincidencia.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 18.
 
-El régimen penitenciario constará de los siguientes períodos:
+El régimen penitenciario tendrá carácter progresivo y técnico y constará para su desarrollo de los siguientes períodos:
 
 I.- Estudio;
 
@@ -223,19 +247,29 @@ III.- Tratamiento, y
 
 IV.- Reintegración.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 19.
 
-Durante los períodos de estudio y diagnóstico, el personal técnico del Centro realizará el estudio integral de la personalidad del interno, desde los puntos de vista médico, psicológico, social, pedagógico, económico y ocupacional.
+Durante los períodos de Estudio y Diagnóstico, el personal técnico del Centro realizará el estudio integral de la personalidad del interno, desde los puntos de vista médico, psicológico, criminológico, social, desarrollo humano y formativo, económico y laboral.
 
 Tomando en cuenta los resultados de los estudios sobre la personalidad de los internos, éstos serán clasificados en grupos de acuerdo con su capacidad, su edad, salud mental y física. Los menores de 21 años y mayores de 16, deberán estar separados, en lo posible, de los demás internos.
 
+El estudio integral de personalidad del interno deberá de actualizarse con una periodicidad de seis meses a fin de constatar el grado de avance que el interno registre durante dicho periodo en su proceso de reeducación social.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 20.
 
-Durante el período de tratamiento se sujetará a cada interno a las medidas que se consideren más adecuadas. Dicho período se dividirá en fases que permitan seguir un método gradual y adecuado a su readaptación.
+Durante el período de tratamiento se sujetará a cada interno a las medidas que se consideren más adecuadas. Dicho período se dividirá en fases que permitan seguir un método gradual y adecuado a su reeducación.
+
+Entendiéndose por tratamiento, al conjunto de actividades formativas orientadas a desarrollar las aptitudes de los internos, enriqueciendo sus conocimientos, utilizando las técnicas de carácter psicosocial tendientes a mejorar sus capacidades, abordando las problemáticas específicas que puedan haber influido en su comportamiento delictivo anterior, potenciando los contactos con el exterior a través de la participación comunitaria.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 21.
 
-El período de reintegración se iniciará con la obtención de la libertad definitiva o preliberación. Durante este período se proporcionará a los liberados ayuda a fin de reincorporarlos al medio social por medio de los organismos especializados para ello, de carácter privado o público.
+El período de reintegración se iniciará con la obtención de la libertad preliberacional, preparatoria o definitiva, durante este período se proporcionará a los liberados ayuda a fin de reincorporarlos al medio social por medio de los organismos especializados para ello, de carácter privado o público.
 
 ### CAPITULO IV. De los Servicios
 
@@ -259,6 +293,8 @@ En el interior de los Centros de Reeducación Social, se establecerán los mecan
 
 ### CAPITULO V. De los Estímulos y Beneficios
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 26.
 
 Los hechos meritorios de los internos podrán ser objeto de los siguientes estímulos y beneficios:
@@ -271,63 +307,69 @@ III.- Exención de servicios manuales no retribuidos;
 
 IV.- Empleo de cargos o comisiones auxiliares de confianza;
 
-V.- Preliberación; y
+V.- Preliberación;
 
-VI.- Indulto.
+VI.- Libertad preparatoria; e
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+VII.- Indulto.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 27.
 
-El Director del Centro concederá discrecionalmente el estímulo a que se hubiese hecho acreedor el interno por su conducta, sin considerar la preliberación, y el indulto cuya obtención se maneja por criterios diferentes.
+El Director del Centro concederá discrecionalmente el estímulo, a que se hubiese hecho acreedor el interno por su conducta, sin considerar la preliberación, la libertad preparatoria y el indulto, cuya obtención se maneja por criterios diferentes.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 28.
 
-La Preliberación se otorgará a todo interno, a excepción de los que hayan sido sentenciados por delito grave, siempre y cuando se reúnan los siguientes requisitos:
+La libertad preparatoria se otorgará a todo interno siempre y cuando se reúnan los siguientes requisitos:
 
-I.- Que sea la primera vez que haya delinquido o que siendo su primera reincidencia no haya sido condenado con anterioridad por la comisión de un delito calificado como grave por la Ley;
+I.- Que no se trate de interno reincidente, entendiéndose por tal al que se menciona en el Artículo 379 párrafo segundo del Código de Procedimientos Penales;
 
-II.- Haber cumplido las tres quintas partes de la pena de prisión impuesta por comisión de delito que no sea considerado grave;
+II.- Haber cumplido las tres quintas partes de la pena de prisión impuesta por comisión de delito grave y las dos quintas partes en caso de que no lo sea;
 
-III.- Haber observado durante su internamiento buena conducta, sin limitarse al simple cumplimiento de los reglamentos del Centro, sino también a su mejoramiento cultural, perfeccionamiento en el servicio y superación en el trabajo, y que ello revele un afán constante de readaptación social;
+III.- Haber observado durante su internamiento buena conducta sin limitarse al simple cumplimiento de los reglamentos del Centro, sino también a su mejoramiento cultural, perfeccionamiento en el servicio y superación en el trabajo, y que ello revele un afán constante de reeducación social;
 
 IV.- Ofrecer dedicarse en un plazo que la resolución determine, a un oficio, arte, industria, profesión o cualquier otra actividad honesta para vivir; y
 
-V.- Que se hayan reparado plenamente los daños y perjuicios causados.
+V.- Que se hayan reparado plenamente los daños y perjuicios causados u otorgue garantía ante la Autoridad Judicial.
 
-Para la obtención del beneficio a que se refiere el presente artículo, es requisito indispensable el estudio que acredite que el sentenciado efectivamente se encuentra readaptado.
+Para la obtención del beneficio a que se refiere el presente artículo es requisito indispensable el estudio que acredite que el sentenciado efectivamente se encuentra reeducado.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2003)</small>
+
+ARTICULO 28 BIS.- El beneficio de preliberación se otorgará a todo interno, que cumpla con los requisitos establecidos para la obtención del beneficio de libertad preparatoria, un año antes de la obtención de la misma, y el cual podrá consistir en permisos de salida diaria con reclusión nocturna, así como reclusión entre semana con salida de fin de semana, entendiéndose por tal al sábado y domingo.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 29.
 
-La solicitud del interno que crea tener derecho a la preliberación, se remitirá a la Dirección General de Reeducación Social, con copia a la Dirección del Centro de Reeducación correspondiente.
+La solicitud del interno que crea tener derecho a los beneficios de preliberación y/o libertad preparatoria, se remitirá a la Dirección General de Reeducación Social, con copia a la Dirección del Centro de Reeducación correspondiente.
 
-Recibida la solicitud, la Dirección recabará informe del Director del Centro correspondiente, elaborado con el apoyo del Consejo Interdisciplinario y que deberá ser rendido en un término no mayor de 3 días. Obtenido el informe, se dará vista al Ministerio Público encargado de la vigilancia en la ejecución de penas, quien en un término de 5 días emitirá su dictamen, en relación a la procedencia de la solicitud, y una vez obtenido aquél, la Dirección resolverá lo conducente en un término no mayor de 8 días.
+Recibida la solicitud, la Dirección recabará informe del Director del Centro correspondiente, elaborado con el apoyo del Consejo Técnico Interdisciplinario y que deberá ser rendido en un término no mayor de 5 días. Obtenido el informe, se dará vista al Ministerio Público encargado de la vigilancia en la Ejecución de Penas, quien en un término de 5 días emitirá su dictamen, en relación a la procedencia de la solicitud, y una vez obtenido aquél, la Dirección resolverá lo conducente en un término no mayor de 8 días.
 
 ###### ARTICULO 30.
 
 La resolución que se pronuncie contendrá las observaciones y antecedentes relacionados con la conducta del solicitante durante su internamiento, así como los datos que demuestren que se encuentra en condiciones de ser reintegrado a la vida social. Tal resolución será comunicada al Director del Centro correspondiente y al Procurador General de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 31.
 
-Los sentenciados que disfruten de la preliberaciòn quedarán sujetos a la vigilancia de la Dirección General de Reeducación Social por el tiempo que les faltare para cumplir su sanción.
+Los sentenciados que disfruten de la obtención de los beneficios de preliberación y/o libertad preparatoria quedarán sujetos a la vigilancia de la Dirección General de Reeducación Social por el tiempo que les faltare para cumplir su sanción.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 32.
 
-Cuando el beneficiado con la preliberación deje de cumplir alguna de las condiciones establecidas en la resolución respectiva o participe en otro hecho delictivo en el cual haya sentencia ejecutoria, se le privará nuevamente de la libertad para que extinga toda la parte de la prisión que no se haya ejecutado directamente revocando el beneficio concedido.
+Cuando el beneficiado con la obtención de los beneficios de preliberación y/o libertad preparatoria deje de cumplir alguna de las condiciones establecidas en la resolución respectiva o participe en otro hecho delictivo en el cual haya sentencia ejecutoria, se le privará nuevamente de la libertad para que extinga toda la parte de la prisión que no se haya ejecutado directamente revocando el beneficio concedido.
 
 Si el nuevo delito cometido es de carácter culposo el beneficio concedido no se revocará.
 
-En el caso de que el preliberado se encuentre en libertad la Dirección General de Reeducación Social pedirá al Ministerio Público de la causa por la cual se otorgó la preliberación solicite al Juez dicte orden de reaprehensión.
+En el caso de que el beneficiado se encuentre en libertad, la Dirección General de Reeducación Social pedirá al Ministerio Público de la causa por el cual se otorgó el beneficio correspondiente solicite al Juez dicte orden de reaprehensión.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 33.
 
@@ -335,9 +377,9 @@ El indulto procede a juicio del Gobernador en los casos siguientes:
 
 I.- Cuando el interno haya prestado importantes servicios a la Nación o al Estado;
 
-II.- Tratándose de hechos delictivos a que hace referencia el Título Décimo Quinto, Capítulos Primero, Segundo y Tercero del Libro Segundo del Código Penal;
+II.- Tratándose de hechos delictivos a que hacen referencia el Título Décimo Quinto, Capítulos Primero, Segundo y Tercero del Libro Segundo del Código Penal;
 
-III.- Cuando el interno alcance su efectiva resocialización y readaptación según el dictamen del área técnica correspondiente, cumpla con su trabajo y haya observado intachable conducta y participado en las actividades educativas que se organicen en el Centro de Reeducación correspondiente;
+III.- Cuando el interno alcance su efectiva reeducación según el dictamen del área técnica, cumpla con su trabajo, haya observado intachable conducta, participado en las actividades educativas que se organicen y que se destaque en alguna acción o actividad en favor de diversa persona o en beneficio del Centro de Reeducación correspondiente;
 
 IV.- Cuando el interno haya contraído una enfermedad infecciosa y mortal, que ya no pueda ser controlada médicamente; o
 
@@ -375,13 +417,13 @@ Las que se perciban por concepto de pago de reparación de daños y perjuicios, 
 
 ### CAPITULO I. De la Suspensión, Privación e Inhabilitación de Derechos, Funciones, Cargos, Comisiones, Empleos o Profesiones
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 38.
 
 Una vez recibida copia de la sentencia ejecutoria, la Dirección General de Reeducación Social verificará si existe alguna pena relativa a suspensión, privación e inhabilitación de derechos, funciones, cargos, comisiones, empleos o profesiones, para el efecto de que mantengan la vigilancia correspondiente sobre el sentenciado durante el tiempo que dure la pena, y se cumpla la misma en los términos que fijen los tribunales.
 
-En cuanto tenga conocimiento de que alguna entidad pública o privada pretenda habilitar al sentenciado en la función, cargo, comisión, empleo o cargo motivo de la suspensión, privación o inhabilitación, le dará a conocer el contenido de la sentencia para que la misma sea cumplida en todos sus términos.
+En cuanto tenga conocimiento de que alguna entidad pública o privada pretenda habilitar al sentenciado en la función, cargo, comisión o empleo motivo de la suspensión, privación o inhabilitación, le dará a conocer el contenido de la sentencia para que la misma sea cumplida en todos sus términos.
 
 ### CAPITULO II. De la Amonestación
 
@@ -536,3 +578,7 @@ P.O. 26 DE NOVIEMBRE DE 2001.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor a los treinta días siguientes a la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE FEBRERO DE 2003.
+
+UNICO.- La presente reforma entrará en vigor a los diez días siguientes a su publicación en el Periódico Oficial del Estado.
