@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2003-10-02"
+last_updated: "2004-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2004.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1239,6 +1239,12 @@ Mientras se hace la designación ordenada en el artículo anterior o en cualquie
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
 
+###### ARTICULO 95.
+
+Los Decretos, Reglamentos, Acuerdos, Circulares, Ordenes y disposiciones que dicte el Gobernador, así como los documentos que suscriba en ejercicio de sus funciones constitucionales, deben ser firmados por el Secretario General, sin este requisito no surtirán efectos legales.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+
 ###### Art. 87.
 
 En los casos de licencia temporal concedida al Gobernador, el Congreso o la Diputación Permanente, en caso de receso, por mayoría de los Diputados presentes, nombrarán un substituto a propuesta en terna del Ejecutivo, para el tiempo que dure la licencia, debiendo tener el substituto los mismos requisitos que el Constitucional. Las ausencias del Gobernador en períodos que no excedan de 30 días serán cubiertas por el Secretario de Gobierno, encargado del despacho; cuando excedan de dicho término, el H. Congreso o la Diputación Permanente decide el interino.
@@ -1508,6 +1514,10 @@ El Secretario General de Gobierno tendrá responsabilidad solidaria con el Gober
 La ausencia temporal del Secretario General de Gobierno será cubierta por uno de los Subsecretarios del ramo, con las prerrogativas, obligaciones y responsabilidades que establecen los Artículos 95, 96, 97 y 98 de esta Constitución.
 
 ## TITULO VI. DEL PODER JUDICIAL
+
+###### ARTICULO 99.
+
+La ausencia temporal del Secretario General de Gobierno será cubierta por uno de los Subsecretarios del ramo, con las prerrogativas, obligaciones y responsabilidades que establecen los Artículos 95, 96, 97 y 98 de esta Constitución.
 
 ### CAPITULO I. De la Administración de Justicia
 
@@ -2129,7 +2139,7 @@ Para el cumplimiento de las disposiciones contenidas en el Artículo 123 de la C
 
 DISPOSICIONES GENERALES.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2004)</small>
 
 ### CAPITULO IV. Del Trabajo y Previsión Social
 
@@ -2245,6 +2255,10 @@ Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido 
 
 Las leyes sobre responsabilidades administrativas de los servidores públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del Artículo 150, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2004)</small>
+
+La responsabilidad del Estado por daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 155.
@@ -2257,7 +2271,9 @@ La ley señalará los plazos de prescripción de la responsabilidad administrati
 
 ## TITULO XII
 
-### CAPITULO UNICO.. De las responsabilidades de los Servidores Públicos
+### CAPITULO UNICO.
+
+De las responsabilidades de los Servidores Públicos y Patrimonial del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -3314,6 +3330,12 @@ P.O. 2 DE OCTUBRE DE 2003.
 DECRETO NO. 365 QUE REFORMA LA FRACCION XXXIII DEL ARTICULO 91.
 
 Artículo Único.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1º de enero de 2004.
+
+P.O. 2 DE MARZO DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Congreso del Estado se abocará a la expedición de la ley reglamentaria del segundo párrafo del artículo 154 de la Constitución Política del Estado, dentro de un plazo que no excederá de 90 días posteriores a la entrada en vigor del presente Decreto.
 
 ###### ARTICULO UNICO.
 
