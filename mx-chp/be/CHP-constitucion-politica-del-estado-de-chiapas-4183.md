@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1997-10-10"
+last_updated: "1998-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 1998.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -709,7 +709,7 @@ VI.- No haber ocupado en el período inmediato anterior el cargo de gobernador p
 
 ## TITULO SEXTO. DEL PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 36.
 
@@ -913,9 +913,13 @@ Este Organismo carecerá de competencia para conocer de materias jurisdiccional,
 
 ###### ARTICULO 49.
 
-El ejercicio del Poder Judicial se deposita en el Supremo Tribunal de Justicia del Estado; en los Juzgados de Primera Instancia; en los Juzgados Menores y en los Municipales. Estos funcionarán sólo en aquellos municipios en que no exista alguno de los primeros.
+El ejercicio del Poder Judicial se deposita en el Supremo Tribunal de Justicia del Estado; en los juzgados de primera instancia; en los juzgados de paz y conciliación, que en los municipios con población mayoritariamente indígena en los términos de la legislación orgánica municipal se denominarán Juzgados de Paz y Conciliación Indígenas, y en los Juzgados Municipales.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 El Pleno del Supremo Tribunal de Justicia del Estado, cada año designará a uno de sus miembros como Presidente, pudiendo ser reelecto.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 El Supremo Tribunal de Justicia se integrará y funcionará en Pleno o en Salas en los términos de la Ley Orgánica del Poder Judicial del Estado.
 
@@ -979,15 +983,15 @@ V.- (DEROGADA, P.O. 25 DE MARZO DE 1992)
 
 El Magistrado Presidente del Supremo Tribunal de Justicia del Estado tendrá la representación del Poder Judicial del Etado, presidirá el Peno e informará por escrito al Congreso del Etado en el mes de diciembre de cada año, sobre el estado que guarda la administración de justicia y las demás atribuciones que establezca la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 53.
 
-Los Magistrados del Supremo Tribunal de Justicia del Estado, los Jueces de Primera Instancia y los Menores, durarán en sus funciones seis años, pudiendo ser ratificados.
+Los Magistrados del Supremo Tribunal de Justicia del Estado y los Jueces de Primera Instancia, durarán en sus funciones seis años, pudiendo ser ratificados.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1998)</small>
 
-Los magistrados que fueren ratificados, sólo podrán ser destituidos, previo juicio de responsabilidad, cuando observen mala conducta, sean negligentes en el desempeño de sus labores, dejen de reunir alguno de los requisitos que para el ejercicio del cargo señale la Ley, o incurran en alguna de las hipótesis previstas en el título noveno de esta Constitución y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas. Por necesidades del servicio los jueces podrán ser cambiados de adscripción por el Pleno del Supremo Tribunal de Justicia del Estado
+Los Magistrados que fueren ratificados, sólo podrán ser destituidos, previo juicio de responsabilidad, cuando observen mala conducta, sean negligentes en el desempeño de sus labores, dejen de reunir alguno de los requisitos que para el ejercicio del cargo señale la ley, o incurran en alguna de las hipótesis previstas en el Título noveno de esta Constitución y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
@@ -1019,13 +1023,13 @@ III.- Dirimir conflictos de competencia que se susciten en las salas del Supremo
 
 IV.- Nombrar, remover y sancionar a los Secretarios del Supremo Tribunal de Justicia y demás empleados del Poder Judicial, de conformidads (sic) con las leyes respectivas;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 1998)</small>
 
-V.- Nombrar, remover y sancionar a los Jueces de Primera Instancia, a los Menores, y a los Municipales;
+V.- Nombrar, remover y sancionar a los Jueces de Primera Instancia, a los de Paz y Conciliación, y a los Municipales;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 1998)</small>
 
-VI.- Determinar los distritos judiciales en que se divida el estado; el número de salas regionales, y de Juzgados de Primera Instancia, la residencia, la jurisdicción territorial y la especialización que por materia corresponda;
+VI.- Determinar los Distritos Judiciales en que se divida el Estado; el número de Salas Regionales, Juzgados de Primera Instancia, Juzgados de Paz y Conciliación, y Juzgados Municipales; la residencia, la jurisdicción territorial y la especialización que por materia les corresponda;
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -1047,11 +1051,11 @@ Las Salas tendrán las facultades que establezcan la Ley Orgánica del Poder Jud
 
 Ningún funcionario de la Administración de Justicia podrá aceptar o desempeñar otro empleo o cargo, salvo los de docencia y los honoríficos en asociaciones científicas, artísticas o de beneficencia. La infracción de este artículo será castigado con la pérdida del cargo Judicial respectivo.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 56.
 
-Los Jueces Municipales serán nombrados por el Supremo Tribunal de Justicia del Estado, quien tomará en consideración las propuestas de los Ayuntamientos Municipales respectivos, cuando éstas satisfagan los requisitos de probidad y capacidad establecidos por el pleno del Tribunal. En los municipios en que existan juzgados de Primera Instancia y menores, éstos asumirán la competencia de los Juzgados Municipales en los términos de la Ley Orgánica Municipal.
+Los Jueces de Paz y Conciliación y los Jueces Municipales, serán nombrados por el Supremo Tribunal de Justicia del Estado, quien tomará en consideración las propuestas de los Ayuntamientos Municipales respectivos, quienes previamente consultarán con la comunidad, cuando éstas satisfagan los requisitos de probidad y capacidad establecidos por el Pleno del Tribunal. En los municipios en que existan Juzgados de Primera Instancia y Juzgados de Paz y Conciliación, estos asumirán la competencia de los Juzgados Municipales.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -2192,3 +2196,9 @@ P.O. 10 DE OCTUBRE DE 1997.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MARZO DE 1998.
+
+###### ARTICULO UNICO.
+
+Las reformas a la Constitución Política del Estado, previstas en el Artículo único del presente decreto, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
