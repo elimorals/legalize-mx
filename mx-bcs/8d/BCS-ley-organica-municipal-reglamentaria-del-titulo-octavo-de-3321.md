@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "2002-07-10"
+last_updated: "2004-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE FEBRERO DE 2004.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -451,13 +451,13 @@ XVIII. Proveer lo necesario para que las oficinas de Catastro y Registro Públic
 
 XIX. Las demás disposiciones que les señala esta Ley y cualquier otro ordenamiento en vigor.
 
-> <small>(REFORMADO, B.O. 14 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 27-A.
 
-Los nombramientos de Delegados deben hacerse con la participación de los ciudadanos de las respectivas jurisdicciones, mediante la celebración de plebiscitos y de acuerdo a las normas que establezca la convocatoria que para tal efecto expida el Ayuntamiento. Por lo que a más tardar el segundo domingo de junio del primer año de Gobierno Municipal, los Ayuntamientos expedirán la convocatoria respectiva y celebrarán los plebiscitos.
+Los nombramientos de Delegados deben hacerse con la participación de los ciudadanos de las respectivas jurisdicciones, pudiendo efectuarse mediante una consulta ciudadana y de acuerdo a las normas que establezca la convocatoria que para el efecto expida el Ayuntamiento. Por lo que, a más tardar el segundo domingo del mes de junio del primer año de Gobierno Municipal, los Ayuntamientos expedirán la convocatoria respectiva.
 
-En dicha convocatoria deberá establecerse el número de participantes elegibles, los requisitos de elegibilidad, el calendario de actividades electorales y las demás circunstancias y normas que el Ayuntamiento estime a que deba someterse la elección correspondiente. El Ayuntamiento calificará los plebiscitos celebrados, hará la declaratoria correspondiente y pasará ésta al Presidente Municipal para su ejecución, debiendo tomar posesión de su cargo los Delegados electos siete días después de la celebración del plebiscito.
+En dicha convocatoria deberá establecerse el número de participantes elegibles, los requisitos de elegibilidad, el calendario de actividades y las demás circunstancias y normas que el Ayuntamiento estime a que deba someterse la elección correspondiente. El Ayuntamiento calificará los resultados, hará la declaratoria correspondiente y pasará ésta al Presidente Municipal para su ejecución, debiendo tomar posesión de su cargo los Delegados electos a más tardar siete días después de la celebración de la consulta ciudadana.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
@@ -1560,3 +1560,7 @@ Los ayuntamientos de la entidad contarán con noventa días naturales par (sic) 
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE FEBRERO DE 2004.
+
+ÚNICO: El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
