@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fomento-a-la-cultura-y-el-arte-para-el-estado-de-11821"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-25"
-last_updated: "1995-11-25"
+last_updated: "1997-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11821&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE FOMENTO A LA CULTURA Y EL ARTE PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 1997.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el sábado 25 de Noviembre de 1995.
 
@@ -93,7 +93,9 @@ I.- Al Gobernador Constitucional;
 
 II.- A los Ayuntamientos Constitucionales;
 
-III.- Al Instituto Cultural y Artístico de Nayarit.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1997)</small>
+
+III.- A la Secretaría de Educación y Cultura.
 
 ###### ARTICULO 5o.
 
@@ -107,7 +109,9 @@ Asimismo, el Programa de Fomento a la Cultura establecerá lineamientos de coord
 
 Las autoridades estatales y municipales competentes fomentarán la cultura con sujeción a las reglas que a continuación se señalan:
 
-I.- Atender las recomendaciones y actividades del Instituto Cultural y Artístico de Nayarit, con arreglo a lo que esta ley establece;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1997)</small>
+
+I.- Atender las recomendaciones y actividades de la Secretaría de Educación y Cultura, con arreglo a lo que esta ley establece;
 
 II.- Crear y operar establecimientos culturales de interés estatal, como casas y centros de cultura, escuelas, bibliotecas, centros de capacitación o de investigación, museos, salas de exposición, imprentas y editoriales y otros establecimientos de naturaleza análoga;
 
@@ -189,11 +193,15 @@ El Gobierno del Estado y los Ayuntamientos podrán instituir establecimientos co
 
 Las autoridades encargadas de aplicar esta ley podrán organizar festivales culturales que contribuyan al acrecentamiento y difusión de la cultura nayarita, nacional o universal.
 
-Tanto el Estado como los Municipios promoverán, a través del Instituto Cultural y Artístico de Nayarit, un registro oficial de ferias y festivales de carácter permanente cultural a efecto de que se incluyan en el calendario oficial de la materia y se promuevan los apoyos técnicos, materiales y financieros pertinentes.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1997)</small>
+
+Tanto el Estado como los Municipios promoverán, a través de la Secretaría de Educación y Cultura, un registro oficial de ferias y festivales de carácter permanente cultural a efecto de que se incluyan en el calendario oficial de la materia y se promuevan los apoyos técnicos, materiales y financieros pertinentes.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 13.
 
-El Estado y los Municipios, a través del Instituto Cultural y Artístico de Nayarit, convocarán para que dentro de los festivales se promuevan concursos y reconocimientos a obras literarias realizadas por personas físicas o morales.
+El Estado y los Municipios, a través de la Secretaría de Educación y Cultura, convocarán para que dentro de los festivales se promuevan concursos y reconocimientos a obras literarias realizadas por personas físicas o morales.
 
 ###### ARTICULO 14.
 
@@ -223,9 +231,11 @@ El Estado y los Municipios fomentarán la creación de instituciones de asistenc
 
 Se crea el Sistema Estatal de Cultura como un mecanismo de coordinación funcional de las dependencias y entidades públicas y los establecimientos culturales que actúen en el Estado de Nayarit y que tendrá por objeto vincular racionalmente la producción, distribución y prestación de bienes y servicios culturales para favorecer su disfrute y la protección, acrecentamiento y difusión de los valores y patrimonio cultural nayarita.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 20.
 
-El Sistema Estatal de Cultura será operado y coordinado a través de los órganos competentes del Instituto Cultural y Artístico de Nayarit, integrándose además con las casas y centros de cultura, bibliotecas, museos, centros de exposición, escuelas de educación artística, centros de investigación cultural y demás establecimientos culturales para el logro de los siguientes fines:
+El Sistema Estatal de Cultura será operado y coordinado a través de los órganos competentes de la Secretaría de Educación y Cultura, integrándose además con las casas y centros de cultura, bibliotecas, museos, centros de exposición, escuelas de educación artística; centros de investigación cultural y demás establecimientos culturales para el logro de los siguientes fines:
 
 I.- Evitar duplicaciones de infraestructura;
 
@@ -235,7 +245,7 @@ III.- Garantizar el apoyo mutuo;
 
 IV.- Elaborar, y llevar a cabo programas proyectos conjuntos; y
 
-V.- Apoyar los programas y proyectos de interés estatal y, en general, la elaboración ejecución del programa de Fomento a la Cultura.
+V.- Apoyar los programas y proyectos de interés estatal y, en general, la elaboración ejecución del Programa de Fomento a la Cultura.
 
 ### CAPÍTULO VII. De la Investigación
 
@@ -257,9 +267,11 @@ El Ejecutivo del Estado y los Municipios, fomentarán investigaciones y promover
 
 El Estado y los Municipios protegerán el valor cultural de las artesanías nayaritas y, al mismo tiempo, apoyarán la producción artesanal y su comercialización estatal, nacional e internacionalmente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 24.
 
-El Instituto Cultural y Artístico de Nayarit, en apoyo a las distintas dependencias de la administración pública y los Ayuntamientos, llevará:
+La Secretaría de Educación y Cultura en apoyo a las distintas dependencias de la administración pública y los Ayuntamientos, llevará:
 
 I.- Un padrón de artesanos reconocidos por la excelencia de sus obras;
 
@@ -271,9 +283,11 @@ IV.- Las medidas que coadyuven a la comercialización equitativa y eficiente de 
 
 IV.- La promoción de la capacitación de los artesanos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 25.
 
-El Instituto Cultural y Artístico de Nayarit, con la intervención que corresponda a las dependencias del Poder Ejecutivo y a los Ayuntamientos, se ocupará de contribuir para:
+La Secretaría de Educación y Cultura, con la intervención que corresponda a las dependencias del Poder Ejecutivo y a los Ayuntamientos, se ocupará de contribuir para:
 
 I.- Realizar investigaciones sobre los artesanos y en general respecto de la actividad artesanal.
 
@@ -310,3 +324,9 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno
 
 Lic. Sigfrido de la Torre Miramontes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE OCTUBRE DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
