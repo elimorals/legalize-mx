@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-ejecucion-de-sanciones-penales-para-el-distrito-14969"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-17"
-last_updated: "1999-09-17"
+last_updated: "2000-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14969&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-09-15"
 
 LEY DE EJECUCION DE SANCIONES PENALES PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE JULIO DE 2000.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal el viernes 17 de septiembre de 1999. Republicada en el Diario Oficial de la Federación el jueves 30 de septiembre de 1999.
 
@@ -62,27 +62,57 @@ II.- Secretaría, a la Secretaría de Gobierno del Distrito Federal;
 
 III.- Autoridad Ejecutora, al Jefe de Gobierno, por conducto de la Secretaría y de la Subsecretaría de Gobierno del Distrito Federal;
 
-IV.- Dirección, a la Dirección General de Prevención y Readaptación Social de la Subsecretaría de Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
 
-V.- Sistema Penitenciario del Distrito Federal, al conjunto de centros preventivos, de ejecución de sanciones penales, de rehabilitación psicosocial, y de asistencia postpenitenciaria;
+IV.- Dirección General, a la Dirección General de Prevención y Readaptación Social de la Subsecretaría de Gobierno del Distrito Federal;
 
-VI.- Indiciado, desde que se le inicia averiguación previa y hasta que se le dicta auto de formal prisión;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
 
-VII.- Reclamado, persona a la que se le decreta su detención provisional por estar sujeta a un proceso de extradición internacional;
+V.- Dirección, a la Dirección de Ejecución de Sanciones Penales de la Subsecretaría de Gobierno del Distrito Federal;
 
-VIII.- Procesado, persona que se encuentra a disposición de la autoridad judicial por estar sujeta a proceso;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
 
-IX.- Sentenciado, a la persona que se ha dictado en su contra una resolución penal condenatoria que ha causado ejecutoria;
+VI.- Instituciones del Sistema Penitenciario del Distrito Federal, al conjunto de centros preventivos, de ejecución de sanciones penales, de rehabilitación psicosocial, y de asistencia postpenitenciaria;
 
-X.- Interno, persona que se encuentra recluida dentro de cualquiera de las instituciones que integran el Sistema Penitenciario del Distrito Federal, independientemente de su situación jurídica;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
 
-XI.- Inimputable, persona así reconocida por el órgano jurisdiccional, en los términos de la fracción VII del artículo 15 del Código Penal para el Distrito Federal;
+VII.- Indiciado, desde que se le inicia la averiguación previa y hasta que se le dicta auto de formal prisión;
 
-XII.- Enfermo Psiquiátrico, al sujeto que en el transcurso del cumplimiento de su sentencia le es diagnosticado por un especialista un padecimiento psiquiátrico;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
 
-XIII.- Preliberado, persona que ha obtenido un beneficio de libertad anticipada; y
+VIII.- Reclamado, persona a la que se le decreta su detención provisional por estar sujeta a un proceso de extradición internacional;
 
-XIV.- Consejo, al Consejo Técnico Interdisciplinario de los diversos centros de reclusión del Distrito Federal.
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
+
+IX.- Procesado, persona que se encuentra a disposición de la autoridad judicial por estar sujeta a proceso;
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
+
+X.- Sentenciado, a la persona que se ha dictado en su contra una resolución penal condenatoria que ha causado ejecutoria;
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
+
+XI.- Interno, persona que se encuentra recluida dentro de cualquiera de las instituciones que integran el Sistema Penitenciario del Distrito Federal, independientemente de su situación jurídica;
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
+
+XII.- Inimputable, persona así reconocida por el órgano jurisdiccional, en los términos de la fracción VII del artículo 15 del Código Penal para el Distrito Federal;
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
+
+XIII.- Externado, persona que está sujeta a tratamiento en externación;
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
+
+XIV.- Enfermo Psiquiátrico, al sujeto que en el transcurso del cumplimiento de su sentencia le es diagnosticado por un especialista un padecimiento psiquiátrico;
+
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2000)</small>
+
+XV.- Preliberado, persona que ha obtenido un beneficio de libertad anticipada; y
+
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2000)</small>
+
+XVI.- Consejo, al Consejo Técnico Interdisciplinario de los diversos centros de reclusión del Distrito Federal.
 
 ###### Artículo 3°.
 
@@ -94,13 +124,17 @@ Para la administración de las Instituciones que integran el Sistema Penitenciar
 
 Corresponde al Jefe de Gobierno, por conducto de la Secretaría, la aplicación de esta Ley.
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2000)</small>
+
 ###### Artículo 5°.
 
-La Secretaría, a través de la Subsecretaría de Gobierno y de la Dirección, aplicará las disposiciones de la presente Ley.
+La Secretaría, a través de la Subsecretaría de Gobierno, La Dirección General y la Dirección aplicará las disposiciones de la presente Ley.
+
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2000)</small>
 
 ###### Artículo 6°.
 
-Para el cumplimiento de las funciones contenidas en la presente Ley, la Dirección contará con las instalaciones, personal y presupuesto que se le asigne.
+Para el cumplimiento de las funciones contenidas en la presente Ley, la Dirección General y la Dirección contarán con las instalaciones, personal y presupuesto que se le asigne.
 
 ###### Artículo 7°.
 
@@ -110,9 +144,11 @@ Para la aplicación de la presente Ley, la Autoridad Ejecutora podrá celebrar c
 
 ### CAPITULO I. DE LA PREVENCION GENERAL
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2000)</small>
+
 ###### Artículo 8°.
 
-El Sistema Penitenciario del Distrito Federal, se organizará en base al trabajo, la capacitación para el mismo y la educación.
+La Subsecretaría, a través del a Dirección General, organizará las instituciones del Sistema Penitenciario del Distrito Federal, vigilando que el proceso de readaptación de los internos esté basado ene l trabajo, la capacitación para el mismo y la educación.
 
 ###### Artículo 9°.
 
@@ -270,25 +306,49 @@ A todo sentenciado que se le haya concedido el beneficio de la Condena Condicion
 
 El Tratamiento en Externación es un medio de ejecutar la sanción penal, de carácter eminentemente Técnico, por el que se somete al sentenciado ejecutoriado a un proceso tendiente al fortalecimiento de los valores sociales, éticos, cívicos y morales, que le permitirá una adecuada reinserción a la sociedad.
 
+> <small>(ADICIONADO, G.O. 25 DE JULIO DE 2000)</small>
+
+###### Artículo 33 Bis.
+
+No se concederá el tratamiento en externación a los sentenciados por el delito de corrupción de menores previsto en el artículo 201; por el delito de lenocinio previsto en los artículo 206 y 208; por el delito de incesto previsto en el artículo 272; por el delito de extorsión previsto en el artículo 390 en relación al segundo párrafo; por el delito de robo con violencia en las personas en un inmueble habitado o destinado para habitación, conforme a los previsto en el artículo 367 en relación con los artículos 372 y 381 bis todos del Código Penal para el Distrito Federal.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2000)</small>
+
 ###### Artículo 34.
 
-En las Instituciones de Tratamiento en Externación solo se atenderá al sentenciado que:
+En las instituciones de Tratamiento en Externación sólo se atenderá al sentenciado que:
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
 
 I.- La pena privativa de libertad impuesta no exceda de cinco años.
 
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
+
 II.- Durante el desarrollo del proceso y hasta que cause ejecutoria la sentencia hubiese gozado de Libertad Provisional Bajo Caución.
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
 
 III.- Sea primodelincuente.
 
-IV.- Cumpla con actividades en favor de la comunidad, las cuales serán establecidas por la Dirección.
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2000)</small>
 
-V.- Cuente con trabajo permanente o se encuentre estudiando en Institución reconocida oficialmente, con excepción de aquellos de 75 o mas años.
+IV.- Cuente con trabajo permanente o se encuentre estudiando en institución reconocida oficialmente con excepción de aquellos de 75 o más años;
 
-VI.- En caso de haber sido condenado a la reparación del daño, ésta se haya garantizado, cubierto o declarado prescrita.
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2000)</small>
+
+V.- Cuente con una persona conocida, que se comprometa y garantice a la Autoridad Ejecutora, el cumplimiento de las obligaciones contraidas por el externado;
+
+VI.- Cumpla con actividades en favor de la comunidad, las cuales serán establecidas por la Dirección.
+
+VII.- Cuente con trabajo permanente o se encuentre estudiando en Institución reconocida oficialmente, con excepción de aquellos de 75 o mas años.
+
+VIII.- En caso de haber sido condenado a la reparación del daño, ésta se haya garantizado, cubierto o declarado prescrita.
+
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2000)</small>
 
 ###### Artículo 35.
 
-El tratamiento a que se refiere el artículo 33 de esta Ley, se diseñará y aplicará por profesionales, previa aprobación del Consejo de la Institución respectiva, bajo la supervisión de la Dirección. El tratamiento tendrá como finalidad la readaptación social, en base al trabajo, la capacitación para el mismo, la educación y la responsabilidad social.
+El tratamiento a que se refiere el artículo 33 de esta Ley, se diseñará y aplicará por profesionales bajo la supervisión de la Dirección. El tratamiento tendrá como finalidad la readaptación social, con base al trabajo, la capacitación para el mismo, la educación y la responsabilidad social.
 
 ###### Artículo 36.
 
@@ -300,7 +360,9 @@ II.- La pena de prisión impuesta no exceda de 7 años;
 
 III.- Sea Primodelincuente;
 
-IV.- Técnicamente se acredite haber presentado un desarrollo intrainstitucional favorable;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
+
+IV.- Técnicamente se acredite haber presentado un desarrollo intrainstitucional favorable; durante dos periodos de valoración consecutivos.
 
 V.- Cuente con una persona conocida, que se comprometa y garantice a la Autoridad Ejecutora, el cumplimiento de las obligaciones contraidas por el externado;
 
@@ -308,7 +370,7 @@ VI.- Compruebe fehacientemente contar en el exterior con un oficio, arte o profe
 
 VII.- En caso de haber sido condenado a la reparación del daño, ésta se haya garantizado, cubierto o declarado prescrita; y
 
-VIII.- Realice las actividades que en favor de la comunidad determine la Dirección.
+VIII.- (DEROGADA, G.O. 25 DE JULIO DE 2000)
 
 Reunidos los requisitos a que se refiere éste artículo, la Dirección abrirá el expediente respectivo donde se registrará el control de las condiciones, horarios y actividades que realizará el sentenciado.
 
@@ -337,6 +399,10 @@ II.- Someterse al tratamiento técnico penitenciario que se determine.
 III.- Abstenerse de ingerir bebidas embriagantes, psicotrópicos o estupefacientes.
 
 IV.- No frecuentar centros de vicio.
+
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2000)</small>
+
+V.- Realizar las actividades que a favor de la comunidad determine la Dirección, para lo cual se abrirá el expediente respectivo donde se registrará el control de las condiciones, horarios y actividades que realizará.
 
 ### CAPITULO III. DE LA LIBERTAD ANTICIPADA
 
@@ -372,15 +438,27 @@ El otorgamiento del Tratamiento Preliberacional se concederá al sentenciado que
 
 I.- Cuando haya compurgado el 50% de la pena privativa de libertad impuesta.
 
-II.- Que haya trabajado en actividades industriales, de servicios generales o actividades educativas.
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
+
+II.- Que haya trabajado en actividades reconocidas por el Centro de Reclusión.
 
 III.- Que haya observado buena conducta.
 
-IV.- Que participe en las actividades educativas, recreativas, culturales y deportivas que se organicen en la Institución.
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
+
+IV.- Que participe en actividades educativas, recreativas culturales o deportivas que se organicen en la institución.
 
 V.- En caso de haber sido condenado a pagar la reparación del daño, ésta se haya garantizado, cubierto o declarado prescrita.
 
 VI.- No ser reincidente.
+
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2000)</small>
+
+VII.- Cuente con una persona conocida, que se comprometa y garantice a la Autoridad Ejecutora, el cumplimiento de las obligaciones contraidas por el preliberado.
+
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2000)</small>
+
+VIII.- Compruebe fehacientemente contar en el exterior con un oficio, arte o profesión o exhiba las constancias que acrediten que continua estudiando.
 
 ###### Artículo 45.
 
@@ -404,11 +482,23 @@ b).- Reclusión los sábados y domingos para tratamiento técnico.
 
 La Libertad Preparatoria se otorgará al sentenciado que cumpla con las tres quintas partes de su condena tratándose de delitos dolosos o la mitad de la misma tratándose de delitos culposos, siempre y cuando cumpla con los siguientes requisitos:
 
-I.- Haber acreditado niveles de instrucción durante el tiempo de reclusión.
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
 
-II.- Haber participado en el área laboral educativa o cultural.
+I.- Haber acreditado niveles de instrucción y actividades culturales durante el tiempo de reclusión.
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2000)</small>
+
+II.- Haber participado en el área laboral.
 
 III.- En caso de haber sido condenado a pagar la reparación del daño, ésta se haya garantizado, cubierto o declarado prescrita.
+
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2000)</small>
+
+IV.- Cuente con una persona conocida, que se comprometa y garantice a la autoridad Ejecutora, el cumplimiento de las obligaciones contraidas por el preliberado.
+
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2000)</small>
+
+V.- Compruebe fehacientemente contar en el exterior con un oficio, arte o profesión o exhiba las constancias que acrediten que continua estudiando.
 
 ###### Artículo 47.
 
@@ -488,6 +578,8 @@ En ningún caso dicha ampliación será mayor a los términos antes señalados r
 
 ### CAPITULO II. DE LOS ENFERMOS PSIQUIATRICOS
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2000)</small>
+
 ###### Artículo 58.
 
 La Autoridad Ejecutora hará cumplir las medidas de seguridad impuestas a los inimputables en internamiento o en externación.
@@ -502,9 +594,11 @@ Las medidas de seguridad solo podrán adecuarse cuando se esté ante los supuest
 
 ### CAPITULO UNICO. ADECUACIÓN Y MODIFICACION NO ESENCIAL DE LA PENA DE PRISIÓN
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2000)</small>
+
 ###### Artículo 61.
 
-El sentenciado que haya sido diagnosticado como enfermo psiquiátrico, será ubicado inmediatamente en la Institución o área de rehabilitación Psicosocial del Sistema Penal del Distrito Federal.
+El sentenciado que haya sido diagnosticado como enfermo psiquiátrico, será ubicado inmediatamente en la institución o área de rehabilitación Psicosocial del Sistema Penal del Distrito Federal.
 
 ###### Artículo 62.
 
@@ -522,7 +616,7 @@ III.- Cuente con responsable legal que se sujete a las obligaciones que establez
 
 ###### Artículo 63.
 
-Cuando se acredite que el sentenciado no puede cumplir con alguna de las modalidades de la sanción penal impuesta, por ser incompatible con su edad o estado de salud, la Autoridad Ejecutora podrá modificar la forma de ejecución estableciendo las condiciones y el lugar para tal efecto. Asimismo, podrá adecuarse cuando se esté ante los supuestos previstos en el Código Penal vigente.
+Cuando se acredite que el sentenciado no puede cumplir con alguna de las modalidades de la sanción penal impuesta, por ser incompatible con su estado físico o estado de salud, la Autoridad Ejecutora podrá modificar la forma de ejecución estableciendo las condiciones y el lugar para tal efecto. Asimismo podrá adecuarse cuando se esté ante los supuestos previstos en el Código Penal vigente.
 
 ## TITULO SEPTIMO. SUSPENSIÓN Y REVOCACION DEL TRATAMIENTO EN EXTERNACIÓN Y DEL BENEFICIO DE LIBERTAD ANTICIPADA
 
@@ -546,9 +640,11 @@ II.- Cuando es condenado por la comisión de un nuevo delito doloso mediante sen
 
 Al sentenciado que se le hubiese revocado el Tratamiento en Externación, o el beneficio de Libertad Anticipada, la Autoridad Ejecutora previa audiencia, podrá determinar que compurgue el resto de la sanción que le fue impuesta en la Institución que señale la misma.
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2000)</small>
+
 ###### Artículo 67.
 
-Para que se haga efectiva la revocación, la Autoridad Ejecutora solicitará al Ministerio Público designe elementos de la Policía Judicial para que procedan a la localización, detención, presentación e internación del sentenciado, en el lugar que se designe.
+Para que se haga efectiva la revocación, la Autoridad Ejecutora solicitará al Titular de la Procuraduría General de Justicia del Distrito Federal que por su conducto, Ministerio Público designe elementos de la Policía Judicial para que procedan a la localización, detención, presentación e internación del sentenciado, en el lugar que se designe.
 
 ## TITULO OCTAVO. EXTINCION DE LAS PENAS PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
@@ -605,3 +701,9 @@ SEPTIMO.- La presente Ley entrará en vigor el 1 de octubre de 1999. Publíquese
 Salán (sic) de sesiones de la Asamblea Legislativa del Distrito Federal, a siete de septiembre de mil novecientos noventa y nueve.- POR LA MESA DIRECTIVA.- DIP. ALFREDO HERNANDEZ RAIGOSA, PRESIDENTE.- DIP. LUCERITO DEL PILAR MARQUEZ FRANCO, SECRETARIO.- DIP. MARIA DEL PILAR HIROISHI SUZUKI, SECRETARIO. FIRMAS.
 
 En cumplimiento de lo dispuesto en el artículo 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal y para su debida publicación y observancia expido el presente Decreto Promulgatorio en la Residencia del Jefe de Gobierno del Distrito Federal, a los quince días del mes de septiembre de mil novecientos noventa y nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, CUAUHTÉMOC CÁRDENAS SOLÓRZANO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSARIO ROBLES BERLANGA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 25 DE JULIO DE 2000.
+
+UNICO.- El presente decreto de reformas y adiciones a la Ley de Ejecución de Sanciones Penales para el D.F. entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
