@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-10296"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-13"
-last_updated: "2001-05-11"
+last_updated: "2001-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2001.
 
 Ley Publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el 13 de septiembre de 1995.
 
@@ -621,11 +621,15 @@ IV.- Iniciativas de Ley y de reformas a las Leyes, así como los Decretos o Acue
 
 V.- Los demás asuntos que le encomiende la Comisión de Hacienda y Administración que requieran de elaboración de proyecto de dictamen o de estudio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 58.
 
-Corresponde a la Subcomisión de Administración Pública, el conocimiento, estudio y elaboración del proyecto de dictamen de los siguientes asuntos:
+Corresponde a la subcomisión de Administración Pública el conocimiento, estudio y elaboración del proyecto de dictamen de los siguientes asuntos:
 
-I.- Desincorporación de bienes muebles e inmuebles de dominio público para su enajenación, cambio de destino o desafectación de dichos bienes cuando estén destinados a un servicio público o sean de uso común, solicitada por las Entidades.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+I.- Desincorporación de bienes muebles e inmuebles del dominio público del Estado para su enajenación, cambio de destino o desafectación de dichos bienes cuando estén destinados a un servicio público o sean de uso común, solicitadas por las Entidades.
 
 II.- Celebración de contratos, convenios o actos que afecten cualquier aspecto de la situación financiera de las Entidades, cuando sus efectos excedan del período de gobierno del Ejecutivo del Estado o de los Ayuntamientos.
 
@@ -689,9 +693,13 @@ Cuando algún Diputado integrante de una Comisión o Subcomisión tuviere inter�
 
 La convocatoria para la reunión de las Comisiones y Subcomisiones deberá expedirse con veinticuatro horas de anticipación, salvo los casos considerados urgentes por la Presidencia.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 67.
 
-Las reuniones de las Comisiones o Subcomisiones no serán públicas; sin embargo, cuando así lo acuerden sus integrantes, podrán celebrar reuniones de información y audiencia a la que podrán asistir, a invitación expresa, servidores públicos federales, estatales o municipales para que informen cuando se discuta una Ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, así como también a representantes de grupos de interés, peritos y otras personas que puedan informar sobre determinado asunto.
+Las reuniones de las Comisiones o Subcomisiones no serán públicas; sin embargo, las Comisiones de dictamen legislativo anunciarán al Ejecutivo del Estado cuando menos con cinco días de anticipación, la fecha de la sesión cuando haya que discutir un proyecto a fin de que pueda enviar un representante que, sin voto, tome parte en los trabajos.
+
+El mismo procedimiento se seguirá con el Poder Judicial y los Ayuntamientos cuando se trate de asuntos de su competencia.
 
 En las deliberaciones de las Comisiones o Subcomisiones sólo podrán participar los Diputados y únicamente votarán quienes sean miembros de las mismas.
 
@@ -1544,3 +1552,7 @@ P.O. 11 DE MAYO DE 2001.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
 
 SEGUNDO.- Envíese al Ejecutivo del Estado para su publicación.
+
+P.O. 17 DE AGOSTO DE 2001.
+
+UNICO.- La presente reforma entrará en vigor hasta en tanto se apruebe la ley en materia municipal a la que se refiere el Artículo 81 de la Constitución Política del Estado de Baja California.
