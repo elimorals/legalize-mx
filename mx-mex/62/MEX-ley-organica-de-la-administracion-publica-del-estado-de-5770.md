@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "1989-10-11"
+last_updated: "1990-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,557 +21,251 @@ state: "MEX"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 1989.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2021.
 
-Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
+Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 5 de enero de 1981.
 
-El Ciudadano LICENCIADO ALFREDO DEL MAZO GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
+GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE SINALOA.
 
-Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+EL CIUDADANO ANTONIO TOLEDO CORRO, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
 
-DECRETO NUMERO 2
+Que por el H. Congreso del mismo, se le ha comunicado lo siguiente:
 
-LA H. XLVIII LEGISLATURA DEL ESTADO DE MEXICO,
+El Congreso del Estado Libre y Soberano de Sinaloa, representado por su Quincuagésima Legislatura, ha tenido a bien expedir el siguiente:
 
-DECRETA:
+DECRETO NUMERO 6
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
+LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SINALOA
 
-### CAPITULO PRIMERO. Disposiciones Generales
+## TITULO PRIMERO. De la Administración Pública
 
-###### Artículo 1.
+## TITULO SEGUNDO. De la Administración Pública Estatal
 
-La presente Ley tiene por objeto regular la organización y funcionamiento de la administración pública central y paraestatal del Estado.
+## TITULO TERCERO. De la Administración Pública Paraestatal
 
-###### Artículo 2.
+### CAPITULO UNICO. De la Administración Pública
 
-El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien tendrá las atribuciones, funciones y obligaciones que le señalen: La Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de México, la presente Ley y las demás disposiciones jurídicas relativas vigentes en el Estado. El Sector paraestatal, se regirá por la presente Ley y demás disposiciones que le resulten aplicables.
+###### ARTICULO 1.
+
+La estructura y organización del Poder Ejecutivo para el despacho de los negocios del orden administrativo se ajustará en su institución y funcionamiento a las disposiciones de esta Ley.
+
+###### ARTICULO 2.
+
+El Gobernador Constitucional del Estado, depositario del ejercicio del Poder Ejecutivo es el titular y autoridad máxima de la administración pública. Salvo los recursos que expresamente establezcan otras leyes, sus resoluciones serán definitivas e inapelables en la vía administrativa.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
+
+###### ARTICULO 3o.
+
+La Administración Pública estatal se integrará con las Secretarías y Entidades Administrativas cuyas denominaciones, estructuras y atribuciones se establecerán en los Reglamentos y demás disposiciones que expida el Gobernador Constitucional del Estado en ejercicio de sus facultades constitucionales y dentro de los límites de las que la presente Ley le otorga.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
 
 ###### Artículo 3.
 
 Para el despacho de los asuntos que competan al Poder Ejecutivo, el Gobernador del Estado se auxiliará de las dependencias, organismos y entidades que señalen la Constitución Política del Estado, la presente Ley, el presupuesto de egresos y las demás disposiciones jurídicas vigentes en el Estado.
 
-###### Artículo 4.
+###### ARTICULO 4.
 
-El Gobernador del Estado podrá contar, además, con las unidades administrativas necesarias para administrar programas prioritarios; de Salud Pública; atender los aspectos de comunicación social, practicar auditorías y coordinar los servicios de asesoría y apoyo técnico que requiera el Titular del Ejecutivo.
+La Administración Pública Paraestatal se integrará con los organismos descentralizados, los fondos, los fideicomisos públicos, y los demás organismos que con tal carácter cree el H. Congreso del Estado o el Gobernador Constitucional del Estado, con excepción de aquellos que queden excluidos por disposición de otros ordenamientos legales.
 
-###### Artículo 5.
+###### ARTICULO 5.
 
-El Gobernador del Estado podrá convenir con el Ejecutivo Federal, con otras entidades federativas y con los Ayuntamientos de la entidad, la prestación de servicios públicos, la ejecución de obras o la realización de cualquier otro propósito de beneficio colectivo.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2018)
 
-###### Artículo 6.
+###### ARTICULO 6.
 
-El Gobernador del Estado designará las dependencias del Ejecutivo Estatal que deberán coordinarse, tanto con las dependencias y entidades de la Administración Pública Federal, como con las administraciones municipales.
+El Gobernador Constitucional del Estado podrá integrar Gabinete Colegiado con los Titulares de las Secretarías y Sectores de Gabinete con las Secretarías, Entidades Administrativas y Organismos Descentralizados o Desconcentrados que estime necesarios.
 
-###### Artículo 7.
+Podrá asimismo convocar a reuniones a titulares de Secretarías o de organismos descentralizados o desconcentrados que incluyan o no la totalidad de los que estén en funciones, para oir su opinión colegiada en asuntos de importancia, así como para evaluar la política del Gobierno del Estado en mateira (sic) que sea de la competencia concurrente de varias dependencias o entidades de la Administración Pública.
 
-Todas las Leyes, Decretos, Reglamentos y demás disposiciones que el Gobernador promulgue o expida, para que sean obligatorias, deberán estar refrendadas por el Secretario de Gobierno y por el encargado del ramo al que el asunto corresponda; sin estos requisitos no surtirán ningún efecto legal.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-###### Artículo 8.
+###### ARTICULO 7.
 
-El Gobernador del Estado expedirá los Reglamentos Interiores, los Acuerdos, Circulares y otras disposiciones que tiendan a regular el funcionamiento de las dependencias del Ejecutivo y autorizará la expedición de los manuales administrativos.
+Las dependencias y entidades de la Administración Pública Estatal y Paraestatal actuarán conforme al Plan Estatal de Desarrollo, a los programas sectoriales y a los programas institucionales, según corresponda, y que para tal efecto se aprueben, sujetándose al Presupuesto de Egresos del Estado, y con base en las políticas, prioridades y restricciones que (sic) conforme a la Ley, para el logro de los objetivos y metas de los planes y programas de Gobierno que establezca el Gobernador Constitucional del Estado.
 
-###### Artículo 9.
+###### ARTICULO 8.
 
-El Gobernador del Estado podrá nombrar y remover libremente a los funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política o en las Leyes del Estado.
+Para los efectos de esta Ley, las Secretarías y Entidades Administrativas que integran la Administración Pública Estatal serán mencionadas indistintamente con su propio nombre o con la denominación genérica de dependencias.
 
-###### Artículo 10.
+###### ARTICULO 9.
 
-Para ser titular de las dependencias del Ejecutivo a que se refiere esta Ley, se requiere:
+Para ser válidos los decretos, reglamentos y acuerdos del Gobernador Constitucional del Estado, deberán estar firmados por éste y por el Secretario Encargado del Ramo a que el asunto corresponda, y cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por los Titulares de las mismas.
 
-I.- Ser ciudadano mexicano en pleno goce de sus derechos políticos, y
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
 
-II.- Ser mayor de veintiun años.
+###### ARTICULO 10.
 
-El Secretario de Gobierno, los Subsecretarios y el Procurador General de Justicia deberán cumplir los requisitos que para ocupar dichos cargos establece la Constitución Política del Estado.
+La representación legal del Poder Ejecutivo Estatal será ejercida por la Secretaría General de Gobierno, o por la dependencia a que corresponda el asunto, según la distribución de competencias, por conducto de funcionario competente, en términos de lo establecido en el Reglamento Orgánico de la Administración Pública.
 
-###### Artículo 11.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-Los titulares de las dependencias a que se refiere esta Ley, no podrán desempeñar ningún otro puesto, empleo, cargo o comisión, salvo los relacionados con la docencia y aquéllos que, por estar directamente relacionados con las funciones que les correspondan, sean expresamente autorizados por el Gobernador del Estado.
+###### ARTICULO 11.
 
-###### Artículo 12.
+Corresponde a los Titulares de las Dependencias la ejecución de los acuerdos y el trámite y resolución de los asuntos de su competencia; pero para la mejor organización del trabajo, podrán delegar en los funcionarios a que se refieren los artículos 12 y 15 cualesquiera de sus facultades, con excepción de las que por disposición de la Ley o del Reglamento respectivo, deban ser ejercidas precisamente por dichos titulares.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Gobierno, resolverá cualquier duda sobre la competencia de las dependencias a que se refiere esta Ley.
+###### ARTICULO 12.
 
-### CAPITULO SEGUNDO. De las Dependencias del Ejecutivo
+Las ausencias de los Titulares de las Dependencias serán suplidas por los Sub-Secretarios o, en su defecto, por los funcionarios que le sigan en orden de jerarquía, según se establezcan en el Reglamento Interior respectivo, quienes entonces actuarán como encargados del despacho con todas las facultades que correspondan al Titular.
 
-###### Artículo 13.
+### CAPITULO I. Disposiciones Generales
 
-Las dependencias del Ejecutivo y los organismos auxiliares a que se refiere el artículo 45 de esta Ley, deberán conducir sus actividades en forma programada y con base en las políticas, prioridades y restricciones que establezca el Gobierno del Estado, para el logro de los objetivos y metas de los planes de Gobierno.
+###### ARTICULO 13.
 
-###### Artículo 14.
+Para la más eficaz atención y eficiente despacho de los asuntos de su competencia, las dependencias podrán contar con órganos administrativos y desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales y reglamentarias aplicables.
 
-Las dependencias del Ejecutivo, estarán obligadas a coordinar entre sí sus actividades y a proporcionarse la información necesaria cuando el ejercicio de las funciones así lo requiera.
+###### ARTICULO 14.
 
-###### Artículo 15.
+El Gobernador Constitucional del Estado, expedirá los Reglamentos que establezcan las dependencias de la Administración Pública Estatal, su régimen jurídico, orgánico, económico y operativo. Expedirá, además, el Reglamento Interior en cada una de ellas, evaluando las informaciones que le proporcione el titular respectivo lo mantendrá actualizado.
 
-Los titulares de las dependencias a que se refiere esta Ley, podrán delegar en sus subalternos cualesquiera de sus facultades, salvo aquellas que la Constitución, las Leyes y Reglamentos dispongan que deban ser ejercidas directamente por ellos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
-###### Artículo 16.
+###### ARTICULO 15.
 
-Para la eficaz atención y eficiente despacho de los asuntos de su competencia, las dependencias del Ejecutivo podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia o dentro del ámbito territorial que se determine en cada caso.
+Las personas titulares de las Secretarías y Dependencias de la Administración Pública Estatal, serán designadas y removidas libremente por el Gobernador del Estado, observando el principio de paridad de género.
 
-###### Artículo 17.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
 
-Los titulares de las dependencias del Ejecutivo, formularán proyectos de Ley, Reglamentos, Decretos y Acuerdos de las materias que correspondan a su competencia y las remitirán al Ejecutivo a través de la Secretaria de Gobierno.
+Los Directores Generales, Directores, Jefes de Departamento y demás funcionarios, serán nombrados y removidos por los Secretarios y por los Titulares de las respectivas dependencias, salvo aquellos casos en los que las leyes u otras normas reglamentarias o administrativas dispongan un procedimiento específico distinto.
 
-###### Artículo 18.
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2017)</small>
 
-Al tomar posesión del cargo, los titulares de las dependencias mencionadas en esta Ley, deberán levantar un inventario sobre los bienes que se encuentren en poder de las mismas, debiendo registrar éste en la Secretaría de Administración del Gobierno del Estado, quien verificará la exactitud del mismo.
+En lo que respecta al nombramiento del titular de la Secretaría de Transparencia y Rendición de Cuentas derivado de su carácter de órgano de control interno del Poder Ejecutivo, en términos del artículo 43, fracción XXXVI de la Constitución Política del Estado este deberá ser ratificado por el Congreso del Estado por el voto de las dos terceras partes de sus miembros presentes.
 
-### CAPITULO TERCERO. De la Competencia de las
+###### ARTICULO 16.
 
-Dependencias del Ejecutivo
+Cada dependencia estará obligada a proporcionar los informes, datos y cooperación técnica que necesite y le solicite cualquiera otra para el cumplimiento de sus funciones.
 
-###### Artículo 19.
+###### ARTICULO 17.
 
-Para el estudio, planeación y despacho de los asuntos, en los diversos ramos de la Administración Pública del Estado, auxiliarán al Titular del Ejecutivo, las siguientes dependencias:
+En casos extraordinarios o cuando exista duda sobre la competencia de alguna dependencia, el Gobernador Constitucional del Estado resolverá a cuál corresponde el despacho del asunto.
 
-I. Secretaría de Gobierno;
+###### ARTICULO 18.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1989)</small>
+Sin perjuicio de rendirle información cada vez que se les solicite, anualmente y con la anticipación que se les requiera, los titulares de cada dependencia darán cuenta al Gobernador sobre el estado que guarden sus respectivos ramos, para que éste, a su vez, pueda rendir al Congreso el Informe Constitucional sobre la situación de la Administración Pública. Además, cada uno de dichos titulares deberá comparecer ante el Congreso, siempre que lo solicite, a informarle cuando se lo requiera de acuerdo con lo que dispone la Constitución Política del Estado.
 
-II. Secretaría de Finanzas y Planeación.
+### CAPITULO II. De las Secretarías
 
-III. (DEROGADA, P.O. 11 DE OCTUBRE DE 1989)
+###### ARTICULO 19.
 
-IV. Secretaría del Trabajo;
+El titular de cada dependencia expedirá los manuales necesarios para su organización, funcionamiento interior y servicios al público, cuyo contenido deberá ajustarse a la ciencia de la administración, a la técnica administrativa y a la práctica legal establecida. Estos manuales deberán mantenerse permanentemente actualizados y deberán ser publicados en el órgano oficial del Gobierno del Estado.
 
-V. Secretaría de Educación, Cultura y Bienestar Social;
+###### ARTICULO 20.
 
-VI. Secretaría de Desarrollo Urbano y Obras Públicas;
+Las Secretarías tendrán igual rango y entre ellas no habrá relación de jerarquía
 
-VII. Secretaría de Desarrollo Agropecuario;
+###### ARTICULO 21.
 
-VIII. Secretaría de Desarrollo Económico;
+Al frente de cada Secretaría habrá un Secretario, quien para el despacho de los asuntos de su competencia, se auxiliará por él o los Subsecretarios, Directores Generales, Directores, Subdirectores, Jefes y Sub-Jefes de Departamento y por los demás funcionarios que establezca el Reglamento Interior respectivo y otras disposiciones legales.
 
-IX. Secretaría de Administración;
+###### ARTICULO 22.
 
-> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+Para ser Secretario o Sub-Secretario se requerirá ser ciudadano mexicano en el ejercicio de sus derechos, poseer la capacidad necesaria a juicio del Gobernador del Estado, tener 30 años cumplidos y no ser ministro de algún culto religioso. Cuando la Constitución exigiere mayores requisitos se estará, primeramente, a lo dispuesto en ella.
 
-X. Secretaría de la Contraloría.
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2021)</small>
 
-El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado y demás Leyes le confieran. Este funcionario será el Consejero Jurídico del Gobierno.
+###### ARTICULO 22 Bis.
 
-Las dependencias a que se refiere este Artículo tendrán igual rango y entre ellas no habrá preeminencia alguna.
+El Poder Ejecutivo Estatal contará con una Secretaría encargada del ramo de la atención, promoción y fomento a la igualdad sustantiva entre mujeres y hombres y a la prevención y atención de la violencia contra las mujeres.
 
-###### Artículo 20.
+La titularidad de dicha Secretaría deberá recaer en una mujer, quien deberá acreditar conocimientos y experiencia en materia de igualdad sustantiva entre mujeres y hombres y prevención de violencia contra las mujeres.
 
-La Secretaría de Gobierno es el órgano encargado de conducir, por delegación del Ejecutivo, la política interna del Estado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-###### Artículo 21.
+###### ARTICULO 23.
 
-A la Secretaría de Gobierno corresponde, además de las atribuciones que expresamente le confiere la Constitución Política del Estado, el despacho de los siguientes asuntos:
+Cada Secretaría ejercerá las partidas presupuestales que les sean asignadas en el Presupuesto de Egresos del Estado. Los titulares de las Secretarías serán responsables de que la planeación, programación, presupuestación, aprobación, ejercicio, control, seguimiento y evaluación de los ingresos y egresos públicos se realicen de conformidad con lo establecido en la Ley de Planeación y la Ley de Presupuesto y Responsabilidad Hacendaria, ambas del Estado de Sinaloa; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y en las disposiciones administrativas que para tal efecto se emitan. Asimismo, serán responsables de la aplicación y cumplimiento de la Ley General de Contabilidad Gubernamental y de las disposiciones del Consejo Nacional de Armonización Contable.
 
-I. Conducir las relaciones del Poder Ejecutivo con los otros poderes del Estado y con los Ayuntamientos de la entidad.
+Los titulares de las Secretarías serán responsables de la planeación orientada a resultados, con apego a lo establecido en la Ley de Planeación del Estado y serán responsables también del cumplimiento del programa sectorial a su cargo y de que los programas presupuestarios a través de los cuales se ejerce el gasto en la Secretaría a su cargo tengan una orientación a resultados y cumplan con las metas establecidas, así como de la implementación del Sistema de Evaluación del Desempeño y de la incorporación de sus resultados al proceso de programación y presupuestación de los recursos públicos bajo su responsabilidad.
 
-II. Conducir por delegación del Ejecutivo los asuntos de orden político interno.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE OCTUBRE DE 2021)</small>
 
-III. Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás disposiciones del Gobierno del Estado que no sean de la competencia exclusiva de otra dependencia.
+###### ARTICULO 24.
 
-IV. Ser el conducto para presentar ante la Legislatura del Estado las iniciativas de Ley o Decreto del Ejecutivo, así como publicar las Leyes, Reglamentos y demás disposiciones jurídicas que deban regir en el Estado.
+Las entidades administrativas depenlerán (sic) directamente del Gobernador Constitucional del Estado y tendrán dentro de la Administración Pública Estatal el rango que el mismo les confiera en las disposiciones orgánicas correspondientes.
 
-V. Tramitar lo relacionado con los nombramientos, licencias, remociones y renuncias de los magistrados del Tribunal Superior de Justicia.
+###### ARTICULO 25.
 
-VI. Otorgar a los Tribunales y a las autoridades judiciales el auxilio que soliciten para el debido ejercicio de sus funciones.
+Al frente de cada entidad administrativa habrá un titular con la denominación que se establezca en la disposición orgánica correspondiente, quien para el despacho de los asuntos de su competencia se auxiliará por el personal que la misma prevea.
 
-VII. Llevar el registro de autógrafos, legalizar y certificar las firmas de los funcionarios estatales, de los presidentes y secretarios municipales y de los demás funcionarios, a quienes esté encomendada la fe pública.
+###### ARTICULO 26.
 
-VIII. Vigilar y controlar todo lo relativo a la demarcación y conservación de los límites del Estado y sus Municipios.
+Para ser titular de una entidad administrativa será necesario satisfacer los requisitos que se establezcan en la disposición orgánica correspondiente.
 
-IX. Intervenir y ejercer las atribuciones que en materia electoral le señalen las leyes o los convenios que para ese efecto se celebren.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-X. Intervenir en auxilio o coordinación con las autoridades federales, en los términos de las Leyes relativas en materia de cultos religiosos; detonantes y pirotecnia; portación de armas; loterías, rifas y juegos prohibidos, migración, prevención, combate y extinción de catástrofes públicas.
+###### ARTICULO 27.
 
-XI. Proporcionar Asesoría Jurídica a las dependencias del Ejecutivo del Estado, así como a los Ayuntamientos que los soliciten.
+Cada entidad administrativa ejercerá las partidas que de su presupuesto le asigne el Gobernador Constitucional del Estado. Los titulares de las entidades administrativas serán responsables de que la planeación, programación, presupuestación, aprobación, ejercicio, control, seguimiento y evaluación de los ingresos y egresos públicos se realicen, de conformidad con lo establecido en la Ley de Planeación y la Ley de Presupuesto y Responsabilidad Hacendaria, ambas del Estado de Sinaloa; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y en las disposiciones administrativas que para tal efecto se emitan. Asimismo, serán responsables de la aplicación y cumplimiento de la Ley General de Contabilidad Gubernamental y de las disposiciones del Consejo Nacional de Armonización Contable.
 
-XII. Revisar los proyectos de Ley, Reglamentos y cualquier otro ordenamiento jurídico que deban presentarse al Ejecutivo del Estado.
+Los titulares de las entidades administrativas serán responsables de la planeación orientada a resultados, con apego a lo establecido en la Ley de Planeación para el Estado y serán responsables también del cumplimiento del programa institucional a su cargo y de que los programas presupuestarios a través de los cuales se ejerce el gasto en la en la (sic) entidad administrativa a su cargo tengan una orientación a resultados y cumplan con las metas establecidas, así como de la implementación del Sistema de Evaluación del Desempeño y de la incorporación de sus resultados al proceso de programación y presupuestación de los recursos públicos bajo su responsabilidad.
 
-XIII. Expedir previo acuerdo del Gobernador, las licencias, autorizaciones, concesiones y permisos cuyo otorgamiento no esté atribuido a otras dependencias del Ejecutivo.
+###### ARTICULO 28.
 
-XIV. Tramitar los recursos administrativos que competa resolver al Gobernador del Estado.
+Dentro de la Administración Pública Paraestatal, serán considerados los organismos descentralisados (sic), las instituciones creadas por disposición del Congreso del Estado o en su caso, por el Gobernador del Estado, con personalidad jurídica y patrimonio propio, cualquiera que sea la forma o estructura legal que adopten.
 
-XV. Realizar los actos jurídicos necesarios para reivindicar la propiedad del Estado.
+###### ARTICULO 29.
 
-XVI. Proponer al Gobernador del Estado y ejecutar los programas relativos a la protección de los habitantes, al orden público y la prevención de delitos.
+Dentro de la Administración Pública Paraestatal, se consideran empresas de participación estatal mayoritaria las que satisfagan algunos de los siguientes requisitos:
 
-XVII. Velar por la protección de los habitantes, el orden público y la prevención de delitos.
+a).- Que el Gobierno del Estado, los Ayuntamientos, uno o más organismos descentralizados, otras u otras empresas de participación estatal, uno o más fideicomisos del Estado, considerados conjunta o separadamente aporten o sean propietarios del 51% o más del capital social.
 
-XVIII. Administrar y vigilar el tránsito en las carreteras y caminos de jurisdicción estatal en los términos que señalen las leyes y reglamentos respectivos.
+b).- Que en la constitución de su capital se hagan figurar acciones de serie especial que sólo puedan ser suscritas por el Gobierno del Estado; o
 
-XIX. Elaborar y ejecutar los programas de readaptación social de los infractores.
+c).- Que al Gobierno del Estado corresponda la facultad de nombrar a la mayoría de los miembros del consejo de administración, Junta Directiva u Organo de Gobierno, designar al Presidente, al Director, al Gerente o cuando tenga facultades para vetar los acuerdos de la Asamblea General de Accionistas, del Consejo de Administración o de la Junta Directiva u Organo de Gobierno equivalente.
 
-XX. Administrar los Centros de Readaptación Social y tramitar por acuerdo del Gobernador las solicitudes de extradición, amnistía, indultos, libertad anticipada y traslado de reos.
+###### ARTICULO 30.
 
-XXI. Vigilar el establecimiento de instituciones y la aplicación de las normas preventivas tutelares de menores infractores.
+Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles así como asociaciones civiles en las que la mayoría de los asociados sean dependencias o entidades de las mencionadas en el inciso a) del Artículo anterior, o alguno o varios de ellos se obliguen a realizar o realicen las aportaciones económicas preponderantes.
 
-XXII. Organizar y controlar la defensoría de oficio.
+###### ARTICULO 31.
 
-XXIII. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Ejecutivo y ordenar periódicamente visitas de inspección a las notarías del Estado.
+Para los efectos de esta Ley, serán empresas de participación minoritaria las sociedades en las que uno o más organismos descentralizados u otra, u otras empresas de participación estatal mayoritaria consideradas conjunta o separadamente, posean acciones o partes de capital que representen menos del 51% y hasta el 25% de aquél.
 
-XXIV. Llevar el Libro de Registro de Notarios y organizar y controlar el Archivo de Notarías del Estado.
+La vigilancia de la participación estatal estará a cargo de un comisario designado por el Secretario o Jefe de la entidad administrativa encargado de la coordinación del sector correspondiente.
 
-XXV. Ejecutar por Acuerdos del Gobernador las expropiaciones, ocupación temporal y limitación de dominio, en los casos de utilidad pública de conformidad con la Legislación relativa.
+Las relaciones de las empresas de participación estatal minoritaria con la Administración Pública Estatal, serán las que determine la Ley o la disposición orgánica correspondiente.
 
-XXVI. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y de Comercio.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
 
-XXVII. Organizar los actos cívicos del Gobierno del Estado
+###### ARTICULO 32.
 
-XXVIII. Administrar y publicar el periódico oficial «Gaceta del Gobierno».
+Los fideicomisos públicos a que se refiere el Artículo 4° de esta Ley, son aquéllos que el Poder Ejecutivo constituye, con el propósito de auxiliar al Ejecutivo Estatal en el ejercicio de sus atribuciones o en la atención de áreas de desarrollo prioritario, que cuenten con una estructura orgánica análoga a las otras entidades y que tengan comités técnicos.
 
-XXIX. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
+Los fideicomisos públicos que no se constituyan con las características señaladas en el párrafo que precede, no serán considerados entidades de la administración pública paraestatal y no estarán, por tanto, sujetos a esta ley.
 
-###### Artículo 22.
+En los fideicomisos públicos constituidos por el Gobierno del Estado, las Secretarías fungirán como fideicomitentes únicos de la Administración Pública Estatal.
 
-Para auxiliar al Secretario de Gobierno y para suplirlo en sus ausencias temporales, habrá dos Subsecretarías de Gobierno, las que tendrán las atribuciones, funciones y obligaciones que el Secretario de Gobierno o en su caso, el ejecutivo del Estado les designe.
+Las Secretarías y las Entidades que integran la Administración Pública Estatal, así como las que conforman la Administración Pública Paraestatal, sólo podrán constituir fideicomisos públicos de los que se regulan en esta Ley, previa aprobación de la Secretaría que tenga a su cargo la administración de la Hacienda Pública, la cual invariablemente formará parte del Comité Técnico que se designe. Las Dependencias que forman parte de la Administración Pública Paraestatal, deberán recabar la autorización previa de la Secretaría correspondiente o entidad administrativa, encargada de la coordinación del sector respectivo para la integración de los Comités Técnicos. En todos los casos, cuando menos un representante de la coordinadora de sector y del fideicomitente, formarán parte del Comité Técnico.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1989)</small>
+###### ARTICULO 33.
 
-###### Artículo 23.
+El Gobernador del Estado estará facultado para determinar agrupamientos de entidades de la Administración Pública Paraestatal, por sectores definidos, a efecto de que sus relaciones con el Ejecutivo Estatal, en cumplimiento de las disposiciones aplicables, se realicen a través de la Secretaría del Ramo o entidad administrativa que en cada caso designe como coordinador del sector correspondiente.
 
-La Secretaría de Finanzas y Planeación es la encargada de la planeación, programación, presupuestación y evaluación de las actividades del Poder Ejecutivo y de la Administración financiera y tributaria de la hacienda pública del Estado.
+###### ARTICULO 34.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1989)</small>
+Corresponderá a las Secretarías o entidades administrativas encargadas de la coordinación de los sectores a que se refiere el artículo anterior, planear, coordinar y evaluar la operación de las entidades de la Administración Paraestatal que determine el Gobernador del Estado.
 
-###### Artículo 24.
+###### ARTICULO 35.
 
-A la Secretaría de Finanzas y Planeación, corresponde el despacho de los siguientes asuntos.
+Cuando los nombramientos de Presidente o miembros de los Consejos, Juntas Directivas o equivalentes en las entidades de la Administración Pública Paraestatal correspondan al Gobierno del Estado y sus dependencias, el Gobernador del Estado podrá designar a los funcionarios que procedan.
 
-I. Elaborar y proponer al Ejecutivo los proyectos de Ley, Reglamentos y demás disposiciones de carácter general que se requieran para la planeación, programación, presupuestación y evaluación de la actividad económica y financiera del Estado, así como para la actividad fiscal y tributaria estatal.
+###### ARTICULO 36.
 
-II. Recaudar los impuestos, derechos, aportaciones de mejoras, productos y aprovechamientos, que correspondan al Estado; y las contribuciones federales y municipales en los términos de los convenios suscritos.
+El Gobernador del Estado en el caso que proceda, determinará qué funcionarios habrán de ejercer las facultades que implique la titularidad de las acciones que formen parte del capital social de las entidades de la Administración Paraestatal. A falta de dicha determinación el titular de la Secretaría o entidad administrativa a que corresponda la coordinación del Sector respectivo hará esta designación.
 
-III. Vigilar el cumplimiento de las disposiciones legales de carácter fiscal y de más (sic) de su ramo, aplicables en el Estado.
+###### ARTICULO 37.
 
-IV. Ejercer las atribuciones derivadas de los convenios fiscales que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público del Gobierno Federal, con los gobiernos municipales y con organismos auxiliares.
+Las entidades de la Administración Pública Paraestatal deberán proporcionar a las demás dependencias del sector donde se encuentren agrupadas, la información y datos que les soliciten.
 
-V. Formular y presentar al Ejecutivo, los proyectos de Ley de Ingresos, del presupuesto de egresos y el programa general del gasto público.
+###### ARTICULO 38.
 
-VI. Practicar revisiones y auditorías a los causantes.
+Los titulares de las dependencias de la Administración Pública Paraestatal, serán designados y removidos libremente por el Gobernador del Estado.
 
-VII. Formular mensualmente los estados financieros de la hacienda pública, presentando anualmente al Ejecutivo, en la primera quincena del mes de enero, un informe pormenorizado del ejercicio fiscal anterior.
-
-VIII. Ejercer la facultad económico-coactiva conforme a las leyes relativas.
-
-IX. Vigilar que se lleve al corriente el padrón fiscal de contribuyentes.
-
-X. Cuidar que los empleados que manejen fondos del Estado otorguen fianza suficiente para garantizar su manejo en los términos que determine la ley.
-
-XI. Dictar las normas relacionadas con el manejo de fondos y valores de las dependencias, organismos auxiliares y fideicomisos del Estado, así como custodiar los documentos que constituyen valores, acciones y demás derechos que formen parte del patrimonio del Estado.
-
-XII. Dirigir la negociación y llevar el registro y control de la deuda pública del Estado; y vigilar y registrar la de los municipios, informando al Gobernador periódicamente, sobre el estado de las amortizaciones de capital y pago de intereses.
-
-XIII. Dictar la normatividad necesaria para el control, supervisión, vigilancia y evaluación de las actividades de todas sus oficinas recaudadoras, locales y foráneas
-
-XIV. Efectuar los pagos conforme a los programas y presupuestos aprobados y formular mensualmente el estado de origen y aplicación de los recursos financieros y tributarios del Estado.
-
-XV. Proponer al Gobernador del Estado la cancelación de cuentas incobrables, así como el otorgamiento de subsidios fiscales en los casos en que proceda.
-
-XVI. Proporcionar asesoría, en materia de interpretación y aplicación de las leyes tributarias del Estado, solicitada por los particulares y las autoridades federales, estatales y municipales.
-
-Difundir permanentemente y publicar anualmente las disposiciones fiscales estatales y municipales.
-
-XVII. Tramitar y resolver los recursos administrativos en la esfera de su competencia e intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal cuando tenga interés la hacienda pública del Estado.
-
-XVIII. Fijar las políticas, normas y lineamientos generales en materia de catastro, de acuerdo con las leyes respectivas.
-
-XIX. Elaborar con la participación de las dependencias y organismos auxiliares del Poder Ejecutivo el plan estatal, los planes regionales y sectoriales de desarrollo, los programas estatales de inversión y aquellos de carácter especial que fije el Gobernador del Estado.
-
-XX. Establecer la coordinación de los programas de desarrollo socioeconómico del gobierno del Estado, con los de la administración pública federal y la de los municipios de la entidad, promoviendo la participación en los mismos de los sectores social y privado.
-
-XXI. Diseñar, implantar y actualizar un sistema de programación del gasto público acorde con los objetivos y necesidades de la administración pública del Estado, asesorando y apoyando a las dependencias y organismos auxiliares en la integración de sus programas específicos.
-
-XXII. Vigilar que los programas de inversión de las dependencias del Ejecutivo y sus organismos auxiliares, se realicen conforme a los objetivos de los planes de desarrollo aprobados.
-
-XXIII. Proyectar y calcular los egresos del Gobierno del Estado y los ingresos y egresos de sus organismos auxiliares.
-
-XXIV. Planear, autorizar, coordinar, vigilar y evaluar los programas de inversión pública de las dependencias del Ejecutivo y de sus organismos auxiliares.
-
-XXV. Establecer y llevar los sistemas de contabilidad gubernamental y de estadística general del Gobierno del Estado.
-
-XXVI. Hacer la glosa preventiva de los ingresos y egresos del Gobierno del Estado, elaborar la cuenta pública y mantener las relaciones con la Contaduría General de Glosa del Congreso del Estado.
-
-XXVII. Registrar y normar los actos y contratos de los que resulten derechos y obligaciones para el Gobierno del Estado.
-
-XXVIII. Intervenir en el otorgamiento de los subsidios que concede el Gobierno del Estado a los municipios, instituciones o particulares, con objeto de comprobar que la inversión se efectúe en los términos establecidos.
-
-XXIX. Prestar a los municipios, cuando así lo soliciten, la asesoría y el apoyo técnico necesario para elaboración de sus planes y programas de desarrollo económico y social.
-
-XXX. Integrar y mantener actualizada la información geográfica y estadística de la entidad.
-
-XXXI. Asesorar al Gobernador del Estado en la elaboración de los convenios que celebre el gobierno del Estado en materia de planeación, programación, supervisión y evaluación del desarrollo de la entidad.
-
-XXXII. Vigilar que el desarrollo económico y social de la entidad sea armónico, para que beneficie en forma equitativa a las diferentes regiones del Estado, evaluando periódicamente los resultados obtenidos, en términos simples y comprensibles.
-
-XXXIII. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
-
-###### Artículo 25.
-
-(DEROGADO, P.O. 11 DE OCTUBRE DE 1989)
-
-###### Artículo 26.
-
-(DEROGADO, P.O. 11 DE OCTUBRE DE 1989)
-
-###### Artículo 27.
-
-La Secretaría del Trabajo es el órgano encargado de ejercer las atribuciones que en materia de trabajo corresponden al Ejecutivo del Estado.
-
-###### Artículo 28.
-
-A la Secretaría del Trabajo corresponde el despacho de los siguientes asuntos:
-
-I. Ejercer las funciones que en materia de trabajo correspondan al ejecutivo del Estado.
-
-II. Coadyuvar con las autoridades federales a la aplicación y vigilancia de las normas de trabajo.
-
-III. Poner a disposición de las autoridades federales del trabajo, la información que soliciten para el cumplimiento de sus funciones.
-
-IV. Participar en la integración y funcionamiento del Consejo Consultivo Estatal de Capacitación y Adiestramiento y de la Comisión Consultiva de Seguridad e Higiene en el Trabajo.
-
-V. Desahogar consultas sobre la interpretación de las normas de la Ley Federal del Trabajo o de los contratos colectivos de trabajo.
-
-VI. Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo.
-
-VII. Mediar, a petición de parte, en los conflictos que surjan por violación a la Ley o a los contratos colectivos de trabajo.
-
-VIII. Visitar los centros de trabajo para constatar que se cumpla con las condiciones que establece la Ley Federal del Trabajo y normas que de ella se deriven.
-
-IX. Vigilar que se cumplan las normas existentes en materia de higiene y seguridad en el trabajo.
-
-X. Vigilar el cumplimiento de las normas relativas a la capacitación y adiestramiento de los trabajadores; elaborar y ejecutar programas de capacitación de la fuerza laboral en el Estado.
-
-XI. Formular y ejecutar el plan estatal de empleo.
-
-XII. Prestar asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten y representarlos ante los tribunales del trabajo.
-
-XIII. Formular y ejecutar programas de difusión de los cambios que se den en las normas laborales.
-
-XIV. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
-
-###### Artículo 29.
-
-La Secretaría de Educación, Cultura y Bienestar Social es el órgano encargado de promover la superación cultural y el bienestar de la población.
-
-###### Artículo 30.
-
-A la Secretaría de Educación, Cultura y Bienestar Social, corresponde el despacho de los siguientes asuntos:
-
-I. Formular la política de desarrollo cultural y bienestar social del Gobierno del Estado.
-
-II. Planear, desarrollar, dirigir y vigilar la educación a cargo del Gobierno Estatal y de los particulares en todos los tipos, niveles y modalidades, en términos de la legislación correspondiente.
-
-III. Elaborar y, en su caso, ejecutar los convenios de coordinación que en materia educativa celebre el Estado con el Gobierno Federal y los Municipios.
-
-IV. Representar al Gobierno del Estado ante todo tipo de organismos educativos.
-
-V. Revalidar los estudios, diplomas, grados o títulos equivalentes a la enseñanza que se imparta en el Estado, en los términos de la ley de la materia.
-
-VI. Llevar el registro y control de los profesionistas que ejerzan en el Estado y organizar el servicio social en la entidad.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1987)</small>
-
-VII. Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas, hemerotecas, casas de cultura, museos y orientar sus actividades, así como organizar y dirigir el Archivo Histórico del Estado.
-
-VIII. Impulsar las actividades de difusión y fomento cultural.
-
-IX. Mantener por sí o en coordinación con los Gobiernos Federal y Municipal, programas permanentes de educación para adultos, de alfabetización y demás programas especiales.
-
-X. Fomentar y vigilar el desarrollo de la investigación científica y tecnológica de la entidad.
-
-XI. Promover, coordinar y fomentar los programas de educación para la salud y mejoramiento del ambiente aprobados para el Estado.
-
-XII. Administrar los asilos e instituciones de beneficencia pública del Gobierno del Estado y vigilar que los particulares cumplan con los propósitos para los que fueron creados.
-
-XIII. Coordinar con las autoridades competentes la realización de campañas para prevenir y atacar la drogadicción y el alcoholismo.
-
-XIV. Coordinar, organizar y fomentar la enseñanza y la práctica de los deportes en el Estado, así como la participación del Estado en torneos y juntas deportivas nacionales y extranjeras.
-
-XV. Vigilar la realización de los actos cívicos escolares, de acuerdo con el calendario oficial.
-
-XVI. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
-
-###### Artículo 31.
-
-La Secretaría de Desarrollo Urbano y Obras Públicas es el órgano encargado de ordenar los asentamientos humanos, regular el desarrollo urbano, así como proyectar y ejecutar las obras públicas del Estado.
-
-###### Artículo 32.
-
-A la Secretaría de Desarrollo Urbano y Obras Públicas corresponde el despacho de los siguientes asuntos:
-
-I. Promover y vigilar el equilibrado desarrollo de las diversas comunidades y centros de población del Estado, mediante una adecuada planificación y zonificación de los mismos.
-
-II. Formular, revisar y ejecutar el plan estatal de desarrollo urbano.
-
-III. Elaborar y vigilar el cumplimiento de los planos directores.
-
-IV. Vigilar el cumplimiento y aplicación de las disposiciones legales y reglamentarias en materia de construcción y desarrollo urbano.
-
-V. Promover y ejecutar la regularización de la tenencia de la tierra.
-
-VI. Participar en la realización de los programas de vivienda y urbanización.
-
-VII. Planear y regular el desarrollo de las comunicaciones y transportes en el Estado.
-
-VIII. Realizar las tareas relativas a la ingeniería del transporte y al señalamiento de la vialidad del Estado.
-
-IX. Otorgar, revocar y modificar las concesiones y permisos necesarios para la explotación de vialidades de jurisdicción estatal, así como ejercer, en su caso, el derecho de reversión.
-
-X. Formular el programa general de obras del Gobierno del Estado.
-
-XI. Proyectar, ejecutar, mantener y operar, en su caso, directamente o por adjudicación a particulares las obras públicas que no sean de la competencia de otra dependencia.
-
-XII. Prestar asesoría y trabajar en forma coordinada con los Ayuntamientos de la entidad, con las dependencias y entidades del Ejecutivo Federal, en la realización de obras públicas y demás actividades relacionadas con los asentamientos humanos.
-
-XIII. Formular y operar los planes y programas específicos para el abastecimiento y tratamiento de aguas y servicio de drenaje y alcantarillado.
-
-XIV. Expedir en coordinación con la Secretaría de Planeación las bases a que deban sujetarse los concursos para la ejecución de obras en el Estado, así como adjudicar, cancelar y vigilar el cumplimiento de los contratos de obras celebrados por la administración pública del Estado.
-
-XV. Las demás que señalen las Leyes y Reglamentos vigentes en el Estado.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1987)</small>
-
-###### Artículo 33.
-
-La Secretaría de Desarrollo Agropecuario es el órgano encargado de promover y regular el desarrollo agrícola, ganadero, forestal, pesquero e hidráulico y el establecimiento de agroindustrias, así como coadyuvar en la atención y solución de los problemas agrarios en el Estado.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1987)</small>
-
-###### Artículo 34.
-
-A la Secretaría de Desarrollo Agropecuario corresponde el despacho de los siguientes asuntos:
-
-I.- Rectoría, normatividad y programación de la producción agrícola, ganadera, forestal, pesquera, hidráulico y agroindustrial, así como la atención y solución de los problemas rurales en el Estado.
-
-II.- Realizar estudios para aprovechar racionalmente los recursos naturales renovables del Estado, integrados a las ramas agrícolas, ganadera, forestal y pesquera, a fin de desarrollar potencial productivo y satisfacer las demandas populares.
-
-III. Elaborar, supervisar, evaluar y controlar los planes estatales de desarrollo agrícola, ganadero, forestal, pesquero, hidráulico y agroindustrial de la Entidad.
-
-IV. Supervisar la ejecución de los programas estatales de desarrollo agrícola, ganadero, forestal, hidráulico y agroindustrial, para desarrollar y difundir técnicas, sistemas y procedimientos eficaces que permitan el mejoramiento de la producción y productividad.
-
-V. Establecer los programas estatales prioritarios de desarrollo desarrollo agrícola, ganadero, forestal, pesquero, hidráulico y agroindustrial, hacia los cuales se canalicen los apoyos financieros necesarios para el cumplimiento de sus objetivos.
-
-VI.- Planear la expansión, mejoramiento y tecnificación de todas las actividades relacionadas con la producción e industrialización agrícola, ganadera, forestal y pesquera en la Entidad, así como aquellas que permitan clasificar y evaluar los suelos para lograr su conservación, mejoramiento, zonificación y uso adecuado.
-
-VII. Apoyar la elaboración de estudios, planes y programas tendientes a las actividades de acopio y comercialización de la producción primaria o industrializada, agrícola, ganadera, forestal y pesquera en la Entidad.
-
-VIII. Proponer la creación de unidades administrativas u organismos auxiliares del sector, o bien, los cambios a las estructuras orgánicas de los mismos, que se consideren necesarios para el incremento de la actividad agrícola, ganadera, forestal, pesquera y agroindustrial en el Estado.
-
-IX. Promover el establecimiento y vigilar el funcionamiento de las estaciones que conforman el sistema meteorológico del Estado.
-
-X. Promover y organizar congresos, ferias, exposiciones y concursos agrícolas, ganaderos, forestales y pesqueros en el Estado, así como participar en eventos de carácter Nacional e Internacional.
-
-XI. Realizar estudios y proyectos para la construcción o reconstrucción de la infraestructura hidráulica necesaria para apoyar las actividades agrícolas ganaderas, forestales, pesqueras y agroindustriales en el Estado, ya sea en forma directa o a través de la contratación o subcontratación de los servicios de empresas públicas o privadas.
-
-XII. Promover la constitución de organizaciones de productores agrícolas, ganaderas, forestales, pesqueras y agroindustriales y apoyarlas en el acceso al crédito y seguro para la producción e innovaciones tecnológicas, canales de comercialización adecuados, almacenaje y mejores sistemas de administración, procurando con ello su bienestar social.
-
-XIII. Intervenir en los convenios de Coordinación que celebren el Ejecutivo con el Gobierno Federal en materia de desarrollo agropecuario, forestal, pesquero, hidráulico y agroindustrial, o con los municipios, así como con otras Entidades Públicas.
-
-XIV. Ejercer por delegación del Ejecutivo las atribuciones y funciones que en materia agrícola, ganadera, forestal, pesquera y agroindustrial, contengan los convenios firmados entre el Poder Ejecutivo y la Administración Pública Federal.
-
-XV. Ejercer las atribuciones que en materia agraria le competan al Ejecutivo del Estado, relacionándose con las autoridades correspondientes para la atención y solución de los asuntos en esta materia.
-
-XVI. Nombrar a las comisiones que han de vigilar la operación de las empresas de participación municipal avocadas a las actividades agrícolas, ganaderas, forestales, pesqueras y agroindustriales.
-
-XVII. Conservar y fomentar el desarrollo de la flora y fauna fluvial y lacustre en el Estado.
-
-XVIII. Coordinar las actividades operativas de las coordinaciones Regionales de Desarrollo Rural e implantar los mecanismos requeridos para la eficiente operación de los planes y programas que en materia agropecuaria, forestal e hidráulica se establezcan en la Entidad.
-
-XIX. Las demás que señalen las leyes, reglamentos y disposiciones relativas en el Estado.
-
-###### Artículo 35.
-
-La Secretaría de Desarrollo Económico es el órgano facultado de regular, promover y fomentar el desarrollo industrial y comercial del Estado.
-
-###### Artículo 36.
-
-A la Secretaría de Desarrollo Económico corresponde el despacho de los siguientes asuntos:
-
-I. Proponer al Gobernador las políticas y programas relativos al fomento de las actividades industriales, mineras, artesanales, turísticas y comerciales.
-
-II. Dirigir, coordinar y controlar la ejecución de los programas de fomento y promoción económica para el desarrollo de la Entidad.
-
-III. Fomentar la creación de fuentes de empleo impulsando el establecimiento de mediana y pequeña industria en el Estado, así como la creación de parques industriales y centros comerciales.
-
-IV. Organizar, promover y coordinar las actividades necesarias para lograr un mejor aprovechamiento de los recursos turísticos del Estado.
-
-V. Explotar directamente, otorgar y revocar concesiones para la explotación de los recursos turísticos del Estado, así como, para la creación de centros, establecimientos y la prestación de servicios turísticos en el Estado.
-
-VI. Controlar y supervisar, de acuerdo a las leyes y reglamentos de la materia, la prestación a los servicios turísticos que se realicen en el Estado.
-
-VII. Participar en la planeación y programación de las obras e inversiones tendientes a promover la racional explotación de los recursos minerales del Estado.
-
-VIII. Servir de órgano de consulta y asesoría en materia de desarrollo económico tanto a los organismos públicos y privados como a las dependencias del Ejecutivo.
-
-IX. Asesorar técnicamente a los Ayuntamientos, a los sectores sociales y privado que lo soliciten, en el establecimiento de nuevas industrias o en la ejecución de proyectos productivos.
-
-X. Apoyar la creación y desarrollo de agroindustrias en el Estado y fomentar la industria rural.
-
-XI. Apoyar los programas de investigación tecnológica industrial y fomentar su divulgación.
-
-XII. Promover la realización de ferias, exposiciones y congresos industriales y comerciales.
-
-XIII. Participar en la creación y administración de parques, corredores y ciudades industriales en el Estado.
-
-XIV. Formular y promover el establecimiento de medidas para el fomento y protección del comercio de primera mano en el Estado.
-
-XV. Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia industrial, turística y comercial contengan los convenios firmados entre él mismo y la administración pública federal.
-
-XVI. Organizar y fomentar la producción artesanal en el Estado, vigilando que su comercialización se haga en términos ventajosos para los artesanos.
-
-XVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
-
-###### Artículo 37.
-
-La Secretaría de Administración es el órgano encargado de prestar el apoyo administrativo que requieran las dependencias del Poder Ejecutivo del Estado.
-
-###### Artículo 38.
-
-A la Secretaría de Administración le corresponde el despacho de los siguientes asuntos:
-
-I. Vigilar el cumplimiento de las disposiciones legales que rijan las relaciones entre el Gobierno del Estado y los servidores públicos.
-
-II. Seleccionar, contratar, capacitar y controlar al personal del Poder Ejecutivo del Estado.
-
-III. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los funcionarios y trabajadores del Poder Ejecutivo del Estado.
-
-IV. Mantener al corriente el escalafón de los trabajadores al servicio del Gobierno del Estado.
-
-V. Adquirir los bienes y servicios que requiera el funcionamiento del Poder Ejecutivo del Estado.
-
-VI. Proveer oportunamente a las dependencias del ejecutivo de los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones.
-
-VII. Levantar y tener al corriente el inventario general de los bienes muebles e inmuebles propiedad del Gobierno del Estado.
-
-VIII. Administrar y asegurar la conservación y mantenimiento del patrimonio del Gobierno del Estado.
-
-IX. Establecer por acuerdo del Gobernador las normas para la recepción y entrega de las dependencias que incluirá necesariamente el levantamiento de inventarios.
-
-X. Administrar, controlar y vigilar los almacenes generales del gobierno.
-
-XI. Coordinar y supervisar en conjunto con las dependencias interesadas, la emisión de publicaciones oficiales del ejecutivo del Estado, excepto el periódico oficial.
-
-XII. Organizar, dirigir y controlar la intendencia del Poder Ejecutivo.
-
-XIII. Organizar y controlar la oficialía de partes.
-
-XIV. Administrar los talleres gráficos del Estado.
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1987)</small>
-
-XV. Administrar el Archivo General del Poder Ejecutivo del Estado.
-
-XVI. Elaborar e implantar programas de mejoramiento administrativo en coordinación con las demás dependencias del ejecutivo, que permita revisar permanentemente los sistemas, métodos y procedimientos de trabajo que se requieran para adecuar la organización administrativa a los programas de Gobierno.
-
-XVII. Autorizar, previo acuerdo del Gobernador la creación de las nuevas unidades administrativas que requieran las dependencias del Ejecutivo.
-
-XVIII. Elaborar con el concurso de las demás dependencias del ejecutivo, los manuales administrativos de las mismas y auxiliar en la formulación de los anteproyectos de sus reglamentos interiores.
-
-XIX. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
-
-> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 1989)</small>
+Los demás funcionarios, serán nombrados y removidos por los titulares de estas dependencias.
 
 ###### Artículo 38 Bis.
 
@@ -627,29 +321,31 @@ XXIII. Brindar asesoría y apoyo técnico a los órganos de control interno del 
 
 XXIV. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
-###### Artículo 39.
+###### ARTICULO 39.
 
-La Procuraduría General de Justicia es el órgano encargado del Ministerio Público y de prestar consejo jurídico al Gobierno del Estado.
+Para ser titular de cualquiera de las dependencias de la Administración Pública Paraestatal se requerirá llenar los requisitos que se establezcan en la disposición orgánica respectiva.
 
-###### Artículo 40.
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-A la Procuraduría General de Justicia, además de las facultades y obligaciones que específicamente le confieren la Constitución Política del Estado y demás leyes respectivas en el orden administrativo, tendrá las siguientes funciones:
+###### ARTICULO 40.
 
-I. Vigilar el respeto de las leyes por parte de todas las autoridades del Estado.
+Los titulares de las dependencias de la Administración Pública Paraestatal serán responsables de que la planeación, programación, presupuestación, aprobación, ejercicio, control, seguimiento y evaluación de los ingresos y egresos públicos se realicen de conformidad con lo establecido en la Ley de Planeación y en la Ley de Presupuesto y Responsabilidad Hacendaria, ambas del Estado de Sinaloa; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y en las disposiciones administrativas que para tal efecto se emitan. Asimismo, serán responsables de la aplicación y cumplimiento de la Ley General de Contabilidad Gubernamental y de las disposiciones del Consejo Nacional de Armonización Contable.
 
-II. Informar al Gobernador sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado y proponer las medidas necesarias para su corrección.
+Los titulares de las dependencias de la Administración Pública Paraestatal serán responsables de la planeación orientada a resultados, con apego en lo establecido en la Ley de Planeación para el Estado, y serán responsables también del cumplimiento del programa institucional a su cargo y de que los programas presupuestarios a través de los cuáles se ejerce el gasto en la dependencia a su cargo tengan una orientación a resultados y cumplan con las metas establecidas, así como de la implementación del Sistema de Evaluación del Desempeño y de la incorporación de sus resultados al proceso de programación y presupuestación de los recursos públicos bajo su responsabilidad.
 
-III. Dirigir y coordinar las actividades de la Policía Judicial del Estado.
+TRANSITORIOS:
 
-IV. Coordinar su actuación con las autoridades federales en la persecución de los delitos de competencia de aquellas.
+### CAPITULO II Bis. De la Consejería Jurídica
 
-V. Llevar la estadística e identificación criminal.
+###### ARTICULO 23 Bis.
 
-VI. Formular programas de capacitación para el personal de la Procuraduría y de la Policía Judicial.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2021)
 
-### CAPITULO CUARTO. De los Tribunales Administrativos
+ARTICULO 23 Bis A.- (DEROGADO, P.O. 29 DE OCTUBRE DE 2021)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+ARTICULO 23 Bis B.- (DEROGADO, P.O. 29 DE OCTUBRE DE 2021)
+
+ARTICULO 23 Bis C.- (DEROGADO, P.O. 29 DE OCTUBRE DE 2021)
 
 ###### Artículo 41.
 
@@ -669,9 +365,9 @@ Para el ejercicio de sus funciones, estos Tribunales contarán con el apoyo admi
 
 La Organización, Integración y Atribuciones de los Tribunales Administrativos, se regirá por la Legislación correspondiente.
 
-### CAPITULO QUINTO. De los Organismos Auxiliares
+### CAPITULO III. De las Entidades Administrativas
 
-del Poder Ejecutivo
+### CAPITULO ÚNICO. De la Administración Pública Paraestatal
 
 ###### Artículo 45.
 
@@ -729,9 +425,21 @@ P.O. 31 DE DICIEMBRE DE 1986
 
 ###### ARTICULO UNICO.
 
-Publíquese el presente Decreto en la "Gaceta de Gobierno" del Estado, el cual entrará en vigor el día primero de Enero de Mil Novecientos Ochenta y Siete.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-P.O. 8 DE JULIO DE 1987
+P.O. 28 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- La aportación que otorgue el Gobierno del Estado de Sinaloa, al patrimonio del Consejo para el Desarrollo Económico de Sinaloa en cada ejercicio fiscal, será el equivalente al 20% de lo recaudado en el ejercicio fiscal 2007 del Impuesto Sobre Nóminas, cantidad que en ejercicios posteriores se tomará como base para integrar su patrimonio, la que será actualizada en términos reales en cada ejercicio.
+
+P.O. 21 DE JUNIO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
+
+P.O. 26 DE JUNIO DE 2017.
 
 ###### ARTICULO UNICO.
 
@@ -747,19 +455,57 @@ P.O. 11 DE OCTUBRE DE 1989
 
 ###### ARTICULO PRIMERO.
 
-El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
+La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan las disposiciones que se opongan a las contenidas en este decreto.
+Se abroga la Ley Orgánica del Poder Ejecutivo del Estado de Sinaloa, de fecha 31 de julio de 1973, publicada en el Periódico Oficial "El Estado de Sinaloa", número 136 de fecha 11 de noviembre de 1974, así como todas las demás disposiciones que se opongan a lo establecido por la presente Ley.
 
 ###### ARTICULO TERCERO.
 
-Cuando en otros ordenamientos legales, se aluda a la Secretaría de Finanzas, se entenderá que se trata de la Secretaría de Finanzas y Planeación.
+Cuando alguna unidad administrativa pase, conforme a esta Ley, de una dependencia del Ejecutivo a otra, el traspaso se hará incluyendo el personal a su servicio, sin perjuicio de sus derechos laborales; el mobiliario; los vehículos; instrumentos; aparatos; maquinaria; archivos y en general el equipo que tales unidades hayan venido usando para la atención de los asuntos que tuvieron encomendados conforme a la Ley anterior.
 
 ###### ARTICULO CUARTO.
 
-Cuando en algún ordenamiento legal, se establezcan atribuciones a la Secretaría de Planeación, se entenderán concedidas, según corresponda a las Secretarías de Finanzas y Planeación y de la Contraloría, en términos de este decreto.
+Los asuntos que con motivo de esta Ley deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia que señale esta Ley, a excepción de los trámites urgentes, o sujetos a plazos improrrogables que continuarán ante la misma unidad administrativa en que estuvieren radicados.
+
+Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los cuatro días del mes de Enero de mil novecientos ochenta y uno.
+
+Lic. Jaime H. Ceceña Imperial
+
+Diputado Presidente
+
+Dr. Julio Lemen Meyer Otero
+
+Diputado Secretario
+
+Profr. José Carlos Loaiza Aguirre
+
+Diputado Secretario
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Es dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Culiacán Rosales, Sinaloa, a los cuatro días del mes de Enero de mil novecientos ochenta y uno.
+
+El Gobernador Constitucional del Estado
+
+ANTONIO TOLEDO CORRO
+
+El Secretario General de Gobierno
+
+LIC. MARCO A. ARROYO CAMBERO
+
+El Secretario de Finanzas del Estado
+
+LIC. JOSE RAMON FUENTEVILLA PELAEZ
+
+El Secretario de Desarrollo Económico
+
+ING. ERNESTO ORTEGON C.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE ABRIL DE 2000.
 
 ###### ARTICULO QUINTO.
 
@@ -768,3 +514,91 @@ El Ejecutivo del Estado proveerá lo necesario para la transferencia de las part
 ###### ARTICULO SEXTO.
 
 Los asuntos que al entrar en vigor este decreto se encuentren en trámite, se continuarán por la dependencia a la que se asignen las atribuciones correspondientes en términos del mismo.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Segundo. El Congreso del Estado, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los órganos internos de control de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política del Estado de Sinaloa les otorga autonomía y que ejercen recursos públicos, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los órganos internos de control a que se refiere el presente Decreto.
+
+Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
+
+Sexto. Los Ayuntamientos, dentro de los 180 días siguientes a la publicación de este Decreto, iniciarán los procesos de designación de los titulares de los órganos internos de control que ejerzan recursos públicos, previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 332 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CONTRATOS DE COLABORACIÓN PÚBLICO PRIVADA, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE LA AUDITORÍA SUPERIOR Y LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 827 DEL H. CONGRESO DEL ESTADO.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Ejecutivo del Estado en un plazo que no deberá exceder los 60 días naturales a la entrada en vigor del presente Decreto, realizará las adecuaciones reglamentarias, de estructura orgánica y presupuestales para la conformación de la Consejería Jurídica, la cual quedará adscrita directamente a su cargo.
+
+P.O. 11 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 487 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DEL SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA Y LEY ORGÁNICA DEL CONGRESO, TODAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. No obstante lo establecido en el artículo anterior, las disposiciones relativas a las reformas de la Ley Orgánica del Congreso del Estado de Sinaloa, entrarán en vigor a partir del momento de que sean aprobadas por el Pleno, toda vez que no requieren de promulgación por parte del Ejecutivo Estatal ni (sic) pueden ser objeto de veto en los términos del artículo 8 de dicha Ley.
+
+En caso de que se hagan observaciones por parte del Ejecutivo Estatal a las otras disposiciones contenidas en el presente Decreto, el Gobernador del Estado deberá publicar en lo inmediato, para conocimiento de la generalidad, la parte relativa a las modificaciones de la Ley Orgánica del Congreso.
+
+TERCERO. Las disposiciones del presente Decreto relativas a las candidaturas de elección popular por las fórmulas de mayoría relativa y de representación proporcional, serán aplicables a partir del proceso electoral del año 2021 atento también a las disposiciones electorales contenidas en la demás legislación de la materia que sea aplicable.
+
+P.O. 29 DE OCTUBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 3 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR, LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES, LEY PARA PREVENIR, ATENDER Y REPARAR INTEGRALMENTE EL DESPLAZAMIENTO FORZADO INTERNO EN EL ESTADO Y LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS, TODAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día primero de noviembre del año dos mil veintiuno.
+
+SEGUNDO. Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+
+TERCERO. Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias correspondientes para la armonización de la estructura gubernamental con la nueva normativa legal.
+
+CUARTO. Se abroga la Ley del Instituto Sinaloense de las Mujeres expedida mediante Decreto número 662 y publicada en el Periódico Oficial "El Estado de Sinaloa" No. 04 el día lunes 10 de enero del año 2005, y se extingue el Instituto Sinaloense de las Mujeres, con efectos a partir del primero de noviembre del año dos mil veintiuno.
+
+QUINTO. El Titular del Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas, y de las demás dependencias correspondientes, en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, deberá iniciar el procedimiento de liquidación y extinción del instituto Sinaloense de las Mujeres, de conformidad con la Ley de Entidades Paraestatales y con la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos, ambas del Estado de Sinaloa.
+
+El patrimonio y presupuesto con que actualmente cuenta del Instituto Sinaloense de las Mujeres serán transferidos y pasarán a formar parte íntegra de la Secretaría de las Mujeres.
+
+La Secretaría de Administración y Finanzas de Gobierno del Estado, deberá coordinar y supervisar la transmisión de los activos, recursos humanos y recursos materiales del Instituto Sinaloense de las Mujeres a la Secretaría de las Mujeres.
+
+Las obligaciones contraídas por el Instituto Sinaloense de las Mujeres serán asumidas por la Secretaría de las Mujeres.
+
+SEXTO. Todas las referencias hechas y facultades atribuidas al Instituto Sinaloense de Mujeres en leyes, reglamentos y normatividad diversa se entenderán hechas a la Secretaría de las Mujeres que se crea mediante el presente Decreto.
+
+SÉPTIMO. Los recursos humanos y materiales asignados al Centro de Justicia para las Mujeres y al Consejo Estatal para la Prevención y Atención de la Violencia Familiar serán integrados a la Secretaría de las Mujeres, en términos de las disposiciones aplicables.
+
+OCTAVO. Quedarán a salvo los derechos de las y los trabajadores de las instituciones que absorbe la Secretaría de las Mujeres, para efectos de su Seguridad y Previsión Social.
+
+NOVENO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2021.
+
+> <small>[N. DE E. TRASITORIOS DEL “DECRETO NÚMERO 4 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y DE LA LEY DE ENTIDADES PARAESTATALES, AMBAS DEL ESTADO DE SINALOA”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Las derogaciones del Capítulo II Bis y sus artículos 23 Bis, 23 Bis A, 23 Bis B y 23 Bis C de la Ley Orgánica de la Administración Pública del Estado de Sinaloa, previstas en el presente Decreto, surtirán sus efectos a partir del día primero de noviembre del año dos mil veintiuno.
+
+TERCERO. Aquellas entidades paraestatales que no dispongan de un área de asesoría jurídica específica y que a juicio del Gobernador Constitucional del Estado requieran de una, en razón de su objeto, atribuciones o recursos públicos que ejercen, integrarán a su proyecto de presupuesto para el próximo ejercicio fiscal un área de Asuntos Jurídicos en su estructura orgánica.
+
+CUARTO. El nombramiento y remoción de los titulares de las áreas jurídicas de las entidades paraestatales, será atribución vigente del Secretario General de Gobierno, a partir de la entrada en vigor de este Decreto, aún y cuando el instrumento jurídico que les dio origen no haya sido adecuado a esta disposición. En lo subsecuente, se dictarán las disposiciones necesarias para armonizar dichos instrumentos jurídicos al contenido de esta reforma de Ley.
+
+QUINTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
