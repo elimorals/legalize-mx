@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-11-2003-de-la-comision-de-creacion-de-nuevos-61050
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-12-17"
-last_updated: "2003-12-17"
+last_updated: "2004-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61050&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-12-09"
 
 ACUERDO CCNO/11/2003, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXCLUSION TEMPORAL DEL TURNO DE ASUNTOS NUEVOS AL QUINTO TRIBUNAL COLEGIADO EN MATERIA PENAL DEL PRIMER CIRCUITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ENERO DE 2004.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 17 de diciembre de 2003.
 
@@ -47,6 +47,8 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/2/2004, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 30 DE ENERO DE 2004, SE PRORROGA DEL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL QUINTO TRIBUNAL COLEGIADO EN MATERIA PENAL DEL PRIMER CIRCUITO, CON RESIDENCIA EN EL DISTRITO FEDERAL, POR EL LAPSO DE DOS MESES, DEL 1 DE FEBRERO AL 15 DE ABRIL DE 2004.</small>
+
 PRIMERO.- Se excluye temporalmente del turno de asuntos nuevos al Quinto Tribunal Colegiado en Materia Penal del Primer Circuito.
 
 El periodo de exclusión señalado comprenderá del dos al treinta y uno de enero de dos mil cuatro; por ende, los asuntos nuevos presentados en ese lapso en la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Penal del Primer Circuito, serán del conocimiento de los tribunales colegiados primero, segundo, tercero, cuarto, sexto, séptimo, octavo, noveno y décimo, todos de la materia y Circuito aludidos, con excepción de los asuntos relacionados los que serán turnados al órgano jurisdiccional correspondiente con el propósito de aprovechar el conocimiento previo y evitar el pronunciamiento de resoluciones contradictorias, conforme a lo dispuesto en el Acuerdo General 23/2002, del Pleno del Consejo de la Judicatura Federal.
@@ -64,3 +66,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 LA LICENCIADA GUADALUPE MARGARITA ORTIZ BLANCO, SECRETARIA EJECUTIVA DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/11/2003, de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, relativo a la exclusión temporal del turno de asuntos nuevos al Quinto Tribunal Colegiado en Materia Penal del Primer Circuito, fue aprobado por la propia Comisión en sesión privada extraordinaria celebrada el nueve de diciembre de dos mil tres, por los señores Consejeros: Presidenta Margarita Beatriz Luna Ramos y Sergio A. Valls Hernández.- México, Distrito Federal, a nueve de diciembre de dos mil tres.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 30 DE ENERO DE 2004.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
