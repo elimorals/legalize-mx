@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-la-5133"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-29"
-last_updated: "1991-03-05"
+last_updated: "1991-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 29 de enero de 1988.
 
@@ -247,13 +247,93 @@ Cuando no exista Médico ni Maestro se integrará por los Directores del Centro 
 
 El Consejo Interno Interdisciplinario, deberá celebrar Sesiones Ordinarias por lo menos una vez a la semana y Extraordinarias cuando fuere convocado por el Director del Centro de Reclusión.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+## TITULO SEGUNDO BIS. DE LOS DERECHOS DE LOS INTERNOS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 21 A.- En la organización y funcionamiento de los Centros de Readaptación Social se considerará el principio de igualdad de los internos, sin perjuicio de las reglas que se definan en función de sexo, seguridad, peligrosidad, salud, clasificación por delito, y de las condiciones legales del procesado y sentenciado.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 21 B.- Salvo causas de fuerza mayor los internos podrán ser visitados por el cónyuge, hijos, padres, abuelos, nietos y hermanos, en ese orden; así como por parientes consanguíneos o por afinidad en grados más distantes, defensores y amigos o por cualquier persona cuando el interno esté anuente a ello.
+
+Los días de visita serán los miércoles, sábados y domingos, y los días 1o. de enero, 30 de abril, 10 de mayo, 24 y 31 de diciembre.
+
+Los reglamentos internos de los establecimientos contendrán disposiciones para regular esas visitas en cuanto a horarios y duración conforme al flujo de visitantes y a la capacidad física de cada establecimiento.
+
+La revisión de visitantes mujeres se realizará por personal femenino capacitado.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 21 C.- Ningún interno podrá estar al servicio personal de los directivos o empleados de los establecimientos o de otro interno, haya o no remuneración al efecto, salvo las labores de readaptación que los reglamentos definan.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 21 D.- Conforme a los criterios técnicos aplicables y según las características de los internos, éstos tendrán acceso a servicios educativos gratuitos, definiéndose los niveles y modalidades en función de la escolaridad en concordancia a lo dispuesto en el Capítulo III del Título Cuarto de esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 21 E.- Los servicios médicos de los establecimientos, en los términos del Capítulo IV del Título Cuarto de esta Ley, dependerán funcional y técnicamente de los Servicios Estatales de Salud y serán enteramente gratuitos, así como los medicamentos que se prescriban.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 21 F.- En los términos del Artículo 36 de esta Ley, los Servicios Estatales de Salud establecerán las dietas alimenticias balanceadas a las que se deben sujetar los Centros de Readaptación Social, siendo esta gratuita. Las visitas podrán mejorar esas dietas o los internos podrán hacerlo, sin que pueda hacerse cobro alguno por autorizar esas adquisiciones complementarias.
+
+Las únicas limitaciones serán de naturaleza sanitaria, pero no se autorizarán bebidas alcohólicas ni estupefacientes.
+
+El ingreso de alimentos de las visitas para los internos podrán realizarse diariamente en el horario y con las limitaciones que fije el reglamento.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 21 G.- En los establecimientos no se hará cobro alguno a los internos por disfrutar los servicios de recreación o entretenimiento que se presten, ni por participar en actividades de esa naturaleza o de carácter deportivo o social.
+
+Tampoco se hará cobro alguno en razón de las visitas a los internos.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 21 H.- En los Centros de Readaptación Social habrá tiendas de bienes de consumo de primera necesidad y de materias primas para las actividades productivas autorizadas, las cuales serán operadas por las autoridades y sus precios serán iguales a los de tiendas públicas similares.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 21 I.- Los cónyuges, concubinarios y concubinas podrán recibir visita íntima una vez a la semana durante los días y horarios que establezca el reglamento de los establecimientos, mismo que definirá la duración de esa visita en función de la capacidad de las instalaciones y el cumplimiento de sus propósitos, en los términos del Artículo 88 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 21 J.- Los productos que elaboren los internos podrán comercializarse por los Centros siempre y cuando el remanente, descontado el costo de producción a cargo de los Centros, se entregue a los internos fabricantes. Hasta el 50% de ese remanente formará un fondo con causa de intereses y será administrado por el propio Centro, que se entregará a la liberación del interno y sin perjuicio de los derechos preferentes que tiene el ofendido conforme al Artículo 36 del Código Penal.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 21 K.- Los internos podrán poseer radios AM y FM, microtelevisores, grabadoras, tocadiscos y tocacintas de los de uso individual, pero su uso estará sujeto a horarios y a limitaciones para que no afecte a terceros en los términos del Artículo 42 Fracción II de esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 21 L.- Con las limitaciones temporales que la seguridad aconseje, los Centros promoverán ante la concesionaria un servicio telefónico público que podrá utilizarse en los días y horarios que el reglamento defina y se localizará en áreas restringidas de seguridad.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 21 M.- Se darán facilidades para que periódicamente se presten servicios religiosos a los internos en los días de visita.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 21 N.- Cuando un interno fallezca se practicará invariablemente necropcia para los fines legales que correspondan; y contará con un seguro de vida a cargo del Gobierno del Estado, cuya cobertura se determinará por éste.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 21 Ñ.- La Oficina de Quejas en Materia de Justicia del Poder Ejecutivo tendrá un servicio para obtener las quejas escritas de los internos sobre la organización y funcionamiento de los establecimientos, el respeto a los derechos de los internos y sobre posibles irregularidades del procedimiento.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 21 O.- El Visitador General de la Comisión de Defensa de los Derechos Humanos visitará permanentemente los establecimientos y al efecto podrá hacerlo sin mayor trámite con el único límite de su seguridad personal.
+
 ## TITULO TERCERO. DE LA ORGANIZACION
 
 ### CAPITULO I. DE LOS CENTROS PREVENTIVOS Y DE READAPTACION SOCIAL
-
-## TITULO CUARTO. SISTEMA DE READAPTACION
-
-### CAPITULO II. DE LAS CONDICIONES GENERALES
 
 ###### ARTICULO 22o.
 
@@ -317,7 +397,7 @@ Los Directores de los Centros de Reclusión, tendrán a su cargo el control, gob
 
 En el interior de los Establecimientos de Reclusión para mujeres, el personal de Custodia será exclusivamente del sexo femenino.
 
-### CAPITULO I. DEL REGIMEN PARA LA READAPTACION DE SENTENCIADOS
+### CAPITULO II. DE LAS CONDICIONES GENERALES
 
 ###### ARTICULO 33o.
 
@@ -449,11 +529,89 @@ Durante el período de tratamiento, los internos estarán sujetos a las medidas 
 
 El personal directivo, técnico, administrativo y de custodia de los Centros de Readaptación Social, procurarán fortalecer y conservar la dignidad de los internos, tendiendo a la readaptación social y atendiendo las recomendaciones hechas en los Congresos Penitenciarios que se celebren.
 
-### CAPITULO II. DEL REGIMEN OCUPACIONAL
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
 
-## TITULO QUINTO
+### CAPITULO III. DE LA ORGANIZACION Y FUNCIONAMIENTO DE LOS CENTROS DE READAPTACION SOCIAL
 
-### CAPITULO III. DEL REGIMEN EDUCATIVO
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 A.- Los internos sentenciados y los procesados en los términos del Artículo 18 de la Constitución General de la República estarán físicamente separados, conforme a las posibilidades materiales de los Centros, los internos podrán distribuirse según la naturaleza de los delitos cometidos; el carácter de primodelincuente o reincidente; o edad; así como en función de los avances que observen en el proceso de rehabilitación social, de conformidad al Artículo 6 de esta Ley, así como otras circunstancias que defina el reglamento respectivo, siempre que se encuentre en condiciones dignas y decorosas.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 B.- Los internos estarán físicamente separados en función de sexo.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 C.- En cada establecimiento existirá una Delegación del Servicio de Defensoría de Oficio para asistir a los internos en sus procesos y prestarles orientación legal así como a sus padres, cónyuges o concubinos, hijos y nietos.
+
+El Servicio de Defensoría de Oficio tendrá una sección especial para los internos sujetos a proceso.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 D.- Los Centros deberán contar con un área de locutoría para que los internos se entrevisten con sus abogados.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 E.- Los Centros deberán proveer a los internos con el mobiliario indispensable para dormir, tomar alimentos, asearse y participar en labores educativas y productivas.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 F.- Las instalaciones y servicios sanitarios y de aseo de cada Centro serán proporcionales al número de internos.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 G.- La Dirección General de Readaptación Social promoverá ante las Dependencias y Entidades competentes que los hijos menores de internos se beneficien con la protección social del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 H.- Las Secretarías de Educación y Desarrollo Social rendirán opinión sobre el presupuesto que se asigne a los Centros de Readaptación Social a efecto de que cuenten con recursos para los programas de bienestar social y de capacitación para el trabajo.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 I.- Cada Centro contará con talleres para capacitación para el trabajo tomando en cuenta las condiciones socioeconómicas, escolares y culturales de los internos.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 J.- En cada Centro habrá una biblioteca cuidando que su acervo esté acorde al índice sociocultural de los internos y no contraríe las buenas costumbres ni haga apología del delito.
+
+Los internos con sujeción al párrafo anterior podrán poseer libros y publicaciones periódicas siempre que no los faciliten a otros a cambio de cuotas o servicios.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 K.- La Dirección General de Readaptación Social aplicará permanentemente un programa de liberación anticipada de reos con sujeción a las leyes penales y de procedimientos penales así como de readaptación social.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 L.- La Dirección General de Readaptación Social manejará un fondo financiero para cubrir las primas de fianzas de internos que por su modesta condición socioeconómica no puedan por sí obtener la libertad bajo caución.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 M.- Los internos no podrán ejercer función directiva alguna y será aplicable la Ley de Responsabilidades de los Servidores Públicos a todo aquél que establezca, pretenda establecer, tolere, autorice o propicie sistemas de autogobierno o cogobierno en un establecimiento.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 N.- En cada Centro de Readaptación habrá mecanismos para determinar las infracciones a las disposiciones legales, administrativas y técnicas por parte de los internos, y la aplicación de las sanciones correspondientes, sin perjuicio de dar por terminado inmediatamente las conductas infractoras cuando los servidores públicos consideren que se afecta la organización y funcionamiento de los Centros, con sujeción al Capítulo IV del Título Cuarto de esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 Ñ.- En ningún caso la infracción de esta Ley y los reglamentos o de las disposiciones administrativas y técnicas darán lugar a sanciones que consistan en castigos que pongan en riesgo la integridad física del infractor.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 O.- El Gobierno del Estado operará un sistema de superación ética, técnica y profesional de los servidores de Readaptación Social, y un servicio de carrera que pondere y compense antigüedad, capacidad y méritos.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 P.- En la Dirección General de Readaptación Social habrá un Comité Disciplinario y de Asuntos Internos para investigar las infracciones que presumiblemente hayan cometido servidores de los Centros de Readaptación Social y para recomendar a las autoridades competentes el fincamiento de las responsabilidades que procedan.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 49 Q.- Habrá un Auditor de Centros de Readaptación Social adscrito orgánicamente a la Secretaría General de Gobierno que verificará la observancia de las leyes, reglamentos y disposiciones técnicas y administrativas aplicables a esos establecimientos, y quien podrá al efecto realizar las visitas y requerir la documentación oficial que estime convenientes.
+
+## TITULO CUARTO. SISTEMA DE READAPTACION
+
+### CAPITULO I. DEL REGIMEN PARA LA READAPTACION DE SENTENCIADOS
 
 ###### ARTICULO 50o.
 
@@ -483,7 +641,7 @@ El régimen disciplinario será de tal modo que permita estimular el sentido de 
 
 El traslado de un interno a otro "Centro de Reclusión", sólo podrá realizarse por graves y comprobados motivos de seguridad, por exigencias procesales o materiales de los Centros, por motivos de salud, estudio o integración familiar.
 
-### CAPITULO IV. DEL REGIMEN DISCIPLINARIO
+### CAPITULO II. DEL REGIMEN OCUPACIONAL
 
 ###### ARTICULO 57o.
 
@@ -527,7 +685,7 @@ El trabajo de los internos deberá realizarse en lo posible, bajo las condicione
 
 Ningún interno podrá desempeñar funciones de autoridad o ejecutivas, ni ejercer dentro del Centro, empleo o cargo alguno. Queda prohibido el establecimiento de negocios particulares por parte de los internos y del personal del Centro de Reclusión.
 
-### CAPITULO V. DE LAS RELACIONES CON EL EXTERIOR
+### CAPITULO III. DEL REGIMEN EDUCATIVO
 
 ###### ARTICULO 67o.
 
@@ -561,7 +719,7 @@ En los "Centros de Reclusión" habrá por lo menos un Profesor de Enseñanza Pri
 
 El Gobierno del Estado, a través de la Dirección General de Readaptación Social, convendrá con las Instituciones Educativas que tienen a su cargo los Servicios de Educación Oficial. Para que la educación que se imparta en los "Centros de Reclusión", reciba el apoyo necesario.
 
-### CAPITULO VI. DE LOS SERVICIOS MEDICOS
+### CAPITULO IV. DEL REGIMEN DISCIPLINARIO
 
 ###### ARTICULO 75o.
 
@@ -601,7 +759,7 @@ En el Reglamento Interior del Centro de Reclusión, se señalarán las faltas o 
 
 Queda prohibido estrictamente la introducción, uso, posesión o comercio de bebidas alcohólicas, sustanciales (sic) tóxicas, armas, explosivos y en general instrumentos que pongan en peligro la seguridad y el orden del Centro.
 
-### CAPITULO UNICO. DE LA REMISION PARCIAL DE LA PENA
+### CAPITULO V. DE LAS RELACIONES CON EL EXTERIOR
 
 ###### ARTICULO 84o.
 
@@ -643,7 +801,7 @@ En caso de que un interno sea trasladado a otro Centro de Reclusión, padezca en
 
 En caso de extranjeros, se informará a la Dirección General de Servicios Migratorios de la Secretaría de Gobernación.
 
-### CAPITULO I. DEL TRATAMIENTO PRELIBERACIONAL
+### CAPITULO VI. DE LOS SERVICIOS MEDICOS
 
 ###### ARTICULO 93o.
 
@@ -695,9 +853,9 @@ IV.- Detectar las situaciones en que el estado emocional del interno amenace su 
 
 Las Areas Médicas, Psicológicas y Psiquiátricas, proporcionarán a las autoridades competentes, los informes y elementos técnicos especializados que le sean requeridos, en los casos de inimputables.
 
-## TITULO SEXTO. DE LAS LIBERACIONES
+## TITULO QUINTO
 
-### CAPITULO II. DE LA LIBERTAD PREPARATORIA
+### CAPITULO UNICO. DE LA REMISION PARCIAL DE LA PENA
 
 ###### ARTICULO 102o.
 
@@ -735,9 +893,9 @@ Además tendrán derecho a la Remisión Parcial de la Pena; los internos a que s
 
 La Remisión Parcial de la Pena, será concedida sin perjuicio de cualquier otro beneficio concedido a los internos por la presente Ley.
 
-## TITULO SEPTIMO. DE LA EJECUCION DE LAS SANCIONES RESTRICTIVAS DE LA LIBERTAD O DERECHOS Y SUSPENSION CONDICIONAL DE LA EJECUCION DE LA SENTENCIA
+## TITULO SEXTO. DE LAS LIBERACIONES
 
-### CAPITULO III. DE LA RETENCION
+### CAPITULO I. DEL TRATAMIENTO PRELIBERACIONAL
 
 ###### ARTICULO 109o.
 
@@ -791,7 +949,7 @@ II.- Cuando el preliberado incumpla con las condiciones con que le fue otorgada,
 
 III.- Cuando el interno presente conductas no acordes al tratamiento preliberacional concedido.
 
-### CAPITULO IV. EXTINCION DE LA POTESTAD DE EJECUTAR LAS PENAS Y MEDIDAS DE SEGURIDAD
+### CAPITULO II. DE LA LIBERTAD PREPARATORIA
 
 ###### ARTICULO 116o.
 
@@ -845,7 +1003,7 @@ II.- Por cometer un nuevo delito y que dentro del término constitucional result
 
 Cuando se verifique alguna de las circunstancias mencionadas en el artículo anterior, la Dirección de Readaptación Social, revocará el beneficio concedido y el infractor extinguirá toda la parte de la sanción restante.
 
-### CAPITULO UNICO. DE LA PROHIBICION DE IR A UNA CIRCUNSCRIPCION TERRITORIAL DETERMINADA O DE RESIDIR EN ELLA
+### CAPITULO III. DE LA RETENCION
 
 ###### ARTICULO 124o.
 
@@ -875,7 +1033,7 @@ Cuando el dictamen de la Dirección General de Readaptación Social fuere inapli
 
 La Dirección General de Readaptación Social, está obligada a resolver sobre la retención, en todo caso, dos meses antes de la fecha de extinción de la pena; sin perjuicio de lo dispuesto en el Artículo anterior.
 
-### CAPITULO UNICO. DE SUS ATRIBUCIONES
+### CAPITULO IV. EXTINCION DE LA POTESTAD DE EJECUTAR LAS PENAS Y MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 131o.
 
@@ -907,7 +1065,9 @@ En el caso de la fracción IV, se estará a lo dispuesto, tratándose del indult
 
 Al quedar un interno en libertad definitiva o condicional, se hará entrega inmediata de la cantidad que le corresponda de su fondo de ahorro. Así como una constancia de que ha obtenido su libertad legalmente.
 
-## TITULO OCTAVO. DEL PATRONATO DE AYUDA PARA LA REINTEGRACION SOCIAL
+## TITULO SEPTIMO. DE LA EJECUCION DE LAS SANCIONES RESTRICTIVAS DE LA LIBERTAD O DERECHOS Y SUSPENSION CONDICIONAL DE LA EJECUCION DE LA SENTENCIA
+
+### CAPITULO UNICO. DE LA PROHIBICION DE IR A UNA CIRCUNSCRIPCION TERRITORIAL DETERMINADA O DE RESIDIR EN ELLA
 
 ###### ARTICULO 135o.
 
@@ -926,6 +1086,10 @@ La Dirección General de Readaptación Social, cuidará de que el confinado obte
 La Dirección General de Readaptación Social, tendrá a su cargo la vigilancia y supervisión de la conducta de los sentenciados, a quienes se les haya suspendido condicionalmente la ejecución de la pena privativa de libertad, impuesta por sentencia definitiva en los términos de lo dispuesto por el Capítulo VIII, Título IV del Libro Primero del Código Penal.
 
 La vigilancia se ejercerá discretamente y los informes que se obtengan, en caso de ser desfavorables se turnarán a los Tribunales competentes.
+
+## TITULO OCTAVO. DEL PATRONATO DE AYUDA PARA LA REINTEGRACION SOCIAL
+
+### CAPITULO UNICO. DE SUS ATRIBUCIONES
 
 ###### ARTICULO 139o.
 
@@ -990,3 +1154,9 @@ Rúbrica.
 P.O. 5 DE MARZO DE 1991.
 
 UNICO.- El presente Decreto de Reformas y Adiciones entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE SEPTIEMBRE DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
