@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-de-medios-de-impugnacion-en-materia-18285"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-30"
-last_updated: "2001-11-26"
+last_updated: "2003-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,748 +21,634 @@ state: "AGU"
 ---
 # LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE AGUASCALIENTES
+LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 1954.
 
-Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Aguascalientes, el 30 de octubre del 2000.
+Ley publicada en el Periódico Oficial, el 30 de octubre de 1940.
 
-FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
+EL C. ING. MARTE R. GOMEZ, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+Que el H. Congreso del Estado, se ha servido expedir el siguiente
 
-El H. Congreso del Estado en sesión extraordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
+DECRETO
 
-"NUMERO 131
+"Num. 248.- El XXXVI H. Congreso Constitucional del Estado Libre y Soberano de Tamaulipas, en nombre del pueblo que representa, decreta la siguiente:
 
-La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del pueblo, decreta:
+LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL
 
-LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE AGUASCALIENTES.
+### CAPITULO I. DE LAS OFICINAS Y DE LOS OFICIALES DEL REGISTRO CIVIL
 
-# LIBRO PRIMERO. DEL SISTEMA DE MEDIOS DE IMPUGNACION
+###### Art. 1°.
 
-## TITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+En cada una de las Cabeceras Municipales y en las poblaciones que por su importancia urbana lo ameriten, a juicio del Ejecutivo, se establecerán Oficinas del Registro Civil que estarán a cargo de un Oficial del Registro Civil, Jefe de la Oficina, y de un Secretario con facultades de refrendo. En cada caso, de acuerdo con el volumen del trabajo, habrá también los empleados subalternos que fijen los Presupuestos de Egresos correspondientes.
 
-### CAPITULO I. De los Criterios de Interpretación y del Ambito de Aplicación
+###### Art. 2°.
 
-###### ARTICULO 1º.
+Serán auxiliares de las Oficinas del Registro Civil: los Delegados Municipales o los Sub-Delegados en los centros de población, congregaciones, ejidos, rancherías y demás agrupaciones urbanas en donde no existan Oficinas del Registro Civil.
 
-Las disposiciones de esta ley son de orden público y de observancia general en el Estado de Aguascalientes.
+###### Art. 3°.
 
-###### ARTICULO 2º.
+En su carácter de auxiliares del Registro Civil, corresponderá a los Delegados Municipales o Sub-Delegados la obligación de dar cuenta detallada a la Oficina respectiva, sobre los nacimientos y defunciones que ocurran en su jurisdicción.
 
-Las autoridades estatales y municipales, ciudadanos, partidos políticos, candidatos y todas aquellas personas físicas o morales, que con motivo del trámite, substanciación y resolución de los medios de impugnación a que se refiere la presente ley no cumplan las disposiciones de ésta, o desacaten las resoluciones que dicte el Tribunal Local Electoral, serán sancionadas en los términos del presente ordenamiento.
+###### Art. 4°.
 
-###### ARTICULO 3º.
+Los Oficiales del Registro Civil los Secretarios y demás personal, serán nombrados por el Ejecutivo del Estado, que podrá cambiarlos de adscripción, conforme a las necesidades del servicio y removerlos sólo en caso de omisiones en el servicio o de faltas graves, sin perjuicio de las disposiciones sobre trabajo de las leyes en vigor o que en lo sucesivo se expidieren.
 
-La interpretación de la presente ley se hará conforme a los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se aplicarán supletoriamente los principios generales del derecho.
+###### Art. 5°.
 
-### CAPITULO II. De los Medios de Impugnación
+Las renuncias de los Oficiales del Registro Civil se presentarán al Ejecutivo del Estado por conducto del Departamento de Estadística. Ningún Oficial del Registro Civil abandonará su empleo sin que se le haya aceptado la renuncia.
 
-###### ARTICULO 4º.
+###### Art. 6°.
 
-El sistema de medios de impugnación regulado por esta ley tiene por objeto garantizar:
+Para ser Oficial del Registro Civil se requerirá:
 
-I.- Que todos los actos y resoluciones de las autoridades electorales se apeguen a los principios constitucionales y de legalidad; y
+I.- Tener 25 o más años de edad;
 
-II.- Fijar los medios y procedimientos para el desahogo de todas las instancias de impugnación, precisando la definitividad de los actos y etapas de los procesos electorales.
+II.- Ser ciudadano mexicano con vecindad en la localidad, y
 
-###### ARTICULO 5º.
+III.- Tener buenas costumbres.
 
-Los recursos previstos son:
+###### Art. 7°.
 
-I. Recurso de Revisión;
+El cargo de Oficial del Registro Civil será incompatible con cualquier otro de carácter federal, Estatal o Municipal, salvo autorización expresa del Ejecutivo.
 
-II. Recurso de Apelación, y
+###### Art. 8°.
 
-III. Recurso de Inconformidad
+Las faltas obsolutas de los Oficiales y Secretarios de las Oficinas del Registro Civil, serán suplidas por el substituto que designe el Ejecutivo. Las faltas temporales del Jefe de la Oficina, cuando no excedan de treinta días, serán suplidas por el Presidente Municipal o por quien legalmente ejerza sus funciones. Para las ausencias que duren más de treinta días, deberá nombrarse substituto. Las faltas del Secretario, cuando no excedan de quince días, serán suplidas por dos personas de la localidad que intervenga como testigos de asistencia. Para ausencias de mayor duración deberá nombrarse substituto.
 
-## TITULO SEGUNDO. DE LAS REGLAS COMUNES APLICABLES A LOS MEDIOS DE IMPUGNACION
+###### Art. 9°.
 
-### CAPITULO I. Prevenciones Generales
+Serán obligaciones de los Oficiales del Registro Civil:
 
-###### ARTICULO 6º.
+I.- Residir en un lugar céntrico de la localidad, donde ejerzan sus funciones;
 
-Las disposiciones del presente Título rigen para el trámite, substanciación y resolución de todos los medios de impugnación, con excepción de las reglas particulares señaladas expresamente para cada uno de ellos en esta misma ley.
+II.- Autorizar los actos en que intervengan, asentando inmediatamente las actas correspondientes en el libro respectivo;
 
-###### ARTICULO 7º.
+III.- Hacer que los que intervengan en un acto de su ministerio firmen el acta, a menos de que no quieran hacerlo, en cuyo caso se hará constar esa circunstancia;
 
-En ningún caso, la interposición de los medios de impugnación, producirá efectos suspensivos sobre el acto o resolución impugnado.
+IV.- Expedir las boletas para las inhumaciones con la debida oportunidad;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+V.- Expedir certificados de los actos que autoricen siempre que se los pidan; así como de los documentos que con el carácter de anexos existan en el Archivo del Registro Civil;
 
-###### ARTÍCULO 8°
+VI.- Leer a los interesados con claridad las actas que autoricen, inmediatamente después de haber concluido el acto de que se trata;
 
-El Tribunal Local Electoral, es un órgano jurisdicccional (sic) autónomo en su funcionamiento e independiente en sus decisiones, temporal integrado por tres Magistrados adscritos al Poder Judicial del Estado. En tiempo no electoral será el Pleno del Supremo Tribunal de Justicia del Estado quien conozca y resuelva de los recursos en los términos del Artículo 17 de la Constitución Política del Estado.
+VII.- Dar aviso al Ejecutivo del Estado de las nuevas construcciones o reparaciones que sea necesario hacer en el Cementerio o Cementerios de su jurisdicción, y
 
-El Tribunal local Electoral, tendrá la facultad de declarar la validez de la elección de Gobernador del Estado.
+VIII.- Cerciorarse con la debida oportunidad de que las personas interesadas en los actos en que intervengan o en la obtención de certificados y constancias relativas a actos ya autorizados, hayan cubierto previamente en la Colecturía de Rentas las cuotas correspondientes, en los términos de los artículos 17 y 18 de la presente Ley.
 
-El Tribunal Local Electoral tendrá también participación en el plebiscito y el referéndum con base en las atribuciones establecidas en la ley de la materia.
+###### Art. 10.
 
-### CAPITULO II. De los Plazos y Términos
+Queda prohibido a los Oficiales del Registro Civil:
 
-###### ARTICULO 9º.
+I.- Autorizar actos o asentar actas de oficio;
 
-Durante los procesos electorales, todos los días y horas son hábiles. Los plazos se computarán de momento a momento; si están señalados por días, éstos se considerarán de veinticuatro horas.
+II.- Alterar o desfigurar lo declarado por los interesados;
 
-Fuera del término de un proceso electoral, serán inhábiles todos los sábados y domingos del año, los señalados por la ley federal del trabajo como de descanso obligatorio, el veinticinco de abril y el quince de agosto.
+III.- Autorizar actas o extender certificados sin que se hayan pagado previamente los derechos correspondientes; y
 
-###### ARTICULO 10.
+IV.- Cobrar por la autorización de actas o por la expedición de certificados, cuotas mayores que las autorizadas por la presente Ley.
 
-Los medios de impugnación previstos en esta ley, deberán interponerse dentro de los cuatro días siguientes a aquel en que se tenga conocimiento del acto o resolución impugnado, o se hubiese notificado de conformidad con la ley aplicable, salvo las excepciones previstas en esta ley.
+###### Art. 11.
 
-### CAPITULO III. De las Formalidades
+Serán días hábiles para el despacho de los asuntos del servicio, todos los del año, excepto los domingos, 1º. de enero, 5 de febrero, 1º. y 5 de mayo, 16 de septiembre, 20 de noviembre y 25 de diciembre.- Serán horas diarias para el desempeño de su cometido. 7 horas distribuidas a juicio del Ejecutivo.
 
-###### ARTICULO 11.
+###### Art. 12.
 
-Para la interposición de los medios de impugnación, se deberá cumplir con los requisitos siguientes:
+No obstante lo dispuesto en el artículo anterior, los Oficiales del Registro Civil tendrán la obligación de despachar cualquier día y a cualquier hora los asuntos urgentes. Se considerarán urgentes para los efectos de la Ley, los certificados de defunción, las autorizaciones para la traslación de cadáveres, o las exhumaciones por mandato de Ley. La infracción de esta obligación será sancionada por el Ejecutivo en la forma que lo estime procedente, según la gravedad de la falta.
 
-I. Presentarse por escrito;
+###### Art. 13.
 
-II. Hacer constar el nombre del promovente y cuando no este acreditado ante la autoridad, los documentos necesarios para acreditar su interés jurídico o personalidad. En el caso de coaliciones, la representación legal se acreditará en los términos del convenio respectivo.
+La jurisdicción de las Oficinas del Registro Civil comprenderá toda la Municipalidad, salvo el caso de Municipios donde, por razones especiales, exista más de una Oficina del Registro Civil. Cuando esto ocurra el Ejecutivo del Estado asignará la jurisdicción de cada Oficina.
 
-III. Domicilio para recibir notificaciones y, en su caso, a quien en su nombre las pueda oír y recibir;
+###### Art. 14.
 
-IV Precisar el acto o resolución que se impugna y la autoridad electoral responsable;
+Los Oficiales del Registro Civil estarán obligados a proporcionar a la Dirección General de Estadística, o al Departamento de Estadística del Estado, todos los informes que se le soliciten.
 
-V. Mencionar de manera expresa y clara, los hechos o actos que se impugnan, los agravios que cause el acto o resolución impugnada y los preceptos presuntamente violados;
+###### Art. 15.
 
-VI. Cuando la violación reclamada verse exclusivamente sobre puntos de derecho, no será necesario aportar pruebas. En los demás casos acompañar las pruebas documentales y anunciar las otras que se habrán de aportar dentro de los plazos legales y en su caso la solicitud de las que la autoridad habrá de requerir, cuando la parte oferente justifique, que habiéndolas solicitado por escrito y oportunamente no, le fueron entregadas; y
+Los Oficiales del Registro Civil estarán facultados para imponer al Secretario de la Oficina y a los empleados subalternos, por vía de corrección disciplinaria y con acuerdo del Ejecutivo, suspención de trabajo hasta por diez días sin goce de sueldo.
 
-VII. Hacer constar el nombre y la firma autógrafa del promovente.
+###### Art. 16.
 
-### CAPITULO IV. De la Improcedencia y del Sobreseimiento
+Para conservar el orden o para hacer cumplir sus determinaciones, podrán los Oficiales del Registro Civil pedir auxilio a las Autoridades Policiacas y consignar los hechos a los Jueces correspondientes.
 
-DE LA IMPROCEDENCIA
+###### Art. 17.
 
-###### ARTICULO 12.
+Los derechos que causan los actos del Registro Civil, serán percibidos en la Colecturía de Rentas de cada jurisdicción. A este efecto el Oficial del Registro Civil expedirá "Pase de Pago" a la Colecturía de Rentas correspondiente, que será canjeado por el recibo definitivo. Previa presentación de éste, el Oficial verificará el acto que ampare el entero.
 
-Los medios de impugnación previstos en esta ley serán improcedentes en los siguientes casos:
+En las Congregaciones y demás poblados en donde existan Oficiales del Registro Civil y no haya Colecturía de Rentas, quedan facultados los Oficiales para hacer los cobros correspondientes, pero mensualmente liquidarán a la Colecturía de su jurisdicción lo recaudado, mediante relación pormenorizada del número y fecha de los actos que hayan dado origen al cobro.
 
-I.- Cuando resulte evidentemente frívolo o cuya notoria improcedencia se derive de las disposiciones del presente ordenamiento, se desechará de plano, o cuando no existan hechos y agravios expuestos, o que habiéndose señalado sólo hechos, de ellos no se pueda deducir agravio alguno;
+###### Art. 18.
 
-II.- Cuando se pretendan impugnar actos o resoluciones: que no afecten el interés jurídico del actor o promovente, que se hayan consumado de un modo irreparable; que se hubieren consentido expresamente, entendiéndose por éstos, las manifestaciones de voluntad que entrañen ese consentimiento; o aquellos contra los cuales no se hubiere interpuesto el medio de impugnación respectivo, dentro de los plazos señalados en esta ley;
+Los derechos que se causen por los actos que se practiquen en los términos de esta Ley y por las certificaciones relacionadas con los mismos actos, se sujetarán a las siguientes:
 
-III.- Que no se hayan agotado las instancias previas establecidas por la ley para combatir los actos o resoluciones electorales y en virtud de las cuales se pudieran haber modificado, revocado o anulado;
+T A R I F A S:
 
-IV.- Cuando en un mismo escrito se pretenda impugnar más de una elección, excepto en lo establecido en la ley;
+I.- NACIMIENTOS
 
-V.- Que el promovente carezca de legitimación en los términos de la presente ley;
+1.- Por registrar acta de nacimiento ....................................................................... $ 1.00
 
-VI.- Cuando se pretenda impugnar la no conformidad de las leyes locales; y
+2.- Por registrar acta de nacimiento de gemelos, triates o más .......................... " 2.00
 
-VII.- Cuando se omita el nombre o firma autógrafa del promovente.
+3.- Por registrar informaciones testimoniales de nacimiento, a razón de $ 1.00 (un peso), por cada hoja.
 
-DEL SOBRESEIMIENTO
+II.- M A T R I M O N I O S
 
-###### ARTICULO 13.
+1.- Acto de presentación ......................................................................................... $ 2.00
 
-Los procedimientos iniciados por la interposición de los medios de impugnación se sobreseerán en los siguientes casos:
+2.- Acto de matrimonio en la Oficina del Registro Civil, en horas ordinarias ...." 10.00
 
-I.- El promovente se desista expresamente por escrito;
+3.- Acto de matrimonio en la Oficina del Registro Civil en horas
 
-II.- La autoridad responsable del acto o resolución impugnada lo modifique o revoque, y quede totalmente sin materia el medio de impugnación respectivo, antes de que se dicte resolución o sentencia;
+extraordinarias.........................................................................................................." 15.00
 
-III.- El ciudadano agraviado fallezca o sea suspendido o privado de sus derechos político- electorales;
+4.- Acto de matrimonio fuera de la Oficina del Registro Civil, en horas ordinarias...................................................................................................................." 50.00
 
-IV.- Habiendo sido admitido el medio de impugnación correspondiente, aparezca o sobrevenga alguna causal de improcedencia en los términos de la presente ley.
+5.- En horas extraordinarias....................................................................................." 60.00
 
-Cuando se actualice alguno de los supuestos a que se refiere el párrafo anterior, cualquier interesado podrá proponer el sobreseimiento.
+6.- Todos aquellos actos que se verifiquen fuera de la localidad de la residencia del Oficial, causarán además un recargo de: $ 0.50 (cincuenta centavos) por cada kilómetro de ida y vuelta.
 
-### CAPITULO V. De las Partes
+7.- Por registrar informaciones testimoniales de matrimonio, a razón de: $ 1.00
 
-###### ARTICULO 14.
+(un peso) por hoja.
 
-Son partes en el procedimiento de los medios de impugnación las siguientes:
+III.
 
-I.- El actor o promovente por sí mismo o, en su caso, a través de su representante legítimo.
+D I V O R C I O S
 
-II.- La autoridad responsable, que haya realizado el acto o emitido la resolución que se impugna; y
+1.- Por registrar actas de divorcios relativos a matrimonios celebrados
 
-III. El tercero interesado: Que es el ciudadano, candidato, partido político, la coalición, según corresponda, con un interés legítimo en la causa derivado de un derecho incompatible con el que pretende el actor o promovente.
+dentro del territorio del Estado...................................................................... $10.00
 
-### CAPITULO VI. De la Legitimación y de la Personería
+2.- Por registrar actas de divorcio relativos a matrimonios celebrados
 
-###### ARTICULO 15.
+fuera del territorio del Estado........................................................................ " 30.00
 
-La presentación de los medios de impugnación corresponde a:
+IV.
 
-I.- Los partidos políticos a través de sus representantes legítimos, entendiéndose por éstos:
+D E F U N C I O N E S
 
-a) Los registrados formalmente ante el órgano electoral responsable cuando este haya dictado el acto o resolución impugnado. En este caso, sólo podrán actuar ante el órgano en el cual estén acreditados; y
+El registro de actas de defunción no causará derechos.
 
-b) Los que tengan facultades de representación conforme a sus estatutos o mediante poder otorgado en escritura pública por los funcionarios del partido facultados para ello;
+V.
 
-II.- Los ciudadanos, personas físicas o morales y los candidatos por su propio derecho, sin que sea admisible representación alguna. Los candidatos deberán acompañar el original o copia del certificado del documento en que conste su registro.
+R E G U L A R I Z A C I O N E S
 
-III.- En el caso de coaliciones, la representación legal se acreditará en los términos del convenio respectivo.
+El registro de actos celebrados en el extranjero o en alta mar, ya sean nacimientos, matrimonios o defunciones, causarán las cuotas correspondientes al acto.
 
-### CAPITULO VII. De las Pruebas
+> <small>(DEROGADA POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954)</small>
 
-###### ARTICULO 16.
+VI.
 
-Para la resolución de los medios de impugnación previstos en esta ley, sólo podrán ser ofrecidas y admitidas las pruebas siguientes:
+I N H U M A C I O N E S Y E X H U M A C I O N E S
 
-I.- Documentales Públicas;
+VII.
 
-II.- Documentales Privadas;
+CERTIFICACIONFS (sic)
 
-III.- Técnicas;
+1.- Certificaciones de constancias que obren en los libros del Registro Civil, siempre que consten de una sola hoja de papel especial (forma No. 86) y que se soliciten dentro de los treinta días siguientes a partir de la fecha en que se haya autorizado el acto de que se trate, por cada una......................................................................................... $ 1.00
 
-IV.- La Pericial e Inspección Judicial;
+2.- Certificados que se soliciten después de un mes de autorizado el acto de que se trate y dentro de un año, por cada uno........................................................" 2.00
 
-V.- Las Presuncionales en sus dos aspectos : Legal y Humana;
+3.- Certificados que se soliciten después de un año de autorizado el acto de que se trate, por cada uno ..................................................................................." 3.00
 
-VI.- La Instrumental de Actuaciones.
+4.- Certificados que se soliciten sin dar la fecha exacta en que se autorizó el acto de que se trate, teniendo derecho el interesado a que se haga la búsqueda en los libros de un quinquenio, por cada uno.................................................................................... " 5.00
 
-DE LAS DOCUMENTALES PUBLICAS
+5.- No causarán más derechos que los del papel especial para certificaciones (Forma No. 86), los certificados que se expidan para acreditar su estado civil a viudas pensionistas de empleados de la Federación o del Estado, con sueldo menor de $150.00 mensuales.
 
-###### ARTICULO 17.
+6.-. Cuando el certificado comprenda más de una hoja de papel especial para certificaciones (Forma No. 86), se cobrará además de lo que marca la Tarifa $1.00 (un peso) por cada hoja.
 
-Para los efectos de esta ley, serán documentales públicas las siguientes:
+7.- Toda certificación de actos del Registro Civil deberá hacerse precisamente en papel especial para certificaciones (Forma No. 86), a razón de $0.50 (cincuenta centavos) por cada hoja. Los derechos de expedición conforme a Tarifa no incluyen el valor del papel que se necesite para cada Certificado.
 
-I. Las actas oficiales originales de las mesas directivas de casilla, así como las de los diferentes cómputos que consignen resultados electorales y que deben constar en los expedientes de cada elección; así como los paquetes electorales, expedientes de casilla, las actas circunstanciadas de las sesiones de cómputo de los consejos distritales, municipales y estatales; la de los cómputos de circunscripción plurinominal y en general, todos los documentos o actas expedidos en el ejercicio de sus funciones por los órganos del Instituto Estatal Electoral.
+8.- Se exceptúan del requisito señalado en el Inciso anterior, los certificados que soliciten las autoridades Judiciales Federales o del Estado, por conducto del C. Gobernador, los cuales aparte de no causar los derechos correspondientes, serán extendidos en papel timbrado de la Oficina del Registro Civil respectiva.
 
-II. Los demás documentos originales expedidos por los órganos o funcionarios electorales, dentro del ámbito de su competencia;
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 1953)</small>
 
-III.- Los documentos expedidos, dentro del ámbito de sus facultades, por las autoridades federales, estatales o municipales: y
+VIII.
 
-IV.- Los documentos expedidos por quienes estén investidos de la fe pública de acuerdo con la ley, siempre y cuando en ellos consignen hechos que les consten.
+LEGALIZACION DE FIRMAS
 
-DE LAS DOCUMENTALES PRIVADAS
+1.- Por ratificación de firmas en documentos privados, presentados ante los Oficiales del Registro Civil, en los términos que autoriza el artículo 2166, reformado, del Código Civil vigente en el Estado por cada documento presentado en horas ordinarias.......................$ 5.00
 
-###### ARTICULO 18.
+2.- Por ratificación de firmas en documentos privados presentados ante los Oficiales del Registro Civil en los términos que autoriza el artículo 2166 del Código Civil reformado, por cada documento presentado en horas extraordinarias .............................................$ 10.00
 
-Para los efectos de esta ley:
+###### Art. 19.
 
-I.- Serán documentales privadas todas las demás actas o documentos que aporten las partes, siempre que resulten pertinentes y se relacionen con sus pretensiones .
+Los Colectores de Rentas del Estado, con sujeción a las instrucciones periódicas que reciban del Ejecutivo, podrán, en los casos de pobreza notoria, condonar los derechos correspondientes al registro de nacimiento. En todos los demás actos ninguna autoridad podrá condonar el pago de los derechos que los interesados deberán cubrir precisamente como retribución del servicio prestado.
 
-II.- Se considerarán pruebas técnicas las fotografías, otros medios de reproducción de imágenes y, en general, todos aquellos elementos aportados por los descubrimientos de las ciencia que puedan ser desahogados sin necesidad de peritos, cuando el órgano competente para resolver no tenga al alcance los instrumentos especiales o accesorios y los aparatos o maquinaria para el desahogo de la prueba. El oferente de la prueba, estará obligado a proporcionarlos en términos de ley; en caso de no hacerlo se tendrá por desierta la prueba. En estos casos el oferente deberá señalar concretamente lo que pretende acreditar, identificando a las personas, lugares y circunstancias del modo y tiempo que reproduzcan la prueba .
+###### Art. 20.
 
-III.- La Pericial y la Inspección Judicial sólo podrán ser ofrecidas en aquellos medios de impugnación que conozca el Tribunal Local Electoral, siempre y cuando su desahogo sea posible en los plazos legalmente establecidos. Para su ofrecimiento deberán cumplirse los siguientes requisitos:
+Las certificaciones de las actas inscritas en el Registro Civil se autorizarán, con las firmas del Oficial y el Secretario y con el sello de la Oficina y causarán los derechos que fijen las Tarifas correspondientes.
 
-Ser ofrecida junto con el escrito de impugnación;
+###### Art. 21.
 
-Señalar la materia sobre la que versará la prueba, exhibiendo el cuestionario respectivo con copia para cada una de las partes;
+En las Congregaciones donde ya venga funcionando Oficina del Registro Civil o donde con posterioridad se establezca, substituirán a los Oficiales del Registro Civil, en sus ausencias, los Delegados Municipales.
 
-Especificar lo que se pretenda acreditar con la misma; y
+### CAPITULO II.. DE LOS LIBROS DEL REGISTRO
 
-Señalar además en la prueba pericial, el nombre del perito que se proponga, exhibiendo su acreditación técnica y acompañar el dictamen pericial correspondiente. En caso de haber discordancia en los dictámenes que exhiban las partes, a juicio de la autoridad competente se nombrará un perito tercero en discordia.
+###### Art. 22.
 
-La Presuncional, en sus dos aspectos legal y humano y la Instrumental de Actuaciones, se desahogarán por su propia naturaleza con base en razonamientos lógico-jurídicos.
+Para inscripción de las actas del Registro Civil cada Oficina deberá llevar, por duplicado un juego de tres libros: uno destinado a nacimientos, posesión de estado de hijo o progenitura; otro de inscripciones sobre matrimonio, disolución de matrimonio y divorcios; y otro destinado a inscripciones sobre fallecimiento y declaraciones de ausencia.
 
-###### ARTICULO 19.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 1954)</small>
 
-Reglas Especiales de la prueba:
+###### Art. 23.
 
-Podrán ser ofrecidas y admitidas las declaraciones que consten en el acta levantada por el fedatario público que haya recibido el testimonio directamente de los declarantes, y siempre que éstos últimos queden debidamente identificados y asienten la razón de su dicho. Su valoración quedará al arbitrio del órgano cuando puedan concatenarse o apoyarse con otras pruebas.
+Todos los libros del Registro Civil serán proporcionados por la Dirección de Economía y Registro Civil del Gobierno del Estado, y serán autorizados firmándose y sellándose en su primera y última hoja, por el C. Gobernador del Estado o por el C. Secretario General de Gobierno; se renovarán cada año y el original quedará en el archivo de la oficina respectiva, con los documentos que con el carácter de anexos existen en la misma, remitiéndose, precisamente el primer mes del año siguiente, a la citada Dirección, los libros duplicados.
 
-###### ARTICULO 20.
+###### Art. 24.
 
-Son objeto de prueba los hechos controvertibles. No lo será el derecho, los hechos notorios o imposibles, ni aquellos que hayan sido reconocidos.
+Cuando al terminar el año haya fojas en blanco se inutilizarán con rayas transversales, especificando en la última el número de actas levantadas y el de fojas inutilizadas. Se formará para cada libro, un índice alfabético con el apellido de las personas a quienes se refiera el acta.
 
-Cuando la controversia verse exclusivamente sobre puntos de derecho, no será necesario ofrecer pruebas.
+###### Art. 25.
 
-El que afirma está obligado a probar. También lo está el que niega, cuando su negación envuelve la afirmación expresa de un hecho.
+El Oficial del Registro Civil que no cumpla con la prevención de remitir oportunamente al Departamento de Estadística los libros Duplicados, será destituído de su cargo y multado, a razón de: $0.50 por cada acta que fuera dejada de pasar en los libros duplicados. Cuando el Oficial del Registro Civil se resista a cubrir la multa, compurgará arresto a razón de un día por cada peso o fracción de peso que le corresponda pagar.
 
-###### ARTICULO 21.
+###### Art. 26.
 
-Valoración de las pruebas:
+En las actas del Registro Civil se hará constar el año, mes, día y hora en que se presenten los interesados; se tomará razón especificada en los documentos que expidan y hasta donde sea posible, de los nombres, estado civil, edad, profesión y domicilio de todos los que en ella sean nombrados.
 
-Los medios de prueba serán valorados por el órgano electoral competente para resolver, atendiendo a las reglas de la lógica y de la equidad, tomando en cuenta las disposiciones especiales señaladas en este capítulo.
+###### Art. 27.
 
-Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario, respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
+Extendida en el libro el acta, será leída a los interesados y testigos. La firmarán todos y si alguno no pudiere hacerlo, se expresará la causa. Si alguno de los interesados quisiera imponerse por sí mismo del tenor del acta, podrá hacerlo, y si no supiere leer, uno de los testigos designados por él, la leerá y la firmará si el interesado no supiere hacerlo.
 
-Las documentales privadas, las técnicas, las presuncionales, la instrumental de actuaciones, la testimonial, las inspecciones judiciales y las periciales, sólo harán prueba plena cuando a juicio del órgano electoral competente para resolver, guarden relación con los demás elementos que obren en el expediente; las afirmaciones y reconocimiento de las partes, la verdad conocida y el recto raciocinio, que también guarden relación entre sí y generen convicción sobre la veracidad de los hechos afirmados.
+###### Art. 28.
 
-En ningún caso, se tomarán en cuenta para resolver, las pruebas ofrecidas o aportadas fuera de los plazos legales. La única excepción a esta regla será la de pruebas supervenientes, entendiéndose por tales los medios de convicción surgidos después del plazo legal en que deban aportarse los elementos probatorios, y aquellos existentes desde entonces, pero que el promovente, el compareciente o la autoridad electoral no pudieron ofrecer o aportar por desconocerlos o por existir obstáculos que no estaban a su alcance superar, siempre y cuando se aporten antes del cierre de la instrucción.
+Cuando el acto comenzado se interrumpa porque las partes se nieguen a continuarlo o por cualquier otro motivo, se inutilizará el acta marcándola con líneas transversales y expresando el motivo de la suspensión con una declaración que deberán firmar la autoridad, los interesados y los testigos. La circunstancia de que no se lleve a cabo el acto no implicará la devolución de los derechos que previamente se hayan enterado en la Colecturía de Rentas, o en la propia Oficina, según el caso.
 
-### CAPITULO VIII. Del Trámite
+###### Art. 29.
 
-###### ARTICULO 22.
+No podrá borrarse ninguna palabra o frase escrita en las actas relativas. Cuando haya necesidad de enmendar errores, se testará lo escrito con una línea que no impida su lectura, salvándose al final lo que se haya testado o entrerrenglonado. Las cantidades y fechas se escribirán con número y letra.
 
-La autoridad que reciba un medio de impugnación, en contra de un acto emitido o resolución dictada por ella, bajo su más estricta responsabilidad y de inmediato, deberá:
+###### Art. 30.
 
-I. Dar aviso de su presentación al órgano competente del Instituto Estatal Electoral, o al Tribunal Local Electoral precisando: actor, acto o resolución impugnada, fecha y hora exacta de su recepción; y
+Cualquier alteración de las actas por parte de los jefes, secretarios o personal subalterno de las Oficinas del Registro, además de las responsabilidades legales correspondientes, será sancionada por el Ejecutivo con el cese del infractor.
 
-II. Hacerlo del conocimiento público, mediante cédula que durante un plazo de setenta y dos horas se fije en los estrados respectivos.
+###### Art. 31.
 
-Cuando el órgano electoral competente, reciba algún medio de impugnación por el cual se pretenda combatir un acto o resolución que no le es propio, lo remitirá de inmediato, sin trámite adicional alguno, al Instituto Estatal Electoral o al Tribunal Local Electoral para su tramitación.
+Los actos relativos al mismo Oficial del Registro, a su consorte o a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo, pero se asentarán en el libro que corresponda y se autorizarán por el Presidente Municipal o por su substituto legal.
 
-El incumplimiento de las obligaciones a que se refieren los párrafos anteriores, será sancionado en los términos previstos en el presente ordenamiento y en las leyes aplicables.
+###### Art. 32.
 
-###### ARTICULO 23.
+Los libros del Registro Civil estarán bajo la inspección y vigilancia de la Tesorería General del Estado, de las Colecturías de Rentas y del Departamento de Estadística.
 
-Dentro de las setenta y dos horas siguientes a la fijación de la cédula a que se refiere el artículo anterior, los terceros interesados podrán comparecer mediante los escritos que consideren pertinentes, mismos que deberán cumplir los requisitos siguientes:
+###### Art. 33.
 
-I.- Presentarse ante la autoridad responsable del acto o resolución impugnado;
+A más tardar para el día 15 de diciembre de cada año el Departamento de Estadística enviará los libros de que habla el artículo 22 a las Oficinas del Registro Civil. Sólo en el caso de que por incomunicación a causa de inundaciones, terremotos, guerra y otras causas graves, no hubieren recibido los Oficiales dichos libros, podrán comprarlos por sí mismo, pero serán repuestos por los oficiales tan pronto como éstos se reciban.
 
-II.- Hacer constar el nombre del tercero interesado;
+###### Art. 34.
 
-lII.- Señalar domicilio para oír y recibir notificaciones;
+Los libros de ejercicios anuales vencidos, se conservarán en el Archivo General de Gobierno, quedando facultado el Oficial Mayor del Gobierno para expedir las certificaciones de actas contenidas en dichos libros, previo el cumplimiento de las obligaciones fiscales respectivas.
 
-IV.- Acompañar el o los documentos que sean necesarios para acreditar la personalidad del compareciente, de conformidad con lo previsto por el Artículo 15 de esta ley;
+### CAPITULO III. DE LAS ACTAS DE NACIMIENTO
 
-V.- Precisar la razón del interés jurídico en que se funde su derecho y las pretensiones concretas del compareciente;
+###### Art. 35.
 
-VI.- Ofrecer y aportar las pruebas dentro de los plazos establecidos, solicitando las que deban de requerirse, cuando el promovente justifique que oportunamente las solicitó por escrito a la autoridad competente y no le hubieren sido entregadas; y
+Las declaraciones de nacimiento se harán dentro de los treinta días siguientes al alumbramiento. El niño deberá ser presentado al Oficial del Registro Civil. En los lugares donde no haya Registro Civil, el niño será presentado al funcionario que se expresa en el artículo 2o. de este Reglamento, recogiendo el interesado la constancia respectiva que llevará a la Oficina del Registro Civil de su jurisdicción, para que asiente el acta en forma.
 
-VII.- Hacer constar el nombre y firma autógrafa del compareciente.
+###### Art. 36.
 
-###### ARTICULO 24.
+Queda terminantemente prohibido que el Oficial del Registro Civil o los testigos que asistan al acto, inquieran directa o indirectamente sobre la paternidad. En el acta sólo se expresará lo que declaren las personas que presenten al niño, aunque aparezca su dicho sospechoso de falsedad, sin perjuicio de las acciones civiles o penales que nazcan de ella.
 
-Dentro de las veinticuatro horas siguientes al vencimiento del plazo, la autoridad responsable del acto o resolución impugnada deberá remitir al órgano competente, al Instituto Estatal Electoral, o al Tribunal Local Electoral , lo siguiente:
+###### Art. 37.
 
-I.- El escrito original mediante el cual se presenta el medio de impugnación, las pruebas y la documentación que se haya acompañado al mismo;
+No obstante la disposición anterior, para el Registro de nacimiento, el Oficial observará las siguientes Reglas:
 
-II.- La copia del documento en que conste el acto o resolución impugnada y la documentación relacionada y pertinente que obre en su poder;
+a).- Cuando se trate del registro del nacimiento de un hijo habido en matrimonio registrado, bastará con que los padres presenten el acta respectiva; y
 
-III.- En su caso, los escritos de los terceros interesados o coadyuvantes, las pruebas y la documentación que se haya acompañado a los mismos;
+b).- En cualquiera otro caso únicamente se asentará el nombre de la madre, del padre, o de ambos, si se presentan al acto de registro o si el ausente expresa por escrito su conformidad.
 
-IV.- En los recursos de inconformidad, el expediente completo con todas las actas y las hojas de incidentes levantadas por la autoridad electoral, así como los escritos de incidentes y de protesta que se hubieren presentado, en los términos de la ley sustantiva y del presente ordenamiento;
+###### Art. 38.
 
-V.- El informe circunstanciado; y
+Atendiendo a que no siempre puede sacarse a los niños a los treinta días de nacidos, ya sea por razón del clima o por otra causa, sin exponerlos a enfermedades, el Oficial podrá dispensar la presentación del recién nacido con tal de que el interesado no aparezca sospechoso, probando con dos testigos idóneos, la realidad del nacimiento, pudiendo el Oficial, cuando lo crea necesario, solicitar la comparecencia del niño registrado, o pasar al domicilio del interesado a cerciorarse, por sí mismo, de la existencia del recién nacido.
 
-VI.- Cualquier otro documento que estime necesario para la resolución del asunto.
+###### Art. 39.
 
-El informe circunstanciado que debe rendir la autoridad responsable, por lo menos deberá contener:
+Cuando el Oficial del Registro Civil salga de la Oficina a extender el acta de nacimiento de un niño que por enfermedad grave no pueda ser llevado a ella, no cobrará aumento alguno sobre los derechos comunes.
 
-a).En su caso, la mención de si el promovente o el compareciente, tienen reconocida su personería;
+### CAPITULO IV. DE LAS ACTAS DE MATRIMONIO
 
-b).Los motivos y fundamentos jurídicos que considere pertinentes para justificar la constitucionalidad o legalidad del acto o resolución impugnada; y
+###### Art. 40.
 
-c). Nombre y firma autógrafa del funcionario que lo rinde.
+Las personas que pretendan contraer matrimonio se presentarán al Oficial del Registro Civil, debiendo cumplir con las estipulaciones contenidas en el Capítulo III, Título I, Libro 7o. del Código Civil vigente.
 
-### CAPITULO IX. De la Substanciación
+###### Art. 41.
 
-###### ARTICULO 25.
+La dispensa de publicaciones o de edad, sólo podrá concederla el Ejecutivo del Estado. Tratándose de descendientes o hermanos del Gobernador del Estado, la dispensa se concederá por el Presidente del Supremo Tribunal de Justicia.
 
-Recibida la documentación a que se refiere el artículo anterior, el órgano electoral realizará los actos y ordenará las diligencias que sean necesarias para la substanciación de los expedientes, de acuerdo con lo siguiente:
+###### Art. 42.
 
-I. Se revisará que el escrito del medio de impugnación reúna todos los requisitos señalados en el Artículo 11 de esta ley;
+El matrimonio se celebrará en acto público y en el día, hora y lugar señalados al efecto; compareciendo ante el Oficial de Registro Civil los contrayentes, personalmente o por apoderado legalmente constituído, con poder ante Notario, en la Oficina o casa determinada, y además estarán acompañados de sus padres o tutores cuando fuere necesario el consentimiento de ellos, y de tres testigos por lo menos, que podrán ser parientes o extraños. Cuando el que conforme a la Ley debe dar su consentimiento no esté presente, podrá dar su conformidad por correo y aún por telégrafo en casos urgentes.
 
-II. Cuando el promovente incumpla los requisitos para la tramitación, o que éstos no se pueden deducir de los elementos que obran en el expediente, se podrá formular requerimiento con el apercibimiento de tener por no presentado el medio de impugnación, si no se cumple con el mismo dentro de un plazo de veinticuatro horas, contadas a partir del momento en que se le notifique el auto correspondiente.
+###### Art. 43.
 
-Será desechado de plano el medio de impugnación, cuando se dé alguno de los supuestos previstos en ésta ley, o bien se acredite cualquiera de las causales de notoria improcedencia enunciados en la ley;
+El Oficial recibirá la formal declaración que hagan los contrayentes de ser su voluntad unirse en matrimonio, y antes de manifestar a los contrayentes que han quedado legítimamente unidos ante la sociedad y las leyes de la Nación, leerá en voz alta y clara lo siguiente:
 
-III. Igual procedimiento se seguirá con los escritos de los terceros interesados; y
+"El matrimonio es la unión y convivencia de un solo hombre con una sola mujer. Para su validez bastará que los contrayentes expresen libremente la voluntad que tienen de unirse.
 
-(sic).- En cuanto al informe circunstanciado, si la autoridad no lo envía dentro del término de veinticuatro horas, el medio de impugnación se resolverá con los elementos que obren en autos y se tendrán como presuntivamente ciertos los hechos constitutivos de la violación reclamada, salvo prueba en contrario; lo anterior, sin perjuicio de la sanción que deba ser impuesta a las autoridades infractoras, de conformidad con el presente ordenamiento y leyes aplicables;
+Los que contraigan matrimonio gozarán de todos los derechos y prerrogativas que las leyes civiles les conceden a los casados.
 
-V.- Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, se dictará el auto de admisión que corresponda.
+El matrimonio civil no podrá celebrarse mas que por un sólo hombre con una sola mujer. La bigamia y la poligamia son reprobadas por la sociedad.
 
-Una vez substanciado el expediente y previa admisión y desahogo de las pruebas, dentro de los plazos establecidos, se declarará cerrada la instrucción, pasando el asunto a sentencia. En éstos casos se ordenará fijar copia de los autos respectivos en los estrados; y no procederá el medio de impugnación que corresponda al tercero interesado cuando se presente en forma extemporánea por las causales enunciadas en esta ley;
+El matrimonio podrá disolverse por mutuo consentimiento y por divorcio declarado en la forma que previene la ley.
 
-VI.- Cerrada la instrucción, se procederá a formular el proyecto de sentencia de sobreseimiento o de fondo, según sea el caso y se señalará fecha para dictar la resolución.
+El matrimonio es el único medio moral de fundar la familia, de conservar la especie y de suplir las imperfecciones del individuo que no puede bastarse a sí mismo para llegar a la perfección del género humano. Que éste no existe en la persona, sino en la dualidad conyugal. Que los casados deben ser y serán sagrados el uno para el otro, aún más de lo que es cada uno para sí. Que el hombre, cuyas dotes sexuales son principalmente el valor y la fuerza, debe dar y dará a la mujer protección, alimento y dirección, tratándola siempre como la parte más delicada, sensible y fina de sí mismo, y con la magnanimidad y benevolencia generosa que el fuerte debe al débil, esencialmente cuando éste débil se entrega a él, y cuando por la sociedad se le ha confiado. Que la mujer, cuyas principales dotes son la abnegación, la belleza, la compasión, la perspicacia y la ternura, debe dar y dará al marido obediencia, agrado, asistencia, consuelo y consejo, tratándolo siempre con la veneración que se debe a la persona que nos apoya y defiende, y con la delicadeza de quien no quiere exasperar la parte brusca, irritable y dura de sí mismo. Que el uno y el otro se deben y tendrán respeto, deferencia, fidelidad, constancia y ternura, y ambos procurarán que lo que el uno se esperaba del otro al unirse con él, no vaya a desmentirse con la unión. Que ambos deben prudenciar y atenuar sus faltas. Que nunca se dirán injurias, porque las injurias entre los casados, deshonran al que las vierte y prueban su falta de tino o de cordura en la elección, ni mucho menos se maltratarán de obra, por que es villano y cobarde abusar de la fuerza. Que ambos deben prepararse con el estudio y amistosa y mutua corrección de sus defectos, a la suprema magistratura de padres de familia, para que cuando lleguen a serlo, sus hijos encuentren en ellos buen ejemplo y una conducta digna de servirles de modelo. Que la doctrina que inspiren a estos tiernos y amados lazos de su afecto, hará su suerte próspera o adversa; y la felicidad o desventura de los hijos, será la recompensa o el castigo, la aventura o la desdicha de los padres. Que la sociedad bendice, considera y alaba a los buenos padres, por el gran bien que le hacen dándole buenos y cumplidos ciudadanos; y la misma, censura y desprecia debidamente a los que por abandono, por mal entendido cariño o por su mal ejemplo, corrompen el depósito sagrado que la Naturaleza les confió concediéndoles tales hijos. Y por último, que cuando la sociedad ve que tales personas no merecían ser elevadas a la dignidad de padres, si no que sólo debían haber vivido sujetas a tutela, como incapaces de conducirse dignamente, se duele de haber consagrado con su autoridad, la unión de un hombre y de una mujer que no han sabido ser libres ni dirigirse por sí mismos hacia el bien".
 
-La no aportación de las pruebas ofrecidas, en ningún caso será motivo para desechar el medio de impugnación o para tener por no presentado el escrito del tercero interesado. En todo caso, el órgano electoral resolverá con los elementos que obren en autos.
+###### Art. 44.
 
-###### ARTICULO 26.
+Inmediatamente después de concluido el acto que se expresa en el artículo anterior, se firmará el acta respectiva por los contrayentes, los padres si estuvieren presentes y quisieren y supieren o deban hacerlo por las prescripciones de esta ley, y además por los testigos y personas que voluntariamente desearen firmar, estando presentes.
 
-Si la autoridad responsable incumple con la obligación de dar aviso al superior jerárquico u omite enviar cualquiera de los documentos a que se refiere el Artículo 21 de esta ley, se requerirá de inmediato su cumplimiento o remisión fijando un plazo de veinticuatro horas para tal efecto, bajo apercibimiento que de no cumplir o no enviar oportunamente los documentos respectivos se aplicarán las medidas de apremio previstas en la ley.
+###### Art. 45.
 
-###### ARTICULO 27.
+Para los actos de matrimonio será necesario presentar por duplicado, al Oficial del Registro Civil, una solicitud. Las Oficinas del Registro Civil tendrán por cuenta del Estado esqueletos de estas solicitudes, que proporcionarán a los interesados sin costo alguno.
 
-El Presidente del Instituto Estatal Electoral, o el Presidente del Tribunal Local Electoral, en los asuntos de su competencia, podrán solicitar a las autoridades federales o requerir a las autoridades estatales y municipales, así como a los partidos políticos y candidatos, cualquier elemento o documentación que obrando en su poder, pueda servir para la substanciación y resolución de los medios de impugnación. Asimismo, en casos extraordinarios podrán ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre que ello no signifique una dilación que haga jurídica o materialmente irreparable la violación reclamada, o sea un obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables
+### CAPITULO V. DE LAS ACTAS DE DEFUNCIONES
 
-### CAPITULO X. De las Resoluciones y de las Sentencias
+###### Art. 46.
 
-###### ARTICULO 28.
+Las actas de fallecimiento se inscribirán en el libro respectivo, asentándose los datos del certificado de defunción o los que el Oficial del Registro Civil adquiera, según el tenor de la declaración o declaraciones que se le hagan, y las cuales deberán ser firmadas por dos testigos, cuando en el lugar no haya facultativo titulado que certifique la defunción.
 
-Los acuerdos, resoluciones o sentencias que pronuncien, el Consejo General del Instituto , los Consejos Distritales, los Consejos Municipales o el Tribunal Local Electoral, deberán hacerse constar por escrito y contendrán:
+###### Art. 47.
 
-I. La fecha, el lugar y el órgano electoral que la dicta;
+Cuando los fallecimientos ocurran en lugares donde no haya Oficial de Registro Civil, los Delegados Municipales o Sub-Delegados, tomarán conocimiento del fallecimiento y enviarán aviso al Oficial del Registro Civil de la Jurisdicción.
 
-II. El resumen de los hechos o puntos de derecho controvertidos;
+###### Art. 48.
 
-III. En su caso, el análisis de los agravios, así como el examen y valoración de las pruebas que resulten pertinentes;
+Los dueños o habitantes de la casa donde ocurra un fallecimiento, los Directores o administradores de los sanatorios, hospitales, colegios, hoteles, casas de huéspedes, mesones o casas de vecindad, tendrán obligación de dar el aviso del caso al Oficial del Registro Civil de la Municipalidad.
 
-IV. Los fundamentos jurídicos y razonamientos lógico-jurídicos que sirvan de base para la resolución o sentencia.
+###### Art. 49.
 
-V.- Los puntos resolutivos; y
+Ninguna inhumación se hará sin autorización escrita, dada por el Oficial del Registro Civil, quien se asegurará del fallecimiento, ya sea con la certificación de un facultativo titulado, ya con mandamiento escrito de la autoridad judicial o del Presidente Municipal.
 
-VI. En su caso, el plazo para su cumplimiento.
+###### Art. 50.
 
-###### ARTICULO 29.
+En los casos de inundación, incendio y cualquiera otro en que no sea fácil verificar la identidad de un cadáver, se formará una acta con la declaración de los que lo hayan recogido, expresándose, en cuanto sea posible, las señas particulares del muerto, así como la descripción de los vestidos y objetos que porte.
 
-Al resolver los medios de impugnación establecidos en esta ley , si se omite señalar los preceptos jurídicos presuntamente violados o se citan de manera equivocada, el Instituto Estatal Electoral o el Tribunal Local Electoral resolverán tomando en consideración los que debieron ser invocados o los que resulten aplicables al caso concreto.
+###### Art. 51.
 
-###### ARTICULO 30.
+Cuando a consecuencia de un delito o de un accidente se encuentre en el campo un cadáver cuyo estado de descomposición haga imposible trasladarlo a un cementerio, si no es con perjuicio de la salud pública, podrá la autoridad judicial que inicie el procedimiento, acordar la inhumación en el lugar que le parezca más apropiado, dada la urgencia del caso, levantándose acta en forma, de la que remitirá copia literal al Oficial del Registro Civil para que la asiente en el libro respectivo.
 
-En el Procedimiento ante el Tribunal Local Electoral se observará lo siguiente:
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954)</small>
 
-El Presidente ordenará que se publique en los estrados respectivos, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión.
+### CAPITULO VI.. DE LOS CEMENTERIOS, DE LAS INHUMACIONES Y DE LAS EXHUMACIONES
 
-El Tribunal Local Electoral dictará sus sentencias en sesión pública, de conformidad con lo que establezcan la Ley Orgánica del Poder Judicial del Estado, así como las reglas y el procedimiento siguiente:
+###### Art. 52.
 
-I. Abierta la sesión pública por el Presidente y verificado el quórum legal, se procederá a exponer y discutir cada uno de los asuntos listados con las consideraciones y preceptos jurídicos en que se funden, así como el sentido de los puntos resolutivos que se proponen, y cuando el pleno los considere suficientemente discutidos, los someterá a votación. Las sentencias se aprobarán por unanimidad o por mayoría de votos.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-II. Si el proyecto que se presenta es votado en contra, por la mayoría del Tribunal Local Electoral, a propuesta del Presidente se designará a otro magistrado electoral, para que, dentro de un plazo de veinticuatro horas contadas a partir de que concluya la sesión respectiva, engrose el fallo con las consideraciones y razonamientos jurídicos correspondientes;
+###### Art. 53.
 
-III. En las sesiones públicas sólo podrán participar y hacer uso de la palabra los magistrados electorales, ya sea directamente o a través de su secretario el cual levantará el acta circunstaciada correspondiente.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-###### ARTICULO 31.
+###### Art. 54.
 
-Las sentencias que dicte el Tribunal Local Electoral podrán confirmar, modificar o revocar los actos o resoluciones impugnados y serán definitivas.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-### CAPITULO XI. De las Notificaciones
+###### Art. 55.
 
-###### ARTICULO 32.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-Notificación es el acto procesal por el que las autoridades electorales, hacen saber a los interesados la determinación de un acto o su resolución.
+###### Art. 56.
 
-###### ARTICULO 33.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-Las notificaciones surtirán sus efectos el mismo día en que se practiquen.
+###### Art. 57.
 
-Durante los procesos electorales, el Instituto Estatal Electoral y el Tribunal Local Electoral podrán notificar sus actos, resoluciones o sentencias en cualquier día y hora.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-###### ARTICULO 34.
+###### Art. 58.
 
-Las notificaciones se podrán hacer: personalmente, por cédula, estrados, por oficio , por correo certificado o por telegrama, mediante la publicación en el Periódico Oficial del Estado, por vía fax; con acuse de recibo, según se requiera para la eficacia del acto, resolución o sentencia a notificar, salvo disposición expresa de esta ley.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-###### ARTICULO 35.
+###### Art. 59.
 
-Las notificaciones personales se harán al interesado a más tardar al día siguiente del que se emitió el acto o se dictó la resolución o sentencia. Se entenderán personales cuando se trate de:
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-a).- La admisión, desechamiento o sobreseimiento del recurso o de la demanda;
+###### Art. 60.
 
-b).- La que consista en un requerimiento;
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-c).- La que mande citar a los testigos, peritos o a un tercero; y
+###### Art. 61.
 
-d).- La resolución o sentencia definitivas.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-Cuando se realice la notificación al Instituto Estatal Electoral o a alguno de sus órganos, ésta se hará por oficio al cuál se le anexará copia certificada de la resolución o sentencia definitiva.
+###### Art. 62.
 
-###### ARTICULO 36.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-Las cédulas de notificación personal deberán contener:
+###### Art. 63.
 
-I.- La descripción del acto, resolución o sentencia que se notifica;
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-II.- Lugar, hora y fecha en que se hace;
+Art. 63 (SIC).- (DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-III.- Nombre de la persona con quien se entienda la diligencia; y
+###### Art. 65.
 
-IV.- Firma del actuario o notificador y sello oficial.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-Si no se encuentra presente el interesado, deberá dejar citatorio para que esté presente en el lugar al día hábil siguiente, señalando una hora determinada, y en caso de que el interesado no atienda el citatorio, se entenderá la notificación con la persona que esté en el domicilio.
+###### Art. 66.
 
-Si el domicilio está cerrado o la persona con la que se entiende la diligencia se niega a recibir la cédula, el funcionario responsable de la notificación, la fijará junto con la copia del auto, resolución o sentencia a notificar, en un lugar visible del local, asentará la razón correspondiente en autos debiendo firmar el acta que para tales efectos levante y recabará la firma de por lo menos dos testigos para proceder a fijar la notificación en los estrados.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-En todos los casos, al realizar una notificación personal, se dejará en el expediente la cédula respectiva y copia del auto o resolución y sentencia, asentando la razón de la diligencia.
+###### Art. 67.
 
-###### ARTICULO 37.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-Cuando los promoventes omitan señalar domicilio, o éste no resulte cierto o bien se encuentre ubicado fuera de la ciudad en la que tenga su sede la autoridad que realice la notificación de las resoluciones a que se refiere este artículo, ésta se practicará por estrados.
+###### Art. 68.
 
-###### ARTICULO 38.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-Los estrados son los lugares públicos destinados en las oficinas de los órganos del Instituto Estatal Electoral y el Tribunal Local Electoral, para que sean colocadas las copias de los documentos, autos, acuerdos, resoluciones y sentencias que les recaigan, para su notificación y publicidad.
+###### Art. 69.
 
-###### ARTICULO 39.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-La notificación por correo se hará en pieza certificada agregándose al expediente el acuse de recibo postal. La notificación por telegrama se hará enviándola por duplicado para que la oficina que la trasmita devuelva el ejemplar sellado que se agregará al expediente. Exclusivamente en casos urgentes o extraordinarios y a juicio de quienes presidan los órganos competentes, las notificaciones que se ordenen podrán hacerse a través de fax y surtirán sus efectos a partir de que se tenga constancia de su recepción o se acuse de recibido.
+###### Art. 70.
 
-###### ARTICULO 40.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-El partido político, cuyo representante haya estado presente en la sesión del órgano electoral que actuó o resolvió, se tendrá por notificado del acto o resolución correspondiente para todos los efectos legales.
+###### Art. 71.
 
-###### ARTICULO 41.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación, los actos o resoluciones que, en los términos de las leyes aplicables, o por acuerdo del órgano competente, se publiquen en el Periódico Oficial del Estado o en los diarios de mayor circulación, o en lugares públicos, o mediante la fijación de cédulas en los estrados de los órganos del Instituto y en el Tribunal Local Electoral.
+###### Art. 72.
 
-### CAPITULO XII. De la Acumulación
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-###### ARTICULO 42.
+###### Art. 73.
 
-Para la resolución pronta y expedita de los medios de impugnación previstos en esta ley, los órganos competentes del Instituto o el Tribunal Local Electoral competentes, podrán determinar su acumulación. La acumulación podrá decretarse al inicio o durante la substanciación, o para la resolución de los medios de impugnación.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-### CAPITULO XIII. De los Medios de Apremio y de las Correcciones Disciplinarias
+###### Art. 74.
 
-###### ARTICULO 43.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-Para hacer cumplir las disposiciones del presente ordenamiento y las sentencias que dicte, así como para mantener el orden, el respeto y la consideración debidos, el Tribunal Local Electoral podrá aplicar discrecionalmente los medios de apremio y las correcciones disciplinarias siguientes:
+###### Art. 75.
 
-I. Apercibimiento;
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-II. Amonestación;
+###### Art. 76.
 
-III. Multa hasta por cien veces el salario mínimo diario vigente en la capital del Estado. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-IV. Auxilio de la fuerza pública; y
+###### Art. 77.
 
-V. Arresto hasta por treinta y seis horas.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-Lo anterior sin perjuicio, de que en caso de resultar algún ilícito, se dé parte a la autoridad competente.
+###### Art. 78.
 
-###### ARTICULO 44.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo anterior, serán aplicadas por el Presidente del organismo electoral respectivo, por sí mismo o con el apoyo de la autoridad competente, de conformidad con las reglas que al efecto establezcan las leyes o sus reglamentos internos.
+###### Art. 79.
 
-# LIBRO SEGUNDO. DE LOS MEDIOS DE IMPUGNACION Y DE LAS NULIDADES EN MATERIA ELECTORAL
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-## TITULO PRIMERO. DE LOS MEDIOS DE IMPUGNACION
+###### Art. 80.
 
-### CAPITULO I. De la Revisión
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-###### ARTICULO 45.
+###### Art. 81.
 
-La revisión se interpondrá ante el Consejo General del Instituto Estatal Electoral y procede contra actos o resoluciones de los Consejos Distritales y Consejos Municipales electorales.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-Durante el tiempo que transcurra entre dos procesos electorales locales y dentro de un proceso electoral exclusivamente en la etapa de preparación de la elección.
+###### Art. 82.
 
-###### ARTICULO 46.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-El recurso de revisión deberá ser resuelto en la primera sesión que celebre el Instituto Estatal Electoral después de vencido el término para comparecencia de los terceros interesados y previo proyecto de resolución por mayoría simple de los miembros presentes.
+###### Art. 83.
 
-### CAPITULO II. De la Substanciación y de la Resolución
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-###### ARTICULO 47.
+###### Art. 84.
 
-Una vez cumplidas las reglas de trámite establecidas en esta ley, recibido un recurso de revisión por el órgano del instituto competente para resolver, se aplicarán las reglas siguientes:
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-I.- Cumplidos los requisitos y etapas procesales del recurso, el Secretario Técnico procederá a formular el proyecto de resolución, mismo que será sometido al órgano electoral que corresponda en un plazo no mayor de ocho días, contados a partir de la recepción de la documentación respectiva.
+###### Art. 85.
 
-Los recursos de revisión que sean de la competencia del órgano electoral, según corresponda, deberán resolverse en la siguiente sesión que se celebre posterior a su recepción. La resolución del recurso de revisión deberá dictarse en la sesión en la que se presente el proyecto y se aprobará por el voto de la mayoría de los miembros presentes; el Secretario engrosará la resolución en los términos que determine el propio órgano electoral;
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-II.- En casos extraordinarios, el proyecto de resolución de un recurso de revisión que se presente en una sesión, podrá retirarse para su análisis. En este supuesto, se resolverá en un plazo no mayor de cuatro días, contados a partir de su diferimiento; y
+###### Art. 86.
 
-III.- Todos los recursos de revisión interpuestos dentro de los cinco días anteriores al de la elección, serán enviados al Tribunal Local Electoral, para que sean resueltos junto con los recursos de inconformidad con los que guarden relación. El promovente deberá señalar la conexidad de la causa. Cuando los recursos a que se refiere esta fracción no guarden relación con algún recurso de inconformidad, serán archivados como asuntos definitivamente concluidos.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-###### ARTICULO 48.
+###### Art. 87.
 
-Las resoluciones que recaigan a los recursos de revisión tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnada.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-### CAPITULO III. De la Apelación
+###### Art. 88.
 
-###### ARTICULO 49.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-La apelación procede contra actos o resoluciones que recaigan a los recursos de revisión planteados en la presente Ley; y contra los actos o resoluciones emitidos por el Instituto Estatal Electoral, que no sea impugnables a través del recurso de revisión, siendo competente para resolver el Tribunal Local Electoral.
+###### Art. 89.
 
-Los recursos que se presenten durante el tiempo en que no se desarrollen procesos electorales, conocerá y resolverá el Pleno del Supremo Tribunal de Justicia del Estado, en los términos de conformidad con el Artículo 17 de la Constitución Política del Estado.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-### CAPITULO lV. De la Substanciación
+###### Art. 90.
 
-###### ARTICULO 50.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-Todos los recursos de apelación interpuestos dentro de los cinco días anteriores al de la elección, serán resueltos junto con los recursos de inconformidad con los que guarden relación. El promovente deberá señalar la conexidad de la causa. Cuando los recursos a que se refiere este párrafo no guarden relación con algún recurso de inconformidad, serán archivados como asuntos definitivamente concluidos.
+###### Art. 91.
 
-Para la resolución de los recursos de apelación, en el supuesto a que se refiere el Artículo 46 del presente ordenamiento, la citación a las partes para celebrar audiencia sólo procederá cuando, a juicio del Tribunal Local Electoral, y por la naturaleza de las pruebas ofrecidas o recabadas, sea indispensable desahogarlas ante las partes. En este caso, la audiencia se llevará a cabo con o sin la asistencia de las mismas, en la fecha que al efecto se señale. El magistrado respectivo acordará lo conducente. Los interesados podrán comparecer por sí mismos o a través de representante debidamente autorizado.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-### CAPITULO V. De las Sentencias
+###### Art. 92.
 
-###### ARTICULO 51.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-Las sentencias de fondo que recaigan al recurso de apelación, tendrán como efecto confirmar, modificar o revocar el acto o resolución impugnado.
+###### Art. 93.
 
-Los recursos de apelación, serán resueltos por el Tribunal Local Electoral, dentro de los seis días siguientes a aquel en que se admitan.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-## TITULO CUARTO (SIC). DEL RECURSO DE INCONFORMIDAD
+###### Art. 94.
 
-### CAPITULO I. De la Procedencia
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-###### ARTICULO 52.
+###### Art. 95.
 
-El Tribunal Local Electoral conocerá del recurso de inconformidad, el cual procederá contra los resultados consignados en las actas de cómputo distrital o municipal, para hacer valer presuntas causas de nulidad, con objeto de obtener la declaratoria de nulidad de la elección de un distrito, o de un municipio, o de la votación emitida en una o varias casillas.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-###### ARTICULO 53.
+###### Art. 96.
 
-Son impugnables a través del recurso de inconformidad, los actos siguientes:
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-I.- En la elección de gobernador:
+###### Art. 97.
 
-sic) Los resultados consignados en el acta de cómputo distrital, la declaración de validez de la elección y el otorgamiento de la constancia de mayoría y validez, por nulidad de la votación recibida en una o varias casillas, de uno o varios distritos o por nulidad de la elección; y
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-b).- Los resultados consignados en el acta del cómputo estatal, por error aritmético.
+### CAPITULO VII. DIRECCION GENERAL DEL REGISTRO CIVIL
 
-II.- En la elección de diputados por el principio de mayoría relativa:
+###### Art. 98.
 
-Los resultados consignados en las actas de cómputo distrital, las declaraciones de validez de las elecciones y el otorgamiento de las constancias de mayoría y validez respectivas, por nulidad de la votación recibida en una o varias casillas o por nulidad de la elección;
+El Jefe del Departamento de Estadística dependiente del Gobierno del Estado, fungirá como Director del Registro del Estado Civil y sus atribuciones serán las siguientes:
 
-b).- Las determinaciones sobre el otorgamiento de las constancias de mayoría y validez respectivas; y
+I.- Exigir de todos los Oficiales del Registro Civil el exacto cumplimiento de las disposiciones de este Reglamento;
 
-c).- Los resultados consignados en las actas de cómputo distrital, por error aritmético.
+II.- Hacer visitas de inspección a las Oficinas del Registro Civil cuando el C. Gobernador del Estado lo determine;
 
-III.- En la elección de diputados por el principio de representación proporcional:
+III.- Resolver la (sic) dudas que consulten los Oficiales del ramo, dando previamente cuenta al C. Gobernador del Estado;
 
-a).- Los resultados consignados en el acta de cómputo distrital, la declaración de validez de la elección y el otorgamiento de las constancias de asignación, por nulidad de la votación recibida en una o varias casillas; o
+IV.- Dar cuenta al C. Gobernador del Estado, cuando sea necesario substituir a un Oficial del ramo por su ineptitud o porque tenga una conducta inconveniente;
 
-b) Los resultados consignados en el acta de cómputo distrital o por error aritmético.
+V.- Solicitar, dentro del término oportuno, los libros que se necesiten para el servicio de las Oficinas del ramo, el papel para la expedición de los certificados y los impresos que sean necesarios;
 
-IV.- En la elección de miembros del Ayuntamiento:
+VI.- Recibir los duplicados de los libros que remitan los Oficiales, y una vez revisados enviarlos al Archivo General del Gobierno, devolviendo para su corrección los que estén defectuosos;
 
-a).- Los resultados consignados en las actas de cómputo municipal, las declaraciones de validez de las elecciones y el otorgamiento de las constancias de mayoría y de representación proporcional, y de validez respectivas, por la nulidad de la votación recibida en una o varias casillas, o por nulidad de la elección; y
+VII.- Oír las quejas en asuntos del ramo y hacer las averiguaciones que procedan, obrando con el mayor tino y mesura, tanto respecto al quejoso como al Oficial a quien se refiere la queja;
 
-b).- Los resultados consignados en las actas de cómputo municipal, por error aritmético.
+VIII.- Vigilar la formación del archivo con los libros duplicados y demás documentos reglamentarios que deban remitirse periódicamente al Departamento de Estadística;
 
-###### ARTICULO 54.
+IX.- Presentar anualmente al Ejecutivo del Estado, un estado que manifieste el movimiento habido en el ramo, con todos sus detalles;
 
-El escrito de protesta por los resultados contenidos en el acta de escrutinio y cómputo de la casilla, es un medio para establecer la existencia de presuntas violaciones durante el día de la jornada electoral. Se requerirá la presentación del escrito de protesta, como requisito de procedibilidad del recurso de inconformidad, solo cuando se hagan valer causales de nulidad previstas en el Artículo 62 de esta Ley.
+X.- Consignar a la autoridad competente la comisión de los delitos de que tenga conocimiento, dando cuenta previa al Ejecutivo;
 
-El escrito de protesta deberá contener:
+XI.- Dictar, de acuerdo con las observaciones que la práctica aconseje, las disposiciones que tiendan a mejorar el servicio.
 
-I.- El partido político que lo presenta, nombre, firma autógrafa y cargo partidario de quien lo presenta;
+DISPOSICIONES GENERALES
 
-II.- La mesa directiva de casilla ante la que se presenta o se dieron los hechos;
+###### Art. 99.
 
-III.- La elección que se protesta;
+Si el registro de nacimiento se efectúa después del plazo que marca el artículo número 35 de este Reglamento, causará un recargo de $ 0.20 de multa por cada año vencido que se pase sin hacer el registro.
 
-IV.- La causa por la que se presenta la protesta;
+###### Art. 100.
 
-V.- La relación de hechos y la fundamentación legal de la protesta.
+Ninguna autoridad podrá conceder reducciones o condonaciones de las cuotas que establece el presente Reglamento, salvo lo dispuesto en el artículo 19.
 
-Cuando se presente ante el Consejo Distrital o Municipal correspondiente, se deberán identificar además, individualmente cada una de las casillas que se impugnan, cumpliendo los requisitos anteriores.
+###### Art. 101.
 
-El escrito de protesta deberá presentarse ante la mesa directiva de casilla al término del escrutinio y cómputo o ante el Consejo Distrital o Municipal correspondiente, antes de que inicie la sesión de los cómputos distritales o municipales.
+Los Oficiales que cobren honorarios que no estén establecidos o que cobren mayores cantidades de las fijadas en las Tarifas, o que sin estar autorizados para ello hagan algún cobro, serán consignados a la Autoridad Judicial respectiva, sin perjuicio de las disposiciones Administrativas que aseguren el buen funcionamiento de la Oficina.
 
-De la presentación del escrito de protesta deberán acusar recibo o asentar razón de que ha sido recibida una copia del respectivo escrito, por los funcionarios de la casilla o el Consejo Distrital o Municipal ante el que se presente.
+###### Art. 102.
 
-### CAPITULO II. De los Requisitos Especiales del Escrito de Inconformidad
+Los Oficiales del Registro Civil tendrán los honorarios que marque el Presupuesto de Egresos vigente del Gobierno del Estado.
 
-###### ARTICULO 55.
+###### Art. 103.
 
-Además de los requisitos establecidos en el párrafo 1 del Artículo 12 del presente ordenamiento, el escrito por el cual se promueva el recurso de inconformidad deberá cumplir con lo siguiente:
+Los Oficiales del Registro Civil deberán fijar, en lugar visible de su Oficina, la Tarifa de Honorarios.
 
-I. Señalar la elección que se impugna, manifestando expresamente si se objetan los resultados del cómputo, la declaración de validez de la elección y por consecuencia, el otorgamiento de las constancias respectivas;
+TRANSITORIO.- UNICO.- Se derogan todas las disposiciones reglamentarias anteriores y sus sus tarifas. Este Reglamento entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-II. La mención individualizada del acta de cómputo estatal, distrital o municipal;
-
-III. La mención individualizada de las casillas cuya votación se solicite anular en cada caso y la causal que se invoque para cada una de ellas;
-
-lV. El señalamiento del error aritmético, cuando por este motivo se impugnen los resultados consignados en las actas de cómputo estatal, distrital o municipal; y
-
-V. La conexidad, en su caso, que guarde con otras impugnaciones.
-
-### CAPITULO III. De la Legitimación y de la Personería
-
-###### ARTICULO 56.
-
-El recurso de inconformidad sólo podrá ser promovido por los partidos políticos o por los candidatos.
-
-### CAPITULO IV. De las Sentencias
-
-###### ARTICULO 57.
-
-Las sentencias que resuelvan el fondo de los recursos de inconformidad, podrán tener los siguientes efectos: confirmar, modificar o revocar el acto o resolución impugnado.
-
-## TITULO SEXTO (SIC). DE LAS NULIDADES
-
-### CAPITULO I. De las Reglas Generales
-
-###### ARTICULO 58.
-
-Los efectos de las nulidades decretadas por el Tribunal Local Electoral respecto de la votación emitida en una o varias casillas o de una elección de Gobernador, de diputados de mayoría relativa, representación proporcional o en un municipio para un Ayuntamiento o asignación de regidores de representación proporcional, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el recurso de inconformidad.
-
-###### ARTICULO 59.
-
-Las elecciones cuyos cómputos, constancias de validez y mayoría o de asignación no sean impugnadas en tiempo y forma, se considerarán válidas, definitivas e inatacables.
-
-###### ARTICULO 60.
-
-Cuando el candidato que haya obtenido la constancia de mayoría no reúna los requisitos de elegibilidad previstos por la Constitución Política del Estado y por esta ley, entonces se llamará al suplente, para tomar el lugar del primero una vez que se declare que el candidato no reúne los requisitos de elegibilidad; si éste último tampoco es elegible se convocará a la elección extraordinaria de que se trate.
-
-Tratándose de la inasignabilidad de candidatos a diputados y regidores por el principio de representación proporcional, se asignará el lugar al candidato propietario de la fórmula que sea asignable en el orden de prelación de la lista correspondiente al mismo partido; se aplicará la misma regla para el caso de los regidores.
-
-###### ARTICULO 61.
-
-Los partidos políticos o candidatos no podrán invocar en su favor, a través de algún medio de impugnación, causales de nulidad, hechos o circunstancias que ellos mismos hayan provocado.
-
-### CAPITULO II. De la Nulidad de la Votación Recibida en Casilla
-
-###### ARTICULO 62.
-
-La votación recibida en una casilla será nula cuando se acredite cualesquiera de las siguientes causales:
-
-I. Instalar la casilla, sin causa justificada, en lugar distinto al señalado por el Consejo Distrital correspondiente;
-
-II. Entregar, sin causa justificada, el paquete que contenga los expedientes electorales a los Consejos Distritales o Municipales, fuera de los plazos que la ley sustantiva señale;
-
-III. Realizar sin causa justificada, el escrutinio y cómputo en local diferente al determinado por el Consejo Distrital respectivo;
-
-IV. Recibir la votación en fecha distinta a la señalada para la celebración de la elección, entendiéndose como fecha para estos efectos, día y hora;
-
-V. Recibir la votación por personas u organismos distintos a los facultados por la ley sustantiva;
-
-VI. Haber mediado dolo o error en el cómputo de los votos que beneficien a uno de los candidatos, fórmula de candidatos o planilla y ésto sea determinante para el resultado de la votación;
-
-VII. Permitir a ciudadanos sufragar sin credencial para votar o cuyo nombre no aparezca en la lista nominal de electores, siempre que ello sea determinante para el resultado de la votación, salvo en los casos de excepción señalados por la ley;
-
-VIII. Haber impedido el acceso a los representantes de los partidos políticos o haberlos expulsado, sin causa justificada;
-
-IX. Ejercer violencia física, moral o presión contra los miembros de la mesa directiva de casilla o los electores siempre que esos hechos sean determinantes para el resultado de la votación;
-
-X. Impedir, sin causa justificada, el ejercicio del derecho de voto a los ciudadanos y esto sea determinante para el resultado de la votación; y
-
-XI. Existir irregularidades graves, plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que, en forma evidente, pongan en duda la certeza de la votación y sean determinantes para el resultado de la misma.
-
-Todo lo anterior sin perjuicio de las responsabilidades personales en que incurran los funcionarios electorales, servidores públicos, o los representantes de los partidos políticos.
-
-### CAPITULO III. De la Nulidad de la Elección
-
-###### ARTICULO 63.
-
-Son causales de nulidad de una elección de diputado de mayoría relativa en un distrito electoral o de un ayuntamiento, cualesquiera de las siguientes:
-
-I. Cuando alguna o algunas de las causales señaladas en el artículo anterior se acrediten en por lo menos el veinte por ciento de las secciones;
-
-II. Cuando no se instalen las casillas en el veinte por ciento de las secciones en el distrito o municipio de que se trate, y consecuentemente, la votación no hubiere sido recibida; o
-
-III. Cuando los dos integrantes de la fórmula de candidatos de diputados de mayoría relativa que hubieren obtenido constancia de mayoría sean inelegibles, o en la planilla para un ayuntamiento, resulten inelegibles los candidatos propietario y suplente para Presidente Municipal o el Síndico y su suplente.
-
-Solo podrá ser declarada nula una elección, cuando las causas que se invoquen hayan sido plenamente acreditadas, y sean determinantes para el resultado de la elección.
-
-###### ARTICULO 64.
-
-Son causales de nulidad de la elección de gobernador cuando se acrediten alguna o algunas de las causales señaladas en las fracciones I y II del artículo anterior en por lo menos el 20% de las secciones de la entidad, siempre y cuando sean determinantes para el resultado de la elección.
-
-T R A N S I T O R I O S
-
-###### ARTICULO PRIMERO.
-
-Se abrogan todas las disposiciones que se opongan a lo establecido en la presente ley.
-
-###### ARTICULO SEGUNDO.
-
-La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Por lo que se refiere a la estructura orgánica del Tribunal Local Electoral, su funcionamiento, atribuciones y obligaciones de sus integrantes, será regulado por la Ley Orgánica del Poder Judicial del Estado.
-
-Al Ejecutivo para su sanción.
-
-Dado en el salón de sesiones del H. Congreso del Estado, a los veintiocho días del mes de octubre del año dos mil.- D.P., Victor Hugo Romo Córdoba.- D.S., Humberto Godínez Pazarán.- D.S., Juan Antonio del Valle Rodríguez.- Rúbricas".
-
-Y tenemos el honor de comunicarlo a usted para su conocimiento y efectos legales consiguientes, reiterándole las seguridades de nuestra consideración distinguida.
-
-SUFRAGIO EFECTIVO. NO REELECCION.
-
-DIPUTADO PRESIDENTE,
-
-Víctor Hugo Romo Córdoba.
-
-DIPUTADO SECRETARIO,
-
-Humberto Godínez Pazarán.
-
-DIPUTADO SECRETARIO,
-
-Juan Antonio Del Valle Rodríguez.
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- C. Victoria, Tamps., agosto 6 de 1940.- Diputado Presidente, Vicente Ruiz.- Diputado Secretario, Melquiades Tobías.- Diputado Secretario, Leopoldo Guerra.- Rúbricas."
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Aguascalientes, Ags. 28 de octubre de 2000.
-
-Felipe González González.
-
-EL SECRETARIO GENERAL DE GOBIERNO,
-
-Lic. Abelardo Reyes Sahagún.
+Dado en la Residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los trece días del mes de septiembre de mil novecientos cuarenta.- Ing. Marte R. Gómez.- P. A. del Srio. Gral. de Gobierno, el Oficial Mayor, Arsenio Saeb.- Rúbricas.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 26 DE NOVIEMBRE DE 2001.
+P.O. 25 DE MARZO DE 1953.
 
-PRIMERO.- El presente decreto entrará en vigor el primero de enero del año 2002.
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo contenido en el presente Decreto.
+P.O. 10 DE FEBRERO DE 1954.
+
+LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+###### ARTICULO SEXTO.
+
+Se abrogan la Tarifa VI del Artículo 18 y las disposiciones del Capítulo Sexto, de la Ley Reglamentaria de las Oficinas del Registro Civil, contenidas en el Decreto No. 248, expedido el 6 de Agosto de 1940.
+
+P.O. 8 DE MAYO DE 1954.
+
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
