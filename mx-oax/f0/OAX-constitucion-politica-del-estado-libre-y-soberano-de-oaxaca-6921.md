@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1993-01-28"
+last_updated: "1993-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 1993.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -1721,7 +1721,9 @@ III. Todas las que le confieran las respectivas leyes reglamentarias.
 
 ARTICULO 138 BIS. La Comisión Estatal de Derechos Humanos es un organismo Descentralizado, con personalidad jurídica y patrimonio propios, que se encargará de la protección, observancia, promoción, estudio y divulgación de los Derechos Humanos, previstos por el orden jurídico mexicano.
 
-Esta Comisión conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público del Estado que violen estos derechos, con excepción de los del Poder Judicial Estatal. Asimismo, formulará recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
+
+Esta Comisión conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público del Estado que viole estos derechos. Asimismo, formulará recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
@@ -2532,3 +2534,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 28 DE ENERO DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE OCTUBRE DE 1993.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
