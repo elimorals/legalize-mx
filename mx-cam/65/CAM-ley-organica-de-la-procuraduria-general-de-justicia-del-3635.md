@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-procuraduria-general-de-justicia-del-3635"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-05-29"
-last_updated: "1986-12-23"
+last_updated: "2003-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "CAM"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1986.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 30 DE JUNIO DE 2003.</small>
 
-Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 29 de mayo de 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
+
+Ley Publicada en el Periódico Oficial del Estado de Campeche el jueves 29 de mayo de 1980.
 
 ING. EUGENIO ECHEVERRIA CASTELLOT, Gobernador Constitucional del Estado Libre y Soberano de Campeche, a sus habitantes, sabed:
 
-Que el H. XLIX Congreso Constitucional del Estado Libre y Soberano de Campeche, me ha dirigido el siguiente:
+Que el H. Congreso Constitucional del Estado Libre y Soberano de Campeche me ha dirigido el siguiente:
 
 DECRETO
 
@@ -722,3 +724,15 @@ P.O. 23 DE DICIEMBRE DE 1986.
 Artículo Primero.- El presente Decreto iniciará su vigencia a los treinta días de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a este Decreto.
+
+P.O. 30 DE JUNIO DE 2003.
+
+Primero.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Campeche, expedida por decreto número 205 publicada en el Periódico Oficial del Estado de fecha 29 de mayo de 1980.
+
+Tercero.- Las menciones que en otras disposiciones se hagan a los miembros de la Policía Judicial del Estado, a partir de la entrada en vigor del presente decreto se entenderán referidas a los integrantes de la Policía Ministerial del Estado.
+
+Cuarto.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+Quinto.- Las referencias que en este decreto se hacen a la Ley de Responsabilidades de los Servidores Públicos del Estado de Campeche, se entenderán como hechas a la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche a partir del 16 de septiembre de 2003.
