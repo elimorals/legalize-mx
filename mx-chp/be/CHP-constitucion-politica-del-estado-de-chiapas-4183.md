@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1935-12-25"
+last_updated: "1938-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 1938.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -200,6 +200,8 @@ Los diputados son inviolables por las opiniones que emitan en el desempeño de s
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
 
 ## TITULO CUARTO. Del Ministerio Público
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1938)</small>
 
 #### SECCION PRIMERA. Del Poder Legislativo
 
@@ -625,23 +627,23 @@ Los Distritos Judiciales de Comitán, Alvaro Obregón, Las Casas, La Libertad, M
 
 El Tribunal Superior de Justicia se compondrá de tres Magistrados de número y cinco Supernumerarios que serán electos por el Congreso del Estado, constituido en Colegio Electoral y con asistencia cuando menos de las dos terceras partes del número total de sus miembros, quienes decidirán de la elección por mayoría absoluta de votos emitidos en escrutinio secreto, a propuesta en terna por el Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1938)</small>
 
 ###### ARTICULO 56.
 
 Para ser Magistrado se requiere:
 
-I.- Ser ciudadano chiapaneco por nacimiento, hijo de padres mexicanos.
+I.- Ser Ciudadano Chiapaneco por nacimiento, hijo de padres mexicanos.
 
 II.- Estar en pleno goce de sus derechos políticos y civiles.
 
-III.- Ser mayor de treinta y cinco años al tiempo de la elección.
+III.- Ser mayor de 25 años al tiempo de la elección.
 
 IV.- Poseer título de Abogado, expedido legalmente.
 
-V.- Tener tres años de práctica a contar desde la fecha de la expedición del título; y
+V.- Tener 2 años de práctica a contar desde la fecha de la expedición del título;
 
-VI.- Gozar de buena reputación, no estar afiliado o subordinado a organizaciones religiosas y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+VI.- Gozar de buena reputación; no estar afiliado o subordinado a organizaciones religiosas y no haber sido condenado a delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza en otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
@@ -695,7 +697,7 @@ Por cada uno de los Jueces a que se refiere este artículo, se nombrará un Supl
 
 ###### ARTICULO 62.
 
-La Ley organizará el Ministerio Público que estará presidido por un Procurador General de Justicia, quien deberá tener las cualidades requeridas para ser Magistrado al Tribunal Superior.
+La Ley organizará el Ministerio Público que estará presidido por un Procurador General de Justicia, quien deberá llenar los requisitos exigidos para ser Magistrado al Tribunal Superior de Justicia.
 
 ###### ARTICULO 63.
 
@@ -1044,3 +1046,13 @@ P.O. 25 DE DICIEMBRE DE 1935.
 1º.- Quedan derogados todas las leyes, decretos y demás disposiciones que se opongan a las reformas a que se contrae el presente Decreto.
 
 2º.- Este decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 16 DE FEBRERO DE 1938.
+
+###### Artículo 1º.
+
+Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan a las reformas a que se contrae el presente Decreto.
+
+###### Artículo 2º.
+
+Este Decreto principiará a regir desde la fecha de su publicación en el Periódico Oficial.
