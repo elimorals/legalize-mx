@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1983-12-28"
+last_updated: "1983-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -1413,11 +1413,11 @@ MECANICOS, ELECTROMECANICOS Y FONOELECTROMECANICOS
 
 DEL OBJETO
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 140o.
 
-Son objeto de este impuesto la realización de rifas, sorteos, loterías de especulación o con fines comerciales, salvo que se cause y se pague el Impuesto al Valor Agregado, asimismo, son objeto de este impuesto la explotación de aparatos mecánicos, electromecánicos o fonoelectromecánicos efectuada dentro del territorio del Estado.
+Son objeto de este impuesto, la realización de rifas, sorteos, loterías de especulación o con fines comerciales, apuestas y concursos de toda clase, salvo que se cause y se pague el impuesto al valor agregado; así mismo, son objeto de este impuesto la explotación de aparatos mecánicos, electromecánicos o fonoelectromecánicos ejecutada dentro del territorio del Estado.
 
 DE LOS SUJETOS
 
@@ -1959,9 +1959,11 @@ DEL OBJETO
 
 Son objeto de este impuesto los ingresos por espectáculos públicos que se organicen y celebren dentro del Estado.
 
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983) (F. DE E., P.O. 21 DE ENERO DE 1984)
+
 ###### ARTICULO 185o.
 
-Para los efectos de este impuesto se entienden por espectáculos públicos toda función teatral, cinematográfica, deportiva, las peleas de gallos, los concursos, exhibiciones bailes, las albercas, juegos recreativos, establecimientos que presenten variedades, o de cualquier otra especie, que se realice en locales o espacios abiertos o cerrados, donde se autorice la entrada mediante el pago de cierta suma de dinero, se cobre derecho de mesa o distintivo.
+Para los efectos de este impuesto se entiende por espectáculos públicos toda función teatral, cinematográfica, deportiva, las peleas de gallos, las carreras de animales, los concursos, exhibiciones, bailes, las albercas, juegos recreativos, establecimientos que presenten variedades, o de cualquier otra especie, que se realicen en locales o espacios abiertos o cerrados donde se autorice la entrada mediante el pago de cierta suma de dinero, se cobre derecho de mesa o distintivo.
 
 ###### ARTICULO 186o.
 
@@ -2667,7 +2669,7 @@ Son obligaciones de los sujetos de este impuesto:
 
 I.- Liquidar el impuesto en el momento en que se haga el entero de los conceptos básicos sobre los cuales recae, en las declaraciones que se presenten con motivo del pago de estos, salvo en aquellos casos en que se prevea una forma distinta.
 
-II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días lo. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
+II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días 1o. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
 
 III.- Las demás que este capítulo establece.
 
@@ -3108,3 +3110,7 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 P.O. 28 DE DICIEMBRE DE 1983
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1983
+
+UNICO.- El presente Decreto entrará en vigor a partir del 1o. de enero de 1984.
