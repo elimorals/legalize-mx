@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-servicio-de-agua-y-drenaje-para-el-distrito-184"
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-01-29"
-last_updated: "1997-10-20"
+last_updated: "2003-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,15 @@ issue_date: "1990-01-05"
 
 REGLAMENTO DEL SERVICIO DE AGUA Y DRENAJE PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE OCTUBRE DE 1997. REPUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 21 DE OCTUBRE DE 1997.
+N. DE E.: EL PRESENTE REGLAMENTO FUE ABROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE AGUAS DEL DISTRITO FEDERAL PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 27 DE MAYO DE 2003.
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación el jueves 25 de enero de 1990.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- 1a. Asamblea de Representantes del Distrito Federal 88-91.- Oficialía Mayor.
+
+LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, EN EJERCICIO DE LA FACULTAD QUE LE CONFIERE EL ARTICULO 73, FRACCION VI, BASE 3a. INCISO A) DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS: EXPIDE:
 
 REGLAMENTO DEL SERVICIO DE AGUA Y DRENAJE PARA EL DISTRITO FEDERAL
 
@@ -1541,3 +1547,27 @@ REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los asuntos que se encuentren en trámite a la entrada en vigor de este Decreto se sustanciarán, en lo que beneficie a los interesados, conforme a lo previsto en este Decreto.
+
+G.O. 27 DE MAYO DE 2003.
+
+PRIMERO.- Túrnese al Jefe d e Gobierno para su promulgación y publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- La presente Ley entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se abroga el Reglamento del Servicio de Agua y Drenaje para el Distrito Federal, y se derogan las demás disposiciones jurídicas vigentes que se opongan a la presente Ley.
+
+CUARTO.- En tanto se expiden las disposiciones administrativas que se deriven de la presente Ley, seguirán en vigor las que han regido hasta ahora en lo que no la contravengan.
+
+QUINTO.- Todos los actos, juicios, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia de otros ordenamientos, se tramitarán y resolverán conforme a los mismos.
+
+SEXTO .- El Jefe de Gobierno expedirá todas las disposiciones necesarias para la exacta observancia de la presente Ley.
+
+SÉPTIMO.- A partir de la entrada en vigor de la presente Ley, la administración pública del Distrito Federal deberá llevar a cabo los procedimientos y trámites para que se dote al Sistema de Aguas de la Ciudad de México de todos los recursos necesarios para su funcionamiento, mismo que deberá estar concluido en el 2004.
+
+OCTAVO.- La administración pública del Distrito Federal determinará el personal que se integra al Sistema de Aguas de la Ciudad de México con el carácter de comisionados y aquel que quedará adscrito a otras dependencias.
+
+NOVENO.- El Sistema de Aguas de la Ciudad de México dispondrá de 180 días a partir de la publicación de esta Ley para la elaboración del Programa de Gestión Integral de los Recursos Hídricos a que se refiere la presente Ley, su aprobación por el Consejo de Gobierno y su publicación en la Gaceta Oficial del Distrito Federal.
+
+DÉCIMO.- Con el propósito de dar continuidad al servicio, en tanto se dictamina por la Oficialía Mayor la nueva estructura operativa, los servicios públicos que han venido desarrollando las funciones y actividades para el cumplimiento de la presente Ley seguirán desarrollando y suscribiendo los documentos inherentes a su función.
+
+DÉCIMO PRIMERO.- Para los efectos previstos en el artículo 7º de esta Ley, el Sistema de Aguas adquirirá el carácter de autoridad fiscal a más tardar el 1º de enero de 2008 mediante la transmisión de atribuciones y recursos de la Secretaría de Finanzas del Distrito Federal.
