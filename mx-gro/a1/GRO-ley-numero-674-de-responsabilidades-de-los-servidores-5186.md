@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-674-de-responsabilidades-de-los-servidores-5186"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-03"
-last_updated: "1984-02-03"
+last_updated: "1989-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 674 DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO
 
-LEY NUMERO 674 DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO
+LEY NUMERO 674 DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1989.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 3 de febrero de 1984.
 
@@ -715,6 +715,32 @@ Cuando los servidores públicos reciban obsequios, donativos o beneficios en gen
 
 La Contraloría hará al Ministerio Público, en su caso, declaratoria de que el funcionario sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial en su patrimonio de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivo del mismo.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 1989)</small>
+
+## TITULO QUINTO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 1989)</small>
+
+### CAPITULO UNICO. RESPONSABILIDADES DE EX-SERVIDORES PUBLICOS
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1989)</small>
+
+###### ARTICULO 88.
+
+Quienes hayan fungido como servidores públicos en los términos del artículo 110 de la Constitución Política del Estado de Guerrero estarán impedidos para promover o gestionar por sí o por interpósita persona así como intervenir en cualquier asunto en contra de los intereses y derechos legítimos del Poder Legislativo, del Poder Judicial y de la Administración Pública Estatal y Municipal, o cuando su intervención pueda fundarse en la información, conocimientos y experiencias obtenidas durante su encargo, durante los dos años siguientes a la separación del mismo.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1989)</small>
+
+###### ARTICULO 89.
+
+Cualquier servidor público que tenga conocimiento de la posible violación del precepto anterior lo hará del conocimiento de la Secretaría de Desarrollo Administrativo y Control Gubernamental para que, previa la investigación y confirmación de los hechos, formule la denuncia correspondiente ante la Procuraduría General de Justicia.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1989)</small>
+
+###### ARTICULO 90.
+
+La violación a las disposiciones contenidas en el artículo 88 se castigará en los términos de lo dispuesto por el artículo 252 del Código Penal del Estado de Guerrero.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -762,3 +788,9 @@ Profr. y Lic. ALEJANDRO CERVANTES DELGADO.
 EL SECRETARIO DE GOBIERNO
 
 LIC. HUMBERTO SALGADO GOMEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P. O. 6 DE JUNIO DE 1989.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
