@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-obras-publicas-del-estado-6078"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-26"
-last_updated: "1992-04-21"
+last_updated: "1997-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 21 DE ABRIL DE 1992.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE FEBRERO DE 1997.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 26 de septiembre de 1984.
 
@@ -617,27 +617,11 @@ Las responsabilidades administrativas a que se refiere la presente Ley, son inde
 
 ### CAPITULO OCTAVO. DEL RECURSO ADMINISTRATIVO
 
+> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)</small>
+
 ###### Artículo 57.
 
-En contra de las resoluciones que dicten las autoridades y los Ayuntamientos, el interesado podrá interponer ante éstas, recurso de revocación dentro del término de quince días hábiles, contados a partir del día hábil siguiente al de la notificación.
-
-La tramitación del recurso se sujetará a las normas siguientes:
-
-I. Se interpondrán por el recurrente mediante escrito en el que expresará los agravios que el acto impugnado le cause, ofreciendo las pruebas que se proponga rendir y acompañando copia de la resolución impugnada, así como la constancia de la notificación de esta última, excepto si la notificación se hizo por correo.
-
-II. En el recurso no será admisible la prueba de confesión de las autoridades ni testimonial, si dentro del trámite que haya dado origen a la resolución recurrida, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se admitirán en el recurso las que hubiere allegado en tal oportunidad.
-
-III. Las pruebas que ofrezca el recurrente deberá relacionarlas con cada uno de los hechos controvertidos, y sin el cumplimiento de este requisito serán desechadas.
-
-IV. Se tendrán por no ofrecidas las pruebas de documentos si éstos no se acompañan al escrito en que se interponga el recurso y en ningún caso serán recabadas por la autoridad que conozca del recurso, salvo que obren en el expediente en que se haya originado la resolución recurrida.
-
-V. La prueba pericial se desahogará con la presentación del dictamen, a cargo del perito designado por el recurrente. De no presentarse el dictamen dentro del plazo de Ley, la prueba será declarada desierta.
-
-VI. Las autoridades podrán pedir que se les rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en el acto recurrido.
-
-VII. Asimismo acordarán lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiere ofrecido, que deberán ser pertinentes e idóneas para dilucidar las cuestiones controvertidas. Las Secretarías ordenarán el desahogo de las mismas dentro del plazo de quince días hábiles el que será improrrogable; y
-
-VIII. Vencido el plazo para el desahogo de las pruebas, las autoridades dictarán resolución en un término que no excederá de treinta días hábiles.
+Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
 
 T R A N S I T O R I O S
 
@@ -732,3 +716,15 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 7 DE FEBRERO DE 1997.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+###### ARTICULO SEGUNDO.
+
+Este Código entrará en vigor a los 30 días naturales siguientes al de su publicación en la Gaceta del Gobierno.
+
+###### ARTICULO QUINTO.
+
+Se reforman los artículos... 57 de la Ley de Obras Públicas del Estado de México...
