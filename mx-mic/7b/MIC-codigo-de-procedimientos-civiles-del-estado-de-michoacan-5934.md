@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1938-02-03"
+last_updated: "1945-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 1945.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -985,9 +985,11 @@ Para determinar la competencia por razón de la cuantía del negocio, se tendrá
 
 Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones de un año, a no ser que se demande exclusivamente el pago de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1945)</small>
+
 ###### Artículo 181.
 
-En las contiendas sobre propiedad o posesión de inmueble, la competencia por razón de la cuantía se determinará por el valor con que aparezca registrado en el Catastro. Si no pudiere determinarse la cuantía, conocerá en todo caso el juez de primera instancia. Si se trata de usufructo o de derechos reales sobre bienes inmuebles, se atenderá al valor de éstos. Tratándose de acciones posesorias conocerán en todo caso los jueces de primera instancia del lugar de ubicación de la cosa.
+En las contiendas sobre propiedad de inmuebles, la competencia por razón de la cuantía se determinará por el valor con que aparezca registrado en el Catastro. Si no pudiere determinarse la cuantía, conocerá en todo caso el Juez de Primera Instancia. Si se trata de usufructo o de derechos reales sobre bienes inmuebles, se atenderá al valor de éstos. Tratándose de acciones posesorias así como las de propiedad relacionadas con informaciones ad-perpetuam conocerán en todo caso los Jueces de Primera Instancia del lugar de ubicación de la cosa.
 
 ###### Artículo 182.
 
@@ -6949,6 +6951,8 @@ La intimación se hará bajo apercibimiento de que, si la mujer no presenta la o
 
 ### CAPITULO IX. De las informaciones ad perpetuam
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1945)</small>
+
 ###### Artículo 1339.
 
 Transcurrido el término que se hubiere señalado, si no se presentare la orden de la autoridad competente, cesará el depósito, y se hará volver a la mujer a la casa del ascendiente o tutor, asentándose esta diligencia en el expediente formado para el depósito.
@@ -7131,17 +7135,15 @@ La venta de bienes indivisos pertenecientes a mayores y menores de edad, se har�
 
 ###### Artículo 1368.
 
-La información ad perpetuam podrá decretarse cuando no tenga interés más que el promovente y se trate:
+La información ad-perpetuam podrá decretarse cuando no tenga interés más que el promovente y se trate:
 
 I. De justificar algún hecho o acreditar un derecho;
 
-II. Cuando se pretenda justificar la posesión como medio para acreditar pleno dominio de un inmueble; y
+II. Cuando se pretenda justificar la posesión como medio para acreditar pleno dominio de un inmueble, y
 
 III. Cuando se trate de comprobar la posesión de un derecho real.
 
-En los casos de las dos primeras fracciones anteriores, la información se recibirá con citación del Ministerio Público, y en el de la tercera, con la del propietario o de los demás partícipes del derecho real.
-
-El Ministerio Público y las personas con cuya citación se reciba la información, pueden tachar a los testigos por circunstancias que afecten su credibilidad.
+En los casos de las tres fracciones anteriores, las informaciones se recibirán siempre con citación del Ministerio Público, y en tratándose de la segunda fracción, con citación además del Representante del Fisco del Estado. En el caso de la tercera, con la del propietario y demás interesados. El Ministerio Público, el Fisco del Estado y las personas con cuya citación se reciba la información en su caso, pueden oponerse a ella, tachar a los testigos por circunstancias que afecten su dicho y redargiiir (sic) los documentos exhibidos.
 
 ###### Artículo 1369.
 
@@ -7153,9 +7155,11 @@ Podrá usarse también de otros medios de prueba conducentes.
 
 El juez está obligado a ampliar el examen de los testigos con las preguntas que estime pertinentes para asegurarse de la veracidad de su dicho.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1945)</small>
+
 ###### Artículo 1371.
 
-Recibida la información, se entregará original al interesado o se mandará protocolizar si éste lo solicitar (sic) en la notaría que designe el promovente, para que, en su caso, se le expida el testimonio respectivo para su inscripción en el Registro Público de la Propiedad.
+Recibida la información se entregará al interesado copia certificada, la que además se mandará protocolizar en la Notaría que corresponda, si éste lo solicitare, para que, en su caso, se le expida el testimonio respectivo para su inscripción en el Registro Público de la Propiedad, si procediere.
 
 ###### Artículo 1372.
 
@@ -7242,6 +7246,8 @@ Los testimonios que se expidan conforme a los artículos anteriores, tendrán la
 ###### Artículo 1379.
 
 El poseedor que se encuentre en el caso del artículo 2850 del Código Civil, justificará su posesión con cinco testigos de notorio arraigo en el lugar de ubicación de los bienes a que la información se refiere, observándose lo dispuesto en los artículos 1373, 1374 y 1375.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1945)</small>
 
 ### CAPITULO XIV. Disposiciones complementarias
 
@@ -7499,7 +7505,7 @@ Las promociones de nulidad de actuaciones por falta o defecto de citación o not
 
 ###### Artículo 1380.
 
-Comprobada debidamente la posesión, la aprobará el juez y mandará inscribir tal resolución en el Registro Público.
+Comprobada debidamente la posesión la aprobará el Juez y mandará inscribir tal resolución en el Registro Público, expidiendo las copias certificadas que se le soliciten en los términos del artículo 1371.
 
 ###### Artículo 1381.
 
@@ -7624,3 +7630,11 @@ Secretario
 P.O. 3 DE FEBRERO DE 1938.
 
 Esta Ley empezará a regir desde la fecha de su publicación.
+
+P.O. 12 DE FEBRERO DE 1945.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO TERCERO.
+
+Esta Ley empezará a regir desde el día de su publicación en el Periódico Oficial del Gobierno.
