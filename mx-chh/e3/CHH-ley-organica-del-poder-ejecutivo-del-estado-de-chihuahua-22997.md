@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "1993-07-21"
+last_updated: "1993-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1993.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -200,6 +200,10 @@ Coordinación de Planeación y Evaluación
 Coordinación de Fortalecimiento Municipal
 
 Coordinación de Comunicación Social
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+Contraloría del Estado
 
 ### CAPITULO II. DE LA COMPETENCIA DE LA SECRETARIA DE GOBIERNO, PROCURADURIA GENERAL DE JUSTICIA Y DIRECCIONES GENERALES
 
@@ -495,7 +499,7 @@ V.- Organizar y operar un sistema permanente de control y evaluación de la ejec
 
 VI.- Establecer la normatividad, la coordinación y los mecanismos a que deberán sujetarse las dependencias del Ejecutivo, tanto de la administración centralizada como de la paraestatal, para la instrumentación de sus sistemas internos de programación, control y evaluación;
 
-VII.- Recibir y revisar las declaraciones patrimoniales de los funcionarios y en su caso, imponer las sanciones administrativas en la forma y términos que determine la Ley de Responsabilidades de los Servicios Públicos, y
+VII.- (DEROGADA, P.O. 4 DE AGOSTO DE 1993)
 
 VIII.- Las demás que la (sic) atribuyan expresamente las Leyes y sus Reglamentos.
 
@@ -524,6 +528,20 @@ II.- Diseñar y mantener un proceso dinámico de consulta de opinión ciudadana 
 III.- Captar y compilar la información noticiosa publicada, que se relacione con las actividades del Poder Ejecutivo, para mantener enterados oportunamente a los funcionarios;
 
 IV.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+ARTICULO 36 BIS.- La Contraloría del Estado tiene las siguientes atribuciones:
+
+I.- Promover y supervisar el funcionamiento de los mecanismos de control y verificación de programas de inversión de la Administración Pública Estatal, así como en aquellos programas convenidos por el Estado con la Federación, los Municipios y los beneficiarios de los mismos.
+
+II.- Vigilar el cumplimiento de la normatividad y el procedimientos a que habrán de sujetarse las dependencias ejecutoras de los programas de inversión, tanto de la administración centralizada como de la descentralizada, dependientes del Ejecutivo Estatal;
+
+III.- Vigilar el cumplimiento de las Leyes de Obra Pública, de adquisiciones, arrendamientos y servicios relacionados con la obra pública, así como de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua y, en su caso, promover la imposición de las sanciones en la forma y términos que determinan las leyes relativas;
+
+IV.- Recibir y revisar las declaraciones de situación patrimonial de los servidores públicos que corresponda y, en su caso, promover la imposición de las sanciones administrativas que correspondan en la forma y términos que determina la Ley de la materia; y
+
+V.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
@@ -714,3 +732,21 @@ El trámite de los asuntos iniciados ante la extinta Dirección General de Admin
 ###### ARTICULO QUINTO.
 
 Las funciones establecidas a cargo de la Dirección General de Administración en la Ley que se modifica mediante este Decreto o en cualquier otra Ley o Reglamento, así como en convenios o acuerdos celebrados con Dependencias o Entidades de la Administración Centralizada o Paraestatal o con Entidades de la Administración Pública Federal, serán asumidas por la Dirección General de Finanzas y Administración a partir de la entrada en vigor del presente Decreto. Lo mismo se observará respecto a la intervención que otorga a la Dirección General de Administración las condiciones generales de trabajo que regulan las relaciones laborales entre el Gobierno del Estado de Chihuahua y sus Trabajadores, a través del Sindicato de Trabajadores al Servicio del Gobierno del Estado.
+
+P.O. 4 DE AGOSTO DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El personal adscrito a la Contraloría, que en aplicación de este Decreto pase a la Contraloría del Estado, en ninguna forma resultará afectado en los derechos que haya adquirido, en virtud de su relación laboral en la Administración Pública Estatal.
+
+###### ARTICULO TERCERO.
+
+El cambio de la "Contraloría" a "Contraloría del Estado", se hará incluyendo el personal a su servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, todo cuanto corresponda.
+
+###### ARTICULO CUARTO.
+
+Los asuntos que atiende la Contraloría, continuarán en su trámite por la Contraloría del Estado.
