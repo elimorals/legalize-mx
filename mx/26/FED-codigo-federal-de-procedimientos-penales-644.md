@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1971-03-19"
+last_updated: "1974-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MARZO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -703,6 +703,8 @@ Las notificaciones hechas contra lo dispuesto en este Capítulo serán nulas, ex
 
 ### CAPITULO II. Reglas especiales para la práctica de diligencias y levantamiento de actas de policía judicial
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 113.
 
 Los funcionarios y agentes de policía judicial están obligados a proceder de oficio a la investigación de los delitos del orden federal de que tengan noticia, excepto en los casos siguientes:
@@ -763,7 +765,7 @@ Este artículo se aplicará también en lo conducente cuando se tache de falso a
 
 ###### ARTICULO 123.
 
-Tan luego como los funcionarios encargados de practicar diligencias de policía judicial tengan conocimiento de la probable existencia de un delito que deba perseguirse de oficio, dictarán todas las providencias necesarias: para proporcionar seguridad y auxilios a las víctimas; para impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso y los instrumentos o cosas, objeto o efecto del mismo; para saber qué personas fueron testigos del hecho y, en general, impedir que se dificulte la averiguación; y, en los casos de flagrante delito, para asegurar a los responsables.
+Inmediatamente que el Ministerio Público Federal o los funcionarios encargados de practicar diligencias de Policía Judicial, tengan conocimiento de la probable existencia de un delito que deba perseguirse de oficio, dictarán todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas; impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso, los instrumentos o cosas objeto o efectos del mismo; saber qué personas fueron testigos; evitar que el delito se siga cometiendo y en general, impedir que se dificulte la averiguación, procediendo a la aprehensión de los responsables en los casos de flagrante delito.
 
 Lo mismo se hará tratándose de delitos que solamente puedan perseguirse por querella, si ésta ha sido formulada.
 
@@ -1011,6 +1013,8 @@ Si dentro del término legal no se reúnen los requisitos necesarios para dictar
 
 ### CAPITULO II. Huellas del delito.- Aseguramiento de los Instrumentos y objetos del mismo
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 168.
 
 El funcionario de policía judicial y el tribunal, en su caso, deberán procurar ante todo que se compruebe el cuerpo del delito como base del procedimiento penal.
@@ -1085,9 +1089,13 @@ Para la comprobación del cuerpo del delito, los funcionarios de policia judicia
 
 ###### ARTICULO 181.
 
-Los instrumentos del delito y las cosas objeto o efecto de él, así como aquellos en que existan huellas del mismo o pudieran tener relación con éste, serán asegurados ya sea recogiéndolos, poniéndolos en secuestro judicial o simplemente al cuidado y bajo la responsabilidad de alguna persona, para el objeto de que no se alteren, destruyan o desaparezcan.
+Los instrumentos del delito y las cosas objeto o efecto de él, así como aquéllos en que existan huellas del mismo o pudieron tener relación con éste, serán asegurados; ya sea recogiéndolos, poniéndolos en secuestro judicial o simplemente al cuidado y bajo la responsabilidad de alguna persona, para el objeto de que no se alteren, destruyan o desaparezcan.
 
-De todas las cosas aseguradas, se hará un inventario en el que se las describirá de tal manera que en cualquier tiempo puedan ser identificadas.
+De todas las cosas aseguradas se hará un inventario, en el que se las (sic) describirá de tal manera que en cualquier tiempo puedan ser identificadas.
+
+Cuando se trate de plantíos de mariguana, papaver somníferum o adormidera u otros estupefacientes, el Ministerio Público, la Policía Judicial o las autoridades que actúen en su auxilio, procederán a la destrucción de aquéllos, levantando un acta en la que se haga constar: el área del cultivo, cantidad o volumen del estupefaciente, debiéndose recabar muestras del mismo para que obren en la averiguación previa que al efecto se inicie.
+
+Cuando se asegure mariguana en cantidad mayor de diez kilogramos, el Ministerio Público procederá a su destrucción, previa la inspección del vegetal en la que se determinará: el peso y las demás características de éste. Se conservará una muestra representativa suficiente para la elaboración de los dictámenes periciales, a fin de que obre en la averiguación previa correspondiente.
 
 ###### ARTICULO 182.
 
@@ -2873,15 +2881,21 @@ En el caso de hallarse prófugo el inculpado, se continuará la tramitación del
 
 Las providencias precautorias que pudiere intentar quien tenga derecho a la reparación, se regirán por lo que dispone el Código Federal de Procedimientos Civiles, sin perjuicio de las facultades que las leyes conceden al Fisco para asegurar su interés.
 
-### CAPITULO III. Toxicómanos
+### CAPITULO III
+
+De los que tienen el hábito o la necesidad de consumir estupefacientes o psicotrópicos.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 494.
 
 Los incidentes cuya tramitación no se detalle en este Código y que, a juicio del tribunal, no puedan resolverse de plano y sean de aquéllos que no deban suspender el curso del procedimiento, se substanciarán por separado y del modo siguiente: se dará vista de la promoción del incidente a las partes, para que contesten en el acto de la notificación o a más tardar al día siguiente. Si el tribunal lo creyere necesario o alguna de las partes lo pidiere, se abrirá un término de prueba que no exceda de cinco días, después de los cuales se citará para una audiencia que se verificará dentro de los tres siguientes. Concurran o no las partes, el tribunal fallará desde luego el incidente.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 TITULO DECIMOSEGUNDO
 
-Procedimiento relativo a los enfermos mentales, a los menores y a los toxicómanos
+Procedimiento relativo a los enfermos mentales, a los menores y a los que tienen el hábito o la necesidad de consumir estupefacientes o psicotrópicos.
 
 ### CAPITULO I. Disposiciones generales
 
@@ -3081,29 +3095,37 @@ En el caso del segundo párrafo del artículo 122 del Código Penal, el jefe de 
 
 El Ministerio Público no tendrá intervención alguna en los procedimientos de los tribunales para menores.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ### CAPITULO III. Libertad preparatoria
 
 ###### ARTICULO 523.
 
-Cuando el Ministerio Público tenga conocimiento de que una persona ha hecho uso de drogas, substancias, semillas o plantas enervantes, al iniciar su averiguación se pondrá inmedaitamente (sic) en relación con el Departamento de Salubridad Pública o con el Delegado de éste que hubiere en el lugar, para determinar la intervención que deban tener en el caso las autoridades sanitarias o las judiciales.
+Cuando el Ministerio Público tenga conocimiento de que una persona ha hecho uso indebido de estupefacientes o psicotrópicos, al iniciar su averiguación, se pondrá inmediatamente en relación con la autoridad sanitaria federal correspondiente para determinar la intervención que ésta deba tener en el caso.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 524.
 
-Si la averiguación se refiere a la compra o a la posesión de enervantes, el Ministerio Público, de acuerdo con las autoridades sanitarias a que se refiere el artículo anterior, precisará acuciosamente si esa compra o posesión tiene por finalidad exclusiva el uso personal que de ellas haga el inculpado. En este caso y siempre que el diagnóstico que se haga por la autoridad sanitaria indique que el inculpado es un toxicómano, no hará consignación a los tribunales; en caso contrario, ejercitará la acción penal.
+Si la averiguación se refiere a la adquisición y posesión de estupefacientes o psicotrópicos, el Ministerio Público, de acuerdo con la autoridad sanitaria a que se refiere el artículo anterior, precisará acuciosamente si esa posesión tiene por finalidad exclusiva el uso personal que de ellos haga el indiciado. En este caso, y siempre que el dictamen hecho por la autoridad sanitaria indique que el inculpado tiene el hábito o necesidad de consumir ese estupefaciente o psicotrópico y la cantidad sea la necesaria para su propio consumo, no hará consignación a los tribunales; en caso contrario, ejercitará acción penal.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 525.
 
-Si se hubiere hecho la consignación y durante las setenta y dos horas que señala el artículo 19 constitucional, se formula o se rectifica el diagnóstico en el sentido de que el inculpado sí es toxicómano, el Ministerio Público se desistirá de la acción penal sin necesidad de consulta al Procurador, y pedirá al tribunal que el detenido sea puesto a disposición del Departamento de Salubridad o del Delegado de éste que corresponda, para que se le interne en el hospital o departamento especial destinado a toxicómanos por el tiempo que sea necesario para su curación.
+Si se hubiere hecho la consignación y dentro de las setenta y dos horas que señala el artículo 19 constitucional, se formula o se rectifica el dictamen en el sentido de que el inculpado tiene hábito o la necesidad de consumir el estupefaciente o psicotrópico y la cantidad sea la necesaria para su propio consumo, el Ministerio Público se desistirá de la acción penal sin necesidad de consulta al Procurador y pedirá al tribunal que el detenido sea puesto a disposición de la autoridad sanitaria federal para su tratamiento, por el tiempo necesario para su curación.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 526.
 
-Si el inculpado que compró o posee enervantes para su uso exclusivo, hubiere comerciodo, (sic) elaborado, enajenado, ministrado gratuitamente, o ejecutado cualquier otro acto de suministro o tráfico de enervantes, se le consignará a los tribunales por este motivo, sin perjuicio de la intervención del Departamento de Salubridad Pública o del Delegado, en su caso, para su tratamiento durante la detención o prisión, o después de ella, si fuere necesario todavía.
+Si el inculpado está habituado o tiene la necesidad de consumir estupefacientes o psicotrópicos y además de adquirir o poseer los necesarios para su consumo, comete cualquier delito contra la salud, se le consignará, sin perjuicio de que intervenga la autoridad sanitaria federal para su tratamiento.
 
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 527.
 
-El Departamento de Salubridad Pública, sus Delegados, o cualquier otro perito médico oficial, a falta de aquéllos, rendirán en todo caso a los tribunales dictamen sobre los caracteres organolépticos o químicos de la substancia, droga, semilla o planta recogida. Estos dictámenes, cuando hubiere detenido, serán rendidos dentro del término de setenta y dos horas a que se refiere el artículo 19 constitucional.
+Cuando exista aseguramiento de estupefacientes o psicotrópicos, los peritos de la autoridad sanitaria federal o cualesquiera otros oficiales, rendirán al Ministerio Público o a los tribunales, un dictamen sobre los caracteres organolépticos o químicos de la sustancia asegurada. Este dictamen cuando hubiere detenido, será rendido dentro del término de setenta y dos horas a que se refiere el artículo 19 constitucional.
 
 TITULO DECIMOTERCERO
 
@@ -3420,3 +3442,19 @@ D.O.F. 19 DE MARZO DE 1971.
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor simultáneamente a la reforma del artículo 90 del Código Penal, ya aprobada por el H. Congreso de la Unión.
+
+D.O.F. 31 DE DICIEMBRE DE 1974.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a las presentes rformas (sic).
+
+###### ARTICULO CUARTO.
+
+Por lo que hace al Código Federal de Procedimientos Penales, todos los asuntos que estén tramitándose al comenzar a regir este Decreto, se sujetarán a sus disposiciones.
