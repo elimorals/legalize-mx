@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-crea-el-colegio-de-bachilleres-antes-ley-que-crea-24643
 country: "mx"
 rank: "ley"
 publication_date: "1978-08-09"
-last_updated: "1990-10-09"
+last_updated: "2000-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "CHP"
 ---
 # LEY QUE CREA EL COLEGIO DE BACHILLERES -ANTES LEY QUE CREA EL COLEGIO DE BACHILLERES DEL ESTADO DE CHIAPAS-
 
-LEY QUE CREA EL COLEGIO DE BACHILLERES DEL ESTADO DE CHIAPAS
+LEY QUE CREA EL COLEGIO DE BACHILLERES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2000.
 
 Ley Publicada en Alcance al No. 32 del Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 9 de agosto de 1978.
 
-LICENCIADO SALOMON GONZALEZ BLANCO, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, A SUS HABITANTES HACE SABER: QUE LA HONORABLE QUINCUAGESIMA TERCERA LEGISLATURA DEL MISMO, SE HA SERVIDO DIRIGIR AL EJECUTIVO DE SU CARGO EL SIGUIENTE:
+> <small>N. DE E. ES DE OBSERVARSE QUE MEDIANTE DECRETO PUBLICADO EN P.O. DE FECHA 8 DE DICIEMBRE DE 2000, SE "REFORMAN LOS DECRETOS DE CREACION DE DIVERSOS ORGANISMOS DESCENTRALIZADOS DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS PARA MODIFICAR LA DENOMINACION DE LOS MISMOS", ASI COMO LA LEGISLACION ESTATAL, CUANDO ESTA SE REFIERA A SU DENOMINACION ANTERIOR.</small>
+
+LICENCIADO SALOMON GONZALES BLANCO, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, A SUS HABITANTES HACE SABER: QUE LA HONORABLE QUINCUAGESIMA TERCERA LEGISLATURA DEL MISMO, SE HA SERVIDO DIRIGIR AL EJECUTIVO DE SU CARGO EL SIGUIENTE:
 
 DECRETO NUMERO 133
 
@@ -43,9 +45,13 @@ CONSIDERANDO: Que esta Institución, responderá a una nueva modalidad de la edu
 
 Por las consideraciones anteriores y con fundamento además en la Fracción VII del artículo 34 de la Constitución Política Local, se expide la siguiente:
 
-LEY QUE CREA EL COLEGIO DE BACHILLERES DEL ESTADO DE CHIAPAS.
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-ARTICULO 1/o.- Se crea el Colegio de Bachilleres de Chiapas, como Organismo Público Descentralizado, con personalidad jurídica y patrimonio propios y domicilio en la ciudad de Tuxtla Gutiérrez, Chiapas.
+LEY QUE CREA EL COLEGIO DE BACHILLERES.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 1/o.- Se crea el Colegio de Bachilleres, como Organismo Público Descentralizado, con personalidad jurídica y patrimonio propios y domicilio en la ciudad de Tuxtla Gutiérrez, Chiapas.
 
 ARTICULO 2/o.- El Colegio de Bachilleres tendrá por objeto impartir e impulsar la educación correspondiente al ciclo superior de nivel medio y tendrá las siguientes facultades:
 
@@ -61,7 +67,9 @@ V.- Establecer convenios de coordinación académica con otras instituciones.
 
 VI.- Ejercer las demás que sean afines a las anteriores.
 
-ARTICULO 3/o.- El Colegio de Bachilleres de Chiapas, se regirá por lo dispuesto en la Ley Federal de Educación, la Ley de Educación Pública del Estado, las normas que de éstas emanen, y por los planes de organización académica del Colegio de Bachilleres de la ciudad de México.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 3/o.- El Colegio de Bachilleres, se regirá por lo dispuesto en la Ley Federal de Educación, la Ley de Educación Pública del Estado, las normas que de éstas emanen, y por los planes de organización académica del Colegio de Bachilleres de la ciudad de México.
 
 ARTICULO 4/o.- El patrimonio del Colegio estará constituído por:
 
@@ -89,7 +97,7 @@ ARTICULO 6/o.- Los acuerdos de los órganos colegiados de la Institución se tom
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
-ARTICULO 7/o.- La Junta Directiva estará integrada por el Secretario de Educación, Cultura y Salud del Estado, el Secretario de Programación y Presupuesto, el Director General de los Servicios Coordinados de Educación Pública en la Entidad y dos miembros nombrados por el Gobernador del Estado, será presidida permanentemente por el que éste designe.
+ARTICULO 7/o.- La junta directiva estará integrada por el Secretario de Educación, Cultura y Salud del Estado, el Secretario de Programación y Presupuesto, el Director General de los Servicios Coordinados de Educación Pública en la Entidad y dos miembros nombrados por el Gobernador del Estado. Será presidida permanentemente por el que éste designe.
 
 ARTICULO 8/o.- Los miembros que designe el Ejecutivo del Estado, podrán ser removidos libremente por éste, y deberán satisfacer los siguientes requisitos:
 
@@ -216,3 +224,17 @@ EL GOBERNADOR DEL ESTADO.- LIC. SALOMON GONZALEZ BLANCO.- EL SECRETARIO GRAL. DE
 P.O. 9 DE OCTUBRE DE 1990.
 
 PRIMERO.- ESTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+P.O. 8 DE DICIEMBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA OCHO DE DICIEMBRE DEL AÑO DOS MIL.
+
+###### ARTICULO SEGUNDO.
+
+LA MODIFICACION A QUE SE REFIERE EL PRESENTE DECRETO SERA APLICABLE AL TEXTO DE LOS DECRETOS DE CREACION DE LOS ORGANISMOS DESCENTRALIZADOS OBJETO DEL MISMO, Y DEBERA SER ADECUADA LA LEGISLACION ESTATAL, CUANDO ESTA SE REFIERA A SU DENOMINACION ANTERIOR.
+
+###### ARTICULO TERCERO.
+
+EL TITULAR DEL PODER EJECUTIVO DEL ESTADO A TRAVES DE LA SECRETARIA DE GOBIERNO, REALIZARA LOS ACTOS NECESARIOS PARA EL DEBIDO CUMPLIMIENTO DEL PRESENTE DECRETO.
