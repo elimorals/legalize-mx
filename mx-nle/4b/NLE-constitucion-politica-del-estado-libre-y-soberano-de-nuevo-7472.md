@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1993-03-24"
+last_updated: "1993-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1993.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -85,11 +85,15 @@ I.- A la protección decidida y eficaz de las leyes y de las autoridades del Est
 
 II.- A la preferencia, en igualdad de circunstancias, en toda clase de concesiones y para todos los empleos, honores o cargos públicos dependientes del Estado o de los Municipios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 1993)</small>
+
 ###### Art. 34.
 
-Es obligación de los Nuevoleoneses:
+Son obligaciones de los nuevoleoneses:
 
-I.- Hacer que sus hijos o pupilos de edad escolar concurran a las Escuelas Públicas o privadas, para obtener la educación Primaria Elemental y militar durante el tiempo que marque la ley de Instrucción Pública.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1993)</small>
+
+I.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas para obtener la educación primaria y secundaria y reciban la militar en los términos que establezca la ley.
 
 II.- Asistir en los días y horas designados por el Ayuntamiento del lugar en que residan, para recibir instrucción cívica y militar que los mantenga aptos en el ejercicio de los derechos de ciudadano, diestros en el manejo de las armas y conocedores de la disciplina militar.
 
@@ -187,6 +191,10 @@ Los partidos políticos son entidades de interés público. Tienen como finalida
 
 El Gobierno del Estado garantizará en todo tiempo la libertad de los partidos políticos para la difusión de sus principios y programas y gozarán de financiamiento público para el cumplimiento de sus fines.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 1993)</small>
+
+La Ley establecerá las reglas a que se sujetarán el financiamiento de los Partidos y sus campañas electorales.
+
 Los partidos políticos que actúen en la entidad, deberán respetar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, y las Leyes que de ellas emanen.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
@@ -195,11 +203,15 @@ Los partidos políticos que actúen en la entidad, deberán respetar la Constitu
 
 Corresponde a los Poderes del Estado, a los partidos políticos y a los ciudadanos, la preparación, desarrollo y vigilancia de los procesos electorales. La Ley determinará la participación de los mismos en dichos procesos y en la integración y funcionamiento de los organismos electorales.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1993)</small>
 
 ###### Art. 44.
 
-Para resolver las controversias que se susciten en los procesos electorales habrá un Tribunal de la materia, cuya integración, competencia y alcance de sus resoluciones serán definidas por la Ley respectiva. En lo referente a la calificación y nulidad de las elecciones, el Congreso del Estado ejercerá las facultades que esta misma Constitución y las leyes establecen.
+Para resolver las controversias que se susciten en los procesos electorales habrá un Tribunal de la materia, cuya integración, competencia y alcance de sus resoluciones serán definidas por la Ley respectiva. En lo referente a la calificación y nulidad de la elección de Gobernador, el Congreso del Estado ejercerá las facultades que esta misma Constitución y las leyes establecen.
+
+Para los procesos electorales, de Diputados y de Ayuntamientos, se integrará una Sala de segunda Instancia, con cinco profesionales de Derecho, quienes deberán reunir los mismos requisitos exigidos para ser Magistrado del Tribunal Superior de Justicia, los cuales serán dos propuestos por el Ejecutivo del Estado, previa consulta formal en reunión privada con los Directores de las Escuelas y Facultades de Derecho de la entidad; otros dos propuestos por el Pleno del Tribunal Superior del Justicia y uno propuesto por la Comisión Estatal Electoral.
+
+El Congreso del Estado hará la ratificación correspondiente. El Presidente de esta Sala será electo internamente por sus integrantes de entre alguno de sus miembros. Esta Sala revisará exclusivamente las resoluciones del Tribunal Electoral mediante el recurso que los Partidos Políticos podrán interponer cuando hagan valer agravios debidamente fundados, por los que se pueda modificar el resultado de la elección. Los fallos de esta Sala serán definitivos e inatacables. La Ley establecerá los propuestos procesales, requisitos de procedencia y el trámite para este medio de impugnación.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
 
@@ -215,11 +227,17 @@ El organismo electoral competente con la participación del Gobierno del Estado,
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 1993)</small>
 
 ###### Art. 46.
 
-Se deposita el Poder Legislativo en un Congreso que se renovará cada tres años, compuesto por veintiséis diputados electos por mayoría relativa, votados en Distritos Electorales Uninominales, y hasta catorce electos por el principio de representación proporcional, designados de acuerdo a las bases y formas que establece la Ley Electoral.
+Se deposita el Poder Legislativo en un Congreso que se renovará cada tres años, compuesto por veintiséis Diputados electos por mayoría relativa, votados en distritos electorales uninominales y hasta dieciséis electos por el principio de representación proporcional, designados de acuerdo a las bases y formas que establece La Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 1993)</small>
+
+A ningún Partido Político se le podrán asignar más de veintiséis diputaciones por ambos principios, además, tampoco a ningún partido se le podrán asignar más de catorce diputaciones por el principio de representación proporcional.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
 
 Los Diputados de mayoría relativa y de representación proporcional tendrán la misma categoría e iguales facultades y obligaciones.
 
@@ -391,9 +409,9 @@ XIII.- Revisar y aprobar en su caso, cada año y cuando lo juzgue conveniente, l
 
 XIV.- Promover e impulsar la educación pública y el engrandecimiento de todos los ramos de prosperidad en general.
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1993)</small>
 
-XV.- Calificar la elección de Gobernador y Diputados; asignar de acuerdo con las bases y formas de la Ley reglamentaria las diputaciones de representación proporcional; y calificar la imposibilidad que aleguen los elegidos para no aceptar dichos cargos.
+XV.- Erigirse en Colegio Electoral para calificar la elección de Gobernador del Estado en la forma que se determine la Ley y conocer de las demandas de nulidad. Su resolución será definitiva e inatacable.
 
 XVI.- Recibir al Gobernador, Magistrados y Diputados, en su caso, la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ambas emanen.
 
@@ -513,6 +531,10 @@ XLIV.- Designar entre los vecinos los Consejos Municipales, hasta que concluya e
 
 XLV.- Instituir mediante las leyes que expida, el Tribunalde (sic) lo Contencioso Administrativo, dotado de autonomía plena en el pronunciamiento de sus fallos y con facultades para resolver los conflictos y controversias que se susciten entre el Estado, los Municipios, los Organismos Descentralizados y Empresas de participación estatales o municipales, y, los particulares, estableciendo las normas de su organización, su funcionamiento, los requisitos para nombramientos, licencias y renuncias de los Magistrados que lo integren, sus procedimientos y recursos contra las resoluciones que se pronuncien.
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 1993)</small>
+
+XLVI.- Ratificar a los integrantes de la Sala de Segunda Instancia del Tribunal Electoral del Estado.
+
 ###### Art. 64.
 
 No puede el Congreso:
@@ -549,15 +571,15 @@ IV.- Convocar al Congreso a sesiones extraordinarias cuando convenga a la salud 
 
 V.- Manifestar su opinión por escrito al Gobernador, en los casos en que éste tenga a bien pedirla.
 
-(REFORMADA, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1993)</small>
 
-VI.- Ejercer las facultades a que se refieren los artículos 52, 63 en sus fracciones IV, XV, XXI, XXXVI y XXXVII, 89, 90, 91, 97 y 98 de esta Constitución.
+VI.- Ejercer las facultades a que se refieren los Artículos 52, 63, en sus fracciones IV, XXI y XXXVI; 89, 90, 91, 97 y 98 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 VII.- Nombrar interinamente al Secretario de Finanzas y Tesorero General del Estado, a propuesta en terna del Poder Ejecutivo, y aprobar los nombramientos que haga el Gobernador del Estado de los Magistrados del Tribunal Superior de Justicia, cuando la falta absoluta ocurra durante un receso del Congreso, en los términos previstos por los artículos 97 y 98.
 
-VIII.- Recibir los expedientes de elecciones de todos los mandatarios públicos del Estado y practicar, para la renovación del Congreso, lo que prescribe la Ley Electoral y el Reglamento interior del mismo.
+VIII.- (DEROGADA, P.O. 20 DE OCTUBRE DE 1993)
 
 IX.- Recibir durante sus funciones las protestas que deben otorgarse ante el Congreso.
 
@@ -1453,9 +1475,13 @@ Ninguna corporación religiosa ni Ministro de algún culto podrán establecer o 
 
 Las escuelas particulares sólo podrán establecerse sujetándose a la vigilancia e inspección oficiales.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1993)</small>
 
-En los establecimientos oficiales se impartirá gratuitamente la enseñanza primaria.
+El Estado impartirá educación preescolar, primaria y secundaria. La educación primaria y secundaria son obligatorias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 1993)</small>
+
+La educación que imparta el Estado, será gratuita y tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él a la vez el amor a la patria y la conciencia de la solidaridad internacional en la independencia y en la justicia.
 
 > <small>(ADICIONADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
 
@@ -1675,15 +1701,27 @@ La propiedad de las personas no puede ser ocupada sin su consentimiento, sino po
 
 Los extranjeros, las asociaciones religiosas denominadas iglesias, las instituciones de beneficiencia (sic) pública o privada y las sociedades mercantiles por acciones estarán sujetos, en la adquisición de la propiedad raíz, a las disposiciones y taxativas enumeradas en el Artículo 27 de la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1962)</small>
-
-El Estado de Nuevo León y sus Municipios tienen derecho para adquirir, poseer y administrar bienes raíces, en cuanto basten a sus necesidades y servicios públicos; y solo podrán enajenarse esta clase de bienes, cualquiera que sea su origen, su destino y carácter, o gravarse en alguna forma que afecte su libre uso por término mayor de cinco años, mediante Decreto del Congreso del Estado, siendo inexistentes las enajenaciones y contratos que sin la autorización aludida se efectúen. Las desafectaciones de los bienes de uso común o los destinados a un servicio público, solo podrán ser decretadas por el H. Congreso del Estado.
-
 Una Ley del Congreso establecerá; la extensión máxima de terreno de que pueda ser dueño un individuo o sociedad e indicará la forma y términos en que se ha de fraccionar la excedente. La misma Ley determinará el modo de disolver las comunidades y organizará el patrimonio de la familia.
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 1980)</small>
 
 El Congreso del Estado podrá legislar en materia de Asentamientos Humanos y Desarrollo Urbano, contemplando el interés de la Sociedad en su conjunto, previendo el mejor uso del suelo, la atmósfera y las aguas, cuidando su conservación y estableciendo adecuadas provisiones, usos, reservas territoriales y orientando el destino de tierras, aguas y bosques de jurisdicción estatal a fin de garantizar a la población un mejor desarrollo urbano, imponiendo a la propiedad privada las modalidades que dicte el interés público.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1993)</small>
+
+El Ejecutivo del Estado deberá formular, aprobar y administrar el Programa Estatal de Desarrollo Urbano, así como participar conjunta y coordinadamente con los Municipios, en la planeación y regulación de las zonas de conurbación, en los términos que señale la legislación correspondiente.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1993)</small>
+
+Los Municipios del Estado deberán formular, aprobar y administrar los Planes o Programas Municipales de Desarrollo Urbano, de centros de población y los demás derivados de los mismos en los términos de la Ley; así como, participar en la planeación y regulación de las zonas de conurbación, conjunta y coordinadamente con el Ejecutivo y demás Municipios comprendidos dentro de la misma, conforme a la legislación correspondiente.
+
+(REFORMADO, P.O. 9 DE JUNIO DE 1962) (REUBICADO, P.O. 20 DE OCTUBRE DE 1993)
+
+El Estado de Nuevo León y sus Municipios tienen derecho para adquirir, poseer y administrar bienes raíces, en cuanto basten a sus necesidades y servicios públicos; y solo podrán enajenarse esta clase de bienes, cualquiera que sea su origen, su destino y carácter, o gravarse en alguna forma que afecte su libre uso por término mayor de cinco años, mediante Decreto del Congreso del Estado, siendo inexistentes las enajenaciones y contratos que sin la autorización aludida se efectúen. Las desafectaciones de los bienes de uso común o los destinados a un servicio público, solo podrán ser decretadas por el H. Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1993)</small>
+
+El Estado de Nuevo León y sus Municipios llevarán a cabo acciones coordinadas, entre sí y con la Federación, en materia de reservas territoriales para el desarrollo urbano y la vivienda, con el objeto de establecer una política integral de suelo urbano y reservas territoriales, mediante la programación de las adquisiciones y la oferta de tierra, evitando la especulación de inmuebles. Para ello, podrán a través de sus dependencias o entidades encargadas, ejercer el derecho de preferencia que las leyes otorgan.
 
 ###### Art. 24.
 
@@ -2112,3 +2150,23 @@ UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publica
 P.O. 24 DE MARZO DE 1993.
 
 UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 1993.
+
+DECRETO NUMERO 199, QUE REFORMA LOS ARTICULOS 3o. Y 34 FRACCION I, DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 1993.
+
+DECRETO NUMERO 200, QUE REFORMA EL ARTICULO 23 DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 1993.
+
+DECRETO NUMERO 203, QUE REFORMA LOS ARTICULOS 42, 44, 46, 63 FRACCION XV Y 66 FRACCION VI Y SE ADICIONA UNA FRACCION XLVI DEL ARTICULO 63 Y SE DEROGA LA FRACCION VIII DEL ARTICULO 66 DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+
+PRIMERO:- Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+SEGUNDO:- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
