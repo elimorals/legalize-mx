@@ -4,7 +4,7 @@ identifier: "FED-codigo-sanitario-de-los-estados-unidos-mexicanos-50076"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-31"
-last_updated: "1941-12-06"
+last_updated: "1945-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50076&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,9 +23,7 @@ issue_date: "1934-08-20"
 
 CÓDIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE ENERO DE 1941.
-
-> <small>[N. DE E. CONTIENE EL "ACUERDO QUE ADICIONA LA LISTA DE ENFERMEDADES TRANSMISIBLES" AL ARTÍCULO 137, PUBLICADO EN LA SECCIÓN PRIMERA DEL DIARIO OFICIAL EL SÁBADO 6 DE DICIEMBRE DE 1941.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE ENERO DE 1945.
 
 Código publicado en la Sección Segunda al Número 53, del Diario Oficial, el viernes 31 de agosto de 1934.
 
@@ -3237,11 +3235,23 @@ El Jefe del mismo Departamento, tomando en consideración las razones aducidas p
 
 Las resoluciones que se dicten por el Jefe del Departamento, con motivo de las solicitudes de revisión y de reconsideración a que se refieren los artículos anteriores, no admitirán ulterior recurso en la vía administrativa.
 
+> <small>(REFORMADO, D.O. 31 DE ENERO DE 1945)</small>
+
 ###### ARTICULO 506.
 
-En los casos de revisión y reconsideración a que se refieren los artículos anteriores, sólo se suspenderá la ejecución de la pena, si el recurrente deposita el importe de la multa en la oficina correspondiente.
+En los casos de revisión y reconsideración a que se refieren los artículos anteriores, se suspenderá la ejecución de la pena, si el recurrente garantiza el importe de la multa ante la oficina correspondiente, en cualquiera de las siguientes formas:
 
-Cuando la multa se hubiere hecho efectiva o depositado y fuese condonada o reducida, se devolverá al interesado su totalidad o la parte que corresponda.
+I.- Depósito en efectivo;
+
+II.- Prenda o hipoteca;
+
+III.- Secuestro de negociaciones o bienes bastantes;
+
+IV.- Fianza de compañía autorizada o de persona física o moral que acredite tener bienes raíces inscritos en el Registro de la Propiedad, por valor que garantice suficientemente las obligaciones que contraiga.
+
+Los fiadores deberán renunciar (sic) todos los beneficios legales y someterse expresamente al procedimiento administrativo de ejecución.
+
+Cuando la multa fuere declarada insubsistente, condonada o reducida, se devolverán al interesado en su totalidad, o en la parte que corresponda, el depósito o los bienes dados en prenda o secuestrados, o se cancelará o reducirá proporcionalmente la hipoteca o fianza constituída.
 
 ###### ARTICULO 507.
 
@@ -3348,3 +3358,9 @@ D.O. 6 DE DICIEMBRE DE 1941.
 El Departamento de Salubridad Pública, en uso de la facultad que le concede el artículo 137 del Código Sanitario, y para los efectos que el propio artículo determina, declara que se consideran como enfermedades transmisibles, además de las que enumera dicho precepto legal, las siguientes:
 
 Lesiones supuradas (incluyendo heridas y úlceras infectadas, forunculosis, otitis supurada, panadizos, piodermitis y piorrea), pediculosis y sarna.
+
+D.O. 31 DE ENERO DE 1945.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 506 DEL CÓDIGO SANITARIO”.]
+
+ARTICULO TRANSITORIO.- El presente Decreto comenzará a regir al día siguiente de su publicación en el “Diario Oficial".
