@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2004-07-02"
+last_updated: "2004-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 58 ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE SEPTIEMBRE DE 2004 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE AGOSTO DE 2004 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JULIO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -1409,13 +1409,13 @@ La dependencia coordinadora del sector al que corresponda la empresa, en lo que 
 
 #### SECCIÓN CUARTA. De los Fideicomisos Públicos
 
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 54.
 
-Son fideicomisos públicos las entidades creadas por ley o decreto del Congreso, o por decreto del titular del Ejecutivo, que se constituyan con recursos de la Administración Pública Estatal y se organicen, de acuerdo a su normatividad interior, con el propósito de auxiliar al Ejecutivo en la realización de actividades prioritarias de interés público.
+Son fideicomisos públicos las entidades creadas por ley o decreto del Congreso o por decreto del Titular del Ejecutivo, que se constituyan con recursos que conforman la Hacienda Pública del Estado y se organicen, de acuerdo a su normatividad interior, con el propósito de auxiliar al Ejecutivo en la realización de actividades prioritarias de interés público.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
-
-Los Fideicomisos contarán con un Comité Técnico que será presidido por el Titular de la dependencia coordinadora de sector y contará con un representante de la Secretaría de Finanzas y Planeación, quien tendrá voz y voto. Asimismo, los que lo requieran, se auxiliarán de una estructura administrativa para el cumplimiento de sus objetivos, sujeta a las disposiciones legales aplicables y a los lineamientos que al efecto expidan la Secretaría de Finanzas y Planeación y la Contraloría General.
+Los fideicomisos contarán con un Comité Técnico que será presidido por la persona que al efecto se designe en su Decreto Constitutivo o en el Contrato de Fideicomiso; la Secretaría de Finanzas y Planeación designará, al menos, un representante en cada Comité Técnico, quien tendrá voz y voto. Asimismo, los que lo requieran, se auxiliarán de una estructura administrativa para el cumplimiento de sus objetivos, sujeta a las disposiciones legales aplicables y a los lineamientos que al efecto expidan la Secretaría de Finanzas y Planeación y la Contraloría General.
 
 > <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
@@ -1642,3 +1642,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Publíquese en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 10 DE AGOSTO DE 2004.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 856 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO, DEL CÓDIGO FINANCIERO PARA EL ESTADO, DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO Y DE LA LEY ORGÁNICA DEL PODER EJECUTIVO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO.- Las pólizas de fianza no fiscales otorgadas a favor de las dependencias y entidades del Poder Ejecutivo del Estado en fecha anterior al inicio de vigencia de este Decreto, observarán las disposiciones legales aplicables al momento de su emisión.
+
+CUARTO. Los Fideicomisos Públicos vigentes continuarán desempeñando las funciones que tienen encomendadas, bajo la dirección del Comité Técnico creado por virtud de su Decreto Constitutivo o, en su caso, de su Contrato de Fideicomiso.
