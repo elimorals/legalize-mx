@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-junta-administrativa-de-los-bienes-de-la-3278"
 country: "mx"
 rank: "reglamento"
 publication_date: "1946-02-03"
-last_updated: "1946-02-03"
+last_updated: "1949-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE LA JUNTA ADMINISTRATIVA DE LOS BIENES DE LA EDUCACION PUBLICA DEL MUNICIPIO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1949.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el domingo 3 de febrero de 1946.
 
@@ -81,9 +81,17 @@ Solamente la Junta tiene capacidad legal para contratar y obligarse así como pa
 
 El Presidente y el Secretario fungirán como ejecutores de las determinaciones tomadas en la Junta, ajustando su conducta a los términos expresos de los acuerdos de la misma.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1949)</small>
+
 ###### ARTICULO 11.
 
-La Junta no podrá destinar los productos de los bienes confiados a su administración a otros usos que no sean los de la educación pública en el Municipio de la Capital. En consecuencia, los fondos que recabe, íntegramente deberán destinarse a dicha educación, sin incorporarse a los ingresos generales del Municipio. Tampoco podrá celebrar contratos de arrendamiento por un término mayor de tres años. En igualdad de condiciones contratará con quienes hayan ocupado los locales por arrendamientos anteriores.
+La Junta no podrá destinar los productos de los bienes confiados a su administración a otros usos que no sean los de la Educación Pública del Municipio de la Capital. En consecuencia, los fondos que recabe, íntegramente deberán afectarse a dicha finalidad, sin que por ningún concepto puedan incorporarse a los ingresos generales del Municipio.
+
+En los casos en que los arrendamientos hagan por su cuenta los gastos de reconstrucción de sus respectivos locales, la Junta podrá celebrar contratos de arrendamiento hasta por el término de quince años, según sea necesario para que dichos arrendatarios puedan resarcirse de los gastos hechos.
+
+En casos especiales y cuando el pretenso arrendatario sea alguna institución de beneficencia pública o de interés general, la Junta podrá darle en arrendamiento alguno de sus bienes, sin límites en cuanto al término, mediante acuerdo del H. Ayuntamiento.
+
+En todos los demás casos, los contratos de arrendamiento que respecto de sus bienes celebre la Junta, no podrá tener vigencia mayor de tres años.
 
 ###### ARTICULO 12.
 
@@ -144,3 +152,11 @@ La Junta precederá a revisar los contratos y en general todos los actos jurídi
 Este Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Dado en el Salón de Cabildos del I. Ayuntamiento de Aguascalientes, Ags., a veintiocho de enero de mil novecientos cuarenta y seis. Doctor Enrique Osornio Camarena, Regidor Primero y Presidente; José Calvario; Regidor segundo; Gilberto Leyva, Regidor tercero; Tiburcio Caldera, Regidor cuarto; Juan Ramírez, Regidor sexto; Eugenio Hernández, Regidor séptimo; Lic. Benito Palomino Dena, Síndico Primero; Alejandro Topete del Valle, Secretario.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE ENERO DE 1949.
+
+1o.- Esta disposición entrará en vigor a los tres días de su publicación en el Periódico Oficial.
+
+2o.- Los actuales arrendatarios de los bienes administrados por la Junta, serán preferidos para que, en igualdad de circunstancias, se les otorguen los nuevos contratos de arrendamiento.
