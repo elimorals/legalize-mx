@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1948-05-15"
+last_updated: "1948-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1948.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -11705,11 +11705,11 @@ Se prohibe a los Magistrados, a los Jueces y a cualesquiera otros empleados púb
 
 Se prohibe a los encargados de los establecimientos públicos y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1942)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1948)</small>
 
 ###### Artículo 2288.
 
-El arrendamiento debe otorgarse por escrito sea cual fuere el precio del arrendamiento.
+Todo contrato de arrendamiento de finca urbana deberá otorgarse por escrito, cualquiera que sea el monto de la renta convenida; pero la presentación del documento no será exigible como requisito, cuando habiéndose extraviado o inutilizado, conste por cualquiera diligencia judicial la prueba plena de que ha existido.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 1941)</small>
 
@@ -11943,7 +11943,7 @@ El propietario no puede rehusar como fiador a una persona que reúna los requisi
 
 Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
 
-No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2331.
+No puede renunciarse anticipadamente el derecho de cobrar la indemnización que conceden los Artículos 2330, 2331 y 2332.
 
 ###### Artículo 2334.
 
@@ -14805,7 +14805,7 @@ De las Oficinas del Registro.
 
 ###### Artículo 2877.
 
-Satisfechos los créditos de que ha habla (sic) anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
+Satisfechos los créditos de que se ha habla (sic) anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
 ### CAPITULO II.
 
@@ -15232,3 +15232,7 @@ Artículo Cuarto.- Este decreto empezará a surtir sus efectos a partir del día
 P.O. 15 DE MAYO DE 1948.
 
 Artículo Unico.- El presente Decreto comenzará a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 1948.
+
+UNICO.- El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
