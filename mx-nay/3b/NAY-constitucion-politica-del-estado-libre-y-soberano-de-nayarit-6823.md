@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1958-10-29"
+last_updated: "1969-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1958.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1969.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -299,11 +299,11 @@ II. Tener 25 años de edad, cumplidos el día de la elección.
 
 III. Ser originario del Estado o tener residencia efectiva no menor de 5 años inmediatamente anteriores al día de la elección en el Distrito que vaya a representar.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
 ###### Art. 29.
 
-No pueden ser Diputados: el Gobernador del Estado, el Secretario General de Gobierno, el Oficial Mayor del mismo, los Magistrados del Supremo Tribunal de Justicia en funciones, el Procurador General de Justicia; los miembros del Ejército Nacional o de las fuerzas del Estado en servicio activo, los Jueces de Primera Instancia y Menores, los Presidentes Municipales en sus respectivas Jurisdicciones, a menos que se separen de su cargo o servicio noventa días ante de la elección.
+No pueden ser Diputados: El Gobernador del Estado los Directores Generales de Gobernación y de Administración, los Magistrados del Supremo Tribunal de Justicia en funciones, el Procurador General de Justicia, los miembros del Ejército Nacional o de las Fuerzas del Estado en servicio activo, los Jueces de Primera Instancia o Menores, los Presidentes Municipales en sus respectivas jurisdicciones, a menos pue (sic) se separen de su cargo o servicio 90 días ante de la elección.
 
 ###### Art. 30.
 
@@ -471,9 +471,9 @@ XIII. Elegir quien deba sustituir al Gobernador en sus faltas.
 
 XIV. Autorizar al Ejecutivo para gravar, enajenar y ceder los bienes del Estado, así como contraer obligaciones a nombre del mismo.
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
-XV. Declarar, a pedimento del Procurador General de Justicia cuando ha lugar a formación de causa contra el Gobernador, los Magistrados del Supremo Tribunal de Justicia, el Secretario General de Gobierno y el Tesorero General del Estado, tanto por delitos de orden común, como por delitos y faltas oficiales, erigiéndose para el caso en Gran Jurado. Tratándose del Procurador General de Justicia, la petición deberá hacerla el Agente del Ministerio Público adscrito a la Procuraduría.
+XV. Declarar, a pedimento del Procurador General de Justicia, cuando a (sic) lugar a formación de causa contra el Gobernador, los Magistrados del Supremo Tribunal de Justicia y el Director General de Gobernación, tanto por delitos de orden común, como por delitos y faltas oficiales, erigiéndose para el caso en Gran Jurado. Tratándose del Procurador General de Justicia, la petición deberá hacerla el Agente del Ministerio Público adscrito a la Procuraduría.
 
 XVI. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 1941)
 
@@ -653,7 +653,9 @@ I. Ser ciudadano mexicano por nacimiento, hijo de padres mexicanos, nativo del E
 
 II. Tener treinta y cinco años de edad cumplidos el día de la elección y no más de sesenta y cinco.
 
-III. No ser Secretario General de Gobierno, Magistrado del Supremo Tribunal, Procurador General de Justicia, Juez de Primera Instancia o Presidente Municipal; ni estar en servicio activo en el Ejército Nacional o fuerzas del Estado, salvo que se hubieren separado de sus cargos o servicio lo menos noventa días antes de la elección.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1969)</small>
+
+III. No ser Director General de Gobernación, Magistrado del Supremo Tribunal, Procurador General de Justicia, Juez de Primera Instancia o Presidente Municipal; ni estar en servicio activo en el Ejército Nacional o Fuerzas del Estado, salvo que se hubieren separado de sus cargos o del servicio lo menos 90 días antes de la elección.
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -745,17 +747,17 @@ VII.- Visitar los Municipios del Estado, para conocer sus necesidades, remediar 
 
 VIII.- Convocar a la Legislatura a sesiones extraordinarias.
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 1943)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
-IX.- Tomar parte sin voto, en la discusión de las Leyes o Decretos, o comisionar para ello ante el Congreso al Secretario General o a cualquier otra persona.
+IX.- Tomar parte sin voto, en la discusión de las Leyes o Decretos, o comisionar para ello ante el Congreso al Director General de Gobernación o a cualquiera otra persona.
 
 X.- Hacer cumplir los fallos y sentencias de los Tribunales y prestar a éstos el auxilio que necesiten para el ejercicio expedito de sus funciones.
 
 XI.- Impartir a los Tribunales el auxilio que demanden para el desempeño de sus funciones.
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 1926)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
-XII.- Nombrar y remover libremente al Secretario General de Gobierno, al Procurador General de Justicia y a los demás empleados cuyo nombramiento no esté encomendado a otras Autoridades.
+XII.- Nombrar y remover libremente a los Directores Generales, al Procurador General de Justicia y a los demás empleados cuyo nombramiento no esté encomendado a otras autoridades.
 
 XIII.- Llevar las comunicaciones y relaciones del Estado con el Gobierno General y con los de los otros Estados.
 
@@ -829,57 +831,69 @@ VII. Ejercer influencia en cualquier sentido que pueda entorpecer la acción de 
 
 VIII. Mandar inmediata y personalmente, en campaña la Guardia Nacional, y demás fuerzas del Estado, sin haber obtenido permiso de la Legislatura o de la Diputación permanente.
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
-IX. Promulgar leyes, decretos y reglamentos, expedir órdenes de pago, sin que vayan autorizadas por la firma del Secretario General de Gobierno o de quien haga sus veces.
+IX. Promulgar Leyes, Decretos y Reglamentos, expedir órdenes de pago, sin que vayan autorizadas con la firma del Director General de Gobernación o de quien haga sus veces.
 
 ###### Art. 71.
 
 El Gobernador del Estado durante el tiempo de sus funciones, será responsable por los delitos oficiales que cometa.
 
-### CAPITULO VIII. Del Secretario General de Gobierno
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1969)</small>
+
+### CAPITULO II (sic). Del Director General de Gobernación
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
 ###### Art. 72.
 
-Para el despacho de los negocios oficiales del Poder Ejecutivo, habrá un funcionario responsable que se denominará "SECRETARIO GENERAL DE GOBIERNO".
+Para el despacho de los negocios oficiales del Poder Ejecutivo, habrá un funcionario responsable que se denominará Director General de Gobernación.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
 ###### Art. 73.
 
-Para ser Secretario General de Gobierno se requiere:
+Para ser Director General de Gobernación se requiere: ser mexicano por nacimiento, en el ejercicio pleno de sus derechos; ser mayor de 30 años; no ser militar en servicio activo, ni ministro de algún culto religioso.
 
-Ser mexicano por nacimiento, en el ejercicio pleno de sus derechos; ser mayor de treinta años, no ser militar en servicio activo, ni ministro de algún culto religioso.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
 ###### Art. 74.
 
-Los acuerdos, circulares, órdenes y disposiciones que dicte el Gobernador, así como los documentos que suscriba en el ejercicio de sus funciones constitucionales, deberán ser autorizados por el Secretario, sin cuyo requisito no surtirán efectos legales.
+Los acuerdos, circulares, órdenes y disposiciones que dicte el Gobernador, así como los documentos que suscriba en el ejercicio de sus funciones constitucionales, deberán ser autorizadas por el Director General de Gobernación y por el Director General encargado del ramo a que el asunto corresponda, sin cuyo requisito no surtirán efectos legales.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
 ###### Art. 75.
 
-El Secretario General de Gobierno, es responsable de las disposiciones del Gobernador que autorice con su firma, cuando fueren contrarias a la Constitución y leyes Federales, o a la Constitución y Leyes del Estado.
+El Director General de Gobernación es responsable de las disposiciones del Gobernador, que autorice con su firma, cuando fueren contrarias a la Constitución y Leyes Federales, o a la Constitución y Leyes del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
 ###### Art. 76.
 
-Las faltas temporales del Secretario, serán suplidas por el Oficial Mayor de la Secretaría, con las mismas responsabilidades y prerrogativas que aquél.
+Las faltas temporales del Director General de Gobernación serán suplidas por el Director General de Administración, en cuyo caso tendrá las mismas responsabilidades y prerrogativas de aquél.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
 ###### Art. 77.
 
-El Secretario General de Gobierno y el Oficial Mayor en su caso, concurrirá a las sesiones del Congreso, cuando el Gobernador, conforme a esta Constitución deba asistir, y cuando fuere requerido por la Legislatura, para informar sobre algún asunto.
+El Director General de Gobernación o el de Administración, en su caso, concurrirán a las sesiones del Congreso cuando el Gobernador, conforme a esta Constitución, deba asistir. Los Directores Generales sólo cuando el Gobernador fuere requerido para informar sobre algún asunto encomendado a ellos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
 ###### Art. 78.
 
-El Secretario General de Gobierno, mientras esté en ejercicio de sus funciones, no podrá patrocinar a particulares en asuntos judiciales ni administrativos.
+El Director General de Gobernación, al igual que los demás directores Generales, no podrá patrocinar a particulares en asuntos judiciales ni administrativos mientras esté en el ejercicio de sus funciones.
 
 ###### Art. 79.
 
-El mismo funcionario reglamentará la Secretaría de su cargo, de acuerdo con el Gobernador, y distribuirá los trabajos de la Oficina entre los empleados de la planta que señala la Ley de Presupuesto respectiva.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1969)
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
 ###### Art. 80.
 
-Sustituir al Gobernador en las faltas no previstas por el artículo 64 de esta Constitución.
+El Director General de Gobernación substituirá al Gobernador en las faltas no previstas en el Artículo 64 de esta Constitución.
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 1919)</small>
 
@@ -1135,17 +1149,17 @@ VI. Las donaciones, legados, herencias y reintegros que se hagan o dejen al Teso
 
 VII. El importe de fianzas o depósitos carcelarios, y demás cantidades que por disposición de la Autoridad Judicial deban ingresar al Erario.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1939)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
 ###### Art. 117.
 
-Para la guarda distribución de los caudales públicos, habrá una Oficina Principal que se denominará Tesorería General del Estado, a cargo de un Tesorero, nombrado por el Ejecutivo, la cual será auxiliada por Oficinas Recaudadoras Foráneas.
+Para la guarda y distribución de los caudales públicos, habrá una dependencia principal que se denominará Dirección General de Hacienda, a cargo de un Director General nombrado por el Ejecutivo. Esta Dirección General será auxiliada por el número de oficinas recaudadoras foráneas y locales que sean necesarias.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1939)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
 ###### Art. 118.
 
-El Tesorero General del Estado y Recaudadores Foráneos, distribuirán los Fondos Públicos conforme al Presupuesto de Egresos, y serán responsables de aquellos que distribuyan y no estuvieren comprendidos en dicho Presupuesto o autorizados por una Ley posterior.
+El Director General de Hacienda y los Recaudadores Foráneos distribuirán los fondos públicos conforme al Presupuesto de Egresos, y serán responsables de aquéllos que distribuyan y no estuvieren comprendidos en dicho presupuesto o autorizados por una Ley posterior.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -1173,11 +1187,11 @@ El año fiscal queda comprendido del primero de enero al treinta y uno de diciem
 
 Todo funcionario público, cualquiera que sea su categoría, es responsable de los delitos del orden común que cometa durante su encargo y de los delitos oficiales, faltas u omisiones en que incurriere en sus funciones; pero el Gobernador del Estado, durante el periodo de su duración sólo podrá ser acusado por los delitos de traición a la Patria, violación expresa de la Constitución Federal o de la Particular del Estado, ataques a la libertad electoral y delitos graves del orden común.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
 ###### Art. 123.
 
-En los delitos del orden común que cometieren el Gobernador, los Diputados, los Magistrados del Supremo Tribunal, el Secretario General de Gobierno y el Tesorero General del Estado, la Legislatura, erigida en Gran Jurado, y previa petición del Procurador General de Justicia o del Agente del Ministerio Público adscripto, tratándose del Procurador, declarará con aprobación de no menos de cinco Diputados si ha o no lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento durante el Período de sus funciones, pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado deje de tener fuero. En caso afirmativo, el acusado queda, por el mismo hecho, separado de su cargo y sujeto desde luego a la acción de los Tribunales Comunes a menos que se trate del Gobernador del Estado, pues en tal caso, sólo habrá lugar a acusarlo como si se tratara de un delito oficial.
+En los delitos del orden común que cometieren el Gobernador, los Diputados, los Magistrados del Supremo Tribunal y el Director General de Gobernación, la Legislatura, erigida en Gran Jurado, y previa petición del Procurador General de Justicia, o del Agente del Ministerio Público adscrito, tratándose del Procurador, declarará con no menos de cinco Diputados, si ha lugar o no a procedimiento alguno durante el periodo de sus funciones; pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado deje de tener fuero. En caso afirmativo, el acusado queda, por el mismo hecho, separado de su cargo y sujeto desde luego a la acción de los Tribunales Comunes, a menos que se trate del Gobernador del Estado, pues en tal caso habrá lugar a acusarlo como si se tratara de un delito oficial.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1935)</small>
 
@@ -1245,11 +1259,11 @@ La educación que imparta el Estado, se ajustará a las prevenciones del artícu
 
 Los funcionarios y empleados públicos que no tengan limitado el tiempo de su duración, permanecerán en sus puestos por todo aquél a que los hicieren acreedores sus servicios y buena conducta.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1930)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
 ###### Art. 138.
 
-En el caso de la fracción V del Art. 76 de la Constitución General de la República, asumirá el Poder Ejecutivo, el Presidente del Congreso o el de la Comisión Permanente si aquél estuviere en receso y a falta de estos funcionarios, el Vicepresidente, el Primer Secretario o el segundo por el orden que se indica. Si los miembros legisladores ya dicho se encontraren impedidos por fuerza de las circunstancias anormales que rijan, entonces será Gobernador el último Secretario de Gobierno o el último Presidente del Supremo Tribunal de Justicia, en el mismo orden que se menciona. Quien fuere Gobernador en las condiciones citadas, convocará a nuevas elecciones exactamente a los treinta días de estar ejerciendo el provisionalato, ajustándose en todo a la Constitución local y Ley Electoral.
+En el caso del Artículo 76, Fracción V de la Constitución General de la República, asumirá el Poder Ejecutivo el Presidente del Congreso o el de la Comisión Permanente si aquél estuviera en receso; y a falta de estos funcionarios, el Vicepresidente, el Primer Secretario o el Segundo, por el orden que se indica. Si los miembros Legisladores ya dichos se encontraren impedidos por fuerza de las circunstancias anormales que priven, entonces será Gobernador el último Director General de Gobierno o el último Presidente del Supremo Tribunal de Justicia, en el mismo orden que se menciona. Quien fuere Gobernador en las condiciones citadas, convocará a nuevas elecciones exactamente a los treinta días de estar ejercitando el interinato, ajustándose en todo a la Constitución local y a la Ley Electoral.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1930)</small>
 
@@ -1269,7 +1283,7 @@ Se derogan las leyes, decretos y reglamentos vigentes en el Estado, en todo lo q
 
 > <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1943)</small>
 
-TRANSITORIO: (sic El Ejercicio Constitucional de tres años que para los Ayuntamientos señala el Artículo 114 reformado de esta Constitución, entrará en vigor el primero de enero de mil novecientos cuarenta y seis.
+TRANSITORIO: (sic) El Ejercicio Constitucional de tres años que para los Ayuntamientos señala el Artículo 114 reformado de esta Constitución, entrará en vigor el primero de enero de mil novecientos cuarenta y seis.
 
 Dado en el Salón de Sesiones del Poder Legislativo del Estado de Nayarit, en Tepic, capital del Estado, a los cinco días del mes de febrero de mil novecientos dieciocho.
 
@@ -1450,3 +1464,11 @@ UNICO.- La reforma a que se contrae el presente Decreto, surtirá sus efectos a 
 P.O. 29 DE OCTUBRE DE 1958
 
 UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1969
+
+Artículo Primero.- Envíese la presente Iniciativa de Reformas a los HH. Ayuntamientos del Estado, para los efectos señalados en la parte final del Artículo 131 Constitucional.
+
+Artículo Segundo.- En las Leyes, Reglamentos y demás disposiciones vigentes, la competencia otorgada a los funcionarios aludidos en el Articulado antes de su reforma, se entiende atribuida, de acuerdo con la materia, a los funcionarios que los substituyen de conformidad a las modificaciones aprobadas a esta Constitución.
+
+Artículo Tercero.- Las presentes reformas constitucionales entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
