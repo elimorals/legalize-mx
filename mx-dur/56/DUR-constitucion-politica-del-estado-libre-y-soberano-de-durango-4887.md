@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1987-08-30"
+last_updated: "1987-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1987.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -377,9 +377,9 @@ V.- Cuando solo un partido político obtenga el mínimo de votos requeridos para
 
 Para ser Diputado propietario y suplente se requiere:
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
-I.- Ser ciudadano duranguense por nacimiento, en ejercicio de sus derechos;
+I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos, o ciudadano duranguense en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de diez años inmediatamente anteriores al día de la elección. Si es nativo del Estado, tener cuando menos seis años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de la elección;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -389,9 +389,7 @@ II.- Saber leer y escribir;
 
 III.- Tener para el día de la elección una edad mínima de veintiún años cumplidos;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-IV.- Contar con una residencia efectiva del territorio del Estado, cuando menos de dos años anteriores al día de la elección;
+IV.- (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 1987)
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -509,11 +507,11 @@ Calificadas las elecciones de diputados por el Colegio Electoral, se convocará 
 
 Los Diputados son defensores de los derechos sociales de los habitantes que representan en el Congreso del Estado. Tienen el deber de ser gestores de los problemas que afecten a los habitantes de sus Distritos o a sus representaciones proporcionales minoritarias. Los Diputados de mayoría relativa tienen además la obligación de recorrer los Municipios de sus Distritos durante los períodos de receso. Se exceptúan de esta obligación los Diputados que integran la Comisión Permanente.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
 ###### ARTICULO 46.
 
-Los diputados de mayoría relativa tienen la obligación de rendir ante sus representados un informe de sus actividades legislativas, de sus gestiones e intervenciones en beneficio de los habitantes de los Municipios comprendidos en sus respectivos Distritos Electorales. Dicho informe será rendido durante la primera quincena del mes de febrero de cada año.
+Los Diputados de Mayoría Relativa tienen la obligación de rendir ante sus representados un informe de sus gestiones e intervenciones en beneficio de los habitantes de los Municipios comprendidos en sus respectivos Distritos Electorales. Dicho informe será rendido durante la segunda quincena del mes de Julio de cada año.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
@@ -821,7 +819,11 @@ c).- El Gobernador interino cuando haya desempeñado el cargo en los dos último
 
 ### CAPITULO CUARTO. DEL PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCON A.- DE SU ORGANIZACION
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 60.
 
@@ -1243,7 +1245,7 @@ Para ocupar los cargos a que se refiere el Artículo anterior, se deben satisfac
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCON A.- DE SU ORGANIZACION
+SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
@@ -1395,11 +1397,7 @@ Los Jueces de Primera Instancia, Menores, Municipales y Auxiliares durarán en s
 
 Los Presidentes de las Juntas Municipales, Jefes de Cuartel y de Manzana, son auxiliares en la administración de la justicia y, para ese efecto, se sujetarán a las disposiciones de la Ley Orgánica del Poder Judicial.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 103.
 
@@ -2018,3 +2016,9 @@ DECRETO No. 53.
 PRIMERO.- Se derogan todas las disposiciones que se opongan al presente.
 
 SEGUNDO.- El presente Decreto entrará en vigor tres días después del de su publicación en el Periódico Oficial de Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
