@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-penales-para-el-estado-de-tabasco-1234
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-22"
-last_updated: "2002-04-06"
+last_updated: "2002-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el 22 de febrero de 1997.
 
@@ -73,9 +73,11 @@ El procedimiento penal se sujetará al principio de verdad histórica. El Minist
 
 El Ministerio Público y el juzgador, como autoridades que conducen el procedimiento en sus respectivas etapas, atenderán en forma oportuna y suficiente los legítimos intereses y derechos del ofendido y sus causahabientes, proveyéndolos con la asistencia jurídica que requieran, en los términos del artículo 17, escuchando sus pretensiones y, en su caso, restituyéndoles en el ejercicio de los derechos y el disfrute de los bienes afectados por el delito, conforme a las previsiones de la ley.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 6.
 
-El Ministerio Público observará la más rigurosa objetividad en el desarrollo de la averiguación previa. En todo caso procurará el conocimiento de la verdad sobre los hechos constitutivos del delito y la responsabilidad de sus autores. Está obligado a recabar y desahogar con diligencia las pruebas sobre los hechos, la participación delictuosa y otros puntos sujetos al procedimiento, que sean pertinentes para establecer la verdad histórica y resolver, con este fundamento, lo que proceda sobre el ejercicio de la acción. En caso de duda, el Ministerio Público ejercitará la acción penal. En su desempeño en todo el procedimiento, el Ministerio Público ajustará su actuación a los principios de legalidad y buena fe.
+El Ministerio Público observará la más rigurosa objetividad en el desarrollo de la averiguación previa. En todo caso procurará el conocimiento de la verdad sobre los hechos constitutivos del delito y la responsabilidad de sus autores. Está obligado a recabar y desahogar con diligencia las pruebas sobre los hechos, la participación delictuosa y otros puntos sujetos a procedimiento, que sean pertinentes para establecer la verdad histórica y resolver, con este fundamento, lo que proceda sobre el ejercicio de la acción. En caso de duda razonable sobre la responsabilidad del indiciado, de modo que ésta pueda considerarse probable, el Ministerio Público ejercitará la acción penal. En su desempeño en todo el procedimiento, el Ministerio Público ajustará su actuación a los principios de legalidad y buena fe.
 
 ###### ARTÍCULO 7.
 
@@ -111,11 +113,11 @@ La policía judicial actuará bajo la autoridad y el mando inmediato del Ministe
 
 Los peritos que auxilien al Ministerio Público gozarán de plena autonomía técnica para la elaboración de sus dictámenes.
 
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 12.
 
-En el ejercicio de sus atribuciones, el Ministerio Público recibirá las denuncias y querellas que se presenten por hechos probablemente delictuosos cometidos en el Estado de Tabasco; realizará las investigaciones conducentes a comprobar los elementos del tipo y la probable responsabilidad del indiciado; dictará las medidas convenientes para la protección del ofendido y la preservación de los legítimos intereses de éste y, en general, de las víctimas de la conducta delictiva; resolverá o solicitará el aseguramiento de objetos relacionados con el delito y la adopción de medidas precautorias; ejercitará la acción penal, aportará las pruebas de sus pretensiones, las relativas a la personalidad del inculpado, las correspondientes a la reparación del daño y requerirá la aplicación de sanciones; propondrá la liberación de quienes resulten inocentes, hará las promociones e intentará los recursos pertinentes en el procedimiento judicial; y vigilará el debido cumplimiento de las sentencias.
+En el ejercicio de sus atribuciones, el Ministerio Público recibirá las denuncias y querellas que se presenten por hechos probablemente delictuosos cometidos en el Estado de Tabasco, realizará las investigaciones conducentes a comprobar los elementos del cuerpo del delito y la probable responsabilidad del indiciado, dictará las medidas convenientes para la protección del ofendido y la preservación de los legítimos intereses de éste y, en general, de las víctimas de la conducta delictiva, resolverá o solicitará el aseguramiento de objetos relacionados con el delito y la adopción de medidas precautorias, ejercitará la acción penal, aportará las pruebas de sus pretensiones, las relativas a la personalidad del inculpado, las correspondientes a la reparación del daño y requerirá la aplicación de sanciones, propondrá la liberación de quienes resulten inocentes, hará las promociones y formulará los recursos pertinentes en el procedimiento judicial, y vigilará el debido cumplimiento de las sentencias.
 
 Asimismo, el Ministerio Público ejercitará ante la justicia penal la acción civil de resarcimiento, cuando le corresponda hacerlo, en la forma prevista por este Código.
 
@@ -139,7 +141,9 @@ El inculpado gozará de las garantías y derechos que la ley le asigna, y actuar
 
 El ofendido podrá ejercitar ante el juzgador penal la acción civil de reparación de daños y perjuicios ocasionados por el hecho sometido a su jurisdicción. Cuando el ofendido no ejercite la acción, lo hará el Ministerio Público de oficio o a solicitud de aquél. La reclamación de daños y perjuicios se substanciará como procedimiento especial en los términos previstos por este Código.
 
-Igualmente, el ofendido podrá coadyuvar con el Ministerio Público, por sí o por medio de su representante y de su asesor jurídico, en la averiguación previa para el ejercicio de la acción penal. En tal virtud, en el proceso podrá entregar al tribunal las pruebas de que disponga para acreditar los elementos del tipo penal y la probable responsabilidad del inculpado, o promover el desahogo de las diligencias probatorias respectivas, directamente o por conducto del Ministerio Público.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+Igualmente, el ofendido podrá coadyuvar con el Ministerio Público, por sí o por medio de su representante particular y de su asesor jurídico, en la averiguación previa para el ejercicio de la acción penal. En tal virtud, en el proceso podrá entregar al tribunal las pruebas de que disponga para acreditar los elementos del cuerpo del delito y la probable responsabilidad del inculpado, o promover el desahogo de las diligencias probatorias respectivas, directamente o por conducto del Ministerio Público.
 
 En todo caso, el Juez ordenará citar al ofendido, de oficio, para que comparezca en el proceso, si el propio ofendido lo desea, a manifestar lo que a su derecho convenga.
 
@@ -161,9 +165,11 @@ Para establecer la competencia de los tribunales en el conocimiento de los delit
 
 Cuando proceda la acumulación y los procesos acumulables se sigan ante jueces de paz y jueces de primera instancia, la competencia para conocer del conjunto recaerá en éste último. Si los procesos se siguen en diversos juzgados del mismo nivel en la organización de los tribunales, será competente para resolver sobre el conjunto el juzgador que conoce del más antiguo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 19.
 
-La competencia en materia penal es improrrogable e irrenunciable. Sin embargo, cuando se hubiese ejercitado la acción penal con detenido ante Juez incompetente, y por las circunstancias del caso fuese imposible el inmediato traslado de aquél ante el que sea competente, quien recibió la consignación realizará válidamente los actos que se deban desarrollar hasta el auto de formal prisión, resolverá sobre la libertad provisional del indiciado, lo que corresponda acerca de la libertad de éste en el caso de detención irregular al que se refiere el párrafo sexto del artículo 16 Constitucional, dictará auto de formal prisión y pondrá el proceso y al procesado, así como los objetos relacionados con aquél, si los hubiere, a disposición de quien deba conocer.
+La competencia en materia penal es improrrogable e irrenunciable. Sin embargo, cuando se hubiese ejercitado la acción penal con detenido ante Juez incompetente, y por las circunstancias del caso fuese imposible el inmediato traslado de aquél ante el que sea competente, quien recibió la consignación realizará válidamente los actos que se deban desarrollar hasta el auto de término constitucional, resolverá sobre la libertad provisional del indiciado, lo que corresponda acerca de la libertad de éste en el caso de detención irregular al que se refiere el párrafo sexto del artículo 16 Constitucional, dictará el auto que proceda y pondrá el proceso y al indiciado en libertad o detenido según determine, así como los objetos relacionados con aquél, si los hubiere, a disposición de quien deba conocer.
 
 Ningún tribunal puede promover competencia a su superior en grado.
 
@@ -287,9 +293,11 @@ Si se extravían o destruyen alguna constancia o el expediente mismo, se procede
 
 Para estos efectos, se tomará como base el duplicado al que se refiere el artículo 34. Cuando no sea posible reponer todas las actuaciones, se tendrá por probada plenamente la existencia de las que se inserten o mencionen en cualquiera resolución de la que haya constancia fehaciente, siempre que no se hubiese objetado oportunamente la exactitud de la inserción o cita.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 38.
 
-Serán nulas las actuaciones en las que no se hubiese cumplido alguna de las formalidades esenciales que la ley previene, independientemente del perjuicio que se pueda causar a cualquiera de las partes, sin perjuicio de lo dispuesto en el artículo 23. Se consideran quebrantadas esas formalidades esenciales cuando se incurra en alguna de las violaciones constitucionales y legales a las que se refiere el artículo 208.
+Serán nulas las actuaciones en las que no se hubiese cumplido alguna de las formalidades esenciales que la ley previene, independientemente del perjuicio que se pueda causar a cualquiera de las partes, sin perjuicio de lo dispuesto en el artículo 23. Se consideran quebrantadas esas formalidades esenciales cuando se incurra en alguna de las violaciones constitucionales y legales a las que se refiere el artículo 209.
 
 La nulidad de un acto se tramitará en la forma prevista en este Código, no podrá ser invocada por quien dio lugar a ella y acarrear la nulidad de las actuaciones que se deriven precisamente del acto anulado, pero no la de aquéllas que no dependan de él.
 
@@ -299,9 +307,11 @@ Se dará aviso de la incoación del proceso al tribunal de apelación respectivo
 
 ### CAPÍTULO IV. DESPACHO DE LOS ASUNTOS
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 40.
 
-No hay costas en materia penal. El erario cubrirá los gastos que ocasionen las diligencias practicadas por la autoridad que realiza la averiguación previa, así como las decretadas por los tribunales de oficio o a petición del Ministerio Público. Cuando el inculpado no pueda cubrir por sí mismo el costo de una diligencia que solicite, y el tribunal o el Ministerio Público, en sus respectivos casos, la estimen útil para el esclarecimiento de los elementos constitutivos del tipo o la responsabilidad penal, o de los datos conducentes a la reparación de daños y perjuicios o la individualización judicial, podrán disponer que se practique con cargo al erario.
+No hay costas en materia penal. El erario cubrirá los gastos que ocasionen las diligencias practicadas por la autoridad que realiza la averiguación previa, así como las decretadas por los tribunales de oficio o a petición del Ministerio Público. Cuando el inculpado no pueda cubrir por sí mismo el costo de una diligencia que solicite, y el tribunal o el Ministerio Público, en sus respectivos casos, la estimen útil para el esclarecimiento de los hechos motivo del procedimiento y para acreditar los elementos constitutivos del delito o la responsabilidad penal, o de los datos conducentes a la reparación de daños y perjuicios o la individualización judicial, podrán disponer que se practique con cargo al erario.
 
 ###### ARTÍCULO 41.
 
@@ -463,11 +473,15 @@ Podrá citarse por teléfono o mediante comunicación trasmitida por fax o por c
 
 ### CAPÍTULO IX. AUDIENCIAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 67.
 
-Las audiencias serán públicas, salvo que el tribunal determine que deban realizarse en otra forma, por razones de seguridad, orden o moral. Deberán concurrir el Ministerio Público, el inculpado y su defensor, y el ofendido y su asesor legal, en su caso. Cuando no concurra alguno de ellos, el tribunal diferirá la audiencia, sin perjuicio de hacer uso de las correcciones y las medidas de apremio que juzgue pertinentes. Si el ausente es el defensor del inculpado o el asesor del ofendido, considerará la posibilidad y conveniencia de designar en el acto un defensor de oficio o un asesor legal público, según corresponda, para que intervengan en la misma audiencia o en la posterior que se determine.
+Las audiencias serán públicas salvo que el tribunal en forma fundada y motivada determine que deban realizarse de otra forma, por razones de seguridad, orden o moral. Deberán concurrir el Ministerio Público, el inculpado y su defensor, el asesor legal del ofendido, y éste, en su caso. Cuando no concurra un Ministerio Público o el inculpado, el tribunal diferirá la audiencia, sin perjuicio de hacer uso de las correcciones y las medidas de apremio que estime pertinentes. Si el ausente es el defensor del inculpado o el asesor del ofendido, considerará la posibilidad y conveniencia de designar en el acto un defensor de oficio o un asesor legal público, según corresponda, para que intervenga en la misma audiencia o en la posterior que se determine. Si no se presenta el ofendido, a juicio del juez o la Sala, se realizará la audiencia, pero el tribunal de que se trate lo exhortará para que se presente en las subsecuentes y adoptará las medidas para garantizarle el derecho de comparecer y estar enterado de la marcha del proceso.
 
-Cuando el inculpado estuviese impedido para concurrir a la audiencia, se negare a asistir o fuese expulsado por alterar el orden, el tribunal adoptará las medidas que juzgue adecuadas para garantizarle el derecho de comparecer, estar enterado de la marcha del proceso y ejercer su defensa. Estas medidas se adoptarán también en lo que respecta al ofendido.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+Cuando el inculpado estuviese impedido para concurrir a la audiencia, se negare a asistir o fuese expulsado por alterar el orden, el tribunal adoptará las medidas que juzgue adecuadas para garantizarle el derecho a comparecer, estar enterado de la marcha del proceso y ejercer su defensa.
 
 La conservación del orden en el proceso estará a cargo del juzgador que preside la diligencia. Si el juzgador se ausenta, recaerá en otro juzgador, por su orden, tratándose de órganos colegiados, o en el secretario judicial, si se trata de órganos unitarios.
 
@@ -537,7 +551,9 @@ Las resoluciones se cumplirán o ejecutarán en sus términos, una vez practicad
 
 Son admisibles en el procedimiento todas las pruebas que no sean contrarias a la moral o al derecho, se hayan obtenido en forma legal y resulten conducentes al esclarecimiento de las cuestiones planteadas en el procedimiento penal. Si la prueba propuesta no reúne estas condiciones, se desechará con audiencia de las partes.
 
-Sólo estarán sujetos a prueba los elementos que integran el tipo penal, los que acrediten la responsabilidad del inculpado, los datos que excluyan la incriminación penal, los elementos que establezcan la extinción de la pretensión punitiva, los pertinentes para la individualización judicial de las sanciones y la determinación de las consecuencias del delito, el valor de la cosa sobre la que recayó éste y el monto de los daños y perjuicios causados al ofendido, así como todos los datos de los que se pueda inferir, directa o indirectamente, la existencia o inexistencia de los hechos y las circunstancias mencionados.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+Sólo estarán sujetos a prueba los elementos que integran el delito, los que acrediten la responsabilidad del inculpado, los datos que excluyan la incriminación penal, los elementos que establezcan la extinción de la pretensión punitiva, los pertinentes para la individualización judicial de las sanciones y la determinación de las consecuencias del delito, el valor de la cosa sobre la que recayó éste y el monto de los daños y perjuicios causados al ofendido, así como todos los datos de los que se pueda inferir, directa o indirectamente, la existencia o inexistencia de los hechos y las circunstancias mencionados.
 
 No requieren prueba el derecho vigente del Estado de Tabasco y federal, inclusive los tratados internacionales, y los hechos notorios. La requieren el derecho histórico, el derecho extranjero, el derecho local de otras entidades de los Estados Unidos Mexicanos y los usos y costumbres.
 
@@ -659,6 +675,10 @@ Antes de iniciar su declaración, los testigos mayores de dieciocho años rendir
 
 Sólo se permitirá que el testigo se halle acompañado y asistido durante su declaración, cuando deba valerse de intérprete o de persona que lo auxilie, por hallarse privado de la vista o del oído, o cuando por otras razones semejantes necesite la asistencia de un tercero.
 
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+La prueba testimonial ofrecida para acreditar determinados hechos se desahogará en una sola audiencia, misma que se dará por terminada hasta que declaren todos los testigos ofrecidos y admitidos, salvo que se actualice la hipótesis prevista en el artículo 96 de este Código, en cuyo caso, declararán los testigos presentes y el testigo ausente será examinado por exhorto.
+
 ###### ARTÍCULO 93.
 
 Los testigos rendirán su testimonio de viva voz, sin que se les permita leer su narración o respuestas a las preguntas que se les formulen, pero podrán consultar notas o documentos cuando sea pertinente según la naturaleza del asunto y a juicio de quien practique las diligencias, que para este efecto conocerá previamente dichos documentos o notas.
@@ -681,9 +701,13 @@ Si el testigo se encontrare fuera del lugar sede del tribunal, pero en el distri
 
 Cuando el testigo estuviere impedido para comparecer, el juzgador podrá trasladarse dentro de los límites de su competencia territorial, o requerir a la autoridad judicial más próxima al lugar donde se encuentra el testigo para que tome a éste su declaración, sin perjuicio de las normas específicas aplicables conforme a este Código.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 96.
 
-Si el testigo estuviere fuera del ámbito de competencia territorial del juzgador, se le examinará por exhorto dirigido al Juez de su residencia. Si se ignora ésta, se encargará a la policía que averigüe el paradero del testigo y lo cite. Si esta investigación no tuviere éxito, el Juez hará la citación por edicto, que se publicará en el Boletín Judicial y en otro periódico de mayor circulación en el lugar en el que se sigue el proceso.
+Si el testigo estuviere fuera del ámbito de competencia territorial del juzgador, se le examinará por exhorto dirigido al Juez de su residencia. Si se ignora ésta, se encargará a la policía del lugar donde esté ubicado el último domicilio del que se tenga conocimiento para que averigüe el paradero del testigo y lo cite. Si esta investigación no tuviera éxito, el Ministerio Público o el Juez, podrán hacer la citación mediante publicación en un periódico de los de mayor circulación.
+
+En su caso, se agregará al expediente un ejemplar del periódico en la parte que contiene la inserción, de modo que se identifique el periódico, la fecha de publicación y la sección y página en la que ésta aparece.
 
 ### CAPÍTULO VI. IDENTIFICACIÓN, CONFRONTACIÓN Y RECONOCIMIENTO
 
@@ -709,13 +733,19 @@ Cuando sea necesario el reconocimiento de un objeto o de una situación o circun
 
 ### CAPÍTULO VII. CAREO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 101.
 
-Siempre que el inculpado lo solicite será careado en presencia del Juez con las personas que formulan imputaciones en su contra. Estas declararán en su presencia, si estuvieren en el lugar del juicio. En este caso, el inculpado podrá formularles las preguntas que desee y que resulten conducentes para su defensa. Asimismo, se practicarán careos entre quienes intervienen en el proceso cuando exista contradicción entre las respectivas declaraciones.
+Cuando el inculpado lo solicite será careado en presencia del Juez con las personas que formulan imputaciones en su contra. Estas declararán en su presencia, si estuvieren en el lugar del juicio. En este caso, el inculpado podrá formularles las preguntas que desee y que resulten conducentes para su defensa. Asimismo, se practicarán careos entre quienes intervienen en el proceso cuando exista contradicción entre las respectivas declaraciones.
 
 El careo sólo se realizará entre dos personas, y se estará a las reglas establecidas en materia de rendición de testimonios. La diligencia principiará leyendo a los careados sus declaraciones y haciéndoles notar la contradicción que existe entre ellas. A continuación se les requerirá para que discutan entre sí y formulen las aclaraciones y refutaciones que crean pertinentes, en presencia del juzgador. En seguida, el Ministerio Público, el defensor y el ofendido y su asesor legal pueden formular preguntas, en los términos previstos para el interrogatorio a los testigos.
 
 Cuando por cualquier motivo no pueda obtenerse la concurrencia de alguno de los que deban ser careados, se leerá al presente la declaración del otro, haciéndole notar las contradicciones que hubiere entre aquélla y lo declarado por él, para que haga las precisiones que juzgue necesarias. Si las personas que deban carearse estuviesen fuera de la jurisdicción del tribunal, se actuará por exhorto.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+Si la víctima o el ofendido son menores de edad, no estarán obligados a carearse con el inculpado cuando se trate de los delitos de violación o secuestro.
 
 ### CAPÍTULO VIII. DOCUMENTOS
 
@@ -765,7 +795,9 @@ El Juez reconocerá el valor de las pruebas aportadas en la averiguación previa
 
 En la valoración de la prueba, el juzgador observará, asimismo, las siguientes reglas:
 
-I. Cuidará de que la confesión se rinda con riguroso apego a las normas aplicables de este Código. No basta la confesión para acreditar los elementos del tipo penal y la probable responsabilidad si no se halla corroborada con otras pruebas rendidas con arreglo a la ley;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+I. Cuidará de que la confesión se rinda con riguroso apego a las normas aplicables de este Código. No basta la confesión para acreditar los elementos del cuerpo del delito y la probable responsabilidad si no se halla corroborada con otras pruebas rendidas con arreglo a la ley;
 
 II. Los documentos públicos tendrán valor probatorio pleno, salvo que se acredite su falsedad. Las partes podrán pedir su cotejo con los protocolos o los originales existentes en los archivos;
 
@@ -787,9 +819,11 @@ e) Que no haya sido obligado por fuerza o miedo, ni impulsado por engaño, error
 
 Los tribunales apreciarán el valor de los indicios, según la naturaleza de los hechos y el enlace lógico y natural más o menos necesario que exista entre la verdad conocida y la que se busca.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 111.
 
-Se condenará al inculpado cuando se pruebe que existieron todos los elementos del tipo penal del delito que se le imputa y la responsabilidad correspondiente, y que no haya causas que excluyan la incriminación o extingan la pretensión punitiva. En caso de duda, se debe absolver.
+Se condenará al inculpado cuando se pruebe que existieron todos los elementos del delito que se le imputa y la responsabilidad correspondiente, y que no haya causas que excluyan la incriminación o extingan la pretensión punitiva. En caso de duda, se debe absolver.
 
 ## TÍTULO CUARTO. AVERIGUACIÓN PREVIA
 
@@ -881,9 +915,11 @@ No se requiere apoderado para la presentación de denuncias. Tratándose de deli
 
 ### CAPÍTULO II. DILIGENCIAS DE AVERIGUACIÓN PREVIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 119.
 
-Iniciada la averiguación, el Ministerio Público o la autoridad que legalmente lo sustituya y actúe en su auxilio, adoptarán las medidas conducentes a probar la existencia de los elementos del tipo penal en el caso que se investiga, las circunstancias en que se cometió éste, y la identidad y responsabilidad de quienes participaron en él, así como a salvaguardar los legítimos intereses del ofendido, asegurar las personas y cosas relacionadas con los hechos y, en general, desarrollar legalmente la averiguación, conforme a la naturaleza y finalidades de ésta.
+Iniciada la averiguación, el Ministerio Público o la autoridad que legalmente lo sustituya y actúe en su auxilio, adoptarán las medidas conducentes a probar la existencia de los elementos del cuerpo del delito en el caso que se investiga, las circunstancias en que se cometió éste, y la identidad y responsabilidad de quienes participaron en él, así como a salvaguardar los legítimos intereses del ofendido, asegurar las personas y cosas relacionadas con los hechos y, en general, desarrollar legalmente la averiguación, conforme a la naturaleza y finalidades de ésta.
 
 El Ministerio Público o quien lo sustituya y auxilie adoptarán o solicitarán sin demora las medidas precautorias que procedan en relación con las personas o con los bienes relacionados con la averiguación.
 
@@ -903,9 +939,11 @@ Serán aplicables al defensor durante la averiguación previa, en lo procedente,
 
 Sin perjuicio de lo previsto en este Capítulo, cuando el Ministerio Público tenga conocimiento de un delito perseguible por querella, procurará la conciliación entre el inculpado y el ofendido, actuando por sí mismo o requiriendo la intervención de quien esté en condiciones de promover esa conciliación, en virtud de su autoridad moral y del ascendiente que tenga sobre aquéllos. Si se trata de individuos pertenecientes a un grupo étnico indígena, tomará en cuenta los usos y costumbres del grupo para requerir la intervención del conciliador.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 122.
 
-El Ministerio Público cuidará de que se preste al ofendido, a la víctima y al inculpado, la atención médica de urgencia que requieran con motivo de la comisión del delito, en su caso, en observancia de lo dispuesto por el último párrafo del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos. Para ello, el Ministerio Público solicitará la intervención de las autoridades correspondientes.
+El Ministerio Público cuidará que se preste al ofendido, a la víctima y al inculpado, la atención médica de urgencia que requieran con motivo de la comisión del delito, en su caso. Para ello, el Ministerio Público solicitará la intervención de las autoridades correspondientes.
 
 En lo que corresponde a la asesoría jurídica del ofendido y, en su caso, de la víctima, y a su participación en la averiguación previa, se estará a lo dispuesto en los artículos 17 y 258.
 
@@ -957,25 +995,25 @@ La resolución de no ejercicio de la acción será firme cuando el interesado no
 
 ###### ARTÍCULO 131.
 
-Si no hay detenido y se trata de delitos cometidos con dolo, cuya punibilidad máxima sea de cinco años de prisión, sanción no privativa de la libertad o alternativa que incluya una sanción diversa de la prisión, el Ministerio Público dispondrá de dieciocho meses para integrar la averiguación y ejercitar la acción, contados a partir de la formulación de la denuncia o la querella. En los demás casos, tratándose de delitos dolosos, el plazo al que se refiere este párrafo será de cinco años. En el supuesto de delitos culposos, el plazo se reducirá en seis meses. Los plazos previstos en este artículo se entienden sin perjuicio de las reglas de prescripción establecidas en el Código Penal.
-
-Si transcurren los plazos antes señalados sin que se ejercite la acción, se archivará la averiguación con efectos definitivos, bajo las reglas correspondientes al no ejercicio de la acción penal. En estos casos, la resolución definitiva corresponde al Procurador o a quien éste disponga, conforme a las facultades de delegación que la ley autorice. Dicho funcionario examinará los motivos por los que no fue posible ejercitar la acción y aplicará o promoverá las sanciones que correspondan cuando la causa sea imputable al agente del Ministerio Público encargado de la indagatoria o a otros funcionarios.
+(DEROGADO, P.O. 9 DE NOVIEMBRE DE 2002)
 
 ### CAPÍTULO III. EJERCICIO DE LA ACCIÓN PENAL
 
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 132.
 
-El Ministerio Público ejercitará la acción penal, en forma motivada y fundada, cuando a su juicio se hayan comprobado los elementos que integran el tipo penal de un delito y la probable responsabilidad del indiciado, citando la jurisprudencia aplicable y solicitando, en su caso, la aprehensión o la presentación del inculpado. En el escrito de consignación precisará la fecha y hora en que se formule; puntualizará los hechos; examinará la responsabilidad que por ellos se atribuya; señalará las pruebas que acrediten, aquéllos y ésta, relacionando cada elemento del tipo, así como los datos en que se sustenta la probable responsabilidad, con los medios de prueba que los acrediten; formulará los señalamientos que procedan sobre las características y personalidad del inculpado y de la víctima, lo relativo a la existencia y monto de los daños y perjuicios causados, para los efectos de la reparación correspondiente; expondrá los elementos que sea debido tomar en cuenta para conceder o negar la libertad provisional y fijará el monto de la caución respectiva; señalará la filiación del inculpado, su domicilio o el lugar en el que pueda ser localizado y manifestará cuanto resulte pertinente para obtener del juzgador las resoluciones que legalmente correspondan.
+El Ministerio Público ejercitará la acción penal, en forma motivada y fundada, cuando a su juicio se hayan comprobado los elementos que integran el cuerpo del delito y la probable responsabilidad del indiciado, citando la jurisprudencia aplicable y solicitando, en su caso, la aprehensión o la presentación del inculpado. En el escrito de consignación precisará la fecha y hora en que se formule, puntualizará los hechos, examinará la responsabilidad que por ellos se atribuya, señalará las pruebas que acrediten aquéllos y ésta, relacionando cada elemento del cuerpo del delito, así como los datos en que se sustenta la probable responsabilidad, con los medios de prueba que los acrediten, formulará los señalamientos que procedan sobre las características y personalidad del inculpado y de la víctima, lo relativo a la existencia y monto de los daños y perjuicios causados, para los efectos de la reparación correspondiente, expondrá los elementos que sea debido tomar en cuenta para conceder o negar la libertad provisional y fijará el monto de la caución respectiva, señalará la filiación del inculpado, su domicilio o el lugar en el que pueda ser localizado y manifestará cuanto resulte pertinente para obtener del juzgador las resoluciones que legalmente correspondan.
 
 ###### ARTÍCULO 133.
 
 El Ministerio Público no podrá ejercitar la acción penal en contra de un inculpado y por unos hechos delictivos que hubiesen quedado comprendidos en consignación practicada con anterioridad, cualquiera que hubiese sido la resolución judicial recaída a este respecto, salvo cuando se trate de la modificación o ampliación del ejercicio de la acción a las que se refiere el artículo 159.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 134.
 
-Cuando estén comprobados los elementos del tipo penal y la participación del inculpado en los hechos y se considere que éste se halla en estado de inimputabilidad, el Ministerio Público podrá disponer, bajo su estricta responsabilidad, que sea internado en un establecimiento de salud, si esto es indispensable conforme a las circunstancias del caso, o lo entregará al cuidado de quienes tengan legalmente la obligación de hacerse cargo de él, quienes otorgarán para tal efecto la caución que fijará el Ministerio Público en forma individualizada. El Ministerio Público escuchará al defensor y recibirá las pruebas que éste promueva, conducentes a sostener los legítimos intereses del inculpado.
+Cuando estén comprobados los elementos del cuerpo del delito y la participación del inculpado en los hechos y se considere que éste se halla en estado de inimputabilidad, el Ministerio Público podrá disponer, bajo su estricta responsabilidad, que sea internado en un establecimiento de salud, si esto es indispensable conforme a las circunstancias del caso, o lo entregará al cuidado de quienes tengan legalmente la obligación de hacerse cargo de él, quienes otorgarán para tal efecto la caución que fijará el Ministerio Público en forma individualizada. El Ministerio Público escuchará al defensor y recibirá las pruebas que éste promueva, conducentes a sostener los legítimos intereses del inculpado.
 
 Si no se hallan satisfechos los requisitos del artículo 16 de la Constitución General de la República, se decretará la inmediata libertad del inculpado, quien quedará al cuidado de quienes legalmente deban hacerse cargo de él.
 
@@ -989,15 +1027,21 @@ El Ministerio Público promoverá el sobreseimiento y la libertad absoluta del i
 
 ### CAPÍTULO IV. ELEMENTOS DEL TIPO PENAL Y PROBABLE RESPONSABILIDAD
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 137.
 
-Para comprobar los elementos del tipo y de la responsabilidad penal y formular, en consecuencia, las resoluciones que procedan, se establecerá la adecuación de los hechos investigados con la descripción típica contenida en la ley, considerando todos los datos que ésta previene; el carácter doloso o culposo de la conducta del inculpado, y la intervención que éste tuvo en los hechos que se le atribuyen. Asimismo, se descartará la existencia de causas que excluyan el delito o extingan la pretensión punitiva. Para ello, el Ministerio Público y el tribunal actuarán conforme a las reglas probatorias contenidas en este Código.
+Para comprobar los elementos del cuerpo del delito, se establecerá la adecuación de los hechos acreditados con los elementos objetivos o externos que constituyen la materialidad del hecho que la ley señale como delito.
 
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
+En los casos en que la ley incorpore en la descripción de la conducta prevista como delito, un elemento subjetivo o normativo como elemento constitutivo esencial, será necesaria su acreditación.
+
+La probable responsabilidad del indiciado, se tendrá por acreditada cuando de los medios probatorios existentes, se deduzca su obrar doloso o culposo en el delito que se le imputa y no exista acreditada en su favor alguna causa de exclusión del delito o que extinga la pretensión punitiva.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 138.
 
-Para comprobar la existencia de los elementos del tipo y la probable o plena responsabilidad del inculpado, en su caso, el Ministerio Público y el Juez tendrán plena libertad para emplear los medios de prueba que estimen adecuados, según su criterio, aun de aquellos no comprendidos en la ley, siempre que esos medios no estén reprobados por ésta.
+Para comprobar la existencia de los elementos del cuerpo del delito y la probable responsabilidad ó del delito y la plena responsabilidad del inculpado, en su caso, el Ministerio Público y el Juez tendrán plena libertad para emplear los medios de prueba que estimen adecuados, según su criterio, aún de aquellos no comprendidos en la ley, siempre que esos medios no estén reprobados por ésta.
 
 ### CAPÍTULO V. OBJETOS RELACIONADOS CON EL DELITO
 
@@ -1087,6 +1131,10 @@ III. No es posible obtener inmediatamente orden judicial de aprehensión, tomand
 
 El Ministerio Público acreditará la existencia y concurrencia de los elementos mencionados en las tres fracciones anteriores, y dejará constancia de ello en la orden de captura correspondiente. Incurre en responsabilidad penal quien ordene una detención sin atenerse a lo previsto en este artículo.
 
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+Para los efectos de este artículo, se entiende por calificativa, toda hipótesis que de actualizarse implique un aumento en la sanción prevista para cualquier delito.
+
 ###### ARTÍCULO 146.
 
 La detención del inculpado por el Ministerio Público no excederá de cuarenta y ocho horas. Este plazo podrá duplicarse cuando haya elementos que permitan establecer, razonablemente, que el indiciado cometió el delito que se le atribuye en la forma prevista por el artículo 147.
@@ -1115,9 +1163,11 @@ Cuando proceda la externación del inculpado, el encargado del establecimiento d
 
 ### CAPÍTULO I. NORMAS GENERALES PARA LA INSTRUCCIÓN
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 151.
 
-En la instrucción se ofrecerán, ordenarán y desahogarán, según corresponda, por instancia de las partes o de oficio, las pruebas conducentes al esclarecimiento de los elementos que integran el tipo penal y de la responsabilidad del inculpado, y lo relativo a la existencia y cuantía de daños y perjuicios ocasionados por el delito, para los efectos de la acción reparadora. Asimismo, el juzgador observará las circunstancias del delito y del ofendido que deban ser tomadas en cuenta, conforme al Código Penal, para la individualización de las sanciones, en su caso.
+En la instrucción se ofrecerán, ordenarán y desahogarán, según corresponda, por instancia de las partes o de oficio, las pruebas conducentes al esclarecimiento de los elementos que integran el delito y de la responsabilidad del inculpado, y lo relativo a la existencia y cuantía de daños y perjuicios ocasionados por el delito, para los efectos de la acción reparadora. Asimismo, el juzgador observará las circunstancias del delito y del ofendido que deban ser tomadas en cuenta, conforme al Código Penal, para la individualización de las sanciones, en su caso.
 
 ###### ARTÍCULO 152.
 
@@ -1165,9 +1215,11 @@ Si por datos posteriores a su solicitud, el Ministerio Público estima que ya no
 
 La cancelación no impide que continúe la averiguación y que posteriormente se solicite de nuevo la orden, salvo que deba sobreseerse el proceso en virtud de la naturaleza del hecho que determine la cancelación. La solicitud del Ministerio Público, una vez confirmada por el superior jerárquico, estará sujeta a lo previsto en el artículo 130 de este Código.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 159.
 
-Cuando el Ministerio Público considere que deben modificarse los hechos por los que se hizo la consignación, y todavía no se ha ejecutado la orden de captura o presentación, lo hará saber al juzgador, modificando o ampliando, para ello, el ejercicio de la acción penal. Si la orden fue ejecutada, el Ministerio Público formulará el pedimento de modificación del tipo o la ampliación mencionadas, del que se dará vista al inculpado cuando se le informe acerca de los cargos que se formulan en su contra, para que los conozca y pueda defenderse de ellos.
+Cuando el Ministerio Público considere que deben modificarse los hechos por los que se hizo la consignación, y todavía no se ha ejecutado la orden de captura o presentación, lo hará saber al juzgador, modificando o ampliando, para ello, el ejercicio de la acción penal. Si la orden fue ejecutada, el Ministerio Público formulará el pedimento de modificación del cuerpo del delito o la ampliación mencionadas, del que se dará vista al inculpado cuando se le informe acerca de los cargos que se formulan en su contra, para que los conozca y pueda defenderse de ellos.
 
 ###### ARTÍCULO 160.
 
@@ -1185,11 +1237,15 @@ La detención de servidores públicos se comunicará al superior jerárquico de 
 
 Si se concede la suspensión definitiva en amparo contra una orden de aprehensión o de presentación para emitir declaración preparatoria que aún no se hubiese ejecutado, el tribunal que la libró solicitará al que concedió la suspensión que haga comparecer al inculpado en su presencia dentro del plazo que para ese efecto disponga, para que rinda declaración preparatoria y para los demás efectos del procedimiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 163.
 
-En cuanto el detenido quede a disposición del juzgador, una vez radicada la causa el Juez procederá de inmediato a determinar si la detención fue realizada en los términos que prescribe la Constitución, y antes de que rinda declaración le hará saber el derecho que tiene a nombrar defensor o a defenderse por sí mismo, en los términos que establece la fracción IX del artículo 20 Constitucional y la garantía que le asiste para que el defensor comparezca y realice una defensa adecuada en todos los actos del proceso. Si el inculpado nombró defensor en la averiguación previa, este mismo en forma preferente, se tendrá por designado en el proceso, salvo que el propio inculpado resuelva otra cosa. Asimismo, se le auxiliará para lograr la presencia inmediata del defensor, a fin de que asuma la defensa.
+En cuanto el detenido quede a disposición del juzgador, una vez radicada la causa el Juez procederá de inmediato a determinar si la detención fue realizada en los términos que prescribe la Constitución, y antes de que rinda declaración le hará saber el derecho que tiene a nombrar defensor o a defenderse por sí mismo, en los términos que establece la fracción IX del apartado A del artículo 20 Constitucional y la garantía que le asiste para que el defensor comparezca y realice una defensa adecuada en todos los actos del proceso. Si el inculpado nombró defensor en la averiguación previa, este mismo en forma preferente, se tendrá por designado en el proceso, salvo que el propio inculpado resuelva otra cosa. Asimismo, se le auxiliará para lograr la presencia inmediata del defensor, a fin de que asuma la defensa.
 
-Se recibirá la declaración preparatoria del inculpado en audiencia pública, dentro del plazo y con las garantías mencionadas en la fracción III del artículo 20 constitucional.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+Se recibirá la declaración preparatoria del inculpado en audiencia pública, dentro del plazo y con las garantías mencionadas en la fracción III del apartado A del artículo 20 constitucional.
 
 En todo caso, el Juez cuidará la debida observancia de los plazos que la Constitución previene para el desahogo de actos procesales en esta etapa de la instrucción. De considerarlo conveniente, fijará el tiempo de espera que estime razonable para lograr la presentación del defensor designado.
 
@@ -1227,9 +1283,11 @@ Cuando se trate de delitos perseguibles por querella, el juzgador podrá promove
 
 ### CAPÍTULO III. AUTOS DE PROCESAMIENTO Y DE LIBERTAD POR FALTA DE ELEMENTOS PARA PROCESAR
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 169.
 
-Dentro de setenta y dos horas contadas desde el momento en que el inculpado quedó a disposición de la autoridad judicial, y una vez tomada la declaración preparatoria, en caso de que el inculpado quisiere rendirla, se dictará auto de formal prisión si quedaron acreditados los elementos del tipo penal y la probable responsabilidad del inculpado. Para ello se estará a lo dispuesto en el artículo 137.
+Dentro de setenta y dos horas contadas desde el momento en que el inculpado quedó a disposición de la autoridad judicial, y una vez tomada la declaración preparatoria, en caso de que el inculpado quisiere rendirla, se dictará auto de formal prisión si quedaron acreditados los elementos del cuerpo del delito y la probable responsabilidad del inculpado. Para ello, se estará a lo dispuesto en el artículo 137.
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1998)</small>
 
@@ -1241,9 +1299,11 @@ En el transcurso del período de ampliación, el Ministerio Público puede hacer
 
 Si el delito que se atribuye al inculpado no está sancionado con prisión, o amerita sanción alternativa o no privativa de libertad, el Juez dictará auto de sujeción a proceso una vez satisfechos los requisitos exigidos para el de formal prisión.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 171.
 
-En los casos mencionados en los dos artículos precedentes, el auto de procesamiento que corresponda se dictará por los tipos de los delitos que aparezcan comprobados, tomando en cuenta los hechos materia de la consignación y considerando la descripción típica legal y la probable responsabilidad correspondientes, aun cuando con ello se modifique la clasificación hecha en promociones o resoluciones anteriores.
+En los casos mencionados en los dos artículos precedentes, el auto de procesamiento que corresponda se dictará por los delitos que aparezcan comprobados, tomando en cuenta los hechos materia de la consignación y considerando el cuerpo del delito y la probable responsabilidad correspondientes, aun cuando con ello se modifique la clasificación hecha en promociones o resoluciones anteriores.
 
 ###### ARTÍCULO 172.
 
@@ -1259,7 +1319,9 @@ Sólo se expedirán constancia de antecedentes e identificación cuando lo requi
 
 Cuando no se satisfagan los requisitos para disponer el procesamiento, el Juez dictará auto de libertad por falta de elementos para procesar. Si lo que corresponde es el sobreseimiento, se dictará éste, con indicación de que el inculpado queda en libertad absoluta.
 
-Si sólo se resuelve la libertad por falta de elementos, el Ministerio Público podrá impugnar la resolución judicial que la disponga o promover nuevas pruebas y solicitar, en su caso, la reaprehensión o la presentación del inculpado. La libertad tendrá carácter definitivo cuando transcurran dos años desde que se dispuso aquélla, sin que se expida nueva orden de captura o presentación, sin perjuicio de los plazos para que opere la prescripción.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+Si sólo se resuelve la libertad por falta de elementos, el Ministerio Público podrá impugnar la resolución judicial que la disponga o promover nuevas pruebas y solicitar, en su caso, la reaprehensión o la presentación del inculpado. La libertad tendrá carácter definitivo cuando transcurran dos años desde que se dispuso aquélla sin que se expida nueva orden de captura o presentación sin perjuicio de los plazos para que opere la prescripción. Las nuevas pruebas que promueva el Ministerio Público serán desahogadas en presencia del inculpado y su defensor, salvo que no comparezcan a pesar de haber sido citados legalmente. Cuando el ausente sea el defensor particular, el juez designará a un defensor de oficio.
 
 ### CAPÍTULO IV. PROCEDIMIENTO ORDINARIO
 
@@ -1289,9 +1351,11 @@ En todo caso, el Juez exhortará a las partes, sin perjuicio de los derechos que
 
 Transcurridos los plazos señalados para la instrucción, o antes si no hubiese diligencias que practicar, el tribunal declarará cerrada aquélla y mandará poner el proceso a la vista de las partes para que formulen conclusiones.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 179.
 
-En sus conclusiones, que entregará por escrito, el Ministerio Público analizará los hechos punibles y la responsabilidad del inculpado, relacionando cada uno de los elementos del tipo penal y de la responsabilidad con los medios probatorios que los acrediten en forma particular; formulará las consideraciones pertinentes acerca de la existencia y cuantía de daños y perjuicios causados por el delito; formulará las consideraciones jurídicas pertinentes para fundar sus pretensiones, invocando la ley, la jurisprudencia y la doctrina aplicables; analizará los datos que sea preciso tomar en cuenta para la individualización de las sanciones, conforme al Código Penal, y con este fundamento expreso hará el pedimento que corresponda.
+En sus conclusiones, que entregará por escrito, el Ministerio Público analizará los hechos punibles y la responsabilidad del inculpado, relacionando cada uno de los elementos del delito y de la responsabilidad con los medios probatorios que los acrediten en forma particular; formulará las consideraciones pertinentes acerca de la existencia y cuantía de daños y perjuicios causados por el delito; formulará las consideraciones jurídicas pertinentes para fundar sus pretensiones, invocando la ley, la jurisprudencia o la doctrina aplicables; analizará los datos que sea preciso tomar en cuenta para la individualización de las sanciones, conforme al Código Penal, y con este fundamento expreso hará el pedimento que corresponda.
 
 ###### ARTÍCULO 180.
 
@@ -1301,7 +1365,9 @@ Si el defensor del inculpado es perito en Derecho, presentará sus conclusiones 
 
 Primero formulará conclusiones el Ministerio Público y después la defensa. Ambos lo harán con vista de todo el proceso, y la defensa, además, con conocimiento de las conclusiones del Ministerio Público.
 
-Las partes disponen de diez días para la presentación de conclusiones, plazo que se ampliará en un día más por cada doscientas hojas de que conste el expediente, sin exceder nunca de treinta días. En todo caso, el juzgador fijará, de oficio o a solicitud de cualquiera de las partes, el tiempo con el que cuentan éstas para la presentación de conclusiones, tomando en cuenta para ello el plazo del que se dispone para la conclusión del proceso en los términos previstos por la fracción VIII del artículo 20 de la Constitución General de la República. En todo caso, el juzgador certificará en el expediente la fecha inicial del plazo para la presentación de conclusiones y el momento en el que éste fenece, notificando personalmente a las partes.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+Las partes disponen de diez días para la presentación de conclusiones, plazo que se ampliará en un día más por cada doscientas hojas de que conste el expediente, sin exceder nunca de treinta días. En todo caso, el juzgador fijará, de oficio o a solicitud de cualquiera de las partes, el tiempo con el que cuentan éstas para la presentación de conclusiones, tomando en cuenta para ello el plazo del que se dispone para la conclusión del proceso en los términos previstos por la fracción VIII del apartado A del artículo 20 de la Constitución General de la República. En todo caso, el juzgador certificará en el expediente la fecha inicial del plazo para la presentación de conclusiones y el momento en el que éste fenece, notificando personalmente a las partes.
 
 Por lo que respecta a las conclusiones del ofendido, se estará a lo previsto en el procedimiento especial de reparación de daños y perjuicios previsto en este Código.
 
@@ -1378,6 +1444,8 @@ Se podrá acordar el sobreseimiento en el curso de la instrucción, hasta antes 
 Se actuará a propuesta del Juez, del Ministerio Público o del inculpado o su defensor. El Juez dará vista de la propuesta a las partes, inclusive al ofendido y a su asesor legal, para que manifiesten lo que a su derecho convenga, en audiencia que se celebrará dentro de cinco días contados desde el siguiente al de notificación de la solicitud.
 
 La resolución definitiva sólo surtirá efectos en lo que respecta a los hechos y a los responsables comprendidos por la causa de sobreseimiento.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ## TÍTULO SEXTO. MEDIOS DE IMPUGNACIÓN
 
@@ -1461,13 +1529,17 @@ I. Las sentencias;
 
 II. Las resoluciones cuyo efecto sea el sobreseimiento, con excepción de los casos en que no sea apelable la sentencia;
 
-III. Los autos de procesamiento, libertad, competencia, impedimentos, suspensión, continuación, acumulación y separación; los que rechacen incidentes, recursos o promociones por considerar que son frívolos o improcedentes; los que nieguen la aprehensión o la presentación; los que resuelven promociones relativas a la existencia del delito y la probable responsabilidad, así como las referentes a las causas extintivas de la pretensión, y aquellos en que se decidan cuestiones concernientes a la prueba e incidentes no especificados;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+III. Los autos de procesamiento, libertad, competencia, impedimentos, suspensión, continuación, acumulación y separación, los que rechacen incidentes, recursos o promociones por considerar que son frívolos o improcedentes; los que resuelven promociones relativas a la existencia del delito y la probable responsabilidad, así como las referentes a las causas extintivas de la pretensión, y aquellos en que se decidan cuestiones concernientes a la prueba e incidentes no especificados;
 
 IV. Las resoluciones del juzgador que integren la ley procesal o suministren información u orientación a las partes sobre puntos del procedimiento o normas aplicables en éste. Cuando el tribunal de alzada considere que el Juez anticipó su criterio sobre la sentencia definitiva, dispondrá que pase la causa a otro juzgador, conforme al orden que correspondería si se tratase de impedimento, para que continúe hasta dictar sentencia; y
 
 V. Las demás resoluciones que la ley señale.
 
-Son apelables por el Ministerio Público los autos en que se niegue la orden de aprehensión, reaprehensión o presentación, así como los que nieguen el cateo y cualesquiera medidas precautorias solicitadas por aquél, sin perjuicio de la apelación que pueden interponer el ofendido o su asesor legal cuando la medida se relacione con los intereses patrimoniales de aquél.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+Son apelables por el Ministerio Público los autos en que se niegue la orden de aprehensión, presentación o reaprehensión, los que otorguen órdenes de aprehensión o presentación por un delito distinto del señalado por el Agente del Ministerio Público, así como los que nieguen el cateo y cualesquiera medidas precautorias solicitadas por aquél, sin perjuicio de la apelación que pueden interponer el ofendido o su asesor legal cuando la medida se relacione con los intereses patrimoniales de aquél.
 
 > <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
 
@@ -1503,9 +1575,13 @@ Si el tribunal considera que se debe cambiar el efecto en que se admitió, lo de
 
 En todo caso se resolverá con audiencia de las partes.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 204.
 
-Resuelto el punto al que se refiere el artículo anterior, el tribunal citará a las partes para la audiencia de vista y abrirá un plazo de cinco días para el ofrecimiento de pruebas, que se desahogarán en aquélla. Son admisibles todas las pruebas que no se hubiesen rendido en primera instancia, si quien las ofrece acredita, a satisfacción del tribunal, que no tuvo conocimiento o acceso a ellas. La documental pública es admisible en todo momento, hasta antes de que se dicte sentencia, sin perjuicio de acreditar su autenticidad en artículo especial, cuando fuese cuestionada.
+Resuelto el punto al que se refiere el artículo anterior, el Tribunal citará al Agente del Ministerio Público, al inculpado si estuviere en el lugar, al defensor nombrado, al ofendido y a su asesor jurídico, para la audiencia de vista y abrirá un plazo de cinco días para el ofrecimiento de pruebas, que se desahogarán en aquella. Son admisibles todas las pruebas que no se hubiesen rendido en primera instancia, si quien las ofrece acredita, a satisfacción del tribunal, que no tuvo conocimiento o acceso a ellas. La documental pública es admisible en todo momento, hasta antes de que se dicte sentencia, sin perjuicio de acreditar su autenticidad en artículo especial, cuando fuese cuestionada.
+
+Esta audiencia se realizará concurran o no las partes, salvo el Ministerio Público, el defensor y el asesor jurídico, pero cuando falte uno de los dos últimos o ambos, la Sala considerará la posibilidad y conveniencia de designar en el acto un defensor de oficio o un asesor legal público para que intervenga en la audiencia.
 
 ###### ARTÍCULO 205.
 
@@ -1517,59 +1593,67 @@ Desahogadas las pruebas, el tribunal escuchará los alegatos verbales de las par
 
 Si apelaron el ofendido o sus derechohabientes, el tribunal precisará en su resolución los derechos de éstos que deben quedar a salvo, en su caso, no obstante el sentido de la sentencia combatida, y concederá a aquéllos lo que legalmente les corresponda, tomando en cuenta la naturaleza civil de la pretensión que sostienen.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 207.
 
-La nulidad de una actuación se reclamará en el acto o dentro de los tres días siguientes a la conclusión de aquélla. Se tramitará con efectos suspensivo y retentivo, y se substanciará en la forma prevista para los incidentes diversos.
+En el recurso de apelación, la Sala podrá decretar la reposición del procedimiento a petición de la parte que no hubiese incurrido en la causa que la motive.
 
-Si se declara nulo el acto, quedarán invalidados igualmente los que deriven de él en forma directa. Se repondrá como legalmente corresponda y se realizarán de nueva cuenta los demás actos anulados.
+Las partes no podrán alegar agravios respecto a violaciones, con las que se conformaron expresamente o contra los que no intentaron los recursos procedentes, en su oportunidad; salvo que no hubieran tenido conocimiento de ellos cuando se causaron.
+
+No obstante, si la Sala encuentra que hubo violación del procedimiento que dejó sin defensa al procesado y que sólo por torpeza o negligencia del defensor no fue combatida debidamente, podrá suplir la deficiencia y ordenar que se reponga dicho procedimiento.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 208.
+
+La Sala determinará la subsistencia de actos que no se hallen vinculados con el acto nulo que determina la reposición del procedimiento, y que satisfagan las condiciones que la ley dispone para que sean válidos.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+###### ARTÍCULO 209.
 
 Habrá lugar a la reposición del procedimiento, a partir del acto en que se causó el agravio:
 
 I. Por no haberse observado las garantías que concede al inculpado la Constitución General de la República y la particular del Estado, así como los derechos que derivan inmediatamente de éstas, en los términos previstos por el presente Código;
 
-II. Por no haber sido citada alguna de las partes a las diligencias que tuviere derecho a presenciar;
+II. Por no designársele intérprete al inculpado que no hable o no entienda suficientemente el idioma castellano, en los términos que señale la ley;
 
-III. Por no haberse recibido a alguna de las partes, injustificadamente, las pruebas que hubiese ofrecido con arreglo a la ley;
+III. Por no haber sido citada alguna de las partes a las diligencias a las que tenga derecho a presenciar;
 
-IV. Por haberse celebrado el juicio sin asistencia del juzgador que debe sentenciar, de su secretario o testigos de asistencia y del Ministerio Público;
+IV. Por no haberse recibido a alguna de las partes, injustificadamente, las pruebas que hubiese ofrecido con arreglo a la ley;
 
-V. Por no haber sido adecuada la defensa del inculpado, salvo cuando baste con la suplencia de las deficiencias a que alude el artículo 196. Se entiende que la defensa no es adecuada cuando el defensor se abstiene sistemáticamente de cumplir los deberes a su cargo; se limita a solicitar la libertad provisional del inculpado, sin llevar adelante otros actos de defensa; no promueve las pruebas notoriamente indispensables para sostener los intereses de aquél, o no propone, siendo posible hacerlo, conclusiones que mejoren apreciablemente las consecuencias jurídicas del proceso sobre el inculpado;
+V. Por haberse celebrado el juicio sin asistencia del juzgador que debe sentenciar, de su secretario o testigos de asistencia y del Ministerio Público;
 
-VI. Por haberse condenado al inculpado por hechos distintos de los considerados en las conclusiones del Ministerio Público;
+VI. Por no haber sido adecuada la defensa del inculpado, salvo cuando baste con la suplencia de las deficiencias a que alude el artículo 196. Se entiende que la defensa no es adecuada, cuando el defensor se abstiene sistemáticamente de cumplir los deberes a su cargo; se limita a solicitar la libertad provisional del inculpado sin llevar adelante otros medios de defensa; no promueve las pruebas notoriamente indispensables para sostener los intereses de aquél, o no propone, siendo posible hacerlo, conclusiones que mejoren apreciablemente las consecuencias jurídicas del proceso sobre el inculpado;
 
-VII. Por haberse negado a alguna de las partes los recursos procedentes, o por haberse resuelto la revocación en forma contraria a derecho; y
+VII. Por haberse condenado al inculpado por hechos distintos de los considerados en las conclusiones del Ministerio Público;
 
-VIII. Por haberse tenido en cuenta una diligencia que conforme a la ley sea nula, si no fue posible impugnarla oportunamente mediante recurso de nulidad.
+VIII. Por haberse negado a alguna de las partes los recursos procedentes, o por haberse resuelto la revocación en forma contraria a derecho; y
 
-###### ARTÍCULO 209.
+IX. Por haberse tenido en cuenta una diligencia que conforme a la ley sea nula si no fue posible impugnarla oportunamente mediante recurso de nulidad.
 
-La reposición del procedimiento se promoverá ante el Juez de primera instancia por la parte que no hubiese incurrido en la causa que motiva la reposición, al notificarse la sentencia definitiva o dentro de los cinco días siguientes a la fecha en que la notificación surta efectos.
-
-Las partes no podrán alegar agravios con los que se conformaron expresamente o contra los que no intentaron los recursos procedentes, en su oportunidad, salvo que no hubieran tenido conocimiento de ellos cuando se causaron.
-
-Promovida la reposición, el Juez de primer grado se limitará a remitir las actuaciones al tribunal que debe conocer, y éste radicará el asunto y notificará a las partes, todo ello en la forma prevista para el recurso de apelación.
-
-No obstante lo indicado en el primer párrafo de este artículo, si el Tribunal Superior encuentra que hubo violación del procedimiento que dejó sin defensa al procesado y que sólo por torpeza o negligencia del defensor no fue combatida debidamente, podrá suplir la deficiencia y ordenar que se reponga dicho procedimiento.
-
-La reposición del procedimiento se substanciará con efectos suspensivo y devolutivo si en el proceso recayó sentencia condenatoria, y con efectos ejecutivo y devolutivo, si la sentencia fue absolutoria.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 210.
 
-El tribunal determinará la subsistencia de actos que no se hallen vinculados con el acto nulo que determina la reposición del procedimiento, y que satisfagan las condiciones que la ley dispone para que sean válidos.
+Cuando la Sala encuentre que el Juez de primera instancia violó inexcusablemente la ley del procedimiento, pondrá los hechos en conocimiento del Consejo de la Judicatura o del Ministerio Público según corresponda, en virtud de la naturaleza de la violación.
+
+Asimismo, la Sala impondrá una corrección disciplinaria al defensor que hubiese faltado a los deberes de su función, o dará vista al Ministerio Público si el incumplimiento es probablemente delictuoso. Si se trata de defensor de oficio, se informará, además, al superior jerárquico de aquél haciendo notar la negligencia o ineptitud de dicho defensor. En el caso de defensor particular, la Sala ordenará que se publique en el Boletín Judicial el nombre del defensor que incurrió en la falta, señalando ésta y el proceso en que se cometió.
 
 ### CAPÍTULO IV. NULIDAD
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 211.
 
-Cuando, con motivo del recurso de reposición, el Tribunal Superior encuentre que el Juez de primera instancia violó inexcusablemente la ley del procedimiento, pondrá los hechos en conocimiento del Consejo de la Judicatura o del Ministerio Público, según corresponda en virtud de la naturaleza de la violación.
+La nulidad de una actuación se reclamará en el acto o dentro de los tres días siguientes a la conclusión de aquélla. Se tramitará con efectos suspensivo y retentivo, y se substanciará en la forma prevista para los incidentes diversos.
 
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
+Si se declara nulo el acto, quedarán invalidados igualmente los que deriven de él en forma directa. Se repondrá como legalmente corresponda y se realizarán de nueva cuenta los demás actos anulados.
 
-Asimismo, el tribunal impondrá una corrección disciplinaria al defensor que hubiese faltado a los deberes de su función, o dará vista al Ministerio Público si el incumplimiento es probablemente delictuoso. Si se trata de defensor de oficio se informará, además, al superior jerárquico de aquél, haciendo notar la negligencia o ineptitud de dicho defensor. En el caso de defensor particular, el tribunal ordenará que se publique en el Boletín Judicial el nombre del defensor que incurrió en la falta, señalando ésta y el proceso en que se cometió.
+(REUBICADO, P.O. 9 DE NOVIEMBRE DE 2002)
 
-### CAPÍTULO V. REPOSICIÓN DEL PROCEDIMIENTO
+### CAPÍTULO V. DENEGADA APELACIÓN
 
 ###### ARTÍCULO 212.
 
@@ -1583,7 +1667,9 @@ Recibida por el superior la documentación mencionada en el primer párrafo del 
 
 Si se admite la apelación o se modifica el efecto, se pedirá al juzgador de primera instancia el expediente o la constancia, en su caso, para sustanciar aquélla.
 
-### CAPÍTULO VI. DENEGADA APELACIÓN
+(REUBICADO, P.O. 9 DE NOVIEMBRE DE 2002)
+
+### CAPÍTULO VI. QUEJA
 
 ###### ARTÍCULO 214.
 
@@ -1599,7 +1685,9 @@ El tribunal dará entrada al recurso y requerirá al juzgador señalado como omi
 
 Transcurrido el plazo al que se refiere el párrafo anterior, el tribunal resolverá lo que proceda, aunque no hubiese recibido el informe del Juez. Si se estima fundado el recurso, requerirá al faltista para que cumpla inmediatamente su obligación, apercibiéndolo de la sanción que corresponda si persiste el incumplimiento. De todas las quejas que se declaren procedentes se dará aviso al Pleno del Consejo de la Judicatura.
 
-### CAPÍTULO VII. QUEJA
+(REUBICADO, P.O. 9 DE NOVIEMBRE DE 2002)
+
+### CAPÍTULO VII. ANULACIÓN DE LA SENTENCIA EJECUTORIA
 
 ###### ARTÍCULO 216.
 
@@ -1627,17 +1715,21 @@ Dentro de los cinco días siguientes a la presentación de la solicitud, el Trib
 
 Concluida la audiencia, el tribunal dispondrá de cinco días para resolver. Si se reconoce la inocencia, quedará anulada la sentencia condenatoria, se dará aviso al tribunal que condenó para que haga la anotación correspondiente en la sentencia y se publicará en el Boletín Judicial una síntesis del fallo que reconoció la inocencia. En caso de hallarse recluido el sentenciado, se le pondrá en inmediata libertad.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 220.
 
-Cuando una ley suprima un tipo penal o modifique la naturaleza, duración, cuantía o modalidades de la sanción, quien pudiere resultar beneficiado por la nueva norma ocurrirá a la autoridad de la que dependa su situación jurídica para que ésta disponga la aplicación de la ley posterior más favorable. En estos casos, dicha autoridad podrá actuar de oficio.
+Cuando una ley suprima un delito o modifique la naturaleza, duración, cuantía o modalidades de la sanción, quien pudiere resultar beneficiado por la nueva norma ocurrirá a la autoridad de la que dependa su situación jurídica para que ésta disponga la aplicación de la ley posterior más favorable. En estos casos, dicha autoridad podrá actuar de oficio.
 
 ## TÍTULO SÉPTIMO. LIBERTAD DEL INCULPADO
 
-### CAPÍTULO VIII. ANULACIÓN DE LA SENTENCIA EJECUTORIA
+### CAPÍTULO I. REGLAS GENERALES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 221.
 
-El sobreseimiento y la desacreditación de las pruebas que sirvieron para establecer los elementos del tipo penal aparejan la conclusión del proceso y la libertad absoluta del inculpado. Aquél se resolverá en el principal y ésta se tramitará en incidente por separado. Asimismo, se dispondrá la libertad absoluta del inculpado cuando se esté en los casos previstos por los artículos 174 y 220.
+El sobreseimiento y la desacreditación de las pruebas que sirvieron para establecer los elementos del cuerpo del delito aparejan la conclusión del proceso y la libertad absoluta del inculpado. Aquél se resolverá en el principal y ésta se tramitará en incidente por separado. Asimismo, se dispondrá la libertad absoluta del inculpado cuando se esté en los casos previstos por los artículos 174 y 220.
 
 > <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
 
@@ -1655,7 +1747,7 @@ Las disposiciones contenidas en este título acerca de la libertad provisional, 
 
 La libertad otorgada por el Ministerio Público subsistirá en el proceso, bajo los términos en que fue concedida, salvo lo que disponga la autoridad judicial.
 
-### CAPÍTULO I. REGLAS GENERALES
+### CAPÍTULO II. LIBERTAD BAJO CAUCIÓN
 
 ###### ARTÍCULO 223.
 
@@ -1671,9 +1763,13 @@ Si se niega la libertad, podrá solicitarse de nuevo y concederse cuando resulte
 
 Para fijar el monto de la caución, que deberá satisfacer los propósitos previstos en el artículo anterior, el Juez estimará la cuantía de los daños causados conforme a los datos reunidos en las actuaciones, ponderará las condiciones económicas del inculpado y tomará en cuenta la naturaleza de la garantía que éste ofrezca.
 
-Si de lo actuado con posterioridad se desprende que la multa aplicable o los daños causados son mayores que los previstos originalmente, y que por lo tanto es preciso modificar la fijación de garantía para dar cumplimiento a lo estipulado en el primer párrafo de la fracción I del artículo 20 de la Constitución General de la República, el Juez dispondrá que se eleve consecuentemente el monto de la caución. Cuando se advierta que la multa o los daños son menores que los previstos con anterioridad, el Juez ordenará que se reduzca dicho monto, en la medida que corresponda.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
-Para fijar la cuantía de la multa, por lo que toca al otorgamiento de la libertad caucional, se estará al término máximo de la sanción aplicable.
+Si de lo actuado con posterioridad se desprende que la multa aplicable o los daños causados son mayores que los previstos originalmente, y que por lo tanto es preciso modificar la fijación de garantía para dar cumplimiento a lo estipulado en el primer párrafo de la fracción I del apartado A del artículo 20 de la Constitución General de la República, el Juez dispondrá que se eleve consecuentemente el monto de la caución. Cuando se advierta que la multa o los daños son menores que los previstos con anterioridad, el Juez ordenará que se reduzca dicho monto, en la medida que corresponda.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+Para fijar la cuantía de la multa, por lo que toca al otorgamiento de la libertad caucional, se estará a las circunstancias de ejecución del delito.
 
 ###### ARTÍCULO 225.
 
@@ -1733,7 +1829,7 @@ Se mandará aprehender o reaprehender al inculpado y se hará efectiva la cauci�
 
 El tribunal ordenará cancelar la garantía cuando no proceda hacerla efectiva en los términos del párrafo anterior, se dicte sentencia absolutoria, sobreseimiento o libertad absoluta del inculpado, y esas resoluciones causen ejecutoria, o se le condene y se presente a cumplir su condena.
 
-### CAPÍTULO II. LIBERTAD BAJO CAUCIÓN
+### CAPÍTULO III. LIBERTAD BAJO PROTESTA
 
 ###### ARTÍCULO 230.
 
@@ -1759,11 +1855,13 @@ Procede la libertad bajo protesta, sin los requisitos que señala el artículo a
 
 La libertad bajo protesta se revocará por las mismas causas que implican la revocación de la libertad caucional, en lo procedente, o porque el tribunal cuente con elementos que le permitan suponer, fundadamente, que el inculpado dejará de cumplir las obligaciones que trae consigo la libertad bajo protesta. En este caso, el inculpado podrá solicitar la libertad bajo caución.
 
-### CAPÍTULO III. LIBERTAD BAJO PROTESTA
+### CAPÍTULO IV. LIBERTAD POR DESACREDITACIÓN DE PRUEBAS
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 233.
 
-Procederá la libertad del inculpado en cualquier estado de la instrucción, después del auto de procesamiento y hasta el cierre de aquélla, cuando queden plenamente desacreditadas las pruebas en las que se sustentó dicho auto, relativas a los elementos del tipo penal o a la probable responsabilidad del inculpado, sin que hayan aparecido otras que prueben dichos extremos.
+Procederá la libertad del inculpado en cualquier estado de la instrucción, después del auto de procesamiento y hasta el cierre de aquélla, cuando queden plenamente desacreditadas las pruebas en las que se sustentó dicho auto, relativas a los elementos del cuerpo del delito o a la probable responsabilidad del inculpado, sin que hayan aparecido otras que prueben dichos extremos.
 
 > <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
 
@@ -1775,15 +1873,15 @@ Cualquiera de las partes puede solicitar la libertad por desacreditación de pru
 
 Cuando se decrete la liberación del inculpado por haberse desacreditado las pruebas relativas a su probable responsabilidad en el delito imputado, el Ministerio Público podrá solicitar al juzgador la práctica de nuevas diligencias y requerir, con apoyo en éstas, el libramiento de orden de reaprehensión o presentación. Si transcurre el tiempo previsto en el artículo 174 sin que se dicte dicha orden, la libertad será definitiva.
 
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 236.
 
-La solicitud del Ministerio Público para que se conceda la libertad por desacreditación de pruebas implica petición de sobreseimiento, cuando se pida en relación con las pruebas referentes a los elementos del tipo penal. En consecuencia, se procederá conforme a lo previsto para la promoción respectiva.
+La solicitud del Ministerio Público para que se conceda la libertad por desacreditación de pruebas implica petición de sobreseimiento cuando se pida en relación con las pruebas referentes a los elementos del cuerpo del delito. En consecuencia, se procederá conforme a lo previsto para la promoción respectiva.
 
 ## TÍTULO OCTAVO. INCIDENTES DIVERSOS
 
-### CAPÍTULO IV. LIBERTAD POR DESACREDITACIÓN DE PRUEBAS
+### CAPÍTULO I. CONFLICTOS DE COMPETENCIA
 
 ###### ARTÍCULO 237.
 
@@ -1815,7 +1913,7 @@ Recibido el asunto por el superior, éste recabará de los jueces contendientes 
 
 El juzgador declarado competente que reciba las actuaciones del incompetente, continuará el proceso a partir del último acto realizado por éste.
 
-### CAPÍTULO I. CONFLICTOS DE COMPETENCIA
+### CAPÍTULO II. IMPEDIMENTOS
 
 ###### ARTÍCULO 243.
 
@@ -1851,7 +1949,7 @@ Cuando se declare infundada la recusación, se impondrá al recusante una sanci�
 
 Si se declara fundada la recusación, se enviará copia certificada de la resolución respectiva al Presidente del Consejo de la Judicatura.
 
-### CAPÍTULO II. IMPEDIMENTOS
+### CAPÍTULO III. ACUMULACIÓN DE PROCESOS
 
 ###### ARTÍCULO 249.
 
@@ -1873,7 +1971,7 @@ Se podrá disponer la acumulación de procesos una vez dictado el auto de proces
 
 Si no se decreta la acumulación, el juzgador que primero dicte sentencia la comunicará al que deba dictarla después, para los fines de la aplicación de sanciones, indicando si se trata de ejecutoria.
 
-### CAPÍTULO III. ACUMULACIÓN DE PROCESOS
+### CAPÍTULO IV. SEPARACIÓN DE PROCESOS
 
 ###### ARTÍCULO 251.
 
@@ -1883,7 +1981,7 @@ La separación sólo procederá en el curso de la instrucción, sin suspender el
 
 El tribunal que dicte sentencia primero, la comunicará al que haya de dictarla después, para los efectos de la aplicación de sanciones, indicando si se trata de ejecutoria.
 
-### CAPÍTULO IV. SEPARACIÓN DE PROCESOS
+### CAPÍTULO V. SUSPENSIÓN DEL PROCESO
 
 ###### ARTÍCULO 252.
 
@@ -1891,7 +1989,9 @@ Se suspenderá el proceso, de oficio o a petición de parte, en los siguientes c
 
 I. Cuando el inculpado se sustraiga a la acción de la justicia. Se entiende que aquél se encuentra sustraído a la acción de la justicia desde que se dicta hasta que se ejecuta la orden de aprehensión, reaprehensión o presentación dictada en su contra;
 
-II. Cuando exista obstáculo procesal o se advierta la falta de un requisito de procedibilidad para la persecución del delito;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+II. Cuando exista obstáculo procesal para la persecución del delito;
 
 III. Cuando por padecer enfermedad mental superveniente a la comisión del delito, el inculpado no pueda tener, razonablemente, la participación que le corresponde en el proceso;
 
@@ -1903,9 +2003,11 @@ V. En los demás casos en que la ley lo ordene expresamente.
 
 Cuando se presente una causa de suspensión, el Juez hará la declaratoria respectiva. Cualquiera de las partes podrá promover la suspensión del procedimiento. En todo caso, ésta se resolverá por separado del principal, con audiencia de las partes o sólo de sus representantes, según la naturaleza del motivo que determine la suspensión. En la audiencia, las partes presentarán las pruebas que consideren pertinentes y alegarán lo que a su derecho convenga.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 254.
 
-La suspensión fundada en la fracción I del artículo 252 no impide la práctica de diligencias para acreditar los elementos que integran el tipo penal y la probable responsabilidad. Estas diligencias se podrán repetir, si el juzgador lo estima pertinente, cuando se obtenga la captura del inculpado. La sustracción de cualquiera de los inculpados a la acción de la justicia, no impide que continúe el procedimiento en relación con los demás.
+La suspensión fundada en la fracción I del artículo 252 no impide la práctica de diligencias para acreditar los elementos que integran el cuerpo del delito y la probable responsabilidad. Estas diligencias se podrán repetir, si el juzgador lo estima pertinente, cuando se obtenga la captura del inculpado. La sustracción de cualquiera de los inculpados a la acción de la justicia, no impide que continúe el procedimiento en relación con los demás.
 
 En los casos de las fracciones I y III de dicho precepto, el juzgador podrá adoptar de oficio o a petición del Ministerio Público, del ofendido o del representante de éste, medidas precautorias patrimoniales conducentes a la reparación de los daños y perjuicios.
 
@@ -1919,7 +2021,7 @@ El proceso continuará cuando desaparezca la causa que motivó la suspensión. E
 
 Cuando el tribunal que conozca de un asunto no penal advierta que se encuentra en curso un proceso de esta última naturaleza, de cuya sentencia pudiera depender, jurídicamente, la resolución que se adopte en aquél, dispondrá de oficio o a petición de parte que se suspenda el procedimiento que ante él se desarrolla hasta que concluya el penal y se tenga conocimiento de la resolución firme que recaiga en éste.
 
-### CAPÍTULO V. SUSPENSIÓN DEL PROCESO
+### CAPÍTULO VI. INCIDENTES DIVERSOS
 
 ###### ARTÍCULO 257.
 
@@ -1929,13 +2031,15 @@ En tal caso se dará vista de la promoción a las partes, para que manifiesten l
 
 ## TÍTULO NOVENO. PROCEDIMIENTOS ESPECIALES
 
-### CAPÍTULO VI. INCIDENTES DIVERSOS
+### CAPÍTULO I. REPARACIÓN DE DAÑOS Y PERJUICIOS
 
 ###### ARTÍCULO 258.
 
 Desde la averiguación previa, el ofendido podrá actuar en procuración de sus intereses, por sí o asistido de asesor, que tendrá los mismos derechos que un defensor. Si carece de éste, el Ministerio Público lo designará. El asesor designado durante la averiguación previa asistirá al ofendido en las etapas posteriores del procedimiento, hasta la sentencia de segunda instancia, en su caso, si no se hace nuevo nombramiento.
 
-En el curso de la averiguación, el ofendido podrá suministrar al Ministerio Público los elementos de que disponga y que contribuyan a la comprobación de los elementos del tipo penal, la probable responsabilidad, los daños y perjuicios causados por el delito y la cuantía de éstos.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+En el curso de la averiguación, el ofendido podrá suministrar al Ministerio Público los datos o medios de pruebas que disponga y que contribuyan a la comprobación de los elementos del cuerpo del delito, la probable responsabilidad, los daños y perjuicios causados por el delito y la cuantía de éstos.
 
 Asimismo, el ofendido podrá solicitar la adopción de medidas conducentes a restituirlo en el ejercicio de sus derechos y el disfrute de sus bienes afectados por el delito, así como de las de carácter precautorio que resulten pertinentes, ofreciendo, en su caso, las cauciones que garanticen el pago de los daños y perjuicios que pudieran causarse a terceros o al inculpado.
 
@@ -1967,11 +2071,13 @@ Cuando se dicte el sobreseimiento en el caso previsto por el párrafo anterior, 
 
 En los casos de suspensión del procedimiento por demencia del inculpado o sustracción de éste a la acción de la justicia, continuará la tramitación del procedimiento de reparación de daños y perjuicios, hasta dictarse sentencia.
 
-### CAPÍTULO I. REPARACIÓN DE DAÑOS Y PERJUICIOS
+### CAPÍTULO II. PROCEDIMIENTOS RELATIVOS A INIMPUTABLES Y FARMACODEPENDIENTES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 264.
 
-El procedimiento y las medidas pertinentes en caso de inimputabilidad del agente cuando cometió el delito, se sustentan en la comprobación de los elementos del tipo penal correspondiente al delito que se le atribuya, así como de su participación en el hecho punible bajo cualquiera de los títulos previstos en el Código Penal como supuestos de responsabilidad delictuosa.
+El procedimiento y las medidas pertinentes en caso de inimputabilidad del agente cuando cometió el delito, se sustentan en la comprobación de los elementos del cuerpo del delito correspondiente al delito que se le atribuya, así como de su participación en el hecho punible bajo cualquiera de los títulos previstos en el Código Penal como supuestos de responsabilidad delictuosa.
 
 Si no se acreditan estos extremos, el juzgador penal pondrá en absoluta libertad al inculpado, pero deberá dar cuenta de la liberación a la autoridad judicial o administrativa que deba intervenir en el caso, considerando el padecimiento que sufre el sujeto.
 
@@ -1999,9 +2105,7 @@ Si cesa el trastorno que determinó la suspensión, proseguirá el procedimiento
 
 Si el inculpado por un delito del orden común tiene el hábito o la necesidad de consumir estupefacientes o psicotrópicos, pero no se trata de un enfermo mental, continuará el procedimiento ordinario hasta sentencia, y el juzgador informará a la autoridad sanitaria para que se brinde al sujeto la atención pertinente.
 
-### CAPÍTULO II. PROCEDIMIENTOS RELATIVOS A INIMPUTABLES Y FARMACODEPENDIENTES
-
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1997)</small>
+### CAPÍTULO III. SUSTITUCIÓN DE LA SANCIÓN PRIVATIVA DE LIBERTAD
 
 ###### ARTÍCULO 268.
 
@@ -2016,8 +2120,6 @@ El condenado en sentencia ejecutoria que considere reunir los requisitos legales
 La revocación de la sustitución se tramitará como incidente diverso.
 
 ### CAPÍTULO IV. APLICACIÓN DE SANCIONES A PERSONAS JURIDICAS COLECTIVAS
-
-### CAPÍTULO III. SUSTITUCIÓN DE LA SANCIÓN PRIVATIVA DE LIBERTAD
 
 ###### ARTÍCULO 270.
 
@@ -2076,3 +2178,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los procedimientos penales que se estén tramitando ante las autoridades del Estado al entrar en vigor el correspondiente Decreto, continuarán tramitándose bajo las normas de éste, a no ser que las disposiciones reformadas con motivo del mismo, concedan mayores derechos al inculpado, en cuyo caso se aplicarán, para este fin, las mismas por serle más favorables.
 
 TERCERO. Los recursos interpuestos antes de la entrada en vigor del correspondiente Decreto, que no se hubiesen admitido o desechado y los que se estén tramitando, se admitirán o substanciarán conforme a lo determinado en el mismo y en lo conducente en las demás disposiciones del Código de Procedimientos Penales para el Estado de Tabasco.
+
+P.O. 9 DE NOVIEMBRE DE 2002.
+
+PRIMERO: El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones legales y reglamentos que se opongan al presente Decreto.
