@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-5-2000-del-pleno-del-consejo-de-la-50060
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-02-16"
-last_updated: "2004-09-17"
+last_updated: "2005-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50060&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-08"
 
 ACUERDO GENERAL NUMERO 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA ADSCRIPCION DE DIVERSAS UNIDADES ADMINISTRATIVAS A LA PRESIDENCIA DEL MISMO, Y ACTUALIZA LAS ATRIBUCIONES DEL SECRETARIADO EJECUTIVO, CON LAS DIRECCIONES GENERALES QUE LES CORRESPONDEN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MARZO DE 2005.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 16 de febrero de 2000.
 
@@ -715,7 +715,7 @@ XVIII. Formular y proponer su respectivo anteproyecto de presupuesto con apego a
 
 XIX. Elaborar y presentar los informes de actividades con la periodicidad que le sean requeridos; y,
 
-XX. Las demás que le atribuyan el secretario ejecutivo de Administración, la Comisión de Administración y el Pleno del consejo.
+XX. Las demás que le atribuyan el secretario ejecutivo de Administración, la Comisión de Administración y el Pleno del consejo
 
 Artículo 23 bis.- (DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 54/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE SEPTIEMBRE DE 2004)
 
@@ -859,9 +859,13 @@ XV. Proporcionar la asistencia que en materia de servicios administrativos solic
 
 XVI. Verificar que se proporcione el seguimiento y atención oportuna a las solicitudes administrativas efectuadas por los órganos jurisdiccionales del interior de la República;
 
-XVII. Elaborar y presentar su programa anual de trabajo, de actividades y los reportes de evaluación administrativa, con la periodicidad que le sean requeridos; y,
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 8/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MARZO DE 2005)</small>
 
-XVIII. Las demás que le atribuyan el secretario ejecutivo de Obra, Recursos Materiales y Servicios Generales, la Comisión de Administración y el Pleno del consejo.
+XVII. Formular, administrar, operar y mantener actualizado el Programa de Vivienda para Magistrados y Jueces del Poder Judicial de la Federación, así como el mantenimiento de las casas-habitación;
+
+XVIII. Elaborar y presentar su programa anual de trabajo, de actividades y los reportes de evaluación administrativa, con la periodicidad que le sean requeridos; y,
+
+XIX. Las demás que le atribuyan el secretario ejecutivo de Obra, Recursos Materiales y Servicios Generales, la Comisión de Administración y el Pleno del Consejo.
 
 > <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 54/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE SEPTIEMBRE DE 2004)</small>
 
@@ -945,7 +949,7 @@ XXXVI. Coordinar, conjuntamente con las áreas facultadas, la tramitación de pa
 
 XXXVII. Informar a las instancias competentes, sobre la cancelación de los saldos del presupuesto no ejercido de las obras, o las prórrogas para la ejecución de aquéllas, cuando así se requiera;
 
-XXXVIII. Formular, administrar, operar y mantener actualizado el Programa de Vivienda para Magistrados y Jueces del Poder Judicial de la Federación, así como el mantenimiento de las casas-habitación;
+XXXVIII. (DEROGADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 8/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MARZO DE 2005)
 
 XXXIX. Coordinar tanto la integración como la conservación de la información y documentación requerida de obras y servicios a las mismas, realizados en inmuebles al servicio del Poder Judicial de la Federación, con excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, y en su caso someterla a consideración de los órganos responsables de su revisión;
 
@@ -1147,7 +1151,7 @@ XLVII. Asesorar a las áreas administrativas que integran el Consejo, en los asp
 
 XLVIII. Formular y proponer su respectivo anteproyecto de presupuesto y su programa operativo anual, con apego a las políticas y lineamientos que emita el Consejo;
 
-XLIX. Elaborar y presentar su programa anual de trabajo, de actividades y los reportes de evaluación administrativa, con la periodicidad que le sean requeridos, y (sic)
+XLIX. Elaborar y presentar su programa anual de trabajo, de actividades y los reportes de evaluación administrativa, con la periodicidad que le sean requeridos, y
 
 > <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 21/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
 
@@ -1526,3 +1530,13 @@ D.O.F. 17 DE SEPTIEMBRE DE 2004.
 PRIMERO.-El presente acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.-Publíquese este acuerdo en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 4 DE MARZO DE 2005.
+
+PRIMERO.-El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.-Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente acuerdo.
+
+CUARTO.-La Secretaría Ejecutiva de Finanzas realizará las modificaciones a las estructuras orgánicas y a los manuales de organización que correspondan.
