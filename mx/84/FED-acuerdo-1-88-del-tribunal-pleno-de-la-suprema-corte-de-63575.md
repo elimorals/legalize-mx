@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1989-02-15"
+last_updated: "1989-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE FEBRERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE MARZO DE 1989.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -79,7 +79,9 @@ II.- SEGUNDO CIRCUITO:
 
 III.- TERCER CIRCUITO:
 
-1.- Un tribunal Colegiado en materia penal, tres tribunales Colegiados en materia administrativa, tres tribunales Colegiados en materia civil, un tribunal Colegiado en materia de trabajo y dos Tribunales Unitarios, con residencia en la ciudad de Guadalajara, Jalisco;
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO NUMERO 3/89 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 1 DE MARZO DE 1989)</small>
+
+1.- Un tribunal Colegiado en Materia Penal, tres tribunales Colegiados en Materia Administrativa, tres tribunales Colegiados en Materia Civil, un tribunal Colegiado en Materia de Trabajo y tres tribunales Unitarios, con residencia en la ciudad de Guadalajara, Jalisco;
 
 2.- Once Juzgados de Distrito en el Estado de Jalisco, con residencia en la ciudad de Guadalajara;
 
@@ -496,3 +498,7 @@ D.O.F. 15 DE FEBRERO DE 1989.
 PRIMERO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación.
 
 SEGUNDO.- Los asuntos que, hasta la entrada en vigor de este acuerdo, hayan sido recibidos en los juzgados de Distrito Primero, Segundo, Tercero y Cuarto, en el estado de Chihuahua, permanecerán en ellos hasta su resolución, aunque todavía no hayan sido radicados.
+
+D.O.F. 1 DE MARZO DE 1989.
+
+UNICO.- Este acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
