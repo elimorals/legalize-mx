@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2002-08-14"
+last_updated: "2003-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -375,7 +375,7 @@ a) Los relacionados con la extensión territorial y límites municipales;
 
 b) Las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia, así como los conflictos entre autoridades del Estado;
 
-c) Las renuncias y licencias del Titular del Poder eEjecutivo y de los Diputados;
+c) Las renuncias y licencias del Titular del Poder Ejecutivo y de los Diputados;
 
 d) La designación de Comisionados Ciudadanos de la Comisión Estatal Electoral y de los Magistrados del Tribunal Electoral del Estado;
 
@@ -752,6 +752,14 @@ Para el apoyo de las tareas del Congreso y de sus Comisiones se contará con los
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 Los Comités se integrarán en la quinta sesión del Primer Período Ordinario del Primer Año de Ejercicio Constitucional y serán revisados cada año, pudiendo sus miembros ser reelectos, bien sea en lo personal o en su conjunto. Sesionarán (sic) convocatoria de su Presidente, quien informará de ello a la Oficialía Mayor para la programación y apoyo de las sesiones. Los Presidentes de los Comités deberán convocar a sesión cuando así lo soliciten al menos, la mitad más uno de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2003)</small>
+
+Las Sesiones de los Comités serán públicas, salvo determinación en contrario de la mayoría de sus integrantes. Podrán participar en las reuniones, a invitación de su Presidente, representantes de grupos de interés, peritos u otras personas cuando así lo acuerden la mayoría de sus integrantes; de igual forma, el Presidente del Comité podrá autorizar la presencia de asesores y personal de apoyo para el desarrollo de los trabajos.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2003)</small>
+
+El Presidente del órgano de trabajo correspondiente, durante el desarrollo de las reuniones del mismo, tendrá las mismas atribuciones que la Ley y el Reglamento otorgan al Presidente del Congreso, relativas a la salvaguarda del orden y respeto al Congreso y a sus integrantes.
 
 ###### Artículo 61.
 
@@ -1563,7 +1571,7 @@ Si algún Diputado, Magistrado u otro Funcionario que deba protestar ante el Con
 
 ###### Artículo 153.
 
-Los Diputados harán uso de la palabra siempre de pié y preferentemente en la Tribuna, guardando durante las sesiones la compostura y seriedad inherente a su cargo.
+Los Diputados. harán uso de la palabra siempre de pié y preferentemente en la Tribuna, guardando durante las sesiones la compostura y seriedad inherente a su cargo.
 
 Podrán desde su lugar hacer intervenciones breves como secundar una propuesta o alguna moción.
 
@@ -1768,3 +1776,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 14 DE AGOSTO DE 2002.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MARZO DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
