@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1987-10-14"
+last_updated: "1988-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 1988.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -31,7 +31,7 @@ NICÉFORO ZAMBRANO, Gobernador Constitucional del Estado Libre y Soberano de Nue
 
 La XXXVII Legislatura del Estado Libre y Soberano de Nuevo León, en funciones de Constituyente, de acuerdo con el Decreto de 22 de Marzo próximo pasado, dictado por el Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, ha tenido a bien expedir la siguiente
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
+CONSTITUCION POLIICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
 
 ## TITULO I.
 
@@ -909,15 +909,19 @@ Las faltas temporales de los Magistrados serán cubiertas en los términos que e
 
 Para ser Magistrado y Procurador General de Justicia, se requiere:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 1988)</small>
 
-I.- Ser ciudadano mexicano por nacimiento y ciudadano nuevoleonés, nativo del Estado o con residencia en el mismo por más de diez años consecutivos e inmediatamente anteriores a la fecha de la elección, en ejercicio de sus derechos civiles y políticos;
+I.- Ser ciudadano mexicano por nacimiento y ciudadano nuevoleonés, nativo del Estado o con residencia en el mismo por más de cinco años consecutivos e inmediatamente anteriores a la fecha de la designación en ejercicio de sus derechos civiles y políticos;
 
-II.- Tener treinta años de edad cumplidos para la fecha de la elección o nombramiento;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 1988)</small>
+
+II.- No tener más de 65 años de edad, ni menos de 35 el día de la designación o nombramiento;
 
 III.- Ser vecino del Estado, Abogado recibido conforme a Ley y haber ejercido la profesión por cinco años, uno de ellos cuando menos en el Estado; y
 
-IV.- No haber sido condenado en proceso legal por delitos contra la propiedad o de cualesquiera otra clase, si la pena impuesta fuere mayor de dos años y no han transcurrido diez después de haberla sufrido. Quedan exceptuados los delitos políticos.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 1988)</small>
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
 (REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
 
@@ -973,21 +977,25 @@ Los Tribunales y Jueces no pueden ejercer otras funciones que las de juzgar y pr
 
 Ningún funcionario o empleado de la administración de justicia podrá ser abogado, apoderado en negocios agenos (sic), asesor, arbitro de derecho o arbitrador ni tener comisión alguna del Gobierno, excepto las de Instrucción Pública.
 
-> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ABRIL DE 1988)</small>
 
 ###### Art. 103.
 
-Los Jueces de Primera Instancia serán nombrados por el Tribunal Superior de Justicia en Pleno, a propuesta del Ejecutivo.
+Los Jueces de Primera Instancia y los Alcaldes Judiciales serán nombrados por el Tribunal Superior de Justicia en pleno.
+
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 Transcurrido un año después del nombramiento, el Tribunal, a propuesta del Gobernador, confirmará el mismo, para que surta efectos durante un lapso de tres años.
 
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
+
 Al término del plazo de tres años, a propuesta del Ejecutivo, el Tribunal declarará la inamovilidad en el cargo, la cual se perderá solamente por mala conducta, cuando incurran en faltas de probidad u honradez, negligencia en el desempeño de sus labores, sean condenados por sentencia ejecutoria en juicio de responsabilidad, acepten desempeñar otro empleo o encargo de la Federación, Estados, Municipios o particulares, excepto los servicios de Educación, sean jubilados en los términos legales o renuncien a su puesto.
 
-> <small>(REFORMADO, P.O. 1o. DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1988)</small>
 
 ###### Art. 104.
 
-Los Alcaldes Judiciales de la Ciudad de Monterrey, y de los Municipios a que se refiera la Ley Orgánica del Poder Judicial serán Licenciados en Derecho; éstos y los demás del Estado tendrán las facultades conciliatorias y judiciales que acuerde la Ley Orgánica respectiva. Los Alcaldes Judiciales serán nombrados popularmente cada tres años, en la forma que prevenga la Ley Electoral.
+Los Alcaldes Judiciales de la ciudad de Monterrey y de los municipios a que se refiere la Ley Orgánica del Poder Judicial serán Licenciados en Derecho; estos y los demás del Estado tendrán las facultades conciliatorias y judiciales que acuerde la Ley Orgánica respectiva.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
@@ -1978,3 +1986,7 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 14 DE OCTUBRE DE 1987.
 
 UNICO:- El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE ABRIL DE 1988.
+
+UNICO:- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
