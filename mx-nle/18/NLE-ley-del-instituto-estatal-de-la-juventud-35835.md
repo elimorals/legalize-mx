@@ -1,0 +1,530 @@
+---
+title: "LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD"
+identifier: "NLE-ley-del-instituto-estatal-de-la-juventud-35835"
+country: "mx"
+rank: "ley"
+publication_date: "2003-12-24"
+last_updated: "2003-12-24"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35835&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-nle"
+scjn_id: "35835"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "165"
+reform_count: "11"
+scjn_last_update: "2025-10-31"
+issue_date: "2003-12-22"
+state: "NLE"
+---
+# LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD
+
+LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
+
+EL C. JOSÉ NATIVIDAD GONZÁLEZ PARÁS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, A TODOS SU HABITANTES HAGO SABER:
+
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+
+DECRETO
+
+Núm. 38
+
+LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### Artículo 1.
+
+Las disposiciones contenidas en la presente Ley son de orden público, interés social y de observancia general en el Estado de Nuevo León y tienen por finalidad regular la organización y funcionamiento del organismo público descentralizado de participación ciudadana denominado Instituto Estatal de la Juventud.
+
+###### Artículo 2.
+
+El Instituto Estatal de la Juventud es un organismo público descentralizado de participación ciudadana de la Administración Pública Estatal, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de su objeto.
+
+Este Organismo tendrá su domicilio en la ciudad de Monterrey, Estado de Nuevo León, y éste podrá ser trasladado a cualquiera de los municipios del área conurbada de dicha ciudad, por acuerdo de la Junta de Gobierno.
+
+El Instituto podrá establecer oficinas regionales o municipales en el Estado, para la realización de su objeto.
+
+Para los efectos de esta Ley se entenderá por:
+
+Instituto: Instituto Estatal de la Juventud.
+
+Joven: Sujeto de derecho cuya edad comprende el rango entre los 12 y 29 años de edad, identificado como un actor social estratégico para la transformación y el mejoramiento de la sociedad.
+
+###### Artículo 3.
+
+Los programas, servicios y acciones que el Instituto lleve a cabo, se realizarán a favor de la población cuya edad quede comprendida entre los 12 y 29 años, sin distinción de género, origen étnico, estado civil, capacidades diferentes, preferencia sexual, condición social, condiciones de salud, opiniones, cultura, capacidad económica, religión, dogma o cualesquier otra característica o situación que pudiera significar discriminación alguna.
+
+###### Artículo 4.
+
+Además de lo establecido en el artículo 50 de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, el Instituto tendrá por objeto:
+
+I. Definir e instrumentar una política estatal de juventud que permita incorporar plenamente a los jóvenes al desarrollo político, económico y social del Estado;
+
+II. Planear, diseñar, desarrollar, coordinar, fomentar, promocionar y ejecutar en el Estado, las actividades encaminadas al desarrollo integral de la juventud, así como atender las demandas y propuestas emitidas por los jóvenes, individualmente o a través de las diversas organizaciones;
+
+III. Proponer y asesorar al Titular del Poder Ejecutivo del Estado en la planeación y programación de las políticas y acciones relacionadas con el desarrollo de la juventud, de acuerdo al Plan Estatal de Desarrollo;
+
+IV. Promover y asesorar a las dependencias o entidades de la Administración Pública Estatal, las autoridades municipales, y a los sectores social y privado, cuando así lo requieran, en las acciones destinadas a mejorar el nivel de vida de la juventud, así como sus expectativas sociales, culturales y derechos;
+
+V. Representar al Titular del Poder Ejecutivo en materia de juventud, ante los gobiernos federal, estatales y municipales, organizaciones privadas, sociales y organismos internacionales, así como foros, convenciones, encuentros y demás reuniones en las que dicho Titular solicite su participación; y
+
+VI. Coadyuvar con las instancias que correspondan para promover el respeto a los derechos de los jóvenes, así como la eliminación de toda forma de discriminación y la erradicación de la violencia hacia los mismos.
+
+###### Artículo 5.
+
+Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones:
+
+I. Elaborar el Programa Estatal de la Juventud de acuerdo a lo que determine el Reglamento Interior del Instituto, el que deberá contener los objetivo (SIC), estrategias y líneas de acción para promover el desarrollo integral de los jóvenes, atendiendo a los siguientes lineamientos básicos generales:
+
+a. Una perspectiva integral que permita abordar, desde todas las dimensiones sociales, los asuntos que son de interés para la juventud, promover la participación de los jóvenes y a la vez, tomará en cuenta para la definición e implementación de Programas y proyectos juveniles, las aspiraciones, intereses y prioridades de las y los jóvenes del Estado;
+
+b. Un sistema de empleo y bolsa de trabajo, capacitación laboral, recursos económicos para proyectos productivos, convenios y estímulos fiscales con las empresas del sector público y privado, y en general, todas las políticas y medidas para el apoyo a los jóvenes en la búsqueda de un empleo remunerado;
+
+c. Acciones para garantizar la determinación de normas especiales de protección al empleo para los jóvenes menores de edad y una supervisión exhaustiva de las mismas;
+
+d. Un sistema de becas, estímulos e intercambios académicos nacionales y extranjeros que promuevan, apoyen y fortalezcan el desarrollo educativo de la juventud;
+
+e. Lineamientos y acciones que permitan generar y divulgar información referente a temáticas de interés general prioritarias para las y los jóvenes;
+
+f. Lineamientos y acciones que permitan generar y divulgar información referente a la salud reproductiva, VIH-SIDA, educación sexual, embarazo en adolescentes, maternidad y paternidad responsable, problemática social de los jóvenes, entre otros;
+
+g. Mecanismos para el acceso masivo de los jóvenes a distintas manifestaciones culturales y un sistema de promoción y apoyo a iniciativas juveniles en esta materia, poniendo énfasis en la promoción y valores de los elementos culturales propios de la juventud;
+
+h. Mecanismos para el estudio, la sistematización, la promoción y el fortalecimiento de las diferentes identidades juveniles que coexisten en la sociedad;
+
+i. La creación, promoción y apoyo de un sistema de información que permita a los jóvenes del Estado, obtener, procesar, intercambiar y difundir información actualizada de interés, generando un banco de datos de consulta impresa y electrónica por los interesados;
+
+j. Acciones que apoyen en el fortalecimiento de las organizaciones juveniles autónomas, para que los jóvenes del Estado tengan oportunidades y posibilidades para construirse una vida digna;
+
+k. Directrices programáticas en asuntos juveniles que deberán ser observadas por las diversas Secretarías y entidades del Gobierno del Estado;
+
+l. Acciones afirmativas para los jóvenes en desventaja social por razón de pobreza, discapacidad o lugar de residencia;
+
+m. La proyección de los recursos, medios y lineamientos, que permitan el cumplimiento de las obligaciones que para el Instituto y demás entidades públicas se establece en esta y otras leyes en materia de promoción de las y los jóvenes;
+
+n. Acciones de fomento al servicio social de la juventud en donde puedan ejercer sus conocimientos adquiridos en las diferentes áreas, para así servir a la comunidad;
+
+o. Actividades de estímulo y reconocimiento, a jóvenes del Estado que hayan destacado en diversos ámbitos de la comunidad;
+
+p. Acciones que procuren el impulso a la igualdad de los jóvenes mediante la perspectiva de género en todos sus programas; y
+
+q. En general, toda política que el Gobierno del Estado observará en sus programas de apoyo a la juventud.
+
+II. Coordinar, dar seguimiento, supervisar y evaluar las estrategias y líneas de acción que se lleven a cabo en el marco del Programa Estatal de la Juventud;
+
+III. Formular y ejecutar planes y programas de atención a la juventud que se lleven a cabo en el Estado;
+
+IV. Promover y establecer la coordinación interinstitucional e intersectorial con organismos gubernamentales y de cooperación en el ámbito nacional e internacional, como mecanismo eficaz para fortalecer las acciones y programas a favor de la juventud, en los términos de la legislación aplicable;
+
+V. Celebrar los acuerdos y convenios con las autoridades federales, estatales y municipales, así como con las organizaciones privadas y sociales, para promover, implementar y ejecutar las políticas, acciones y programas tendientes al desarrollo integral de la juventud;
+
+VI. Promover, realizar y difundir estudios e investigaciones de la problemática y características juveniles;
+
+VII. Alentar, recibir, evaluar y canalizar las propuestas, sugerencias e inquietudes de la juventud;
+
+VIII. Prestar los servicios que se establezcan en los programas que formule el Instituto en la aplicación de esta Ley;
+
+IX. Coordinar, promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de los jóvenes del Estado;
+
+X. Elaborar programas y cursos de capacitación y desarrollo tendientes al mejoramiento de la juventud del Estado;
+
+XI. Fomentar la creación de instancias municipales o regionales de atención a la juventud; a fin de que los municipios desarrollen programas específicos que atiendan y den seguimiento a la problemática concreta que tienen los jóvenes, tales como asuntos de empleo, deportivos, esparcimiento, culturales, de lucha contra las adicciones, desarrollo humano, convivencia social, combate a la delincuencia, entre otras;
+
+XII. Impulsar en los procesos de planeación, programación y presupuestación, políticas públicas que beneficien a los jóvenes;
+
+XIII. Promover, en el ámbito de su competencia y ante las instancias que correspondan, la formulación y ejecución de acciones programas de combate a la marginación y exclusión de los jóvenes, a fin de propiciar condiciones de vida digna;
+
+XIV. Alentar y apoyar la integración de organizaciones juveniles que promuevan la participación de los jóvenes en los distintos ámbitos de la sociedad;
+
+XV. Gestionar ante las instancias que correspondan, la actualización y el fortalecimiento de los mecanismos jurídicos que aseguren el ejercicio eficaz de los derechos de los jóvenes;
+
+XVI. Promover, procurar y velar, en el ámbito de su competencia, que los jóvenes disfruten de los derechos que les están reconocidos en los ordenamientos jurídicos internacionales, federales y estatales, así como impulsar acciones para difundirlos y defenderlos;
+
+XVII. Diseñar, en la esfera de su competencia, estrategias tendientes a prevenir, atender y erradicar la violencia entre los jóvenes y el abuso hacia ellos, así como para combatir las prácticas de violación a sus derechos;
+
+XVIII. Fomentar, en coordinación con las instancias competentes, la formulación e implementación de programas preventivos, de tratamiento y de rehabilitación en materia de adicciones, así como en educación sexual y salud reproductiva, entre otros;
+
+XIX. Promover la participación de los jóvenes en proyectos productivos del sector público y privado;
+
+XX. Promover e impulsar la creación de fuentes de empleo y el financiamiento de créditos productivos, sociales y de servicios para los jóvenes;
+
+XXI. Impulsar y promover ante las autoridades competentes el establecimiento de programas educativos, becas, y apoyos financieros que alienten y estimulen la continuidad de los procesos de enseñanza-aprendizaje de los jóvenes;
+
+XXII. Promover, en coordinación con las dependencias competentes, el turismo juvenil;
+
+XXIII. Promover ante las dependencias y entidades que correspondan, el establecimiento de espacios de expresión cultural y artística para los jóvenes;
+
+XXIV. Solicitar asesoría a organizaciones nacionales e internacionales para que apoyen proyectos dirigidos a los jóvenes;
+
+XXV. Fomentar y difundir entre los jóvenes el acceso a acervos bibliográficos y documentales en las materias de interés para ellos, así como promover su acceso a nuevas tecnologías de información y comunicación;
+
+XXVI. Apoyar, en la esfera de su competencia, albergues, centros de atención e integración y casas de asistencia para jóvenes; y
+
+XXVII. Las demás que le otorguen esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
+
+### CAPÍTULO II. DE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL DEL INSTITUTO ESTATAL DE LA JUVENTUD
+
+###### Artículo 6.
+
+El Instituto contará con los siguientes órganos:
+
+I. El Consejo Joven de Participación Ciudadana;
+
+II. La Junta de Gobierno; y
+
+III. El Comisario.
+
+Además, contará con una Dirección General, con la estructura administrativa y operativa que se establezca en el Reglamento Interior y con las unidades que sean creadas por la Junta de Gobierno.
+
+#### Sección Primera. Del Consejo Joven de Participación Ciudadana del Instituto Estatal de la Juventud
+
+###### Artículo 7.
+
+El Instituto contará con un consejo de participación ciudadana denominado Consejo Joven de Participación Ciudadana, que será incluyente, plural y democrático, de carácter honorífico, exceptuando lo dispuesto en el artículo 8 fracciones II y III, representativo de la juventud del Estado.
+
+El Consejo Joven de Participación Ciudadana será un órgano asesor, propositivo y promotor de las acciones que se emprendan en beneficio de la juventud nuevoleonesa en el marco de esta Ley.
+
+###### Artículo 8.
+
+El Consejo Joven de Participación Ciudadana estará integrado por:
+
+I. Un Presidente Honorario, que será el Gobernador del Estado o quien designe en su representación;
+
+II. Un Presidente del Consejo, que será el Director General del Instituto, con derecho de voz y de voto;
+
+III. Un Secretario Técnico, designado por el Director General del Instituto, que tendrá derecho de voz, pero no de voto;
+
+IV. Veintisiete Vocales Consejeros, con voz y voto, que serán los siguientes:
+
+a) El titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León;
+
+b) El titular de la Presidencia Ejecutiva del Consejo de Desarrollo Social;
+
+c) El titular de la Presidencia Ejecutiva del Consejo de Relaciones Laborales y Productividad;
+
+d) El titular de la Dirección General del Instituto Estatal de Cultura Física y Deporte;
+
+e) Tres representantes de universidades o instituciones de educación superior en el Estado, públicas o privadas; y
+
+f) Veinte jóvenes o personas involucradas con el desarrollo integral de la juventud, representativas por haberse destacado en la promoción de las acciones de apoyo a la juventud, sin distinción de género, origen étnico, estado civil, capacidades diferentes, preferencia sexual, condición social, condiciones de salud, opiniones, cultura, capacidad económica, religión, dogma o cualesquier otra característica o situación que pudiera significar discriminación alguna.
+
+Por cada Vocal Consejero se podrá designar a su respectivo suplente.
+
+Podrán participar con voz, pero sin voto, representantes de otras dependencias e instituciones públicas, privadas y sociales, así como los encargados de los organismos oficiales de derechos humanos u otros similares, a invitación expresa del Gobernador del Estado o del Director General del Instituto.
+
+###### Artículo 9.
+
+Los vocales integrantes del Consejo Joven de Participación Ciudadana a que se refieren los incisos a), b), c) y d) de la fracción IV del artículo 8, son permanentes y asumirán su encargo ex oficio, por lo que serán ejercidos por las personas que ocupen los cargos correspondientes.
+
+Los Vocales Consejeros a que se refieren los incisos e) y f) de la fracción IV del Artículo 8, propietarios y suplentes, serán nombrados por invitación del Gobernador del Estado, a propuesta del Director General del Instituto, previa consulta pública o privada que este último realice a los directivos de las Universidades o Instituciones de educación superior para el caso de los vocales consejeros referidos en el mencionado inciso e), o a la comunidad para el caso de los consejeros a que hace referencia el citado inciso f); y sus funciones serán las de miembros de un órgano colegiado, su participación será a título de colaboración ciudadana y su desempeño tendrá carácter honorífico, rigiéndose por principios de buena fe y propósitos de interés general, por lo que no percibirán remuneración alguna por el desempeño de sus funciones ni serán considerados servidores públicos.
+
+Los vocales consejeros a que hace referencia el párrafo anterior, concluirán su encargo el día 30 de septiembre de cada año, independientemente de la fecha en que hayan iniciado dicho encargo, pudiendo ser designados nuevamente al término del período correspondiente, cuantas veces se considere necesario, para el adecuado cumplimiento de los fines del organismo, sin perjuicio de lo señalado, podrá sustituirse por renuncia, fallecimiento, incapacidad permanente, inasistencias o faltas graves, de acuerdo con lo establecido al efecto por el Reglamento Interior del Instituto y siguiendo el procedimiento aprobado en el mismo. En tal caso, los vocales sustitutos concluirán el período respecto del cual fueron designados los integrantes que fueron sustituidos.
+
+El Secretario Técnico será designado y removido libremente por el Director General del Instituto.
+
+###### Artículo 10.
+
+El Consejo Joven de Participación Ciudadana tendrá las siguientes facultades:
+
+I. Fungir como órgano de asesoría y consulta del Instituto en lo relativo a los programas, servicios y acciones en favor de la población cuya edad quede comprendida entre los 12 y 29 años, sin distinción de género, origen étnico, estado civil, capacidades diferentes, preferencia sexual, condición social, condiciones de salud, opiniones, cultura, capacidad económica, religión, dogma o cualesquier otra característica o situación que pudiera significar discriminación alguna;
+
+II. Impulsar y favorecer la participación de todos los sectores interesados en las acciones relacionadas con el objeto de esta Ley;
+
+III. Promover vínculos de coordinación con los responsables de las diversas instancias de gobierno, así como con los sectores y organizaciones de la sociedad en general;
+
+IV. Proponer y dar seguimiento al debido cumplimiento de las políticas públicas, programas, proyectos y acciones que se emprendan en beneficio de la juventud del Estado;
+
+V. Proponer líneas estratégicas en las diferentes temáticas relacionadas con los jóvenes;
+
+VI. Gestionar y promover la obtención de recursos con la intención de cumplir con el objeto del Instituto;
+
+VII. Difundir y promover los planes, programas, proyectos y acciones que desarrolle el Instituto, con los sectores público, privado y social a nivel nacional e internacional;
+
+VIII. Emitir opiniones y recomendaciones al Director General para el mejor ejercicio de las atribuciones del Instituto;
+
+IX. Integrar comisiones o comités para la atención de asuntos específicos; y
+
+X. Las que determine el Reglamento Interior del Instituto y demás disposiciones aplicables.
+
+###### Artículo 11.
+
+El Consejo Joven de Participación Ciudadana celebrará sesiones ordinarias cada cuatro meses, y las extraordinarias que sean necesarias cuando así convoquen el Presidente Honorario, el Director General o lo soliciten la mayoría de sus miembros.
+
+Las Sesiones del Consejo Joven de Participación Ciudadana, en primera convocatoria serán válidas con la asistencia del Director General y de al menos la mitad de los vocales, y en segunda convocatoria con la asistencia del Director General o del Secretario Técnico y con los vocales que asistan.
+
+El Consejo Joven de Participación Ciudadana podrá aprobar el calendario anual de Sesiones Ordinarias. De no ser así, al término de cada sesión se podrá citar a los presentes a la siguiente reunión, enviando invitación a los integrantes que no hubiesen asistido.
+
+Las sesiones extraordinarias serán convocadas por el Presidente Honorario, por el Director General o en virtud de la solicitud de la mayoría de los miembros del Consejo Joven de Participación Ciudadana, lo cual podrá hacerse a través del Director General o del Secretario Técnico.
+
+###### Artículo 12.
+
+Las decisiones del Consejo Joven de Participación Ciudadana se tomarán por mayoría de votos de los integrantes presentes y, en caso de empate, quien presida la sesión tendrá voto de calidad.
+
+###### Artículo 13.
+
+Las ausencias del Director General del Instituto a las sesiones del Consejo Joven de Participación Ciudadana, en segunda convocatoria, serán cubiertas por el Secretario Técnico. Las ausencias del Secretario Técnico a las sesiones del Consejo Joven de Participación Ciudadana serán cubiertas por el vocal que designe el Director General al inicio de cada sesión.
+
+###### Artículo 14.
+
+El Presidente del Consejo Joven de Participación Ciudadana tendrá las siguientes atribuciones:
+
+I. Convocar a las sesiones ordinarias y extraordinarias del Consejo en los términos anteriormente señalados;
+
+II. Presidir las sesiones ordinarias y extraordinarias del Consejo Joven de Participación Ciudadana y hacer cumplir sus acuerdos;
+
+III. Iniciar, concluir y, en su caso, suspender las sesiones del Consejo, así como dirigir y coordinar las intervenciones sobre los asuntos y proyectos sometidos a consideración;
+
+IV. Someter a votación los asuntos tratados; y
+
+V. Las demás facultades que le sean expresamente señaladas por el Reglamento Interior del Instituto.
+
+###### Artículo 15.
+
+El Secretario Técnico del Consejo, tendrá las siguientes atribuciones:
+
+I. Convocar a las sesiones ordinarias y extraordinarias del Consejo en los términos anteriormente señalados, sin perjuicio de que dichas convocatorias también podrán ser efectuadas por el Presidente Honorario o por el Director General;
+
+II. Acudir a las sesiones ordinarias y extraordinarias y formular las actas y acuerdos de las sesiones ordinarias y extraordinarias que celebre el Consejo;
+
+III. Proponer en cada caso el orden del día que se deberá desahogar en la sesión correspondiente; y
+
+IV. Las demás facultades que le sean expresamente señaladas por el Director General y por el Reglamento Interior del Instituto.
+
+#### Sección Segunda. De la Junta de Gobierno
+
+###### Artículo 16.
+
+La Junta de Gobierno se integrará por los siguientes miembros con derecho de voz y voto:
+
+I. El Titular del Ejecutivo del Estado, quien la presidirá;
+
+II. El Director General del Instituto, quien tendrá el carácter de Secretario de la Junta; y
+
+III. Cinco vocales, que serán:
+
+a) El Secretario General de Gobierno;
+
+b) El Secretario de Finanzas y Tesorero General del Estado;
+
+c) El Secretario de Desarrollo Económico;
+
+d) El Secretario de Educación, y
+
+e) El Secretario de Salud.
+
+Por cada miembro propietario, el titular podrá nombrar a un suplente, debiendo enviar previamente a las sesiones de la Junta de Gobierno, el documento en el que se informe de su designación.
+
+En caso de ausencia del titular del Ejecutivo Estatal, el Director General asumirá el cargo de presidente para esa sesión y nombrará a un secretario de la misma.
+
+###### Artículo 17.
+
+La Junta de Gobierno celebrará sesiones ordinarias cada seis meses y las extraordinarias que sean necesarias, a juicio del Director General del Instituto o de la mayoría de los miembros de la Junta de Gobierno, previa convocatoria del Director General o del Titular del Ejecutivo Estatal.
+
+La Junta de Gobierno sesionará validamente con la asistencia de por lo menos cuatro de sus miembros, siempre que esté presente el Director General del Instituto. Las resoluciones se tomarán con el voto mayoritario de los miembros presentes. Quien presida la sesión tendrá voto de calidad en caso de empate.
+
+El Director General no contará con voto cuando se sometan a la Junta de Gobierno los asuntos señalados en el Artículo 18 fracciones I, III, IV, V y VI de esta Ley.
+
+###### Artículo 18.
+
+La Junta de Gobierno tendrá las siguientes atribuciones:
+
+I. Aprobar y evaluar el programa anual de trabajo y el programa institucional del organismo;
+
+II. Establecer, en congruencia con el programa sectorial, las políticas generales y definir las prioridades a que deberá sujetarse el Instituto en relación con la juventud en el Estado;
+
+III. Conocer y aprobar, en su caso, los informes que rinda el Director General;
+
+IV. Aprobar los presupuestos de ingresos y egresos del Instituto, así como sus modificaciones;
+
+V. Analizar y aprobar, en su caso, los estados financieros y el informe anual de actividades que deberá presentar el Director General;
+
+VI. Aprobar los proyectos de inversión que le sean presentados por el Director General del Instituto;
+
+VII. Aprobar la estructura organizacional del Instituto;
+
+VIII. Aprobar el Reglamento Interior del Instituto;
+
+IX. Otorgar, sustituir delegar o revocar toda clase de poderes generales o especiales para actos de dominio, administración, laboral y para pleitos y cobranzas con todas las facultades generales o especiales que requieran cláusula especial en los términos de la legislación aplicable, incluyendo la representación en materia civil y penal, inclusive para promover o desistirse de acciones legales, así como poder cambiario para suscribir, endosar y negociar títulos de crédito, sustituirlo o revolcarlo; pudiendo éstos recaer en alguno o algunos de los miembros de la Junta o de la persona o personas que la misma Junta estime necesario;
+
+X. Promover las donaciones, legados y demás liberalidades que se otorguen a favor del Instituto;
+
+XI. En general, realizar todos los actos y operaciones que sean necesarios para cumplir con su objeto general en los términos de la presente Ley; y
+
+XII. Las demás que le atribuyan esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
+
+###### Artículo 19.
+
+Corresponde al Presidente de la Junta de Gobierno:
+
+I. Instalar y presidir las Sesiones Ordinarias y Extraordinarias de la Junta de Gobierno;
+
+II. Iniciar, concluir y, en su caso, suspender las sesiones de la Junta de Gobierno en los casos que así sea necesario;
+
+III. Dirigir y coordinar las intervenciones sobre los proyectos y asuntos tratados a su consideración;
+
+IV. Someter a votación los asuntos tratados;
+
+V. Delegar en los miembros de la Junta de Gobierno la ejecución de los actos necesarios para el cumplimiento de los objetivos y programas del Instituto; y
+
+VI. Las demás que le confieran esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
+
+###### Artículo 20.
+
+Corresponde al Director General, en calidad de Secretario de la Junta de Gobierno:
+
+I. Convocar a las Sesiones Ordinarias y Extraordinarias de la Junta de Gobierno;
+
+II. Dar lectura al Orden del Día;
+
+III. Llevar el registro de asistencia de las Sesiones de la Junta de Gobierno;
+
+IV. Elaborar las Actas y Acuerdos de las Sesiones Ordinarias y Extraordinarias que celebre la Junta de Gobierno;
+
+V. Integrar y custodiar el archivo de la Junta de Gobierno; y
+
+VI. Las demás que le correspondan.
+
+#### Sección Tercera. Del Director General del Instituto
+
+###### Artículo 21.
+
+El Director General será nombrado y removido libremente por el Titular del Poder Ejecutivo del Estado. La Dirección General del Instituto deberá recaer sobre una persona menor a 29 años al día de su nombramiento como Director General del Instituto.
+
+El Director General tendrá las siguientes atribuciones:
+
+I. Asistir a las sesiones del Consejo Joven de Participación Ciudadana y de la Junta de Gobierno, con derecho de voz y voto, en los términos establecidos en esta Ley;
+
+II. Administrar y representar legalmente al Instituto;
+
+III. Fungir como enlace del Gobierno del Estado en materia de juventud ante instancias federales, de otras entidades y municipios;
+
+IV. Celebrar toda clase de contratos y convenios con autoridades federales, estatales y municipales, con organismos públicos o privados, que sean necesarios para el cumplimiento del objeto del Instituto;
+
+V. Representar al Organismo ante cualquier autoridad federal, estatal o municipal, o personas físicas o morales, públicas o privadas, con todas las facultades que correspondan a un apoderado general para actos de administración, y para pleitos y cobranzas, así como las generales y especiales que requieran cláusula especial conforme a la Ley, igualmente ante toda clase de autoridades civiles, laborales, penales y en materia de amparo, incluyendo la facultad para iniciar o desistirse de acciones legales; poder cambiario para suscribir, endosar y negociar títulos de crédito; de igual forma para delegar, sustituir, otorgar y revocar poderes para pleitos y cobranzas, actos de administración en materia laboral, individual y colectiva, civil y penal sin que por ello se consideren substituidas o restringidas las facultades que se le otorgan. Los poderes para actos de dominio para bienes inmuebles le serán otorgados por la Junta de Gobierno;
+
+VI. Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
+
+VII. Presentar al Consejo Joven de Participación Ciudadana y a la Junta de Gobierno los proyectos y el programa operativo anual del Instituto;
+
+VIII. Someter a la Junta de Gobierno, para su aprobación, el informe de actividades, avance de programas, estados financieros, cuenta pública y los que específicamente le solicite aquélla;
+
+IX. Someter a la Junta de Gobierno, para su aprobación, el anteproyecto del presupuesto anual de ingresos y egresos del Instituto;
+
+X. Entregar a la Junta de Gobierno la información que oportunamente le sea solicitada;
+
+XI. Proponer a la Junta de Gobierno las modificaciones que procedan a la estructura administrativa y operativa del Instituto;
+
+XII. Presentar un informe anual al Consejo Joven de Participación Ciudadana y a la Junta de Gobierno sobre la ejecución de programas del Instituto;
+
+XIII. Proponer para su aprobación ante la Junta de Gobierno, el Reglamento Interior del Instituto;
+
+XIV. Ser el vocero oficial del Organismo ante los medios de comunicación;
+
+XV. Proponer al Titular del Poder Ejecutivo Estatal, los anteproyectos de iniciativas o reforma de leyes, reglamentos, decretos, acuerdos y ordenamientos sobre los asuntos relacionados con los jóvenes;
+
+XVI. Designar y remover al Secretario Técnico del Consejo Joven de Participación Ciudadana;
+
+XVII. Autorizar la creación de Comisiones y Comités que coadyuven al cumplimiento del objeto del Instituto;
+
+XVIII. Establecer mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe el Instituto y presentar a la Junta de Gobierno la evaluación de gestión;
+
+XIX. Expedir el manual organizacional y de procedimientos del Instituto;
+
+XX. Delegar en el personal a su cargo las facultades necesarias para la realización de actos concretos;
+
+XXI. Contratar, nombrar y remover al personal administrativo y operativo del Instituto, así como aceptar las renuncias, autorizar las licencias, permisos y en general, cumplir con todas las responsabilidades en materia de recursos humanos;
+
+XXII. Ejercer dentro del ámbito estatal las atribuciones que le correspondan en virtud de la legislación federal en materia de juventud; y
+
+XXIII. Las demás que establezca esta Ley, otros ordenamientos legales, el Reglamento Interior del Instituto, así como las derivadas de los acuerdos de la Junta de Gobierno.
+
+#### Sección Cuarta. Del Comisario
+
+###### Artículo 22.
+
+A propuesta de la Contraloría Interna, en los términos de la legislación aplicable, el Gobernador del Estado designará y removerá a un Comisario, quien deberá llevar a cabo las funciones de vigilancia y control interno del Instituto, en los términos de la Ley de Administración Financiera para el Estado de Nuevo León.
+
+###### Artículo 23.
+
+El Comisario tendrá las siguientes facultades:
+
+I. Vigilar que los gastos, cuentas y administración de los recursos del Instituto se encaminen adecuadamente para el cumplimiento de su objeto, ajustándose en todo momento a lo que dispone esta ley, los planes y presupuestos aprobados, así como otras disposiciones aplicables;
+
+II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría Interna de la Administración Pública Estatal;
+
+III. Rendir un Informe anual tanto a la Junta de Gobierno como a la Contraloría Interna de la Administración Pública Estatal;
+
+IV. Recomendar a la Junta de Gobierno y al Director General del Instituto las medidas preventivas y correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento del Instituto;
+
+V. Asistir a las sesiones de la Junta de Gobierno, sólo con derecho a voz; y
+
+VI. Las demás necesarias para el ejercicio de las anteriores, así como las que se determinen por otras disposiciones legales.
+
+###### Artículo 24.
+
+Las facultades del Comisario se señalan sin perjuicio de las que le otorguen otras disposiciones legales, ni de aquéllas que le correspondan a otras dependencias de la Administración Pública Estatal conforme a las leyes en vigor.
+
+### CAPÍTULO III. DEL PATRIMONIO
+
+###### Artículo 25.
+
+El Instituto contará con patrimonio propio y se integrará:
+
+I. Con los derechos y bienes muebles e inmuebles que le sean asignados por el sector público; los que le sean transmitidos por el sector privado y las aportaciones que se adquieran por cualquier otro título;
+
+II. Con los fondos estatales, nacionales o internacionales, públicos o privados, obtenidos para el financiamiento de los programas y actividades del Instituto;
+
+III. Con los recursos que obtenga de las actividades que realice en cumplimiento de su objeto general;
+
+IV. Con las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas y morales; y
+
+V. Con los demás ingresos, créditos, derechos y bienes muebles e inmuebles que adquiera por cualquier título legal.
+
+### CAPÍTULO IV. DE LAS REGLAS DE GESTIÓN DEL INSTITUTO Y LAS RELACIONES LABORALES
+
+###### Artículo 26.
+
+El Instituto queda sometido a las reglas de contabilidad, presupuesto y gasto público aplicables a la Administración Pública Estatal, de conformidad con lo establecido por la Ley de Administración Financiera para el Estado de Nuevo León.
+
+###### Artículo 27.
+
+En los términos del Artículo 41 de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, las relaciones laborales del Instituto con el personal que tenga el carácter de servidor público, se regirán por la Ley del Servicio Civil del Estado de Nuevo León y las demás disposiciones jurídicas aplicables.
+
+T R A N S I T O R I O S:
+
+Artículo Primero.- Esta Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La Junta de Gobierno del Instituto deberá quedar instalada en un plazo no mayor de treinta días hábiles, contados a partir de la vigencia de este ordenamiento.
+
+Artículo Tercero.- El Consejo Joven de Participación Ciudadana del organismo deberá quedar constituido en un plazo no mayor de treinta días hábiles, contados a partir de la instalación de la Junta de Gobierno.
+
+Los vocales consejeros designados de conformidad con los incisos e) y f) de la fracción IV del Artículo 8 de esta Ley, que integren el primer Consejo Joven de Participación Ciudadana, concluirán su encargo el día 30 de septiembre del año 2004, independientemente de la fecha de su designación o de inicio del encargo, pudiendo ser designados nuevamente en los términos del referido Artículo.
+
+Artículo Cuarto.- La Junta de Gobierno aprobará el Reglamento Interior del Instituto en un plazo no mayor de noventa días hábiles, contados a partir de la fecha de su instalación.
+
+Artículo Quinto.- Se derogan todas las disposiciones legales y reglamentarias, acuerdos y decretos que se opongan a la presente Ley.
+
+Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Estado.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital, a los diecinueve días del mes de diciembre del año dos mil tres.- PRESIDENTE: DIP. JOSÉ ISABEL MEZA ELIZONDO; DIP. SECRETARIO: IVONNE LILIANA ÁLVAREZ GARCÍA; DIP. SECRETARIO: JOSÉ ÁNGEL NIÑO PÉREZ.- Rúbricas.-
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los 22 días del mes de diciembre del año dos mil tres.
+
+EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+JOSÉ NATIVIDAD GONZÁLEZ PARÁS
+
+EL C. SECRETARIO GENERAL DE GOBIERNO
+
+NAPOLEÓN CANTÚ CERNA
+
+EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
+
+RUBÉN EDUARDO MARTÍNEZ DONDÉ
