@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1970-07-29"
+last_updated: "1971-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JULIO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MARZO DE 1971.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -567,15 +567,15 @@ En los casos a que se refiere la primera parte del primer párrafo del artículo
 
 Siempre que al delito intencional corresponda sanción alternativa que incluya una pena no corporal, aprovechará esa situación al delincuente por imprudencia.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 62.
 
-Cuando el delito de imprudencia ocasione únicamente daño en propiedad ajena que no sea mayor de quinientos pesos, sólo se perseguirá a petición de parte y se sancionará con multa hasta de mil pesos.
+Cuando por imprudencia se ocasione únicamente daño en propiedad ajena que no sea mayor de diez mil pesos, sólo se perseguirá a petición de parte y se sancionará con malta (sic) hasta por el valor del daño causado, más la reparación de éste. La misma sanción se aplicará cuando el delito de imprudencia se ocasione con motivo del tránsito de vehículos, cualquiera que sea el valor del daño.
 
-Las mismas reglas regirán para el caso en que el delito de imprudencia cause únicamente daño en propiedad ajena, cualquiera que sea su valor y se ocasione con motivo del tránsito de vehículos.
+Cuando por imprudencia y con motivo del tránsito de vehículos se causen lesiones de las comprendidas en los artículos 289 y 290 de este Código o daño en propiedad ajena, cualquiera que sea su valor, o ambos, sólo se procederá a petición de parte, siempre que el presunto responsable no se hubiese encontrado en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares.
 
-Lo dispuesto en los párrafos anteriores no se aplicará cuando el delito se cometa en el sistema ferroviario o de tranvías, en navíos, aeronaves o en cualquiera otro transporte de servicio público federal o local.
+Lo dispuesto en los párrafos anteriores no se aplicará cuando el delito se cometa en el sistema ferroviario, de transportes eléctricos, en navíos, aeronaves o en cualquier transporte de servicio público federal.
 
 ### CAPITULO IV. Aplicación de sanciones a los responsables de varios delitos y a los reincidentes
 
@@ -643,17 +643,23 @@ I.- Cuando la sanción impuesta sea la de prisión, se conmutará en confinamien
 
 II.- Si fuere la de confinamiento, se conmutará en multa, computándose a razón de un peso como máximo por cada día.
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 74.
 
-Los jueces apreciando las circunstancias personales del culpable, los móviles de su conducta, así como las circunstancias del hecho, podrán, a su prudente arbitrio, conmutar la pena de prisión que debiera imponerse, cuando ésta no exceda de seis meses, por la de multa.
+Los jueces podrán substituir a su prudente arbitrio, en favor del delincuente primario, la pena de prisión no mayor de un año por la de multa. En tal caso, deberán expresar los motivos de su decisión, tomando en cuenta las circunstancias personales del condenado y los móviles de su conducta, así como las circunstancias del hecho punible.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 75.
 
-Cuando el reo acredite plenamente que no puede cumplir alguna de las circunstancias de la sanción que le fue impuesta, por ser incompatible con su edad, sexo, salud o constitución física, el Departamento de Prevención Social podrá modificar aquélla, siempre que la modificación no sea esencial.
+Cuando el reo acredite plenamente que no puede cumplir alguna de las modalidades de la sanción que le fue impuesta por ser incompatible con su edad, sexo, salud, o constitución física, la Dirección General de Servicios Coordinados de Prevención y Readaptación Social podrá modificar aquélla, siempre que la modificación no sea esencial.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 76.
 
-La substitución y la conmutación no eximen de la reparación del daño.
+Para la procedencia de la substitución y la conmutación, se exigirá al condenado la reparación del daño o la garantía que señale el juez para asegurar su pago, en el plazo que se le fije.
 
 ## TITULO CUARTO
 
@@ -677,7 +683,7 @@ IV.- La orientación del tratamiento en vista de la mejor readaptación del deli
 
 ### CAPITULO III. Libertad preparatoria y retención
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 79.
 
@@ -687,53 +693,81 @@ El Gobierno organizará las cárceles, colonias penales, penitenciarías, presid
 
 El Gobierno, dentro de los principios generales consignados en el artículo anterior, podrá establecer, con carácter permanente o transitorio, campamentos penales adonde se trasladarán los reos que se destinen a trabajos que exijan esta forma de organización.
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 81.
 
-Todo reo privado de su libertad y que no se encuentre enfermo o inválido, se ocupará en el trabajo que se le designe, de acuerdo con los reglamentos interiores del establecimiento en donde se encuentre; estando obligado a pagar del producto de ese trabajo su alimentación y vestido.
+Todo reo privado de su libertad y que no se encuentre enfermo o inválido, se ocupará en el trabajo que se le asigne, de acuerdo con los reglamentos interiores del establecimiento en donde se encuentre.
+
+Toda sanción privativa de libertad se entenderá impuesta con reducción de un día por cada dos de trabajo, siempre que el recluso observe buena conducta, participe regularmente en las actividades educativas que se organicen en el establecimiento y revele por otros datos efectivos readaptación social, siendo esta última condición absolutamente indispensable. Este derecho se hará constar en la sentencia.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 82.
 
-El resto del producto del trabajo de los condenados a sanción privativa de libertad, se distribuirá, por regla general, del modo siguiente:
+Los reos pagarán su vestido y alimentación en el reclusorio con cargo a la percepción que tengan por el trabajo que desempeñen. El resto del producto del trabajo se distribuirá, por regla general, del modo siguiente:
 
-I.- Un cuarenta por ciento para el pago de la reparación del daño;
+I.- Un 30 por ciento para el pago de la reparación del daño;
 
-II.- Un treinta por ciento para la familia del reo, cuando lo necesite, y
+II.- Un 30 por ciento para el sostenimiento de los dependientes económicos del reo;
 
-III.- Un treinta por ciento para formar al reo un fondo de reserva.
+III.- Un 30 por ciento para la constitución del fondo de ahorros del mismo, y
+
+IV.- Un 10 por ciento para los gastos menores del reo.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 83.
 
-Si la reparación del daño hubiere sido cubierta, o si la familia no está necesitada, las cuotas respectivas se aplicarán, por partes iguales, a los demás fines señalados en el artículo anterior.
+Si no hubiese condena a reparación del daño o éste ya hubiera sido cubierto, o si los dependientes del reo no están necesitados, los porcentajes inaplicados se distribuirán entre los conceptos que subsistan, en la proporción que corresponda, excepto el destinado a gastos menores del reo, que será inalterable en el 10 por ciento señalado.
 
 ### CAPITULO IV. Condena condicional
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 84.
 
-El condenado a sanción privativa de libertad por más de dos años, que hubiere cumplido los dos tercios de su condena observando con regularidad los reglamentos carcelarios, podrá obtener su libertad preparatoria por resolución del Ejecutivo, previos los informes de los cuerpos consultivos que establece el Código de Procedimientos Penales, bajo las siguientes condiciones:
+Se concederá libertad preparatoria al condenado, previo el informe a que se refiere el Código de Procedimientos Penales, que hubiere cumplido las tres quintas partes de su condena, si se trata de delitos intencionales, o la mitad de la misma en caso de delitos imprudenciales, siempre y cuando cumpla con los siguientes requisitos:
 
-I.- Que alguna persona solvente, honrada y de arraigo, se obligue a vigilar la conducta del reo e informar mensualmente acerca de ella, presentándolo siempre que para ello fuere requerida y a pagar, si no cumple, en los términos que prevenga el respectivo reglamento, la cantidad que se hubiere fijado al conceder la libertad, la cual será de cincuenta pesos, como mínimo;
+I.- Que haya observado buena conducta durante la ejecución de su sentencia;
 
-II.- Que el reo adopte en el plazo que la resolución determine, oficio, arte, industria o profesión, si no tuviere medios propios de subsistencia;
+II.- Que del examen de su personalidad se presuma que está socialmente readaptado y en condiciones de no volver a delinquir, y
 
-III.- Que el agraciado con la libertad preparatoria resida en el lugar que se determine y del cual no podrá ausentarse sino con permiso del Departamento de Prevención Social. La designación se hará conciliando la circunstancia de que el reo pueda proporcionarse trabajo en el lugar que se fije, con el hecho de que su permanencia en él no sea un obstáculo para su enmienda, y
+III.- Que haya reparado o se comprometa a reparar el daño causado, sujetándose a la forma, medidas y términos que se le fijen para dicho objeto, si no puede cubrirlo desde luego.
 
-IV.- Que el reo haya reparado el daño causado u otorgado garantía para cubrir su monto.
+Llenados los anteriores requisitos, la autoridad competente podrá conceder la libertad, sujeta a las siguientes condiciones:
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 8 DE MARZO DE 1968)</small>
+a).- Residir o, en su caso, no residir en lugar determinado, e informe a la autoridad de los cambios de su domicilio. La designación del lugar de residencia se hará conciliando la cincunstancia (sic) de que el reo pueda proporcionarse trabajo en el lugar que se fije, con el hecho de que su permanencia en él no sea un obstáculo para su enmienda.
+
+b).- Desempeñar en el plazo que la resolución determine, oficio, arte, industria o profesión lícitos, si no tuviere medios propios de subsistencia;
+
+c).- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes o substancias de efectos análogos, salvo por prescripción médica;
+
+d).- Sujetarse a las medidas de orientación y supervisión que se le dicten y a la vigilancia de alguna persona honrada y de arraigo, que se obligue a informar sobre su conducta, presentándolo siempre que para ello fuere requerida.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 85.
 
-La libertad preparatoria no se concederá al condenado por robo de infante, corrupción de menores, delitos en materia de estupefacientes, a los reincidentes ni a los habituales.
+La libertad preparatoria no se concederá a los condenados por delito contra la salud en materia de estupefacientes, ni a los habituales, ni a quienes hubieren incurrido en segunda reincidencia.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 86.
 
-Siempre que el agraciado con la libertad preparatoria observe durante ella mala conducta, o deje de cumplir con alguna de las condiciones expresadas en el artículo 84, se le privará nuevamente de la libertad para que extinga toda la parte de la sanción de que se le había hecho gracia y la retención correspondiente, sea cual fuere el tiempo que lleve de estar disfrutando del beneficio.
+La autoridad competente revocará la libertad preparatoria:
+
+I.- Si el liberado no cumple las condiciones fijadas, salvo que se le dé una nueva oportunidad en los mismos términos que se establecen en la fracción IX del artículo 90 de este Código;
+
+II.- Si el liberado es condenado por nuevo delito intencional mediante sentencia ejecutoriada, en cuyo caso será de oficio la revocación; pero si el nuevo delito fuere imprudencial, la autoridad competente podrá, según la gravedad del hecho, revocar o mantener la libertad preparatoria, fundando su resolución.
+
+El condenado cuya libertad preparatoria haya sido revocada, deberá cumplir el resto de la pena. Los hechos que originen los nuevos procesos a que se refiere este artículo interrumpen los plazos para extinguir la sanción.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 87.
 
-Los reos que salgan a disfrutar de la libertad preparatoria, quedarán bajo el cuidado y vigilancia de la autoridad.
+Los sentenciados que disfruten de libertad preparatoria, quedarán bajo el cuidado y vigilancia de la Dirección General de Servicios Coordinados de Prevención y Readaptación Social.
 
 ###### ARTICULO 88.
 
@@ -747,33 +781,47 @@ La retención se hará efectiva cuando a juicio del Ejecutivo, el condenado con 
 
 ###### ARTICULO 90.
 
-La condena condicional suspende la ejecución de la sanción impuesta por sentencia definitiva, de acuerdo con los incisos siguientes:
+El otorgamiento y disfrute de los beneficios de la condena condicional, se sujetarán a las siguientes normas:
 
-I.- Podrá suspenderse a petición de parte o de oficio, por determinación judicial al pronunciarse la sentencia definitiva, la ejecución de las sanciones privativas de libertad que no excedan de dos años, si concurren estas condiciones:
+I.- El juez o Tribunal, en su caso, al dictar sentencia de condena o en la hipótesis que establece la fracción X de este artículo, suspenderán motivamadamente (sic) la ejecución de las penas, a petición de parte o de oficio, si concurren estas condiciones:
 
-a). Que sea la primera vez que delinque el reo;
+a).- Que la condena se refiera a pena de prisión que no exceda de dos años;
 
-b). Que hasta entonces haya observado buena conducta;
+b).- Que sea la primera vez que el sentenciado incurre en delito intencional y, además, que haya evidenciado buena conducta positiva, antes y después del hecho punible; y
 
-c). Que tenga modo honesto de vivir, y
+c).- Que por sus antecedentes personales o modo honesto de vivir, así como por la naturaleza, modalidades y móviles del delito, se presuma que el sentenciado no volverá a delinquir,
 
-d). Que dé fianza por la cantidad que fije el juez, de que se presentará ante la autoridad, siempre que fuere requerido, y de que reparará el daño causado;
+II.- Para gozar de este beneficio el sentenciado deberá:
 
-II.- Si durante el término de tres años, contados desde la fecha de la sentencia que cause ejecutoria, el condenado no diere lugar a nuevo proceso que concluya con sentencia condenatoria, se considerará extinguida la sanción fijada en aquélla.
+a).- Otorgar la garantía o sujetarse a las medidas que se le fijen, para asegurar su presentación ante la autoridad siempre que fuere requerido;
 
-En caso contrario, se hará efectiva la primera sentencia, además de la segunda, en la que el reo será considerado como reincidente;
+b).- Obligarse a residir en determinado lugar, del que no podrá ausentarse sin permiso de la autoridad que ejerza sobre él cuidado y vigilancia;
 
-III.- La suspensión comprenderá no sólo las sanciones corporales, sino las demás que se hayan impuesto al delincuente; pero éste quedará obligado, en todo caso, a la reparación del daño;
+c).- Desempeñar en el plazo que se le fije, profesión, arte, oficio u ocupación lícitos;
 
-IV.- A los delincuentes a quienes se conceda el beneficio de la condena condicional, se les hará saber lo dispuesto en los incisos II y III de este artículo, lo que se asentará por diligencia formal, sin que la falta de ésta impida, en su caso, la aplicación de lo prevenido en los mismos;
+> <small>(F. DE E., D.O.F. 7 DE MAYO DE 1971)</small>
 
-V.- Los reos que disfruten del beneficio de la condena condicional, quedarán sujetos a la vigilancia de la autoridad;
+d).- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes u otras substancias que produzcan efectos análogos, salvo por prescripción médica; y
 
-VI.- La obligación contraída por el fiador conforme a la fracción d) del inciso I de este artículo, concluirá seis meses después de transcurridos los tres años que expresa el inciso II, siempre que el delincuente no diere lugar a nuevo proceso, o cuando en éste se pronuncie sentencia absolutoria, y
+e).- Reparar el daño causado.
 
-VII.- Cuando el fiador tenga motivos fundados para no continuar desempeñando el cargo, los expondrá al juez, a fin de que éste, si los estima justos, prevenga al reo que presente nuevo fiador dentro del plazo que prudentemente deberá fijarle, apercibido de que se hará efectiva la sanción si no lo verifica.
+Cuando por sus circunstancias personales no pueda reparar desde luego el daño causado, dará caución o se sujetará a las medidas que a juicio del juez o tribunal sean bastantes para asegurar que cumplirá, en el plazo que se le fije, esta obligación.
 
-En caso de muerte o insolvencia del fiador, estará obligado el reo a poner el hecho en conocimiento del juez para el efecto y bajo el apercibimiento que se expresa en el párrafo que precede.
+III.- La suspensión comprenderá la pena de prisión y la multa, y en cuanto a las demás sanciones impuestas, el juez o tribunal resolverán discrecionalmente según las circunstancias del caso.
+
+IV.- A los delincuentes a quienes se haya suspendido la ejecución de la sentencia, se les hará saber lo dispuesto en este artículo, lo que se asentará en diligencia formal, sin que la falta de ésta impida, en su caso, la aplicación de lo prevenido en el mismo.
+
+V.- Los sentenciados que disfruten de los beneficios de la condena condicional quedarán sujetos al cuidado y vigilancia de la Dirección General de Servicios Coordinados de Prevención y Readaptación Social.
+
+VI.- En caso de haberse nombrado fiador para el cumplimiento de las obligaciones contraídas en los términos de este artículo, la obligación de aquél concluirá seis meses después de transcurridos los tres años a que se refiere la fracción VII, siempre que el delincuente no diere lugar a nuevo proceso o cuando en éste se pronuncie sentencia absolutoria. Cuando el fiador tenga motivos fundados para no continuar desempeñando el cargo, los expondrá al juez a fin de que éste, si los estima justos, prevenga al sentenciado que presente nuevo fiador dentro del plazo que prudentemente deberá fijarle, apercibido de que se hará efectiva la sanción si no lo verifica. En caso de muerte o insolvencia del fiador, estará obligado el sentenciado a poner el hecho en conocimiento del juez para el efecto y bajo el apercibimiento que se expresan en el párrafo que precede.
+
+VII.- Si durante el término de tres años, contados desde la fecha de la sentencia que cause ejecutoria, el condenado no diere lugar a nuevo proceso por delito intencional que concluya con sentencia condenatoria, se considerará extinguida la sanción fijada en aquélla. En caso contrario, se hará efectiva la primera sentencia, además de la segunda, en la que el reo será considerado como reincidente. Tratándose de delito imprudencial, la autoridad competente resolverá motivadamente si debe aplicarse o no la sanción suspendida.
+
+VIII.- Los hechos que originen el nuevo proceso interrumpen el plazo de tres años, tanto si se trata de delito intencional como imprudencial, hasta que se dicte sentencia firme.
+
+IX.- En caso de falta de cumplimiento de las obligaciones contraídas por el condenado, el juez podrá hacer efectiva la sanción suspendida o amonestarlo, con el apercibimiento de que, si vuelve a faltar a alguna de las condiciones fijadas, se hará efectiva dicha sanción.
+
+X.- El reo que considere que al dictarse sentencia reunía las condiciones fijadas en este precepto y que está en aptitud de cumplir los demás requisitos que se establecen, si es por inadvertencia de su parte o de los tribunales que no obtuvo en la sentencia el otorgamiento de la condena condicional, podrá promover que se le conceda, abriendo el incidente respectivo ante el juez de la causa.
 
 ### CAPITULO II. Amnistía
 
@@ -988,8 +1036,6 @@ A falta de acta del Registro Civil, la edad se fijará por dictamen pericial, pe
 Cuando el menor llegue a los dieciocho años antes de terminar el período de reclusión que se le hubiere fijado, la autoridad encargada de la ejecución de sanciones decidirá si debe ser trasladado al establecimiento destinado a mayores.
 
 # LIBRO SEGUNDO
-
-> <small>N. DE E. CONFORME AL ARTICULO PRIMERO DEL DECRETO DE REFORMAS, QUEDAN DEROGADOS LOS TITULOS PRIMERO Y SEGUNDO ANTERIORES, INTEGRANDO EL PRESENTE TITULO LOS ARTICULOS 123 A 145.</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -2553,7 +2599,7 @@ El que cometa alguno de los delitos expresados en el artículo anterior, perder�
 
 Se impondrán hasta cinco años de prisión y multa hasta de quinientos pesos al que estando unido con una persona en matrimonio no disuelto ni declarado nulo, contraiga otro matrimonio con las formalidades legales.
 
-(REUBICADO [N. DE E. ANTES TITULO DECIMOCTAVO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TITULO DECIMOOCTAVO], D.O.F. 29 DE JULIO DE 1970)
 
 TITULO DECIMOSÉPTIMO
 
@@ -2977,7 +3023,7 @@ Al que exponga en una casa de expósitos a un niño menor de siete años que se 
 
 Los ascendientes o tutores que entreguen en una casa de expósitos un niño que esté bajo su potestad, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
 
-(REUBICADO [N. DE E. ANTES TITULO VIGESIMO PRIMERO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO SU DENOMINACION, D.O.F. 29 DE JULIO DE 1970)
 
 ## TITULO VIGESIMO SEGUNDO. Delitos en contra de las personas en su patrimonio
 
@@ -3164,8 +3210,6 @@ VI.- Si el robo de infante se comete en menor de doce años, por quien sea extra
 Cuando el delito lo comete un familiar del menor que no ejerza sobre él la patria potestad ni la tutela, la pena será de seis meses a cinco años de prisión.
 
 Si espontáneamente se pone en libertad a la persona antes de tres días y sin causar ningún perjuicio, sólo se aplicará la sanción correspondiente a la privación ilegal de la libertad de acuerdo con el artículo 364. Este beneficio no opera en el caso de la fracción III del presente artículo.
-
-(REUBICADO [N. DE E. ANTES TITULO VIGESIMO TERCERO], D.O.F. 29 DE JULIO DE 1970)
 
 ###### ARTICULO 367.
 
@@ -3475,8 +3519,6 @@ Si además de los daños directos resulta consumado algún otro delito, se aplic
 
 Cuando por cualquier medio se causen daño, destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercero, se aplicarán las sanciones del robo simple.
 
-(REUBICADO [N. DE E. ANTES TITULO VIGESIMOCUARTO], D.O.F. 29 DE JULIO DE 1970)
-
 TITULO VIGESIMOTERCERO
 
 Encubrimiento
@@ -3724,3 +3766,17 @@ D.O.F. 29 DE JULIO DE 1970.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 19 DE MARZO DE 1971.
+
+###### ARTICULO 1o.
+
+Estas reformas entrarán en vigor 60 días después de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 2o.
+
+Las solicitudes y los procedimientos sobre libertad preparatoria y condena condicional que se encuentren pendientes al iniciarse la vigencia de estas reformas, se resolverán en los términos previstos por las mismas.
+
+###### ARTICULO 3o.
+
+Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
