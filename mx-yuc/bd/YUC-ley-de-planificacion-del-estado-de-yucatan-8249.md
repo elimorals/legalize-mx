@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-planificacion-del-estado-de-yucatan-8249"
 country: "mx"
 rank: "ley"
 publication_date: "1960-03-09"
-last_updated: "1964-11-06"
+last_updated: "1969-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PLANIFICACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE NOVIEMBRE DE 1964.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE AGOSTO DE 1969.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 9 de marzo de 1960.
 
@@ -215,7 +215,9 @@ C.- Cuando por su importancia y transcendencia, así lo determine el propio Ejec
 
 IV.- Ejecutar obras de planificación, por sí o por conducto de los Ayuntamientos, de los Comités Ejecutivos de Planificación o de las personas físicas o morales que designe.
 
-V.- Autorizar las determinaciones a que se refiere la fracción VI del artículo 2o., de esta Ley, previo dictamen, en su caso, de los Ayuntamientos respectivos
+> <small>(REFORMADA, D.O., 28 DE AGOSTO DE 1969)</small>
+
+V.- Autorizar las determinaciones a que se refieren los incisos b), c), d), f), g), h) y J) de la fracción VI del Artículo 2o. de esta Ley, previo dictamen, en su caso de los Ayuntamientos respectivos
 
 VI.- Dictaminar y autorizar, en su caso, los estudios y proyectos de planificación que formulen los Comités Ejecutivos de Planificación.
 
@@ -233,7 +235,13 @@ b).- Para enajenar las excedencias de los predios considerados como no indispens
 
 XI.- Ordenar y ejecutar, de acuerdo con las disposiciones de esta Ley, la desocupación de los predios que deben ser afectados total o parcialmente, así como la demolición de las construcciones y el retiro de todos los objetos que obstaculicen la ejecución de las obras.
 
-XII.- Todas las demás que no se otorgan expresamente a los Ayuntamientos, a la Comisión de Planificación y a los Comités Ejecutivos de Planificación.
+> <small>(REFORMADA, D.O., 28 DE AGOSTO DE 1969)</small>
+
+XII.- Autorizar la determinación de los perímetros urbanos de las poblaciones, la nomenclatura de éstas y los fraccionamientos previo dictamen de la Dirección del Catastro.
+
+> <small>(ADICIONADA, D.O., 28 DE AGOSTO DE 1969)</small>
+
+XIII.- Todas las demás que no se otorgan expresamente a los Ayuntamientos, a la Comisión de Planificación y a los Comités Ejecutivos de Planificación.
 
 ###### ARTICULO 18.
 
@@ -245,7 +253,9 @@ II.- Elaborar Planos Reguladores.
 
 III.- Efectuar la planeación de obras a que aluden las fracciones I, IV, y V, del Artículo 2o. de esta Ley, así como su ejecución previa autorización del Gobernador del Estado.
 
-IV.- Efectuar las determinaciones aludidas en la fracción VI del artículo 2o. de esta Ley y someterlas a la autorización del Ejecutivo del Estado.
+> <small>(REFORMADA, D.O., 28 DE AGOSTO DE 1969)</small>
+
+IV.- Efectuar las determinaciones aludidas en los incisos b), c), d), f), g), h) y j) del Artículo 2o. de ésta Ley y someterlos a la autorización del Ejecutivo del Estado.
 
 V.- Elaborar estudios, programas económicos y presupuestos para la ejecución de las obras de planificación que les corresponda ejecutar.
 
@@ -420,3 +430,13 @@ D.O. 6 DE NOVIEMBRE DE 1964.
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" del Gobierno del Estado.
+
+D.O. 28 DE AGOSTO DE 1969.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al cumplimiento del presente Decreto.
