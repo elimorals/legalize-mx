@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1993-10-29"
+last_updated: "1996-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1769,9 +1769,9 @@ IV.- Expropiaciones;
 
 V.- Aportaciones extraordinarias de los Entes Públicos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 1991)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-## TITULO IX. EXENCIONES PARA JUBILADOS, PENSIONADOS E INDIGENTES MAYORES DE SESENTA AÑOS
+## TITULO IX. EXENCIONES PARA JUBILADOS, PENSIONADOS E INDIGENTES MAYORES DE SESENTA AÑOS Y DISCAPACITADOS
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1991)</small>
 
@@ -1789,21 +1789,29 @@ IV.- INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LAS FUERZAS ARMADAS MEXICANA
 
 V.- OTRAS INSTITUCIONES DE SEGURIDAD SOCIAL QUE PRESTEN ESTOS SERVICIOS EN LAS DIVERSAS ENTIDADES FEDERATIVAS DEL PAIS, O A DIVERSAS AGRUPACIONES SINDICALES.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-Tratándose de personas indigentes mayores de sesenta años, las que comprueben su edad con acta de nacimiento, o bien que se identifiquen con credencial expedida por el Instituto Nacional de la Senectud, previo estudio socioeconómico con vigencia anual que realice el Sistema para el Desarrollo Integral de la Familia del Estado o el Instituto Nacional de la Senectud.
+Tratándose de personas indigentes mayores de sesenta años, las que comprueben su edad con acta de nacimiento, o bien que se identifiquen con credencial expedida por el Instituto Nacional de la Senectud, y la indigencia, previo estudio socioeconómico con vigencia anual que realice el Sistema para el Desarrollo Integral de la Familia del Estado. Este mismo Organismo expedirá la constancia para acreditar en el caso de personas discapacitadas, que no son económicamente productivas o que siéndolo, sus ingresos no rebasan el equivalente a 5 veces el salario mínimo y, el estado de discapacidad será acreditado mediante certificado médico, expedido por cualquier Institución pública de salud, con domicilio en el Estado.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 173.
 
-Las exenciones que este Título otorga a los jubilados y pensionados, corresponde a un 50% del monto del crédito fiscal de las contribuciones estatales reguladas en esta Ley, que a continuación se detallan y, se otorgarán dentro de los lineamientos siguientes:
+Las exenciones que este Título otorga a los jubilados y pensionados, así como a los discapacitados que realicen alguna actividad económicamente productiva siempre que sus ingresos no excedan de 5 veces el salario mínimo diario general vigente, serán del 50% del monto del crédito fiscal de las contribuciones reguladas en esta Ley, que a continuación se detallan y, se otorgarán dentro de los lineamientos siguientes:
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
 
 I. IMPUESTO SOBRE COMPRAVENTA Y OPERACIONES SIMILARES que no excedan de un año de salario mínimo vigente en esta zona;
 
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
+
 II. DERECHOS POR LA PRESTACION DEL SERVICIO PUBLICO DE AGUA PARA USO DOMESTICO EN LOS MUNICIPIOS DE MEXICALI, TECATE, TIJUANA Y ENSENADA, únicamente un inmueble de su propiedad o donde habite;
 
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
+
 III. DERECHOS DE CONEXION AL SISTEMA DE AGUA POTABLE EN LOS MUNICIPIOS DE MEXICALI, TECATE, TIJUANA Y ENSENADA, el contribuyente deberá ser el propietario o posesionario del inmueble en que habite;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
 
 IV. DERECHOS POR SERVICIOS DE CONTROL VEHICULAR:
 
@@ -1813,23 +1821,31 @@ B.- PLACAS O CALCAMONIAS (sic), para un solo vehículo de su propiedad.
 
 C.- OTROS SERVICIOS.
 
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
+
 V. DERECHOS POR SERVICIOS DE LA DIRECCION DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO; únicamente a los servicios que preste el Registro Público de la Propiedad.
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
 
 VI.- DERECHOS POR LA LEGALIZACION DE FIRMAS, EXPEDICION DE CERTIFICADOS Y CERTIFICACIONES.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 174.
 
-En el caso de las personas indigentes mayores de sesenta años, respecto a las contribuciones estatales señaladas en el Artículo 173 de esta Ley estarán exentas al 100%.
+En el caso de las personas indigentes mayores de
 
-Para los efectos del Impuesto de Plusvalía se estará a lo dispuesto en el Artículo 9o. de la Ley de Urbanización del Estado de Baja California.
+sesenta años y de discapacitados que no desempeñen actividades productivas, respecto a las contribuciones estatales señaladas en el Artículo 173 de esta Ley estarán exentas al 100%.
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1991)</small>
 
+Para los efectos del Impuesto de Plusvalía se estará a lo dispuesto en el Artículo 9o. de la Ley de Urbanización del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 175.
 
-Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito fiscal por infracciones a las disposiciones fiscales, a cargo de jubilados, pensionados e indigentes mayores de 60 años, se causará sobre la cantidad que éstos deban cubrir, según lo estipulado en los Artículos 173 y 174 de esta Ley.
+Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito fiscal por infracciones a las disposiciones fiscales, a cargo de jubilados, pensionados e indigentes mayores de 60 años y discapacitados, se causará sobre la cantidad que éstos deban cubrir, según lo estipulado en los Artículos 173 y 174 de esta Ley.
 
 TRANSITORIOS:
 
@@ -2114,3 +2130,7 @@ P.O. 29 DE OCTUBRE DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1996.
+
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Periódico Oficial del Gobierno del Estado.
