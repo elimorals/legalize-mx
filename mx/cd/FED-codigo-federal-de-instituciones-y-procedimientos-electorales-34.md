@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-instituciones-y-procedimientos-electorales-34
 country: "mx"
 rank: "codigo"
 publication_date: "1990-08-15"
-last_updated: "1998-01-23"
+last_updated: "2002-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1990-08-14"
 
 CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2002.
 
 Código publicado en el Diario Oficial de la Federación, el miércoles 15 de agosto de 1990.
 
@@ -79,7 +79,9 @@ ARTICULO 3
 
 ARTICULO 4
 
-1. Votar en las elecciones constituye un derecho y una obligación del ciudadano que se ejerce para integrar los órganos del Estado de elección popular.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 24 DE JUNIO DE 2002)</small>
+
+1. Votar en las elecciones constituye un derecho y una obligación que se ejerce para integrar órganos del Estado de elección popular. También es derecho de los ciudadanos y obligación para los partidos políticos la igualdad de oportunidades y la equidad entre hombres y mujeres para tener acceso a cargos de elección popular.
 
 2. El voto es universal, libre, secreto, directo, personal e intransferible.
 
@@ -319,17 +321,17 @@ ARTICULO 15
 
 a) Una vez realizada la distribución a que se refiere el artículo anterior, se procederá a asignar el resto de los curules a los demás partidos políticos con derecho a ello, en los términos siguientes:
 
-l. Se obtendrá la votación nacional efectiva. Para ello se deducirá de la votación nacional emitida, los votos del o los partidos políticos a los que se les hubiese aplicado alguno de los límites establecidos en las fracciones lV o V del artículo 54 de la Constitución;
+I. Se obtendrá la votación nacional efectiva. Para ello se deducirá de la votación nacional emitida, los votos del o los partidos políticos a los que se les hubiese aplicado alguno de los límites establecidos en las fracciones lV o V del artículo 54 de la Constitución;
 
-ll. La votación nacional efectiva se dividirá entre el número de curules por asignar, a fin de obtener un nuevo cociente natural;
+II. La votación nacional efectiva se dividirá entre el número de curules por asignar, a fin de obtener un nuevo cociente natural;
 
-lll. La votación nacional efectiva obtenida por cada partido, se dividirá entre el nuevo cociente natural. El resultado en números enteros, será el total de diputados a asignar a cada partido; y
+III. La votación nacional efectiva obtenida por cada partido, se dividirá entre el nuevo cociente natural. El resultado en números enteros, será el total de diputados a asignar a cada partido; y
 
-lV. Si aún quedaren curules por distribuir se asignarán de conformidad con los restos mayores de los partidos.
+IV. Si aún quedaren curules por distribuir se asignarán de conformidad con los restos mayores de los partidos.
 
 2. Para asignar los diputados que les correspondan a cada partido político, por circunscripción plurinominal, se procederá como sigue:
 
-a) Se obtendrá la votación efectiva por circunscripción, que será la que resulte de deducir la votación del o los partidos políticos que se ubiquen en los supuestos previstos en las fracciones lV y V del artículo 54 constitucional, en cada una de las circunscripciones;
+a) Se obtendrá la votación efectiva por circunscripción, que será la que resulte de deducir la votación del o los partidos políticos que se ubiquen en los supuestos previstos en las fracciones IV y V del artículo 54 constitucional, en cada una de las circunscripciones;
 
 b) La votación efectiva por circunscripción se dividirá entre el número de curules pendientes de asignar en cada circunscripción plurinominal, para obtener el cociente de distribución en cada una de ellas;
 
@@ -765,9 +767,15 @@ q) Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones
 
 r) Abstenerse de realizar afiliaciones colectivas de ciudadanos; y
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-s) Las demás que establezca este Código.
+s) Garantizar la participación de las mujeres en la toma de decisiones en las oportunidades
+
+políticas; y
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+t) Las demás que establezca este Código.
 
 2. Las modificaciones a que se refiere el inciso 1) del párrafo anterior en ningún caso se podrán hacer una vez iniciado el proceso electoral.
 
@@ -787,9 +795,7 @@ ARTICULO 40
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-## TITULO TERCERO. De las prerrogativas, acceso a la radio y televisión
-
-y financiamiento de los partidos políticos
+## TITULO TERCERO. De las prerrogativas, acceso a la radio y televisión y financiamiento de los partidos políticos
 
 ARTICULO 41
 
@@ -1005,7 +1011,7 @@ g) Las empresas mexicanas de carácter mercantil.
 
 a) Para el sostenimiento de actividades ordinarias permanentes:
 
-I. El Consejo General del Instituto Federal Electoral determinará anualmente, con base en los estudios que le presente el Consejero Presidente, los costos mínimos de una campaña para diputado, de una para senador y para la de Presidente de los Estados Unidos Mexicanos, tomando como base los costos aprobados para el año inmediato anterior, actualizándolos mediante la aplicación del índice al que se refiere la fracción Vl de este inciso, así como los demás factores que el propio Consejo determine. El Consejo General podrá, una vez concluido el proceso electoral ordinario, revisar los elementos o factores conforme a los cuales se hubiesen fijado los costos mínimos de campaña;
+I. El Consejo General del Instituto Federal Electoral determinará anualmente, con base en los estudios que le presente el Consejero Presidente, los costos mínimos de una campaña para diputado, de una para senador y para la de Presidente de los Estados Unidos Mexicanos, tomando como base los costos aprobados para el año inmediato anterior, actualizándolos mediante la aplicación del índice al que se refiere la fracción VI de este inciso, así como los demás factores que el propio Consejo determine. El Consejo General podrá, una vez concluido el proceso electoral ordinario, revisar los elementos o factores conforme a los cuales se hubiesen fijado los costos mínimos de campaña;
 
 II. El costo mínimo de una campaña para diputado, será multiplicado por el total de diputados a elegir y por el número de partidos políticos con representación en las Cámaras del Congreso de la Unión;
 
@@ -1789,7 +1795,7 @@ ARTICULO 78
 
 1. El Consejo General se reunirá en sesión ordinaria cada tres meses. Su Presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le sea formulada por la mayoría de los consejeros electorales o de los representantes de los partidos políticos, conjunta o indistintamente.
 
-(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
+(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
 
 2. Para la preparación del proceso electoral el Consejo General se reunirá dentro de la primera semana del mes de noviembre del año anterior a aquel en que se celebren las elecciones federales ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo sesionará por lo menos una vez al mes.
 
@@ -2733,7 +2739,7 @@ a) Evaluar el cumplimiento de los programas relativos al Registro Federal de Ele
 
 b) Proponer al Consejo Distrital correspondiente el número y ubicación de las casillas que habrán de instalarse en cada una de las secciones comprendidas en su distrito de conformidad con el artículo 195 de este Código;
 
-(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)(F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
+(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
 
 c) Capacitar a los ciudadanos que habrán de integrar las mesas directivas de casilla, en los términos del Título Quinto de este Libro; y
 
@@ -3811,13 +3817,41 @@ ARTICULO 175
 
 2. Las candidaturas a diputados a elegirse por el principio de mayoría relativa y por el principio de representación proporcional, así como las de senadores por el principio de mayoría relativa y por el de representación proporcional, se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente, y serán consideradas, fórmulas y candidatos, separadamente, salvo para efectos de la votación.
 
-> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-3. Los partidos políticos promoverán, en los términos que determinen sus documentos internos, una mayor participación de las mujeres en la vida política del país, a través de su postulación a cargos de elección popular.
+3. Los partidos políticos promoverán y garantizarán en los términos del presente ordenamiento, la igualdad de oportunidades y la equidad entre mujeres y hombres en la vida política del país, a través de postulaciones a cargos de elección popular en el Congreso de la Unión, tanto de mayoría relativa como de representación proporcional.
 
 > <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 4. En el caso de que para un mismo cargo de elección popular sean registrados diferentes candidatos por un mismo partido político, el Secretario del Consejo General, una vez detectada esta situación, requerirá al partido político a efecto de que informe al Consejo General, en un término de 48 horas, qué candidato o fórmula prevalece. En caso de no hacerlo se entenderá que el partido político opta por el último de los registros presentados, quedando sin efecto los demás.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 175
+
+ARTICULO 175-A
+
+De la totalidad de solicitudes de registro, tanto de las candidaturas a diputados como de senadores que presenten los partidos políticos o las coaliciones ante el Instituto Federal Electoral, en ningún caso incluirán más del setenta por ciento de candidatos propietarios de un mismo género.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 175
+
+B
+
+1. Las listas de representación proporcional se integrarán por segmentos de tres candidaturas. En cada uno de los tres primeros segmentos de cada lista habrá una candidatura de género distinto. Lo anterior sin perjuicio de los mayores avances que en esta materia señale la normatividad interna y los procedimientos de cada partido político.
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 175
+
+CULO 175-C
+
+1. Hecho el cierre del registro de candidaturas, si un partido político o coalición no cumple con lo establecido en los artículos 175-A y 175-B, el Consejo General del Instituto Federal Electoral le requerirá en primera instancia para que en el plazo de 48 horas, contadas a partir de la notificación, rectifique la solicitud de registro de candidaturas y le apercibirá de que, en caso de no hacerlo le hará una amonestación pública.
+
+2. Transcurrido el plazo a que se refiere el párrafo anterior, el partido político o coalición que no realice la sustitución de candidatos, será acreedor a una amonestación pública y el Consejo General del Instituto Federal Electoral le requerirá, de nueva cuenta, para que en un plazo de 24 horas, contadas a partir de la notificación, haga la corrección. En caso de reincidencia se sancionará con la negativa del registro de las candidaturas correspondientes.
+
+3. Quedan exceptuadas de lo señalado en los numerales 1 y 2 del presente artículo las candidaturas de mayoría relativa que sean resultado de un proceso de elección mediante voto directo.
 
 ARTICULO 176
 
@@ -5365,15 +5399,33 @@ ARTICULO 269
 
 1. Los partidos políticos y las agrupaciones políticas, independientemente de las responsabilidades en que incurran sus dirigentes, miembros o simpatizantes, podrán ser sancionados:
 
-a) Con multa de 50 a 5 mil días de salario mínimo general vigente para el Distrito Federal;
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-b) Con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el período que señale la resolución;
+a) Con amonestación pública;
 
-c) Con la supresión total de la entrega de las ministraciones del financiamiento que les corresponda, por el período que señale la resolución;
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
 
-d) Con la suspensión de su registro como partido político o agrupación política; y
+b) Con multa de 50 a 5 mil días de salario mínimo general vigente para el Distrito Federal;
 
-e) Con la cancelación de su registro como partido político o agrupación política.
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+c) Con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el período que señale la resolución;
+
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+d) Con la supresión total de la entrega de las ministraciones del financiamiento que les corresponda por el período que señale la resolución;
+
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+e) Con la negativa del registro de las candidaturas;
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+f) Con la suspensión de su registro como partido político o agrupación política, y
+
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+g) Con la cancelación de su registro como partido político o agrupación política.
 
 2. Las sanciones a que se refiere el párrafo anterior, podrán ser impuestas cuando:
 
@@ -5391,7 +5443,9 @@ f) Sobrepasen durante la campaña electoral los topes a los gastos fijados confo
 
 g) Incurran en cualquier otra falta de las previstas en este Código.
 
-3. Las sanciones previstas en los incisos c) al e) del párrafo 1 de este artículo, sólo podrán imponerse cuando el incumplimiento o infracción sea particularmente grave o sistemático. La violación a lo dispuesto en el inciso o) del párrafo 1 del artículo 38 de este Código, se sancionará, si la infracción se comete durante las campañas electorales, con multa y la suspensión total o parcial de la prerrogativa prevista en el inciso c) del párrafo 1 del artículo 47 de este mismo ordenamiento, y sólo con multa si la misma se cometiere en cualquier otro tiempo.
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+
+3. Las sanciones previstas en los incisos d), f) y g) del párrafo 1 de este artículo sólo podrán imponerse cuando el incumplimiento o infracción sea grave o reiterada. La violación a lo dispuesto en el inciso o) del párrafo 1 del artículo 38 de este Código, se sancionará, si la infracción se comete durante las campañas electorales, con multa y la suspensión total o parcial de la prerrogativa prevista en el inciso c) del párrafo 1, del artículo 47 de este mismo ordenamiento, y sólo con multa si la misma se cometiere en cualquier otro tiempo.
 
 4. Cuando la pérdida de registro obedezca a alguna de las causales previstas en los artículos 35 y 66, se estará a lo dispuesto en el artículo 67 de este Código.
 
@@ -5449,7 +5503,7 @@ ARTICULO 272
 
 ## TITULO PRIMERO. Disposiciones Preliminares
 
-> <small>N. DE E. LOS ARTICULOS QUE CONFORMABAN EL TITULO PRIMERO DEL LIBRO SEXTO QUE COMPRENDIAN DEL 264 AL 272 PASAN A FORMAR PARTE DEL ADICIONADO TITULO QUINTO CAPITULO UNICO DEL LIBRO QUINTO; D.O.F. 22 DE NOVIEMBRE DE 1996.</small>
+> <small>N. DE E. LOS ARTICULOS QUE CONFORMABAN EL TITULO PRIMERO DEL LIBRO SEXTO QUE COMPRENDIAN DEL 264 AL 272 PASAN A FORMAR PARTE DEL ADICIONADO TITULO QUINTO, CAPITULO UNICO DEL LIBRO QUINTO; D.O.F. 22 DE NOVIEMBRE DE 1996.</small>
 
 > <small>(DEROGADO CON LOS CAPITULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -5533,9 +5587,7 @@ ARTICULO 284 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
 
 ARTICULO 285 (DEROGADO, D.O.F. 22 DE NOVIEMBRE DE 1996)
 
-(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN,
-
-D.O.F. 22 DE NOVIEMBRE DE 1996)
+> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 # LIBRO SEPTIMO. De las nulidades; del sistema de medios de impugnación y de las faltas y sanciones administrativas
 
@@ -5933,7 +5985,7 @@ México, D. F. a 14 de agosto de 1990.- Dip. Jesús Armando Hernández Montaño,
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de agosto de mil novecientos noventa.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 D.O.F. 3 DE ENERO DE 1991.
 
@@ -6317,7 +6369,7 @@ A.- El Jefe de Gobierno del Distrito Federal enviará, a más tardar el día 15 
 
 B.- Para los efectos de la base anterior, el Jefe de Gobierno del Distrito Federal, formulará las propuestas individuales para cada cargo. Las propuestas serán aprobadas por las dos terceras partes de los miembros presentes de la Asamblea Legislativa del Distrito Federal. En caso de que la Asamblea Legislativa no aprobase alguna o algunas de ellas, se enviarán segundas propuestas para los cargos que reste por designar; de no ser aprobadas alguna o algunas de las segundas propuestas, se presentará una tercera propuesta por cada cargo que faltase por designar, y si ésta también fuese rechazada, se presentará una terna con nuevos candidatos y si ninguno de ellos obtuviera la mayoría calificada mencionada, quedará designado el que, de ésta, haya obtenido el mayor número de votos.
 
-Vigésimo Segundo.- Los partidos políticos nacionales considerarán en sus estatutos que las candidaturas por ambos principios a diputados y senadores, no excedan del 70% para un mismo género. Asimismo promoverán la mayor participación política de las mujeres.
+Vigésimo Segundo.- (DEROGADO, D.O.F. 24 DE JUNIO DE 2002)
 
 ARTICULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES;...
 
@@ -6342,3 +6394,9 @@ Para que los criterios de jurisprudencia a que se refiere el párrafo anterior r
 D.O.F. 23 DE ENERO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 24 DE JUNIO DE 2002.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Lo dispuesto en los artículos 175-A, 175-B y 175-C se aplicará por lo menos para la celebración de los cinco procesos electorales federales siguientes a la entrada en vigor del presente Decreto.
