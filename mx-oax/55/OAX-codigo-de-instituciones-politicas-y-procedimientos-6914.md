@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-instituciones-politicas-y-procedimientos-6914"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-12"
-last_updated: "1995-09-14"
+last_updated: "1995-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES DE OAXACA (CIPPEO)
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Oaxaca, el miércoles 12 de febrero de 1992.
 
@@ -329,15 +329,19 @@ VI.- En los Municipios que tengan menos de 15 mil habitantes, el Ayuntamiento se
 
 El Instituto, teniendo en cuenta la fecha señalada para elecciones ordinarias ó extraordinarias según el caso, con sujeción a las convocatorias respectivas y a éste Código, señalará o modificará términos y plazos de las diferentes etapas, así como para la designación de funcionarios e instalación de los organismos electorales que deben encargarse de la preparación, desarrollo, vigilancia y calificación de la elección que corresponda.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
+
 ###### ARTICULO 19.
 
-1.- Las elecciones ordinarias para la renovación de la Cámara, se celebrarán cada tres años el primer domingo del mes de agosto del año de la elección, la que será directa en los términos de la Constitución Particular y de éste Código.
+1.- Las elecciones ordinarias para la renovación de la Cámara de Diputados se celebrarán cada tres años, el primer domingo de octubre del año de la elección, la que será directa en los términos de la Constitución Particular y de este Código. Por cada miembro propietario se elegirá un suplente.
 
-2.- Las elecciones ordinarias para la renovación del Poder Ejecutivo se celebrarán cada seis años el primer domingo del mes agosto del año de la elección.
+2.- Las elecciones ordinarias para la renovación del Poder Ejecutivo se celebrarán cada seis años, el primer domingo de octubre del año de la elección, la que será directa en los términos de la Constitución Particular y de este Código.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
 
 ###### ARTICULO 20.
 
-Las elecciones ordinarias para concejales de los ayuntamientos, se celebrarán cada tres años el segundo domingo del mes de noviembre del año de la elección. Por cada miembro propietario se elegirá un suplente.
+Las elecciones ordinarias para Concejales de los Ayuntamientos, se celebrarán cada tres años, el primer domingo del mes de octubre del año de la elección, por cada miembro propietario se elegirá un suplente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
@@ -2073,9 +2077,9 @@ d).- Calificación de las elecciones de Gobernador y Ayuntamientos.
 
 4.- La etapa de la preparación de la elección se inicia con la primera sesión que el Consejo General del Instituto celebre durante la primera semana del mes de enero del año en que deban realizarse las elecciones estatales ordinarias y concluye al iniciarse la jornada electoral.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
 
-5.- La etapa de la jornada electoral se inicia a las 8:00 horas del primer domingo de agosto, para la elección del Gobernador y Diputados, y del segundo domingo de noviembre para la elección de concejales, y concluye con la publicación de los resultados electorales en el exterior del local de la casilla y remisión de la documentación y los expedientes electorales a los respectivos comités distritales y municipales.
+5.- La etapa de la jornada electoral se inicia a las ocho horas del primer domingo de octubre, para las elecciones de Gobernador, Diputados y Concejales Municipales, y concluye con la publicación de los resultados electorales en el exterior del local de la casilla y remisión de la documentación y los expedientes electorales a los respectivos Consejos Distritales y Municipales.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
@@ -2119,19 +2123,21 @@ Al momento del registro de las listas de candidatos a diputados por el principio
 
 1.- Los plazos y órganos competentes para el registro de candidaturas en el año de la elección son los siguientes:
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
 
-a).- Para candidatos a diputados a elegir por el principio de mayoría relativa, del 15 al 31 de mayo del año de la elección ante los Consejos Distritales Electorales correspondientes.
+a).- Para candidatos a Gobernador del Estado del 1o. al 15 de junio, del año de la elección, ante el Consejo General del Instituto;
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
 
-b).- Para candidatos a diputados a elegir por el principio de representación proporcional, del 1º al 15 de junio del año de la elección ante por el Consejo General del Instituto.
+b).- Para candidatos a Diputados por el principio de mayoría relativa, del 15 al 31 de julio del año de la elección, ante los Consejos Distritales Electorales respectivos;
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
 
-c).- Para candidatos a los Ayuntamientos, del 15 al 30 de septiembre del año de la elección ante los Consejos Municipales Electorales.
+c).- Para candidatos a Diputados por el principio de representación proporcional, del 1o al 15 de agosto del año de la elección, ante el Consejo General del Instituto; y
 
-d).- Para gobernador del 1 al 15 de abril inclusive, por el Consejo General.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
+
+d).- Para candidatos a Concejales Municipales de los Ayuntamientos, del 15 al 31 de agosto, del año de la elección, ante los Concejos Municipales Electorales.
 
 2.- El Instituto dará amplia difusión a la apertura del registro de las candidaturas y a los plazos a que se refiere el presente capítulo.
 
@@ -3507,6 +3513,14 @@ En los casos de controversias suscitadas respecto de los actos, resoluciones o r
 
 4.- Los magistrados del Tribunal Estatal Electoral, serán electos para cada proceso electoral pudiendo ser reelectos. El ejercicio de esta función se limitará a la duración del proceso electoral y conservarán la remuneración y los derechos como miembros del Poder Judicial del Estado.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
+
+5.- El Tribunal Estatal Electoral se disolverá dentro de los 60 días siguientes a la fecha en que concluya el Proceso Electoral, quedando expedita su reintegración en cualquier tiempo fuera del Proceso Electoral, a convocatoria de la Legislatura del Estado o de la Diputación Permanente en sus recesos.
+
+Declarada en sesión solemne la disolución del Tribunal sus integrantes se reincorporan a sus actividades ordinarias.
+
+Una vez disuelto el Tribunal, sus bienes materiales quedarán entre tanto se integra nuevamente, bajo la custodia del Tribunal Superior de Justicia del Estado, el que los devolverá en cuanto le sean requeridos.
+
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 247.
@@ -3523,7 +3537,9 @@ b).- Elegir de entre sus Magistrados al Presidente del Tribunal;
 
 c).- Designar o remover, a propuesta del Presidente, al Secretario General, a los jueces, actuarios y demás personal administrativo;
 
-d).- Aprobar y en su caso modificar el Reglamento Interno del Tribunal;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
+
+d).- Aprobar en su caso modificar el Reglamento Interno del Tribunal, y ordenar su publicación;
 
 e).- Aprobar el presupuesto del Tribunal;
 
@@ -4245,7 +4261,9 @@ a).- El 8 de septiembre del año del proceso electoral en caso de que se refiera
 
 b).- El 30 de septiembre del año de la elección en caso de que se impugne la elección del Gobernador; y
 
-c).- El 30 de Noviembre del año electoral, cuando se impugnen las elecciones municipales.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
+
+c).- El 15 de diciembre del año electoral, cuando se impugnen las elecciones municipales.
 
 ###### ARTICULO 296.
 
@@ -4476,3 +4494,9 @@ Tercero.- Las disposiciones contenidas en el inciso a) del artículo 63, entrar�
 P.O. 14 DE SEPTIEMBRE DE 1995.
 
 UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DÍA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+P.O. 30 DE SEPTIEMBRE DE 1995.
+
+PRIMERO.- Los artículos 19 apartado 1 y 20; 135 y 138 del Código de Instituciones Políticas y Procedimientos Electorales, entrarán en vigor en el proceso electoral ordinario estatal a celebrarse en el año de 1998.
+
+SEGUNDO.- Los artículo 246; 247 inciso d) y 295 apartado 3 inciso c) del Código de Instituciones Políticas y Procedimientos Electorales, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
