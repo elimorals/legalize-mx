@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1991-06-30"
+last_updated: "1991-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -1745,9 +1745,11 @@ SERVICIO DE SEGURIDAD Y TRANSITO.
 
 DERECHOS POR SERVICIOS DE CONTROL VEHICULAR.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 81.
 
-El derecho por servicios de control vehicular se pagarán anualmente, conforme a la siguiente:
+El derecho por servicios de control vehicular se pagará anualmente, en los meses de Enero, Febrero, Marzo y Abril, de acuerdo con el calendario que establezca la Autoridad Municipal correspondiente, y conforme a la siguiente:
 
 > <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -1785,17 +1787,17 @@ IV.- Permiso o renovación para explotar vehículos de alquiler sin chofer 20 d�
 
 V.- Reposición de tarjeta de circulación 2 días salario mínimo.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 83.
 
-La dotación y reposición de placas de identificación del servicio de control vehicular, tendrán un costo de acuerdo a la siguiente
-
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+La dotación y reposición de placas de identificación del servicio de control vehicular, tendrán un costo de acuerdo a la siguiente:
 
 T A R I F A :
 
-I.- Camiones, automóviles y remolques 2 días salario mínimo.
+I.- Camiones, automóviles y remolques 6 días salario mínimo.
 
-II.- Motocicletas, bicicletas y vehículos de tracción manual 50% salario mínimo diario.
+II.- Motocicletas, bicicletas y vehículos de tracción manual 2 días salario mínimo.
 
 #### SECCION II
 
@@ -2103,9 +2105,9 @@ PARTICIPACIONES.
 
 El incumplimiento del Artículo 110, será acrredor (sic) a una sanción de 3 a 50 días salario mínimo.
 
-### CAPITULO SEGUNDO
+### CAPITULO PRIMERO
 
-DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES, MINERAS Y DE PRESTACION DE SERVICIOS.
+DISPOSICIONES GENERALES.
 
 > <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
 
@@ -2137,15 +2139,15 @@ La tasa de la contribución especial será el 1.3% sobre la base mencionada en e
 
 Los ingresos que se obtengan por la enajenación de los artículos integrantes de la canasta básica señalados por la Secretaría de Comercio y Fomento Industrial, estarán exentos al pago de la contribución especial.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 30 DE JUNIO DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 112.
 
 Los giros que no estén inscritos en el padrón correspondiente o por los que no se hubiera obtenido licencia para su funcionamiento y operen infringiendo los términos de la licencia concedida, serán clausurados por las autoridades fiscales sin perjuicio de las sanciones correspondientes.
 
-### CAPITULO PRIMERO
+### CAPITULO SEGUNDO
 
-DISPOSICIONES GENERALES.
+DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES, MINERAS Y DE PRESTACION DE SERVICIOS.
 
 > <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
 
@@ -2233,7 +2235,7 @@ T R A N S I T O R I O S :
 
 CONTRIBUCIONES ESPECIALES.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 30 DE JUNIO DE 1991)</small>
 
 ### CAPITULO TERCERO
 
@@ -2358,3 +2360,9 @@ DURANTE LOS AÑOS DE 1991, 1992 Y 1993 SE APLICARAN LAS TASAS DEL 8%, 6% Y 4% RE
 ###### ARTICULO SEGUNDO
 
 EL PRESENTE DECRETO, SURTIRA EFECTOS A PARTIR DEL DIA PRIMERO DE JULIO DE 1991, PREVIA PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
+
+B.O. 31 DE DICIEMBRE DE 1991.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
