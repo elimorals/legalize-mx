@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1984-06-11"
+last_updated: "1984-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JUNIO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE JULIO DE 1984.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -1025,9 +1025,9 @@ XXII. Hacer observaciones por una sola vez en el improrrogable término de diez 
 
 XXIII. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley.
 
-> <small>(REFORMADA, B.O. 11 DE JUNIO DE 1984)</small>
+> <small>(REFORMADA, B.O. 5 DE JULIO DE 1984)</small>
 
-XXIV. Nombrar y remover libremente al Secretario y a los Subsecretarios de Gobierno, Secretarios de Depacho (sic), Procurador General de Justicia, Tesorero General del Estado, Oficial Mayor y Contralor General del Estado, y hacer la designación de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, sometiéndola a la aprobación del Congreso.
+XXIV. Nombrar y remover libremente al Secretario y a los Subsecretarios de Gobierno, Secretarios de Despacho, Procurador General de Justicia, Tesorero General del Estado y Oficial Mayor, y hacer la designación de los Magistrados del Supremo Tribunal de Justicia y de lo Contencioso Administrativo, sometiéndolo a la aprobación del Congreso.
 
 XXV. Nombrar a los oficiales del Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
 
@@ -1071,7 +1071,7 @@ XL. Las demás que le asignen las leyes, ya sean federales o del Estado.
 
 Le está prohibido al Gobernador:
 
-I. Mandar inmediata y personalmente en campaña la Guardia Nacional y demás fuerzas del Estado, sin haber obtenido para ello permiso de Congreso, o en su receso, de la Diputación Permanente.
+I. Mandar inmediata y personalmente en campaña la Guardia Nacional y demás fuerzas del Estado, sin haber obtenido para ello permiso del Congreso, o en su receso, de la Diputación Permanente.
 
 > <small>(REFORMADA, B.O. 22 DE ENERO DE 1977)</small>
 
@@ -1579,7 +1579,9 @@ I. En el ámbito de su competencia, promover e inducir el desarrollo económico,
 
 II. En el marco del sistema estatal de planeación, conducir la formulación, instrumentación, control y evaluación del Plan Municipal de Desarrollo, al que estarán sujetas las funciones y actividades del Ayuntamiento y la Administración Pública Municipal e inducir y concertar con las representaciones de los sectores social y privado las acciones a realizar para su elaboración y ejecución.
 
-III. Hacer la declaratoria correspondiente a las elecciones para la integración del Ayuntamiento de acuerdo con el sistema de mayoría relativa y las asignaciones preliminares según el principio de representación proporcional, sujetándose en ambos casos a los resultados que les comunique el Comité Municipal Electoral. Tanto la declaratoria como las asignaciones serán revisadas, calificadas y resueltas en definitiva por el Congreso del Estado.
+> <small>(REFORMADA, B.O. 5 DE JULIO DE 1984)</small>
+
+III. Hacer la declaratoria correspondiente a las elecciones para la integración del Ayuntamiento de acuerdo con el sistema de mayoría relativa y las asignaciones preliminares según el principio de representación proporcional, sujetándose en ambos casos a los resultados que les comunique la Comisión Municipal Electoral. Tanto la declaratoria como las asignaciones serán revisadas, calificadas y resueltas en definitiva por el Congreso del Estado.
 
 IV. Expedir, de acuerdo con las bases normativas que establezca el Congreso, los Bandos de Policía y Buen Gobierno y los reglamentos, circulares y demás disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, que serán publicadas en el Boletín Oficial del Gobierno del Estado de Sonora.
 
@@ -1749,13 +1751,13 @@ El Congreso expedirá la Ley de Responsabilidades de los servidores públicos me
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-> <small>(REFORMADO, B.O. 11 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, B.O. 5 DE JULIO DE 1984)</small>
 
-Sólo podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, el Secretario y los Subsecretarios de Gobierno, los Secretarios y Subsecretarios de Despacho, el Oficial Mayor, el Contralor General del Estado, el Tesorero General del Estado y los Subtesoreros, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Presidentes Municipales, Regidores, Síndicos, Secretarios y Tesoreros de los Ayuntamientos, así como los Directores Generales y sus equivalentes de las empresas de participación estatal o municipal mayoritarias, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
+Solo podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, el Secretario y los Subsecretarios de Gobierno, los Secretarios y Subsecretarios de Despacho, el Oficial Mayor, el Tesorero General del Estado y los Subtesoreros, los Jueces de Primera Instancia, los Agentes del Ministerio Publico, los Presidentes Municipales, Síndicos, Regidores, Secretarios y Tesoreros de los Ayuntamientos, así como los Directores Generales y sus equivalentes de las empresas de participación estatal o municipal mayoritarias, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
 
 Las sanciones consistirán en la destitución del servidor público y, en su caso, la inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-II. Responsabilidad Penal, cuando los servidores públicos cometan delitos de cualquier naturaleza, que serán perseguidos y sancionados en los términos de la Legislación Penal. Tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o causen daños o perjuicios patrimoniales, las sanciones deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por esta conducta ilícita. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+II. Responsabilidad Penal, cuando los servidores públicos cometan delitos de cualquier naturaleza, que serán perseguidos y sancionados en los términos de la Legislación Penal. Tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, las sanciones deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por esta conducta ilícita. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
 Las leyes penales determinarán los casos y circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
 
@@ -1775,11 +1777,11 @@ En el caso de que el Gobernador del Estado, Diputados Locales y Magistrados del 
 
 El procedimiento de juicio político, deberá iniciarse durante el tiempo en que el servidor público desempeñe un empleo, cargo o comisión, o dentro del año siguiente al de la conclusión de sus funciones. La (sic) sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 5 DE JULIO DE 1984)</small>
 
 ###### Artículo 146.
 
-Para proceder penalmente contra el Gobernador, Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia, Secretarios y Subsecretarios de Gobierno, Secretarios de Despacho, Oficial Mayor, Contralor General del Estado, Tesorero General del Estado, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar o no a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia, Secretario y Subsecretarios de Gobierno, Secretarios de Despacho, Oficial Mayor, Tesorero General del Estado, Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarara por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar o no a proceder contra el inculpado.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -2314,6 +2316,22 @@ B.O. 11 DE JUNIO DE 1984.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 5 DE JULIO DE 1984.
+
+LEY No. 57, QUE REFORMA LA FRACCION III DEL ARTICULO 136. DE LA CONSTITUCION.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en Boletín Oficial del Gobierno del Estado.
+
+B.O. 5 DE JULIO DE 1984.
+
+LEY No. 59, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su Publicación en el Boletín Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
