@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-administracion-publica-del-estado-de-8129"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-03-10"
-last_updated: "1996-12-19"
+last_updated: "1999-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE AGOSTO DE 1999.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 10 de marzo de 1988.
 
@@ -493,7 +493,7 @@ I.- Aplicar en los asuntos de su competencia, la Ley de Protección al Ambiente 
 
 II.- Formular el programa sectorial de mediano plazo en materia ecológica;
 
-III.- Vigilar que la preservación ecológica constituya una línea conductora de la programación del desarrollo urbano y regional;
+III.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION DE VIAS TERRESTRES DEL ESTADO DE YUCATAN, D.O. 16 DE AGOSTO DE 1999)
 
 IV.- Promover incentivos para las empresas que inviertan en la introducción, actualización y difusión de infraestructura y tecnologías que contribuyan a la preservación del medio ambiente y al desarrollo sustentable;
 
@@ -1030,3 +1030,27 @@ D.O. 19 DE DICIEMBRE DE 1996.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 16 DE AGOSTO DE 1999.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto número cuatrocientos noventa y nueve, publicado en el Diario Oficial del Gobierno del Estado el dieciocho de diciembre de mil novecientos ochenta y siete, que creó la Junta de Caminos de Yucatán, y se deroga la parte conducente a la Dirección de Vías Terrestres del artículo 5 del Decreto número uno, publicado en el Diario Oficial del Gobierno del Estado el dos de febrero de mil novecientos noventa y cuatro; la fracción III del artículo 36 de la Ley Orgánica de la Administración Pública del Estado de Yucatán, y demás disposiciones que se opongan a lo establecido en esta Ley, en la Ley de Vías Terrestres del Estado de Yucatán, exceptuándose la normatividad que corresponde a la Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda, en su carácter de dependencia rectora del Ejecutivo del Estado en la materia.
+
+###### ARTÍCULO TERCERO.
+
+Se fija un plazo de sesenta días naturales para la transferencia de bienes muebles e inmuebles que deberán llevar a cabo la Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda, la Secretaría de Hacienda y Planeación con la vigilancia de la Secretaría de la Contraloría General del Estado en coordinación con la Comisión de Vías Terrestres del Estado de Yucatán, así como para la elaboración del Estatuto Orgánico y los reglamentos respectivos.
+
+En tanto se expide la reglamentación de esta Ley, continuarán vigentes los reglamentos que norman el funcionamiento de los organismos que se incorporan a la Comisión de Vías Terrestres del Estado, en lo que no se opongan a este nuevo ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+Los bienes muebles e inmuebles, derechos y recursos, asignados a la Junta de Caminos del Estado de Yucatán y a la Dirección de Vías Terrestres de la Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda del Gobierno del Estado, pasarán a formar parte del patrimonio de la Comisión de Vías Terrestres del Estado de Yucatán.
+
+###### ARTÍCULO QUINTO.
+
+Los trabajadores de base, que al entrar en vigor esta Ley presten sus servicios en la Junta de Caminos del Estado de Yucatán y en la Dirección de Vías Terrestres de la Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda del Gobierno del Estado, pasarán a formar parte de la Comisión de Vías Terrestres del Estado de Yucatán, conservando sus derechos laborales vigentes.
