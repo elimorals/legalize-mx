@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2000-09-06"
+last_updated: "2002-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -783,6 +783,10 @@ Para recibir esta prestación no se requiere edad determinada.
 
 La pensión se pagará a partir del día siguiente a aquel en que el trabajador se separe de sus labores.
 
+(ADICIONADO, P.O. 11 DE ENERO DE 2002) (F. DE E., P.O. 11 DE ENERO DE 2002)
+
+El monto de la pensión mensual a que se refiere este artículo, en ningún caso podrá ser inferior al equivalente de 40 veces el salario mínimo general vigente en la entidad.
+
 ###### Artículo 59.
 
 La pensión por cesantía en edad avanzada, se otorgará al trabajador que habiendo cumplido cuando menos cincuenta y cinco años de edad, se separe voluntariamente del servicio público o quede separado del mismo con un mínimo de 10 años de servicio.
@@ -803,11 +807,21 @@ f).- Por quince años de servicio 75%
 
 La pensión se pagará a partir del día siguiente a aquel en que el trabajador se separe de sus labores.
 
+(REFORMADO, P.O. 11 DE ENERO DE 2002) (F. DE E., P.O. 11 DE ENERO DE 2002)
+
 ###### Artículo 60.
 
-La pensión por invalidez se otorgará a los trabajadores que se incapaciten física o mentalmente por causa o motivo del desempeño de su cargo o empleo o por causas ajenas al desempeño de éste.
+La cuota mensual de la pensión por invalidez, se otorgará a los trabajadores que se incapaciten física o mentalmente por causa o motivo del desempeño de su cargo o empleo; o por causas ajenas al desempeño de éste, con base a lo siguiente:
 
-El derecho al pago de ésta pensión se inicia a partir del día siguiente al que el trabajador cause baja por la invalidez y el monto de la misma se calculará aplicando los porcentajes de la tabla contenida en el artículo que antecede, respecto del salario de cotización.
+I.- cuando la incapacidad sea por causa o motivo del desempeño de su cargo o empleo, la pensión se pagará de acuerdo al porcentaje o grado de invalidez que se determine en el dictamen médico.
+
+II.- para el caso de que la incapacidad sea por causas ajenas al desempeño del trabajo, se cubrirá siempre y cuando el trabajador hubiese efectivamente laborado el término mínimo de un año anterior a la fecha en que ocurrió la causa de la invalidez, y se calculará de acuerdo al grado de incapacidad que se determine en el dictamen médico. En este caso el monto de la pensión no podrá exceder del 60% del salario que el trabajador venía percibiendo hasta antes de la invalidez, o en su caso a elección del trabajador, éste será repuesto a desempeñar labores de acuerdo a las aptitudes y condiciones en que se encuentre.
+
+En ambos casos el monto de la pensión no podrá ser inferior al equivalente de 40 veces el salario mínimo general vigente en la entidad; ni exceder del equivalente a 300 veces el salario mínimo general vigente en la entidad, al momento de ser otorgada la pensión.
+
+El dictamen médico podrá ser revisado de acuerdo a la normatividad aplicable al caso, ante las autoridades correspondientes.
+
+El derecho al pago de esta pensión se inicia a partir del día siguiente en el que quede firme la determinación de invalidez.
 
 ###### Artículo 61.
 
@@ -852,6 +866,20 @@ b) A falta de esposa, la concubina, siempre que haya procreado hijos con ella el
 c) El cónyuge supérstite o concubino siempre y cuando a la muerte de la esposa o concubinaria trabajadora o pensionista, fuese mayor de cincuenta y cinco años o esté incapacitado para trabajar y haya dependido económicamente de ella; y
 
 d) A falta de cónyuge, hijos o concubina, la pensión por muerte se entregará a los ascendientes cuando hayan dependido económicamente del trabajador o pensionista durante los cinco años anteriores a su muerte.
+
+(ADICIONADO, P.O. 11 DE ENERO DE 2002) (F. DE E., P.O. 11 DE ENERO DE 2002)
+
+La cuota mensual de la pensión a los familiares o dependientes económicos del servidor público se integrará:
+
+a).- Por fallecimiento del servidor público a causa o consecuencia del servicio, se aplicarán los porcentajes a que se refiere la fracción I, del artículo 58 de esta Ley, si así procede según la antigüedad del trabajador, en caso de no encontrarse dentro de las hipótesis referidas se deberá otorgar al 50% respecto del último sueldo, sin que la pensión sea inferior, al equivalente de 40 veces el salario mínimo general vigente en la entidad.
+
+b).- Por fallecimiento del servidor público por causas ajenas al servicio se aplicarán los porcentajes a que se refiere la fracción I del artículo 58 de esta Ley, si así procede, según la antigüedad del trabajador, en caso de no encontrarse dentro de las hipótesis referidas se deberá otorgar, el equivalente a 40 veces el salario mínimo general vigente en la entidad.
+
+c).- Por fallecimiento del servidor público pensionado, si la pensión se le había concedido por jubilación, cesantía en edad avanzada o invalidez, la última de que hubiere gozado el pensionado.
+
+(ADICIONADO, P.O. 11 DE ENERO DE 2002) (F. DE E., P.O. 11 DE ENERO DE 2002)
+
+En ningún caso, el monto de la pensión podrá exceder de 300 veces el salario mínimo general vigente en la entidad, al momento de otorgar la pensión.
 
 Cuando sean varios los beneficiarios, la pensión se dividirá en partes iguales entre los previstos en los incisos que anteceden y conforme a la prelación señalada.
 
@@ -1344,3 +1372,33 @@ SECRETARIO GENERAL DE GOBIERNO
 VÍCTOR MANUEL SAUCEDO PERDOMO
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE ENERO DE 2002.
+
+DECRETO No. 354, QUE REFORMA LOS ARTICULOS 58 Y 65.
+
+> <small>(F. DE E., P.O. 11 DE ENERO DE 2002)</small>
+
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+> <small>(F. DE E., P.O. 11 DE ENERO DE 2002)</small>
+
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 11 DE ENERO DE 2002.
+
+DECRETO No. 355, QUE REFORMA EL ARTICULO 60.
+
+> <small>(F. DE E., P.O. 11 DE ENERO DE 2002)</small>
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Las solicitudes de pensión por invalidez, formuladas por los trabajadores al servicio del Gobierno del Estado o los Municipios, que actualmente se encuentran en trámite ante el Congreso del Estado, se resolverán conforme a lo dispuesto en la presente reforma.
+
+CUARTO.- El poder o ayuntamiento de que se trate, dentro de los 30 días siguientes, a partir de la fecha de la publicación, deberá dar a conocer y proporcionar al Congreso del Estado, los listados de los médicos legalmente autorizados por éstos.
+
+QUINTO.- Con el presente addéndum se deja sin efecto la redacción del decreto número trescientos cincuenta y cinco enviado para su publicación al Poder Ejecutivo del Estado, en fecha 11 de diciembre del año 2001.
