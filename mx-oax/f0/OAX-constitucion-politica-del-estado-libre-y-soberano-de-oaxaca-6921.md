@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1950-11-04"
+last_updated: "1951-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 1951.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -813,7 +813,9 @@ IV. Impedir por motivo alguno, directa ni indirectamente, el libre ejercicio de 
 
 V. Intervenir en las funciones del Poder Judicial, ni dictar providencia alguna que retarde o impida tales funciones. Tampoco podrá disponer de la persona de los reos.
 
-VI. Salir del territorio del Estado sin permiso de la Legislatura y en su recesos de la Diputación Permanente, por un lapso mayor de mayor de cuarenta y ocho horas; previo aviso a la H. Legislatura Local, cuando sea por menos tiempo; pero puede separarse libremente de la Capital para trasladarse a cualquier punto del territorio oaxaqueño, cuando lo requieran las necesidades de la administración, por el tiempo que estimare conveniente, sin más requisitos que comunicar al Congreso o a la Comisión Permanente su decisión y que los puestos de Secretario General del Despacho y Subsecretario queden debidamente cubiertos.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 1951)</small>
+
+VI.- Salir del Territorio del Estado por un lapso mayor de 10 días, sin permiso de la Legislatura y en sus recesos de la Diputación Permanente. Si es por menor tiempo, bastará dar aviso a la H. Legislatura. Cuando las necesidades de la administración lo requieran, puede ausentarse de la Capital para trasladarse a cualquier punto del Estado, por el tiempo que estime conveniente.
 
 VII. Distraer las rentas públicas del Estado de los objetos a que estén destinadas por las leyes.
 
@@ -1520,3 +1522,7 @@ P.O. 4 DE NOVIEMBRE DE 1950.
 Artículo Primero.- Las presentes reformas entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Para los efectos de lo dispuesto en los artículos 59, fracción XVII, 79, fracción X y 121, parte primera, el Gobernador del Estado someterá a la ratificación de la Legislatura, antes del 16 de diciembre del año en curso, los nombramientos de los Magistrados que deban integrar el Tribunal Superior de Justicia del Estado.
+
+P.O. 7 DE JULIO DE 1951.
+
+UNICO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
