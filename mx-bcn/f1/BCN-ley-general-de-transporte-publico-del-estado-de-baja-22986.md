@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-transporte-publico-del-estado-de-baja-22986"
 country: "mx"
 rank: "ley_general"
 publication_date: "2001-11-09"
-last_updated: "2002-06-07"
+last_updated: "2003-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE TRANSPORTE PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2003.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -57,7 +57,9 @@ Autoridad Municipal del Transporte.- La dependencia, entidad o persona, facultad
 
 Consejo.- El Consejo Municipal del Transporte que funcione en cada Municipio.
 
-Concesión.- Acto administrativo mediante el cual un Ayuntamiento otorga a una persona moral, la autorización para la prestación del servicio público de transporte masivo de pasajeros bajo las modalidades que establece esta Ley y el Reglamento.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2003)</small>
+
+Concesión.- Acto administrativo mediante el cual un Ayuntamiento otorga a una persona moral, la autorización para la prestación del servicio público de transporte masivo de pasajeros o de explotación del servicio público de arrastre y depósito de vehículos detenidos a disposición de autoridad competente, bajo las modalidades que establece esta Ley y el Reglamento.
 
 Permiso.- Acto administrativo mediante el cual la autoridad municipal del transporte, autoriza a una persona física la operación de un vehículo con la finalidad de prestar el servicio público de transporte, bajo las modalidades y las condiciones que establece esta Ley y el reglamento.
 
@@ -117,9 +119,11 @@ II.- El personal pericial habilitado por la autoridad municipal, encargado de la
 
 III.- Las demás que señale la reglamentación municipal de acuerdo a las necesidades de cada municipio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 6.
 
-Es atribución de los Municipios del Estado, la prestación del servicio de transporte público de carga y pasajeros en sus diferentes modalidades, dentro de las jurisdicciones territoriales que los conforman.
+Es atribución de los Municipios del Estado, dentro de las circunscripciones territoriales de su competencia, la prestación del servicio público de transporte de pasajeros y de carga, en sus diferentes modalidades, así como el arrastre y depósito de vehículos detenidos a disposición de autoridad competente.
 
 Para la prestación de este servicio, los Ayuntamientos podrán conformar las entidades, organismos o empresas de participación municipal, o celebrar convenios de asociación necesarios para satisfacer la prestación del servicio, o en su caso, otorgar a los particulares los permisos y concesiones que conforme a esta Ley y la reglamentación de la materia resulten procedentes.
 
@@ -225,23 +229,29 @@ Los Ayuntamientos, deberán verificar que los vehículos destinados a la prestac
 
 ### CAPITULO V. DEL SERVICIO PUBLICO DE TRANSPORTE
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 20.
 
-La prestación del servicio público de transporte de pasajeros y de carga corresponde a los Municipios; en ejercicio de esta facultad, los Ayuntamientos decidirán si en vista de las necesidades del público usuario, la prestación de dicho servicio debe hacerse por el propio Ayuntamiento o encomendarlo a personas físicas o morales, mediante el otorgamiento de permisos o concesiones, teniendo siempre a su cargo su reglamentación, control y vigilancia.
+La prestación del servicio público de transporte de pasajeros y de carga, y el de arrastre y depósito de vehículos detenidos a disposición de autoridad competente, corresponde a los Municipios; en ejercicio de esta facultad, los Ayuntamientos decidirán si en vista de las necesidades del público usuario, la prestación de dicho servicio debe hacerse por el propio Ayuntamiento o encomendarlo a personas físicas o morales, mediante el otorgamiento de permisos o concesiones, teniendo siempre a su cargo su reglamentación, control y vigilancia.
 
 La documentación que en materia de transporte expidan las Autoridades Municipales, debidamente certificadas por el Secretario Fedatario del Ayuntamiento, tendrán plena validez en todo el Estado, pero para explotación del servicio publico de transporte, los concesionarios o permisionarios deberán sujetarse a la circunscripción territorial del Municipio que corresponda.
 
 Los Municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse o asociarse para la más eficaz prestación del servicio, de conformidad con lo dispuesto por la Ley del Régimen Municipal para el Estado de Baja California y la reglamentación municipal correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 21.
 
-Además de las modalidades que los ayuntamientos establezcan en la reglamentación respectiva, la prestación por parte de particulares, del servicio público de transporte masivo de pasajeros o de transporte de personal, requiere de concesión otorgada por el Ayuntamiento del Municipio que corresponda.
+Además de las modalidades que los ayuntamientos establezcan en la reglamentación respectiva, la prestación por parte de particulares, del servicio público del transporte masivo de pasajeros, de transporte de personal o de arrastre y depósito de vehículos detenidos a disposición de autoridad competente, requiere de concesión otorgada por el ayuntamiento del municipio que corresponda.
 
 Para su otorgamiento se deberán observar las normas generales establecidas en la Ley del Régimen Municipal para el Estado de Baja California, siguiendo el procedimiento que se determine en la reglamentación correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 22.
 
-Previo al otorgamiento de una concesión o permiso para la prestación del servicio público de transporte, se deberán reunir invariablemente las siguientes condiciones:
+Previo al otorgamiento de una concesión o permiso para la prestación del servicio público de transporte o de arrastre y depósito de vehículos a disposición de autoridad competente, se deberán reunir invariablemente las siguientes condiciones.
 
 I.- Realizarse los estudios técnicos y operativos que determinen la necesidad de la prestación del servicio a concesionarse, de conformidad con el Plan Maestro de Vialidad y Transporte en los términos que establezca el Reglamento;
 
@@ -255,9 +265,11 @@ IV.- Las demás que establezca el Reglamento.
 
 Las concesiones se otorgarán a personas morales constituidas conforme a las leyes del país, de acuerdo a las disposiciones que señala esta Ley y el Reglamento.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 24.
 
-Al otorgarse una concesión para la explotación del servicio público de transporte, se indicará en cada caso el número y tipo de vehículos que ampare la misma, fijando además las especificaciones relativas a la operación, horarios, tarifas y demás condiciones a que se deba sujetar, en los términos del reglamento, con el fin de asegurar que la prestación del servicio se realice de manera regular, eficiente, segura y ordenada.
+Al otorgarse una concesión para la explotación del servicio público de transporte o de arrastre y depósito de vehículos detenidos a disposición de autoridad competente, se indicará en cada caso el número y tipo de vehículos que ampare la misma, fijando además las especificaciones relativas a la operación, horarios, tarifas y demás condiciones a que se deba sujetar, en los términos del reglamento, con el fin de asegurar que la prestación del servicio se realice de manera regular, eficiente, segura y ordenada.
 
 ###### ARTICULO 25.
 
@@ -311,9 +323,11 @@ III.- Cuando al solicitante ya se le hubiere otorgado un permiso en la modalidad
 
 IV.- Los demás que establezca el Reglamento.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 30.
 
-Los concesionarios y permisionarios del servicio público de transporte de pasajeros o carga, en sus diversas modalidades, deberán sujetarse para su explotación, a las disposiciones, términos y condiciones que establece esta Ley y el Reglamento.
+Los concesionarios y permisionarios del servicio público de transporte de pasajeros o carga, en sus diversas modalidades, así como de arrastre y depósito de vehículos detenidos a disposición de autoridad competente, deberán sujetarse para su explotación, a las disposiciones, términos y condiciones que establece esta ley y el reglamento.
 
 ###### ARTICULO 31.
 
@@ -488,3 +502,13 @@ C.P. JORGE RAMOS.
 P.O. 7 DE JUNIO DE 2002.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 21 DE FEBRERO DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las concesiones para explotar el servicio público de arrastre y almacenamiento, guarda o depósito de vehículos a disposición de autoridad competente expedidas con anterioridad a la entrada en vigor del presente Decreto, se sujetarán a los términos y condiciones en que fueron otorgadas; y la revocación de estas en caso de incumplimiento por parte del concesionario corresponderá decretarla al Gobernador del Estado, a solicitud expresa del Ayuntamiento.
+
+TERCERO.- La inspección, vigilancia y control sobre el funcionamiento y operación de las concesiones a que se refiere el artículo transitorio anterior, para explotar el servicio público de arrastre y almacenamiento, guarda o depósito de vehículos a disposición de autoridad competente, corresponderá a los Ayuntamientos en los términos de la Ley General de Transporte Público de Baja California y de sus disposiciones reglamentarias.
+
+CUARTO.- La prórroga de las concesiones para explotar el servicio público de arrastre, almacenamiento, guarda o depósito de vehículos a disposición de autoridad competente, expedidas con anterioridad a la entrada en vigor del presente Decreto, se resolverán en los términos de la Ley General de Transporte Público del Estado de Baja California y de sus disposiciones reglamentarias.
