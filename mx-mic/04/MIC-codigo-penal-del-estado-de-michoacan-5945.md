@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "1989-11-30"
+last_updated: "1991-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 1991.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -119,7 +119,7 @@ Cuando una persona ha hecho uso de medios idóneos con el propósito de cometer 
 
 Para imponer la pena de la tentativa y del delito imposible, los jueces tendrán en cuenta la peligrosidad del autor y el grado a que se hubiere llegado en la ejecución del delito.
 
-### CAPITULO III. Causas Excluyentes de Incriminación
+### CAPITULO III. Causas Exclusiva de Incriminación
 
 ###### Artículo 12.
 
@@ -453,7 +453,7 @@ Si el nuevo daño se realiza, la garantía se hará efectiva, en favor del ofend
 
 Si el sentenciado prueba que no puede otorgar la garantía, el juez la substituirá por vigilancia de la autoridad.
 
-### CAPITULO X. Suspensión, Privación e Inhabilitación de Derechos
+### CAPITULO X. Suspención, Privación e Inhabilitación de Derechos
 
 ###### Artículo 49.
 
@@ -543,7 +543,7 @@ Los delitos de homicidio y lesiones culposos, cometidos con motivo de tránsito 
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
 
-En el caso a que se refiere la primera parte del párrafo anterior, si además resultan ofendidos que no tengan el referido parentesto con el conductor, sólo se perseguirá el delito por querella del lesionado o de los herederos del occiso.
+En el caso a que se refiere la primera parte del parráfo anterior, si además resultan ofendidos que no tengan el referido parentesco con el conductor, sólo se perseguirá el delito por querella del lesionado o de los herederos del occiso.
 
 ### CAPITULO V. Exceso en las causas de justificación
 
@@ -715,7 +715,7 @@ En diligencia formal, el juez hará saber al interesado los casos en que se revo
 
 ### CAPITULO II. Amnistía
 
-## TITULO SEXTO. EXTINCION DE LA ACCION Y DE LAS SANCIONES PENALES
+## TITULO SEXTO. EXTINCIÓN DE LA ACCIÓN Y DE LAS SANCIONES PENALES
 
 ### CAPITULO III. Reconocimiento de la inocencia del sentenciado
 
@@ -1255,7 +1255,7 @@ A los propietarios o encargados de cantinas, billares, cabarets u otros análogo
 
 Se concede acción pública para denunciar los hechos delictuosos a que se contrae este artículo y el anterior.
 
-### CAPITULO IV. Anticipación, Prolongación y Abandono de Funciones Públicas
+### CAPITULO IV. ANTICIPACION, PROLONGACION Y ABANDONO DE FUNCIONES PUBLICAS
 
 ###### Artículo 167.
 
@@ -1523,7 +1523,7 @@ II. Al cónyuge, concubino y parientes colaterales por consanguinidad hasta el c
 
 III. Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad. La excusa no favorecerá a quien obre por motivos reprobables o emplee medios delictuosos.
 
-### CAPITULO VI. Disposiciones Comunes a los Capítulos Precedentes
+### CAPITULO VI. Disposiciones Comunes a Capítulos Precedentes
 
 ###### Artículo 199.
 
@@ -1805,7 +1805,7 @@ TITULO DECIMOSEGUNDO
 
 DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
-Violación a las Leyes de Inhumaciones y Exhumaciones
+VIOLACION A LAS LEYES DE INHUMACIONES Y EXHUMACIONES
 
 ### CAPITULO I. Violación
 
@@ -1937,13 +1937,15 @@ DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL
 
 Se impondrán de tres a ocho años de prisión y multa de tres mil a ocho mil pesos, a quien por medio de la violencia física o moral, tenga cópula con una persona cualquiera que sea su sexo.
 
-Se impondrán prisión tres a nueve años y multa de tres mil a nueve mil pesos, al que tenga cópula con persona menor de doce años o que por cualquier causa no está en posibilidad de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa.
+Se impondrá prisión tres a nueve años y multa de tres mil a nueve mil pesos, al que tenga cópula con persona menor de doce años o que por cualquier causa no está en posibilidad de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa.
 
 Cuando en la ejecución del delito de violación intervengan dos ó más personas, la pena será de seis a diez años de prisión y multa de seis mil a diez mil pesos.
 
 ###### Artículo 241.
 
-Se impondrán de tres a siete años de prisión y multa de tres mil a siete mil pesos, a quien abusando del error de una mujer, fingiéndose su marido o concubino, tuviera cópula con ella. Este delito sólo se perseguirá por querella de la parte ofendida.
+Se impondrán de tres a siete años de prisión y multa de tres mil a siete mil pesos, a quien abusando del error de una mujer, fingiéndose su marido o concubino, tuviera cópula con ella.
+
+Este delito sólo se perseguirá por querella de la parte ofendida.
 
 ###### Artículo 242.
 
@@ -1995,7 +1997,7 @@ Injuria es toda conducta dolosamente dirigida a ofender el honor o el decoro de 
 
 El delito de injurias se sancionará con prisión de tres días a un año o multa de cien a mil pesos.
 
-### CAPITULO I. Tipos de PeIigro Efectivo: Disparo de Arma de Fuego y Ataque Peligroso
+### CAPITULO I. Tipos de Peligro Efectivo: Disparo de Arma de Fuego y Ataque Peligroso
 
 ###### Artículo 249.
 
@@ -2011,7 +2013,7 @@ La difamación consiste en comunicar dolosamente a una o más personas la imputa
 
 Tipo de Peligro Presunto.
 
-Abandono de Incapaces de Proveerse a sí Mismos
+Abandono de Incapaces de Proveerse as sí Mismos
 
 ###### Artículo 251.
 
@@ -2339,35 +2341,35 @@ En los casos de tentativa de robo, cuando no fuere posible determinar el monto, 
 
 Se considera calificado el delito de robo cuando:
 
-I. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 1989)
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MAYO DE 1991)</small>
+
+I. Se ejecute con violencia.
 
 II. El objeto del robo sea un expediente o algún documento de protocolo, oficina o archivo públicos, o documento que contenga obligación, liberación o transmisión de derechos que obre en un expediente judicial;
 
 III. Se comete aprovechando alguna relación de servicio, de trabajo o de hospitalidad;
 
-IV. (DEROGADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1989)
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MAYO DE 1991)</small>
 
-Se comete en huertos sembrados de frutales que están cercados;
+IV. Se comete en paraje solitario o estando la víctima en un vehículo particular o de transporte público; se comete en lugar cerrado o en edificio, vivienda, aposento o cuarto que esté habitado o destinado para habitación, incluyendo en esta denominación no sólo los que estén fijos en la tierra sino también los movibles, sea cual fuere la materia de que estén construidos;
 
 V. Se comete aprovechando la falta de vigilancia, el deshorden (sic) o confusión que se produzcan por un incendio, naufragio, inundación, accidentes del tránsito de vehículos o aeronaves u otros siniestros;
 
 VI. Se comete por medio de escalamiento o empleo de llaves falsas;
 
-VII. Se ejecute con intervención de tres o más personas; y,
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MAYO DE 1991)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+VII. Se ejecute con intervención de tres o más personas o una o varias personas armadas o que utilicen o porten otros objetos peligrosos;
 
-VIII. Recaiga sobre parte de vehículos u objetos que se hallen en él, encontrándose aquellos en la vía pública, o en lugar destinado a su guarda o reparación.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MAYO DE 1991)</small>
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+VIII. El objeto del robo sea cualquier vehículo de motor estacionado en la vía pública o en lugar destinado a su guarda o reparación, sobre parte de él u objetos guardados en su interior;
 
-En los casos de robo calificado, las sanciones correspondientes al robo simple se aumentarán con prisión hasta de cinco años y multa de diez a treinta días de salario.
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 1991)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+IX. Se comete en huertos, plantaciones o sementeras agrícolas.
 
-Artículo 303 bis.- Sin perjuicio de las sanciones que de acuerdo a los artículos 300 y 302 deban imponerse, se aplicarán de cuatro a diez años de prisión y multa de veinte a ciento veinte días de salario, si el robo se ejecutare con violencia; o por una o varias personas armadas o que utilicen o porten otros objetos peligrosos; a (sic) estando la víctima en un vehículo particular o de transporte público; o se cometa en lugar cerrado o en edificio, vivienda, aposento o cuarto que esté habitado o destinado para habitación, incluyendo en esta denominación no sólo los que estén fijos en la tierra sino también los movibles, sea cual fuere la materia de que estén construidos.
-
-En los mismos términos se sancionará al que se apodere de cualquier vehículo de motor.
+Artículo 303 bis.- (DEROGADO, P.O. 23 DE MAYO DE 1991)
 
 ###### Artículo 304.
 
@@ -2601,7 +2603,7 @@ Si además de los daños directos resulta consumado algún otro delito, se aplic
 
 TITULO DECIMONOVENO
 
-DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL
+DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL.
 
 DE LOS PATRONES EN EL FUERO LOCAL DEL TRABAJO
 
@@ -2667,7 +2669,7 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 
 ###### ARTICULO SEGUNDO.
 
-Conforme al Artículo 5°. del Código Penal quienes resulten beneficiados con estas reformas, podrán solicitar el beneficio previsto en el Artículo 79 de dicho ordenamiento ante el juez de la causa.
+Conforme al artículo 5° del Código Penal quienes resulten beneficiados con estas reformas, podrán solicitar el beneficio previsto en el artículo 79 de dicho ordenamiento ante el juez de la causa.
 
 Asimismo, quienes se encuentren sujetos a proceso por un delito patrimonial y con estas reformas se vean beneficiados, podrán solicitar de inmediato el beneficio de su libertad provisional bajo caución.
 
@@ -2684,3 +2686,7 @@ Conforme al Artículo 5o. del Código Penal vigente en el Estado, quienes se enc
 P.O. 30 DE NOVIEMBRE DE 1989.
 
 UNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 1991.
+
+UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
