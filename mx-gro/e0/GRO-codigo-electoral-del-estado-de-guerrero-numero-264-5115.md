@@ -4,7 +4,7 @@ identifier: "GRO-codigo-electoral-del-estado-de-guerrero-numero-264-5115"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-05-01"
-last_updated: "1998-02-13"
+last_updated: "2004-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO ELECTORAL DEL ESTADO DE GUERRERO NUMERO 264
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 1 de mayo de 1992.
 
@@ -315,35 +315,51 @@ Los Municipios, serán administrados por sus respectivos Ayuntamientos, los que 
 
 ### CAPITULO II. DE LAS DIPUTACIONES PLURINOMINALES, DE LAS REGIDURIAS Y DE LAS FORMULAS DE ASIGNACION
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 12.
 
-Para los efectos de la aplicación de la fórmula de las Diputaciones Plurinominales y de las Regidurías de Representación Proporcional; se entiende por votación emitida, el total de los votos depositados en las urnas.
+Para los efectos de la aplicación de la fórmula de las Diputaciones de Representación Proporcional y de las Regidurías de Representación Proporcional; se entiende por votación emitida el total de los votos depositados en las urnas.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1996)</small>
+Para la asignación de Curules de Representación Proporcional se entenderá como votación estatal válida la que resulte de deducir, de la votación emitida, los votos a favor de los Partidos Políticos o Coaliciones que no hayan obtenido el 2%, y los votos nulos.
 
-Para la asignación de curules plurinominales se entenderá como votación estatal válida la que resulte de deducir, de la votación emitida, los votos a favor de los partidos o coaliciones que no hayan obtenido el 1.5%, y los votos nulos.
+Para la asignación de Regidurías de Representación Proporcional, se entenderá como votación municipal válida, la que resulte de deducir de la votación emitida, los votos a favor de los Partidos Políticos o Coaliciones que no hayan obtenido el 2% y los votos nulos.
 
-Para la asignación de Regidurías de Representación Proporcional, se entenderá como votación Municipal válida, la que resulte de deducir de la votación emitida, los votos a favor de los Partidos Políticos o Coaliciones que no hayan obtenido el 1.5% y los votos nulos.
-
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 13.
 
-El otorgamiento de Constancias de asignación de Diputados Plurinominales de conformidad con el artículo 29 de la Constitución Política del Estado, se hará aplicando la fórmula electoral de representatividad mínima, integrada por los siguientes elementos:
+El otorgamiento de constancias de asignación de Diputados de Representación Proporcional de conformidad con el artículo 29 de la Constitución Política del Estado, se hará aplicando la fórmula electoral de representatividad mínima, integrada por los siguientes elementos:
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1996)</small>
 
 a) Porcentaje de acceso; y
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1996)</small>
+
 b) Porcentaje mínimo;
 
-Por porcentaje de acceso se entenderá el 1.5% de la votación total válida en la circunscripción plurinominal.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+Por porcentaje de acceso se entenderá el 2% de la votación total válida en la circunscripción plurinominal.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1996)</small>
 
 Por porcentaje mínimo se entiende el 1% de la votación total válida en la circunscripción plurinominal, después de haber deducido el correspondiente al porcentaje de acceso.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1996)</small>
+
 La asignación de Diputados de Representación Proporcional se hará en forma decreciente, atendiendo al número de votos obtenidos por cada partido político, bajo las siguientes reglas:
 
-a) Se asignará un Diputado a aquel partido político que haya obtenido el 1.5% de la votación válida en la circunscripción plurinominal;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+a) Se asignará un Diputado a aquel Partido Político que haya obtenido el 2% de la votación valida en la circunscripción plurinominal;
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1996)</small>
 
 b) Hecho que sea, las Diputaciones por distribuir se asignarán hasta completarlas, en forma decreciente a los votos obtenidos, a aquel partido político que haya conseguido el 1% de la votación total válida, después de deducir las asignaciones de curules que se hicieron mediante el porcentaje de acceso, y
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1996)</small>
 
 c) Si aún hubiese Diputaciones por distribuir, se asignarán curules por el método que señala el inciso anterior hasta agotarlas.
 
@@ -389,11 +405,17 @@ Al Partido Político o Coalición que obtenga la mayoría de votos, le serán ad
 
 El otro 25% de las Regidurías, se distribuirá entre los otros Partidos Políticos o Coaliciones que hayan participado, de la manera siguiente:
 
-a).- El Consejo Municipal Electoral, hará la declaratoria de los Partidos Políticos o Coaliciones que hubieren postulado candidatos para la elección Municipal y obtenido el 1.5% o más de la votación total válida emitida para las planillas en el Municipio; y sólo entre ellos procederá a efectuarse la asignación de Regidurías de Representación Proporcional;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-b).- Se asignará una Regiduría, hasta el límite señalado Constitucionalmente, a la planilla de cada Partido Político o Coalición que hubiere obtenido el porcentaje mínimo del 1.5% de la votación total válida emitida para las planillas en el Municipio respectivo, iniciándose la asignación por el Partido o Coalición que obtuvo la mayor votación y siguiendo en orden decreciente con los otros Partidos o Coaliciones, si hubiere Regidurías por asignar; y
+a) El Consejo Municipal Electoral, hará la declaratoria de los Partidos Políticos o Coaliciones que hubieren postulado candidatos para la elección Municipal y obtenido el 2% o más de la votación total válida emitida para las planillas en el Municipio y sólo entre ellos, procederá a efectuarse la asignación de Regidurías de Representación Proporcional;
 
-c).- Si después de efectuado el procedimiento anterior quedaran aún Regidurías por asignar, éstas corresponderán al Partido o Coalición que tuviere mayor número de votos sobrantes y, en su caso, se seguirá en orden decreciente con los otros Partidos o Coaliciones. Esta asignación se hará siempre y cuando el resto de votos de que se habla equivalga al 1.5%, pues en caso contrario no se hará asignación de ninguna otra Regiduría.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+b) Se asignará una Regiduría hasta el límite señalado constitucionalmente a la planilla de cada Partido Político o Coalición que hubiere obtenido el porcentaje mínimo del 2% de la votación total válida emitida para las planillas en el Municipio respectivo, iniciándose la asignación por el Partido Político o Coalición que obtuvo la mayor votación y siguiendo en orden decreciente con los otros Partidos Políticos o Coaliciones, si hubiere Regidurías por asignar; y
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+c) Si después de efectuado el procedimiento anterior quedaran aún Regidurías por asignar, éstas corresponderán al Partido Político o Coalición que tuviere mayor número de votos sobrantes y, en su caso, se seguirá en orden decreciente con los otros Partidos o Coaliciones. Esta asignación se hará siempre y cuando el resto de votos de que se habla equivalga al 2%, pues en caso contrario no se hará asignación de ninguna otra Regiduría.
 
 El Consejo Municipal Electoral hará la declaración de qué Partidos Políticos o Coaliciones obtuvieron Regidurías de Representación Proporcional, expidiendo las constancias respectivas a los candidatos a Regidores en el orden que fueron propuestos.
 
@@ -727,11 +749,17 @@ r). Abstenerse de cualquier expresión que denigre a los ciudadanos, a las insti
 
 s). Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-t). Garantizar en sus estatutos, en igualdad de condiciones, que las Candidaturas a diputados por ambos principios, así como a los cargos edilicios no excedan del 70% para un mismo género. Así mismo promoverán una mayor participación política de las mujeres; y
+t) Promover en los términos que determinen sus documentos internos una mayor participación de los grupos minoritarios en la vida política del Estado, a través de su postulación a cargos de elección popular;
 
-u). Las demás que establezca este Código.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+u) Promover y garantizar en los términos del presente ordenamiento, la igualdad de oportunidades y la equidad entre mujeres y hombres en la vida política del Estado, a través de su postulación a cargos de elección popular, tanto de mayoría relativa como de representación proporcional; y
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+v) Las demás que establezca este Código.
 
 Las modificaciones a que se refiere el inciso n) del párrafo anterior, en ningún caso se podrán hacer una vez iniciado el Proceso Electoral.
 
@@ -845,161 +873,189 @@ El Consejo Estatal Electoral, tomará los acuerdos pertinentes a fin de que el e
 
 ### CAPITULO II. DEL FINANCIAMIENTO DE LOS PARTIDOS POLITICOS
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 49.
 
-El régimen de financiamiento de los partidos políticos tendrá las siguientes modalidades:
+El régimen de financiamiento de los Partidos Políticos tendrá las siguientes modalidades:
 
-a). Financiamiento público, que prevalecerá sobre los otros tipos de financiamiento;
+a) Financiamiento público que prevalecerá sobre los otros tipos de financiamiento;
 
-b). Financiamiento por la militancia;
+b) Financiamiento por la militancia;
 
-c). Financiamiento de simpatizantes;
+c) Financiamiento de simpatizantes;
 
-d). Autofinanciamiento; y
+d) Autofinanciamiento; y
 
-e). Financiamiento por rendimientos financieros, fondos y fideicomisos.
+e) Financiamiento por rendimientos financieros, fondos y fideicomisos.
 
-No podrán realizar aportaciones o donativos a los partidos políticos, en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia:
+No podrán realizar aportaciones o donativos a los Partidos Políticos, en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia:
 
-a). Los Poderes Ejecutivo, Legislativo y Judicial del Estado y los Ayuntamientos, salvo los establecidos en la ley;
+a) Los poderes Ejecutivo, Legislativo y Judicial de la Federación y del Estado, así como los Ayuntamientos, salvo los establecidos en la Ley;
 
-b). Las Dependencias, Entidades u Organismos de la Administración Pública Estatal o Municipal, Centralizados o Paraestatales;
+b) Las dependencias, entidades u organismos de la Administración Pública Federal, Estatales, del Distrito Federal o Municipales, Centralizados o Paraestatales;
 
-c). Los Partidos Políticos, personas físicas o morales extranjeras;
+c) Los Partidos Políticos, personas físicas o morales extranjeras;
 
-d). Los Organismos internacionales de cualquier naturaleza;
+d) Los Organismos Internacionales de cualquier naturaleza;
 
-e). Los Ministros de culto, Asociaciones, Iglesias o Agrupaciones de cualquier religión o secta;
+e) Los Ministros de culto, Asociaciones, Iglesias o Agrupaciones de cualquier religión o secta;
 
-f). Las personas que vivan o trabajen en el extranjero; y
+f) Las personas físicas o morales que residan en el extranjero; y
 
-g). Las empresas mexicanas de carácter mercantil.
+g) Las personas morales mexicanas de carácter mercantil.
 
-Los partidos políticos no podrán solicitar créditos provenientes de la Banca de Desarrollo para el financiamiento de sus actividades. Tampoco podrán recibir aportaciones de personas no identificadas, con excepción de las obtenidas mediante colectas realizadas en mítines o en la vía pública.
+Los Partidos Políticos no podrán solicitar créditos provenientes de la Banca de Desarrollo para el financiamiento de sus actividades. Tampoco podrán recibir aportaciones de personas no identificadas, con excepción de las obtenidas mediante colectas realizadas en mítines o en la vía pública. Cuando un Partido Político reciba aportaciones anónimas, queda obligado a reportarlas al Consejo Estatal Electoral y entregarlas a la beneficencia pública.
 
-Los partidos políticos en los términos de la fracción IV inciso c) del artículo 29 de este Código, deberán tener un órgano interno encargado de la obtención y administración de sus recursos generales y de campaña, así como de la presentación de los informes a que se refiere el artículo 49-BIS de este mismo ordenamiento. Dicho Organo se constituirá en los términos y con las modalidades y características que cada partido libremente determine.
+Los Partidos Políticos en los términos de la fracción IV inciso c) del artículo 29 de este Código, deberán tener un órgano interno encargado de la obtención y administración de sus recursos generales y de campaña, así como de la presentación de los informes a que se refiere el artículo 49 BIS de este ordenamiento. Dicho órgano se constituirá en los términos y con las modalidades y características que cada Partido Político libremente determine.
 
-Para la revisión de los informes que los partidos políticos presenten sobre el origen y destinos de sus recursos anuales y de campaña, según corresponda, así como para la vigilancia del manejo de sus recursos, se constituirá la Comisión de Fiscalización de los Recursos de los Partidos. Esta comisión funcionará de manera permanente.
+Para la revisión de los informes que los Partidos Políticos presenten sobre el origen y destinos de sus recursos anuales y de campaña, según corresponda, así como para la vigilancia del manejo de sus recursos, se constituirá la Comisión de Fiscalización de los Recursos de los Partidos Políticos. Esta Comisión funcionará de manera permanente.
 
-Los partidos políticos tendrán derecho al financiamiento público de sus actividades, independientemente de las demás prerrogativas otorgadas en este Código, conforme a las disposiciones siguientes:
+Los Partidos Políticos tendrán derecho al financiamiento público de sus actividades, independientemente de las demás prerrogativas otorgadas en este Código, conforme a las disposiciones siguientes:
 
-a). El financiamiento público que de acuerdo con las disponibilidades presupuestales otorgue el Consejo Estatal Electoral en un monto anual a los partidos políticos para la realización de sus actividades ordinarias permanentes, será el que resulte de multiplicar el número de ciudadanos empadronados por el 8% del salario mínimo diario vigente en la Capital del Estado;
+a) El financiamiento público que de acuerdo con las disponibilidades presupuestales otorgue el Consejo Estatal Electoral en un monto anual a los Partidos Políticos para la realización de sus actividades ordinarias permanentes, será el que resulte de multiplicar el número de ciudadanos empadronados de la Entidad, conforme al último corte realizado por el Registro Federal de Electores a la fecha en que deba realizarse el cálculo correspondiente, por el 40% del salario mínimo diario vigente en la capital del Estado.
 
-b). El monto total que resulte conforme al inciso anterior, se asignará de la siguiente manera:
+b) El monto total que resulte conforme al inciso anterior, se asignará de la siguiente manera:
 
 I.- El 30% por igual a cada Partido Político;
 
-II.- El 70% restante, se asignará a cada Partido Político en proporción al número de votos obtenidos en la elección inmediata anterior de Diputados según el principio de mayoría relativa.
+II.- El 70% restante, se asignará a cada Partido Político en proporción al número de votos obtenidos en la elección inmediata anterior de Diputados según el principio de Mayoría Relativa.
 
-c). Asimismo los Partidos Políticos tendrán derecho al financiamiento público para sus actividades tendientes a la obtención del voto, en un monto equivalente a la cantidad que les corresponda a cada uno para sus actividades ordinarias en ese año. Esta cantidad será asignada en los términos siguientes:
+c) Asimismo los Partidos Políticos tendrán derecho al financiamiento público para sus actividades tendientes a la obtención del voto, en un monto equivalente a la cantidad que les corresponda a cada uno para sus actividades ordinarias en ese año. Esta cantidad será asignada en los términos siguientes:
 
 I.- El 50% por igual a cada Partido Político; y
 
-II.- El 50% restante se asignará de acuerdo al número de votos obtenidos en la elección inmediata anterior de Diputados según el principio de mayoría relativa.
+II.- El 50% restante se asignará de acuerdo al número de votos obtenidos en la elección inmediata anterior de Diputados por el principio de Mayoría Relativa.
 
-Independientemente de lo estipulado en los incisos b) y c) anteriores, a los Partidos Políticos les será reintegrado hasta el 50% de los gastos anuales que eroguen en la realización de actividades educativas, de capacitación e investigación socio-económica y política, así como tareas editoriales, sin que en ningún caso, la erogación que realicen por este concepto, sea mayor al 10% del financiamiento de sus actividades ordinarias.
+Independientemente de lo estipulado en los incisos b) y c) anteriores, a los Partidos Políticos les será reintegrado hasta el 75% de los gastos anuales que eroguen en la realización de actividades educativas, tareas editoriales, de educación y capacitación política y en la investigación socioeconómica y política que realicen los partidos políticos en el año inmediato anterior, sin que en ningún caso, la erogación que realicen por este concepto, sea mayor al 10% del financiamiento de sus actividades ordinarias.
 
-Las ministraciones se otorgarán mensualmente, conforme al calendario que al efecto apruebe el Consejo Estatal Electoral.
+Las ministraciones se otorgarán mensualmente conforme al calendario que al efecto apruebe el Consejo Estatal Electoral.
 
 El financiamiento que no provenga del erario público tendrá las siguientes modalidades:
 
-a). El financiamiento general de los partidos políticos y para sus campañas que provenga de la militancia, estará conformado por las cuotas obligatorias ordinarias y extraordinarias de sus afiliados, por las aportaciones de sus organizaciones sociales y por las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas conforme a las siguientes reglas:
+a) El financiamiento general de los Partidos Políticos y para sus campañas que provenga de la militancia, estará conformado por las cuotas obligatorias ordinarias y extraordinarias de sus afiliados, por las aportaciones de sus organizaciones sociales y por las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas conforme las siguientes reglas:
 
-I.- El órgano interno responsable del financiamiento de cada partido deberá expedir recibo de las cuotas o aportaciones recibidas, de los cuales deberá conservar una copia para acreditar el monto ingresado;
+I.- El órgano interno responsable del financiamiento de cada Partido Político deberá expedir recibo de las cuotas o aportaciones recibidas, de los cuales deberá conservar una copia para comprobar el monto ingresado;
 
-II.- Cada partido político determinará libremente los montos mínimos y máximos y la periodicidad de las cuotas ordinarias y extraordinarias de sus afiliados, así como las aportaciones de sus organizaciones; y
+II.- Cada Partido Político determinará libremente los montos mínimos y máximos y la periodicidad de las cuotas ordinarias y extraordinarias de sus afiliados, así como las aportaciones de sus organizaciones; y
 
-III.- Las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas tendrán el límite que fije el órgano interno responsable del manejo del financiamiento de cada partido.
+III.- Las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas tendrán el límite que fije el órgano interno responsable del manejo del financiamiento de cada Partido Político.
 
-b). El financiamiento de simpatizantes estará conformado por las aportaciones o donativos, en dinero o en especie, hechas a los partidos políticos en forma libre y voluntaria por las personas físicas o morales mexicanas con residencia en el país, que no estén comprendidas en el párrafo segundo de este artículo. Las aportaciones se deberán sujetar a las siguientes reglas:
+b) El financiamiento de simpatizantes estará conformado por las aportaciones o donativos en dinero o en especie, hechas a los Partidos Políticos en forma libre y voluntaria por las personas físicas o morales mexicanas con residencia en el País que no estén comprendidas en el párrafo segundo de este artículo. Las aportaciones se deberán sujetar a las siguientes reglas:
 
-I.- Cada partido político no podrá recibir anualmente aportaciones en dinero de simpatizantes por una cantidad superior al 10% del total del financiamiento público para actividades ordinarias que corresponda a todos los partidos políticos;
+I.- Los Partidos Políticos no podrán recibir anualmente aportaciones en dinero de simpatizantes por una cantidad superior al 20% del total de financiamiento público para actividades ordinarias que corresponda a todos los Partidos Políticos;
 
-II.- De las aportaciones en dinero deberán expedirse recibos foliados por los partidos políticos en los que se harán constar los datos de identificación del aportante, salvo que hubieren sido obtenidas mediante colectas realizadas en mítines o en la vía pública, siempre y cuando no impliquen venta de bienes o artículos promocionales. En el caso de colectas, sólo deberá reportarse en el informe correspondiente el monto total obtenido. Las aportaciones en especie se harán constar en un contrato celebrado conforme a las leyes aplicables;
+II.- Los Partidos Políticos deberán expedir recibos foliados por las aportaciones o donativos en dinero que perciban y por la venta de bienes y artículos promocionales, dejando constancia de los datos de identificación del aportante, salvo los casos en que las hayan obtenido mediante colectas realizadas en mítines o en la vía pública; cuando el monto de las aportaciones o donativos sea superior a los cincuenta salarios mínimos diarios vigentes en la capital del Estado, sólo se recepcionará mediante cheque para depósito en la cuenta del Partido Político, expidiéndose el recibo foliado correspondiente y conservando para su registro, copia del cheque;
 
-III.- Las aportaciones en dinero que realice cada persona física o moral facultada para ello, tendrá un límite anual equivalente al 0.05% del monto total del financiamiento público para el sostenimiento de actividades ordinarias permanentes otorgado a los partidos políticos, en el año que corresponda;
+III.- Las aportaciones en dinero que realice cada persona física o moral facultada para ello, tendrán un límite anual equivalente al 0.10% del monto total del financiamiento público para el sostenimiento de actividades ordinarias permanentes otorgado a los Partidos Políticos en el año que corresponda;
 
-IV.- Las aportaciones en dinero podrán realizarse en parcialidades y en cualquier tiempo, pero el monto total aportado durante un año por una persona física o moral no podrán rebasar, según corresponda los límites establecidos en la fracción anterior; y
+IV.- Las aportaciones en dinero podrán realizarse en parcialidades y en cualquier tiempo pero el monto total aportado durante un año por una persona física o moral no podrá rebasar según corresponda, los límites establecidos en la fracción anterior; y
 
-V.- Las aportaciones de bienes muebles e inmuebles deberán destinarse únicamente para el cumplimiento del objeto del partido político que haya sido beneficiado con la aportación.
+V.- Las aportaciones de bienes muebles o inmuebles temporales o definitivos deberán destinarse únicamente para el cumplimiento del objeto del Partido Político que haya sido beneficiado con la aportación. De éstas y de las mencionadas en la fracción anterior, se dará conocimiento a la Comisión de Fiscalización de los Recursos de los Partidos Políticos del Consejo Estatal Electoral.
 
-c). El autofinanciamiento estará constituido por los ingresos que los partidos obtengan de sus actividades promocionales, tales como conferencias, espectáculos, juegos y sorteos, eventos culturales, ventas editoriales, de bienes y de propaganda utilitaria así como cualquier otra similar que realicen para allegarse fondos, las que estarán sujetas a las leyes correspondientes a su naturaleza. Para efectos de este Código, el órgano interno responsable del financiamiento de cada partido político reportará los ingresos obtenidos por estas actividades en los informes respectivos; y
+c) El autofinanciamiento estará constituido por los ingresos que los Partidos Políticos obtengan de sus actividades promocionales, tales como conferencias, espectáculos, juegos y sorteos, eventos culturales, ventas editoriales, de bienes y de propaganda utilitaria así como cualquier otra similar que realicen para allegarse fondos, las que estarán sujetas a las Leyes correspondientes a su naturaleza. Para efectos de este Código, el órgano interno responsable del financiamiento de cada Partido Político reportará los ingresos obtenidos por estas actividades en los informes respectivos; y
 
-d). Para obtener financiamiento por rendimientos financieros los partidos políticos podrán crear fondos o fideicomisos con su patrimonio o con las aportaciones que reciban, adicionalmente a las provenientes de las modalidades del financiamiento señaladas en el presente artículo. El financiamiento por rendimientos financieros se sujetará a las siguientes reglas:
+d) Para obtener financiamiento por rendimientos financieros, los Partidos Políticos podrán crear fondos y fideicomisos con su patrimonio o con las aportaciones que reciban adicionalmente a las provenientes de las modalidades señaladas en el presente artículo. El financiamiento por rendimientos financieros se sujetará a las siguientes reglas:
 
-I.- A las aportaciones que se realicen a través de esta modalidad, les serán aplicables las disposiciones contenidas en los párrafos dos y tres, y en la fracción III del inciso b) de este párrafo y demás disposiciones aplicables a este Código y las leyes correspondientes, atendiendo al tipo de operación realizada;
+I.- A las aportaciones que se realicen a través de esta modalidad, les serán aplicables las disposiciones contenidas en los párrafos dos y tres y en la fracción III del inciso b) de este párrafo y demás disposiciones aplicables a este Código y las Leyes correspondientes, atendiendo al tipo de operación realizada;
 
-II.- Los fondos y fideicomisos que se constituyan serán manejados a través de las operaciones Bancarias y financieras que el órgano responsable del financiamiento de cada partido político considere conveniente, con excepción de la adquisición de acciones bursátiles; y
+II.- Los fondos y fideicomisos que se constituyan serán manejados a través de las operaciones bancarias y financieras que el órgano responsable del financiamiento de cada Partido Político considere conveniente, con excepción de la adquisición de acciones bursátiles; y
 
-III.- Los rendimientos financieros obtenidos a través de esta modalidad deberán destinarse para el cumplimiento de los objetivos del partido político.
+III.- Los rendimientos financieros obtenidos a través de esta modalidad deberán destinarse para el cumplimiento de los objetivos del Partido Político.
 
-El Consejo Estatal Electoral, dentro de las posibilidades presupuestales, fijará las bases y mecanismos financieros para que progresivamente puedan los partidos, adquirir en propiedad, inmuebles para sus respectivas sedes.
+El Consejo Estatal Electoral dentro de las posibilidades presupuestales fijará las bases y mecanismos financieros para que progresivamente, puedan los Partidos Políticos adquirir en propiedad inmueble para sus respectivas sedes.
 
-El Gobierno del Estado, de acuerdo con el presupuesto autorizado por el H. Congreso, ministrará al Consejo Estatal Electoral, los recursos necesarios para aplicar este artículo.
+El Gobierno del Estado de acuerdo con el presupuesto autorizado por el H. Congreso del Estado, ministrará al Consejo Estatal Electoral los recursos necesarios para aplicar este artículo.
 
-Los partidos políticos que hubieren obtenido su registro con fecha posterior a la última elección tendrán derecho a que se les otorgue el 2% del financiamiento previsto para cada partido político por sus actividades ordinarias permanentes.
+Los Partidos Políticos que hubieren obtenido su registro con fecha posterior a la última elección, tendrán derecho a que se les otorgue financiamiento público conforme a los siguientes criterios:
 
-La cantidad a que se refiere el párrafo anterior, será entregada por la parte proporcional que corresponda a la anualidad, según la fecha en que surta efectos el registro y tomando en cuenta el calendario presupuestal aprobado para el año.
+I.- Se le otorgará a cada Partido Político el 2% del monto que por financiamiento total les corresponda a los Partidos Políticos para el sostenimiento de sus actividades ordinarias permanentes a que se refiere este artículo;
 
-Los Partidos políticos, informarán anualmente al Consejo Estatal Electoral, el empleo de financiamiento.
+II.- En el año de la elección se otorgará una cantidad adicional igual para gastos de campaña; y
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1998)</small>
+III.- Las cantidades a que se refieren las fracciones anteriores serán entregadas por parte proporcional que les corresponda a la anualidad, según la fecha en que surta efectos el registro y tomando en cuenta el calendario presupuestal aprobado para el año correspondiente.
 
-ARTICULO 49 BIS.- Los partidos políticos deberán presentar ante la Comisión de Fiscalización a que se refiere el párrafo 6 del artículo anterior, los informes del origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación, atendiendo a las siguientes reglas:
+Los Partidos Políticos deberán destinar anualmente por lo menos el 2% del financiamiento público que reciban para el desarrollo de sus fundaciones o institutos de investigación.
 
-I.- Informe Anual: Será presentado dentro de los sesenta días siguientes al último día de diciembre del año del ejercicio que se reporte, conteniendo los ingresos totales y gastos ordinarios que los partidos hayan realizado durante el ejercicio objeto del informe.
+Los Partidos Políticos nacionales que habiendo participado en el proceso local ordinario inmediato anterior, no alcancen por lo menos el 2% de la votación emitida en la elección de Diputados por el principio de Mayoría Relativa, tendrán derecho a que se les asigne financiamiento en el año de la elección, hasta que postulen candidatos a Diputados en por lo menos diez distritos electorales. Se les otorgará financiamiento para la obtención del voto en una cantidad equivalente al 2% del total del financiamiento determinado para los Partidos Políticos por concepto de actividades ordinarias.
 
-II.- Informe de Campaña: Deberá presentarse por los partidos políticos, por cada una de las campañas en las elecciones respectivas, dentro de los sesenta días, a partir del último día en que concluyan, especificando los gastos que el partido y el candidato hayan realizado en el territorio correspondiente, así como el origen de los recursos y el monto y destino de sus erogaciones, correspondientes sobre los rubros que señala el artículo 154-BIS de este ordenamiento.
+Los Partidos Políticos, informarán anualmente al Consejo Estatal Electoral, el empleo del financiamiento.
 
-El procedimiento para la presentación y revisión de los informes de los partidos políticos, se sujetará a las reglas siguientes:
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-I.- La Comisión de Fiscalización de los Recursos de los Partidos Políticos, contará con sesenta días para revisar los informes anuales y con ciento veinte días para revisar los informes de campaña presentados por los partidos políticos; período en que podrá la comisión solicitar toda documentación para comprobar la veracidad de los datos que reporten.
+###### ARTÍCULO 49
 
-II.- De existir errores u omisiones técnicas, se notificará al partido político para que en un plazo de diez días contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes.
+BIS.- Los Partidos Políticos y Coaliciones deberán presentar ante la Comisión de Fiscalización a que se refiere el párrafo quinto del artículo anterior, los informes del origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación atendiendo en lo que corresponda a las siguientes reglas:
 
-III.- Al vencimiento de los plazos establecidos en las fracciones que anteceden, la comisión dispondrá de un término de veinte días para elaborar un dictamen, el cual contendrá el resultado y las conclusiones de la revisión de los informes que hayan presentado los partidos políticos, y en su caso los errores o irregularidades encontradas en los mismos, así como las aclaraciones o rectificaciones, que presentaron los partidos políticos.
+I. Informe Anual: Será presentado dentro de los noventa días siguientes al último día de diciembre del año del ejercicio que se reporte, conteniendo los ingresos totales y gastos ordinarios que los Partidos Políticos hayan realizado durante el ejercicio objeto del informe; y
 
-IV.- En el Consejo Estatal Electoral se presentará el dictamen y proyecto de resolución que haya formulado la comisión, procediendo a imponer, en su caso, las sanciones correspondientes.
+II. Informe de Campaña: Deberá presentarse por cada una de las campañas en las elecciones respectivas dentro de los noventa días a partir del día de la jornada electoral, especificando los gastos que el Partido Político y el Candidato hayan realizado en la elección correspondiente, así como el origen de los recursos y el monto y destino de sus erogaciones correspondientes sobre los rubros que señala el artículo 154-BIS de este ordenamiento.
 
-V.- Los partidos políticos podrán impugnar ante el Tribunal Electoral del Estado el dictamen y resolución que en su caso se emita por el Consejo Estatal Electoral, en la forma y términos previstos en la ley de la materia; y
+El Consejo Estatal Electoral podrá realizar una revisión precautoria sobre el cumplimiento de los topes de campaña, durante el desarrollo las campañas electorales de Gobernador, Diputados y Ayuntamientos.
 
-VI.- El Consejo Estatal Electoral deberá:
+El Consejo Estatal Electoral tomará muestras aleatorias de un 10% del total de las campañas de Gobernador, Diputados y Ayuntamientos, sobre las que se practicarán las revisiones precautorias de cada uno de los Partidos Políticos o Coaliciones participantes; en caso de que algún Partido Político o Coalición no haya registrado candidatura en el distrito o municipio sorteado, se le asignarán en forma aleatoria los que sean necesarios para equiparar la cantidad como si hubiera registrado el 100% en la Entidad.
 
-a). Remitir al Tribunal Electoral del Estado, cuando se hubiere interpuesto el recurso, junto con éste el dictamen de la comisión y el informe respectivo;
+a) Los Partidos Políticos en un plazo no menor a 10 días previos a la revisión precautoria, deberán ser notificados de los distritos y municipios que resulten sorteados de acuerdo al párrafo anterior, acompañando a ésta, la solicitud de la documentación necesaria para efectuar dicha revisión.
 
-b). Remitir, una vez cumplido el plazo para la interposición del recurso, o presentado éste, habiendo sido resuelto por el Tribunal Electoral, al Periódico Oficial del Gobierno del Estado el dictamen, y en su caso, la resolución recaída al recurso para su publicación; y
+b) Los resultados que arroje la revisión precautoria, serán exclusivamente del conocimiento de la Comisión de Fiscalización de los Recursos de los Partidos Políticos, para ser valoradas al momento de emitir el dictamen de la revisión de los informes definitivos sobre el monto, origen y aplicación de los gastos de campaña. En ningún caso, podrán hacerse públicos hasta que se rindan los correspondientes informes definitivos.
 
-c). Acordar los mecanismos que considere convenientes, para la difusión pública del dictamen, o en su caso, de la resolución dictada.
+c) Los informes definitivos de gastos de campaña deberán señalar y especificar los montos y tipos de financiamiento a que tiene derecho cada Partido Político o Coalición de conformidad con este Código, así como los conceptos de gastos de campaña que al efecto se establezcan.
 
-Para la fiscalización del manejo de los recursos de los partidos políticos, así como la recepción, revisión y dictamen a que se refieren los párrafos que anteceden, la comisión prevista por el artículo 49-BIS de este Código, contará con el apoyo de la Dirección de Finanzas del Consejo Estatal Electoral.
+La presentación y revisión de los informes de los Partidos Políticos y Coaliciones se sujetarán a las siguientes reglas:
 
-La comisión de fiscalización tendrá a su cargo, entre otras atribuciones, las siguientes:
+I. La Comisión de Fiscalización de los Recursos de los Partidos Políticos contará con sesenta días para revisar los informes anuales y con ciento veinte días para revisar los informes de campaña presentados por los Partidos Políticos o Coaliciones; período en que podrá la Comisión solicitar toda la documentación para comprobar la veracidad de los datos que reporten;
 
-a). Elaborar lineamientos con bases técnicas, para la presentación de los informes del origen y monto de los ingresos que los partidos políticos reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación;
+II. De existir errores u omisiones técnicas, se notificará al Partido Político o Coalición para que en un plazo de quince días contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes.
 
-b). Establecer lineamientos para que los partidos políticos lleven el registro de sus ingresos y egresos y de la documentación comprobatoria sobre el manejo de sus recursos;
+Los Partidos Políticos o Coaliciones están obligados a proporcionar la documentación necesaria para comprobar la veracidad de sus reportes.
 
-c). Vigilar que los recursos que sobre el financiamiento ejerzan los partidos políticos se apliquen estricta e invariablemente para las actividades señaladas en la ley;
+III. Al vencimiento de los plazos establecidos en las fracciones que anteceden, la Comisión dispondrá de un término de veinte días para elaborar un dictamen, el cual contendrá el resultado y las conclusiones de la revisión de los informes que hayan presentado los Partidos Políticos o Coaliciones y en su caso, los errores o irregularidades encontradas en los mismos así como las aclaraciones o rectificaciones que presentaron los Partidos Políticos o Coaliciones;
 
-d). Solicitar a los partidos políticos, cuando lo considere conveniente, rindan informe detallado respecto de sus ingresos y egresos;
+IV. La Comisión presentará al Consejo Estatal Electoral el dictamen y proyecto de resolución sobre los informes de los Partidos Políticos o Coaliciones, el cual contendrá al menos el resultado y conclusiones, los errores o irregularidades detectadas, las aclaraciones o rectificaciones, las observaciones y las recomendaciones contables. El Consejo Estatal Electoral conocerá el dictamen y proyecto de resolución que será discutido y en su momento aprobado, procediendo a imponer en su caso, las sanciones correspondientes;
 
-e). Revisar los informes que los partidos políticos presenten sobre el origen y destino de sus recursos anuales y de campaña, según corresponda;
+V. Los Partidos Políticos podrán impugnar ante el Tribunal Electoral del Estado el dictamen y resolución que en su caso se emita por el Consejo Estatal Electoral, en la forma y términos previstos en la ley de la materia; y
 
-f). Ordenar, en los términos de los acuerdos del Consejo Estatal Electoral, la práctica de auditorías directamente o a través de terceros, a las finanzas de los partidos políticos;
+VI. El Consejo Estatal Electoral deberá:
 
-g). Ordenar visitas de verificación a los partidos políticos con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes;
+a) Remitir al Tribunal Electoral del Estado cuando se hubiere interpuesto el recurso, junto con éste, el dictamen de la Comisión y el informe respectivo;
 
-h). Presentar al Consejo Estatal Electoral los dictámenes que formulen respecto de las auditorías y verificaciones practicadas;
+b) Remitir, una vez cumplido el plazo para la interposición del recurso o presentado éste, habiendo sido resuelto por el Tribunal Electoral, al Periódico Oficial del Gobierno del Estado el dictamen y en su caso, la resolución recaída al recurso para su publicación; y
 
-i). Informar al Consejo Estatal Electoral, de las irregularidades en que hubiesen incurrido los partidos políticos derivadas del manejo de sus recursos; el incumplimiento a su obligación de informar sobre la aplicación de los mismos y, en su caso, de las sanciones que a su juicio procedan;
+c) Acordar los mecanismos que considere convenientes para la difusión pública del dictamen o en su caso, de la resolución dictada.
 
-j). Proporcionar a los partidos políticos la orientación y asesoría necesaria para el cumplimiento de las obligaciones consignadas en este artículo; y
+Para la fiscalización del manejo de los recursos de los Partidos Políticos, así como para la recepción, revisión y dictamen a que se refieren los párrafos que anteceden, la Comisión contará con el apoyo del personal calificado que determine el Consejo Estatal Electoral.
 
-k). Las demás que les confiera este Código.
+Si del análisis que realice la Comisión se desprenden conductas sancionables conforme a este Código o a otras leyes aplicables, ésta lo hará del conocimiento del Pleno del Consejo Estatal Electoral para los efectos legales conducentes, sin perjuicio de la aplicación de otras sanciones que, conforme a derecho, llegasen a proceder.
 
-Las quejas sobre el origen y la aplicación de los recursos derivados del financiamiento de los partidos políticos, deberán ser presentadas ante el Secretario Técnico del Consejo Estatal Electoral quién las turnará a la comisión a efecto de que las analice previamente a que rinda su dictamen.
+En el caso de que el Partido Político o Coalición de que se trate rebase el tope de campaña, oculte o mienta con dolo o mala fe respecto a los datos o informes sobre el origen, monto o gastos realizados en la campaña en que se apliquen, el Consejo Estatal Electoral, previa notificación al Partido Político o Coalición y satisfecha la garantía de audiencia del candidato o candidatos que hubiesen obtenido la constancia de mayoría en el proceso electoral respectivo, aplicará las sanciones que en derecho procediesen.
+
+La Comisión de Fiscalización de los Recursos de los Partidos Políticos se integrará conforme a lo establecido por el Reglamento del Consejo Estatal Electoral, en la misma participará como Secretario Técnico el Director Jurídico del Consejo, quién sólo tendrá derecho a voz. Contará además, con el apoyo de especialistas en el área contable y de fiscalización. La Comisión tendrá entre otras las siguientes atribuciones:
+
+a) Elaborar lineamientos con bases técnicas para la presentación de los informes del origen y monto de los ingresos que los Partidos Políticos y las Coaliciones reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación;
+
+b) Establecer lineamientos para que los Partidos Políticos y Coaliciones, lleven el registro de sus ingresos y egresos y de la documentación comprobatoria sobre el manejo de sus recursos;
+
+c) Vigilar que los recursos que sobre el financiamiento ejerzan los Partidos Políticos y Coaliciones, se apliquen estricta e invariablemente para las actividades señaladas en la ley;
+
+d) Solicitar a los Partidos Políticos y Coaliciones, cuando lo considere conveniente, rindan informe detallado respecto de sus ingresos y egresos;
+
+e) Revisar los informes que los Partidos Políticos y Coaliciones presenten sobre el origen y destino de sus recursos anuales y de campaña, según corresponda;
+
+f) Ordenar en los términos de los acuerdos del Consejo Estatal Electoral, la práctica de auditorías directamente o a través de terceros, a las finanzas de los Partidos Políticos y Coaliciones;
+
+g) Ordenar visitas de verificación a los Partidos Políticos y Coaliciones con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes;
+
+h) Presentar al Consejo Estatal Electoral los dictámenes que formulen respecto de las auditorías y verificaciones practicadas;
+
+i) Informar al Consejo Estatal Electoral de las irregularidades en que hubiesen incurrido los Partidos Políticos y Coaliciones, derivadas del manejo de sus recursos; el incumplimiento a su obligación de informar sobre la aplicación de los mismos y en su caso, de las sanciones que a su juicio procedan;
+
+j) Proporcionar a los Partidos Políticos y Coaliciones la orientación y asesoría necesarias para el cumplimiento de las obligaciones consignadas en este artículo;
+
+k) Establecer los lineamientos para la tramitación de las quejas que de manera oficiosa advierta el Consejo Estatal Electoral o se presenten por los Partidos Políticos o Coaliciones, sobre el origen y destino de los recursos anuales y de campaña de los Partidos Políticos y las Coaliciones, según corresponda.
+
+l) Solicitar al Consejo Estatal Electoral realice la denuncia ante las autoridades competentes en los casos en que los Partidos Políticos o sus dirigentes se vean involucrados en la comisión de algún delito, con relación al uso del financiamiento público; y
+
+m) Las demás que le confiera este Código.
 
 ### CAPITULO III. DEL REGIMEN FISCAL
 
@@ -1012,6 +1068,10 @@ a). Los relacionados con las rifas y sorteos que celebren y con las ferias, fest
 b). Los relativos a la venta de los impresos que editen para la difusión de sus Principios, Programas, Estatutos y en general para su propaganda, así como por el uso de equipos y medios audiovisuales en la misma; y
 
 c). Respecto a los demás que establezcan las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+El régimen fiscal a que se refiere el presente artículo, no exime a los Partidos Políticos del cumplimiento de otras obligaciones fiscales.
 
 ###### ARTICULO 51.
 
@@ -1055,161 +1115,145 @@ Los Partidos Políticos que integren un Frente, conservarán su personalidad jur
 
 ### CAPITULO II. DE LAS COALICIONES
 
-###### ARTICULO 55.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-Para fines electorales, los Partidos Políticos tienen el derecho de formar Coaliciones, a fin de postular candidatos en las elecciones locales.
+###### ARTÍCULO 55.
 
-Podrán celebrarse Convenios de Coalición entre dos o más Partidos Políticos, para elecciones de Gobernador, Diputados y Ayuntamientos.
+Para fines electorales los Partidos Políticos tienen el derecho de formar Coaliciones a fin de postular candidatos en las elecciones locales.
 
-Los Partidos Políticos, no podrán postular candidatos propios, donde ya hubiere candidatos de la Coalición de la que ellos formen parte.
+Se entiende por Coalición la unión temporal de dos o más Partidos Políticos con el fin de postular candidatos para las elecciones de Gobernador del Estado, de Diputados por los principios de Mayoría Relativa y de Representación Proporcional y de Ayuntamientos.
 
-Ningún Partido Político, podrá registrar como candidato propio, a quien haya sido registrado como candidato por alguna Coalición.
+La formación de Coaliciones se sujetará a las siguientes bases:
 
-Ninguna Coalición, podrá postular como candidato de la Coalición, a quien haya sido registrado como candidato por algún Partido Político.
+a) Los Partidos Políticos no podrán postular candidatos propios donde ya hubiere candidatos de la Coalición de la que ellos formen parte.
 
-Ningún Partido Político, podrá registrar a un candidato que haya sido registrado por otro Partido Político. No se aplicará esta prohibición, en los casos en que exista Coalición en los términos del presente Capítulo.
+b) Ningún Partido Político podrá registrar como candidato propio a quien haya sido registrado como candidato por alguna Coalición.
 
-Los Partidos Políticos que se coaliguen, para participar en las elecciones, deberán celebrar y registrar el Convenio correspondiente, en los términos del presente Capítulo.
+c) Ninguna Coalición podrá postular como su candidato, a quien haya sido registrado como candidato por algún Partido Político.
 
-Para efecto de la identidad de los Partidos Políticos, concluida la calificación de las elecciones, terminará automáticamente la Coalición.
+d) Ningún Partido Político podrá registrar a un candidato que haya sido registrado por otro Partido Político. No se aplicará esta prohibición, en los casos en que exista Coalición en los términos del presente Capítulo.
 
-Los Partidos Políticos que se hubieren coaligado, podrán conservar su registro al término de la elección, si la votación de la Coalición es equivalente a la suma de los porcentajes del 1.5% de la votación emitida, que requiere cada uno de los Partidos Políticos coaligados.
+e) Los Partidos Políticos que se coaliguen, para participar en las elecciones, deberán celebrar y registrar el convenio correspondiente en los términos del presente Capítulo.
 
-###### ARTICULO 56.
+f) Para efecto de la identidad de los Partidos Políticos, concluido el proceso electoral, terminará automáticamente la Coalición en los términos y condiciones que establezca el convenio respectivo y este Código;
 
-La Coalición por la que se postule candidato a Gobernador del Estado, tendrá efectos en los 28 Distritos Electorales Uninominales, en que se divide el territorio estatal y se sujetará a lo siguiente:
+g) Los Partidos Políticos que se hubieren coaligado podrán conservar su registro al término de la elección si la votación de la Coalición es equivalente a la suma de los porcentajes del 2% de la votación emitida que requiere cada uno de los Partidos Políticos coaligados.
 
-a). Deberá acreditar ante los Consejos Distritales, tantos Representantes como correspondiera a un sólo Partido Político en los términos de este Código. La Coalición actuará como un solo Partido y, por lo tanto, la Representación de la misma sustituye a la de los Partidos Políticos coaligados;
+h) En relación con el financiamiento la Coalición disfrutará del monto que corresponda a la suma de los montos asignados para cada uno de los Partidos Políticos coaligados; e
 
-b). Deberá acreditar tantos Representantes como correspondiera a un sólo Partido Político, ante las Mesas Directivas de Casilla y Generales en el Distrito;
+i) Ningún Partido Político de nueva creación podrá formar parte de una Coalición hasta en tanto no haya participado de manera individual en un proceso electoral.
 
-c). Disfrutará de las prerrogativas en materia de Radio y Televisión propiedad del Gobierno del Estado, que otorga este Código, como si se tratara de un sólo Partido; y
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-d). Participará en el proceso electoral, con el emblema y color o colores de uno de los Partidos o con el emblema formado por los de los Partidos Políticos coaligados; en éste podrán aparecer ligados o separados.
+###### ARTÍCULO 56.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
+La Coalición por la que se postule candidato a Gobernador del Estado tendrá efectos en los veintiocho Distritos Electorales en que se divide el territorio estatal y se sujetará a lo siguiente:
 
-Para el registro de la coalición y, en su caso, de la candidatura, los partidos políticos que pretendan coaligarse deberán acreditar mediante Fedatario Público, lo siguiente:
+a) Deberá acreditar ante los Consejos Distritales, tantos Representantes como correspondiera a un sólo Partido Político en los términos de este Código. La Coalición actuará como un solo Partido y por lo tanto, la representación de la misma sustituye a la de los Partidos Políticos coaligados;
 
-a). Acreditar que la coalición fue aprobada por la Asamblea Estatal u órgano equivalente, de cada uno de los partidos políticos coaligados y que dichos órganos expresamente aprobaron contender bajo la declaración de principios, programa de acción y estatutos de uno de los partidos políticos coaligados o bajo la declaración de principios, programas de acción y estatutos únicos de la coalición;
+b) Deberá acreditar tantos Representantes como correspondiera a un solo Partido Político, ante las Mesas Directivas de Casilla y Generales en el Distrito;
 
-b). Comprobar que la Asamblea Estatal u órgano equivalente de cada partido político, aprobaron la plataforma electoral de la coalición y la candidatura para la elección gubernamental; y
+c) Disfrutará de las prerrogativas en materia de Radio y Televisión propiedad del Gobierno del Estado que otorga este Código, como si se tratara de un sólo Partido; y
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1998)</small>
+d) Participará en el proceso electoral con el emblema y color o colores de uno de los Partidos o con el emblema formado por los de los Partidos Políticos coaligados, en éste podrán aparecer ligados o separados.
 
-c). Comprobar que los órganos partidistas respectivos de cada uno de los partidos coaligados, aprobaron la plataforma electoral de la coalición de acuerdo con la declaración de principios, programa de acción, estatutos y plataforma electoral adoptados por la coalición, asimismo el programa de gobierno al que se sujetará el candidato de la coalición de resultar electo.
+Para el registro de la Coalición, los Partidos Políticos que pretendan coaligarse deberán mediante Notario Público o funcionario autorizado por el Consejo Estatal Electoral:
 
-###### ARTICULO 57.
+a) Acreditar que la Coalición fue aprobada por la Asamblea Estatal u Órgano equivalente de cada Partido Político coaligado; y
 
-La Coalición por la que se postulen candidatos a Diputados Plurinominales, tendrá efectos en los 28 Distritos Electorales Uninominales en que se divide el territorio estatal y se sujetará a lo señalado en los incisos a) al d) del primer párrafo del artículo anterior.
+b) Comprobar que la Asamblea Estatal u Órgano equivalente de cada Partido Político, aprobó la plataforma electoral de la Coalición y el programa de gobierno al que se sujetará el candidato de la coalición de resultar electo.
 
-Para el registro de la Coalición y, en su caso, de las candidaturas, los Partidos Políticos que pretendan coaligarse, deberán cumplir con lo señalado en los incisos a) y b) del segundo párrafo del artículo anterior y, además, presentar las candidaturas de la Coalición por el Principio Uninominal, de propietario y suplente, en cuando menos las dos terceras partes de los Distritos de que se compone el Estado.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-Si la Coalición no registra en los términos de este Código, las candidaturas a que se refiere el párrafo anterior, quedará automáticamente sin efectos.
+###### ARTÍCULO 57.
 
-###### ARTICULO 58.
+La Coalición por la que se postulen candidatos a Diputados de Representación Proporcional, tendrá efectos en los veintiocho Distritos Electorales en que se divide el territorio Estatal y se sujetará a lo señalado en los incisos a) al d) del primer párrafo del artículo anterior.
 
-La Coalición por la que se postule candidatura de Diputado Uninominal, se sujetará a lo siguiente:
+Para el Registro de la Coalición, los Partidos Políticos que pretendan coaligarse deberán cumplir con lo señalado en los incisos a) y b) del segundo párrafo del artículo anterior.
 
-a). Deberá acreditar ante los Consejos Distrital y Municipales Electorales, del Distrito en el que la Coalición haya postulado candidatura, tantos Representantes como correspondiera a un solo Partido Político;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-b). Deberá acreditar tantos Representantes como correspondiera a un solo Partido Político, ante las Mesas Directivas de Casilla, y Generales en el Distrito Electoral;
+###### ARTÍCULO 58.
 
-c). Si registra 8 o más candidaturas Uninominales, además de lo señalado en el inciso anterior, para la representación ante los Organos Electorales y Prerrogativas en Radio y Televisión propiedad del Gobierno del Estado, se estará a lo dispuesto por los incisos a), b) y c) del primer párrafo del artículo 56;
+La Coalición por la que se postule candidatura de Diputado por el principio de Mayoría Relativa, se sujetará a lo siguiente:
 
-d). Participarán en la elección con el emblema y color o colores de uno de los Partidos o con el emblema formado con los de los Partidos Políticos coaligados; en éste podrán aparecer ligados o separados; y
+a) Deberá acreditar ante los Consejos Distritales y Municipales Electorales respectivos, tantos Representantes como correspondiera a un solo Partido Político;
 
-e). La Coalición comprenderá siempre fórmulas de propietario y suplente.
+b) Deberá acreditar tantos Representantes como correspondiera a un solo Partido Político, ante las Mesas Directivas de Casilla y Generales en el Distrito Electoral;
 
-Para que una Coalición pueda postular candidatos a Diputados Uninominales, deberá acreditar que las asambleas correspondientes:
+c) Si registra ocho o más candidaturas por el principio de Mayoría Relativa, además de lo señalado en el inciso anterior, para la representación ante los Órganos Electorales y prerrogativas en Radio y Televisión propiedad del Gobierno del Estado, se estará a lo dispuesto por los incisos a), b) y c) del primer párrafo del artículo 56;
 
-a). Aprobaron la Coalición;
+d) Participarán en la elección con el emblema y color o colores de uno de los Partidos o con el emblema formado con los de los Partidos Políticos coaligados, en éste podrán aparecer ligados o separados; y
 
-b). Aprobaron las candidaturas de las fórmulas de propietario y suplente de la Coalición, de conformidad con sus Estatutos y Métodos de selección de candidatos; y
+e) La Coalición comprenderá siempre fórmulas de Propietario y Suplente.
 
-c). Aprobaron la Plataforma Electoral de la Coalición.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-###### ARTICULO 59.
+###### ARTÍCULO 59.
 
-La Coalición por la que se postulen planillas de Ayuntamientos, se sujetará a lo siguiente:
+La Coalición por la que se postulen planillas de Ayuntamientos se sujetará a lo siguiente:
 
-a). Deberá acreditar ante el Consejo Municipal Electoral en el que la Coalición haya postulado Planilla, tantos Representantes como correspondiera a un sólo Partido Político;
+a) Deberá acreditar ante el Consejo Municipal Electoral respectivo, tantos representantes como correspondiera a un solo Partido Político;
 
-b). Deberá acreditar tantos Representantes como correspondiera a un sólo Partido Político, ante las Mesas Directivas de Casilla y Generales, ante el Consejo Distrital Electoral;
+b) Deberá acreditar tantos Representantes como correspondiera a un solo Partido Político, ante las Mesas Directivas de Casilla y Generales, ante el Consejo Distrital Electoral;
 
-c). Si registra 25 o más Planillas, además de lo señalado en los incisos anteriores, para la Representación ante los Organos Electorales y Prerrogativas en Radio y Televisión propiedad del Gobierno del Estado, se estará a lo dispuesto por los incisos a), b) y c) del primer párrafo del artículo 56;
+c) Si registra veinticinco o más planillas, además de lo señalado en los incisos anteriores, para la representación ante los Organos Electorales y prerrogativas en Radio y Televisión propiedad del Gobierno del Estado, se estará a lo dispuesto por los incisos a), b) y c) del primer párrafo del artículo 56;
 
-d). Participarán en la elección con el emblema y color o colores de uno de los Partidos o con el emblema formado con los de los Partidos Políticos coaligados; en éste podrán aparecer ligados o separados; y
+d) Participarán en la elección con el emblema y color o colores de uno de los Partidos o con el emblema formado con los de los Partidos Políticos coaligados, en éste podrán aparecer ligados o separados; y
 
-e). La Coalición comprenderá siempre a los candidatos propietarios y suplentes.
+e) La Coalición comprenderá siempre a los candidatos Propietarios y Suplentes.
 
-Para que una Coalición pueda postular Planilla de Ayuntamiento deberá acreditar que las asambleas correspondientes:
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-a). Aprobaron la Coalición;
+###### ARTÍCULO 60.
 
-b). Aprobaron las candidaturas de la Planilla de propietarios y suplentes de la Coalición, de conformidad con sus estatutos y métodos de selección de candidatos; y
+El convenio de Coalición contendrá en todos los casos:
 
-c). Aprobaron la Plataforma Electoral de la Coalición.
+a) Los Partidos Políticos que las forman;
 
-###### ARTICULO 60.
+b) La elección que la motiva;
 
-El Convenio de Coalición, contendrá en todos los casos:
+c) El emblema y el color o colores de uno de los Partidos o el formado con los de los Partidos Políticos Coaligados con el que se participará;
 
-a). Los Partidos Políticos que las forman;
+d) La prelación para la conservación del registro de los Partidos Políticos, en el caso de que el porcentaje de la votación obtenida por la Coalición, no sea equivalente al 2% por cada uno de los Partidos Políticos coaligados;
 
-b). La elección que la motiva;
+e) La forma para distribuir entre los Partidos Políticos coaligados, los votos para efecto de la elección de que se trate;
 
-c). Apellidos paterno, materno y nombre completo, edad, lugar de nacimiento y domicilio del o de los candidatos;
+f) El Partido Político al que pertenecerán los Diputados que resulten electos, derivado de la coalición;
 
-d). El cargo para el que se le o les postula;
+g) El compromiso de sostener una plataforma electoral de acuerdo con lo señalado en el párrafo segundo incisos a) y b) del artículo 56 de este Código;
 
-e). El emblema y el color o colores de uno de los Partidos o el formado con los de los Partidos Políticos Coaligados con el que se participará;
+h) En su caso, la forma y términos de acceso, contratación en los medios de comunicación social y la forma de distribución del financiamiento público que les corresponda como Coalición;
 
-f). La prelación para la conservación del registro de los Partidos Políticos, en el caso de que el porcentaje de la votación obtenida por la Coalición, no sea equivalente al 1.5% por cada uno de los Partidos Políticos coaligados;
+i) Para el caso de la interposición de los medios de impugnación previstos en la ley de la materia, quién ostentará la representación de la Coalición;
 
-g). El señalamiento, por cada Distrito Electoral Uninominal o Municipio, del Partido Político al que pertenece cada uno de los candidatos o Planillas registrados por la Coalición; y
+j) El porcentaje de la votación obtenida por la Coalición que corresponda a cada uno de los Partidos Políticos coaligados para efectos de la asignación de Diputados de Representación Proporcional;
 
-h). La forma para distribuir entre los Partidos Políticos coaligados, los votos para efecto de la elección de que se trate.
+k) El señalamiento del grupo parlamentario o partido político en el que quedarán comprendidos en caso de resultar electos los candidatos registrados por la coalición;
 
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
+l) La forma de distribución del financiamiento público; y
 
-i). El partido político al que pertenecerán los Diputados que resulten electos, derivado de la coalición.
+m) La manera en que la Coalición cumplirá las disposiciones relativas a la fiscalización de los recursos y el señalamiento de los órganos responsables para ello. Los Partidos Políticos coaligados serán corresponsables del cumplimiento de esta disposición.
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1998)</small>
+En el convenio de Coalición se deberá manifestar que los Partidos Políticos coaligados, se sujetarán a los topes de gastos de campaña que se hayan fijado para las distintas elecciones, como si se tratara de un solo Partido. De la misma manera, deberá señalarse el monto de las aportaciones de cada Partido Político coaligado para el desarrollo de las campañas respectivas, así como la forma de reportarlo en los informes correspondientes.
 
-j). El compromiso de sostener una plataforma electoral de acuerdo con lo señalado en el párrafo segundo incisos a) y c) del artículo 56 de este Código;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1998)</small>
+###### ARTÍCULO 61.
 
-k). En su caso, la forma y términos de acceso, contratación en los medios de comunicación social y la forma de distribución del financiamiento público que les corresponda como coalición;
-
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1998)</small>
-
-l). Para el caso de la interposición de los medios de impugnación previstos en la ley de la materia, quién ostentará la representación de la coalición;
-
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1998)</small>
-
-m). El porcentaje de la votación obtenida por la coalición, que corresponda a cada uno de los partidos coaligados para efectos de la asignación de diputados de Representación Proporcional; y
-
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1998)</small>
-
-n). El señalamiento, de ser el caso, del partido político al que pertenece originalmente cada uno de los candidatos registrados por la coalición y el señalamiento del grupo parlamentario o partido político en el que quedarían comprendidos en caso de resultar electos.
-
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1998)</small>
-
-En el convenio de coalición se deberá manifestar que los partidos políticos coaligados, se sujetarán a los topes de gastos de campaña que se hayan fijado para las distintas elecciones, como si se tratara de un solo partido. De la misma manera, deberá señalarse el monto de las aportaciones de cada partido político coaligado para el desarrollo de las campañas respectivas, así como la forma de reportarlo en los informes correspondientes.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 1998)</small>
-
-###### ARTICULO 61.
-
-El convenio de coalición deberá presentarse para su registro ante el Presidente del Consejo Estatal Electoral, a más tardar quince días anteriores al inicio del registro de candidatos de la elección de que se trate. Durante las ausencias del Presidente, el convenio se podrá presentar ante el Secretario Técnico del Consejo.
+El convenio de Coalición deberá presentarse para su registro ante el Presidente del Consejo Estatal Electoral, a más tardar treinta días anteriores al inicio del registro de candidatos de la elección de que se trate. Durante las ausencias del Presidente, el convenio se podrá presentar ante el Secretario Técnico del Consejo.
 
 El Presidente integrará el expediente e informará al Consejo Estatal Electoral.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
+Una vez que el Consejo haya recepcionado de los Partidos Políticos que pretenden coaligarse, la documentación comprobatoria de los requisitos señalados en el artículo anterior, dispondrá de 72 horas para requerir a los Partidos Políticos que pretendan coaligarse, la documentación faltante y en su caso subsanen errores u omisiones detectados, dentro de las 48 horas siguientes a la notificación respectiva.
 
-El Consejo Estatal Electoral contará con diez días para analizar la documentación presentada y, en su caso, con 72 horas para requerir y subsanar omisiones, debiendo resolver sobre el registro en forma definitiva e inatacable dentro de las 48 horas anteriores al inicio del período de registro de candidatos para la elección de que se trate.
+El Consejo Estatal Electoral resolverá respecto de la procedencia del registro de la Coalición dentro de los diez días siguientes a la fecha de presentación, manifestando en su resolución:
+
+a) El resultado y conclusiones de la revisión efectuada de la documentación presentada;
+
+b) En su caso, la mención de los errores e irregularidades encontradas en los mismos; y
+
+c) El señalamiento de la presentación de documentación, aclaraciones o rectificaciones que hayan presentado los Partidos Políticos después de habérseles notificado para ese fin.
 
 Una vez registrado un Convenio de Coalición, el Consejo dispondrá su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -1251,9 +1295,9 @@ El Consejo Estatal revisará la solicitud y los anexos, y en el caso de que se l
 
 Son causas de pérdida de registro de un Partido Político Estatal:
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-a). Cuando se participe en una elección y no obtener el 1.5% de la votación total emitida en la elección de Gobernador o en la elección de Diputados;
+a) Cuando se participe en una elección y no obtener el 2% de la votación emitida en la elección de Gobernador o en la elección de Diputados;
 
 b). Haber dejado de cumplir con los requisitos necesarios para obtener el registro;
 
@@ -1351,51 +1395,37 @@ El Consejo Estatal Electoral es un organismo público autónomo en su funcionami
 
 El patrimonio del Consejo Estatal Electoral se integrará con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se les señalen en el presupuesto de egresos del Estado, así como con los ingresos que reciba por cualquier concepto derivados de la aplicación de las disposiciones de este Código.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 70.
 
 El Consejo Estatal Electoral residirá en la Ciudad de Chilpancingo y se integrará de la manera siguiente:
 
-Un Presidente, que será electo de entre nueve Consejeros Electorales, con voz y voto; un Representante de cada partido político y una Secretaría Técnica, todos ellos con voz pero sin voto.
+Un Presidente que será electo de entre nueve Consejeros Electorales con voz y voto; un Representante de cada Partido Político y una Secretaría Técnica, todos ellos con voz pero sin voto.
 
-Los partidos políticos podrán sustituir en todo tiempo a su representante, dando con oportunidad el aviso correspondiente al Presidente del Consejo.
+Los Partidos Políticos podrán sustituir en todo tiempo a su Representante, dando con oportunidad el aviso correspondiente al Presidente del Consejo.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
-
-Los Consejeros Electorales serán electos por las dos terceras partes de los miembros presentes del Congreso, a propuesta de los Coordinadores de la fracciones parlamentarias, presentadas conforme a las siguientes bases:
+Los Consejeros Electorales serán electos por las dos terceras partes de los miembros presentes del Congreso a propuesta de los Coordinadores de las Fracciones Parlamentarias y de los Representantes de Partido, presentadas conforme a las siguientes bases:
 
 I.- Habrá nueve Consejeros Electorales;
 
-II.- Cada partido político, con registro y representación en la Cámara, tendrá derecho a presentar una lista hasta con nueve candidatos, a través de sus respectivos coordinadores parlamentarios;
+II.- Cada Partido Político con registro y representación en el Congreso, tendrá derecho a presentar una lista hasta con nueve candidatos, a través de sus respectivos Coordinadores Parlamentarios o Representantes de Partido;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 1998)</small>
+III.- Aquéllos candidatos consensados por las Fracciones parlamentarias y Representaciones de Partido, serán integrados a la lista que el Presidente de la Comisión de Gobierno habrá de proponer, en sesión, a la consideración de los Diputados, procurando la equidad de género en su integración; y
 
-III.- Aquéllos candidatos consensados por las fracciones parlamentarias, serán integrados a la lista que el Presidente de la Cámara habrá de proponer, en sesión, a la consideración de los diputados;
+IV.- En caso de que no exista consenso o éste sea parcial, la lista se completará bajo el siguiente procedimiento:
 
-IV.- En caso de que no exista consenso o éste sea parcial, la lista se complentará bajo el siguiente procedimiento:
+a) El Presidente de la Comisión de Gobierno a propuesta de los Coordinadores de las Fracciones Parlamentarias y de los Representantes de Partido, propondrá al Pleno una lista de candidatos de cuando menos el doble del total del número a elegir;
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
+b) De entre estos candidatos el Congreso del Estado elegirá a los Consejeros Electorales, por el voto de las dos terceras partes de sus miembros presentes, procurando la equidad de género en su integración,
 
-a). El Presidente de la Cámara de Diputados, a propuesta de los coordinadores de las fracciones parlamentarias, propondrá al Pleno una lista de candidatos, de cuando menos el doble del total del número a elegir;
+c) Para cubrir las ausencias temporales o definitivas de los Consejeros Electorales, serán electos nueve Consejeros Suplentes en el orden de prelación y en la forma que lo fueron los Propietarios, procurando la equidad de género en su integración.
 
-b). De entre estos Candidatos, el Congreso del Estado elegirá a los Consejeros Electorales, por el voto de las dos terceras partes de sus miembros presentes;
+d) Los Consejeros Electorales Propietarios y Suplentes, durarán en su encargo 3 años. El Presidente de la Comisión de Gobierno a propuesta de los Coordinadores de las Fracciones Parlamentarias o de los Representantes de Partido, propondrá su ratificación por una sola vez o someterá nuevos candidatos para su elección, siguiendo el mismo procedimiento que para su designación.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
+El Secretario Técnico será nombrado por la mayoría simple de los Consejeros Electorales a propuesta del Presidente del Consejo, con derecho únicamente a voz; debiendo poseer cédula profesional registrada de Licenciado en Derecho y durará en su cargo tres años pudiendo ser ratificado por un periodo igual.
 
-c). Para cubrir las ausencias temporales o definitivas de los Consejeros Electorales, serán electos nueve Consejeros suplentes en el orden de prelación y en la forma que lo fueron los propietarios; y
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
-
-d). Los Consejeros Electorales Propietarios y suplentes durarán en su cargo 3 años. El Presidente de la Cámara, a propuesta de los coordinadores de las fracciones parlamentarias, propondrá su ratificación, por una sola vez o someterá nuevos candidatos para su elección, siguiendo el mismo procedimiento que para su designación.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
-
-El Secretario Técnico, será nombrado por la mayoría simple de los Consejeros Electorales a propuesta del Presidente del Consejo, con derecho únicamente a voz; debiendo poseer cédula profesional legalmente registrada de Licenciado en Derecho, y durará en su cargo tres años pudiendo ser ratificado por un período igual.
-
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1998)</small>
-
-De incurrir los Consejeros Electorales propietarios en dos inasistencias consecutivas sin causa justificada a la sesión, será llamado el suplente según el orden de prelación en que fueron designados por el Congreso del Estado.
+De incurrir los Consejeros Electorales Propietarios en dos inasistencias consecutivas sin causa justificada a la sesión, será llamado el Suplente según el orden de prelación en que fueron designados por el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
 
@@ -1424,6 +1454,10 @@ i). No ser Secretario o Subsecretario de Despacho, ni Procurador General de Just
 j). No haber desempeñado el cargo de Consejero Electoral en los órganos electorales federales o del Estado en los últimos tres años al de su designación; y
 
 k). No desempeñar simultáneamente el cargo de Consejero Electoral en Organos Federales o del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+Los Consejeros Electorales Propietarios y el Secretario Técnico del Consejo Estatal Electoral no podrán, en ningún caso, desempeñar empleo o cargo público o privado, salvo las actividades estrictamente científicas, docentes, literarias, de investigación de beneficencia o cargos honoríficos.
 
 Los integrantes de los Organos Electorales, estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Décimo Tercero de la Constitución Política Local.
 
@@ -1565,9 +1599,9 @@ XXX. Aprobar el calendario de elecciones extraordinarias propuesto por el Secret
 
 XXXI. Establecer las reglas a las que se sujetarán los partidos políticos y los candidatos cuando acuerden la realización de debates públicos; y
 
-> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2004)</small>
 
-XXXII. Determinar los topes máximos de gastos de campaña que pueden erogar los partidos políticos en las elecciones de gobernador, diputados y ayuntamientos;
+XXXII.- Determinar los topes máximos de gastos de campaña que pueden erogar los Partidos Políticos o Coaliciones en las elecciones de Gobernador, Diputados y Ayuntamientos;
 
 > <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 1998)</small>
 
@@ -1593,7 +1627,13 @@ XXXVII. Expedir los reglamentos: Interno del Consejo Estatal Electoral y el de s
 
 XXXVIII. Cumplir con las resoluciones o acuerdos emitidos por la autoridad jurisdiccional electoral competente; y
 
-XXXIX. Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas en este Código.
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+XXXIX.- Aprobar y expedir el Estatuto que contenga las bases y lineamientos generales que regule la organización del servicio profesional de carrera electoral para asegurar el buen desempeño de las actividades electorales que tiene encomendadas; y
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+XL.- Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas en este Código.
 
 ### CAPITULO III. DE LAS ATRIBUCIONES DE LA PRESIDENCIA Y DE LA SECRETARIA TECNICA
 
@@ -1765,11 +1805,13 @@ a) Habrá siete Consejeros Electorales;
 
 b) El Presidente del Consejo Estatal propondrá al Pleno una lista de candidatos de cuando menos el doble del total del número a elegir;
 
-c) De entre esos candidatos, el Consejo Estatal elegirá a los Consejeros Electorales, por el voto de la mayoría de sus miembros presentes;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
+c) De entre esos candidatos el Consejo Estatal elegirá a los Consejeros Electorales por el voto de las dos terceras partes de sus miembros presentes, procurando la equidad de género en su integración;
 
-d). Para cubrir la ausencias temporales o definitivas de los Consejeros Electorales serán electos siete Consejeros suplentes en orden de prelación de la lista presentada por el Presidente del Consejo. En caso de ausencia definitiva del Presidente del Consejo, éste será nombrado nuevamente por el Consejo Estatal Electoral;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+d) Para cubrir las ausencias temporales o definitivas de los Consejeros Electorales, serán electos siete Consejeros Suplentes en orden de prelación de la lista presentada por el Presidente del Consejo, procurando la equidad de género en su integración. En caso de ausencia definitiva del Presidente del Consejo, éste será nombrado nuevamente por el Consejo Estatal Electoral; y
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
 
@@ -2027,11 +2069,13 @@ Los Consejeros Electorales, serán electos conforme a las bases siguientes:
 
 a) El Presidente del Consejo Distrital respectivo propondrá al Pleno una lista de candidatos de cuando menos el doble del total del número a elegir;
 
-b) De entre esos candidatos, el Consejo Distrital respectivo elegirá a los Consejeros Electorales, por el voto de la mayoría de sus miembros presentes;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
+b) De entre esos candidatos, el Consejo Distrital respectivo elegirá a los Consejeros Electorales, por el voto de las dos terceras partes de sus miembros presentes, procurando la equidad de género en su integración;
 
-c) Para cubrir las ausencias temporales o definitivas de los Consejeros Electorales, serán electos cinco Consejeros suplentes en orden de prelación de la lista presentada por el Presidente del Consejo Distrital respectivo. El Presidente, será suplido en sus ausencias momentáneas por el Consejero Electoral que él mismo designe; y
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+c) Para cubrir las ausencias temporales o definitivas de los Consejeros Electorales, serán electos cinco Consejeros suplentes en orden de prelación de la lista presentada por el Presidente del Consejo Distrital respectivo, procurando la equidad de género en su integración. El Presidente será suplido en sus ausencias momentáneas por el Consejero Electoral que él mismo designe; y
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
 
@@ -2401,25 +2445,81 @@ Los Consejos Distritales y Municipales, determinarán sus horarios de labores, t
 
 De los horarios que fije, informarán al Presidente para dar cuenta al Consejo Estatal, y en su caso al Presidente del Consejo Distrital respectivo, y a los Partidos Políticos que hayan acreditado Representantes ante el mismo.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 2004)</small>
+
+## TITULO SEPTIMO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 2004)</small>
+
+### CAPITULO UNICO. DEL SERVICIO PROFESIONAL DE CARRERA
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+ARTICULO 106 BIS.- El Consejo Estatal Electoral a través de la Secretaría Técnica establecerá el Servicio Profesional de Carrera de sus servidores públicos, atendiendo a la capacidad, idoneidad, rectitud, probidad, constancia y profesionalismo, rigiendo la formación de sus miembros bajo los principios de objetividad e imparcialidad.
+
+El Servicio Profesional de Carrera tendrá como propósito garantizar la estabilidad y seguridad en el empleo, así como fomentar la vocación de servicio y promover la capacitación.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+ARTICULO 106 BIS 1.- El Servicio Profesional de carrera se integrará por un Cuerpo en el que se incluyen funciones directivas y técnicas. Se estructurará por niveles o rangos propios, diferenciados de los cargos y puestos de la estructura orgánica del Consejo Estatal y de los Consejos Distritales y Municipales. Los niveles o rangos permitirán la promoción de los miembros titulares del Cuerpo. En éste se desarrollará la carrera de los miembros permanentes del Servicio, de manera que puedan colaborar en el Consejo Estatal o en los Consejos Distritales o Municipales en su conjunto y no exclusivamente en un cargo o puesto.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+ARTICULO 106 BIS 2.- El ingreso al Cuerpo procederá cuando el aspirante acredite los requisitos personales, académicos y de buena reputación que para cada uno de ellos señale el Estatuto y además haya cumplido con los cursos de formación y capacitación correspondientes y realice las prácticas en los órganos del Consejo. Serán vías de acceso al Cuerpo el examen o el concurso, según lo señale el Estatuto.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+ARTICULO 106 BIS 3.- La permanencia de los servidores públicos en el Consejo Estatal estará sujeta a la acreditación de los exámenes de los programas de formación y desarrollo profesional electoral y del resultado de la evaluación anual que se realicen de conformidad con lo establecido en el Estatuto.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+ARTICULO 106 BIS 4.- El Cuerpo proveerá de sus rangos o niveles a los funcionarios que cubrirán los cargos de Directores y Coordinadores, así como de los demás cargos que se determinen en el Estatuto.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+ARTICULO 106 BIS 5.- Los miembros del Servicio Profesional de Carrera estarán sujetos al régimen de responsabilidad de los servidores públicos del Estado previsto en el Título Décimo Tercero de la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+ARTICULO 106 BIS 6.- El Consejo Estatal Electoral expedirá el Estatuto que deberá contener las normas para:
+
+I.- Definir los niveles o rangos del Cuerpo y los cargos o puestos a los que dan acceso;
+
+II.- Formar el Catálogo General de Cargos y Puestos del Consejo Estatal Electoral;
+
+III.- El reclutamiento y selección de los funcionarios y técnicos que accederán al Cuerpo;
+
+IV.- Otorgar la titularidad en un nivel o rango del Cuerpo o rama y para el nombramiento en un cargo o puesto;
+
+V.- La formación y capacitación profesional y los métodos para la evaluación del rendimiento;
+
+VI.- Los sistemas de ascenso, movimientos a los cargos o puestos y para la aplicación de sanciones administrativas o remociones. Los ascensos se otorgarán sobre las bases de mérito y rendimiento;
+
+VII.- La contratación de prestadores de servicios profesionales para programas específicos y la realización de actividades eventuales;
+
+VIII.- El sistema salarial y condiciones de trabajo;
+
+IX.- La organización de empleados administrativos y trabajadores auxiliares y eventuales;
+
+X.- El sistema de recontratación de los servidores de los Consejos Estatal, Distritales y Municipales, quienes tendrán preferencia para reingresar a los cargos y puestos en cada proceso electoral. La recontratación se basará en el mérito y rendimiento mostrado en la labor realizada en el proceso electoral anterior, y
+
+XI.- Las demás necesarias para la organización y buen funcionamiento del Consejo Estatal Electoral.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+ARTICULO 106 BIS 7.- Las diferencias o conflictos entre los Consejos Electorales con sus servidores, serán resueltas por el Tribunal Electoral del Estado de conformidad con lo previsto en la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado de Guerrero.
+
 > <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)</small>
+
+# LIBRO CUARTO. DEL REGISTRO ESTATAL DE ELECTORES
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)</small>
 
 ## TITULO PRIMERO
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)</small>
 
 ### CAPITULO I. CONCEPTO E INTEGRACION
-
-# LIBRO CUARTO. DEL REGISTRO ESTATAL DE ELECTORES
-
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)</small>
-
-## TITULO SEGUNDO. DE LOS PROCEDIMIENTOS DEL REGISTRO ESTATAL DE ELECTORES
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)</small>
-
-DISPOSICIONES PRELIMINARES
-
-### CAPITULO II. DE LAS ATRIBUCIONES DEL DIRECTOR
 
 ###### ARTICULO 107.
 
@@ -2443,7 +2543,7 @@ DISPOSICIONES PRELIMINARES
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE FEBRERO DE 1998)</small>
 
-### CAPITULO I. DEL CATALOGO GENERAL DE ELECTORES
+### CAPITULO II. DE LAS ATRIBUCIONES DEL DIRECTOR
 
 ###### ARTICULO 112.
 
@@ -2451,7 +2551,11 @@ DISPOSICIONES PRELIMINARES
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)</small>
 
-## TITULO PRIMERO
+## TITULO SEGUNDO. DE LOS PROCEDIMIENTOS DEL REGISTRO ESTATAL DE ELECTORES
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)</small>
+
+DISPOSICIONES PRELIMINARES
 
 ###### ARTICULO 113.
 
@@ -2471,7 +2575,7 @@ DISPOSICIONES PRELIMINARES
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE FEBRERO DE 1998)</small>
 
-### CAPITULO II. DE LA FORMACION DEL PADRON ELECTORAL
+### CAPITULO I. DEL CATALOGO GENERAL DE ELECTORES
 
 ###### ARTICULO 117.
 
@@ -2479,7 +2583,7 @@ DISPOSICIONES PRELIMINARES
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)</small>
 
-### CAPITULO III. DE LA ACTUALIZACION DEL CATALOGO GENERAL DE ELECTORES Y DEL PADRON ELECTORAL
+### CAPITULO II. DE LA FORMACION DEL PADRON ELECTORAL
 
 ###### ARTICULO 118.
 
@@ -2495,7 +2599,7 @@ DISPOSICIONES PRELIMINARES
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)</small>
 
-### CAPITULO IV. DE LA DIVISION TERRITORIAL, DE LAS LISTAS NOMINALES DE ELECTORES Y DE SU REVISION
+### CAPITULO III. DE LA ACTUALIZACION DEL CATALOGO GENERAL DE ELECTORES Y DEL PADRON ELECTORAL
 
 ###### ARTICULO 121.
 
@@ -2535,7 +2639,7 @@ DISPOSICIONES PRELIMINARES
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)</small>
 
-### CAPITULO V. DE LA CREDENCIAL PARA VOTAR
+### CAPITULO IV. DE LA DIVISION TERRITORIAL, DE LAS LISTAS NOMINALES DE ELECTORES Y DE SU REVISION
 
 ###### ARTICULO 130.
 
@@ -2575,7 +2679,7 @@ DISPOSICIONES PRELIMINARES
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE FEBRERO DE 1998)</small>
 
-### CAPITULO VI. DE LAS COMISIONES DE VIGILANCIA
+### CAPITULO V. DE LA CREDENCIAL PARA VOTAR
 
 ###### ARTICULO 139.
 
@@ -2583,7 +2687,7 @@ DISPOSICIONES PRELIMINARES
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)</small>
 
-### CAPITULO VII. DISPOSICIONES COMPLEMENTARIAS
+### CAPITULO VI. DE LAS COMISIONES DE VIGILANCIA
 
 ###### ARTICULO 140.
 
@@ -2595,7 +2699,7 @@ DISPOSICIONES PRELIMINARES
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE FEBRERO DE 1998)</small>
 
-### CAPITULO UNICO. DISPOSICIONES PRELIMINARES
+### CAPITULO VII. DISPOSICIONES COMPLEMENTARIAS
 
 ###### ARTICULO 142.
 
@@ -2603,9 +2707,11 @@ DISPOSICIONES PRELIMINARES
 
 # LIBRO QUINTO. DEL PROCESO ELECTORAL
 
-## TITULO SEGUNDO. DE LOS ACTOS PREPARATORIOS DE LA ELECCION
+## TITULO PRIMERO
 
-### CAPITULO I. DEL PROCEDIMIENTO DE REGISTRO DE CANDIDATOS
+> <small>(REFORMADA SU NUMERACION, P.O. 13 DE FEBRERO DE 2004)</small>
+
+### CAPITULO I. DISPOSICIONES PRELIMINARES
 
 ###### ARTICULO 143.
 
@@ -2647,39 +2753,105 @@ La etapa de resultados y calificación de las elecciones, se inicia con la remis
 
 Atendiendo al principio de definitividad que rige en los procesos electorales, a la conclusión de cualquiera de sus etapas o de alguno de los actos o actividades trascendentes de los órganos electorales, el Consejo Estatal podrá difundir su realización y conclusión por los medios que estime pertinentes.
 
-### CAPITULO II. DE LAS CAMPAÑAS ELECTORALES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 2004)</small>
 
-## TITULO TERCERO. DE LA JORNADA ELECTORAL
+### CAPITULO II. DE LAS PRECAMPAÑAS
 
-### CAPITULO III. DE LOS PROCEDIMIENTOS PARA LA INTEGRACION Y UBICACION DE LAS MESAS DIRECTIVAS DE CASILLA
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 1998)</small>
+ARTÍCULO 144 BIS.- Los Partidos Políticos con acreditación y registro vigente ante el Consejo Estatal Electoral, con base en sus Estatutos, podrán organizar precampañas dentro de los procesos internos.
 
-###### ARTICULO 145.
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-Corresponde exclusivamente a los Partidos Políticos, el derecho de solicitar el registro de candidatos a cargo de elección popular, de conformidad con lo dispuesto en el artículo 25 de la Constitución del Estado.
+ARTICULO 144 BIS 1.- Para los efectos de este Código, se entenderá por:
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1998)</small>
+I.- Precampaña Electoral: Al conjunto de actividades que de manera previa al registro de candidatos, son llevadas a cabo por ciudadanos que aspiran a ser candidatos para algún cargo de elección popular con el propósito de ser nominados para éste, por algún Partido Político;
 
-En el caso de que para un mismo cargo de elección popular sean registrados diferentes candidatos por un mismo partido político, el Secretario Técnico del Consejo Estatal Electoral, una vez detectada esta situación requerirá al partido político a efecto de que informe al Consejo Estatal, en un término de 48 horas, qué candidato o fórmula prevalece. En caso de no hacerlo se entenderá que el partido político opta por el último de los registros presentados, quedando sin efecto los demás.
+II.- Actos de Precampaña: Las acciones que tienen por objeto mejorar la imagen de los aspirantes a candidato con el fin de obtener la nominación como candidato del Partido Político para contender en una elección constitucional. Entre otras, quedan comprendidas las siguientes:
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1998)</small>
+a) Reuniones públicas o privadas;
 
-En el supuesto de que diferente partido político registre en el mismo proceso electoral a un mismo candidato para un cargo de elección popular, el Consejo Electoral respectivo lo notificará a los partidos políticos y al candidato, con el propósito de que subsanen la irregularidad en un plazo máximo de cuarenta y ocho horas. En caso de no hacerlo, subsistirá el registro presentado en primer término.
+b) Asambleas;
 
-###### ARTICULO 146.
+c) Debates;
 
-Para el registro de candidaturas a todo cargo de elección popular, el Partido Político postulante, deberá presentar y obtener el registro de la Plataforma Electoral que sus candidatos sostendrán a lo largo de las campañas políticas.
+d) Entrevistas en los medios;
 
-La Plataforma Electoral, deberá presentarse para su registro ante el Consejo Estatal, durante la última semana del mes de junio del año del Proceso Electoral cuando se trate de elección de Diputados y Ayuntamientos, y en la última semana de agosto cuando sea elección de Gobernador. Del registro se expedirá constancia.
+e) Visitas domiciliarias, y
+
+f) Demás actividades que realicen los aspirantes a candidatos.
+
+III.- Propaganda de precampaña electoral: Al conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la precampaña electoral, producen y difunden los aspirantes a candidatos y sus simpatizantes con el propósito de presentar y difundir sus propuestas ante la sociedad y los militantes del Partido Político por el que aspiran ser nominados;
+
+IV.- Aspirante a candidato: A los ciudadanos que deciden contender al interior de un determinado Partido Político con el fin de alcanzar su nominación como candidato a un puesto de elección popular;
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+ARTICULO 144 BIS 2.- El Partido Político deberá informar por escrito al Consejo Estatal Electoral sobre el inicio de la precampaña electoral dentro de los cinco días anteriores a ésta, en el que deberá acompañar un informe de los lineamientos o acuerdos a los que estarán sujetos los aspirantes a candidatos.
+
+Las precampañas electorales no podrán iniciar antes de noventa días naturales antes del inicio del proceso electoral correspondiente, debiendo concluir a más tardar diez días antes del inicio del periodo de la solicitud de registro.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+ARTICULO 144 BIS 3.- El Partido Político deberá informar al Consejo Estatal Electoral sobre la acreditación de los aspirantes a candidatos dentro de los cinco días siguientes al inicio de la precampaña.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+ARTICULO 144 BIS 4.- El aspirante a candidato se sujetará a los plazos y disposiciones establecidas en este Código y a su normatividad interna. El incumplimiento a esta disposición será motivo para que el Consejo competente en su momento le niegue el registro como candidato, sin menoscabo de las sanciones a las que pueda ser sujeto por los estatutos del Partido Político correspondiente.
+
+En el caso de que un aspirante a candidato no informe que desea iniciar la precampaña, tanto el Consejo Estatal Electoral como los Partidos Políticos podrán reconocer que una precampaña ha dado inicio una vez que sean públicos y notorios los actos y gastos de precampaña.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+ARTICULO 144 BIS 5.- Una vez notificado el Consejo Estatal Electoral, hará saber al Partido Político y a los aspirantes a candidatos, conforme al presente Código, las obligaciones a que quedan sujetos y extenderá la constancia respectiva para el aspirante a candidato.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+ARTICULO 144 BIS 6.- Los Partidos Políticos dispondrán lo necesario a fin de que los aspirantes a candidatos sean reconocidos como tales, extendiéndoles la constancia de registro respectiva, siempre y cuando cumplan con los requisitos y resulte procedente conforme a este Código y a los estatutos y acuerdos del mismo Partido Político.
+
+En las campañas que realicen los Partidos Políticos para elegir a sus candidatos a cargos de elección popular, el Consejo Estatal Electoral dictará las disposiciones necesarias para vigilar y regular dichas campañas internas, en lo referente al origen de los recursos, periodos y formas de comprobación de gastos, topes de precampañas cuyo monto conjunto para todos los candidatos internos del Partido Político no podrá ser mayor al 20% del monto asignado al Partido Político para gastos de campaña en la elección inmediata anterior del mismo nivel.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+ARTÍCULO 144 BIS 7.- Una vez terminadas las precampañas que realicen los Partidos Políticos en la fase de precandidaturas, deberá ser retirada a más tardar un día antes del inicio del registro de candidatos por el aspirante a candidato o por el Partido Político al que pertenece o bajo el que hizo precampaña.
+
+En caso de no hacerlo se pedirá a las autoridades municipales procedan a realizar el retiro, aplicando el costo de dichos trabajos con cargo a las prerrogativas del Partido Político infractor y el Consejo Estatal Electoral impondrá una multa de hasta mil veces el salario mínimo vigente en el Estado al Partido Político y a sus precandidatos.
+
+Durante las precampañas electorales los Partidos Políticos y los aspirantes a candidatos no podrán utilizar en su favor, los programas públicos de carácter social en la realización de actos de proselitismo político.
+
+## TITULO SEGUNDO. DE LOS ACTOS PREPARATORIOS DE LA ELECCION
+
+### CAPITULO I. DEL PROCEDIMIENTO DE REGISTRO DE CANDIDATOS
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 145.
+
+Corresponde exclusivamente a los Partidos Políticos y a las Coaliciones, en su caso, el derecho de solicitar el registro de candidatos a cargos de elección popular, de conformidad con lo dispuesto en el artículo 25 de la Constitución Política del Estado.
+
+En el caso de que para un mismo cargo de elección popular sean registrados diferentes candidatos por un mismo Partido Político o Coalición, el Secretario Técnico del Consejo Estatal Electoral una vez detectada esta situación, le hará el requerimiento a efecto de que informe al Consejo Estatal, en un término de 48 horas, qué candidato o fórmula prevalece. En caso de no hacerlo se entenderá que el Partido Político o la Coalición opta por el último de los registros presentados, quedando sin efecto los demás.
+
+En el supuesto de que diferente Partido Político o Coalición registre en el mismo proceso electoral a un mismo candidato para un cargo de elección popular, el Consejo Electoral respectivo lo notificará a los Partidos Políticos o Coalición y al candidato, con el propósito de que subsanen la irregularidad en un plazo máximo de cuarenta y ocho horas. En caso de no hacerlo, subsistirá el registro presentado en primer término.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 146.
+
+Para el registro de candidaturas a todo cargo de elección popular, el Partido Político o Coalición postulante deberá presentar y obtener el registro de la Plataforma Electoral que sus candidatos sostendrán a lo largo de las campañas políticas.
+
+Los Partidos Políticos deberán presentar la Plataforma Electoral para su registro ante el Consejo Estatal Electoral, durante la última semana del mes de junio del año del Proceso Electoral cuando se trate de elección de Diputados y Ayuntamientos y en la última semana de agosto cuando sea elección de Gobernador y las Coaliciones al momento de registrar su convenio en los plazos y términos contenidos en el Capítulo II, Título Cuarto, Libro Segundo del presente Código. Del registro se expedirá constancia.
 
 ###### ARTICULO 147.
 
 Los plazos y Organos competentes para el registro de las candidaturas, son los siguientes:
 
-a). Para Diputados electos por el Principio Uninominal, del 1o. al 15 de agosto, por los Consejos Distritales correspondientes;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-b). Para Diputados electos por el Principio Plurinominal, del 16 al 30 de agosto, por el Consejo Estatal Electoral;
+a) Para Diputados electos por el principio de Mayoría Relativa, del 1o al 15 de agosto por los Consejos Distritales correspondientes;
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+b) Para Diputados electos por el principio de Representación Proporcional, del 16 al 30 de agosto por el Consejo Estatal Electoral;
 
 c). Para Ayuntamientos, del 1o. al 15 de agosto, por los Consejos Municipales Electorales correspondientes; y
 
@@ -2687,9 +2859,7 @@ c). Para Ayuntamientos, del 1o. al 15 de agosto, por los Consejos Municipales El
 
 d). Para Gobernador del Estado, del 15 al 30 de octubre, por el Consejo Estatal Electoral.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
-
-Las coaliciones deberán solicitar sus registros a más tardar 15 días antes del inicio de las fechas señaladas en los incisos anteriores.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
 
@@ -2701,57 +2871,75 @@ Los registros a que se refieren los incisos a) y c), podrán llevarse a cabo sup
 
 Tratándose de las planillas para integrar los Ayuntamientos de los municipios cabeceras de Distrito, el registro se deberá efectuar ante el Consejo Distrital que corresponda.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 148.
 
 El registro de candidatos a Diputados y a miembros de Ayuntamientos, se sujetará a las reglas siguientes:
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
+a) Las candidaturas a Diputados de Mayoría Relativa serán registradas por fórmulas, integradas cada una por un propietario y un suplente.
 
-a) Las candidaturas a diputados de mayoría relativa serán registradas por fórmulas, integradas cada una por un propietario y un suplente;
+De la totalidad de solicitudes de registro que presenten los Partidos Políticos o las Coaliciones ante el Consejo Estatal Electoral, en ningún caso incluirán más del setenta por ciento de candidatos propietarios de un mismo género.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
+Quedan exceptuadas las candidaturas que sean resultado de un proceso de elección directa de candidatos
 
-b) Las candidaturas a diputados de representación proporcional, serán registradas en una lista, integrada por fórmulas con propietarios y suplentes respectivamente; y
+b) Las candidaturas a Diputados de Representación Proporcional serán registradas en una lista, integrada por fórmulas de propietario y suplente, componiéndola en una proporción que no exceda del setenta por ciento a favor de un mismo género. La lista se integrará por segmentos de tres fórmulas, en cada bloque habrá una candidatura propietaria de género distinto. Lo anterior sin perjuicio de los mayores avances que en esta materia señale la normatividad interna y los procedimientos de cada Partido Político.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
+Cuando la selección de candidatos sea producto de procedimientos de porcentajes asignados en la lista por cuestión de género conforme a la normatividad interna de los Partidos Políticos, se integrarán por fórmulas con candidaturas de propietario y suplente del mismo género.
 
-c) Las candidaturas edilicias serán registradas por planillas que estarán formadas por los candidatos a presidente y síndico o síndicos; asimismo se registrará una lista de candidatos a regidores, por cada propietario un suplente.
+Las Coaliciones para registrar candidaturas a Diputados de Representación Proporcional deberán presentar sus candidaturas de Mayoría Relativa, de propietario y suplente, en cuando menos las dos terceras partes de los Distritos de que se compone el Estado.
 
-###### ARTICULO 149.
+c) Las candidaturas edilicias serán registradas por planillas que estarán formadas por los candidatos a Presidente y Síndico o Síndicos; asimismo se registrará una lista de candidatos a Regidores, que se integrará por segmentos de tres fórmulas, en cada bloque habrá una candidatura propietaria de género distinto. La lista no deberá exceder en su integración del setenta por ciento a favor de un mismo género. Lo anterior sin perjuicio de los mayores avances que en esta materia señale la normatividad interna y los procedimientos de cada Partido Político.
 
-La solicitud de registro de candidaturas, deberá señalar el Partido Político o Coalición que las postulen y los siguientes datos de los candidatos:
+Las Coaliciones para registrar sus candidaturas acreditarán que las asambleas u órganos equivalentes correspondientes aprobaron:
 
-a). Apellidos paterno, materno y nombre completo;
+a) La Coalición; y
 
-b). Lugar y fecha de nacimiento;
+b) La Plataforma Electoral de la Coalición.
 
-c). Domicilio y tiempo de residencia en el mismo;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-d). Ocupación;
+###### ARTÍCULO 149.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
+La solicitud de registro de candidaturas deberá señalar el Partido Político o Coalición que las postule y los siguientes datos de los candidatos:
 
-e). Clave de la credencial para votar con fotografía;
+a) Apellidos paterno, materno y nombre completo;
 
-f). Cargo para el que se les postule.
+b) Lugar y fecha de nacimiento;
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1998)</small>
+c) Domicilio y tiempo de residencia en el mismo;
 
-g). Curriculum vitae.
+d) Ocupación;
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
+e) Clave de la credencial para votar con fotografía;
 
-La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, en el caso de que el candidato sea distinto al postulado en el convenio de coalición, se deberá cumplir además con lo señalado en los artículos 56, 57, 58, 59 y 60 de este Código; copia del acta de nacimiento y de la credencial para votar con fotografía así como, en su caso, la constancia de residencia de propietarios y suplentes.
+f) Cargo para el que se le postule; y
 
-De igual manera el Partido Político postulante, deberá manifestar por escrito que los candidatos cuyo registro solicita, fueron seleccionados de conformidad con las normas estatutarias del propio Partido Político.
+g) Currículum vitae.
+
+La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia del acta de nacimiento y de la credencial para votar con fotografía, así como, en su caso, la constancia de residencia de propietarios y suplentes.
+
+La Coalición deberá además hacer el señalamiento, por cada Distrito Electoral o Municipio, el Partido Político al que pertenece cada uno de los candidatos o planillas registrados por la Coalición.
+
+De igual manera el Partido Político o Coalición postulante, deberá manifestar por escrito que los candidatos cuyo registro solicita, fueron seleccionados de conformidad con las normas estatutarias del o los propios Partidos Políticos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 150.
 
-Recibida una solicitud de registro de candidaturas por el Presidente o Secretario Técnico del Consejo que corresponda, se verificará dentro de los tres días siguientes, que se cumplió con todos los requisitos señalados en el artículo anterior.
+Recibida una solicitud de registro de candidaturas por el Presidente o Secretario Técnico del Consejo que corresponda, se verificará dentro de los tres días siguientes, que se cumplió con todos los requisitos señalados en los artículos 148 y 149.
 
 Si de la verificación realizada se advierte, que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al Partido Político correspondiente, para que dentro de las cuarenta y ocho horas siguientes subsanen el o los requisitos omitidos o sustituya la candidatura, siempre y cuando esto pueda realizarse dentro de los plazos que señala el artículo 147 de este Código.
 
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+Si de la verificación del registro de candidaturas se detectara la sobrerepresentación del registro de candidaturas a favor de un género, fuera de los casos de excepción contemplados en este Código, el Consejo Estatal Electoral apercibirá al Partido Político o Coalición respectiva para que sustituya el número de candidatos excedentes, dentro de las 48 horas siguientes de su notificación. En caso de que el Partido Político o Coalición requerido no ajuste ni justifique la sobrerepresentación de género en sus candidaturas, el Consejo Estatal Electoral lo sancionará con amonestación pública y con la reducción de hasta el 50% de las ministraciones de financiamiento público por actividades ordinarias que le corresponda, por el periodo que señale la resolución.
+
 Cualquier solicitud o documentación presentada fuera de los plazos a que se refiere el artículo 147, será desechada de plano y en su caso, no se registrará la candidatura o candidaturas que no satisfagan los requisitos.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+La coalición quedará automáticamente sin efectos, si no registra las candidaturas en los términos de este Código.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 1996)</small>
 
@@ -2773,23 +2961,29 @@ El Consejo Estatal, solicitará oportunamente la publicación en el Periódico O
 
 En la misma forma, se publicarán y difundirán las cancelaciones de registro o sustituciones de candidatos.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 153.
 
-Para la sustitución de candidatos, los partidos políticos lo solicitarán por escrito al consejo estatal, observando las siguientes disposiciones:
+Para la sustitución de candidatos los Partidos Políticos o Coaliciones lo solicitarán por escrito al Consejo Estatal, observando las siguientes disposiciones:
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
 
 a) Dentro del plazo establecido para el registro de candidatos podrán sustituirlos libremente; y
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
+
 b) Vencido el plazo a que se refiere el inciso anterior, exclusivamente podrán sustituirlos por causas de fallecimiento, inhabilitación, incapacidad o renuncia. En este último caso, no podrán sustituirlos cuando la renuncia se presente dentro de los treinta días anteriores al de la elección.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
 
 Para la corrección y substitución, en su caso, de las boletas electorales, se estará a lo dispuesto en el artículo 179 de este código.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
+
 En los casos en que la renuncia del candidato fuera notificada por éste al Consejo Estatal, se hará del conocimiento del partido político que lo registró para que proceda en su caso, a su substitución.
 
-### CAPITULO IV. DEL REGISTRO DE REPRESENTANTES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 1998)</small>
+### CAPITULO II. DE LAS CAMPAÑAS ELECTORALES
 
 ###### ARTICULO 154.
 
@@ -2800,6 +2994,14 @@ Se entienden por actos de campaña, las reuniones públicas, asambleas, marchas 
 Se entiende por propaganda electoral, el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los Partidos Políticos, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas.
 
 Tanto la propaganda electoral como las actividades de campaña a que se refiere el presente artículo, deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados, por los Partidos Políticos en sus documentos básicos y, particularmente, en la Plataforma Electoral que para la elección en cuestión hubieren registrado.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+Las campañas electorales de los Partidos Políticos y Coaliciones, se iniciarán a partir del día siguiente al de la sesión de aprobación del registro de candidaturas para la elección respectiva a que se refiere el sexto párrafo del artículo 150 de este Código y concluirán tres días antes de la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+Durante los tres días anteriores y el de la jornada electoral no se permitirá la celebración ni la difusión de reuniones o actos públicos de campaña, de propaganda o de proselitismo electorales; debiendo suspenderse también, todo acto de difusión de propaganda política en radio, televisión, prensa escrita, internet y medios electrónicos en general.
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
 
@@ -2812,6 +3014,10 @@ a). Gastos de propaganda, que comprenden los realizados en bardas, mantas, volan
 b). Gastos operativos de la campaña, que comprenden los sueldos y salarios del personal eventual, arrendamiento eventual de bienes muebles e inmuebles, gastos de transporte de material y personal, viáticos y otros similares; y
 
 c). Gastos de propaganda en prensa, radio y televisión, que comprenden los realizados en cualquiera de estos medios tales como mensajes, anuncios publicitarios y sus similares, tendientes a la obtención del voto.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+d) Gastos para el retiro de propaganda y limpieza de lugares públicos.
 
 No se considerarán dentro de los topes de campaña los gastos que realicen los partidos para su operación ordinaria y para el sostenimiento de sus órganos directivos y de sus organizaciones.
 
@@ -2903,65 +3109,71 @@ d). No podrá fijarse o pintarse en elementos del equipamiento urbano, carretero
 
 e). No podrá colgarse o fijarse o pintarse en monumentos ni en el exterior de edificios públicos.
 
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+f) Retirar toda la propaganda que coloquen, fijen o pinten dentro de los plazos señalados en el sexto párrafo del artículo 154 de este Código. En caso de no hacerlo, las autoridades competentes procederán a retirarla, comunicando este hecho, así como el importe del trabajo de limpieza al Consejo para que se cubra con cargo al financiamiento público del Partido Político infractor
+
 > <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1998)</small>
 
 Se entiende por lugares de uso común los que son propiedad de los gobiernos estatal o municipal, susceptibles de ser utilizados para la colocación y fijación de la propaganda electoral. Estos lugares serán repartidos por sorteo entre los partidos políticos registrados, conforme al procedimiento acordado en la sesión del consejo respectivo.
 
 Los Consejos Estatal, Distritales y Municipales, dentro del ámbito de su competencia, velarán por la observancia de estas disposiciones y adoptarán las medidas a que hubiere lugar, con el fin de asegurar a Partidos y candidatos el pleno ejercicio de sus derechos en la materia.
 
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+### CAPITULO III. DE LAS ENCUESTAS, DE LOS CONTEOS RAPIDOS Y DE LOS DEBATES
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 162.
+
+Los Partidos Políticos y las personas físicas o morales que pretendan llevar a cabo encuestas por muestreo para dar a conocer las preferencias electorales de los ciudadanos o las tendencias de las votaciones, adoptarán los criterios generales que para tal efecto determine el Consejo Estatal Electoral.
+
+Se entiende por encuesta o sondeo de opinión, el estudio que realicen las empresas y organizaciones autorizadas por el Consejo Estatal Electoral a efecto de conocer la preferencia político-electoral de la ciudadanía.
+
+Se entiende por encuestas de salida, la actividad que realicen el día de la jornada electoral las empresas y organizaciones autorizadas por el Consejo Estatal Electoral para conocer la preferencia electoral de los ciudadanos que así deseen manifestarlo, después de que hayan emitido su voto.
+
+Se entiende por conteo rápido, la actividad que realizan las empresas y organizaciones autorizadas por el Consejo Estatal Electoral para conocer de manera parcial o total, la suma de los resultados electorales publicados en el exterior de las casillas. Dichos resultados no tendrán el carácter de oficiales.
+
+Las encuestas y los conteos rápidos se sujetarán cuando menos a las siguientes reglas:
+
+a) Las empresas u organizaciones que deseen realizar encuestas o sondeos de opinión, encuestas de salida o conteos rápidos, deberán presentar su solicitud ante el Consejo Estatal Electoral por conducto del Secretario Técnico; a partir de su instalación y hasta un mes antes de la jornada electoral, acompañando copia de la metodología y el grado de confiabilidad.
+
+b) El día de la jornada electoral sólo podrán realizar encuestas de salida las empresas u organizaciones que hayan sido autorizadas por el Consejo Estatal Electoral, las cuales deberán cumplir con la normatividad que para ello se establezca, concluida su actividad entregarán al Consejo Estatal Electoral copia del estudio completo realizado y los resultados obtenidos;
+
+c) El Consejo Estatal Electoral para otorgar la autorización de levantar cualquier encuesta, deberá estudiar la metodología que propone el solicitante y fijará una fianza de una cantidad equivalente a diez mil salarios mínimos vigentes en el Estado, la cual garantizará que los resultados de las encuestas no se difundan antes de la hora que para tal efecto determine por acuerdo el Consejo Estatal Electoral y que las actividades realizadas se hayan ejecutado en cumplimiento a la metodología propuesta para la realización de encuestas, en caso de incumplimiento, la fianza se hará efectiva a favor del patrimonio del Consejo Estatal Electoral, sin perjuicio de las demás sanciones aplicables a los infractores.
+
+d) La encuesta de salida no deberá realizarse en documentos en los que se reproduzcan los emblemas y colores de los Partidos Políticos, ni en papeletas que tengan similitud con las boletas electorales;
+
+e) El resultado de las encuestas de salida o sondeos de opinión sólo podrán darse a conocer después del cierre de las casillas en la hora que para el efecto determine por acuerdo el Consejo Estatal Electoral;
+
+Durante los cinco días previos a la elección y hasta el cierre de las casillas, queda prohibido publicar o difundir por cualquier medio, los resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos, quedando sujetos quienes lo hicieren a las penas aplicables a aquéllos que incurran en alguno de los tipos previstos y sancionados en el artículo 292 del Código Penal del Estado.
+
+El Consejo Estatal Electoral a petición de los Partidos Políticos y Candidatos que así lo decidan, organizará debates públicos y apoyará su difusión.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+### CAPITULO VII (SIC). DE LA DOCUMENTACION Y EL MATERIAL ELECTORAL
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+ARTICULO 162 BIS.- Durante la jornada electoral y en el lapso de treinta días previos a ésta, las autoridades y servidores públicos municipales y estatales, suspenderán las campañas publicitarias en medios impresos, digitales, radio y televisión de todo lo relativo a los programas y acciones de los cuales sean responsables y cuya difusión no sea necesaria o de utilidad pública inmediata. Asimismo interrumpirán durante quince días previos a la elección, las actividades que impliquen la entrega a la población de materiales, alimentos o cualquier otro elemento que forme parte de sus programas asistenciales o de gestión y desarrollo social, salvo en los casos de extrema urgencia para atender problemas de salud pública, catástrofes, desastres naturales, siniestros u otros eventos de igual naturaleza.
+
+Tratándose de autoridades federales el Consejo Estatal Electoral promoverá la celebración de convenios para la aplicación de la disposición anterior en el ámbito de competencia federal.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+### CAPITULO IV. DE LA SUSPENSION DE LA DIFUSION DE LOS PROGRAMAS DE GOBIERNO
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 163.
+
+Cualquier infracción a las disposiciones contenidas en los Capítulos II, III y IV del presente Título, será sancionada en los términos de este Código y de las leyes aplicables.
+
+### CAPITULO III (SIC). DE LOS PROCEDIMIENTOS PARA LA INTEGRACION Y UBICACION DE LAS MESAS DIRECTIVAS DE CASILLA
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 1998)</small>
-
-### CAPITULO V. DE LA DOCUMENTACION Y EL MATERIAL ELECTORAL
-
-###### ARTICULO 162.
-
-Las Campañas Electorales de los Partidos Políticos, se iniciarán a partir del día siguiente al de la sesión de aprobación del registro de candidaturas para la elección respectiva y concluirán tres días antes de la jornada electoral.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
-
-Durante los tres días anteriores y el de la jornada electoral, no se permitirá la celebración ni la difusión de reuniones o actos públicos de campaña, de propaganda o de proselitismo electorales.
-
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1998)</small>
-
-Las personas físicas o morales que pretendan llevar a cabo encuestas por muestreo para dar a conocer las preferencias electorales de los ciudadanos o las tendencias de las votaciones, adoptarán los criterios generales que para tal efecto determine el Consejo Estatal Electoral.
-
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1996)</small>
-
-Durante los cinco días anteriores y el de la jornada electoral, queda prohibido llevar a cabo o aplicar cualquier tipo de encuesta o sondeo que tenga por objeto conocer las preferencias electorales de los ciudadanos, así como publicar o difundir durante esos días, en cualquier medio de comunicación, los resultados de los que se hayan realizado.
-
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
-
-Se suspenderá todo acto de difusión de propaganda política en televisión y prensa escrita ocho días antes de la jornada electoral; por lo que respecta a la radio deberá ser tres días antes.
-
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
-
-El Consejo Estatal Electoral establecerá las reglas a las que se sujetarán las personas jurídicas que deseen practicar encuestas y conteos rápidos, previa demostración que hagan de su capacidad técnica y probada experiencia profesional. Estas reglas establecerán, entre otras cosas, el deber de quien realice el conteo rápido o la encuesta, de entregar ante el Consejo Estatal Electoral la metodología que vaya a utilizar para llevarlos a cabo.
-
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
-
-Los resultados no podrán difundirse antes de la hora del cierre de las casillas.
-
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
-
-Toda persona que solicite, ordene o publique cualquier encuesta o sondeo de opinión sobre cuestiones electorales, deberá entregar copia del estudio completo al Consejo Estatal Electoral.
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
-
-### CAPITULO I. DE LA INSTALACION Y APERTURA DE CASILLAS
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
-
-### CAPITULO II. DE LA VOTACION
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 1998)</small>
-
-###### ARTICULO 163.
-
-Cualquier infracción a las disposiciones contenidas en el presente capítulo, será sancionada en los términos de este Código.
-
-### CAPITULO III. DEL ESCRUTINIO Y COMPUTO EN LA CASILLA
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 164.
 
@@ -3057,7 +3269,7 @@ Para la integración de la Mesa Directiva y ubicación de las Casillas Especiale
 
 En cada Distrito Electoral, se instalará por lo menos una Casilla Especial, sin que puedan ser más de tres en el mismo Distrito. El Consejo Distrital correspondiente, podrá aumentar el número de Casillas Especiales en el Distrito, en atención a la cantidad de Municipios comprendidos en su ámbito territorial, a su densidad poblacional y a sus características geográficas. En este caso, las adicionales a las tres mencionadas, no podrán ser más de dos.
 
-### CAPITULO IV. DE LA CLAUSURA DE LA CASILLA Y DE LA REMISION DEL EXPEDIENTE
+### CAPITULO IV (SIC). DEL REGISTRO DE REPRESENTANTES
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 1998)</small>
 
@@ -3201,9 +3413,7 @@ De estos nombramientos se formará una lista que deberá entregarse a los Presid
 
 Para garantizar a los Representantes Generales, el ejercicio de los derechos que les otorga este Código, se imprimirá al reverso del nombramiento, el texto de los artículos que correspondan.
 
-### CAPITULO V. DISPOSICIONES COMPLEMENTARIAS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 1998)</small>
+### CAPITULO V. DE LA DOCUMENTACION Y EL MATERIAL ELECTORAL
 
 ###### ARTICULO 178.
 
@@ -3321,9 +3531,11 @@ El Presidente y el Secretario de cada Casilla, cuidarán las condiciones materia
 
 Los Consejos Distritales, darán publicidad a la lista de los lugares en que habrán de instalarse las Casillas y un instructivo para los votantes.
 
-## TITULO CUARTO. DE LOS ACTOS POSTERIORES A LA ELECCION Y LOS RESULTADOS ELECTORALES
+## TITULO TERCERO. DE LA JORNADA ELECTORAL
 
-### CAPITULO I. DISPOSICION PRELIMINAR
+### CAPITULO I. DE LA INSTALACION Y APERTURA DE CASILLAS
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 185.
 
@@ -3407,7 +3619,9 @@ e). El Consejo Distrital o los integrantes de la casilla así lo disponga por ca
 
 Para los casos señalados en el párrafo anterior, la casilla deberá quedar instalada en la misma sección y en el lugar adecuado más próximo, debiéndose dejar aviso de la nueva ubicación en el exterior del lugar original que no reunió los requisitos.
 
-### CAPITULO II. DE LA INFORMACION PRELIMINAR DE LOS RESULTADOS
+### CAPITULO II. DE LA VOTACION
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 189.
 
@@ -3549,7 +3763,9 @@ b). Causa por la que se cerró antes o después de las 18:00 horas; y
 
 c). Registro de incidentes que se hayan presentado.
 
-### CAPITULO III. DE LOS COMPUTOS MUNICIPALES
+### CAPITULO III. DEL ESCRUTINIO Y COMPUTO EN LA CASILLA
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 199.
 
@@ -3673,9 +3889,9 @@ Por fuera del paquete a que se refiere el cuarto párrafo del artículo anterior
 
 Cumplidas las acciones a que se refiere el artículo anterior, los Presidentes de las Mesas Directivas de Casilla, fijarán avisos en lugar visible del exterior de las mismas, con los resultados de cada una de las elecciones, los que serán firmados por el Presidente y los Representantes que así deseen hacerlo.
 
-### CAPITULO IV. DE LOS COMPUTOS DISTRITALES
+### CAPITULO IV. DE LA CLAUSURA DE LA CASILLA Y DE LA REMISION DEL EXPEDIENTE
 
-> <small>N. DE E. CONFORME AL DECRETO DE REFORMAS PUBLICADO EN EL PERIODICO OFICIAL DE 8 DE DICIEMBRE DE 1992, SE SUPRIME LO RELACIONADO CON LA ELECCION DE GOBERNADOR.</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 210.
 
@@ -3709,9 +3925,9 @@ Se considerará que existe causa justificada, para que los paquetes con los expe
 
 El Consejo Municipal o Distrital, hará constar en el acta circunstanciada de recepción de los paquetes a que se refiere el artículo 215 de este Código, las causas que se invoquen para el retraso en la entrega de los paquetes.
 
-### CAPITULO V. DEL COMPUTO ESTATAL
+### CAPITULO V. DISPOSICIONES COMPLEMENTARIAS
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 212.
 
@@ -3775,13 +3991,9 @@ g). No militar en ningún partido u organización políticos; y
 
 h). Presentar solicitud conforme a la convocatoria que se expida, acompañando los documentos que en ella se establezcan.
 
-## TITULO QUINTO. DEL COLEGIO ELECTORAL
+## TITULO CUARTO. DE LOS ACTOS POSTERIORES A LA ELECCION Y LOS RESULTADOS ELECTORALES
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 1996)</small>
-
-### CAPITULO VI. DEL COMPUTO DE DIPUTADOS DE REPRESENTACION PROPORCIONAL
-
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
+### CAPITULO I. DISPOSICION PRELIMINAR
 
 ###### ARTICULO 215.
 
@@ -3805,7 +4017,7 @@ De la Recepción de los paquetes que contengan los expedientes de Casilla, se le
 
 Por lo que hace a los paquetes que contengan los expedientes de casilla, tratándose de la elección de Gobernador, los Consejos Distritales actuarán como receptores y los enviarán al Consejo Estatal Electoral para el cómputo de Ley, trasladando dichos paquetes los miembros del Consejo Distrital correspondiente, o una comisión del mismo integrada por Representantes de los Partidos Políticos y miembros ciudadanos.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LA INFORMACION PRELIMINAR DE LOS RESULTADOS
 
 ###### ARTICULO 216.
 
@@ -3823,9 +4035,7 @@ c). Los representantes de los Partidos Políticos, acreditados ante el Consejo, 
 
 Para el mejor conocimiento de los ciudadanos, concluido el plazo a que se refiere el artículo 211 de este Código, el Presidente deberá fijar en el exterior del local del Consejo Municipal o Distrital, los resultados preliminares de las elecciones.
 
-### CAPITULO II
-
-DEL PROCEDIMIENTO DE CALIFICACION.
+### CAPITULO III. DE LOS COMPUTOS MUNICIPALES
 
 ###### ARTICULO 218.
 
@@ -3969,7 +4179,9 @@ Los Presidentes de los Consejos Municipales, conservarán en su poder una copia 
 
 Asimismo, los Presidentes tomarán las medidas necesarias para que dentro de los tres días siguientes al cómputo, se envíen al Consejo Estatal Electoral, los sobres que contienen la documentación de ayuntamientos, a que se refiere el artículo 207 de este Código, el cual los tendrá en depósito hasta que concluya el proceso electoral. Hecho que sea, el Consejo Estatal procederá a su destrucción, acto en el cual podrán estar presentes los representantes de los partidos políticos.
 
-### CAPITULO III. DE LOS TERMINOS
+### CAPITULO IV. DE LOS COMPUTOS DISTRITALES
+
+> <small>N. DE E. CONFORME AL DECRETO DE REFORMAS PUBLICADO EN EL PERIODICO OFICIAL DE 8 DE DICIEMBRE DE 1992, SE SUPRIME LO RELACIONADO CON LA ELECCION DE GOBERNADOR.</small>
 
 ###### ARTICULO 230.
 
@@ -4063,7 +4275,9 @@ Los Presidentes de los Consejos Distritales, conservarán en su poder una copia 
 
 Asimismo, los Presidentes tomarán las medidas necesarias, para que dentro de los tres días siguientes al cómputo, se envíen al Consejo Estatal Electoral, los sobres que contienen la documentación de diputados de mayoría relativa a que se refiere el artículo 207 de este Código, el cual los tendrá en depósito hasta la conclusión del proceso electoral. Hecho que sea, los Consejos Distrital y Estatal procederán a su destrucción, acto en el cual podrán estar presentes los representantes de los partidos.
 
-### CAPITULO UNICO. DISPOSICIONES PRELIMINARES
+### CAPITULO V. DEL COMPUTO ESTATAL
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 240.
 
@@ -4125,7 +4339,9 @@ Asimismo, el Presidente tomará las medidas necesarias para el depósito en el l
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 13 DE FEBRERO DE 1998)</small>
 
-### CAPITULO I. DEL TRIBUNAL
+### CAPITULO VI. DEL COMPUTO DE DIPUTADOS DE REPRESENTACION PROPORCIONAL
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 246.
 
@@ -4183,11 +4399,11 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 1996)</small>
 
-## TITULO PRIMERO
+## TITULO QUINTO. DEL COLEGIO ELECTORAL
 
-(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 1996)</small>
 
-### CAPITULO II. DE LOS MAGISTRADOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 253.
 
@@ -4207,7 +4423,9 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 1996)</small>
 
-### CAPITULO I. DEL PRESIDENTE DEL TRIBUNAL
+### CAPITULO II
+
+DEL PROCEDIMIENTO DE CALIFICACION.
 
 ###### ARTICULO 257.
 
@@ -4267,7 +4485,7 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 1996)</small>
 
-### CAPITULO II. DE LOS JUECES INSTRUCTORES
+### CAPITULO III. DE LOS TERMINOS
 
 ###### ARTICULO 271.
 
@@ -4287,11 +4505,11 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 (DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-## TITULO SEGUNDO. DEL TRIBUNAL Y DE LOS MAGISTRADOS
+## TITULO PRIMERO
 
-(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
+(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-### CAPITULO III. DEL SECRETARIO GENERAL
+### CAPITULO UNICO. DISPOSICIONES PRELIMINARES
 
 ###### ARTICULO 274.
 
@@ -4303,11 +4521,11 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 (DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-## TITULO TERCERO. DE SU FUNCIONAMIENTO
+## TITULO SEGUNDO. DEL TRIBUNAL Y DE LOS MAGISTRADOS
 
 (DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-### CAPITULO IV. DEL SECRETARIO ADMINISTRATIVO, DE LOS SECRETARIOS Y DEL PERSONAL AUXILIAR Y ADMINISTRATIVO
+### CAPITULO I. DEL TRIBUNAL
 
 ###### ARTICULO 276.
 
@@ -4315,7 +4533,7 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-### CAPITULO V. DISPOSICIONES COMUNES
+### CAPITULO II. DE LOS MAGISTRADOS
 
 ###### ARTICULO 277.
 
@@ -4339,11 +4557,11 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 (DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-## TITULO PRIMERO. DE LAS NULIDADES
+## TITULO TERCERO. DE SU FUNCIONAMIENTO
 
-(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
+(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-### CAPITULO I. DE LOS CASOS DE NULIDAD
+### CAPITULO I. DEL PRESIDENTE DEL TRIBUNAL
 
 ###### ARTICULO 282.
 
@@ -4351,7 +4569,7 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-### CAPITULO II. DE LOS EFECTOS DE LA DECLARACION DE NULIDAD
+### CAPITULO II. DE LOS JUECES INSTRUCTORES
 
 ###### ARTICULO 283.
 
@@ -4363,7 +4581,7 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-### CAPITULO I. DISPOSICIONES PRELIMINARES
+### CAPITULO III. DEL SECRETARIO GENERAL
 
 ###### ARTICULO 285.
 
@@ -4375,7 +4593,7 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-### CAPITULO II. DE LA COMPETENCIA, DE LA CAPACIDAD Y PERSONALIDAD
+### CAPITULO IV. DEL SECRETARIO ADMINISTRATIVO, DE LOS SECRETARIOS Y DEL PERSONAL AUXILIAR Y ADMINISTRATIVO
 
 ###### ARTICULO 287.
 
@@ -4391,7 +4609,7 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-### CAPITULO III. DE LOS TERMINOS
+### CAPITULO V. DISPOSICIONES COMUNES
 
 ###### ARTICULO 290.
 
@@ -4409,11 +4627,11 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 (DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-## TITULO SEGUNDO. DEL SISTEMA DE MEDIOS DE IMPUGNACION
+## TITULO PRIMERO. DE LAS NULIDADES
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-### CAPITULO IV. DE LAS NOTIFICACIONES
+### CAPITULO I. DE LOS CASOS DE NULIDAD
 
 ###### ARTICULO 293.
 
@@ -4445,7 +4663,7 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-### CAPITULO V. DE LAS PARTES
+### CAPITULO II. DE LOS EFECTOS DE LA DECLARACION DE NULIDAD
 
 ###### ARTICULO 300.
 
@@ -4457,9 +4675,11 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 (DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-## TITULO TERCERO
+## TITULO SEGUNDO. DEL SISTEMA DE MEDIOS DE IMPUGNACION
 
-### CAPITULO VI. DE LA IMPROCEDENCIA
+(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
+
+### CAPITULO I. DISPOSICIONES PRELIMINARES
 
 ###### ARTICULO 302.
 
@@ -4483,7 +4703,7 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-### CAPITULO VII. DE LA ACUMULACION
+### CAPITULO II. DE LA COMPETENCIA, DE LA CAPACIDAD Y PERSONALIDAD
 
 ###### ARTICULO 307.
 
@@ -4499,7 +4719,7 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-### CAPITULO VIII. REGLAS DE PROCEDIMIENTO PARA LOS RECURSOS
+### CAPITULO III. DE LOS TERMINOS
 
 ###### ARTICULO 310.
 
@@ -4517,7 +4737,7 @@ ARTICULO 312 BIS.- (DEROGADO, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGAC
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-### CAPITULO IX. DE LAS PRUEBAS
+### CAPITULO IV. DE LAS NOTIFICACIONES
 
 ###### ARTICULO 313.
 
@@ -4551,7 +4771,7 @@ ARTICULO 318 BIS.- (DEROGADO, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGAC
 
 (DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-### CAPITULO X. DE LAS RESOLUCIONES
+### CAPITULO V. DE LAS PARTES
 
 ###### ARTICULO 320.
 
@@ -4559,7 +4779,7 @@ ARTICULO 318 BIS.- (DEROGADO, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGAC
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
-### CAPITULO UNICO. DE LAS FALTAS ADMINISTRATIVAS Y DE LAS SANCIONES
+### CAPITULO VI. DE LA IMPROCEDENCIA
 
 ###### ARTICULO 321.
 
@@ -4571,11 +4791,15 @@ ARTICULO 318 BIS.- (DEROGADO, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGAC
 
 (DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
+### CAPITULO VII. DE LA ACUMULACION
+
 ###### ARTICULO 323.
 
 (DEROGADO, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
+
+### CAPITULO VIII. REGLAS DE PROCEDIMIENTO PARA LOS RECURSOS
 
 ###### ARTICULO 324.
 
@@ -4625,6 +4849,8 @@ ARTICULO 334 BIS.- (DEROGADO, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGAC
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
+### CAPITULO IX. DE LAS PRUEBAS
+
 ###### ARTICULO 335.
 
 (DEROGADO, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
@@ -4642,6 +4868,8 @@ ARTICULO 334 BIS.- (DEROGADO, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGAC
 (DEROGADO, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
 
 (DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
+
+### CAPITULO X. DE LAS RESOLUCIONES
 
 ###### ARTICULO 339.
 
@@ -4672,6 +4900,10 @@ ARTICULO 344 BIS.- (DEROGADO, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGAC
 ###### ARTICULO 345.
 
 (DEROGADO, P.O. 13 DE FEBRERO DE 1998)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO NUMERO 144, P.O. 13 DE FEBRERO DE 1998)
+
+## TITULO TERCERO
+
+### CAPITULO UNICO. DE LAS FALTAS ADMINISTRATIVAS Y DE LAS SANCIONES
 
 ###### ARTICULO 346.
 
@@ -4713,41 +4945,47 @@ En el caso de que los mismos se encuentren fuera del territorio nacional, proced
 
 El Consejo Estatal Electoral, pondrá en conocimiento de la Secretaría de Gobernación los casos de que tenga conocimiento, en los que ministros de culto religioso induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención, en lugares destinados al culto o en cualquier otro lugar, asimismo cuando realicen aportaciones económicas a un partido político o candidato, para los efectos previstos por la ley.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+### CAPITULO V (SIC). DE LOS PROCEDIMIENTOS PARA LA INTEGRACION Y UBICACION DE LAS MESAS DIRECTIVAS DE CASILLA
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 350.
 
-Los partidos políticos independientemente de las responsabilidades en que incurran sus dirigentes, miembros o simpatizantes, podrán ser sancionados:
+Los Partidos Políticos independientemente de las responsabilidades en que incurran sus dirigentes, miembros o simpatizantes, podrán ser sancionados:
 
-a). Con multa de 50 a 2000 días de salario mínimo vigente en la Ciudad de Chilpancingo, Guerrero;
+a) Con amonestación pública;
 
-b). Con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el período que señale la resolución;
+b) Con multa de 50 a 2000 días de salario mínimo vigente en la Ciudad de Chilpancingo, Guerrero;
 
-c). Con la supresión total de la entrega de las ministraciones del financiamiento que les corresponda, por el período que señale la resolución;
+c) Con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda por el periodo que señale la resolución;
 
-d). Con la suspensión de su registro como partido político; y
+d) Con la supresión total de la entrega de las ministraciones del financiamiento que les corresponda por el periodo que señale la resolución;
 
-e). Con la cancelación de su registro como partido político.
+e) Con la suspensión de su registro como partido político; y
+
+f) Con la cancelación de su registro como partido político.
 
 Las sanciones a que se refiere el párrafo anterior, podrán ser impuestas cuando:
 
-a). Incumplan con las obligaciones señaladas en el artículo 39 y demás disposiciones aplicables de este Código;
+a) Incumplan con las obligaciones señaladas en el artículo 39 y demás disposiciones aplicables de este Código;
 
-b). Incumplan con las resoluciones o acuerdos del Consejo Estatal Electoral;
+b) Incumplan con las resoluciones o acuerdos del Consejo Estatal Electoral;
 
-c). Acepten donativos o aportaciones económicas de las personas o entidades que no estén expresamente facultadas para ello o soliciten crédito a la banca de desarrollo para el financiamiento de sus actividades, en contravención a lo dispuesto por el artículo 49 de este Código;
+c) Acepten donativos o aportaciones económicas de las personas o entidades que no estén expresamente facultadas para ello o soliciten crédito a la Banca de Desarrollo para el financiamiento de sus actividades, en contravención a lo dispuesto por el artículo 49 de este Código;
 
-d). Acepten donativos o aportaciones económicas superiores a los límites señalados en el artículo 49 de este Código;
+d) Acepten donativos o aportaciones económicas superiores a los límites señalados en el artículo 49 de este Código;
 
-e). No presenten los informes anuales o de campaña en los términos y plazos previstos en el artículo 49-BIS de este Código;
+e) No presenten los informes anuales o de campaña en los términos y plazos previstos en el artículo 49 BIS de este Código;
 
-f). Sobrepasen durante la campaña electoral los topes a los gastos fijados conforme al artículo 154-BIS de este Código; y
+f) Sobrepasen durante la campaña electoral los topes a los gastos fijados conforme al artículo 154 BIS de este Código; y
 
-g). Incurran en cualquier otra falta de las previstas en este Código.
+g) Incurran en cualquier otra falta de las previstas en este Código.
 
-Las sanciones previstas en los incisos c) al e) del párrafo primero de este artículo, sólo podrán imponerse cuando el incumplimiento o infracción sea particularmente grave o sistemático.
+Las sanciones previstas en los incisos d), e) y f) del párrafo primero de este artículo, sólo podrá imponerse cuando el incumplimiento o infracción sea particularmente grave o sistemático.
 
-Cuando la pérdida de registro obedezca a alguna de las causales previstas en el artículo 64, se estará a lo dispuesto en el artículo 65 de este Código.
+Cuando la pérdida de registro obedezca a algunas de las causales previstas en el artículo 64, se estará a lo dispuesto en el artículo 65 de este Código.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1998)</small>
 
@@ -4972,3 +5210,15 @@ A partir de la entrada en vigor de la presente ley quedan derogados los Libros S
 ###### ARTICULO TERCERO.
 
 Por lo que se refiere a la estructura orgánica de Tribunal Electoral del Estado, su funcionamiento y atribuciones; y de las obligaciones y atribuciones de sus integrantes, será regulado por la Ley Orgánica del Estado de Guerrero.
+
+P.O. 13 DE FEBRERO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El financiamiento público que deberá otorgar el Consejo Estatal Electoral a los Partidos Políticos para la realización de actividades ordinarias permanentes para el año 2004, deberá calcularse por única ocasión de la siguiente manera: del día de la aprobación de la reforma al 31 de octubre bajo el factor que resulte de multiplicar el 20% del salario mínimo vigente en la capital del Estado por el número de ciudadanos empadronados y del 1º de noviembre al 31 de diciembre bajo el factor que resulte de multiplicar el 30% del salario mínimo, asignándose conforme a lo establecido en el cuarto párrafo del artículo 49 de este Código.
+
+TERCERO.- Los artículos 144-BIS, 144-BIS 1, 144-BIS 2, 144-BIS 3, 144-BIS 4, 144-BIS 5, 144-BIS 6 y 144-BIS 7 entrarán en vigor el día 1° de marzo del 2005, el Consejo Estatal Electoral deberá expedir los lineamientos que regulen las actividades de las precampañas.
+
+CUARTO.- La reforma contenida en el artículo 70 párrafo quinto entrará en vigencia el día 2 de enero del 2006. Fenecido el periodo de nombramiento del Secretario Técnico, actualmente en funciones, el Consejo Estatal podrá ratificarlo para el periodo comprendido de agosto del 2004 al 1 de enero del 2006 o bien nombrar a nueva persona para ejercer el cargo durante el periodo antes mencionado.
+
+QUINTO.- El Consejo Estatal Electoral, emitirá las disposiciones relativas a la organización, funcionamiento y desarrollo del servicio profesional de carrera electoral, en un plazo no mayor de 60 días a la entrada en vigor del presente Decreto para la aplicación del servicio de carrera a partir del próximo proceso electoral.
