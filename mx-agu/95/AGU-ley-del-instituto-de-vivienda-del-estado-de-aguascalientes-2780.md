@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-vivienda-del-estado-de-aguascalientes-2780
 country: "mx"
 rank: "ley"
 publication_date: "1989-02-12"
-last_updated: "1992-12-13"
+last_updated: "2001-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Ley publicada en el Suplemento al número 7 del Periódico Oficial del Estado de Aguascalientes, el 12 de febrero de 1989.
 
@@ -139,7 +139,9 @@ a) Presidente: el Gobernador Constitucional del Estado;
 
 b) Vocal: el representante de la Secretaría General de Gobierno;
 
-c) Vocal: el representante del Comité de Planeación para el Desarrollo del Estado de Aguascalientes;
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+c) Vocal: el representante de la Secretaría de Planeación;
 
 d) Vocal: el representante de la Secretaría de Obras Públicas;
 
@@ -372,3 +374,7 @@ Lic. Héctor Valdivia Carreón.
 P.O. 13 DE DICIEMBRE DE 1992.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3°. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+UNICO. El presente decreto entrará en vigor a partir del 1o. de enero del año 2002.
