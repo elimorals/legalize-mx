@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-premio-chihuahua-4729"
 country: "mx"
 rank: "ley"
 publication_date: "1981-11-11"
-last_updated: "1989-05-24"
+last_updated: "1994-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY QUE CREA EL "PREMIO CHIHUAHUA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 11 de noviembre de 1981.
 
@@ -55,11 +55,19 @@ III.- Sociales.
 
 IV.- Literarias.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1989)</small>
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 1994)</small>
+
+V.- Artes Visuales, y
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 1994)</small>
+
+VI.- Música.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1994)</small>
 
 ###### ARTICULO 3°.
 
-El premio consistirá en la entrega en efectivo de la cantidad que resulte de multiplicar el salario mínimo general diario vigente en la Capital del Estado, a la fecha de la emisión de la Convocatoria respectiva, por 200 veces, y el diploma alusivo, que se entregarán por cada área.
+El Premio consistirá en la entrega de una cantidad en efectivo a determinarse anualmente por Acuerdo del titular del Poder Ejecutivo, a más tardar en el mes de febrero. En caso contrario la cantidad será la misma que la determinada en el año anterior.
 
 ###### ARTICULO 4°.
 
@@ -71,29 +79,31 @@ Los trabajos que se presenten deberán ser inéditos y contener una aportación 
 
 Solo podrán participar las personas que tengan su domicilio y radiquen actualmente en el Estado y aquellas que siendo chihuahuenses por nacimiento radiquen en la República Mexicana.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1994)</small>
 
 ###### ARTICULO 6°.
 
-Los trabajos se enviarán a la Dirección General de Desarrollo Social, sujetándose a lo siguiente:
+Los trabajos se enviarán a la Dirección General de Educación y Cultura, sujetándose a las siguientes bases:
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 1989)</small>
+I. Para Tecnológicas y Biológicas, se presentarán por triplicado, escritos a máquina a doble espacio, en papel tamaño carta y por una sola cara, en un mínimo de treinta cuartillas.
 
-I.- Se presentarán por triplicado escritos a máquina a doble espacio, en papel tamaño carta y por una sola cara en un mínimo de 30 cuartillas.
+II. En Sociales y Literarias, de la misma manera con un mínimo de sesenta cuartillas, pudiendo participar en el segundo caso, en los géneros de teatro, novela, cuento, ensayo y poesía, los cuales serán sujetos a concurso una vez cada cinco años, determinándose en la convocatoria respectiva, el género a evaluar.
 
-II.- Podrán acompañarse adicionalmente fotografías, diapositivas, gráficas, planos, diagramas o cualquier otro elemento complementario o explicativo a juicio del autor.
+III. En Artes Visuales, se presentará la obra original sin firmas y tres fotografías a color de siete por once pulgadas, dentro de las manifestaciones de: Escritura, óleo y acrílico, gráfica, gouache y fotografía.
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 1989)</small>
+En éste caso, al (sic) Dirección General de Desarrollo Social determinará anualmente, la manifestación sujeta a concurso.
 
-III.- Los participantes deberán suscribirse con seudónimo enviando adjunto al trabajo un sobre cerrado con la identificación del autor, su domicilio, número telefónico y documento que acredite su origen chihuahuense o su residencia dentro del Estado.
+IV. En Música, la partitura en original y dos copias, con un mínimo de ocho compases y un máximo de treinta y dos en cualquiera de sus géneros. En el caso de canción, deberá incluirse la letra respectiva; y en el de música de concierto, podrá ser con un máximo de tres movimientos.
 
-En el sobre se anotará el seudónimo y el título de la obra.
+V. Podrán acompañarse adicionalmente fotografías, diapositivas, gráficas, planos, diagramas o cualquier otro elemento complementario o explicativo a juicio del autor.
 
-Las plicas (sic) de identificación serán depositadas por la Dirección General de Desarrollo Social en una Notaría Pública de la Ciudad de Chihuahua; el Notario abrirá únicamente las que los jurados señalen y devolverá las demás para los efectos apuntados en el Artículo 10 de esta Ley.
+VI. Los participantes deberán suscribirse con seudónimo, enviando adjunto al trabajo, un sobre cerrado con la identificación del autor, su domicilio, número telefónico y documento que acredite su origen chihuahuense o su residencia dentro del Estado.
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1989)</small>
+En el sobre, se anotará el seudónimo, el título de la obra y el área en la que participa.
 
-IV.- El certamen quedará abierto a partir de la publicación de la Convocatoria respectiva, cerrándose el 31 de agosto del año correspondiente.
+Las placas de identificación, serán depositadas por la Dirección General de Desarrollo Social, en una Notaría Pública de la Ciudad de Chihuahua; el Notario abrirá únicamente las que el Jurado señale.
+
+VII. El certamen quedará abierto a partir de la publicación de la convocatoria respectiva, cerrándose el treinta y uno de agosto del año correspondiente.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 1989)</small>
 
@@ -115,11 +125,11 @@ El fallo de los jurados se emitirá en el mes de octubre de cada año y será in
 
 Una vez emitido el fallo, se notificará inmediatamente a los concursantes que resulten triunfadores; a la vez que se divulgará por medio de la prensa.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1994)</small>
 
 ###### ARTICULO 10°.
 
-Los trabajos presentados que no reciban premio podrán ser entregados a los interesados, previa identificación, en las oficinas de la Dirección General de Desarrollo Social, en un término máximo de 60 días seguidos a la entrega de los premios; transcurrido dicho plazo sin que sean recogidos, el Gobierno del Estado podrá disponer de ellos para los fines que mejor convenga.
+No se devolverán los trabajos que no obtengan el premio, excepto los participantes en el área de Artes Visuales, que podrán recogerse en el mismo lugar en que fueron depositados, dentro de un término máximo de sesenta días seguidos a la entrega de los premios; transcurrido dicho plazo el Gobierno del Estado podrá disponer de ellos para los fines que mejor convenga.
 
 ###### ARTICULO 11°.
 
@@ -152,3 +162,7 @@ P.O. 24 DE MAYO DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE ABRIL DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
