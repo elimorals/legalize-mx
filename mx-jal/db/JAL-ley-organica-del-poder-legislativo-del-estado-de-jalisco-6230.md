@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "2001-03-13"
+last_updated: "2001-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -1221,11 +1221,11 @@ a) Los diputados que la presenten deberán hacerlo por escrito, con suficientes 
 
 b) El Presidente de la Mesa Directiva deberá proponer al Pleno se agende dentro del orden del día en el punto de acuerdos Económicos, (sic) sujetándose al trámite que señala esta ley para los dictámenes de esta naturaleza.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2001)</small>
 
 ###### Artículo 91.
 
-Desechada una iniciativa, sólo podrá volver a presentarse una vez transcurridos seis meses.
+Toda iniciativa que haya sido desechada por el Pleno mediante el dictamen respectivo, sólo podrá volver a presentarse con ese carácter, una vez transcurridos seis meses a partir de la fecha de la sesión en que se le desechó, salvo que haya un replanteamiento del asunto con elementos que comprendan inobjetablemente propuesta distinta a la iniciada.
 
 ###### Artículo 92.
 
@@ -2176,3 +2176,9 @@ P.O. 13 DE MARZO DE 2001
 DECRETO QUE ADICIONA AL ART. 1456
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 15 DE MARZO DE 2001
+
+Primero.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de debates en el que consten las discusiones que hubiere provocado, para que con fundamento a lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
+
+Segundo.- El presente decreto que contiene la reforma de los artículos 30 de la Constitución Política del Estado y 91 de la Ley Orgánica del Poder Legislativo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
