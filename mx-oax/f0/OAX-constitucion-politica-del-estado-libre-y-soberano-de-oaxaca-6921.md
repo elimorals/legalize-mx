@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1995-05-13"
+last_updated: "1995-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1995.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -2661,7 +2661,19 @@ P.O. 13 DE MAYO DE 1995.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1995)</small>
+
+Para el proceso electoral de 1995, el presidente del Consejo General del Instituto Estatal Electoral será electo por las dos terceras partes del Congreso, en base a una terna presentada por el titular del Ejecutivo, hasta en tanto el Congreso del Estado elija al Presidente y Consejeros Ciudadanos del Consejo General del Instituto Estatal Electoral y Magistrados del Tribunal Estatal Electoral, éstos seguirán funcionando con los integrantes designados antes de la publicación del presente decreto.
+
 SEGUNDO.- Las disposiciones del artículo 35, entrarán en vigor a partir del proceso electoral de 1998.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1995)</small>
+
+TERCERO.- Las disposiciones contenidas en el párrafo tercero del artículo 25 en lo referente a la forma de elección del Presidente del Consejo General del Instituto Estatal Electoral entraran en vigor a partir del proceso electoral de 1998.
+
+P.O. 24 DE MAYO DE 1995.
+
+UNICO. EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL MISMO DÍA DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
