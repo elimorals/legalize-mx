@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-propiedad-industrial-antes-ley-de-fomento-y-142"
 country: "mx"
 rank: "ley"
 publication_date: "1991-06-27"
-last_updated: "1999-05-17"
+last_updated: "2004-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-06-26"
 
 LEY DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 27 de junio de 1991.
 
@@ -757,13 +757,19 @@ Quien goce de una licencia obligatoria deberá iniciar la explotación de la pat
 
 La licencia obligatoria no será exclusiva. La persona a quien se le conceda sólo podrá cederla con autorización del Instituto y siempre que la transfiera junto con la parte de la unidad de producción donde se explota la patente objeto de la licencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2004)</small>
 
 ###### Artículo 77.
 
-Por causas de emergencia o seguridad nacional y mientras duren éstas, el Instituto, por declaración que se publicará en el Diario Oficial, determinará que la explotación de ciertas patentes pueda hacerse mediante la concesión de licencias de utilidad pública, en los casos en que, de no hacerlo así, se impida, entorpezca o encarezca la producción, prestación o distribución de satisfactores básicos para la población.
+Por causas de emergencia o seguridad nacional y mientras duren éstas, incluyendo enfermedades graves declaradas de atención prioritaria por el Consejo de Salubridad General, el Instituto, por declaración que se publicará en el Diario Oficial de la Federación, determinará que la explotación de ciertas patentes se haga mediante la concesión de licencias de utilidad pública, en los casos en que, de no hacerlo así, se impida, entorpezca o encarezca la producción, prestación o distribución de satisfactores básicos o medicamentos para la población.
 
-Para la concesión de estas licencias se procederá en los términos del párrafo segundo del artículo 72 y no podrán tener carácter de exclusivas o transmisibles.
+En los casos de enfermedades graves que sean causa de emergencia o atenten contra la seguridad nacional, el Consejo de Salubridad General hará la declaratoria de atención prioritaria, por iniciativa propia o a solicitud por escrito de instituciones nacionales especializadas en la enfermedad, que sean acreditadas por el Consejo, en la que se justifique la necesidad de atención prioritaria. Publicada la declaratoria del Consejo en el Diario Oficial de la Federación, las empresas farmacéuticas podrán solicitar la concesión de una licencia de utilidad pública al Instituto y éste la otorgará, previa audiencia de las partes, a la brevedad que el caso lo amerite de acuerdo con la opinión del Consejo de Salubridad General en un plazo no mayor a 90 días, a partir de la fecha de presentación de la solicitud ante el Instituto.
+
+La Secretaría de Salud fijará las condiciones de producción y de calidad, duración y campo de aplicación de la citada licencia, así como la calificación de la capacidad técnica del solicitante. El Instituto establecerá, escuchando a ambas partes, un monto razonable de las regalías que correspondan al titular de la patente.
+
+La concesión podrá abarcar una o todas de las prerrogativas a que se refieren las fracciones I o II del artículo 25 de esta Ley.
+
+Salvo la concesión de licencias de utilidad pública a que se refieren los párrafos segundo y tercero de éste artículo, para la concesión de las demás licencias, se procederá en los términos del párrafo segundo del artículo 72. Ninguna de las licencias consideradas en este artículo podrán tener carácter de exclusivas o transmisibles.
 
 ### Capítulo VII
 
@@ -1641,7 +1647,7 @@ Además de las publicaciones previstas en este capítulo, se publicarán en la G
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-Artículo 178 bis .- Los esquemas de trazado de circuitos integrados serán registrados y estarán protegidos en términos del presente Título. Al efecto, el Instituto tendrá las facultades siguientes:
+Artículo 178 bis.- Los esquemas de trazado de circuitos integrados serán registrados y estarán protegidos en términos del presente Título. Al efecto, el Instituto tendrá las facultades siguientes:
 
 I.- Tramitar y, en su caso, otorgar el registro a los esquemas de trazado de circuitos integrados, así como la inscripción de sus transmisiones y licencias de uso y explotación, en los términos de esta Ley y su reglamento;
 
@@ -2544,3 +2550,7 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicadas las disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal y de la Ley de la Propiedad Industrial vigentes en el momento en que se haya cometido.
+
+D.O.F. 26 DE ENERO DE 2004.
+
+Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
