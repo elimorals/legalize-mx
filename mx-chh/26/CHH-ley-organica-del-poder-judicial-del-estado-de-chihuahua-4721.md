@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2004-07-14"
+last_updated: "2004-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -415,7 +415,9 @@ El Supremo Tribunal de Justicia estará integrado cuando menos por nueve magistr
 
 Si se creara una nueva sala o hubiere ausencia absoluta de absoluta de algún magistrado, el Supremo Tribunal de Justicia convocará a concurso de méritos para la integración de terna, que se someterá al Congreso, para la elección del magistrado que deba cubrir la plaza. El procedimiento para ese efecto será conforme a las siguientes directivas:
 
-I.- La convocatoria será publicada en el Periódico Oficial y, cuando menos, en los dos diarios de mayor circulación del Estado, las veces que el Pleno considere adecuadas;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2004)</small>
+
+I.- La convocatoria será publicada en el Periódico Oficial y, cuando menos, en los dos diarios de mayor circulación del Estado, las veces que el pleno considere adecuadas; en el caso de ausencia absoluta, la convocatoria deberá ser publicada dentro de los 180 días siguientes a partir de que ésta ocurra;
 
 II.- El Jurado de elección de la terna estará compuesto por dos representantes del Poder Judicial, designados mediante insaculación, y dos del Gobernador del Estado;
 
@@ -831,11 +833,11 @@ Los magistrados podrán ausentarse del despacho hasta por cinco días, con sólo
 
 La ausencia accidental que no exceda de veinte días naturales, será cubierta por el Secretario de Acuerdos adscrito a la Sala respectiva, quien se encargará del despacho de los asuntos sin llegar a dictar sentencia definitiva, actuando con el que, a su vez, deba suplirlo en sus ausencias en los términos de esta ley.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 68.
 
-La ausencia absoluta y la temporal que exceda de veinte días naturales, será cubierta por el Magistrado electo por el Congreso, de una terna designada por el Pleno, sin convocar a concurso de méritos, integrada por miembros del Poder Judicial de reconocido prestigio antigüedad (sic). Definida la terna la comunicará directamente al Congreso del Estado.
+La ausencia absoluta y la temporal que exceda de veinte días naturales, será cubierta por el Magistrado electo por el Congreso, de una terna designada por el Pleno, sin convocar a concurso de méritos, integrada por miembros del Poder Judicial de reconocido prestigio y antigüedad. El Pleno deberá definir la terna y comunicarla al Congreso del Estado, dentro de los quince días hábiles siguientes a que ocurra la falta absoluta o temporal.
 
 Los efectos del nombramiento, en el caso de ausencia absoluta, durarán hasta que se corra el procedimiento establecido por la ley para la designación del nuevo titular y tome posesión del cargo. Tratándose de ausencia temporal, hasta que cese la causa que la motivó.
 
@@ -1149,87 +1151,67 @@ Los Notificadores del Tribunal tendrán, dentro del ámbito de competencia y de 
 
 ### CAPITULO IX. DEL ARCHIVO JUDICIAL
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 88.
 
-El Archivo Judicial tiene como finalidad la guarda, organización, vigilancia y custodia de todos aquellos expedientes, documentos o libros que conforme a la ley, por resolución del Pleno o del Presidente del Supremo Tribunal, deban conservarse.
+La documentación generada por los tribunales del Poder Judicial del Estado y por sus dependencias administrativas deberá ser archivada, clasificada, depurada y custodiada en los términos de la presente Ley, de los reglamentos que al respecto expida el Pleno y de los acuerdos generales y particulares que emita el Presidente del Tribunal.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 89.
 
-El Archivo Judicial lo forman:
+Los reglamentos del Pleno y los acuerdos generales del Presidente del Tribunal serán publicados en el Periódico Oficial del Estado para su observancia.
 
-I.- El Archivo General del Supremo Tribunal de Justicia;
-
-II.- Los Archivos de los Tribunales y Dependencias del Poder Judicial; y
-
-III.- El Archivo Histórico.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 90.
 
-El Archivo General se ubicará en el mismo edificio que ocupa el Supremo Tribunal de Justicia y los de los Tribunales y demás Dependencias en los locales en donde éstos se ubiquen.
+Los archivos judiciales serán:
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+I.- De trámite, correspondientes a cada uno de los tribunales y dependencias administrativas del Poder Judicial del Estado.
 
-Cuando resulte necesario, se habilitarán lugares distintos a los mencionados adecuándolos con las medidas de seguridad pertinentes.
+II.- De concentración.
+
+El central será el Archivo General del Poder Judicial del Estado y los archivos regionales de concentración serán los que, cuando el caso lo amerite, se establezcan, por acuerdo del Pleno, en las cabeceras de los distritos judiciales, y
+
+III.- El Archivo Histórico.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 91.
 
-El Archivo General estará bajo la vigilancia del Presidente y del Secretario General y el cuidado de un Encargado que además de tener conocimientos de la materia, deberá reunir los requisitos que esta Ley señala para los funcionarios y empleados en general; contará además con el número de empleados que determine el Pleno y admita el Presupuesto. El sueldo del Encargado del Archivo General se equiparará al de un Secretario de Juzgado de Primera Instancia de la ciudad de Chihuahua.
+Los archivos de las salas y juzgados estarán a cargo de sus respectivos secretarios de acuerdos.
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 92.
 
-Se depositarán en el archivo general:
+El Archivo del Tribunal Pleno y las dependencias administrativas de la Presidencia serán administrados por el Secretario General.
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-I.- Los expedientes, cuadernos o cuadernillos, libros y tocas de los asuntos concluidos o caducos de los Juzgados y Salas del Supremo Tribunal de Justicia, así como los expedientes en los que no opere la caducidad, pero que no hayan tenido promoción de las partes en más de un año, en cuyo caso se remitirán para su guarda;
-
-II.- Los expedientes, libros, documentos y objetos que por acuerdo del Pleno del Tribunal, deban enviar los Juzgados del Estado y las Dependencias Administrativas;
-
-III.- Los que así determine el Pleno o el Presidente del Tribunal; y
-
-IV.- Cualquier otro expediente o documento que conforme a la ley deba remitirse al Supremo Tribunal de Justicia.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-El Reglamento determinará la forma y tiempo en que deban conservarse los expedientes y documentos que se encuentren en el archivo, de conformidad con lo dispuesto por las leyes aplicables en la materia.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 93.
 
-El Encargado Archivero tendrá las siguientes obligaciones:
+El Archivo General, el Archivo General Histórico y los archivos regionales de concentración estarán bajo la vigilancia del Presidente y del Secretario General del Supremo Tribunal y serán administrados por el coordinador designado por el Pleno.
 
-I.- Clasificar el material del Archivo en la forma indicada por esta Ley, el Reglamento, el Pleno o el Presidente del Tribunal.
-
-II.- Custodiar la documentación a fin de que no sufra deterioro alguno, así como el local y mobiliario del Archivo;
-
-III.- Prestar de manera ágil y oportuna toda la asesoría necesaria para el uso de los servicios que presta la Dependencia;
-
-IV.- Distribuir las labores entre él y los demás empleados para el mejor funcionamiento de la oficina y vigilar que éstos ajusten su actuación a lo dispuesto por la ley en el desempeño de su encargo;
-
-V.- Dar cuenta al Presidente de cualquier novedad que se suscite en el funcionamiento del Archivo;
-
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
-
-VI.- Rendir al Presidente del Tribunal, en los primeros cinco días del mes de enero, un informe estadístico anual que refleje el movimiento de la oficina a su cargo; y
-
-VII.- Todas las demás que prescriban las leyes.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 94.
 
-Cualquier deterioro que advierta el Encargado del Archivo General en el estado físico de los expedientes o documentos que se le remitan para su guarda o le sean devueltos, lo comunicará al Presidente o al Secretario General para que tomen las medidas que correspondan.
+En los casos del Archivo General y del Archivo Histórico, el nombramiento podrá recaer sobre la misma o sobre diversas personas.
 
 ###### ARTICULO 95.
 
-El Reglamento determinará lo relativo al control del Archivo General. El pleno podrá modificar, cuando así lo estimare pertinente, los lineamientos que han de seguirse para la óptima clasificación del material que exista en el Archivo General y su funcionamiento.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 96.
 
-Los Archivos de las Salas o los Juzgados estarán a cargo de sus respectivos Secretarios y los de las demás Dependencias a cargo de quien determine la ley o en su defecto, de la persona que sea designada por el titular de la oficina.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 97.
 
-En los Archivos de los Juzgados y las Dependencias del Supremo Tribunal, se depositarán las actuaciones relativas a los negocios concluidos, así como los libros que se lleven y los demás documentos que se reciban. Previo acuerdo del Pleno o del Presidente del Tribunal, se concentrarán en el Archivo General aquellos documentos cuya permanencia se estime innecesaria en dichos archivos.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2004)
 
 ### CAPITULO X. DE LA BIBLIOTECA
 
@@ -2918,3 +2900,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 14 DE JULIO DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE OCTUBRE DE 2004.
+
+DECRETO No. 1187/04 P.E.
+
+ÚNICO.- El presente Decreto entrará al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE OCTUBRE DE 2004.
+
+DECRETO No. 1189/04 XVI P.E.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETCION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
