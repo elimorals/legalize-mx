@@ -4,7 +4,7 @@ identifier: "SIN-ley-sobre-el-sistema-estatal-de-asistencia-social-10029"
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-26"
-last_updated: "1993-08-04"
+last_updated: "2002-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 04 DE AGOSTO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 26 de junio de 1987.
 
@@ -433,7 +433,9 @@ III.- Los Jefes de Departamento;
 
 IV.- Los Jefes de Sección;
 
-V.- El Procurador de la Defensa del Menor y la Familia, así como Auxiliares y Delegado de aquélla, y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2002)</small>
+
+V.- El Procurador de la Defensa del Menor, la Mujer y la Familia, así como auxiliares y delegados de aquélla, y
 
 VI.- Los secretarios y secretarias privados de los empleados antes mencionados.
 
@@ -501,7 +503,7 @@ IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan l
 
 El Gobierno del Estado, con el objeto de ampliar la cobertura de los servicios de salud de asistencia social, fincados en la solidaridad ciudadana, promoverá en toda la entidad, a través del organismo, la creación de instituciones de asistencia privada, fundaciones, asociaciones civiles y otras similares las que con sus propios recursos o con liberalidades de cualquier naturaleza que aporte la sociedad en general, presten dichos servicios con sujeción a los ordenamientos que las rijan.
 
-El Gobierno del Estado, a través del organismo, aplicará, difundirá y adecuará las normas técnicas que dichas instituciones deberán observar en la prestación de los servicios de salud en materia de asistencia social. El organismo les prestará la asesoría técnica necesaria y los apoyos conducentes.
+El Gobierno del Estado, a través del organismo, aplicará difundirá y adecuará las normas técnicas que dichas instituciones deberán observar en la prestación de los servicios de salud en materia de asistencia social. El organismo les prestará la asesoría técnica necesaria y los apoyos conducentes.
 
 ###### ARTICULO 42.
 
@@ -574,3 +576,7 @@ P.O. 4 DE AGOSTO DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O.16 DE AGOSTO DE 2002.
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
