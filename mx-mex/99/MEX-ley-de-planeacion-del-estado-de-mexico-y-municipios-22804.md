@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-planeacion-del-estado-de-mexico-y-municipios-22804"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2003-08-07"
+last_updated: "2004-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 21 de diciembre de 2001.
 
@@ -101,7 +101,7 @@ Corto plazo. Período hasta de un año, en el cual el presupuesto por programas 
 
 Desarrollo. Es el proceso de cambio social que persigue como finalidad última de igualación de las oportunidades sociales, políticas y económicas de los habitantes de una delimitación territorial.
 
-Diagnóstico. Descripción , evaluación y análisis de la situación actual y la trayectoria histórica de la realidad económica, política y social de algún fenómeno o variable que se deseé estudiar.
+Diagnóstico. Descripción, evaluación y análisis de la situación actual y la trayectoria histórica de la realidad económica, política y social de algún fenómeno o variable que se deseé estudiar.
 
 Ejecución. Realizar, hacer o llevar a la práctica lo que se ha establecido en la fase de programación.
 
@@ -131,7 +131,7 @@ Programa especial. Instrumento que contiene las prioridades para el desarrollo y
 
 Programa regional. Instrumento que incluye los proyectos y acciones de ámbito regional considerados prioritarios o estratégicos, en función de las objetivos y metas fijados en los planes de desarrollo.
 
-Programa sectorial. Instrumento de los planes de desarrollo que comprende proyectos y acciones relativos a un sector de la economía y/o de la sociedad, coordinado por una o mas dependencias. Se integran bajo la responsabilidad de las dependencias coordinadoras de los sectores, atendiendo a las estrategias del desarrollo del Estado de México y municipios.
+Programa sectorial. Instrumento de los planes de desarrollo que comprende proyectos y acciones relativos a un sector de la economía y/o de la sociedad, coordinado por una o más dependencias. Se integran bajo la responsabilidad de las dependencias coordinadoras de los sectores, atendiendo a las estrategias del desarrollo del Estado de México y municipios.
 
 Región. Porción del territorio estatal que integran varios municipios y que se identifican por semejanzas geográficas, socioeconómicas o político-administrativas.
 
@@ -201,7 +201,7 @@ VI. Aprobar y ordenar la publicación y divulgación del Plan de Desarrollo del 
 
 VII. Determinar las bases para la coordinación y participación;
 
-VIII.Las demás que se establezcan en otros ordenamientos.
+VIII. Las demás que se establezcan en otros ordenamientos.
 
 ###### Artículo 16.
 
@@ -233,7 +233,7 @@ Compete a la Secretaría de la Contraloría del Gobierno del Estado de México y
 
 I. Diseñar y operar los instrumentos, procedimientos y mecanismos para el control y seguimiento de los objetivos y prioridades del Plan de Desarrollo del Estado de México, en el ámbito de su competencia;
 
-II. Verificar el cumplimiento de las disposiciones contenidas en la presente Ley y de las disposiciones reglamentarias que de ésta se deriven e informar los resultados al organo superior jerárquico que corresponda;
+II. Verificar el cumplimiento de las disposiciones contenidas en la presente Ley y de las disposiciones reglamentarias que de ésta se deriven e informar los resultados al órgano superior jerárquico que corresponda;
 
 III. Controlar los procesos administrativos y la fiscalización del ejercicio del gasto público, en congruencia con la estrategia para el desarrollo;
 
@@ -271,7 +271,7 @@ XI. Informar veraz y oportunamente a la Secretaría, del cumplimiento en los ava
 
 XII. Cumplir con el Plan Nacional de Desarrollo y el Plan de Desarrollo del Estado de México y sus programas;
 
-XIII.Las demás que se establezcan en otros ordenamientos.
+XIII. Las demás que se establezcan en otros ordenamientos.
 
 ###### Artículo 19.
 
@@ -315,7 +315,7 @@ VI. Evaluar y dar seguimiento al cumplimiento de los convenios de coordinación 
 
 VII. Cumplir con el Plan Nacional de Desarrollo, el Plan de Desarrollo del Estado de México, el Plan de Desarrollo Municipal y los programas que de éstos se deriven;
 
-VIII.Las demás que se establezcan en otros ordenamientos.
+VIII. Las demás que se establezcan en otros ordenamientos.
 
 ###### Artículo 21.
 
@@ -419,13 +419,31 @@ Las dependencias, organismos, entidades públicas, unidades administrativas y se
 
 El Gobierno del Estado de México y los ayuntamientos, en el ámbito de su competencia, impulsarán los mecanismos, medios e instrumentos necesarios para consolidar el régimen republicano, representativo, democrático y federal, mediante la coordinación y participación de la sociedad en la planeación democrática para el desarrollo con base en los principios que rigen en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 40.
 
-El Ejecutivo del Estado podrá celebrar convenios de coordinación con el Ejecutivo Federal y los ayuntamientos; así como convenios de participación con particulares, grupos y organizaciones sociales y privados.
+El Ejecutivo del Estado podrá celebrar convenios de coordinación con el Ejecutivo Federal, así como con los titulares de las dependencias federales o sus representantes en el Estado y con los ayuntamientos para ejecutar programas, proyectos y acciones que se desarrollen en la entidad y que por su naturaleza o vigencia requieran de fortalecer las acciones de coordinación, concertación y participación.
 
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2003)</small>
+> <small>(ADICIONADO, G.G. 7 DE AGOSTO DE 2003)</small>
 
 Tratándose de convenios de coordinacion que involucren recursos del gasto de inversión pública, los Ayuntamientos deberán cumplir con los requisitos que en esta materia señala el Código Financiero del Estado de México y Municipios, a fin de fortalecer el Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios.
+
+> <small>(ADICIONADO, G.G. 22 DE NOVIEMBRE DE 2004)</small>
+
+El Comité de Planeación para el Desarrollo del Estado de México, es la instancia de coordinación de los ayuntamientos, el estado y la federación, para efecto de transparentar la concertación, la ejecución y evaluación de planes y programas federales y estatales en cada uno de los municipios del estado.
+
+> <small>(ADICIONADO, G.G. 22 DE NOVIEMBRE DE 2004)</small>
+
+Las condiciones, términos y características de los acuerdos de cabildo que los ayuntamientos con base en la autonomía municipal tomen, no estarán sujetos a la aprobación de esa instancia; teniendo como objeto esencial, la máxima congruencia, con los Planes Nacional, Estatal y Municipales de Desarrollo.
+
+> <small>(ADICIONADO, G.G. 22 DE NOVIEMBRE DE 2004)</small>
+
+El comité registrará obligatoriamente y previo a su ejecución, los programas federales y estatales, así como los proyectos que de éstos de deriven, montos y, en los casos en los que de acuerdo con la normatividad sea posible, los beneficiarios.
+
+> <small>(ADICIONADO, G.G. 22 DE NOVIEMBRE DE 2004)</small>
+
+En el seno de este Comité se propondrán las adecuaciones y ajustes a los programas federales y estatales, para hacerlos congruentes con los objetivos del Plan Nacional de Desarrollo y de los Planes de Desarrollo del Estado y Municipios.
 
 ###### Artículo 41.
 
@@ -475,9 +493,21 @@ VII. Cuatro representantes por cada uno de los poderes Legislativo y Judicial de
 
 VIII. Los titulares o representantes de las comisiones donde participen los grupos y organizaciones sociales y privados.
 
+> <small>(ADICIONADA, G.G. 22 DE NOVIEMBRE DE 2004)</small>
+
+IX. Los invitados permanentes, que serán los titulares de las representaciones federales en el estado;
+
+> <small>(ADICIONADA, G.G. 22 DE NOVIEMBRE DE 2004)</small>
+
+X. Los invitados especiales, cuando se estimen que puedan hacer aportaciones para los trabajos de comités; quienes tendrán derecho a voz y que serán:
+
+a) Los integrantes de los Poderes Legislativo, Ejecutivo y Judicial del Gobierno Federal:
+
+b) Los especialista (sic) en planeación.
+
 Por cada integrante, la Asamblea General aprobará el nombramiento de un suplente.
 
-También podrán ser invitados a participar en la Asamblea General, integrantes del Poder Legislativo, Ejecutivo y Judicial del Gobierno Federal, los titulares de las representaciones federales en el Estado y especialistas en planeación, quienes tendrán derecho a voz.
+> <small>(DEROGADO ULTIMO PARRAFO, G.G. 22 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 47.
 
@@ -499,13 +529,27 @@ La Asamblea General del Comité de Planeación para el Desarrollo del Estado de 
 
 I. Promover la participación de los habitantes y de los grupos y organizaciones sociales y privados a través de la incorporación de sus aspiraciones y demandas para en su caso incorporarlas a la estrategia del desarrollo;
 
-II. Fomentar la suscripción de convenios de coordinación entre los gobiernos Federal, Estatal y municipales así como la de convenios de participación con los ciudadanos, grupos y organizaciones sociales y privados, a fin de dar congruencia a los planes de desarrollo y los programas que de ellos deriven;
+> <small>(REFORMADA, G.G. 22 DE NOVIEMBRE DE 2004)</small>
 
-III. Coordinarse con los comités de planeación para el desarrollo municipal y comités de planeación o equivalentes de otras entidades federativas, para apoyar la definición y ejecución de planes para el desarrollo de regiones interestatales;
+II. Coordinarse con los titulares de las representaciones federales en el estado, para verificar que los programas, proyectos y acciones que se desarrollan en la entidad, garanticen su efectiva ejecución y beneficio social en el marco de la planeación democrática.
 
-IV. Fungir como órgano de consulta tanto del Gobierno del Estado, como de los ayuntamientos y de los habitantes, grupos y organizaciones sociales y privados en materia de planeación democrática para el desarrollo;
+Los ayuntamientos podrán coordinarse en el seno del COPLADEM con las representaciones federales en la entidad, para los efectos señalados en el párrafo precedente, en el ámbito de su competencia.
 
-V. Acordar el establecimiento de subcomités sectoriales, regionales y especiales, así como de grupos de trabajo, los cuales actuarán como instancias auxiliares del Comité de Planeación para el Desarrollo del Estado de México.
+> <small>(REFORMADA, G.G. 22 DE NOVIEMBRE DE 2004)</small>
+
+III. Fomentar la suscripción de convenios de coordinación entre los gobiernos federal, estatal y municipales así como la de convenios de participación con los ciudadanos, grupos y organizaciones sociales y privados, a fin de dar congruencia a los planes de desarrollo y los programas que de ellos deriven;
+
+> <small>(REFORMADA, G.G. 22 DE NOVIEMBRE DE 2004)</small>
+
+IV. Coordinarse con los comités de planeación para el desarrollo municipal y comités de planeación o equivalentes de otras entidades federativas, para apoyar la definición y ejecución de planes para el desarrollo de regiones interestatales;
+
+> <small>(REFORMADA, G.G. 22 DE NOVIEMBRE DE 2004)</small>
+
+V. Fungir como órgano de consulta tanto del Gobierno del Estado, como de los ayuntamientos y de los habitantes, grupos y organizaciones sociales y privados en materia de planeación democrática para el desarrollo;
+
+> <small>(ADICIONADA, G.G. 22 DE NOVIEMBRE DE 2004)</small>
+
+VI. Acordar el establecimiento de subcomités sectoriales, regionales y especiales, así como de grupos de trabajo, los cuales actuarán como instancias auxiliares del Comité de Planeación para el Desarrollo del Estado de México.
 
 ###### Artículo 51.
 
@@ -571,8 +615,14 @@ MANUEL CADENA MORALES
 
 N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
-P.O. 7 DE AGOSTO DE 2003
+G.G. 7 DE AGOSTO DE 2003
 
 PRIMERO.- PUBLIQUESE EL PRESENTE DECRETO EN EL PERIODICO OFICIAL "GACETA DEL GOBIERNO".
 
 SEGUNDO.- ESTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL "GACETA DEL GOBIERNO".
+
+G.G. 22 DE NOVIEMBRE DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
