@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "1999-06-09"
+last_updated: "2000-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -321,9 +321,9 @@ III.- Gastos funerarios en los mismos términos que para su deducibilidad requie
 
 IV.- Contraprestaciones a que se refiere el artículo 28 cubiertas por:
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2000)</small>
 
-A) La Federación, el Estado y los Municipios, así como los organismos descentralizados, federales, estatales o municipales. No quedan comprendidas en esta exención las contraprestaciones cubiertas por las empresas y organismos cuyos bienes y servicios se proporcionen mediante precios, cuotas, tasas, tarifas y similares;
+A) Las dependencias de la Administración Pública Centralizada del Gobierno Federal, las dependencias de la Administración Pública Centralizada del Gobierno del Estado y los Ayuntamientos del Estado. No quedan comprendidas en esta exención las entidades de la administración pública paraestatal del Gobierno Federal, Estatal o Municipal.
 
 B) Instituciones de enseñanza privada reconocidas oficialmente.
 
@@ -1075,7 +1075,7 @@ II.- Por el ingreso que perciban por los servicios que prestan los organismos, d
 
 a) (DEROGADO, P.O. 9 DE JUNIO DE 1999)
 
-> <small>(REFORMADO, P.O. 16 DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2000)</small>
 
 b) INSTITUTO CAMPECHANO
 
@@ -1087,7 +1087,7 @@ Preparatoria Licenciatura Postgrado
 
 Inscripciones
 
-$135.00 $140.00 $300.00
+$135.00 $140.00 $1000.00
 
 Examen de Admisión
 
@@ -1115,7 +1115,7 @@ Por materia
 
 Elaboración de Credenciales
 
-30.00 30.00 30.00
+30.00 30.00 35.00
 
 Seguro de Vida
 
@@ -1123,7 +1123,7 @@ Seguro de Vida
 
 Expedición de Certificados
 
-125.00 130.00 300.00
+140.00 150.00 400.00
 
 Expedición de Constancias de Estudios
 
@@ -1137,7 +1137,7 @@ Cotejo de Planes y Revalidaciones
 
 Alumnos Foráneos
 
-170.00 175.00
+175.00 175.00
 
 Alumnos del Instituto Campechano
 
@@ -1145,11 +1145,11 @@ Alumnos del Instituto Campechano
 
 Examen a Título de Suficiencia
 
-100.00 110.00 300.00
+120.00 130.00 300.00
 
 Examen Extraordinario
 
-90.00 95.00 200.00
+110.00 120.00 200.00
 
 Cotejo de Documentos
 
@@ -1161,15 +1161,15 @@ Asesoría en sistema semiescolarizado
 
 Carta de Liberación de Servicio Social
 
-100.00 200.00
+100.00 300.00
 
 Expedición de Carta de Pasante
 
-130.00 250.00
+140.00 250.00
 
 Examen Profesional
 
-400.00 800.00
+500.00 800.00
 
 Acta de Grado
 
@@ -1177,19 +1177,19 @@ Acta de Grado
 
 Trámite de firmas de Título Profesional
 
-150.00 200.00
+150.00 300.00
 
 Hoja de Piel
 
-150.00 150.00
+150.00 160.00
 
 Servicios Deportivos
 
-40.00
+50.00
 
 Material de Apoyo
 
-40.00
+50.00
 
 Constancia Provisional
 
@@ -1213,11 +1213,15 @@ Expedición de Diploma
 
 Elaboración de Título
 
-200.00 250.00
+230.00 300.00
 
-Seminarios
+Seminarios Inscripción
 
-1200.00
+750.00
+
+Seminarios costo por materia (por 3)
+
+750.00
 
 OTROS CURSOS
 
@@ -1231,11 +1235,11 @@ Inglés (Laboratorio)
 
 Inscripción
 
-50.00 100.00
+60.00 120.00
 
 Colegiatura Mensual
 
-35.00 70.00
+40.00 80.00
 
 Credencial (opcional)
 
@@ -1247,11 +1251,11 @@ Cursos talleres
 
 Inscripción
 
-30.00 60.00
+35.00 70.00
 
 Colegiatura Mensual
 
-25.00 50.00
+30.00 60.00
 
 Servicio Fotográfico
 
@@ -1277,19 +1281,19 @@ Herramientas Internet
 
 Power Point
 
-225.00 450.00
+250.00 500.00
 
 Excel
 
-263.00 525.00
+275.00 550.00
 
 Word
 
-250.00 500.00
+275.00 550.00
 
 Corel Draw
 
-275.00 550.00
+300.00 600.00
 
 Renta de Equipo de Cómputo
 
@@ -1297,41 +1301,41 @@ Por hora Por hora
 
 Casos Administrativos y Docentes
 
-5.00
+7.50
 
 Alquiler de Sala para capacidad instalada
 
-10.00
+15.00
 
 Impresiones por Hoja
 
 Matriz
 
-1.00 2.00
+1.50 3.00
 
 Láser
 
-2.00 4.00
+3.00 6.00
 
 Color
 
-3.00 6.00
+4.00 8.00
 
 OTROS INGRESOS COSTO
 
 Escuelas Incorporadas
 
-Incorporación 2000.00
+Incorporación 2200.00
 
-Reg. De Inscripción por alumno 70.00
+Reg. De Inscripción por alumno 80.00
 
-Legalización de Firmas en certificado 150.00
+Legalización de Firmas en certificado 165.00
 
-Legalización de firmas en carta de Buena Conducta 100.00
+Legalización de firmas en carta de Buena Conducta 110.00
 
-Nevería Central $3,000.00
+Nevería Central $3,850.00
 
-Nevería de la Preparatoria 2800.00
+Nevería de la Preparatoria 3520.00
 
 Constancia de Pago 25.00
 
@@ -1343,7 +1347,7 @@ Recargos 0.10%
 
 Certificado Médico y Dental 60.00
 
-Mantenimiento de Equipo de Cómputo 50.00
+Mantenimiento de Equipo de Cómputo 55.00
 
 ARRENDAMIENTO
 
@@ -1353,19 +1357,19 @@ Renta Base Hora adicional
 
 Teatro "Ricardo Hernández"
 
-350.00 70.00
+700.00 140.00
 
 Sala de Arte "Domingo Pérez Piña" todas las Salas
 
-350.00 70.00
+700.00 140.00
 
 Ser. elect. de entrada y 1 Sala
 
-175.00 35.00
+350.00 70.00
 
 Aula Magna "Benito Juárez" usando todo el servicio eléctrico
 
-200.00 240.00
+400.00 80.00
 
 > <small>(REFORMADO, P.O. 16 DICIEMBRE DE 1998)</small>
 
@@ -1852,3 +1856,9 @@ P.O. 9 DE JUNIO DE 1999.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente Decreto.
+
+P.O. 7 DE JUNIO DE 2000.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente decreto.
