@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2004-01-19"
+last_updated: "2004-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2004.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -351,8 +351,6 @@ VII.- Rendir opiniones y formular sugerencias al Ejecutivo Federal tendientes al
 VII bis.- Proponer a las autoridades sanitarias el otorgamiento de reconocimientos y estímulos para las instituciones y personas que se distingan por sus méritos a favor de la salud, y (sic)
 
 VIII.- Analizar las disposiciones legales en materia de salud y formular propuestas de reformas o adiciones a las mismas, y
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1190,7 +1188,7 @@ Será causa de responsabilidad administrativa el incumplimiento en tiempo y form
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VIII. Del Consejo Nacional de Protección Social en Salud
+### CAPITULO VII. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1204,7 +1202,7 @@ La Secretaría de Salud definirá las variables que serán utilizadas en la fór
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
+### CAPITULO VIII. Del Consejo Nacional de Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1260,7 +1258,7 @@ Con el objeto de favorecer el uso responsable de los servicios de salud, el Cons
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO X. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
+### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1278,7 +1276,7 @@ No se considerarán elegibles para la participación en los recursos del fondo q
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VII. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
+### CAPITULO X. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1313,6 +1311,8 @@ Cuando las autoridades estatales que en el ejercicio de sus atribuciones de cont
 Por su parte, cuando el órgano de fiscalización de un Congreso Local detecte que los recursos federales señalados no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación.
 
 Las responsabilidades administrativas, civiles y penales que deriven de afectaciones a la Hacienda Pública Federal, a las aportaciones estatales y del núcleo familiar en que, en su caso, incurran las autoridades locales exclusivamente por motivo de la desviación de los recursos para fines distintos a los previstos en esta Ley, serán sancionadas en los términos de la legislación federal, por las autoridades federales, en tanto que en los demás casos dichas responsabilidades serán sancionadas y aplicadas por las autoridades locales con base en sus propias leyes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO I. Profesionales, Técnicos y Auxiliares
 
@@ -1441,8 +1441,6 @@ En la aplicación de este artículo la Secretaría de Salud tomará como base la
 ###### ARTICULO 77 Bis 41.
 
 En los casos en que se materialicen los supuestos a que se refiere este Capítulo, los interesados conservarán los beneficios del Sistema de Protección Social en Salud hasta por un plazo de sesenta días naturales a partir de la fecha de la suspensión o cancelación. Habiendo transcurrido este plazo, podrán acceder a los servicios de salud disponibles en los términos y condiciones que establece esta Ley.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO UNICO
 
@@ -1776,7 +1774,9 @@ La Secretaría de Salud tendrá a su cargo;
 
 I.- Establecer un sistema permanente de vigilancia epidemiológica de la nutrición;
 
-II.- Normar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimentarios adecuados, preferentemente en los grupos sociales más vulnerables;
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2004)</small>
+
+II. Normar el desarrollo de los programas y actividades de educación en materia de nutrición, prevención, tratamiento y control de la desnutrición y obesidad, encaminados a promover hábitos alimentarios adecuados, preferentemente en los grupos sociales más vulnerables;
 
 III.- Normar el establecimiento, operación y evaluación de servicios de nutrición en las zonas que se determinen, en función de las mayores carencias y problemas de salud;
 
@@ -2748,7 +2748,7 @@ III.- Materia prima: Substancia o producto, de cualquier origen, que se use en l
 
 > <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
 
-IV.- Aditivo: Cualquier substancia permitida que, sin tener propiedades nutritivas, se incluya en la formulación de los productos y que actúe como estabilizante, conservador o modificador de sus características organolépticas, para favorecer ya sea su estabilidad, conservación, apariencia o aceptabilidad.
+IV.- Aditivo: Cualquier substancia permitida que, sin tener propiedades nutritivas, se incluya en la formulación de los productos y que actúe como estabilizante, conservador o modificador de sus características organolépticas, para favorecer ya sea su estabilidad, conservación, apariencia o aceptabilidad;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -5302,7 +5302,7 @@ II.- La gravedad de la infracción;
 
 III.- Las condiciones socio-económicas del infractor, y (sic)
 
-IV.- La calidad de reincidente del infractor.
+IV.- La calidad de reincidente del infractor;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -5358,7 +5358,7 @@ V.- Cuando en el establecimiento se vendan o suministren estupefacientes sin cum
 
 VI.- Cuando en un establecimiento se vendan o suministren substancias psicotrópicas sin cumplir con los requisitos que señale esta Ley y sus reglamentos, y (sic)
 
-VII.- Cuando se compruebe que las actividades que se realicen en un establecimiento, violan las disposiciones sanitarias, constituyendo un peligro grave para la salud.
+VII.- Cuando se compruebe que las actividades que se realicen en un establecimiento, violan las disposiciones sanitarias, constituyendo un peligro grave para la salud;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -5891,3 +5891,7 @@ D.O.F. 19 DE ENERO DE 2004.
 Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las disposiciones reglamentarias contrarias a este Decreto quedarán sin efecto al entrar en vigor el mismo.
+
+D.O.F. 2 DE JUNIO DE 2004.
+
+UNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
