@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-uniformes-insignias-y-distintivos-para-uso-464"
 country: "mx"
 rank: "reglamento"
 publication_date: "1980-05-21"
-last_updated: "1981-02-13"
+last_updated: "1988-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=464&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,9 @@ issue_date: "1980-05-12"
 ---
 # REGLAMENTO DE UNIFORMES, INSIGNIAS Y DISTINTIVOS PARA USO DEL PERSONAL PERTENECIENTE A LA MARINA MERCANTE DE MEXICO
 
-REGLAMENTO DE UNIFORMES, INSIGNIAS Y DISTINTIVOS PARA USO DEL PERSONAL PERTENECIENTE A LA MARINA MERCANTE DE MEXICO
+REGLAMENTO DE UNIFORMES, INSIGNIAS Y DISTINTIVOS PARA USO DEL PERSONAL PERTENECIENTE A LA MARINA MERCANTE DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 13 DE FEBRERO DE 1981.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE SEPTIEMBRE DE 1988.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 21 de mayo de 1980.
 
@@ -659,6 +657,8 @@ e).- Los zapatos serán blancos del tipo llamado tenis.
 
 f).- El calzón de baño será azul marino de los usados comúnmente.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO DE REFORMAS, SE DEROGAN LOS SUBTÍTULOS DEL CAPÍTULO IV, D.O.F. 2 DE SEPTIEMBRE DE 1988.</small>
+
 ### CAPITULO IV.
 
 Capitanías de Puerto.
@@ -667,99 +667,147 @@ Capitanías de Puerto.
 
 El personal ejecutivo de las capitanías de puerto portará los uniformes e insignias que le correspondan según su título profesional.
 
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
+
 ###### ARTICULO 32.
 
-Los uniformes para los agentes de resguardo marítimo, serán:
+Los uniformes básicos del Personal de Agentes, Jefes de Grupo, Comandantes de Destacamento, Jefes de Región y Jefe del Resguardo Marítimo, serán:
 
-Uniforme diario de verano.
+I.- Uniforme diario de verano.
 
-Uniforme diario de invierno.
+II.- Uniforme diario de invierno.
 
-PARA JEFES DE GRUPO
+III.- Uniforme de faenas.
+
+IV.- Overol.
+
+V.- Uniforme de deportes.
+
+VI.- Uniforme beige.
+
+VII.- Uniforme negro.
+
+VIII.- Abrigo.
+
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
 
 ###### ARTICULO 33.
 
-El uniforme diario de verano, constará de las prendas siguientes:
+El uniforme diario de verano, constará de las siguientes prendas:
 
-a).- Gorra.
+a).- La gorra será de tipo americano con funda blanca desmontable, el cincho será de cinta de seda de popotillo con la costura al frente y sobre el mismo se llevará el escudo del Resguardo Marítimo, la visera de charol negro y carrillera de galón plateado de cinco hilos, sujeta con dos botones chicos reglamentarios en los extremos. Para el Jefe del Resguardo Marítimo, la visera llevará bordado con hilo de plata y sobre paño negro una rama de laurel al lado izquierdo y una rama de sargazo de lado derecho; para Jefes de Región y Comandantes de Destacamento, llevará bordado con hilo de plata un cordón al filo de la visera y para los Jefes de Grupo la visera llevará bordado al filo una cinta de hilo color plata. El demás personal no usará nada en la visera.
 
-Camisa.
+b).- La camisa será de dril satinado blanco, manga corta con cuello doblado sin usar corbata, en los delanteros llevarán dos bolsas de parche a la altura de la tetilla, con fuelles y carteras sujetas con un botón de pasta y presilla para sujetar las palas.
 
-Pantalón.
+c).- El pantalón será de dril fino satinado blanco, de corte recto sin valenciana, dos bolsas al frente rectas y dos traseras con carteras reforzadas.
 
-Cinturón.
+d).- El cinturón será de loneta blanca con hebilla plateada mate.
 
-Guantes.
+e).- Los guantes serán de hilo blanco lisos.
 
-Calcetines.
+f).- Los calcetines serán de hilo blanco lisos.
 
-Zapatos.
+g).- Los zapatos serán de piel, blancos tipo choclo puntera lisa, suela de res y tacón de hule, para usarse con agujetas.
 
-b).- La gorra será de tipo americano con funda blanca, la costura al frente, la visera de charol negro y la carrillera de galón dorado, sujeta con dos botones chicos reglamentarios.
+h).- Las palas serán las descritas en el Artículo 59 Bis.
 
-c).- La camisa será de popelina blanca, cuello sport, manga corta y hombreras de color azul claro de la misma tela.
-
-d).- El pantalón será de corte recto sin valencianas, de dril azul claro, con una franja de cuatro centímetros de ancho de la misma tela en color negro, colocada a lo largo de los costados laterales, llevará dos bolsillos a los costados y dos traseros.
-
-e).- El cinturón será de loneta blanca y hebilla dorada.
-
-f).- Los guantes serán de hilo blanco.
-
-g).- Los calcetines serán de hilo blanco y lisos.
-
-h).- Los zapatos serán de piel blancos tipo choclo puntera lisa, suela y tacón de hule, para usarse con agujetas.
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
 
 ###### ARTICULO 34.
 
-El uniforme diario de invierno constará de las prendas siguientes:
+El uniforme diario de invierno, constará de las siguientes prendas:
 
-a).- Gorra.
+a).- La gorra será igual a la descrita para el uniforme diario de verano, pero confunda (sic) beige.
 
-Chamarra.
+b).- La camisa será de dril fino satinado beige, manga larga, con cuello para usar corbata, en los delanteros llevarán dos bolsas de parche a la altura de la tetilla, con fuelles y carteras sujetas con un botón de pasta, presilla para sujetar las palas.
 
-Pantalón.
+c).- El pantalón será de dril satinado beige, de corte recto sin valenciana, dos bolsas al frente rectas y dos traseras con carteras reforzadas.
+
+d).- El cinturón será de loneta beige con hebilla plateada mate.
+
+e).- La corbata será de tira de tela de lana color negro.
+
+f).- Los guantes serán de hilo negro lisos.
+
+g).- Los calcetines serán de hilo negro lisos.
+
+h).- Los zapatos serán de piel negros, tipo bostonianos, con suela gruesa de res y tacón de hule para usarse con agujetas.
+
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
+
+ARTICULO 34 BIS.- El overol será color beige de dril satinado, manga corta, llevará las bolsas siguientes: dos al frente a la altura del pecho, de parche, lisas, cierre o broche de presión, dos bolsas traseras, dos de costado con cierre o broche de presión. Llevará en la cintura un cinturón fingido con resorte oculto de manera que ajuste la cintura. Será para uso de los Jefes de Grupo, Comandantes, Jefes de Región y Jefe de Resguardo Marítimo.
+
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
+
+###### ARTICULO 35.
+
+El uniforme diario de faenas constará de las siguientes prendas:
+
+Gorra o chanchomón.
 
 Camisa.
 
-Corbata.
+Pantalón.
 
 Cinturón.
-
-Guantes.
 
 Calcetines.
 
 Zapatos.
 
-b).- La gorra será la misma descrita para el uniforme diario de verano.
+Este uniforme será igual al uniforme diario de invierno, con la diferencia de que la camisa será de manga corta, y sin usar corbata, siendo optativo usarse en este uniforme la gorra o el chanchomón por todo el personal.
 
-c).- La chamarra de este uniforme será de casimir azul claro tipo Mac Arthur, entallada hasta la cintura, con hombreras, bolsas laterales y con cierre automático al frente.
+El chanchomón para el Jefe del Resguardo Marítimo será de tela fina de color negro, en la visera llevará una rama de laurel a la izquierda y una rama de sargazo a la derecha, bordadas en hilo color plata.
 
-d).- El pantalón será igual al descrito para el uniforme diario de verano, confeccionado en casimir.
+Para el personal de Jefes de Región y Comandantes del Destacamento llevará un bordado tipo "Cordón" color plata en el filo de la visera.
 
-e).- La camisa será de popelina blanca cuello de vestir, manga larga y hombreras de color azul claro en la misma tela.
+Para el personal de Jefes de Grupo llevará bordado al filo de la visera con cinta de color plata.
 
-f).- La corbata será negra de tira.
+El demás personal no usará nada en la visera.
 
-g).- El cinturón será de loneta negro y hebilla dorada.
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
 
-h).- Los guantes serán de hilo color blanco.
+ARTICULO 35 BIS.- El uniforme de deportes constará de las siguientes prendas:
 
-i).- Los calcetines serán de hilo negro lisos.
+a).- El pantalón y la chamarra, serán de tela poliéster algodón, la chamarra será azul rey con franjas blancas en las mangas, el pantalón igualmente azul rey con franjas blancas en los costados.
 
-j).- Los zapatos serán de piel negros, tipo choclo, puntera lisa, con suela y tacón de hule, para usarse con agujetas.
+b).- La playera será de algodón, cuello redondo color blanco, vivos en el cuello y mangas color azul rey.
 
-PARA EL PERSONAL DE AGENTES.
+c).- Los pantalones cortos serán de la misma tela y colores que el pantalón.
 
-###### ARTICULO 35.
+d).- Las calcetas serán blancas con filos azules de algodón, que cubrirán hasta la espinilla.
 
-El uniforme diario de verano, para agentes del resguardo marítimo, será igual al descrito en el Artículo 33, y contará con el mismo número de prendas con la modificación siguiente:
+e).- Los zapatos serán azul marino de tipo llamado tenis.
 
-a).- La carrillera de la gorra será de charol negro.
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
 
 ###### ARTICULO 36.
 
-El uniforme diario de invierno para agentes del resguardo marítimo, será igual al descrito en el artículo 34 y contará con el mismo número de prendas con la modificación descrita en el Artículo anterior.
+El uniforme beige para el uso del Jefe del Resguardo Marítimo, Jefes de Región o Comandantes de Destacamento, constará de las prendas siguientes:
+
+a).- La gorra será la misma descrita para el Jefe del Resguardo Marítimo, Jefes de Región y Comandantes de Destacamento en el uniforme diario de verano, con funda beige.
+
+b).- El saco será tipo inglés confeccionado en lana poliéster o tergal español abierto, entallado, con cuello volteado y solapa escuadra de corte recto, llevará cuatro bolsillos con cartera en las delanteras; dos a la altura del pecho y dos a los costados.
+
+Las bolsas llevarán tablas de 3 centímetros de ancho en el centro y las carteras se sujetarán con botones chicos plateados reglamentarios, llevará al frente tres botones plateados mate reglamentarios, debiendo estar el inferior a la altura de la cintura donde llevará un cinturón de la misma tela cosido al saco y con un ancho de 4.5 centímetros. En la espalda llevará fuelles laterales desde la costura del hombro hasta el cinturón, suficientemente amplios para que permitan holgura: en los hombros llevará trabillas para la sujeción de las palas y una abertura en la parte trasera del faldón de la cintura para abajo.
+
+c).- El pantalón será de corte recto de la misma tela del saco, sin valenciana, con largos suficientes para apoyar sin arrugas en el zapato en la posición de firmes; llevará bolsillos rectos al frente y un trasero a la derecha.
+
+d).- La camisa será de popelina fina satinada color beige, manga larga, con cuello para usar corbata, en los delanteros llevará dos bolsas de parche a la altura de la tetilla con fuelles y carteras sujetas con un botón de pasta.
+
+e).- La corbata será de tira en tela de lana color negra.
+
+f).- El cinturón será de loneta beige con hebilla plateada mate.
+
+g).- Los calcetines serán de hilo negro lisos.
+
+h).- Los zapatos serán de piel lisa, negros de tipo bostonianos, con suela gruesa de res y tacón de hule, para usarse con agujetas.
+
+i).- Las palas serán las descritas en el artículo 59 Bis.
+
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
+
+ARTICULO 36 BIS.- El uniforme negro de gala de invierno, para uso del Jefe de Resguardo Marítimo y Jefes de Región será igual al descrito para Oficiales de la Marina Mercante Nacional exceptuando los galones y los botones, la gorra será la misma descrita para el Jefe del Resguardo Marítimo y Jefes de Región en el uniforme diario de verano.
 
 ### CAPITULO V
 
@@ -1073,6 +1121,10 @@ El chaquetón será de paño negro cruzado, con dos hileras de cuatro botones gr
 
 La funda para proteger de la lluvia a las gorras, será de material transparente, impermeable, con resorte y de color blanco.
 
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
+
+ARTICULO 50 BIS.- El abrigo del Jefe del Resguardo Marítimo y de los Jefes de Región será similar al descrito en el artículo 47, con la siguiente modificación: Los botones serán de metal plateado reglamentarios.
+
 PARA LOS ALUMNOS DE LAS ESCUELAS NAUTICAS MERCANTES
 
 ###### ARTICULO 51.
@@ -1132,6 +1184,12 @@ Las palas serán de lámina galvanizada, de trece y medio centímetros de largo,
 ###### ARTICULO 59.
 
 Para los alumnos de las escuelas náuticas mercantes, las palas llevarán únicamente una ancla metálica y a continuación de la parte inferior de ésta irá la estrella o propela metálica, distintivos de la carrera.
+
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
+
+ARTICULO 59 BIS.- Las palas para el personal del Resguardo Marítimo serán rígidas de 13 centímetros de largo, 7 centímetros en la base y 5 centímetros en las partes más estrechas del extremo redondo, irán forradas de paño negro, en el reverso llevarán una cinta en forma de lengüeta con botón para asegurarlas en las presillas, en el centro del arco de la misma, llevarán colocados un botón chico reglamentario, en el extremo izquierdo el distintivo correspondiente, en el otro extremo de la pala irán perpendiculares al eje longitudinal de la misma los galones separados entre sí 3 milímetros.
+
+Los botones para los uniformes del personal del Resguardo Marítimo, tendrán las mismas dimensiones, pero serán de metal plateados, llevarán realzada una caña rodeada por un filete.
 
 ###### ARTICULO 60.
 
@@ -1235,6 +1293,48 @@ Mayordomos.
 
 a).- Usarán las insignias correspondientes al piloto, sin rombo en los galones.
 
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
+
+I.- Para el Jefe del Resguardo Marítimo.
+
+a).- Para las mangas: cuatro galones plateados de cinco hilos de 12 milímetros de ancho, que irán cosidos a 7 centímetros del filo de la manga y separados uno del otro por tres milímetros.
+
+b).- Para las palas: cuatro galones plateados de cinco hilos de 12 milímetros de ancho, que irán cosidos a 1 centímetro del filo de éstas y separados uno del otro por 3 milímetros.
+
+c).- Para el cuello de la camisa: cuatro rombos plateados metálicos de 15 milímetros por 1 centímetro, separados entre sí 2 milímetros, se colocarán en el lado derecho, con su eje normal a la línea del cuello, el primero se sujetará en el punto medio de la bisectriz y a continuación los demás, (se pondrán en la camisa cuando se use el uniforme beige sin saco).
+
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
+
+J.- Para Jefes de Región.
+
+a).- Para las mangas: tres galones plateados de cinco hilos de 12 milímetros de ancho, que irán cosidos a 7 milímetros del filo de la manga y separados uno del otro por 3 milímetros.
+
+b).- Para las palas: tres galones plateados de cinco hilos de 12 milímetros de ancho, que irán cosidos a 1 centímetro del filo de éstas y separados uno del otro por 3 milímetros.
+
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
+
+K.- Para Comandantes de Destacamento.
+
+Para las palas: tres galones plateados, dos de 12 milímetros de ancho y uno de 8 milímetros de ancho, separados 3 milímetros entre sí, el angosto irá al centro.
+
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
+
+L.- Para Segundos Comandantes de Destacamento.
+
+Para las palas: dos galones plateados de cinco hilos de 12 milímetros de ancho, que irán cosidos a 1 centímetro del filo de éstas y separados uno del otro por 3 milímetros.
+
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
+
+M.- Para los Jefe (sic) de Grupo.
+
+Para las palas: dos galones plateados, uno de 8 milímetros y uno de 12 milímetros de ancho, separados entre sí 3 milímetros, el de la parte superior será el de 12 milímetros.
+
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
+
+N.- Para Agentes, Patrones y Motoristas.
+
+Para las palas: un galón plateado de 8 milímetros de ancho.
+
 ###### ARTICULO 63.
 
 Los distintivos de la marina mercante nacional, son:
@@ -1247,9 +1347,13 @@ c).- El escudo de cada carrera.
 
 d).- El escudo de la especialidad.
 
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
+
 ###### ARTICULO 64.
 
-El escudo oficial de la marina mercante nacional, que usará exclusivamente la oficialidad de la marina mercante y el personal egresado de la H. Escuela Naval Militar que sea dado de alta en la marina mercante nacional con cualquiera de los títulos a que se refiere el Artículo 9, incisos a) y b) de este Reglamento, será: de nueve y medio centímetros de alto por ocho centímetros de ancho, será rígido forrado totalmente de paño negro, al centro de cuatro centímetros de diámetro, bordada con hilo de oro el águila nacional; abajo del águila y al centro una circunferencia con hilo de oro, dentro del círculo los colores nacionales bordados en seda y sobrepuesta una ancla de cepo vertical, bordada en hilo de plata. El conjunto va dentro de una rama de laurel a la izquierda y una rama de sargazo a la derecha, cruzadas y bordadas en hilo de oro.
+El escudo oficial de la marina mercante nacional, que usará exclusivamente la oficialidad de la marina mercante y el personal egresado de la H. Escuela Naval Militar que sea dado de alta en la marina mercante nacional con cualquiera de los títulos a que se refiere el artículo 9o. incisos a) y b), de este Reglamento, será:
+
+De 7.5 centímetros de alto por 7 de ancho, será rígido forrado totalmente de paño negro, al centro de 4 centímetros de diámetro, bordado con hilo de oro el águila mexicana, con el perfil izquierdo expuesto, la parte superior de las alas a nivel más alto que el penacho y ligeramente desplegadas en actitud de combate, con el plumaje de sustentación hacia abajo tocando la cola y las plumas de ésta en abanico natural, sujeta con la garra derecha y con el pico, en actitud de devorar una serpiente, curvada de modo que armonice con el conjunto; abajo el águila y al centro una circunferencia con hilo de oro, dentro del círculo los colores nacionales bordados en seda y sobre puesta un ancla de cepo vertical, bordada en hilo de plata, éste a su vez sobre un nopal florecido que nace en una peña que emerge de un lago, varias pencas de nopal se ramifican a los lados. El conjunto va dentro de dos ramas una de laurel al frente del águila y otra de sargazo al lado opuesto bordados en hilo de oro, forman entre ambas un semi-círculo inferior y se unen por medio de un listón.
 
 ###### ARTICULO 65.
 
@@ -1267,9 +1371,13 @@ Será ovalado, dibujado en fondo blanco y de dimensiones convenientes según su 
 
 El escudo para las gorras de los alumnos de las escuelas náuticas mercantes, será el mismo que el descrito para oficiales de la marina mercante nacional, con excepción de que será metálico.
 
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
+
 ###### ARTICULO 68.
 
-El escudo de la gorra para el personal de agentes de resguardo marítimo, estará formado por un círculo con ribete amarillo, de dos centímetros de diámetro y dentro de él los colores nacionales bordados con hilo de seda; en el centro un ancla de cepo bordada con hilo de seda amarillo y en la parte superior, con letras bordadas con el mismo hilo, la inscripción CAPITANIA DE PUERTO y en la parte inferior las iniciales "A.R.M." (agente de resguardo marítimo).
+El escudo de la gorra y chanchomón para el Jefe del Resguardo Marítimo, será un óvalo rígido, forrado de paño negro de 7.5 centímetros de alto por 7 centímetros de ancho, bordado sobre el mismo al centro del escudo de la corporación de 3.5 centímetros de alto por 3 centímetros de ancho, el cual llevará fondo de color azul rey, caña de color oro, República Mexicana color plata, el escudo irá dentro de una rama de laurel a la izquierda y una rama de sargazo a la derecha, cruzadas y bordadas en color plata.
+
+El escudo de la gorra para el demás personal del Resguardo Marítimo, será el escudo de la corporación, metálico esmaltado, con el fondo azul rey, caña color dorado en relieve, República Mexicana, filos y letras color plateado, llevará un tornillo con tuerca para fijarse a la misma, sus dimensiones serán de 7 centímetros de alto por 6 centímetros de ancho.
 
 ###### ARTICULO 69.
 
@@ -1358,6 +1466,30 @@ Cuando se use el uniforme beige sin saco el distintivo será metálico en los mi
 d).- Para la carrera de médico, una antorcha de hilo de oro con dos serpientes circundando la antorcha y la flama de ésta representada con hilo de color rojo, sobre un ancla bordada en hilo de plata de tres y medio centímetros de alto por centímetro y medio de ancho, sobre paño negro. Este distintivo irá colocado en la parte media de la manga del brazo izquierdo.
 
 Cuando se use el uniforme beige sin saco el distintivo será metálico en los mismos colores y se colocará del lado izquierdo del cuello de la camisola.
+
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
+
+ARTICULO 86 BIS.- El personal del Resguardo Marítimo, usará los siguientes distintivos:
+
+a).- Para el Jefe del Resguardo Marítimo, una caña de ocho cabillas en hilo de plata de 2 centímetros de diámetro, rodeada por una rama de laurel a la izquierda, una rama de sargazo a la derecha, cruzadas y formando semicírculo de 3.5 centímetros de diámetro, bordados en hilo de plata sobre un círculo de paño negro de 4.5 centímetros de diámetro. Este distintivo irá colocado en la parte media del brazo izquierdo.
+
+Para las palas será similar al descrito anteriormente e irá colocado en el extremo izquierdo.
+
+El distintivo para el cuello metálico de color plateado de las mismas características que el anterior, siendo la caña de 12 milímetros de diámetro rodeada por una rama de laurel a la izquierda y una rama de sargazo a la derecha, cruzadas y formando un semicírculo de 3.5 centímetros de diámetro.
+
+b).- Para el demás personal a excepción de los patrones y motoristas será una caña de 2.5 centímetros de diámetro, para usarse en las palas y en el cuello de la camisa.
+
+c).- Patrones, un ancla de cepo metálica plateada, de 3.3 centímetros de alto por 2.3 centímetros de ancho.
+
+d).- Motoristas, una propela de tres aspas plateada de 2.5 centímetros de diámetro.
+
+e).- El sector será el escudo de la Corporación, de tela bordado en hilo de material lavable, fino y resistente a la decoloración por exposición al medio ambiente, de 10.5 centímetros de alto por 8 de ancho, fondo color azul rey, caña dorada, República Mexicana, letras y filos color plata.
+
+f).- El sector de región y destacamento, será de tela fina lavable y resistente a la decoloración por exposición al medio ambiente; fondo color azul rey, filos, letras y números bordados en hilo de seda color plata de 5.5 centímetros de diámetro, para usarse en la parte media de la manga del brazo derecho.
+
+g).- Gafetes de identificación, serán un rectángulo metálico o pasta color negro de 9 centímetros de largo por 1.5 centímetros de ancho, con letras blancas de tipo molde de imprenta; la inicial del nombre o nombres, el primer apellido completo y la inicial del segundo apellido, en la parte inferior de rectángulo llevará otro de 6 centímetros de largo por 5 milímetros de ancho en color negro y con letras blancas, llevará el grado que ostenta, que portará en la parte superior de la bolsa derecha de la camisa.
+
+h).- Gafetes de la Corporación para el Jefe del Resguardo Marítimo, Jefes de Región y Comandantes de Destacamento, serán metálicos esmaltados en color azul rey de las mismas dimensiones que en el anterior, en la parte superior del rectángulo llevará una caña color dorado en relieve de dos centímetros de diámetro y con letras plateadas de tipo de molde de imprenta el nombre de la corporación, en la parte inferior con letras plateadas llevará la descripción de JEFATURA, JEFE DE REGION O COMANDANTE DE DESTACAMENTO, se portará en la parte superior de la bolsa izquierda de la camisa.
 
 ###### ARTICULO 87.
 
@@ -1465,11 +1597,13 @@ d).- Fornitura de plástico blanco de gala, sera igual a la descrita en el incis
 
 PARA LOS AGENTES DE RESGUARDO MARITIMO
 
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
+
 ###### ARTICULO 96.
 
-El correaje para los agentes de resguardo marítimo será:
+El correaje para los elementos del Resguardo Marítimo será:
 
-a).- Fornitura de cuero sillero de cinco fierros de color negro, compuesto de cinturón de cinco centímetros de ancho, con hebilla dorada, funda para revólver calibre 38 especial, dos portacartuchos de seis cartuchos cada uno, del mismo material, con herraje latonado.
+Fornitura tipo marino de piel fina de baqueta lisa o acabado de petatillo color negro. Con funda con cubierta, para revólver calibre, 38" especial, cañón 4", con porta-cartuchos de cartera, porta-esposas, porta-tolete y porta-silbato, hebilla de herraje color plateado. (Fornitura tipo americano).
 
 ### CAPITULO XIV. Bandas de Guerra
 
@@ -1537,6 +1671,12 @@ b).- En cada cara, llevará bordado en su parte central en hilo de seda, el embl
 
 c).- Las astas serán similares a lo estipulado en el inciso c) del artículo 101.
 
+> <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 1988)</small>
+
+ARTICULO 103 BIS.- El guión para el Resguardo Marítimo será igual al descrito en el artículo 103, con la siguiente modificación:
+
+En cada cara llevará en su parte central bordado en hilo de seda el escudo de la corporación y con hilo plateado la leyenda Resguardo Marítimo.
+
 ### CAPITULO XVI. Diversos
 
 ###### ARTICULO 104.
@@ -1598,3 +1738,9 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 Este Reglamento deroga el Reglamento de Uniformes y Divisas para la Marina Mercante Nacional, publicado en el “Diario Oficial" de la Federación el día 15 de octubre de 1941, y demás disposiciones que al respecto se le opongan.
 
 Dado en la residencia del Poder Ejecutivo Federal, a los doce días del mes de mayo de mil novecientos ochenta.- José López Portillo.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Emilio Mújica Montoya.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE SEPTIEMBRE DE 1988.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
