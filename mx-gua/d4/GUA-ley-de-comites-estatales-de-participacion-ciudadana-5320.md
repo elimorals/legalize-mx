@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-comites-estatales-de-participacion-ciudadana-5320"
 country: "mx"
 rank: "ley"
 publication_date: "1989-07-28"
-last_updated: "1989-07-28"
+last_updated: "2004-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE COMITES ESTATALES DE PARTICIPACION CIUDADANA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO PRIMERO DEL DECRETO NUMERO 112, PUBLICADO EN EL PERIODICO OFICIAL EL 27 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 28 de julio de 1989.
 
@@ -336,3 +338,9 @@ El Secretario de Desarrollo Urbano y Obras Públicas,
 ING. ENRIQUE GOMEZ POSTLETHWAITE.
 
 (Rúbricas)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE DICIEMBRE DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor a los 90 noventa días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
