@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1989-08-11"
+last_updated: "1990-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1990.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -437,13 +437,13 @@ VI. Ratificar los arreglos concertados entre las Municipalidades con motivo de l
 
 VII. Crear nuevas Municipalidades dentro de los límites de las ya existentes, siendo necesario para el efecto:
 
-A). Que la fracción o fracciones que pretendan erigirse en Municipalidad, cuenten con una población cuando menos, de TREINTA MIL HABITANTES, según el último censo del Estado, y tomando en cuenta el asentimiento de la mayoría de sus ciudadanos.
+(A). Que la fracción o fracciones que pretendan erigirse en Municipalidad, cuenten con una población cuando menos, de TREINTA MIL HABITANTES, según el último censo del Estado, y tomando en cuenta el asentimiento de la mayoría de sus ciudadanos.
 
-(B.) Que se compruebe debidamente ante el Congreso, que tienen los elementos bastantes para proveer a su existencia política.
+(B). Que se compruebe debidamente ante el Congreso, que tienen los elementos bastantes para proveer a su existencia política.
 
-C). Que la elección de la nueva Municipalidad sea aprobada por el voto de las dos terceras partes de los Diputados.
+(C). Que la elección de la nueva Municipalidad sea aprobada por el voto de las dos terceras partes de los Diputados.
 
-(D.) Que la resolución favorable del Congreso sea ratificada por la mayoría de los Ayuntamientos del Estado previo examen de la copia del expediente que al efecto se les remita.
+(D). Que la resolución favorable del Congreso sea ratificada por la mayoría de los Ayuntamientos del Estado previo examen de la copia del expediente que al efecto se les remita.
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -971,7 +971,7 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 #### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1990)</small>
 
 #### SECCION II. DE LOS JUECES DE 1ª INSTANCIA Y MENORES
 
@@ -1011,7 +1011,7 @@ Los Magistrados y los Jueces percibirán una remuneración adecuada e irrenuncia
 
 ###### Art. 94.
 
-El Supremo Tribunal de Justicia se compondrá de 10 magistrados Propietarios y funcionará en pleno y dividido en tres salas, integrada cada una de éstas por 3 magistrados. Uno de los Magistrados, quien no integrará las Salas, será el Presidente del Supremo Tribunal. Habrá además 5 magistrados suplentes, quienes sólo integrarán el pleno o las salas cuando substituyan a un Magistrado Propietario.
+El Supremo Tribunal de Justicia se compondrá de once Magistrados Propietarios y funcionará en Pleno y dividido en cuatro Salas. Una de las Salas será unitaria, y las otras se integrarán por tres Magistrados cada una. Uno de los Magistrados, quien no integrará las Salas será el Presidente del Supremo Tribunal. Habrá además cinco Magistrados Suplentes, quienes sólo integrarán el Pleno o las Salas cuando substituyan a un Magistrado Propietario.
 
 Los Magistrados del Supremo Tribunal serán electos por el Congreso o por la Diputación Permanente, de una terna que le presente el Consejo de la Judicatura. La elección se hará en escrutinio secreto.
 
@@ -2382,3 +2382,15 @@ P.O. 11 DE AGOSTO DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "EL ESTADO DE SINALOA".
+
+P.O. 22 DE ENERO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+Mientras se instale la Cuarta Sala el Supremo Tribunal de Justicia seguirá compuesto de diez Magistrados Propietarios y continuará funcionando en Pleno y dividido en tres Salas como lo ha venido haciendo hasta la fecha.
+
+Los asuntos de la competencia familiar que al día de la instalación de la Cuarta Sala se encuentren en las otras Salas, continuará en éstas hasta su conclusión.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
