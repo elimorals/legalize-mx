@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "1999-12-24"
+last_updated: "2002-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -93,7 +93,13 @@ IX. Los síndicos e interventores de quiebras y de concursos;
 
 X. Los tutores, curadores, depositarios, albaceas y los interventores judiciales, en las funciones que les sean asignadas por la ley; y
 
-XI. Los demás a quienes las leyes les confieran ese carácter.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+XI.- Los mediadores y conciliadores, en los casos y términos establecidos en la ley;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+XII.- Los demás a quienes las leyes les confieran este carácter.
 
 ###### Artículo 6.
 
@@ -381,9 +387,7 @@ Para la presidencia y el pleno del tribunal habrá un secretario general de acue
 
 Para ser secretario general de acuerdos, se necesitan los mismos requisitos que exige la Constitución Política del Estado para ser juez de primera instancia.
 
-### CAPITULO TERCERO
-
-Del Presidente del Tribunal Superior de Justicia.
+### CAPITULO TERCERO. Del Presidente del Tribunal Superior de Justicia
 
 (REFORMADO, P.O. 24 DE DICIEMBRE DE 1999) (F. DE E., P.O. 5 DE ENERO DE 2000)
 
@@ -625,7 +629,13 @@ XXVII. Pedir al pleno del Tribunal Superior de Justicia la información y opinio
 
 XXVIII. Solicitar de los magistrados del pleno del Tribunal Superior de Justicia su colaboración para el mejor desempeño de sus funciones de vigilancia; y
 
-XXIX. Las demás que le confieran esta ley y otros ordenamientos legales.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+XXIX.- Practicar visitas de supervisión al Centro de Mediación y Conciliación;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+XXX.- Las demás que le confiere esta ley y otros ordenamientos.
 
 ###### Artículo 64.
 
@@ -1135,6 +1145,26 @@ V. Retardar indebidamente las notificaciones, emplazamientos, embargos o diligen
 
 VI. No cumplir con los términos señalados en los ordenamientos legales.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 116 Bis.
+
+Son faltas administrativas de los mediadores y conciliadores, las siguientes:
+
+I.- Revelar los informes, datos, comentarios, opiniones, conversaciones y acuerdos de las partes de que tengan conocimiento con motivo del trámite de mediación o conciliación en el que intervengan;
+
+II.- Violar los principios de imparcialidad, neutralidad, confidencialidad y respeto a las partes en los asuntos en los que intervengan;
+
+III.- Tratar con descortesía a los litigantes, abogados patronos y al público;
+
+IV.- Consumir alimentos o realizar compra o ventas en el interior de la oficina en el horario de trabajo;
+
+V.- No concurrir en las horas reglamentarias al desempeño de sus labores y no asistir puntualmente a la celebración de ceremonias o actos oficiales del Poder Judicial o cursos de capacitación, congresos, conferencias o reuniones de trabajo;
+
+VI.- Incumplir las instrucciones de sus superiores jerárquicos relacionadas con las funciones del Centro de Mediación y Conciliación;
+
+VII.- Incumplir con las obligaciones inherentes a su cargo.
+
 ###### Artículo 117.
 
 Son faltas administrativas de los demás servidores públicos del Poder Judicial, las acciones u omisiones siguientes:
@@ -1445,7 +1475,7 @@ III. El Consejo de la Judicatura ordenará la práctica de las auditorías inter
 
 Los productos y los rendimientos del fondo auxiliar, se aplicarán a los siguientes conceptos:
 
-I. Adquisición, construcción o remodelación de inmuebles, para el establecimiento de salas, juzgados y oficinas del tribunal, no consideradas en el presupuesto del Poder Judicial;
+I. Adquisición, construcción o remodelación de inmuebles, para el establecimiento de salas, juzgados u oficinas del tribunal, no consideradas en el presupuesto del Poder Judicial;
 
 II. Compra del mobiliario y equipo que se requiera en las salas, juzgados y oficinas, o de libros para la biblioteca del Poder Judicial;
 
@@ -1629,6 +1659,10 @@ IV. Conservar actualizados los registros estadísticos de los procesos, para pro
 
 ## TITULO DECIMO PRIMERO. De la Dirección de la Contraloría Interna del Tribunal Superior de Justicia
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 169.
 
 La Dirección de la Contraloría Interna del Tribunal Superior de Justicia, depende del Consejo de la Judicatura y tiene a su cargo la identificación e investigación de las responsabilidades establecidas en esta ley y contará con el personal siguiente:
@@ -1690,6 +1724,94 @@ Los emolumentos de los peritos serán cubiertos de acuerdo al presupuesto del Po
 ###### Artículo 177.
 
 Los peritos podrán ejercer libremente su profesión, pero estarán impedidos para dictaminar por nombramiento de alguna de las partes, en los tribunales del Poder Judicial del Estado.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+## TITULO DECIMO TERCERO. DEL CENTRO DE MEDIACION Y CONCILIACION
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 178.
+
+El Centro de Mediación y Conciliación es un órgano del Poder Judicial que tendrá a su cargo los servicios de mediación y conciliación extrajudicial.
+
+Prestará sus servicios de mediación y conciliación a la ciudadanía en general, sin ser requisito que medie un proceso judicial y contara con centros que determine el Consejo de la Judicatura, distribuidos estratégicamente para atender las necesidades de los habitantes del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 179.
+
+El Centro de Mediación y Conciliación tiene a su cargo la prestación de los siguientes servicios:
+
+I.- Evaluar las peticiones de los interesados para determinar el medio idóneo del tratamiento de sus diferencias, recabando la conformidad por escrito de las partes para la atención y búsqueda de soluciones correspondientes;
+
+II.- Instrumentar y operar servicios de mediación y conciliación extrajudicial, en los asuntos susceptibles de transacción cuyo conocimiento está encomendado por la ley a los tribunales del Poder Judicial;
+
+III.- Substanciar procedimientos de mediación y conciliación que pongan fin a las controversias judiciales en los términos de la fracción anterior;
+
+IV.- Modificar el medio elegido cuando de común acuerdo con las partes resulte conveniente emplear un método alterno distinto al inicialmente seleccionado;
+
+V.- Dar por terminado el procedimiento de mediación o conciliación cuando alguna de las partes lo solicite;
+
+VI.- Redactar los acuerdos o convenios a que hayan llegado las partes a través de la mediación o de la conciliación, los cuales deberán ser firmados por ellas y huella digital, autorizados por el mediador o conciliador que intervino y revisados por el Director del Centro de Mediación y conciliación, delegado o subdirector correspondiente;
+
+VII.- Brindar asesoría técnica en materia de mediación y conciliación a los oficiales calificadores y conciliadores de los Ayuntamientos.
+
+VIII.- Las demás que establezcan los ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 180.
+
+El Centro de Mediación y Conciliación desarrollará sus funciones conforme al Reglamento del Centro de Mediación y Conciliación, conforme a los manuales de organización, de procedimientos y demás disposiciones que emita el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 181.
+
+El Centro de Mediación y Conciliación dependerá del Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 182.
+
+El Centro de Mediación y Conciliación estará a cargo de un Director designado por el Consejo de la Judicatura y contará con el personal que se autorice.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 183.
+
+El Director del Centro de Mediación y Conciliación deberá reunir los siguientes requisitos:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II.- Tener cuando menos 35 años el día de la designación;
+
+III.- Ser licenciado en derecho y tener estudios en la materia de mediación y conciliación;
+
+IV.- Aprobar el curso y concurso de oposición que realice el Instituto de Capacitación y Especialización Judicial en materia de mediación y conciliación;
+
+V.- Ser de reconocida buena conducta y solvencia moral;
+
+VI.- No haber sido condenado por delito intencional.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 184.
+
+Para ser mediador o conciliador se debe reunir los mismos requisitos que se establecen para el Director del Centro de Mediación y Conciliación, con excepción de la edad, que será cuando menos de 30 años y la profesión, pudiendo ser licenciado en derecho, en psicología, en sociología, en antropología, en trabajo social o en comunicación.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 185.
+
+Los mediadores y conciliadores tendrán fe pública en todo lo relativo al desempeño de sus funciones, debiendo firmar junto con los interesados todo acuerdo o convenio.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 186.
+
+La sujeción a la mediación y conciliación son voluntarias.
 
 T R A N S I T O R I O S
 
@@ -1754,3 +1876,9 @@ TERCERO.- El Magistrado que se desempeña actualmente como Presidente del Tribun
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2000)</small>
 
 CUARTO.- El Ejecutivo del Estado, el Tribunal Superior de Justicia y/o el Consejo de la Judicatura, tomarán las medidas correspondientes y proveerán lo necesario en la esfera administrativa y jurisdiccional, para que a la brevedad posible queden debidamente organizados los nuevos Distritos Judiciales.
+
+P.O. 10 DE DICIEMBRE DE 2002
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
