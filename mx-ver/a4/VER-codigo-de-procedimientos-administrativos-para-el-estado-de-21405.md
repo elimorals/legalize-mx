@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2003-03-18"
+last_updated: "2003-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE ABRIL DE 2003.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -47,9 +47,11 @@ De Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Ll
 
 ## TÍTULO PRIMERO. PRINCIPIOS GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE ABRIL DE 2003)</small>
+
 ###### Artículo 1.
 
-Las disposiciones del presente Código tienen por objeto regular los actos y procedimientos de la Administración Pública estatal, del organismo autónomo responsable de la Fiscalización Superior en el Estado y el juicio contencioso administrativo ante el órgano jurisdiccional competente; así como establecer las bases generales de los actos y procedimientos administrativos en los municipios de la entidad.
+Las disposiciones del presente Código tienen por objeto regular los actos y procedimientos de la Administración Pública estatal y el juicio contencioso administrativo ante el órgano jurisdiccional competente; así como establecer las bases generales de los actos y procedimientos administrativos en los municipios del Estado.
 
 Los procedimientos administrativos regulados por leyes especiales se regirán por éstas en lo que no se opongan al presente Código y, en lo no previsto en dichas leyes, se aplicarán las disposiciones de este ordenamiento.
 
@@ -65,7 +67,9 @@ II. Administración Pública: dependencias, entidades, órganos y servidores pú
 
 III. Anulabilidad: reconocimiento de la Autoridad, en el sentido de que un acto administrativo no cumple con los requisitos de validez que establecen este Código y demás leyes del Estado, subsanable por la propia autoridad al cumplirse dichos requisitos;
 
-IV. Autoridad: órgano o servidores públicos, estatales o municipales, así como las personas físicas o morales de carácter privado que realicen funciones derivadas de la concesión de un servicio público, que con fundamento en la ley emiten actos administrativos que afectan la esfera jurídica del gobernado, susceptibles de exigirse mediante el uso de la fuerza pública o bien a través de otras autoridades. También tendrá este carácter el Órgano de Fiscalización Superior del Estado;
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+IV. Autoridad: servidores públicos, estatales o municipales, así como las personas físicas o morales de carácter privado que realicen funciones derivadas de la concesión de un servicio público, que con fundamento en la ley emiten actos administrativos que afectan la esfera jurídica del gobernado, susceptibles de exigirse mediante el uso de la fuerza pública o bien a través de otras autoridades;
 
 > <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
@@ -93,9 +97,7 @@ XIV. Nulidad: expresión, manifestación o reconocimiento emanados del órgano c
 
 XV. Oficina Ejecutora: autoridad fiscal estatal o municipal que, de conformidad con las normas aplicables, tiene atribuciones para ordenar y substanciar el procedimiento administrativo de ejecución;
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
-
-XVI. Órgano: autoridad encargada de la función de Fiscalización Superior en el Estado de Veracruz de Ignacio de la Llave;
+XVI. (DEROGADA, G.O. 22 DE ABRIL DE 2003)
 
 XVII. Procedimiento Administrativo: conjunto de actos y formalidades jurídicas realizados conforme a lo dispuesto por este Código, tendentes a producir un acto de la Administración Pública;
 
@@ -103,7 +105,9 @@ XVIII. Resolución Administrativa: acto administrativo que pone fin a un procedi
 
 XIX. Revocación: acto administrativo emitido por la autoridad por virtud del cual se retira y extingue a otro que nació válido y eficaz, que tendrá efectos sólo para el futuro, el cual es emitido por causas supervenientes de oportunidad e interés público previstos en las normas que modifican las condiciones iniciales en que fue expedido el original;
 
-XX. Servidores Públicos: las personas que desempeñan un empleo, cargo o comisión de cualquier naturaleza en las dependencias y entidades de la Administración Pública estatal o municipal, o en el Órgano de Fiscalización Superior del Estado; y
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+XX. Servidores Públicos: las personas que desempeñan un empleo, cargo o comisión de cualquier naturaleza en las dependencias y entidades de la Administración Pública estatal o municipal; y
 
 > <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
@@ -133,7 +137,9 @@ VI. Las actuaciones serán públicas, salvo que la moral o el interés general e
 
 VII. Serán gratuitos, sin que pueda condenarse al pago de gastos y costas; y
 
-VIII. Las autoridades, el Órgano, el Tribunal y las partes interesadas se conducirán en las promociones y actuaciones, con honradez, transparencia y respeto.
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+VIII. Las autoridades, el Tribunal y las partes interesadas se conducirán en las promociones y actuaciones, con honradez, transparencia y respeto.
 
 ## TÍTULO SEGUNDO. DE LAS RELACIONES ENTRE LA ADMINISTRACIÓN PÚBLICA Y LOS PARTICULARES
 
@@ -235,7 +241,9 @@ Se exceptúan de lo dispuesto en el artículo anterior, los siguientes actos adm
 
 I. Los que otorguen un beneficio, concesión, licencia, permiso o autorización al interesado, en cuyo caso su cumplimiento será exigible a partir de la fecha de su emisión, de la certificación en caso de afirmativa ficta, o cuando señale fecha de inicio o de vigencia; y
 
-II. Los que ordenen la inspección, investigación o vigilancia en los términos de este Código y demás normas aplicables. En este supuesto, dichos actos serán exigibles desde la fecha en que los expida la Administración Pública o el Órgano.
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+II. Los que ordenen la inspección, investigación o vigilancia en los términos de este Código y demás normas aplicables. En este supuesto, dichos actos serán exigibles desde la fecha en que los expida la Administración Pública.
 
 ###### Artículo 12.
 
@@ -243,7 +251,9 @@ Los actos administrativos, tales como reglamentos, decretos, acuerdos, circulare
 
 Los actos administrativos de carácter individual, cuando lo prevean los ordenamientos aplicables, deberán publicarse en el referido órgano informativo oficial.
 
-Los manuales, instructivos y formatos que, para su organización y funcionamiento expida la Administración Pública estatal y el Órgano, se publicarán en la Gaceta Oficial del estado previamente a su aplicación.
+> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+Los manuales, instructivos y formatos que, para su organización y funcionamiento expida la Administración Pública estatal, se publicarán en la Gaceta Oficial del estado previamente a su aplicación.
 
 Los bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, expedidos por los ayuntamientos en sus respectivas jurisdicciones, surtirán sus efectos tres días después de su publicación en la Tabla de Avisos del Palacio Municipal.
 
@@ -407,11 +417,13 @@ I. Personalmente a los interesados y por oficio a las autoridades, en su caso, c
 
 II. Por edicto que se publique por una sola vez en la Gaceta Oficial del estado, y en uno de los periódicos de mayor circulación estatal o nacional, tratándose de emplazamientos, citaciones, requerimientos y demás resoluciones o actos administrativos que puedan impugnarse, cuando el interesado a quien deba notificarse haya desaparecido, se ignore su domicilio, se encuentre fuera del territorio del Estado, sin haber nombrado representante legal, o hubiere fallecido y no se conozca al albacea de la sucesión a quien deba notificarse. En este caso, las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que se haya efectuado su publicación por edicto;
 
-> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
 
-III. Por estrados ubicados en las oficinas de la administración pública, del Órgano o del Tribunal abiertas al público, cuando así lo señale la parte interesada o se trate de actos distintos a emplazamientos, citaciones, requerimientos y demás resoluciones o actos que puedan ser impugnados, fijando durante tres días consecutivos el documento que se notifica. En estos casos, las notificaciones surtirán efectos el día en que se hubiere fijado por última vez el documento; y
+III. Por estrados ubicados en las oficinas de la administración pública o del Tribunal abiertas al público, cuando así lo señale la parte interesada o se trate de actos distintos a emplazamientos, citaciones, requerimientos y demás resoluciones o actos que puedan ser impugnados, fijando durante tres días consecutivos el documento que se notifica. En estos casos, las notificaciones surtirán efectos el día en que se hubiere fijado por última vez el documento; y
 
-IV. En las oficinas de la administración pública, del Organo o del Tribunal, si se presentan los interesados a quienes deba notificarse, incluyendo las que deban practicarse personalmente o por oficio.
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+IV. En las oficinas de la administración pública o del Tribunal, si se presentan los interesados a quienes deba notificarse, incluyendo las que deban practicarse personalmente o por oficio.
 
 > <small>(ADICIONADO, G.O. 6 DE ENERO DE 2003)</small>
 
@@ -951,13 +963,17 @@ Al hacer la aclaración, las autoridades o el Tribunal, no podrán modificar los
 
 ### CAPÍTULO I
 
+> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
+
 ###### Artículo 121.
 
-Las disposiciones de este Código se aplicarán a los actos que emitan la Administración Pública o el Órgano dentro del procedimiento administrativo y que produzcan efectos en la esfera jurídica de los particulares.
+Las disposiciones de este Código se aplicarán a los actos que emita la Administración Pública dentro del procedimiento administrativo y que produzcan efectos en la esfera jurídica de los particulares.
+
+> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
 
 ###### Artículo 122.
 
-El procedimiento administrativo podrá iniciarse de oficio o a petición del interesado y tenderá a asegurar el cumplimiento de los fines de la Administración Pública o del Órgano, así como a garantizar los derechos e intereses legítimos de los particulares, de conformidad con lo dispuesto en las normas aplicables.
+El procedimiento administrativo podrá iniciarse de oficio o a petición del interesado y tenderá a asegurar el cumplimiento de los fines de la Administración Pública, así como a garantizar los derechos e intereses legítimos de los particulares, de conformidad con lo dispuesto en las normas aplicables.
 
 ###### Artículo 123.
 
@@ -2115,23 +2131,33 @@ Para resolver sobre la preferencia de derechos, se estará a lo dispuesto por lo
 
 ### CAPÍTULO IV. DEL PROCEDIMIENTO ADMINISTRATIVO PARA EL FINCAMIENTO DE RESPONSABILIDADES A LOS SERVIDORES PÚBLICOS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE ABRIL DE 2003)</small>
+
 ###### Artículo 251.
 
-Las autoridades, a través de sus unidades de control interno, o el Órgano, serán competentes para la determinación de responsabilidades a los servidores públicos y, en su caso, para el fincamiento de las indemnizaciones y sanciones administrativas que correspondan; así como para promover ante las autoridades competentes el fincamiento de otras responsabilidades y presentar las denuncias y querellas penales, en términos de las normas aplicables.
+Las autoridades, a través de sus unidades de control interno, serán competentes para la determinación de responsabilidades a los servidores públicos y, en su caso, para el fincamiento de las indemnizaciones y sanciones administrativas que correspondan; así como para promover ante las autoridades competentes el fincamiento de otras responsabilidades y presentar las denuncias y querellas penales, en términos de las normas aplicables.
 
-Para efectos de lo señalado en el párrafo anterior, si de la revisión y fiscalización superior de las Cuentas Públicas que apruebe el Congreso del Estado, aparecieran irregularidades que permitan presumir la existencia de hechos o conductas que produzcan daños y perjuicios en contra de las Haciendas Públicas estatal o municipales, al patrimonio de las entidades paraestatales o al de los organismos autónomos de Estado, el Órgano procederá de inmediato a iniciar las investigaciones del caso, a la determinación de las responsabilidades y al fincamiento de las indemnizaciones y sanciones correspondientes.
+> <small>N. DE E. ES DE OBSERVARSE QUE EN EL EXTRACTO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 22 DE ABRIL DE 2003, EL LEGISLADOR ES OMISO AL SEÑALAR EL ESTADO QUE GUARDARA EL PARRAFO SEGUNDO DEL PRESENTE ARTICULO, SIN EMBARGO, DE LA LECTURA DE ESTE ULTIMO SE CONCLUYE QUE DICHO PARRAFO FUE DEROGADO, LO QUE SE HACE DEL CONOCIMIENTO DEL USUARIO.</small>
 
-Cuando se actualice alguno de los supuestos previstos en los dos párrafos anteriores, las unidades de control interno de las autoridades o el Órgano aplicarán el siguiente procedimiento:
+> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
 
-I. Se citará personalmente al presunto responsable a una audiencia en la sede de la autoridad o del Órgano, haciéndole saber los hechos u omisiones que se le imputan y que sean causa de responsabilidad en los términos de ley, señalando el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y formular alegatos, por sí o por medio de un defensor, apercibido que de no comparecer sin justa causa, se tendrá por precluído su derecho para ofrecer pruebas y formular alegatos, y se resolverá con los elementos que obren en el expediente respectivo. Entre la fecha de citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días;
+Cuando se actualice alguno de los supuestos previstos en el párrafo anterior, las unidades de control interno de las autoridades aplicarán el siguiente procedimiento:
+
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+I. Se citará personalmente al presunto responsable a una audiencia en la sede de la autoridad, haciéndole saber los hechos u omisiones que se le imputan y que sean causa de responsabilidad en los términos de ley, señalando el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y formular alegatos, por sí o por medio de un defensor; apercibido que de no comparecer sin justa causa, se tendrá por precluido su derecho para ofrecer pruebas y formular alegatos, y se resolverá con los elementos que obren en el expediente respectivo. Entre la fecha de citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días;
 
 > <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
 
 II. Celebrada la audiencia, se emitirá resolución dentro de los quince días siguientes, en la que se determinará la existencia o inexistencia de la responsabilidad, y se fincará, en su caso, la indemnización y sanciones correspondientes, y se notificará al responsable y al superior jerárquico dicha resolución para los efectos que procedan; cuando la resolución constituya, además, un crédito fiscal, se remitirá un tanto autógrafo de la misma a la oficina ejecutora que corresponda, para el efecto de que si en un plazo de quince días siguientes a la fecha en que surta efectos la notificación, éste no es cubierto, o no es impugnado y debidamente garantizado en términos de las normas aplicables, se proceda a su recuperación mediante el Procedimiento Administrativo de Ejecución;
 
-III. Si celebrada la audiencia, los órganos de control interno de las autoridades o el Órgano, no encontraren elementos suficientes para fincar la responsabilidad, emitirán una resolución en ese sentido, en el plazo señalado en la fracción anterior; y
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
 
-IV. En cualquier momento, previo o posterior al citatorio al que se refiere la fracción I del presente artículo, los órganos de control interno de las autoridades o el Órgano, podrán acordar como medida precautoria la suspensión temporal de los presuntos responsables, en sus cargos, empleos o comisiones, si a su juicio conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. El acuerdo que al efecto se emita hará constar expresamente esta salvedad.
+III. Si celebrada la audiencia, los órganos de control interno de las autoridades no encontraren elementos suficientes para fincar la responsabilidad, emitirán una resolución en ese sentido, en el plazo señalado en la fracción anterior; y
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE ABRIL DE 2003)</small>
+
+IV. En cualquier momento, previo o posterior al citatorio al que se refiere la fracción I del presente artículo, los órganos de control interno de las autoridades podrán acordar como medida precautoria la suspensión temporal de los presuntos responsables, en sus cargos, empleos o comisiones, si a su juicio conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. El acuerdo que al efecto se emita hará constar expresamente esta salvedad.
 
 La suspensión temporal a que se refiere esta fracción, suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo a comisión, y regirá desde el momento en que sea notificada al interesado. La suspensión cesará cuando así lo resuelva fundada y motivadamente la autoridad que la haya acordado, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo.
 
@@ -2167,7 +2193,9 @@ La ejecución de las sanciones administrativas impuestas por resolución firme s
 
 En el caso de los servidores públicos de base, la suspensión y la destitución se sujetarán a lo previsto en la Ley de la materia.
 
-El Órgano, para efectos de lo dispuesto en el segundo párrafo del artículo 251 de este Código, fincará las indemnizaciones y sanciones correspondientes en un período no mayor de un año, contado a partir de que se inicien las investigaciones.
+> <small>N. DE E. ES DE OBSERVARSE QUE EN EL EXTRACTO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 22 DE ABRIL DE 2003, EL LEGISLADOR ES OMISO AL SEÑALAR EL ESTADO QUE GUARDARA EL PARRAFO TERCERO DEL PRESENTE ARTICULO, SIN EMBARGO, DE LA LECTURA DE ESTE ULTIMO SE CONCLUYE QUE DICHO PARRAFO FUE DEROGADO, LO QUE SE HACE DEL CONOCIMIENTO DEL USUARIO.</small>
+
+> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
 
 Las sanciones económicas que se impongan en las resoluciones dictadas en el procedimiento a que se refiere este Capítulo, constituirán créditos fiscales y se harán efectivas mediante el procedimiento administrativo de ejecución.
 
@@ -2273,7 +2301,9 @@ III. Que hayan sido impugnados ante el Tribunal;
 
 IV. En caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 44 de este Código;
 
-V. Que sean revocados por la autoridad o el Órgano;
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+V. Que sean revocados por la autoridad;
 
 VI. Que sean materia de otro recurso que se encuentre pendiente de resolución y que haya sido promovido por el mismo recurrente por el propio acto impugnado;
 
@@ -3002,3 +3032,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 22 DE ABRIL DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado, excepto en los casos de fiscalización anteriores al ejercicio fiscal del año 2002.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
