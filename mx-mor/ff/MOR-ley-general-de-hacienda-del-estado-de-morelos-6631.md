@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1992-12-16"
+last_updated: "1995-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -53,1503 +53,755 @@ En consecuencia, ésta H. Legislatura ha tenido a bien expedir la siguiente:
 
 LEY GENERAL DE HACIENDA 1984
 
+> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
 # LIBRO PRIMERO. DE LA RELACION TRIBUTARIA
+
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ## TITULO PRIMERO
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1o.
 
-La Hacienda Pública del Estado de Morelos para cubrir el Gasto Público y demás obligaciones a cargo del Gobierno de la entidad percibirá en cada ejercicio fiscal los impuestos, derechos, productos, aprovechamientos, contribuciones especiales, participaciones e ingresos federales e ingresos extraordinarios, que se regularán por esta Ley y de las demás Leyes Fiscales Estatales, la Ley de Coordinación Fiscal y los convenios de coordinación celebrados o que celebre el ejecutivo del Estado de la Federación y los municipios.
-
-La Ley de Ingresos del Estado establecerá los impuestos, derechos, productos, aprovechamientos, contribuciones especiales, participaciones en ingresos federales e ingresos extraordinarios que anualmente deberán recaudarse o percibirse en el ejercicio fiscal que corresponda.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 2o.
 
-Los ingresos de la Hacienda Pública del Estado de Morelos se clasifican en ordinarios y extraordinarios.
-
-I.- Son ingresos ordinarios.- Los impuestos, derechos, productos, aprovechamientos, contribuciones especiales y participaciones en ingresos federales, los cuales se regularán por la presente Ley y demás Leyes Fiscales respectivas; supletoriamente se aplicará el derecho común.
-
-Los productos se sujetarán a las disposiciones indicadas y a lo que prevengan los contratos, convenios o concesiones correspondientes.
-
-Las participaciones se percibirán en los términos previstos por la Ley Federal de coordinación Fiscal y por los convenios de coordinación fiscal respectivos que se hayan suscrito o que se suscriban con la federación.
-
-II.- Son ingresos extraordinarios.- Los empréstitos, impuestos y derechos extraordinarios, expropiaciones, aportaciones del Gobierno Federal y de Terceros a Programas de Desarrollo, subsidios y apoyos, y aportaciones por cooperación a obras públicas derivadas de contribuciones causadas en ejercicios anteriores pendientes de liquidación o pago.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 3o.
 
-Los impuestos son prestaciones en dinero o en especie que la ley fija con carácter general y obligatorio a cargo de las personas físicas y morales cuya situación coincida con la hipótesis que la ley señala como hecho generador del crédito fiscal.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 4o.
 
-Las participaciones son los ingresos que el Estado recibe provenientes de los ingresos federales, conforme a la ley de coordinación fiscal y a los convenios de coordinación respectivos que se hayan suscrito o se suscriban para tales efectos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 5o.
 
-Son contribuciones especiales las prestaciones que fija la Ley por el beneficio específico que experimenta el obligado con motivo de la ejecución de una obra pública o prestación de un servicio.
-
-Será contribución especial, los pagos que realicen los Ayuntamientos al Estado con motivo de los convenios de colaboración administrativa e impositiva para que éste último realice la función recaudatoria de contribuciones municipales en los términos de dichos convenios.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 6o.
 
-Los derechos son las contraprestaciones establecidas en la ley y a cargo de las personas que reciban de manera directa los servicios que el Estado presta en sus funciones de derecho público.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
-
-ARTICULO 6o BIS.- Los productos son contraprestaciones por los servicios que presta el Estado en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de sus bienes.
+ARTICULO 6o BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 7o.
 
-Son aprovechamientos los recargos, gastos de ejecución, multas y demás ingresos de derecho público no clasificables como impuestos, derechos o productos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 8o.
 
-Las Leyes y demás disposiciones tributarias o fiscales de carácter general entrarán en vigor el décimo quinto día siguiente al de su publicación en el Periódico Oficial del Estado, salvo que en ellas se establezca una vigencia distinta con tal de que la publicación haya sido anterior.
-
-En los plazos sobre la vigencia a que este Artículo se refiere, se computarán los días inhábiles.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 9o.
 
-No podrá exigirse pago alguno que no se encuentre previsto en este Ordenamiento, en la Ley de Ingresos del Estado o en una Ley especial sin que haya sido previamente formulada y notificada su liquidación al causante.
-
-Cuanto (sic) el Congreso Local establezca un nuevo gravamen en este Ordenamiento, en la Ley de Ingresos del Estado, o en la Ley especial, para que entre en vigor en el Ejercicio en el que se aprueba o en el siguiente no será necesario que se incluya en la Ley de Ingresos correspondiente al ejercicio en que entra en vigor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 10.
 
-La aplicación de las Leyes y demás disposiciones tributarias o fiscales estarán a cargo del Poder Ejecutivo Estatal, quien ejercerá estas facultades por conducto de la Secretaría de Finanzas del propio Estado.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 11.
 
-Las disposiciones fiscales que establecen cargas a los particulares, las que señalan excepciones a las mismas y las que fijan infracciones y sanciones, son de aplicación estricta, se considera que establecen cargas a los particulares, cuando las normas imponen obligaciones a los mismos, en la forma y términos previstos en dichas disposiciones.
-
-En los demás ordenamientos fiscales de carácter general, cuando las palabras tengan más de una acepción se estará en primer término a la interpretación de carácter gramatical y a falta de esta o cuando la norma fiscal no sea expresa, a la de carácter técnico jurídico.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 12.
 
-La ignorancia de las leyes, reglamentos, circulares y demás disposiciones fiscales debidamente sancionadas y publicadas, no servirá de excusa ni aprovechará a nadie; sin embargo, el gobernador y el secretario de Programación y Finanzas en aquellos casos de personas de escasa instrucción o de precaria situación económica podrán conceder a las mismas un plazo de gracia para que den cumplimiento a las disposiciones fiscales, así como eximirlas de las sanciones en que hubieran incurrido.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 13.
 
-Cuando en este ordenamiento se tomen como base para el pago de los créditos a cargo de los sujetos pasivos los ingresos de estos, se entiende que quedan comprendidos los que se perciban en efectivo como en especie, salvo que se exprese lo contrario.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-Cuando se utilice la palabra "salario" deberá entenderse que corresponde al salario mínimo general del área geográfica en la que está comprendido el Estado de Morelos.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ## TITULO SEGUNDO. DE LAS OBLIGACIONES TRIBUTARIAS
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO PRIMERO. DE LOS SUJETOS Y DEL DOMICILIO
 
 ###### ARTICULO 14.
 
-Sujeto pasivo de un crédito fiscal es la persona física o moral, mexicana o extranjera que, de acuerdo con las Leyes, está obligada al pago de una prestación determinada al fisco estatal.
-
-También es sujeto pasivo cualquier agrupación que constituye una unidad económica diversa de la de sus miembros. Para la aplicación de las leyes fiscales, se asimilan estas Agrupaciones a las personas morales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 15.
 
-Son responsables solidariamente:
-
-I.- Quienes en los términos de las Leyes estén obligados al pago de la misma prestación fiscal;
-
-II.- Quienes manifiesten su voluntad de asumir responsabilidad solidaria;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-III.- Los copropietarios, los coposeedores o los participantes en derechos mancomunados, respecto de los créditos fiscales derivados del bien o derecho en común y hasta el monto del valor de éste. Por el excedente de los créditos fiscales cada uno quedará obligado en la proporción que le corresponda en el bien o derecho mancomunado;
-
-IV.- Las personas a quienes se imponga la obligación de retener o recaudar créditos fiscales a cargo de terceros;
-
-V.- Quienes deban recabar documentos en los que conste el pago si no cumplen con esta obligación;
-
-VI.- Los propietarios de negociaciones comerciales, industriales, agrícolas, ganaderas, pesqueras y mineras, créditos o concesiones respecto de las prestaciones fiscales que en cualquier tiempo se hubieran causado en relación con dichas negociaciones, créditos o concesiones, sin que la responsabilidad exceda del valor de los bienes, salvo que se demuestre, proceder fraudulento con el fiscal estatal, en cuyo caso su responsabilidad solidaria se establecerá hasta por el total del crédito fiscal más sus anexidades;
-
-VII.- Los legatarios y los donatarios a título particular respecto de los créditos fiscales que se hubieren causado en relación con los bienes legados o donados, hasta por el monto de éstos;
-
-VIII.- Los terceros que para garantizar obligaciones fiscales de otros, constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes, hasta por el valor de los dados en garantía, cuando así fuere pactado;
-
-IX.- Los funcionarios públicos y Notarios que autoricen algún acto jurídico o den trámite a algún documento, si no se cercioran de que se han cubierto los impuestos o derechos respectivos, o no den cumplimiento a las disposiciones correspondientes que regulan el pago del gravamen, y;
-
-X.- Los adquirentes de propiedades en fraccionamientos regulares;
-
-XI.- Las demás personas que señalen las Leyes.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 16.
 
-La federación, las entidades federativas y los municipios de la entidad están exentos del pago de impuestos contribuciones especiales, salvo que su actividad no corresponda a sus funciones de derecho público.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 17.
 
-Para los efectos fiscales se consideran como domicilio de los sujetos pasivos o responsables solidarios el que establezcan las leyes tributarias y en su defecto los siguientes:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-I.- De las personas físicas:
-
-a).- El lugar donde se encuentre establecido el principal asiento de su negocio o actividad; y
-
-b).- A falta del anterior, su casa-habitación;
-
-c).- A falta de los dos anteriores, el lugar en que se hubiere realizado el hecho generador del crédito fiscal.
-
-II.- Tratándose de personas morales; unidades económicas o agrupaciones en general:
-
-a).- El lugar en que esté establecida su administración principal;
-
-b).- En defecto del indicado en el inciso anterior, el lugar en que se encuentre su principal establecimiento; y
-
-c).- A falta de los dos anteriores, el lugar en que se hubiere realizado el hecho generador del crédito fiscal.
-
-III.- Tratándose de personas físicas, morales, unidades económicas o agrupaciones en general, residentes o establecidos fuera de la Entidad que realicen actividades gravadas en el Estado de Morelos a través de terceros, cualquiera que sea el nombre con el que se les designe, se considerará como su domicilio el de esas terceras personas.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO SEGUNDO. DEL NACIMIENTO DE LAS PRESTACIONES Y DETERMINACION DE LOS CREDITOS FISCALES
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
-
 ###### ARTICULO 18.
 
-La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho que están previstas en las leyes fiscales.
-
-Las obligaciones fiscales se determinarán y liquidarán en su caso, conforme a las disposiciones vigentes en el momento de su nacimiento, pero le serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
-
-Para la determinación y pago de los impuestos, contribuciones, derechos y demás ingresos autorizados en la Ley, así como de sus accesorios, las cantidades correspondientes se ajustarán al múltiplo de cinco centavos más próximo, inferior o superior, según corresponda, en tratándose de pagos en efectivo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 19.
 
-La declaración de la existencia de prestaciones tributarias y su determinación en cantidad líquida lo harán los sujetos pasivos o responsables solidarios, o las autoridades, según lo determine este Ordenamiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 20.
 
-Cuando en atención a la naturaleza y características de las operaciones que realicen los sujetos pasivos no sea posible dentro de los procedimientos ordinarios precisar con exactitud el ingreso o actividad gravable, la Secretaría de Finanzas del Estado procederá en los términos de los Artículos 58 y 61 de esta Ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-En caso de oposición del causante, se estará a lo dispuesto en el Artículo 59 de esta Ley.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO TERCERO. DE LA EXTINCION DE LOS CREDITOS FISCALES
 
 ###### ARTICULO 21.
 
-El crédito fiscal es la prestación determinada en cantidad líquida y debe pagarse en la fecha o dentro del plazo señalado en las disposiciones respectivas.
-
-A falta de disposición expresa, el pago deberá hacerse dentro de los quince días naturales siguientes.
-
-I.- Al nacimiento de la prestación, si corresponde a los sujetos pasivos o responsables solidarios el determinar en cantidad líquida; y
-
-II.- A la fecha de la notificación de la liquidación si corresponde a la autoridad el formularla.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 22.
 
-La falta de pago de un crédito fiscal en la fecha o plazo establecido en las disposiciones respectivas, determina que el mismo sea exigible.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 23.
 
-El Secretario de Finanzas del Estado, podrá conceder prórroga para el pago de los créditos fiscales ó autorización para que sean cubiertos en parcialidades cuando se trate de situaciones excepcionales, casos en los cuales el término podrá ser hasta de tres años.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 24.
 
-En los casos a que se refiere el precepto anterior deberá garantizarse el crédito fiscal, salvo cuando, en relación con el monto del crédito fiscal, sea notoria la amplia solvencia del deudor o existan situaciones excepcionales que justifiquen la dispensa.
-
-Durante los plazos concedidos se causarán intereses conforme a la tasa que fije esta Ley, o de la que fije anualmente, la Ley de Ingresos del Estado, cualquiera que sea mayor de las dos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 25.
 
-Cesará la prórroga o la autorización para pagar en parcialidades y el crédito fiscal será inmediatamente exigible:
-
-I.- Cuando desaparezca o resulte insuficiente la garantía del crédito;
-
-II.- Cuando el deudor sea declarado en quiebra o solicite su liquidación judicial;
-
-III.- Cuando deje de cubrirse alguna de las parcialidades; y
-
-IV.- Cuando el interesado, durante la prórroga o la autorización, incurra en incumplimiento de pagos derivados de este Ordenamiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 26.
 
-Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán cubrirse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno.
-
-La tasa de los recargos será el doble de la que se fije conforme a lo dispuesto por el Artículo 24 de este Ordenamiento, debiendo causarse por cada mes o Fracción que transcurra a partir de la fecha de exigibilidad hasta que se efectúe el pago. Los recargos no excederán del 200% del importe del crédito fiscal de que se trate.
-
-Los créditos retenidos que no se enteren con puntualidad, causarán recargos que ascenderán hasta el 300% del importe del crédito fiscal de que se trate.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 27.
 
-El pago de los créditos fiscales deberán hacerse en efectivo, salvo que las disposiciones aplicables establezcan que se haga en especie.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 28.
 
-Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo excepcionalmente se aceptará como medio de pago los cheques de cuentas personales de los contribuyentes, pero la falta de pago a su presentación por la institución a cuyo cargo se hubiera librado, por causa imputable al librador, dará derecho a la Secretaría de Finanzas del Estado a exigir el pago del importe del mismo y una indemnización del 20% del importe del cheque, sin menoscabo del pago de los recargos correspondientes.
-
-La indemnización, el importe del cheque y los recargos se harán efectivos mediante el procedimiento administrativo de ejecución.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 29.
 
-Cuando el crédito fiscal esté constituido por diversos conceptos, los pagos que haga el deudor se aplicarán conforme al siguiente orden:
-
-I.- Los gastos de ejecución;
-
-II.- Los recargos y multas; y
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-III.- Los impuestos, contribuciones especiales y derechos que correspondan.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 30.
 
-Podrá hacerse el pago de créditos tributarios bajo protesto cuando la persona que lo haga lo entere con inconformidad e intente, en su oportunidad, los recursos o medios de defensa respectivos.
-
-Las autoridades, a solicitud del interesado expresada en el momento de hacer el pago, deberán hacer constar que el pago se hizo bajo protesto. A falta de esta constancia, bastará que el interesado, previa o simultáneamente al pago, exprese por escrito a la oficina receptora o a la Secretaría de Finanzas del Estado que el pago se efectuó bajo protesto.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 31.
 
-El protesto quedará sin efecto y el pago se considerará definitivo, desde la fecha en que se hizo el entero respectivo, cuando no se intenten los medios de defensa respectivos, o fueren rechazados, o sobreseídos, o cuando la resolución que cause estado reconozca la procedencia del pago.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 32.
 
-El fisco estatal estará obligado a devolver las cantidades que hubieren sido pagadas indebidamente, cuando el pago de lo indebido haya tenido su origen en una autodeterminación del sujeto pasivo y que éste formule la reclamación respectiva.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 33.
 
-Cuando el pago hubiese sido hecho bajo protesto como inconformidad de la resolución de la autoridad, que determine la existencia de un crédito fiscal, lo fije en cantidad líquida o de las bases para su liquidación; el derecho a la devolución nace cuando dicha resolución quede insubsistente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 34.
 
-Cuando el sujeto pasivo haya enterado cantidades derivadas de operaciones que no produjeron los ingresos que se gravaron o cuando se hayan enterado cantidades en exceso de las que legalmente se estaba obligando, y siempre que no haya habido repercusión o translación del crédito fiscal, tendrá derecho a la devolución de dichas cantidades.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 35.
 
-Para que se haga la devolución de cantidades pagadas indebidamente, será necesario.
-
-I.- Que se dicte acuerdo de la Secretaría de Finanzas del Estado;
-
-II.- Que el derecho a reclamar la devolución no se haya extinguido.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 36.
 
-Procede la compensación cuando tanto el Estado como el sujeto pasivo son acreedores y deudores recíprocos por la aplicación de un mismo gravamen y siempre que las deudas del primero sean líquidas y exigibles. La compensación deberá autorizarse por la Secretaría de Finanzas del Estado a petición del interesado.
-
-Cuando los créditos y las deudas no procedan de la aplicación de los mismos gravámenes, la Secretaría de Finanzas apreciará discrecionalmente la conveniencia de autorizar la compensación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 37.
 
-Procederá la condonación total o parcial de créditos fiscales cuando se haya afectado o trate de impedirse se afecte la situación de alguna región de la Entidad, o de alguna rama de las actividades económicas.
-
-El Gobernador del Estado, mediante disposiciones de carácter general, determinará el monto o porcentaje de los créditos que se condonen, los que gozarán del beneficio, la región o las ramas favorecidas, así como los requisitos que deban satisfacerse y el período de vigencia de los beneficios.
-
-El Ejecutivo del Estado, a través de la Secretaría de Finanzas queda facultado para:
-
-I.- Reducir la base gravable de las contribuciones, cuando lo estime conveniente como medida de equilibrio fiscal.
-
-II.- Celebrar convenios de regularización fiscal por ejercicios anteriores, con lo que podrán condonar total o parcialmente la aplicación de recargos y sanciones a los infractores de la legislación tributaria.
-
-III.- Cancelar en la vía administrativa las exenciones y franquicias fiscales, cuando previa audiencia con el contribuyente, quede comprobado que este ha dejado de dar cumplimiento a los requisitos condicionales del otorgamiento de ellas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 38.
 
-Las multas que hubieren quedado firmes deberán ser condonadas totalmente si por pruebas presentadas ante las Autoridades administrativas y jurisdiccionales, en su caso, demuestre que no se cometió la infracción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 39.
 
-Las multas por infracción a las disposiciones tributarias podrán ser condonadas parcialmente por el Secretario de Finanzas del Estado, quién apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 40.
 
-Las facultades del fisco estatal para determinar la existencia de obligaciones tributarias, señalar las bases de su liquidación o fijarlas en cantidad líquida, para imponer sanciones por infracción a las disposiciones fiscales, así como las facultades de verificar el cumplimiento o incumplimiento de dichas disposiciones y los créditos tributarios a favor del mismo fisco por impuestos, contribuciones especiales y derechos, así como los accesorios de éstos y multas de naturaleza tributaria, se extinguen por prescripción en el término de cinco años, debiendo de mediar en todo caso, petición expresa y fundada por escrito del contribuyente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 41.
 
-El término de la prescripción empezará a correr a partir:
-
-I.- Del día siguiente al en que hubiese vencido el plazo establecido por las disposiciones fiscales para presentar declaraciones, manifestaciones o avisos;
-
-II.- Del día siguiente al en que se produjo el hecho generador del crédito fiscal, si no existiera obligación de presentar declaraciones manifestaciones o avisos;
-
-III.- Del día siguiente al en que se hubiere cometido la infracción a las disposiciones fiscales; pero si la infracción fuere de carácter continuo, el término correrá a partir del día siguiente en que hubiere cesado; y
-
-IV.- Del día en que el crédito pudo ser legalmente exigido.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 42.
 
-El término de la prescripción se interrumpe a favor del fisco:
-
-I.- Por cualquier gestión de la autoridad tendiente a la determinación del crédito a la investigación de infracciones, a la imposición de sanciones o al cobro de los créditos y multas, siempre que haya sido notificada o hecha saber al deudor o infractor; y
-
-II.- Por cualquier acto del deudor o del infractor, expreso o tácito, reconociendo la existencia del crédito; de los hechos constitutivos de las infracciones, o de las sanciones.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 43.
 
-La obligación del fisco para devolver cantidades pagadas indebidamente, prescribe en el término de dos años.
-
-El plazo se interrumpe por cualquier gestión del particular ante la autoridad fiscal tendiente a la determinación o cobro de dichas cantidades, o por cualquier acto de la autoridad en que se reconozca la existencia de las cantidades que se reclaman.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 44.
 
-De los requisitos señalados en los dos Artículos anteriores deberá existir constancia por escrito.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 45.
 
-Prescribe en cinco años la obligación de conservar a disposición de las autoridades fiscales los libros de contabilidad, los registros y documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con los pagos o enteros de los créditos fiscales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 46.
 
-La cancelación de créditos tributarios de las cuentas públicas por incosteabilidad del cobro o por insolvencia del deudor, no libera a este de su obligación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ## TITULO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS SUJETOS
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO PRIMERO. DE LOS SUJETOS PASIVOS Y RESPONSABLES SOLIDARIOS
 
 ###### ARTICULO 47.
 
-Los interesados directamente en situaciones reales y concretas que planteen consulta sobre la aplicación o interpretación de las disposiciones tributarias, tendrán derecho a que las autoridades competentes dicten resolución sobre tales consultas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 48.
 
-Toda consulta o petición que se formule a las Autoridades Fiscales deberá ser resuelta en el plazo que esta Ley fija, o a la falta de término establecido, en noventa días. El silencio de las autoridades se considera como resolución negativa cuando no den respuesta en el término que corresponda.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 49.
 
-Las resoluciones favorables a los particulares no podrán ser revocadas ni nulificadas por las autoridades administrativas; cuando dichas resoluciones deban ser nulificadas, se deberá promover juicio ante el tribunal de lo contencioso administrativo del Estado de Morelos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 50.
 
-Los sujetos que habitualmente tengan obligaciones de pagar, de retener o de recaudar impuestos, deberán inscribirse en el registro estatal de causantes de la Secretaría de Finanzas del Estado, dentro de los quince días hábiles siguientes al inicio de sus actividades, salvo que las leyes tributarias señalen otro plazo.
-
-Quedan exceptuados de la obligación de inscribirse los sujetos a que alude el Artículo 16 de este Ordenamiento, sin menoscabo de la obligación de retener o de recaudar créditos tributarios en los casos que lo dispongan las Leyes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 51.
 
-Quienes deban registrarse lo harán en las oficinas recaudadoras de rentas de su jurisdicción, las que deberán proporcionarles su cédula de registro expedida por la Secretaría de Finanzas.
-
-La cédula de registro que se les otorgue deberá estar colocada en lugar visible del establecimiento y a falta de éste conservarse en el domicilio fiscal del interesado, debiendo citarse en toda promoción que se haga ante las Autoridades Fiscales.
-
-La Secretaría de Finanzas del Estado, conforme a disposiciones reglamentarias, tendrá a su cargo el registro de los sujetos pasivos y de los responsables solidarios, conforme a la técnica que considere adecuada.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 52.
 
-Los sujetos pasivos y los responsables solidarios darán aviso a la Secretaría de Finanzas del Estado, por conducto de las oficinas Receptoras de su Jurisdicción, dentro de los quince días hábiles siguientes a aquél en que ocurran los siguientes cambios:
-
-I.- Del domicilio, excepción hecha de quienes solo causen impuestos que deban ser retenidos o recaudados;
-
-II.- De razón o denominación social, al que acompañarán copia de la escritura correspondiente;
-
-III.- De sus actividades cuando aumenten o disminuyan el giro de las mismas;
-
-IV.- De la suspensión temporal de las actividades y de la reanudación de las mismas; y
-
-V.- De traspaso de la negociación, clausura definitiva, liquidación o cesación de operaciones.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 53.
 
-En tratándose de los avisos a que alude la fracción V del Artículo anterior, se deberá señalar el lugar donde se conservarán a disposición de las autoridades fiscales, los libros de contabilidad, registros y documentación comprobatoria de sus operaciones.
-
-En caso de cambio de dicho lugar, deberá igualmente presentarse aviso respectivo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 54.
 
-Los sujetos pasivos y los responsables solidarios que tengan obligación de presentar avisos, declaraciones o manifestaciones lo harán dentro del plazo que señalen las Leyes y a falta de término, lo harán dentro de los quince días hábiles siguientes a la realización del hecho de que se trate, debiendo devolverse al interesado una copia sellada de su escrito.
-
-Los avisos, declaraciones o manifestaciones se harán en las formas oficiales que deberán proporcionar las oficinas recaudadoras de rentas, las que no podrán ser reproducidas por los particulares.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 55.
 
-Los sujetos pasivos están obligados a llevar los libros de contabilidad y registro que satisfagan las siguientes reglas:
-
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 1990)</small>
-
-I.- Previamente a su utilización los libros deberán estar autorizados por la Secretaría de Programación y Finanzas del Estado, o por la Secretaría de Hacienda y Crédito Público, en el ámbito de sus respectivas competencias;
-
-II.- Los asientos en la contabilidad deberán efectuarse dentro de los sesenta días naturales siguientes a la fecha en que se realicen las operaciones;
-
-III.- Los registros y documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con los pagos o enteros de los créditos tributarios, deberán conservarse en el domicilio del sujeto por un plazo de cinco años. En caso de clausura, traspaso o liquidación, el plazo se contará a partir de la fecha de las mismas; y
-
-IV.- Llevar los registros y libros especiales que señale este ordenamiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 56.
 
-Los sujetos pasivos que están obligados a registrarse deberán señalar al presentar su aviso de iniciación de actividades, el nombre de la persona o despacho que prestándoles sus servicios de manera independiente sea responsable de llevar su contabilidad o del cumplimiento de sus obligaciones tributarias, así como dar aviso del cambio de esa persona o despacho, dentro de los quince días hábiles siguientes a aquél en que ello ocurra.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES
 
 ###### ARTICULO 57.
 
-La Secretaría de Finanzas del Estado promoverá la colaboración de los organismos de contribuyentes y de los Colegios de Profesionistas para el estudio de los problemas de carácter general que aquejan a los particulares en el cumplimiento de sus obligaciones tributarias y buscar la solución de los mismos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 58.
 
-Queda facultada la Secretaría de Finanzas del Estado para cerciorarse del cumplimiento de las obligaciones tributarias y determinar, si es el caso, los créditos fiscales omitidos. Para esos fines, podrá:
-
-I.- Practicar visitas domiciliarias a los sujetos pasivos y responsables solidarios o terceros relacionados con ellos para la revisión de su contabilidad y documentación relacionada con las operaciones gravadas, bienes y mercancías; y
-
-II.- Solicitar a los sujetos pasivos, responsables solidarios o terceros, información relacionada con el cumplimiento de obligaciones tributarias.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 59.
 
-La Secretaría de Finanzas del Estado para hacer cumplir sus determinaciones, podrán aplicar multas de apremio de $ 1,000.00 a $ 50,000.00 y si persiste la desobediencia, podrá consignar los hechos ante el Ministerio Público Estatal, por desobediencia a un mandato legítimo de autoridad competente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 60.
 
-Para la comprobación de la situación tributaria del sujeto pasivo se presumirá, salvo prueba en contra:
-
-I.- Que todo libro, registros, documentación comprobatoria de ingresos o egresos y correspondencia que se encuentre en su poder, corresponde a operaciones celebradas por él;
-
-II.- Que las diferencias entre los activos registrados en contabilidad y las existencias reales corresponden a ingresos o actividades gravables del último ejercicio que se revisa.
-
-Para esta comprobación, la autoridad fiscal se asistirá del personal técnico que se requiera.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 61.
 
-Cuando por causas imputables al sujeto pasivo no sea posible determinar su situación tributaria, la Secretaría de Finanzas la estimará tomando en consideración:
-
-Los impuestos pagados a la Federación o al Municipio; la renta del local que ocupa la negociación, despacho o establecimiento, importe de la energía eléctrica consumida; número de empleados que tenga a su servicio y sueldo pagados; libros, documentos e informes que le proporcione el causante, las razones que exponga y pruebas que aporte, y en general, todos aquellos datos conducentes a la determinación de los ingresos realmente percibidos.
-
-Se incurre en esta causal de estimación:
-
-I.- Cuando los libros de contabilidad o registros autorizados se encuentren en blanco, extraviados o atrasados en los términos del Artículo 55 Fracción II de esta Ley;
-
-II.- Cuando no exista documentación que respalde lo que consignan los libros o registros autorizados;
-
-III.- Cuando se omita registrar todas las operaciones; y
-
-IV.- Cuando se lleve doble juego de libros de contabilidad o registros con anotaciones distintas, en perjuicio del fisco a los que consignen los autorizados;
-
-V.- Cuando el sujeto pasivo se niegue a proporcionar información o documentación que permita determinar su situación tributaria.
-
-Lo dispuesto en este precepto no modifica los procedimientos para determinar o estimar la situación fiscal de los sujetos pasivos que contienen otras disposiciones tributarias.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 62.
 
-Para verificar el cumplimiento de las obligaciones tributarias a cargo de los sujetos pasivos o responsables solidarios la Secretaría de Finanzas del Estado ordenará la práctica de visitas domiciliarias, las que (sic) sujetarán a lo siguiente:
-
-I.- La orden de visita deberá constar por escrito, estar firmada por el Secretario de Finanzas del Estado o del Director de Auditoría Fiscal del Estado, quiénes serán la autoridad competente, que expresará:
-
-a).- El nombre de la persona o personas que deban recibir la visita y el lugar donde ésta deba llevarse a cabo. Cuando se ignore el nombre de la o las personas que deban ser visitadas se señalarán datos suficientes que permitan su identificación;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-b).- El nombre de la persona o personas que practicarán las diligencias, las cuáles podrán ser sustituidas por la autoridad que expidió la orden, y en este caso se comunicará por escrito al visitado el nombre de los sustitutos, la visita podrá ser realizada conjunta o indistintamente por las personas facultadas para practicar las diligencias.
-
-c).- Las contribuciones de cuya verificación se trate y, en su caso los ejercicios, a los que deberá limitarse la visita. Esta, podrá ser de carácter general para verificar el cumplimiento de las disposiciones tributarias durante cierto tiempo o concretarse únicamente a determinados aspectos.
-
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 1990)</small>
-
-II.- Los visitadores al iniciar la visita en el domicilio fiscal, se identificarán ante la persona con quien deba entenderse la diligencia y le entregarán la orden de visita, requiriéndola para que designe dos testigos; si estos no son designados o los nombrados no aceptan, los visitadores los designarán haciendo constar esta circunstancia en el acta que levanten; si el contribuyente o su representante no estuvieren presentes, se dejará citatorio con quien se encuentre en el domicilio, para que el contribuyente o su representante los esperen a hora determinada del día hábil siguiente, para practicar la visita; si no los esperasen, la visita se efectuará con la persona que esté en el domicilio;
-
-III.- Los libros, registros y documentos serán examinados en los domicilios, indicados en la orden de visita. Para tal efecto, el visitado representante legal, deberá mantenerlos a disposición de los visitadores desde el momento de la iniciación de la visita hasta su terminación. La Secretaría de Finanzas del Estado tomará las medidas necesarias para el cumplimiento de este precepto, inclusive el secuestro de libros, registros y documentos para examinarlos en las oficinas de la autoridad fiscal cuando así se requiera. En este último caso, se levantará acta parcial al respecto.
-
-En los libros, registros y documentos, se pondrá la razón circunstanciada haciendo constar las infracciones y omisiones en que hubiera incurrido el causante y que firmarán las personas que intervienen en la visita:
-
-a).- Cuando únicamente existan libros, registros o sistemas de contabilidad que no estén autorizados; y (sic)
-
-b).- Cuando se encuentren libros, registros o sistemas de contabilidad autorizados que estén en blanco; y
-
-c).- Cuando se encuentren libros, registros o sistemas de contabilidad cuyos asientos o datos no coincidan con los de los autorizados;
-
-IV.- Los visitadores harán constar en el acta los hechos u omisiones observados y al concluir la visita, cerrarán el acta haciendo constar los resultados en forma circunstanciada. Las opiniones de los visitadores sobre el cumplimiento o incumplimiento de las disposiciones tributarias o sobre la situación financiera del visitado, no producirán efecto de resolución tributaria;
-
-V.- El visitado o la persona con la que se entiende la diligencia, los testigos y los visitadores firmarán el acta.
-
-Si el visitado o los testigos se niegan a firmar, así lo harán constar los visitadores, sin que esta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará en todo caso al visitado o la persona con la que se encienda (sic) la diligencia;
-
-VI.- Con las mismas formalidades indicadas en la Fracción anterior, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión; y
-
-VII.- El visitado o quien lo represente, deberá expresar por escrito dentro de los 45 días naturales siguientes al cierre del acta final, ante la Secretaría de Finanzas del Estado, o ante la Dirección de Auditoría del Estado las razones de su inconformidad, expresada en forma circunstanciada; acompañando las pruebas pertinentes, las que deberán rendir simultáneamente a su inconformidad; el plazo para rendir pruebas podrá ampliarse a instancia justificada del interesado a juicio de la autoridad competente, para darle oportunidad de presentar pruebas supervenientes. Si tampoco se ofrecen estas, se tendrá al visitado por conforme con los hechos asentados de su conclusión; y (sic)
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 63.
 
-Los hechos afirmados en los dictamentes (sic) que formulen contadores públicos sobre los estados financieros y su relación con las declaraciones tributarias se presumirán ciertos, salvo prueba en contrario; si se reúnen los siguientes requisitos:
-
-I.- Que el Contador Público que dictamine esté registrado en la Secretaría de Finanzas del Estado.
-
-Se inscribirá para estos efectos a las personas que tengan título de Contador Público registrado en la Dirección General de Profesiones de la Secretaría de Educación Pública o en la Dirección de Educación Pública del Estado y que sean miembros de un Colegio de Contadores reconocidos por la Secretaría de Finanzas;
-
-II.- Que el dictamen se formule de acuerdo con las disposiciones tributarias, y en su defecto, conforme a las normas y procedimientos de auditoría generalmente aceptadas. La Secretaría de Finanzas del Estado podrá cerciorarse mediante revisión o pruebas selectivas del cumplimiento de esta fracción;
-
-III.- Que el Contador Público emita conjuntamente con su dictamen un informe sobre la revisión de la situación fiscal del contribuyente en el que se consigne bajo protesta de decir verdad, los datos y requisitos que fijen en materia tributaria esta Ley y otras disposiciones fiscales tanto federales, estatales como municipales.
-
-Las opiniones e interpretaciones contenidas en los dictámenes serán aceptados o rechazados razonada y fundadamente por la Secretaría de Finanzas o la Dirección de Auditoría fiscal de (sic) estado para determinar la situación de los sujetos pasivos o responsables solidarios y expedir las liquidaciones de impuestos omitidos que corresponden, en forma proporcional y equitativa.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 64.
 
-Los actos y resoluciones de las autoridades fiscales se presumirán ajustados a derecho; si embargo, cuando el contribuyente niegue lisa y llanamente los hechos que motivan los actos y resoluciones que dicte la autoridad fiscal, corresponderá a esta allegarse las pruebas conducentes de acuerdo con las facultades que esta Ley le concede, para precisar la situación del contribuyente a fin de que pueda fundamentar sus determinaciones, salvo que la negativa implique una afirmación, en cuyo caso, la carga de la prueba corresponderá al contribuyente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 65.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los causantes o por terceros con ellos relacionados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-Dicha reserva no comprenderá los casos que señalen las Leyes tributarias y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias y en general, a otras autoridades cuando para ello exista disposición expresa en cualquier ordenamiento, que imponga al fisco estatal la obligación de proporcionar los datos o informes solicitados.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO TERCERO. DE LOS TERCEROS
 
 ###### ARTICULO 66.
 
-La representación de la personalidad del contribuyente se acreditará en términos de la legislación aplicable, según su naturaleza, en caso de que no exista disposición expresa, se acreditará conforme al derecho común, pero los sujetos pasivos podrán autorizar mediante poder notarial, a la persona o personas que a su nombre reciban notificaciones, ofrezcan y rindan pruebas e interpongan recursos dentro del procedimiento administrativo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 67.
 
-Las personas o empresas que tenga o hayan tenido relaciones financieras o bancarias con los negocios de sujetos pasivos o responsables solidarios, están obligados a exhibir ante las Autoridades fiscales los asientos de su contabilidad, la documentación y la correspondencia que se refiere a las operaciones realizadas con aquellos, así como a proporcionar toda información que en relación con dichas personas se les solicite.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 68.
 
-Las autoridades que tengan o hayan tenido relaciones con alguno o algunos de los sujetos pasivos o responsables solidarios, deberán auxiliar a la Secretaría de Finanzas del Estado y a la Dirección de Auditoría Fiscal del Estado suministrándole los informes y datos que solicite para la aplicación de las leyes tributarias.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 69.
 
-Es obligación de las personas o despachos que tengan a su cargo la contabilidad de los sujetos pasivos llevarlos en el orden en que se consignen todas las operaciones que se celebren, así como de dar oportuno cumplimiento de las obligaciones tributarias a cargo de dichos sujetos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ## TITULO CUARTO. DE LAS OMISIONES
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO PRIMERO. DE LAS INFRACCIONES
 
 ###### ARTICULO 70.
 
-Son infracciones cuya responsabilidad recae sobre los sujetos pasivos:
-
-I.- No cumplir con las obligaciones que señalan las disposiciones tributarias de inscribirse o hacerlo fuera de los plazos legales;
-
-II.- No citar su número de registro de contribuyentes en las declaraciones, manifestaciones o avisos, promociones, solicitudes o gestiones que hagan ante cualquier oficina o autoridades;
-
-III.- Obtener o usar más de un número de registro de contribuyentes para el cumplimiento de las obligaciones a su cargo;
-
-IV.- Utilizar interpósita persona para manifestar negociaciones propias para recibir ingresos gravables, dejando de pagar los impuestos correspondientes;
-
-V.- No obtener oportunamente los permisos, placas, tarjetas de registro, libros o cualquier otro documento exigido por las leyes fiscales o no tenerlos en lugar que señalan dichas disposiciones;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-VI.- No devolver oportunamente a las autoridades que se determinen en las leyes tributarias, los comprobantes de pago de una prestación tributaria, libros, placas, tarjetas, boletas o cualquier otro documento cuya devolución sea exigida por dichas leyes;
-
-VII.- Producir, fabricar, transformar, almacenar o expender artículos gravados y prestar servicios gravados sin cumplir con las obligaciones que establezcan las leyes tributarias;
-
-VIII.- Favorecer en cualquier forma al contribuyente para que eluda total o parcialmente sus obligaciones fiscales, permitir sacar o mandar sacar de las fábricas, almacenes, bodegas o de las zonas señaladas por las leyes tributarias, artículos o productos, sin haberse cumplido previamente las obligaciones tributarias relativas;
-
-IX.- Transportar o almacenar productos o efectos gravados por las Leyes tributarias sin haber cumplido con las disposiciones que para esos casos establezcan las leyes;
-
-X.- No presentar para su autorización o hacerlo extemporáneamente, los libros o sistemas de contabilidad, cuando lo exijan las disposiciones tributarias;
-
-XI.- No llevar los sistemas de contabilidad que requieran las disposiciones tributarias, llevarlos en forma distinta a como éstas disponen; no hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos o inexactos, o fuera de los plazos respectivos;
-
-XII.- Hacer, mandar hacer o permitir en su contabilidad, anotaciones, asientos, cuentas, nombres o cantidades o datos falsos, alterar raspar o tachar en perjuicio del fisco cualquiera anotación, asiento o constancia hecha en la contabilidad, o mandar ó consentir que se hagan esas alteraciones, raspaduras o tachaduras;
-
-XIII.- Destruir o inutilizar los libros o registros contables, cuando no haya transcurrido el plazo durante el cual conforme a la Ley los deben conservar;
-
-XIV.- Llevar doble juego de libros con anotaciones distintas a los libros autorizados;
-
-XV.- No conservar los libros, documentos o correspondencia que le sean dejados en calidad de depositario, por los visitadores, al estarse practicando visitas domiciliarias;
-
-XVI.- Faltar a la obligación de extender recibos facturas, o cualesquiera otros documentos que señalen las leyes tributarias. No exigirlos cuando tengan obligación de hacerlo. No consignar por escrito los actos, contratos, o convenios que de acuerdo con las disposiciones tributarias deban constar en esa forma;
-
-XVII.- No presentar o no proporcionar, o hacerlo extemporáneamente los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales. No comprobarlos o aclararlos en tiempo cuando las autoridades tributarias lo soliciten;
-
-XVIII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la Fracción anterior, falsificados, alterados, incompletos, con errores, que traigan consigo la evasión de una prestación tributaria;
-
-XIX.- No pagar los impuestos, contribuciones y derechos, dentro de los plazos señalados por las leyes tributarias;
-
-XX.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitudes, similaciones (sic), falsificaciones y otras maniobras;
-
-XXI.- Declarar ingresos menores de los percibidos; hacer deducciones falsas; ocultar y omitir bienes y existencias que deban figurar en los inventarios, en su caso, listarlos a precios inferiores a los reales; no practicar los inventarios y balances que prevengan las disposiciones tributarias o hacerlo fuera de los plazos que estas dispongan;
-
-XXII.- Resistirse por cualquier medio a las visitas de inspección; no suministrar los datos e informes que legalmente puedan exigir los inspectores; no mostrar los sistemas de contabilidad; documentos registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquiera otra dependencia, y en general negarse a proporcionar los elementos que se requieran para comprobar la situación tributaria del visitado, en relación con el objeto de la visita; y
-
-XXIII.- Faltar en cualquiera otra forma no prevista en las fracciones anteriores al cumplimiento de las obligaciones que les imponen esta Ley y cualquier otra disposición tributaria, inclusive destruir los sellos oficiales colocados por las Autoridades o tratar de impedir que se logren los propósitos para los que fueron colocados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 71.
 
-Son infracciones cuya responsabilidad recae sobre los responsables solidarios:
-
-I.- No cumplir las obligaciones que señalen las disposiciones tributarias de inscribirse o registrarse;
-
-II.- No presentar, o hacerlo extemporáneamente, los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros, o documentos que exijan las disposiciones tributarias, no comprobarlos y aclararlos cuando las autoridades tributarias lo soliciten;
-
-III.- Presentar, los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la Fracción anterior, falsificados, alterados, incompletos, con errores, que traigan consigo la evasión de una prestación tributaria;
-
-IV.- No enterar, dentro de los plazos que establezcan las disposiciones tributarias, el importe de prestaciones tributarias retenidas, recaudadas o que se debieron retener y recaudar;
-
-V.- No cerciorarse, al transportar artículos gravados, del pago de los créditos tributarios que se hayan causado, cuando las disposiciones legales impongan esas obligaciones o efectuar el transporte sin la documentación que exijan esas disposiciones;
-
-VI.- Resistirse por cualquier medio a las visitas de inspección; no suministrar los datos e informes que legalmente pueden exigir los visitadores; no mostrar los sistemas de contabilidad, documentos, registros e impedir el acceso a los almacenes, depósitos, bodegas y cualquiera otra dependencia, y en general no proporcionar los elementos que se requieran para cumplir con el objeto de la visita; y
-
-VII.- Faltar en cualquiera otra forma no prevista en las fracciones anteriores, al cumplimiento de las obligaciones que impone esta Ley y cualquiera otra disposición tributaria, inclusive destruir los sellos oficiales colocados por las autoridades o tratar de impedir que se logren los propósitos para los que fueron colocados;
-
-VIII.- Son infracciones a cargo de personas que tengan fe pública:
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
-
-a).- Autorizar, asentar en el protocolo, en el libro de registro de escrituras, actos o contratos sin cumplir o cerciorarse previamente de que se han cumplido las disposiciones tributarias o sin dar los avisos que previenen las leyes.
-
-b).- Extender a las personas a que se refiere la fracción anterior constancia de haberse cumplido con las disposiciones tributarias en los actos en que intervengan, cuando no proceda su otorgamiento.
-
-c).- No pagar los impuestos, derechos y demás prestaciones fiscales dentro de los plazos señalados y que hubieran recibido como consecuencia de sus funciones.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 72.
 
-Son infracciones cuya responsabilidad recae sobre los terceros:
-
-I.- Consentir o tolerar que se inscriban a su nombre negociaciones ajenas;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-II.- Percibir a nombre propio ingresos gravables que correspondan a otra persona cuando esto traiga como consecuencia comisión de créditos tributarios;
-
-III.- No presentar, no exhibir los avisos, informes, datos, declaraciones, documentos, o el no hacerlo dentro del plazo fijado por las disposiciones tributarias, o cuando las autoridades las exijan con apoyo de sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten;
-
-IV.- Presentar los informes, datos y documentos a que se refiere la Fracción anterior, incompletos, inexactos, alterados o falsificados;
-
-V.- Autorizar, hacer constar documentos, inventarios, balances, asientos y datos falsos cuando actúen como Contadores independientes bajo cualquier función, testigos o peritos;
-
-VI.- Asesorar, aconsejar a los sujetos pasivos para evadir el pago de una prestación fiscal o para infringir las disposiciones tributarias; contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan, o expedir dictámenes de estados financieros para efectos tributarios que no reflejen la situación tributaria correcta del sujeto pasivo o responsable solidario;
-
-VII.- Cooperar en cualquier otra forma no prevista en las fracciones anteriores, en la comisión de infracciones tributarias;
-
-VIII.- Adquirir, ocultar, conservar o enajenar, productos, mercancías o artículos a sabiendas de que no se cubrieron los créditos tributarios que en relación con los mismos se hubieran debido pagar;
-
-IX.- Destruir los sellos oficiales colocados por los empleados y funcionarios públicos con la finalidad tributaria e impedir por cualquier maniobra que se logre el propósito para el que fueron colocados.
-
-X.- Poseer, enajenar, poner en circulación, en su caso, adherir en objetos, para el pago de una prestación fiscal; calcamonias (sic), formas numeradas, placas o tarjetones, a sabiendas de que fueron impresas o gravadas sin autorización de la autoridad tributaria competente o bien de que fueron alteradas en su valor, año de emisión, leyenda o clase;
-
-XI.- Recibir o poseer documentos en los que no se haya cumplido con las disposiciones tributarias;
-
-XII.- Tratándose de funcionarios servidores públicos del Estado o Municipios, así como de los encargados de servicios públicos, u órganos oficiales de las mismas Entidades:
-
-a).- Dar curso a documentos o libros que carezcan en todo o en parte de los requisitos exigidos por las disposiciones tributarias.
-
-Esta responsabilidad será exigible aún cuando los funcionarios o empleados no hayan intervenido directamente en el trámite o resolución, si les correspondía hacerlo por razón de su cargo;
-
-b).- Las personas a que se refiere la fracción anterior que asienten falsamente que se ha dado cumplimiento a las disposiciones tributarias o que se practicaron visitas de inspección, o asentar hechos falsos en las actas relativas, no practicar las visitas de inspección cuando tengan obligación de hacerlo, alterar documentos que estén en su poder por razón a su cargo;
-
-c).- Las mismas personas a que se alude las dos fracciones precedentes, incurran en los siguientes hechos u comisiones (sic):
-
-1.- Recibir el pago de una prestación fiscal y no enterar su importe dentro del plazo legal;
-
-2.- No exigir el pago total de las prestaciones tributarias cuando tengan la obligación de hacerlo;
-
-3.- Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento, de acuerdo con las disposiciones tributarias;
-
-4.- Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan, revelar los datos declarados por los contribuyentes o aprovecharse de ellos. Los representantes de causantes que integren Juntas Calificadoras u órganos semejantes, se asimilan a los empleados o funcionarios públicos;
-
-5.- Exigir bajo el título de cooperación u otros semejantes cualquier prestación que no esté expresamente prevista en la ley aún cuando se aplique a la realización de las funciones propias de su cargo;
-
-6.- Inscribir o registrar documentos, instrumentos, libros en los que no se hayan cumplido las disposiciones tributarias; y
-
-7.- Extender actas, expedir certificados, legalizar firmas, autorizar libros y documentos sin exigir de los interesados el cumplimiento de las obligaciones tributarias;
-
-XIII.- Negarse a proporcionar los elementos que se requieran para cumprobar (sic) el cumplimiento de las obligaciones tributarias, ya sea por resistirse a las visitas domiciliarias, no suministrar los datos e informes que legalmente puedan exigir los visitadores, no mostrar los libros, documentos, registros, bodegas, depósitos, locales en cualquier otra forma;
-
-XIV.- No prestar a las autoridades tributarias el auxilio necesario para la determinación y cobro de una prestación en los casos en que la Ley imponga esa obligación; y
-
-XV.- Violar otras disposiciones tributarias en forma no prevista en las fracciones precedentes;
-
-XVI.- Favorecer a los causantes en cualquier forma para que eludan parcial o totalmente sus obligaciones fiscales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 73.
 
-La imposición de las sanciones administrativas por infracción a las disposiciones tributarias compete al Secretario de Finanzas del Estado y al Director de Auditoría Fiscal del Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-Los funcionarios y empleados públicos, que en ejercicio de sus funciones conozcan de hechos y omisiones que puedan entrañar infracción a las disposiciones tributarias los comunicarán a la Secretaría de Finanzas del Estado, dentro de los diez días hábiles siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
-
-La aplicación de las sanciones administrativas que procedan se harán sin perjuicio de que se exija el pago de las prestaciones tributarias respectivas.
-
-No procederá la imposición de sanciones administrativas a que hacen referencia los Artículos 70, 71 y 72 de esta Ley cuando el contribuyente, el responsable solidario o el tercero, de manera espontánea y sin mediar intervención de autoridad competente subsana la o las omisiones en que hubiere incurrido.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO SEGUNDO. DE LAS SANCIONES
 
 ###### ARTICULO 74.
 
-La aplicación de las sanciones previstas en esta Ley se ajustarán a las reglas siguientes:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-I.- Las resoluciones en que se impongan sanciones deberán estar debidamente fundadas y motivadas;
-
-II.- Para determinar la cuantía, se tomarán en cuenta:
-
-a).- La importancia de la infracción;
-
-b).- Los medios empleados para cometerla;
-
-c).- La capacidad económica del infractor y las demás condiciones personales que se acrediten; y
-
-d).- La conveniencia de destruir prácticas generalizadas, tanto para evadir las prestaciones tributarias como para infringir en cualquier forma las disposiciones fiscales.
-
-III.- Si son varios los responsables, cada uno será sancionado tomando en cuenta lo dispuesto por la fracción anterior;
-
-IV.- Cuando por un acto u omisión se infrinjan diversas disposiciones tributarias se aplicará la sanción que corresponda a la infracción más grave;
-
-V.- En caso de infracciones continuas y de que no sea posible determinar con exactitud el monto de la prestación evadida, se impondrá multa hasta del triple de la prestación que se determine;
-
-VI.- Cuando la infracción no haya tenido ni pueda haber tenido como consecuencia la evasión de créditos tributarios se podrá imponer el mínimo de la sanción, lo anterior no procede para el caso de reincidencia;
-
-VII.- Cuando las infracciones consistan en hechos u omisiones semejantes, en documentos, o libros, y siempre que no hayan tenido como consecuencia la evasión del pago de créditos tributarios, se considerará el conjunto como una sola infracción y se impondrá una multa que no excederá del máximo que fija esta Ley para sancionar cada hecho u omisión;
-
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 1990)</small>
-
-VIII.- Cuando se omita una prestación fiscal que corresponda a los actos y contratos en escrituras públicas, la sanción se impondrá exclusivamente a los notarios y corredores y los otorgantes solo quedarán obligados a pagar los créditos fiscales omitidos. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados, la sanción se aplicará entonces solamente a estos;
-
-IX.- Cuando la liquidación de alguna prestación tributaria esté encomendada a servidores públicos del Estado o sus Municipios, éstos serán responsables de las infracciones que se cometan y se les aplicarán las sanciones que corresponda, quedando los sujetos pasivos únicamente obligados a pagar, la prestación fiscal omitida, excepto en los casos en que esta Ley o alguna otra Ley tributaria disponga que no se podrá exigir al sujeto pasivo dicho pago;
-
-X.- No se impondrá (sic) sanciones cuando aún fuera de término sean pagados espontáneamente los créditos fiscales. No se considerará que el entero es espontáneo cuando la omisión sea descubierta por las autoridades fiscales o medie requerimiento, visita, excitativa o cualquiera otra gestión efectuada por las mismas.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 PROCEDENCIA DE LAS CONDONACIONES DE MULTAS.
 
 ###### ARTICULO 75.
 
-La Secretaría de Finanzas por conducto de su titular podrá condonar las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 76.
 
-Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes multas:
-
-I.- El 50% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios antes del cierre del acta final de visita o de que se le notifique el oficio de observaciones. No será aplicable esta fracción cuando en la comisión de la infracción se de alguno de los supuestos de las fracciones III, IV, VIII, XII, XIII, XIV, XV, XVII, XVIII, XX, XXI y XII (sic) del Artículo 70, las Fracciones: III, IV, VI y VII del Artículo 71 y Fracciones I, II, IV, V, VI, VII, VIII, IX, X, XIII y XIV del Artículo 72, de esta Ley.
-
-II.- El 100% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios después del cierre del acta final de visita o de que se le haya notificado el oficio de observaciones, pero antes de que las autoridades le notifiquen la resolución que determine el monto de las contribuciones que omitió. No será aplicable esta Fracción cuando en la comisión de la infracción se de alguno de los supuestos de las fracciones: III, IV, VIII, XII, XIII, XIV, XV, XVII, XVIII, XX, XXI y XXII del Artículo 70, las Fracciones: III, IV, VI y VII del Artículo 71 y Fracciones: I, II, IV, V, VI, VII, VIII, IX, X, XIII y XIV del Artículo 72 de esta Ley.
-
-III.- El 150% de las contribuciones omitidas en los demás casos.
-
-Si las autoridades fiscales determinan contribuciones omitidas mayores que las consideradas por el contribuyente para calcular la multa en los términos de las fracciones I y II de este artículo, aplicarán el por ciento señalado en la fracción III sobre el remanente no pagado de las contribuciones.
-
-El pago de las multas en los términos de las Fracciones I y II de este artículo se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la Secretaría de Hacienda y Crédito Público, o la Secretaría de Finanzas del Estado.
-
-También se aplicarán las multas a que se refiere este precepto, cuando las infracciones consistan en devoluciones, acreditamientos o compensaciones, indebidos o en cantidad mayor de la que corresponda. En estos casos las multas se calcularán sobre el monto del beneficio indebido.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 77.
 
-En los casos a que se refiere el Artículo 76 anterior, las multas se aumentarán o disminuirán conforme a las siguientes reglas:
-
-I.- Se aumentarán:
-
-a).- En un 20% del monto de las contribuciones omitidas o del beneficio indebido, cada vez que el infractor haya reincidido.
-
-b).- En un 60% del monto de las contribuciones omitidas o del beneficio indebido, cuando en la comisión de la infracción se dé alguno de los agravantes señalados en las fracciones: III, IV, VIII, XII, XIII, XIV, XV, XVII, XVIII, XX, XXI y XXII del Artículo 70, las Fracciones: III, IV, VI, y VII del Artículo 71 y Fracciones: I, II, IV, V, VI, VII, VIII, IX, X, XIII y XIV del Artículo 72, de esta Ley.
-
-c).- En una cantidad igual al 50% del importe de las contribuciones retenidas o recaudadas, cuando se incurra en la agravante a que se refiere la Fracción IV del Artículo 71 de esta Ley.
-
-Tratándose de los casos comprendidos en fracciones I y II del Artículo anterior, el aumento de multas, a que se refiere esta fracción, se determinará por la autoridad fiscal correspondiente, aún después de que el infractor hubiera pagado las multas en los términos de los artículos 70 a 73 inclusive de este Ordenamiento.
-
-II.- Se disminuirán:
-
-a).- En un 25% del monto de las contribuciones omitidas que hayan sido objeto de dictamen, o del beneficio indebido, si el infractor ha hecho dictaminar por Contador Público autorizado sus estados financieros correspondiente al ejercicio fiscal en el cual incurrió en la infracción. Para la aplicación de la reducción contenida en este inciso en los casos de las fracciones I y II del Artículo anterior, el infractor deberá efectuar el pago en los términos de dichas fracciones y solicitar la devolución del monto de la reducción, acreditando los impuestos de este inciso. No se aplicará lo dispuesto en este inciso cuando exista alguno de los agravantes señalados en las fracciones: III, IV, VIII, XII, XIII, XIV, XV, XVII, XVIII, XX, XXI y XXII del Artículo 70, las Fracciones: III, IV, VI y VII del Artículo 71 y Fracciones I, II, IV, V, VI, VII, VIII, IX, X, XIII y XIV del Artículo 72, de esta Ley.
-
-b).- En un 20% del monto de las contribuciones omitidas, o del beneficio indebido, en el caso de la Fracción IV del Artículo 71 y siempre que el infractor pague o devuelva los mismos con sus accesorios, dentro del mes siguiente a la fecha en que se le notificó la resolución respectiva. Para aplicar la reducción contenida en este inciso no se requiere modificar la resolución que impuso la multa.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 78.
 
-Tratándose de la omisión de contribuciones que hayan derivado de un error aritmético en las declaraciones, se impondrá una multa que será el 20% de las contribuciones omitidas y, en caso de que dichas contribuciones se paguen junto con sus accesorios dentro del mes siguiente a la fecha en que se notificó su determinación, la multa se reducirá a la mitad, sin que para ello se requiera solución administrativa.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 79.
 
-Será supletorio de la Ley de Hacienda del Estado del (sic) Código Fiscal de la Federación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO TERCERO. DE LOS DELITOS
 
 ###### ARTICULO 80.
 
-Comete el delito de defraudación fiscal quien haga uso de engaños o aproveche errores para omitir total o parcialmente el pago de algún crédito fiscal, use más de un número de registro de contribuyentes o proporcione datos falsos para su inscripción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 81.
 
-También comete delito de defraudación fiscal quien:
-
-I.- Mediante la simulación de actos jurídicos omita total o parcialmente el pago de los créditos fiscales;
-
-II.- Consigne en las declaraciones o manifestaciones para efectos fiscales, ingresos menores a los realmente obtenidos o deducciones falsas;
-
-III.- Proporcione con falsedad a las autoridades fiscales que lo requieran, los datos que obren en su poder y que sean necesarios para determinar el ingreso gravable o los créditos fiscales que cause;
-
-IV.- Oculte a las autoridades fiscales, total o parcialmente, la producción sujeta a créditos fiscales, el monto de las enajenaciones; o el de los servicios prestados;
-
-V.- No entere a las autoridades fiscales dentro del plazo del requerimiento que se le haga, las cantidades que haya retenido o recaudado de los sujetos pasivos, por concepto de créditos fiscales;
-
-VI.- Lleve doble juego de libros, con anotaciones o registros distintos a los de los libros autorizados;
-
-VII.- Destruya, ordene, o permita la destrucción total o parcial dejando ilegibles los libros de contabilidad que prevengan las leyes fiscales; y
-
-VIII.- Utilice pastas o encuadernación de los libros a que se refiere la fracción anterior, para substituir o cambiar las páginas foliadas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 82.
 
-Para los fines del artículo 81 podrá tomarse en cuenta el monto del crédito o créditos defraudados o que se haya intentado defraudar dentro de los cinco ejercicios fiscales anteriores, aún cuando se trate de créditos diferentes y de diversas acciones u omisiones de las previstas en el mismo artículo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 83.
 
-Son encubridores de los delitos tipificados en los Artículos 80 y 81, quienes a sabiendas de que la elaboración o el comercio se realizan en las condiciones a que el mismo precepto se refiere, trasladen, adquieran o permitan el tránsito de los productos o mercancías.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 84.
 
-Comete el delito de uso de calcomanías, formas numeradas o tarjetones falsificadas (sic):
-
-I.- El particular o el servidor público que a sabiendas de que fueron impresos o gravados sin autorización de la Secretaría de Finanzas los posea, enajene, ponga en circulación o, en su caso, las adhiera para pretender haber hecho el pago de alguna prestación fiscal; y
-
-II.- El particular o servidor público que los posea, enajene, ponga en circulación o los utilice para el pago de una prestación fiscal, alterados en su valor, año de emisión, leyenda o clase, a sabiendas de esta circunstancia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 85.
 
-En la averiguación previa a los delitos previstos en los Artículos 80, 81, 82, 83 y 84, se recabará dictamen de peritos designados por la Secretaría de Finanzas del Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 86.
 
-También comete delito de defraudación fiscal el Contador Público que al dictaminar para efectos fiscales los estados financieros de un sujeto pasivo; haga constar documentos, inventarios o balances falsos; o suscriba su dictamen sin haber aplicado los procedimientos de auditoria generalmente aceptados, para el examen de los estados financieros.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 87.
 
-Para proceder penalmente por los delitos previstos en esta Ley, será necesario que la Secretaría de Finanzas declare previamente que el fisco ha sufrido o pudo sufrir perjuicio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 88.
 
-En cuanto a los delitos tipificados en los Artículos 80, 81, 82, 83, 84, 85 y 86, se requerirá querella de la Secretaría de Finanzas. A la audiencia o querella ante el Ministerio Público, se acompañará la resolución en que se contenga la liquidación de los créditos fiscales omitidos y la relativa a las sanciones administrativas correspondientes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 89.
 
-Los procesos por los delitos fiscales a que se refiere el Artículo 88, serán sobreseídos si la Secretaría de Finanzas lo solicita antes de que el Ministerio Público formule conclusiones.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-Dicha Secretaría solo podrá pedir sobreseimiento si el procesado para las prestaciones fiscales originadas por el hecho imputado, o si a juicio de la propia Secretaría ha quedado garantizado el interés fiscal del Estado.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ## TITULO QUINTO. DEL PROCEDIMIENTO ADMINISTRATIVO
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO PRIMERO. DE LAS NOTIFICACIONES
 
 ###### ARTICULO 90.
 
-Las notificaciones de los citatorios, emplazamientos solicitudes de informes o documentos y las de actos o resoluciones administrativas que puedan ser recurridas, constarán en escrito, señalando la autoridad que lo emite, deberá estar fundado y motivado y expresará la resolución, objeto o propósito de que se trate, ostentando la firma del funcionario competente, el nombre o nombres de las personas o empresas a las que vaya dirigido. Si se ignora el nombre a quien va dirigido, se señalarán los datos suficientes que permitan su identificación.
-
-Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad. Se harán:
-
-I.- Personalmente;
-
-II.- En oficio entregado por mensajero o por correo registrado con acuse de recibo; y
-
-III.- Por edictos, únicamente en caso de que la persona o personas o empresa a quien deba notificarse hayan desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal acreditado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 91.
 
-Los actos o resoluciones distintos de los señalados en el artículo anterior, podrán ser notificados por medio de oficio, telegrama o correo ordinario.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 92.
 
-Las notificaciones personales se harán en el último domicilio que la persona, personas o empresa a quien deba notificarse haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate; o en su defecto, conforme a las reglas del Artículo 17 de esta Ley.
-
-Se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambas se dejará citatorio con cualquier persona que se encuentre en el domicilio para que se espere al notificador a una hora fija del día siguiente o para que acuda a notificarse personalmente dentro del plazo de seis días a la oficina de la autoridad fiscal. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato o con el Agente de Policía del punto.
-
-Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se la hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia, y de negarse ésta a recibirla, se hará por instructivo que se fijará en la puerta del domicilio.
-
-Al hacerse la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
-
-En las diligencias en que conste la notificación y citatorio, el notificador expresará por escrito la razón respectiva.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 93.
 
-Las notificaciones por oficio se harán en el domicilio que el interesado haya señalado para el efecto al iniciar alguna instancia, y solo por lo que toca al trámite y resolución de ésta. Se considerará como domicilio para recibir notificaciones en instancias administrativas, la dirección que aparezca impresa en la promoción respectiva. A falta de domicilio designado se tendrá en cuenta el que indiquen las disposiciones fiscales.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 94.
 
-Se realizará la notificación por edicto, cuando la persona a quien deba notificarse hubiere fallecido y no se conozca al representante de la sucesión, hubiese desaparecido se ignore su domicilio o que éste o el de su representado no se encuentre en territorio nacional.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)l.
 
 ###### ARTICULO 95.
 
-Las notificaciones por edictos se realizarán mediante publicaciones que contendrán un resumen de los actos o resoluciones por notificar. Dichas publicaciones deberá (sic) efectuarse por una sola vez en el periódico oficial del Estado y en uno de los periódicos de mayor circulación de la localidad, si lo hubiere, en caso contrario, se fijará copia del acuerdo o resolución en los tableros de la oficina recaudadora.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 96.
 
-Salvo que las leyes fiscales o resoluciones señalen una fecha para la iniciación del término, las notificaciones surtirán sus efectos al día hábil siguiente de aquel en que fueron hechas. Las notificaciones por oficio, telegrama o correo ordinario recibidas en día inhábil, surtirán sus efectos el primer día hábil siguiente en que se recibieron.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 97.
 
-La manifestación que haga el interesado o su representante legal de conocer un acto o resolución, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento, si esta es anterior a la que debiera surtir sus efectos la notificación de acuerdo con el artículo precedente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 98.
 
-En los términos fijados en días por las disposiciones generales o por las autoridades fiscales, se computarán solo los hábiles.
-
-Los términos fijados por períodos y aquellos en que se señale una fecha determinada para su expiración, comprenderán los días inhábiles.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 99.
 
-Se consideran días hábiles solo aquellos en que se encuentren abiertas al público las oficinas fiscales. La habilitación de períodos que oficialmente corresponda a vacaciones o días festivos, no se consideran o computan como días hábiles, ni la existencia del personal de guardia habilita los días en que se suspendan las labores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 100.
 
-Las autoridades fiscales estatales podrán habilitar mediante acuerdo escrito, horas o días inhábiles para la práctica de actuaciones determinadas o para recibir pagos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
 ###### ARTICULO 101.
 
-Cuando un crédito fiscal no quede satisfecho dentro del plazo que para el efecto señalen las disposiciones legales, se exigirá su pago mediante el procedimiento administrativo de ejecución.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 102.
 
-Los vencimientos que ocurran durante el procedimiento, incluso recargos, gastos de ejecución y cualesquiera otros se harán efectivos, juntamente con el crédito inicial, sin necesidad de notificación ni otras formalidades especiales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 103.
 
-No satisfecho el crédito dentro del plazo legal, la Dirección de Procedimientos y Ejecución Fiscal o la oficina Recaudadora requerirán al deudor para que efectúen el pago del crédito dentro de los tres días siguientes, o en fechas que otras disposiciones legales establezcan, con el apercibimiento de que si no lo hiciere se le embargarán bienes suficientes para hacer efectivo el crédito fiscal y sus accesorios legales, pudiendo llegarse a la clausura del establecimiento o a la intervención de caja del mismo.
-
-El requerimiento de pago se hará, según el caso, en los términos del artículo 90 de esta Ley.
-
-Cuando el requerimiento se haga personalmente, el ejecutor entregará copia del mandamiento de ejecución a la persona con quien entienda la diligencia y levantará acta pormenorizada, de la que también entregará copia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 104.
 
-Para iniciar un procedimiento de cobro en contra de un responsable solidario del crédito fiscal, será necesario hacerle notificación que contendrá:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-I.- Nombre del sujeto pasivo, y
-
-II.- La resolución de la que se derive el crédito fiscal que se le reclama.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO TERCERO. DE LAS GARANTIAS DEL INTERES TRIBUTARIO
 
 ###### ARTICULO 105.
 
-Se suspenderá el procedimiento administrativo de ejecución durante la tramitación de los recursos administrativos o juicios, cuando el interesado lo solicite y garantice el crédito fiscal de que se trate en algunas de las formas siguientes:
-
-I.- Depósito de dinero en una sociedad nacional de crédito que legalmente corresponda;
-
-II.- Prenda o hipoteca que a juicio de la autoridad sea suficiente;
-
-III.- Fienes (sic) inmuebles o negociaciones mercantiles;
-
-IV.- Fianza otorgada por compañía autorizada la que no gozará de los beneficios de orden y exclusión y aceptará expresamente que puedan concederse prórrogas o esperas al deudor;
-
-V.- Secuestro en la vía administrativa; y
-
-VI.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia económica.
-
-La garantía de un crédito fiscal siempre deberá comprender la de los posibles recargos y gastos de ejecución.
-
-La Secretaría de Finanzas del Estado dictará las reglas sobre los requisitos que deban reunir las garantías, vigilará que sean suficientes tanto en el momento de su aceptación como con posterioridad, y, si no lo fueren, exigirá su ampliación o procederá al aseguramiento de otros bienes.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-El Secretario de Finanzas del Estado, discrecionalmente podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorias la amplia solvencia del sujeto pasivo o responsable solidario.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 106.
 
-De agotarse medios de defensa en contra de actos o resoluciones en los que se exija el pago de un crédito fiscal, sin otorgarse la garantía del mismo, la autoridad no suspenderá el procedimiento de ejecución hasta en tanto no asegure el interés fiscal.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 107.
 
-Cuando la autoridad considere que existe peligro de que el deudor se ausente, enajene u oculte bienes o realice cualquier maniobra tendiente a dejar insoluto el crédito fiscal o para quedar en estado de insolvencia, procederá el embargo de bienes suficientes para garantiza (sic) el crédito dejándolo en depósito del embargo con el apercibimiento de que si dispone de ellos sin autorización de la Secretaría de Finanzas se hace acreedor a las penas previstas en lo (sic) artículos 382 y 384 del Código Penal; se podrá proceder a la clausura del negocio cuando el Actuario Fiscal no encuentre en el establecimiento bienes muebles suficientes para garantizar el pago total del adeudo conforme el Artículo 110 de esta ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 108.
 
-Cuando el deudor incurra en la causal prevista en la Fracción III del Artículo 25 de esta Ley se podrá exigir el pago total del adeudo o en su caso cuando lo considere pertienente (sic) la Secretaría de Finanzas podrá seguir pagando el crédito en parcialidades garantizando el interés fiscal.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 109.
 
-Cuando habiéndose asegurado un crédito fiscal por haberse manifestado que se agotarían medios de defensa en contra del acto o resolución que lo determinó, el procedimiento de ejecución continuara adelante de no acreditárseles hechos con la copia sellada por la autoridad competente del escrito en que se impugna el crédito, caso en el cual deberá hacerse entrega de un ejemplar de dicha copia en la oficina Recaudadora de Rentas y otro a la Dirección de Procedimientos y Ejecución Fiscal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO CUARTO. DE LAS CLAUSURAS Y DEL SECUESTRO ADMINISTRATIVO
 
 ###### ARTICULO 110.
 
-La Secretaría de Finanzas podrá ordenar la clausura de un negocio, cuando su propietario o Representante legal, se niegue a cumplir con sus obligaciones fiscales o deje de atender los requerimientos que se le hagan; sujetándose al siguiente procedimiento:
-
-I.- Se efectuarán las diligencias de requerimientos si se ejecutan en días y horas en que la negociación o establecimiento esté autorizado para operar. En caso necesario, el Secretario de Finanzas podrá habilitar fundadamente estas horas y días de las que se hace mención;
-
-II.- Las clausuras se practicarán mediante fajillas que se adherirán en las entradas y salidas del local o locales que ocupe la negociación o establecimientos que se trate;
-
-III.- Estas fajillas deberán estar siempre autorizadas con el sello oficial de la oficina ejecutora y con la firma del Funcionario Fiscal que practique la diligencia;
-
-IV.- Cuando se estime necesario, podrá efectuarse la clausura no solamente con las mencionadas fajillas, sino con otros medios de procedimientos apropiados de seguridad;
-
-V.- De toda diligencia de clausura, se levantará acta pormenorizada, que firmará el deudor, Representante o Apoderado si está presente y quiere hacerlo, o el vecino más próximo ó un Policía si está conforme, o si pudiera hacerlo, así como los dos testigos reglamentarios.. (sic) De esta acta se dejará copia autorizada a la persona con quien se hubiere entendido la diligencia;
-
-VI.- En todo procedimiento de clausura quedará estrictamente prohibido al sujeto pasivo, responsable solidario o Apoderado sacar bienes del establecimiento, salvo que se trate de bienes perecederos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 111.
 
-Las clausuras a que se refiere este Apítulo (sic) solamente podrán levantarse cuando el deudor, o cualquiera otra persona, pague la totalidad del adeudo, o cuando así proceda para dar cumplimiento a una resolución judicial o del Tribunal Fiscal de la Federación, que haya causado estado o cuando la ordene el Secretario de Finanzas, siempre y cuando haya quedado garantizado el crédito fiscal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 112.
 
-Procederá el aseguramiento de bienes en la vía administrativa de ejecución, en el caso de no clausurarse el establecimiento:
-
-I.- Cuando transcurrido el plazo de tres días de requerimiento de pago, o el término que proceda, el deudor no ha cubierto totalmente el crédito a su cargo;
-
-II.- A solicitud del obligado al pago o de su Representante legítimo; y
-
-III.- En los demás casos que prevengan las Leyes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 113.
 
-El Ejecutor se constituirá en el domicilio del deudor y practicará la diligencia de secuestro administrativo con las mismas formalidades de las notificaciones personales.
-
-Si el requerimiento de pago se hizo por edictos la diligencia de embargo se entenderá con la autoridad municipal o local de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciera el deudor, en cuyo caso se entenderá con él.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 114.
 
-El deudor, o en su defecto, la persona con quien se entienda la diligencia, tendrá derecho a que en esta intervengan dos testigos y a designar los bienes suficientes que deban embargarse, siempre que se sujete al orden siguiente:
-
-I.- Los bienes inmuebles o la negociación en los casos a que se refiere la Fracción III del Artículo 105;
-
-II.- Dinero y metales preciosos;
-
-III.- Acciones, bonos, cupones vencidos, valores inmobiliarios en general, créditos del inmediato y fácil cobro, a cargo de Instituciones o Empresas particulares de reconocida solvencia;
-
-IV.- Alhajas y objetos de arte;
-
-V.- Frutos o rentas de toda especie;
-
-VI.- Bienes muebles no comprendidos en las fracciones anteriores; y
-
-VII.- Créditos o derechos no comprendidos en la fracción III anterior.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 115.
 
-El ejecutor podrá señalar bienes sin sujetarse al orden establecido en el artículo anterior:
-
-I.- Si el deudor no ha señalado bienes suficientes a juicio del mismo ejecutor o si no ha seguido dicho orden al hacer el señalamiento;
-
-II.- Si el deudor, teniendo otros bienes susceptibles de embargo, señálese:
-
-a).- Bienes ubicados fuera de la circunscripción de la oficina ejecutora; y
-
-b).- Bienes que ya reportaren cualquier gravamen real.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 116.
 
-Si al estarse practicando la diligencia dede (sic) embargo, el deudor hiciere exhibición del adeudo y sus accesorios en efectivo, el ejecutor suspenderá dicha diligencia y acompanará (sic) al deudor para que este efectúe el pago en la oficina Recaudadora de su adscripción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 117.
 
-Si al designarse bienes para el secuestro administrativo se opusiere un tercero fundándose en el dominio de ellos, deberá hacer valer sus derechos agotando el recurso administrativo de oposición de terceros que establece el Artículo 155 en su Fracción III, de esta Ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 118.
 
-Si los bienes señalados para la traba de ejecución están ya embargados por otras autoridades no fiscales o sujetos a cédula hipotecaria, su (sic) practicará no obstante el secuestro administrativo. Los bienes embargados se entregarán al depositario designado por la oficina ejecutora o por el ejecutor, y se dará aviso a la autoridad correspondiente para que el o los interesados hagan valer, dentro del término legal, el recurso administrativo de reclamación de preferencia que establece el Artículo 155 en su Fracción IV, de esta Ley.
-
-Si los bienes señalados para la ejecución hubieren sido ya embargados por parte de autoridades fiscales federales, se practicará el secuestro y se harán valer los derechos del estado ante la Autoridad Administrativa Federal en los términos de los Artículos 147, 148 y 149 del Código Fiscal de la Federación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 119.
 
-Quedan exceptuados de embargo:
-
-I.- El lecho cotidiano y los vestidos del deudor y de sus familiares;
-
-II.- Los muebles de uso indispensable del deudor y de sus familiares, no siendo lujo a juicio del ejecutor;
-
-III.- Los libros, instrumentos, útiles y mobiliario indispensable para el ejercicio de la profesión, arte y oficio a que se dedique el deudor;
-
-IV.- La maquinaria, enseres y semovientes propios para las actividades de las negociaciones industriales, comerciales agrícolas o ganaderas en cuanto fueren necesarios para su funcionamiento a juicio del ejecutor, pero podrán ser objeto de embargo junto con la negociación a que estén destinados;
-
-V.- Las armas, vehículos y caballos que los militares en servicio deben usar conforme a las Leyes;
-
-VI.- Los granos, mientras éstos no hayan sido cosechados, pero no los derechos sobre las siembras;
-
-VII.- El derecho de uso o de habitación;
-
-VIII.- El derecho usufructo, pero no los frutos de éste;
-
-IX.- El patrimonio de familia en los términos que establezcan las Leyes, desde su inscripción en el Registro Público de la Propiedad;
-
-X.- Los sueldos hasta por el monto del salario mínimo general de la zona en que resida el deudor;
-
-XI.- Las pensiones alimenticias; y
-
-XII.- Las pensiones civiles y militares concedidas por el Gobierno Federal, Gobierno del Estado o por los Organismos de Seguridad Social, hasta por el monto de diez veces el salario mínimo general de la zona en que resida el deudor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 120.
 
-El ejecutor trabará ejecución en bienes bastantes para garantizar las prestaciones pendientes de pago, los gastos de ejecución y los vencimientos futuros, poniendo todo lo secuestrado, previa identificación, bajo la guarda del o los depositarios que fueren necesarios y que, salvo cuando los hubiere designado anticipadamente la oficina exactora, nombrará el ejecutor en el mismo acto de la diligencia. El nombramiento de depositario podrá recaer en el ejecutado.
-
-La Secretaría de Finanzas del Estado puede designar un interventor de caja de las negociaciones embargadas, cuya remuneración será señalada por dicha autoridad con cargo a las negociaciones, quien desempeñará el cargo hasta que se otorgue garantía del interés fiscal o se liquide éste.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 121.
 
-Cuando se aseguren dinero, metales preciosos, alhajas, objeto (sic) de arte o valores mobiliarios, el depositario los entregará inmediatamente, previo inventario en la caja de la Oficina Ejecutora y ésta remitirá los bienes, con excepción del dinero a la Secretaría de Finanzas del Estado, dentro de las 48 horas siguientes al secuestro.
-
-La Secretaría de Finanzas proveerá lo conducente respecto de dichos bienes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 122.
 
-Las sumas de dinero objeto del secuestro, así como el importe de los frutos y productos de los bienes secuestrados, o los resultados de las negociaciones intervenidas, se aplicarán de inmediato al crédito fiscal en los términos del Artículo 29 de esta Ley. Si se embargare un inmueble, los frutos y productos se aplicarán de acuerdo con lo dispuesto en el citado Artículo 29.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 123.
 
-Si el deudor o cualquiera otra persona impidiera materialmente al ejecutor el acceso al domicilio de aquél o al lugar en que se encuentren los bienes, siempre que el caso lo requiera, el ejecutor actuará en los términos del Artículo siguiente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 124.
 
-Si durante el secuestro administrativo, la persona con quien se entendió la diligencia no abriere las puertas de las construcciones, edificio o casa donde se practica ésta y se presuma que existen bienes muebles embargables, el ejecutor requerirá formalmente al contribuyente o a su Representante legítimo para que proceda a dicha apertura, y si aún así insiste en su negativa, le apercibirá de proceder en su contra legalmente y levantará acta circunstanciada en presencia de dos testigos dando cuenta a su superior inmediato para que en su caso haga consignación de los hechos ante el Agente del Ministerio Público por desobediencia a un mandato legítimo de autoridad en ejercicio de su funciones; y para el efecto de que éste obtenga orden judicial para ruptura de las cerraduras que fuere necesario, a fin de que continúe la diligencia.
-
-Cuando el ejecutado no abriere los muebles donde se suponga se guarda dinero, alhajas, objetos de arte y otros bienes embargables, el ejecutor trabará embargo en los muebles cerrados y de su contenido y los sellará, constituyendo depósito de ellos en la persona del ejecutado, notificándole que quedan bajo su responsabilidad y que en caso de violación del depósito y sellos se hace acreedor a las penas señaladas en el Artículo 382, en relación con el 384 del Código Penal, así como debe estar presente para hora y día fijos para que dentro del término de tres días se proceda, ante el o ante la persona que al efecto designe para abrir los muebles y que en caso de no estar presente en la diligencia, si no se designó Representante, se hará ante la persona que se encuentre en el lugar y levantará en ambos casos acta circunstanciada ante dos testigos que en su caso podrá designar la Secretaría de Finanzas del Estado.
-
-Igual procedimiento se observará tratándose de cajas u otros objetos adheridos en un inmueble.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 125.
 
-Cualquiera otra dificultad que se suscite tampoco impedirá la prosecución de la diligencia de embargo. El ejecutor la subsanará discrecionalmente, a reserva de lo que disponga el Director de Procedimientos y Ejecución Fiscal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 126.
 
-El Director de Procedimientos y Ejecución Fiscal bajo su responsabilidad, nombrará y removerá libremente a los depositarios y a los interventores en las negociaciones comerciales, industriales, agrícolas o ganaderas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 127.
 
-El depositario o interventor, desempeñar su cargo dentro de las normas jurídicas en vigor con todas las facultades y responsabilidades inherentes, y tendrá, en particular las siguientes obligaciones:
-
-I.- Garantizar su manejo a satisfacción de la Oficina Ejecutora;
-
-II.- Manifestar a la oficina su domicilio y casa habitación de existir, así como los cambios que en su caso sucedan;
-
-III.- Remitir a la oficina inventario de los bienes o negociaciones objeto del secuestro, con expresión de los valores determinados en el momento del embargo, incluso de los de arrendamiento, si se hicieron constar la ubicación de los bienes o el lugar donde se guarden, a cuyo respecto todo depositario dará cuenta a la misma oficina de los cambios de localización que se efectuare;
-
-IV.- Recaudar los frutos y productos de los bienes secuestrados a los resultados de las negociaciones embargadas y enterar su importe en la caja de la oficina recaudadora diariamente o a medida que se efectúe la recaudación;
-
-V.- Ejercitar ante las Autoridades competentes las acciones y actos de gestión necesarios para hacer efectivos los créditos materia del depósito o incluidos en el, así como las rentas, regalías y cualesquiera otras prestaciones en numerario o en especie;
-
-VI.- Erogar los gastos de administración, mediante aprobación de la oficina ejecutora, cuando sean depositarios administradores, o ministrar el importe de tales gastos, previa la comprobación procedente, si solo fueren depositarios interventores;
-
-VII.- Rendir cuentas mensuales comprobadas a la Oficina Ejecutora; y
-
-VIII.- El depositario o interventor que tuviere conocimiento de irregularidades en el manejo de las negociaciones sujetas a embargo o de operaciones que pongan en peligro los intereses del fisco, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 128.
 
-Si las medidas urgentes que dicten los depositarios o interventores en los casos previstos en la Fracción VIII del Artículo anterior, no fueron acatadas por el deudor o el personal de la negociación secuestrada, la oficina ejecutora ordenará de plano que el depositario o interventor se convierta en administrador, quien tomará posesión de su cargo desde luego.
-
-El Administrador así nombrado tendrá las obligaciones que señale el Artículo anterior.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 129.
 
-El embargo de bienes inmuebles, derechos reales o de negociaciones de cualquier general (sic) se inscribirá en el Registro Público de la Propiedad o en el de Comercio.
-
-Cuando los bienes inmuebles, derechos reales o negociaciones queden comprendidos en la Jurisdicción de dos o más oficinas del Registro Público, en todas ellas se inscribirá el secuestro.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 130.
 
-Los secuestros administrativos podrán ampliarse en cualquier momento del procedimiento de ejecución cuando la Secretaría de Finanzas del Estado o la Dirección de Procedimientos y Ejecución Fiscal estimen que los bienes embargados son insuficientes para cubrir las prestaciones tributarias insolutas y los vencimientos inmediatos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO QUINTO. DE LOS REMATES
 
 ###### ARTICULO 131.
 
-La enajenación de bienes embargados procederá:
-
-I.- A partir del sexagésimo primer día natural de practicado el embargo, si en su contra no hubiere objeción o cuando quedare firme, al resolverse la que se hubiere hecho valer;
-
-II.- Cuando el embargado proponga por escrito comprador dentro de los dos meses siguientes a la fecha en que se practicó el embargo y siempre que el precio en que se enajenen cubra el valor que se haya señalado a los bienes embargados, y cuando el embargado no proponga comprador dentro del plazo señalado;
-
-III.- Al quedar firme la resolución confirmatoria del acto impugnado, recaída en los medios de defensa que se hubieren hecho valer; y
-
-IV.- También procederá la enajenación de bienes embargados en los casos previstos por el Artículo 145 del Código Fiscal de la Federación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 132.
 
-Salvo los casos que esta Ley autoriza, toda enajenación se hará en subasta pública que se celebrará en el local de la oficina ejecutora.
-
-La Secretaría de Finanzas del Estado, con el objeto de obtener mayor rendimiento, podrá designar otro lugar para la enajenación u ordenar que los bienes embargados se enajenen en lotes, fracciones o en piezas sueltas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 133.
 
-La base para el remate de los bienes secuestrados será la que resulte de la valuación por peritos; cuyas designaciones se harán conforme a las siguientes reglas:
-
-I.- La Dirección de Procedimientos y Ejecución Fiscal nombrará un perito y lo hará saber al interesado, para que, de no estar conforme con la designación, nombre el suyo propio e independiente del anterior; dentro del término de tres días hábiles;
-
-II.- El deudor deberá ponerse de acuerdo con la Dirección sobre el nombramiento de un tercer perito, que intervendrá si hubiere desacuerdo entre los anteriores; y
-
-III.- Si el deudor no se pone de acuerdo para los efectos de la fracción anterior, con la oficina ejecutora, ésta nombrará como perito tercero a una sociedad nacional de crédito o un Corredor Público Titulado;
-
-IV.- El costo de honorarios por los servicios de los peritos recaerá sobre el deudor fiscal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 134.
 
-El remate deberá ser convocado para una fecha fijada dentro de los treinta días naturales siguientes a a (sic) determinación del precio que deberá servir de base. La publicación de la convocatoria se hará cuando menos diez días naturales antes de la fecha de remate.
-
-La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente procediéndose de acuerdo con el reglamento correspondiente.
-
-Cuando el valor de los bienes muebles o inmuebles exceda de cinco veces el salario mínimo general del Estado, elevado al año, la convocatoria se publicará en el periódico oficial del Estado y en el Diario local de mayor circulación si lo hubiere, dos veces con intermedio de siete días.
-
-En todo caso, a petición del deudor y previo pago del costo, la Autoridad Ejecutora puede ordenar una publicación más amplia, dentro del plazo señalado en el primer párrafo de éste artículo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 135.
 
-Los acreedores que aparezcan en el certificado de gravámenes correspondiente a los últimos diez años, que deberá obtenerse oportunamente, serán citados para el acto de remate y en caso de no ser factibles por alguna de las causas a que se refiere la Fracción III del Artículo 90 y el 95 de esta Ley, se tendrá como citación la que se haga en las convocatorias en que se anuncie el remate, en las que deberá expresarse el nombre de los acreedores.
-
-Los acreedores mencionados en el párrafo anterior, tendrán derecho a concurrir al remate en defensa de sus intereses, para hacer valer su derecho de preferencia, si conforme a la Ley lo tienen o para hacer las observaciones que estimen del caso, las que serán resueltas por la respectiva oficina en el acto de la diligencia, si la naturaleza de ellas lo permite, o por el Secretario de Finanzas en el término de tres días siguientes a dicha diligencia.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 136.
 
-Mientras no se finque el remate, el deudor puede hacer pago de las cantidades reclamadas, de los vencimientos ocurridos y de los gastos de ejecución y de remate, en cuyo caso se levantará el embargo administrativo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 137.
 
-Es postura legal la que cubra las dos terceras partes del valor senalado (sic) como base para remate.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 138.
 
-En toda postura deberá ofrecerse de contado como mínimo, la parte suficiente para cubrir el interés tributario si este es superado por la base fijada para la enajenación y la diferencia podrá reconocerse a favor del deudor ejecutado, hasta por un año del plazo si la cantidad es menor de cincuenta mil pesos, y hasta por un plazo de dos años de esa suma en adelante.
-
-Los bienes, fracción o lote de bienes, cuya base para la enajenación sea igual o inferior al interés tributario solo podrán rematarse de contado.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 139.
 
-Al escrito en que se haga la postura se acompañará necesariamente un certificado de depósito por un importe cuando menos, de diez por ciento del valor fijado a los bienes de la convocatoria, expedido por Nacional Financiera, S.N.C. o por la propia Secretaría de Finanzas según sea el caso.
-
-El importe de los depósitos que se constituyan de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate previa orden de la oficina ejecutora, se devolverán los certificados de depósito a los postores, excepto el que corresponda al postor admitido, cuyo valor continuará como garantía del cumplimiento de su obligación, y, en su caso como parte del precio de enajenación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 140.
 
-Cuando el postor en cuyo favor se hubiere fincado un remate no cumpla con las obligaciones que contraiga y las que esta Ley le señala, perderá el importe del depósito que hubiere constituido y se aplicará, de plano, por las oficinas ejecutoras a favor del Gobierno Estatal. En este caso se reanudarán las almonedas en la forma y plazos que señalan los Artículos respectivos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 141.
 
-Las posturas deberán contener los siguientes datos:
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-I.- Nombre, edad, nacionalidad, capacidad legal, registro de contribuyentes, estado civil, profesión y domicilio del postor. Si fuere una sociedad los datos principales de su Constitución, domicilio social y registro de contribuyentes;
-
-II.- Las cantidades que se ofrezcan; y
-
-III.- Lo que se ofrezca de contado y los términos en que haya de pagarse la diferencia, la que causará intereses según la tasa a que se refiere el Artículo 24 de esta Ley, siempre y cuando el pago a plazos de la diferencia se acepten por la Secretaría de Finanzas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 142.
 
-El día y hora señalados en la convocatoria, el Director de Procedimientos y Ejecución Fiscal, después de pasar lista de las personas que hubieren presentado posturas, hará saber a las que estén presentes cuales posturas fueron calificadas como legales y les dará a conocer cual es la mejor postura, concediendo plazos sucesivos de cinco minutos cada uno, hasta que la última postura no sea mejorada.
-
-El Jefe de la Oficina Ejecutora fincará el remate en favor de quien hubiere hecho la mejor postura.
-
-Si en la última postura se ofrece igual suma de contado, por dos o más licitantes, se designará por suerte la que deba aceptarse, salvo lo dispuesto en la fracción III del Artículo 150.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 143.
 
-Fincado el remate de bienes muebles se aplicará el depósito constituido, el postor dentro de los tres días hábiles siguientes a la fecha del remate, enterará en la caja de la oficina ejecutora el saldo de la cantidad de contado ofrecido en su postura o mejoras, y constituirá las garantías a que se hubiere obligado por parte del precio que quedare adeudado.
-
-Tan pronto como el postor hubiere cumplido con los requisitos a que se refiere el párrafo anterior y el remate sea aprobado por la Secretaría de Finanzas del Estado, si este requisito fuese necesario conforme al artículo siguiente, la Oficina Ejecutora procederá a entregarle los bienes que le hubieren adjudicado.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 144.
 
-Si los bienes rematados fueren inmuebles o muebles cuyo valor exceda de cincuenta mil pesos, la Oficina Ejecutora dentro de un plazo de cinco días hábiles enviará el expediente a la Secretaría de Finanzas del Estado para que el Secretario de la misma, previa revisión y en su caso, apruebe el remate si el procedimiento se apegó a las normas que lo rigen. Si la resolución es negativa, el fincamiento que haya hecho la Oficina Ejecutora quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiere constituido.
-
-Aprobado el remate de bienes inmuebles se le comunicará al postor para que, dentro del plazo de diez días hábiles, entere en la caja de la oficina ejecutora la cantidad de contado ofrecida en su postura aceptada.
-
-Hecho el pago a que se refiere el párrafo anterior, y cuando proceda, designado el Notario por la Secretaría de Finanzas, se citará al deudor para que, dentro del plazo de diez días naturales otorgue y firme la escritura de venta correspondiente, apercibido de que si no lo hace, el Director de Procedimientos y Ejecución Fiscal la otorgará y firmará en su rebeldía. Si no fuese posible su localización, el citatorio se realizará por edicto por única vez en el periódico oficial y en un periódico de circulación en la localidad.
-
-En la misma escritura se otorgará por el adquirente garantía hipotecaria respecto a la parte de precio que quedare adeudado.
-
-El deudor, aún en el caso de rebeldía, responde por la evicción y saneamiento del bien inmueble rematado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 145.
 
-Los bienes inmuebles pasarán a ser propiedad del postor libre de todo gravamen y a fin de que se cancelen lo que reportare, el Jefe de la Oficina Ejecutora que finque el remate deberá comunicar al Registro Público de la Propiedad respectivo a la transmisión de dominio de los inmuebles.
-
-Los Directores o encargados del Registro Público de la Propiedad deberán inscribir las transmisiones de dominio de bienes inmuebles que resulten de los remates celebrados por las oficinas ejecutoras locales y procederán hacer las cancelaciones de gravámenes que sean procedentes como consecuencia de la transmisión o adjudicación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 146.
 
-Tan luego como hubiere otorgado y firmado la escritura en que conste la adjudicación de un inmueble, el Jefe de la Oficina Ejecutora dispondrá que se entregue al adquirente.
-
-Si el adquirente lo solicita, se le dará a conocer como adjudicatario del inmueble a las personas que designe.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 147.
 
-Queda estrictamente prohibido adquirir los bienes objeto de un remate, por sí o por medio de interpósita persona, a los Jefes de las Oficinas Ejecutoras y personal de las mismas y a las demás personas que hubieren intervenido por parte del fisco local, en los procedimientos de ejecución. El remate efectuado con infracción a este precepto, será nulo y los infractores serán castigados de acuerdo con lo que establece esta Ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 148.
 
-Con el producto del remate se pagará el interés tributario consistente en:
-
-I.- Los gastos de ejecución a saber:
-
-a).- Los honorarios de los ejecutores, depositarios y peritos de conformidad con lo que establezcan las disposiciones reglamentarias o lo que, a falta de éstas, resuelva respecto de cada caso la Secretaría de Finanzas del Estado, a propuesto (sic) de las oficinas ejecutoras respectivas;
-
-b).- Los de impresión y publicación de convocatorias;
-
-c).- Los de transporte del personal ejecutor y de los bienes muebles embargados, así como el costo de almacenaje de los mismos bienes; y
-
-d).- Los demás que, con el carácter de extraordinarios eroguen las oficinas ejecutoras con motivo del procedimiento de ejecución.
-
-II.- Los recargos y multas;
-
-III.- Los impuestos, contribuciones especiales, derechos, productos y aprovechamientos que motivaron al embargo; y
-
-IV.- Los vencimientos ocurridos durante el procedimiento administrativo.
-
-Cuando hubiere varios créditos, la aplicación se hará por orden de antigüedad de los mismos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 149.
 
-Si hubiere otros acreedores, los derechos del fisco estatal se determinarán de acuerdo con la prelación que establecen los Artículos 118, 155 y 159 de esta Ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 150.
 
-El fisco estatal tendrá preferencia para adjudicarse en cualquier almoneda, los bienes ofrecidos en remate:
-
-I.- A falta de postores, por la base de la postura legal que habría de servir para la almoneda siguiente;
-
-II.- A falta de pujas, por la base de la postura legal no mejorada;
-
-III.- En caso de posturas o pujas iguales, por la cantidad en que se haya producido el empate; y
-
-IV.- Hasta por el monto del adeudo si este no excede de la cantidad en que debe fincarse el remate en la tercera almoneda, de acuerdo con lo estipulado en la parte final del Artículo siguiente.
-
-La adjudicación regula (sic) en este artículo, sólo será válida si la aprueba el Secretario de Finanzas del Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 151.
 
-Cuando no se hubiere fincado el remate en la primera almoneda, se fijará nueva fecha y hora para que, dentro de los quince días siguientes, se lleve a cabo una segunda almoneda cuya convocatoria se hará en los términos del Artículo 134, con la salvedad de que la publicación se hará por una sola vez.
-
-La base para el remate en la segunda almoneda se determinará deduciendo en 20% de la señalada para la primera.
-
-Si tampoco se fincare el remate en la segunda almoneda, se convocará a una tercera, conforme a las mismas reglas que la segunda. La base para el remate en tercera almoneda será fijada deduciendo un 20% a las de la segunda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 152.
 
-Las oficinas ejecutoras podrán efectuar enajenaciones fuera de subasta tratándose de bienes de fácil descomposición o deterioro; materias (sic) inflamables y semovientes.
-
-En estos casos la enajenación podrá efectuarse cuando se cubra como mínimo el 50% del crédito tributario, incluyendo los accesorios legales correspondientes. De no obtenerse esta cantidad, se procederá a la destrucción de bienes.
-
-Cuando se trate de bienes inmuebles o de bienes muebles que habiendo salido a subasta por lo menos en dos almonedas y no se hubieren presentado postores, las oficinas ejecutoras solicitarán del Secretario de Finanzas del Estado autorización para su enajenación al mejor postor.
-
-También procederá la enajenació (sic) fuera de subasta cuando el embargado señale al presunto adquirente y acepte el precio que dicho adquirente proponga siempre que lo que se pague de contado cubra cuando menos el 90% de la totalidad de los créditos tributarios.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 153.
 
-Las cantidades excedentes después de haber hecho la aplicación del producto del remate, enajenación fuera de subasta o adjudicación de los bienes secuestrados, se entregará al embargado, salvo que medie orden escrita de autoridad competente o que el propio embargado acepte también por escrito, que se haga entrega total o parcial del saldo a un tercero.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-En caso de conflicto el remanente se depositará en una sociedad nacional de crédito.
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ## TITULO SEXTO. DE LOS RECURSOS ADMINISTRATIVO (SIC)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 154.
 
-Contra los actos o resoluciones dictadas en materia tributaria, solo procederán los recursos administrativos que establezca esta Ley o los demás ordenamientos tributarios, siempre y cuando la promoción se haga en tiempo.
-
-Cuando no exista recurso administrativo, será improcedente cualquier instancia de reconsideración.
-
-Los actos o resoluciones que se dicten como consecuencia de recursos no establecidos legalmente, si hubiere modificación favorable a particular con violación de la Ley aplicada, la nueva resolución no producirá efecto jurídico alguno.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 155.
 
-Cuando las Leyes fiscales no establezcan recursos procederán:
-
-I.- La revocación;
-
-II.- La oposición al procedimiento ejecutivo;
-
-III.- La oposición de tercero;
-
-IV.- La reclamación de preferencia; y
-
-V.- La nulidad de notificaciones.
-
-Estas defensas no podrán ser ejercitadas en contra de resoluciones o actos que sean consecuencia de recursos establecidos en otras leyes fiscales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 156.
 
-La revocación solo procederá en contra de resoluciones administrativas en las que se determinen créditos fiscales, que consten por escrito.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 157.
 
-La oposición al procedimiento ejecutivo será hecho valer por quienes hayan sido afectados por él y afirmen:
-
-I.- Que el crédito que se les exige se ha extinguido por cualquiera de los medios que para tal efecto establece esta Ley;
-
-II.- Que el monto del crédito es inferior al exigido; y
-
-III.- Que el procedimiento coactivo no se ha ajustado a la Ley.
-
-En este último caso, salvo que se alegue violación del procedimiento de requerimiento de pago, la oposición no podrá hacerse valer sino en contra de la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación o de actos de ejecución sobre bienes legalmente inembargables, según dispone el artículo 119 de esta Ley.
-
-En la oposición a que se refiere este Artículo no podrán discutirse la validez de la resolución en que se haya determinado el crédito tributario.
-
-La oposición al procedimiento ejecutivo será resuelto en todos los casos por el Secretario de Finanzas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 158.
 
-La oposición de tercero deberá hacerse valer por quien no siendo la persona contra la que se despachó ejecución afirma ser propietario de los bienes o titular de los derechos embargados acreditando por escrito su dicho y anexando documentación probatoria. La autoridad del caso remitirá el escrito al tercero y el expediente respectivo al Secretario de Finanzas del Estado para su resolución.
-
-La declaración del ejecutado no será admisible como prueba del derecho del opositor.
-
-La oposición podrá hacerse valer en cualquier tiempo antes de que se apruebe el remate, sin atenderse a la regla que en cuanto al término establece la fracción II del Artículo 161.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 159.
 
-La reclamación de preferencia será hecha valer por quienes sostengan tener derecho a que los créditos a su favor se cubran preferentemente a los créditos fiscales estatales.
-
-La declaración del ejecutor no será admisible como prueba del derecho del reclamante.
-
-La reclamación deberá hacerse valer ante el Secretario de Finanzas del Estado en cualquier tiempo antes de que se haya aplicado el producto del remate, sin atenerse a la regla que en cuanto al término establece la fracción II del Artículo 161.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 160.
 
-La nulidad de notificaciones procederá respecto de las que se hicieren en contravención a las disposciciones (sic) legales.
-
-La declaratoria de nulidad de notificaciones, traerá como consecuencia la de las actuaciones posteriores a la notificación anulada y que tengan relación con ella.
-
-En tanto se resuelve este recurso por el o los Agentes Fiscales responsables, quedará en suspenso el término legal para impugnar la resolución de fondo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 161.
 
-La tramitación de los recursos administrativos establecidos en esta Ley y la de los instituidos en las demás Leyes fiscales que no tengan señalado trámite especial, se sujetará a las normas siguientes:
-
-I.- Se interpondrán por escrito en el que se precisarán los agravios que cause el acto o resolución impugnados y en el que se haga ofrecimiento de pruebas;
-
-II.- El escrito será presentado dentro de los quince días naturales siguientes al en que surta efectos la notificación del acto o resolución que se impugna ante la Autoridad que la dictó o la realizó; si el recurrente tiene su domicilio en población distinta del lugar en que reside la Autoridad citada podrá enviar su escrito dentro del mismos término, por correo certificado, con acuse de recibo, o bien presentarlo ante la Autoridad que le haya notificado la resolución. En estos casos se tendrá como fecha de presentación el escrito respectivo la del día en que se haga la entrega en la oficina de correos o la autoridad que efectuó la notificación;
-
-III.- La autoridad encargada de resolver el recurso proveerá desde luego al desahogo de las pruebas ofrecidas. Al efecto, señalará un término de quince días naturales dentro del cual los interesados deberán exhibir todos los documentos que hubieren ofrecido; asimismo, deberán presentar a sus peritos y testigos. Si por la naturaleza se considera insuficiente el plazo de quince días naturales, podrá ampliarse hasta por tres meses naturales más;
-
-IV.- Para la solución de los recursos, las Autoridades tributarias podrán pedir que se les rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en la formación de la resolución o acto reclamado; y
-
-V.- Rendidas las pruebas y recibos, en su caso, los informes, se dictará resolución dentro de un plazo que no excederá de treinta días naturales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 162.
 
-En lo no previsto en este capítulo será aplicable supletoriamente, en relación con el ofrecimiento, recepción y desahogo de pruebas, el Código de Procedimientos Civiles del Estado de Morelos, así como el Código Fiscal de la Federación en lo conducente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 163.
 
-La interposición del recurso suspenderá la ejecución de la resolución o acto impugnado por cuanto al pago de los créditos, previa garantía del importe de los mismos, en los términos del artículo 105 de esta Ley.
-
-Respecto de cualquier otra clase de resoluciones o actos o de sanciones que no sean multas, la suspensión sólo se otorgará si concurren los siguientes requisitos:
-
-I.- Que la solicite el recurrente por escrito;
-
-II.- Que el recurso sea procedente atento a la disposición contenida en el artículo 155;
-
-III.- Quede (sic) otorgarse la suspensión no tenga por efecto la consumación o continuación de actos u omisiones que impliquen perjuicios al interés social, al interés fiscal o al orden público, de acuerdo a lo dispuesto en esta Ley;
-
-IV.- Que no se ocasionen daños o perjuicios a terceros a menos que se garanticen éstos para el caso de no tener resolución favorable en el monto que fije la autoridad como su resolución; y
-
-V.- Que la ejecución del acto o resolución recurrida produzca perjuicios de imposible o difícil reparación en contra de la recurrente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 # LIBRO SEGUNDO. DE LOS INGRESOS TRIBUTARIOS
 
@@ -6278,3 +5530,21 @@ Para la determinación en cantidad líquida del impuesto, no se tomará en cuent
 ###### ARTICULO CUARTO.
 
 Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para sus efectos constitucionales correspondientes.
+
+P.O. 27 DE DICIEMBRE DE 1995.
+
+PRIMERO.- El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+SEGUNDO.- Con las salvedades que se indican en el artículo siguiente, quedan abrogadas las disposiciones contenidas en el libro primero de la Ley General de Hacienda del Estado de Morelos y de la Ley General de Hacienda Municipal de esta Entidad y derogadas las demás leyes y disposiciones en cuanto se opongan al presente Código.
+
+TERCERO.- Respecto a la tramitación de los recursos administrativos pendientes, se observarán las siguientes prevenciones:
+
+I.- Tendrán plena validez y efecto los actos y resoluciones dictados durante la tramitación, conforme a las leyes abrogadas y derogadas.
+
+II.- Los asuntos contenciosos administrativos se sujetarán a las disposiciones anteriores, conforme a las leyes abrogadas o derogadas.
+
+III.- Si para la interposición de un recurso o para el ejercicio de algún otro derecho en la tramitación de los asuntos pendientes al iniciar su vigencia este Código, estuviere corriendo algún término y el señalado en él fuere menor que (sic) fijado en las disposiciones anteriores, se observará lo dispuesto en este ordenamiento.
+
+IV.- Todos los recursos, consultas y demás actos de los particulares, de las autoridades fiscales o de entre ambos, que se inicien a partir del día en que entre en vigor esté Código, se regularán plenamente por el mismo.
+
+CUARTO.- El Titular del Poder Ejecutivo del Estado instrumentará las adecuaciones que correspondan al reglamento interior de la Secretaría de Hacienda, en cumplimiento de las disposiciones contenidas en este Código, contando para ello con un plazo de noventa días hábiles a partir de la entrada en vigor de este ordenamiento.
