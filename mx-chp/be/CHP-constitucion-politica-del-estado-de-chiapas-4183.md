@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1934-11-28"
+last_updated: "1935-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1935.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -603,7 +603,7 @@ Todos los reglamentos, decretos y órdenes del Gobernador, deberán ir firmados 
 
 #### SECCION TERCERA. Del Poder Judicial
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1935)</small>
 
 ###### ARTICULO 52.
 
@@ -615,9 +615,9 @@ El Secretario General es el órgano de comunicación entre el Gobernador y las a
 
 ###### ARTICULO 54.
 
-El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, Jueces de Primera Instancia, Asesores, Jurados, Jueces Municipales y Jueces Rurales, quienes no podrán estar afiliados o subordinados a organizaciones religiosas. El Estado se divide en los Distritos Judiciales siguientes: de Comitán, con cabecera en la ciudad de Comitán de Domínguez; de Alvaro Obregón, con Cabecera en la Villa de Ocosingo; de Chiapa, con cabecera en la ciudad de Chiapa de Corzo; de las Casas, con cabecera en la ciudad de San Cristóbal Las Casas; de Cintalapa, con cabecera en la Villa de Cintalapa; de La Libertad, con cabecera en la ciudad de San Bartolomé; de Mariscal, con cabecera en el pueblo de Motozintla de Mendoza; de Mezcalapa, con cabecera en la Villa de Copainalá; de Palenque, con cabecera en Salto de Agua; de Pichucalco; de Simojovel, con cabecera en la ciudad de Simojovel de Allende; de Soconusco, con cabecera en la Ciudad de Tapachula; de Tonalá, con cabecera en la ciudad de Tonalá; de Tuxtla, con cabecera en la ciudad de Tuxtla Gutiérrez; y de Villa Flores, con cabecera en el Pueblo de Villa Flores.
+El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, Jueces de Primera Instancia, Asesores, Jurados, Jueces Municipales y Jueces Rurales, quienes no podrán estar afiliados o subordinados a organizaciones religiosas. El Estado se divide en los Distritos Judiciales siguientes: de Comitán, con cabecera en la ciudad de Comitán de Domínguez; de Alvaro Obregón, con Cabecera en la Villa de Ocosingo; de Chiapa, con cabecera en la ciudad de Chiapa de Corzo; de Las Casas, con cabecera en la ciudad de Las Casas; de Cintalapa, con cabecera en la Villa de Cintalapa; de La Libertad, con cabecera en la ciudad de Venustiano Carranza; de Mariscal, con cabecera en el pueblo de Motozintla de Mendoza; de Mezcalapa, con cabecera en la Villa de Copainalá; de Palenque, con cabecera en Salto de Agua; de Pichucalco, con cabecera en la Ciudad de Pichucalco; de Simojovel, con cabecera en la ciudad de Simojovel de Allende; de Soconusco, con cabecera en la Ciudad de Tapachula; de Tonalá, con cabecera en la ciudad de Tonalá; de Tuxtla, con cabecera en la ciudad de Tuxtla Gutiérrez; de Villa Flores, con cabecera en el Pueblo de Villa Flores, y de Huixtla, con cabecera en la ciudad de Huixtla.
 
-Los Distritos Judiciales de de (sic) Comitán, Alvaro Obregón, Las Casas, La libertad, Mariscal, Mezcalapa, Palenque, Pichucalco, Simojovel, Soconusco y Tonalá, tendrán por jurisdicción la que comprendían los extintos Departamentos de su nombre. El Distrito Judicial de Cintalapa, comprende los Municipios de Cintalapa y Jiquipilas; el de Villa Flores, comprende los Municipios de Villa Flores y Villa Corzo. Los Distritos de Tuxtla y Chiapa, tendrán como jurisdicción la que tenían los extintos Departamentos de su nombre, con excepción de los que comprenden los nuevos Distritos de Cintalapa y Villa Flores, respectivamente.
+Los Distritos Judiciales de Comitán, Alvaro Obregón, Las Casas, La Libertad, Mariscal, Mezcalapa, Palenque, Pichucalco, Simojovel y Tonalá, tendrán por jurisdicción la que comprendían los extintos Departamentos de su nombre. El Distrito Judicial de Cintalapa, comprende los Municipios de Cintalapa y Jiquipilas; el de Villa Flores comprende los Municipios de Villa Flores y Villa Corzo; el de Huixtla, comprende los Municipios de Huixtla, Pueblo Nuevo Comaltitlán, Acapetagua, Escuintla, Tuzantán y Huehuetán. Los Distritos de Tuxtla, Chiapa y Soconusco, tendrán como jurisdicción la que tenían los extintos Departamentos de su nombre, con excepción de los que comprenden los nuevos Distritos de Cintalapa, Villa Flores y Huixtla, respectivamente.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
 
@@ -1038,3 +1038,9 @@ DECRETO NÚMERO 104/9 QUE REFORMA ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DEL
 1º.- Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
 
 2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 25 DE DICIEMBRE DE 1935.
+
+1º.- Quedan derogados todas las leyes, decretos y demás disposiciones que se opongan a las reformas a que se contrae el presente Decreto.
+
+2º.- Este decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
