@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2003-12-24"
+last_updated: "2004-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -197,43 +197,7 @@ La base de este impuesto será el valor catastral de los predios, determinado de
 
 El impuesto predial se pagará aplicando a la base del impuesto las tasas señaladas en la siguiente:
 
-T A R I F A
-
-USOS DEL SUELO
-
-GRUPO I GRUPO 2 GRUPO 3
-
-I.- URBANOS
-
-Habitacional
-
-0.30% 0.30% 0.30%
-
-Comercial y de Servicios
-
-0.40% 0.40% 0.40%
-
-Industrial
-
-0.40% 0.40% 0.40%
-
-Baldíos
-
-2.00% 1.00% 1.00%
-
-Preservación Ecológica
-
-0.10% 0.10% 0.10%
-
-II.- RUSTICOS
-
-Terrenos explotados
-
-1.00% 1.00% 1.00%
-
-Terrenos inexplotados
-
-2.00% 2.00% 2.00%
+(VEASE TABLA ANEXA)
 
 > <small>(ADICIONADO, P.O. 24 DE ENERO DE 2000)</small>
 
@@ -263,13 +227,17 @@ La cuota de este impuesto será anual y su pago deberá hacerse por bimestres ad
 
 El monto del impuesto predial anual mínimo en los predios urbanos y rústicos no será inferior a dos salarios mínimos diarios prevalecientes en el Municipio.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 #### SECCION TERCERA. DE LA BASE
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 25.
 
-El impuesto podrá pagarse por anualidad anticipada a más tardar el último día hábil del mes de febrero, en cuyo caso se gozará de una reducción del 10% de dicha anualidad.
+El impuesto podrá pagarse por anualidad anticipada, en cuyo caso se gozará de una reducción que se deducirá de la base gravable, la cantidad que constituya el 10% de ésta, cuando se pague durante el primer bimestre, y del 5% cuando el pago se realice durante el segundo bimestre del año que corresponda.
+
+Esta previsión no se aplicará adicionalmente al beneficio previsto en el artículo 22. En ningún caso el importe del impuesto a pagar será inferior al señalado en el artículo 24 de esta misma ley.
 
 #### SECCION CUARTA. DE LA TASA
 
@@ -333,7 +301,13 @@ Se tomará como valor de mercado el referido en la GUIA EBC para comerciantes en
 
 ###### ARTICULO 34.
 
-El impuesto sobre adquisición de vehículos de motor usados se calculará aplicando a la base determinada la tasa del 2.5%, para los grupos 1, 2 y 3 respectivamente.
+El impuesto sobre adquisición de vehículos de motor usados se calculará aplicando a la base determinada las tasas siguientes:
+
+T A R I F A
+
+GRUPO 1 GRUPO 2 GRUPO 3
+
+1% 2.5% 2.5%
 
 ### CAPITULO SEGUNDO. DEL IMPUESTO SOBRE ADQUISICION DE VEHICULOS DE MOTOR USADOS QUE SE REALICEN ENTRE PARTICULARES
 
@@ -410,6 +384,8 @@ VI.- Otros espectáculos no especificados, sobre ingresos brutos
 8.00%
 
 #### SECCION CUARTA. DE LA TASA
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 38.
 
@@ -553,15 +529,7 @@ Las obligaciones a que se refiere el presente artículo, deberán cumplirse dent
 
 ###### ARTICULO 51.
 
-Están obligados al pago del impuesto sobre adquisición de inmuebles establecido en este capítulo, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el Territorio de los Municipios del Estado así como los derechos relacionados con los mismos a que este capítulo se refiere.
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
-
-El valor del inmueble podrá ser el valor de adquisición del mismo disminuido con el valor que se tomó como base para calcular el impuesto a que se refiere este capítulo en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
-
-> <small>(ADICIONADO, P.O. 11 DE MARZO DE 1995)</small>
-
-Cuando el adquirente de un bien inmueble no se encuentre en el supuesto a que se refiere el párrafo anterior, al valor del Inmueble se le podrá reducir cinco veces el salario mínimo general vigente elevado al año de la zona económica a que corresponda la ubicación del inmueble. Al valor obtenido se le aplicará la tasa determinada para el cálculo de este gravamen.
+Están obligados al pago del impuesto sobre adquisición de inmuebles establecido en este capítulo, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el territorio de los municipios del Estado así como los derechos relacionados con los mismos a que este capítulo se refiere.
 
 #### SECCION SEXTA. DE LAS OBLIGACIONES
 
@@ -569,7 +537,9 @@ Cuando el adquirente de un bien inmueble no se encuentre en el supuesto a que se
 
 Para los efectos de este impuesto, se entiende por adquisición la que se derive de:
 
-I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges, también se exceptúan las donaciones entre ascendientes y descendientes consanguíneos hasta el tercer grado en línea recta;
 
 II.- La compraventa en la que el vendedor se reserve la propiedad aún cuando la transferencia de ésta opere con posterioridad;
 
@@ -583,7 +553,9 @@ VI.- La dación en pago y la liquidación, reducción de capital, pago en especi
 
 VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
 
-VIII.- Prescripción positiva;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+VIII.- Prescripción Positiva o Información de Dominio;
 
 IX.- La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
 
@@ -593,41 +565,43 @@ X.- Enajenación a través de fideicomiso o de cesión de derechos de fideicomis
 
 XI.- La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiere en demasía del porciento que le correspondía al copropietario o cónyuge.
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XII.- La adjudicación de bienes inmuebles, derivada de remate o almoneda judicial o administrativo, excepto la adjudicación de bienes que se realicen a favor de los trabajadores derivados de procedimientos laborales y de los acreedores en procedimientos de materia alimenticia.
+
 En las permutas se considerará que se efectúan dos adquisiciones.
 
 #### SECCION PRIMERA. DEL OBJETO Y SUJETO
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 53.
 
-En la determinación de este impuesto se deberán seguir las reglas siguientes:
+La base del impuesto sobre adquisición de inmuebles será el valor más alto que resulte entre el valor de operación, el valor catastral o el valor comercial a la fecha de operación determinado por el avalúo bancario practicado por institución autorizada o valuador facultado conforme a la Ley, mismo que deberá anexarse como parte integral del aviso traslativo de dominio en la operación de que se trate.
 
-I.- El impuesto sobre adquisición de inmuebles se calculará tomándose el valor más alto que resulte entre el declarado en la operación estipulado en el contrato respectivo, el del avalúo bancario o el que contenga el certificado de valor catastral que expida la Dependencia autorizada para tal efecto;
+En el caso de los avalúos bancarios, sólo se tomarán en consideración aquellos que hayan sido realizados y expedidos dentro de los seis meses anteriores a la fecha de la adquisición.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+El certificado de valor catastral que se utilice para la determinación del impuesto, será el vigente al momento en que se protocolice la escritura, y en los casos en que no se quiera esta formalidad conforme a las leyes, se aplicará el que esté vigente al momento en que se pague el impuesto.
 
-El valor del inmueble que se considerará para los efectos del artículo 51 de este capítulo, será la cantidad que resulte de actualizar el precio pactado por el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquél en que sea exigible el pago, entre el mencionado índice correspondiente al mes anterior a aquél en que se efectuó la adquisición. Las autoridades fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmueble, referido a la fecha de adquisición y cuando el valor que resulte de dicho avalúo, exceda en más de un 10% del precio pactado, éste no se tomará en cuenta y el impuesto se calculará sobre el valor de avalúo, determinándose las diferencias de impuestos que resulten.
+Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
 
-II.- Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+En la constitución, adquisición o extinción de usufructo o de la nuda propiedad y en la adquisición de bienes de remate, se estará a lo dispuesto en el primer párrafo de este artículo.
 
-Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que se practique por la Dependencia autorizada para tal efecto, o el avalúo bancario; y en caso de existir diferencias entre ellos, la base para el pago del impuesto será el mayor de tales valores.
-
-En la constitución, adquisición o extinción de usufructo o de la nuda propiedad y, en la adquisición de bienes de remate, no se tomará en cuenta el precio que se hubiere pactado sino el del avalúo a que se refiere este párrafo.
-
-Para los fines del impuesto sobre adquisición de inmuebles, se considera que el usufructo y la nuda propiedad tiene un valor, cada uno de ellos, del 50% del valor de la propiedad; y
-
-III.- El certificado de valor catastral que se utilice para la determinación del impuesto, será el vigente al momento en que se protocolice la escritura, y en los casos en que no se requiera esta formalidad conforme a las leyes, se aplicará el que esté vigente al momento en que se pague el impuesto.
+Para los fines del impuesto sobre adquisición de inmuebles, se considerará que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
 #### SECCION SEGUNDA. DE LA BASE
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 54.
 
-El impuesto se calculará aplicando la tasa del 2% al valor del inmueble.
+El impuesto se calculará aplicando la tasa del 2% a la base gravable.
 
 ### CAPITULO QUINTO. DEL IMPUESTO SOBRE ADQUISICION DE INMUEBLES
 
 #### SECCION TERCERA. DE LA TASA
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 55.
 
@@ -635,11 +609,7 @@ El impuesto se calculará aplicando la tasa del 2% al valor del inmueble.
 
 ###### ARTICULO 56.
 
-Tratándose de adquisición de vivienda de interés social y vivienda popular de nueva construcción, el impuesto se calculará aplicando la tasa del 2% al valor del inmueble después de reducirlo dieciséis veces el salario mínimo general vigente elevado al año de la zona económica a que corresponda la ubicación de dicho inmueble.
-
-Se considera vivienda de interés social: aquélla cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por quince el salario mínimo general elevado al año, vigente en el área geográfica de que se trate.
-
-Se considera vivienda popular: aquélla cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general elevado al año, vigente en el área geográfica de que se trate.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
 
 #### SECCION CUARTA. DEL PAGO
 
@@ -761,7 +731,7 @@ Los encargados del Registro Público de la Propiedad no inscribirán ningún act
 
 #### SECCION PRIMERA. POR SERVICIOS DE TRANSITO
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 67.
 
@@ -813,13 +783,15 @@ II.- Por otros servicios de tránsito:
 
 A.- Permisos para que transiten vehículos sin placas hasta por quince días 1.67
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 B.- Por expedición de licencias para conducir:
 
-a).- Para automovilistas 2.54
+a). Para automovilistas 3.04
 
-b).- Para chofer 3.63
+b). Para chofer 4.13
 
-c).- Para motociclistas 1.67
+c). Para motociclistas 2.17
 
 C.- Permiso para práctica de manejo sin licencia, hasta por quince días 1.67
 
@@ -1019,6 +991,8 @@ Estos servicios se regirán en todo lo que les sea aplicable, por la Ley de Agua
 
 #### SECCION PRIMERA. POR LICENCIA DE CONSTRUCCION
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 #### SECCION SEGUNDA. POR LICENCIA DE URBANIZACION
 
 ###### ARTICULO 86.
@@ -1045,27 +1019,23 @@ Por la expedición de licencias municipales de construcción, reconstrucción, r
 
 T A R I F A
 
-T I P O
+T I P O GRUPO 1 GRUPO 2 GRUPO 3
 
-GRUPO 1 GRUPO 2 GRUPO 3
+I.- Habitación popular e interés social 0.40% 0.40% 0.40%
 
-I.- Habitación popular e interés social
+II.- Habitación media 0.75% 0.75% 0.75%
 
-0.40% 0.40% 0.40%
+III.- Habitación residencial, comercial e
 
-II.- Habitación media
+industrial 1.00% 1.00% 1.00%
 
-0.75% 0.75% 0.75%
+IV.- Servicios (equipamiento urbano) 1.25% 1.25% 1.25%
 
-III.- Habitación residencial, comercial e industrial
-
-1.00% 1.00% 1.00%
-
-IV.- Servicios (equipamiento urbano)
-
-1.25% 1.25% 1.25%
+El monto de la obra será el que se desprenda del presupuesto que se presente o en su caso las autoridades podrán determinar dicho monto considerando el volumen y las características de la construcción a realizar.
 
 #### SECCION CUARTA. POR LA AUTORIZACION DE USO DE LA VIA PUBLICA
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 91.
 
@@ -1175,15 +1145,13 @@ Para lo no previsto en esta sección se estará a lo dispuesto en el Reglamento 
 
 ###### ARTICULO 100.
 
-Es objeto de este derecho, la autorización expresa de uso de la vía pública para comerciantes con puestos fijos o semifijos, el cual se causará por cada metro cuadrado de ocupación una renta mensual equivalente al número de veces el salario mínimo diario de la zona conforme a la siguiente:
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1994)</small>
+Es objeto de este derecho, la autorización expresa de uso de la vía pública para personas físicas o morales que utilicen las vías y espacios públicos para cualquier actividad con fines de lucro, el cual se causará por cada metro cuadrado de ocupación una renta mensual equivalente al número de veces el salario mínimo diario de la zona conforme a la siguiente:
 
 T A R I F A
 
 GRUPO 1 GRUPO 2 GRUPO 3
 
-1.00 a 30.00 1.00 a 30.00 1.00 a 30.00
+1.00 A 30.00 1.00 A 30.00 1.00 A 30.00
 
 ###### ARTICULO 101.
 
@@ -1277,13 +1245,11 @@ III.- Por difusión fonética de publicidad en la vía pública por hora y por u
 
 ARTICULO 105 C.- Serán responsables solidarios los propietarios de los predios o fincas en donde se fijen los anuncios o carteles o se lleve a cabo la publicidad. También serán responsables solidarios las personas físicas o morales que fijen los anuncios o lleven a cabo la publicidad.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
-ARTICULO 105 D.- Por las licencias, permisos o autorizaciones que excedan de seis meses, se causará un 50% más de lo señalado en la tarifa del artículo 105-B.
+ARTICULO 105 D.- El derecho a que alude esta sección se causará de forma mensual, conforme a la tarifa del artículo 105-B.
 
-Las licencias, permisos o autorizaciones a que se refiere esta sección séptima tendrán validez dentro del año fiscal en que se otorguen, por lo que en su caso, los interesados deberán obtener nueva licencia, permiso o autorización dentro del primer mes del año siguiente.
-
-Al término de la vigencia, permiso o autorización, los anuncios deberán ser retirados o despintados, según sus características, salvo que se obtenga nueva licencia.
+Al término de la licencia, permiso o autorización, los anuncios deberán ser retirados o despintados, según sus características, salvo que se obtenga nueva licencia.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
@@ -1647,6 +1613,8 @@ De N$ 30.00 a De N$ 30.00 a De N$ 15.00 a
 
 N$ 45.00 N$ 45.00 N$ 22.50
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 ### CAPITULO TERCERO. POR EXPEDICION DE CEDULA CATASTRAL
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1994)</small>
@@ -1659,23 +1627,45 @@ T A R I F A
 
 GRUPO 1 GRUPO 2 GRUPO 3
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 I.- Por la primera hora
 
-.08 .07 .07
+.07 .07
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 II.- De 2, 3 y 4 horas
 
-.06 .03 .03
+.03 .03
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 III.- Las subsecuentes
 
-.02 .01 .01
+.01 .01
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 IV.- Por día
 
-1.00 .43 .43
+.43 .43
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+V.- Por hora
+
+.08
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+Asimismo, por el uso de baños públicos, administrados por los Ayuntamientos se pagará la siguiente:
+
+T A R I FA
+
+GRUPO 1 GRUPO 2 GRUPO 3
+
+$ 1.00
 
 ###### ARTICULO 123.
 
@@ -1757,7 +1747,7 @@ IV.- Indemnizaciones por responsabilidades fincadas a terceros.
 
 El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será como mínimo un 20% del valor de este, así como su actualización. La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, contemplado en el Código Fiscal del Estado sin perjuicio de la responsabilidad penal que en su caso procediere.
 
-### CAPITULO TERCERO. POR USO DE ESTACIONAMIENTOS PUBLICOS
+### CAPITULO TERCERO. POR USO DE ESTACIONAMIENTOS Y BAÑOS PUBLICOS
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
@@ -1898,3 +1888,9 @@ P.O. 24 DE DICIEMBRE DE 2003.
 PRIMERO.- El presente decreto entrará en vigor el día 1° de enero del 2004, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor el día uno de enero del año dos mil cinco, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
