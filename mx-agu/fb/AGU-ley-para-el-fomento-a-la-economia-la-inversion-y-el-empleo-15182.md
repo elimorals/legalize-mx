@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo-1518
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-11"
-last_updated: "1999-07-11"
+last_updated: "2001-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL FOMENTO A LA ECONOMIA, LA INVERSION Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 11 de julio de 1999.
 
@@ -135,7 +135,9 @@ B).- Secretario de Desarrollo Social;
 
 C).- Secretario de Obras Públicas;
 
-D).- Coordinador General del Comité de Planeación del Estado de Aguascalientes;
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+D).- Secretario de Planeación;
 
 E).- El Director General del Instituto de Educación de Aguascalientes;
 
@@ -452,3 +454,9 @@ Felipe González González
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+UNICO. El presente decreto entrará en vigor a partir del 1o. de enero del año 2002.
