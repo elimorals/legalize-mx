@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-31984"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-07-08"
-last_updated: "1998-07-08"
+last_updated: "2003-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CERRALVO NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de julio de 1998.
 
@@ -333,19 +333,19 @@ Si la infracción es cometida por dos o más personas la falta será considerada
 
 Las faltas cometidas de padres a hijos y viceversa, y entre cónyuges, solamente podrán sancionarse a petición expresa del ofendido.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2003)</small>
+
 ###### Art. 27.
 
 Corresponde a la Autoridad Municipal, por la infracción cometida a cualquiera de las disposiciones del presente Reglamento, aplicar las sanciones siguientes:
 
-I.- Amonestación;
+I.- Multa.
 
-II.- Multa; y
-
-III.-Arresto hasta por 36-treinta y seis horas.
+II.-Arresto hasta por treinta y seis horas.
 
 ###### Art. 28.
 
-Si la sanción a aplicar fuese una multa, esta podrá ser de entre 1-una y hasta 100-cien cuotas. Se entiende como cuota, el equivalente a un día de salario mínimo vigente de la zona económica a la que corresponda este Municipio.
+(DEROGADO, P.O. 6 DE JUNIO DE 2003)
 
 ###### Art. 29.
 
@@ -578,3 +578,9 @@ PROFR. LUCAS HOMERO GARZA GARCIA
 EL TERCER REGIDOR
 
 C. ANSELMO ESPERICUETA MATA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE JUNIO DE 2003.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
