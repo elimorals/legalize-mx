@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-division-territorial-del-estado-de-nayarit-9577"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-04"
-last_updated: "1989-12-13"
+last_updated: "2004-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DIVISION TERRITORIAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2004.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de febrero de 1984.
 
@@ -55,9 +55,11 @@ El Objeto de la presente Ley es señalar cómo se divide el Estado de Nayarit.
 
 Esta Ley tiene como fin determinar la forma de como se integran los municipios del Estado de Nayarit.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 4o.
 
-Para erigir nuevos Municipios dentro de los límites ya existentes, modificar su territorio o suprimir aquellos que no reúnan las condiciones legales, se requiere:
+Para erigir nuevos municipios dentro de los límites ya existentes, modificar su territorio o suprimir aquellos que no reúnan las condiciones legales, se requiere:
 
 I.- Que sea conveniente para satisfacer las necesidades de sus habitantes.
 
@@ -65,13 +67,17 @@ II.- Que la extensión territorial, recursos naturales y económicos, sean sufic
 
 III.- Que los recursos garanticen la autosuficiencia económica para cubrir un presupuesto mínimo necesario para el cumplimiento de sus funciones a juicio del Congreso del Estado.
 
-IV.- Que la población no sea menor de 25,000 habitantes.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2004)</small>
 
-V.- Que la Cabecera Municipal cuente con un mínimo de 15,000 habitantes.
+IV.- Que la población no sea menor de 15,000 habitantes.
 
-VI.- Que su creación no afecte los recursos de los Municipios dentro de cuyo territorio se pretenda crear un nuevo Municipio.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2004)</small>
 
-VII.- Se cuente con la aprobación de las dos terceras partes de la población.
+V.- Que la cabecera municipal cuente con un mínimo de 8,000 habitantes.
+
+VI.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2004)
+
+VII.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 5o.
 
@@ -213,23 +219,55 @@ El Municipio de Tuxpan, se integra con las siguientes localidades: Tuxpan, Coami
 
 El municipio de Xalisco se integra con las siguientes localidades: Xalisco, Adolfo López Mateos, Altavista, Aquiles Serdán, Arroyo Hondo, Arroyo del Limón, Carrizal, Cofradía de Chocolón, Cuarenteño, Emiliano Zapata, El Dragón, El Guayabo, El Italiano, El Malinal, El Pértigo, El Progreso, El Rebaje, El Refilión, El Tacote, El Taray, Granja de Juan Carlos, Juan Escutia, La Alcantarilla, La Calera, La Curva, La Mesa del Potrero, Las Lajas, Las Mesas, Lo de Felipe, Los Pueblitos, Los Sauces, Ocate del Rayo, Nuevo San Antonio, Pantanal, Palapitas, San José de Costilla, Testerazo, Tecolote, Tepozal, Trigomil y los demás que en los sucesivo sean creados.
 
-### CAPITULO QUINTO. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE OCTUBRE DE 2004)</small>
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 29], P.O. 13 DE DICIEMBRE DE 1989)</small>
+### CAPITULO QUINTO. PROCEDIMIENTO PARA FORMAR MUNICIPIOS
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 30.
 
-Cada vez que se integre una nueva población el Ayuntamiento respectivo de cada Municipio deberá notificarlo al Titular del Poder Ejecutivo y a la Legislatura del Estado para su conocimiento y efectos.
+Para la formación de nuevos municipios dentro de los límites de los existentes, se observará el siguiente procedimiento:
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 30], P.O. 13 DE DICIEMBRE DE 1989)</small>
+I. Presentación de la solicitud de constitución del nuevo municipio, suscrita por las autoridades ejidales y organizaciones sociales legalmente reconocidas, especificando las poblaciones y territorio que vayan a formar parte del nuevo municipio, la infraestructura y servicios públicos con que cuenta, la población indicada como cabecera municipal, la denominación que tendrá, y los demás requisitos señalados en el artículo 4º de esta Ley.
+
+II. Presentada la solicitud el Congreso del Estado, la turnará a la comisión competente, la cual revisará la veracidad de los hechos, argumentos y demás elementos de la solicitud formulada, para que en un plazo no mayor a 30 días naturales siguientes a la recepción de la solicitud, dictamine sobre su procedencia.
+
+III. A) De resultar procedente la solicitud, la comisión, procederá de inmediato a recabar la opinión del Ejecutivo del estado a fin de diagnosticar el potencial poblacional, territorial y económico actual y futuro de la demarcación territorial que se propone para conformar el nuevo municipio, así como sobre la pertinencia o no de crear el nuevo municipio.
+
+De igual manera, se procederá a requerir al o los Ayuntamientos que pudieran resultar afectados por la formación del nuevo municipio, manifiesten su opinión sobre la pertinencia o no de crear el nuevo municipio.
+
+La opinión del Ejecutivo y de los Ayuntamientos deberá emitirse dentro de los treinta días naturales siguientes a la fecha en la que el Congreso del Estado les comunique la solicitud.
+
+B) De no resultar procedente dicha solicitud, la comisión procederá a emitir su dictamen en sentido negativo, para someterlo a la consideración del pleno del Congreso.
+
+IV. Si de los elementos aportados por los solicitantes, por el Ejecutivo del estado y por el o los ayuntamientos; a juicio del Congreso existen condiciones económicas, geográficas y sociales que justifiquen la formación del nuevo municipio; previo dictamen de la comisión, el Congreso del Estado procederá (sic) emitir el acuerdo mediante el cual se convoque a una consulta a los ciudadanos del municipio o municipios en que se encuentre la fracción territorial que pretende erigirse como municipio; para que se manifiesten mediante el voto libre, directo y secreto a favor o en contra de la creación del municipio. La consulta ciudadana deberá celebrarse dentro de los 30 días naturales siguientes a la aprobación del acuerdo.
+
+Al efecto de considerar como procedente la formación del nuevo municipio, en la consulta deberán manifestarse en favor de ello al menos, el cincuenta por ciento más uno del total de los ciudadanos inscritos en la lista nominal de electores correspondiente a los centros de población que se pretendan segregar. Para tal propósito se tomará como referencia el listado nominal que proporcione el Consejo Estatal Electoral.
+
+V. Resuelto lo dispuesto en las fracciones anteriores, la comisión someterá al pleno del Congreso del Estado, el proyecto de decreto correspondiente, para su análisis, discusión y en su caso, decretar la creación del municipio, fijando sus límites territoriales, señalar su cabecera municipal y dar el nombre correspondiente.
+
+VI. El Congreso del Estado, designará un Consejo Municipal del nuevo municipio, el que tendrá la estructura, facultades y obligaciones que prevé la Ley Municipal para el Estado de Nayarit, el cual fungirá hasta la fecha en que deba tomar posesión el ayuntamiento que resulte electo en las elecciones municipales que se realicen, conforme a los plazos y términos señalados por las disposiciones electorales respectivas.
+
+(REUBICADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 30 DE OCTUBRE DE 2004)
+
+### CAPITULO SEXTO. DISPOSICIONES GENERALES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 30], P.O. 30 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 31.
 
-Cuando se erijan nuevas poblaciones deberán ser puestas del conocimiento del Ayuntamiento respectivo a efecto de que en Sesión de Cabildo lo reconozca y determine la denominación de la misma.
+Cada vez que se integre una nueva población el Ayuntamiento respectivo de cada Municipio deberá notificarlo al Titular del Poder Ejecutivo y a la Legislatura del Estado para su conocimiento y efectos.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 31], P.O. 13 DE DICIEMBRE DE 1989)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 31], P.O. 30 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 32.
+
+Cuando se erijan nuevas poblaciones deberán ser puestas del conocimiento del Ayuntamiento respectivo a efecto de que en Sesión de Cabildo lo reconozca y determine la denominación de la misma.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 32], P.O. 30 DE OCTUBRE DE 2004)
+
+###### ARTICULO 33.
 
 Si un núcleo de población propusiere el cambio de denominación de su localidad, se sujetará al siguiente procedimiento.
 
@@ -251,15 +289,15 @@ F) La designación de una Mesa de Debates presidida por el Representante del Ayu
 
 III.- Dicha Acta circunstanciada deberá ser turnada al Ayuntamiento para que dicte el Acuerdo correspondiente.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 32], P.O. 13 DE DICIEMBRE DE 1989)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 33], P.O. 30 DE OCTUBRE DE 2004)
 
-###### ARTICULO 33.
+###### ARTICULO 34.
 
 Los Ayuntamientos oportunamente y por los conductos establecidos por la Constitución Política del Estado, podrán iniciar reformas a la presente Ley para mantenerla actualizada.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 33], P.O. 13 DE DICIEMBRE DE 1989)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 34], P.O. 30 DE OCTUBRE DE 2004)
 
-###### ARTICULO 34.
+###### ARTICULO 35.
 
 Forman parte del Territorio del Estado todas aquellas islas sobre las que haya ejercido jurisdicción el Estado de Nayarit, de conformidad con los Artículos 47 y 48 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -334,3 +372,9 @@ I.- Por lo que concierne a la adición al artículo 3º de la Constitución Pol�
 II.- Por lo que corresponde a las demás propuestas de modificación comprendidas tanto en el Código para la Administración Municipal, como en la Ley Electoral y Ley de División Territorial aplicables, surtirán los efectos de vigencia una vez que, en los términos de Ley, sea aprobada y publicada la adición al Artículo 3º de la Constitución Política del Estado, y
 
 III.- Por provenir del ejercicio competencial del Honorable Congreso y constituir un acto de soberanía, dése a conocer la creación del Municipio de Bahía de Banderas, mediante Bando Solemne cada una de las localidades que lo integran, con la publicidad y formalidad debida.
+
+P.O. 30 DE OCTUBRE DE 2004.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Las solicitudes para la creación de nuevos municipios que se encuentren en trámite deberán desahogarse de conformidad a los requisitos establecidos en las disposiciones contenidas en este decreto, debiéndose dar por cumplimentados aquellos que fueron plenamente satisfechos antes de la entrada en vigor de la presente resolución.
