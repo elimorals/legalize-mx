@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-del-estado-de-oaxaca-11875"
 country: "mx"
 rank: "ley"
 publication_date: "1969-07-05"
-last_updated: "1969-07-05"
+last_updated: "1972-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "OAX"
 
 LEY DE TRANSITO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 1972.
 
-Ley publicada en el Periódico Oficial del Estado de Oaxaca, el Sábado 5 de Julio de 1969.
+Ley publicada en el Periódico Oficial Organo del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca, el Sábado 5 de Julio de 1969.
+
+DECRETO Núm. 62.- Nueva LEY DE TRANSITO DEL ESTADO DE OAXACA.
 
 DECRETO NUMERO 62.
 
@@ -35,336 +37,458 @@ Que la H. Legislatura del Estado ha tenido a bien aprobar lo siguiente:
 
 LA XLVII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA,
 
-D E C R E T A:
+DECRETA
 
-LEY DE TRANSITO DEL ESTADO DE OAXACA
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
+LEY DE TRANSITO REFORMADA
 
 ### CAPITULO PRIMERO.
 
 DISPOSICIONES GENERALES.
 
-###### ARTICULO 1o.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-La presente Ley tiene por objeto fijar las bases y requisitos a que deberá sujetarse el tránsito de peatones, vehículos y semovientes en las vías públicas del Estado, tanto en las poblaciones como fuera de las mismas, de manera que queden protegidas las personas y los bienes; hacer cómodas y expeditas las comunicaciones; y lograr la conservación de las mismas vías.
+###### Artículo 1o.
 
-###### ARTICULO 2o.
+La presente Ley tiene por objeto establecer las bases y requisitos a que se sujetarán la circulación de las personas, el manejo y el tránsito de vehículos y semovientes y los servicios públicos de transporte de pasajeros y de carga en las vías públicas del Estado de Oaxaca, que no sean de jurisdicción federal, considerados como actividades de interés público.
 
-Para los fines de la presente Ley, son vías públicas:
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-I.- Las carreteras pavimentadas y las brechas construidas por el Estado en cooperación.
+###### Artículo 2o.
 
-II.- Los caminos denominados vecinales, que unan dos o más lugares poblados.
+Corresponde al Poder Ejecutivo del Estado, por conducto de su Dirección General de Tránsito, la aplicación de esta Ley y sus reglamentos.
 
-III.- Las plazas, calles, avenidas y lugares de paso de las poblaciones; las calzadas y los caminos públicos que con los puentes forman partes de calles destinadas temporal o permanentemente al tránsito público, salvo las limitaciones que establece la Ley de Vías Generales de Comunicación.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-###### ARTICULO 3o.
+###### Artículo 3o.
 
-El tránsito de vehículos y semovientes en las vías públicas del Estado, deberá hacerse en forma tal que se protejan las vías e intereses de las personas y que no cause daños a las propias vías.
+La Dirección General de Tránsito del Estado se integra por:
 
-###### ARTICULO 4o.
+I.- Un Director.
 
-Los vehículos y semovientes que por su peso, volumen o características particulares, así como también el traslado de objetos de cualquier género, que arrastrados sobre el suelo, piso o pavimento, puedan dañar las vías públicas, sólo podrán circular por los lugares y en las condiciones que fije el Reglamento de la presente Ley.
+II.- Un Sub-Director.
 
-###### ARTICULO 5o.
+III.- Delegados Foráneos de Tránsito.
 
-Los propietarios y conductores de los vehículos o semovientes que causen daños en las vías públicas estarán obligados a pagar el importe de la reparación de éstas, además de sufrir la sanción a que se hayan hecho acreedores, en los términos de Ley sobre facultad económico-coactiva del Ejecutivo.
+IV.- Agentes de Policía de Tránsito, y
 
-###### ARTICULO 6o.
+V.- Auxiliares de la Dirección General de Tránsito.
 
-Son Autoridades de Tránsito, en orden jerárquico:
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-I.- El Gobernador Constitucional del Estado.
+###### Artículo 4o.
 
-II.- El Director General de Seguridad Pública y Tránsito del Estado.
+Son auxiliares de la Dirección General de Tránsito del Estado:
 
-III.- El Jefe del Departamento de Tránsito del Estado.
+I.- El Cuerpo de Peritos en manejo y tránsito de vehículos.
 
-IV.- Los Delegados de Tránsito en el Estado.
+II.- El Cuerpo Médico para el examen físico y mental de los conductores de vehículos.
 
-### CAPITULO SEGUNDO.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-DE LAS AUTORIDADES DE TRANSITO Y SU COMPETENCIA.
+###### Artículo 5o.
 
-###### ARTICULO 7o.
+La Policía Preventiva del Estado está obligada a prestar auxilio a las Autoridades de Tránsito, cuando éstas, en el desempeño de sus funciones, lo soliciten.
 
-Son órganos de Tránsito:
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-I.- La Dirección General de Seguridad Pública y Tránsito del Estado.
+###### Artículo 6o.
 
-II.- Las Delegaciones de Tránsito en el Estado.
+Son Autoridades de Tránsito en el Estado:
 
-La Dirección General de Seguridad Pública y Tránsito del Estado ejerce funciones de Oficina Central en la materia, con autoridad sobre el territorio del Estado.
+I.- El Gobernador del Estado.
 
-La propia Dirección General de Seguridad Pública y Tránsito del Estado establecerá en distintas partes del Estado las Delegaciones de Tránsito que estime necesarias, con excepción de la Capital, y ejercerán su autoridad sobre el territorio del Distrito o Distritos que se les asignen.
+II.- El Director General de Tránsito del Estado.
 
-###### ARTICULO 8o.
+III.- El Sub-Director General de Tránsito del Estado.
 
-Compete al C. Gobernador Constitucional del Estado:
+IV.- Los Delegados Foráneos de Tránsito del Estado; y,
 
-I.- Aprobar proyectos y ordenar la construcción de las vías locales de comunicación dentro del territorio de la Entidad, con sus obras conexas.
+V.- Los Agentes de Policía de Tránsito del Estado.
 
-II.- Proveer cuanto sea necesario para la conservación de las mismas vías, así como de las ya existentes.
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-III.- Resolver sobre el establecimiento de sistemas adecuados de transporte.
+### CAPITULO II.
 
-IV.- Expedir reglamentos sobre el tránsito y transporte de pasajeros y carga dentro de la propia Entidad, fijando las condiciones y requisitos a que deberá sujetarse el ejercicio de tales actividades.
+COMPETENCIA.
 
-V.- Nombrar al C. Director General de Seguridad Pública y Tránsito del Estado, Jefe de Tránsito del Estado, Sub-Jefe de Tránsito, Jefe de Peritos y Asesor Jurídico.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-VI.- Otorgar concesiones o permisos a personas físicas o morales para la prestación del servicio público local de transportes, satisfechos que sean los requisitos o condiciones a que debe sujetarse el otorgamiento de que se trate. Los permisos o concesiones podrán comprender comunicaciones urbanas, semi-urbanas o foráneas de jurisdicción estatal.
+###### Artículo 7o.
 
-VII.- Cancelar o revocar administrativamente, en los casos de caducidad que señale el Reglamento, las autorizaciones concedidas.
+El Gobernador del Estado es competente:
 
-VIII.- Declarar improcedentes las solicitudes sobre concesiones o permisos para la prestación de servicios públicos de transporte locales, presentados por personas físicas o morales en los términos que fije el Reglamento respectivo.
+I.- Para celebrar convenios con la Federación sobre vías de comunicación, tránsito y servicios de transporte de pasajeros y de carga.
 
-IX.- Aprobar las cesiones o traspasos de autorizaciones para el servicio público de transporte.
+II.- Para establecer vías estatales de comunicación.
 
-X.- Aprobar las tarifas a que deba sujetarse la prestación del servicio público de transporte.
+III.- Para establecer los requisitos y condiciones a los cuales se sujetarán las actividades relacionadas con la circulación de las personas, el manejo y el tránsito de vehículos y semovientes y los servicios de transporte de pasajeros y de carga en las vías públicas del Estado, que no sean de jurisdicción federal.
 
-XI.- Ejercer la inspección y vigilancia de las empresas y medios locales de transportes, que operen dentro del Estado, con el objeto de asegurar los intereses del público y la eficiencia del ervicio(sic).
+IV.- Para otorgar concesiones y permisos para el establecimiento y explotación de servicios de transporte de pasajeros y de carga y, consecuentemente, para suspenderlos o revocarlos.
 
-XII.- En caso de grave alteración del orden público o cuando se tema algún peligro inminente para la paz o para la economía del Estado, el Ejecutivo tendrá derecho de hacer la requisición, en caso de que a su juicio lo exija la seguridad, economía o tranquilidad del Estado, de las vías de comunicación, de los medios de transportes de su servicio, auxiliares, accesorios o dependencias, bienes, muebles, inmuebles y de disponer de todo ello como lo juzgue conveniente.
+V.- Para ordenar la inspección y vigilancia de las empresas que exploten servicios de transporte de pasajeros o de carga, así como la de los medios de transporte, con el objeto de comprobar el cumplimiento de las disposiciones de esta Ley y asegurar los intereses del público.
 
-XIII.- Las demás que esta Ley o sus Reglamentos le confieran.
+VI.- Para fijar y aplicar las sanciones en que incurran las personas físicas y morales con motivo de violaciones a la presente Ley y sus reglamentos.
 
-###### ARTICULO 9o.
+VII.- Para nombrar y remover al personal de la Dirección General de Tránsito del Estado, a que se refieren las fracciones I, II y III del artículo 3o. de esta Ley.
 
-Compete al C. Director General de Seguridad Pública y Tránsito del Estado:
+VIII.- Para expedir los reglamentos de la presente Ley.
 
-I.- Ejercer la propia Dirección General de Seguridad Pública y Tránsito del Estado y de las Delegaciones de Tránsito en el Estado.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-II.- Determinar los colores que deban llevar los automóviles de servicio público, en las distintas poblaciones o zonas del Estado.
+###### Artículo 8o.
 
-III.- Compete al Director General de Seguridad Pública y Tránsito del Estado aprobar o revocar las autorizaciones del C. Jefe de Tránsito que haga para la expedición de licencias de choferes, automovilistas, motociclistas y motonetistas; el canje y resello de las mismas y la revalidación de permisos que no estén arreglados a esta Ley o su Reglamento.
+Son atribuciones y obligaciones del Director General de Tránsito:
 
-IV.- Aprobar o revocar los permisos provisionales que otorgue el C. Jefe de Tránsito para circular sin placas o manejar sin licencia, en los casos que determine el Reglamento.
+I.- Cumplir y hacer cumplir las disposiciones de esta Ley y sus reglamentos, así como las que en materia de tránsito emanen del Ejecutivo del Estado.
 
-V.- Planear y determinar las rutas urbanas, sitios terminales, sentido de la circulación, zonas de estacionamiento prohibido, lugares de instalación de semáforos y demás modalidades pertinentes a la prevención de accidentes y la mayor fluidez del tránsito de vehículos.
+II.- Ejercer el mando, el control y la vigilancia de los Delegados Foráneos de Tránsito, para ajustar su conducta a los mandatos de esta Ley, de sus reglamentos y de las disposiciones que con fundamento en éstos se dicten.
 
-VI.- Practicar o facultar al funcionario de Tránsito que estime pertinente para llevar a cabo periódicamente o cuando las circunstancias lo ameriten, visitas generales y especiales a las Delegaciones de Tránsito en el Estado.
+III.- Planificar y ordenar el Tránsito Estatal, proponiendo al Ejecutivo del Estado los proyectos respectivos para su aprobación, cuando ésta sea necesaria.
 
-VII.- Aprobar o revocar la baja y alta de vehículos que haga el C. Jefe de Tránsito.
+IV.- Seguir el procedimiento administrativo, hasta dejarlo en estado de resolución, de todas aquellas cuestiones que conforme a esta Ley y reglamentos demanden la aprobación o decisión del Ejecutivo del Estado.
 
-VIII.- Calificar las infracciones a la presente Ley y su Reglamento cuando el infractor no estuviere de acuerdo con la hecha por el C. Jefe de Tránsito y Delegados de Tránsito.
+V.- Dictar las medidas necesarias para el buen funcionamiento de la Dirección General de Tránsito y de sus servicios auxiliares, proponiendo al Ejecutivo del Estado las medidas que ameriten la decisión de éste.
 
-IX.- Dictar los acuerdos de Tránsito correspondientes a las solicitudes de permisos o autorizaciones para la prestación de servicios públicos de transporte, hasta ponerlas en estado de resolución.
+VI.- Expedir, conforme a las disposiciones de esta Ley y sus reglamentos, licencias para el manejo y tránsito de vehículos.
 
-X.- Vigilar el exacto cumplimiento de las disposiciones de Tránsito.
+VII.- Ordenar la inspección sobre el funcionamiento y estado que guarden los vehículos, mediante revistas periódicas.
 
-XI.- Las demás que le confieran esta Ley o el Reglamento.
+VIII.- Imponer las sanciones a que se refieren las fracciones I y II del Artículo 30 de esta Ley.
 
-###### ARTICULO 10.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-Compete al C. Jefe de Tránsito del Estado:
+###### Artículo 9o.
 
-I.- Ejercer la Jefatura del Departamento de Tránsito del Estado y de las Delegaciones correspondientes.
+Son atribuciones y obligaciones del SubDirector General de Tránsito:
 
-II.- Autorizar la expedición de licencias para choferes, automovilistas y motociclistas, canjes y resellos de las mismas y la revalidación de permisos.
+I.- Suplir al Director General de Tránsito en todas sus atribuciones y obligaciones, en las faltas temporales de éste.
 
-III.- Autorizar altas y bajas de vehículos, canjes y reposiciones de las mismas.
+II.- Cumplir las comisiones que le encomienden el Gobernador del Estado y el Director General de Tránsito, en el desempeño de su cargo.
 
-IV.- Expedir permisos provisionales para circular sin placas o manejar sin licencia, en los casos que determine el Reglamento de esta Ley.
+III.- Ejercer el control administrativo de las oficinas de la Dirección General de Tránsito, cuidar del buen funcionamiento de ésta, vigilar la conducta del personal administrativo de las mismas y dar cuenta de sus observaciones al Director General de Tránsito, para asegurar al máximo un eficiente servicio al público.
 
-V.- Practicar o facultar, previo acuerdo con el C. Director General de Seguridad Pública y Tránsito del Estado, al funcionario de Tránsito que estime pertinente para llevar a cabo, periódicamente o cuando las circunstancias lo ameriten, visitas generales y especiales a las Delegaciones de Tránsito en el Estado.
+IV.- Ejercer el mando, el control y la vigilancia de los Agentes de Policía y de los cuerpos auxiliares de la Dirección General de Tránsito, para ajustar su conducta a los mandatos de esta Ley, de sus reglamentos y de las disposiciones que con fundamento en ésta se dicten.
 
-VI.- Calificar las infracciones a la presente Ley y su Reglamento.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-VII.- Vigilar el exacto cumplimiento de las disposiciones de Tránsito.
+###### Artículo 10.
 
-VIII.- Las demás que le confieran esta Ley y el Reglamento respectivo.
+Son atribuciones y obligaciones de los Delegados Foráneos de Tránsito:
 
-###### ARTICULO 11.
+I.- Cumplir y hacer cumplir las disposiciones de esta Ley y sus reglamentos, así como las que dicten en materia de tránsito el Gobernador del Estado y el Director General de Tránsito.
 
-Compete a los Delegados de Tránsito del Estado:
+II.- Ejercer en sus jurisdicciones, el mando, el control y la vigilancia inmediatos de los Agentes de Policía de Tránsito y demás personal adscrito a su jurisdicción, para ajustar su conducta a los mandatos de esta Ley y sus reglamentos, dando cuenta de sus observaciones al Director General de Tránsito para los efectos a que hubiere lugar.
 
-I.- Ejercer dentro del territorio de su jurisdicción las facultades especificadas en las fracciones III, IV, VI, VII y VIII del artículo anterior.
+III.- Formular proyectos de planificación del tránsito en sus jurisdicciones y dar cuenta con ellos al Director General de Tránsito.
 
-II.- Desahogar las órdenes que reciban de la Dirección General.
+IV.- Seguir el procedimiento administrativo hasta dejarlo en estado de resolución, de todas aquellas cuestiones que demanden la aprobación o decisión del Ejecutivo del Estado o del Director de Tránsito. Invariablemente dará cuenta al Director General de Tránsito, del inicio de esos procedimientos.
 
-III.- Consultar con la misma Dirección y Jefatura, los casos de duda que tuvieren.
+V.- Levantar infracciones e imponer las sanciones a que se refieren las fracciones I y II del artículo 30 de esta Ley.
 
-IV.- Las demás que le confieran esta Ley o el Reglamento.
+VI.- Dar cuenta al Director General de Tránsito, proporcionándole los elementos de prueba que hubiere obtenido, de todos aquellos casos que ameriten las sanciones a que se refieren las fracciones III y IV del artículo 30 de esta Ley.
 
-###### ARTICULO 12.
+VII.- Rendir mensualmente informe detallado de sus labores y de la situación que guarden las oficinas a su cargo, al Director General de Tránsito.
 
-Son obligaciones de la Dirección General de Seguridad Pública y Tránsito del Estado:
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-I.- Llevar los libros de registro respectivo, que son: Libro de Licencias, Libro de Placas, Libro de Infracciones, Libro de Reportes, de Accidentes y Libro de Acuerdos sobre Concesiones y Permisos de Ruta.
+###### Artículo 11.
 
-II.- Practicar inspecciones y revistas reglamentarias.
+Son atribuciones y obligaciones de la Policía de Tránsito:
 
-III.- Expedir placas, tarjetas de circulación, calcomanías y demás documentos reglamentarios para la circulación de vehículos.
+I.- Cuidar que la circulación de las personas, el manejo y tránsito de vehículos y semovientes y los servicios de transporte, de pasajeros o de carga, se realicen conforme a los mandatos de esta Ley, de sus reglamentos y de las disposiciones que con fundamento en éstos les dicten sus superiores, para lograr al máximo el correcto desenvolvimiento de esas actividades.
 
-IV.- Practicar exámenes de aptitud a los solicitantes de licencias de automovilistas, choferes, motociclistas y motonetistas.
+II.- Levantar infracciones conforme al procedimiento que fijen los reglamentos de esta Ley.
 
-V.- Practicar peritajes sobre accidentes, estado y funcionamiento de vehículos.
+III.- Procurar inmediato auxilio a las personas que resulten lesionadas con motivo de accidentes de tránsito.
 
-VI.- Proceder al canje de resello de licencias.
+IV.- Detener, sin perjuicio de la disposición a que se refiere la fracción anterior, a las persones que infraganti aparezcan presuntamente responsables de los delitos causados con motivo del manejo y tránsito de vehículos, así como a los vehículos instrumentos de los mismos, poniéndolos inmediatamente a disposición de la Dirección General de Tránsito o sus Delegaciones, para su consignación ante las Autoridades competentes.
 
-VII.- Proceder a la revalidación o resello de permisos de sitio o ruta.
+Tratándose únicamente de daño en propiedad ajena y de las lesiones a que se refieren los artículos 273 y 274 del Código Penal del Estado, no habrá lugar a consignación si los interesados se arreglan personalmente en el lugar de los hechos o ante la Dirección General de Tránsito, o sus Delegaciones; levantándose el acta de convenio siempre y cuando los interesados lo soliciten.
 
-VIII.- Las demás que le confieran esta Ley o el Reglamento.
+V.- Auxiliar e instruir a las personas y a los conductores de vehículos, para facilitarles la circulación y el tránsito respectivo con el menor peligro posible.
 
-###### ARTICULO 13.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-Son obligaciones de las Delegaciones de Tránsito:
+###### Artículo 12.
 
-I.- Las señaladas en las fracciones I a V del Artículo anterior.
+Corresponde a los peritos en manejo y tránsito de vehículos:
 
-II.- Remitir a la Dirección General de Seguridad Pública y Tránsito del Estado, previa la tramitación correspondiente, las solicitudes de expedición, canje y resello de licencias y de revalidación de permisos.
+I.- Realizar el examen técnico de los aspirantes a obtener licencia para manejar vehículos, según la clase de éstos y rendir el dictamen correspondiente.
 
-III.- Efectuar los estudios sobre establecimiento o ampliaciones de rutas o sitios dentro de su jurisdicción, que le encomiende la Dirección General de Seguridad Pública y Tránsito del Estado.
+II.- Realizar el examen técnico sobre las condiciones de funcionamiento, seguridad y estado de los vehículos, y rendir el dictamen respectivo.
 
-IV.- Las demás que le confieran esta Ley o el Reglamento.
+III.- Dictaminar sobre las causas probables de los accidentes de tránsito y sobre la presunta responsabilidad de las personas.
 
-### CAPITULO TERCERO.
+IV.- Levantar infracciones.
 
-DE LAS CONCESIONES Y PERMISOS.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-###### ARTICULO 14.
+###### Artículo 13.
 
-Para los efectos de esta Ley, los vehículos se clasifican en la siguiente forma:
+Corresponde a los integrantes del Cuerpo Médico de la Dirección General de Tránsito:
+
+I.- Dictaminar sobre el estado físico y mental de los aspirantes a obtener licencia para manejar vehículos, según la clase de éstos.
+
+II.- Realizar el examen de las personas cuando con motivo de infracciones o accidentes de tránsito, sea necesario dictaminar sobra la posible ingestión de substancias embriagantes o drogas prohibidas y sobre el grado o período de intoxicación.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
+### CAPITULO III.
+
+VIAS PUBLICAS Y CLASIFICACION DE VEHICULOS.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
+###### Artículo 14.
+
+Para los efectos de esta Ley se consideran vías públicas, las vías de comunicación de uso común destinadas a la circulación de las personas y al tránsito de vehículos y semovientes.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
+###### Artículo 15.
+
+Los vehículos, como medios de transporte se clasifican en:
 
 I.- Bicicletas.
 
-II.- Motonetas.
+II.- Motocicletas.
 
-III.- Motocicletas.
+III.- Automóviles.
 
-IV.- Automóviles.
+IV.- Camiones.
 
 V.- Camionetas.
 
-VI.- Camiones.
+VI.- Autobuses.
 
-VII.- Autobuses.
+VII.- Remolques.
 
-VIII.- Remolques, y
+VIII.- Carros de tracción humana.
 
-IX.- Equipo especial movible, en que quedan comprendidos todos los vehículos no especificados en la enumeración anterior.
+IX.- Carros de tracción animal.
 
-###### ARTICULO 15.
+X.- Equipo Especial móvil.
 
-Para que un vehículo de los comprendidos en el artículo anterior pueda transitar en el Estado, debe llenar los requisitos de seguridad, comodidad y eficacia que el Reglamento señale y estar provisto, además, de los siguientes documentos:
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-I.- Placas, tarjetas de circulación y calcomanías, en el caso de automóviles, camiones, autobuses y remolques.
+###### Artículo 16.
 
-II.- Placa y Tarjeta de circulación, tratándose de los demás vehículos.
+Los vehículos destinados a transporte de pasajeros y de carga, en razón al servicio a que están destinados, se clasifican en:
 
-###### ARTICULO 16.
+I.- Vehículos particulares o destinados al servicio particular de las personas, sin remuneración especial por el servicio que presten o por su uso.
 
-Para el tránsito eventual en las vías públicas del Estado, de equipo especial movible que no circule habitualmente, sólo se requiere permiso especial de la Dirección General de Seguridad Pública y Tránsito del Estado o sus Delegaciones.
+II.- Vehículos de servicio público o destinados a operar mediante el cobro de tarifas autorizadas y con sujeción a concesiones o permisos.
 
-No son aplicables ni este artículo ni el anterior, a bicicletas con rodada inferior a 26 pulgadas, triciclos, carritos de niño o juguetes y plataformas para carga sin motor, salvo cuando se utilicen para alquiler.
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-### CAPITULO CUARTO
+### CAPITULO IV.
 
-DE LOS ESTACIONAMIENTOS.
+TRANSITO, CONCESIONES Y PERMISOS.
 
-###### ARTICULO 17.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-Para conducir cualquier vehículo de los comprendidos en el artículo 15, con excepción de las bicicletas y el equipo especial movible, se requiere licencia, que se otorgará por la Dirección General de Seguridad Pública y Tránsito del Estado, con arreglo a las disposiciones que establezca el Reglamento.
+###### Artículo 17.
 
-###### ARTICULO 18.
+La circulación de las personas, el manejo y tránsito de vehículos y semovientes y los servicios de transporte de pasajeros y de carga en las vías públicas del Estado de Oaxaca, se sujetarán a las condiciones y requisitos que señalen esta Ley y sus reglamentos.
 
-Se requiere el previo permiso o autorización del Titular del Poder Ejecutivo, en los términos que señala el Reglamento, para poder establecer servicio público de transporte en las vías públicas del Estado.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-###### ARTICULO 19.
+###### Artículo 18.
 
-Ningún servicio público de transporte podrá ser puesto en explotación sin que antes hayan sido aprobadas las tarifas respectivas.
+El establecimiento y la explotación de los servicios públicos de transporte de pasajeros o de carga, así como sus servicios conexos, solamente podrán efectuarse mediante concesión o permiso que otorgue el Ejecutivo del Estado.
 
-###### ARTICULO 20.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-El Reglamento establecerá las normas a que se debe sujetar la prestación del servicio público de transporte sobre la base de garantizar a los usuarios las debidas condiciones de uniformidad, continuidad y seguridad.
+###### Artículo 19.
 
-###### ARTICULO 21.
+Quienes soliciten concesión o permiso para establecer y explotar servicios públicos de transporte de pasajeros o de carga, deberán comprobar ante el Ejecutivo del Estado, que están capacitados económicamente para la prestación del servicio según la naturaleza y necesidades del mismo.
 
-La circulación de vehículos y el tránsito de peatones y semovientes en las vías públicas del Estado, queda sujeta a las disposiciones que establezca el Reglamento.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-###### ARTICULO 22.
+###### Artículo 20.
 
-Las faltas en materia de tránsito y las sanciones correspondientes, serán determinadas en el Reglamento de la presente Ley.
+Los concesionarios y permisionarios otorgarán garantía suficiente para asegurar el cumplimiento del servicio y las responsabilidades en que incurran.
 
-###### ARTICULO 23.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-Para poder establecer y operar líneas locales de transportes de personas y de carga y en general para poner en servicio vehículos destinados a la prestación de tales servicios dentro del Estado, será necesario obtener la concesión o el permiso previos, de conformidad con lo que previene el artículo 8o., en su fracción VI, de la presente Ley.
+###### Artículo 21.
 
-###### ARTICULO 24.
+Las concesiones y permisos a que se refiere esta Ley, únicamente se otorgarán: tratándose de personas físicas, a mexicanos; tratándose de personas morales, se otorgarán cuando éstas estén organizadas conforme a las leyes del País y siempre y cuando los socios extranjeros que formen parte de ellas convengan ante el Ejecutivo del Estado en considerarse como nacionales respecto de dichas concesiones y permisos y a no invocar, por lo mismo, la protección de sus gobiernos en todo lo que respecta a aquéllos; bajo la pena, en caso de faltar al convenio, de perder en beneficio del Estado los bienes que hubieren aportado, las inversiones hechas y los derechos que de los mismos se deriven.
 
-Entretanto se tramita un expediente sobre renovación de concesión, la Dirección General de Seguridad Pública y Tránsito del Estado podrá otorgar permisos provisionales, por un tiempo que no exceda de 30 días, sujetándose a los requisitos que sobre el particular establezca el Reglamento de la presente Ley.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-###### ARTICULO 25.
+###### Artículo 22.
 
-Las concesiones o permisos pueden expedirse a personas físicas o morales, con excepción de las sociedades en que el capital se presente por accions(sic) o certificados impersonales, siempre que lleven los siguientes requisitos.
+Cuando el servicio de transporte de pasajeros o carga se preste por distintas personas físicas o morales en una misma ruta, los concesionarios o permisionarios deberán sujetarse a las disposiciones que dicte el Ejecutivo del Estado.
 
-I.- Tratándose de personas físicas, ser preferentemente nativas del Estado, o de notorio arraigo en el mismo.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-II.- Tratándose de personas morales, deberán estar organizadas conforme a las leyes del país, y si tuvieren o llegaren a tener uno o varios socios extranjeros, éstos se considerarán como nacionales respecto de la concesión o permiso; obligándose a no invocar, por lo que a uno y otro se refiere la protección de su Gobierno, bajo la pena de perder en beneficio del Estado todos los bienes que hubieren adquirido para construir, establecer o explotar la vía de comunicación, así como los demás derechos que les otorguen la concesión o el permiso.
+###### Artículo 23.
 
-III.- Comprobar en los términos que establezca el Reglamento de la presente Ley, que poseen la capacidad económica necesaria para satisfacer las exigencias derivadas del servicio inherente al sistema o línea que se pretenda establecer, o el vehículo cuya explotación se trata, garantizando la prestación de un servicio adecuado a esas necesidades; y
+Las concesiones y permisos para el establecimiento y explotación de los servicios públicos de pasajeros o de carga, se otorgarán de acuerdo con las necesidades del mismo servicio.
 
-IV.- Tratándose de concesionarios que pretendan operar un mismo sistema de transporte, o dentro de cualquier sistema de una misma línea, deberán organizarse con personalidad jurídica bastante para que las obligaciones que se deriven de la naturaleza del servicio que se proponen prestar, sean exigibles a todos los interesados, a través de los representantes legales de la organización que se constituya. Los estatutos, escrituras y bases constitutivas de estas organizaciones, deberán ser sometidas a la aprobación previa del Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-###### ARTICULO 26.
+###### Artículo 24.
 
-Los permisos y concesione(sic) que se expidan en los términos de la presente Ley, podrán amparar uno (o varios vehículos) de acuerdo con la naturaleza del servicio que se pretenda prestar, con la importancia y características especiales que disponga el Reglamento respectivo.
+En las concesiones y permisos para la prestación de servicios públicos de transporte de pasajeros o de carga se precisará, previa aprobación del Ejecutivo del Estado:
 
-###### ARTICULO 27.
+I.- El tiempo por el que se otorgue la concesión o permiso, según la naturaleza y circunstancias del servicio, pero nunca por un plazo mayor de cinco años, que puede ser prorrogado.
 
-Para otorgamiento de concesiones sobre explotación de un sistema o línea de transportes dentro del Estado, o para aumentar la capacidad de transportes de sistemas o líneas locales existentes en la propia Entidad, será requisito previo el estudio y aprobación de los siguientes aspectos:
+II.- La clase de servicio.
 
-I.- Necesidad de establecer el sistema o línea que se solicita, o de aumentar el número de unidades de un sistema de línea en explotación.
+III.- El número de vehículos que se utilizarán y su capacidad, marca, modelo, clase, peso y demás características necesarias para la prestación del servicio de que se trate.
 
-II.- Capacidad del servicio adecuado a las necesidades que se trata de cubrir, tomando en cuenta los itinerarios respectivos; y
+IV.- El itinerario, con expresión de los puntos extremos e intermedios de la ruta, así como de sus estaciones de salida y terminales.
 
-III.- Condiciones técnicas de prestación del servicio en cuanto a seguridad, eficiencia y costo del transporte.
+V.- El horario a que se sujetará el servicio.
 
-###### ARTICULO 28.
+VI.- Las tarifas para la prestación del servicio.
 
-Las concesiones a que se refiere el artículo anterior serán temporales y comprenderán el tiempo que se considere necesario para garantizar la inversión, de conformidad con los estudios técnicos que se hagan sobre el particular.
+VII.- Las garantías necesarias que otorgará el concesionario o permisionario para asegurar el cumplimiento del servicio y las responsabilidades en que incurran.
 
-Las concesiones serán prorrogables, vencido el término de que se trata, con sujeción a las bases que fije el Reglamento.
+VIII.- El plazo en que deberá iniciarse la prestación del servicio.
 
-###### ARTICULO 29.
+IX.- Las demás modalidades que de acuerdo con la naturaleza del servicio se juzguen necesarias para la eficiente prestación del mismo.
 
-Las concesiones o permisos podrán ser declarados caducos, refrendados o revocados, en los términos y condiciones que fije el Reglamento de la presente Ley.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
-###### ARTICULO 30.
+###### Artículo 25.
 
-Los agricultores, mineros, empresas de construcción, los comerciantes e industriales en general, sean personas físicas o morales, podrán transportar por los caminos del Estado, los productos, mercancías, etc., de su exclusiva propiedad, empleando para ello vehículos particulares que les pertenezcan, debiendo obtener el correspondiente permiso de la Jefatura de Tránsito del Estado previo acuerdo con el Director General de Seguridad Pública y Tránsito del Estado. En caso de comprobarse que los citados particulares no se sujetan al permiso otorgado, y violan esa autorización transportando personas o carga que sólo competen a las empresas o sociedades de transportes que hacen el servicio público respectivo, se les aplicarán las sanciones que prevenga el Reglamento de esta Ley.
+Las concesiones y permisos para el establecimiento y explotación de los servicios públicos de transporte de pasajeros o carga, caducarán de pleno derecho:
 
-###### ARTICULO 31.
+I.- Porque se ceda, enajene o hipoteque la concesión o permiso, los derechos que de ellos se deriven y los bienes afectos al servicio, sin la aprobación del Ejecutivo del Estado.
 
-El C. Gobernador Constitucional del Estado está facultado para otorgar concesiones para la explotación de estacionamientos particulares, los que serán de primera y segunda clase y los cuales se sujetarán a las disposiciones en el Reglamento respectivo tales como: Solicitudes, condiciones de servicio, tarifas, etc., etc.
+II.- Porque el servicio para el que se otorgó la concesión o el permiso, no se preste dentro del plazo señalado para su iniciación.
 
-###### ARTICULO 32.
+III.- Porque se venza el plazo de la concesión o permiso sin haberse renovado éstos..
 
-El Ejecutivo del Estado expedirá el Reglamento de la presente Ley.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
+###### Artículo 26.
+
+La revocación de las concesiones y permisos para el establecimiento y explotación de los servicios públicos de transporte de pasajeros o carga, procede:
+
+I.- Cuando se interrumpa el servicio sin causa justificada.
+
+II.- Cuando los concesionarios y permisionarios alteren o modifiquen, sin la autorización del Ejecutivo del Estado, la naturaleza y condiciones del servicio fijadas en las concesiones y permisos.
+
+III.- Cuando, por hechos u omisiones de los concesionarios o permisionarios, queden sin vigencia las garantías a que se refiere el artículo 20 de esta Ley.
+
+IV.- Por incapacidad económica o quiebra supervenientes de los concesionarios o permisionarios, que impidan la prestación del servicio conforme a las condiciones fijadas en las concesiones y permisos.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
+###### Artículo 27.
+
+Las personas físicas y morales cuyas concesiones o permisos hayan caducado, no podrán obtener otra concesión o permiso sino después de cinco años de haber sido declarada la caducidad.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
+###### Artículo 28.
+
+Cuando opere la caducidad o revocación de las concesiones o permisos, los concesionarios o permisionarios perderán en beneficio del Estado las fianzas otorgadas para garantizar el cumplimiento del servicio, quedando retenidas las que se otorgaron para cumplir responsabilidades hasta en tanto se declare que no existen éstas.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
+###### Artículo 29.
+
+Los derechos al establecimiento y explotación de los servicios públicos de transporte de pasajeros o carga, que amparen las concesiones y permisos serán inembargables
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
+### CAPITULO V.
+
+SANCIONES.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
+###### Artículo 30.
+
+Las violaciones a las disposiciones de esta Ley y sus reglamentos, se sancionarán con:
+
+I.- Multa de $10.00 a $500.00.
+
+II.- Suspención de licencias para el manejo y tránsito de vehículos.
+
+III.- Cancelación de licencias para el manejo y el tránsito de vehículos.
+
+IV.- Revocación de concesiones y permisos para la explotación de servicios públicos de transporte de pasajeros o de carga.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
+###### Artículo 31.
+
+Los aprovechamientos que resulten de la aplicación de esta Ley y sus reglamentos, garantías y multas, tendrán el carácter de créditos fiscales, y la Tesorería General del Estado podrá aplicar la Ley sobre facultad económico-coactiva.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
+### CAPITULO VI.
+
+RECURSOS.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
+###### Artículo 32.
+
+Se establece el recurso de revisión ante el Ejecutivo del Estado, para revocar, modificar o confirmar, en su caso, con las pruebas que el recurrente aporte, los actos motivados por la aplicación de esta Ley y sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
+###### Artículo 33.
+
+El recurso se interpondrá por conducto del Director General de Tránsito o de los Delegados de Tránsito en el Estado, dentro de los cinco días hábiles siguientes al día en que el recurrente haya sido notificado del acto.
+
+Con el escrito de interposición del recurso se acompañarán las pruebas de que se disponga y se ofrecerán las que deban desahogarse.
+
+La autoridad de Tránsito receptora, dentro de los tres días hábiles siguientes a la interposición del recurso, concederá al recurrente un plazo de diez días hábiles para el desahogo de pruebas, señalando, en su caso, día y hora para recibirlas.
+
+Dentro de los cinco días hábiles siguientes a la conclusión del plazo probatorio, la autoridad receptora engrosará el expediente con las pruebas, razones y fundamentos que tuvo en consideración para dictar el acto recurrido, y lo remitirá al Ejecutivo del Estado. Los Delegados de Tránsito harán la remisión por conducto del Director General de Tránsito.
+
+El Ejecutivo del Estado, dentro de los quince días hábiles siguientes a la recepción del expediente, dictará resolución definitiva.
 
 T R A N S I T O R I O S.
 
-###### ARTICULO PRIMERO
+###### ARTICULO PRIMERO.
 
-- La presente Ley entrará en vigor a partir de los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+La presente Ley entrará en vigor a partir de los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
-###### ARTICULO SEGUNDO
+###### ARTICULO SEGUNDO.
 
-- En tanto no se expida el Reglamento de la presente Ley, continuará en vigor el Reglamento de Tránsito y Transportes del Estado de Oaxaca, publicado en el Periódico Oficial del Estado el 26 de junio de 1954, Tomo XXXVI.
+En tanto no se expida el Reglamento de la presente Ley, continuará en vigor el Reglamento de Tránsito y Transportes del Estado de Oaxaca, publicado en el Periódico Oficial del Estado el 26 de junio de 1954, Tomo XXXVI.
 
-###### ARTICULO TERCERO
+###### ARTICULO TERCERO.
 
-- La presente Ley deroga a la Ley de Tránsito para el Estado de Oaxaca publicada en el Periódico Oficial del Estado el 4 de agosto de 1951, número 31, reformada en el año de 1958, misma que se publicó en el Periódico Oficial del Estado, número 21, de 24 de mayo de 1958, y todos los Ordenamientos legales del Estado que se opongan a la presente Ley.
+La presente Ley deroga a la Ley de Tránsito para el Estado de Oaxaca publicada en el Periódico Oficial del Estado el 4 de agosto de 1951, número 31, reformada en el año de 1958, misma que se publicó en el Periódico Oficial del Estado, número 21, de 24 de mayo de 1958, y todos los Ordenamientos legales del Estado que se opongan a la presente Ley.
 
 Lo tendrá entendido el C. Gobernador del Estado y hará que se publique y se cumpla.
 
-DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Oaxaca de Juárez, a 12 de junio de 1969.- Dip. ZEFERINO CANSECO GOMEZ, Presidente.- CLAUDIO JORDAN ZAMACONA, Diputado Secretario.- JUAN GOMEZ GARCIA, Diputado Secretario.- Rúbricas.
+DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Oaxaca de Juárez, a 12 de junio de 1969.- Dip. ZEFERINO CANSECO GOMEZ, Presidente.- CLAUDIO JORDAN ZAMACONA, Diputado Secretario.- JUAN GOMEZ GARCÍA, Diputado Secretario.- Rúbricas.
 
 Por tanto mando que se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Oaxaca de Juárez, a 12 de junio de 1969.- LIC. FERNANDO GOMEZ SANDOVAL.- El Subsecretario Encargado de la Secretaria General del Despacho, GUILLERMO MARTINEZ LEON.- Rúbricas.
+Oaxaca de Juárez, a 12 de junio de 1969.- LIC. FERNANDO GOMEZ SANDOVAL.- El Subsecretario Encargado de la Secretaria General del Despacho, GUILLERMO MARTÍNEZ LEON.- Rúbricas.
 
 Y lo comunico a usted para su conocimiento y fines consiguientes.
 
-SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, a 12 de junio de 1969.- EL SUBSECRETARIO ENCARGADO DE LA SECRETARIA GENERAL DEL DESPACHO, GUILLERMO MARTINEZ LEON.- Rúbrica.
+SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, a 12 de junio de 1969.- EL SUBSECRETARIO ENCARGADO DE LA SECRETARIA GENERAL DEL DESPACHO, GUILLERMO MARTÍNEZ LEON.- Rúbricas.
 
 Al C.......
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE NOVIEMBRE DE 1972.
+
+###### Artículo 1o.
+
+Los Capítulos I, II, III y IV de la Ley de Tránsito del Estado de Oaxaca de fecha 12 de junio de 1969, publicada en el Periódico Oficial del Estado con fecha 5 de julio de 1969, quedan reformados de acuerdo con las disposiciones de los capítulos I, II, III, IV, V y VI de esta Ley.
+
+###### Artículo 2o.
+
+La presente Ley entrará en vigor a los 15 días de su publicación en el Periódico Oficial del Estado.
+
+###### Artículo 3o.
+
+Los servicios públicos de transporte de pasajeros o de carga se regularizarán dentro del plazo de 90 días a partir de la vigencia de esta Ley.
