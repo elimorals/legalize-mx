@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "1995-06-05"
+last_updated: "1995-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -291,9 +291,13 @@ La obligación de presentar la declaración subsistirá, aun cuando no se hayan 
 
 Son obligaciones de los contribuyente (sic) de este impuesto:
 
-I.- Registrarse ante la oficina recaudadora correspondiente a su domicilio fiscal, dentro de los 30 días siguientes a la fecha de iniciación de sus operaciones, mediante los formatos que para el efecto expida la Secretaría de finanzas, igual plazo tienen las personas físicas o morales que hayan iniciado sus actividades con anterioridad a la presente Ley.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-II.- Presentar ante las mismas autoridades y dentro del plazo que señala la fracción anterior, los avisos de cambio del nombre, razón social, traslado, cambio de domicilio, traspaso o suspensión de actividades.
+I.- Registrarse ante la oficina recaudadora correspondiente a su domicilio fiscal, dentro del mes siguiente al día en que inicien sus operaciones, mediante los formatos que para el efecto expida la Secretaría de Finanzas y Administración. Igual plazo tienen las personas físicas o morales que hayan iniciado sus actividades con anterioridad a la entrada en vigor de la presente Ley de Hacienda.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+II.- Presentar el aviso correspondiente, ante las autoridades señaladas en la fracción anterior, dentro del mes siguiente de la fecha en que realicen los siguientes actos: cambio de nombre, de razón social, traslado o cambio de domicilio y traspaso o suspensión de actividades.
 
 III.- Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
 
@@ -363,9 +367,7 @@ Salarios Mínimos Diarios vigentes.
 
 I.- Papel sellado especial para certificados de actas por hoja .45
 
-II.- Por certificación de cualquier acto que conste en los libros
-
-del Registro Civil, además del papel .6
+II.- Por certificación de cualquier acto que conste en los libros del Registro Civil, además del papel .6
 
 III.- Registro de nacimientos en las oficinas del Registro Civil EXENTO
 
@@ -497,9 +499,15 @@ b) Por cada año anterior 0.2
 
 XIX.- La inscripción de créditos hipotecarios y de habilitación o avío que soliciten las sociedades de crédito o cualquiera institución y organización auxiliar de crédito, a personas físicas o morales, sobre el importe de la operación pagarán el 0.25%. Tratándose de créditos otorgados para el desarrollo del sector agropecuario, pagarán sobre el 10% del monto del crédito total el 0.25%.
 
-Se considera vivienda de interés social aquella cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por quince el salario mínimo general diario elevado al año, vigente en el Estado.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-Se considera vivienda popular, aquella cuyo valor, al término de su edificación no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general elevado al año, vigente en el Estado.
+Se considera vivienda de interés social aquella cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general diario elevado al año, vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+Se considera vivienda popular, aquella cuyo valor, al término de su edificación no exceda de la suma que resulte de multiplicar por treinta el salario mínimo general diario elevado al año, vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 Tratándose de créditos otorgados para adquisición o construcción de vivienda de interés social o popular pagarán cuatro salarios mínimos diarios vigentes en el Estado.
 
@@ -512,6 +520,10 @@ XXI.- Por expedición de certificados de libertad o gravamen y de restricciones 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1994)</small>
 
 XXII.- Por expedición de Certificados de inscripción de propiedad, positivos o negativos 1.5
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+XXIII.- Por inscripción de reestructuración, en cualquiera de sus modalidades 2
 
 ### CAPITULO V. POR EXPEDICION DE TITULOS
 
@@ -527,7 +539,9 @@ II.- Las copias certificadas de documentos que expidan las autoridades y cualesq
 
 Por los conceptos especificados en el artículo anterior se causarán los derechos siguientes:
 
-Salarios Mínimos Diarios Vigentes
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+Salarios Mínimos Generales Diarios Vigentes
 
 I.- Por la legalización de firmas:
 
@@ -541,7 +555,13 @@ d) Certificado de Educación Superior 4
 
 e) Títulos Profesionales 5
 
-f) Otros certificados no especificados 2
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+f) Legalización de documentos de apostillamiento 7
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+g) Otros certificados no especificados 2
 
 II.- Por los servicios a que se refiere la fracción II del artículo anterior.
 
@@ -553,7 +573,9 @@ b) Por las hojas subsiguientes, cada una .1
 
 El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previa a la obtención del servicio.
 
-### CAPITULO VI. POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO EN RELACION CON EL ARTICULO 4º DE LA LEY QUE REGLAMENTA EL FUNCIONAMIENTO DEL PUENTE DE LA UNIDAD
+### CAPITULO VI. POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 42.
 
@@ -601,7 +623,9 @@ Por escrituras no especificadas en las que no se determine interés pecuniario a
 
 El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
 
-### CAPITULO VII. DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES DE LA SECRETARIAS DEL GOBIERNO DEL ESTADO
+### CAPITULO VII. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LAS SECRETARIAS Y ORGANISMOS DESCONCENTRADOS DEL GOBIERNO DEL ESTADO
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 49.
 
@@ -631,13 +655,19 @@ c) Revalidación de títulos 1
 
 El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
 
-### CAPITULO I. POR ENAJENACION DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+### CAPITULO VIII. POR AUTORIZACION PARA EL FUNCIONAMIENTO, EXPEDICION Y REVALIDACION DE LICENCIAS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHOLICAS
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 51.
 
-Por el uso del "PUENTE DE LA UNIDAD" ubicado entre Isla Aguada y Puerto Real, se cobrará un derecho, conforme al tipo de servicio que a continuación se indica:
+En relación con el Artículo 4o. de la Ley que Reglamenta el Funcionamiento del Puente de la Unidad, ubicado entre Isla Aguada y Puerto Real, se cobrará por el uso un derecho conforme al tipo de servicio que a continuación se indica:
 
-Salarios Mínimos Diarios Vigentes
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+Salarios Mínimos Generales Diarios Vigentes
 
 I.- Automóviles, Turismo, Pick-Ups y Panel con o sin remolque o trailer 1
 
@@ -661,25 +691,351 @@ VI.- Motocicletas con o sin Sidecar 3
 
 Estos derechos se pagarán en la caseta de cobro de la Secretaría de Finanzas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO II. POR EL IMPORTE DE LOS ARRENDAMIENTOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
+###### ARTICULO 51-A.
+
+Por el uso del camino de acceso a la Zona Arqueológica de Calakmul, se cobrará un derecho en términos de lo que establece el artículo 5o. de la ley de la materia.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+### CAPITULO I. POR ENAJENACION DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
 
 ###### ARTICULO 52.
 
-Por el ingreso a concursos sobre el monto del costo estimado de las Obras, se pagarán los siguientes derechos:
+Por los servicios prestados por las autoridades que se mencionan en este capítulo, se cobrarán entre otros los siguientes derechos:
 
-Salarios Mínimos Diarios Vigentes
+A.- SECRETARIA DE GOBIERNO:
 
-A) Por el registro al Padrón de Contratistas anualmente 6
+I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
 
-B) Por inscripción y venta de bases 9 a 35
+Salarios Mínimos Generales Diarios Vigentes
 
-### CAPITULO III. POR TALLERES GRAFICOS DEL ESTADO Y PERIODICO OFICIAL
+a) Por el registro a concurso 6
+
+b) Por inscripción y venta de bases 9 a 35
+
+B.- SECRETARIA DE FINANZAS Y ADMINISTRACION:
+
+I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
+
+Salarios Mínimos Generales Diarios Vigentes
+
+a) Por el registro a concurso 6
+
+b) Por inscripción y venta de bases 9 a 35
+
+II.- Por el registro al padrón de proveedores, contratistas y prestadores de servicio pagarán anualmente 6
+
+C.- SECRETARIA DE LA CONTRALORIA:
+
+I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
+
+Salarios Mínimos Generales Diarios Vigentes
+
+a) Por el registro a concurso 6
+
+b) Por inscripción y venta de bases 9 a 35
+
+D.- SECRETARIA DE DESARROLLO RURAL:
+
+I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
+
+Salarios Mínimos Generales Diarios Vigentes
+
+a) Por el registro a concurso 6
+
+b) Por inscripción y venta de bases 9 a 35
+
+II.- Perforación de pozos.
+
+A) Cuando se efectúe la perforación de pozos con perforadora de pulseta, sin incluir la tubería para ademe, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado según lo establece la siguiente:
+
+T A R I F A
+
+Perforadora de pulseta:
+
+HASTA 50 Kms. 32.38
+
+DE 51 A 100 Kms. 35.62
+
+DE 101 A 150 Kms. o más 38.86
+
+B) Cuando se efectúe la perforación de pozos con perforadora rotaria, sin incluir la tubería para ademe, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado según lo establece la siguiente:
+
+T A R I F A
+
+Perforadora rotaria:
+
+HASTA 50 Kms. 45.33
+
+DE 51 A 100 Kms. 48.57
+
+DE 101 A 150 Kms. o más 51.81
+
+C) En el transporte, instalación, desmantelamiento y operación del equipo de aforo, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado según lo establece la siguiente:
+
+T A R I F A
+
+Diámetro de tubería.
+
+6'' 8'' 10''
+
+a) Transporte de equipo de aforo en un radio hasta de 50 Km.
+
+77.72 97.15 129.53
+
+1.- Por kilómetro adicional o fracción
+
+0.64 0.64 0.64
+
+b) Instalación y desmantelamiento
+
+77.72 97.15 129.53
+
+c) Operación del equipo durante el desarrollo y aforo:
+
+1.- Hasta 24 horas
+
+233.16 291.45 388.60
+
+2.- Después de 24 horas por hora adicional o fracción
+
+9.71 12.17 16.19
+
+III.- Preparación de suelos
+
+A) Cuando se efectúe la preparación de suelos con tractor de 120 caballos de fuerza, se causarán y pagarán derechos por hectárea, de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado según lo establece la siguiente:
+
+T A R I F A
+
+a) Desvaradora 10.83
+
+b) Barbecho arado de 4 discos 19.89
+
+c) Rastra agrícola de 32 discos 10.81
+
+d) Siembra y fertilización 13.00
+
+e) Construcción de bordos 3.48
+
+f) Construcción de canales de riego 3.59
+
+g) Surcado 8.80
+
+B) Cuando se efectúe la preparación de suelos con tractor de 165 caballos de fuerza, se causarán y pagarán derechos por hectárea, de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado según lo establece la siguiente:
+
+T A R I F A
+
+a) Barbecho con arado de 5 discos 21.88
+
+b) Rastra semipesada 19.26
+
+c) Tabloneo de nivelación 17.42
+
+d) Construcción de canal principal 7.40
+
+e) Construcción de bordo canal principal 7.44
+
+f) Esparcidora 4.06
+
+g) Tape de siembra de arroz 8.11
+
+IV.- Cuando se efectúe la venta de árboles por unidad se causarán y pagarán derechos, de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado según lo establece la siguiente:
+
+T A R I F A
+
+a) Naranja valenciana injertada en patrón resistente a la enfermedad denominada "tristeza de los cítricos" 0.64
+
+b) Naranja valenciana injertada en patrón agrio 0.19
+
+c) Mango Tommy Atkins 0.45
+
+d) Guanábana seleccionada 0.51
+
+e) Marañón 0.25
+
+f) Pitahaya 0.32
+
+V.- Cuando se efectúe la venta de productos avícolas consistente en un paquete familiar de aves que conste de 8 hembras y 2 machos, se causarán y pagarán derechos, por un importe de 3.23 salarios mínimos generales diarios vigentes en el Estado.
+
+E.- SECRETARIA DE DESARROLLO SOCIAL:
+
+I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
+
+Salarios Mínimos Generales Diarios Vigentes
+
+a) Por el registro a concurso 6
+
+b) Por inscripción y venta de bases 9 a 35
+
+F.- SECRETARIA DE MEDIO AMBIENTE, RECURSOS NATURALES Y DESARROLLO PESQUERO:
+
+I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
+
+Salarios Mínimos Generales Diarios Vigentes
+
+a) Por el registro a concurso 6
+
+b) Por inscripción y venta de bases 9 a 35
+
+G.- SECRETARIA DE EDUCACION, CULTURA Y DEPORTE:
+
+I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
+
+Salarios Mínimos Generales Diarios Vigentes
+
+a) Por el registro a concurso 6
+
+b) Por inscripción y venta de bases 9 a 35
+
+H.- SECRETARIA DE SALUD:
+
+I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
+
+Salarios Mínimos Generales Diarios Vigentes
+
+a) Por el registro a concurso 6
+
+b) Por inscripción y venta de bases 9 a 35
+
+I.- SECRETARIA DE OBRAS PUBLICAS Y COMUNICACIONES:
+
+I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
+
+Salarios Mínimos Generales Diarios Vigentes
+
+a) Por el registro a concurso 6
+
+b) Por inscripción y venta de bases 9 a 35
+
+J.- ORGANISMOS DESCONCENTRADOS:
+
+I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
+
+Salarios Mínimos Generales Diarios Vigentes
+
+a) Por el registro a concurso 6
+
+b) Por inscripción y venta de bases 9 a 35
+
+El pago de derechos antes mencionados, deberán ser cubiertos en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva previamente a la obtención del servicio.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+### CAPITULO II. POR EL IMPORTE DE LOS ARRENDAMIENTOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
+
+###### ARTICULO 52-A.
+
+Por la expedición de licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas, a personas físicas o morales, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+
+T A R I F A
+
+Salarios Mínimos Generales Diarios Vigentes
+
+I.- Vinaterías, supermercados, centros nocturnos, restaurantes, bares, depósitos, expendios, tiendas de abarrotes, centros recreativos y deportivos, discotecas, salones de baile, cantinas, salón cerveza, casinos, botaneros, taquerías, loncherías y similares, etc. De 1620 a 3240
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 52-B.
+
+Por la autorización de permisos eventuales para el funcionamiento de giros de prestación de servicios, que incluyan el expendio de bebidas alcohólicas, así como permisos eventuales para expendio de bebidas alcohólicas en giros establecidos, se causarán y pagarán derechos por cada día, de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+
+T A R I F A
+
+Salarios Mínimos Generales Diarios Vigentes
+
+I.- Cantinas, bares, centros nocturnos De 48 a 58
+
+II.- Discotecas, salones de baile De 41 a 46
+
+III.- Vinaterías, supermercados, depósitos, expendios, tiendas de abarrotes, botaneros, restaurantes De 34 a 39
+
+IV.- Centros recreativos y deportivos, casinos, bodegas distribuidoras De 28 a 32
+
+V.- Taquerías, loncherías y similares De 22 a 26
+
+VI.- Otros De 13 a 20
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 52-C.
+
+Por las autorizaciones de funcionamiento en horario extraordinario de giros de prestación de servicios que incluyan el expendio de bebidas alcohólicas, se causarán y pagarán derechos por cada hora, de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+
+T A R I F A
+
+Salarios Mínimos Generales Diarios Vigentes
+
+I.- Cantinas, bares, centros nocturnos De 11 a 13
+
+II.- Discotecas, salones de baile De 9 a 10
+
+III.- Vinaterías, supermercados, depósitos, expendios, tiendas de abarrotes, botaneros, restaurantes De 7 a 8
+
+IV.- Centros recreativos y deportivos, casinos, bodegas distribuidoras De 5 a 6.5
+
+V.- Taquerías, loncherías y similares De 2.5 a 4
+
+VI.- Otros De 1 a 2
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 52-D.
+
+Las licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas en sus diversos giros, deberán revalidarse anualmente, dentro de los tres primeros meses de cada año, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+
+T A R I F A
+
+Salarios Mínimos Generales Diarios Vigentes
+
+I.- Cantinas, bares, centros nocturnos De 48 a 58
+
+II.- Discotecas, salones de baile De 41 a 46
+
+III.- Vinaterías, supermercados, depósitos, expendios, tiendas de abarrotes, botaneros, restaurantes De 34 a 39
+
+IV.- Centros recreativos y deportivos, casinos, bodegas distribuidoras De 28 a 32
+
+V.- Taquerías, loncherías, y similares De 22 a 26
+
+VI.- Otros De 13 a 20
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 52-E.
+
+Por la cesión o transferencia de los derechos de las licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas, se causará y pagará el mismo derecho que corresponda al otorgamiento del giro de que se trate, en relación con el artículo 52-A.
+
+La cesión o transferencia de los derechos de las licencias entre ascendientes y descendientes no causará ninguna cuota.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 52-F.
+
+Por la autorización de modificaciones, como son cambio de domicilio, ampliación de giro, reposiciones o duplicados de las licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+
+T A R I F A
+
+Salarios Mínimos Generales Diarios Vigentes
+
+I.- Por cambio de domicilio de la licencia De 648 a 1246
+
+II.- Por ampliación de giro de la licencia De 1296 a 1944
+
+III.- Por reposición de una licencia 39
+
+IV.- Por duplicado de la licencia 13
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 52-G.
+
+Las autoridades estatales regularán en sus reglamentos respectivos o mediante disposiciones de carácter general, los requisitos para la obtención de estas licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas.
 
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
-### CAPITULO IV. POR BIENES MOSTRENCOS Y VACANTES
+### CAPITULO III. POR TALLERES GRAFICOS DEL ESTADO Y PERIODICO OFICIAL
 
 ###### ARTICULO 53.
 
@@ -703,7 +1059,7 @@ Quedan exceptuados en el artículo que antecede los muebles e inmuebles que el F
 
 Se autoriza al Ejecutivo del Estado para donar o vender, con el exclusivo fin de hacerlas producir, y en el precio y condiciones convenientes, las fincas rústicas que por medio del procedimiento administrativo de ejecución, se hayan adjudicado o adjudique el Gobierno del Estado.
 
-### CAPITULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
+### CAPITULO IV. POR BIENES MOSTRENCOS Y VACANTES
 
 ###### ARTICULO 57.
 
@@ -717,7 +1073,7 @@ Los inmuebles se destinarán preferentemente a los usos de la Administración P�
 
 La Oficialía Mayor del Gobierno del Estado, formulará un minucioso inventario de todos los bienes muebles e inmuebles, patrimonio del Estado, y ninguno podrá ser dado de baja, ni retirado del servicio, sino por acuerdo expreso de la Oficialía Mayor y con la aprobación del Gobernador.
 
-### CAPITULO VI. POR LAS UTILIDADES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACION ESTATAL Y FIDEICOMISOS
+### CAPITULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
 
 ###### ARTICULO 60.
 
@@ -759,7 +1115,7 @@ a) Ejemplar 2.25
 
 b) Otras publicaciones editadas, se cobrará el costo de la impresión.
 
-### CAPITULO VII. OTROS PRODUCTOS
+### CAPITULO VI. POR LAS UTILIDADES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACION ESTATAL Y FIDEICOMISOS
 
 ###### ARTICULO 63.
 
@@ -769,7 +1125,7 @@ Ingresarán al patrimonio de la Hacienda Pública, previo al procedimiento corre
 
 Los bienes de las personas que mueran intestadas, sin dejar parientes de acuerdo con lo establecido en el Código Civil vigente en el Estado, serán adjudicados al patrimonio de la Hacienda Pública. A las personas que denuncien ante las autoridades competentes las situaciones señaladas en los dos artículos anteriores, se les otorgará una participación del 20% sobre el importe de los bienes denunciados, si no existe reclamación alguna.
 
-### CAPITULO I. REZAGOS
+### CAPITULO VII. OTROS PRODUCTOS
 
 ###### ARTICULO 65.
 
@@ -781,13 +1137,13 @@ Los servicios que presten los hospitales civiles en sus departamentos de distinc
 
 La Secretaría de Finanzas y Administración del Estado, recaudará directamente las cuotas correspondientes.
 
-### CAPITULO II. RECARGOS
+### CAPITULO I. REZAGOS
 
 ###### ARTICULO 67.
 
 Corresponden a la Hacienda Pública del Estado de Campeche, los ingresos por utilidades de los organismos descentralizados, empresas de participación estatal y fideicomisos. Dichas entidades se regirán conforme a las disposiciones contenidas al respecto en la Ley Orgánica de la Administración Pública del Estado de Campeche.
 
-### CAPITULO III. GARANTIAS Y MULTAS
+### CAPITULO II. RECARGOS
 
 ###### ARTICULO 68.
 
@@ -795,7 +1151,7 @@ Se consideran como otros Productos aquéllos que no se encuentren, comprendidos 
 
 ## TITULO QUINTO. DE LOS APROVECHAMIENTO (SIC)
 
-### CAPITULO IV. REINTEGROS
+### CAPITULO III. GARANTIAS Y MULTAS
 
 ###### ARTICULO 69.
 
@@ -809,23 +1165,51 @@ Se consideran rezagos, los adeudos de impuestos, derechos y productos que pasen 
 
 Los rezagos se cubrirán en las oficinas en las que debieron pagarse los impuestos, derechos y productos de los cuales provengan.
 
-### CAPITULO V. DONACIONES
+### CAPITULO IV. REINTEGROS
 
 ###### ARTICULO 72.
 
 El pago de los créditos fiscales realizado fuera de los plazos señalados por esta Ley dará lugar al cobro de recargos y el monto de los mismos se actualizará desde el mes en que debió de hacerse el pago, hasta que el mismo se efectúe; además se causarán recargos por concepto de indemnización de conformidad con lo que establezca el Código Fiscal Estatal.
 
-### CAPITULO VI. PRESTAMOS
+### CAPITULO V. DONACIONES
 
 ###### ARTICULO 73.
 
 Se entienden constituidas en favor del estado, las garantías que se otorguen para obtener la libertad provisional y la libertad preparatoria. Los agentes del Ministerio Público, están obligados a promover lo conducente para que las autoridades ante quienes se otorguen, declaren exigibles las garantías tan luego como los fiadores o los directamente obligados falten a los compromisos contraídos. Aquéllas por su parte comunicarán sus resoluciones a la oficina respectiva.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 73-A.
+
+Las garantías constituidas para la autorización de licencias especiales a menores para conducción de vehículos automotores, pasarán a favor del Estado, tan pronto como las autoridades competentes de la materia comuniquen que el menor ha faltado a los compromisos contraídos, según lo mencionado en las leyes respectivas. El monto de la garantía señalada anteriormente consistirá en 20 veces el salario mínimo general diario vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 73-B.
+
+Las garantías otorgadas para la recepción de la solicitud de concesión y estudio técnico, a que alude la Ley de Vialidad, Comunicaciones y Transportes del Estado, serán de acuerdo a las cuotas siguientes:
+
+I.- Para servicios de transporte de pasajeros y colectivos por unidad:
+
+Salarios Mínimos Generales Diarios Vigentes
+
+a) Automóviles y camionetas 15
+
+b) Minibuses y microbuses 20
+
+c) Autobuses 30
+
+II.- Camionetas, camiones de carga y grúas 40
+
+III.- Por aumento de vehículos y ampliación de ruta se estará a lo dispuesto por las fracciones I y II.
+
+Dichas garantías pasarán a favor del Estado al momento de ser negado el otorgamiento de la concesión.
+
 ###### ARTICULO 74.
 
 Ingresarán a la Hacienda Pública las multas impuestas administrativamente por cualquier autoridad del Estado, las establecidas en calidad de penas en los procesos de orden judicial y las provenientes de la conmutación de sanciones que dispongan las Leyes respectivas. Las autoridades que las impongan, tienen obligación de comunicarlo a las autoridades hacendarías.
 
-### CAPITULO VII. APROVECHAMIENTOS DIVERSOS
+### CAPITULO VI. PRESTAMOS
 
 ###### ARTICULO 75.
 
@@ -835,7 +1219,7 @@ Las cantidades pagadas de más o indebidamente con cargo al Presupuesto de Egres
 
 También ingresarán por este concepto las responsabilidades administrativas que se finquen por autoridad competente y que se hagan efectivas.
 
-### CAPITULO UNICO
+### CAPITULO VII. APROVECHAMIENTOS DIVERSOS
 
 ###### ARTICULO 77.
 
@@ -848,6 +1232,8 @@ Ingresarán al Erario Estatal las donaciones que se hagan en favor del Estado. C
 El Gobernador del Estado queda facultado para obtener préstamos cuya rendición se desplace hasta ejercicios fiscales posteriores, para el financiamiento de obras materiales que redunden en beneficio indiscutible de la Economía del Estado, cuando su costo no pueda ser cubierto por el Erario Público.
 
 Estos se obtendrán de particulares, instituciones oficiales o privadas, mediante convenios que concerte el propio Gobernador, previa la autorización del Congreso Local.
+
+### CAPITULO UNICO
 
 ###### ARTICULO 79.
 
@@ -934,3 +1320,9 @@ P.O. 5 DE JUNIO DE 1995.
 Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 1995.
+
+PRIMERO.- El presente decreto entrará en vigor el día primero de Enero de mil novecientos noventa y seis.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a las contenidas en este decreto.
