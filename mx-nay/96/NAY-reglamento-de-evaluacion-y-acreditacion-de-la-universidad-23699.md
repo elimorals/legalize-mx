@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-evaluacion-y-acreditacion-de-la-universidad-23699
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-16"
-last_updated: "2004-01-31"
+last_updated: "2005-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE EVALUACION Y ACREDITACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2005.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de febrero de 2002.
 
@@ -91,15 +91,17 @@ La calificación mínima aprobatoria será de siete, en escala numérica de siet
 
 Para que el alumno acredite una asignatura, es indispensable aprobar el 100% de las unidades de aprendizaje del programa de estudios correspondiente.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2005)</small>
+
 ###### ARTÍCULO 8o.
 
-Cuando el alumno no se presente a la evaluación a que tiene derecho, se reportará calificación reprobatoria "NA" en el concentrado de calificaciones.
+Cuando el alumno no se presente a la evaluación a que tiene derecho, se reportará calificación reprobatoria "NP" en el concentrado de calificaciones.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2005)</small>
 
 ###### ARTÍCULO 9o.
 
-La calificación de cada asignatura se expresará en tres resultados parciales; la calificación final será el promedio de los tres anteriores, mismos que entregarán los profesores de cada asignatura a los Directores de Carrera y éste a Servicios Escolares, según tiempos que establezca el calendario escolar de la Institución.
+La calificación de cada asignatura se expresará en tres resultados parciales; la calificación final será el promedio de los tres anteriores, misma que calculará y publicará el Departamento de Servicios Escolares.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
 
@@ -139,9 +141,11 @@ II.- En el período de regularización establecido en el calendario escolar, med
 
 Para la evaluación de la estadía, se estará a lo dispuesto por el reglamento de visitas, estancias y estadías.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2005)</small>
+
 ###### ARTÍCULO 17.
 
-Las calificaciones de cada cuatrimestre serán asentadas en el concentrado de calificaciones finales, en el cual se registrarán los resultados de todas las asignaturas de cada grupo, debiendo ser firmadas por todos los profesores del grupo correspondiente, con el visto bueno del Director de Carrera, debiendo ser publicada una copia del concentrado de calificaciones en un lugar visible de la carrera correspondiente.
+Las calificaciones de cada cuatrimestre serán asentadas en el concentrado de calificaciones finales, en el cual se registrarán los resultados de todas las asignaturas de cada grupo, y serán firmadas por todos el Profesor de Tiempo Completo del grupo correspondiente, con el visto bueno del Director de Carrera, debiendo ser publicada una copia del concentrado de calificaciones en un lugar visible de la carrera correspondiente.
 
 ###### ARTÍCULO 18.
 
@@ -157,9 +161,11 @@ El alumno será dado de baja definitiva de la carrera, perdiendo todos sus derec
 
 El Alumno tendrá derecho por única vez de inscribirse en una carrera diferente; pero será dado de baja definitiva de la Universidad, cuando habiendo ejercido este derecho y habiendo causado baja definitiva de una carrera, reincida en cualquiera de los supuestos previstos en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2005)</small>
+
 ###### ARTÍCULO 21.
 
-En caso de existir error en el promedio general o en la calificación de una evaluación extraordinaria, el Director de la Carrera dispondrá de cinco días hábiles a partir de la recepción de las actas de calificaciones finales y exámenes extraordinarios, para solicitar por escrito a la Rectoría la rectificación de la calificación correspondiente, anexando las constancias que acrediten la procedencia de la rectificación solicitada. Después de haber transcurrido el plazo señalado, por ningún motivo se hará modificación alguna.
+En caso de existir error en el promedio general o en la calificación de una evaluación, el Director de la Carrera dispondrá de cinco días hábiles a partir de la entrega de calificaciones al Departamento de Servicios Escolares, para elaborar escrito de rectificación de la calificación correspondiente, anexando las constancias que acrediten la procedencia de la rectificación solicitada. Después de haber transcurrido el plazo señalado, por ningún motivo se hará modificación alguna.
 
 ### CAPÍTULO SEGUNDO. EVALUACIÓN ORDINARIA
 
@@ -285,15 +291,27 @@ La calificación máxima en una Evaluación Extraordinaria será de nueve.
 
 La evaluación de Última Asignatura, es aquella que se concede al alumno al final del cuatrimestre en una sola asignatura conforme al artículo 2°, y por única ocasión durante su carrera, siendo ésta la última oportunidad para acreditarla. Esta evaluación podrá solicitarse del primero al quinto cuatrimestre.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2005)</small>
+
+Si el alumno obtiene calificación reprobatoria, en la evaluación de Última Asignatura, tendrá como única oportunidad de ingresar a otra carrera en el siguiente ciclo escolar; o si quisiera continuar en la misma, tendrá también como única oportunidad la de cursar y acreditar el cuatrimestre completo en el siguiente ciclo escolar.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2005)</small>
 
 ###### ARTÍCULO 43.
 
-Cumplir con los demás requisitos a que se refieren las fracciones I, III, IV y V del artículo 38 de este Reglamento.
+Para que un alumno tenga derecho a presentar evaluación de Última Asignatura, el alumno deberá cumplir con los siguientes requisitos:
+
+I. Presentar escrito al Departamento de Servicios Escolares solicitando la aplicación de la evaluación de Última Asignatura dentro de los tres días hábiles contados a partir del día hábil siguiente de la publicación de las listas de calificaciones de exámenes extraordinarios;
+
+II. Cubrir el importe de los derechos del examen de Última Asignatura en el periodo establecido por el Departamento de Servicios Escolares, cuyo costo será el equivalente al de un examen extraordinario;
+
+III. Cumplir con los demás requisitos a que se refieren las fracciones I, III, y IV del artículo 38 de este Reglamento.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2005)</small>
 
 ###### ARTÍCULO 44.
 
-La evaluación de la Última Asignatura se realizará el primer día hábil de clases del siguiente cuatrimestre que señale el calendario escolar, previo pago de los derechos correspondientes, cuyo costo será el equivalente al de un examen extraordinario.
+La evaluación de la Última Asignatura se realizará en el transcurso de la primera semana de clases del siguiente cuatrimestre que señale el calendario escolar, previo pago de los derechos correspondientes.
 
 ###### ARTÍCULO 45.
 
@@ -472,5 +490,9 @@ P.O. 16 DE JULIO DE 2003.
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
 
 P.O. 31 DE ENERO DE 2004.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
+
+P.O. 16 DE FEBRERO DE 2005.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
