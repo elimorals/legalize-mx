@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-10296"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-13"
-last_updated: "2001-08-17"
+last_updated: "2002-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2001.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL PERIODICO OFICIAL EL 25 DE JUNIO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley Publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el 13 de septiembre de 1995.
 
@@ -1556,3 +1558,15 @@ SEGUNDO.- Envíese al Ejecutivo del Estado para su publicación.
 P.O. 17 DE AGOSTO DE 2001.
 
 UNICO.- La presente reforma entrará en vigor hasta en tanto se apruebe la ley en materia municipal a la que se refiere el Artículo 81 de la Constitución Política del Estado de Baja California.
+
+P.O. 25 DE JUNIO DE 2002.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
+
+SEGUNDO.- A partir de la iniciación de su vigencia, queda abrogada la Ley Orgánica del Poder Legislativo del Estado de Baja California, publicada en el Periódico Oficial número 43 de fecha trece de septiembre de 1995, así como las reformas y adiciones surgidas desde el momento de su promulgación.
+
+TERCERO.- En un término de ciento ochenta días posteriores a la entrada en vigor de esta Ley, se crearán los Reglamentos respectivos, y se modificarán los ordenamientos jurídicos correlativos a la misma en todo lo que se opongan o contradigan con ésta.
+
+CUARTO.- Cualquier controversia que se origine con anterioridad a la creación del Reglamento Interior, así como del Reglamento de Procedimientos y Prácticas Parlamentarias, ambos del Poder Legislativo del Estado de Baja California; se resolverá mediante acuerdo por el Pleno del Congreso del Estado.
+
+QUINTO.- Con relación al órgano auxiliar denominado de la Dirección de Programación y Gasto Interno, éste se creará una vez que se cuenten con los recursos presupuestales correspondientes, para tal efecto.
