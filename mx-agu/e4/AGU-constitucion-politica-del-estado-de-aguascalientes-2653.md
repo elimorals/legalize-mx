@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1997-02-22"
+last_updated: "1997-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 1997.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -73,11 +73,29 @@ Por la misma razón, el hogar y, particularmente, los niños, serán objeto de e
 
 La propiedad privada se respetará y garantizará en el Estado, con las modalidades que a su ejercicio, como función social, le impongan las leyes.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1997)</small>
 
 ###### Artículo 6o.
 
-La educación popular será motivo de especial atención del Estado.
+La educación es un derecho de todas las personas que atiende a las necesidades de su desarrollo y un proceso colectivo de interés general y público.
+
+Es deber jurídico del Estado y sus Municipios impartir la educación preescolar, primaria y secundaria, de conformidad con los principio de universalidad, gratuidad y laicidad.
+
+El Estado deberá además promover y atender la educación media, la educación superior y otras modalidades educativas, como la formación y capacitación para el trabajo, la educación de adultos y la educación especial.
+
+Los fines de la educación que imparta o promueva el Estado, de manera corresponsable con la sociedad, serán los siguientes:
+
+El fomento de la democracia como forma de vida, el respeto a los derechos humanos en el marco de la libertad y la justicia, la mejor convivencia social y colaboración en el trabajo, el desarrollo de individuos libres y autónomos como ciudadanos –con capacidad de juicio y de toma de decisiones responsables- el impulso del desarrollo nacional y estatal, el respeto a la pluralidad social y política, el fomento a la ética, la rectitud, la verdad y la solidaridad y, con peculiar cuidado, la participación en el avance de la ciencia, la tecnología y las humanidades.
+
+Las autoridades municipales, educativas y escolares colaborarán para que los padres o tutores cumplan con la obligación de enviar a sus hijos o pupilos a la educación básica.
+
+Además del acceso, el Estado deberá garantizar a los menores que asistan a la educación básica, la permanencia y el egreso oportuno de cada uno de los niveles educativos; por ende, existirán acciones compensatorias de las desigualdades para hacer efectivo en cada caso el derecho universal a la educación en términos de este mismo Artículo.
+
+Los resultados de todo el proceso educativo, así como los factores que inciden en él, deberán evaluarse por el Estado e informar a la sociedad de la situación que guarde el sistema educativo.
+
+La atención a la demanda social de la educación media y la educación superior en el Estado será una prioridad de las instituciones públicas y por ello, se ampliará el acceso a esos niveles para garantizar el debido fomento al desarrollo económico y social de la región a la vez que el arraigo local de los jóvenes.
+
+Toda educación que realicen los particulares en el territorio del Estado será supervisada y evaluada en los términos del presente Artículo por las autoridades competentes, con estricto apego a las leyes vigentes aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -715,7 +733,7 @@ I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
-II.- Presentar cada año al Congreso a más tardar el día 15 de diciembre, los Proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, debiendo comparecer el Secretario de Finanzas a dar cuenta del mismo.
+II.- Presentar cada año al Congreso a más tardar el día 15 de diciembre, los Proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, debiendo comparecer el Secretario de Finanzas a dar cuenta del mismo;
 
 III.- (DEROGADA, P.O. 20 DE AGOSTO DE 1995)
 
@@ -1571,7 +1589,7 @@ SEGUNDO.- Dentro del término de un año contado a partir de la iniciación de v
 
 P.O. 29 DE ENERO DE 1984.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 2 DE JUNIO DE 1985.
 
@@ -1597,11 +1615,11 @@ El ejercicio constitucional de la H. LIII Legislatura del Estado, concluirá al 
 
 P.O. 11 DE MARZO DE 1990.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 26 DE AGOSTO DE 1990.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 24 DE FEBRERO DE 1991.
 
@@ -1619,7 +1637,7 @@ Las presentes reformas y adiciones entrarán en vigor el día siguiente de su pu
 
 P.O. 13 DE OCTUBRE DE 1991.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 1 DE MARZO DE 1992.
 
@@ -1742,3 +1760,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 En un término de ciento veinte días, contados a partir de la vigencia del presente Decreto, se reformará la Ley Electoral del Estado y demás relativas, conforme a la presente reforma constitucional.
+
+P.O. 23 DE MARZO DE 1997.
+
+UNICO.- La presente reforma constitucional entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
