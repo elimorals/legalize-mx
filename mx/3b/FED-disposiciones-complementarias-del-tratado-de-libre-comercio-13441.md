@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2000-04-05"
+last_updated: "2000-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,9 +18,9 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO RELATIVO A LA SALVAGUARDA AGROPECUARIA DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MEDIANTE EL CUAL SE DETERMINAN LAS MERCANCIAS COMPRENDIDAS EN LAS FRACCIONES 0203.19.99 Y 2004.10.01, CON LAS TASAS ARANCELARIAS QUE SE INDICAN
+ACUERDO RELATIVO A LA SALVAGUARDA AGROPECUARIA DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MEDIANTE EL CUAL SE DETERMINAN LAS MERCANCIAS COMPRENDIDAS EN LAS FRACCIONES Y CON LAS TASAS ARANCELARIAS QUE SE INDICAN
 
-Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de abril de 2000.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de mayo de 2000.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Comercio y Fomento Industrial.
 
@@ -30,11 +30,11 @@ CONSIDERANDO
 
 Que el Decreto que establece la tasa aplicable para 2000 del Impuesto General de Importación para las mercancías originarias de América del Norte, Colombia, Venezuela, Costa Rica, Bolivia, Chile y Nicaragua, publicado en el Diario Oficial de la Federación el 31 de diciembre de 1999, dispone en su artículo 8 que se aplicará la tasa prevista en el Apéndice a ese Decreto, a las mercancías identificadas con el código “S”, siempre y cuando no se rebase el cupo mínimo de importación especificado para cada fracción en la lista de México, contenida en el Anexo 302.2 del Tratado de Libre Comercio de América del Norte;
 
-Que conforme a los registros estadísticos de las autoridades aduaneras, la importación de algunas mercancías originarias de los Estados Unidos de América, comprendidas en el Anexo 302.2 del Tratado de Libre Comercio de América del Norte, ha rebasado el volumen total de importación de cupo mínimo fijado en dicho Tratado, y
+Que conforme a los registros estadísticos de las autoridades aduaneras, la importación de algunas mercancías originarias de Canadá, comprendidas en el Anexo 302.2 del Tratado de Libre Comercio de América del Norte, ha rebasado el volumen total de importación de cupo mínimo fijado en dicho Tratado, y
 
-Que para el efecto de que el arancel preferencial aplicable sea el listado en el artículo 8 del referido Decreto, corresponde a la Secretaría de Comercio y Fomento Industrial publicar en el Diario Oficial de la Federación que se ha rebasado el cupo mínimo; por lo que he tenido a bien expedir el siguiente
+Que para el efecto de que el arancel preferencial aplicable sea el listado en el artículo 8 del referido Decreto, corresponde a la Secretaría de Comercio y Fomento Industrial publicar en el Diario Oficial de la Federación que se ha rebasado el cupo mínimo; por lo que he tenido a bien expedir el siguiente:
 
-ACUERDO RELATIVO A LA SALVAGUARDA AGROPECUARIA DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MEDIANTE EL CUAL SE DETERMINA LA MERCANCIA COMPRENDIDA EN LA FRACCION Y CON LA TASA ARANCELARIA QUE SE INDICA
+ACUERDO RELATIVO A LA SALVAGUARDA AGROPECUARIA DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MEDIANTE EL CUAL SE DETERMINAN LAS MERCANCIAS COMPRENDIDAS EN LAS FRACCIONES Y CON LAS TASAS ARANCELARIAS QUE SE INDICAN
 
 ## TITULO I: DISPOSICIONES GENERALES
 
@@ -68,13 +68,19 @@ Se establecen las reglas de marcado de país de origen para determinar cuando un
 
 ###### ARTICULO UNICO.
 
-La importación de mercancías originarias de América del Norte, de conformidad con el Tratado de Libre Comercio de América del Norte, comprendidas en las fracciones arancelarias de la Tarifa de la Ley del Impuesto General de Importación que a continuación se indican, elegibles para ser consideradas como productos de los Estados Unidos de América, conforme al Acuerdo por el que se establecen reglas de marcado de país de origen para determinar cuando una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense, de conformidad con el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 7 de enero de 1994, estará sujeta a la siguiente tasa arancelaria ad-valorem:
+La importación de mercancías originarias de América del Norte, de conformidad con el Tratado de Libre Comercio de América del Norte, comprendidas en las fracciones arancelarias de la Tarifa de la Ley del Impuesto General de Importación que a continuación se indican, elegibles para ser consideradas como productos del Canadá, conforme al Acuerdo por el que se establecen reglas de marcado de país de origen para determinar cuándo una mercancía importada a territorio nacional se puede considerar una mercancía canadiense, de conformidad con el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 7 de enero de 1994, estarán sujetas a las siguientes tasas arancelarias ad-valorem:
 
 Fracción Descripción Tasa
 
-0203.19.99 Las demás 20%
+0103.91.99 Los demás 20%
 
-2004.10.01 Papas (patatas) 20%
+0103.92.02 De peso superior a 110 kg, excepto
+
+lo comprendido en la fracción
+
+0103.92.01 20%
+
+0103.92.99 Los demás 20%
 
 #### SECCION I: ELIMINACION ARANCELARIA
 
@@ -332,4 +338,4 @@ Para propósitos de la aplicación del artículo cuarto, sólo los materiales na
 
 UNICO.- El presente Acuerdo tendrá vigencia a partir del día siguiente al de su publicación en el Diario Oficial de la Federación y hasta el 31 de diciembre de 2000.
 
-México, D.F., a 28 de marzo de 2000.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
+México, D.F., a 26 de abril de 2000.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
