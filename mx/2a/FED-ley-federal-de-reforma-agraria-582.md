@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-reforma-agraria-582"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1971-04-16"
-last_updated: "1991-07-23"
+last_updated: "1992-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=582&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1971-03-22"
 
 LEY FEDERAL DE REFORMA AGRARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JULIO DE 1991.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY AGRARIA PUBLICADA EN EL D.O.F. DE 26 DE FEBRERO DE 1992, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: DEROGADA.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 16 de abril de 1971.
 
@@ -4160,3 +4162,53 @@ SEXTO.- Los preceptos de esta Ley que no se contemplen en el presente Decreto y 
 D.O.F. 23 DE JULIO DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE FEBRERO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan la Ley Federal de Reforma Agraria, la Ley General de Crédito Rural, la Ley de Terrenos Baldíos, Nacionales y Demasías y la Ley del Seguro Agropecuario y de Vida Campesino, así como todas las disposiciones que se opongan a las previstas en la presente ley.
+
+En tanto no se expidan las disposiciones correspondientes, continuarán aplicándose, en lo que no se opongan a esta ley, las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor de la presente ley.
+
+###### ARTICULO TERCERO.
+
+La Ley Federal de Reforma Agraria que se deroga se seguirá aplicando respecto de los asuntos que actualmente se encuentran en trámite en materia de ampliación o dotación de tierras, bosques y aguas, creación de nuevos centros de población y restitución, reconocimiento y titulación de bienes comunales.
+
+Por lo que hace a los asuntos relativos a las materias mencionadas en el párrafo anterior, cuyo trámite haya terminado por haberse dictado acuerdo de archivo del expediente como asunto concluido o dictamen negativo, así como los asuntos relativos a dichas materias en los que en lo futuro se dicten, se estará a lo dispuesto en el artículo tercero transitorio del Decreto que reformó el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 6 de enero de 1992.
+
+Los demás asuntos que corresponda conocer a los tribunales agrarios, se turnarán a éstos por la Comisión Agraria Mixta o el Cuerpo Consultivo Agrario, según corresponda, en el estado en que se encuentren, una vez que aquéllos entren en funciones.
+
+La autoridad agraria deberá prestar a los tribunales la colaboración que le soliciten para la adecuada substanciación de los expedientes, a fin de que se encuentren en aptitud de dictar la resolución que corresponda.
+
+###### ARTICULO CUARTO.
+
+Se reconoce plena validez a los documentos legalmente expedidos con base en la legislación que se deroga. Los títulos y certificados que amparen derechos de ejidatarios y comuneros servirán como base, en su caso, para la expedición de los certificados previstos en esta ley.
+
+Los certificados de inafectabilidad expedidos en los términos de la ley que se deroga, podrán ofrecerse como prueba en los procedimientos previstos por esta ley y tendrán validez para efectos de determinar la calidad de las tierras, al igual que las constancias de coeficientes de agostadero que haya expedido la Secretaría de Agricultura y Recursos Hidráulicos.
+
+###### ARTICULO QUINTO.
+
+Las formas asociativas existentes con base en los ordenamientos que se derogan podrán continuar funcionando, en lo que no se oponga a la presente ley, de acuerdo con lo dispuesto en los ordenamientos respectivos.
+
+###### ARTICULO SEXTO.
+
+Se deroga la Ley de Fomento Agropecuario, salvo en lo relativo a las disposiciones que rigen el Fideicomiso de Riesgo Compartido.
+
+###### ARTICULO SEPTIMO.
+
+Las operaciones crediticias que se hubieren efectuado con anterioridad a la entrada en vigor de esta ley, seguirán rigiéndose por la Ley General de Crédito Rural y las disposiciones relativas que se derogan. Subsisten las operaciones celebradas por los comisariados ejidales, de bienes comunales, así como las resoluciones de las asambleas ejidales y comunales que se hubieren realizado con anterioridad a la entrada en vigor de esta ley.
+
+El Registro de Crédito Agrícola, constituido en los términos de la Ley de Crédito Agrícola de 30 de diciembre de 1955, continuará funcionando hasta en tanto se expida el Reglamento del Registro Público de Crédito Rural, a que se refiere el artículo 114 de esta ley.
+
+###### ARTICULO OCTAVO.
+
+Las colonias agrícolas y ganaderas podrán optar por continuar sujetas al régimen establecido en el Reglamento de Colonias Agrícolas y Ganaderas o por adquirir el dominio pleno de sus tierras, en cuyo caso se regirán por la legislación civil de la entidad en que se encuentren ubicadas.
+
+En un plazo de seis meses contado a partir de la entrada en vigor de esta ley, la Secretaría de la Reforma Agraria notificará a las colonias agrícolas y ganaderas que podrán ejercer la opción a que se refiere el párrafo anterior.
+
+De manifestarse las colonias en favor de la adquisición del dominio pleno de sus tierras, el Registro Agrario Nacional expedirá los títulos de propiedad correspondientes, los que serán inscritos en el Registro Público de la Propiedad de la localidad de que se trate.
