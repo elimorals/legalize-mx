@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-para-el-estado-de-coahuila-de-12610"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-23"
-last_updated: "1998-01-23"
+last_updated: "2004-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de enero de 1998.
 
@@ -623,9 +623,11 @@ V.- Otras actividades que coadyuven a la prestación de los servicios de asisten
 
 ### CAPITULO PRIMERO. DE LA ORGANIZACION Y FUNCIONAMIENTO DEL SISTEMA
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 55.
 
-Se establece el organismo público descentralizado de la Administración Pública Estatal, denominado "Sistema para el Desarrollo Integral de la Familia del Estado de Coahuila de Zaragoza" con personalidad jurídica y patrimonio propios, que tiene por objeto la promoción de las actividades relacionadas con la asistencia social; la prestación de servicios asistenciales, así como la coordinación del Sistema Estatal de Asistencia Social y la realización de las demás acciones y actividades que determine esta ley y otras disposiciones aplicables.
+Se establece el "Sistema para el Desarrollo Integral de la Familia del Estado de Coahuila de Zaragoza", como organismo público descentralizado de la administración pública estatal, sectorizado a la Secretaría de Desarrollo Social, con personalidad jurídica y patrimonio propio. Su objeto es la promoción de las actividades relacionadas con la asistencia social y el desarrollo integral de la familia; así como la coordinación del sistema estatal de asistencia social y la realización de las demás acciones y actividades que determine esta Ley y otras disposiciones aplicables.
 
 ###### ARTICULO 56.
 
@@ -755,13 +757,21 @@ El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias qu
 
 A las sesiones podrá asistir el Director General del Sistema con voz, pero sin voto.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 64.
 
-La Junta de Gobierno será el órgano superior de gobierno del Sistema y estará integrada por el titular de la Secretaría de Salud y Desarrollo Comunitario, quien la presidirá y, cuando menos, por cuatro miembros más del sector público, que tendrán el carácter de vocales y serán designados y removidos libremente por el titular del Ejecutivo del Estado. El Presidente de la Junta y el Director General del Sistema, representarán a la misma frente al Patronato.
+La Junta de Gobierno será el órgano superior de gobierno del Sistema y estará integrada por:
 
-Los miembros de la Junta de Gobierno, no percibirán remuneración alguna y serán suplidos en sus ausencias por quienes sean designados, para este efecto, por los titulares.
+I. La o el titular de la Secretaría de Desarrollo Social, quien la presidirá; y,
 
-La Junta de Gobierno contará con un Secretario Técnico, que será designado por la misma, a propuesta de su Presidente.
+II. Por cuatro vocales que serán las o los titulares de las Secretarías del Ejecutivo del Estado, que sean designados (as) y removidos (as) libremente por el Gobernador.
+
+Las o los titulares de la Presidencia de la Junta de Gobierno y de la Dirección del Sistema, representarán a la misma frente al Patronato.
+
+Las o los integrantes de la Junta de Gobierno, no percibirán remuneración alguna. Serán suplidos en sus ausencias por quienes sean designados para este efecto por las o los titulares.
+
+La Junta de Gobierno contará con una Secretaría Técnica, que estará a cargo de la persona que sea designada por misma, a propuesta de su Presidenta o Presidente.
 
 ###### ARTICULO 65.
 
@@ -1152,3 +1162,11 @@ LOURDES QUINTANILLA RODRIGUEZ
 EL SECRETARIO DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA
 
 C.P. JUAN ANTONIO CEDILLO RIOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE JULIO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
