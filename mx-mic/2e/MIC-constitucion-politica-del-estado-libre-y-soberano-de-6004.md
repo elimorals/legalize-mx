@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1947-10-27"
+last_updated: "1947-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 1947.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -801,9 +801,11 @@ El Presidente del Ayuntamiento será electo por los Consejales de entre ellos mi
 
 Cada Municipio se dividirá en tantas secciones electorales, cuantos sean los Munícipes (sic) que deban integrar la Corporación Municipal; y, cada Sección se dividirá en el número de casillas que se estime conveniente para la mejor emisión del voto.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1947)</small>
+
 ###### Artículo 100.
 
-Los miembros del Ayuntamiento durarán en su encargo dos años, pero se renovarán por mitad cada año, comenzando por los que tengan número impar, y no podrán ser reelectos.
+Los miembros de los Ayuntamientos serán electos simultáneamente y en su totalidad cada tres años y no podrán ser reelectos por ninguna de las Secciones Municipales para el período inmediato. Por cada Regidor Propietario se eligirá (sic) un Regidor Suplente.
 
 ###### Artículo 101.
 
@@ -1414,3 +1416,11 @@ P.O. 27 DE OCTUBRE DE 1947.
 ###### ARTICULO UNICO.
 
 Habiendo quedado satisfechos los requisitos exigidos por el artículo 175 de la Constitución Política del Estado, para quedar debidamente hecha la reforma del artículo 93 de la misma, la presente reforma constitucional entrará en vigor 10 días después de la fecha de su publicación en el Periódico Oficial.
+
+P.O. 30 DE OCTUBRE DE 1947.
+
+Artículo 1° El primer domingo de diciembre del corriente año se elegirán Regidores por las Secciones impares, los cuales durarán en su cargo el período que comprende la citada reforma.
+
+Artículo 2º Los ciudadanos que resulten electos por las Secciones pares del primer domingo de diciembre de 1948, durarán en su cargo solamente dos años.
+
+Artículo 3º Esta Ley entrará en vigor desde la fecha de su publicación en el Periódico Oficial.
