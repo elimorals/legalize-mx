@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1956-11-08"
+last_updated: "1959-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1956.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1959.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -4001,9 +4001,11 @@ Tienen derecho de habitar la casa y de disfrutar los frutos de la parcela afecta
 
 Los beneficiarios de los bienes afectos al Patrimonio de la Familia serán representados en sus relaciones con tercero, en todo lo que al Patrimonio se refiere, por el que lo constituyó, y, en su defecto, por el que nombre la mayoría. El representante tendrá también la administración de dichos bienes.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1959)</small>
+
 ###### Artículo 728.
 
-El valor máximo de los bienes afectos al Patrimonio de la Familia será de cuatro mil pesos en el Municipio de Culiacán; de dos mil en los Municipios que sean Cabeceras de Distrito y de mil en los demás Municipios del Estado, si se trata de una familia compuesta por sólo dos personas; si el número es mayor, el valor de su patrimonio podrá aumentarse en una octava parte de las cantidades indicadas, por cada persona, sin que el máximo pueda exceder de seis mil, tres mil y de mil quinientos pesos, respectivamente.
+El valor máximo de los bienes afectos al Patrimonio de la familia será de $ 25,000.00 en los Municipios de Ahome, Guasave, Culiacán; y Mazatlán y de $15,000.00 en los demás Municipios del Estado, si se trata de una familia compuesta por solo dos personas; si el número es mayor, el valor de su patrimonio podrá aumentarse en una octava parte de las cantidades indicadas, por cada persona, sin que el máximo pueda exceder de $ 30,000.00 y $ 25,000.00 respectivamente.
 
 ###### Artículo 729.
 
@@ -14561,7 +14563,7 @@ El descubrimiento de nuevos títulos o documentos, no es causa para anular o res
 
 ###### Artículo 2839.
 
-Es nula la transación sobre cualquier negocio que esté decidido judicialmente por sentencia irrevocable, ignorada por los interesados.
+Es nula la transacción sobre cualquier negocio que esté decidido judicialmente por sentencia irrevocable, ignorada por los interesados.
 
 ###### Artículo 2840.
 
@@ -15260,3 +15262,7 @@ UNICO.- El presente Decreto comenzará a surtir sus efectos legales a partir de 
 P.O. 8 DE NOVIEMBRE DE 1956.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE AGOSTO DE 1959.
+
+UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondientes, a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
