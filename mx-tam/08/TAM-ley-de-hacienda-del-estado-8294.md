@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1977-12-28"
+last_updated: "1978-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1978.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -203,7 +203,7 @@ El pago del impuesto deberá hacerse por el o los propietarios del predio o repr
 
 ###### ARTICULO 16o.
 
-Cuando sean personas distintas el propietario del predio y el de sus mejoras y construcciones, la cuenta de los impuestos sobre uno y otras estará a cargo del propietario del predio y a su nombre se expedirán los recibos correspondientes.
+Cuando sean personas distintas el propietario del predio y el de sus mejoras y construcciones, la cuenta de los impuestos sobre uno y otras estarán a cargo del propietario del predio y a su nombre se expedirán los recibos correspondientes.
 
 ###### ARTICULO 17o.
 
@@ -247,7 +247,7 @@ Las manifestaciones de alta y los avisos de baja deberán hacerse en las formas 
 
 Cuando en las manifestaciones o avisos no se expresen los datos o no se acompañen los documentos o planos respectivos, la Tesorería General del Estado dará un plazo de quince días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
 
-Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomarán en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
+Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomará en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
 
@@ -1673,7 +1673,7 @@ DEL PAGO
 
 ###### ARTICULO 169o.
 
-El impuesto se causará al cosechar los frutos o productos agrícolas y deberá pagarse en la Oficina Fiscal en cuya jurisdicción se encuentre ubicado el predio productor, antes de que se extraigan del mismo o de sus bodegas, pudiendo efectuarse en las casetas fiscales en su caso de su traslado inmediato, o enterarón el importe del mismo a la persona física o moral a quien entregue su producto en calidad de venta, para su guarda o maquila, exigiendo el comprobante de retención en las formas oficiales que fije la Tesorería General del Estado.
+El impuesto se causará al cosechar los frutos o productos agrícolas y deberá pagarse en la Oficina Fiscal en cuya jurisdicción se encuentre ubicado el predio productor, antes de que se extraigan del mismo o de sus bodegas, pudiendo efectuarse en las casetas fiscales en caso de su traslado inmediato, o enterar el importe del mismo a la persona física o moral a quien entregue su producto en calidad de venta, para su guarda o maquila, exigiendo el comprobante de retención en las formas oficiales que fije la Tesorería General del Estado.
 
 Los frutos o producto agrícolas que se encuentren en el estado, sin acreditar que provienen de otra entidad mediante la documentación Fiscal expedida en el lugar de origen y sellada por la primera caseta o autoridad fiscal competente del estado que toque en su traslado, se presumirán producidos en Tamaulipas y estarán sujetos al pago de este Impuesto.
 
@@ -2671,7 +2671,7 @@ III.- En las emisiones de las cédulas hipotecarias en que se constituya hipotec
 
 IV.- En toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella quedan comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes, y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que sirva de base para el cobro de los derechos, debiendo observarse lo dispuesto en la fracción I de este Artículo.
 
-V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará el ……85% de las tasas establecidas en la Fracción II del Artículo 263 y al practicarse la inscripción complementaria se cobrará el .........................................15%
+V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará el ……85% de las tasas establecidas en la Fracción II del Artículo 263 y al practicarse la inscripción complementaria se cobrará el ............................................15%
 
 VI.- Para la aplicación de las tasas de la Fracción II del Artículo 263, en su caso, la nula propiedad y el usufructo, se valuarán en los términos del Impuesto sobre Herencias y Legados, en aquellos casos que el juicio sucesorio se haya iniciado anteriormente a la derogación de la Ley citada y que esté pendiente de resolución o liquidación. De la misma manera se procederá cuando se trate de derechos de uso, rentas vitalicias y otros casos similares.
 
@@ -2685,7 +2685,7 @@ IX.- En los casos en que los servicios que preste el Registro Público de la Pro
 
 No se causarán los derechos a que se refiere el Artículo 262o. en los siguientes casos:
 
-I.- Las inscripciones relativas a bienes inmuebles o derechos reales, pertenecientes a la Nación, al Gobierno del Estado, a los Municipios cuando dichas Entidades las soliciten.
+I.- Las inscripciones relativas a bienes inmuebles o derechos reales, pertenecientes a la Nación, al Gobierno del Estado, a los Municipios, cuando dichas Entidades las soliciten.
 
 II.- Las certificaciones o informes que soliciten el Gobierno Federal, el del Estado o los Municipios, cuando el pago de los derechos no correspondan a particulares.
 
@@ -2694,6 +2694,8 @@ III.- Los informes que soliciten por causas penales o para juicios de amparo.
 IV.- Las fundaciones de beneficencia privada no causarán derechos por la inscripción de la escritura constitutiva y las de las modificaciones a la misma.
 
 #### SECCION TERCERA. DEL REGISTRO PUBLICO DE COMERCIO
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1978)</small>
 
 ###### ARTICULO 266o.
 
@@ -2725,7 +2727,7 @@ VI.- En los casos no previstos expresamente en el Artículo anterior, los derech
 
 ###### ARTICULO 268o.
 
-No se causarán los derechos a los que se refiere el Artículo 266o.
+No se causarán los derechos a los que se refiere el Artículo 266.
 
 a).- En los casos comprendidos en las fracciones II y III del Artículo 265o.
 
@@ -2739,15 +2741,17 @@ AUTORIZACIONES Y PATENTES
 
 La expedición de Títulos Profesionales, autorización para ejercer la profesión, expedición de Fiat de Notario, de Patentes de Aspirantes a Ejercicio del Notariado y el registro de Títulos Profesionales, causarán derechos conforme a la siguiente
 
-VER TABLA ANEXA
-
 TARIFA:
+
+VEASE TABLA ANEXA
 
 ### CAPITULO IV. SERVICIOS CATASTRALES
 
 ###### ARTICULO 270o.
 
 Los servicios relativos a la licencia de instalación e inspección de calderas de vapor, causarán derechos conforme a la siguiente
+
+TARIFA:
 
 VEASE TABLA ANEXA:
 
@@ -2809,7 +2813,7 @@ Los derechos por las licencias que se otorguen a las personas a que se refiere l
 
 ###### ARTICULO 280o.
 
-Los derechos por concesiones de licencias para prácticas de medicina, obstetricia, enfermería y farmacia, por personas no tituladas, se causarán con la cuota anual de ..................................................................................................................................$200. 00.
+Los derechos por concesiones de licencias para prácticas de medicina, obstetricia, enfermería y farmacia, por personas no tituladas, se causarán con la cuota anual de $ 200. 00.
 
 ### CAPITULO VII. CONCESIONES, LINCENCIAS Y PLACAS
 
@@ -2851,7 +2855,7 @@ Los propietarios o poseedores de predios que se encuentren dentro del área de b
 
 ###### ARTICULO 287o.
 
-La expedición de pasaporte provisional causará derechos con la cuota de................................ $ 200.00.
+La expedición de pasaporte provisional causará derechos con la cuota de $ 200.00.
 
 ###### ARTICULO 288o.
 
@@ -2861,7 +2865,7 @@ VEASE TABLA ANEXA
 
 ###### ARTICULO 289o.
 
-Los derechos de cotejo de documento causarán la cuota de........ $ 25.00
+Los derechos de cotejo de documento causarán la cuota de....... $ 25.00
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
 
@@ -2966,3 +2970,13 @@ P.O. 28 DE DICIEMBRE DE 1977
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día 1° de enero de 1978.
+
+P.O. 28 DE OCTUBRE DE 1978
+
+###### ARTICULO PRIMERO.
+
+Continúan en vigor los Decretos 220 publicado en el Periódico Oficial del Estado No. 106 del veintinueve de diciembre de mil novecientos setenta y seis y 408, publicado en el Periódico Oficial del Estado No. 104, del veintiocho de diciembre de mil novecientos setenta y siete, en cuanto no se oponga a lo estatuido por el presente Decreto.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
