@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2001-05-12"
+last_updated: "2001-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2001.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -402,6 +402,14 @@ En las secciones municipales y comisarías de policía, la protesta se tomará p
 ###### ARTICULO 19.
 
 Es obligación del Ayuntamiento celebrar el día nueve de octubre de cada año, una sesión solemne en la cual el Presidente Municipal deberá rendir informe detallado de su gestión administrativa.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2001)</small>
+
+Dentro de la misma sesión y rendido el informe por el Presidente Municipal, un Regidor representante de cada uno de los Partidos Políticos que conforman el Ayuntamiento, podrá plantear su posición política en torno al mismo.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2001)</small>
+
+Una vez recibido el informe, el Ayuntamiento acordará la integración de una comisión especial que refleje la pluralidad política de este Organo, a fin de que dentro del término de cuarenta y cinco días emita una opinión al respecto. Las observaciones que se desprenden del análisis realizado por la comisión especial serán hechas del conocimiento del Presidente Municipal en sesión de cabildo, las que ningún caso serán vinculantes.
 
 ### CAPITULO II. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS
 
@@ -3090,3 +3098,7 @@ CUARTO.- El Estado y los municipios realizarán los actos conducentes a efecto d
 QUINTO.- Antes del inicio del ejercicio fiscal de 2002, la Legislatura del Estado, en coordinación con los municipios, adoptarán las medidas conducentes a fin de que los valores unitarios de suelo que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores del mercado de dicha propiedad procederán, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
 
 SEXTO.- En la realización de las acciones conducentes al cumplimiento del presente decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
+
+P.O. 6 DE JUNIO DE 2001.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
