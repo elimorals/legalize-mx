@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "2000-01-31"
+last_updated: "2000-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 2000.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -285,23 +285,27 @@ b).- En el acto en el que el fideicomitente ceda sus derechos si entre éstos se
 
 En los casos de permuta, se considerará que se efectúa una adquisición, por cada uno de los inmuebles.
 
-> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 17.
 
-El valor del inmueble que se considerará para los efectos del Artículo 14 de esta Ley será por regla general el valor catastral y los siguientes:
+El valor del inmueble que se considera para los efectos del artículo 14 de esta Ley, será el siguiente:
 
-I.- En los casos de remate, el que sirva de base para la celebración del mismo.
+I.- El valor más alto entre el estipulado en el contrato, el valor catastral o fiscal o el avalúo comercial pericial.
 
-II.- El valor catastral cuando se trate de prescripción positiva, debiendo tomarse en cuenta el valor del bien en la fecha en que la sentencia cause ejecutoria.
+Entendiéndose como avalúo comercial pericial los dictámenes valuatorios practicados por peritos con autorización municipal.
 
-III.- El valor del avalúo catastral que se practique referido a la fecha de la cesión de los derechos hereditarios, y el valor catastral de los mismos
+Los peritajes tendrán una vigencia no mayor de 90 días naturales, contados a partir de la fecha de su expedición.
 
-IV.- Si se trata de dación de pago, el valor catastral del inmueble.
+II.- En los casos de remate el valor más alto entre el fiscal y el del avalúo pericial que sirva de base para la celebración del mismo.
 
-V.- El que las autoridades fiscales determinen en el ejercicio de sus facultades de comprobación; de acuerdo a las fracciones que anteceden.
+III.- El valor del avalúo pericial cuando se trate de prescripción adquisitiva, debiendo tomarse en cuenta el valor del bien en la fecha en que la sentencia causó ejecutoria.
 
-VI.- El avalúo catastral tendrá una vigencia de 90 días naturales a partir de la fecha de expedición.
+IV.- El que resulte del avalúo que se practique referido a la fecha de la cesión de los derechos hereditarios.
+
+V.- Si se trata de dación en pago, el valor del inmueble entregado de acuerdo con la fracción I.
+
+VI.- El que las autoridades fiscales determinen en el ejercicio de sus facultades de comprobación.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE ENERO DE 2000)</small>
 
@@ -1805,13 +1809,13 @@ III.- Licencia de motociclista (por 3 años) 2 días de salario mínimo.
 
 IV.- Permiso para conducir a menores: Jóvenes mayores de 16 y menores De 18 años (máximo 90 días), previo curso de manejo 2 días de salario mínimo.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA [N. DE E. CONFORME AL DECRETO DE REFORMAS DE LA PRESENTE FECHA, AL CREARSE ESTE CAPITULO Y EL SIGUIENTE, SE RECORREN EN SU ORDEN LOS ARTICULOS A PARTIR DEL 86, QUEDANDO UBICADOS EN LOS ARTICULOS 94 AL 139], B.O. 31 DE ENERO DE 2000)</small>
 
-### CAPITULO DECIMO QUINTO
+### CAPITULO DECIMO SEXTO
 
-RECOLECCION DE BASURA.
+POR SERVICIOS DE INSPECCION MUNICIPAL.
 
-> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 87.
 
@@ -1861,17 +1865,17 @@ b).- Los que se deriven de las Entidades Gubernamentales en sus funciones de der
 
 c).- El anuncio principal del establecimiento destinado a anunciar su propio negocio, siempre que este se localice en los límites de construcción del mismo, sin hacer este la vía pública.
 
-### CAPITULO DECIMO SEXTO
+### CAPITULO DECIMO QUINTO
 
-POR SERVICIOS DE INSPECCION MUNICIPAL.
+RECOLECCION DE BASURA.
 
-> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 85.
 
 Es objeto de este derecho el servicio que por recolección de basura presta el Ayuntamiento a los establecimientos comerciales, industriales, hoteles, restaurantes, hospitales privados, oficinas administrativas o de prestación de servicios. Los sujetos de estos derechos pagarán con base en el volumen y basura que generen, teniendo la obligación de celebrar convenio con la Tesorería Municipal a través de la unidad administrativa que ésta designe y de acuerdo a la tabla tarifaria del reglamento de aseo y limpia municipal.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA [N. DE E. CONFORME AL DECRETO DE REFORMAS DE LA PRESENTE FECHA, AL CREARSE ESTE CAPITULO Y EL SIGUIENTE, SE RECORREN EN SU ORDEN LOS ARTICULOS A PARTIR DEL 86, QUEDANDO UBICADOS EN LOS ARTICULOS 94 AL 139], B.O. 31 DE ENERO DE 2000)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE ENERO DE 2000)</small>
 
 ### CAPITULO DECIMO SEPTIMO
 
@@ -1883,7 +1887,7 @@ DE LAS LICENCIAS, PERMISOS O AUTORIZACIONES POR ANUNCIOS, CARTELES O PUBLICIDAD.
 
 Los derechos por el servicio de inspección municipal serán causados por los trabajos que se deriven de cualquier acto de inspección que se realicen en los municipios a solicitud expresa hecha a cualquier dependencia municipal por cualquier persona física o moral que lo solicite y/o cuando la autoridad municipal lo dicte convenientemente. Los derechos se cobrarán de 1 a 3 salarios mínimos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE ENERO DE 2000)</small>
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ## TITULO TERCERO
 
@@ -2209,13 +2213,13 @@ Todas las liquidaciones de créditos fiscales se elevarán a múltiples de $ 1.0
 
 El Tesorero Municipal tendrá todas las facultades para requerir a los contribuyentes el cumplimiento de los créditos y obligaciones fiscales, aplicar el procedimiento económico coactivo e imponer sanciones y todas las atribuciones que para el Secretario de Finanzas del Gobierno del Estado establece el Código Fiscal para el Estado y Municipios de Baja California Sur y demás Leyes tributarias.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 20 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
-## TITULO SEPTIMO
+## TITULO SEXTO
 
-DE LOS ESTIMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSION PRODUCTIVA Y LA GENERACION DE EMPLEOS.
+DE LAS REDUCCIONES PARA PENSIONADOS Y JUBILADOS.
 
-> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO UNICO
 
@@ -2267,13 +2271,13 @@ Para aplicar las reducciones a las contribuciones de referencia, dentro de los l
 
 Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito por infracciones a las disposiciones fiscales a cargo de pensionados o jubilados, se reducirán conforme a los porcentajes y respecto de las contribuciones que se indican en los artículos 125 y 126 de esta Ley, en la misma proporción con que se haya beneficiado al pensionado o jubilado.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
-## TITULO SEXTO
+## TITULO SEPTIMO
 
-DE LAS REDUCCIONES PARA PENSIONADOS Y JUBILADOS.
+DE LOS ESTIMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSION PRODUCTIVA Y LA GENERACION DE EMPLEOS.
 
-T R A N S I T O R I O S :
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 137.
 
@@ -2309,7 +2313,7 @@ Para efectos de lo dispuesto en este Capítulo, se considerarán sujetos benefic
 
 Las Tesorerías Municipales expedirán los Certificados de Promoción Fiscal donde se especificarán los estímulos fiscales de que gozarán los sujetos beneficiarios, de conformidad a la resolución que emita la Comisión Dictaminadora a que refiere la Ley de Fomento Económico del Estado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
+T R A N S I T O R I O S :
 
 ###### ARTICULO 1o.
 
@@ -2423,15 +2427,15 @@ DURANTE LOS AÑOS DE 1991, 1992 Y 1993 SE APLICARAN LAS TASAS DEL 8%, 6% Y 4% RE
 
 EL PRESENTE DECRETO, SURTIRA EFECTOS A PARTIR DEL DIA PRIMERO DE JULIO DE 1991, PREVIA PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
 
-B.O. 10 DE DICIEMBRE DE 1993.
-
-UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL DIA PRIMERO DE ENERO DE MIL NOVECIENTOS NOVENTA Y CUATRO.
-
 B.O. 31 DE DICIEMBRE DE 1991.
 
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
+
+B.O. 10 DE DICIEMBRE DE 1993.
+
+UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL DIA PRIMERO DE ENERO DE MIL NOVECIENTOS NOVENTA Y CUATRO.
 
 B.O. 10 DE OCTUBRE DE 1994.
 
@@ -2492,3 +2496,9 @@ B.O. 31 DE ENERO DE 2000.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Baja California Sur.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 31 DE MARZO DE 2000.
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
