@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-crea-el-instituto-de-cultura-de-tabasco-11460"
 country: "mx"
 rank: "ley"
 publication_date: "1984-11-10"
-last_updated: "1984-11-10"
+last_updated: "1999-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY QUE CREA EL INSTITUTO DE CULTURA DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 10 de noviembre de 1984.
 
@@ -47,9 +47,11 @@ LEY QUE CREA EL INSTITUTO DE CULTURA DE TABASCO.
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 1.
 
-Se crea el Instituto de Cultura de Tabasco como un organismo Público desconcentrado del Gobierno del Estado, con sede en la Ciudad de Villahermosa.
+Se crea el Instituto de Cultura de Tabasco como órgano desconcentrado adscrito a la Secretaría de Educación.
 
 ###### ARTICULO 2.
 
@@ -97,7 +99,7 @@ Se declaran de interés social las actividades que desarrolle el Instituto de Cu
 
 ###### ARTICULO 5.
 
-El Instituto cuidará que sus actividades se coordinen con las políticas que en la materia señale la Secretaría de Educación Cultura y Recreación en el ejercicio de sus atribuciones legales.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ### CAPITULO II
 
@@ -105,97 +107,77 @@ GOBIERNO DEL INSTITUTO.
 
 ###### ARTICULO 6.
 
-Son órganos de gobierno del Instituto de cultura:
-
-I.- El Consejo Directivo; y
-
-II.- La Dirección General.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 7.
 
-El Consejo Directivo es la autoridad suprema del Instituto y estará integrado de la siguiente forma:
-
-I.- Presidente; que lo será el C. Gobernador del Estado;
-
-II.- Vicepresidente; que lo será el titular de la Secretaría de Educación Cultura y Recreación;
-
-III.- Vocal Secretario; que lo será el Director General del Instituto;
-
-IV.- Primer Vocal; que lo será el Coordinador General del Comité para la Planeación del Desarrollo del Estado;
-
-V.- Segundo Vocal; que lo será el Secretario de Finanzas;
-
-VI.- Tercer Vocal; que lo será quien funja como Vocal Ejecutivo de la Comisión de Radio y Televisión del Estado; y
-
-VII.- Un Comisario; que será un representante de la Contraloría General del Estado.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 8.
 
-Las ausencias del Presidente del Consejo Directivo serán cubiertas por el Vicepresidente del mismo o el Servidor Público que se designe para tal caso.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 9.
 
-Son facultades y obligaciones del Consejo Directivo:
-
-I.- Establecer la coordinación que en materia de política cultural deberá seguir el Instituto con la Secretaría de Educación Cultura y Recreación;
-
-II.- Aprobar los programas y proyectos que deba realizar el Instituto para la satisfacción de su objetivo;
-
-III.- Aprobar su presupuesto anual de ingresos y egresos;
-
-IV.- Autorizar y expedir el Reglamento Interior del Instituto;
-
-V.- Conocer y, en su caso, aprobar el informe semestral de actividades que rinda el Director General;
-
-VI.- Crear o suprimir unidades administrativas conforme a las necesidades del servicio;
-
-VII.- Promover ante las autoridades competentes la preservación y rescate del patrimonio cultural del Estado; y
-
-VIII.- Las demás que le señalen otras disposiciones legales.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 10.
 
-El Consejo sesionará ordinariamente cada tres meses, y extraordinariamente a convocatoria del Presidente o del Secretario cuantas veces sea necesario.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 11.
 
-El Consejo sesionará legalmente previa existencia del quórum, el que se constituirá con la asistencia de más de la mitad de sus miembros. Las decisiones del Consejo se tomarán por mayoría de votos, y en caso de empate, el Presidente tendrá voto de calidad.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 12.
 
-A las sesiones del Consejo podrán asistir con voz, pero sin voto, altas personalidades del Estado o Presidentes Municipales involucrados en alguna de las actividades del Instituto, si en dicha sesión se tratase lo concerniente a alguna función o actividad en dicho Municipio.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 13.
 
-Los cargos en el Consejo serán honoríficos.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 14.
 
-La Dirección General del Instituto estará a cargo de un Director General, el que será nombrado y removido libremente por el C. Gobernador del Estado.
+El Director General del Instituto será nombrado y removido por el Gobernador del Estado, a propuesta del Titular de la Dependencia de su adscripción.
 
 ###### ARTICULO 15.
 
 El Director General del Instituto tendrá las siguientes facultades y obligaciones:
 
-I.- Elaborar los programas y proyectos del Instituto; sometiéndose a la aprobación del Consejo;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
 
-II.- Formular y presentar al Consejo, para su aprobación en su caso, el Presupuesto Anual de Ingresos y Egresos del Instituto;
+I.- Planear, programar, dirigir, supervisar y evaluar las actividades del Instituto, para el cumplimiento de su objeto;
 
-III.- Rendir informe semestral de las actividades del Instituto al Consejo Directivo;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
 
-IV.- Presentar a la consideración del Consejo los Estados financieros, balances y demás informes que le sean solicitados sobre el manejo administrativo del Instituto;
+II.- Elaborar los programas y proyectos del Instituto;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
+
+III.- Formular el proyecto de presupuesto del Instituto;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
+
+IV.- Presentar informes mensuales de la situación financiera y sobre el manejo administrativo del Instituto;
 
 V.- Representar legalmente al Instituto con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas y actos de administración en los términos de la legislación común vigente;
 
-VI.- Nombrar y remover al personal de confianza del Instituto previo acuerdo del Consejo, y al de base conforme a la Ley de la materia;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
 
-VII.- Ejecutar los acuerdos tomados por el Consejo; y
+VI.- Nombrar y remover al personal del Instituto, conforme a la Ley de los Trabajadores al Servicio del Estado y demás disposiciones legales aplicables;
 
-VIII.- Las demás que le señalen otras disposiciones legales.
+VII.- (DEROGADA, P.O. 16 DE JUNIO DE 1999)
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
+
+VIII.- Las demás que le señalen otras disposiciones legales y el Titular de la Dependencia de su adscripción.
 
 ###### ARTICULO 16.
 
-El Comisario vigilará el Estado financiero del Instituto, practicando al efecto las auditorías que correspondan, de las que informará al Consejo.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 17.
 
@@ -205,9 +187,11 @@ El instituto contará con la estructura administrativa necesaria para la realiza
 
 Las relaciones laborales del Instituto se regirán por la legislación aplicable a los trabajadores al servicio del Estado.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 19.
 
-Los integrantes de los órganos de Gobierno del Instituto y su personal de confianza serán responsables en los términos de la Ley de Responsabilidad de los Servidores Públicos del Estado.
+El personal del órgano será responsable en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 ### CAPITULO III
 
@@ -215,19 +199,11 @@ DEL PATRIMONIO.
 
 ###### ARTICULO 20.
 
-El Patrimonio del Instituto se integrará con:
-
-I.- Las partidas presupuestales que le asigne el Gobierno del Estado;
-
-II.- Los créditos que obtenga para la realización de su objetivo en coordinación con la Secretaría de Finanzas;
-
-III.- Los ingresos provenientes de la recuperación de sus inversiones, de su propio patrimonio y de las utilidades que obtenga en el desarrollo de sus actividades;
-
-IV.- Los bienes muebles e inmuebles y los derechos de toda clase que en el futuro adquiera, le otorguen, donen o cedan por cualquier título legal.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 21.
 
-Todos los recursos que integran el patrimonio del Instituto deberán ser depositados o, en su caso, registrados en la Secretaría de Finanzas y estar sujetos a la inspección de la Contraloría General.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 22.
 
@@ -256,3 +232,19 @@ ENRIQUE GONZALEZ PEDRERO.
 LIC. JOSE EDUARDO BELTRAN HERNANDEZ.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE JUNIO DE 1999.
+
+PRIMERO.- La relación laboral de los trabajadores de los organismos que cambian su naturaleza jurídica, continuará rigiéndose como hasta ahora por la Ley de los Trabajadores al Servicio del Estado de Tabasco y demás disposiciones legales aplicables.
+
+SEGUNDO.- Las Secretarías de Planeación y Finanzas, y de Contraloría y Desarrollo Administrativo, emitirán en su caso, los lineamientos que consideren necesarios, para dar cumplimiento dentro de sus respectivas competencias, a los términos del presente Decreto.
+
+TERCERO.- El patrimonio de las entidades que mediante este Decreto cambian su naturaleza jurídica, quedará igualmente adscrito a las dependencias a las que el mismo se refiere.
+
+CUARTO.- Las disposiciones del presente ordenamiento serán incorporadas en lo conducente, a los reglamentos interiores de las entidades que cambian su naturaleza jurídica.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+SEXTO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
