@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "1987-12-23"
+last_updated: "1997-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1997.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -171,7 +171,7 @@ ART. 32.- El estado civil de las personas sólo se comprueba con las copias cert
 
 ART. 33.- La titularidad de las Oficialías del Registro Civil estará a cargo de funcionarios estatales denominados Oficiales del Registro Civil, quienes tendrán fe pública en el desempeño de las labores propias de su cargo.
 
-Los Oficiales sólo asentarán en las actas lo que deba ser declarado el en acto preciso a que ellas se refieren y lo que está expresamente previsto en la ley.
+Los Oficiales sólo asentarán en las actas lo que deba ser declarado en el acto preciso a que ellas se refieren y lo que está expresamente previsto en la ley.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
 
@@ -5769,7 +5769,9 @@ ART. 1713.- La renta o precio del arrendamiento puede consistir en una suma de d
 
 ART. 1714.- Son susceptibles de arrendamiento todos los bienes que pueden usarse sin consumirse; excepto aquellos que la ley prohibe arrendar y los derechos estrictamente personales.
 
-ART. 1715.- El arrendamiento puede celebrarse por el tiempo que convengan los contratantes; pero no puede exceder de diez años para las fincas destinadas a habitación, de quince para las fincas destinadas al comercio y de veinte para las fincas destinadas al ejercicio de una industria.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1997)</small>
+
+ART. 1715.- El arrendamiento puede celebrarse por el tiempo que convengan los contratantes, pero no puede exceder de quince años para las fincas destinadas a habitación, de veinticinco para las fincas destinadas al comercio y de cuarenta para las fincas destinadas al ejercicio de una industria.
 
 ART. 1716.- Quien no es dueño del bien podrá arrendarlo si tiene facultad para celebrar el contrato, ya en virtud de autorización del dueño, ya por disposición de la ley.
 
@@ -9562,3 +9564,9 @@ P.O. 23 DE DICIEMBRE DE 1987.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MAYO DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
