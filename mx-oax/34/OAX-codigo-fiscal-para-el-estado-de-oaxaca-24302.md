@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-24302"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-30"
-last_updated: "2003-12-30"
+last_updated: "2004-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Oaxaca, el domingo 30 de diciembre de 2001.
 
@@ -233,9 +233,11 @@ Cuando de conformidad con este artículo se entienda que hay enajenación, el ad
 
 La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho previstas en los ordenamientos fiscales. Estas obligaciones se determinarán conforme a las disposiciones vigentes en el momento de su nacimiento, pero les serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 15.
 
-Son créditos fiscales, las obligaciones tributarias determinadas en cantidad líquida que tenga derecho a percibir el estado, incluso las derivadas de responsabilidades en que hubieren incurrido los servidores públicos o los particulares. Asimismo, serán créditos fiscales, aquéllos a los que los ordenamientos les den tal carácter y el estado tenga derecho a percibir, aún por cuenta ajena.
+Son créditos fiscales, los que tenga derecho a percibir el Estado que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que las leyes les den ese carácter y el estado tenga derecho a percibir por cuenta ajena.
 
 Para la determinación de los créditos fiscales, se considerarán incluso, las fracciones del peso.
 
@@ -789,6 +791,10 @@ VII Practicar u ordenar se practique avalúo o verificación física de toda cla
 
 VIII Allegarse de las pruebas necesarias para denunciar ante el Ministerio Público la posible comisión de delitos fiscales, o en su caso, para formular la querella respectiva.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+IX. Determinar a los sujetos obligados, responsables solidarios y demás obligados, las diferencias por errores aritméticos, las omisiones u otros que aparezcan en las declaraciones, solicitudes o avisos, para lo cual requerirán al sujeto obligado la presentación de la documentación que proceda para la rectificación del error u omisión de que se trate.
+
 Las actuaciones que realice la Secretaría de Finanzas tendrán el valor probatorio que la ley les conceda, actuando como coadyuvante del Ministerio Público.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
@@ -1155,27 +1161,23 @@ V Proporcionar a las autoridades correspondientes, datos falsos, dará lugar a u
 
 Son infracciones relacionadas con la obligación de pago de contribuciones, con la presentación de manifestaciones o con la expedición de documentos con datos incompletos o con errores, las que a continuación se indican, por las cuales se impondrán las sanciones que se señalan:
 
-I No presentar o hacerlo extemporáneamente, los avisos, declaraciones, manifestaciones, contratos, solicitudes, datos, informes, copias o documentos que exijan las disposiciones fiscales, dará lugar a la imposición de las siguientes multas:
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 2004) (F. DE E., P.O. 22 DE ENERO DE 2005)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+I. No presentar los avisos, declaraciones, manifestaciones, contratos, solicitudes, datos, informes, copias o documentos en los plazos que exijan las disposiciones fiscales, dará lugar a la imposición de multa por el equivalente de 100 a 150 veces el salario mínimo.
 
-a) De 25 a 50 veces el salario mínimo, para el primer requerimiento;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+II. No presentar o hacerlo fuera del plazo señalado en el requerimiento de la autoridad fiscal, los avisos, declaraciones, manifestaciones, contratos, solicitudes, datos, informes, copias o documentos que exijan las disposiciones fiscales, dará lugar a la imposición de las siguientes multas:
 
-b) De 51 a 100 veces el salario mínimo, para el segundo requerimiento; y
+a) De 20 a 50 veces el salario mínimo, para el primer requerimiento;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+b) De 51 a 100 veces el salario mínimo, para el segundo requerimiento; y,
 
-c) De 101 a 150 veces el salario mínimo, para el tercer requerimiento;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-II Tratándose de declaraciones o manifestaciones, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo; y,
+c) De 101 a 150 veces el salario mínimo, para el tercer requerimiento.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-III Por no expedir la documentación a que están obligados, con los requisitos previstos por las disposiciones fiscales, o expedirla con errores o incompleta, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo.
+III. Por no expedir la documentación a que están obligados, con los requisitos previstos por las disposiciones fiscales, o expedirla con errores o incompleta, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo.
 
 ###### ARTICULO 82.
 
@@ -2326,3 +2328,7 @@ UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del a
 P.O. 30 DE DICIEMBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2004, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2005, previa publicación en el Periódico Oficial del Gobierno del Estado.
