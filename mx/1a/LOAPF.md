@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1992-02-21"
+last_updated: "1992-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE FEBRERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 1992.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -196,47 +196,47 @@ Cuando alguna Secretaría de Estado o Departamento Administrativo necesite infor
 
 ### CAPITULO II. De la Competencia de las Secretarías de Estado y los Departamentos Administrativos
 
-> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 26.
 
-Para el estudio, planeación y despacho de los negocios del orden administrativo; el Poder Ejecutivo de la Unión contará con las siguientes dependencias:
+Para el estudio, planeación y despacho de los negocios del orden administrativo, el Poder Ejecutivo de la Unión contará con las siguientes dependencias:
 
-Secretaría de Gobernación.
+Secretaría de Gobernación
 
-Secretaría de Relaciones Exteriores.
+Secretaría de Relaciones Exteriores
 
-Secretaría de la Defensa Nacional.
+Secretaría de la Defensa Nacional
 
-Secretaría de Marina.
+Secretaría de Marina
 
-Secretaría de Hacienda y Crédito Público.
+Secretaría de Hacienda y Crédito Público
 
-Secretaría de la Contraloría General de la Federación.
+Secretaría de Desarrollo Social
 
-Secretaría de Energía, Minas e Industria Paraestatal.
+Secretaría de la Contraloría General de la Federación
 
-Secretaría de Comercio y Fomento Industrial.
+Secretaría de Energía, Minas e Industria Paraestatal
 
-Secretaría de Agricultura y Recursos Hidráulicos.
+Secretaría de Comercio y Fomento Industrial
 
-Secretaría de Comunicaciones y Transportes.
+Secretaría de Agricultura y Recursos Hidráulicos
 
-Secretaría de Desarrollo Urbano y Ecología.
+Secretaría de Comunicaciones y Transportes
 
-Secretaría de Educación Pública.
+Secretaría de Educación Pública
 
-Secretaría de Salud.
+Secretaría de Salud
 
-Secretaría de Trabajo y Previsión Social.
+Secretaría del Trabajo y Previsión Social
 
-Secretaría de la Reforma Agraria.
+Secretaría de la Reforma Agraria
 
-Secretaría de Turismo.
+Secretaría de Turismo
 
-Secretaría de Pesca.
+Secretaría de Pesca
 
-Departamento del Distrito Federal.
+Departamento del Distrito Federal
 
 ###### ARTICULO 27.
 
@@ -466,7 +466,9 @@ VI.- Realizar o autorizar todas las operaciones en que se haga uso del crédito 
 
 VII.- Planear, coordinar, evaluar y vigilar el sistema bancario del país que comprende al Banco Central, a la Banca Nacional de Desarrollo y las demás instituciones encargadas de prestar el servicio de banca y crédito;
 
-VIII.- Ejercer las atribuciones que le señalen las leyes en materia de seguros, fianzas, valores y de organizaciones auxiliares del crédito;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
+
+VIII.- Ejercer las atribuciones que le señalen las leyes en materia de seguros, fianzas, valores y de organizaciones y actividades auxiliares del crédito;
 
 IX.- Determinar los criterios y montos globales de los estímulos fiscales, escuchando para ello a las dependencias responsables de los sectores correspondientes y administrar su aplicación en los casos en que no competa a otra Secretaría;
 
@@ -498,17 +500,87 @@ XXII.- Dictaminar las modificaciones a la estructura orgánica básica de las de
 
 XXIII.- Vigilar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación nacional, así como de programación, presupuestación, contabilidad y evaluación;
 
-XXIV.- Proyectar la planeación regional y coordinar las acciones que al efecto convenga el Ejecutivo Federal, y
+XXIV.- (DEROGADA, D.O.F. 25 DE MAYO DE 1992)
 
 XXV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
-> <small>N. DE E. REUBICADO ANTES 32 BIS D.O.F. 21 DE FEBRERO DE 1992.</small>
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 25 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 32.
 
-A la Secretaría de la Contraloría General de la Federación corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Social corresponde el despacho de los siguientes asuntos:
+
+I.- Formular, conducir y evaluar la política general de desarrollo social, y en particular la de asentamientos humanos, desarrollo regional y urbano, vivienda y ecología;
+
+II.- Proyectar y coordinar, con la participación que corresponda a los gobiernos estatales y municipales, la planeación regional;
+
+III.- Coordinar las acciones que el Ejecutivo Federal convenga con los gobiernos locales para el desarrollo integral de las diversas regiones del país;
+
+IV.- Elaborar los programas regionales y especiales que le señale el Ejecutivo Federal, tomando en cuenta las propuestas que para el efecto realicen las dependencias y entidades de la Administración Pública Federal y los gobiernos locales; así como autorizar las acciones e inversiones convenidas en el marco de lo dispuesto en las fracciones II y III que anteceden, en coordinación con la Secretaría de Hacienda y Crédito Público;
+
+V.- Evaluar la aplicación de las transferencias de fondos en favor de estados y municipios, y de los sectores social y privado que se deriven de las acciones e inversiones convenidas, en los términos de las fracciones anteriores;
+
+VI.- Coordinar, concertar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los grupos indígenas y de los pobladores de las zonas áridas de las áreas rurales, así como de los colonos de las áreas urbanas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de la Administración Pública Federal correspondientes y de los gobiernos estatales y municipales, y con la participación de los sectores social y privado;
+
+VII.- Estudiar las circunstancias socioeconómicas de los pueblos indígenas y dictar las medidas para lograr que la acción coordinada del poder público redunde en provecho de los mexicanos que conserven y preserven sus culturas, lenguas, usos y costumbres originales, así como promover y gestionar ante las autoridades federales, estatales y municipales, todas aquellas medidas que conciernan al interés general de los pueblos indígenas;
+
+VIII.- Coordinar y ejecutar la política nacional para crear y apoyar empresas que agrupen a campesinos y grupos populares en áreas urbanas, a través de las acciones de planeación, programación, concertación, coordinación, evaluación; de aplicación, recuperación y revolvencia de recursos para ser destinados a los mismos fines; así como de asistencia técnica y de otros medios que se requieran para ese propósito, con la intervención de las dependencias y entidades de la Administración Pública Federal correspondientes y de los gobiernos estatales y municipales, y con la participación de los sectores social y privado;
+
+IX.- Proyectar la distribución de la población y la ordenación territorial de los centros de población, conjuntamente con las dependencias y entidades de la Administración Pública Federal que corresponda, así como coordinar las acciones que el Ejecutivo Federal convenga con los Ejecutivos Estatales para la realización de acciones coincidentes en esta materia, con la participación de los sectores social y privado;
+
+X.- Prever a nivel nacional las necesidades de tierra para desarrollo urbano y vivienda, con la intervención, en su caso, de la Secretaría de la Reforma Agraria, considerando la disponibilidad de agua determinada por la Secretaría de Agricultura y Recursos Hidráulicos, y regular en coordinación con los gobiernos estatales y municipales los mecanismos para satisfacer dichas necesidades;
+
+XI.- Elaborar, apoyar y ejecutar programas para satisfacer las necesidades de suelo urbano y el establecimiento de provisiones y reservas territoriales para el adecuado desarrollo de los centros de población, en coordinación con las dependencias y entidades de la Administración Pública Federal correspondientes y los gobiernos estatales y municipales, y con la participación de los diversos grupos sociales;
+
+XII.- Promover y concertar programas de vivienda y de desarrollo urbano, y apoyar su ejecución, con la participación de los gobiernos estatales y municipales, y los sectores social y privado;
+
+XIII.- Fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción, en coordinación con las Secretarías del Trabajo y Previsión Social y de Comercio y Fomento Industrial;
+
+XIV.- Promover y apoyar mecanismos de financiamiento para el bienestar social, el desarrollo regional y urbano, así como para la vivienda y protección al ambiente, con la participación de las dependencias y entidades de la Administración Pública Federal correspondientes, de los gobiernos estatales y municipales, de las instituciones de crédito y de los diversos grupos sociales;
+
+XV.- Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, el bienestar social y la protección y restauración del ambiente, en coordinación con los gobiernos estatales y municipales y con la participación de los sectores social y privado;
+
+XVI.- Determinar y conducir la política inmobiliaria de la Administración Pública Federal; expedir normas técnicas, autorizar, y en su caso, proyectar, construir, rehabilitar, conservar o administrar directamente o a través de terceros, los edificios públicos que realice la Federación por sí, o en cooperación con otros países, con los estados y municipios, o con los particulares. Conservar y mantener los monumentos y obras del patrimonio cultural de la nación, con excepción de los encomendados a otras dependencias o entidades, atendiendo las disposiciones en materia de zonas y monumentos arqueológicos, históricos y artísticos.
+
+XVII.- Poseer, vigilar, conservar o administrar los inmuebles de propiedad federal destinados o no a un servicio público, o a fines de interés social o general, cuando no estén encomendados a las dependencias o entidades usufructuarias, los propios que de hecho utilice para dicho fin y los equiparados a éstos, conforme a la ley, y las plazas, paseos y parques públicos cuya construcción o conservación esté a cargo del Gobierno Federal;
+
+XVIII.- Proyectar las normas y, en su caso, celebrar los contratos o convenios relativos al mejor uso, explotación o aprovechamiento de los bienes inmuebles federales, especialmente para fines de beneficio social;
+
+XIX.- Ejercer la posesión y propiedad de la Federación en las playas, zona federal marítimo terrestre y terrenos ganados al mar, y administrarlas en los términos de ley;
+
+XX.- Regular y, en su caso, representar el interés de la Federación en la adquisición, enajenación, destino o afectación de los bienes inmuebles de la Administración Pública Federal centralizada y paraestatal; así como determinar normas y procedimientos para la formulación de inventarios y la realización de avalúos de dichos bienes;
+
+XXI.- Mantener al corriente el avalúo de los bienes inmuebles federales y determinar las normas y procedimientos para realizarlo;
+
+XXII.- Operar el registro público de la propiedad federal, y elaborar y manejar el inventario general de los bienes inmuebles de la Federación.
+
+XXIII.- Promover el ordenamiento ecológico general del territorio nacional, en coordinación con las dependencias y entidades de la Administración Pública Federal correspondientes y los gobiernos estatales y municipales, y con la participación de los sectores social y privado;
+
+XXIV.- Formular y conducir la política general de saneamiento ambiental, en coordinación con la Secretaría de Salud y de más (sic) dependencias competentes;
+
+XXV.- Establecer normas y criterios ecológicos para el aprovechamiento de los recursos naturales y para preservar y restaurar la calidad del ambiente, con la participación que en su caso corresponda a otras dependencias;
+
+XXVI.- Determinar las normas y, en su caso, ejecutar las acciones que aseguren la conservación o restauración de los ecosistemas fundamentales para el desarrollo de la comunidad, en particular en situaciones de emergencia o contingencia ambiental, con la participación que corresponda a otras dependencias, y a los gobiernos estatales y municipales;
+
+XXVII.- Vigilar en coordinación con las autoridades federales, estatales y municipales, cuando no corresponda a otra dependencia, el cumplimiento de las normas y programas para la protección, defensa y restauración del ambiente, a través de los órganos competentes y establecer mecanismos, instancias y procedimientos administrativos que procuren el cumplimiento de tales fines, en los términos de las leyes aplicables;
+
+XXVIII.- Normar el aprovechamiento racional de la flora y fauna silvestres, marítimas, fluviales y lacustres con el propósito de conservarlos y desarrollarlos, con la participación que corresponda a las Secretarías de Agricultura y Recursos Hidráulicos y de Pesca;
+
+XXIX.- Establecer los criterios ecológicos y normas de carácter general que deban satisfacer las descargas de aguas residuales, para evitar la contaminación que ponga en peligro la salud pública o degrade los sistemas ecológicos, en coordinación con las dependencias competentes y con la participación de los gobiernos estatales y municipales; así como vigilar el cumplimiento de los criterios y normas mencionados cuando esta facultad no esté encomendada expresamente a otra dependencia;
+
+XXX.- Proponer al Ejecutivo Federal el establecimiento de áreas naturales protegidas de interés de la Federación, y promover la participación de las autoridades federales o locales en su administración y vigilancia;
+
+XXXI.- Evaluar las manifestaciones de impacto ambiental de proyectos de desarrollo que le presenten los sectores público, social y privado, de acuerdo con la normatividad aplicable;
+
+XXXII.- Promover, fomentar y realizar investigaciones relacionadas con la vivienda, desarrollo regional y urbano y ecología, y
+
+XXXIII.- Los demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>N. DE E. REUBICADO ANTES 32 D.O.F. 25 DE MAYO DE 1992.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+
+ARTICULO 32 BIS.- A la Secretaría de la Contraloría General de la Federación corresponde el despacho de los siguientes asuntos:
 
 I.- Planear, organizar y coordinar el sistema de control y evaluación gubernamental. Inspeccionar el ejercicio del gasto público federal y su congruencia con los presupuestos de egresos;
 
@@ -551,8 +623,6 @@ XVII.- Conocer e investigar los actos, omisiones o conductas de los servidores p
 XVIII.- Vigilar el cumplimiento de las normas internas de la Secretaría, constituir las responsabilidades administrativas de su personal aplicándole las sanciones que correspondan y hacer al efecto las denuncias a que hubiere lugar, y
 
 XIX.- Las demás que le encomienden expresamente las leyes y reglamentos.
-
-ARTICULO 32 BIS.- N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO UNICO DEL DECRETO PUBLICADO EN EL D.O.F. 21 DE FEBRERO DE 2002, SE DEROGA EL ARTICULO 32 Y SE REUBICA EL CONTENIDO DEL ARTICULO 32 BIS , PARA PASAR A SER 32.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
@@ -692,7 +762,9 @@ VII.- Establecer los controles que se estimen necesarios para garantizar la cali
 
 VIII.- Coordinar y dirigir en su caso las actividades de la Secretaría con los centros de educación agrícola superior y media, y establecer y dirigir escuelas de agricultura, ganadería, apicultura, avicultura y silvicultura, en los lugares que proceda;
 
-IX.- Organizar y fomentar las investigaciones agrícolas, ganaderas, avícolas, apícolas y silvícolas, estableciendo institutos experimentales, laboratorios, estaciones de cría, reservas, cotos de caza, semilleros y viveros;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
+
+IX.- Organizar y fomentar las investigaciones agrícolas, ganaderas, avícolas, apícolas y silvícolas, estableciendo institutos experimentales, laboratorios, estaciones de cría, reservas de flora y fauna terrestres, colecciones forestales, jardines botánicos, parques zoológicos, cotos de caza, semilleros y viveros;
 
 X.- Organizar y patrocinar congresos, ferias, exposiciones y concursos agrícolas, ganaderos, avícolas, apícolas y silvícolas;
 
@@ -706,15 +778,23 @@ XIV.- Organizar y dirigir los estudios, trabajos y servicios meteorológicos y c
 
 XV.- Difundir los métodos y procedimientos técnicos destinados a obtener mejores rendimientos de los bosques;
 
-XVI.- Organizar y regular el aprovechamiento racional de los recursos forestales; atendiendo a las restricciones de protección ecológica que señale la Secretaría de Desarrollo Urbano y Ecología;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
 
-XVII.- Fomentar y realizar programas de reforestación en coordinación con la Secretaría de Desarrollo Urbano y Ecología;
+XVI.- Organizar y regular el aprovechamiento racional de los recursos forestales, atendiendo a las restricciones de protección ecológica que señale la Secretaría de Desarrollo Social; decretar vedas forestales y organizar y manejar la vigilancia forestal;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
+
+XVII.- Fomentar y realizar programas de reforestación en coordinación con la Secretaría de Desarrollo Social; así como cuidar de las arboledas y demás vegetación, con la cooperación de las autoridades federales y locales competentes;
 
 XVIII.- Administrar los recursos forestales en los terrenos baldíos y nacionales;
 
-XIX.- Realizar el censo de predios forestales y silvopastoriles y de sus productos, así como levantar, organizar y manejar la cartografía y estadística forestal;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
 
-XX.- Organizar y administrar reservas forestales;
+XIX.- Realizar el censo de predios forestales y silvopastoriles y de sus productos, así como levantar, organizar y manejar la cartografía y estadística forestal; así como llevar el registro y cuidar la conservación de los árboles históricos y notables del país;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
+
+XX.- Organizar y administrar reservas y zonas forestales y parques nacionales, considerados como áreas naturales protegidas, atendiendo a las restricciones de protección ecológica que señale la Secretaría de Desarrollo Social;
 
 XXI.- Otorgar contratos, concesiones y permisos forestales;
 
@@ -726,7 +806,9 @@ XXIV.- Vigilar el cumplimiento y aplicación de la Ley Federal de Aguas;
 
 XXV.- Reconocer derechos y otorgar concesiones, permisos y autorizaciones para el aprovechamiento de las aguas nacionales, con la cooperación de la Secretaría de Energía, Minas e Industria Paraestatal, cuando se trate de la generación de energía eléctrica;
 
-XXVI.- Administrar, controlar y reglamentar el aprovechamiento de las cuencas hidráulicas, vasos, manantiales y aguas de propiedad nacional, así como de las zonas federales correspondientes, con exclusión de lo que se atribuya expresamente a otra dependencia;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
+
+XXVI.- Administrar, controlar y reglamentar el aprovechamiento de cuencas hidráulicas, vasos, manantiales y aguas de propiedad nacional, y de las zonas federales correspondientes, con exclusión de lo que se atribuya expresamente a otra dependencia; establecer y vigilar el cumplimiento de las condiciones particulares que deban satisfacer las descargas de aguas residuales, cuando sea de jurisdicción federal; autorizar, en su caso, el vertimiento de aguas residuales en el mar, en coordinación con la Secretaría de Marina cuando provenga de fuentes móviles o plataformas fijas; en cuencas, cauces y demás depósitos de aguas de propiedad nacional, de conformidad con la normatividad que establezca la Secretaría de Desarrollo Social; y promover y, en su caso, ejecutar y operar la infraestructura y los servicios necesarios para el mejoramiento de la calidad del agua en las cuencas, con base en la planeación hidráulica que realice y de acuerdo a las normas y criterios que establezca esta última;
 
 XXVII.- Estudiar, proyectar, construir y conservar las obras de riego, desecación, drenaje, defensa y mejoramiento de terrenos y las de pequeña irrigación, de acuerdo con los programas formulados y que competa realizar el (sic) Gobierno Federal, por sí o en cooperación con los Gobiernos de los Estados, Municipios o de particulares;
 
@@ -742,13 +824,25 @@ XXXII.- Ejecutar las obras hidráulicas que se deriven de tratados internacional
 
 XXXIII.- Organizar y manejar la explotación de los sistemas nacionales de riego, con la intervención de los usuarios, en los términos que lo determinen las leyes;
 
-XXXIV.- Otorgar las asignaciones y concesiones correspondientes a la dotación de agua para las poblaciones, previa consulta con la Secretaría de Desarrollo Urbano y Ecología;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
 
-XXXV.- Intervenir en la dotación de agua a los centros de población e industrias y programar, proyectar, construir, administrar, operar y conservar las obras de captación, potabilización y conducción, hasta los sitios en que se determine con la Secretaría de Desarrollo Urbano y Ecología;
+XXXIV.- Otorgar las asignaciones y concesiones correspondientes a la dotación de agua para las poblaciones, en coordinación con las autoridades competentes;
 
-XXXVI.- Levantar y mantener actualizado el inventario de recursos naturales, específicamente de agua, suelo y cubierta vegetal, así como los de población animal, y
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
 
-XXXVII.- Los demás que le fijen expresamente las leyes y reglamentos.
+XXXV.- Intervenir, en su caso, en la dotación de agua a los centros de población e industrias; fomentar y apoyar técnicamente el desarrollo de los sistemas de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales que realicen las autoridades locales; así como programar, proyectar, construir, administrar, operar y conservar por sí, o mediante el otorgamiento de la asignación o concesión que en su caso se requiera, o en los términos del convenio que se celebre, las obras y servicios de captación, potabilización, tratamiento de aguas residuales, conducción y suministro de aguas;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
+
+XXXVI.- Levantar y mantener actualizado el inventario de recursos naturales, específicamente de agua, suelo y cubierta vegetal, así como los de población animal, con la cooperación de los gobiernos estatales y municipales;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
+
+XXXVII.- Aplicar las disposiciones que establezcan las leyes en relación con restricciones a la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestre procedentes del o destinadas al extranjero, y promover ante la Secretaría de Comercio y Fomento Industrial el establecimiento de medidas de regulación o restricción a su importación o exportación, cuando se requiera para su conservación o aprovechamiento, de conformidad con las normas que expida la Secretaría de Desarrollo Social; así como decretar vedas de casa, otorgar contratos, concesiones y permisos de caza o de explotación cinegética y organizar y manejar la vigilancia de caza, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 1992)</small>
+
+XXXVIII.- Los demás que le fijen expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
@@ -806,77 +900,17 @@ XXIII.- Construir aeropuertos federales y cooperar con los gobiernos de los Esta
 
 XXIV.- Otorgar concesiones o permisos para construir las obras que le corresponda ejecutar;
 
-XXV.- Cuidar en apoyo de la Secretaría de Desarrollo Urbano y Ecología de los aspectos ecológicos en los derechos de vía de las vías federales de comunicación;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
+
+XXV.- Cuidar de los aspectos ecológicos y los relativos a la planeación del desarrollo urbano, en los derechos de vía de las vías federales de comunicación;
 
 XXVI.- Promover y, en su caso, organizar la capacitación, investigación y el desarrollo tecnológico en materia de comunicaciones y transportes, y
 
 XXVII.- Los demás que expresamente le fijen las leyes y reglamentos.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
-
 ###### ARTICULO 37.
 
-A la Secretaría de Desarrollo Urbano y Ecología corresponde el despacho de los siguientes asuntos:
-
-I.- Formular y conducir las políticas generales de asentamientos humanos, urbanismo, vivienda y ecología;
-
-II.- Proyectar la distribución de la población y la ordenación territorial de los centros de población, conjuntamente con las dependencias y entidades del Ejecutivo Federal que corresponda, así como coordinar las acciones que el Ejecutivo Federal convenga con los Ejecutivos locales para la realización de acciones coincidentes en esta materia, con la participación de los sectores social y privado;
-
-III.- Promover el desarrollo urbano de la comunidad y fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción;
-
-IV.- Promover el desarrollo de programas de vivienda y urbanismo; y apoyar a las autoridades estatales y municipales en su ejecución;
-
-V.- Fomentar el desarrollo de los sistemas de agua potable, drenaje y alcantarillado en los centros de población; y apoyar técnicamente a las autoridades locales en su proyección, construcción, administración, operación y conservación, a partir de los sitios determinados con la Secretaría de Agricultura y Recursos Hidráulicos;
-
-VI.- Determinar y conducir la política inmobiliaria de la Administración Pública Federal; dictar normas técnicas, autorizar y, en su caso, realizar la construcción, reconstrucción y conservación de los edificios públicos, monumentos, obras de ornato y las demás que realice la Federación por sí o en cooperación con otros países, con los estados y municipios o con los particulares, excepto las encomendadas expresamente por la Ley a otras dependencias;
-
-VII.- Poseer, vigilar, conservar o administrar los inmuebles de propiedad federal destinados o no a un servicio público, o a fines de interés social o general, cuando no estén encomendados a las dependencias usufructuarias, los propios que de hecho utilice para dicho fin y los equiparados a éstos, conforme a la Ley, y las plazas, paseos y parques públicos cuya construcción o conservación esté a cargo del Gobierno Federal;
-
-VIII.- Preveer a nivel nacional las necesidades de tierra para vivienda y para el desarrollo urbano, y regular en coordinación con los Gobiernos de los Estados y Municipios el sistema tendiente a satisfacer dichas necesidades;
-
-IX.- Organizar y administrar los parques nacionales;
-
-X.- Proyectar las normas y, en su caso, celebrar los contratos relativos al mejor uso, explotación o aprovechamiento de los bienes federales, especialmente para fines de beneficio social;
-
-XI.- Ejercer la posesión de la nación en las playas y zona marítimo terrestre y administrarlas en los términos de Ley;
-
-XII.- Regular y, en su caso, representar el interés de la Federación en la adquisición, enajenación, destino o afectación de los bienes inmuebles de la Administración Pública Federal Centralizada y Paraestatal; así como determinar normas y procedimientos para la formulación de inventarios y la realización de avalúos de dichos bienes;
-
-XIII.- Mantener al corriente el avalúo de los bienes inmuebles nacionales y reunir, revisar y determinar las normas y procedimientos para realizarlo;
-
-XIV.- Tener a su cargo el registro de la propiedad federal, y elaborar y manejar el inventario general de los bienes de la Nación;
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1985)</small>
-
-XV.- Formular y conducir la política de saneamiento ambiental, en coordinación con la Secretaría de Salud;
-
-XVI.- Establecer los criterios ecológicos para el uso y destino de los recursos naturales y para preservar la calidad del medio ambiente;
-
-XVII.- Determinar las normas que aseguren la conservación de los ecosistemas fundamentales para el desarrollo de la comunidad.
-
-XVIII.- Vigilar en coordinación con las autoridades federales, estatales y municipales la aplicación de las normas y programas que establezca para la protección o restitución de los sistemas ecológicos del país;
-
-XIX.- Normar el aprovechamiento racional de la flora y fauna silvestres, con el propósito de conservarlos y desarrollarlos;
-
-XX.- Decretar las vedas forestales y de caza; otorgar contratos, concesiones y permisos de caza o de explotación cinegética; y organizar y manejar la vigilancia forestal y de caza;
-
-XXI.- Organizar y administrar reservas de flora y fauna terrestres, parques zoológicos, jardines botánicos y colecciones forestales;
-
-XXII.- Hacer exploraciones y recolecciones científicas de la flora y de la fauna terrestres;
-
-XXIII.- Fomentar y distribuir colecciones de los elementos de la flora y de la fauna terrestres;
-
-XXIV.- Cuidar de las arboledas y demás vegetación, con la cooperación de las autoridades federales y locales competentes, así como llevar el registro y cuidar la conservación de los árboles históricos y notables del país;
-
-XXV.- Regular el alejamiento, la explotación, uso o aprovechamiento de aguas residuales y las condiciones que deban satisfacerse antes de descargarse en las redes colectoras, cuencas, cauces, vasos y demás depósitos y corrientes de agua; así como su infiltración en el subsuelo, para evitar la contaminación que ponga en peligro la salud pública o degrade los sistemas ecológicos, en coordinación con las Secretarías de Agricultura y Recursos Hidráulicos y de Salubridad y Asistencia;
-
-XXVI.- Organizar y fomentar las investigaciones relacionadas con la vivienda, desarrollo urbano y ecología;
-
-XXVII.- Conservar y fomentar el desarrollo de la flora y fauna marítimas, fluviales y lacustres;
-
-XXVIII.- Establecer viveros, criaderos y reservas de especies acuáticas, y
-
-XXIX.- Los demás que le encomienden expresamente las leyes y reglamentos.
+(DEROGADO, D.O.F. 25 DE MAYO DE 1992)
 
 ###### ARTICULO 38.
 
@@ -944,9 +978,9 @@ XXIII.- Determinar y organizar la participación oficial del país en competenci
 
 XXIV.- Cooperar en las tareas que desempeñe la Confederación Deportiva y mantener la Escuela de Educación Física;
 
-XXV.- Estudiar los problemas fundamentales de las razas aborígenes, y dictar las medidas y disposiciones que deban tomarse para lograr que la acción coordinada del poder público redunde en provecho de los mexicanos que conserven su idioma y costumbres originales;
+XXV.- (DEROGADA, D.O.F. 25 DE MAYO DE 1992)
 
-XXVI.- Promover y gestionar ante las autoridades federales y las de los Estados, todas aquellas medidas o disposiciones que conciernan al interés general de los núcleos de población que se mantienen dentro de su tradición cultural originaria o autóctona.
+XXVI.- (DEROGADA, D.O.F. 25 DE MAYO DE 1992)
 
 XXVII.- Organizar, promover y supervisar programas de capacitación y adiestramiento en coordinación con las dependencias del Gobierno Federal, los Gobiernos de los Estados y de los Municipios, las entidades públicas y privadas así como los fideicomisos creados con tal propósito. A este fin organizará, igualmente, sistemas de orientación vocacional de enseñanza abierta y de acreditación de estudios;
 
@@ -1176,13 +1210,17 @@ III.- Participar con la Secretaría de Hacienda y Crédito Público, en la deter
 
 IV.- Otorgar contratos, concesiones, permisos y autorizaciones para la explotación de la flora y fauna acuáticas;
 
-V.- Determinar las épocas y zonas de veda de las especies acuáticas, en coordinación con la Secretaría de Desarrollo Urbano y Ecología;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
+
+V.- Determinar las épocas y zonas de veda de las especies acuáticas;
 
 VI.- Organizar y fomentar la investigación sobre la actividad pesquera y promover el establecimiento de centros o institutos de capacitación pesquera;
 
 VII.- Definir, aplicar y difundir los métodos y procedimientos técnicos destinados a obtener rendimiento de la piscicultura;
 
-VIII.- Realizar actividades y autorizar lo referente a acuacultura;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
+
+VIII.- Realizar actividades y autorizar en su caso, lo referente a acuacultura; así como establecer, viveros, criaderos y reservas de especies acuáticas;
 
 IX.- Regular la formación y organización de la flota pesquera, así como promover la construcción de embarcaciones pesqueras;
 
@@ -1202,7 +1240,9 @@ XIV.- Promover la creación de zonas portuarias reservadas para la instalación 
 
 XV.- Apoyar técnicamente a la Secretaría de Comercio y Fomento Industrial en las exportaciones e importaciones de las especies de la flora y la fauna acuáticas;
 
-XVI.- Cuantificar y evaluar las especies de la flora y fauna cuyo medio de vida sea el agua;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
+
+XVI.- Cuantificar y evaluar las especies de la flora y fauna cuyo medio de vida sea el agua; así como conservar y fomentar el desarrollo de la flora y fauna marítimas, fluviales y lacustres, de conformidad con las normas que expida la Secretaría de Desarrollo Social;
 
 XVII.- Proponer ante la Secretaría de Relaciones Exteriores la celebración de convenios y tratados internacionales relativos al recurso pesca, y
 
@@ -1421,3 +1461,31 @@ CUARTO.- Los asuntos a cargo de las Secretarías de Programación y Presupuesto 
 QUINTO.- Las atribuciones que en otras leyes y en reglamentos se otorgan a las Secretarías de Programación y Presupuesto y de Hacienda y Crédito Público se tendrán por conferidas a esta última, las que ejercerá con base en lo que dispone el presente ordenamiento, con excepción de las relativas a la coordinación y promoción del desarrollo científico y tecnológico, que se entenderán atribuidas, en lo sucesivo, a la Secretaría de Educación Pública.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan a lo dispuesto por este decreto.
+
+D.O.F. 25 DE MAYO DE 1992.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- A partir de la entrada en vigor del presente Decreto, se suprime la referencia a la Secretaría de Programación y Presupuesto y se sustituye la relativa a la Secretaría de Desarrollo Urbano y Ecología por la de Secretaría de Desarrollo Social, en los artículos 152 y 165 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. La Secretaría de Hacienda y Crédito Público tendrá dos representantes, tanto en la Junta Directiva como en la Comisión Ejecutiva del Fondo de la Vivienda; el segundo representante de la Secretaría de Hacienda y Crédito Público en la Junta Directiva, será designado por la propia dependencia.
+
+CUARTO.- A partir de la entrada en vigor del presente Decreto, el Consejo Directivo del Instituto Nacional Indigenista, será presidido por el Secretario de Desarrollo Social.
+
+QUINTO.- El personal, así como los recursos financieros y materiales, incluidos mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la Secretaría de Desarrollo Urbano y Ecología utiliza para la atención de los asuntos a su cargo, pasarán a la Secretaría de Desarrollo Social, con excepción de aquellos destinados a las funciones que por este Decreto se transfieren a las Secretarías de Agricultura y Recursos Hidráulicos y de Pesca, mismos que pasarán a estas dependencias. Asimismo, pasarán a la Secretaría de Desarrollo Social el personal y recursos financieros y materiales asignados a las unidades administrativas de la Secretaría de Hacienda y Crédito Público que tienen asignadas las funciones a que se refieren las fracciones II a VI y VIII del artículo 32 modificado. También pasarán a la Secretaría de Desarrollo Social, el personal y recursos financieros y materiales asignados a las unidades administrativas de la Secretaría de Educación Pública que tienen asignadas las funciones a que se refiere la fracción VII del artículo 32 modificado.
+
+SEXTO.- Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto pase de una dependencia a otra, se respetarán conforme a la ley.
+
+SEPTIMO.- Los asuntos a cargo de la Secretaría de Desarrollo Urbano y Ecología que se encontraren pendientes de resolución al momento de entrar en vigor este Decreto, serán despachados por la Secretaría de Desarrollo Social y, en su caso, por las Secretarías de Agricultura y Recursos Hidráulicos y de Pesca, conforme a las atribuciones que este mismo ordenamiento les señala.
+
+Los asuntos a cargo de las unidades administrativas de la Secretaría de Hacienda y Crédito Público que tienen asignadas las funciones a que se refieren las fracciones II a VI y VIII del artículo 32 modificado, pendientes de resolución al momento de entrar en vigor este Decreto, serán despachados por la Secretaría de Desarrollo Social.
+
+Asimismo, los asuntos a cargo de las unidades administrativas de la Secretaría de Educación Pública que tienen asignadas las funciones a que se refiere la fracción VII del artículo 32 modificado, pendientes de resolución al momento de entrar en vigor este Decreto, serán despachados por la Secretaría de Desarrollo Social.
+
+OCTAVO.- Las referencias que se hacen en la Ley Orgánica de la Administración Pública Federal a la Secretaría de Desarrollo Urbano y Ecología, se entenderán hechas a la Secretaría de Desarrollo Social.
+
+Las atribuciones que en otras leyes y reglamentos se otorgan a la Secretaría de Desarrollo Urbano y Ecología, se entenderán otorgadas a la Secretaría de Desarrollo Social y, en su caso, a las Secretarías de Agricultura y Recursos Hidráulicos y de Pesca, en los términos del presente Decreto.
+
+Igualmente, las atribuciones que en otras leyes y reglamentos se otorgan a la Secretaría de Educación Pública en las materias a que hace referencia la fracción VII del artículo 32 modificado, se entenderán otorgadas a la Secretaría de Desarrollo Social.
+
+Asimismo, las atribuciones que en otras leyes y reglamentos, con anterioridad a la entrada en vigor de este Decreto se entendían conferidas a la Secretaría de Hacienda y Crédito Público en las materias a que se refieren las fracciones II a VI y VIII del artículo 32 modificado, en lo futuro se entenderán conferidas a la Secretaría de Desarrollo Social.
