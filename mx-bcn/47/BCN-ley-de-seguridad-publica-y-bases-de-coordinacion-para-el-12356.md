@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-y-bases-de-coordinacion-para-el-12356"
 country: "mx"
 rank: "ley"
 publication_date: "1998-04-17"
-last_updated: "2003-08-15"
+last_updated: "2004-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PUBLICA Y BASES DE COORDINACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
 
@@ -41,11 +41,11 @@ LEY DE SEGURIDAD PUBLICA Y BASES DE COORDINACION PARA EL ESTADO DE BAJA CALIFORN
 
 ### CAPÍTULO PRIMERO. DEL OBJETO DE LA LEY Y DE LOS CUERPOS DE SEGURIDAD EN EL ESTADO
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto regular la prestación del servicio de seguridad pública: las relaciones administrativas que surjan entre los elementos de los Cuerpos de Seguridad Pública y las autoridades estatales o las municipales con motivo de la prestación de este servicio; los servicios privados de seguridad; así como establecer las bases de coordinación entre el Estado y los Municipios en materia de seguridad pública.
+La presente Ley es de orden público e interés general y tiene por objeto regular la prestación del servicio de seguridad pública, los servicios privados de seguridad; así como establecer las bases de coordinación entre el Estado y los Municipios de materia de seguridad pública.
 
 ###### ARTÍCULO 2.
 
@@ -93,9 +93,9 @@ VI. Instituto Estatal de Policía;
 
 VII. Elementos de seguridad pública: a los integrantes de los Cuerpos de Seguridad Pública, y
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2004)</small>
 
-VIII. Consejo: al Consejo Estatal de Seguridad Pública, creado mediante el Acuerdo del Titular del Ejecutivo Estatal de fecha 8 de mayo de 1996.
+VIII. Consejo: al Consejo Estatal de Seguridad Pública, creado mediante Acuerdo del Titular del Ejecutivo Estatal.
 
 ###### ARTÍCULO 5.
 
@@ -119,7 +119,9 @@ II. La Policía Ministerial del Estado, como policía de investigación y persec
 
 III. Las dependencias y unidades administrativas de Seguridad Pública de los Ayuntamientos, con los cuerpos y agrupamientos de policía preventiva, tránsito y seguridad pública que prevean sus respectivos reglamentos;
 
-IV. Los Custodios y Preceptores de la Secretaría; y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2004)</small>
+
+IV. Los Agentes de Seguridad y Custodia Tutelar o Penitenciaria, y
 
 V. Las demás que se constituyan con estricto apego a la Ley.
 
@@ -143,13 +145,15 @@ Los Cuerpos de Seguridad a que se refiere el artículo anterior, desempeñarán 
 
 Los mandos operativos en los Cuerpos de Seguridad se determinarán conforme a la Ley o Reglamento respectivo y tendrán el carácter de autoridad auxiliar cuando para ello sea requerido por la Autoridad competente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ENERO DE 2004)</small>
+
 ###### ARTÍCULO 10.
 
-Se consideran elementos de seguridad pública, aquellos a quienes les atribuya ese carácter, mediante nombramiento o instrumento jurídico equivalente, por autoridad competente de los Ayuntamientos o del Gobierno del Estado, según sea el caso.
+Se consideran elementos de seguridad pública, aquellos a quienes les atribuya ese carácter, mediante nombramiento otorgado por autoridad competente de los ayuntamientos o del Poder Ejecutivo del Estado, según sea el caso.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2004)</small>
 
-La relación que surge de la prestación del servicio entre los elementos de los cuerpos de seguridad pública y el Estado o los Municipios, es de carácter administrativo, y se rige por esta Ley y los reglamentos respectivos, de conformidad con lo dispuesto por el Artículo 123 fracción XIII del Apartado B de la Constitución Política de los Estados Unidos Mexicanos.
+La relación que surge de la prestación del servicio entre los elementos de los cuerpos de seguridad pública y el Estado o los Municipios, es de carácter administrativo, y se regirá por su propia Ley y los reglamentos respectivos, de conformidad con lo dispuesto por el artículo 123 fracción XIII del Apartado B de la Constitución Política de los Estados Unidos Mexicanos.
 
 No formarán parte de los Cuerpos de Seguridad quienes desempeñen funciones de carácter estrictamente administrativo ajenas a la seguridad pública, aún cuando laboren en las dependencias encargadas de prestar dicho servicio.
 
@@ -163,15 +167,13 @@ III. Policía Preventiva, y
 
 IV. Policía Ministerial.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2004)</small>
+
 ###### ARTÍCULO 11.
 
-Los elementos de los Cuerpos de Seguridad tienen la obligación de portar los uniformes, insignias, divisas, armas y equipo reglamentarios que les corresponda, en los actos y situaciones que requiera el servicio.
+La Secretaría, la Procuraduría y los ayuntamientos, según sea el caso, establecerán las normas a que se sujetarán los elementos de sus Cuerpos de Seguridad, en el uso de uniformes, insignias, divisas, armas y equipo reglamentarios.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
-
-La Secretaría, la Procuraduría y los Ayuntamientos, según sea el caso, establecerán las normas a que se sujetarán los elementos de sus Cuerpos de Seguridad, en el uso de uniformes, insignias, divisas, armas y equipo reglamentarios.
-
-Asimismo deberán expedir las identificaciones y proporcionar, sin costo alguno, a todos los elementos de seguridad pública, los uniformes, insignias, divisas, armas y equipo reglamentarios a que se refiere este artículo. La violación a esta disposición será sancionada conforme a las leyes aplicables.
+Asimismo, deberán expedir las identificaciones y proporcionar, sin costo alguno, a todos los elementos de seguridad pública, los uniformes, insignias, divisas, armas y equipo reglamentarios a que se refiere este artículo. La violación a esta disposición será sancionada conforme a las leyes aplicables.
 
 ###### ARTÍCULO 12.
 
@@ -187,9 +189,9 @@ Asimismo queda prohibido, prestar simultáneamente servicios de cualquier carác
 
 El Programa de Seguridad Pública para el Estado de Baja California, es el documento que contiene las acciones que en forma planeada y coordinada, deberán realizar los Cuerpos de Seguridad en el corto, mediano y largo plazo. Este programa tendrá carácter de prioritario y su ejecución se ajustará a la disponibilidad presupuestal anual, así como a las disposiciones y lineamientos que sobre el particular dicten los órganos competentes.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2004)</small>
 
-El Programa de Seguridad Pública para el Estado de Baja California se elaborará dentro de los seis meses siguientes a la publicación del Plan Estatal de Desarrollo y a los Planes de Desarrollo Municipales, por la Secretaría y los Ayuntamientos con la colaboración de la Procuraduría en lo que a investigación y persecución de delitos le corresponde, en los términos del artículo 52 fracciones primera y segunda de la presente Ley; dicho Plan se revisará anualmente y su resumen se publicará en el Periódico Oficial del Estado.
+El Programa de Seguridad Pública para el Estado de Baja California se elaborará dentro de los seis meses siguientes a la publicación del Plan Estatal de Desarrollo y a los Planes de Desarrollo Municipales, por la Secretaría y los ayuntamientos, con la colaboración de la Procuraduría en lo que a la investigación y persecución de delitos le corresponde y con la intervención del Consejo Ciudadano de Seguridad Pública y de los Comités Ciudadanos Municipales de Seguridad Pública en los términos del artículo 52, fracciones I y II de esta Ley; dicho Plan se revisará anualmente y su resumen se publicará en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO 14.
 
@@ -387,25 +389,23 @@ Los prestadores de los servicios de seguridad privada, son auxiliares a la funci
 
 Al efecto, la Secretaría, la Procuraduría y los Ayuntamientos, signarán los convenios con los prestadores de éstos servicios para establecer los requisitos y condiciones en que habrá de darse tal colaboración.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2004)</small>
+
 ###### ARTÍCULO 38.
 
 Para efectos de esta Ley se entenderá como prestador de servicios de seguridad privados a:
 
-I. (DEROGADA, P.O. 17 DE AGOSTO DE 2001)
+I. Las personas morales legalmente constituidas, cuyo objeto social sea la prestación de servicios de seguridad privada, ya sea la guarda o custodia de locales o para la transportación de valores. Quedan asimiladas a este grupo las personas físicas que presten el servicio de seguridad privada por conducto de terceros empleados a su cargo;
 
-II. Las personas morales legalmente constituidas, cuyo objeto social sea la prestación de servicios de seguridad privada, ya sea para la guarda o custodia de locales o para la transportación de valores. Quedan asimilados a este grupo las personas físicas que presten el servicio de seguridad privada por conducto de terceros empleados a su cargo;
+II. Los grupos de seguridad que a su costa organicen los habitantes de las colonias, fraccionamientos y zonas residenciales para ejercer, en cualquier horario, la función única y exclusiva de resguardar los inmuebles o las casas habitación ubicadas en las áreas que previamente se señalen;
 
-III. Los grupos de seguridad que a su costa organicen los habitantes de las colonias, fraccionamientos y zonas residenciales para ejercer, en cualquier horario, la función única y exclusiva de resguardar los inmuebles o las casas habitación ubicadas en las áreas que previamente se señalen;
+III. Los custodios de personas, que presten servicios de seguridad personal, a costa de quienes reciben tal servicio;
 
-IV. Los custodios de personas, que presten servicios de seguridad personal, a costa de quienes reciben tal servicio;
+IV. Los vigilantes, que en forma independiente desempeñan la función de vigilancia sobre casas habitación, comercios o personas;
 
-V. Los vigilantes, que en forma independiente desempeñan la función de vigilancia sobre casas habitación, comercios o personas;
+V. Las personas físicas o morales, que presten los servicios de sistemas de alarmas en todas sus modalidades, y
 
-VI. Las personas físicas o morales, que presten los servicios de sistemas de alarmas en todas sus modalidades, y
-
-VII. En general, toda persona física o moral que realice actividades similares y auxiliares relacionadas con la seguridad.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2001)</small>
+VI. En general, toda persona física o moral que realice actividades similares y auxiliares relacionadas con la seguridad.
 
 Las obligaciones y prohibiciones que el Reglamento establece para los prestadores del servicio de seguridad privada, serán de observancia para las industrias, establecimientos fabriles o comerciales, que contraten a personal para realizar funciones de vigilancia interna, para la guarda o custodia de sus locales, bienes o valores, o para la transportación de estos últimos y que tengan una relación laboral de prestación de servicios con la unidad económica en la que desempeñen sus funciones.
 
@@ -545,9 +545,13 @@ V. Evaluar el cumplimiento del o los programas preventivos de patrullaje;
 
 VI. Promover programas a fin de arraigar y vincular al policía con la comunidad, que conlleve un sentido de integración y participación social;
 
-VII. Proponer anualmente al Consejo de Honor y Justicia correspondiente, la entrega de la Condecoración al Mérito, al o a los elementos que a su juicio hayan prestado mejores servicios a la comunidad, sin perjuicio de la facultad de sugerir otros estímulos;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2004)</small>
 
-VIII. Turnar ante el Consejo de Honor y Justicia correspondiente, aquellos casos en que a su juicio constituyan faltas graves a los principios de actuación previstos en esta Ley, por parte de los elementos de seguridad pública;
+VII. Proponer anualmente a los Titulares y a quienes ejerzan el mando directo de las Instituciones Policiales, la entrega de la Condecoración al Mérito, al o a los elementos que a su juicio hayan prestado mejores servicios a la comunidad, sin perjuicio de la facultad de sugerir otros estímulos;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2004)</small>
+
+VIII. Turnar ante la Contraloría Interna de cualquier órgano que tenga a su cargo una Institución Policial correspondiente, aquellos casos en que a su juicio constituyan faltas graves a los principios de actuación previstos en esta Ley, por parte de los elementos de seguridad pública;
 
 IX. Proponer modificaciones a normas y procedimientos, que permitan mejorar la atención a las quejas que formulen la ciudadanía contra abusos y actuaciones en que incurran los elementos de seguridad pública;
 
@@ -583,6 +587,8 @@ El Estado, a través de la Secretaría y los Ayuntamientos, fomentarán la colab
 
 ### CAPÍTULO CUARTO. CONDECORACIONES, ESTÍMULOS Y RECOMPENSAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ENERO DE 2004)</small>
+
 ###### ARTÍCULO 55.
 
 La Secretaría, la Procuraduría y los Ayuntamientos establecerán, conjuntamente, el Servicio de Asistencia Telefónica, para responder y orientar a la población en casos de emergencia; coordinar rápida y eficientemente a los Cuerpos de Seguridad y Protección Civil para que presten los primeros auxilios y atención médica especializada.
@@ -598,8 +604,6 @@ Los Cuerpos de Seguridad Pública y Privada y demás organizaciones de naturalez
 ## TÍTULO QUINTO. DE LAS BASES Y LINEAMIENTOS GENERALES DE ORGANIZACIÓN PARA LOS CUERPOS DE SEGURIDAD PÚBLICA
 
 ### CAPÍTULO QUINTO. DERECHOS DE LOS MIEMBROS DE CUERPOS DE SEGURIDAD PÚBLICA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2001)</small>
 
 ###### ARTÍCULO 57.
 
@@ -697,8 +701,6 @@ Las Academias e Instituciones de Policía Municipales, incluirán en la currícu
 
 ### CAPÍTULO SEGUNDO. DE LA SUSPENSIÓN TEMPORAL
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2002)</small>
-
 ###### ARTÍCULO 64.
 
 Se considera como Policía de Carrera, a quien haya cursado aprobatoriamente como mínimo el Programa de Formación Básica, realizado estudios y preparación especializados en el ramo y permanencia en el servicio de seguridad pública.
@@ -713,11 +715,11 @@ Los elementos de seguridad pública tendrán derecho a realizar la Carrera Polic
 
 La Secretaría, la Procuraduría y los Ayuntamientos elaborarán el Reglamento de Promociones, Ascensos y Reconocimientos que se concederán a los elementos de seguridad pública tomando en cuenta factores escalafonarios como preparación, disciplina, entrenamiento, antigüedad, disponibilidad, eficiencia y acciones relevantes en el ejercicio de seguridad pública y en su caso investigación y persecución de delitos.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 67.
 
-Para motivar la profesionalidad y la carrera policial y seguridad pública y mejor desempeño de los elementos de seguridad pública, la Secretaría, la Procuraduría y los Ayuntamientos deberán establecer un escalafón salarial acorde a su riesgo profesional.
+Para motivar la profesionalidad y la carrera policial y seguridad pública, así como mejorar el desempeño de los elementos de seguridad pública, la Secretaría, la Procuraduría y los Ayuntamientos deberán establecer un escalafón de remuneraciones acorde a su riesgo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
@@ -731,15 +733,17 @@ I. Ser ciudadano mexicano por nacimiento en pleno goce y ejercicio de sus derech
 
 II. Ser de notoria buena conducta y reconocida solvencia moral;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2004)</small>
 
-III. Haber cursado la escuela Preparatoria y poseer certificado aprobatorio de bachiller; tratándose de quienes aspiren a ingresar a los cuerpos de Seguridad Pública Municipales, deberán acreditar como mínimo el nivel académico de secundaria o su equivalente, obligándose a cursar y aprobar los programas que les permitan alcanzar el grado de bachiller, conforme al tiempo y forma que establecen los reglamentos respectivos;
+III. Haber cursado estudios de preparatoria y poseer certificado aprobatorio de bachiller.
+
+Los aspirantes a ingresar como Agentes de Seguridad y Custodia Tutelar o Penitenciaria y los cuerpos de seguridad pública municipales, deberán acreditar como mínimo el nivel académico secundaria o su equivalente, obligándose a cursar y aprobar los programas que les permitan obtener el grado de bachillerato, conforme al tiempo y forma que establezcan los reglamentos respectivos;
 
 IV. No tener antecedentes penales, ni estar sujeto a proceso penal por delito doloso;
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2004)</small>
 
-V. Tener una edad mínima de diecinueve años y estatura mínima de 1.65 metros;
+V. Tener una edad mínima de diecinueve años y estatura mínima de 1.65 metros los hombres y las mujeres estatura mínima de 1.60 metros;
 
 VI. Aprobar los exámenes médicos, de personalidad y de no adicción o uso de sustancias psicotrópicas, enervantes, depresivas, estupefacientes y otras similares;
 
@@ -747,7 +751,11 @@ VII. Tener acreditado el servicio militar nacional;
 
 VIII. No estar suspendido, ni haber sido destituído o inhabilitado del mismo u otro cuerpo policiaco;
 
-IX. Tener residencia mínima de cinco años en el Estado, y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2004)</small>
+
+IX. Tener residencia mínima de cinco años en el Estado.
+
+Los aspirantes a Agentes de Seguridad y Custodia Tutelar o Penitenciaria deberán acreditar residencia mínima de dos años en el Estado, y
 
 X. Aprobar los exámenes físicos y de conocimientos mínimos de admisión.
 
@@ -807,11 +815,9 @@ Para efecto de dar cumplimiento a lo dispuesto por el artículo anterior, los Je
 
 ### CAPÍTULO TERCERO. DE LOS REQUISITOS DE PERMANENCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2001)</small>
-
 ###### ARTÍCULO 75.
 
-Los elementos de los Cuerpos de Seguridad Pública, en los términos de los artículos 52 fracción VI y 94 de esta Ley, tendrán derecho a las siguientes condecoraciones:
+Los elementos de los Cuerpos de Seguridad Pública de conformidad con el artículo 52, fracción VII de esta Ley, tendrán derecho a las condecoraciones siguientes:
 
 I. Al Valor Policial;
 
@@ -821,13 +827,13 @@ III. Al Mérito.
 
 En cada caso se otorgará un estímulo económico adicional, ajustándose a las disponibilidades presupuestales.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2004)</small>
+
 ###### ARTÍCULO 76.
 
 La Condecoración al Valor Policial consiste en medalla y diploma, se conferirá a quienes salven la vida de una o varias personas o realicen funciones encomendadas por la ley con grave riesgo para su vida o salud.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
-
-En casos excepcionales, el Gobernador del Estado, a propuesta del Consejo de Honor y Justicia y en atención a la respectiva hoja de servicios, determinará la promoción del elemento policial a la jerarquía inmediata superior. Esta facultad será ejercida por el Presidente Municipal respectivo, en tratándose de los cuerpos de seguridad a su mando.
+En casos excepcionales, el Gobernador del Estado, a propuesta de los Titulares o de quienes ejerzan el mando directo de las Instituciones Policiales, y en atención a la respectiva hoja de servicios, determinará la promoción del elemento policial a la jerarquía inmediata superior. Esta facultad será ejercida por el Presidente Municipal respectivo, en tratándose de los cuerpos de seguridad a su mando.
 
 ###### ARTÍCULO 77.
 
@@ -845,7 +851,7 @@ III. Al Mérito Social, cuando se distinga particularmente en la prestación de 
 
 ###### ARTÍCULO 79.
 
-Los elementos que hayan recibido alguna de las condecoraciones a que se refiere este capítulo, tendrán derecho a formar parte del Consejo de Honor y Justicia en los términos del Artículo 94 y durarán en su cargo un año.
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 ###### ARTÍCULO 80.
 
@@ -855,251 +861,83 @@ Los estímulos y recompensas, se ajustarán a lo establecido en el Decreto de Pr
 
 ###### ARTÍCULO 81.
 
-Los elementos de los cuerpos de seguridad, tendrán los siguientes derechos:
-
-I. Percibir un salario digno y remunerador acorde con las características del servicio;
-
-II. Gozar de un trato decoroso por parte de sus superiores jerárquicos;
-
-III. Recibir el respeto y la atención de la comunidad a la que sirven;
-
-IV. Contar con la capacitación y adiestramiento necesarios para hacer una policía de carrera;
-
-V. Recibir tanto el equipo como uniforme reglamentarios sin costo alguno;
-
-VI. Participar en los concursos de promoción, o someterse a evaluación curricular para ascender a la jerarquía inmediata superior;
-
-VII. Ser sujeto de condecoraciones, estímulos y recompensas cuando su conducta y desempeño sea meritorio;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-VIII. Prestar el servicio de seguridad dentro de un horario acorde a las necesidades del mismo, así como disfrutar de prestaciones, licencias y descanso semanal;
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
-
-IX. Ser asesorados y defendidos jurídicamente por el Ayuntamiento o el Gobernador del Estado, según sea el caso, en forma gratuita, cuando por motivos de servicio y a instancia de un particular, sean sujetos a algún procedimiento que tenga por (sic) fincarles responsabilidad penal; si en el proceso se desprende su probable responsabilidad, inmediatamente cesará dicha obligación de defensa;
-
-X. Recibir oportuna atención médica sin costo alguno para el elemento policial, cuando sea lesionado en cumplimiento de su deber, en caso de extrema urgencia, gravedad, deberán ser atendidos en la institución médica pública o privada más cercana al lugar donde se produjeron los hechos, y
-
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
-
-XI. Ser recluidos en áreas que garanticen su integridad física, en tanto la autoridad investigadora resuelve su situación jurídica, así como cuando se encuentren sujetos a prisión preventiva;
-
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-XII. Gozar de los servicios de seguridad social derivados de los programas que se establezcan con base a lo dispuesto en el apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 ## TÍTULO SEXTO. DEL RÉGIMEN DISCIPLINARIO
 
-### CAPÍTULO QUINTO. DEL RECURSOS (SIC) DE REVISIÓN
+### CAPÍTULO QUINTO. DEL RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 82.
 
-Los correctivos disciplinarios, son las sanciones a que se hace acreedor el elemento policial que comete alguna falta a los principios de actuación previstos en el Artículo 58 de esta Ley, o a las normas disciplinarias que cada uno de los Cuerpos de Seguridad establezcan.
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 ###### ARTÍCULO 83.
 
-En atención a la gravedad de la falta, se aplicarán los siguientes correctivos disciplinarios:
-
-I. Amonestación: La amonestación es el acto por el cual el superior advierte al subalterno la omisión o falta en el cumplimiento de sus deberes, invitándolo a corregirse. La amonestación será de palabra y constará por escrito.
-
-II. Arresto hasta treinta y seis horas: El arresto es la reclusión que sufre el subalterno por haber incurrido en faltas considerables o por haber acumulado cinco amonestaciones en un año de calendario. En todo caso, la orden de arresto deberá hacerse por escrito, especificando el motivo y duración del mismo.
-
-III. Cambio de adscripción: El cambio de adscripción se decretará cuando el comportamiento del elemento afecte la disciplina y buena marcha del grupo a que esté adscrito, o bien sea necesario para mantener una buena relación e imagen con la comunidad donde se desempeña.
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-IV. La remoción, o suspensión de acuerdo a las normas disciplinarias contenidas en esta Ley o en los reglamentos correspondientes a cada uno de los cuerpos de seguridad pública.
-
-Los superiores jerárquicos informarán al Consejo de Honor y Justicia sobre los correctivos disciplinarios que impongan, dentro de tres días hábiles siguientes a su aplicación, exponiendo las causas que lo motivaron.
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 ###### ARTÍCULO 84.
 
-El reglamento que expida el Gobernador del Estado o el Ayuntamiento respectivo, según sea el caso, determinarán los criterios conforme a los cuales aplicarán los correctivos, así como los superiores jerárquicos competentes para ello, independientemente de lo que prevee la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 ###### ARTÍCULO 85.
 
-La calificación de la gravedad de la infracción, queda al prudente arbitrio de la autoridad sancionadora, quien además de expresar las razones para dicha calificación, deberán tomar en cuenta lo siguiente:
-
-I. La conveniencia de suprimir conductas que lesionen la imagen de la corporación o afecten a la ciudadanía;
-
-II. Las circunstancias socioeconómicas del elemento policial;
-
-III. El nivel jerárquico, los antecedentes y las condiciones del infractor;
-
-IV. Las condiciones exteriores y los medios de ejecución;
-
-V. La antigüedad en el servicio policial, y
-
-VI. La reincidencia en el incumplimiento de sus obligaciones.
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 ###### ARTÍCULO 86.
 
-Contra el arresto o contra el cambio de adscripción que apliquen los superiores jerárquicos, procederá el recurso de rectificación ante el Consejo de Honor y Justicia, dentro de los cinco días siguientes a su aplicación.
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 ###### ARTÍCULO 87.
 
-El recurso de rectificación no suspenderá los efectos del arresto, y tendrá por objeto que dicho correctivo no aparezca en el expediente u hoja de servicio del elemento, sin perjuicio de las sanciones que aplique el Consejo de Honor y Justicia al Superior Jerárquico, los antecedentes y las condiciones del infractor.
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 ###### ARTÍCULO 88.
 
-La resolución que declare improcedente un cambio de adscripción, tendrá por objeto dejar sin efectos la medida respectiva para restablecer el elemento en la adscripción anterior. No procederá el recurso de rectificación contra un cambio de adscripción decretado en razón de las necesidades del servicio y que no tenga el carácter de sanción.
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 ###### ARTÍCULO 89.
 
-La conductas u omisiones de los elementos que integran los Cuerpos de Seguridad no sancionadas en esta ley, pero sí previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, se sujetarán a lo establecido por dicha ley.
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 ###### ARTÍCULO 90.
 
-La suspensión temporal de funciones de los elementos activos de los Cuerpos de Seguridad podrán ser de carácter preventivo o correctivo.
-
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2002)</small>
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 ###### ARTÍCULO 91.
 
-La suspensión temporal de carácter preventivo se dictará por el Consejo de Honor y Justicia, salvo en los casos en que este no pueda conocer con oportunidad en atención a la urgencia o gravedad del asunto, dicha suspensión se realizará por el superior jerárquico o el área administrativa que corresponda en cada cuerpo de seguridad, y estará dirigida hacia los elementos que se encuentren sujetos a investigación administrativa o averiguación previa, por los actos u omisiones de los que puedan derivarse probable responsabilidad, de tal manera que se evite afectar el proceso de investigación y permita preservar los medios, cosas, objetos y personas relacionadas con los hechos.
-
-La suspensión a que se refiere el párrafo anterior, cesará hasta que el asunto de que se trate, quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente.
-
-En el caso de que el elemento resulte declarado sin responsabilidad, se le reintegrarán los salarios y prestaciones que hubiese dejado de percibir desde el momento en que se le dictó la suspensión.
-
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2002)</small>
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 ###### ARTÍCULO 92.
 
-La suspensión temporal de carácter correctivo se determinará por el Superior Jerárquico o el área administrativa que corresponda en cada cuerpo de seguridad o en su caso para el Consejo de Honor y Justicia y procederá contra el elemento que en forma reiterada o particularmente indisciplinada, haya incurrido en faltas cuya naturaleza no merecen la remoción.
-
-La suspensión a que se refiere este artículo no podrá exceder de treinta días naturales.
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE JUNIO DE 2001)</small>
 
 ###### ARTÍCULO 93.
 
-Son requisitos de permanencia en los Cuerpos de Seguridad, los siguientes:
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-I. Asistir a sus labores puntualmente y no tener más de tres inasistencias en un período de treinta días naturales sin permiso o causa justificada;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-II. Conservar los requisitos de ingresos;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-III. Acatar los principios de actuación previstos en el Artículo 58, de la presente Ley y las normas de disciplina que se establezcan en cada uno de los Cuerpos de Seguridad. Sólo la falta grave a estos principios o normas dará lugar a la remoción;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-IV. Actuar con probidad y honradez, durante la prestación del servicio;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-V. Portar el arma de cargo exclusivamente durante la prestación del servicio;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-VI. Actuar con atención y cuidado en el desempeño de sus funciones y no poner en peligro a los particulares a causa de imprudencia, descuido, negligencia, o abandono del servicio;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-VII. Desempeñar sus funciones con eficiencia y no acudir en estado de ebriedad, o bajo el influjo de sustancias psicotrópicas o estupefacientes, ni consumirlas durante la prestación del servicio o en las instalaciones de la institución de su adscripción;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-VIII. Obedecer las órdenes de sus superiores, salvo que exista justificación legal para desacatarlas;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-IX. Guardar la confidencialidad de los asuntos secretos o reservados, de los que tenga conocimiento;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-X. Abstenerse de presentar documentación alterada;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-XI. Tratar con respeto y dignidad a sus subalternos y no aplicar en forma dolosa o reiterada correctivos disciplinarios notoriamente injustificados;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-XII. Otorgar y garantizar a sus subalternos el goce de las prestaciones a que todo policía tiene derecho sin solicitar a cambio dinero o cualquier otro tipo de dádivas;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-XIII. Usar armamento y equipo autorizado por las autoridades competentes,
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-XIV. Acudir a la realización de pruebas médicas o de laboratorio, para evaluar su condición física o detectar consumo de drogas;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-XV. Aprobar los exámenes médicos; físicos, de personalidad o de no adicción o uso de substancias psicotrópicas, enervantes, depresivas, estupefacientes y otras similares.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
-
-Los elementos que incumplan con cualquiera de estos requisitos, una vez que se cumpla con el procedimiento que se establece en el Artículo 96 de esta Ley, serán removidos de su cargo, sin que proceda la suspensión del acto, ni la reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la remoción y sólo tendrán derecho, en su caso, a una indemnización.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
-
-Tratándose de remoción injustificada, los elementos tendrán derecho a recibir su indemnización que tomará como bases para su determinación, la cantidad que percibía en el momento de la remoción y los años de servicio prestados, independientemente de las demás prestaciones a que tuviere derecho, conforme a las normas reglamentarias respectivas.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
-
-El cambio de mandos superiores o de autoridades de elección popular, no será causa, bajo ninguna circunstancia, de remoción para ningún elemento de seguridad pública.
-
-Los Cuerpos de Seguridad elaborarán un registro de los elementos que hayan sido destituidos, especificando además la causa de la destitución.
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 ###### ARTÍCULO 94.
 
-En cada Cuerpo de Seguridad Pública habrá un Consejo de Honor y Justicia, su integración y operación será conforme al reglamento que la autoridad correspondiente dicte. Como órgano colegiado será competente para:
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-I. Conocer, proponer y resolver sobre las infracciones en que incurran los elementos policiales a los principios de actuación previstos en la presente ley, así como las normas disciplinarias de cada uno de los Cuerpos de Seguridad;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-II. Resolver sobre la suspensión temporal o remoción de los elementos;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
-
-III. Otorgar condecoraciones y determinar, con arreglo a la disponibilidad presupuestal, estímulos y recompensas;
-
-IV. Conocer y resolver los recursos de rectificación.
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 ###### ARTÍCULO 95.
 
-El Consejo de Honor y Justicia velará por la honorabilidad y reputación de los Cuerpos de Seguridad y combatirá con energía las conductas lesivas para la comunidad o la corporación, para tal efecto gozará de las más amplias facultades para examinar los expedientes u hojas de servicio a los agentes y para practicar las diligencias que le permitan allegarse de elementos necesarios para dictar su resolución.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 ###### ARTÍCULO 96.
 
-En todo asunto que deba conocer el Consejo de Honor y Justicia, se abrirá un expediente con las constancias que existan sobre el particular y se sujetará al siguiente procedimiento:
-
-I. Se hará saber al elemento sujeto al procedimiento, la naturaleza y causa del mismo, a fin de que conozca los hechos que se le imputan y pueda defenderse por sí o por persona digna de su confianza o, en su defecto, se le nombrará un defensor de oficio, concediéndole diez días hábiles para que ofrezca las pruebas pertinentes, señalándose lugar, día y hora, para la celebración de la audiencia de pruebas y alegatos. Serán admisibles toda clase de pruebas, excepto la confesión de la autoridad y las que fueren en contra del derecho, la moral o las buenas costumbres;
-
-II. En dicha audiencia se desahogarán las pruebas ofrecidas y el interesado podrá presentar en forma verbal o por escrito los alegatos que a su derecho convengan. El Consejo dictará su resolución debidamente fundada y motivada, dentro de los diez días hábiles siguientes y la notificará personalmente al interesado;
-
-III. La resolución tomará en consideración la falta cometida, la jerarquía y los antecedentes del elemento sujeto a procedimiento, así como las pruebas desahogadas; y
-
-IV. De todo lo actuado, se levantará constancia por escrito.
-
-En lo conducente en la substanciación de este procedimiento, se aplicará el reglamento del cuerpo de seguridad pública de que se trate y de forma supletoria el Código de Procedimientos Civiles para el Estado de Baja California.
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 ###### ARTÍCULO 97.
 
 (DEROGADO, P.O. 29 DE JUNIO DE 2001)
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ENERO DE 2004)</small>
+
 ###### ARTÍCULO 98.
 
-En contra de las resoluciones del Consejo de Honor y Justicia, se podrá interponer el recurso de revisión ante el superior jerárquico, Síndico Municipal, Procurador General de Justicia del Estado o Secretario, según sea el caso y la naturaleza del cuerpo de seguridad en el que el recurrente labora, dentro de los cinco días hábiles siguientes a la notificación de la resolución.
-
-En el escrito correspondiente, el recurrente expresará los agravios que estime pertinentes y aportará las pruebas que procedan.
-
-Interpuesto el recurso de revisión dentro del plazo señalado, la autoridad que lo recibió lo resolverá dentro de treinta días hábiles siguientes. Las resoluciones, se agregarán al expediente u hoja de servicio correspondiente.
+(DEROGADO, P.O. 16 DE ENERO DE 2004)
 
 ARTÍCULOS TRANSITORIOS:
 
@@ -1248,3 +1086,13 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Una vez que los actuales Consejeros Ciudadanos representantes de cada uno de los cabildos de los Municipios del Estado hayan terminado con su encargo, cualquiera que sea la causa de su separación, los Presidentes de los Comités respectivos, asumirán tal calidad ante el Consejo.
 
 TERCERO.- Los Ayuntamientos en un término no mayor de treinta días posteriores a la entrada en vigor de la presente reforma, deberán de realizar las adecuaciones necesarias a sus Reglamentos.
+
+P.O. 16 DE ENERO DE 2004.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga el Reglamento del Consejo de Honor y Justicia de la Procuraduría General de Justicia del Estado, publicado con fecha 26 de marzo de 1999 en el Periódico Oficial del Estado.
+
+TERCERO.- Las atribuciones que le fueron concedidas al Consejo de Honor y Justicia dentro de esta Ley, se entenderán otorgadas ahora a las Contralorías Internas de cada una de las Instituciones Policiales.
+
+CUARTO.- Los procedimientos que se encuentren pendientes de resolución antes de la entrada en vigor de estas reformas, se sustanciarán conforme a las disposiciones que se encontraban vigentes al momento del inicio del procedimiento.
