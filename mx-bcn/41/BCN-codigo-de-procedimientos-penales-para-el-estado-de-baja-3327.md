@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1995-10-20"
+last_updated: "1997-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1997.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -963,7 +963,31 @@ Cuando se trate de delitos que afecten la vida o la integridad corporal, el mont
 
 II.- Que caucione el cumplimiento de las obligaciones derivadas del procedimiento, previstas en el Artículo 129 de este mismo Código. La cantidad que se fije para garantizar la buena conducta procesal deberá ser asequible para el inculpado y;
 
-III.- Que no se trate de alguno de los delitos calificados como graves por el artículo 123 de esta ley.
+III.- Que no se trate de alguno de los delitos calificados como graves por el artículo 123 de esta ley;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 1997)</small>
+
+IV.- Que en caso de delitos no graves, no haya sido condenado por delito calificado como grave por esta Ley, en un período de cinco años, contados éstos a partir del cumplimiento de la condena o desde la fecha del indulto;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 1997)</small>
+
+V.- Que el Ministerio Público no haya aportado elementos para establecer que la libertad del inculpado representa por sus antecedentes penales o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 1997)</small>
+
+VI.- Que no tenga antecedentes por la comisión de dos o más delitos no graves de carácter doloso;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 1997)</small>
+
+VII.- Que no existan hechos o amenazas ciertas, que permitan fundadamente establecer que el inculpado puede causar un daño al ofendido o a la sociedad, y
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 1997)</small>
+
+VIII.- Que no sea reincidente en los términos del Artículo 72 del Código Penal.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1997)</small>
+
+No se considera como antecedentes para negar la libertad caucional, los delitos no graves de carácter culposo o imprudencial.
 
 Cuando se solicite la libertad caucional, el juzgador o el ministerio público en su caso, deberá resolver de plano lo conducente. Si se negare la libertad caucional, podrá solicitarse de nuevo y concederse por causas supervinientes.
 
@@ -1985,7 +2009,7 @@ III.- Cuando se demuestre que el indiciado no tuvo intervención en el hecho que
 
 IV.- Cuando de la averiguación o del proceso se desprenda plenamente que el inculpado actuó en circunstancias que excluyan su responsabilidad; y
 
-V.- Cuando se haya extinguido la acción penal por cualquiera de las causas previstas en este Código.
+V.- Cuando se haya extinguido la acción penal por cualquiera de la causas previstas en este Código.
 
 ###### Artículo 264.
 
@@ -3224,3 +3248,7 @@ Deróguese todo aquello que se oponga al contenido del presente Decreto de Refor
 ###### ARTICULO CUARTO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ENERO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
