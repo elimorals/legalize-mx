@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-rastros-de-san-nicolas-de-los-garza-nuevo-leon-25
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-02-10"
-last_updated: "1993-02-10"
+last_updated: "2002-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE RASTROS DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de febrero de 1993.
 
@@ -39,9 +39,11 @@ REGLAMENTO DE RASTROS DE SAN NICOLAS DE LOS GARZA, N.L.
 
 El presente Reglamento se expide con fundamento en el Artículo 115 fracciones II y III de la Constitución Política de los Estados Unidos Mexicanos, 131 de la Constitución Política del Estado de Nuevo León y 160, 161 y 162 de la Ley Orgánica de la Administración Pública Municipal del Estado, y tiene por objeto, normar la organización y funcionamiento de los servicios que presten los rastros de semovientes, que operen dentro del Municipio de San Nicolás de los Garza, N.L.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 2.
 
-La prestación de los servicios que proporcionen los rastros, será administrada por la Presidencia Municipal, a través de la Dirección de Rastros, dependiente de la Secretaría de Servicios Primarios. Podrá también autorizarse concesión para prestar este servicio siguiendo para ello el procedimiento que establece la Ley.
+La prestación de los servicios que proporcionen los rastros, será administrada por la Presidencia Municipal, a través de la Dirección de Rastros, dependiente de la Secretaría de Administración. Podrá también autorizarse concesión para prestar este servicio siguiendo para ello el procedimiento que establece la Ley.
 
 ###### ARTICULO 3.
 
@@ -327,9 +329,11 @@ La admisión del recurso de inconformidad, suspenderá la ejecución de la sanci
 
 En la medida que se modifiquen las condiciones socio-económicas del Municipio, en virtud de su crecimiento demográfico, social y desarrollo de actividades productivas, y demás aspectos de la vida comunitaria, el presente Reglamento podrá ser modifictado (sic) o actualizado, tomando en cuenta la opinión de la propia comunidad.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 47.
 
-Para lograr el propósito anterior, la Administración Municipal, a través de la Secretaría de Relaciones Públicas, recibirá cualquier sugerencia, ponencia o queja que presente la comunidad en relación con el contenido normativo del presente Reglamento, a fin de que en las sesiones ordinarias de Cabildo, el C. Presidente Municipal dé cuenta de una síntesis de tales propuestas, para que dicho cuerpo colegiado tome la decisión correspondiente. Lo anterior sin perjuicio del derecho que tienen las partes para acudir a denunciar las violaciones de las bases generales contenidas en el artículo 166 de las (sic) Ley Orgánica de la Administración Pública Municipal, al Congreso de Estado.
+Para lograr el propósito anterior, la Administración Municipal, a través de la Secretaría de (sic) R. Ayuntamiento, recibirá cualquier sugerencia, ponencia o queja que presente la comunidad en relación con el contenido normativo del presente Reglamento, a fin de que en las sesiones ordinarias de Cabildo, el C. Presidente Municipal dé cuenta de una síntesis de tales propuestas, para que dicho cuerpo colegiado tome la decisión correspondiente. Lo anterior sin perjuicio del derecho que tienen las partes para acudir a denunciar las violaciones de las bases generales contenidas en el artículo 166 de la Ley Orgánica de la Administración Pública Municipal, al Congreso de Estado.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -337,7 +341,7 @@ PRIMERO: El presente Reglamento entrará en vigor al día siguiente de su public
 
 SEGUNDO: Se derogán todas las disposiciones Municipales que se opongan a lo estblecido (sic) en el presente Reglamento.
 
-TERCERO: Difúndase el contenido de los principales ordenamientos de este Reglamento, a través de los medios masivos de comunicación.
+TERCERO: Difúndase el contenido de los principales ordenamientos (sic) de este Reglamento, a través de los medios masivos de comunicación.
 
 Es dado en el Salón de Sesiones del R. Ayuntamiento de San Nicolás de los Garza, Nuevo León a los 12 días del mes de Noviembre de mil novecientos noventa y dos.
 
@@ -350,3 +354,9 @@ C. ING. EDUARDO ARIAS APARICIO
 SECRETARIO DEL R. AYUNTAMIENTO
 
 Por lo tanto, envíese al Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno del Estado, de quien depende, para su promulgación y publicación en dicho órgano.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE JULIO DE 2002.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
