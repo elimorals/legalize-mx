@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-51-del-estatuto-de-los-trabajadores-al-servicio-1473
 country: "mx"
 rank: "ley"
 publication_date: "1976-04-21"
-last_updated: "1981-09-16"
+last_updated: "1989-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY NUMERO 51: ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 1981.
+> <small>N. DE E. LA PRESENTE LEY FUE DEROGADA PARCIALMENTE POR LO QUE HACE A LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA CENTRALIZADA Y PARAESTATAL, DEL PODER LEGISLATIVO Y DEL PODER JUDICIAL, SUBSISTIENDO CON PLENA VIGENCIA ENTRATANDOSE DE SERVIDORES PUBLICOS MUNICIPALES, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO NUMERO 248 PUBLICADA EN EL PERIODICO OFICIAL EL 6 DE ENERO DE 1989.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1989.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 21 de abril de 1976.
 
@@ -846,3 +848,21 @@ Se reforma el articulo 6o. del Estatuto de los Trabajadores al Servicio del Esta
 ###### ARTICULO SEGUNDO.
 
 Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ENERO DE 1989.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor treinta días después de que se publique en el Periódico Oficial.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga la Ley número 51 del Estatuto de los Trabajadores al Servicio del Estado, de los Municipios y de los Organismos Públicos Coordinados y Descentralizados del Estado de Guerrero de fecha 21 de abril de 1976, por lo que hace a los servidores públicos de la administración pública centralizada y paraestatal, del Poder Legislativo y del Poder Judicial, subsistiendo con plena vigencia entratándose de servidores públicos municipales en tanto se expide un cuerpo legal para éstos.
+
+###### ARTICULO TERCERO.
+
+El Tribunal de Conciliación y Arbitraje a que se refiere la presente Ley expedirá un reglamento que regule y adecúe su organización y funciones en los términos del presente ordenamiento.
+
+###### ARTICULO CUARTO.
+
+Los Convenios, acuerdos, reglamentos, prerrogativas y en general los derechos que estén establecidos a favor de los trabajadores, superiores a los que esta Ley les concede, continuarán surtiendo sus efectos en todo aquello que les beneficie.
