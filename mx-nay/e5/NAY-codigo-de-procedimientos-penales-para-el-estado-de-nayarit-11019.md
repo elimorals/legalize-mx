@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "1977-12-24"
+last_updated: "1988-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 1988.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -81,7 +81,7 @@ El Ministerio Público cuidará de que se cumplan debidamente las sentencias jud
 
 ## TITULO PRIMERO. REGLAS GENERALES PARA EL PROCEDIMIENTO PENAL
 
-### CAPITULO I. COMPETENCIA
+### CAPITULO II. FORMALIDADES
 
 ###### ARTICULO 5o.
 
@@ -125,7 +125,7 @@ Cuando los detenidos fueren reclamados por autoridades de dos o más partidos ju
 
 Cuando los detenidos o los inculpados sean reclamados por dos o más Juzgados del Estado, el tribunal de competencia resolverá lo procedente.
 
-### CAPITULO II. FORMALIDADES
+### CAPITULO I. COMPETENCIA
 
 ###### ARTICULO 12.
 
@@ -259,33 +259,37 @@ Los tribunales deben dictar de oficio los trámites y providencias encaminados a
 
 ### CAPITULO V. CORRECCIONES DISCIPLINARIAS Y MEDIOS DE APREMIO
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 37.
 
-Son correcciones disciplinarias:
+Son Correcciones Disciplinarias:
 
 I.- Apercibimiento;
 
-II.- Multa de veinte a quinientos pesos;
+II.- Multa hasta por cinco días de salario mínimo, vigente en el momento y lugar en que se cometa la falta que amerite corrección, tratándose de jornaleros, obreros y trabajadores con ingreso de salario mínimo, la multa no deberá exceder de un día de salario;
 
-III.- Arresto hasta de quince días; y
+III.- Arresto hasta de treinta y seis horas; y
 
 IV.- Suspensión hasta por un mes.
 
-La suspensión solo se podrá aplicar a funcionarios o a empleados judiciales.
+La suspensión solo se podrá aplicar a servidores o a empleados judiciales.
 
 ###### ARTICULO 38.
 
 Contra cualquiera providencia en que se imponga alguna corrección disciplinaria, se oirá al interesado, si lo solicita, dentro de las veinticuatro horas siguientes a la en que tenga conocimiento de ella.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 39.
 
-Los magistrados y jueces, podrán emplear para hacer cumplir sus determinaciones los siguientes medios de apremio:
+El Ministerio Público en la averiguación previa y los tribunales, podrán emplear para hacer cumplir sus determinaciones los siguientes medios de apremio:
 
-I.- Multa de veinte a quinientos pesos;
+I.- Multa hasta de tres días de salario mínimo vigente en el momento y lugar en que se realizó la conducta que motivó el medio de apremio. Tratándose de jornaleros, obreros y trabajadores con ingreso de salario mínimo, la multa no deberá exceder de un día de salario;
 
-II.- Auxilio de la fuerza pública; y,
+II.- Auxilio de la fuerza pública; y
 
-III.- Arresto hasta de quince horas.
+III.- Arresto hasta de treinta y seis horas.
 
 ### CAPITULO VI. REQUISITORIAS Y EXHORTOS
 
@@ -619,19 +623,33 @@ Las notificaciones hechas contra lo dispuesto en este Capítulo serán nulas, ex
 
 ### CAPITULO I. INICIACION DEL PROCEDIMIENTO
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
+
 ## TITULO SEGUNDO. AVERIGUACION PREVIA
 
 ### CAPITULO II. REGLAS ESPECIALES PARA LA PRACTICA DE DILIGENCIAS Y LEVANTAMIENTO DE ACTAS DE POLICIA JUDICIAL
 
 ###### ARTICULO 103.
 
-Los funcionarios y agentes de policía judicial están obligados a proceder de oficio a la investigación de los delitos del orden común de que tengan noticia, excepto en los casos siguientes:
+Los agentes y funcionarios de la Policía Judicial están obligados a proceder a la aprehensión del delincuente en los casos de flagrante delito, evitando que se sustraigan a la acción de la justicia, poniéndolos a disposición del Ministerio Público o de autoridad competente sin pérdida de tiempo.
 
-I.- Cuando se trate de delitos que solamente deban perseguirse mediante querella de parte legítima, en los casos expresamente señalados por la ley; y,
+Los Agentes del Ministerio Público están obligados a proceder de oficio a la investigación de los delitos del orden común de que tengan noticia; la averiguación previa no podrá iniciarse de oficio en los casos siguientes:
 
-II.- Cuando la ley exija algún requisito previo, si éste no se ha llenado.
+I.- Cuando se trate de delitos en los que solo se puede proceder por querella, si no se ha presentado ésta; y
+
+II.- Cuando la Ley exija algún requisito previo y éste no se ha llenado.
 
 Si el que inicia una averiguación no tiene a su cargo la función de proseguirla, dará inmediata cuenta al que corresponda legalmente practicarla.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 1988)</small>
+
+ARTICULO 103 BIS.- Los delitos imprudenciales cometidos con motivo del tránsito de vehículos, se perseguirán por querella, siempre y cuando el conductor responsable no se encontrare en estado de ebriedad o bajo los efectos de drogas enervantes o estupefacientes y no hubiere dejado abandonada a la víctima, en los siguientes casos:
+
+I.- Cuando se produzcan únicamente daños, sea cual fuere su monto;
+
+II.- Cuando se produzcan únicamente lesiones de las comprendidas en los Artículos 306 y 307 del Código Penal; y
+
+III.- Cuando se produzcan daños y lesiones de los mencionados en las fracciones I y II de este Artículo.
 
 ###### ARTICULO 104.
 
@@ -674,6 +692,8 @@ En los casos del artículo anterior se requerirá a quien haya exhibido el docum
 Este artículo se aplicará también en lo conducente, cuando se tache de falso a un testigo.
 
 ### CAPITULO III. CONSIGNACION ANTE LOS TRIBUNALES
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
 
 ###### ARTICULO 112.
 
@@ -729,15 +749,17 @@ Contra la resolución del Procurador no cabe recurso alguno, pero puede ser moti
 
 ###### ARTICULO 123.
 
-Tan luego como aparezca de la averiguación previa que se han llenado los requisitos que exige el artículo 16 de la Constitución Federal para que pueda procederse a la detención de una persona, se ejercitará la acción penal señalando los hechos delictuosos que la motiven.
+Tan luego como aparezca de la averiguación previa que se ha comprobado el cuerpo del delito y la probable responsabilidad del indiciado el Ministerio Público ejercitará acción penal ante los tribunales; para el libramiento de la orden de aprehensión, se estará a lo previsto en el Artículo 16 Constitucional y 158 del Presente Código.
 
-No será necesario que se llenen los requisitos que exige el precepto constitucional citado, cuando el delito no merezca pena corporal o el Ministerio Público, estime conveniente ejercitar desde luego la acción, si la importancia del caso lo amerita, y siempre que haya acuerdo expreso del Procurador de Justicia.
-
-También hará consignación el Ministerio Público ante los tribunales, siempre que de la averiguación previa resulte necesaria la práctica de un cateo.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
 
 ###### ARTICULO 124.
 
-Al recibir el Ministerio Público diligencias de policía judicial, si hubiere detenidos y la detención fuere justificada, hará inmediatamente la consignación a los tribunales. Si fuere injustificada, ordenará que los detenidos queden en libertad.
+Tan pronto como el Ministerio Público reciba actuaciones de Policía Judicial, en donde hubiere detenido, ordenará de inmediato se practiquen todas aquellas diligencias de averiguación previa que permitan el esclarecimiento de los hechos para que esté en condiciones de determinar si procede o no la consignación.
+
+Desde el momento en que ocurra la detención, el Ministerio Publico hará saber al detenido la imputación que se le hace y el derecho que tiene para designar persona que lo defienda, dejando constancia de esta notificación en las diligencias.
+
+Durante la averiguación previa el Ministerio Público recibirá los elementos de convicción que aporten el detenido o su defensor, que permitan el esclarecimiento de los hechos, y que no obstaculicen en ningún caso la rápida integración de la averiguación previa correspondiente.
 
 ## TITULO TERCERO
 
@@ -759,15 +781,19 @@ V.- Pedir la aplicación de las sanciones respectivas; y,
 
 VI.- En general hacer todas las promociones que sean conducentes a la tramitación regular de los procesos.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 126.
 
 El Ministerio Público no ejercitará la acción penal:
 
 I.- Cuando los hechos de que conozca, no sean constitutivos de delito;
 
-II.- Cuando, aún pudiendo serlo, resulte imposible la prueba de la existencia de los hechos; y,
+II.- Cuando, aún pudiendo serlo, resulte imposible la prueba de la existencia de los hechos;
 
-III.- Cuando esté extinguida legalmente.
+III.- Cuando esté extinguida legalmente; y
+
+IV.- Cuando de las diligencias practicadas se desprenda plenamente que el inculpado actuó en circunstancias excluyentes de incriminación.
 
 ###### ARTICULO 127.
 
@@ -781,9 +807,11 @@ II.- Cuando durante el procedimiento judicial aparezca plenamente comprobado que
 
 Las resoluciones que se dicten en los casos a que se refieren los dos artículos anteriores, producirán el efecto de impedir definitivamente el ejercicio de la acción penal respecto de los hechos que las motiven.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 129.
 
-La persona ofendida por un delito no es parte en el procedimiento penal; pero podrá proporcionar al Ministerio Público, por si o por apoderado, todos los datos que tenga y que conduzcan a comprobar la existencia del delito, la responsabilidad del inculpado y la procedencia y monto de la reparación del daño, para que, si lo estima pertinente, en ejercicio de la acción penal los ministre a los tribunales.
+La persona ofendida por el delito no es parte en el proceso penal, pero podrá coadyuvar con el Ministerio Público, proporcionando al juzgador por conducto de éste o directamente, todos los elementos que tenga y que conduzcan a comprobar la procedencia y monto de la reparación del daño y perjuicio, o ambos.
 
 ## TITULO CUARTO. DISPOSICIONES COMUNES A LA AVERIGUACION PREVIA, AL PERIODO CONSTITUCIONAL Y A LA INSTRUCCION
 
@@ -1023,9 +1051,13 @@ Tanto la defensa como el Agente del Ministerio Público, a quien se citará para
 
 En los casos en que el delito, por sancionarse con pena alternativa o no corporal, no dé lugar a detención, a pedimento del Ministerio Público se librará orden de comparecencia en contra del inculpado para que rinda su preparatoria, siempre que existan elementos que permitan presumir la existencia del delito y la responsabilidad del mismo inculpado.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 174.
 
-No pueden ser defensores los que se hallen presos ni los que estén procesados. Tampoco podrán serlo, los que hayan sido condenados por alguno de los delitos señalados en el Capítulo II, Título Noveno del Libro Segundo del Código Penal, ni los ausentes que, por el lugar en que se encuentren, no puedan acudir ante el tribunal dentro de las veinticuatro horas en que debe hacerse saber su nombramiento a todo defensor.
+No pueden ser defensores los que se hallen presos ni los que estén procesados, tampoco podrán serlo los que hayan sido condenados por alguno de los delitos señalados en los Artículos 229 y 230 del Código Penal, ni los ausentes, que por el lugar en que se encuentren, no pueden acudir ante el tribunal dentro de las veinticuatro horas en que debe hacerse saber su nombramiento a todo defensor.
+
+Si el inculpado designare a varios defensores, éste deberá nombrar en el mismo acto al representante común, si no lo hiciere se tendrá como tal al que aparezca nombrado en primer lugar.
 
 ### CAPITULO I. REGLAS GENERALES DE LA INSTRUCCION
 
@@ -1049,9 +1081,13 @@ Cuando el delito cuya existencia se haya comprobado no merezca sanción privativ
 
 El auto de formal prisión o el de sujeción a proceso, se dictarán por el delito que aparezca comprobado, aún cuando con ello se cambie la apreciación legal que de los hechos se haya expresado en promociones o resoluciones anteriores.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 178.
 
-El auto de formal prisión se comunicará al titular del establecimiento donde se encuentre el detenido, por medio de copia autorizada. Este auto y el de sujeción a proceso, se comunicarán en la misma forma al superior jerárquico del procesado, cuando éste fuere militar, empleado o funcionario público.
+El auto de formal prisión se notificará al Jefe o Responsable del establecimiento donde se encuentre detenido el inculpado.
+
+Si este funcionario no recibe copia autorizada de la mencionada resolución dentro de las setenta y dos horas siguientes al acto en que se puso al inculpado a disposición de su Juez, dará a conocer por escrito esta situación al citado Juez y al Ministerio Público en el momento mismo de concluir el plazo, y si no obstante no recibe la copia autorizada del auto de formal prisión dentro de las tres horas siguientes, pondrá en libertad al inculpado. De todo ello se dejará constancias en autos.
 
 ###### ARTICULO 179.
 
@@ -1103,9 +1139,23 @@ Cuando el tribunal considere agotada la averiguación, mandará poner el proceso
 
 Transcurridos o renunciados los plazos a que se refiere este artículo, o si no se hubiere promovido prueba, el tribunal, de oficio, declarará cerrada la instrucción.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 189.
 
-En los casos de delitos cuya sanción no exceda de seis meses de prisión o la aplicable no sea privativa de libertad, después de dictado el auto de formal prisión o el de sujeción a proceso, se procurará agotar la averiguación dentro de dos meses. Una vez que el tribunal la estime agotada, se seguirán los trámites establecidos en el artículo anterior.
+En el auto de formal prisión o de sujeción a proceso, según corresponda, el Juez de oficio, salvo que el acusado o su defensor optaren expresamente por el procedimiento ordinario, resolverá la apertura del sumario, en el que se agotará la instrucción dentro del plazo de treinta días, cuando la punibilidad no exceda de cinco años, su término medio aritmético y se esté en cualquiera de los siguientes casos:
+
+I. Que se trate de flagrante delito;
+
+II. Que exista confesión vertida ante la Autoridad Judicial o ratificada ante ésta la rendida legalmente con anterioridad;
+
+III. En cualquier otro delito cuya pena aplicable, no exceda de cinco años en su término medio aritmético, o ésta sea alternativa o no privativa de libertad.
+
+Una vez que el juzgador estime agotada la averiguación, cerrará la instrucción y pondrá los autos a disposición de las partes para que formulen conclusiones en un término común de cinco días y citará a una audiencia que deberá celebrarse inmediatamente después de este término; la audiencia se iniciará haciendo relación de las conclusiones o presentando éstas en el acto y a continuación se dictará sentencia.
+
+Si las conclusiones son inacusatorias, contrarias o incongruentes a las constancias de autos, se procederá conforme a lo dispuesto por el Artículo 285.
+
+Si a la audiencia no compareciera el representante social, ésta se diferirá para reanudarse dentro de las 48 horas siguientes, dándole vista al Procurador General de Justicia para que comparezca a la vista o resuelva lo que a su representación convenga; la inasistencia del Agente del Ministerio Público adscrito al Juzgado a la reanudación, será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
 
 ## TITULO SEPTIMO. PRUEBA
 
@@ -1485,17 +1535,21 @@ Los documentos redactados en idioma extranjero se presentarán originales acompa
 
 Los jueces y tribunales apreciarán las pruebas, con sujeción a las reglas de este capítulo.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 264.
 
 La confesión hará prueba plena cuando concurran en ella los siguientes requisitos:
 
 I.- Que sea hecha por persona mayor de dieciséis años, con pleno conocimiento, sin coacción ni violencia;
 
-II.- Que se produzca ante el funcionario que deba practicar la averiguación previa o ante el tribunal que conozca de la causa;
+II.- Que sea hecha ante el Ministerio Público o el Tribunal que conozca del asunto;
 
 III.- Que sea de hecho propio y esté comprobada la existencia del delito; y,
 
 IV.- Que no existan datos que la desvirtúen o hagan inverosímil.
+
+La falta de cualquiera de estos requisitos solo producirá valor indiciario.
 
 ###### ARTICULO 265.
 
@@ -1623,9 +1677,11 @@ Cuando los acusados fueren varios, el término será común para todos.
 
 Si al concluirse el término concedido al acusado y a su defensor, éstos no hubieren presentado conclusiones, se tendrán por formuladas las de inculpabilidad.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 289.
 
-Transcurrido el término señalado en el artículo 282, sin que el Ministerio Público formule conclusiones, el juez señalará nuevo plazo que no excederá de tres días, para el mismo efecto; en caso de incumplimiento se dará cuenta al Procurador General de Justicia, para los efectos que procedieren.
+Transcurrido el término de cinco días que establece el Artículo 282, sin que las conclusiones fueren presentadas, el juez de oficio o a solicitud de parte prevendrá al Agente del Ministerio Público para que las formule dentro de un término suplementario de otros cinco días y así lo hará saber por oficio urgente al Procurador General de Justicia, quien tomará las providencias necesarias, a fin de que el Agente del Ministerio Público omiso cumpla con tal determinación judicial; si a pesar de ello no se formulan en tiempo las conclusiones, el agente del Agente del Ministerio Público será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
 
 ### CAPITULO III. PROCEDIMIENTO ANTE LOS JUECES MENORES
 
@@ -1721,27 +1777,33 @@ La segunda instancia solamente se abrirá a petición de parte legítima, para r
 
 Tienen derecho de apelar: el Ministerio Público, el inculpado o los defensores, y la parte civil en su caso.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 308.
 
-Son apelables en ambos efectos, las sentencias definitivas pronunciadas por los jueces de Primera Instancia y Menores, salvo los casos expresamente señalados por la Ley.
+Son apelables en ambos efectos solamente las sentencias definitivas en que se impugna alguna sanción.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
 
 ###### ARTICULO 309.
 
 Son apelables en efecto devolutivo:
 
-I.- Los autos en que se decrete el sobreseimiento en los casos de las fracciones III a V y VII del artículo 275, y aquellas en que se niegue el sobreseimiento;
+I.- Las sentencias definitivas que absuelvan al acusado;
 
-II.- Los autos en que se niegue o conceda la suspensión del procedimiento judicial; los que concedan o nieguen la acumulación de autos, y los que decreten la separación de autos;'
+II.- Los autos en que se decrete el sobreseimiento en los casos de las fracciones III, V y VII del Artículo 275, y aquellas en que se niegue el sobreseimiento;
 
-III.- Los autos, de formal prisión, los de sujeción a proceso, y los de falta de elementos para procesar;
+III.- Los autos en que se niegue o conceda la suspensión del procedimiento judicial; los que concedan o nieguen la acumulación de autos, y los que decreten la separación de autos;'
 
-IV.- Los autos en que se conceda o niegue la libertad provisional bajo caución, y los que resuelvan algún incidente no especificado;
+IV.- Los autos, de formal prisión, los de sujeción a proceso y los de falta de elementos para procesar;
 
-V.- El auto en que se niegue la orden de aprehensión y el que niegue la citación para preparatoria. Estos autos sólo son apelables para el Ministerio Público.
+V.- Los autos en que se conceda o niegue la libertad provisional bajo caución, y los que resuelvan algún incidente no especificado;
 
-VI.- Los autos en que un tribunal se niegue a declarar su incompetencia por declinatoria, o a librar el oficio inhibitorio a que se refiere el artículo 369;
+VI.- Los autos en que se niegue la orden de aprehensión o de comparecencia solo son apelables para el Ministerio Público;
 
-VIII.- Los autos que nieguen el aseguramiento o la restitución de la cosa o la entrega de los bienes, en los casos a que se refiere el artículo 34 de este Código; y,
+VII.- Los autos en que un Tribunal se niegue a declarar su incompetencia por declinatoria, o a librar el oficio inhibitorio a que se refiere el Artículo 369;
+
+VIII.- Los autos que nieguen el aseguramiento o la restitución de la cosa o la entrega de los bienes, en los casos a que se refiere este código; y
 
 IX.- Las demás, resoluciones que señala la Ley.
 
@@ -1875,13 +1937,15 @@ Si el defensor fuere de oficio, el tribunal deberá, además, dar cuenta al supe
 
 ### CAPITULO I. LIBERTAD PROVISIONAL BAJO CAUCION
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 332.
 
 El recurso de denegada apelación procede cuando ésta se haya negado, o cuando se conceda sólo en el efecto devolutivo, siendo procedente en ambos, aún cuando el motivo de la denegación sea que no se considere como parte al que intenta el recurso.
 
 ###### ARTICULO 333.
 
-El recurso deberá interponerse por escrito ante el Supremo Tribunal de Justicia, dentro de los tres días siguientes al en (sic) se notifique la resolución que niegue la apelación.
+El recurso deberá interponerse por escrito ante el Supremo Tribunal de Justicia, dentro de los tres días siguientes al en se notifique la resolución que niegue la apelación.
 
 Dentro del plazo señalado, el interesado hará del conocimiento al juez que dictó la resolución impugnada, sobre la interposición del recurso, acompañando al efecto copia de la promoción correspondiente.
 
@@ -1911,7 +1975,7 @@ INCIDENTES
 
 ###### ARTICULO 338.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, cuando el término medio aritmético de la sanción privativa de libertad que corresponda al delito imputado, no exceda de cinco años de prisión.
+Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, cuando el término medio aritmético de la pena privativa de libertad que corresponda al delito imputado, no exceda de cinco años de prisión. El Tribunal atenderá, para este efecto, a las modalidades y calificativas del delito cometido. En caso de concurso se atenderá al delito cuya pena sea mayor.
 
 ###### ARTICULO 339.
 
@@ -2053,15 +2117,19 @@ La solicitud del Ministerio Público para que se conceda la libertad por desvane
 
 Cuando el inculpado solamente haya sido declarado sujeto a proceso, se podrá promover el incidente a que se refiere este Capítulo, para que quede sin efecto esa declaración.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 359.
 
-La resolución debidamente ejecutoriada que declare procedente el incidente por desvanecimiento de datos, producirá los mismos efectos que el auto de libertad por falta de méritos, en cuanto deja expedito el derecho del Ministerio Público para que con base en nuevos elementos aportados, solicite nuevamente la aprehensión del inculpado. Podrá asimismo dictarse un nuevo auto de formal prisión, si procediere, salvo lo dispuesto en la Fracción V del artículo 275 de este Código.
+La resolución que declare procedente el incidente de libertad por desvanecimiento de datos que sirvieron para acreditar el cuerpo del delito, tendrá efectos de sentencia absolutoria; en consecuencia deberá declararse el sobreseimiento de la causa.
+
+Si se tratare de incidente de libertad por desvanecimiento de datos que sirvieron para acreditar la presunta responsabilidad del inculpado, queda expedito el derecho del Ministerio Público para que con base en nuevos elementos solicite la reaprehensión del inculpado y podrá dictarse nuevo auto de formal prisión si procediere, salvo lo dispuesto en la fracción V del Artículo 275 de este Código.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
 
 ###### ARTICULO 360.
 
-Es apelable en ambos efectos la resolución que declare procedente la libertad, cuando se funde en el desvanecimiento de los datos que sirvieron para acreditar la presunta responsabilidad del procesado.
-
-El apelable en el efecto devolutivo, la resolución recaída al incidente de libertad, cuando éste se niegue, o se declare procedente con fundamento en haber quedado desvanecidos los datos que sirvieron para demostrar la existencia del cuerpo del delito.
+La resolución que declare procedente la libertad por desvanecimiento de datos que sirvieron para acreditar el cuerpo del delito o la presunta responsabilidad del procesado, será apelable en efecto devolutivo.
 
 #### SECCION SEGUNDA. INCIDENTES DIVERSOS
 
@@ -2447,9 +2515,11 @@ Cuando la cuestión sea de obvia resolución y las partes no solicitaren prueba,
 
 Las cuestiones que, a juicio del juez, no puedan resolverse de plano, o aquellas en que hubiere de recibirse prueba, se substanciarán por cuerda separada y del modo que expresan los artículos siguientes.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1988)</small>
+
 ###### ARTICULO 428.
 
-Hecha la promoción, se dará vista con ella a las partes, para que contesten en el acto de la notificación.
+Hecha la promoción se dará vista con ella a las partes para que contesten en el acto de la notificación, o a más tardar en tres días.
 
 ###### ARTICULO 429.
 
@@ -2810,3 +2880,11 @@ La presente Ley entrará en vigor diez días después de su publicación en el P
 ###### ARTICULO TERCERO.
 
 Se derogan los artículos 64 al 67 del Código Penal del Estado, 445 del Código de Procedimientos Penales para el Estado de Nayarit, y las demás disposiciones que se opongan a la aplicación de este Ordenamiento.
+
+P.O. 22 DE OCTUBRE DE 1988.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días después de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Los procesos que se encuentren actualmente en trámite lo sucesivo se substanciarán conforme a las normas del presente Decreto, salvo en el caso que su aplicación perjudique los beneficios del reo contenidos en el presente Código.
+
+TERCERO.- Se derogan todas Las disposiciones que se opongan al presente Decreto.
