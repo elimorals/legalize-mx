@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ganaderia-del-estado-de-chihuahua-4604"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-16"
-last_updated: "1995-08-16"
+last_updated: "2002-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2002.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 16 de agosto de 1995.
 
@@ -71,9 +71,11 @@ Además, podrán fungir como auxiliares de las Autoridades mencionadas anteriorm
 
 Las Uniones Ganaderas, los Médicos Veterinarios, Ingenieros Zootecnistas y técnicos del ramo en ejercicio de su profesión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2002)</small>
+
 ###### Artículo 5.
 
-Son facultades del Gobernador del Estado:
+Son Facultades del Gobernador del Estado:
 
 I.- Coordinar con el Gobierno Federal la aplicación en el Estado de las normas de fomento y control legal que se dicten en relación con la explotación ganadera;
 
@@ -87,17 +89,37 @@ V.- Promover el mejoramiento de la calidad genética del ganado;
 
 VI.- Promover la conservación y mejoramiento de las tierras de pastoreo;
 
-VII.- Las demás que le confiere esta Ley y sus Reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE SEPTIEMBRE DE 2002)</small>
+
+VII.- Promover la organización de los productores ganaderos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE SEPTIEMBRE DE 2002)</small>
+
+VIII.- Las demás que le confiere esta Ley y su reglamento.
 
 En el ejercicio de sus facultades oirá la opinión de las Autoridades Municipales y de las Uniones Ganaderas.
 
-### CAPITULO III. DE LA MARCA Y PROPIEDAD DEL GANADO
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2002)</small>
+
+### CAPITULO II BIS. DE LA ORGANIZACION DE LOS PRODUCTORES Y DEL USO DE AGOSTADEROS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 6.
 
-La propiedad del ganado se acredita con: el fierro, señal de sangre, tatuaje, identificación electrónica, escritura pública o privada, factura razonada o de acuerdo con las demás reglas del derecho común.
+Conforme a lo dispuesto por la Ley de Organizaciones Ganaderas y su Reglamento, los ganaderos en el Estado tienen plena libertad para organizarse en asociaciones locales, atendiendo en todo momento a la normatividad establecida por dichos ordenamientos.
 
-### CAPITULO IV. DE LOS ANIMALES MOSTRENCOS
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2002)</small>
+
+Artículo 6 bis.- Es obligación de quienes tienen ganado en predios comunales o privados, el manejo adecuado de los agostaderos, debiendo permitir en todo momento su regeneración.
+
+Para los efectos de esta disposición, la Secretaría de Desarrollo Rural del Ejecutivo del Estado, en coordinación con la autoridad federal competente, recomendará a los productores ganaderos sobre el manejo técnico y jurídico de rotación de potreros para el caso de agostaderos particulares, siendo para el caso de los predios de ejidos y comunidades, el establecimiento de lienzos que dividan el agostadero para su uso en forma controlada.
+
+### CAPITULO III. DE LA MARCA Y PROPIEDAD DEL GANADO
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2002)</small>
+
+Artículo 6 ter.- La propiedad del ganado se acredita con: el fierro, señal de sangre, tatuaje, identificación electrónica, escritura pública o privada, factura razonado (sic) de acuerdo con las demás reglas del derecho común.
 
 ###### Artículo 7.
 
@@ -205,7 +227,7 @@ Nadie podrá herrar, señalar o tatuar un animal que ya lo haya sido, sin antes 
 
 En la venta de ganado que presente varios fierros, la autoridad descontará de la factura del vendedor los animales objeto de la operación.
 
-### CAPITULO V. DE LA INSPECCION GANADERA
+### CAPITULO IV. DE LOS ANIMALES MOSTRENCOS
 
 ###### Artículo 31.
 
@@ -267,7 +289,7 @@ En caso de extravío de semovientes, el interesado o quien lo represente, dará 
 
 Cualquier contienda que se suscite con motivo de la aplicación de los artículos de este capítulo, será resuelta por la autoridad competente conforme a los recursos y demás disposiciones legales del Código Municipal para el Estado de Chihuahua.
 
-### CAPITULO VI. DE LOS RASTROS
+### CAPITULO V. DE LA INSPECCION GANADERA
 
 ###### Artículo 46.
 
@@ -359,7 +381,7 @@ Las personas físicas o morales que comercialicen, almacenen o curtan pieles, de
 
 Si el inspector encontrase que la procedencia o la propiedad de alguna o algunas de las pieles no está debidamente comprobada, las separará y ordenará que se pongan en depósito, dando cuenta a la autoridad competente para que realice la investigación correspondiente.
 
-### CAPITULO VII. DEL ABASTO PUBLICO
+### CAPITULO VI. DE LOS RASTROS
 
 ###### Artículo 57.
 
@@ -387,7 +409,7 @@ Artículos (sic) 62.- El administrador del rastro reportará mensualmente a la a
 
 Cuando los animales sean broncos o por cualquier otra circunstancia haya necesidad de sacrificarlos en el campo por emergencia, timpanismo o fracturas irreductibles, siempre y cuando no padezcan alguna enfermedad infecto contagiosa de peligro para la especie humana, podrán ser sacrificados, sangrados y eviscerados sin más requisitos que dar aviso a la autoridad municipal, sin que dicho sacrificio se considere fraudulento. Consumado el sacrificio se deberá presentar a la autoridad municipal, las pieles y las orejas de los animales sacrificados, y la documentación que acredite la propiedad de los mismos.
 
-### CAPITULO VIII. TRANSPORTE Y MOVILIZACIÓN
+### CAPITULO VII. DEL ABASTO PUBLICO
 
 ###### Artículo 64.
 
@@ -409,7 +431,7 @@ Los inspectores de ganadería visitarán los establecimientos donde se expenda c
 
 Queda estrictamente prohibida la venta clandestina de carne y pieles o cueros.
 
-### CAPITULO IX. VIGILANCIA DEL GANADO
+### CAPITULO VIII. TRANSPORTE Y MOVILIZACIÓN
 
 ###### Artículo 69.
 
@@ -479,7 +501,7 @@ Cuando se vaya a efectuar la movilización de ganado desde un municipio en el cu
 
 La conducción de pieles de ganado orejano, o cuya marca se hubiese cortado o alterado de algún modo, dará mérito para dar vista al Ministerio Público para que realice la averiguación previa correspondiente.
 
-### CAPITULO X. DE LA SANIDAD ANIMAL
+### CAPITULO IX. VIGILANCIA DEL GANADO
 
 ###### Artículo 82.
 
@@ -513,7 +535,7 @@ Nadie tendrá derecho a pastar ganado en terrenos ajenos sin la autorización de
 
 Es obligación de los dueños de predios rústicos cercar y mantener los cercos en buen estado.
 
-### CAPITULO XI. DE LAS SANCIONES Y SU APLICACION
+### CAPITULO X. DE LA SANIDAD ANIMAL
 
 ###### Artículo 89.
 
@@ -546,6 +568,8 @@ Queda prohibido introducir ganado al Estado de Chihuahua sin cumplir con las dis
 ###### Artículo 96.
 
 Quien haga aparecer como nacido en el Estado de Chihuahua a ganado proveniente de otra entidad del país, será sancionado en los términos de esta ley.
+
+### CAPITULO XI. DE LAS SANCIONES Y SU APLICACION
 
 ###### Artículo 97.
 
@@ -654,3 +678,9 @@ C.P. FRANCISCO JAVIER BARRIO TERRAZAS
 EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
