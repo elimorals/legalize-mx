@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1984-01-30"
+last_updated: "1984-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE ABRIL DE 1984.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -221,7 +221,9 @@ II. Los que faltaron sin causa justificada a las obligaciones de ciudadano que l
 
 III. Los procesados desde que se dicte el auto de formal prisión hasta que cause ejecutoria la sentencia que los absuelva.
 
-IV. Los funcionarios y empleados públicos procesados por delitos comunes u oficiales, desde que se resuelva haber lugar a formación de causa hasta que se declare ejecutoriada la sentencia que los absuelva o extingan la pena que les fuere impuesta.
+> <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
+
+IV. Los funcionarios y empleados públicos, desde que se resuelva que ha lugar a proceder penalmente en su contra, hasta que se declare ejecutoriada la sentencia que los absuelva o extingan la pena que les fuere impuesta.
 
 V. Los que por sentencia ejecutoriada sean condenados a pena corporal o a suspensión de derechos hasta que la extingan.
 
@@ -675,7 +677,17 @@ XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y 
 
 XX. Para erigirse en Colegio Electoral en los términos de la Fracción XV de este Artículo, y resolver en definitiva las peticiones de nulidad y los recursos que se hubieren presentado y emitir las declaratorias correspondientes.
 
-XXI. Para erigirse en Gran Jurado en los casos establecidos por esta Constitución.
+> <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
+
+XXI. Para nombrar al Diputado Acusador y erigirse en Jurado de Sentencia con el fin de conocer en juicio político de las faltas u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, que cometan los servidores públicos a que alude la Fracción I del Artículo 144 de esta Constitución.
+
+> <small>(ADICIONADA, B.O. 9 DE ABRIL DE 1984)</small>
+
+XXI A. Para declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito, en los términos del Artículo 146 de esta Constitución.
+
+> <small>(ADICIONADA, B.O. 9 DE ABRIL DE 1984)</small>
+
+XXI B. Para conocer y decidir sobre la resolución que dicte la Cámara de Senadores y la declaración de procedencia que emita la Cámara de Diputados del Congreso de la Unión, en los términos de los Artículos 110 y 111 de la Constitución General de la República.
 
 XXII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Egresos del Estado, en vista de los datos que le presente el Ejecutivo.
 
@@ -781,7 +793,13 @@ V. Constituirse en Colegio Electoral y nombrar en los términos de Ley al Ciudad
 
 VI. Recibir durante sus funciones las protestas que deban otorgarse ante el Congreso.
 
-VII. Convocar al Congreso a sesiones extraordinarias para que provea al nombramiento respectivo cuando se trate de cubrir las faltas del Gobernador, igualmente lo hará para que se avoque al conocimiento de los hechos correspondientes, cuando se trate de delitos cometidos por altos Funcionarios del Estado, y en todos aquellos casos que a juicio de la misma Diputación Permanente, sean de gravedad y urgencia.
+> <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
+
+VII. Convocar al Congreso a sesiones extraordinarias para que provea el nombramiento respectivo cuando se trate de cubrir las ausencias del Gobernador.
+
+> <small>(ADICIONADA, B.O. 9 DE ABRIL DE 1984)</small>
+
+VII Bis. Convocar al Congreso a sesiones extraordinarias para que se aboque al conocimiento de los hechos correspondientes, cuando se trate de las faltas u omisiones graves que cometan los servidores públicos a que alude la Fracción I del Artículo 144 de esta Constitución, cuando se trate de los delitos cometidos por los servidores públicos que enumera el primer párrafo del Artículo 146 y, en todos aquellos casos que a juicio de la Diputación Permanente, sean de gravedad y urgencia.
 
 VIII. Dictaminar únicamente los asuntos cuya resolución definitiva sea de su exclusiva competencia.
 
@@ -1034,6 +1052,10 @@ XXXIV. Fomentar la organización de instituciones de utilidad social para infund
 XXXV. Cuidar, de acuerdo con el artículo 130 de la Constitución General, que los ministros de los cultos sean mexicanos por nacimiento.
 
 XXXVI. Turnar al Procurador General de Justicia los asuntos que deban ventilarse ante los tribunales, para que ejercite las atribuciones de su ministerio. Sin embargo, el Ejecutivo podrá nombrar a algún abogado que lo represente en determinado asunto cuando así lo crea conveniente.
+
+> <small>(ADICIONADA, B.O. 9 DE ABRIL DE 1984)</small>
+
+XXXVI Bis. Plantear al Congreso del Estado, los casos de servidores públicos que ameriten la iniciación de un juicio político por las faltas u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho.
 
 XXXVII. Cuidar de que las elecciones se efectúen en el tiempo señalado por las leyes relativas.
 
@@ -1315,9 +1337,9 @@ Los nombramientos de los Magistrados del Supremo Tribunal de Justicia serán hec
 
 En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de la Cámara en el siguiente período ordinario de sesiones. En este período ordinario de sesiones, dentro de los primeros cinco días el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento cesará desde luego en sus funciones de Magistrado provisional y el Gobernador del Estado someterá nuevo nombramiento para su aprobación en los términos señalados.
 
-> <small>(REFORMADO, B.O. 24 DE MARZO DE 1980)</small>
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
-Los Magistrados propietarios y suplentes, en ejercicio, sólo podrán ser privados de sus cargos, por mala conducta o manifiesta ineptitud; en estos casos, para que opere la destitución deberá ser decretada por el Congreso del Estado, por mayoría absoluta de sus miembros, a solicitud del titular del Ejecutivo, atendiendo a los elementos de prueba que se alleguen y otorgando al interesado la oportunidad de exponer su defensa, y en el caso previsto por el artículo 144 de esta Constitución, en relación con la Ley de Responsabilidades respectiva.
+Los Magistrados en ejercicio, sólo podrán ser privados de sus cargos, en los términos del Título Sexto de esta Constitución.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1403,7 +1425,9 @@ XV. Rendir al Congreso y al Ejecutivo los informes que le pidan sobre el ramo ju
 
 XVI. Conocer de las controversias que se susciten entre el Ejecutivo del Estado y los Ayuntamientos.
 
-XVII. Conocer de conformidad con las leyes relativas de los juicios de responsabilidad en delitos oficiales.
+> <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
+
+XVII. Instruir y sentenciar de conformidad con las leyes relativas, en única instancia, los procesos penales que llegaren a iniciarse en contra de los servidores públicos enumerados en el primer párrafo del Artículo 146 de esta Constitución, por los delitos a que aluden los Títulos Séptimo y Octavo del Libro Segundo del Código Penal.
 
 XVIII. Las demás que le confieran o impongan las leyes.
 
@@ -1701,57 +1725,93 @@ Cuando se suspenda o declare desaparecido un Ayuntamiento y no procediere que en
 
 De conformidad con las bases establecidas en la legislación secundaria, los Concejos Municipales serán integrados con vecinos del lugar, y tendrán la misma estructura orgánica, atribuciones y deberes que los Ayuntamientos.
 
+> <small>(REFORMADA SU DENOMINACION, B.O. 9 DE ABRIL DE 1984)</small>
+
 ## TITULO SEXTO.
 
-Responsabilidad de los Empleados y Funcionarios del Estado y de los Municipios.
+Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
 ###### Artículo 143.
 
-Todos los funcionarios y empleados del Estado y de los Municipios serán responsables de los delitos y faltas comunes y oficiales que cometan.
+Se reputará como servidor público para los efectos de este Título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la Administración Pública Estatal o Municipal, en el Poder Legislativo y en el Poder Judicial.
 
-El Gobernador, durante el período de su encargo, sólo podrá ser encausado por traición a la Patria, por violación de esta Ley, ataque de la libertad electoral y delitos graves del orden común.
+Durante el período de su encargo el Gobernador del Estado sólo podrá ser encausado por delitos graves.
 
-> <small>(REFORMADO, B.O. 22 DE ENERO DE 1977)</small>
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
 ###### Artículo 144.
 
-El Gobernador, los Diputados, Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia, Secretario y Subsecretario de Gobierno, y Tesorero Gral. no podrán ser procesados por delitos comunes u oficiales sin declaración previa del Congreso, erigido en Gran Jurado, de haber lugar a formación de causa. Para que el Congreso haga esa declaración se requiere el voto de las dos terceras partes de sus miembros cuando se trate del Gobernador, y por mayoría absoluta respecto de los demás funcionarios. Tratándose de delitos comunes, hecha la declaración indicada, el acusado quedará separado desde luego de su encargo y sujeto a la acción de los tribunales. Tratándose de delitos oficiales, hecha la declaración quedará también separado de su cargo y a disposición del Supremo Tribunal, a fin de que se le instruya el proceso respectivo, el acusado y su defensor y el Procurador General de Justicia serán oídos en los términos de ley.
+El Congreso expedirá la Ley de Responsabilidades de los servidores públicos mencionados en el presente Título y las normas para determinar y sancionar sus actos u omisiones que generen alguno de los siguientes tipos de responsabilidad:
 
-Si la declaración del Congreso fuere en sentido negativo no habrá lugar a procedimiento ulterior, pero tal declaración no será obstáculo para que pueda formularse acusación ante los tribunales cuando el funcionario haya dejado de tener fuero, pues la resolución de Congreso no prejuzga absolutamente sobre los fundamentos de la acusación.
+I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-En los casos de este artículo las resoluciones del Gran Jurado y la declaración de la Cámara son inafectables.
+Sólo podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, el Secretario y Subsecretario de Gobierno, los Secretarios y Subsecretarios de Despacho, el Oficial Mayor, el Tesorero y Subtesorero General del Estado, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Presidentes Municipales, Regidores, Síndicos, Secretarios y Tesoreros de los Ayuntamientos, así como los Directores Generales o sus equivalentes de las empresas de participación estatal o municipal mayoritarias, sociedades y asociaciones asimiladas a éstas, Fideicomisos Públicos y Organismos Descentralizados del Estado y de los Municipios.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Las sanciones consistirán en la destitución del servidor público y, en su caso, la inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+II. Responsabilidad Penal, cuando los servidores públicos cometan delitos de cualquier naturaleza, que serán perseguidos y sancionados en los términos de la Legislación Penal. Tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, las sanciones deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por esta conducta ilícita. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+
+Las leyes penales determinarán los casos y circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+
+III. Responsabilidad Administrativa, exigible a los servidores públicos cuando éstos incurran en actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+
+Las sanciones aplicables a esta forma de responsabilidad, además de las que señalen las leyes, consistirán en suspensión, destitución e inhabilitación del servidor público, así como en sanciones económicas, que deberán establecerse de acuerdo con los beneficios obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones, pero no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
 ###### Artículo 145.
 
-No gozan de fuero constitucional los funcionarios indicados en el Artículo anterior por los delitos oficiales, faltas u omisiones en que incurran en el desempeño de algún empleo, cargo o comisión pública que hayan aceptado durante el período en que conforme a la Ley se disfrute del fuero. Lo mismo sucederá respecto a los delitos comunes que cometan durante el desempeño de dicho empleo, cargo o comisión. Para que la causa pueda iniciarse cuando el funcionario haya vuelto a ejercer sus funciones propias, deberá procederse con arreglo a lo dispuesto en el Artículo anterior.
+Para determinar la responsabilidad política del servidor público y, en su caso, la sanción aplicable, la Comisión del Congreso que determine la Ley, substanciará el procedimiento con audiencia del inculpado y con la intervención de un Diputado Acusador nombrado del seno del propio Congreso.
 
-> <small>(REFORMADO, B.O. 18 DE JUNIO DE 1977)</small>
+El Congreso del Estado erigido en Jurado de Sentencia decidirá, por votación de las dos terceras partes de sus miembros presentes en sesión, sobre la responsabilidad del acusado y aplicará la sanción que corresponda, una vez practicadas las diligencias que garanticen la defensa del mismo.
+
+En el caso de que el Gobernador del Estado, Diputados Locales y Magistrados del Supremo Tribunal de Justicia, sean sometidos a juicio político, en los términos del Artículo 110 de la Constitución General de la República, el Congreso del Estado, una vez que la Cámara de Senadores le haya comunicado la resolución respectiva, procederá conforme a sus atribuciones.
+
+El procedimiento de juicio político, deberá iniciarse durante el tiempo en que el servidor público desempeñe un empleo, cargo o comisión, o dentro del año siguiente al de la conclusión de sus funciones. La (sic) sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
+
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
 ###### Artículo 146.
 
-Para proceder contra los Jueces de Primera Instancia, Presidentes Municipales, Concejales de los Ayuntamientos y Agentes del Ministerio Público, ya se trate de delitos comunes u oficiales, será precisa la previa declaración de haber lugar a formación de causa que hará el Supremo Tribunal de Justicia. Los Jueces Locales y Menores gozarán de la inmunidad que este artículo concede; pero la declaración de haber lugar o formación de causa será hecha por el Juez de Primera Instancia del Ramo Penal respectivo.
+Para proceder penalmente contra el Gobernador, Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia, Secretario y Subsecretario de Gobierno, Secretarios de Despacho, Oficial Mayor, Tesorero General del Estado, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar o no proceder contra el inculpado.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Si la resolución del Congreso fuese negativa, no habrá lugar a procedimiento ulterior; pero podrá formularse acusación ante los Tribunales, cuando el servidor público haya concluído el ejercicio de su encargo, pues la misma no prejuzga sobre los fundamentos de la imputación.
+
+La declaración del Congreso de que ha lugar a proceder contra el inculpado, hará que éste quede separado de su encargo y sujeto a la jurisdicción de las autoridades competentes. Tratándose de los delitos comprendidos en los Títulos Séptimo y Octavo del Libro Segundo del Código Penal, conocerá en única instancia el Supremo Tribunal de Justicia. En los demás delitos, conocerán de los procesos correspondientes los Juzgados de Primera Instancia.
+
+Si el proceso penal culmina con sentencia absolutoria el procesado podrá reasumir su función. Si la sentencia fuere condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+
+Para proceder penalmente contra el Gobernador del Estado, Diputados Locales o Magistrados del Supremo Tribunal de Justicia, en los términos del Artículo 111 de la Constitución General de la República, el Congreso del Estado, al recibir de la Cámara de Diputados del Congreso de la Unión la declaración correspondiente, procedrá (sic) conforme a sus atribuciones.
+
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Legislación Penal.
+
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
 ###### Artículo 147.
 
-La responsabilidad por falta o delito oficial sólo podrá exigirse durante el período en que el funcionario ejerza su cargo y durante un año después.
+Las normas sobre responsabilidades administrativas de los servidores públicos del Estado y de los Municipios, determinarán con claridad las conductas que lesionen la legalidad, honradez, lealtad, imparcialidad y eficiencia en el servicio, así como los procedimientos, las sanciones y las autoridades que deban aplicarlas.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+También señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencias de los actos u omisiones de que se trate. Cuando el hecho fuese grave, la prescripción no será inferior a tres años.
+
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
 ###### Artículo 148.
 
-Para la denuncia de los delitos comunes u oficiales cometidos por funcionarios y demás empleados públicos se concede acción popular.
+Los procedimientos para la aplicación de las sanciones mencionadas en el presente Título, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 
-> <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
+Cualquier ciudadano, bajo su más estricta responsabilidad, y con apoyo en pruebas suficientes, podrá formular denuncias ante el Congreso del Estado o las autoridades competentes, por cualquiera de las conductas y contra los servidores públicos a que se refiere este Título.
 
-Artículo 148 A. De los delitos comunes y oficiales que cometan los funcionarios y empleados no designados especialmente en los artículos anteriores, conocerán los tribunales en la forma ordinaria.
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
-> <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
+Artículo 148 A. No se requerirá declaración de procedencia del Congreso del Estado, cuando alguno de los servidores públicos a que se refiere el primer párrafo del Artículo 146 cometa un delito durante el tiempo en que se encuentre separado de su encargo por cualquier causa, ni cuando se trate de demandas de orden civil.
 
-Artículo 148 B. En las demandas del orden civil no habrá fuero ni inmunidad para ningún funcionario o empleado público.
+Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el primer párrafo del Artículo 146, se procederá de acuerdo con lo dispuesto en dicho precepto.
+
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
+
+Artículo 148 B. Los servidores públicos a que se refiere este Título, serán responsables del cumplimiento de las bases establecidas en el Artículo 150 de esta Constitución.
 
 ## TITULO SEPTIMO.
 
@@ -1787,7 +1847,7 @@ Ningún individuo debe desempeñar dos cargos de elección popular; pero el elec
 
 ###### Artículo 152.
 
-Jamás podrán reunirse en una persona dos encargos por los que se disfrute sueldo o remuneración; excepto en los ramos de Instrucción y Beneficencia Públicas, ya se consideren sólos o unidos a otro ramo.
+Jamás podrán reunirse en una persona dos encargos por los que se disfrute sueldo o remuneración; excepto en los ramos de Instrucción y Beneficencia Públicas, ya se considere sólos o unidos a otro ramo.
 
 ###### Artículo 153.
 
@@ -2224,6 +2284,12 @@ LEY No. 33, QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS DE LA CONSTITUCION.
 La presente Ley entrará en vigor al día siguiente de su publicación e el Boletín Oficial del Gobierno del Estado.
 
 B.O. 30 DE ENERO DE 1984.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 9 DE ABRIL DE 1984.
 
 ###### ARTICULO UNICO.
 
