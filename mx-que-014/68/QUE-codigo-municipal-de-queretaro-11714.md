@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "1999-06-04"
+last_updated: "1999-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CODIGO MUNICIPAL DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1999.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -2053,7 +2053,9 @@ II. Operar eficientemente la administración y los servicios municipales en coor
 
 III. Mantener una vigilancia permanente con la estructura territorial para preservar el orden público, y participarlo a las instancias municipales;
 
-IV. Aplicar las sanciones conducentes, con motivo de las infracciones al presente Código, a los reglamentos y acuerdos municipales respectivos;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1999)</small>
+
+IV. Llevar a cabo visitas de inspección para comprobar el cumplimiento de las diferentes disposiciones normativas municipales de observancia general; imponer las sanciones que correspondan por las infracciones a dichas disposiciones; con base en los resultados de las visitas de inspección, podrán dictar medidas de seguridad para corregir las irregularidades que se hubiesen encontrado, notificándolas al visitado y otorgándoles un plazo para su realización y podrán hacer uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan. Dichas medidas tendrán la duración estricta y necesaria para la corrección de las irregularidades respectivas;
 
 V. Rendir un parte diario de novedades al Presidente Municipal;
 
@@ -8205,7 +8207,7 @@ III. Los motivos que lo impulsaron a infringir las disposiciones vigentes y sus 
 
 Los usuarios que se encuentren debidamente acreditados conforme a lo dispuesto por el apartado correspondiente que contravengan las disposiciones administrativas y legales, serán sancionados con multas que serán calificadas por el Tesorero o la autoridad que le corresponda conocer de la sanción cometida por el usuario.
 
-Queda a criterio del C. Presidente Municipal el revocar el permiso de los usuarios que infrinjan reiteradamente las disposiciones referentes al Rastro Municipal, facultándosele para que en tal caso, le suspenda por tiempo indefinido el permiso para operar en las instalaciones e inmendiaciones del Rastro Municipal.
+Queda a criterio del C. Presidente Municipal el revocar el permiso de los usuarios que infrinjan reiteradamente las disposiciones referentes al Rastro Municipal, facultándosele para que en tal caso, le suspenda por tiempo indefinido el permiso para operar en las instalaciones e inmediaciones del Rastro Municipal.
 
 ###### ARTICULO 987.
 
@@ -8559,7 +8561,7 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS QUE SE RELACIONAN CON EL CODIGO.
 
 Artículo Primero.- El presente Reglamento entrará en vigor a partir del día siguiente de la fecha de su publicación en la Gaceta Municipal y en el Diario Oficial "La Sombra de Arteaga".
 
-Artículo Segundo.- Se deroga el apartado primero del libro cuarto del Código Municiapl de Querétaro, que comprende de los Artículos 771 al 807 del mismo ordenamiento.
+Artículo Segundo.- Se deroga el apartado primero del libro cuarto del Código Municipal de Querétaro, que comprende de los Artículos 771 al 807 del mismo ordenamiento.
 
 P.O. 5 DE FEBRERO DE 1999.
 
@@ -8580,3 +8582,9 @@ UNICO.- La modificación al artículo 18 del Código Municipal entrará en vigor
 P.O. 4 DE JUNIO DE 1999.
 
 CUARTO: Publíquese el presente por una ocasión en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga" y en la Gaceta Municipal.
+
+P.O. 29 DE OCTUBRE DE 1999.
+
+TERCERO.- De conformidad a lo establecido en el artículo 169 de la Ley Orgánica Municipal del Estado de Querétaro, el presente Acuerdo deberá publicarse en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y en la Gaceta Municipal.
+
+CUARTO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
