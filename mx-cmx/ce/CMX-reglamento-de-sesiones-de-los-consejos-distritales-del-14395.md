@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-sesiones-de-los-consejos-distritales-del-14395"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-21"
-last_updated: "1999-06-21"
+last_updated: "2003-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14395&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1999-06-08"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO FUE ABROGADO POR EL ARTICULO PRIMERO TRANSITORIO DEL ACUERDO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL POR EL QUE SE APRUEBA EL NUEVO REGLAMENTO, PUBLICADO EN LA GACETA OFICIAL DEL 20 DE MARZO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 21 de junio de 1999.
 
@@ -273,3 +275,17 @@ El acta aprobada deberá incluir las modificaciones que el Consejo haya aprobado
 en su caso.
 
 Se podrá elaborar una versión estenográfica que contendrá íntegramente los datos detallados de la sesión.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 20 DE MARZO DE 2003.
+
+UNICAMENTE SE TRANSCRIBEN LOS TRANSITORIOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.
+
+PRIMERO.- Se abroga el Reglamento de Sesiones de los Consejos Distritales del Instituto Electoral del Distrito Federal, aprobado por este órgano superior de dirección, en su sesión de 8 de junio de 1999.
+
+SEGUNDO.- Se aprueba el Reglamento de Sesiones de los Consejos Distritales del Instituto Electoral del Distrito Federal, en términos del anexo que forma parte del presente Acuerdo.
+
+TERCERO.- El presente Acuerdo y su anexo, entrarán en vigor a partir del día siguiente al de su aprobación.
+
+SEXTO.- Publíquese el presente Acuerdo y su anexo en la Gaceta Oficial del Distrito Federal.
