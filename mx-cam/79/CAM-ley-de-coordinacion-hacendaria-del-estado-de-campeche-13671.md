@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-coordinacion-hacendaria-del-estado-de-campeche-13671"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-31"
-last_updated: "1996-12-31"
+last_updated: "1998-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE COORDINACION HACENDARIA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1998.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Campeche, el martes 31 de diciembre de 1996.
 
@@ -911,8 +911,20 @@ Quinto.- Para los efectos de lo dispuesto en la fracción I del artículo 65, du
 
 Sexto.- El Municipio de Calakmul durante los años de 1997, 1998 y 1999, recibirá únicamente el 1% del total de participaciones que le corresponden al Estado por concepto del Fondo General de Participaciones, mismo que será tomado del 24% señalado en la fracción II del artículo número 64 de esta ley. Para el año 2000 las participaciones del Municipio de Calakmul se calcularán con el 70% de sus participaciones últimas que hubiese recibido al año anterior, para dar cumplimiento a lo establecido en el artículo 65, fracción I, de la presente ley.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1998)</small>
+
+Séptimo.- El Municipio de Candelaria durante el año de 1999, recibirá el 0.8883% del total de participaciones que le correspondan al Estado por concepto del Fondo General de Participaciones, mismo que será tomado del 24% señalado en la fracción II del artículo 64 de esta Ley. Para el año 2000 las participaciones del Municipio de Candelaria se calcularán al 70% de sus participaciones últimas que hubiese recibido al año anterior, para dar cumplimiento a lo establecido en el artículo 65 fracción I, de la presente Ley.
+
 Salón de Sesiones del Palacio Legislativo, Campeche, Cam., a 30 de Diciembre de 1996.- Dip. Vicente Castellot Castro, Presidente de la Directiva en turno del H. Congreso del Estado.- Dip. Marta I. Novelo Lara, Secretaria.- Dip. Edilberto Vázquez Ríos, Secretario.- Rúbricas.
 
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los treinta días del mes de diciembre de mil novecientos noventa y seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. FERNANDO RAFFUL.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE DICIEMBRE DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor el día 1 de enero de 1999.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
