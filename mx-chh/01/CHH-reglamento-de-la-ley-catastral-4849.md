@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-ley-catastral-4849"
 country: "mx"
 rank: "reglamento"
 publication_date: "1933-11-18"
-last_updated: "1946-01-12"
+last_updated: "1949-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO DE LA LEY CATASTRAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 1949.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Chihuahua, 18 de noviembre de 1933.
 
@@ -106,6 +106,22 @@ Aquellos cambios que hagan que un bien inmueble varíe de valor en atención a q
 ###### Artículo 3.
 
 El procedimiento para la valuación en particular del predio, en el caso del artículo anterior, será el mismo que consigna la Ley que se reglamenta.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1949)</small>
+
+###### Artículo 3 Bis.
+
+Los propietarios de las fincas nuevas, a que se refiere el artículo 60 bis de la Ley de Organización Fiscal, presentarán la declaración correspondiente, dentro de los seis meses siguientes a la fecha en que la obra haya quedado terminada, expresando su nombre y domicilio, la calle y el número de la finca, la superficie del predio, debiendo acompañar además:
+
+I.- Dos copias heliográficas del plano que comprenda el terreno y la construcción edificada.
+
+II.- Dos fotografías, tamaño postal, de la fachada de la finca.
+
+III.- Un certificado expedido por la Recaudación de Rentas correspondiente, sobre la fecha de terminación de la obra.
+
+IV.- Dos copias de avalúo formulado por el ingeniero o la persona responsable que se haya encargado de la ejecución de la obra.
+
+V.- El título original con carácter devolutivo, de que la propiedad fue inscrita como finca nueva en el Registro Público de la Propiedad.
 
 ### CAPITULO II.
 
@@ -396,5 +412,9 @@ P.O. 29 DE DICIEMBRE DE 1945.
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 12 DE ENERO DE 1946.
+
+El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE MAYO DE 1949.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
