@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1936-03-16"
+last_updated: "1936-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 1936.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1936.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -71,6 +71,10 @@ P.O. 16 DE MARZO DE 1936.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
 
+P.O. 24 DE MARZO DE 1936.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
 ###### Artículo 3º.
 
 El Territorio del Estado es el expresado en el Supremo Decreto de erección de 16 de enero de 1869 y se divide en quince Distritos a los que corresponden los 76 Municipios que a continuación se expresan:
@@ -83,9 +87,9 @@ Distrito de Apam: Formado con los Municipios de Apam, Tepeapulco y Tlanalapan.
 
 Distrito de Atotonilco el Grande: Formado con los Municipios de Atotonilco el Grande, Huasca y Omitlan.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1936)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1936)</small>
 
-Distrito de Huejutla: Formado con los Municipios de Huejutla, Orizatlán, Huazalingo, Huautla, Yahualica, Xochiatipan, Tlanchinol y Jaltocán.
+Distrito de Huejutla: Formado con los Municipios de Huejutla, Orizatlán, Huazalingo, Huautla, Atlapexco, Xochiatipán, Tlanchinol y Jaltocán.
 
 Distrito de Huichapan: Formado con los Municipios de Huichapan, Tecozautla, Nopala y Chapantongo
 
@@ -211,7 +215,7 @@ II. Por sentencia ejecutoriada que así lo determine.
 
 III. Por estar procesado. La suspensión durará desde que se notifique el auto de formal prisión, hasta que se haya cumplido la sentencia o ejecutoriadamente se declara la absolución. Tratándose de funcionarios que gocen de fuero constitucional, así como de Jueces de Primera Instancia y Agentes del Ministerio Publico, la suspensión comenzará desde que se declare que hay lugar a formación de causa.
 
-IV. Por falta de cumplimiento, sin causa justificada, de las obligaciones de ciudadano. Esta suspensión durará un año y se impondrá sin perjuicio de otras penas que señale la ley.
+IV. Por falta de cumplimiento, sin causa justificada, de las obligaciones de ciudadano. Esta suspensión durara un año y se impondrá sin perjuicio de otras penas que señale la ley.
 
 ###### Artículo 12.
 
@@ -239,11 +243,11 @@ El Estado adopta para su régimen interior, la forma de Gobierno Republicano, re
 
 ###### Artículo 16.
 
-El poder público del Estado se considera dividido para el ejercicio de sus funciones, en: Legislativo, Ejecutivo, Judicial y Municipal. Nunca podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo.
+El poder publico del Estado se considera dividido para el ejercicio de sus funciones, en: Legislativo, Ejecutivo, Judicial y Municipal. Nunca podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo.
 
 ###### Artículo 17.
 
-Los Poderes Legislativo y Ejecutivo y el Tribunal Superior de Justicia, residirán en la ciudad de Pachuca, que oficialmente se denominará Pachuca de Soto.
+Los Poderes Legislativo y Ejecutivo y el Tribunal Superior de Justicia, residirán en la ciudad de Pachuca, que oficialmente se denominara Pachuca de Soto.
 
 ###### Artículo 18.
 
@@ -265,7 +269,7 @@ III. El Secretario General, el Subsecretario, los Magistrados del Tribunal Super
 
 IV. Los Jueces de Primera Instancia y los Administradores de Rentas, en la circunscripción en que ejerzan sus funciones; y los Presidentes Municipales, en el Distrito de que forme parte el Municipio de su jurisdicción: si no se han separado unos y otros de sus cargos, cuando menos noventa días antes de la elección.
 
-V. Los militares que no se hayan separado del servicio cuando menos seis meses antes de la elección. Para los efectos de esta disposición no se tienen por militares a los ciudadanos alistados en la Guardia Nacional.
+V. Los militares que no se hayan separado del servicio cuando seis meses antes de la elección. Para los efectos de esta disposición no se tienen por militares a los ciudadanos alistados en la Guardia Nacional.
 
 ###### Artículo 21.
 
@@ -281,7 +285,7 @@ Los Diputados son inviolables por sus opiniones manifestadas en el desempeño de
 
 ###### Artículo 23.
 
-El Congreso se renovará en su totalidad, cada dos años.
+El Congreso se renovara en su totalidad, cada dos años.
 
 ## TITULO V. DEL PODER JUDICIAL
 
@@ -295,11 +299,11 @@ Las resoluciones así dictadas y todas las que prevengan del Congreso erigido en
 
 ###### Artículo 25.
 
-El Congreso se reunirá en sesiones ordinarias y extraordinarias. Tendrá cada año dos periodos de sesiones ordinarias: el primero comenzará el 1º. de marzo y terminará el 15 de mayo, y el segundo comenzará el 1º. de septiembre y terminará el 15 de noviembre. Se reunirá en sesiones extraordinarias, cuando fuere convocado por la Diputación Permanente.
+El Congreso se reunirá en sesiones ordinarias y extraordinarias. Tendrá cada año dos periodos de sesiones ordinarias: el primero comenzara el 1º. de marzo y terminara 15 de mayo, y el segundo comenzara el 1º. de septiembre y terminara el 15 de noviembre. Se reunirá en sesiones extraordinarias, cuando fuere convocado por la Diputación Permanente.
 
 ###### Artículo 26.
 
-La Legislatura no puede abrir sus sesiones ordinarias o extraordinarias, ni deliberar sin la concurrencia de más de la mitad del número total de sus miembros; en todo tiempo, los Diputados presentes reunidos compelerán a los ausentes a concurrir usando de los medios coactivos que establezca el Reglamento del Congreso.
+La Legislatura no puede abrir sus sesiones ordinarias o extraordinarias, ni deliberar sin la concurrencia de mas de la mitad del número total de sus miembros; en todo tiempo, los Diputados presentes reunidos compelerán a los ausentes a concurrir usando de los medios coactivos que establezca el Reglamento del Congreso.
 
 ###### Artículo 27.
 
@@ -311,15 +315,15 @@ Los Diputados que falten a las sesiones sin causa justificada o sin licencia de 
 
 ###### Artículo 28.
 
-Durante el primer período de sesiones ordinarias, el Congreso se ocupará preferentemente de examinar y calificar las cuentas de recaudación y aplicación de los fondos del Estado y municipales correspondientes al año anterior; y en el segundo, y para que rijan en el año siguiente, se ocupará preferentemente de dictar la Ley de Ingresos del Estado y de los Municipios, y de aprobar el Presupuesto de Egresos del Estado que el Gobernador deberá estar al Congreso el segundo día de este período.
+Durante el primer período de sesiones ordinarias, el Congreso se ocupara preferentemente de examinar y calificar las cuentas de recaudación y aplicación de los fondos del Estado y municipales correspondientes al año anterior; y en el segundo, y para que rijan en el año siguiente, se ocupara preferentemente de dictar la Ley de Ingresos del Estado y de los Municipios, y de aprobar el Presupuesto de Egresos del Estado que el Gobernador deberá estar al Congreso el segundo día de este periodo.
 
 ###### Artículo 29.
 
-Todas las sesiones serán públicas, excepto cuando se traten asuntos que exijan reserva y cuando así lo determine el Reglamento del Congreso.
+Todas las sesiones serán publicas, excepto cuando se traten asuntos que exijan reserva y cuando así lo determine el Reglamento del Congreso.
 
 ###### Artículo 30.
 
-El Reglamento fijará las demás formalidades de instalación, funcionamiento y clausura del Congreso.
+El Reglamento fijara las demás formalidades de instalación, funcionamiento y clausura del Congreso.
 
 ###### Artículo 31.
 
@@ -355,7 +359,7 @@ En todo caso se dará aviso al Ejecutivo, del día señalado para la discusión 
 
 ###### Artículo 35.
 
-Aprobado un proyecto de ley o de decreto por el Congreso, se remitirá al Gobernador para su sanción y publicación. El Gobernador puede dentro de diez días útiles, devolverlo con observaciones. El proyecto de ley o de decreto devueltos al Congreso, deberá ser discutido de nuevo y si fuese confirmado por los dos tercios del número total de Diputados, volverá al Gobernador, quien deberá promulgarlo sin más trámite.
+Aprobado un proyecto de ley o de decreto por el Congreso, se remitirá al Gobernador para su sanción y publicación. El Gobernador puede dentro de diez días útiles, devolverlo con observaciones. El proyecto de ley o de decreto devueltos al Congreso, deberá ser discutido de nuevo y si fuese confirmado por las dos tercios del número total de Diputados, volverá al Gobernador, quien deberá promulgarlo sin mas tramite.
 
 ###### Artículo 36.
 
@@ -387,7 +391,7 @@ Toda resolución del Congreso no tendrá otro carácter que el de ley, decreto o
 
 ###### Artículo 40.
 
-Las leyes y decretos serán enviados al Gobernador firmados por el Presidente y los Secretarios del Congreso, y una vez sancionados por el Gobernador, serán publicados en el "Periódico Oficial" del Estado. Los Presidentes Municipales los fijarán en algunos lugares públicos que ellos mismos designen de cada cabecera, ejemplares auténticos de las leyes o decretos y comunicarán al Gobernador que han hecho esta publicación. Los respectivos oficios serán publicados en el "Periódico Oficial."
+Las leyes y decretos serán enviados al Gobernador firmados por el Presidente y los Secretarios del Congreso, y una vez sancionados por el Gobernador, serán publicados en el "Periódico Oficial" del Estado. Los Presidentes Municipales los fijaran en algunos lugares públicos que ellos mismos designen de cada cabecera, ejemplares auténticos de las leyes o decretos y comunicaran al Gobernador que han hecho esta publicación. Los respectivos oficios serán publicados en el "Periódico Oficial."
 
 ###### Artículo 41.
 
@@ -403,7 +407,7 @@ IV. Conceder premios por servicios eminentes prestados a la Patria, a la humanid
 
 V. Rehabilitar en los derechos de ciudadano del Estado.
 
-VI. Autorizar al Gobernador para que celebre arreglos sobre límites del Estado, y aprobar estos arreglos.
+VI. Autorizar al Gobernador para que celebre arreglos sobre limites del Estado, y aprobar estos arreglos.
 
 VII. Constituirse en Colegio Electoral a efecto de calificar la elección de Gobernador y la de Diputados en su caso, con sujeción a lo prevenido en la parte conducente del articulo 24.
 
@@ -425,7 +429,7 @@ XIV. Resolver sobre cuestiones de limites entre los Municipios.
 
 XV. Decretar la erección de nuevos pueblos en los términos que prevenga la ley.
 
-XVI. Autorizar al Gobernador para que de acuerdo con las bases que el Congreso determine, enajene los bienes raíces del Estado. Su enajenación deberá ser en subasta pública, bajo pena de nulidad, y cualquier ciudadano podrá demandar esta nulidad.
+XVI. Autorizar al Gobernador para que de acuerdo con las bases que el Congreso determine, enajene los bienes raíces del Estado. Su enajenación deberá ser en subasta publica, bajo pena de nulidad, y cualquier ciudadano podrá demandar esta nulidad.
 
 XVII. Dar bases para contratar empréstitos sobre el crédito del Estado y aprobar estos.
 
@@ -445,15 +449,15 @@ Durante los recesos del Congreso, habrá una Diputación Permanente, compuesta d
 
 ###### Artículo 43.
 
-La Diputación Permanente será nombrada por el Congreso tres días antes de la clausura de las sesiones ordinarias, y en el año de renovación del Congreso, funcionará hasta la instalación de la primera junta preparatoria.
+La Diputación Permanente será nombrada por el Congreso tres días antes de la clausura de las sesiones ordinarias, y en el año de renovación del Congreso, funcionara hasta la instalación de la primera junta preparatoria.
 
 ###### Artículo 44.
 
 Las atribuciones de la Diputación Permanente son las siguientes:
 
-I. Velar sobre la observancia de la Constitución y Leyes del Estado. Al efecto, podrá recabar de las autoridades, informes y copias autorizadas de los documentos necesarios y formará un expediente en que consten las faltas que notare, para dar cuenta de ello al Congreso en las próximas sesiones, o entregarlo, en su caso, al Presidente de la primera junta preparatoria.
+I. Velar sobre la observancia de la Constitución y Leyes del Estado. Al efecto, podrá recabar de las autoridades, informes y copias autorizadas de los documentos necesarios y formara un expediente en que consten las faltas que notare, para dar cuenta de ello al Congreso en las próximas sesiones, o entregarlo, en su caso, al Presidente de la primera junta preparatoria.
 
-II. Convocar al Congreso a sesiones extraordinarias de acuerdo con el Gobernador. La convocatoria señalará con toda precisión el objeto de las sesiones y la fecha en que deban comenzar. El Congreso no podrá ocuparse, durante el período extraordinario, sino de las materias precisadas en la convocatoria, salvo el ejercicio de las atribuciones delegadas a él por la Constitución General, y de las que cumple mediante acuerdos económicos.
+II. Convocar al Congreso a sesiones extraordinarias de acuerdo con el Gobernador. La convocatoria señalara con toda precisión el objeto de las sesiones y la fecha en que deban comenzar. El Congreso no podrá ocuparse, durante el período extraordinario, sino de las materias precisadas en la convocatoria, salvo el ejercicio de las atribuciones delegadas a él por la Constitución General, y de las que cumple mediante acuerdos económicos.
 
 III. Convocar al Congreso a algún punto del Estado, si las circunstancias lo requieren, obrando de acuerdo con el Gobernador o sin el concurso de éste, cuando se declare en sedición abierta contra la Constitución.
 
@@ -463,7 +467,7 @@ V. Llamar a los Diputados suplentes para las próximas sesiones en caso de muert
 
 VI. Recibir la protesta del Gobernador y Magistrados.
 
-VII. Convocar inmediatamente, por sí sola, al Congreso a sesiones extraordinarias, siempre que el Gobernador, los Diputados, los Magistrados o el Procurador General de Justicia, hayan cometido algún delito grave del orden común y en los casos de falta absoluta del Gobernador.
+VII. Convocar inmediatamente, por si sola, al Congreso a sesiones extraordinarias, siempre que el Gobernador, los Diputados, los Magistrados o el Procurador General de Justicia, hayan cometido algún delito grave del orden común y en los casos de falta absoluta del Gobernador.
 
 VIII. Las demás que le otorga esta Constitución.
 
@@ -475,7 +479,7 @@ La Diputación Permanente dará cuenta en la segunda sesión del Congreso, del u
 
 ###### Artículo 46.
 
-Se deposita el ejercicio del Poder Ejecutivo del Estado, en un ciudadano que se denominará "Gobernador del Estado de Hidalgo."
+Se deposita el ejercicio del Poder Ejecutivo del Estado, en un ciudadano que se denominara "Gobernador del Estado de Hidalgo."
 
 ###### Artículo 47.
 
@@ -511,21 +515,21 @@ El Gobernador será nombrado por elección popular directa y en los términos qu
 
 ###### Artículo 50.
 
-El Gobernador entrará al ejercicio de sus funciones el 1° de abril, durará en su encargo cuatro años y no podrá ser reelecto.
+El Gobernador entrara al ejercicio de sus funciones el 1° de abril, durará en su encargo cuatro años y no podrá ser reelecto.
 
 ###### Artículo 51.
 
-Para suplir las faltas temporales del Gobernador, el Congreso, o en su receso la Diputación Permanente, nombrará un Gobernador interino.
+Para suplir las faltas temporales del Gobernador, el Congreso, o en su receso la Diputación Permanente, nombrara un Gobernador interino.
 
-El caso de falta absoluta del Gobernador ocurrida durante los dos primeros años del periodo, el Congreso, por el voto de dos tercios del número de Diputados presentes, nombrará un Gobernador provisional y convocará inmediatamente a elecciones de Gobernador, que deberán tener lugar a la mayor brevedad posible.
+El caso de falta absoluta del Gobernador ocurrida durante los dos primeros años del periodo, el Congreso, por el voto de dos tercios del número de Diputados presentes, nombrara un Gobernador provisional y convocara inmediatamente a elecciones de Gobernador, que deberán tener lugar a la mayor brevedad posible.
 
-Si la falta absoluta ocurriere durante los dos últimos años del período, el Congreso, por el voto de dos tercios del número de Diputados presentes, nombrará un Gobernador substituto que desempeñará el cargo hasta la terminación del período.
+Si la falta absoluta ocurriere durante los dos últimos años del período, el Congreso, por el voto de dos tercios del número de Diputados presentes, nombrara un Gobernador substituto que desempeñara el cargo hasta la terminación del período.
 
-Si la falta absoluta ocurriere no encontrándose el Gobernador en el ejercicio de sus funciones, el Gobernador Interino continuará en el Gobierno hasta que tomen posesión, en sus respectivos casos, el Gobernador Provisional o el Substituto.
+Si la falta absoluta ocurriere no encontrándose el Gobernador en el ejercicio de sus funciones, el Gobernador Interino continuara en el Gobierno hasta que tomen posesión, en sus respectivos casos, el Gobernador Provisional o el Substituto.
 
-Si la falta absoluta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Presidente del Tribunal se encargará del Despacho del Gobierno hasta la toma de posesión del Gobernador provisional o del substituto, en sus respectivos casos.
+Si la falta absoluta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Presidente del Tribunal se encargara del Despacho del Gobierno hasta la toma de posesión del Gobernador provisional o del substituto, en sus respectivos casos.
 
-El Presidente del Tribunal se encargará, además, del Despacho del Gobierno, siempre que por cualquier motivo no precisado por esta Constitución, se encuentre acéfalo el Poder Ejecutivo.
+El Presidente del Tribunal se encargara, además, del Despacho del Gobierno, siempre que por cualquier motivo no precisado por esta Constitución, se encuentre acéfalo el Poder Ejecutivo.
 
 ###### Artículo 52.
 
@@ -553,13 +557,13 @@ VII. Facilitar al Poder Judicial los auxilios necesarios para el ejercicio exped
 
 VIII. Hacer que se ejecuten sin modificación alguna, las sentencias ejecutoriadas de los Tribunales.
 
-IX. Cuidar del orden y la tranquilidad pública del Estado.
+IX. Cuidar del orden y la tranquilidad publica del Estado.
 
-X. Mandar las Fuerzas de Seguridad Pública del Estado y todas las que se encuentren el Municipio donde resida, de acuerdo con el artículo 115 de la Constitución General.
+X. Mandar las Fuerzas de Seguridad Publica del Estado y todas las que se encuentren el Municipio donde resida, de acuerdo con el artículo 115 de la Constitución General.
 
 XI. Nombrar y remover libremente al personal de la Policía Municipal del lugar donde resida.
 
-XII. Resolver las dudas que tuvieren los Agentes de la Administración Pública sobre aplicación de las leyes a casos particulares.
+XII. Resolver las dudas que tuvieren los Agentes de la Administración Publica sobre aplicación de las leyes a casos particulares.
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
 
@@ -575,7 +579,7 @@ XVI. Convocar a elecciones extraordinarias de Diputados y de Gobernador, llegado
 
 XVII. Nombrar una Junta de Administración compuesta de tres personas que se encargaran de convocar a la mayor brevedad posible a elecciones municipales, cuando por cualquier motivo desaparezca un Ayuntamiento.
 
-XVIII. Organizar y fomentar la Instrucción Pública en el Estado.
+XVIII. Organizar y fomentar la Instrucción Publica en el Estado.
 
 XIX. Expedir los títulos para el ejercicio de una profesión a las personas que hayan obtenido el derecho a él, dentro del Estado y conforme a la ley.
 
@@ -625,7 +629,7 @@ El Secretario General es el órgano de comunicación entre el Gobernador y las a
 
 ###### Artículo 58.
 
-Las faltas temporales del Secretario General, serán suplidas por un Subsecretario, para cuyo nombramiento son aplicables las disposiciones de los dos artículos 55 y 56 anteriores.
+Las faltas temporales del Secretario General, serán suplidas por un Subsecretario, para cuyo nombramiento son aplicables las disposiciones de los dos artículos 55 Y 56 anteriores.
 
 ###### Artículo 59.
 
@@ -705,11 +709,11 @@ Ningún otro Poder del Estado podrá avocarse el conocimiento de los asuntos jud
 
 ###### Artículo 67.
 
-El Ministerio Público estará desempeñado en el Estado, por:
+El Ministerio Publico estará desempeñado en el Estado, por:
 
 I. Un Procurador General.
 
-II. Agentes del Ministerio Público.
+II. Agentes del Ministerio Publico.
 
 ###### Artículo 68.
 
@@ -719,15 +723,15 @@ Para ser Agente, las que determine la ley.
 
 ###### Artículo 69.
 
-Son atribuciones del Ministerio Público:
+Son atribuciones del Ministerio Publico:
 
-I. Ejercitar ante los Tribunales del Estado, las acciones que corresponden contra los violadores de las leyes de interés público.
+I. Ejercitar ante los Tribunales del Estado, las acciones que corresponden contra los violadores de las leyes de interés publico.
 
 II. Intervenir en la forma y términos que la ley disponga, en los juicios que afecten a personas a quienes la ley otorga especial protección.
 
 III. Defender los intereses del Estado ante los Tribunales.
 
-La ley organizará el Ministerio Público, determinará las atribuciones respectivas de las personas que lo formen y fijará el tiempo que cada una de ellas deba durar en sus funciones.
+La ley organizara el Ministerio Publico, determinara las atribuciones respectivas de las personas que lo formen y fijara el tiempo que cada una de ellas deba durar en sus funciones.
 
 ###### Artículo 70.
 
@@ -743,7 +747,7 @@ Los Municipios tienen personalidad jurídica para todos los efectos legales.
 
 ###### Artículo 73.
 
-Los Ayuntamientos serán representados judicialmente por uno o dos de sus miembros que se denominarán Síndicos Procuradores y que serán designados en la forma que establezca la ley.
+Los Ayuntamientos serán representados judicialmente por uno o dos de sus miembros que se denominaran Síndicos Procuradores y que serán designados en la forma que establezca la ley.
 
 ###### Artículo 74.
 
@@ -751,7 +755,7 @@ Las Asambleas Municipales se compondrán de Munícipes electos directa y popular
 
 ###### Artículo 75.
 
-Las Asambleas Municipales se renovarán cada año por mitad, según el número para o impar de sus miembros.
+Las Asambleas Municipales se renovaran cada año por mitad, según el número para o impar de sus miembros.
 
 ###### Artículo 76.
 
@@ -779,11 +783,11 @@ II. Formar anualmente su proyecto de Ley de Ingresos y su Presupuesto de Egresos
 
 III. Acordar lo conveniente para la formación del censo y estadística del Municipio con sujeción a la ley.
 
-IV. Decretar las obras de utilidad pública u ornato del Municipio.
+IV. Decretar las obras de utilidad publica u ornato del Municipio.
 
 V. Dictar las providencias conducentes de policía para la seguridad de las personas y sus propiedades.
 
-VI. Facultar al Presidente Municipal para que pueda celebrar contratos con particulares o corporaciones sobre asuntos de interés público del Municipio y aprobar o no estos contratos. Cuando se trate de la enajenación de los bienes raíces del Municipio, se requieren además la aprobación del Congreso.
+VI. Facultar al Presidente Municipal para que pueda celebrar contratos con particulares o corporaciones sobre asuntos de interés publico del Municipio y aprobar o no estos contratos. Cuando se trate de la enajenación de los bienes raíces del Municipio, se requieren además la aprobación del Congreso.
 
 VII. Elegirá los Jueces Conciliadores del Municipio en la forma y términos que fije la ley.
 
@@ -793,9 +797,9 @@ IX. Calificar la elección de los Municipios y del Presidente Municipal.
 
 X. Admitir o desechar la renuncia que hicieren los Munícipes, los Jueces Conciliadores o el Presidente Municipal.
 
-XI. Nombrar y remover a los empleados de su Secretaría y demás del Municipio, con excepción de los de la Presidencia y de los Juzgados Conciliadores.
+XI. Nombrar y remover a los empleados de su Secretaria y demás del Municipio, con excepción de los de la Presidencia y de los Juzgados Conciliadores.
 
-XII. Conceder licencia a los Munícipes, Presidentes Municipales, Jueces Conciliadores, empleados de su Secretaría y Tesorero.
+XII. Conceder licencia a los Munícipes, Presidentes Municipales, Jueces Conciliadores, empleados de su Secretaria y Tesorero.
 
 XIII. Formar su reglamento interior.
 
@@ -839,7 +843,7 @@ VI. Publicar las leyes, decretos y demás disposiciones de observancia general e
 
 VII. Remitir ejemplares a las autoridades residentes en el Municipio, de las leyes, decretos y demás disposiciones que publiquen, autorizados con su firma y la del Secretario, con expresión de la fecha en que han sido publicados.
 
-VIII. Celebrar contratos con particulares o corporaciones en los términos prescritos por esta Constitución.
+VIII. Celebrar contratos con particulares o corporaciones en los términos prescritos por esta constitución.
 
 IX. Cumplir y hacer cumplir las leyes, decretos, acuerdos, reglamentos y demás disposiciones del Estado.
 
@@ -893,15 +897,15 @@ El Gobernador durante el periodo de su encargo, no podrá ser acusado, sino por 
 
 ###### Artículo 91.
 
-En los delitos del orden común que cometiere el Gobernador, el Secretario General, los Diputados, los Magistrados y el Procurador General, el Congreso erigido en Gran Jurado, declarará por mayoría de votos del número total de sus miembros y en la forma y términos que determine la ley, si ha lugar a formación de causa. En caso negativo, cesará todo procedimiento contra el acusado; pero tal determinación no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución de la Cámara no prejuzga de los fundamentos de la acusación. En el afirmativo, quedará el funcionario suspenso en su encargo y sujeto a los Tribunales comunes.
+En los delitos del orden común que cometiere el Gobernador, el Secretario General, los Diputados, los Magistrados y el Procurador General, el Congreso erigido en Gran Jurado, declarara por mayoría de votos del número total de sus miembros y en la forma y términos que determine la ley, si ha lugar a formación de causa. En caso negativo, cesara todo procedimiento contra el acusado; pero tal determinación no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución de la Cámara no prejuzga de los fundamentos de la acusación. En el afirmativo, quedara el funcionario suspenso en su encargo y sujeto a los Tribunales comunes.
 
 ###### Artículo 92.
 
-En los delitos oficiales cometidos por los mismos funcionarios, el Congreso erigido en Jurado de Acusación, declarará por mayoría del número total de sus miembros, si ha lugar a acusar al funcionario ante el Tribunal Superior erigido en Gran Jurado.
+En los delitos oficiales cometidos por los mismos funcionarios, el Congreso erigido en Jurado de Acusación, declarara por mayoría del número total de sus miembros, si ha lugar a acusar al funcionario ante el Tribunal Superior erigido en Gran Jurado.
 
-En caso afirmativo, el Congreso nombrará una comisión de tres de sus miembros para que sostenga la acusación.
+En caso afirmativo, el Congreso nombrara una comisión de tres de sus miembros para que sostenga la acusación.
 
-Si el Tribunal Superior, después de oír al acusado, lo declara culpable, éste quedará privado de su puesto e inhabilitado para obtener otro en el tiempo que la ley determine.
+Si el Tribunal Superior, después de oír al acusado, lo declara culpable, este quedara privado de su puesto e inhabilitado para obtener otro en el tiempo que la ley determine.
 
 Cuando el mismo hecho tenga otra pena señalada en la ley, el propio Tribunal la impondrá al acusado.
 
@@ -911,7 +915,7 @@ Cuando el mismo hecho tenga otra pena señalada en la ley, el propio Tribunal la
 
 ###### Artículo 93.
 
-De los delitos comunes y oficiales cometidos por los Jueces de Primera Instancia y agentes del Ministerio Público, el Tribunal Superior declarará en la forma que determine la ley, si ha o no lugar a proceder. En caso negativo, el acusado continuará en el ejercicio de su encargo, cesando todo procedimiento en su contra. En el afirmativo, quedará suspenso el acusado y sujeto a los Tribunales comunes.
+De los delitos comunes y oficiales cometidos por los Jueces de Primera Instancia y agentes del Ministerio Publico, el Tribunal Superior declarara en la forma que determine la ley, si ha o no lugar a proceder. En caso negativo, el acusado continuara en el ejercicio de su encargo, cesando todo procedimiento en su contra. En el afirmativo, quedara suspenso el acusado y sujeto a los Tribunales comunes.
 
 ###### Artículo 94.
 
@@ -939,7 +943,7 @@ Ninguna autoridad política o administrativa, dispondrá de manera alguna de las
 
 ###### Artículo 100.
 
-Todo funcionario y empleado público, tendrá derecho a percibir el sueldo o emolumento que la ley señale, sin que pueda renunciarlo, y la ley que lo aumente o disminuya, no podrá tener lugar durante el período en que un funcionario ejerce el cargo.
+Todo funcionario y empleado publico, tendrá derecho a percibir el sueldo o emolumento que la ley señale, sin que pueda renunciarlo, y la ley que lo aumente o disminuya, no podrá tener lugar durante el período en que un funcionario ejerce el cargo.
 
 ## TITULO VII. DE LOS MUNICIPIOS
 
