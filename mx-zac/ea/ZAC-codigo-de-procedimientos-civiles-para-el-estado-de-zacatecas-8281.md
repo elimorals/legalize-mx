@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-civiles-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1966-03-02"
-last_updated: "1997-02-15"
+last_updated: "2001-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2001.
 
 Código Publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 2 de marzo de 1966.
 
@@ -931,9 +931,21 @@ Los escritos deberán ir firmados por las partes o por sus representantes o patr
 
 De todos los escritos y documentos se presentarán copias para la contraparte, la que sólo tendrá derecho a reclamarlas dentro de las veinticuatro horas siguientes a la fecha en que surta efectos la notificación respectiva. La omisión de las copias no será motivo para dejar de admitir los escritos y documentos que se presenten, pero, en este caso, el juez podrá mandarlas hacer a costa del que debió presentarlas. Las demandas principales o incidentales y los escritos con los que se formulen liquidaciones no serán admitidos si no se acompañan las copias.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2001)</small>
+
+Los escritos y documentos a que se refiere este artículo deberán presentarse ante las oficialías de partes del Tribunal o Juzgados, según corresponda y lo determine el reglamento respectivo. Los responsables de las mismas deberán entregarlos a los Secretarios de Acuerdos, a más tardar al inicio de la jornada laboral del día hábil siguiente al en que los reciban, salvo aquéllos casos en que se soliciten medidas urgentes o de término o que conforme a la ley deban resolverse inmediatamente, los cuales deberán turnarse oportunamente.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2001)</small>
+
+Los escritos a que se refiere la última parte del párrafo anterior que impliquen un término perentorio para su presentación o en los que se soliciten medidas urgentes, podrán presentarse fuera del horario normal de labores, ante el responsable de la oficialía correspondiente.
+
 149.- Las partes podrán pedir que los documentos que se presenten se guarden en la caja del juzgado y no se agreguen al expediente. En este caso, se deberán exhibir copias fotográficas o fotostáticas de los mismos, o copias simples para que, cotejadas por el secretario, obren en el expediente y los originales se guarden en la caja del juzgado, asentándose razón en autos.
 
-150.- El juzgado, por conducto del secretario hará constar el día y la hora en que se presente un escrito, y una razón de los documentos que se anexen. El secretario deberá dar cuenta del escrito, a más tardar dentro de las veinticuatro horas siguientes, bajo la pena de multa de diez pesos, sin perjuicio de otras penas que merezca conforme a las leyes.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2001)</small>
+
+150.- El responsable de la oficialía de partes impondrá el sello oficial y hará constar el día y la hora en que se presenten los escritos y razón de los documentos que se anexen.
+
+El Secretario de Acuerdos deberá dar cuenta al juez con los escritos que le sean turnados, a más tardar dentro de las veinticuatro horas siguientes a su recepción por la oficialía de partes, salvo en los casos que conforme a la ley deban resolverse inmediatamente.
 
 151.- Los secretarios y el funcionario que designe la Ley Orgánica del Poder Judicial y su Reglamento, serán responsables de los expedientes que radiquen en el Tribunal respectivo. Cuidarán de que todas las actuaciones o documentos se glosen al expediente a que correspondan. Los expedientes deberán ser foliados y al agregarse cada una de las hojas se rubricarán por el secretario en el centro y se pondrá el sello del juzgado en el fondo del cuaderno de manera que queden selladas las dos caras. Cuando se desglose algún documento se pondrá razón de los folios que queden cancelados.
 
@@ -2729,7 +2741,9 @@ VII.- De resoluciones que ordenen, con el carácter de provisional, medidas caut
 
 VIII.- De sentencias extranjeras cuya validez haya sido declarada por resolución firme conforme a este Código.
 
-403.- Serán órganos para llevar adelante la ejecución forzosa de las resoluciones judiciales los siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2001)</small>
+
+403.- Serán órganos para ordenar la ejecución forzosa de las resoluciones judiciales los siguientes:
 
 I.- El juez que haya conocido del negocio en primera instancia respecto de la ejecución de sentencias definitivas que hayan causado ejecutoria, o las que lleven ejecución provisional;
 
@@ -2741,7 +2755,7 @@ IV.- La ejecución de las sentencias arbitrales se hará por el juez competente 
 
 V.- La ejecución en caso de títulos ejecutivos, corresponderá al juez que conozca de la demanda y de acuerdo con las reglas generales de competencia, y
 
-VI.- La ejecución de las sentencia extranjera corresponderá al juez que declaró su validez.
+IV.- La ejecución de las sentencia extranjera corresponderá al juez que declaró su validez.
 
 404.- Procederá la ejecución directa en los casos en que la ley o la resolución que se ejecute, lo determine, y, además, en los siguientes casos:
 
@@ -3119,6 +3133,52 @@ IV.- En los casos de reembargo, el depositario del primer secuestro lo será res
 
 446.- En caso de que los ejecutores practiquen simultáneamente embargos ordenados en juicios distintos, los realizarán asociados y tendrán igual preferencia, levantándose un acta para cada expediente y correspondiendo el nombramiento del depositario al ejecutante en el embargo ordenado por el juzgado de primera instancia del ramo civil.
 
+### CAPITULO IV. Periodo final de la ejecución forzosa
+
+468.- El periodo final de la ejecución forzosa, tratándose de sentencias, consistirá en el pago y aplicación de la suma obtenida y en la adjudicación de los bienes embargados que no hayan sido objeto de venta judicial.
+
+469.- La suma o bienes obtenidos en la ejecución, se integrará:
+
+I.- Con el efectivo y valores embargados;
+
+II.- Con lo obtenido como precio en la venta judicial;
+
+III.- Con el precio de las cosas adjudicadas, y
+
+IV.- Con las demás cantidades o cosas que estén sujetas a la ejecución forzosa.
+
+470.- El pago y distribución del caudal obtenido mediante la ejecución se hará de acuerdo con las reglas siguientes:
+
+I.- Si es uno solo el acreedor embargante y no intervienen otros acreedores, el juez, una vez convertida la sentencia a cantidad líquida, dispondrá el pago a su favor de lo que le corresponda por capital, intereses y costas. Para la integración de lo que corresponde al acreedor, se tomará en cuenta el precio de los bienes del deudor que le hayan sido adjudicados;
+
+II.- Si fuere uno solo el ejecutante y procediere la adjudicación de la finca hipotecada u otros bienes embargados por haberse renunciado legalmente a la subasta, o por otras causas, para el pago se tomará en cuenta el precio en que se hubiere hecho la adjudicación, descontándose los gastos de ejecución y gravámenes o créditos que hayan quedado reconocidos;
+
+III.- Si hubiere varios embargantes, o intervinieren otros acreedores, el juez distribuirá la suma obtenida ajustándose a las reglas de prelación, y
+
+IV.- El sobrante de la suma obtenida se entregará al deudor o al que demuestre tener derecho para ello.
+
+471.- Si al practicarse la distribución surge alguna controversia entre los acreedores que concurren o entre un acreedor y el deudor, acerca de la existencia y monto de uno o varios créditos o la existencia de derechos de prelación, el juez decidirá en una audiencia a la que serán citados todos los interesados para que se les oiga y presenten pruebas.
+
+Si la cuestión sólo afecta parte de la suma a distribuir, se proveerá desde luego a la de la parte no controvertida.
+
+472.- Además de los acreedores que tengan sobre los bienes embargados un derecho de prelación que resulte de los registros públicos o un derecho legal de prenda, y de los demás embargantes o reembargantes, quienes deberán ser citados, podrán intervenir en la distribución cualesquiera otros, aun los no privilegiados. A este efecto, formularán mediante escrito, que indicará el monto y título del crédito, la pretensión de participar en la suma obtenida con la ejecución.
+
+473.- Para determinar la prelación en la distribución de la suma obtenida se seguirán las siguientes reglas:
+
+I.- Si todos los acreedores intervinientes que justifiquen tener derecho sobre la suma obtenida, someten al juez, de común acuerdo, un plan para la distribución, se proveerá de conformidad, después de oído el deudor, y
+
+II.- Si no hubiere acuerdo, salvo lo que dispongan en contrario otras leyes, la distribución se hará conforme al siguiente orden de prelación:
+
+a)Acreedores alimentistas;
+
+b)Acreedores privilegiados con derechos reales de prenda o hipoteca en el orden de inscripción en los registros públicos o de fechas, si la inscripción no fuere necesaria;
+
+c)Embargantes en el orden que corresponda por concepto de prioridad en tiempo en la fecha de los embargos; excepto cuando el embargo se deba inscribir en el Registro Público, pues entonces regirá el orden de fechas de la inscripción, y
+
+d)Los demás acreedores no privilegiados intervinientes se sujetarán a concurso.
+
+474.- Si la distribución de la suma obtenida no alcanzare para cubrir el crédito del ejecutante, quedarán sus derechos expeditos para pedir nueva ejecución forzosa por el saldo insoluto.
+
 ### CAPITULO III. De las ventas y remates judiciales
 
 447.- Todas las ventas o remates judiciales, en cuanto a los términos y condiciones en que hayan de verificarse, se regirán por las disposiciones de este Capítulo, salvo los casos en que la ley disponga otra cosa.
@@ -3332,52 +3392,6 @@ VII.- El acreedor podrá cesar en la administración de la finca, cuando lo crea
 466.- El juez tendrá durante la tramitación de los remates el poder de resolver y allanar cualquier dificultad que se presente.
 
 467.- Cualquier liquidación que tenga que hacerse respecto al pago de los gravámenes que afecten a los bienes vendidos, gastos de ejecución y demás, se regularán por el juez con un escrito de cada parte, y resolución dentro del tercero día.
-
-### CAPITULO IV. Periodo final de la ejecución forzosa
-
-468.- El periodo final de la ejecución forzosa, tratándose de sentencias, consistirá en el pago y aplicación de la suma obtenida y en la adjudicación de los bienes embargados que no hayan sido objeto de venta judicial.
-
-469.- La suma o bienes obtenidos en la ejecución, se integrará:
-
-I.- Con el efectivo y valores embargados;
-
-II.- Con lo obtenido como precio en la venta judicial;
-
-III.- Con el precio de las cosas adjudicadas, y
-
-IV.- Con las demás cantidades o cosas que estén sujetas a la ejecución forzosa.
-
-470.- El pago y distribución del caudal obtenido mediante la ejecución se hará de acuerdo con las reglas siguientes:
-
-I.- Si es uno solo el acreedor embargante y no intervienen otros acreedores, el juez, una vez convertida la sentencia a cantidad líquida, dispondrá el pago a su favor de lo que le corresponda por capital, intereses y costas. Para la integración de lo que corresponde al acreedor, se tomará en cuenta el precio de los bienes del deudor que le hayan sido adjudicados;
-
-II.- Si fuere uno solo el ejecutante y procediere la adjudicación de la finca hipotecada u otros bienes embargados por haberse renunciado legalmente a la subasta, o por otras causas, para el pago se tomará en cuenta el precio en que se hubiere hecho la adjudicación, descontándose los gastos de ejecución y gravámenes o créditos que hayan quedado reconocidos;
-
-III.- Si hubiere varios embargantes, o intervinieren otros acreedores, el juez distribuirá la suma obtenida ajustándose a las reglas de prelación, y
-
-IV.- El sobrante de la suma obtenida se entregará al deudor o al que demuestre tener derecho para ello.
-
-471.- Si al practicarse la distribución surge alguna controversia entre los acreedores que concurren o entre un acreedor y el deudor, acerca de la existencia y monto de uno o varios créditos o la existencia de derechos de prelación, el juez decidirá en una audiencia a la que serán citados todos los interesados para que se les oiga y presenten pruebas.
-
-Si la cuestión sólo afecta parte de la suma a distribuir, se proveerá desde luego a la de la parte no controvertida.
-
-472.- Además de los acreedores que tengan sobre los bienes embargados un derecho de prelación que resulte de los registros públicos o un derecho legal de prenda, y de los demás embargantes o reembargantes, quienes deberán ser citados, podrán intervenir en la distribución cualesquiera otros, aun los no privilegiados. A este efecto, formularán mediante escrito, que indicará el monto y título del crédito, la pretensión de participar en la suma obtenida con la ejecución.
-
-473.- Para determinar la prelación en la distribución de la suma obtenida se seguirán las siguientes reglas:
-
-I.- Si todos los acreedores intervinientes que justifiquen tener derecho sobre la suma obtenida, someten al juez, de común acuerdo, un plan para la distribución, se proveerá de conformidad, después de oído el deudor, y
-
-II.- Si no hubiere acuerdo, salvo lo que dispongan en contrario otras leyes, la distribución se hará conforme al siguiente orden de prelación:
-
-a)Acreedores alimentistas;
-
-b)Acreedores privilegiados con derechos reales de prenda o hipoteca en el orden de inscripción en los registros públicos o de fechas, si la inscripción no fuere necesaria;
-
-c)Embargantes en el orden que corresponda por concepto de prioridad en tiempo en la fecha de los embargos; excepto cuando el embargo se deba inscribir en el Registro Público, pues entonces regirá el orden de fechas de la inscripción, y
-
-d)Los demás acreedores no privilegiados intervinientes se sujetarán a concurso.
-
-474.- Si la distribución de la suma obtenida no alcanzare para cubrir el crédito del ejecutante, quedarán sus derechos expeditos para pedir nueva ejecución forzosa por el saldo insoluto.
 
 ### CAPITULO V. Declaración de validez y ejecución de sentencias extranjeras
 
@@ -4149,7 +4163,7 @@ V.- Que el adoptante o adoptantes sean de buenas costumbres.
 
 En la petición inicial deberá manifestarse el nombre y edad de la persona a quien se va adoptar, y si es menor o incapacitado, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o instituciones de beneficencia que lo hayan acogido. Si el adoptado es menor o incapacitado y no está sujeto a patria potestad o tutela, se le proveerá de tutor especial para que lo represente.
 
-597.- Rendidas las justificaciones que se exigen en el artículo anterior, y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 489 y 490 del Código Civil, el tribunal resolverá lo que corresponda, dentro del tercero día.
+597.- Rendidas las justificaciones que se exigen en el articulo anterior, y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 489 y 490 del Código Civil, el tribunal resolverá lo que corresponda, dentro del tercero día.
 
 598.- Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez lo citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el artículo 499 del Código Civil.
 
@@ -4817,7 +4831,7 @@ V.- Si se pidiere como acto prejudicial, y no se presente la demanda dentro del 
 
 711.- En casos de urgente necesidad podrán decretarse alimentos provisionales a quien tenga derecho de exigirlos y contra quien deba pagarlos. En este caso debe acreditarse el título en cuya virtud se piden, las posibilidades de quien deba darlos y la urgencia de la medida. Cuando se pidan por razón de parentesco, deberá acreditarse éste. Si se fundan en testamento, contrato o convenio, debe exhibirse el documento en que consten.
 
-712.- Rendida la justificación a que se refiere el artículo anterior, el juez fijará la suma en que deban consistir los alimentos, mandando abonarlos por meses o quincenas anticipados.
+712.- Rendida la justificación a que se refiere el artículo anterior, el juez la fijará suma en que deban consistir los alimentos, mandando abonarlos por meses o quincenas anticipados.
 
 Si se piden con medida provisional en un juicio de divorcio, se procederá en la forma prevista por el artículo 371 del Código Civil.
 
@@ -5627,7 +5641,7 @@ El Notario dará a reconocer estas declaraciones por medio de dos publicaciones 
 
 830.- La tramitación de intestado ante Notario no podrá iniciarse sino hasta que la autoridad judicial haya hecho la declaración de herederos, y siempre que todos los interesados sean mayores de edad, que lo pidan de común acuerdo y que no exista controversia alguna.
 
-831.- La tramitación ante Notario se hará del conocimiento del representante del Fisco para que tenga la intervención que le concede la ley.
+831.- La tramitación ante Notario se hará del conocimiento del representante Fisco para que tenga la intervención que le concede la ley.
 
 832.- Ya se trate de testamentarías o de intestados, practicado el inventario por el albacea y estando conformes con él todos los herederos, lo presentarán al Notario para que lo protocolice. Simultáneamente con el inventario se hará el avalúo, de acuerdo con las reglas establecidas en la Ley de Hacienda del Estado y en la Ley Federal del Impuesto sobre Herencias y Legados.
 
@@ -6067,7 +6081,7 @@ Si se declara improcedente o no probada la causa de recusación, se impondrá al
 
 3º.- Todos los juicios terminados, así como sus efectos jurídicos, se rigen por la ley anterior.
 
-4º.- Respecto a la tramitación de los juicios pendientes, se observarán las siguientes prevenciones;
+4º.- Respecto a la tramitación de los juicios pendientes, se observarán las siguientes prevenciones:
 
 I.- Tendrán plena validez y efectos los actos realizados conforme a las leyes derogadas;
 
@@ -6079,7 +6093,7 @@ IV.- La tramitación y resolución de las apelaciones pendientes al entrar en vi
 
 V.- Si para la interposición de un recurso o para el ejercicio de algún otro derecho en la tramitación de los negocios pendientes al expedirse este Código, estuviere corriendo algún término y el señalado en él fuere menor que el fijado en la ley anterior, se observará lo dispuesto en esta última;
 
-VI.- Los procedimientos de ejecución forzosa y providencias cautelares, se sujetarán a este Código en el estado en que se encuentren; pero acomodándolos de manera que su aplicación no resulte retroactiva:
+VI.- Los procedimientos de ejecución forzosa y providencias cautelares, se sujetarán a este Código en el estado en que se encuentren; pero acomodándolos de manera que su aplicación no resulte retroactiva;
 
 VII.- La caducidad de la instancia por inactividad de las partes operará en todos los negocios; pero en los asuntos pendientes deberá comenzar a contarse el plazo en la fecha señalada en el artículo 1 transitorio.
 
@@ -6150,3 +6164,7 @@ SEGUNDO.- Los juicios de competencia local o concurrente que se hayan iniciado c
 P.O. 15 DE FEBRERO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 18 DE ABRIL DE 2001
+
+UNICO.- El presente Decreto entrará en vigor quince días naturales después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
