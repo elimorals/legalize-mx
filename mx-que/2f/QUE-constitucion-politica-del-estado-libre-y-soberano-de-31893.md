@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1917-09-22"
+last_updated: "1918-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 1918
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -1061,15 +1061,19 @@ El Supremo Poder Ejecutivo del Estado, se depositará en una persona, que se den
 
 El Gobernador del Estado durará en su encargo cuatro años, y será electo directa y popularmente, en los términos que establezca la ley electoral respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 1918)</small>
+
 ###### Art. 77.
 
-Para ser Gobernador se requiere:
+Para ser Gobernador del Estado se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento, y en el pleno ejercicio de sus derechos políticos y civiles;
 
 II.- Ser ciudadano del Estado por nacimiento, o con vecindad no menor de cinco años, inmediatamente anteriores al día de la elección;
 
-III.- Tener treinta años cumplidos el día de la elección;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1918)</small>
+
+III.- Tener cuarenta años cumplidos el día de la elección;
 
 IV.- No desempeñar ningún cargo público en el Estado, ya dependa de éste o de la Federación, ni tener mando de fuerzas en el Estado; al menos, en todos estos casos, que se separe definitivamente de su empleo o encargo, noventa días antes de la elección;
 
@@ -1316,6 +1320,12 @@ Art.10º .- Se derogan las leyes, decretos y reglamentos vigentes en el Estado, 
 Dada en el Salón de Sesiones del H. Congreso, en Querétaro, a cuatro de septiembre de mil novecientos diez y siete.- Presidente, LIC. BENITO REYNOSO, 1er. Diputado por la Municipalidad de Querétaro.- Vice-presidente, LIC. ROBERTO NIETO, 1er. Diputado por la Municipalidad de Cadereyta.- JUVENTINO RUIZ ALFARO, Diputado por la Municipalidad de Amealco.- JOSE OROZCO, JR., 2º Diputado por la Municipalidad de Cadereyta.- JOSÉ F. MARROQUIN, 2º Diputado por la Municipalidad de Querétaro.- LIC. LUIS GOMEZ, 3er. Diputado por la Municipalidad de Querétaro.- MARIANO RETANA, 4º Diputado por la Municipalidad de Querétaro.- PEDRO ARGAIN, 2º Diputado suplente por la Municipalidad de San Juan del Río.- EUGENIO MENDOZA, 1er. Diputado por la Municipalidad de Tolimán.- Secretario, DR. CARLOS ALCOCER; 5º Diputado por la Municipalidad de Querétaro.- Secretario, GUILLERMO ALCANTARA, 1er. Diputado por la Municipalidad de San Juan del Río.- Prosecretario, JUAN B. MENDOZA, 3er. Diputado por la Municipalidad de San Juan del Río.- Prosecretario, ISMAEL M. UGALDE, 2º Diputado por la Municipalidad de Tolimán.
 
 Por tanto, mando se imprima, circule y publique por bando solemne, en todo el Estado, para su debido cumplimiento.- Dado en el Palacio de Gobierno, a nueve de septiembre de mil novecientos diez y siete.- El Gobernador Constitucional, ERNESTO PERUSQUIA.- El Srio. General de Gobierno, Lic. J. RODRIGUEZ DE LA FUENTE.
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.
+
+P.O. 9 DE NOVIEMBRE DE 1918
+
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION , NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 ###### Art. 2º.
 
