@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1963-12-21"
+last_updated: "1964-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 1964.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -533,7 +533,7 @@ XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente 
 
 XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución.
 
-XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
+XXII.- Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
@@ -1065,7 +1065,7 @@ V. No haber sido condenado por delito infamante. La calificación la hace el H. 
 
 ###### Art. 95.
 
-Los acuerdos, circulares, órdenes y disposiciones que dictare el Gobernador, así como los documentos que subscriba en ejercicio de sus funciones constitucionales, deben ser autorizados por el Secretario General, sin el cual requisito no surtirán efectos legales.
+Los acuerdos, circulares, órdenes y disposiciones que dictare el Gobernador, así como los documentos que suscriba en ejercicio de sus funciones constitucionales, deben ser autorizados por el Secretario General, sin el cual requisito no surtirán efectos legales.
 
 ###### Art. 96.
 
@@ -1373,7 +1373,9 @@ a).- Si la falta del propietario u del suplente ocurre dentro de los dos primero
 
 b).- Cuando las faltas ocurran en el último año del período, el Ejecutivo designará a los substitutos a propuesta en terna de los Ayuntamientos.
 
-c).- Si faltare íntegramente el Ayuntamiento, seguirá en funciones el anterior mientras se efectúa nueva elección. En caso de negativa por parte del Ayuntamiento anterior, el Gobernador del Estado nombrará una Junta de Administración, hasta que se celebre nueva elección.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 1964)</small>
+
+c).- Si faltare íntegramente el Ayuntamiento, el Gobernador nombrará una Junta de Administración Civil que se haga cargo del Gobierno Municipal, la que funcionará por todo el período para el que fue electo aquél.
 
 XII.- En las poblaciones que no sean cabeceras de Municipalidad, según la importancia del poblado, los Ayuntamientos respectivos nombrarán Delegados o Sub-Delegados con las facultades y obligaciones que les señalará la Ley Orgánica Municipal, los cuales serán sus representantes directos.
 
@@ -1858,3 +1860,9 @@ Este Decreto entrará en vigor a partir de la fecha de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Envíese al Ejecutivo para su promulgación, publicación y debido cumplimiento.
+
+P.O. 16 DE MAYO DE 1964.
+
+Artículo Primero. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Segundo. Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
