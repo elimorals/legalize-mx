@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "1972-10-21"
+last_updated: "1991-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURIDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 1991.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -201,7 +201,9 @@ TRABAJADORES DE CONFIANZA.
 
 Son trabajadores de confianza:
 
-I.- En el Poder Legislativo: el Oficial Mayor del Congreso, y el jefe del Departamento de Glosa.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 1991)</small>
+
+I.- En el Poder Legislativo: El Oficial Mayor del Congreso, el Contador Mayor de Hacienda y el personal que labora en la Contaduría Mayor de Hacienda del Congreso.
 
 II.- En el Poder Ejecutivo:
 
@@ -1345,6 +1347,8 @@ El efecto de la interrupción es inutilizar para la prescripción, todo el tiemp
 
 INTEGRACION DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 167.
 
 En el caso señalado en la fracción I del artículo 161, la prescripción se contará a partir de la fecha en que se expida el nombramiento. Para el caso de la fracción II del mismo artículo, desde la fecha en que esté en aptitud de volver al trabajo de acuerdo con la constancia médica respectiva.
@@ -1363,31 +1367,53 @@ En los casos señalados en la fracción I del artículo 163, la prescripción se
 
 Para los efectos de la prescripción los meses y los años se regularán por el número de días que les correspondan; el primer día se contará completo y cuando sea inhábil el último, no se tendrá por completa la prescripción, sino completo el primer día hábil siguiente.
 
-## TITULO DECIMO PRIMERO.. TRIBUNAL DE CONCILIACION Y ARBITRAJE
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MARZO DE 1991)</small>
+
+## TITULO DECIMO PRIMERO.
+
+DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE PARA LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y DE LOS MUNICIPIOS.
 
 ### CAPITULO II.
 
 PERSONAL DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 171.
 
-El Tribunal de Conciliación y Arbitraje será colegiado y lo integrarán un representante del Gobierno del Estado, que será designado por la Legislatura Local o por la Comisión Permanente durante los recesos de aquélla, a proposición que en sendas ternas presentarán el Gobernador del Estado y el Supremo Tribunal de Justicia en pleno; un representante de los trabajadores, designado por el Sindicato de Trabajadores al Servicio del Estado de Coahuila; y un tercer árbitro, que nombrarán los dos representantes antes citados. Este último fungirá como Presidente.
+El Tribunal de Conciliación y Arbitraje será colegiado y funcionará en dos Secciones, denominadas por número ordinal y presididas por un tercer árbitro que fungirá como Presidente del Tribunal y de cada una de las Secciones.
 
-Por cada Representante Propietario y por el tercer árbitro, habrá un suplente.
+La Primera Sección, conocerá de los conflictos que surjan entre los Poderes del Estado y sus trabajadores.
+
+Integrarán la primera Sección, además del tercer árbitro, un representante del Gobierno del Estado, que será designado por la Legislatura Local o por la Diputación Permanente durante los recesos de aquélla, a proposición que en sendas ternas presentará el Gobernador del Estado y el Pleno del Tribunal Superior de Justicia, y un representante de los trabajadores, designados por el Sindicato Unico de los Trabajadores al Servicio del Estado de Coahuila.
+
+La Segunda Sección, conocerá de los conflictos que se susciten entre los Municipios y sus trabajadores.
+
+Integrarán la Segunda Sección, además del tercer árbitro un Representante de los Ayuntamientos y otro de los trabajadores, que serán designados en la forma y términos previstos por el artículo 623 del Código Municipal.
+
+El tercer árbitro será designado por los representantes que integran las dos Secciones.
 
 ###### ARTICULO 172.
 
 El Presidente del Tribunal durará en su cargo seis años y sólo podrá ser removido por haber cometido delitos graves del orden común.
 
-Los representantes del Gobierno del Estado y de los trabajadores, podrán ser removidos libremente por quienes los designaron.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+
+Los representantes del Gobierno del Estado, de los Ayuntamientos y de los trabajadores, podrán ser removidos libremente por quienes los designaron.
 
 Los integrantes del Tribunal disfrutarán de los emolumentos que fije el Presupuesto de Egresos.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 1991)</small>
+
+Por cada Representante propietario y por el tercer árbitro, habrá un suplente.
 
 ###### ARTICULO 173.
 
 Las faltas temporales de los miembros del Tribunal serán cubiertas por sus respectivos suplentes.
 
-Las faltas absolutas de los miembros del Tribunal serán cubiertas siguiendo el procedimiento indicado en el artículo 171.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+
+Las faltas absolutas de los miembros de la Primera Sección y del Presidente del Tribunal serán cubiertas siguiendo el procedimiento indicado en el Artículo 171. Las faltas absolutas de los Representantes en la segunda Sección, se cubrirán mediante nuevo sorteo, entre los candidatos que ya fueron propuestos al Congreso por los Ayuntamientos y por sus trabajadores.
 
 ###### ARTICULO 174.
 
@@ -1401,7 +1427,9 @@ III.- No haber sido condenado por delitos contra la propiedad o a sufrir pena ma
 
 El Presidente deberá ser Licenciado en Derecho, con tres años de ejercicio profesional como mínimo.
 
-Los representantes de los trabajadores deberán haber servido a las dependencias como empleados de base, por un período no menor de cinco años, precisamente anterior a la fecha de la designación.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+
+Los representantes de los trabajadores deberán haber servido en las dependencias como empleados de base, por un período no menor de cinco años, precisamente anterior a la fecha de la designación.
 
 ###### ARTICULO 175.
 
@@ -1413,7 +1441,7 @@ COMPETENCIA DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE.
 
 ###### ARTICULO 176.
 
-El Tribunal contará con un Secretario General de Acuerdos y los secretarios, actuarios y el personal que sea necesario. El personal de que conste el Tribunal estará sujeto a la presente ley, pero los conflictos que se susciten con motivo de la aplicación de la misma, serán resueltos por la Junta de Conciliación y Arbitraje con residencia en la capital del Estado.
+El Tribunal contará con un Secretario de Acuerdos para cada Sección, los secretarios, actuarios y el personal que que (sic) sea necesario. El personal con que cuente el Tribunal estará sujeto al presente Estatuto, pero los conflictos que se susciten con motivo de la aplicación del mismo, serán resueltos por la Junta de Conciliación y Arbitraje con residencia en la Capital del Estado.
 
 ###### ARTICULO 177.
 
@@ -1425,7 +1453,7 @@ II.- Tener título legalmente expedido de Licenciado en Derecho; y
 
 III.- No haber sido condenado por delito intencional sancionado con pena corporal.
 
-El Secretario General de Acuerdos deberá llenar estos mismos requisitos.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 12 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 178.
 
@@ -1481,9 +1509,11 @@ MEDIOS DE APREMIO.
 
 En todo lo no previsto por este Título, se aplicará la Ley Federal del Trabajo y en su defecto el Código de Procedimientos Civiles del Estado.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 182.
 
-Tan pronto reciba la primera promoción relativa a un conflicto colectivo o sindical, el Presidente del Tribunal de Conciliación y Arbitraje, citará a las partes dentro de las veinticuatro horas siguientes a una audiencia de conciliación, que deberá llevarse a cabo dentro del término de tres días contados a partir de la fecha de la citación. En esta audiencia procurará avenir a las partes; de celebrarse convenio, se elevará a la categoría de laudo, que las obligará como si se tratara de sentencia ejecutoriada. Si no se avienen, remitirá el expediente a la Secretaría General de Acuerdos del Tribunal para que se proceda al arbitraje de conformidad con el procedimiento que establece este Capítulo.
+Tan pronto reciba la primera promoción relativa a un conflicto colectivo o sindical, el Presidente del Tribunal de Conciliación y Arbitraje, citará a las partes dentro de las veinticuatro horas siguientes a una audiencia de conciliación, que deberá llevarse a cabo dentro del término de tres días contados a partir de la fecha de la citación. En esta audiencia procurará avenir a las partes; de celebrarse convenio, se elevará a la categoría de laudo, que las obligará como si se tratara de sentencia ejecutoriada. Si no se avienen, remitirá el expediente a la Secretaría de Acuerdos de la Sección que deba conocer del asunto para que proceda al arbitraje de conformidad con el procedimiento que establece este Capítulo.
 
 ###### ARTICULO 183.
 
@@ -1493,9 +1523,11 @@ En el procedimiento ante el Tribunal de Conciliación y Arbitraje no se requiere
 
 El procedimiento para resolver las controversias que se sometan al Tribunal de Conciliación y Arbitraje, se reducirá: a la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia; a la contestación, que podrá hacerse en cualquiera de las dos formas señaladas; y a una sola audiencia en la que se recibirán las pruebas y alegatos de las partes, y se pronunciará resolución, salvo cuando a juicio del propio Tribunal se requiera la práctica de otras diligencias, en cuyo caso se ordenará que se lleven a cabo, y, una vez desahogadas, se dictará laudo.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 185.
 
-Todas las actuaciones se efectuarán con la asistencia de los Miembros del Tribunal y serán válidas con la concurrencia de dos de ellos. Sus resoluciones se dictarán por mayoría de votos.
+Todas las actuaciones deberán efectuarse en las Secciones, con la asistencia de sus miembros y serán válidas con la concurrencia de dos de ellos. Sus resoluciones se dictarán por mayoría de votos.
 
 ###### ARTICULO 186.
 
@@ -1519,13 +1551,17 @@ La contestación de la demanda se presentará en un término que no exceda de ci
 
 Cuando el domicilio del demandado se encuentre fuera del lugar en que radica el Tribunal, se ampliará el término en un día por cada 100 Kms. de distancia o fracción que exceda de la mitad.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 188.
 
-El Tribunal, tan luego como reciba la contestación de la demanda o una vez transcurrido el plazo para contestarla, ordenará la práctica de las diligencias que fueren necesarias y citará a las partes, y, en su caso, a los testigos y peritos, para la audiencia de pruebas, alegatos y resolución.
+La Sección a la que haya sido turnado el asunto, tan luego como reciba la contestación de la demanda o una vez transcurrido el plazo para contestarla, ordenará la práctica de las diligencias que fueren necesarias y citará a las partes, y, en su caso, a los testigos y peritos, para la audiencia de pruebas, alegatos y resolución.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 189.
 
-El día y hora de la audiencia se abrirá el período de recepción de pruebas; el Tribunal calificará las mismas, admitiendo las que estime pertinentes y desechando aquellas que resulten notoriamente inconducentes o contrarias a la moral o al derecho o que no tengan relación con la litis. Acto continuo se señalará el orden de su desahogo, primero las del actor y después las del demandado, en la forma y términos que el Tribunal estime oportuno, tomando en cuenta la naturaleza de las mismas y procurando la celeridad en el procedimiento.
+El día y hora de la audiencia se abrirá el período de recepción de pruebas; la Sección calificará las mismas, admitiendo las que estime pertinentes y desechando aquéllas que resulten notoriamente inconducentes o contrarias a la moral o al derecho o que no tengan relación con la litis. Acto continuo se señalará el orden de su desahogo, primero las del actor y después las del demandado, en la forma y términos que estime oportuno, tomando en cuenta la naturaleza de las mismas y procurando la celeridad en el procedimiento.
 
 ###### ARTICULO 190.
 
@@ -1579,11 +1615,13 @@ El Tribunal sancionará las faltas de respeto que se le cometan, ya sea por escr
 
 El Tribunal de Conciliación y Arbitraje no podrá condenar el pago de costas.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 202.
 
-Los miembros del Tribunal de Conciliación y Arbitraje sólo podrán ser recusados con causa.
+Los miembros de las Secciones del Tribunal de Conciliación y Arbitraje sólo podrán ser recusados con causa.
 
-Son causas de recusación las señaladas para los miembros de la Junta Central de Conciliación y Arbitraje por la Ley Federal del Trabajo y se calificarán en los términos que la misma Ley laboral señala.
+Son causas de recusación para los miembros del Tribunal de Conciliación y Arbitraje, las que marca la Ley Federal del Trabajo y se calificarán en los términos que la misma Ley laboral señala.
 
 ###### ARTICULO 203.
 
@@ -1603,9 +1641,11 @@ EJECUCION DE LAUDOS.
 
 El Tribunal, para hacer cumplir sus determinaciones, podrá imponer multas hasta de mil pesos.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 206.
 
-Las multas se harán efectivas por la Tesorería General del Estado para lo cual el Tribunal girará el oficio correspondiente. La Tesorería informará al Tribunal de haber hecho efectiva la multa, señalando los datos relativos que acrediten su cobro.
+Las multas se harán efectivas por la Secretaría de Finanzas del Estado, para lo cual girará el oficio correspondiente. La Secretaría informará al Tribunal de haber hecho efectiva la multa, señalando los datos relativos que acrediten su cobro.
 
 ### CAPITULO IV.
 
@@ -1615,9 +1655,11 @@ CORRECCIONES DISCIPLINARIAS Y SANCIONES.
 
 El Tribunal de Conciliación y Arbitraje tiene la obligación de proveer a la eficaz e inmediata ejecución de los laudos y, a ese efecto, dictará todas las medidas necesarias en la forma y términos que su juicio sean procedentes.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 208.
 
-Cuando se pida la ejecución de un laudo, el Tribunal despachará auto de ejecución y comisionará a un actuario para que se constituya en el domicilio de la demandada y la requiera para que cumpla la resolución apercibiéndola de que, de no hacerlo, se procederá conforme a lo dispuesto en el capítulo anterior.
+Cuando se pida la ejecución de un laudo, el Tribunal a través de la Sección a la que corresponda el conocimiento del asunto, despachará el auto de ejecución y comisionará a un actuario para que se constituya en el domicilio de la demandada y la requiera para que cumpla la resolución, apercibiéndola de que de no hacerlo, se procederá conforme a lo dispuesto en el capítulo anterior.
 
 ###### ARTICULO 209.
 
@@ -1633,7 +1675,9 @@ Las correcciones a que alude el artículo anterior serán:
 
 I.- Amonestaciones;
 
-II.- Multa que no podrá exceder de cien pesos; y
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 1991)</small>
+
+II.- Multa que no podrá exceder de dos días de salario mínimo vigente en la Capital del Estado; y
 
 III.- Suspensión del empleo con privación de sueldos hasta por tres días.
 
@@ -1641,9 +1685,11 @@ III.- Suspensión del empleo con privación de sueldos hasta por tres días.
 
 Las correcciones disciplinarias se impondrán oyendo al interesado y tomando en cuenta las circunstancias en que tuvo lugar la falta cometida.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 212.
 
-Las infracciones a la presente Ley que no tengan establecida otra sanción, se castigarán con multas hasta de mil pesos.
+Las infracciones al presente Estatuto que no tengan establecidas otra sanción, se castigarán con multas hasta de cinco días de salario mínimo vigente en la Capital del Estado.
 
 ###### ARTICULO 213.
 
@@ -1716,3 +1762,23 @@ ING. EULALIO GUTIERREZ TREVIÑO.
 El Secretario del Ejecutivo del Estado.
 
 LIC. OSCAR VILLEGAS RICO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MARZO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, excepción hecha de las disposiciones relativas a la integración y funcionamiento del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y de los Municipios, que iniciarán su vigencia cuando sean designados los Representantes de los Ayuntamientos y los trabajadores municipales, respectivamente.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+El Presidente del Tribunal que actualmente viene fungiendo, permanecerá en su puesto hasta el término para el cual fue designado.
+
+###### ARTICULO CUARTO.
+
+En tanto se integra el Tribunal de Conciliación y Arbitraje en la forma prevista por el presente Decreto, los asuntos seguirán tramitándose como se ha venido haciendo hasta la fecha.
