@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-penales-para-el-estado-libre-y-4716"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-01-30"
-last_updated: "2000-10-29"
+last_updated: "2004-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de enero de 1992.
 
@@ -285,9 +285,11 @@ Las fianzas que deban otorgarse se sujetarán a las disposiciones especiales de 
 
 En materia penal no se pagarán costas, el funcionario o empleado que las cobrare o recibiere, aunque sea a título de gratificación, será destituído de su empleo, sin perjuicio de que sea consignado al Ministerio Público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 35.
 
-Todos los gastos que se originen en las diligencias de policía judicial, y las acordadas por los tribunales a solicitud del Ministerio Público, serán cubiertas por el erario del Estado.
+Todos los gastos que se originen en las diligencias de policía ministerial, y las acordadas por los tribunales a solicitud del Ministerio Público, serán cubiertas por el erario del Estado.
 
 Los gastos de las diligencias solicitadas por el inculpado o la defensa, serán cubiertos por quienes las promueven. En caso de que estén imposibilitados para ello y de que el Ministerio Público estime que son indispensables para el esclarecimiento de los hechos, podrá éste hacer suya la petición de esas diligencias y entonces quedarán también a cargo del erario del Estado.
 
@@ -549,9 +551,11 @@ V.- La firma o la transcripción de la firma del funcionario que ordene la citac
 
 Cuando se haga la citación por cédula, deberá acompañarse a ésta un duplicado en el cual firme el interesado o cualquiera otra persona que la reciba.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 76.
 
-En caso de urgencia podrá hacerse la citación por telefonema, o por mensaje escrito vía telefónica que transmitirá el funcionario de la policía judicial que practique las diligencias o el secretario o actuario respectivo del tribunal que corresponda quienes harán la citación con las indicaciones a que se refieren las fracciones I y III del artículo 74 de este código, asentando constancia en el expediente.
+En caso de urgencia, podrá hacerse la citación por telefonema o por mensaje escrito vía telefónica que transmitirá el funcionario de la policía ministerial que practique las diligencias o el secretario o actuario respectivo del tribunal que corresponda, quienes harán la citación con las indicaciones a que se refieren las fracciones I y III del artículo 74 de este Código, asentando constancia en el expediente.
 
 Asimismo, podrá ordenarse por teléfono o por mensaje escrito vía telefónica a la policía que haga la citación, cumpliéndose con los requisitos del mismo artículo 74.
 
@@ -881,9 +885,11 @@ El funcionario que practique diligencias de averiguación previa determinará en
 
 Cuando se determine la internación de alguna persona a un hospital u otro establecimiento similar, deberá indicarse el carácter con que sea su ingreso, lo que se comunicará a los encargados del establecimiento respectivo; quienes bajo su responsabilidad no autorizarán su salida, a menos de recibir notificación escrita en este sentido de parte de la autoridad que hubiese ordenado la internación; si no se hiciere esa indicación, se entenderá que sólo ingresa para su curación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 132.
 
-El funcionario del Ministerio Público expedirá las órdenes para la autopsia e inhumación del cadáver y el levantamiento de las actas de defunción respectivas, cuando apareciere que la muerte fue posiblemente originada por algún delito, y las diligencias de la policía judicial no estuvieren en estado de consignarse desde luego a los tribunales.
+El funcionario del Ministerio Público expedirá las órdenes para la autopsia e inhumación del cadáver y el levantamiento de las actas de defunción respectivas, cuando apareciere que la muerte fue posiblemente originada por algún delito y las diligencias de la policía ministerial no estuvieren en estado de consignarse desde luego a los tribunales.
 
 Si de las mismas diligencias apareciere claramente que la muerte no tuvo por origen un delito, y por lo mismo, no procediere ejercitar la acción penal, las órdenes para el levantamiento del acta de defunción y para la inhumación del cadáver se darán por el Ministerio Público.
 
@@ -1075,11 +1081,11 @@ La autoridad revocará la concesión inmediatamente después de que el inculpado
 
 CONSIGNACION ANTE LOS TRIBUNALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 163.
 
-El Ministerio Público y la Policía Judicial a su mando, están obligados a detener al responsable, sin esperar a tener orden judicial, en delito flagrante o en caso urgente.
+El Ministerio Público y la policía ministerial a su mando, están obligados a detener al responsable, sin esperar a tener orden judicial, en delito flagrante o en caso urgente:
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1994)</small>
 
@@ -1111,13 +1117,11 @@ c).- Que el Ministerio Público no pueda ocurrir ante la autoridad judicial por 
 
 El Ministerio Público al emitir la orden de detención en caso urgente deberá hacerlo por escrito, fundando y expresando los indicios que acrediten los requisitos mencionados en los incisos anteriores.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2004)</small>
 
-La orden mencionada será ejecutada por la Policía Judicial, quien deberá sin dilación alguna poner al detenido a disposición del Ministerio Público que la haya librado.
+La orden mencionada será ejecutada por la policía ministerial, quien deberá sin dilación alguna poner al detenido a disposición del Ministerio Público que la haya librado.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE OCTUBRE DE 2000)</small>
-
-Para todos los efectos legales se califican como delitos graves, los previstos en los artículos: 69 inciso a) y b); 70, 118, 119, 121, 122, 126, 127, 151 fracción II, 207, 254, 256, 258, 261, 262, 266, 267, 268, 280, 281, 285, 296, 297, 298, 299, 300, 301, 314, 317, fracciones IV y V; 319, 320, 321, segundo párrafo; 327 fracción VI; 328, 329, 330, 331, 332, 341 último párrafo, todos ellos del Código Penal de nuestro Estado.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 2 DE MAYO DE 2004)</small>
 
 > <small>(ADICIONADO, P.O. 17 DE JULIO DE 1994)</small>
 
@@ -1197,9 +1201,11 @@ Para dictarse orden de aprehensión con nuevos datos, no será obstáculo la cir
 
 Si por datos posteriores el agente del Ministerio Público estimare que ya no es procedente una orden de aprehensión o que debe reclasificarse la conducta o hechos por los cuales se hubiese ejercitado la acción, y la orden no se hubiera ejecutado aún, pedirá su cancelación o hará la reclasificación, en su caso, con acuerdo del Procurador General de Justicia o el Sub'Procurador que corresponda. Este acuerdo deberá constar en el expediente, la cancelación no impide que continúe la averiguación y que posteriormente vuelva a solicitarse orden de aprehensión si procede, salvo que por la naturaleza del hecho en el que la cancelación se funde deba sobreseer el proceso. En los casos a los que se refiere este artículo, el juzgador resolverá de plano.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 170.
 
-Cuando se trate de aprehensión de alguna persona cuyo paradero se ignore, el juzgador que dicte la orden la comunicará al agente del Ministerio Público adscrito para que éste la trascriba a la Procuraduría General de Justicia del Estado, a fin de que la Policía Judicial o los auxiliares de aquella, localicen y aprehendan a dicha persona.
+Cuando se trate de aprehensión de alguna persona cuyo paradero se ignore, el juzgador que dicte la orden la comunicará al agente del Ministerio Público adscrito para que éste la transcriba a la Procuraduría General de Justicia del Estado, a fin de que la policía ministerial o los auxiliares de aquélla, localicen y aprehendan a dicha persona.
 
 ###### ARTICULO 171.
 
@@ -1257,19 +1263,25 @@ VI.- En caso de que el indiciado o la persona a quien se refiera la fracción an
 
 VII.- El arraigo no podrá prologarse (sic) por más de tres días; transcurridos éstos el arraigado podrá desplazarse libremente, sin perjuicio de que el Ministerio Público, si así procediese, consigne la averiguación y solicite la orden mencionada.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 177.
 
-La autoridad que ejecute una orden judicial de aprehensión, deberá poner al inculpado a disposición del juez que la libró, sin dilación alguna y bajo su más estricta responsabilidad. Se entenderá que el imputado queda a disposición del juzgador, para los efectos constitucionales y en cumplimiento de la orden respectiva lo ponga a disposición de aquél en la prisión preventiva o en un centro de salud, si el imputado amerita atención médica urgente. El encargado del reclusorio o del centro de salud asentará en el documento relativo a la orden de aprehensión ejecutada que le presente la Policía Judicial, el día y hora de recibido del detenido.
+La autoridad que ejecute una orden judicial de aprehensión, deberá poner al inculpado a disposición del Juez que la libró, sin dilación alguna y bajo su más estricta responsabilidad. Se entenderá que el imputado queda a disposición del juzgador, para los efectos constitucionales y en cumplimiento de la orden respectiva lo ponga a disposición de aquél en la prisión preventiva o en un Centro de Salud, si el imputado amerita atención médica urgente. El encargado del reclusorio o del centro de salud asentará en el documento relativo a la orden de aprehensión ejecutada que le presente la policía ministerial, el día y hora de recibido del detenido.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
 
 Los encargados de ejecutar el mandamiento de aprehensión, cuidarán de asegurar a las personas, pero evitarán toda violencia y fuerza innecesaria.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+
 Tratándose de delitos culposos, cuya prisión no exceda de cinco años, el acusado será puesto a disposición del juez directamente, sin quedar internado en los lugares de prisión preventiva para que pueda solicitar su libertad provisional.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 178.
 
-Cuando el delito esté sancionado con pena no privativa de libertad o con pena alternativa y estuvieren reunidos los requisitos a que se refiere el artículo 16 constitucional, para dictar mandamiento de aprehensión, se librará orden de comparecencia en contra del imputado para que rinda su declaración preparatoria, en el día y hora señalados para tal efecto. Si el imputado no comparece se fijará nuevo día y hora, ordenando a la Policía Judicial su presencia forzosa.
+Cuando el delito esté sancionado con pena no privativa de libertad o con pena alternativa y estuvieren reunidos los requisitos a que se refiere el artículo 16 Constitucional, para dictar mandamiento de aprehensión, se librará orden de comparecencia en contra del imputado para que rinda su declaración preparatoria, en el día y hora señalados para tal efecto. Si el imputado no comparece, se fijará nuevo día y hora, ordenando a la policía ministerial su presencia forzosa.
 
 ###### ARTICULO 179.
 
@@ -2035,7 +2047,9 @@ IV.- Que sea de hecho propio, y
 
 V.- Que no existan datos que, a juicio del juez o tribunal, la hagan inverosímil.
 
-No podrá consignarse a ninguna persona si existe como única prueba la confesión. La Policía Judicial podrá rendir informes, pero no obtener confesiones; si lo hace éstas carecerán de todo valor probatorio.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2004)</small>
+
+No podrá consignarse a ninguna persona si existe como única prueba la confesión. La policía ministerial podrá rendir informes pero no obtener confesiones; si lo hace éstas carecerán de todo valor probatorio.
 
 ###### ARTICULO 298.
 
@@ -3278,3 +3292,17 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 P.O. 29 DE OCTUBRE DE 2000.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE MAYO DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor, simultáneamente con la entrada en vigor del decreto No. 338, aprobado en fecha 1º de abril del año en curso que contiene el Código Penal para el Estado de Durango, previa su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos penales que se tramiten por delito grave ante los Tribunales del Estado, de conformidad con lo que establece el último párrafo del artículo 163 del Código de Procedimientos Penales del Estadio de Durango, antes de la vigencia de este Decreto, seguirán tramitándose conforma a dicha disposición legal.
