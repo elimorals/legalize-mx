@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-3931"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-11-16"
-last_updated: "1993-06-05"
+last_updated: "1996-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 1985.
 
@@ -453,25 +453,23 @@ XV.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le co
 
 XVI.- Los demás que le atribuyan las Leyes y Reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otra dependencia.
 
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1986)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1996)</small>
 
 ARTICULO 24 BIS.- A la Secretaría de Salud y Bienestar Social, corresponde el despacho de los siguientes asuntos:
 
-I.- Coordinar, a través de su titular, al Sistema Estatal de Salud.
+I.- Coordinar el Sistema Estatal de Salud;
 
-II.- Representar a través de su titular, al Gobierno del Estado, ante el Subcomité de Salaud (sic) y Seguridad Social y ante los órganos colegiados del I.M.S.S., I.S.S.S.T.E. y D.I.F.
+II.- Proponer al Ejecutivo el proyecto del Programa Estatal de Salud y evaluar su ejecución;
 
-III.- Evaluar la ejecución del programa estatal de salud.
+III.- Ejercer las funciones de autoridad sanitaria federal que se descentralicen y las de competencia local;
 
-IV.- Ejercer las funciones de autoridad sanitaria federal que se descentralicen y las de competencia local.
+IV.- Estimar y coordinar la operatividad de los servicios médicos y de salud pública;
 
-V.- Estimar y coordinar la operatividad de los servicios médicos y de salud pública.
+V.- Elaborar el proyecto de su presupuesto anual;
 
-VI.- Administrar los recursos financieros federales que le sean transferidos por la Secretaría de Salud del Ejecutivo Federal y los que provengan del Gobierno Estatal.
+VI.- Representar al Gobierno del Estado, a través de su titular, ante el Subcomité de Salud y Bienestar Social y ante los órganos colegiados en el Estado del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y del Sistema Estatal para el Desarrollo Integral de la Familia (DIF); y
 
-VII.- Elaborar el proyecto del programa Presupuesto anual.
-
-VIII.- Las demás que le atribuyan las leyes, reglamentos y convenios vigentes, siempre que esta Ley no los señale como exclusivas de otras dependencias.
+VII.- Las demás que le atribuyan las leyes, reglamentos y convenios vigentes, siempre que esta Ley no las señale como exclusivas de otras dependencias.
 
 ARTICULO 24 BIS (SIC).- (DEROGADO, P.O. 5 DE JUNIO DE 1993)
 
@@ -676,3 +674,7 @@ SEGUNDO.- El Congreso del Estado, de conformidad con el Convenio de Ejecución d
 P.O. 5 DE JUNIO DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 26 DE OCTUBRE DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
