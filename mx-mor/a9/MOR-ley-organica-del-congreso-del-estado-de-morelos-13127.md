@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-13127"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-11-12"
-last_updated: "2002-07-10"
+last_updated: "2002-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2002.
 
 Ley publicada en el Periódico Oficial, el día 12 de Noviembre de 1997.
 
@@ -891,6 +891,10 @@ e) La atención de asuntos relativos a la discriminación o mal trato de la muje
 
 f) Participar, en representación del Poder Legislativo, en los organismos públicos o sociales que atiendan la problemática de género, cuando así las disposiciones normativas lo permitan.
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2002)</small>
+
+g) Proponer ante el órgano de gobierno del Instituto de la Mujer para el Estado de Morelos a las mujeres que en representación de las agrupaciones sociales formarán parte de la Junta Directiva del Mismo.
+
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2002)</small>
 
 ARTICULO 60 TER.- Corresponde a la comisión de asuntos de la Juventud:
@@ -1326,6 +1330,18 @@ Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los e
 P.O. 10 DE JULIO DE 2002.
 
 DECRETO NO. 631
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 31 DE JULIO DE 2002.
+
+DECRETO NO. 679
 
 ###### ARTÍCULO PRIMERO.
 
