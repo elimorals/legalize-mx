@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1973-08-08"
+last_updated: "1973-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 1973.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -33,249 +33,33 @@ Que la H. XXVIII Legislatura del mismo, ha tenido a bien decretar:
 
 La XXVIII Legislatura Constitucional del Estado Libre y Soberano de Chiapas, con su carácter de Asamblea Constituyente, en nombre del Pueblo decreta la siguiente:
 
+> <small>N. DE E. LA QUINCUAGESIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS APROBO EL DECRETO No. 92, QUE REFORMA LA CONSTITUCION POLITICA VIGENTE EN EL ESTADO, MODIFICANDO DE MANERA SUSTANCIAL EL TEXTO QUE A LA FECHA TENIA DICHO ORDENAMIENTO, PRESENTANDOSE POR TAL MOTIVO SOLO EL TEXTO APROBADO Y PUBLICADO EN EL PERIODIO OFICIAL DEL ESTADO EL 15 DE AGOSTO DE 1973.</small>
+
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-## TITULO PRIMERO. Del Estado y su Territorio
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+## TITULO PRIMERO. DEL ESTADO Y SU TERRITORIO
 
-###### ARTICULO 1.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-El Estado de Chiapas es parte integrante de la República Mexicana, es libre y soberano en su régimen interior sin más limitaciones que las expresamente establecidas por el Pacto Federal, la soberanía reside esencial y originariamente en el pueblo de Chiapas, en cuyo nombre lo ejerce el poder público, en la forma y términos que las leyes lo establecen.
+###### Artículo 1°.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1973)</small>
+Esta Ley empezara a surtir sus efectos desde el 1° primero de enero del año de 1926 mil novecientos veintiséis.
 
-###### ARTICULO 2.
+###### Artículo 2°.
 
-El territorio del Estado para su funcionamiento político y administrativo queda dividido en los Municipios siguientes, con sus correspondientes Agencias y los que se creen con arreglo a las Leyes, así como suprimirlos cuando se considere necesario. (sic)
+Quedan derogadas todas las leyes y disposiciones que se opongan al presente decreto.
 
-ARRIAGA, con sus Agencias Municipales de La Calera y La Punta.
+P.O. 30 DE NOVIEMBRE DE 1926.
 
-ACAPETAHUA, con sus Agencias Municipales de Soconusco y La Palma.
+## TITULO SEGUNDO. DE LOS HABITANTES DEL ESTADO
 
-ALTAMIRANO, con su Agencia Municipal de Chiptic.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-AMATAN, con sus Agencias Municipales de El Azufre y La Montaña.
+### CAPITULO UNICO. DE LA DIVISION DE LOS PODERES
 
-AMATENANGO DE LA FRONTERA, con sus Agencias Municipales de El Pacayal, Monte Ordóñez, Guadalupe Victoria, La Punta y La Montaña.
-
-AMATENANGO DEL VALLE.
-
-ANGEL ALBINO CORZO, con su Agencia Municipal de Monte Cristo de Guerrero.
-
-ACALA, con su Agencia Municipal de "20 de Noviembre".
-
-ACACOYAGUA, con sus Agencias Municipales de Los Cacaos y La Libertad.
-
-BERRIOZABAL.
-
-BOCHIL, con su Agencia Municipal de Chavarría.
-
-BEJUCAL DE OCAMPO, con sus Agencias Municipales de Ojo de Agua, Las Tablas y La Laguna.
-
-BELLA VISTA, con sus Agencias Municipales de Pacayal, El Platanar, Las Chicharras, La Laguna, Las Tablas, Los Cimientos y La Selva.
-
-COMITAN DE DOMINGUEZ, con sus Agencias Municipales de Ajayash, Chacaljemel, Juznacab, Los Riegos y Yocnajab.
-
-CINTALAPA, con sus Agencias Municipales de La Providencia, Valdiviana y Emiliano Zapata.
-
-CACAHOATAN.
-
-CATAZAJA, con sus Agencias Municipales de Cuyo Alvaro Obregón, Paraíso y Zaragoza.
-
-COAPILLA.
-
-COPAINALA, con sus Agencias Municipales de Riberas de Guadalupe, Juárez y Zacalapa.
-
-CHIAPA DE CORZO, con sus Agencias Municipales de Ribera de Amatal, Canguí, Cupía, Nandayacul, El Palmar, Nandamgua y Julián Grajales.
-
-CHIAPILLA.
-
-CHANAL.
-
-CHENALHO, con sus Agencias Municipales de Aldama y Manuel Utrilla.
-
-CHILON, con sus Agencias Municipales de Bachajón y Guaquitepec.
-
-CHAMULA.
-
-CHAPULTENANGO.
-
-CHICOMUCELO.
-
-CHICOASEN.
-
-CHALCHIHUITAN.
-
-ESCUINTLA, con sus Agencias Municipales de Tizapa, El Triunfo y Doña María.
-
-EL PORVENIR, con sus Agencias Municipales de Chimalapa, El Zapotillo y Malé.
-
-EL BOSQUE, con sus Agencias Municipales de Nishtalucum, Plátanos y Chavajaval.
-
-FRONTERA COMALALA, con sus Agencias Municipales de El Portal, Paso Hondo, Ibarra y Zapotal.
-
-FRANCISCO LEON.
-
-FRONTERA HIDALGO.
-
-HUIXTLA, con sus Agencias Municipales de La Libertad y Coronado.
-
-HUEHUETAN.
-
-HUIXTAN.
-
-HUITIUPAN.
-
-IXHUATAN.
-
-IXTAPA.
-
-IXTACOMITAN.
-
-IXTAPANGAJOYA, con su Agencia Municipal de Caoba.
-
-JIQUIPILAS, con su Agencia Municipal de Ortiz Rubio.
-
-JUAREZ.
-
-JITOTOL.
-
-LA CONCORDIA.
-
-LA GRANDEZA.
-
-LA INDEPENDENCIA.
-
-LA LIBERTAD, con su Agencia Municipal de Luis Espinosa.
-
-LAS MARGARITAS, con su Agencia Municipal de El Edén.
-
-LAS ROSAS.
-
-LARRAINZAR, con su Agencia Municipal de El Pinar.
-
-LA TRINITARIA.
-
-MAPASTEPEC.
-
-MAZAPA DE MADERO, con sus Agencias Municipales de Granados, Talquenaque, Hidalgo, Juárez y Tocanaque.
-
-MAZATAN.
-
-METAPA.
-
-MITONTIC.
-
-MOTOZINTLA, con sus Agencias Municipales de Benito Juárez, Buenos Aires, Carrizal, Chinance, Lubieca, Aztecas, Niquivil, Pueblo Viejo, Ixtepec, Berriozábal, Tuizcúm, Togzolog, Soledad, Cipresal y Belisario Domínguez.
-
-NICOLAS RUIZ.
-
-OCOSINGO, con sus Agencias Municipales de Abasolo, Sibacá, Tenango y Cancuc.
-
-OCOTEPEC.
-
-OCOZOCOAUTLA DE ESPINOSA, con sus Agencias Municipales de Espinal de Morelos, Ocuilapa, El Prado, Valle de Corzo, Aquiles Serdán, San Vicente y Galeana.
-
-OSTUACAN, con su Agencia Municipal de Sayula.
-
-OSUMACINTA.
-
-OXCHUC
-
-PALENQUE, con su Agencia Municipal de Urania.
-
-PANTELHO.
-
-PANTEPEC.
-
-PICHUCALCO, con sus Agencias Municipales de Tectuapán y Nicapa.
-
-PIJIJIAPAN, con sus Agencias Municipales de Tapachulita y Zapotal.
-
-PUEBLO NUEVO COMALTITLAN, con su Agencia Municipal de La Providencia.
-
-PUEBLO NUEVO SOLISTAHUACAN.
-
-RAYON.
-
-REFORMA
-
-SAN CRISTOBAL DE LAS CASAS, con sus Agencias Municipales de Ejidos de Pedernal y Ecatepec.
-
-SABANILLA, con su Agencia Municipal de Los Moyos.
-
-SALTO DE AGUA, con sus Agencias Municipales de Cenobio Aguilar y La Sabana.
-
-SILTEPEC, con sus Agencias Municipales El Rodeo, Las Ventanas, Honduras, Capitán Luis Vidal, Las Pilas, Las Delicias, Angel Díaz, Vega del Paredón, Rosario, La Cascada y La Frailesca.
-
-SOCOLTENANGO.
-
-SIMOJOVEL, con su Agencia Municipal de Pueblo Nuevo Sitalá.
-
-SOYALO.
-
-SOLOSUCHIAPA.
-
-SUCHIATE.
-
-SUCHIAPA, con sus Agencias Municipales de Riberas de la Furia, Pacú y Plan de Mulumí.
-
-SUNUAPA.
-
-SAN FERNANDO.
-
-SAN LUCAS.
-
-SITALA.
-
-TUXTLA GUTIERREZ, con sus Agencias Municipales de Copoya, Cerro Hueco y Terán.
-
-TAPACHULA, con sus Agencias Municipales de El Edén, Las Maravillas, Nexapa, Puerto Madero, Chicharras, Carrillo Puerto y Alvaro Obregón.
-
-TUXTLA CHICO.
-
-TAPALAPA.
-
-TAPILULA.
-
-TECPATAN, con su Agencia Municipal de Quechula.
-
-TENEJAPA.
-
-TEOPISCA, con su Agencia Municipal de Nuevo León.
-
-TILA, con su Agencia Municipal de Petalsingo.
-
-TOTOLAPA.
-
-TONALA, con sus Agencias Municipales de Arista, La Polka, Pesquería, Los Cocos y Ponte Duro.
-
-TUZANTAN.
-
-TUMBALA, con su Agencia Municipal de Hidalgo.
-
-TZIMOL.
-
-UNION JUAREZ.
-
-VENUSTIANO CARRANZA, con sus Agencias Municipales de Aguacatenango, Ribera de Chalchí, Soyatitán y Matamoros.
-
-VILLA CORZO, con su Agencia Municipal de Valle Morelos.
-
-VILLA FLORES, con su Agencia Municipal de El Rosarito.
-
-YAJALON, con su Agencia Municipal de Amado Nervo.
-
-ZINACANTAN.
-
-Los Ayuntamientos con la sola autorización previa del Congreso del Estado, podrán crear o suprimir Agencias Municipales, dentro de su jurisdicción.
-
-## TITULO SEGUNDO. De los habitantes, vecinos y ciudadanos del Estado
-
-### CAPITULO I. De la Elección e Instalación del Congreso
-
-(REFORMADO, P.O. 16 DE ABRIL DE 1952) (REPUBLICADO, P.O. 7 DE MAYO DE 1952)
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 3.
 
@@ -327,7 +111,9 @@ II.- Desempeñar los cargos concejiles del Municipio de su vecindad, las funcion
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
 
-### CAPITULO II. De la iniciativa y formación de las leyes
+### CAPITULO I. DEL PODER LEGISLATIVO
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 7.
 
@@ -337,7 +123,9 @@ I.- Votar y ser votado, para los cargos de elección popular, siempre que para l
 
 II.- Los de petición y asociación en los asuntos políticos del Estado.
 
-### CAPITULO III. De las Facultades del Congreso
+### CAPITULO II. DE LA ELECCION E INSTALACION DEL CONGRESO
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 8.
 
@@ -359,531 +147,595 @@ VI.- Por falta de cumplimiento, sin causa justificada, de cualquiera de las obli
 
 VII.- Por separarse del territorio del Estado por un tiempo mayor de un año. En este caso queda sin efecto la suspensión con residir nuevamente en el Estado el mismo tiempo.
 
-### CAPITULO IV. De la Diputación Permanente
+### CAPITULO III. DE LA INICIATIVA Y FORMACION DE LAS LEYES
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+
+###### ARTICULO 7o.
+
+Son obligaciones de los vecinos:
+
+Además de las señaladas en el artículo 5o. de esta Constitución, las siguientes:
+
+Hacer que sus hijos o pupilos menores de quince años, así como las demás personas que de ellos dependan por razón de trabajo o cualquiera otra circunstancia, concurran a escuelas públicas o privadas para obtener la instrucción primaria elemental.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 9.
 
 Pierde el derecho de ciudadano del Estado el que deje de ser ciudadano mexicano.
 
-### CAPITULO I. (REFORMADO, P.O. 16 DE ABRIL DE 1952) (REPUBLICADO, P.O. 7 DE MAYO DE 1952)
+### CAPITULO IV
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+
+###### ARTICULO 8o.
+
+Son Chiapanecos:
+
+I.- Los individuos que hayan nacido en el territorio del Estado.
+
+II.- Los hijos de padre o madre chiapanecos, que residan en el Estado por un lapso no menor de cinco años, aunque hayan nacido fuera del mismo.
+
+III.- Los mexicanos por nacimiento o por naturalización procedentes de otras Entidades Federativas que residan en el Estado por más de seis años consecutivos.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+
+###### ARTICULO 9o.
+
+Son ciudadanos chiapanecos:
+
+l.- Los individuos que reúnan los requisitos de las fracciones I y II del artículo anterior, hayan cumplido 18 años de edad y tengan honrado modo de vivir moralmente.
+
+II.- Los Ciudadanos Mexicanos por nacimiento o por naturalización que tengan más de ocho años de risidencia (sic) consecutiva en el Estado y modo honrado de vivir.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 10.
 
-La calidad de ciudadano chiapaneco no puede obtenerse por declaratoria del Congreso.
+Son obligaciones de los ciudadanos Chiapanecos:
 
-### CAPITULO II. Del Secretario General
+I.- Inscribirse en el Padrón Municipal del lugar en que tengan establecido su domicilio.
+
+II.- lnscribirse en el Padrón Municipal y votar en las elecciones que les corresponda.
+
+III.- Desempeñar los cargos de elección popular para los que hayan sido designados, reunidos los requisitos que la Ley exija en cada caso.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+
+### CAPITULO V. DE LA COMISION PERMANENTE
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 11.
 
-El Estado de Chiapas ejerce su soberanía por medio de tres Poderes, Legislativo, Ejecutivo y Judicial, que funcionan con absoluta independencia y sólo conservan la necesaria armonía, entre sí, para la marcha propia y correcta de la Administración Pública. La invasión de un Poder sobre cualquiera de los otros constituye motivo de grave responsabilidad, y para hacerla efectiva se concede acción popular.
+Son derechos del ciudadano Chiapanecos (sic):
 
-No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo, salvo el caso de facultades extraordinarias que se concedan al Ejecutivo, conforme a lo dispuesto en la fracción XI del artículo 33.
+a) Votar en las elecciones Municipales y Estatales.
+
+b) Poder ser votado en dichas elecciones y nombrado para cualquier cargo o comisión, siempre que estén satisfechos los requisitos que la Ley exige.
+
+c) De petición y Asociación en los asuntos políticos del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 12.
 
-El Poder Legislativo será ejercido por un Congreso de Diputados electos popularmente en forma directa; durarán en su encargo tres años y se renovarán en su totalidad sin que puedan ser reelectos para el período inmediato. Por cada Diputado Propietario se eligirá (sic) un Diputado Suplente.
+Los derechos y prerrogativas del ciudadano Chiapaneco se suspenden:
 
-Los Diputados Suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+1.- Por incapacidad natural.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1972)</small>
+2.- Por estar sujeto a un proceso criminal por delito que merezca pena corporal. La suspensión en este caso tiene efectos desde el momento en que cause ejecutoria el auto de formal prisión o la providencia que a él equivalga, o desde aquel en que se declare que ha lugar a formación de causa, tratándose de funcionarios que gocen de fuero constitucional.
+
+3.- Durante la extinción de una pena corporal.
+
+4.- Por conducta antisocial. La suspensión de este caso, debe ser declarada por la autoridad competente.
+
+5.- Por sentencia ejecutoria que imponga como pena esa suspensión.
+
+6.- Por separarse del territorio del Estado por un término mayor de un año, sin causa justificada.
+
+La calidad de ciudadano Chiapaneco se recobra por haber cesado la causa que dió motivo a la suspensión.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 13.
 
-Para la elección de Diputados, el Estado se dividirá en tantos Distritos Electorales cuantos demande el censo de su población, designándose uno por cada doscientos mil habitantes o fracción que exceda de sesenta mil.
+Pierde el derecho de ciudadano del Estado, el que deje de ser ciudadano mexicano.
 
-Cada Distrito Electoral eligirá (sic) un Diputado Propietario y un Suplente.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
+### CAPITULO I
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 14.
 
-Para ser electo Diputado se requiere:
+La calidad de ciudadano Chiapaneco no puede obtenerse por declaratoria de la Legislatura Local.
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
-
-I.- Ser ciudadano chiapaneco nacido en el estado e hijo de padres mexicanos por nacimiento;
-
-II.- Conocer el Distrito que se va a representar;
-
-III.- Ser mayor de veinticinco años el día de la elección; y
-
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
-
-IV.- Estar en pleno goce de sus derechos políticos y civiles; no pertenecer al estado eclesiástico ni ser ministro de algún culto.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 15.
 
-No pueden ser electos Diputados Locales:
+Los Poderes PúbIicos del Estado constituyen el Gobierno del mismo y son: Legislativo Ejecutivo y Judicial.
 
-I.- El Gobernador del Estado, los Senadores y Diputados Federales, aun cuando se separen definitivamente de sus puestos.
+No podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo, salvo el caso de facultades extraordinarias que se conceden al Ejecutivo, conforme a lo dispuesto en la fracción XXIV del artículo 34.
 
-> <small>(REFORMADA P.O. 24 DE JUNIO DE 1953)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-II.- El Secretario General de Gobierno, el Subsecretario de Gobierno, el Oficial Mayor de Gobierno, los Magistrados del Tribunal Superior de Justicia, el Procurador General de Justicia, los Empleados Federales en funciones y el Director General de Hacienda, sin que renuncien y se separen de sus cargos con noventa días antes de la elección.
+## TITULO TERCERO. DEL PODER PUBLICO DEL ESTADO
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1953)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-III.- Tampoco pueden serlo por el Distrito en que ejerzan jurisdicción, los Jueces de Primera Instancia, Recaudadores de Hacienda, Presidentes Municipales y Director General de Seguridad Pública del Estado, a menos que renuncien o se separen de su cargo noventa días antes de la elección.
+### CAPITULO II. DEL SECRETARIO GENERAL DE GOBIERNO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 1951)</small>
-
-## TITULO TERCERO. De la División de los Poderes
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 16.
 
-Si de la elección de diputados resultaren dos o más agrupaciones con pretenciones (sic) cada una de constituir la legislatura del Estado, únicamente será reconocida como legislatura legal, la que se hubiere instalado en el recinto oficial.
+El Poder Legislativo se depositará en una Asamblea de Representantes que se denominará Congreso del Estado de Chiapas.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
-
-El Congreso calificará las elecciones de sus miembros y resolverá las dudas que hubiere sobre ellas. Sus resoluciones en este caso, serán definitivas e inatacables.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 17.
 
-Los diputados son inviolables por las opiniones que emitan en el desempeño de su encargo y jamás podrán ser reconvenidos por ellas.
+El Congreso del Estado de Chiapas, se integrará por Diputados electos en su totalidad cada tres años, sin que puedan ser reelectos para el período inmediato; su elección será libre y directa.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
+Los Diputados suplentes podrán ser electos para el período siguiente con el carácter de propietarios, siempre que no hubiesen estado en ejercicio; pero los propietarios no podrán ser electos en dicho período con el carácter de suplentes.
 
-## TITULO CUARTO. Del Ministerio Público
+Para la elección de Diputados, el Estado se dividirá en tantos Distritos Electorales cuanto demanda el censo de su población, designándose uno por cada doscientos mil habitantes o fracción que exceda de la mitad, sin que su número sea menor de once. Cada Distrito Electoral eligirá (sic) un Diputado Propietario y un Suplente.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-#### SECCION PRIMERA. Del Poder Legislativo
+## TITULO CUARTO
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+
+#### SECCION SEGUNDA. DEL PODER EJECUTIVO
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 18.
 
-El Congreso no puede abrir sus sesiones ni ejercer su encargo, sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la ley y compeler a los ausentes a que concurran dentro de los veinte días siguientes, con la advertencia de que si dejaren de asistir sin que medie causa justificada, se entenderá por solo ese hecho que no aceptan su cargo, llamándose desde luego a los suplentes. Estos deberán presentarse en un plazo igual, y si tampoco concurren sin tener causa justificada, se declarará vacante el puesto y se convocará a nuevas elecciones.
+Para ser electo Diputado, se requiere:
 
-Se entiende también, que los Diputados que falten a sesiones por diez días consecutivos sin causa justificada o sin previa licencia de la Cámara, de lo cual se dará conocimiento a ésta, renuncian a concurrir a las sesiones del año, por lo que deberá llamarse desde luego a los suplentes.
+I.- Ser Ciudadano Chiapaneco, en ejercicio de sus derechos.
 
-Si no hubiere quórum, para instalar la Cámara o para que ejerza sus funciones una vez instalada, se convocará inmediatamente a los suplentes para que se presenten a la mayor brevedad a desempeñar su encargo, entre tanto transcurren los veinte días de que antes se ha hablado.
+II.- Haber residido en el Estado los dos años inmediatos y anteriores a la elección.
+
+III.- Tener veintiún años cumplidos el día de la elección.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 19.
 
-Los diputados que no concurran a una sesión, sin causa justificada y sin permiso de la Cámara, no tendrán derecho a la dieta correspondiente al día en que falten.
+No podrán ser electos diputados:
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+a) El Gobernador del Estado, los senadores y diputados federales, aun cuando con anterioridad se separen de sus cargos.
+
+b) Los ministros de cualquier culto.
+
+c) Si no se separan definitivamente de sus cargos, noventa días antes de la elección:
+
+I.- El Secretario General de Gobierno, Subsecretario General de Gobierno, Oficial Mayor de Gobierno, Procurador y Sub-procuradores Generales de Justicia, Presidente de la Junta Local de Conciliación y Arbitraje y directores dependientes del Ejecutivo.
+
+II.- Los Magistrados del Tribunal Superior de Justicia y Jueces de Primera Instancia.
+
+III.- Los Presidentes Municipales.
+
+IV.- Los funcionarios federales.
+
+V.- Los militares en servicio activo y los que tengan mando de la policía en el Distrito donde se efectúe la elección.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 20.
 
-Los períodos ordinarios de sesiones del Congreso comenzarán:
+El Congreso calificará las elecciones de sus miembros, resolviendo las dudas que hubiera sobre ellas. Sus resoluciones serán definitivas e inapelables.
 
-Uno, el primero de noviembre terminando el treinta y uno de enero y otro el primero de mayo, terminando el treinta y uno de julio, habrá además en el año en que se verifiquen las elecciones ordinarias de Gobernador, un período extraordinario de sesiones, para el solo acto de erigirse en colegio electoral y hacer el cómputo de votos emitidos en la elección de Gobernador, así como la declaratoria respectiva en favor de la persona que hubiere obtenido mayoría de sufragios. Dicho período será convocado por la Comisión Permanente tan pronto como tengan la mayoría de los expedientes electorales del Estado.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 21.
 
-El Congreso tendrá sesiones extraordinarias cada vez que sea convocado para este objeto; pero en tal caso no podrá ocuparse más que del asunto o asuntos que se sometieren a su conocimiento, los cuales se expresarán en la convocatoria respectiva.
+El Congreso no puede abrir sus sesiones ni ejercer su encargo, sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la ley y compeler a los ausentes a que concurran dentro de los diez días siguientes, con la advertencia de que si dejaren de asistir, sin que medie causa justificada, se entenderá por ese solo hecho que no aceptan su cargo, llamándose desde luego a los suplentes. Estos deberán presentarse en un plazo igual y si tampoco concurren, sin tener causa justificada, se declarará vacante el cargo y se convocará a nuevas elecciones.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+Se entiende también que, los diputados que falten a sesiones por ocho días consecutivos, sin causa justificada o sin previa licencia de la Cámara, de la cual se dará conocimiento a ésta, renuncian a concurrir a las sesiones del año, por lo que deberá llamarse desde luego a los suplentes.
+
+Si no hubiere quórum para instalar la Cámara o para que ejerza sus funciones una vez instalada, se convocará inmediatamente a los suplentes para que se presenten a la mayor brevedad a desempeñar su encargo, entre tanto transcurren los diez días de que antes se ha hablado.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 22.
 
-A la apertura del primer período sesiones ordinarias del Congreso y a la de las extraordinarias convocadas por el Ejecutivo, asistirá el Gobernador del Estado y presentará su informe por escrito; en el primer caso sobre el estado general que guarde la administración pública; en el segundo para exponer al Congreso las razones o causas que hicieron necesaria su convocación y el asunto que amerite una resolución perentoria. El Presidente del Congreso será quien conteste el primer informe de los que menciona este artículo.
+Los diputados que no concurran a una sesión, sin causa justificada, y sin permiso del Congreso, no tendrán derecho a la dieta correspondiente al día que falten.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 23.
 
-Las resoluciones del Congreso tendrán el carácter de ley, decreto o acuerdo económico: Las leyes o decretos se comunicarán al Ejecutivo firmados por el presidente y los secretarios; los acuerdos por sólo los últimos.
+Los períodos ordinarios de sesiones del Congreso, comenzarán:
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+Uno, el 1o. de noviembre, terminando el 31 de enero; y otro, el 1o. de mayo, terminando el 31 de julio; habrá además en el año en que se verifiquen las elecciones ordinarias de Gobernador, un período extraordinario de sesiones, para el solo acto de erigirse en Colegio Electoral y hacer el cómputo de votos emitidos en la elección de Gobernador, así como la declaratoria respectiva en favor de la persona que hubiere obtenido mayoría de sufragios, dicho período será convocado por la Comisión Permanente tan pronto como tengan la mayoría de los expedientes electorales el Estado.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 24.
 
-Los Diputados propietarios no podrán, durante el período de su encargo, desempeñar ninguna otra comisión o empleo por los cuales se disfrute sueldo, sin licencia previa del Congreso; pero entonces cesarán en sus funciones representativas mientras dura la nueva ocupación. La misma regla se observará con los suplentes, cuando estuvieren en ejercicio. La infracción de esta disposición será castigada con la pérdida del carácter de diputado. No se comprenden en esta restricción los cargos docentes.
+El Congreso tendrá sesiones extraordinarias cada vez que sea convocado para este objeto por la Comisión Permanente o de acuerdo con el Ejecutivo, pero en tales casos no podrá ocuparse más que del asunto o asuntos que se sometieren a su conocimiento, los cuales se expresarán en la convocatoria respectiva.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 25.
 
-El derecho de iniciar leyes o decretos compete:
+El Congreso celebrará el día 1o. de noviembre de cada año, Sesión Solemne, en la cual el Gobernador del Estado presentará su informe por escrito acerca de la situación que guarden los diversos ramos de la Administración Pública. El Presidente del Congreso será quien conteste el informe del Gobernador.
 
-I.- A los diputados;
-
-II.- Al Gobernador;
-
-III.- Al Tribunal Superior de Justicia en su Ramo, y
-
-IV.- A los Ayuntamientos en lo relativo a la Administración Municipal.
-
-Las iniciativas presentadas por el Ejecutivo o por tres o más diputados pasarán desde luego a Comisión. Las demás se sujetarán a los trámites que designe el reglamento.
-
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 26.
 
-Discutido y declarado con lugar a votar todo Proyecto, se pasará en copia al Ejecutivo, para que en el término de siete días hábiles, manifieste su opinión o exprese que no usa de esa facultad.
+Las resoluciones del Congreso tendrán el carácter de Ley o Decreto; las Leyes o Decretos se comunicarán al Ejecutivo, firmados por el Presidente y Secretario.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-## TITULO QUINTO. De los Municipios
+## TITULO CUARTO (SIC). DEL MINISTERIO PUBLICO
 
-(REFORMADO, P.O. 16 DE ABRIL DE 1952) (REPUBLICADO, P.O. 7 DE MAYO DE 1952)
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 27.
 
-Si la opinión del Ejecutivo fuere conforme, se procederá sin más discusión a la votación; mas si discrepare, en todo o en parte, volverá el expediente a la Comisión, para que, tomando en cuenta las observaciones del Ejecutivo, examine otra vez el Proyecto. El nuevo dictamen sufrirá nueva discusión y si fuere aprobado por dos tercios de los Diputados presentes, el proyecto será Ley o Decreto y volverá al Ejecutivo para su promulgación, sin que éste, en ningún caso y por ningún motivo, deje de promulgarlo.
+Los diputados propietarios no podrán durante el período de su encargo, desempeñar ninguna otra comisión o empleo por los cuales se disfrute sueldo, de la Federación o de los Estados, la infracción de esta disposición, será castigada con la pérdida del carácter de diputado. No se comprenden en esta restricción, los cargos docentes y de salud pública.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 28.
 
-En caso de urgencia notoria, calificada por la mayoría de los diputados presentes, el Congreso puede dispensar los trámites de reglamento, pero sin dejar de pasar el proyecto al Ejecutivo, a quien podrá estrechársele el término que señala el artículo 26, reduciéndolo al número de horas que estime el Congreso, que en ningún caso será menor de doce.
+El derecho de iniciar Leyes o decretos compete:
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
+I. A los diputados
+
+II. Al Gobernador
+
+III. Al Tribunal Superior de Justicia, y
+
+IV. A los Ayuntamientos
+
+Las iniciativas presentadas por el Gobernador del Estado, por el Tribunal Superior de Justicia del Estado y los Ayuntamientos, pasarán desde luego a Comisión; las que presentaren los diputados se sujetarán a los trámites que determine el Reglamento del Congreso.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 29.
 
-Todo proyecto de Ley o Decreto, no devuelto por el Ejecutivo en los términos del artículo 26, se reputará aprobado, salvo el caso en que, corriendo ese término hubiere el Congreso cerrado o suspendido sus sesiones, pues en este caso la devolución deberá hacerse el primer día útil en que estuviere reunido.
+Todo proyecto de Ley o Decreto que fuere desechado por el Congreso, no podrá volver a presentarse en el mismo período de sesiones en que fuere desechado.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 30.
 
-En la reforma, derogación o abrogación de las leyes o decretos, se observarán los mismos trámites establecidos para su formación.
+Los proyectos de Leyes o Decretos votados por el Congreso se remitirán al Ejecutivo, quien, si no tuviere observaciones que hacer, los publicará inmediatamente. Se reputará aprobado por el Ejecutivo todo proyecto no devuelto con observaciones dentro de los diez días hábiles siguientes. Si corriendo este término, el Congreso hubiere cerrado o suspendido sus sesiones, la devolución deberá hacerse, a más tardar, el décimo día en que de nuevo estuviere reunido.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 31.
 
-Todo proyecto de ley o decreto que fuere desechado por el Congreso no podrá volver a presentarse en las sesiones del año.
+Si el Congreso adoptare las reformas propuestas por el Ejecutivo en sus observaciones, lo comunicará a éste, quien promuIgará la Ley o Decreto.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 32.
 
-El Ejecutivo no puede hacer observaciones a las resoluciones del Congreso cuando éste ejerza funciones de cuerpo electoral o de jurado, lo mismo que cuando declare que debe acusarse a los altos funcionarios por delitos oficiales.
+Si el Congreso no aceptare Ias observaciones del Ejecutivo, lo reservará para el siguiente período de sesiones, para su resolución definitiva, pero si es aprobado por lo dos tercios de los votos de los miembros presentes, el proyecto será Ley o Decreto y volverá al Ejecutivo para su promulgación y publicación.
 
-Tampoco podrá hacerlas al decreto de convocatoria que expida la COMISION PERMANENTE en el caso del artículo 39.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 33.
 
-Son facultades del Congreso:
+El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso, cuando éste acuerde la prórroga de sus sesiones o ejerza funciones de Cuerpo Electoral o Jurado.
 
-I.- Legislar en todo lo concerniente al régimen interior del Estado y en todo aquello que la Constitución General no comete(sic) expresamente a los funcionarios federales;
-
-II.- Iniciar ante el Congreso General las leyes o decretos que sean de la competencia del Poder Legislativo de la Federación, así como la reforma o derogación de unas y otros, y secundar, cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados;
-
-III.- Legislar sobre la administración, conservación y enagenación (sic) de los bienes del Estado;
-
-IV.- Dirimir las competencias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia;
-
-V.- Crear y suprimir empleos y señalar, aumentar o disminuir sus dotaciones;
-
-VI.- Decretar el Presupuesto de Egresos, con vista del proyecto que anualmente debe presentar el Ejecutivo, y las contribuciones necesarias para cubrirlo;
-
-VII.- Dar bases al Ejecutivo para negociar empréstitos sobre el crédito del Estado, aprobarlos o desaprobarlos y decretar la manera de pagar la deuda;
-
-VIII.- Autorizar al Ejecutivo, dándole bases, para celebrar contratos que requieran emisión de bonos pagaderos en moneda nacional dentro del territorio de la República;
-
-IX.- Mandar pagar las deudas del Estado, siempre que se hayan contraído legítimamente;
-
-X.- Otorgar recompensas por servicios meritorios prestados al Estado;
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 1933)</small>
-
-XI.- Conceder al Ejecutivo, con la aprobación de las dos terceras partes de los Diputados presentes, facultades extraordinarias en materia hacendaria, guerra, educación, obras públicas o cualquiera otra, por motivo de invasión o perturbación de la paz pública o requerirlo así las necesidades de la administración general del Estado, por el tiempo que la Cámara lo estime necesario, debiendo en este caso dar cuenta el Ejecutivo del uso que haga de las facultades que se le concedan;
-
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 1931)</small>
-
-XII.- Erigirse en Colegio Electoral con objeto de computar los votos emitidos en la elección de Gobernador, nombrar a los Magistrados del Tribunal Superior de Justicia, en los términos de esta Constitución, y hacer las declaratorias respectivas;
-
-En estos casos, sus resoluciones serán definitivas e inatacables.
-
-XIII.- (DEROGADA, P.O. 14 DE ENERO DE 1931)
-
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 1957)</small>
-
-XIV.- Nombrar a los empleados de su Secretaría, quienes no podrán pertenecer al Estado Eclesiástico ni ser Ministros de algún culto, observándose lo que dispongan las Leyes respectivas, tanto en lo referente a la designación como a las remociones de los mismos;
-
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
-
-XV.- Nombrar y remover al Contador Mayor de Glosa y a los empleados de su Dependencia, quienes no podrán pertenecer al estado eclesiástico, ni ser ministros de algún culto;
-
-> <small>(ADICIONADA, P.O. 1 DE MARZO DE 1933)</small>
-
-XVI.- Nombrar y remover al Contador General de Glosa y a los empleados de su dependencia, quienes no podrán estar afiliados o subordinados a organizaciones religiosas;
-
-XVII.- Decretar las contribuciones necesarias para el sostenimiento de los municipios;
-
-XVIII.- Conceder amnistía por delitos políticos cuyo conocimiento pertenezca a los Tribunales del Estado;
-
-XIX.- Cambiar provisionalmente la residencia de los Poderes del Estado;
-
-XX.- Establecer escuelas profesionales de investigación científica, de bellas artes, de enseñanza técnica, escuelas prácticas de agricultura, de artes y oficios, y museos, bibliotecas, observatorios y demás institutos concernientes a la cultura superior de los habitantes del Estado;
-
-XXI.- Examinar la cuenta que anualmente le presenten el Ejecutivo y los Ayuntamientos, debiendo comprender dicho examen no sólo la conformidad de la partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificación de ellas;
-
-XXII.- Vigilar por medio de una Comisión de su seno el exacto cumplimiento de la Contaduría General de Glosa;
-
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
-
-XXIII.- Elevar de categoría a una Villa, un pueblo o una Congregación;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MARZO DE 1933)</small>
-
-XXIV.- Elevar de categoría a una Villa, un pueblo, o una congregación.
-
-XXV.- Determinar, según las necesidades locales, el número máximo de los ministros de los cultos;
-
-XXVI.- Dar su consentimiento para que los fuertes, cuarteles, almacenes de depósitos y demás inmuebles destinados por el Gobierno de la Unión al servicio público o uso común que en lo sucesivo se establezcan en el Estado, queden sujetos a la Jurisdicción Federal;
-
-XXVII.- Determinar los casos en que sea de utilidad pública la ocupación de la propiedad privada;
-
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 1922)</small>
-
-XXVIII.- Crear nuevos Municipios dentro de los ya existentes cuando se llenen los requisitos que la Ley Orgánica establezca.
-
-A.- que sean oídos los Ayuntamientos de los Municipios de cuyo territorio se trate, sobre la conveniencia o inconveniencia de la erección del nuevo Municipio, quedando obligados a dar su informe dentro de tres meses, contados desde el dia en que reciban copia del expediente respectivo;
-
-B.- que igualmente se oiga el Ejecutivo, el cual enviará su informe dentro de ocho días, contados desde la fecha en que se le pida;
-
-C.- que sea votada la erección del nuevo Municipio por las dos terceras partes de los diputados presentes.
-
-XXIX.- Autorizar al Ejecutivo para que celebre arreglos sobre los límites del Estado y aprobarlos en su caso;
-
-XXX.- Recibir la protesta al Gobernador; Diputados, Magistrados del Tribunal Superior de Justicia, y Contador General de Glosa;
-
-XXXI.- Conceder licencia para separarse de sus respectivos encargos al Gobernador, Diputados y Contador General, y por más de dos meses a los Magistrados del Tribunal Superior de Justicia;
-
-XXXII.- Constituirse en Colegio Electoral para elegir al ciudadano que deba substituir al Gobernador Constitucional, ya sea con el carácter de Interino o con el de Substituto en los términos de los artículos 44 y 45 de esta Constitución;
-
-XXXIII.- Conocer como Jurado de Acusación en los procedimientos que se inicien, contra los altos funcionarios de que habla esta Constitución, por delitos oficiales;
-
-XXXIV.- Erigirse en Gran Jurado para declarar si ha o no, lugar a proceder contra alguno de los funcionarios públicos que gocen de fuero constitucional, cuando sean acusados por delito del orden común;
-
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 1931)</small>
-
-XXXV.- Expedir convocatoria para elecciones extraordinarias, a fin de cubrir las vacantes que ocurran en los Poderes del Estado, que sean de elección popular, y de Ayuntamientos, cuando éstos desaparecieren por alguna circunstancia;
-
-XXXVI.- (DEROGADA, P.O. 14 DE ENERO DE 1931)
-
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 1931)</small>
-
-XXXVII.- Conocer y resolver de los casos de nulidad de elección popular, conforme a las Leyes relativas, así como de cualquier otro conflicto que se suscite con motivo de las elecciones municipales;
-
-XXXVIII.- Hacer los nombramientos a que se refiere el artículo 68, y
-
-XXXIX.- Expedir todas las leyes que sean necesarias para hacer efectivas las facultades anteriores.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 34.
 
-Para el ejercicio de la facultades a que se refieren las fracciones VII, VIII, XIX y XXIX, del artículo anterior, el Congreso necesita de la aprobación, cuando menos, de las dos terceras partes del número total de sus miembros.
+Son atribuciones del Congreso:
+
+I. Legislar sobre todos los ramos de la administración que no estén reservados al Gobierno Federal.
+
+Il. lniciar ante el Congreso de la Unión, las Leyes o Decretos que sean de la competencia de éste y omitir su opinión respecto a las reformas de la Constitución Federal.
+
+III. Dirimir los conflictos que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia.
+
+IV. Autorizar en cada caso al Ejecutivo para enajenar bienes de la propiedad del Estado, en los términos y con las condiciones en que se señalen.
+
+V. Crear y suprimir empleos.
+
+VI. Conceder premios y recompensas por servicios eminentes prestados al Estado.
+
+VII. Expedir Leyes sobre Educación Pública.
+
+VIII. Prorrogar el período de sus sesiones ordinarias por el tiempo que requieran las necesidades.
+
+IX. Formar su reglamento interior.
+
+X. Nombrar y remover libremente al Contador Mayor de Glosa, a los empleados de la Secretaría el Congreso y a los de la Contaduría Mayor de Glosa.
+
+XI.- Autorizar donaciones a las instituciones de interés público o de beneficencia, cualquier clase de bienes de la propiedad del Estado.
+
+XII.- Legislar sobre beneficencia pública y privada.
+
+XIII. Erigirse en Colegio Electoral para hacer el escrutinio y la declaración respecto a la elección de Gobernador del Estado, diputados y senadores al Congreso de la Unión.
+
+XIV. Nombrar a los Magistrados del Tribunal Superior de Justicia y a los suplentes éstos, previa terna que para tal efecto proponga el Ejecutivo.
+
+XV. Recibir la protesta al Gobernado del Estado y a los Magistrados del Tribunal Superior de Justicia, de guardar y hacer guardar la Constitución General de la República la particular del Estado y las Leyes que de ambos emanen.
+
+XVI. Conceder licencia temporal para separarse de su cargo al Gobernador y a los diputados; concederla al Gobernador para salir del Estado, por más de 30 días y otorgar o negar las licencias soIicitadas por los Magistrados del Tribunal Superior de Justicia.
+
+XVII. Decidir sobre la legalidad de las elecciones de los Ayuntamientos cuando se reclame contra ellas, consignando al Procurador General, a los que resulten culpables de algún fraude.
+
+XVIII. Suspender definitivamente, previa formación de proceso, a los miembros de los Ayuntamientos cuando abusen de sus facultades y suspenderIos provisionalmente, hasta por tres meses, por sí o a petición del Ejecutivo, cuando se juzgue indispensable para la práctica de alguna averiguación.
+
+XIX. Constituirse en Colegio Electoral para elegir al ciudadano que deba sustituir al Gobernador Constitucional ya sea con el carácter de provisional, interino o con el de sustituto, en los términos de los artículos 43 y 44 de esta Constitución.
+
+XX. Autorizar al Ejecutivo para que celebre arreglos sobre los límites del Estado y aprobarlos en su caso.
+
+XXI. Participar según las necesidades locales, en la determinación del número máximo de ministros de los cultos que puedan ejercer en el Estado.
+
+XXII. Conocer como Jurado de Acusación en los procedimientos que se inicien con los altos funcionarios de que habla esta Constitución, por los delitos oficiales.
+
+XXIII. Erigirse en Gran Jurado para declarar, si ha o no, lugar a proceder contra alguno de los los (sic) funcionarios públicos que gocen de Fuero Constitucional, cuando sean acusados por delitos del orden común.
+
+XXlV. Conceder al Ejecutivo, por un tiempo limitado y con la aprobación de las dos terceras partes de los diputados presentes, facuItades extraordinarias que necesite para salvar la situación, en casos de invasión, alteración o peligro públicos, o requerirlo así la Administración General del Estado, debiendo en este caso, dar cuenta el Ejecutivo del uso que haga de las facultades conferidas
+
+XXV. Expedir las bases generales para la formación de Reglamentos de Policía, a los que deberán sujetarse los Ayuntamientos.
+
+XXVI. Señalar las contribuciones que deben formar la Hacienda de los Municipios, procurando sean suficientes a cubrir sus necesidades, examinar y en su caso aprobar los planes de Arbitrios y glosar las cuentas que le presenten los Ayuntamientos.
+
+XXVII. Dar las bases mínimas sobre readaptación social de sentenciados y organizar el sistema penitenciario sobre la base del trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente.
+
+XXVIII. Para legislar en todo lo relativo al Fundo Legal de los Municipios y reparto de predios disponibles para los económicamente incapacitados.
+
+XXIX. Fijar anualmente los gastos públicos y decretar las contribuciones con que haya de ser cubiertos en vista del Presupuesto que el Ejecutivo presente.
+
+Al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la Ley, y en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido en el Presupuesto anterior o en la Ley que estableció el empleo.
+
+XXX. Crear o suprimir Municipios dentro de los ya existentes, llenados los requisitos que la Ley Orgánica establezca.
+
+XXXI. Examinar la cuenta que anualmente le presenten el Ejecutivo y los Ayuntamientos, debiendo comprender dicho examen no sólo la conformidad de las partidas gastadas, según el Presupuesto de Egresos, si no también la exactitud y justificación de ellas.
+
+XXXI.- Determinar los casos en que sea de utilidad pública la ocupación de la propiedad privada.
+
+XXXIII. Expedir Convocatoria para elecciones extraordinarias a fin de cubrir las vacantes que ocurran en Poderes del Estado, que sean de elección Popular, y de Ayuntamientos, cuando éstos desaparecieren por algunas circunstancias.
+
+XXXIV. Conocer y resolver de los casos de nulidad de elección popular, conforme a las Leyes relativas así como cualquier otro conflicto que se suscite con motivo de las elecciones Municipales.
+
+XXXV.- Pedir, si no lo hubiese hecho antes el Ejecutivo del Estado, en caso de trastorno o sublevación interior, la protección de los Poderes.
+
+XXXVI.- Publicar la memoria anual de labores. El congreso no podrá:
+
+a).- Consentir en que funjan como autoridades, las que debiendo ser electas popularmente, conforme a esta Constitución, no tengan tal origen o no sean nombradas por el propio Congreso con apego a la misma, o por el Ejecutivo del Estado cuando se halle investido de facultades extraordinarias para tal fin.
+
+b).- Imponer préstamos forzosos, de cualquier especie o naturaleza que sea.
+
+c).- Mandar hacer corte de cuentas con los acreedores del Estado a fin de dejar sus créditos insolutos.
+
+d).- Otorgar dispensas por revalidación en los estudios que determinen las leyes sobre enseñanza pública, para el efecto de obtener títulos profesionales.
+
+e).- Conceder dispensas de Ley.
+
+f).- Condonar los impuestos causados a favor de los Municipios.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 35.
 
-El Congreso, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la ley, y en caso de que por cualquiera circunstancia se omita fijar tal remuneración, se entenderá señalada la última que hubiere tenido.
+La víspera del día en que deban terminar las sesiones ordinarias, el Congreso, mediante votación secreta, nombrará para el tiempo de su receso, una Comisión Permanente, compuesta de seis diputados en ejercicio, de los cuales tres fungirán como propietarios y tres quedarán como supIentes.
 
-## TITULO SEXTO. De la Hacienda Pública
+La Comisión Permanente durará hasta la siguiente reunión ordinaria del Congreso.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1953)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+
+## TITULO QUINTO. DE LOS MUNICIPIOS
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 36.
 
-El Congreso no puede conceder dispensas de la ley.
+Son atribuciones de la Comisión Permanente:
+
+I.- Convocar al Congreso a sesiones extraordinarias, en los casos en que la misma Comisión estime urgentes o a moción del Ejecutivo, conforme al artículo 24, pudiendo hacer la convocatoria para lugar distinto de la Capital del Estado, en caso de guerra o cualquiera otra calamidad.
+
+II.- Llamar a los Diputados Suplentes de la misma Comisión, cuando por muerte, renuncia, inhabilidad o licencia por más de dos meses, falta alguno de los propietarios.
+
+III.- Nombrar Magistrados del Tribunal Superior de Justicia en los términos de esta Constitución, cuando ocurra la falta absoluta de uno o más de ellos.
+
+IV.- Emitir su opinión en todos los asuntos que se presenten en el tiempo de sus funciones y sobre los que queden pendientes al clausurarse las sesiones.
+
+Cuando se trate de asuntos de la competencia del Congreso, se reservarán los dictámenes para que sean discutidos por éste.
+
+V.- Decretar a iniciativa del Tribunal Superior de Justicia o del Ejecutivo, la creación de Juzgados de Primera lnstancia.
+
+VI.- Resolver todos los asuntos concernientes a las elecciones de funcionarios municipales.
+
+VII, Nombrar Gobernador Provisional, en el caso a que se refiere el segundo párrafo del artículo 43 de esta Constitución.
+
+VIII.- Conocer de los asuntos relacionados con la Hacienda de los Municipios y revisar y aprobar sus cuentas.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 37.
 
-Durante los recesos del Congreso habrá una Comisión Permanente compuesta de tres Diputados que se nombrarán la víspera de la clausura de las sesiones ordinarias. Para llenar las faltas de los electos, se nombrarán dos suplentes.
+Es también facultad de la Comisión Permanente, convocar a sesiones extraordinarias al Congreso en el caso de delitos oficiales o del orden común, cometidos por altos Funcionarios del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+Cuando esto ocurra no se tratará ningún otro asunto de la Cámara ni se prolongarán las sesiones por más tiempo del indispensable para fallar.
 
-#### SECCION SEGUNDA. Del Poder Ejecutivo
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1973)</small>
+
+#### SECCION TERCERA. DEL PODER JUDICIAL
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 38.
 
-Son atribuciones de la Comisión Permanente:
+Se deposita el Poder Ejecutivo del Estado en un Ciudadano que se denominará "Gobernador del estado de Chiapas".
 
-I.- Convocar al Congreso para sesiones extraordinarias, a petición del Ejecutivo o de la mayoría de los miembros del propio Congreso.
-
-II.- Nombrar magistrados del Tribunal Superior de Justicia en los términos de esta Constitución, cuando ocurra falta absoluta de uno o más de ellos, durante el receso del Congreso.
-
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 39.
 
-Es también facultad de la Comisión Permanente, convocar a sesiones extraordinarias al Congreso en el caso de delitos oficiales o del orden común cometidos por altos funcionarios del Estado.
+La elección de Gobernador será directa y en los términos que disponga la Ley Electoral.
 
-Cuando esto ocurra, no se tratará ningún otro asunto de la Cámara ni se prolongarán las sesiones por más tiempo del indispensable para fallar.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 40.
 
-La Diputación Permanente dará cuenta en la segunda sesión del Congreso, de los nombramientos que hubiere hecho, a efecto de que sean o no ratificados.
+Para ser Gobernador del Estado, se requiere:
+
+I.- Ser Ciudadano Mexicano nacido en la Entidad, con residencia en el Estado no menos de cinco años anteriores al día de la elección o estar desempeñando algún cargo de Educación Pública o Funcionario de la Federación fuera del Estado.
+
+II.- Tener treinta y tres años cumplidos el día de la elección.
+
+III.- No ser Ministro de ningún culto.
+
+IV.- No tener empleo, cargo o comisión de la Federación o renunciarlos y estar separado de ellos cuando menos noventa días antes de la elección.
+
+V.- No haber figurado directa o indirectamente en la Comisión de algún delito contra la seguridad del Estado.
+
+VI.- Poseer por lo menos Educación Media Superior.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 41.
 
-Se deposita el ejercicio del Poder Ejecutivo en un ciudadano que se denominará "Gobernador Constitucional del Estado de Chiapas", el cual será electo en forma directa.
+El Gobernador en cada período Constitucional, tomará posesión de su encargo el día primero de diciembre y hará previamente, ante el Congreso del Estado, formal protesta en los términos siguientes:
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
+"PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE ELLAS EMANEN Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR QUE EL PUEBLO ME HA CONFERIDO, CUIDANDO EN TODO POR EL BIEN Y LA PROSPERIDAD DEL ESTADO". El Presidente del Congreso o de la Comisión Permanente, en su caso, le contestará en estos términos: "SI ASI NO LO HICIEREIS QUE EL PUEBLO OS LO DEMANDE".
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 42.
 
-Para ser electo Gobernador del Estado, se requiere:
+El Gobernador durará seis años en su cargo y en ningún caso, no por ningún motivo, podrá volver a ocupar ese puesto, ni aún con el carácter de Interino, Provisional, Sustituto o Encargado del despacho.
 
-I.- Ser ciudadano chiapaneco por nacimiento, hijo de padres mexicanos, o ciudadano mexicano por nacimiento hijo también de padres mexicanos, siempre que tenga en el Estado residencia no menor de cinco años inmediatamente anteriores al día de la elección.
-
-II.- Tener treinta y cinco años de edad.
-
-III.- Estar en pleno goce de sus derechos políticos y civiles.
-
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
-
-IV.- No pertenecer al estado eclesiástico, ni ser ministro de algún culto.
-
-V.- No estar en servicio activo, en caso de pertenecer al ejército, cuando menos noventa días antes de la elección.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1952)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 43.
 
-El Gobernador entrará al ejercicio de su encargo, previa protesta de Ley, el día 1o. de diciembre y durará en él 6 años.
+En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del Período respectivo, si el Congreso estuviere en funciones, se constituirá en Colegio Electoral inmediatamente, y concurriendo, cuando menos las dos terceras partes del número total de sus miembros, nombrará, en escrutinio Secreto y por mayoría absoluta de votos, un Gobernador Interino; el mismo Congreso expedirá la convocatoria a elecciones, procurando que la fecha señalada coincida, si es posible, con la de las próximas elecciones a Diputados.
 
-El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrá volver a ocupar ese cargo, ni aún con el carácter de Interino, Provisional, Substituto o Encargado del Despacho.
+Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará desde luego, un Gobernador Provisional, y convocará a Sesiones Extraordinarias, para que el Congreso expida la Convocatoria a elecciones de Gobernador, en los mismos términos del párrafo anterior.
 
-Nunca podrán ser electos para el período inmediato:
+Cuando la falta de Gobernador ocurriere en los cuatro últimos años del período respectivo, si el congreso se encontrare en sesiones, elegirá al Gobernador Substituto que deberá concluir el período; si el Congreso no estuviere reunido, la Comisión Permanente nombrará un Gobernador Provisional y Convocará al Congreso a Sesiones Extraordinarias, para que, erigido en Colegio Electoral, haga la designación de Gobernador Substituto.
 
-a).- El Gobernador Substituto Constitucional o el designado para concluir el período en caso de falta absoluta del Constitucional, aun cuando tenga distinta denominación.
+El Gobernador Provisional podrá ser electo por el Congreso como Substituto.
 
-b).- El Gobernador Interino, el Provisional o el ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los últimos 2 años del período.
+El Ciudadano que hubiere sido designado Gobernador Provisional para convocar a elecciones, en el caso de falta de Gobernador, en los dos primeros años del período respectivo no podrá ser electo en las elecciones que se celebren con motivo de la falta de Gobernador.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 1951)</small>
+El Gobernador Provisional, en ningún caso podrá legislar, enajenar bienes, ni comprometer las rentas del Estado, siendo nulos todos los actos que se opongan a la presente Constitución o a las leyes o disposiciones en vigor al entrar a ejercer su encargo.
+
+En todos los casos de falta absoluta de Gobernador a que se refiere este artículo, el Presidente del Tribunal Superior de Justicia del Estado, asumirá desde luego, con la protesta que ya tiene otorgada y por Ministerio de Ley, el Poder Ejecutivo, mientras tanto el Congreso o la Comisión Permanente efectúa el nombramiento de Gobernador.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 44.
 
-(a) En los casos de falta absoluta de Gobernador Constitucional ocurrida en los primeros tres años del período respectivo, si el Congreso estuviere en funciones se constituirá en Colegio Electoral y, concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría de votos, un Gobernador Interino y el mismo Congreso, al mismo tiempo de hacer tal designación, convocará a elecciones extraordinarias para Gobernador Constitucional, las que deberán verificarse dentro de los dos meses siguientes a la convocatoria, debiendo tomar posesión de su encargo la persona electa, dentro de los treinta días siguientes al de la elección. Si el Congreso no estuviere en funciones, la Diputación Permanente nombrará desde luego el Gobernador Interino y convocará en la misma fecha de su designación, a elecciones extraordinarias en los mismos términos de este inciso.
+Si al comenzar un período constitucional no se presentare el Gobernador Electo o la elección no estuviere hecha o declarada el primero de diciembre, cesará en sus funciones el Gobernador saliente, y se encargará desde luego del despacho del Poder Ejecutivo, en calidad de Gobernador Provisional, el que designe el Congreso.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
-
-Si por alguna circunstancia no se efectuaren las elecciones, cesará de todos modos en su encargo el Gobernador Interino nombrado y se designará otro, haciéndose nueva convocatoria en idéntica forma.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
-
-Si en esta segunda vez, no se verificaren las elecciones por culpa del Gobernador Interino, además de perder éste su carácter de tal, sin necesidad de declaratoria alguna, se le considerará suspenso en sus derechos políticos por el término de cuatro años.
-
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
-
-(b) Cuando la falta absoluta de Gobernador Constitucional ocurriere en los tres últimos años del período respectivo, si el Congreso se encontrare en sesiones, elegirá en la forma establecida en el inciso I, de este artículo, un Gobernador Substituto que deba concluir el período. Si el Congreso no estuviere en período de sesiones ordinarias, la Comisión Permanente nombrará un Gobernador Provisional y convocará desde luego al Congreso a sesiones extraordinarias, para que se erija en Colegio Electoral y haga la designación de Gobernador Substituto, que deba concluir el período mencionado, sin que tal nombramiento pueda recaer en el que provisionalmente asuma el Poder Ejecutivo.
-
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
-
-En todos los casos de falta absoluta de Gobernador a que se refiere este artículo, el Presidente del Tribunal Superior de Justicia del Estado asumirá desde luego, con la protesta que ya tiene otorgada y por ministerio de Ley, el Poder Ejecutivo mientras el Congreso o la Comisión Permanente hace el nombramiento de Gobernador, a fin de que el Poder Ejecutivo no quede acéfalo.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
-
-Para los casos del inciso primero de este artículo, cuando el Congreso no esté en funciones, al hacerse la convocatoria para elecciones, se señalará el período de sesiones extraordinarias dentro del cual deba hacerse el cómputo de votos y la declaratoria de Gobernador.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 45.
 
-Si al comenzar un período Constitucional no se presentare el Gobernador electo, o la elección no estuviere hecha o declada (sic) el primero de diciembre, cesará, sin embargo, el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Provisional, el que designe el Congreso y se procederá conforme al artículo anterior.
+Será Gobernador Constitucional, el Ciudadano que obtenga la mayoría de votos emitidos en la elección y así sea declarado por el Congreso.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
-
-Cuando por cualquier circunstancia hubiere desaparecido o no funcionare la Legislatura del Estado, el último Presidente del Tribunal Superior de Justicia o en su defecto el último Secretario General de Gobierno se encargará del Poder Ejecutivo, con el carácter de provisional, siempre que por cualquiera causa se encuentre acéfalo el Poder Ejecutivo.
-
-El Gobernador Provisional en caso de que hubiere desaparecido la Legislatura, convocará a elecciones extraordinarias dentro de los treinta días siguientes al de haberse encargado del Gobierno, para la designación de los miembros que integrarán dicha Legislatura. Estas elecciones se verificarán a los sesenta días de la fecha de la Convocatoria y el Congreso se instalará legalmente treinta días después.
-
-Cuando la desaparición hubiere ocurrido ocho meses antes de terminarse el período Constitucional interrumpido, el Gobernador Provisional terminará dicho período y las elecciones serán ordinarias.
-
-El Gobernador Provisional, en ningún caso podrá legislar, enagenar (sic) bienes, ni comprometer las rentas del fisco del Estado, siendo nulos todos los actos que se opongan a la presente Constitución o a las leyes y disposiciones en vigor al entrar a ejercer su encargo.
-
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
-
-Cuando la falta de Gobernador Constitucional fuere menor de un mes, lo substituirá el Secretario General de Gobierno como encargado del despacho; si ésta fuere mayor de un mes, pero temporal, el Congreso, si estuviere reunido, o en su defecto la Comisión Permanente, designará un Gobernador Interino para que funcione durante el tiempo que falta. Si ésta se convirtiere de temporal en absoluta, se procederá como dispone el artículo anterior. Se considerará falta absoluta del Gobernador la que exceda de seis meses.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 46.
 
-Será Gobernrdor (sic) Constitucional el ciudadano que obtenga la mayoría de votos emitidos en la elección y que así sea declarado por la Legislatura.
+El Gobernador del Estado podrá separase libremente de la residencia de los Poderes, sin salir del territorio del Estado, por un tiempo que no exceda de dos meses. Si la separación es mayor de este tiempo, solicitará licencia del Congreso o en su defecto de la Comisión Permanente.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+El Gobernador del Estado podrá ausentarse del territorio del mismo, hasta por el termino de un mes, dando aviso al Congreso o a la Comisión Permanente en su caso, quedando encargado del Despacho, el Secretario General de Gobierno si la ausencia del territorio del Estado fuere mayor de un mes, solicitará licencia del Congreso o de la Comisión Permanente en su caso, designándose Gobernador Interino.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 47.
 
-El Gobernador del Estado podrá separarse libremente de la residencia de los poderes, sin salir del territorio del Estado por un tiempo que no exceda de dos meses.
+Son facultades y obligaciones del Gobernador:
 
-Si la separación es mayor de dos meses, solicitará licencia del Congreso o en su defecto de la Comisión Permanente.
+I.- Sancionar, promulgar y ejecutar las leyes y Decretos dados por el Poder Legislativo Federal y Local, y formar en la parte Administrativa, los Reglamentos necesarios para la exacta observancia de los segundos.
 
-El Gobernador del Estado podrá ausentarse del territorio del mismo, hasta por el término de un mes, dando aviso al Congreso o a la Comisión Permanente en su caso, quedando encargado del despacho el Secretario General de Gobierno, si la ausencia del territorio del Estado fuere mayor de un mes, solicitará licencia del Congreso del Estado o de la Comisión Permanente en su caso, designándose Gobernador Interino.
+II.- Velar por la conservación del orden, tranquilidad y seguridad del Estado.
+
+III.- Iniciar ante el Congreso, las Leyes y Decretos que juzgue convenientes para el mejoramiento de la Administración Pública.
+
+IV.- Presentar al Congreso, al principio de su Primer período de sesiones ordinarias, el Presupuesto de Gastos del año siguiente, por programa.
+
+V.- Cuidar de que los fondos públicos, en todo caso, estén bien asegurados, y de que su recaudación y distribución se hagan con arreglo a la Ley.
+
+VI.- Fomentar, por todos los medios posibles la educación popular y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras morales y materiales que interesen a la colectividad.
+
+VII.- Convocar, de acuerdo con la Comisión Permanente, al Congreso a Sesiones extraordinarias.
+
+VIII.- Facilitar al poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones.
+
+IX.- Conceder o negar indultos, con arreglo a la Ley, a los sentenciados por los Tribunales del Estado.
+
+X.- Reglamentar las Leyes o Decretos en que se le autorice expresamente para ello.
+
+XI.- Imponer hasta quinientos pesos de multa o hasta treinta y seis horas de arresto a los infractores de los Reglamentos Gubernativos o de Policía. Solamente en caso de que el infractor no pagare la multa, se podrá conmutar ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
+
+Los Jornaleros u obreros no podrán ser multados con una cantidad mayor al importe de su jornal o salario correspondiente a una semana.
+
+XII.- Imponer multas con arreglo a la Ley, a los funcionarios y empleados de su dependencia.
+
+XIII.- Revisar los actos de los Ayuntamientos en los casos que la Ley determine.
+
+XIV.- Acordar que concurra el Secretario General de Gobierno a las sesiones del Congreso, para que dé a éste los informes que pida o para apoyar en los debates, las observaciones que haga el ejecutivo a los proyectos de Ley o Decretos, o bien las iniciativas que presentare.
+
+XV.- Pasar al Procurador General de Justicia los asuntos que deban ventilarse dentro de los Tribunales, para que ejercite ante ellos las atribuciones de su ministerio. Podrá sin embargo el Ejecutivo, nombrar algún abogado que lo represente en determinado asunto, cuando así lo crea conveniente.
+
+XVI.- Nombrar y remover libremente al Secretario y Subsecretario General de Gobierno, Oficial Mayor, Secretario Particular, Procurador General de Justicia, Directores, Subdirectores, y Jefes de Departamento dependientes del Poder Ejecutivo, Recaudadores y Subrecaudadores de Hacienda. Así mismo, nombrar a todos los empleados subalternos observándose sobre el particular y su remoción, lo que prevengan las leyes respectivas que determinarán, además, la categoría de empleados de base y de confianza, en la inteligencia de que ninguno de los funcionarios y empleados podrán pertenecer al estado eclesiástico o ser Ministros de algún culto.
+
+XVII.- Expedir títulos profesionales conforme a la Ley respectiva.
+
+XVIII.- Presentar cada año al Congreso, en el primer período ordinario de sesiones ordinarias, una memoria documentada del Estado, de su administración en todos sus ramos.
+
+XIX.- Presentar cada año al Congreso, al tercer día de la apertura de sus sesiones ordinarias, el balance general de los gastos del año económico anterior.
+
+XX.- Mantener relaciones políticas con los Poderes de la Federación y de los Estados.
+
+XXI.- Pedir la Protección de los Poderes de la Unión en caso de sublevación o trastorno interior.
+
+XXII.- Proponer terna al Congreso para el nombramiento de magistrados del Tribunal Superior de Justicia y de Substitutos en los casos de los artículos 34 fracción XIV y 53 de esta Constitución.
+
+XXIII.- dejar en su lugar, como encargado del despacho del Poder Ejecutivo, al Secretario General de Gobierno, cuando su ausencia no exceda de un mes, de conformidad con lo dispuesto por el segundo párrafo del artículo 46.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 48.
 
-Son facultades y obligaciones del Gobernador:
+El Ejecutivo tendrá para el despacho de los negocios oficiales, un Secretario que se denominará "Secretario General de Gobierno". Para ocupar este puesto, son necesarios los mismos requisitos que para ser electo Gobernador.
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 1957)</small>
-
-I.- Nombrar remover libremente al Secretario General de Gobierno, Subsecretario General de Gobierno, Oficial Mayor, Secretario Particular, Procurador General de Justicia, Sub-Procurador General de Justicia, Directores, Sub Directores y Jefes de Departamento dependientes del Poder Ejecutivo y Recaudadores y Sub Recaudadores de Hacienda. Así mismo, nombrar a todos los empleados subalternos observándose sobre el particular y su remoción, lo que prevengan las Leyes respectivas que determinarán, además, la categoría de empleados de Base y de Confianza, en la inteligencia que ninguno de los funcionarios y empleados podrá pertenecer al Estado Eclesiástico o ser Ministros de algún culto;
-
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 1931)</small>
-
-II.- Mandar practicar visitas cuando lo juzgue conveniente, a las Tesorerías Municipales; no para limitar la libre administración de la Hacienda de los Municipios, sino para moralizarla y evitar los malos manejos de fondos, haciendo, en su caso, la consignación correspondiente de los delitos que se descubran;
-
-III.- Conceder o negar indultos, con arreglo a la ley, a los reos sentenciados por los Tribunales del Estado;
-
-IV.- Reglamentar las leyes o decretos en que se le autorice expresamente para ello;
-
-V.- Visitar los Municipios del Estado;
-
-VI.- Nombrar al Jefe de las Fuerzas del Estado, en el caso de las fracciones II y III del artículo 118 de la Constitución General;
-
-VII.- Convocar, por medio de la Diputación Permanente, a sesiones extraordinarias al Congreso, cada vez que lo estime necesario;
-
-VIII.- Imponer hasta quinientos pesos de multa o hasta treinta y seis horas de arresto a los infractores de los reglamentos gubernativos o de policía. Solamente en caso de que el infractor no pagare la multa, se podrá conmutar ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
-
-Los jornaleros u obreros no podrán ser multados con una cantidad mayor al importe de su jornal o sueldo correspondiente a una semana;
-
-IX.- Imponer multas, con arreglo a la ley, a los funcionarios y empleados de su dependencia;
-
-X.- Expedir títulos profesionales conforme a la ley respectiva;
-
-XI.- Revisar los actos de los Ayuntamientos en los casos que la ley determine;
-
-XII.- Publicar, cumplir y hacer cumplir las leyes federales;
-
-XIII.- Promulgar y ejecutar las leyes que expida el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia y cuidando especialmente que aquéllas lleguen a conocimiento de las clases proletarias;
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 1933)</small>
-
-XIV.- Presentar cada año al Congreso el tercer día de la apertura de sus sesiones ordinarias, el balance general de los gastos del año económico anterior;
-
-XV.- Presentar, igualmente, al Congreso, en la primera quincena del mes de noviembre, los proyectos de Ley de Ingresos y Presupuesto de Egresos que deban regir en el ejercicio fiscal siguiente;
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 1933)</small>
-
-XVI.- Presentar a la Legislatura, al abrir ésta el período de sus sesiones ordinarias, una memoria documentada del estado de su administración en todos sus ramos;
-
-XVII.- Velar por la conservación del orden público;
-
-XVIII.- Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones;
-
-XIX.- Cuidar de que la recaudación e inversión de los caudales públicos se haga con arreglo a las leyes;
-
-XX.- Mantener relaciones políticas con los Poderes de la Federación y de los Estados;
-
-XXI.- Cuidar de que se practiquen las elecciones en el tiempo señalado por las leyes, y
-
-XXII.- Vigilar por la difusión de la instrucción primaria elemental, especialmente en los pueblos, rancherías y haciendas.
-
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 1931)</small>
-
-XXIII.- Proponer terna al Congreso para el nombramiento de Magistrados del Tribunal Superior de Justicia y de substitutos en los casos del artículo 68 de esta Constitución.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 49.
 
-Para el despacho de los negocios del Poder Ejecutivo habrá un Secretario General.
+Substituirá al Gobernador en sus faltas que no excedan de un mes, será el Jefe de la Secretaría y estarán a su cargo todos los negocios del ejecutivo del Estado, sean cuales fueren. Todos los Reglamentos y órdenes del Gobernador, deberán ir firmados por el Secretario General, sin este requisito, no serán obligatorios.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 50.
 
-Para ser Secretario General, se requiere:
+Las faltas del Secretario General, serán suplidas por el Subsecretario General de Gobierno.
 
-Ser ciudadano chiapaneco, nacido en el Estado, mayor de treinta años de edad y estar en ejercicio de sus derechos civiles y políticos.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-## TITULO SEPTIMO. De la Responsabilidad de los funcionarios públicos
+## TITULO SEXTO. DE LA HACIENDA PUBLICA
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 51.
 
-Todos los reglamentos, decretos y órdenes del Gobernador, deberán ir firmados por el Secretario; sin este requisito no serán obedecidos.
+El Congreso podrá citar al Secretario General de Gobierno para que informe cuando se discuta una ley o se estudie un negocio cualquiera.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1973)</small>
 
 #### SECCION TERCERA. Del Poder Judicial
 
@@ -891,295 +743,359 @@ Todos los reglamentos, decretos y órdenes del Gobernador, deberán ir firmados 
 
 ###### ARTICULO 52.
 
-El Secretario General es responsable de las disposiciones del Gobernador que autorice con su firma y será enjuiciado por la sanción que preste durante el ejercicio de sus funciones, a los actos delictuosos del Gobernador.
+El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, Jueces de Primera Instancia, Jueces Municipales y Jueces Rurales. La Ley Orgánica respectiva establecerá los Distritos Judiciales en que se divide el Estado.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 53.
 
-El Secretario General es el órgano de comunicación entre el Gobernador y las autoridades y empleados inferiores del Estado y los particulares. Llevará la voz del Ejecutivo en el Congreso, a cuyas sesiones concurrirá cuando fuere llamado para informar o lo dispusiere el Gobernador.
+El Tribunal Superior de Justicia se integra de cinco Magistrados de número y tres supernumerarios que serán electos por el Congreso del Estado, constituido en Colegio Electoral y con asistencia cuando menos de las dos terceras partes del número total de sus miembros, quienes decidirán la elección por mayoría absoluta de votos emitidos en escrutinio secreto, a propuesta en terna por el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 54.
 
-El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, Jueces de Primera Instancia, Asesores, Jurados, Jueces Municipales y Jueces Rurales, quienes no podrán pertenecer al estado eclesiástico ni ser ministro de algún culto. El Estado se dividirá en los Distritos Judiciales que señale la Ley Orgánica respectiva.
+Para ser Magistrado se requiere:
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1952)</small>
+a).- Ser ciudadano chiapaneco.
+
+b).- Estar en pleno goce de sus derechos civiles y políticos.
+
+c).- Ser mayor de treinta años a la fecha de la elección.
+
+d).- ser Licenciado en Derecho, con título oficial expedido por autoridad legalmente facultada, con antigüedad mínima de cinco años anteriores al día de la designación, y tener una práctica profesional no menor de ese lapso.
+
+e).- No ser Ministro de algún culto.
+
+f).- Ser de notoria moralidad y gozar de buena reputación.
+
+g).- No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro delito infamante, inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 55.
 
-El Tribunal Superior de Justicia se compondrá de cinco Magistrados de Número y tres Supernumerarios, que serán electos por el Congreso del Estado, constituído en Colegio Electoral y con asistencia cuando menos de las dos terceras partes del número total de sus miembros, quienes decidirán de la elección por mayoría absoluta de votos emitidos en escrutinio secreto, a propuesta en terna por el Ejecutivo del Estado.
+Los Magistrados del Tribunal Superior de Justicia y los Jueces de Primera Instancia, durarán en su encargo seis años y solo podrán ser removidos cuando observen mala conducta comprobada, previo juicio de responsabilidad.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 56.
 
-Para ser Magistrado se requiere:
+El Tribunal Superior de Justicia funcionará en Pleno y por Salas en los términos de la Ley Orgánica del Poder Judicial del Estado. El Presidente del Tribunal Superior de Justicia informará al Congreso del Estado por escrito, en la apertura del Primer Período Ordinario de Sesiones de cada año, sobre el estado que guarda la Administración de Justicia.
 
-I.- Ser ciudadano chiapaneco, nacido en el Estado e hijo de padres mexicanos.
-
-II.- Estar en pleno goce de sus derechos civiles y políticos.
-
-III.- Ser mayor de 30 años al tiempo de la elección.
-
-IV.- Poseer título de Abogado expedido y registrado legalmente.
-
-V.- Tener 5 años de práctica a contar de la fecha de la expedición del título.
-
-VI.- Gozar de buena reputación, no pertenecer al estado eclesiástico ni ser ministro de algún culto y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1939)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 57.
 
-Los Ciudadanos Magistrados del H. Tribunal Superior de Justicia del Estado, durarán en su encargo cuatro años y sólo podrán ser removidos cuando observen mala conducta y previo el juicio de responsabilidad respectivo. Este período se empezará a contar desde el 1º de diciembre de 1940. La actual H. Legislatura, previa la terna correspondiente, hará el nombramiento de los Magistrados que deban fungir del 1º de diciembre del presente año al 30 de noviembre de 1940.
+Corresponde al H. Tribunal Superior de Justicia:
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+I.- Conocer como Tribunal de Sentencia en las causas instruídas contra los funcionarios públicos a que se refiere el artículo 78, por delitos oficiales.
 
-Los jueces de Primera Instancia durarán también en su encargo 6 años pudiendo ser removidos cuando a juicio del H. Tribunal Superior de Justicia observen mala conducta, cuando sean promovidos a grado superior o cambiados de un Distrito Judicial a otro, o cuando siendo legos, sean substituidos por letrados.
+II.- Conocer en Segunda lnstancia de los negocios que conforme a la Ley deban tenerla.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1953)</small>
+III.- Nombrar y remover Iibremente a los Secretarios del Tribunal y Juzgados, así como a los demás empleados del Poder Judicial, acatando en la designación y para la remoción de éstos, lo que dispongan las Leyes respectivas que fijarán también la categoría de los servidores públicos.
+
+IV.- Nombrar a los Jueces de Primera Instancia, Municipales y Visitador Judicial.
+
+V.- Dirimir las competencias que se susciten entre los diversos Tribunales inferiores del Estado.
+
+VI.- Conceder licencia a los Magistrados, Jueces de Primera Instancia y Visitador Judicial, hasta por dos meses.
+
+VII.- Formar su Reglamento Interior y de su Secretaría.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 58.
 
-El tribunal Superior de Justicia del Estado funcionará en Pleno y por Salas, en los términos de la Ley Orgánica del Poder Judicial del Estado.
+Ningún funcionario o empleado de la Administración de Justicia podrá aceptar y desempeñar empleo o encargo de la Federación, de los Estados o particuIares, salvo los cargos en las Asociaciones Científicas, Literarias, de beneficiencia (sic) o docente. La infracción de este artículo será castigada con la pérdida del encargo judicial respectivo.
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1954)</small>
-
-El Presidente del Tribunal Superior de Justicia informará al Congreso del Estado, en la apertura del Primer Período Ordinario de Sesiones de cada año, sobre el estado general que guarde la Administración de Justicia.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 1957)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 59.
 
-Corresponde al H. Tribunal Superior de Justicia:
-
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
-
-I.- Conocer como Tribunal de sentencias en las causas instruídas contra los funcionarios públicos a que se refiere el artículo 78, por delitos oficiales;
-
-II.- Conocer en segunda instancia de los negocios que conforme a la Ley deban tenerla;
-
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 1957)</small>
-
-III.- Nombrar y remover libremente a los Secretarios del Tribunal y Juzgados, así como a los demás empleados del Roder (sic) Judicial, acatando en la designación y para la remoción de estos lo que dispongan la Leyes respectivas, que fijarán también la categoría de los servidores públicos;
-
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
-
-IV.- Nombrar a los Jueces de Primera Instancia, Municipales, Asesores y Visitador Judicial;
-
-V.- Dirimir las competencias que se susciten entre los diversos tribunales inferiores del Estado;
-
-VI.- Conceder licencia a los Magistrados, hasta por dos meses, y a los asesores, Jueces de Primera Instancia, Jueces Menores y Visitador Judicial;
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1957)</small>
-
-VII.- Examinar a los aspirantes a Notarios, y
-
-VIII.- Formar su Reglamento Interior y de su Secretaría.
-
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
-
-###### ARTICULO 60.
-
-Ningún funcionario o empleado de la Administración de Justicia podrá aceptar y desempeñar empleo o cargo de la Federación, de los Estados o particulares, salvo los cargos en las asociaciones científicas, literarias, de beneficencia o docentes. La infracción de este artículo será castigada con la pérdida del cargo judicial respectivo.
-
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
-
-###### ARTICULO 61.
-
-Los Jueces Municipales serán nombrados por el Tribunal Superior de Justicia a proposición en terna de los Ayuntamientos respectivos.
+Los Jueces Municipales serán nombrados por el Tribunal Superior de Justicia, a proposición en terna de los Ayuntamientos respectivos.
 
 Los Jueces Rurales serán nombrados por los Ayuntamientos en sus respectivas jurisdicciones.
 
-Por cada uno de los Jueces a que se refiere este artículo, se nombrará un suplente, pudiendo ambos ser reelectos; durarán en su encargo el tiempo para el que haya sido electo el ayuntamiento que los proponga o designe en su caso, pudiendo ser removidos cuando observen mala conducta previo juicio de responsabilidad.
+Por cada uno de los jueces a que se refiere este artículo, se nombrará un Suplente, pudiendo ambos ser reelectos; durarán en su cargo el tiempo para el que haya sido electo el Ayuntamiento que los proponga o designe en su caso. Pueden ser removidos cuando observen mala conducta, previo juicio de responsabilidad.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+
+###### ARTICULO 60.
+
+El Tribunal Superior de Justicia residirá en la Capital del Estado, y en ningún caso, ejercerá sus funciones fuera de ella a no ser que sea autorizado legalmente por el Congreso.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+
+###### ARTICULO 61.
+
+En el Tribunal Superior de Justicia nunca habrá dos o más Magistrados que sean parientes consanguíneos dentro del cuarto grado. Si hubiere Magistrados ligados entre sí por parentesco de afinidad, deberán estar en Salas distintas.
+
+Los Magistrados Propietarios del Tribunal Superior de Justicia, en sus faltas temporales que excedieren de cinco días y no pasaren de dos meses serán substituídos por los supernumerarios en el orden de la elección de éstos, llamándose por consiguiente en primer término al primero; si éste estuviere en funciones o no pudiera acudir por cualquier circunstancia, al segundo y así sucesivamente, pero una vez que haya entrado a funcionar alguno de ellos, continuará haciéndolo durante todo el término de la licencia del propietario que substituya. En sus excusas o impedimentos se substituirán recíprocamente en el orden que lo determine la Ley; pero los supernumerarios deberán ser llamados a integrar Sala cuando lo acordare el Presidente del Tribunal, o la mayoría de los Magistrados Propietarios estuviere impedida. En estos casos deberán ser llamados por el mismo Presidente. En las faltas de los Magistrados que no excedan de cinco días, serán substituidos por el Presidente, quien también integrará Sala.
+
+Si faltare algún Magistrado Propietario por defunción, renuncia, suspensión definitiva, incapacidad o cualquiera otra circuntancia (sic), dentro de los seis meses restantes para cumplir su período, la falta será suplida por el supernumerario que corresponda; y en caso contrario, el Congreso hará nuevo nombramiento en los términos prevenidos por el artículo 53.
+
+Las Licencias de los Magistrados, cuando no excedan de dos meses, serán concedidas por el Tribunal Superior; las que excedan de ese tiempo, las concederá o rechazará el Congreso del Estado o la Comisión Permanente, en sus respectivos casos.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 62.
 
-El Ministerio Público estará presidido por un Procurador General de Justicia, quien deberá llenar los requisitos exigidos para ser Magistrado del Tribunal Superior de Justicia.
+El Ministerio Público a cuyo cargo está velar por la exacta observancia de las leyes de interés general, será desempeñado en el Estado por el Procurador General de Justicia y los Agentes de dicho Ministerio.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+El Procurador General de Justicia del Estado, será el Jefe de la Institución nombrará y removerá libremente a sus empleados y a los Agentes del Ministerio Público y reunirá las mismas condiciones exigidas para poder ser Magistrado.
+
+La Ley Orgánica del Ministerio Público determinará las atribuciones de los funcionarios que lo formen y los requisitos necesarios para ser Agente.
+
+El Procurador General de Justicia será el representante jurídico del Ejecutivo y quien represente los intereses sociales en los juicios civiles que lo requieran.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 63.
 
-Estará a cargo del Ministerio Público, la persecución, ante los Tribunales, de los delitos del orden común, y por lo tanto, a él le corresponderá solicitar las órdenes de aprehensión contra los delincuentes; buscar y presentar las pruebas que tiendan al esclarecimiento del hecho y las que acrediten la responsabilidad; procurar que los juicios se sigan con toda regularidad para que la Administración de Justicia, sea pronta y expedita; pedir la aplicación de las penas, e intervenir en todos los demás asuntos que la Ley determine. El Procurador General de Justicia será el representante jurídico del Ejecutivo y quien represente los intereses sociales en los juicios civiles que lo requieran.
+Las faltas temporales del Procurador General de Justicia que no excedan de cinco días serán suplidas por el Subprocurador que él designe; las de mayor tiempo y las absolutas, se suplirán por la persona que al efecto designe el Gobernador.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 64.
 
-El Procurador General de Justicia integrará el Tribunal con voz pero sin voto.
+La base de la división territorial y de la organización política del Estado, es el Municipio Libre. Para la administración interior del Estado habrá Ayuntamientos y Agencias MunicipaIes cuyas atribuciones señalará la Ley.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 65.
 
-Cada Municipio será administrado por Ayuntamiento de elección popular en forma directa y no habrá autoridad intermedia entre éste y el Gobierno del Estado. Los Agentes serán nombrados por el respectivo Ayuntamiento en Sesión Plena.
+Cada Municipio será administrado por un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado. Los agentes serán nombrados por el Ayuntamiento del que dependan, en sesión plena.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1926)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 66.
 
-Cada Municipio será administrado por un Ayuntamiento de Elección Popular y no habrá autoridad intermedia entre éste y el Gobierno del Estado. Los Agentes serán nombrados por el respectivo Ayuntamiento en sesión plena.
+Los Municipios administrarán libremente su hacienda la cual se formará, aparte de los bienes propios, de las contribuciones que señale el Congreso y que en todo caso serán las suficientes para atender a sus necesidades.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+Cada año los Municipios remitirán al Congreso, para su revisión y aprobación en su caso, las cuentas del anterior y los presupuestos para el siguiente.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 67.
 
-Cuando por cualquier circunstancia desapareciere algún Ayuntamiento u ocurrieren faltas absolutas, en uno o más miembros de su personal; tendrá facultad el Congreso del Estado, o en su defecto la Comisión Permanente, de nombrar substitutos, previa terna que proponga el Ejecutivo.
+Cuando por cualquier circunstancia desapareciere algún Ayuntamiento u ocurrieran faltas absolutas en uno o mas miembros de su personal; tendrá facultad el Congreso del Estado, o en su defecto la Comisión Permanente, de nombrar substitutos, previa terna que proponga el Ejecutivo.
 
-Los Municipios administrarán libremente su hacienda, la cual se formará, aparte de los bienes propios, de las contribuciones que señale el Congreso y que en todo caso serán las suficientes para atender a sus necesidades.
+Se considerará que el Ayuntamiento ha desaparecido cuando provenga la falta absoluta de la mitad más uno de sus miembros, motivada por la renuncia por causa grave o cualquier otra circunstancia. El Congreso Juzgará si debe removerse total o parcialmente un Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 1961)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 68.
 
-Los miembros de los Ayuntamientos del Estado, durarán en su encargo tres años, sin que puedan ser reelectos para el período inmediato; el Presidente, Síndico y demás miembros ue (sic) los Ayuntamientos, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los suplentes si podrán ser electos con el carácter de propietarios para el período inmediato, siempre que no hubieren estado en ejercicio. Solo podrán ser removidos previo juicio de responsabilidad en los términos de la ley.
+Los miembros de los Ayuntamientos en ejercicio, durarán en su encargo tres años, y no podrán ser reelectos para el período inmediato; debiendo instalarse el día primero de enero siguiente a su elección.
 
-Los Agentes Municipales serán nombrados y removidos libremente por el Ayuntamiento de que dependan.
+Los Agentes Municipales serán nombrados y removidos libremente por el Ayuntamiento del que dependan.
 
-Para ser miembro de un Ayuntamiento o Agencia Municipal, se necesita:
+Para ser miembro de un Ayuntamiento o Agente Municipal, se necesita:
 
-Ser ciudadano chiapaneco por nacimiento, vecino del Municipio o Agencia respectiva con residencia no menor de seis meses inmediatamente anteriores al de la elección o nombramiento y no pertenecer al estado eclesiástico, ni ser ministro de algún culto; esta última prohibición comprende a los empleados municipales.
+I.- Ser ciudadano chiapaneco por nacimiento, en ejercicio de sus derechos.
 
-En ningún caso podrán hacerse incorporaciones o segregaciones de un Municipio o Agencia a otro, sin la aprobación de la mayoría de los Ayuntamientos del Estado, los que estarán obligados a darla o negarla dentro de los 90 días de recibida la nota en que se les pida.
+lI.- Saber leer y escribir.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
+III.- Tener, por lo menos, cinco años de residencia en el lugar de la elección.
+
+IV.- No tener empleo, cargo o comisión del Estado o del Gobierno Federal.
+
+V.- No ser Ministro de ningún culto.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 69.
 
-Los miembros de los Ayuntamientos de primera y segunda categoría, durarán en su encargo dos años y los tercera, un año, sin que ni uno ni otros puedan ser reelectos para el período inmediato; el Presidente, Síndico y demás miembros propietarios de los Ayuntamientos, no podrán ser electos para el período inmediato con el carácter de Suplentes, pero los Suplentes si podrán ser electos con el carácter de Propietarios para el período inmediato, siempre que no hubieren estado en ejercicio.
+Los municipios tienen personalidad jurídica para todos los efectos legales.
 
-Tampoco podrán ser removidos sino por mala conducta y previo el juicio correspondiente.
+En ningún caso podrán hacerse incorporaciones o segregaciones de un Municipio o Agencia a otro, sin la aprobación de la mayoría de los Ayuntamientos del Estado, los que estarán obligados a darla dentro de sesenta días.
 
-Los Agentes Municipales serán removidos libremente por el Ayuntamiento de que dependan, sin que el período de su ejercicio sea mayor de un año.
-
-Para ser miembro de un Ayuntamiento o Agente Municipal se necesita: ser ciudadano mexicano pro nacimiento, vecino del Municipio o Agencia respectiva, con residencia no menor de seis meses inmediatamente anteriores al día de la elección o nombramiento y no estar afiliado o subordinado a organizaciones religiosas, esta ultima prohibición comprende a los empleados municipales.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 70.
 
-Los Municipios tienen personalidad jurídica para todos los efectos legales.
+La Hacienda del Estado se compone de los edificios públicos del mismo; de las herencias y bienes vacantes que estén dentro de su territorio; de los bienes mostrencos; de los créditos que tenga a su favor; de las rentas que deba percibir y de las contribuciones decretadas por el Congreso.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 71.
 
-La Dirección General de Hacienda del Estado estará a cargo de un Director General y dependerá directamente del Ejecutivo.
+La Dirección de Hacienda del Estado estará a cargo de un Director General y dependerá directamente del Ejecutivo.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1953)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-## TITULO OCTAVO. Prevenciones Generales
+## TITULO SEPTIMO. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 72.
 
-El Director General de Hacienda presentará mensualmente al Gobierno los cortes de caja y balance de comprobación relativos al movimiento de fondos habidos en el mes anterior. Estos documentos se publicarán desde luego en el Periódico Oficial.
+El Director de Hacienda, presentará mensualmente al Gobierno los cortes de caja y balance de comprobación, reIativos al movimiento de fondos habidos en el mes anterior. Estos documentos se publicarán desde luego en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 73.
 
-Ningún pago podrá hacerse que no esté autorizado en el Presupuesto de Egresos o en la Ley especial.
+Todos los caudales públicos pertenecientes al Estado, ingresarán a la Dirección General o a las Oficinas Recaudadoras de Hacienda que determine la Ley. El Director de Hacienda hará la distribución de ellos según el presupuesto y será responsable, personal y precuniariamente (sic), por los pagos que efectúe sin que estén comprendidos en aquél, o autorizados por la Ley.
 
-Las órdenes con cargo a una partida o Ley que asigne una cantidad para gastos extraordinarios, serán firmadas forzosamente por el Gobernador y el Secretario General.
+Las ordenes con cargo a una partida o Ley que asigne una cantidad para gastos extraordinarios, serán firmadas forzosamente por el Gobernador y el Secretario General de Gobierno.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 74.
 
-Para la glosa de las cuentas de los caudales del Estado y Municipales, habrá una Contaduría Mayor de Glosa, que dependerá exclusivamente del Congreso, en su receso de la Comisión Permanente.
+Para la glosa de las cuentas de los caudales del Estado y Municipios, habrá una Contaduría Mayor de Glosa, que dependerá exclusivamente del Congreso, en su receso de la Comisión Permanente.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 75.
 
-Para la glosa de las cuentas de los caudales del Estado y municipales, habrá una Contaduría General, que dependerá exclusivamente del Congreso o, en su receso, de la Diputación Permanente.
+Todo empleado de Hacienda que tuviere manejo de caudales públicos, lo afianzará convenientemente en los términos que establezca la Ley.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1953)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 76.
 
-Los Diputados, Los Magistrados, el Secretario General, el Subsecretario, el Oficial Mayor de Gobierno, el Procurador General de Justicia, el Director General de Hacienda y el Contador Mayor de Glosa son responsables de los delitos comunes que cometan mientras ejercen su encargo y por los delitos, faltas u omisiones en que incurren en el ejercicio de este mismo encargo. El Gobernador, durante el período de sus funciones, sólo podrá ser acusado por traición a la Patria y delitos graves del orden común.
+Todo funcionario público, cualquiera que sea su categoría es responsable de los delitos, faltas u omisiones en que incurra en el ejercicio del mismo.
+
+Para los delitos oficiales se concede acción popular, sin obligación de constituirse en parte.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 77.
 
-Los Diputados, los Magistrados, el Secretario General, el Procurador de Justicia, el Tesorero General y el Contador General de Glosa, son responsables de los delitos comunes que cometan mientras ejercen su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio de este mismo encargo. El Gobernador, durante el período de sus funciones, sólo podrá ser acusado por traición a la Patria y delitos graves del orden común.
+Siempre que se trate de algún delito del orden común cometido por algún Diputado, por el Gobernador, por algún Magistrado, por el Procurador General de Justicia, por el Secretario y Subsecretario General de Gobierno, por el Oficial Mayor o por el Director General de Hacienda, el Congreso, erigido en jurado, declarará, por los dos tercios de los votos de sus miembros presentes, cuando se trate de Gobernador, y por mayoría, cuando se trate de Ios otros funcionarios, si ha lugar o no a fosmación (sic) de causa. En caso negativo no habrá lugar a procedimiento ulterior. En el afirmativo, quedará el acusado, por ese solo hecho, separado de su encargo y sujeto a la acción de los Tribunales Comunes. La declaración de haber lugar a la formación de causa contra un funcionario de elección popular se requiere desde la fecha en que haya sido declarado electo.
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 78.
 
-En los delitos oficiales conocerá el Congreso como Jurado de acusación y el Tribunal Superior de Justicia como Tribunal de sentencia. El Jurado de acusación tendrá por objeto declarar, a mayoría absoluta de votos del número total de sus miembros, si el acusado es o nó responsable. Si la declaración fuere absolutoria, el funcionario continuará en el ejercicio de su encargo; si fuere condenatoria, quedará inmediatamente separado de su encargo y será puesto desde luego a disposición del Tribunal Superior de Justicia, el cual, erigido en Tribunal de Sentencia, con audiencia del presunto responsable y del Procurador de Justicia, procederá a aplicar, a mayoría absoluta de votos, la pena que la Ley designe.
+De los delitos Oficiales cometidos por el Gobernador, Diputados y miembros de los Ayuntamientos, conocerán: El Congreso como jurado de Acusación y el Tribunal Superior de Justicia como Jurado de Sentencia. El Jurado de acusación tendrá por objeto declarar, por el mismo número de votos de que habla el artículo que precede, si el acusado es no culpable, si la declaración fuere de inculpabilidad, el funcionario continuará en el ejercicio de su encargo; si fuere condenatoria, quedará inmediatamente separado de dicho cargo y será puesto desde luego a disposición del Tribunal Superior de Justicia, éste en Tribunal Pleno, erigido en Jurado de Sentencia, con audiencia de reo, de su defensor y del Procurador General de Justicia, procederá a aplicar por mayoría absoluta de votos, la pena que la ley designe. Cuando se trate de algún otro funcionario de los que menciona el artículo anterior de los jueces de Primera Instancia, el Tribunal en Pleno conocerá del instructivo de responsabilidad correspondiente, con audiencia del Procurador General de Justicia o de quien haga sus veces, hasta declarar por mayoría de votos, si ha lugar o no a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento ulterior. En el afirmativo, se procederá a suspender provisionalmente al funcionario acusado, quien no disfrutará de sueldo durante la suspensión y será juzgado por una de las Salas del Tribunal Superior de Justicia en Primera Instancia, conociendo en Segunda, la Sala que siga.
+
+Los Jueces de Primera Instancia del Ramo Penal o Mixtos, conocerán con audiencia del Ministerio Público de los Instructivos de responsabilidad que se inicien en contra de los Jueces Municipales y en Primera Instancia de los procesos respectivos; en Segunda, conocerán las Salas del Tribunal Superior según proceda, observándose para la suspensión provisional y privación de sueldo en su caso, lo previsto en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 79.
 
-En los delitos oficiales conocerá el Congreso como Jurado de acusación y el Tribunal Superior de Justicia como Jurado de Sentencia. El Jurado de Acusación tendrá por objeto declarar, a mayoría absoluta de votos del número total de sus miembros, si el acusado es o no responsable. Si la declaración fuera absolutoria, el funcionario continuará en el ejercicio de su encargo; si fuere condenatoria quedará inmediatamente separado de su encargo y será puesto desde luego a disposición del Tribunal Superior de Justicia, el cual, erigido en Jurado de Sentencia, con audiencia del presunto responsable, del Procurador de Justicia, y del acusador si lo hubiere, procederá a aplicar, a mayoría absoluta de votos, la pena que la Ley designe.
+Pronunciada la sentencia de responsabilidad por delitos oficiales, no podrá concederse al reo la gracia del indulto.
 
-## TITULO NOVENO. De las Reformas a la Constitución
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
+## TITULO OCTAVO. PREVENCIONES GENERALES
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 80.
 
-No gozan de fuero constitucional los altos funcionarios por los delitos oficiales, faltas u omisiones en que incurran en el desempeño de algún otro empleo, cargo o comisión pública que hayan aceptado durante el período en que conforme a ley se disfrute de fuero. Lo mismo sucederá respecto de los delitos comunes que cometan durante el desempeño de dicho empleo, cargo o comisión.
+La responsabilidad por delitos y faltas oficiales, solo podrá exigirse durante el período en que el funcionario ejerza su encargo y un año después.
 
-Para que la causa pueda iniciarse cuando el alto funcionario haya vuelto al ejercicio de sus funciones propias, deberá procederse con arreglo a lo dispuesto en los artículos anteriores.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 81.
 
-En los casos de este Título, las resoluciones del Gran Jurado son inatacables.
+. En las demandas del orden civil no hay fuero ni inmunidad para ningún funcionario público.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 82.
 
-Se concede acción popular para denunciar, ante quien corresponda, tanto los delitos graves del orden común cuya pena exceda de un año de prisión, como los delitos oficiales cometidos por los altos funcionarios del Estado.
+El Congreso en el primer período de sus sesiones ordinarias, nombrará doce personas que tengan los requisitos que se requieren para ser Magistrado y entre ellas, en caso de ser acusado uno o más Magistrados del Tribunal Superior de Justicia, sorteará a tres que erigidos en Tribunal de Sentencia los juzgue; el sorteo se hará en presencia del Procurador General de Justicia y de los acusados, pudiendo ser recusados por una y otra parte hasta dos personas. El período de duración de los insaculados a que se refiere este artículo será por tres años.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 83.
 
-Pronunciada una sentencia de responsabilidad por delitos oficiales, no puede concederse al reo la gracia de indulto.
+En todos los casos de este Título, las resoluciones del Gran Jurado, serán inapelables.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 84.
 
-La responsabilidad por delitos y faltas oficiales, solo podrá exigirse durante el periodo en que el funcionario ejerza su encargo y un año después.
+Los empleos o cargos públicos del Estado, durarán el tiempo establecido por las mismas leyes, y los que los desempeñan no tendrán ningún derecho de propiedad para conservarlos.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+Sólo podrá reunirse en una sola persona más de un empleo del Estado y del Municipio, o de éstos y de la Federación, previa autorización del Congreso del Estado y en su caso de la Comisión Permanente, que la podrá conceder atendiendo a la conveniencia pública. La prohibición anterior no comprende a los empleos en el ramo de enseñanza y salud pública, que se sujetarán sobre el particular, a lo dispuesto por la ley de la materia.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 85.
 
-El Congreso, en el primer período de sus sesiones ordinarias, nombrará doce personas que tengan los requisitos que se requieren para ser Magistrado, y entre ellas en caso de ser acusados uno o más Magistrados del Tribunal Superior de Justicia, sorteará a tres que erigidos en Tribunal de sentencia los juzgue, el sorteo se hará en presencia del Procurador General de Justicia y de los acusados, pudiendo ser recusados por una y otra parte hasta dos personas.
+Todos los funcionarios públicos de elección popular percibirán por sus servicios el sueldo que les asigne la ley; pero la disposición que la aumente o disminuya, no podrá tener efecto durante el período en que el funcionario ejerza el cargo.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 86.
 
-El período de duración de los insaculados a que se refiere el artículo anterior, será por tres años.
+Todos los funcionarios y empleados del Estado y del Municipio, al entrar a desempeñar sus cargos, harán protesta formal de guardar y cumplir la Constitución Federal, la del Estado y las Leyes que de ambas emanen.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 87.
 
-El período de duración de los insaculados a que se refiere el artículo anterior será de dos años.
+El Gobernador, los Magistrados Propietarios, los Supernumerarios cuando estén en funciones, el Procurador General de Justicia del Estado, los Jueces de Primera Instancia los Presidentes Municipales, el Secretario y Subsecretario General de Gobierno, el Oficial Mayor, el Director General de Hacienda, los Secretarios del Tribunal y los Secretarios de los Juzgados, no podrán funcionar como árbitros o arbitradores, ni ejercer la abogacía ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o marital. Tampoco podrán ejercer el Notariado, ni ser Albaceas, Depositario Judicial, Síndico, Administrador, lnterventor de Concurso, Testamentarías o Intestados. La infracción de este artículo será causa de responsabilidad.
+
+Esta prohibición comprende a los funcionarios o empleados que no estén en el ejercicio de sus funciones por hallarse disfrutando de licencia.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 88.
 
-Toda elección popular será directa en los términos que dispongan las leyes respectivas.
+El Gobernador, los Diputados y los Magistrados del Tribunal Superior de Justicia, recibirán una retribución por sus servicios que serán determinados por la Ley. Esta compensación en ningún caso será renunciable.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 89.
 
-Ningún individuo puede desempeñar a la vez dos o más cargos del Estado de elección popular, pero el nombrado podrá elegir el que le convenga.
+Los cargos de Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia y Miembros de los Ayuntamientos, sólo son renunciables por causa grave, calificada por el Congreso ante el que se presentará la renuncia. Las licencias indefinidas serán calificadas como renuncias.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 90.
 
-Los miembros del ejército o de la policía en servicio activo, podrán desempeñar cargos de elección popular siempre que se separen del servicio, noventa días antes de la elección.
+Que los Poderes Públicos del Estado residirán en la Ciudad de Tuxtla Gutiérrez, el Ejecutivo del Estado, en caso de guerra o de cualquiera otra calamidad pública, podrá trasladarlos provisionalmente a otro lugar.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 91.
 
-Ningún individuo del Ejército o de la Policía, en servicio activo, podrá ser nombrado para cargos de elección popular, a no ser que se separe de dicho servicio noventa días antes de la elección.
+La construcción de obras públicas las hará el Ejecutivo por contrato, o por administración. En el primer caso, serán adjudicadas en concurso y mediante convocatoria, para que se presenten proposiciones en sobre cerrado y que será abierto en junta pública.
 
-## TITULO DECIMO. De la Inviolabilidad de la Constitución
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+
+## TITULO NOVENO. DE LAS REFORMAS A LA CONSTITUCION
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 92.
 
-Los ministros de los cultos religiosos tienen incapacidad absoluta para desempeñar cargos públicos.
+El Periódico Oficial, es el órgano establecido para dar a conocer a los habitantes del Estado, las disposiciones de observancia general.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1953)</small>
+Las Leyes, Decretos, Reglamentos, Acuerdos, Circulares y cualesquiera otras disposiciones, obligarán a los treinta días de su promulgación, siempre que en los mismos no se fije la fecha en que deba comenzar su observancia. Se entiende hecha la promulgación el día en que termine la inserción de la Ley o disposición en el Periódico Oficial.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 93.
 
-El Secretario General, el Subsecretario y el Oficial Mayor de Gobierno no podrán ejercer la abogacía sino en causa propia. Tampoco pueden ejercer el Notariado, ni ser Albaceas, Depositario Judicial, Síndico, Administrador, Interventor de Concurso, Testamentarias o Intestado.
+La presente Constitución puede ser adicionada o reformada.
+
+Para que las adiciones o reformas puedan ser parte de la misma, se requiere:
+
+I. Que el Congreso en cualquiera de sus períodos ordinarios de Sesiones admita a discusión el proyecto, con la aprobación de las dos terceras partes del número total de sus miembros.
+
+II. Que el proyecto se publique en el Periódico Oficial del Estado.
+
+III. Que la mayoría de los Ayuntamientos den su aprobación dentro de los sesenta días de recibida la nota en que se les pida.
+
+IV. Que se apruebe en el siguiente período ordinario de sesiones por las dos terceras partes de la totalidad de los miembros del Congreso.
+
+En caso de que se hagan observaciones a las adiciones o reformas propuestas, el Congreso decidirá si son o no de tomarse en consideración, sujetándose los proyectos a los trámites de ley preceptuados en el Capítulo III del Título Cuarto, con excepción de lo preceptuado por el artículo 30.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 94.
 
-El Secretario General y el Oficial Mayor del Gobierno no podrán ejercer la abogacía sino en causa propia. Tampoco pueden ejercer el notariado, ni ser albaceas, depositario judicial, síndico, administrador, interventor de concurso, testamentaría o intestado.
-
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+Esta Constitución es la Ley fundamental para el régimen interior del Estado y nadie podrá estar dispensado de acatar sus preceptos, los cuales no perderán su fuerza y vigor, aún cuando por la violencia se interrumpa su observancia.
 
 ###### ARTICULO 95.
 
@@ -1229,26 +1145,6 @@ Todos las contratas (sic) que el Ejecutivo tenga que celebrar para la construcci
 
 > <small>N. DE E. ES DE OBSERVARSE QUE EN EL DECRETO No. 9 PUBLICADO EN P.O. 21 DE MARZO DE 1953, EL LEGISLADOR SEÑALA LA REFORMA AL PRESENTE ARTICULO, SIN EMBARGO, LA MISMA NO COINCIDE CON EL TEXTO QUE A LA FECHA TENIA ESTE, POR LO CUAL SE TRANSCRIBE DICHA REFORMA A LA LETRA, PARA LOS EFECTOS A QUE HAYA LUGAR.</small>
 
-###### ARTICULO 103.
-
-..........
-
-........................................
-
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
-
-I.- Que la Legislatura en cualquiera de sus períodos ordinarios de sesiones admita a discusión el Proyecto, con la aprobación de las dos terceras partes del número total de sus miembros.
-
-..................................
-
-..................................
-
-> <small>(REFORMADA, P. 21 DE MARZO DE 1951)</small>
-
-III.- Que la mayoría de los Ayuntamientos den su aprobación dentro de los noventa días de recibida la nota en que se les pida.
-
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
-
 ###### ARTICULO 104.
 
 Esta Constitución es la Ley Fundamental para el régimen interior del Estado y nadie podrá estar dispensado de acatar sus preceptos, los cuales no perderán su fuerza y vigor aun cuando por la violencia se interrumpa su observancia.
@@ -1270,6 +1166,10 @@ En caso de que se hagan observaciones a las adiciones o reformas propuestas, el 
 ###### ARTICULO 106.
 
 Esta Constitución no perderá su fuerza y vigor aún cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público se establezca un Gobierno contrario a los principios que ella sanciona, tan luego como el Pueblo recobre su libertad se establecerá su observancia, y con arreglo a ella, y a las leyes que en su virtud se hubieren expedido, serán juzgados, así los que hubieren figurado en el Gobierno emanado de la rebelión como los que hubieren cooperado a ésta.
+
+## TITULO DECIMO. DE LA INVIOLABILIDAD DE LA CONSTITUCION
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ## ARTICULOS TRANSITORIOS
 
@@ -1331,6 +1231,18 @@ Quedan derogadas todas las leyes y disposiciones que se opongan al presente decr
 
 P.O. 30 DE NOVIEMBRE DE 1926.
 
+###### ARTICULO 1o.
+
+El Estado de Chiapas reafirmó su mexicanidad el 14 de septiembre de 1824; desde esa fecha, por la libre y espontánea voluntad de sus habitantes, es signatario del Pacto Federal de la República Mexicana. Es libre y soberano en todo lo que concierne a su régimen interior, sin más limitaciones que las expresamente establecidas en la Constitución Federal.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+
+###### ARTICULO 2o.
+
+La soberanía del Estado reside escencial (sic) y originariamente en el pueblo, quien la ejerce por medio de los Poderes Públicos, que se instituyen para su beneficio.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+
 ###### Artículo 1o.
 
 La presente Ley empezará a surtir sus efectos desde su publicación en el Periódico Oficial.
@@ -1344,6 +1256,14 @@ P.O. 7 DE ENERO DE 1931.
 DECRETO No. 67, QUE REFORMA VARIOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO.
 
 > <small>N. DE E. ES DE OBSERVARSE QUE POR ACUERDO DEL C. GOBERNADOR DEL ESTADO, Y EN VISTA DE HABERSE PUBLICADO CON ALGUNOS ERRORES Y OMISIONES EL DECRETO No. 67, PUBLICADO EN EL PERIODICO OFICIAL No. 1, DE FECHA 7 DE ENERO DE 1931, QUEDO SIN EFECTO ALGUNO DICHO DECRETO, DEBIENDOSE TENER COMO AUTENTICA Y EXACTA LA PUBLICACION QUE NUEVAMENTE SE REALIZO DEL MISMO, EN EL P.O. 14 DE ENERO DE 1931.</small>
+
+###### ARTICULO 3o.
+
+El territorio del Estado de Chiapas, es el que posee desde que forma parte de la Nación Mexicana.
+
+Para su funcionamiento político y administrativo se dividirá en Municipios Libres, de acuerdo con las bases contenidas en el artículo 115 de la Constitución Federal y la Ley Orgánica respectiva.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### Artículo 1º.
 
@@ -1368,40 +1288,6 @@ Por una sola vez, de los nueve Diputados que resultaren electos para integrar la
 ###### Artículo 2o.
 
 Quedan derogadas todas las leyes y disposiciones que se opongan a la presente Constitución.
-
-###### Artículo 3o.
-
-La presente ley empezará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 1 DE MARZO DE 1933.
-
-1º.- Quedan derogados todas las Leyes, decretos y demás disposiciones que se opongan a las reformas a que se contrae el presente Decreto.
-
-2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
-
-P.O. 28 DE NOVIEMBRE DE 1934.
-
-DECRETO 103/8 QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO.
-
-1º.- Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
-
-2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
-
-P.O. 28 DE NOVIEMBRE DE 1934.
-
-DECRETO NÚMERO 104/9 QUE REFORMA ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
-
-1º.- Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
-
-2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
-
-P.O. 25 DE DICIEMBRE DE 1935.
-
-1º.- Quedan derogados todas las leyes, decretos y demás disposiciones que se opongan a las reformas a que se contrae el presente Decreto.
-
-2º.- Este decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
-
-P.O. 16 DE FEBRERO DE 1938.
 
 ###### Artículo 1º.
 
@@ -1439,17 +1325,39 @@ Este decreto empezará a regir desde la fecha de su publicación en el Periódic
 
 P.O. 21 DE MARZO DE 1951.
 
-###### ARTICULO 1o.
+###### Artículo 3o.
 
-Los diputados de los distritos de número par que se elijan, para iniciar sus funciones el 1º de noviembre de 1952, funcionarán únicamente 3 años que fenecerán el 31 de octubre de 1955; los diputados de los distritos de numreo (sic) par que se elijan para iniciar sus funciones el 1o. de noviembre de 1955, funcionarán también 3 años que fenecerán el 31 de octubre de 1958; los diputados de número impar que se elijan para iniciar sus funciones el 1º de noviembre de 1954, funcionarán 4 años, que fenecerán el 31 de octubre de 1958, a partir de cuya fecha los ciudadanos diputados se renovarán en su totalidad y durarán en el ejercicio de su encargo, 3 años, de acuerdo con lo preceptuado por el artículo 12 de la presente Constitución.
+La presente ley empezará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
 
-###### ARTICULO 2o.
+P.O. 1 DE MARZO DE 1933.
 
-El artículo 57 de la presente Constitución entrará en vigor por lo que se refiere al período de ejercicio de los ciudadanos Magistrados del Tribunal Superior y de los Jueces de 1ª. Instancia, a partir del 1o. de diciembre de 1952.
+1º.- Quedan derogados todas las Leyes, decretos y demás disposiciones que se opongan a las reformas a que se contrae el presente Decreto.
 
-###### ARTICULO 3o.
+2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
 
-El artículo 68 de la presente Constitución, en lo que se refiere al período de duración de los Ayuntamientos, entrará en vigor a partir del 1o. de enero de 1953, entretanto, los Ayuntamientos que se elijan durarán, dos años los de primera y segunda categoría y uno los de tercera.
+P.O. 28 DE NOVIEMBRE DE 1934.
+
+DECRETO 103/8 QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+1º.- Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
+
+2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 28 DE NOVIEMBRE DE 1934.
+
+DECRETO NÚMERO 104/9 QUE REFORMA ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
+
+1º.- Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
+
+2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 25 DE DICIEMBRE DE 1935.
+
+1º.- Quedan derogados todas las leyes, decretos y demás disposiciones que se opongan a las reformas a que se contrae el presente Decreto.
+
+2º.- Este decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 16 DE FEBRERO DE 1938.
 
 ###### ARTICULO 4o.
 
@@ -1470,6 +1378,48 @@ P.O. 16 DE ABRIL DE 1952.
 Artículo Unico.- Las presentes reformas entrarán en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 19 DE NOVIEMBRE DE 1952.
+
+###### ARTICULO 4o.
+
+Todo habitante del estado gozará de las garantías que otorgan la Constitución Federal y la presente, con las prerrogativas y obligaciones que ambas establecen.
+
+La libertad del hombre no tendrá más limitaciones que las que impongan las Leyes.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+
+###### ARTICULO 5o.
+
+Son obligaciones de los habitantes del Estado:
+
+a).- Respetar y cumplir las leyes.
+
+b).- Acrecentar el espíritu de solidaridad humana y cooperar para la superación de la cultura del pueblo.
+
+c).- Contribuir para los gastos públicos de manera proporcional y equitativa.
+
+d).- Manifestar en el Municipio en que residan las propiedades que tengan y la industria, profesión o trabajo de que subsistan; y,
+
+e).- Cooperar al mantenimiento del orden y la paz públicos.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+
+###### ARTICULO 6o.
+
+Son vecinos del Estado, los que residen habitualmente dentro del territorio, sean mexicanos o extranjeros.
+
+La vecindad se pierde por trasladarse a otro punto, levantando la casa o giro establecido en el lugar que se abandonó.
+
+La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular, de comisión que no tenga el carácter de permanente o la reclamada con motivo del deber de todo mexicano, de defender a la Patria y a sus Instituciones.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+
+###### ARTICULO 1o.
+
+Los diputados de los distritos de número par que se elijan, para iniciar sus funciones el 1º de noviembre de 1952, funcionarán únicamente 3 años que fenecerán el 31 de octubre de 1955; los diputados de los distritos de numreo (sic) par que se elijan para iniciar sus funciones el 1o. de noviembre de 1955, funcionarán también 3 años que fenecerán el 31 de octubre de 1958; los diputados de número impar que se elijan para iniciar sus funciones el 1º de noviembre de 1954, funcionarán 4 años, que fenecerán el 31 de octubre de 1958, a partir de cuya fecha los ciudadanos diputados se renovarán en su totalidad y durarán en el ejercicio de su encargo, 3 años, de acuerdo con lo preceptuado por el artículo 12 de la presente Constitución.
+
+###### ARTICULO 2o.
+
+El artículo 57 de la presente Constitución entrará en vigor por lo que se refiere al período de ejercicio de los ciudadanos Magistrados del Tribunal Superior y de los Jueces de 1ª. Instancia, a partir del 1o. de diciembre de 1952.
 
 ###### Artículo 1o.
 
@@ -1533,16 +1483,6 @@ Unico.- Este decreto comenzará a regir desde la fecha de su publicación en el 
 
 P.O. 31 DE MAYO DE 1961.
 
-###### Artículo 1o.
-
-Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente decreto.
-
-###### Artículo 2o.
-
-Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 17 DE JUNIO DE 1970.
-
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
@@ -1562,3 +1502,31 @@ P.O. 8 DE AGOSTO DE 1973.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor desde el día 1/o. de enero de 1974, fecha en que fenece el período de tres años de funciones del Ayuntamiento suprimido.
+
+P.O. 15 DE AGOSTO DE 1973.
+
+###### ARTICULO 1o.
+
+La presente Constitución entrará en vigor a partir de la fecha de su publicación en (sic) Periódico Oficial del Estado.
+
+###### Artículo 1o.
+
+Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente decreto.
+
+###### ARTICULO 2o.
+
+Quedan derogadas todas las Leyes, Decretos, Circulares, Reglamentos o cualesquiera otras disposiciones que contravengan la presente Constitución.
+
+###### ARTICULO 3o.
+
+El Ejecutivo dispondrá se promulgue, circule y publique por bando solemne, para su debido cumplimiento.
+
+###### Artículo 2o.
+
+Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 1970.
+
+###### ARTICULO 3o.
+
+El artículo 68 de la presente Constitución, en lo que se refiere al período de duración de los Ayuntamientos, entrará en vigor a partir del 1o. de enero de 1953, entretanto, los Ayuntamientos que se elijan durarán, dos años los de primera y segunda categoría y uno los de tercera.
