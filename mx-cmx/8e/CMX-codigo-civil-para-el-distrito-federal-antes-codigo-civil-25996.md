@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1979-01-03"
+last_updated: "1982-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1982.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -7995,7 +7995,23 @@ Los créditos por indemnización cuando la víctima fuere un asalariado son intr
 
 Las anteriores disposiciones se observarán en el caso del artículo 2647 de este Código.
 
-ARTICULO 1,916.- Independientemente de los daños y perjuicios, el juez puede acordar en favor de la víctima de un hecho ilícito, o de su familia, si aquélla muere, una indemnización equitativa, a título de reparación moral, que pagará al responsable del hecho. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil. Lo dispuesto en este artículo no se aplicará al Estado en el caso previsto en el artículo 1928.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+ARTICULO 1,916.- Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físicos (sic), o bien en la consideración que de sí misma tienen los demás.
+
+Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual, como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva conforme al artículo 1913, así como el Estado y sus funcionarios conforme al artículo 1928, ambas disposiciones del presente Código.
+
+La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
+
+El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
+
+Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+ARTICULO 1,916 Bis.- No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6o. y 7o. de la Constitución General de la República.
+
+En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
 
 ARTICULO 1,917.- Las personas que han causado en común un daño, son responsables solidariamente hacia la víctima por la reparación a que están obligadas de acuerdo con las disposiciones de este Capítulo.
 
@@ -8587,7 +8603,9 @@ ARTICULO 2,114.- El precio de la cosa será el que tendría al tiempo de ser dev
 
 ARTICULO 2,115.- Al estimar el deterioro de una cosa se atenderá no solamente a la disminución que él causó en el precio de ella, sino a los gastos que necesariamente exija la reparación.
 
-ARTICULO 2,116.- Al fijar el valor y deterioro de una cosa, no se atenderá al precio estimativo o de afección, a no ser que se pruebe que el responsable destruyó o deterioró la cosa con objeto de lastimar la afección del dueño; el aumento que por estas causas se haga no podrá exceder de una tercera parte del valor común de la cosa.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+ARTICULO 2,116.- Al fijar el valor y deterioro de una cosa, no se atenderá al precio estimativo o de afecto, a no ser que se pruebe que el responsable destruyó o deterioró la cosa con objeto de lastimar los sentimientos o afectos del dueño; el aumento que por estas causas se haga, se determinará conforme a lo dispuesto por el artículo 1916.
 
 ARTICULO 2,117.- La responsabilidad civil puede ser regulada por convenio de las partes, salvo aquellos casos en que la ley disponga expresamente otra cosa.
 
@@ -12166,3 +12184,9 @@ Las disposiciones de este decreto se aplicarán a los actos, contratos, títulos
 ###### ARTICULO CUARTO.
 
 Al entrar en vigor el presente decreto en el Distrito Federal, el Director del Registro Público hará entrega al encargado del Archivo General de Notarías de los testamentos ológrafos depositados en el citado Registro Público, mediante acta que contenga la relación detallada de los mismos y de los libros e índices en que consten anotados.
+
+D.O.F. 31 DE DICIEMBRE DE 1982.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
