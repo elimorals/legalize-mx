@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1988-10-20"
+last_updated: "1989-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE FEBRERO DE 1989.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1423,11 +1423,11 @@ En cada Distrito Judicial habrá un Juez, o los Jueces necesarios de Primera Ins
 
 El Ministerio Público es el órgano del Poder Ejecutivo a quien incumbe la persecución de los delitos, a cuyo fin contará con un cuerpo de Policía Judicial que estará bajo la autoridad y mando inmediato de aquel. El Ministerio Público debe velar además por la exacta observancia de las leyes de interés general e intervenir en todos aquellos asuntos que afecten a la Sociedad, al Estado, y en general, a las personas a quienes las leyes otorgan especial protección.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1989)</small>
 
 ###### Art. 120.
 
-El Ministerio Público estará a cargo de un Procurador General de Justicia, un Sub Procurador General, tres Sub Procuradores y los Agentes del Ministerio Público, auxiliados por el Personal que determine la Ley Orgánica respectiva.
+El Ministerio Público estará a cargo de un Procurador General de Justicia y de un Sub-Procurador General, así como de los Sub-Procuradores y Agentes del Ministerio Público, auxiliados por el personal que determine la Ley Orgánica respectiva.
 
 ###### Art. 121.
 
@@ -2632,3 +2632,9 @@ P.O. 20 DE OCTUBRE DE 1988
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+P.O. 20 DE FEBRERO DE 1989
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "Gaceta del Gobierno" del Estado.
