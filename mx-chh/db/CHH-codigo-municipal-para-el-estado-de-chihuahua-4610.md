@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2003-10-22"
+last_updated: "2004-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2004.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -541,7 +541,9 @@ XVII.- Autorizar la celebración de contratos de obras o servicios públicos mun
 
 XVIII.- Vigilar, el mantenimiento y conservación del patrimonio municipal;
 
-XIX.- Dictar las disposiciones generales o particulares que tiendan a la conservación de los bienes ubicados en el Municipio, que tengan un valor relevante en el orden artístico, cultural o histórico y cuyo cuidado y conservación no corresponda a otra autoridad;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
+XIX. Dictar las disposiciones generales o particulares que tiendan a la conservación de los bienes y monumentos artísticos, arquitectónicos e históricos, ubicados en el Municipio, así como de los documentos históricos o cualquier material testimonial de un hecho jurídico o socialmente trascendente, que tengan un valor relevante en el orden artístico, cultural o histórico y cuyo cuidado y conservación no corresponda a otra autoridad;
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2003)</small>
 
@@ -997,6 +999,8 @@ IV.- Serán presididas por él o los representantes del Ayuntamiento que sean co
 
 Los Ayuntamientos, aprobarán dentro de sus respectivas jurisdicciones, de acuerdo con las leyes que en materia municipal expida el Congreso, los Bandos de Policía y Gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
 
+El Ayuntamiento discutirá y aprobará, a propuesta del Presidente Municipal, de los Regidores o de los electores a través de iniciativa popular, las disposiciones reglamentarias de observancia general en el Municipio.
+
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 46.
@@ -1225,7 +1229,9 @@ VI.- Tramitar y llevar el control de denuncios (sic) de terrenos municipales;
 
 VII.- Recopilar la documentación e información necesarias para acreditar la existencia de la causa de utilidad pública, cuando el Ayuntamiento pretenda solicitar la expropiación de un bien;
 
-VIII.- Tener a su cargo el archivo del Municipio, así como una colección ordenada y anotada de leyes, decretos, reglamentos, circulares y órdenes relativas a los distintos ramos de la administración municipal;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
+VIII. Administrar el archivo del ayuntamiento, incluyendo la colección ordenada y anotada de leyes, decretos, reglamentos, circulares y órdenes relativas a los distintos ramos de la administración municipal; así como la custodia guarda, conservación y difusión del acervo documental del archivo histórico municipal;
 
 IX.- Llevar los trámites necesarios para que se otorgue dispensa de edad y para que se supla el consentimiento de quienes, deben otorgarlo a fin de que contraigan matrimonio los menores de edad;
 
@@ -3357,13 +3363,13 @@ P.O. 14 DE JUNIO DE 2003.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 21 DE JUNIO DE 2003.
+P.O. 16 DE JULIO DE 2003.
 
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 16 DE JULIO DE 2003.
+P.O. 19 DE JULIO DE 2003.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3373,7 +3379,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 Para la (sic) elecciones de las Juntas Municipales en la (sic) Secciones Municipales de "Bermúdez" y de "El Pilar", se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente y deberán llevarse a cabo las elecciones dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
 
-P.O. 19 DE JULIO DE 2003.
+P.O. 21 DE JUNIO DE 2003.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3396,5 +3402,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 A partir de la entrada en vigor del presente Decreto y hasta antes del inicio del ejercicio fiscal de 2005, se efectuarán reuniones bimensuales de la Comisión de Programación, Presupuesto y Hacienda Pública con el Secretario de Desarrollo Municipal, para conocer y evaluar el grado de avance, de las administraciones municipales, en la revalorización catastral.
+
+P.O. 4 DE FEBRERO DE 2004.
+
+UNICO.- El presente Decreto entra en vigor de inmediato, debiendo publicarse en el Periódico Oficial del Estado.
 
 ## TRANSITORIOS
