@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2004-04-10"
+last_updated: "2004-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2004.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -293,17 +293,19 @@ IX.- Expedir leyes electorales conforme a la presente Constitución, así como l
 
 X.- Expedir leyes para preservar y restaurar el equilibrio ecológico y proteger el ambiente, que establezcan la concurrencia de los gobiernos estatal y municipales, en el ámbito de sus respectivas competencias, conforme a la Constitución Política de los Estados Unidos Mexicanos y la ley general reglamentaria correspondiente;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2004)</small>
 
-XI.- Revisar y fiscalizar a más tardar el 30 de noviembre de cada año, la cuenta pública del gobierno del Estado correspondiente al ejercicio del año anterior, que el titular del Poder Ejecutivo le presente dentro de los 15 días siguientes a la apertura del segundo periodo ordinario de sesiones de cada año.
+XI.- Revisar y fiscalizar las cuentas públicas del ejercicio fiscal que le presenten el gobierno del Estado y los ayuntamientos, debiendo dictaminar semestralmente el resultado de la revisión de las cuentas públicas, a más tardar el 15 de noviembre el correspondiente al primer semestre de cada año y el 15 de mayo el que corresponda al segundo semestre.
 
-La revisión de la cuenta pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el presupuesto, así como el cumplimiento de los objetivos contenidos en los programas. Para la revisión de las cuentas públicas, el Congreso se apoyará en la Contaduría Mayor de Hacienda.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2004)</small>
+
+El Congreso deberá expedir el decreto en el que se consigne la conclusión del proceso de revisión y fiscalización de los resultados de la cuenta pública correspondiente, en el que se determine si hubo o no irregularidades o faltas de carácter administrativo, así como de las propuestas de sanción a las que pueden estar sujetos quienes hayan incurrido en responsabilidad alguna.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
 Si de la revisión que el Congreso realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley;
 
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
-
-XI BIS.- Revisar y fiscalizar las cuentas públicas de los Ayuntamientos correspondientes al ejercicio del año anterior, a más tardar el 30 de noviembre de cada año. Los ayuntamientos enviarán al Congreso sus cuentas públicas a más tardar el último día de febrero. Será aplicable a esta fracción las reglas para la revisión de la cuenta pública, así como la determinación de responsabilidades a que se refiere la fracción anterior;
+XI BIS.- (DEROGADA, P.O. 19 DE JUNIO DE 2004)
 
 XII.- Crear y suprimir empleos públicos en el Estado según lo demanden las necesidades del servicio y señalar, aumentar o disminuir las respectivas dotaciones teniendo en cuenta las circunstancias del erario;
 
@@ -682,6 +684,10 @@ XVI.- Remitir cada año para su aprobación al Congreso del Estado, en la primer
 XVII.- Vigilar la recaudación de los impuestos y contribuciones, y disponer su inversión según lo determinen las Leyes.
 
 XVIII.- Cuidar de que el manejo de los fondos públicos se asegure conforme a las leyes y de que los empleados rindan cuenta en la forma y tiempo prescritos por las mismas.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2004)</small>
+
+XVIII Bis.- Presentar al Congreso del Estado para su revisión y fiscalización semestralmente el resultado de la cuenta pública del gobierno del Estado, dentro de los 45 días naturales siguientes a la conclusión del semestre correspondiente. Dichos resultados se elaborarán por los meses comprendidos de enero a junio y de julio a diciembre de cada año, debiendo integrar en este último periodo las cifras consolidadas anuales de los resultados de la gestión.
 
 XIX.- Dirigir y fomentar por todos los medios lícitos posibles, la Educación Pública, de acuerdo con esta Constitución y la Federal: y procurar el adelanto y mejoramiento social en todos los órdenes.
 
@@ -1445,11 +1451,13 @@ Las renuncias y licencias de los munícipes, se admitirán y concederán por los
 
 Los Ayuntamientos estarán obligados a remitir anualmente al Congreso del Estado para su aprobación, sus proyectos de leyes de ingresos, durante la primera quincena del mes de noviembre.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2004)</small>
 
 ###### Artículo 95.
 
-Aprobado por el Cabildo el dictamen de revisión de la cuenta pública municipal correspondiente al ejercicio del año anterior, el Ayuntamiento lo remitirá al Congreso del Estado, para los efectos del artículo 33, fracción XI Bis. La aprobación de un dictamen no impide que se finquen responsabilidades a los servidores públicos que hayan incurrido en ellas.
+Aprobado por el Cabildo el dictamen de revisión de los resultados semestrales de la cuenta pública municipal correspondiente al ejercicio fiscal, el Ayuntamiento los presentará al Congreso del Estado dentro de los 30 días naturales siguientes a la conclusión de cada semestre, para los efectos del artículo 33 fracción XI de esta Constitución.
+
+Dichos resultados se elaborarán por los meses comprendidos de enero a junio y de julio a diciembre de cada año, debiendo integrar en este último periodo las cifras consolidadas anuales de los resultados de la gestión. La aprobación del dictamen de revisión por el Cabildo no impide que, en su caso, el Congreso del Estado finque responsabilidades a los servidores públicos que hayan incurrido en ellas.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1621,9 +1629,13 @@ De las Responsabilidades de los Servidores Públicos.
 
 En lugar de la residencia de los Poderes del Estado habrá una Contaduría General que dependerá inmediatamente del Congreso, compuesta de los empleados que designe la ley; en dicha Oficina se glosarán, sin excepción, las cuentas de los caudales públicos del Erario del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2004)</small>
+
 ###### Artículo 117.
 
-Toda cuenta de fondos públicos quedará glosada a más tardar tres meses después de su presentación. La falta de cumplimiento de este precepto será causa de responsabilidad así de los empleados de la Contaduría como de la comisión Inspectora.
+La revisión de los resultados semestrales de las cuentas públicas, considerando el desahogo de las confrontas derivadas de las observaciones y la terminación del informe final de auditoría con las recomendaciones sobre la aplicación de posibles sanciones, deberá quedar concluida dentro de los siguientes sesenta días naturales a la presentación de los mismos por el gobierno del Estado y los ayuntamientos.
+
+La falta de cumplimiento de este precepto será causa de responsabilidad del Contador Mayor de Hacienda, de los empleados de la Contaduría Mayor de Hacienda, así como de los Diputados y Diputadas integrantes de las Comisiones Legislativas correspondientes.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1955)</small>
 
@@ -2582,3 +2594,9 @@ P.O. 10 DE ABRIL DE 2004.
 DECRETO No. 71, QUE REFORMA EL ARTICULO 69 EN SUS FRACCIONES II, III Y V DE LA CONSTITUCION DEL ESTADO.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima."
+
+P.O. 19 DE JUNIO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+SEGUNDO.- La revisión y fiscalización de las cuentas públicas estatal y municipales correspondientes al ejercicio fiscal 2003, se sujetará a las bases y disposiciones constitucionales del sistema anual de rendición de cuentas establecidas antes de la presente reforma.
