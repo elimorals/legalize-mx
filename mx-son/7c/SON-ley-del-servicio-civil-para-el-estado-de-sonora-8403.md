@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "1977-08-27"
+last_updated: "1983-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE ENERO DE 1983.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -399,9 +399,11 @@ En los casos a que se refiere esta fracción el trabajador será suspendido en s
 
 ## TITULO TERCERO. DEL ESCALAFON
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 3 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 43.
 
-Se entiende por escalafón el sistema organizado en cada entidad o dependencia, conforme a las bases establecidas en este título, para efectuar las promociones de ascensos de los trabajadores y autorizar las permutas.
+Se entiende por escalafón el sistema organizado en cada entidad o dependencia, conforme a las bases establecidas en este título, para efectuar las promociones de ascensos de los trabajadores y autorizar las permutas. Tratándose de personal docente al servicio del ramo educativo, las permutas serán substituídas por los cambios de adscripción y conforme al reglamento de éstos.
 
 ###### ARTICULO 44.
 
@@ -1072,3 +1074,9 @@ EL SECRETARIO DE GOBIERNO.
 Dr. Samuel Ocaña García.
 
 Firmado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 3 DE ENERO DE 1983.
+
+UNICO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
