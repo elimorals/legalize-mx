@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "1998-01-23"
+last_updated: "1998-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 1998.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -99,13 +99,17 @@ El día anterior al de la Instalación de la Legislatura, los presuntos Diputado
 
 Otorgada la protesta a que se refiere el artículo anterior, por votación secreta y mediante cédula se procederá a la elección de la Directiva del Congreso, en los términos del Artículo 33 de la Ley Orgánica del Poder Legislativo.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 11.
 
-El día quince de Octubre a las once horas se reunirán los Diputados en el Recinto Oficial en Sesión Solemne para instalar la Legislatura y declarar la apertura del Primer Período Ordinario de Sesiones.
+El día 23 de Septiembre a las once horas se reunirán los diputados en el Recinto Oficial en Sesión Solemne para instalar la Legislatura y declarar la apertura del Primer Período Ordinario de Sesiones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 12.
 
-Iniciados los trabajos, el Presidente del Congreso hará la siguiente declaración: "La (Número) Legislatura al Congreso del Estado de Nuevo León, queda legalmente instalada y abre hoy quince de octubre de (año), el Primer Período Ordinario de Sesiones correspondiente al Primer Año de Ejercicio Constitucional.
+Iniciados los trabajos, el Presidente del H. Congreso hará la siguiente declaración: "La (número) Legislatura al H. Congreso del Estado de Nuevo León, queda legalmente instalada y abre hoy 20 de Septiembre de (año) el Primer Período Ordinario de Sesiones correspondiente al Primer Año de Ejercicio Constitucional".
 
 Esta declaración será materia de un Decreto que sin más trámite se expedirá ese día y se publicará en el Periódico Oficial del Gobierno del Estado.
 
@@ -719,7 +723,7 @@ V.- Elaborar los criterios para otorgar el apoyo a los Grupos Legislativos, a la
 
 VI.- Rendir un informe anual al Pleno de las actividades desarrolladas;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 VII.- Para la elaboración de los criterios relacionados con el apoyo a los Grupos Legislativos, el Comité recabará el punto de vista de la Gran Comisión; y
 
@@ -1534,3 +1538,9 @@ P.O. 22 DE DICIEMBRE DE 1997.
 P.O. 23 DE ENERO DE 1998.
 
 ÚNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE SEPTIEMBRE DE 1998.
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
