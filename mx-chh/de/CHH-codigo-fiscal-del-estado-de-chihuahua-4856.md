@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1971-04-24"
+last_updated: "1971-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 1971.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -975,7 +975,9 @@ En los casos de reavalúos a que se refiere la Sección de Catastro, el nuevo va
 
 OBJETO Y SUJETO
 
-166.- Son objeto de este impuesto los ingresos en efectivo o en especie, que habitual o accidentalmente se perciban como remuneración del trabajo personal, quedando comprendidas las contraprestaciones cualquiera que sea el nombre con que se les designe, ya sean ordinarias o extraordinarias, incluyendo sobresueldos, viáticos, gastos de representación, comisiones, premios, gratificaciones, participaciones de los trabajadores en las utilidades, rendimientos, destajos y otros conceptos.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1971)</small>
+
+166.- Son objeto de este impuesto los ingresos en efectivo o en especie, que habitual o accidentalmente se perciban como remuneración del trabajo personal, quedando comprendidas las contraprestaciones cualquiera que sea el nombre con que se les designe, ya sean ordinarias o extraordinarias, incluyendo sobresueldos, viáticos, gastos de representación, comisiones, premios, gratificaciones, rendimientos, destajos y otros conceptos.
 
 167.- Son sujetos del impuesto las personas físicas que perciban ingresos por la prestación de su trabajo personal, cuando éste se realice bajo la dirección y dependencia de un tercero, ya sea en virtud de contrato de trabajo o de nombramiento para el desempeño de cargo o empleo público. Se asimilan a los casos citados quienes perciban ingresos como administradores, comisarios o miembros de consejo directivos o de vigilancia de sociedades y asociaciones; y a los miembros de cooperativas de productores.
 
@@ -1011,61 +1013,55 @@ IV.- A registrarse en la Recaudación de Rentas de su jurisdicción, como retene
 
 170.- Las Oficinas Públicas de la Federación, del Estado y de los Municipios, así como los organismos descentralizados, las empresas de participación o propiedad del Gobierno Federal, del Gobierno Estatal, o similares, que hagan pagos a sujetos de este impuesto, cumplirán con las mismas obligaciones señaladas en los artículos anteriores.
 
-> <small>(F. DE E., P.O. 23 DE ENERO DE 1971)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1971)</small>
 
-171.- El impuesto se causará conforme a lo siguiente
+171.- El impuesto se causará conforme a la siguiente
 
 TARIFA:
 
-Porcentaje para
+Porcentajes para
 
-aplicarse sobre
+aplicarse sobre el
 
-el excedente del
+excedente del
 
 límite inferior
 
-Límite Inferior Límite Superior Cuota Fija
+Límite Inferior Limite Superior Cuota Fija
 
-M$N M$N M$N
+M $ N M $ N M $ N
 
-001 1,200 0.00 exento
+De 0.01 a 2,500.00 0.00 exento
 
-1,201 1,500 7.00 1.2
+" 2,500.01 a 3,000.00 27.00 más 1.9
 
-1,501 2,000 12.00 1.4
+" 3,000.01 a 4,000.00 36.50 " 2.3
 
-2,001 2,500 19.00 1.6
+" 4,000.01 a 5,000.00 59.50 " 2.7
 
-2,501 3,000 27.00 1.9
+" 5,000.01 a 6,000.00 86.50 " 3.1
 
-3,001 4,000 37.00 2.3
+" 6,000.01 a 7,000.00 117.50 " 3.4
 
-4,001 5,000 60.00 2.7
+" 7,000.01 a 8,000.00 151.50 " 3.6
 
-5,001 6,000 87.00 3.1
+" 8,000.01 a 9,000.00 187.50 " 3.9
 
-6,001 7,000 118.00 3.4
+" 9,000.01 a 10,000.00 226.50 " 4.2
 
-7,001 8,000 152.00 3.6
+" 10,000.01 a 12,000.00 268.50 " 4.6
 
-8,001 9,000 188.00 3.9
+" 12,000.01 a 15,000.00 360.50 " 5.5
 
-9,001 10,000 227.00 4.2
+" 15,000.01 a 18,000.00 525.50 " 6.5
 
-10,001 12,000 269.00 4.6
+" 18,000.01 a 21,000.00 720.50 " 7.5
 
-12,001 15,000 361.00 5.5
+" 21,000.01 a 25,000.00 945.50 " 8.2
 
-15,001 18,000 526.00 6.5
+" 25,000.01 a 30,000.00 1,273.50 " 8.5
 
-18,001 21,000 721.00 7.5
-
-21,001 25,000 946.00 8.2
-
-25,001 30,000 1,276.00 8.5
-
-30,000 en adelante 1,701.00 8.7
+" 30,000.01 en adelante 1,698.50 " 8.7
 
 DE LAS EXENCIONES
 
@@ -1083,7 +1079,9 @@ V.- Indemnizaciones para gastos funerarios.
 
 VI.- Las gratificaciones de fin de año, acordadas en forma general, a favor de los empleados públicos, así como las que perciban, también a fin de año, otros trabajadores cuyos sueldos o salarios no excedan de dos mil pesos mensuales y siempre que dichas gratificaciones no excedan de un mes de sueldo.
 
-VII.- Las cantidades recibidas por concepto de salario mínimo general.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 1971)</small>
+
+VII.- Las cantidades recibidas por concepto de salario mínimo general, las participaciones en las utilidades, las indemnizaciones por cese o separación y los retiros o rentas vitalicias que tengan su origen en la prestación de servicios personales.
 
 VIII.- Los haberes que obtengan los miembros del Ejército Nacional.
 
@@ -3964,3 +3962,7 @@ P.O. 24 DE ABRIL DE 1971.
 "ARTICULO SEGUNDO.- Mientras se encuentra en vigor el convenio que se aprueba se suspende la aplicación de las disposiciones del Código Fiscal del Estado que en materia del Impuesto sobre el Comercio y la Industria gravan los ingresos por las operaciones previstas en el artículo 202 del Código Fiscal del Estado, en cuanto sean diversos a los autorizados por el artículo 81 de la Ley Federal del Impuesto sobre Ingresos Mercantiles y en el convenio de Coordinación de 8 de marzo de 1971 que se aprueba".
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación.
+
+P.O. 24 DE JULIO DE 1971.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
