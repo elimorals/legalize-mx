@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "1974-12-23"
+last_updated: "1975-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1975.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -735,9 +735,9 @@ III.- Cuando durante el juicio apareciere o sobreviniese alguna de las causas de
 
 IV.- Cuando de las constancias de autos apareciere claramente demostrado que no existe el acto reclamado, o cuando no se probare su existencia en la audiencia a que se refiere el artículo 155 le (sic) esta ley.
 
-> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1968)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1975)</small>
 
-V.- En los amparos directos y en los indirectos que se encuentren en trámite ante los jueces de Distrito, cuando el acto reclamado proceda de autoridades civiles o administrativas, y siempre que no esté reclamada la inconstitucionalidad de una ley, si, cualquiera que sea el estado del juicio, no se ha efectuado ningún acto procesal durante el término de trescientos días, incluyendo los inhábiles, ni el quejoso haya promovido en ese mismo lapso.
+V.- En los amparos directos y en los indirectos que se encuentren en trámite ante los jueces de Distrito, cuando el acto reclamado sea del orden civil o administrativo, si cualquiera que sea el estado del juicio, no se ha efectuado ningún acto procesal durante el término de trescientos días, incluyendo los inhábiles, ni el quejoso ha promovido en ese mismo lapso.
 
 > <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
 
@@ -2220,3 +2220,25 @@ D.O.F. 23 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 1975.
+
+###### ARTICULO PRIMERO.
+
+Estas reformas entrarán en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Los amparos directos que radican en la Tercera Sala y en la Sala Auxiliar de la Suprema Corte de Justicia y que pasan a ser de la competencia de los Tribunales Colegiados de Circuito, se enviarán desde luego, para su resolución, al que corresponda, si existen dos o más Tribunales competentes se distribuirán entre ellos, por partes iguales.
+
+###### ARTICULO TERCERO.
+
+Los recursos de queja interpuestos o que se interpongan en amparos fallados por la Tercera Sala o por la Sala Auxiliar de la Suprema Corte de Justicia, deberán ser resueltos por ellas aunque se trate de amparos que, conforme a las presentes reformas, debieran pasar a los Tribunales Colegiados de Circuito.
+
+###### ARTICULO CUARTO.
+
+Los recursos de reclamación contra los acuerdos de trámite dictados por el Presidente de la Suprema Corte de Justicia, por el Presidente de la Tercera Sala o por el Presidente de la Sala Auxiliar, en juicios de amparo de que ellas conocían y que pasan a los Tribunales Colegiados de Circuito, serán resueltos por dichas Salas antes de remitir el expediente al Tribunal que corresponda.
+
+###### ARTICULO QUINTO.
+
+Queda facultada la Suprema Corte de Justicia para dictar las medidas tendientes a la efectividad e inmediato cumplimiento de las presentes reformas.
