@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-3-1991-del-tribunal-en-pleno-de-la-suprema-63065
 country: "mx"
 rank: "acuerdo"
 publication_date: "1991-08-20"
-last_updated: "1991-08-20"
+last_updated: "1993-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63065&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-08-14"
 
 ACUERDO No. 3/1991 DEL TRIBUNAL EN PLENO DEL DIA CATORCE DE AGOSTO DE MIL NOVECIENTOS NOVENTA Y UNO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 1993.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 20 de agosto de 1991.
 
@@ -65,45 +65,7 @@ CUARTO.- Los tribunales Colegiados Primero, Segundo y Tercero y el Primer Unitar
 
 QUINTO.- Los tribunales Colegiados Primero y Segundo y el Unitario del Décimo Sexto Circuito, con residencia en la ciudad de Guanajuato, Guanajuato, continuarán conociendo, hasta su terminación, de los asuntos provenientes de los Juzgados Primero y Segundo de Distrito en el estado de Querétaro, con residencia en la ciudad de Querétaro, que reciban antes de que inicien su funcionamiento los tribunales colegiado y unitario del Vigésimo Segundo Circuito.
 
-SEXTO.- Se reforma, modifica y adiciona el Acuerdo Plenario 1/88, de quince de enero de mil novecientos ochenta y ocho, modificado en los términos del Acuerdo Plenario 2/1991, de nueve de abril de mil novecientos noventa y uno, para quedar en los términos siguientes:
-
-"PRIMERO.- El territorio de la República se divide en veintidós Circuitos."
-
-"SEGUNDO.-...
-
-II.-...
-
-1.-...
-
-2.-...
-
-3.-...
-
-4.-...
-
-5.-...
-
-6.-...
-
-7.- (DEROGADO)
-
-XVI.-...
-
-1.-...
-
-2.-...
-
-3.-...
-
-4.- (DEROGADO)
-
-XXII.- VIGESIMO SEGUNDO CIRCUITO:
-
-1.- Un tribunal colegiado y un tribunal unitario, con residencia en la ciudad de Querétaro, Querétaro;
-
-2.- Juzgado Primero y Segundo de Distrito en el estado de Querétaro, con residencia en la ciudad de Querétaro;
-
-3.- Juzgados Primero y Segundo de Distrito en el estado de Hidalgo, con residencia en la ciudad de Pachuca."
+SEXTO.- (DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL ACUERDO NUMERO 1/1993 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 27 DE ENERO DE 1993)
 
 TRANSITORIOS:
 
@@ -122,3 +84,15 @@ CERTIFICA:
 Que este Acuerdo 3/1991, relativo a la creación de un nuevo Circuito, el Vigésimo Segundo, con un tribunal colegiado, un tribunal unitario, con residencia en la ciudad de Querétaro, Querétaro, y cuatro juzgados de Distrito, los dos en el estado de Querétaro y los dos en el estado de Hidalgo, fue emitido por el Tribunal Pleno en Sesión Privada de catorce de agosto de mil novecientos noventa y uno, por mayoría de diecisiete votos de los señores ministros: Presidente Ulises Schmill Ordóñez, Carlos de Silva Nava, Ignacio Magaña Cárdenas, Samuel Alba Leyva, Noé Castañón León, Felipe López Contreras, Luis Fernández Doblado, José Antonio Llanos Duarte, Santiago Rodríguez Roldán, Ignacio Moisés Cal y Mayor Gutiérrez, Clementina Gil de Lester, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Carlos García Vázquez, José Trinidad Lanz Cárdenas y Juan Díaz Romero. Votaron en contra los señores ministros Salvador Rocha Díaz y Mariano Azuela Guitrón. México, Distrito Federal, a catorce de agosto de mil novecientos noventa y uno.- El Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, José Javier Aguilar Domínguez.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta fotocopia constante de seis fojas útiles, concuerda fiel y exactamente con su original que obra en el cuaderno de las actas relativas a las sesiones del Pleno de este alto Tribunal, y se certifica a fin de dar cumplimiento a lo ordenado en el punto cuarto transitorio del acuerdo correspondiente. México, Distrito Federal, a quince de agosto de mil novecientos noventa y uno.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 27 DE ENERO DE 1993.
+
+PRIMERO.- Se derogan los puntos primero, segundo, tercero, cuarto y quinto del acuerdo 1/88 de quince de enero de mil novecientos ochenta y ocho; así como el punto quinto del acuerdo 2/1991 de nueve de abril de mil novecientos noventa y uno; el punto sexto del acuerdo 3/1991 de catorce de agosto de mil novecientos noventa y uno; el punto noveno del acuerdo 1/1992 de diez de marzo de mil novecientos noventa y dos; el punto segundo del acuerdo 2/1992 de dos de junio de mil novecientos noventa y dos; y los puntos sexto y séptimo del acuerdo 4/1992 de tres de noviembre de mil novecientos noventa y dos.
+
+SEGUNDO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+TERCERO.- La comisión de gobierno y administración y los ministros inspectores de los tribunales de circuito y juzgados de Distrito resolverán cualquier cuestión que pudiera suscitarse.
+
+CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, y hágase del conocimiento de todos los tribunales de circuito y juzgados de Distrito del país, para su cumplimiento.
