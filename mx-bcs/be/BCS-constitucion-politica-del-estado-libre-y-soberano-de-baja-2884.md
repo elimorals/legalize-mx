@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2004-06-20"
+last_updated: "2004-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -553,9 +553,9 @@ IV.- Expedir la ley que regule su organización, su estructura y su funcionamien
 
 V.- Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador del Estado electo, que hubiere emitido el Instituto Estatal Electoral;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 10 DE MAYO DE 2003)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-VI.- Nombrar al Presidente y a los Consejeros de la Comisión Estatal de Derechos Humanos, de conformidad con la ley de la materia.
+VI.- Legislar en materia de Coordinación Fiscal entre el Estado y los Municipios.
 
 > <small>(ADICIONADA, B.O. 14 DE FEBRERO DE 1997)</small>
 
@@ -629,15 +629,23 @@ XXIX.- Nombrar y remover libremente a los empleados de su Secretaría y a los de
 
 XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior que será presentada dentro de los primeros quince días de la apertura del primer período de sesiones;
 
-> <small>(REFORMADA, B.O. 10 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-XXXI.- Aprobar el presupuesto de egresos del Estado a más tardar el 31 de Diciembre del año anterior al de su entrada en vigor, así como fijar las contribuciones para cubrirlo.
+XXXI.- Aprobar, y en su caso modificar, el Presupuesto de Egresos del Estado y fijar las contribuciones para cubrirlo.
+
+Cuando por cualquier circunstancia no llegare a aprobarse la Ley de Ingresos del Estado, se aplicara la que se haya aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Asimismo, cuando también por cualquier circunstancia no se aprobare el presupuesto de Egresos del Estado, se aplicara el que se haya aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 XXXII.- Informarse de las facultades del Gobernador cuando éste tome medidas de emergencia en caso de desastre;
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 XXXIII.- Aprobar y decretar las Leyes de Hacienda y de Ingresos Municipales, tomando en consideración su independencia económica, revisar y fiscalizar sus cuentas públicas
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+Cuando por cualquier circunstancia no llegare a aprobarse la Ley de Ingresos de alguno o algunos de los Municipios del Estado, se aplicaran respectivamente las que se hayan aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Aprobar la contratación de empréstitos a los Ayuntamientos del Estado en los términos de la Ley de deuda Pública para el Estado de Baja California Sur y sus Municipios.
 
@@ -827,7 +835,15 @@ XII.- Coordinar los cuerpos de Seguridad Pública del Estado y dar ordenes a la 
 
 XIII.- Ejercer las facultades que le otorga la Constitución Federal en relación a la Guardia Nacional;
 
-XIV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2001)
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+XIV.- Publicar el Decreto de creación del Comité de Contribuyentes que prevé el Código Fiscal del Estado de Baja California Sur, y en términos del mismo.
+
+El Titular del Poder Ejecutivo podrá celebrar con los Municipios que así lo decidan, convenios en materia de coordinación fiscal.
+
+Asimismo, el Gobernador del Estado publicará el Decreto de creación de un organismo, que de común acuerdo con los Municipios, tenga la finalidad de revisar permanentemente los aspectos que atañen a la recaudación y distribución de las diversas contribuciones que en vía de ingresos conforman las Haciendas Públicas Municipales, y con la finalidad de crear un grupo de asesoría, capacitación y planeación hacendaria, en el ámbito de coordinación fiscal que determine la Ley de la materia.
+
+Para los efectos señalados el Gobernador del Estado, como integrante del organismo a que se refiere el párrafo anterior, ordenará al Secretario de Finanzas del Estado y al personal que el mismo determine para que se reúnan trimestralmente con las autoridades fiscales Municipales.
 
 XV.- Representar al Estado en las comisiones federales y en las comisiones interestatales regionales;
 
@@ -1031,25 +1047,23 @@ Este organismo que establezca el Congreso de la Unión conocerá de las inconfor
 
 89.- El desempeño de la función jurisdiccional, corresponde a:
 
-I.- El Tribunal Superior de Justicia.
+I.- El Tribunal Superior de Justicia;
 
-II.- El Tribunal Estatal Electoral.
+II.- Tribunal Estatal Electoral;
 
-III.- Los Jueces de Primera Instancia
+III.- Los Jueces de Primera Instancia;
 
-IV.- Los Jueces Menores.
+IV.- Los Jueces Menores;
 
-V.- Los Jueces de Paz.
+V.- Los Jueces de Paz;
 
-VI.- Los árbitros.
+VI.- Los árbitros;
 
-> <small>(DEROGADA, B.O. 6 DE FEBRERO DE 2002)</small>
+VII.- (DEROGADA, B.O. 6 DE FEBRERO DE 2002)
 
-VII.- Se deroga; y
+VIII.- Los demás funcionarios y auxiliares de la administración de Justicia.
 
-VIII.- Los demás funcionarios y auxiliares de la administración de justicia.
-
-La Ley establecerá las bases para la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, así como para el desarrollo de la Carrera Judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+La Ley establecerá las bases para la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
 > <small>(REFORMADO, B.O. 6 DE ABRIL DE 1999)</small>
 
@@ -1295,7 +1309,7 @@ a).- Municipio de La Paz: al Norte, colinda con el Municipio de Comondú, línea
 
 > <small>(REFORMADO, B.O. 20 DE AGOSTO DE 1992)</small>
 
-b).- MUNICIPIO DE COMONDU: al norte, colinda con el municipio de Mulegé en una línea que inicia en el cruce de la carretera transpeninsular y el Arroyo Cadeje con rumbo oeste hasta llegar al litoral del pacífico con el lugar conocido como la Bocana del Rancho Nuevo; al sur, colinda con el Municipio de La Paz, en una línea que inicia en el sitio conocido como Los Dolores del Municipio de La Paz, con un rumbo suroeste y cruzando la península hasta un lugar conocido como el Cayuco, rada que se ubica en la Costa de Bahía Almejas, en el litoral del pacífico; al este, con la colindancia oeste del Municipio de Loreto y el Golfo de California, y al oeste, colinda con el océano pacífico.
+b).- MUNICIPIO DE COMONDU: al norte, colinda con el municipio de Mulegé en una línea que inicia en el cruce de la carretera transpeninsular y el Arroyo Cadeje con rumbo oeste hasta llegar al litoral del pacífico con el lugar conocido como la Bocana del Rancho Nuevo; al sur, colinda con el Municipio de La Paz, en una línea que inicia en el sitio conocido como Los Dolores del Municipio de La Paz, con un rumbo suroeste y cruzando la península hasta un lugar conocido como el Cayuco, rada que se ubica en la Costa de Bahía Almejas, en el Litoral del Pacífico; al este, con la colindancia oeste del Municipio de Loreto y el Golfo de California, y al oeste, colinda con el océano pacífico.
 
 > <small>(REFORMADO, B.O. 20 DE AGOSTO DE 1992)</small>
 
@@ -1505,9 +1519,9 @@ Si no se presentan transcurrido este plazo, los suplentes entrarán en ejercicio
 
 ### CAPITULO VIII. DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-148.- Son facultades y obligaciones de los Ayuntamientos:
+148.- Son facultades y obligaciones del Ayuntamiento:
 
 I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estatales y municipales;
 
@@ -1609,9 +1623,17 @@ XXIV.- Celebrar convenios para la administración y custodia de las zonas federa
 
 XXV.- Aprobar con el voto de las dos terceras partes de sus integrantes la afectación del patrimonio inmobiliario municipal; así como la celebración de actos o convenios que comprometan al Ayuntamiento por un plazo mayor al periodo de su administración; y
 
-> <small>(REFORMADA B.O. 10 DE MAYO DE 2003)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2004)</small>
 
-XXVI.- Proponer al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos y contribuciones de mejoras y las tablas de valores unitarios de suelo y contribuciones, las cuales serán equiparables a los valores de mercado, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+XXVI.- Podrá participar en la elaboración de la iniciativa de Ley de Coordinación Fiscal para el Estado y Municipios, que el Gobernador proponga al Congreso del Estado.
+
+Igualmente, podrá celebrar convenios con el Gobierno del Estado, en materia de coordinación fiscal.
+
+Asimismo, podrá concurrir a la creación del Comité de Contribuyentes a que se refiere el Código Fiscal del Estado de Baja California Sur, en términos del propio ordenamiento, y formar parte de dicho Comité nombrando para tal efecto un representante.
+
+De igual manera, los Ayuntamientos podrán concurrir con el Gobernador del Estado a la creación de un organismo que tenga la finalidad de revisar permanentemente los aspectos que atañen a la recaudación y distribución de las diversas contribuciones que en vía de ingresos conforman las Haciendas Públicas Municipales, y con la finalidad de crear un grupo de asesoría, capacitación y planeación hacendaria, en el ámbito de coordinación fiscal que determine la Ley de la materia.
+
+Para los efectos señalados, las autoridades fiscales Municipales, como integrantes del organismo a que se refiere el párrafo anterior, se reunirán trimestralmente con las autoridades fiscales del Gobierno del Estado.
 
 ### CAPITULO IX
 
@@ -2412,3 +2434,9 @@ B.O. 27 DE OCTUBRE DE 2003.
 B.O. 20 DE JUNIO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2004.
+
+###### ARTICULO UNICO
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
