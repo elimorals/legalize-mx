@@ -4,7 +4,7 @@ identifier: "LAC"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-12"
-last_updated: "1995-12-22"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2551&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAC"
 
 LEY DE AVIACION CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
 
@@ -56,7 +56,7 @@ II. Aeródromo civil: área definida de tierra o de agua adecuada para el despeg
 
 III. Aeropuerto: aeródromo civil de servicio público, que cuenta con las instalaciones y servicios adecuados para la recepción y despacho de aeronaves;
 
-IV. Aerovía: ruta aérea dotada de radioayudas a la navegación;
+IV. Aerovía: ruta aérea dotada de radioayudas a la navegación.
 
 V. Certificado de aeronavegabilidad: documento oficial que acredita que la aeronave está en condiciones técnicas satisfactorias para realizar operaciones de vuelo;
 
@@ -64,11 +64,11 @@ VI. Certificado de matrícula: documento que identifica y determina la nacionali
 
 VII. Helipuerto: aeródromo civil para el uso exclusivo de helicópteros;
 
-VIII. Ruta: espacio aéreo establecido por la Secretaría para canalizar el tráfico aéreo;
+VIII. Ruta: espacio aéreo establecido por la Secretaría para canalizar el tráfico aéreo.
 
 IX. Secretaría: la Secretaría de Comunicaciones y Transportes;
 
-X. Servicio al público de transporte aéreo: el que se ofrece de manera general y que, en términos de la presente Ley, incluye el servicio público sujeto a concesión, así como otros servicios sujetos a permiso;
+X. Servicio al público de transporte aéreo: el que se ofrece de manera general y que, en términos de la presente Ley, incluye el servicio público sujeto a concesión, así como otros servicios sujetos a permiso.
 
 XI. Servicio de transporte aéreo regular: el que está sujeto a itinerarios, frecuencias de vuelos y horarios;
 
@@ -144,9 +144,15 @@ XI. Interpretar la presente Ley y sus reglamentos para efectos administrativos, 
 
 XII. Las demás que señalen esta Ley y demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 1998)</small>
+
 ###### Artículo 7.
 
-La Secretaría ejercerá la autoridad aeronáutica en los aeropuertos, helipuertos y aeródromos en general, a través del comandante de aeropuerto quien tendrá las atribuciones que a continuación se mencionan, las cuales ejercerá en las demarcaciones geográficas que expresamente le sean determinadas por la propia Secretaría:
+La Secretaría ejercerá la autoridad aeronáutica en los aeropuertos, helipuertos y aeródromos en general, a través del comandante de aeropuerto quien deberá ser mexicano por nacimiento que no adquiera otra nacionalidad.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
+El comandante de aeropuerto tendrá las atribuciones que a continuación se mencionan, las cuales ejercerá en las demarcaciones geográficas que expresamente le sean determinadas por la propia Secretaría:
 
 I. Autorizar o suspender la operación de las aeronaves, conforme a lo dispuesto por esta Ley;
 
@@ -426,6 +432,8 @@ Los clubes aéreos y de aeromodelismo quedarán sujetos a los reglamentos deriva
 
 #### Sección Primera. Disposiciones comunes
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
 ###### Artículo 31.
 
 La operación de las aeronaves de Estado no requerirá permiso; se ajustará a la obtención de los certificados de matrícula y de aeronavegabilidad correspondientes, y deberá contar con póliza de seguro.
@@ -480,9 +488,11 @@ Por razones de seguridad nacional o de orden público, la Secretaría ejercerá 
 
 #### Sección Segunda. Del comandante de la aeronave
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 1998)</small>
+
 ###### Artículo 38.
 
-El personal técnico aeronáutico está constituido por el personal de vuelo que interviene directamente en la operación de la aeronave y por el personal de tierra, cuyas funciones se especifiquen en el reglamento correspondiente. Dicho personal deberá contar con las licencias respectivas, previa comprobación de los requisitos de capacidad, aptitud física, exámenes, experiencia y pericia, entre otros.
+El personal técnico aeronáutico está constituido por el personal de vuelo que interviene directamente en la operación de la aeronave y por el personal de tierra, cuyas funciones se especifiquen en el reglamento correspondiente. Dicho personal deberá, además de ser mexicano por nacimiento que no adquiera otra nacionalidad, contar con las licencias respectivas, previa comprobación de los requisitos de capacidad, aptitud física, exámenes, experiencia y pericia, entre otros.
 
 ###### Artículo 39.
 
@@ -496,7 +506,7 @@ La Secretaría, sin perjuicio de las atribuciones que correspondan a la Secretar
 
 ###### Artículo 40.
 
-Toda aeronave deberá contar con un comandante o piloto al mando, quien será la máxima autoridad a bordo y el responsable de su operación y dirección y de mantener el orden y la seguridad de la aeronave, de los tripulantes, pasajeros, equipaje, carga y correo. El comandante de las aeronaves de servicio al público deberá ser mexicano por nacimiento.
+Toda aeronave deberá contar con un comandante o piloto al mando, quien será la máxima autoridad a bordo y el responsable de su operación y dirección y de mantener el orden y la seguridad de la aeronave, de los tripulantes, pasajeros, equipaje, carga y correo. El comandante de las aeronaves de servicio al público deberá ser mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos.
 
 El comandante de la aeronave será designado por el concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, por el propietario o poseedor de la aeronave; para suplir la ausencia o incapacidad del comandante de la aeronave durante el vuelo, se seguirá el orden jerárquico de designación de la tripulación hecha por aquéllos.
 
@@ -1031,3 +1041,7 @@ Por lo que se refiere a las concesiones y permisos en trámite, se estará a lo 
 SEXTO. Las infracciones cometidas con anterioridad a la entrada en vigor de la presente Ley, se sancionarán de conformidad con las disposiciones vigentes al momento en que se cometieron.
 
 SEPTIMO. A más tardar en 180 días, contados a partir de la entrada en vigor de este ordenamiento, el Ejecutivo Federal constituirá la comisión intersecretarial a que se refiere el artículo 21 de esta Ley.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
