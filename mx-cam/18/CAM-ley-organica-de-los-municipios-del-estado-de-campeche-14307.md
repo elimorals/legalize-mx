@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "1997-04-29"
+last_updated: "1998-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -283,13 +283,15 @@ I.- La Ciudad del Carmen, Cabecera del Municipio;
 
 II.- La Sección Municipal de Atasta;
 
-III.- La Sección Municipal de Candelaria;
+III.- (DEROGADA, P.O. 24 DE JUNIO DE 1998)
 
 IV.- La Sección Municipal de Sabancuy;
 
 V.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la Cabecera y Secciones Municipales en la forma siguiente:
 
-A la Ciudad del Carmen, Cabecera del Municipio corresponden:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 1998)</small>
+
+1. A la Ciudad de Carmen, cabecera del Municipio, corresponden:
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
@@ -309,37 +311,17 @@ El Zapote, Arriba y Adelante, La Esperanza.
 
 c) Las haciendas de Arcila, Buenavista, Desengaño y Polvoxal y Anexas.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1994)</small>
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 1998)</small>
 
-d) Los ranchos de Rancho Nuevo, San José del Carmen, Ñaco, Julián Alvarez, Alvaro Peralta, La Estrella, El Arroyo, San Bonifacio, La Montaña, El Toro, Santa Anita, La Libertad, Gustavo Fernández, Santa María, San Fernando, Loma de Román, El Recuerdo, Lote No. 3 y San Pedro.
+c) Bis.- Las congregaciones de El Aguacatal, Alazán, Belisario Domínguez, Brasil, Buenos Aires, El Caribe, La Concepción, Conquista Campesina, El Chinal, El Destino, El Diamante, El Encanto, El Encanto (sic), Felipe Angeles, El Francés, Francisco Villa (Mamantel), Ignacio Zaragoza, Invierno, El Jardín y el Plan del Toro, El Jazmín, El Jurel, Lic. Gustavo Díaz Ordaz (18 de marzo), La Malinche, Mamantel Pueblo (Mamantel Viejo), Mil Flores, Monterrey, Las Nubes, Nueva Aventura (El Aventurero), Nueva Chontalpa, Nueva Esperanza II, La Nueva Esperanza, Ojo de Agua, La Pasión, Pital Nuevo, Pital Viejo, La Presumida y Anexas, La Providencia, Pucteal, Quebrache, El Sacrificio, San Antonio, San Carlos, San Fernando, San Isidro, San Manuel, San Pablito (Km 59), Santa Bárbara, Santa Lucía, El Teniente, Los Tres Campos, El Triunfo, Venustiano Carranza, y El Vergel;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1998)</small>
 
-Zona del río San Pedro:
+d) Los ranchos de Xicalango, Rancho Nuevo, San Antonio Xicalango, Santa Elena, El Pon, San José del Carmen, Ñaco, Julián Alvarez, Alvaro Peralta, La Estrella, El Arroyo, San Bonifacio, El Porvenir, La Montaña, Santa Anita, Santa Elena, Gustavo Fernández, Santa Serafina, Santa María, La Veleta, San Fernando, Loma de Román, El Recuerdo, Lote número 3, Zona del río San Pedro: La Cruz, El Tábano, Las Porfías, San Miguelito, Buenos Aires, El Porvenir, Vista del Carmen, Buena Vista II, Pastal, Baraja, Juncal, Quemado, Aguacatal, El Limonal, Zona de la Laguna de Términos: San Luis, San Luto, Chacajito, Ese Mayo, Palchacá, Zona del Río Chepe o del Este: Laguna San Francisco Laguna de los Vientos y Laguna de las Cruces, Esperanza, Rinconcito, Punta de la Cochina, Tío Blanco, La Veleta, Santa Gertrudis, Lerma, M. Ayala, El Jaral, Los Leones, Los Gómez, Mameyal, Achotal, San Miguel, Tumbo de Montero, Juncal, La Jagua. Zona del Río Vapor para tomar Río Marentes: Canales, El Vapor, Botijuela, Isaac Sosa, Santa Dolores, Por Poquito, El Ensueño, Guanacastre, El Conuco, Gustavo Aguilar, San José Marentes, Gustavo Ferrer. Zona del Río de las Piñas: Naranjal, Cibalitos, Santa Valentina, El Eslabón, La Lucha, El Tintal II, Popistal, La Paila, San José Victoria, Zapote Mamey, El Salvaje, El Gerente, La Naranja, El Retiro, Rancho Caribe, San Angel, Villa Rosa, Vista Alegre, Campamento Villa Rosa Primera Sección, La Mica, Axnexo (sic) Ramonal, El Cubano, San Leonardo, Villa Rosa, Las Mariposas, Juncal, Brasilia, Pajaral, Soledad, Los Angeles, Anexo Junes, La Copa, Anexo Soledad, San Hipólito, El Líbano, Jicotea, 2 de Marzo, 3 Hermanos, Abel, El Aguacero, El Aguilar, La Alegría, Anexo del Milagro, Anexo José Antonio, Anexo Los Laureles, Anexo Monterrey, Los Angeles, La Angostura, Las Arboleras, La Asunción, La Barca de Oro, Belén, El Bonastre, Boquerón, Buenavista, El Cachito, Canutillo, El Capricho, Los Capulines, Carlos V, El Carmen, El Carmen (sic), Las Carolinas, El Castaño, El Cedral, Las Ceibas, Centro de Acopio Lechero, El Cepillo, Cinco de Mayo, Cinco de Mayo (sic), Los Cocos, La Concepción, Los Coquitos, Corozal, El Crucero, El Crucero (sic), Cuatro Copas, El Cubillete, El Cuyo Guadalupana, El Chamizal, El Chapulín, La Chiquis, El Chorrito, Las Delicias, Las Delicias (sic), El Desprecio, El Diamante, Diana Minerva, El Dólar, Don Felix, El Dorado, Las Doritas, Dos Hermanos, Dos Hermanos, Dos Hermanos (sic), El Edén, La Elvira II, Encarnación, Entre Hermanos, Entre Ratas, La Esmeralda, La Esperanza de Dios I, La Esperanza de Dios III, La Esperanza de Dios IV, La Esperanza, La Esperanza, La Esperanza, La Esperanza (sic), La Espuela de Oro, La Estrella, El Faisán, El Farolito, Floralma, La Floreña, La Floreña (sic), Las Flores, La Florida, La Fortuna, La Fortuna, La Fortuna (sic), Framboyán, El Gallo Giro, Gerardo I, Las Golondrinas, La Granada, Guadalupe, La Guadalupe, La Guadalupe, La Guadalupe (sic), Heras, La Hermelinda, La Herradura, La Herradura, La Herradura (sic), La Ilusión, La Ilusión (sic), Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado (sic), Jardín de Flores, El Jarocho, El Jimbal, El Jimbal (sic), José Antonio, Karina, Los Laureles, Los Laureles (sic), El Líbano, La Libertad, La Libertad (sic), La Lolis, Lomalida, Lomas de los Angeles, La Lupita, El Marfil, María Isabel y San Francisco, Mayalan, Mesopotamia, Miguel Guzmán Guzmán, Milcar, La mireya, Los Mosqueteros, El Nanzal, Las Nubes, La Nueva Ilusión, Nuevo Mundo, Nuevo Valle, El Oasis, Ojo de Agua de Coyoc, Olguita y la Ambición, Las Pailas, Palma Sola (Santa Rosalía), Las Palmiras, La Palmita, Las Palmitas, Paraíso, El Paraíso, El Paraíso, El Paraíso (sic), Los Pavos, El Pedregal, El Pensador Tabasqueño, La Pequeña, Los Pinos, El Pital, El Pokar, El Polvorón, La Ponderosa, El Porvenir, La Primavera, La Primavera (sic), La Princesa, El principio, El Progreso, Puerta Blanca, La Puntilla, Quebrache, El Ramonal, El Ranchito, Rancho Nuevo, El Recuerdo, El Refugio, El Retorno, La Revancha, Rey Tercero, El Rey, La Reyna, El Rosario, El Rosario (sic), Las Ruedas, El Sabino, El Sacrificio, El Sacrificio, El Sacrificio, El Sacrificio (sic), Samaría, San Alfredo, San Andrés, San Angel, San Antonio, San Antonio, San Antonio (sic), San Carlos H (Hermanos García), San Carlos II, San Elías, San Fernando, San Fernando (sic), San Francisco, San Francisco, San Francisco (sic), San Francisco del Ferrol, San Jerónimo, San Inocente, San Jorge de Coyoc, San José, San José, San José, San José (sic), San José I, San José II, San Juan, San Juan, San Juan, San Juan (sic), San Juanito, San Juanito (sic), San Lázaro, San Luis, San Luis, San Luis (sic), San Manuel, San Manuel, San Manuel, San Manuel, San Manuel (sic), San Marcos, San Marcos (sic), San Martín, San Martín de Porres, San Marín de Porres (sic), San Miguel, San Miguel, San Miguel, San Miguel, San Miguel (sic), San Norberto, San Pedro, San Rafael, San Ramón, San Salvador, San Sergio, Santa Bárbara, Santa Beatriz, Santa Catalina, Santa Cecilia, Santa Cruz, Santa Cruz (sic), Santa Elena, Santa Elena (sic), Santa Fé, Santa Fé (sic), Santa Isabel, Santa Isabel (sic), Santa Julia, Santa María, Santa María (sic), Santa Mónica, Santa Patricia, Santa Rosa, Santa Rosa (sic), Santa Rosalía, Santo Tomás, La Soledad, La Soledad (sic), El Soltero, El Suspiro, El Suspiro (sic), Los Tigres, Las Tranquitas, Tres Brazos, Tres Brazos (sic), Tres de Mayo, Tres Hermanos, Tres Patines (San José), El Triángulo, La Trinidad, La Trinidad (sic), La Unión, El Uveral, Valle de Campeche, El venado, La Victoria, La Victoria (sic), El Xabin, El Yurid, El Yurid II.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 1998)</small>
 
-La Cruz, El Tábano, Las Porfías, San Román, San Miguelito, Buenos Aires, El Porvenir, Vista del Carmen, Buena Vista II, Paraíso, Pastal, Baraja, Juncal y Quemado.
-
-Zona de la Laguna de Términos:
-
-San Luis, San Luto, Chacajito, Ese Mayo, Palchacá.
-
-Zona del Río Chepe o del Este; Laguna San Francisco, Laguna de los Vientos y Laguna de las Cruces:
-
-Esperanza, San Francisco, Rinconcito, Punta de la Cochina, Tío Blanco, la Veleta, Santa Gertrudis, Lerma, Santa Cruz, La Ilusión, San Román, M. Ayala, El Jaral, Los Leones, Los Gómez, Mameyal, Achotal, San Miguel, San José, La Guadalupe, Tumbo de Montero, Juncal, La Jagua, San Joaquín.
-
-Zona del Río Vapor para tomar Río Marentes:
-
-Canales, El Vapor, Botijuela, Isaac Sosa, Santa Dolores, El Refugio, El Carmen, Por Poquito, El Ensueño, Guanacastre, El Conuco, Gustavo Aguilar, San José Marentes, Gustavo Ferrer.
-
-Zona del Río de las Piñas:
-
-Naranjal, El Diamante, Cibalitos, La Lucha, Herradura, Santa Valentina, San Francisco, El Copo, El Eslabón, La Lucha, El Tintal II, Popistal, La Paila, San José Victoria, Zapote Mamey, El Salvaje, El Gerente, La Naranja, Nueva Esperanza, San Antonio, El Retiro, Rancho Caribe, San Ángel, Villa Rosa, Vista Alegre, Campamento Villa Rosa Primera Sección, La Mica, Anexo Ramonal, El Cubano, San Leonardo, Villa Rosa, Las Mariposas, Juncal, Brasilia, Pajaral, Soledad, Los Ángeles, Anexo Junes, La Gloria, La Copa, Anexo Soledad, San Hipólito, El Líbano, Jicotea.
-
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 1994)</small>
-
-A la Sección Municipal de Atasta, corresponden:
+2.- A la Sección Municipal de Atasta, corresponden:
 
 a) El pueblo de Atasta, Cabecera de Sección.
 
@@ -347,17 +329,11 @@ b) Los ejidos de Puerto Rico, Atasta, San Antonio Cárdenas, Nuevo Progreso, Col
 
 c) Los ranchos de Nuevo Campechito, La Envidia, Rivera de San Francisco, Paraíso, San Fernando, La Veleta I, La Veleta II, El Carmen I, El Carmen II, San Antonio Pom, San Antonio Punta de Piedra, El Porvenir I, El Porvenir II, El Porvenir III, El Porvenir IV, La Herradura, Las Carmelitas, San Miguel I, San Miguel II, Rancho Alegre, Santa Elena, El Pom, Abelardo Carrillo Zavala, Santa Rita, Las Piedras, Nuevo Xicalango, Las Palomas I, Las Palomas II, Santa Isabel, Pinzón, Zacatal I, Zacatal II, Playaso, Santa Serafina.
 
-A la Sección Municipal de Candelaria, corresponden:
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 24 DE JUNIO DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 1998)</small>
 
-a) La Ciudad de Candelaria, Cabecera de la Sección.
-
-b) Los Ejidos de El Naranjo, El Zapote, El Luinal, Pedregal, Pablo Torres Burgos, Nueva Rosita, El Chilar, El Tigre, Las Delicias, Peje Lagarto, Miguel Alemán, Benito Juárez, Guadalupe Victoria, Vicente Guerrero, Tenancingo, Justo Sierra Méndez, Nuevo Coahuila, Lázaro Cárdenas, Las Golondrinas, Miguel Hidalgo, Pedro Baranda, El Mamey, Estado de México, Monclova, Pablo García, Paraíso Nuevo, Corte Pajaral, Venustiano Carranza, Candelaria, Las Delicias, Santa Lucía, Campo Las Ollas, La Esmeralda, Cuauhtémoc, Machetazo, Héctor P. Morales, La Zanja, Primer Presidente de México, Vicente Guerrero, El Cuervo.
-
-c) Los Ranchos: Los Lagartos, Paraíso Núm. 1, La Mestiza, La Comienta del Sabalito, La Carmelita, El Cerrito, Las Palmas, San Enrique, El Roble, La Mascada, El Diamante, San José, Las Cruces, San Romanito, San Domingo, El Galeón, El Astillero, El Pozo, La Esperanza, Punta Montaña, El Porvenir, La Espuela, La Corriente, El Pocito, Las Palmitas, El Corralito, La Nueva Esperanza, El Recreo, San Javier, Santa Anita, San Juanito, El Cascabel, Santa María, Pedregal, San Salvador, San Juanito, El Recuerdo, Los Flamboyanes, Las Delicias, Nos Veremos, San Luis, El Eco, San Fernando, 3 Clavos, El Senderito, La 3a. Carcomá, Rancho Nuevo, Las Sanacuas, La Candelaria, La 1a. Carcomá, La 2a. Carcomá, Los Laureles, El Nopalito, La Guadalupana, Pedregal, San Manuel de las Planadas, El Farolito, Las Delicias, El Solitario, La Unión, Las Mercedes, 3 Clavos, Rancho Nuevo, Santo Domingo, La Chiapaneca, San Javier, San Miguel, San Antonio, El Arpón, San Miguel, La Tucha, Monterrey, Pedregal, 2 Hermanos, California, Las Nubes, Las Delicias, San Mariano, El Candado, La Esperanza, La Esperanza (sic), Piedra Negra, El Porvenir, La Frontera, San Joaquín, Buena Vista, El Pardo, La Tablita, La Esperanza, La Lucha, 2 Arbolitos, El Ancla, El Carmen, San Hipólito, San Carlos, Santa Rosa, El Suspiro, San Martín, San Antonio, El Avanzadero, Las Gaviotas, La Nueva Linda, La Guadalupe, El Trampolín, La Esperanza, El Campesino, El Naranjo, El Cinco, 3 Hermanos, San Iván, La Franelita, Peor es Nada, La Esperanza, La Primavera, Las Cruces, San Juanito, El Triunfo, San Antonio, Las Palmas, El Cantor, La Esperanza, 3 de Mayo, La Escondida, San Fernando, La Primavera, El Rodes, San Román, Paso Real, El Retiro, Salto Grande, Ojo de Agua, El Zivalito, La Carmelita, Achotal, San Remo, Oaxtepacan, La Amapola, La Gloria, El Paragua, El Tambor, La Esperanza, Sto. Domingo, La Palma, Sta. Elena, San Lorenzo, Los Cedros, Punta de Montaña, Vuelta de Pital, San Bartolo, El Imposible, San Francisco, El Sábado, El Vergel, Agua Azul, Santa Catalina, San Marcos, Jotuto, Jalisco, San Antonio, El Tintal, Santa Rosa, Santa Margarita, El Carmen, La Herradura, El Porvenir, El Monarca, La Trinidad, El Recuerdo, San Antonio, La Nueva Historia, La Esperanza, El Limón, El Toro, El Calasal, Las Campanas, La Vuelta del Tigre, El Surdidero, Las Mariposas, La Preciosa, Canutillo, Santa Clara, Porvenir, Cerro Pelón, Sacrificio, Bebedero, San Rafael, Porvenir, El Palmar, El Carmen, Las Pasas, Santa Amelia, El Corazal, El Almendro, El Chilar, Caño Fístolo, Rancho Nuevo, San Juan, San José del Río, Rancho Alegre, La Florecita, Buenos Aires, El Campesino, San Miguel, El Porvenir, La Espuela, El Triángulo, Buena Vista, Jesús García, San Vicente, San José, La Plata, El Cuyo, Pakaytum, Rancho Nuevo, Los Reyes de Guadalupe, El Arroyón, Los Arroyotes, El Delirio, 4 Hermanos, Miguelito, La Granada, La Ilusión, Peje Lagarto, Pacaitum, Blanca Flor, Piedras Negras, Pozas de Ventura, El Chueco, Agua Prieta, El Mango de la Guadalupe, El Manguito, 3 Hermanos, La Granada, La Lucha, La Flecha, Santa Gertrudis, Alejandría, San Bernardo, San Felipe, El Zarzal, Nueva Vida, Las Gaviotas, La Cafetera, El Perico, La Unión, San Antonio, El Ramonal, Lagunas Largas, Cerro de las Aguilas.
-
-A la Sección Municipal de Sabancuy, corresponden:
+3.-A la Sección Municipal de Sabancuy, corresponden:
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
@@ -365,7 +341,9 @@ a) La Villa de Sabancuy, Cabecera de la Sección.
 
 b) Los Ejidos de Sabancuy, Oxcabal, Ignacio M. Altamirano, Chekubul, Chicbul, Plan de Ayala, Abelardo L. Rodríguez, La Cristalina, Nicolás Bravo, Pino Suárez, Independencia, Ignacio Gutiérrez, Rodríguez Cano.
 
-c) Los ranchos de San Felipe González, Molón, Sabancuy, El Sitio, Chan Rosado, Yabaxique, San Nicolás, Tichel, Pocito, Calax, Punta de Piedra, San José, San Pedro, Quita Calzones, Hermanos Maldonado, La Pita, Flamboyán, El Sequel, Tres Hermanos, Chamizal, Alfredo Góngora, Cuyoc, Polkay, El Gallo, Hoaxin, Yacaxal, El Pavito, José Gallo, Don Mauro, El Esfuerzo, Mecina, Hermanos May, Santa Isabel, Buenavista, Martirio, Herradura, Las Piedras, Ensenada Honda, Zacazonapan, California, Desiderio Campos, Conchecuenché, El Toro, Supultepec, San Enrique, Bolostoc, Cuyo de la Mula, Santa Lilia, Pirí, Cobal, San Gabriel, La Esperanza, Mina de Oro, Santa Isabel, Sal Sol, Augusto Gómez Villanueva, Tres Marías, Los Pasos, Geny, San Luis, Rancho Alegre, Chevojá, Infierno, Catalina, San Fernando, Santa Josefa, Santa Anita, Cien Fuegos, Camagüey.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1998)</small>
+
+c) Los Ranchos de San Felipe González, Molón, Sabancuy, El Sitio, Chan Rosado, Yabaxique, Tiche, Pocito, Calax, Punta de Piedra, San Pedro, Quita Calzones, Hermanos Maldonado, La Pita, Flamboyán, El Sequel, Tres Hermanos, Chamizal, Alfredo Góngora, Cuyoc, Polkay, El Gallo, Hoaxin, Yacaxal, El Pavito, José Gallo, Don Mauro, El Esfuerzo, Mecina, Hermanos May, Buenavista, Martirio, Las Piedras, Ensenada, Honda, Zacazonapan, California, Desiderio Campos, Conchecuenché, El Toro, Supultepec, San Enrique, Bolostoc, Cuyo de la Mula, Santa Lilia, Pirí, Cobal, San Gabriel, La Esperanza, Mina de Oro, Santa Isabel, Sal Sol, Augusto Gómez Villanueva, Tres Marías, Los Pasos, Geny, San Luis, Chevojá, Infierno, Catalina, San Fernando, Santa Josefa, Santa Anita, Cien Fuegos, y Camaguey, y los demás que se encuentren dentro de los lindes de este Municipio, aunque no estén mencionados en esta relación.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 1997)</small>
 
@@ -561,15 +539,23 @@ ARTICULO 20 BIS.- El Municipio de Escárcega, comprende:
 
 I.- La Ciudad de Escárcega, cabecera del Municipio;
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1998)</small>
 
-I BIS.- El pueblo de Francisco Villa;
+II.- Los ejidos: Escárcega y sus colonias la Chiquita y La Esperanza; Justicia Social, Lechugal; Miguel de la Madrid; Rodolfo Fierros; Matamoros; Kilómetro 74; Juan Escutia; Juan de la Barrera; José de la Cruz Blanco; División del Norte, Haro, Francisco I. Madero, Don Samuel, Luna, Kilómetro 36, Nuevo Progreso Nº 2, Chontalpa, El Huiro, Guadalajara, Benito Juárez Nº 2, Zaragoza, San José, El Gallo, La Flor, y El Porvenir.
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1998)</small>
 
-II.- Los Ejidos: Escárcega y sus colonias La Chiquita y La Esperanza; Justicia Social; Lechugal; Libertad; Miguel de la Madrid; Rodolfo Fierros; Belén y su anexo El Saúz; Matamoros; Kilómetro 74; Juan Escutia; Juan de la Barrera; José de la Cruz Blanco; Asunción; División del Norte; Haro; Francisco I. Madero; Don Samuel; Luna; Kilómetro 36; Nuevo Progreso No. 2; La Victoria; El Pital o Nuevo Pital; Chontalpa; Kilómetro 18 o 18 de Marzo; San Isidro; El Huiro; Guadalajara; Benito Juárez No. 2; El Quebrache; Ojo de Agua; Zaragoza; Conquista Campesina; Chinal; Belisario Domínguez; Aguacatal; San José; Venustiano Carranza No. 2; El Gallo; Felipe Angeles; El Sacrificio; y La Flor; y
+III.- Los ranchos: Las Ruinas, Providencia, Monte Bravo, San Joaquín, Oscar Flores, Chaucil 1, Chaucil 2, Chaucil 3, Chaucil 4, Chaucil 5, Caña Fístula 1, Caña Fístula 2, Búfalo, La Estancia, Coliman, Zeta, San Jorge, Martín, Piedras, Elisa, Félix Romero, Carlos Schnabel, Monteclaro, San Carlos, Gran Poder, San Ignacio, Carlos Heredia, Puente de Juárez, Puerto Escondido, Rosa Encerrada, Félix Faller, Hidalgo, Mercedes, El Círculo, Trapiche, Tamarindo, Las Palmas, Selva Negra, Jorge Cural, Jorge Medina, Elidé Hernández, Las Ardillas, Potro, Isis, La Unión, San Jorge 1, La Bomba, El Gallo, Guadalajara, Buenavista, Santa Ana, Otoño, Santa Lucía, Los Altos de Cuyoc, Bonanza, Miraflores, Santa Rita, Hermanos Gómez, Laramie, Jabín, La Flor, Esperanza 1, Esperanza 2, Hermanos Navarro, El Retiro, San Isidro Cuyoc, Triple R, Leonor; María de la Luz, El Charro, San Jorge, Pucté 1, Pucté 2, Pucté 3, Pucté 4, Pucté 5, Santa Juliana, Palma Larga, Vista Alegre, Piedral, Jimba, Taurino, Partenón, San Manuel, Campeador, Borrego, El Limón, El Caobo, Neftalín Inurreta, Aventurero, Las Cruces, Everardo Espinosa, Daniel Santiago, Libertad, Asunción, José Fuentes Ramos, Aída, Saúl Pérez Sosa, Anastacio Damián, Los Reyes, Santo Tomás, Juan Mora Guillermo, Norberto Moreno Cano, Eduardo Guillermo Méndez, Adelita, Porfía, El Rey II, Ceferino Moreno Escalante, Jorge Moreno Escalante, Nanzal, Vista Alegre, La Libertad, Pedro Moreno Gómez, Vértice, Jacinto, Magueyitos, Santa Gertrudis, La Flor, San Pablo, Progreso, Asunción, Fátima, San Isidro, Mameyal, La Gimba, Los Reyes, Los Lirios, El Rincón, Lote 1, Lote 2, Lote 3, Lote 4, Lote 5, Lote 6, Lote 7, Lote 12, Lote 13, Lote 14, Lote 15, Lote 16, Lote 17, Pucteal, Pokar 2, La Libertad, Benítez, La Unión, Laureles 2, Bárbara, San Carlos 2, Corozal 2, Las Camelias, Otoño, El Pensamiento, Marcos Verdejo, Lino Melenes, Gustavo Garduño, Catalina, La Guadalupe, San Miguel, Buenavista, Bodegas Rurales Conasupo, La Carmelita, Innominado, Innominado (sic), El Jaripeo (El Enamorado), Las Margaritas, Los Mexicanos, Nuevo Zináparo, Los Pocitos, Las Ruinas, San Alfredo, San Francisco, Sausalito, Tres Hermanos, Unidad Ganadera N° 3, y los demás que se encuentren dentro de los deslindes de este Municipio aunque no estén mencionados en esta relación; y
 
-III.- Los ranchos: Las Ruinas; Providencia; Monte Bravo; San Martín; San Joaquín; Oscar Flores; Chaucil 1; Chaucil 2; Chaucil 3; Chaucil 4; Chaucil 5; Caña Fístula 1; Caña Fístula 2; Búfalo; La Estancia; Coliman; Golondrinas; Zeta; San Jorge; Martín; Pedregal; Sacrificio; La Fortuna; Piedras; Elisa; Mil Flores; Félix Romero; Carlos Schnabel; Monte Claro; San Carlos; Gran Poder; San Ignacio; Carlos Heredia; Carmen; Puente de Juárez; Puerto Escondido; Rosa Encerrada; Félix Faller; Hidalgo; Mercedes; El Círculo; Trapiche; Tamarindo; Las Palmas; Encarnación; Selva Negra; San Manuel; Dos Hermanos; Jorge Cural; Jorge Medina; Elidé Hernández; Las Ardillas; Potro; Isis; La Unión; San Jorge 1; La Bomba; El Gallo; Guadalajara; Buenavista; Santa Ana; San Manuel; Otoño; Santa Lucía; Los Altos de Cuyoc; Bonanza; Ponderosa; La Herradura; Láramie; Entre Hermanos; Jabin; Jimbal; San Juan; San Jorge Coyoc; La Flor; San Andrés Mosquetero; Miraflores; Santa Rita; Hermanos Gómez; San Rafael; San Pedro; Esperanza 1: Esperanza 2; Hermanos Navarro; Carmita; El Retiro; San Isidro Cuyoc; Triple R; Leonor; María de la Luz; El Porvenir; El Charro; San Jorge; Pucté 1; Pucté 2; Pucté 3; Pucté 4; Pucté 5; Santa Juliana; Palma Larga; Vista Alegre; Piedral; Guadalupe; Jimba; Taurino; Partenón; San Manuel; Campeador; Borrego; El Limón; Santo Tomás; El Caobo; Neftalín Inurreta; La Esmeralda; El Jazmín; Aventurero; Las Cruces; Progreso; Everardo Espinosa; Daniel Santiago; Santa Fé; Palma Sola; Faisán; Libertad; Carmen; Asunción; San Antonio; Santa María; José Fuentes Ramos; Aída; Saúl Pérez Sosa; Anastacio Damián; Los Reyes; Santo Tomás; Soltero; Juan Mora Guillermo; Norberto Moreno Cano; Eduardo Guillermo Méndez; Adelita; Las Nubes; La Estrella; San Juan; Porfía; Trinidad; Santa Rosalía; El Rey II; Ceferino Moreno Escalante; Jorge Moreno Escalante; Herradura; Nanzal; Vista Alegre; La Libertad; Pedro Moreno Gómez; Esperanza; San Francisco; Laureles; Buenavista; Esperanza; Ilusión; Sacrificio; Trinidad; Vértice; Juanito; Jacinta; Magueyitos; Santa Gertrudis; San Isidro; La Flor; San Pablo; Santa María; San Miguel; San Manuel; Sacrificio; Progreso; Asunción; Fátima; Mameyal; La Gimba; Los Reyes; Los Lirios; El Rincón; El Rosario; Lote 1; Lote 2; Lote 3; Lote 4; Lote 5; Lote 6; Lote 7; Lote 12; Lote 13; Lote 14; Lote 15; Lote 16; Lote 17; Jimbal; Pucteal; Pokar 1; Pokar 2; La Libertad; Salvador; Benitez; Tres Campos; La Unión; Laureles 1; Laureles 2; Bárbara; San Carlos 2; Corozal 1; Corozal 2; San Carlos; Invierno; Las Camelias; Otoño; Loma Linda; Elvira; Tres Hermanos; El Pensamiento; Marcos Verdejo; Lino Melenes; Gustavo Garduño; Catalina; El Vergel; y los demás que se encuentren dentro de los lindes de este Municipio, aunque no estén mencionados en esta relación.
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 1998)</small>
+
+IV.- A la Sección Municipal de Centenario, corresponden:
+
+a) El Ejido de Centenario.
+
+b) Los pueblos de Silvituc y Chan Laguna.
+
+c) Los ejidos de Altamira de Zináparo (Nuevo Zináparo), Adolfo López Mateos, Las Maravillas, El Jobal, La Flor de Chiapas, Laguna Grande, José López Portillo, Benito Juárez N° 3 y Yazuchil.
 
 > <small>(ADICIONADO, P.O. 15 DE ENERO DE 1997)</small>
 
@@ -579,9 +565,7 @@ I.- La congregación de Xpujil, cabecera del Municipio;
 
 II.- La Sección Municipal de Constitución;
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 1997)</small>
-
-II BIS.- La Sección Municipal de Centenario;
+II BIS.- (DEROGADA, P.O. 24 DE JUNIO DE 1998)
 
 III.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la cabecera y sección municipal en la forma siguiente:
 
@@ -589,29 +573,21 @@ III.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circun
 
 a) El pueblo de Zoh-Laguna; y
 
-b) Las congregaciones de: Aguas Amargas, Aguas Turbias, Arroyo Negro, Alianza Productora, Arroyo de Cuba, Becán, Bel-Há, Bella Unión Ver. (Los Chinos), Blaisillo, Bonanza, Caña Brava, Carlos A. Madrazo, Carlos Sansores Pérez (La Paz), Centauro del Norte, Central Chiclera Villahermosa, Cerro de las Flores, Cristobal Colón, Dieciséis de Septiembre (L. Alvarado), Dos Lagunas, Dos Lagunas (sic), Dos Naciones, E. Echeverría Castellot (El Carrizal), El Carmen II, El Porvenir, El Manantial, El Mirador, El Refugio, El Silencio, El Tesoro, Felipe Angeles II, Guillermo Prieto, Gustavo Díaz Ordaz (San Antonio Soda), Hermenegildo Galeana, Heriberto Jara Corona, Ing. Eugenio Echeverría Castellot, Ing. Ricardo Payro Jene (Polo Norte), José Morelos y Pavón (Civalito), Josefa Ortiz de Domínguez (Icaiché), Justo Sierra Méndez, Lázaro Cárdenas Nº 2 (Ojo de Agua), La Guadalupe, La Amapola, La Lucha, La Lucha (sic), La Tombola, La Unión (Dos Arroyos), La Victoria, La Virgencita de la Candelaria, Ley de Fomento Agropecuario (La Misteriosa), Los Pollos, Los Alacranes, Los Angeles, Los Tambores de Emiliano Zapata, Manuel Castilla Brito, Manuel Crescencio Rejón, Narciso Mendoza, Niños Héroes, Nueva Vida, Nuevo Bécal (El 19), Nuevo Campanario, Nuevo Conhuás, Nuevo Paraíso, Nuevo Progreso, Nuevo San José, Nuevo Veracruz, Once de Mayo, Paraguas, Pioneros del Río Xnohá, Placeres, Placeres (sic), Plan de Ayala (5 de Mayo), Quiché de las Pailas, Ricardo Flores Magón (Laguna Cooxlí), San Antonio, San Dimas (Alianza II), San Miguel, San José (Kilómetro 120), Santo Domingo, Santa Rosa, Solidaridad, Tepeyac, Tomás Aznar B. (La Moza), Tres Reyes, Unidad y Trabajo, Unión 20 de Junio (Mancolona), Veinte de Noviembre, Veintiuno de Mayo (Lechugal), Veintidós de Abril, Yatuchil, Zoh-Laguna (Alvaro Obregón);
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1998)</small>
+
+b) Las congregaciones de: Aguas Amargas, Aguas Turbias, Arroyo Negro, Becán, Bel-Há, Bella Unión Ver. (Los Chinos), Blaisillo, Bonanza, Caña Brava, Carlos A. Madrazo, Centauro del Norte, Central Chiclera Villahermosa, Cerro de las Flores, Cristobal Colón, Dieciséis de Septiembre (L. Alvarado), Dos Lagunas, Dos Lagunas (sic), Dos Naciones, E. Echeverría Castellot (El Carrizal), El Carmen II, El Porvenir, El Manantial, El Refugio, El Tesoro, Felipe Angeles II, Guillermo Prieto, Gustavo Díaz Ordaz (San Antonio Soda), Hermenegildo Galeana, Heriberto Jara Corona, Ing. Eugenio Echeverría Castellot, Ing. Ricardo Payro Jene (Polo Norte), José Morelos y Pavón (Civalito), Josefa Ortiz de Domínguez (Icaiché), Justo Sierra Méndez, Lázaro Cárdenas Nº 2 (Ojo de Agua), La Amapola, La Lucha, La Lucha (sic), La Victoria, La Virgencita de la Candelaria, Ley de Fomento Agropecuario (La Misteriosa), Los Alacranes, Los Angeles, Los Tambores de Emiliano Zapata, Manuel Castilla Brito, Manuel Crescencio Rejón, Narciso Mendoza, Niños Héroes, Nueva Vida, Nuevo Bécal (El 19), Nuevo Campanario, Nuevo Conhuás, Nuevo Paraíso, Nuevo Progreso, Nuevo San José, Nuevo Veracruz, Once de Mayo, Pioneros del Río Xnohá, Placeres, Plan de Ayala (5 de Mayo), Quiché de las Pailas, Ricardo Flores Magón (Laguna Cooxlí), San Antonio, San José (Kilómetro 120), Santo Domingo, Santa Rosa, Tepeyac, Tomás Aznar B. (La Moza), Unidad y Trabajo, Unión 20 de Junio (Mancolona), Veinte de Noviembre, Veintiuno de Mayo (Lechugal), Veintidós de Abril, y Zoh-Laguna (Alvaro Obregón); y
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1998)</small>
 
 2.- A la Sección Municipal de Constitución corresponden:
 
 a) El pueblo de Constitución, cabecera de la Sección;
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1997)</small>
-
 b) Los pueblos de: Xbonil, Conhuás y Concepción; y
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1997)</small>
+c) Los ejidos de N.C.P.E. Benito Juárez, N.C.P.E. Valentín Gómez Farías, N.C.P.E. Felipe Angeles, Santa Lucía, Pablo García, Kilómetro 120, Emiliano Zapata, Eugenio Echeverría Castellot, Puebla de Morelia, El Chichonal y Plan de San Luis.
 
-c) Los ejidos de N.C.P.E. Benito Juárez, N.C.P.E. El Porvenir, N.C.P.E. Valentín Gómez Farías, N.C.P.E. Felipe Angeles, Santa Lucía, Pablo García, Km. 120, Emiliano Zapata, Eugenio Echeverría Castellot, Puebla de Morelia, El Chichonal y Plan de San Luis.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 1997)</small>
-
-3.- A la Sección Municipal de Centenario, corresponden:
-
-a) El ejido de Centenario, cuya zona de urbanización será Cabecera de la Sección;
-
-b) Los pueblos de: Silvituc y Chan Laguna; y
-
-c) Los ejidos de: N.C.P.E. Altamira de Zináparo, N.C.P.E. Adolfo López Mateos, Las Maravillas, El Jobal, La Flor de Chiapas, Laguna Grande, José López Portillo y Benito Juárez No. 3.
+3.- (DEROGADO, P.O. 24 DE JUNIO DE 1998)
 
 ###### ARTICULO 21.
 
@@ -2722,3 +2698,13 @@ Primero.- El presente decreto entrará en vigor el día 1 de octubre de 1997.
 Segundo.- Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche.
 
 Tercero.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 24 DE JUNIO DE 1998.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en los que se opongan al contenido del presente decreto.
+
+Tercero.- Quedan Alterados los límites municipales en la forma que se precisa en este decreto.
+
+Cuarto.- Entre tanto se precisan los límites de los distritos electorales y judiciales, se continuarán manteniendo, no obstante la alteración de los límites intermunicipales, los que hasta la fecha han venido sirviendo como tales.
