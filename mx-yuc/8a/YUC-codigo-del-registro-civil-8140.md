@@ -4,7 +4,7 @@ identifier: "YUC-codigo-del-registro-civil-8140"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-03-17"
-last_updated: "1986-03-17"
+last_updated: "1999-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 
 CODIGO DEL REGISTRO CIVIL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE DICIEMBRE DE 1999.
 
-Código publicado en el Suplemento al Diario Oficial el Lunes 17 de Marzo de 1986.
+Código publicado en el Diario Oficial el Lunes 17 de Marzo de 1986.
 
 GOBIERNO DEL ESTADO
 
@@ -285,9 +285,11 @@ En toda acta de reconocimiento se hará referencia a la de nacimiento y se deber
 
 ### CAPITULO VI. DE LAS ACTAS DE ADOPCION
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 41.
 
-Para la adopción a que se refieren los artículos 322 y 323 del Código Civil, se presentarán ante el Oficial del Registro Civil, el adoptante o el marido y mujer que pretendan adoptar conjuntamente, el que vaya a ser adoptado y la persona que de acuerdo con el artículo 329 del citado Código Civil, deba dar su consentimiento para la adopción y expresarán su propósito de realizar el acto.
+Ejecutoriada la resolución judicial que autorice la adopción, el Juez, dentro del término de ocho días, remitirá copia certificada de las diligencias al Oficial del Registro Civil que corresponda, a fin de que con la comparecencia del o los adoptantes se levante el acta correspondiente.
 
 > <small>(F. DE E., D.O. 13 DE DICIEMBRE DE 1999)</small>
 
@@ -295,13 +297,21 @@ Para la adopción a que se refieren los artículos 322 y 323 del Código Civil, 
 
 A efecto de constatar que se cumplen los requisitos que señala el Código Civil y que la adopción es benéfica para el adoptado, se deberá contar con la autorización de la Procuraduría de la Defensa del Menor y la Familia; sin este requisito no procederá la adopción. La infracción de esta disposición será causa de destitución del cargo.
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 43.
 
-Las actas de adopción contendrán: nombres, apellidos, edad, nacionalidad y domicilio de todos los comparecientes; la declaración de estar perfeccionada la adopción; la fecha de la autorización de la Procuraduría de la Defensa del Menor y la Familia; la huella digital del adoptado; los apellidos que se impongan al adoptado. En caso de un solo adoptante, se impondrá los apellidos o apellido de éste, cuando solo tenga uno.
+El acta de adopción contendrá: nombre, apellidos, edad, nacionalidad, estado civil y domicilio del adoptante y las generales del adoptado; el o los nombres y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción. En el acta se insertarán los datos esenciales de la resolución judicial y la fecha de la resolución; la huella digital del adoptado, los apellidos que se impongan al adoptado, en caso de un solo adoptante, los apellidos o apellido de éste cuando sólo tenga uno.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 44.
 
-Levantada un acta de adopción, el Oficial procederá a hacer la anotación marginal en el acta de nacimiento del adoptado, o a enviar copia del acta de adopción en la forma prevenida en el artículo 40 de este Código, para las actas de reconocimiento.
+Extendida el acta de adopción ya sea simple o plena, se anotará la de nacimiento del adoptado y se archivará la copia de las diligencias relativas, en el mismo número del acta de adopción. A partir del levantamiento del acta de adopción, no se publicará ni se expedirá alguna que revele el origen del adoptado ni su condición de tal, haciéndose las anotaciones en el acta de nacimiento, cuyo original quedará reservado para los efectos de los artículos 70 y 323 E del Código Civil.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 44 A.- El Juez o Tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
 
 ### CAPITULO VII. DE LAS ACTAS DE TUTELA
 
@@ -515,8 +525,6 @@ El registro de menores hasta de siete años de edad será autorizado por los Ofi
 
 El registro de menores de ocho a diecisiete años de edad será autorizado por el Director del Registro Civil.
 
-> <small>(F. DE E., D.O. 13 DE DICIEMBRE DE 1999)</small>
-
 ###### ARTICULO 78.
 
 Para la autorización de los registros señalados en los artículos 76 y 77 de este Código, los Oficiales y el Director del Registro Civil se cerciorarán, bajo su responsabilidad, de la identidad de los interesados, de la vecindad de los mismos en el territorio de la Oficialía en que se pretenda hacer el registro, así como de su no registro anterior.
@@ -592,8 +600,6 @@ La Dirección del Registro Civil adoptará en la organización del archivo a que
 El Director cuidará que oportunamente se formen catálogos e índices del Archivo, de acuerdo con el sistema que hubiese adoptado.
 
 ### CAPITULO XVI. DE LOS CERTIFICADOS DEL REGISTRO CIVIL
-
-> <small>(F. DE E., D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 93.
 
@@ -682,3 +688,11 @@ VICTOR M. CERVERA PACHECO
 EL SECRETARIO DE GOBIERNO
 
 ABOG. ORLANDO A. PAREDES LARA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+D.O. 13 DE DICIEMBRE DE 1999.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
