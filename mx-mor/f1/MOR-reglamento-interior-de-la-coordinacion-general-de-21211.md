@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-coordinacion-general-de-21211"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-28"
-last_updated: "2001-03-28"
+last_updated: "2002-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA COORDINACION GENERAL DE MODERNIZACION Y DESARROLLO CIENTIFICO-TECNOLOGICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COORDINACION GENERAL DE MODERNIZACION Y DESARROLLO CIENTIFICO - TECNOLOGICO, PUBLICADO EN EL P.O. DE 29 DE MAYO DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 28 de marzo de 2001.
 
@@ -486,3 +488,13 @@ SECRETARIO DE GOBIERNO
 EDUARDO BECERRA PÉREZ
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE MAYO DE 2002.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Coordinación General de Modernización y Desarrollo Científico - Tecnológico, publicado en el Periódico Oficial "Tierra y Libertad", número 4109, de fecha 28 de marzo del año dos mil uno.
+
+TERCERO. Se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
