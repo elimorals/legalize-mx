@@ -4,7 +4,7 @@ identifier: "COL-ley-general-de-hacienda-municipal-3994"
 country: "mx"
 rank: "ley_general"
 publication_date: "1994-04-16"
-last_updated: "2000-12-30"
+last_updated: "2001-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY GENERAL DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2001.
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", sábado 16 de abril de 1994.
 
@@ -901,7 +901,9 @@ III.- Las Adquisiciones que hagan los arrendatarios financieros al ejercer la op
 
 IV.- Las adquisiciones que hagan las personas de menores ingresos, de viviendas subsidiadas por los gobiernos federal, estatal o municipal.
 
-V.- En las adquisiciones de viviendas de interés social, promovidas o financiadas por organismos o fondos públicos federales, estatales o municipales, el impuesto se pagará aplicando al valor que sirva de base, la tasa del 0.005.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2001)</small>
+
+V.- La primera adquisición de viviendas de interés social, promovidas o financiadas por organismos o fondos públicos federales, estatales o municipales.
 
 Para los efectos de este artículos se consideran viviendas de interés social, las que al término de su edificación tengan un valor de hasta el equivalente a dieciocho días de salario mínimo general de la zona económica del Estado de Colima, elevado al año.
 
@@ -2026,3 +2028,7 @@ VILLA DE ALVAREZ40.00% 50.00% 60.00% 70.00% 80.00% 90.00% 100.00%
 ###### ARTICULO TERCERO.
 
 Durante el ejercicio fiscal 2001, la base del impuesto sobre transmisiones patrimoniales será el 50% del valor que resulte conforme al artículo 81 de la presente ley.
+
+P.O. 17 DE FEBRERO DE 2001
+
+UNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
