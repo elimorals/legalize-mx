@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-95-de-seguridad-publica-para-el-estado-de-14179"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-17"
-last_updated: "2001-01-29"
+last_updated: "2003-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 95 DE SEGURIDAD PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE VERACRUZ-LLAVE
+LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 17 de enero de 1998.
 
@@ -35,9 +35,11 @@ Al margen un sello con el escudo nacional que dice: "Estados Unidos Mexicanos.-E
 
 La Honorable Quincuagésima Séptima Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 68 fracción I de la Constitución Política Local; 44 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo, y en nombre del pueblo, expide la siguiente:
 
+> <small>(REFORMADA SU DENOMINACION POR ARTICULO CUARTO TRANSITORIO DEL DECRETO NUMERO 547 QUE REFORMA LA CONSTITUCION POLITICA LOCAL, G.O. 18 DE MARZO DE 2003)</small>
+
 LEY NÚMERO 95
 
-DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ-LLAVE
+DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -582,3 +584,21 @@ Quinto. Las dependencias del Poder Ejecutivo del Estado a que hace referencia es
 Sexto. En tanto se expiden las normas reglamentarias correspondientes, seguirán siendo aplicables, en lo que no se opongan a este Decreto, los reglamentos en vigor.
 
 Séptimo. Para efectos de lo previsto en el artículo 71, fracción XI, inciso h) de la Constitución Política del Estado de Veracruz-Llave y 35, fracción XXV, inciso h) de la Ley Orgánica del Municipio Libre, los Ayuntamientos podrán asumir la prestación del servicio público de tránsito de conformidad con lo dispuesto por el artículo Tercero Transitorio del Decreto por el que se declaró reformado y adicionado el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el veintitrés de diciembre de mil novecientos noventa y nueve.
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Varacruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
