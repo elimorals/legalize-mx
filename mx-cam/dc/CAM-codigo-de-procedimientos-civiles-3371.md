@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "1986-10-23"
+last_updated: "1993-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1993.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -575,11 +575,11 @@ El que al ser notificado, dijere que contestará por escrito, deberá hacerlo de
 
 Todos los litigantes en el primer escrito o en la primera diligencia judicial, deben designar casa ubicada en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias que se consideren necesarias. Igualmente deben designar la casa en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan, o señalar el lugar de su domicilio a donde deba dirigirse el exhorto o despacho correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 1986)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 1993) (F. DE E., P.O. 18 DE JUNIO DE 1993)
 
 ###### Art. 97.
 
-Si el litigante no cumple con lo dispuesto en la primera parte del artículo anterior, la primera notificación se le hará por el Periódico Oficial del Estado.
+Cuando un litigante no cumpla con lo dispuesto en la primera parte del Artículo anterior, las notificaciones se le harán fijando cédula en los estrados del Juzgado o Tribunal. La cédula se ajustará, en lo conducente, a lo dispuesto por el Artículo 102.
 
 Si se faltare a la segunda parte del mismo artículo, no se hará notificación alguna a la persona contra quien se promueva, ni se librará el despacho o exhorto que proceda, mientras no se subsane la omisión, a no ser que se trate de ausentes e ignorados, en cuyo caso se seguirán las disposiciones del Título Undécimo, Libro Primero, del Código Civil.
 
@@ -621,23 +621,23 @@ Cuando haya de notificarse o citarse a una persona residente fuera del lugar del
 
 Si se ignora el lugar en que reside la persona que deba ser notificada, la primera notificación se hará publicando la determinación respectiva, por tres veces, en el espacio de quince días, en el Periódico Oficial del Estado. Si la notificación fuere de emplazamiento para comparecer en juicio, el término para contestar la demanda será de quince a treinta días, fijándolo el juez.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
 
 ###### Art. 107.
 
-La segunda y ulteriores notificaciones se harán por el Periódico Oficial del Estado.
+La segunda y ulteriores notificaciones se harán personalmente por los actuarios a los interesados o a sus representantes legítimos, si ocurren al tribunal o al juzgado respectivo, en días y horas hábiles, dentro de los tres días siguientes de que se dicte la resolución que haya de notificarse.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
 
 ###### Art. 108.
 
-La Cédula que el notificador remita al Periódico Oficial para su publicación contendrá íntegro el texto del decreto o auto que se notifica y sólo los puntos resolutivos cuando se trate de sentencias interlocutorias o definitivas. Publicado el periódico se tendrá por hecha la notificación.
+Si las partes o sus representantes legítimos no ocurren al tribunal o juzgado a notificarse dentro del término a que se refiere el artículo anterior, la notificación se hará fijando cédula en estrados.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
 
 ###### Art. 109.
 
-El notificador dejará en el expediente una copia de la cédula enviada al Periódico Oficial y cuando aparezca publicada, en dicha copia hará constar el número del periódico, la foja o fojas correspondientes y la fecha de su publicación.
+El actuario dejará en el expediente una copia de la cédula fijada en estrados.
 
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
@@ -695,7 +695,7 @@ Las sentencias, los autos y demás resoluciones judiciales no se entienden conse
 
 Los términos judiciales son improrrogables, salvo los casos previstos por la Ley. Los términos judiciales se computarán a partir del siguiente día al en que surta sus efectos la notificación y se incluirá en ellos el día del vencimiento.
 
-Las notificaciones surten sus efectos al día siguiente de que se practiquen, tratándose del primer distrito judicial; en los demás distritos judiciales se agregará un día más al plazo anterior.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE JUNIO DE 1993)</small>
 
 ###### Art. 121.
 
@@ -747,13 +747,27 @@ III.- Seis días para alegar tachas y seis para probarlas;
 
 IV.- Tres días para la celebración de juntas o para la práctica de cualquiera otra diligencia.
 
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
 
-Art. 130 bis.- La caducidad de la instancia operará de pleno derecho, en primera instancia, cualquiera que sea el estado del juicio desde el emplazamiento hasta la citación de sentencia, y en segunda instancia, desde la admisión del recurso hasta la citación para resolución, si transcurridos 180 días naturales contados a partir de la notificación de la última determinación judicial no hubiere promoción de cualquiera de las partes o actuación judicial alguna. El Juez la declarará de oficio o a petición de parte interesada. La caducidad de la instancia es de orden público, irrenunciable y no puede ser materia de convenios entre las partes.
+###### Art. 130
 
-La caducidad de la primera instancia convierte en ineficaces las actuaciones del juicio y consecuentemente las cosas deben volver al estado que tenían antes de la presentación de la demanda, por lo que deberán levantarse los embargos y cancelarse las inscripciones hechas con motivo de las mismas en el Registro Público.
+bis.- La caducidad de la instancia operará de pleno derecho, y se declarará por el juez o tribunal de oficio o a petición de parte interesada. Es de orden público, irrenunciable, y no puede ser materia de convenio entre las partes.
 
-La caducidad de la segunda instancia deja firmes las resoluciones apeladas y así lo declarará el Tribunal de Alzada.
+La caducidad de la instancia solo procederá a virtud de la inactividad procesal por falta de promoción de las partes, ya sea en el expediente principal o en cualquier incidente. Caducado el expediente principal caducan los incidentes; la caducidad del incidente sólo produce la del principal cuando haya suspendido el procedimiento de éste.
+
+El plazo de la caducidad se interrumpe cuando por causa de fuerza mayor los tribunales no puedan actuar, y en los casos en que es necesario esperar la resolución de una cuestión principal, previa o conexa, por el mismo juez o por otra autoridad judicial.
+
+Los actos o promociones de mero trámite, que no impliquen ordenación o impulso al procedimiento, no se considerarán como actividad procesal de las partes ni impedirán que la caducidad se consume, particularmente aquellas por las cuales el interesado solamente se limite a manifestar su voluntad de no dejar caducar el proceso.
+
+En primera instancia, la caducidad operará cualquiera que sea el estado del proceso, desde el emplazamiento hasta la citación para oír sentencia, si la inactividad comprende un lapso continuo e ininterrumpido de noventa días hábiles naturales. La caducidad de la primera instancia convierte en ineficaces las actuaciones del proceso, con las excepciones que más adelante se consignan, y consecuentemente las cosas deben volver al estado que guardaban con anterioridad a la demanda, por lo que deberán levantarse los embargos y cancelarse las inscripciones hechas en los registros públicos respectivos con motivo del proceso, así como las medidas precautorias decretadas con motivo de aquellas.
+
+La extinción de la instancia deja sin efectos la interrupción de la prescripción operada por la demanda. La caducidad extingue el proceso pero no la acción; en consecuencia se puede iniciar un nuevo proceso en el cual las pruebas confesional y testimonial rendidas en el proceso caduco, podrán ser invocadas de nuevo si se ofreciesen oportunamente como pruebas instrumentales, aunque serán valoradas conforme a su propia naturaleza procesal. También se exceptúan de la susodicha ineficacia, las resoluciones firmes sobre competencia, personalidad y capacidad de los litigantes, las que regirán en el proceso ulterior si se promovieren oportunamente.
+
+En segunda instancia, la caducidad operará cualquiera que sea el estado de la alzada, desde la admisión del recurso hasta la citación para oír sentencia, si la inactividad se surte en un lapso continuo e ininterrumpido de sesenta días hábiles naturales. La caducidad de la segunda instancia deja firmes las resoluciones recurridas, implicando cuando se trate de sentencias definitivas que las mismas han causado ejecutoria. La declaración respectiva la hará la presidencia de la Sala.
+
+No operará la caducidad de la instancia en los juicios universales de concursos y sucesiones, pero sí en los juicios con ellos relacionados que se tramiten independientemente, que de ellos surjan o por ellos se motiven. Tampoco operará en los procesos que versen sobre alimentos, ni en la ejecución de sentencias, ni en los actos de jurisdicción voluntaria.
+
+Los lapsos a que este artículo se refiere, se computarán a partir del día siguiente al en que surta sus efectos la notificación de la última determinación judicial o al de la fecha de recepción de la última promoción presentada por las partes, en su caso.
 
 ### CAPITULO VI. De los gastos del juicio
 
@@ -1255,6 +1269,10 @@ Puede también pedirse la información de testigos para probar alguna excepción
 
 Al promoverse la diligencia preparatoria, debe expresarse el motivo por que se solicita y el litigio que se trata de seguir o que se teme.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 1993)</small>
+
+No procede el medio preparatorio de juicio para acreditar la existencia del contrato de arrendamiento.
+
 ###### Art. 226.
 
 Contra la resolución que ordene la diligencia preparatoria no habrá ningún recurso. Contra la resolución que la niegue, habrá el de apelación en ambos efectos, si fuere apelable la sentencia en el juicio que se prepara.
@@ -1659,9 +1677,11 @@ El término extraordinario correrá desde el día siguiente a la notificación d
 
 El término extraordinario concluirá luego que se rindan las pruebas para que se pidió, aunque no haya expirado el plazo señalado.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
+
 ###### Art. 309.
 
-El litigante a quien se hubiere concedido la dilación extraordinaria y no rindiese las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante a juicio del juez, será condenado, al extinguirse el período probatorio, a pagar a su contraparte una multa de cincuenta a quinientos pesos y la indemnización de daños y perjuicios.
+El litigante a quien se hubiere concedido la dilación extraordinaria y no rindiese las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante a juicio del juez, al extinguirse el período probatorio, será sancionado en términos de la fracción I del artículo 81.
 
 ###### Art. 310.
 
@@ -2021,9 +2041,11 @@ V.- Si el designado por los litigantes no se encontrare en el lugar del juicio o
 
 El juez señalará lugar, día y hora para la práctica de la diligencia.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
+
 ###### Art. 388.
 
-El perito que dejare de concurrir, sin causa justa calificada por el juez, incurrirá en una multa de diez a cincuenta pesos, e indemnizará de los daños y perjuicios que por su falta se hayan causado, nombrándose otro perito.
+El perito que dejare de concurrir, sin causa justa calificada por el juez, será sancionado en términos de la fracción I del artículo 81 de este código e indemnizará de los daños y perjuicios que por su falta se hayan causado, nombrándose otro perito.
 
 ###### Art. 389.
 
@@ -2237,9 +2259,11 @@ Cada uno de los litigantes puede presentar hasta veinte testigos.
 
 Cuando hecha la publicación de las pruebas se observare que al examinar al testigo, el juez incurrió en alguna omisión, la parte que ofreció la prueba tiene derecho de pedir que el testigo sea examinado nuevamente, sólo para el efecto de subsanar la omisión cometida.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
+
 ###### Art. 431.
 
-En el caso del artículo anterior, al juez, incurrirá en una multa de veinticinco a cien pesos, sin perjuicio de la responsabilidad a que haya lugar.
+En el caso del artículo anterior, al juez se le impondrá una corrección disciplinaria, sin perjuicio de la responsabilidad a que haya lugar.
 
 ###### Art. 432.
 
@@ -2545,35 +2569,35 @@ IV.- Finalmente, se resolverán los puntos litigiosos, condenándose o absolvié
 
 ###### Art. 488.
 
-Para que haya sentencia en el tribunal pleno, se requiere el voto de la mayoría absoluta de los magistrados.
+(DEROGADO, P.O. 16 DE JUNIO DE 1993)
 
 ###### Art. 489.
 
-El magistrado que no estuviere conforme, puede extender su voto particular en los mismos autos, o en el acta de aquél acuerdo, o en un libro especialmente destinado a este objeto.
+(DEROGADO, P.O. 16 DE JUNIO DE 1993)
 
 ###### Art. 490.
 
-Cuando no haya mayoría absoluta, se llamará a uno de los magistrados suplentes, en el orden que corresponda, para integrar el tribunal, haciendo saber este trámite a las partes.
+(DEROGADO, P.O. 16 DE JUNIO DE 1993)
 
 ###### Art. 491.
 
-Integrado el tribunal, el secretario hará una relación en acta de los puntos de discordancia y de los fundamentos en que se apoye cada voto y con vista de los autos se discutirá nuevamente el asunto y se decidirá lo que se estime justo.
+(DEROGADO, P.O. 16 DE JUNIO DE 1993)
 
 ###### Art. 492.
 
-En el caso del artículo anterior, si tampoco hubiere mayoría absoluta, bastará la relativa para decidir, y en su defecto, el presidente del tribunal resolverá la cuestión, con su voto, dictándose la sentencia según el resultado de la votación.
+(DEROGADO, P.O. 16 DE JUNIO DE 1993)
 
 ###### Art. 493.
 
-Todos los magistrados, aunque no estuvieren conformes, deberán firmar la sentencia, en la cual solo se hará constar si se dictó por unanimidad o por mayoría.
+(DEROGADO, P.O. 16 DE JUNIO DE 1993)
 
 ###### Art. 494.
 
-El juez o magistrado puede variar su voto antes de firmar la sentencia; pero firmada ésta, no puede variarse ni modificarse en manera alguna.
+(DEROGADO, P.O. 16 DE JUNIO DE 1993)
 
 ###### Art. 495.
 
-La sentencia debe notificarse a las partes o a sus procuradores dentro de las cuarenta y ocho horas siguientes al día en que fue pronunciada.
+(DEROGADO, P.O. 16 DE JUNIO DE 1993)
 
 ### CAPITULO III. De la sentencia ejecutoriada
 
@@ -2605,9 +2629,11 @@ La resolución que recaiga, se notificará a las partes; y de ella no se admitir
 
 El auto que aclare la sentencia, se reputará parte integrante de ésta.
 
+(REFORMADO, P.O. 16 DE JUNIO DE 1993) (F. DE E., P.O. 18 DE JUNIO DE 1993)
+
 ###### Art. 503.
 
-Siempre que los jueces y tribunales resuelvan no haber lugar a la aclaración pedida, y juzgaren que el solicitante procedió maliciosamente, lo condenarán en los gastos y le impondrán una multa de diez a cien pesos.
+Siempre que los jueces y tribunales resuelvan no haber lugar a la aclaración pedida, y juzgaren que el solicitante procedió maliciosamente le impondrán una multa en términos de la Fracción I del Artículo 81.
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -2665,7 +2691,7 @@ La resolución en que se declara que una sentencia ha causado o no ejecutoria, n
 
 ### CAPITULO II. Del juicio sumario de desahucio
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1971)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
 
 ###### Art. 511.
 
@@ -2705,7 +2731,7 @@ XVI.- Los demás que por disposición de la ley deban tramitarse sumariamente.
 
 ###### Art. 512.
 
-En los casos comprendidos en las fracciones IV, V, VIII y XIV del artículo anterior, el juicio será sumario siempre que por su cuantía no deba tramitarse en forma verbal. Lo mismo se observará en el caso previsto en la fracción XI, cuando se trate de cuentas que deban rendirse en virtud de contrato.
+(DEROGADO, P.O. 16 DE JUNIO DE 1993)
 
 ###### Art. 513.
 
@@ -2714,6 +2740,10 @@ El procedimiento en los juicios sumarios se arreglará a lo que disponen los sig
 ###### Art. 514.
 
 Los términos judiciales serán: de tres días para contestar la demanda; de veinte, para pruebas; de tres, para oponer excepciones dilatorias; de tres, para la audiencia de alegatos, y de cinco para dictar sentencia definitiva.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 1993)</small>
+
+En el juicio sumario, salvo disposición expresa de la ley, todos los días de que conste el período probatorio son comunes para ofrecer y desahogar pruebas. Empero, aquellas cuyo perfeccionamiento requiera la citación de alguna persona, la constitución del personal del juzgado fuera de las oficinas del mismo o la intervención de peritos, deberán ofrecerse con la suficiente anticipación para que dicho perfeccionamiento tenga lugar sin exceder el período, de no ser así el juez las desechará de plano.
 
 ###### Art. 515.
 
@@ -2747,13 +2777,13 @@ En el caso de la fracción XV del artículo 511, una vez recibida por el juez el
 
 ###### Art. 521.
 
-La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará con el contrato escrito del arrendamiento. En caso de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental o cualquiera otra bastante como medio preparatorio del juicio.
+La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará precisamente con el contrato escrito del arrendamiento y los correspondientes recibos de renta adeudada.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1971)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
 
 ###### Art. 522.
 
-Presentada la demanda con el documento o la justificación correspondiente, dictará auto el juez mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas, y no haciéndolo, se le prevenga que dentro de veinte días si la finca sirve para habitación, o dentro de cuarenta días si sirve para giro mercantil o industrial, o dentro de noventa si fuere rústica, proceda a desocupar la apercibido de lanzamiento a su costa si no lo verifica. En el mismo acto se le emplazará para que dentro de tres días ocurra a oponer las excepciones que tuviere.
+Presentada la demanda con el contrato respectivo, el juez dictará auto mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas, y no haciéndolo, se le prevenga que dentro de veinte días si la finca sirve para habitación, o dentro de cuarenta días si sirve para giro mercantil o industrial, o dentro de noventa si fuere rústica, proceda a desocuparla y entregarla al arrendador, apercibido de lanzamiento a su costa si no lo verifica. En el mismo acto se le emplazará para que dentro de tres días ocurra a oponer las excepciones que tuviere.
 
 > <small>(REFORMADO, P.O. 27 DE ABRIL DE 1971)</small>
 
@@ -2953,9 +2983,11 @@ Si se aprueba la consignación, el acreedor sufrirá la pérdida o menoscabo for
 
 Mientras el acreedor no acepte la consignación, o no se pronuncie sentencia sobre ella, podrá el deudor retirar del depósito la cosa; pero en este caso la obligación conserva toda su fuerza.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
+
 ###### Art. 563.
 
-Los jueces ante quienes se consignen cantidades, están obligados a dar recibo de ellas a los interesados y remitirlas el mismo día al la Tesorería General del Estado, acumulando a los autos la constancia de ingreso. El juez se limitará a confirmar este depósito si el deudor promueve conforme al artículo 556.
+Para la consignación de numerario, el deudor depositará éste previamente en la Secretaría de Finanzas del Ejecutivo y exhibirá al juez o tribunal el certificado o constancia de ingreso respectivo. El juez o tribunal se limitará a confirmar este depósito si el deudor promueve conforme al artículo 556.
 
 ###### Art. 564.
 
@@ -3109,6 +3141,10 @@ Del escrito de excepciones se dará traslado por tres días al ejecutante, y ven
 
 Si se promueven pruebas, se concederá un término de veinte días para recibirlas.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 1993)</small>
+
+En lo conducente es aplicable la disposición contenida en el segundo párrafo del artículo 514.
+
 ###### Art. 597.
 
 Concluido el término probatorio, dispondrá el juez que los autos queden en la secretaría a disposición de las partes, por seis días improrrogables para cada una, a fin de que aleguen dentro de este término lo que a sus derechos convenga.
@@ -3230,6 +3266,10 @@ Recibida la información, el juez, citando sólo a la parte que haya promovido, 
 ###### Art. 623.
 
 Declarada la procedencia del interdicto, serán citadas las partes a una audiencia, concediéndose para rendir las pruebas el plazo de ocho días. El término para la celebración de la audiencia será de tres días.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 1993)</small>
+
+Será aplicable en el caso la disposición contenida en el segundo párrafo del artículo 514.
 
 ###### Art. 624.
 
@@ -3359,6 +3399,10 @@ Suspendida la obra, el juez citará a las partes a audiencia verbal dentro de te
 
 Si en ella se promueve prueba, se concederá para rendirla un término de ocho días improrrogables.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 1993)</small>
+
+Es aplicable en lo conducente lo dispuesto en el segundo párrafo del artículo 514.
+
 ###### Art. 653.
 
 Transcurrido el término de prueba, se hará la publicación, se presentarán los alegatos y se pronunciará la sentencia en los términos que establece el artículo 624. Si la sentencia deja sin efecto la suspensión, es apelable en ambos efectos.
@@ -3443,9 +3487,11 @@ Del juicio arbitral
 
 Las partes tienen derecho de sujetar sus diferencias al juicio arbitral.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
+
 ###### Art. 670.
 
-El compromiso debe celebrarse en escritura pública si el interés del pleito excede de cinco mil pesos. Si no pasa de esta cantidad, se hará constar en documento privado.
+El compromiso debe celebrarse en escritura pública si el interés del pleito excede de trescientas sesenta y cinco veces el monto del salario mínimo general diario vigente en la entidad. Si no pasa de esta cantidad, se hará constar en documento privado.
 
 ###### Art. 671.
 
@@ -3705,9 +3751,13 @@ El litigante no será declarado rebelde, sino a petición de la parte contraria.
 
 (DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
+
 ###### Art. 722.
 
-Declarada la rebeldía se decretará, si la parte interesada lo pidiere, el embargo de bienes del demandado, por la cantidad que el juez estime necesaria, para asegurar lo que se exige en la demanda.
+Declarada la rebeldía y notificada a través del Periódico Oficial el proveído en que se haga la declaración, todas las notificaciones subsecuentes se hará por estrados.
+
+Si la parte interesada lo pidiere, se decretará el embargo de bienes del demandado, por la cantidad que el juez estime necesaria, para asegurar lo que se exige en la demanda.
 
 ###### Art. 723.
 
@@ -3771,6 +3821,10 @@ Promovido el incidente, y formada en su caso la pieza separada, se dará traslad
 
 Si alguna de las partes pidiere que el incidente se reciba a prueba, el juez señalará un término que no pase de la mitad del que la ley establezca para el negocio principal.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 1993)</small>
+
+En lo conducente se aplicará lo dispuesto en el segundo párrafo del artículo 514.
+
 ###### Art. 737.
 
 Si ninguna de las partes hubiere pedido prueba, mandará el juez traer a la vista los autos para sentencia.
@@ -3813,9 +3867,11 @@ Los terceros opositores excluyentes deben fundar su acción en el dominio de la 
 
 Las tercerías pueden oponerse sea cual fuere la acción que en el juicio se ejercite.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
+
 ###### Art. 747.
 
-La tercería debe oponerse por escrito o verbalmente, según la naturaleza del juicio, ante el mismo juez que conoce del negocio principal y en los términos prevenidos para entablar una demanda.
+La tercería deberá deducirse en los términos prescritos para formular una demanda ante el juez que conoce del juicio.
 
 ###### Art. 748.
 
@@ -4349,15 +4405,19 @@ Si se opusiere a la ejecución cualquier persona a quien perjudique la sentencia
 
 ###### Art. 853.
 
-El apremio procede si la ejecución se pide dentro de un año, contado conforme al artículo 848.
+(DEROGADO, P.O. 16 DE JUNIO DE 1993)
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
 
 ###### Art. 854.
 
-El apremio no procede en virtud de transacción, si no consta ésta en escritura pública.
+No procede el apremio en virtud de transacción si ésta no consta en escritura pública o si es evidente que el contrato reviste esa apariencia para disimular, en perjuicio de alguno de los contratantes, el verdadero carácter del acto jurídico celebrado.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
 
 ###### Art. 855.
 
-Solicitada la ejecución en la vía de apremio, el juez señalará al deudor un término prudente para que dé cumplimiento a la sentencia.
+Solicitada la ejecución en la vía de apremio, el juez señalará al deudor un término no menor de ocho ni mayor de quince días para que dé cumplimiento a la sentencia.
 
 ###### Art. 856.
 
@@ -4395,9 +4455,11 @@ Cuando la sentencia no haya establecido las bases para liquidación, la formular
 
 Si la sentencia contuviere condena al pago de cantidad líquida y de otra ilíquida, podrá procederse a hacer efectiva la primera, sin esperar a que se le liquide la segunda.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
+
 ###### Art. 865.
 
-Cuando en virtud de la sentencia deba entregarse alguna cosa, se procederá inmediatamente a poner en posesión de ella a la persona a quien debe hacerse la entrega, ordenando el juez las medidas conducentes; y si esto no fuere posible, se despachará ejecución por la cantidad que señale el acreedor, la cual puede ser moderada prudentemente por el juez, sin perjuicio de que el deudor objete la suma señalada, dentro de tres días contados desde la fecha del embargo.
+Cuando en virtud de la sentencia deba entregarse alguna cosa, mueble o inmueble, vencido el término a que se refiere el artículo 855, se procederá inmediatamente a poner en posesión de ella a la persona a quien debe hacerse la entrega, ordenando el juez las medidas conducentes; y si esto no fuere posible, se despachará ejecución por la cantidad que señale el acreedor, la cual puede ser moderada prudentemente por el juez, sin perjuicio de que el deudor objete la suma señalada, dentro de tres días contados desde la fecha del embargo.
 
 ###### Art. 866.
 
@@ -5230,6 +5292,10 @@ Si todos convienen en la preferencia de uno o más lugares, quedarán éstos irr
 ###### Art. 1027.
 
 Respecto de los créditos cuya preferencia se dispute, seguirá la sustanciación, recibiéndose a prueba el incidente cuando la parte lo pida, por un término que el juez señale y que no podrá exceder de veinte días.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 1993)</small>
+
+En lo conducente se aplicará lo establecido en el segundo párrafo del artículo 514.
 
 ###### Art. 1028.
 
@@ -6281,11 +6347,11 @@ De la jurisdicción voluntaria
 
 La jurisdicción voluntaria comprende todos los actos en que por disposición de la ley o por solicitud de los interesados se requiere la intervención del juez, sin que esté promovida ni se promueva cuestión alguna entre partes determinadas.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
 
 ###### Art. 1243.
 
-Las solicitudes relativas a jurisdicción voluntaria se formularán por escrito ante los jueces de primera instancia o de paz correspondientes.
+Las solicitudes relativas a jurisdicción voluntaria se formularán por escrito ante los jueces de primera instancia correspondientes.
 
 > <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
 
@@ -6361,9 +6427,11 @@ La prueba de que trata la primera fracción del artículo anterior, será el tes
 
 Cuando los alimentos se pidan por razón de parentesco conforme al Código Civil, deberán presentarse los documentos que lo comprueben.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
+
 ###### Art. 1258.
 
-Rendida la justificación prevenida en los artículos anteriores, el juez, si creyere fundada la solicitud, hará la designación de la suma en que deban consistir los alimentos y dictará sentencia, mandando abonarlos por meses anticipados en todos los casos.
+Rendida la justificación prevenida en los artículos anteriores, el juez, si creyere fundada la solicitud, dictará resolución haciendo la designación de la cantidad, líquida o por equivalencia en porcentaje, en que deban consistir los alimentos, mandando abonarlo por semanas o quincenas anticipadas, según corresponda de acuerdo a los tiempos en que obtenga sus percepciones el deudor alimentista.
 
 ###### Art. 1259.
 
@@ -6489,6 +6557,8 @@ Para decretar su separación después de discernido el cargo, es indispensable o
 
 ### CAPITULO V. De la adopción
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
+
 ###### Art. 1286.
 
 Será necesaria licencia judicial para la venta de los bienes que pertenezcan exclusivamente a menores o incapacitados y correspondan a las clases siguientes: 1ª. Bienes raíces; 2ª. Derechos reales sobre inmuebles; 3ª. Alhajas y muebles que valgan más de trescientos pesos; 4ª. Acciones de compañías industriales y mercantiles, cuyo valor exceda de cinco mil pesos.
@@ -6549,15 +6619,7 @@ Lo dispuesto en los artículos que preceden se aplicará a todos los actos y con
 
 ###### Art. 1296.
 
-El que pretenda adoptar a un menor deberá justificar, por los medios ordinarios de prueba:
-
-I.- Que es mayor de edad y que tiene, cuando menos, diez y siete años más de edad que el menor a quien trata de adoptar;
-
-II.- Que cuenta con medios bastantes o manera de proveer a la subsistencia, cuidado y educación del menor, como si fuera hijo propio;
-
-III.- Que la adopción es benéfica para la persona a quien se quiere adoptar;
-
-IV.- Que es el adoptante de buenas costumbres.
+El que pretenda adoptar a un menor o a un incapacitado, aunque éste sea mayor de edad, deberá justificar los requisitos previstos en los artículos 406 y 407 en su caso, del Código Civil del Estado.
 
 ###### Art. 1297.
 
@@ -6725,9 +6787,11 @@ I.- De menores o incapacitados sujetos a patria potestad o a tutela, que sean ma
 
 II.- De huérfano o incapacitado que quede en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuviere.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
+
 ###### Art. 1330.
 
-Los jueces de paz, en los lugares en donde no haya jueces de primera instancia, están facultados para decretar el depósito de huérfanos o incapacitados en el caso previsto en la fracción II del artículo anterior, pudiendo proceder de oficio. Las diligencias que se practiquen al efecto, se remitirán sin demora al juez de primera instancia que corresponda, quien confirmará, modificará o revocará el depósito, oyendo al Ministerio Público.
+Los jueces menores, en los lugares en donde no haya jueces del ramo familiar, están facultados para decretar el depósito de huérfanos e incapacitados en el caso previsto en la fracción II del artículo anterior, pudiendo proceder de oficio. Las diligencias que se practiquen al efecto, se remitirán sin demora al juez de lo familiar que corresponda, quien confirmará, modificará o revocará el depósito, oyendo al ministerio público.
 
 ###### Art. 1331.
 
@@ -7044,3 +7108,9 @@ Artículo Primero.- El presente decreto entrará en vigor a los quince días de 
 Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
 
 Artículo Tercero.- Los recursos de apelación, revocación y denegada apelación y las revisiones de oficio ya interpuestos o que se encuentran en trámite antes de la vigencia de este decreto, continuarán sustanciándose de conformidad con lo dispuesto en la legislación procesal anterior.
+
+P.O. 16 DE JUNIO DE 1993.
+
+Primero.- Este presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales que se opongan a lo previsto en el presente decreto.
