@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1977-02-05"
+last_updated: "1979-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1979.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -1965,7 +1965,7 @@ Las actas del Registro Civil sólo se asentarán en los libros a que se refiere 
 
 ###### ARTICULO 232.
 
-Si al terminar el año en curso quedaren en los libros hojas en blanco, seguirá actuándose en las restantes una vez que se haya asentado la razón correspondiente sobre el número de actas levantadas en el año concluido.
+Si al terminar el año en curso quedaren en los libros hojas en blanco, seguirá actuándose en las restantes una vez que se haya asentado la razón correspondiente sobre el número de actas levantadas en el año conluido.
 
 ###### ARTICULO 233.
 
@@ -3215,9 +3215,11 @@ Sin perjuicio de la responsabilidad civil en que incurre el notario, la omisión
 
 Los funcionarios que falsamente hagan aparecer en el Libro de Registros de Actos fuera de Protocolo, que ante ellos se celebró un acto sin que el mismo haya tenido lugar, que hagan aparecer alguno en fecha distinta a la que realmente corresponde, o bien, que falsamente hagan constar dichos actos en un documento, serán separados de su cargo y consignados a las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 1979)</small>
+
 ###### ARTICULO 430.
 
-Las enajenaciones de bienes inmuebles y la constitución o transmisión de derechos reales, cuyo precio, valor de avalúo o valor catastral sea mayor de $6,000.00 SEIS MIL PESOS, para su validez deberán constar en escritura pública, de acuerdo con lo establecido en el artículo 2195 del Código Civil.
+Las enajenaciones de bienes inmuebles y la constitucióm (sic) o transmisión de derechos reales, cuyo precio, valor de avalúo o valor catastral sea mayor de doce mil quinientos pesos, para su validez deberá constar en escritura pública, de acuerdo con lo establecido en los artículos 2195 y 2198 del Código Civil.
 
 ###### ARTICULO 431.
 
@@ -9865,7 +9867,7 @@ ECONOMIA
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -9889,7 +9891,7 @@ VI.- Fundar y mantener organismos coordinados, establecimientos públicos descen
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -9961,7 +9963,7 @@ ASENTAMIENTOS HUMANOS
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO VII. DE LAS CONURBACIONES
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10463,9 +10465,7 @@ Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1502.
 
@@ -10477,9 +10477,11 @@ Para los efectos de este Título se entiende por estructura vial y sistema de tr
 
 En todo lo relativo a la estructura vial y sistema de transporte en el Estado, se estará a lo dispuesto por este Código, la Ley de Tránsito y el Código Municipal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1504.
 
@@ -10577,7 +10579,7 @@ En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10665,7 +10667,11 @@ V.- La dotación de servicios públicos como: agua, drenaje, electricidad, recol
 
 Para la construcción de viviendas deberá mediar solicitud del interesado ante el ayuntamiento que satisfaga los requisitos previstos por este Título, el Código Municipal y demás disposiciones aplicables. Los fondos de vivienda y demás organismos e instituciones del sector público, al igual que los particulares están obligados al cumplimiento de las normas legales y reglamentarias que regulen esta materia.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
+
+DECIMA PRIMERA PARTE
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
 #### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
@@ -10709,9 +10715,9 @@ Los propietarios y poseedores de los predios incluidos en los programas de mejor
 
 En el caso de que los propietarios o poseedores no cumplan con las obligaciones o convenios indicados por los dos artículos anteriores, el Ejecutivo del Estado podrá proceder a la expropiación por causa de utilidad pública.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION QUINTA. DE LA VIVIENDA
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10781,11 +10787,7 @@ Se consideran afectos al patrimonio cultural del Estado: los edificios, monument
 
 Para la conservación del patrimonio a que se refiere el artículo anterior, el plan estatal y los reglamentos de este Título, considerarán las medidas y disposiciones que impiden el menoscabo o la degradación de dicho patrimonio, estableciendo disposiciones que reduzcan el empleo de idiomas, giros y modismos extranjeros, y que excluyan la adopción de estilos arquitectónicos, deformantes de los valores tradicionales de la ciudad.
 
-(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
-
-DECIMA PRIMERA PARTE
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO II. DE LOS PROCEDIMIENTOS
 
@@ -10887,7 +10889,7 @@ Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación, dis
 
 Las declaratorias de conurbación para que surtan sus efectos serán publicadas por una sola vez en el Periódico Oficial del Estado y en dos periódicos de mayor circulación en la localidad que corresponda, debiendo inscribirse en la Oficina del Registro Público de la Propiedad respectiva.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 # LIBRO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -11916,3 +11918,7 @@ Se abroga el Decreto 17-74 publicado en el Periódico Oficial del Gobierno del E
 ###### ARTICULO 2o.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MARZO DE 1979.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
