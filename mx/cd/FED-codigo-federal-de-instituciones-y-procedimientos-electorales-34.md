@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-instituciones-y-procedimientos-electorales-34
 country: "mx"
 rank: "codigo"
 publication_date: "1990-08-15"
-last_updated: "1993-12-23"
+last_updated: "1994-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1990-08-14"
 
 CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 1994.
 
 Código publicado en el Diario Oficial de la Federación, el miércoles 15 de agosto de 1990.
 
@@ -91,15 +91,23 @@ ARTICULO 5
 
 2. Es obligación de los ciudadanos mexicanos integrar las mesas directivas de casilla en los términos de este Código.
 
-> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-3. Es derecho exclusivo de los ciudadanos mexicanos participar como observadores de las actividades electorales durante la jornada electoral, en la forma y términos que determine el Consejo General del Instituto Federal Electoral para cada proceso electoral, de acuerdo con las bases siguientes:
+3. Es derecho exclusivo de los ciudadanos mexicanos participar como observadores de los actos de preparación y desarrollo del proceso electoral, así como de los que se lleven a cabo el día de la jornada electoral, en la forma y términos en que determine el Consejo General del Instituto para cada proceso electoral, de acuerdo con las bases siguientes:
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 a) Podrán participar sólo cuando hayan obtenido oportunamente su acreditación ante la autoridad electoral;
 
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+
 b) Los ciudadanos que pretendan actuar como observadores deberán señalar en el escrito de solicitud los datos de identificación personal anexando fotocopia de su Credencial para Votar con fotografía, y la manifestación expresa de que se conducirán conforme a los principios de imparcialidad, objetividad, certeza y legalidad y sin vínculos a partido u organización política alguna;
 
-c) La acreditación deberá solicitarse ante la Junta Local correspondiente a su domicilio dentro del plazo que para tal efecto establezca el Consejo General del Instituto Federal Electoral;
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+c) La acreditación podrá solicitarse en forma personal, o a través de la agrupación a la que pertenezca, ante la Junta Local o Distrital correspondiente a su domicilio dentro del plazo que para tal efecto establezca el Consejo General del Instituto Federal Electoral; las Juntas darán cuenta de las solicitudes a los Consejos correspondientes para su aprobación, misma que deberá resolverse en la siguiente sesión que celebren dichos Consejos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 d) Sólo se otorgará la acreditación a quien cumpla, además de los que señale la autoridad electoral, los siguientes requisitos:
 
@@ -109,7 +117,11 @@ II. No ser, ni haber sido miembro de dirigencias nacionales, estatales o municip
 
 III. No ser, ni haber sido candidato a puesto de elección popular en los últimos tres años anteriores a la elección; y
 
-IV. Asistir a los cursos de preparación o información que a tal efecto acuerde la autoridad electoral.
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1994)</small>
+
+IV. Asistir a los cursos de preparación o información que impartan el Instituto Federal Electoral o las organizaciones de observadores electorales bajo los lineamientos y contenidos que dicten las autoridades competentes del Instituto y con la supervisión de las mismas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
 e) Los observadores se abstendrán de:
 
@@ -121,7 +133,39 @@ III. Externar cualquier expresión de ofensa, difamación o calumnia en contra d
 
 IV. Declarar el triunfo de partido político o candidato alguno; y
 
-f) Los observadores podrán presentar ante la autoridad electoral, informe sobre el desarrollo de la jornada en los términos y tiempos que para tal efecto determine el Consejo General. En ningún caso, los informes, juicios, opiniones o conclusiones de los observadores tendrán efectos jurídicos sobre el proceso electoral y sus resultados.
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+f) La observación podrá realizarse en cualquier ámbito territorial de la República Mexicana;
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+g) Los ciudadanos acreditados como observadores electorales podrán solicitar ante la Junta Local que corresponda, la información electoral que requieran para el mejor desarrollo de sus actividades. Dicha información será proporcionada siempre que no sea confidencial en los términos fijados por la ley, y que existan las posibilidades materiales y técnicas para su entrega;
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+h) En los contenidos de la capacitación que las Juntas Distritales Ejecutivas impartan a los funcionarios de las mesas directivas de casilla, debe preverse la explicación relativa a la presencia de los observadores electorales, así como los derechos y obligaciones inherentes a su actuación;
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+i) Los observadores electorales podrán presentarse el día de la jornada electoral con sus acreditaciones y gafetes en una o varias casillas, así como en el local del Consejo Distrital correspondiente, pudiendo observar los siguientes actos:
+
+I. Instalación de la casilla;
+
+II. Desarrollo de la votación;
+
+III. Escrutinio y cómputo de la votación en la casilla;
+
+IV. Fijación de resultados de la votación en el exterior de la casilla;
+
+V. Clausura de la casilla;
+
+VI. Lectura en voz alta de los resultados en el Consejo Distrital;
+
+VII. Recepción de escritos de incidencias y protesta; y
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+j) Los observadores podrán presentar, ante la autoridad electoral, informe de sus actividades en los términos y tiempos que para tal efecto determine el Consejo General. En ningún caso los informes, juicios, opiniones o conclusiones de los observadores tendrán efectos jurídicos sobre el proceso electoral y sus resultados.
 
 ARTICULO 6
 
@@ -149,15 +193,15 @@ c) No ser magistrado, juez instructor o secretario del Tribunal Federal Electora
 
 d) No pertenecer al personal profesional del Instituto Federal Electoral;
 
-> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-e) No ser consejero magistrado en el Consejo General o consejero ciudadano ante los Consejos Locales o Distritales del Instituto, ni Director General, Secretario General o Director Ejecutivo del mismo, salvo que se separe un año antes de la fecha de inicio del registro de la elección de que se trate;
+e) No ser consejero ciudadano en los consejos general, locales o distritales del Instituto, ni Director General, Secretario General o Director Ejecutivo del mismo, salvo que se separe un año antes de la fecha de inicio del registro de la elección de que se trate;
 
 f) No ser presidente municipal o delegado político en el caso del Distrito Federal, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo tres meses antes de la fecha de la elección;
 
-g) No ser diputado local, ni representante ante la Asamblea del Distrito Federal, salvo que se separe de sus funciones tres meses antes de la fecha de la elección de que se trate; y
+g) (DEROGADO, D.O.F. 18 DE MAYO DE 1994)
 
-h) No ser representante de partido político ante el Consejo General o ante los Consejos Locales o Distritales del Instituto, salvo que se separe tres meses antes de la elección.
+h) (DEROGADO, D.O.F. 18 DE MAYO DE 1994)
 
 ARTICULO 8
 
@@ -165,7 +209,9 @@ ARTICULO 8
 
 1. A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral. Tampoco podrá ser candidato para un cargo federal de elección popular y simultáneamente para otro de los Estados o los municipios. En este supuesto, si el registro para el cargo de la elección federal ya estuviere hecho, se procederá a la cancelación automática del registro respectivo.
 
-2. Los partidos políticos no podrán registrar simultáneamente, en un mismo proceso electoral, más de 30 candidatos a diputados federales por mayoría relativa y por representación proporcional distribuidos en sus cinco listas regionales.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+2. Los partidos políticos no podrán registrar simultáneamente, en un mismo proceso electoral, más de sesenta candidatos a diputados federales por mayoría relativa y por representación proporcional distribuidos en sus cinco listas regionales.
 
 ## TITULO TERCERO. De la elección del Presidente de los Estados Unidos Mexicanos y de los integrantes de la Cámara de Senadores y de la Cámara de Diputados
 
@@ -469,7 +515,9 @@ ARTICULO 32
 
 ARTICULO 33
 
-1. El Instituto Federal Electoral podrá convocar, en el primer trimestre del año anterior a las elecciones federales ordinarias, a las organizaciones y agrupaciones políticas que pretendan participar en los procesos electorales, a fin de que puedan obtener el registro condicionado como partido político.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+1. El Instituto Federal Electoral deberá convocar, en el primer trimestre del año anterior a las elecciones federales ordinarias, a las organizaciones y agrupaciones políticas que pretendan participar en los procesos electorales a fin de que puedan obtener el registro condicionado como partido político.
 
 2. Para la expedición de la convocatoria, el Consejo General tomará en cuenta las condiciones específicas en las que funciona el sistema de partidos políticos; así como su composición y representatividad sociopolítica.
 
@@ -1405,13 +1453,17 @@ c) La Dirección General.
 
 ### CAPITULO PRIMERO. Del Consejo General y de su Presidencia
 
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
 ARTICULO 73
 
-1. El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, imparcialidad y objetividad guíen todas las actividades del Instituto.
+1. El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad y objetividad guíen todas las actividades del Instituto.
 
 ARTICULO 74
 
-1. El Consejo General se integra por un consejero del Poder Ejecutivo, cuatro consejeros del Poder Legislativo, seis consejeros magistrados, y representantes de los partidos políticos nacionales.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+1. El Consejo General se integra por un consejero del Poder Ejecutivo, cuatro consejeros del Poder Legislativo, seis consejeros ciudadanos, y representantes de los partidos políticos nacionales.
 
 2. El consejero del Poder Ejecutivo será el Secretario de Gobernación quien fungirá como Presidente del Consejo General.
 
@@ -1419,55 +1471,51 @@ ARTICULO 74
 
 4. En caso de vacante de los consejeros del Poder Legislativo, el presidente del Consejo General se dirigirá a las Cámaras del Congreso de la Unión a fin de que hagan las designaciones correspondientes.
 
-5. Los consejeros magistrados serán electos conforme a las bases siguientes:
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-a) El Presidente de la República propondrá a la Cámara de Diputados una lista de candidatos de cuando menos el doble del total del número a elegir;
+5. Los consejeros ciudadanos serán electos conforme a las bases siguientes:
 
-b) De entre esos candidatos la Cámara de Diputados elegirá a los consejeros magistrados por el voto de las dos terceras partes de sus miembros presentes;
+a) Cada grupo parlamentario tendrá derecho a presentar hasta cuatro candidatos. La comisión correspondiente de la Cámara de Diputados integrará una lista de candidatos hasta por el doble del número a elegir, de entre las propuestas de los grupos parlamentarios;
 
-c) Si en una primera votación no se obtuviera esta mayoría, se procederá a insacular, de entre los candidatos propuestos, a los consejeros magistrados que se requieran;
+b) De la lista presentada por la comisión correspondiente, la Cámara de Diputados elegirá a los consejeros ciudadanos por el voto de las dos terceras partes de sus miembros presentes. Las propuestas de consejeros serán votadas de manera individual y sucesiva;
 
-d) Para cubrir las ausencias temporales o definitivas de los consejeros magistrados así como para integrar el Consejo General cuando se dé el supuesto previsto en el artículo 75 de este Código serán electos ocho consejeros de la lista adicional que para ese efecto presente el Presidente de la República. En este caso se aplicará lo dispuesto en los incisos a) al c) anteriores. Las ausencias serán cubiertas por los suplentes, en el orden en que determine la Cámara al elegirlos o insacularlos;
+c) Si realizadas al menos tres rondas de votación no se cubriera la totalidad de consejeros a elegir, la comisión correspondiente deberá presentar una nueva lista hasta por el doble de los consejeros faltantes. En este último caso se seguirá el procedimiento señalado en los incisos anteriores;
 
-e) Los consejeros magistrados propietarios y suplentes durarán en su cargo ocho años. El Presidente de la República, en su caso, propondrá la ratificación o someterá nuevos candidatos para su elección; y
+d) Para cubrir las ausencias temporales o definitivas de los consejeros ciudadanos, serán electos seis consejeros de la lista adicional que para ese efecto integren los grupos parlamentarios. En este caso se aplicará lo dispuesto en los incisos a) al c) anteriores. Las ausencias serán cubiertas por los suplentes en el orden que determine la Cámara al elegirlos;
 
-> <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1991)</small>
+e) Los consejeros ciudadanos propietarios y suplentes durarán en su cargo ocho años; y
 
-f) Las reglas y procedimientos para verificar el cumplimiento de los requisitos, así como para la elección o, en su caso, insaculación de los consejeros magistrados, serán las que establezca la Ley Orgánica del Congreso de la Unión o el ordenamiento reglamentario de la Cámara de Diputados.
+f) Las reglas y procedimientos para verificar el cumplimiento de los requisitos serán los que establezca la propia Cámara en sus ordenamientos internos.
 
-6. Los representantes de los partidos políticos nacionales, se determinarán de acuerdo a las siguientes reglas:
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-a) Un representante por cada partido político que hubiere obtenido entre el 1.5% y el 10% de la votación nacional emitida en la anterior elección de diputados de mayoría relativa;
+6. Los partidos políticos nacionales designarán un representante con voz pero sin voto.
 
-b) Un representante adicional por cada partido que hubiese obtenido más del 10% y hasta el 20% de la votación nacional emitida a que se refiere el inciso anterior;
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-c) Otro representante por cada partido político que hubiese obtenido más del 20% y hasta el 30% de la propia votación nacional emitida;
+7. Los partidos políticos podrán sustituir en todo tiempo a su representante, dando con oportunidad el aviso correspondiente al Presidente del Consejo General.
 
-d) Hasta un cuarto representante por cada partido que hubiese obtenido más del 30% de la votación nacional emitida de referencia;
+8. (DEROGADO, D.O.F. 18 DE MAYO DE 1994)
 
-e) Por cada representante propietario habrá un suplente; y
-
-f) Los partidos políticos nacionales que tengan más de un representante podrán designar a un representante común para que actúe ante el Consejo, el que tendrá tantos votos como número de representantes tenga el partido.
-
-7. Un representante con voz pero sin voto por cada partido político que hubiere obtenido su registro definitivo o condicionado con fecha posterior a la última elección.
-
-8. Los partidos políticos podrán sustituir en todo tiempo a sus representantes, dando el aviso correspondiente con oportunidad al Presidente del Consejo General.
-
-ARTICULO 75
-
-1. Para mantener las condiciones que aseguren la imparcialidad y objetividad en la función electoral, si el número de representantes de los partidos políticos con derecho a voto resulta mayor a diez, se integrará un consejero magistrado más por cada representante adicional a dicho número. En este caso, los consejeros magistrados se integrarán al Consejo General de la lista adicional aprobada por la Cámara de Diputados en el orden en que ésta determine al elegirlos o insacularlos.
+ARTICULO 75 (DEROGADO, D.O.F. 18 DE MAYO DE 1994)
 
 ARTICULO 76
 
-1. Los consejeros magistrados deberán reunir los siguientes requisitos:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+1. Los consejeros ciudadanos deberán reunir los siguientes requisitos:
 
 a) Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
 
 b) Estar inscrito en el Registro Federal de Electores y contar con Credencial para Votar;
 
-c) No tener más de sesenta y cinco años de edad ni menos de treinta y cinco, el día de la designación;
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-d) Poseer el día de la designación con antigüedad mínima de cinco años, título profesional de licenciado en derecho expedido por la autoridad o corporación legalmente facultada para ello;
+c) Tener más de treinta años de edad, el día de la designación;
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+d) Poseer el día de la designación título profesional o formación equivalente, y tener conocimientos en la materia político-electoral;
 
 e) Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
 
@@ -1477,13 +1525,19 @@ g) No desempeñar ni haber desempeñado el cargo de Presidente del Comité Ejecu
 
 h) No tener ni haber tenido cargo alguno de elección popular en los últimos cinco años anteriores a la designación; e
 
-i) No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cinco años anteriores a la designación.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-2. La retribución que reciban los consejeros magistrados será la prevista en el Presupuesto de Egresos de la Federación.
+i) No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los tres años inmediatos anteriores a la designación.
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+2. La retribución que reciban los consejeros ciudadanos será la prevista en el Presupuesto de Egresos de la Federación.
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
 ARTICULO 77
 
-1. Durante el tiempo de su nombramiento los consejeros magistrados no podrán en ningún caso aceptar o desempeñar empleo o encargo de la Federación, de los Estados o municipios, de los partidos políticos o de particulares, salvo los cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
+1. Durante el tiempo de su ejercicio los consejeros ciudadanos no podrán en ningún caso aceptar o desempeñar empleo o encargo de la Federación, de los Estados o municipios, de los partidos políticos o de particulares, salvo los cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
 
 ARTICULO 78
 
@@ -1495,7 +1549,9 @@ ARTICULO 78
 
 ARTICULO 79
 
-1. Para que el Consejo General pueda sesionar es necesario que esté presente la mayoría de sus integrantes, entre los que deberá estar el Presidente. Las resoluciones se tomarán por mayoría de votos; en caso de empate, será de calidad el del Presidente.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+1. Para que el Consejo General pueda sesionar es necesario que esté presente la mayoría de sus integrantes, entre los que deberá estar el Presidente. Las resoluciones se tomarán por mayoría de votos.
 
 2. El Director General y el Secretario General del Instituto Federal Electoral concurrirán a las sesiones con voz pero sin voto. La Secretaría del Consejo estará a cargo del Secretario General del Instituto.
 
@@ -1590,6 +1646,10 @@ w) Resolver los recursos de revisión que le competan en los términos de este C
 x) Aprobar anualmente el anteproyecto de presupuesto del Instituto que le proponga el Presidente del propio Consejo; e
 
 y) Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas en este Código.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+2. El Consejo General, en ocasión de la celebración de los procesos electorales federales, podrá invitar y acordar las bases y criterios en que habrá de atenderse e informar a los visitantes extranjeros que acudan a conocer las modalidades de su desarrollo en cualesquiera de sus etapas.
 
 ### CAPITULO TERCERO. De las atribuciones de la Presidencia y del Secretario del Consejo General
 
@@ -1723,9 +1783,9 @@ g) No desempeñar ni haber desempeñado el cargo de Presidente del Comité Ejecu
 
 h) No tener ni haber tenido cargo alguno de elección popular en los últimos cinco años anteriores a la designación; e
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-i) No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cinco años anteriores a la designación.
+i) No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los tres años inmediatos anteriores a la designación.
 
 ARTICULO 89
 
@@ -2015,13 +2075,13 @@ d) Someter a la consideración de los Consejos Locales correspondientes, en la p
 
 e) Recibir, sustanciar y resolver los recursos de revisión que se presenten durante los dos años anteriores al proceso electoral contra los actos o resoluciónes de los órganos distritales, en los términos establecidos en el Libro Séptimo de este Código; y
 
-> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-f) Determinar el tope máximo de gastos que pueden erogar los partidos políticos en las campañas de cada fórmula de senadores de su entidad federativa, de conformidad con lo dispuesto en el artículo 182-A de este Código;
+f) Formular y presentar al Consejo Local para su aprobación, el proyecto de tope máximo de gastos que pueden erogar los partidos políticos en las campañas de cada fórmula de candidatos a senadores de su entidad federativa, de conformidad con lo dispuesto por el artículo 182-A de este Código;
 
-> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-g) Acreditar conforme al párrafo 3 del artículo 5 de este Código, a los ciudadanos mexicanos que hayan presentado su solicitud para participar como observadores durante la jornada electoral; y
+g) Recibir la solicitud de acreditación que presenten los ciudadanos mexicanos, o las agrupaciones a las que pertenezcan, para participar como observadores durante el proceso electoral, conforme al inciso c) del párrafo 3 del artículo 5 de este Código; y
 
 > <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
@@ -2057,17 +2117,21 @@ i) Las demás que les señale este Código.
 
 ARTICULO 102
 
-(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-1. Los Consejos Locales funcionarán durante el proceso electoral federal y se integrarán con dos consejeros que serán los Vocales Ejecutivo y Secretario de la Junta Local Ejecutiva; nueve consejeros ciudadanos y representantes de los partidos políticos nacionales. Los vocales de Organización Electoral, del Registro Federal de Electores y de Capacitación Electoral y Educación Cívica de la Junta Local concurrirán a sus sesiones con voz pero sin voto.
+1. Los Consejos Locales funcionarán durante el proceso electoral federal y se integrarán con dos consejeros que serán el Vocal Ejecutivo y el Vocal Secretario de la Junta Local Ejecutiva; seis consejeros ciudadanos, y representantes de los partidos políticos nacionales. Los vocales de Organización Electoral, del Registro Federal de Electores y de Capacitación Electoral y Educación Cívica de la Junta Local concurrirán a sus sesiones con voz pero sin voto.
 
-2. El Vocal Ejecutivo y el Vocal Secretario de la junta serán, respectivamente, Presidente y Secretario del Consejo Local.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+2. El Vocal Ejecutivo y el Vocal Secretario de la Junta serán, respectivamente, Presidente y Secretario del Consejo Local. El Vocal Secretario tendrá voz, pero no voto.
 
 3. Los consejeros ciudadanos serán designados conforme a lo dispuesto en el inciso e) del artículo 82 de este Código. Por cada consejero ciudadano propietario habrá un suplente. Las designaciones podrán ser impugnadas ante la Sala Central del Tribunal Federal Electoral, cuando no se reúna alguno de los requisitos señalados en el artículo siguiente.
 
-4. Los representantes de los partidos políticos nacionales se determinarán conforme a las bases y reglas señaladas en los párrafos 6 incisos a) al f) y 7 del artículo 74 de este Código.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-5. Para la composición de los Consejos Locales se aplicará lo señalado en el artículo 75 de este Código. En este caso el Consejo General designará el número de consejeros ciudadanos necesario siguiendo el procedimiento señalado en el inciso e) del artículo 82 de este Código.
+4. Los representantes de los partidos políticos nacionales tendrán voz, pero no voto; se determinarán conforme a la regla señalada en el párrafo 6 del artículo 74 de este Código.
+
+5. (DEROGADO, D.O.F. 18 DE MAYO DE 1994)
 
 ARTICULO 103
 
@@ -2079,11 +2143,13 @@ b) Ser nativo o residente de la entidad respectiva;
 
 c) Contar con conocimientos para el desempeño adecuado de sus funciones;
 
-> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-d) No desempeñar o haber desempeñado cargo de elección popular, ni haber sido postulado como candidato para alguno de ellos, en los últimos seis años anteriores a la designación;
+d) No desempeñar o haber desempeñado cargo de elección popular, ni haber sido postulado como candidato, en los cinco años inmediatos anteriores a la designación;
 
-e) No ser o haber sido dirigente nacional, estatal o municipal de algún partido político en los últimos seis años; y
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+e) No ser o haber sido dirigente nacional, estatal o municipal de algún partido político en los tres años inmediatos anteriores a la designación; y
 
 f) Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial.
 
@@ -2123,19 +2189,29 @@ b) Vigilar que los Consejos Distritales se instalen en la entidad en los términ
 
 c) Designar en el mes de diciembre del año anterior al de la elección, por mayoría absoluta, a los consejeros ciudadanos que integren los Consejos Distritales a que se refiere el párrafo 3 del artículo 113 de este Código, con base en las propuestas que al efecto haga la Junta Local Ejecutiva;
 
-d) Publicar la integración de los Consejos Distritales por lo menos en uno de los diarios de mayor circulación en la localidad;
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-e) Registrar supletoriamente los nombramientos de los representantes generales o representantes ante las mesas directivas de casilla en el caso previsto en el párrafo 3 del artículo 203 de este Código;
+d) Aprobar el tope máximo de gastos que pueden erogar los partidos políticos en las campañas de cada fórmula de candidatos a senadores de su entidad federativa, de conformidad con lo dispuesto en el artículo 182-A de este Código;
 
-f) Registrar las fórmulas de candidatos a senadores;
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+e) Acreditar a los ciudadanos mexicanos, o a la agrupación a la que pertenezcan, que hayan presentado su solicitud ante la Junta Local correspondiente para participar como observadores durante el proceso electoral, conforme al inciso c) del párrafo 3 del artículo 5 de este Código;
+
+f) Publicar la integración de los Consejos Distritales por lo menos en uno de los diarios de mayor circulación en la localidad;
+
+g) Registrar supletoriamente los nombramientos de los representantes generales o representantes ante las mesas directivas de casilla en el caso previsto en el párrafo 3 del artículo 203 de este Código;
+
+h) Registrar las fórmulas de candidatos a senadores;
 
 > <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
-g) Efectuar el cómputo total y la declaración de validez de la elección de senadores, con base en los resultados consignados en las actas de cómputos distritales, dar a conocer los resultados correspondientes y turnar el original y las copias certificadas del expediente en los términos señalados en el Capítulo Cuarto del Título Tercero del Libro Quinto de este Código;
+i) Efectuar el cómputo total y la declaración de validez de la elección de senadores, con base en los resultados consignados en las actas de cómputos distritales, dar a conocer los resultados correspondientes y turnar el original y las copias certificadas del expediente en los términos señalados en el Capítulo Cuarto del Título Tercero del Libro Quinto de este Código;
 
-h) Resolver los recursos de revisión que les competan en los términos de este Código; e
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-i) Las demás que les confiera este Código.
+j) Resolver los recursos de revisión que les competan en los términos de este Código; y
+
+k) Las demás que les confiera este Código.
 
 ARTICULO 106
 
@@ -2229,9 +2305,9 @@ b) Proponer al Consejo Distrital correspondiente el número y ubicación de las 
 
 c) Capacitar a los ciudadanos que habrán de integrar las mesas directivas de casilla, en los términos del Título Quinto de este Libro; y
 
-> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-d) Determinar el tope máximo de gastos de campaña que pueden erogar los partidos políticos en la elección de diputados de mayoría relativa en el distrito electoral uninominal, de conformidad con lo dispuesto en el artículo 182-A de este Código; y
+d) Formular y presentar al Consejo Distrital para su aprobación, el proyecto de tope máximo de gastos de campaña que pueden erogar los partidos políticos en la elección de diputados de mayoría relativa en el distrito electoral uninominal, de conformidad con lo dispuesto en el artículo 182-A de este Código; y
 
 e) Las demás que le encomiende este Código.
 
@@ -2271,17 +2347,21 @@ ARTICULO 112
 
 ARTICULO 113
 
-(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-1. Los Consejos Distritales funcionarán durante el proceso electoral federal y se integrarán con dos consejeros que serán los Vocales Ejecutivo y Secretario de la Junta Distrital Ejecutiva; nueve consejeros ciudadanos y representantes de los partidos políticos nacionales. Los vocales de Organización Electoral, del Registro Federal de Electores y de Capacitación Electoral y Educación Cívica de la Junta Distrital concurrirán a sus sesiones con voz pero sin voto.
+1. Los Consejos Distritales funcionarán durante el proceso electoral federal y se integrarán con dos consejeros que serán los Vocales Ejecutivo y Secretario de la Junta Distrital Ejecutiva; seis consejeros ciudadanos, y representantes de los partidos políticos nacionales. Los vocales de Organización Electoral, del Registro Federal de Electores y de Capacitación Electoral y Educación Cívica de la Junta Distrital concurrirán a sus sesiones con voz pero sin voto.
 
-2. El Vocal Ejecutivo y el Vocal Secretario de la Junta Distrital Ejecutiva serán, respectivamente, Presidente y Secretario del Consejo Distrital.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+2. El Vocal Ejecutivo y el Vocal Secretario de la Junta Distrital Ejecutiva serán, respectivamente, Presidente y Secretario del Consejo Distrital. El Vocal Secretario tendrá voz pero no voto.
 
 3. Los seis consejeros ciudadanos serán designados por el Consejo Local correspondiente conforme a lo dispuesto en el inciso c) del artículo 105 de este Código. Por cada consejero ciudadano habrá un suplente. Las designaciones podrán ser impugnadas en los términos previstos en el Libro Séptimo de este Código, cuando no se reúna alguno de los requisitos señalados en el artículo siguiente.
 
-4. Los representantes de los partidos políticos nacionales se determinarán conforme a las bases y reglas señaladas en los párrafos 6 incisos a) al f) y 7 del artículo 74 de este Código.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-5. Para la composición de los Consejos Distritales se aplicará lo señalado en el artículo 75 de este Código. En este caso cada uno de los Consejos Locales designará el número de consejeros ciudadanos necesarios, siguiendo el procedimiento establecido en el inciso c) del artículo 105 de este Código.
+4. Los representantes de los partidos políticos nacionales tendrán voz pero no voto; se determinarán conforme a la regla señalada en el párrafo 6 del artículo 74 de este Código.
+
+5. (DEROGADO, D.O.F. 18 DE MAYO DE 1994)
 
 ARTICULO 114
 
@@ -2299,7 +2379,9 @@ d) Contar con conocimientos para el desempeño adecuado de sus funciones;
 
 e) No desempeñar o haber desempeñado cargo de elección popular, ni haber sido postulado como candidato para alguno de ellos, en los últimos seis años anteriores a la designación;
 
-f) No ser o haber sido dirigente nacional, estatal o municipal de algún partido político en los últimos seis años; y
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+f) No ser o haber sido dirigente nacional, estatal o municipal de algún partido político en los tres años inmediatos anteriores a la designación; y
 
 g) Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial.
 
@@ -2333,29 +2415,43 @@ ARTICULO 116
 
 a) Vigilar la observancia de este Código y de los acuerdos y resoluciones de las autoridades electorales;
 
-b) Determinar el número y la ubicación de las casillas conforme al procedimiento señalado en los artículos 195 y 197 de este Código;
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+b) Aprobar el tope máximo de gastos de campaña que pueden erogar los partidos políticos en la elección de diputados de mayoría relativa en el distrito electoral uninominal, de conformidad con lo dispuesto en el artículo 182-A de este Código;
+
+c) Determinar el número y la ubicación de las casillas conforme al procedimiento señalado en los artículos 195 y 197 de este Código;
 
 (REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993) (F. DE E., D.O.F. 28 DE SEPTIEMBRE DE 1993)
 
-c) Insacular a los funcionarios de casilla conforme al procedimiento previsto en el artículo 193 y vigilar que las mesas directivas de casilla se instalen en los términos de este Código;
+d) Insacular a los funcionarios de casilla conforme al procedimiento previsto en el artículo 193 y vigilar que las mesas directivas de casilla se instalen en los términos de este Código;
 
-d) Registrar las fórmulas de candidatos a diputados por el principio de mayoría relativa;
+e) Registrar las fórmulas de candidatos a diputados por el principio de mayoría relativa;
 
-e) Registrar los nombramientos de los representantes que los partidos políticos acrediten para la jornada electoral;
+f) Registrar los nombramientos de los representantes que los partidos políticos acrediten para la jornada electoral;
 
-f) Expedir, en su caso, la identificación de los representantes de los partidos, en un plazo máximo de cuarenta y ocho horas a partir de su registro, y en todo caso, diez días antes de la jornada electoral;
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+g) Acreditar a los ciudadanos mexicanos, o a la agrupación a la que pertenezcan, que hayan presentado su solicitud ante la Junta Distrital correspondiente para participar como observadores durante el proceso electoral, conforme al inciso c) del párrafo 3 del artículo 5 de este Código;
 
-g) Efectuar los cómputos distritales y la declaración de validez de las elecciones de diputados por el principio de mayoría relativa, y el cómputo distrital de la elección de diputados de representación proporcional;
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-h) Realizar el cómputo distrital de la elección de senadores;
+h) Expedir, en su caso la identificación de los representantes de los partidos en un plazo máximo de cuarenta y ocho horas a partir de su registro, y en todo caso, diez días antes de la jornada electoral;
 
-i) Realizar el cómputo distrital de la votación para Presidente de los Estados Unidos Mexicanos;
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-j) Resolver los recursos de revisión, en los términos del Libro Séptimo de este Código; y
+i) Efectuar los cómputos distritales y la declaración de validez de las elecciones de diputados por el principio de mayoría relativa y el cómputo distrital de la elección de diputados de representación proporcional;
 
-k) Las demás que les confiera este Código.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+j) Realizar el cómputo distrital de la elección de senadores;
+
+k) Realizar el cómputo distrital de la votación para Presidente de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+l) Resolver los recursos de revisión, en los términos del Libro Séptimo de este Código; y
+
+m) Las demás que les confiera este Código.
 
 ### CAPITULO CUARTO. De las atribuciones de los Presidentes de los Consejos Distritales
 
@@ -3273,7 +3369,9 @@ ARTICULO 182
 
 ARTICULO 182-A
 
-1. Los gastos de cada campaña electoral que realicen los partidos políticos, las coaliciones y sus candidatos en la propaganda electoral y las actividades de campaña, no podrán rebasar los topes que para cada elección determinen el Consejo General y las Juntas Ejecutivas correspondientes, en los términos de los artículos 82, 100 y 110 de este Código.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+1. Los gastos que realicen los partidos políticos, las coaliciones y sus candidatos, en la propaganda electoral y las actividades de campaña, no podrán rebasar los topes que para cada elección acuerde el Consejo General, y aprueben los Consejos Locales y Distritales correspondientes, en los términos de los artículos 82, 105 y 116 de este Código.
 
 2. Para los efectos de este artículo quedarán comprendidos dentro de los topes de gasto los siguientes conceptos:
 
@@ -3325,7 +3423,9 @@ II. Cada Junta Local sumará la cantidad que se haya fijado como topes de gastos
 
 5. El Consejo General determinará el tope de gastos de campaña a que se refiere el inciso a) del párrafo anterior, así como los valores que se señalan en el inciso b) del mismo párrafo, a más tardar el día último de noviembre del año anterior al de la elección.
 
-6. Las Juntas Distritales y Locales determinarán el tope de gastos de campaña, respectivamente, para diputados de mayoría relativa a más tardar el día 15 de enero y para senadores a más tardar el día 30 de enero del año de la elección.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+6. Los Consejos Distritales y Locales aprobarán el tope de gastos de campaña, respectivamente, para diputados de mayoría relativa a más tardar el día 15 de enero y para senadores a más tardar el día 30 de enero del año de la elección.
 
 ARTICULO 183
 
@@ -3517,13 +3617,17 @@ ARTICULO 197
 
 2. Para la integración de la mesa directiva y ubicación de las casillas especiales, se aplicarán las reglas establecidas en el presente Capítulo.
 
-3. En cada distrito electoral se instalará por lo menos una casilla especial sin que puedan ser más de cinco en el mismo distrito. El Consejo Distrital correspondiente podrá aumentar el número de casillas especiales en el distrito, en atención a la cantidad de municipios comprendidos en su ámbito territorial, a su densidad poblacional y a sus características geográficas. En este caso, las adicionales a las cinco mencionadas, no podrán ser más de siete.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+3. En cada distrito electoral se podrán instalar hasta cinco casillas especiales. El número y ubicación serán determinados por el Consejo Distrital en atención a la cantidad de municipios comprendidos en su ámbito territorial, a su densidad poblacional, y a sus características geográficas y demográficas.
 
 ### CAPITULO CUARTO. Del registro de representantes
 
 ARTICULO 198
 
-1. Los partidos políticos, una vez registrados sus candidatos, fórmulas y listas, y hasta diez días antes del día de la elección, tendrán derecho a nombrar dos representantes propietarios y un suplente, ante cada mesa directiva de casilla, y representantes generales propietarios.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+1. Los partidos políticos, una vez registrados sus candidatos, fórmulas y listas, y hasta trece días antes del día de la elección, tendrán derecho a nombrar dos representantes propietarios y un suplente, ante cada mesa directiva de casilla, y representantes generales propietarios.
 
 2. Los partidos políticos podrán acreditar en cada uno de los distritos electorales uninominales un representante general por cada diez casillas electorales ubicadas en zonas urbanas y uno por cada cinco casillas rurales.
 
@@ -3537,13 +3641,17 @@ a) Ejercerán su cargo exclusivamente ante las mesas directivas de casillas inst
 
 b) Deberán actuar individualmente, y en ningún caso podrá hacerse presente al mismo tiempo en las casillas más de un representante general, de un mismo partido político;
 
-c) No sustituirán en sus funciones a los representantes de los partidos políticos ante las mesas directivas de casilla;
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+c) No sustituirán en sus funciones a los representantes de los partidos políticos ante las mesas directivas de casilla, sin embargo, podrán coadyuvar en sus funciones y en el ejercicio de los derechos de éstos ante las propias mesas directivas de casilla;
 
 d) En ningún caso ejercerán o asumirán las funciones de los integrantes de las mesas directivas de casilla;
 
 e) No obstaculizarán el desarrollo normal de la votación en las casillas en las que se presenten;
 
-f) Sólo podrán presentar escritos de protesta al término del escrutinio y cómputo, cuando el representante de su partido político ante la mesa directiva de casilla no estuviere presente;
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+f) En todo tiempo podrán presentar escritos de incidentes que se susciten durante el desarrollo de la jornada electoral, pero sólo podrán presentar escritos de protesta al término del escrutinio y cómputo cuando el representante de su partido político ante la mesa directiva de casilla no estuviere presente;
 
 g) Sólo podrán solicitar y obtener de las mesas directivas de casilla del distrito para el que fueron nombrados, copias de las actas que se levanten, cuando no hubiere estado presente el representante de su partido político acreditado ante la mesa directiva de casilla; y
 
@@ -3553,7 +3661,9 @@ ARTICULO 200
 
 1. Los representantes de los partidos políticos debidamente acreditados ante las mesas directivas de casilla tendrán los siguientes derechos:
 
-a) Participar en la instalación de la casilla y permanecer en ella hasta su clausura. Tendrán una ubicación que les permita observar y vigilar el desarrollo de la elección; en la medida de lo posible dispondrán de asientos;
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+a) Participar en la instalación de la casilla y contribuir al buen desarrollo de sus actividades hasta su clausura. Tendrán el derecho de observar y vigilar el desarrollo de la elección;
 
 b) Recibir copia legible de las actas de instalación, cierre de votación y final de escrutinio elaboradas en la casilla;
 
@@ -3571,9 +3681,9 @@ ARTICULO 201
 
 1. El registro de los nombramientos de los representantes ante las mesas directivas de casilla y de los representantes generales se hará ante el Consejo Distrital correspondiente, y se sujetará a las reglas siguientes:
 
-> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-a) Dentro de los diez días siguientes al de la publicación de las listas de casillas, los partidos políticos deberán registrar en su propia documentación y ante el Consejo Distrital correspondiente, a sus representantes generales y de casilla. La documentación de que se trata deberá reunir los requisitos que establezca el Consejo General;
+a) A partir del día siguiente al de la publicación de las listas de casilla y hasta trece días antes del día de la elección, los partidos políticos deberán registrar en su propia documentación y ante el Consejo Distrital correspondiente, a sus representantes generales y de casilla. La documentación de que se trata deberá reunir los requisitos que establezca el Consejo General;
 
 > <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 1993)</small>
 
@@ -3615,7 +3725,7 @@ f) Clave de la Credencial para Votar;
 
 g) Firma del representante;
 
-h) Fotografía del representante cuando así lo acuerde el partido político y lo comunique al Consejo Distrital para su inclusión en el nombramiento que al efecto expida;
+h) (DEROGADO, D.O.F. 18 DE MAYO DE 1994)
 
 i) Lugar y fecha de expedición; y
 
@@ -4651,11 +4761,23 @@ ARTICULO 268
 
 ARTICULO 269
 
-1. Los magistrados del Tribunal serán electos por la Cámara de Diputados o, en su caso, por la Comisión Permanente del Congreso de la Unión, a propuesta del Presidente de los Estados Unidos Mexicanos o de la Suprema Corte de Justicia de la Nación, según corresponda, en los términos de los párrafos decimoctavo y decimonoveno del artículo 41 de la Constitución.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
 
-2. El Presidente de los Estados Unidos Mexicanos propondrá una lista de por lo menos dos candidatos para cada uno de los cargos de magistrados para las Salas Central y Regionales del Tribunal. En todo caso, se seguirá el procedimiento previsto en los incisos b) y c) del párrafo 5 del artículo 74 de este Código. Las propuestas señalarán los candidatos para cada Sala.
+1. Los magistrados del Tribunal serán electos por la Cámara de Diputados o, en su caso, por la Comisión Permanente del Congreso de la Unión, a propuesta del Presidente de los Estados Unidos Mexicanos o de la Suprema Corte de Justicia de la Nación, según corresponda, en los términos de los párrafos decimoséptimo y decimonoveno del artículo 41 de la Constitución.
 
-3. Para cubrir las ausencias temporales o definitivas de los magistrados de las Salas Central y Regionales, serán electos seis suplentes de la lista adicional que para ese efecto presente el Presidente de los Estados Unidos Mexicanos. En este caso se aplicará lo dispuesto en el párrafo 2 anterior. Las ausencias definitivas de los magistrados serán cubiertas en el orden que señale la Cámara de Diputados o, en su caso, la Comisión Permanente del Congreso de la Unión al elegir o insacular a los magistrados suplentes.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+2. La elección de los magistrados del Tribunal se realizará conforme a las bases siguientes:
+
+a) El Presidente de los Estados Unidos Mexicanos propondrá una lista de por lo menos dos candidatos para cada uno de los cargos de magistrados para las Salas Central y Regionales del Tribunal;
+
+b) De entre esos candidatos, la Cámara de Diputados elegirá a los magistrados por el voto de las dos terceras partes de sus miembros presentes; y
+
+c) Las propuestas señalarán los candidatos para cada Sala.
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+3. Para cubrir las ausencias temporales o definitivas de los magistrados de las Salas Central y Regionales, serán electos seis suplentes de la lista adicional que para ese efecto presente el Presidente de los Estados Unidos Mexicanos. En este caso se aplicará lo dispuesto en el párrafo 2 anterior. Las ausencias definitivas de los magistrados serán cubiertas en el orden que señale la Cámara de Diputados o, en su caso, la Comisión Permanente del Congreso de la Unión al elegir a los magistrados suplentes.
 
 4. Los magistrados de las Salas Central y Regionales deberán ser electos a más tardar el día último de julio del año anterior al del proceso electoral federal ordinario correspondiente. Los candidatos propuestos para magistrados deberán reunir los requisitos señalados en el artículo 76 de este Código.
 
@@ -4719,7 +4841,11 @@ ARTICULO 271
 
 ARTICULO 272
 
-1. Cuando el Presidente del Consejo General del Instituto o el Presidente del Tribunal Federal Electoral estimen, respectivamente, que ha lugar a la remoción de alguno de los consejeros magistrados o magistrados, el Presidente del Tribunal procederá a integrar la Comisión de Justicia.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+1. Cuando a solicitud del Presidente del Consejo General del Instituto, con el apoyo de cuando menos tres consejeros más, o del Presidente del Tribunal Federal Electoral, se estime, respectivamente, que ha lugar a la remoción de alguno de los consejeros ciudadanos del Consejo General del Instituto o magistrados del Tribunal, el Presidente de este último procederá a integrar la Comisión de Justicia.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 1994)</small>
 
 2. La Comisión de Justicia se integrará por:
 
@@ -4727,11 +4853,15 @@ a) El Presidente del Tribunal Federal Electoral, quien la presidirá;
 
 b) Los dos consejeros de la Cámara de Diputados acreditados ante el Consejo General del Instituto Federal Electoral;
 
-c) Dos consejeros magistrados del Consejo General del Instituto Federal Electoral; y
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+c) Dos consejeros ciudadanos del Consejo General del Instituto Federal Electoral; y
 
 d) Dos magistrados del Tribunal Federal Electoral.
 
-3. Procederá la remoción de los consejeros magistrados y de los magistrados, cuando incurran en conductas graves que sean contrarias a la función que la ley les confiere.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+3. Procederá la remoción de los consejeros ciudadanos del Consejo General del Instituto y de los magistrados del Tribunal, cuando incurran en conductas graves que sean contrarias a la función que la ley les confiere.
 
 4. La Comisión de Justicia observará el derecho de audiencia y sus resoluciones serán definitivas e inatacables.
 
@@ -5073,9 +5203,15 @@ f) Haber mediado dolo o error en la computación de los votos que beneficie a un
 
 g) Permitir sufragar sin Credencial para Votar o a aquellos cuyo nombre no aparezca en la lista nominal de electores, salvo los casos de excepción señalados en el párrafo 5 del artículo 218 y en el artículo 223 de este Código, y siempre que ello sea determinante para el resultado de la votación;
 
-h) Haber impedido el acceso a los representantes de los partidos políticos o haberlos expulsado sin causa justificada y siempre que ello sea determinante para el resultado de la elección; e
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+h) Haber impedido el acceso a los representantes de los partidos políticos o haberlos expulsados (sic) sin causa justificada;
 
 i) Ejercer violencia física o presión sobre los miembros de la mesa directiva de casilla o sobre los electores y siempre que esos hechos sean determinantes para el resultado de la votación.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1994)</small>
+
+j) Se compruebe que se impidió, sin causa justificada, ejercer el derecho de voto a los ciudadanos y esto sea determinante para el resultado de la votación.
 
 ARTICULO 288
 
@@ -6011,7 +6147,7 @@ d) No ser magistrado del Tribunal Superior de Justicia ni del Tribunal de lo Con
 
 e) No ser titular del órgano de gobierno del Distrito Federal, ni titular de las unidades administrativas, órganos desconcentrados o entidades paraestatales de la administración pública del Distrito Federal, a menos que se separe definitivamente de sus funciones noventa días antes de la elección; y
 
-f) No ser senador o diputado federal o local de alguna entidad federativa, a menos que se separe definitivamente de sus funciones noventa días antes de la elección.
+f) (DEROGADO, D.O.F. 18 DE MAYO DE 1994)
 
 ARTICULO 348
 
@@ -6487,13 +6623,17 @@ I.- Se establece la obligación de los ciudadanos de acudir a los módulos que d
 
 Para el efecto se llevará a cabo una amplia campaña de comunicación a fin de convocar y orientar a los ciudadanos.
 
-II.- Conforme al calendario de actividades previsto en este Código, se elaborarán cada una de las listas nominales, tanto para su revisión como para su entrega a los Consejos Locales, con dos apartados: 1) Con los ciudadanos que hayan obtenido su Nueva Credencial para Votar con fotografía hasta el cierre de la inscripción en el Padrón que concluye el 28 de febrero de 1994; y 2) Con los nombres de los ciudadanos inscritos en el Padrón Electoral que no hayan obtenido su Nueva Credencial para Votar con fotografía.
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1994)</small>
 
-Además de cumplir con lo dispuesto por el artículo 156 de esta Ley, las listas nominales se exhibirán en los módulos.
+II.- Conforme al calendario de actividades previsto en este Código, se elaborarán las listas nominales para su revisión por los partidos políticos y la ciudadanía, con dos apartados: 1) Con los ciudadanos que hayan obtenido su Nueva Credencial para Votar con fotografía hasta el cierre de la inscripción en el Padrón que concluye el 28 de febrero de 1994; y 2) Con los nombres de los ciudadanos inscritos en el Padrón Electoral que no hayan obtenido su Nueva Credencial para Votar con fotografía.
 
-III.- Los ciudadanos podrán obtener en los módulos su Nueva Credencial para Votar con fotografía hasta el 17 de julio de 1994, siempre y cuando estén inscritos en el Padrón Electoral.
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1994)</small>
 
-IV.- Para los efectos del párrafo 1 del artículo 217 de este Código, sólo podrán emitir su voto los ciudadanos que habiendo obtenido su Nueva Credencial para Votar con fotografía, la exhiban el día de la jornada electoral, y aparezcan en cualquiera de los dos apartados de la lista nominal.
+III.- Los ciudadanos podrán obtener en los módulos su Nueva Credencial para Votar con fotografía hasta el 12 de junio de 1994, siempre y cuando estén debidamente inscritos en el Padrón Electoral. Las listas nominales que serán entregadas a los Consejos Locales para su distribución a los Consejos Distritales y a través de éstos a las mesas directivas de casilla, contendrán la información de los ciudadanos fotocredencializados hasta el 12 de junio de 1994.
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1994)</small>
+
+IV.- Para el efecto del párrafo 1 del artículo 217 de este Código, sólo podrán emitir su voto los ciudadanos que habiendo obtenido su Nueva Credencial para Votar con fotografía, la exhiban el día de la jornada electoral, y aparezcan en la lista nominal de electores.
 
 TRANSITORIO DEL DECRETO DE PUBLICACION.
 
@@ -6579,7 +6719,9 @@ X. La primera fecha señalada en el párrafo 1 del artículo 159 de este Código
 
 XI. La fecha señalada en el párrafo 3 del artículo 159 de este Código, corresponderá al 15 de mayo;
 
-XII. La fecha señalada en el párrafo 3 del artículo 164 de este Código, corresponderá al 15 de junio;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1994)</small>
+
+XII. La fecha señalada en el párrafo 3 del artículo 164 de este Código, corresponderá al 15 de mayo de 1994.
 
 XIII. La fecha señalada en el párrafo 4 del artículo 174 de este Código, corresponderá al tercer domingo de agosto;
 
@@ -6661,7 +6803,7 @@ Por lo que se refiere a los requisitos que establecen los artículos 88, párraf
 
 ###### ARTICULO DECIMO OCTAVO.
 
-En cada uno de los Consejos Locales y Distritales quedarán vacantes, durante el proceso electoral de 1994, los cargos de tres consejeros ciudadanos de los nueve a que se refieren los párrafos 1 de los artículos 102 y 113.
+(DEROGADO, D.O.F. 18 DE MAYO DE 1994)
 
 D.O.F. 23 DE DICIEMBRE DE 1993.
 
@@ -6686,3 +6828,33 @@ V. La fecha señalada en el párrafo 3 del artículo 372 corresponderá al 14 de
 VI. La fecha señalada en el párrafo 4 del artículo 372 corresponderá al 31 de octubre del año de la elección; y
 
 VII. La fecha señalada en el párrafo 5 del artículo 372 corresponderá al 11 de noviembre del año de la elección.
+
+D.O.F. 18 DE MAYO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+La elección de los Consejeros Ciudadanos del Consejo General del Instituto Federal Electoral deberá ser realizada por la Cámara de Diputados a más tardar tres días después del día de entrada en vigor del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Los Consejeros Ciudadanos que actuarán en el Consejo General del Instituto Federal Electoral para el proceso electoral federal de 1994, durarán en su encargo hasta el 30 de noviembre de 1994, y podrán ser ratificados. La LVI Legislatura de la Cámara de Diputados del H. Congreso de la Unión procederá a ratificar, o en su caso nombrar, a los consejeros ciudadanos para el periodo 1994-2002 en su primer periodo de sesiones ordinarias del primer año de su ejercicio.
+
+###### ARTICULO CUARTO.
+
+Los Consejeros Magistrados que actualmente integran el Consejo General del Instituto Federal Electoral, continuarán en su cargo, hasta en tanto no sean nombrados los Consejeros Ciudadanos que habrán de integrarse al propio Consejo General en los términos dispuestos por el presente Decreto.
+
+###### ARTICULO QUINTO.
+
+En atención a la nueva conformación de los Consejos General, Locales y Distritales del Instituto Federal Electoral y a las características de la participación en los mismos de la representación de los partidos políticos, se autoriza a la Dirección General del Instituto Federal Electoral para adecuar en lo conducente a dicha situación, la documentación de carácter electoral que resulte necesaria y que haya sido aprobada con antelación a la entrada en vigor del presente Decreto.
+
+###### ARTICULO SEXTO.
+
+En razón de las reformas y adecuaciones que por este Decreto se realizan, las referencias a los Consejeros Magistrados que se contengan en los artículos del Código Federal de Instituciones y Procedimientos Electorales, deberán entenderse como hechos a los Consejeros Ciudadanos integrantes del Consejo General. Asimismo y por cuanto a los acuerdos y demás disposiciones emitidas por los diferentes órganos electorales en ejercicio de su competencia y en los cuales se haga mención a la figura de Consejeros Magistrados, deberán entenderse dichas menciones referidas a la nueva figura de Consejeros Ciudadanos integrantes del Consejo General para todos los efectos consiguientes.
+
+###### ARTICULO SEPTIMO.
+
+A los partidos políticos nacionales les será entregada la lista nominal de electores definitiva en los términos señalados por este Código, en medios magnéticos, en cintas de ocho milímetros el 30 de junio de 1994 e impresa en papel a más tardar el 21 de julio de 1994.
