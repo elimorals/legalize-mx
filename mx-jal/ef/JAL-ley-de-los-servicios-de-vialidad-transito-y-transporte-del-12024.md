@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2002-09-28"
+last_updated: "2003-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2003.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -837,9 +837,9 @@ I. Exhibir el documento que acredite la propiedad o posesión legítima del veh�
 
 II. Acreditar el pago de los impuestos y derechos que establezcan las disposiciones fiscales aplicables;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2003)</small>
 
-III. Tratándose de vehículos destinados para la prestación de un servicio público, en su caso, los datos de la concesión, permiso o subrogación;
+III. Tratándose de vehículos destinados para la prestación de un servicio público, en su caso, los datos de la concesión, permiso o subrogación, así como la póliza del seguro que al efecto señala el artículo 67 de esta Ley;
 
 IV. Si existe un registro anterior, acreditar su cancelación y, en su caso, el cambio de propietario;
 
@@ -1273,9 +1273,17 @@ Para los efectos de esta Ley, se considera que no tienen carácter de servicio d
 
 I. El transporte de carga que realicen los productores agropecuarios o las agrupaciones de éstos, legalmente constituidas, en vehículos de su propiedad, para trasladar sus insumos o productos;
 
-II. Los servicios a que se refieren los artículos 86 al 90, de esta Ley, cuando atiendan única y exclusivamente a los fines de la propia empresa o institución; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2003)</small>
 
-III. El servicio de vehículos en arrendamiento, que se preste a personas sin incluir en el contrato los servicios de conductor, mediante el pago de una renta por días, horas o distancia recorrida. Sin embargo, cuando se trate de vehículos que pertenezcan a empresas cuya actividad sea específicamente el arrendamiento de vehículos, tendrán la obligación de registrarlos ante el Registro Estatal de los Servicios Públicos de Tránsito y Transporte.
+II. Los servicios a que se refieren los artículos 86 al 90, de esta Ley, cuando atiendan única y exclusivamente a los fines de la propia empresa o institución;
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2003)</small>
+
+III. El servicio de vehículos en arrendamiento, que se preste a personas sin incluir en el contrato los servicios de conductor, mediante el pago de una renta por días, horas o distancia recorrida. Sin embargo, cuando se trate de vehículos que pertenezcan a empresas cuya actividad sea específicamente el arrendamiento de vehículos, tendrán la obligación de registrarlos ante el Registro Estatal de los Servicios Públicos de Tránsito y Transporte; y
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2003)</small>
+
+IV. El transporte que realicen los particulares de carga ligera en vehículos de uso privado para transportar determinados bienes muebles o enseres de su propiedad.
 
 ###### Artículo 93.
 
@@ -2159,9 +2167,7 @@ III. Falta parcial de luces;
 
 IV. Usar cristales u otros elementos que impidan totalmente la visibilidad hacia el interior del vehículo;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
-
-V. No disponer de un seguro que cubra los posibles daños a terceros;
+V. (DEROGADA, P.O. 13 DE MARZO DE 2003)
 
 > <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
 
@@ -2283,13 +2289,17 @@ XVI. (DEROGADA, P.O. 3 DE ABRIL DE 1999)
 
 XVII. Proferir ofensas al personal operativo de vialidad y tránsito, mismas que deberán ser comprobadas;
 
-> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2003)</small>
 
-XVIII. Rebasar por la derecha; y,
+XVIII. Rebasar por la derecha;
 
-> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2003)</small>
 
-XIX. Cambiar de carril sin precaución.
+XIX. Cambiar de carril sin precaución; y
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2003)</small>
+
+XX. A la persona que conduzca un vehículo de motor en ciclo pistas, zonas peatonales, jardines, plazas y pistas para uso exclusivo de peatones, pudiéndose aplicar sanción alternativa, a elección del infractor, consistente en una jornada de trabajo de índole social, en materia de vialidad y tránsito, a no ser que cuente con la autorización respectiva de la autoridad competente para circular por dichas zonas.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -2313,9 +2323,13 @@ III. (DEROGADA, P.O. 3 DE ABRIL DE 1999)
 
 IV. (DEROGADA, P.O. 3 DE ABRIL DE 1999)
 
-> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2003)</small>
 
-V. Por moverse de lugar de un accidente de colisión, salvo en caso de llegar a un convenio las partes que participaron en dicho evento, o por instrucciones del agente de tránsito.
+V. Por moverse de lugar en un accidente de colisión, salvo en caso de llegar a un convenio las partes que participaron en dicho evento, o por instrucciones del agente de tránsito; y
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2003)</small>
+
+VI. No disponer de un seguro que cubra los posibles daños a terceros, dicha sanción será conmutada si el infractor presenta dentro de los primeros 20 días la póliza de seguro contra daños a terceros a la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte o la que señale el reglamento de la Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -2790,3 +2804,7 @@ P.O. 28 DE SEPTIEMBRE DE 2002.
 Primero.- Este decreto entrará en vigor a los 20 días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 Segundo.- Se otorga un plazo de 30 días hábiles posteriores a la entrada en vigor del presente decreto, a los conductores del servicio de transporte público colectivo de pasajeros que no cuenten con la licencia de conductor de servicio de transporte público expedida por la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte para obtener esta y así evitar el ser sancionados.
+
+P.O. 13 DE MARZO DE 2003.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estad (sic) de Jalisco".
