@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "1990-12-25"
+last_updated: "1991-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1991.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -375,9 +375,11 @@ La base del impuesto será:
 
 I.- Tratándose de bienes inmuebles:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1991)</small>
 
-a) El valor conforme avalúo bancario, de operación o catastral, efectuado este último de acuerdo con lo previsto en el Artículo 33, inciso a) de la presente Ley aplicando los valores unitarios de suelo y construcción vigentes determinados y aprobados de acuerdo con la Ley de Catastro Municipal, el que resulte más alto, reducido en cinco veces el salario mínimo general, elevado al año, de la zona económica en la que se encuentre ubicado el inmueble.
+a) El valor que resulte de actualizar el precio pactado por el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquel en que sea exigible el pago, entre el mencionado índice correspondiente al mes anterior a aquel en que se afectuó la adquisición o el valor conforme avalúo bancario, catastral o de operación que resulte más alto.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 Tratándose de bienes inmuebles adquiridos con créditos de interés social, Fondo de la Vivienda del Banco de México, o construidos por créditos de INFONAVIT, FOVISSSTE, FONHAPO, Banco Nacional del Ejército y de la Armada o Instituciones similares, Federales, Estatales o Municipales, la reducción será de ocho veces el salario mínimo general, elevado al año, de la zona económica en la que se encuentre ubicado el inmueble.
 
@@ -391,17 +393,19 @@ e) Tratándose de cesión de derechos hereditarios o disolución de copropiedad 
 
 f) En los casos de prescripción positiva, será el valor más alto que resulte entre el avalúo catastral y el bancario en su caso.
 
-II.- En caso de reducción de capital, disolución o liquidación de las sociedades a que se refiere el artículo 1o. de la Ley General de Sociedades Mercantiles, el impuesto gravitará sobre el exceso de los bienes distintos a los aportados o sobe (sic) el exceso de la aportación si el pago se hace en numerario.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1991)</small>
+
+II.- En caso de reducción de capital, disolución o liquidación de las Sociedades a que se refiere el artículo 1o. de la Ley General de Sociedades Mercantiles, el impuesto gravitará sobre el exceso de los bienes inmuebles distintos a los aportados o sobre el exceso de la aportación si el pago se hace en numerario.
 
 Cuando del inmueble formen parte departamentos habitacionales o locales comerciales la reducción del salario mínimo se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles.
 
 Para efectuar la reducción a que se refiere este artículo se aplicará el salario mínimo correspondiente al año de calendario en que se esté en los supuestos de pago del impuesto a que se refiere el artículo 28.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1991)</small>
 
 ###### ARTICULO 31.
 
-El impuesto se causará de conformidad con la tasa que establezca la Ley de Ingresos de los Municipios.
+El impuesto se causará de conformidad con la tasa que establezca la Ley de Ingresos de los Municipios del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -427,9 +431,9 @@ Tratándose de operaciones con inmuebles se acompañarán con el aviso los sigui
 
 a) Deslinde catastral con superficie, medidas y colindancias, así como el valor catastral respectivo determinado por las autoridades catastrales, mismas que aplicarán los valores unitarios de suelo y construcciones vigentes en la fecha de operación.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1991)</small>
 
-b) Avalúo bancario tratándose de escrituras públicas.
+b) Avalúo Bancario.
 
 c) Certificado de no adeudo predial.
 
@@ -491,15 +495,21 @@ IV.- Cuando por sentencia o declaración judicial se rescinda o anule un contrat
 
 V.- Cuando previamente se haya cubierto el impuesto al efectuarse ventas con reserva de dominio o sujetas a condición.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 1991)</small>
+
+VI.- Cuando las adquisiciones de inmuebles las hagan los arrendatarios financieros al ejercer la opción de compra en los términos de contrato de arrendamiento financiero.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO 1991)</small>
 
 ###### ARTICULO 35.
 
-Los notarios públicos o funcionarios que hagan sus veces, no autorizarán ninguna escritura en la que se haga constar actos o contratos por los que se adquiera o se transmita la propiedad de bienes inmuebles y de derechos reales, si no se les exhibe el comprobante de pago del impuesto de la Tesorería Municipal o en su caso, la indicación por escrito en el sentido de que no se causa. En los testimonios se hará constar el número oficial del comprobante de pago y el monto del impuesto pagado o la declaración de exención.
+Los Notarios Públicos o Funcionarios, que hagan sus veces, no autorizarán ninguna escritura en la que haga constar actos o contratos por los que se adquiera o se transmita la propiedad de bienes inmuebles y derechos reales, si no se les exhibe el comprobante de pago del impuesto de la Tesorería Municipal. En los testimonios se hará constar el número oficial del comprobante de pago y el monto del impuesto pagado.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1991)</small>
 
 ###### ARTICULO 36.
 
-El Registro Público de la Propiedad no inscribirá ningún acto, contrato o documento que implique adquisición o transmisión de la propiedad de los bienes inmuebles o derechos reales, si no se comprueba el pago del impuesto o la declaración de exención.
+El Registro Público de la Propiedad no inscribirá ningún acto, contrato o documento que implique adquisición o transmisión de la propiedad de los bienes inmuebles o derechos reales, si no se comprueba el pago del impuesto.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -517,15 +527,7 @@ IV.- Los peritos valuadores autorizados que no apliquen correctamente en la valu
 
 ###### ARTICULO 37.
 
-La reducción a que se refiere el artículo 30, Fracción I, inciso a) se realizará conforme a lo siguiente:
-
-I.- Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquiriente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiere adquirido con anterioridad, para que se ajuste el monto de la reducción y pagará en su caso, las diferencias de impuesto que corresponda. Lo dispuesto en esta Fracción no es aplicable a las adquisiciones por causa de muerte.
-
-II.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, a que se re (sic) refiere el artículo 28 de esta Ley, la reducción se hará en la proporción que corresponda a dicha parte.
-
-III.- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
-
-IV.- No se consideran departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos, porterías o guarda de vehículos, aún cuando se utilicen para otros fines.
+(DEROGADO, P.O. 20 DE AGOSTO DE 1991)
 
 ###### ARTICULO 38.
 
@@ -886,3 +888,9 @@ P.O. 25 DE DICIEMBRE DE 1990.
 PRIMERO.- Todos los Peritos Valuadores que ejerzan dicha actividad en el ámbito Estatal, tienen noventa días para registrarse ante la Secretaría de Finanzas y Administrción (sic) del Gobierno del Estado, contados a partir de que entra en vigor el presente Decreto.
 
 SEGUNDO.- Este Decreto empezará a surtir sus efectos al día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE AGOSTO DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
