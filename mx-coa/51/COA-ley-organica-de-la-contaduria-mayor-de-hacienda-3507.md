@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-contaduria-mayor-de-hacienda-3507"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-11-14"
-last_updated: "1998-04-17"
+last_updated: "1998-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 14 de noviembre de 1989.
 
@@ -37,9 +37,13 @@ LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1998)</small>
+
 ###### ARTICULO 1°.
 
-La presente ley es de orden público y tiene por objeto regular la fiscalización, control y evaluación de la actividad financiera del Estado de Coahuila de Zaragoza y de sus municipios, así como de los organismos o instituciones que administren fondos y valores públicos estatales o municipales, que llevará a cabo la Contaduría Mayor de Hacienda, en su carácter de órgano técnico del Congreso del Estado y organismo superior de fiscalización y control gubernamental.
+La presente Ley es de orden público y tiene por objeto regular la fiscalización, control y evaluación de la actividad financiera pública estatal y municipal de Coahuila; así como de los organismos o instituciones que administren fondos y valores públicos estatales o municipales, que llevará a cabo la Contaduría Mayor de Hacienda.
+
+La Contaduría Mayor de Hacienda es el órgano técnico superior de fiscalización y control gubernamental del Congreso del Estado; con personalidad jurídica propia, independencia en sus funciones y autonomía presupuestal para el ejercicio de sus atribuciones.
 
 ###### ARTICULO 2°.
 
@@ -53,13 +57,13 @@ La Comisión de la Contaduría Mayor de Hacienda a que se refiere el artículo a
 
 La Comisión de la Contaduría Mayor de Hacienda del Congreso del Estado, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1998)</small>
 
-I.- Estudiar y aprobar, en su caso, el ejercicio del presupuesto trimestral y revisar las cuentas públicas que presente, sobre sus ingresos y egresos, la Contaduría Mayor de Hacienda;
+I.- Estudiar y dictaminar el proyecto de presupuesto anual de egresos del órgano técnico fiscalizador, a efecto de remitirlo al Presidente de la Gran Comisión para su trámite legislativo correspondiente; así como para recibir las cuentas públicas de la Contaduría Mayor de Hacienda para realizar su dictamen y su presentación al Pleno;
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1998)</small>
 
-II.- Recibir y turnar a la Contaduría Mayor de Hacienda, para su revisión, las cuentas públicas estatales y municipales y elaborar el dictamen de cuenta pública;
+II.- Recibir y turnar a la Contaduría Mayor de Hacienda, para su revisión, las cuentas públicas estatales y municipales así como elaborar el dictamen de cuenta pública, con base en el informe previo que en cada caso remita el Contador Mayor de Hacienda;
 
 III.- Ordenar, en caso de que lo juzgue necesario la práctica de visitas, inspecciones, auditorías o trabajos de investigación adicionales a los contenidos en los programas de trabajo formulados por la Contaduría Mayor de Hacienda;
 
@@ -71,13 +75,19 @@ VI.- Dictar las medidas que estime necesarias para que la Contaduría Mayor de H
 
 > <small>(ADICIONADA, P.O. 17 DE ABRIL DE 1998)</small>
 
-VII.- Solicitar a la Diputación Permanente que convoque a sesiones extraordinarias para analizar, conocer y aprobar, en su caso, las cuentas públicas trimestrales.
+VII.- Solicitar a la Diputación Permanente que convoque a sesiones extraordinarias para analizar, conocer y aprobar, en su caso, las cuentas públicas trimestrales;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+VIII.- Recibir, de la Gran Comisión, la propuesta de la designación del Contador Mayor de Hacienda, para su evaluación, dictamen y posterior presentación al Pleno del Congreso del Estado.
 
 ###### ARTICULO 5°.
 
 Para efectos de esta ley, se entiende por:
 
-I.- Contaduría Mayor de Hacienda: El órgano técnico de fiscalización, control y evaluación de las finanzas públicas del Estado y municipios, dependiente del Congreso del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+I.- Contaduría Mayor de Hacienda: Es el órgano técnico superior de fiscalización, control y evaluación de la actividad financiera y demás operaciones que integren la cuenta pública estatal y municipal de Coahuila, la cual tiene personalidad jurídica propia, independencia en sus funciones y autonomía presupuestal para el ejercicio de sus atribuciones;
 
 > <small>(REFORMADA, P.O. 17 DE ABRIL DE 1998)</small>
 
@@ -103,7 +113,15 @@ IV.- Gasto Público Estatal o Municipal: Las erogaciones por concepto de gasto c
 
 V.- Deuda Pública: La constituida por las obligaciones de pasivo, directas o contingentes, derivadas de financiamientos a cargo de las entidades señaladas en la fracción III de este artículo; y
 
-VI.- Servidores Públicos: Los que se mencionan como tales en la Constitución Política, en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y en los demás ordenamientos legales aplicables.
+VI.- Servidores Públicos: Los que se mencionan como tales en la Constitución Política, en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y en los demás ordenamientos legales aplicables;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+VII.- Informe técnico: Son los documentos que contienen el resultado de las actuaciones que realiza la Contaduría Mayor de Hacienda, en el ámbito de las facultades que le confiere la presente Ley;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+VIII.- Informe previo: Es el documento final que presenta el Contador Mayor de Hacienda a la Comisión Legislativa de la Contaduría Mayor de Hacienda, en el cual se expresan los resultados de la fiscalización de las entidades públicas objeto de esta Ley, para que el mismo documento sea el sustento técnico y jurídico de la resolución correspondiente a considerar por el Pleno del Congreso del Estado.
 
 ###### ARTICULO 6°.
 
@@ -133,25 +151,59 @@ I.- Un Contador Mayor;
 
 II.- Un Sub-Contador;
 
-III.- Jefes de Departamento;
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1998)</small>
 
-IV.- Auditores y Asesores; y
+III.- Un Director Jurídico;
 
-V.- El personal necesario para el cumplimiento de las funciones encomendadas, conforme al reglamento respectivo y el presupuesto aprobado.
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+IV.- Directores de Area;
+
+V.- Jefes de Departamento;
+
+VI.- Auditores y Asesores; y
+
+VII.- El personal necesario para el cumplimiento de las funciones encomendadas, conforme al reglamento respectivo y el presupuesto aprobado.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 1998)</small>
+
+El Contador Mayor de Hacienda será designado para un período de seis años, y será inamovible, al término del cual podrá ser ratificado por una sola vez, para otro período igual. El titular del órgano técnico fiscalizador, deberá permanecer en su cargo al término de su período, hasta que el Pleno del Congreso designe al nuevo titular.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 1998)</small>
+
+El Contador Mayor de Hacienda podrá ser removido sólo por causa grave que juzgará el Pleno del Congreso y que se determinará por el voto calificado de su integrantes.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 1998)</small>
+
+Podrá separarse del cargo por: Conclusión del período para el que fue designado, incapacidad legal para ejercer su encargo, así como por enfermedad evidente y dictaminada.
 
 ###### ARTICULO 10.
 
 Para ser Contador Mayor de Hacienda se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+I.- Ser mexicano por nacimiento, en pleno ejercicio de sus derechos y residente del Estado de Coahuila al menos cinco años anteriores al día de su designación;
+
+> <small>(F. DE E., P.O. 10 DE JULIO DE 1998)</small>
 
 II.- Haber cumplido 30 años de edad para el día de su designación;
 
-III.- Poseer el grado académico de licenciatura, haber ejercido la profesión por un término de 5 años y contar con amplios conocimientos contables y financieros;
+(REFORMADA, P.O. 30 DE JUNIO DE 1998) (F. DE E., P.O. 10 DE JULIO DE 1998)
+
+III.- Poseer por lo menos el grado académico de licenciatura dentro del área contable o financiera y haber ejercido la profesión por 5 años o más;
 
 IV.- No desempeñar ningún otro empleo, cargo o comisión, excepción hecha de los cargos honoríficos y docentes; y
 
-V.- Gozar de buena reputación, y no haber sido condenado por delito intencional que amerite pena corporal de mas de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+V.- Gozar de buena reputación, y no haber sido condenado por delito intencional que amerite pena corporal de mas de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+VI.- No pertenecer a ningún partido político, ni haber desempeñado cargo de elección popular;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+VII.- No ser ministro de culto religioso.
 
 ###### ARTICULO 11.
 
@@ -165,17 +217,23 @@ La Contaduría Mayor de Hacienda se comunicará con el Congreso a través de la 
 
 El Contador Mayor tendrá las siguientes facultades y atribuciones:
 
-I.- Representar a la Contaduría Mayor ante toda clase de autoridades, y personas físicas y morales;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+I.- Representar a la Contaduría Mayor de Hacienda ante toda clase de autoridades y personas físicas y morales; así como acordar y resolver los recursos de inconformidad y todo asunto que por escrito le traten, disponiendo el trámite que deba darse a cada uno;
 
 II.- Planear, organizar, dirigir y controlar la organización interna del trabajo de la dependencia;
 
-III.- Acordar y resolver los asuntos que por escrito se traten, disponiendo el trámite que deba darse a cada uno;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+III.- Presentar a la Gran Comisión del Congreso del Estado, las propuestas para que se expidan los nombramientos de los cargos siguientes: Sub-Contador Mayor de Hacienda, Director Jurídico y Directores de Area.
+
+Designar y remover al resto del personal adscrito a la Contaduría Mayor de Hacienda;
 
 IV.- Fijar las normas técnicas y los procedimientos a que deban sujetarse las visitas, inspecciones y auditorías que se ordenen, las que se actualizarán de acuerdo con los avances científicos y técnicos que en materia se produzcan;
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1998)</small>
 
-V.- Informar a la Comisión de la Contaduría Mayor de Hacienda, sobre los trabajos ejecutados por esta dependencia durante cada período trimestral, con la expresión que guardan las glosas de las cuentas públicas;
+V.- Rendir en el mes de diciembre a la Comisión de la Contaduría Mayor de Hacienda, un informe anual y por escrito, de las actividades desarrolladas por la dependencia durante el ejercicio fiscal anterior, con la expresión que guardan las glosas de las cuentas;
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 1997)</small>
 
@@ -183,17 +241,41 @@ VI.- Fijar los plazos prudentes que no excederán de treinta días para que los 
 
 VII.- Requerir de las oficinas correspondientes, la información contable y financiera que sea necesaria para cumplir con los objetivos de la Contaduría Mayor de Hacienda;
 
-VIII.- Firmar los finiquitos de las cuentas glosadas;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+VIII.- Firmar los finiquitos de las cuentas públicas aprobadas y expedir a la entidad constancia certificada de "cuenta pública aprobada";
 
 IX.- Designar por sí, o a petición de la Comisión de la Contaduría Mayor de Hacienda, a los visitadores o auditores que deban practicar visitas de inspección, arqueo de fondos y auditorías, en las entidades a que se refiere la fracción III del Artículo 5o. de esta ley; y
 
-X.- Proponer a la Gran Comisión el nombramiento y remoción del personal adscrito a la dependencia.
+X.- Proponer a la Gran Comisión el nombramiento y remoción del personal adscrito a la dependencia;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+XI.- Ejercitar las acciones antes las autoridades competentes por las irregularidades de las que estime exista la responsabilidad conducente y que resulten de la revisión de las cuentas públicas;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+XII.- Presentar el presupuesto anual de egresos, el programa anual de trabajo de la dependencia y la cuenta pública del órgano técnico fiscalizador, a la Comisión de la Contaduría Mayor de Hacienda del Congreso;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+XIII.- Coordinarse con los órganos de control interno de las entidades, a fin de optimizar recursos y eficientar sus programas de trabajo;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+XIV.- Dar crédito a los dictámenes de contadores públicos y auditores externos, mediante la evaluación de sus programas y papeles de trabajo de la revisión practicada, sin demérito de ampliar el alcance de la auditoría cuando lo estime necesario;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+XV.- Llevar un registro de todos los despachos de contadores públicos y auditores externos que presten sus servicios a las entidades públicas.
 
 ###### ARTICULO 14.
 
 Son facultades y obligaciones del Sub-Contador:
 
-I.- Suplir las faltas temporales del Contador Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+I.- Suplir las ausencias del Contador Mayor de Hacienda;
 
 II.- Elaborar de acuerdo con el Contador Mayor, los formularios y modelos que estime convenientes, para uniformar o mejorar los sistemas de trabajo de la Contaduría Mayor de Hacienda;
 
@@ -209,9 +291,11 @@ Los requisitos para el nombramiento, así como las facultades y obligaciones del
 
 ### CAPITULO TERCERO. DE SU OBJETIVO Y SUS FUNCIONES
 
+(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 1998) (F. DE E., P.O. 10 DE JULIO DE 1998)
+
 ###### ARTICULO 16.
 
-La Contaduría Mayor de Hacienda, tiene por función revisar y glosar la cuenta anual del erario del Estado, de los ayuntamientos de las entidades paraestatales y paramunicipales, así como la de las instituciones u oficinas que manejen fondos, valores o subsidios del Estado.
+La Contaduría Mayor de Hacienda, tiene por función revisar la cuenta pública trimestral del Gobierno del Estado, de los ayuntamientos, de las entidades paraestatales y paramunicipales, así como de las instituciones u oficinas que manejen fondos, valores o subsidios estatales y/o municipales.
 
 El examen comprenderá, no sólo la comprobación de las partidas de egresos e ingresos, sino que, también incluirá una revisión legal y contable de dichas partidas, cuidando que estén debidamente justificadas y comprobadas.
 
@@ -239,9 +323,9 @@ c).- La comprobación de si las entidades se ajustaron a los criterios señalado
 
 d).- El análisis de los subsidios, las transferencias, los apoyos para operación e inversión, las erogaciones adicionales y otras erogaciones o conceptos similares;
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1998)</small>
 
-III.- Presentar el informe previo, dentro de los quince días siguientes a su recepción, sobre el resultado de las cuentas públicas, estatales y municipales, a la Comisión de la Contaduría Mayor de Hacienda y, por su conducto, al Congreso del Estado;
+III.- Presentar el informe previo, dentro de los cuarenta y cinco días siguientes a su recepción, sobre el resultado de la revisión de las cuentas públicas estatales y municipales, a la Comisión de la Contaduría Mayor de Hacienda y, por su conducto, al Pleno del Congreso del Estado;
 
 IV.- Fiscalizar los subsidios concedidos por el Gobierno Estatal o Municipal, a los organismos paraestatales o paramunicipales; a las instituciones o a las personas físicas o morales, cualquiera que sean los fines de su destino, así como verificar su aplicación al objeto autorizado;
 
@@ -273,15 +357,21 @@ La Contaduría Mayor de Hacienda al revisar la Cuenta Pública del Gobierno del 
 
 Para los efectos de esta ley, la Cuenta Pública del Gobierno del Estado y los municipios de la entidad, está constituida por los estados contables y financieros y de más información, que muestre el registro de las operaciones de la recaudación de los ingresos y del ejercicio de los presupuestos de egresos, la incidencia de las mismas operaciones y de otras cuentas en el activo y pasivo totales de la hacienda pública estatal y municipal, y en su patrimonio neto, incluyendo el origen y aplicación de los recursos así como el resultado de las operaciones que verificaron los estados detallados de la deuda pública estatal y municipal.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 22.
 
-La Cuenta Pública que presente el Gobierno estatal y los Municipios de la entidad, será turnada por la Comisión de la Contaduría Mayor de Hacienda al órgano técnico fiscalizador del Congreso del Estado por períodos trimestrales, mismos que comprenderán del primero de enero al último de marzo, del primer de abril al último de junio, del primero de julio al último de septiembre y del primero de octubre al último de diciembre.
+La Cuenta Pública que presenten las entidades a que se refiere esta Ley, será turnada por la Comisión de la Contaduría Mayor de Hacienda al Contador Mayor, para su revisión correspondiente en los términos del primer párrafo del artículo 27 de este ordenamiento. La Cuenta Pública se presentará por períodos trimestrales, mismos que comprenderán del primero de enero al último de marzo, del primero de abril al último de junio, del primero de julio al último de septiembre y del primero de octubre al último de diciembre.
+
+Una vez que el Pleno del Congreso del Estado, apruebe la cuenta pública de una entidad, el Contador Mayor de Hacienda firmará el finiquito, debiendo entregar a la propia entidad constancia certificada de "cuenta pública aprobada".
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 23.
 
-Las entidades pondrán a disposición de la Contaduría Mayor de Hacienda, los datos, libros y documentos justificantes y comprobatorios del ingreso y del gasto público.
+Las entidades pondrán a disposición de la Contaduría Mayor de Hacienda, los datos, sistemas de informática, información computarizada, libros y documentos que justifiquen y comprueben el ingreso y el gasto público. La comprobación del ingreso y del gasto se realizará conforme a las normas básicas que de manera general determine la Contaduría Mayor de Hacienda en un "Manual de Procedimientos para la Revisión de Cuentas Públicas", el que deberá ser aprobado por la comisión legislativa de la Contaduría y dado a conocer al Congreso y a las entidades.
+
+De igual forma, las entidades tendrán la obligación de proporcionar toda la información relativa a la ejecución de obras y prestación de servicios públicos, en la que se hayan invertido recursos estatales o municipales, a efecto de contar los elementos necesarios para la fiscalización tanto documental como física.
 
 ###### ARTICULO 24.
 
@@ -305,17 +395,33 @@ II.- Determinar si las entidades auditadas cumplieron en la recaudación de los 
 
 III.- Revisar si las entidades alcanzaron con eficiencia los objetivos de los programas aprobados, en relación con los recursos humanos, materiales y financieros asignados.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1998)</small>
+
 ###### ARTICULO 27.
 
-Las visitas, inspecciones y auditorías ordenadas por la Contaduría Mayor de Hacienda, se efectuarán por un auditor y el personal expresamente comisionado para el efecto. El auditor tendrá el carácter de representante del Contador Mayor en lo concerniente a la comisión conferida.
+Las visitas, inspecciones y auditorías ordenadas por la Contaduría Mayor de Hacienda, se practicarán bajo la supervisión del titular de la Contaduría Mayor y serán responsabilidad de las Direcciones de Area del órgano técnico fiscalizador el cumplimentarlas, atendiendo a los propósitos de esta Ley, por lo tanto sus informes técnicos estarán dotados de valor probatorio pleno.
+
+Las entidades tendrán el derecho de proveerse de asistencia técnica especializada para la práctica de las diligencias a que se refiere este artículo, la que deberán acreditar oportunamente y por escrito ante el órgano técnico fiscalizador.
+
+Las inconformidades de las entidades, con relación al resultado del informe técnico, se presentarán por escrito ante el Contador Mayor dentro de los diez días hábiles siguientes a su notificación. En el escrito se ofrecerán los medios de prueba, se expresarán los motivos de la inconformidad y conceptos de violación, para que el Contador resuelva antes de elaborar el informe previo.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 28.
 
 Las entidades están obligadas a proporcionar a la Contaduría Mayor de Hacienda, la información que les solicite y permitir la práctica de visitas, inspecciones y auditorías.
 
+> <small>(F. DE E. P.O. 30 DE JUNIO DE 1998)</small>
+
+Si alguna entidad se negare a proporcionar la información solicitada o se negare a facilitar la revisión de libros, sistemas de informática, instrumentos o documentos de comprobación y justificación, el área de órgano técnico fiscalizador responsable de la diligencia lo hará constar en su informe técnico, a efecto de que el Contador Mayor de Hacienda lo comunique a la Comisión Legislativa correspondiente del Congreso, para que ésta proceda conforme a la Ley.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1998)</small>
+
 ###### ARTICULO 29.
 
-Si alguna de las entidades se negare a proporcionar la información solicitada por la Contaduría Mayor de Hacienda, o a permitirle la revisión de los libros, instrumentos o documentos comprobatorios y justificativos, ésta lo hará del conocimiento del Congreso del Estado, a través de la comisión respectiva.
+Para la práctica de las actuaciones a que se refiere el artículo anterior y el 27, el Contador Mayor de Hacienda determinará con precisión el objeto, lugar, fecha y hora de la diligencia fiscalizadora y notificar por escrito, con tres días de anticipación a la entidad pública. En el mismo acto acreditará al Director o Directores de Area responsables de su cumplimiento.
+
+Las entidades recibirán de la Contaduría Mayor de Hacienda, una copia del informe técnico al término de la diligencia.
 
 ### CAPITULO SEPTIMO. DE LAS RESPONSABILIDADES
 
@@ -462,3 +568,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 30 DE JUNIO DE 1998.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Congreso del Estado asignará el presupuesto correspondiente al segundo semestre del ejercicio de 1998 a la Contaduría Mayor de Hacienda, mediante la aprobación de una ampliación de partidas al programa de la función legislativa del presupuesto de egresos del presente año.
+
+Artículo Tercero.- En tanto se designe al Contador Mayor de Hacienda; continuará en el cargo quien actualmente se desempeñe como tal.
+
+Artículo Cuarto.- Se derogan todas las disposiciones que contravengan el sentido de la presente reforma.
