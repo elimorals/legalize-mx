@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-bienes-del-estado-de-baja-california-3423"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-07-31"
-last_updated: "1997-02-21"
+last_updated: "1998-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1998.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de julio de 1973.
 
@@ -181,9 +181,9 @@ Si el afectado estuviese conforme con el monto de la indemnización, la cantidad
 
 Los bienes de dominio público podrán ser enajenados, previo Decreto de desincorporación que expida la Legislatura del Estado, cuando por algún motivo dejen de servir para el fin señalado en dicha disposición.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
-La iniciativa de Decreto por la que se solicite la desincorporación deberá acompañarse de avalúo practicado por la Comisión Estatal de Avalúos.
+La iniciativa de Decreto por medio de la cual se solicite la desincorporación, estipulará el destino que se le dará al producto que se obtenga de la enajenación, y deberá acompañarse de avalúo practicado por la Comisión Estatal de Avalúos.
 
 ###### ARTICULO 17.
 
@@ -347,9 +347,9 @@ IV.- En los demás casos en que la enajenación se justifique por razones de int
 
 No podrán ser enajenados inmuebles de dominio privado del Estado, a favor de ningún funcionario federal, estatal o municipal, sus cónyuges, sus parientes consanguíneos en línea recta, sin limitación de grado, los colaterales hasta el cuarto y los afines hasta el segundo. Las enajenaciones que se efectúen en contravención de esta prohibición, serán nulas de pleno derecho.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
-La Iniciativa de Decreto por la que se solicite la desincorporación deberá acompañarse de avalúo practicado por la Comisión Estatal de Avalúos.
+La iniciativa de Decreto por la que se solicite la autorización previa del Congreso del Estado para la enajenación de bienes, estipulará el destino que se le dará al producto que se obtenga de la enajenación, y deberá acompañarse de avalúo practicado por la Comisión Estatal de Avalúos.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
 
@@ -566,3 +566,9 @@ P.O. 21 DE FEBRERO DE 1997.
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 27 DE NOVIEMBRE DE 1998.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto de reforma entrará en vigor a partir del día siguiente a la fecha de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
