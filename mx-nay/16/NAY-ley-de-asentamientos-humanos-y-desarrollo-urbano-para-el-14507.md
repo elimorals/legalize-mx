@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-asentamientos-humanos-y-desarrollo-urbano-para-el-14507"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-19"
-last_updated: "2001-04-26"
+last_updated: "2002-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2002.
 
 Ley publicada en la Tercera Sección del Periódico Oficial, el miércoles 19 de mayo de 1999.
 
@@ -2453,7 +2453,7 @@ Son obligaciones de los titulares de un fraccionamiento respecto del mismo, las 
 
 I. Ceder a título gratuito al Ayuntamiento, las superficies de terreno determinadas como vías públicas en el Proyecto de fraccionamiento;
 
-II. Ejecutar las obras de urbanización y equipamiento conforme a las características, especificaciones y calidad que se autoricen en el Proyecto definitivo aprobado, y dentro del plazo que fije el respectivo acuerdo de autorización, incluyendo las complementarias y la plantación de arbolado;
+II. Ejecutar las obras de urbanización y equipamiento conforme a las características, especificaciones y calidad que se autoricen en el Proyecto definitivo aprobado, y dentro del plazo que fije el respectivo acuerdo de autorización, incluyendo las complementarias y la plantación de arbolado:
 
 III. Otorgar las garantías conducentes a efecto de asegurar la ejecución adecuada de las obras de urbanización y el cumplimiento de cada una de las obligaciones que le correspondan. El fraccionador otorgará a favor del Ayuntamiento la correspondiente garantía o fianza con un monto del 10% del presupuesto total de las obras;
 
@@ -3105,51 +3105,39 @@ Para el cumplimiento de las medidas de seguridad y de las sanciones a que se ref
 
 ### CAPÍTULO III. DE LOS RECURSOS ADMINISTRATIVOS
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 ###### ARTÍCULO 265.
 
-Las resoluciones que dicten las autoridades competentes con base en lo dispuesto en esta Ley, podrán ser impugnadas por los afectados mediante el recurso de inconformidad.
+Contra las resoluciones y actos administrativos de las autoridades que contravengan lo previsto en este ordenamiento, podrá interponerse el recurso administrativo de inconformidad o el juicio ante el Tribunal de Justicia Administrativa, en términos de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
 
 ###### ARTÍCULO 266.
 
-El plazo para interponer el recurso será de quince día hábiles, contados a partir del día siguiente a aquel en que se hubiere notificado la resolución o ejecutado el acto correspondiente, debiéndose interponer ante la autoridad que dictó o ejecutó la determinación impugnada.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTÍCULO 267.
 
-El escrito en que se interponga el recurso contendrá:
-
-I. El nombre y domicilio del recurrente, y en su caso de quien promueve en su nombre, debiendo acompañar al escrito los documentos que acrediten su personalidad. Si fueren varios los recurrentes, el nombre y domicilio de su representante común;
-
-II. La mención precisa de la oficina o autoridad de las que emane el acto recurrido con indicación precisa en qué consiste, citando las fechas y números de oficio o documentos en que conste la resolución impugnada;
-
-III. La fecha en que se notificó o ejecutó la resolución o acto que se impugna;
-
-IV. Los hechos y consideraciones en que funde su impugnación;
-
-V. Las pruebas que ofrezca, las cuales se deberán relacionar con cada uno de los puntos controvertidos;
-
-VI. Los agravios que le cause el acto o resolución impugnado; y
-
-VII. Los fundamentos legales en que se apoye la impugnación.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTÍCULO 268.
 
-Recibido el recurso, la autoridad que deba conocer lo revisará y admitirá si está presentado en tiempo y reúne los requisitos previstos en el artículo anterior, pero si el escrito por el cual se interpone fuere obscuro o irregular, la autoridad recurrida prevendrá al recurrente, por una sola vez, para que lo aclare, corrija o complete, señalándole las deficiencias en que hubiere incurrido, apercibiéndole que de no subsanarlas dentro del término de 5 días hábiles, contados a partir de la notificación correspondiente, el recurso se desechará de plano.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTÍCULO 269.
 
-En la tramitación del recurso se admitirán y desahogarán toda clase de pruebas, con excepción de la confesional. Las documentales deberán ser ofrecidas exhibiendo los documentos correspondientes, los cuales se acompañarán al escrito inicial y las restantes serán desahogadas en un plazo que no excederá de 30 días, aplicándose en lo conducente y en lo relativo a su valoración, las reglas del Código de Procedimientos Civiles para el Estado.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTÍCULO 270.
 
-Concluido el término de desahogo de pruebas y debidamente integrado el expediente, la autoridad que conozca del recurso pronunciará resolución definitiva dentro del plazo de 30 días naturales a partir de dicho momento.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTÍCULO 271.
 
-Las autoridades, una vez interpuesto el recurso, si la naturaleza del acto, determinación o resolución lo permite, podrá suspender su ejecución, siempre y cuando lo solicite el recurrente y no se contravengan disposiciones de orden público, ni se cause perjuicio al interés general, y en caso de multas se garanticen las mismas.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTÍCULO 272.
 
-Contra las resoluciones que resuelvan el recurso, no procederá medio de defensa alguno.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ## TÍTULO DECIMO SEGUNDO
 
@@ -3236,3 +3224,31 @@ Lic. Sigfrido De la Torre Miramontes
 P.O. 26 DE ABRIL DE 2001
 
 Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 17 DE AGOSTO DE 2002
+
+Primero.- El presente decreto entrará en vigor a los cuarenta y cinco días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con excepción del Título Cuarto del ARTICULO PRIMERO de este decreto, el cual entrará en vigor el primer día del mes de enero del año 2003.
+
+El artículo 71 a que se refiere el ARTICULO PRIMERO del presente decreto, iniciará su vigencia el primero de enero del año 2003, a fin de que tanto el Poder Ejecutivo del estado como los Ayuntamientos expidan, antes de esta fecha, sus correspondientes reglamentos para el cobro y aplicación de gastos de ejecución, de conformidad con lo establecido en dicho artículo.
+
+Segundo.- El Gobernador dentro de los quince días siguientes a la entrada en vigor del presente decreto, en los términos a que se hace referencia el artículo 135 de la Ley de Justicia y Procedimientos Administrativos, someterá a la consideración del Congreso la lista de candidatos a magistrados, a fin de que el Congreso proceda a su designación.
+
+Tercero.- Los magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit a más tardar el día quince del mes de noviembre del año 2002 preverán lo conducente a efecto de elegir a su presidente; preparar el proyecto de presupuesto que habrán de remitir al titular del Poder Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; elaborar y aprobar su reglamento interior; convocar a los procesos de selección y contratación del demás personal; aprobar el calendario laboral del Tribunal y, prevenir todo lo conducente para el inicio de su funcionamiento.
+
+En todo caso, la primera sesión de la sala del Tribunal de Justicia Administrativa del estado de Nayarit se llevará a cabo el día dos de enero del año 2003, en la cual se habrán de ratificar sus acuerdos previos.
+
+El Reglamento Interior y el calendario laboral del Tribunal de Justicia Administrativa del Estado de Nayarit, una vez aprobados por los magistrados, deberán publicarse debiendo iniciar su vigencia el día primero (sic) del año 2003.
+
+Cuarto.- El Gobernador del Estado por conducto de la Secretaría de Finanzas proverá lo necesario en cuanto a recursos financieros y materiales para el inicio del funcionamiento del Tribunal de Justicia Administrativa del Estado de Nayarit, en tanto se integra el presupuesto de éste, en el Presupuesto de Egresos del Estado.
+
+Quinto.- Los procedimientos y recursos administrativos que se encuentren en trámite al entrar en vigor esta resolución, se substanciarán de conformidad a las disposiciones legales anteriores al mismo.
+
+Sexto.- El Poder Ejecutivo y los Ayuntamientos del estado deberán prever que sus respectivos proyectos de leyes de ingresos del año 2003 y siguientes; se ajusten a lo establecido en el en el (sic) artículo 71 del ARTÍCULO PRIMERO de este decreto, en tanto no se modifique su contenido.
+
+Asimismo, realizarán las acciones necesarias para que en sus respectivos presupuestos de egresos se considere, a partir del año 2003, una partida específica para el pago de la responsabilidad patrimonial por los daños y perjuicios en que pudieren incurrir sus servidores públicos.
+
+Igualmente, en un plazo no mayor de 120 días contados a partir de la entrada en vigor de esta resolución, adecuarán sus reglamentos y demás ordenamientos a fin de que sean acordes a lo establecido por el mismo.
+
+Séptimo.- El Congreso del Estado, en coordinación con el Poder Ejecutivo y los Ayuntamientos del estado, dispondrán los recursos humanos y financieros para que a partir de la publicación de este decreto, su contenido se difunda ampliamente entre los servidores públicos estatales y municipales, así como entre la población en general de toda la entidad.
+
+En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por conducto del Periódico Oficial de al menos 2000 ejemplares para que se difundan entre todas las dependencias de la administración pública estatal, los Ayuntamientos y la población en general.
