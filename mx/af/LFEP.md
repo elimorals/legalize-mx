@@ -1,0 +1,585 @@
+---
+title: "LEY FEDERAL DE LAS ENTIDADES PARAESTATALES"
+identifier: "LFEP"
+country: "mx"
+rank: "ley_federal"
+publication_date: "1986-05-14"
+last_updated: "1986-05-14"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=292&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "292"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "LEY"
+original_gazette_section: "8"
+reform_count: "18"
+scjn_last_update: "2025-07-16"
+issue_date: "1986-04-26"
+abbreviation: "LFEP"
+---
+# LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
+
+LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+MIGUEL DE LA MADRID H., Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
+
+Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
+
+DECRETO
+
+"El Congreso de los Estados Unidos Mexicanos, decreta:
+
+LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
+
+### CAPITULO I. De las Disposiciones Generales
+
+###### ARTICULO 1o.
+
+La presente Ley, Reglamentaria en lo conducente del artículo 90 de la Constitución Política de los Estados Unidos Mexicanos, tiene por objeto regular la organización, funcionamiento y control de las entidades paraestatales de la Administración Pública Federal.
+
+Las relaciones del Ejecutivo Federal, o de sus dependencias, con las entidades paraestatales, en cuanto unidades auxiliares de la Administración Pública Federal, se sujetarán, en primer término, a lo establecido en esta Ley y sus disposiciones reglamentarias y, sólo en lo no previsto, a otras disposiciones según la materia que corresponda.
+
+###### ARTICULO 2o.
+
+Son entidades paraestatales las que con tal carácter determina la Ley Orgánica de la Administración Pública Federal.
+
+###### ARTICULO 3o.
+
+Las universidades y demás instituciones de educación superior a las que la Ley otorgue autonomía, se regirán por sus leyes específicas.
+
+La Procuraduría Federal del Consumidor, atendiendo a su objetivo y a la naturaleza de sus funciones queda excluída de la observancia del presente ordenamiento.
+
+###### ARTICULO 4o.
+
+El Banco de México, las sociedades nacionales de crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y fianzas, los fondos y fideicomisos públicos de fomento así como las entidades paraestatales que formen parte del sistema financiero, quedan sujetas por cuanto a su constitución, organización, funcionamiento, control, evaluación y regulación a su legislación específica. Les será aplicable esta Ley en las materias y asuntos que sus leyes específicas no regulen.
+
+###### ARTICULO 5o.
+
+El Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Instituto de Seguridad Social de las Fuerzas Armadas y los demás organismos de estructura análoga que hubiere, se seguirán rigiendo por sus leyes específicas en cuanto a las estructuras de sus órganos de gobierno y vigilancia, pero en cuanto a su funcionamiento, operación, desarrollo y control, en lo que no se oponga a aquellas leyes específicas se sujetarán a las disposiciones de la presente Ley.
+
+Aquellas entidades que además de Organo de Gobierno, Dirección General y Organo de Vigilancia cuenten con patronatos, comisiones ejecutivas o sus equivalentes, se seguirán rigiendo en cuanto a estos órganos especiales de acuerdo a sus leyes u ordenamientos relativos.
+
+###### ARTICULO 6o.
+
+Para los efectos de esta Ley, se consideran áreas estratégicas las expresamente determinadas en el párrafo cuarto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y las actividades que expresamente señalen las leyes que expida el Congreso de la Unión.
+
+Se consideran áreas prioritarias las que se establezcan en los términos de los artículos 25, 26 y 28 de la propia Constitución, particularmente las tendientes a la satisfacción de los intereses nacionales y necesidades populares.
+
+###### ARTICULO 7o.
+
+Las entidades paraestatales correspondientes al Distrito Federal quedarán sujetas a las disposiciones de esta Ley.
+
+###### ARTICULO 8o.
+
+Corresponderá a los titulares de las Secretarías de Estado o Departamentos Administrativos encargados de la coordinación de los sectores, establecer políticas de desarrollo para las entidades del sector correspondiente, coordinar la programación y presupuestación de conformidad, en su caso, con las asignaciones sectoriales de gasto y financiamiento previamente establecidas y autorizadas, conocer la operación y evaluar los resultados de las entidades paraestatales y las demás atribuciones que les conceda la Ley.
+
+###### ARTICULO 9o.
+
+Las Secretarías de Hacienda y Crédito Público y de Programación y Presupuesto tendrán miembros en los órganos de Gobierno y en su caso en los comités técnicos de las entidades paraestatales. También participarán las otras dependencias y entidades, en la medida en que tengan relación con el objeto de la entidad paraestatal de que se trate; todas ellas de conformidad a su esfera de competencia y disposiciones relativas en la materia.
+
+Los representantes de las Secretarías y de las entidades paraestatales, en las sesiones de los órganos de gobierno o de los comités técnicos en que intervengan, deberán pronunciarse sobre los asuntos que deban resolver dichos órganos o comités de acuerdo con las facultades que les otorga esta Ley, particularmente el artículo 58 y que se relacionen con la esfera de competencia de la dependencia o entidad representada.
+
+Las entidades paraestatales deberán enviar con una antelación no menor de cinco días hábiles a dichos miembros el orden del día acompañado de la información y documentación correspondientes, que les permita el conocimiento de los asuntos que se vayan a tratar, para el adecuado ejercicio de su representación.
+
+###### ARTICULO 10.
+
+Las entidades paraestatales deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas, la información y datos que les soliciten así como los que les requieran las Secretarías de Estado y Departamentos Administrativos.
+
+Para el cumplimiento de lo anteriormente establecido, la coordinadora de sector conjuntamente con las Secretarías de Programación y Presupuesto, de Hacienda y Crédito Público, y de la Contraloría General de la Federación, harán compatibles los requerimientos de información que se demanden a las dependencias y entidades paraestatales racionalizando los flujos de información.
+
+###### ARTICULO 11.
+
+Las entidades paraestatales gozarán de autonomía de gestión para el cabal cumplimiento de su objeto, y de los objetivos y metas señalados en sus programas. Al efecto, contarán con una administración ágil y eficiente y se sujetarán a los sistemas de control establecidos en la presente Ley y en lo que no se oponga a ésta a los demás que se relacionen con la Administración Pública.
+
+###### ARTICULO 12.
+
+La Secretaría de Programación y Presupuesto publicará anualmente en el Diario Oficial de la Federación, la relación de las entidades paraestatales que formen parte de la Administración Pública Federal.
+
+###### ARTICULO 13.
+
+Las infracciones a esta Ley serán sancionadas en los términos que legalmente correspondan atendiendo al régimen de responsabilidades de los servidores públicos federales.
+
+### CAPITULO II. De los Organismos Descentralizados
+
+SECCION A
+
+Constitución, Organización y Funcionamiento
+
+###### ARTICULO 14.
+
+Son organismos descentralizados las personas jurídicas creadas conforme a lo dispuesto por la Ley Orgánica de la Administración Pública Federal y cuyo objeto sea:
+
+I. La realización de actividades correspondientes a las áreas estratégicas o prioritarias;
+
+II. La prestación de un servicio público o social; o
+
+III. La obtención o aplicación de recursos para fines de asistencia o seguridad social.
+
+###### ARTICULO 15.
+
+En las leyes o decretos relativos que se expidan por el Congreso de la Unión o por el Ejecutivo Federal para la creación de un organismo descentralizado se establecerán, entre otros elementos:
+
+I. La denominación del organismo;
+
+II. El domicilio legal;
+
+III. El objeto del organismo conforme a lo señalado en el artículo 14 de esta Ley;
+
+IV. Las aportaciones y fuentes de recursos para integrar su patrimonio así como aquellas que se determinen para su incremento;
+
+V. La manera de integrar el Organo de Gobierno y de designar al Director General así como a los servidores públicos en las dos jerarquías inferiores a éste;
+
+VI. Las facultades y obligaciones del Organo de Gobierno señalando cuáles de dichas facultades son indelegables;
+
+VII. Las facultades y obligaciones del Director General, quien tendrá la representación legal del Organismo;
+
+VIII. Sus Organos de Vigilancia así como sus facultades; y
+
+IX. El régimen laboral a que se sujetarán las relaciones de trabajo.
+
+El órgano de Gobierno deberá expedir el Estatuto Orgánico en el que se establezcan las bases de organización así como las facultades y funciones que correspondan a las distintas áreas que integren el organismo.
+
+El estatuto Orgánico deberá inscribirse en el Registro Público de organismos descentralizados.
+
+En la extinción de los organismos deberán observarse las mismas formalidades establecidas para su creación, debiendo la Ley o Decreto respectivo fijar la forma y términos de su extinción y liquidación.
+
+###### ARTICULO 16.
+
+Cuando algún organismo descentralizado creado por el ejecutivo deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía nacional o del interés público, la Secretaría de Programación y Presupuesto, atendiendo la opinión de la Dependencia Coordinadora del Sector que corresponda, propondrá al Ejecutivo Federal la disolución, liquidación o extinción de aquél. Asimismo podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
+
+###### ARTICULO 17.
+
+La administración de los organismos descentralizados estará a cargo de un Organo de Gobierno que podrá ser una Junta de Gobierno o su equivalente y un Director General.
+
+###### ARTICULO 18.
+
+El Organo de Gobierno estará integrado por no menos de cinco ni más de quince miembros propietarios y de sus respectivos suplentes. Será presidido por el Titular de la Coordinadora de Sector o por la persona que éste designe.
+
+El cargo de miembro del Organo de Gobierno será estrictamente personal y no podrá desempeñarse por medio de representantes.
+
+###### ARTICULO 19.
+
+En ningún caso podrán ser miembros del Organo de Gobierno:
+
+I. El Director General del Organismo de que se trate. Se exceptúan de esta prohibición aquellos casos de los organismos a que se refiere el artículo 5o. de esta Ley;
+
+II. Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del Organo de Gobierno o con el Director General;
+
+III. Las personas que tengan litigios pendientes con el organismo de que se trate;
+
+IV. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+V. Los diputados y senadores al H. Congreso de la Unión en los términos del artículo 62 Constitucional.
+
+###### ARTICULO 20.
+
+El Organo de Gobierno se reunirá con la periodicidad que se señale en el Estatuto orgánico sin que pueda ser menor de 4 veces al año.
+
+El propio Organo de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la Administración Pública Federal. Las resoluciones se tomarán por mayoría de los miembros presentes teniendo el Presidente voto de calidad para el caso de empate.
+
+###### ARTICULO 21.
+
+El Director General será designado por el Presidente de la República, o a indicación de éste a través del Coordinador de Sector por el Organo de Gobierno, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa; y
+
+III. No encontrarse en alguno de los impedimentos que para ser miembro del Organo de Gobierno señalan las fracciones II, III, IV y V del artículo 19 de esta Ley.
+
+###### ARTICULO 22.
+
+Los directores generales de los organismos descentralizados, en lo tocante a su representación legal, sin perjuicio de las facultades que se les otorguen en otras leyes, ordenamientos o estatutos, estarán facultados expresamente para:
+
+I. Celebrar y otorgar toda clase de actos y documentos inherentes a su objeto;
+
+II. Ejercer las más amplias facultades de dominio, administración, y pleitos y cobranzas, aún de aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias con apego a esta Ley, la ley o decreto de creación y el estatuto orgánico;
+
+III. Emitir, avalar y negociar títulos de crédito;
+
+IV. Formular querellas y otorgar perdón;
+
+V. Ejercitar y desistirse de acciones judiciales inclusive del juicio de amparo;
+
+VI. Comprometer asuntos en arbitraje y celebrar transacciones;
+
+VII. Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por el Director General. Los poderes generales para surtir efectos frente a terceros deberán inscribirse en el Registro Público de Organismos Descentralizados; y
+
+VIII. Sustituir y revocar poderes generales o especiales.
+
+Los directores generales ejercerán las facultades a que se refieren las fracciones II, III, VI y VII bajo su responsabilidad y dentro de las limitaciones que señale el estatuto orgánico que autorice el Organo o Junta de Gobierno.
+
+###### ARTICULO 23.
+
+Para acreditar la personalidad y facultades según el caso, de los miembros del Organo de Gobierno, del Secretario y Prosecretario de éste, del Director General y de los apoderados generales de los organismos descentralizados, bastará con exhibir una certificación de la inscripción de su nombramiento o mandato en el Registro Público de Organismos Descentralizados.
+
+SECCION B
+
+Registro Público de Organismos Descentralizados
+
+###### ARTICULO 24.
+
+Los organismos descentralizados deberán inscribirse en el Registro Público respectivo que llevará la Secretaría de Programación y Presupuesto.
+
+Los directores generales o quienes realicen funciones similares en los organismos descentralizados, que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas, serán responsables en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+###### ARTICULO 25.
+
+En el Registro Público de Organismos Descentralizados deberán inscribirse:
+
+I. El Estatuto Orgánico y sus reformas o modificaciones;
+
+II. Los nombramientos de los integrantes del Organo de Gobierno así como sus remociones;
+
+III. Los nombramientos y sustituciones del Director General y en su caso de los Subdirectores y otros funcionarios que lleven la firma de la entidad;
+
+IV. Los poderes generales y sus revocaciones;
+
+V. El acuerdo de la Secretaría de Programación y Presupuesto o de la dependencia coordinadora de sector en su caso que señale las bases de la fusión, extinción o liquidación, de conformidad con las leyes o decretos que ordenen las mismas; y
+
+VI. Los demás documentos o actos que determine el reglamento de este ordenamiento.
+
+El reglamento de esta Ley determinará la constitución y funcionamiento del Registro, así como las formalidades de las inscripciones y sus anotaciones.
+
+###### ARTICULO 26.
+
+El Registro Público de Organismos Descentralizados podrá expedir certificaciones de las inscripciones y registro a que se refiere el artículo anterior, las que tendrán fe pública.
+
+###### ARTICULO 27.
+
+Procederá la cancelación de las inscripciones en el Registro Público de los Organismos Descentralizados en el caso de su extinción una vez que se haya concluido su liquidación.
+
+### CAPITULO III. De las Empresas de Participación Estatal Mayoritaria
+
+###### ARTICULO 28.
+
+Son empresas de participación estatal mayoritaria las que determina como tales la Ley Orgánica de la Administración Pública Federal.
+
+###### ARTICULO 29.
+
+No tienen el carácter de entidades paraestatales de la Administración Pública Federal las sociedades mercantiles en las que participen temporalmente y en forma mayoritaria en su capital, en operaciones de fomento, las sociedades nacionales de crédito, salvo que conforme a la legislación específica de éstas y siempre que se esté en los supuestos de la segunda parte del artículo 6o., el Ejecutivo Federal decida mediante acuerdo expreso en cada caso, atribuirles tal carácter e incorporarlas al régimen de este ordenamiento.
+
+###### ARTICULO 30.
+
+Las empresas en que participe de manera mayoritaria el Gobierno Federal o una o más entidades paraestatales, deberán tener por objeto las áreas prioritarias en los términos del Artículo 6o. de este ordenamiento.
+
+###### ARTICULO 31.
+
+La organización, administración y vigilancia de las empresas de participación estatal mayoritaria, sin perjuicio de lo dispuesto en la legislación aplicable, deberán sujetarse a los términos que se consignan en este ordenamiento.
+
+###### ARTICULO 32.
+
+Cuando alguna empresa de participación estatal mayoritaria no cumpla con el objeto a que se contrae el artículo 30 o ya no resulte conveniente conservarla como entidad paraestatal desde el punto de vista de la economía nacional o del interés público, la Secretaría de Programación y Presupuesto, atendiendo la opinión de la Dependencia Coordinadora del Sector que corresponda, propondrá al Ejecutivo Federal la enajenación de la participación estatal o en su caso su disolución o liquidación. Para la enajenación de los títulos representativos del capital de la Administración Pública Federal, se procederá en los términos que se disponen en el artículo 68 de esta Ley.
+
+En los casos en que se acuerde la enajenación, en igualdad de condiciones y respetando los términos de las leyes y de los estatutos correspondientes, los trabajadores organizados de la empresa tendrán preferencia para adquirir los títulos representativos del capital de los que sea titular el Gobierno Federal.
+
+###### ARTICULO 33.
+
+El Ejecutivo Federal, por conducto de la Secretaría Coordinadora de Sector, determinará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria.
+
+###### ARTICULO 34.
+
+Los Consejos de Administración o sus equivalentes de las entidades de participación estatal mayoritaria, se integrarán de acuerdo a sus estatutos y en lo que no se oponga con sujeción a esta Ley.
+
+Los integrantes de dicho Organo de Gobierno que representen la participación de la Administración Pública Federal, además de aquellos a que se refiere el Artículo 9o. de este ordenamiento, serán designados por el titular del Ejecutivo Federal, directamente a través de la Coordinadora de Sector. Deberán constituir en todo tiempo más de la mitad de los miembros del Consejo, y serán servidores públicos de la Administración Pública Federal o personas de reconocida calidad moral o prestigio, con experiencia respecto a las actividades propias de la empresa de que se trate.
+
+###### ARTICULO 35.
+
+El Consejo de Administración o su equivalente se reunirá con la periodicidad que se señale en los estatutos de la empresa, sin que pueda ser menor de 4 veces al año.
+
+El propio Consejo, será presidido por el Titular de la Coordinadora de Sector o por la persona a quien éste designe, deberá sesionar válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la participación del Gobierno Federal o de las entidades respectivas. Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
+
+###### ARTICULO 36.
+
+Los consejos de administración o sus equivalentes de las empresas de participación estatal mayoritaria, además de las facultades específicas que se les otorguen en los estatutos o legislación de la materia, tendrán en lo (sic) resulten compatibles las facultades a que se refiere el artículo 58 de esta Ley, con las salvedades de aquéllas que sean propias de las asambleas ordinarias o extraordinarias.
+
+###### ARTICULO 37.
+
+Los directores generales o sus equivalentes de las empresas de participación estatal mayoritaria, sin perjuicio de las facultades y obligaciones que se les atribuyan en los estatutos de la empresa y legislación del caso, tendrán las que se mencionan en el artículo 59 de este ordenamiento.
+
+###### ARTICULO 38.
+
+Para la designación, facultades, operación y responsabilidades de los órganos de administración y dirección; autonomía de gestión, y demás normas sobre el desarrollo y operación de las empresas de participación estatal mayoritaria, sin perjuicio de las disposiciones que sobre el particular existan en los estatutos o legislación correspondiente a su forma societaria, serán aplicables en lo que sean compatibles, los capítulos II Sección A y V de esta Ley.
+
+###### ARTICULO 39.
+
+La fusión o disolución de las empresas de participación estatal mayoritaria se efectuará conforme a los lineamientos o disposiciones establecidos en los estatutos de la empresa y legislación correspondiente.
+
+La dependencia Coordinadora del Sector al que corresponda la empresa, en lo que no se oponga a su regulación específica y de conformidad a las normas establecidas al respecto por la Secretaría de Programación y Presupuesto, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
+
+### CAPITULO IV. De los Fideicomisos Públicos
+
+###### ARTICULO 40.
+
+Los fideicomisos públicos que se establezcan por la Administración Pública Federal, que se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria, que tengan como propósito auxiliar al Ejecutivo mediante la realización de actividades prioritarias, serán los que se consideren entidades paraestatales conforme a lo dispuesto en la Ley Orgánica de la Administración Pública Federal y quedarán sujetos a las disposiciones de esta Ley.
+
+Los Comités Técnicos y los directores generales de los fideicomisos públicos citados en primer término se ajustarán en cuanto a su integración, facultades y funcionamiento a las disposiciones que en el Capítulo V de esta Ley se establecen para los órganos de gobierno y para los directores generales, en cuanto sea compatible a su naturaleza.
+
+###### ARTICULO 41.
+
+El Ejecutivo Federal a través de la Secretaría de Programación y Presupuesto, quien será el fideicomitente único de la Administración Pública Federal Centralizada, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitivos(sic), las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al Comité Técnico, el cual deberá existir obligadamente en los fideicomisos a que se refiere el artículo anterior.
+
+###### ARTICULO 42.
+
+Las instituciones fiduciarias, a través del Delegado Fiduciario General, dentro de los seis meses siguientes a la constitución o modificación de los fideicomisos deberán someter a la consideración de la dependencia encargada de la coordinación del sector al que pertenezcan, los proyectos de estructura administrativa o las modificaciones que se requieran.
+
+###### ARTICULO 43.
+
+Cuando, por virtud de la naturaleza, especialización u otras circunstancias de los fideicomisos, la institución fiduciaria requiera informes y controles especiales, de común acuerdo con la Coordinadora de Sector, instruirán al Delegado Fiduciario para:
+
+I. Someter a la previa consideración de la institución que desempeñe el cargo de fiduciaria, los actos, contratos y convenios de los que resulten derechos y obligaciones para el fideicomiso o para la propia institución;
+
+II. consultar con la debida anticipación a la fiduciaria los asuntos que deban tratarse en las reuniones del Comité Técnico;
+
+III. Informar a la fiduciaria acerca de la ejecución de los acuerdos del Comité Técnico, así como el propio Comité Técnico;
+
+IV. Presentar a la fiduciaria la información contable requerida para precisar la situación financiera del fideicomiso; y
+
+V. Cumplir con los demás requerimientos que de común acuerdo con la Coordinadora de Sector, le fije fiduciaria.
+
+###### ARTICULO 44.
+
+En los contratos de los fideicomisos a que se refiere el artículo 40, se deberán precisar las facultades especiales, si las hubiere, que en adición a las que establece el Capítulo V de esta Ley para los órganos de gobierno determine el Ejecutivo Federal para el Comité Técnico, indicando, en todo caso, cuales asuntos requieren de la aprobación del mismo, para el ejercicio de acciones y derechos que correspondan al fiduciario, entendiéndose que las facultades del citado cuerpo colegiado constituyen limitaciones para la institución fiduciaria.
+
+La institución fiduciaria deberá abstenerse de cumplir las resoluciones que el Comité Técnico dicte en exceso de las facultades expresamente fijadas por el fideicomitente, o en violación a las cláusulas del contrato de fideicomiso, debiendo responder de los daños y perjuicios que se causen, en caso de ejecutar actos en acatamiento de acuerdos dictados en exceso de dichas facultades o en violación al citado contrato.
+
+Cuando para el cumplimiento de la encomienda fiduciaria se requiera la realización de actos urgentes, cuya omisión pueda causar notoriamente perjuicios al fideicomiso, si no es posible reunir al Comité Técnico, por cualquiera circunstancia, la institución fiduciaria procederá a consultar al Gobierno Federal a través del Coordinador de Sector quedando facultada para ejecutar aquellos actos que éste autorice.
+
+###### ARTICULO 45.
+
+En los contratos constitutivos de fideicomisos de la Administración Pública Federal Centralizada, se deberá reservar al Gobierno Federal la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios, o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la Ley o que la naturaleza de sus fines no lo permita.
+
+### CAPITULO V. Del Desarrollo y Operación
+
+###### ARTICULO 46.
+
+Los objetivos de las entidades paraestatales se ajustarán a los programas sectoriales que formule la Coordinadora de Sector, y en todo caso, contemplarán:
+
+I. La referencia concreta a su objetivo esencial y a las actividades conexas para lograrlo;
+
+II. Los productos que elabore o los servicios que preste y sus características sobresalientes;
+
+III. Los efectos que causen sus actividades en el ámbito sectorial, así como el impacto regional que originen; y
+
+IV. Los rasgos más destacados de su organización para la producción o distribución de los bienes y prestación de servicios que ofrece.
+
+###### ARTICULO 47.
+
+Las entidades paraestatales, para su desarrollo y operación, deberán sujetarse a la Ley de Planeación, al Plan Nacional de Desarrollo, a los programas sectoriales que se deriven del mismo y a las asignaciones de gasto y financiamiento autorizadas. Dentro de tales directrices las entidades formularán sus programas institucionales a corto, mediano y largo plazos. El Reglamento de la presente Ley establecerá los criterios para definir la duración de los plazos.
+
+###### ARTICULO 48.
+
+El Programa Institucional constituye la asunción de compromisos en términos de metas y resultados que debe alcanzar la entidad paraestatal. La programación institucional de la entidad, en consecuencia deberá contener la fijación de objetivos y metas, los resultados económicos y financieros esperados así como las bases para evaluar las acciones que lleve a cabo; la definición de estrategias y prioridades; la previsión y organización de recursos para alcanzarlas; la expresión de programas para la coordinación de sus tareas, así como las previsiones respecto a las posibles modificaciones a sus estructuras.
+
+###### ARTICULO 49.
+
+El programa institucional de la entidad paraestatal se elaborará para los términos y condiciones a que se refiere el artículo 22 de la Ley de Planeación y se revisará anualmente para introducir las modificaciones que las circunstancias le impongan.
+
+###### ARTICULO 50.
+
+Los presupuestos de la entidad se formularán a partir de sus programas anuales. Deberán contener la descripción detallada de objetivos, metas y unidades responsables de su ejecución y los elementos que permitan la evaluación sistemática de sus programas.
+
+###### ARTICULO 51.
+
+En la formulación de sus presupuestos, la entidad paraestatal se sujetará a los lineamientos generales que en materia de gasto establezca la Secretaría de Programación y Presupuesto así como a los lineamientos específicos que defina la Coordinadora de Sector. En el caso de compromisos derivados de compra o de suministros que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
+
+###### ARTICULO 52.
+
+La entidad paraestatal manejará y erogará sus recursos propios por medio de sus órganos.
+
+Por lo que toca a la percepción de subsidios y transferencias, los recibirá de la Tesorería de la Federación en los términos que se fijen en los presupuestos de egresos anuales de la Federación y del Departamento del Distrito Federal, debiendo manejarlos y administrarlos por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
+
+###### ARTICULO 53.
+
+Los programas financieros de la entidad paraestatal deberán formularse conforme a los lineamientos generales que establezca la Secretaría de Hacienda y Crédito Público; deberán expresar los fondos propios, aportaciones de capital, contratación de créditos con bancos nacionales o extranjeros, o con cualquier otro intermediario financiero así como el apoyo financiero que pueda obtenerse de los proveedores de insumos y servicios y de los suministradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales deba ejecutarse el mismo en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
+
+###### ARTICULO 54.
+
+El Director de la entidad paraestatal someterá el programa financiero para su autorización al Organo de Gobierno respectivo con la salvedad a que se refiere la fracción II del artículo 58 de esta Ley; una vez aprobado remitirá a la Secretaría de Hacienda y Crédito Público la parte correspondiente a la suscripción de créditos externos para su autorización y registro en los términos de la Ley correspondiente.
+
+###### ARTICULO 55.
+
+Las entidades paraestatales en lo tocante al ejercicio de sus presupuestos, concertación y cumplimiento de compromisos, registro de operaciones; rendimiento de informes sobre estados financieros e integración de datos para efecto de cuenta pública deberán estar, en primer término, a lo dispuesto por esta Ley y su Reglamento y sólo en lo no previsto a los lineamientos y obligaciones consignadas en las leyes y reglamentos vigentes.
+
+###### ARTICULO 56.
+
+El Organo de Gobierno, a propuesta de su presidente o cuando menos de la tercera parte de sus miembros, podrá constituir comités o subcomités técnicos especializados para apoyar la programación estratégica y la supervisión de la marcha normal de la entidad paraestatal, atender problemas de administración y organización de los procesos productivos, así como para la selección y aplicación de los adelantos tecnológicos y uso de los demás instrumentos que permitan elevar la eficiencia.
+
+Los Coordinadores de Sector promoverán el establecimiento de comités mixtos de productividad de las entidades paraestatales, con la participación de representantes de los trabajadores y de la administración de la entidad que analizarán medidas relativas a la organización de los procesos productivos, de selección y aplicación de los adelantos tecnológicos y el uso de los demás instrumentos que permitan elevar la eficiencia de las mismas.
+
+###### ARTICULO 57.
+
+El Organo de Gobierno para el logro de los objetivos y metas de sus programas, ejercerá sus facultades con base en las políticas, lineamientos y prioridades que conforme a lo dispuesto por esta Ley establezca el Ejecutivo Federal.
+
+El Organo de Gobierno podrá acordar la realización de todas las operaciones inherentes al objeto de la entidad con sujeción a las disposiciones de esta Ley y salvo aquellas facultades a que se contrae el artículo 58 de este ordenamiento, podrá delegar discrecionalmente sus facultades en el Director General.
+
+###### ARTICULO 58.
+
+Los órganos de gobierno de las entidades paraestatales, tendrán las siguientes atribuciones indelegables:
+
+I. Establecer en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse la entidad paraestatal relativas a producción, productividad, comercialización, finanzas, investigación, desarrollo tecnológico y administración general;
+
+II. Aprobar los programas y presupuestos de la entidad paraestatal, así como sus modificaciones, en los términos de la legislación aplicable. En lo tocante a los presupuestos y a los programas financieros, con excepción de aquellos incluidos en el Presupuesto de Egresos Anual de la Federación o del Departamento del Distrito Federal, bastará con la aprobación del Organo de Gobierno respectivo;
+
+III. Fijar y ajustar los precios de bienes y servicios que produzca o preste la entidad paraestatal con excepción de los de aquéllos que se determinen por acuerdo del Ejecutivo Federal;
+
+IV. Aprobar la concertación de los préstamos para el financiamiento de la entidad paraestatal con créditos internos y externos, así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras. Respecto a los créditos externos se estará a lo que se dispone en el artículo 54 de esta Ley;
+
+V. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de los activos fijos de la entidad que no correspondan a las operaciones propias del objeto de la misma;
+
+VI. Aprobar anualmente previo informe de los comisarios, y dictamen de los auditores externos, los estados financieros de la entidad paraestatal y autorizar la publicación de los mismos;
+
+VII. Aprobar de acuerdo con las leyes aplicables y el reglamento de esta Ley, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles. El Director General de la Entidad y en su caso los servidores públicos que deban intervenir de conformidad a las normas orgánicas de la misma realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por el Organo de Gobierno.
+
+VIII. Aprobar la estructura básica de la organización de la entidad paraestatal, y las modificaciones que procedan a la misma. Aprobar asimismo y en su caso el estatuto orgánico tratándose de organismos descentralizados;
+
+IX. Proponer al Ejecutivo Federal, por conducto de la Secretaría de Programación y Presupuesto, los convenios de fusión con otras entidades;
+
+X. Autorizar la creación de comités de apoyo;
+
+XI. Nombrar y remover a propuesta del Director General, a los servidores públicos de la entidad paraestatal que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, aprobar la fijación de sus sueldos y prestaciones, y a los demás que señalen los estatutos y concederles licencias;
+
+XII. Nombrar y remover a propuesta de su Presidente, entre personas ajenas a la entidad, al Secretario quien podrá ser miembro o no del mismo; así como designar o remover a propuesta del Director General de la entidad al Prosecretario del citado Organo de Gobierno, quien podrá ser o no miembro de dicho órgano o de la entidad;
+
+XIII. Aprobar la constitución de reservas y aplicación de las utilidades de las empresas de participación estatal mayoritaria. En los casos de los excedentes económicos de los organismos descentralizados, proponer la constitución de reservas y su aplicación para su determinación por el Ejecutivo Federal a través de la Secretaría de Programación y Presupuesto;
+
+XIV. Establecer, con sujeción a las disposiciones legales relativas, sin intervención de cualquiera otra dependencia, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la entidad paraestatal requiera para la prestación de sus servicios, con excepción de aquellos inmuebles de organismos descentralizados que la Ley General de Bienes Nacionales considere como del dominio público de la Federación. El Reglamento de la presente Ley establecerá los procedimientos respectivos;
+
+XV. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los Comisarios;
+
+XVI. Acordar con sujeción a las disposiciones legales relativas los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados, en las instrucciones de la coordinadora del sector correspondiente; y
+
+XVII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Programación y Presupuesto, por conducto de la Coordinadora de Sector.
+
+###### ARTICULO 59.
+
+Serán facultades y obligaciones de los directores generales de las entidades, las siguientes:
+
+I. Administrar y representar legalmente a la entidad paraestatal;
+
+II. Formular los programas institucionales de corto, mediano y largo plazo, así como los presupuestos de la entidad y presentarlos para su aprobación al Organo de Gobierno. Si dentro de los plazos correspondientes el Director General no diere cumplimiento a esta obligación, sin perjuicio de su correspondiente responsabilidad, el Organo de Gobierno procederá al desarrollo e integración de tales requisitos;
+
+III. Formular los programas de organización;
+
+IV. Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles de la entidad paraestatal;
+
+V. Tomar las medidas pertinentes a fin de que las funciones de la entidad se realicen de manera articulada, congruente y eficaz;
+
+VI. Establecer los procedimientos para controlar la calidad de los suministros y programas, de recepción que aseguren la continuidad en la fabricación, distribución o prestación del servicio;
+
+VII. Proponer al Organo de Gobierno el nombramiento o la remoción de los dos primeros niveles de servidores de la entidad, la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio Organo;
+
+VIII. Recabar información y elementos estadísticos que reflejen el estado de las funciones de la entidad paraestatal para así poder mejorar la gestión de la misma;
+
+IX. Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
+
+X. Presentar periódicamente al Organo de Gobierno el informe del desempeño de las actividades de la entidad, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la dirección con las realizaciones alcanzadas;
+
+XI. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe la entidad y presentar al Organo de Gobierno por lo menos dos veces al año la evaluación de gestión con el detalle que previamente se acuerde con el Organo y escuchando al Comisario Público;
+
+XII. Ejecutar los acuerdos que dicte el Organo de Gobierno;
+
+XIII. Suscribir, en su caso, los contratos colectivos e individuales que regulen las relaciones laborales de la entidad con sus trabajadores; y
+
+XIV. Las que señalen las otras Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones administrativas aplicables con las únicas salvedades a que se contrae este ordenamiento.
+
+### CAPITULO VI. Del Control y Evaluación
+
+###### ARTICULO 60.
+
+El Organo de Vigilancia de los organismos descentralizados estará integrado por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Contraloría General de la Federación.
+
+Los Comisarios Públicos evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Contraloría General de la Federación les asigne específicamente conforme a la Ley. Para el cumplimiento de las funcions (sic) citadas el Organo de Gobierno y el Director General deberán proporcionar la información que soliciten los Comisarios Públicos.
+
+###### ARTICULO 61.
+
+La responsabilidad del control al interior de los organismos descentralizados se ajustará a los siguientes lineamientos:
+
+I. Los órganos de gobierno controlarán la forma en que los objetivos sean alcanzados y la manera en que las estrategias básicas sean conducidas; deberán atender los informes que en materia de control y auditoría les sean turnados y vigilarán la implantación de las medidas correctivas a que hubiere lugar;
+
+II. Los Directores Generales definirán las políticas de instrumentación de los sistemas de control que fueren necesarios; tomarán las acciones correspondientes para corregir las deficiencias que se detectaren y presentarán al Organo de Gobierno informes periódicos sobre el cumplimiento de los objetivos del sistema de control, su funcionamiento y programas de mejoramiento; y
+
+III. Los demás servidores públicos del organismo responderán dentro del ámbito de sus competencias correspondientes sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
+
+###### ARTICULO 62.
+
+Los órganos internos de control serán parte integrante de la estructura del organismo descentralizado. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión del organismo; desarrollarán sus funciones conforme a los lineamientos que emita la Secretaría de la Contraloría General de la Federación, y de acuerdo a las siguientes bases:
+
+I.- Dependerán del Director General del Organismo;
+
+II. Realizarán sus actividades de acuerdo a reglas y bases que les permitan cumplir su cometido con autosuficiencia y autonomía; y
+
+III. Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control; efectuarán revisiones y auditorías, vigilarán que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; presentarán al Director General, al Organo de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
+
+###### ARTICULO 63.
+
+Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contarán con los Comisarios Públicos que designe la Secretaría de la Contraloría General de la Federación en los términos de los precedentes artículos de esta Ley.
+
+Los fideicomisos públicos a que se refiere el artículo 40 de esta Ley, se ajustarán en lo que les sea compatible a las disposiciones anteriores.
+
+###### ARTICULO 64.
+
+La Coordinadora de Sector, a través de su titular o representante, mediante su participación en los órganos de gobierno o consejos de administración de las paraestatales, podrá recomendar las medidas adicionales que estime pertinentes sobre las acciones tomadas en materia de control.
+
+###### ARTICULO 65.
+
+La Secretaría de la Contraloría General de la Federación podrá realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el artículo 61, y en su caso promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
+
+###### ARTICULO 66.
+
+En aquellos casos en los que el Organo de Gobierno, Consejo de Administración o el Director General no dieren cumplimiento a las obligaciones legales que les atribuyen en este ordenamiento, el Ejecutivo Federal por conducto de las dependencias competentes así como de la Coordinadora de Sector que corresponda, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de esta Ley u otras leyes. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
+
+###### ARTICULO 67.
+
+En aquellas empresas en las que participe la Administración Pública Federal con la suscripción del 25% al 50% del capital, diversas a las señaladas en el artículo 29 de esta Ley, se vigilarán las inversiones de la Federación o en su caso del Departamento del Distrito Federal, a través del Comisario que se designe por la Secretaría de la Contraloría General de la Federación y el ejercicio de los derechos respectivos se hará por conducto de la dependencia correspondiente en los términos del artículo 33 de esta Ley.
+
+###### ARTICULO 68.
+
+La enajenación de títulos representativos del capital social, propiedad del Gobierno Federal o de las entidades paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las sociedades nacionales de crédito de acuerdo con las normas que emitan las Secretarías de Programación y Presupuesto y de Hacienda y Crédito Público.
+
+La Secretaría de la Contraloría General de la Federación vigilará el debido cumplimiento de lo dispuesto en el párrafo anterior.
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley para el Control por parte del Gobierno Federal de los Organismos Descentralizados y Empresas de Participación Estatal publicada en el Diario Oficial de la Federación el 31 de diciembre de 1970.
+
+###### ARTICULO TERCERO.
+
+Se derogan las disposiciones que se opongan a lo establecido en la presente ley.
+
+###### ARTICULO CUARTO.
+
+En tanto el Ejecutivo Federal dicte las disposiciones correspondientes para que los órganos de gobierno y de vigilancia de los organismos descentralizados se ajusten a esta Ley, seguirán funcionando los órganos existentes de acuerdo con sus leyes o decretos de creación.
+
+###### ARTICULO QUINTO.
+
+Los actos y operaciones de los organismos descentralizados que en los términos de esta Ley deban inscribirse en el Registro Público de Organismos Descentralizados, hasta en tanto se expida el reglamento de este ordenamiento y se formalizan las funciones del expresado Registro, se regirán para su validez y consecuencias en función de las leyes, reglamentos, decretos y acuerdos vigentes hasta la fecha de la expedición de la presente Ley.
+
+###### ARTICULO SEXTO.
+
+En lo tocante a los fideicomisos a que se refiere el artículo 40 de esta Ley, se dictarán desde luego las disposiciones relativas para que en su caso, los Comités Técnicos se ajusten a la integración y funcionamiento que en esta Ley se señala respecto a los órganos de gobierno y se designarán en los casos en que proceda a sus Comisarios Públicos por la Secretaría de la Contraloría General de la Federación.
+
+###### ARTICULO SEPTIMO.
+
+El Ejecutivo Federal, a partir de la entrada en vigor de esta Ley, promoverá por conducto de las Coordinadoras de Sector la modificación o reforma de los estatutos o escrituras constitutivas de las empresas de participación estatal mayoritaria para ajustarlos en lo que proceda a los términos de este propio ordenamiento.
+
+###### ARTICULO OCTAVO.
+
+Los directores generales o quienes realicen funciones similares en los organismos descentralizados existentes a la vigencia de esta Ley, deberán bajo su responsabilidad, inscribir aquellos en el Registro Público de Organismos Descentralizados, en un plazo de treinta días computados a partir de la constitución formal de dicho Registro.
+
+México, D. F., a 25 de abril de 1986.- Dip. Jesús Murillo Karam, Presidente.- Sen. Javier Ahumada Padilla, Presidente.- Dip. Rebeca Arenas Martínez, Secretario.- Sen. Myrna Hoyos de Navarrete, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal a los veintiséis días del mes de abril de mil novecientos ochenta y seis.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
