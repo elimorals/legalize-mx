@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1988-07-02"
+last_updated: "1989-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 1989.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -403,11 +403,17 @@ El ejercicio del cargo de Diputado es incompatible con cualquiera comisión o em
 
 ###### ARTICULO 39.
 
-La Nueva Legislatura calificará la elección de sus miembros a través del Colegio Electoral el que se integrará con los 7 Diputados de mayoría que hubieren obtenido la más alta votación y con tres de representación plurinominal y se seguirá el procedimiento siguiente:
+La calificación de las elecciones de los presuntos Diputados se hará a través del Colegio Electoral, que se integrará con todos aquellos presuntos Diputados que hubieran obtenido la constancia de mayoría expedida por la Comisión Estatal Electoral, tanto los elegidos por el principió de Mayoría Relativa como los elegidos por el principio de Representación Proporcional.
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
 
 I.- Los presunto Diputados, propietarios y suplentes, presentarán sus credenciales a la Secretaria de la Legislatura, para que sean registradas y se pase lista de ellas en la primera Junta Previa, que deberá efectuarse el día primero de Septiembre. En ésta o en una segunda Junta Previa, se elegirá Mesa Directiva del Colegio Electoral, conforme a la Fracción l del Artículo 41 de esta Constitución;
 
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
+
 II.- Si la primera Junta Previa, ninguno de los presuntos propietarios y su correspondiente suplente no comparecieren, los presentes, cualquiera que sea su número, compelerán a las (sic) ausentes por documentos públicos a concurrir dentro de un plazo que no excederá de siete días, apercibiéndolos de que si no lo hacen, se entenderá que no aceptan el cargo y se convocará a nuevas elecciones por sus respectivos Distritos;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
 
 II (SIC).- En la Segunda Junta Previa, que con este motivo se efectué o sea del día 8 de Septiembre, los presentes se declararán en Junta Permanente hasta completar el quórum necesario con los presuntos propietarios o suplentes, pero si llegare el día quince de Septiembre sin que ninguno de los presuntos se hubiere presentado, los presentes, si constituyeren quórum, harán la instalación de la Legislatura y convocarán a nuevas elecciones. En caso contrario, llamarán a sus propios suplentes sucesivamente y por el orden numérico de los Distritos representados, hasta constituir quórum y una vez constituido, procederán a la instalación de la Legislatura y a la convocatoria respectiva de nuevas elecciones.
 
@@ -421,7 +427,7 @@ Dentro de los cinco días siguientes a la celebración de la primera Junta Previ
 
 #### SECCION SEGUNDA. De la Instalación de la Legislatura y su Funcionamiento
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ABRIL DE 1989)</small>
 
 ###### ARTICULO 41.
 
@@ -1177,23 +1183,31 @@ Los Ayuntamientos serán asambleas electas por el voto popular y directo de los 
 
 I.- Un Presidente Municipal que representará al Ayuntamiento en el orden político y lo dirigirá en lo administrativo y será quien esté en primer lugar de la lista de Concejales registrada ante la Comisión Estatal Electoral.
 
-II.- Un Síndico, si el Municipio es menor de 20 mil habitantes y dos si es mayor de dicho número El (sic) o los Síndicos Municipales tendrán la representación jurídica del Ayuntamiento.
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 1989)</small>
 
-III.- Los Regidores en ningún caso, serán menos de cinco y siempre en número impar. Su número aumentará en razón al censo del Municipio, agregándose uno por cada diez mil habitantes hasta completar once regidores.
+II.- Un Síndico si el Municipio tiene menos de 20 mil habitantes y dos si tiene más de ese número. El o los Síndicos Municipales tendrán la Representación Jurídica del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 1989)</small>
 
-En la Capital del Estado y en los Municipios cuya población sea de cien mil o más habitantes los Ayuntamientos se integrarán por 15 Concejales.
+III.- En los Municipios que tengan de 100 mil a 300 mil habitantes, el Ayuntamiento se integrará con un número de once concejales elegidos por el principio de Mayoría Relativa y hasta cinco Regidores elegidos por el principio de Representación Proporcional. Si los Municipios se exceden de esa última cantidad, los Ayuntamientos se integrarán con un número de hasta quince concejales elegidos por el principio de Mayoría Relativa y hasta siete Regidores elegidos por el principio de Representación Proporcional.
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 1989)</small>
 
-En la integración de los Ayuntamientos de todos los Municipios del Estado, se respetará el principio de representación proporcional.
+IV.- En los Municipios que tengan de 50 mil a 100 mil habitantes, el Ayuntamiento se integrará con un número de nueve Concejales elegidos por el principio de Mayoría Relativa, y hasta cuatro regidores elegidos por el principio de Representación Proporcional.
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 1989)</small>
 
-IV. Los Concejales o integrantes de los Ayuntamientos a que se refieren las fracciones anteriores, durarán en su encargo tres años. Tomarán posesión en día 15 de septiembre y no podrán ser reelectos para el período inmediato.
+V.- En los Municipios que tengan de 15 mil a 50 mil habitantes, el Ayuntamiento se integrará con un número de siete Concejales elegidos por el principio de Mayoría Relativa, y hasta tres Regidores elegidos por el principio de Representación Proporcional.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 1989)</small>
+
+VI.- En los Municipios que tengan menos de 15 mil habitantes, el Ayuntamiento se integrará con un número de cinco Concejales elegidos por el principio de Mayoría Relativa, y hasta dos Regidores elegidos por el Principio de Representación proporcional.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 1989)</small>
+
+Los Concejales que integren los Ayuntamientos a que se refiere las fracciones anteriores tomarán posesión del día primero de Enero del año siguiente al de su elección y durarán en su encargo tres años, no pudiendo ser reelectos para el período inmediato.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 1989)</small>
 
 #### SECCION SEGUNDA. Del Tribunal Superior de Justicia
 
@@ -1205,13 +1219,7 @@ IV. Los Concejales o integrantes de los Ayuntamientos a que se refieren las frac
 
 ###### ARTICULO 99.
 
-La ley establecerá las formulas electorales de acuerdo con las bases generales siguientes:
-
-I.- El Partido cuya planilla hubiere obtenido el mayor número de votos tendrá derecho a que se le acrediten a quienes establecen la lista como Presidente Municipal y Síndico del Ayuntamiento respectivamente;
-
-II.- La Regidurías que integren el Cabildo, se dividirán entre la votación obtenida por todas las planillas presentadas por los Partidos Políticos contendientes y que hubieren obtenido cuando menos el seis por ciento de la votación total emitida, a fin de obtener un cociente electoral;
-
-III.- Ningún Partido Político podrá obtener más de doce Regidurías.
+El Partido Político cuya planilla hubiere obtenido el mayor número de votos tendrá derecho a que se le acrediten como Concejales a todos los miembros de la misma.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
@@ -1221,7 +1229,9 @@ III.- Ningún Partido Político podrá obtener más de doce Regidurías.
 
 La ley Reglamentaria determinará los procedimientos que se observarán en la asignación de los Regidores de representación proporcional.
 
-En el caso de dos Síndicos Procuradores los Regidores de representación proporcional tendrán la misma calidad jurídica que los de mayoría.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 1989)</small>
+
+Los Regidores de Representación Proporcional, tendrán la misma calidad jurídica que los electos por el sistema de Mayoría Relativa.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
@@ -1829,6 +1839,12 @@ Esta Constitución se promulgará y entrará en vigor el día quince de abril de
 
 La promulgación de la presente Constitución se hará por bando solemne.
 
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 1989)</small>
+
+###### ARTICULO 15.
+
+Los Concejales que se elijan el primer domingo de Agosto de 1989, tomarán posesión el 15 de Septiembre del mismo año y durarán en su encargo hasta el 31 de Diciembre de 1992.
+
 Lo tendrá entendido el C. Gobernador del Estado y dispondrá que se imprima, publique, circule y cumpla.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado, a los cuatro días del mes de abril de mil novecientos veintidós. Herón Ruiz, Diputado Presidente por el 16°, Círculo Electoral.- Gaspar Allende, Diputado Vicepresidente por el 10° Círculo Electoral.- Emilio Alvarez, Diputado por el 1er. Círculo Electoral.- Emilio Díaz Ortiz, Diputado por el 3er. Círculo Electoral. Heraclio Ramírez, Diputado por el 7° Círculo Electoral.- Agustín R. Arenas, Diputado por el 8° Círculo Electoral.- R. Villegas Garzón, Diputado por el 9° Círculo Electoral.- Pedro Camacho, Diputado por el 12° Círculo Electoral.- Angel Hernández, Diputado por el 13° Círculo Electoral.- Librado G. López, Diputado por el 14° Círculo Electoral.- Luis Meixueiro, Diputado por el 15° Círculo Electoral.- Agustín Castillo C., Diputado por el 17° Círculo Electoral.- M. Aguilar y Salazar, Diputado Secretario por el 6° Círculo Electoral.- Alfredo Calvo, Diputado Secretario por el 11° Círculo Electoral.
@@ -2086,3 +2102,9 @@ P.O. 2 DE JULIO DE 1988.
 PRIMERO.- Se derogan todas las disposiciones que se le opongan.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ABRIL DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
