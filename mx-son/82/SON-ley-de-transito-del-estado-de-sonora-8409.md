@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "1987-09-03"
+last_updated: "1992-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSITO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE SEPTIEMBRE DE 1987.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE MAYO DE 1992.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -589,6 +589,10 @@ III.- Los vehículos de emergencia y oficiales, aún cuando ostenten los signos 
 
 IV.- Los señalados en el Artículo 52 de esta Ley.
 
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 1992)</small>
+
+V.- Haber aprobado, en el caso de los vehículos de propulsión mecánica, el examen de verificación de emisiones contaminantes, en los términos de la ley de la materia, debiendo portar en lugar visible la calcomanía que por este efecto se expida.
+
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 42.
@@ -619,9 +623,17 @@ II.- Devolución del original de la tarjeta de circulación.
 
 III.- Presentar el comprobante de pago del Impuesto Federal sobre Tenencia o Uso de Vehículos y constancia de revisión vehicular, expedida por las autoridades municipales de Tránsito.
 
-IV.- Tratándose de cambios de propietario, además de los requisitos anteriores, deberá presentarse la solicitud de revalidación correspondiente y el recibo oficial de pago del Impuesto Sobre Traslación de Dominio, y,
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
-V.- En los casos de vehículos de alquiler, deberá proporcionarse, además, copia del comprobante de pago de revalidación de concesión correspondiente.
+d) (sic).- Tratándose de cambios de propietario, además de los requisitos anteriores, deberá presentarse la solicitud de revalidación correspondiente y el recibo oficial de pago del impuesto sobre traslación de dominio de bienes muebles, en su caso.
+
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
+
+e) (sic).- En los casos de vehículos de alquiler, deberá proporcionarse, además, copia del comprobante de pago de revalidación de concesión, correspondiente; y
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
+
+f) (sic).- Exhibir la constancia donde se acredite que el vehículo aprobó el examen de verificación de emisiones contaminantes.
 
 ###### ARTICULO 43.
 
@@ -688,6 +700,10 @@ Los vehículos procedentes del extranjero o de zonas libres fiscales, deberán a
 ###### ARTICULO 53.
 
 Todo vehículo que transite por la vía pública deberá encontrarse en condiciones satisfactorias de funcionamiento y provisto de los dispositivos que exige la presente Ley y demás ordenamientos aplicables, salvo aquellos que se señalen como opcionales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 7 DE MAYO DE 1992)</small>
+
+Así también estarán obligados a presentar los vehículos para la verificación de emisiones contaminantes en los centros que para ese efecto autorice la autoridad que corresponda, en los tiempos y formas que marque el reglamento respectivo, o dentro de los treinta días siguientes a su adquisición, cuando ésta se efectúe fuera de la fecha que le correspondiera.
 
 #### SECCION II. LUCES
 
@@ -817,7 +833,7 @@ Dispositivos acústicos y ópticos en vehículos de emergencia.
 
 a).- Todo vehículo de emergencia autorizado, además del equipo y dispositivos obligatorios, deberá estar provisto de una sirena y/o campana capaces de dar una señal acústica audible, a una distancia no menor de 150 metros.
 
-b).- Además, deberá estar provisto de una torreta con lámparas giratorias a 360 grados que proyecten una luz roja visible a una distancia no menor de 150 metros bajo la luz solar normal montada sobre la línea de centro del vehículo en su posición más alta posible, o de luces integradas a la sirena que emitan una luz roja intermitente hacia a delante y hacia atrás, visibles a la misma distancia; en este caso, el montaje de la sirena deberá ajustarse a lo anotado por la torreta o bien deberá estar provisto de 2 lámparas que emitan luz roja intermitente adelante y atrás, cuya intensidad sea suficiente para que sea visible bajo las condiciones anotadas para la torreta y deberán estar montadas tan arriba y tan ampliamente separadas lateralmente como sea posible sin sobresalir del vehículo.
+b).- Además deberá estar provisto de una torreta con lámparas giratorias a 360 grados que proyecten una luz roja visible a una distancia no menor de 150 metros bajo la luz solar normal montada sobre la línea de centro del vehículo en su posición más alta posible, o de luces integradas a la sirena que emitan una luz roja intermitente hacia adelante y hacia atrás, visibles a la misma distancia; en este caso, el montaje de la sirena deberá ajustarse a lo anotado para la torreta o bien deberá estar provisto de 2 lámparas que emitan luz roja intermitente adelante y atrás, cuya intensidad sea suficiente para que sea visible bajo las condiciones anotadas para la torreta y deberán estar montadas tan arriba y tan ampliamente separadas lateralmente como sea posible sin sobresalir del vehículo.
 
 c).- Estos dispositivos no los utilizarán otros vehículos que no sean los de emergencia autorizados.
 
@@ -2301,6 +2317,10 @@ III.- Detención de vehículos.
 
 IV.- Suspensión y cancelación de licencias.
 
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 1992)</small>
+
+V.- Retención de la tarjeta de circulación.
+
 Podrá también recogerse la licencia de operador de servicio público de transporte por las causas y en los términos señalados en la Ley de Transporte del Estado.
 
 ###### ARTICULO 223.
@@ -2328,6 +2348,18 @@ b) No portar el vehículo, placas de circulación o portar placas alteradas o ve
 c) En caso de accidente o comisión de algún delito.
 
 d) Cuando se preste un servicio público de transporte sin tener concesión o permiso.
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
+
+e).- Cuando se aprecie en forma ostensible que las sustancias contaminantes que emiten pueden rebasar los límites máximos permisibles, determinados por las normas técnicas ecológicas aplicables. En este caso, el Departamento de Tránsito ordenará la remisión inmediata del vehículo a un centro de verificación autorizado, quien emitirá su dictamen de la revisión que efectúe.
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
+
+Si el resultado del dictamen es negativo, y si portaba la calcomanía, la infracción quedará sin efecto, si la calcomanía faltaba, el centro de verificación expedirá la constancia respectiva. De ser positivo el dictamen, la autoridad que hizo el traslado retendrá la tarjeta de circulación del vehículo, y el propietario tendrá un plazo de treinta días naturales para presentar nuevamente a verificación el vehículo y subsanar las deficiencias detectadas, pudiendo circular en ese período sólo para ser conducido al taller respectivo.
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
+
+A los conductores procedentes de entidades o municipios donde no se encuentre en vigencia el programa de verificación vehicular obligatoria, cuyos vehículos ostensiblemente contaminen, rebasando los límites permisibles para emisiones tóxicas por automotores, se les retendrá la tarjeta de circulación y les será devuelta en cuanto comprueben que no rebasaron el límite de contaminación o en cuanto paguen la multa.
 
 ###### ARTICULO 224.
 
@@ -2376,6 +2408,14 @@ a) Por transportar en los vehículos, explosivos o productos altamente inflamabl
 b) Por prestar servicio público de transporte sin estar concesionado, por cada ocasión. En este caso, además se detendrá hasta por 72 horas el vehículo, impidiendo que continúe circulando y se remitirá al Departamento de Tránsito. A la vez, se comunicará tal situación a la Dirección de Transporte del Estado.
 
 c) Por prestar el servicio público de transporte con las unidades de emergencia simultáneamente con las autorizadas, independientemente de la sanción de cancelación que establece la Ley de Transporte del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
+
+d) Por no portar la calcomanía de verificación vehicular de emisiones contaminantes vigente o, portándola, ser evidente que el vehículo emite sustancias contaminantes que puedan rebasar los límites permisibles señalados por la normatividad aplicable. En este último caso, se estará a lo establecido por el inciso e) del artículo 223 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
+
+El monto de la multa a que se refiere el presente artículo podrá duplicarse en los casos en que se compruebe que el vehículo no aprobó el examen de verificación de emisiones contaminantes, y no ha sido presentado a segunda verificación en el plazo que se le haya concedido.
 
 ###### ARTICULO 232.
 
@@ -2648,3 +2688,9 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+B.O. 7 DE MAYO DE 1992.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor a los noventa días siguientes de su publicación en el Boletín Oficial del Gobierno del Estado.
