@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "1986-09-26"
+last_updated: "1987-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1987.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -133,17 +133,17 @@ En material penal, no cabe prórroga ni renuncia de jurisdicción.
 
 Ningún tribunal puede promover competencia a su superior jerárquico.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
 
 ###### Art. 11.
 
-Los Jueces Municipales conocerán de los delitos que sólo puedan perseguirse por querella de parte, excepto los patrimoniales, y además de los de amenazas, allanamiento de morada y lesiones previstas en la primera parte del Artículo 207 del Código Penal. De todos los demás delitos conocerán los Jueces de Partido. Esta regla se entiende salvo los casos de la competencia del Supremo Tribunal de Justicia y del Jurado Popular.
+Los Jueces Menores conocerán de los delitos que sólo puedan perseguirse por querella de parte, excepto los patrimoniales, y además de los de amenazas, allanamiento de morada y lesiones previstas en la primera parte del Artículo 207 del Código Penal. De todos los demás delitos conocerán los Jueces de Primera Instancia. Esta regla se entiende salvo los casos de la competencia del Supremo Tribunal de Justicia y del Jurado Popular.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
 
 ###### Art. 12.
 
-Cuando concurra delito que debieran conocer los Jueces Municipales con otro de la competencia de los Jueces de Partido, éstos conocerán del proceso.
+Cuando concurra delito que debieran conocer los Jueces Menores con otro de la competencia de los Jueces de Primera Instancia, éstos conocerán del proceso.
 
 ### CAPITULO II.
 
@@ -353,9 +353,11 @@ Se empleará la forma de exhorto cuando se dirija a un tribunal igual en categor
 
 Al dirigirse los tribunales a funcionarios o autoridades que no sean judiciales, lo harán por medio de oficio.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
+
 ###### Art. 45.
 
-Cuando el tribunal requerido no pudiere practicar por sí mismo, en todo o en parte, las diligencias que se le encarguen, podrá encomendar su ejecución al juez municipal del lugar donde deban practicarse, remitiéndose el exhorto original o un oficio, con las inserciones necesarias.
+Cuando el tribunal requerido no pudiere practicar por sí mismo, en todo o en parte, las diligencias que se le encarguen, podrán encomendar su ejecución al Juez Menor del lugar donde deban practicarse, remitiéndose el exhorto original o un oficio, con las inserciones necesarias.
 
 ###### Art. 46.
 
@@ -911,13 +913,17 @@ Declaración preparatoria del inculpado y nombramiento del defensor.
 
 El tribunal ante el cual se ejercite la acción penal practicará sin demora alguna, todas las diligencias procedentes que promuevan las partes.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
+
 ###### Art. 134.
 
-Siempre que un juez municipal inicie diligencias en auxilio de un juez de partido, deberá dar aviso inmediato a éste, quien lo hará saber al Agente del Ministerio Público de su adscripción.
+Siempre que un Juez Menor inicie diligencias en auxilio de un Juez de Primera Instancia, deberá dar aviso inmediato a éste, quien lo hará saber al Agente del Ministerio Público de su adscripción.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
 
 ###### Art. 135.
 
-El Juez de Partido, con vista del aviso a que se refiere al (sic) artículo anterior, podrá dar a la autoridad que practique las diligencias, las instrucciones que juzgue necesarias; trasladarse al lugar para practicarlas personalmente, o bien pedir su envío desde luego o en su oportunidad, según lo estime conveniente.
+El Juez de Primera Instancia, con vista del aviso a que se refiere al (sic) artículo anterior, podrá dar a la autoridad que practique las diligencias, las instrucciones que juzgue necesarias; trasladarse al lugar para practicarlas personalmente, o bien pedir su envío desde luego o en su oportunidad, según lo estime conveniente.
 
 ###### Art. 136.
 
@@ -953,9 +959,11 @@ Transcurridos o renunciados los plazos a que se refiere este artículo, o si no 
 
 Cuando en un asunto penal sea necesario comprobar un derecho civil, se hará esto por cualquier medio de prueba en el curso de la instrucción. La resolución dictada en el procedimiento penal no servirá de base para el ejercicio de las acciones civiles que del derecho expresado puedan originarse.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
+
 ###### Art. 143.
 
-En los casos de la competencia de los jueces municipales, después de dictado el auto de formal prisión o el de sujeción a proceso, se procurará agotar la averiguación dentro de quince días. Una vez que el tribunal la estime agotada, dictará resolución citando a la audiencia a que se refiere el artículo 295.
+En los casos de la competencia de los Jueces Menores, después de dictado el auto de formal prisión o el de sujeción a proceso, se procurará agotar la averiguación dentro de quince días. Una vez que el tribunal la estime agotada, dictará resolución citando a la audiencia a que se refiere el artículo 295.
 
 > <small>(ADICIONADO, P.O. 1 DE ENERO DE 1981)</small>
 
@@ -1815,9 +1823,9 @@ Juicio.
 
 ### CAPITULO II.
 
-Procedimiento ante los Jueces Municipales.
+Procedimiento ante los Jueces Menores.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
 
 ###### Art. 293.
 
@@ -1829,13 +1837,15 @@ En la audiencia podrán interrogar al acusado sobre los hechos materia del juici
 
 Contra la resolución que niegue o admita la repetición de las diligencias de prueba, no procede recurso alguno.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE AGOSTO DE 1987)</small>
+
 ### CAPITULO III.
 
 Procedimiento relativo al Jurado Popular.
 
 ###### Art. 295.
 
-Cuando se trate de delitos de la competencia de los Jueces Municipales, la audiencia principiará presentando el Ministerio Público sus conclusiones y contestándolas a continuación la defensa. Si aquéllas fueren acusatorias, se seguirá el procedimiento señalado en el artículo anterior, dictándose sentencia en la misma audiencia. Si las conclusiones fueren no acusatorias, se suspenderá la audiencia, procediéndose conforme a lo dispuesto en los Artículos 282 y 283. Del recurso de apelación que en contra de la sentencia se interpusiere, conocerá el Juez de Partido que corresponda.
+Cuando se trate de delitos de la competencia de los Jueces Menores, la audiencia principiará presentando el Ministerio Público sus conclusiones y contestándolas a continuación la defensa. Si aquéllas fueren acusatorias, se seguirá el procedimiento señalado en el artículo anterior, dictándose sentencia en la misma audiencia. Si las conclusiones fueren no acusatorias, se suspenderá la audiencia, procediéndose conforme a lo dispuesto en los Artículos 282 y 283. Del recurso de apelación que en contra de la sentencia se interpusiere, conocerá el Juez de Primera Instancia que corresponda.
 
 ### CAPITULO IV.
 
@@ -3522,3 +3532,9 @@ P.O. 26 DE SEPTIEMBRE DE 1986.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE AGOSTO DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
