@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-desarrollo-economico-20
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-26"
-last_updated: "2001-02-26"
+last_updated: "2003-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20006&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,17 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO, PUBLICADO EN EL PERIODICO OFICIAL EL 6 DE OCTUBRE DE 2003.</small>
 
-Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 6 de ctubre de 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
+
+Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el 6 de Octubre de 2003.
 
 MANUEL ANGEL NUÑEZ SOTO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, en ejercicio de las facultades que me confieren los Artículos 71 fracción II de la Constitución Política del Estado; 5, 17, 19, 21 y 28 de la Ley Orgánica de la Administración Pública del Estado, he tenido a bien expedir el siguiente:
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
+REGLAMENTO INTERIOR
+
+DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
 ### CAPITULO I. DE LA COMPETENCIA Y ESTRUCTURA DE LA SECRETARIA
 
@@ -382,3 +386,13 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Las Unidades Administrativas que por el efecto del presente Reglamento tengan competencia en asuntos que anteriormente correspondían a otras unidades, se harán cargo de los mismos a partir de la entrada en vigor del mismo, por lo cual deberá de hacerse la transferencia de los recursos humanos, financieros, materiales, archivos e inventarios correspondientes.
 
 Dado en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Pachuca de Soto, Hidalgo, a los siete días del mes de febrero del año dos mil uno.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO:</small>
+
+P.O. 6 DE OCTUBRE DE 2003.
+
+PRIMERO.- El presente Reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga el Reglamento Interior de la Secretaría de Desarrollo Económico publicado ene l Periódico Oficial del Estado el día 26 de Febrero de 2001.
+
+TERCERO.- Las Unidades Administrativas que por el efecto del presente Reglamento, tengan competencia en asuntos que anteriormente correspondían a otras unidades, se harán cargo de ellos a partir de la entrada en vigor del presente Reglamento, por lo cual, deberá de hacerse la transferencia de los recursos humanos, financieros, materiales, archivos e inventarios correspondientes.
