@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-espectaculos-para-el-municipio-de-ciudad-25658"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-10-09"
-last_updated: "1991-10-09"
+last_updated: "1993-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "NLE"
 
 REGLAMENTO DE ESPECTACULOS PARA EL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1993.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 9 de octubre de 1991.
 
@@ -132,7 +132,9 @@ ART. 33.- Las empresas cinematográficas, deberán hacer del conocimiento del p�
 
 ### CAPITULO QUINTO. DE LOS CIRCOS, CARPAS Y JUEGOS ELECTROMECANICOS
 
-ART. 34.- La Presidencia Municipal, autorizará discrecionalmente el funcionamiento de carpas, circos y juegos electromecánicos, que deberán sujetarse a las siguientes disposiciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1993)</small>
+
+ART. 34.- La Presidencia Municipal, autoriza discrecionalmente el funcionamiento de Carpas, Circos y Juegos Electromecánicos, que deberán sujetarse a las siguientes disposiciones:
 
 I.- Presentar por escrito la debida solicitud, mencionando tipo de espectáculo, autorización del propietario del terreno donde se establecerán, fecha de iniciación, término de actividades, horarios y precios;
 
@@ -140,9 +142,21 @@ II.- Instalarse por lo menos a 2 cuadras de distancia de otro lugar destinado a 
 
 III.- Sujetarse a una inspección por parte de peritos del Municipio, y en su caso, otorgar la garantía que se les exija;
 
-IV.- Conseguir el permiso correspondiente en la Dirección de Patrimonio Municipal; y
+IV.- Conseguir el permiso correspondiente en la Dirección de Patrimonio Municipal; y (sic)
 
-V.- Aceptar toda responsabilidad penal, civil, laboral, o de cualquier otra índole en que llegare a incurrir.
+V.- Aceptar toda responsabilidad penal, civil, laboral, o de cualquier otra índole en que llegare a incurrir;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1993)</small>
+
+VI.- Efectuar el solicitante el pago de dos salarios mínimos vigente para la investigación de la factibilidad de su solicitud;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1993)</small>
+
+VII.- Particularmente y por lo que hace a los juegos electromecánicos denominados (Chispas) estos giros mercantiles deberán instalarse por lo menos a 100 metros de distancia de los Centros Escolares Educativos, Iglesias o Instituciones Religiosas, así como también Expendios de Bebidas Alcoholicas para su venta en botella abierta;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1993)</small>
+
+VIII.- En el lugar en que se autorice la instalación de giros comerciales dedicados a juegos electromecánicos denominados (Chispas) está prohibido el expendio, venta, consumo o introducción de cervezas y cualesquier tipo de Bebidas Alcoholicas así como cualquier tipo de enervantes o solventes que perjudiquen a la salud.
 
 ### CAPITULO SEXTO. DE LOS BAILES Y KERMESSES
 
@@ -253,3 +267,15 @@ ART. 68.- En caso de reincidencia o que resulten insuficientes las sanciones imp
 PRIMERO.- Este Reglamento entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Este Reglamento abroga todos los anteriores.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE DICIEMBRE DE 1993.
+
+###### ARTICULO PRIMERO
+
+- Las Adiciones VI, VII, VII (SIC) del Artículo 34 correspondiente al capítulo V denominado "DE LOS CIRCOS, CARPAS Y JUEGOS ELECTROMECANICOS (CHISPAS), entrará en vigor a partir del día 3 de Enero de 1994.
+
+###### ARTICULO SEGUNDO
+
+- Se abrogan todas las disposiciones reglamentarias administrativas expedidas con anterioridad por el R. Ayuntamiento que se oponga a las adiciones de este Reglamento.
