@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1926-01-17"
+last_updated: "1926-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1926.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 1926.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -669,9 +669,9 @@ XV.- Castigar correccionalmente a los que le falten al respeto, o desobedezcan s
 
 XVI.- Hacer que las elecciones sean libres e impedir que alguno ejerza presión en ellas.
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 1919)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 1926)</small>
 
-XVII.- Suspender hasta por quince días, a los Presidentes Municipales que abusaren de sus facultades, dando inmediatamente parte justificado a la Legislatura o en su receso a la Diputación Permanente, para que determine una u otra, lo que fuere oportuno.
+XVII.- Suspender a los Presidentes Municipales y a los Regidores que abusaren de sus facultades, dando aviso justificado a la Legislatura o en su receso a la Diputación Permanente.
 
 XVIII.- Formar el Catastro del Estado, proponiéndolo a la Legislatura para su aprobación.
 
@@ -1113,7 +1113,7 @@ DIPUTADO POR EL 14º DISTRITO ELECTORAL.
 
 Pablo Retes, Z., Vice-Presidente, Diputado por el Primer Distrito Electoral.- Marcos Esmerio, Diputado por el Segundo Distrito Electoral.- M.L. Urbina, Diputado por el Tercer Distrito Electoral.- Francisco Amézquita, Diputado por el Cuarto Distrito Electoral.- F. R. Pérez, Diputado por el Quinto Distrito Electoral.- Manuel Guzmán, Diputado Suplente por el Sexto Distrito Electoral.- Fidencio Estrada, Diputado por el Séptimo Distrito Electoral.- José María Ledón, Diputado por el Octavo Distrito Electoral.- J. Aguiar Béjar, Diputado Suplente por el Décimo Distrito Electoral.- Francisco N. Arroyo, Diputado por el Décimosegundo Distrito Electoral.- Antonio de P. Monroy, Diputado por el Décimotercero Distrito Electoral.- Mig. C. Madrigal, Diputado por el Décimoquinto Distrito Electoral.- F. R. Corona, Primer Secretario, Diputado por el Noveno Distrito Electoral.- Alfredo Robles, Segundo Secretario, Diputado por el Décimo Primero Distrito Electoral.
 
-Por lo tanto mando se imprima, publique por Bando Solemne, circule y sé le dé el más exacto cumplimiento.
+Por lo tanto mando se imprima, publique por Bando Solemne, circule y se le dé el más exacto cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo en Tepic, Nay., a los cinco días del mes de febrero de mil novecientos diez y ocho.
 
@@ -1162,3 +1162,7 @@ El presente decreto comenzará a surtir sus efectos legales, a partir del día d
 P.O. 17 DE ENERO DE 1926
 
 El presente Decreto empezará a surtir sus efectos a partir de la fecha de su promulgación.
+
+P.O. 11 DE ABRIL DE 1926
+
+El presente Decreto empezará a surtir sus efectos legales a partir de la fecha de su promulgación.
