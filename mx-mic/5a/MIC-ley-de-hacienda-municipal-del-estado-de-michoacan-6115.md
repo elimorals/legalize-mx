@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1994-12-29"
+last_updated: "1996-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1996.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -131,7 +131,7 @@ VI.- Los funcionarios y empleados públicos que autoricen algún acto jurídico 
 
 #### Sección Tercera. De la Base
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 6o.
 
@@ -141,33 +141,29 @@ La base del Impuesto predial tanto de predios urbanos como rústicos será el va
 
 I. La base de este impuesto podrá modificarse por:
 
-> <small>(REFORMADA, P.O 31 DE DICIEMBRE DE 1992)</small>
+((REFORMADA, P.O 30 DE DICIEMBRE DE 1996)
 
-a) El valor determinado mediante avalúo catastral practicado por la Tesorería General, conforme a la Ley de Catastro del Estado de Michoacán.
+a) EI valor determinado mediante avalúo practicado por la Tesorería General del Estado, o en su caso, con base en convenio, por la autoridad municipal correspondiente. en los términos de la Ley de Catastro del Estado de Michoacán.
 
-> <small>(REFORMADA, P.O 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O 30 DE DICIEMBRE DE 1996)</small>
 
-b) El valor determinado para efectos del impuesto sobre Adquisición de Inmuebles en los términos del artículo 42 de esta Ley.
+b) EI valor determinado para efectos del impuesto sobre Adquisición de Inmuebles, en los términos del artículo 42 de esta Ley.
 
-En este caso el valor será ratificado o rectificado por la Tesorería General del Estado, mediante avalúo técnico en los términos de la Ley de Catastro, en un plazo que no excederá de cuatro meses, contados a partir de la fecha del registro catastral, y su vigencia será a partir de la misma.
-
-No obstante lo establecido en el párrafo anterior, en los casos de adquisicion por causa de muerte, de la nuda propiedad, del usufructo y de parte de los derechos de propiedad de un inmueble, no se tomarán en cuenta dichos valores, sino el de avalúo practicado por la Tesorería General del Estado.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O 30 DE DICIEMBRE DE 1996)</small>
 
 c) (DEROGADA, P.O. 20 DE DICIEMBRE DE 1990)
 
 > <small>(REFORMADA PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-II. Cuando surjan nuevos predios con motivo de la constitución de condominios, conjuntos habitacionales, fraccionamientos o subdivisiones, la Tesorería General del Estado determinará la base de este impuesto, mediante avalúos que practique conforme a la Ley de Catastro del Estado de Michoacán, a partir de la autorización expedida por autoridad competente. Tratándose de condominios, los avalúos se practicarán a partir de la fecha en que se haya autorizado preventivamente la escritura de constitución correspondiente.
+II. Cuando surjan nuevos predios con motivo de la constitución de condominios, conjuntos habitacionales fraccionamientos o subdivisiones, la Tesorería General del Estado determinará la base de este impuesto, mediante avalúos que practique conforme a la Ley de Catastro del Estado de Michoacán, a partir de la autorización expedida por autoridad competente. Tratándose de condominios, los avalúos se practicarán a partir de la fecha en que se haya autorizado preventivamente la escritura de constitución correspondiente.
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O 31 DE DICIEMBRE DE 1992)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
-Los avalúos que practique la Tesorería General del Estado, para determinar la base de este impuesto, surtirán efectos a partir del siguiente bimestre a aquél en que se notifiquen y el valor que se determine conforme a éste tendrá vigencia hasta el 31 de diciembre del año siguiente a aquél en que se notifiquen. La base de este impuesto que se determine conforme al artículo 7º de esta Ley, tendrá vigencia de un año.
+Los valores que mediante avalúos determine la Tesorería General del Estado, o en su caso, con base en convenio, la autoridad municipal correspondiente, surtirán efectos a partir del siguiente bimestre, a aquel en que se notifiquen los avalúos. El valor a que se refiere el inciso b) de la fracción I anterior, surtirá efectos a partir del siguiente bimestre, a partir de las fechas a que se refieren las fracciones I a lll del artículo 46 de esta Ley. Ambos valores, tendrán vigencia hasta el 31 de diciembre del año siguiente, a partir de la fecha de notificación de los avalúos y de las fechas señaladas en dichas fracciones del artículo 46 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-Independientemente de lo establecido en este artículo, la base para la determinación de este impuesto para el año de que se trate, en ningún caso podrá ser inferior al equivalente a 25 días del salario mínimo general vigente al 31 de diciembre del año anterior, tratándose de predios urbanos y de 12 días tratándose de predios rústicos.
+La base de este impuesto que se determine conforme al artículo 7º de esta Ley, tendrá vigencia de un año.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
@@ -251,6 +247,14 @@ Para los efectos de este inciso, el pago de la cuota mínima anual procederá si
 
 E) Predios con restricciones de uso de suelo, por disposición oficial.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+
+F) Los predios que se destinen totalmente en la instalación de nuevas industrias, ya sean micro, pequeñas, medianas y grandes, por el término de 10 años a partir de la fecha de inicio de la construcción.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Cuando por cualquier causa se cambie el uso del predio a propósito distinto del señalado en el párrafo anterior, se dejará de causar la cuota mínima anual y se aplicará lo dispuesto en el primer párrafo de este artículo.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 11.
@@ -303,7 +307,11 @@ Este impuesto es anual y se dividirá en seis partes iguales que se pagarán bim
 
 El pago del impuesto podrá efectuarse totalmente dentro de los meses de enero y febrero de cada año, sin que ello libere del pago de las diferencias que resulten con motivo del cambio de la base, en los términos de los artículos 6o. de esta Ley.
 
-En el caso de la cuota mínima del impuesto que señale la Ley de Ingresos para los Municipios del Estado de Michoacán, su pago deberá efectuarse en una sola exhibición dentro de los meses de enero y febrero de cada año.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Cuando los contribuyentes de este impuesto efectúen el pago del impuesto anual dentro del primer bimestre del año, tendrán un descuento por pronto pago equivalente al 25% del incremento al impuesto que resulte de aplicar lo dispuesto en el artículo 7º de esta Ley.
+
+Lo dispuesto en el párrafo anterior no se aplicará tratándose de predios cuyo impuesto resultante de aplicar la actualización a que se refiere dicho artículo 7º, sea equivalente a la cuota mínima anual.
 
 ###### ARTICULO 19.
 
@@ -535,11 +543,11 @@ IV. Los peritos valuadores autorizados que no apliquen correctamente en la valua
 
 #### Sección Tercera. De la Base
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 42.
 
-La base gravable del Impuesto sobre Adquisición de Inmuebles, será el valor que resulte mayor entre el de avalúo practicado por perito autorizado, el consignado en el testimonio en que se haga constar el acto transmitivo del dominio, el catastral registrado o el que se registre como consecuencia de rectificación del valor de operación o el de avalúo practicado por perito autorizado, dentro de los cuatro meses siguientes, contados a partir de la fecha del registro catastral de éstos.
+La base gravable de este Impuesto sobre Adquisición de Inmuebles, será el valor que se determine mediante avalúo practicado por perito autorizado, en los términos de la Ley de Catastro del Estado de Michoacán. Dicho valor será ratificado o rectificado por la Tesorería General del Estado, o en su caso, con base en convenio, por la autoridad municipal correspondiente, en los términos de dicha Ley de Catastro, dentro de los cuatro meses siguientes contados a partir de la fecha de la presentación del aviso del acto transmitivo de dominio.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -549,19 +557,21 @@ Para los efectos de este Impuesto, se considera que el usufructo y la nuda propi
 
 El impuesto se calculará aplicando la tasa del 2% al valor del inmueble después de reducirlo en el equivalente a una vez el salario mínimo general elevado al año, de la zona económica a que corresponda el Estado de Michoacán.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
-Tratándose de adquisiciones de vivienda en general, la reducción a que se refiere el párrafo anterior será de tres veces. Si la vivienda es de interés social o tipo popular, dicha reducción será de quince veces el mencionado salario. También se efectuará dicha reducción de quince veces, en el caso de adquisición de bienes hereditarios siempre y cuando en este último caso, el caudal hereditario se encuentre conformado por un solo predio destinado a vivienda.
+Tratándose de adquisiciones de vivienda en general, la reducción a que se refiere el párrafo anterior, será de tres veces. Si la vivienda es de interés social y popular, la reducción será de quince veces el mencionado salario.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
-Para los efectos del párrafo anterior se consideran los términos del primer párrafo de este artículo, como:
+Para los efectos de este Impuesto, se considera como:
 
-a) Vivienda de interés social, aquella cuyo valor no exceda de quince veces el salario mínimo general vigente para el Estado, elevado al año.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, P.O 29 DE DICIEMBRE DE 1994)</small>
+a) Vivienda de interés social; aquella cuyo valor, al término de su edificación, no exceda de la suma que resuIte de multiplicar por quince el salario mínimo general vigente en el Estado de Michoacán elevado al año, vigente en el Estado de Michoacán, en la fecha de presentación del aviso del acto transmitivo de dominio.
 
-b) Vivienda popular, aquella cuyo valor no exceda de veinticinco veces el salario mínimo general vigente para el Estado, elevado al año.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+
+b) Vivienda popular; aquella cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general elevado al año, vigente en el Estado de Michoacán, en la fecha de presentación del aviso del acto transmitivo de dominio.
 
 c) Vivienda en general, aquella cuyo valor exceda del límite a que se refiere el inciso b) anterior.
 
@@ -785,6 +795,10 @@ El Impuesto Adicional para Fomento Educativo, se determinará conforme a la tasa
 
 Es objeto del Impuesto sobre Espectáculos públicos, el ingreso que obtengan las personas físicas y morales que celebren espectáculos públicos de: teatro, conciertos culturales, funciones de cine, circo, lucha libre, corridas de toros, bailes públicos, eventos deportivos, espectáculos con variedad, audiciones musicales populares, torneos de gallos, carreras de caballos, jaripeos, exhibiciones de cualesquiera naturaleza y cualquier otro evento no especificado a los que se condicione el acceso al público en general mediante en pago de cuotas de admisión.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Se exceptúa de lo dispuesto en el párrafo anterior, el ingreso que se obtenga por el acceso a ferias y exposiciones que realicen los gobiernos estatal y municipales.
+
 Las personas físicas y morales que realicen actividades empresariales a que se refiere el Código Fiscal de la Federación, cuando celebren en sus establecimientos eventualmente espectáculos a que se refiere este artículo, estarán afectas al pago de este impuesto, si condicionan el acceso al pago de cuotas de admisión.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
@@ -967,29 +981,45 @@ Las infracciones al presente Capítulo se sancionarán de conformidad con las di
 
 #### Sección Primera. Del Objeto
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 78.
 
-Es objeto de este impuesto, la celebración de rifas, loterías, concursos o sorteos que se realicen en la jurisdicción de los Municipios del Estado de Michoacán.
+Es objeto del Impuesto sobre Rifas, Loterías, Concursos o Sorteos, el ingreso que se obtenga en la circunscripción territorial de los municipios del Estado, por la enajenación de billetes y demás comprobantes que permitan participar en rifas, loterías, concursos y sorteos; así como los ingresos que se obtengan derivados de premios por participar en los eventos señalados.
+
+Se exceptúa de lo dispuesto en el párrafo anterior, la obtención de ingresos por enajenación de billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos y concursos de toda clase, organizados por organismos públicos descentralizados de la Administración Pública Federal, Estatal y municipales, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y los partidos políticos.
+
+Asimismo, se exceptúa de lo dispuesto en el primer párrafo de este artículo, la obtención de ingresos derivados de premios por loterías, rifas, sorteos y concursos de toda clase, cuando tales eventos sean organizados por organismos públicos descentralizados de la Administración Pública Federal.
 
 #### Sección Segunda. De los Sujetos
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 79.
 
-Son sujetos de este impuesto, las personas físicas o morales que realicen cualquier actividad especificada en el artículo anterior.
+Son sujetos de este impuesto, las personas físicas o morales que obtengan ingresos por la enajenación de billetes y demás comprobantes que permitan participar en rifas, loterías, concursos y sorteos, así como quienes obtengan ingresos derivados de premios por participar en los eventos señalados.
 
-#### Sección Tercera. De la Base
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1996)</small>
+
+#### Sección Tercera. De la Base y de la Tasa
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 80.
 
-Será base de este impuesto, el valor comercial de los premios y se recaudará aplicando la tasa o tarifa que determine la Ley de Ingresos Municipal respectiva.
+El impuesto a que se refiere este capítulo, se determinará aplicando al monto total del ingreso obtenido por la enajenación de billetes y demás comprobantes que permitan participar en rifas, loterías, concursos y sorteos, así como a los ingresos que se obtengan derivados de premios por participar en los eventos señalados, las tasas que señale la Ley de Ingresos para los Municipios del Estado.
+
+Para los efectos del párrafo anterior, cuando los premios obtenidos sean en especie, la tasa se aplicará al valor de los premios que corresponda, de conformidad con el importe consignado en el título que ampare su propiedad o en su defecto al que se determine mediante avalúo.
 
 #### Sección Cuarta. Del Pago
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 81.
 
-Este impuesto se cubrirá en la Tesorería Municipal correspondiente al lugar donde se celebre el evento, cuando menos cinco días antes de que se efectúe la rifa, sorteo, lotería o concurso.
+Los organizadores de loterías, rifas, sorteos y concursos de toda clase, enterarán a la tesorería municipal correspondiente el impuesto a su cargo, a más tardar el día de la celebración del evento de que se trate. Asimismo, retendrán el impuesto a cargo de las personas que obtengan ingresos derivados de premios por participar en los eventos señalados y lo enterarán a la tesorería municipal correspondiente dentro de 15 días siguientes a la fecha de su pago.
 
-En caso de que celebrada la actividad gravada no se haya cubierto el impuesto en los términos de este artículo, el Tesorero Municipal deberá ordenar la retención del o los premios, declarándolos como garantía de pago del crédito fiscal, sin perjuicio se aplicará el procedimiento administrativo de ejecución.
+Para los efectos del párrafo anterior, los organizadores presentarán a la tesorería municipal correspondiente, antes del inicio de la venta, los comprobantes que permitan participar en los eventos, para su resello. Una vez celebrado el evento de que se trate, entregarán los comprobantes no vendidos.
 
 #### Sección Quinta. De las Infracciones y Sanciones
 
@@ -1481,9 +1511,13 @@ Las infracciones al presente Capítulo se sancionarán conforme lo dispuesto por
 
 Es objeto de estos derechos la prestación de servicios que proporcione el Ayuntamiento sobre:
 
-I. Licencias para lotificación y/o funcionamiento de fraccionamientos que afecten terrenos ubicados dentro de la jurisdicción de los Municipios del Estado de Michoacán;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
-II Revisión de proyectos de fraccionamientos;
+I. Autorización de fraccionamientos, condominios y conjuntos habitacionales;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1996)</small>
+
+II. Revisión de proyectos de fraccionamientos y rectificación de autorización de fraccionamientos, condominios y conjuntos habitacionales;
 
 III. Inspecciones del desarrollo de fraccionamientos;
 
@@ -1681,9 +1715,11 @@ La contribución anterior se causará al terminarse la obra pública de urbaniza
 
 #### Sección Segunda. De los Sujetos
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 173.
 
-Son sujetos de la contribución de aportación de mejoras, los propietarios o poseedores de predios con frente a la calle donde se ejecuten las obras de urbanización a que se refiere el presente capítulo. En todo caso la contribución afecta directamente a los predios beneficiados.
+Son sujetos de la contribución de aportación por mejoras, los propietarios o poseedores de predios, con frente a la calle donde se ejecuten las obras de urbanización a que se refiere el presente capítulo. En todo caso la contribución afecta directamente a los predios beneficiados.
 
 #### Sección Tercera. De la Base y Pago
 
@@ -1691,9 +1727,11 @@ Son sujetos de la contribución de aportación de mejoras, los propietarios o po
 
 La contribución a que se refiere este Capítulo se pagará al terminarse las obras que la generaron, conforme a las cuotas que apruebe el Ayuntamiento, tomando en cuenta el costo de los materiales y de la mano de obra.
 
+(REEFORMADO, P.O. 30 DE DICIEMBRE DE 1996)
+
 ###### ARTICULO 175.
 
-Para la determinación de las cuotas que los contribuyentes deban pagar por concepto de aportación de mejoras, se observarán las siguientes reglas:
+Para la determinación de las cuotas que los contribuyentes deban pagar por concepto de aportación por mejoras, se observarán las siguientes reglas:
 
 I.- Cuando se trate de obras de construcción o reparación de pavimentos del arroyo de la calle, la contribución se pagará por los propietarios o poseedores de los predios ubicados a uno y otro lado de la calle;
 
@@ -1705,11 +1743,11 @@ IV.- Para el pago de otras construcciones o instalaciones de obras públicas de 
 
 #### Sección Cuarta. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 176.
 
-Los Notarios y demás funcionarios que tengan la fe pública, no podrán autorizar definitivamente ninguna operación de transmisión de dominio de predios urbanos sin antes comprobar que dichos predios no tienen adeudos por concepto de contribución de aportación de mejoras.
-
-En los testimonios que los Notarios Públicos expidan de escrituras relativas a actos o contratos transmitivos de dominio de predios urbanos, deberán insertar el recibo oficial de pago o en su defecto el comprobante de no causación de este gravamen.
+Los Notarios y demás funcionarios que tengan la fe pública, no podrán autorizar definitivamente ninguna operación de transmisión de dominio de predios urbanos sin antes comprobar que dichos predios no tiene adeudos por concepto de contribución de aportación por mejoras.
 
 ###### ARTICULO 177.
 
@@ -1909,7 +1947,7 @@ P.O. 30 DE DICIEMBRE DE 1991.
 
 UNICO. El Presente decreto entrará en vigor el día primero de enero de 1992, previa publicación en el Periódico Oficial del Estado.
 
-P.O. 31 DE DICIEMBRE DE 1992.
+P.O. 31 DE DICIEMBRE DE 1992 .
 
 DECRETO NUM 16.
 
@@ -1942,3 +1980,9 @@ El presente Decreto entrará en vigor a partir del día 1 de enero de 1995, prev
 ###### ARTICULO SEGUNDO.
 
 Para los efectos de lo dispuesto en los artículos 111 de la Ley de Hacienda Municipal del Estado de Michoacán y 13 de la Ley de Ingresos para los Municipios del Estado de Michoacán para 1995, entre tanto no se aprueben las tarifas para el cobro de los servicios de agua potable, alcantarillado y saneamiento, se aplicarán para dicho año, las aprobadas para 1993, con un incremento del 15 %.
+
+P.O. 30 DE DICIEMBRE DE 1996.
+
+PRIMERO.- El presente decreto entrará en vigor el primero de enero de 1997, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
