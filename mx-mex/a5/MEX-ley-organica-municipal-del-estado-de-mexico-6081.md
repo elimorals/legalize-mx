@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "1996-03-02"
+last_updated: "1997-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE MARZO DE 1996.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE FEBRERO DE 1997.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1711,6 +1711,8 @@ Los cuerpos de seguridad pública, bomberos y tránsito municipales se coordinar
 
 ### CAPITULO SEGUNDO. De los Recursos Administrativos
 
+> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)</small>
+
 ###### Artículo 145.
 
 En cada municipio se establecerá un sistema de mérito y reconocimiento al servicio público municipal con los siguientes objetivos:
@@ -1827,37 +1829,27 @@ Las faltas temporales de los oficiales conciliadores y calificadores serán cubi
 
 ###### Artículo 154.
 
-Los actos, acuerdos o resoluciones que emitan o ejecuten las autoridades municipales, podrán ser impugnados por los particulares mediante la interposición de los recursos de revocación y de revisión.
+Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
 
 ###### Artículo 155.
 
-El recurso de revocación se interpondrá por el interesado dentro del plazo de quince días hábiles siguientes al de la notificación o ejecución del acto, acuerdo o resolución reclamado, de carácter no fiscal, ante la propia autoridad que lo haya dictado o realizado, la que deberá resolverlo en un plazo no mayor de quince días hábiles después de interpuesto el recurso.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 156.
 
-Procede el recurso de revisión en contra de las resoluciones dictadas por las autoridades municipales, recaidas a los recursos de revocación. Se interpondrá ante el síndico, que conocerá y resolverá el recurso, excepto el instaurado en contra del presidente municipal que será resuelto por el ayuntamiento. Los plazos para la interposición y resolución del recurso de revisión, serán los mismos que los del recurso de revocación.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 157.
 
-Los recursos deberán promoverse en forma escrita, señalando lo siguiente:
-
-I.- El nombre y domicilio del promovente;
-
-II.- El acto, acuerdo o resolución que se impugne;
-
-III.- La violación que se estime se cometió a los derechos del promovente, expresando, en su caso, los agravios cometidos en su perjuicio;
-
-IV.- Los hechos en que funde su petición;
-
-V.- Las pruebas para demostrar los hechos.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 158.
 
-La autoridad municipal que conozca de un recurso, al dictar su resolución, deberá tomar en cuenta las pruebas que acompañe el promovente al interponer el recurso, así como los argumentos o agravios que éste exponga.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 159.
 
-En contra de la resolución que se dicte en el recurso administrativo, proceden los medios de defensa que establece la Ley de Justicia Administrativa del Estado.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ## TITULO VI. De la Reglamentación Municipal
 
@@ -1983,7 +1975,7 @@ PRIMERO.- Publíquese el presente Decreto en la Gaceta del Gobierno.
 
 SEGUNDO.- Este Decreto entrará en vigor el día treinta de noviembre de mil novecientos noventa y cuatro.
 
-G.G. 6 DE ENERO DE 1995
+G.G. 6 DE ENERO DE 1995.
 
 ###### ARTICULO PRIMERO.
 
@@ -2002,3 +1994,35 @@ Publíquese el presente decreto en la Gaceta del Gobierno.
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor el día siguiente de su publicación en la Gaceta del Gobierno.
+
+G.G. 7 DE FEBRERO DE 1997.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Código en la Gaceta del Gobierno.
+
+###### ARTICULO SEGUNDO.
+
+Este Código entrará en vigor a los 30 días naturales siguientes al de su publicación en la Gaceta del Gobierno.
+
+###### ARTICULO TERCERO.
+
+Se abroga la Ley de Justicia Administrativa del Estado de México, publicada en la Gaceta del Gobierno el 31 de diciembre de 1986.
+
+###### ARTICULO CUARTO.
+
+Se derogan los siguientes artículos: 67, 74, 78, del 108 al 166, 168 y 169 del Código Fiscal del Estado de México; 66, 71, 75, del 104 al 162 y del 164 al 166 del Código Fiscal Municipal del Estado de México, del 155 al 159 de la Ley Orgánica Municipal del Estado de México; 50, 66, 67 y del 100 al 102 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios; 133, 135, 141, 144 y 145 de la Ley de Asentamientos Humanos del Estado de México; 62, 63, 70 y del 85 al 88 de la Ley de Protección al Ambiente del Estado de México; del 288 al 296 y del 298 al 307 de la Ley de Salud del Estado de México; 46, 52 y del 54 al 57 de la Ley de Protección Civil del Estado de México; 53 de la Ley de Catastro del Estado de México; 81 y 88 último párrafo de la Ley de Hacienda Municipal del Estado de México; 39 de la Ley de Aportaciones de Mejoras del Estado de México; del 37 al 39 de la Ley sobre la Prestación de los Servicios de Agua Potable y Alcantarillado en el Estado de México; 43 y 45 de la Ley de Turismo del Estado de México; 42 y 43 de la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos, Mantenimientos y Almacenes del Estado de México; del 144 al 146 de la Ley de Seguridad Social para los Servidores Públicos del Estado y Municipios; 29 y 37 de la Ley para el Fomento Económico del Estado de México; del 33 al 43 de la Ley de Expropiación para el Estado de México; 61 y 62 de la Ley Agrícola y Forestal del Estado de México; y 112 y 113 de la Ley de Fomento Ganadero del Estado de México.
+
+###### ARTICULO QUINTO.
+
+Se reforman los artículos 167 del Código Fiscal del Estado de México, 163 del Código Fiscal Municipal del Estado de México, 154 de la Ley Orgánica Municipal del Estado de México; 65 de la Ley de Responsabilidades de los Servidores Público del Estado y Municipios; 143 de la Ley de Asentamientos Humanos del Estado de México; 84 de la Ley de Protección al Ambiente del Estado de México; 297 de la Ley de Salud del Estado de México; 136 último párrafo de la Ley Orgánica del Notariado del Estado de México; 57 de la Ley de Tránsito y Transportes del Estado de México; 53 de la Ley de Protección Civil del Estado de México; 43 de la Ley de Catastro del Estado de México; 38 de la Ley de Aportaciones de Mejoras del Estado de México; 57 de la Ley de Obras Públicas del Estado de México; 36 de la Ley sobre la Prestación de los Servicios de Agua Potable y Alcantarillado en el Estado de México; 44 de la Ley de Turismo del Estado de México; 41 de la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos, Mantenimientos y Almacenes del Estado de México; 45 de la Ley Protectora de Animales del Estado de México; 143 de la Ley de Seguridad Social para los Servidores Públicos del Estado y Municipios; 38 de la Ley para el Fomento Económico del Estado de México, 32 de la Ley de Expropiación para el Estado de México; 63 de la Ley Agrícola y Forestal del Estado México y 114 de la Ley de Fomento Ganadero del Estado de México, para que cada uno quede con el texto siguiente: "Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
+
+###### ARTICULO SEXTO.
+
+Se derogan las normas legales y reglamentarias de igual o menor jerarquía que sean contrarias a las disposiciones del presente Código.
+
+###### ARTICULO SEPTIMO.
+
+Los procedimientos y recursos administrativos, así como los juicios contenciosos administrativos que se encuentren en trámite al entrar en vigor este ordenamiento, se decidirán conforme a las disposiciones legales anteriores al mismo.
