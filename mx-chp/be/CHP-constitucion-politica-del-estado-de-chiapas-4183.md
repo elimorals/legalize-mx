@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1987-11-25"
+last_updated: "1987-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1987.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -793,7 +793,11 @@ Cuando el Congreso no apruebe esos nombramientos sucesivos respecto de una misma
 
 Cuando ocurriere una vacante definitiva, por defunción, renuncia, incapacidad o cualquier otra causa de algún Magistrado y el Congreso se encuentre en receso, la Comisión Permanente conocerá del nombramiento respectivo, y dará su aprobación provisional mientras se reúne el Congreso y resuelve en definitiva. Lo mismo se observará respecto a las faltas temporales por más de tres meses de los Magistrados.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1987)</small>
+
+Los Magistrados y Jueces que integran el Poder Judicial son absolutamente independientes en el ejercicio de sus funciones. Tal independencia está garantizada por esta Constitución y por la Ley Orgánica respectiva, en la que se establecerán las condiciones para el nombramiento de aquellos, su permanencia en el cargo y las causas de su destitución.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1987)</small>
 
 ## TITULO SEPTIMO. DE LOS MUNICIPIOS
 
@@ -803,21 +807,17 @@ Cuando ocurriere una vacante definitiva, por defunción, renuncia, incapacidad o
 
 Para ser Magistrado del Tribunal Superior de Justicia se requiere:
 
-I.- Ser ciudadano chiapaneco;
+I.- Ser ciudadano chiapaneco, en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- Ser mayor de treinta años y menor de setenta en la fecha de su designación;
+II.- No tener mas de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la designación;
 
-III.- Ser Licenciado en Derecho con título legalmente expedido y registrado;
+III.- Poseer el día del nombramiento, con antigüedad mínima de cinco años, título y cédula profesionales de licenciado en derecho, expedidos por las autoridades legalmente facultadas para ello;
 
-IV.- Tener una antigüedad y práctica profesional cuando menos de cinco años a la fecha de la designación y ser un profesional del derecho de reconocida competencia, honradez y honorabilidad;
+IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de mas de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente su buena fama en el concepto público, habrá inhabilitación para el cargo, cualquiera que haya sido la pena; y
 
-V.- No pertenecer al estado eclesiástico o ser Ministro de algún cutlo(sic);
+V.- Haber residido en el estado durante los últimos tres años, salvo el caso de ausencia en servicio de la República por el tiempo menor de seis meses.
 
-VI.- No haber sido condenado por delito intencional que amerite pena privativa de libertad mayor de un año; pero si se tratare de delitos patrimoniales u otro que lesione seriamente la buena fama del candidato, éste se considerará inhabilitado para el desempeño del cargo, cualquiera que haya sido la pena impuesta;
-
-VII.- Haber residido en el estado, cuando menos seis meses antes de la fecha de la designación; y
-
-VIII.- No ser pariente por consanguinidad o afinidad hasta el cuarto grado de otro candidato a Magistrado o de un Magistrado en ejercicio.
+Los nombramientos de los Magistrados y Jueces integrantes del Poder Judicial serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia; o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -833,11 +833,15 @@ El Presidente del Tribunal Superior de Justicia informará por escrito al Congre
 
 Los Magistrados del Tribunal Superior de Justicia y los Jueces de Primera Instancia, durarán en sus funciones seis años, pudiendo ser ratificados en los mismos.
 
-Los Magistrados y los Jueces podrán ser destituidos previo juicio de responsabilidad, cuando observen mala conducta, sean negligentes en el desempeño de sus labores o dejen de reunir alguno de los requisitos que para el ejercicio del cargo señale la Ley.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1987)</small>
+
+Los Magistrados que fueren ratificados, solo podrán ser destituidos, previo juicio de responsabilidad, cuando observen mala conducta, sean negligentes en el desempeño de sus labores, dejen de reunir alguno de los requisitos que para el ejercicio del cargo señale la ley, o incurran en alguna de las hipótesis previstas en el titulo noveno de esta Constitución y en la Ley de Responsabilidades de los Servidores Públicos.
 
 Los jueces podrán ser cambiados de adscripción por el Pleno del Tribunal, por necesidades de servicio.
 
-Los Magistrados y Jueces de Primera Instancia que durante cinco años consecutivos presten sus servicios al Poder Judicial del Estado de Chiapas, en forma tal que se hayan hecho acreedores por su diligencia, fundamentación de resoluciones, probidad y honradez en el ejercicio de sus funciones y honorabilidad en su conducta ciudadana, podrán adquirir su inamovilidad y sólo podrán ser removidos de sus puestos, por mala conducta previo juicio de responsabilidad.
+(REFORMADO, P.O. 9 DE DICIEMBRE DE 1987) (F. DE. E., P.O. 27 DE ENERO DE 1988)
+
+Los Magistrados y Jueces de Primera Instancia que durante seis años consecutivos presten sus servicios al Poder Judicial del Estado de Chiapas, en forma tal que se hayan significado por su diligencia, fundamentación de sus resoluciones, probidad y honradez en el ejercicio de sus funciones y en su conducta ciudadana, serán inamovibles y sólo podrán ser destituidos de sus puestos por mala conducta, previo juicio de responsabilidad.
 
 Para alcanzar dicho beneficio, será necesario que el congreso a propuesta del Gobernador, tome el acuerdo respectivo en la forma y términos que establezca la Ley Orgánica del Poder Judicial del Estado.
 
@@ -855,7 +859,9 @@ III.- Dirimir los conflictos de competencia que se susciten en los diversos Trib
 
 IV.- Nombrar y remover a los Secretarios del Tribunal y demás empleados del Poder Judicial, de conformidad con las Leyes respectivas;
 
-V.- Nombrar a los Jueces de Primera Instancia, a los Municipales y al Visitador Judicial;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1987)</small>
+
+V.- Nombrar a los Jueces de Primera Instancia, a los Municipales, a los Rurales, al Visitador Judicial a los que con cualquiera otra denominación se creen en el Estado;
 
 VI.- Dictar su Reglamento Interior, y
 
@@ -867,15 +873,13 @@ VII.- Las demás facultades que les confirieran las Leyes.
 
 Ningún funcionario de la Administración de Justicia podrá aceptar o desempeñar otro empleo o cargo, salvo los de docencia y los honoríficos en asociaciones científicas, artísticas o de beneficencia. La infracción de este artículo será castigado con la pérdida del cargo Judicial respectivo.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 56.
 
-Los Jueces Municipales serán nombrados por el Tribunal Superior de Justicia a proposición, en terna, de los Ayuntamientos respectivos.
+Los Jueces Municipales y Rurales serán nombrados por el Tribunal Superior de Justicia a proposición, en terna, de los Ayuntamientos Municipales respectivos.
 
-Los Jueces Rurales serán nombrados por los Ayuntamientos en sus respectivas jurisdicciones.
-
-Por cada uno de los Jueces a que se refiere este artículo, se nombrará un Suplente, pudiendo ambos ser ratificados; durarán en su cargo el tiempo para el que haya sido electo el Ayuntamiento que proponga o designe en su caso. Pueden ser removidos cuando observen mala conducta, previo juicio de responsabilidad.
+Por cada uno de los jueces a que se refiere este Artículo se nombrará un suplente; ambos durarán en su cargo el tiempo para el que haya sido electo el Ayuntamiento que los proponga, salvo que sean ratificados, podrán ser destituidos cuando observen mala conducta.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1830,3 +1834,7 @@ Las presentes adiciones y reformas entrarán en vigor el día siguiente al de su
 P.O. 25 DE NOVIEMBRE DE 1987.
 
 UNICO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P. O. 9 DE DICIEMBRE DE 1987.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
