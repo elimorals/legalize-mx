@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "1993-08-18"
+last_updated: "1995-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1995.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -647,7 +647,9 @@ No gozará del beneficio de reclusión domiciliaria aquella persona que cometa u
 
 No se impondrá pena alguna a quien por culpa, y con motivo del tránsito de vehículo, ocasione lesiones u homicidio, a su cónyuge, concubino, ascendientes, descendientes o hermanos, siempre que no se encuentre en estado de ebriedad plenamente comprobado o bajo el influjo de drogas enervantes.
 
-Cuando se causare homicidio a consecuencia de actos u omisiones culposas que sean imputables a quienes conduzcan vehículos transportando personas o cosas, en servicio público o al público, la sanción será de tres a ocho años de prisión e inhabilitación hasta por el término de duración de la pena privativa de libertad.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+Cuando se causare homicidio o lesiones graves a consecuencia de actos u omisiones culposas que sean imputables a las personas que conduzcan en estado de ebriedad plenamente comprobado o bajo el influjo de drogas enervantes, vehículos automotores; o bien transportado personas o cosas en servicio público o al público; la sanción será de uno a diez años de prisión e inhabilitación hasta por el término de duración de la pena privativa de libertad.
 
 ###### ARTICULO 73.
 
@@ -1229,9 +1231,17 @@ Al conductor de un vehículo que en camino público o privado rebase o trate de 
 
 Iguales sanciones se impondrán por el sólo hecho de estacionar un vehículo en carretera o camino en la noche sin las luces de protección perfectamente visibles, o por estacionarlo sin el abanderamiento adecuado en curva o columpio, cualquiera que sea la hora del día, en tal forma que no pueda verse a distancia suficiente para evitar una colisión.
 
-###### ARTICULO 163.
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1995)</small>
 
 Las sanciones señaladas se aplicarán independientemente de las que correspondan por otros delitos que resulten.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
+###### ARTICULO 163.
+
+Incurre en responsabilidad penal el propietario o poseedor de un vehículo automotor que transite con placas sobrepuestas. Al infractor de este tipo penal se le sancionará con prisión de dos a cinco años y multa de hasta 500 veces el importe del salario mínimo.
+
+Para efectos punibles se entiende por placas sobrepuestas el que vehículos automotores porten láminas de identificación para circular, emitidas por autoridad competente que no les correspondan legalmente o que no sean vigentes tratándose de placas de procedencia extrajera.
 
 ###### ARTICULO 164.
 
@@ -2021,7 +2031,9 @@ Se impondrá prisión de uno a tres años y multa de uno a diez días de salario
 
 ## TITULO DECIMO TERCERO. PELIGROSIDAD SOCIAL
 
-### CAPITULO III. SUSTRACCION DE MENORES
+### CAPITULO III. SUSTRACCION Y TRAFICO DE INFANTES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 253.
 
@@ -2109,17 +2121,35 @@ Al que abandone en una casa de expósitos a un niño menor de siete años que se
 
 Los ascendientes o tutores que entreguen a un menor de siete años que esté bajo su potestad a una casa de expósitos, a un establecimiento de beneficencia, o a cualquiera otra persona, además de aplicárseles las sanciones a que se refiere el artículo anterior, perderán los derechos que tengan sobre la persona y bienes del menor.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE MAYO DE 1995)</small>
+
 ### CAPITULO III. ALLANAMIENTO DE MORADA
 
 ###### ARTICULO 264.
 
-Al familiar de un menor de doce años que lo sustraiga, sin causa justificada o sin orden de la autoridad competente, de la custodia o guarda de quien legítimamente la tenga, o bien que lo retenga sin la voluntad de éste, se le impondrá de uno a seis años de prisión y multa de cinco a treinta días de salario.
+Al familiar de un menor de dieciséis años que lo sustraiga, sin causa justificada o sin orden de la autoridad competente, de la custodia o guarda de quien legítimamente la tenga, o bien que lo retenga sin la voluntad de éste, se le impondrá de uno a seis años de prisión y multa de cinco a treinta días de salario.
 
 No se aplicarán las sanciones anteriores a los progenitores que incurran en los actos señalados, cuando medie causa justificada, entendiéndose por éstas, toda conducta realizada por el desposeído que perjudique evidentemente la salud física o moral del menor.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1995)</small>
+
+Cuando la sustracción o retención de un menor de dieciséis años se realice por una persona distinta a las indicadas en el primer párrafo, se impondrá de dos a ocho años de prisión y multa de diez a sesenta días de salario. Si se pone en libertad al menor, espontáneamente, antes de tres días y sin causarle algún perjuicio, se aplicará como sanción de un mes a un año de prisión.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
 ###### ARTICULO 265.
 
-Cuando la sustracción o retención de un menor de doce años se realice por una persona distinta a las indicadas en el artículo anterior, se impondrá de dos a ocho años de prisión y multa de diez a sesenta días de salario. Si se pone en libertad al menor, espontáneamente, antes de tres días y sin causarle algún perjuicio, se aplicará como sanción de un mes a un año de prisión.
+Se impondrá de diez a cincuenta años de prisión y multa de doscientos a quinientos días de salario mínimo, a quien cometa el delito de tráfico de infante en alguna de las modalidades siguientes:
+
+I. Al que por medio de la violencia física o moral, o mediante engaños o furtivamente, sustraiga a un menor de dieciséis años de la custodia de sus progenitores, o de aquellos que ejerzan la patria potestad o la tutela, con fines comerciales o para apropiárselo;
+
+II. Al progenitor de un menor de dieciséis años que ilegítimamente lo entregue en venta a un tercero para fines matrimoniales, prostitución, tráfico de estupefacientes, mendicidad o concubinato;
+
+III. A quien venda, compre o de cualquier otra forma disponga de un menor de dieciséis años para traficar con cualquiera de sus órganos o parte de su cuerpo;
+
+Igual pena se aplicará al que teniendo conocimiento de las actividades de tráfico de infantes o a la venta clandestina de órganos o parte de su cuerpo, no lo denuncie a las autoridades.
+
+A quienes dirijan, organicen o aporten recursos económicos, técnicos o materiales que permitan el ejercicio de tráfico de infantes o la venta clandestina de órganos o parte de su cuerpo, se les aplicará de veinte a cincuenta años de prisión y multa de quinientos días de salario mínimo.
 
 ### CAPITULO IV. ASALTO
 
@@ -2200,6 +2230,10 @@ II.- Al que profane un cadáver o restos humanos con acto de vilpendio (sic), ob
 Comete el delito de amenazas, el que valiéndose de cualquier medio, intimide a otro con causarle un mal en su persona, en su honor, prestigio o bienes de alguien con quien esté ligado con cualquier vinculo.
 
 El delito de amenazas se sancionará con prisión de un mes a un año y multa de uno a diez días de salario.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1995)</small>
+
+Cuando la amenaza sea a través de anónimos o empleando cualquier medio, con la finalidad de obtener la entrega de bienes o dinero, o para dar, hacer, dejar de hacer, o tolerar algo y para consumar delitos graves, se impondrá una sanción de seis a veinte años de prisión y multa de hasta 500 días de salario mínimo.
 
 ###### ARTICULO 277.
 
@@ -2889,6 +2923,16 @@ Los agentes o funcionarios de compañías de contratación de trabajadores, que 
 
 Los delitos equiparables a la figura delictiva de fraude en las fracciones IV, V, VI y VII señaladas en el artículo 369, solamente se perseguirán a petición de parte ofendida, siendo aplicable además en lo conducente los artículos 349, 353 y 356.
 
+> <small>(ADICIONADO, P.O.24 DE MAYO DE 1995)</small>
+
+###### ARTICULO 370 Bis.
+
+Comité el delito de fraccionamiento ilegal de inmuebles el que por sí o por interpósita persona cause detrimento público o privado al promover el fraccionamiento o fraccione y transfiera o prometa transmitir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, ejidal o comunal, de propiedad privada o pública, propio o ajeno, con o sin construcciones sin el previo permiso de las autoridades competentes o cuando existiendo éste no se hayan satisfecho los requisitos exigidos por la ley de la materia, la sanción para este delito será pena privativa de libertad de tres a ocho años de prisión y multa de cien a quinientos salarios mínimos.
+
+Serán igualmente responsables los servidores públicos que hayan concedido el permiso cuando no se observan las medidas de desarrollo urbano a que se refiere el párrafo anterior, aun cuando la concesión recaiga en zona en la cual existan construcciones que no reúnan las exigencias del ordenamiento urbano citado. En estos supuestos la pena será de cuatro a doce años de prisión y multa de cien a quinientos días de salario.
+
+Para los efectos de este artículo se entiende por fraccionar, dividir terrenos en lotes para fines turísticos, industriales o de asentamientos humanos.
+
 ###### ARTICULO 371.
 
 Comete el delito de administración fraudulenta el que teniendo a su cargo el manejo, la administración o el cuidado de bienes ajenos, con engaño o aprovechamiento del error del ofendido, perjudique a su titular o a un tercero con legítimo interés, o altere en sus cuentas los precios o condiciones de los contratos, suponiendo operaciones o prestaciones o exagerando las que hubiere hecho ocultando o reteniendo bienes, o empleare abusivamente los bienes o la firma que se le hubiere confiado.
@@ -3184,3 +3228,7 @@ Se derogan todos aquéllos artículos que se opongan o contravengan lo previsto 
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor 60 días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 24 DE MAYO DE 1995.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
