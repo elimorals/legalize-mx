@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1997-02-14"
+last_updated: "1997-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 1997.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -1303,6 +1303,10 @@ La Capital del Estado de Baja California será la ciudad de Mexicali, donde resi
 
 Los funcionarios públicos no tienen más facultades que las que expresamente les otorgan las leyes.
 
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
+Los Servidores Públicos Titulares de los Poderes Legislativo, Ejecutivo, Judicial y de los Ayuntamientos recibirán una retribución adecuada e irrenunciable por el desempeño de su función, misma que será equitativa y congruente con la situación socioeconómica que guarde el Estado y con las condiciones de la Hacienda Pública, determinada en su monto total en el Presupuesto Anual de Egresos y dada a conocer en forma pública con la situación patrimonial de dichos titulares.
+
 ###### ARTICULO 98.
 
 En el Estado las mujeres tienen los mismos derechos civiles y políticos que los hombres; podrán ser electas y tendrán derecho al voto en cualquier elección, siempre que reúnan los re quisitos (sic) que señale la Ley.
@@ -1443,7 +1447,7 @@ V.- La Oficina del Registro de Electores, teniendo en cuenta los datos del Censo
 
 VI.- En cada una de las cabeceras de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
 
-VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal;
+VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal.
 
 En cada Comité Distrital los Partidos Políticos a que se refiere la base IX podrán acreditar, cada uno de ellos, un representante propietario y un suplente. Los representantes serán citados a las sesiones que celebre el Comité y podrán intervenir, sin voto, en sus deliberaciones. Las designaciones de representantes ante los Comités Distritales serán registrados en la Comisión Electoral del Estado.
 
@@ -1754,3 +1758,13 @@ SEGUNDO.- El presente Decreto entrará en vigor a los tres días siguientes de s
 P.O. 14 DE FEBRERO DE 1997.
 
 ÚNICO.- El presente Decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE MAYO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Aprobada la Iniciativa por esta H. Asamblea envíese la misma a los Ayuntamientos del Estado para dar cumplimiento a lo establecido por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Agotado el trámite señalado por el Artículo 112 de la Constitución Estatal, la presente Reforma de Adición al Artículo 97 entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
