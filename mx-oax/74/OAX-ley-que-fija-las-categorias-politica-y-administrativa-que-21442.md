@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-fija-las-categorias-politica-y-administrativa-que-21442
 country: "mx"
 rank: "ley"
 publication_date: "1942-06-13"
-last_updated: "1985-08-17"
+last_updated: "2003-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY QUE FIJA LAS CATEGORIAS POLITICA Y ADMINISTRATIVA QUE EN LO SUCESIVO OSTENTARAN LOS DIFERENTES POBLADOS DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 1985.
+> <small>N. DE E. LA PRESENTE LEY FUE DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY MUNICIPAL PARA EL ESTADO DE OAXACA PUBLICADA EN EL PERIODICO OFICIAL EL 10 DE ENERO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 13 de Junio de 1942.
 
@@ -184,3 +186,25 @@ P.O. 17 DE AGOSTO DE 1985.
 ###### ARTICULO UNICO.
 
 El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2003.
+
+PRIMERO.- La presente ley entrará en vigor el primero de diciembre del año 2001. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan la Ley Orgánica Municipal del Estado de Oaxaca, aprobada por Decreto No. 118, de fecha 25 de junio de 1993, publicada en el Periódico Oficial del Gobierno del Estado de fecha 20 de noviembre de 1993 y la Ley que fija las categorías política y administrativa de los diferentes poblados del Estado de Oaxaca, aprobada por Decreto 219 de fecha 13 de junio de 1942 y publicada el mismo día.
+
+TERCERO.- Se concede un plazo de seis meses, contados a partir de la entrada en vigor de esta Ley, para que los Ayuntamientos emitan sus bandos de policía y buen gobierno, ordenanzas, reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivos ámbitos territoriales.
+
+CUARTO.- En cumplimiento al Artículo segundo Transitorio del Decreto 230 que reforma la Constitución Política del Estado Libre y Soberano de Oaxaca, en materia municipal, publicado el 8 de diciembre del año 2000. Tratándose de funciones y servicios que conforme al presente Decreto sean competencia de los Municipios y que a la entrada en vigor de las reformas sean prestados por el Gobierno del Estado o de manera coordinada con los Municipios, estos podrán asumirlos, previa aprobación del ayuntamiento. El Gobierno del Estado, dispondrá lo necesario para que la función o servicio público de que se trate se transfiera al municipio de manera ordenada, conforme al programa de transferencia que presente el Gobierno del Estado, en un plazo máximo de noventa días contados a partir de la recepción de la correspondiente solicitud.
+
+En el caso del servicio público de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, contemplado en el artículo 113 Fracción II inciso a) de la Constitución Política del Estado Libre y Soberano de Oaxaca, dentro del plazo señalado en el párrafo anterior, el Gobierno del Estado podrá solicitar a la Legislatura Local, conservar en su ámbito de competencia estos servicios cuando la transferencia de Estado a Municipio afecte en perjuicio de la población su prestación. La Legislatura del Estado, en estos casos será el órgano competente para resolver lo conducente.
+
+En tanto se realiza la transferencia a que se refiere el párrafo anterior, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
+
+QUINTO.- El Gobierno del Estado y los gobiernos municipales realizarán los actos conducentes, a efecto de que los convenios que en su caso se hubieren celebrado con anterioridad, se ajusten a lo establecido en la Constitución Federal, la Constitución Local y las leyes aplicables.
+
+SEXTO.- La substanciación de los expedientes relativos a la desaparición de un ayuntamiento, o a la suspensión o revocación del mandato de alguno de sus miembros, que hayan sido iniciados antes de la entrada en vigor de esta ley; se sujetará a las normas que lo reglamentaban con anterioridad a la vigencia de la presente, que no causen perjuicio a los interesados.
+
+SEPTIMO.- En la realización de las acciones conducentes al cumplimiento de la presente Ley, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores municipales.
+
+OCTAVO.- El Título Décimo Quinto de esta Ley, entrará en vigor, hasta en tanto se instituya el Tribunal de lo Contencioso Administrativo.
