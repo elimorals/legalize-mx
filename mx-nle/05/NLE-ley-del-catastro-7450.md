@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1997-12-29"
+last_updated: "1998-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -207,9 +207,9 @@ Las Bases Generales de Valores por Unidades Tipo deberán ser del dominio públi
 
 Las Bases Generales de Valores por Unidades Tipo podrán ser objeto de revisión total o parcial, cuando las circunstancia económicas lo justifiquen; en la inteligencia de que si ésta no se practica, subsistirán las Bases Generales de Valores existentes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-Una vez aprobadas las nuevas bases generales de valores por unidades tipo, previamente a su entrada en vigor, se publiquen por tres veces en el Periódico Oficial del Estado.
+Una vez aprobadas las nuevas Bases Generales de Valores por Unidades Tipo, previamente a su entrada en vigor, deberán notificarse a los interesados en los términos del Código Fiscal del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -221,19 +221,53 @@ Las bases generales por valores de unidades tipo y los valores catastrales de lo
 
 ###### ARTICULO 21o.
 
-El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo. No obstante lo anterior, para los efectos de la aplicación del Impuesto Predial, el valor catastral de los predios en ningún caso podrá ser inferior a $12'000,000.00. En el Reglamento de esta Ley se señalará el procedimiento para formular los avalúos.
+En los términos previstos en los artículos 20 y 21 de la Ley del Catastro del Estado, durante el año de 1999 se aplicará un incremento en las Bases Generales de Valores por Unidades Tipo y en los valores catastrales de los predios ubicados en el Estado, de hasta un 17% respecto de los terrenos y construcciones. En ningún caso los valores catastrales podrán rebasar el valor actual real de los inmuebles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+Lo tendrá entendido el C. Gobernador Constitucional del Estado, mandándolo imprimir, publicar y circular a quienes corresponda.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado de Nuevo León, en Monterrey, su Capital, a los ocho días del mes de enero de mil novecientos sesenta y cuatro.- PRESIDENTE: DIP. MARIO GARZA VALDEZ.- DIP. SECRETARIO HILARIO CONTRERAS GARCIA.- DIP. SECRETARIO: ARTURO DE LA GARZA GONZALEZ". Rúbricas.
+
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en el despacho del Poder Ejecutivo, en Monterrey, Capital del Estado de Nuevo León, a los diez días del mes de enero de mil novecientos sesenta y cuatro.
+
+LIC. EDUARDO LIVAS VILLARREAL.
+
+El Oficial Mayor de Gobierno Enc. de la Secretaría Gral. por Ministerio de Ley.
+
+LIC. JACOBO AYALA VILLARREAL.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE DICIEMBRE DE 1967.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO NUEVO LEON.</small>
+
+P.O. 23 DE DICIEMBRE DE 1972.
+
+UNICO:- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1974.
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir del día 1o. de enero de 175 (sic).
+
+SEGUNDO.- Los Municipios que hayan sido objeto de catastración o revalorización antes del 1o. de enero de 1973, serán revalorizados a partir de la fecha de vigencia del presente Decreto.
+
+TERCERO.- Se dejan sin efecto todas las disposiciones que se contrapongan con el contenido de este Decreto.
+
+CUARTO.- Por nuevos fraccionamientos, en los términos del Artículo 23 de este Decreto, se entienden aquellos cuya autorización para fraccionar se otorgue con posterioridad a la iniciación de vigencia de este Decreto.
+
+P.O. 25 DE DICIEMBRE DE 1978.
 
 ###### ARTICULO 22o.
 
 Los valores de los predios a los que ya se hubiese determinado un valor catastral, podrán ser actualizados cuando en el predio se hagan construcciones, reconstrucciones, ampliaciones o mejoras, o se modifique el uso del suelo.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 23o.
 
-Para determinar el valor catastral de los predios de los nuevos fraccionamientos o urbanizaciones, la Dirección de Catastro en coordinación con los Municipios, formulará y propondrá, en base al tipo de fraccionamiento, a su ubicación o infraestructura, el valor por unidad tipo en metros cuadrados, mismo que será revisado y aprobado por la Junta Municipal Catastral que corresponda o la Junta Central según sea el caso y que servirá para el cálculo del valor catastral.
+Para determinar el valor catastral de los predios de los nuevos fraccionamientos o urbanizaciones, inclusive las sujetas al régimen de propiedad en condominio, la Dirección de Catastro en coordinación con los Municipios, formulará y propondrá, en base al tipo de fraccionamientos, a su ubicación o infraestructura y tratándose de régimen en condominio, de acuerdo a las áreas que resulten, en los términos de la escritura constitutiva de dicho régimen, el valor por unidad tipo en metros cuadrados, mismo que será revisado y aprobado por la Junta Municipal Catastral que corresponda a la Junta Central según sea el caso y que servirá para el cálculo del valor catastral.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -273,19 +307,27 @@ Las autoridades, dependencias e instituciones que otorguen autorizaciones relati
 
 ARTICULO 28o BIS.- Los organismos y entidades públicos y privados, que realicen actividades relativas a la construcción de obras para el desarrollo urbano y de vivienda, así como los que tengan como finalidades la regularización de la tenencia legal de la tierra, deberán informar por escrito a la Dirección de Catastro la realización de actividades que impliquen un cambio en las características físicas del inmueble, así como en los datos del propietario o poseedor, que obren en el padrón catastral, en un plazo no mayor de 15 días contados a partir de que tengan conocimiento de dichos cambios.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 29o.
 
-En caso de traslación de dominio de bienes raíces, los Notarios, Jueces, Corredores Públicos y fedatarios que por disposición legal tengan funciones notariales, deberán dar aviso a la Dirección de Catastro, de las transacciones en que hubieren intervenido. Los avisos se darán dentro del plazo de un mes siguiente a la fecha en que se autorice en forma definitiva la operación.
+En caso de que la traslación de dominio de bienes raíces, los Notarios, Jueces, Corredores Públicos y fedatarios que por disposición legal tengan funciones notariales, deberán dar aviso a la Dirección de Catastro, de las transacciones en que hubieren intervenido. Los avisos se darán dentro del plazo de un mes siguiente a la fecha en que se autorice en forma definitiva la operación, y en los casos en que el Municipio se encuentre obligado a dar el aviso correspondiente, dentro de los 10 días siguientes al en que se autorice la nota de pago del Impuesto Sobre Adquisición de Inmuebles en el Municipio respectivo.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 Previamente el aviso de enajenación, se deberá solicitar ante la Dirección de Catastro la expedición del certificado de valor actual real que servirá, entre otros efectos fiscales, para el pago de los tributos que genere la operación, el cual tendrá una vigencia de tres meses partir de su fecha de expedición, la cual se interrumpirá al protocolizarse la operación respectiva.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 Las autoridades judiciales que, en el ejercicio de sus funciones, dicten resoluciones que impliquen transmisión de dominio de bienes inmuebles, se encuentran obligadas a dar el aviso respectivo a la Dirección de Catastro, dentro del plazo de un mes, contado a partir del siguiente día al en que cause ejecutoria la resolución respectiva.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 Los avisos a que se refiere este artículo deberán presentarse utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Tesorería General del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+En caso de que la traslación de dominio de bienes raíces que haya sido objeto de los avisos a que se refiere este artículo, no se llevare a cabo en los plazos que señalen las disposiciones legales aplicables para dichas operaciones, los Notarios, Jueces, Corredores Públicos y demás fedatarios, deberán presentar a la Dirección de Catastro un aviso de cancelación de la operación de que se trate, dentro de los 10 días siguientes al en que venza el plazo establecido en la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -307,7 +349,7 @@ La solicitud de inscripción de un predio en el padrón catastral, sólo procede
 
 De las Infracciones y de las Sanciones.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 21.
 
@@ -329,13 +371,15 @@ Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios
 
 ###### ARTICULO 31o.
 
-Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios que consignen datos falsos en sus declaraciones, avisos, solicitudes, planos, o manifestaciones, con excepción del relativo al valor del predio. II.- Los propietarios o poseedores de los predios que no presenten oportunamente los planos, datos, informes, declaraciones, solicitudes, manifestaciones y cualquier otro documento que señalen las leyes o las convocatorias respectivas, o sean requeridos por las autoridades catastrales, en un plazo no menor a treinta días contados a partir del inicio de los citados eventos. III.- Los propietarios o poseedores de predios que se nieguen a aclarar las dudas que surjan con motivo de sus declaraciones o manifestaciones. IV.- Los funcionarios y empleados públicos o privados a quienes esta Ley impone la obligación de auxiliar a los organismos catastrales para el mejor desempeño de sus funciones, y que no le presten oportuna y eficaz cooperación cuando le sea solicitada. V.- Los funcionarios y empleados de los organismos catastrales que por negligencia o dolo, posibiliten la infracción de esta Ley por los sujetos obligados a cumplirla.
+Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios que consignen datos falsos en sus declaraciones, avisos, solicitudes, planos, o manifestaciones, con excepción del relativo al valor del predio. II.- Los propietarios o poseedores de los predios que no presenten oportunamente los planos, datos, informes, declaraciones, solicitudes, manifestaciones y cualquier otro documento que señalen las leyes o las convocatorias respectivas, o sean requeridos por las autoridades catastrales, en un plazo no menor a treinta días contados a partir del inicio de los citados eventos. III.- Los propietarios o poseedores de predios que se nieguen a aclarar las dudas que surjan con motivo de sus declaraciones o manifestaciones. IV.- Los funcionarios y empleados públicos o privados a quienes esta Ley impone la obligación de auxiliar a los organismos catastrales para el mejor desempeño de sus funciones, y que no le presten oportuna y eficaz cooperación cuando le sea solicitada. V.- Los funcionarios y empleados de los organismos catastrales que por negligencia o dolo, posibiliten la infracción de esta Ley por los sujetos obligados a cumplirla. VI.- Los Notarios, Jueces, Corredores Públicos y demás fedatarios que por disposición legal tengan funciones notariales, que no presenten oportunamente el aviso de cancelación a que se refiere el artículo 29 de esta Ley.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 32o.
 
-Los infractores a que se refiere el artículo anterior serán sancionados como sigue: I.- Si están comprendidos en las fracciones I, III, IV y V, se les aplicará una multa de 3.5 a 6.5 cuotas. II.- Si están comprendidos en los casos de la fracción II, la que resulte mayor entre 3 cuotas o hasta el 100% de las contribuciones omitidas. III.- En los casos de la fracción V, si a juicio del Secretario de Finanzas y Tesorero General del Estado la infracción es grave, además serán destituidos, sin perjuicio de la instancia de responsabilidad, si procediera.
+Los infractores a que se refiere el artículo anterior serán sancionados como sigue: I.- Si están comprendidos en las fracciones I, III, IV y V, se les aplicará una multa de 3.5 a 6.5 cuotas. II.- Si están comprendidos en los casos de la fracción II, la que resulte mayor entre 3 cuotas o hasta el 100% de las contribuciones omitidas. III.- En los casos de la fracción V, si a juicio del Secretario de Finanzas y Tesorero General del Estado la infracción es grave, además serán destituidos, sin perjuicio de la instancia de responsabilidad, si procediera. IV.- En los casos de la fracción VI, de 15 a 35 cuotas.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 Para efectos del presente artículo al hacer referencia a cuota, se entenderá por ésta, el equivalente a un salario mínimo general diario vigente en la zona geográfica del Municipio de que se trate.
 
@@ -449,51 +493,25 @@ En los términos previstos en los artículos 20 y 21 de la Ley del Catastro del 
 
 Los Municipios del Área Metropolitana, deberán integrar su Junta Municipal en un plazo no mayor de tres meses a partir de enero de 1998.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+Los Municipios del Area Metropolitana de Monterrey, que no hayan integrado su Junta Municipal en el plazo a que se refiere el párrafo anterior, deberán hacerlo a más tardar el último día del mes de marzo de 1999. En caso de que no se realice la integración de la Junta Municipal en este plazo, respecto de los Municipios que no cumplan esta disposición a partir del 1º de abril de 1999, la Junta Central Catastral no podrá ejercer las facultades a que se refiere el segundo párrafo del Artículo 7º de esta Ley.
+
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 20o.
 
 En los términos previstos en los Artículos 20 y 21 de la Ley del Catastro del Estado, durante el año de 1998 se aplicará un incremento en las Bases Generales de Valores por Unidades Tipo y en los valores catastrales de los predios ubicados en el Estado, de hasta un 5% respecto de los terrenos y en las construcciones de un 10%. En ningún caso los valores catastrales podrán rebasar el valor actual real de los inmuebles.
 
-Lo tendrá entendido el C. Gobernador Constitucional del Estado, mandándolo imprimir, publicar y circular a quienes corresponda.
-
-Dado en el Salón de Sesiones del H. Congreso del Estado de Nuevo León, en Monterrey, su Capital, a los ocho días del mes de enero de mil novecientos sesenta y cuatro.- PRESIDENTE: DIP. MARIO GARZA VALDEZ.- DIP. SECRETARIO HILARIO CONTRERAS GARCIA.- DIP. SECRETARIO: ARTURO DE LA GARZA GONZALEZ". Rúbricas.
-
-Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Dado en el despacho del Poder Ejecutivo, en Monterrey, Capital del Estado de Nuevo León, a los diez días del mes de enero de mil novecientos sesenta y cuatro.
-
-LIC. EDUARDO LIVAS VILLARREAL.
-
-El Oficial Mayor de Gobierno Enc. de la Secretaría Gral. por Ministerio de Ley.
-
-LIC. JACOBO AYALA VILLARREAL.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 27 DE DICIEMBRE DE 1967.
-
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO NUEVO LEON.</small>
-
-P.O. 23 DE DICIEMBRE DE 1972.
-
-UNICO:- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 28 DE DICIEMBRE DE 1974.
-
-PRIMERO.- El presente Decreto surtirá sus efectos a partir del día 1o. de enero de 175 (sic).
-
-SEGUNDO.- Los Municipios que hayan sido objeto de catastración o revalorización antes del 1o. de enero de 1973, serán revalorizados a partir de la fecha de vigencia del presente Decreto.
-
-TERCERO.- Se dejan sin efecto todas las disposiciones que se contrapongan con el contenido de este Decreto.
-
-CUARTO.- Por nuevos fraccionamientos, en los términos del Artículo 23 de este Decreto, se entienden aquellos cuya autorización para fraccionar se otorgue con posterioridad a la iniciación de vigencia de este Decreto.
-
-P.O. 25 DE DICIEMBRE DE 1978.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 23o.
 
 BIS.- Los Municipios presentarán a la Dirección de Catastro, los estudios comerciales correspondientes a su circunscripción territorial y vigilarán el comportamiento del mercado para mantener actualizados estos valores, ya que servirán de base para determinar el valor actual real que expida la Secretaría de Finanzas y Tesorería General del Estado, mismo que se utilizará para el cálculo del Impuesto Sobre Adquisición de Inmuebles.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+En caso de revisión y/o modificación del valor actual real que realice la Secretaría de Finanzas y Tesorería General del Estado, con motivo de inconformidades, deberá estar presente un representante del Municipio que corresponda para que emita la opinión respectiva.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -630,3 +648,9 @@ UNICO:- El presente decreto entrará en vigor el 1º de Enero de 1997.
 P.O. 29 DE DICIEMBRE DE 1997.
 
 ÚNICO:- El presente Decreto entrará en vigor el día primero de enero de 1998.
+
+P.O. 30 DE DICIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el 1º. de Enero de 1999.
