@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "1999-04-02"
+last_updated: "1999-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987.
 
@@ -99,7 +99,7 @@ Lo dispuesto en el párrafo precedente, tendrá aplicación aún cuando la conca
 
 ###### ARTICULO 11.
 
-En los delitos de resultado material por conducta omisiva, responderá quien no lo impida, si podía hacerlo y debía jurídicamente evitarlo.
+En los delitos de resultado material por conducta omisiva, responderá quién no lo impida, si podía hacerlo y debía jurídicamente evitarlo.
 
 ### CAPITULO III. FORMAS DE INTEGRACION TIPICA
 
@@ -161,7 +161,7 @@ De igual forma responderá el que ofrezca auxiliar o auxilie al delincuente por 
 
 Cuando sin acuerdo previo ni adherencia, varias personas intervengan en la comisión de un delito y se precise el daño que cada uno causó, se les sancionará por el que cada quien produjo.
 
-Si no se precisa la causación específica,, se aplicará a todos la pena prevista por el Artículo 84 de esta Ley.
+Si no se precisa la causación específica, se aplicará a todos la pena prevista por el Artículo 84 de esta Ley.
 
 ###### ARTICULO 18.
 
@@ -1479,6 +1479,8 @@ La pena se aumentará hasta en una mitad más cuando se empleare violencia.
 
 ### CAPITULO V. USURA
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 167.
 
 Al que por medio de la seducción o engaño realice cópula con mujer casta y honesta, púber, menor de 17 años, se le impondrá prisión de 4 meses a 6 años.
@@ -1781,7 +1783,11 @@ Cuando el sujeto pasivo del delito entregue la cosa de que se trata a virtud no 
 
 ###### ARTICULO 196.
 
-Al que valiéndose de la suma ignorancia, notoria inexperiencia o extrema miseria o necesidad de otro, obtiene de éste ventajas usurarias por medio de contratos, convenios o documentos mercantiles o civiles, en los cuáles se estipulen réditos o lucros superiores a los usuales en el mercado o tasas de interés bancario autorizado, se le impondrá la pena señalada en el Artículo 193 de esta Ley.
+Al que por cualquier acto jurídico, que conste o no por escrito obtenga de otro (sic)intereses o lucros usurarios, se le impondrá prisión de 6 meses a 10 años y hasta 750 días multa.
+
+Si se valiese de la ignorancia, inexperiencia, miseria o necesidad, aunque esta fuese momentánea del pasivo, se aumentará hasta en una mitad mas la pena señalada en el párrafo anterior.
+
+Se entenderá que los intereses o lucros son usurarios, cuando sean superiores a las tasas de interés bancario autorizadas en la fecha de la celebración del acto jurídico.
 
 ### CAPITULO VI. MATRIMONIOS ILEGALES
 
@@ -2535,7 +2541,7 @@ Cuando la cantidad o el valor de lo exigido indebidamente, exceda de mil veces e
 
 Al servidor público que con motivo de su empleo, cargo o comisión en el servicio público haya incurrido en enriquecimiento ilícito, se le impondrán de 1 a 5 años de prisión y de 60 a 300 días multa, pero si el monto del enriquecimiento ilícito excede de cinco mil veces el salario, se le aplicarán de 3 a 10 años de prisión y de 300 a 500 días multa.
 
-Se presumirá que existe enriquecimiento ilícito, cuando el servidor público no pudiere acreditar el legítimo aumento de patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño, obtenidos durante su cargo en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+Se presumirá que existe enriquecimiento ilícito, cuando el servidor público no pudiere acreditar el legítimo aumento de patrimonio o la legítima procedencia de los bienes a su nombre o de aquéllos respecto de los cuales se conduzca como dueño, obtenidos durante su cargo en los términos de la Ley de Responsabilidades de los Servidores Públicos.
 
 Los bienes cuya legítima procedencia no se logre acreditar, serán decomisados en beneficio del Estado.
 
@@ -3170,3 +3176,9 @@ La presente Ley entrará en vigor a partir del día siguiente al de su publicaci
 ###### ARTICULO SEGUNDO.
 
 Se derogan aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 16 DE JULIO DE 1999
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico oficial del Gobierno del Estado "La Sombra de Arteaga".
