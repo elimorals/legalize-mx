@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2001-02-15"
+last_updated: "2002-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2002.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -627,17 +627,23 @@ La reparación del daño causado a los bienes debe consistir, en el restablecimi
 
 Cuando el restablecimiento ordenado en el artículo anterior sea imposible, la reparación consistirá en el pago en dinero de los daños y perjuicios consiguientes, entendiéndose por daños, para este efecto, los menoscabos y deterioros causados materialmente en el bien, y por perjuicios lo que deje de ganarse lícitamente por el no uso del bien, durante todo el tiempo que transcurra desde la producción del daño hasta su total reparación.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
+
 ###### Artículo 124.
 
-Si el daño se causa a las personas sin producir su muerte ni su permanente incapacidad total para el trabajo, la reparación consistirá en el pago de los servicios profesionales médicos, medicinas, hospitalización y otros, que sean necesarios para la curación de la víctima, y la indemnización de los perjuicios se hará pagando todo lo que el lesionado deje de percibir por su trabajo personal, durante todo el tiempo que transcurra desde que haya sido lesionado, hasta que pueda trabajar.
+Cuando el daño se cause a las personas y le produzca incapacidad total temporal o parcial temporal, la reparación del daño material consistirá en el pago de los servicios profesionales médicos, medicinas, hospitalización y otros, que sean necesarios para la curación de la víctima y, la indemnización de los perjuicios pagando todo lo que el lesionado deje de percibir por su trabajo personal, durante todo el tiempo que transcurra desde que haya sido lesionado, hasta que pueda trabajar.
 
 ###### Artículo 125.
 
 Si no existe una percepción fija, la indemnización se calculará por peritos, quienes a este fin tomarán en cuenta las capacidades y aptitudes de la víctima en relación con su profesión, arte, oficio, trabajo o actividad a la que normalmente se dedique; pero si los elementos de que en el caso dispongan los peritos resultaren insuficientes para emitir un dictamen debidamente fundado, lo mismo en el caso de que la víctima no disfrute de ninguna percepción o no desarrolle ninguna actividad productiva, la indemnización de los perjuicios se calculará sobre la base del salario mínimo legalmente vigente en la época o épocas en que el lesionado deje de trabajar.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
+
 ###### Artículo 126.
 
-Si el daño origina la muerte, la reparación consistirá en el pago de los gastos mortuorios y de todos los que en su caso se hubieren hecho con el fin de curar a la víctima de las lesiones que le hayan causado la muerte.
+Si el daño origina la muerte, la reparación del daño material consistirá en el pago de los gastos mortuorios y de todos los que en su caso se hubieren hecho con el fin de curar a la víctima de las lesiones que le hayan causado la muerte.
+
+Si el daño origina la incapacidad total permanente o parcial permanente, la reparación del daño material consistirá en el pago de los servicios profesionales médicos, medicinas, hospitalización y otros que se hayan realizado con motivo del daño causado.
 
 ###### Artículo 127.
 
@@ -655,17 +661,31 @@ Tendrán derecho al pago de los gastos mortuorios y de curación, en su caso, qu
 
 Si el deudor fuere económicamente incapaz de pagar en una sola exhibición la cantidad a que se refiere el artículo anterior, podrá el Juez permitirle que la pague en abonos y con plazos de gracia, fijando el mismo Juez el monto de los abonos y la extensión de los plazos, según las condiciones de las partes.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
+
 ###### Artículo 131.
 
-Independientemente de los daños y perjuicios materiales, el Juez puede acordar, en favor de la víctima o de sus beneficiarios si aquella muere, una indemnización equitativa, a título de reparación moral que pagará el responsable del hecho, sea éste lícito o ilícito.
+Daño moral es el que se causa en términos del artículo 2299 de este Código.
+
+Cuando un hecho u omisión produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante un pago en dinero, con independencia de que se hayan causado daños materiales y perjuicios.
+
+La acción de reparación del daño moral no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
 
 ###### Artículo 132.
 
-La indemnización a que se refiere el artículo anterior será prudentemente fijada por el Juez en cada caso, tomando en cuenta los elementos lesionados del patrimonio moral, como el afecto, el honor, el prestigio, la estimación de los bienes y la propia integridad personal. En este último caso, cuando el daño material origine una lesión en la víctima, el Juez fijará el importe del daño moral tomando en cuenta la visibilidad de la lesión y la región del cuerpo en que se halle, así como el sexo, edad, actividad a que la víctima esté dedicada y sus demás condiciones personales.
+Se considerará invariablemente la existencia de daño moral, siempre que el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal. En estos casos, para la determinación de la reparación del daño moral el juez tomará como referencia los parámetros de indemnización considerados para los diversos grados de lesión o la muerte, previstos en la Ley Federal del Trabajo.
+
+Además de lo dispuesto en el párrafo anterior, el Juez podrá acordar a favor de la víctima, un incremento de hasta el ochenta por ciento del monto que se fije en los parámetros de lesiones o de muerte previstos en la Ley Federal del Trabajo, atendiendo a las circunstancias del caso.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
 
 ###### Artículo 133.
 
-En todo caso el Juez también tomará en cuenta los recursos pecuniarios del agente y la gravedad del perjuicio sufrido por la víctima.
+En otros casos donde exista daño moral, el Juez determinará el monto de la reparación de éste tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable y la de la víctima, así como las demás circunstancias del caso. Sin embargo, dicha reparación en ningún caso podrá exceder del monto equivalente a mil quinientos días de salario mínimo general en el Estado.
+
+Independientemente de lo anterior, cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el Juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el Juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
 
 ###### Artículo 134.
 
@@ -16766,3 +16786,13 @@ Se abrogan todas aquellas disposiciones que se opongan al presente Decreto.
 P.O. 15 DE FEBRERO DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE MARZO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente reforma.
