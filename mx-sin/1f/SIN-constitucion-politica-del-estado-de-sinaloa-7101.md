@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1968-04-27"
+last_updated: "1968-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1968.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1029,9 +1029,13 @@ Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Just
 
 Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos, mayor de veinticinco años, abogado con título Profesional expedido por autoridad facultada para otorgarlo, y de reconocida buena conducta.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1968)</small>
+
 ###### Art. 108.
 
-En cada una de las cabeceras de los Distritos Judiciales, a que se refiere la fracción II del artículo 18 de esta Ley, habrá uno o más Jueces de 1ª Instancia que tendrán la jurisdicción que les señale la Ley Orgánica del Poder Judicial.
+En cada una de las Cabaceras (sic) de los Distritos Judiciales, a que se refiere la fracción II del Artículo 18 de esta Ley, habrá uno o más Jueces de 1ra. Instancia que tendrá la Jurisdicción que le señale la Ley Orgánica del Poder Judicial.
+
+En el Distrito Judicial en que esté ubicada la Penitenciaría del Estado, el Juzgado o los Juzgados de Primera Instancia con jurisdicción en el Ramo Penal del Propio Distrito, residirán en el mismo lugar en que se encuentre dicho establecimiento penitenciario.
 
 > <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 1953)</small>
 
@@ -1848,3 +1852,7 @@ P.O. 27 DE ABRIL DE 1968.
 ###### ARTICULO UNICO.
 
 Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 19 DE SEPTIEMBRE DE 1968.
+
+UNICO.- El Presente Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
