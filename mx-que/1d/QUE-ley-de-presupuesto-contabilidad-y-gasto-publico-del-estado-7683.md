@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-7683
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-22"
-last_updated: "1995-12-28"
+last_updated: "2002-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE QUERÉTARO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1995.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY PARA EL MANEJO DE LOS RECURSOS DEL ESTADO DE QUERETARO, PUBLICADO EN EL PERIODICO OFICIAL EL 27 DE SEPTIEMBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado "La Sombra de Arteaga", el 22 de diciembre de 1994.
 
@@ -382,3 +384,11 @@ Se derogan todas las disposiciones fiscales y reglamentarias que se opongan a la
 ###### ARTÍCULO TERCERO.
 
 Esta Ley entrará en vigor el 1º de enero de 1996.
+
+P.O. 27 DE SEPTIEMBRE DE 2002.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo.- Se otorga un plazo de un año a partir del día de su publicación a fin de dar cumplimiento a lo establecido en los Artículos 82, 83, 84, 85 y 104 de la Presente Ley.
+
+Artículo Tercero.- Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Querétaro, y se derogan todas las disposiciones que se opongan a la presente Ley, excepto en lo que se refiere a la fiscalización de los presupuestos comprendidos hasta el año 2002.
