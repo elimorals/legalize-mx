@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1923-09-20"
+last_updated: "1924-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 1923.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 1924.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -475,7 +475,9 @@ El Tribunal Superior de Justicia se compondrá de tres Magistrados propietarios 
 
 Para ser Magistrado del Tribunal Superior de Justicia se requiere:
 
-I. Ser ciudadano campechano en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1924)</small>
+
+I. Ser ciudadano Mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener veinte y cinco años de edad, cumplidos el día de la elección;
 
@@ -483,7 +485,7 @@ III. Poseer título profesional de Abogado expedido por autoridad o corporación
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-V. Haber residido en el Territorio del Estado durante los dos años anteriores a la fecha de la elección, salvo el caso de ausencia en servicio de la República o del Estado, por un tiempo menor de un año.
+V. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 1924)
 
 ###### Art. 69.
 
@@ -918,3 +920,7 @@ P.O. 26 DE MAYO DE 1923.
 P.O. 20 DE SEPTIEMBRE DE 1923.
 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+
+P.O. 13 DE NOVIEMBRE DE 1924.
+
+Unico. Las modificaciones a que se refieren los artículos anteriores surtirán sus efectos veinte y cuatro horas después de publicadas en el Periódico Oficial del Estado.
