@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-municipal-del-estado-libre-y-soberano-de-7272"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-06-09"
-last_updated: "1986-06-09"
+last_updated: "1987-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 9 de junio de 1986.
 
@@ -1347,85 +1347,219 @@ Los Delegados y Subdelegados Municipales ejercerán las atribuciones a que se re
 
 En los centros de población que por su diversidad demográfica o extensión territorial sean considerados como importantes por el Ayuntamiento, a propuesta del Presidente Municipal, se procurará que las delegaciones que se establezcan, procuren la participación de sus habitantes en el ámbito de la propia delegación, en el planteamiento y solución de sus problemas y para el eficaz cumplimiento de sus funciones.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 130.
 
-Este capítulo regula las formas de consulta popular y de colaboración de la comunidad que deberán instrumentarse en los Municipios, con el propósito de garantizar la participación frecuente de la población en la definición de las prioridades municipales, así como en la adopción de las decisiones de Gobierno Municipal que determine el Ayuntamiento.
+Este Capítulo regula las formas de participación y colaboración ciudadana que se instrumentarán en los centros de población de los Municipios del Estado, con el propósito de fortalecer el régimen de democracia participante, vincular permanentemente a gobernantes y gobernados y propiciar la colaboración directa y efectiva de los ciudadanos en la ejecución de programas de obras y servicios públicos.
 
-###### ARTICULO 131.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
-Conforme a lo dispuesto en el artículo anterior, las autoridades municipales deberán promover la participación de los sectores organizados de la comunidad mediante la integración de concejos o comités de los regulados por esta Ley y otros órganos de colaboración establecidos por los Ayuntamientos en los reglamentos que, en su caso, expida.
+###### Artículo 131.
+
+Los ayuntamientos podrán establecer, con el fin mencionado en el artículo anterior, los siguientes órganos de participación y colaboración ciudadana.
+
+A) Consejo Consultivo,
+
+B) Comités de Participación Ciudadana,
+
+C) Comités de Vecinos.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+CONSEJO CONSULTIVO
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 132.
 
-En todo caso, los planteamientos y sugerencias que se deriven de la participación de la comunidad que se dé a través de los medios establecidos en esta Ley, tendrán el carácter de recomendaciones no obligatorias, no obstante, en lo cual, las autoridades municipales deberán informar con oportunidad y precisión de las decisiones adoptadas.
+El Consejo Consultivo podrá integrarse en cada localidad de los Municipios del Estado será un órgano de consulta del Presidente Municipal cuya finalidad primordial es el estudio de análisis de los asuntos que sean puestos a su consideración y la presentación al Presidente Municipal de Alternativas viables para el mejor desarrollo de la comunidad, así como para la solución de los problemas que eventualmente surjan en la propia localidad.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 133.
 
-En cada Municipio podrá instalarse un Consejo de vecinos que funcionará como órgano de consulta del Presidente Municipal y tendrá por objeto ser órgano de representación vecinal y actuar como foro de consulta popular, a efecto, de que la población participe en la fijación de objetivos y prioridades en los planes y programas de desarrollo municipal.
+El Consejo Consultivo tendrá las siguientes funciones:
 
-Como órgano de consulta del Presidente Municipal el Concejo de vecinos podrá ser consultada sobre cualquier materia que el Presidente Municipal juzgue prudente.
+A) Examinar las cuestiones que el Presidente Municipal le someta para su análisis, presentación de opinión y alternativas de decisión.
+
+B) Expresar al Presidente Municipal sus puntos de vista sobre los planes y programas de desarrollo municipal y específicamente aquellos que se refieran a la localidad a la cual sirven.
+
+C) Sugerir al Presidente Municipal la realización de estudios sobre aspectos de la vida municipal que le proporcionen datos y antecedentes sobre los problemas a resolver y agreguen elementos útiles para la toma de decisiones.
+
+D) Someter a consideración del Presidente Municipal las medidas que los miembros del Consejo consideren oportunas a fin de mejorar y modernizar la administración pública municipal.
+
+E) Estudiar y analizar las situaciones peculiares de la localidad que, a juicio del Consejo, deban prevenirse con anticipación y externar su opinión al Presidente Municipal, acompañada de propuestas de solución para la atención de la problemática planteada, si alguna de las medidas sugeridas implican la intervención de otros niveles de gobierno, el Consejo podrá sugerir alternativas de acción para estos casos.
+
+F) Aquellos que específicamente le señale el Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 134.
 
-El Concejo de Vecinos estará integrado por representantes de los diversos sectores del Municipio que serán invitados por el Presidente Municipal considerando las diversas organizaciones sociales existentes.
+El Presidente Municipal recibirá opiniones, sugerencias y propuestas que le presente el Consejo Consultivo en calidad de alternativas y las tomará en cuenta como recomendaciones valiosas en el ejercicio de sus responsabilidades sin estar vinculado obligatoriamente a tales recomendaciones.
 
-El Concejo de Vecinos será presidido por el Presidente Municipal o quien haga sus veces y su integración, organización y funcionamiento, se regirá por el reglamento que al efecto expida el Ayuntamiento.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 135.
 
-Los cargos en el Concejo de Vecinos serán honoríficos y tendrán una duración de un año improrrogable, pero, en todo caso, sus miembros podrán formar parte del nuevo Concejo a invitación expresa del Presidente Municipal.
+El Consejo Consultivo se integrará con un mínimo de 6 a un máximo de 12 miembros, tendrá una vigencia máxima de tres años y contará con un Presidente y un Secretario, electos por el propio Consejo, quienes durarán en su cargo un año y podrán ser reelectos cuando así lo decida la mayoría del Consejo.
 
-### CAPITULO SEXTO. DE LA CONSULTA POPULAR Y LA COLABORACION DE LA COMUNIDAD
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
+
+### CAPITULO SEXTO. ORGANOS DE PARTICIPACION Y COLABORACION CIUDADANA
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 136.
 
-Para ser miembro del Concejo de Vecinos, se requiere:
+El Presidente Municipal decidirá el número de integrantes de cada Consejo y otorgará la distinción ciudadana a quienes deban constituirlo. Los cargos serán honoríficos, gratuitos y a título personal, con independencia de la (sic) asociaciones, Cámaras o grupos constituidos a que en ese momento pertenezca el miembro del Consejo. En todo caso los integrantes del Consejo deberán residir en la localidad, no desempeñar algún cargo público, ser personas de reconocida calidad moral y destacarse por su espíritu de cooperación y colaboración en los asuntos comunitarios.
 
-I.- Ser ciudadano quintanarroense en ejercicio de sus derechos.
-
-II.- Residir en el Municipio respectivo.
-
-III.- No ser funcionario ni empleado público, y
-
-IV.- No ocupar cargo de elección popular, no pertenecer al Estado eclesiástico, ni ser Ministro de algún culto.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 137.
 
-Las sesiones del Concejo de Vecinos serán públicas y se celebrarán con la asistencia de la mayoría de sus miembros, siempre y cuando se encuentre entre ellos el Presidente Municipal o quien haga sus veces. Sus recomendaciones se tomarán por mayoría de votos, siendo de calidad para el caso de empate, el del Presidente.
+El Consejo Consultivo se reunirá mediante convocatoria del Presidente Municipal y sesionará cuando menos una vez al mes en el Palacio Municipal o en la Delegación de la localidad respectiva, el Consejo podrá celebrar reuniones de trabajo en otro lugar, cuando así se requiera por la índole de los asuntos a tratar.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 138.
 
-El Concejo de vecinos tendrá las siguientes atribuciones:
+El Presidente del Consejo Consultivo dialogará con el Presidente Municipal a fin de determinar el orden del día para las reuniones del Consejo y el Secretario se hará cargo de los citatorios correspondientes, de las minutas de las reuniones, de proporcionar a los miembros del Consejo los documentos que se requieran así como del registro, archivo y conservación de las actuaciones del Consejo.
 
-I.- Colaborar con el Ayuntamiento en el análisis de los problemas económicos, sociales y culturales del Municipio.
-
-II.- Elaborar estudios sobre problemas locales.
-
-III.- Sugerir al Presidente Municipal las medidas tendientes al mejor funcionamiento de la administración, los servicios públicos y en general todo aquello que pueda contribuir al beneficio de la comunidad.
-
-IV.- Asesorar al Ayuntamiento, cuando así le sea solicitado, en el desarrollo de programas específicos.
-
-V.- Reunirse en Sesión Solemne en las fechas memorables y otros acontecimientos de importancia nacional, estatal o municipal.
-
-VI.- Programar y participar en actos cívicos.
-
-VII.- Cooperar con las autoridades competentes en las tareas de auxilio en los casos de emergencia o desastre.
-
-VIII.- El Presidente Municipal podrá integrar también un Concejo Consultivo que le proporcione asesoría en los aspectos técnicos, profesionales y de gremios artesanales para que lo auxilien en sus tareas. El Concejo funcionará en forma honorífica y gratuita, y en ningún caso, las opiniones y sugerencias serán obligatorias para el Presidente Municipal.
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 139.
 
-Las relaciones laborales de los Municipios y sus trabajadores se regirán por la Ley que expida la Legislatura del Estado.
+El Presidente del Consejo conducirá las reuniones, asegurando que los puntos de vista de sus integrantes sean libremente expresados y escuchados, atendiendo en todo momento a la eficacia del Consejo, a fin de que éste órgano consultivo auxilie en forma debida al Presidente Municipal, proporcionándole oportunamente la asesoría que solicite.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 140.
+
+Los períodos de tres años de los Consejos Consultivos corresponderán a los trienios de las administraciones municipales y cada Presidente Municipal al entrar en funciones podrán integrar los Consejos correspondientes. Sin embargo el Consejo Consultivo en funciones al inicio de su nueva administración municipal, permanecerá en su cargo el tiempo necesario para entregar los documentos y archivos relativos y sobre todo, proporcionar información y antecedentes generales sobre todos aquellos asuntos que sean de interés para el Presidente entrante.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+### CAPITULO SEPTIMO. DE LA RELACION DEL TRABAJO EN LOS MUNICIPIOS
+
+###### ARTICULO 141.
+
+Los integrantes del Consejo Consultivo dejarán de formar parte de él y serán sustituidos por quienes designe el Presidente Municipal en los siguientes casos:
+
+A) Cuando no resida ya en la localidad respectiva;
+
+B) Cuando por razones personales decida renunciar a su cargo;
+
+C) Cuando reciba algún nombramiento para un cargo público, sea o no de elección popular;
+
+D) Cuando por razones graves amerite ser relevado del cargo.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+COMITES DE PARTICIPACION CIUDADANA
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+### CAPITULO PRIMERO. DE LAS GARANTIAS Y RECURSOS
+
+###### ARTICULO 142.
+
+Los Comités de Participación Ciudadana son grupos específicamente integrados para organizar y hacer efectiva y directa la participación ciudadana en la ejecución de obras públicas o en la prestación de servicios a la comunidad.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+###### ARTICULO 143.
+
+Los Comités de Participación Ciudadana se integrarán previa aprobación del Cabildo, serán temporales y su duración estará determinada por el programa a realizar, al termino del cual, concluirán sus funciones.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+###### ARTICULO 144.
+
+La integración de los Comités podrá ser sugerida por asociaciones y grupos ya organizados, por cualesquiera de los tres niveles de gobierno o bien por ciudadanos interesados en la realización concreta de una obra o en la prestación de algunos de los servicios públicos de la localidad. Cada Comité tendrá, salvo lo previsto por el Artículo 149, entre 6 y 8 miembros y uno de ellos lo presidirá, haciéndose responsable de la acción conjunta del comité.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+###### ARTICULO 145.
+
+Las actividades de los Comités serán normadas por un convenio de Participación Ciudadana, mediante el cual se concertarán, las acciones a realizar. Este convenio será signado por los miembros del Comité, por el Presidente Municipal y por el representante de cada una de las instancias de gobierno que aporten recursos para la realización del programa concertado.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+###### ARTICULO 146.
+
+En el convenio de Participación Ciudadana se definirán con precisión las acciones a que se compromete cada una de las partes, en todo caso, el gobierno municipal y el gobierno estatal dentro de sus respectivas competencias, prestarán al Comité la asesoría técnica que requiera, lo auxiliarán en los trámites legales y oficiales que sean necesarios para la realización del programa y efectuarán las gestiones requeridas ante las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+###### ARTICULO 147.
+
+El contenido de la Participación Ciudadana será plasmado en el convenio y podrá consistir en una aportación de mano de obra, de materiales de construcción de estudios técnicos o financieros, de cooperación económica, de actividades de supervisión y vigilancia, de control de adquisiciones y pagos, de registro de los avances y cumplimiento del programa o de la obra, de intervención en la selección de los contratistas, y en general, cualquier otro tipo de colaboración que sea convenida.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+###### ARTICULO 148.
+
+El origen y la forma de distribución del presupuesto que se asigne a las obras y programas que se realicen a través de un Comité de Participación Ciudadana, deberán especificarse en el convenio y será responsabilidad de todas las partes que sean aplicados en la forma prevista.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+###### ARTICULO 149.
+
+Cuando la materia del convenio de Participación Ciudadana se relacione con la seguridad pública de la localidad, el Comité se integrará con un mínimo de 8 miembros y contará además del Presidente con un Secretario que lleve un control documental de las acciones del Comité en estos casos, el gobierno municipal designará un representante con conocimientos y experiencia en la materia que vincule el Comité con el área de seguridad pública municipal.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+COMITES DE VECINOS
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+###### ARTICULO 150.
+
+Los Comités de Vecinos son órganos de colaboración ciudadana que podrán instalarse en las localidades de los municipios con el fin de propiciar una permanente comunicación entre gobernantes y gobernados, vinculando su intervención en los asuntos comunitarios.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+###### ARTICULO 151.
+
+Los Comités de Vecinos se integrarán, respetando en todo caso, las peculiaridades de cada municipio por barrios, manzanas, colonias, sectores, ejidos y rancherías y cada Ayuntamiento podrá determinar su temporalidad, el número de sus integrantes y las normas de funcionamiento.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+###### ARTICULO 152.
+
+La integración de estos órganos de Participación Ciudadana deberá facilitar los procesos de consulta popular permanente y propiciar una democracia más participativa, creando conciencia comunitaria de la responsabilidad conjunta de gobernantes y gobernados respecto a la buena marcha de la vida colectiva.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+###### ARTICULO 153.
+
+Los Comités de Vecinos tendrán como una de sus funciones primordiales el contribuir al mejoramiento de los servicios públicos en el área de su demarcación. Para ello, ejercerán una permanente vigilancia comunicando a la autoridad municipal cualquier irregularidad en sus funcionamientos y al mismo tiempo harán propuestas para extender los servicios o bien para mejorar su calidad.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+###### ARTICULO 154.
+
+Cuando estas propuestas impliquen acciones o programas específicos o bien conduzcan a la realización de una obra o a la prestación de un servicio la Participación de los Vecinos será encauzada a través de un Comité de Participación Ciudadana en los términos de los artículos 142 A 149 de esta misma Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1987)</small>
+
+###### ARTICULO 155.
+
+Los Comités de Vecinos tendrán así mismo la función de promover la mutua ayuda entre los residentes de su zona, previniendo también la forma de organizarse en caso de emergencias urbanas, incendios, ciclones y en general cualquier desastre que afecte la vida comunitaria.
+
+###### ARTICULO 156.
+
+Las relaciones laborales de los Municipios y sus trabajadores se regirán por la Ley que expida la Legislatura del Estado.
+
+###### ARTICULO 157.
 
 Contra los acuerdos del Ayuntamiento, relativos a calificaciones y sanciones por faltas a los reglamentos, procederá el recurso de reconsideración, el cual será interpuesto por el afectado dentro de los tres días siguientes a aquél en que se le haya notificado.
 
 Tratándose de multas por faltas a los reglamentos, sólo se dará curso a la reconsideración, si comprueba haber depositado en la Tesorería Municipal el importe de aquellas en calidad de garantía, hasta en tanto no se resuelva el recurso interpuesto.
 
-### CAPITULO SEPTIMO. DE LA RELACION DEL TRABAJO EN LOS MUNICIPIOS
-
-###### ARTICULO 141.
+###### ARTICULO 158.
 
 El Ayuntamiento, en cada sesión que celebre, conocerá de los recursos interpuestos; y considerando las razones del recurrente, procederá a confirmar, revocar o modificar el acuerdo o calificación recurrida, haciéndolo del conocimiento del interesado en un plazo no mayor de 3 días.
 
@@ -1433,27 +1567,25 @@ El Secretario del Ayuntamiento recibirá los recursos y de inmediato los hará d
 
 En caso de urgencia, el Presidente Municipal al conocer de los recursos, podrá convocar a sesiones extraordinarias.
 
-### CAPITULO PRIMERO. DE LAS GARANTIAS Y RECURSOS
-
-###### ARTICULO 142.
+###### ARTICULO 159.
 
 Son Servidores Públicos: El Presidente Municipal, Síndico, Regidores Titulares, Secretario y Tesorero del Ayuntamiento, Titulares de los Cuerpos de Seguridad Pública y Tránsito, de Readaptación Social y Titulares de las Unidades y de los Servicios Públicos, los Alcaides y los Delegados, Subdelegados, y Servidores Públicos de confianza del Ayuntamiento.
 
 Los Servidores Públicos serán responsables de los delitos, actos u omisiones o faltas oficiales que cometan en el ejercicio de sus funciones o con motivo de ellas y se estará a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-###### ARTICULO 143.
+###### ARTICULO 160.
 
 Las faltas de los miembros del Ayuntamiento podrán ser sancionados por el Ejecutivo del Estado con la aprobación de la Legislatura.
 
-###### ARTICULO 144.
+###### ARTICULO 161.
 
 Las faltas a los acuerdos y reglamentos, deberán ser calificadas o sancionadas por el servidor público designado por el Ayuntamiento, dentro de las 24 horas siguientes a la detención del infractor o del aseguramiento del instrumento y objeto de la infracción.
 
-###### ARTICULO 145.
+###### ARTICULO 162.
 
 Los Presidentes Municipales se sujetarán a las disposiciones contenidas en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y en el Artículo 29 de la Constitución Política del Estado, en relación a la fijación de multas o arrestos por faltas cometidas de que habla el artículo anterior.
 
-###### ARTICULO 146.
+###### ARTICULO 163.
 
 Las infracciones a los acuerdos y reglamentos municipales que no tengan establecidas sanciones, se sancionarán:
 
@@ -1475,7 +1607,7 @@ V.- Clausura.
 
 VI.- Pago al Municipio del daño causado, sin perjuicio de las demás sanciones que procedan conforme a las leyes.
 
-###### ARTICULO 147.
+###### ARTICULO 164.
 
 Los Ayuntamientos, para asegurar el cumplimiento de las leyes y evitar los daños inminentes o los ya perjudiciales, pueden adoptar y mandar ejecutar de inmediato contra los responsable, las medidas de seguridad siguientes:
 
@@ -1485,7 +1617,7 @@ II.- Desocupación o desalojo de personas y cosas de lugares públicos y bienes 
 
 III.- Cualesquiera que tiendan a proteger de inmediato a las personas, los bienes y la seguridad pública, en los casos de extrema urgencia.
 
-###### ARTICULO 148.
+###### ARTICULO 165.
 
 Podrán imponerse al infractor simultáneamente las sanciones y medidas de seguridad que establezcan las leyes, sin perjuicio de la responsabilidad penal en la que incurriere.
 
@@ -1516,3 +1648,9 @@ Los recursos interpuestos contra acuerdos de los Ayuntamiento que se hayan promo
 Salón de Sesiones del Poder Legislativo, en la ciudad de Chetumal, Quintana Roo, a los cinco días del mes de Junio de mil novecientos ochenta y seis.- Diputado Presidente, José F. Castillo Cazola.- Diputada Secretaria, Ligia L. Alvarez y Manzano.
 
 En cumplimiento a lo dispuesto por la Fracción I del Artículo 91 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo a los seis días del mes de Junio de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado. Lic. Pedro Joaquín Coldwell.- El Secretario de Gobierno, Lic. Esteban Maqueo Coral.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITOIROS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE MAYO DE 1987.
+
+Artículo único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
