@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-10160"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-02"
-last_updated: "1996-12-02"
+last_updated: "1998-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: EL DÍA 30 DE ABRIL DE 1998.
 
 Ley publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 2 de diciembre de 1996.
 
@@ -115,37 +115,39 @@ Cuando para la atención de algún asunto exista duda respecto a competencia ent
 
 ### CAPITULO II. DE LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA ESTATAL CENTRALIZADA
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
+
 ###### ARTICULO 18.
 
 El despacho de los negocios de la Administración Pública Estatal se realizará por el Gobernador del Estado, a través de las siguientes dependencias:
 
-Secretaría de Gobierno
+Secretaría de Gobierno.
 
-Secretaría de Desarrollo Urbano y Ecología
+Secretaría de Desarrollo Urbano y Ecología.
 
-Secretaría de Comunicaciones y Obras Públicas
+Secretaría de Comunicaciones y Obras Públicas.
 
-Secretaría de Desarrollo Agropecuario y Forestal
+Secretaría de Desarrollo Agropecuario.
 
-Secretaría de Fomento Económico
+Secretaría de Fomento Económico.
 
-Secretaría de Turismo
+Secretaría de Turismo.
 
-Secretaría de Educación
+Secretaría de Educación.
 
-Secretaría de Salud
+Secretaría de Salud.
 
-Oficialía Mayor
+Oficialía Mayor.
 
-Tesorería General
+Tesorería General.
 
-Procuraduría General de Justicia
+Procuraduría General de Justicia.
 
-Coordinación de Control y Desarrollo Administrativo
+Coordinación de Control y Desarrollo Administrativo.
 
-Coordinación de Comunicación Social
+Coordinación de Comunicación Social.
 
-Coordinación de Gestión Social
+Coordinación de Gestión Social.
 
 ###### ARTICULO 19.
 
@@ -211,6 +213,8 @@ XXIX. Coordinar con las dependencias de la Administración Pública Estatal y lo
 
 XXX. Las demás que le señalen otras normas jurídicas vigentes o que le sean delegadas por el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
+
 ###### ARTICULO 20.
 
 A la Secretaría de Desarrollo Urbano y Ecología le corresponde el ejercicio de las siguientes atribuciones:
@@ -219,35 +223,31 @@ I. Proponer las políticas para ordenar y regular la planeación, la fundación,
 
 II. Proponer al Gobernador del Estado la celebración de convenios con la Federación, entidades federativas, y municipios del Estado, en materia de acciones e inversiones para el desarrollo urbano y aprovechamiento del territorio estatal;
 
-III. Formular, instrumentar y difundir conjuntamente con las dependencias que correspondan, el Programa Estatal de Desarrollo Urbano, así como darle seguimiento, evaluar y vigilar su cumplimiento;
+III. Formular, instrumentar y difundir conjuntamente con las dependencias que correspondan, el programa estatal de desarrollo urbano, así como darle seguimiento, evaluar y vigilar su cumplimiento;
 
 IV. Participar en la constitución y administración de reservas territoriales en el Estado, coadyuvando con las autoridades federales y municipales en la regularización de la tenencia de la tierra urbana;
 
-V. Formular, revisar y aplicar, conjuntamente con las dependencias que correspondan, los Programas Sectoriales, Estatales y Regionales de Desarrollo Urbano;
+V. Formular, revisar y aplicar, conjuntamente con las dependencias que correspondan, los programas sectoriales, estatales y regionales de desarrollo urbano;
 
 VI. Vigilar y evaluar la ejecución de los programas de desarrollo urbano municipales, de los centros de población y los que de ellos se deriven, tomando las medidas necesarias para su debida observancia;
 
-VII. Supervisar el cumplimiento y aplicación de las disposiciones legales del Estado, en materia de desarrollo y transporte urbanos;
+VII. Supervisar el cumplimiento y aplicación de las disposiciones legales en materia de desarrollo urbano;
 
-VIII. Regular la vialidad del transporte público urbano en el Estado, así como participar en la elaboración de los reglamentos y en la determinación de las políticas de la materia;
+VIII. Coordinar, de acuerdo con los lineamientos, normas y mecanismos que al efecto se establezcan, el Programa Estatal de Vivienda, en la forma que se acuerde con el Gobierno Federal, los organismos descentralizados y los municipios del Estado;
 
-IX. Estudiar, planear y controlar el servicio público de transporte urbano de pasajeros;
+IX. Promover y ejecutar, en coordinación con los ayuntamientos y con la participación de los sectores social y privado, obras de infraestructura y equipamiento para el desarrollo regional y urbano, con base en los programas de desarrollo urbano aplicables;
 
-X. Coordinar, de acuerdo con los lineamientos , normas y mecanismos que al efecto se establezcan, el Programa Estatal de Vivienda, en la forma que se acuerde con el Gobierno Federal, los organismos descentralizados y los municipios del Estado;
+X. Observar las bases a que deben sujetarse los concursos para la ejecución de obras de servicios públicos de su competencia;
 
-XI. Promover y ejecutar, en coordinación con los ayuntamientos y con la participación de los sectores social y privado, obras de infraestructura y equipamiento para el desarrollo regional y urbano, con base en los programas de desarrollo urbano aplicables;
+Xl. Adjudicar los contratos de las obras de servicios públicos que correspondan a su competencia, y vigilar el cumplimiento de los mismos;
 
-XII. Observar las bases a que deben sujetarse los concursos para la ejecución de obras de servicios públicos de su competencia;
+XII. Realizar directamente, o a través de terceros, las obras de servicios públicos que sean de su competencia;
 
-XIII. Adjudicar los contratos de las obras de servicios públicos que correspondan a su competencia, y vigilar el cumplimiento de los mismos;
+XIII. Proporcionar a los municipios la asesoría técnica que soliciten para la elaboración de los programas de desarrollo urbano;
 
-XIV. Realizar directamente, o a través de terceros, las obras de servicios públicos que sean de su competencia;
+XIV. Ejercer las atribuciones que en materia de ecología y protección al ambiente, correspondan al Gobierno del Estado; y,
 
-XV. Proporcionar a los municipios la asesoría técnica que soliciten para la elaboración de los programas de desarrollo urbano;
-
-XVI. Ejercer las atribuciones que en materia de ecología y protección al ambiente, correspondan al Gobierno del Estado; y,
-
-XVII. Las demás que les señalen otras normas jurídicas vigentes o que le sean delegadas por el Gobernador del Estado.
+XV. Las demás que les señalen otras normas jurídicas vigentes o que le sean delegadas por el Gobernador del Estado.
 
 ###### ARTICULO 21.
 
@@ -285,57 +285,53 @@ XV. Adjudicar y vigilar el cumplimiento de los contratos de obra publica de su c
 
 XVI. Las demás que le señalen otras normas jurídicas vigentes o que le sean delegadas por el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1998)</small>
+
 ###### ARTICULO 22.
 
-A la Secretaria de Desarrollo Agropecuario y Forestal le corresponde el ejercicio de las siguientes atribuciones:
+A la Secretaría de Desarrollo Agropecuario le corresponde el ejercicio de las siguientes atribuciones:
 
-I. Elaborar y ejecutar los planes y programas estatales de desarrollo en la materia agropecuaria, con la participación de los productores, y atendiendo a criterios de potencialidad en el uso de recursos, crear nuevas fuentes de ocupación, a efecto de elevar la productividad y mejorar los niveles de bienestar de la población;
+l. Elaborar y ejecutar los planes y programas estatales de desarrollo en la materia agropecuaria, con la participación de los productores, y atendiendo a criterios de potencialidad en el uso de recursos, crear nuevas fuentes de ocupación, a efecto de elevar la productividad y mejorar los niveles de bienestar de la población;
 
-II. Fomentar, desarrollar y ejecutar los programas estatales de fomento forestal, así como participar en la planeación y programación de las obras e inversiones tendientes a promover la racional explotación de los recursos forestales y pesqueros del Estado;
+II. Participar en la planeación y programación de las obras e inversiones que promuevan la racional explotación de los recursos agropecuarios en el Estado;
 
-III. Fomentar y apoyar los programas de investigación forestal agropecuaria, así como el desarrollo de la agricultura, ganadería, apicultura, avicultura y fruticultura, y divulgar las técnicas y sistemas que mejoren la producción;
+III. Fomentar y apoyar los programas de investigación agropecuaria, así como el desarrollo de la agricultura, ganadería, apicultura, avicultura y fruticultura, y divulgar las técnicas y sistemas que mejoren la producción en el sector;
 
 IV. Fomentar, promover, apoyar y coordinar, en su caso, la organización de los productores, para facilitarles el acceso al crédito, la adopción de innovaciones tecnológicas, la comercialización adecuada de sus productos, y la mejora de los sistemas de producción y administración de sus recursos;
 
-V. Emitir opinión fundada, acerca de las solicitudes para aprovechamientos de productos forestales que se pretendan realizar en la entidad;
+V. Programar y promover la construcción y realización de obras de pequeña irrigación, bordos, canales, tajos, abrevaderos y jagüeyes que competa ejecutar al Gobierno Estatal, o en cooperación con los gobiernos Federal y municipales o con los particulares;
 
-VI. Recabar oportunamente información de los aprovechamientos forestales que se autoricen y de las actividades programadas;
+VI. Proponer al Gobernador del Estado la celebración de convenios y la realización de programas y acciones, con el Gobierno Federal, con entidades federativas y municipios que fomenten el desarrollo en materia agropecuaria;
 
-VII. Promover ante la autoridad forestal, fundadamente y por escrito la cancelación, suspensión o modificación de los aprovechamientos forestales autorizados;
+VII. Promover la participación social en la realización de programas y acciones en el medio rural;
 
-VIII. Programar y promover la construcción y realización de obras de pequeña irrigación, bordos, canales, tajos, abrevaderos y jagüeyes que competa ejecutar al Gobierno Estatal, o en cooperación con los gobiernos Federal y municipales o con los particulares;
+VIII. Coordinar sus acciones con las autoridades federales, para lograr el mejor aprovechamiento de los recursos hidráulicos del Estado;
 
-IX. Proponer al Gobernador del Estado la celebración de convenios y la realización de programas y acciones, con el Gobierno Federal, con entidades federativas y municipios, que fomenten el desarrollo en materia agropecuaria;
+IX. Vigilar la preservación de los recursos naturales renovables y desarrollar su potencial productivo;
 
-X. Promover la participación social en la realización de programas y acciones en el medio rural;
+X. Realizar campanas permanentes para prevenir y combatir plagas y enfermedades que atacan las especies vegetales y animales en el Estado;
 
-XI. Coordinar sus acciones con las autoridades federales, para lograr el mejor aprovechamiento de los recursos hidráulicos del Estado;
+Xl. Vigilar la movilización de productos y subproductos agropecuarios en el Estado, por razones fitosanitarias y zoosanitarias;
 
-XII. Vigilar la preservación de los recursos naturales renovables y desarrollar su potencial productivo;
+XII. Participar en la organización y patrocinio de ferias, exposiciones y concursos forestales, agrícolas, ganaderos, avícolas, apícolas y frutícolas en el Estado, en coordinación con, las autoridades competentes;
 
-XIII. Realizar campañas permanentes para prevenir y combatir plagas y enfermedades que atacan las especies vegetales y animales en el Estado;
+XIII. Fomentar, apoyar e impulsar la ampliación y mejoramiento operativo del seguro agrícola y ganadero;
 
-XIV. Vigilar la movilización de productos y subproductos agropecuarios en el Estado, por razones fitosanitarias y zoosanitarias;
+XIV. Fomentar la enseñanza de la actividad agropecuaria y de las demás actividades a su cargo, mediante la creación de escuelas, campos experimentales y centros de educación superior, en coordinación con las autoridades correspondientes;
 
-XV. Participar en la organización y patrocinio de ferias, exposiciones y concursos forestales, agrícolas, ganaderos, avícolas, apícolas y frutícolas en el Estado, en coordinación con las autoridades competentes;
+XV. Formular los estudios y proyectos de construcción y conservación de las obras públicas estatales en materia agropecuaria y realizarlas directamente o a través de terceros;
 
-XVI. Fomentar, apoyar e impulsar la ampliación y mejoramiento operativo del seguro agrícola y ganadero;
+XVI. Observar las bases a que deban sujetarse los concursos para la ejecución de obra pública bajo su competencia;
 
-XVII. Fomentar la enseñanza de la actividad agropecuaria y de las demás actividades a su cargo, mediante la creación de escuelas, campos experimentales y centros de educación superior, en coordinación con las autoridades correspondientes;
+XVII. Adjudicar y vigilar el cumplimiento de los contratos de obra pública de su competencia;
 
-XVIII. Formular los estudios y proyectos de construcción y conservación de las obras públicas estatales en materia agropecuaria y realizarlas directamente o a través de terceros;
+XVIII. Realizar directamente, o a través de terceros, las obras públicas a cargo del Gobierno del Estado o convenidas por éste, que sean de su competencia;
 
-XIX. Observar las bases a que deban sujetarse los concursos para la ejecución de obra pública bajo su competencia;
+XIX. Participar en la vigilancia, prevención y combate de incendios, en el control del pastoreo de las zonas boscosas y en la realización de todas las labores de investigación, protección y repoblación que se estimen convenientes y necesarias para la conservación de los recursos forestales de la Entidad; así como supervisar las que ejecuten los particulares, en los términos de los convenios que se celebren con la Federación, estados vecinos y municipios;
 
-XX. Adjudicar y vigilar el cumplimiento de los contratos de obra pública de su competencia;
+XX. Fomentar la creación y el desarrollo de agroindustrias que se establezcan en el medio rural; y.
 
-XXI. Realizar directamente, o a través de terceros, las obras públicas a cargo del Gobierno del Estado o convenidas por éste, que sean de su competencia;
-
-XXII. Participar en la vigilancia, prevención y combate de incendios, en el control del pastoreo de las zonas boscosas y en la realización de todas las labores de investigación, protección y repoblación que se estimen convenientes y necesarias para la conservación de los recursos forestales de la Entidad; así como supervisar las que ejecuten los particulares, en los términos de los convenios que se celebren con la Federación, estados vecinos y municipios;
-
-XXIII. Fomentar la creación y el desarrollo de agroindustrias que se establezcan en el medio rural; y,
-
-XXIV. Las demás que le señalen otras normas jurídicas vigentes o que le sean delegadas por el Gobernador del Estado.
+XXI. Las demás que le señalen otras normas jurídicas vigentes o que le sean delegadas por el Gobernador del Estado.
 
 ###### ARTICULO 23.
 
@@ -513,7 +509,9 @@ X. Coadyuvar en la organización de los actos cívico señalados en el Calendari
 
 XI. Proveer con oportunidad, a las dependencias de la Administración Pública Estatal, de los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones;
 
-XII. Adquirir y, en su caso, celebrar los convenios o contratos de bienes y servicios que requiera para su funcionamiento la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 1998)</small>
+
+XII. Celebrar los contratos que sean necesarios para el cumplimiento de sus funciones;
 
 XIII. Establecer y mantener actualizado el registro de bienes muebles e inmuebles propiedad del Gobierno del Estado y asegurar su conservación;
 
@@ -533,6 +531,8 @@ XX. Organizar, supervisar y acreditar el servicio social de pasantes; y,
 
 XXI. Las demás que le señalen otras normas jurídicas vigentes o que le sean delegadas por el Gobernador del Estado.
 
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 1998)</small>
+
 ###### ARTICULO 28.
 
 A la Tesorería General le corresponde el ejercicio de las siguientes atribuciones:
@@ -543,7 +543,7 @@ II. Elaborar los proyectos anuales de Ley de Ingresos y Presupuesto de Egresos d
 
 III. Recaudar los impuestos, derechos, productos, aprovechamientos, contribuciones especiales y demás conceptos que al Gobierno del Estado correspondan, tanto por ingresos propios como los que por ley o convenios reciba de la Federación y de los municipios;
 
-IV. Ejercer las atribuciones y funciones que en materia de administración fiscal federal y municipal contengan los convenios respectivos;
+lV. Ejercer las atribuciones y funciones que en materia de administración fiscal federal y municipal contengan los convenios respectivos;
 
 V. Integrar y mantener actualizado el registro de contribuyentes que establezcan las leyes fiscales del Estado;
 
@@ -557,15 +557,15 @@ IX. Ejercer la función catastral del Estado de conformidad con las disposicione
 
 X. Dictar las políticas y lineamientos relacionados con el manejo de fondos y valores de las dependencias y entidades de la Administración Pública Estatal, así como custodiar los documentos que constituyan valores, acciones, y demás derechos que formen parte del patrimonio del Estado;
 
-XI. Proporcionar asesoría en materia de interpretación y aplicación de las leyes fiscales estatales que le sea solicitada por las demás dependencias, por las entidades, empresas del Estado y por los contribuyentes, y realizar una labor permanente de difusión, orientación y asistencia fiscal;
+Xl. Proporcionar asesoría en materia de interpretación y aplicación de las leyes fiscales estatales que le sea solicitada por las demás dependencias, por las entidades, empresas del Estado y por los contribuyentes, y realizar una labor permanente de difusión, orientación y asistencia fiscal;
 
 XII. Vigilar que los trabajadores al servicio del Estado que manejen fondos públicos, garanticen debidamente su manejo;
 
-XIII. Mantener el control de la deuda pública del Estado, informado al Gobernador del Estado periódicamente sobre el estado de la misma, de las amortizaciones de capital y pago de intereses;
+XIII. Mantener el control de la deuda pública del Estado, informando al Gobernador del Estado periódicamente sobre el estado de la misma, de las amortizaciones de capital y pago de intereses;
 
 XIV. Intervenir en todas las operaciones en que el Estado haga uso del crédito público;
 
-XV. Efectuar los pagos de acuerdo a los programas y presupuestos aprobados;
+XVI. Efectuar los pagos de acuerdo a los programas y presupuestos aprobados;
 
 XVI. Formular mensualmente el estado de origen y aplicación de los fondos públicos del Gobierno del Estado;
 
@@ -589,25 +589,17 @@ XXV. Elaborar, divulgar y actualizar los lineamientos y políticas para el desar
 
 XXVI. Diseñar, implantar, ejecutar y actualizar el sistema para el ejercicio presupuestal y formular los programas de gasto e inversión pública, en coordinación con las dependencias y entidades de la Administración Pública Estatal, con base en las políticas, objetivos y lineamientos que emita el Gobernador del Estado;
 
-XXVII. Coordinar con las dependencias y entidades de la Administración Pública Federal y Estatal, las reuniones sectoriales y especiales que se verifiquen para la planeación y ejecución de acciones y programas a realizar en el Estado;
+XXVII. Asesorar y apoyar a las dependencias y organismos en la integración de sus programas específicos;
 
-XXVIII. Coordinar con las dependencias y Entidades de la Administración Pública Estatal y Federal correspondientes, la elaboración de los planes y programas estatal, regional y sectoriales de desarrollo económico y social;
+XXVIII. Proporcionar a los ayuntamientos, cuando lo soliciten, asesoría y apoyo técnico para la elaboración de programas de inversión;
 
-XXIX. Asesorar y apoyar a las dependencias y organismos en la integración de sus programas específicos;
+XXIX. Formular y proponer al Gobernador del Estado la celebración de convenios de coordinación con los municipios tendientes a la realización de obras, prestación de servicios públicos y en general cualquier otro propósito de beneficio común;
 
-XXX. Proponer al Gobernador del Estado la celebración de convenios y acuerdos de coordinación con el sector público de los tres niveles de gobierno, con los sectores social y privado para la elaboración y ejecución de planes, programas y proyectos para el beneficio colectivo;
+XXX. Diseñar, establecer y aplicar los mecanismos de evaluación que requieran los programas de inversión pública estatal y federales convenidos, conjuntamente con la Coordinación de Control y Desarrollo Administrativo;
 
-XXXI. Elaborar con la participación de las dependencias de la Administración Pública Estatal los planes, programas, proyectos y políticas tendientes a apoyar el desarrollo de los municipios del Estado;
+XXXI. Integrar el inventario de programas, obras e inversiones que realicen en el Estado las dependencias y entidades de la Administración Pública Federal y Estatal, así como obtener la información necesaria para la formulación del informe de la Administración Pública Estatal;
 
-XXXII. Proporcionar a los ayuntamientos, cuando lo soliciten, asesoría y apoyo técnico para la elaboración de programas de inversión;
-
-XXXIII. Formular y proponer al Gobernador del Estado la celebración de convenios de coordinación con los municipios tendientes a la realización de obras, prestación de servicios públicos y en general cualquier otro propósito de beneficio común;
-
-XXXIV. Diseñar, establecer y aplicar los mecanismos de evaluación que requieran los programas de inversión pública estatal y federales convenidos, conjuntamente con la Coordinación de Control y Desarrollo Administrativo;
-
-XXXV. Integrar el inventario de programas, obras e inversiones que realicen en el Estado las dependencias y entidades de la Administración Pública Federal y Estatal, así como obtener la información necesaria para la formulación del informe de la Administración Pública Estatal;
-
-XXXVI. Proporcionar a solicitud de parte, la asistencia técnica que requieran los municipios para la ejecución de sus programas de mejoramiento administrativo; y,
+XXXII. Proporcionar a solicitud de parte, la asistencia técnica que requieran los municipios para la ejecución de sus programas de mejoramiento administrativo; y,
 
 XXXIII. Las demás que le señalen otras normas jurídicas vigentes o que le sean delegadas por el Gobernador del Estado.
 
@@ -762,3 +754,37 @@ El Ejecutivo del Estado dispondrá se publique y observe.
 PALACIO DEL PODER LEGISLATIVO, Morelia, Michoacán de Ocampo a 12 de noviembre de 1996.
 
 DIPUTADO PRESIDENTE.- JORGE CANEDO VARGAS.- DIPUTADO SECRETARIO.- SERAFIN RIOS ALVAREZ.- DIPUTADO SECRETARIO.-RAMON MAYA MORALES. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE ABRIL DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos materiales y financieros, archivos, expedientes y asuntos en trámite en materia de transporte público urbano, que actualmente están a cargo de la Secretaría de Desarrollo Urbano y Ecología, serán transferidos a la Secretaría de Comunicaciones y Obras Públicas.
+
+Los asuntos y expedientes que con motivo de la reforma materia de decreto deban ser transferidos a la Secretaría de Comunicaciones y Obras Públicas, permanecerán en el último trámite, hasta que se incorporen para su atención a las áreas que corresponda, a excepción de los asuntos sujetos a término improrrogable, mismos que deberán ser resueltos en tiempo y forma de acuerdo a la normatividad aplicable.
+
+El mismo procedimiento que contempla este artículo transitorio en los párrafos que anteceden, se aplicará en la transferencia de las materias forestal, y pesquera, de la actual Secretaría de Desarrollo Agropecuario y Forestal a la Comisión Forestal del Estado, y a la Comisión de Pesca del Estado, respectivamente, que para tal efecto se creen, así como en la transferencia de los asuntos en materia de adquisiciones, arrendamiento de bienes muebles e inmuebles y prestación de servicios relacionados con los mismos, de la Oficialía Mayor al Comité de Adquisiciones del Poder Ejecutivo que se cree.
+
+###### ARTICULO TERCERO.
+
+El personal de base que al iniciar su vigencia el presente decreto, preste sus servicios en la Secretaría de Desarrollo Urbano y Ecología, en el área de transporte urbano de pasajeros, pasará a formar parte del personal de la Secretaría de Comunicaciones y Obras Públicas, respetándose sus derechos laborales en los términos de la ley de la materia, y conforme a su régimen laboral.
+
+El personal por honorarios que a la fecha preste sus servicios en la Secretaría de Desarrollo Urbano y Ecología, en el área de transporte urbano de pasajeros, será considerado conforme a la ley de la materia.
+
+El personal de base que al iniciar su vigencia el presente decreto, preste sus servicios en la Secretaría de Desarrollo Agropecuario y Forestal, en las áreas forestal y pesquera, pasará a formar parte del personal de la Comisión Forestal del Estado y de la Comisión de Pesca del Estado, que para tal efecto se creen, respetándose sus derechos laborales en los términos de la ley de la materia, y conforme a su régimen laboral.
+
+El personal por honorarios que a la fecha preste sus servicios en la Secretaría de Desarrollo Agropecuario y Forestal, en las áreas forestal y pesquera, será considerado conforme a la ley de la materia.
+
+El personal de base que al iniciar su vigencia el presente decreto, preste sus servicios en la Oficialía Mayor, y que tenga a su cargo la ejecución de las atribuciones en materia de adquisiciones y arrendamientos de bienes muebles e inmuebles y servicios relacionados con éstos, pasará a formar parte del personal del Comité de Adquisiciones del Poder Ejecutivo que para tal efecto se cree, respetándose sus derechos laborales en los términos de la ley de la materia, y conforme a su régimen laboral.
+
+El personal por honorarios que a la fecha preste sus servicios en la Oficialía Mayor, y que tenga a su cargo la ejecución de las atribuciones en materia de adquisiciones y arrendamientos de bienes muebles e inmuebles y servicios relacionados con éstos, será considerado conforme a la ley de la materia.
+
+###### ARTICULO CUARTO.
+
+Corresponde a la Oficialía Mayor, a la Tesorería General y a la Coordinación de Control y Desarrollo Administrativo, ser responsables directos de la entrega recepción de los bienes muebles e inmuebles, recursos materiales y financieros, de la Secretaría de Desarrollo Urbano y Ecología a la Secretaría de Comunicaciones y Obras Públicas; de la actual Secretaría de Desarrollo Agropecuario y Forestal a la Comisión Forestal del Estado y a la Comisión de Pesca del Estado, que se creen; y de la Oficialía Mayor al Comité de Adquisiciones del Poder Ejecutivo que se cree.
