@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-7618"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-18"
-last_updated: "1992-08-04"
+last_updated: "1994-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 1994.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 18 de noviembre de 1986.
 
@@ -7749,9 +7749,25 @@ Es causa de responsabilidad, el no cumplimiento del deber impuesto por el artíc
 
 El que promueva juicio de testamentaría, debe presentar la certificación de fallecimiento de la persona de cuya sucesión se trate y, no siendo esto posible, otro documento o prueba que lo acredite, y el testamento del difunto.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 1994)</small>
+
 ###### Artículo 1337.
 
-(DEROGADO, P.O. 4 DE DICIEMBRE DE 1990)
+Cuando todos los herederos fueren mayores de edad, o siendo menores estén emancipados con tutor, y hubieren sido instituidos en un testamento público abierto, mientras no hubiere controversia alguna, la testamentaria podrá ser extrajudicial, ante Notario Público, con arreglo a lo que se establece en las siguientes fracciones:
+
+I.- El Albacea, si lo hubiere, los herederos, o en su caso, los legatarios instituidos, exhibirán al Notario copia certificada del acta de defunción del autor de la herencia; un testimonio del testamento; harán constar que reconocen la validez de éste, que aceptan la herencia o legado, que se reconocen sus derechos hereditarios, que el albacea acepta el cargo instituido por el autor de la sucesión y que va a proceder a formar el inventario de los bienes de la herencia;
+
+II.- El Notario dará a conocer esas declaraciones de los interesados, por medio de dos publicaciones, que se harán con un intervalo mínimo de diez días, en un periódico de los de mayor circulación en el Estado y pedirá informe al Archivo General de Notarías, sobre si el que se le exhibió es el último testamento otorgado por el autor de la herencia;
+
+III.- Practicado el inventario por el albacea y estando conformes con él los herederos y legatarios, en su caso, lo presentarán para su protocolización y todos ellos comparecerán ante el Notario para la firma del acta correspondiente;
+
+IV.- La escritura de partición y adjudicación se hará como lo previno el testador, y a falta de ello, como convengan los herederos;
+
+V.- Siempre que haya oposición de algún aspirante a la herencia, o de cualquier acreedor, el Notario suspenderá su intervención y remitirá todo lo actuado al Tribunal Superior de Justicia, para que éste, lo turne al Juez competente que deba conocer del asunto;
+
+VI.- El Notario que conozca de la Testamentaría, deberá remitir las actuaciones al Tribunal Superior de Justicia, para que las turne al Juez competente, cuando exista controversia, sea impugnado el testamento o se esté en los casos previstos por los artículos 1341, 1342 y 1343 de este Código; y
+
+VII.- Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando ante Notario, de acuerdo con lo que se establece en este capítulo.
 
 ###### Artículo 1338.
 
@@ -8566,5 +8582,9 @@ P.O. 26 DE JULIO DE 1991.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 4 DE AGOSTO DE 1992.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 1994.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
