@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2001-06-09"
+last_updated: "2001-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2001.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1267,7 +1267,23 @@ XVII.- La separación del hogar conyugal por uno de los cónyuges por más de un
 
 XVIII.- La negativa de uno de los cónyuges a ministrar al otro los alimentos que le correspondan conforme a la ley; y
 
-XIX.- La incompatibilidad de caracteres.
+XIX.- La incompatibilidad de caracteres;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+XX.- Las conductas de violencia familiar generadas por un cónyuge contra el otro o en contra de los hijos, conforme a lo previsto por el artículo 300 ter.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+256 BIS.- Al admitirse la demanda de divorcio, o antes si hubiere urgencia sólo mientras dure el juicio, se dictarán las medidas provisionales pertinentes, conforme a las disposiciones siguientes:
+
+I.- Proceder a la separación de los cónyuges de conformidad con el Código de Procedimientos Civiles;
+
+II.- Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal, en su caso;
+
+III.- Ordenar la prohibición de ir a un lugar determinado para alguno de los cónyuges, así como cualquier medida necesaria para que cese todo acto de violencia familiar, pensando en el interés del agraviado.
+
+La protección para los menores implica las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales corresponderá a la Procuraduría de Defensa del Menor y la Familia o de los Sistemas de Desarrollo Integral de la Familia Municipales.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
@@ -1299,9 +1315,9 @@ El marido, en todo caso, sólo tendrá derecho a alimentos cuando esté imposibi
 
 268.- La situación de los hijos a que se refiere el artículo anterior, puede ser modificada por el juez en interés justificado de ellos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
-## TITULO SEXTO. DEL PARENTESCO Y LOS ALIMENTOS
+## TITULO SEXTO. DEL PARENTESCO, DE LOS ALIMENTOS Y DE LA VIOLENCIA FAMILIAR
 
 ### CAPITULO I. DEL PARENTESCO
 
@@ -1419,6 +1435,22 @@ V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abando
 
 300.- La esposa que, sin culpa suya, se vea obligada a vivir separada de su marido, podrá pedir al Juez de Primera Instancia o de lo Familiar del lugar de su residencia, que obligue a su esposo a darle alimentos durante la separación y a que le ministre todos los que haya dejado de darle desde que la abandonó. El Juez, según las circunstancias del caso, fijará la suma que el marido debe ministrar periódicamente dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que erogar con tal motivo.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+### CAPITULO III. DE LA VIOLENCIA FAMILIAR
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+300 BIS.- Toda y todo integrante de la familia o unidad doméstica tiene derecho a que las y los demás miembros le respeten su integridad física, sexual y psicológica, con el objeto de contribuir a su sano desarrollo. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+300 TER.- Quienes integren una familia o unidad doméstica o que tengan cualquier otra relación interpersonal están obligados a evitar conductas que generen violencia familiar.
+
+Por violencia familiar se entiende cualquier acción o conducta que pueda causar la muerte, daño o sufrimiento físico, sexual o psicológico que tenga lugar dentro de la familia o unidad doméstica o en cualquier otra relación interpersonal, ya sea que la o el agresor comparta o haya compartido el mismo domicilio que el o la agredida.
+
+## TITULO SEPTIMO. DE LA PATERNIDAD Y FILIACION
+
 ### CAPITULO I. DE LOS HIJOS DEL MATRIMONIO
 
 301.- Se presumen hijos de los cónyuges:
@@ -1482,8 +1514,6 @@ III.- El hijo se presume nacido fuera de matrimonio si nace antes de 180 días d
 315.- No puede haber sobre la filiación, ni transacción ni compromiso en árbitros.
 
 316.- Puede haber transacción o arbitramento sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran deducirse, sin que las concesiones que se hagan al que se dice hijo, importen la adquisición de estado de hijo de matrimonio.
-
-## TITULO SEPTIMO. DE LA PATERNIDAD Y FILIACION
 
 ### CAPITULO II. DE LAS PRUEBAS DE LA FILIACION DE LOS HIJOS NACIDOS DE MATRIMONIO
 
@@ -1651,8 +1681,6 @@ II.- A ser alimentado por éste;
 
 III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
-### CAPITULO V. DE LA ADOPCION
-
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 A) DISPOSICIONES GENERALES
@@ -1723,6 +1751,34 @@ IV.- El Ministerio Público en todos los casos.
 
 378.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
 
+### CAPITULO V. DE LA ADOPCION
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+D) ADOPCION INTERNACIONAL
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
+
+Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+C) ADOPCION PLENA
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
+
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 B) ADOPCION SIMPLE
@@ -1779,35 +1835,13 @@ III.- Si incumple con su deber de proporcionar alimentos al adoptante.
 
 383 BIS.- La resolución judicial que revoque la adopción, restituye las cosas al estado que guardaban antes de autorizarse aquélla. La resolución se comunicará al Oficial del Registro Civil respectivo para que cancele el acta relativa.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-D) ADOPCION INTERNACIONAL
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
-
-Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-C) ADOPCION PLENA
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
+## TITULO OCTAVO. DE LA PATRIA POTESTAD
 
 ### CAPITULO I. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LA PERSONA DE LOS HIJOS
 
-388.- Los hijos, cualesquiera que sean su estado, edad y condición, deben honrar y respetar a sus padres y demás ascendientes.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+388.- En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad y condición.
 
 389.- Los hijos menores de edad no emancipados, están bajo la patria potestad mientras exista alguno de los ascendientes que deben ejercerla conforme a la ley.
 
@@ -1827,23 +1861,21 @@ III.- Por el abuelo y la abuela paternos.
 
 A falta de padres, los ascendientes mencionados en el orden de las fracciones II y III, a menos que hubiere motivos que el Juez considere suficientes para decidir quiénes la ejercerán.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+392.- (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2001)
 
-392.- Cuando los dos progenitores han reconocido al hijo nacido fuera del matrimonio y viven juntos, ejercerán ambos la patria potestad.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+393.- En caso de separación de los que ejercen la patria potestad, podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el juez resolverá lo conducente oyendo al Ministerio Público.
 
-393.- El padre y la madre, aún y cuando no tengan la custodia, tienen el derecho de visita para relacionarse con sus hijos, salvo mandamiento provisional o sentencia que se los impida.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+394.- Los que ejercen la patria potestad aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que exista peligro para éstos.
 
-394.- Cuando los padres del hijo nacido fuera de matrimonio que vivan juntos se separen y llegaren a un acuerdo, continuará ejerciendo la patria potestad el que designe el Juez, teniendo siempre en cuenta los intereses superiores del hijo.
+No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición a petición de cualesquiera de ellos, el juez de lo familiar resolverá lo conducente en atención al interés superior del menor. Sólo por mandato judicial podrá suspenderse o perderse el derecho a la convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial.
 
-El ejercicio de la patria potestad podrá pasar al otro progenitor si llegaren a ese acuerdo o terminará por resolución judicial.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-395.- Cuando por cualquier circunstancia un familiar tenga la custodia de un menor aquél tendrá las obligaciones, facultades y restricciones establecidas para los tutores.
+395.- Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán al pariente que por cualquier circunstancia tenga la custodia de un menor.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
@@ -1859,17 +1891,19 @@ La sustracción o retención del menor fuera del lugar de residencia habitual, s
 
 La conducta ilícita del sustractor o retenedor dará lugar a la pérdida de los derechos que tengan con relación al menor.
 
-399.- A las personas que tienen al hijo bajo su patria potestad, incumbe la obligación de educarlo convenientemente.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
-Cuando llegue a conocimiento de los Consejos Locales de Tutela, que las personas de que se trata no cumplen esa obligación, lo avisarán al Ministerio Público para que promueva lo que corresponda.
+399.- A las personas que tienen el ejercicio de la patria potestad o custodia de algún menor incumbe la obligación de educarlo convenientemente.
 
-400.- Los que ejercen la patria potestad tienen la facultad de corregir y castigar a sus hijos mesuradamente.
+Cuando llegue a conocimiento de los Consejos Locales de Tutela o de cualquier autoridad administrativa que dichas personas no cumplen con la obligación referida, lo avisarán al Ministerio Público o a la Procuraduría de Defensa del Menor y de la Familia, para que promueva lo que corresponda.
 
-Las autoridades en caso necesario, auxiliarán a esas personas, haciendo uso de amonestaciones y correctivos que presten el apoyo suficiente a la autoridad paterna.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+400.- Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
+
+La facultad de corregir no implica infligir al menor actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 300 ter de este Código.
 
 401.- El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el Juez.
-
-## TITULO OCTAVO. DE LA PATRIA POTESTAD
 
 ### CAPITULO II. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
 
@@ -1963,6 +1997,10 @@ V.- Cuando quien la ejerza deje de asistir y convivir injustificadamente con el 
 
 VI.- Por abandono del menor durante un plazo de 60 días naturales, aun cuando no se comprometa su salud, seguridad o moralidad.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+421 BIS.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar previstas por el artículo 300 ter de este Código en contra de las personas sobre las cuales la ejerza.
+
 422.- La madre o abuela que pase a segundas nupcias, no pierde por este hecho la patria potestad.
 
 423.- El nuevo marido no ejercerá la patria potestad sobre los hijos del matrimonio anterior.
@@ -1980,6 +2018,8 @@ III.- Por sentencia condenatoria que imponga como medida de defensa social esta 
 I.- Cuando tengan sesenta años cumplidos;
 
 II.- Cuando por su mal estado habitual de salud, no puedan atender debidamente a su desempeño.
+
+## TITULO NOVENO. DE LA TUTELA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -2042,8 +2082,6 @@ Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva
 445.- Mientras que se nombra tutor, el Juez de Primera Instancia o de lo Familiar debe dictar las medidas necesarias para que el incapacitado no sufra perjuicios en su persona o en sus intereses.
 
 446.- El Juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
-
-## TITULO NOVENO. DE LA TUTELA
 
 ### CAPITULO II. DE LA TUTELA TESTAMENTARIA
 
@@ -2120,6 +2158,10 @@ En ambos casos se estará a lo dispuesto por el artículo 65 de este Código.
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1994)</small>
 
 470.- Los directores de los hospicios y demás casas de beneficencia donde se reciban expósitos, deberán de comunicarlo en los términos que establece el Código para la Protección y Defensa del Menor, para que las instituciones que ese ordenamiento señala se avoquen al desempeño de la tutela de aquellos con arreglo a las leyes.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+Los responsables de las Instituciones donde se reciban menores que hayan sido objeto de violencia familiar a que se refiere el artículo 300 ter, de este ordenamiento, tendrán la custodia de éstos en los términos que prevengan las leyes o los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
 
 (REFORMADO, P.O. 2 DE FEBRERO DE 1994) (F. DE E., P.O. 29 DE JULIO DE 2000)
 
@@ -2601,6 +2643,8 @@ VI.- Vigilar el registro de tutelas, a fin de que sea llevado en debida forma.
 
 615.- Tampoco pueden alegarla los menores, si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
 
+## TITULO DECIMO. DE LA EMANCIPACION Y DE LA MAYOR EDAD
+
 ### CAPITULO I. DE LA EMANCIPACION
 
 616.- El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
@@ -2621,13 +2665,13 @@ III.- De un tutor para los negocios judiciales.
 
 620.- Fuera del caso a que se refiere el artículo 616, la emancipación siempre será decretada por el Juez, y la resolución correspondiente se remitirá al oficial del Registro Civil para que levante el acta respectiva.
 
-## TITULO DECIMO. DE LA EMANCIPACION Y DE LA MAYOR EDAD
-
 ### CAPITULO II. DE LA MAYOR EDAD
 
 621.- La mayor edad comienza a los dieciocho años cumplidos.
 
 622.- El mayor de edad dispone libremente de su persona y de sus bienes.
+
+## TITULO UNDECIMO. DE LOS AUSENTES E IGNORADOS
 
 ### CAPITULO I. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
 
@@ -2688,8 +2732,6 @@ IV.- Con la posesión provisional.
 642.- Los edictos se publicarán por dos meses, con intervalo de quince días, y se remitirá a los cónsules como previene el artículo 625.
 
 643.- El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esta obligación hace responsable al representante de los daños y perjuicios que se sigan al ausente, y es causa legítima de remoción.
-
-## TITULO UNDECIMO. DE LOS AUSENTES E IGNORADOS
 
 ### CAPITULO II. DE LA DECLARACION DE AUSENCIA
 
@@ -2835,6 +2877,8 @@ IV.- Con la sentencia que cause ejecutoria, en el caso del artículo 684.
 
 697.- El Ministerio Público velará por los intereses del ausente, será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
 
+## TITULO DUODECIMO. DEL PATRIMONIO FAMILIAR
+
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
@@ -2921,7 +2965,17 @@ II.- Cuando el patrimonio familiar, por causas posteriores a su constitución, h
 
 717.- Extinguido el patrimonio familiar, los bienes que lo formaban vuelven sin limitación alguna al pleno dominio del que lo constituyó, o pasan a sus herederos si aquél ha muerto.
 
-## TITULO DUODECIMO. DEL PATRIMONIO FAMILIAR
+# LIBRO SEGUNDO. DE LOS BIENES
+
+## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
+
+718.- Pueden ser objeto de apropiación todas las cosas que no estén excluidas del comercio.
+
+719.- Las cosas pueden estar fuera del comercio, por su naturaleza o por disposición de la ley.
+
+720.- Están fuera del comercio por su naturaleza, las que no pueden ser poseídas por algún individuo exclusivamente, y por disposición de la ley, las que ella declara irreductibles a propiedad particular.
+
+## TITULO SEGUNDO. CLASIFICACION DE LOS BIENES
 
 ### CAPITULO I. DE LOS BIENES INMUEBLES
 
@@ -2954,18 +3008,6 @@ XII.- Los derechos reales sobre inmuebles;
 XIII.- El material rodante de los ferrocarriles, las líneas telefónicas y telegráficas y las estaciones radiotelegráficas fijas.
 
 722.- Los bienes muebles, por su naturaleza, que se hayan considerado como inmuebles, conforme a lo dispuesto en varias fracciones del artículo anterior, recobrarán su calidad de muebles, cuando el mismo dueño los separe del edificio; salvo el caso de que en el valor de éste se haya computado el de aquellos para constituir algún derecho real a favor de un tercero.
-
-# LIBRO SEGUNDO. DE LOS BIENES
-
-## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
-
-718.- Pueden ser objeto de apropiación todas las cosas que no estén excluidas del comercio.
-
-719.- Las cosas pueden estar fuera del comercio, por su naturaleza o por disposición de la ley.
-
-720.- Están fuera del comercio por su naturaleza, las que no pueden ser poseídas por algún individuo exclusivamente, y por disposición de la ley, las que ella declara irreductibles a propiedad particular.
-
-## TITULO SEGUNDO. CLASIFICACION DE LOS BIENES
 
 ### CAPITULO II. DE LOS BIENES MUEBLES
 
@@ -3052,6 +3094,8 @@ Los no fungibles son los que no pueden ser substituidos por otros de la misma es
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
 
 759.- El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo, pagará una multa de diez a cien veces el salario mínimo, sin perjuicio de las penas que señale el respectivo Código.
+
+## TITULO TERCERO. DE LA POSESION
 
 ### CAPITULO UNICO
 
@@ -3179,7 +3223,7 @@ VII.- Por expropiación por causa de utilidad pública.
 
 799.- Se pierde la posesión de los derechos cuando es imposible ejercitarlos o cuando no se ejercen por el tiempo que baste para que queden prescritos.
 
-## TITULO TERCERO. DE LA POSESION
+## TITULO CUARTO. DE LA PROPIEDAD
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -3224,8 +3268,6 @@ VII.- Por expropiación por causa de utilidad pública.
 819.- La distancia de que habla el artículo anterior se mide desde la línea de separación de las dos propiedades.
 
 820.- El propietario de un edificio está obligado a construir sus tejados, y azoteas de tal manera que las aguas pluviales no caigan sobre el suelo o edificio vecino.
-
-## TITULO CUARTO. DE LA PROPIEDAD
 
 ### CAPITULO II. DE LA APROPIACION DE LOS ANIMALES
 
@@ -3941,6 +3983,8 @@ Si en ambos casos a que se refieren los párrafos anteriores, el acuerdo es por 
 
 981.- En caso de ruina o vetustez del condominio, una mayoría que represente el 75 por ciento de los votos totales de los condóminos podrá resolver, previo dictamen o autorización de las autoridades competentes, la reconstrucción o demolición y división de los bienes comunes o en su caso, la venta de los mismos; siguiéndose en adelante las prevenciones del artículo anterior.
 
+## TITULO QUINTO. DEL USUFRUCTO, DEL USO Y DE LA HABITACION
+
 ### CAPITULO I. DEL USUFRUCTO EN GENERAL
 
 982.- El usufructo es el derecho real y temporal de disfrutar de los bienes ajenos.
@@ -3960,8 +4004,6 @@ Si en ambos casos a que se refieren los párrafos anteriores, el acuerdo es por 
 989.- Los derechos y obligaciones del usufructuario y del propietario se arreglan, en todo caso, por el título constitutivo del usufructo.
 
 990.- Las corporaciones que no pueden adquirir, poseer o administrar bienes raíces, tampoco pueden tener usufructo constituido sobre bienes de esta clase.
-
-## TITULO QUINTO. DEL USUFRUCTO, DEL USO Y DE LA HABITACION
 
 ### CAPITULO II. DE LOS DERECHOS DEL USUFRUCTUARIO
 
@@ -4131,6 +4173,8 @@ IX.- Por no dar fianza el usufructuario por título gratuito si el dueño no le 
 
 1058.- Si los frutos que quedan al propietario no alcanzan a cubrir los gastos y cargas, la parte que falte será cubierta por el usuario o por el que tiene derecho a la habitación.
 
+## TITULO SEXTO. DE LAS SERVIDUMBRES
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 1059.- La servidumbre es un gravamen real impuesto sobre un inmueble en beneficio de otro perteneciente a distinto dueño.
@@ -4156,8 +4200,6 @@ El inmueble a cuyo favor está constituida la servidumbre, se llama predio domin
 1068.- Las servidumbres son indivisibles. Si el predio sirviente se divide entre muchos dueños, la servidumbre no se modifica, y cada uno de ellos tiene que tolerarla en la parte que le corresponda. Si es el predio dominante el que se divide entre muchos, cada porcionero puede usar por entero, de la servidumbre, no variando el lugar de su uso, ni agravándolo de otra manera; mas si la servidumbre se hubiere establecido en favor de una sola de las partes del predio dominante, sólo el dueño de ésta podrá continuar disfrutándola.
 
 1069.- Las servidumbres traen su origen de la voluntad del hombre o de la ley; las primeras se llaman voluntarias y las segundas legales.
-
-## TITULO SEXTO. DE LAS SERVIDUMBRES
 
 ### CAPITULO II. DE LAS SERVIDUMBRES LEGALES
 
@@ -4341,6 +4383,8 @@ IV.- La renuncia de la servidumbre legal de desagüe sólo será válida cuando 
 
 1136.- El modo de usar la servidumbre puede prescribirse en el tiempo y de la manera que la servidumbre misma.
 
+## TITULO SEPTIMO. DE LA PRESCRIPCION
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 1137.- Prescripción es un medio de adquirir bienes o de librarse de obligaciones, mediante el transcurso de cierto tiempo y bajo las condiciones establecidas por la ley.
@@ -4374,8 +4418,6 @@ IV.- La renuncia de la servidumbre legal de desagüe sólo será válida cuando 
 1151.- El que prescriba puede completar el término necesario para su prescripción reuniendo al tiempo que haya poseído, el que poseyó la persona que le transmitió la cosa, con tal de que ambas posesiones tengan los requisitos legales.
 
 1152.- Las disposiciones de este Título, relativas al tiempo y demás requisitos necesarios para la prescripción, sólo dejarán de observarse en los casos en que la ley prevenga expresamente otra cosa.
-
-## TITULO SEPTIMO. DE LA PRESCRIPCION
 
 ### CAPITULO II. DE LA PRESCRIPCION POSITIVA
 
@@ -4503,30 +4545,6 @@ Empezará a contarse el nuevo término de la prescripción en caso de reconocimi
 
 1182.- Cuando el último día sea feriado, no se tendrá por completa la prescripción, sino cumplido el primero que siga, si fuere útil.
 
-### CAPITULO I. DE LOS TESTAMENTOS EN GENERAL
-
-1197.- Testamento es un acto personalísimo, revocable y libre, por el cual una persona capaz dispone de sus bienes y derechos, y declara o cumple deberes para después de su muerte.
-
-1198.- No pueden testar en el mismo acto dos o más personas, ya en provecho recíproco, ya en favor de un tercero.
-
-1199.- Ni la subsistencia del nombramiento del heredero o de los legatarios, ni la designación de las cantidades que a ellos correspondan, pueden dejarse al arbitrio de un tercero.
-
-1200.- Cuando el testador deje como herederos o legatarios a determinadas clases formadas por número ilimitado de individuos, tales como los pobres, los huérfanos, los ciegos, etc., puede encomendar a un tercero la distribución de las cantidades que deje para ese objeto, y la elección de las personas a quienes deban aplicarse, observándose lo dispuesto en el artículo 1233.
-
-1201.- El testador puede encomendar a un tercero que haga la elección de los actos de beneficencia o de los establecimientos públicos o privados a los cuales deban aplicarse los bienes que legue con ese objeto, así como la distribución de las cantidades que a cada uno correspondan.
-
-1202.- La disposición hecha en términos vagos en favor de los parientes del testador, se entenderá que se refiere a los parientes más próximos, según el orden de la sucesión legítima.
-
-1203.- Las disposiciones hechas a título universal o particular no tienen ningún efecto cuando se funden en una causa expresa, que resulte errónea, si ha sido la única que determinó la voluntad del testador.
-
-1204.- Toda disposición testamentaria deberá entenderse en el sentido literal de las palabras, a no ser que aparezca con manifiesta claridad que fue otra la voluntad del testador.
-
-1205.- En caso de duda sobre la inteligencia o interpretación de una disposición testamentaria, se observará lo que parezca más conforme a la intención del testador, según el tenor del testamento y la prueba auxiliar que a este respecto pueda rendirse por los interesados.
-
-1206.- Si un testamento se pierde por un evento ignorado por el testador, o por haber sido ocultado por otra persona, podrán los interesados exigir su cumplimiento si demuestran plenamente el hecho de la pérdida o de la ocultación, logran igualmente comprobar lo contenido en el mismo testamento y que en su otorgamiento se llenaron todas las formalidades legales.
-
-1207.- La expresión de una causa contraria a derecho, aunque sea verdadera, se tendrá por no escrita.
-
 # LIBRO TERCERO. DE LAS SUCESIONES
 
 ## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
@@ -4560,6 +4578,30 @@ Empezará a contarse el nuevo término de la prescripción en caso de reconocimi
 1196.- El derecho concedido en el artículo 1194 cesa si la enajenación se hace a un coheredero.
 
 ## TITULO SEGUNDO. DE LA SUCESION POR TESTAMENTO
+
+### CAPITULO I. DE LOS TESTAMENTOS EN GENERAL
+
+1197.- Testamento es un acto personalísimo, revocable y libre, por el cual una persona capaz dispone de sus bienes y derechos, y declara o cumple deberes para después de su muerte.
+
+1198.- No pueden testar en el mismo acto dos o más personas, ya en provecho recíproco, ya en favor de un tercero.
+
+1199.- Ni la subsistencia del nombramiento del heredero o de los legatarios, ni la designación de las cantidades que a ellos correspondan, pueden dejarse al arbitrio de un tercero.
+
+1200.- Cuando el testador deje como herederos o legatarios a determinadas clases formadas por número ilimitado de individuos, tales como los pobres, los huérfanos, los ciegos, etc., puede encomendar a un tercero la distribución de las cantidades que deje para ese objeto, y la elección de las personas a quienes deban aplicarse, observándose lo dispuesto en el artículo 1233.
+
+1201.- El testador puede encomendar a un tercero que haga la elección de los actos de beneficencia o de los establecimientos públicos o privados a los cuales deban aplicarse los bienes que legue con ese objeto, así como la distribución de las cantidades que a cada uno correspondan.
+
+1202.- La disposición hecha en términos vagos en favor de los parientes del testador, se entenderá que se refiere a los parientes más próximos, según el orden de la sucesión legítima.
+
+1203.- Las disposiciones hechas a título universal o particular no tienen ningún efecto cuando se funden en una causa expresa, que resulte errónea, si ha sido la única que determinó la voluntad del testador.
+
+1204.- Toda disposición testamentaria deberá entenderse en el sentido literal de las palabras, a no ser que aparezca con manifiesta claridad que fue otra la voluntad del testador.
+
+1205.- En caso de duda sobre la inteligencia o interpretación de una disposición testamentaria, se observará lo que parezca más conforme a la intención del testador, según el tenor del testamento y la prueba auxiliar que a este respecto pueda rendirse por los interesados.
+
+1206.- Si un testamento se pierde por un evento ignorado por el testador, o por haber sido ocultado por otra persona, podrán los interesados exigir su cumplimiento si demuestran plenamente el hecho de la pérdida o de la ocultación, logran igualmente comprobar lo contenido en el mismo testamento y que en su otorgamiento se llenaron todas las formalidades legales.
+
+1207.- La expresión de una causa contraria a derecho, aunque sea verdadera, se tendrá por no escrita.
 
 ### CAPITULO II. DE LA CAPACIDAD PARA TESTAR
 
@@ -4603,7 +4645,9 @@ VI.- Renuncia o remoción de algún cargo conferido en el testamento.
 
 1218.- Será, no obstante, válida la disposición hecha en favor de los hijos que nacieren de ciertas y determinadas personas durante la vida del testador.
 
-1219.- Por razón de delito son incapaces de adquirir por testamento o por intestado:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+1219.- Son incapaces de adquirir por testamento o por intestado:
 
 I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge o hermanos de ella;
 
@@ -4617,7 +4661,9 @@ V.- El que haya sido condenado por un delito que merezca pena de prisión, comet
 
 VI.- El padre y la madre respecto del hijo expuesto por ellos;
 
-VII.- Los padres que abandonaren a sus hijos, prostituyeren a sus hijas o atentaren a su pudor, respecto de los ofendidos;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+VII.- Los ascendientes que abandonaren, prostituyeren o corrompieren a sus descendientes, respecto de los ofendidos;
 
 VIII.- Los demás parientes del autor de la herencia que, teniendo obligación de darle alimentos, no la hubieren cumplido;
 
@@ -4625,7 +4671,11 @@ IX.- Los parientes del autor de la herencia que, hallándose éste imposibilitad
 
 X.- El que usare de violencia, dolo o fraude con una persona para que haga, deje de hacer o revoque su testamento;
 
-XI.- El que conforme al Código de Defensa Social, fuere culpable de supresión, sustitución o suposición de infante, siempre que se trate de la herencia que debió de corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos.
+XI.- El que conforme al Código de Defensa Social, fuere culpable de supresión, sustitución o suposición de infante, siempre que se trate de la herencia que debió de corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+
+XII.- El que haya sido condenado por delito cometido en contra del autor de la herencia.
 
 1220.- Se aplicará también lo dispuesto en la acción II del artículo anterior, aunque el autor de la herencia no fuere descendiente, ascendiente, cónyuge o hermano del acusador, si la acusación es declarada calumniosa.
 
@@ -5061,6 +5111,8 @@ III.- Si renuncia a su derecho.
 
 1403.- La disposición testamentaria que contenga condición de suceso pasado o presente desconocidos, no caduca aunque la noticia del hecho se adquiera después de la muerte del heredero o legatario, cuyos derechos se transmiten a sus respectivos herederos.
 
+## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 1404.- El testamento, en cuanto a su forma, es ordinario o especial.
@@ -5112,8 +5164,6 @@ VII.- Los que hayan sido condenados por la infracción antisocial de falsedad.
 1413.- El que tenga en su poder un testamento debe dar aviso a los interesados y al representante del Fisco del Estado luego que sepa la muerte del testador. Si no lo hace, es responsable de los daños y perjuicios que la dilación ocasione.
 
 1414.- Si los interesados están ausentes o son desconocidos, la noticia se dará al juez.
-
-## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
 
 ### CAPITULO II. DEL TESTAMENTO PUBLICO ABIERTO
 
@@ -5311,11 +5361,11 @@ VI.- Si saben que el testador falleció o no de la enfermedad, o en el peligro e
 
 1489.- Los chihuahuenses que se encuentren en alta mar, a bordo de navíos de la Marina Nacional, sean de guerra o mercantes pueden también hacer testamento privado, que surtirá efecto en el Estado, si se hizo con sujeción a las disposiciones establecidas en el Código Civil del Distrito Federal respecto a testamentos marítimos.
 
+## TITULO CUARTO. DE LA SUCESION LEGITIMA
+
 ### CAPITULO VIII. DEL TESTAMENTO HECHO FUERA DEL ESTADO
 
 1490.- Los testamentos hechos en país extranjero o en otro de los Estados de la República, producirán efecto en éste, cuando hayan sido formulados auténticamente conforme a las leyes del lugar en que se otorgaron; observándose respecto de los chihuahuenses lo prevenido en el artículo 14.
-
-## TITULO CUARTO. DE LA SUCESION LEGITIMA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -5439,13 +5489,13 @@ En los casos a que se refieren las fracciones II, III y IV debe observarse lo di
 
 Si al morir el autor de la herencia tenía varias concubinas en las condiciones mencionadas al principio de este artículo, ninguna de ellas heredará.
 
+## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
+
 ### CAPITULO VII. DE LA SUCESION DE LA BENEFICENCIA PUBLICA
 
 1528.- A falta de todos los herederos llamados en los capítulos anteriores, sucederá la Beneficencia Pública.
 
 1529.- Cuando sea heredera la Beneficencia Pública y entre lo que le corresponda existen bienes raíces que no puede adquirir conforme al artículo 27 de la Constitución, se venderán los bienes en pública subasta, antes de hacerse la adjudicación, aplicándose a la Beneficencia Pública el precio que se obtuviere.
-
-## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
 
 ### CAPITULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA VIUDA QUEDE ENCINTA
 
@@ -5863,6 +5913,14 @@ III.- Cuando la pérdida fuere ocasionada por culpa del heredero que la sufre.
 
 1683.- Si hecha la partición aparecieren algunos bienes omitidos en ella, se hará una división suplementaria, en la cual se observarán las disposiciones contenidas en este Título.
 
+# LIBRO CUARTO. DE LAS OBLIGACIONES
+
+PRIMERA PARTE
+
+DE LAS OBLIGACIONES EN GENERAL
+
+## TITULO PRIMERO. FUENTES DE LAS OBLIGACIONES
+
 ### CAPITULO I. CONTRATOS
 
 1684.- Convenio es el acuerdo de dos o más personas para crear, transferir, modificar o extinguir obligaciones.
@@ -6093,14 +6151,6 @@ DISPOSICIONES FINALES
 
 1753.- Las disposiciones legales sobre contratos serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la ley sobre los mismos.
 
-# LIBRO CUARTO. DE LAS OBLIGACIONES
-
-PRIMERA PARTE
-
-DE LAS OBLIGACIONES EN GENERAL
-
-## TITULO PRIMERO. FUENTES DE LAS OBLIGACIONES
-
 ### CAPITULO II. DE LA DECLARACION UNILATERAL DE LA VOLUNTAD
 
 1754.- El hecho de ofrecer al público objetos en determinado precio, obliga al dueño a sostener su ofrecimiento.
@@ -6313,6 +6363,8 @@ VI.- Por el peso o movimiento de las máquinas, por las aglomeraciones de materi
 
 1819.- La acción para exigir la reparación de los daños causados en los términos del presente capítulo, prescribe en dos años contados a partir del día en que se haya causado el daño.
 
+## TITULO SEGUNDO. MODALIDADES DE LAS OBLIGACIONES
+
 ### CAPITULO I. DE LAS OBLIGACIONES CONDICIONALES
 
 1820.- La obligación es condicional cuando su existencia o su resolución dependen de un acontecimiento futuro e incierto.
@@ -6370,8 +6422,6 @@ El perjudicado podrá escoger entre exigir el cumplimiento o la resolución de l
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
 
 1835.- Si la resolución del contrato depende de un tercero y éste fuere dolosamente inducido a terminarlo, se tendrá por no realizada la condición.
-
-## TITULO SEGUNDO. MODALIDADES DE LAS OBLIGACIONES
 
 ### CAPITULO II. DE LAS OBLIGACIONES A PLAZO
 
@@ -6611,6 +6661,8 @@ Esto mismo se observará si no lo hiciere de la manera convenida. En este caso e
 
 1911.- El que estuviere obligado a no hacer alguna cosa, quedará sujeto al pago de daños y perjuicios en caso de contravención. Si hubiere obra material, podrá exigir el acreedor que sea destruida a costa del obligado.
 
+## TITULO TERCERO. DE LA TRASMISION DE LAS OBLIGACIONES
+
 ### CAPITULO I. DE LA CESION DE DERECHOS
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
@@ -6673,8 +6725,6 @@ Si tiene contra el cedente un crédito todavía no exigible cuando se hace la ce
 
 1933.- Si la cesión fuere gratuita, el cedente no será responsable para con el cesionario, ni por la existencia del crédito, ni por la solvencia del deudor.
 
-## TITULO TERCERO. DE LA TRASMISION DE LAS OBLIGACIONES
-
 ### CAPITULO II. DE LA CESION DE DEUDAS
 
 1934.- Para que haya sustitución de deudor es necesario que el acreedor consienta expresa o tácitamente.
@@ -6710,6 +6760,12 @@ IV.- Cuando el que adquiere un inmueble paga a un acreedor que tiene sobre él u
 1943.- No habrá subrogación parcial en deudas de solución indivisible.
 
 1944.- El pago de los subrogados en diversas porciones del mismo crédito, cuando no basten los bienes del deudor para cubrirlos todos, se hará a prorrata.
+
+## TITULO CUARTO. EFECTOS DE LAS OBLIGACIONES
+
+I.- EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES
+
+CUMPLIMIENTO DE LAS OBLIGACIONES
 
 ### CAPITULO I. DEL PAGO
 
@@ -6790,12 +6846,6 @@ De la misma manera el acreedor debe indemnizar al deudor cuando debiendo hacerse
 1978.- La obligación queda extinguida cuando el acreedor recibe en pago una cosa distinta en lugar de la debida.
 
 1979.- Si el acreedor sufre la evicción de la cosa que recibe en pago, renacerá la obligación primitiva, quedando sin efecto la dación en pago.
-
-## TITULO CUARTO. EFECTOS DE LAS OBLIGACIONES
-
-I.- EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES
-
-CUMPLIMIENTO DE LAS OBLIGACIONES
 
 ### CAPITULO II. DEL OFRECIMIENTO DEL PAGO Y DE LA CONSIGNACION
 
@@ -7055,6 +7105,8 @@ Si el deudor únicamente paga a un acreedor con preferencia indebida, la acción
 
 También subsistirán los gravámenes impuestos a favor de tercero de buena fe.
 
+## TITULO QUINTO. EXTINCION DE LAS OBLIGACIONES
+
 ### CAPITULO I. DE LA COMPENSACION
 
 2068.- Tiene lugar la compensación cuando dos personas reúnen la calidad de deudores y acreedores recíprocamente y por su propio derecho.
@@ -7115,8 +7167,6 @@ VIII.- Si las deudas fuesen fiscales, excepto en los casos en que la ley lo auto
 
 2088.- La compensación no puede tener lugar en perjuicio de los derechos de tercero legítimamente adquiridos.
 
-## TITULO QUINTO. EXTINCION DE LAS OBLIGACIONES
-
 ### CAPITULO II. DE LA CONFUSION DE DERECHOS
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
@@ -7166,54 +7216,6 @@ Si llegare a separarse el crédito y la deuda en patrimonios de sujetos distinto
 2105.- Cuando la novación se efectúe entre el acreedor y algún deudor solidario, los privilegios e hipotecas del antiguo crédito sólo pueden quedar reservados con relación a los bienes del deudor que contrae la nueva obligación.
 
 2106.- Por la novación hecha entre el acreedor y alguno de los deudores solidarios, quedan exonerados todos los demás codeudores, sin perjuicio de lo dispuesto en el artículo 1862.
-
-### CAPITULO I. DISPOSICIONES GENERALES
-
-2132.- Habrá compraventa cuando uno de los contratantes se obliga a transferir la propiedad de una cosa o de un derecho, y el otro a su vez se obliga a pagar por ellos un precio cierto y en dinero.
-
-2133.- Por regla general, la venta es perfecta y obligatoria para las partes cuando se han convenido sobre la cosa y su precio, aunque la primera no haya sido entregada, ni el segundo satisfecho.
-
-2134.- Si el precio de la cosa vendida se ha de pagar parte en dinero y parte con el valor de otra cosa, el contrato será de venta cuando la parte de numerario sea igual o mayor que la que se pague con el valor de otra cosa. Si la parte en numerario fuere inferior, el contrato será de permuta.
-
-2135.- Los contratantes pueden convenir en que el precio sea el que corre en día o lugar determinados o el que fije un tercero.
-
-2136.- Fijado el precio por el tercero, no podrá ser rechazado por los contratantes, sino de común acuerdo.
-
-2137.- Si el tercero no quiere o no puede señalar el precio, quedará el contrato sin efecto; salvo convenio en contrario.
-
-2138.- El señalamiento del precio no puede dejarse al arbitrio de uno de los contratantes.
-
-2139.- El precio de frutos y cereales vendidos a plazo a personas no comerciantes y para su consumo, no podrá exceder del mayor que esos géneros tuvieren en el lugar, en el período corrido desde la entrega hasta el fin de la siguiente cosecha.
-
-2140.- Las compras de cosas que se acostumbra gustar, pesar o medir, no producirán sus efectos sino después de que se hayan gustado, pesado o medido los objetos vendidos.
-
-2141.- Cuando se trate de venta de artículos determinados y perfectamente conocidos, el contrato podrá hacerse sobre muestras.
-
-En caso de desavenencia entre los contratantes, dos peritos nombrados uno por cada parte, y un tercero para el caso de discordia, nombrado por éstos, resolverán sobre la conformidad o inconformidad de los artículos con las muestras o calidades que sirvieron de base para el contrato.
-
-2142.- Cuando la cosa se vendiere por número, peso o medida con expresión de estas circunstancias, el comprador podrá pedir la rescisión del contrato, si en la entrega hubiere falta que no pueda o no quiera suplir el vendedor, o exceso que no pueda separarse sin perjuicio de la cosa.
-
-2143.- Si la venta se hizo sólo a la vista y por acervo, aun cuando sea de cosas que se suelen contar, pesar o medir, se entenderá realizada luego que los contratantes se avengan en el precio, y el comprador no podrá pedir la rescisión del contrato alegando no haber encontrado en el acervo, la cantidad, peso o medida que él calculaba.
-
-2144.- Habrá lugar a la rescisión si el vendedor presentare el acervo como de especie homogénea, y ocultare en él especies de inferior clase y calidad de las que están a la vista.
-
-2145.- Si la venta de uno o más inmuebles se hiciere por precio alzado y sin estimar especialmente sus partes o medidas, no habrá lugar a la rescisión aunque en la entrega hubiere falta o exceso.
-
-2146.- Las acciones que nacen de los artículos 2143 a 2145 prescriben en un año, contado desde el día de la entrega.
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
-
-2147.- Los gastos de escrituración e inscripción en el Registro Público de la Propiedad, correrán a cargo del comprador, salvo pacto en contrario. Tratándose de los impuestos respectivos, se estará a lo que dispongan las leyes de la materia.
-
-2148.- Si una misma cosa fuere vendida por el mismo vendedor a diversas personas, se observará lo siguiente.
-
-2149.- Si la cosa vendida fuere mueble, prevalecerá la venta primera en fecha; si no fuere posible verificar la prioridad de ésta, prevalecerá la hecha al que se halle en posesión de la cosa.
-
-2150.- Si la cosa vendida fuere inmueble, prevalecerá la venta que primero se haya registrado; y si ninguna lo ha sido, se observará lo dispuesto en el artículo anterior.
-
-2151.- Son nulas las ventas que produzcan la concentración o acaparamiento, en una o en pocas manos, de artículos de consumo necesario, y que tengan por objeto obtener el alza de los precios de esos artículos.
-
-2152.- Las ventas al menudeo de bebidas embriagantes hechas al fiado en cantinas, no dan derecho para exigir su precio.
 
 ## TITULO SEXTO. DE LA INEXISTENCIA Y DE LA NULIDAD
 
@@ -7297,6 +7299,56 @@ En este caso, el contrato de promesa deberá otorgarse en escritura pública, si
 
 2131.- Si el promitente o el causahabiente, en caso de promesa inscrita en el Registro Público de la Propiedad, rehusan firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el Juez; salvo el caso de que la celebración del contrato sea legalmente imposible, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
 
+### CAPITULO I. DISPOSICIONES GENERALES
+
+2132.- Habrá compraventa cuando uno de los contratantes se obliga a transferir la propiedad de una cosa o de un derecho, y el otro a su vez se obliga a pagar por ellos un precio cierto y en dinero.
+
+2133.- Por regla general, la venta es perfecta y obligatoria para las partes cuando se han convenido sobre la cosa y su precio, aunque la primera no haya sido entregada, ni el segundo satisfecho.
+
+2134.- Si el precio de la cosa vendida se ha de pagar parte en dinero y parte con el valor de otra cosa, el contrato será de venta cuando la parte de numerario sea igual o mayor que la que se pague con el valor de otra cosa. Si la parte en numerario fuere inferior, el contrato será de permuta.
+
+2135.- Los contratantes pueden convenir en que el precio sea el que corre en día o lugar determinados o el que fije un tercero.
+
+2136.- Fijado el precio por el tercero, no podrá ser rechazado por los contratantes, sino de común acuerdo.
+
+2137.- Si el tercero no quiere o no puede señalar el precio, quedará el contrato sin efecto; salvo convenio en contrario.
+
+2138.- El señalamiento del precio no puede dejarse al arbitrio de uno de los contratantes.
+
+2139.- El precio de frutos y cereales vendidos a plazo a personas no comerciantes y para su consumo, no podrá exceder del mayor que esos géneros tuvieren en el lugar, en el período corrido desde la entrega hasta el fin de la siguiente cosecha.
+
+2140.- Las compras de cosas que se acostumbra gustar, pesar o medir, no producirán sus efectos sino después de que se hayan gustado, pesado o medido los objetos vendidos.
+
+2141.- Cuando se trate de venta de artículos determinados y perfectamente conocidos, el contrato podrá hacerse sobre muestras.
+
+En caso de desavenencia entre los contratantes, dos peritos nombrados uno por cada parte, y un tercero para el caso de discordia, nombrado por éstos, resolverán sobre la conformidad o inconformidad de los artículos con las muestras o calidades que sirvieron de base para el contrato.
+
+2142.- Cuando la cosa se vendiere por número, peso o medida con expresión de estas circunstancias, el comprador podrá pedir la rescisión del contrato, si en la entrega hubiere falta que no pueda o no quiera suplir el vendedor, o exceso que no pueda separarse sin perjuicio de la cosa.
+
+2143.- Si la venta se hizo sólo a la vista y por acervo, aun cuando sea de cosas que se suelen contar, pesar o medir, se entenderá realizada luego que los contratantes se avengan en el precio, y el comprador no podrá pedir la rescisión del contrato alegando no haber encontrado en el acervo, la cantidad, peso o medida que él calculaba.
+
+2144.- Habrá lugar a la rescisión si el vendedor presentare el acervo como de especie homogénea, y ocultare en él especies de inferior clase y calidad de las que están a la vista.
+
+2145.- Si la venta de uno o más inmuebles se hiciere por precio alzado y sin estimar especialmente sus partes o medidas, no habrá lugar a la rescisión aunque en la entrega hubiere falta o exceso.
+
+2146.- Las acciones que nacen de los artículos 2143 a 2145 prescriben en un año, contado desde el día de la entrega.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
+
+2147.- Los gastos de escrituración e inscripción en el Registro Público de la Propiedad, correrán a cargo del comprador, salvo pacto en contrario. Tratándose de los impuestos respectivos, se estará a lo que dispongan las leyes de la materia.
+
+2148.- Si una misma cosa fuere vendida por el mismo vendedor a diversas personas, se observará lo siguiente.
+
+2149.- Si la cosa vendida fuere mueble, prevalecerá la venta primera en fecha; si no fuere posible verificar la prioridad de ésta, prevalecerá la hecha al que se halle en posesión de la cosa.
+
+2150.- Si la cosa vendida fuere inmueble, prevalecerá la venta que primero se haya registrado; y si ninguna lo ha sido, se observará lo dispuesto en el artículo anterior.
+
+2151.- Son nulas las ventas que produzcan la concentración o acaparamiento, en una o en pocas manos, de artículos de consumo necesario, y que tengan por objeto obtener el alza de los precios de esos artículos.
+
+2152.- Las ventas al menudeo de bebidas embriagantes hechas al fiado en cantinas, no dan derecho para exigir su precio.
+
+## TITULO SEGUNDO. DE LA COMPRAVENTA
+
 ### CAPITULO II. DE LA MATERIA DE LA COMPRAVENTA
 
 2153.- Ninguno puede vender sino lo que es de su propiedad.
@@ -7308,8 +7360,6 @@ En este caso, el contrato de promesa deberá otorgarse en escritura pública, si
 2156.- La venta de cosas o derechos litigiosos no está prohibida; pero el vendedor que no declare la circunstancia de hallarse la cosa en litigio, es responsable de los daños y perjuicios si el comprador sufre la evicción, quedando además, sujeto a las penas respectivas.
 
 2157.- Tratándose de la venta de determinados bienes, como los pertenecientes a incapacitados, los de propiedad pública, los empeñados o hipotecados, etc., deben observarse los requisitos exigidos por la ley para que la venta sea perfecta.
-
-## TITULO SEGUNDO. DE LA COMPRAVENTA
 
 ### CAPITULO III. DE LOS QUE PUEDEN VENDER Y COMPRAR
 
@@ -7573,12 +7623,6 @@ Si excede de quinientas veces el salario mínimo, la donación deberá otorgarse
 
 2252.- Salvo que el donador dispusiere otra cosa, las donaciones que consistan en prestaciones periódicas se extinguen con la muerte del donante.
 
-### CAPITULO II. DE LAS PERSONAS QUE PUEDEN RECIBIR DONACIONES
-
-2253.- Los no nacidos pueden adquirir por donación, con tal que hayan estado concebidos al tiempo en que aquélla se hizo y sean viables conforme a lo dispuesto en el artículo 314.
-
-2254.- Las donaciones hechas simulando otro contrato a personas que conforme a la ley no puedan recibirlas, son nulas, ya se hagan de un modo directo, ya por interpósita persona.
-
 ## TITULO TERCERO. DE LA PERMUTA
 
 2224.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2133.
@@ -7592,6 +7636,12 @@ Si excede de quinientas veces el salario mínimo, la donación deberá otorgarse
 2228.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compraventa, en cuanto no se opongan a los artículos anteriores.
 
 ## TITULO CUARTO. DE LAS DONACIONES
+
+### CAPITULO II. DE LAS PERSONAS QUE PUEDEN RECIBIR DONACIONES
+
+2253.- Los no nacidos pueden adquirir por donación, con tal que hayan estado concebidos al tiempo en que aquélla se hizo y sean viables conforme a lo dispuesto en el artículo 314.
+
+2254.- Las donaciones hechas simulando otro contrato a personas que conforme a la ley no puedan recibirlas, son nulas, ya se hagan de un modo directo, ya por interpósita persona.
 
 ### CAPITULO III. DE LA REVOCACION Y REDUCCION DE LAS DONACIONES
 
@@ -7701,6 +7751,8 @@ II.- La restitución se hará en el domicilio del mutuario, observándose en su 
 
 2288.- No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
+## TITULO QUINTO. DEL MUTUO
+
 ### CAPITULO II. DEL MUTUO CON INTERES
 
 2289.- Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géneros.
@@ -7722,8 +7774,6 @@ II.- La restitución se hará en el domicilio del mutuario, observándose en su 
 2294.- Si el mutuario debe intereses y abona algunas cantidades, se aplicarán éstas a los vencidos; y lo que de ellas sobre se imputará al capital.
 
 2295.- El recibo del capital dado sin reserva de intereses, establece a favor del deudor la presunción de haberlos pagado.
-
-## TITULO QUINTO. DEL MUTUO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -7766,6 +7816,8 @@ Tratándose de fincas destinadas a habitación no podrá exceder de diez años y
 2309.- Si la trasmisión de la propiedad se hiciere por causa de utilidad pública, el contrato se rescindirá, pero el arrendador y el arrendatario deberán ser indemnizados por el expropiador, conforme a lo que establezca la ley respectiva.
 
 2310.- Los arrendamientos de bienes del Estado, municipales o de establecimientos públicos, estarán sujetos a las disposiciones del derecho administrativo y en lo que no lo estuvieren, a las disposiciones de este Título.
+
+## TITULO SEXTO. DEL ARRENDAMIENTO
 
 ### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDADOR
 
@@ -7814,8 +7866,6 @@ II.- Si se trata de mejoras útiles y por culpa del arrendador se rescindiese el
 III.- Cuando el contrato fuere por tiempo indeterminado, si el arrendador autorizó al arrendatario para que hiciera mejoras y antes de que transcurra el tiempo necesario para que el arrendatario quede compensado con el uso de las mejoras de los gastos que hizo, da el arrendador por concluido el arrendamiento.
 
 2323.- Las reformas a que se refieren las fracciones II y III del artículo anterior, deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
-
-## TITULO SEXTO. DEL ARRENDAMIENTO
 
 ### CAPITULO III. DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDATARIO
 
@@ -8145,22 +8195,6 @@ La responsabilidad de que habla este artículo no excederá de cincuenta veces e
 
 2437.- Las fondas, cafés, casas de baño y otros establecimientos semejantes, no responden de los efectos que introduzcan los parroquianos, a menos que los pongan bajo el cuidado de los empleados del establecimiento.
 
-### CAPITULO II. DEL SECUESTRO
-
-2438.- El secuestro es el depósito de una cosa litigiosa en poder de un tercero, hasta que se decida a quién debe entregarse.
-
-2439.- El secuestro es convencional o judicial.
-
-2440.- El secuestro convencional se verifica cuando los litigantes depositan la cosa litigiosa en poder de un tercero que se obliga a entregarla, concluido el pleito, al que conforme a la sentencia tenga derecho a ella.
-
-2441.- El encargado del secuestro convencional no puede libertarse de él antes de la terminación del pleito, sino consintiendo en ello todas las partes interesadas, o por una causa que el juez declare legítima.
-
-2442.- Fuera de las excepciones acabadas de mencionar, rigen para el secuestro convencional las mismas disposiciones que para el depósito.
-
-2443.- Secuestro judicial es el que se constituye por decreto del juez.
-
-2444.- El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles, y, en su defecto, por las mismas del secuestro convencional.
-
 ## TITULO SEPTIMO. DEL COMODATO
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)</small>
@@ -8208,6 +8242,22 @@ El contrato de comodato deberá otorgarse por escrito ante dos testigos. Si tien
 2414.- El comodato termina por la muerte del comodatario.
 
 ## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
+
+### CAPITULO II. DEL SECUESTRO
+
+2438.- El secuestro es el depósito de una cosa litigiosa en poder de un tercero, hasta que se decida a quién debe entregarse.
+
+2439.- El secuestro es convencional o judicial.
+
+2440.- El secuestro convencional se verifica cuando los litigantes depositan la cosa litigiosa en poder de un tercero que se obliga a entregarla, concluido el pleito, al que conforme a la sentencia tenga derecho a ella.
+
+2441.- El encargado del secuestro convencional no puede libertarse de él antes de la terminación del pleito, sino consintiendo en ello todas las partes interesadas, o por una causa que el juez declare legítima.
+
+2442.- Fuera de las excepciones acabadas de mencionar, rigen para el secuestro convencional las mismas disposiciones que para el depósito.
+
+2443.- Secuestro judicial es el que se constituye por decreto del juez.
+
+2444.- El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles, y, en su defecto, por las mismas del secuestro convencional.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -8287,6 +8337,8 @@ En este caso, el mandatario es el obligado directamente en favor de la persona c
 
 Lo dispuesto en este artículo se entiende sin perjuicio de las acciones entre el mandante y el mandatario.
 
+## TITULO NOVENO. DEL MANDATO
+
 ### CAPITULO II. DE LAS OBLIGACIONES DE MANDATARIO CON RESPECTO AL MANDANTE
 
 2461.- El mandatario, en el desempeño de su encargo, se sujetará a las instrucciones recibidas del mandante y en ningún caso podrá proceder contra disposiciones expresas del mismo.
@@ -8318,8 +8370,6 @@ Lo dispuesto en este artículo se entiende sin perjuicio de las acciones entre e
 2474.- Si se le designó la persona del substituto, no podrá nombrar a otro; si no se le designó persona podrá nombrar a la que quiera y en este último caso solamente será responsable cuando la persona elegida fuere de mala fe o se hallare en notoria insolvencia.
 
 2475.- El substituto tiene para con el mandante los mismos derechos y obligaciones que el mandatario.
-
-## TITULO NOVENO. DEL MANDATO
 
 ### CAPITULO III. DE LAS OBLIGACIONES DEL MANDANTE CON RELACION AL MANDATARIO
 
@@ -8483,6 +8533,8 @@ Las partes tienen libertad para fijar, de común acuerdo, la retribución por lo
 
 2513.- El que preste servicios profesionales, sólo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las medidas de defensa social que merezca en caso de infracción antisocial.
 
+## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
+
 ### CAPITULO II. DEL CONTRATO DE OBRAS A PRECIO ALZADO
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
@@ -8552,8 +8604,6 @@ Las partes tienen libertad para fijar, de común acuerdo, la retribución por lo
 2542.- El constructor de cualquiera obra mueble tiene derecho de retenerla mientras no se le pague, y su crédito será cubierto preferentemente con el precio de dicha obra.
 
 2543.- Los empresarios constructores son responsables, por la inobservancia de las disposiciones municipales o de policía y por todo daño que causen a los vecinos.
-
-## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
 
 ### CAPITULO III. DE LOS PORTEADORES Y ALQUILADORES
 
@@ -9665,6 +9715,8 @@ Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmoviliz
 
 IX.- Los créditos anotados en el Registro de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencia sobre los bienes anotados y solamente en cuanto a créditos posteriores.
 
+## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
+
 ### CAPITULO IV. ACREEDORES DE PRIMERA CLASE
 
 2887.- Pagados los acreedores mencionados en los dos capítulos anteriores y con el valor de todos los bienes que queden, se pagarán:
@@ -9682,8 +9734,6 @@ V.- El crédito por alimentos fiados al deudor para su subsistencia y la de su f
 VI.- La responsabilidad civil en la parte que comprende el pago de los gastos de curación o de los funerales del ofendido y las pensiones que por concepto de alimentos se deban a sus familiares. En lo que se refiere a la obligación de restituir, por tratarse de devoluciones de cosa ajena, no entra en concurso, y por lo que toca a las otras indemnizaciones que se deban por la infracción antisocial, se pagarán como si se tratara de acreedores comunes de cuarta clase;
 
 VII.- Los créditos por alimentos debidos a las personas a que se refieren los artículos del 279 al 284 hasta la fecha de la declaración del concurso, si los acreedores no los hubieren asegurado en los términos del artículo 294.
-
-## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
 
 ### CAPITULO V. ACREEDORES DE SEGUNDA CLASE
 
@@ -9837,6 +9887,8 @@ III.- Si cometen omisiones al extender las certificaciones mencionadas, salvo si
 
 2913.- El Código Administrativo establecerá los derechos y obligaciones de los Registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
 
+## TITULO SEGUNDO. DEL REGISTRO PUBLICO
+
 ### CAPITULO IV. DEL REGISTRO DE LAS INFORMACIONES DE DOMINIO
 
 2914.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para adquirirlos por prescripción y no tenga título de propiedad o teniéndolo, no sea inscribible por defectuoso si no está en el caso de deducir la acción que le concede el artículo 1158, por no estar inscrita en el Registro, la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el Juez de Primera Instancia competente, que ha tenido esa posesión, rindiendo la información respectiva conforme el artículo siguiente y en los términos establecidos en el Código de Procedimientos Civiles. Comprobada debidamente la posesión, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público de la Propiedad.
@@ -9846,8 +9898,6 @@ Por lo que corresponde a los bienes inmuebles urbanos en las municipalidades cuy
 > <small>(F. DE E., P.O. 29 DE JULIO DE 2000)</small>
 
 2915.- El promovente deberá acreditar necesariamente la forma establecida por el Código de Procedimientos Civiles que el inmueble de que se trata se encuentra, cuando menos, si es rústico, totalmente cercado y si es urbano, totalmente bardeado. Si en la oficina del Registro Público de la Propiedad del lugar de la ubicación del inmueble, se dispone de libros o índices especiales de los que aparezcan datos suficientes para la expedición de un certificado que acredite que dichos inmuebles no están inscritos a nombre de persona alguna, a la solicitud se acompañará precisamente dicho certificado; o el que acredite el extremo contrario. También se acompañará un certificado de la correspondiente Oficina Rentística, de que el inmueble está al corriente del Impuesto Predial y si de tal certificado apareciere que el causante del impuesto es persona distinta al promovente, deberá éste exhibir el certificado del Registro Público de la Propiedad respectivo, en el sentido de que el inmueble no aparece registrado a nombre de esa persona, si se dispone de Indices de Personas.
-
-## TITULO SEGUNDO. DEL REGISTRO PUBLICO
 
 ### CAPITULO V. DE LAS INSCRIPCIONES DE POSESION
 
@@ -10116,5 +10166,11 @@ Las disposiciones contenidas en el presente decreto, no serán aplicables a los 
 P.O. 9 DE JUNIO DE 2001.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2001.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
