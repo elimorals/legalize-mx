@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2000-10-19"
+last_updated: "2001-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE NOVIEMBRE DE 2001.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -345,15 +345,17 @@ ARTICULO 48
 
 El promovente de diligencias de jurisdicción voluntaria, así como los litigantes, de común acuerdo, podrán designar un notario que desempeñe las funciones que este Código asigna al secretario. En las testamentarías o intestados, la designación podrá hacerse por el albacea.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
 
 ARTICULO 49
 
-Sólo se entregarán los autos a las partes, a sus abogados o procuradores debidamente autorizados para formar o glosar cuentas y para que tomen apuntes, antes de alegar o cuando de común acuerdo lo pidieren. Los autos y copias en su caso, se entregarán por el Secretario directamente a las partes, por medio del conocimiento que deberán firmar éstas. Las frases "dar vista" o "correr traslado", sólo significan que los autos quedan en la Secretaría para que se impongan de ellos los interesados, o para que se entreguen las copias. Las disposiciones de este artículo comprenden al Ministerio Público.
+Sólo se entregarán los expedientes a las partes, a sus abogados o procuradores debidamente autorizados para formar o glosar cuentas y para que tomen apuntes, antes de alegar o cuando de común acuerdo lo pidieren. Los autos y copias, en su caso, se entregarán por el secretario directamente a las partes, por medio del conocimiento que deberán firmar éstas. Las frases "dar vista" o "correr traslado", sólo significan que los autos quedan en la secretaría para que se impongan de ellos los interesados, o para que se entreguen las copias. Las disposiciones de este artículo no comprenden al Ministerio Público, al que se hará entrega del expediente, excepto que sea actor o demandado, bajo apercibimiento de que, si en el término de cinco días hábiles no desahoga la vista, o si dentro del término legal que corresponda no contesta el traslado, el juez ordenará que se le devuelva el expediente, certificando tal circunstancia para los efectos a que haya lugar.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
 
 ARTICULO 50
 
-Los autos que se perdieren, serán repuestos a costa del que fue responsable de la pérdida, quien además pagará los daños y perjuicios, quedando sujeto a las disposiciones del Código Penal.
+El expediente, las pruebas integradas a éste o los autos que se perdieren, serán repuestos a costa del responsable de la pérdida, quien además pagará los daños y perjuicios, quedando sujeto a las disposiciones del Código Penal.
 
 La reposición se substanciará incidentalmente; y sin necesidad de acuerdo judicial, el secretario hará constar desde luego la existencia anterior y la falta posterior del expediente.
 
@@ -595,6 +597,10 @@ ARTICULO 81
 
 Se notificarán personalmente los emplazamientos para contestar una demanda, para posiciones o reconocimiento de firmas y documentos, libros o papeles y cuando se haga saber el envío de los autos a otro tribunal, así como cuando en el juicio se haya dejado de actuar por más de noventa días naturales.
 
+> <small>(ADICIONADO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
+En todos los casos, las notificaciones al Ministerio Público serán personales; la contravención de esta disposición se hará del conocimiento del Procurador General de Justicia del estado, para que proceda conforme a derecho en contra de quien resulte responsable.
+
 > <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
 
 ARTICULO 82
@@ -685,13 +691,19 @@ ARTICULO 98
 
 Cuando este Código no señale términos para la práctica de algún acto judicial, o para el ejercicio de algún derecho, se tendrán por señalados los siguientes:
 
-I.- (DEROGADA, G.O. 29 DE DICIEMBRE DE 1966)
+I.- (DEROGADA, G.O. 29 DE DICIEMBRE DE 1966)(REPUBLICADA, G.O. 20 DE NOVIEMBRE DE 2001)
 
-II.- (DEROGADA, G.O. 29 DE DICIEMBRE DE 1966)
+II.- (DEROGADA, G.O. 29 DE DICIEMBRE DE 1966)(REPUBLICADA, G.O. 20 DE NOVIEMBRE DE 2001)
 
 III.- Tres días para la celebración de juntas, reconocimiento de firmas y documentos, dictamen de peritos, exhibición de documentos; a no ser que por circunstancias especiales creyere el juez conveniente ampliar el término, lo cual podrá hacer por tres días más;
 
-IV.- Tres días para todos los demás casos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
+IV.- Cinco días para que el Ministerio Público desahogue la vista; y
+
+> <small>(ADICIONADA, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
+V.- Tres días para todos los demás casos.
 
 ARTICULO 99
 
@@ -5559,7 +5571,9 @@ Los instructivos se extenderán en esqueletos impresos tomados de libros talonar
 
 ARTICULO 755
 
-El comisario o gendarme que entregue el instructivo recogerá en una libreta especial, recibo de él. Si no supiere o no pudiere firmar la persona que debiere hacerlo, será firmado por alguna otra presente en su nombre, asentándose en la libreta a quien se haya hecho la entrega y el motivo.
+El comisario o gendarme que entregue el instructivo recogerá en una libreta especial, recibo de él. Si no supiere o no pudiere firmar
+
+por alguna otra presente en su nombre, asentándose en la libreta a quien se haya hecho la entrega y el motivo.
 
 En el juzgado habrá el número necesario de libretas para que pueda llevar una cada encargado de hacer notificaciones.
 
@@ -5914,6 +5928,12 @@ G.O. 19 DE OCTUBRE DE 2000.
 Artículo Primero. La presente ley entrará en vigor al día siguiente de su publicación en al Gaceta Oficial, órgano de gobierno del estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan a la presente ley.
+
+G.O. 20 DE NOVIEMBRE DE 2001.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
