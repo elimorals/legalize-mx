@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1996-05-24"
+last_updated: "1997-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1997.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -1906,11 +1906,11 @@ ARTICULO 207
 
 La solicitud puede ser escrita o verbal, en la que se señalarán las causas en que se funda, el domicilio para su habitación, la existencia de hijos menores y las demás circunstancias del caso.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ARTICULO 208
 
-El juez podrá, si lo estima conveniente, practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución.
+El juez podrá practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución. En el caso de violencia familiar tomará en cuenta los dictámenes, informes y opiniones que hubieren realizado las instituciones públicas o privadas dedicadas a atender asuntos de esta índole.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -1958,11 +1958,11 @@ ARTICULO 215
 
 Si al vencimiento del plazo concedido no se acredita al juez que se ha presentado la demanda, la denuncia o la querella, cesarán los efectos de la separación, quedando obligado el cónyuge a regresar al domicilio conyugal dentro de las 24 horas siguientes.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ARTICULO 216
 
-El cónyuge que se separó, tendrá en todo tiempo el derecho de volver al domicilio conyugal.
+Los derechos contemplados en el presente capítulo, también podrán ejercerlos la concubina y el concubinario, cuando tengan un domicilio común con las características del domicilio conyugal a que se refiere el Código Civil.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -3730,7 +3730,9 @@ Terminada la sección de ejecución se agregará al cuaderno principal del juici
 
 ARTICULO 474 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
 
-ARTICULO 475 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
+ARTICULO 475
+
+> <small>(DEROGADO, D.O.F. 21 DE ENERO DE 1967)</small>
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -7236,21 +7238,29 @@ ARTICULO 940
 
 Todos los problemas inherentes a la familia se consideran de orden público, por constituir aquella la base de la integración de la sociedad.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
 ARTICULO 941
 
-El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+
+El juez de lo familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con violencia familiar, decretando las medidas precautorias que tiendan a preservar la familia y proteger a sus miembros.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 En todos los asuntos del orden familiar los Jueces y Tribunales están obligados a suplir la deficiencia de las partes en sus planteamientos de derecho.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
 
-> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ARTICULO 942
 
-No se requieren formalidades especiales para acudir ante el Juez de lo Familiar cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos, oposición de maridos, padres y tutores y en general todas las cuestiones familiares similares que reclamen la intervención judicial.
+No se requieren formalidades especiales para acudir ante el juez de lo familiar cuando se solicite la declaración, preservación, restitución o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos, oposición de padres y tutores y en general de todas las cuestiones familiares similares que reclamen la intervención judicial.
+
+Esta disposición no es aplicable a los casos de divorcio o de pérdida de la patria potestad.
+
+Tratándose de violencia familiar prevista en el artículo 323 ter del Código Civil para el Distrito Federal en materia común y para toda la República en materia federal, el juez exhortará a los involucrados en audiencia privada, a fin de que convengan los actos para hacerla cesar y, en caso de que no lo hicieran, en la misma audiencia el juez del conocimiento determinará las medidas procedentes para la protección de los menores y de la parte agredida. Al efecto, verificará el contenido de los informes que al respecto hayan sido elaborados por las instituciones públicas o privadas que hubieren intervenido y escuchará al Ministerio Público.
 
 > <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -7266,11 +7276,11 @@ ARTICULO 944
 
 En la audiencia las partes aportarán las pruebas que así procedan y que hayan ofrecido, sin más limitación que no sean contrarias a la moral o estén prohibidas por la ley.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ARTICULO 945
 
-La audiencia se practicará con o sin asistencia de las partes. El juez para resolver el problema que se le plantee, podrá cerciorarse personalmente o con auxilio de trabajadores sociales, de la veracidad de los hechos. Aquéllos presentarán el informe correspondiente en la audiencia, y podrán ser interrogados por el juez y por las partes. Su valoración se hará conforme a lo dispuesto por el artículo 402 de este Código. En el fallo se expresarán en todo caso los medios de prueba en que haya (sic) fundado el juez para dictarlo.
+La audiencia se practicará con o sin asistencia de las partes. Para resolver el problema que se le plantee, el juez se cerciorará de la veracidad de los hechos y los evaluará personalmente o con auxilio de especialistas o de instituciones especializadas en la materia. Éstos presentarán el informe correspondiente en la audiencia y podrán ser interrogados tanto por el juez como por las partes. La valoración se hará conforme a lo dispuesto por el artículo 402 de este Código y en el fallo se expresarán los medios de prueba en que se haya fundado el juez para dictarlo.
 
 > <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -8125,3 +8135,9 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA
 PRIMERO.- Las reformas previstas en los artículos 1o. y 3o., del presente decreto, entrarán en vigor sesenta días después de su publicación en el Diario Oficial de la Federación y no serán aplicables a persona alguna que tenga contratados créditos con anterioridad a la entrada en vigor del presente decreto. Tampoco serán aplicables tratándose de la novación o reestructuración de créditos contraídos con anterioridad a la entrada en vigor de este decreto.
 
 ...
+
+D.O.F. 30 DE DICIEMBRE DE 1997.
+
+PRIMERO.- Este Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
