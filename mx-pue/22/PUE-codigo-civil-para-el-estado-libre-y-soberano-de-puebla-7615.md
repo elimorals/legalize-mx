@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "1998-09-14"
+last_updated: "2004-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2004.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -2445,7 +2445,7 @@ La acción de nulidad que nace de la causa que se señala en la fracción VI del
 
 El miedo y la fuerza serán causa de nulidad si concurren las circunstancias siguientes
 
-I.- Que uno u otra importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
+I.- Que uno u otra importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes.
 
 II.- Que el miedo haya sido causado o la violencia hecha al cónyuge o a la persona que lo tenía bajo su patria potestad, al celebrarse el matrimonio; y
 
@@ -2589,15 +2589,15 @@ Los ex cónyuges, que hayan obtenido el divorcio, podrán contraer nuevamente ma
 
 Los cónyuges que pretendan divorciarse administrativamente deben:
 
-I.- Ser mayores de edad.
+I.- Ser mayores de edad;
 
-II.- No haber procreado ni adoptado hijos.
+II.- No haber procreado ni adoptado hijos;
 
-III.- Estar sometidos a separación de bienes, como régimen económico actual de su matrimonio o, en caso de ser ese régimen el de sociedad conyugal, no haber adquirido bienes inmuebles que sean gananciales y haber liquidado esa sociedad por convenio.
+III.- Estar sometidos a separación de bienes, como régimen económico actual de su matrimonio o, en caso de ser ese régimen el de sociedad conyugal, no haber adquirido bienes inmuebles que sean gananciales y haber liquidado esa sociedad por convenio;
 
-IV.- No estar la mujer encinta.
+IV.- No estar la mujer encinta;
 
-V.- Tener su domicilio familiar actual dentro del territorio del Estado de Puebla, y haberlo tenido en él los seis meses anteriores a su promoción.
+V.- Tener su domicilio familiar actual dentro del territorio del Estado de Puebla, y haberlo tenido en él los seis meses anteriores a su promoción;
 
 VI.- Tener más de un año de casados.
 
@@ -6507,6 +6507,8 @@ Son aplicables a la división entre partícipes, las reglas relativas a la divis
 
 #### Sección Segunda.- Bienes propios y bienes comunes
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+
 ###### Artículo 1116.
 
 Con excepción de lo dispuesto en los artículos 1084 y 1085, el régimen de propiedad y condominio, puede originarse:
@@ -6517,25 +6519,37 @@ II.- Cuando se construya un edificio para vender a personas distintas los difere
 
 III.- Cuando el propietario o propietarios de un edificio lo dividan en diferentes pisos, departamentos, viviendas o locales, para venderlos a distintas personas, si existe un elemento común que sea indivisible.
 
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2004)</small>
+
+IV. Cuando el propietario o propietarios de un terreno o predio, lo dividan en diferentes áreas privativas o fracciones, para transmitir su propiedad a distintas personas, preservando elementos comunes que sean indivisibles; encontrándose además dicho inmueble debidamente delimitado por algún elemento físico y con los lineamientos requeridos por la ley de la materia.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+
 ###### Artículo 1117.
 
-Cuando en los artículos siguientes de este Capítulo se usen las palabras "local" o "locales" significarán "piso, departamento, vivienda o local", en singular o plural, respectivamente.
+Cuando en los artículos siguientes de este Capítulo se usen las palabras "local" o "locales" significarán "piso", departamento, vivienda o "local"; o unidad privativa en singular o plural, respectivamente.
 
 ###### Artículo 1118.
 
 Para constituir el régimen de propiedad y condominio, ya sea vertical, horizontal o mixto, el propietario o propietarios, deberán declarar su voluntad en escritura pública en la cual se hará constar:
 
-I.- La situación, dimensiones y linderos del terreno así como una descripción general del edificio;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2004)</small>
+
+I.- La situación, dimensiones y linderos del terreno así como una descripción general del edificio, en su caso;
 
 II.- La descripción de cada local, su número, situación, medidas, piezas de que consta y demás datos necesarios para identificarlo;
 
 III.- El valor total del inmueble y el que corresponda a cada local;
 
-IV.- El destino general del edificio y el especial de cada local;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2004)</small>
+
+IV.- El destino general del edificio, terreno o predio y el especial de cada local o unidad privativa;
 
 V.- Los bienes de propiedad común, su destino con la especificación y detalles necesarios y, en su caso, su situación, medidas, partes de que se compongan, características y demás datos necesarios para su identificación;
 
-VI.- Constancia de las autoridades competentes en materia de construcciones urbanas y de salubridad, de que el edificio construido reúne los requisitos que deben tener este tipo de construcciones.
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2004)</small>
+
+VI.- Constancia de las autoridades competentes en materia de construcciones urbanas, de que el edificio construido o el terreno materia del régimen, reúne los requisitos que deben tener este tipo de construcciones.
 
 ###### Artículo 1119.
 
@@ -6551,29 +6565,39 @@ III.- Los planos de las áreas comunes.
 
 En un reglamento de condominio y administración se establecerán los derechos y obligaciones de los diversos condóminos.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+
 ###### Artículo 1121.
 
-El título constitutivo del régimen de propiedad y condominio del edificio, deberá inscribirse en el Registro Público de la Propiedad.
+El título constitutivo del régimen de propiedad y condominio del edificio, terreno o predio, deberá inscribirse en el Registro Público de la Propiedad.
 
 ###### Artículo 1122.
 
 La declaración de voluntad que exige el artículo 1118, podrá hacerse también, llenando los requisitos establecidos en él, por el propietario de un terreno que quiera construir un edificio dividido en locales, y se considerará constituido el régimen de propiedad y condominio, desde que el terreno y el edificio por construir, se hipotequen total o parcialmente o se venda cualquiera de las divisiones proyectadas.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+
 ###### Artículo 1123.
 
-Las escrituras de compraventa de cada local, se referirán a la escritura general que exige el artículo 1118 y al apéndice de la misma escritura se agregará un ejemplar, firmado por las partes vendedora y compradora, del reglamento que establece el artículo 1120.
+Las escrituras de compraventa de cada local o unidad privativa, se referirán a la escritura general que exige el artículo 1118 y al apéndice de la misma escritura se agregará un ejemplar, firmado por las partes vendedora y compradora, del reglamento que establece el artículo 1120.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 1124.
 
-En los testimonios de las escrituras a que se refiere el artículo anterior, se insertará el reglamento de condominio y administración del edificio o se agregará a cada uno de ellos, un ejemplar de ese reglamento certificado por el Notario.
+En los testimonios de las escrituras a que se refiere el artículo anterior, se insertará el reglamento de condominio y administración del edificio, terreno o predio y se agregará a cada uno de ellos, un ejemplar de ese reglamento certificado por el Notario.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 1125.
 
-Para que se inscriba en el Registro Público de la Propiedad la escritura de compraventa de un local, deberá inscribirse previamente, en aquel registro, la escritura constitutiva.
+Para que se inscriba en el Registro Público de la Propiedad la escritura de compraventa de un local o unidad privativa, deberá inscribirse previamente, en aquel registro, la escritura constitutiva.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 1126.
 
-Solamente por acuerdo unánime de los condóminos, se podrán modificar en escritura pública, el destino general del edificio y el especial del local.
+Solamente por acuerdo unánime de los condóminos, se podrán modificar en escritura pública, el destino general del edificio, terreno o predio y el especial del local o unidad privativa.
 
 ###### Artículo 1127.
 
@@ -6581,17 +6605,21 @@ Establecido el régimen de propiedad y condominio, sólo se podrá extinguir por
 
 #### Sección Tercera.- Administrador y Asambleas
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+
 ###### Artículo 1128.
 
-Cada condómino será dueño exclusivo de su local y condueño de los elementos y partes del edificio que se consideren comunes.
+Cada condómino será dueño exclusivo de su local o unidad privativa y condueño de los elementos y partes del edificio, terreno o predio que se consideren comunes.
 
 ###### Artículo 1129.
 
 El derecho de los condóminos para usar los bienes comunes será igual, independientemente del valor de la parte privativa de cada una de ellos, fijado en la escritura constitutiva.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+
 ###### Artículo 1130.
 
-El condominio sobre los elementos comunes del edificio no es susceptible de división ni de venta.
+El condominio sobre los elementos comunes del edificio, terreno o predio no son susceptibles de división ni de venta.
 
 ###### Artículo 1131.
 
@@ -6619,39 +6647,51 @@ El condómino que abandone sus derechos o renuncie a usar determinados bienes co
 
 Cada condómino podrá gozar de las instalaciones y servicios generales y servirse de los bienes comunes, conforme a la naturaleza y destino ordinario de éstos y de aquéllas, sin restringir o hacer más oneroso el derecho de los demás condóminos.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+
 ###### Artículo 1135.
 
-El propietario de un local puede usar, gozar y disponer de él con las limitaciones y prohibiciones que establezcan las leyes, las escrituras a que se refieren los artículos 1118 y 1123 y el reglamento de condominio y administración respectivo.
+El propietario de un local o unidad privativa puede usar, gozar y disponer de él con las limitaciones y prohibiciones que establezcan las leyes, las escrituras a que se refieren los artículos 1118 y 1123 y el reglamento de condominio y administración respectivo.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 1136.
 
-Cada condómino podrá enajenar, hipotecar o gravar su local, sin necesidad del consentimiento de los demás.
+Cada condómino podrá enajenar, hipotecar o gravar su local o unidad privativa sin necesidad del consentimiento de los demás.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 1137.
 
-En la enajenación, gravamen o embargo de un local se entenderán comprendidos los derechos sobre los bienes comunes que le son anexos y éstos no pueden enajenarse, gravarse o embargarse independientemente de aquél.
+En la enajenación, gravamen o embargo de un local o unidad privativa se entenderán comprendidos los derechos sobre los bienes comunes que le son anexos y éstos no pueden enajenarse, gravarse o embargarse independientemente de aquél.
 
 ###### Artículo 1138.
 
 Si la hipoteca o gravamen se constituye sobre la totalidad del edificio sujeto a régimen de propiedad y condominio, o sobre el terreno destinado a su construcción, será forzoso determinar por qué porción del crédito responde cada local, pudiendo cualquiera de ellos ser redimido del gravamen, pagándose la parte del crédito que garantice.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+
 ###### Artículo 1139.
 
-En el caso de venta de un local sujeto al régimen de propiedad y condominio, los otros condóminos no tienen el derecho del tanto.
+En el caso de venta de un local o unidad privativa sujeto al régimen de propiedad y condominio, los otros condóminos no tienen el derecho del tanto.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 1140.
 
-Cada condómino usará de su local, respetando los derechos de convivencia.
+Cada condómino usará de su local o unidad privativa respetando los derechos de convivencia.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
 
 ###### Artículo 1141.
 
 Los condóminos no pueden:
 
-I.- Destinar su local a usos ilícitos;
+I.- Destinar su local o unidad privativa a usos ilícitos;
 
-II.- Servirse de su local para otro objeto distinto al estipulado y, en caso de duda, a aquéllos que deban presumirse en atención a la naturaleza del edificio y su situación;
+II.- Servirse de su local o unidad privativa para otro objeto distinto al estipulado y, en caso de duda, a aquéllos que deban presumirse en atención a la naturaleza del edificio y su situación; y
 
-III.- Efectuar actos o incurrir en omisiones que comprometan la solidez, seguridad, salubridad o comodidad del edificio.
+III.- Efectuar actos o incurrir en omisiones que comprometan la solidez, seguridad, salubridad o comodidad del edificio, terreno o predio.
 
 ###### Artículo 1142.
 
@@ -6671,9 +6711,11 @@ d) Abrir luces o ventanas;
 
 e) Pintar o decorar la fachada de su local, en forma que altere la estética general del edificio.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+
 ###### Artículo 1143.
 
-Salvo lo dispuesto en el artículo anterior, los condóminos podrán hacer obras y reparaciones en el interior de su local.
+Salvo lo dispuesto en el artículo anterior, los condóminos podrán hacer obras y reparaciones en el interior de su local o unidad privativa.
 
 ###### Artículo 1144.
 
@@ -6705,7 +6747,7 @@ V.- Se prohíben las obras que puedan poner en peligro la solidez o seguridad de
 
 ###### Artículo 1147.
 
-Los edificios sometidos al régimen de propiedad y condominio, serán administrados por la persona física o jurídica que designe la mayoría de los condóminos conforme a los artículos 1148 y 1153.
+Los edificios, terreno o predio sometidos al régimen de propiedad y condominio, serán administrados por la persona física o jurídica que designe la mayoría de los condóminos conforme a los artículos 1148 y 1153.
 
 ###### Artículo 1148.
 
@@ -6765,6 +6807,8 @@ VIII.- La autoridad judicial podrá confirmar, modificar o revocar los acuerdos 
 
 #### Sección Quinta.- Gastos, obligaciones fiscales y controversias
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+
 ###### Artículo 1154.
 
 El reglamento de condominio y administración determinará obligatoriamente, por lo menos, los siguientes puntos:
@@ -6775,7 +6819,9 @@ II.- Bases de remuneración del administrador y forma de su remoción;
 
 III.- Persona que presidirá las asambleas;
 
-IV.- Derechos y obligaciones de cada uno de los condóminos, especificando las partes del edificio que sean de uso común y las limitaciones al ejercicio del derecho de usar tanto los bienes comunes como los propios.
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2004)</small>
+
+IV.- Derechos y obligaciones de cada uno de los condóminos, especificando las partes del edificio, terreno o predio, que sean de uso común y las limitaciones al ejercicio del derecho de usar tanto los bienes comunes como los propios.
 
 ###### Artículo 1155.
 
@@ -6793,7 +6839,7 @@ Si uno o varios condóminos niegan su consentimiento para reformar el reglamento
 
 ###### Artículo 1158.
 
-Los condóminos deben contribuir, en proporción al número de metros cuadrados que tenga su local, para los gastos de administración, conservación y operación de los bienes y servicios comunes.
+Los condóminos deben contribuir, en proporción al número de metros cuadrados que tenga su local o unidad privativa para los gastos de administración, conservación y operación de los bienes y servicios comunes.
 
 ###### Artículo 1159.
 
@@ -13771,7 +13817,7 @@ Si por la cuantía del negocio el mandato judicial se otorgó en documento priva
 
 ###### Artículo 2478.
 
-No puede admitirse en juicio mandato otorgado a favor de dos o más personas, con cláusula que prohíba cada una de ellas promover sin el concurso de la otra u otras; pero puede concederse simultáneamente un mismo mandato a diversas personas.
+No puede admitirse en juicio mandato otorgado a favor de dos o más personas, con cláusula que prohíba a cada una de ellas promover sin el concurso de la otra u otras; pero puede concederse simultáneamente un mismo mandato a diversas personas.
 
 ###### Artículo 2479.
 
@@ -19726,3 +19772,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 21 DE ENERO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
