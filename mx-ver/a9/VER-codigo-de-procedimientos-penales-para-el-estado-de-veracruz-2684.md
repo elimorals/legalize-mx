@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "2001-01-09"
+last_updated: "2001-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE NOVIEMBRE DE 2001.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -49,9 +49,11 @@ III.- El de juicio, durante el cual el Ministerio Público precisa su acusación
 
 IV.- El de ejecución, que comprende desde el momento en que causa ejecutoria la sentencia de los tribunales, hasta la extinción de las sanciones aplicadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 2º.
 
-Dentro del período de averiguación previa, la Policía Judicial deberá, en ejercicio de sus facultades:
+Dentro del período de averiguación previa, el Ministerio Público deberá, en ejercicio de sus facultades:
 
 I.- Recibir las denuncias y querellas de los particulares o de cualquiera autoridad, sobre hechos que puedan constituir delitos;
 
@@ -59,11 +61,17 @@ II.- Practicar la averiguación previa; y
 
 III.- Recabar las pruebas de la existencia de los delitos y de la responsabilidad de quienes en ellos hubieren participado.
 
+> <small>(ADICIONADO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
+La policía ministerial estará bajo el mando directo e inmediato del Ministerio Público.
+
 ###### ARTICULO 3º.
 
 Dentro del mismo período el Ministerio Público deberá:
 
-I.- Ejercitar por sí mismo, en caso necesario, las funciones expresadas en el artículo anterior, teniendo bajo su dirección y mando a todas las autoridades que conforme a la ley ejerzan funciones de policía judicial;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
+I.- Ejercitar por sí mismo, en caso necesario, las funciones expresadas en el artículo anterior, teniendo bajo su dirección y mando a todas las autoridades que conforme a la ley ejerzan funciones de policía; y
 
 II.- Ejercitar la acción penal.
 
@@ -71,7 +79,9 @@ II.- Ejercitar la acción penal.
 
 Los períodos de instrucción y juicio, constituyen el procedimiento judicial, dentro del cual corresponde exclusivamente a los tribunales, resolver si un hecho es o no delito; determinar la responsabilidad o irresponsabilidad de las personas acusadas ante ellos e imponer las sanciones que procedan con arreglo a la ley.
 
-Dentro de este procedimiento, la Policía Judicial y el Ministerio Público, en su caso, ejercitarán también las funciones que les encomienda la fracción III del Artículo 2o; y el Ministerio Público cuidará de que los tribunales apliquen estrictamente las leyes relativas, y de que las resoluciones de aquéllos se cumplan debidamente.
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
+Dentro de este procedimiento el Ministerio Público, recabará las pruebas de la existencia de los delitos y de la responsabilidad de quienes en ellos hubieren participado; cuidará que los tribunales apliquen estrictamente las leyes relativas, y que las resoluciones de éstos se cumplan debidamente.
 
 ###### ARTICULO 5º.
 
@@ -199,9 +209,11 @@ El auto en que el juez acepte o niegue la inhibición será apelable en efecto d
 
 Las actuaciones podrán practicarse a toda hora y aun en los días inhábiles, sin necesidad de previa habilitación y en cada una de ellas se expresará el día, mes y año en que se practiquen, así como la hora en los casos en que este requisito sea indispensable.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 21.
 
-El juez, el agente del Ministerio Público que actúe y los miembros de la policía judicial, estarán acompañados, en todas las diligencias que practiquen, de sus secretarios, si los tuvieren, o de dos testigos de asistencia que darán fe de todo lo actuado.
+El juez y el agente del Ministerio Público que actúen, estarán acompañados, en todas las diligencias que practiquen, de sus secretarios, o de dos testigos de asistencia que darán fe de todo lo actuado.
 
 En las diligencias podrán emplearse, según el caso y a juicio del funcionario que las practique, la taquigrafía, el dictáfono y cualquier otro medio que tenga por objeto reproducir imágenes o sonidos y el medio empleado se hará constar en el acta respectiva.
 
@@ -303,9 +315,11 @@ Las fianzas que deban otorgarse ante los tribunales, se sujetarán a las disposi
 
 En materia penal no se pagarán costas. El empleado que las cobrare o recibiere, aunque sea a título de gratificación, será destituído de su empleo, sin perjuicio de que sea consignado al Ministerio Público.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 41.
 
-Todos los gastos que se originen en las diligencias de policía judicial, en las acordadas por los tribunales a solicitud del Ministerio Público, y en las decretadas de oficio por los tribunales serán cubiertos por el Erario del Estado.
+Los gastos que se originen en las diligencias de averiguación previa, en las acordadas por los tribunales a solicitud del Ministerio Público, y en las decretadas de oficio por éstos serán cubiertos por el erario del estado.
 
 Los gastos de las diligencias solicitadas por el inculpado o la defensa serán cubiertos por quienes las promuevan. En el caso de que estén imposibilitados para ello y de que el Ministerio Público estime que son indispensables para el esclarecimiento de los hechos, podrá éste hacer suya la petición de esas diligencias y entonces quedarán también a cargo del Erario del Estado.
 
@@ -377,9 +391,11 @@ III.- Arresto hasta por treinta y seis horas.
 
 ### CAPITULO VI. Requisitorias y exhortos
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 50.
 
-Las diligencias de policía judicial que deban practicarse fuera del lugar en que se esté tramitando alguna averiguación, se encargarán a quien toque desempeñar esas funciones en el lugar donde deban practicarse, enviándole la averiguación original o un oficio con las inserciones necesarias.
+Las diligencias del Ministerio Público que deban practicarse fuera del lugar en que esté tramitando alguna averiguación, se encargarán a quien toque desempeñar esas funciones en el lugar donde deban practicarse, enviándole la averiguación original o un oficio con las inserciones necesarias.
 
 Cuando tuviere que practicarse una diligencia judicial fuera del lugar del juicio, se encargará su cumplimiento, por medio de exhorto o requisitoria, al juez de la localidad en que dicha diligencia deba practicarse.
 
@@ -465,9 +481,11 @@ Al concluirse el cateo se levantará acta circunstanciada, en presencia de dos t
 
 Cuando no se cumplan estos requisitos, la diligencia carecerá de todo valor probatorio, sin que sirva de excusa el consentimiento de los ocupantes del lugar.
 
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 67.
 
-Las diligencias de cateo se practicarán por el tribunal que las decrete o por el secretario del mismo, o por los funcionarios o agentes de la policía judicial, según se designen en el mandamiento. Si alguna autoridad hubiere solicitado del Ministerio Público la promoción del cateo, podrá asistir a la diligencia.
+Las diligencias de cateo se practicarán por el tribunal que las decrete o por el secretario del mismo o por los funcionarios o agentes de la policía ministerial, según se designen en el mandamiento. Si alguna autoridad hubiere solicitado del Ministerio Público la promoción del cateo, podrá asistir a la diligencia.
 
 ###### ARTICULO 68.
 
@@ -513,7 +531,7 @@ Los términos se contarán por días naturales, excepto los que se refieren a lo
 
 ### CAPITULO IX. Citaciones
 
-> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
+> <small>(REFORMADO, G.O 23 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 77.
 
@@ -545,9 +563,11 @@ Cuando se haga la citación por cédula, deberá acompañarse a ésta un duplica
 
 Cuando la citación se haga por telégrafo, se enviará por duplicado a la oficina que haya de transmitirla la cual devolverá, con su constancia de recibo uno de los ejemplares que se agregará al expediente.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 82.
 
-En caso de urgencia podrá hacerse la citación por telefonema, que transmitirá el funcionario de la policía judicial que practique las diligencias o el secretario respectivo del tribunal que corresponda, quienes harán la citación con las indicaciones a que se refieren las fracciones I y III del artículo 79, asentando constancia en el expediente.
+En caso de urgencia la citación podrá hacerse por telefonema, que transmitirá el funcionario del Ministerio Público que practique las diligencias o el secretario respectivo del tribunal que corresponda, quienes la harán con las indicaciones a que se refieren las fracciones I y III del artículo 79, asentando constancia en el expediente.
 
 Asimismo podrá ordenarse por teléfono a la policía que haga la citación, cumpliéndose con los requisitos del mismo artículo 79.
 
@@ -731,9 +751,11 @@ AVERIGUACION PREVIA.
 
 ### CAPITULO I. Iniciación del Procedimiento
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 115.
 
-Los funcionarios y agentes de la policía judicial están obligados a proceder de oficio a la investigación de los delitos de que tengan noticia, excepto en los casos siguientes:
+Los funcionarios del Ministerio Público están obligados a proceder de oficio a la investigación de los delitos de que tengan noticia, excepto en los casos siguientes:
 
 I.- Cuando se trate de delitos en los que solamente se pueda proceder por querella necesaria, si ésta no se ha presentado;
 
@@ -871,7 +893,9 @@ El defensor a que se refieren el párrafo anterior y el artículo 126 de este C�
 
 A las actuaciones de averiguación previa, sólo podrán tener acceso el inculpado, su defensor, la víctima u ofendido y su representante legal, únicamente en relación con los hechos imputados en su contra.
 
-El personal de las Agencias del Ministerio Público y de la Policía Judicial, en ningún caso ni por motivo alguno mantendrán incomunicados a los detenidos, ni permitirán que se les incomunique durante el período de averiguación previa. La violación de esta norma es causa de responsabilidad para quien la infrinja, de conformidad con lo dispuesto en el Código Penal.
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
+El personal de las Agencias del Ministerio Público y de la policía ministerial, en ningún caso ni por motivo alguno mantendrán incomunicados a los detenidos ni permitirán que se les incomunique durante el período de averiguación previa. La violación de esta norma es causa de responsabilidad para quien la infrinja, de conformidad con lo dispuesto en el Código Penal.
 
 > <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
@@ -917,7 +941,9 @@ e) Que quien haya de ejercer la custodia del arraigado, tenga domicilio dentro d
 
 Si el presunto responsable o quien lo custodia, desobedeciera sin justa causa las órdenes del Ministerio Público, se revocará el arraigo domiciliario, y el presunto responsable será remitido al lugar de reclusión.
 
-Si la acción penal ha de ejercitarse, la policía judicial o la policía preventiva presentarán al presunto responsable ante el Juez competente.
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
+Si la acción penal ha de ejercitarse, la policía ministerial o la policía preventiva prentarán al presunto responsable ante el Juez competente.
 
 El Ministerio Público podrá autorizar al presunto responsable para que acuda a su trabajo habitual, si al solicitarse el arraigo: Se precisa la naturaleza de las labores, la ubicación del centro de trabajo y quien ejerza la custodia, expresa su conformidad.
 
@@ -949,11 +975,11 @@ V.-En todo caso, se mantendrán separados a los hombres y a las mujeres en los l
 
 Cuando se determine la internación de alguna persona en un hospital u otro establecimiento similar, deberá indicarse el carácter con que sea su ingreso, lo que se comunicará a los encargados del establecimiento respectivo; si no se hiciere esa indicación, se entenderá que sólo ingresa para su curación.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JULIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 131.
 
-El Ministerio Público dictará las órdenes para la autopsia e inhumación del cadáver y el levantamiento de las actas de defunción respectivas, cuando apareciere que la muerte fue posiblemente originada por algún delito y las diligencias de averiguación previa no estuvieren en estado de consignarse desde luego a los tribunales.
+El Ministerio Público dictará las órdenes para la necrocirugía e inhumación del cadáver y el levantamiento de las actas de defunción respectivas, cuando apareciere que la muerte fue posiblemente originada por la comisión de algún delito y las diligencias de averiguación previa no estuvieren en estado de consignarse desde luego a los tribunales.
 
 Si de las mismas diligencias apareciere claramente que la muerte no tuvo por origen un delito y por lo mismo no procediere ejercitar la acción penal las órdenes para el levantamiento del acta de defunción y para la inhumación del cadáver, se darán por el Ministerio Público.
 
@@ -961,9 +987,9 @@ Si de las mismas diligencias apareciere claramente que la muerte no tuvo por ori
 
 Si de las diligencias practicadas no resultan elementos bastantes para hacer la consignación a los tribunales y no aparece que se puedan practicar otras, pero con posterioridad pudieran allegarse datos para proseguir la averiguación, se reservará el expediente hasta que aparezcan esos datos y entretanto se ordenará a la policía que haga investigaciones tendientes a lograr el esclarecimiento de los hechos.
 
-> <small>(ADICIONADO, G.O. 23 DE JULIO DE 1991)</small>
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
 
-No podrá consignarse a ninguna persona si existe como única prueba la confesión. La Policía Judicial podrá rendir informes pero no obtener confesiones; si lo hace, éstas carecerán de valor probatorio.
+No podrá consignarse a ninguna persona si existe como única prueba la confesión. La policía ministerial podrá rendir informes pero no obtener confesiones; si lo hace, éstas carecerán de valor probatorio.
 
 > <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
@@ -1221,23 +1247,29 @@ La probable responsabilidad del inculpado se tendrá por comprobada cuando, de l
 
 El cuerpo del delito de que se trate y la probable responsabilidad se acreditarán por cualquier medio probatorio que señale la ley.
 
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 165.
 
-Cuando se trate de lesiones externas se tendrá por comprobado el cuerpo del delito con la inspección de éstas, hecha por el funcionario que hubiere practicado las diligencias de policía judicial o por el tribunal que conozca del caso, y con la descripción que de ellas hagan los peritos médicos titulados o prácticos.
+Cuando se trate de lesiones externas se tendrá por comprobado el cuerpo del delito con la inspección de éstas, hecha por el funcionario que hubiere practicado las diligencias de averiguación previa o por el tribunal que conozca del caso, y con la descripción que de ellas hagan los peritos médicos titulados o prácticos.
 
 ###### ARTICULO 166.
 
 En el caso de lesiones internas, se tendrá por comprobado el cuerpo del delito, con la inspección hecha por el funcionario o tribunal a quienes se refiere el artículo anterior, de las manifestaciones exteriores que presentare la víctima y con el dictamen pericial en que se expresarán los síntomas que presente, si existen esas lesiones y si han sido producidas por una causa externa. En caso de no existir manifestaciones exteriores, bastará con el dictamen pericial.
 
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 167.
 
-Si se tratare de homicidio, el cuerpo del delito se tendrá por comprobado con la inspección y descripción del cadáver, hecha en los términos de los dos artículos anteriores y con el dictamen de los peritos médicos, quienes practicarán la autopsia y expresarán con minuciosidad el estado que guarde el cadáver y las causas que originaron la muerte. Si hubiere sido sepultado se procederá a exhumarlo, para los efectos expresados.
+Si se tratare de homicidio, el cuerpo del delito se tendrá por comprobado con la inspección y descripción del cadáver, hecha en los términos de los dos artículos anteriores y con el dictamen de los peritos médicos, quienes practicarán la necrocirugía y expresarán con minuciosidad el estado que guarde el cadáver y las causas que originaron la muerte. Si hubiere sido sepultado se procederá a exhumarlo, para los efectos expresados.
 
-Solamente podrá dejarse de practicar la autopsia cuando tanto el tribunal como los peritos estimen que no es necesaria.
+Solamente podrá dejarse de practicar la necrocirugía cuando tanto el tribunal como los peritos estimen que no es necesario.
+
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 168.
 
-Cuando el cadáver no se encuentre, o por otro motivo no se haga la autopsia, bastará que los peritos, con vista de los datos que obren en el expediente, declaren que la muerte fue resultado de las lesiones inferidas.
+Cuando el cadáver no se encuentre, o por otro motivo no se haga la necrocirugía, bastará que los peritos, con vista de los datos que obren en los expedientes, declaren que la muerte fue resultado de las lesiones inferidas.
 
 ###### ARTICULO 169.
 
@@ -1261,9 +1293,11 @@ III.- Si la persona ofendida se hallaba en situación de poseer la cosa materia 
 
 Si de la comprobación de todas estas circunstancias así como de los antecedentes morales, sociales y pecuniarios, tanto de la víctima como del inculpado, resultan indicios suficiente, a juicio del tribunal, para tener por comprobada la existencia del robo, esto será bastante para considerar comprobado el cuerpo del delito.
 
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 172.
 
-El cuerpo de los delitos de peculado, abuso de confianza y fraude, si no hubiere sido posible comprobarlo en los términos del artículo 164, podrá tenerse por comprobado en la forma que establece la fracción I del artículo 170.
+Si no hubiere sido posible comprobar el cuerpo de los delitos de abuso de autoridad o incumplimiento de deber legal, peculado, abuso de confianza y fraude, en los términos del artículo 164, podrá tenerse por acreditado en la forma que establece la fracción I del artículo 171.
 
 > <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
@@ -1305,11 +1339,13 @@ Si a pesar de haberse tomado las providencias que señala este artículo, no se 
 
 Los vestidos se describirán minuciosamente en el expediente y se conservarán en depósito seguro, para que puedan ser presentados a los testigos de identidad.
 
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 178.
 
-Los cadáveres, previa una minuciosa inspección y descripción hecha por el funcionario de policía judicial que practique las primeras diligencias y por un perito médico, podrán ser entregados por el Ministerio Público a quienes los reclamen, debiendo manifestar éstos el lugar en que los cadáveres quedarán depositados a disposición de la autoridad competente y conducirlos al lugar destinado a la práctica de la autopsia, cuando proceda.
+Los cadáveres, previa una minuciosa inspección y descripción hecha por el funcionario que practique las primeras diligencias y por un perito médico, podrán ser entregados por el Ministerio Público a quienes los reclamen, debiendo manifestar éstos el lugar en que los cadáveres quedarán depositados a disposición de la autoridad competente y conducirlos al lugar destinado a la práctica de la necrocirugía, cuando proceda.
 
-Si hubiere temor de que el cadáver pueda ser ocultado, o de que sufra alteraciones, no será entregado en tanto no se practique la autopsia o se resuelva que ésta no es necesaria.
+Si hubiere temor de que el cadáver pueda ser ocultado, o de que sufra alteraciones, no será entregado en tanto no se practique la necrocirugía, o se resuelva que ésta no es necesaria.
 
 ###### ARTICULO 179.
 
@@ -1549,9 +1585,11 @@ Si a pesar de haber sido apremiado el perito no cumple con las obligaciones impu
 
 Cuando el lesionado se encontrare en algún hospital público, los médicos oficiales se tendrán por nombrados como peritos, sin perjuicio de que el funcionario que practique las diligencias nombre, además, otros, si lo creyere conveniente, para que dictaminen y hagan la clasificación legal.
 
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 221.
 
-La autopsia de los cadáveres de personas que hayan fallecido en un hospital público, la practicarán los médicos oficiales; sin perjuicio de la facultad que concede la parte final del artículo anterior.
+La necrocirugía de los cadáveres de personas que hayan fallecido en un hospital público, la practicarán los médicos oficiales; sin perjuicio de la facultad que concede al Ministerio Público o al juez la parte final del artículo anterior.
 
 ###### ARTICULO 222.
 
@@ -3018,3 +3056,9 @@ G.O. 9 DE ENERO DE 2001.
 Artículo primero. La presente ley entrará en vigor a los diez días siguientes a su publicación en la Gaceta Oficial del estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a la presente ley.
+
+G.O. 20 DE NOVIEMBRE DE 2001.
+
+Artículo primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
