@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-6681
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "2001-02-14"
+last_updated: "2002-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1995.
 
@@ -251,6 +251,8 @@ Sólo el Gobernador del Estado y los Presidentes Municipales, en sus respectivos
 
 ### CAPITULO CUARTO. DEL EJERCICIO DEL GASTO PUBLICO
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 23.
 
 Las proposiciones que hagan los miembros del Congreso del Estado para modificar el proyecto de Presupuesto de Egresos presentado por el Ejecutivo del Estado, incluyendo las Entidades Paraestatales, serán sometidas desde luego a la Comisión respectiva para su estudio y dictamen.
@@ -261,19 +263,21 @@ Al aprobarse el Presupuesto de Egresos por el Congreso del Estado o por los Cabi
 
 ###### ARTICULO 25.
 
-Corresponde a la Secretaría de Hacienda y a las Tesorerías Municipales el seguimiento, evaluación y control de los Presupuestos de Egresos del Estado y de los Municipios respectivamente.
+Las Dependencias Administrativas de los Poderes del Estado, en su esfera de competencia, los Organismos del Estado y las Tesorerías Municipales asumirán el seguimiento, evaluación y control de los Presupuestos de Egresos del Estado y de los Municipios respectivamente.
 
-En el ámbito de sus respectivas competencias, serán las encargadas de recaudar los ingresos de las dependencias, y efectuar los pagos que requieran éstas para hacer frente al ejercicio del Gasto Público, sin perjuicio de que puedan autorizar a otras depedencias (sic) o entidades a hacerlo, que en todo caso se sujetarán estrictamente a lo que dispone esta Ley.
+En el ámbito de sus respectivas competencias, serán las encargadas de efectuar los pagos que requieran éstas para hacer frente al ejercicio del Gasto Público, sin perjuicio de que puedan autorizar a otra de sus dependencias o entidades a hacerlo, que en todo caso se sujetarán estrictamente a lo que dispone esta Ley.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 26.
 
-El ejercicio del Gasto Público comprende el manejo y aplicación de los recursos así como su justificación, comprobación y pago, con base en el Presupuesto de Egresos aprobado, para lo cual, la Secretaría de Hacienda y las Tesorerías Municipales llevarán el registro de los compromisos establecidos y del control presupuestal.
+El ejercicio del Gasto Público comprende el manejo y aplicación de los recursos así como su justificación, comprobación y pago, con base en el Presupuesto de Egresos aprobado, para lo cual, las Dependencias Administrativas de los Poderes del Estado, en su esfera de competencia, los Organismos del Estado y las Tesorerías Municipales llevarán el registro de los compromisos establecidos y del control presupuestal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 27.
 
-La comprobación del gasto público se efectuará con la documentación original que demuestre la entrega del pago correspondiente que reúna los requisitos que establezcan la Secretaría de Hacienda y las Tesorerías Municipales en el ámbito de su competencia, en coadyuvancia con la Contaduría Mayor de Hacienda del Congreso del Estado.
+La comprobación del Gasto Público se efectuará con la documentación original que demuestre la entrega del pago correspondiente, que reúna los requisitos que reglamenten: la Secretaría de Hacienda en el Poder Ejecutivo; la comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado en el Poder Legislativo; el Consejo de la Judicatura en el Poder Judicial; el órgano de gobierno en los Organismos del Estado y las Tesorerías Municipales en los Ayuntamientos.
 
 Una erogación se entenderá justificada, cuando exista la evidencia de haber sido tramitada ante las instancias facultadas para dotar de los recursos humanos, materiales o financieros y exista la documentación que determine el compromiso u obligación de efectuar el pago por parte de la dependencia o entidad de que se trate.
 
@@ -289,11 +293,13 @@ Las inversiones físicas en obra Pública que realicen las entidades se apegará
 
 La deuda pública a amortizar, deberá cumplir previamente con lo establecido en la Ley de Deuda Pública del Estado.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO QUINTO. DE LA CONTABILIDAD
 
 ###### ARTICULO 31.
 
-Toda erogación o Gasto Público deberá contar con saldo suficiente en la partida del Presupuesto de Egresos respectivo, y se sujetará a las reglas que determine la Secretaría de Hacienda y las Tesorerías Municipales, en su caso.
+Toda erogación o Gasto Público deberá contar con saldo suficiente en la partida del Presupuesto de Egresos respectivo, y se sujetará a las reglas que determinen, en su caso, la Secretaría de Hacienda en el Poder Ejecutivo; la comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado en el Poder Legislativo; el Consejo de la Judicatura en el Poder Judicial; el órgano de gobierno en los Organismos del Estado y las Tesorerías Municipales en los Ayuntamientos.
 
 ###### ARTICULO 32.
 
@@ -494,3 +500,17 @@ P.O. 14 DE FEBRERO DE 2001.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos señalados en los Artículos.- 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+P.O. 25 DE DICIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente decreto al titular del Poder Ejecutivo para los efectos Constitucionales a que haya lugar.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto iniciará su vigencia a partir del día siguiente en que se publique en el Periódico Oficial "Tierra y Libertad".
+
+###### ARTÍCULO TERCERO.
+
+En tanto la Secretaría de Hacienda en el Poder Ejecutivo; la comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado en el Poder Legislativo; el Consejo de la Judicatura en el Poder Judicial; el Órgano de Gobierno en los Organismos del Estado y las Tesorerías Municipales en los Ayuntamientos, no aprueben y den a conocer las reglas para la comprobación del Gasto Público que ejercen, a que se refiere el párrafo primero del Artículo Veintisiete de la presente Ley, la fiscalización que efectúe el Congreso a través del Órgano Técnico de Revisión, se efectuará con los criterios que para el efecto adopte la Contaduría Mayor de Hacienda.
