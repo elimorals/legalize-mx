@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-comite-de-construccion-de-espacios-1438
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-12-04"
-last_updated: "1997-12-04"
+last_updated: "1999-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL COMITE DE CONSTRUCCION DE ESPACIOS EDUCATIVOS DEL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE JUNIO DE 1999.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 4 de diciembre de 1997.
 
@@ -37,21 +37,25 @@ REGLAMENTO INTERIOR DEL COMITÉ DE CONSTRUCCIÓN DE ESPACIOS EDUCATIVOS DEL ESTA
 
 El Comité de Construcción de Espacios Educativos del Estado de Veracruz-Llave tiene a su cargo el despacho de los asuntos que expresamente le encomiendan el Decreto de su creación, así como las otras leyes, reglamentos, decretos y acuerdos del Gobernador de la Entidad.
 
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 1999)</small>
+
 ###### Artículo 2o.
 
-Para el cumplimiento de sus funciones el Comité contará con las áreas siguientes:
+Para el cumplimiento de sus funciones, el Comité contará con las siguientes áreas:
 
-l. Dirección
+l. Dirección;
 
-ll. Contraloría Interna
+ll. Contraloría Interna;
 
-Ill. Subdirección de Proyectos
+Ill. Subdirección de Proyectos;
 
-IV. Subdirección de Construcción
+IV. Subdirección Técnica;
 
-V. Subdirección Administrativa
+V. Subdirección de Construcción;
 
-VI. Departamento de Asuntos Jurídicos
+VI. Subdirección Administrativa;
+
+VII. Departamento de Asuntos Jurídicos
 
 Las cuales contarán con el personal necesario para el debido cumplimiento de sus atribuciones.
 
@@ -111,35 +115,49 @@ X. Las demás que le señalan las disposiciones normativas aplicables y en gener
 
 ### CAPÍTULO IV. De la Subdirección de Proyectos
 
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 1999)</small>
+
 ###### Artículo 7o.
 
 Son atribuciones de la Subdirección de Proyectos:
 
-I. Planear, elaborar y evaluar los programas de Construcción de Espacios Educativos que desarrolle el Comité.
+I. Realizar los proyectos de diseño para la construcción de espacios educativos en todas sus modalidades;
 
-II. Realizar los proyectos de diseño para la construcción de espacios educativos en todas sus modalidades.
+II. Coordinar la elaboración de los proyectos arquitectónicos de instalaciones y estructuras de obras que realice el comité;
 
-III. Coordinar la elaboración de los proyectos arquitectónicos de instalaciones y estructuras de obras que realice el Comité.
+III. Proporcinar las normas técnicas para integrar las bases de los concursos para la adjudicación de los contratos de obra;
 
-IV. Expedir las bases técnicas de los concursos para la adjudicación de los contratos y vigilar el cumplimiento de los mismos de acuerdo a la ley.
+IV. Realizar el diseño de los elementos prefabricados y el mobiliario necesario para la construcción y equipamiento de los planteles escolares;
 
-V. Coordinar las contrataciones de acuerdo a la modalidad y con apego a la ley.
+V. Establecer las normas y especificaciones arquitectónicas y de ingeniería aplicables al proyecto de planteles escolares;
 
-VI. Realizar el diseño de los elementos prefabricados y del mobiliario necesario para la construcción y equipamiento de los planteles escolares.
+VI. Establecer las normas técnicas para los proyectos previos a la construcción que realicen particulares o ayuntamientos;
 
-VII. Mantener actualizada la información sobre los costos de insumos, de mano de obra y de equipo y materiales en las diferentes zonas del Estado, en coordinación con la Subdirección de Construcción.
+VII. Elaborar y compilar los paquetes de planos para la adjudicación, contratación y construcción de espacios educativos;
 
-VIII. Establecer las normas y especificaciones arquitectónicas y de ingeniería aplicables al proyecto de planteles escolares.
+VIIII. Autorizar las adecuaciones y requerimientos a los proyectos ejecutivos atípicos;
 
-IX. Establecer las normas técnicas para los proyectos previos a la construcción que realicen particulares o ayuntamientos.
+IX. Las demás que le otorgue el director.
 
-X. Elaborar y compilar los paquetes de planos y catálogos de conceptos para la adjudicación, contratación y construcción de espacios educativos.
+> <small>(ADICIONADO, G.O. 1 DE JUNIO DE 1999)</small>
 
-XI. Servir de enlace con el Departamento de Programación y Presupuesto de la Unidad de Planeación y Evaluación de la Secretaría de Educación y Cultura, con el fin de integrar el presupuesto anual de obras por programas.
+###### Artículo 7o Bis.
 
-XII. Autorizar las adecuaciones y requerimientos a los proyectos ejecutivos atípicos.
+Son atribuciones de la Subdirección Técnica:
 
-XIII. Las demás que le otorgue el Director.
+I. Planear, elaborar y evaluar los programas de construcción de espacios educativos que desarrolle el Comité;
+
+II. Coordinar las contrataciones de obra pública y de mobiliario y equipo de acuerdo a la modalidad de adjudicación y con apego a la ley;
+
+IlI. Mantener actualizada la información sobre costos de insumas, de mano de obra y de equipo y materiales en las diferentes .zonas del estado, en coordinación con la subdirección de construcción;
+
+IV. Servir de enlace con el Departamento de Programación y Presupuesto de la Unidad de Planeación y Evaluación de la Secretaría de Educación y Cultura, con el fin de integrar el presupuesto anual 'de obras por programas;
+
+V. Expedir las bases técnicas de los concursos para la adjudicación de los contratos para la adquisición de mobiliario y equipo para los espacios educativos, y vigilar el cumplimiento de los mismos de acuerdo a la ley;
+
+VI. Expedir las bases técnicas de los concursos para la adjudicación de los contratos de obra pública de los espacios educativos que desarrolla el comité;
+
+VII. Las demás que le señale el director.
 
 ### CAPÍTULO V. De la Subdirección de Construcción
 
@@ -244,3 +262,9 @@ TRANSITORIOS (SIC)
 Único. En tanto se expide el Manual de Organización el Director del Comité queda facultado para resolver las cuestiones que dicho Manual debe regular.
 
 Dado en la ciudad de Xalapa-Enríquez, Veracruz, a los 9 días del mes de Julio de mil novecientos noventa y siete.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 1 DE JUNIO DE 1999.
+
+Único. El presente acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
