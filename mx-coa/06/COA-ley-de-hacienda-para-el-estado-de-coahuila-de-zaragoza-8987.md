@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "1999-06-29"
+last_updated: "1999-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -353,107 +353,31 @@ II.- Las erogaciones que efectúen:
 
 OBJETO
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 31.
 
-Es objeto de este impuesto, la tenencia o uso de vehículos a que se refiere este Capítulo.
+Es objeto de este impuesto, la tenencia o uso de vehículos automotores modelo de más de diez años de fabricación anteriores al ejercicio fiscal en curso, a que se refiere el artículo 5o., fracción V de la Ley del Impuesto Sobre Tenencia o Uso de Vehículos en materia federal, así como de todo tipo de remolques cualquiera que sea su modelo.
 
 SUJETO
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 32.
 
-Están obligados al pago de este impuesto, las personas físicas o morales, tenedoras o usuarias de los vehículos a que se refiere este Capítulo.
+Están obligados al pago del impuesto establecido en este artículo, las personas físicas o morales, tenedoras o usuarias de los vehículos a que se refiere el artículo anterior.
 
-Para los efectos de este impuesto, se presume que el propietario es tenedor o usuario del vehículo y que el año modelo del vehículo, es el de fabricación o ejercicio automotriz, en su caso.
+Para los efectos de este impuesto, se presume que el propietario es tenedor o usuario del vehículo y que el año modelo del vehículo, es el de fabricación.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 33.
 
-Para efectos de este impuesto, se entiende por:
-
-1.- Vehículo nuevo:
-
-a).- El que se enajena por primera vez al consumidor por el fabricante, ensamblador o distribuidor.
-
-b).- El importado definitivamente al país que corresponda al año modelo posterior al del ejercicio fiscal en curso, al año modelo en que se efectúe la importación, o a los diez años modelos inmediatos anteriores al año de la importación definitiva; y
-
-II.- Valor total del vehículo, el precio de enajenación del fabricante, ensamblador o distribuidor al consumidor, incluyendo el equipo opcional común o de lujo, el impuesto al valor agregado y las demás contribuciones que se deban cubrir por la enajenación o importación, sin disminuir el monto de descuentos, rebajas o bonificaciones.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 34.
-
-Para los efectos de este impuesto se considera como:
-
-I.- Marca, las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás;
-
-II.- Año modelo, el año de fabricación o ejercicio automotriz en su caso, comprendido por el período entre el 1 de octubre del año anterior y el 30 de septiembre del año que transcurra;
-
-III.- Modelo, todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos;
-
-IV.- Versión, cada una de las distintas presentaciones comerciales que tiene un modelo; y
-
-V.- Línea:
-
-a).- Automóviles con motor de gasolina o gas hasta de 4 cilindros;
-
-b).- Automóviles con motor de gasolina o gas de 6 u 8 cilindros;
-
-c).- Automóviles con motor diesel;
-
-d).- Camiones con motor de gasolina, gas o diesel;
-
-e).- Tractores no agrícolas tipo quinta rueda;
-
-f).- Autobuses integrales;
-
-g).- Ómnibuses, microbuses, minibuses; y
-
-h).- Automóviles eléctricos.
-
-PAGO
-
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 35.
-
-La Federación, el Estado y sus Municipios, los organismos descentralizados o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que se señalan, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 36.
-
-El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, mediante declaración, que deberá presentarse dentro de los tres primeros meses de cada año en las formas aprobadas por la Secretaría de Finanzas, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse a más tardar dentro de los quince días siguientes a aquél en que se adquirió o importó el vehículo. Se considerará que la adquisición se realiza en el momento en que se entregue el bien al adquirente.
-
-Los contribuyentes de este impuesto no están obligados a presentar por dicha contribución, la solicitud de inscripción ni los avisos del registro federal de contribuyentes. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
-
-Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto a más tardar dentro de los quince días siguientes a la fecha en que se asigne.
-
-En la enajenación o importación de vehículos nuevos de año modelo posterior al año de calendario en curso, se pagará el impuesto correspondiente al año de calendario en que se enajene.
-
-En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto se pagará como si éste fuese nuevo.
-
-Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer trimestre del año de calendario, el impuesto causado por dicho año se pagará en las siguientes proporciones:
-
-I.- El 75% cuando la enajenación o importación se efectúa dentro del segundo trimestre del año;
-
-II.- El 50%, cuando la enajenación o importación se efectúa dentro del tercer trimestre del año; y
-
-III.- El 25%, cuando la enajenación o importación se efectúa dentro del cuarto trimestre del año.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 37.
-
 Las autoridades competentes no autorizarán registros de vehículos, matrículas, altas o bajas, cambio de placas o efectuarán la renovación de los mismos, si el tenedor o usuario del vehículo no comprueba el pago del impuesto o, en su caso, acredita que se encuentra liberado de esta obligación.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
-###### ARTICULO 38.
+###### ARTICULO 34.
 
 Son responsables solidarios del pago del Impuesto:
 
@@ -467,275 +391,131 @@ IV.- Los funcionarios o empleados públicos que en ejercicio de sus funciones, a
 
 Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 35.
+
+Son responsables solidarios del pago del Impuesto:
+
+I.- Quienes por cualquier título adquieran la propiedad, tenencia o uso de los vehículos gravados por este impuesto;
+
+II.- Quienes reciban en consignación o comisión para su enajenación, los vehículos a que se refiere este artículo; y
+
+III.- Los funcionarios o empleados públicos que en ejercicio de sus funciones, autoricen la expedición de placas, tarjeta de circulación o calcomanía, sin cerciorarse del pago del impuesto.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 36.
+
+El Impuesto Sobre Tenencia o Uso de Vehículos, se pagará conforme a las siguientes:
+
+TARIFAS
+
+TARIFA
+
+I.- Motocicletas $47.00
+
+II.- Automóviles y Camionetas $117.00
+
+III.- Minibuses, microbuses,
+
+camiones de carga,
+
+autobuses integrales
+
+y ómnibuses $141.00 y
+
+IV.- Remolques $95.00
+
+Para el caso de vehículos automotores modelo de más de 15 años de fabricación anteriores al ejercicio fiscal en curso, pagarán la tarifa que les corresponda reducida en un 50%.
+
+PAGO
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 37.
+
+El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, dentro de los tres primeros meses de cada año, en el mismo recibo con el que se paguen las contribuciones de control vehicular.
+
+###### ARTICULO 38.
+
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 39.
 
-La determinación del impuesto a pagar se realizará conforme a lo dispuesto en las Secciones de este Capítulo que conforme a las características de cada vehículo le sea aplicable.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION PRIMERA. PARA LOS AUTOMOVILES NUEVOS Y DE LOS USADOS HASTA DE DIEZ AÑOS DE FABRICACION ANTERIORES AL DEL EJERCICIO FISCAL EN CURSO
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 40.
 
-Tratándose de automóviles, ómnibuses, autobuses integrales, minibuses, microbuses, camiones y tractores no agrícolas tipo quinta rueda, nuevos, el impuesto se calculará como a continuación se indica:
-
-I.- En el caso de vehículos nuevos, destinados al transporte hasta de diez pasajeros, el impuesto será la cantidad que resulte de aplicar el valor total del vehículo, la tasa que corresponda conforme a la siguiente:
-
-TABLA
-
-Categoría Valor Total en Miles de pesos Tasa
-
-"A" Hasta de 281 2.6%
-
-"B" De más de 281 a 620 6.5%
-
-"C" De más de 620 a 1,000 8.5%
-
-"D" De más de 1,000 en adelante 10.4%
-
-Los montos de las cantidades establecidas en la tabla a que se refiere esta fracción, se actualizarán en los meses de enero y julio con el factor correspondiente al período comprendido desde el séptimo mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. La Secretaría de Finanzas publicará el factor de actualización en el Periódico Oficial del Gobierno del Estado, dentro de los primeros días de enero, mayo y septiembre de cada año; y
-
-II.- Para vehículos nuevos destinados al transporte de más de 10 pasajeros o efectos cuyo peso vehicular sea menor a 15 toneladas, el impuesto será la cantidad que resulte de aplicar el 0.49% al valor total del vehículo. Cuando el peso vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 1% al valor total del vehículo, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
-
-Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabinas, carrocería, equipo y carga útil transportable.
-
-Para los efectos de este artículo, se entiende por automóviles destinados a transporte de más de 10 pasajeros o para el transporte de efectos, los camiones, vehículos Pick up sin importar el peso vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo, peso y capacidad de carga.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 41.
 
-Tratándose de automóviles eléctricos nuevos, el impuesto será la cantidad que resulte de multiplicar el valor total del automóvil por 0.16%.
-
-Para los efectos de este artículo, el impuesto para automóviles eléctricos únicamente será aplicable a aquellas unidades que para su circulación requieran de placas y tarjeta de circulación.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 42.
 
-Para los efectos de esta Sección, no se pagará el impuesto por la tenencia o uso de los siguientes vehículos:
-
-I.- Los eléctricos utilizados para el transporte público de personas;
-
-II.- Los importados temporalmente en los términos de la legislación aduanera;
-
-III.- Los que sean de propiedad de inmigrantes o inmigrados, rentistas;
-
-IV.- Los vehículos de la Federación, del Estado y sus Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos;
-
-V.- Los automóviles, que estén exclusivamente al servicio de misiones diplomáticas y consulares de carrera extranjeras y de sus funcionarios debidamente acreditados ante nuestro país, excepto los cónsules generales honorarios y cónsules y vicecónsules honorarios; y
-
-VI.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
-
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los quince días siguientes a aquél en que tenga lugar el hecho de que se trate.
-
-Los tenedores o usuarios de los vehículos a que se refieren las fracciones II, III y IV de este artículo, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas del Gobierno del Estado que se encuentran comprendidos en dichos supuestos.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 43.
 
-Tratándose de vehículos usados de fabricación nacional o importados, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor de ajuste. Dicho factor será el que resulte de multiplicar el factor de actualización por el factor que le corresponda conforme a los años de antigüedad del vehículo, de acuerdo a la siguiente:
-
-TABLA
-
-Años de antigüedad Factor
-
-1 0.900
-
-2 0.889
-
-3 0.875
-
-4 0.857
-
-5 0.833
-
-6 0.800
-
-7 0.750
-
-8 0.667
-
-9 0.500
-
-El factor de actualización a que se refiere este artículo, será el que se obtenga conforme al artículo 3 de esta ley.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 44.
 
-Los fabricantes y distribuidores autorizados, así como las empresas comerciales que cuenten con registro ante la Secretaría de Comercio y Fomento Industrial como empresa comercial para importar autos usados, tendrán la obligación de proporcionar a la Secretaría de Finanzas, a más tardar el día diecisiete de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en el mes inmediato anterior, a través de dispositivos electromagnéticos procesados en los términos que señale dicha Secretaría mediante disposiciones de carácter general. Los que tengan más de un establecimiento, deberán presentar la información a que se refiere esta fracción, haciendo la separación por cada uno de los establecimientos.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION SEGUNDA. PARA LOS VEHICULOS DE MAS DE 10 AÑOS DE FABRICACION ANTERIORES AL DEL EJERCICIO FISCAL EN CURSO
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 45.
 
-Para los vehículos de más diez años de fabricación anteriores al ejercicio fiscal en curso, el impuesto se pagará conforme a la siguiente:
-
-TARIFA
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
-
-I.- Motocicletas $35.00
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
-
-II.- Automóviles y Camionetas $88.00
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
-
-III.- Minibuses, microbuses, camiones
-
-de carga, autobuses integrales y
-
-ómnibuses $106.00 y
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
-
-IV.- Remolques $71.00
-
-Para el caso de vehículos modelo de más de 15 años de fabricación anteriores al ejercicio fiscal en curso, pagarán la tarifa que les corresponda conforme a este artículo reducida en un 50%.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 46.
 
-Los montos de las tarifas a que se refiere el artículo anterior, se actualizarán en el mes de enero de cada año aplicando el factor que corresponda conforme al artículo 3 de esta ley.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION TERCERA. PARA OTROS VEHICULOS
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 47.
 
-Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso de la aeronave adicionado con la carga máxima de despegue a nivel del mar, expresado en toneladas, por la cantidad de $7,313.00, para aeronaves de pistón y por la cantidad de $7,877.00 para aeronaves de reacción.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 48.
 
-Tratándose de embarcaciones nuevas el impuesto se calculará conforme a lo siguiente:
-
-I.- Veleros.
-
-a).- A la longitud de eslora expresada en metros se le restarán cuatro metros; el resultado se multiplicará por sí mismo.
-
-b).- La cantidad obtenida conforme al inciso anterior se multiplicará por la cantidad de $230.00, el producto será el impuesto a pagar;
-
-II.- Esquí acuático motorizado, motocicletas acuáticas y tablas de oleaje con motor, el impuesto será la cantidad de $520.00; y
-
-III.- Embarcaciones distintas a las anteriores.
-
-a).- La cantidad que se obtenga de restar en 0.2 el factor que corresponda. El resultado se multiplicará por sí mismo. El factor a que se refiere este inciso, se calculará multiplicando la longitud de la eslora en metros, por el cociente obtenido de dividir los caballos de fuerza entre mil.
-
-b).- La cantidad obtenida conforme al inciso anterior se multiplicará por la cantidad de $1,039.00, el producto será el impuesto a pagar.
-
-Tratándose de las embarcaciones a que se refieren las fracciones I y III de este artículo, el impuesto que resulte no podrá ser inferior a $66.00, ni superior a $66,000.00, salvo que tratándose de la fracción III, el factor sea igual o mayor a 0.2.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 49.
 
-Tratándose de motocicletas nuevas, el impuesto se calculará conforme a lo siguiente:
-
-I.- La cantidad que se obtenga de dividir la cilindrada en centímetros cúbicos entre mil y el cociente obtenido se multiplicará por sí mismo; y
-
-II.- La cantidad obtenida conforme a la fracción anterior se multiplicará por la cantidad de $1,806.00, el producto será el impuesto a pagar.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 50.
 
-Tratándose de los vehículos a que se refieren los artículos 47 y 48 de más de diez años de fabricación anteriores al del ejercicio fiscal en curso, el impuesto se pagará conforme a la siguiente:
-
-TARIFA
-
-TIPO DE VEHICULOS CUOTA
-
-Aeronaves:
-
-Hélice $ 448.00
-
-Turbohélice 2,480.00
-
-Reacción 3,583.00
-
-Helicópteros 551.00
-
-Veleros 69.00
-
-Embarcaciones:
-
-Con factor fiscal de hasta 0.5000 14.00
-
-De 0.5001 a 1.0000 42.00
-
-De 1.0001 a 2.0000 84.00
-
-De 2.0001 a 3.0000 123.00
-
-De 3.0001 a 5.0000 165.00
-
-De 5.0001 a 10.0000 276.00
-
-De 10.0001 a 20.0000 414.00
-
-De 20.0001 a 30.0000 827.00
-
-De 30.0001 a 40.0000 1,241.00
-
-De 40.0001 a 60.0000 1,653.00
-
-De 60.0001 a 100.0000 2,204.00
-
-De 100.0001 en adelante 3,032.00
-
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 51.
 
-Para los efectos de lo dispuesto en esta Sección, las cantidades que se señalan se actualizarán en el mes de enero de cada año aplicando el factor que corresponda conforme al artículo 3 de esta ley.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 52.
 
-Tratándose de vehículos usados de fabricación nacional o importados, el impuesto se calculará conforme a lo dispuesto por el artículo 43 de esta ley.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 53.
 
-Para los efectos de esta Sección, no se pagará el impuesto por el uso o la tenencia de los siguientes vehículos:
-
-I.- Los importados temporalmente en los términos de la ley Aduanera, salvo las aeronaves y embarcaciones que presten servicios turísticos con fines comerciales, conforme se establece en dicha ley;
-
-II.- Los vehículos de la Federación, del Estado y Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, y las ambulancias dependientes de cualquiera de estas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos;
-
-III.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, distribuidores y los comerciantes del ramo de vehículos;
-
-IV.- Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga; y
-
-V.- Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransporte al público en general.
-
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los quince días siguientes a aquél en que tenga lugar el hecho de que se trate.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 54.
 
-Las autoridades competentes para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, se abstendrán de expedirlos cuando el usuario o tenedor del vehículo no compruebe el pago de este impuesto, a excepción de los casos en que se encuentre liberado de ese pago. De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de las autoridades fiscales del Estado.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ### CAPITULO QUINTO. IMPUESTO POR SERVICIOS DE HOSPEDAJE
 
@@ -749,7 +529,9 @@ Es objeto de este impuesto, la prestación de servicios de hospedaje, campamento
 
 Se consideran servicios de hospedaje, el acto por el cual se concede a una persona el uso, goce y demás derechos que se adquieran sobre un bien o parte del mismo, otorgados en establecimientos de hospedaje durante un período determinado.
 
-Para los efectos de este artículo, se consideran establecimientos de hospedaje los hoteles, moteles, albergues, habitaciones con sistema de tiempo compartido o de operación hotelera, suites, villas o bungalows, ex-haciendas y construcciones en las que se proporcione el servicio de alojamiento, complejos turísticos y demás establecimientos de naturaleza análoga.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Para los efectos de este artículo, se consideran establecimientos de hospedaje los hoteles, moteles, albergues, habitaciones con sistema de tiempo compartido o de operación hotelera, suites, villas o bungalows, ex-haciendas y construcciones en las que se proporcione el servicio de alojamiento.
 
 SUJETO
 
@@ -791,163 +573,65 @@ Se entenderá por traslado del impuesto el cobro o cargo que los contribuyentes 
 
 El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, mediante declaración mensual que deberá presentarse dentro de los primeros diecisiete días naturales del mes siguiente a aquél en que se obtengan los ingresos por los servicios gravados por este impuesto, en las formas aprobadas por la Secretaría de Finanzas.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO SEXTO. DEL IMPUESTO SOBRE AUTOMOVILES NUEVOS
 
 OBJETO
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 61.
 
-Es objeto de este impuesto, la enajenación de automóviles nuevos de producción nacional y la importación definitiva de los automóviles que se indican.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 SUJETO
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 62.
 
-Están obligados al pago de este impuesto, las personas físicas y las morales que realicen los actos siguientes:
-
-I.- Enajenen automóviles nuevos de producción nacional. Se entiende por automóvil nuevo el que se enajena por primera vez al consumidor por el fabricante, ensamblador o por el distribuidor autorizado; y
-
-II.- Importen en definitiva al país automóviles. Los automóviles a que se refiere esta fracción son los que corresponden al año modelo posterior al ejercicio fiscal en curso, al año modelo en que se efectúe la importación, o a los 10 años modelo inmediato anteriores.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 BASE
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 63.
 
-El impuesto para automóviles nuevos se calculará aplicando la tarifa establecida en este Capítulo, al precio de enajenación del automóvil al consumidor por el fabricante, ensamblador o sus distribuidores autorizados, incluyendo el equipo opcional común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones. No formará parte de dicho precio el impuesto al valor agregado que se cause por tal enajenación.
-
-En el caso de automóviles de importación definitiva, incluyendo los destinados a permanecer definitivamente en la franja fronteriza al norte del Estado, el impuesto se calculará aplicando la tarifa establecida en este Capítulo, al precio de enajenación a que se refiere el párrafo anterior, adicionado con el impuesto general de importación y con el monto de las contribuciones que se tengan que pagar con motivo de la importación, a excepción del impuesto al valor agregado.
-
-El valor a que se refiere el párrafo anterior, se aplicará aún en el caso de que por el automóvil de que se trate no se deba pagar el citado impuesto general de importación.
-
-Tratándose de automóviles por cuya importación se pague el impuesto general de importación a una tasa menor a la general vigente, el impuesto a que se refiere este Capítulo, será el que se determine conforme a lo previsto en el segundo párrafo de este artículo, considerando el impuesto general de importación que se hubiere tenido que pagar de haberse aplicado la tasa general referida.
-
-En el caso de vehículos a que se refiere la fracción II del artículo 64, de esta ley, el impuesto se calculará aplicando la tasa señalada en esa fracción al precio de enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o importador.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 64.
 
-Para los efectos del artículo anterior, se estará a lo siguiente:
-
-I.- Tratándose de automóviles y camiones con capacidad hasta de diez pasajeros, al precio de enajenación del automóvil de que se trate, se le aplicará la siguiente:
-
-TARIFA
-
-LIMITE LIMITE CUOTA POR CIENTO
-
-INFERIOR SUPERIOR FIJA PARA APLICARSE
-
-LIMITE SOBRE EL
-
-$ $ $ EXCEDENTE
-
-DEL INFERIOR
-
-%
-
-0.01 75,098.87 0.00 2
-
-75,098.88 90,118.61 1,501.96 5
-
-90,118.62 105,138.43 2,252.97 10
-
-105,138.44 135,177.89 3,754.94 15
-
-135,177.90 EN 8,260.86 17
-
-ADELANTE
-
-Si el precio del automóvil es superior a $207,373.49, se reducirá del monto del impuesto determinado, la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y $207,373.49.
-
-Las cantidades que correspondan a cada uno de los tramos de la tarifa de este artículo, así como las contenidas en el párrafo que antecede, se actualizarán en los meses de enero, mayo y septiembre de cada año, con el factor de actualización correspondiente al período comprendido desde el quinto mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. La Secretaría de Finanzas publicará el factor de actualización en el Periódico Oficial del Gobierno del Estado dentro de los primeros días de enero, mayo y septiembre de cada año; y
-
-II.- Tratándose de camiones con capacidad de carga hasta de 3,100 kilogramos, incluyendo los tipos panel con capacidad máxima de tres pasajeros, y remolques y semi-remolques tipo vivienda al precio de enajenación del vehículo de que se trate se le aplicará la tasa del 5%.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 PAGO
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 65.
 
-El impuesto se calculará por ejercicios fiscales. Los contribuyentes efectuarán pagos provisionales a más tardar dentro de los diecisiete días naturales de cada uno de los meses del ejercicio, mediante declaración que presentarán en las oficinas autorizadas, respecto de las enajenaciones realizadas en el mes inmediato anterior.
-
-El impuesto del ejercicio, deducidos los pagos provisionales se pagará mediante declaración que se presentará ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del mismo ejercicio.
-
-Si un contribuyente tuviera uno o varios establecimientos ubicados en el Estado, deberá presentar declaración mensual de pago provisional y declaración del ejercicio, por las operaciones que correspondan a cada establecimiento, las cuales se podrán presentar en las oficinas o establecimientos autorizados por la Secretaría de Finanzas. Asimismo, la oficina matriz o principal deberá presentar su declaración de pago provisional y declaración del ejercicio, por las operaciones que realice en la entidad cuando tenga su domicilio en ésta.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 66.
 
-Para los efectos de este Impuesto, se entiende por:
-
-a).- Automóviles, los de transporte hasta de diez pasajeros, los camiones con capacidad de carga hasta de 3,100 kilogramos incluyendo los de tipo panel, así como los remolques y semi-remolques tipo vivienda.
-
-b).- Franja fronteriza norte del país, a la comprendida entre la línea divisoria internacional con los Estados Unidos de América y la línea paralela a una distancia de 20 kilómetros hacia el interior del Estado.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 67.
 
-Se entiende por enajenación, además de lo señalado en el Código Fiscal para el Estado, la incorporación del vehículo al activo fijo de las empresas fabricantes, ensambladores o importadoras de automóviles e inclusive al de los distribuidores autorizados, o los que tengan para su venta por más de un año, excepto cuando se trate de automóviles por los que ya se hubiera pagado el impuesto. En estos casos, el impuesto se calculará en los términos del artículo 63 de esta ley, según proceda.
-
-Se entiende que los vehículos se incorporan al activo fijo de las empresas cuando se utilicen para el desarrollo de las actividades del contribuyente.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 68.
 
-Para los efectos de este Impuesto se considera importación la que tenga el carácter de definitiva en los términos de la legislación aduanera, salvo en los casos en que ya se hubiera pagado el impuesto.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 69.
 
-No se pagará el impuesto, en los siguientes casos:
-
-I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera; y
-
-II.- En la enajenación al público en general de automóviles compactos de consumo popular.
-
-Se consideran automóviles compactos de consumo popular, aquéllos cuyo precio de enajenación, incluyendo el impuesto al valor agregado, no exceda de la cantidad de $51,731.00, que su motor sea de fabricación nacional y que posea una capacidad para transportar hasta 5 pasajeros.
-
-El precio a que se refiere el párrafo anterior, se actualizará en el mes de enero de cada año, aplicando el factor que corresponda conforme al artículo 3 de esta ley.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 70.
 
-Se considera que se enajena un automóvil en el momento en que se realice cualquiera de los supuestos siguientes:
-
-I.- Se envíe al adquirente. A falta de envío, al entregarse materialmente el automóvil;
-
-II.- Se pague parcial o totalmente el precio;
-
-III.- Se expida el comprobante de la enajenación; y
-
-IV.- Al incorporarse al activo fijo o al transcurrir el plazo de un año a que se refiere el primer párrafo del artículo 67 de esta ley.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 71.
 
-No procederá la devolución ni compensación de este impuesto, aun cuando el automóvil se devuelva al enajenante.
-
-Para los efectos de este Impuesto, no se considerarán automóviles nuevos, aquéllos por los que ya se hubiera pagado y que se devuelvan al enajenante.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 72.
 
-Los fabricantes, ensambladores o distribuidores autorizados de automóviles o camiones nuevos, así como aquéllos que importen automóviles para permanecer en forma definitiva en la franja fronteriza norte del Estado, deberán incluir en el documento que ampare la enajenación correspondiente, la clave vehicular que corresponda a la versión enajenada. La Secretaría de Finanzas establecerá la forma en que deberá integrarse la citada clave, mediante reglas de carácter general.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -2749,11 +2433,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Para los efectos del artículo 3 de esta ley, la actualización de las contribuciones se efectuará a partir del 1 de enero de 1997.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO QUINTO.
 
-Con el propósito de sufragar los gastos que origina al Estado la modernización del Registro Público de la Propiedad y del Comercio, durante los ejercicios fiscales de 1996 a 1999, se causará un impuesto adicional del 15% sobre los derechos que se causen por los servicios que presta el Registro Público de la Propiedad y del Comercio establecidos en esta ley.
+Con el propósito de sufragar los gastos que origina al Estado la modernización del Registro Público durante los ejercicios fiscales de 2000 y 2001, se causará un impuesto adicional del 15% sobre los derechos que se causen por los servicios que presta el Registro Público establecidos en esta ley.
 
 El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos objeto de este impuesto.
 
@@ -2886,3 +2570,13 @@ P.O. 29 DE JUNIO DE 1999.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1o. de enero del año 2000.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan los artículos 3° y 4° transitorios del Decreto 412 publicado en el Periódico Oficial de Gobierno del Estado No. 103 de fecha 24 de Diciembre de 1996, así mismo se derogan todas las disposiciones que se opongan al presente Decreto.
