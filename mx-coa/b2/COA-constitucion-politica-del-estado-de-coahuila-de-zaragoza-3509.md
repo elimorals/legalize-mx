@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1943-02-27"
+last_updated: "1948-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 1943.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 1948.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -190,7 +190,7 @@ II. Asociarse pacíficamente para tratar de asuntos políticos del Estado y ejer
 
 ###### Artículo 20.
 
-El ejercicio de los derechos de ciudadano (sic) coahuilenses se suspenden:
+El ejercicio de los derechos de ciudadanos coahuilense (sic) se suspenden:
 
 I. Por sentencia ejecutoria que condene a la suspensión de esos derechos, por el tiempo que ella fije.
 
@@ -1048,13 +1048,11 @@ El territorio del Estado se divide en Distritos y Municipalidades conforme se ex
 
 Las Municipalidades conservarán el territorio que actualmente tienen; pero el Congreso podrá modificar su extensión, cuando lo juzgue conveniente, y aumentar o disminuir el número de ellas.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1942)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1948)</small>
 
 ###### Artículo 124.
 
-Cada Municipio estará administrado por un Ayuntamiento y se renovará en su totalidad cada tres años, entrando a funcionar el primero de enero conforme a la Ley; no siendo en todo caso menor de tres el número de Munícipes ni mayor de siete conforme al orden siguiente:
-
-En los Municipios que se cuenten hasta ocho mil habitantes, habrá un Presidente Municipal, un Regidor y un Síndico; en los Municipios de más de ocho mil hasta treinta mil habitantes, habrá un Presidente Municipal, tres Regidores y un síndico; en los que pasen de treinta mil habitantes, habrá un Presidente Municipal, cuatro Regidores y dos Síndicos.
+Cada Municipio estará administrado por un Ayuntamiento que será nombrado por elección popular directa, en la que participarán las mujeres en igualdad de condición que los varones, con el derecho de votar y ser votadas, y se renovará en su totalidad cada tres años, entrado a funcionar el primero de enero conforme a la Ley, no siendo en todo caso menor de tres el número de munícipes ni mayor de siete conforme el orden siguiente: en Los Municipios que se cuenten hasta ocho mil habitantes, habrá un Presidente Municipal, un Regidor y un Síndico; en los Municipios de más de ocho mil hasta treinta mil habitantes, habrá un Presidente Municipal, tres Regidores y un Síndico; en los que pasen de treinta mil habitantes, habrá un Presidente Municipal, cuatro Regidores y dos Síndicos.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1918)</small>
 
@@ -1703,5 +1701,9 @@ P.O. 16 DE SEPTIEMBRE DE 1942.
 TRANSITORIOS:- Los Ayuntamientos que se elijan el primero de noviembre próximo, durarán en funciones el término de tres años, de conformidad con la reforma al Artículo 124 de la Constitución Política Local, hecha en este Decreto.
 
 P.O. 27 DE FEBRERO DE 1943.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 27 DE MARZO DE 1948.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
