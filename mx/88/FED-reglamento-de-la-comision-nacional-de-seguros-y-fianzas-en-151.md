@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-comision-nacional-de-seguros-y-fianzas-en-151"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-01-14"
-last_updated: "1991-01-14"
+last_updated: "2004-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1991-01-09"
 
 REGLAMENTO DE LA COMISION NACIONAL DE SEGUROS Y FIANZAS EN MATERIA DE INSPECCION, VIGILANCIA Y CONTABILIDAD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. ESTE REGLAMENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE INSPECCION Y VIGILANCIA DE LA COMISION NACIONAL DE SEGUROS Y FIANZAS, PUBLICADO EN LA PRIMERA SECCION DEL DIARIO OFICIAL DE LA FEDERACION EL 26 DE ENERO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 14 de enero de 1991.
 
@@ -416,3 +418,13 @@ SEGUNDO.- Se derogan, en lo relativo a seguros y fianzas, las disposiciones del 
 TERCERO.- Quedan en vigor las disposiciones contenidas en Circulares y Oficios Circulares emitidas por la Comisión Nacional Bancaria y de Seguros al amparo del Reglamento a que se refiere el artículo anterior, en cuanto no se opongan a lo previsto por este Reglamento y hasta en tanto no sean modificadas o suprimidas por las que al efecto deba dictar la Comisión.
 
 Dado en la residencia del Poder Ejecutivo Federal a los nueve días del mes de enero de mil novecientos noventa y uno.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Pedro Aspe.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 26 DE ENERO DE 2004.
+
+PRIMERO.- Este Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de la Comisión Nacional de Seguros y Fianzas en materia de Inspección, Vigilancia y Contabilidad, publicado en el Diario Oficial de la Federación de fecha 14 de enero de 1991.
+
+TERCERO.- Las visitas de inspección que se hayan iniciado antes de la entrada en vigor del presente Reglamento, continuarán practicándose conforme a lo previsto en este Reglamento.
