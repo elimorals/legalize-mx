@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "1989-10-11"
+last_updated: "1990-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE OCTUBRE DE 1990.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -155,7 +155,7 @@ X. Secretaría de la Contraloría.
 
 El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado y demás Leyes le confieran. Este funcionario será el Consejero Jurídico del Gobierno.
 
-Las dependencias a que se refiere este Artículo tendrán igual rango y entre ellas no habrá preeminencia alguna.
+Las dependencias a que se refiere este Artículo, tendrán igual rango y entre ellas no habrá preeminencia alguna.
 
 ###### Artículo 20.
 
@@ -213,7 +213,7 @@ XXIII. Tramitar los nombramientos que para el ejercicio de las funciones notaria
 
 XXIV. Llevar el Libro de Registro de Notarios y organizar y controlar el Archivo de Notarías del Estado.
 
-XXV. Ejecutar por Acuerdos del Gobernador las expropiaciones, ocupación temporal y limitación de dominio, en los casos de utilidad pública de conformidad con la Legislación relativa.
+XXV. Ejecutar por Acuerdo del Gobernador las expropiaciones, ocupación temporal y limitación de dominio, en los casos de utilidad pública de conformidad con la Legislación relativa.
 
 XXVI. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y de Comercio.
 
@@ -291,7 +291,7 @@ XXIV. Planear, autorizar, coordinar, vigilar y evaluar los programas de inversi�
 
 XXV. Establecer y llevar los sistemas de contabilidad gubernamental y de estadística general del Gobierno del Estado.
 
-XXVI. Hacer la glosa preventiva de los ingresos y egresos del Gobierno del Estado, elaborar la cuenta pública y mantener las relaciones con la Contaduría General de Glosa del Congreso del Estado.
+XXVI. Hacer la glosa preventiva de los ingresos y egresos del Gobierno del Estado, elaborar la cuenta pública y mantener las relaciones con la Contaduría General de Glosa, del Congreso del Estado.
 
 XXVII. Registrar y normar los actos y contratos de los que resulten derechos y obligaciones para el Gobierno del Estado.
 
@@ -430,6 +430,12 @@ XIII. Formular y operar los planes y programas específicos para el abastecimien
 XIV. Expedir en coordinación con la Secretaría de Planeación las bases a que deban sujetarse los concursos para la ejecución de obras en el Estado, así como adjudicar, cancelar y vigilar el cumplimiento de los contratos de obras celebrados por la administración pública del Estado.
 
 XV. Las demás que señalen las Leyes y Reglamentos vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 1990)</small>
+
+###### Artículo 32 Bis.
+
+Para auxiliar al Secretario de Desarrollo Urbano y Obras Públicas y para suplirlo en sus ausencias temporales, habrá dos Subsecretarías las que tendrán las atribuciones, funciones y obligaciones que el Ejecutivo del Estado o el propio Secretario les designen.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1987)</small>
 
@@ -709,7 +715,7 @@ Artículo Quinto.- Cuando en esta Ley se dé denominación nueva o distinta a al
 
 Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
-Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Lic. Lorenzo Vera Osorno.-Diputado Secretario, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
+Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario Lic. Lorenzo Vera Osorno.- Diputado Secretario, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
 
 Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
 
@@ -768,3 +774,9 @@ El Ejecutivo del Estado proveerá lo necesario para la transferencia de las part
 ###### ARTICULO SEXTO.
 
 Los asuntos que al entrar en vigor este decreto se encuentren en trámite, se continuarán por la dependencia a la que se asignen las atribuciones correspondientes en términos del mismo.
+
+P.O. 10 DE OCTUBRE DE 1990
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
