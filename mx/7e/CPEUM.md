@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1975-02-17"
+last_updated: "1975-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,6 +23,8 @@ abbreviation: "CPEUM"
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE FEBRERO DE 1975.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL EL 17 DE MARZO DE 1975.</small>
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1988,9 +1990,9 @@ XXIX.- Es de utilidad pública la Ley del Seguro Social, y ella comprenderá seg
 
 XXX.- Asimismo serán consideradas de utilidad social, las sociedades cooperativas para la construcción de casas baratas e higiénicas, destinadas a ser adquiridas en propiedad, por los trabajadores en plazos determinados.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 6 DE FEBRERO DE 1975)</small>
+(ADICIONADA [N. DE E. REFORMADA], D.O.F. 6 DE FEBRERO DE 1975) (F. DE E., D.O.F. 17 DE MARZO DE 1975)
 
-XXXI.- La aplicación de las leyes de trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales en asuntos relativos a la industria textil, eléctrica, cinematográfica, hulera, azucarera, minería, petroquímica, metalúrgica y siderúrgica, abarcando la explotación de los minerales básicos, el beneficio y la fundición de los mismos, así como la obtención de hierro metálico y acero a todas sus formas y ligas y los productos laminados de los mismos, hidrocarburos, cemento, industria automotriz, productos químicos farmacéuticos y medicamentos, celulosa y papel, aceites y grasas vegetales, empacado y enlatado de alimentos, bebidas envasadas, ferrocarriles y empresas que sean administradas en forma directa o descentralizada por el gobierno federal; empresas que actúan en virtud de un contrato o concesión federal y las industrias que sean conexas; empresas que ejecuten trabajos en zonas federales y aguas territoriales; a conflictos que hayan sido declarados obligatorios en más de una entidad federativa, y por último, las obligaciones que en materia educativa corresponden a los patrones, en la forma y término que fija la ley respectiva.
+XXXI.- La aplicación de las leyes de trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales en asuntos relativos a la industria textil, eléctrica, cinematográfica, hulera, azucarera, minería, petroquímica, metalúrgica y siderúrgica, abarcando la explotación de los minerales básicos, el beneficio y la fundición de los mismos, así como la obtención de hierro metálico y acero a todas sus formas y ligas y los productos laminados de los mismos, hidrocarburos, cemento, industria automotriz, productos químico farmacéuticos y medicamentos, celulosa y papel, aceites y grasas vegetales, empacado y enlatado de alimentos, bebidas envasadas, ferrocarriles y empresas que sean administradas en forma directa o descentralizada por el gobierno federal; empresas que actúan en virtud de un contrato o concesión federal y las industrias que sean conexas; empresas que ejecuten trabajos en zonas federales y aguas territoriales; a conflictos que afecten a dos o mas entidades federativas; a contratos colectivos que hayan sido declarados obligatorios en más de una entidad federativa y, por último las obligaciones que en materia educativa corresponden a los patronos, en la forma y términos que fija la ley respectiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
