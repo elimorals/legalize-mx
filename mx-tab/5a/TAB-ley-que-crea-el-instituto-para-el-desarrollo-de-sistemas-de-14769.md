@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-crea-el-instituto-para-el-desarrollo-de-sistemas-de-147
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-08"
-last_updated: "1995-04-08"
+last_updated: "1999-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE SISTEMAS DE PRODUCCION DEL TROPICO HUMEDO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 8 de abril de 1995.
 
@@ -43,9 +43,11 @@ LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE SISTEMAS DE PRODUCCION DEL TROPI
 
 DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 1º.
 
-Se crea el Instituto para el Desarrollo de Sistemas de Producción del trópico húmedo de Tabasco, como un Organismo Público Descentralizado del Gobierno del Estado, dotado de personalidad Jurídica y Patrimonio propios.
+Se crea el Instituto para el Desarrollo de Sistemas de Producción del Trópico Húmedo de Tabasco, como un Organo Desconcentrado del Gobierno del Estado de Tabasco, adscrito a la Secretaría de Desarrollo Agropecuario, Forestal y Pesca.
 
 ###### ARTICULO 2º.
 
@@ -123,111 +125,77 @@ GOBIERNO DEL INSTITUTO
 
 ###### ARTICULO 6º.
 
-Son órganos de Gobierno del Instituto para el Desarrollo de Sistemas de Producción del Trópico Húmedo de Tabasco:
-
-I.- La Junta de Gobierno y
-
-II.- La Dirección General.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 7º.
 
-La Junta de Gobierno es la autoridad suprema del Instituto y estará integrada de la siguiente forma:
-
-I.- Presidente El C. Gobernador Constitucional del Estado.
-
-II.- Vicepresidente El Secretario de Fomento Económico.
-
-III.- Vocal Ejecutivo El Director General del Instituto.
-
-IV.- Primer Vocal El Coordinador General de COPLADET.
-
-V.- Segundo Vocal El Secretario de Planeación y Finanzas.
-
-VI.- Tercer Vocal El Secretario de Educación.
-
-VII.- Cuarto Vocal El Secretario de Desarrollo Social y Protección Ambiental.
-
-VIII.- Comisario El Secretario de Contraloría y Desarrollo Administrativo.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 8º.
 
-Las ausencias del Presidente de la Junta de Gobierno serán cubiertas por el Vicepresidente de la misma o por el servidor público que para el caso designe el Titular del Poder Ejecutivo del Estado.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 9º.
 
-Son facultades de la Junta de Gobierno:
-
-I.- Aprobar los programas y proyectos que deba realizar el Instituto para la satisfacción de sus objetivos.
-
-II.- Sancionar el presupuesto anual de ingresos y egresos del Instituto.
-
-III.- Conocer y en su caso, asentir, el informe anual de actividades que rinda el Director General del Instituto.
-
-IV.- crear o suprimir unidades administrativas conforme a las necesidades del servicio que brinde el Instituto.
-
-V.- Las demás que le determine el C. Gobernador Constitucional del Estado o que le atribuyan las Leyes.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 10º.
 
-Son obligaciones de la Junta de Gobierno:
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
-I.- Establecer la coordinación que en materia de política sectorial deberán seguir el Instituto para el Desarrollo de Sistemas de producción del trópico húmedo de Tabasco y la Secretaría de Fomento Económico, ambos, de acuerdo a lo específico de las atribuciones que les confiere la Ley Orgánica del Poder Ejecutivo del Estado.
+###### ARTICULO 11.
 
-II.- Expedir el Reglamento Interior del Instituto.
-
-III.- Promover ante las autoridades competentes, la preservación y rescate del patrimonio del Estado, en materia de investigación agropecuaria, forestal y acuícola; y
-
-IV.- Las demás que le determine el C. Gobernador Constitucional del Estado o que le atribuyan las Leyes.
-
-###### ARTICULO 11º.
-
-La Junta de Gobierno sesionará legalmente cada año y extraordinariamente a Convocatoria del Presidente, del Vicepresidente o del Vocal Ejecutivo, cuando sea necesario.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 12º.
 
-La Junta de Gobierno sesionará legalmente previa existencia del quórum, que se constituirá con la asistencia de la mitad más uno de sus miembros. Las decisiones de la Junta de Gobierno se tomarán por mayoría de votos, y en caso de empate, el Presidente tendrá voto de calidad.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 13º.
 
-A las sesiones de la Junta de Gobierno podrán asistir con voz pero sin voto, productores, empresarios y servidores públicos involucrados en algunas de las actividades del Instituto, sin que ello afecte la instalación legal de la misma.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 14º.
 
-Los cargos de la Junta de Gobierno serán honoríficos.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 15º.
 
-La Dirección General del Instituto estará a cargo de un Director General, que será nombrado y removido libremente por el C. Gobernador Constitucional del Estado.
+La Administración del Instituto estará a cargo de un Director General, que será nombrado y removido por el Gobernador del Estado, a propuesta del Titular de la Dependencia de su adscripción.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 16º.
 
-El Director General del Instituto, tendrá las siguiente facultades:
+El Director General del Instituto tendrá las siguientes facultades:
 
-I.- Representar legalmente al Instituto con toda la potestad que corresponde a los mandatos generales, para pleitos y cobranzas y actos de administración, en los términos del artículo 2463 del Código Civil en vigor.
+I.- Planear, programar, dirigir, supervisar y evaluar las actividades del Instituto, para el cumplimiento de su objeto.
 
-II.- Nombrar y remover al personal de confianza del Instituto, y al de base, conforme a la Ley Vigente de la Materia.
+II.- Representar legalmente al Instituto con toda la potestad que corresponde a los mandatarios generales para pleitos y cobranzas y actos de administración en los términos del Código Civil en vigor.
 
-III.- Ejecutar los acuerdos tomados por la Junta de Gobierno.
+III.- Nombrar y remover al personal del Instituto, conforme a la Ley de los Trabajadores al Servicio del Estado; y
 
-IV.- Las demás que le señale el C. Gobernador Constitucional del Estado u otras disposiciones legales.
+IV.- Las demás que le señale el Titular del (sic) la Dependencia de su adscripción y otros ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 17º.
 
 Son obligaciones del Director General:
 
-I.- Elaborar los programas y proyectos del Instituto, sometiéndolos a la aprobación de la Junta de Gobierno.
+I.- Elaborar los programas y proyectos del Instituto.
 
-II.- Formular y presentar a la Junta de Gobierno, para su aprobación en su caso, el presupuesto anual de ingresos y egresos del Instituto.
+II.- Formular el proyecto de presupuesto anual del Instituto.
 
-III.- Presentar a la consideración de la Junta de Gobierno, los estados financieros, balances y demás informes que le sean solicitados sobre el manejo administrativo del Instituto.
+III.- Presentar los informes mensuales y la situación financiera, y demás informes que le sean solicitados sobre el manejo administrativo del Instituto; y
 
-IV.- Ejecutar los Acuerdos tomados por la Junta de Gobierno y
-
-V.- Las demás que le señale el C. Gobernador Constitucional del Estado u otras disposiciones legales.
+IV.- Las demás que le señale el Titular de la Dependencia de su adscripción y otros ordenamientos legales aplicables.
 
 ###### ARTICULO 18º.
 
-El Comisario vigilará el estado financiero del Instituto, practicando, para tal efecto, las auditorías que correspondan, de las cuales informará a la Junta de Gobierno.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 19º.
 
@@ -239,25 +207,17 @@ Las relaciones laborales del Instituto se regirán por la Ley de los trabajadore
 
 ###### ARTICULO 21º.
 
-Los integrantes de los órganos de Gobierno del Instituto y su personal de confianza, serán responsables en los términos de la Ley de responsabilidades de los servidores públicos del Estado.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 EL PATRIMONIO
 
 ###### ARTICULO 22º.
 
-El patrimonio del Instituto se integrará por:
-
-I.- Las partidas presupuestales que le asigne el Gobierno del Estado.
-
-II.- Los créditos que se obtengan para la realización de sus objetivos en coordinación con la Secretaría de Planeación y Finanzas del Gobierno del Estado.
-
-III.- Los ingresos provenientes de las recuperaciones de sus inversiones y de las utilidades que se obtengan en el desarrollo de sus actividades.
-
-IV.- Los recursos, bienes, muebles e inmuebles y los derechos de toda clase que en el futuro se adquieran, le otorguen, donen o cedan por cualquier título legal, organizaciones Estatales, Regionales, Nacionales e Internacionales.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 23º.
 
-Todos los recursos que integran el patrimonio del Instituto, deberán ser depositados, o en su caso registrados ante la Secretaría de Planeación y Finanzas del Gobierno del Estado y estar sujetos a la inspección de la Secretaría de Contraloría y Desarrollo Administrativo.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO 24º.
 
@@ -288,3 +248,19 @@ LIC. ROBERTO MADRAZO PINTADO.
 LIC. J. MANUEL TELLAECHE BOSCH.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE JUNIO DE 1999.
+
+PRIMERO.- La relación laboral de los trabajadores de los organismos que cambian su naturaleza jurídica, continuará rigiéndose como hasta ahora por la Ley de los Trabajadores al Servicio del Estado de Tabasco y demás disposiciones legales aplicables.
+
+SEGUNDO.- Las Secretarías de Planeación y Finanzas, y de Contraloría y Desarrollo Administrativo, emitirán en su caso, los lineamientos que consideren necesarios, para dar cumplimiento dentro de sus respectivas competencias, a los términos del presente Decreto.
+
+TERCERO.- El patrimonio de las entidades que mediante este Decreto cambian su naturaleza jurídica, quedará igualmente adscrito a las dependencias a las que el mismo se refiere.
+
+CUARTO.- Las disposiciones del presente ordenamiento serán incorporadas en lo conducente, a los reglamentos interiores de las entidades que cambian su naturaleza jurídica.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+SEXTO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
