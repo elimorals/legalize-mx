@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-los-tribunales-militares-2574"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1929-06-22"
-last_updated: "1929-06-22"
+last_updated: "1931-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2574&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1929-06-04"
 
 LEY ORGANICA DE LOS TRIBUNALES MILITARES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE FEBRERO DE 1931.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 22 de junio de 1929.
 
@@ -71,17 +71,25 @@ El personal de los Tribunales Militares, estará sujeto, en lo que le concierna,
 
 ### CAPITULO II. Del Supremo Tribunal Militar
 
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1931)</small>
+
 ###### ARTICULO 6o.
 
-El Supremo Tribunal Militar, se compondrá de un Presidente, General de Brigada, militar de guerra, y seis Magistrados Letrados.
+El Supremo Tribunal Militar se compondrá de un Presidente, General de Brigada, militar de guerra y cuatro magistrados letrados.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1931)</small>
 
 ###### ARTICULO 7o.
 
-Resolverá siempre en pleno, y bastará la presencia de cinco de sus componentes para que pueda constituirse y funcionar.
+Resolverá siempre en Pleno y bastará la presencia de tres de sus componentes para que pueda constituirse y funcionar.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1931)</small>
 
 ###### ARTICULO 8o.
 
-Para que un asunto se considere resuelto, será necesaria la unificación de cuatro votos por lo menos. Si en una sesión no fuere posible dicha unificación, se votará nuevamente en la próxima.
+Para que un asunto se considere resuelto, será necesaria la unificación de tres votos, por lo menos.
+
+Si en una sesión no fuere posible dicha unificación, se votará nuevamente en la próxima.
 
 ###### ARTICULO 9o.
 
@@ -380,3 +388,9 @@ México, D.F., a 15 de junio de 1929.
 El Subsecretario de Gobernación, Encargado del Despacho, F. Canales.
 
 Al C...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 24 DE FEBRERO DE 1931.
+
+ARTICULO TRANSITORIO.- Este Decreto comenzará a regir desde el primero de enero de 1931.
