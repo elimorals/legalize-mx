@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-arbitraje-8656"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-12"
-last_updated: "1996-09-12"
+last_updated: "2002-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8656&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "1996-08-21"
 
 REGLAMENTO INTERNO DE LA COMISION NACIONAL DE ARBITRAJE MEDICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISION NACIONAL DE ARBITRAJE MEDICO, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 10 DE OCTUBRE DE 2002.</small>
 
-Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 12 de Septiembre de 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
+
+Reglamento publicado en el Diario Oficial de la Federación, el jueves 12 de Septiembre de 1996.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Salud.
 
@@ -632,3 +634,11 @@ XV. Las demás que le señale el Subcomisionado, necesarias para el mejor cumpli
 > <small>(F. DE E., D.O.F. 7 DE OCTUBRE DE 1996)</small>
 
 En cumplimiento de lo dispuesto por el artículo 8o. fracción II del decreto de creación de la Comisión Nacional de Arbitraje Médico, el Consejo, en la sesión celebrada el veintiuno de agosto de mil novecientos noventa y seis, expide el presente Reglamento Interno y faculta a su Presidente a firmarlo.- El Presidente del Consejo de la Comisión Nacional de Arbitraje Médico, Héctor Fernández Varela Mejía.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 10 DE OCTUBRE DE 2002.
+
+PRIMERO.- Se abroga el Reglamento Interno de la Comisión Nacional de Arbitraje Médico, emitido por el Consejo de la Institución en la sesión celebrada el 21 de agosto de 1996, publicado en el Diario Oficial de la Federación el 12 de septiembre de 1996.
+
+SEGUNDO.- El presente Reglamento, emitido por el Consejo en su Vigésima Cuarta Sesión Ordinaria celebrada el 7 de febrero de 2002, entrará en vigor al día siguiente de su publicación.
