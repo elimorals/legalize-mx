@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2001-01-29"
+last_updated: "2003-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE ENERO DE 2003.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -133,7 +133,9 @@ VIII. Las autoridades, el Órgano, el Tribunal y las partes interesadas se condu
 
 En sus relaciones con la Administración Pública, los particulares tienen los siguientes derechos:
 
-I. Conocer, en cualquier momento, el estado que guardan los expedientes en los que acredite la condición de interesado, y obtener copias certificadas de documentos contenidos en ellos;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+
+I. Conocer en cualquier momento el estado que guardan los expedientes en los que acredite la condición de interesado y obtener, previo pago de los derechos correspondientes, copias certificadas de documentos contenidos en ellos;
 
 II. Identificar a la autoridad y al personal al servicio de la administración pública bajo cuya responsabilidad se tramiten los expedientes;
 
@@ -347,11 +349,11 @@ Los menores de edad, los sujetos a interdicción, las sucesiones, los concursos 
 
 Cuando una solicitud o promoción se formule por dos o más personas, deberán designar un representante común de entre ellas. Si no se hace el nombramiento, la autoridad o el Tribunal tendrán como representante común a la persona mencionada en primer término. Los interesados podrán revocar, en cualquier momento, la designación del representante común, nombrando a otro, lo que se hará saber por escrito a la autoridad o al Tribunal.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+
 ###### Artículo 31.
 
-En el juicio contencioso, las autoridades podrán acreditar delegados, atendiendo a los requisitos establecidos en las normas aplicables y, en su caso, en este Código.
-
-Los delegados tendrán amplias facultades para ofrecer y rendir pruebas, presentar alegatos, interponer recursos, comparecer a las audiencias, recibir documentos y formular otras promociones; pero no podrán desistirse del juicio de lesividad, ni delegar sus facultades en terceros.
+En el juicio contencioso la autoridad podrá, mediante simple oficio, acreditar delegados, los que tendrán amplias facultades para ofrecer y rendir pruebas, formular alegatos, interponer recursos, comparecer a las audiencias, recibir documentos y formular otras promociones; pero no podrán desistirse del juicio de lesividad, ni delegar sus facultades a terceros.
 
 ### CAPÍTULO III. DE LAS ACTUACIONES
 
@@ -389,17 +391,27 @@ Las notificaciones se efectuarán, a más tardar, el día hábil siguiente al en
 
 I. Personalmente a los interesados y por oficio a las autoridades, en su caso, cuando se trate de emplazamientos, citaciones, requerimientos, reposiciones de autos, regularización del procedimiento y demás resoluciones o actos administrativos que puedan ser impugnados. En estos casos, también podrán efectuarse por correo registrado con acuse de recibo;
 
-II. Por edicto que se publique por una sola vez en la Gaceta Oficial del Estado, y en uno de los periódicos de mayor circulación estatal o nacional, tratándose de emplazamientos, citaciones, requerimientos y demás resoluciones o actos administrativos que puedan impugnarse, cuando el interesado a quien deba notificarse haya desaparecido, se ignore su domicilio, se encuentre fuera del territorio del Estado sin haber nombrado representante legal, o hubiere fallecido y no se conozca al albacea de la sucesión a quien deba notificarse;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
 
-III. Por estrados ubicados en las oficinas de la administración pública, del Órgano o del Tribunal abiertas al público, cuando así lo señale la parte interesada o se trate de actos distintos a emplazamientos, citaciones, requerimientos y demás resoluciones o actos que puedan ser impugnados; y
+II. Por edicto que se publique por una sola vez en la Gaceta Oficial del estado, y en uno de los periódicos de mayor circulación estatal o nacional, tratándose de emplazamientos, citaciones, requerimientos y demás resoluciones o actos administrativos que puedan impugnarse, cuando el interesado a quien deba notificarse haya desaparecido, se ignore su domicilio, se encuentre fuera del territorio del Estado, sin haber nombrado representante legal, o hubiere fallecido y no se conozca al albacea de la sucesión a quien deba notificarse. En este caso, las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que se haya efectuado su publicación por edicto;
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+
+III. Por estrados ubicados en las oficinas de la administración pública, del Órgano o del Tribunal abiertas al público, cuando así lo señale la parte interesada o se trate de actos distintos a emplazamientos, citaciones, requerimientos y demás resoluciones o actos que puedan ser impugnados, fijando durante tres días consecutivos el documento que se notifica. En estos casos, las notificaciones surtirán efectos el día en que se hubiere fijado por última vez el documento; y
 
 IV. En las oficinas de la administración pública, del Organo o del Tribunal, si se presentan los interesados a quienes deba notificarse, incluyendo las que deban practicarse personalmente o por oficio.
+
+> <small>(ADICIONADO, G.O. 6 DE ENERO DE 2003)</small>
+
+Cuando se trate de resoluciones o actos administrativos en materia fiscal, las notificaciones se harán en un plazo no mayor a 90 días contados a partir del día siguiente al en que se dicten.
 
 ###### Artículo 38.
 
 Las notificaciones personales se harán en el domicilio que para tal efecto se haya señalado. Tratándose del procedimiento administrativo, cuando éste se inicie de oficio, las notificaciones se practicarán en el domicilio registrado ante las autoridades.
 
-Las notificaciones se entenderán con la persona que deba ser notificada o su representante legal; a falta de ellos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día hábil siguiente, y de negarse a recibirlo, se fijará en la puerta o lugar visible del propio domicilio. Si quien haya de notificarse no atendiere el citatorio, la notificación se hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse a recibirla, se realizará por instructivo que se fijará en la puerta de ese domicilio. En los casos en que el domicilio se encontrare cerrado, la citación o notificación se entenderá con el vecino más cercano, debiéndose fijar una copia adicional en la puerta o lugar visible del domicilio.
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+
+Las notificaciones se entenderán con la persona que deba ser notificada o su representante legal; a falta de ellos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día hábil siguiente; de negarse a firmarlo y recibirlo la persona con quien se desarrolla la diligencia, el notificador lo hará constar en el mismo citatorio, y procederá a fijarlo en la puerta o lugar visible del propio domicilio. Si quién haya de notificarse no atendiere el citatorio, la notificación se hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse a recibirla, se realizará por instructivo que se fijará en la puerta de ese domicilio. En los casos en que el domicilio se encontrare cerrado, la citación o notificación se entenderá con el vecino más cercano, debiéndose fijar una copia adicional en la puerta o lugar visible del domicilio.
 
 En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia simple del documento a que se refiere la notificación.
 
@@ -1061,9 +1073,11 @@ VI. Las pruebas que, en su caso, se ofrezcan; y
 
 VII. El lugar, fecha y firma del interesado o, en su caso, la de su representante o apoderado legal.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE ENERO DE 2003)</small>
+
 ###### Artículo 140.
 
-Cuando el escrito inicial no contenga los requisitos o no se acompañe de los documentos previstos en el artículo anterior, la autoridad prevendrá por escrito y por una sola vez al interesado o, en su caso, a su representante o apoderado legal, para que dentro del plazo de cinco días siguientes al en que surta efectos la notificación de dicha prevención, subsane la falta. En el supuesto de que en el plazo señalado no se cumpla con la prevención, la autoridad resolverá que se tiene por no presentada la solicitud.
+Cuando el escrito inicial no contenga los requisitos o no se acompañe de los documentos previstos en el artículo anterior, la autoridad prevendrá por escrito y por una sola vez al interesado o, en su caso, a su representante o apoderado legal, para que dentro del plazo de cinco días siguientes al en que surta efectos la notificación de dicha prevención, subsane la falta. En el supuesto de que en el plazo señalado no se cumpla con la prevención o se cumpla parcialmente, la autoridad resolverá que se tiene por no presentada la solicitud.
 
 Si la promoción no fue firmada se estará a lo dispuesto en el artículo 24 de este Código.
 
@@ -1243,6 +1257,10 @@ Incurren en responsabilidad administrativa, sancionable conforme a la ley de la 
 
 Las autoridades podrán, de conformidad con las normas, verificar bienes, personas y vehículos de transporte, con el objeto de comprobar el cumplimiento de las disposiciones legales y reglamentarias de carácter local; para lo cual, practicarán visitas de verificación o domiciliarias, mismas que serán ordinarias o extraordinarias. Las primeras se efectuarán en días y horas hábiles; las segundas, en cualquier tiempo.
 
+> <small>(ADICIONADO, G.O. 6 DE ENERO DE 2003)</small>
+
+Al efecto, las autoridades fiscales podrán designar por escrito a notificadores, inspectores, auditores, verificadores y visitadores para que, con ese carácter, diligencien los actos administrativos que se les encomienden.
+
 ###### Artículo 163.
 
 Toda visita de verificación o domiciliaria deberá ajustarse a los procedimientos y formalidades que establezcan este Código y las demás normas.
@@ -1255,7 +1273,9 @@ I. Rectificar los errores aritméticos, omisiones u otros que aparezcan en los d
 
 II. Requerir informes o documentos a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que los exhiban en su domicilio, establecimientos o en las oficinas de la autoridad, a efecto de llevar a cabo la revisión de su contabilidad;
 
-III. Practicar visitas domiciliarias en los términos de este Código, así como para verificar el cumplimiento de las obligaciones en materia de expedición de comprobantes fiscales;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+
+III. Practicar visitas domiciliarias en los términos de este Código, así como para verificar el cumplimiento de las obligaciones en materia de expedición de comprobantes fiscales, y de la representación de solicitudes o avisos en materia de registro estatal de contribuyentes;
 
 IV. Revisar los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes, así como la declaratoria por solicitudes de devolución de saldos a favor y cualquier otro dictamen que tenga repercusión para efectos fiscales formulado por contador público y su relación con el cumplimiento de disposiciones fiscales;
 
@@ -1325,13 +1345,21 @@ I. Sólo se practicarán por orden escrita de la autoridad competente, en la cua
 
 a) El nombre, denominación o razón social de la persona visitada y el lugar donde la visita deba llevarse a cabo. Cuando se ignoren éstos, se señalarán datos suficientes que permitan su identificación;
 
-b) El nombre de los auditores, inspectores o visitadores que practicarán la diligencia, los cuales podrán ser substituidos por la autoridad que expidió la orden; en este caso, se comunicará por escrito al visitado el nombre de los substitutos; y
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+
+b) El nombre de los auditores, inspectores o visitadores que practicarán la diligencia, los cuales se podrán substituir, aumentar o reducir en cualquier tiempo por la autoridad que expidió la orden; en esos casos, se notificará por escrito al visitado; y
 
 c) Tratándose de visitas domiciliarias de carácter fiscal, las contribuciones cuyo cumplimiento vaya a ser objeto de revisión y, en su caso, los ejercicios a que deberá limitarse la visita. Esta podrá ser de carácter general para verificar el cumplimiento de las disposiciones fiscales en determinado plazo o concretarse únicamente a determinados aspectos, pero sólo en materia de impuestos o derechos, incluso aquellos de carácter federal cuya administración le haya sido encomendada al Estado, o aquellos impuestos sobre los cuales tenga participación y se faculte a las autoridades fiscales estatales o municipales para su verificación;
 
+> <small>(ADICIONADO, G.O. 6 DE ENERO DE 2003)</small>
+
+Las personas designadas para efectuar la visita la podrán hacer en forma conjunta o separada;
+
 II. La visita se realizará en el lugar o lugares señalados en la orden;
 
-III. Si al presentarse los auditores, inspectores o visitadores al lugar en donde deba practicarse la diligencia, no estuviere el visitado o su representante legal, dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante legal los esperen a hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado. Si el domicilio donde deba practicarse la visita se encontrare cerrado, el citatorio se dejará con el vecino más próximo;
+I(REFORMADA, G.O. 6 DE ENERO DE 2003)
+
+III. Si al presentarse los auditores, inspectores o visitadores al lugar en donde deba practicarse la diligencia, no estuviere el visitado o su representante legal, dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante legal los esperen a hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren la visita se iniciará con quien se encuentre en el lugar visitado;
 
 IV. Al iniciarse la visita en el domicilio señalado en la orden, los auditores, inspectores o visitadores que en ella intervengan se identificarán debidamente ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los auditores, inspectores o visitadores los designarán, haciendo constar esta circunstancia en el acta que levanten, sin que ello invalide los resultados de la visita.
 
@@ -1345,9 +1373,13 @@ VIII. Los libros, registros, sistemas, declaraciones fiscales, avisos, solicitud
 
 IX. Al concluirse la visita, se levantará un acta donde se harán constar los resultados en forma circunstanciada;
 
-X. El visitado, los testigos y los auditores, inspectores o visitadores firmarán el acta. Si el visitado o los testigos se niegan a firmar, así se hará constar, sin que esta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará, en todo caso, al visitado o a la persona con la que se entienda la diligencia; y si se negare a recibirla se enviará por correo registrado con acuse de recibo al día siguiente;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
 
-XI. Con las mismas formalidades indicadas en la fracción anterior, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de una visita;
+X. El visitado, los testigos y los auditores, inspectores o visitadores firmarán el acta. Si el visitado o los testigos se niegan a firmar, así se hará constar, sin que esta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará, en todo caso, al visitado o a la persona con la que se entienda la diligencia; si se niegan a aceptarlo, dicha negativa se asentará en la propia acta sin que esto afecte su validez y valor probatorio;
+
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+
+XI. Con las mismas formalidades indicadas en la fracción anterior, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita;
 
 XII. Cuando en el desarrollo de una visita las autoridades conozcan hechos u omisiones que puedan entrañar incumplimiento de las normas, los consignarán en forma circunstanciada en actas parciales. También se asentarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante, se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos veinte días, durante los cuales el visitado podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones;
 
@@ -1355,7 +1387,9 @@ En materia fiscal, los contribuyentes visitados dentro de este plazo probatorio 
 
 XIII. Se tendrán por consentidos los hechos consignados en las actas a que se refiere la fracción anterior, si antes del cierre del acta final el visitado no presenta los documentos, libros o registros de referencia o no señala el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad, o no prueba que éstos se encuentran en poder de la autoridad; y
 
-XIV. Las autoridades deberán concluir la visita domiciliaria dentro de un plazo máximo de tres meses contados a partir de que se le notifique al visitado la orden de visita respectiva.
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+
+XIV. Las autoridades deberán concluir la visita domiciliaria dentro de un plazo máximo de seis meses contados a partir de que se le notifique al visitado la orden de visita respectiva.
 
 ###### Artículo 172.
 
@@ -1423,7 +1457,9 @@ I. Cuando los contribuyentes omitan presentar en el período de pago la declarac
 
 II. Tratándose de aquellos casos en que se conozca de manera fehaciente la cantidad a la que le puede ser aplicada la tasa o cuota respectiva, la propia autoridad fiscal podrá hacer efectiva al contribuyente una cantidad igual a la contribución que a éste le corresponda determinar;
 
-III. Cuando el contribuyente omita presentar en forma consecutiva las últimas tres declaraciones de las contribuciones a que se encuentra obligado o cuando no atienda a dos requerimientos de la autoridad en los términos que menciona la fracción III de este artículo, la autoridad fiscal competente podrá ordenar la práctica de visita domiciliaria; o
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+
+III. Cuando el contribuyente omita presentar en forma consecutiva las últimas tres declaraciones de las contribuciones a que se encuentra obligado o cuando no atienda a dos requerimientos de la autoridad en los términos que menciona la fracción IV de este artículo, la autoridad fiscal competente podrá ordenar la práctica de visita domiciliaria; o
 
 IV. Requerir la presentación del documento omitido en un plazo de quince días para el primer requerimiento, y de seis días para el subsecuente. Si no se atiende el requerimiento se impondrá la multa correspondiente, en términos de la ley de la materia. La autoridad en ningún caso formulará más de dos requerimientos por una misma omisión.
 
@@ -1545,9 +1581,11 @@ III. Señalen el nombre o domicilio de un tercero, real o ficticio, si se compru
 
 IV. Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE ENERO DE 2003)</small>
+
 ###### Artículo 187.
 
-Las autoridades fiscales emitirán la resolución al procedimiento a través del cual ejerzan cualesquiera de las facultades de comprobación a que alude este Capítulo, dentro de los quince días siguientes contados a partir de la fecha del levantamiento del acta final u oficio de observaciones, en su caso.
+Las autoridades fiscales emitirán la resolución al procedimiento a través del cual ejerzan cualesquiera de las facultades de comprobación a que alude este Capítulo, dentro de los cuarenta y cinco días siguientes contados a partir de la fecha del levantamiento del acta final u oficio de observaciones, en su caso.
 
 Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las autoridades fiscales, podrán servir para motivar sus resoluciones.
 
@@ -1760,6 +1798,10 @@ El notificador ejecutor subsanará cualquier otra dificultad que se suscite en l
 ###### Artículo 210.
 
 El jefe de la oficina ejecutara, bajo su responsabilidad, nombrará y removerá libremente a los depositarios, quienes tendrán el carácter de administradores en los embargos de bienes inmuebles; o de interventores con cargo a la caja o de administradores en los embargos de negociaciones comerciales, industriales o agropecuarias, sin perjuicio de las determinaciones de las autoridades jurisdiccionales competentes.
+
+> <small>(ADICIONADO, G.O. 6 DE ENERO DE 2003)</small>
+
+Tratándose de embargos recaídos sobre bienes muebles e inmuebles, cuando el depositario designado no acepte el cargo, el nombramiento podrá recaer en el ejecutado.
 
 ###### Artículo 211.
 
@@ -2067,7 +2109,9 @@ Cuando se actualice alguno de los supuestos previstos en los dos párrafos anter
 
 I. Se citará personalmente al presunto responsable a una audiencia en la sede de la autoridad o del Órgano, haciéndole saber los hechos u omisiones que se le imputan y que sean causa de responsabilidad en los términos de ley, señalando el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y formular alegatos, por sí o por medio de un defensor, apercibido que de no comparecer sin justa causa, se tendrá por precluído su derecho para ofrecer pruebas y formular alegatos, y se resolverá con los elementos que obren en el expediente respectivo. Entre la fecha de citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días;
 
-II. Celebrada la audiencia, se emitirá resolución dentro de los quince días siguientes en la que se determinará la existencia o inexistencia de la responsabilidad, y se fincará, en su caso, la indemnización y sanciones correspondientes, y se notificará al responsable y al superior jerárquico dicha resolución para los efectos que procedan; cuando la resolución constituya, además, un crédito fiscal, se remitirá un tanto autógrafo de la misma a la oficina ejecutora que corresponda, para el efecto de que si, en un plazo de quince días siguientes a la fecha en que surta efectos la notificación, éste no es cubierto, o no es impugnado y debidamente garantizado en términos de las normas aplicables;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+
+II. Celebrada la audiencia, se emitirá resolución dentro de los quince días siguientes, en la que se determinará la existencia o inexistencia de la responsabilidad, y se fincará, en su caso, la indemnización y sanciones correspondientes, y se notificará al responsable y al superior jerárquico dicha resolución para los efectos que procedan; cuando la resolución constituya, además, un crédito fiscal, se remitirá un tanto autógrafo de la misma a la oficina ejecutora que corresponda, para el efecto de que si en un plazo de quince días siguientes a la fecha en que surta efectos la notificación, éste no es cubierto, o no es impugnado y debidamente garantizado en términos de las normas aplicables, se proceda a su recuperación mediante el Procedimiento Administrativo de Ejecución;
 
 III. Si celebrada la audiencia, los órganos de control interno de las autoridades o el Órgano, no encontraren elementos suficientes para fincar la responsabilidad, emitirán una resolución en ese sentido, en el plazo señalado en la fracción anterior; y
 
@@ -2912,3 +2956,15 @@ Licenciado Miguel Alemán Velazco,
 Gobernador del Estado.
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 6 DE ENERO DE 2003.
+
+PRIMERO. Las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. Las visitas domiciliarias y las de verificación ya iniciadas al momento de la entrada en vigor del presente Decreto, se continuarán tramitando conforme a las disposiciones del Código de Procedimientos Administrativos para el Estado de Veracruz-Llave, vigentes al momento de su inicio.
+
+CUARTO. Las disposiciones reglamentarias en materia de catastro, deberán ajustar su contenido a lo dispuesto en el presente Decreto, dentro de un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto.
