@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1984-08-12"
+last_updated: "1987-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1987.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -161,13 +161,15 @@ En el Estado de Durango, todas las personas, en la medida de los recursos econó
 
 3o.- Otorgamiento de becas cuando se trate de estudiantes indigentes que se hayan distinguido por su aprovechamiento y puedan así continuar sus estudios y perfeccionar sus conocimientos en los centros de educación media y superior.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 13.
 
-La actividad económica estatal se conforma con acciones de los sectores público y privado. El Ejecutivo podrá promover programas, así como realizar obras y servicios de carácter social, tendientes a impulsar convenientemente el desarrollo integral de la Entidad.
+La actividad económica estatal será planeada, conducida, coordinada y orientada por el Ejecutivo del Estado quien llevará a cabo la regularización y fomento de las acciones que demande el interés general.
 
-El Ejecutivo del Estado promoverá el incremento de las obras de infraestructura, el aumento de fuentes de trabajo, la creación de instituciones educativas y la construcción de viviendas decorosas de bajo costo.
+En el desarrollo económico del Estado participarán con responsabilidad social, los sectores público, social y privado sin menoscabo de otras formas de actividad económica. El Ejecutivo Estatal bajo este contexto organizará un Sistema Estatal de Planeación Democrática, la cual recogerá las aspiraciones y demandas de la sociedad para incorporarse al plan y a los programas de desarrollo estatal.
+
+Habrá un Plan Estatal de Desarrollo al cual se sujetarán obligatoriamente los programas de la Administración Pública Estatal.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -439,10 +441,6 @@ Procede el recurso de reclamación ante el Supremo Tribunal de Justicia del Esta
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
 ###### ARTICULO 38.
 
 El asiento del Congreso es la Capital del Estado. Podrá trasladarse provisionalmente a otro lugar cuando se presenten circunstancias que lo ameriten y así lo acuerden cuando menos las dos terceras partes de los diputados presentes en la sesión en que se trate.
@@ -533,6 +531,10 @@ El Gobernador, dentro de los últimos quince días de su mandato, enviará al Co
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
+SECCION D.- DE LAS FACULTADES DEL CONGRESO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 1984)</small>
+
 ## TITULO TERCERO
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
@@ -587,9 +589,9 @@ Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nu
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION D.- DE LAS FACULTADES DEL CONGRESO
+SECCION E.- DE LA COMISION PERMANENTE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 55.
 
@@ -747,11 +749,7 @@ XXXIV.- Resolver sobre las controversias que se susciten entre los Municipios; y
 
 XXXV.- Expedir, con base en lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias, leyes que rijan las relaciones de trabajo entre el Estado y sus trabajadores y entre los Municipios y quienes laboran a su servicio.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCION E.- DE LA COMISION PERMANENTE
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 56.
 
@@ -781,7 +779,11 @@ VI.- Las demás que le confiere está Constitución.
 
 La Comisión Permanente dará cuenta en la segunda sesión del período ordinario siguiente de la Legislatura, de las labores desarrolladas, presentando al efecto una memoria escrita de sus trabajos, así corno de los expedientes que hubiere formado.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ### CAPITULO TERCERO. DEL PODER EJECUTIVO
 
@@ -815,11 +817,7 @@ c).- El Gobernador interino cuando haya desempeñado el cargo en los dos último
 
 ### CAPITULO CUARTO. DEL PODER JUDICIAL
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCON A.- DE SU ORGANIZACION
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 60.
 
@@ -1219,7 +1217,11 @@ El Ejecutivo del Estado nombrará y removerá libremente a los Defensores de Ofi
 
 Para ocupar los cargos a que se refiere el Artículo anterior, se deben satisfacer los requisitos que establecen las leyes reglamentarias respectivas.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 90.
 
@@ -1244,10 +1246,6 @@ El Poder Judicial del Estado se deposita para su ejercicio en:
 La competencia del Supremo Tribunal de Justicia, el funcionamiento del Pleno y de las Salas, las atribuciones de los Magistrados, el número y competencia de los Jueces, la división del Estado en Distritos Judiciales, las responsabilidades en que incurren aquellos, así como los demás funcionarios y empleados del Poder Judicial, se regirán por lo que dispone esta Constitución y las Leyes relativas.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 92.
 
@@ -1337,6 +1335,10 @@ La Ley fijará los requisitos de procedimiento y el trámite a que se sujetará 
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
+SECCON A.- DE SU ORGANIZACION
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+
 ###### ARTICULO 98.
 
 Los Jueces de Primera Instancia, Menores, Auxiliares y Municipales serán nombrados por el Supremo Tribunal de Justicia. Estos últimos lo serán a propuesta en terna del Juez de Primera Instancia del Distrito Judicial respectivo.
@@ -1373,7 +1375,7 @@ Los Jueces de Primera Instancia, Menores, Municipales y Auxiliares durarán en s
 
 Los Presidentes de las Juntas Municipales, Jefes de Cuartel y de Manzana, son auxiliares en la administración de la justicia y, para ese efecto, se sujetarán a las disposiciones de la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 103.
 
@@ -1934,3 +1936,7 @@ P.O. 12 DE AGOSTO DE 1984.
 Artículo Primero.- Las presentes adiciones y reformas a la Constitución Política del Estado Libre y Soberano de Durango, entrarán en vigor al día siguiente después de la fecha de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Las Leyes reglamentarias continuarán en vigor en lo que no se opongan a las nuevas disposiciones constitucionales, mientras el Congreso no expida las adiciones y reformas que procedan.
+
+P.O. 9 DE JULIO DE 1987.
+
+UNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
