@@ -4,7 +4,7 @@ identifier: "QUE-ley-electoral-del-estado-de-queretaro-13245"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-05"
-last_updated: "1999-12-10"
+last_updated: "2002-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ELECTORAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: EL 10 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el 5 de diciembre de 1996.
 
@@ -151,39 +151,41 @@ Los delitos electorales serán previstos por el Código Penal, correspondiendo s
 
 ###### ARTICULO 10.
 
-Para el proceso electoral, se establece una circunscripción plurinominal que comprende todo el territorio del Estado. Los Distrito Electorales uninominales para la elección de diputados por el principio de mayoría relativa se conformarán de la siguiente manera:
+Para el proceso electoral, se establece una circunscripción plurinominal que comprende todo el territorio del Estado. Los Distrito Electorales Uninominales para la elección de diputados por el principio de mayoría relativa se conformarán de la siguiente manera:
 
-Primer Distrito formado por las secciones: 439, 440, 441, 442, 443, 444, 445, 446, 452, 453, 454, 455, 456, 457, 458, 459, 461, 462, 463, 464, 465, 466, 467, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 554, 555, del Municipio de Querétaro.
+Primer Distrito formado por las secciones: 333, 338, 347, 348, 349, 350, 351, 354, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 375, 376, 377, 378, 379, 380, 382, 383, 384, 385, 390, 391, 392, 393, 394, 398, 399, 400, 401, 402, 410, 411, 412, 413, 414, 415, 417, 418, 419, 426 y 428, del Municipio de Querétaro, con un total de 50 secciones.
 
-Segundo Distrito formado por las secciones: 329, 330, 331, 339, 340, 341, 342, 343, 344, 345, 346, 355, 356, 357,358, 359, 360, 381, 395, 396, 397, 416, 427, 435, 447, 448, 449, 450, 460, 468, 469, 481, 482, 483, 484, 543, 544, 545, 546, 547, 548, 551, 552 y 553, del Municipio de Querétaro.
+Segundo Distrito formado por las secciones: 293, 315, 316, 317, 321, 322, 323, 329, 330, 331, 340, 341, 342, 343, 344, 345, 346, 355, 356, 357, 358, 359, 360, 381, 395, 396, 397, 416, 427, 517, 520, 521, 522, 527, 530, 540, 543, 544, 545, 546, 547, 548, 551, 552 y 553, del Municipio de Querétaro, con un total de 45 secciones.
 
-Tercer Distrito formado por las secciones: 266, 267, 268, 269, 270, 272, 273, 274, 279, 280, 281, 282, 283, 284, 289, 290, 291, 292, 293, 294, 297, 298, 299, 300, 301, 302, 306, 307, 308, 309, 310, 311, 312, 314, 315, 316, 317, 321, 322, 323, 324, 325, 517, 520, 521, 522, 527, 528, 530, 531, 533, 534, 535, 536, 537, 538, 540, 541 y 542 del Municipio de Querétaro.
+Tercer Distrito formado por las secciones: 266, 267, 268, 269, 270, 272, 273, 274, 279, 280, 281, 282, 283, 284, 289, 290, 291, 292, 294, 297, 298, 299, 300, 301, 302, 307, 308, 309, 310, 311, 312, 314, 516, 518, 519, 523, 524, 525, 526, 528, 529, 531, 532, 533, 534, 535, 536, 537, 538, 539, 541, 542 y 549, del Municipio de Querétaro, con un total de 53 secciones.
 
-Cuarto Distrito formado por las secciones: 271, 275, 276, 277, 278, 285, 286, 287, 288, 295, 296, 303, 304, 305, 313, 318, 319, 320, 334, 335, 336, 337, 352, 353, 372, 373, 374, 386, 387, 388, 389, 403, 404, 405, 406, 420, 516, 518, 519, 523, 524, 525, 526, 529, 532, 539, 549 y 550, del Municipio de Querétaro.
+Cuarto Distrito formado por las secciones: 271, 275, 276, 277, 278, 285, 286, 287, 288, 295, 296, 303, 304, 305, 306, 313, 318, 319, 320, 324, 325, 326, 327, 328, 332, 334, 335, 336, 337, 339, 352, 353 y 550, del Municipio de Querétaro, con un total de 33 secciones.
 
-Quinto Distrito formado por las secciones: 326, 327, 328, 332, 333, 338, 347, 348, 349, 350, 351, 354, 361, 632, 363, 364, 365, 366, 367, 368, 369, 370, 371, 375, 376, 377, 378, 379, 380, 382, 383, 384, 385, 390, 391, 392, 393, 394, 398, 399, 400, 401, 402, 407, 408, 409, 410, 411, 412, 413, 414, 415, 417, 418, 419, 421, 422, 423, 424, 425, 426, 428, 429, 430, 431, 432, 433, 434, 436, 437, 438 y 451, del Municipio de Querétaro.
+Quinto Distrito formado por las secciones: 372, 373, 374, 386, 387, 388, 389, 403, 404, 405, 406, 407, 408, 409, 420, 421, 422, 423, 424, 425, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 468, 469, 481, 482, 483 y 484, del Municipio de Querétaro, con un total de 62 secciones.
 
-Sexto Distrito que comprende los municipios de Corregidora y Huimilpan con cabecera en el Municipio de Corregidora.
+> <small>(F. DE E., P.O. 13 DE SEPTIEMBRE DE 2002)</small>
 
-Séptimo Distrito que comprende los municipios de Amealco de Bonfil y Pedro Escobedo, con cabecera en el Municipio de Amealco de Bonfil.-
+Sexto Distrito formado por las seccciones: 441, 466, 467, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 554 y 555, del Municipio de Querétaro, con un total de 47 secciones.
 
-Octavo Distrito formado por las secciones: 563, 564, 565, 567, 568, 569, 570, 571, 572, 573, 574, 576, 577, 578, 579, 580, 581, 582, 591, 605, 608, 609, 610, 611, 612, 613, 614, 616, 617, 618, 619, 620, 621, 622, 623, 625, 626, 629, 630, 636, y 639, del Municipio de San Juan del Río.
+Séptimo Distrito que comprende únicamente el Municipio de Corregidora, con un total de 25 secciones.
 
-Noveno Distrito formado por las secciones: 566, 575, 583, 584, 585, 586, 587, 588, 589, 590, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 606, 607, 615, 624, 627, 628, 631, 632, 633, 634, 635, 637, 638, 640, 641, 642, y 643, del Municipio de San Juan del Río.
+Octavo Distrito que comprende los municipios de Amealco de Bonfil y Huimilpan con cabecera en el municipio de Amealco de Bonfil, con un total de 48 secciones.
 
-Décimo Distrito comprende el Municipio de El Marqués.
+Noveno Distrito formado por las secciones: 566, 575, 583, 584, 585, 586, 587, 588, 589, 590, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 606, 607, 615, 624, 627, 628, 632, 633, 634, 635, 637, 638, 640, 641, 642 y 643, del Municipio de San Juan del Río, con un total de 39 secciones.
 
-Décimo Primer Distrito comprende los municipios de Tequisquiapan y Ezequiel Montes con cabecera en el Municipio de Tequisquiapan.
+Décimo Distrito formado por las secciones: 563, 564, 565, 567, 568, 569, 570, 571, 572, 573, 574, 576, 577, 578, 579, 580, 581, 582, 591, 605, 608, 609, 610, 611, 612, 613, 614, 616, 617, 618, 619, 620, 621, 622, 623, 625, 626, 629, 630, 631, 636 y 639, del Municipio de San Juan del Río, con un total de 42 secciones.
 
-Décimo Segundo Distrito comprende los municipios de Cadereyta de Montes y San Joaquín con cabecera en el Municipio de Cadereyta de Montes.
+Décimo Primer Distrito que comprende los municipios de Pedro Escobedo y Tequisquiapan, con cabecera en el Municipio de Pedro Escobedo, con un total de 54 secciones.
 
-Décimo Tercer Distrito comprende los municipios de Tolimán, Peñamiller y Colón con cabecera en el Municipio de Tolimán.
+Décimo Segundo Distrito que comprende únicamente el municipio de El Marqués, con un total de 28 secciones.
 
-Décimo Cuarto Distrito comprende los municipios de Pinal de Amoles y Arroyo Seco con cabecera en el Municipio de Pinal de Amoles.
+Décimo Tercero Distrito que comprende los municipios de Tolimán, Peñamiller y Colón, con cabecera en el Municipio de Tolimán, con un total de 49 secciones.
 
-Décimo Quinto Distrito comprende los municipios de Jalpan de Serra y Landa de Matamoros con cabecera en el Municipio de Jalpan de Serra.
+Décimo Cuarto Distrito que comprende los municipios de Cadereyta de Montes y Ezequiel Montes, con cabecera en el municipio de Cadereyta de Montes, con un total de 47 secciones.
 
-Cuando se requiera modificar las estructura territorial de los distritos uninominales y circunscripción plurinominal, lo determinará la Legislatura del Estado, por medio de la iniciativa de ley que para tal efecto proponga el Consejo General del Instituto, y de acuerdo con las disposiciones siguientes.
+Décimo Quinto Distrito que comprende los municipios de Arrollo Seco, Jalpan de Serra, Landa de Matamoros, Pinal de Amoles y San Joaquín, con cabecera en el Municipio de Jalpan de Serra, con un total de 65 secciones.
+
+Cuando se requiera modificar la estructura territorial de los distritos uninominales y circunscripción plurinominal, lo determinará la Legislatura del Estado, por medio de la iniciativa de ley que para tal efecto proponga el Consejo General del Instituto, y de acuerdo con las disposiciones siguientes.
 
 ## TITULO SEGUNDO
 
@@ -193,7 +195,7 @@ De la elección de los Poderes Legislativo, y Ejecutivo y de los Ayuntamientos
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
 
 ###### ARTICULO 11.
 
@@ -739,7 +741,7 @@ I. Siete consejeros electorales de entre los que será electo el Presidente del 
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-II. Un Secretario Ejecutivo, que será electo de entre los Consejeros Electorales, quien deberá contar preferentemente con título de Licenciado en Derecho y durará en su encargo un año, pudiendo ser reelecto hasta por dos períodos sucesivos. Para tal efecto el presidente del Consejo propondrá una terna.
+II. Un Secretario Ejecutivo, que será electo de entre los Consejeros Electorales, quien deberá contar preferentemente con título en Licenciado de Derecho y durará en su encargo un año, pudiendo ser reelecto hasta por dos períodos sucesivos. Para tal efecto el presidente del Consejo propondrá una terna.
 
 III. Un representante de cada uno de los partidos políticos, que por lo menos hubiesen obtenido el 1.5% de la votación total emitida en la elección inmediata anterior para diputados de mayoría relativa;
 
@@ -981,7 +983,7 @@ El Consejo General ordenará la publicación en el periódico oficial del Gobier
 
 El Consejo General integrará comisiones para la realización de los asuntos de su competencia con el número de miembros que para cada caso acuerde. El trabajo de las comisiones se sujetará a las disposiciones de esta Ley cuando así lo prevenga, o a los procedimientos que establezca el Reglamento Interior del Instituto Electoral de Querétaro.
 
-> <small>(F. DE E., P.O. 6 DE MARZO DE 1997)</small>
+> <small>(F. DE E. P.O. 6 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 75.
 
@@ -3407,7 +3409,7 @@ Décimo Quinto Distrito comprende los municipios de Jalpan de Serra y Landa de M
 
 LO TENDRA ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
-Y MANDARA SE IMPRIMA, PUBLIQUE Y OBSERVE .
+Y MANDARA SE IMPRIMA, PUBLIQUE Y OBSERVE.
 
 DADO EN EL RECINTO OFICIAL DEL PODER LEGISLATIVO A LOS VEINTE DIAS DEL MES DE NOVIEMBRE DE MIL NOVECIENTOS NOVENTA Y SEIS.
 
@@ -3534,3 +3536,13 @@ PRIMERO. Los partidos políticos con derecho al financiamiento público que part
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
 
 TERCERO. La presente Ley entrará en vigor al día siguiente de su publicación en el periódico oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 30 DE AGOSTO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día de su publicación en el periódico oficial "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
