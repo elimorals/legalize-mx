@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-transito-del-estado-de-morelos-antes-transito-138
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-05-20"
-last_updated: "1998-05-20"
+last_updated: "1999-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1999.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 20 de mayo de 1998.
 
@@ -166,6 +166,12 @@ VI.- Los Servidores Públicos de la Dirección General de Tránsito y Transporte
 El Titular del Poder Ejecutivo tendrá en materia de tránsito y transportes las atribuciones que se señalen en la Ley de la materia y demás ordenamientos aplicables.
 
 En todo caso el Gobernador del Estado podrá celebrar convenios de colaboración con los ayuntamientos, para que éstos asuman la prestación de uno o ambos servicios, en los mismos términos y condiciones a que se refiere el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 6
+
+Bis.- Corresponde a los Presidentes Municipales y a los servidores públicos que ellos designen dentro de sus respectivos ámbitos de competencia y jurisdicciones territoriales, la facultad de imponer las multas con motivo de la comisión de infracciones de tránsito que este Reglamento establece, así como su recaudación, administración y disposición a través de las oficinas administrativas que para ello autoricen.
 
 ###### ARTICULO 7.
 
@@ -3454,3 +3460,15 @@ HUGO SALGADO CASTAÑEDA
 SECRETARIO GENERAL DE GOBIERNO.
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE NOVIEMBRE DE 1999.
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones administrativas que se opongan a lo establecido en este Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
