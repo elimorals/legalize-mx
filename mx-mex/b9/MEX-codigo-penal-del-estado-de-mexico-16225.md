@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2003-09-03"
+last_updated: "2004-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DEL 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ABRIL DE 2004.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -601,7 +601,7 @@ El órgano jurisdiccional, al dictar sentencia, fijará la pena que estime justa
 
 I. La naturaleza de la acción u omisión y de los medios empleados para ejecutarla;
 
-> <small>(F. DE E., G.G 3 DE ABRIL DE 2000)</small>
+> <small>(F. DE E., G.G. 3 DE ABRIL DE 2000)</small>
 
 II. La magnitud del daño causado al bien jurídico y del peligro a que hubiere sido expuesto el ofendido;
 
@@ -879,6 +879,8 @@ La muerte del inculpado extingue la pretensión punitiva, incluso la pena impues
 
 ### CAPITULO VIII. PERDON DEL OFENDIDO
 
+> <small>(REFORMADO, G.G. 1 DE ABRIL DE 2004)</small>
+
 ###### Artículo 89.
 
 La amnistía extingue la pretensión punitiva y todas las consecuencias jurídicas del delito, como si éste no se hubiere cometido, sin perjuicio de la reparación del daño.
@@ -897,15 +899,13 @@ El indultado no podrá habitar en el mismo lugar que el ofendido, su cónyuge, a
 
 ###### Artículo 91.
 
-El perdón del ofendido extingue la pretensión punitiva respecto de los delitos que se persiguen por querella necesaria, siempre que sea otorgado antes de que se dicte sentencia en primera instancia. Otorgado el perdón y no habiendo oposición a él no podrá revocarse.
+El perdón del ofendido extingue la pretensión punitiva y la pena en su caso, respecto de los delitos que se persiguen por querella necesaria. Otorgado el perdón y no habiendo oposición a él, no podrá revocarse.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
-
-El perdón puede ser otorgado por el ofendido o por su representante legal si aquél fuese menor de edad o estuviera incapacitado; pero el órgano jurisdiccional, en este último caso deberá, a su prudente arbitrio, conceder o no eficacia al otorgado por el representante y en caso de no aceptarlo, seguir la causa.
+El perdón puede ser otorgado por el ofendido o por su representante legal, si aquél fuese menor de edad o estuviera incapacitado; pero el órgano jurisdiccional o el Ministerio Público, en este último caso, deberán a su prudente arbitrio, conceder o no eficacia al otorgado por el representante y en caso de no aceptarlo, seguir el procedimiento.
 
 El perdón concedido a uno de los inculpados se extenderá a todos los demás. Igualmente se extenderá al encubridor.
 
-Si la resolución es recurrida, podrá otorgarse el perdón del ofendido hasta antes de que se dicte la resolución correspondiente.
+El perdón podrá se (sic) otorgado en cualesquiera de las etapas del procedimiento penal. Si la sentencia ha causado ejecutoria, el ofendido podrá otorgarlo ante el tribunal de alzada, para los efectos de lo dispuesto en la fracción III del artículo 306 del Código de Procedimientos Penales para el Estado de México.
 
 ### CAPITULO XI. REGLAS GENERALES DE LA PRESCRIPCION
 
@@ -2441,7 +2441,7 @@ A quien sabiendo que padece una enfermedad grave en período infectante, ponga e
 
 En este delito sólo se procederá por querella del ofendido.
 
-> <small>(DEROGADO TERCER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(DEROGADO TERCER PARRAFO, G. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO VI. DAÑO EN LOS BIENES
 
@@ -2779,7 +2779,7 @@ V. Cuando se cometa el robo de un vehículo automotor, de una o más de las part
 
 VI. Cuando se cometa aprovechando la falta de vigilancia o la confusión ocasionado por un siniestro o un desorden de cualquier tipo, se impondrán de dos a siete años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
 
-Si se comete por elementos pertenecientes a una corporación de auxilio, socorro u organismos similares o por miembros de alguna corporación policíaca, además de la pena anterior, se agregarán de dos a cuatro años de prisión y destitución definitiva del cargo e inhabilitación por veinte años para desempeñar empleo, cargo o comisión públicos;
+Si se comete por elementos pertenecientes a una corporación de auxilio, socorro u organismos similares o por miembros de alguna corporación policiaca, además de la pena anterior, se agregarán de dos a cuatro años de prisión y destitución definitiva del cargo e inhabilitación por veinte años para desempeñar empleo, cargo o comisión públicos;
 
 VII. Cuando lo cometa un dependiente o un doméstico contra su patrón, algún miembro de su familia, huésped o invitado, en cualquier parte que lo cometa, se impondrán de tres meses a tres años de prisión.
 
@@ -2843,11 +2843,21 @@ En todo caso de robo, el juez podrá suspender al inculpado, de un mes a seis a�
 
 El delito de robo es perseguible por querella del ofendido en los siguientes casos:
 
-I. El robo a que se refieren los artículos 288 fracciones I a III y 291, siempre que no concurra alguna de las circunstancias a que se refieren las fracciones I a VI y XI del artículo 290;
+> <small>(REFORMADA, G.G. 1 DE ABRIL DE 2004)</small>
 
-II. Cuando se cometa por el suegro contra el yerno o nuera o viceversa, por el padrastro o madrastra contra su hijastro o hijastra o viceversa o por parientes consanguíneos hasta el cuarto grado;
+I. El robo a que se refieren los artículos 288 fracciones I, II y III y 291, siempre que no concurra alguna de las circunstancias a que se refieren las fracciones I, II, III, IV, V y VI del artículo 290;
 
-III. Respecto a la persona que intervenga en el robo cometido por un ascendiente en contra de su descendiente o viceversa, por un cónyuge contra el otro, por el concubinario contra la concubina o viceversa y por el adoptante contra el adoptado o viceversa y sea ajeno a ellos.
+> <small>(REFORMADA, G.G. 1 DE ABRIL DE 2004)</small>
+
+II. El robo a que se refieren los artículos 289 fracciones I, II, III y VI; 290 fracciones VII, VIII, IX, X y XI, siempre que no concurra alguna de las circunstancias a que se refieren las fracciones I, II, III, IV, V y VI de este último artículo y que el sujeto activo sea primodelincuente; circunstancias que deberán verificarse fehacientemente con los elementos necesarios, entre otros, los antecedentes penales que obren en los archivos correspondientes, por el Ministerio Público Investigador o por la autoridad judicial, en su caso;
+
+> <small>(REFORMADA, G.G. 1 DE ABRIL DE 2004)</small>
+
+III. Cuando se cometa por el suegro contra el yerno o nuera o viceversa, por el padrastro o madrastra contra su hijastro o hijastra o viceversa o por parientes consanguíneos hasta el cuarto grado;
+
+> <small>(ADICIONADA, G.G. 1 DE ABRIL DE 2004)</small>
+
+IV. Respecto a la persona que intervenga en el robo cometido por un ascendiente en contra de su descendiente o viceversa, por un cónyuge contra el otro, por el concubinario contra la concubina o viceversa y por el adoptante contra el adoptado o viceversa y sea ajeno a ellos.
 
 ###### Artículo 296.
 
@@ -3320,3 +3330,11 @@ G.G. 3 DE SEPTIEMBRE DEL 2003.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 1 DE ABRIL DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Las disposiciones contenidas en los artículos 91 y 295 del Código Penal del Estado de México, anteriores a esta reforma, se aplicarán respecto de los hechos u omisiones que hayan sido ejecutados durante su vigencia, a menos que los sujetos soliciten, en su beneficio, la aplicación de los preceptos normativos contenidos en el presente decreto.
