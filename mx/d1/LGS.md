@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "1995-07-26"
+last_updated: "1996-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JULIO DE 1996.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 7 de febrero de 1984.
 
@@ -3846,11 +3846,13 @@ Los permisos a que se refiere este artículo sólo podrán ser expedidos por la 
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
-> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 376.
 
 Requieren registro sanitario los medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan; los equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico materiales quirúrgicos, de curación y productos higiénicos; así como los plaguicidas, fertilizantes y substancias tóxicas y las materias primas que intervengan en su elaboración. El registro sólo podrá ser otorgado por la Secretaría de Salud y será por tiempo indeterminado, sin perjuicio de lo establecido en el artículo 378 de esta ley.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 376 Bis.
 
@@ -3859,8 +3861,6 @@ El registro sanitario a que se refiere el artículo anterior se sujetará a los 
 I.- En el caso de medicamentos, estupefacientes y psicotrópicos, la clave de registro será única, no pudiendo aplicarse la misma a dos productos que se diferencien, ya sea en su denominación genérica o en su formulación. Por otra parte, el titular de un registro, no podrá serlo de dos registros que ostenten el mismo principio activo, forma farmacéutica o formulación, y
 
 II.- En el caso de los productos que cita la fracción II del artículo 194, podrá aceptarse un mismo número de registro para líneas de producción del mismo fabricante, a juicio de la Secretaría.
-
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 377.
 
@@ -4705,5 +4705,9 @@ D.O.F. 24 DE OCTUBRE DE 1994.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 D.O.F. 26 DE JULIO DE 1995.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 9 DE JULIO DE 1996.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
