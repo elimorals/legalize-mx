@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1936-08-31"
+last_updated: "1938-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 1936.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1938.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -54,17 +54,13 @@ Las únicas monedas circulantes serán:
 
 a). Los billetes del Banco de México, con las denominaciones que fijen sus Estatutos;
 
-> <small>(F. DE E., D.O.F. 14 DE OCTUBRE DE 1936)</small>
-
-b). Los Certificados Monetarios de que trata el artículo siguiente;
+b). (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1938)
 
 c). Las monedas de plata de un peso y de cincuenta y veinte centavos, con los tamaños, pesos, cuños, ley de 0.720 (setecientos veinte milésimos) y demás características que se establecen en el Decreto de 27 de octubre de 1919;
 
 d). Las monedas fraccionarias de cupro-níquel, con las denominaciones de diez y cinco centavos y los tamaños, pesos, cuños, composición y demás características que se establecen en el Decreto de 26 de marzo de 1936;
 
 e). Las monedas fraccionarias de bronce de dos centavos y un centavo, con los tamaños, pesos, cuños, composición y demás características que se establecen en la Ley de 25 de marzo de 1905.
-
-(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936) (F. DE E., D.O.F. 14 DE OCTUBRE DE 1936)
 
 ###### ARTICULO 2o.
 
@@ -90,7 +86,7 @@ Las monedas de bronce de dos centavos y un centavo a que se refiere el inciso e)
 
 Las oficinas públicas de la Federación, de los Estados y de los Municipios, estarán obligadas a recibir las monedas a que se refiere el artículo que antecede, sin limitación alguna, en pago de toda clase de impuestos, servicios o derechos.
 
-(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936) (F. DE E., D.O.F. 14 DE OCTUBRE DE 1936)
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1938)</small>
 
 ###### ARTICULO 8°.
 
@@ -178,13 +174,13 @@ Se declaran libres la exportación y la importación de oro acuñado o en pasta,
 
 ###### ARTICULO 3°.
 
-Los Certificados Monetarios de que habla el inciso b) del artículo anterior serán emitidos por el Banco de México, con valor de cinco pesos, en representación de monedas de plata de curso legal o de plata amonedada o en barras, a razón de doce gramos de plata pura por cada peso, moneda nacional, que los mismos importen. El Banco de México quedará obligado a canjear tales Certificados por billetes o por monedas metálicas, a elección del tenedor, debiendo, en consecuencia, incluir dichos títulos entre sus responsabilidades y conservar, en cuenta separada y como parte de sus recursos, las monedas y el metal por ellos representados.
+(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1938)
 
-(ADICIONADO, D.O.F. 31 DE AGOSTO DE 1936) (F. DE E., D.O.F. 14 DE OCTUBRE DE 1936)
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1938)</small>
 
 ###### ARTICULO 4°.
 
-Los billetes del Banco de México y los Certificados Monetarios que éste emita, conforme al artículo que antecede, tendrán poder liberatorio ilimitado.
+Los billetes del Banco de México tendrán poder liberatorio ilimitado.
 
 > <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
 
@@ -204,7 +200,7 @@ Las demás monedas de plata y fraccionarias retiradas de la circulación, serán
 
 ###### ARTICULO 7°.
 
-La obligación de pagar cualquier suma en moneda mexicana, se solventará entregando por su valor nominal y hasta el límite de su respectivo poder liberatorio, billetes del Banco de México, Certificados Monetarios emitidos por dicha Institución de Crédito o monedas metálicas de curso legal.
+La obligación de pagar cualquier suma en moneda mexicana se solventará entregando por su valor nominal y hasta el límite de su respectivo poder liberatorio, billetes del Banco de México, o monedas metálicas de curso legal.
 
 > <small>(REFORMADO, D.O.F. 6 DE MARZO DE 1935)</small>
 
@@ -395,6 +391,10 @@ c).- La moneda de bronce de cinco centavos que estableció el Decreto de 15 de o
 d).- La moneda de níquel de cinco centavos que estableció la Ley de 25 de marzo de 1905.
 
 Se autoriza la circulación provisional de las monedas a que se refiere este artículo transitorio, durante el plazo concedido para el canje, exceptuándose la moneda de níquel de cinco centavos ya mencionada, la cual dejará de circular desde luego.
+
+D.O.F. 29 DE DICIEMBRE DE 1938.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
 ###### ARTICULO 3°.
 
