@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1997-03-08"
+last_updated: "1997-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 1997.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -317,6 +317,10 @@ Queda estrictamente prohibida la formación de toda clase de agrupaciones polít
 
 Fuera de las prohibiciones de los dos párrafos anteriores, no se considerará ilegal y no podrá ser disuelta una asamblea o reunión que tenga por objeto hacer una petición o presentar una protesta por algún acto de una autoridad, si no se profieren injurias contra ésta, ni se hace uso de violencias o amenazas para intimidarla u obligarla a resolver en el sentido que se desea.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 1997)</small>
+
+Ninguna organización o individuo podrá establecer condiciones o conductas que tiendan a evitar a sus agremiados su participación política o la emisión del voto por el partido de su preferencia.
+
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO 20.
@@ -423,11 +427,15 @@ I.- Votar en las elecciones populares.
 
 II.- Ser votados para los cargos de elección popular y ser promovidos a cualquier empleo o comisión conforme a las leyes.
 
-III.- Alistarse en la guardia nacional para la defensa del territorio y de las instituciones de la República y del Estado, en los términos que prescriben las leyes.
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 1997)</small>
+
+III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado.
+
+IV.- Alistarse en la guardia nacional para la defensa del territorio y de las instituciones de la República y del Estado, en los términos que prescriben las leyes.
 
 > <small>(ADICIONADA, P.O. 15 ENERO DE 1983)</small>
 
-IV.- Colaborar voluntariamente en los trabajos colectivos gratuitos para beneficio de la comunidad a que pertenecen, sobre todo en caso de catástrofes, terremotos, inundaciones, incendios, etc., que implican una solidaridad voluntaria y moral a este fin.
+V.- Colaborar voluntariamente en los trabajos colectivos gratuitos para beneficio de la comunidad a que pertenecen, sobre todo en caso de catástrofes, terremotos, inundaciones, incendios, etc., que implican una solidaridad voluntaria y moral a este fin.
 
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
@@ -563,7 +571,7 @@ Partiendo del "CERRO MARTINEZ" con rumbo S13°00'O en línea recta hasta el "CER
 
 ## TITULO CUARTO. Del Gobierno del Estado
 
-### CAPITULO I. De la Forma de Gobierno y División de Poderes
+### CAPITULO II. Del Poder Legislativo
 
 ###### ARTICULO 29.
 
@@ -583,7 +591,7 @@ Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos
 
 El Poder Público del Estado se divide, para el ejercicio de sus funciones en Legislativo, Ejecutivo y Judicial, los cuales desarrollarán sus funciones en la forma y términos previstos en esta Constitución. No podrán reunirse en uno solo de ellos, cualesquiera de los otros dos, como tampoco delegarse o invadirse atribuciones, a excepción de los casos previstos en el Artículo 62 de este documento.
 
-### CAPITULO II. Del Poder Legislativo
+### CAPITULO I. De la Forma de Gobierno y División de Poderes
 
 #### SECCION PRIMERA. De la Legislatura
 
@@ -669,11 +677,15 @@ La vecindad no se pierde por ausencia debida al desempeño de otros cargos públ
 
 El Gobernador del Estado no puede ser electo diputado durante el período de su ejercicio.
 
-El Secretario General de Gobierno, los Secretarios de los diferentes ramos de la Administración Pública Estatal, Subsecretarios de Gobierno, el Procurador General de Justicia, el Contador Mayor de Hacienda de la Cámara de Diputados, los funcionarios de la Federación, militares en servicio activo y los servidores públicos con facultades ejecutivas, sólo pueden ser electos si se separan de sus cargos con 120 días de anticipación a la fecha de la elección.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1997)</small>
+
+Los Magistrados del Tribunal Superior de Justicia, el Secretario General de Gobierno, los Secretarios de los diferentes ramos de la Administración Pública Estatal, Subsecretarios de Gobierno, el Procurador General de Justicia, el Contador Mayor de Hacienda de la Cámara de Diputados, los funcionarios de la Federación, militares en servicio activo y los servidores públicos con facultades ejecutivas, sólo pueden ser electos si se separan de sus cargos con 120 días de anticipación a la fecha de su elección.
 
 Para los efectos de esta última disposición se consideran también como militares en servicio activo, los jefes y oficiales de las fuerzas de seguridad pública del Estado, cualesquiera que sea su denominación.
 
-Los Magistrados del Tribunal Superior de Justicia no podrán ser electos para ningún cargo de elección popular, sino hasta después de transcurridos dos años de haberse separado de su cargo.
+(REFORMADO, 29 DE SEPTIEMBRE DE 1997) (F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)
+
+Los Magistrados del Tribunal Estatal Electoral; el Presidente del Consejo General del Instituto Estatal Electoral, así como el Director y Secretario Generales del Instituto mencionado, no podrán ser electos para ningún cargo de elección popular, sino hasta después de transcurridos dos años de haberse separado de su cargo.
 
 ###### ARTICULO 36.
 
@@ -777,7 +789,9 @@ III. Al Tribunal Superior de Justicia en todo lo administrativo y orgánico judi
 
 IV. A los Ayuntamientos en los asuntos que incumben a los Municipios, por lo que se refiere a sus respectivas localidades;
 
-V. A los ciudadanos del Estado en todos los ramos de la administración.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 1997)</small>
+
+V. A todos los ciudadanos del Estado.
 
 ###### ARTICULO 51.
 
@@ -893,11 +907,13 @@ XX. Dar bases generales conforme a las cuales el Ejecutivo pueda concertar empr�
 
 XXI. Dictar las disposiciones necesarias para liquidar y amortizar las deudas que tuviere el Estado;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 1997)</small>
 
-XXII. Convocar a elecciones de Gobernador, Diputados y Concejales Municipales, en los períodos constitucionales o cuando por cualquier causa hubiere falta absoluta de esos servidores públicos;
+XXII. Emitir el Decreto correspondiente para que el Instituto Estatal Electoral convoque a elección de Gobernador, Diputados y Concejales Municipales en los periodos constitucionales o cuando por cualquier causa hubiere falta absoluta de estos servidores públicos;
 
-XXIII. Erigirse en Colegio Electoral para hacer la computación de votos en la elección de Gobernador, y hacer la declaración que corresponda;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 1997)</small>
+
+XXIII. Conocer y declarar la elección de Diputados, Gobernador y Concejales de los Ayuntamientos y emitir el Decreto correspondiente;
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -1371,7 +1387,7 @@ II. Observar las leyes o decretos que la Legislatura expidiere ejerciendo las fa
 
 III. Impedir que las elecciones se efectúen en los días señalados y con las formalidades exigidas por la ley.
 
-IV. Impedir por motivo alguno, directa ni indirectamente, el libre ejercicio de las funciones de la Legislatura.
+IV. Impedir por motivo alguno directa ni indirectamente, el libre ejercicio de las funciones de la Legislatura.
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -2217,43 +2233,67 @@ Las Leyes determinarán los casos y las circunstancias en los que se deban sanci
 
 Cualquier Ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Cámara de Diputados del Estado, respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 1997)</small>
 
 ## TÍTULO DÉCIMO
 
 ###### ARTICULO 141.
 
-Podrán ser sujetos de juicio político los Diputados de la Legislatura Local, los Magistrados del Tribunal Superior de Justicia, los Titulares de las Secretarías y el Procurador General de Justicia.
+Podrán ser sujetos de juicio político los Diputados de la Legislatura Local; los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director y el Secretario Generales y los Consejeros Electorales del Instituto Estatal Electoral.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 Las sanciones consistirán en la destitución del servidor público y en su caso inhabilitación para desempeñar sus funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
 Para la aplicación de las sanciones a que se refiere este precepto, el Congreso del Estado integrará una Comisión de Diputados, de acuerdo a las normas que rigen su funcionamiento, la que se encargará de analizar la acusación y que a su vez sustanciará el procedimiento respectivo con audiencia del inculpado; para que posteriormente proceda a emitir su dictamen.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 Conociendo el dictamen el Congreso del Estado, erigido en Jurado de Sentencia, aplicará la sanción respectiva mediante resolución de las dos terceras partes de los integrantes de la Legislatura, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
 Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 1997)</small>
 
 ## TÍTULO DÉCIMO PRIMERO. De los Contenidos Audiovisuales
 
 ###### ARTICULO 142.
 
-Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Titulares de las Secretarías y el Procurador General de Justicia, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los Diputados al Congreso del Estado; los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director General, el Secretario General y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría calificada si ha o no lugar a proceder contra el inculpado.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 Si la resolución de la Cámara fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluido el ejercicio de su encargo, pues la resolución no prejuzga los fundamentos de la imputación.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
 Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen conforme a la Ley.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 Por lo que se refiere al Gobernador del Estado, sólo habrá lugar a acusarlo ante la Cámara de Diputados en los términos de los artículos 110 de la Constitución Federal y 81 de esta Constitución. En este supuesto, la Cámara de Diputados resolverá con base en la Legislación penal aplicable.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
 Las declaraciones y resoluciones de la Cámara de Diputados son inatacables.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
 En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
 Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
 
@@ -2714,6 +2754,10 @@ TERCERO.- Se autoriza a los integrantes de la Quincuagésima Sexta Legislatura d
 P.O. 8 DE MARZO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 1997.
+
+ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
