@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-prestacion-de-los-servicios-de-agua-y-10663"
 country: "mx"
 rank: "reglamento"
 publication_date: "1966-08-24"
-last_updated: "1966-08-24"
+last_updated: "2003-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10663&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA PRESTACION DE LOS SERVICIOS DE AGUA Y DRENAJE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de agosto de 1966.
 
@@ -109,13 +109,25 @@ Las obras de reposición total o parcial o de simple reparación de las tubería
 
 Las cuotas por los servicios de agua y drenaje se cobrarán de acuerdo con las tarifas aprobadas por el Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 18.
 
-Las cuotas o tarifas deberán ser cubiertas en las oficinas de la Institución o en las instituciones autorizadas, por mensualidades vencidas, precisamente dentro del mes que siga a la expedición del recibo correspondiente.
+Las cuotas o tarifas deberán ser pagadas por mensualidades vencidas en las oficinas comerciales recaudadoras de la Institución, en las instituciones bancarias y tiendas de conveniencia o de autoservicio autorizadas por aquella, salvo cuando el Usuario haya recibido un aviso de corte o reducción de servicio, deberá de pagar directamente en las oficinas, comerciales recaudadoras de la Institución, dentro del plazo que indica el recibo o factura correspondiente.
 
-Pasado el término anterior para sin que los propietarios satisfagan el importe del servicio, sufrirán un cargo del 2% mensual sobre el valor de las cuotas y la institución procederá a hacer efectivo el adeudo por la vía económica-coactiva por conducto de la Tesorería General del Estado en los términos del artículo 16 del Decreto No. 41.
+No recibir la factura o recibo del servicio, no releva al Usuario del pago de las cuotas y tarifas, por los servicios que presta Servicios de Agua y Drenaje de Monterrey, I.P.D.
 
-Ni las cuotas ni los recargos serán susceptibles de condonación.
+Pasado el término para el pago establecido por la Institución en el recibo o factura, sin que los titulares del contrato o propietarios e incluso los usuarios reales de los servicios satisfagan el importe determinado del servicio, sufrirán la imposición automática de un recargo por cada mes o fracción que se retarde el pago, que será igual a la tasa que disponga la Ley de Ingresos del Estado de Nuevo León.
+
+El pago de los servicios se presumirá hecho por el titular del contrato.
+
+La Institución podrá condonar las cuotas y las tarifas, según las facultades que prevén los artículos 2, 8 Y 9 de la Ley que Crea a la Institución Pública Descentralizada denominada Servicios de Agua y Drenaje de Monterrey, fijando el Consejo de Administración los términos, mecanismos, condiciones y alcance de estas condonaciones de cuotas y tarifas, as! como de los recargos derivados de la omisión del pago oportuno de éstas, en su caso, cuya ejecución estará a cargo de la persona o personas que designe ese Órgano de Gobierno de la Institución.
+
+Las cuotas de aportación para obras de infraestructura podrán sujetarse a convenios de compensación contra las obligaciones que la Institución tenga frente al obligado en el pago de éstas.
+
+La falta de pago de tres o más mensualidades, faculta a la Institución para suspender los servicios, salvo en los casos de que se trate de edificios destinados a la prestación de servicios asistenciales o de salud, en los que por razones de salud pública o seguridad no sea conveniente proceder a la suspensión. En el caso de viviendas habitadas, el servicio no será suspendido ni se podrá retirar el medidor; únicamente se podrá reducir el suministro.
+
+Si persiste la falta de pago por seis o más mensualidades, la Institución podrá ejercer la facultad económico-coactiva a través de la Secretaría de Finanzas y Tesorería General del Estado, para hacer efectivos los adeudos.
 
 ###### ARTICULO 19.
 
@@ -198,3 +210,9 @@ LIC. EDUARDO LIVAS VILLARREAL.
 El Secretario General de Gobierno,
 
 PROFR. HUMBERTO RAMOS LOZANO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE MAYO DE 2003.
+
+ÚNICO: La presente reforma por modificación entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
