@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-regula-la-administracion-de-documentos-publicos-e-11864
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-08"
-last_updated: "2002-07-09"
+last_updated: "2005-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE REGULA LA ADMINISTRACION DE DOCUMENTOS PUBLICOS E HISTORICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 2005.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 8 de enero de 1998.
 
@@ -49,9 +49,7 @@ La presente Ley es de orden e interés público, sus disposiciones son de observ
 
 I. Regular la administración, manejo, cuidado y consulta de los documentos públicos e históricos que estén a cargo de los poderes del estado, de los municipios y demás dependencias de la administración pública;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
-
-II. Garantizar el acceso de los particulares a los documentos públicos de los Poderes, organismos públicos autónomos y sus dependencias y entidades conforme al principio de publicidad de los actos y actividades que realizan;
+II. (DEROGADA, P.O. 6 DE ENERO DE 2005)
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
 
@@ -137,13 +135,13 @@ XIII. La Comisión: La Comisión Dictaminadora, es el organismo técnico del Sis
 
 XIV. Depuración: Procedimiento de clasificación de los documentos que por su valor histórico, cultural o de interés público, son objeto de conservación, registro y cuidado, así como la eliminación de aquellos que sean irrelevantes para el estado y la colectividad.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2005)</small>
+
 ###### Artículo 3º.
 
-Los poderes públicos del estado, los municipios y las dependencias de la administración pública, en el manejo de los documentos administrativos e históricos que tengan bajo su custodia, se sujetarán a lo establecido en la presente ley y demás disposiciones que se dicten al respecto.
+Los poderes públicos del Estado, los municipios y las dependencias de la administración pública, en el manejo de los documentos administrativos e históricos que tengan bajo su custodia, se sujetarán a lo establecido en la presente ley, la Ley de Transparencia e Información Pública del Estado de Jalisco y demás disposiciones que se dicten al respecto.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
-
-Los ayuntamientos en el ámbito de su competencia deben expedir ordenamientos municipales de acuerdo con los criterios establecidos en la presente ley y fijar los procedimientos administrativos necesarios para garantizar el acceso de los particulares a sus documentos públicos.
+Los Ayuntamientos en el ámbito de su competencia deben expedir ordenamientos municipales para garantizar el acceso a los particulares a los documentos públicos, en los términos de la Ley de Transparencia e Información Pública del Estado de Jalisco.
 
 (REFORMADO, P.O. 9 DE JULIO DE 2002) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
 
@@ -183,39 +181,17 @@ VII. Las demás disposiciones normativas en la materia.
 
 ### Capítulo II. Del patrimonio documental público histórico y reservado
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2005)</small>
 
-###### Artículo 6º.
+###### Artículo 6.
 
-Son documentos públicos, documentos escritos, fotografías, grabaciones, soporte magnético o digital, o en cualquier otro elemento técnico que haya sido creado u obtenido por los Poderes del Estado, municipios, y demás dependencias de la administración pública en el ejercicio de sus funciones, y que se encuentre en su posesión y bajo su control; y constituyen el patrimonio documental e histórico del estado.
+Son documentos públicos aquellos que contengan información pública conforme a la Ley de Transparencia e Información Pública del Estado de Jalisco.
 
-(REFORMADO, P.O. 9 DE JULIO DE 2002) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2005)</small>
 
-###### Artículo 7º.
+###### Artículo 7.
 
-Los documentos públicos de acceso inmediato de los poderes del estado, los Municipios y demás dependencias de la administración pública son:
-
-I. Las Constituciones Políticas del Estado de Jalisco;
-
-II. Los códigos y leyes;
-
-III. Los reglamentos;
-
-IV. Los presupuestos de egresos, y cuentas públicas;
-
-V. Las actas de sesiones;
-
-VI. Los decretos de todo género, iniciativas de leyes, las minutas, el Diario de Debates, El Periódico Oficial "El Estado de Jalisco", las gacetas municipales;
-
-VII. Los convenios, contratos y escrituras, en los cuales participe el gobierno del estado o sus municipios, como promotores o generadores por si mismos;
-
-VIII. Los productos documentales derivados, como son los planos, videos, fotografías, cassettes, películas, discos compactos, discos ópticos y cualquier otro formato que constituyen parte de los mencionados; y
-
-IX. Los libros, folletos, enciclopedias y colecciones que integran los acervos públicos; así como los producidos por los poderes públicos, los municipios y las dependencias de la administración pública.
-
-> <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)</small>
-
-Las autoridades a que se refiere esta ley deben establecer los mecanismos de accesibilidad inmediata de los documentos públicos a que se refiere el presente artículo, de manera tal que se facilite el uso por los particulares.
+Los documentos públicos serán de libre acceso conforme a las disposiciones de la Ley de Transparencia e Información Pública del Estado de Jalisco.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2002)</small>
 
@@ -231,37 +207,15 @@ Los servidores públicos o particulares que custodien documentos históricos son
 
 Los documentos históricos o los que debido a su estado no pueden ser consultados sin ser destruidos o dañados, deben ser respaldados a través de elementos técnicos que permitan su consulta sin menoscabo de los documentos originales.
 
-(ADICIONADO, P.O. 9 DE JULIO DE 2002) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2005)</small>
 
-Artículo 7 B.- Son documentos reservados, los que contiene información que de acuerdo a la Ley de Transparencia e Información Pública, se encuentra como reservada, le corresponde a los entes públicos realizar el análisis y la clasificación de la información, determinando su carácter de pública o reservada.
+Artículo 7B.- Son documentos reservados, aquellos que conforme a la Ley de Transparencia e Información Pública del Estado de Jalisco contengan información de carácter reservado y su acceso por parte de los particulares se regulará conforme a las disposiciones de la ley anterior.
 
-Los documentos que contengan información que ha sido clasificada como reservada pueden permanecer con ese carácter hasta por un período máximo de veinte años, incorporándose como documentos de consulta e interés público pasado dicho plazo o cumplida la condición que dio origen a su reserva.
+Los documentos reservados no serán sometidos al proceso de depuración hasta que finalice el plazo de su reserva, de acuerdo a las disposiciones de la ley anterior.
 
-El tiempo para la depuración de estos tipos de documentos, se empezará a computar a partir de que pasan a ser documentos de interés público.
+REFORMADO, P.O. 6 DE ENERO DE 2005)
 
-Dentro de los documentos públicos reservados se consideran los de acceso limitado, que son aquellos a los que pueden acceder quienes demuestren fehacientemente tener interés jurídico directo en el negocio de que se trate.
-
-Son documentos de acceso limitado para los efectos de esta ley, los que contengan:
-
-I. Las averiguaciones previas;
-
-II. Los expedientes y tocas judiciales o los procedimientos administrativos de cualquier tipo, seguidos en forma de juicio;
-
-> <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)</small>
-
-III. Los procedimientos de responsabilidades de los servidores públicos en tanto no se halla resolución definitiva;
-
-IV. El contenido de las investigaciones, estudios y análisis por quejas en contra de los actos u omisiones de los servidores públicos, autoridades estatales o municipales, realizados por la Comisión Estatal de Derechos Humanos; y
-
-V. La que se ocupe de cuestiones relativas a los derechos personalísimos y a la esfera de intimidad de la persona, referente a las circunstancias familiares íntimas o de salud de esa persona.
-
-Cualquier persona o su representante puede solicitar documentos de acceso limitado, sin embargo ésta sólo puede obtenerse por quienes demuestren fehacientemente que tienen un legítimo interés jurídico en el negocio de que se trate y para allegarse de ella se debe estar a lo dispuesto por las leyes o reglamentos de los entes públicos generadores o de quienes guarden su custodia.
-
-Los documentos que contienen la información a que se refiere el artículo anterior conservan la calidad de acceso limitado hasta en tanto no haya concluido su trámite, exista disposición expresa por parte de la autoridad generadora o bien, haya transcurrido el plazo a que se refiere éste artículo.
-
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2002)</small>
-
-Artículo 7 C.- Para el acceso a los documentos que no se encuentren en los supuestos de los tres artículos anteriores, se estará al procedimiento dispuesto por la Ley de Transparencia e Información Pública.
+Artículo 7C.- El acceso a los documentos que no sean reservados se estará a lo dispuesto por la Ley de Transparencia e Información Pública del Estado de Jalisco.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JULIO DE 2002)</small>
 
@@ -349,9 +303,11 @@ Los documentos que obren en los archivos histórico o generales, serán de consu
 
 (DEROGADO, P.O. 9 DE JULIO DE 2002)
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2005)</small>
+
 ###### Artículo 20.
 
-Los usuarios de los documentos de interés público, acatarán las disposiciones que establezcan los respectivos archivos, con relación al acceso, manejo y cuidado de éstos.
+Los usuarios de los documentos de interés público acatarán las disposiciones de la Ley de Transparencia e Información Pública del Estado de Jalisco, con relación al acceso de los mismos.
 
 ###### Artículo 21.
 
@@ -395,11 +351,11 @@ El Archivo Histórico de Jalisco, se integrará con los documentos que expida el
 
 La Secretaría General de Gobierno tendrá a su cargo la Dirección General de Archivos, así como el Archivo Histórico del Estado, y el Archivo de Concentración; y apoyará las dependencias de la administración pública y a los municipios, en lo relativo a la organización y funcionamiento de sus archivos de trámite o generales.
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE Y 19 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2005)</small>
 
 ###### Artículo 27.
 
-El Oficial Mayor del Congreso del Estado estará a cargo del Archivo General del Poder Legislativo del Estado de Jalisco, que se integrará por todos aquellos documentos que emanen de ese poder y los que reciba o adquiera por cualquier título legal.
+El Secretario General del Congreso del Estado estará a cargo del Archivo General del Poder Legislativo del Estado de Jalisco, que se integrará por todos aquellos documentos que emanen de ese poder y los que reciba o adquiera por cualquier título legal.
 
 > <small>(F. DE E., P.O. 12 DE OCTUBRE Y 19 DE NOVIEMBRE DE 2002)</small>
 
@@ -487,9 +443,17 @@ I. El titular de la Dirección General de Archivos del Estado de Jalisco, quien 
 
 II. El Titular del Archivo Histórico del Estado de Jalisco;
 
-III. El Titular de los archivos generales de los poderes Legislativo y Judicial del estado; y
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2005)</small>
 
-IV. Los titulares de los archivos generales municipales, cuya representación será regional, de manera que se mantenga de forma permanente la adecuada representación regional ante el mismo.
+III. El Titular de los archivos generales de los poderes Legislativo y Judicial del estado;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2005)</small>
+
+IV. Los titulares de los archivos generales municipales, cuya representación será regional, de manera que se mantenga de forma permanente la adecuada representación regional ante el mismo; y
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2005)</small>
+
+V. El Presidente del Instituto de Transparencia e Información Pública de Jalisco.
 
 La representación regional a que se refiere el párrafo anterior, se establecerá en el Reglamento Interior del Sistema Estatal.
 
@@ -545,7 +509,7 @@ IX. Informar trimestralmente a la coordinación del Sistema Estatal de las activ
 
 X. Realizar las publicaciones que difundan información sobre los archivos histórico y generales;
 
-XI. Elaborar el programa y el reglamento sobre el uso y consulta pública de los documentos objetos de esta ley;
+XI. (DEROGADA, P.O. 6 DE ENERO DE 2005)
 
 XII. Informar a la Secretaría en materia de patrimonio cultural o sus análogas en materia municipal, sobre los documentos públicos que estén inscritos como documentos con valor histórico, para su inscripción en el registro que corresponda en materia de protección al patrimonio cultural; y
 
@@ -647,11 +611,11 @@ El Comité Técnico, contará con un Consejo Consultivo como órgano de consulta
 
 ### Capítulo V. De la Comisión Dictaminadora de Depuración de Documentos y del Consejo Consultivo
 
-(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2002) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ENERO DE 2005)</small>
 
 ###### Artículo 45.
 
-La Comisión Dictaminadora, es nombrada por el Comité Técnico, la cual se encargará de llevar a cabo el procedimiento de depuración de los documentos que carezcan de interés público, una vez transcurridos veinte años de haber sido generados y que se encuentren en los archivos de trámite o hayan sido remitidos a los archivos generales.
+La Comisión Dictaminadora es nombrada por el Comité Técnico, la cual se encargará de llevar a cabo el procedimiento de depuración de los documentos que carezcan de interés público y que se encuentren en los archivos de trámite o hayan sido remitidos a los archivos generales, una vez transcurridos veinte años de haber sido generados o, en caso de documentos que contengan información reservada, una vez que haya transcurrido un plazo igual al de su reserva.
 
 Esta Comisión se integrará cada tres años por un mínimo de cinco especialistas en la materia, que serán seleccionados entre los miembros del Sistema Estatal. En dicha comisión participará invariablemente el titular del Archivo Histórico del Estado de Jalisco.
 
@@ -778,3 +742,21 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 > <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
 Segundo.- Los gobiernos municipales deberán adecuar sus ordenamientos de conformidad a las presentes reformas en un plazo no mayor a noventa días a partir de la entrada en vigor del presente decreto.
+
+P.O. 6 DE ENERO DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor a los 180 días siguientes, en que entre en vigor el Decreto de adición al artículo 4 y de reforma diversos artículos de la Constitución Política del Estado de Jalisco, relativas al derecho a la información pública, previa publicación en el periódico oficial "El Estado de Jalisco", salvo lo establecido en los artículos siguientes.
+
+SEGUNDO.- Las disposiciones del presente decreto relativas a la creación y funcionamiento del Instituto de Transparencia e Información Pública de Jalisco, serán obligatorias a partir del día siguiente de publicación de la reforma constitucional a que se refiere el artículo anterior.
+
+TERCERO.- El Presupuesto de Egresos del Estado para el ejercicio Fiscal 2005 deberá establecer la partida presupuestal asignada al Instituto de Transparencia e Información Pública de Jalisco.
+
+CUARTO.- El Congreso del Estado deberá nombrar al Presidente y a los primeros consejeros ciudadanos del Instituto de Transparencia e Información Pública a más tardar tres meses después de la entrada en vigor de las disposiciones a que se refiere el artículo segundo transitorio. En el primer periodo de su encargo, por única vez, dos consejeros serán nombrados por dos años; dos consejeros por tres años y el consejero Presidente por cuatro años.
+
+QUINTO.- El Presidente y los consejeros ciudadanos, una vez nombrados por el Congreso del Estado, podrán aplicar el presupuesto asignado al Instituto y llevar a cabo todas aquellas atribuciones que permitan su integración y funcionamiento.
+
+SEXTO.- Antes de la entrada en vigor de la Ley, los sujetos obligados deberán integrar las unidades de transparencia e información que ésta establece, así como emitir las disposiciones reglamentarias de la misma, para que estén integradas el día de inicio de su vigencia.
+
+SEPTIMO.- De no designarse las unidades de transparencia e información en el plazo establecido en el artículo anterior, se considerará como tal, en lo relativo a la recepción y entrega de solicitudes, a la Oficialía de partes de cada una de las entidades que, de acuerdo a la normatividad aplicable, conforman la estructura orgánica de los sujetos obligados.
+
+OCTAVO.- A la entrada en vigor del presente decreto, quedará abrogada la Ley de Transparencia e Información Pública del Estado de Jalisco publicada el 22 de enero de 2002 mediante decreto número 19446.
