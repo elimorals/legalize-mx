@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-economico-para-el-estado-de-morelos-15915"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2001-05-23"
+last_updated: "2005-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2001.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR LA FRACCION XVII DEL ARTICULO PRIMERO DEL DECRETO NUMERO QUINIENTOS VEINTIUNO, PUBLICADO EN EL PERIODICO OFICIAL EL 16 DE MARZO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 22 de diciembre de 1999.
 
@@ -41,7 +43,7 @@ Que el sector productivo en el Estado, ha sido un pilar fundamental dentro de la
 
 Para tal efecto, se hace necesario contar con un marco jurídico normativo acorde a los objetivos propuestos, mediante el cual se establezcan las bases que permitan integrar a los sectores involucrados en el proceso económico, se incremente la productividad y competitividad de las empresas y en consecuencia, se eleven los niveles de vida de los morelenses.
 
-En consecuencia, el Titular del Poder Ejecutivo del Estado elaboró una Iniciativa, misma que presentó a esta Soberanía, asegurando que ha sido concensada ampliamente con los diversos grupos que integran nuestra sociedad, en especial con los del sector económico, tales como Cámaras y Asociaciones Empresariales en diversos foros y mesas de trabajo.
+En consecuencia, el Titular del Poder Ejecutivo del Estado elaboró una Iniciativa, misma que presentó a esta Soberanía, asegurando que ha sido consensada ampliamente con los diversos grupos que integran nuestra sociedad, en especial con los del sector económico, tales como Cámaras y Asociaciones Empresariales en diversos foros y mesas de trabajo.
 
 La Ley de Fomento Económico que presentó el Ejecutivo del Estado, establece las bases para impulsar el crecimiento económico de los sectores que comprenden las actividades agropecuarias, de minería, manufactureras o industriales, de electricidad y agua, de construcción, comerciales, de transporte y comunicaciones, financieras y de alquiler, y de servicios no financieros en el Estado de Morelos, bajo un marco de legalidad, equidad, justicia y respeto, por el cual el Gobierno del Estado otorgará diversos tipos de apoyos y estímulos que permitan a los agentes económicos aprovechar a plenitud las ventajas que ofrece la Entidad.
 
@@ -758,3 +760,9 @@ P.O. 23 DE MAYO DE 2001.
 PRIMERO.- Remítase el presente Decreto, al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+P.O. 16 DE MARZO DE 2005.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
