@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1999-05-17"
+last_updated: "1999-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 1999.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -77,9 +77,13 @@ Compete al Ministerio Público Federal llevar a cabo la averiguación previa y e
 
 En la averiguación previa corresponderá al Ministerio Público:
 
-I.- Recibir las denuncias, acusaciones o querellas que le presenten en forma oral o por escrito sobre hechos que puedan constituir delito;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
 
-II.- Practicar y ordenar la realización de todos los actos conducentes a la comprobación de los elementos del tipo penal y a la demostración de la probable responsabilidad del inculpado, así como a la reparación del daño;
+I.- Recibir las denuncias o querellas que le presenten en forma oral o por escrito sobre hechos que puedan constituir delito;
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
+
+II.- Practicar y ordenar la realización de todos los actos conducentes a la acreditación del cuerpo del delito y la probable responsabilidad del inculpado, así como a la reparación del daño;
 
 III.- Solicitar a la autoridad jurisdiccional las medidas precautorias de arraigo, aseguramiento o embargo que resulten indispensables para la averiguación previa, así como las órdenes de cateo que procedan;
 
@@ -375,11 +379,11 @@ Cuando cambiare el personal de un tribunal, no se proveerá auto alguno haciendo
 
 Cuando no tenga que dictarse resolución alguna anterior a la sentencia, sí se hará saber el cambio de personal.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 38.
 
-Cuando en las actuaciones estén acreditados los elementos que integren el tipo del delito de que se trate, el funcionario que conozca del asunto dictará las providencias necesarias, a solicitud del interesado, para asegurar sus derechos o restituirlos en el goce de éstos, siempre que estén legalmente justificados. Si se tratare de cosas, únicamente podrán retenerse, estén o no comprobados los elementos del tipo del delito, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para la debida integración de la averiguación.
+Cuando en las actuaciones esté acreditado el cuerpo del delito de que se trate, el funcionario que conozca del asunto dictará las providencias necesarias, a solicitud del interesado, para asegurar sus derechos o restituirlos en el goce de éstos, siempre que estén legalmente justificados. Si se tratare de cosas, únicamente podrán retenerse, esté o no comprobado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para la debida integración de la averiguación.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
 
@@ -1001,7 +1005,7 @@ Este artículo se aplicará también en lo conducente cuando se tache de falso a
 
 ### CAPITULO III. Consignación ante los tribunales
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 123.
 
@@ -1125,21 +1129,37 @@ Cuando el afectado pida que el arraigo o la prohibición de abandonar una demarc
 
 ###### ARTICULO 134.
 
-En cuanto aparezca de la averiguación previa que se han acreditado los elementos del tipo penal del delito y la probable responsabilidad del indiciado, en los términos del artículo 168, el Ministerio Público ejercitará la acción penal ante los tribunales; los que para el libramiento de orden de aprehensión, se ajustarán a lo previsto en el párrafo segundo del artículo 16 constitucional y en el 195 del presente Código.
+En cuanto aparezca de la averiguación previa que se han acreditado el cuerpo del delito y la probable responsabilidad del indiciado, en los términos del artículo 168, el Ministerio Público ejercitará la acción penal ante los tribunales y expresará, sin necesidad de acreditarlo plenamente, la forma de realización de la conducta, los elementos subjetivos específicos cuando la descripción típica lo requiera, así como las demás circunstancias que la ley prevea.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1999)</small>
+
+No obstante lo dispuesto por la Fracción II del artículo 15 del Código Penal Federal, el Ministerio Público podrá ejercitar la acción penal en los términos del párrafo precedente y, en su caso, las excluyentes del delito que se actualicen por la falta de los elementos subjetivos del tipo, serán analizados por el juzgador después de que se haya dictado el auto de formal prisión o de sujeción a proceso según corresponda, sin perjuicio del derecho del inculpado de acreditar ante el propio Ministerio Público la inexistencia de los mencionados elementos subjetivos del tipo.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1999)</small>
+
+Para el libramiento de la orden de aprehensión, los tribunales se ajustarán a lo previsto en el segundo párrafo del artículo 16 constitucional y en el 195 del presente Código.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 Si el ejercicio de la acción penal es con detenido, el tribunal que reciba la consignación radicará de inmediato el asunto, y se entenderá que el inculpado queda a disposición del juzgador, para los efectos constitucionales y legales correspondientes, desde el momento en que el Ministerio Público lo interne en el reclusorio o centro de salud correspondiente. El Ministerio Público dejará constancia de que el detenido quedó a disposición de la autoridad judicial y entregará copia de aquélla al encargado del reclusorio o del centro de salud, quien asentará el día y la hora de la recepción.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+
 El juez que reciba la consignación con detenido procederá de inmediato a determinar si la detención fue apegada a la Constitución Política de los Estados Unidos Mexicanos o no; en el primer caso ratificará la detención y en el segundo decretará la libertad con las reservas de ley.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 En caso de que la detención de una persona exceda los plazos señalados en el artículo 16 de la Constitución Política citada, se presumirá que estuvo incomunicada, y las declaraciones que haya emitido el indiciado no tendrán validez.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+
 En el pliego de consignación, el Ministerio Público hará expreso señalamiento de los datos reunidos durante la averiguación previa que, a su juicio, puedan ser considerados para los efectos previstos en el artículo 20 fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y en los preceptos de este Código relativos a la libertad provisional bajo caución, tanto en lo referente a la determinación del tipo penal, como por lo que respecta a los elementos que deban tomarse en cuenta para fijar el monto de la garantía.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 135.
 
-Al recibir el Ministerio Público Federal diligencias de averiguación previa, si hubiere detenidos y la detención fuere justificada, hará inmediatamente la consignación a los tribunales, si se cumplen los requisitos a que se refiere el párrafo primero del artículo 134; si tales requisitos no se satisfacen, podrá retenerlos ajustándose a lo previsto en los artículos 193, 194 y 194 bis. Si la detención fuere injustificada, ordenará que los detenidos queden en libertad.
+Al recibir el Ministerio Público Federal diligencias de averiguación previa, si hubiere detenidos y la detención fuere justificada, hará inmediatamente la consignación a los tribunales, si se cumple lo previsto en el párrafo primero del artículo 134; si tales requisitos no se satisfacen, podrá retenerlos ajustándose a lo previsto en los artículos 193, 194 y 194 bis. Si la detención fuere injustificada, ordenará que los detenidos queden en libertad.
 
 (REFORMADO, D.O.F. 8 DE ENERO DE 1991) (REPUBLICADO, D.O.F. 9 DE ENERO DE 1991)
 
@@ -1387,7 +1407,9 @@ La declaración preparatoria comenzará por las generales del inculpado, en las 
 
 Si el inculpado no hubiere solicitado su libertad provisional bajo caución, se le hará nuevamente conocedor de ese derecho en los términos del artículo 20 fracción I de la Constitución Política de los Estados Unidos Mexicanos y del artículo 399 de este Código.
 
-A continuación se le hará saber en qué consiste la denuncia, acusación o querella, así como los nombres de sus acusadores y de los testigos que declaren en su contra; se le preguntará si es su voluntad declarar y en caso de que así lo desee se le examinará sobre los hechos consignados. Si el inculpado decidiere no declarar, el juez respetará su voluntad dejando constancia de ello en el expediente.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
+
+A continuación se le hará saber en qué consiste la denuncia o querella así como los nombres de sus acusadores y de los testigos que declaren en su contra, se le preguntará si es su voluntad declarar y en caso de que así lo desee se le examinará sobre los hechos consignados. Si el inculpado decidiere no declarar, el juez respetará su voluntad dejando constancia de ello en el expediente.
 
 Igualmente se le harán saber todas las siguientes garantías que le otorga el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos: que se le recibirán todos los testigos y las pruebas que ofrezca, en los términos legales, ayudándole para obtener la comparecencia de las personas que solicite, siempre y cuando estén domiciliadas en el lugar del juicio; así como que será sentenciado antes de cuatro meses, si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, o antes de un año si la pena máxima excediere de ese tiempo; y que le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso.
 
@@ -1405,11 +1427,11 @@ La declaración preparatoria se rendirá en forma oral o escrita, por el inculpa
 
 Tanto la defensa como el Agente del Ministerio Público, quien deberá estar presente en la diligencia, podrán interrogar al inculpado. Las preguntas que se hagan a éste deberán referirse a hechos propios, se formularán en términos precisos y cada una abarcará un solo hecho, salvo cuando se trate de hechos complejos en que por la íntima relación que exista entre ellos, no pueda afirmarse o negarse uno sin afirmar o negar el otro. El juez podrá disponer que los interrogatorios se hagan por su conducto cuando lo estime necesario, y desechará las preguntas que a su juicio sean capciosas o inconducentes, pero la pregunta y la resolución judicial que la deseche se asentarán en el expediente, cuando así lo solicite quien la hubiese formulado. Esta resolución sólo será revocable.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 157.
 
-En los casos a que se refiere el segundo párrafo del artículo 135, y en todos aquellos en que el delito no dé lugar a detención, a pedimento del Ministerio Público se librará orden de comparecencia en contra del inculpado para que rinda su declaración preparatoria, siempre que existan elementos que acrediten los elementos del tipo del delito y la probable responsabilidad del inculpado.
+En los casos a que se refiere el segundo párrafo del artículo 135, y en todos aquellos en que el delito no dé lugar a detención, a pedimento del Ministerio Público se librará orden de comparecencia en contra del inculpado para que rinda su declaración preparatoria, siempre que existan datos que acrediten el cuerpo del delito y la probable responsabilidad del inculpado.
 
 ###### ARTICULO 158.
 
@@ -1433,9 +1455,9 @@ Fuera de los casos excluidos en el párrafo anterior, el inculpado puede designa
 
 Si el inculpado designare a varios defensores, éstos deberán nombrar en el mismo acto a un representante común, y si no lo hicieren, en su lugar lo determinará el juez.
 
-### CAPITULO I. Comprobación de los elementos del tipo penal y de la probable responsabilidad del inculpado
+### CAPITULO I. Comprobación del cuerpo del delito y de la probable responsabilidad del inculpado
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 161.
 
@@ -1445,9 +1467,9 @@ Dentro de las setenta y dos horas siguientes al momento en que el inculpado qued
 
 I. Que se haya tomado declaración preparatoria del inculpado, en la forma y con los requisitos que establece el capítulo anterior, o bien que conste en el expediente que aquél se rehusó a declarar;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
 
-II.- Que estén acreditados los elementos del tipo del delito que tenga señalada sanción privativa de libertad;
+II. Que esté comprobado el cuerpo del delito que tenga señalado sanción privativa de libertad;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -1455,17 +1477,21 @@ III.- Que en relación a la fracción anterior esté demostrada la probable resp
 
 IV.- Que no esté plenamente comprobada a favor del inculpado alguna circunstancia eximente de responsabilidad, o que extinga la acción penal.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
 
-El plazo a que se refiere el párrafo primero de este artículo, se duplicará cuando lo solicite el inculpado, por sí o por su defensor, al rendir su declaración preparatoria, o dentro de las tres horas siguientes, siempre que dicha ampliación sea con la finalidad de aportar y desahogar pruebas para que el juez resuelva su situación jurídica.
+El plazo a que se refiere el párrafo primero de este artículo, podrá prorrogarse por única vez, hasta por setenta y dos horas, cuando lo solicite el indiciado, por si o por su defensor, al rendir su declaración preparatoria, o dentro de las tres horas siguientes, siempre que dicha prórroga sea con la finalidad de aportar y desahogar pruebas para que el juez resuelva su situación jurídica.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
 
-El Ministerio Público no podrá solicitar dicha ampliación ni el juez resolverá de oficio; el Ministerio Público en ese plazo puede, sólo en relación con las pruebas o alegatos que propusiere el inculpado o su defensor, hacer las promociones correspondientes al interés social que representa.
+El Ministerio Público no podrá solicitar dicha prórroga ni el juez resolverá de oficio; el Ministerio Público en ese plazo puede, sólo en relación con las pruebas o alegatos que propusiere el indiciado o su defensor, hacer las promociones correspondientes al interés social que representa.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
 
-La ampliación del plazo se deberá notificar al Director del reclusorio preventivo en donde, en su caso, se encuentre internado el inculpado, para los efectos a que se refiere la última parte del primer párrafo del artículo 19 constitucional.
+La prórroga del plazo se deberá notificar a la autoridad responsable del establecimiento en donde, en su caso, se encuentre internado el indiciado, para los efectos a que se refiere el segundo párrafo del artículo 19 constitucional.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1999)</small>
+
+Adicionalmente, el auto de formal prisión deberá expresar el delito que se le impute al indiciado, así como el lugar, tiempo y circunstancias de ejecución.
 
 ###### ARTICULO 162.
 
@@ -1507,7 +1533,7 @@ También en estos casos, el Ministerio Público podrá promover prueba, en ejerc
 
 ## TITULO QUINTO. Disposiciones comunes a la averiguación previa y a la Instrucción
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ### CAPITULO II. Huellas del delito.- Aseguramiento de los Instrumentos y objetos del mismo
 
@@ -1515,19 +1541,13 @@ También en estos casos, el Ministerio Público podrá promover prueba, en ejerc
 
 ###### ARTICULO 168.
 
-El Ministerio Público acreditará los elementos del tipo penal del delito de que se trate y la probable responsabilidad del inculpado, como base del ejercicio de la acción; y la autoridad judicial, a su vez, examinará si ambos requisitos están acreditados en autos. Dichos elementos son los siguientes:
+El Ministerio Público acreditará el cuerpo del delito de que se trate y la probable responsabilidad del indiciado, como base del ejercicio de la acción penal; y la autoridad judicial, a su vez, examinará si ambos requisitos están acreditados en autos.
 
-I.- La existencia de la correspondiente acción u omisión y de la lesión o, en su caso, el peligro a que ha sido expuesto el bien jurídico protegido;
+Por cuerpo del delito se entiende el conjunto de los elementos objetivos o externos que constituyen la materialidad del hecho que la ley señale como delito, así como los normativos, en el caso de que la descripción típica lo requiera.
 
-II.- La forma de intervención de los sujetos activos; y
+La probable responsabilidad del indiciado se tendrá por acreditada cuando, de los medios probatorios existentes, se deduzca su participación en el delito, la comisión dolosa o culposa del mismo y no exista acreditada a favor del indiciado alguna causa de licitud o alguna excluyente de culpabilidad.
 
-III.- La realización dolosa o culposa de la acción u omisión.
-
-Asimismo, se acreditarán, si el tipo lo requiere: a) las calidades del sujeto activo y del pasivo; b) el resultado y su atribuibilidad a la acción u omisión; c) el objeto material; d) los medios utilizados; e) las circunstancias de lugar, tiempo, modo y ocasión; f) los elementos normativos; g) los elementos subjetivos específicos y h) las demás circunstancias que la ley prevea.
-
-Para resolver sobre la probable responsabilidad del inculpado, la autoridad deberá constatar si no existe acreditada en favor de aquél alguna causa de licitud y que obren datos suficientes para acreditar su probable culpabilidad.
-
-Los elementos del tipo penal de que se trate y la probable responsabilidad se acreditará por cualquier medio probatorio que señale la ley.
+El cuerpo del delito de que se trate y la probable responsabilidad se acreditarán por cualquier medio probatorio que señale la ley.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -1573,11 +1593,13 @@ En los casos de aborto o de infanticidio, además de las diligencias mencionadas
 
 Tratándose del delito a que se refiere la fracción II del artículo 368 del Código Penal, cuando, sin previo contrato con una empresa de energía eléctrica, de gas, o de cualquier fluido, se encuentre conectada a una instalación particular a las tuberías o líneas de la empresa respectiva, o a cualquier tubería o líneas particulares conectadas a las tuberías o líneas de dicha empresa, en la inspección que se practique, con asistencia de peritos en la materia, se harán constar estas circunstancias y se recabará el dictamen pericial que las describa y además precise la naturaleza del fluido de que se trate y cuantifique, en lo posible, la cantidad de fluido que haya sido consumido mediante la conexión de que se trate.
 
-> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 177.
 
-Para la comprobación de elementos del tipo penal de los delitos relacionados con la industria petrolera nacional y con el servicio público de energía eléctrica, previstos en los artículos 185; 253 fracción I inciso i); 254 fracciones VII y VIII, 254 ter, 368 fracciones II y III del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se presumirá la propiedad federal, salvo prueba en contrario.
+Para la comprobación de los delitos relacionados con la industria petrolera nacional y con el servicio público de energía eléctrica previstos en los artículos 185, 253 fracción I inciso i); 254 fracciones VII y VIII, 254 ter, 368 fracciones II y III del Código Penal Federal, se presumirá la propiedad federal, salvo prueba en contrario.
+
+> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
 Para el acreditamiento de la propiedad federal, no se exigirá la presentación de factura o escritura pública o la inscripción en el registro público.
 
@@ -1591,11 +1613,11 @@ Para el acreditamiento de la propiedad federal, no se exigirá la presentación 
 
 Cuando tratándose de delito de ataques a las vías de comunicación, no fuere posible practicar inspección porque para evitar perjuicios al servicio público haya sido necesario repararlas inmediatamente, se practicará inspección de las huellas u otros signos que constituyan posibles indicios de la existencia del hecho incriminado y de la antigüedad y extensión de la reparación, además de recabarse facturas u otros documentos relativos a ella y cualesquiera otras pruebas a las que se pueda tener acceso.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 180.
 
-Para la comprobación de los elementos del tipo penal y de la probable responsabilidad del inculpado, el Ministerio Público y los tribunales gozarán de la acción más amplia para emplear los medios de investigación que estimen conducentes según su criterio, aunque no sean de los que menciona la ley, siempre que estos medios no sean contrarios a derecho.
+Para la comprobación del cuerpo del delito y de la probable responsabilidad el indiciado, el Ministerio Público y los tribunales gozarán de la acción más amplia para emplear los medios de investigación que estimen conducentes según su criterio, aunque no sean de los que menciona la ley, siempre que estos medios no sean contrarios a derecho.
 
 > <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
@@ -3279,6 +3301,32 @@ IV.- Que no se trate de alguno de los delitos calificados como graves en el art�
 
 La caución a que se refiere la fracción III y las garantías a que se refieren las fracciones I y II, podrán consistir en depósito en efectivo, fianza, prenda, hipoteca o fideicomiso formalmente constituido.
 
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1999)</small>
+
+ARTICULO 399 BIS.- En caso de delitos no graves, el Juez podrá negar a solicitud del Ministerio Público, la libertad provisional del inculpado, cuando éste haya sido condenado con anterioridad, por algún delito calificado como grave por la ley o, cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
+
+Por conducta precedente o circunstancias y características del delito cometido, según corresponda, se entenderán, cuando:
+
+I. El inculpado sea delincuente habitual o reincidente por delitos dolosos, en términos de lo dispuesto por el Código Penal Federal.
+
+II. El inculpado esté sujeto a otro u otros procesos penales anteriores, en los cuales se le haya dictado auto de formal prisión por el mismo género de delitos;
+
+III. El inculpado se haya sustraído a la acción de la justicia y esté sujeto a un procedimiento penal por delito doloso por el cual haya sido extraditado;
+
+IV. El inculpado se haya sustraído con anterioridad a la acción de la justicia impidiendo con ello la continuidad del proceso penal correspondiente;
+
+V. El Ministerio Público aporte cualquier otro elemento probatorio de que el inculpado se sustraerá a la acción de la justicia, si la libertad provisional le es otorgada;
+
+VI. Exista el riesgo fundado de que el inculpado cometa un delito doloso contra la víctima u ofendido, alguno de los testigos que depongan en su contra, servidores públicos que intervengan en el procedimiento, o algún tercero, si la libertad provisional le es otorgada;
+
+VII. Se trate de delito cometido con violencia, en asociación delictuosa o pandilla, o
+
+VIII. El inculpado haya cometido el delito bajo el influjo de estupefacientes o sustancias psicotrópicas.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1999)</small>
+
+ARTICULO 399 TER.- El juez podrá en todo caso revocar la libertad provisional concedida al inculpado cuando aparezca durante el proceso cualesquiera de las causas previstas en el artículo anterior y así lo solicite el Ministerio Público.
+
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 400.
@@ -3523,9 +3571,9 @@ VI.- Cuando recaiga sentencia condenatoria contra el inculpado y ésta cause eje
 
 La libertad por desvanecimiento de datos procede en los siguientes casos:
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
 
-I.- Cuando en cualquier estado de la instrucción y después de dictado el auto de formal prisión aparezcan plenamente desvanecidos los datos que sirvieron para comprobar los elementos del tipo del delito;
+I. Cuando en cualquier estado de la instrucción y después de dictado el auto de formal prisión aparezca plenamente desvanecidos los datos que sirvieron para comprobar el cuerpo del delito, o
 
 II.- Cuando en cualquier estado de la instrucción y sin que hubieren aparecido datos posteriores de responsabilidad, se hayan desvanecido plenamente los considerados en el auto de formal prisión para tener al detenido como presunto responsable.
 
@@ -4612,3 +4660,9 @@ DECRETO POR EL QUE SE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LE
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las modificaciones al artículo 194 del Código Federal de Procedimientos Penales, entrarán en vigor un día después de que se apruebe y publique, en su caso, la reforma al mismo artículo que se propone en la iniciativa que reforma diversas disposiciones en materia penal presentada por el Ejecutivo Federal el 18 de noviembre de 1998 en el Senado de la República como Cámara de Origen.
+
+D.O.F. 18 DE MAYO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se entenderán referidas al Código Penal Federal.
