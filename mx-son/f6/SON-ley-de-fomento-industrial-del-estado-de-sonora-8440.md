@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-industrial-del-estado-de-sonora-8440"
 country: "mx"
 rank: "ley"
 publication_date: "1969-03-22"
-last_updated: "1974-04-17"
+last_updated: "2002-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY DE FOMENTO INDUSTRIAL DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE ABRIL DE 1974.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO ECONOMICO DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 19 DE DICIEMBRE DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el sábado 22 de marzo de 1969.
 
@@ -35,7 +37,7 @@ NUMERO 49
 
 EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, DECRETA LA SIGUIENTE
 
-LEYDE FOMENTO INDUSTRIAL DEL ESTADO DE SONORA
+LEY DE FOMENTO INDUSTRIAL DEL ESTADO DE SONORA
 
 ### CAPITULO PRIMERO
 
@@ -350,3 +352,41 @@ B.O. 17 DE ABRIL DE 1974.
 PRIMERO.- Las personas que hubieren presentado sus avisos de terminación de obra durante la vigencia de la Ley que se abroga y preceptos derogados tendrán derechos a las franquicias en los términos consagrados por aquellas disposiciones.
 
 SEGUNDO.- Esta Ley entrará en vigor tres días después de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 19 DE DICIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Fomento Industrial del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado número 24, de fecha 22 de marzo de 1969.
+
+###### ARTICULO TERCERO.
+
+Se abroga el Decreto del Poder Ejecutivo que Crea el Consejo para la Promoción Económica de Sonora, publicado en el Boletín Oficial del Gobierno del Estado No. 39, sección III, de fecha 13 de noviembre de 1997.
+
+###### ARTICULO CUARTO.
+
+El titular del Poder Ejecutivo deberá integrar el Consejo para la Promoción Económica del Estado de Sonora dentro de los cuarenta y cinco días siguientes a la entrada en vigor del presente ordenamiento. En el caso de que las cámaras u organismos empresariales no hicieren la designación de los Vocales dentro del plazo mencionado, la designación la hará el Gobernador del Estado de entre los integrantes de los mismos.
+
+###### ARTICULO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+###### ARTICULO SEXTO.
+
+Para los efectos de la integración e instalación de la Comisión para el Desarrollo Económico del Estado de Sonora, las cámaras y organismos agrupados dentro de los sectores a que se refiere la fracción VI del artículo 26 de la presente ley, previa convocatoria emitida por el Gobernador del Estado, dentro de los quince días siguientes a la entrada en vigor de la presente ley, la cual será publicada en dos periódicos de mayor circulación en el Estado, deberán designar a los Vocales que les corresponda, de conformidad con lo previsto en la disposición mencionada y en un plazo no mayor de quince días siguientes al de la publicación de la convocatoria. En el caso de que las cámaras u organismos empresariales no hicieren la designación de los Vocales dentro del Plazo mencionado, la designación la hará el Gobernador del Estado de entre los integrantes de los mismos.
+
+Por su parte, los vocales señalados en las fracciones V y VI del artículo 26 de la presente ley, deberán contar, por única ocasión, con el voto aprobatorio de los vocales señalados en las fracciones III y IV del mismo artículo.
+
+###### ARTÍCULO SEPTIMO.
+
+Los recursos materiales y humanos actualmente a disposición del Consejo para la Promoción Económica de Sonora, creado mediante Decreto del Poder Ejecutivo que Crea el Consejo para la Promoción Económica de Sonora, publicado en el Boletín Oficial del Gobierno del Estado No. 39, sección III, de fecha 13 de noviembre de 1997, pasarán a formar parte del patrimonio del Consejo para la Promoción Económica de Sonora creado conforme a la presente ley.
+
+###### ARTICULO OCTAVO.
+
+El titular del Poder Ejecutivo del Estado deberá constituir los Fondos de Promoción Económica del Estado y el de Desarrollo Económico del Estado, dentro de los cuarenta y cinco días siguientes a la recepción de las propuestas que respectivamente le presenten el Consejo para la Promoción Económica de Sonora y la Comisión para el Desarrollo Económico del Estado de Sonora.
+
+Para efectos del párrafo anterior, el Consejo para la Promoción Económica de Sonora deberá emitir sus propuestas dentro de los cuarenta y cinco días siguientes a la entrada en vigor del presente ordenamiento, y la Comisión para el Desarrollo Económico del Estado de Sonora, dentro de los treinta días siguientes a la fecha de su integración.
