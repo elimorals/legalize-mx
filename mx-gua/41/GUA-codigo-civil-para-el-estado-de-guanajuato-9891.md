@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1970-07-16"
+last_updated: "1971-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1971.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -12725,7 +12725,13 @@ No pueden los bienes raíces o los derechos reales impuestos sobre los mismos ap
 
 Para inscribir o anotar títulos por los que se declaren, transmitan, graven, modifiquen o extingan el dominio y demás derechos reales sobre inmuebles, deberá constar previamente inscrito el derecho de la persona que otorgue o en cuyo nombre se otorguen esos actos.
 
-En caso de resultar inscrito o anotado ese derecho a favor de persona distinta de la que otorgue la transmisión o gravamen, los registradores denegarán la inscripción solicitada a menos que el acto se hubiere ordenado por resolución judicial.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1971)</small>
+
+En caso de resultar incristo (sic) o anotado ese derecho a favor de persona distinta de la que otorgue la transmisión o gravamen, los registradores denegarán la inscripción solicitada a menos que el acto se hubiere ordenado por resolución judicial, dictada con audiencia de la persona a cuyo nombre aparezca inscrito el inmueble.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1971)</small>
+
+Cuando se trate de fincas no inscritas, la inscripción primaria sólo podrá hacerse por resolución judicial especialmente razonada.
 
 ### Capítulo V. De los bienes de que se puede disponer por testamento y de los testamentos inoficiosos
 
@@ -15346,3 +15352,9 @@ UNICO.- Este decreto surtirá efectos a los tres días siguientes al de su publi
 P.O. 16 DE JULIO DE 1970.
 
 UNICO.- Este decreto surtirá efectos tres días después del siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE JUNIO DE 1971.
+
+###### ARTICULO UNICO.
+
+Este decreto surtirá efectos el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
