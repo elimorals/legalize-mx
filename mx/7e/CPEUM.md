@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1983-02-07"
+last_updated: "1985-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 1985.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -224,11 +224,15 @@ Todo mal tratamiento que en la aprehensión o en las prisiones, toda molestia qu
 
 En todo juicio del orden criminal tendrá el acusado las siguientes garantías:
 
-> <small>(REFORMADA, D.O.F. 2 DE DICIEMBRE DE 1948)</small>
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1985)</small>
 
-I.- Inmediatamente que lo solicite será puesto en libertad bajo fianza que fijará el juez tomando en cuenta sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito merezca ser castigado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión, y sin más requisito que poner la suma de dinero respectiva, a disposición de la autoridad u otorgar caución hipotecaria o personal bastante para asegurarla, bajo la responsabilidad del juez en su aceptación.
+I.- Inmediatamente que lo solicite será puesto en libertad provisional bajo caución, que fijará el Juzgador, tomando en cuenta sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito, incluyendo sus modalidades, merezca ser sancionado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión, sin más requisito que poner la suma de dinero respectiva, a disposición de la autoridad judicial, u otorgar otra caución bastante para asegurarla, bajo la responsabilidad del Juzgador en su aceptación.
 
-En ningún caso la fianza o caución será mayor de $ 250,000.00, a no ser que se trate de un delito que represente para su autor un beneficio económico o cause a la víctima un daño patrimonial, pues en estos casos la garantía será, cuando menos, tres veces mayor al beneficio obtenido o al daño ocasionado.
+La caución no excederá de la cantidad equivalente a la percepción durante dos años del salario mínimo general vigente en el lugar en que se cometió el delito. Sin embargo, la Autoridad Judicial, en virtud de la especial gravedad del delito, las particulares circunstancias personales del imputado o de la víctima, mediante resolución motivada, podrá incrementar el monto de la caución hasta la cantidad equivalente a la percepción durante cuatro años del salario mínimo vigente en el lugar en que se cometió el delito.
+
+Si el delito es intencional y representa para su autor un beneficio económico o causa a la víctima daño y perjuicio patrimonial, la garantía será cuando menos tres veces mayor al beneficio obtenido o a los daños y perjuicios patrimoniales causados.
+
+Si el delito es preterintencional o imprudencial, bastará que se garantice la reparación de los daños y perjuicios patrimoniales, y se estará a lo dispuesto en los dos párrafos anteriores.
 
 II.- No podrá ser compelido a declarar en su contra, por lo cual queda rigurosamente prohibida toda incomunicación o cualquier otro medio que tienda a aquel objeto.
 
@@ -3465,3 +3469,9 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 D.O.F. 7 DE FEBRERO DE 1983.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE ENERO DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a los seis meses de su publicación en el Diario Oficial de la Federación.
