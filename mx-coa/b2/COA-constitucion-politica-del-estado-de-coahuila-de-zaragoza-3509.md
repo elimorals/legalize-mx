@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1993-12-28"
+last_updated: "1994-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 1994.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -162,7 +162,7 @@ III. Contribuir a los gastos públicos del Municipio, del Estado y de la Federac
 
 IV. Adquirir la educación primaria y hacer que la reciban los menores de edad que estén bajo su potestad o cuidado.
 
-V. Cooperar en cuanto les sea posible al engrandecimiento y prosperidad del Estado y a la defensa de la independencia del territorio, la honra, derechos o intereses de la República en general y particular del Estado.
+V. Cooperar en cuanto les sea posible al engrandecimiento y prosperidad del Estado y a la defensa de la independencia del territorio, la honra, derechos o intereses de la República en general y del Estado en particular.
 
 ###### Artículo 17.
 
@@ -258,29 +258,29 @@ Del Origen y División del Poder.
 
 El Poder Público emana del pueblo y se instituye para su beneficio. El pueblo, en quien reside la soberanía del Estado, tendrá siempre el derecho de nombrar, conforme a las leyes, a sus representantes o depositarios de los Poderes Públicos, los cuales ejercerán sus funciones con arreglo a la ley.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
 
 ###### Artículo 27.
 
-El sufragio popular es una prerrogativa y una obligación inherente a la calidad de ciudadano, que se ejerce con arreglo a las prescripciones de esta Constitución y de la Ley, para participar en la integración de los órganos representativos de elección popular del Estado y los municipios.
+Los ciudadanos, mediante el ejercicio del voto, y de entre los candidatos propuestos por los partidos políticos, eligirán a los diputados locales, al Gobernador del Estado y a los integrantes de los ayuntamientos. Para ello, se observará un procedimiento eleccionario que garantice la seguridad jurídica de los electores.
 
-El sufragio es universal, libre, secreto, directo, personal e intransferible.
+El sufragio popular es un derecho y una obligación inherente a la calidad del ciudadano que se ejerce en forma universal, libre, secreta, directa, personal e intransferible.
 
-Es derecho de los ciudadanos constituir partidos políticos y pertenecer a ellos.
+La función electoral corresponde al Estado, quien la desempeñará a través de un organismo público descentralizado integrado mayoritariamente por consejeros ciudadanos y representantes de los partidos políticos, con la concurrencia de los poderes Legislativo y Ejecutivo y será la máxima autoridad electoral cuyos principios rectores serán la certeza, legalidad, imparcialidad, objetividad y profesionalismo. Tendrá a su cargo la preparación, organización, desarrollo y vigilancia de los procesos electorales, sesionará públicamente, tomará sus acuerdos en forma colegiada, será independiente en sus resoluciones, autónomo en su administración y contará con personalidad jurídica y patrimonio propios.
 
-Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son organizaciones de interés público, fundamentales para la participación política. Su creación y el ejercicio de sus actividades son libres dentro del respeto a la Constitución y a la Ley. Su estructura interna y su funcionamiento deberán ser democráticos. La Ley determinará las formas específicas de su intervención en los procesos electorales.
+Los consejeros ciudadanos del organismo público encargado de la función electoral, serán electos por el voto de cuando menos las dos terceras partes de los miembros presentes del Congreso. La ley señalará las reglas y el procedimiento correspondiente.
 
-La elección es la más pura expresión de la forma de gobierno democrático. Su preparación, desarrollo y vigilancia, son funciones del Estado que se ejercen por los Poderes Legislativo y Ejecutivo, con la participación de los partidos políticos y de los ciudadanos, según lo disponga la Ley. Estas funciones se realizarán a través de un organismo público dotado de personalidad jurídica y patrimonio propios. La certeza, legalidad, imparcialidad, objetividad y profesionalismo, serán principios rectores en el ejercicio de este organismo.
+La calificación de las elecciones de diputados corresponde exclusivamente al organismo responsable de los comicios en el Estado, el que deberá emitir la declaratoria de validez o nulidad en su caso, estando obligado a considerar y acatar las sentencias previas del Tribunal Estatal Electoral. La calificación de las elecciones de Gobernador y ayuntamientos se hará en los términos de la fracción XV, del artículo 67 de esta Constitución.
 
-El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones. Contará en su estructura con los demás órganos que la Ley determine para prestar la función electoral. Los ciudadanos formarán las meses directivas de las casillas.
+Es derecho de los ciudadanos constituir y pertenecer a partidos políticos, éstos son de interés público, gozarán de prerrogativas incluyendo la de financiamiento, tendrán derecho a estar representados en todos los organismos electorales, serán corresponsables de la función electoral, expresan el pluralismo ideológico dentro de los principios de un régimen democrático y en su actuación no tendrán más límite que el respeto a la Constitución y a las leyes que de ella emanen.
 
-Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la Ley.
+Los actos y acuerdos de los organismos electorales podrán ser recurridos únicamente por los partidos políticos a través de medios de impugnación que deberán servir para garantizar la legalidad del proceso electoral, de ellos podrán conocer los propios organismos electorales y el Tribunal Estatal Electoral que resolverá en las instancias en los términos que señale la ley.
 
-La Ley establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y un tribunal autónomo, que será de naturaleza jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+El Tribunal Estatal Electoral será la máxima autoridad jurisdiccional electoral, sus sentencias serán últimas, definitivas e inatacables, independiente en sus resoluciones y autónomo en su funcionamiento.
 
-El Tribunal Estatal Electoral tendrá la competencia y organización que determine la Ley, funcionará en pleno, resolverá en una sola instancia y sus sesiones serán públicas. Los Poderes Legislativo y Ejecutivo garantizarán su debida integración, contra sus resoluciones no procederá juicio ni recurso alguno, pero aquellas que se dicten con posterioridad a la jornada electoral sólo podrán ser modificadas o revocadas por el Colegio Electoral, mediante el voto de las dos terceras partes de sus miembros presentes, cuando de su revisión se deduzca que existen violaciones a las reglas en materia de admisión y valoración de pruebas y en la motivación del fallo cuando este sea contrario a derecho.
+Los magistrados del Tribunal Estatal Electoral deberán satisfacer los requisitos que señale la ley para su designación y no podrán ser menores a los que señala esta Constitución para ser Magistrado del Tribunal Superior de Justicia del Estado. Deberán ser electos por el voto de cuando menos las dos terceras partes de los miembros presentes del Congreso, a propuesta del Gobernador del Estado. La ley señalará la reglas y el procedimiento correspondiente.
 
-Los magistrados del Tribunal deberán satisfacer los requisitos que señale la Ley, que no podrán ser menores a los que esta Constitución exige para ser magistrado del Tribunal Superior de Justicia del Estado. Serán nombrados por el Congreso del Estado de entre los propuestos por el Ejecutivo.
+El Congreso del Estado expedirá la Ley Reglamentaria en la que se determinarán los procedimientos, la forma y términos del ejercicio de los derechos y el cumplimiento de las obligaciones en materia electoral.
 
 ###### Artículo 28.
 
@@ -322,65 +322,49 @@ Elección e Instalación.
 
 Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominará Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
 
 ###### Artículo 33.
 
-El Congreso del Estado se renovará en su totalidad cada tres años y se compondrá de 15 Diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y hasta 6 Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas regionales, votadas en circunscripciones plurinominales. Por cada Diputado Propietario se elegirá un Suplente.
+El Congreso del Estado se renovará en su totalidad cada tres años y se integrará con veinte diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales uninominales y hasta doce diputados electos bajo los principios de representación mínima y proporcional que disponga la ley.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+Para la elección de los diputados de representación, se constituirán hasta dos circunscripciones electorales plurinominales en el Estado.
+
+Por cada diputado local propietario, deberá elegirse un suplente.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
 
 ###### Artículo 34.
 
-La demarcación de los 15 distritos electorales uninominales, será la que resulte de dividir la población total del Estado en los distritos señalados.
+La demarcación de los veinte distritos electorales, será la que señale la ley. En su configuración se deberá procurar la integración geográfica de regiones socioeconómicas con características similares y la inclusión de una población equilibradamente distribuida, la que en ningún caso podrá ser menor al 35% ni mayor al 6.5% del total de los electores del Estado.
 
-La distribución de los Distritos Electorales uninominales se hará teniendo en cuenta el último censo general de población.
-
-Para la elección de los 6 diputados según el principio de representación proporcional y el sistema de listas regionales, se constituirán hasta 2 circunscripciones electorales plurinominales en el Estado.
-
-La ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
-
-(REFORMADO, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
 
 ###### Artículo 35.
 
-La elección de los 6 Diputados, según el principio de la representación proporcional y el sistema de listas regionales, se sujetará a las bases generales siguientes y a lo que en lo particular disponga la Ley:
+Ningún partido político podrá contar con más de veinte diputados cualquiera que sea el principio bajo el cual hayan sido electos.
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
+Para tener derecho a participar en la asignación de diputados por los principios de representación los partidos políticos deberán satisfacer los siguientes requisitos:
 
-I. Para obtener el registro de sus listas regionales, el partido político nacional o estatal que lo solicite, deberá acreditar que participa con candidatos o diputados por mayoría relativa en por lo menos 5 de los 15 distritos uninominales.
+1.- No haber alcanzado la totalidad de las diputaciones de mayoría relativa.
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
+2.- Haber registrado y mantenido hasta el día de la elección candidatos propios en cuando menos diez distritos uninominales.
 
-II. Tendrán derecho a que les sean atribuidos diputados de representación proporcional los partidos políticos que reúnan los siguientes requisitos:
+3.- Haber alcanzado como mínimo el 1.5% de la votación activa en el Estado.
 
-A).- Haber obtenido por lo menos el 1.5% de la votación emitida para todas las listas regionales en las circunscripciones plurinominales; y B).- No haber alcanzado la totalidad de las Diputaciones de mayoría relativa.
+Cubiertos los requisitos anteriores las diputaciones serán distribuidas conforme a las fórmulas de asignación que determine la legislación reglamentaria.
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 1978)</small>
+Los diputados, siendo todos representantes populares, tendrán los mismos derechos y obligaciones.
 
-III. Al partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo, les serán asignados por el principio de representación proporcional el número de diputados de su lista regional que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal correspondiente. La Ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
-
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
-
-IV. El Partido político que obtenga el mayor número de diputaciones uninominales, participará en la asignación de la representación proporcional hasta llegar a un máximo de 15 Diputados.
-
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 1978)</small>
-
-V. Los Diputados de mayoría y los de representación proporcional, siendo representantes del pueblo de Coahuila, tendrán la misma categoría e iguales derechos y obligaciones.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 1994)</small>
 
 ###### Artículo 36.
 
-Para ser Diputado Propietario o Suplente, se requiere:
+Para ser diputado propietario o suplente se requiere:
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 1967)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1994)</small>
 
-I. Ser Ciudadano coahuilense y avecindado en el Estado cuando menos tres años continuos inmediatamente anteriores al día de la elección.
-
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 1978)</small>
-
-Para poder figurar en las listas de las circunscripciones electorales plurinominales como candidato a diputado, se repuiere (sic) ser originario de alguno de los municipios que comprenda la circunscripción en la que se realice la elección, o vecino de ella con residencia efectiva de más de seis meses anteriores a la fecha en que la misma se celebre.
+I. Ser ciudadano coahuilense o estar avecindado en el Estado cuando menos tres años continuos inmediatamente anteriores al día de la elección.
 
 > <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1974)</small>
 
@@ -388,11 +372,9 @@ II. Tener 21 años cumplidos el día de la elección.
 
 III. No estar en ejercicio activo en el Ejército Nacional ni tener mando en la Policía del Distrito, en que se pretenda su elección, cuando menos noventa días antes de ella.
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1994)</small>
 
-IV. No ser servidor público, que perciba sueldo o emolumentos del erario público, a menos que se separe de su cargo antes de la elección, en los términos que señale la Ley Electoral.
-
-En el caso de los Diputados Suplentes, será necesario que no hubieren estado en ejercicio, para que puedan ser electos con el carácter de propietarios en el período inmediato.
+IV. No ser servidor público, a menos que se separe de su cargo antes de la elección, en los términos que señale la legislación reglamentaria.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -428,11 +410,11 @@ Los Diputados recibirán una remuneración por el desempeño de su cargo, la cua
 
 Los Diputados, en funciones, sólo desempeñarán cargos de la Federación, del Estado o del Municipio, con licencia de la Legislatura o de la Diputación Permanente, pero entonces cesarán en su cargo, mientras dure la nueva comisión.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
 
 ###### Artículo 44.
 
-En el año en que deba renovarse el Congreso del Estado, los presuntos Diputados que hubieren obtenido constancia de mayoría relativa o de representación proporcional, se constituirán en Colegio Electoral para calificar sus elecciones y resolver las dudas que hubiese sobre ellas.
+Para que los diputados se consideren legalmente electos, al calificarse las elecciones, deberán recibir del órgano responsable, el documento que contenga la declaratoria de validez.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -446,11 +428,13 @@ Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Esta
 
 De las Sesiones del Congreso.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
 
 ###### Artículo 46.
 
-El Congreso tendrá dos períodos ordinarios de sesiones cada año. El primero se iniciará el 15 de octubre y terminará a más tardar el 31 de diciembre. El segundo iniciará el 15 de abril y concluirá a más tardar el 30 de junio. Estos períodos serán improrrogables.
+El Congreso tendrá dos períodos ordinarios de sesiones cada año. El primero iniciará el 1 de marzo y terminará a más tardar el 15 de mayo. El segundo iniciará el 15 de octubre y terminará a más tardar el 31 de diciembre.
+
+Al renovarse el Congreso del Estado, los diputados electos concurrirán el día primero de enero del año inmediato posterior al de la elección, a efecto de iniciar el período de instalación de la Legislatura correspondiente.
 
 ###### Artículo 47.
 
@@ -460,11 +444,11 @@ El Congreso podrá reunirse en sesiones extraordinarias cada vez que fuere convo
 
 Las sesiones extraordinarias deberán cerrarse precisamente antes del día en que deban celebrarse las ordinarias, aún cuando no hayan sido despachados los asuntos que motivaron la convocatoria, los que se resolverán de preferencia en el período ordinario.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
 
 ###### Artículo 49.
 
-El Gobernador del Estado asistirá cada año a la apertura del primer período ordinario de sesiones y rendirá un informe del estado general que guarda la administración pública del Estado. El Presidente del Congreso lo contestará en términos generales.
+El Gobernador del Estado, dentro de los primeros 15 días del segundo período ordinario de sesiones, acudirá al Congreso del Estado a presentar un informe respecto a la situación de la administración estatal.
 
 ###### Artículo 50.
 
@@ -476,7 +460,9 @@ La clausura de las sesiones tendrá lugar por un acuerdo que se comunicará al E
 
 El Congreso no puede abrir sus Períodos de Sesiones ni ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros.
 
-Los presuntos Diputados que concurran a la instalación del Colegio Electoral, exhortarán a los ausentes para que se presenten dentro de las 72 horas siguientes, con la advertencia de que si no lo hiciesen, se entenderá por ese solo hecho, que no aceptan su encargo, llamándose luego a los suplentes, los que deberán presentarse en un plazo igual, y si tampoco lo hiciesen, se declarará vacante el puesto y se convocará a nuevas elecciones.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
+
+Los diputados electos que concurran a la instalación del Congreso, exhortarán a los ausentes para que en un plazo de tres días se presenten, con la advertencia de que, si no lo hiciesen, se entenderá por ese sólo hecho que no aceptan su encargo, llamándose luego a los suplentes, los que deberán presentarse en un plazo igual y si tampoco lo hiciesen, se declarará vacante el cargo y se convocará a nuevas elecciones, cuando así proceda.
 
 Se entiende también que los Diputados que falten a tres Sesiones consecutivas, sin causa justificada o sin previa licencia del Presidente del Congreso, con la cual se dará conocimiento a éste, renuncian a concurrir hasta el período inmediato, llamándose desde luego a los suplentes.
 
@@ -634,9 +620,9 @@ III. Reclamar ante el Congreso de la Unión cuando alguna ley general constituya
 
 IV. Adicionar y reformar esta Constitución en los términos que la misma prescribe.
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
+(REFORMADA, P.O. 22 DE ABRIL DE 1994)(F. DE E., P.O. 10 DE MAYO DE 1994)
 
-V. Erigirse en Colegio Electoral para declarar electos Senadores al Congreso de la Unión a los ciudadanos que hubiesen obtenido la mayoría de los votos emitidos.
+V. Nombrar a los funcionarios electorales que por ley le corresponda designar al Congreso del Estado.
 
 VI. Facultar al Ejecutivo del Estado para que por sí o por medio de una comisión, celebre arreglos con los Estados vecinos sobre sus límites territoriales; reservándose el mismo Congreso la facultad de aprobar o no dichos convenios, los que en el primer caso, serán sometidos al Congreso de la Unión, para los efectos que establece la Constitución General.
 
@@ -666,9 +652,9 @@ XIII. Cambiar provisionalmente la residencia de los Poderes del Estado por la mi
 
 XIV. Establecer, mediante una ley, las bases conforme a las cuales el Estado, los Municipios y las entidades paraestatales y paramunicipales, podrán contraer obligaciones y empréstitos, así como autorizar los conceptos y montos de los mismos, con observancia de lo dispuesto en la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1994)</small>
 
-XV. Recibir los expedientes de las elecciones de Gobernador, ayuntamientos y las de diputados locales, en su caso. Para calificar estas elecciones y hacer la declaratoria de los ciudadanos que hayan resultado electos, se constituirá en Colegio Electoral.
+XV. Recibir los expedientes de las elecciones de Gobernador y Ayuntamientos, en su caso. Para calificar estas elecciones y hacer la declaratoria de los ciudadanos que hayan resultado electos, se constituirá en Colegio Electoral, Asimismo, registrar las declaratorias de validez de las elecciones de diputados, que emita el organismo electoral facultado para ello.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -714,9 +700,9 @@ XXVI. Rehabilitar, con arreglo a las leyes, a los que por sentencia pronunciada 
 
 XXVII. Declarar suspenso a un ciudadano en el ejercicio de sus derechos políticos, por resistirse a servir los cargos de elección popular sin causa justificada.
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1994)</small>
 
-XXVIII. Convocar a elecciones cuando fuere necesario y decidir sobre la legalidad de ellas, consignando a la Autoridad Judicial para su castigo, a los que hubiesen resultado culpables de violación a la Ley Electoral o de algún otro delito relacionado con dichas elecciones.
+XXVIII. Convocar a elecciones cuando fuere necesario.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -816,11 +802,11 @@ En el caso de que el Congrero (sic) del Estado se halle en receso, la Diputació
 
 De la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
 
 ###### Artículo 70.
 
-Durante los recesos del Congreso, habrá una Diputación Permanente que se integrará con un número de Diputados equivalente a la cuarta parte del total de los miembros de la Legislatura, los cuales se elegirán de entre los que estén en funciones un día antes de la clausura del período ordinario de sesiones, en la forma que determine la Ley. Para suplir las faltas de los electos, se nombrarán, del mismo modo y en igual número, suplentes que substituyan a aquéllos por el orden de su nombramiento.
+Durante los recesos del Congreso, habrá una Diputación Permanente que se integrará con un número de diputados equivalente a la cuarta parte del total de los miembros de la Legislatura, los cuales se elegirán de entre los que estén en funciones un día antes de la clausura del período de sesiones o en el período de instalación de la Legislatura, en la forma que determine la Ley. Para suplir las faltas de éstos, se nombrarán del mismo modo y en igual número, suplentes que lo substituyan por el orden de su nombramiento.
 
 ###### Artículo 71.
 
@@ -832,15 +818,17 @@ Serán Presidente y Secretarios de esta Diputación el primero y los segundos de
 
 Si durante el receso del Congreso fuere éste convocado a sesiones extraordinarias, la Diputación Permanente no suspenderá sus trabajos, salvo en aquello que se refiera al asunto para el que se haya convocado el período extraordinario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 1994)</small>
+
 ###### Artículo 73.
 
-Son atribuciones de la Diputación Permanente:
+Son facultades de la Diputación Permanente:
 
 I. Llevar la correspondencia con los Poderes de la Federación y con los de los Estados.
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1994)</small>
 
-II. Recibir los expedientes de la elección de diputados locales y presentarlos cerrados al Colegio Electoral cuando se instale; y, en su caso, los de Gobernador y ayuntamientos, mismos que deberá presentar cerrados al Congreso cuando éste se reúna.
+II. Recibir los expedientes de las elecciones de Gobernador y ayuntamientos, en su caso, mismos que deberá presentar cerrados al Congreso cuando éste se reúna. Asimismo, recibir y registrar las declaratorias de validez de las elecciones de diputados y comunicarlas al Congreso cuando éste se reúna.
 
 III. Acordar por sí o a petición del Ejecutivo la convocatoria de la Legislatura a sesiones extraordinarias
 
@@ -900,9 +888,9 @@ III. Ser coahuilense por nacimiento o tener una residencia efectiva en el Estado
 
 IV. No encontrarse en el supuesto a que se refiere el segundo párrafo del artículo 30 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1994)</small>
 
-V. No ser servidor público, que perciba sueldo o emolumentos del erario, a menos que se separe de su cargo antes de la elección, en los términos que señale la Ley Electoral.
+V. No ser servidor público, a menos que se separe de su cargo antes de la elección, en los términos que señale la legislación reglamentaria.
 
 VI. No haber figurado directa ni indirectamente en alguna asonada, motín o cuartelazo.
 
@@ -1104,9 +1092,9 @@ III. Cuidar de la observancia de la Constitución Política de los Estados Unido
 
 Asimismo, será deber del Gobernador del Estado, publicar y hacer cumplir las leyes y decretos federales.
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1994)</small>
 
-IV. Concurrir cada año al acto de apertura del primer período ordinario de sesiones del Congreso y rendir, en ese acto, un informe sobre el estado de la administración.
+IV. Acudir cada año, dentro de los primeros quince días del segundo período ordinario de sesiones, al Congreso del Estado, a presentar un informe respecto a la situación de la administración pública estatal.
 
 > <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
@@ -1524,11 +1512,13 @@ Las Municipalidades conservarán el territorio que actualmente tienen; pero el C
 
 Los Municipios, constituyen entidades autónomas, con personalidad jurídica y patrimonio propio, y, por consiguiente, son sujetos de derechos y obligaciones.
 
-Cada municipio estará administrado por un ayuntamiento que será renovado en su totalidad cada tres años por elección popular directa y no habrá ninguna autoridad intermedia entre este y el Gobierno del Estado. Iniciará sus funciones el día miércoles de la segunda semana de diciembre del año de la renovación y las terminará el día martes de la segunda semana del mes de diciembre del año en que concluya el período constitucional.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
+Cada municipio estará administrado por un ayuntamiento que será renovado en su totalidad cada tres años por elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado. Iniciará sus funciones el primero de enero del año inmediato siguiente al de la elección y concluirá el día anterior a aquel en que inicie funciones el que lo sucederá.
 
-Los Ayuntamientos se integrarán con un Presidente, un Síndico y el número de regidores que determine la ley. En ningún caso el número total de miembros podrán ser menor de seis, ni mayor de dieciséis. Asimismo, cada Ayuntamiento contará con un número de suplentes que deberá ser igual al de los regidores y síndico, para cubrir las ausencias de éstos conforme a la ley.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
+
+Los Ayuntamientos se integrarán con un presidente, un síndico y el número de regidores que determine la ley. Así mismo, cada ayuntamiento contará con un número de suplentes que deberá ser igual al de los regidores y síndico, para cubrir las ausencias de éstos conforme a la ley.
 
 La Ley introducirá el principio de representación proporcional en la elección de ayuntamientos de todos los municipios del Estado.
 
@@ -1538,11 +1528,11 @@ La Ley introducirá el principio de representación proporcional en la elección
 
 Será Presidente del Ayuntamiento, aquel de sus miembros que haya sido electo con tal carácter, conforme a lo expresado en el artículo anterior, y tendrá, además de las atribuciones que los ordenamientos legales aplicables le señalen, la de ejecutar los acuerdos del propio Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1918)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
 
 ###### Artículo 126.
 
-Las faltas temporales del Presidente Municipal, serán suplidas por los regidores del Ayuntamiento, según el orden de su nombramiento.
+Las faltas temporales hasta por quince días del Presidente Municipal, serán suplidas por los regidores del Ayuntamiento, según el orden de su nombramiento.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 1990)</small>
 
@@ -2322,9 +2312,11 @@ La ciudad de Saltillo, será la Capital del Estado y la residencia del Congreso,
 
 Los servidores públicos que entren a ejercer su cargo después del día señalado por esta Constitución, sólo durarán en sus funciones el tiempo que faltare para completar el período respectivo.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
+
 ###### Artículo 192.
 
-No podrán formar parte de un mismo Ayuntamiento dos munícipes que sean parientes por consanguinidad, dentro del segundo grado.
+No podrán formar parte de un mismo Ayuntamiento, dos personas que sean parientes por consanguinidad dentro del segundo grado.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2370,7 +2362,9 @@ I. Iniciativa suscrita cuando menos por tres diputados o por el Gobernador, a la
 
 II. Dictamen de la Comisión respectiva al que se darán dos lecturas con un intervalo de seis días.
 
-III. Discusión del dictamen y aprobación de la mayoría absoluta de todos los diputados que forman el Congreso del Estado.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1994)</small>
+
+III. Discusión del dictamen y aprobación del mismo, por el voto de cuando menos las dos terceras partes de los diputados presentes.
 
 IV. Publicación del expediente por la prensa.
 
@@ -2725,3 +2719,17 @@ En tanto se expidan las adecuaciones a las leyes de la materia, se entenderá qu
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente.
+
+P.O. 22 DE ABRIL DE 1994.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, excepción hecha de las disposiciones cuyo mecanismo de aplicación se establecerá en la legislación reglamentaria.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+TERCERO.- Los diputados que resulten electos para integrar la Quincuagésima Tercera Legislatura del Congreso del Estado, iniciarán sus funciones el quince de octubre de 1994 y las concluirán el 31 de diciembre de 1996.
+
+CUARTO.- Lo dispuesto en el segundo párrafo del artículo 46, será aplicable a partir de la instalación de la Quincuagésima Cuarta Legislatura.
+
+QUINTO.- Para efectos de la reforma del artículo 124 los ayuntamientos electos en el año de 1993 concluirán sus funciones el 31 de diciembre de 1996.
+
+SEXTO.- La Comisión Estatal Electoral continuará a cargo del proceso electoral que se desarrolla durante 1994 para la renovación del Congreso del Estado, hasta en tanto se integre en los términos de la ley reglamentaria el organismo encargado de la función electoral a que se refiere el tercer párrafo del artículo 27.
