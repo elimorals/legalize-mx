@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2004-04-09"
+last_updated: "2004-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -15369,7 +15369,7 @@ Acreedores de Cuarta Clase.
 
 ###### Artículo 2877.
 
-Satisfechos los créditos de que se ha habla (sic) anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
+Satisfechos los créditos de que ha habla (sic) anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
 ### CAPITULO I.
 
@@ -15545,11 +15545,19 @@ El registrador que haga una inscripción sin cumplir con lo dispuesto en el art�
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
-###### Artículo 2899.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2004)</small>
 
-Una vez que se firme una escritura en que se adquiera, transmitida (sic), modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que la autorice dará al Registro un aviso en que conste la finca de que se trate, la indicación de que se ha transmitido o modificado su dominio o se ha constituído, transmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El registrador con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
+###### ARTICULO 2899.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que éste artículo se refiere, las autoridades de que habla la fracción III del artículo 2892 y el mencionado aviso producirá los mismos efectos que el dado por el notario.
+Cuando un Notario o autoridad judicial que actúe por receptoría en los términos de la Ley del Notariado tenga constancia de que ante él se va a otorgar un acto jurídico o escritura en la que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces, o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, podrá solicitar al Registro Publico certificado de existencia o inexistencia de gravámenes en relación con los inmuebles aludidos. Recibida que sea la solicitud, el Registrador hará la anotación respectiva al margen de la inscripción de la propiedad, y surtirá efectos de aviso preliminar contra terceros con vigencia de treinta días naturales a partir de la fecha de su presentación. Dicha solicitud deberá mencionar además el tipo de operación e identificar el inmueble de que se trate, los nombres de los otorgantes y la indicación del número, tomo y sección en que estuviere el antecedente de propiedad en el Registro Público.
+
+Una vez que se firme la escritura o acto jurídico a que se refiere el párrafo anterior, haya habido o no aviso preliminar, el Notario o autoridad que la autorice dará al Registro Publico un aviso que contendrá los mismos datos que se indican para el aviso preliminar, y, en su caso, la relacionará con la indicación de que se ha transmitido o modificado su dominio o se ha constituido, transmitido, modificado o extinguido algún derecho real sobre la propiedad o posesión registrada, señalando los nombres de los interesados en la operación, la fecha y número de la escritura y la de su firma.
+
+El Registrador con el aviso del Notario o de la autoridad en los términos del párrafo que antecede, hará inmediatamente una anotación preventiva al margen de la inscripción de la propiedad o posesión, la cual tendrá vigencia y surtirá efectos contra terceros durante treinta días naturales adicionales a los señalados en el primer párrafo; si dentro de los treinta días señalados a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efectos contra terceros desde la fecha del aviso preliminar a que se refiere el primer párrafo o en defecto de él, desde la fecha del aviso a que se refiere el párrafo anterior, lo cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de su presentación.
+
+Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar los avisos a que este artículo se refiere, las autoridades de que habla l fracción III del artículo 2892 y el mencionado aviso producirá los mismos efectos que los dados por el Notario.
+
+El Registrador realizará las anotaciones tanto preliminar como preventiva, a que se refiere este articulo, sin cobro de derecho alguno.
 
 ###### Artículo 2900.
 
@@ -16002,6 +16010,12 @@ P.O. 22 DE MARZO DE 2004.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 9 DE ABRIL DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 6 DE AGOSTO DE 2004.
 
 ###### ARTÍCULO ÚNICO.
 
