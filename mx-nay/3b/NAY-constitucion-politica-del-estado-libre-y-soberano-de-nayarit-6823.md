@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1977-07-02"
+last_updated: "1977-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1977.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -391,11 +391,13 @@ A estas sesiones extraordinarias, precederá una Junta Preparatoria.
 
 La celebración de sesiones extraordinarias no impedirá la elección del Congreso en el tiempo que deba hacerse, y el nuevo seguirá ocupándose del asunto o asuntos de que se ocupaba el saliente.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1977)</small>
 
 ###### Art. 42.
 
-El Gobernador asistirá a la apertura del Primer Periodo de Sesiones Ordinarias de cada año y presentará un informe por escrito, en el que se exponga suscintamente, el estado de todos los Ramos de la Administración Pública. El Presidente del Congreso contestará en términos generales.
+El Gobernador asistirá a la sesión solemne del Congreso el 15 de noviembre de cada año y presentará un informe por escrito, en el que se exponga suscintamente, el estado de todos los Ramos de la Administración Pública. El Presidente de la Legislatura contestará en términos generales.
+
+El último año de su mandato, el Gobernador rendirá su informe administrativo ante el Congreso el primero de noviembre.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -1297,7 +1299,7 @@ Se derogan las leyes, decretos y reglamentos vigentes en el Estado, en todo lo q
 
 > <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1943)</small>
 
-TRANSITORIO (sic): El Ejercicio Constitucional de tres años que para los Ayuntamientos señala el Artículo 114 reformado de esta Constitución, entrará en vigor el primero de enero de mil novecientos cuarenta y seis.
+TRANSITORIO: (sic) El Ejercicio Constitucional de tres años que para los Ayuntamientos señala el Artículo 114 reformado de esta Constitución, entrará en vigor el primero de enero de mil novecientos cuarenta y seis.
 
 Dado en el Salón de Sesiones del Poder Legislativo del Estado de Nayarit, en Tepic, capital del Estado, a los cinco días del mes de febrero de mil novecientos dieciocho.
 
@@ -1321,19 +1323,19 @@ J.N. Muñoz Ruiz.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
 
-P.O. 30 DE MARZO DE 1919
+P.O. 30 DE MARZO DE 1919.
 
 Este Decreto comenzará a surtir sus efectos desde el día de su promulgación.
 
-P.O. 24 DE JULIO DE 1919
+P.O. 24 DE JULIO DE 1919.
 
 Este Decreto empezará a surtir sus efectos desde la fecha de su promulgación.
 
-P.O. 15 DE ENERO DE 1922
+P.O. 15 DE ENERO DE 1922.
 
 El presente Decreto deroga todas las disposiciones que a él se opongan y empezará a surtir sus efectos legales, desde la fecha en que el Congreso del Estado tiene que elegir de acuerdo con la Ley, nuevo Tribunal, y desde la fecha en que el Tribunal actual cumpla el periodo de sus funciones y deba hacer entrega al Tribunal nuevamente electo.
 
-P.O. 14 DE AGOSTO DE 1924
+P.O. 14 DE AGOSTO DE 1924.
 
 Por esta sola vez, y de acuerdo con lo que estatuye el Reglamento Interior del H. Congreso en su artículo 5o, el día 15 de diciembre del año en curso, se hará la elección de los C.C. Magistrados Propietarios que faltan para que sea integrado el Tribunal Trinitario (sic); a cuyo efecto, la Comisión Permanente que funcione en aquella fecha, se encargará de hacer la convocatoria que procede. Los Ciudadanos electos rendirán la protesta de ley, el día 27 del propio diciembre ante la Diputación Permanente y se harán cargo de sus puestos, el 1o. de enero próximo.
 
@@ -1351,31 +1353,31 @@ A fín de que no sea interrumpido o restado el presente período Constitucional,
 
 El presente decreto comenzará a surtir sus efectos legales, a partir del día de su promulgación.
 
-P.O. 17 DE ENERO DE 1926
+P.O. 17 DE ENERO DE 1926.
 
 El presente Decreto empezará a surtir sus efectos a partir de la fecha de su promulgación.
 
-P.O. 11 DE ABRIL DE 1926
+P.O. 11 DE ABRIL DE 1926.
 
 El presente Decreto empezará a surtir sus efectos legales a partir de la fecha de su promulgación.
 
-P.O. 12 DE DICIEMBRE DE 1929
+P.O. 12 DE DICIEMBRE DE 1929.
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
-P.O. 5 DE ENERO DE 1930
+P.O. 5 DE ENERO DE 1930.
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
-P.O. 6 DE FEBRERO DE 1930
+P.O. 6 DE FEBRERO DE 1930.
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
-P.O. 9 DE FEBRERO DE 1930
+P.O. 9 DE FEBRERO DE 1930.
 
 El presente decreto comenzará a surtir sus efectos a partir del día de su promulgación.
 
-P.O. 15 DE JUNIO DE 1930
+P.O. 15 DE JUNIO DE 1930.
 
 ###### ARTICULO PRIMERO.
 
@@ -1391,19 +1393,19 @@ Primero:- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 SEGUNDO:- Este Decreto comienza a surtir sus efectos a partir del día de su publicación.
 
-P.O. 11 DE SEPTIEMBRE DE 1935
+P.O. 11 DE SEPTIEMBRE DE 1935.
 
 Este Decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
-P.O. 8 DE SEPTIEMBRE DE 1937
+P.O. 8 DE SEPTIEMBRE DE 1937.
 
 El presente decreto comienza asurtir (sic) sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-P.O. 13 DE NOVIEMBRE DE 1937
+P.O. 13 DE NOVIEMBRE DE 1937.
 
 El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación.
 
-P.O. 24 DE NOVIEMBRE DE 1937
+P.O. 24 DE NOVIEMBRE DE 1937.
 
 ###### ARTICULO PRIMERO.
 
@@ -1413,7 +1415,7 @@ El Artículo primero del presente Decreto, que reforma el artículo cincuenta y 
 
 El artículo Segundo del presente Decreto que reforma el artículo 89 de la Constitución Política del Estado, entra en vigor, a partir del día primero de enero de mil novecientos treinta y ocho.
 
-P.O. 5 DE ENERO DE 1938
+P.O. 5 DE ENERO DE 1938.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE LEY NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
@@ -1437,49 +1439,49 @@ Los Tutores y Albaceas ya nombrados, deberán garantizar su manejo antes del dí
 
 En la computación de términos pendientes al entrar en vigor los Códigos a que se refiere este Artículo, se estará a las disposiciones de aquellos que los señalen más amplios.
 
-P.O. 24 DE AGOSTO DE 1938
+P.O. 24 DE AGOSTO DE 1938.
 
 UNICO.- El presente Decreto surte sus efectos desde la fecha de su publicación, en el Periódico Oficial del Estado, y deroga todas las disposiciones que se opongan a su cumplimiento.
 
-P.O. 7 DE ENERO DE 1939
+P.O. 7 DE ENERO DE 1939.
 
 UNICO.- El presente Decreto surte sus efectos a partir del día primero de enero de mil novecientos treinta y nueve.
 
-P.O. 27 DE NOVIEMBRE DE 1940
+P.O. 27 DE NOVIEMBRE DE 1940.
 
 ART. PRIMERO.- Los juicios de responsabilidad oficial que se encuentren instaurados en contra de Ayuntamientos en general o de CC. Regidores en particular, se declaran sujetos a la revisión del H. Congreso, para lo cual el Magistrado del Supremo Tribunal o el Procurador General de Justicia del Estado, en su caso, remitirán al propio Congreso los expedientes respectivos dentro del término de diez días contados desde la fecha en que entre en vigor esta disposición.
 
 ART. SEGUNDO.- El presente Decreto comienza a surtir sus efectos desde la fecha de su promulgación y deroga todas las demás Leyes y disposiciones que se opongan a su cumplimiento.
 
-P.O. 3 DE SEPTIEMBRE DE 1941
+P.O. 3 DE SEPTIEMBRE DE 1941.
 
 UNICO.- El presente Decreto entra en vigor desde la fecha en que se publique en el Periódico Oficial del Estado.
 
-P.O. 27 DE FEBRERO DE 1943
+P.O. 27 DE FEBRERO DE 1943.
 
 UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su promulgación.
 
-P.O. 25 DE AGOSTO DE 1943
+P.O. 25 DE AGOSTO DE 1943.
 
 UNICO.- El presente Decreto entra en vigor desde la fecha en que se publique en el Periódico Oficial del Estado.
 
-P.O. 26 DE DICIEMBRE DE 1945
+P.O. 26 DE DICIEMBRE DE 1945.
 
 UNICO.- El presente Decreto entrará en vigor el día primero de enero de mil novecientos cuarenta y seis.
 
-P.O. 20 DE AGOSTO DE 1947
+P.O. 20 DE AGOSTO DE 1947.
 
 UNICO.- El presente Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
 
-P.O. 26 DE DICIEMBRE DE 1953
+P.O. 26 DE DICIEMBRE DE 1953.
 
 UNICO.- La reforma a que se contrae el presente Decreto, surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-P.O. 29 DE OCTUBRE DE 1958
+P.O. 29 DE OCTUBRE DE 1958.
 
 UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-P.O. 31 DE DICIEMBRE DE 1969
+P.O. 31 DE DICIEMBRE DE 1969.
 
 Artículo Primero.- Envíese la presente Iniciativa de Reformas a los HH. Ayuntamientos del Estado, para los efectos señalados en la parte final del Artículo 131 Constitucional.
 
@@ -1487,11 +1489,11 @@ Artículo Segundo.- En las Leyes, Reglamentos y demás disposiciones vigentes, l
 
 Artículo Tercero.- Las presentes reformas constitucionales entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 25 DE MARZO DE 1970
+P.O. 25 DE MARZO DE 1970.
 
 UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-P.O. 26 DE ABRIL DE 1972
+P.O. 26 DE ABRIL DE 1972.
 
 DECRETO 5425, QUE REFORMA ART. 26.
 
@@ -1503,7 +1505,7 @@ La Reforma introducida mediante este Decreto entrará en vigor en todo el Estado
 
 Los 2 Representantes que cubrirán las Diputaciones creadas, serán electos popularmente siguiendo los lineamientos de la Ley Electoral del Estado, y dentro de los términos que fije el Calendario Electoral para 1972.
 
-P.O. 26 DE ABRIL DE 1972
+P.O. 26 DE ABRIL DE 1972.
 
 DECRETO 5426, QUE REFORMA ART. 28.
 
@@ -1511,19 +1513,19 @@ DECRETO 5426, QUE REFORMA ART. 28.
 
 La reforma introducida en el presente Decreto entrará en vigor en todo el Estado, a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 18 DE ENERO DE 1975
+P.O. 18 DE ENERO DE 1975.
 
 UNICO.- El presente Decreto entrará en vigor en todo el Estado al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 29 DE NOVIEMBRE DE 1975
+P.O. 29 DE NOVIEMBRE DE 1975.
 
 UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-P.O. 27 DE DICIEMBRE DE 1975
+P.O. 27 DE DICIEMBRE DE 1975.
 
 UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-P.O. 28 DE AGOSTO DE 1976
+P.O. 28 DE AGOSTO DE 1976.
 
 ###### ARTICULO PRIMERO.
 
@@ -1533,16 +1535,22 @@ Por este solo año, el Gobernador rendirá el Informe que previene el Artículo 
 
 Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-P.O. 12 DE MARZO DE 1977
+P.O. 12 DE MARZO DE 1977.
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-P.O. 8 DE JUNIO DE 1977
+P.O. 8 DE JUNIO DE 1977.
 
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 2 DE JULIO DE 1977
+P.O. 2 DE JULIO DE 1977.
 
 UNICO.- El presente Decreto surtirá sus efectos legales a partir del día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE JULIO DE 1977.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
