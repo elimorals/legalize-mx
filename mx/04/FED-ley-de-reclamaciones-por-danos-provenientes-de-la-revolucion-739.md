@@ -4,7 +4,7 @@ identifier: "FED-ley-de-reclamaciones-por-danos-provenientes-de-la-revolucion-73
 country: "mx"
 rank: "ley"
 publication_date: "1919-09-11"
-last_updated: "1920-09-17"
+last_updated: "1924-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=739&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1919-08-30"
 
 LEY DE RECLAMACIONES POR DAÑOS PROVENIENTES DE LA REVOLUCIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE SEPTIEMBRE DE 1920.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE AGOSTO DE 1924.
 
 Ley publicada en el Número 10 del Diario Oficial, el jueves 11 de septiembre de 1919.
 
@@ -62,6 +62,14 @@ II.- Por fuerzas de esos mismos Gobiernos en ejercicio de sus funciones durante 
 III.- Por fuerzas dependientes del antiguo ejército federal hasta su disolución, y
 
 IV.- Por foragidos o rebeldes, siempre que se compruebe que el daño causado se consumó a consecuencia de algún acto, lenidad u omisión imputables a las autoridades legítimas encargadas de dar garantías. No habrá lugar a indemnización en el caso a que se refiere este inciso, si el paciente del daño hubiere ejecutado actos voluntarios significativos de un reconocimiento expreso de la autoridad de los rebeldes o foragidos o de la intención de ayudarlos contra las autoridades legítimas encargadas de dar garantías.
+
+> <small>(ADICIONADA, D.O. 7 DE AGOSTO DE 1924)</small>
+
+V.- Por fuerzas que sirvieron al llamado Gobierno de la Convención desde que ésta desconoció a la Primera Jefatura del Ejército Constitucionalista, hasta al 30 de junio de 1920.
+
+> <small>(ADICIONADA, D.O. 7 DE AGOSTO DE 1924)</small>
+
+VI.- Por motines, tumultos o fuerzas insurrectas distintas de las anteriores, desde el 20 de noviembre de 1910 hasta el 30 de junio de 1920, siempre que se compruebe que las autoridades competentes omitieron dar garantías al reclamante u obraron con lenidad.
 
 > <small>[N. DE E. PARA VER LA FECHA ACTUALIZADA A LA QUE REFIERE EL PRESENTE ARTÍCULO, SE DEBEN CONSULTAR LOS ARTÍCULOS DEL DECRETO PUBLICADO EN EL D.O. DE 17 DE SEPTIEMBRE DE 1920 QUE SE LOCALIZAN EN EL APARTADO DE TRANSITORIOS DE ESTE ORDENAMIENTO.]</small>
 
@@ -192,3 +200,11 @@ A partir del 6 de febrero del año entrante de 1921, todas las acciones que pued
 ###### Artículo 4.
 
 No podrán acogerse a los beneficios del Decreto de 30 de agosto de 1919, que reformó el de 24 de noviembre de 1917, sobre reclamaciones de daños causados por la Revolución, los autores, cómplices o encubridores de los delitos cometidos contra el orden constitucional en el mes de febrero de 1913.
+
+D.O. 7 DE AGOSTO DE 1924.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO ADICIONANDO EL ARTÍCULO 3o. DE LA LEY DE RECLAMACIONES DE 30 DE AGOSTO DE 1919".]
+
+PRIMERO.- Esta Ley comenzará a regir desde el día 1o. de agosto del año en curso.
+
+SEGUNDO.- Quedan derogadas todas las disposiciones que se opongan a la presente Ley.
