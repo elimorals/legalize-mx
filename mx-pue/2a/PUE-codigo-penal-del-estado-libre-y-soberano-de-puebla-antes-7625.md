@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "1997-03-14"
+last_updated: "1998-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1998.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -67,9 +67,11 @@ II.- Que el acusado no haya sido definitivamente juzgado por los mismos hechos e
 
 Los delitos continuados y los permanentes se perseguirán con arreglo a las leyes del Estado de Puebla, cuando un momento cualquiera de la ejecución de aquellos delitos, se realice dentro del territorio de este Estado.
 
-###### Artículo 4°.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-Las leyes penales del Estado de Puebla se aplicarán a los infractores de las mismas, cualquiera que sea la nacionalidad y residencia de los responsables.
+###### Artículo 4.
+
+Las Leyes Penales del Estado de Puebla se aplicarán a las personas infractoras de las mismas, cualquiera que sea su nacionalidad y residencia. Se es penalmente imputable a partir de los dieciséis años en el Estado de Puebla.
 
 ###### Artículo 5°.
 
@@ -191,23 +193,41 @@ II.- Lo dispuesto en la fracción anterior, se aplicará cuando el delito result
 
 III.- Se exceptúan de lo dispuesto en este artículo las dependencias e instituciones del Estado.
 
-### CAPITULO QUINTO.- CAUSAS EXCLUYENTES DE RESPONSABILIDAD
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+### CAPITULO QUINTO.- CAUSAS DE EXCLUSION DEL DELITO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 26.
 
-Son causas excluyentes de responsabilidad:
+Son causas de exclusión del delito:
 
-I.- Obrar el inculpado impulsado por una fuerza física exterior irresistible;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-II.- Hallarse el sujeto activo, al cometer la infracción, en un estado de inconsciencia de sus actos, determinado por el empleo accidental e involuntario de sustancias tóxicas, embriagantes, enervantes, estupefacientes o psicotrópicas, o por un estado toxicoinfeccioso agudo o por un trastorno mental e involuntario de carácter patológico y transitorio;
+I.- Que el hecho se realice sin la intervención de la voluntad del agente;
 
-III.- El miedo grave o temor fundado e irresistible de un mal inminente y grave, en la persona o bienes del infractor, o de otra persona, siempre que no exista medio practicable y menos perjudicial de evitar éste y no haya sido provocado ese mal por el mismo infractor;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+II.- La falta de alguno de los elementos del tipo penal del delito de que se trate;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+III.- Actuar el inculpado con el consentimiento del titular del bien jurídico afectado, siempre que se llenen los siguientes requisitos:
+
+a) Que el bien jurídico sea disponible;
+
+b) Que el titular del bien tenga capacidad jurídica para disponer libremente del mismo, y
+
+c) Que el consentimiento sea expreso o tácito y sin que medie algún vicio; o que el hecho se realice en circunstancias tales que permitan presumir fundadamente que, de haberse consultado al titular, éste hubiese otorgado el mismo;
 
 IV.- Obrar el autor en defensa de su persona, de su honor o de sus bienes, o de la persona, honor o bienes de otro, repeliendo una agresión actual, violenta, sin derecho y de la cual resulte un peligro inminente; a no ser que se pruebe que intervino alguna de las circunstancias siguientes:
 
 a).- Que el agredido provocó la agresión, dando motivo inmediato y suficiente para ella;
 
-b).- Que previó la agresión y pudo fácilmente evitarla por otros medios legales;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+b) Que previó la agresión y pudo fácilmente evitarla por otros medios;
 
 c).- Que no hubo necesidad racional del medio empleado en la defensa; o
 
@@ -221,7 +241,15 @@ V.- La necesidad en que se vea el infractor de salvar su propia persona o sus bi
 
 VI.- Obrar en el cumplimiento de un deber legal o en el ejercicio de un derecho establecido en la ley;
 
-VII.- Ejecutar un hecho que no es delictuoso sino por circunstancias particulares del ofendido, si el acusado las ignoraba inculpablemente al tiempo de obrar;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+VII.- Que al momento de realizar el hecho típico, el agente no tenga la capacidad para comprender el carácter ilícito de aquél o para conducirse de acuerdo con esa comprensión, en virtud de intervenir alguna de las condiciones siguientes:
+
+a) Por circunstancias particulares del ofendido, si el acusado las ignoraba sin culpa al tiempo de obrar, o
+
+b) Por padecer el agente trastorno mental o desarrollo intelectual retardado, a no ser que él mismo hubiere provocado su trastorno mental dolosa o culposamente, en cuyo caso responderá por el resultado típico, siempre y cuando lo haya previsto o le fuere previsible.
+
+Cuando la capacidad a que se refiere este inciso anterior sólo se encuentre considerablemente disminuida, la punibilidad será hasta de las dos terceras partes del delito de que se trate.
 
 VIII.- Obedecer a un superior legítimo en el orden jerárquico, aun cuando su mandato constituya un delito, si esta circunstancia no es notoria ni se prueba que el agente la conocía;
 
@@ -238,6 +266,10 @@ a) Sobre alguno de los elementos esenciales que integran el tipo penal; o,
 b) Respecto de la ilicitud de la conducta, ya sea porque el sujeto desconozca la existencia de la Ley o el alcance de la misma, o porque crea que está justificada su conducta.
 
 Si el error es vencible se sancionará conforme a lo dispuesto en el artículo 99 bis de este Código.
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+XII.- Que atendiendo a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto activo una conducta diversa a la que realizó, en virtud de no haberse podido determinar a actuar conforme a derecho.
 
 ###### Artículo 27.
 
@@ -295,11 +327,11 @@ La sanción impuesta, o sufrida en el extranjero o en otro Estado de la Repúbli
 
 (DEROGADO, P.O. 1 DE JULIO DE 1994)
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 34.
 
-No hay reincidencia cuando el primero o el segundo delito sea culposo y el otro intencional.
+No se considerará reincidencia cuando el primer delito sea doloso y el segundo culposo y viceversa.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -331,9 +363,13 @@ IV.- Decomiso, pérdida de los instrumentos del delito y destrucción de cosas p
 
 V.- Internación de enfermos mentales;
 
-VI.- Suspensión o privación de derechos civiles o políticos;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-VII.- Destitución e inhabilitación para el desempeño de funciones, empleos y cargos públicos y suspensión de los mismos y de profesiones;
+VI.- Trabajo a favor de la comunidad;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+VII.- Sanción privativa de derechos, que comprende la suspensión de derechos civiles o políticos, y la destitución, inhabilitación o suspensión para el desempeño de funciones, empleos, cargos, comisiones, profesiones, artes u oficios;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -401,11 +437,11 @@ La multa que se impusiera como sanción es independiente de la responsabilidad c
 
 Cuando varias personas cometan un delito, el Juez fijará la multa para cada uno de los delincuentes.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 50.
 
-La multa impuesta se hará efectiva por las oficinas fiscales que ejercen la facultad económico coactiva, sin que el condenado pueda discutir nuevamente su procedencia, e ingresará al Fondo para el Pago de la Reparación del Daño y Protección de las Víctimas de los Delitos.
+La multa impuesta se hará efectiva por las oficinas fiscales que ejercen la facultad económico coactiva, sin que el condenado pueda discutir nuevamente su procedencia e ingresará al Fondo que se constituya de acuerdo con la Ley para la Protección a Víctimas de Delitos.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -413,15 +449,15 @@ La multa impuesta se hará efectiva por las oficinas fiscales que ejercen la fac
 
 La reparación del daño por el delincuente, tiene el carácter de pena pública independientemente de la acción civil y se exigirá de oficio por el Ministerio Público, determinando su cuantía con base en las pruebas obtenidas en el proceso.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 51.
 
-La reparación del daño comprende:
+La reparación del daño y de los perjuicios causados por el delito, comprende:
 
-I.- La restitución de la cosa obtenida o su valor comercial; y
+I.- La restitución del bien obtenido por el delito y de sus frutos existentes, o si no fuere posible, el pago del precio de ambos a valor comercial, y
 
-II.- La indemnización del daño material o moral y el resarcimiento de los perjuicios ocasionados.
+II.- La indemnización del daño material y moral, así como el resarcimiento de los perjuicios ocasionados.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -442,6 +478,14 @@ V.- Las sociedades, asociaciones y otras personas colectivas, por los delitos de
 Se exceptúa de esta regla a la sociedad conyugal, pues, en todo caso, cada cónyuge responderá con sus bienes propios por la reparación del daño que cause; y
 
 VI.- El Estado, subsidiariamente, por sus funcionarios o empleados.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+Artículo 51 ter.- Serán aplicables a la obligación de reparar el daño y los perjuicios causados por el delito, las siguientes disposiciones:
+
+I.- Tendrá carácter de preferente con respecto a la multa y a cualquier otra obligación asumida con posterioridad al delito, excepto las de carácter alimentario o laboral, salvo que se demuestre que éstas fueron contraídas para evadir el cumplimiento de aquéllas, y
+
+II.- Si el ofendido o la persona que tuviere derecho al pago de la reparación del daño, renunciare al cobro de la misma, cuyo monto haya sido acreditado dentro del proceso y se haya determinado en sentencia, el Estado se subrogará legalmente, a través de la Procuraduría General de Justicia, en los derechos de aquélla y destinará el importe devengado al Fondo que se constituya de acuerdo con la Ley para la Protección a Víctimas de Delitos.
 
 ### CAPITULO DUODECIMO.- DECOMISO, PERDIDA DE LOS INSTRUMENTOS DEL DELITO Y DESTRUCCION DE COSAS PELIGROSAS Y NOCIVAS
 
@@ -489,15 +533,19 @@ CAPITULO DECIMOTERCERO.- INTERNACION DE ENFERMOS MENTALES.
 
 ### CAPITULO VIGESIMO.- EJECUCION DE LAS SENTENCIAS
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 57.
 
 Los enfermos mentales, que hayan realizado hechos o incurrido en omisiones tipificadas como delitos, serán internados en casas de salud especializadas para su tratamiento.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 58.
 
-El Juez procederá en la forma ordenada por el artículo anterior, con los procesados que sean declarados enfermos mentales durante el procedimiento.
+La autoridad judicial procederá en la forma ordenada por el artículo anterior cuando, puestos a su disposición, se declare que los inculpados son enfermos mentales.
+
+El Ministerio Público podrá actuar de la misma forma, si los inculpados están a su disposición y se dictamina su enajenación mental, de manera tal que haga improcedente que se ejercite acción penal.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -511,47 +559,67 @@ La internación a que se refieren los dos artículos anteriores, podrá ser modi
 
 Si un enfermo mental, a los que se refiere el artículo 58, sana, será reingresado al Reclusorio para que se continúe el proceso, computándole el tiempo de detención en la casa de internación.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 61.
 
-La autoridad judicial podrá:
+La Autoridad Judicial o Ministerial podrá entregar a los enfermos mentales a que se refieren los artículos 57 y 58, a quienes legalmente corresponda hacerse cargo de ellos, adquiriendo éstos la responsabilidad ante terceros por los daños que causen, así como la obligación de tratarlos y vigilarlos.
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-I.- Entregar a los enfermos mentales a que se refieren los artículos 57 y 58, a quienes legalmente corresponda hacerse cargo de ellos; adquiriendo la responsabilidad ante terceros por los daños que causen, así como la obligación de tratarlos y vigilarlos;
+CAPITULO DECIMOCUARTO.- TRABAJO A FAVOR DE LA COMUNIDAD
 
-II.- Ordenar que los procesados a quienes se aplicó la fracción I anterior, sean reintegrados al establecimiento especial en el que hubieren estado recluidos, cuando estime esa autoridad, que ni aun con la garantía queda asegurado el interés de la sociedad.
-
-CAPITULO DECIMOCUARTO.- SUSPENSION O PRIVACION DE DERECHOS CIVILES O POLITICOS
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 62.
 
-La suspensión de derechos es de dos clases y se rige por las siguientes disposiciones:
+El trabajo a favor de la comunidad consiste en la prestación de un servicio no remunerado, en instituciones públicas de educación, asistencia o servicio social, o en instituciones privadas asistenciales y no lucrativas, ubicadas preferentemente en la comunidad del sentenciado, y se rige por las siguientes disposiciones:
 
-I.- La primera resulta por ministerio de la ley, de una sanción como consecuencia necesaria de ésta;
+I.- Deberá computarse por jornada, fijada por el Juez conforme a las circunstancias del caso, sin que exceda del límite legal de una jornada ordinaria y dentro de horarios diferentes a los requeridos para las labores que representen la fuente principal de subsistencia del sentenciado y de sus acreedores alimentarios;
 
-II.- La segunda se impone como sanción en una sentencia definitiva;
+II.- El señalamiento del trabajo se hará tomando en cuenta las necesidades de la defensa social y la vocación, aptitudes y posibilidades del sentenciado;
 
-III.- En la primera, la suspensión comienza y concluye con la sanción de que es consecuencia;
+III.- Tratándose de persona perteneciente a una comunidad étnica indígena, el Juez tomará en cuenta los usos y costumbres de la comunidad correspondiente;
 
-IV.- En la segunda, si la suspensión se impone con otra sanción privativa de la libertad, comenzará al terminar ésta y su duración será la señalada en la sentencia;
+IV.- Esta sanción tendrá el carácter de libertad en tratamiento y por lo tanto no deberá desarrollarse en condiciones humillantes para el sentenciado;
 
-V.- La sanción privativa de la libertad produce como consecuencia necesaria la suspensión de los derechos políticos;
+V.- Cada día de prisión será sustituido por cuatro horas de trabajo a favor de la comunidad;
 
-VI.- El sentenciado a una sanción privativa de la libertad está además impedido, por lo que a sus derechos civiles se refiere, para ser tutor, curador, apoderado, defensor, albacea, perito, depositario, interventor judicial, síndico, interventor de toda clase de concursos, árbitro, arbitrador, asesor y representante de ausentes;
+VI.- El Ejecutivo establecerá los programas para la aplicación y supervisión del trabajo a favor de la comunidad, a través de convenios con las instituciones respectivas, las que deberán rendir los informes respectivos, y
 
-VII.- Se exceptúa de lo dispuesto en la fracción anterior, el caso del albacea cuando es único heredero; y
+VII.- Una vez sustituido el total de días de prisión que se hubieren impuesto, el Ejecutivo avisará al Juez, para el efecto de que declare extinguida la sanción de trabajo a favor de la comunidad.
 
-VIII.- La suspensión y el impedimento a que se refieren las fracciones V y VI anteriores, comenzarán desde que cause ejecutoria la sentencia y durarán todo el tiempo de la condena.
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-CAPITULO DECIMOQUINTO.- DESTITUCION E INHABILITACION PARA EL DESEMPEÑO DE EMPLEOS, CARGOS O PROFESIONES
+CAPÍTULO DECIMOQUINTO.- SANCIÓN PRIVATIVA DE DERECHOS
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 63.
 
-La suspensión y la destitución de funciones, de empleos o cargos públicos, implica la privación de sueldo.
+La privación de derechos resulta por ministerio de la Ley como consecuencia necesaria de una sanción, o por imposición del Juez, como sanción en sentencia definitiva.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 64.
 
-Las sanciones privativas de la libertad impuestas por delitos intencionales, cuya duración exceda de un año, producen como consecuencia necesaria la destitución de cualesquiera funciones, empleos o cargos públicos que desempeñare el reo.
+La privación de derechos se rige por las siguiente (sic) disposiciones:
+
+I.- En los casos en que la privación resulte por ministerio de Ley, la suspensión comienza y concluye con la sanción de que es consecuencia;
+
+II.- Si la privación es fijada por el Juez y se impone junto con una sanción privativa de la libertad, la suspensión o inhabilitación comenzará al terminar aquélla y su duración será la señalada en la sentencia;
+
+III.- La sanción privativa de la libertad produce como consecuencia necesaria la suspensión de los derechos políticos y, también para el desempeño de funciones, empleos, cargos, comisiones, profesiones, artes u oficios;
+
+IV.- El sentenciado con una sanción privativa de la libertad está además impedido, por lo que a sus derechos civiles se refiere, para ser tutor, curador, apoderado, defensor, albacea, perito, depositario, interventor judicial, síndico, interventor de toda clase de concursos, árbitro, arbitrador, asesor y representante de ausentes;
+
+V.- Se exceptúa de lo dispuesto en la fracción anterior, el caso del albacea cuando es único heredero;
+
+VI.- La sanción privativa de la libertad impuesta por delito intencional, cuya duración exceda de un año, produce como consecuencia necesaria la destitución de cualesquiera funciones, empleos, cargos o comisiones públicos que desempeñare la persona sentenciada;
+
+VII.- La destitución, inhabilitación o suspensión para el desempeño de funciones, empleos, cargos o comisiones públicos implican la privación del sueldo correspondiente, y
+
+VIII.- La suspensión y el impedimento a que se refieren las fracciones III y IV anteriores, comenzarán desde que cause ejecutoria la sentencia y durarán todo el tiempo de la condena.
 
 ###### Artículo 65.
 
@@ -687,15 +755,19 @@ Cuando con el delito de imprudencia se cause homicidio o lesiones de las enumera
 
 Cuando se causa homicidio de dos o más personas por actos u omisiones imprudenciales de quien realiza un servicio público de transporte, la sanción será de seis a quince años de prisión e inhabilitación para transportar pasajeros, aun en forma ocasional.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 87.
 
-Cuando por impudencia se ocasione únicamente daño en propiedad ajena que no sea mayor de lo equivalente a cien veces el salario mínimo, sólo se perseguirá a petición de parte y se sancionará con multa hasta por el valor del daño causado. La misma sanción se aplicará cuando el delito culposo se ocasione con motivo del tránsito de vehículos cualquiera que sea el valor del daño causado.
+Cuando por el tránsito de vehículos, en forma culposa se ocasione daño en propiedad ajena y/o lesiones, se aplicarán las siguientes disposiciones:
 
-Si el delito imprudencial se cometiere con motivo del tránsito de vehículos y se causen lesiones o daño en propiedad ajena, cualquiera que sea su valor o ambos, sólo se procederá a petición de parte, siempre que el presunto responsable no se hubiere encontrado en estado de ebriedad, bajo el influjo de estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares.
+I.- Sólo se perseguirá a petición de parte si el presunto responsable no se hubiere encontrado en estado de ebriedad, o bajo el influjo de estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares;
 
-Lo dispuesto en los párrafos anteriores, no se aplicará cuando el delito se cometa por quien realiza un servicio público de transportes, escolar o de cualquier naturaleza.
+II.- Si la parte agraviada estuviera inconsciente o no pudiera declarar, el parte de las autoridades administrativas correspondientes, surtirá los efectos de querella;
+
+III.- Cuando sólo se ocasione daño en propiedad ajena, se impondrá la misma sanción prevista en la fracción IV del artículo 414, cualquiera que sea el valor del daño causado, y
+
+IV.- Lo dispuesto en el presente artículo no se aplicará cuando el delito se cometa por quien realiza un servicio de transporte público o mercantil.
 
 ###### Artículo 88.
 
@@ -819,9 +891,13 @@ En caso de que el error a que se refiere el inciso a) de la fracción XI del art
 
 CAPITULO DECIMONOVENO.- CONMUTACION DE SANCIONES
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 100.
 
-Cuando la prisión que se hubiere impuesto no exceda de cinco años, pueden el Juez o el Tribunal conmutar esa última sanción por multa y para que surta efecto la conmutación deberá pagarse ésta y la sanción pecuniaria si también se impuso.
+Los Tribunales podrán resolver que la sanción privativa de la libertad impuesta se conmute por multa o trabajo a favor de la comunidad, si la prisión no excede de dos años, si es la primera vez que el sentenciado incurre en delito y, si además, ha demostrado buenos antecedentes personales, o sólo por multa, si rebasa los dos años, pero no excede de cinco.
+
+Para que surta efecto la conmutación, deberá pagarse primero la reparación del daño y la multa, si también se impuso.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -841,33 +917,41 @@ II.- Cuando el sentenciado al cometer el delito percibía un salario, la multa s
 
 III.- Si el salario percibido por el sentenciado fuere mayor de quince tantos del mínimo vigente, no se tomará el excedente para fijar el importe de la conmutación.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+Artículo 102 bis.- Si la persona sentenciada se encuentra gozando de su libertad caucional, el depositante podrá autorizar que la garantía que haya exhibido para tal efecto, se aplique primero a la reparación del daño, a la multa y pago de la multa que conmuta la pena, ordenándose la devolución del remanente, en su caso, a quien exhibió la caución. Si el importe de la garantía fuere insuficiente, la persona sentenciada deberá cubrir la diferencia en términos de Ley.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 103.
 
-Una vez pagada la multa que sustituya la prisión, así como la sanción pecuniaria incluida la reparación del daño, que se hubiere impuesto, la autoridad que conmutó la sanción ordenará la libertad del sentenciado.
+Una vez pagada la sanción pecuniaria que se hubiere impuesto, incluida la reparación del daño, y conmutada la pena, el Tribunal o la autoridad que lo tenga a su disposición, ordenará su libertad.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 104.
 
-Con las sumas que se obtengan de las multas impuestas como sanciones, o como conmutación de la pena de prisión, se constituirá el Fondo para la Protección de las Víctimas de los Delitos, que se integrará al Fondo para el Pago de la Reparación del Daño establecido por el artículo 1997 del Código Civil.
+Con las sumas que se obtengan de las multas impuestas como sanciones o como conmutación de la pena de prisión, se integrará un Fondo para la protección a víctimas de delitos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 105.
 
-La Ley del Fondo para el pago de la Reparación del Daño y Protección de las Víctimas de los Delito establecerá el organismo director de ese Fondo, y entre las facultades de éste, establecerá:
+La Ley para la Protección a las Víctimas del Delito establecerá:
 
-I.- La protección:
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-a).- de quienes sufran daños personales;
-
-b).- de las víctimas directas e indirectas de los delitos.
+I.- La protección de las víctimas que sufran daños personales;
 
 II.- La facultad de autorizar a quien carezca de medios económicos y se le haya concedido la conmutación, para que pague la multa, en uno o varios plazos según sus posibilidades, y con un interés que puede ser inferior, pero no superior al legal;
 
 III.- El procedimiento para hacer efectiva la protección, la cual será en todo caso facultativa y no obligatoria.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 106.
 
-La protección de quienes sufran daños personales, comprenderá la inhumación en caso de muerte de la víctima; y la atención inmediata de quienes dependían económicamente de ésta.
+La protección a víctimas de delitos se regirá conforme a lo dispuesto por la Ley para la Protección a las Víctimas del Delito y su Reglamento.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -877,31 +961,47 @@ Cuando el Fondo indemnice total o parcialmente a quien sufra daños personales, 
 
 ### CAPITULO VIGESIMO PRIMERO.- TRABAJO DE LOS PROCESADOS PRIVADOS DE LIBERTAD
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 108.
 
-Las sanciones y medidas de seguridad impuestas conforme a lo que dispone este Código, serán ejecutadas por las autoridades y según lo establezca la Ley de Ejecución de Sanciones Privativas de la Libertad, la cual reglamentará también la libertad preparatoria.
+Las sanciones y medidas de seguridad impuestas conforme a lo que dispone este Código, serán ejecutadas por las autoridades competentes y según lo establezca la Ley correspondiente la cual reglamentará también la remisión parcial de la pena, las medidas preliberacionales, la libertad preparatoria, la rehabilitación y el trabajo de las personas detenidas, sujetas a formal prisión.
 
 ### CAPITULO VIGESIMO SEGUNDO.- RETENCION
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 109.
 
-La Ley de Ejecución de Sanciones Privativas de la Libertad reglamentará el trabajo de las personas detenidas sujetas a formal prisión.
+El Ejecutivo del Estado podrá conceder el beneficio de remisión parcial de la pena, a razón de un día de prisión por cada dos días de trabajo, a la persona sentenciada que observe buena conducta, participe regularmente en las actividades educativas que se organicen en el establecimiento y, sobre todo, revele por otros datos su efectiva readaptación social; la remisión funcionará independientemente del beneficio de libertad preparatoria.
 
-### CAPITULO VIGESIMO TERCERO.- EXTINCION DE LA ACCION PERSECUTORIA Y DE LAS SANCIONES
+El Gobernador del Estado podrá autorizar la conmutación de sanciones, después de impuestas en sentencia ejecutoriada, conforme a las disposiciones correspondientes en lo conducente.
+
+### CAPITULO VIGESIMO PRIMERO (SIC).- EXTINCION DE LA ACCION PERSECUTORIA Y DE LAS SANCIONES
 
 ###### Artículo 110.
 
-Las sanciones privativas de libertad, que excedan de cinco años, se entienden impuestas en calidad de retención hasta por la mitad más de su duración y respecto a ellas se aplicarán las siguientes disposiciones:
+El tratamiento preliberacional sólo podrá iniciarse si la persona sentenciada ha compurgado efectivamente la tercera parte de la sanción privativa de la libertad que se le impuso, tratándose de delitos dolosos; dos terceras partes de la misma, si se trata de algún delito calificado como grave, o una quinta parte, en caso de delitos imprudenciales o culposos.
 
-I.- En la sentencia se expresará que la sanción privativa de libertad se entiende impuesta en calidad de retención, y
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 1990)</small>
-
-II.- La sanción y la retención juntas no podrán exceder de cincuenta años.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 111.
 
-La retención se hará efectiva por el Ejecutivo del Estado, según la Ley de Ejecución de Sanciones Privativas de la Libertad.
+El Ejecutivo del Estado concederá el beneficio de libertad preparatoria a la persona sentenciada que hubiere cumplido el tratamiento preliberacional y satisfaga los siguientes requisitos:
+
+I.- Haber observado buena conducta durante la ejecución de su sentencia;
+
+II.- Que del estudio integral de su personalidad se infiera que está socialmente readaptado;
+
+III.- Haber cubierto o garantizado la reparación del daño causado, en los términos señalados por el artículo 51, y
+
+IV.- Haber otorgado la garantía o caución que se le haya fijado para asegurar su presentación ante la autoridad siempre que sea requerido.
+
+La autoridad competente podrá revocar la libertad preparatoria, en términos de la Ley correspondiente, y en tal caso, la persona sentenciada deberá cumplir el resto de la sanción privativa de la libertad. Los hechos que originen los nuevos procesos a que se refiere este artículo interrumpen los plazos para extinguir la sanción.
+
+> <small>N. DE E. EL PRESENTE CAPITULO DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO UNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL PRESENTE CODIGO, SE ELIMINAN LOS CAPITULOS VIGESIMO PRIMERO Y VIGESIMO SEGUNDO; Y EL CAPITULO VIGESIMO TERCERO PASA A SER VIGESIMO PRIMERO, TODOS ELLOS DEL LIBRO PRIMERO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ### CAPITULO PRIMERO.- DELITOS CONTRA EL ORDEN CONSTITUCIONAL Y LA SEGURIDAD DEL ESTADO
 
@@ -961,15 +1061,17 @@ Una vez otorgado el perdón, no podrá revocarse.
 
 #### SECCION QUINTA.- REHABILITACION
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 120.
 
-La rehabilitación tiene por objeto reintegrar al sentenciado en el goce de los derechos de cuyo ejercicio se le hubiere suspendido, privado o inhabilitado.
+La rehabilitación del sentenciado resulta de que éste haya cumplido con un proceso de readaptación social y consiste en reintegrarlo plenamente en el goce de los derechos de cuyo ejercicio se le hubiere suspendido, inhabilitado o privado. La declaratoria de rehabilitación se otorgará en los casos y con los requisitos que al efecto señale la Ley correspondiente.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 121.
 
-La rehabilitación se otorgará en los casos y con los requisitos que al efecto señale la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de la Libertad.
+La readaptación social es el proceso penitenciario que tiene por objeto proporcionar al sentenciado los elementos para que pueda reintegrarse en el núcleo social y se le declare rehabilitado. La readaptación tendrá el carácter de tratamiento progresivo y técnico, formado por períodos de estudio y diagnóstico, tratamiento en clasificación, tratamiento preliberacional y reintegración, mismos que se realizarán en los casos, condiciones y con los requisitos que al efecto dispongan las autoridades competentes, de acuerdo con la Ley correspondiente.
 
 #### SECCION SEXTA.- INDULTO
 
@@ -1045,13 +1147,11 @@ La acción persecutoria prescribe en un plazo igual al máximo de la sanción co
 
 Si el delito solo mereciere destitución, suspensión, privación de derechos o inhabilitación, la prescripción se consumará en el plazo de dos años.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 133.
 
-La acción persecutoria que nazca de un delito, sea o no continuo, que sólo pueda perseguirse por querella de parte, prescribirá en dos años, a partir de la consumación o primer acto de ejecución.
-
-Satisfecho el requisito inicial de la querella, para la prescripción de la acción penal se observarán las demás reglas señaladas por este Código, para tal efecto.
+La acción persecutoria que nazca de un delito, sea o no continuo, que sólo pueda perseguirse por querella de parte, prescribirá en dos años; pero satisfecho el requisito inicial de la querella, se aplicarán las reglas señaladas para los delitos que se persiguen de oficio.
 
 ###### Artículo 134.
 
@@ -1465,7 +1565,11 @@ Se aplicará prisión de uno a diez años y multa de treinta a trescientos días
 
 #### SECCION PRIMERA.- ULTRAJES A LA MORAL PUBLICA
 
-### CAPITULO SEXTO.- CONTAGIO Y PROPAGACION DE ENFERMEDADES
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+### CAPITULO SEXTO.- PELIGRO DE CONTAGIO Y PROPAGACIÓN DE ENFERMEDADES
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 #### SECCION SEGUNDA.- CORRUPCION DE MENORES E INCAPACES
 
@@ -1505,6 +1609,8 @@ Se impondrá multa de uno a diez días de salario, a las partes en un negocio ci
 
 #### SECCION PRIMERA.- RESPONSABILIDAD DE ABOGADOS, PATRONOS Y LITIGANTES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 207.
 
 Al que cometa un delito en contra de un funcionario público, empleado o agente de la autoridad, en el acto de ejercer sus funciones o con motivo de éstas, se le impondrá sanción de un mes a tres años de prisión y multa de uno a diez días de salario, además de la que corresponda imponerle por el delito cometido.
@@ -1543,23 +1649,31 @@ II.- Al cónyuge, ascendientes, descendientes, o parientes en línea recta o col
 
 Lo dispuesto en el artículo anterior se aplicará aunque las personas en él enumeradas oculten al culpable o impidan que se averigüe el delito, si no obraren por interés ni emplearen algún medio que por sí sea delito.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 #### SECCION TERCERA.- RESPONSABILIDAD TECNICA
 
 ### CAPITULO SEPTIMO.- DELITOS CONTRA LA MORAL PUBLICA
 
 ###### Artículo 213.
 
-El que sabiendo que está enfermo de sífilis o de otro mal venéreo, o de una enfermedad grave o fácilmente transmisible, tenga cópula o por cualquier otro medio directo ponga en peligro de contagio la salud de otra persona, se le impondrá prisión de ocho días a un año.
+Al que sabiendo que padece un mal venéreo o cualquier otra enfermedad crónica o grave que sea transmisible por vía sexual o por cualquier otro medio directo, pusiere en peligro de contagio la salud de otra persona, se le impondrá prisión de treinta días a dos años y multa de veinte a mil días de salario.
 
 ###### Artículo 214.
 
 En los supuestos previstos en el artículo anterior son aplicables las siguientes disposiciones:
 
-I.- Se presumirá el conocimiento de la dolencia, cuando el agente presente lesiones o manifestaciones externas de enfermedad fácilmente perceptibles;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-II.- Cuando se trate de cónyuges, o de personas que vivan en la situación a que se refiere el artículo 297 del Código Civil, sólo podrá procederse por querella del ofendido;
+I.- Se presumirá el conocimiento de la enfermedad, cuando el agente presente lesiones o manifestaciones externas de trastornos fácilmente perceptibles;
 
-III.- Si además del peligro de contagio, se causa algún daño, se impondrá la sanción que corresponda por éste.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+II.- Cuando se trate de cónyuges o de concubinos, sólo podrá procederse por querella de la parte ofendida, y
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+III.- La pena se impondrá, sin perjuicio de las sanciones que correspondan si se causa el contagio o algún otro daño o lesión, o de los que resultaren por la transmisión de una enfermedad.
 
 ### CAPITULO OCTAVO.- VIOLACION DE SECRETOS
 
@@ -1567,11 +1681,13 @@ III.- Si además del peligro de contagio, se causa algún daño, se impondrá la
 
 ###### Artículo 215.
 
-Se aplicará prisión de quince días a dos años y multa de cinco a cincuenta días de salario al que fabrique, publique, reproduzca, transporte o venda libros, escritos, imágenes, videocintas, dibujos u objetos obscenos, y al que los exponga, distribuya o haga circular.
+Al que ilegalmente fabricare, imprimiere, grabare, transportare, exhibiere, vendiere o hiciere circular por cualquier medio, imágenes, libros, revistas, escritos, fotografías, dibujos, carteles, videocintas, mecanismos u objetos lascivos, con implicaciones sexuales, se le aplicará prisión de treinta días a tres años y multa de diez a cien días de salario.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 216.
 
-La misma sanción establecida en el artículo anterior se impondrá a quien en público ejecute o haga ejecutar exhibiciones obscenas.
+La misma sanción establecida en el artículo anterior se impondrá a quien públicamente, en forma ilegal, ejecutare o hiciere ejecutar exhibiciones lascivas u obscenas.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -1607,9 +1723,11 @@ Incurrirán en la misma sanción establecida en el artículo anterior, los padre
 
 Para los efectos de los tres artículos anteriores se considerará como empleado en la cantina, taberna o centro de vicio al menor de dieciséis años que por un salario, la sola comida, comisión de cualquier índole o cualquier otro estipendio, gaje o emolumento, o gratuitamente, preste sus servicios en tal lugar.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 224.
 
-Las sanciones que señalan los artículos 217, 219 y 221 se duplicarán cuando el delincuente sea ascendiente, padrastro o madrastra, tutor o tutora del menor y se privará al reo de todo derecho a los bienes del ofendido y de la patria potestad sobre sus descendientes.
+Las sanciones que señalan los artículos 217, 219 y 221 se duplicarán cuando el delincuente percibiere un lucro derivado de su conducta o sea ascendiente, hermano, hermana, padrastro, madrastra, tutor o tutora del menor o persona que viva en la casa de éste. En el segundo supuesto se privará al reo de todo derecho a los bienes del ofendido y de la patria potestad sobre sus descendientes.
 
 #### SECCION TERCERA.- FALSIFICACION DE DOCUMENTOS EN GENERAL
 
@@ -1639,6 +1757,10 @@ El lenocinio se sancionará con prisión de seis a diez años y multa de cincuen
 
 Si el delincuente fuera ascendiente, descendiente, cónyuge, hermano, tutor, curador o estuviese encargado de la persona explotada, la sanción será de siete a quince años de prisión, sin perjuicio de la multa, y el reo será privado de todo derecho sobre la persona y bienes de aquélla e inhabilitado, en todo caso, para desempeñar la patria potestad, tutela, curatela o cualesquiera otro cargo similar.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+Artículo 228 bis.- Las sanciones que señalan los artículos 227 y 228 se duplicarán si la persona explotada es menor de dieciséis años.
+
 #### SECCION QUINTA.- OCULTACION O VARIACION DE NOMBRE O DOMICILIO
 
 #### SECCION SEXTA.- USURPACION DE FUNCIONES PUBLICAS O DE PROFESION Y USO INDEBIDO DE UNIFORMES O CONDECORACIONES
@@ -1661,9 +1783,11 @@ Se impondrá prisión de dos meses a un año o multa de uno a diez días de sala
 
 En el caso del artículo anterior, si el infractor hubiere conocido o recibido el secreto, comunicación o documento, por mera casualidad, las sanciones anteriores se reducirán a la mitad.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 232.
 
-Las sanciones serán de uno a cinco años de prisión, multa de diez a cien días de salario y destitución del cargo o empleo, o suspensión en los derechos de ejercer alguna profesión, arte u oficio, cuando la revelación o violación del secreto se refiera a un procedimiento de carácter industrial y sea hecha por persona que está o estuvo sirviendo en la fábrica, establecimiento o propiedad en donde se use tal procedimiento.
+Las sanciones serán de uno a cinco años de prisión, multa de cincuenta a quinientos días de salario y destitución del cargo, comisión o empleo, o suspensión de los derechos de ejercer alguna profesión, arte u oficio, cuando la revelación o violación del secreto se refiera a un procedimiento de carácter industrial y sea hecha por persona que prestare o hubiere prestado en la fábrica, establecimiento o propiedad en donde se use tal procedimiento.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -1675,9 +1799,11 @@ Ninguna autoridad podrá exigir la revelación de los secretos a que se refiere 
 
 #### SECCION PRIMERA.- ATAQUES AL PUDOR
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 234.
 
-Incurren en responsabilidad delictiva las personas físicas, los abogados, patronos o litigantes sin título profesional de abogados y los representantes de personas jurídicas, estén o no ostensiblemente patrocinados por abogados, por los actos siguientes:
+Incurren en responsabilidad delictiva las personas físicas, los abogados, patronos o litigantes sin título profesional de licenciatura en derecho y los representantes de personas jurídicas, estén o no ostensiblemente patrocinados por abogados, por la comisión sin causa justificada de los actos siguientes:
 
 I.- Alegar, a sabiendas, hechos falsos o leyes inexistentes o derogadas;
 
@@ -1697,11 +1823,15 @@ VI.- Promover incidentes o recursos, manifiestamente improcedentes y maliciosos,
 
 VII.- Concretarse el defensor de un reo a aceptar su cargo sin promover después pruebas ni dirigirlo en su defensa, aun cuando hubiere solicitado su libertad caucional; y
 
-VIII.- Admitir patrocinar a una de las partes en un juicio civil, sin dirigirla en la tramitación del juicio ni promover lo necesario en beneficio de su cliente.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+VIII.- Admitir patrocinar o representar a una de las partes en un procedimiento jurisdiccional o administrativo, sin dirigirla en la tramitación del procedimiento ni promover lo necesario en beneficio de su representado o cliente.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 235.
 
-Los hechos mencionados en el artículo que precede se sancionarán con prisión de seis meses a tres años y multa de diez a cien días de salario y, en su caso, con suspensión de un mes a dos años en el derecho de ejercer la profesión de la abogacía.
+Los hechos mencionados en el artículo que precede se sancionarán con prisión de seis meses a tres años y multa de veinte a quinientos días de salario y, en su caso, con suspensión de seis meses a cinco años en el derecho de ejercer la profesión de la abogacía.
 
 ###### Artículo 236.
 
@@ -1715,9 +1845,11 @@ I.- Por patrocinar o ayudar a diversos contendientes o partes con intereses opue
 
 II.- Por abandonar la defensa de un cliente o la atención de un negocio sin motivo justificado, ni aviso previo, causando daño.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 238.
 
-Los defensores de oficio que incurran en los hechos expresados en esta sección, aparte de las sanciones ya señaladas, serán destituidos de sus cargos.
+Los defensores sociales que sin causa justificada incurrieren en los hechos expresados en esta sección, aparte de las sanciones ya señaladas, serán destituidos de sus cargos.
 
 #### SECCION SEGUNDA.- ESTUPRO
 
@@ -1773,7 +1905,7 @@ En los casos previstos en los anteriores artículos de esta sección, además de
 
 #### SECCION TERCERA.- VIOLACION
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 244.
 
@@ -1887,7 +2019,9 @@ V.- El que haga uso de una certificación verdadera expedida para otro, como si 
 
 VI.- El que, a sabiendas, hiciere uso de un documento falso, sea público o privado.
 
-#### SECCION TERCERA.- SUBSTRACCION DE MENORES
+#### SECCION TERCERA.- SUSTRACCION Y TRAFICO DE MENORES
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 254.
 
@@ -1915,6 +2049,8 @@ El testigo, el perito o el intérprete que se retracten espontáneamente de sus 
 
 #### SECCION PRIMERA.- AMENAZAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 257.
 
 Se impondrá prisión de tres días a seis meses y multa de diez a cien días de salario:
@@ -1926,6 +2062,8 @@ II.- Al que, para eludir la práctica de una diligencia decretada por una autori
 III.- Al funcionario o empleado público, que en los actos propios de su cargo, atribuyere a una persona título o nombre, a sabiendas de que no le pertenecen.
 
 #### SECCION SEGUNDA.- ALLANAMIENTO DE MORADA
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 258.
 
@@ -1955,35 +2093,33 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 ###### Artículo 260.
 
-Comete el delito de ataques al pudor quien sin consentimiento de una persona mayor o menor de edad, o con consentimiento de esta última, ejecute en ella o la haga ejecutar un acto erótico, sin el propósito de llegar a la cópula.
+Comete el delito de ataques al pudor quien sin el consentimiento de una persona mayor o menor de doce años, o con sentimiento de esta última, ejecutare en ella o le hiciere ejecutar un acto erótico sexual, sin el propósito de llegar a la cópula.
 
 ###### Artículo 261.
 
 Al responsable de un delito de ataques al pudor se le impondrán:
 
-I.- Prisión de un mes a un año y multa de uno a diez días de salario, si el sujeto pasivo es mayor de edad y el delito se cometió sin su consentimiento;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-II.- Si el sujeto pasivo del delito es menor, la sanción será de dos meses a dos años de prisión, se haya ejecutado el delito con o sin su consentimiento;
+I.- Prisión de un mes a un año y multa de dos a veinte días de salario, si el sujeto pasivo es mayor de doce años y el delito se cometió sin su consentimiento;
 
-III.- Si el delito se ejecutare con violencia física o moral, se impondrán al responsable:
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-a) de seis meses a cuatro años de prisión y multa de diez a cien días de salario, cuando el sujeto pasivo sea mayor de edad;
+II.- Si el sujeto pasivo del delito fuere persona menor de doce años, estuviera privada de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia, se presumirá la violencia y la sanción será de uno a cinco años de prisión y multa de veinte a doscientos días de salario, se haya ejecutado el delito con o sin su consentimiento, debiéndose aumentar hasta en otro tanto igual las sanciones, si el delito fuere cometido con intervención de dos o más personas, y
 
-b) de uno a cinco años de prisión y multa de veinte a doscientos días de salario, cuando el sujeto pasivo sea menor de edad.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ABRIL DE 1990)</small>
-
-En los supuestos de esta fracción, se presume la violencia moral, si el sujeto pasivo es impúber.
+III.- Cuando el sujeto pasivo sea mayor de doce años y el delito se ejecute con violencia física o moral, se impondrán al responsable de seis meses a cuatro años de prisión y multa de diez a cien días de salario, sanciones que se aumentarán hasta en otro tanto igual, si el delito fuere cometido con intervención de dos o más personas.
 
 ###### Artículo 262.
 
 (DEROGADO, P.O. 1 DE JULIO DE 1994)
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 263.
 
-El delito a que se refiere el artículo anterior, se considerará siempre como delito consumado.
+El delito de ataques al pudor se considerará siempre como delito consumado y se perseguirá a petición de parte, salvo que el sujeto pasivo estuviere en alguno de los supuestos previstos en la fracción II del artículo 261, en cuyo caso se perseguirá de oficio.
 
 #### SECCION QUINTA.- PLAGIO Y SECUESTRO
 
@@ -2005,17 +2141,19 @@ No se procederá contra el estuprador sino por queja de la mujer ofendida o de s
 
 ###### Artículo 267.
 
-Al que por medio de la violencia física o moral tenga cópula con una persona sea cual fuere su sexo, se le aplicarán de seis a veinte años de prisión y multa de veinte a doscientos días de salario.
+Al que por medio de la violencia física o moral tuviere cópula con una persona sea cual fuere su sexo, se le aplicarán de seis a veinte años de prisión y multa de cincuenta a quinientos días de salario.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 268.
 
-Cuando la violación fuere cometida con intervención de dos o más personas, a todas ellas se impondrán de ocho a treinta años de prisión y multa de ciento veinte a mil doscientos días de salario.
+Cuando la violación o su equiparable fuere cometida con intervención de dos o más personas, a todas ellas se impondrán de ocho a treinta años de prisión y multa de ciento veinte a mil doscientos días de salario.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 269.
 
-Además de las sanciones que señalan los artículos que anteceden, se impondrán de uno a seis años de prisión, cuando el delito de violación fuere cometido:
+Además de las sanciones que señalan los artículos que anteceden, se impondrán de uno a seis años de prisión, cuando el delito de violación o su equiparable fueren cometidos:
 
 I.- Por un ascendiente contra su descendiente o por éste contra aquél;
 
@@ -2058,6 +2196,8 @@ III.- La introducción en una persona, por vía anal o vaginal, de cualquier obj
 En los casos previstos en las fracciones I y II, se impondrá al autor del delito, de ocho a treinta años de prisión y multa de ciento veinte a mil doscientos días de salario. En el caso de la fracción III la sanción será la establecida en el artículo 267.
 
 #### SECCION SEGUNDA.- HOMICIDIO
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 273.
 
@@ -2139,15 +2279,23 @@ Las mismas penas que señala el artículo anterior, se impondrán a la persona q
 
 A los testigos y a las personas que intervengan en la celebración del nuevo matrimonio, a sabiendas de la vigencia legal del anterior, se les impondrá la mitad de las sanciones previstas en el artículo 280.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 #### SECCION PRIMERA.- ATAQUES PELIGROSOS
 
 ###### Artículo 283.
 
-Comete el delito de substracción de menores, el padre o la madre que se apodere de sus hijos, cuando éstos no hayan cumplido aún catorce años no obstante haber perdido aquél o aquélla la patria potestad o carecer, en virtud de una resolución judicial, de la guarda y custodia de esos menores.
+Comete el delito de sustracción de menores, el familiar de un menor de catorce años de edad que lo sustrajere de la custodia o guarda de quien legítimamente la tuviere, o bien lo retuviere sin la voluntad de esta última.
+
+A los responsables de este delito se les aplicarán de dos a cinco años de prisión y multa de cien a mil días de salario; pero si antes de dictarse sentencia, los acusados entregaren al menor o menores de que se trataren, a quien legalmente correspondiere la custodia o guarda de los mismos, la prisión será hasta de un año y multa de cien a quinientos días de salario.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 284.
 
-Al responsable del delito de substracción de menores se le aplicarán de dos a cinco años de prisión y multa de cien a mil días de salario; pero si antes de dictarse sentencia, el acusado entrega el menor o menores de que se trate, a quien legalmente corresponda la custodia de los mismos, la prisión será hasta de tres meses y la multa hasta de diez días de salario.
+Al que contando con el consentimiento de un ascendiente que ejerciere la patria potestad sobre un menor de catorce años de edad o de quien lo tuviere legalmente bajo su cuidado, lo entregare a un tercero para su custodia o para otorgarle derechos de familia que no le correspondieren, se le aplicarán de uno a tres años de prisión y multa de veinte a doscientos días de salario; estas sanciones se aumentarán hasta en dos tantos, cuando el inculpado cometiere el delito a cambio de un beneficio económico.
+
+Las mismas sanciones se impondrán a los terceros que recibieren al menor y a las personas que otorgaren su consentimiento, a quienes además se privará de los derechos de patria potestad, tutela o custodia, en su caso; pero si se acreditare que quien recibió al menor lo hizo con el propósito de incorporarlo a su núcleo familiar y otorgarle los beneficios propios de tal incorporación, las penas se le reducirán hasta la mitad de lo previsto en el primer párrafo.
 
 CAPITULO DECIMOTERCERO.- INFRACCIONES A LAS LEYES Y REGLAMENTOS SOBRE INHUMACIONES Y EXHUMACIONES
 
@@ -2189,11 +2337,15 @@ CAPITULO DECIMOCUARTO.- DELITOS CONTRA LA PAZ, LA SEGURIDAD Y LAS GARANTIAS DE L
 
 ###### Artículo 290.
 
-Se impondrá de seis meses a dos años de prisión y multa de uno a diez días de salario:
+Se impondrá de seis meses a dos años de prisión y multa de cinco a veinte días de salario:
 
 I.- Al que por cualquier medio amenace a otro con causarle un mal en su persona, honor, bienes o derechos o en la persona, honor, bienes o derechos de su cónyuge o persona con quien viva en la situación prevista en el artículo 297 del Código Civil, o de un ascendiente, descendiente o hermano suyo, o persona con quien se encuentre ligado por afecto, gratitud o amistad; y
 
 II.- Al que, por medio de amenazas de cualquier género, trate de impedir que otro ejecute lo que tiene derecho a hacer.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+El delito de amenazas se perseguirá a petición de parte.
 
 ###### Artículo 291.
 
@@ -2211,11 +2363,17 @@ III.- Si lo que exigió fue que el amenazado dejara de ejecutar un acto lícito,
 
 #### SECCION SEGUNDA.- DIFAMACION
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 293.
 
-Se impondrán de un mes a dos años de prisión y multa de tres a treinta días de salario, al que, sin motivo justificado, sin orden de autoridad competente y fuera de los casos en que la ley lo permita, se introduzca furtivamente, o con engaño o con violencia o sin permiso de la persona autorizada para darlo, a un departamento, vivienda, habitación, aposento o dependencia de una casa habitación.
+Al que sin motivo justificado, sin orden de autoridad competente y fuera de los casos en que la Ley lo permitiere, se introdujere furtivamente o con engaños o con violencia o sin permiso de la persona autorizada para darlo, a un departamento, vivienda, habitación, aposento o dependencia de una casa habitación, se le impondrá de dos meses a cuatro años de prisión y multa de diez a cincuenta días de salario.
+
+En el delito de allanamiento de morada será necesaria la formulación de la querella de la parte ofendida.
 
 #### SECCION TERCERA.- CALUMNIA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 294.
 
@@ -2273,15 +2431,15 @@ III.- Cuando la detención se haga en camino público o en paraje solitario; y
 
 IV.- Cuando los plagiarios obren en grupo o banda.
 
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1990) (F. DE E., P.O. 6 DE DICIEMBRE DE 1991)
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-V.- Cuando se cometa robo de infante menor de doce años, por quien sea extraño a su familia, y no ejerza la tutela sobre el menor.
+V.- Cuando se cometa robo de infante.
 
-Cuando el delito lo cometa un familiar del menor, que no ejerza sobre él la patria potestad ni la tutela, la pena será de dos a cinco años de prisión y multa de cien a mil días de salario mínimo vigente.
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 303.
 
-(DEROGADO, P.O. 1 DE JULIO DE 1994)
+Para efectos de la fracción V del artículo anterior, comete el delito de robo de infante la persona que, sin ser su familiar, se apodere de un menor de catorce años, sin derecho; sin consentimiento de la persona que ejerciere la patria potestad, la tutela, la custodia o la guarda sobre el mismo; mediante engaño o aprovechándose de un error.
 
 ###### Artículo 304.
 
@@ -2303,9 +2461,17 @@ Comete el delito de lesiones, el que causa a otro un daño que altere su salud f
 
 Al que infiera una lesión que no ponga en peligro la vida del ofendido, se le impondrán:
 
-I.- De ocho días a ocho meses de prisión o multa de uno a diez días de salario o ambas sanciones, ajuicio del Juez, cuando la lesión tarde en sanar menos de quince días; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-II.- De seis meses a dos años de prisión y multa de dos a quince días de salario, si la lesión tardare en sanar quince días o más.
+I.- De quince días a ocho meses de prisión o multa de cinco a veinte días de salario o ambas sanciones, a juicio de la autoridad judicial, cuando la lesión tardare en sanar menos de quince días, y
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+II.- De seis meses a dos años de prisión y multa de diez a cincuenta días de salario, si la lesión tardare en sanar quince días o más.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+En ambos supuestos, sólo se procederá contra el agresor por querella de la parte ofendida.
 
 ###### Artículo 307.
 
@@ -2317,27 +2483,47 @@ Por lo que hace a las consecuencias de las lesiones inferidas, se observarán la
 
 I.- Se impondrá prisión de dos a cinco años y multa de diez a cien días de salario, al que infiera una lesión que deje al ofendido cicatriz permanente notable en la cara, orejas o cuello;
 
-II.- Se impondrá de cuatro a seis años de prisión y multa de veinte a doscientos días de salario, al que infiera una lesión que perturbe para siempre la vista, o disminuya la facultad de oír, entorpezca o debilite permanentemente una mano, un pie, un brazo, una pierna, o cualquier otro órgano, el uso de la palabra, o de las facultades mentales;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-III.- Se impondrán de cinco a ocho años de prisión y multa de veinticinco a doscientos cincuenta días de salario, al que infiera una lesión de la que resulte:
+II.- Se impondrán de tres a seis años de prisión y multa de veinte a doscientos días de salario, al que a sabiendas de que una mujer estuviere embarazada, le infiriere lesiones que pusieren en peligro la vida del producto;
 
-a).- una enfermedad segura o probablemente incurable;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-b).- la inutilización completa o pérdida de un ojo, de una mano, de un brazo, de una pierna, o de un pie;
+III.- Se impondrán de cuatro a siete años de prisión y multa de veinticinco a doscientos cincuenta días de salario, al que infiriere una lesión que perturbare para siempre la vista, o disminuyere la facultad de oír, entorpeciere o debilitare permanentemente una mano, un pie, un brazo, una pierna, o cualquier otro órgano, el uso de la palabra, o de las facultades mentales;
 
-c).- sordera del ofendido;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-d).- alguna deformidad incorregible;
+IV.- Se impondrán de cinco a ocho años de prisión y multa de treinta a trescientos días de salario, al que contagiare, provocare un daño o infiriere una lesión de los que resultare:
 
-e).- incapacidad para engendrar o concebir;
+a) Una enfermedad no mortal, segura o probablemente incurable;
 
-f).- y en general, cuando en virtud de las lesiones queda inutilizado un órgano cualquiera o perjudicada para siempre alguna función orgánica.
+b) La inutilización completa o pérdida de un ojo, de una mano, de un brazo, de una pierna, o de un pie;
 
-IV.- Se impondrán de seis a diez años de prisión y multa de treinta a trescientos días de salario, al que infiera una lesión a consecuencia de la cual resulte incapacidad permanente para trabajar, enajenación mental o pérdida de la vista, del habla o de las funciones sexuales.
+c) Sordera del ofendido;
+
+d) Alguna deformidad incorregible, o
+
+e) En general, la inutilización de un órgano cualquiera o la alteración permanente de alguna función orgánica.
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+V.- Se impondrán de seis a diez años de prisión y multa de cincuenta a quinientos días de salario, al que contagiare, provocare un daño o infiriere una lesión, a consecuencia de la cual resultare para el ofendido:
+
+a) Incapacidad permanente para trabajar;
+
+b) Enajenación mental;
+
+c) Pérdida de la vista, del habla o de las funciones sexuales, o
+
+d) Incapacidad para engendrar o concebir.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 309.
 
-Si el ofendido fuere ascendiente del autor de una lesión, se aumentarán de un mes a dos años de prisión a las sanciones que corresponda imponer con arreglo a los artículos precedentes.
+Si el ofendido fuere cónyuge, concubino, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptado, adoptante, madrastra, padrastro, hijastra, hijastro, pupilo o tutor del autor de la lesión, se aumentará de dos meses a tres años de prisión la sanción que correspondiere imponer conforme a los artículos precedentes; pero si además de la lesión, el ofendido se quejare de maltrato material o emocional, mediante el uso reiterado de la fuerza física o moral, o por omisión grave, que implicare la existencia de un ambiente de violencia familiar que afectare su integridad personal e incluso la de otros miembros de la familia, también podrá imponerse al agente la privación de la patria potestad, en su caso, y de los derechos hereditarios y de alimentos derivados de esa relación.
+
+El Ministerio Público o la autoridad judicial, con el apoyo del Sistema Estatal para el Desarrollo Integral de la Familia y demás instituciones con fines similares, acordarán las medidas necesarias e inmediatas para el tratamiento psicoterapéutico del agresor y la víctima, así como para salvaguardar la integridad física o psíquica de ésta y sus familiares.
 
 ###### Artículo 310.
 
@@ -2353,7 +2539,7 @@ Al que infiera lesiones calificadas se les impondrán las sanciones correspondie
 
 ###### Artículo 312.
 
-Comete el delito de homicidio el que, sin derecho, priva a otro de la vida, cualquiera que sea la edad de éste.
+Comete el delito de Homicidio el que priva de la vida a otro.
 
 ###### Artículo 313.
 
@@ -2579,9 +2765,11 @@ Si a consecuencia de los actos a que se refiere el artículo anterior se causare
 
 Al que abandone a un niño incapaz de cuidarse a sí mismo o a una persona enferma, teniendo obligación de cuidarlos, se le impondrá de un mes a cuatro años de prisión y se le privará de la patria potestad o de la tutela, si ejerciere uno de esos cargos.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 347.
 
-Al que, sin motivo justificado, abandone a sus hijos menores o a su cónyuge sin recursos para atender a sus necesidades de subsistencia, se le impondrán de tres meses a cinco años de prisión y privación de los derechos de familia.
+Al que, sin motivo justificado, abandonare a sus hijos menores, a su cónyuge, a su concubina o a su concubinario, sin recursos para atender sus necesidades de subsistencia, se le impondrán de tres meses a cinco años de prisión y privación de los derechos de familia.
 
 ###### Artículo 348.
 
@@ -2635,11 +2823,13 @@ Son simples los golpes y las violencias físicas que no causen lesión en el ofe
 
 ###### Artículo 357.
 
-La difamación consiste en comunicar dolosamente a una o más personas, la imputación que se hace a otra, física o jurídica, de un hecho cierto o falso determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio o exponerlo al desprecio de alguien.
+La difamación consiste en comunicar a una o más personas, la imputación que se hace a otra, física o jurídica, de un hecho cierto o falso, que cause deshonra, descrédito, perjuicio o lo exponga al desprestigio de alguien.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 358.
 
-El delito de difamación se sancionará con prisión hasta de dos años o multa de uno a diez días de salario, o ambas sanciones a juicio del Juez.
+El delito de difamación se sancionará con prisión de seis meses a cuatro años y multa de diez a cien días de salario.
 
 ###### Artículo 359.
 
@@ -2671,7 +2861,7 @@ Lo prevenido en la fracción última del artículo anterior, no comprende el cas
 
 ###### Artículo 362.
 
-Se impondrá prisión de seis meses a dos años o multa de tres a diez días de salario, o ambas sanciones, a juicio del Juez:
+Se impondrá prisión de seis meses a cuatro años y multa de diez a cien días de salario:
 
 I.- Al que impute a otro un hecho determinado y calificado como delito por la ley, si este hecho es falso, o es inocente la persona a quien se imputa;
 
@@ -2707,9 +2897,11 @@ Cuando el delito sea de los que se persiguen de oficio, solamente podrá querell
 
 Cuando la queja fuere de calumnia, se permitirán al reo pruebas de su imputación, y si ésta quedare probada, se librará aquél de toda sanción, excepto en el caso del artículo 364.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 368.
 
-No se podrá proceder contra el autor de una difamación o calumnia, sino por queja de la persona ofendida; pero si el ofendido ya falleció y la difamación o calumnia, fueren posteriores a su fallecimiento, sólo se podrá proceder en virtud de queja del cónyuge, de la persona que vivía con aquél en la situación a que se refiere el artículo 297 del Código Civil, de los ascendientes, descendientes o hermanos.
+No se podrá proceder contra el autor de una difamación o calumnia, sino por queja de la persona ofendida; pero si ésta ya falleció y la difamación o calumnia fueren posteriores a su defunción, sólo se podrá proceder en virtud de queja del cónyuge, de la concubina o concubinario, de los ascendientes, descendientes, hermanas o hermanos.
 
 ###### Artículo 369.
 
@@ -2741,13 +2933,25 @@ Comete el delito de robo, quien se apodere de un bien ajeno mueble, sin derecho 
 
 El robo se sancionará:
 
-I.- Cuando el valor de lo robado no exceda de cinco días de salario mínimo, con prisión de tres a treinta días y multa de uno a tres días de salario;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-II.- Cuando el valor de lo robado exceda de cinco días de salario, pero no de cincuenta, se impondrán de tres meses a dos años de prisión y multa de dos a veinte días de salario;
+I.- Cuando el valor de lo robado no excediere de diez días de salario mínimo, con prisión de tres a treinta días y multa de uno a tres días de salario;
 
-III.- Cuando el valor de lo robado pase de cincuenta días de salario se impondrán de dos a ocho años de prisión y multa de ocho a ochenta días de salario;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-IV.- Si el objeto del robo es un vehículo de motor, como motocicletas, automóviles, camiones, tractores u otros semejantes, se impondrá prisión de tres a ocho años y multa de diez a cien días de salario.
+II.- Cuando el valor de lo robado excediere de diez días de salario, pero no de cincuenta, se impondrán de tres meses a dos años de prisión y multa de cinco a treinta días de salario;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+III.- Cuando el valor de lo robado excediere de cincuenta días de salario, pero no de doscientos cincuenta, se impondrán de dos a cuatro años de prisión y multa de cincuenta a ciento cincuenta días de salario;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+IV.- Cuando el valor de lo robado sobrepasare doscientos cincuenta días de salario, se impondrán de tres a ocho años de prisión y multa de ciento cincuenta a doscientos cincuenta días de salario, y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+V.- Si el objeto del robo es un vehículo de motor, como motocicletas, automóviles, camiones, tractores u otros semejantes, se impondrá prisión de cinco a doce años y multa de quinientos a mil días de salario.
 
 ###### Artículo 375.
 
@@ -2775,9 +2979,11 @@ Se considera enajenante o adquirente a quienes efectúan dichas operaciones tres
 
 Para la aplicación de la sanción, se dará por consumado el robo desde el momento en que el ladrón tenga en su poder la cosa robada, aun cuando la abandone o lo desapoderen de ella.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 378.
 
-Para estimar la cuantía del robo, se atenderá únicamente al valor intrínseco de la cosa robada. Si ésta no fuere estimable en dinero o por su naturaleza, no fuere posible fijar su valor o cantidad, se impondrá de tres días a dos años de prisión y multa hasta de diez días de salario.
+Para estimar la cuantía del robo, se atenderá al valor comercial de la cosa y de no ser posible, al valor intrínseco de la misma. Si ésta no fuere estimable en dinero o por su naturaleza, no fuere posible fijar su valor o cantidad, se impondrá de quince días a dos años de prisión y multa de tres a cincuenta días de salario.
 
 ###### Artículo 379.
 
@@ -2851,9 +3057,11 @@ El robo cometido por un ascendiente contra un descendiente suyo, o por éste con
 
 Si precediere, acompañare o siguiere al robo, algún otro hecho que por sí solo constituya un delito, se aplicará la sanción que para éste señale la ley.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 384.
 
-El robo cometido por un cónyuge contra otro, por los suegros contra sus yernos o sus nueras, por éstos contra aquéllos, por los padrastros contra sus hijas o viceversa, por un hermano contra su hermano o entre personas que vivan en la situación a que se refiere el artículo 297 del Código Civil, produce responsabilidad delictiva; pero no se podrá proceder contra los delincuentes sino a petición del ofendido.
+Si el ofendido fuere cónyuge, concubina o concubinario, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptado, adoptante, madrastra, padrastro, hijastra, hijastro, pupilo o tutor del autor del robo, sólo se procederá en contra de éste y de cualquier otra persona distinta a las mencionadas que hubieren tenido intervención en el robo, a petición de la víctima.
 
 ###### Artículo 385.
 
@@ -2965,9 +3173,17 @@ El delito de fraude se sancionará:
 
 I.- Con multa de cinco a cincuenta días de salario y prisión de seis meses a tres años, si no se puede determinar el valor de lo defraudado o este valor no es superior a cien días de salario;
 
-II.- Con multa de diez a cien días de salario y prisión de tres a cinco años, si el valor de lo defraudado excede de cien días de salario, pero no de doscientos cincuenta; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-III.- Con multa de veinte a doscientos días de salario y prisión de cuatro a seis años, cuando el valor de lo defraudado excediere de doscientos cincuenta días de salario.
+II.- Con multa de cincuenta a doscientos cincuenta días de salario y prisión de tres a cinco años, si el valor de lo defraudado excediere de cien días de salario, pero no de quinientos;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+III.- Con multa de doscientos cincuenta a quinientos días de salario y prisión de cinco a siete años, cuando el valor de lo defraudado excediere de quinientos días de salario, pero no de mil, y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+IV.- Con multa de quinientos a mil días de salario y prisión de siete a diez años, cuando el valor de lo defraudado excediere de mil días de salario.
 
 ###### Artículo 404.
 
@@ -2987,7 +3203,7 @@ VI.- Al que hubiere vendido una cosa mueble y recibido su precio, si no la entre
 
 VII.- Al que venda a dos o más personas una misma cosa, sea mueble o raíz, y reciba el precio de la segunda venta o parte de él;
 
-VIII.- Al que valiéndose de la ignorancia o de las malas condiciones económicas de una persona, obtenga de ésta ventajas usurarias por medio de contratos o convenios, en los cuales se estipulen réditos o lucros superiores a los usuales en el mercado;
+VIII.- (DEROGADA, P.O. 2 DE SEPTIEMBRE DE 1998)
 
 IX.- Al que simulare un contrato, un acto o escrito judicial, con perjuicio de otro para obtener cualquier beneficio indebido;
 
@@ -3025,11 +3241,21 @@ d).- La inhumación o cremación de un cadáver.
 
 Los bienes y servicios proporcionados en contravención a esta disposición no podrán cobrarse.
 
-En caso de homicidio, el Agente del Ministerio Público actuante avisará al Fondo para la Reparación del Daño y Protección de las Víctimas de los Delitos, en un término no mayor de cuatro horas, quien en uso de las facultades que le concede la ley, le manifestará si se encarga o no del servicio funerario.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+En caso de homicidio, el Agente del Ministerio Público actuante avisará a la autoridad competente, en un término no mayor de cuatro horas, quien en uso de las facultades que le concede la Ley, le manifestará si se encarga o no del servicio funerario.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+El Agente del Ministerio Público que en relación con el caso a que se refiere esta fracción, propiciare o permitiere la comisión de las conductas sancionadas, serán igualmente responsables.
 
 > <small>(ADICIONADA, P.O. 1 DE JULIO DE 1994)</small>
 
 XXI.- Al que se coloque en estado de insolvencia con el objeto de eludir el cumplimiento de una obligación con respecto a sus acreedores.
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+XXII.- Al que hiciere creer a un persona que otra relacionada con ésta se encuentra secuestrada y en virtud de ello exigiere y obtuviere una cantidad de dinero o cualquier otro lucro, como un supuesto rescate.
 
 ###### Artículo 405.
 
@@ -3049,9 +3275,13 @@ VI.- Proporcione informaciones falsas, para obtener autorizaciones relativas a f
 
 VII.- Proporcione datos falsos a los organismos gubernamentales a cuyo cargo estén los programas para la urbanización y tenencia de la tierra urbana, con el propósito de adquirir bienes inmuebles, afirmando falsamente que se destinarán a la constitución o integración del patrimonio familiar; pero destinándolos a fines distintos.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 406.
 
-(DEROGADO, P.O. 1 DE JULIO DE 1994)
+Comete el delito de fraude de usura, el que se aprovechare de la ignorancia o las malas condiciones económicas de una persona, para recibir títulos de crédito o documentos a la orden, o celebrar convenios o contratos en los cuales se estipulen intereses superiores al doble de la tasa fijada por el Banco de México a intermediarios financieros en sus préstamos a sus solicitantes o de Certificados de la Federación a veintiocho días. Para los efectos de este artículo se entenderán por intereses, los que rigen al momento de celebrarse la operación.
+
+Se impondrá prisión de siete a diez años y multa de quinientos a mil días de salario, más la reparación del daño en el que se incluirán los accesorios financieros calculados a la misma tasa de interés permitida por el Banco de México a sus intermediarios financieros.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -3099,9 +3329,23 @@ VI.- En una embarcación, vagón, coche o cualquier otro vehículo destinado al 
 
 Cuando el dueño de una cosa la incendie para defraudar a sus acreedores, o para perjudicar a otra persona, o para exigir indemnización por el incendio, se le impondrán las sanciones establecidas en el artículo que precede y, además las que correspondan al fraude, en su respectivo grado.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+Artículo 413 bis.- Al que sin consentimiento realizare o pintare signos, leyendas, dibujos o cualquiera otra manifestación gráfica, en una escuela, biblioteca, edificio público, museo, monumento u obra de arte, o se considere parte del patrimonio histórico, artístico o cultural del Estado, se le impondrá prisión de sesenta días a seis años y multa de veinte a quinientos días de salario.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 414.
 
-Fuera de los casos anteriores y cuando por cualquier medio se cause daño, destrucción o deterioro de cosa ajena, o de cosa propia, en perjuicio de otro, se aplicarán las sanciones de robo simple, que podrán aumentarse hasta dos años más de prisión.
+Fuera de los casos anteriores y cuando por cualquier medio se causare daño, destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de otro, se aplicarán las siguientes sanciones;
+
+I.- De un mes a dos años de prisión y multa de uno a tres días de salario, si los daños no son superiores al equivalente de cinco veces el salario mínimo, siendo necesaria la querella de la parte ofendida;
+
+II.- De tres meses a tres años de prisión y multa de dos a veinte días de salario cuando el daño sea superior al importe de cinco días de salario pero no exceda de cincuenta días;
+
+III.- De dos a cuatro años de prisión y multa de veinte a cincuenta días si el daño excediera del equivalente a cincuenta días de salario, y
+
+IV.- Cuando por imprudencia se ocasionare daño en propiedad ajena, que no sea mayor de lo equivalente a cien veces el salario mínimo, sólo se perseguirá a petición de parte y se sancionará con multa hasta por el valor del daño causado.
 
 ###### Artículo 415.
 
@@ -3646,3 +3890,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 1998.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
