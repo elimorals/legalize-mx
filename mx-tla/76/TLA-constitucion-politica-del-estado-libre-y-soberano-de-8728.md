@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1996-01-17"
+last_updated: "1996-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1996.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -295,7 +295,15 @@ La ciudad de Tlaxcala de Xicohténcatl es la Capital del Estado y en ésta resid
 
 Las Leyes Orgánicas de los Poderes determinarán los casos en que los órganos subsidiarios de las mismas podrán residir fuera de la Capital.
 
-(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE NOVIEMBRE DE 1993) ARTICULO 21.- Los Municipios integrantes del Estado son: Amaxac de Guerrero, Apetatitlán de Antonio Carvajal, Apizaco, Atlangatepec, Altzayanca, Calpulalpan, Cuapiaxtla, Cuaxomulco, Chiautempan, Muñoz de Domingo Arenas, Españita, Huamantla, Hueyotlipan, Ixtacuixtla de Mariano Matamoros, Ixtenco, Mazatecochco de José María Morelos, Contla de Juan Cuamatzi, Tepetitla de Lardizábal, Sanctórum de Lázaro Cárdenas, Nanacamilpa de Mariano Arista, Acuamanala de Miguel Hidalgo, Nativitas, Panotla, San Pablo del Monte, Santa Cruz Tlaxcala, Tenancingo, Teolocholco, Tepeyanco, El Carmen Tequexquitla, Terrenate, Tetla de la Solidaridad, Tetlatlahuca, Tlaxcala, Tlaxco, Tocatlán, Totolac, Zitlaltepec de Trinidad Sánchez Santos, Tzompantepec, Xalóstoc, Xaltócan, Papalotla de Xicohténcatl, Xicohtzinco, Yauhquemecan y Zacatelco.
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 5 DE JULIO DE 1996)</small>
+
+### CAPITULO VI. DEL PODER EJECUTIVO
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+
+###### ARTICULO 21.
+
+Los Municipios integrantes del Estado son: Amaxac de Guerrero, Apetatitlán de Antonio Carvajal, Apizaco, Atlangatepec, Altzayanca, Calpulalpan, Cuapiaxtla, Cuaxomulco, Chiautempan, Muñoz de Domingo Arenas, Españita, Huamantla, Hueyotlipan, Ixtacuixtla de Mariano Matamoros, Ixtenco, Mazatecochco de José María Morelos, Contla de Juan Cuamatzi, Tepetitla de Lardizábal, Sanctórum de Lázaro Cárdenas, Nanacamilpa de Mariano Arista, Acuamanala de Miguel Hidalgo, Nativitas, Panotla, San Pablo del Monte, Santa Cruz Tlaxcala, Tenancingo, Teolocholco, Tepeyanco, El Carmen Tequexquitla, Terrenate, Tetla de la Solidaridad, Tetlatlahuca, Tlaxcala, Tlaxco, Tocatlán, Totolac, Zitlaltepec de Trinidad Sánchez Santos, Tzompantepec, Xaloztoc, Xaltocan, Papalotla de Xicohténcatl, Xicohtzinco, Yauhquemecan, Zacatelco, Santa Apolonia Teacalco, Santa Cruz Quilehtla, San Juan Huactzinco, Santa Catarina Ayometla, Santa Isabel Xiloxoxtla, San José Teacalco, San Francisco Tetlanohcan, La Magdalena Tlaltelulco, San Damián Texoloc, Emiliano Zapata, Lázaro Cárdenas, San Jerónimo Zacualpan, San Lucas Tecopilco, Santa Ana Nopalucan, San Lorenzo Axocomanitla y Benito Juárez.
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1995)</small>
 
@@ -388,22 +396,6 @@ XXI.- La petición de constituir un Municipio, deberá ser firmada por ciudadano
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
 
 XXII.- La manifestación expresada en la solicitud y la acreditada durante la instrucción, será tomada como tal y con características de virtual, la cual será definitiva si se demuestra en dos procesos electorales municipales continuos.
-
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
-
-### CAPITULO VI. DEL PODER EJECUTIVO
-
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
-
-###### ARTICULO 21.
-
-Los Municipios integrantes del Estado son: Amaxac de Guerrero, Apetatitlán de Antonio Carvajal, Apizaco, Atlangatepec, Altzayanca, Calpulalpan, Cuapiaxtla, Cuaxomulco, Chiautempan, Muñoz de Domingo Arenas, Españita, Huamantla, Hueyotlipan, Ixtacuixtla de Mariano Matamoros, Ixtenco, Mazatecochco de José María Morelos, Contla de Juan Cuamatzi, Tepetitla de Lardizábal, Sanctórum de Lázaro Cárdenas, Nanacamilpa de Mariano Arista, Acuamanala de Miguel Hidalgo, Nativitas, Panotla, San Pablo del Monte, Santa Cruz Tlaxcala, Tenancingo, Teolocholco, Tepeyanco, El Carmen Tequexquitla, Terrenate, Tetla, Tetlatlahuca, Tlaxcala, Tlaxco, Tocatlán, Totolac, Zitlaltepec de Trinidad Sánchez Santos, Tzompantepec, Xaloztoc, Xaltocan, Papalotla de Xicohténcatl, Xicohtzingo, Yauhquemecan y Zacatelco.
-
-Para crear nuevos Municipios se requerirá:
-
-I.- Que cuenten con una población mayor de 30,000 habitantes; y
-
-II.- Demostrar, conforme lo solicite el Congreso del Estado: a).- Por autosuficientes económicamente; y b).- Contar con la infraestructura mínima de servicios.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -1918,3 +1910,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación el
 ###### ARTICULO SEGUNDO.
 
 Por esta única vez los Diputados electos para integrar la Quincuagésima Quinta Legislatura al Congreso del Estado, iniciarán su ejercicio constitucional en la forma y en los términos que establecen los Artículos 38 y 42 vigentes.
+
+P.O. 05 DE JULIO DE 1996.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación el Periódico Oficial del Gobierno del Estado.
