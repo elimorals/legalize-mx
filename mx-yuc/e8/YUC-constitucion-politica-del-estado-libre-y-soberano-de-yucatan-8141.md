@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1988-02-22"
+last_updated: "1988-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE FEBRERO DE 1988.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE FEBRERO DE 1988.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -385,13 +385,13 @@ IV.- decidir sobre la legalidad de las elecciones de los Ayuntamientos;
 
 V.- dar, interpretar y derogar Leyes y Decretos;
 
-> <small>(REFORMADA, D.O.23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA, D.O. 26 DE FEBRERO DE 1988)</small>
 
-VI.- Examinar las cuentas de los caudales públicos durante el primero o segundo periodo de sesiones ordinarias o durante un periodo de sesiones extraordinarias a que se convoque; y aprobar la Ley de Ingresos y Presupuesto de Egresos que debe presentarle el Ejecutivo en los términos que establece la fracción XIV del artículo 55 de esta Constitución e imponer las contribuciones necesarias para cubrirlo;
+VI.- Examinar, y en su caso aprobar, la cuenta pública del Ejercicio. Aprobar la Ley de Ingresos y el Presupuesto de Egresos que debe presentarle el Ejecutivo en los términos que establece la fracción XIV del Artículo 55 de esta Constitución e imponer las contribuciones necesarias para cubrirlo, a más tardar el treinta de diciembre de cada año;
 
 > <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
-VII.- Señalar las contribuciones y otros ingresos que deban formar la Hacienda Municipal, procurando sean suficientes a cubrir las necesidades de los municipios; determinar anualmente las bases, montos y plazos con que sean cubiertas las participaciones federales a los municipios;
+VII.- señalar las contribuciones y otros ingresos que deban formar la Hacienda Municipal, procurando sean suficientes a cubrir las necesidades de los municipios; determinar anualmente las bases, montos y plazos con que sean cubiertas las participaciones federales a los municipios;
 
 > <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
@@ -565,11 +565,15 @@ XLV.- Designar en los casos de suspensión o de declaración de desaparición de
 
 a).- Provisional, si su designación se lleva a cabo dentro del lapso de los primeros dieciocho meses de ejercicio legal del Ayuntamiento al que substituya, mientras se hacen nuevas elecciones y toman posesión de sus cargos los electos y,
 
-b).- Definitiva si su nombramiento se realiza con posterioridad al mencionado lapso. En ambos casos y mientas durante en su encargo, los concejos municipales estarán investidos de personalidad jurídica, para todos los efectos legales consiguientes y serán la autoridad que regirá en los Municipios que se designen, con el mismo caácter (sic) legal que los Ayuntamientos respectivos y,
+b).- Definitiva si su nombramiento se realiza con posterioridad al mencionado lapso. En ambos casos y mientas durante en su encargo, los concejos municipales estarán investidos de personalidad jurídica, para todos los efectos legales consiguientes y serán la autoridad que regirá en los Municipios que se designen, con el mismo caácter (sic) legal que los Ayuntamientos respectivos y (sic),
 
-> <small>(ADICIONADA, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADA, D.O. 26 DE FEBRERO DE 1988)</small>
 
-XLVI.- Las demás que le confiera esta Constitución.
+XLVI.- Formular el proyecto de Presupuesto de Egresos del Poder Legislativo, atendiendo las posibilidades del ingreso y gasto Público del Estado, y remitirlo al titular del Poder Ejecutivo a más tardar el treinta de octubre de cada año, a fin de que éste considere su incorporación al proyecto de Presupuesto de Egresos del Estado; y
+
+> <small>(ADICIONADA, D.O. 26 DE FEBRERO DE 1988)</small>
+
+XLVII.- Las demás que le confiera esta Constitución.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -869,9 +873,9 @@ XII.- cumplir con lo dispuesto en el artículo 28 de esta Constitución;
 
 XIII.- expedir la convocatoria para las elecciones públicas;
 
-> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADA, D.O. 26 DE FEBRERO DE 1988)</small>
 
-XIV.- presentar ante el Congreso del Estado, a más tardar el día quince del mes de diciembre de cada año, las iniciativas relativas a la Ley de Ingresos del Estado, al Presupuesto de Egresos del Gobierno Estatal y a la Ley General de Hacienda del propio Estado, que hubieren de regir durante el año inmediato siguiente;
+XIV.- presentar ante el Congreso del Estado, a más tardar el día treinta de noviembre de cada año, las iniciativas relativas a la Ley de Ingresos del Estado, al Presupuesto de Egresos del Gobierno Estatal y a la Ley General de Hacienda del propio Estado, que hubieren de regir durante el año inmediato siguiente;
 
 > <small>(REFORMADA, D.O. 11 DE MAYO DE 1984)</small>
 
@@ -1086,6 +1090,10 @@ IV.- admitir las renuncias que de sus encargos hagan los funcionarios y empleado
 V.- conceder licencias a los Magistrados, llamando al suplente que corresponda; y
 
 VI.- vigilar y promover cuanto se relacione con la buena marcha de la Administración de Justicia.
+
+> <small>(ADICIONADA, D.O. 26 DE FEBRERO DE 1988)</small>
+
+VII.- formular el proyecto de Presupuesto de Egresos del Poder Judicial, atendiendo las posibilidades del Ingreso y del gasto público del Estado, y remitirlo al Titular del Poder Ejecutivo a más tardar el treinta de octubre de cada año, a fin de que éste considere su incorporación, al Proyecto de Presupuesto de Egresos del Estado.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1752,3 +1760,7 @@ D.O. 22 DE FEBRERO DE 1988.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 26 DE FEBRERO DE 1988.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
