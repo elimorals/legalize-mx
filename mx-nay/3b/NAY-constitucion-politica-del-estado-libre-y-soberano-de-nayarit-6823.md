@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1969-12-31"
+last_updated: "1970-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 1970.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -159,15 +159,15 @@ Los extranjeros residentes en el Estado, contribuirán para los gastos públicos
 
 Son nayaritas los que nazcan en Territorio del Estado, sea cual fuere la nacionalidad de sus padres.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1970)</small>
 
 ###### Art. 16.
 
-Son Ciudadanos Nayaritas los varones y Mujeres Mexicanos por nacimiento o por naturalización que reúnan además los siguientes requisitos:
+Son ciudadanos Nayaritas, los varones y mujeres mexicanos por nacimiento o por naturalización, que reúnan además los siguientes requisitos:
 
-I. Vecindad en el Estado con seis meses de residencia, por lo menos, dentro de su territorio;
+I. La vecindad en el Estado con seis meses de residencia, por lo menos dentro de su territorio.
 
-II. Haber cumplido dieciocho años de edad, si son casados; o 21 si no lo son, y
+II. Haber cumplido dieciocho años de edad, y
 
 III. Tener un modo honesto de vivir.
 
@@ -1472,3 +1472,7 @@ Artículo Primero.- Envíese la presente Iniciativa de Reformas a los HH. Ayunta
 Artículo Segundo.- En las Leyes, Reglamentos y demás disposiciones vigentes, la competencia otorgada a los funcionarios aludidos en el Articulado antes de su reforma, se entiende atribuida, de acuerdo con la materia, a los funcionarios que los substituyen de conformidad a las modificaciones aprobadas a esta Constitución.
 
 Artículo Tercero.- Las presentes reformas constitucionales entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MARZO DE 1970
+
+UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
