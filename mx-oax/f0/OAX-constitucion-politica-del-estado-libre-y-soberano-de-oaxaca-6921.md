@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1971-11-20"
+last_updated: "1972-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1972.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -283,11 +283,11 @@ Se elegirá un diputado por cada cien mil habitantes o fracción mayor de cincue
 
 Los diputados propietarios no podrán ser reelectos para el período inmediato ni con el carácter de suplentes. Los diputados suplentes podrán ser reelectos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio.
 
-> <small>(REFORMADO, 29 DE OCTUBRE DE 1938)</small>
+> <small>(REFORMADO, 15 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 34.
 
-Para ser Diputado Propietario o Suplente se requiere: ser ciudadano en el ejercicio de sus derechos; ser nativo del Estado de Oaxaca y con residencia en su territorio inmediatamente anterior de un año por lo menos; haber cumplido veinticinco años el día de la elección; no haber tomado participación directa ni indirecta en alguna asonada, motín o cuartelazo, y tener un modo honesto de vivir. La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular.
+Para ser Diputado Propietario o Suplente se requiere: Ser ciudadano en el ejercicio de sus derechos, ser nativo del Estado de Oaxaca y con residencia en su territorio inmediatamente anterior de un año por lo menos, haber cumplido veintiún años el día de la elección; no haber tomado participación directa ni indirecta en alguna asonada, motín o cuartelazo, y tener un modo honesto de vivir. La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 1939)</small>
 
@@ -1596,3 +1596,7 @@ Unico.- El presente Decreto entrará en vigor a partir de la fecha de su publica
 P.O. 20 DE NOVIEMBRE DE 1971.
 
 Unico.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JULIO DE 1972.
+
+UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
