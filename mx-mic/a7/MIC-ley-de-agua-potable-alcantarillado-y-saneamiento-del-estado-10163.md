@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-agua-potable-alcantarillado-y-saneamiento-del-estado-101
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-13"
-last_updated: "1997-12-29"
+last_updated: "2000-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10163&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Sección Tercera del Periódico Oficial, el lunes 13 de junio de 1994.
 
@@ -611,7 +611,7 @@ El Presidente del Consejo de Administración será el Gobernador del Estado o la
 
 El Consejo contará con un Secretario que será el Secretario de Comunicaciones y Obras Públicas del Gobierno del Estado.
 
-Los vocales del Consejo de Administración, cuyo número será establecido por acuerdo del Presidente, prodrán (sic) ser los titulares de las dependencias del Poder Ejecutivo del Estado cuyos ámbitos competenciales tengan incidencia en la prestación, programación, presupuestación y vigilancia del servicio de agua potable, alcantarillado y saneamiento, fundamentalmente los relacionados con la planeación, finanzas, desarrollo urbano y ecología, salud y la Comisión Nacional del Agua. Por cada representante propietario se designará un suplente.
+Los vocales del Consejo de Administración, cuyo número será establecido por acuerdo del Presidente, prodrán (sic) ser los titulares de las dependencias del Poder Ejecutivo del Estado cuyos ámbitos competenciales tengan incidencia en la prestación, programación, presupuestación y vigilancia del servicio de agua potable, alcantarillado y saneamiento, fundamentalmente los relacionados con la planeación, finanzas, desarrollo urbano y ecología, salud y de la Comisión Nacional del Agua. Por cada representante propietario se designará un suplente.
 
 ###### ARTICULO 51.
 
@@ -761,7 +761,7 @@ Las controversias que se susciten con motivo de la interpretación y aplicación
 
 Están obligados a contratar el servicio de agua potable, alcantarillado y tratamiento de aguas residuales, en los lugares en que existan dichos servicios:
 
-I. Los propietarios o poseedores a cualquier tipo de predios edificados;
+I. Los propietarios o poseedores a cualquier título de predios edificados;
 
 II. Los propietarios o poseedores a cualquier título, de predios no edificados cuando frente a los mismos existan instalaciones adecuadas, para los servicios que sean utilizados; y
 
@@ -809,7 +809,7 @@ Por cada derivación, el usuario pagará al organismo operador el importe de las
 
 ###### ARTICULO 72.
 
-Con el objeto de hacer más racional el consumo de agua, los usuarios deberán utilizar aparatos ahorradores, en los términos y características que se señalen en el Reglamento correspondiente.
+Con el objeto de hacer más racional el consumo de agua, los usuarios deberán utilizar aparatos aparatos ahorradores, en los términos y características que se señalen en el Reglamento correspondiente.
 
 En todo caso, la instalación de retretes deberá ser con cajas de seis litros por descarga.
 
@@ -843,11 +843,19 @@ II. Adicionalmente a las cuotas o tarifas por abastecimiento de agua potable a q
 
 lll. Que las cuotas y tarifas por el servicio incluirán los costos de operación, administración, conservación, mantenimiento y mejoramiento, así como los recursos necesarios para constituir un fondo que permita la rehabilitación, ampliación y mejoramiento de los sistemas, la recuperación del valor actualizado de las inversiones del organismo operador y el servicio de su deuda;
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2000)</small>
+
+El fondo al que se refiere el párrafo anterior, se constituirá y operará de conformidad con las reglas técnicas que apruebe la junta de gobierno del organismo operador respectivo.
+
 IV. Que se atiendan las otras normas previstas en este capítulo y demás disposiciones aplicables.
 
-El fondo a que se refiere la fracción III de este artículo, se constituirá y operará de conformidad con las reglas técnicas que apruebe la junta de gobierno del organismo operador respectivo.
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2000)</small>
 
-Las cuotas y tarifas que se establezcan conforme a este artículo, además de su publicación en el Periódico Oficial del Estado, deberán ser publicadas en los estrados de las oficinas municipales y de los organismos operadores y podrán en su caso, difundirse en otros medios que permitan darse a conocer a los usuarios.
+V.- El acuerdo de cabildo mediante el cual se establezcan las cuotas y tarifas conforme a este artículo, deberá expedirse y publicarse en el Periódico Oficial del Estado durante el mes de diciembre del año inmediato anterior a aquel que correspondan las cuotas y tarifas. Dicho acuerdo se publicará además en los estrados de las oficinas municipales y de los organismos operadores correspondientes y podrá en su caso, difundirse en otros medios que permitan darlo a conocer a los usuarios.
+
+> <small>(DEROGADO PENULTIMO PARRAFO, P.O. 25 DE DICIEMBRE DE 2000)</small>
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 25 DE DICIEMBRE DE 2000)</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -937,7 +945,7 @@ XIV.- El que emplee mecanismos para succionar agua de las tuberías de distribuc
 
 XV.- El que descargue aguas residuales en las redes de drenaje y alcantarillado, sin haber cubierto los derechos respectivos;
 
-XVI.- El que descargue aguas residuales en las redes de drenaje y alcantarillado, sin contar con el permiso de descarga correspondiente;
+XVI.- El que se descargue aguas residuales en las redes de drenaje y alcantarillado, sin contar con el permiso de descarga correspondiente;
 
 XVII.- El que conecte un servicio suspendido sin autorización del organismo; y
 
@@ -1062,3 +1070,17 @@ P.O. 29 DE DICIEMBRE DE 1997.
 PRIMERO.- El presente decreto entrará en vigor, el 1° de enero de 1998, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para los efectos de lo dispuesto por los artículos 18 y 36 de la Ley de Agua Potable, Alcantarillado y Saneamiento del Estado de Michoacán, los ayuntamientos que aún no hayan acordado la constitución de los organismos operadores municipales, dispondrán de un plazo de seis meses, contados a partir del inicio de la vigencia de este decreto, para acordar su constitución. Los ayuntamientos que habiendo acordado la constitución de dichos organismos previamente a la vigencia de este decreto y que no hayan precisado las juntas locales municipales que forman parte de los mismos, también dispondrán del plazo de seis meses para establecer en el acuerdo respectivo, dicha precisión.
+
+P.O. 25 DE DICIEMBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1° de enero del año 2001.
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos de lo dispuesto por la fracción V del artículo 74 de la Ley de Agua Potable, Alcantarillado y Saneamiento del Estado de Michoacán, el Acuerdo de cabildo mediante el cual se establezcan las cuotas y tarifas para el año 2001, se publicará durante el mes de enero de dicho año.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
