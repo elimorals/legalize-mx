@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1941-05-31"
+last_updated: "1942-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 1942.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -6739,6 +6739,8 @@ IV.- Por último, se ministrarán igualmente a prorrata, a los demás parientes 
 
 Es inoficioso el testamento en que no se deje la pensión alimenticia, según lo establecido en este Capítulo.
 
+> <small>(F. DE E., P.O. 28 DE NOVIEMBRE DE 1940)</small>
+
 ###### Artículo 1274.
 
 El preterido tendrá solamente derecho a que se le de la pensión que corresponda, subsistiendo el testamento en todo lo que no perjudique ese derecho.
@@ -11703,9 +11705,11 @@ Se prohibe a los Magistrados, a los Jueces y a cualesquiera otros empleados púb
 
 Se prohibe a los encargados de los establecimientos públicos y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1942)</small>
+
 ###### Artículo 2288.
 
-El arrendamiento debe otorgarse por escrito cuando la renta pase de cien pesos anuales.
+El arrendamiento debe otorgarse por escrito sea cual fuere el precio del arrendamiento.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 1941)</small>
 
@@ -15192,3 +15196,7 @@ Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su
 P.O. 31 DE MAYO DE 1941.
 
 Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial.
+
+P.O. 21 DE ABRIL DE 1942.
+
+Artículo Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el "Periódico Oficial del Gobierno del Estado".
