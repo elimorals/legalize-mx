@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-para-el-12202"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-11"
-last_updated: "1995-12-11"
+last_updated: "1996-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1996.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de diciembre de 1995.
 
@@ -87,7 +87,9 @@ II.- Organizar, supervisar y asistir periódicamente a los centros de reclusión
 
 III.- Tomar las medidas adecuadas para la prevención de la delincuencia y el tratamiento de los que hayan observado una conducta antisocial, determinando el tratamiento de los internos, pudiendo coordinarse para el efecto con otras instituciones públicas o privadas para tal fin;
 
-IV.- Designar, previo acuerdo con el Ejecutivo, el lugar donde los sentenciados deban cumplir su pena, oyendo la opinión del interesado;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 1996)</small>
+
+IV.- Designar, previo acuerdo con el Ejecutivo, el lugar en donde los sentenciados deban cumplir su pena;
 
 V.- Mantener actualizada la estadística de los centros de reclusión de la Entidad;
 
@@ -445,7 +447,9 @@ I.- Que haya observado buena conducta durante su reclusión, sin limitarse a las
 
 II.- Que del examen de personalidad pueda presumirse que ha alcanzado las metas aceptables de readaptación;
 
-III.- Que presente carta de trabajo, ocupación o actividad lícita a desempeñar durante su vida en libertad;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 1996)</small>
+
+III.- Que en su caso, haya hecho el pago de la reparación del daño a las víctimas del delito, cuando la sentencia penal así lo consigne, cubierto la multa que se le haya impuesto y que presente carta de trabajo, ocupación o actividad lícita a desempeñar durante su vida en libertad;
 
 IV.- Que una persona solvente y honesta, con arraigo en el lugar donde habrá de radicar, se obligue a presentarlo siempre que sea requerido y a pagar la cantidad que se fije de garantía, la que no será menor al equivalente a quince días de salario mínimo; y
 
@@ -600,3 +604,9 @@ LIC. HORACIO SANCHEZ UNZUETA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 JUAN JOSE RODRIGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE JUNIO DE 1996.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
