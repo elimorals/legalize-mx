@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-las-comisiones-estatales-de-servicios-publicos-del-3841"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-10"
-last_updated: "1980-09-20"
+last_updated: "1992-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 1992.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 10 de febrero de 1979.
 
@@ -37,9 +37,11 @@ LA H. IX LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORN
 
 LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PUBLICOS DEL ESTADO DE BAJA CALIFORNIA.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 1o.
 
-Las Comisiones Estatales de Servicios Públicos de los Municipios de Mexicali, Tijuana, Tecate y Ensenada, son Organismos Públicos Descentralizados del Gobierno del Estado, con personalidad jurídica y patrimonio propios, con domicilio en las ciudades de Mexicali, Tijuana y Ensenada, respectivamente.
+Las Comisiones Estatales de Servicios Públicos de los Municipios de Mexicali, Tijuana, Tecate y Ensenada, son organismos públicos descentralizados del Gobierno del Estado, con personalidad jurídica y patrimonios propios, con domicilio en las ciudades de Mexicali, Tijuana, Tecate y Ensenada respectivamente.
 
 ###### ARTICULO 2o.
 
@@ -65,15 +67,17 @@ I.- Los bienes, derechos y obligaciones que a la fecha de esta Ley les correspon
 
 II.- Los bienes y derechos que el Estado les asigne y los que adquieran por cualquier otro concepto.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 4o.
 
-Cada una de las Comisiones Estatales de Servicios Públicos de Mexicali, Tijuana-Tecate y Ensenada, será administrada por un consejo.
+Cada una de las Comisiones Estatales de Servicios Públicos de Mexicali, Tijuana, Tecate y Ensenada será administrada por un consejo.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 5o.
 
-Los Consejos de Administración de las Comisiones de Mexicali y Ensenada, se compondrán de los siguientes miembros:
+Los Consejos de Administración de las comisiones de Mexicali, Tijuana, Tecate y Ensenada, se integran con siete consejeros, los que serán:
 
 I.- El Gobernador del Estado.
 
@@ -81,31 +85,21 @@ II.- El Secretario de Asentamientos Humanos y Obras Públicas.
 
 III.- El Secretario de Finanzas.
 
-IV.- El Director de Organización, Programación y Presupuesto; y
+IV.- El Secretario de Planeación y Presupuesto.
 
-V.- Dos Representantes de la Iniciativa Privada, que serán designados por el Gobernador del Estado, de las ternas que le propongan los Organismos siguientes: Cámara de Comercio y Servicios Turísticos, Delegación de la Cámara Nacional de la Industria de Transformación y Unión de Contribuyentes y Usuarios de Servicios Públicos de cada una de las ciudades de Mexicali y Ensenada, y el Presidente Municipal respectivo.
+V.- Dos representantes de la Iniciativa Privada que serán seleccionados por el Gobernador del Estado de las ternas que proponga la Cámara de Comercio y la Delegación de la Cámara Nacional de la Industria de Transformación del Municipio correspondiente.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+VI.- El Presidente Municipal Respectivo.
 
 ###### ARTICULO 6o.
 
-El Consejo de Administración de la Comisión de Tijuana-Tecate, se compondrá de los siguientes miembros:
+(DEROGADO, P.O. 20 DE MAYO DE 1992)
 
-I.- El Gobernador del Estado.
-
-II.- El Secretario de Asentamientos Humanos y Obras Públicas.
-
-III.- El Secretario de Finanzas.
-
-IV.- El Director de Organización, Programación y Presupuesto.
-
-V.- Dos Representantes de la Iniciativa Privada de Tijuana y dos de Tecate, que serán designados por el Gobernador del Estado, de las ternas que le propongan los Organismos siguientes: Cámara de Comercio y Servicios Turísticos, Delegación de la Cámara Nacional de la Industria de Transformación y Unión de Contribuyentes y Usuarios de Servicios Públicos de cada una de las ciudades de Tijuana y Tecate, y los Presidentes Municipales de estas últimas.
-
-Los Representantes de la Iniciativa Privada de los Municipios de Tijuana y Tecate, intervendrán en las sesiones del Consejo de Administración, cuando se traten asuntos relacionados con cada uno de dichos Municipios, a menos que sean del interés común de éstos.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 7o.
 
-En caso de que los Organismos y funcionarios a que se refieren los Artículos 5º. y 6º., omitan hacer las proposiciones de los representantes de la iniciativa privada, el Gobernador del Estado hará libremente las designaciones de dichos representantes.
+En caso de que las agrupaciones a que se refiere el artículo 5o. fracción V, omitan hacer las proposiciones de los representantes de la iniciativa privada, el Gobernador del Estado hará libremente las designaciones de dichos representantes.
 
 ###### ARTICULO 8o.
 
@@ -115,7 +109,7 @@ El Gobernador del Estado será el Presidente del Consejo y en sus ausencias temp
 
 ###### ARTICULO 9o.
 
-Los Consejeros a que se refieren las Fracciones I, II, III y IV de los Artículos 5o. y 6o. de esta Ley, durarán en el cargo mientras sean titulares de la Dependencia, y serán substituídos automáticamente por el nuevo titular. Los Consejeros Representantes de la Iniciativa Privada, durarán en su cargo dos años, pudiendo ser nuevamente propuestos y designados.
+Los consejeros a que se refieren las facciones (sic) I, II, III y IV del artículo 5o. de esta Ley, durarán en su cargo mientras sean titulares de la Dependencia, y serán substituidos automáticamente por el nuevo titular. Los consejeros representantes de la Iniciativa Privada, durarán en su cargo dos años, debiendo ser nuevamente propuestos y designados.
 
 ###### ARTICULO 10.
 
@@ -129,9 +123,11 @@ III.- Ser socio o tener comunidad de intereses con personas que contraten con la
 
 A los suplentes se les aplicará lo dispuesto en este Artículo.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 11.
 
-Para la renovación de los miembros del Consejo, representantes de la iniciativa privada, los Organismos y funcionarios señalados en los Artículos 5o. y 6o., remitirán al Gobernador del Estado, en el mes de diciembre de los años impares, listas de tres personas de reconocida solvencia moral para los efectos de las mencionadas disposiciones. Dichos representantes entrarán en funciones el día primero de enero del año siguiente.
+Para la renovación de los miembros del Consejo, representantes de la Iniciativa Privada, los organismos y funcionarios señalados en el artículo 5o. remitirán al Gobernador del Estado, en el mes de Diciembre de los años impares, listas de tres personas de reconocida solvencia moral para efectos de las mencionadas disposiciones. Dichos representantes entrarán en funciones el día primero de enero del año siguiente.
 
 ###### ARTICULO 12.
 
@@ -165,13 +161,15 @@ X.- Autorizar de acuerdo con el Director General, que éste delegue en empleados
 
 XI.- En general, tomar las medidas y realizar las operaciones necesarias relacionadas con los objetivos a que se refiere el Artículo 2o. de esta Ley.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 14.
 
-El Consejo de Administración de cada una de las Comisiones, para el ejercicio de las atribuciones que le señalan esta Ley y su Reglamento, actuará válidamente con la concurrencia de tres de sus miembros, dos de los cuales serán los funcionarios a que se refieren las Fracciones I, II y III de los Artículos 5o. y 6o., y cuando menos uno de la iniciativa privada. Sus resoluciones se tomarán por mayoría de votos de los Consejeros presentes. El Presidente tendrá voto de calidad.
+El Consejo de Administración de cada una de las Comisiones, para el ejercicio de las atribuciones que le señalan esta Ley y su Reglamento, actuará válidamente con la concurrencia de tres de sus miembros, dos de los cuales serán los funcionarios a que se refieren las fracciones I, II y III del artículo 5o. y cuando menos uno de la Iniciativa Privada. Sus resoluciones se tomarán por mayoría de votos de los Consejeros presentes. El Presidente tendrá voto de calidad.
 
-En caso de que no concurra el Presidente Titular, o quien lo substituya en los términos del Artículo 8o., se elegirá para el sólo efecto de la sesión, un Presidente de entre los funcionarios mencionados.
+En caso de que no concurra el Presidente titular, o quien lo substituya en los términos del artículo 8o., se elegirá para el solo efecto de la sesión, un Presidente de entre los funcionarios mencionados.
 
-A las sesiones del Consejo, deberá asistir el Director General, con voz pero sin voto, y en sus ausencias quien asuma sus funciones.
+A las sesiones del Consejo, deberá asistir el Director General, con voz pero sin voto y en sus ausencias quien asuma sus funciones.
 
 ###### ARTICULO 15.
 
@@ -280,3 +278,25 @@ P.O. 20 DE SEPTIEMBRE DE 1980.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE MAYO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+La Comisión Estatal de Servicios Públicos Tijuana-Tecate, en lo sucesivo será la Comisión Estatal de Servicios Públicos de Tijuana, debiendo transferir al patrimonio de la Comisión Estatal de Servicios Públicos de Tecate, los renglones de activos y obligaciones que tenga contabilizados para la realización de actividades en el Municipio de Tecate, según sus balances existentes a la fecha de promulgación de este Decreto.
+
+###### ARTICULO SEGUNDO.
+
+La Comisión Estatal de Servicios Públicos de Tecate, deberá asumir los pasivos, y obligaciones existentes a cargo de la Comisión Estatal de Servicios Públicos Tijuana-Tecate, a la fecha de promulgación del presente Decreto, y que sean derivados de las operaciones y compromisos contraídos para actividades relacionadas con el Municipio de Tecate.
+
+###### ARTICULO TERCERO.
+
+La Comisión Estatal de Servicios Públicos de Tecate, por lo que se refiere a la conclusión del Ejercicio Fiscal de 1991, se regirá en cuanto a sus ingresos, por las disposiciones que la Ley de Ingresos del Estado de Baja California para el Ejercicio Fiscal de 1991, tiene fijados en cuanto a la Comisión Estatal de Servicios Públicos Tijuana-Tecate.
+
+###### ARTICULO CUARTO.
+
+La Comisión Estatal de Servicios Públicos de Tecate deberá asumir las obligaciones y respetar los derechos de los trabajadores que éstos tengan adquiridos a raíz de su relación de trabajo con la Comisión Estatal de Servicios Públicos Tijuana-Tecate.
+
+###### ARTICULO QUINTO.
+
+Las presentes disposiciones entran en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Baja California.
