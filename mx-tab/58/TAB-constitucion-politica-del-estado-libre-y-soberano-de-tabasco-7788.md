@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1952-05-31"
+last_updated: "1954-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1952.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 1954.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -113,17 +113,17 @@ Los tabasqueños gozarán, en igualdad de circunstancias, de las prerrogativas d
 
 CIUDADANOS TABASQUEÑOS.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1954)</small>
+
 ###### Art. 22.
 
-Son ciudadanos tabasqueños todos los que, teniendo la calidad de tabasqueños, reúnen además los siguientes requisitos:
+Son ciudadanos tabasqueños los varones y las mujeres que, teniendo la calidad de tabasqueños, reúnan además los siguientes requisitos:
 
-I.- Haber cumplido diez y ocho años de edad siendo casados o veintiuno si no lo son.
+I.- Haber cumplido diez y ocho años de edad, si son casados, o veintiuno si no lo son.
 
 II.- Tener un modo honesto de vivir.
 
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1946)</small>
-
-III.- También son ciudadanos tabasqueños los que obtengan carta de ciudadanía expedida por el Poder Legislativo. Este título será puramente honorífico, si los agraciados no fueren vecinos del Estado.
+También son ciudadanos tabasqueños los que obtengan carta de ciudadanía expedida por el Poder Legislativo. Este título será puramente honorífico, si los agraciados no fueren vecinos del Estado.
 
 ###### Art. 23.
 
@@ -1554,3 +1554,9 @@ Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación e
 ###### Art. 2º.
 
 Para mayor publicidad promúlguese el presente Decreto por bando solemne en esta Capital y en las Cabeceras Municipales.
+
+P.O. 11 DE AGOSTO DE 1954.
+
+Artículo Primero.- Este Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Para mayor publicidad, promúlguese el presente Decreto por Bando Solemne en esta Capital y en las Cabeceras Municipales, el domingo siguiente a la fecha de su publicación en el Periódico Oficial.
