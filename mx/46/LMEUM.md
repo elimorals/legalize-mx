@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1955-09-15"
+last_updated: "1956-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE SEPTIEMBRE DE 1955.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1956.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -54,9 +54,9 @@ Las únicas monedas circulantes serán:
 
 a). Los billetes del Banco de México, S.A., con las denominaciones que fijen sus Estatutos.
 
-> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 1955)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
-b). Las monedas de plata de diez y cinco pesos, con los diámetros, leyes, pesos, cuños, y demás características que señala el decreto relativo;
+b). Las monedas de plata de uno, cinco y diez pesos con los diámetros, leyes, pesos, cuños y demás características que señalen los decretos relativos.
 
 > <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 1955)</small>
 
@@ -66,7 +66,9 @@ c). Las monedas de bronce de cincuenta centavos, con el diámetro, composición 
 
 d). Las monedas de latón de veinte, diez, cinco y un centavos, con los diámetros, composición de ligas metálicas, pesos, cuños y demás características que señala el decreto relativo;
 
-e). (DEROGADO, D .O. 15 DE SEPTIEMBRE DE 1955)
+(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1956) (F. DE E., D.O.F. 21 DE OCTUBRE DE 1957)
+
+e). Las monedas conmemorativas de acontecimientos de importancia nacional, en plata, con los valores de cada pieza y el total de la emisión, diámetro, leyes, pesos, cuños y demás características que señalen los decretos relativos.
 
 f). (DEROGADO, D .O. 15 DE SEPTIEMBRE DE 1955)
 
@@ -88,9 +90,11 @@ Se retiran de la circulación las monedas de plata de cinco pesos, ley de 0.900,
 
 El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
 
+D.O.F. 31 DE DICIEMBRE DE 1956
+
 ###### ARTICULO 5°.
 
-Las monedas de diez y cinco pesos a que se refiere el inciso b) del artículo 2°. de esta ley, tendrán poder liberatorio limitado a quinientos pesos en un mismo pago; las de cincuenta centavos a que se refiere el inciso c) tendrán poder liberatorio limitado a cincuenta pesos en un mismo pago; las de latón a que se refiere el inciso d) tendrán poder liberatorio limitado en un mismo pago como sigue: a veinte pesos las de veinte centavos; a diez pesos las de diez centavos; a cinco pesos las de cinco centavos y a un peso las de un centavo.
+Las monedas de diez y cinco pesos a que se refiere el inciso b) del Artículo 2o. de esta Ley, tendrán poder liberatorio limitado a quinientos pesos y las de un peso a cien pesos todas en un mismo pago; las de cincuenta centavos a que se refiere el inciso c) tendrán poder liberatorio limitado a cincuenta pesos en un mismo pago; las mencionadas en el inciso d) tendrán poder liberatorio limitado en un mismo pago como sigue: a veinte pesos las de veinte centavos; a diez pesos las de diez centavos; a cinco pesos las de cinco centavos y a un peso las de un centavo; las conmemorativas a que se refiere el inciso e) tendrán poder liberatorio limitado al valor total de 100 piezas en un mismo pago.
 
 ###### ARTICULO 6°.
 
@@ -192,7 +196,7 @@ Se declaran libres la exportación y la importación de oro acuñado o en pasta,
 
 Los billetes del Banco de México tendrán poder liberatorio ilimitado.
 
-> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 1955)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 ###### ARTICULO 5°.
 
@@ -523,3 +527,7 @@ Quedan derogadas las disposiciones que se opongan al presente decreto.
 Se abrogan: a).- El decreto de 28 de diciembre de 1942, publicado en el "Diario Oficial" de la Federación de 31 de diciembre del mismo año, en el que se establecieron las características de las monedas de latón de cinco centavos; b) el decreto de 3 de agosto de 1943, publicado en el mencionado "Diario Oficial" de 10 de agosto del mismo año, en el que se establecieron las características de las monedas de latón de veinte centavos; c) el decreto de 29 de diciembre de 1949, publicado en el citado diario del día 30 de diciembre del mismo año, en el que se establecieron las características de las monedas de plata de un peso, cincuenta y veinticinco centavos, de las de cuproníquel de diez y cinco centavos y de las de latón de dos y un centavo; y d) el decreto de 27 de octubre de 1950 publicado en el referido "Diario Oficial" de 24 de noviembre de 1950 que estableció las características de las monedas de plata de cinco pesos. Se derogan las demás disposiciones que se opongan al presente decreto.
 
 Consiguientemente, desde la fecha en que entre en vigor el presente decreto, dejarán de acuñarse las monedas a que se refieren los decretos que se abrogan en el presente artículo transitorio.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
