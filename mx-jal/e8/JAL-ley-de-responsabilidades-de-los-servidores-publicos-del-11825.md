@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2000-09-19"
+last_updated: "2001-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -99,11 +99,11 @@ No podrán imponerse dos veces, por una sola conducta, sanciones de la misma nat
 
 ### Capítulo I. SUJETOS Y CAUSAS DE JUICIO POLÍTICO
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
 
 ###### Artículo 5º.
 
-Podrán ser sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Ejecutivo del Estado, el Procurador General de Justicia, y el Procurador Social y el Contralor del Estado; los integrantes del Consejo General del Poder Judicial, los consejeros electorales del Consejo Electoral del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los presidentes, vicepresidentes, regidores o concejales; los tesoreros, secretarios y síndicos de los ayuntamientos; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria.
+Podrán ser sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Ejecutivo del Estado, el Procurador General de Justicia, el Procurador Social y el Contralor del Estado; los integrantes del Consejo General del Poder Judicial, los consejeros electorales del Consejo Electoral del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los presidentes, síndicos, regidores o concejales; y los funcionarios encargados de la hacienda municipal; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria.
 
 ###### Artículo 6º.
 
@@ -365,9 +365,11 @@ IV. El grado de intervención por parte del servidor público en el acto u omisi
 
 ### Capítulo I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Artículo 31.
 
-Para proceder penalmente contra los diputados al Congreso del Estado; los titulares de las secretarías del Poder Ejecutivo, el procurador general de justicia y el procurador social; los magistrados del Poder Judicial del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales con derecho a voz y voto del Consejo Electoral del Estado; los presidentes y vicepresidentes municipales, regidores y concejales de los ayuntamientos o concejos municipales, será necesario que se declare por parte del Congreso que ha lugar a proceder contra el inculpado, siguiendo el procedimiento que se establece en el presente capítulo.
+Para proceder penalmente contra los diputados al Congreso del Estado; los titulares de las secretarías del Poder Ejecutivo, el procurador general de justicia y el procurador social; los magistrados del Poder Judicial del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales con derecho a voz y voto del Consejo Electoral del Estado; los presidentes municipales, síndicos, regidores y concejales de los ayuntamientos o concejos municipales, será necesario que se declare por parte del Congreso que ha lugar a proceder contra el inculpado, siguiendo el procedimiento que se establece en el presente capítulo.
 
 Contra los jueces de primera instancia, menores y de paz, sólo podrá procederse penalmente, previa declaración del Consejo General del Poder Judicial del Estado, de conformidad con lo previsto en la Ley Orgánica del Poder Judicial.
 
@@ -607,9 +609,9 @@ Cuando el planteamiento que por escrito formule el servidor público a su superi
 
 XXI. Entregar formalmente a quien le sustituya en el cargo, o a la persona que para tal efecto designe el superior jerárquico, los recursos patrimoniales que haya tenido a su disposición, así como los documentos y una relación de los asuntos relacionados con sus funciones. Esta entrega deberá realizarse a más tardar a los cinco días hábiles contados a partir de la fecha en que renuncie o se le notifique su separación del cargo, debiendo elaborar una acta circunstanciada;
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
 
-Cuando se trate del cambio de la administración pública municipal, el ayuntamiento saliente hará entrega al nuevo Cabildo de los conceptos relacionados en el párrafo anterior, al día siguiente de la instalación del nuevo Cabildo; además, en el mismo plazo, cada uno de los responsables de las dependencias municipales deberá entregar al nuevo titular los efectos patrimoniales de referencia y solo en el caso de que la conclusión de la entrega ameritare más tiempo, se tomará el estrictamente necesario.
+Cuando se trate del cambio de la administración pública municipal, el ayuntamiento saliente hará entrega al nuevo gobierno municipal de los conceptos relacionados en el párrafo anterior, al día siguiente de la instalación del nuevo Ayuntamiento; además, en el mismo plazo, cada uno de los responsables de las dependencias municipales deberá entregar al nuevo titular los efectos patrimoniales de referencia y solo en el caso de que la conclusión de la entrega ameritare más tiempo, se tomará el estrictamente necesario.
 
 XXII. Recibir, al entrar en posesión del cargo, los recursos y documentos a que se refiere la fracción anterior, verificar que correspondan al contenido del acta circunstanciada, verificar los inventarios, informes y demás documentación anexa. Debe de solicitar las aclaraciones pertinentes dentro del término de cinco días hábiles contados a partir del acto de entrega y recepción;
 
@@ -861,9 +863,9 @@ i) Los demás servidores públicos que determine el titular del Ejecutivo.
 
 III. En el Poder Judicial, ante el órgano que determine su Ley Orgánica: los magistrados, los consejeros generales, los oficiales mayores y jueces de primera instancia, secretarios, así como directores y subdirectores, y los demás que determine el pleno del Consejo General del Poder Judicial;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2001)</small>
 
-IV. En los gobiernos municipales, ante el Congreso del Estado por conducto del Cabildo: los presidentes municipales o presidentes de los concejos municipales, vicepresidentes, regidores o concejales, secretarios generales, síndicos, tesoreros, subtesoreros, directores, subdirectores, delegados municipales, contralores, jefes y subjefes de departamento, jefes y subjefes de oficina, comandantes, oficiales mayores, oficiales de Registro Civil, supervisores, auditores, subauditores generales, contadores y subcontadores en general, administradores y, cajeros generales, cajeros pagadores e inspectores y los demás servidores públicos municipales que determine el Congreso del Estado.
+IV. En los gobiernos municipales, ante el Congreso del Estado por conducto del Ayuntamiento: los presidentes municipales o presidentes de los concejos municipales, regidores o concejales, síndicos, secretarios generales, tesoreros, encargados de la hacienda municipal, subtesoreros, directores, subdirectores, delegados municipales, contralores, jefes y subjefes de departamento, jefes y subjefes de oficina, comandantes, oficiales mayores, oficiales de registro civil, supervisores, auditores, subauditores generales, contadores y subcontadores en general, administradores y, cajeros generales, cajeros pagadores e inspectores y los demás servidores públicos que se establezcan para tal efecto en los reglamentos municipales.
 
 V. En el Tribunal de Arbitraje y Escalafón, por conducto de su presidente: los magistrados, secretarios y oficiales notificadores o sus equivalentes, ante el órgano que determinen su Ley Orgánica y sus reglamentos;
 
@@ -1046,3 +1048,11 @@ P.O. 19 DE SEPTIEMBRE DE 2000.
 DECRETO 18444
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE JULIO DE 2001.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Las presente reformas no se aplicarán a los Vicepresidentes Municipales elector que se encuentran en funciones para el periodo constitucional comprendido del 1° de enero del 2001 al 31 de diciembre del 2003.
+
+TERCERO.- Las presentes reformas no se aplicarán a los Síndicos, en tanto no sean electos de conformidad a lo dispuesto por Ley Electoral del Estado de Jalisco.
