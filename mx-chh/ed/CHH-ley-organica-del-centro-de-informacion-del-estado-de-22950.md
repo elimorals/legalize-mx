@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-centro-de-informacion-del-estado-de-22950"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-02-22"
-last_updated: "1997-07-19"
+last_updated: "1999-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY ORGANICA DEL CENTRO DE INFORMACION DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1997.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 413/99 I P.O. DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 1999., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 22 de febrero de 1986.
 
@@ -126,3 +128,29 @@ TERCERO. Se derogan los artículos segundo al decimotercero del Decreto 670/85, 
 CUARTO. En tanto se expidan los reglamentos del Sistema de Documentación e Información Pública del Estado de Chihuahua y del Centro de Información del Estado de Chihuahua, el Consejo Técnico y el Consejo Directivo resolverán lo necesario para el despacho de los asuntos.
 
 QUINTO. Exclusivamente para los integrantes del primer Comité Técnico, el término de tres años a que se refiere el Artículo 24 de la presente Ley, empezará a contar a partir del 30 de octubre de 1998, independientemente de la fecha en que se constituya.
+
+P.O. 25 DE DICIEMBRE DE 1999.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto 670/85 que en su momento creó al Centro de Información del Estado de Chihuahua.
+
+###### ARTÍCULO TERCERO.
+
+El personal de base que labora actualmente en el Centro de Información del Estado de Chihuahua, que en aplicación de este Decreto pase a depender del Instituto Chihuahuense de la Cultura, no resultará afectado en los derechos que haya adquirido en virtud de su relación laboral anterior, misma que en lo sucesivo se entenderá para todos los efectos con dicho Instituto.
+
+###### ARTÍCULO CUARTO.
+
+En los términos de los artículos que anteceden, los recursos patrimoniales, humanos y financieros del Centro de Información del Estado de Chihuahua pasarán a formar parte del Instituto Chihuahuense de la Cultura y se entregarán, bajo las formalidades administrativas procedentes, en un término de sesenta días. Los asuntos pendientes pasarán de inmediato al Instituto Chihuahuense de la Cultura para su trámite y resolución.
+
+###### ARTÍCULO QUINTO.
+
+Las facultades y obligaciones contenidas en otros ordenamientos se entenderán referidas al Instituto Chihuahuense de la Cultura, hasta en tanto se lleven a cabo las adecuaciones legales pertinentes.
+
+###### ARTÍCULO SEXTO.
+
+Las obligaciones que a la entrada en vigor del presente decreto haya contraído el Centro de Información del Estado de Chihuahua, se entenderán contraídas por el Instituto Chihuahuense de la Cultura.
