@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1987-12-26"
+last_updated: "1988-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1988.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -783,143 +783,147 @@ El Secretario General, mientras funcione con este carácter, no podrá ejercer l
 
 Del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1962)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
 ###### Artículo 67.
 
-El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Jueces Menores, Jueces de Paz, Tribunal para Menores y Jurados.
+El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Juzgados de Primera Instancia y Juzgados Mixtos de Paz.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1962)</small>
+La Ley Orgánica del Poder Judicial del Estado fijará las atribuciones de los tribunales y establecerá los procedimientos a que deben sujetarse en la administración de justicia.
+
+La independencia de los magistrados y jueces en el ejercicio de sus funciones, deberá estar garantizada por esta Constitución y la Ley Orgánica respectiva, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado; con autonomía e independencia absolutas, ejercerán las funciones jurisdiccionales y su ejecución.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
 ###### Artículo 68.
 
-El Supremo Tribunal de Justicia funcionará en Acuerdo Pleno o en Sala, y estará integrado con el número de Magistrados que fije la Ley Orgánica del mismo.
+El Supremo Tribunal de Justicia funcionará en pleno o en sala colegiada y estará integrado por el número de magistrados que fije la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 1936)</small>
+En los términos de la misma, la representación y buena marcha del Poder Judicial corresponde al Magistrado Presidente del Supremo Tribunal de Justicia del Estado, que se elegirá anualmente y podrá ser reelecto.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
 ###### Artículo 69.
 
-Para ser Magistrado del Supremo Tribunal de Justicia o Juez de Primera Instancia se requiere:
+Para ser magistrado del Supremo Tribunal de Justicia se requiere:
 
-I.- Ser ciudadano Mexicano por nacimiento y estar en pleno goce de sus derechos.
+I.- Ser mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 1977)</small>
+II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de elección;
 
-II.- Tener cuando menos 25 años de edad y título oficial de Abogado expedido por Institución legalmente autorizada para otorgarlo, con cuatro años de práctica forense para lo primero y dos para lo segundo.
+III.- Poseer con antigüedad mínima de cinco años, título profesional de abogado, expedido por la autoridad o corporación legalmente facultada para ello;
 
-El Secretario del Juzgado podrá desempeñar el cargo de Juez cuando falte éste, siempre que la falta no exceda de un mes y lo acuerde previamnte (sic) el Presidente o el Supremo Tribunal de Justicia.
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-III.- No ser Ministro de algún culto ni pertenecer al estado eclesiástico.
+V.- Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia al servicio de la República, o por motivo de estudio.
 
-IV.- No tener empleo, cargo o comisión de otros Estados o de la Federación, salvo que lo renuncie antes de ser nombrado.
-
-V.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público; inhabilitará para el cargo, cualquiera que haya sido la pena.
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1954)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
 ###### Artículo 70.
 
-El Supremo Tribunal de Justicia se renovará cada seis años que se contarán desde el día primero de noviembre, en que se inicia su ejercicio constitucional, pudiendo los designados ser reelectos para cualquier otro periodo. Si por cualquier motivo no se hace elección o los designados no se presentan al desempeño de su cargo, continuarán ejerciendo las funciones judiciales los individuos que los formen hasta que tomen posesión los nuevamente nombrados. Los nombramientos de los Magistrados del Supremo Tribunal serán hechos por el Gobernador del Estado y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del improrrogable término de cinco días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Congreso no podrán tomar posesión los Magistrados del Supremo Tribunal de Justicia nombrados por el Gobernador del Estado. En el caso de que el Congreso no apruebe los nombramientos sucesivos, respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de la Cámara en el siguiente periodo ordinario de Sesiones. En este periodo de sesiones, dentro de los primeros ocho días el Congreso deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional, y el Gobernador del Estado someterá nuevo nombramiento a la aprobación de dicho Cuerpo Colegiado, en los términos señalados.
+Los nombramientos de los magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado, y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del improrrogable término de cinco días.
 
-En los casos de faltas temporales por más de dos meses, de los Magistrados, serán estos substituidos mediante nombramientos que el Gobernador del Estado someterá a la aprobación del Congreso y en sus recesos, a la de la Diputación Permanente, observándose en su caso lo dispuesto en los párrafos anteriores.
+Si el Congreso no resolviera dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Congreso no podrán tomar posesión los magistrados nombrados.
 
-Las faltas temporales de un Magistrado, que no excedan de dos meses, se suplirán en la forma que determine la Ley Orgánica.
+En el caso de que el Congreso no apruebe dos nombramientos sucesivos, respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de la Cámara en el siguiente período ordinario de Sesiones.
 
-Si faltare un Magistrado por defunción, renuncia o incapacidad, el Gobernador del Estado someterá un nuevo nombramiento a la aprobación del Congreso; y si este no estuviere en sesiones, la Diputación Permanente dará su aprobación provisional, mientras se reúne aquél y da la aprobación definitiva.
+En dicho período, dentro de los primeros ocho días, el Congreso deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso desecha el nombramiento, cesará desde luego en sus funciones el magistrado provisional, y el Gobernador del Estado someterá nuevo nombramiento a la aprobación de dicho Cuerpo Colegiado, en los términos señalados.
 
-El Gobernador del Estado podrá pedir ante el Congreso la destitución, por mala conducta, de cualquiera de los Magistrados del Supremo Tribunal de Justicia. Si el Congreso declara, por mayoría absoluta de votos, justificada la petición, el funcionario acusado quedara privado desde luego de su puesto, independientemente de la responsabilidad legal en que hubiere incurrido y se procederá a nueva designación.
+Las faltas temporales de un magistrado, que no excedan de tres meses, se suplirán en la forma que determine la Ley Orgánica del Poder Judicial.
 
-El Gobernador del Estado, antes de pedir al Congreso o a la Diputación Permanente la destitución de algún Magistrado, oirá a éste, en lo privado, a efecto de poder apreciar en conciencia la justificación de tal solicitud.
+Si faltare un Magistrado por defunción, renuncia o incapacidad, el Gobernador del Estado someterá un nuevo nombramiento a la aprobación del Congreso, quedando este nombramiento limitado al resto del correspondiente periodo. Si el Congreso no estuviere en sesiones, la diputación permanente dará su aprobación provisional, mientras se reúna aquél y dé la aprobación definitiva.
 
-> <small>(REFORMADO, P. O. 10 DE NOVIEMBRE DE 1951)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
 ###### Artículo 71.
 
-Los Jueces de Primera Instancia y los Menores serán nombrados y removidos libremente por el Supremo Tribunal de Justicia y tendrán los requisitos que fija el artículo 69 de esta Constitución, a excepción del título de abogado para los jueces menores que será dispensado cuando las circunstancias lo requieran.
+Los jueces de primera instancia, los de paz y los que con cualquier otra denominación se creen en el Estado, serán nombrados y ratificados por el Supremo Tribunal de Justicia, observando las normas y requisitos que establece la Ley Orgánica respectiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE JUNIO DE 1988)</small>
 
 ###### Artículo 72.
 
-(DEROGADO, P.O. 30 DE ENERO DE 1954)
+Los nombramientos de los magistrados y jueces integrantes del Poder Judicial del Estado, serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
 ###### Artículo 73.
 
-Una ley reglamentaria fijará las atribuciones de los Tribunales y establecerá los procedimientos a que debe sujetarse en la Administración de Justicia.
+Los magistrados y jueces durarán en el ejercicio de su encargo seis años que se contarán desde el día primero de noviembre en que se inicia el período constitucional del Ejecutivo; podrán ser reelectos, y si lo fueren, sólo serán privados de sus puestos en los términos de esta Constitución o la Ley de Responsabilidades de los Servidores Públicos del Estado. Si por cualquier motivo no se hace elección de magistrados o jueces, o los designados no se presenten al desempeño de sus cargos, continuarán ejerciendo las funciones judiciales quienes se encuentren desempeñándolas, hasta que tomen posesión los que se nombren.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 1954)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
 ###### Artículo 74.
 
-Corresponde exclusivamente al Supremo Tribunal de Justicia del Estado:
+Corresponde exclusivamente al Supremo Tribunal de Justicia en el Estado:
 
-I.- Formar su reglamento interior.
+I.- Formar su reglamento interior;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1954)</small>
+II.- Conocer de las causas de responsabilidad que hayan de formarse a los funcionarios de que habla el Artículo 123, previa la declaración que se haga de haber lugar a sujeción de causa;
 
-II.- Conocer de las causas de responsabilidad que hayan de formarse a los funcionarios de que habla el artículo 123 previa la declaración que se haga de haber lugar a sujeción de causa.
+III.- Consignar a los jueces de primera instancia y demás que designe la Ley Orgánica del Poder Judicial, a la autoridad competente, por delitos comunes o responsabilidades oficiales en que incurran, a solicitud del Procurador General de Justicia;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1940)</small>
+IV.- Conceder licencias a los jueces de Primera Instancia y a las demás autoridades que designe la Ley Ofgánica (sic) del Poder Judicial, así como a los empleados inferiores de su dependencia; y resolver acerca de la renuncia de sus miembros;
 
-III.- Consignar a los Jueces de Primera Instancia y demás que designe la Ley Orgánica del Poder Judicial, a la autoridad competente, por delitos comunes o responsabilidades oficiales en que incurran, a solicitud del Procurador General de Justicia.
+V.- La administración de los recursos humanos y materiales que requiere el funcionamiento de su dependencia y le asigne el presupuesto de egresos;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1940)</small>
+VI.- Dirimir los conflictos que surjan entre los municipios y cualesquiera de los poderes del Estado, y que no sean previstos por la fracción XXXVIII del Artículo 34 de esta Constitución;
 
-IV.- Conceder licencias a los Jueces de Primera Instancia y a las demás autoridades que designe la Ley Orgánica del Poder Judicial, así como a los empleados inferiores de su dependencia; y resolver acerca de la renuncia de los mismos.
+VII.- Dirimir las competencias de jurisdicción que se susciten entre los Tribunales del Estado;
 
-V.- (DEROGADA, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 1932)
+VIII.- De los negocios civiles y penales del fuero común, como Tribunal de apelación o de última instancia;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
+IX.- Ejercitar el derecho de iniciar leyes ante el Congreso Local y nombrar, en su caso, el representante a que se refiere el Artículo 45 de la Constitución;
 
-VI.- Dirimir los conflictos que surjan entre los Municipios y cualesquiera de los Poderes del Estado, y que no sean de los previstos por la fracción XXXVIII del artículo 33 de esta Constitución.
+X.- Nombrar y remover a los ampleados (sic) del Supremo Tribunal de Justicia, Juzgados de Primera Instancia y demás que designe la Ley Orgánica del Poder Judicial, tomarles la protesta respectiva en los términos de ley.
 
-VII.- Dirimir las competencias de jurisdicción que se susciten entre los Tribunales del Estado.
-
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1954)</small>
-
-VIII.- De los negocios civiles y penales del fuero común, como Tribunal de Apelación o de última Instancia.
-
-IX.- Ejercitar el derecho de iniciar leyes ante el Congreso Local y nombrar en su caso el representante a que se refiere el artículo 45 de la Constitución.
-
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1940)</small>
-
-X.- Nombrar y remover a los empleados del Supremo Tribunal de Justicia, Juzgados de Primera Instancia y demás que designe la Ley Orgánica del Poder Judicial, y Tomarles la protesta respectiva en los términos de Ley.
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1954)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
 ###### Artículo 75.
 
-Los Magistrados y los Jueces serán removidos en los términos que establece esta Constitución.
+Los magistrados rendirán su protesta ante el H. Congreso del Estado, en sesión pública extraordinaria que para tal efecto se convoque. Los jueces lo harán ante el Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1924)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
 ###### Artículo 76.
 
-Los miembros del Poder Judicial no podrán durante el ejercicio de su cargo, ejercer la profesión de Abogado ni las funciones de Notario, salvo el caso que estén desempeñando el cargo con carácter de Suplente y por un término que no exceda de dos meses.
+Durante el ejercicio de su encargo los miembros del Poder Judicial no podrán ejercer la profesión de abogado ni las funciones de notario público, salvo que estén desempeñando el cargo con el carácter de suplente y por un término que no exceda de tres meses.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1954)</small>
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1988)</small>
 
 ## TITULO V.
+
+### CAPITULO I BIS.
+
+De la Jurisdicción en Materia Administrativa.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 25 DE JUNIO DE 1988)</small>
+
+###### Artículo 77.
+
+La función jurisdiccional en materia administrativa, incluyendo la fiscal, estará a cargo del Tribunal de lo Contencioso Administrativo del Estado.
+
+El Tribunal de lo Contencioso Administrativo, estará dotado de plena autonomía para dictar sus resoluciones y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten, entre las autoridades del Estado y municipales y de los organismos descentralizados de ambos con los particulares. Igualmente, de las que surjan entre el Estado y los Municipios, o de éstos entre sí.
+
+La Ley Orgánica del Tribunal de lo Contencioso Administrativo que al efecto se expida, establecerá las normas para su organización y funcionamiento; los procedimientos y los recursos contra las resoluciones que dicte.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 25 DE JUNIO DE 1988)</small>
+
+###### Artículo 78.
+
+Para el conocimiento, por parte de dicho Tribunal, de las controversias administrativas y fiscales de índole municipal, se requerirá de previo convenio que celebren los Ayuntamientos, con el Ejecutivo del Estado.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 25 DE JUNIO DE 1988)</small>
+
+###### Artículo 79.
+
+Estará a cargo del Tribunal de Arbitraje y Escalafón, la función jurisdiccional para resolver las controversias entre el Estado, los municipios, los organismos descentralizados de ambos, con los servidores públicos a su cargo, en materia laboral y se regirá por la Ley para los Servidores Públicos del Estado y sus reglamentos, en base a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones complementarias.
 
 ### CAPITULO II.
 
 Del Ministerio Público y de la Defensoría de Oficio.
-
-###### Artículo 77.
-
-Habrá Jueces de Primera Instancia o Menores en las poblaciones que designe la Ley Orgánica del Poder Judicial, la cual determinará el número que ha de haber en cada población, sus facultades, obligaciones y modo de nombrarlos y removerlos y llenar sus faltas.
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1954)</small>
-
-###### Artículo 78.
-
-Las faltas temporales de los Magistrados del Supremo Tribunal de Justicia se cubrirán por los suplentes respectivos que serán llamados por los miembros restantes del mismo Cuerpo.
-
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 1954)</small>
-
-###### Artículo 79.
-
-El Presidente del Supremo Tribunal de Justicia será responsable de la buena marcha de la Administración de Justicia en el Estado, tendrá la representación del Supremo Tribunal y las facultades que le fije la Ley Orgánica respectiva.
-
-Los Magistrados y los Jueces son responsables de los delitos y faltas en que incurran durante el ejercicio de su cargo, previo juicio de responsabilidad.
 
 ###### Artículo 80.
 
@@ -1922,3 +1926,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su expedició
 P.O. 26 DE DICIEMBRE DE 1987.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 25 DE JUNIO DE 1988.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
