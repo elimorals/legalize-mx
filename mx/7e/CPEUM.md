@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1945-04-21"
+last_updated: "1946-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ABRIL DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1946.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -48,29 +48,33 @@ En los Estados Unidos Mexicanos todo individuo gozará de las garantías que oto
 
 Está prohibida la esclavitud en los Estados Unidos Mexicanos. Los esclavos del extranjero que entren al territorio nacional, alcanzarán, por ese sólo hecho, su libertad y la protección de las leyes.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1946)</small>
 
 ###### Art. 3o.
 
-La educación que imparta el Estado será socialista, y además de excluir toda doctrina religiosa combatirá el fanatismo y los prejuicios, para lo cual la escuela organizará sus enseñanzas y actividades en forma que permita crear en la juventud un concepto racional y exacto del universo y de la vida social.
+La educación que imparta el Estado -Federación, Estados, Municipios- tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
 
-Sólo el Estado -Federación, Estados, Municipios- impartirá educación primaria, secundaria y normal. Podrán concederse autorizaciones a los particulares que deseen impartir educación en cualquiera de los tres grados anteriores, de acuerdo en todo caso con las siguientes normas:
+I.- Garantizada por el artículo 24 la libertad de creencias, el criterio que orientará a dicha educación se mantendrá por completo ajeno a cualquier doctrina religiosa y, basado en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
 
-I.- Las actividades y enseñanzas de los planteles particulares deberán ajustarse, sin excepción alguna, a lo preceptuado en el párrafo inicial de este artículo, y estarán a cargo de personas que en concepto del Estado tengan suficiente preparación profesional, conveniente moralidad e ideología acorde con este precepto. En tal virtud, las corporaciones religiosas, los ministros de los cultos, las sociedades por acciones que exclusiva o preferentemente realicen actividades educativas, y las asociaciones o sociedades ligadas directa o indirectamente con la propaganda de un credo religioso, no intervendrán en forma alguna en escuelas primarias, secundarias o normales, ni podrán apoyarlas económicamente.
+a).- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
-II.- La formación de planes, programas y métodos de enseñanza corresponderá en todo caso al Estado.
+b).- Será nacional, en cuanto -sin hostilidades ni exclusivismos- atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y
 
-III.- No podrán funcionar los planteles particulares sin haber obtenido previamente, en cada caso, la autorización expresa del poder público.
+c).- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de sectas, de grupos, de sexos o de individuos.
 
-IV.- El Estado podrá revocar, en cualquier tiempo, las autorizaciones concedidas. Contra la revocación no procederá recurso o juicio alguno.
+II.- Los particulares podrán impartir educación en todos sus tipos y grados. Pero por lo que concierne a la educación primaria, secundaria y normal (y a la de cualquier tipo o grado, destinada a obreros y a campesinos) deberán obtener previamente, en cada caso, la autorización expresa del poder público. Dicha autorización podrá ser negada o revocada, sin que contra tales resoluciones proceda juicio o recurso alguno;
 
-Estas mismas normas regirán la educación de cualquier tipo o grado que se imparta a obreros o campesinos.
+III.- Los planteles particulares dedicados a la educación en los tipos y grados que especifica la fracción anterior deberán ajustarse, sin excepción, a lo dispuesto en los párrafos inicial, I y II del presente artículo y, además, deberán cumplir los planes y los programas oficiales;
 
-La educación primaria será obligatoria y el Estado la impartirá gratuitamente.
+IV.- Las corporaciones religiosas, los ministros de los cultos, las sociedades por acciones que, exclusiva o predominantemente, realicen actividades educativas y las asociaciones o sociedades ligadas con la propaganda de cualquier credo religioso no intervendrán en forma alguna en planteles en que se imparta educación primaria, secundaria y normal y la destinada a obreros o a campesinos;
 
-El Estado podrá retirar discrecionalmente en cualquier tiempo, el reconocimiento de validez oficial a los estudios hechos en planteles particulares.
+V.- El Estado podrá retirar discrecionalmente, en cualquier tiempo, el reconocimiento de validez oficial a los estudios hechos en planteles particulares;
 
-El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, los Estados y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
+VI.- La educación primaria será obligatoria;
+
+VII.- Toda la educación que el Estado imparta será gratuita;
+
+VIII.- El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, los Estados y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
 
 ###### Art. 4o.
 
@@ -844,7 +848,9 @@ Los Magistrados y los Jueces a que se refiere esta base podrán ser privados de 
 
 VII.- Para imponer las contribuciones necesarias a cubrir el Presupuesto.
 
-VIII.- Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos sobre el crédito de la Nación; para aprobar esos mismos empréstitos y para reconocer y mandar pagar la deuda nacional.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1946)</small>
+
+VIII.- Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos sobre el crédito de la Nación, para aprobar esos mismos empréstitos y para reconocer y mandar pagar la Deuda Nacional. Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan un incremento en los ingresos públicos, salvo los que se realicen con propósitos de regulación monetaria, las operaciones de conversión y los que se contraten durante alguna emergencia declarada por el Presidente de la República en los términos del artículo 29.
 
 > <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -1306,13 +1312,17 @@ II.- Por leyes o actos de la autoridad federal que vulneren o restrinjan la sobe
 
 III.- Por leyes o actos de las autoridades de éstos que invadan la esfera de la autoridad federal.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1946)</small>
+
 ###### Art. 104.
 
-Corresponde a los tribunales de la Federación conocer:
+Corresponde a los Tribunales de la Federación conocer:
 
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 1934)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1946)</small>
 
-I. De todas las controversias del orden civil o criminal que se susciten sobre el cumplimiento y aplicación de leyes federales o con motivo de los Tratados celebrados con las potencias extranjeras. Cuando dichas controversias sólo afecten intereses particulares podrán conocer también de ellas, a elección del actor, los jueces y Tribunales locales del orden común de los Estados, del Distrito Federal y Territorios. Las sentencias de primera instancia serán apelables para ante el superior inmediato del juez que conozca del asunto en primer grado.
+I.- De todas las controversias del orden civil o criminal que se susciten sobre el cumplimiento y aplicación de leyes federales o con motivo de los tratados celebrados con las potencias extranjeras. Cuando dichas controversias sólo afecten intereses particulares, podrán conocer también de ellas, a elección del actor, los jueces y tribunales locales del orden común de los Estados, del Distrito Federal y Territorios. Las sentencias de primera instancia serán apelables para ante el superior inmediato del juez que conozca del asunto en primer grado.
+
+En los juicios en que la Federación esté interesada, las leyes podrán establecer recursos ante la Suprema Corte de Justicia contra las sentencias de segunda instancia o contra las de tribunales administrativos creados por ley federal, siempre que dichos tribunales estén dotados de plena autonomía para dictar sus fallos.
 
 II.- De todas las controversias que versen sobre derecho marítimo.
 
@@ -1493,6 +1503,10 @@ VII.- Expedir ni mantener en vigor leyes o disposiciones fiscales que importen d
 > <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
 VIII.- Emitir títulos de deuda pública, pagaderos en moneda extranjera o fuera del territorio nacional; contratar directa o indirectamente préstamos con Gobiernos de otras naciones, o contraer obligaciones en favor de sociedades o particulares extranjeros, cuando haya de expedirse títulos o bonos al portador o transmisibles por endoso.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1946)</small>
+
+Los Estados y los Municipios no podrán celebrar empréstitos sino para la ejecución de obras que estén destinadas a producir directamente un incremento en sus respectivos ingresos.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -2075,3 +2089,23 @@ La Suprema Corte y el Tribunal Superior de Justicia del Distrito y Territorios F
 D.O.F. 21 DE ABRIL DE 1945.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 30 DE DICIEMBRE DE 1946.
+
+DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 104.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor diez días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1946.
+
+DECRETO QUE REFORMA EL ARTICULO 3°.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 30 DE DICIEMBRE DE 1946.
+
+DECRETO QUE REFORMA LA FRACCION VIII DEL ARTICULO 73 Y ADICIONA LA FRACCION VIII DEL ARTICULO 117.
+
+UNICO.- Este Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
