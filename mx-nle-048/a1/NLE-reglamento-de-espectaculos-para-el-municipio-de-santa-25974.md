@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-espectaculos-para-el-municipio-de-santa-25974"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-11-27"
-last_updated: "1992-09-14"
+last_updated: "1994-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ESPECTACULOS PARA EL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1994.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de noviembre de 1991.
 
@@ -39,7 +39,9 @@ BASES DEL REGLAMENTO DE ESPECTACULOS
 
 ART. 1o.- Quedan considerados en el presente Reglamento y sujetos a sus disposiciones, los espectáculos y diversiones públicas siguientes:
 
-Las funciones de variedad artística, cabarets, centros nocturnos, discotecas, audiciones musicales, representaciones teatrales y artísticas, funciones cinematográficas, corridas de toros, eventos deportivos (fútbol, béisbol, box, lucha, etc.) golfitos, juegos electromecánicos, circos, ferias, etc., exposiciones industriales, comerciales y ganaderas, exhibiciones de pintura, escultura y cualquier exhibición artística y en general cualquier tipo de actos que se realicen ya sea mediante cobro o sin el, con el fin de llevar cualquier tipo de esparcimiento.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1994)</small>
+
+Las funciones de variedad artística, cabarets, centros nocturnos, discotecas, Rodeos, audiciones musicales, representaciones teatrales y artísticas, funciones cinematográficas, corridas de toros, eventos deportivos (fútbol, béisbol, box, lucha, etc), golfitos, juegos electromecánicos, circos, ferias, etc., exposiciones industriales, comerciales y ganaderas, exhibiciones de pintura, escultura y cualquier exhibición artística y en general cualquier tipo de actos que se realicen ya sea mediante cobro o sin él, con el fin de llevar cualquier tipo de esparcimiento.
 
 ART. 2o.- La clasificación de dichos espectáculos, se hará en la forma siguiente:
 
@@ -59,7 +61,9 @@ ART. 5o.- A fin de que la Autoridad Municipal conceda el permiso que se menciona
 
 ART. 6o.- Por motivo de seguridad, en todas las puertas de los lugares en los que se efectúen cualquier tipo de espectáculos, deberán existir letreros con la palabra "salida", sobre los muros, habrá flechas que indiquen la dirección de la misma, en éstas flechas deberá existir también la palabra "salida". Las letras deberán tener una altura mínima de 15 cms. y los letreros deberán estar iluminados en su interior, a fin de que sean fácilmente localizables. Estos letreros estarán encendidos 15 minutos antes de dar principio el espectáculo y hasta que haya sido completamente desalojado el local.
 
-ART. 7o.- Todos los lugares en los cuales se efectúen cualquier tipo de espectáculos, ya sea cultural o de recreación, deberán contar como mínimo con dos salidas de emergencia, mismas que deberán tener un mecanismo especial para que puedan ser abiertas desde el interior, con la mayor facilidad posible. Estas puertas tendrán por la parte exterior (en la calle), un letrero que prohíba terminantemente el estacionamiento de cualquier tipo de vehículos, y en la parte superior interna, un letrero con las mismas condiciones señaladas en el artículo anterior que dirá "salida de emergencia".
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1994)</small>
+
+ART. 7o.- Todos los lugares en los cuales se efectúen cualquier tipo de espectáculos, ya sea cultural o de recreación, deberán contar como mínimo con dos salidas de emergencia, mismas que deberán tener un mecanismo especial para que puedan ser abiertas desde el interior, con la mayor facilidad posible. Estas puertas tendrán por la parte exterior el estacionamiento de cualquier tipo de vehículos y en la parte superior interna, un letrero con las mismas condiciones señaladas en el artículo anterior que dirá "salida de emergencia".
 
 ART. 8.- Los lugares en los cuales se lleven a cabo espectáculos, ya sean culturales o de recreación, deberán contar con la ventilación suficiente, quedando a criterio de la Autoridad Municipal la exigencia de instalación de extractores de aire, aire acondicionado, abanicos eléctricos, para que el lugar quede perfectamente ventilado.
 
@@ -67,7 +71,9 @@ ART. 9o.- La luz eléctrica, será la única iluminación permitida dentro de lo
 
 ART. 10.- Los teatros, cines, salones de baile y demás salas de espectáculos, deberán estar provistos de hidrantes, mangueras y extinguidores, en número suficiente, a fin de que puedan en caso dado, sofocar a la mayor brevedad, cualquier conato de incendio.
 
-ART. 11.- Queda estrictamente prohibida la entrada a cualquier tipo de esepctáculo (sic) a personas armadas, a excepción hecha de las personas encargadas de vigilar el orden público.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 1994)</small>
+
+ART. 11.- Queda estrictamente prohibida la entrada a cualquier tipo de espectáculo a personas armadas, a excepción hecha de las personas encargadas de vigilar el orden público.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1992)</small>
 
@@ -101,13 +107,17 @@ ART. 22.- Al término de cada función deberá de hacerse la limpieza de las ár
 
 ART. 23.- Los eventos de box y lucha, se regirán por el Reglamento correspondiente y vigente en el Estado.
 
-ART. 24.- En el caso de los espectáculos taurinos ya sean festivales, novilladas o corridas de toros, se regirán por el Reglamento Taurino del Estado en vigor.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1994)</small>
+
+ART. 24.- En el caso de los espectáculos taurinos ya sean festivales, novilladas o corridas de toros, se regirán por el Reglamento del Estado en vigor.
 
 ### CAPITULO TERCERO. DE LOS TEATROS
 
 ART. 25.- Para que una empresa teatral pueda obtener el permiso correspondiente, deberá llenar los siguientes requisitos:
 
-I.- Solicitar permiso de la Autoridad Municipal, cuando menos 8 días antes de que se lleve a cabo la primera función;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1994)</small>
+
+I.- Solicitar permiso a la Autoridad Municipal, cuando menos 8 días antes de que se lleve a cabo la primera función;
 
 II.- Adjuntar a la solicitud, el elenco y repertorio que se compromete presentar al público, precios, tipo de localidades, número de días en que se presentará la obra y horario;
 
@@ -117,7 +127,9 @@ IV.- Comprometerse, una vez otorgado el permiso correspondiente, a cumplir con l
 
 ART. 26.- En caso de que por fuerza mayor justificada, se substituya algún o algunos de los integrantes del elenco, la empresa se compromete a hacerlo del conocimiento del público asistente, obligándose a devolver el importe del boleto a las personas que así lo soliciten.
 
-ART. 27.- En el caso de que por requerimiento de la puesta en escena, se simulara algún efecto que implique o de la sensación de peligro, la empresa lo hará del conocimiento de las Autoridades, con la debida anticipación, para qu (sic) ésta, se cerciore de que ello no constituya riesgo para el público, y si fuera necesario, dicte las disposiciones tendientes a evitarlo.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1994)</small>
+
+ART. 27.- En el caso de que por requerimiento de la puesta en escena, se simulara algún efecto que implique o dé la sensación de peligro, la empresa lo hará del conocimiento de las Autoridades, con la debida anticipación, para que ésta, se cerciore de que ello no constituya riesgo para el público, y si fuera necesario, dicte las disposiciones tendientes a evitarlo.
 
 ART. 28.- En las taquillas del teatro, deberán tener un plano que contendrá las localidades, la distribución y numeración de las mismas, a fin de que el público asistente se entere de su localidad numerada.
 
@@ -131,13 +143,19 @@ ART. 31.- En los lugares destinados exclusivamente para la proyección de funcio
 
 I.- En las casetas de los cines, sólo se permitirá la entrada durante la función, a los operadores;
 
-II.- Quedará prohibido tener en dichas casetas, papeles, ropa, o cualquier tipo de objeto de fácil combustión, que no sea para uso exclusivo de la proyección;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1994)</small>
+
+II.- Queda prohibido tener en dichas casetas, papeles, ropa, o cualquier tipo de objeto de fácil combustión, que no sea para uso exclusivo de la proyección;
 
 III.- Las casetas de proyección deberán estar provistas como mínimo con un extinguidor de polvo a, b, c, en perfecto estado de funcionalidad;
 
-IV.- Queda terminantemente prohibido, fumar en el interior de las casetas; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1994)</small>
 
-V.- Solo manejarán los aparatos proyectores de películas, personas calificadas para ello, que serán responsables de los accidentes que pudieran ocurrir por descuido o torpez (sic).
+IV.- Queda terminantemente prohibido fumar en el interior de las casetas; y
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1994)</small>
+
+V.- Solo manejarán los aparatos proyectores de películas, personas clasificadas para ello, que serán responsables de los accidentes que pudieran ocurrir por descuido o torpeza.
 
 ART. 32.- Queda estrictamente prohibido que se exhiban películas de idioma extranjero, sin los títulos correspondientes en castellano, salvo permiso de la Autoridad.
 
@@ -203,19 +221,29 @@ ART. 46.- En el caso de los centros nocturnos o cabarets, deberán contar con un
 
 ART. 47.- En los lugares en que se cobre un cargo extra, ya sea por consumo mínimo o por derecho de mesa, los representantes de las empresas deberán obtener de la Presidencia Municipal, el permiso correspondiente.
 
-ART. 48.- Todas las variedades que se presenten en los centros nocturnos o cabarets, deberán ser autorizadas por la Presidencia Municipal. Para tal efecto, las empresas deberán presentar por lo menos una semana antes del día del debur (sic), los contratos correspondiente (sic), a fin de que sean debidamente autorizados.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1994)</small>
+
+ART. 48.- Todas las variedades que se presenten en los centros nocturnos o cabarets, o negocios similares, deberán ser autorizadas por la Presidencia Municipal. Para tal efecto, las empresas deberán presentar por lo menos una semana antes del día del debut los contratos correspondientes, a fin de que sean debidamente autorizados.
 
 ART. 49.- En caso de que alguna discoteca desee como caso especial presentar alguna variedad en vivo, deberá obtener el permiso de la Autoridad Municipal por lo menos con 20 días de anticipación, y sujetarse a los requisitos establecidos para los cabarets.
 
 ART. 50.- Queda prohibido, en las discotecas, la exposición o exhibición en cualquier forma, de imágenes, que motiven o que inciten a la violencia.
 
-ART. 51.- La venta de bebidas adulteradas se castigará de acuerdo a la sanción prevista en la fracción II del artículo 64 (sic) tratándose de la primera ocasión, en caso de reincidencia con el doble de la sanción impuesta y si persiste, con la cancelación de la licencia y la clausura del establecimiento.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1994)</small>
 
-ART. 52.- Los horarios para la presentación de las variedades deberán ser del conocimiento del público asistente, al no cumplirse con lo establecido en el párrafo anterior, sin causa de fuerza mayor comprobada, ya sea por parte de la empresa, o del artísta, éstos se harán merecedores a una sanción económica fijada por la Autoridad, de acuerdo con este Reglamento.
+ART. 51.- La venta de bebidas adulteradas se castigará de acuerdo a la sanción prevista en la fracción II del artículo 65 tratándose de la primera ocasión en caso de reincidencia con el doble de la sanción impuesta y si persiste, con la cancelación de la licencia y la clausura del establecimiento.
 
-ART. 53.- Queda estrictamente prohibido que los artístas, antes, entre o después de sus actuaciones, alternen con los clientes.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1994)</small>
 
-ART. 54.- Queda prohibida la entrada a éstos lugares, a menores de 18 años, a los militares y policías uniformados.
+ART. 52.- Los horarios para la presentación de las variedades, deberán ser del conocimiento del público asistente, al no cumplirse con lo establecido en el párrafo anterior, sin causa de fuerza mayor comprobada, ya sea por parte de la empresa o del artista, éstas se harán merecedoras a una sanción económica fijada por la Autoridad, de acuerdo con este Reglamento.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1994)</small>
+
+ART. 53.- Queda estrictamente prohibido que los artistas, antes, entre o después de sus actuaciones, alternen con los clientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 1994)</small>
+
+ART. 54.- Queda prohibida la entrada a estos lugares, a menores de 18 años, a los militares y policías uniformados.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1992)</small>
 
@@ -233,7 +261,9 @@ ART. 56.- El horario para los centros nocturnos o cabarets de primera y segunda,
 
 ART. 57.- El horario para las discotecas, salones de baile, clubes y centros sociales, será de las 20:00 horas a la 1:00 horas del día siguiente.
 
-ART. 58.- La Autoridad Municipal, podrá autorizar, previa solicitud, la ampliación del horario establecido; en aquellos negocios que tengan relación directa con el turísmo, o que ofrezcan seguridad y no perturben el orden y la tranquilidad pública.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1994)</small>
+
+ART. 58.- La Autoridad Municipal podrá autorizar, previa solicitud, la ampliación del horario establecido, en aquellos negocios que tengan relación directa con el turismo, o que ofrezcan seguridad y no perturben el orden y la tranquilidad pública.
 
 ### CAPITULO OCTAVO. DE LAS EXPOSICIONES INDUSTRIALES COMERCIALES Y GANADERAS
 
@@ -314,3 +344,11 @@ Las presentes modificaciones a este reglamento entraran en vigor al día siguien
 ###### ARTICULO 2o.
 
 El presente reglamento deja sin efecto los artículos antes reformados.
+
+P.O. 31 DE OCTUBRE DE 1994.
+
+PRIMERO: Las modificaciones y adiciones a los Artículos del Reglamento de Espectáculos de ciudad de Santa Catarina, N.L., entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Los demás Artículos del Reglamento de Espectáculos de Santa Catarina, N.L. publicado en el Periódico Oficial de 27 de Noviembre de 1991, que no fueron modificados o adicionados, quedan firmes para todos sus efectos legales.
+
+TERCERO: Envíese al Periódico Oficial del Estado por conducto de la SECRETARIA GENERAL DE GOBIERNO, de quién depende, para su promulgación y publicación.
