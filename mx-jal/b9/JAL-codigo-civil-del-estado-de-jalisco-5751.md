@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2002-06-22"
+last_updated: "2003-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2003.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -8033,7 +8033,7 @@ El que paga el daño causado por sus sirvientes, empleados u obreros, puede repe
 
 ###### Art. 1405.
 
-El Estado y los municipios, tienen obligación de responder de los daños causados por servidor público en el ejercicio de las funciones que le estén encomendadas. Esta responsabilidad es subsidiaria y sólo podrá hacerse efectiva cuando el directamente responsable no tenga bienes suficientes para responder del daño causado o a dicho servidor no se le pueda identificar.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2003)
 
 ###### Art. 1406.
 
@@ -8171,7 +8171,7 @@ Son aplicables en lo conducente a este capítulo las disposiciones relativas al 
 
 ###### Art. 1431.
 
-También tendrá obligación de reparar el daño moral quien incurra en responsabilidad objetiva y el Estado y municipios de manera subsidiaria, respecto de los daños causados por sus servidores públicos en ejercicio de funciones que les estén encomendadas y cuando no tenga bienes o si los tiene no sean suficientes para responder del daño causado.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2003)
 
 ### CAPITULO IV. De las obligaciones mancomunadas
 
@@ -17218,3 +17218,13 @@ P.O. 22 DE JUNIO DE 2002.
 Primero. El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 Segundo. Los procedimientos de adopción que se hayan iniciado antes de la entrada en vigor del presente decreto se seguirán de conformidad con las disposiciones legales vigentes al momento de su iniciación.
+
+P.O. 11 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- El presente decreto entrará en vigor el 1 de enero del año 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Los asuntos que se encuentren en trámite en las dependencias o entidades relacionados con la indemnización a los particulares, derivados de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
+
+CUARTO.- El Gobierno del Estado y los ayuntamientos deberán incluir en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2004, una partida que haga frente a su responsabilidad patrimonial.
