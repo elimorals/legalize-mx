@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1944-06-09"
+last_updated: "1946-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,9 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 1944.
+> <small>N. DE E. SE MODIFICA EL TEXTO DE LOS ARTICULOS 1777, 2033, 2316, 2317, 2320, 2345 Y 2917 EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE FEBRERO DE 1946.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -7267,6 +7269,8 @@ ARTICULO 1,776.- Cuando todos los herederos sean mayores, y el interés del Fisc
 
 Cuando haya menores, podrán separarse, si están debidamente representados y el Ministerio Público da su conformidad. En este caso, los acuerdos que se tomen se denunciarán al juez, y éste, oyendo al Ministerio Público, dará su aprobación, si no se lesionan los derechos de los menores.
 
+> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
+
 ARTICULO 1,777.- La partición constará en escritura pública, siempre que en la herencia haya bienes cuya enajenación deba hacerse con esa formalidad.
 
 ARTICULO 1,778.- Los gastos de la partición, se rebajarán del fondo común; los que se hagan por el interés particular de alguno de los herederos o legatarios, se imputarán a su haber.
@@ -8024,6 +8028,8 @@ ARTICULO 2,031.- En la cesión de crédito se observarán las disposiciones rela
 ARTICULO 2,032.- La cesión de un crédito comprende la de todos los derechos accesorios como la fianza, hipoteca, prenda o privilegio, salvo aquellos que son inseparables de la persona del cedente.
 
 Los intereses vencidos se presume que fueron cedidos con el crédito principal.
+
+> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
 
 ARTICULO 2,033.- La cesión de créditos civiles que no sean a la orden o al portador, puede hacerse en escrito privado que firmarán cedente, cesionario y dos testigos. Sólo cuando la ley exija que el título del crédito cedido conste en escritura pública, la cesión deberá hacerse en esta clase de documento.
 
@@ -8789,13 +8795,19 @@ ARTICULO 2,315.- En la venta de que habla el artículo 2,312, mientras que no pa
 
 ### CAPITULO VIII. De la forma del contrato de compra-venta
 
+> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
+
 ARTICULO 2,316.- El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
+
+> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
 
 ARTICULO 2,317.- La venta de un inmueble que tenga un valor hasta de cinco mil pesos, podrá hacerse en instrumento privado que firmará el vendedor y el comprador ante dos testigos.
 
 ARTICULO 2,318.- Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del art. 1,834.
 
 ARTICULO 2,319.- De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
+
+> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
 
 ARTICULO 2,320.- Si el valor del inmueble excede de cinco mil pesos su venta se hará en escritura pública.
 
@@ -8860,6 +8872,8 @@ ARTICULO 2,343.- La donación verbal sólo producirá efectos legales cuando el 
 ARTICULO 2,344.- Si el valor de los muebles excede de doscientos pesos, pero no de cinco mil, la donación debe hacerse por escrito.
 
 Si excede de cinco mil pesos, la donación se reducirá a escritura pública.
+
+> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
 
 ARTICULO 2,345.- La donación de bienes raíces se hará en la misma forma que para su venta exige la ley.
 
@@ -10563,6 +10577,8 @@ ARTICULO 2,916.- El acreedor hipotecario puede adquirir la cosa hipotecada, en r
 
 Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
 
+> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
+
 ARTICULO 2,917.- Cuando el crédito hipotecario exceda de cinco mil pesos, la hipoteca debe otorgarse en escritura pública. Cuando no exceda de esta cantidad, podrá otorgarse en escritura privada, ante dos testigos, de la cual se harán tantos ejemplares como sean las partes contratantes.
 
 ARTICULO 2,918.- La acción hipotecaria prescribirá a los diez años, contados desde que pueda ejercitarse con arreglo al título inscrito.
@@ -11210,6 +11226,10 @@ Los juicios de desocupación por terminación del contrato de arrendamiento que 
 ###### ARTICULO 3o.
 
 Los términos que estuvieron corriendo de conformidad con el artículo 2478 del Código Civil para dar por terminado un arrendamiento por tiempo indefinido, se suspenderán y no surtirán efectos los avisos dados por arrendadores a los inquilinos, notificándoseles su voluntad de dar por terminado el arrendamiento.
+
+D.O.F. 23 DE FEBRERO DE 1946.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 ###### ARTICULO 4o.
 
