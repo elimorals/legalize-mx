@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1936-03-07"
+last_updated: "1936-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 1936.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 1936.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -495,7 +495,9 @@ XIX. Erigirse en Gran Jurado para declarar si hay o no lugar a formación de cau
 
 XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado.
 
-XXI. Nombrar a los Magistrados del Supremo Tribunal de Justicia.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 1936)</small>
+
+XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución.
 
 XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
 
@@ -1025,9 +1027,11 @@ Los Magistrados serán electos por el Congreso erigido en Colegio Electoral y a 
 
 Los Magistrados comenzarán a ejercer su encargo el día cinco de febrero inmediato a la elección de Diputados.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1936)</small>
+
 ###### Art. 111.
 
-Durante su encargo los Magistrados y Jueces sólo podrán ser separados previo juicio de responsabilidad, en el cual deberán observarse las formalidades esenciales a todo juicio.
+Durante su encargo, los Magistrados y Jueces solo podrán ser separados, previo juicio de responsabilidad en el que intervenga el Ministerio Público si se trata de delitos. Cuando dichos funcionarios no cumplan debidamente sus funciones, el Congreso, si se trata de un Magistrado, y el Tribunal Superior, si se trata de un Juez, podrá separarlo de plano de su encargo si a juicio considera fundada la separación.
 
 ###### Art. 112.
 
@@ -1093,7 +1097,9 @@ XVII. Nombrar y remover libremente los empleados del propio Tribunal.
 
 XVIII. Conocer de las quejas formuladas contra los Jueces de Primera Instancia.
 
-XIX. Las demás facultades y obligaciones que les señalen las leyes.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 1936)</small>
+
+XIX.- Remover a los Jueces de Primera Instancia en los casos en que lo faculte la presente Constitución.
 
 ###### Art. 116.
 
@@ -1439,7 +1445,7 @@ Las cuentas del Gobierno y Municipales correspondientes al tiempo que no ha habi
 
 Dado en el Salón de Sesiones del H. Congreso del Estado de Tamaulipas, a los veintisiete días del mes de enero de mil novecientos veintiuno.
 
-Por el Décimocuarto Distrito Electoral. Donaciano de Lassaulx, Diputado Presidente.
+Por el Décimocuarto Distrito Electoral, Donaciano de Lassaulx, Diputado Presidente.
 
 Por el Segundo Distrito Electoral, Ing. José F. Montesinos, Diputado Vicepresidente.
 
@@ -1551,8 +1557,12 @@ TRANSITORIO.- Comenzará a surtir sus efectos a partir de la fecha de su promulg
 
 P.O. 11 DE ENERO DE 1936.
 
-TRANSITORIO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
+TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
 
 P.O. 7 DE MARZO DE 1936.
 
 TRANSITORIO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
+
+P.O. 2 DE MAYO DE 1936.
+
+Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
