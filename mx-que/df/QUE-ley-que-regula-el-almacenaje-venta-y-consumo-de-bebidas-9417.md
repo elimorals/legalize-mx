@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-regula-el-almacenaje-venta-y-consumo-de-bebidas-9417"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-31"
-last_updated: "1996-12-31"
+last_updated: "1998-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE REGULA EL ALMACENAJE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:31 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:11 DE DICIEMBRE DE 1998.
 
 Ley Publicada en el Periódico Oficial del Estado "La Sombra de Arteaga" el 31 de Diciembre de 1991
 
@@ -295,11 +295,11 @@ Satisfechos los requisitos del artículo anterior, el Ejecutivo del Estado discr
 
 El refrendo de las licencias a que se refiere esta ley se sujetará en lo conducente a las mismas disposiciones de su expedición.
 
-> <small>(REFORMADO P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO P.O. 11 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 24.
 
-El refrendo de las licencias establecidas por esta Ley deberá pagarse anualmente, durante los meses de enero, febrero, marzo.
+El refrendo de las licencias establecidas por esta Ley deberá pagarse anualmente, durante los meses de mayo, junio y julio.
 
 ###### ARTICULO 25.
 
@@ -602,3 +602,17 @@ P.O. 31 DE DICIEMBRE DE 1996
 ###### ARTICULO PRIMERO.
 
 La presente ley entrará en vigor a partir del día 1º de enero de 1997.
+
+11 DE DICIEMBRE DE 1998
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor a partir del día 1º de enero de 1999.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" para que surta sus efectos legales.
