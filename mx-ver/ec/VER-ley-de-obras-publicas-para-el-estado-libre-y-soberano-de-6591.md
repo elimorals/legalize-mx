@@ -4,7 +4,7 @@ identifier: "VER-ley-de-obras-publicas-para-el-estado-libre-y-soberano-de-6591"
 country: "mx"
 rank: "ley"
 publication_date: "1991-02-02"
-last_updated: "1991-02-02"
+last_updated: "2003-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,700 +21,728 @@ state: "VER"
 ---
 # LEY DE OBRAS PUBLICAS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ IGNACIO DE LA LLAVE
 
-LEY DE CONSEJOS TUTELARES Y DE REEDUCACIÓN SOCIAL PARA MENORES DEL ESTADO DE AGUASCALIENTES
+LEY N° 100 DE OBRAS PUBLICAS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 11 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
+Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 2 de febrero de 1991.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE NOVIEMBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 141 PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2004.</small>
+Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz-Llave.
 
-Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 17 de enero de 1982.
+DANTE DELGADO, Gobernador del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes, sabed:
 
-RODOLFO LANDEROS GALLEGOS, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
+Que la H. Legislatura del Estado se ha servido expedir la siguiente:
 
-Que por el H. Congreso del Estado, se me ha comunicado lo siguiente:
+LEY
 
-El H. Congreso del Estado en sesión ordinaria celebrada hoy y en uso de la facultad que le concede la Fracción I del Artículo 27 de la Constitución Política Local, tuvo a bien expedir la siguiente
+Al margen un sello con el Escudo Nacional que dice: "Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
 
-LEY DE CONSEJOS TUTELARES Y DE REEDUCACION SOCIAL PARA MENORES DEL ESTADO DE AGUASCALIENTES
+La Honorable Quincuagésima Quinta Legislatura del Estado Libre y Soberano de Veracruz-Llave en uso de la facultad que le conceden los artículos 68 fracción I y 71 fracción I, ambos de la Constitución Política del Estado; 47, 49 y 50 de la Ley Orgánica del Poder Legislativo del Estado de Veracruz y 57, 58, 59, 60, 61 y 64 del Reglamento Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
 
-## TITULO PRIMERO
+> <small>N. DE E. EN RELACION CON LA DENOMINACION DEL PRESENTE ORDENAMIENTO VEANSE LOS ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL, PUBLICADO EN LA G.O. DE 18 DE MARZO DE 2003.</small>
 
-###### Artículo 10.
+> <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MARZO DE 2003)</small>
 
-Los Consejos Tutelares son órganos que se integrarán por un abogado, un profesor, un médico psiquiatra, un trabajador social y por un representante del Sistema para el Desarrollo Integral de la Familia del Estado, los que actuarán en calidad de Consejeros. El Consejero abogado hará las veces de presidente y en pleno se nombrará al Secretario General y que será cualquiera de los Consejeros. Habrá un Secretario de Acuerdos con las funciones que esta Ley determina y nombrado conforme Artículo 18.
+LEY N° 100
 
-El pleno del Consejo Tutelar lo integran los Consejeros antes citados, sesionando en forma colectiva.
+DE OBRAS PUBLICAS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-###### Artículo 11.
+###### ARTICULO 1°.
 
-Los menores de edad a que se refiere esta Ley, son inimputables; en consecuencia, para conocer de su autoría o participación en hechos punibles específicos, se crea en la capital del Estado, un Consejo Tutelar Central para Menores, con jurisdicción en toda la Entidad cuyas funciones y facultades serán las siguientes:
+La presente Ley es de orden público e interés social y tiene por objeto regular el gasto y las acciones relativas a la planeación, programación, presupuestación, ejecución, conservación, mantenimiento, demolición y el control de las obras públicas que se realicen con fondos del Estado.
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
+###### ARTICULO 2°.
 
-I.- Conocer de todos los hechos punibles en los que se involucre a menores, en términos de lo establecido en la Legislación Penal para el Estado de Aguascalientes, que puedan ser encuadrados en cualquiera de las figuras típicas propuestas por dicho ordenamiento legal, o que alteren las disposiciones de los reglamentos de policía, de tránsito o reglas de buen gobierno;
+Para los efectos de esta Ley, se considera obra pública todo trabajo que tenga por objeto construir, conservar, instalar, reparar, demoler y en general cualquier modificación a bienes inmuebles por su naturaleza o por disposición de la Ley, que estén destinados al servicio público.
 
-II.- Conocer de todos los demás casos en que, aunque no exista ninguna infracción, sea conveniente prevenir y corregir a los menores cuando tengan malos ejemplos, mala conducta, compañías corruptas o se encuentren en estado de abandono, pervertidos o en trance de serlo;
+Los bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, necesarios para la realización de las obras públicas por administración directa, o los que suministren las Dependencias o Entidades conforme a lo pactado en los contratos de obra, se sujetarán a las disposiciones de esta Ley, sin perjuicio de que las adquisiciones de los mismos se rijan por la Ley respectiva.
 
-Conocer del comportamiento personal de los menores, cuando se presuma fundadamente una inclinación a causar daños a la sociedad, a su familia o a sí mismos.
+###### ARTICULO 3°.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+El gasto de la obra pública se sujetará en su caso, a lo previsto en el Presupuesto Anual de Egresos del Gobierno del Estado, así como a las disposiciones de las Leyes que resulten aplicables.
 
-## TITULO SEGUNDO. AMBITO DE VALIDEZ
+###### ARTICULO 4°.
 
-### CAPITULO UNICO
+Estarán sujetos a las disposiciones de esta Ley los contratos de servicios relacionados con la obra pública.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+###### ARTICULO 5°.
 
-###### Artículo 1o.
+La ejecución de las obras públicas con cargo total o parcial a fondos estatales, que realicen los Municipios estarán sujetas a las disposiciones de esta Ley.
 
-Las normas de esta Ley son de interés público y su finalidad exclusiva es de naturaleza tutelar, con la posibilidad de aplicar las medidas de seguridad previstas en la Legislación Penal para el Estado de Aguascalientes, en los supuestos previstos para el efecto.
+###### ARTICULO 6°.
 
-###### Artículo 2o.
+Cuando por las condiciones especiales de la obra se requiera la intervención de dos o más Dependencias o Entidades, quedará a cargo de cada una de ellas la responsabilidad sobre la ejecución de la parte de la obra que le corresponda, sin perjuicio de la responsabilidad que en razón de las atribuciones tenga la encargada de la planeación y programación del conjunto.
 
-El objeto fundamental de esta Ley lo constituye la protección integral de los menores de edad.
+###### ARTICULO 7°.
 
-###### Artículo 3o.
+Se crea la Comisión Consultiva de Obras Públicas, como órgano de asesoría y consulta para la aplicación de esta Ley. Será presidida por el Ejecutivo Estatal o su representante y se integrará con los titulares de las Secretarías de Finanzas y Planeación, Comunicaciones, y de Desarrollo Urbano.
 
-Es función del Estado otorgar la debida protección de los menores, en sus aspectos físico, mental y moral asumiéndola el Estado en forma coadyuvante a los deberes y derechos de los padres, tutores, abuelos y guardadores sin contrariar las disposiciones que sobre la materia regula el Código Civil.
+La Contraloría General del Estado participará en las sesiones de la Comisión, con voz pero sin voto, para vigilar el cumplimiento de la normatividad.
 
-###### Artículo 4o.
+La Comisión podrá invitar a sus sesiones a los Ayuntamientos, representantes de otras Dependencias y Entidades, a los Colegios de Ingenieros y de Arquitectos, a la representación en el Estado de la Cámara Nacional de la Industria de la Construcción, a la Asociación de Industriales y en general a los organismos del Sector Social y Privado, cuando por la naturaleza de los asuntos que deba tratar, se considere pertinente su participación.
 
-Basta que un menor requiera tutela estatal para que le sea proporcionada, sin que lo impida el origen, naturaleza, lugar, modo o tiempo de sus necesidades, situación o conducta irregular.
+###### ARTICULO 8°.
 
-###### Artículo 5o.
+El Ejecutivo del Estado, aplicará la presente Ley por conducto de la Secretaría (sic) Finanzas y Planeación, sin perjuicio de la intervención que se atribuya a otras Dependencias o Entidades y expedirá las disposiciones reglamentarias que se requieran en la contratación y ejecución de las obras.
 
-Las autoridades estatales y municipales están obligadas a prestar auxilio a los menores de edad que lo necesiten, en la medida normal de sus funciones, atribuciones y posibilidades.
+###### ARTICULO 9°.
 
-###### Artículo 6o.
+Los titulares de las Dependencias y Entidades incluidos los que, en términos del artículo anterior, compete la aplicación de la Ley, serán responsables de que en la adopción e instrumentación de los sistemas y procedimientos para la realización de las acciones, actos y contratos que deban llevar a cabo en cumplimiento de esta Ley, se observen los siguientes criterios
 
-La protección tutelar en forma preventiva se iniciará antes de que los seres humanos sean concebidos y se extenderá con acciones preventivas y directas, hasta que alcancen la mayoría de edad.
+I.- Proveer a la simplificación administrativa, reducción, agilización y transparencia de los procedimientos y trámites;
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+II.- Ejecutar las acciones tendentes a descentralizar las funciones que realicen con objeto de procurar que los trámites se lleven a cabo y resuelvan en los mismos lugares en que se originen las operaciones;
 
-###### Artículo 7o.
+III.- Promover la efectiva delegación de facultades en servidores públicos subalternos, a efecto de garantizar mayor oportunidad en la toma de decisiones y flexibilidad de diferenciación en la atención de los asuntos; y
 
-Son menores de edad para los efectos de aplicación de esta Ley y de las medidas de seguridad previstas en la Legislación Penal para el Estado de Aguascalientes, las personas a quienes da dicho tratamiento tal legislación.
+IV.- Racionalizar y simplificar las estructuras con que cuenten a efecto de utilizar los recursos estrictamente indispensables para llevar a cabo sus operaciones.
 
-###### Artículo 12.
+###### ARTICULO 10.
 
-El Consejo Tutelar para Menores tiene por objeto promover la reeducación social del menor en todos los casos a que se refiere el artículo anterior, mediante el estudio integral de su personalidad, la aplicación de medidas de seguridad, preventivas, tutelares, educativas y de protección previstas en la ley, así como la vigilancia del tratamiento que para lograr tal finalidad se hubiera aplicado.
+La contratación y ejecución de toda obra pública, cualquiera que sea su naturaleza, deberá fundarse en criterios de calidad, economía, eficiencia, imparcialidad y honradez.
 
-###### Artículo 13.
+###### ARTICULO 11.
 
-Sus funciones serán autónomas, pero dependerán del Ejecutivo del Estado, en sus aspectos económico administrativo y en lo demás que la presente Ley determine.
+Las Dependencias y Entidades del Gobierno Estatal formularán un inventario de maquinaria y equipo de construcción a su cuidado o de su propiedad y lo mantendrán actualizado, enviando copia a la Secretaría de Finanzas y Planeación.
 
-###### Artículo 14.
+Asimismo, integrarán el catálogo y archivo de los estudios y proyectos que realicen sobre las obras públicas, del que remitirán copias a la Secretaría de Finanzas y Planeación y a la Contraloría General del Estado.
 
-En cada población del Estado que sea cabecera de partido judicial, el Pleno del Consejo Tutelar Central de acuerdo con el Ejecutivo del Estado y el Ayuntamiento que corresponda, podrá disponer el establecimiento de Consejos Tutelares Auxiliares Regionales.
+## TITULO SEGUNDO. DE LAS OBRAS PUBLICAS
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1990)</small>
+### CAPITULO I. DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION DE OBRAS
 
-###### Artículo 15.
+###### ARTICULO 12.
 
-Los Consejos Tutelares Auxiliares Regionales se formarán con el Juez Menor Mixto como consejero abogado, con el Inspector Escolar como consejero profesor, con el Director del Centro de Salud como consejero médico y con el consejero representante del Sistema para el Desarrollo Integral de la Familia del Estado, designado para tales efectos. Habrá consejeros psiquiatra y trabajador social si en el lugar existen estos especialistas.
+En la realización de las obras públicas, las Dependencias y Entidades deberán:
 
-En el lugar en que haya más de un Juez Menor Mixto, fungirá el que se encuentre en turno en el momento de requerir su intervención.
+I.- Ajustarse a los objetivos y prioridades de los Planes Estatal y Municipal de Desarrollo y los programas sectoriales en coordinación con el Plan Nacional de Desarrollo;
 
-###### Artículo 16.
+II.- Cumplir con las previsiones contenidas en los programas operativos anuales que se elaboren, para la ejecución de los planes y programas a que se refiere la fracción anterior;
 
-Para ser consejero, se deben llenar los siguientes requisitos:
+III.- Ajustarse a los objetivos, metas y previsiones establecidos en el Presupuesto de Egresos del Estado; y
 
-I.- Ser mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos, de notoria buena conducta y sin antecedentes penales intencionales.
+IV.- Cumplir con las disposiciones legales y reglamentarias aplicables.
 
-II.- Contar con título legalmente autorizado para ejercer la profesión requerida.
+###### ARTICULO 13.
 
-III.- Preferentemente ser casado y tener hijos.
+En la planeación de cada obra pública, las Dependencias y Entidades, deberán prever, según el caso:
 
-###### Artículo 17.
+I.- Las acciones a realizar y los efectos de su ejecución;
 
-Los consejeros tutelares contarán con el personal técnico y administrativo que demanden sus necesidades y señale el presupuesto.
+II.- La elaboración de un estudio de factibilidad técnica y económica de la obra;
 
-###### Artículo 18.
+III.- Las obras principales, las de infraestructura, las complementarias y accesorias; así como las acciones para poner aquéllas en servicio;
 
-Los miembros de los Consejos Tutelares serán nombrados y removidos libremente por el Gobernador del Estado.
+IV.- La coordinación con otras Dependencias y Entidades que realicen obras en las mismas áreas;
 
-El personal técnico y administrativo será nombrado y removido por los presidentes de los respectivos Consejos Tutelares.
+V.- Los avances tecnológicos aplicables y la selección de materiales, productos, equipos y procedimientos que satisfagan los requerimientos técnicos y económicos del proyecto. Tratándose de la edificación de vivienda de interés social, se procurará que en su construcción se utilicen, preferentemente, módulos, sistemas y componentes industrializados;
 
-###### Artículo 19.
+VI.- La adquisición de áreas y predios, previa consulta con la Secretaría de Desarrollo Urbano, cuando se trate de obras urbanas, para que ésta, en el ejercicio de sus atribuciones, determine la conveniencia y viabilidad. Además la observancia de las declaratorias de provisiones, usos, reservas y destino de áreas y predios que se hubieran hecho conforme a lo dispuesto por las leyes de la materia;
 
-Los consejos podrán actuar válidamente con tres consejeros. En casos extremos y únicamente para tomar medidas urgentes, podrán actuar dos o un solo consejero, y los acuerdos que se tomen se ratificarán, modificarán o revocarán una vez que sesione en Pleno el Consejo.
+VII.- Cuando las condiciones ambientales se pudieran deteriorar, los proyectos deberán incluir lo necesario para que se preserven o restauren los ecosistemas. En tal supuesto se dará intervención a la Secretaría de Desarrollo Urbano; y
 
-### CAPITULO I. Ambito de Validez Personal
+VIII.- El empleo, preferentemente de los recursos humanos y materiales propios de la región, así como productos equipos y procedimientos de tecnología nacional y empresas constructoras que tengan más de un año de residencia en el Estado.
 
-###### Artículo 8o.
+###### ARTICULO 14.
 
-Las disposiciones de esta Ley se aplicarán a: a).- La comunidad como beneficiaria de un constante esfuerzo por mejorar sus condiciones de vida, en garantía de los actuales y futuros menores; b).- La familia como grupo fundamental y célula básica de organización de nuestra sociedad; c).- Los futuros padres con objeto de que den a sus posibles hijos una educación eficiente; d).- La mujer embarazada, para procurar el desarrollo y nacimiento normal del nuevo ser; e).- Las madres de menores, que por su corta edad u otra circunstancia, no puedan vivir separados de ella, a fin de proporcionarles el auxilio que exijan sus necesidades; f).- Los menores de edad que en el aspecto de asistencia social requieran de los servicios colectivos que en forma diversa prestan a la sociedad, el Estado y otros organismos de beneficencia; y, g).- Los menores que vivan en situación irregular o realicen conductas irregulares.
+Los programas de obras públicas y sus respectivos presupuestos, se elaborarán en base a las políticas, prioridades, objetivos y estimaciones de recursos de la planeación nacional, estatal y municipal del desarrollo, considerando:
 
-###### Artículo 20.
+I.- Los objetivos y metas a corto, mediano y largo plazo;
 
-Asimismo habrá los directores necesarios que se encarguen de los Centros de Observación, Educación e Internado y los maestros de grupo escolar y de los talleres técnico vocacionales, que se requieran para el mejor logro de la terapia ocupacional de los menores.
+II.- Los estudios y proyectos que se requieran y las normas y especificaciones de ejecución aplicables;
 
-###### Artículo 21.
+III.- Las acciones que se han de realizar y los resultados previsibles;
 
-Corresponde al Pleno del Consejo Tutelar Central:
+IV.- Los recursos necesarios para su ejecución y la calendarización física y financiera de los mismos, así como los gastos de operación;
 
-I.- Conocer de las excusas de los Consejeros cuando éstos deban integrar el Pleno.
+V.- Las unidades responsables de su ejecución; y
 
-II.- Disponer y recabar los estudios que sobre los menores deben rendir los Consejeros y el personal técnico y administrativo, para dictar la resolución final correspondiente al caso.
+VI.- Las fechas de iniciación y terminación de todas sus fases, considerando las acciones previas a su iniciación y las características ambientales, climáticas y geográficas de la región donde deberán realizarse.
 
-III.- Sugerir los lineamientos generales o especiales para el mejor funcionamiento técnico y administrativo de los Centros de Observación, Educación e Internado y expedir los reglamentos que deban normar la operación de los mismos.
+###### ARTICULO 15.
 
-###### Artículo 22.
+Los programas de obras públicas se enviarán al Comité Estatal de Planeación para el Desarrollo en la fecha y términos que éste determine, para verificar la relación que guardan dichos programas con los objetivos y prioridades del Plan Nacional de Desarrollo y los programas propios del Estado y sus Municipios.
 
-Corresponde al Presidente del Consejo Tutelar Central:
+###### ARTICULO 16.
 
-I.- Disponer el aseguramiento y dictar las órdenes para internar a los menores como lo establece la presente ley, y dictar las resoluciones correspondientes.
+Serán elementos de la obra pública las investigaciones, las asesorías y las consultorías especializadas, así como los estudios técnicos y de preinversión que requiera su realización.
 
-II.- Representar al Consejo ante toda clase de autoridades y personas.
+###### ARTICULO 17.
 
-III.- Presidir las sesiones del pleno y autorizar en unión del secretario del mismo, los acuerdos y resoluciones que se dicten.
+Dentro de los programas se elaborarán los presupuestos de cada una de las obras públicas que se deban realizar, distinguiendo los que se han de ejecutar por contrato o por administración directa. Los presupuestos incluirán, según el caso, los costos correspondientes a:
 
-IV.- Recibir informes sobre las faltas y demoras en que incurran los funcionarios y empleados del Consejo y sus dependencias en el desempeño de sus labores y dictar las medidas pertinentes para corregirlas.
+I.- Las investigaciones, asesorías, consultorías y estudios que se requieran;
 
-V.- Recibir el informe de actividades de los consejeros y del personal técnico y administrativo.
+II.- Los proyectos arquitectónicos y de ingeniería necesarios;
 
-VI.- Las demás funciones que determine la presente Ley y sus reglamentos.
+III.- La regularización y adquisición de la tierra;
 
-###### Artículo 23.
+IV.- La ejecución, que deberá incluir el costo estimado de la obra que se realice por contrato y en caso de realizarse por administración directa, los costos de los recursos necesarios, las condiciones de suministro de materiales, de maquinaria, de equipos o de cualquier otro accesorio relacionado con la obra, los cargos adicionales para ensayos y pruebas de materiales y funcionamiento de la obra, así como los indirectos de la misma;
 
-Corresponde al Secretario General del Pleno:
+V.- Las obras de infraestructura complementarias;
 
-I.- Dar cuenta al Presidente del Consejo de los asuntos de la competencia del Pleno.
+VI.- Las obras relativas a la preservación, restauración y mejoramiento de las condiciones ambientales;
 
-II.- Dar fe y autorizar conjuntamente con el Presidente, los acuerdos y resoluciones que al Pleno corresponda.
+VII.- Los trabajos de conservación y mantenimiento ordinario, preventivo y correctivo de los bienes inmuebles a su cargo; y
 
-III.- Vigilar que sean turnados los casos de que deba conocer el Pleno.
+VIII.- Las demás previsiones que deban tomarse en consideración según la naturaleza y características de la obra.
 
-IV.- Auxiliar al Presidente del Consejo, cuando éste lo solicite, en el despacho de los asuntos que le correspondan y en el manejo del personal técnico, administrativo, educativo y demás que labore en las diferentes dependencias del Consejo.
+###### ARTICULO 18.
 
-V.- Sustanciar el procedimiento y expedir las constancias que el Presidente determine, relacionadas con las funciones del Consejo.
+En el caso de obras cuya ejecución requiera, uno o más ejercicios presupuestales, deberá determinarse tanto su prespuesto (sic) total como el relativo a los ejercicios de que se trate.
 
-VI.- Remitir a quien deba ejecutarlas o a quien corresponda, las constancias certificadas de las resoluciones en que se imponga, modifique o cese alguna medida aplicable a un menor, así como de otros acuerdos.
+###### ARTICULO 19.
 
-VII.- Citar y hacer notificaciones en los procedimientos que se tramiten en el Pleno.
+Los programas y presupuestos que se elaboren de cada obra, se remitirán tanto a la Secretaría de Finanzas y Planeación, como a la Contraloría General del Estado, para los efectos legales a que haya lugar.
 
-###### Artículo 24.
+### CAPITULO II. DEL PADRON DE CONTRATISTAS DE OBRAS PUBLICAS
 
-Corresponde al Secretario de Acuerdos del Pleno:
+###### ARTICULO 20.
 
-I.- Dar cuenta al Presidente dentro de las 24 horas siguientes, de las promociones y casos que se presenten.
+La Secretaría de Finanzas y Planeación llevará el Padrón de Contratistas de Obras Públicas y fijará los criterios y procedimientos para clasificar a las personas inscritas en él, de acuerdo con su especialidad, capacidad técnica y económica y su ubicación en el Estado.
 
-II.- Substanciar el procedimiento rutinario.
+La Secretaría de Finanzas y Planeación, informará a las Dependencias o Entidades que lo soliciten, sobre las personas registradas en el Padrón. Asimismo tendrá la obligación de mantener informadas a las Secretarías de Comunicaciones y de Desarrollo Urbano y a la Contraloría General sobre las actualizaciones del Padrón. Copia del Padrón y sus actualizaciones, se remitirán a la Contraloría para el cumplimiento de sus atribuciones.
 
-III.- Dar fe y autorizar los acuerdos que se dicten correspondiente al trámite procesal.
+Sólo se podrán celebrar contratos de obra pública o de servicios relacionados con la misma, con las personas inscritas en el padrón cuyo registro esté vigente.
 
-IV.- Recibir la correspondencia y comunicaciones oficiales dando cuenta con toda oportunidad al Presidente.
+La clasificación a que se refiere este artículo deberá ser considerada en la convocatoria y contratación de las obras públicas.
 
-V.- Desempeñar las demás funciones características de la actividad secretarial, en los órganos jurisdicentes.
+###### ARTICULO 21.
 
-###### Artículo 25.
+Las personas interesadas en inscribirse en el Padrón de Contratistas de Obras Públicas, deberán solicitarlo por escrito, acompañando, según su naturaleza jurídica y características, la siguiente información y documentos:
 
-Corresponde a los Consejeros:
+I.- Datos generales de la interesada;
 
-I.- Conocer de los casos que les sean turnados, recabando todos los elementos necesarios para lograr la mejor información, y aportar el mayor número de datos para las resoluciones que deben dictar los Consejos en los términos de esta Ley.
+II.- Capacidad legal de la solicitante;
 
-II.- Redactar y someter a la consideración del Consejo, el estudio de la personalidad del menor que a su especialidad corresponde.
+III.- Experiencia y especialidad;
 
-III.- Recabar informaciones periódicas de los Centros de Observación, Educación e Internado sobre los menores, en los casos que se les encomiende.
+IV.- Capacidad y recursos humanos, técnicos y económicos;
 
-IV.- Visitar los Consejos Auxiliares Regionales y los Centros de Observación, Educación e Internado, debiendo solicitar de los Directores, la información pertinente para conocer el comportamiento de los menores de cuyo caso se trate y el resultado de las medidas adoptadas para su reeducación.
+V.- Estados financieros auditados;
 
-V.- Observar a los menores que estén en libertad condicional, pudiendo valerse de empleados auxiliares que al efecto se comisionen. Esta observación se extenderá al medio familiar, haciendo hincapié en las condiciones socio-económicas, morales y laborales del lugar en que vive.
+VI.- Maquinaria y equipos disponibles, especificando cual es de su propiedad;
 
-VI.- Las demás funciones que determine la presente ley y sus reglamentos.
+VII.- Ultima declaración de impuesto sobre la renta;
 
-###### Artículo 26.
+VIII.- Escritura constitutiva y reformas;
 
-Entre el personal técnico de los Consejos Tutelares podrá contarse con trabajadores sociales que auxiliarán en las funciones de los Consejeros, coadyuvando en la realización de los estudios multidisciplinarios, relativos a la personalidad de los menores. Practicarán las visitas domiciliarias que sean necesarias cuando el menor se encuentre en los casos a que se refiere el Artículo 11 fracción III y desempeñarán las demás comisiones que les encomiende el Consejo a través del Presidente.
+IX.- Inscripción en el Registro Federal de Contribuyentes y en la Cámara de la Industria que le corresponda;
 
-## TITULO QUINTO (SIC). PROCEDIMIENTOS TUTELARES
+X.- Cédula profesional para el caso de prestación de servicios y en su caso, de los responsables técnicos de la especialidad de la empresa;
 
-### CAPITULO II. Ambito de Validez Material
+XI.- Registro en el Instituto Mexicano del Seguro Social, en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y en el de Estadística de la Secretaría de Programación y Presupuesto; y
 
-###### Artículo 9o.
+XII.- Los demás documentos e información que la Secretaría de Finanzas y Planeación considere pertinentes, pudiendo esta dependencia, verificar en cualquier tiempo la información a la que se refiere este artículo.
 
-Es materia de esta Ley: a).- Toda actividad tendiente a elevar el nivel de vida colectivo; b).- Los esfuerzos por integrar y organizar la familia y por mantener la seguridad y el orden familiares; c).- La orientación y solución de los problemas de los futuros padres, procurando la sana gestación de los hijos y su normal desenvolvimiento; d).- La asistencia económica, médica y educativa de la mujer embarazada; e).- La satisfacción de las necesidades económicas, médicas y educativas de las madres cuyos hijos, por su corta edad u otras circunstancias, no deben vivir separados de aquéllas; f).- Los casos de menores que necesiten los variados servicios de asistencia social que de ordinario brindan el Estado y otros organismos de beneficencia; y g).- Las diversas situaciones y conductas irregulares de los menores y las causas que las generan.
+###### ARTICULO 22.
 
-###### Artículo 27.
+El registro en el Padrón de Contratistas de Obras Públicas tendrá vigencia indefinida y deberá refrendarse anualmente. Los contratistas estarán obligados a proporcionar la información que se les requiera para efectos de actualizaciones o refrendo.
 
-Los Consejos Tutelares, conocerán de los casos a que se refiere la fracción I del Artículo 11 de esta Ley, y se ocuparán esencialmente del estudio del acto ejecutado por el menor; de su situación personal en los casos II y III de la misma disposición, y de su observación en sus aspectos económico, social, médico, psicológico, psiquiátrico, pedagógico y demás necesarios para determinar mejor sus necesidades personales, su enmienda y readaptación al medio social.
+El costo de la inscripción será el equivalente a quince días de salario mínimo general y el refrendo anual de cinco días de dicho salario.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+###### ARTICULO 23.
 
-###### Artículo 28.
+La Secretaría de Finanzas y Planeación dentro de un término que no excederá de veinte días hábiles, contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción o refrendo en el Padrón. Transcurrido este plazo sin que haya respuesta se tendrá por aceptada su solicitud.
 
-Las actuaciones, audiencias y demás diligencias que se practiquen en el caso de un menor, no serán públicas, pero si éstas se realizan con motivo del procedimiento establecido por la Legislación Penal para el Estado de Aguascalientes, tal menor necesariamente será asistido por su defensor.
+La Secretaría de Finanzas y Planeación, cuando lo estime procedente podrá reclasificar a las personas inscritas en el Padrón.
 
-### CAPITULO I
+###### ARTICULO 24.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1990)</small>
+La Secretaría de Finanzas y Planeación está facultada para suspender el registro de los contratistas cuando:
 
-###### Artículo 29.
+I.- Se le declare en estado de quiebra, o en su caso, sujeto a concurso de acreedores; y
 
-Las solicitudes y gestiones que provengan de cualquier autoridad deberán hacerse por escrito.
+II.- Incurran en cualquier acto u omisión que les sea imputable y que dañe los intereses del Estado.
 
-###### Artículo 30.
+Cuando desaparezcan las causas que hubiesen motivado la suspensión del Registro, el contratista lo acreditará ante la Secretaría de Finanzas y Planeación, la que dispondrá lo conducente a fin de que el registro del interesado vuelva a surtir todos sus efectos legales.
 
-Las solicitudes y demás gestiones hechas por particulares se presentarán en forma oral o escrita. En el caso de que sea oral, el Consejo asentará razón escrita de la petición formulada en el expediente respectivo.
+###### ARTICULO 25.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+La Secretaría de Finanzas y Planeación está facultada para cancelar a los contratistas su Registro en el Padrón, cuando:
 
-###### Artículo 31.
+I.- La información que hubieren proporcionado para la inscripción o refrendo resultare falsa, o hayan actuado con dolo o mala fe en una subasta o ejecución de una obra;
 
-Los procedimientos tutelares serán gratuitos y ajenos a todo formulismo que dificulte la pronta y eficaz tutela a los menores, se conservarán en secreto y sólo se darán informes a las autoridades que los soliciten, siempre que no se perjudique al menor y sean indispensables para el conocimiento de la verdad en otras investigaciones de carácter legal. Tratándose del procedimiento especial previsto en la Legislación Penal para el Estado de Aguascalientes, se estará a lo dispuesto por ésta última.
+II.- No cumplan en sus términos con algún contrato por causas imputables a ellos, y perjudiquen con esto los intereses del Estado;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+III.- Se declare su quiebra por sentencia ejecutoriada;
 
-###### Artículo 32.
+IV.- Hayan celebrado contratos en contravención con lo dispuesto por esta Ley, por causas que les sean imputables; y
 
-En los casos de autoría o participación en hechos punibles descritos en la Legislación Penal para el Estado de Aguascalientes, se estará a lo ordenado por los artículos 530, 531, 532, 533 y 534 de la misma.
+V.- Se les declare incapacitados legalmente para contratar.
 
-I.- (DEROGADA, P.O. 12 DE FEBRERO DE 2004)
+###### ARTICULO 26.
 
-II.- (DEROGADA, P.O. 12 DE FEBRERO DE 2004)
+Contra las resoluciones que nieguen las solicitudes de inscripción o refrendo, o determinen la suspensión o la cancelación del Registro en el Padrón de Contratistas de Obras Públicas, el interesado podrá interponer recurso de revocación en los términos de esta Ley.
 
-III.- (DEROGADA, P.O. 12 DE FEBRERO DE 2004)
+### CAPITULO III. DE LOS SERVICIOS RELACIONADOS CON LAS OBRAS PUBLICAS
 
-###### Artículo 33.
+###### ARTICULO 27.
 
-La edad de los menores se probará con la copia certificada de su acta de nacimiento o mediante dictamen pericial.
+Se podrán contratar servicios relacionados con las obras públicas, siempre que sean de carácter profesional de investigación, consultoría y asesoría especializadas; estudios y proyectos para cualquiera de las fases de la obra pública, así como de dirección o supervisión.
 
-###### Artículo 34.
+Los contratos a que se refiere este artículo, podrán adjudicarse directamente bajo la responsabilidad de la contratante, quedando en lo (sic) demás sujetos a las disposiciones de esta Ley y a las que de ella se deriven.
 
-Las autoridades estatales y municipales, están obligadas a cooperar con los consejos tutelares para que se satisfagan oportuna y plenamente los mandatos dictados por éstos.
+Cuando se requiera contratar o realizar estudios o proyectos, primero se verificará si en los archivos de las Dependencias o Entidades del Gobierno del Estado y Municipal existen estudios o proyectos sobre la materia. De resultar positiva la verificación y de comprobarse que el estudio o proyecto satisface los requerimientos, no procederá la contratación.
 
-###### Artículo 35.
+###### ARTICULO 28.
 
-En los casos de las fracciones II y III del Artículo 11, el procedimiento se reducirá a la investigación de los datos que motiven la intervención del Consejo y a determinar las medidas convenientes para la protección tutelar y educacional del menor. Sin embargo, cuando se trate de un caso grave, a juicio del Consejo, éste se avocará a su conocimiento y se observará el procedimiento señalado por las fracciones II y III del Artículo 11 de esta Ley.
+No quedan comprendidos dentro de los servicios a que se refiere el artículo anterior, los que tengan como fin la ejecución de la obra por cuenta y orden de las Dependencias o Entidades del Estado, por lo que no podrán celebrarse contratos de servicio para tal objeto.
 
-###### Artículo 36.
+### CAPITULO IV. DE LAS OBRAS Y SU LICITACION
 
-Los acuerdos tomados en Pleno del Consejo Tutelar serán válidos cuando se tomen por mayoría de votos de sus integrantes, cuando falte alguno de sus miembros y haya empate en las decisiones, el Presidente o quien lo supla, tendrá voto de calidad.
+###### ARTICULO 29.
 
-###### Artículo 37.
+Las obras públicas se realizarán por contrato o por administración directa.
 
-En las resoluciones en que se aplique alguna medida al menor, el Consejo asentará la causa del procedimiento, los resultados de las pruebas practicadas, valorándolas conforme a la regla de la sana crítica, y las observaciones que se hubieren formulado sobre la personalidad de aquél, estableciendo su diagnóstico, los fundamentos legales y técnicos de la determinación y la medida acordada.
+###### ARTICULO 30.
 
-###### Artículo 38.
+La ejecución de las obras públicas se sujetarán a que:
 
-Para el despacho de los asuntos sometidos al conocimiento del Consejo, el Presidente mandará practicar notificaciones, expedirá citas y ordenará la presentación de las personas que se considere necesarias.
+I.- Estén incluidas en el programa de inversiones autorizado en el Presupuesto de Egresos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+II.- Se cuente con los estudios y proyectos, las normas y especificaciones de construcción, el presupuesto, el programa de ejecución y en su caso el programa de suministro; y
 
-###### Artículo 39.
+III.- Se cumplan los trámites o gestiones complementarios que se relacionen con la obra y los que deban realizarse conforme a las disposiciones federales, estatales y municipales; contando con las licencias y permisos correspondientes.
 
-Para los efectos del artículo anterior, toda persona está obligada a comparecer en el Consejo cuando sea citada, salvo imposibilidad por motivo justificado. El Consejo para hacer cumplir sus determinaciones, podrá emplear medios de apremio previstos en la Legislación Penal para el Estado de Aguascalientes.
+###### ARTICULO 31.
 
-I.- (DEROGADA, P.O. 12 DE FEBRERO DE 2004)
+Las Dependencias y Entidades de la Administración Pública Estatal, así como los municipios que con recursos del Estado realicen obras por administración directa o mediante contrato y los contratistas con quienes aquellas contraten, observarán las disposiciones que en materia de construcción rijan en el ámbito local y municipal, y cumplirán las disposiciones de esta Ley y de las normas que con base en ella se dicten.
 
-II.- (DEROGADA, P.O. 12 DE FEBRERO DE 2004)
+La violación de esta disposición, independientemente de la responsabilidad penal y administrativa a que diera lugar para los servidores públicos y los contratistas, originará la nulidad de pleno derecho del contrato celebrado para la ejecución de la obra de que se trate.
 
-III.- (DEROGADA, P.O. 12 DE FEBRERO DE 2004)
+###### ARTICULO 32.
 
-###### Artículo 40.
+Los contratos de obras públicas se adjudicarán o llevarán a cabo a través de licitaciones mediante convocatoria pública para que libremente se presenten proposiciones en sobre cerrado, que será abierto en presencia de los participantes, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo que establece la presente Ley.
 
-El Consejo resolverá la forma de proceder cuando no exista disposición expresa sobre el caso considerado, ajustándose siempre a la naturaleza de sus funciones y a los fines que le están encomendados. Esta Ley deja al recto criterio y a la prudencia de los miembros del Consejo, la investigación de los hechos de su competencia y se procurará prescindir, siempre que sea posible y particularmente cuando el menor se encuentre presente de las formalidades propias del procedimiento para adultos, enfatizándose en las actuaciones la naturaleza Tutelar del Consejo, exenta de todo propósito represivo.
+###### ARTICULO 33.
 
-### CAPITULO I
+Se exceptúan de lo dispuesto en el artículo anterior, los siguientes casos:
 
-###### Artículo 41.
+I.- Cuando el contrato sólo pueda celebrarse con una determinada persona, por ser éste el titular de la o las patentes necesarias para realizar la obra;
 
-Las diligencias que deban practicarse fuera del domicilio de los Consejos o sus dependencias, se encomendarán por medio de despacho al Presidente del Ayuntamiento que corresponda.
+II.- Cuando existan condiciones o circunstancias extraordinarias o imprevisibles;
 
-###### Artículo 42.
+III.- Cuando peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado, como consecuencia de desastres producidos por fenómenos naturales, casos fortuitos o de fuerza mayor. En estos casos, las Dependencias y Entidades se coordinarán, según proceda, con los órganos competentes;
 
-Cuando tenga que practicarse alguna diligencia en la que deba intervenir un menor, relacionado con un procedimiento en donde sea inculpado un mayor, la diligencia deberá desahogarse en el local del Consejo. No podrá autorizarse la salida del menor para la práctica de diligencia en lugar distinto del que señale este artículo, salvo que el Consejo dada la naturaleza del caso, lo estime pertinente. En su desahogo, deberá estar presente uno de los consejeros y los menores sólo podrán servir como testigos a fin de esclarecer la verdad.
+IV.- Cuando se hubiese rescindido el contrato respectivo, la Dependencia o Entidad verificará previamente, conforme al criterio de adjudicación que establece el segundo párrafo del artículo 44, si existe otra proposición que resulte aceptable, en cuyo caso el contrato se celebrará con el contratista seleccionado;
 
-###### Artículo 43.
+V.- Cuando se trate de trabajos cuya ejecución requiera de la aplicación de sistemas y procedimientos de tecnología especializada;
 
-Siempre que durante el procedimiento aparezca que el menor fue influido o aconsejado por un mayor para la consumación de los hechos que se investigan, el Consejo previa comprobación del caso, dictará libertad incondicional o aplicará la medida que para la protección, tutela y educación del menor fuere conveniente.
+VI.- Cuando se trate de trabajos de conservación, mantenimiento, restauración, reparación y demolición, en los que no sea posible precisar su alcance, establecer el catálogo de conceptos y cantidades de trabajo, determinar las especificaciones correspondientes o elaborar el programa de ejecución;
 
-El Consejo compulsará las constancias conducentes y las remitirá a la autoridad que corresponda, para que proceda de acuerdo con sus atribuciones.
+VII.- Cuando se trate de trabajos que requieran fundamentalmente de mano de obra no calificada, se contratará directamente con los habitantes de la localidad o del lugar donde deba ejecutarse; y (sic)
 
-###### Artículo 44.
+###### ARTICULO 34.
 
-De cada caso que conozcan los consejos tutelares se llevará un registro, en el que se anotarán los datos principales; además, se formará un expediente en el que constarán todos los antecedentes y actuaciones que se realicen.
+Para los casos previstos en el artículo anterior, se invitará a las personas que cuenten con la capacidad de respuesta inmediata y los recursos técnicos, financieros y demás que sean necesarios, preservando siempre el interés del Estado, conforme a lo dispuesto por el último párrafo del artículo 36 de esta Ley.
 
-###### Artículo 45.
+El titular de la Dependencia o Entidad, en un plazo que no excederá de cinco días hábiles contados a partir de la fecha de iniciación de los trabajos, deberá informar de estos hechos a la Secretaría de Finanzas y Planeación y a la Contraloría General del Estado.
 
-Los procedimientos tutelares serán de dos tipos: los que tendrán como finalidad una protección genérica y los que buscarán protección específica.
+###### ARTICULO 35.
 
-###### Artículo 46.
+Cuando concurran circunstancias o condiciones de orden económico, cuando peligre o se altere el orden social, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado, será el Ejecutivo del Estado quien acordará la ejecución de las obras, así como el gasto correspondiente, y establecerá los medios de control que estime pertinentes.
 
-Los casos que requieran protección genérica serán los relativos a la mejoría de las condiciones de vida colectiva, a la atención de los futuros padres, a la protección de la familia, al auxilio de la mujer embarazada y de la madre de menores de corta edad u otra circunstancia que la sitúe en condiciones precarias, y a la ayuda de cualquier menor que necesite de los servicios que el Estado y otras instituciones de beneficencia prestan a la colectividad.
+###### ARTICULO 36.
 
-###### Artículo 47.
+Cuando por razón del monto de la obra resulte inconveniente llevar a cabo el procedimiento a que se refiere el artículo 32, por el costo que éste represente, las Dependencias y Entidades podrán contratar sin ajustarse a dicho procedimiento, siempre que el monto de la obra objeto del contrato, no exceda de los límites a que se refiere este artículo y se satisfagan los requisitos que el mismo señala.
 
-Una vez que se tenga la iniciativa del Consejo, la solicitud particular o el informe de la autoridad que en forma provisional haya intervenido, se procederá de inmediato a comprobar la existencia de la necesidad planteada, por medio de una investigación, dictando medidas urgentes si el caso lo amerita.
+Para los efectos del párrafo anterior, en los Presupuestos de Egresos, se establecerán los montos máximos de las obras que las Dependencias y Entidades podrán contratar directamente.
 
-###### Artículo 48.
+Si el monto de la obra supera, los máximos a que se refiere el párrafo anterior, pero no excede los límites que igualmente establecerán los mencionados Presupuestos, el contrato relativo podrá adjudicarse a la persona que reúna las condiciones necesarias para la realización de la obra, previa invitación que se extenderá a cuando menos, tres personas que cuenten con la capacidad de respuesta y los recursos técnicos, financieros y demás que sean necesarios para la ejecución de la obra.
 
-Acreditada la existencia de la necesidad del Consejo correspondiente determinará la solución adecuada según los recursos disponibles y señalará la forma y los medios que servirán para hacerla realidad.
+Para los efectos de la aplicación de este precepto, cada obra deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos y límites, que establezcan los Presupuestos de Egresos; en la inteligencia de que, en ningún caso, el importe total de una obra podrá ser fraccionado para que quede comprendida en los supuestos a que se refiere este artículo.
 
-###### Artículo 49.
+En todo caso se respetará lo dispuesto en las fracciones I, II y III del artículo 41 y los demás requisitos que establece esta Ley para asegurar al Estado, la calidad, economía, eficiencia, imparcialidad y honradez en la ejecución de las obras públicas.
 
-Los casos que requieren protección específica son los relativos a la conducta y a las situaciones irregulares de los menores de edad.
+###### ARTICULO 37.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+Las convocatorias a que se refiere el artículo 32 de esta Ley, deberán ser conocidas previamente por la Comisión Consultiva de Obras Públicas; podrán referirse a una o más obras y se publicarán en la "Gaceta Oficial" del Estado y en los diarios de mayor circulación estatal, debiendo contener lo siguiente:
 
-###### Artículo 50.
+I.- El nombre de la Dependencia o Entidad convocante;
 
-Se consideran conductas irregulares todas aquellas que sin constituir un delito por el carácter de inimputabilidad de los menores, se puedan encuadrar a las descripciones típicas propuestas por la Legislación Penal para el Estado de Aguascalientes, las contrarias a toda disposición reglamentaria en vigor y las que rechazan la moral y las buenas costumbres.
+II.- El lugar y descripción general de la obra a ejecutar;
 
-###### Artículo 51.
+III.- Los requisitos que deben cumplir los interesados;
 
-Son situaciones irregulares, sufrir cualquier forma de abandono o tener una forma de vida que condicione o pueda determinar un defectuoso desarrollo de la personalidad del menor o su inadaptación al medio familiar o social.
+IV.- Información sobre los anticipos;
 
-###### Artículo 52.
+V.- El plazo para la inscripción de adjudicación que no podrá ser mayor de cinco días hábiles contados a partir del día siguiente de la fecha de la publicación de la convocatoria;
 
-Las autoridades y personas que tengan conocimiento de la comisión de infracciones por un menor, o que éste se encuentre en los casos previstos en las fracciones II y III del Artículo 11 de esta Ley, están obligados a comunicarlo inmediatamente al Consejo, suspendiendo el procedimiento que hubiere iniciado, por escrito u oralmente, proporcionando todos los datos relacionados con los hechos que se denuncien. Las autoridades ordenarán sin demora, el traslado del menor al local del Consejo que corresponda, enviando oficio informativo y copia del acta si se hubiere levantado.
+VI.- El lugar, fecha y hora en que se celebrará el acto de la apertura de las proposiciones;
 
-###### Artículo 53.
+VII.- La especialidad de acuerdo al Padrón de Contratistas que se requiera para participar en el concurso;
 
-Si el menor no hubiere sido presentado al Consejo, el Presidente lo citará; así como a sus padres, tutores, o familiares que lo tengan a su cuidado, con el objeto de tomar conocimiento directo del caso, y dispondrá la presencia del menor por conducto de la persona que se comisione al efecto. En la resolución que a este propósito dicte, el Presidente expresará los fundamentos legales y técnicos que la justifiquen.
+VIII.- Los criterios conforme a los cuales se decidirá la adjudicación; y
 
-No se procederá a la presentación de un menor, sin que medie orden escrita del Presidente del Consejo.
+IX.- Lugar y fecha de la visita a la obra.
 
-###### Artículo 54.
+En el ejercicio de sus respectivas atribuciones, la Contraloría y la Dependencia o Entidad de que se trate, podrán intervenir en todo el proceso de adjudicación del contrato.
 
-Siempre se escuchará al menor investigado y se procurará ganarse su confianza a través de un sencillo y amistoso interrogatorio, se tomará razón suficiente de sus motivos, necesidades, aspiraciones, condiciones de vida, opinión en torno a sus padres, parientes, vecinos y demás personas que se estime pertinente, así como de su criterio acerca de la vida y sus problemas.
+###### ARTICULO 38.
 
-###### Artículo 55.
+Todo interesado que satisfaga los términos de la convocatoria a que se refiere el artículo anterior tendrá derecho a presentar proposiciones.
 
-Con base en los elementos reunidos el Consejero Presidente resolverá de plano o a más tardar dentro de las setenta y dos horas siguientes a la presentación del menor, alguna de las determinaciones siguientes:
+###### ARTICULO 39.
 
-I.- Si no se cometió falta alguna se decretará libertad incondicional;
+Las personas físicas o morales que participen en las licitaciones y ejecuten obra pública o presten servicios relacionados con la misma, deberán garantizar:
 
-II.- Si la falta cometida fue leve, se ordenará la entrega del menor a sus padres, tutores o familiares que lo tengan a su cuidado, bajo libertad condicional;
+I.- La seriedad de las proposiciones en los procedimientos de adjudicación;
 
-III.- Si la falta cometida por el menor fue grave, se ordenará continuar el procedimiento e internarlo en el Centro de Observación y Educación para su tratamiento.
+II.- La correcta inversión de los anticipos que, en su caso, reciba; y
 
-En todo caso expresará el Presidente en la resolución previa antes citada y que al efecto se dicte, los razonamientos legales y técnicos que la justifiquen.
+III.- El cumplimiento de los contratos.
 
-###### Artículo 56.
+Las dependencias y entidades fijarán las bases y porcentajes a los que deberán sujetarse las garantías que deban constituirse.
 
-En el curso del procedimiento tutelar, el Consejo citará a cuantas reuniones considere necesarias, las que se realizarán con la intervención de las personas que crea conveniente, y se recibirán todas las pruebas ofrecidas por los interesados o las que de oficio se recaben.
+###### ARTICULO 40.
 
-###### Artículo 57.
+Las garantías que deben otorgar los contratistas de obras públicas y de servicios relacionados con las mismas, se constituirán en favor de la Secretaría de Finanzas y Planeación.
 
-Cuando esté plenamente comprobada a favor del menor alguna circunstancia que, tratándose de un mayor fuere excluyente de responsabilidad, o extinga la acción penal, el Presidente dictará de plano resolución declarándolo libre; salvo que como medida de protección, se estime conveniente su permanencia temporal en un Centro de Observación, Educación e Internado, en cuyo caso se comunicará a sus padres, tutores o familiares que lo tengan a su cuidado esta determinación. En ambos casos se fundará la resolución que se dicte.
+### CAPITULO V. DE LA ADJUDICACION, CONTRATACION Y EJECUCION DE LAS OBRAS
 
-###### Artículo 58.
+###### ARTICULO 41.
 
-Los consejos tutelares devolverán a sus respectivos dueños, acreditada legalmente la propiedad, los objetos que se hubieren recogido a los menores, salvo los que sean de uso prohibido. Las demás pertenencias del menor se relacionarán por escrito en el expediente respectivo y tendrán el destino normal que más convenga a juicio del Presidente del Consejo Tutelar.
+La Dependencia o Entidad convocante, previa opinión de la Comisión Consultiva de Obras Públicas, con base en el análisis comparativo de las proposiciones admitidas y en su propio presupuesto para la obra, emitirá un dictamen que servirá como fundamento para el fallo.
 
-###### Artículo 59.
+En junta pública se dará a conocer el fallo mediante el cual se adjudicará el contrato a la persona que:
 
-Los procedimientos tutelares de protección específica comprenden cuatro etapas: a).- La de asistencia, que abarca todo el lapso del procedimiento; b).- La de investigación, que durará mientras se realizan los estudios técnicos de personalidad y las demás pruebas; c).- La de tratamiento, que comprende la aplicación de las medidas tutelares dispuestas; y d).- La de prueba que se inicia a partir de la fecha en que el menor quede en libertad con reservas.
+I.- Reúna las condiciones legales técnicas y económicas requeridas por la convocante;
 
-### CAPITULO II. Procedimiento en Protección Genérica
+II.- Garantice satisfactoriamente el cumplimiento del contrato; y
 
-###### Artículo 60.
+III.- Cuente con la experiencia requerida por la convocante para la ejecución de los trabajos.
 
-La protección asistencial que cubre necesidades vitales, comprende los beneficios de habitación, vestido, alimentación, servicios médicos, educación, instrucción, deportes, juego, diversiones sanas, afecto y buen trato.
+Si una vez considerados los criterios anteriores resultare que dos o más proposiciones satisfacen los requerimientos, el contrato se adjudicará a quien presente la postura más baja. No se adjudicará el contrato cuando las posturas presentadas fueren inaceptables y se procederá a publicar una nueva convocatoria.
 
-###### Artículo 61.
+###### ARTICULO 42.
 
-La investigación, tiene por objeto descubrir científicamente los problemas de los menores con un examen integral de su personalidad y abarcará entre otros los siguientes estudios: a).- Social; b).- Pedagógico; c).- Médico; d).- Psicológico; e).- Neuropsiquiátrico; f).- Laboral; y g).- De conducta anterior y posterior al inicio del procedimiento.
+En el ejercicio de sus respectivas atribuciones, la Comisión Consultiva de Obras Públicas, la Dependencia o Entidad convocante y la Contraloría General del Estado, podrán intervenir en todo el proceso de adjudicación del contrato.
 
-###### Artículo 62.
+###### ARTICULO 43.
 
-El estudio social contendrá: a).- Los datos de identificación general del menor; b).- El ambiente familiar; c).- El ambiente extrafamiliar; y d).- El diagnóstico y sugerencias.
+No podrán presentar propuestas ni celebrar contrato alguno de obra pública o de servicios relacionados con la misma, las personas físicas o morales siguientes:
 
-###### Artículo 63.
+I.- Aquellas en cuyas empresas tenga participación algún servidor público de las dependencias o Entidades del Gobierno del Estado, cualquiera que sea su jerarquía, o su cónyuge, o sus parientes consanguíneos o por afinidad hasta el cuarto grado; sea como accionistas, administradores, gerentes, apoderados o comisarios;
 
-El estudio pedagógico comprenderá: a).- Los antecedentes escolares; b).- La vida escolar actual; c).- Conocimientos extraescolares; d).- Correspondencia de su edad cronológica a su edad escolar; e).- Coeficiente de aprovechamiento; y f).- Diagnóstico y sugerencias.
+II.- Los contratistas que por causas imputables a ellos mismos se encuentren en situación de mora, respecto a la ejecución de otra u otras obras públicas que tengan contratadas y
 
-###### Artículo 64.
+III.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de Ley.
 
-El estudio médico abarcará: a).- Antecedentes familiares de salud; b).- Antecedentes personales patológicos; c).- Antecedentes personales no patológicos; d).- Exploración física por regiones, aparatos y sistemas; e).- Estado físico actual, y, f).- Diagnóstico y sugerencias.
+###### ARTICULO 44.
 
-## TITULO TERCERO. CONSEJOS TUTELARES
+La adjudicación del contrato obliga tanto a la Dependencia o Entidad como al contratista a formalizarlo dentro de los diez días siguientes a los de la notificación del fallo.
 
-### CAPITULO III. Procedimientos en Protección Específica
+Si el interesado no firma el contrato perderá en favor del Estado la garantía que hubiera otorgado y la Dependencia o Entidad, conjuntamente con la Comisión Consultiva de Obras Públicas como órgano de consulta y asesoría, podrá, sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante siguiente, en los términos del artículo 41 de esta Ley y de su propuesta, y así sucesivamente.
 
-###### Artículo 65.
+La adjudicación y la firma del contrato se hará saber a la Secretaría de Finanzas y Planeación y a la Contraloría General del Estado.
 
-El estudio psicológico se integrará con: a).- Los exámenes cuantitativos de inteligencia, personalidad, intereses y aptitudes; y diagnóstico y sugerencias.
+El Contratista a quien se adjudique el contrato no podrá ejecutarlo a través de terceros, pero podrá subcontratar, previa autorización de la Dependencia o Entidad, respecto de partes de la obra o cuando adquiera materiales o equipos que incluyan su instalación en la obra. En estos casos, el contratista seguirá siendo el responsable de la ejecución de la obra ante la Dependencia o Entidad, y el Subcontratista no quedará subrogado en los derechos del primero.
 
-###### Artículo 66.
+###### ARTICULO 45.
 
-El estudio neuropsiquiátrico comprenderá: a).- Estudio clínico psiquiátrico que incluirá exámenes de laboratorio y estudios de gabinete cuando el caso lo requiera y el médico especialista lo juzgue pertinente; b).- Estudio de la personalidad y estado de salud mental actual en base a sus funciones cerebrales superiores; c).- Diagnóstico y sugerencias.
+Los contratos que con base en la presente Ley, celebren las Dependencias o Entidades, se considerarán de derecho público. Los finiquitos de obra sólo se otorgarán previa conformidad de la Dependencia o Entidad, autorizada por la Contraloría.
 
-###### Artículo 67.
+###### ARTICULO 46.
 
-El estudio laboral abarcará: a).- Trabajo anterior; b).- Posibilidades y conveniencias presentes para trabajar; y c).- Determinar la capacidad y oportunidades futuras para capacitarse en el trabajo.
+Los contratos de obra a que se refiere esta Ley se celebrarán por administración, precios unitarios, precio alzado o con las modalidades que garanticen al Estado las mejores condiciones de ejecución de las mismas.
 
-###### Artículo 68.
+Formarán parte del contrato la descripción pormenorizada de la obra que se deba ejecutar, así como los proyectos, planos, especificaciones, programas y presupuestos correspondientes, y en su caso las especificaciones particulares de construcción de la obra.
 
-El informe de conducta se formará con: a).- El comportamiento del menor en la satisfacción de sus necesidades de primer orden; b).- El comportamiento del menor en el estudio, trabajo, deportes, juego y diversiones; c).- Las actitudes del menor frente a sus padres, parientes, amigos, vecinos, extraños, maestros, compañeros y autoridades; y, d).- La descripción de la conducta o situación irregular del menor.
+###### ARTICULO 47.
 
-###### Artículo 69.
+La ejecución de la obra contratada deberá iniciarse en la fecha señalada y para este efecto la contratante oportunamente pondrá a disposición del contratista el o los inmuebles en que deba llevarse a cabo.
 
-Los estudios técnicos se repetirán con la periodicidad que cada especialista estime necesarios, en atención a lo más conveniente según los imperativos de cada materia.
+Dentro de los cinco días hábiles siguientes a la fecha de iniciación de los trabajos, ya sea que éstos se realicen por contrato o por administración directa, la contratante lo comunicará a la Secretaría de Finanzas y Planeación y a la Contraloría General del Estado.
 
-###### Artículo 70.
+###### ARTICULO 48.
 
-El tratamiento comprenderá la aplicación específica de medidas tutelares en cada caso concreto, y el uso adecuado de los satisfactores que se hayan considerado idóneos.
+Las Dependencias y Entidades podrán, dentro del programa de inversiones aprobado, bajo su responsabilidad y por razones fundadas y explícitas, modificar los contratos de obras públicas o de servicios relacionados con las mismas, mediante convenios siempre y cuando éstos, considerados conjunta o separadamente no rebasen el 15% del monto o del plazo pactado en el contrato, ni impliquen variaciones sustanciales al proyecto original.
 
-###### Artículo 71.
+Si las modificaciones exceden el porcentaje indicado o varían sustancialmente el proyecto, se deberá celebrar, por una sola vez, un convenio adicional entre las partes respecto de las nuevas condiciones, en los términos del artículo 30 de la presente Ley. Este convenio adicional deberá ser autorizado por el titular de la Dependencia o Entidad. Dichas modificaciones no podrán en modo alguno, afectar las condiciones que se refieran a la naturaleza y características esenciales de la obra objeto del contrato original, ni convertirse para eludir en cualquier forma el cumplimiento de la Ley.
 
-La etapa de prueba se concreta a la observación del menor en el ambiente familiar y social en que se pretenda su desenvolvimiento, con el fin de apreciar los progresos obtenidos y convencerse de que ya no requiere tutela estatal.
+De las modificaciones a que se refieren los dos párrafos anteriores, el titular de la Dependencia o Entidad informará a la Secretaría de Finanzas y Planeación y a la Contraloría General del Estado en un plazo no mayor de cinco días hábiles contados a partir de la fecha en que se hubiere formalizado la modificación, debiendo agregar el soporte técnico.
 
-En estos casos el menor seguirá recibiendo el apoyo de la institución a través del trabajador social correspondiente.
+En los convenios y contratos a que se refiere este artículo deberá incluirse una cláusula en la que se establezca que el mismo sólo obligará al Gobierno del Estado en todo lo que no se inconformen la Secretaría de Finanzas y Planeación o la Contraloría, en un plazo de cinco días hábiles a partir de la fecha en que tengan conocimiento, de conformidad con el párrafo anterior.
 
-###### Artículo 72.
+###### ARTICULO 49.
 
-Una vez terminado el período de investigación y para iniciar el tratamiento adecuado, se dictará la resolución principal, en la que se dispondrán las medidas tutelares que habrán de aplicarse en favor de los menores.
+Las dependencias o entidades por si o a solicitud de la Contraloría podrán rescindir administrativamente los contratos de obra pública por razones de interés general, o por contravención de los términos del contrato o de las disposiciones de esta Ley.
 
-### CAPITULO IV. Medidas Tutelares
+Las dependencias y entidades comunicarán la suspensión o la rescisión del contrato al contratista, a la Secretaría de Finanzas y Planeación y a la Contraloría General del Estado.
 
-###### Artículo 73.
+Para que la suspensión proceda deberá exponerse la causa o causas que la justifiquen.
 
-En las resoluciones tutelares se armonizará los conocimientos científicos y la razón en favor del menor de que se trate, tomándose en cuenta entre otros aspectos, el sexo, la edad, sus necesidades, la urgencia de tutela, el motivo concreto que determinó su investigación, si se le trata por primera vez, su facilidad para adaptarse al grupo familiar y social y las conclusiones a que se llegó en los estudios de personalidad.
+En el contrato se estipularán las diversas consecuencias de la suspensión y de la rescisión.
 
-###### Artículo 74.
+###### ARTICULO 50.
 
-El Presidente del Consejo formulará a la brevedad posible, un proyecto de resolución que contendrá: a).- Los datos de identificación del menor; b).- La descripción sintética de la conducta o situación irregular que se le atribuye; así como las circunstancias y razonamientos que prueben la veracidad o falsedad de estos hechos; c).- La opinión del menor, de sus familiares y de personas relacionados con los hechos investigados; d).- Síntesis de los estudios de personalidad realizados y de los resultados obtenidos; e).- Determinación de las necesidades del menor, o explicación de que no tiene ninguna; y f).- Proposiciones concretas, para la reeducación del menor.
+Las estimaciones de trabajo ejecutado correspondientes a contratos en ejercicio, se formularán y autorizarán bajo la responsabilidad de la Dependencia o Entidad.
 
-###### Artículo 75.
+Dentro de los cinco días hábiles siguientes a la presentación de las estimaciones, la Dependencia o Entidad autorizará y dará aviso a la Secretaría de Finanzas y Planeación, para el pago respectivo.
 
-El proyecto de resolución será discutido por todos los miembros del consejo y cuando sea aprobado por unanimidad o mayoría de votos, tendrá el carácter de resolución principal. En caso de no aprobarse el proyecto éste se formulará nuevamente para su discusión y aprobación.
+En caso de que las estimaciones no se ajusten a los términos del contrato, la Dependencia o Entidad, dentro del mismo plazo lo comunicará por escrito al contratista asentando las causas.
 
-###### Artículo 76.
+###### ARTICULO 51.
 
-A solicitud de los miembros del Consejo, de cualquier autoridad o particular, cuando sus motivos sean fundados a juicio del propio Consejo, serán revisadas las resoluciones previa o principal y como consecuencia, se podrán confirmar, o modificar, en atención siempre a la conveniencia del menor.
+Los contratistas cubrirán el cinco al millar sobre el importe de cada una de las estimaciones de trabajo, como derechos, por el servicio de vigilancia, inspección y control que esta Ley determina.
 
-###### Artículo 77.
+La Secretaría de Finanzas y Planeación al hacer el pago de las estimaciones de obra, retendrá el importe correspondiente a que se refiere el párrafo anterior.
 
-Si se comprobare que el sujeto es mayor de edad, al momento de cometerse la infracción, se pondrá a disposición de la autoridad competente, remitiéndosele las diligencias practicadas y todos los demás datos que con las mismas se relacionen. Si se advierte que la edad del menor es inferior a 7 años, se entregará a sus padres o a quien lo tenga bajo su cuidado.
+###### ARTICULO 52.
 
-###### Artículo 78.
+Cuando durante la vigencia de un contrato de obras que se estén ejecutando dentro del programa, ocurran circunstancias de orden económico no previstas en el contrato, pero que de hecho y sin dolo, culpa, o ineptitud de cualquiera de las partes determinen un aumento o reducción en un cinco por ciento o más de los costos de los trabajos aún no ejecutados, dichos costos podrán ser revisados. Las Dependencias o Entidades, a solicitud del contratista, someterán a la consideración de la Comisión Consultiva de Obras Públicas el análisis correspondiente, en el que se acordará el aumento o reducción que proceda.
 
-Las medidas tutelares son medios de producción genérica o específica que el Estado utiliza a través de los consejos tutelares, para auxiliar a los menores de edad que las requieran.
+###### ARTICULO 53.
 
-###### Artículo 79.
+El contratista comunicará a la Dependencia o Entidad la terminación de los trabajos que le fueron encomendados y éstas verificarán que estén debidamente concluidos, dentro de los cinco días naturales siguientes, salvo que se pacte expresamente otro plazo.
 
-Son medidas tutelares, entre otras: a).- La orientación; b).- La amonestación; c).- La integración al seno familiar; d).- La incorporación al grupo familiar, de parientes, amigos, o cualquier hogar sustituto; e).- La colocación en ocupaciones que armonicen con los intereses del menor, que sean seguras y remuneradoras; f).- La inscripción e internamiento en su caso, en instituciones asistenciales, educativas, médicas, psicológicas, neuropsiquiátricas o de cualquier otra especialidad; g).- Internación en los Centros de Educación, Observación e Internado o en instituciones similares; h).- Ilustración a los padres, ascendientes, tutores u otros encargados de los menores; i).- Cualquier ayuda para solucionar necesidades especiales o generales.
+La recepción de los trabajos se hará dentro de los diez días naturales siguientes a la fecha en que se haya constatado la terminación de los trabajos en los términos del párrafo anterior.
 
-###### Artículo 80.
+La Dependencia o Entidad, por lo menos tres días hábiles antes de que venza el plazo para la recepción de la obra, avisará a la Secretaría de Finanzas y Planeación y a la Contraloría General del Estado a fin de que nombren a sus representantes e intervengan en el acto de recepción.
 
-Para el tratamiento de los menores, se preferirán, cuando se encuentren normalmente organizados, los hogares propios o los de cualquier pariente, amigo o persona altruista que quieran cooperar en tan delicada misión. Los demás ambientes previstos como medidas tutelares, se considerarán recursos extraordinarios.
+En la fecha señalada la Dependencia o Entidad bajo su responsabilidad recibirá los trabajos y levantará el acta correspondiente con o sin la comparecencia de los representantes a que se refieren los párrafos anteriores.
 
-###### Artículo 81.
+###### ARTICULO 54.
 
-El Consejo emitirá copia de la resolución final que se dicte en el expediente de un menor, al Director del Centro de Reeducación, de educación técnica o del establecimiento en donde deberá ser internado. De igual modo se procederá cuando se modifique la resolución, substituyendo la medida impuesta en ella, por otra de las enumeradas en el Artículo 79 de la presente Ley, con el fin de que conforme a las nuevas recomendaciones que en la misma se hagan, oriente la conducta del menor y se vigile su comportamiento.
+Concluida la obra, no obstante su recepción formal, el contratista quedará obligado a responder de los defectos que resultaren en la misma, de los vicios ocultos, y de cualquier otra responsabilidad en que hubiere incurrido en los términos señalados en el contrato respectivo y en el Código Civil del Estado de Veracruz.
 
-###### Artículo 82.
+###### ARTICULO 55.
 
-En caso de liberación condicionada, la vigilancia implica la sistemática observación de la conducta del menor y de su orientación, así como del comportamiento de quienes lo tengan bajo su cuidado para su mejor readaptación social, valorándose las modalidades del tratamiento consignadas en la resolución final.
+La Dependencia o Entidad responsable de la obra, cuidará que en términos de la Ley de la materia, se haga la inscripción de ésta en el inventario que corresponda y, en su caso, en el Registro Público de la Propiedad.
 
-###### Artículo 83.
+###### ARTICULO 56.
 
-Las medidas tutelares serán siempre de duración indeterminada y estarán vigentes por el tiempo que la realidad demuestre que son necesarias.
+Una vez concluida la obra o parte utilizable de ella, las dependencias o entidades contratantes entregarán oportunamente a quien deba operarla los planos actualizados, las normas y especificaciones que fueron aplicadas en la ejecución, los manuales e instructivos de operación, conservación y mantenimiento correspondientes.
 
-###### Artículo 84.
+###### ARTICULO 57.
 
-En ningún caso y por ningún motivo, alguna medida tutelar se aplicará a mayores de edad.
+Las dependencias o entidades bajo cuya responsabilidad quede una obra pública después de terminada estarán obligadas a mantenerla en niveles apropiados de funcionamiento y vigilar que su uso, operación, mantenimiento y conservación se realice conforme a los objetivos o acciones de los programas respectivos.
 
-###### Artículo 85.
+###### ARTICULO 58.
 
-El Consejo cuando lo estime conveniente, podrá exigir fianza a los padres o tutores, para garantizar el cumplimiento de las obligaciones que se impongan cuando se decrete una medida tutelar.
+En los términos del artículo 31 de esta Ley, las dependencias o entidades ejecutarán obras por administración directa, siempre que posean la capacidad técnica y los elementos necesarios para tal efecto, consistentes en maquinaria y equipo de construcción, personal técnico, trabajadores y materiales que se requieran para el desarrollo de los trabajos respectivos, sujetándose a las siguientes modalidades:
 
-###### Artículo 86.
+I.- Podrán según el caso:
 
-Los consejeros no serán recusables; pero están impedidos y deberán excusarse para intervenir en los asuntos en que tengan interés directo, parentesco con el menor o exista alguna otra causa que influya en su ánimo en forma tal, que su opinión no pueda ser imparcial.
+A) Utilizar la mano de obra local complementaria que se requiera, lo que invariablemente deberá llevarse a cabo por obra determinada;
 
-###### Artículo 87.
+B) Alquilar el equipo y maquinaria de construcción complementaria;
 
-La excusa de un miembro del Consejo, será calificada por los demás consejeros quienes declararán separado al consejero de que se trate del conocimiento del asunto de que esté impedido.
+C) Utilizar los materiales de la región; y
 
-###### Artículo 88.
+D) Utilizar los servicios de fletes y acarreos complementarios necesarios.
 
-Los cargos de Consejero, de Secretario de Acuerdos, de Director de los Centros de Observación, Educación e Internado son incompatibles con el ejercicio de cualquier otro cargo de la administración de justicia, del Ministerio Público y de Defensoría de Oficio, Federales o del Fuero Común, así como con el desempeño de funciones policiales.
+II.- Bajo ninguna circunstancia podrán participar terceros como contratistas, sean cuales fueran las condiciones particulares, naturaleza jurídica o modalidades, que éstos adopten, incluyendo las asociaciones y sociedades civiles, sindicatos y demás organizaciones o instituciones similares; exceptuándose la contratación de instalado, montado, colocados o aplicados los equipos, instrumentos, elementos prefabricados terminados y materiales que se requiera;
 
-## TITULO SEXTO. INSTITUCIONES AUXILIARES
+III.- Será responsabilidad única del Titular de la Dependencia las obras que por administración directa realice el área a su cargo;
 
-### CAPITULO I. Centros de Observación, Educación e Internado
+IV.- El acuerdo para la ejecución de las obras por administración directa deberá contener como mínimo:
 
-###### Artículo 89.
+A) La mención de los datos relativos a la autorización de la inversión respectiva;
 
-Funcionarán en el Estado, según las posibilidades económicas Centros de Observación, Educación e Internado para atención varonil y femenil.
+B) El importe total de la obra y monto a disponer para el ejercicio correspondiente; y
 
-###### Artículo 90.
+C) La descripción general de la obra y las fechas de iniciación y terminación de los trabajos.
 
-Los Centros de Observación, Educación e Internado serán dependientes del Poder Ejecutivo del Estado, contarán con el personal técnico y administrativo que sus necesidades exijan y su finalidad fundamental será la de servir como instituciones auxiliares de los consejos tutelares.
+V.- Los programas de ejecución, y de utilización de recursos humanos y maquinaria y equipo de construcción de cada una de las obras que se realicen por administración directa, deberán elaborarse conforme a lo siguiente:
 
-###### Artículo 91.
+A) El programa de ejecución se desglosará en etapas, conceptos y actividades, señalando fechas de iniciación y terminación de cada una de ellas; las cantidades de obra que se ejecutarán mensualmente así como sus importes correspondientes y el importe total de la producción mensual;
 
-Los Centros de Observación, Educación e Internado, tendrán un Director que será el Presidente del Consejo Tutelar, quien propondrá el nombramiento y remoción del personal técnico y administrativo al Gobernador del Estado.
+B) El programa de utilización de recursos humanos, deberá consignar la especialidad, categoría, número requerido y percepciones totales por día, semana o mes, el programa incluirá al personal técnico, administrativo y obrero, encargado directamente de la ejecución de los trabajos; y
 
-###### Artículo 92.
+C) El programa de utilización de la maquinaria y equipo de construcción, deberá consignar las características del equipo, capacidad, número de unidades y total de horas efectivas de utilización, calendarizadas por semana o mes, la residencia de supervisión será responsable directamente de la ejecución, supervisión, vigilancia, control y revisión de los trabajos y tendrá la obligación de rendir informes periódicos y llevar la bitácora de la obra y mantener los planos debidamente actualizados.
 
-Los menores estarán organizados y separados atendiendo a su edad y las diferentes actividades que habrán de realizar a fin de participar positiva y directamente en los mismos.
+VI.- El presupuesto de cada una de las obras que se realice por administración directa, será el que resulte de aplicar a las cantidades de trabajo del catálogo de conceptos, los costos unitarios analizados y calculados con base en las especificaciones de ejecución, normas de calidad de los materiales y procedimientos de construcción previstos. Dicho presupuesto se integrará además con los importes de:
 
-###### Artículo 93.
+A) Los equipos, mecanismos y accesorios de instalación permanente; los cuales incluirán los fletes, maniobras, almacenaje y todos aquellos cargos que se requieran para transportarlos al sitio de los trabajos;
 
-En los Centros de Observación, Educación e Internado, habrá respeto absoluto a los menores, se mantendrá un ambiente de dignidad y disciplina lo más semejante a un hogar bien organizado, para estudiar, trabajar, resolver sus problemas y superarse en todos los órdenes, quedando prohibido cualquier castigo corporal a los menores.
+B) Las instalaciones de construcción necesarias para la ejecución de los trabajos y en su caso, de su desmantelamiento, así como los fletes y acarreos de la maquinaria y equipo de construción (sic) y los seguros correspondientes;
 
-###### Artículo 94.
+C) Las construcciones e instalaciones provisionales destinadas a servicios administrativos, médicos, recreativos, sanitarios y de capacitación, campamento y comedores que se construyan en el sitio de la obra, así como de mobiliario y equipo necesario para éstas;
 
-Los Centros de Observación, Educación e Internado, se instalarán en un lugar adecuado de la ciudad, donde funcionarán las oficinas del consejo tutelar.
+D) Los sueldos, salarios, viáticos o cualquier otra remuneración que reciba el personal técnico, administrativo y de servicios encargados directamente en la ejecución de los trabajos de conformidad con el programa de utilización de recursos humanos; y
 
-###### Artículo 95.
+E) Los equipos de transporte terrestre con sus respectivos cargos por combustibles y lubricantes, así como los materiales de consumo en oficinas, calendarizados por mes.
 
-En los Centros de Observación, Educación e Internado habrá dos departamentos: uno para hombres y otro para mujeres. Asimismo habrá una sección especial donde permanecerán internados los menores, hasta en tanto no se resuelva su situación personal mediante la adopción de algunas de las medidas que señala el Artículo 55 de esta Ley.
+En el presupuesto a que se refiere esta fracción, no podrán incluirse cargos por imprevistos, erogaciones adicionales o de índole similar.
 
-###### Artículo 96.
+Se entenderá por costo unitario el correspondiente a la suma de cargos por conceptos de materiales, mano de obra y utilización de maquinaria y equipo de construcción sea propio o rentado.
 
-En cada Centro de Observación, Educación e Internado se organizarán oficinas para la elaboración de estudios sociales, pedagógicos, médicos, psicológicos, neuropsiquiátricos y laborales, para atender a las necesidades de los menores en esas especialidades, que serán coordinadas por el Director del Centro.
+La Contraloría General del Estado y los órganos de control interno de las dependencias y entidades, verificarán que se dé estricto cumplimiento a la realización de las acciones señaladas para las obras por administración directa.
 
-###### Artículo 97.
+###### ARTICULO 59.
 
-Los Centros de Observación, Educación e Internado, prestarán a los menores servicios de alimentación, vestido, habitación, servicio médico, instrucción primaria, enseñanza de un oficio, asistencia técnica especializada, deportes, juego, actividades artísticas y los medios adecuados para observar buena conducta y buen trato.
+Las Dependencias o Entidades cuando se trate de bienes del dominio público del Estado, deberán enviar a la Secretaría de Desarrollo Urbano, copia de los títulos de propiedad si los hubiere, los datos sobre localización y construcción de las obras públicas y sus avalúos para que se incluyan en los catálogos e inventarios de los bienes y recursos del Estado, y en su caso, para su inscripción en el Registro Público de la Propiedad.
 
-###### Artículo 98.
+### CAPITULO VI. DE LA INFORMACION Y VERIFICACION
 
-Los Centros de Observación, Educación e Internado, se regirán por reglamentos sencillos y prácticos que señalarán las bases mínimas de organización y funcionamiento. Estas normas reglamentarias serán presentadas por los Directores de estas instituciones al Ejecutivo del Estado para su aprobación, procurando en lo posible, su unificación en la Entidad.
+###### ARTICULO 60.
 
-###### Artículo 99.
+Las Dependencias y Entidades deberán remitir a la Secretaría de Finanzas y Planeación y a la Contraloría General del Estado, en la forma y términos que éstas señalen, la información relativa a las obras que realicen o contraten.
 
-Cuando el menor sea un enfermo mental, neurológico, ciego, sordomudo, epiléptico, alcohólico o toxicómano, o si se tratare notoriamente de un menor retrasado en su desarrollo físico, mental o moral, el Consejo tomará las medidas para su tratamiento adecuado, inclusive solicitando su internamiento en un establecimiento apropiado de carácter público o privado.
+Para tal efecto, las Dependencias o Entidades conservarán en forma ordenada y sistemática toda la documentación comprobatoria del gasto de dichas obras, cuando menos por un lapso de cinco años contados a partir de la fecha de su recepción.
 
-###### Artículo 100.
+###### ARTICULO 61.
 
-La organización y sostenimiento de los Centros de Observación, Educación e Internado ubicados en lugares distintos al Municipio de Aguascalientes, estarán a cargo de los municipios correspondientes y serán los presidentes municipales los encargados de nombrar y remover a los directores y éstos propondrán a las autoridades del municipio la designación o los cambios pertinentes en relación al resto del personal.
+Las Dependencias o Entidades controlarán todas las fases de las obras públicas a su cargo. Para tal efecto establecerán los medios y procedimientos de control que requieran, de acuerdo con las normas que dicte el Ejecutivo Estatal, a través de la Contraloría General del Estado.
 
-### CAPITULO II. Patronato de Menores
+###### ARTICULO 62.
 
-###### Artículo 101.
+La Contraloría General del Estado y las Dependencias o Entidades, en el ejercicio de sus respectivas facultades, podrán verificar en cualquier tiempo que las obras y los servicios relacionados con ellas se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables así como a los programas y presupuestos autorizados.
 
-En la capital del Estado y en las ciudades en que haya consejos tutelares, se organizarán patronatos de menores que se encargarán de auxiliar al Gobierno de la Entidad y a los ayuntamientos, a resolver los problemas de los menores de edad.
+###### ARTICULO 63.
 
-###### Artículo 102.
+Las Dependencias o Entidades proporcionarán todas las facilidades necesarias a fin de que la Secretaría de Finanzas y Planeación y la Contraloría General del Estado, en el ámbito de sus respectivas competencias, puedan realizar el seguimiento y control de las obras públicas.
 
-Los patronatos se formarán con miembros que representarán al Gobierno del Estado, al Sistema para el Desarrollo Integral de la Familia en Aguascalientes, a la Dirección Federal y Estatal de Educación, a la Dirección de Servicios Coordinados de Salubridad y Asistencia, Procuraduría de la Defensa del Menor y de ser posible a las sociedades de padres de familia, a la Cámara de Comercio, a la Cámara de Industria y Transformación y a las Organizaciones Obreras, Campesinas y Populares.
+###### ARTICULO 64.
 
-Los nombramientos y las remociones serán hechos por el Ejecutivo del Estado en el Patronato de la Capital y por los Presidentes Municipales en los patronatos foráneos.
+La Secretaría de Finanzas y Planeación y la Contraloría General del Estado podrán ordenar que se lleven a cabo las visitas o inspecciones que estimen pertinentes a las Dependencias y Entidades que realicen obra pública con recursos del Estado, así como solicitar de los servidores públicos de las mismas y de los contratistas, en su caso, todos los datos e informes relacionados con las obras.
 
-###### Artículo 103.
+## TITULO TERCERO. DE LAS INFRACCIONES, SANCIONES Y RECURSOS
 
-Los nombramientos para ser miembros de cualquier Patronato, serán honoríficos y por tres años, procurándose la participación de hombres y mujeres.
+### CAPITULO I. DE LAS INFRACCIONES Y SANCIONES
 
-Los Patronatos se gobernarán por una mesa directiva compuesta por presidente, secretario y tesorero, puestos que ocuparán las personas que libremente designen los miembros de este organismo.
+###### ARTICULO 65.
 
-###### Artículo 104.
+Los contratistas que incurran en infracciones de esta Ley, así como en el incumplimiento de los contratos, según la gravedad del acto u omisión de que fueren responsables, serán sancionados con:
 
-Se procurará que los miembros de los patronatos satisfagan los siguientes requisitos:
+I.- Multa equivalente de diez a mil veces el salario mínimo general diario, vigente en la zona económica en la fecha de la infracción;
 
-a).- Ser ciudadano mexicano en pleno goce de sus derechos; b).- Ser persona honorable, mayor de 25 años; c).- Ser casado y tener hijos; d).- Haber demostrado preocupación por los problemas de los menores de edad.
+II.- La suspensión o cancelación del registro en el Padrón de Contratistas de Obras Públicas sin perjuicio de lo anterior; y
 
-###### ARTICULO 105.
+III.- Cuando proceda, la Contraloría General del Estado podrá proponer a la Dependencia o Entidad contratante la rescisión del contrato.
 
-Son atribuciones de los Patronatos de Menores los siguientes: a).- Procurar el bienestar físico, moral y cultural de los menores de edad, tanto en forma individual como colectiva, en cuanto a auxiliares directos de los consejos tutelares y del Gobierno del Estado; b).- Constituirse en gestores de negocios de cualquier menor, que no cuente con representante legal; c).- Auxiliar en toda forma a las instituciones protectoras de menores para que realicen sus objetivos; d).- Administrar los recursos económicos o de cualquier otra naturaleza suficiente para cumplir sus variados fines a través de las percepciones fijadas que señale el presupuesto estatal, de colectas, de ganancias en festejos y demás actividades que se consideren pertinentes; y e).- Organizar programas de acción social para prevenir necesidades, conductas o situaciones irregulares de los menores de edad y para proteger en cualquier forma a la familia.
+###### ARTICULO 66.
 
-###### ARTICULO 106.
+A los servidores públicos que infrinjan las disposiciones de esta Ley, la Contraloría General del Estado les aplicará, conforme a lo dispuesto por la Ley Estatal de Responsabilidades de los Servidores Públicos, las sanciones correspondientes.
 
-Los patronatos contarán con el personal que demanden sus necesidades, especialmente con un cuerpo de trabajadores sociales que los auxiliarán en el desempeño de sus funciones.
+###### ARTICULO 67.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+Las Dependencias y Entidades impondrán las multas de acuerdo a los siguientes criterios:
 
-###### Artículo 107.
+I.- Se tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de destruir prácticas tendentes a infringir, de cualquier forma, las disposiciones de esta Ley o las que se dicten con base en ella;
 
-Cada patronato tiene obligación de rendir anualmente informe de actividades, y cuenta de sus ingresos y egresos, ante el Ejecutivo del Estado, el Patronato de la Capital, y ante los Presidentes Municipales los patronatos foráneos. Su contabilidad general se supervisará por la secretaría de Finanzas, por las Tesorerías Municipales respectivas, así como por la Contaduría Mayor de Hacienda del Congreso del Estado.
+II.- Cuando sean varios los responsables, cada uno será sancionado con el total de la multa que se imponga;
 
-###### ARTICULO 108.
+III.- Tratándose de contratistas reincidentes, se impondrá otra multa mayor, dentro de los límites señalados en el artículo precedente o se duplicará la multa inmediata anterior que se hubiere impuesto; y
 
-El Patronato protegerá a todo menor necesitado de tutela siempre y cuando no tuvieren conocimiento los Consejos Tutelares o bien por haber estado sujetos a investigación tutelar.
+IV.- En el caso de que persista la infracción se rescindirá el contrato respectivo, sin perjuicio de hacer efectivas las fianzas otorgadas.
 
-###### ARTICULO 109.
+###### ARTICULO 68.
 
-La actividad y la organización de los patronatos, se regirán por el reglamento que expedirá el Ejecutivo del Estado.
+No se impondrán sanciones cuando se haya incurrido en la infracción por causas de fuerza mayor o de caso fortuito, o cuando se observe de forma espontánea el precepto que se hubiere dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por las autoridades o medie un requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas.
 
-## TRANSITORIOS
+###### ARTICULO 69.
 
-PRIMERO.- Esta Ley abroga la Ley sobre la Asistencia Social y la Atención Jurídica de los Menores, expedida el 7 de agosto de 1967, vigente en la Entidad a partir del día 17 de septiembre del mismo año.
+En el procedimiento para la aplicación de las sanciones a que se refiere este capítulo, se observarán las siguientes reglas:
 
-SEGUNDO.- Mientras no se hagan las designaciones que señala esta Ley, continuarán en funciones las personas que actualmente vienen desempeñando los cargos correspondientes.
+I.- Se comunicará por escrito al presunto infractor los hechos constitutivos de la infracción, para que dentro del término que para tal efecto se señale y que no podrá ser menor de diez días hábiles, exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes;
 
-Al Ejecutivo para su sanción.
+II.- Transcurrido el término a que se refiere la fracción anterior, se resolverá considerando los argumentos y pruebas que se hubieren hecho valer; y
 
-Dada en el Salón de Sesiones del H. Congreso del Estado a los catorce días del mes de enero de mil novecientos ochenta y dos.- D.P., Lic. Mario Granados Roldán.- D.S., Lic. Francisco Díaz de León Fernández.- D.S., Juan Manuel Lomelí de Luna.- Rúbricas".
+III.- La resolución será debidamente fundada y motivada, y se comunicará por escrito al afectado.
 
-Y tenemos el honor de comunicarlo a usted para su conocimiento y fines consiguientes, reiterándole las seguridades de nuestra consideración atenta y distinguida.
+###### ARTICULO 70.
 
-SUFRAGIO EFECTIVO. NO REELECCION.
+Los servidores públicos de las dependencias o entidades que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta Ley o a las normas que de ella se deriven deberán comunicarlo a las autoridades que resulten competentes.
 
-DIPUTADO PRESIDENTE,
+La omisión a lo dispuesto en el párrafo anterior será sancionada administrativamente.
 
-Lic. Mario Granados Roldán.
+###### ARTICULO 71.
 
-DIPUTADO SECRETARIO,
+Las responsabilidades a que se refiere la presente Ley son independientes de las de orden civil, penal o cualquier otra que resultare de las mismas conductas.
 
-Lic. Francisco Díaz de León Fernández.
+###### ARTICULO 72.
 
-DIPUTADO SECRETARIO,
+Los actos, convenios y contratos que las dependencias o entidades realicen en contravención a lo dispuesto por esta Ley, serán nulos de pleno derecho.
 
-Juan Manuel Lomelí de Luna.
+### CAPITULO II. DE LOS RECURSOS ADMINISTRATIVOS
 
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+###### ARTICULO 73.
 
-Aguascalientes, Ags., enero 15, 1982.
+En contra de las resoluciones que dicten las autoridades que señala esta Ley, el interesado podrá interponer ante la responsable, recurso de revocación dentro del término de cinco días hábiles, contados a partir del día siguiente al de la notificación.
 
-Rodolfo Landeros Gallegos.
+###### ARTICULO 74.
 
-EL SECRETARIO GENERAL DE GOBIERNO,
+La tramitación del recurso se sujetará a las normas siguientes:
 
-Lic. Joaquín Cruz Ramírez.
+I.- Se interpondrá por el recurrente, mediante escrito en el que expresará los agravios que el acto impugnado le cause, ofreciendo las pruebas que se proponga rendir y acompañando las documentales;
 
-EL PROCURADOR GRAL. DE JUSTICIA,
+II.- La autoridad admitirá o desechará el recurso. Las pruebas que el recurrente hubiera ofrecido y que se admitan, se desahogarán en el plazo improrrogable de quince días hábiles.
 
-Lic. Miguel Romo Medina.
+III.- Las pruebas que ofrezca el recurrente deberá relacionarlas con cada uno de los agravios, y sin el cumplimiento de este requisito serán desechadas. No es admisible la prueba confesional de autoridades;
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+IV.- Se tendrá por no ofrecidas las pruebas de documentos sí éstos no se acompañan al escrito en que se interponga el recurso y en ningún caso serán recabados por la autoridad, salvo que obren en el expediente en que se haya originado la resolución recurrida o en el archivo de alguna Dependencia o Entidad. La expedición de estas pruebas será con cargo al oferente, quien deberá señalar el lugar donde se encuentren;
 
-P.O. 1 DE JULIO DE 1990.
+V.- La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por el recurrente. De no presentarse el dictamen dentro del plazo a que se refiere la fracción II de este artículo, la prueba será desechada. La autoridad que conozca del recurso, si lo estima necesario, podrá solicitar un dictamen pericial, incluso prorrogando el plazo para el desahogo de pruebas antes señalado;
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+VI.- La autoridad podrá pedir que se le rindan los informes que estime pertinentes por parte de quienes hayan intervenido en la resolución impugnada; y
 
-P.O. 13 DE DICIEMBRE DE 1992.
+VII.- Vencido el plazo para el desahogo de las pruebas, la autoridad dictará su resolución en un término que no excederá de diez días hábiles.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+###### ARTICULO 75.
 
-P.O. 12 DE FEBRERO DE 2004.
+Para lo no previsto en la tramitación de este recurso, se estará a lo dispuesto en la Ley de Justicia Administrativa del Estado.
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+###### ARTICULO 76.
 
-P.O. 11 DE SEPTIEMBRE DE 2006.
+Contra la resolución que cancele o suspenda el Registro en el Padrón de Contratistas de Obras Públicas, podrá solicitarse la suspensión del acto impugnado conforme a las siguientes bases:
 
-###### ARTÍCULO PRIMERO.
+I.- Será solicitada en el mismo escrito en el que se interponga el recurso;
 
-La presente Ley entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+II.- Dentro de los diez días hábiles siguientes la Secretaría de Finanzas y Planeación señalará el monto de la garantía para que la suspensión pueda otorgarse; y
 
-###### ARTÍCULO SEGUNDO.
+III.- Otorgada la garantía, se suspenderá la aplicación de la resolución impugnada.
 
-Se abroga la Ley de Consejos Tutelares y Reeducación Social para Menores del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado Número Tres, Tomo XLV, de fecha 17 de enero de 1982 y sus reformas.
+###### ARTICULO 77.
 
-###### ARTÍCULO TERCERO.
+Tratándose de licitaciones públicas los contratistas o licitantes que hubieran participado en ellas podrán inconformarse por escrito ante la Contraloría General del Estado, durante los tres días hábiles siguientes al fallo del concurso o en su caso al día siguiente a aquél en que se haya emitido el acto relativo a cualquier etapa o fase del mismo.
 
-A la entrada en vigencia del presente Decreto, los titulares y órganos facultados de los Poderes Ejecutivo y Judicial deberán proceder a realizar los nombramientos de las autoridades encargadas de la aplicación de la presente Ley.
+La Contraloría resolverá en un plazo de cinco días hábiles y si la inconformidad resulta procedente declarará la nulidad de la resolución impugnada y el o los contratos que se hayan celebrado no surtirán efectos.
 
-###### ARTÍCULO CUARTO.
+Transcurrido el plazo a que se refiere el primer párrafo, prescribe para los contratistas solicitantes el derecho a inconformarse, sin perjuicio de que las dependencias, entidades o la Contraloría General del Estado, puedan actuar en cualquier tiempo en los términos de los artículos 37, 41, 49 y 72.
 
-Los recursos y personal del Centro Tutelar para Menores del Estado de Aguascalientes pasarán a formar parte del Centro Estatal, así como el personal necesario en los términos de la presente Ley, por lo que se autoriza al titular del Poder Ejecutivo realizar las reasignaciones presupuestales que ello impliquen.
+###### ARTICULO 78.
 
-###### ARTÍCULO QUINTO.
+Para los efectos de esta Ley, se entiende por días hábiles todos los días del año con excepción de los sábados y domingos, los que señala la Ley Federal del Trabajo como de descanso obligatorio y aquéllos en que las dependencias o entidades no laboren.
 
-Los procesos penales en trámite a la entrada en vigencia de la presente Ley, que se lleven con motivo de la comisión de hechos punibles en los que se encuentre como inculpado una persona que al momento de su comisión era menor de dieciocho años, se remitirán a las autoridades especializadas previstas en el presente ordenamiento, para efecto de que los adolescentes sean sometidos al Sistema y se reponga el procedimiento correspondiente ajustándose a los extremos de la presente Ley.
+TRANSITORIOS:
 
-###### ARTÍCULO SEXTO.
+###### ARTICULO PRIMERO.
 
-Los procesos seguidos ante el Consejo Tutelar Central para Menores se remitirán a las autoridades especializadas previstas en el presente ordenamiento, para efecto de que los adolescentes sean sometidos al Sistema y se reponga el procedimiento correspondiente ajustándose a los extremos de la presente Ley.
+La presente Ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
 
-###### ARTÍCULO SÉPTIMO.
+###### ARTICULO SEGUNDO.
 
-Dentro de los quince días siguientes a la publicación de la presente Ley en el Periódico Oficial del Estado, se deberá instalar una Comisión de Evaluación y Seguimiento de la implementación del Sistema, cuya vigencia será de un año y la cual tendrá como objetivo elaborar informes trimestrales del análisis realizado. La Comisión estará integrada por dos representantes de los poderes Ejecutivo, Judicial y Legislativo, y de la Procuraduría General de Justicia del Estado, así como uno de la Comisión Estatal de Derechos Humanos. La coordinación de la Comisión de Evaluación y Seguimiento, estará a cargo del Secretario General de Gobierno, al cual le corresponde convocar para la instalación y cumplimiento de los objetivos de la misma.
+Se abroga la Ley de Obras Públicas para el Estado Libre y Soberano de Veracruz-Llave, número 97, expedida el treinta de julio de mil novecientos ochenta y cinco y se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+###### ARTICULO TERCERO.
+
+Para los efectos de la presente Ley y en tanto se expide el Presupuesto de Egresos para el año de 1992, las dependencias y entidades podrán contratar directamente, obras cuyo monto total no rebase la cantidad de TRESCIENTOS MILLONES DE PESOS; y podrán contratar previa invitación a cuando menos tres contratistas, obras que tengan un monto total de más de TRESCIENTOS MILLONES DE PESOS hasta SETECIENTOS CINCUENTA MILLONES DE PESOS.
+
+DADO en el Salón de Sesiones de la H. Legislatura del Estado, en la ciudad de Xalapa-Enríquez, Veracruz, a los veinticuatro días del mes de enero de mil novecientos noventa y uno.- Lic. ROBERTO BRAVO GARZON, Diputado Presidente.- Rúbrica.- C. JOSE ISABEL SANCHEZ BAUTISTA, Diputado Secretario.- Rúbrica".
+
+En cumplimiento de lo dispuesto por la fracción I del artículo 87 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa-Enríquez, Veracruz, a los veintiocho días del mes de enero de mil novecientos noventa y uno.- DANTE DELGADO, Rúbrica.- Gobernador del Estado.- Lic. MIGUEL A. DIAZ PEDROZA, Rúbrica.- Secretario General de Gobierno.- GERARDO POO ULIBARRI, Rúbrica.- Secretario de Finanzas y Planeación.- Ing. GUSTAVO NACHON AGUIRRE, Rúbrica.- Secretario de Comunicaciones.- Lic. PORFIRIO SERRANO AMADOR, Rúbrica.- Secretario de Desarrollo Urbano.- C.P. CARLOS M. AGUIRRE GUTIERREZ, Rúbrica.- Contralor General.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "... Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "... Estado de Veracruz-Llave", se entenderán referidas al "... Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "... del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
