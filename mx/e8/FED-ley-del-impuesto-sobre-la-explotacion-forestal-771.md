@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-explotacion-forestal-771"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "1977-12-30"
+last_updated: "1978-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1975-12-26"
 
 LEY DEL IMPUESTO SOBRE LA EXPLOTACION FORESTAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1977.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO NUMERAL 17 DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 29 DE DICIEMBRE DE 1978.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 31 de diciembre de 1975.
 
@@ -270,3 +272,61 @@ La presente Ley entrará en vigor en toda la República el día primero de enero
 ###### ARTICULO OCTAVO.
 
 A partir de la fecha en que entren en vigor las reformas o adiciones a que esta Ley se refiere, quedan sin efecto las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en dichas reformas o adiciones.
+
+D.O.F. 29 DE DICIEMBRE DE 1978.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor, en toda la República, el día primero de enero de 1980.
+
+###### ARTICULO SEGUNDO.
+
+Al entrar en vigor la presente Ley, quedarán abrogadas las leyes y decretos siguientes:
+
+1.- Ley Federal del Impuesto sobre Ingresos Mercantiles.
+
+2.- Ley del Impuesto sobre Reventa de Aceites y Grasas Lubricantes.
+
+3.- Ley del Impuesto sobre Compraventa de Primera Mano de Alfombras, Tapetes y Tapices.
+
+4.- Ley del Impuesto sobre Despepite de Algodón en Rama.
+
+5.- Ley del Impuesto sobre Automóviles y Camiones Ensamblados.
+
+6.- Decreto por el cual se fija el impuesto que causarán el Benzol, Toluol, Xilol y Naftas de Alquitrán de Hulla, destinados al consumo interior del país.
+
+7.- Ley del Impuesto a la Producción del Cemento.
+
+8.- Ley del Impuesto sobre Cerillos y Fósforos.
+
+9.- Ley del Impuesto sobre Compraventa de Primera Mano de Artículos Electrónicos, Discos, Cintas, Aspiradoras y Pulidoras.
+
+10.- Ley del Impuesto sobre Llantas y Cámaras de Hule.
+
+11.- Ley del Impuesto a las Empresas que explotan Estaciones de Radio o Televisión.
+
+12.- Ley del Impuesto sobre Vehículos Propulsados por Motores Tipo Diesel y por Motores Acondicionados para uso de Gas Licuado de Petróleo.
+
+13.- Ley de Compraventa de Primera Mano de Artículos de Vidrio o Cristal.
+
+14.- Ley Federal del Impuesto sobre Portes y Pasajes.
+
+15.- Decreto relativo al impuesto del 10 % sobre las entradas brutas de los Ferrocarriles.
+
+16.- Decreto que establece un Impuesto sobre Uso de Aguas de Propiedad Nacional en la Producción de Fuerza Motriz.
+
+17.- Ley del Impuesto sobre la Explotación Forestal.
+
+18.- Ley de Impuestos y Derechos a la Explotación Pesquera.
+
+###### ARTICULO TERCERO.
+
+Los impuestos que se hubieren causado conforme a las leyes a que se refiere el artículo anterior, antes de la fecha en que entre en vigor la presente Ley, deberán ser pagados en el monto, forma y plazos establecidos en dichas disposiciones.
+
+###### ARTICULO CUARTO.
+
+Los contribuyentes que al entrar en vigor la presente Ley queden comprendidos en el artículo 35, continuarán pagando durante el año de 1980 la misma cuota que les hubieren fijado o les fijen las autoridades fiscales, la cual se considerará equivalente a la diferencia entre el monto del impuesto establecido en este Ordenamiento y las cantidades que de acuerdo con el mismo pudieren ser acreditadas. En el año de 1981, del impuesto que resulte de aplicar las tasas de esta Ley al monto de las contraprestaciones por las que se deba pagar impuesto al valor agregado, se acreditará un 3% del importe de las ventas, no sujeto a comprobación y, además, el monto trasladado a dichos contribuyentes en documentación que reúna las (sic) requisitos fiscales. A partir de 1982 dejará de acreditarse dicho 3 % y únicamente se acreditará el monto del impuesto trasladado a los mencionados contribuyentes, que resulte de la documentación que reúna los requisitos fiscales establecidos en esta Ley.
+
+###### ARTICULO QUINTO.
+
+Los contribuyentes que a partir del 1o. de enero de 1979, adquieran bienes destinados a formar parte de su activo fijo, podrán acreditar el 50 % del impuesto federal sobre ingresos mercantiles causado en el momento en que dichos bienes les fueren enajenados contra el impuesto al valor agregado que deban pagar, de acuerdo con esta Ley.
