@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-la-paz-baja-california-212
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2001-03-31"
+last_updated: "2002-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de marzo de 2001.
 
@@ -121,9 +121,11 @@ Para efectos de esta Ley y demás disposiciones legales vigentes en el Municipio
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 15.
 
-Los impuestos se liquidarán y pagarán de conformidad con las tarifas, tasas o cuotas que al efecto señala la presente Ley para el Municipio de La Paz, los cuales serán los siguientes:
+Los Impuestos se liquidarán y pagarán de conformidad con las tarifas, tasas o cuotas que al efecto señale la presente Ley para el Municipio de La Paz, los cuales serán los siguientes:
 
 I. Impuesto predial
 
@@ -134,6 +136,10 @@ III. Impuesto sobre diversiones y espectáculos públicos
 IV. Impuesto sobre juegos permitidos, rifas y loterías
 
 V. Impuesto adicional
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+VI. Impuesto sobre Urbanización
 
 ### CAPÍTULO II. IMPUESTO PREDIAL
 
@@ -185,39 +191,47 @@ Son sujetos por deuda ajena y responsabilidad solidaria, los propietarios de pre
 
 Son sujetos por deuda ajena y con responsabilidad los servidores públicos y empleados municipales, que indebidamente alteren los datos que sirvan de base para el cobro del impuesto Predial, o que posibiliten la evasión fiscal deliberadamente o bien, que expidan constancia de no existencia de adeudos fiscales, sin cerciorarse de la existencia de los mismos, sin perjuicio de las consecuencias administrativas y penales que por tales actos se deriven.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 21.
 
-El impuesto sobre la Propiedad Rústica, se causará sobre el valor catastral de los predios rústicos conforme a las siguientes tasas:
+El impuesto sobre la propiedad rústica, se causará sobre el valor catastral de los predios rústicos conforme a las siguientes tarifas:
 
-I. 10.04 al millar anual si están explotados por su dueño.
+I. 2.00 al millar anual si están explotados por su dueño.
 
-II. 19.5 al millar si no están explotados por su dueño.
+II. 2.5 al millar, si no están explotados por su dueño.
 
-En ningún caso el Impuesto Predial anual sobre la propiedad rústica será inferior a 1 salario mínimo.
+En ningún caso el Impuesto Predial anual sobre la propiedad rústica será inferior a tres salarios mínimos.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 22.
 
-El Impuesto Predial sobre la propiedad urbana se causará:
+El impuesto predial sobre la propiedad urbana se causará:
 
-I. A razón de 6.5 al millar anual sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
+I. A razón de 2 al millar anual sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
 
-II. A razón de 13 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
+II. A razón de 2.5 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
 
-III. A razón de 26 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 2.6 al millar; hasta en tanto no sea construida una edificación. La tasa no excederá de 52 al millar.
+III. A razón de 11 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 2 al millar; hasta en tanto no sea construida una edificación. La taza (sic) no excederá de 52 al millar.
 
-IV. A razón del 13 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
+IV. A razón de 5.5 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
 
-Se considerará lote baldío aquél que teniendo construcciones, éstas representen menos del 50% del valor catastral del terreno.
+Se considerará lote baldío aquel que teniendo construcciones, representen menos del 50% del valor catastral del terreno.
 
-En ningún caso el impuesto predial anual sobre la propiedad urbana deberá ser inferior a 1 salario mínimo.
+En ningún caso el impuesto predial anual sobre la propiedad urbana deberá ser inferior a 3 salarios mínimos.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 23.
 
-El Impuesto Predial se cubrirá en las Oficinas Recaudadoras correspondientes:
+El Impuesto Predial se cubrirá en las oficinas recaudadoras correspondientes:
 
-I. Sobre la propiedad urbana, rústica y las plantas de beneficio, establecimientos metalúrgicos, por bimestres adelantados en los primeros diez días de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-Si el impuesto anual equivale a 1 salario mínimo en el caso de la propiedad rústica y a 1 salario mínimo en el caso de la propiedad urbana, deberá cubrirse en una sola exhibición dentro del mes de enero del año que corresponda.
+I. Sobre la propiedad urbana, rústica y las plantas de beneficio, establecimientos metalúrgicos, por bimestres adelantados en los primeros días de los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre.
+
+Si el impuesto anual equivale a 3 salarios mínimos en el caso de la propiedad rústica y a 3 salarios mínimos en el caso de la propiedad urbana, deberá cubrirse en una sola exhibición dentro del mes de Enero del año que corresponda.
 
 II. El Ayuntamiento podrá decidir que otra instancia distinta a la municipal recaude lo relativo al impuesto predial, en parcialidades de forma mensual y/o bimestral, en las cuales se pagará lo correspondiente a la doceava y/o sexta parte del monto anual que resulte de la tasa fijada en esta Ley, de acuerdo al valor comercial; dichos pagos se realizarán dentro de los primeros 10 días de cada mes.
 
@@ -907,7 +921,27 @@ IV. Otorgamiento de claves catastrales, por cada una 1.5 salarios mínimos
 
 V. Por búsqueda de datos para proporcionar información económica y/o certificado por predio 1.5 salario mínimo.
 
-VI. Por deslindes o levantamientos prediales que se realicen a solicitud de particulares, de acuerdo con el tiempo en los que se ejecuten los trabajos relativos 3 salarios mínimos en adelante.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+VI. Por deslindes o levantamientos prediales que se realicen a solicitud de particulares, de acuerdo con el tiempo en los que se ejecuten los trabajos, ubicación superficie y distancia en la que se ubiquen los predios:
+
+a) En la zona urbana:
+
+Hasta 450 m2. 6 salarios mínimos
+
+De 451 m2 hasta 900 m2. 12 salarios mínimos
+
+De 901 m2 hasta 10,000 m2 (01 hectárea). 60 salarios mínimos
+
+De 10,001 m2 en adelante. 60 a 77 salarios mínimos
+
+b) Predios rústicos y accidentados de mas de 4 puntos:
+
+01 Hectárea. 77 salarios mínimos
+
+10 Hectáreas. 154 salarios mínimos
+
+De 11 hasta 50 Hectáreas 231 salarios mínimos
 
 VII. Por expedición de coordenadas UTM de 5 salarios mínimos en adelante
 
@@ -1127,9 +1161,11 @@ II. Por defunción
 
 III. Por reconocimiento
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 84.
 
-Los actos del Registro Civil de Matrimonio que se levanten en sus Oficinas en horas hábiles, se cubrirán con un salario mínimo.
+Los actos del Registro Civil de Matrimonio que se levanten en sus Oficinas en horas hábiles, se cubrirán con tres salarios mínimos.
 
 ###### Artículo 85.
 
@@ -1151,7 +1187,9 @@ III. Matrimonios:
 
 a) En horas inhábiles en la oficina. 5 salarios mínimos
 
-b) Fuera de las oficinas. 5 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+b) Fuera de las oficinas. 15 salarios mínimos
 
 c) Registro de matrimonios contraído por extranjeros en horas hábiles en la oficina. 2 salarios mínimos
 
@@ -1275,13 +1313,19 @@ TARIFAS:
 
 I. A quienes tengan contratado un seguro funerario con este organismo pagarán:
 
-a. Por suscripción de contrato 1.5 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-b. Por cuota mensual para vigencia del contrato 0.5 del salario mínimo
+a. Por suscripción de contrato 2.6 salarios mínimos
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+b. Por cuota mensual para vigencia del contrato 0.67 del salario mínimo
 
 El pago por los derechos a que se refieren los dos incisos anteriores comprenden:
 
-1. Un ataúd metálico de costo no mayor de 26 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+1. Un ataúd metálico de costo no mayor de 49.8 salarios mínimos
 
 2. Preparación de cadáver
 
@@ -1291,15 +1335,19 @@ El pago por los derechos a que se refieren los dos incisos anteriores comprenden
 
 5. Servicio de carroza fúnebre local
 
-6. 10 mensajes en una radiodifusora local
+6. (DEROGADO, B.O. 31 DE DICIEMBRE DE 2002)
 
 Los derechos derivados del contrato de seguro surtirán efectos una vez transcurridos 30 días de la suscripción, el pago de las mensualidades deberá efectuarse dentro de los primeros 15 días de cada mes. Bastará la falta de pago de 1 mensualidad para la suspensión de los derechos por un periodo de 30 días.
 
 II. A quienes soliciten los servicios funerarios y no cuenten con contrato de seguro funerario, se les aplicará la siguiente tarifa:
 
-a) Fosa de 2 metros a perpetuidad 3 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-b) Fosa de 1.20 metros a perpetuidad 2 salarios mínimos
+a) Fosa de 2 metros a perpetuidad 46 salarios mínimos
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+b) Fosa de 1.20 metros a perpetuidad 21.3 salarios mínimos
 
 c) En los servicios adicionales se cobrará de acuerdo a la siguiente tarifa:
 
@@ -1315,29 +1363,67 @@ c) En los servicios adicionales se cobrará de acuerdo a la siguiente tarifa:
 
 d) Fosa común exenta
 
-e) Servicios funerarios con ataúd: 120 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-metálico con costo no mayor de 26 salarios mínimos, servicio de: preparación de cuerpo, sala de velación, carroza fúnebre local y fosa de 1 gaveta ademada.
+e) Servicios funerarios con ataúd metálico con costo no mayor de 49.8 salarios mínimos, servicio de preparación de cuerpo, sala de velación, carroza fúnebre local y fosa de una gaveta ademada: 140 salarios mínimos
 
-f) Servicios funerarios sin ataúd: 94 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-con servicio de: preparación de cuerpo, sala de velación, carroza fúnebre local y fosa de 1 gaveta ademada
+f) Servicios funerarios sin ataúd: con servicio de: Preparación de cuerpo, sala de velación, Carroza fúnebre local y fosa de una gaveta Ademada: 114 salarios mínimos
 
-III. Servicios adicionales
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+III. Servicios Adicionales
 
 Servicio funerario sin ataúd, traslado Fuera del Estado 100 salarios mínimos
 
-b) Traslados terrestres en carroza fúnebre 0.25 del salario mínimo por kilómetro
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+b) Traslados terrestres en carroza fúnebre 0.31 del salario mínimo por kilómetro
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 c) Servicios de cremación:
 
-Completa para adulto 80 salarios mínimos
+Completa para adulto 100 salarios mínimos
 
-Por miembro amputado 30 salarios mínimos
+Por miembro amputado 47 salarios mínimos
 
-Completa para infante 30 salarios mínimos
+Completa para infante 47 salarios mínimos
 
 d) Alquiler de nichos por diez años 60 salarios mínimos
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+e)Venta de ataúdes:
+
+Venta de ataúd metálico. 49.8 salarios mínimos
+
+Ataúd medida especial para infante de 0.60 metros. 18.5 salarios mínimos
+
+Ataúd medida especial para infante de 1.20 metros. 21 salarios mínimos
+
+Ataúd medida especial para infante de 1.40 metros. 23 salarios mínimos
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+f) Preparación de cuerpos:
+
+Cuerpo de Adulto. 25 salarios mínimos
+
+Cuerpo de Infante. 15 salarios mínimos
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+g) Renta de carroza local. 15 salarios mínimos
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+h) Renta de salas de velación:
+
+Sala de velación principal por 24 horas. 50 salarios mínimos
+
+Sala de velación por 24 horas. 36 salarios mínimos
 
 ### CAPÍTULO X. SERVICIOS DE RASTROS
 
@@ -1375,17 +1461,19 @@ II. Más de 10 cabezas 1 salario mínimo por traslado
 
 ### CAPÍTULO XI. ALINEAMIENTO DE PREDIOS, NÚMEROS OFICIALES Y MEDICIÓN DE TERRENOS
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 100.
 
 El alineamiento de predios sobre vía pública y la expedición de número oficial, causarán derechos conforme a la siguiente:
 
 TARIFA:
 
-I. Hasta 20 metros lineales 2 salarios mínimos
+Hasta 20 metros lineales. 3 salarios mínimos
 
-II. Por metro lineal adicional 0.1 del salario mínimo
+Por metro lineal adicional. 10% del salario mínimo
 
-III. Por la expedición del número oficial 0.5 del salario mínimo.
+Por la expedición del número oficial. 1 salario mínimo.
 
 ###### Artículo 101.
 
@@ -1525,39 +1613,73 @@ El servicio extraordinario de seguridad pública para eventos especiales causar�
 
 ### CAPÍTULO XIV. DE ASEO, LIMPIA, RECOLECCIÓN, TRASLADO, TRATAMIENTO Y DISPOSICIÓN FINAL DE BASURA
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 116.
 
-Es objeto de este derecho el servicio que por recolección de basura presta el Municipio de La Paz a los establecimientos comerciales, industriales, hoteles, restaurantes, hospitales privados, oficinas administrativas o de prestación de servicios. Los sujetos de estos derechos pagarán con base en el volumen y basura que generen, teniendo la obligación de celebrar convenio con la Tesorería General Municipal a través de la unidad administrativa que ésta designe. La forma de pago será anualizada, por anticipado en el mes de enero del ejercicio fiscal correspondiente y simultánea a la inscripción en el padrón fiscal de contribuyentes, de acuerdo a la siguiente:
+Es objeto de este derecho el servicio que por recolección de basura presta el Municipio de La Paz a los establecimientos comerciales, industriales, hoteles, restaurantes, hospitales privados, oficinas administrativas o de prestación de servicios. Los sujetos de estos derechos pagarán en base a la frecuencia de recolección que necesiten y al volumen que generen de basura, teniendo la obligación de celebrar convenio con la Tesorería General Municipal, a través de la Dirección de Servicios Públicos Municipales. La forma de pago será mensual o anual cuando la empresa así lo requiera, de acuerdo a la siguiente:
 
 TARIFA
 
-a) Pequeño comercio que no genere alimentos como misceláneas 1 salario mínimo al mes
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-b) Negocios que generen alimentos como pequeños restaurantes, fondas, puestos fijos y semifijos de alimentos De 6 salarios mínimos al mes
+a) Pequeño comercio que no genere alimentos como misceláneas. De 1 a 4 salarios mínimos al mes cuando el servicio sea de 2 veces a la semana. De 6 a 8 salarios mínimos al mes cuando el servicio sea diario
 
-c) Restaurantes, almacenes comerciales, industriales, bancos, hospitales, sanatorios, laboratorios, casas de huéspedes y similares, sin incluir los desechos tóxicos biológicos De 11 hasta 16 salarios mínimos al mes
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+b) Negocios que generen alimentos como pequeños restaurantes, fondas, puestos fijos y semifijos de alimentos. De 1 a 6 salarios mínimos al mes cuando el servicio sea de 2 veces a la semana. De 6 a 8 salarios mínimos al mes cuando el servicio sea diario.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+c) Restaurantes, almacenes comerciales, industriales, bancos, hospitales, sanatorios, laboratorios, casas de huéspedes y similares, sin incluir los desechos tóxicos Biológicos. De 16 a 25 salarios mínimos al mes cuando el servicio sea de 2 veces a la semana. De 26 a 40 salarios mínimos al mes cuando el servicio sea diario.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 d) Moteles y Hoteles:
 
-1. Hasta 25 habitaciones 11 salarios mínimos
+Cuando la frecuencia sea de 2 veces a la semana:
 
-2. Hasta 50 habitaciones 20 salarios mínimos
+1. Hasta 25 habitaciones 15 salarios mínimos al mes
 
-3. Hasta 99 habitaciones 30 salarios mínimos
+2. Hasta 50 habitaciones 25 salarios mínimos al mes
 
-4. De 100 o más habitaciones 40 salarios mínimos
+3. Hasta 99 habitaciones 40 salarios mínimos al mes
 
-e) Maquiladoras 30 salarios mínimos al mes.
+4. De 100 o más habitaciones 50 salarios mínimos al mes
 
-f) Salones de baile o de fiestas:
+Cuando la frecuencia sea diaria se cobrará de 60 a 100 salarios mínimos mensuales
 
-1. Hasta de 200 personas 11 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-2. Hasta de 500 personas 20 salarios mínimos
+e) Maquiladoras 50 salarios mínimos mensuales cuando sea 2 veces por semana. De 60 a 100 salarios mínimos mensuales cuando sea diaria.
 
-3. Mas de 500 personas 30 salarios mínimos
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+f) Salones de baile o fiestas:
+
+1. Hasta de 200 personas 11 salarios mínimos por servicio.
+
+2. Hasta de 300 personas 20 salarios mínimos por servicio.
+
+3. Mas de 500 personas 30 salarios mínimos por servicio.
 
 g) Aquellos propietarios de giros comerciales que tiren sus propios residuos en el relleno sanitario propiedad del Municipio. 20 centavos por kilogramo
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+h) Empresas particulares que se dediquen a realizar el servicio de recolección de basura a comercios, establecimientos, colonias, e.t.c., con fines lucrativos y tiren los residuos en el relleno sanitario propiedad del Municipio de La Paz. de 15 a 100 salarios mínimos mensuales
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+i) Servicio especial de recolección de basura con limpieza a instalaciones, comercios, embarcaciones, etcétera. De 15 a 50 salarios mínimos por servicio
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+j) Personas que se encuentren infragantes, tirando basura, escombro y demás, fuera del relleno sanitario, como arroyos, calles, caminos vecinales. 100 salarios mínimos
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+k) Establecimientos comerciales, industriales y de servicios, que saquen la basura los días que no les toca el servicio o después que la unidad recolectora realiza su recorrido. 1 a 50 salarios mínimos
 
 ### CAPÍTULO XV. POR SERVICIOS DE INSPECCIÓN MUNICIPAL
 
@@ -1573,7 +1695,9 @@ Por la ocupación de la vía pública, el Ayuntamiento se reservará la facultad
 
 TARIFA:
 
-I. Automóviles de sitio o taxis por metro lineal anualmente 1 salarios mínimos
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+I. Automóviles de sitio o taxis por metro Lineal anualmente. 3 salarios mínimos dentro del primer cuadro de la ciudad. 2 salarios mínimos fuera del primer cuadro de la ciudad.
 
 II. Estacionamientos para particulares que vivan junto al estacionamiento solicitado, por metro lineal, anualmente. 4 salarios mínimos
 
@@ -1587,7 +1711,9 @@ VI. Ubicación de aparatos que funcionen con Monedas, fichas, tarjetas u otras s
 
 VII. Instalación de puestos:
 
-a) Semifijos por m2 de 0.26 del salario mínimo diario hasta 0.75 del salario mínimo diario
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+a) Semifijos por metro cuadrado Hasta 4 m2, 0.26 del salario mínimo diario. De 4.01 m2 en adelante, 0.75 del salario mínimo diario.
 
 b) Ambulantes 0.25 del salario mínimo diario
 
@@ -1641,9 +1767,11 @@ El periodo de refrendo de licencias, tanto en giros como en anuncios, se iniciar
 
 En los casos de cambio de denominación o razón social, domicilio o actividad, sucesión de derechos y obligaciones o clausura de actividades, los contribuyentes están obligados a devolver las licencias a la Tesorería General Municipal, simultáneamente al aviso correspondiente. El incumplimiento de esta disposición será sancionado con multa de 3 a 50 salarios mínimos.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 127.
 
-Todo establecimiento comercial con venta y/o consumo de bebidas alcohólicas que no cubran los derechos a que se refiere el artículo 139, se harán acreedores a las sanciones que prevé el artículo 122, ambos de esta ley.
+Todo establecimiento comercial con venta y/o consumo de bebidas alcohólicas que no cubran los derechos a que se refiere el artículo 139, se harán acreedores a las sanciones que prevé el artículo 121, ambos de esta ley.
 
 ###### Artículo 128.
 
@@ -1769,9 +1897,11 @@ Para efectos de cambio de actividad o giro comercial, razón social y nombre com
 
 Para efectos de la autorización de horario extraordinario para el funcionamiento de establecimientos con venta y/o consumo de bebidas alcohólicas, se causarán derechos de 1 a 6 salarios mínimos diarios por hora para lo cual deberán especificarse en la tabla tarifaria que determine la autoridad municipal.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 140.
 
-Por el otorgamiento de permisos eventuales para el funcionamiento de establecimientos para el almacenaje, distribución, venta y/o consumo de bebidas alcohólicas por día, se causarán derechos conforme a lo que determina el artículo 133 fracción II de la presente Ley.
+Por el otorgamiento de permisos eventuales para el funcionamiento de establecimientos para el almacenaje, distribución, venta y/o consumo de bebidas alcohólicas por día, se causarán derechos conforme a lo que determina el artículo 136 fracción III, inciso a), de la presente Ley.
 
 ###### Artículo 141.
 
@@ -1853,6 +1983,8 @@ IX. Productos diversos
 
 ### CAPITULO III. ALMACENAJE DE VEHÍCULOS EN LOS CORRALONES DE DEPÓSITO MUNICIPALES
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 152.
 
 La venta de bienes muebles e inmuebles pertenecientes al Municipio, sólo podrá llevarse a cabo en subasta pública al mejor postor. La postura deberá ascender como mínimo a las dos terceras partes del valor comercial del bien fijado por avalúo pericial ordenado por el Ayuntamiento.
@@ -1873,7 +2005,7 @@ Los bienes de uso común o destinados al servicio del Municipio, no podrán ser 
 
 ###### Artículo 155.
 
-Los propietarios de los vehículos de todo tipo que sean almacenados en los terrenos o corralones de depósito del Municipio, pagarán la cantidad equivalente a un salario mínimo, por cada día de almacenaje, a partir del onceavo día de su ingreso, siempre y cuando el vehículo esté a disposición del propietario.
+Los propietarios de los vehículos de todo tipo que sean almacenados en los terrenos o corralones de depósito del Municipio, pagarán la cantidad equivalente al 0.25 de un salario mínimo, por cada día de almacenaje, a partir del onceavo día de su ingreso, siempre y cuando el vehículo esté a disposición del propietario.
 
 ### CAPÍTULO V. VENTA DE SOLARES PROPIEDAD DEL MUNICIPIO Y EXPEDICIÓN DE TÍTULOS DE PROPIEDAD
 
@@ -2260,3 +2392,9 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 SECRETARIO GENERAL DE GOBIERNO
 
 C. LIC. VÍCTOR MANUEL GULUARTE CASTRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 31 DE DICIEMBRE DE 2002.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
