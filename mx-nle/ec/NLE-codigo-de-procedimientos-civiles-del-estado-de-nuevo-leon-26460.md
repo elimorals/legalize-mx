@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1997-07-21"
+last_updated: "1998-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -1497,9 +1497,11 @@ En el primer caso del artículo 191, si el arraigo de una persona para que conte
 
 también el demandado durante la substanciación del juicio podrá pedir el arraigo del actor, que se decretará en los mismos términos del artículo que antecede.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 1998)</small>
+
 ###### Artículo 195.
 
-El que quebrantare el arraigo, será castigado con la pena que señala el Código Penal al delito de desobediencia a un mandato legítimo de la autoridad pública, sin perjuicio de ser compelido, por los medios de apremio que corresponda, a volver al lugar del juicio. En todo caso se seguirá éste según su naturaleza conforme a las reglas comunes.
+Al que quebrante el arraigo, se le aplicará la sanción que señala el Código Penal, sin perjuicio de ser compelido, por los medios de apremio que correspondan, a volver al lugar del juicio. En todo caso se seguirá éste según su naturaleza conforme a las reglas comunes.
 
 Las notificaciones subsecuentes, en caso de que se ausente, se harán en los términos de la parte final del artículo 75 de este Código.
 
@@ -7189,7 +7191,7 @@ P.O. 24 DE AGOSTO DE 1977.
 
 PRIMERO.- Las presentes reformas entrarán en vigor el día primero de diciembre del presente año.
 
-SEGUNDO.-Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
+SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
 
 a).- Cada juzgado formulará el inventario de los citados asuntos.
 
@@ -7384,3 +7386,7 @@ El presente Decreto entrará en vigor a los treinta días siguientes contados a 
 ###### ARTÍCULO SEGUNDO.
 
 Las demandas presentadas, los juicios que estén en trámite en primera o segunda instancia, o en su etapa de ejecución al entrar en vigor el presente Decreto, se seguirán rigiendo por las normas anteriores.
+
+P.O. 24 DE JUNIO DE 1998.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
