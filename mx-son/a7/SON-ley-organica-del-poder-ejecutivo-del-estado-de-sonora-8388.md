@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "1992-12-17"
+last_updated: "1993-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE ABRIL DE 1993.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -429,9 +429,9 @@ XIV.- Efectuar los estudios técnicos catastrales, fijar los valores de los pred
 
 XV.- Organizar y vigilar el ejercicio de las funciones del Registro Público de la Propiedad, sin perjuicio de las atribuciones constitucionales del Ministerio Público.
 
-> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, B.O. 22 DE ABRIL DE 1993)</small>
 
-XVI.- Determinar y conducir la política inmobiliaria de la administración pública estatal y manejar el inventario de los bienes inmuebles del Estado y mantener al corriente el avalúo de los mismos.
+XVI.- Determinar y conducir la política inmobiliaria de la administración pública estatal y manejar el inventario de los bienes inmuebles del Estado y mantener al corriente el avalúo de los mismos. Asimismo, ejecutar las obras necesarias para la conservación y el mejoramiento de los edificios y monumentos de la competencia del Gobierno del Estado.
 
 > <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
@@ -459,15 +459,23 @@ II.- Examinar y verificar el ejercicio del gasto público estatal y su congruenc
 
 III.- Expedir las normas que regulen el funcionamiento de los instrumentos y procedimientos de control de la administración pública estatal. La Secretaría, discrecionalmente, podrá requerir de las dependencias y entidades la instrumentación de normas complementarias para el ejercicio de facultades que aseguren el control.
 
-IV.- Verificar y comprobar el cumplimiento de las normas de control, así como asesorar y apoyar a los órganos de control interno de las dependencias y entidades de la administración pública estatal.
+> <small>(REFORMADA, B.O. 22 DE ABRIL DE 1993)</small>
 
-V.- Establecer las bases generales que normen la realización de auditorías en las dependencias y entidades de la administración pública estatal, así como realizar las auditorías que se requieran a dichas dependencias y entidades, en sustitución o apoyo de sus propios órganos de control.
+IV.- Verificar y comprobar el cumplimiento de las normas de control, así como asesorar y apoyar a los órganos de control interno de las entidades de la Administración Pública Estatal.
+
+> <small>(REFORMADA, B.O. 22 DE ABRIL DE 1993)</small>
+
+V.- Establecer las bases generales que normen la realización de auditorías en las dependencias y entidades de la Administraci6n Pública Estatal, así como realizar las auditorías que se requieran a dichas dependencias y entidades, en estas últimas, en sustitución o apoyo a sus propios Órganos de control.
 
 VI.- Comprobar el cumplimiento, por parte de las dependencias y entidades de la administración pública estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamientos, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado del Poder Ejecutivo.
 
-VII.- Realizar por sí, o a través de los órganos de control interno, auditorías a las dependencias y entidades de la administración pública estatal, con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas.
+> <small>(REFORMADA, B.O. 22 DE ABRIL DE 1993)</small>
 
-VIII.- Verificar y comprobar directamente, o a través de los órganos de control interno, que las dependencias y entidades de la administración pública estatal cumplan, en su caso, con las normas y disposiciones en materia de: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, control, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, concesiones, almacenes y demás activos y recursos materiales de la administración pública estatal.
+VII.- Realizar auditarías a las dependencias y entidades de la Administración Pública Estatal, con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas, pudiendo en el caso de las entidades, llevar a cabo las auditarías de referencia, a través de sus órganos de control interno.
+
+> <small>(REFORMADA, B.O. 22 DE ABRIL DE 1993)</small>
+
+VIII.- Verificar y comprobar que las dependencias y entidades de la Administración Pública Estatal cumplan, en su caso, con las normas y disposiciones en materia de: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, control, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, concesiones, almacenes y demás activos y recursos materiales de la Administración Pública Estatal, pudiendo en el caso de las entidades, llevar a cabo dicha verificación y comprobación, a través de sus órganos de control interno.
 
 IX.- Coordinarse con los órganos correspondientes de los Poderes Legislativo y Judicial del Estado, y con las dependencias y entidades de la administración pública estatal, para el eficaz cumplimiento de sus atribuciones.
 
@@ -651,9 +659,7 @@ XII.- Realizar, en los términos de los acuerdos de coordinación que se celebre
 
 XIII.- Realizar obras públicas, directamente o a través de terceros, en los términos de la Ley de Obras Públicas del Estado de Sonora y demás disposiciones aplicables.
 
-> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 1992)</small>
-
-XIV.- Ejecutar las obras necesarias para la conservación y el mejoramiento de los edificios y monumentos, de competencia del Gobierno del Estado.
+XIV.- (DEROGADA, B.O. 22 DE ABRIL DE 1993)
 
 XV.- Organizar y fomentar la investigación relacionada con el desarrollo urbano, la vivienda, la ecología y las comunicaciones.
 
@@ -1252,3 +1258,19 @@ Los recursos humanos, materiales y financieros que tenía asignados la fracción
 ###### ARTICULO OCTAVO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto por esta Ley.
+
+B.O. 22 DE ABRIL DE 1993.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley, entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos humanos, materiales y financieros de las unidades administrativas que integran a los órganos de control interno de las dependencias de la administración pública estatal, pasarán a la Secretaría de la Contraloría General del Estado.
+
+ARTICULO' TERCERO.- Se derogan en los diversos ordenamientos, las disposiciones que regulen a los órganos de control interno en las dependencias de la administración pública estatal.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en esta Ley.
