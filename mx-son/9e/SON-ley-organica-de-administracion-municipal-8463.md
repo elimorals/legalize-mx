@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-administracion-municipal-8463"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1984-02-02"
-last_updated: "1992-12-21"
+last_updated: "1993-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DE ADMINISTRACION MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 21 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE ABRIL DE 1993.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el jueves 2 de febrero de 1984.
 
@@ -307,11 +307,15 @@ d) Prever las necesidades de tierra para vivienda y para el desarrollo urbano e 
 
 e) Participar en la ejecución de programas de regularización de tenencia de suelo urbano.
 
-f) Vigilar la aplicación de normas y programas que se establezcan para la protección o restitución de los Sistemas Ecológicos.
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+
+f) Llevar a cabo las acciones, programas y políticas que al efecto, la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora le establece, y expedir los reglamentos, las circulares y demás disposiciones de observación general que resulten necesarios para dar cumplimiento a lo establecido en la Ley de referencia y dentro de su jurisdicción, siendo ésta, la base normativa para la expedición de las disposiciones jurídicas mencionadas;
 
 g) Cuidar los recursos naturales y turísticos de su circunscripción territorial.
 
-h) Resolver, conforme a la ley, las cuestiones relacionadas con los problemas de los núcleos de población ejidal y de bienes comunales, en lo que no corresponda a otras autoridades.
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+
+h).- Intervenir en los términos que establece la Ley Agraria, en la localización, deslinde y fraccionamiento de la zona de urbanización de las tierras ejidales destinadas al asentamiento humano y tener preferencia para adquirir las tierras con vocación urbana que excedan de la pequeña propiedad individual;
 
 i) Vigilar la correcta aplicación de los precios y tarifas autorizadas y registradas y la prestación de servicios turísticos, conforme a las disposiciones legales aplicables.
 
@@ -339,13 +343,17 @@ b) Alumbrado Público
 
 c) Limpia
 
-d) Mercados
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+
+d).- Mercados y centrales de abasto;
 
 e) Panteones
 
 f) Rastros
 
-g) Calles, Parques y Jardines
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+
+g).- Calles, estacionamientos, parques, jardines y campos deportivos;
 
 h) Seguridad Pública y Tránsito
 
@@ -375,7 +383,7 @@ XXI.- Designar en la primera sesión que celebren en el mes de enero de cada añ
 
 > <small>(REFORMADA, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-XXII.- Someter al examen y aprobación del Congreso durante la segunda quincena del mes de noviembre de cada año, las Leyes de Ingresos y Presupuestos de Ingresos, que deberán regir en el año siguiente. Para su ejercicio, todo ingreso adicional o excedente que reciba el Ayuntamiento, deberá ser autorizado previamente por el Congreso del Estado.
+XXII.- Someter al examen y aprobación del Congreso durante la segunda quincena del mes de noviembre de cada año, las Leyes de Ingresos y Presupuestos de Ingresos, que deberán regir en el año siguiente. Para su ejercicio, todo ingreso adicional o excedente que reciba el Ayuntamiento,, deberá ser autorizado previamente por el Congreso del Estado.
 
 XXIII.- Aprobar, con base en las contribuciones y demás ingresos que determine anualmente el Congreso, sus Presupuestos de Egresos y publicarlos en el Boletín Oficial del Gobierno del Estado de Sonora.
 
@@ -429,6 +437,10 @@ XLVII.- Rendir a la población por conducto del Presidente Municipal, un informe
 
 XLVIII.- Aplicar las sanciones por infracciones a los Bandos de Policía y Buen Gobierno y demás Reglamentos Municipales, con base en lo que establezca esta ley y dichos ordenamientos.
 
+> <small>(ADICIONADO, B.O. 26 DE ABRIL DE 1993)</small>
+
+Cuando en los Ayuntamientos de los Municipios, no existan Jueces Calificadores, las funciones que las leyes de la materia confieren a éstos, podrán ser ejercidas por el Secretario del Ayuntamiento;
+
 XLIX.- Resolver los recursos interpuestos en contra de los acuerdos dictados por las autoridades municipales o por el propio Ayuntamiento, sin perjuicio de lo dispuesto en las leyes fiscales.
 
 L.- Las demás que les señalen la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Sonora, esta Ley y demás ordenamientos jurídicos.
@@ -481,7 +493,9 @@ IV.- Concurrir a las reuniones generales o regionales de Presidentes Municipales
 
 V.- Celebrar, a nombre del Ayuntamiento y por acuerdo de éste, todos los actos y contratos necesarios para el despacho de los asuntos administrativos y la atención de los servicios públicos municipales.
 
-VI.- Vigilar e inspeccionar las Dependencias Municipales cerciorándose de que funcionen correctamente y someter a la consideración del Ayuntamiento, las medidas que estime necesarias para el mejor funcionamiento de las mismas.
+> <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
+
+VI.- Controlar, vigilar y evaluar a las dependencias y entidades paramunicipales, en los términos previstos en esta Ley.
 
 VII.- Nombrar al Secretario y Tesorero de la Corporación Municipal y someter los nombramientos a la aprobación del Ayuntamiento.
 
@@ -505,7 +519,9 @@ XVI.- Vigilar y preservar el patrimonio cultural e histórico del Municipio.
 
 XVII.- Formar y actualizar el catastro y padrón municipal, cuidando de que se inscriban en este último todos los vecinos, expresando su nombre, edad, estado civil, nacionalidad, residencia, domicilio, propiedades, profesión, actividad productiva o trabajo de que subsistan, si son jefes de familia, en cuyo caso, se expresará el número y sexo de las personas que la formen.
 
-XVIII.- (DEROGADA, B.O. 21 DE DICIEMBRE DE 1992)
+> <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
+
+XVIII.- Ser auxiliar de la federación en la aplicación de la Ley de asociaciones Religiosas y Culto Público, reglamentaria de los artículos 24 y 130 constitucionales, debiendo recibir los avisos respecto a la celebración de actos religiosos y culto público con carácter extraordinario fuera de los templos y ejercer sus facultades al respecto. De igual manera, registrar los tiempos que existan o se abran al culto religioso, así como a los encargados de los mismos, y sus cambios, notificando de todo lo actuado a la Secretaría de Gobernación por conducto del Gobernador del Estado;
 
 XIX.- Ejercer las atribuciones que en el ramo de mostrencos les confieran.
 
@@ -517,7 +533,7 @@ XXII.- Promover la comunicación social.
 
 XXIII.- Ejercer funciones de conciliación buscando la armonía de la vida comunitaria.
 
-XXIV.- Intervenir en la forma y términos señalados en el Código Civil, en los actos del estado civil de las personas, informando al Ejecutivo del Estado de las deficiencias que observaren para proceder a su corrección.
+XXIV.- (DEROGADA, B.O. 26 DE ABRIL DE 1993)
 
 XXV.- Auxiliar, previa solicitud, a quienes ejerzan la patria potestad en el desempeño de ésta, de conformidad con las prevenciones legales del caso.
 
@@ -535,7 +551,9 @@ XXXI.- Amonestar e impedir a los extranjeros que se inmiscuyan en asuntos polít
 
 XXXII.- Impartir a la autoridad judicial el auxilio que demande para hacer efectivas sus resoluciones; aprehender a los delincuentes en flagrante delito y decretar bajo su más estricta responsabilidad, en casos urgentes, cuando no exista en el lugar ninguna autoridad judicial y se trate de delitos que se persigan de oficio, la detención de un acusado, poniéndolos en ambos casos y sin demora, a disposición de la autoridad judicial inmediata.
 
-XXXIII.- Imponer las sanciones en los términos que señalen las leyes, los Bandos de Policía y Buen Gobierno y demás ordenamientos jurídicos.
+> <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
+
+XXXIII.- Imponer las sanciones en los términos que señalen las leyes y demás ordenamientos jurídicos;
 
 XXXIV.- Las demás que se establecieren en esta u otras leyes y reglamentos.
 
@@ -599,15 +617,17 @@ I.- La procuración, defensa y promoción de los intereses municipales.
 
 II.- La representación legal de los Ayuntamientos en las controversias o litigios en que éstos fueren parte.
 
-III.- La revisión y firma de los estados de origen y aplicación de fondos y la vigilancia del ejercicio de los Presupuestos de Ingresos y Egresos.
+> <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
+
+III.- La revisión y firma de los estados de origen y aplicación de fondos;
 
 IV.- Intervenir en la formulación del inventario de bienes muebles e inmuebles, propiedad del Municipio, haciendo que éstos se inscriban, con la expresión de sus valores, sus características de identificación y su destino.
 
-V.- Vigilar que el inventario a que se refiere la Fracción anterior, esté siempre actualizado, haciéndose constar las altas y bajas tan luego como ocurran y cuidando que dicho inventario se verifique cada vez que lo juzgue conveniente el Ayuntamiento.
+V.- (DEROGADA, B.O. 26 DE ABRIL DE 1993)
 
 VI.- Realizar las gestiones necesarias a fin de que todos los actos traslativos de dominio en que el Ayuntamiento sea parte, así como las declaratorias de Incorporación y Desincorporación de bienes inmuebles municipales se encuentren debidamente inscritas en el Registro Público de la Propiedad, dentro de los quince días siguientes a la fecha en que se realice.
 
-VII.- Verificar que los funcionarios y empleados municipales cumplan con la declaración de situación patrimonial a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+VII.- (DEROGADA, B.O. 26 DE ABRIL DE 1993)
 
 VIII.- Mantener actualizado, en los términos del Artículo 115 de esta Ley, el registro de todas las enajenaciones que realice el Ayuntamiento.
 
@@ -797,9 +817,9 @@ e) El programa financiero mediante el cual se manejará la deuda pública munici
 
 XI.- Organizar el funcionamiento de la unidad de auditoria interna.
 
-XII.- Auditar a las entidades que conforman la Administración Pública Paramunicipal.
+XII.-(DEROGADA, B.O. 26 DE ABRIL DE 1993)
 
-XIII.- Organizar y establecer el Sistema de Control del Gasto Público Municipal y expedir en los mismos términos, las normas que regulen el funcionamiento de los instrumentos y procedimientos de dicho Sistema, previa aprobación del Ayuntamiento.
+XIII.- (DEROGADA, B.O. 26 DE ABRIL DE 1993)
 
 XIV.- Diseñar y mantener actualizado un Sistema de Información y Orientación Fiscal para los contribuyentes de ingresos municipales.
 
@@ -883,9 +903,11 @@ f) Otras que tengan relación con la empresa.
 
 Corresponde al Ayuntamiento, por conducto del Presidente Municipal, la coordinación, planeación, supervisión, control y evaluación de las operaciones que realicen las entidades que integran la Administración Pública Paramunicipal.
 
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 71.
 
-En todas las entidades del sector paramunicipal existirá un Comisario designado por el propio Ayuntamiento, quien deberá llenar los mismos requisitos que se requieren para ser Tesorero.
+En todas las entidades del sector paramunicipal existirá un Comisario Público, el cual será designado conforme a los que establece esta Ley.
 
 ###### ARTICULO 72.
 
@@ -985,11 +1007,31 @@ Asimismo, las modificaciones al Presupuesto de Egresos que autorice el Ayuntamie
 
 El Gasto Público Municipal comprende las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como pago de pasivos o deuda pública que realicen las dependencias de la Administración Pública Municipal Directa y Paramunicipal.
 
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 87.
 
-Los Ayuntamientos establecerán un sistema de evaluación y control que les permita que la ejecución del Presupuesto de Egresos se haga en la forma programada.
+La Contraloría Municipal, ejercerá las siguientes funciones:
 
-Asimismo, los Ayuntamientos quedan facultados para tomar las medidas que estimen necesarias par lograr la mayor eficiencia, economía y honradez en el ejercicio de su Gasto Público, debiendo proveer lo conducente para que dicho Gasto satisfaga los objetivos a los que está destinado.
+I.- Planear, organizar, coordinar y aplicar, el Sistema Municipal de Control y Evaluación Gubernamental;
+
+II.- Analizar y verificar el ejercicio del Gasto Público Municipal y su congruencia con los presupuestos de egresos;
+
+III.- Comprobar el cumplimiento, por parte de las dependencias y entidades paramunicipales, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamientos, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado del Ayuntamiento;
+
+IV.- Verificar y comprobar directamente, que las dependencias y entidades paramunicipales cumplan, en su caso, con las normas y disposiciones en materia de: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, control, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, concesiones, almacenes y demás activos y recursos materiales de la Administración Pública Municipal;
+
+V.- Realizar auditorías a las dependencias y entidades paramunicipales, para promover la eficiencia en sus operaciones y comprobar el cumplimiento de los objetivos contenidos en sus programas;
+
+VI.- Designar a los auditores externos de las entidades paramunicipales, normar su actividad y contratar sus servicios con cargo al presupuesto de dichas entidades;
+
+VII.- Designar, en las entidades paramunicipales a los Comisarios Públicos;
+
+VIII.- Promover y verificar que los funcionarios y empleados cumplan con la declaración se situación patrimonial, a que se refiere la ley de responsabilidades de los Servidores Públicos del Estado y de los Municipios;
+
+IX.- Conocer e investigar los actos u omisiones de los servidores públicos municipales en relación con responsabilidades administrativas, aplicando las sanciones que correspondan en los términos señalados en las leyes y hacer las denuncias ante el Ministerio Público, presentándole a éste, la colaboración que fuere necesaria; y
+
+X.- Las demás que le señalen las leyes u otros ordenamientos jurídicos.
 
 ###### ARTICULO 88.
 
@@ -1518,3 +1560,13 @@ B.O. 21 DE DICIEMBRE DE 1992.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE ABRIL DE 1993.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En tanto se establecen la Contralorías Municipales que tengan a su cargo las funciones a que se refiere el artículo 87 de esta ley, éstas serán ejercidas directamente por el Presidente Municipal.
