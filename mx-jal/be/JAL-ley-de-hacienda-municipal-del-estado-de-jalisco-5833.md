@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1998-12-31"
+last_updated: "1999-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1003,7 +1003,7 @@ En los casos en que los predios urbanos baldíos cuyas áreas constituyan jardin
 
 ###### Art. 102.
 
-(DEROGADO, P.O., 27 DE DICIEMBRE DE 1997)
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1997)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
@@ -1135,7 +1135,9 @@ b) En el acto en que el fideicomitente ceda sus derechos, si entre éstos se inc
 
 XI. La división, liquidación de la copropiedad o de la sociedad conyugal o legal, por lo que se refiere a los excedentes del valor que le correspondería a la porción de cada copropietario o cónyuge;
 
-XII. Las transmisiones de la propiedad realizadas en procedimientos judiciales o administrativos;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 1999)</small>
+
+XII. Las transmisiones de la propiedad realizadas en procedimientos judiciales o administrativos, exceptuándose los casos previstos por el inciso b) de la fracción II del artículo 975 de la Ley Federal del Trabajo, en cuyo caso se les aplicará el factor 0.03 sobre el monto del impuesto de transmisiones patrimoniales que les corresponda pagar;
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
@@ -1723,6 +1725,8 @@ Quedan comprendidos dentro de este capítulo, los ingresos que obtenga el Erario
 
 Art. 194 bis. Las aportaciones federales para fines específicos que a través de los diferentes fondos le corresponden al Municipio, se percibirán en los términos que establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
+
 ###### Art. 193.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Municipio por concepto de:
@@ -1761,11 +1765,9 @@ XIII. Otros no especificados.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Municipio por concepto de Participaciones Federales y Estatales, de conformidad a lo dispuesto en las Leyes que las concedan y en los convenios que, en su caso, se celebren o se hayan celebrado.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ## TITULO SEXTO. De las Aportaciones Federales para Fines Específicos
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO UNICO. Del Gasto Público
 
@@ -2994,5 +2996,9 @@ P.O. 29 DE AGOSTO DE 1998.
 ÚNICO. Este decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 31 DE DICIEMBRE DE 1998.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE FEBRERO DE 1999.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
