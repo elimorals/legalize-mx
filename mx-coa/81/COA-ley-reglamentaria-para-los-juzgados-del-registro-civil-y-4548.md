@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-para-los-juzgados-del-registro-civil-y-4548"
 country: "mx"
 rank: "ley"
 publication_date: "1906-01-20"
-last_updated: "1947-04-05"
+last_updated: "1964-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "COA"
 ---
 # LEY REGLAMENTARIA PARA LOS JUZGADOS DEL REGISTRO CIVIL Y CAMPOS MORTUORIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+NOTA 1: [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+NOTA 2: [N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY REGLAMENTARIA DE LAS OFICIALIAS DEL REGISTRO CIVIL DEL ESTADO DE COAHUILA, PUBLICADA EN EL P.O. DE 16 DE SEPTIEMBRE DE 1964, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]
 
 LEY REGLAMENTARIA PARA LOS JUZGADOS DEL REGISTRO CIVIL Y CAMPOS MORTUORIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 1947.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 1964 (DEROGADA).
 
 Ley publicada en la versión comercial del Periódico Oficial del Estado de Coahuila, el sábado 20 de enero de 1906.
 
@@ -544,3 +546,19 @@ P.O. 5 DE ABRIL DE 1947.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO: 66 POR EL QUE "SE REFORMA EL ARTÍCULO 77 DE LA LEY REGLAMENTARIA PARA LOS JUZGADOS DEL REGISTRO CIVIL Y CAMPOS MORTUORIOS DEL ESTADO".]
 
 ARTICULO TRANSITORIO.- El Presente Decreto surtirá sus efectos a partir del día 15 de Abril próximo.
+
+P.O. 16 DE SEPTIEMBRE DE 1964.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 313.- "LEY REGLAMENTARIA DE LAS OFICIALIAS DEL REGISTRO CIVIL DEL ESTADO DE COAHUILA".]
+
+###### ARTICULO PRIMERO.
+
+Se deroga la Ley Reglamentaria de los Juzgados del Registro Civil y Campos Mortuorios de 11 de diciembre de 1,905, exclusivamente en relación con las disposiciones de los antiguos Juzgados del Registro Civil, así como todas las demás disposiciones que se opongan al cumplimiento de la presente Ley.
+
+###### ARTICULO SEGUNDO.
+
+Entre tanto se expide una nueva reglamentación para los campos mortuorios, quedan vigentes las disposiciones relativas a esa materia que se contienen en la Ley Reglamentaria mencionada en el Artículo anterior, así como las reformas que se hayan hecho a la misma, respecto de los campos mortuorios.
+
+###### ARTICULO TERCERO.
+
+Este Decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
