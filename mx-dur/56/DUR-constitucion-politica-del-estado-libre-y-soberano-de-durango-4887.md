@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1935-05-30"
+last_updated: "1935-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 1935.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -937,13 +937,15 @@ PREVENCIONES GENERALES.
 
 La Legislatura del Estado expedirá a la mayor brevedad posible las leyes sobre el trabajo y previsión social, conforme a lo dispuesto en el Art. 123 de la Constitución General de la República.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1935)</small>
+
 ###### Artículo 121.
 
-En el Estado, todos los contratos que el Gobierno o el Municipio tengan que celebrar para la ejecución de obras públicas, serán adjudicados en subasta mediante convocatoria y previa presentación de proposiciones hechas en sobre cerrado que será abierto en junta pública presidida por el Ejecutivo o el Presidente Municipal en su caso. La convocatoria será promulgada oficialmente con toda la anticipación necesaria, en particular tratándose de obras públicas que por su importancia intrínseca y trascendencia, sean de mayor utilidad para el Estado; anticipación que no podrá ser menos de seis meses para estos últimos casos, y de cuatro meses para las obras públicas de menor cuantía.
+Todos los contratos que el Gobierno y el Municipio tengan que celebrar para la ejecución de obras públicas, serán adjudicados en subasta, mediante convocatoria, y para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública.
 
-El Ejecutivo o el Municipio al remitir a la Legislatura para su discusión y aprobación la iniciativa de un contrato, de conformidad a su juicio con las mejores proposiciones hechas, la acompañará de las demás proposiciones que hubieren sido presentadas con el mismo objeto, las cuales serán pasadas juntamente con la iniciativa referida a la comisión que corresponda, a fin de que ésta dictamine con mejor conocimiento de causa.
+Las convocatorias para la ejecución de obras públicas serán decretadas por la Legislatura, ya sea a propuesta nacida en el seno de la misma, ya sea a iniciativa del Ejecutivo o del Municipio correspondiente.
 
-Las convocatorias para la ejecución de obras públicas, serán decretadas por la Legislatura, ya sea a propuesta nacida en el seno de la misma ya iniciativa del Ejecutivo del Estado o del Municipio respectivo.
+La Legislatura podrá autorizar la contratación fuera de subasta, cuando se trate de obras públicas de obvia o inmediata ejecución, previo el voto de las dos terceras partes por lo menos de los Diputados que la integran.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
 
@@ -1148,3 +1150,7 @@ La reducción de los Magistrados del Supremo Tribunal de Justicia, se efectuará
 P.O. 30 DE MAYO DE 1935.
 
 Artículo Unico:- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 1935.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
