@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-7922"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-15"
-last_updated: "1991-01-04"
+last_updated: "1994-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1994.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de San Luis Potosí, el viernes 15 de enero de 1988.
 
@@ -85,9 +85,15 @@ El fondo de contingencia se formará con el 100% del incremento que registre el 
 
 III.- Si el fondo general de participaciones no tuviera incremento con respecto al año inmediato anterior a aquel para el cual se efectúe el cálculo, el H. Congreso del Estado prorrogará los factores que hubieren correspondido a cada Municipio en ese año.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1994)</small>
+
 ###### ARTICULO 5o.
 
-(DEROGADO, P.O. 4 DE ENERO DE 1991)
+El Estado constituirá el fondo de incentivo a la recaudación fiscal en materia de contribuciones municipales con el 1% del fondo general de participaciones que percibe el Gobierno Federal.
+
+Los municipios de la Entidad, coordinados o que se coordinen con el Estado para la administración de las contribuciones, recibirán como incentivo a sus ingresos la cantidad que resulte de distribuir el 1% entre los municipios coordinados.
+
+El fondo de incentivo a la recaudación se distribuirá entre los municipios coordinados mediante la aplicación del coeficiente de participación que se determinará a cada uno de ellos conforme al número de predios que hasta el 15 de diciembre del año inmediato anterior hayan estado registrados en su Padrón Catastral.
 
 ###### ARTICULO 6o.
 
@@ -284,3 +290,9 @@ UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1990.
 P.O. 4 DE ENERO DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor el día primero de enero de 1991.
+
+P.O. 31 DE ENERO DE 1994.
+
+PRIMERO.- Se derogan y quedan sin efecto todas las disposiciones legales, acuerdos o circulares que se opongan a este Ordenamiento.
+
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
