@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2004-02-10"
+last_updated: "2004-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -124,6 +124,10 @@ XVI.- Buscar la excelencia en la calidad educativa.
 > <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2000)</small>
 
 XVII.- Impulsar la educación para la paz y la convivencia ciudadana a través de la promoción y práctica de valores éticos y solidaridad social.
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+XXVIII. Promover los principios de equidad y no discriminación.
 
 ###### ARTICULO 8o.
 
@@ -1141,7 +1145,7 @@ IV.- Planes y programas de estudios que la autoridad otorgante considere procede
 
 ###### ARTICULO 121.
 
-Los particulares que impartan servicios educativos con autorización o reconocimiento de validez oficial de estudios, deberán mencionar en la documentación que expidan y la publicidad que hagan, su calidad de autorización así como el número y fecha de acuerdo que se les concedió y el nombre de. la autoridad otorgante.
+Los particulares que impartan servicios educativos con autorización o reconocimiento de validez oficial de estudios, deberán mencionar en la documentación que expidan y la publicidad que hagan, su calidad de autorización así como el número y fecha de acuerdo que se les concedió y el nombre de la autoridad otorgante.
 
 ###### ARTICULO 122.
 
@@ -1668,3 +1672,7 @@ P.O. 10 DE FEBRERO DE 2004.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 Segundo.- Gírese atento Oficio a la Secretaría de Educación Pública para sugerir se estudie la posibilidad de incluir dentro la currícula de la educación normal la licenciatura de educación artística.
+
+P.O. 5 DE JUNIO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
