@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1946-09-08"
+last_updated: "1947-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 1947.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -287,9 +287,11 @@ Los Poderes Legislativo y Ejecutivo y el Tribunal Superior de Justicia, residir�
 
 El Poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Hidalgo". Este se compondrá de Diputados electos popularmente, uno para cada sesenta mil habitantes o fracción que pase de veinte mil. Si con esta proporción, no resultaren electos once Diputados por lo menos, la Ley Electoral dividirá al Estado en once circunscripciones de población igual, en lo posible, y cada una de ellos (sic) elegirá un Diputado.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 1947)</small>
+
 ###### Artículo 19.
 
-Para ser Diputado se requiere: ser mexicano por nacimiento; ciudadano del Estado en ejercicio de sus derechos y mayor de veinticinco años.
+Para ser Diputado se requiere:- Ser Ciudadano del Estado en ejercicio de sus derechos políticos, nacido en el territorio del mismo y mayor de veinticinco años.
 
 ###### Artículo 20.
 
@@ -1102,6 +1104,10 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 8 DE SEPTIEMBRE DE 1946.
 
 UNICO.- Estas reformas entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE NOVIEMBRE DE 1947.
+
+Unico.- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO UNICO
 
