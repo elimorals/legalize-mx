@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-7662"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-07-15"
-last_updated: "1997-03-20"
+last_updated: "1997-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 1997.
 
 Ley publicada en el Número 28 del Periódico Oficial del Estado de Querétaro, el jueves 15 de julio de 1993.
 
@@ -173,9 +173,11 @@ LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO.
 
 Las normas de esta Ley son de orden público e interés social y tienen por objeto establecer las bases de organización, administración y funcionamiento de los municipios del Estado de Querétaro, de conformidad con los mandatos de la Constitución Política de los Estados Unidos Mexicanos, la del Estado y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 2.
 
-El municipio libre es la base de la división territorial y de la organización política y administrativa del Estado de Querétaro Arteaga, investido de personalidad jurídica y patrimonio propio en los términos de los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos, 78 y 79 de la Constitución Política del Estado y 25 del Código Civil del Estado de Querétaro.
+El municipio libre es la base de la división territorial, y de la organización política y administrativa del Estado de Querétaro Arteaga, investido de personalidad jurídica y patrimonio propio en los términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y Titulo Quinto de la Constitución Política del Estado.
 
 ###### ARTICULO 3.
 
@@ -235,9 +237,11 @@ SEGUNDA. Para una más eficiente prestación de los servicios públicos se podr�
 
 TERCERA. La división territorial tenderá a desconcentrar los servicios públicos y a fortalecer la capacidad de decisión de las oficinas delegadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 9.
 
-Los Municipios del Estado, con sus respectivas Cabeceras municipales, son los siguientes:
+Los Municipios del Estado, con sus respectivas cabeceras Municipales, son los siguientes:
 
 MUNICIPIO DE AMEALCO DE BONFIL: Amealco.
 
@@ -265,7 +269,9 @@ MUNICIPIO DE PEÑAMILLER: Peñamiller.
 
 MUNICIPIO DE PINAL DE AMOLES: Pinal de Amoles.
 
-MUNICIPIO DE QUERETARO: Querétaro.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1997)</small>
+
+MUNICIPIO DE QUERETARO: Santiago de Querétaro.
 
 MUNICIPIO DE SAN JOAQUIN: San Joaquín.
 
@@ -289,23 +295,29 @@ Los centros de población de los municipios podrán tener las denominaciones de 
 
 Son habitantes de un municipio las personas que residan habitual o transitoriamente dentro de su territorio. Tendrán las prerrogativas, derechos y obligaciones señalados en la Constitución Política del Estado y en los reglamentos municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 13.
 
-Se consideran vecinos de un municipio:
+Se consideran residentes de un municipio:
 
 I. Todas las personas nacidas en el municipio y que radiquen en su territorio, y
 
-II. Las Personas con más de seis meses de residencia en su territorio e inscritas en el padrón de población correspondiente.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1997)</small>
+
+II. Las personas con mas de seis meses de radicar en su territorio y estén inscritos en el padrón electoral correspondiente.
 
 Las personas que tengan menos de seis meses de residencia pero que manifiesten de manera expresa ante la autoridad municipal su decisión de adquirir la vecindad del municipio, podrán adquirirla mediante autorización ayuntamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 14.
 
-La calidad de vecino se pierde por:
+La calidad de residente se pierde por:
 
 I. Renuncia expresa ante la autoridad municipal;
 
-II. Desempeñar cargos de elección popular de carácter municipal en otro municipio distinto al de su vecindad;
+II. (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 1997)
 
 III. Establecer su domicilio, por más de seis meses, fuera de su territorio municipal;
 
@@ -313,9 +325,11 @@ IV. Ausencia o presunción de muerte legalmente declarada, y
 
 V. Pérdida de la nacionalidad mexicana o de la ciudadanía del Estado.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 15.
 
-No se perderá la vecindad cuando la persona se traslade a residir a otro lugar para desempeñar una comisión o cargo de carácter oficial, no permanente, o con motivo de estudios científicos o artísticos.
+No se perderá la residencia cuando la persona se traslade a residir a otro lugar para desempeñar una comisión de carácter oficial no permanente, cargo de elección popular, o con motivo de estudios científicos o artísticos
 
 ## TITULO SEGUNDO. DEL REGIMEN DE GOBIERNO MUNICIPAL
 
@@ -385,9 +399,11 @@ IV. Recepción en Cabildo de representaciones de los Poderes de la Federación, 
 
 Las sesiones ordinarias de los ayuntamientos serán, dos veces al mes; las extraordinarias cuantas veces sea necesario por tratarse de asuntos de urgente resolución. La convocatoria respectiva la decidirá el presidente municipal por sí o a petición de la mayoría de sus miembros. Las sesiones serán públicas, a menos que el ayuntamiento determine fundadamente lo contrario.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 26.
 
-Las sesiones del ayuntamiento se celebrarán con la asistencia del presidente municipal, quien las presidirá, y, por lo menos, la mitad de sus miembros. Sus acuerdos se tomarán por mayoría de votos. El Presidente tendrá voto de calidad y, además, la facultad de veto suspensivo para efectos de analizar y votar de nueva cuenta el asunto que lo haya motivado. En ausencia del presidente municipal, las sesiones se celebrarán con la asistencia de, cuando menos, la mitad más uno de sus miembros y será presidida por quien designe el ayuntamiento de entre los regidores propietarios, también con voto de calidad.
+Las sesiones del Ayuntamiento serán públicas y se celebrarán con la asistencia del Presidente Municipal, quien las presidirá, y, por lo menos, la mitad de sus miembros. Sus acuerdos se tomarán por mayoría de votos. El Presidente tendrá voto de calidad y, derecho de veto, en ausencia de éste, las sesiones se celebrarán con la asistencia de, cuando menos, la mitad más uno de sus miembros y será presidida por quien designe el Ayuntamiento de entre los Regidores Propietarios.
 
 ###### ARTICULO 27.
 
@@ -455,9 +471,17 @@ V. Formular, aprobar y ejecutar los planes y programas a que se refiere el Capí
 
 VI. Organizar la integración de los consejos de participación social y del comité de planeación para el desarrollo municipal;
 
-VII. Nombrar, remover y ratificar, en su caso, a los delegados y subdelegados municipales;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1997)</small>
 
-VIII. Designar de entre sus miembros a los síndicos municipales, quienes los representarán jurisdiccionalmente, y asignarles la comisión que habrán de desempeñar en el área administrativa correspondiente;
+VII. Someter a elección y remover en su caso a los subdelegados municipales, conforme a los acuerdos y reglamentos respectivos.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 5 DE SEPTIEMBRE DE 1997)</small>
+
+VIII. Someter a elección o designación a los delegados municipales, de acuerdo a lo siguiente;
+
+a).- La designación deberá ser de una propuesta que hagan los regidores por cada fracción partidista y que sea aprobada por más de las dos terceras partes de los mismos.
+
+b).- La elección se efectuará en los términos de los acuerdos y del reglamento respectivo.
 
 IX. Nombrar secretario del ayuntamiento, tesorero, coordinador de desarrollo integral, quien tendrá las facultades que establezca el reglamento respectivo, y demás funcionarios cuya designación les competa, a propuesta del presidente municipal, y removerlos por causa justificada;
 
@@ -477,7 +501,9 @@ XV. Administrar el patrimonio del municipio conforme a la Ley y vigilar, a trav�
 
 XVI. Remitir cada tres meses a la Legislatura del Estado, a través de la Contaduría Mayor de Hacienda, la Cuenta Pública Municipal, a más tardar los días quince de los meses de enero, abril, julio y octubre y en el caso del último año de ejercicio de la administración, la Cuenta Pública correspondiente a los meses de julio, agosto y septiembre, deberá enviarse a más tardar el treinta de septiembre.
 
-XVII. Calificar las elecciones de los miembros del propio ayuntamiento y emitir la declaratoria respectiva;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1997)</small>
+
+XVII. Organizar la elección de Delegados y Subdelegados a través de la Comisión Especial de Regidores, que para tal efecto nombre, con base en los acuerdos respectivos; y tomar protesta a los Delegados y Subdelegados electos;
 
 XVIII. Organizar el Registro Civil y prestar los servicios correspondientes, de conformidad con las bases dictadas por la Coordinación Estatal del ramo y lo previsto en la legislación de la materia;
 
@@ -559,7 +585,9 @@ XXI. Solicitar al ayuntamiento su autorización para ausentarse del municipio po
 
 XXII. Vigilar a los servidores públicos municipales en el desempeño de sus funciones, corrigiendo oportunamente sus faltas y, en su caso, hacer del conocimiento de la autoridad competente las que a su juicio pudieren ser constitutivas de delito u objeto de responsabilidad administrativa, y
 
-XXIII. Las demás que le concedan las leyes.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1997)</small>
+
+XXIII. Participar en las sesiones de cabildo, Votar en las mismas y, en su caso, ejercer el voto de calidad o de veto.
 
 ### CAPITULO OCTAVO. De los Regidores y Síndicos
 
@@ -569,9 +597,13 @@ Son derechos y obligaciones de los Regidores, los siguientes:
 
 I. Asistir puntualmente a las sesiones que celebre el ayuntamiento, con voz y voto;
 
-II. Formar parte de las comisiones para las cuales fueren designados;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1997)</small>
 
-III. Vigilar y atender el ramo de la administración municipal que les sea encomendada por el ayuntamiento e informar a éste de los resultados de sus trabajos;
+II. Formar parte de cuando menos una de las Comisiones Permanentes.
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1997)</small>
+
+III. Vigilar y atender, a través de las comisiones, el ramo de la administración Municipal que les sea encomendada por el Ayuntamiento e informar a este de los resultados de sus trabajos.
 
 IV. Proponer al ayuntamiento las medidas y acciones convenientes para el mejoramiento y debida atención de los diferentes ramos de la administración y de los servicios municipales cuya vigilancia les haya sido encomendada;
 
@@ -861,13 +893,19 @@ III. Los Jefes de Sector, y
 
 IV. Los Jefes de Manzana o la estructura territorial que convenga a la organización comunitaria.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 64.
 
-En los primeros treinta días siguientes a la toma de posesión, los ayuntamientos nombrarán a los delegados y subdelegados que deban representarlos en las diversas poblaciones del municipio, de acuerdo con lo que establece el Capítulo Tercero del Título Primero de la presente Ley. Dicho nombramiento se hará a propuesta de los integrantes del ayuntamiento, recayendo el cargo en aquella persona que reúna la mayoría de votos.
+La organización de la elección de delegados y subdelegados se realizará por una comisión Especial de Regidores, en los términos que ordene el reglamento o los acuerdos dictados por el cabildo. Cualquier imprevisto se resolverá en el Ayuntamiento respectivo, solicitando el informe correspondiente a la Comisión Especial designada para tal efecto, sus resoluciones serán irrevocables.
+
+En los primeros treinta días siguientes a la toma de posesión, los Ayuntamientos designarán la terna por cada delegación, para elegir delegados y subdelegados que deban representar en las diversas poblaciones del municipio, dentro del mismo término se nombrará la Comisión Especial de Regidores y se organizará la elección de delegados y subdelegados; concluido el plazo señalado, dicha Comisión deberá informar al Ayuntamiento de las personas que hayan reunido la mayoría de votos.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1997)</small>
 
 ###### ARTICULO 65.
 
-Dentro del término señalado en el artículo anterior, los delegados y subdelegados entrarán en funciones, previa su protesta de ley ante el ayuntamiento respectivo. Los delegados y subdelegados municipales durarán en su cargo tres años, pudiendo ser ratificados en el mismo por acuerdo del propio ayuntamiento.
+Una vez concluido el procedimiento de elección de delegados y subdelegados dentro del término señalado en el artículo anterior, entrarán en funciones previa protesta de ley ante el Ayuntamiento respectivo y dentro del plazo de siete días, que empezaran a contar a partir de que se reciba el informe de su elección por la Comisión Especial de Regidores. Los delegados y subdelegados municipales durarán en su cargo tres años.
 
 ###### ARTICULO 66.
 
@@ -2042,3 +2080,11 @@ P.O. 20 DE MARZO DE 1997.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 5 DE SEPTIEMBRE DE 1997.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, DEROGA Y ADICIONA LA LEY ORGANICA MUNICIPAL".]
+
+PRIMERO.- Esta Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO.- Se derogan aquellas disposiciones que se opongan a la presente.
