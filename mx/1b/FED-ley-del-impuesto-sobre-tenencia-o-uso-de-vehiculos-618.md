@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-tenencia-o-uso-de-vehiculos-618"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1984-12-31"
+last_updated: "1985-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=618&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1980-12-19"
 
 LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1985.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 30 de diciembre de 1980.
 
@@ -53,17 +53,15 @@ Los contribuyentes pagarán el impuesto por año de calendario durante los tres 
 
 Los importadores ocasionales efectuarán el pago del impuesto a que se refiere esta Ley, correspondiente al primer año de calendario en la aduana respectiva en el momento en que los vehículos queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva. Por el segundo y siguientes años de calendario se estará a lo dispuesto en el párrafo anterior.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-Las personas físicas o morales que enajenen vehículos nuevos o importados directamente al público, calcularán el impuesto correspondiente al primer año de calendario y lo enterarán en las oficinas autorizadas a más tardar el día 15 del mes siguiente a aquél en que se enajenó el vehículo, para estos efectos se considerará que la enajenación se realiza en el momento en que se entregue el bien al adquirente. En el caso de los vehículos que se asignen al servicio de las personas a que se refiere este párrafo o al de sus funcionarios o empleados, el impuesto se pagará a más tardar dentro de los 15 días siguientes a la fecha en que esto se realice.
+Las personas físicas o morales que adquieran vehículos nuevos o importados después de los tres primeros meses del año de calendario, calcularán y enterarán el impuesto en las oficinas autorizadas a más tardar dentro de los 15 días siguientes a aquél en que se adquirió el vehículo. Para estos efectos se considerará que la adquisición se realiza en el momento en que se entregue el bien al adquirente. En el caso de que las personas físicas o morales que enajenan vehículos nuevos o importados al público, los asignen a su servicio o al de sus funcionarios o empleados, el impuesto se pagará a más tardar dentro de los 15 días siguientes a la fecha en que ésto se realice.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-Tratándose de motocicletas y automóviles nuevos cuya enajenación al público se realice en los últimos 3 meses del año de calendario correspondiente al año de fabricación o el año modelo del vehículo, según se trate, no se pagará el impuesto por dicho año. Lo dispuesto en este párrafo y el siguiente, será aplicable a las enajenaciones que se realicen en el año de calendario anterior al año modelo o año de fabricación del vehículo. En el caso de vehículos importados para su venta al público, cuando la enajenación se realice en los últimos 3 meses del año de calendario en el que se hubiere internado al país el vehículo, no se pagará el impuesto por dicho año.
+Tratándose de motocicletas y automóviles nuevos cuya enajenación al público se realice en los últimos tres meses del año de calendario, se pagará el 25% del impuesto por dicho año; cuando se enajene como vehículo nuevo uno del año modelo o de fabricación del mismo año de calendario, se pagará el 15% del impuesto por dicho año. En el caso de vehículos importados para su venta al público, cuando la enajenación se realice en los últimos tres meses del año de calendario en el que hubiere internado al país el vehículo, se pagará el 25% del impuesto por dicho año.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-El impuesto correspondiente al siguiente año a aquél en que se efectuaron las enajenaciones a que se refiere el párrafo anterior, lo deberá retener el vendedor tomando como base el pago que el contribuyente tendría que cubrir de no encontrarse en el supuesto a que se refiere el mencionado párrafo. La cantidad así retenida se ajustará al efectuar el pago conforme a la Ley en el año siguiente. Por los años posteriores se pagará el impuesto en los términos de esta Ley.
+> <small>(DEROGADO SEPTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 Para los efectos de esta Ley, también se consideran automóviles, a los omnibuses, camiones y tractores no agrícolas tipo quinta rueda.
 
@@ -105,9 +103,9 @@ Tratándose de automóviles, omnibuses, camiones y tractores no agrícolas, tipo
 
 A.- Vehículos destinados al transporte hasta de diez pasajeros:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-I.- Tratándose de vehículos de fabricación nacional o importados equiparables o iguales a los de fabricación nacional, aun cuando en el extranjero tengan una denominación comercial diferente, el impuesto será la cantidad que resulte de sumar el 1% del precio de venta al público de la unidad típica con la cantidad que se obtenga de multiplicar el factor que corresponda a la unidad, determinado conforme al artículo 6o. de esta Ley, por la cantidad que anualmente establezca el Congreso de la Unión.
+I.- Tratándose de vehículos de fabricación nacional o importados equiparables o iguales a los de fabricación nacional, aun cuando en el extranjero tengan una denominación comercial diferente, el impuesto será la cantidad que resulte de aplicar el 1.25% del precio de venta al público del vehículo.
 
 II.- Por lo que se refiere a vehículos importados a las zonas libres y a la franja fronteriza del norte del país, de circulación restringida a esas regiones, diferentes a los de fabricación nacional, el impuesto será la cantidad que resulte de multiplicar el monto que anualmente establezca el Congreso de la Unión, por el factor que a continuación se señala:
 
@@ -145,23 +143,23 @@ A.- Vehículos destinados al transporte hasta de diez pasajeros:
 
 I.- De fabricación nacional o importados iguales a los de fabricación nacional, aun cuando en el extranjero tengan una denominación comercial diferente:
 
-a).- El factor de los automóviles se determina multiplicando el desplazamiento del motor, medido en litros, por el peso del automóvil medido en toneladas.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-b).- El desplazamiento del motor es el volumen desalojado por todos los pistones durante una revolución del cigüeñal.
+a).- Por unidad típica se entiende el automóvil que incluye el equipo común.
 
-c).- El peso del automóvil se compone del peso de la unidad austera y el de su combustible, lubricante y refrigerante a la máxima capacidad de los depósitos del vehículo.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-d).- Por unidad austera se entiende el automóvil que no incluye equipo opcional común o de lujo.
+b).- Por precio de la unidad típica, el que tengan los vehículos al 1o. de enero del año de aplicación de la Ley. Tratándose de vehículos de año modelo anteriores, el precio de la unidad típica será el que resulte de aplicarle a dicho precio el factor correspondiente conforme a la tabla de ajuste que anualmente establezca el Congreso de la Unión.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+c).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1985)
 
-e).- Por unidad típica se entiende el automóvil que incluye el equipo común.
+d).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1985)
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+e).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1985)
 
-f).- Por precio de la unidad típica, el que tengan los vehículos al 1o. de enero del año de aplicación de la Ley. Tratádose (sic) de vehículos de año modelo anteriores, el precio de la unidad típica será el que resulte de aplicarle a dicho precio el factor correspondiente conforme a la tabla de ajuste que anualmente establezca el Congreso de la Unión.
+f).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1985)
 
-Para la determinación del desplazamiento y del peso se considerará el motor con el que se venda el automóvil aun cuando sea opcional. Un automóvil importado se considerará igual al nacional cuando coincidan el factor, modelo, marca y tipo, aun cuando en el extranjero ostente un nombre comercial diferente.
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -261,11 +259,11 @@ Las oficinas de tránsito de la República Mexicana no autorizarán altas ni cam
 
 En este Capítulo se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor y motocicleta.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 12.
 
-Tratándose de aeronaves, el impuesto será la cantidad que resulte de multiplicar el peso de la aeronave adicionado con la carga máxima de despegue a nivel del mar, expresado en toneladas, por la cantidad que anualmente establezca el Congreso de la Unión. En ningún caso el impuesto excederá de $3.840,000.00.
+Tratándose de aeronaves, el impuesto será la cantidad que resulte de multiplicar el peso de la aeronave adicionado con la carga máxima de despegue a nivel del mar, expresado en toneladas, por la cantidad que anualmente establezca el Congreso de la Unión. En ningún caso el impuesto excederá de $6.000,000.00.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -289,9 +287,9 @@ b).- La cantidad obtenida conforme al inciso anterior se multiplicará por la ca
 
 El factor a que se refiere la fracción III de esta (sic) artículo, se calculará multiplicando la longitud de la eslora en metros, por el cociente obtenido de dividir los caballos de fuerza entre mil.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-Tratándose de las embarcaciones a que se refieren las fracciones I y III de este artículo, el impuesto que resulte no podrá ser inferior a $1,000.00, ni superior a $500,000.00, salvo que tratándose de la fracción III, el factor sea igual o menor a 0.2.
+Tratándose de las embarcaciones a que se refieren las fracciones I y III de este artículo, el impuesto que resulte no podrá ser inferior a $3,000.00 ni superior a $750,000.00, salvo que tratándose de la fracción III, el factor sea igual o menor a 0.2. Las cantidades a que se refiere este párrafo se incrementarán aplicando el factor que anualmente establezca el Congreso de la Unión.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -710,3 +708,53 @@ Año Modelo Factor
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1985, ...
+
+D.O.F. 31 DE DICIEMBRE DE 1985.
+
+Disposiciones de Vigencia Anual durante el año de 1986.
+
+ARTICULO DECIMOSEPTIMO.- Durante el año de 1986 se aplicarán en materia del Impuesto sobre Tenencia o Uso de Vehículos, las siguientes disposiciones:
+
+I.- Para los efectos del cálculo del impuesto, se dan a conocer las siguientes cantidades:
+
+a).- Vehículos a que se refiere el artículo 5o. Apartado A fracciones II y III de la Ley de la materia .......... $ 8,000.00
+
+b).- Vehículos a que se refiere el artículo 5o., Apartado B de la Ley de la materia .......... 8,500.00
+
+c).- Veleros .......... 10,700.00
+
+d).- Embarcaciones .......... 48,300.00
+
+e).- Aeronaves .......... 309,100.00
+
+f).- Motocicletas .......... 67,200.00
+
+II.- El precio de la unidad típica de los vehículos del año modelo de aplicación de la Ley así como de los años modelo anteriores a que hace referencia el artículo 6o., Apartado A fracción I inciso b) de la Ley del Impuesto Sobre Tenencia o uso de Vehículos, será el que resulte de aplicar los siguientes factores:
+
+1986 1.00
+
+1985 1.60
+
+1984 2.55
+
+1983 4.60
+
+1982 9.16
+
+1981 11.78
+
+1980 15.29
+
+1979 18.35
+
+1978 21.32
+
+1977 25.60
+
+III.- Después de aplicar lo dispuesto en el artículo 5o., Apartado A fracción I de la Ley de la materia para vehículos de año modelo 1985 inclusive y de año modelo anterior a dicho año, el monto del impuesto que corresponda conforme al citado precepto, se reducirá en un 20%. La reducción a que se refiere esta fracción, es independiente de la que se establece en el penúltimo párrafo del artículo 1o. de la Ley.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1986.
