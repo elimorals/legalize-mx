@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1993-09-23"
+last_updated: "1994-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE SEPTIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ENERO DE 1994.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -6154,9 +6154,27 @@ Formado por el albacea con la aprobación de los herederos el proyecto de partic
 
 Siempre que haya oposición de algún aspirante a la herencia o de cualquier acreedor, el notario suspenderá su intervención.
 
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1994)</small>
+
 ARTICULO 876
 
-Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un notario, de acuerdo con lo que se establece en este capítulo.
+Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un notario, de acuerdo con lo que se establece en este capítulo. El juez hará saber lo anterior a los herederos para el efecto de que designen al notario ante el que se seguirá la tramitación sucesoria.
+
+> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 1994)</small>
+
+ARTICULO 876 BIS
+
+Para la titulación notarial de la adquisición por los legatarios instituidos en testamento público simplificado, se observará lo siguiente:
+
+I.- Los legatarios o sus representantes, exhibirán al notario la copia certificada del acta de defunción del testador y testimonio del testamento público simplificado;
+
+II.- El notario dará a conocer, por medio de una publicación en un periódico de los de mayor circulación en la República, que ante él se está tramitando la titulación notarial de la adquisición derivada del testamento público simplificado, los nombres del testador y de los legatarios y, en su caso, su parentesco;
+
+III.- El notario recabará del Archivo General de Notarías, del Archivo Judicial del Distrito Federal y de los correspondientes archivos u oficinas similares del último domicilio del autor de la sucesión, las constancias relativas a la existencia o inexistencia de testamento. En el caso de que el testamento público simplificado presentado sea el último otorgado, el notario podrá continuar con los trámites relativos, siempre que no existiere oposición;
+
+IV.- De ser procedente, el notario redactará el instrumento en el que se relacionarán los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso, y la conformidad expresa de los legatarios en aceptar el legado, documento que se inscribirá en el Registro Público de la Propiedad. En su caso, se podrá hacer constar la repudiación expresa; y
+
+V.- En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez, un testamento público simplificado en los términos del artículo 1549-Bis del Código Civil.
 
 ### CAPITULO IX. Del testamento público cerrado
 
@@ -7537,3 +7555,11 @@ TERCERO.- Los juicios y procedimientos judiciales y administrativos actualmente 
 D.O.F. 23 DE SEPTIEMBRE DE 1993.
 
 UNICO.- El presente decreto entrará en vigor el 19 de octubre de 1993.
+
+D.O.F. 6 DE ENERO DE 1994.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
