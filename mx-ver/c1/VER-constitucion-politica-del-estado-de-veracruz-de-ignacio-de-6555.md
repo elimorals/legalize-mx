@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1932-12-10"
+last_updated: "1938-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE DICIEMBRE DE 1932.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE NOVIEMBRE DE 1938.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -74,6 +74,18 @@ UNICO.- Estas reformas comenzarán a regir desde la fecha en que sean publicadas
 G.O. 10 DE DICIEMBRE DE 1932.
 
 Estas reformas comenzarán a regir desde la fecha de su publicación, por Bando Solemne, en las poblaciones del Estado.
+
+G.O. 1 DE NOVIEMBRE DE 1938.
+
+SE REFORMAN LOS ARTICULOS 38, 68, 82, 87, 97, 98, 99, 101, 102, 103 Y 105 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+Las presentes reformas entrarán en vigor desde la fecha de su publicación por Bando Solemne en todas las poblaciones del Estado.
+
+G.O. 1 DE NOVIEMBRE DE 1938.
+
+SE REFORMA EL ARTICULO 91 DE LA CONSTITUCION POLITICA LOCAL.
+
+Esta reforma surtirá sus efectos a partir de la fecha de su publicación, por Bando Solemne, en todas las poblaciones del Estado.
 
 ### CAPITULO II.
 
@@ -269,9 +281,11 @@ El ejercicio del Poder Judicial se deposita: en un Tribunal Superior de Justicia
 
 No pueden reunirse dos o más de esos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo. La observancia de este precepto podrá suspenderse en los casos de la fracción XXII del artículo 68.
 
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+
 ###### Artículo 38.
 
-Los miembros de la Legislatura, los Ayuntamientos y el Gobernador, serán nombrados popularmente en elección directa, en los términos que disponga la ley orgánica respectiva. Los Magistrados del Tribunal Superior, serán electos por la Legislatura en la forma que determina esta Constitución. Los Jueces Municipales serán nombrados por los Ayuntamientos en sus respectivas jurisdicciones.
+Los miembros de la Legislatura, los Ayuntamientos y el Gobernador, serán nombrados popularmente en elección directa, en los términos que disponga la Ley Orgánica respectiva. Los Magistrados del Tribunal Superior, serán propuestos por el Gobernador a la Legislatura o a la Diputación Permanente, en su caso, en la forma que determina esta Constitución.
 
 > <small>(REFORMADO, G.O. 10 DE NOVIEMBRE DE 1931)</small>
 
@@ -447,6 +461,8 @@ DEL GOBERNADOR DEL ESTADO, DE SUS FACULTADES Y OBLIGACIONES.
 
 DEL SECRETARIO DE GOBIERNO.
 
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+
 ###### Artículo 68.
 
 Son facultades y obligaciones de la Legislatura:
@@ -459,9 +475,9 @@ III. Reclamar, ante la Suprema Corte de Justicia de la Nación, cuando alguna le
 
 IV. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y declarar electo al que haya obtenido mayoría, con arreglo al artículo 40;
 
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 1932)</small>
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
-V. Calificar la validez de estas elecciones y resolver sobre las renuncias que presenten este Funcionario y los Magistrados del Tribunal Superior de Justicia del Estado;
+V. Calificar la validez de estas elecciones y resolver sobre la renuncia que presente este funcionario, así como otorgar o negar su aprobación a las renuncias de los Magistrados del Tribunal Superior, que le someta el Gobernador;
 
 VI. Decidir sobre la legalidad de las elecciones de los Ayuntamientos cuando se reclame contra ellas, consignando al Procurador General, a los que resulten culpables de algún fraude;
 
@@ -469,9 +485,9 @@ VII.- Suspender definitivamente, previa formación de proceso, a los miembros de
 
 VIII. Hacer la división del Estado en Distritos electorales, de acuerdo con el último censo, y fijar la circunscripción y cabecera de ellos;
 
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 1932)</small>
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
-IX. Conceder licencia temporal para separarse de su cargo al Gobernador, a los Magistrados del Tribunal Superior y a los Diputados, y concederla al Gobernador para salir del Estado;
+IX. Conceder licencia temporal para separarse de su cargo al Gobernador y a los Diputados; concederla al Gobernador para salir del Estado, y otorgar o negar su aprobación a las solicitudes de licencia de los Magistrados, que le someta el Gobernador;
 
 X. Recibir a los mismos funcionarios la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ambas emanen;
 
@@ -517,9 +533,9 @@ XXIX. Conceder cartas de ciudadanía a los vecinos de otros Estados que fueren a
 
 XXX. Reahabilitar (sic), con arreglo a las leyes, a los que por sentencia pronunciada en el Estado hayan perdido los derechos de ciudadanía, civiles o de familia;
 
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 1932)</small>
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
-XXXI. Constituirse en Colegio Electoral y nombrar a los Magistrados propietarios y supernumerarios del Tribunal Superior de Justicia del Estado;
+XXXI. Otorgar o negar su aprobación a los nombramientos de Magistrados, que le someta el Gobernador;
 
 XXXII. Constituirse en Colegio Electoral y elegir al ciudadano que deba substituir al Gobernador del Estado, ya sea con el carácter de substituto o de provisional, en los términos del artículo 86 de esta Constitución;
 
@@ -673,7 +689,7 @@ DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 ###### Artículo 91.
 
-El Ejecutivo tendrá, para el despacho de los negocios oficiales, un Secretario, que se denominará: Secretario de Gobierno. Para ocupar este puesto, son necesarios los mismos requisitos que para ser electo Gobernador.
+El Ejecutivo tendrá, para el despacho de los negocios oficiales, un Secretario que se denominará "Secretario de Gobierno".- Para ocupar este puesto, son necesarios los mismos requisitos que para ser electo Gobernador; siendo indispensable, además, que la persona designada sea titulada en la ciencia del Derecho.
 
 ###### Artículo 92.
 
@@ -721,29 +737,31 @@ V. No tener empleo, cargo o comisión de otros Estados, ni de la Federación, o 
 
 VI. Gozar de buena reputación y no haber sido condenado por delito grave que merezca pena corporal de más de una año de prisión; pero si se tratare de delitos oficiales, de robo, fraude, estafa, falsificación, abuso de confianza u otros que lastimen la fama en el concepto público o fueren de los que causen afrenta, inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
 ###### Artículo 97.
 
-Los Magistrados Propietarios y los Supernumerarios, serán electos por la Legislatura en funciones de Colegio Electoral, siendo indispensable que concurran, cuando menos, las dos terceras partes del número total de sus miembros. La elección será en escrutinio secreto y por mayoría absoluta de votos, previa discusión de las candidaturas, que serán presentadas con cinco días de anticipación, como término mínimo. Si no hubiere mayoría absoluta en la primera votación, se repetirá entre los candidatos que hubieren obtenido más votos. Los Jueces de primera Instancia y los Agentes del Ministerio Público, que reúnan los requisitos prevenidos para ser electos Magistrados y que se hayan distinguido por su laboriosidad, eficacia, competencia y honradez, en el ejercicio de sus funciones, serán preferidos a cualquier otro Abogado para ser designados Magistrados.
+Los nombramientos de los Magistrados Propietarios y los Supernumerarios, serán propuestos por el Gobernador a la Legislatura, la que otorgará o negará su aprobación dentro del improrrogable término de diez días. Si la Legislatura no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación de la Legislatura, no podrán tomar posesión los Magistrados propuestos por el Gobernador. En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un nombramiento, que surtirá efectos desde luego, como provisional y que será sometido a la aprobación de la Legislatura en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días la Legislatura deberá aprobar o reprobar el nombramiento, y si no lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Legislatura desecha el nombramiento provisional, cesará desde luego en sus funciones el Magistrado, y el Gobernador hará nueva proposición ante la Legislatura, en los términos señalados. Los Jueces de Primera Instancia y los Agentes del Ministerio Público que reunan los requisitos prevenidos para ser nombrados Magistrados y que se hayan distinguido por su laboriosidad, eficacia, competencia y honradez, en el ejercicio de sus funciones, serán preferidos a cualquiera otro abogado para ser designados Magistrados.
 
-> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 1924)</small>
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
 ###### Artículo 98.
 
-Los Jueces de primera Instancia serán nombrados por el Tribunal Superior de Justicia y tendrán los requisitos que exige la Ley, la que sobre este punto establecerá la carrera judicial.
+Los Jueces de Primera Instancia y los Municipales serán nombrados por el Tribunal Superior de Justicia, los últimos a propuesta en terna del Juez Primero o Unico de Primera Instancia del Distrito Judicial respectivo.
 
-Los Jueces Municipales serán nombrados por los primeros o únicos de primera Instancia de cada Distrito Judicial a propuesta en terna de los Ayuntamientos respectivos, dentro de un plazo no mayor de diez días en que reciban ésta, y los auxiliares serán nombrados por los Jueces Municipales con aprobación de los primeros o únicos de primera Instancia de cada Distrito Judicial, y unos y otros deberán tener los requisitos que determine la Ley.
+Los Jueces Auxiliares serán designados por el Juez Primero o Unico Municipal correspondiente, con aprobación del Primero o Unico de Primera Instancia del Distrito Judicial en cuya jurisdicción vayan a actuar.
 
-Los Secretarios de los Juzgados Municipales serán nombrados por los Jueces Municipales a propuesta en terna de los Ayuntamientos respectivos, debiendo llenar los propuestos los requisitos establecidos por la Ley relativa.
-
-> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
 ###### Artículo 99.
 
-Los Magistrados del Tribunal Superior de Justicia, permanecerán en su encargo cuatro años, no podrán ser reelectos para el período inmediato y serán renovados por mitad cada dos años.
+Los Magistrados del Tribunal Superior de Justicia durarán en su encargo cuatro años y cada dos serán renovados por mitad.
+
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
 
 Los Jueces de primera Instancia y los Municipales, durarán indefinidamente en sus cargos, siempre que se distingan en el ejercicio de sus funciones por medio de una labor ecuánime y efectiva, para el mejoramiento de la Administración de Justicia, pudiendo ser removidos cuando lo estime conveniente el Tribunal, por mayoría absoluta de votos de los Magistrados presentes o en los casos que determine la Ley.
+
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
 
 Los Jueces Auxiliares, cuyo cargo se estimará Concejil, durarán en sus funciones un año, pudiendo ser nombrados nuevamente para el siguiente; pero sin que tengan la obligación de servir más de dos años.
 
@@ -751,15 +769,17 @@ Los Jueces Auxiliares, cuyo cargo se estimará Concejil, durarán en sus funcion
 
 El Tribunal residirá en la Capital del Estado, y, en ningún caso, ejercerá sus funciones fuera de ella, a no ser que sea autorizado legalmente por la Legislatura.
 
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+
 ###### Artículo 101.
 
-Jamás podrán reunirse en el Tribunal, dos o más Magistrados que sean parientes consaguineos (sic) dentro del cuarto grado, o afines dentro del segundo.
+En el Tribunal Superior de Justicia nunca habrá dos o más Magistrados que sean parientes consanguíneos dentro del cuarto grado. Si hubiere Magistrados ligados entre sí por parentesco de afinidad, deberán estar en Salas distintas.
 
-> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
 ###### Artículo 102.
 
-El cargo de Magistrado del Tribunal Superior, sólo es renunciable por causa grave, calificada por la Legislatura, ante la que se presentará la renuncia. En los recesos de ésta, la calificación se hará por la Diputación Permanente.
+Las renuncias de los Magistrados solamente procederán por causas graves; serán sometidas al Gobernador y si éste las acepta, las enviará a su vez para su aprobación a la H. Legislatura o a la Diputación Permanente en su caso.
 
 > <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 1924)</small>
 
@@ -767,9 +787,13 @@ El cargo de Magistrado del Tribunal Superior, sólo es renunciable por causa gra
 
 Los Magistrados propietarios del Tribunal Superior de Justicia en sus faltas temporales que excedieren de cinco días y no pasaren de dos meses, serán substituídos por los supernumerarios en el orden de la elección de éstos, llamándose por consiguiente en primer término al primero; si éste estuviere en funciones o no pudiera acudir por cualquier circunstancia, al segundo, y así sucesivamente, pero una vez que haya entrado a funcionar alguno de ellos, continuará haciéndolo durante todo el término de la licencia del propietario que substituya. En sus excusas o impedimentos se substituirán recíprocamente en el orden que lo determina la Ley; pero los supernumerarios deberán ser llamados a integrar Sala cuando lo acordare el Presidente del Tribunal o la mayoría de los Magistrados propietarios estuviere impedida. En estos casos deberán ser llamados por el mismo Presidente. En las faltas de los Magistrados que no excedan de cinco días, serán, a ser posible, substituídos por el Presidente, quien también integrará las Salas mientras se presente el supernumerario respectivo.
 
-Si faltare algún Magistrado propietario por defunción, renuncia, suspensión definitiva, incapacidad o por cualquiera otra circunstancia, dentro de los seis meses restantes para cumplir su período, la falta será suplida por el supernumerario que corresponda; y en caso contrario, la Legislatura hará nueva elección en los términos prevenidos por el artículo 97. Si la Legislatura no estuviere en funciones, la Diputación Permanente hará un nombramiento provisional, mientras se reune aquélla y hace la elección correspondiente. Si faltare un supernumerario, la Legislatura o la Diputación Permanente hará nuevo nombramiento, según los casos, pero el nombrado por la segunda, tendrá el carácter de provisional en tanto que la primera ratifica o hace nuevo nombramiento.
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
-Las licencias de los Magistrados cuando no excedieren de un mes, serán concedidas por el Tribunal Superior, pero las que excedieren de ese tiempo las concederá la Legislatura o en su defecto la Diputación Permanente.
+Si faltare algún Magistrado Propietario por defunción, renuncia, suspensión definitiva, incapacidad o por cualquiera otra circunstancia dentro de los seis meses restantes para cumplir su período, la falta será suplida por el Supernumerario que corresponda; y en caso contrario, el Gobernador hará nuevo nombramiento en los términos prevenidos por el artículo 97.
+
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+
+Las licencias de los Magistrados, cuando no excedan de un mes serán concedidas por el Tribunal Superior; las que excedan de este tiempo, las concederá el Gobernador con aprobación de la Legislatura o, en sus recesos, de la Diputación Permanente.
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
@@ -791,7 +815,9 @@ III. Conocer, en los términos que fije la Ley respectiva, en pleno, de los inst
 
 IV. Nombrar a los Jueces de Primera Instancia teniendo presente lo que disponga la Ley respecto a la carrera judicial, removerlos de un Juzgado a otro o a distinto Distrito, por vía de ascenso, admitirles sus renuncias, concederles, sin goce de sueldo, las licencias que soliciten para separarse del Despacho, suspenderlos hasta por tres meses, por causa grave justificada que no dé lugar a que se les enjuicie e imponerles las demás penas económicas que determinen las Leyes;
 
-V. Nombrar a los Jueces Municipales en los términos establecidos por el último inciso del artículo 98 y aprobar los nombramientos de los Jueces Auxiliares;
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+
+V. Nombrar a los Jueces Municipales en los términos establecidos en el artículo 98;
 
 VI. Conceder licencias sin goce de sueldos a sus empleados, y cuando excedieren de tres meses a los de los Juzgados de Primera Instancia y a los Jueces Municipales, también sin goce de sueldo, así como a los Auxiliares, a los Defensores de Pobres y a los Visitadores Judiciales;
 
@@ -1115,7 +1141,9 @@ I. Convocar a la Legislatura a sesiones extraordinarias, en los casos que la mis
 
 II. Llamar a los Diputados suplentes de la misma Diputación, cuando por muerte, renuncia, inhabilidad o licencia por más de dos meses, falte alguno de los propietarios;
 
-III. Ejercer las mismas funciones que la Legislatura, en los casos de las fracciones IX y X del artículo 68;
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+
+III. Otorgar o negar su aprobación a los nombramientos de Magistrados, así como a las solicitudes de licencias de los mismos, que le someta el Gobernador. Ejercer las mismas funciones que la Legislatura, en los casos de las fracciones IX y X del artículo 68;
 
 IV. Emitir su opinión en todos los asuntos que se presenten en el tiempo de su período y sobre los que quedaren pendientes al clausurarse las sesiones. Cuando se trate de asuntos de la competencia de la Legislatura, se reservarán los dictámenes para que sean discutidos por ésta;
 
@@ -1219,33 +1247,43 @@ XIV. Nombrar y remover libremente al Secretario de Gobierno, al Tesorero General
 
 XV. Nombrar y remover libremente al Procurador General de Justicia, al Director de Educación, al Director General de Salubridad y a todos los Funcionarios y empleados dependientes del Poder Ejecutivo;
 
-XVI. Nombrar los Jueces especiales del Estado Civil y fijar la demarcación en que deban ejercer sus funciones;
+> <small>(ADICIONADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
-XVII. Otorgar las dispensas matrimoniales para cuya concesión lo faculte la ley, pudiendo delegar esta facultad en los Presidentes Municipales;
+XVI. Proponer Magistrados del Tribunal Superior de Justicia a la Legislatura o a la Diputación Permanente en su caso;
 
-XVIII. Proponer a la Legislatura, o en su receso, a la Diputación permanente, la suspensión de los miembros de los Ayuntamientos que abusaren de sus facultades;
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
-XIX. Castigar correccionalmente a los que le falten al respeto, o desobedezcan sus disposiciones como gobernante, con una pena que no exceda de 36 horas de arresto, o multa hasta de $300.00, sujetándose, en todo caso, a lo dispuesto en la parte final del artículo 21 de la Constitución General de la República. Si la multa no fuese pagada, se permutará ésta por el arresto correspondiente que nunca excederá de quince días;
+XVII. Nombrar los jueces especiales del Estado Civil y fijar la demarcación en que deban ejercer sus funciones;
 
-XX. Organizar y disciplinar la Guardia Nacional y las demás fuerzas del Estado y ejercer, respecto de unas y otras, el mando y las demás atribuciones que le concede la Constitución General;
+XVIII. Otorgar las dispensas matrimoniales para cuya concesión lo faculte la ley, pudiendo delegar esta facultad en los Presidentes Municipales;
 
-XXI. Poner sobre las armas la Guardia Nacional con aprobación de la Legislatura, o de la Diputación permanente, en los recesos de aquélla;
+XIX. Proponer a la Legislatura, o en su receso, a la Diputación permanente, la suspensión de los miembros de los Ayuntamientos que abusaren de sus facultades;
 
-XXII. Disponer de las fuerzas de Seguridad Pública y movilizar la Guardia Nacional, dentro de los límites del Estado, según lo exijan las necesidades públicas, y ordenar que pase la Guardia a otros Estados, en los términos que disponga la Constitución General;
+XX. Castigar correccionalmente a los que le falten al respeto, o desobedezcan sus disposiciones como gobernante, con una pena que no exceda de 36 horas de arresto, o multa hasta de $300.00, sujetándose, en todo caso, a lo dispuesto en la parte final del artículo 21 de la Constitución General de la República. Si la multa no fuese pagada, se permutará ésta por el arresto correspondiente que nunca excederá de quince días;
 
-XXIII. Presidir, en las sesiones de los Ayuntamientos, y en las de toda clase de juntas a que concurra con carácter oficial;
+XXI. Organizar y disciplinar la Guardia Nacional y las demás fuerzas del Estado y ejercer, respecto de unas y otras, el mando y las demás atribuciones que le concede la Constitución General;
+
+XXII. Poner sobre las armas la Guardia Nacional con aprobación de la Legislatura, o de la Diputación permanente, en los recesos de aquélla;
+
+XXIII. Disponer de las fuerzas de Seguridad Pública y movilizar la Guardia Nacional, dentro de los límites del Estado, según lo exijan las necesidades públicas, y ordenar que pase la Guardia a otros Estados, en los términos que disponga la Constitución General;
+
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+
+XXIV. Presidir las sesiones de los Ayuntamientos, y en las de toda clase de juntas a que concurra con carácter oficial;
 
 > <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 1932)</small>
 
-XXIV. Expedir los títulos profesionales con arreglo a las Leyes, reconocer la validez de los que se expidan en otras Entidades, observando la fracción V del artículo 121 de la Constitución Federal, presidir el Consejo Universitario y nombrar al Rector del mismo;
+XXV. Expedir los títulos profesionales con arreglo a las Leyes, reconocer la validez de los que se expidan en otras Entidades, observando la fracción V del artículo 121 de la Constitución Federal, presidir el Consejo Universitario y nombrar al Rector del mismo;
 
-XXV. Tomar, en caso de invasión exterior o conmoción interior armada, las medidas extraordinarias que fueren necesarias para salvar al Estado, sujetándolas, lo más pronto posible, a la aprobación de la Legislatura si estuviere reunida; si no lo estuviere, convocará, de acuerdo con la Diputación permanente, a sesiones extraordinarias;
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
-XXVI. Tener bajo su inmediata dependencia la policía, donde residan los Poderes del Estado;
+XXVI. Tomar en caso de invasión exterior o conmoción interior armada, las medidas extraordinarias que fueren necesarias para salvar al Estado, sujetándolas, lo más pronto posible, a la aprobación de la Legislatura si estuviere reunida; si no lo estuviere, convocará, de acuerdo con la Diputación permanente, a sesiones extraordinarias;
 
-XXVII. Nombrar inspectores que cuiden del cumplimiento de la Ley del Trabajo; y
+XXVII. Tener bajo su inmediata dependencia la policía, donde residan los Poderes del Estado;
 
-XXVIII. Las demás que le concede expresamente esta Constitución.
+XXVIII. Nombrar inspectores que cuiden del cumplimiento de la Ley del Trabajo; y
+
+XXIX. Las demás que le concede expresamente esta Constitución.
 
 ###### Artículo 88.
 
