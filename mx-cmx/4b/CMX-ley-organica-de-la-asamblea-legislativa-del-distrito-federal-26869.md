@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2002-12-19"
+last_updated: "2003-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -250,7 +250,7 @@ II.- Formar parte de hasta cuatro comisiones y/o comités de la Asamblea;
 
 III.- Cumplir con diligencia los trabajos que les sean encomendados por el Pleno, La Diputación Permanente, la Comisión de Gobierno, las comisiones y los comités;
 
-IV.- Observar las normas de la Constitución Política de los Estados Unidos Mexicanos, del Estatuto, de la presente ley y del Reglamento para el Gobierno Interior de la Asamblea Legislativa y el Reglamento Interior para comisiones de esta Asamblea;
+IV. - Observar las normas de la Constitución Política de los Estados Unidos Mexicanos, del Estatuto, de la presente ley y del Reglamento para el Gobierno Interior de la Asamblea Legislativa y el Reglamento Interior para comisiones de esta Asamblea;
 
 V.- Observar en el ejercicio de sus funciones, en el recinto una conducta y comportamiento en congruencia con la civilidad política, tolerancia y respeto en su carácter de representante ciudadano;
 
@@ -606,9 +606,11 @@ VI.- Velar por el respeto de las prerrogativas de los Diputados y por la salvagu
 
 ### CAPITULO V. DE LAS COMISIONES
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 59.
 
-La Asamblea contará con el número y tipo de comisiones que requiera para el cumplimiento de sus atribuciones, las cuales se integrarán proporcionalmente al número de Diputados que acuerde la Comisión de Gobierno, sin que pueda exceder de once el número de sus integrantes, ni menor de nueve.
+La Asamblea contará con el número y tipo de comisiones que requiera para el cumplimiento de sus atribuciones, las cuales se integrarán proporcionalmente al número de Diputados que acuerde la Comisión de Gobierno, sin que pueda exceder de nueve el número de sus integrantes, ni menor de cinco.
 
 Las Comisiones son órganos internos de organización para el mejor y más expedito desempeño de las funciones legislativas, políticas, administrativas, de fiscalización e investigación de la Asamblea.
 
@@ -636,13 +638,79 @@ Las comisiones de Análisis y Dictamen Legislativo y de Vigilancia de la Contadu
 
 Las comisiones ordinarias se integrarán e instalaran durante el mes de septiembre del año en que se inicie la legislatura.
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 62.
 
-Las comisiones ordinarias serán en número que corresponda correlacionadamente con las atribuciones establecidas en esta ley y con la estructura funcional de las dependencias de la Administración Pública del Distrito Federal, las siguientes:
+Las Comisiones Ordinarias serán en número que corresponda correlacionadamente con las atribuciones establecidas en esta Ley y con la estructura funcional de las dependencias de la Administración Pública del Distrito Federal, las siguientes:
 
-I.- Abasto y Distribución de Alimentos; Administración Pública Local; Administración y Procuración de Justicia; Educación, Cultura, Ciencia y Tecnología; Población y Desarrollo Metropolitano; Desarrollo Rural y Asuntos Indígenas; Desarrollo Social; Desarrollo e Infraestructura Urbana y Vivienda; Equidad y Genero; Estudios Legislativos y Prácticas Parlamentarias; Fomento Económico y Turismo; Hacienda, Presupuesto y Cuenta Pública; Derechos Humanos; Deporte, Juventud y Recreación; Notariado; Participación Ciudadana; Preservación del Medio Ambiente y Protección Ecológica; Seguridad Pública y Protección Civil; Salud y Asistencia Social; Vialidad y Tránsito Urbanos;
+I.- Abasto y Distribución de Alimentos;
 
-II.- Vigilancia de la Contaduría Mayor de Hacienda.
+II.- Administración Pública Local;
+
+III.- Administración y Procuración de Justicia;
+
+IV.- Asuntos Indígenas;
+
+V.- Asuntos Laborales y Previsión Social;
+
+VI.- Asuntos Político - electorales;
+
+VII.- Atención a Grupos Vulnerables;
+
+VIII.- Ciencia y Tecnología;
+
+IX.- Cultura;
+
+X.- Deporte;
+
+XI.- Derechos Humanos;
+
+XII.- Desarrollo e Infraestructura Urbana;
+
+XIII.- Desarrollo Metropolitano;
+
+XIV.- Desarrollo Rural;
+
+XV.- Desarrollo Social;
+
+XVI.- Educación;
+
+XVII.- Equidad y Género;
+
+XVIII.- Estudios Legislativos y Prácticas Parlamentarias;
+
+XIX.- Fomento Económico;
+
+XX.- Hacienda;
+
+XXI.- Juventud;
+
+XXII.- Notariado;
+
+XXIII.- Participación Ciudadana;
+
+XXIV.- Población y Desarrollo;
+
+XXV.- Preservación del Medio Ambiente y Protección Ecológica;
+
+XXVI.- Presupuesto y Cuenta Pública;
+
+XXVII.- Protección Civil;
+
+XXVIII.- Salud y Asistencia Social;
+
+XXIX.- Seguridad Pública;
+
+XXX.- Transporte y Vialidad;
+
+XXXI.- Turismo;
+
+XXXII.- Uso y Aprovechamiento de Bienes y Servicios Públicos;
+
+XXXIII.- Vivienda; y
+
+XXXIV.- Vigilancia de la Contaduría Mayor de Hacienda;
 
 ###### ARTÍCULO 63.
 
@@ -684,6 +752,8 @@ Son Comisiones de Investigación las que se integran para investigar el funciona
 
 ### CAPITULO VI. DE LOS COMITÉS
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 69.
 
 Son Comisiones Jurisdiccionales las que se integran para los efectos de las responsabilidades a que se refieren los artículos 19 y 20 de esta ley.
@@ -716,11 +786,13 @@ Su funcionamiento se regulará por el Reglamento Interior para las Comisiones, e
 
 La Asamblea contará, para su funcionamiento administrativo, con los Comités de:
 
-I.- Administración;
+1.- Administración;
 
-II.- Asuntos Editoriales y Bibliotecas;
+2.- Asuntos Editoriales;
 
-III.- Atención, Orientación y Quejas Ciudadanas;
+3.- Atención, Orientación y Quejas Ciudadanas;
+
+4.- Bibliotecas.
 
 Los Comités son órganos auxiliares de carácter administrativo, para realizar tareas diferentes a las de las comisiones.
 
@@ -736,9 +808,11 @@ Los Comités tomarán sus decisiones por mayoría de votos de sus miembros prese
 
 La Asamblea dispondrá de las unidades administrativas que sean necesarias para el mejor cumplimiento de sus atribuciones y que determine su presupuesto.
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 77.
 
-Los nombramientos del Oficial Mayor, Tesorero, Contralor Interno, Coordinador General de Comunicación Social, Director del Instituto de Investigaciones Legislativas, Director de la Unidad de Estudios de Finanzas Públicas, así como del titular de la Coordinación de Servicios Parlamentarios, se llevaran a cabo mediante concurso de oposición, y serán ratificados por el voto de la mayoría de los miembros presentes en la sesión del Pleno respectiva.
+Los nombramientos del Oficial Mayor, Tesorero, Contralor Interno, Coordinador General de Comunicación Social, Director del Instituto de Investigaciones Legislativas, Director de la Unidad de Estudios de Finanzas Públicas, así como del titular de la Coordinación de Servicios Parlamentarios, serán propuestos por la Comisión de Gobierno y serán ratificados por el voto de la mayoría de los miembros presentes en la sesión del Pleno respectiva.
 
 ###### ARTÍCULO 78.
 
@@ -962,14 +1036,20 @@ SEGUNDO.- Se abroga la Ley Orgánica de la Asamblea Legislativa del Distrito Fed
 
 TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
-CUARTO.- Las comisiones y comités a que se refieren los articulo (sic) 62 y 74 de este Decreto, entraran en vigor, a partir de la instalación de la Asamblea Legislativa del Distrito Federal, Tercera Legislatura, en tanto, seguirán funcionando aquellas comisiones y comités cuya integración fue aprobada por la presente Legislatura.
-
-En caso de que se presenten controversias sobre la distribución de las competencias de las comisiones, la Comisión de Estudios Legislativos y Prácticas Parlamentarias resolverá lo conducente.
+CUARTO.- (DEROGADO, G.O. 23 DE SEPTIEMBRE DE 2003)
 
 QUINTO.- Todo lo relativo a la Diputación Permanente, entrará en vigor a partir de la instalación de la Asamblea Legislativa del Distrito Federal, Tercera Legislatura.
 
-SEXTO.- Por lo que se refiere a los nombramientos establecidos en el artículo 77 del presente Decreto, la Asamblea expedirá el Reglamento específico que regule dicho procedimiento, mismo que será aplicable para los servidores públicos que designe la Asamblea Legislativa del Distrito Federal, Tercera Legislatura.
+SEXTO.- (DEROGADO, G.O. 23 DE SEPTIEMBRE DE 2003)
 
 SEPTIMO.- Hasta en tanto la Asamblea Legislativa expida un nuevo Reglamento para el Gobierno Interior, seguirá vigente en lo que no se oponga al presente Decreto el Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 13 de septiembre de 1999.
 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los cinco días del mes de diciembre del año dos mil dos.- POR LA MESA DIRECTIVA.- DIP. MARCO ANTONIO MICHEL DÍAZ, PRESIDENTE.- SECRETARIA, DIP. ALICIA VIRGINIA TELLEZ SÁNCHEZ.- SECRETARIO, MARCOS MORALES TORRES. - (Firmas).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+G.O. 23 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente a su aprobación por el Pleno de la Asamblea.
