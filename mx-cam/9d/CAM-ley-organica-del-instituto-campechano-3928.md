@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-instituto-campechano-3928"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1965-08-31"
-last_updated: "1971-08-14"
+last_updated: "1981-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DEL INSTITUTO CAMPECHANO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1981.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 31 de agosto de 1965
 
@@ -43,11 +43,11 @@ LEY ORGANICA DEL INSTITUTO CAMPECHANO
 
 Se restablece el Instituto Campechano, que desapareció al crearse la Universidad de Campeche.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1971)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
 
 ###### Artículo 2o.
 
-El Instituto Campechano es una institución pública, dotada de plena capacidad jurídica y organizada para impartir educación secundaria, formar maestros para las escuelas de educación primaria y de profesoras de enseñanza pre-escolar, capacitar a los jóvenes para el ejercicio de alguna actividad artística, y poner la cultura con la mayor amplitud posible, al servicio de la colectividad.
+El Instituto Campechano es una institución pública, dotada de plena capacidad jurídica y organizada para impartir educación secundaria, formar maestros para las escuelas de instrucción preescolar, primaria, media y superior; capacitar para el ejercicio de alguna actividad técnica o artística, y poner la cultura, con la mayor amplitud posible, al servicio de la colectividad.
 
 ###### Artículo 3o.
 
@@ -63,21 +63,23 @@ III.- Para organizarse y estructurar sus escuelas de acuerdo con las disposicion
 
 Se concede plena validez, en lo que corresponda, a los estudios hechos en las escuelas que dependieron de la Universidad de Campeche.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+
 ###### Artículo 5o.
 
-El Instituto Campechano realizará la función docente por los siguientes organismos:
+EI Instituto Campechano realizará la función docente por los siguientes organismos:
 
-I.- Escuela Secundaria (diurna y nocturna);
+I.- Escuela Secundaria (Diurna y Nocturna);
 
-II.- Escuela Normal de Profesores y escuela primaria anexa;
+II.- Escuela Normal de Profesores y Escuela Primaria anexa;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1971)</small>
+III.- Escuela de Profesores de Enseñanza Preescolar y Jardín de Niños anexo;
 
-III.- Escuela de Profesoras de Enseñanza Pre-escolar y jardín de niños anexo;
+IV.- Escuela de Artes y Oficios;
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1971)</small>
+V.- Escuela Normal Superior.
 
-IV.- Escuela de Artes y Oficios.
+Independientemente de los planteles mencionados, el Instituto Campechano, por acuerdo de su Consejo General, podrá crear otras o liquidar cualquiera de ellas, en función de las necesidades vinculadas a los servicios educativos que presta a la comunidad.
 
 ###### Artículo 6o.
 
@@ -117,9 +119,11 @@ III.- Haberse distinguido como profesional, en las labores docentes o en las inv
 
 IV.- Ser de costumbres honestas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 1981)</small>
+
 ###### Artículo 11.
 
-Son obligaciones y facultades del Director:
+Son obligaciones y facultades del Director General:
 
 I.- Cumplir y hacer cumplir esta Ley, los reglamentos que de ella emanen y las disposiciones del Consejo General;
 
@@ -137,9 +141,9 @@ VII.- Proponer al Consejo General, por medio de ternas, las personas que deben s
 
 VIII.- Nombrar a los secretarios de las escuelas y demás empleados del Instituto, removerlos de sus puestos, concederles licencias y aceptarles sus renuncias;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1971)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1981)</small>
 
-IX.- Firmar en unión del Gobernador del Estado, el título de Profesor de Educación Primaria y el de Profesora de Enseñanza Pre-escolar, que el propio funcionario otorgue;
+IX.- Firmar en unión del Gobernador del Estado los títulos profesionales que el propio funcionario otorgue a los egresados del Instituto Campechano;
 
 X.- Firmar, en unión del Secretario, los certificados de estudios y diplomas que otorgue el Instituto;
 
@@ -149,9 +153,9 @@ XII.- Profesar una asignatura, cuando menos, en alguna de las escuelas del Insti
 
 XIII.- Aprobar los programas de exámenes ordinarios propuestos por los Directores de las escuelas;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1971)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1981)</small>
 
-XIV.- Recibir la protesta de fiel cumplimiento de sus deberes sociales y del ejercicio honesto de su profesión, a las personas que sean aprobadas en los exámenes profesionales en opción al título de Profesor de Educación Primaria o el de Profesora de Enseñanza Pre-escolar;
+XIV.- Recibir la protesta de fiel cumplimiento de sus deberes sociales y del ejercicio honesto de su profesión, a las personas que sean aprobadas en los exámenes profesionales que conceda el Instituto;
 
 XV.- Presentar anualmente al Consejo General, en la última sesión del período escolar correspondiente, un informe por escrito acerca de las actividades del Instituto;
 
@@ -169,29 +173,49 @@ El Director podrá separarse de su cargo hasta por treinta días, dando aviso po
 
 Cuando por causa justificada tuviese que separarse de su cargo el Director por más de treinta días y hasta por sesenta, el Gobernador del Estado concederá la licencia respectiva y nombrará a la persona que con el carácter de Director Interino substituirá al titular, durante el tiempo que dure la licencia concedida.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+
 ###### Artículo 14.
 
-En caso de falta absoluta del Director, por fallecimiento o por renuncia, abandono o remoción del cargo el Gobernador del Estado nombrará al nuevo titular.
+El Director General del Instituto durará tres años en el ejercicio de su encargo a partir de la fecha de su designación por el Gobernador del Estado; y si, transcurrido su término, no se nombra a quien haya de sustituirlo, dentro del plazo de un mes después de finalizado su ejercicio, se considerará prorrogado éste por un segundo período de tres años. En cualquier caso, se nombrará nuevo Director General para reemplazar a quien haya ejercido el cargo por seis años.
+
+En caso de falta absoluta del Director General, por fallecimiento o por renuncia, abandono o remoción del cargo, el Gobernador del Estado nombrará al nuevo titular.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
 
 ###### Artículo 15.
 
 El Consejo General estará integrado:
 
-I.- Por el Director;
+I.- Por el Director General;
 
-II.- Por los Directores de las Escuelas;
+II.- Por el Secretario General, que fungirá como Secretario del Consejo General;
 
-III.- Por un Representante Profesor de las Escuelas.
+III.- Por el Tesorero;
 
-IV.- Por un Representante Alumno de las Escuelas.
+IV.- Por los Directores de las Escuelas;
+
+V.- Por un representante profesor de las escuelas;
+
+VI.- Por un representante empleado de los trabajadores administrativos y manuales;
+
+VII.- Por un representante alumno de las Escuelas;
+
+VIII.- Eventualmente, cuando las circunstancias lo ameriten, por un representante de los padres de familia.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
 
 ###### Artículo 16.
 
-El Consejo General, que trabajará en pleno, celebrará una sesión ordinaria al mes, y sesiones extraordinarias cuando lo juzgue necesario el Director o un grupo de consejeros que represente, cuando menos, la mitad de los votos computados. En este último caso se presentará por los interesados una solicitud al Director, en la que deberá indicarse el asunto o asuntos motivo de la convocatoria.
+El Consejo General, que trabajará en pleno, celebrará una sesión ordinaria al mes, y sesiones extraordinarias cuando lo juzgue necesario el Director General o un grupo de consejeros que represente, cuando menos, la mitad de los votos computados. En este último caso se presentará por los interesados una solicitud al Director General en la que deberá indicarse el asunto o asuntos motivo de la convocatoria.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
 
 ###### Artículo 17.
 
-El Consejo General actuará válidamente con la asistencia de más de la mitad de sus miembros. Si por falta de quórum no se celebrase alguna sesión, se citará para una segunda que se efectuará, cualquiera que sea el asunto de que se trate, con los consejeros concurrentes. Las resoluciones del Consejo serán tomadas por simple mayoría de votos de los consejeros presentes, y en caso de empate, el Presidente tendrá voto de calidad.
+El Consejo General actuará válidamente con la asistencia de más de la mitad de sus miembros. Si por falta de quórum no se celebrase alguna sesión, se citará para una segunda que se efectuará cualquiera que sea el asunto de que se trate, con los consejeros concurrentes. Las resoluciones del Consejo serán tomadas por simple mayoría de votos de los consejeros presentes, y en caso de empate, el Presidente tendrá voto de calidad.
+
+En las sesiones del Consejo solamente estarán presentes los Consejeros; pero se admitirá en ellas, a invitación del propio Consejo, a quien sin ser Consejero, sea requerido para ilustrar o explicar algún asunto relacionado con los temas sometidos a la consideración del Consejo.
 
 ###### Artículo 18.
 
@@ -217,9 +241,9 @@ IX.- Conocer de todos los asuntos relacionados con los reglamentos y normas a qu
 
 X.- Nombrar, remover y conceder licencias de sus cargos, así como resolver acerca de sus renuncias, al personal docente de las escuelas del Instituto;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1971)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1981)</small>
 
-XI.- Conceder exámenes profesionales de Profesor de Educación Primaria y de Profesora de Enseñanza Pre-escolar;
+XI.- Conceder examen profesional a los Pasantes de las escuelas de nivel medio superior y nivel superior integradas en la estructura académica del Instituto;
 
 XII.- Conceder exámenes a título de suficiencia;
 
@@ -253,15 +277,29 @@ Las Comisiones Especiales serán las que el Consejo designe para estudiar y dict
 
 Las escuelas del Instituto tendrán en el Consejo General un representante propietario y otro suplente, por sus profesores, y un representante propietario y otro suplente, por sus alumnos. Dichos consejeros suplentes asistirán a las sesiones en lugar de los propietarios, en las faltas de éstos. Cuando la ausencia de un consejero propietario sea definitiva, se elegirá uno nuevo.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+
 ###### Artículo 23.
 
-La elección de los consejeros representantes de los profesores se hará cada dos años, en la forma siguiente: los profesores de cada escuela nombrarán un elector, y todos los electores designarán a los consejeros representantes de los profesores.
+Los Consejeros representantes de los profesores durarán en su encargo un año, y su elección, que será rotativa de acuerdo con las escuelas existentes, se ajustará al procedimiento siguiente: Los profesores de la escuela en turno se reunirán en asamblea y designarán, por mayoría de votos, a quienes fungirán respectivamente como Consejeros Propietario y Suplente. Los elegidos tendrán la representación del profesorado del Instituto en el Consejo General.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
 
 ###### Artículo 24.
 
-La elección de los consejeros representantes de los alumnos se hará cada dos años, en la siguiente forma: los alumnos de cada escuela nombrarán un elector, y todos los electores designarán a los consejeros representantes de los alumnos.
+Los Consejeros representantes de los alumnos también durarán en su encargo un año y su elección, que será igualmente rotativa en función de las escuelas del Instituto, se sujetará a un procedimiento similar al previsto en el artículo anterior para la elección de los Consejeros representantes del profesorado. Los dos Consejeros alumnos, Propietario y Suplente, tendrán la representación del alumnado del Instituto en el Consejo General.
+
+Los Consejeros, Propietario y Suplente, representantes de los trabajadores administrativos y manuales, así como los de los padres de familia, de justificarse su elección, durarán un año en sus funciones. Los correspondientes a los trabajadores administrativos y manuales serán electos, en votación directa, en una asamblea a la que convocará el Consejo General y que será conducida por la Comisión que el propio Consejo designe. En cuanto a los representantes de los padres de familia, serían elegidos de acuerdo con el procedimiento que fije la Comisión Coordinadora designada por el Consejo General.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
 
 ###### Artículo 25.
+
+Como en el caso de la elección de los representantes de los trabajadores administrativos y manuales y de los padres de familia, la elección de los Consejeros representantes del profesorado y del alumnado se hará bajo la conducción y vigilancia de una comisión integrada por los Directores de las Escuelas del Instituto. Dicha comisión será nombrada por el Consejo General y, para dar cumplimiento a su cometido, publicará la convocatoria relativa y establecerá en la misma el procedimiento al que se sujetará la elección de que se trate. La convocatoria contendrá el visto bueno del Director del Instituto.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+
+###### Artículo 26.
 
 Para ser consejero representante de los profesores será necesario:
 
@@ -269,7 +307,9 @@ I.- Ser profesor titular, en ejercicio, del Instituto, con más de dos años de 
 
 II.- No haber cometido faltas graves contra la disciplina de la Institución que hubieren sido sancionadas.
 
-###### Artículo 26.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+
+###### Artículo 27.
 
 Para ser consejero representante de los alumnos se requiere:
 
@@ -279,13 +319,11 @@ II.- Haber obtenido en el año anterior un promedio de calificaciones mínimo de
 
 III.- No haber cometido faltas graves contra la disciplina del Instituto que hubieren sido sancionadas.
 
-###### Artículo 27.
-
-El Secretario del Instituto Campechano lo será también del Consejo General.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
 
 ###### Artículo 28.
 
-El Secretario será designado por el Gobernador del Estado.
+El Secretario General del Instituto Campechano será designado por el Gobernador del Estado y actuará también como Secretario del Consejo General.
 
 ###### Artículo 29.
 
@@ -315,9 +353,11 @@ V.- Las demás inherentes a su cargo que deriven de esta Ley, de los acuerdos de
 
 Colaborarán con el Secretario los empleados que sean necesarios.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+
 ###### Artículo 32.
 
-El Secretario será suplido en sus faltas que no excedan de treinta días por la persona que designe el Consejo General con el carácter de interino. Por mayor tiempo y hasta por sesenta días, para separarse de su cargo, solicitará del Gobernador del Estado la licencia correspondiente, y será suplido durante el tiempo que dure ésta por la persona que con el carácter de secretario interino, designe el propio Gobernador del Estado.
+El Secretario General será suplido en sus faltas, que no excedan de diez días, por la persona que designe el Director General del Instituto; por mayor tiempo y hasta por treinta días, lo suplirá en su ausencia la persona que designe el Consejo General con el carácter de interino. Para separarse de su cargo hasta por sesenta días, solicitará del Gobernador del Estado la licencia correspondiente, y será suplido durante el tiempo que dure ésta por la persona que, con el carácter de Secretario General interino, designe el propio Gobernador del Estado.
 
 ###### Artículo 33.
 
@@ -349,15 +389,27 @@ II.- Enviar al Ejecutivo del Estado cortes de caja trimestrales;
 
 III.- Enviar al Consejo General la cuenta anual del Instituto, para lo que proceda;
 
-IV.- Informar al Gobernador del Estado y al Consejo General, cada vez que lo soliciten, acerca del estado de cuentas de la Tesorería, así como sobre los valores, libros y documentos que estén bajo su guarda.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1981)</small>
+
+IV.- Enviar al Director General del Instituto un reporte mensual del movimiento contable y del ejercicio presupuestal;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 1981)</small>
+
+V.- Informar el Gobernador del Estado, al Consejo General y al Director General del Instituto, cada vez que lo soliciten, acerca del estado de cuenta de la Tesorería, así como sobre los valores, libros, documentos y utilería que estén bajo su guarda. A este respecto, el Tesorero evitará que en la oficina a su cargo obren documentos, valores y objetos de cualquier clase de índole personal.
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 1981)</small>
+
+VI.- Consultar con el Director General del Instituto acerca de los cambios que se hagan en la organización del trabajo contable; someter a su aprobación o, en su caso, darle conocimiento de las medidas que adopte para la recaudación de cuotas, derechos e ingresos en general, así como para la buena marcha de la Tesorería; y recabar necesariamente su visto bueno para efectuar cualquier pago o gasto.
 
 ###### Artículo 37.
 
 Colaborarán con el Tesorero los empleados que sean necesarios.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+
 ###### Artículo 38.
 
-El Tesorero sólo podrá separarse temporalmente de su cargo, por licencia que le será concedida por el Gobernador del Estado, quien dispondrá lo conveniente en beneficio dé los intereses del Instituto.
+Sin embargo, si la separación no excede de quince días, será el Director General del Instituto, con la correspondiente comunicación al Consejo General, quien la conceda.
 
 ###### Artículo 39.
 
@@ -387,7 +439,11 @@ IV.- Llevar una vida honorable.
 
 Los directores de las escuelas serán suplidos en sus faltas que no excedan de treinta días, por las personas que designe el Consejo General con el carácter de interinos. Por mayor tiempo y hasta por sesenta días, para separarse de sus cargos solicitarán del Gobernador del Estado la licencia correspondiente, y serán suplidos durante el tiempo que dure ésta por la persona que con el carácter de Director Interino designe el propio Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+
 ###### Artículo 44.
+
+El Director de una Escuela durará en su encargo dos años a partir de la fecha de su designación por el Gobernador del Estado, y podrá ser confirmado, luego de transcurrido el período de su ejercicio, de manera expresa o tácita para continuar desempeñando el cargo por dos años más. En todo caso, el Director de una escuela no durará más de cuatro años en su encargo.
 
 En caso de falta absoluta del Director de una escuela, por renuncia, abandono o remoción del cargo, el Gobernador del Estado nombrará al nuevo titular.
 
@@ -405,9 +461,11 @@ II.- Ser de buena conducta;
 
 III.- Haber aprobado, cuando menos, el ciclo de secundaria.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+
 ###### Artículo 47.
 
-Los profesores de las escuelas serán designados por el Consejo General, a propuesta en terna del Director del Instituto.
+Los profesores de las escuelas serán designados por el Consejo General, para lo cual los Directores elevarán sus propuestas simples al Director General del Instituto quien, a su vez, las presentará al Consejo General para su aprobación.
 
 ###### Artículo 48.
 
@@ -435,11 +493,23 @@ El mantenimiento del orden dentro del Instituto estará a cargo del cuerpo de pr
 
 En cada escuela se establecerá un Consejo Técnico integrado por el Director, un Representante Profesor y dos Representantes de los alumnos. Las funciones de dicho Consejo, así como la forma de designación de sus integrantes, se determinarán en las normas reglamentarias que expida el Consejo General.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
+
 ###### Artículo 53.
 
-Para los fines estimativos del aprovechamiento escolar en las escuelas del Instituto, se establecerán los siguientes medios:
+Para los fines estimativos del aprovechamiento en las escuelas del Instituto se establecerán los siguientes medios:
 
-I.- En la Escuela Secundaria:
+I.- En la Escuela Secundaria (Diurna y Nocturna):
+
+a).- Pruebas bimestrales;
+
+b).- Exámenes ordinarios;
+
+c).- Exámenes extraordinarios;
+
+d).- Exámenes a título de suficiencia;
+
+II.- En las Escuelas Normal Superior, Normal de Profesores y de Educación Preescolar:
 
 a).- Pruebas bimestrales;
 
@@ -451,35 +521,23 @@ d).- Exámenes extraordinarios;
 
 e).- Exámenes a título de suficiencia;
 
-f).- Exámenes de regularización.
+III.- En la Escuela de Artes y Oficios:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1971)</small>
+Exámenes de capacidad;
 
-II.- En la Escuela Normal de Profesores de Educación Primaria y en la de Profesoras de Enseñanza Pre-escolar:
+IV.- En otras escuelas:
 
-a).- Pruebas semestrales;
-
-b).- Exámenes ordinarios;
-
-c).- Exámenes extraordinarios;
-
-d).- Exámenes a título de suficiencia;
-
-e).- Exámenes profesionales;
-
-f).- Exámenes de regularización.
-
-III.- En la Escuela de Artes y Oficios, pruebas bimestrales.
+Se utilizará cualquiera de los sistemas establecidos para las escuelas anteriores, o el que convenga según la categoría o nivel del plantel correspondiente.
 
 ###### Artículo 54.
 
 En el reglamento correspondiente se establecerán los sistemas para realizar dichos medios de pruebas y exámenes, las condiciones a llenar para tener derecho a presentarlos, la escala de calificaciones y la manera de obtener los promedios de éstas y el contenido de las actas respectivas que se levantarán y de las constancias que se les entregarán a los examinados.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1971)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1981)</small>
 
 ###### Artículo 55.
 
-El título de Profesor de Educación Primaria y el de Profesora de Enseñanza Pre-escolar, a que tengan derecho las personas que hayan aprobado el plan de estudios correspondiente y que hayan cumplido con los demás requisitos que para obtenerlos exija el reglamento de sus respectivas escuelas, será expedido por el Ejecutivo del Estado.
+Los títulos a que tengan derecho las personas que hayan aprobado el plan de estudios correspondiente, y que hayan cumplido con los demás requisitos que para obtenerlos exija el reglamento de sus respectivas escuelas, serán expedidos por el Ejecutivo del Estado.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1971)</small>
 
@@ -636,3 +694,13 @@ Dado en el Edificio de los Poderes del Estado, en Campeche, a los treinta días 
 P.O. 14 DE AGOSTO DE 1971.
 
 UNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE MARZO DE 1981.
+
+###### ARTICULO PRIMERO.
+
+Sin perjuicio de lo establecido en el articulado de la Ley, para todos los efectos legales y oficiales, el Director del Instituto Campechano se denominará Director General y el Secretario será denominado Secretario General.
+
+###### ARTICULO SEGUNDO.
+
+Las presentes reformas y adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
