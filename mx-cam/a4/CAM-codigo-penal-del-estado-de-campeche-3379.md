@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "2000-04-27"
+last_updated: "2002-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO PENAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -2319,15 +2319,17 @@ Cuando el agente ejerciere autoridad sobre el pasivo o fuere su tutor o maestro,
 
 El delito de atentado contra el pudor sólo se castigará cuando se haya consumado.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2002)</small>
 
 ###### Art. 230.
 
-Al que tenga cópula con mujer mayor de doce años pero menor de dieciocho, casta y honesta, obteniendo su consentimiento por medio de la seducción o el engaño, se le aplicarán de un mes a tres años de prisión y multa de veinte a doscientos días de salario mínimo.
+Al que tenga cópula con mujer mayor de doce años pero menor de dieciocho, obteniendo su consentimiento por medio de la seducción o el engaño, se le aplicarán de tres meses a cuatro años de prisión y multa de veinte a doscientos días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2002)</small>
 
 ###### Art. 231.
 
-No se procederá contra el estuprador sino por queja de la mujer ofendida o de sus padres, o a falta de éstos, de sus representantes legítimos; pero cuando el delincuente se case con la mujer ofendida, cesará toda acción para perseguirlo.
+Se procederá contra el estuprador por queja de la mujer ofendida o de sus padres, o a falta de éstos, de sus representantes legítimos; pero cuando el delincuente se case con la mujer ofendida, cesará toda acción para perseguirlo.
 
 ###### Art. 232.
 
@@ -2347,15 +2349,19 @@ La introducción, por medio de la violencia, física o moral, por vía vaginal o
 
 Se equipara a la violación y se sancionará con la misma pena al que, sin violencia, cometa alguno de los hechos especificados en el artículo anterior en persona menor de doce años de edad o que no tenga la capacidad de comprender el significado del hecho o que por cualquiera otra causa no pueda resistirlo. Si se ejerciere violencia, física o moral, el mínimo y el máximo de la pena se aumentarán en una mitad.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2002)</small>
 
 ###### Art. 235.
 
-A las sanciones señaladas en los artículos 230 y 233 se aumentarán de seis meses a cinco años de prisión cuando el responsable tenga parentezco (sic) de consanguinidad, de afinidad o civil con la persona ofendida. También cuando el agente ejerciere autoridad sobre el pasivo o fuere su tutor o maestro o cometiere el delito valiéndose de un cargo o empleo públicos o ejerza una profesión y utilice los medios o circunstancias que ellos le proporcionen, o sea ministro de algún culto.
+A las sanciones señaladas en los artículos 230 y 233 se aumentarán de uno a cinco años de prisión cuando el responsable tenga parentesco de consanguinidad, de afinidad o civil con la persona ofendida. También cuando el agente ejerciere autoridad sobre el pasivo o fuere su tutor o maestro o cometiere el delito valiéndose de un cargo o empleo públicos o ejerza una profesión y utilice los medios o circunstancias que ellos le proporcione, o sea ministro de algún culto.
 
-Los responsables de que trata este artículo perderán la patria potestad, si la ejercieren, o la tutela, o la guarda y custodia, así como el derecho de heredar a la persona ofendida; los que ejercieren profesión y oficio, quedarán suspendidos en ellos por el término de dos hasta cinco años y el funcionario o empleado públicos serán destituidos de su cargo o empleo, e inhabilitados por cinco años para desempeñar otro similar.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2002)</small>
 
-Si la violación fuere cometida con participación de dos o más personas, la prisión será de ocho a veinte años y la multa de veinte a cien veces el salario mínimo diario vigente en el Estado, en el momento de la comisión del delito.
+El responsable de que trata este artículo perderá la patria potestad, si la ejerciere, o la tutela, o la guarda y custodia, y no podrá ser heredero, en sucesión legítima, de la persona ofendida; los que ejercieren profesión u oficio quedarán suspendidos en ellos por el término de dos hasta cinco años y el funcionario o empleado públicos serán destituidos de su cargo o empleo, e inhabilitados por cinco años para desempeñar otro similar.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2002)</small>
+
+Si la violación fuere cometida con participación de dos o más personas, la prisión será de ocho a veinte años y la multa de veinte a doscientas veces el salario mínimo diario vigente en el Estado en el momento de la comisión del delito.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
@@ -3772,3 +3778,9 @@ P.O. 27 DE ABRIL DE 2000.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 14 DE JUNIO DE 2002.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente decreto.
