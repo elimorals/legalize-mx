@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "1997-09-11"
+last_updated: "1997-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE SEPTIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 1997.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -65,7 +65,7 @@ La creación y supresión de municipios, la modificación de su territorio, camb
 
 Para el eficaz cumplimiento de sus funciones, los ayuntamientos podrán coordinarse entre si y con las autoridades estatales; y en su caso, con las autoridades federales, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Artículo 6.
 
@@ -139,7 +139,7 @@ CHIMALHUACAN CHIMALHUACAN
 
 DONATO GUERRA VILLA DONATO GUERRA
 
-ECATEPEC ECATEPEC DE MORELOS
+ECATEPEC DE MORELOS ECATEPEC DE MORELOS
 
 ECATZINGO ECATZINGO DE HIDALGO
 
@@ -2040,3 +2040,9 @@ Publíquese el presente decreto en la "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 30 DE SEPTIEMBRE DE 1997.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
