@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2002-11-01"
+last_updated: "2002-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987.
 
@@ -1523,7 +1523,7 @@ No se comete el delito de difamación cuando:
 
 I.- Se manifieste técnicamente su parecer sobre alguna producción literaria, artística, científica o industrial.
 
-II.- Se manifiesta su juicio sobre la capacidad, instrucción, aptitud o conducta de otro, probare que obró en cumplimiento de un deber por interés público, o que, con la debida reserva, lo hizo por humanidad, por prestar un servicio a persona con quien tenga parentesco o amistad, o dando informes que se le hubieren pedido, si no lo hiciere a sabiendas, calumniosamente, y
+II.- Se manifiesta su juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si probare que obró en cumplimiento de un deber por interés público, o que, con la debida reserva, lo hizo por humanidad, por prestar un servicio a persona con quien tenga parentesco o amistad, o dando informes que se le hubieren pedido, si no lo hiciere a sabiendas, calumniosamente, y
 
 III.- Sea autor de un escrito presentado o de un discurso pronunciado ante un órgano jurisdiccional, pues si hiciere uso de alguna expresión difamatoria, el órgano jurisdiccional, según la gravedad del caso le impondrá alguna de las correcciones disciplinarias de las que permite la Ley.
 
@@ -1673,7 +1673,7 @@ Comete el delito de abigeato el que en cualquier sitio se apodere de una o más 
 
 I.- De 6 meses a 2 años de prisión y de 1 a 50 días multa, si la conducta descrita se ejecuta sobre una o dos cabezas de ganado menor;
 
-II.- De 2 a 6 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre tres a cinco cabezas de ganado menor ó una o dos cabeza (sic) de ganado mayor; y
+II.- De 2 a 6 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre tres a cinco cabezas de ganado menor ó una o dos cabezas de ganado mayor; y
 
 III.- De 3 a 9 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre más de cinco cabezas de ganado menor ó sobre más de dos cabezas de ganado mayor.
 
@@ -2795,7 +2795,7 @@ XVIII.- Compeler al imputado a declarar en su contra usando la incomunicación o
 
 XIX.- Ordenar o practicar cateos o visitas domiciliarias fuera de los casos autorizados por la Ley;
 
-XX.- Demorar injustificadamente el cumplimiento de las providencias judiciales en la que se ordene poner en libertad a un detenido con la realización de un acto obligatorio que produzca la indebida dilación de un proceso;
+XX.- Demorar injustifacadamente el cumplimiento de las providencias judiciales en la que se ordene poner en libertad a un detenido con la realización de un acto obligatorio que produzca la indebida dilación de un proceso;
 
 XXI.- Prolongar la prisión preventiva por más tiempo del que como máximo fije la Ley al delito que motivó el proceso;
 
@@ -2805,7 +2805,7 @@ XXIII.- Exigir gabelas o contribuciones los encargados o empleados de lugares de
 
 XXIV.- Permitir fuera de los casos previstos por la Ley la salida temporal de personas legalmente privadas de su libertad;
 
-XXV.- Poner indebidamente en libertad o favorecer la evasión de una persona que se encuentre privada de aquélla. Cuando con la misma conducta se favorezca la evasión de 2 o más personas, se aumentarán hasta en una mitad más las penas previstas en el artículo siguiente, o
+XXV.- (DEROGADA, P.O. 15 DE NOVIEMBRE DE 2002)
 
 XXVI.- Propiciar o favorecer el quebrantamiento de alguna pena no privativa de libertad o medida de seguridad impuesta.
 
@@ -3370,3 +3370,13 @@ La presente Ley iniciará su vigencia al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+P.O. 15 DE NOVIEMBRE DE 2002
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente.
