@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2005-03-11"
+last_updated: "2005-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2005.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -323,7 +323,7 @@ XIX.- Procurar que el personal de la dependencia, entidad o departamento, cuente
 
 XX.- Vigilar que el personal de la dependencia, entidad o departamento, que se encuentre adscrito a las Delegaciones Municipales, se sujete a los Delegados y a su supervisión, con excepción del personal de Sindicatura Municipal;
 
-XXI.- Supervisar que las tareas encomendadas a la dependencia, entidad o departamento a su cargo, se lleven a cabo con calidad y eficiencia; y (sic9,
+XXI.- Supervisar que las tareas encomendadas a la dependencia, entidad o departamento a su cargo, se lleven a cabo con calidad y eficiencia; y (sic),
 
 XXII.- Supervisar el buen uso y mantenimiento de los recursos materiales que tenga asignada (sic) la dependencia, entidad o departamento;
 
@@ -473,9 +473,13 @@ III.- Coordinación de Delegaciones y Juntas de Mejoramiento Moral, Cívico y Ma
 
 IV.- Coordinación de Desarrollo Gubernamental;
 
-V.- Coordinación de Informática; y,
+V.- Coordinación de Informática; y (sic),
 
-VI.- Coordinación de Atención Ciudadana.
+VI.- Coordinación de Atención Ciudadana;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2005)</small>
+
+VII.- Coordinación de Atención a Personas con Discapacidad.
 
 ###### ARTICULO 33.
 
@@ -578,6 +582,30 @@ VIII.- Las demás que se deriven de las disposiciones legales y administrativas 
 ###### ARTICULO 38.
 
 La Coordinación de Atención Ciudadana, tendrá como función, recibir y dar seguimiento a las peticiones hechas por los ciudadanos, en asuntos que sean de competencia municipal.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2005)</small>
+
+ARTICULO 38 BIS.- La Coordinación de Atención a Personas con Discapacidad tendrá como función, recibir y dar seguimiento a las peticiones vertidas por la población perteneciente a este sector en asuntos que sean de competencia municipal, encargándose de:
+
+I.- Otorgar en ocasiones apoyos económicos o en especie a las personas con discapacidad, que requieren de este beneficio y cumplan con los requerimientos establecidos por la coordinación;
+
+II.- Promover la cultura de atención respeto, difusión y defensa de los derechos de las personas con discapacidad, así como las disposiciones legales que las contemplan a fin de garantizar su aplicación;
+
+III.- Promover la coordinación de los sectores públicos, social y privado, para establecer planes y programas a favor de las personas con discapacidad;
+
+IV.- Asesorar a las dependencias y Paramunicipales en el cumplimiento de reglamentos, normas oficiales mexicanas, manuales, lineamientos técnicos y demás instrumentos relacionados con la materia de la accesibilidad en general para las personas con discapacidad;
+
+V.- Fortalecer y apoyar las actividades deportivas, artísticas y culturales vinculadas con las personas con discapacidad;
+
+VI.- Establecer mecanismos de atención y fortalecimiento de acciones hacia las personas con discapacidad;
+
+VIl.- Promover las captación de recursos que sean destinados al desarrollo de actividades y programas de ayuda a las personas con discapacidad;
+
+VIlI.- Recibir y canalizar a las instancias competentes, quejas y sugerencias sobre la atención de las autoridades a las personas con discapacidad;
+
+IX.- Proponer se introduzcan adecuaciones al sistema del transporte público para facilitar el acceso traslado y costo a las personas con discapacidad;
+
+X.- Promover la integración laboral de las personas con discapacidad.
 
 ### CAPITULO CUARTO. DE LA TESORERIA MUNICIPAL
 
@@ -1699,13 +1727,13 @@ La intervención comprenderá dos tiempos: Cuando se adviertan hechos posiblemen
 
 En el entendido que por lo que hace a ambos supuestos la atención deberá encaminarse en:
 
-- El conocimiento del hecho delictuoso a través de la víctima o en los casos que proceda a través de un tercero;
+El conocimiento del hecho delictuoso a través de la víctima o en los casos que proceda a través de un tercero;
 
-- Detención del presunto responsable;
+Detención del presunto responsable;
 
-- Canalización de la víctima a personal capacitado en materias de: medicina, psicología, y leyes, dichas áreas elaborarán sus respectivos informes, obteniéndose mediante éstos, si existen primeramente una alteración en la salud de la víctima, una afectación emocional y finalmente una debida orientación jurídica del caso concreto que se trate respectivamente, tomando en consideración que subsecuente a dicha intervención existen etapas a efecto de determinarse la situación jurídica al respecto.
+Canalización de la víctima a personal capacitado en materias de: medicina, psicología, y leyes, dichas áreas elaborarán sus respectivos informes, obteniéndose mediante éstos, si existen primeramente una alteración en la salud de la víctima, una afectación emocional y finalmente una debida orientación jurídica del caso concreto que se trate respectivamente, tomando en consideración que subsecuente a dicha intervención existen etapas a efecto de determinarse la situación jurídica al respecto.
 
-- Canalización final a la autoridad competente que deberá conocer del caso concreto, conteniendo: los indicios de inicio para la debida integración de la averiguación previa que se iniciará, los cuales consistirán además de los precitados, en los objetos e instrumentos de delito en caso de existir, dejándose a disposición de dicha autoridad al presunto responsable en casos de flagrancia delictiva. En los casos de no detención de responsable, deberá observarse el mismo procedimiento, a excepción de la detención y puesta a disposición del mismo.
+Canalización final a la autoridad competente que deberá conocer del caso concreto, conteniendo: los indicios de inicio para la debida integración de la averiguación previa que se iniciará, los cuales consistirán además de los precitados, en los objetos e instrumentos de delito en caso de existir, dejándose a disposición de dicha autoridad al presunto responsable en casos de flagrancia delictiva. En los casos de no detención de responsable, deberá observarse el mismo procedimiento, a excepción de la detención y puesta a disposición del mismo.
 
 II.- Para operar con eficiencia se apoyará con los elementos existentes de la corporación, los que responderán con la diligencia necesaria del caso.
 
@@ -2722,3 +2750,7 @@ SEGUNDO.- Que el personal que atienda la Unidad Contra la Violencia Intrafamilia
 TERCERO.- Que en la currícula de la Academia de Policía se incorporen materias al respecto de la violencia intrafamiliar.
 
 CUARTO.- Que se cree una línea telefónica llamada "línea por una familia de violencia".
+
+P.O. 1 DE ABRIL DE 2005.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
