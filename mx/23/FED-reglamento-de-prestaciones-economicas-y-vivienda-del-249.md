@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-prestaciones-economicas-y-vivienda-del-249"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-06-28"
-last_updated: "1994-09-26"
+last_updated: "2000-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-06-14"
 
 REGLAMENTO DE PRESTACIONES ECONOMICAS Y VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 2000.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 28 de junio de 1988.
 
@@ -467,7 +467,7 @@ El Instituto notificará a la Afiliada que corresponda el otorgamiento de la pen
 
 De conformidad con lo dispuesto por el artículo 36 de la Ley, los riesgos de trabajo serán calificados técnicamente por el Instituto. El afectado inconforme con la calificación deberá presentar su escrito de inconformidad dentro de los 30 días hábiles siguientes a la fecha en que se notifique la resolución correspondiente. Asimismo podrá designar un perito técnico o profesional para que en un término no mayor de 30 días hábiles, contados a partir de la fecha en que sea propuesto dictamine a su vez. En caso de desacuerdo entre la calificación del Instituto y el dictamen del perito designado por el afectado, el Instituto propondrá una terna, preferentemente de especialistas de notorio prestigio técnico o profesional para que dentro de ellos elija uno en un plazo máximo de 15 días hábiles contados a partir de la presentación de la terna; de no hacerlo la designación del perito la hará el Instituto.
 
-El perito designado emitirá su dictamen dentro de un plazo máximo de 15 días hábiles, contados a partir de la fecha de su designación, mismo que tendrá carácter definitivo, siendo inapelable y obligatorio para el interesado y para el Instituto.
+El perito designado emitirá su dictamen dentro de un plazo máximo de 15 días hábiles, contados a partir de la fecha de su designación, mismo que tendrá carácter de definitivo, siendo inapelable y obligatorio para el interesado y para el Instituto.
 
 ###### ARTICULO 44.
 
@@ -493,15 +493,17 @@ Para el otorgamiento de créditos a corto y mediano plazo, el Instituto requerir
 
 I.- A los trabajadores y pensionistas por derecho propio como extrabajadores:
 
-> <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
 
-A).- Presentar la solicitud que para el efecto se proporcione, debidamente certificada por la Afiliada respectiva o por el propio Instituto en el caso de los pensionistas. Dicha certificación tendrá una vigencia de 60 días narutales (sic); y
+A).- Presentar la solicitud que para el efecto se proporcione, debidamente certificada por la Afiliada respectiva o por el propio Instituto en el caso de los pensionistas, dentro de los 30 días naturales siguientes de ocurrida la certificación; la vigencia de esta certificación podrá renovarse con la presentación del último talón de pago del solicitante.
 
-B).- Identificarse mediante documento oficial en donde aparezcan fotografía del trabajador o pensionista y su firma; en el caso de que no pueda o no sepa escribir, su huella digital.
+Las solicitudes de crédito podrán ser presentadas en forma personal o a través de sus organizaciones de pensionistas, sindicatos o dependencias, mismos que deberán acreditar y registrar a sus gestores en las instancias correspondientes.
 
-> <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
 
-Cuando el trabajador preste sus servicios en varias Afiliadas, deberá presentar la solicitud debidamente certificada por la Afiliada donde tenga mayor antigüedad, así como el último talón de pago de las otras; y
+B).- Haber cubierto al Instituto las cuotas y aportaciones por más de un año.
+
+Cuando el trabajador preste sus servicios en varias Afiliadas, deberá presentar la solicitud debidamente certificada por la Afiliada donde tenga mayor antigüedad, así como copia del último talón de pago de las otras.
 
 II.- A las Afiliadas:
 
@@ -517,6 +519,14 @@ B).- Proteger las certificaciones de manera que no puedan alterarse.
 
 El Instituto solicitará a las afiliadas la identificación y firma autógrafa de los responsables de certificar las solicitudes de crédito dentro de los primeros diez días hábiles de su designación, y llevará un registro actualizado de los mismos.
 
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
+
+De igual manera solicitará a las organizaciones de pensionistas, sindicatos y dependencias afiliadas, la identificación y firma autógrafa de los gestores acreditados, dentro de los primeros 10 días hábiles de su designación y llevará un registro actualizado de los mismos.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
+
+Asimismo, llevará a cabo al inicio de cada año el registro actualizado de ambos catálogos.
+
 ###### ARTICULO 48.
 
 Cuando un trabajador tenga una plaza de base y otra de confianza o temporal y el sueldo correspondiente a la de base sea suficiente para cubrir los descuentos, sin rebasar el 50% del sueldo, deberá cargarse el descuento a esta plaza, sin tomar en cuenta la otra.
@@ -529,41 +539,39 @@ De acuerdo a los recursos aprobados por la Junta Directiva en el Programa de Pre
 
 Dichos créditos deberán cubrirse dentro de los siguientes períodos:
 
-I.- El crédito a corto plazo otorgado a trabajadores de base y pensionistas hasta en un máximo de 48 quincenas. Cuando sean trabajadores de confianza o temporales en:
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
 
-A).- 48 quincenas, cuando se hayan cubierto al Instituto 10 años o más de cuotas y aportaciones;
+I.- Los créditos a corto plazo otorgados a los trabajadores y pensionistas, deberán cubrirse hasta en un máximo de 48 quincenas, de acuerdo al sueldo o pensión que perciban.
 
-B).- 36 quincenas, cuando se hayan cubierto de 5 a 10 años de cuotas y aportaciones; y
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
 
-> <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
+II.- Los créditos a mediano plazo otorgados a los trabajadores y pensionistas, deberán cubrirse hasta en un máximo de 120 quincenas, de acuerdo al sueldo o pensión que perciban.
 
-C).- 24 quincenas, cuando se hayan cubierto de 1 a 5 años de cuotas y aportaciones; y
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
 
-II.- El crédito a mediano plazo otorgado a trabajadores de base y pensionistas, hasta en un máximo de 120 quincenas. Cuando sean trabajadores de confianza o temporales en:
-
-A).- 120 quincenas, cuando se hayan cubierto al Instituto 10 años o más de cuotas y aportaciones;
-
-B).- 96 quincenas, cuando se hayan cubierto de 5 a 10 años de cuotas y aportaciones; y
-
-C).- 72 quincenas, cuando se hayan cubierto de 1 a 5 años de cuotas y aportaciones.
-
-No se otorgará crédito a corto plazo mientras esté vigente uno a mediano plazo. Este último se concederá a los trabajadores y pensionistas sólo una vez al año siempre y cuando no exista adeudo pendiente por otro crédito otorgado con anterioridad.
+No se otorgará crédito a corto plazo mientras esté vigente uno a mediano plazo, a excepción de los créditos para damnificados. El préstamo a mediano plazo se concederá a los trabajadores y pensionistas solo una vez al año, siempre y cuando no exista adeudo pendiente por otro crédito otorgado con anterioridad.
 
 ###### ARTICULO 50.
 
 El préstamo a mediano plazo se otorgará a los trabajadores y pensionistas mediante un documento de crédito para adquirir bienes de uso duradero, en tiendas y centros comerciales del Instituto o en los que éste designe.
 
-Dicho préstamo se podrá otorgar mancomunadamente a los servidores públicos que así lo soliciten a satisfacción del Instituto.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 51.
 
 Cuando el Instituto descubra alteraciones en las solicitudes de crédito o falsedad en su contenido, suspenderá la tramitación respectiva y no reanudará trámite alguno hasta comprobar la veracidad de lo consignado, sin perjuicio de lo que disponga la legislación en materia de responsabilidades.
 
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 51 BIS.- La distribución de los créditos se realizará tanto a través de las Unidades Centrales como desconcentradas, atendiendo a las reglas que para tal efecto emita la Subdirección de Otorgamiento de Crédito, previa coordinación con la representación de la derechohabiencia.
+
 #### SECCION SEGUNDA. Del Fondo de Garantía
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 52.
 
-El Fondo de Garantía que establece la Ley, tiene por objeto garantizar el monto del préstamo y estará destinado a redimir los créditos que queden insolutos cuando los acreditados fallezcan o, por una sola vez, cuando sufran una incapacidad total permanente, en los términos y condiciones que este Reglamento señala.
+El Fondo de Garantía que establece la Ley, tiene por objeto garantizar el monto del préstamo y estará destinado a redimir los créditos que queden insolutos cuando los acreditados fallezcan, o bien por una sola vez cuando sufran una invalidez o una incapacidad total permanente, en los términos y condiciones que este Reglamento señala.
 
 Todos los trabajadores y pensionistas que hayan obtenido u obtengan créditos del Instituto, quedan protegidos por este fondo.
 
@@ -579,19 +587,23 @@ I.- 1.0% sobre el importe del préstamo que se otorgue a los trabajadores que ha
 
 II.- 0.8% sobre el importe del préstamo que se otorgue a los trabajadores que hayan cubierto de 5 a 10 años de cuotas y aportaciones; y
 
-III.- 0.6% sobre el importe del préstamo que se otorgue a los trabajadores que hayan cubierto más de 10 años de cuotas y aportaciones.
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
+
+III.- 0.6% sobre el importe del préstamo que se otorgue a los trabajadores y pensionistas que hayan cubierto al Instituto más de 10 años de cuotas y aportaciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 54.
 
-Los saldos insolutos vencidos o por vencer de los acreditados que fallezcan o sufran una incapacidad total permanente, se cubrirán mediante la aplicación del Fondo de Garantía, aún cuando no se encuentren al corriente en el pago de su préstamo a corto o mediano plazo.
+Los saldos insolutos vencidos o por vencer de los créditos otorgados a los trabajadores o pensionistas que fallezcan o a los trabajadores que se les dictamine un estado de invalidez, o bien una incapacidad total permanente, se cubrirán mediante la aplicación del Fondo de Garantía, aun cuando no se encuentren al corriente en el pago de su préstamo a corto o mediano plazo.
 
 El Instituto cancelará el saldo insoluto del crédito en la quincena inmediata posterior a la que el trabajador o pensionista sufra el evento, aún cuando la solicitud respectiva se presente con posterioridad.
 
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 55.
 
-En los casos de créditos mancomunados, cada uno de los acreditados cubrirá la prima que le corresponda y, en caso de muerte o incapacidad total permanente, el capital e intereses se reducirán en la parte correspondiente.
-
-El fallecimiento se comprobará mediante la copia certificada del acta de defunción y la incapacidad total permanente con el dictamen que expida el área correspondiente del Instituto.
+El fallecimiento del acreditado se comprobará mediante la copia certificada del acta de defunción y la invalidez o incapacidad total permanente, con el dictamen que expida el área correspondiente del Instituto.
 
 ###### ARTICULO 56.
 
@@ -751,8 +763,6 @@ Atentamente.
 
 México, Distrito Federal a catorce de junio de mil novecientos ochenta y ocho.- El Director General, Alejandro Carrillo Castro.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO:</small>
-
 D.O.F. 19 DE ABRIL DE 1994.
 
 PRIMERA.- Estas Reglas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -769,6 +779,8 @@ SEXTA.- La tasa de interés a que se refiere la Regla vigésima séptima será d
 
 SEPTIMA.- El porcentaje del enganche a que se refiere la Regla sexta no será superior al cincuenta por ciento del valor de la vivienda.
 
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
 D.O.F. 26 DE SEPTIEMBRE DE 1994.
 
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMA QUE SE RELACIONAN CON EL REGLAMENTO.
@@ -780,3 +792,17 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan los artículos 36, 37 y 38 del Capítulo III, Sección Primera del Reglamento de Prestaciones Económicas y Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en el Diario Oficial de la Federación el 28 de junio de 1988.
+
+D.O.F. 19 DE DICIEMBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO TERCERO.
+
+El beneficio concedido a los acreditados con alguna invalidez establecido en la adición al artículo 52, no tendrá efectos retroactivos y se aplicará a los créditos que se otorguen a partir del 1 de enero del 2001.
