@@ -4,7 +4,7 @@ identifier: "FED-ley-sobre-relaciones-familiares-717"
 country: "mx"
 rank: "ley"
 publication_date: "1917-04-14"
-last_updated: "1917-05-09"
+last_updated: "1928-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=717&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1917-04-09"
 ---
 # LEY SOBRE RELACIONES FAMILIARES
 
-> <small>[N. DE E. EN VIRTUD DE QUE LA PRIMERA PUBLICACIÓN DE LA LEY SOBRE RELACIONES FAMILIARES EN EL DIARIO OFICIAL, RESULTÓ CON ALGUNOS ERRORES, Y HABIENDO RECIBIDO ÚLTIMAMENTE ESTA DIRECCIÓN COPIA ORIGINAL CON LAS ENMIENDAS RELATIVAS, SE PUBLICA DE NUEVO LA REFERIDA LEY.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO 9o. DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES, EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, PUBLICADO EN EL D.O. DE 26 DE MAYO DE 1928, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
 
 LEY SOBRE RELACIONES FAMILIARES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9, 10 Y 11 DE MAYO DE 1917.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE MAYO DE 1928 (DEROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 14, lunes 16, martes 17 y miércoles 18 de abril de 1917.
 
@@ -2245,7 +2245,7 @@ III.- Los sordo-mudos que no saben leer ni escribir;
 
 IV.- Los ebrios habituales.
 
-(ENMENDADO, D.O. 11 DE MAYO DE 1917)
+(ENMENDADO, D.O 11 DE MAYO DE 1917)
 
 ###### Art. 300.
 
@@ -4069,7 +4069,7 @@ El juez competente, para todos los negocios relativos a ausencia, es el del últ
 
 D.O. 9, 10 Y 11 DE MAYO DE 1917.
 
-## [N. DE E. TRANSITORIOS DE LA “LEY DE RELACIONES FAMILIARES”.]
+## [N. DE E. TRANSITORIOS DE LA "LEY DE RELACIONES FAMILIARES".]
 
 ###### Art. 1o.
 
@@ -4110,3 +4110,45 @@ Quedan derogados el Capítulo VI del Título IV, el Capítulo I, II, III, IV, V 
 ###### Art. 10o.
 
 Esta ley comenzará a regir desde la fecha de su publicación.
+
+D.O. 26 DE MAYO DE 1928.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES, EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL".]
+
+###### ARTICULO 1o.
+
+Este Código entrará en vigor en la fecha que fije el Ejecutivo.
+
+###### ARTICULO 2o.
+
+Sus disposiciones regirán los efectos jurídicos de los actos anteriores a su vigencia, si con su aplicación no se violan derechos adquiridos.
+
+###### ARTICULO 3o.
+
+La capacidad jurídica de las personas se rige por lo dispuesto en este Código, aun cuando modifique o quite la que antes gozaban; pero los actos consumados por personas capaces quedan firmes, aun cuando se vuelvan incapaces conforme a la presente ley.
+
+###### ARTICULO 4o.
+
+Los bienes adquiridos antes de la vigencia de la Ley de Relaciones Familiares, por matrimonios celebrados bajo el régimen de sociedad legal, constituyen una copropiedad de los cónyuges, si la sociedad no se liquidó conforme a lo dispuesto en el artículo 4o. transitorio de la citada ley; cesando la sociedad de producir sus efectos desde que esa ley entró en vigor.
+
+###### ARTICULO 5o.
+
+Los tutores y los albaceas ya nombrados, garantizarán su manejo de acuerdo con las disposiciones de este Código, dentro del plazo de seis meses contados desde que entre en vigor, so pena de que sean removidos de su cargo, si no lo hacen.
+
+###### ARTICULO 6o.
+
+Las disposiciones de este Código se aplicarán a los plazos que estén corriendo para prescribir; hacer declaraciones de ausencia, presunciones de muerte o para cualquiera otro acto jurídico, pero el tiempo transcurrido se computará aumentándolo o disminuyéndolo en la misma proporción en que se haya aumentado o disminuído el nuevo término fijado por la presente ley.
+
+###### ARTICULO 7o.
+
+Las disposiciones del Código Civil anterior sobre Registro Público y su Reglamento, seguirán aplicándose en todo lo que no sean contrarias a las prevenciones del presente Código, mientras no se expida el nuevo Reglamento del Registro Público.
+
+###### ARTICULO 8o.
+
+Los contratos de censo y de anticresis celebrados bajo el imperio de la legislación anterior, continuarán regidos por las disposiciones de esa legislación.
+
+La dote ya constituída será regida por las disposiciones de la ley bajo la que se constituyó y por las estipulaciones del contrato relativo.
+
+###### ARTICULO 9o.
+
+Queda derogada la legislación civil anterior; pero continuarán aplicándose las leyes especiales federales que reglamenten materia civil y las disposiciones del Código Civil anterior que la presente ley expresamente ordene que continúen en vigor.
