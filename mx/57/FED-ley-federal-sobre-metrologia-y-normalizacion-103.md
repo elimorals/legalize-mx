@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-sobre-metrologia-y-normalizacion-103"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-07-01"
-last_updated: "1992-07-01"
+last_updated: "1996-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-30"
 
 LEY FEDERAL SOBRE METROLOGIA Y NORMALIZACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 1 de julio de 1992.
 
@@ -441,7 +441,9 @@ III. Fungir como Secretario Técnico de la Comisión Nacional de Normalización 
 
 IV. Acreditar a los organismos nacionales de normalización, de certificación, laboratorios de pruebas y de calibración y unidades de verificación previa aprobación de las dependencias competentes;
 
-V. Expedir las normas oficiales mexicanas en las áreas a que se refieren las fracciones I a IV, VI, VIII, IX, XII, XIV, XV y XVII del artículo 40 de la presente Ley;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+V. Expedir las normas oficiales mexicanas en las áreas a que se refiere las fracciones I a IV, VI, VIII, IX, XII, XIV, XV y XVIII del artículo 40 de la presente Ley;
 
 VI. Llevar a cabo acciones y programas para el fomento de la calidad de los productos y servicios mexicanos;
 
@@ -583,7 +585,7 @@ Si la dependencia que elaboró la norma decidiera extender el plazo de vigencia 
 
 ###### ARTICULO 49.
 
-Cuando no subsistan las causas que motivaron la expedición de una norma oficial mexicana, las dependencias competentes, la Comisión Nacional de Normalización, o los miembros del comité consultivo nacional de normalización correspondiente, podrán proponer al comité la cancelación de la norma. Para tal efecto se ajustarán a lo dispuesto en los artículos 45 a 47 de esta Ley.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 50.
 
@@ -594,6 +596,14 @@ Toda la información y documentación que se alleguen las dependencias para la e
 ###### ARTICULO 51.
 
 Para la modificación de las normas oficiales mexicanas deberá cumplirse con el procedimiento para su elaboración.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+Cuando no subsistan las causas que motivaron la expedición de una norma oficial mexicana, las dependencias competentes, a Iniciativa propia o a solicitud de la Comisión Nacional de Normalización, de la Secretaría o de los miembros del comité consultivo nacional de normalización correspondiente, podrán modificar o cancelar la norma de que se trate sin seguir el procedimiento para su elaboración.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+Lo dispuesto en el párrafo anterior no es aplicable cuando se pretendan crear nuevos requisitos o procedimientos, o bien incorporar especificaciones más estrictas, en cuyo caso deberá seguirse el procedimiento para la elaboración de las normas oficiales mexicanas.
 
 ### CAPITULO III. De la Observancia de las Normas
 
@@ -1262,3 +1272,11 @@ QUINTO. Las normas oficiales mexicanas de carácter voluntario que hayan sido ex
 México, D.F., a 18 de junio de 1992.- Sen. Manuel Aguilera Gómez, Presidente.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Antonio Melgar Aranda, Secretario.- Dip. Felipe Muñoz Kapamas, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de junio de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 24 DE DICIEMBRE DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
