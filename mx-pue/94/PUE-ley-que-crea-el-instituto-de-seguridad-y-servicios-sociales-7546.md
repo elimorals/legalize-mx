@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-instituto-de-seguridad-y-servicios-sociales-754
 country: "mx"
 rank: "ley"
 publication_date: "1981-02-10"
-last_updated: "1984-02-21"
+last_updated: "1994-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE CREA EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA, COMO UN ORGANISMO PUBLICO DESCENTRALIZADO, CON PERSONALIDAD JURIDICA Y PATRIMONIO PROPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1994.
 
 Ley publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el martes 10 de febrero de 1981.
 
@@ -235,9 +235,11 @@ II.- No estar desempeñando cargo alguno de elección popular o sindical; y
 
 III.- Ser de reconocida competencia y honorabilidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 1994)</small>
+
 ###### ARTICULO 19.
 
-La administración y control de los servicios del Instituto estarán a cargo de la Junta Directiva, la cual será vigilada por 3 Comisarios, uno nombrado por el Gobernador del Estado y uno por cada Sindicato, quienes durarán en su cargo 3 años, mientras no sean removidos por los designantes, teniendo las siguientes obligaciones:
+La administración y control de los servicios del Instituto estarán a cargo de la Junta Directiva, la cual será vigilada por 3 Comisarios, uno nombrado por la Secretaría de la Contraloría General del Estado, y uno por cada sindicato, quienes durarán en su cargo tres años, mientras no sean removidos por los designantes, teniendo las siguientes obligaciones:
 
 I.- Vigilar que las operaciones efectuadas por la Dirección se hagan con apego a las normas legales y a una sana política financiera y administrativa;
 
@@ -263,7 +265,7 @@ II.- Dictar los acuerdos que estimen necesarios para proporcionar las prestacion
 
 > <small>(REFORMADA, P. O. 13 DE DICIEMBRE DE 1983)</small>
 
-III.- Conceder, negar, suspender, modificar y revocar las jubilaciones o pensiones, en los términos de esta Ley; previa notificación al interesado.
+III.- Conceder, negar, suspender, modificar y revocar las jubilaciones o pensiones, en los términos de esta Ley; previa notificación al interesado;
 
 IV.- Nombrar y remover al personal de base y de confianza del Instituto, a propuesta del Director General;
 
@@ -283,7 +285,7 @@ XI.- Promover las Iniciativas de Reformas a esta Ley; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P. O. 21 DE FEBRERO DE 1984)</small>
 
-XII.- Rendir, por conducto de su Presidente un informe anual y detallado del estado que guarde el Instituto.
+XII.- Rendir, por conducto de su Presidente un informe anual y detallado del estado que guarde el Instituto;
 
 XIII.- Las demás que señalen esta Ley y sus Reglamentos.
 
@@ -1342,3 +1344,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
+
+P.O. 19 DE JULIO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
