@@ -4,7 +4,7 @@ identifier: "COL-ley-de-pensiones-civiles-para-el-estado-de-colima-4421"
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-29"
-last_updated: "1968-05-25"
+last_updated: "1968-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PENSIONES CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1968.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 29 de diciembre de 1962.
 
@@ -361,6 +361,14 @@ Los bienes adquiridos por los beneficiarios deberán ser destinados precisamente
 
 Si el trabajador hubiere pagado sus abonos con regularidad durante cinco años o más y se viere imposibilitado de continuar cubriéndolos, tendrá derecho a que la Dirección remate el inmueble en pública subasta y que del producto, una vez pagado el crédito insoluto, se le entregue el remanente, y si la imposibilidad del pago ocurre dentro de los cinco primeros años, el inmueble será devuelto a la Dirección, rescindiéndose el contrato respectivo y sólo se cobrará al trabajador el importe de las rentas causadas, devolviéndosele la diferencia que resulte. Para los efectos de este artículo, se fijará al otorgarse la escritura la renta mensual que se asigne al inmueble.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1968)</small>
+
+###### Art. 45 Bis.
+
+La Dirección de Pensiones Civiles del Estado prestará servicios Médico-Asistenciales a los trabajadores que contribuyan económicamente al fondo de la misma, y a sus familiares, en la forma y proporción que determine el Consejo de la propia Institución a través de un reglamento interno que regirá lo conducente.
+
+La cantidad necesaria para la atención de los servicios será la que señale el propio Consejo tomada del fondo de la Dirección, a la que se agregará el importe de lo que autorice el Ejecutivo del Estado como contribución a los servicios, y en su caso, lo que aporten los Ayuntamientos, según convenio con la Institución.
+
 ### CAPITULO V. PENSIONES POR RETIRO
 
 ###### Art. 46.
@@ -518,3 +526,7 @@ Este Decreto surtirá sus efectos a partir de su publicación en el Periódico O
 P.O. 25 DE MAYO DE 1968.
 
 Este Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1968.
+
+Este Decreto surtirá sus efectos a partir del 1o. de Enero de 1969.
