@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-las-delegaciones-del-instituto-de-seguridad-y-117
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-01"
-last_updated: "1998-06-29"
+last_updated: "1999-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11794&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1997-09-18"
 
 REGLAMENTO DE LAS DELEGACIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE SEPTIEMBRE DE 1999.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 1 de octubre de 1997.
 
@@ -209,7 +209,9 @@ II.- Observar las normas y políticas que, en el ámbito de su competencia, emit
 
 III.- Representar al Instituto ante todas las autoridades y personas, con las facultades generales y especiales que correspondan a los mandatarios generales para pleitos y cobranzas y actos de administración, sin necesidad de la expedición del correspondiente poder notarial, excepto cuando se trate de representar al Instituto ante autoridades jurisdiccionales civiles, penales, laborales, administrativas y fiscales, en cuyo caso sí se requerirá poder notarial conferido por el Director General o el Subdirector General Jurídico del Instituto, y sus facultades serán las que se establezcan en los respectivos instrumentos notariales, pudiendo el Delegado otorgar a su vez un poder similar, en todo o en parte, al Jefe de la Unidad Jurídica y a otros servidores públicos de la Delegación, de acuerdo con lo establecido en el propio poder;
 
-IV.- Realizar actos de dominio respecto de departamentos, viviendas o locales comerciales propiedad del Instituto, incluyendo la cancelación de gravámenes sobre estos mismos inmuebles, en los términos del poder que se le confiera y de acuerdo a las instrucciones previas que por escrito y de manera expresa para cada caso emita el Vocal Ejecutivo del Fondo de la Vivienda;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 1999)</small>
+
+IV.- Realizar los actos jurídicos de dominio respecto de departamentos, viviendas o locales comerciales propiedad del Instituto, incluyendo la cancelación de gravámenes sobre estos mismos inmuebles, en los términos del poder que se le confiera;
 
 V.- Adquirir bienes inmuebles a favor del Instituto y enajenar aquellos que formen parte del patrimonio inmobiliario institucional, previo acuerdo de la Junta Directiva, del Comité Institucional de Bienes Muebles e Inmuebles y de conformidad con el poder especial que al respecto le otorgue el Director General o el Subdirector General Jurídico del Instituto;
 
@@ -337,7 +339,9 @@ C) En materia de vivienda:
 
 I.- Recibir, revisar e integrar los expedientes de las solicitudes para el otorgamiento de créditos para vivienda; determinar la puntuación obtenida por el trabajador solicitante, calcular el monto del crédito y el plazo de amortización del mismo y remitir al Fondo de la Vivienda las solicitudes procedentes para recabar, en su caso, la autorización respectiva;
 
-II.- Tramitar la suscripción de los contratos de mutuo con interés y garantía hipotecaria o fiduciaria, así como la cancelación de gravámenes, una vez liquidados los créditos, previa instrucción específica que en cada caso emita el Vocal Ejecutivo del Fondo de la Vivienda;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 1999)</small>
+
+II.- Tramitar la suscripción de los contratos de mutuo con interés y garantía hipotecaria o fiduciaria, así como la cancelación de gravámenes, una vez liquidados los créditos;
 
 III.- Verificar que la entrega de los recursos por concepto de créditos hipotecarios se efectúe conforme a las modalidades de cada caso y, tratándose de construcción individual de viviendas, a las ministraciones aprobadas por la Comisión Ejecutiva del Fondo de la Vivienda;
 
@@ -856,3 +860,11 @@ México, D.F., a 18 de septiembre de 1997.- El Secretario de la Junta Directiva 
 D.O.F. 29 DE JUNIO DE 1998.
 
 UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE SEPTIEMBRE DE 1999.
+
+Primero.- Publíquese en el Diario Oficial de la Federación el presente Acuerdo.
+
+Segundo.- Estas Reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y, en su oportunidad, inscríbanse en el Registro Público de Organismos Descentralizados.
+
+Tercero.- Ajústese el Manual de Organización y Procedimientos de las Delegaciones de conformidad con las presentes Reformas.
