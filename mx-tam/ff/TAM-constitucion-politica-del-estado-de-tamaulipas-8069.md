@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1983-08-24"
+last_updated: "1983-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1983. (DECRETO NUMERO 494)
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -301,9 +301,9 @@ III.- Los que estén sujetos a un proceso criminal por delito que merezca pena c
 
 IV.- Los ministros de cualquier culto, estén o nó (sic) en ejercicio.
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1960)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1983)</small>
 
-V.- Los Presidentes Municipales, Munícipes, Empleados del Estado y Municipales y los Jueces en su circunscripción, si estuvieren en ejercicio dentro de los tres meses anteriores a la elección.
+V.- Los miembros propietarios de los Ayuntamientos así como los suplentes que hayan estado en ejercicio; por lo que se refiere a empleados del Estado y municipios y los jueces en circunscripción, estarán también impedidos si no se separan de su cargo dentro de los tres meses anteriores a la elección.
 
 VI.- Los Diputados Propietarios al Congreso Local y los Suplentes que hayan estado en ejercicio, si no ha pasado un período.
 
@@ -595,7 +595,7 @@ LI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 1946)
 
 LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
-LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas.
+LIII. Crear nuevas Municipalidades dentro de las existentes, variar sis límites y suprimir alguna o algunas de ellas.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -1325,19 +1325,21 @@ Una ley reglamentará la organización de la Defensoría de Oficio y los requisi
 
 Las funciones políticas y administrativas de carácter municipal, serán desempeñadas por los Ayuntamientos y las judiciales por los Juzgados de Paz.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE SEPTIEMBRE DE 1951)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1983)</small>
 
 ###### Art. 131.
 
-En cada Municipalidad habrá un Ayuntamiento de elección popular directa, el cual tendrá su residencia en la Cabecera de la misma. En el Estado de Tamaulipas las mujeres participarán en las mismas condiciones que los varones para votar y ser votadas en los cargos de elección popular en los Municipios.
+En cada municipalidad habrá un Ayuntamiento de elección popular directa, el cual tendrá su residencia en la cabecera de la misma. En el Estado de Tamaulipas las mujeres participarán en las mismas condiciones que los varones para votar y ser votadas en los cargos de elección popular en los municipios.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1978)</small>
+En todos los Municipios sus Ayuntamientos se complementarán con Regidores de Representación Proporcional, conforme a las siguientes bases:
 
-En los municipios con población mayor de trescientos mil habitantes, complementarán sus Ayuntamientos hasta con tres regidores de representación proporcional.
+a).- En los municipios cuya población no exceda de 200,000 habitantes, con un Regidor de Representación Proporcional.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1978)</small>
+b).- En aquellos cuya población exceda del número anterior pero no de 300,000 habitantes, con dos Regidores de Representación Proporcional; y
 
-Los partidos políticos con derecho a participar en la Entidad que no hubiesen logrado la mayoría en la elección municipal, podrán acreditar regidores en proporción a los votos recibidos, siempre que hayan obtenido cuando menos el uno y medio por ciento de la votación sufragada, pero en ningún caso se asignará a un solo partido más de las dos terceras partes de estos regidores. La nominación de Regidores de Representación proporcional atenderá siempre a lo que disponga la Ley Reglamentaria y al orden en que hayan sido postulados por sus respectivos partidos.
+c).- En los de población superior a 300,000 habitantes, hasta con tres Regidores de Representación Proporcional.
+
+Los Partidos Políticos con derecho a participar en la Entidad que no hubiesen logrado la mayoría en la elección municipal correspondiente, podrán acreditar Regidores en relación a los votos recibidos, siempre que hayan obtenido cuando menos el 10% de la votación sufragada en favor del Partido que haya obtenido la elección por mayoría en el Municipio de que se trate, pero en ningún caso se asignará a un solo Partido más de dos de estos Regidores. La asignación de Regidores de Representación Proporcional atenderá al orden en que los candidatos a Regidores hayan sido postulados por sus respectivos Partidos y a los demás requisitos que disponga la Ley Reglamentaria.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
@@ -2028,3 +2030,15 @@ P.O. 24 DE AGOSTO DE 1983.
 2o.- Para los efectos de este decreto y por lo que se refiere al proceso electoral del presente año, los partidos políticos podrán hacer la designación de sus comisionados y sus respectivos suplentes, ante la Comisión Estatal Electoral, para integrar el Comité Distrital Electoral del Décimo Quinto Distrito, en un término de quince días contados a partir de la vigencia del presente decreto.
 
 3o.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE AGOSTO DE 1983.
+
+DECRETO No. 493
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE AGOSTO DE 1983.
+
+DECRETO No. 494.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
