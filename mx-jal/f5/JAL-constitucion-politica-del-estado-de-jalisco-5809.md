@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1927-02-19"
+last_updated: "1928-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1927.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 1928.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -95,11 +95,11 @@ Los individuos a quienes las Juntas Computadoras de las Cabeceras de Distrito El
 
 La Diputación Permanente es la facultada para instalar el Colegio Electoral.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1928)</small>
+
 ###### Art. 9º.
 
-La base para la elección será el número de habitantes del Estado, eligiéndose por cada Distrito Electoral de sesenta mil de ellos o fracción que exceda de cuarenta mil, un Diputado propietario y un suplente.
-
-El Ejecutivo, en defecto del Congreso, fijará la circunscripción de los Distritos electorales y su cabecera, de conformidad con los censos más recientes y de tal modo que no sean menos de quince Distritos, ni más de los que estén fijados para las elecciones del Congreso de la Unión.
+La base de elección será el número de habitantes del Estado, eligiendo por cada Distrito Electoral de ochenta mil de ellos o fracción que exceda de sesenta mil, un Diputado Propietario y un Suplente.
 
 ### CAPITULO UNICO. De la División del Poder Público
 
@@ -650,5 +650,9 @@ P.O. 26 DE SEPTIEMBRE DE 1924.
 Esta ley empezará a regir en la elección de la próxima XXIX Legislatura y los períodos que se señala se contarán a partir del día 1o. de febrero de mil novecientos veinticinco.
 
 P.O. 19 DE FEBRERO DE 1927.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+
+P.O. 27 DE SEPTIEMBRE DE 1928.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
