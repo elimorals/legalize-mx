@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1986-12-31"
+last_updated: "1987-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-> <small>N. DE E. EN DECRETO DE FECHA 28 DE DICIEMBRE DE 1986, PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DEL MISMO AÑO, UNICAMENTE SE SEÑALAN DISPOSICIONES CON VIGENCIA PARA EL AÑO DE 1987, SIN QUE EN ELLAS SE MODIFIQUE EL CONTEXTO DE LA PRESENTE LEY. POR LO ANTERIOR SE REMITE AL USUARIO A LAS DISPOSICIONES TRANSITORIAS DE LA MISMA.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1987.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -66,15 +64,15 @@ Al valor de los actos o actividades que a continuación se señalan, se aplicar�
 
 I.- En la enajenación o, en su caso, en la importación de los siguientes bienes:
 
-A).- Aguas envasadas y refrescos, en envases cerrados .......... 15.7%
+A).- Aguas envasadas y refrescos, en envases cerrados ......... 15.7%
 
 B).- Jarabes o concentrados para preparar refrescos que se expendan en envases abiertos utilizando aparatos eléctricos o mecánicos .......... 40%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-C).- Concentrados, polvos, jarabes, esencias o extractos de sabores que al diluirse permitan obtener refrescos ........... 20%
+C).- Concentrados, polvos, jarabes, esencias o extractos de sabores que al diluirse permitan obtener refrescos .......... 20%
 
-D).- Cerveza ........... 21.5%
+D).- Cerveza .......... 21.5%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -90,7 +88,7 @@ G).- Gas avión .......... 50%
 
 H).- Tabacos labrados:
 
-1.- Cigarros .......... 139.3%
+1.- Cigarros ......... 139.3%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -98,25 +96,29 @@ H).- Tabacos labrados:
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-I).- Gasolina que contenga tetraetilo de plomo y su octanaje no exceda de 82 octanos o la de mayor octanaje que no contenga tetraetilo de plomo, así como el diesel ........... 110%
+I).- Gasolina que contenga tetraetilo de plomo y su octanaje no exceda de 82 octanos o la de mayor octanaje que no contenga tetraetilo de plomo, así como el diesel .......... 110%
 
 II.- En la prestación de los siguientes servicios:
 
-A).-Seguros individuales en operaciones de vida ........... 3%
+A).-Seguros individuales en operaciones de vida .......... 3%
 
 B).- Telefónicos:
 
 a).- Servicios locales:
 
-1.- Abonados residenciales y de telefonía rural .......... 49.1%
+1.- Abonados residenciales y de telefonía rural ........... 49.1%
 
-2.- En casos distintos a los residenciales y de telefonía rural ........... 60%
+2.- En casos distintos a los residenciales y de telefonía rural .......... 60%
 
 b).- Servicios de larga distancia:
 
 1.- Abonados residenciales y de telefonía rural ........... 26.4%
 
-2.- En casos distintos a los residenciales y de telefonía rural ........... 35%
+2.- En casos distintos a los residenciales y de telefonía rural .......... 35%
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+3.- Larga distancia internacional de abonados residenciales y de telefonía rural, así como casos distintos a estos ........ 22%
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -124,7 +126,7 @@ C).- Comisión, mediación, agencia, representación, correduría, consignación
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-III.- En la exportación definitiva en los términos de la legislación aduanera de los bienes a que se refiere la fracción I de este artículo, incluso cuando se exporten para enajenarlos en el extranjero ......... 0%.
+III.- En la exportación definitiva en los términos de la legislación aduanera de los bienes a que se refiere la fracción I de este artículo, incluso cuando se exporten para enajenarlos en el extranjero .......... 0%.
 
 ###### ARTICULO 3o.
 
@@ -294,6 +296,10 @@ VI.- Gas avión, a excepción de las que realice Petróleos Mexicanos.
 
 VII.- Las de alcohol desnaturalizado, así como las de alcohol cuya adquisición esté gravada por el impuesto sobre adquisición de azúcar, cacao y otros bienes, o la primera enajenación en la que por su adquisición no se esté obligado al pago de ese impuesto.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+VIII.- Las de alcohol que realice Azúcar, S.A. de C.V., a los productores que la utilicen como insumo para la elaboración de bebidas alcohólicas, siempre que se encuentren registrados ante dicha entidad.
+
 ###### ARTICULO 9o.
 
 Para los efectos de esta Ley, se entiende que la enajenación se efectúa en territorio nacional, si en él se encuentra el bien al efectuarse el envío al adquirente y cuando, no habiendo envío se realiza en el país la entrega material del bien por el enajenante.
@@ -312,9 +318,11 @@ III.- Se expida el documento que ampare la enajenación.
 
 Para calcular el impuesto tratándose de enajenaciones se considerará como valor el precio pactado, incluyendo el de los envases y empaques, no retornables, necesarios para contener los bienes que se enajenan, así como las cantidades que además se carguen o cobren al adquirente por intereses normales o moratorios, penas convencionales o cualquier otro concepto distinto de impuestos. A falta de precio pactado se estará al valor que los bienes tengan en el mercado, o en su defecto al de avalúo.
 
-Los intereses moratorios y las penas convencionales, darán lugar al pago de este impuesto en el mes en que se paguen.
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Los productores o importadores de cigarros para calcular el impuesto por la enajenación de esos bienes, considerarán como valor el precio de venta al detallista de los mismos. Este impuesto no se pagará por las enajenaciones subsecuentes.
+
+Los intereses moratorios y las penas convencionales, darán lugar al pago de este impuesto en el mes en que se paguen.
 
 ### CAPITULO III. De la Importación de Bienes
 
@@ -404,7 +412,9 @@ Cuando se trate de enajenación de gasolina o diesel, a excepción de las que re
 
 III.- Presentar en las oficinas autorizadas las declaraciones señaladas en esta Ley, excepto en los pagos provisionales tratándose de importación de bienes. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración, semanal, mensual o del ejercicio, según se trate, en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente.
 
-IV.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1983)
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+IV.- Presentará Azúcar, S.A. de C.V., en las oficinas autorizadas declaración informativa anual de las enajenaciones de alcohol, dentro de los tres meses siguientes al cierre de su ejercicio, para los efectos de lo dispuesto en la fracción VIII del artículo 8o. de esta Ley.
 
 V.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1983)
 
@@ -851,5 +861,31 @@ Asimismo, Azúcar, S.A. de C.V., presentará declaración informativa anual dent
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1987.
+
+D.O.F. 31 DE DICIEMBRE DE 1987.
+
+Disposición Transitoria
+
+ARTICULO DECIMOCTAVO.- Para la aplicación de la Ley del Impuesto Especial sobre Producción y Servicios, se estará a las siguientes disposiciones transitorias:
+
+I.- Lo dispuesto en el ARTICULO DECIMOTERCERO de la Ley que Establece, Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales, publicada en el Diario Oficial de la Federación el día 31 de diciembre de 1985, se seguirá aplicando a los actos o actividades que se realicen durante el año de 1988.
+
+II.- Se deroga el párrafo siguiente a la fracción II de la Disposición de vigencia anual Décima Cuarta de la Ley que Establece, Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1985, aplicable a la Ley del Impuesto Especial sobre Producción y Servicios.
+
+Disposición de vigencia anual
+
+ARTICULO DECIMONOVENO.- Durante el año de 1988, se aplicarán en materia del impuesto especial sobre producción y servicios, las siguientes disposiciones:
+
+I.- Los productores o envasadores de agua mineral natural o con sabor, que de conformidad con el artículo 5o-A de la Ley del Impuesto Especial sobre Producción y Servicios, estén obligados a retener ese impuesto, lo harán sobre el 50% del impuesto que corresponde a los adquirentes de esos bienes durante el ejercicio fiscal de 1988, siempre que los adquirentes de esos bienes se encuentren en población distinta a aquélla en que esté ubicada la fábrica.
+
+Los contribuyentes a los que se les retenga el impuesto de conformidad con lo señalado en el párrafo anterior, deberán presentar declaración de pago provisional en la que acreditarán el impuesto que les debió haber sido retenido en los términos del segundo párrafo del artículo 5o-A, de la Ley.
+
+II.- Para los efectos del artículo 2o., fracción I, inciso H), subinciso 2, de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que al 1o. de enero de 1988, tengan un precio máximo al público que no exceda de $310.00 por cajetilla.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1988.
 
 ## TRANSITORIO
