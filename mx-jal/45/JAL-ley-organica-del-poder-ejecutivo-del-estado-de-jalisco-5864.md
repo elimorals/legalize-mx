@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2004-10-02"
+last_updated: "2005-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -1001,9 +1001,9 @@ VIII. Llevar a cabo los estudios para determinar, con base en ellos, las medidas
 
 IX. Determinar las características y la ubicación que deberán tener los dispositivos y señales para la regulación del tránsito en nuevas vías de circulación, entregándolos para su operación y mantenimiento a la dependencia correspondiente;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2005)</small>
 
-X. Estudiar las tarifas para autobuses del servicio público de transporte de pasajeros, urbano, metropolitano y suburbano, de carga y taxis, así como proponer al Gobernador del Estado y a los Gobiernos Municipales, las modificaciones pertinentes;
+X. Estudiar a través de los organismos correspondientes, las tarifas para autobuses del servicio público de transporte de pasajeros, urbano, metropolitano y suburbano, de carga y taxis, así como proponer a las autoridades correspondientes, las modificaciones pertinentes;
 
 XI. Autorizar cambios de unidades y fijar frecuencias y horarios de los autobuses, revisar y opinar sobre nuevos tipos y características de los mismos;
 
@@ -1814,3 +1814,9 @@ SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá r
 P.O. 2 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE FEBRERO DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en este decreto.
