@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-municipal-5456"
 country: "mx"
 rank: "ley"
 publication_date: "1982-12-31"
-last_updated: "1983-12-30"
+last_updated: "1984-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1984.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 1982.
 
@@ -121,7 +121,9 @@ La recaudación y en general el manejo de la Hacienda Pública Municipal, corres
 
 El pago de los impuestos, derechos, productos y aprovechamientos se hará precisamente en la Tesorería Municipal, salvo cuando la Ley disponga expresamente otra cosa, observándose las reglas siguientes:
 
-I.- Los pagos mensuales y bimestrales se efectuarán en los quince primeros días de cada mes o bimestre, siguiente al que se generen;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1984)</small>
+
+I.- Los pagos mensuales y bimestrales se efectuarán en los quince primeros días de cada mes o bimestre en el que se generaron;
 
 II.- Los pagos anuales en los primeros treinta días del año siguiente al que corresponda el pago;
 
@@ -203,35 +205,51 @@ La base mínima para el pago del Impuesto Predial será de $25,645.00 para los p
 
 ARTICULO 8 F.- El impuesto predial se continuará causando sobre el valor fiscal en tanto no se practique el avalúo catastral en los términos de la Ley de Catastro, causándose sobre el mismo valor a partir del bimestre siguiente a aquél en que hubiere quedado determinado con arreglo a esa Ley.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
-ARTICULO 8 G.- El Impuesto Predial se causará por cada fracción de las previstas en el Artículo 15 de ésta Ley, conforme a las siguientes tasas:
+ARTICULO 8 G.- El Impuesto Predial se causará por cada fracción de las previstas en el Artículo 8E, de ésta Ley, conforme a las siguientes tablas:
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 a).- Fracción I, VII y XIII al 0.9% anual;
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 b).- Fracción II al 1.0% anual;
-
-c).- Fracciones III y VIII al 1.5% anual;
-
-d).- Fracciones IV y IX al 2.5% anual;
-
-e).- Fracción V al 2.5% anual;
-
-f).- Fracción VI al 3.0% anual,
-
-g).- Fracción X Sin que exceda del 5% del valor productivo o del cultivo, en los términos previstos en el Artículo 106 de la Ley Federal de la Reforma Agraria;.
-
-h).- Fracción XI al 1.5% anual;
-
-i).- Fracción XII al 1.5% anual.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-ARTICULO 8 H.- La cuota del impuesto será anual, pero su importe se pagará bimestralmente durante los meses de enero, marzo, mayo, julio, septiembre y noviembre. Sin embargo el pago podrá hacerse por anualidades anticipadas durante el mes de enero de cada ejercicio, en este caso se gozará del descuento que se determine en la Ley de Ingresos correspondiente a ese ejercicio fiscal.
+c).- Fracciones III y VIII al 1.5% anual;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+d).- Fracciones IV y IX al 2.5% anual;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+e).- Fracción V al 2.5% anual;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+f).- Fracción VI al 3.0% anual,
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+g).- Fracción X Sin que exceda del 5% del valor productivo o del cultivo, en los términos previstos en el Artículo 106 de la Ley Federal de la Reforma Agraria;.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+h).- Fracción XI al 1.5% anual;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+i).- Fracción XII al 1.5% anual.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1984)</small>
+
+ARTICULO 8 H.- La cuota del impuesto será anual, pero su importe se pagará bimestralmente, sin embargo el pago podrá hacerse por anualidad anticipada durante el mes de enero de cada ejercicio, en este caso se gozará del descuento que se determine en la Ley de Ingresos correspondiente a ese ejercicio fiscal.
 
 La cuota del impuesto tratándose de predios ejidales se pagará en una sola exhibición durante el tiempo de la cosecha.
-
-Cuando se hayan establecido bases provisionales para determinar el monto del impuesto, al aplicar la base definitiva. Se cobrarán o reintegrarán las diferencias que resulten.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -611,9 +629,11 @@ El impuesto se causará y pagará de acuerdo con la tarifa del anexo anual de cu
 
 Los causantes a que se refiere este impuesto estarán obligados a presentar, sus declaraciones y a efectuar el entero del impuesto correspondiente dentro de los primeros cinco días de cada mes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 51.
 
-Se suspende el cobro del impuesto que causa la venta del producto enumerado en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII del artículo 46 del presente capítulo, en tanto se encuentren en vigor los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal y sus anexos y de Colaboración Administrativa en materia fiscal Federal, celebrados entre la Federación y el Estado de Hidalgo, pudiendo gravarse los ingresos que se obtengan por la realización de las actividades que señalan las fracciones XIII y XIV del citado artículo.
+Se suspende el cobro del impuesto que causa la venta del producto, enumerados en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, del artículo 46 del presente capítulo, en tanto se encuentren en vigor los Convenios de Administración al Sistema Nacional de Coordinación Fiscal y sus anexos y de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre la Federación y el Estado de Hidalgo, pudiendo gravarse los ingresos que se obtengan por la realización de las actividades que señala la fracción XIV del citado Artículo.
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
@@ -1590,5 +1610,15 @@ La presente Ley entrará en vigor el 1° de Enero de 1984.
 Deberá ordenarse la publicación de este Decreto en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 31 DE DICIEMBRE DE 1984.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el 1o. de enero de 1985.
+
+###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
