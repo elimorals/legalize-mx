@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-78-2000-del-pleno-del-consejo-de-la-63440"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-11-17"
-last_updated: "2000-11-17"
+last_updated: "2001-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63440&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-11-10"
 
 ACUERDO GENERAL 78/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, FECHA DE INICIO DE FUNCIONAMIENTO, COMPETENCIA Y JURISDICCION TERRITORIAL DEL TERCER TRIBUNAL COLEGIADO DEL VIGESIMO CIRCUITO, CON RESIDENCIA EN TUXTLA GUTIERREZ, CHIAPAS, ASI COMO A LAS REGLAS DE TURNO Y SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL MENCIONADO CIRCUITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE FEBRERO DE 2001.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 17 de noviembre de 2000.
 
@@ -55,7 +55,9 @@ TERCERO.- Los dos Tribunales Colegiados actualmente en funciones en el Vigésimo
 
 CUARTO.- Desde la fecha señalada en el punto segundo que precede, la Oficialía de Partes Común de los Tribunales Colegiados Primero y Segundo del Vigésimo Circuito, con residencia en Tuxtla Gutiérrez, Chiapas, lo será también del órgano jurisdiccional de que se trata.
 
-QUINTO.- Los nuevos asuntos que se presenten en la Oficialía de Partes Común del veintiuno de noviembre de dos mil al veinte de febrero de dos mil uno, serán del conocimiento exclusivo del Tercer Tribunal Colegiado del Vigésimo Circuito, con residencia en Tuxtla Gutiérrez, Chiapas. Concluido ese periodo, los nuevos asuntos se distribuirán entre los tres Tribunales Colegiados del Vigésimo Circuito, conforme al sistema computarizado que para tal efecto se encuentra instalado en la misma.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 8/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE FEBRERO DE 2001)</small>
+
+QUINTO.- Los nuevos asuntos que se presenten en la Oficialía de Partes Común del veintiuno de noviembre de dos mil al once de febrero de dos mil uno, serán del conocimiento exclusivo del Tercer Tribunal Colegiado del Vigésimo Circuito, con residencia en Tuxtla Gutiérrez, Chiapas. Concluido ese periodo, los nuevos asuntos se distribuirán entre los tres Tribunales Colegiados del Vigésimo Circuito, conforme al sistema computarizado que para tal efecto se encuentra instalado en la misma.
 
 SEXTO.- Se modifica el Acuerdo General 16/1998, del Pleno del Consejo de la Judicatura Federal, de veinte de mayo de mil novecientos noventa y ocho, en el inciso 1, de su apartado XX.- VIGESIMO CIRCUITO, del punto SEGUNDO, para quedar como sigue:
 
@@ -74,3 +76,11 @@ PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 78/2000, relativo a la denominación, fecha de inicio de funcionamiento, competencia y jurisdicción territorial del Tercer Tribunal Colegiado del Vigésimo Circuito, con residencia en Tuxtla Gutiérrez, Chiapas, así como a las reglas de turno y sistema de recepción y distribución de asuntos entre los Tribunales Colegiados del mencionado Circuito, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión extraordinaria de diez de noviembre de dos mil, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas y Sergio Armando Valls Hernández.- México, Distrito Federal, a diez de noviembre de dos mil.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 14 DE FEBRERO DE 2001.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
