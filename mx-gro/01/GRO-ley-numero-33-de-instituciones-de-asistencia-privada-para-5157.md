@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-33-de-instituciones-de-asistencia-privada-para-5157"
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-12"
-last_updated: "1981-08-12"
+last_updated: "1997-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 33 DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 12 de agosto de 1981.
 
@@ -75,9 +75,11 @@ Son juntas de socorro o de asistencia las que se constituyan de manera transitor
 
 El Gobierno del Estado tendrá la facultad de vigilar e inspeccionar la admisión de las instituciones de asistencia privada para impedir la distracción de sus bienes o su inversión en fines ajenos a su objeto o el incumplimiento de la voluntad del fundador.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 7o.
 
-Las instituciones de asistencia privada se consideran de utilidad pública y están exceptuados del pago de los impuestos, derechos y aprovechamientos que establezcan las leyes del Estado siempre que éstas así lo determinen.
+Las instituciones de asistencia privada se consideran de utilidad pública y están exceptuadas del pago de los impuestos, derechos y aprovechamientos que establezcan las Leyes del Estado siempre que éstas así lo determinen, salvo lo dispuesto en el primer párrafo del artículo 59 de la presente Ley.
 
 ## TITULO SEGUNDO. INSPECCION Y VIGILANCIA
 
@@ -87,9 +89,11 @@ Las instituciones de asistencia privada se consideran de utilidad pública y est
 
 Se crea la Junta de Asistencia Privada del Estado de Guerrero, como órgano administrativo desconcentrado jerárquicamente subordinado al Gobierno del Estado, sin personalidad jurídica ni patrimonio propio, cuyo objeto será la vigilancia de las Instituciones de Asistencia Privada.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 9o.
 
-La Junta de Asistencia Privada se integrará por el Director General de Actividades Cívicas, Sociales y Culturales, quien la presidirá, el Director General de Educación Pública, el Jefe de los Servicios Coordinados de Salud Pública en el Estado, un representante del Fondo para las Actividades Sociales, un representante del Sistema Federal, dos representantes de los Patronatos de las Instituciones de Asistencia Privada. Dichos representantes, serán electos por mayoría de votos de las mismas instituciones, teniendo cada Institución un voto.
+La Junta de Asistencia Privada, se integrará por el Secretario de Desarrollo Social, quién la presidirá, el Secretario de Educación, quién fungirá como Secretario de Actas y Acuerdos, y como Vocales, la Secretaría General de Gobierno, el Presidente Ejecutivo de los Servicios Estatales de Salud, la Secretaría de Finanzas y Administración, la Contraloría General del Estado, un Representante de la Federación y dos Representantes de las Instituciones de Asistencia Social Privada, personas que se dediquen a actividades altruistas, o que cuenten con amplia solvencia moral.
 
 ###### ARTICULO 10o.
 
@@ -118,6 +122,10 @@ V.- Opinar sobre la interpretación de esta Ley y demás relativas en caso de du
 VI.- Ayudar a los patronatos a la buena administración de los bienes de las instituciones.
 
 VII.- Vigilar que el capital productivo de las instituciones, se adecúen (sic) a lo dispuesto por la presente Ley y por lo que establezcan sus estatutos y que las operaciones que realicen sean costeables.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1997)</small>
+
+Solicitar el apoyo a la Secretaría de Finanzas y Administración del Gobierno del Estado, para que intervenga en todos aquellos eventos en los cuales sea necesaria dicha intervención.
 
 VIII.- Cuidar que los patronatos cumplan con las disposiciones de esta Ley y de sus estatutos.
 
@@ -181,13 +189,17 @@ Los Notarios deberán remitir a la Junta, dentro de los ocho días siguientes a 
 
 Los Notarios que autoricen algún testamento público abierto que contenga disposiciones para constituir una institución de asistencia privada, están obligadas a dar aviso a la Junta de la existencia de esas disposiciones y remitirle copia simple de ellas dentro del término de ocho días, contados de la fecha en que lo hayan autorizado.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 21.
 
-Los jueces del ramo civil ante quienes se promuevan diligencias para la apertura de un testamento cerrado, o cualquier otro tipo de testamento, que contenga disposiciones que interesen a la Asistencia Privada, darán aviso a la Junta, de la existencia de esa disposición, dentro de los ocho días siguientes a la fecha en que ordene la protocolización del testamento.
+Los Jueces de Primera Instancia del Ramo, ante quienes se promuevan diligencias para la apertura de un testamento cerrado, o cualquier otro tipo de testamento, que contenga disposiciones que interesen a la Asistencia Privada, dará aviso a la Junta, de la existencia de esa disposición, dentro de los ocho días siguientes a la fecha en que ordene la protocolización del testamento.
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 22.
 
-Los jueces tienen, así mismo obligación de dar aviso a la Junta de la radicación de los juicios sucesorios, siempre que los testamentos contengan disposiciones relacionadas con la Asistencia Privada.
+Los Jueces de Primera Instancia del ramo, tienen así mismo, obligación de dar aviso a la Junta de la radicación de los juicios sucesorios, siempre que los testamentos contengan disposiciones relacionadas con la Asistencia Privada.
 
 ## TITULO TERCERO. CONSTITUCION DE LAS INSTITUCIONES DE ASISTENCIA PRIVADA
 
@@ -335,7 +347,7 @@ IV.- Hacer por sí o por personas que ellos mismos designen los primeros estatut
 
 ###### ARTICULO 45.
 
-Además de los fundadores podrán desempeñar el cargo de patronos de las instituciones de asistencia privada;
+Además de los fundadores podrán desempeñar el cargo de patronos de las instituciones de asistencia privada
 
 I.- Las personas nombradas por el fundador o designadas conforme a las reglas establecidas por él en los estatutos y;
 
@@ -393,7 +405,9 @@ XI.- No nombrar personas que tengan parentezco (sic) con ellos, cualquiera que s
 
 XII.- No pagar deudas líquidas o no vencidas, sin la autorización previa de la Junta.
 
-XIII.- No entregar dinero, mercancías o valores que no estén amparados con documento, siempre que el monto de aquel o el valor de éstos exceda de veinte pesos.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1997)</small>
+
+XIII.- No entregar dinero, mercancías o valores que no estén amparados con documento, siempre que el monto de aquél o el valor de éstos exceda de cien pesos.
 
 XIV.- No comprar o arrendar en almoneda o fuera de ella, los bienes de las instituciones que administren, ni hacer contrato alguno respecto de ellos, para sí, para su cónyuge, hijos y parientes por consaguinidad (sic) o afinidad dentro de cualquier grado.
 
@@ -411,19 +425,25 @@ II.- El estado que guarde el juicio en la fecha en que se rinda el informe y, en
 
 Si los patronatos no tienen ningún juicio en trámite, deberán remitir, mensualmente, dentro del plazo que este artículo señala, un informe en donde así se manifieste.
 
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1997)</small>
+
+III.- Estado de cuenta en el que se especifique detalladamente, los ingresos obtenidos por donativos, realización de colectas, rifas, tómbolas o loterías y en general, toda clase de festivales, diversiones y espectáculos, así como de los egresos realizados.
+
 ###### ARTICULO 49.
 
 En vista de esos informes, la Junta determinará los casos en que ella deberá intervenir en los juicios a que se refiere el artículo anterior, si así lo amerita la complejidad o cuantía del negocio o morosidad de los patronatos en la prosecución de los juicios.
 
 ### CAPITULO II. CONTABILIDAD DE LAS INSTITUCIONES DE ASISTENCIA PRIVADA
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 50.
 
-Los patronatos deberán llevar libros de contabilidad en los que consten todas las operaciones que realicen.
+Las instituciones de asistencia social privada, deberán llevar libros de contabilidad en los que consten todas las operaciones que realicen.
 
-La Junta de Asistencia Privada determinará los libros de contabilidad que llevarán las instituciones, así como los métodos contables que deban adoptar. Los libros serán autorizados por el Presidente y Secretario de Actas de la Junta sin perjuicio de la autorización que corresponda otorgar a las Oficinas de Hacienda conforme a la legislación respectiva.
+La Junta de Asistencia Privada determinará los libros de contabilidad que llevarán las instituciones, así como los métodos contables que deban adoptar. Los libros serán autorizados por el Presidente y Secretario de Actas y Acuerdos de la Junta sin perjuicio de la autorización que corresponda otorgar a la Secretaría de Finanzas y Administración conforme a la legislación respectiva.
 
-Los libros y registros de las instituciones deberán llevarse al día.
+Los Libros y Registros de las Instituciones deberán llevarse al día.
 
 ###### ARTICULO 51.
 
@@ -471,9 +491,11 @@ Cuando las instituciones adquieran valores negociables de renta fija, ellos debe
 
 Las instituciones podrán hacer inversiones en la construcción de casas, sometiendo previamente a la Junta, los planos, proyectos, estudios y demás datos que sean necesarios para que pueda juzgarse la operación. La venta de dichas casas deberá hacerse dentro de un plazo que no exceda de dos años contados desde la terminación de la obra; pero en los contratos de venta podrán pactarse los plazos y garantías para el pago que acuerde la Junta.
 
+> <small>(ADICIONADO PRIMER PARRAFO [N. DE E. REFORMADO], P.O. 28 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 59.
 
-Los patronatos de las instituciones podrán solicitar donativos y organizar colectas, rifas, tómbolas o loterías y en general, toda clase de festivales o de diversiones, a condición de que destinen íntegramente los productos que obtengan por esos medios a la ejecución de actos propios de sus fines. Esas actividades quedarán sujetas a la Legislación Federal, cuando ello proceda.
+Los patronatos de las instituciones podrán solicitar donativos y organizar colectas, rifas, tómbolas o loterías y en general, toda clase de festivales o de diversiones, a condición de que destinen íntegramente los productos que obtengan por esos medios a la ejecución de actos propios de sus fines. Esas actividades quedarán sujetas a la Legislación Federal, cuando ello proceda, caso contrario, y previa comprobación del incumplimiento a esta disposición, dichas instituciones, serán objeto del pago de los impuestos, derechos y aprovechamientos que señale la legislación fiscal en vigor, sin perjuicio de las sanciones penales a que se hagan acreedores.
 
 Los patronatos no podrán delegar las facultades que les concede este precepto, ni otorgar comisiones o porcentajes sobre las cantidades recaudadas.
 
@@ -674,3 +696,9 @@ LIC. ALEJANDRO CERVANTES DELGADO
 EL SECRETARIO GRAL. DE GOBIERNO
 
 LIC. JOSE FRANCISCO RUIZ MASSIEU
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE ENERO DE 1997.
+
+UNICO.- Las presentes Reformas a la Ley número 33 de Instituciones de Asistencia Privada para el Estado de Guerrero, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
