@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1951-11-01"
+last_updated: "1961-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1961.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -37,13 +37,15 @@ Que la Legislatura del mismo ha tenido a bien dirigirme el siguiente decreto nú
 
 El XXVI H. Congreso del Estado de Durango, con el carácter de Constituyente, a nombre del pueblo, decreta la siguiente Constitución Política del mismo Estado.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JULIO DE 1961)</small>
+
 ## TITULO II.
 
 DE LOS DURANGUEÑOS.
 
 ### CAPITULO I (SIC).
 
-DE LAS GARANTIAS INDIVIDUALES.
+DE LAS GARANTIAS INDIVIDUALES Y SOCIALES.
 
 ###### Artículo 1°.
 
@@ -96,6 +98,10 @@ P.O. 1 DE NOVIEMBRE DE 1951.
 DECRETO No. 198.
 
 Artículo Unico.- La presente reforma surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 1961.
+
+UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 ###### Artículo 4°.
 
@@ -165,11 +171,17 @@ Todo proceso se seguirá forzosamente por el delito o delitos señalados en el a
 
 Todo maltratamiento en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal, toda gabela o contribución en las cárceles, son abusos que serán corregidos por las leyes y reprimidos por las autoridades.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1961)</small>
+
 ###### Artículo 19.
 
-En todo juicio del orden criminal, tendrá el acusado las siguientes garantías:
+En todo juicio del orden criminal tendrá el acusado las siguientes Garantías:
 
-I.- Inmediatamente que lo solicite será puesto en libertad bajo de fianza hasta de diez mil pesos, según sus circunstancias personales y la gravedad del delito que se le impute; siempre que dicho delito no merezca ser castigado con una pena mayor de cinco años de prisión, y sin más requisito que poner la suma de dinero respectiva a disposición de la autoridad, u otorgar caución hipotecaria o personal y bastante para segurarla (sic).
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1961)</small>
+
+I.- Inmediatamente que lo solicite será puesto en libertad bajo fianza que fijará el Juez tomando en cuenta sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito merezca ser castigado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión, y sin más requisito que poner la suma de dinero respectiva a disposición de la autoridad u otorgar caución hipotecaria o personal bastante para asegurarla, bajo la responsabilidad del Juez en su aceptación.
+
+En ningún caso la fianza o caución será mayor de $250,000.00 a no ser que se trate de un delito que represente para su autor un beneficio económico o cause a la víctima un daño patrimonial, pues en estos casos la garantía será cuando menos tres veces mayor al beneficio obtenido o al daño ocasionado.
 
 II. No podrá ser compelido a declarar en su contra, por lo cual queda rigurosamente prohibida toda incumunicación (sic) o cualquier otro medio que tienda aquel objeto.
 
@@ -227,9 +239,29 @@ La correspoudencia (sic) que bajo cubierta circule por las estafetas, estará li
 
 En tiempo de paz, ningún miembro del ejército podrá alojarse en casa particular contra la voluntad del dueño, ni imponer prestación alguna. En tiempo de guerra los militares podrán exigir alojamiento, bagajes, alimentos y otras prestaciones, en los términos que establezca la ley marcial correspondiente.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
+
 ###### Artículo 26.
 
-Los pueblos, rancherías y comunidades que carezcan de tierras y aguas, o no las tengan en cantidad suficiente para las necesidades de su población, tendrán derecho a que se les dote de ellas tomándolas de las propiedades inmediatas, respetando siempre la pequeña propiedad, previa expropiación por causa de utilidad pública.
+La expropiación de pertenecientes a particulares sólo podrá decretarse por causa de utilidad pública en los casos y de conformidad con el procedimiento que señale la Ley de Expropiación, mediante la indemnización correspondiente; para fijar el monto de ésta tratándose de bienes inmuebles, se atenderá el valor fiscal con que aparezcan registrados en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario, o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de inmuebles cuyo valor no esté fijado en las oficinas rentísticas, o de bienes muebles.
+
+El Patrimonio del Estado se compone de los edificios públicos del mismo; de los bienes afectos a un servicio público proporcionados por el propio Estado; los bienes que adquiera conforme a la Ley; las herencias y los bienes vacantes que estén dentro de su territorio; de los bienes mostrencos; de los créditos que tenga a su favor; de las rentas que deba percibir, y de las contribuciones y participaciones de impuestos decretados por la Federación o por la Legislatura Local.
+
+Los bienes de dominio público y afectos a un servicio proporcionado por el Estado, son inalienables e imprescriptibles.
+
+Los bienes del estado desafectados de un servicio público y que pasen al dominio privado del Estado podrán ser enajenados con permiso de la Legislatura mediante los requisitos que señala esta Constitución.
+
+La Legislatura del Estado expedirá la Ley de Bienes del Estado.
+
+El Estado reconoce además las Garantías Sociales siguientes:
+
+a).- La Maternidad y la Infancia, tienen derecho a protección asistencial, cuando así lo requiera su situación económica.
+
+b).- Las personas económicamente débiles tienen derecho a los servicios médico-asistenciales y a los servicios de funerales gratuitos.
+
+c).- Los estudiantes indigentes que se hayan distinguido por su aprovechamiento, obtendrán becas para continuar sus estudios y perfeccionar sus conocimientos en los centros de cultura superior.
+
+d).- Todo residente en el Estado de Durango tiene derecho a la Libertad, a la vida, al trabajo honesto, a la habitación y a la cultura. El Gobierno del Estado de acuerdo con sus posibilidades, promoverá lo conducente para incrementar las fuentes de trabajo, la creación de instituciones educativas prmiarias (sic) y de cultura superior, así como el establecimiento de habitaciones baratas y decorosas.
 
 ###### Artículo 27.
 
@@ -329,11 +361,11 @@ Para recobrar éste derecho es necesaria la rehabilitación de la Legislatura o 
 
 El Estado de Durango es libre y soberano; y en su régimen de gobierno no reconoce más restricciones que las prescritas en la Constitución General de la República, a cuya observancia está obligado como entidad Federativa de la Nación.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1946)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
 
 ###### Artículo 36.
 
-El Estado de Durango, reconoce y adopta un régimen interior de Gobierno Republicano, representativo y popular; los cargos de elección popular no son renunciables.
+El Estado de Durango, reconoce y adopta para su Régimen Interior, la forma de Gobierno Republicano, Representativo, Popular, teniendo como base de su División Territorial y de su Organización Política y Administrativa el Municipio Libre de acuerdo con el Artículo 115 de la Constitución General de la República, los cargos de elección popular no son renunciables.
 
 ###### Artículo 37.
 
@@ -347,11 +379,11 @@ La potestad de hacer las leyes reside en la Legislatura; la de hacerlas ejecutar
 
 No podrá depositarse el Poder Legislativo en una sola persona, ni unirse dos o más de estos poderes en un individuo o corporación, salvo el caso de facultades extraordinarias al Ejecutivo, conforme a lo dispuesto por esta Constitución.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1923)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
 
 ###### Artículo 39.
 
-El Territorio del Estado tiene la extensión y límites que demarque la Ley de División Territorial respectiva. Se establece como base para la organización política y administrativa del interior del Estado, el Municipio Libre.
+El Estado de Durango está integrado por los siguientes Municipios: CANELAS, CONETO DE COMONFORT, CANATLAN, CUENCAME, DURANGO, GUADALUPE VICTORIA, GUANACEVI, GOMEZ PALACIO, INDE, LERDO, MEZQUITAL, MAPIMI, NOMBRE DE DIOS, NAZAS, OTAEZ, EL ORO, PEÑON BLANCO, PUEBLO NUEVO, POANAS, PANUCO DE CORONADO, RODEO, SUCHIL, SANTIAGO PAPASQUIARO, SAN LUIS DE CORDERO, GENERAL SIMON BOLIVAR, SANTA CLARA, SAN PEDRO DEL GALLO, SAN DIMAS, SAN JUAN DE GUADALUPE, SAN BERNARDO, SAN JUAN DEL RIO, TOPIA, TAMAZULA, TEPEHUANES, TLAHUALILO DE ZARAGOZA, HIDALGO, OCAMPO, VICENTE GUERRERO Y CON LOS DEMAS QUE SE FORMEN EN LO SUCESIVO. El Territorio del Estado tiene la extensión y límites que señala la Ley de División Territorial.
 
 ## TITULO III.
 
@@ -361,13 +393,27 @@ DEL ESTADO Y SU FORMA DE GOBIERNO.
 
 El Congreso del Estado determinará por ley especial que llevará el nombre de "Ley de Municipios del Estado," los estatutos económicos y administrativos a que deben sujetarse los Municipios en su régimen interior, y los cuales podrá el mismo Congreso alterar o modificar cuando el bien de la administración pública general o de los mismos Municipios lo hiciere necesario. Tanto en la Ley de Municipios, como en sus alteraciones o modificaciones en su caso, se atenderá siempre a mantener la unidad de gobierno, que necesariamente exige la Administración Pública General del Estado, en relación con el grado de libertad interior administrativa que les señala la Constitución Federal de la República. En consecuencia, los Municipios, sin infringir las leyes federales o del Estado, y sin excederse de sus presupuestos respectivos, tienen derecho de atender libremente, de la manera que juzguen más eficaz, todos los ramos de la Administración Pública interior de los mismos Municipios.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1948)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
 
 ###### Artículo 41.
 
-El número de Regidores que deberá integrar cada Ayuntamiento será señalado por la Ley de Municipios. Para ser Regidor se requiere ser ciudadano mexicano en ejercicio de sus derechos e hijo de padres mexicanos por nacimiento, saber leer y escribir y tener residencia efectiva dentro del territorio del correspondiente Municipio, inmediata al día de la elección, cuando menos de dos años si es nativo del Estado y cinco si no lo es.
+Para ser Presidente Municipal, Regidor y Síndico de los Ayuntamientos se requiere ser ciudadano durangueño en ejercicio de sus derechos e hijo de padres mexicanos por nacimiento, además los siguientes requisitos:
 
-En las Elecciones Municipales participarán las mujeres en igualdad de condición que los varones con el derecho de votar y ser votadas.
+I.- Ser mayor de 25 años.
+
+II.- Ser vecino de la Municipalidad correspondiente con residencia efectiva dentro de la misma cuando menos de dos años si es nativo del Estado y de cinco si no lo es.
+
+III.- Ser del estado seglar.
+
+IV.- No haber sido condenado por cualquier delito excepto los de culpa a más de un año de prisión pero si hubiere sido condenado por robo, fraude, falsificación, abuso de confianza y en general cualquier otro delito que lastime seriamente la buena fama en el concepto público quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
+
+V.- No tener cargo, empleo o comisión del Gobierno Federal o del Estado, si no se separa de su cargo cuando menes (sic) tres meses antes del día de la elección.
+
+El número de Regidores que deberá integrar cada Ayuntamiento será señalado por la Ley de Municipios.
+
+En las elecciones municipales podrán participar las mujeres en igualdad de condiciones que los varones con el derecho de votar y ser votadas.
+
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos popularmente, no podrán ser reelectos para el período inmediato, los miembros de la Junta Provisional de que habla el Artículo 49 de la Constitución no podrán ser reelectos para el período inmediato. Todos los funcionarios municipales antes mencionados, no podrán ser electos para el período inmediato co ncarácter (sic) de suplentes, pero los que tengan carácter de suplentes sí podrán ser electos para el período inmediato con el carácter de propietarios, a menos que hayan estado en ejercicio.
 
 ###### Artículo 42.
 
@@ -409,17 +455,17 @@ Los Ayuntamientos podrán solicitar del Gobierno del Estado, cada vez que lo juz
 
 La falta absoluta del Ayuntamiento de una Municipalidad, será suficiente para que el Ejecutivo nombre una Junta Provisional de Gobierno integrada con el número de miembros que la Ley de Municipios designe para un Ayuntamiento Constitucional.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
 
 ## TITULO IV.
 
 DEL PODER LEGISLATIVO.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1951)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
 
 ###### Artículo 50.
 
-El Presidente y Síndico Municipales, serán designados por elección popular directa lo mismo que los demás Regidores del Ayuntamiento. El primero tendrá el carácter de ejecutor de las resoluciones y comisiones que le sean encomendadas, y las atribuciones y obligaciones que le asignen las Leyes; el segundo será el representante jurídico del propio Ayuntamiento desempeñando además las funciones que las leyes le encomiendan.
+El Presidente y el Síndico Municipal serán designados por elección popular directa lo mismo que los demás Regidores del Ayuntamiento. El primero tendrá el carácter ejecutor de las resoluciones y comisiones que le sean encomendadas por el Ayuntamiento y será el representante jurídico del mismo; el segundo desempeñará las comisiones que le sean encomendadas por el Ayuntamiento y las demás funciones que la Ley de Municipios y demás ordenamientos le encomienden.
 
 ###### Artículo 51.
 
@@ -441,25 +487,21 @@ En caso de que por concesiones especiales otorgadas por la Federación a algunas
 
 La Legislatura del Estado decretará la creación de pueblos libres cada vez que lo juzgue de utilidad pública, ó cuando a petición de los vecinos de las poblaciones respectivas resuelva que es justificada su solicitud.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
+
 ###### Artículo 53.
 
-Es obligación del Gobierno del Estado difundir la enseñanza entre sus habitantes por todos los medios posibles; quedando a cargo del Ejecutivo dirigirla y organizarla conforme a la Ley respectiva.
+Son propiedad del Municipio los bienes muebles e inmuebles que por encontrarse dentro de los perímetros urbanos determinados por la Legislatura del Estado, no pertenezcan a la Federación, al Estado o a los particulares y se encuentren afectos a un servicio de utilidad pública, que en beneficio de la comunidad, sean proporcionados por el propio Municipio, y así mismo los que le pertenezcan en virtud de declaración de la Ley, por resolución judicial y los que adquiera como sujeto de derecho privado.
 
-Como medio de los más eficaces, para cumplir con tan imprescindible como trascendental deber, el Estado eleva a precepto constitucional, por el tiempo que la evolución de éste y que la Nación lo exija, la creación y sostenimiento de un número de pensiones de gracia, que no será menor de quince, para mandar periódicamente a los centros de civilización más reputados del Extranjero, un número correspondiente de jóvenes, hijos del mismo Estado, de entre los más aprovechados, más capaces, y demás honorabilidad, a fin de ilustrarse científica y técnicamente en las ciencias mecánicas, físicas, químicas, industriales y demás ramos del saber humano, cuya implantación y difusión sea de más urgente necesidad para el progreso del Estado y de la República. Los jóvenes así favorecidos, a su regreso a la República, prestarán sus servicios preferentemente al Estado de Durango, a cuyos habitantes deben la especialidad de sus conocimientos.
-
-Queda igualmente a cargo del Gobierno del Estado la dirección y organización de la salubridad pública general en el mismo Estado. Para este fin se creará dependiente de la Secretaría del Despacho un departamento de Salubridad, y se instituirá una corporación que llevará el nombre de "Consejo Superior de Salubridad Pública".
-
-El Congreso, por una ley especial, determinará lo conducente a este ramo, y a las relaciones que en este respecto deben existir entre el Gobierno y los Municipios del Estado.
+La Legislatura del Estado expedirá la Ley de Bienes Municipales.
 
 ###### Artículo 54.
 
-El Poder Legislativo se deposita en una Asamblea que se denomina Legislatura del Estado de Durango, compuesta de Diputados electos directamente por el pueblo. La Legislatura se renovará totalmente cada tres años.
+El Poder Legislativo se deposita en una asamblea que se denomina "Legislatura del Estado Libre y Soberano de Durango" compuesta de once Diputados electos directamente por el pueblo y quienes durarán en su cargo tres años. Por cada Distrito Electoral se elegirá un Diputado Propietario y un Suplente en la forma y términos que señala la Ley Electoral respectiva.
 
-Por cada Distrito Electoral se elegirán un Diputado Propietario y un Suplente, en la forma y términos que señala la Ley Electoral respectiva.
+Los Distritos Electorales no podrán tener menos de cuarenta mil, ni más de ciento veinte mil habitantes.
 
-Cada Distrito Electoral quedará formado por cincuenta mil habitantes y si hubiere una fracción mayor de treinta mil habitantes, ésta formará un Distrito Electoral.
-
-Los Distritos Electorales se formarán tomando como base el último censo efectuado y serán numerados progresivamente.
+Los Distritos Electorales, se formarán tomando como base el último censo efectuado y serán numerados progresivamente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 1935)</small>
 
@@ -493,9 +535,11 @@ VI.- (DEROGADA, P.O. 6 DE OCTUBRE DE 1927)
 
 VII.- No ser empleado o funcionario público de la Federación, del Estado o del Municipio dentro de los noventa días anteriores al día de la elección.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
+
 ###### Artículo 56.
 
-El cargo de Diputado es incompatible con el desempeño de cualquier otro empleo del Estado o de la Federación o comisión pública, salvo empleo o comisión de Instrucción o de Salubridad públicas, en el mismo Estado, en cuyo caso es indispensable el previo permiso de la Legislatura o de la Diputación Permanente. La infracción de esta disposición implica la pérdida del cargo de Diputado por todo el tiempo que faltare del período Constitucional. Incurrirán en la misma pena los Diputados Suplentes en su caso, cuando hayan sido llamados para reemplazar al propietario.
+Los Diputados Propietarios, durante el período de su encargo, no podrán desempeñar ninguna otra comisión o empleo de la Federación, de los Estados o de los Municipios por los cuales se disfrute sueldo, sin licencia previa de la Cámara o de la Diputación Permanente en su caso; pero entonces cesarán en sus funciones representativas mientras dure la nueva ocupación. La misma regla se observará con los Diputados Suplentes cuando estuviesen en ejercicio; se exceptúan los empleos o comisiones de índole educativa o de salubridad pública en el mismo Estado en cuyo caso es indispensable el previo permiso de la Legislatura o de la Diputación Permanente. La infracción de esta disposición será castigada con la pérdida del carácter de Diputado.
 
 > <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
 
@@ -591,7 +635,9 @@ XVIII. Prorrogar hasta por un mes cualquiera de los períodos ordinarios de sesi
 
 XIX. Expedir la Ley Orgánica de los Municipios y sus Leyes de Arbitrios, conforme a las bases del artículo 115 de la Constitución Federal.
 
-XX. Convocar a elecciones para los Ayuntamientos conforme a las leyes respectivas.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1961)</small>
+
+XX. Autorizar al Ejecutivo para la enajenación de inmuebles propiedad del estado y siempre que ésta se efectúe al mejor postor, teniendo como base el valor real, y con expresa prohibición de que se finque a favor de un funcionario público federal, estatal o municipal, de sus parientes consaguineos en línea recta, sin limitación de grados, o transversal hasta el cuarto grado, o de sus parientes por afinidad, o consanguineos de éstos hasta el tercer grado.
 
 > <small>(REFORMADA, P.O. 9 DE MARZO DE 1939)</small>
 
@@ -703,9 +749,15 @@ El Gobernador constitucional propietario otorgará la protesta de ley ante la Le
 
 Si al comenzar un período constitucional no se presentare el Gobernador electo, o la elección no estuviera hecha y declarada el mes de septiembre, cesará sin embargo el Gobernador cuyo período haya terminado, y se encargará desde luego del Poder Ejecutivo en calidad de Gobernador provisional el que designe la nueva Legislatura electa. Y cuando con respecto a esta, se verifiquen las condiciones enumeradas antes, la Legislatura anterior, o en su caso la Diputación Permanente, hará el nombramiento de Gobernador Provicional (sic).
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
+
 ###### Artículo 75.
 
-El Gobernador no podrá salir del Estado sin permiso de la Legislatura o de la Diputación Permanente.
+El Gobernador no puede ausentarse del Estado por más de quince días sin licencia del Congreso o de la Diputación Pemanente en su caso.
+
+Cuando el Gobernador se ausentare del Estado por un término mayor de tres días y no menor de quince deberá dar aviso al Congreso o a la Diputación Permanente.
+
+Para salir fuera de la República necesita en todo caso licencia del Congreso o de la Diputación permanente.
 
 > <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
 
@@ -807,19 +859,23 @@ Las faltas temporales del Secretario de Gobierno serán llenadas por el Oficial 
 
 ###### Artículo 84.
 
-La Administración de justicia en el Estado estará a cargo de:
+La Administración de Justicia en el Estado estará a cargo de:
 
-I. El Supremo Tribunal de Justicia.
+1o.- El Supremo Tribunal de Justicia del Estado.
 
-II. Los Jueces de Primera Instancia.
+2o.- Jueces de Primera Instancia.
 
-III. Los Jurados.
+3o.- Jueces Menores.
 
-IV. Los Jueces Menores.
+4o.- Jueces Municipales.
 
-V. Los Jueces Correccionales y Municipales.
+5o.- Jueces Auxiliares.
 
-VI. Los Jefes de Cuartel.
+6o.- Presidentes de las Juntas Municipales.
+
+7o.- Jefes de Cuartel y de Manzana.
+
+Las Autoridades mencionadas en los números 6o. y 7o., serán consideradas como Auxiliares de la Administración de Justicia, en lo referente a las funciones de esta índole que desempeñen.
 
 ###### Artículo 85.
 
@@ -1049,7 +1105,7 @@ PREVENCIONES GENERALES.
 
 ###### Artículo 120.
 
-La Legislatura del Estado expedirá a la mayor brevedad posible las leyes sobre el trabajo y previsión social, conforme a lo dispuesto en el Art. 123 de la Constitución General de la República.
+(DEROGADO, P.O. 9 DE JULIO DE 1961)
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1935)</small>
 
@@ -1085,6 +1141,8 @@ DEL PODER EJECUTIVO.
 
 DEL PODER JUDICIAL.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
+
 ## TITULO VIII.
 
 DE LA HACIENDA DEL ESTADO.
@@ -1099,7 +1157,7 @@ DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS.
 
 ###### Artículo 1º.
 
-Los derechos del hombre son la base de toda institución social. Las leyes y las autoridades deben protegerlos con igualdad absoluta. Las leyes en el Estado de Durango son obligatorias desde su publicación, o desde la fecha en que la misma ley lo determine.
+(DEROGADO, P.O. 9 DE JULIO DE 1961)
 
 ###### Artículo 2º.
 
@@ -1109,11 +1167,35 @@ En el Estado de Durango todo individuo gozará de las garantías que otorga la C
 
 En el Estado de Durango todos son y nacen libres. Los esclavos del extranjero que entren a su territorio, recobrarán por este solo hecho su libertad y alcanzarán la protección de las leyes.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1937)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
 
-###### Artículo 4º.
+###### Artículo 4o.
 
-Los Municipios de Lerdo y Gómez Palacio subsisten como independientes con sus demarcaciones respectivas. La Municipalidad de Pedriceña, creada económicamente por el Gobierno Preconstitucional del Estado, queda sujeta a la reconsideración de la Legislatura, quien decretará o no su existencia como tal, según reuna o no los requisitos prescritos en el artículo 39 de esta Constitución.
+La educación que imparta el Estado o Municipio tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y a la conciencia de la solidaridad internacional en la dependencia y en la justicia.
+
+I.- Garantizada por el Artículo 23 la libertad de creencias, el criterio que orientará dicha educación se mantendrá por completo ajeno a cualquier doctrina religiosa y basada en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios, además:
+
+a).- Será democrático, considerando a la Democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
+
+b).- Será nacional, en cuanto sin hostilidades ni exclusivismos atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura.
+
+c).- Contribuirá a la mejor convivencia, tanto por sus elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la Sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de sectas, de grupos, de sexos o de individuos.
+
+II.- Los particulares podrán impartir educación en todos sus tipos y grados, pero por lo que concierne a la educación primaria, secundaria y normal y a la de cualquier tipo o grado, destinada a obreros y campesinos, deberán obtener previamente, en cada caso, la autorización expresa del Poder Público, dicha autorización podrá ser negada o revocada, sin que contra tales resoluciones proceda juicio o recurso alguno.
+
+III.- Los planteles particulares dedicados a la educación en los tipos y grados que especifica la Fracción anterior, deberán ajustarse, sin excepción, a lo dispuesto en los párrafos inicial, I y II del presente Artículo y además deberán cumplir los planes y los programas oficiales.
+
+IV.- Las corporaciones religiosas, los ministros de los cultos, las sociedades por acciones que exclusiva y predominantemente realicen actividades educativas y las asociaciones o sociedades ligadas con la propaganda de cualquier credo religioso, no intervendrán en forma alguna en planteles en que se imparta la educación primaria, secundaria y normal y la destinada a obreros y campesinos.
+
+V.- El Estado podrá retirar discrecionalmente, en cualquier tiempo, el reconocimiento de validez oficial a los estudios hechos en planteles particulares.
+
+VI.- La educación primaria será obligatoria.
+
+VII.- Toda la educación que el Estado imparte será gratuita, y
+
+VIII.- La Legislatura del Estado con el fin de unificar y coordinar la educación que imparte la Federación en toda la República con la que imparte el Estado, expedirá las Leyes necesarias, destinadas a distribuir la Función social educaitva (sic) entre el Estado, los Municipios, Instituciones y particulares, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a quienes no cumplen o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1922)</small>
 
 ###### Artículo 5º.
 
