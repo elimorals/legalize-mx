@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-agua-potable-alcantarillado-y-saneamiento-del-estado-101
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-13"
-last_updated: "2002-08-19"
+last_updated: "2004-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10163&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2002.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL AGUA Y GESTION DE CUENCAS PARA EL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EL 27 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial, el lunes 13 de junio de 1994.
 
@@ -1094,3 +1096,29 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos de los Municipios del Estado de Michoacán de Ocampo, que a la fecha de entrada en vigor del presente decreto, no hayan aprobado, expedido y mandado publicar el acuerdo de Cabildo mediante el cual se establezcan las cuotas y tarifas de derechos por el servicio de agua potable, alcantarillado y saneamiento, aplicables parar (sic) el ejercicio fiscal de 2002, podrán hacerlo hasta el 30 de septiembre del año en curso.
+
+P.O. 27 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Agua Potable, Alcantarillado y Saneamiento del Estado y las demás disposiciones legales y administrativas en lo que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se extingue el Comité de Agua Potable, Alcantarillado y Saneamiento del Estado. Las transferencias que por motivo de esta Ley deban realizarse de una entidad a otra, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como las transferencias de recursos humanos y de los activos patrimoniales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, sistemas, maquinaria, archivos y, en general el equipo que la entidad haya utilizado para los asuntos a su cargo. Los derechos laborales del personal que en virtud de los dispuestos en la presente Ley, pase de una entidad a la otra, se respetarán conforme a la Ley.
+
+###### ARTÍCULO CUARTO.
+
+Las relaciones laborales de los trabajadores de la Comisión, se regularán por la Ley de los Trabajadores al Servicio del Estado y sus Municipios.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos humanos, materiales y financieros, así como los derechos que a la fecha corresponden al Comité de Agua Potable, Alcantarillado y Saneamiento, se integrarán al patrimonio de la Comisión.
+
+###### ARTÍCULO SEXTO.
+
+El Coordinador General de la Comisión deberá someter a la aprobación de la Junta de Gobierno el Reglamento Interior de la Comisión. Asimismo deberá someter a la aprobación de la Junta de Gobierno, el Reglamento de Ley de la (sic) Agua y Gestión de Cuencas para el Estado de Michoacán de Ocampo.
