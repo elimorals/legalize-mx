@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1983-03-03"
+last_updated: "1983-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE MARZO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE MAYO DE 1983.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -2277,45 +2277,23 @@ III.- Las demás que impongan otras disposiciones fiscales.
 
 ###### Artículo 222.
 
-Es objeto del impuesto la prestación de servicios personales prestados bajo la Dirección y Dependencia de un tercero, ya sea en virtud de un contrato de trabajo o de nombramiento para el desempeño de una actividad.
+(DEROGADO, B.O. 26 DE MAYO DE 1983)
 
 ###### Artículo 223.
 
-Son sujetos del Impuesto quienes presenten sus servicios personales bajo la Dirección o Dependencia de un patrón.
-
-Se asimilan a los sujetos del impuesto los miembros del los Consejos de administración, de vigilancia, comisarios y a los miembros de las cooperativas de productores.
-
-Para los efectos de este impuesto se considerará el ingreso exclusivamente de quien lo perciba.
+(DEROGADO, B.O. 26 DE MAYO DE 1983)
 
 ###### Artículo 224.
 
-La base del Impuesto es la percepción mensual total, cualquiera que sea el nombre con el que se le designe, ya sea ordinaria o extraordinaria, incluyendo viáticos, gastos de representación, comisiones, premios, gratificaciones, participaciones de utilidades, primas vacacionales, dominicales o de antigüedad.
+(DEROGADO, B.O. 26 DE MAYO DE 1983)
 
 ###### Artículo 225.
 
-Para los efectos de la formación de la base del impuesto, son acumulables las percepciones que se obtengan de dos o más terceros.
+(DEROGADO, B.O. 26 DE MAYO DE 1983)
 
 ###### Artículo 226.
 
-No causan este impuesto:
-
-I.- El personal diplomático acreditado ante el Gobierno Mexicano;
-
-II.- Los empleados y trabajadores de los poderes de la federación;
-
-III.- EL trabajador que el día último del mes de la imposición tenga más de 65 años cumplidos, su ingreso bruto mensual de uno o más patronos no exceda de cinco veces el salario mínimo y no realice ninguna otra actividad gravada por esta Ley;
-
-IV.- El importe del salario mínimo general;
-
-V.- Las indemnizaciones por riesgos o enfermedades profesionales que se concedan de acuerdo con las Leyes o contratos respectivos;
-
-VI.- Las jubilaciones, pensiones y haberes de retiro en los casos de invalidez, cesantía, vejez, retiro y muerte, cuyo monto mensual no exceda de cinco veces el salario mínimo general que rija en la zona económica del Estado en que se resida;
-
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
-
-VII.- Las gratificaciones de fin de año acordadas en forma general a favor de los empleados públicos y de otros trabajadores, siempre que en este último caso no exceda del importe de un mes de salario mínimo general; y
-
-VIII.- Los gastos de representación y viáticos cuando sean efectivamente erogados en servicio del patrón y se compruebe esta circunstancia con documentación de terceros que reúna los requisitos exigidos por la Ley del Impuesto Sobre la Renta.
+(DEROGADO, B.O. 26 DE MAYO DE 1983)
 
 > <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
 
@@ -2369,43 +2347,35 @@ inferior
 
 ###### Artículo 228.
 
-Cuando por razones no imputables al causante, éste perciba en una sola vez las prestaciones gravables correspondientes a diversos meses, el impuesto se calculará dividiendo el monto de la percepción entre el número de meses a que se refiere. El cociente obtenido se agregará al ingreso declarado por el causante en dichos meses y se determinará el impuesto que corresponda al total acumulado en cada uno de ellos. Se sumarán las distintas cantidades de impuesto que resulten por cada mes, deduciendo de dicha suma, el monto del impuesto pagado en los meses correspondientes, y la diferencia que resulte será el impuesto por pagar. Esta norma se aplicará también a los pagos que las empresas hagan por concepto de gratificaciones al personal o de emolumento a los miembros del Consejo de Administración y comisarios.
+(DEROGADO, B.O. 26 DE MAYO DE 1983)
 
 ###### Artículo 229.
 
-Cuando el causante reciba la participación en las utilidades a que se refiere el Artículo 123 de la Constitución, o en los rendimientos obtenidos al final del ejercicio social, según lo dispuesto por la Ley general de Sociedades Cooperativas y su Reglamento, dichas percepciones se dividirán entre los meses que correspondan al ejercicio y el impuesto se pagará sobre la cifra mensual que se obtenga en la forma indicada en el Artículo anterior.
+(DEROGADO, B.O. 26 DE MAYO DE 1983)
 
 ###### Artículo 230.
 
-Cuando el contribuyente al dejar de prestar sus servicios, perciba compensaciones por antigüedad, retiro u otras remuneraciones análogas, el impuesto correspondiente a las mismas, se calculará de la siguiente manera: La percepción total por dichos conceptos se dividirá entre el importe del último sueldo mensual que normalmente le correspondió; el resultado se multiplicará por el impuesto que gravó el sueldo del último mes trabajado y la cantidad obtenida será el impuesto por pagar.
+(DEROGADO, B.O. 26 DE MAYO DE 1983)
 
 ###### Artículo 231.
 
-Los terceros que efectúen pagos a los sujetos a que se refiere el Artículo 223, están obligados a retener el impuesto.
-
-El entero del impuesto retenido deberá efectuarse mediante la presentación de una declaración, haciendo uso de las formas oficiales, dentro de los 15 primeros días de cada mes.
+(DEROGADO, B.O. 26 DE MAYO DE 1983)
 
 ###### Artículo 232.
 
-Las oficinas públicas del Estado y de los Municipios, así como los Organismos Descentralizados, las Empresas de Participación o Propiedad del Gobierno Federal, del Gobierno Estatal, o similares, que hagan pagos sujetos a este impuesto, cumplirán con las mismas obligaciones señaladas en los Artículos anteriores.
+(DEROGADO, B.O. 26 DE MAYO DE 1983)
 
 ###### Artículo 233.
 
-Cuando en un mes se perciban ingresos de dos o más terceros, el sujeto pasivo podrá optar entre:
-
-I.- Presentar directamente declaración, dentro de los primeros 15 días del mes siguiente pagando el impuesto que corresponda a sus percepciones acumuladas, caso en que avisará a los terceros a fin de que abstengan de efectuar las retenciones; o
-
-II.- Comunicar a quien le haya cubierto la prestación más alta en el mes, las percepciones obtenidas de otros terceros, a fin de que formule la liquidación del Impuesto correspondiente a sus ingresos acumulados y retenga su importe. Así mismo, comunicará a otros terceros el nombre de quien hará la retención, para que ellos se abstengan de hacerla.
-
-Las comunicaciones a que se refieren los incisos anteriores, deberán hacerse dentro de los primeros cinco días del mes.
+(DEROGADO, B.O. 26 DE MAYO DE 1983)
 
 ###### Artículo 234.
 
-Cuando al llegar el último día de un mes, no sea posible precisar el monto total de los ingresos obtenidos por un contribuyente en ese lapso, se le retendrá el impuesto correspondiente a los conocidos, liquidándose la diferencia que resulte a su cargo por la aplicación de la tarifa, dentro de los primeros 15 días del mes siguiente a aquél en que sea posible determinar la cuantía de dicho ingreso.
+(DEROGADO, B.O. 26 DE MAYO DE 1983)
 
 ###### Artículo 235.
 
-Las oficinas receptoras, cuando lo estimen conveniente, podrán exigir el pago del impuesto directamente al sujeto pasivo.
+(DEROGADO, B.O. 26 DE MAYO DE 1983)
 
 ###### Artículo 236.
 
@@ -4306,3 +4276,7 @@ B.O. 3 DE MARZO DE 1983.
 PRIMERO.- Esta Ley entrará en vigor en todo el Estado, el día siguiente de su publicación en el Boletín Oficial del Estado.
 
 SEGUNDO.- Los impuestos y contribuciones causados conforme a las disposiciones vigentes y con anterioridad a la fecha en que entre en vigor la presente reforma, deberán ser pagados en el monto, forma y plazos establecidos en dichas disposiciones.
+
+B.O. 26 DE MAYO DE 1983.
+
+UNICO.- Esta Ley entrará en vigor, a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
