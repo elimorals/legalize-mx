@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-compatibilidad-de-funciones-empleos-y-comisiones-3458"
 country: "mx"
 rank: "ley"
 publication_date: "1967-07-20"
-last_updated: "1989-09-30"
+last_updated: "2002-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE COMPATIBILIDAD DE FUNCIONES, EMPLEOS Y COMISIONES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 20 de julio de 1967.
 
@@ -69,13 +69,21 @@ Sólo se autorizará la percepción de honorarios y de 9 horas de dictado de cla
 
 Los únicos casos de interferencia de horarios que podrán autorizarse, serán los siguientes:
 
-a).- Director General de Educación del Estado y Director Federal de Educación en el mismo;
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2002)</small>
 
-b).- Delegado del Departamento de Turismo o Jefe de Oficina de dicho Departamento con la de Director de Turismo del Estado;
+a).- Secretario de Educación y Bienestar Social y Director General del Instituto de Servicios Educativos y Pedagógicos del Estado de Baja California.
 
-c).- Jefe de los Servicios Coordinados de la Secretaría de Salubridad y Asistencia con el Director de Asistencia Pública del Estado;
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2002)</small>
 
-d).- Director General de Agricultura del Estado y Agente General de la Secretaría de Agricultura y Ganadería en la Entidad, salvo las excepciones que la Ley establezca; y
+b).- Delegado de la Secretaría de Turismo o Jefe de Oficina de dicha Secretaría con la de Secretario de Turismo del Estado;
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2002)</small>
+
+c).- Secretario de Salud con el Director General del Instituto de Servicios de Salud Pública del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2002)</small>
+
+d).- Secretario de Fomento Agropecuario del Estado y Agente General de la Secretaría de Agricultura, Ganadería y Desarrollo Rural, Pesca y Alimentación en la Entidad, salvo las excepciones que la Ley establezca; y
 
 e).- Aquellos en los que el Ejecutivo del Estado autorice la interferencia, por ser necesaria y convenir a la buena marcha de la administración.
 
@@ -147,9 +155,11 @@ Con excepción del grupo administrativo, en los demás podrá autorizarse menor 
 
 Para los efectos de compatibilidad, los empleos que se desempeñen de las veinte a las veinticuatro horas y de las cero a las seis horas se computarán por la mitad del número de horas señaladas en las disposiciones anteriores. Se exceptúan de esta disposición los empleos de los grupos docentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 7o.
 
-Para percibir las remuneraciones correspondientes a dos o más cargos compatibles, de conformidad con esta Ley, la persona interesada deberá obtener una autorización expresa, previa solicitud filmada por el titular de la Dependencia en la cual preste sus servicios, ante la Oficialía Mayor de Gobierno, la que otorgará dicha autorización conjuntamente con la Tesorería General, previo acuerdo expreso en cada caso del Ejecutivo del Estado.
+Para percibir las remuneraciones correspondientes a dos o más cargos compatibles, de conformidad con esta Ley, la persona interesada deberá obtener una autorización expresa, previa solicitud firmada por el titular de la Dependencia en la cual preste sus servicios, ante la Oficialía Mayor de Gobierno, la que otorgará dicha autorización conjuntamente con la Secretaría de Planeación y Finanzas, previo acuerdo expreso en cada caso del Ejecutivo del Estado.
 
 En la citada solicitud de compatibilidad se expresará:
 
@@ -179,9 +189,11 @@ Las reglas establecidas en esta Ley tendrán aplicación para autorizar la perce
 
 Para el debido cumplimiento de esta Ley, el Ejecutivo del Estado otorgará las autorizaciones correspondientes, previa comprobación por el propio Gobierno Estatal, de que los interesados han dado cumplimiento a las disposiciones federales sobre esta materia, en aquellos casos en que desempeñen simultáneamente cargos, empleos o comisiones estatales y federales.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 10.
 
-Las autorizaciones otorgadas en los términos de esta Ley, se expedirán, en los casos en que ya se hayan venido desempeñando conjuntamente las funciones, empleos o comisiones, con efectos desde treinta y sesenta días antes de la fecha en que se presentó la solicitud en la Oficialía Mayor de Gobierno, según el solicitante radique, al hacer la gestión, dentro o fuera de la Capital del Estado, y, en su caso, desde aquella en el que el solicitante los asuma. Dichas autorizaciones continuarán en vigor en tanto que no varíe cualesquiera de los elementos que le hubiere dado origen. Las dependencias respectivas quedan obligadas a dar oportuno aviso a la Oficialía Mayor de Gobierno, con copia a la Tesorería General del Estado, de cualquier cambio que ocurra en esos elementos.
+Las autorizaciones otorgadas en los términos de esta Ley, se expedirán, en los casos en que ya se hayan venido desempeñando conjuntamente las funciones, empleos o comisiones, con efectos desde treinta y sesenta días antes de la fecha en que se presentó la solicitud en la Oficialía Mayor de Gobierno, según el solicitante radique, al hacer la gestión, dentro o fuera de la Capital del Estado, y, en su caso, desde aquella en el que el solicitante los asuma. Dichas autorizaciones continuarán en vigor en tanto que no varíe cualquiera de los elementos que le hubiere dado origen. Las dependencias respectivas quedan obligadas a dar oportuno aviso a la Oficialía Mayor de Gobierno, con copia a la Secretaría de Planeación y Fianzas (sic), de cualquier cambio que ocurra en esos elementos.
 
 ###### ARTICULO 11.
 
@@ -189,7 +201,9 @@ Serán personalmente responsables los funcionarios que asienten o certifiquen cu
 
 La Oficialía Mayor de Gobierno y la Oficina u Oficinas que manejen el Presupuesto de Egresos, quedan facultadas para verificar en todo el tiempo y en la forma que mejor proceda, la exactitud de los datos a que se ha hecho referencia y así mismo para hacer consignar a las autoridades Judiciales aquellos casos en que se hubieren asentado falsedades.
 
-Los funcionarios y empleados que perciban, sin la correspondiente autorización, dos o más remuneraciones con cargo al Presupuesto de Egresos del Estado, están obligados a reintegrar las cantidades que como remuneración hubiesen percibido por aquellas funciones, empleos o comisiones Estatales cuyo desempeño sea incompatible, sin perjuicio de las sanciones de carácter penal que procedieren. Para este fin, la Tesorería General del Estado, cuando concurra el desempeño de uno o más cargos con cualquiera otra de las Entidades e Instituciones mencionadas en el Artículo 8o. de esta Ley, suspenderá totalmente al interesado el pago de las remuneraciones con cargo al Presupuesto de Egresos Local; y, cuando los cargos desempeñados sólo sean del Estado, pagará el retribuído con mayor cuota y suspenderá el pago de las demás. En ambos casos darán inmediato aviso a la Oficialía Mayor de Gobierno, para que ésta lo haga del conocimiento del Ejecutivo a fin de que se resuelva de conformidad con las prescripciones contenidas en la presente Ley.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2002)</small>
+
+Los funcionarios y empleados que perciban, sin la correspondiente autorización, dos o más remuneraciones con cargo al Presupuesto de Egresos del Estado, están obligados a reintegrar las cantidades que como remuneración hubiesen percibido por aquellas funciones, empleos o comisiones Estatales, cuyo desempeño sea incompatible, sin perjuicio de las sanciones de carácter penal que procedieren. Para este fin, la Secretaría de Planeación y Finanzas, cuando concurra el desempeño de uno o más cargos con cualquiera otra de las Entidades e Instituciones mencionadas en el Artículo 8o. de esta Ley, suspenderá totalmente al interesado el pago de las remuneraciones con cargo al Presupuesto de Egresos Local; y, cuando los cargos desempeñados sólo sean del Estado, pagará el retribuido con mayor cuota y suspenderá el pago de las demás. En ambos casos darán inmediato aviso a la Oficialía Mayor de Gobierno, para que ésta haga del conocimiento al Ejecutivo a fin de que se resuelva de conformidad con las prescripciones contenidas en la presente Ley.
 
 ###### ARTICULO 12.
 
@@ -254,3 +268,9 @@ P.O. 30 DE SEPTIEMBRE DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 22 DE FEBRERO DE 2002.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
