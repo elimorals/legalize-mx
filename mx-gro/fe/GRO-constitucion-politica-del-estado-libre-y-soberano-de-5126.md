@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1987-11-06"
+last_updated: "1988-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 1988.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -454,6 +454,10 @@ El Estado de Guerrero es Libre y Soberano en su régimen interior y podrá darse
 ###### ARTICULO 25.
 
 El Poder del Estado reside en el pueblo y se ejerce por los órganos que lo representan de acuerdo con el artículo 41 de la Constitución Federal y con arreglo a esta Constitución.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1988)</small>
+
+El Poder Ejecutivo someterá a consulta de la ciudadanía, conforme a las técnicas y métodos de referéndum, los asuntos que de manera trascendente afecten el bienestar popular y reclamen importantes recursos fiscales. Asimismo, dentro del proceso de planeación democrática del desarrollo, consultará a la propia ciudadanía, en los términos de Ley, sobre las prioridades y estrategias estatales.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1324,6 +1328,10 @@ VII.- Planear y regular de manera conjunta y coordinada con la Federación, el E
 Cada Municipio será administrado por un Ayuntamiento de elección popular directa, que constituye el órgano de decisión, el cual estará encabezado por el Presidente Municipal, que es el órgano de ejecución y comunicación de las decisiones de aquél.
 
 Entre el Gobierno del Estado y los Municipios, no habrá ninguna autoridad intermedia.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1988)</small>
+
+Con sujeción a la Ley y siempre que se reúnan los requisitos que la misma establezca, en las localidades más importantes de cada municipio, habrá comisarías municipales de elección popular directa, las cuales tendrán las facultades que las leyes del Estado y los bandos y ordenanzas municipales les confieran. Además, los municipios contarán con Consejos de Participación Ciudadana que coadyuvarán a la mejor atención de las materias de interés vecinal.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2298,3 +2306,9 @@ UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publica
 P.O. 6 DE NOVIEMBRE DE 1987.
 
 UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE FEBRERO DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
