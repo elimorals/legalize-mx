@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1998-05-09"
+last_updated: "1999-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 1999.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -965,11 +965,11 @@ Cuando la falta absoluta de Gobernador ocurriere en los cuatro últimos años de
 
 Si al iniciarse un período constitucional no se presenta el gobernador electo, o la elección no estuviera hecha y declarada, el Gobernador cuyo mandato haya concluido cesará en sus funciones. En tal caso se procederá conforme a los párrafos primero y segundo del Artículo anterior.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1999)</small>
 
 ###### Artículo 68.
 
-Para ser Gobernador Sustituto, Interino o Provisional, son indispensables los mismos requisitos señalados por el artículo 63 de esta Constitución.
+Para ser Gobernador sustituto, interino o provisional, son indispensables los mismos requisitos señalados por el artículo 63 de esta Constitución, con excepción de los señalados en la fracción VI del mismo Ordenamiento legal.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -2736,3 +2736,7 @@ P.O. 9 DE MAYO DE 1998.
 PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
 
 SEGUNDO.- Hasta en tanto sea expedida la nueva Ley Orgánica del Poder Judicial, serán aplicables las leyes orgánicas y demás ordenamientos aplicables a cada Tribunal.
+
+P.O. 29 DE MARZO DE 1999.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
