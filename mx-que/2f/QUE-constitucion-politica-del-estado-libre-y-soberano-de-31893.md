@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1923-06-30"
+last_updated: "1923-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 1923.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 1923.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -461,7 +461,7 @@ VIII.- Reclamar ante la Suprema Corte de Justicia de la Nación, cuando la ley g
 
 IX.- Hacer la división del Estado en Distritos electorales;
 
-X.- Decidir acerca de las elecciones de Ayuntamientos, cuando se reclame la nulidad total o parcial de aquéllas, y consignar a la autoridad judicial, para su enjuiciamiento y castigo, a los que resulten responsables de algún fraude;
+X.- (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 1923)
 
 XI.- Resolver lo que crea conveniente, cuando fuere suspendido alguno o todos los miembros del Ayuntamiento por el Gobernador;
 
@@ -831,9 +831,11 @@ El número de Regidores que por ahora debe haber en cada Municipalidad, será el
 
 En la de Querétaro seis, en la de San Juan del Río cuatro, y dos en cada una de las demás Municipalidades.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 1923)</small>
+
 ###### Art. 135.
 
-Los Ayuntamientos resolverán sobre la legalidad de la elección de sus miembros, y si diez o más ciudadanos tacharen de nula, total o parcialmente la elección, el Congreso decidirá definitivamente sobre el asunto, sin ulterior recurso.
+Los Ayuntamientos resolverán sobre la legalidad de la elección de sus miembros, sin ulterior recurso.
 
 ###### Art. 136.
 
@@ -1338,6 +1340,10 @@ P.O. 21 DE MAYO DE 1921
 N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 P.O. 30 DE JUNIO DE 1923
+
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+
+P.O. 22 DE SEPTIEMBRE DE 1923
 
 N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
