@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-del-suelo-del-municipio-25406
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-01"
-last_updated: "2004-09-07"
+last_updated: "2004-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACIÓN Y USOS DEL SUELO DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de julio de 2002.
 
@@ -1277,27 +1277,39 @@ IV. Una vez resuelto por la Comisión de Ordenamiento Territorial de Desarrollo 
 
 V. En caso de aprobación, el Secretario de Desarrollo Urbano turnará al Secretario del R. Ayuntamiento, la resolución para que éste ordene su publicación en la Gaceta Municipal.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 25.
 
-Cuando se solicite la autorización de un uso del suelo que no se contemple en las clasificaciones de este Reglamento, la Secretaría de Desarrollo Urbano realizará un dictamen y solicitará la anuencia de los integrantes de la Comisión Ordenamiento Territorial de Desarrollo Urbano del Ayuntamiento.
+Cuando se solicite la autorización de un uso del suelo que no se contemple en las clasificaciones de este Reglamento, la Secretaría de Desarrollo Urbano y Ecología realizará un dictamen y solicitará la anuencia de los integrantes de la Comisión Ordenamiento Territorial de Desarrollo Urbano del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 26.
 
-Cuando se solicite la autorización de algunos giros de considerable impacto urbano, la Secretaría de Desarrollo Urbano realizará un dictamen y deberá contar con un visto bueno de los integrantes de la Comisión de Ordenamiento Territorial de Desarrollo Urbano del Ayuntamiento, entre los que se incluyen:
+Cuando se solicite la autorización de algunos giros de considerable impacto urbano, la Secretaría de Desarrollo Urbano y Ecología realizará un dictamen y deberá contar con un visto bueno de los integrantes de la Comisión de Ordenamiento Territorial de Desarrollo Urbano del Ayuntamiento, entre los que se incluyen:
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
 I.- Conjuntos habitacionales;
 
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
 II.- Sitios utilizados para el almacenamiento, transferencia o disposición final de desechos;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
 III.- Edificios destinados para la distribución o expendio de hidrocarburos u otros combustibles, tales como gasolineras, unidades de carburación;
 
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
 IV.- Edificaciones que estén proyectadas para atender más de mil personas, como: centros comerciales, hoteles, centros de convenciones y similares;
 
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
 V.- Industrias o bodegas con área de construcción igual o mayor de 5,000 metros cuadrados; y
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
 VI.- Las demás que la Secretaría considere convenientes.
 
@@ -1541,9 +1553,11 @@ i) Remetimientos mínimos cuando no colinden con lotes habitacionales: al frente
 
 En el caso de predios o lotes de configuración geométrica irregular, la Secretaría definirá los remetimientos a respetar por el propietario o poseedor en función del proyecto arquitectónico a realizar en los mismos.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 38.
 
-Los lineamientos autorizados y los previstos en los planes de desarrollo urbano, aplicables a un lote o predio, excepto el coeficiente de uso del suelo, altura y cajones de estacionamientos, podrán ser modificados a solicitud del propietario, siempre y cuando se trate de variaciones pequeñas hasta de un diez por ciento (10%). La solicitud deberá contar con la anuencia de la mayoría de los propietarios de los predios colindantes, quienes manifestarán firmando el escrito correspondiente. La Secretaría de Desarrollo Urbano aprobará o rechazará lo solicitado.
+Los lineamientos autorizados y los previstos en los planes de desarrollo urbano, aplicables a un lote o predio, excepto el coeficiente de uso del suelo, altura y cajones de estacionamientos, podrán ser modificados a solicitud del propietario, siempre y cuando se trate de variaciones pequeñas hasta de un diez por ciento (10%). La solicitud deberá contar con la anuencia de la mayoría de los propietarios de los predios colindantes, quienes manifestarán firmando el escrito correspondiente. La Secretaría de Desarrollo Urbano y Ecología aprobará o rechazará lo solicitado.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -1551,7 +1565,9 @@ Los lineamientos autorizados y los previstos en los planes de desarrollo urbano,
 
 Los lineamientos específicos aplicables a un lote o predio, podrán ser modificados a solicitud del propietario, si se trata de variaciones mayores al diez por ciento (10%) y hasta del treinta por ciento (30%), en densidades, alturas y estacionamientos. La solicitud deberá acompañarse con firmas de apoyo de la mayoría de los propietarios de los lotes o predios ubicados en una zona de cien metros de radio, tomando como centro la mitad del frente del terreno, así como de los dictámenes favorables de la Comisión Federal de Electricidad y de los Servicios de Agua y Drenaje de Monterrey.
 
-La Secretaría de Desarrollo Urbano aprobará o rechazará lo solicitado, previo dictamen de la Comisión de Ordenamiento Territorial de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2004)</small>
+
+La Secretaría de Desarrollo Urbano y Ecología aprobará o rechazará lo solicitado, previo dictamen de la Comisión de Ordenamiento Territorial de Desarrollo Urbano.
 
 ###### Artículo 40.
 
@@ -1569,21 +1585,27 @@ IV. Las instituciones señaladas en la Fracción III, inciso a) e inciso b) del 
 
 Las promociones e iniciativas a que se refiere el Artículo anterior se someterán al siguiente procedimiento:
 
-I. La Secretaría de Desarrollo Urbano emitirá un dictamen técnico urbanístico sobre el proyecto, tomando en cuenta los requerimientos de la zona, infraestructura, vialidad, servicios públicos, paisaje urbano y los aspectos ecológicos;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2004)</small>
 
-II. El Secretario de Desarrollo Urbano consultará cuando menos a diez propietarios de los lotes o predios inmediatos al proyecto cuya autorización se pretende y a la Junta de Vecinos o Residentes de la colonia involucrada en el sector, zona o corredor urbano de que se trate;
+I. La Secretaría de Desarrollo Urbano y Ecología emitirá un dictamen técnico urbanístico sobre el proyecto, tomando en cuenta los requerimientos de la zona, infraestructura, vialidad, servicios públicos, paisaje urbano y los aspectos ecológicos;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2004)</small>
+
+II. El Secretario de Desarrollo Urbano y Ecología consultará cuando menos a diez propietarios de los lotes o predios inmediatos al proyecto cuya autorización se pretende y a la Junta de Vecinos o Residentes de la colonia involucrada en el sector, zona o corredor urbano de que se trate;
 
 III. (DEROGADA, P.O. 4 DE FEBRERO DE 2004)
 
 IV. (DEROGADA, P.O. 4 DE FEBRERO DE 2004)
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2004)</small>
 
-V. El Secretario de Desarrollo Urbano, habiendo considerado las anteriores consultas, formulará una propuesta que presentará al Ayuntamiento, a través de la Comisión de Ordenamiento Territorial de Desarrollo;
+V. El Secretario de Desarrollo Urbano y Ecología, habiendo considerado las anteriores consultas, formulará una propuesta que presentará al Ayuntamiento, a través de la Comisión de Ordenamiento Territorial de Desarrollo;
 
 VI. El Ayuntamiento en Sesión Ordinaria aprobará, rechazará o modificará la propuesta;
 
-VII. Una vez resuelto por el Ayuntamiento, el Secretario de Desarrollo Urbano, dentro de un plazo de seis días hábiles comunicará la resolución a los que lo promueven; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2004)</small>
+
+VII. Una vez resuelto por el Ayuntamiento, el Secretario de Desarrollo Urbano y Ecología, dentro de un plazo de seis días hábiles comunicará la resolución a los que lo promueven; y
 
 VIII. En el caso de aprobación o modificación por el Ayuntamiento, el Presidente Municipal ordenará su publicación en la Gaceta Municipal y la solicitará en el Periódico Oficial del Estado.
 
@@ -1899,9 +1921,11 @@ Para el estacionamiento de vehículos en la vía pública se deberá dejar una d
 
 Todas las áreas de estacionamiento deberán estar perfectamente limitadas y señalizadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 89.
 
-Todo edificio deberá tener dentro del predio un área de estacionamiento suficiente para satisfacer las necesidades generadas por el uso del mismo. Cuando algún uso del suelo o edificios que solicite autorización no se encuentre en la lista anterior, la Secretaría de desarrollo urbano lo homologará al que considere más semejante, en el caso de número mínimo de cajones de estacionamiento requeridos. El mínimo requerido de cajones de estacionamiento es el que se indica en la siguiente Matriz de Cajones de Estacionamiento:
+Todo edificio deberá tener dentro del predio un área de estacionamiento suficiente para satisfacer las necesidades generadas por el uso del mismo. Cuando algún uso del suelo o edificios que solicite autorización no se encuentre en la lista anterior, la Secretaría de Desarrollo Urbano y Ecología lo homologará al que considere más semejante, en el caso de número mínimo de cajones de estacionamiento requeridos. El mínimo requerido de cajones de estacionamiento es el que se indica en la siguiente Matriz de Cajones de Estacionamiento:
 
 > <small>N. DE E. VÉASE MATRIZ DE CAJONES DE ESTACIONAMIENTO EN EL P.O. DE 1 DE JULIO DE 2002, PÁGINAS DE LA 71 A LA 81.</small>
 
@@ -1917,9 +1941,11 @@ Cuando un predio o edificio tenga múltiples usos del suelo y/o edificios, se ap
 
 Cuando un predio o edificio no tenga capacidad para alojar el número de cajones de estacionamiento que el Reglamento le señale, el propietario o poseedor podrá solucionar la carencia mediante el arrendamiento de algún predio colindante o distante, siempre que se encuentre en un radio no mayor de 150.00 metros y no atraviese una vía principal; o bien, mediante la fusión de un predio de su propiedad o vecinal colindante al principal, en la inteligencia que el predio que se fusiona solamente podrá tener algún otro uso del suelo que garantice el cumplimiento de ofrecer los cajones de estacionamiento tanto del predio principal como del propio.
 
+(REFORMADO, P.O. 14 DE DICIEMBRE DE 2004
+
 ###### Artículo 92.
 
-Cuando en un mismo predio se tengan usos del suelo y/o edificios múltiples y desfasados en horarios, la Secretaría de Desarrollo Urbano podrá autorizar que el área de estacionamiento sea menor que la suma total de los requerimientos sin que ésta sea menor al requerimiento mayor de las partes individuales.
+Cuando en un mismo predio se tengan usos del suelo y/o edificios múltiples y desfasados en horarios, la Secretaría de Desarrollo Urbano y Ecología podrá autorizar que el área de estacionamiento sea menor que la suma total de los requerimientos sin que ésta sea menor al requerimiento mayor de las partes individuales.
 
 ###### Artículo 93.
 
@@ -2363,6 +2389,10 @@ III.- Regularización patrimonial: Consiste en gestionar la transmisión de bien
 
 La regularización de la Tenencia de la Tierra Urbana como fraccionamiento habitacional se sujetará a las siguientes normas:
 
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2004)</small>
+
+I.- Solamente el Ayuntamiento a través de la Secretaría de Desarrollo Urbano y Ecología podrá iniciar y continuar las acciones para la regularización de la tenencia de la tierra urbana.
+
 I.- Solamente el Ayuntamiento a través de la Secretaría de Desarrollo Urbano podrá iniciar y continuar las acciones para la regularización de la tenencia de la tierra urbana.
 
 II.- Solo podrán ser beneficiarios de la Regularización quienes al inicio e (sic) la vigencia del presente Reglamento ocupen un lote por familia en el predio por autorizar y no sean propietarios de otro bien inmueble en el municipio. Teniendo preferencia los poseedores de buena fe de acuerdo a la antigüedad de la posesión;
@@ -2559,21 +2589,21 @@ La Secretaría tendrá la obligación de dar contestación por escrito a todas l
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 150.
 
-Para autorizar la transferencia de derechos y obligaciones de un fraccionamiento, licencia de uso de suelo y/o edificios, la Secretaría de Desarrollo Urbano requiere que el interesado presente la siguiente documentación:
+Para autorizar la transferencia de derechos y obligaciones de un fraccionamiento, licencia de uso de suelo y/o edificios, la Secretaría de Desarrollo Urbano y Ecología requiere que el interesado presente la siguiente documentación:
 
-IX (SIC). Solicitud de autorización;
+I. Solicitud de autorización;
 
-X. Escrito del interesado en el que manifieste su aceptación de los derechos y obligaciones impuestas en la autorización del fraccionamiento, licencia de uso del suelo y/o edificios;
+II. Escrito del interesado en el que manifieste su aceptación de los derechos y obligaciones impuestas en la autorización del fraccionamiento, licencia de uso del suelo y/o edificios;
 
-XI. Copia de los Acuerdos firmados y sellados por la autoridad competente respecto de las autorizaciones correspondientes;
+III. Copia de los Acuerdos firmados y sellados por la autoridad competente respecto de las autorizaciones correspondientes:
 
-XII. Copia del plano del fraccionamiento ó uso del suelo y/o edificios; y
+IV. Copia del plano del fraccionamiento ó uso del suelo y/o edificios; y
 
-XIII. En su caso, carta poder certificada por Notario Público para la realización del trámite.
+En su caso, carta poder certificada por Notario Público para la realización del trámite.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -3026,5 +3056,9 @@ Noveno. En la medida que se modifique las condiciones socioeconómicas del Munic
 Décimo. Envíese para su publicación en el Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno y en la Gaceta Municipal, por conducto de la Secretaría del R. Ayuntamiento.
 
 P.O. 7 DE SEPTIEMBRE DE 2004.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
+
+P.O. 14 DE DICIEMBRE DE 2004.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
