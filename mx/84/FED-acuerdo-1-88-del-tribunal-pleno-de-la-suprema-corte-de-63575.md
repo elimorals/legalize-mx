@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1988-04-25"
+last_updated: "1988-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE ABRIL DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1988.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -137,7 +137,9 @@ IX.- NOVENO CIRCUITO:
 
 1.- Dos Tribunales Colegiados y un Tribunal Unitario, con residencia en la ciudad de San Luis Potosí, San Luis Potosí;
 
-2.- Juzgados Primero, Segundo y Tercero de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad de San Luis Potosí;
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO NUMERO 5/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 17 DE MAYO DE 1988)</small>
+
+2.- Juzgados Primero, Segundo, Tercero y Cuarto de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad de San Luis Potosí;
 
 3.- Juzgado de Distrito en el estado de Zacatecas, con residencia en la ciudad de Zacatecas;
 
@@ -404,3 +406,7 @@ D.O.F. 25 DE ABRIL DE 1988.
 PRIMERO.- Este acuerdo entrará en vigor el primero de mayo de mil novecientos ochenta y ocho.
 
 SEGUNDO.- Publíquese este propio acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación y hágase del conocimiento de todos los Tribunales de Circuito y Juzgados de Distrito del país, para su conocimiento y cumplimiento.
+
+D.O.F. 17 DE MAYO DE 1988.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
