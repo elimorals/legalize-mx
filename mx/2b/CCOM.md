@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1889-10-07"
+last_updated: "1932-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE AGOSTO DE 1932.
+
+> <small>N. DE E. COMO CONSECUENCIA DEL ESTUDIO DEL PROCESO LEGISLATIVO DEL DECRETO QUE MODIFICA EL PRESENTE CODIGO, SE DESPRENDE LA DEROGACION DE LOS TITULOS Y CAPITULOS COMPRENDIDOS DENTRO DEL ARTICULADO DEROGADO POR EL LEGISLADOR, YA QUE EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO FUE OMISO AL NO INDICAR ESTOS.</small>
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -38,7 +40,7 @@ CODIGO DE COMERCIO.
 
 ## TITULO PRELIMINAR.
 
-## TÍTULO PRIMERO.
+## TITULO PRIMERO.
 
 DE LOS COMERCIANTES.
 
@@ -1516,7 +1518,7 @@ Las acciones de los socios comanditados jamás podrán ser al portador.
 
 ###### Art. 236.
 
-Salva (sic) disposición contraria de los Estatutos, la sociedad se disuelve por la muerte, incapacidad ó impedimento del socio ó socios administradores comanditados que prive á la sociedad de sus servicios. El consejo de vigilancia, salvo pacto en contrario, puede designar en estos casos un administrador que desempeñe los actos urgentes o de mera administración hasta la reunión de la Asamblea, la cual será convocada á lo sumo al mes de nombramiento de administrador.
+Salva disposición contraria de los Estatutos, la sociedad se disuelve por la muerte, incapacidad ó impedimento del socio ó socios administradores comanditados que prive á la sociedad de sus servicios. El consejo de vigilancia, salvo pacto en contrario, puede designar en estos casos un administrador que desempeñe los actos urgentes o de mera administración hasta la reunión de la Asamblea, la cual será convocada á lo sumo al mes de nombramiento de administrador.
 
 ###### Art. 237.
 
@@ -1560,7 +1562,7 @@ III. Los derechos atribuídos á los socios, la manera de convocar las asambleas
 
 A falta de disposición sobre los puntos que indica el artículo anterior, se observarán las reglas siguientes:
 
-I. Los socios pueden retirarse de la sociedad, pueden ser excluidos de ella por falta de cumplimiento del contrato, pero la Asamblea será quien decrete la admisión ó exclusión y quien autorice la separación;
+I. Los socios pueden retirarse de la sociedad, pueden ser excluídos de ella por falta de cumplimiento del contrato, pero la Asamblea será quien decrete la admisión ó exclusión y quien autorice la separación;
 
 II. El importe de la acción ó acciones de los socios podrá ser entregado por abonos semanarios, y el socio que se separe ó fuere excluido, recibirá su parte tal como resulte del balance anterior á su separación o exclusión y en la misma forma en que fue entregada;
 
@@ -2028,7 +2030,7 @@ Cuando los depósitos de numerario se constituyan sin especificación de moneda,
 
 ###### Art. 337.
 
-Los depositarios de títulos, valores, efectos ó documentos que devenguen intereses, quedan obligados á realizar el cobro de estos en las épocas de sus vencimientos, así como también á practicar cuanto actos sean necesarios para que los efectos depositados conserven el valor y los derechos que les correspondan con arreglo á disposiciones legales.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 338.
 
@@ -2036,7 +2038,9 @@ Siempre que con asentimiento del depositante dispusiese el depositario de las co
 
 ###### Art. 339.
 
-No obstante lo dispuesto en los artículo anteriores, los depósitos verificados en los Bancos, en los Almacenes generales, en las instituciones de crédito ó en otras cualesquiera compañías, se regirán, en primer lugar por los Estatutos de las mismas; en segundo, por las prescripciones de este Código, y últimamente, por las reglas de derecho común que son aplicables á todos los depósitos.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO I.
 
@@ -2044,83 +2048,75 @@ Del préstamo mercantil en general.
 
 ###### Art. 340.
 
-Se da el nombre de "Almacenes generales de depósito" á los establecimientos cuya índole sea el depósito conservación, custodia, y en su caso venta de las mercaderías que se les encomienden y la expedición de los documentos llamados "Certificado de depósito" y "Bono de prenda."
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 341.
 
-El "Certificado de depósito" que representa á la mercancía, esta destinado á servir como instrumento de enajenación transfiriendo en favor de su adquirente la propiedad de la mercancía.
-
-El "Bono de prenda" representa el contrato de préstamo con la consiguiente garantía de las mercancías depositadas, y confiere por sí mismo los derechos y preeminencias de un crédito prendario.
-
-Es condición precisa para la legalidad y eficacia, tanto del Bono cuanto del Certificado, que contengan las indicaciones necesarias para conocer el nombre, profesión y domicilio del depositante, y la naturaleza, cantidad, calidad, estado y valor de la mercancía.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 342.
 
-El Certificado y el Bono se extenderá en libros talonarios, y se expedirán formando un solo cuerpo ambos títulos.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 343.
 
-Los bonos y certificados expresarán si la mercancía está asegurada y cuánto adeuda por derechos ó impuestos.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 344.
 
-Los certificados de depósito y los Bonos de prenda pueden ser cedidos por endoso, juntos ó separadamente. El endoso del Bono solo, equivale para el cesionario á la prenda de la mercancía. El endoso de sólo el Certificado concede el derecho de disponer de la mercancía con la condición de pagar el crédito que el Bono garantiza.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 345.
 
-Cuando el endoso de ambos títulos tenga lugar separadamente se hará constar la fecha en que se efectúa y el nombre, profesión y domicilio del endosatario. Al endosar el Bono de prenda se hará constar en el cuerpo de éste el monto íntegro de la deuda que garantiza, el interés pactado y la fecha de vencimiento. No surtirá efecto alguno la operación practicada, si el endosatario no cuida de que tanto en el talón que obra en poder del almacén general, como en el Certificado recibido por el deponente, se tome nota de este primer endoso.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 346.
 
-El Certificado de depósito y el Bono de prenda pueden ser endosados en blanco. El endoso en blanco confiere al portador los derechos de endosatario.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 347.
 
-El que sólo sea portador del Certificado de depósito puede pagar la deuda garantizada con el Bono de prenda, aun antes del vencimiento de la misma deuda, á cuyo efecto, sino se aviene con el portador de ese Bono, depositará el capital y los intereses garantizados por éste hasta el día de vencimiento en el almacén general. Ese depósito obliga al almacén y libra á la mercancía.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 348.
 
-El que sea portador de sólo el Bono de prenda, si el importe de éste no fuere pagado á su vencimiento, procederá á protestar el título en el almacén en los mismos términos que si fuera letra de cambio, solicitando del mismo almacén por escrito y dentro de los ocho días siguientes al expresado vencimiento, la venta de las mercancías.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 349.
 
-Esa venta, salvo pacto en contrario y por escrito, que ajusten el portador del Bono de prenda y el del Certificado de depósito, tendrá lugar en el almacén general y en remate público que se anunciará con quince días de anticipación, y se efectuará en el día que con sujeción á los Estatutos del almacén general designe el portador del Bono.
-
-Del producto de la venta, después de cubiertos los adeudos por derechos é impuestos, y los gastos de almacenaje, venta y conservación se pagará con absoluta preferencia el importe del crédito que garantiza el Bono, y se consignará en el almacén general á disposición del portador del Certificado de depósito, la diferencia si la hubiere entre el precio de venta y el importe del crédito de que acaba de hablarse.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 350.
 
-Sólo en el caso de insuficiencia de la mercancía cuya venta se haya solicitado en el plazo fijado por el art. 348, tendrá el portador del Bono acción personal contra los anteriores endosantes, que se tendrán como deudores mancomunados por la parte insoluta del crédito.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 351.
 
-Si las mercancías depositadas estuvieren aseguradas contra incendio, los portadores del Certificado y del Bono tendrán, en caso de siniestro, los mismos derechos sobre el monto del seguro que los que tendrían sobre la mercancía asegurada.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 352.
 
-En caso de pérdida del Certificado de depósito ó del Bono de prenda, la autoridad judicial, cerciorándose mediante información sumaria de que la pérdida es cierta y el promovente propietario del título, exigirá una fianza competente y ordenará la expedición de un duplicado por parte del almacén general.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 353.
 
-Los almacenes generales podrán, conforme á sus Estatutos, adquirir los bonos de prenda y ejercitar con ellos los derechos propios de esa clase de títulos.
-
-En este caso no habrá necesidad ni del protesto ni de la solicitud á que se refiere el art. 348, pero sí correrá para el almacén el término de ocho días fijado en él para la venta.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 354.
 
-Es facultativo para el portador de bonos de prenda recibir por cuenta del crédito cantidades parciales bien imputables sólo al capital, ó á éste y á los intereses.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 355.
 
-En el título que trata de las instituciones de crédito se determinarán las condiciones y requisitos que hay que llenar para abrir y explotar un almacén general de depósito.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 356.
 
-El portador del Certificado de depósito unido al Bono de prenda tiene derecho de pedir que la cosa depositada se divida á su costa en varias partes ó lotes, y que por cada una le sea entregado un certificado distinto con el Bono de prenda relativo, en cambio del certificado total y único que devolverá al almacén.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 357.
 
-Son aplicables al presente capítulo las disposiciones del capítulo I del presente título.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ## TITULO QUINTO.
 
@@ -2168,35 +2164,35 @@ El recibo del capital por el acreedor, sin reservarse expresamente el derecho á
 
 Las entregas á cuenta, cuando no resulte expresa su aplicación, se imputarán en primer término al pago de intereses por orden de vencimientos, y después al del capital.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
+
 ### CAPÍTULO I.
 
 De la compraventa.
 
 ###### Art. 365.
 
-El préstamo con garantía de títulos ó valores cotizables hecho en póliza con intervención de corredor, se reputará siempre mercantil.
-
-El prestador tendrá sobre los títulos ó valores públicos pignorados conforme á las disposiciones de este capítulo, derecho á cobrar su crédito con preferencia á los demás acreedores, quienes no podrán retirar de su poder dichos títulos ó valores, á no ser satisfaciendo el crédito constituído sobre ellos.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 366.
 
-Los derechos de preferencia de que se trata en el artículo anterior, sólo se tendrán sobre los mismos títulos en que se constituyó la garantía, para lo cual si ésta consistiere en títulos al portador, se expresará su numeración, serie y valor en la póliza del contrato; y si en inscripción ó títulos transferibles, se hará la transferencia á favor del portador, expresando en la póliza, además de las circunstancias necesarias para justificar la identidad de la garantía, que la transferencia no lleva consigo la trasmisión de la propiedad.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 367.
 
-A voluntad de los interesados, podrá suplirse la entrega de los títulos al acreedor con el depósito de éstos en una institución de crédito.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 368.
 
-El acreedor, salvo pacto en contrario y sin necesidad de requerir al deudor, podrá proceder á la venta de las garantías por medio de dos corredores, quienes previamente certificarán el vencimiento, y en su defecto de dos comerciantes de la plaza.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 369.
 
-Los efectos cotizables y al portador, pignorados en la forma que determinan los artículos anteriores, no estarán sujetos á reivindicación mientras no sea reembolsado el prestador, sin perjuicio de los derechos y acciones del propietario desposeído contra las personas responsables, según las leyes, por los actos en virtud de los cuales haya sido privado de la posesión y dominio de los efectos dados en garantía.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 370.
 
-Si los títulos dados en prenda, independientemente del contrato prendario, llegare el caso de que sean amortizados por quien los haya emitido, podrá el deudor, salvo pacto en contrario, sustituirlos con otros títulos iguales.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ## TITULO SEXTO.
 
@@ -2584,7 +2580,7 @@ El asegurado que demore la entrega del capital ó de la cuota convenida no tendr
 
 ###### Art. 436.
 
-Si el asegurado hubiere satisfecho varias cuotas parciales y no pudiere continuar el contrato, lo avisará al asegurador rebajándose el capital asegurado hasta la cantidad que esté en justa proporción con las cuotas pagadas, con arreglo á los cálculos que aparccieren (sic) en las tarifas de la Compañía aseguradora, y habida cuenta de los riesgos corridos por ésta, salvo pacto en contrario.
+Si el asegurado hubiere satisfecho varias cuotas parciales y no pudiere continuar el contrato, lo avisará al asegurador rebajándose el capital asegurado hasta la cantidad que esté en justa proporción con las cuotas pagadas, con arreglo á los cálculos que aperccieren (sic) en las tarifas de la Compañía aseguradora, y habida cuenta de los riesgos corridos por ésta, salvo pacto en contrario.
 
 ###### Art. 437.
 
@@ -2652,9 +2648,13 @@ De la provisión.
 
 Podrá asimismo ser objeto del contrato de seguro mercantil cualquiera otra clase de riesgos que provengan de casos fortuitos ó accidentes naturales, y los pactos que se consignen deberán cumplirse, siempre que sean lícitos y estén conformes con las prescripciones del capítulo primero de este título.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
+
 ## TITULO OCTAVO.
 
 DEL CONTRATO Y LETRAS DE CAMBIO.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO III.
 
@@ -2662,111 +2662,85 @@ Del endoso en las letras de cambio.
 
 ###### Art. 449.
 
-La letra de cambio deberá ser girada de un lugar á otro, y supone la preexistencia del contrato de cambio.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 450.
 
-La letra de cambio, así como todos los derechos, obligaciones y actos derivados de la misma se reputarán mercantiles.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 451.
 
-Serán requisitos obligatorios en las letras de cambio:
-
-I. La fecha;
-
-II. La cantidad que ha de pagarse;
-
-III. El nombre o razón social del que debe pagar;
-
-IV. La época del pago;
-
-V. El lugar en que ha de hacerse;
-
-VI. A la orden de quien ha de pagar la letra, expresando su nombre ó razón social;
-
-VII. El concepto y forma en que ha recibido el girador el valor de ella, y
-
-VIII. La firma del girador.
-
-Las demás indicaciones que contenga la letra de cambio se reputarán potestativas.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 452.
 
-El requisito de la fecha consiste en la expresión del lugar, día, mes y año en que se suscribe la letra.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 453.
 
-Solamente la moneda puede ser materia de letra de cambio, debiendo expresar ésta la cantidad que haya de pagarse, por palabras y no sólo por cifras.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 454.
 
-El girador puede girar contra su comisionista ó su dependiente; y si es dueño ó tiene interés en casa de comercio situada en lugar distinto del de su domicilio, podrá girar sobre ella.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 455.
 
-La letra de cambio podrá girarse á la vista, á día determinado ó á plazo.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 456.
 
-La letra de cambio girada á plazo expresará si éste ha de contarse desde la fecha de su giro ó de la de su presentación.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 457.
 
-Toda letra de cambio deberá satisfacerse el día de su vencimiento, antes de la puesta del sol.
-
-Si fuere festivo el del vencimiento, se pagará el día anterior.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 458.
 
-Los términos en las letras de cambio se computarán de fecha á fecha.
-
-Si en el mes del vencimiento no hubiere fecha equivalente á la del día en que se giró, se vencerá la letra el día último del mes.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 459.
 
-La letra puede ser pagada en lugar distinto del domicilio del girado.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 460.
 
-En toda letra de cambio se subentiende, aunque no lo exprese, la cláusula "á la orden."
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 461.
 
-La letra de cambio no podrá ser girada á favor del portador ni del girado.
-
-Cuando la letra sea girada á favor del mismo girador, no se tendrá por perfeccionada sino hasta que sea endosada en lugar distinto de aquel en que haya de pagarse.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 462.
 
-Si la letra de cambio no expresa que el valor lo haya recibido el girador en efectivo, quedará el tomador responsable del importe de la letra en favor del girador, para exigirlo ó comprobarlo, en los términos convenidos en el contrato de cambio. Cuando no se determine en qué concepto, se dará por recibido en efectivo el valor de la letra.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 463.
 
-Cuando el girador no sepa escribir, la letra se extenderá por medio de instrumento público.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 464.
 
-Pueden girarse letras por cuenta de otro, pero bajo la responsabilidad del que las suscribe.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 465.
 
-Menos los administradores de compañías, que se entenderán autorizados por el solo hecho de su nombramiento, todos los que pusieren firmas á nombre de otros en letras de cambio, deberán estar autorizados para ello con poder de las personas en cuyo nombre obraren expresándolo así en la ante firma.
-
-Los tomadores y tenedores de letras tendrán derecho á exigir á los firmantes la exhibición del poder.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 466.
 
-Ninguna letra de cambio podrá ser condicional ni estar subordinada para su pago á la muerte de una persona.
-
-No se reputarán condiciones, y podrán por tanto expresarse en las letras de cambio las indicaciones "sin aviso ó con previo aviso."
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 467.
 
-Los giradores no podrán negar á los tomadores de la letra, la expedición de los ejemplares de la misma que les pidan antes de su vencimiento; pero expresando en ellos su calidad de tales y su lugar ordinal, y que no se reputarán válidos sino en el caso de no haberse hecho el pago en virtud de la letra ó de lo ejemplares anteriormente expedidos.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 468.
 
-Si por defecto ó suposición careciere la letra de cambio de alguno de los requisitos esenciales para la existencia del convenio, el acto será nulo; y sino fuere de los esenciales será nula la letra de cambio, pero subsistirán los derechos y obligaciones derivados del contrato que hubiere intervenido.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO IV.
 
@@ -2774,37 +2748,37 @@ De la presentación de las letras de cambio y su aceptación.
 
 ###### Art. 469.
 
-Es obligación del girador de una letra de cambio proveer oportunamente al girado de los fondos suficientes para pagarla.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 470.
 
-La provisión podrá hacerse por remisión de fondos, por crédito que el girado le haya abierto al girador, ó por deuda del girado en favor del girador, salvo pacto en contrario, por lo que á este último caso se refiere.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 471.
 
-Para que haya provisión oportuna, se requiere que esté hecha ó que sea exigible, y que esté disponible para el día del vencimiento y en lugar en que deba ser pagada la letra.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 472.
 
-Si la letra hubiere sido girada por cuenta ajena, deberá hacer la provisión de fondos aquel por cuya cuenta se giró, sin que por esto cese la responsabilidad del girador para con el tomador y demás adquirentes de la letra, ni se alteren los derechos y obligaciones entre el girador y aquel por cuya cuenta hizo el giro.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 473.
 
-Si no hubiere sido aceptada ó hubiere sido pagada la letra, el girador será civilmente responsable de las resueltas para con los adquirentes de ella.
-
-En caso de que la hubiese girado por cuenta de otro, le quedarán al girador sus derechos á salvo contra aquel por cuya cuenta hizo el giro.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 474.
 
-Si el tenedor de la letra no la hubiese presentado, ó hubiere omitido protestarla en tiempo y forma, cesará la responsabilidad del girador siempre que pruebe que al vencimiento de ella tenía hecha provisión de fondos para su pago, pasando en este caso la responsabilidad del reembolso á aquel que apareciere en descubierto.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 475.
 
-La propiedad de la provisión corresponderá al tenedor de la letra desde el momento en que ésta quedare aceptada, salvo lo dispuesto por este Código para los casos de quiebra ó en los que hubiese intervenido dolo.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 476.
 
-Si la letra girada por cuenta de otro, fuese pagada por el girado á pesar de no haberse hecho la provisión, tendrá éste acción para ser reembolsado contra aquel por quien hubiese hecho el pago de la letra.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO V.
 
@@ -2812,35 +2786,33 @@ Del aval.
 
 ###### Art. 477.
 
-La propiedad de las letras de cambio se transfiere por el endoso.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 478.
 
-El endoso, para ser regular, debe fecharse, expresar el concepto en que se recibe el valor suministrado, indicar el nombre de aquel á cuya orden se otorga, y escribirse sobre la letra, su copia, ó sobre la hoja adherida á la una ó á la otra.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 479.
 
-El endoso puede hacerse en blanco, con solo la firma del endosante, sin ninguna otra indicación; pero no podrán ejercitarse los derechos derivados del mismo sin llenarlo con todos los requisitos del endoso regular.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 480.
 
-Las letras pueden endosarse antes y después de su presentación, y antes y después de su vencimiento.
-
-Las letras perjudicadas no son endosables.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 481.
 
-En ningún caso puede ser alterada la verdad de las fechas. Los autores de la alteración serán civilmente responsables de los daños y perjuicios causados por la misma.
-
-La prueba de la alteración de las fechas corresponderá á quien la objete.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 482.
 
-Todos los que endosen una letra de cambio, así como los que la hayan firmado ó aceptado, quedarán obligados solidariamente para con el portador en garantía de la misma.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 483.
 
-El defecto ó suposición de cualquiera de los requisitos exigidos para el endoso regular, harán que el endoso produzca sólo los derechos y obligaciones que se deriven del contrato que se hubiere celebrado.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO VI.
 
@@ -2848,65 +2820,53 @@ Del pago.
 
 ###### Art. 484.
 
-En las letras de cambio pagaderas dentro del territorio mexicano y giradas á la vista, ó á plazo que deba contarse desde ésta, la previa presentación de las mismas será forzosa.
-
-En las giradas a día determinado, ó á plazo que deba contarse desde su fecha, la previa presentación de la letra será potestativa.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 485.
 
-En las letras pagaderas dentro del territorio mexicano y cuya previa presentación sea forzosa, ésta deberá verificarse dentro de los siguientes plazos, contados todos desde la fecha de la misma letra:
-
-I. Dentro de dos meses la de las giradas desde el lugar situado en la República Mexicana;
-
-II. Dentro de tres meses la de las giradas desde cualquier lugar de los Estados Unidos de América ó de Europa;
-
-III. Dentro de cuatro meses la de las giradas desde cualquier otro lugar.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 486.
 
-Presentada una letra para su aceptación, el girado deberá aceptarla ó denegar manifiestamente su aceptación en el mismo día en que el portador se la presente con tal objeto, pudiendo manifestar el girado en caso de que no la acepte, los motivos que tuviere para rehusar la aceptación.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 487.
 
-Serán requisitos de la aceptación en las letras de cambio:
-
-I. Las palabras "Acepto," "Aceptamos", ú otras equivalentes que demuestren claramente la aceptación;
-
-II. El lugar y la fecha de la aceptación, y
-
-III. La firma del aceptante, ó de quien con poder suficiente lo representaré.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 488.
 
-Si la letra presentada á la aceptación hubiere de ser pagada en distinto lugar de la residencia del aceptante, deberá expresarse en la aceptación el domicilio en que hubiere de efectuarse el pago.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 489.
 
-Si las letras contuvieren indicaciones de otras personas de quienes deba exigirse la aceptación en defecto del girado, deberá el portador, previos protestos con respecto á los que se negaren, reclamar la aceptación de las demás personas indicadas en ella.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 490.
 
-No podrán aceptarse las letras condicionalmente, pero si limitarse la aceptación á menor cantidad de la que expresen, siendo en tal caso protestables por el resto de su importe.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 491.
 
-La aceptación de la letra constituye al aceptante en obligación de pagarla, sin que pueda relevarle del pago otra excepción que la de falsedad de la aceptación misma ó de la letra.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 492.
 
-Si el tenedor de la letra no la presentaré para su aceptación en los casos en que dicha presentación fuere forzosa, la dejare de cobrar el día de su vencimiento, ó en defecto de aceptación ó pago no la hiciere protestar en el día útil siguiente, perderá sus derechos con respecto á los endosantes, y los perderá también en cuanto al girador, siempre que éste probare haber tenido hecha la oportuna y suficiente provisión de fondos para su pago.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 493.
 
-Las letras que no fueren presentadas dentro de los términos legales á la aceptación ó al pago, ó dejaren de ser oportunamente protestadas, quedarán perjudicadas.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 494.
 
-Los términos señalados para la presentación, aceptación, pago ó protesto de las letras, no correrán para el legítimamente impedido, incumbiéndole la prueba al que alegue el impedimento.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 495.
 
-Los que por su culpa ó negligencia dejasen perjudicar en alguna manera las letras de cambio, serán responsables de las consecuencias que se originan.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO VII.
 
@@ -2914,15 +2874,17 @@ De los protestos.
 
 ###### Art. 496.
 
-Por aval se entiende la fianza mercantil con que garantiza el pago de una letra de cambio, alguno que no ha intervenido en ella.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 497.
 
-Puede hacerse constar el aval en la letra ó en documento separado.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 498.
 
-Por el aval quedará obligado el que lo presta, con las limitaciones que en el mismo exprese, contrayendo, si no las expresare, todas las obligaciones de un endosante.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
 ### CAPÍTULO VIII.
 
@@ -2930,57 +2892,47 @@ De la intervención en la aceptación y pago.
 
 ###### Art. 499.
 
-Las letras de cambio deberán ser cobradas y pagadas el día de su vencimiento.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 500.
 
-De común acuerdo puede pagarse y recibirse el importe de una letra de cambio antes de su vencimiento.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 501.
 
-El que pague una letra antes de su vencimiento, quedará responsable de la validez del pago.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 502.
 
-El que paga un letra de cambio á su vencimiento y sin oposición de tercero, fundada en auto judicial, se presume válidamente liberado de su obligación.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 503.
 
-El portador de una letra de cambio no puede rechazar un pago parcial, aunque aquélla haya sido aceptada por todo su valor, debiendo en tal caso protestarla por la suma no pagada. Cuando no sea totalmente pagada la letra de cambio, anotando en ella la cantidad cobrada y dando recibo por separado, el tenedor la retendrá en su poder mientras no sea íntegramente satisfecha.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 504.
 
-Las letras de cambio aceptadas se pagarán precisamente sobre el ejemplar que contenga la aceptación.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 505.
 
-Las letras no aceptadas podrán pagarse después de su vencimiento, sobre segundos ó posteriores ejemplares, siempre que en éstos se consigne que el pago sobre uno de ellos anula el efecto del original y de los demás ejemplares.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 506.
 
-Para sustituir una letra de cambio perdida, no podrá rehusar, ninguno de los que hayan intervenido en ella, la prestación de su nombre y la interposición de sus oficios para que sea expedido un nuevo ejemplar, satisfaciendo el dueño de la letra los gastos que se causen hasta obtenerlo.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 507.
 
-Cuando se perdiere una letra de cambio aceptado, ó no aceptada, y de la cual no hubiere segundo ni posteriores ejemplares, independientemente del derecho que tiene á que sea respuesta por quienes corresponda, el último tenedor de ella podrá:
-
-I. Bajo su responsabilidad solicitar del pagador de la letra que deposite el importe de ella el día de su vencimiento en un establecimiento público de crédito, ó en casa de comercio de mutua confianza, ó en la designada por el juez en caso de discordia;
-
-II. Hacer, si el pagador rehusaré depositar su importe, la protestación de la letra, bajo las reglas mismas que el protesto por falta de pago;
-
-III. Pedir el pago con el mandamiento de la autoridad judicial ante quien hubiere comprobado la propiedad de la letra.
+(DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 508.
 
-El pagador de una letra de cambio podrá exigir al portador de ella que le acredite, por medio de un vecino del lugar, la identidad de su persona.
-
-Si el portador de una letra rehusare ó no pudiere acreditar la identidad de su persona, podrá el pagador de ella depositar el importe de la misma, el día del vencimiento, en una casa de comercio de su confianza, sino hubiere en el lugar un establecimiento público de crédito.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 509.
 
-Las letras de cambio deberán pagarse en el lugar y en la moneda de curso legal que en las mismas se designen.
-
-Si la moneda designada en la letra no tuviere curso legal en la República, se pagará en moneda nacional equivalente, con arreglo á la cotización que rija en el día del vencimiento.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ### CAPÍTULO IX.
 
@@ -2988,71 +2940,43 @@ De las acciones que competen al portador de una letra de cambio.
 
 ###### Art. 510.
 
-Las letras de cambio deben ser protestadas por falta de aceptación y por falta de pago.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 511.
 
-El protesto deberá verificarse sucesivamente:
-
-I. En el lugar designado en la letra para su aceptación ó pago;
-
-II. En el domicilio de aquel que debía aceptarla ó pagarla;
-
-III. En el domicilio de las personas indicadas en la letra para aceptar ó pagar en caso necesario;
-
-IV. En el domicilio del aceptante por intervención.
-
-En defecto respectivamente del girado, de los recomendatarios ó del aceptante por intervención, las diligencias del protesto se entenderán con sus dependientes, familiares, criados ó algún vecino con casa abierta en el lugar en donde deban verificarse dichas diligencias.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 512.
 
-Las letras de cambio se protestarán ante notario público, y no habiéndolo en el lugar, ante la primera autoridad política del mismo, asistida de dos testigos.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 513.
 
-La acta del protesto deberá contener los siguientes requisitos:
-
-I. La reproducción literal de la letra de cambio, su aceptación, endosos recomendaciones y todo lo demás que en ella conste;
-
-II. El apercibimiento para aceptar ó pagar la letra de cambio, haciendo constar si estuvo ó no presente el que debía aceptarla ó pagarla;
-
-III. Los motivos de la negativa para aceptarla ó pagarla, si se expresaren;
-
-IV. La firma de la persona con quien se entiende la diligencia, y la constancia de su imposibilidad ó resistencia á firmar, si las hubiere;
-
-V. La expresión del lugar, fecha y hora en que se ha verificado el protesto, y
-
-VI. La firma del que autorice la diligencia.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 514.
 
-Los protestos por falta de aceptación se harán al día siguiente de presentada la letra, y los protestos por falta de pago, al día siguiente de su vencimiento.
-
-Los días siguientes al de la presentación ó vencimiento no fueren útiles, el protesto se hará en el más inmediato que lo sea.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 515.
 
-Si la persona á cuyo cargo se gira la letra se constituye en quiebra, podrá protestarse por falta de pago aun antes del vencimiento, luego que aquella se declare.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 516.
 
-Se dará la portador de la letra testimonio del protesto, silo hubiere autorizado un notario; el protesto original, si lo hubiere autorizado la primera autoridad política; y en uno y otro caso se le devolverá la letra misma con la anotación de protestada por falta de aceptación ó de pago, fechada y suscrita esta anotación por el que hubiese autorizado el protesto.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 517.
 
-El notario ó la autoridad política que en su defecto haya hecho el protesto, retendrá en su poder la letra, sin entregar esta ni el protesto al portador, hasta la puesta del sol del día en que se hubiese hecho, teniendo el pagador derecho de presentarse, entretanto, á satisfacer el importe de la letra y los gastos del protesto.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 518.
 
-Los efectos legales del protesto serán:
-
-I. Imponer á la persona que hubiere dado lugar á él, la responsabilidad de gastos, daños y perjuicios;
-
-II. Conservar las acciones que competan al portador contra las personas responsables á las resultas de la letra.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 519.
 
-La enunciación ú otra cualquiera cláusula que dispense de la obligación de protestar la letra, se tendrá por no puesta.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ### CAPÍTULO X.
 
@@ -3060,41 +2984,31 @@ Del recambio y resaca.
 
 ###### Art. 520.
 
-Después de protestada por falta de aceptación ó de pago, se admitirá en toda letra de cambio la intervención de un tercero para aceptarla ó pagarla.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 521.
 
-La intervención se hará constar á continuación del protesto, expresándose la persona por quien tiene lugar la intervención, y suscribiéndola el que interviene en unión del notario ó primera autoridad política y dos testigos que autoricen la diligencia.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 522.
 
-Si se presentaren varias personas á prestar su intervención, será preferido el que con la suya libere á mayor número de las obligadas en la letra.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 523.
 
-Si el que habiendo dado lugar al protesto de una letra por falta de aceptación, se presentase á pagarla á su vencimiento, le será admitido el pago con preferencia al que por intervención quisiere hacerlo.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 524.
 
-El que por intervención aceptare una letra de cambio quedará obligado:
-
-I. Al pago de la letra lo mismo que si hubiere sido girada á su cargo;
-
-II. A dar aviso de su aceptación, por el correo más próximo, á la persona por quien haya intervenido.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 525.
 
-La aceptación por intervención, mientras no sea pagada la letra, no privará al portador de ella de los derechos que le competan contra los demás obligados á las resultas de la misma.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 526.
 
-El que por intervención pagare una letra de cambio, se subrogará en los derechos del portador, con las limitaciones siguientes:
-
-I. Si la pagare por cuenta del girador, sólo éste le responderá de las cantidades desembolsadas;
-
-II. Si la pagare por cuenta del tomador ó alguno de los endosantes, tendrá derecho de repetir contra aquel por quien intervino, y todos los demás obligados en la letra con anterioridad á ese;
-
-III. El que por intervención pagare letras perjudicadas, no podrá subrogarse en más derechos que los que puedan derivarse de ellas en calidad de perjudicadas.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ### CAPÍTULO I.
 
@@ -3102,63 +3016,43 @@ De las libranzas, vales y pagarés.
 
 ###### Art. 527.
 
-Todos los signatarios de una letra de cambio son solidariamente responsables al portador de ella, por el importe de la letra, sus intereses, los costos del protesto y todos los demás gastos legítimos.
-
-Los intereses deberán computarse desde el primer día útil para el protesto por falta de pago.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 528.
 
-El portador de una letra de cambio protestada en tiempo y forma, puede ejercitar su acción contra todos los signatarios de la letra ó contra cada uno de ellos.
-
-El mismo derecho tendrá el endosante que la pague contra los otros endosantes anteriores, y contra el girador de la letra.
-
-Intentada la acción que nace de la letra contra alguno de los obligados en ella, no podrá dirigirse contra los demás, sino en el caso de insolvencia parcial ó total del demandado, y hasta conseguir el completo reembolso de la misma.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 529.
 
-Cuando la letra de cambio haya sido protestada por falta de aceptación, podrán ejercitarse las acciones derivadas de la misma, con el objeto de que mientras se vence la letra sea afianzado ó depositado su valor.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 530.
 
-Exceptuados aquellos con quienes se hubieren practicado, los protestos de letras, tanto por falta de aceptación como de pago, serán notificados á todos los demás que hayan intervenido en la letra por medio de instructivos que les serán remitidos por los mismos notarios ó primera autoridad política que autoricen los protestos.
-
-A los interesados en las letras, que residieren en el mismo lugar donde se verificaré el protesto, le será éste notificado en la forma expresada y al día siguiente de haberse practicado. A los que residieren fuera del lugar, les será remitido el instructivo por el más próximo correo, bajo certificado y con las direcciones indicadas por el mismo portador de la letra.
-
-A continuación del acta de protesto, el que lo haya autorizado hará constar que ha sido notificado en la forma y términos previstos por este artículo.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 531.
 
-Tanto el girador como cualquiera de los endosantes de una letra protestada, podrán exigir, luego que llegue á su noticia el protesto, que el portador reciba el importe con los gastos legítimos, y les entregue la letra y la cuenta de gastos.
-
-Si para hacer el reembolso concurrieren el girador y endosantes, será preferido el girador; y concurriendo sólo endosantes, el de fecha anterior.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 532.
 
-Por falta de presentación de la letra, de protesto, ó de la notificación de éste en la forma y términos respectivamente prevenidos por este Código, salvo el caso de fuerza mayor, perderán:
-
-I. El portador de la letra sus derechos contra endosantes de la misma;
-
-II. Los endosantes, cada uno en lo que le concierne, su acción contra su respectivo cedente;
-
-III. El portador y los endosantes perderán sus derechos contra el girador, siempre que éste probare haber tenido hecha, al vencimiento de la letra, la provisión de los fondos para su pago. En este caso el portador sólo tendrá acción contra el girado.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 533.
 
-Aun cuando la letra de cambio esté perjudicada, el tenedor de ella tendrá acción contra cualquiera de los obligados en la misma, que indebidamente retenga en su poder los fondos destinados á su pago.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 534.
 
-Las acciones que nacen de las letras de cambio para exigir en sus respectivos casos el pago ó afianzamiento de su valor, serán ejecutivas, previo el reconocimiento judicial de su firma por el demandado.
-
-El reconocimiento de la firma no será necesario para despachar ejecución contra el aceptante.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 535.
 
-Contra la ejecución de la letras de cambio no se admitirán más excepciones que las de falsedad, nulidad, pago, compensación de crédito líquido y ejecutivo, prescripción ó caducidad de la letra, espera ó quita concebida por el demandante, que se pruebe por escritura pública ó documento privado reconocido judicialmente. Cualquiera otra excepción se reservará para el juicio ordinario, el cual procederá cuando se haya declarado sin lugar en la sentencia el juicio ejecutivo.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 536.
 
-La cantidad de que un acreedor haga remisión ó quita al deudor de una letra de cambio, se entenderá remitida también á todos los demás responsables en la letra.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ### CAPÍTULO II.
 
@@ -3166,45 +3060,35 @@ De los cheques.
 
 ###### Art. 537.
 
-El portador de una letra de cambio no pagada á su vencimiento y debidamente protestada, puede reembolsarse de la suma que se le adeude por medio de una letra á la vista, contra el girador, ó contra cualquiera otro de los endosantes. Esta operación se denomina "recambio" y la nueva letra "resaca."
-
-El que haya pagado la resaca puede reembolsarse de la misma manera de los demás obligados anteriores.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 538.
 
-La resaca debe ir acompañada de la letra original de cambio, del testimonio de su protesto y de la cuenta de resaca.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 539.
 
-La cuenta de resaca debe indicar:
-
-I. La suma total de la letra original de cambio con los intereses desde el día del vencimiento;
-
-II. Los gastos de protesto, comisión, corretaje, timbre y franqueo de cartas;
-
-III. La persona contra la cual se gira la resaca; y
-
-IV. El precio del recambio.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 540.
 
-El precio del recambio se fija con respecto al girador por el curso del cambio corriente entre el lugar donde era pagadera la letra y aquel sobre el cual se gira: y respecto á los endosantes, por el curso del cambio corriente entre el lugar donde fue entregada o negociada la letra por los endosantes, y aquel sobre el cual se gira la resaca.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 541.
 
-El precio del recambio será certificado por un corredor, y en los lugares en donde no lo hubiere, por los comerciantes.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 542.
 
-No se pueden formar varias cuentas de resaca por una misma letra. Dicha cuenta de resaca irá siendo pagada por cada uno de los endosantes, y al fin por el girador.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 543.
 
-Por una misma letra no pueden ser acumulados los recambios. Cada uno de los endosantes reportará el que le corresponda, y así sucesivamente hasta el girador.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 544.
 
-Los intereses de los gastos de protesto y demás legítimos comprendidos en la cuenta de resaca, no se deben sino á contar desde el día de la demanda judicial.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ## TITULO NOVENO.
 
@@ -3216,49 +3100,31 @@ De las cartas de crédito.
 
 ###### Art. 545.
 
-La libranza contiene un contrato, que no es el de cambio, por el cual se manda á alguno que pague ó entregue á la orden de otro, cierta cantidad.
-
-El vale contiene la obligación de un comerciante de entregar á lo orden de otro comerciante cierta cantidad de dinero ó efectos.
-
-El pagaré contiene la obligación, procedente de un contrato mercantil, de pagar á una persona á la orden de otra, cierta cantidad.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 546.
 
-Las libranzas, vales y pagarés á la orden, deben contener:
-
-I. La fecha y lugar de su expedición;
-
-II. El nombre y firma del responsable;
-
-III. La cantidad de dinero ó efectos que deba entregarse;
-
-IV. La fecha y lugar en que deba hacerse la entrega;
-
-V. La persona á cuya orden se extiende el documento;
-
-VI. La operación mercantil de que se deriven, sino fueren otorgados por un comerciante á favor de otro;
-
-VII. Si su valor es recibido, entendido, en cuenta, ó procede de otra operación.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 547.
 
-Los pagarés que no estén extendidos á la orden, no son documentos mercantiles; y por lo tanto, no producen ninguna acción, sino las comunes que pueda tener el poseedor de él contra el que lo otorgó porque éste le deba alguna cantidad en dinero ó efectos, independientemente de la acción que habría producido el pagaré si hubiese estado extendido á la orden.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 548.
 
-Los pagarés que no estén extendidos á la orden no pueden endosarse, y cualquier endoso que de ellos se haga, es nulo y no produce ninguna acción.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 549.
 
-Todas las disposiciones relativas á las letras de cambio sobre vencimiento, endoso, pago, protesto y demás conducentes, son aplicables á las libranzas, vales, pagarés y mandatos á la orden.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 550.
 
-La omisión del protesto libra á los endosantes, pero no á la persona que otorga y firma el pagaré quien tiene todas las obligaciones del girador y del girado.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 551.
 
-Los vales y pagarés no podrán ser emitidos á la vista y al portador, sino con sujeción y con arreglo á las disposiciones del título de "Instituciones de crédito."
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ### CAPÍTULO I.
 
@@ -3266,65 +3132,51 @@ Del contrato mercantil de trasporte terrestre.
 
 ###### Art. 552.
 
-Todo el que tenga una cantidad de dinero disponible en poder de un comerciante ó de un establecimiento de crédito puede disponer de ella á favor propio ó de un tercero, mediante un mandato de pago llamado "cheque".
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 553.
 
-El cheque debe contener:
-
-I. La designación del lugar y de la fecha de su libramiento;
-
-II. El nombre del comerciante de la sociedad ó Banco á cuyo cargo se gira;
-
-III. El nombre de la persona á cuyo favor se libra ó la expresión de ser al portador;
-
-IV. La cantidad que se gira expresada por guarismos y por letra;
-
-V. El nombre y la firma del librador.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 554.
 
-Para la validez del cheque se requiere además:
-
-I. Que el librador tenga fondos propios disponibles en poder del comerciante, sociedad ó Banco, á lo menos por el importe del cheque, en la fecha en que lo gira;
-
-II. Que esté autorizado para disponer de sus fondos en esa forma.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 555.
 
-Los cheques se separan de los libro talonarios que los comerciantes, sociedades ó Bancos entreguen á sus acreedores en cuanta corriente ó por depósito, para el efecto de autorizarlos á girar en esa forma.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 556.
 
-Los cheques extendidos á favor de persona determinada no son endosables. Los girados al portador se transfieren por la simple entrega de los mismos.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 557.
 
-Los cheques no son susceptibles de aceptación ni de protesto, ni podrá suspenderse ni rehusarse su pago sólo por falta de aviso del librador si tiene fondos en poder del librado. En caso de que no llenen los requisitos legales, podrá el librado negarse á pagar los cheques, consignando al dorso las razones de la negativa.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 558.
 
-El tenedor de un cheque deberá presentarlo para su pago dentro de los ocho días inmediatos á su fecha si fuere girado en la misma plaza. A ese término se agregará un día por cada 100 kilómetros de distancia entre el lugar del giro y el del pago, cuando éstos fueren distintos.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 559.
 
-El tenedor ó dueño de un cheque no presentado dentro del término legal, perderá todas sus acciones y derechos contra el librador, si por quiebra ó suspensión de pagos del librado posteriores á dicho termino, dejaré de cubrirse aquel documento.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 560.
 
-El pago de los cheques á favor de persona determinada se acreditará con el recibo puesto al dorso por aquella persona la que si fuere desconocida, probará su identidad como queda prevenido para las letras de cambio. El pago de los cheques al portador quedará acreditado por el hecho de tenerlos el librado en su poder, y lo mismo el de los que se libren simultáneamente en favor de persona determinada ó al portador.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 561.
 
-El librador no es responsable del abuso que se haga de los cheques que diere á sus acreedores para que giren contra él, siempre que conste que el cheque pagado es de los que él dió; ni podrá detener sin orden judicial el pago de un cheque al portador á título de extravió ó sustracción.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 562.
 
-Por el solo hecho de rehusarse el librado al pago de un cheque girado á su cargo, el tenedor ó dueño del mismo tiene expeditas sus acciones para exigir ejecutivamente del librador la devolución del importe del cheque y las indemnizaciones respectivas.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 563.
 
-Las mismas acciones y en la misma forma, corresponden al librador del cheque contra el librado que negó el pago, siempre que la falta de éste no se fundase en la omisión de alguno de los requisitos especificados en los artículo anteriores.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ### CAPÍTULO I.
 
@@ -3332,51 +3184,51 @@ De los efectos al portador.
 
 ###### Art. 564.
 
-Carta de crédito es un documento que da un comerciante en favor de otra persona y contra otro comerciante, para que le entregue el dinero que le pida hasta cierta cantidad determinada y dentro de un plazo señalado expresamente.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 565.
 
-La carta de crédito no puede extenderse ni al portador ni á la orden sino en favor de determinada persona, la cual esta obligada á probar su identidad si el pagador no lo exigiere.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 566.
 
-Una vez entregado al tenedor el máximum de la cantidad señalada en la carta de crédito ó cumplido el plazo que en ella se fija pierde su validez.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 567.
 
-Las cartas de crédito no se aceptan, ni son protestables, en todo ni en parte; ni lo tenedores tienen derecho alguno contra las personas á quienes van dirigidas, si no las cumplieren total ó parcialmente.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 568.
 
-Tampoco tendrá el tenedor de una carta de crédito, derecho alguno contra el comerciante que se la dió, sino cuando haya dejado en su poder su importe, lo haya afianzado ó sea su acreedor por esa cantidad, pues en estos casos le será responsable de su importe y de los daños y perjuicios causados á no ser por quiebra del comerciante á quien haya sido dirigida, siempre que el que la firma ignorase tal quiebra en la época en que la entrego.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 569.
 
-Si solamente se cumpliere en una parte la carta de crédito, á ésta se aplicarán relativamente las prevenciones anteriores.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 570.
 
-El dador de una carta de crédito queda obligado al pagador por la cantidad que éste hubiere entregado en su virtud, siempre que no haya excedido de la fijada en la carta, ni haya hecho el pago después del plazo señalado en ella.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 571.
 
-Si el tenedor de una carta de crédito no ha depositado su importe, lo ha afianzado ó es acreedor por el del dador, éste puede en cualquier tiempo, dar contraorden al pagador.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 572.
 
-El tenedor de una carta de crédito está obligado á cubrir al dador la cantidad que haya percibido, el cambio de dinero si lo hubiere y el interés pactado, ó el del seis por ciento anual si no existe pacto.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 573.
 
-El tenedor de una carta de crédito que recibiere su importe total ó parcial, deberá entregarla al pagador con el recibo correspondiente.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 574.
 
-Si el tenedor no hubiere hecho uso de ella dentro del plazo que fije la debe entregar al dador, ó en su defecto una constancia de la persona contra quien iba dirigida; y mientras no lo verifique, tiene obligación de afianzar ó depositar su importe.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 575.
 
-Pueden darse cartas de crédito para que se entreguen al tenedor mercancías ú otros valores: en este caso las obligaciones respectivas se computarán por el precio de esos valores ó mercancías.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ## TITULO DECIMO.
 
@@ -3620,51 +3472,47 @@ DE LA PRENDA MERCANTIL.
 
 ###### Art. 605.
 
-Se reputará mercantil la prenda constituída para garantizar un acto de comercio.
-
-A menos que al constituirla se haya expresado ó que se pruebe lo contrario, se presumirá mercantil la prenda constituida por un comerciante.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 606.
 
-Puede servir de prenda comercial todos lo bienes muebles tanto corpóreos como incorpóreos.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 607.
 
-La prenda mercantil deberá constituirse con los mismos requisitos de forma que el contrato á que sirva de garantía.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 608.
 
-Para que se tenga por constituída la prenda deberá ser ésta entregada al acreedor real ó jurídicamente, surtiendo efecto contra tercero mientras permanezca en poder del acreedor.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 609.
 
-La prenda responderá del pago de la suerte principal de la deuda, los intereses de ésta y los gastos hechos por el acreedor para la conservación de la prenda.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 610.
 
-La prenda no podrá ser realizada para cubrir los adeudos que garantice sino ocho días después del vencimiento de la deuda, dentro de cuyo término podrá satisfacerla el deudor.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 611.
 
-La prenda será valuada y realizada por dos corredores, nombrado uno por cada parte, ó un tercero nombrado por éstos en caso de discordia, ó por la autoridad judicial en defecto de ellos.
-
-Si en lugar no hubiere corredores, harán sus veces comerciantes con casa abierta en el mismo.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 612.
 
-Los derechos y obligaciones derivados del contrato de prenda serán indivisibles.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 613.
 
-El acreedor pignoraticio no podrá hacerse dueño de la prenda sin el expreso consentimiento del deudor, manifestado por escrito y con posterioridad al vencimiento de la deuda.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 614.
 
-En ningún caso la prenda podrá quedar en poder del deudor, ni en establecimiento ó bodegas pertenecientes al mismo.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 615.
 
-Los derechos pignoraticios originados del contrato de depósito en almacenes generales se regirán por las disposiciones del título respectivo.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ## TITULO DECIMO SEGUNDO.
 
@@ -3676,25 +3524,15 @@ De los navieros.
 
 ###### Art. 616.
 
-Los cheques podrán emitirse al portador y llevarán aparejada ejecución desde el día de su vencimiento, sin más requisito que el reconocimiento de la firma del responsable á su pago.
-
-El día del vencimiento se contará según las reglas establecidas para los efectos expedidos á la orden, y contra la acción ejecutiva no se admitirán más excepciones que las indicadas en el art. 535.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 617.
 
-Los demás efectos del portador de cualquiera clase que sean producirán los efectos siguientes:
-
-I. Llevarán aparejada ejecución dichos títulos, lo mismo que sus cupones, desde el día del vencimiento de la obligación respectiva ó á su presentación si no le tuvieren señalado;
-
-II. Serán transmisibles por la simple tradición del documento;
-
-III. No estarán sujetos á reivindicación si hubieren sido negociadas en Bolsa ó con intervención de corredor.
-
-Quedarán á salvo los derechos y acciones de legítimo propietario contra el vencedor ú otras personas responsables según las leyes, por los actos que le hayan privado de la posesión y dominio de los efectos vendidos.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 618.
 
-El tenedor de un efecto al portador tendrá derecho á confrontarlo con sus matrices siempre que lo crea conveniente.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ### CAPÍTULO II.
 
@@ -3702,93 +3540,67 @@ De los capitanes.
 
 ###### Art. 619.
 
-Serán documentos de crédito al portador, para los efectos de esta sección, según los casos:
-
-I. Los documentos de crédito contra la Federación, Estados ó Municipios, emitidos legalmente;
-
-II. Los emitidos por naciones extranjeras, cuya cotización haya sido autorizada por el Gobierno federal;
-
-III. Los documentos de crédito al portador, de empresas extranjeras constituídas con arreglo á la ley del Estado á que pertenezcan, y que se hayan sujetado á las disposiciones de este Código;
-
-IV. Los documentos de crédito al portador emitidos con arreglo á su ley constitutiva por establecimientos, compañías ó empresas nacionales.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 620.
 
-El propietario desposeído sea cual fuere el motivo, podrá acudir ante el juez competente del lugar en que se halle el deudor para impedir que se pague á tercera persona el capital los intereses ó dividendos vencidos ó por vencer, así como también para evitar que se trasfiera á otro la propiedad del título ó conseguir que se le expida un duplicado.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 621.
 
-En la denuncia que al juez haga el propietario desposeído, deberá indicar el nombre, la naturaleza, el valor nominal, el número si lo tuviere, y la serie de los títulos; y además si fuere posibles, la época y el lugar en que vino á ser propietario y el modo de su adquisición; la época y el lugar en que recibió los últimos intereses ó dividendos, y las circunstancias que acompañaron á la desposesión.
-
-El desposeído, al hacer la denuncia, señalará, dentro del lugar en que ejerza jurisdicción el juez competente el domicilio en que habrán de hacérsele saber todas las notificaciones.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 622.
 
-Si la denuncia se refiere únicamente al pago de capital ó de los intereses ó dividendos vencidos ó por vencer, el juez, justificada que sea en cuanto á la legitimidad de la adquisición del título, deberá estimarla, ordenando en el acto:
-
-I. Que se publique la denuncia inmediatamente el periódico oficial del Distrito, Estado ó Territorio, señalando un breve término dentro del cual pueda comparecer el tenedor del título;
-
-II. Que se ponga en conocimiento de quien haya emitido el título para que retenga el pago de principal é intereses.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 623.
 
-La solicitud se sustanciará como un incidente y con audiencia del Ministerio público.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 624.
 
-Transcurrido un año desde la denuncia sin que nadie la contradiga y si en el intervalo se hubieren repartido dos dividendos, el denunciante podrá pedir al juez autorización, no sólo para percibir los intereses ó dividendos vencidos ó por vencer, en la proporción en que fueren exigibles, sino también al capital de los títulos si hubiere acción para percibirlo.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 625.
 
-Acordada la autorización por el juez el desposeído deberá, antes de percibir los intereses ó dividendos ó el capital prestar caución bastante y extensiva al importe de las anualidades exigibles, y además al doble valor de la última anualidad.
-
-Transcurridos dos años desde la autorización sin que el denunciante fuera contradicho, la caución quedará cancelada.
-
-Si el denunciante no quisiere ó no pudiere prestar la caución, podrá obligar á la compañía ó particular deudores, á que verifiquen el depósito de los intereses ó dividendos vencidos ó del capital exigible, y recibir á los dos años sino hubiere contradicción, los valores depositados.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 626.
 
-Si el capital llegaré á ser exigible después de la autorización podrá pedirse bajo caución ó exigir el depósito.
-
-Transcurridos cinco años sin oposición desde la autorización el desposeído podrá recibir los valores depositados.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 627.
 
-La solvencia de la caución se apreciará por el juez.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 628.
 
-Si en la denuncia se trataré de cupones al portador separados del título, y la oposición no hubiere sido contradicha, el opositor podrá percibir el importe de los cupones, trascurridos tres años á contar desde la declaración judicial estimando la denuncia.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 629.
 
-Los pagos hechos al desposeído en conformidad con las reglas antes establecidas, eximen de toda obligación al deudor; y el tercero que se considere perjudicado, solo conservará acción personal contra el opositor que procedió sin justa causa.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 630.
 
-Si antes de la liberación del deudor, un tercer portador se presentaré con los títulos denunciados, el primero deberá retenerlos y hacerlos saber al juez ó tribunal y al primer opositor, señalando á la vez el nombre, vecindad ó circunstancias por la cuales pueda venirse en conocimiento del tercer portador.
-
-La presentación de un tercero suspenderá los efectos de la oposición hasta que recaiga resolución judicial.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 631.
 
-Si la denuncia tuviere por objeto impedir la negociación ó trasmisión de títulos cotizables, el juez dará aviso á la Bolsa, y donde no la hubiere á dos corredores, ó á falta de éstos, á dos de los comerciantes que hubiere en la plaza.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 632.
 
-La negociación de los valores robados, hurtados ó extravíados, hecha por la Bolsa ó por alguno de los corredores que pertenezca al colegio ó funcionen en la plaza, después del aviso á que se refiere el artículo anterior, se hará nula, y el adquirente no gozará del derecho de la reivindicación, pero sí quedará á salvo el del tercer poseedor contra el vendedor y contra el agente que intervino en la operación.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 633.
 
-Transcurridos cinco años, á contar desde la publicación hecha en virtud de lo dispuesto en el artículo 622 sin haberse hecho oposición á la denuncia el juez declarará la nulidad del título substraído ó extraviado, y lo comunicará al deudor ordenando la emisión de un duplicado á favor de la persona que resultare ser su legítimo dueño.
-
-Si dentro de los cinco años se presentaré un tercer opositor, el término quedará en suspenso hasta que el juez resuelva.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ###### Art. 634.
 
-El duplicado llevará el mismo número que el título primitivo, expresará que se expidió por duplicado, producirá los mismos efectos que aquél y será negociable con iguales condiciones.
-
-La expedición del duplicado anulará el título primitivo y se hará constar así en los asientos ó registros relativos á éste.
+(DEROGADO POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 ## TITULO DECIMO TERCERO.
 
@@ -4668,7 +4480,7 @@ El fletador que no completaré la totalidad de la carga que se obligo á embarca
 
 ###### Art. 756.
 
-Si el fletador embarcare efectos diferentes e los que manifestó al tiempo de contratar el fletamento, sin conocimiento del fletante ó capitán, y por ello sobreviniere perjuicios, por confiscación, embargo, detención ú otras causas, al fletante ó á los cargadores responderá el causante con el importe de su cargamento, y además con sus bienes, de la indemnización completa á todos los perjudicados por su culpa.
+Si el fletador embarcare efectos diferentes e los que manifestó al tiempo de contratar el fletamento, sin conocimiento del fletante ó capitán, y por ello sobreviniere perjuicios, por confiscación, embargo, detención ú otras causas, al fletante ó á los cargadores responderá el causante con el importe de su cargamento y además con sus bienes, de la indemnización completa á todos los perjudicados por su culpa.
 
 ###### Art. 757.
 
@@ -4870,7 +4682,7 @@ El conocimiento formalizado con arreglo á las disposiciones de este título, ha
 
 ###### Art. 785.
 
-Si no existiere conformidad entre los conocimientos y en ninguno se advirtiere enmienda ó raspadura, harán fe contra el capitán ó el naviero y, en favor del cargador ó el consignatario los que éstos posean extendidos y firmados por aquel; y en contra del cargador ó consignatario, y en favor del capitán ó naviero, los que estos posean extendidos y firmados por el cargador.
+Si no existiere conformidad entre los conocimientos y en ninguno se advirtiere enmienda ó raspadura, harán fe contra el capitán ó el naviero y, en favor del cargador ó el consignatario, los que éstos posean extendidos y firmados por aquel; y en contra del cargador ó consignatario, y en favor del capitán ó naviero, los que estos posean extendidos y firmados por el cargador.
 
 ###### Art. 786.
 
@@ -4996,7 +4808,7 @@ Se procederá de igual manera con los efectos tomados á préstamo sino se hubie
 
 ###### Art. 803.
 
-El préstamo que el capitán tomaré en el punto de residencia de los propietarios del buque sólo afectará á la parte de éste que pertenezca al capitán, si no hubieren dado su autorización expresa ó intervenido en la operación los demás propietarios ó sus apoderados..
+El préstamo que el capitán tomaré en el punto de residencia de los propietarios del buque sólo afectará á la parte de éste que pertenezca al capitán, si no hubieren dado su autorización expresa ó intervenido en la operación los demás propietarios ó sus apoderados.
 
 Si alguno ó algunos de los propietarios fueren requeridos para que entreguen la cantidad necesaria á la reparación ó aprovisionamiento del buque y no lo hicieren dentro de veinticuatro horas la parte que los negligentes tengan en la propiedad quedará afecta en la debida proporción á la responsabilidad del préstamo.
 
@@ -5004,7 +4816,7 @@ Fuera de la residencia de los propietarios el capitán podrá tomar préstamos c
 
 ###### Art. 804.
 
-No llegando á ponerse en riesgo los afectas sobre que se toma dinero, el contrato quedará reducido á un préstamo sencillo, con obligación en el prestatario de devolver capital é intereses al tipo legal sino fuere menor el convenido.
+No llegando á ponerse en riesgo los afectas (sic) sobre que se toma dinero, el contrato quedará reducido á un préstamo sencillo, con obligación en el prestatario de devolver capital é intereses al tipo legal sino fuere menor el convenido.
 
 ###### Art. 805.
 
@@ -5176,7 +4988,7 @@ En este caso y en el del artículo anterior, habrá de descontarse del seguro el
 
 ###### Art. 827.
 
-La suscrición de la póliza creará una presunción legal de que los aseguradores admitieron como exacta la evaluación hecha en ella de los efectos asegurados salvo los casos de fraude ó malicia.
+La suscrición de la póliza creará una presunción legal de que los aseguradores admitieron como exacta la valuación hecha en ella de los efectos asegurados salvo los casos de fraude ó malicia.
 
 Si apareciere exagerada la evolución se procederá según las circunstancias del caso, á saber:
 
@@ -6382,7 +6194,7 @@ Los pactos particulares entre el quebrado y cualquiera de sus acreedores serán 
 
 ###### Art. 990.
 
-Los acreedores singularmente privilegiados, los privilegiados y los hipotecarios, podrán abstenerse de tomar parte en la resolución de la junta sobre el convenio, y absteniéndose, ésta no les parará perjuicio en sus respectivos derechos.
+Los acreedores singularmente privilegiados, los privilegiados y los hipotecarios, podrán abstenerse de tomar parte en la resolución de la junta sobre el convenio, y absteniéndose, ésta no les parará (sic) perjuicio en sus respectivos derechos.
 
 Si por el contrario, prefiriesen tener voz y voto en el convenio propuesto, serán comprendidos en las esperas ó quitas que la junta acuerde, sin perjuicio del lugar y grado que les corresponda al título de su crédito.
 
@@ -6494,7 +6306,7 @@ Si por el contrario, aun resultase un saldo contra el quebrado, el acreedor pren
 
 XII. En las quiebras de los Bancos de emisión el importe de los billetes que estén circulando.
 
-Art. 1,000. Con el producto de los bienes de la quiebra, hechas las deducciones que prescriben los artículo anteriores, se pagará á los acreedores con arreglo á lo establecido en los artículos siguientes.
+Art. 1,000. Con el producto de los bienes de la quiebra, hechas las deducciones que prescriben los artículos anteriores, se pagará á los acreedores con arreglo á lo establecido en los artículos siguientes.
 
 Art. 1,001. La graduación de créditos se hará dividiéndolos en dos secciones: la primera comprenderá los créditos que hayan de ser satisfechos con el producto de los bienes muebles de la quiebra, y la segunda los que hayan de pagarse con el producto de los inmuebles.
 
@@ -6530,7 +6342,7 @@ I. Los acreedores con derecho real, en los términos y por el orden que establec
 
 II. Los acreedores singularmente privilegiados y demás enumerados en el artículo anterior, por el orden establecido en el mismo artículo.
 
-Art. 1,004. La sumas que los acreedores hipotecarios percibieren de los bienes muebles, realizados que sean, serán abonadas en cuenta de lo que hubieren de percibir por la venta de inmuebles, y si hubiesen percibido el total de su crédito, se tendrá por saldado y se pasará á pagar al que siga por orden de fechas.
+Art. 1,004. Las sumas que los acreedores hipotecarios percibieren de los bienes muebles, realizados que sean, serán abonadas en cuenta de lo que hubieren de percibir por la venta de inmuebles, y si hubiesen percibido el total de su crédito, se tendrá por saldado y se pasará á pagar al que siga por orden de fechas.
 
 Art. 1,005. Con excepción de los hipotecarios, los acreedores percibirán sus créditos, sin distinción de fechas, á prorrata dentro de cada clase y con sujeción al orden establecido en los artículos 1,002 y 1,003.
 
@@ -6662,7 +6474,7 @@ Art. 1,058. El gestor judicial antes de ser admitido, debe dar fianza de que el 
 
 Art. 1,059. La gestión judicial no es admisible para representar al actor.
 
-Art. 1,060. Siempre que dos ó más personas ejerciten una misma acción ú opongan la misma excepción, deberán litigar unidas y bajo una misma representación. A este efecto deberán, dentro de tres días nombrar un procurador judicial que los represente á todos, con las facultades necesarias para la continuación del juicio, ó elegir de entre ellos mismos un representante común si no nombraren procurador ni hicieren la elección de representante, ó no se pusieren de acuerdo en ella, el juez nombrará representante común, escogiendo á alguno de los que hayan sido propuestos, y si nadie lo hubiere sido, á cualquiera de los interesados. El procurador nombrado obtendrá las facultades que en su poder se le hayan concedido. El representante común tendrá las mimas facultades que si litigara exclusivamente por su propio derecho, excepto las de transigir y comprometer en árbitros, á menos de que expresamente le fueren también concedidas por los interesados.
+Art. 1,060. Siempre que dos ó más personas ejerciten una misma acción ú opongan la misma excepción, deberán litigar unidas y bajo una misma representación. A este efecto deberán, dentro de tres días nombrar un procurador judicial que los represente á todos, con las facultades necesarias para la continuación del juicio, ó elegir de entre ellos mismos un representante común si no nombraren procurador ni hicieren la elección de representante, ó no se pusieren de acuerdo en ella, el juez nombrará al representante común, escogiendo á alguno de los que hayan sido propuestos, y si nadie lo hubiere sido, á cualquiera de los interesados. El procurador nombrado obtendrá las facultades que en su poder se le hayan concedido. El representante común tendrá las mimas facultades que si litigara exclusivamente por su propio derecho, excepto las de transigir y comprometer en árbitros, á menos de que expresamente le fueren también concedidas por los interesados.
 
 Art. 1,061. Al primer escrito se acompañarán precisamente:
 
@@ -6710,7 +6522,7 @@ VIII. Las acciones que tengan por objeto exigir la indemnización de los daños 
 
 Art. 1,044. Se prescribirán en tres años:
 
-I. Las acciones procedentes de letras de cambio, libranzas, pagarés de comercio, cheques, talones y demás documentos de giro ó cambio;
+I. (DEROGADA POR EL ARTICULO 3° TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
 II. Las acciones derivadas del contrato de préstamo á la gruesa.
 
@@ -7750,7 +7562,7 @@ Art. 1,417. El nombramiento del interventor y de síndico provisionales debe rec
 
 Art. 1,418. El síndico provisional ó definitivo, desde su nombramiento representará legítimamente á la negociación fallida, judicial y extrajudicialmente.
 
-Art. 1,419. El sindico provisional se limitará á recibir la negociación con sus libros y pertenencias, suspendiendo todo pago que no sea el corriente de contribuciones, rentas, dependientes y gastos menores, y no pudiendo hacer ventas sino al contado y á los precios de plaza.
+Art. 1,419. El síndico provisional se limitará á recibir la negociación con sus libros y pertenencias, suspendiendo todo pago que no sea el corriente de contribuciones, rentas, dependientes y gastos menores, y no pudiendo hacer ventas sino al contado y á los precios de plaza.
 
 Art. 1,420. Si el síndico provisional comprendiere que hay necesidad de realizar algunos efectos ó valores porque pudieran perderse, disminuir su precio ó que se perjudicara de cualquiera otra manera la negociación que está á su cargo, podrá verificar los contratos correspondientes con autorización del juez, quien la dará previa audiencia del Ministerio público en el plazo que le señale según la urgencia del caso.
 
@@ -7906,7 +7718,7 @@ De la liquidación judicial.
 
 Art. 1,466. Todo comerciante que de hecho haya suspendido sus pagos, puede solicitar, dentro de los tres días siguientes, el beneficio de la liquidación judicial.
 
-Art. 1,467. Con la demanda respectiva acompañará el deudor un estado en que manifieste exacta y específicadamente su activo y su pasivo, el nombre y domicilio de sus acreedores y los motivos que le obligaron á suspender los pagos.
+Art. 1,467. Con la demanda respectiva acompañará el deudor un estado en que manifieste exacta y especificadamente su activo y su pasivo, el nombre y domicilio de sus acreedores y los motivos que le obligaron á suspender los pagos.
 
 Art. 1,468. Con vista de la demanda del deudor, el juez de plano proveerá un auto en términos del artículo 1,429, y se observarán todas las prevenciones contenidas en el capítulo anterior hasta dejar cerrado el examen de reconocimiento de créditos.
 
@@ -7922,7 +7734,7 @@ Los acreedores, á pluralidad de votos nombrarán, síndico é interventor defin
 
 Del abandono de activo.
 
-Art. 1,472. El deudor cuyo pasivo exceda del activo está obligado, dentro de los tres días siguientes á la suspensión de pagos á manifestarlo al juez de su domicilio, acompañando un estado con los requisitos establecidos en el art. 1,467.
+Art. 1,472. El deudor cuyo pasivo exceda del activo está obligado, dentro de los tres días siguientes á la suspensión de pagos, á manifestarlo al juez de su domicilio, acompañando un estado con los requisitos establecidos en el art. 1,467.
 
 Art. 1,473. Con vista de esa gestión se observará lo dispuesto en los artículos del 1,468 al 1,471.
 
@@ -8156,6 +7968,10 @@ Y lo comunico á vd. para los fines consiguientes.
 
 Libertad y Constitución. México, Septiembre 15 de 1889.- J. Baranda.
 
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+D.O.F. 27 DE AGOSTO DE 1932.
+
 ###### Artículo 1°.
 
 Las disposiciones de este Código son aplicables sólo á los actos comerciales.
@@ -8163,3 +7979,31 @@ Las disposiciones de este Código son aplicables sólo á los actos comerciales.
 ###### Artículo 2°.
 
 A falta de disposiciones de este Código, serán aplicables á los actos de comercio las del derecho común.
+
+###### ARTICULO 3°.
+
+Quedan abrogados los artículos 337, 339, 340 al 357, 365 al 370, 449 al 575, 605 al 634, y 1044, fracción I, del Código de Comercio de 15 de septiembre de 1889, y las Leyes de 29 de noviembre de 1897 y de 4 de junio de 1902.
+
+Se derogan todas las demás leyes y disposiciones que se opongan a la presente.
+
+###### ARTICULO 1°.
+
+Esta ley entrará en vigor el 15 de septiembre de 1932.
+
+###### ARTICULO 2°.
+
+Por ella se regirán los efectos jurídicos de los hechos anteriores a su vigencia, siempre que su aplicación no resulte retroactiva.
+
+En consecuencia:
+
+I.- Las condiciones intrínsecas y los requisitos de forma necesarios para la validez de los títulos y de los actos y contratos anteriores al 15 de septiembre de 1932, se regirán por lo que dispongan las leyes conforme a las cuales los primeros fueron otorgados o emitidos, y ejecutados y celebrados los segundos;
+
+II.- Por las mismas leyes continuarán rigiéndose los derechos y obligaciones derivados de esos títulos, actos y contratos, salvo lo dispuesto por las fracciones siguientes:
+
+III.- La admisibilidad de las pruebas y los efectos de las presunciones legales relativas a los títulos, actos y contratos aludidos, se regirán por la ley vigente cuando se constituyó la relación jurídica o se produjo el hecho que son objeto de las primeras y sirven de base a las segundas;
+
+IV.- La responsabilidad civil en que puedan incurrir las personas que intervengan en los títulos, actos y contratos antes dichos, se regirá por las leyes en vigor en la época en que tuvo lugar el hecho de que aquélla resulta;
+
+V.- Las acciones que se deriven de los títulos, actos o contratos mencionados prescribirán y caducarán en los términos de la presente ley. El plazo en que debe practicarse el acto o diligencia o llenarse el requisito o formalidad de cuya omisión resulta la caducidad de la acción, se contará a partir de la fecha en que esta ley entre en vigor, cuando dicho plazo haya comenzado a correr y no haya concluído aún esa fecha. Debe computarse como parte del término de la prescripción, el tiempo útilmente transcurrido bajo la vigencia de las leyes que ésta abroga o deroga; pero en ningún caso la acción quedará extinguida por prescripción antes del 15 de marzo de 1933;
+
+VI.- Las acciones, las excepciones procesales y los actos procesales referentes a los títulos, actos y contratos de que hablan las fracciones anteriores, se regirán por las leyes vigentes al tiempo en que se ejerciten las primeras, se propongan las segundas y se practiquen los últimos, no siendo por tanto necesario que el demandado reconozca su firma, para que se despache ejecución en su contra, en el caso de los documentos para los que esta ley no exige ese requisito, siempre que el auto de exequendo se dicte después de que la misma entre en vigor.
