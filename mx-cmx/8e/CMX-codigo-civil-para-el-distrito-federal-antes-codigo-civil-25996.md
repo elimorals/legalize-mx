@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1946-02-23"
+last_updated: "1948-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,9 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-> <small>N. DE E. SE MODIFICA EL TEXTO DE LOS ARTICULOS 1777, 2033, 2316, 2317, 2320, 2345 Y 2917 EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE FEBRERO DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 1948.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -5431,6 +5429,8 @@ ARTICULO 1,117.- Al constituirse una servidumbre se entienden concedidos todos l
 
 ## TITULO OCTAVO. De los derechos de autor
 
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
+
 ### CAPITULO VIII. Derechos y obligaciones de los propietarios de los predios entre los que está constituída alguna servidumbre voluntaria
 
 ARTICULO 1,118.- El uso y la extensión de las servidumbres establecidas por la voluntad del propietario, se arreglarán por los términos del título en que tengan su origen, y en su defecto, por las disposiciones siguientes.
@@ -5651,161 +5651,135 @@ ARTICULO 1,179.- El día en que comienza la prescripción se cuenta siempre ente
 
 ARTICULO 1,180.- Cuando el último día sea feriado, no se tendrá por completa la prescripción, sino cumplido el primero que siga, si fuere útil.
 
-### CAPITULO I
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
 
-ARTICULO 1,181.- Los autores de obras científicas que llenen los requisitos de que se habla en este Título, gozan por cincuenta años del privilegio exclusivo de publicarlas, traducirlas y reproducirlas por cualquier medio.
+### CAPITULO I. ARTICULO 1,181.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,182.- Los autores de descubrimientos o invenciones científicas reconocidos como originales, gozarán de los derechos concedidos en el artículo anterior, aun cuando no hayan indicado al publicar sus descubrimientos o invenciones, las aplicaciones susceptibles de ser explotadas, que puedan derivarse de aquéllos, o aun cuando las aplicaciones indicadas no presenten la posibilidad de explotación.
+ARTICULO 1,182.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-El individuo que industrialice el descubrimiento y obtenga la patente respectiva, tiene obligación de proporcionar al inventor del descubrimiento la parte de las ganancias que en cada caso fijen peritos.
+ARTICULO 1,183.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,183.- Tienen derecho exclusivo por treinta años, a la publicación y reproducción, por cualquier procedimiento, de sus obras originales:
+ARTICULO 1,184.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-I.- Los autores de obras de índole literaria, comprendiéndose en ellas los escenarios y argumentos para películas;
+ARTICULO 1,185.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-II.- Los autores de cartas geográficas, topográficas, arquitectónicas, etc., y los de planos, dibujos y diseños de cualquiera clase;
+ARTICULO 1,186.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-III.- Los arquitectos;
+ARTICULO 1,187.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-IV.- Los dibujantes, grabadores, pintores, litógrafos y fotógrafos;
+ARTICULO 1,188.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-V.- Los escultores, tanto respecto de la obra ya concluída, como de los modelos y moldes;
+ARTICULO 1,189.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-VI.- Los músicos, ya sean compositores o ejecutantes;
+ARTICULO 1,190.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-VII.- Los calígrafos;
+ARTICULO 1,191.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-VIII.- En general, los autores de obras artísticas.
+ARTICULO 1,192.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-El privilegio de que hablan las fracciones I en su parte final, y VII de este artículo, durará cinco años, que la autoridad administrativa podrá prorrogar de cinco en cinco años, hasta completar los treinta que como máximum se concede.
+ARTICULO 1,193.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,184.- Tienen derecho exclusivo de usar del título o cabeza de un periódico, por todo el tiempo de su publicación, los que hayan hecho el depósito correspondiente. Suspendida la publicación por más de seis meses, se pierde el privilegio.
+ARTICULO 1,194.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,185.- Las agencias de noticias telegráficas o por correspondencia, que las transmitan a periódicos o corresponsales, si hubieren obtenido el privilegio respectivo en la forma y términos que determine la ley sobre la materia, tienen derecho a que estas noticias no se reproduzcan durante el término de tres días. Pasado el plazo contado desde la publicación de la noticia por la agencia propietaria del privilegio, entrará en el dominio público.
+ARTICULO 1,195.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,186.- Los autores de obras destinadas al teatro o de composiciones musicales, además del derecho exclusivo que tienen respecto de la publicación y reproducción de sus obras, lo tienen también exclusivo por veinte años, respecto de la representación o ejecución de las mismas.
+ARTICULO 1,196.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,187.- Pasados los términos establecidos en los tres artículos anteriores, las obras entrarán al dominio público.
+ARTICULO 1,197.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,188.- Los autores, traductores y editores pueden fijar al privilegio de que gocen, un término menor que el señalado por las leyes. Fenecido el plazo, la obra entrará al dominio público.
+ARTICULO 1,198.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,189.- El autor que publique una obra no podrá adquirir los derechos que le concede este título, si no la registra dentro del plazo de tres años. Al concluir este término, la obra entra al dominio público.
+ARTICULO 1,199.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,190.- Se pueden tener derechos de autor sobre las lecciones orales o escritas, sobre los discursos pronunciados en público y sobre los alegatos presentados ante los tribunales.
+ARTICULO 1,200.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-Los funcionarios públicos sólo podrán obtenerlos sobre los discursos pronunciados o sobre los informes rendidos en el ejercicio de su cargo, cuando formen colección de ellos.
+ARTICULO 1,201.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,191.- Podrán obtener derechos sobre las producciones fonéticas de obras literarias o musicales, los ejecutantes o declamadores, sin perjuicio del derecho que corresponda a los autores.
+ARTICULO 1,202.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,192.- Los autores de artículos publicados en los periódicos pueden obtener, llenando los requisitos legales, los derechos de autor sobre sus artículos.
+ARTICULO 1,203.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,193.- Para adquirir los derechos de autor sobre cartas privadas, es indispensable que éstas se publiquen con consentimiento de ambos corresponsales o de sus herederos.
+ARTICULO 1,204.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,194.- La obra manuscrita está comprendida en las disposiciones de este Título.
+ARTICULO 1,205.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,195.- Cuando una obra fuese hecha por varios autores, sin que pueda señalarse la parte de que cada uno de ellos sea autor, los derechos otorgados por los artículos anteriores, salvo convenio en contrario, corresponden a todos por partes iguales. Para reproducir la obra se necesita el consentimiento de la mayoría y a falta de éste, la autorización judicial, que se concederá, si procede, a petición de alguno de los colaboradores. Los disidentes no están obligados a cubrir los gastos de reproducción, pero tendrán derecho de que sus nombres figuren en la nueva obra.
+ARTICULO 1,206.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-Los productos que se obtengan se repartirán únicamente entre los que han consentido en la reproducción y han contribuído para sus gastos.
+ARTICULO 1,207.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,196.- En el caso previsto en el artículo anterior, muerto sin herederos ni cesionarios uno de los autores, su derecho acrecerá a los demás.
+ARTICULO 1,208.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,197.- Cuando una obra fuere hecha por varios autores y pueda probarse quiénes lo son de determinada parte, cada uno disfrutará de su propiedad; mas la obra completa sólo podrá publicarse o reproducirse de acuerdo con lo dispuesto en el artículo 1,198.
+ARTICULO 1,209.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,198.- La persona o corporación que imprima o publique una obra compuesta por varios individuos con el consentimiento de los mismos, tendrá la propiedad sobre toda ella, salvo el derecho de cada autor para publicar de nuevo su composición, ya suelta, ya formando colección.
+ARTICULO 1,210.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,199.- En el caso del artículo que precede, el editor no podrá publicar sueltas dichas publicaciones, sin consentimiento de sus autores.
+ARTICULO 1,211.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,200.- Por la muerte del autor pasarán sus derechos a sus herederos por el tiempo que falte para que concluya el término que debe durar el privilegio.
+ARTICULO 1,212.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,201.- Cuando el autor, traductor o editor de una obra falleciere dentro del plazo fijado en el artículo 1,189 sin haber asegurado sus derechos, sus herederos podrán asegurarlos dentro del mencionado plazo.
+ARTICULO 1,213.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,202.- El autor y sus herederos pueden enajenar los derechos que les concede el privilegio.
+ARTICULO 1,214.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,203.- Si la cesión se hace por un tiempo menor del que deban durar los derechos de autor, pasado ese tiempo el cedente recobra sus derechos. Si la cesión se hace por un tiempo mayor, es nula en cuanto al exceso.
+ARTICULO 1,215.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,204.- Respecto de las obras póstumas, los herederos o cesionarios tendrán los mismos derechos que el autor.
+ARTICULO 1,216.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,205.- Si el autor ha cedido los derechos de privilegio de una obra y después hace en ésta variación substancial, de tal suerte que pueda considerarse como una nueva obra, el cesionario no tiene derecho de impedir que el autor o sus herederos publiquen o enajenen la obra modificada.
+ARTICULO 1,217.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,206.- El juez, para decidir en el caso previsto por el artículo anterior, oirá el dictamen de un perito nombrado por cada parte; pudiendo, además, consultar con las personas o corporaciones que crea conveniente.
+ARTICULO 1,218.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,207.- Los autores de obras destinadas al teatro o de obras musicales, pueden hacer en ellas las alteraciones y enmiendas que juzguen convenientes; pero no pueden alterar ninguna parte esencial sin consentimiento de la empresa a que hayan transferido el derecho de representación o de ejecución.
+ARTICULO 1,219.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,208.- El autor tiene derecho de reservarse la facultad de publicar traducciones de sus obras, pero en este caso debe declarar si la reserva se limita a determinado idioma, o si los comprende todos.
+ARTICULO 1,220.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,209.- Si el autor no ha hecho esa reserva o si ha otorgado la facultad de traducir la obra, el traductor tendrá todos los derechos del autor respecto de su traducción; mas no podrá impedir otras traducciones, a no ser que el autor le haya concedido también esa facultad.
+ARTICULO 1,221.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,210.- Si el traductor reclama contra una nueva traducción, alegando ser ésta una reproducción de la primera y no un nuevo trabajo hecho sobre el original, el juez, para fallar, obrará conforme está prevenido en el artículo 1,206.
+ARTICULO 1,222.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,211.- El traductor de una obra escrita en idioma extranjero, será considerado como autor respecto de su traducción.
+ARTICULO 1,223.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,212.- El autor que se haya reservado el derecho de traducción, debe, dentro del término de tres años, hacer la traducción de su obra, so pena de perder ese derecho.
+ARTICULO 1,224.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,213.- Nadie podrá reproducir una obra ajena con el pretexto de anotarla, comentarla, adicionarla o mejorar la edición sin permiso del autor. El que lo fuere de adiciones o anotaciones a una obra ajena, podrá, no obstante, darlas a luz por separado, en cuyo caso tendrá sobre ellas los derechos de autor.
+ARTICULO 1,225.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,214.- El permiso del autor es igualmente necesario para hacer un extracto o compendio de su obra. Sin embargo, si el extracto o compendio fuere de tal mérito o importancia, que constituyera una obra nueva, o proporcionare una utilidad general, podrá autorizar el gobierno su impresión, oyendo previamente a los interesados y a un perito por cada parte.
+ARTICULO 1,226.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,215.- En el caso del artículo que precede, el autor o propietario de la obra primitiva tendrá derecho a una indemnización que se graduará desde un quince hasta un treinta por ciento de los productos líquidos del compendio, en cuantas ediciones se hagan.
+ARTICULO 1,227.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,216.- El editor de una obra anónima o seudónima respecto de la cual no se haya hecho reserva de derechos de reproducción, tendrá los derechos de autor; pero el autor de la obra puede, dentro del término de tres años, contados desde que la publicó, comprobar sus derechos a la obra y obtener el privilegio de reproducción.
+ARTICULO 1,228.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,217.- En el caso previsto en la parte final del artículo anterior, el propietario recobrará sus derechos; pero el editor podrá disponer de los ejemplares existentes o cobrar su precio al autor si éste desea adquirirlos.
+ARTICULO 1,229.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,218.- El editor de una obra que está ya bajo el dominio público, sólo gozará de los derechos de autor, el tiempo que tarde en publicar su edición y un año más. Este derecho no se extiende a impedir las ediciones hechas fuera de la República.
+ARTICULO 1,230.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,219.- El que por primera vez publica algún códice del que sea legítimo poseedor, tendrá la propiedad de la edición durante treinta años.
+ARTICULO 1,231.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,220.- Las leyes, las demás disposiciones gubernativas y las sentencias de los tribunales, pueden ser publicadas por cualquiera, luego que lo hayan sido oficialmente, sujetándose el editor al texto auténtico.
+ARTICULO 1,232.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,221.- Sin consentimiento del autor, una empresa no comunicará, bajo ningún pretexto, a persona extraña, la obra que hubiere recibido manuscrita.
+ARTICULO 1,233.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,222.- Contratada la edición de una obra literaria, la representación de una obra dramática, o la ejecución de una obra musical, no puede el autor cederla a otra empresa, sino en los términos que lo permita el contrato, ni escribir y dar a la escena o ejecutar una imitación de la obra.
+ARTICULO 1,234.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,223.- Si la obra no fuere editada, representada o ejecutada en el tiempo y con las condiciones convenidas, el autor podrá retirarla libremente.
+ARTICULO 1,235.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,224.- Si en el contrato no se fijó tiempo para la edición, representación o ejecución, la obra podrá ser retirada si ha transcurrido un año desde la fecha del contrato, sin que haya sido editada, representada o ejecutada.
+ARTICULO 1,236.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,225.- El autor de una obra literaria podrá asimismo, retirarla si, agotada la edición, la empresa no la reproduce en un término de cinco años.
+ARTICULO 1,237.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-Lo mismo podrá hacerse si la empresa deja de representar o ejecutar la obra durante cinco años sin causa justa.
+ARTICULO 1,238.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,226.- En los casos de que tratan los tres artículos anteriores, el autor no está obligado a devolver las cantidades que haya recibido.
+ARTICULO 1,239.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,227.- La cesión del derecho de publicar una obra literaria, dramática o musical, no importa el derecho de representarla o ejecutarla en lugares a donde se asiste pagando.
+ARTICULO 1,240.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,228.- El autor de una composición musical deberá reconocer al autor de la letra sobre que fuere escrita, un tanto por ciento sobre el producto líquido. En el caso de no existir convenio escrito, esta participación se fijará por peritos.
+ARTICULO 1,241.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,229.- La propiedad de las composiciones musicales comprende el derecho exclusivo del autor para celebrar convenios sobre los motivos o temas de la obra original. A falta de convenio escrito, el autor de un arreglo musical deberá reconocer una participación de un treinta por ciento al que lo fuere de los temas o motivos melódicos originales.
+ARTICULO 1,242.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,230.- La representación o ejecución en lugares públicos, donde se lucre en alguna forma, de diálogos, monólogos, canciones y piezas musicales, sean obras aisladas o pertenecientes a obras ya registradas por su autor, causan para éste el pequeño derecho.
+ARTICULO 1,243.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,231.- Los que puedan cobrar el pequeño derecho, fijarán su monto por medio de convenio y si no hubiere acuerdo, su importe será fijado por peritos que nombre el juez.
-
-ARTICULO 1,232.- Todos los que disfruten de los privilegios a que se refieren los artículos 1,181 y 1,183, pueden reproducir o autorizar la reproducción total o parcial de sus obras, por un arte o por un procedimiento semejante o distinto, y en la misma o diferente escala.
-
-ARTICULO 1,233.- El que adquiere la propiedad de una obra de arte no adquiere el derecho de reproducirla, si no se expresa así en el contrato.
-
-ARTICULO 1,234.- La posesión de un modelo de escultura es presunción del derecho de reproducción, mientras no se pruebe lo contrario.
-
-ARTICULO 1,235.- El gobierno no podrá obtener los derechos de autor.
-
-ARTICULO 1,236.- Cuando deba heredar la Beneficencia Pública, cesan los derechos de autor y la obra entra al dominio público.
-
-ARTICULO 1,237.- Los documentos existentes en los archivos, oficinas federales y demás establecimiento (sic) públicos sostenidos por la Federación, no pueden publicarse sin permiso del Gobierno.
-
-ARTICULO 1,238.- Los documentos que pertenezcan a los Estados no podrán publicarse ni reproducirse sin permiso de sus respectivos Gobiernos.
-
-ARTICULO 1,239.- Los que obtengan a su nombre los derechos de autor sin que lo sean en realidad, adquirirán por prescripción, esos derechos, por el transcurso de cinco años, contados desde que obtuvieron el privilegio. El plazo será de tres años para adquirir el derecho de representación de obras dramáticas o de ejecución de obras musicales.
-
-ARTICULO 1,240.- Cuando fuere conveniente la reproducción de una obra y el autor no la haga, el Gobierno podrá decretarla, mediante indemnización, haciéndola por cuenta del Estado o en pública almoneda, y con las demás condiciones establecidas para la ocupación de la propiedad por causa de utilidad pública.
-
-ARTICULO 1,241.- No se concederán privilegios respecto de las obras prohibidas por las leyes o retiradas de la circulación en virtud de sentencia judicial.
-
-ARTICULO 1,242.- El término que se señala para la duración del privilegio se contará desde la fecha en que fue otorgado por el Ejecutivo Federal.
-
-ARTICULO 1,243.- Los autores extranjeros gozarán en la República de los derechos de autor que les conceden los tratados celebrados por México con los Gobiernos de las Naciones a que pertenezcan.
-
-A falta de tratados gozarán de iguales derechos que los nacionales, siempre que en su país se otorguen los mismos derechos a los autores mexicanos.
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
 
 ## TITULO PRIMERO. Disposiciones preliminares
 
@@ -5837,123 +5811,81 @@ ARTICULO 1,293.- Si dos o más coherederos quisieren hacer uso del derecho del t
 
 ARTICULO 1,294.- El derecho concedido en el artículo 1,292 cesa si la enajenación se hace a un coheredero.
 
-### CAPITULO II
+### CAPITULO II. ARTICULO 1,244.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,244.- Los derechos exclusivos de autor, traductor o editor, se concederán por el Ejecutivo Federal, mediante solicitud hecha por los interesados o sus representantes legítimos, a la Secretaría de Educación Pública, acompañada de los ejemplares que prevenga el Reglamento.
+ARTICULO 1,245.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,245.- Pueden asegurarse los derechos sobre las obras publicadas sin el nombre del autor o con seudónimo, acompañando a los ejemplares de la obra que deben entregarse en la Secretaría de Educación, un pliego cerrado en que conste el nombre del autor; pliego que debe llevar en la cubierta las contraseñas necesarias para que el autor sea identificado. Para que puedan hacerse valer los derechos de autor, es necesario que abierto el pliego a solicitud de quien lo presentó, quede debidamente comprobado quién es el autor de la obra.
+ARTICULO 1,246.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,246.- En la Secretaría de Educación Pública se llevará un registro donde se asienten las obras que se reciban, el cual se publicará cada tres meses en el "Diario Oficial."
+ARTICULO 1,247.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,247.- Las certificaciones que se expidan con referencia a dichos registros, hacen presumir los derechos de autor mientras no se pruebe lo contrario.
+ARTICULO 1,248.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,248.- Para que surtan efecto las trasmisiones de los derechos que menciona este Título, deben ser inscritas en el propio Registro de la Secretaría de Educación Pública.
+ARTICULO 1,249.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,249.- Para cada nueva edición, traducción o reproducción, se necesita hacer un nuevo depósito.
+ARTICULO 1,250.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,250.- Los derechos de autor relativos a la representación de las obras dramáticas y a la ejecución de las musicales, quedan legalmente reconocidos luego que lo esté el derecho exclusivo a la publicación y reproducción de esas obras.
+ARTICULO 1,251.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,251.- En el caso de que una obra dramática o musical inédita fuere representada o ejecutada sin consentimiento del autor, éste probará sus derechos, y, justificados, quedará sujeto el responsable a las disposiciones relativas de este Título.
+ARTICULO 1,252.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,252.- En los contratos que se celebren para la publicación de una obra, se fijará el número de ejemplares que deben tirarse. De lo contrario, no podrán demandarse la falsificación por esta causa.
+ARTICULO 1,253.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,253.- Todos los autores, traductores y editores deben poner en las portadas de los libros o composiciones musicales, alcance de las estampas y en la base u otra parte visible de las demás obras artísticas, la fecha de publicación o de la ejecución de la obra y la advertencia de gozar del privilegio por haber hecho el depósito que previene este Código.
+ARTICULO 1,254.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,254.- El que no cumpla lo dispuesto en el artículo anterior, no podrá ejercitar los derechos que se le conceden en este Título.
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
 
-### CAPITULO III
+### CAPITULO III. ARTICULO 1,255.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,255.- Hay falsificación, cuando falta el consentimiento del que obtuvo el privilegio:
+ARTICULO 1,256.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-I.- Para publicar, traducir, reproducir, representar, ejecutar o imprimir en discos para fonógrafos o rollos para pianos automáticos, sus obras o parte de ellas;
+ARTICULO 1,257.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-II.- Para omitir el nombre del autor o del traductor;
+ARTICULO 1,258.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-III.- Para cambiar el título de la obra y suprimir o variar cualquiera parte de ella;
+ARTICULO 1,259.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-IV.- Para publicar mayor número de ejemplares que el convenido;
+ARTICULO 1,260.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-V.- Para publicar y ejecutar una pieza de música formada de extractos de otras;
+ARTICULO 1,261.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-VI.- Para hacer arreglos una composición musical.
+ARTICULO 1,262.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-VII.- Para adaptar trucos escénicos originales empleados en obras que hayan obtenido el privilegio que concede este Título;
+ARTICULO 1,263.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-VIII.- Para representar partes aisladas, escenas o canciones ya registradas o para las que se haya obtenido el privilegio respectivo.
+ARTICULO 1,264.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,256.- Existe también falsificación cuando sin haberse adquirido el derecho al privilegio que concede este Título, se pone alguna frase que induzca a error acerca de haber llenado el requisito que establece el artículo 1,253.
+ARTICULO 1,265.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,257.- El comercio de obras falsificadas, ya en la República, ya en cualquiera otra parte, se considera como falsificación.
+ARTICULO 1,266.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,258.- Es también falsificación cualquiera publicación o reproducción que no esté literalmente comprendida en el artículo siguiente.
+ARTICULO 1,267.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-ARTICULO 1,259.- No es falsificación:
+ARTICULO 1,268.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-I.- La citación literal o la inserción de trozos o pasajes de obras publicadas;
+ARTICULO 1,269.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-II.- La reproducción o el extracto de artículos de revistas, diccionarios, periódicos y otras obras de esta clase, siempre que se exprese la obra de donde se han tomado y que la parte reproducida no sea excesiva, a juicio de peritos;
+ARTICULO 1,270.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-III.- La reproducción de poesías, memorias, discursos, etc., en las obras de crítica literaria, historia de la literatura, en los periódicos y en los libros destinados al uso de los establecimientos de educación;
+ARTICULO 1,271.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-IV.- La publicación de una colección de composiciones literarias extraídas de otras obras;
+ARTICULO 1,272.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-V.- La publicación de adiciones o reformas a una obra ajena, separadamente;
+ARTICULO 1,273.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-VI.- La publicación, traducción o reproducción de obras de autor, muertos sin herederos ni cesionarios, y las de autor que no hayan obtenido el privilegio conforme a la ley;
+ARTICULO 1,274.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-VII.- La representación de un drama o la ejecución de una obra musical, sea en todo, sea en parte, cuando se verifique sin aparato escénico ya en casas particulares, ya en conciertos públicos, cuando no se paga por asistir;
+ARTICULO 1,275.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-VIII.- La representación o ejecución de las obras dramáticas o musicales cuyos productos se dediquen exclusivamente a actos de beneficencia;
+ARTICULO 1,276.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-IX.- La publicación de los libretos de las operas y de la letra de otras composiciones musicales, a no ser que el propietario se haya reservado ese derecho;
+ARTICULO 1,277.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-X.- La traducción de obras ya publicadas, salvo lo dispuesto en los artículos 1,208 y 1,209;
+ARTICULO 1,278.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-XI.- La reproducción hecha en plástica de obras de pintura, grabado o litografía, y la de obras de aquella especie hecha por medio de estos procedimientos;
+ARTICULO 1,279.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
-XII.- La aplicación de obras artísticas como modelos para los productos de las manufacturas y fábricas, siempre que ello no entrañe una reproducción.
-
-ARTICULO 1,260.- En los casos a que se refieren los artículos 1,255 al 1,258 el falsificador perderá en beneficio del propietario de la obra, cuantos ejemplares existan de ella, pagando el precio de los que falten para completar la edición.
-
-ARTICULO 1,261.- El precio de los ejemplares será el que tenga los de la edición legítima; y si ésta estuviere ya agotada, el que tuvieran al publicarse.
-
-ARTICULO 1,262.- Si la edición legítima se publicó por suscripción, el precio no será el de ésta, sino el que tuvo la obra en el mercado al terminarse la publicación.
-
-ARTICULO 1,263.- Si la edición falsificada es la primera, el precio de los ejemplares será el que tenga en la plaza, salvo el derecho de propietario para reclamar contra él.
-
-ARTICULO 1,264.- Si la reproducción no hubiere sido hecha mecánicamente; el precio se fijará por peritos.
-
-ARTICULO 1,265.- Si no se conoce el número de ejemplares de la edición fraudulenta, pagará el falsificador el valor de mil, además de los aprehendidos, a no ser que los perjuicios importen más.
-
-ARTICULO 1,266.- Las planchas, moldes y matrices que hayan servido para la edición fraudulenta serán destruídos, no comprendiéndose en esta disposición los caracteres de imprenta.
-
-ARTICULO 1,267.- Lo dispuesto en los artículos del 1,260 al 1,270, se observará también cuando la edición fraudulenta se haya hecho fuera de la República.
-
-ARTICULO 1,268.- Todo el que tenga un lucro indebido por la reproducción, representación o ejecución de las obras, con infracción en los artículos 1,255 al 1,258, pagará el dueño del privilegio el producto total obtenido mediante falsificación.
-
-ARTICULO 1,269.- Si la reproducción, representación o ejecución se compone de varias obras, el producto se dividirá según los actos o partes; y si esto no fuere posible, el cálculo se hará por peritos.
-
-ARTICULO 1,270.- El que goce del privilegio tiene derecho de embargar la entrada antes de la representación, durante ésta y después.
-
-ARTICULO 1,271.- En el producto se computará la cantidad que a la representación corresponda por el abono.
-
-ARTICULO 1,272.- Las copias que se hayan repartido a los actores, cantantes y músicos, serán destruídas así como los libretos o canciones.
-
-ARTICULO 1,273.- El que goce de los derechos de autor tiene derecho de pedir que se suspenda la ejecución de la obra. En el caso de que se suspenda aquélla, se observará lo dispuesto en el artículo anterior, y la indemnización será fijada por peritos.
-
-ARTICULO 1,274.- El que goce de los derechos de autor, además del derecho que tiene a los productos de la representación, será indemnizado por los perjuicios que se le sigan. La indemnización será fijada por el juez, previo informe de peritos.
-
-ARTICULO 1,275.- Para los efectos de la ley es responsable civilmente el que por su cuenta emprende o ejecuta la falsificación.
-
-ARTICULO 1,276.- Si la falsificación se ha cometido fuera de la República es responsable el vendedor.
-
-ARTICULO 1,277.- Los actores y artistas que por su cuenta de otro trabajen en la falsificación, no son responsables civilmente.
-
-ARTICULO 1,278.- Los empresarios de salas de espectáculos o de locales donde se ejecuten obras registradas conforme a este Título, serán responsables por el importe de los derechos que corresponden a los que gozan del privilegio.
-
-ARTICULO 1,279.- Independientemente de lo dispuesto en este Capítulo, el falsificador será el castigado en los términos que prevenga el Código Penal del Distrito Federal, para el delito de fraude.
-
-ARTICULO 1,280.- Todas las disposiciones contenidas en este Título son federales, como reglamentarias de la parte relativa de los artículos 4o. y 28 de la Constitución General.
+ARTICULO 1,280.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
 ### CAPITULO I. De los testamentos en general
 
@@ -8233,7 +8165,7 @@ ARTICULO 2,106.- La responsabilidad procedente de dolo es exigible en todas las 
 
 ARTICULO 2,107.- La responsabilidad de que se trata en este Título, además de importar la devolución de la cosa o su precio, o la de entrambos (sic), en su caso, importará la reparación de los daños y la indemnización de los perjuicios.
 
-ARTICULO 2,108.- Se entiende por daño la pérdida o menoscabo sufrido en el patrimonio por la falta de cumplimiento de una obligación.
+ARTICULO 2,108.- Se entiende por daño la perdida o menoscabo sufrido en el patrimonio por la falta de cumplimiento de una obligación.
 
 ARTICULO 2,109.- Se reputa perjuicio la privación de cualquiera ganancia lícita, que debiera haberse obtenido con el cumplimiento de la obligación.
 
@@ -11169,7 +11101,7 @@ Sufragio Efectivo. No Reelección.
 
 México, a 30 de agosto de 1928.- El Secretario de Estado y del Despacho de Gobernación, Emilio Portes Gil.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 1 DE SEPTIEMBRE DE 1932.
 
@@ -11215,6 +11147,14 @@ D.O.F. 9 DE JUNIO DE 1944.
 
 DECRETO DE 15 DE MAYO DE 1944, QUE PRORROGA LOS CONTRATOS DE ARRENDAMIENTO DE CASA HABITACION EN LOS TERRITORIOS FEDERALES EN BENEFICIO DE LOS INQUILINOS, MIENTRAS DURE EL ESTADO DE GUERRA.
 
+###### ARTICULO PRIMERO.
+
+Esta ley entrará en vigor a los quince días de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Queda derogado el Título Octavo del Libro Segundo del Código Civil vigente y todas las disposiciones que se opongan a la presente Ley, excepto para regir las violaciones ocurridas antes de la vigencia de ésta.
+
 ###### ARTICULO 1o.
 
 El presente Decreto entrará en vigor diez días después de su publicación en el "Diario Oficial" de la Federación.
@@ -11230,6 +11170,12 @@ Los términos que estuvieron corriendo de conformidad con el artículo 2478 del 
 D.O.F. 23 DE FEBRERO DE 1946.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 14 DE ENERO DE 1948.
+
+ARTICULOS TRANSITORIOS DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO 4o.
 
