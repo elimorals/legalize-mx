@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "1994-09-26"
+last_updated: "1995-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MARZO DE 1995.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -141,6 +141,10 @@ B).- Unidades Administrativas:
 > <small>(ADICIONADO, D.O.F. 26 DE SEPTIEMBRE DE 1994)</small>
 
 -Centro Médico Nacional "20 de Noviembre".
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 1995)</small>
+
+- Hospitales Regionales
 
 C).- Comisión Interna de Administración y Programación.
 
@@ -1124,63 +1128,67 @@ En cada delegación funcionará un Consejo Consultivo, cuyo objeto será colabor
 
 Su integración, organización y funcionamiento será de conformidad con el Reglamento de las Delegaciones del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás disposiciones que al efecto se expidan.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 26 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE MARZO DE 1995)</small>
 
-#### SECCION TERCERA. DEL CENTRO MEDICO NACIONAL "20 DE NOVIEMBRE"
+#### SECCION TERCERA. DEL CENTRO MEDICO NACIONAL "20 DE NOVIEMBRE" Y LOS HOSPITALES REGIONALES
 
-> <small>(ADICIONADO, D.O.F. 26 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE MARZO DE 1995)</small>
+
+DEL CENTRO MEDICO NACIONAL "20 DE NOVIEMBRE" Y LOS HOSPITALES REGIONALES
+
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1995)</small>
 
 ###### ARTICULO 59
 
-Bis.- El Centro Médico Nacional "20 de Noviembre" como unidad administrativa desconcentrada, tiene por objeto brindar atención médica integral de alta especialidad a los derechohabientes del Instituto. Para tal efecto, contará con los recursos técnicos y científicos más avanzados que permitan otorgar servicios médicos de excelencia con eficiencia y calidad. La organización, integración y funcionamiento del Centro Médico Nacional se establecerá conforme a lo dispuesto en el Manual de Organización que al efecto expida el Director General.
+Bis.- El Centro Médico Nacional "20 de Noviembre" y los Hospitales Regionales, como unidades administrativas desconcentradas del Instituto, tienen por objeto, el primero, otorgar atención médica integral de alta especialidad, y los segundos, atención médica del tercer nivel a los trabajadores y derechohabientes del mismo, para cuyo efecto contarán con los recursos técnicos y científicos más avanzados acorde a su nivel, que permitan otorgar servicios médicos de excelencia con eficiencia y calidad. La organización, integración y funcionamiento del Centro Médico Nacional "20 de Noviembre" y de los Hospitales Regionales, se establecerá conforme a lo que se disponga en los respectivos manuales de organización que al efecto expida el Director General.
 
-Para su administración y funcionamiento, el Centro Médico Nacional "20 de Noviembre" contará con un Consejo Directivo, presidido por el Director General; y con un Consejo Consultivo, presidido por el Subdirector General Médico del Instituto.
+Para su administración y funcionamiento, el Centro Médico Nacional "20 de Noviembre" y los Hospitales Regionales, contarán, respectivamente, con un Consejo Directivo, presidido, en el Centro Médico Nacional "20 de Noviembre", por el Director General, y en los Hospitales Regionales, por el servidor público que designe el Director General. Asimismo, se auxiliarán de Consejos Consultivos que, en el Centro Médico Nacional "20 de Noviembre", presidirá el Subdirector General Médico del Instituto, y en los Hospitales Regionales los Subdelegados Médicos.
 
-A) El Consejo Directivo tendrá las siguientes funciones:
+A) Los Consejos Directivos del Centro Médico Nacional "20 de Noviembre" y de los Hospitales Regionales, tendrán respecto de dichas unidades administrativas desconcentradas, las siguientes funciones:
 
-I.- Aprobar las políticas generales y las prioridades a que estará sujeto el Centro Médico Nacional "20 de Noviembre", en relación a su productividad, la aplicación financiera y el proceso administrativo, en congruencia con el Plan Nacional de Salud y las políticas y prioridades institucionales;
+I. Aprobar las políticas generales y las prioridades a que estarán sujetos, en relación a su productividad, la aplicación financiera y el proceso administrativo, en congruencia con el Plan Nacional de Salud y las políticas y prioridades institucionales;
 
-II.- Aprobar el anteproyecto anual del Programa Presupuesto del Centro Médico Nacional "20 de Noviembre" y sus modificaciones, así como los proyectos y programas especiales que se determinen necesarios;
+II. Aprobar sus anteproyectos anuales de presupuesto y sus modificaciones, así como los proyectos y programas especiales que se determinen necesarios;
 
-III.- Proponer la estructura orgánica del Centro Médico Nacional "20 de Noviembre", y sus modificaciones;
+III. Proponer su estructura orgánica, y sus modificaciones;
 
-IV.- Aprobar el proyecto de Programa Operativo Anual de Actividades del Centro Médico Nacional "20 de Noviembre", y vigilar los avances del mismo;
+IV. Aprobar sus proyectos de Programas Operativos Anuales, y vigilar los avances de los mismos;
 
-V.- Aprobar las políticas, bases y programas generales que rijan los convenios, contratos o acuerdos que establezca el Centro Médico Nacional "20 de Noviembre" con otros organismos en materia asistencial, de enseñanza y de investigación;
+V. Aprobar las políticas, bases y programas generales que rijan los convenios, contratos o acuerdos que establezcan con otros organismos en materia asistencial, de enseñanza y de investigación;
 
-VI.- Proponer y coadyuvar al desarrollo de estrategias tendientes al mejoramiento y/o resolución de aspectos de orden técnico, administrativo y operacional del Centro Médico Nacional "20 de Noviembre";
+VI. Proponer y coadyuvar al desarrollo de estrategias tendientes al mejoramiento y/o resolución de aspectos de orden técnico, administrativo y operacional;
 
-VII.- Proponer a la Dirección General del Instituto, los nombramientos de los servidores públicos de mandos medios del Centro Médico Nacional "20 de Noviembre";
+VII. Proponer a la Dirección General del Instituto, los nombramientos de los servidores públicos de mandos medios;
 
-VIII.- Aprobar las propuestas presentadas por el Director del Centro Médico Nacional "20 de Noviembre", en cuanto a proyectos de trascendencia administrativa, asistencial y de enseñanza e investigación;
+VIII. Aprobar las propuestas presentadas por los Directores del Centro Médico Nacional "20 de Noviembre" y de los Hospitales Regionales, respectivamente, en cuanto a proyectos de trascendencia administrativa, asistencial y de enseñanza e investigación;
 
-IX.- Aprobar los informes que rinda el Director del Centro Médico Nacional "20 de Noviembre";
+IX. Aprobar los informes que rindan los Directores del Centro Médico Nacional "20 de Noviembre" y de los Hospitales Regionales, respectivamente;
 
-X.- Evaluar los logros operativos y el proceso de gestión administrativa hospitalaria;
+X. Evaluar los logros operativos y el proceso de gestión administrativa hospitalaria;
 
-XI.- Evaluar que el manejo y aplicación de los recursos financieros del Centro Médico Nacional "20 de Noviembre", se efectúen conforme a las disposiciones aplicables;
+XI. Evaluar que el manejo y aplicación de los recursos financieros, se efectúen conforme a las disposiciones aplicables;
 
-XII.- Aprobar la instalación de grupos de trabajo o comisiones para apoyar las funciones del Consejo, y
+XII. Aprobar la instalación de grupos de trabajo o comisiones para apoyar las funciones del Consejo; y
 
-XIII.- Las demás que le señalen otros ordenamientos.
+XIII. Las demás que les señalen otros ordenamientos.
 
-B) El Consejo Consultivo tendrá las siguientes funciones:
+B) Los Consejos Consultivos del Centro Médico Nacional "20 de Noviembre" y de los Hospitales Regionales, tendrán respecto de los Consejos Directivos y Directores de dichos centros hospitalarios, las siguientes funciones:
 
-I.- Proponer al Consejo Directivo y al Director del Centro Médico Nacional "20 de Noviembre", las políticas generales y prioridades a las que deba orientarse el Centro Médico Nacional, en materia asistencial, académica y de investigación;
+I. Proponer las políticas generales y prioridades en materia asistencial, académica y de investigación;
 
-II.- Asesorar al Consejo Directivo y al Director del Centro Médico Nacional "20 de Noviembre", en asuntos de carácter científico-académico;
+II. Otorgar asesoría en asuntos de carácter científico-académico;
 
-III.- Proponer al Consejo Directivo y al Directos (sic) del Centro Médico Nacional "20 de Noviembre", los programas de enseñanza e investigación del Centro Médico Nacional;
+III. Proponer los programas de enseñanza e investigación;
 
-IV.- Proponer al Consejo Directivo y al Director del Centro Médico Nacional "20 de Noviembre", estrategias para el mejoramiento técnico, científico y del proceso asistencial del Centro Médico Nacional;
+IV. Proponer estrategias para el mejoramiento técnico, científico y del proceso asistencial;
 
-V.- Asesorar al Consejo Directivo y al Director del Centro Médico Nacional "20 de Noviembre", en materia de desarrollo de tecnología de vanguardia que coadyuve a mejorar la calidad de la atención médica de alta especialidad que otorga el Centro Médico Nacional;
+V. Brindar asesoría, en materia de desarrollo de tecnología de vanguardia que coadyuve a mejorar la calidad de la atención médica;
 
-VI.- Proponer al Consejo Directivo y al Director del Centro Médico Nacional "20 de Noviembre", esquemas innovadores dirigidos a mejorar el modelo asistencial del Centro Médico Nacional y del sistema de atención médica en general;
+VI. Proponer innovaciones dirigidas a mejorar el modelo asistencial, y el sistema de atención médica en general;
 
-VII.- Aprobar la instalación de los grupos de trabajo o comisiones para apoyar las funciones del Consejo; y
+VII. Aprobar la instalación de los grupos de trabajo o comisiones para apoyar sus funciones; y
 
-VII (sic).- Las demás que le señalen otros ordenamientos.
+VIII. Las demás que les señalen otros ordenamientos.
 
 ### CAPITULO OCTAVO. DE LA COMISION INTERNA DE ADMINISTRACION Y PROGRAMACION
 
@@ -1309,3 +1317,11 @@ D.O.F. 26 DE SEPTIEMBRE DE 1994.
 PRIMERO.- Publíquense las presentes adiciones en el Diario Oficial de la Federación y, en su oportunidad, inscríbanse en el Registro Público de Organismos Descentralizados.
 
 SEGUNDO.- Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE MARZO DE 1995.
+
+PRIMERO.- Publíquense las presentes adiciones y reformas en el Diario Oficial de la Federación y, en su oportunidad, inscríbanse en el Registro Público de Organismos Descentralizados.
+
+SEGUNDO.- Las presentes adiciones y reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- En un plazo de noventa días a partir de la fecha de publicación, deberán expedirse los manuales de organización y procedimientos correspondientes; y dentro de este mismo plazo, quedar constituidos los Consejos a que se refiere el artículo 59-Bis.
