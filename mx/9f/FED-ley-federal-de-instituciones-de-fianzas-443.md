@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1963-12-30"
+last_updated: "1965-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1965.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -881,7 +881,9 @@ Son causas de revocación de las autorizaciones de las instituciones de fianzas,
 
 I.- Que se modifiquen la constitución o las reglas de funcionamiento de la sociedad, en contravención a las disposiciones legales;
 
-II.- Que la mayoría de las acciones de la sociedad pasen a poder de un gobierno extranjero, o que la institución haga gestiones por conducto de una cancillería extranjera;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1965)</small>
+
+II.- Que se infrija (sic) lo establecido en el último párrafo del artículo 3o. o que la institución establezca con las entidades o grupos mencionados en dicho párrafo relaciones evidentes de dependencia, o que la institución haga gestiones por conducto de una cancillería extranjera.
 
 III.- Realizar actividades prohibidas por esta Ley;
 
@@ -978,6 +980,12 @@ Las infracciones a esta ley, a sus reglamentos o a las disposiciones generales d
 ###### ARTICULO 111.
 
 Las sanciones a que se refiere el artículo anterior, serán aplicadas tanto a las instituciones de fianzas como a sus funcionarios o administradores que tengan responsabilidad personal en la comisión de las infracciones.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1965)</small>
+
+###### ARTICULO 111 Bis.
+
+La infracción a lo dispuesto en el último párrafo del artículo 3o. se sancionará, a juicio de la Secretaría de Hacienda y Crédito Público, y según la gravedad del caso, con la pérdida de la participación de capital de que se trate en favor del Gobierno Federal o con la revocación de la autorización respectiva, en los términos del artículo 104.
 
 ###### ARTICULO 112.
 
@@ -1213,6 +1221,10 @@ III.- Su duración será indefinida.
 
 Las instituciones de fianzas podrán emitir acciones no suscritas que se conservarán en la caja de la sociedad, las que serán entregadas a los suscriptores contra el pago total de su valor nominal y de las primas que en su caso, fije la sociedad. Con el importe de estas primas se constituirá una reserva, que podrá ser capitalizada.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1965)</small>
+
+En ningún momento podrán participar en forma alguna en el capital de estas sociedades, gobiernos o dependencias oficiales extranjeros, entidades financieras del exterior, o agrupaciones de personas extranjeras, físicas o morales, sea cual fuere la forma que revistan, directamente o a través de interpósita persona.
+
 ###### ARTICULO 4°.
 
 La escritura social y sus modificaciones deberán ser aprobadas por la Secretaría de Hacienda y Crédito Público, cuando se ajusten a la Ley. La misma ordenará al Registro Público de la Propiedad y de Comercio de la ciudad de México y al del domicilio social, que haga la inscripción correspondiente sin necesidad de mandamiento judicial. La inscripción que se haga en contravención a lo dispuesto por este artículo, no surtirá efecto legal.
@@ -1236,3 +1248,11 @@ Entretanto no se expida el Reglamento respectivo, el límite de responsabilidade
 D.O.F. 30 DE DICIEMBRE DE 1963.
 
 Unico.- Las presentes reformas entrarán en vigor el día 1o. de enero de 1964.
+
+D.O.F. 30 DE DICIEMBRE DE 1965.
+
+PRIMERO.- Las instituciones de fianzas deberán reformar sus escrituras constitutivas para insertar la prohibición a que se refiere el último párrafo del artículo 3o. e incluir en el pacto social que la infracción a dicho precepto producirá la pérdida de la acción o acciones de que se trate en favor de la Nación. Para ajustarse a lo preceptuado en este artículo dispondrán del plazo de un año contado a partir de la fecha en que entren en vigor las presentes reformas.
+
+La Secretaría de Hacienda y Crédito Público tendrá la facultad de autorizar las inversiones en el capital de las instituciones de fianzas que a la fecha se encuentren en poder de alguna de las personas o entidades mencionadas en el último párrafo del artículo 3o.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
