@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1980-03-31"
+last_updated: "1980-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 1980.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -1643,11 +1643,13 @@ b).- Sean hatos de equinos de buena calidad y los sementales finos registrados y
 
 c).- Sean sacrificados en los rastros o fuera de ellos
 
-> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE JULIO DE 1980)</small>
 
 ###### Artículo 171.
 
-La Tesorería General del Estado entregará a la Unión Ganadera Regional de Sonora la cantidad de $6.50 por cabeza de ganado vacuno que se sacrifique o se movilice fuera de la entidad, que como cuota social se han impuesto sus miembros para el cumplimiento de los fines que persigue su organismo.
+La Tesorería General del Estado entregará a la Unión Ganadera Regional de Sonora, por cabeza de ganado vacuno que se sacrifique o movilice fuera de la Entidad, la cantidad equivalente al 5 al millar sobre los precios que fije el Ejecutivo del Estado, a través de la propia Tesorería, para los efectos de la aplicación de la tasa correspondiente y determinación del Impuesto sobre Producción, Sacrificio y Tenencia de Ganado, que como cuota social se han impuesto sus miembros para el cumplimiento de los fines que persigue su organismo.
+
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 1977)</small>
 
 No se entregará el producto de la cuota anterior cuando la Unión Ganadera Regional deje de funcionar conforme a las leyes de la materia, o cuando se compruebe que su producto no se emplea en los fines que las propias leyes indican.
 
@@ -2955,9 +2957,9 @@ Por cada tonelada que se produzca de Elote 20.00
 
 Por cada tonelada que se produzca de pepino 20.00
 
-> <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
+> <small>(REFORMADA, B.O. 14 DE JULIO DE 1980)</small>
 
-IV.- Para el Fomento de la Industria Pecuaria, por cabeza de Ganado Vacuno que se sacrifique o exporte, $6.50.
+IV.- Para el fomento de la Industria Pecuaria, por cabeza de ganado vacuno que se sacrifique o movilice fuera de la Entidad, 5 al millar sobre los precios que fije el Ejecutivo del Estado, para los efectos de la aplicación y determinación del Impuesto sobre Producción, Sacrificio y Tenencia de Ganado.
 
 ###### Artículo 294.
 
@@ -3255,7 +3257,7 @@ cuando se trate de estudiantes, sin adicionales $30.00
 
 ###### Artículo 310.
 
-Los dereArtículo 310.- Los derechos por estos servicios se cobrarán conforme a las siguientes cuotas:
+Los derechos por estos servicios se cobrarán conforme a las siguientes cuotas:
 
 1.- Por registro de documentos que mencionen un
 
@@ -3632,24 +3634,6 @@ de tarifas para vehículos concesionados 7,500.00
 14.- Otros de $1,000.00 a $10,000.00
 
 ### Capítulo Unico
-
-###### Artículo 321.
-
-Los derechos por los servicios que presta el Registro Público de la Propiedad y del Comercio se cobrarán conforme a las siguientes cuotas:
-
-1.- Por examen de todo título o documento,
-
-sea éste público o privado que se presente
-
-al Registro para su inscripción se efectúe ésta
-
-o no, por las primeras dos hojas se cobrarán $50.00
-
-Por lo que exceda de éstas, por cada una $10.00
-
-Sin que esta cuota sea mayor de $150.00
-
-> <small>(REFORMADO, B.O. 3 DE FEBRERO DE 1979)</small>
 
 ###### Artículo 321.
 
@@ -4192,3 +4176,7 @@ TERCERO: Los impuestos, derechos, contribuciones causados conforme a las disposi
 B.O. 31 DE MARZO DE 1980.
 
 UNICO.- Esta ley entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Estado.
+
+B.O. 14 DE JULIO DE 1980.
+
+UNICO.- Esta ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
