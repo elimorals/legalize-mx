@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-10757"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-26"
-last_updated: "1994-12-28"
+last_updated: "1998-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el 26 de mayo de 1989.
 
@@ -901,6 +901,10 @@ III.- Durante el mes de mayo de cada año deberá presentarse la declaración de
 
 Si transcurridos los plazos a que hacen referencia las Fracciones I y III, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efectos el nombramiento respectivo, previa declaración de la autoridad que le corresponda conocer de la declaración patrimonial, substanciando el procedimiento administrativo que establece el Título Tercero de esta Ley, cuya declaratoria se comunicará al Superior Jerárquico y, en su caso, al Supremo Tribunal de Justicia del Estado y al Congreso del Estado, para que procedan en los términos de Ley. Para el caso que omita la declaración contemplada en la fracción II, procede la aplicación de sanción económica por el importe de doce meses de sueldo presupuestal que rija en el momento de la conclusión del encargo y en su caso inhabilitación de su cargo público hasta por cinco años.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 1998)</small>
+
+Transcurrido el término para presentar la declaración a que hace mención la fracción II, sin que ésta se haya presentado, procederá la aplicación de una sanción económica por el importe de dos a doce meses de sueldo presupuestal que rija en el momento de la conclusión del encargo. Lo anterior, sin demérito de la inhabilitación para ocupar cargos públicos de cualquier naturaleza, hasta por cinco años.
+
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE 1994)</small>
 
 ###### ARTICULO 81.
@@ -1002,3 +1006,7 @@ P.O. 28 DE DICIEMBRE DE 1994.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las declaraciones patrimoniales que se efectúen con posterioridad a la vigencia de las reformas, adiciones y derogaciones a la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios de San Luis Potosí que comprende el presente Decreto, estarán a lo dispuesto en las normas vigentes en el momento de formular dichas declaraciones, debiendo turnar la Coordinación General de la Contraloría del Estado, al Congreso del Estado y al Supremo Tribunal de Justicia las declaraciones patrimoniales correspondientes a su competencia, en un plazo no mayor de treinta días naturales contados a partir de la fecha en que entre en vigor el presente Decreto, así como el registro señalado en el segundo párrafo del artículo 89 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí vigente hasta la aprobación de esta iniciativa.
+
+P.O. 20 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
