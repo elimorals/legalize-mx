@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2004-05-28"
+last_updated: "2004-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2004.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -99,7 +99,7 @@ Principio de aplicación personal de la ley.- Las disposiciones de este Código 
 
 ###### Artículo 10.
 
-Principio de especialidad, consunción y subsidiariedad.- Cuando una misma materia aparezca regulada por diversas disposiciones, la especial prevalecerá sobre la general, la de mayor alcance absorverá a la de menor amplitud y la principal excluirá a la subsidiaria.
+Principio de especialidad, consunción y subsidiariedad.- Cuando una misma materia aparezca regulada por diversas disposiciones, la especial prevalecerá sobre la general, la de mayor alcance absorverá (sic) a la de menor amplitud y la principal excluirá a la subsidiaria.
 
 ### CAPITULO V. LEYES ESPECIALES
 
@@ -327,7 +327,7 @@ Fijación de la multa para el delito continuado y permanente.- Por lo que toca a
 
 ###### Artículo 30.
 
-Substitución de la Multa.- Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de élla, la autoridad judicial podrá substituirla total o parcialmente por prestación de trabajo en favor de la comunidad. Cada jornada de trabajo saldará un día multa.
+Substitución de la Multa.- Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial podrá substituirla total o parcialmente por prestación de trabajo en favor de la comunidad. Cada jornada de trabajo saldará un día multa.
 
 Cuando no sea posible o conveniente la substitución de la multa por prestación de servicios, la autoridad judicial podrá decretar la libertad bajo vigilancia, cuya duración no excederá del número de días multa substituido.
 
@@ -621,7 +621,7 @@ Modificación o conclusión de la medida.- La autoridad ejecutora podrá resolve
 
 ###### Artículo 59.
 
-Duración de la medida.- En ningún caso la medida de tratamiento impuesta por el juez penal excederá de la duración que corresponda al máximo de la pena aplicable al delito. Si concluido este tiempo la autoridad ejecutora considera que el sujeto continue necesitando el tratamiento, podrá ampliarlo hasta en una mitad mas del máximo de la pena aplicable al delito.
+Duración de la medida.- En ningún caso la medida de tratamiento impuesta por el juez penal excederá de la duración que corresponda al máximo de la pena aplicable al delito. Si concluido este tiempo la autoridad ejecutora considera que el sujeto continúe necesitando el tratamiento, podrá ampliarlo hasta en una mitad mas del máximo de la pena aplicable al delito.
 
 ### CAPITULO IV. PROHIBICION DE IR A CIRCUNSCRIPCION DETERMINADA O DE RESIDIR EN ELLA
 
@@ -931,7 +931,7 @@ En caso de haberse nombrado fiador para el cumplimiento de las obligaciones cont
 
 Facultad para promover la suspensión.- El reo que considere que al dictarse sentencia reunía las condiciones fijadas para la suspensión de la ejecución de la pena y que está en aptitud de cumplir los requisitos que ésta exige, si es por inadvertencia de su parte o de los Tribunales que no obtuvo en la sentencia el otorgamiento de la suspensión condicional, podrá promover que se le conceda, abriéndosele el incidente respectivo ante el Juez de la causa.
 
-## TITULO QUINTO. EXTINCION DE LA PRETENSION PUNITIVA Y DE LA POTESTAS DE EJECUTAR LAS PENAS Y MEDIDAS DE SEGURIDAD
+## TITULO QUINTO. EXTINCION DE LA PRETENSION PUNITIVA Y DE LA POTESTAS (SIC) DE EJECUTAR LAS PENAS Y MEDIDAS DE SEGURIDAD
 
 ### CAPITULO II. CUMPLIMIENTO DE LA PENA O MEDIDA DE SEGURIDAD
 
@@ -1691,6 +1691,10 @@ Si se hiciere uso de la violencia física o moral, la pena se aumentará de uno 
 
 Cuando se realice la conducta a que se refiere este precepto de manera reiterada, siendo la víctima menor de catorce años, la pena será de seis a diez años de prisión y hasta quinientos días multa.
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2004)</small>
+
+Cuando el delito de abuso sexual fuere cometido por alguna persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido, la pena se aumentará de uno a tres años. En los casos en que la ejerciere, el culpable perderá la patria potestad o la tutela, así como el derecho de heredar del ofendido.
+
 ###### Artículo 181.
 
 Persecución oficiosa.- El delito previsto en el artículo anterior se perseguirá de oficio cuando la persona ofendida sea menor de catorce años o se encuentre en alguno de los casos de incapacidad que establece; fuera de éstos se perseguirá por querella de la parte ofendida o de sus representantes legítimos.
@@ -2187,7 +2191,7 @@ Tipo y punibilidad.- Se impondrá prisión de uno a diez años y multa hasta por
 
 ### CAPITULO UNICO. DELITOS EN MATERIA DE INHUMACION Y EXHUMACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 226.
 
@@ -2279,7 +2283,7 @@ Para los efectos del párrafo anterior, se presume que no se cercioró de la pro
 
 ### CAPITULO III. PROVOCACION DE UN DELITO Y APOLOGIA DE ESTE O DE ALGUN VICIO
 
-> <small>(REFORMADO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 234.
 
@@ -2291,7 +2295,7 @@ Exención o disminución de pena o de arrepentimiento post-factum.- En los casos
 
 ### CAPITULO IV. DELITOS CONTRA EL CONSUMO Y LA RIQUEZA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 235.
 
@@ -2309,7 +2313,7 @@ Insolvencia dolosa para cumplir las obligaciones alimentarias.- Al que dolosamen
 
 ### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION Y A LOS MEDIOS DE TRANSPORTE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 237.
 
@@ -2321,7 +2325,7 @@ Si el agente devuelve al menor o incapaz espontáneamente, dentro de los cinco d
 
 ### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULO
 
-> <small>(REFORMADO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 238.
 
@@ -2381,7 +2385,7 @@ Tipo y punibilidad del delito de incesto.- A los parientes consanguíneos, sean 
 
 ### CAPITULO III. USURPACION DE PROFESIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ### CAPITULO I. CORRUPCION DE MENORES E INCAPACES
 
@@ -2403,7 +2407,7 @@ Se impondrá prisión de seis a catorce años y de dos mil a ocho mil días mult
 
 En todos los casos previstos en este Artículo se decomisarán los objetos, instrumentos y productos de los delitos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 243.
 
@@ -2423,7 +2427,7 @@ Profanación de cadáveres.- La misma pena prevista en el artículo anterior o, 
 
 ### CAPITULO III. ULTRAJES A LA MORAL PUBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 245.
 
@@ -2433,7 +2437,7 @@ I.- Los puñales, cuchillos, verduguillos y demás armas ocultas o disimuladas e
 
 II.- Los boxes, manoplas, macanas, hondas, correas con balas, pesas o puntas y las demás similares.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 246.
 
@@ -2451,7 +2455,7 @@ En todos los casos incluidos en este artículo, además de las sanciones señala
 
 Tipo y punibilidad.- Se impondrá prisión de seis meses a seis años y hasta doscientos días multa al que de manera permanente tomare participación en una asociación o banda de tres o más personas, organizada para delinquir, por el sólo hecho de ser miembro de la asociación e independientemente de la pena que le corresponda por el delito que pudiere cometer o haya cometido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 248.
 
@@ -2511,7 +2515,7 @@ Tipo y punibilidad.- A quien maneje un vehículo de motor en estado de ebriedad,
 
 Cuando se cause daño a las personas o a las cosas o si dentro de este plazo, contado a partir del apercibimiento, el sujeto incurre en la misma conducta prevista en el párrafo anterior, se le impondrá prisión de seis meses a tres años, y la multa de cincuenta a quinientos veces el salario mínimo y suspensión hasta por uno año del derecho a conducir vehículos de motor.
 
-> <small>(REFORMADO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 256.
 
@@ -2635,7 +2639,7 @@ II.- Al que publique por cualquier medio, ejecute o haga ejecutar por otro exhib
 
 III.- Al que de un modo escandaloso invite a otro al comercio carnal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 268
 
@@ -2721,7 +2725,7 @@ A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a o
 
 ### CAPITULO XII. TRAFICO DE INFLUENCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 279.
 
@@ -2833,7 +2837,7 @@ Abandono de funciones.- Las mismas penas del artículo anterior se impondrán al
 
 ### CAPITULO VII. FALSEDAD ANTE LAS AUTORIDADES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 292.
 
@@ -2849,7 +2853,7 @@ II.- Cuando ejerciendo sus funciones o con motivo de ellas, hiciere violencia a 
 
 III.- Cuando indebidamente retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarles o impida la presentación o el curso de una solicitud;
 
-> <small>(REFORMADA, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1998)</small>
 
 IV.- Cuando el encargado de una fuerza pública requerido legalmente por una autoridad civil para que le preste auxilio de manera expedita, se niegue sin causa justificada a dárselo;
 
@@ -2867,13 +2871,13 @@ Los delitos a que se refiere este capítulo producen acción popular.
 
 ### CAPITULO VIII. VARIACION DEL NOMBRE O DEL DOMICILIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 294.
 
 Tipo.- Cometen el delito de coalición: los servidores públicos que se coaliguen para tomar medidas contrarias a una Ley o reglamento, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas.
 
-> <small>(REFORMADO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 295.
 
@@ -2901,7 +2905,7 @@ En ningún caso se devolverá al responsable del delito de cohecho, el dinero o 
 
 ### CAPITULO II. FRAUDE PROCESAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 298.
 
@@ -2923,7 +2927,7 @@ Al servidor público responsable de peculado, se le destituirá e inhabilitará 
 
 ### CAPITULO III. EVASION DE PRESOS
 
-> <small>(REFORMADO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 307
 
@@ -2937,7 +2941,7 @@ La solicitud de reconocimiento médico puede formularla el defensor del detenido
 
 Ninguna declaración o información que haya sido obtenida mediante tortura, podrá invocarse como prueba.
 
-> <small>(REFORMADO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
 Cualquier servidor público que conozca de un hecho de tortura, está obligado a denunciarlo de inmediato y si no lo hiciere se le impondrá de seis meses a seis años de prisión y de quince a sesenta días multa.
 
@@ -2967,7 +2971,7 @@ Punibilidad.- Al servidor público que cometa el delito de concusión se le apli
 
 ### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 302.
 
@@ -2983,7 +2987,7 @@ Utilización indebida de descubrimiento científico, etc.- Igual pena se impondr
 
 ### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 305.
 
@@ -3013,7 +3017,7 @@ Al que cometa el delito de intimidación se le impondrán de dos a seis años de
 
 Tipo y punibilidad.- Se impondrán de dos a ocho años de prisión y de cincuenta a trescientos días de multa, al servidor público que por sí o por interpósita persona:
 
-> <small>(REFORMADA, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1998)</small>
 
 I.- Promueva o gestione la tramitación o resolución de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión; o
 
@@ -3047,7 +3051,7 @@ Peculado impropio.- Al particular que estando obligado legalmente a la custodia,
 
 Tipo y punibilidad.- Al que sin causa legítima rehusare prestar un servicio de interés público que la Ley lo obligue o desobedeciere un mandato legítimo de la autoridad, se le impondrá prisión de seis meses a un año o trabajo en favor de la comunidad de tres a seis meses.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 312.
 
@@ -3191,19 +3195,19 @@ Tipo y punibilidad.- Se aplicará de tres a diez años de prisión al que favore
 
 Excusa absolutoria por razón del parentesco.- El artículo anterior no comprende a los ascendientes, descendientes, cónyuges o concubinos, adoptante o adoptado o hermanos del prófugo, ni a sus parientes por afinidad hasta el segundo grado, pues están exentos de toda sanción, excepto el caso de que hayan proporcionado la fuga por medio de la violencia en las personas o fuerza en las cosas.
 
-> <small>(REFORMADO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 328.
 
 Agravación de la pena.- Se aplicará prisión de cinco a catorce años al que proporcione al mismo tiempo, o en un solo acto, la evasión a varias personas privadas de libertad por la autoridad competente. Si el responsable prestare estos servicios en el establecimiento, quedará además, destituido de su empleo y se inhabilitará para obtener otro durante un período igual al de la pena impuesta.
 
-> <small>(REFORMADO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 329.
 
 Atenuación por aprehensión del evadido.- Si la reaprehensión del prófugo se logrará por gestiones del responsable de la evasión, se aplicará a éste de seis meses a dos años de prisión, según la gravedad del delito imputado al preso o detenido.
 
-> <small>(REFORMADO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 330.
 
@@ -3231,7 +3235,7 @@ La misma pena se aplicará a quien requerido por la autoridad, no dé auxilio pa
 
 Igualmente esta pena se aplicará al que no procure por los medios lícitos que tenga a su alcance impedir la consumación de los delitos que sepa van a cometerse o se estén cometiendo, si son de los que se persiguen de oficio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 335.
 
@@ -3239,11 +3243,11 @@ Exclusión de pena en virtud del parentesco y otro vínculo.- No se impondrá pe
 
 I.- Los ascendientes o descendientes consanguíneos o por adopción;
 
-> <small>(REFORMADA, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1998)</small>
 
 II.- El cónyuge, concubinario o concubina y parientes colaterales por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo;
 
-III.- (DEROGADA, P.O 12 DE JUNIO DE 1998)
+III.- (DEROGADA, P.O. 12 DE JUNIO DE 1998)
 
 La excusa no favorecerá a quien obre por motivos reprochables o emplee medios delictuosos.
 
@@ -3774,3 +3778,7 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su pub
 P.O. 28 DE MAYO DE 2004.
 
 ÚNICO.- La presente adición al Código Penal para el Estado de Baja California, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE JUNIO DE 2004.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
