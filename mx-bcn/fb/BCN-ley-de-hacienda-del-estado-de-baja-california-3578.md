@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1980-06-10"
+last_updated: "1980-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1980.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -75,6 +75,8 @@ I.- La propiedad de predios urbanos.
 
 II.- La propiedad de predios rústicos.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DE LA SIGUIENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 III.- La posesión ejidal.
 
 IV.- La posesión de predios urbanos y rústicos en los casos siguientes:
@@ -125,6 +127,8 @@ c).- En ausencia del valor catastral, el valor del avalúo que al efecto ordene 
 
 II.- Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean co-propietarios del terreno en que se encuentre construído el edificio, así como de sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, la Dirección de Catastro determinará el Valor Catastral que le corresponderá a cada uno y éste entrará en vigor a partir del bimestre siguiente a la fecha en que se haya autorizado previamente la escritura de constitución del condominio. Si éste se constituye sin estar terminadas las construcciones, el Impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron. En estos casos la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del bimestre siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DE LA SIGUIENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 III.- El valor a precio de venta de la producción agropecuaria, que se obtenga durante el año, de los predios ejidales ya sea que se exploten individual o colectivamente.
 
 En aquellos casos que se desconozca el precio de venta, el Ejecutivo del Estado podrá fijar el precio oficial de los diferentes productos en atención a sus calidades, el que servirá de base para los efectos de este Impuesto.
@@ -153,11 +157,15 @@ La cuota del Impuesto que resulte con base en los avalúos y modificaciones entr
 
 El Impuesto Predial se causará y pagará conforme a los términos y las tasas que fije la Ley de Ingresos.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 11.
 
 El Impuesto Predial Ejidal en ningún caso excederá del 5% del total de la producción anual de los ejidos y se causará según la tasa que determine la Ley de Ingresos de conformidad con la rentabilidad de las tierras o el valor por cabeza de ganado.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 ###### ARTICULO 12.
 
@@ -172,6 +180,8 @@ El pago del Impuesto se hará en la Recaudación de Rentas que corresponda, medi
 I.- Por bimestres adelantados durante los primeros veinte días de cada bimestre
 
 II.- Por anualidades adelantadas dentro del primer bimestre de cada año.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DE LA SIGUIENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 III.- Tratándose de predios sujetos al régimen ejidal o comunal el pago deberá hacerse ajustándose a las normas generales que señalan las disposiciones que en materia de productos agropecuarios contiene esta Ley:
 
@@ -203,11 +213,15 @@ IV.- En todos los casos de operaciones en las que no se transmita el dominio, so
 
 V.- Los funcionarios y empleados del Gobierno del Estado, que dolosamente expidan constancias de que los causantes se encuentran al corriente en los pagos del Impuesto Predial.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 15.
 
 Las sociedades, agrupaciones, empresas agrícolas, avícolas o ganaderas, agentes aduanales o personas físicas que maquilen, refaccionen, compren de primera mano o reciban para su guarda productos naturales o de cultivo ejidales que conforme a esta Ley están afectos al pago de este Impuesto, exigirán al productor que compruebe, con anticipación a la operación que realicen, que ha sido cubierto este impuesto, y si no se acredita deberán retener y enterar su importe los días del primero al veinte del siguiente mes.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 ###### ARTICULO 16.
 
@@ -953,17 +967,25 @@ El Secretario de Finanzas y los Recaudadores de Rentas, son las únicas autorida
 
 ### CAPITULO IV. Impuesto Sobre Producción Agropecuaria
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 ###### ARTICULO 97.
 
 Es objeto del Impuesto Sobre Producción Agropecuaria, la producción agrícola, avícola y ganadera que se obtenga en el Estado.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 ###### ARTICULO 98.
 
 Son causantes de este impuesto las personas físicas, morales o unidades económicas cuya actividad consista en la producción agrícola, avícola o ganadera.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 ###### ARTICULO 99.
 
 El impuesto se causará y pagará de acuerdo con las bases, tasas o cuotas que señale la Ley de Ingresos.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 1974)</small>
 
@@ -979,11 +1001,15 @@ II.- Ante la primera autoridad fiscal competente que requiera su pago.
 
 III.- Tratándose de producción avícola, deberá efectuarse el pago en forma mensual presentando su declaración en las formas autorizadas por la Secretaría de Finanzas.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 101.
 
 Por los productos en consignación, tránsito, depósito o cualquier otra forma en la que no se transmita el dominio, deberá garantizarse el interés fiscal en la Recaudación de Rentas correspondiente en los términos que establece el Código Fiscal del Estado.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 (REFORMADO, P.O. 31 DE ENERO DE 1976) (F. DE E., P.O. 20 DE MARZO DE 1976)
 
@@ -991,9 +1017,13 @@ Por los productos en consignación, tránsito, depósito o cualquier otra forma 
 
 Son solidariamente responsables de este impuesto las personas físicas, morales o unidades económicas y agentes aduanales que adquieran, operen, manejen o refaccionen los productos gravados por este impuesto, quienes tendrán la obligación de cerciorarse de que los impuestos correspondientes han sido cubiertos, y en caso contrario deberán retenerlos y enterarlos dentro de los días comprendidos del primero al veinte de cada mes.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 ###### ARTICULO 103.
 
 Todo tenedor de productos gravados por este impuesto, está obligado a comprobar el pago del impuesto en el momento en que sea requerido por las autoridades fiscales y la falta de comprobación dará lugar al cobro del impuesto y en caso de no liquidar su importe, se procederá a garantizar el interés fiscal.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 1974)</small>
 
@@ -1013,6 +1043,8 @@ III.- Tratándose de producción ganadera presentar declaración mensual de movi
 
 IV.- Cumplir las que señale esta Ley y demás disposiciones fiscales relativas.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 ###### ARTICULO 105.
@@ -1025,23 +1057,33 @@ Tratándose de productos agrícolas de procedencia ejidal, que se produzcan en e
 
 II.- A presentar a la Recaudación de Rentas de su jurisdicción, dentro de los días comprendidos del primero al veinte de cada mes, una declaración de los productos adquiridos o recibidos durante el mes anterior, enterando el importe del impuesto retenido en las formas autorizadas por la Secretaría de Finanzas.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 ###### ARTICULO 106.
 
 Queda exceptuada del pago de este Impuesto, la producción ejidal del Estado, en los términos que señala la Ley Federal de Reforma Agraria.
 
 ### CAPITULO V. Impuesto Sobre Venta de Productos Agropecuarios
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 ###### ARTICULO 107.
 
 Son objeto del Impuesto Sobre Venta de Productos Agropecuarios, las operaciones por las cuales se trasmita el dominio de los productos agrícolas, avícolas o ganaderos que por primera vez se realicen o surtan sus efectos dentro del Estado.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 ###### ARTICULO 108.
 
 Son causantes de este Impuesto las personas físicas, morales o unidades económicas que efectúen operaciones en las que se trasmita el dominio de productos agrícolas, avícolas y ganaderos, que se realicen o surtan sus efectos dentro del Estado. No son causantes de este impuesto los sujetos del Impuesto sobre Producción Agropecuaria.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 ###### ARTICULO 109.
 
 El Impuesto se causará con base en las operaciones por las cuales se trasmita el dominio de productos agrícolas, avícolas y ganaderos, y se pagará de acuerdo con la tarifa que señale la Ley de Ingresos.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
 
@@ -1057,11 +1099,15 @@ II.- Ante la primera autoridad fiscal que requiera de pago.
 
 III.- Mediante declaración mensual presentada los días comprendidos del 1o. al 10 de cada mes.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 111.
 
 Por los productos en consignación, en tránsito, depósito o cualquier otra forma en la que no se transmita el dominio, deberá garantizarse el interés fiscal en la Recaudación de Rentas correspondiente en los términos que establece el Código Fiscal del Estado.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
@@ -1069,9 +1115,13 @@ Por los productos en consignación, en tránsito, depósito o cualquier otra for
 
 Son solidariamente responsables del pago de este impuesto las personas físicas, morales o unidades económicas y agentes aduanales que adquieran, operen, manejen o refaccionen productos gravados por este impuesto, quienes tendrán la obligación de cerciorarse de que los impuestos han sido cubiertos y en caso contrario deberán retenerlos y enterarlos dentro de los días comprendidos del primero al veinte de cada mes.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 ###### ARTICULO 113.
 
 Todo tenedor está obligado a comprobar el pago del Impuesto en el momento en que sea requerido por las autoridades fiscales y la falta de comprobación dará lugar al cobro del Impuesto y en caso de no liquidar su importe, se procederá a garantizar el interés fiscal.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
@@ -1092,6 +1142,8 @@ III.- Pagar el impuesto conforme lo señale la Ley de Ingresos del Estado.
 IV.- Presentar una declaración mensual de movimiento de productos agropecuarios dentro de los días comprendidos del primero al veinte de cada mes.
 
 V.- Cumplir las demás que señalen esta Ley y demás disposiciones fiscales relativas.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -1141,19 +1193,27 @@ DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTA
 
 Impuesto Sobre Adquisición de Algodón
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 121.
 
 Son objeto del Impuesto Sobre Adquisición de Algodón las operaciones de compra-venta de algodón en pluma y semilla de algodón que se realicen en el Estado, que surtan efectos dentro de él o que se celebren respecto de estos Artículos, producidos en el Estado.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 ###### ARTICULO 122.
 
 Son sujetos de este Impuesto las personas físicas, morales o unidades económicas que adquieran algodón en pluma y semilla de algodón.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 ###### ARTICULO 123.
 
 Este Impuesto se causará con base en el precio de la operación de adquisición de algodón en pluma y el volumen de semilla de algodón adquirida, y se pagará conforme a la tasa que fije la Ley de Ingresos del Estado.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 (REFORMADO, P.O. 31 DE ENERO DE 1976) (F. DE E., P.O. 20 DE MARZO DE 1976)
 
@@ -1161,11 +1221,15 @@ Este Impuesto se causará con base en el precio de la operación de adquisición
 
 Los causantes del impuesto deberán pagarlo mensualmente dentro de los días del primero al veinte de cada mes, conforme a las compras efectuadas en el mes inmediato anterior, mediante la presentación de una declaración ante la Recaudación de Rentas correspondiente en las formas autorizadas por la Secretaría de Finanzas.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 ###### ARTICULO 125.
 
 Son retenedores y responsables solidarios del pago de este impuesto, los despepitadores de algodón, los molinos de semilla y cualesquiera otra persona física o moral o unidad económica que intervenga directa o indirectamente en las operaciones de compra-venta de algodón y semilla de algodón.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 ###### ARTICULO 126.
 
@@ -1689,9 +1753,9 @@ V.- El Impuesto Sobre Hospedaje;
 
 VI.- El Impuesto Sobre Actividades Mercantiles e Industriales solo por lo que se declare exento en el Artículo 56, de esta Ley;
 
-> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 1973)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1980)</small>
 
-VII.- Los causantes del impuesto Federal Sobre Ingresos Mercantiles;
+VII.- Los derechos que se causen por los servicios prestados por los Organismos Descentralizados del Estado respecto de los cuales se pague el Impuesto al Valor Agregado;
 
 > <small>(ADICIONADA, P.O. 20 DE JUNIO DE 1975)</small>
 
@@ -2004,3 +2068,9 @@ Las disposiciones que establece el presente Decreto entrarán en vigor a partir 
 P.O. 10 DE JUNIO DE 1980.
 
 UNICO.- El presente Decreto tendrá vigencia a partir del día 1o. de junio del año en curso, previa publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
+
+P.O. 31 DE DICIEMBRE DE 1980.
+
+PRIMERO.- Los efectos del presente Decreto se consideran a partir del día 1o. de Noviembre de 1980.
+
+SEGUNDO.- Publíquese en el Periódico Oficial Organo del Gobierno del Estado de Baja California.
