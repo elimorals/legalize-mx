@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2000-03-24"
+last_updated: "2000-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2000.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -213,11 +213,15 @@ En el supuesto previsto en el artículo anterior, si la Autoridad a quien se rem
 
 Cuando las partes en el juicio estimen que no es competente el Juez que conoce del proceso, podrán pedirle que se inhiba del conocimiento, siendo aplicables, además las siguientes disposiciones:
 
-I.- El auto en que se acepte o niegue la inhibición es recurrible en queja, la cual no suspende el procedimiento;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2000)</small>
 
-II.- La resolución que acepte la inhibición no tendrá el efecto de nulificar lo actuado por el Juez declarado incompetente;
+I.- El auto en que se acepte o niegue la inhibición es recurrible en apelación, la cual no suspende el procedimiento.
 
-III.- La resolución que declare incompetente al Juez, sea por haber aceptado éste la inhibitoria, o por haberlo resuelto así el Tribunal en la queja, no tendrá el efecto de nulificar lo actuado por aquel Juez.
+II.- La resolución que acepte la inhibición no tendrá el efecto de nulificar lo actuado por el Juez declarado incompetente.
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2000)</small>
+
+III.- La resolución que declare incompetente al Juez, sea por haber aceptado éste la inhibitoria, o por haberlo resuelto así el Tribunal en la apelación, no tendrá el efecto de nulificar lo actuado por aquel Juez.
 
 #### SECCION TERCERA.- AUXILIARES DE LA ADMINISTRACION DE JUSTICIA EN MATERIA DE DEFENSA SOCIAL
 
@@ -3282,6 +3286,16 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 24 DE MARZO DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE NOVIEMBRE DE 2000.
 
 ###### ARTÍCULO PRIMERO.
 
