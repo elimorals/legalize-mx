@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "1999-06-04"
+last_updated: "1999-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO PENAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -1541,17 +1541,23 @@ Comete el delito de corrupción de menores el que procure o facilite su depravac
 
 Cuando los actos de corrupción se realicen reiteradamente sobre el menor y debido a ello éste adquiera los hábitos del alcoholismo, uso de sustancias tóxicas u otras que produzcan efectos similares, se dedique a la prostitución o las prácticas homosexuales, o forme parte de una asociación delictuosa, la pena de prisión será de cinco a diez años y multa, de cien a cuatrocientos días de salario.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+A quien en ejercicio de la patria potestad, tutor, padrastro, madrastra o custodio, o persona que tenga bajo su cuidado a un menor, representado, hijastro o similar, lo explote en cualquiera forma o le permita o induzca a exponerse a actividades de alto riesgo para su integridad física, emocional y moral, tales como el pernoctar o vivir en las calles y realizar actividades remuneradas en las calles o espacios públicos, se le aplicará la pena prevista en el primer párrafo de este artículo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
+Se entiende por explotación el hecho de que un adulto, teniendo otras alternativas para apoyar la economía familiar, permita o induzca a que uno o más menores a su cargo trabajen con fines económicos, o cuando el ingreso aportado por el menor sea utilizado con objetivos ajenos a su desarrollo sano e integral y el de su familia. Si como consecuencia de la explotación a que se refiere el párrafo anterior, el menor adquiere los hábitos que se mencionan en el segundo y tercer párrafos de este propio artículo, se duplicará la pena mencionada en el primer párrafo, a quien procuró la explotación.
+
 Si además de los delitos previstos en este capítulo resultare cometido otro, se aplicarán las reglas de acumulación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
 
 ###### Art. 177.
 
-Queda prohibido emplear a menores de dieciséis años en cantinas, tabernas y centros de vicio. La contravención a esta disposición se castigará con prisión de tres días a un año, multa de dos a treinta días de salario mínimo, además, con cierre definitivo del establecimiento en caso de reincidencia. Incurrirán en la misma pena los padres o tutores que acepten que sus hijos o menores bajo su tutela o guarda, se empleen en los referidos establecimientos.
+Queda prohibido emplear o permitir el acceso a menores de dieciocho años de edad en cantinas, tabernas y centros de vicio. La contravención a esta disposición se castigará con prisión de tres días a un año, multa de dos a treinta días de salario mínimo general diario vigente en el Estado, además con cierre definitivo del establecimiento en caso de reincidencia. Incurrirán en la misma pena los padres o tutores que acepten que sus hijos o menores bajo su tutela o guarda, se empleen en los referidos establecimientos.
 
-Para los efectos de este precepto se considerará como empleado en la cantina, taberna y centro de vicio al menor de dieciséis años que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumento, o gratuitamente, preste sus servicios en tal lugar.
-
-Para los efectos de este precepto se considerará como empleado en la cantina, taberna y centro de vicio al menor de dieciséis años que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumento, o gratuitamente, preste sus servicios en tal lugar.
+Para los efectos de este precepto se considerará como empleado en la cantina, taberna y centro de vicio, al menor de dieciocho años que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje, emolumento o gratuitamente, preste sus servicios en tal lugar.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
 
@@ -2973,6 +2979,8 @@ Cuando haya pendiente un juicio en averiguación de un delito imputado a alguien
 
 ### CAPITULO II. ABIGEATO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
 ###### Art. 325.
 
 No se podrá proceder contra el autor de una injuria, difamación o calumnia, sino por queja de la persona ofendida, excepto en los casos siguientes:
@@ -3187,29 +3195,33 @@ IV.- Además de la pena que corresponda conforme a las fracciones anteriores, se
 
 ###### Art. 349.
 
-Comete el delito de abigeato el que se apodere de uno o más semovientes de las especies bovina, caballar, asnal, mular, ovina, caprina o porcina o de una o más colonias de abejas en un apiario, o de cualquier otra especie, sin derecho y sin consentimiento de quien legalmente pueda disponer de ellos, independientemente del lugar en que se encuentren y de que formen o no hato.
+Comete el delito de abigeato el que se apodere de uno o más semovientes de las especies bovina, caballar, asnal, mular, ovina, caprina o porcina, o de una o más colonias de abejas, en un apiario, o de cualquier otra especie, sin derecho y sin consentimiento de quien legalmente pueda disponer de ellos, independientemente del lugar en que se encuentren y de que formen o no hato. Este delito se sancionará de la forma siguiente:
 
-Este delito se sancionará en la forma siguiente:
+I.- Con prisión de tres a cinco años y multa que podrá ascender hasta el valor de los semovientes sustraídos, cuando se cometa en una o dos piezas de ganado bovino, caballar o mular.
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 1993)</small>
+Con prisión de seis a quince años y multa que podrá ascender hasta por el valor de los semovientes sustraídos, si se realiza en tres o más piezas del mismo ganado;
 
-I.- Al responsable del delito de abigeato consumado en ganado bovino, caballar o mular, se le sancionará con prisión de tres a doce años y multa de doscientos a quinientos días de salario mínimo;
+II.- Con prisión de dos a cuatro años y multa que podrá ascender hasta el valor de las piezas sustraídas, cuando se cometa en una o dos piezas de ganado asnal, ovino, caprino o porcino.
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 1993)</small>
+Con prisión de cuatro a ocho años y multa que podrá ascender hasta el valor de las piezas sustraídas, si se realiza en tres o más piezas del mismo ganado;
 
-II.- Al que consuma el delito en ganado asnal, ovino, caprino o porcino, se le impondrá prisión de dos a seis años y multa de cien a doscientos cincuenta días de salario mínimo;
+III.- Con prisión de dos a cuatro años y multa de cien a doscientos días de salario mínimo, si se cometiere en una colonia de abejas en un apiario.
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 1993)</small>
+Con prisión de cinco a doce años y multa de doscientos a cuatrocientos días de salario mínimo, si se consuma en dos o más colonias de abejas en un apiario; y
 
-III.- Si se cometiere en una o más colonias de abejas en un apiario, se sancionará con prisión de dos a nueve años y multa de cien a doscientos cincuenta días de salario mínimo.
+IV.- Con agravación hasta en una tercera parte de las anteriores penas, si el delito lo cometieren vaqueros, pastores o cualesquiera otros encargados de la custodia, vigilancia o traslado de los animales.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
 
 ###### Art. 350.
 
-Las mismas sanciones que señala el artículo 349 se aplicarán a los que adquieran ganado robado según su especie, así como a las autoridades que intervengan en la legalización de documentos que acrediten la propiedad del semoviente, o encargados de rastros o lugares destinados a este fin, si no tomaren las medidas indispensables para cerciorarse de la procedencia legítima del mismo.
+Las mismas sanciones que señala el artículo 349, atendiendo a su número y especie, se aplicarán a los que adquieran ganado robado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
 
 ###### Art. 351.
 
-Las sanciones que establece el artículo 349 aumentadas en una tercera parte, se aplicarán a los vaqueros, pastores o cualquier otro encargado de la custodia, vigilancia o traslado de los animales, que cometan el delito de abigeato.
+A las autoridades que intervengan en la legalización de los documentos que acrediten la propiedad del semoviente, o encargados de rastros o lugares destinados a este fin, si no tomaren las medidas indispensables para cerciorarse de la procedencia legítima del mismo, se les impondrá como sanción de dos a cinco años de prisión y multa de cincuenta a doscientos días de salario mínimo.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
@@ -3223,9 +3235,11 @@ Al que para encubrir a otro, ampare con documentos una o más cabezas de ganado 
 
 Al que lucre con pieles, carnes u otros derivados obtenidos del ilícito de abigeato, sin haber tomado las medidas necesarias para cerciorarse de su legal procedencia, se le impondrán prisión de dos a cinco años y de cien a doscientos cincuenta días multa.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+
 ###### Art. 354.
 
-El que hierre o marque ganado ajeno que no estuviere marcado o herrado y el que lo transhierre o le altere sus fierros o marca, será castigado con las penas que establece el artículo 349 según su especie.
+Al que altere o elimine las marcas o señales, marque, señale, contramarque o contraseñale ganado ajeno, sin consentimiento de quien legalmente pueda otorgarlo, se le impondrá como sanción de uno a cinco años de prisión y multa de veinte a trescientos días de salario mínimo.
 
 ###### Art. 355.
 
@@ -3517,10 +3531,6 @@ Si los encubridores fuesen representantes legales de empresas pesqueras, congela
 
 Los jueces, teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que consigna el artículo 49, podrán imponer en los casos de encubrimiento a que se refieren las fracciones III, IV y V del artículo 376, en lugar de las sanciones establecidas en dicho artículo, hasta las dos terceras partes de la que correspondería al autor del delito; debiendo hacer constar especialmente en la sentencia las razones en que se funda para señalar la sanción que autoriza este artículo.
 
-(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 1991) (F. DE E., P.O. 7 DE ENERO DE 1991)
-
-TITULO VIGESIMOSEPTIMO
-
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 1991)</small>
 
 ###### Art. 379.
@@ -3616,6 +3626,10 @@ III.- Destine fondos o bienes que tenga a su disposición en virtud de su cargo 
 ###### Art. 386.
 
 Se impondrá sanción de suspensión de sus derechos políticos por un año a quienes, habiendo sido electos diputados o presidente, regidor o síndico de un Ayuntamiento o Junta Municipal o comisario municipal, no se presenten, sin causa justificada a juicio del Congreso, a desempeñar el cargo dentro del plazo señalado por la ley.
+
+(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 1991) (F. DE E., P.O. 7 DE ENERO DE 1991)
+
+TITULO VIGESIMOSEPTIMO
 
 ## ARTICULOS TRANSITORIOS
 
@@ -3724,3 +3738,9 @@ Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que 
 P.O. 4 DE JUNIO DE 1999.
 
 Primero: El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 1999.
+
+Primero: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo: Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
