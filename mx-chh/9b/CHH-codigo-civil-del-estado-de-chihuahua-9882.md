@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2000-08-26"
+last_updated: "2000-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2000.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1781,6 +1781,18 @@ III.- Si incumple con su deber de proporcionar alimentos al adoptante.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
+C) ADOPCION PLENA
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
 D) ADOPCION INTERNACIONAL
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
@@ -1792,18 +1804,6 @@ D) ADOPCION INTERNACIONAL
 387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
 
 Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-C) ADOPCION PLENA
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
-
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
 
 ### CAPITULO I. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LA PERSONA DE LOS HIJOS
 
@@ -5403,7 +5403,7 @@ II.- A falta de los anteriores, la Beneficencia Pública.
 
 1520.- El cónyuge recibirá las porciones que le correspondan conforme a los dos artículos anteriores, aunque tenga bienes propios.
 
-1521.- A falta de descendientes, ascendientes o hermanos, el cónyuge sucederá en todos lo bienes.
+1521.- A falta de descendientes, ascendientes o hermanos, el cónyuge sucederá en todos los bienes.
 
 ### CAPITULO V. DE LA SUCESION DE LOS COLATERALES
 
@@ -5892,6 +5892,40 @@ IV.- Porque el consentimiento no se haya manifestado en la forma que la ley esta
 1690.- La facultad de rescindir las obligaciones se entiende implícita en las recíprocas, para el caso de que uno de los obligados no cumpliere lo que le incumba. Sólo pueden rescindirse las obligaciones que en sí mismas son validas.
 
 1691.- Si el obligado en un contrato dejare de cumplir su obligación, podrá el otro interesado exigir judicialmente el cumplimiento de lo convenido o la rescisión del contrato, y en uno y otro caso, el pago de daños y perjuicios.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2000)</small>
+
+1691-A.- En los contratos conmutativos unilaterales y bilaterales de ejecución diferida, continuada o de tracto sucesivo, el consentimiento se entiende otorgado en las condiciones y circunstancias generales existentes al momento de su celebración.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2000)</small>
+
+1691-B.- Cuando en cualquier momento de la ejecución de los contratos a que se refiere el artículo anterior, varíen las condiciones generales del medio en que debería tener cumplimiento, por acontecimientos extraordinarios que no pudieron razonablemente preverse por las partes al momento de su celebración y que de llevar adelante los términos aparentes en la convención resultaría una prestación que denote una falta de equidad que no corresponde a la causa del contrato celebrado, podrá el interesado solicitar la rescisión del contrato o una modificación equitativa en la forma y modalidades de ejecución.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2000)</small>
+
+1691-C.- Si el interesado opta por la modificación equitativa en la forma y modalidades de la ejecución del contrato, solo serán materia de ello las prestaciones que deban ser cubiertas con posteridad al acontecimiento extraordinario que motivó la alteración que tornó difícil o imposible el cumplimiento de las obligaciones a cargo de las partes.
+
+Las modificaciones también serán procedentes en aquellos casos en que la indexación de prestaciones acordadas por las partes y el cambio de circunstancias a que se ha hecho alusión, originen que la obligación a cargo de una de ellas se torne inequitativa por su excesiva onerosidad.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2000)</small>
+
+1691-B (SIC).- Si el interesado optare por la rescisión del contrato, se estará a lo previsto en el artículo 2189.
+
+El demandado podrá oponerse a la rescisión, proponiendo las modificaciones suficientes al contrato para reducirlo equitativamente, atendiendo siempre a la buena fe.
+
+El Juez, oyendo a las partes, resolverá lo que proceda, acorde a la buena fe y a la equidad de intereses.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2000)</small>
+
+1691-E.- Sólo se considerarán como acontecimientos extraordinarios aquellos eventos imprevisibles de carácter general, que producen alteraciones inicuas en lo pactado por las partes, tales como las circunstancias que alteran la situación económica nacional, estatal o regional u otras análogas, de tal manera que de haberlas conocido los contratantes, no habrían pactado en la forma y términos en que lo hicieron o no hubieran contratado.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2000)</small>
+
+1691-F.- Para poder ejercitar cualquiera de las acciones previstas en el artículo 1691-b, el obligado deberá estar cumpliendo conforme a lo pactado hasta antes del acontecimiento inusitado.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2000)</small>
+
+1691-G.- La prescripción de las acciones previstas en el artículo 1691-b, será igual al término que concede la Ley para el ejercicio de la acción de cumplimiento o rescisión para cualquiera de las partes, según sea el contrato de que se trate.
 
 DE LA CAPACIDAD
 
@@ -7665,13 +7699,17 @@ II.- La restitución se hará en el domicilio del mutuario, observándose en su 
 
 2290.- El interés es legal o convencional.
 
-2291.- El interés legal es el nueve por ciento anual. El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste el juez teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2000)</small>
+
+2291.- El interés legal es el nueve por ciento anual. El interés convencional es el que fijen los contratantes y puede ser mayor o menor que el interés legal, pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de parte, el juez teniendo en cuenta las especiales circunstancias del caso, podrá modificarlo para establecer una equidad en el monto del mismo, tomando en cuenta el índice inflacionario que publica mensualmente el Banco de México.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
 
 2292.- Si se ha convenio un interés más alto que el legal, el deudor puede reembolsar el capital, cualquiera que sea el plazo fijado para ello, dando aviso al acreedor con dos meses de anticipación y pagando los intereses vencidos a la tasa pactada.
 
-2293.- Las partes no pueden, bajo pena de nulidad, convenir de antemano que los intereses se capitalicen y que produzcan intereses.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2000)</small>
+
+2293.- Las partes no pueden, bajo pena de nulidad, convenir en ningún momento que los intereses se capitalicen y que produzcan intereses.
 
 2294.- Si el mutuario debe intereses y abona algunas cantidades, se aplicarán éstas a los vencidos; y lo que de ellas sobre se imputará al capital.
 
@@ -10056,3 +10094,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 26 DE AGOSTO DE 2000.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE OCTUBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las disposiciones contenidas en el presente decreto, no serán aplicables a los contratos que hayan sido celebrados con anterioridad a la entrada en vigor del mismo.
