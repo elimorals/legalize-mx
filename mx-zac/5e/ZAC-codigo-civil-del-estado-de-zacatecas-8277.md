@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "1988-09-14"
+last_updated: "1991-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1988
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1991.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -67,7 +67,7 @@ El capítulo quinto del libro tercero se recorre al cuarto que reglamenta las se
 
 Se enumeraron las causas de extinción, haciéndolas aplicables tanto a las servidumbres voluntarias como a las legales en forma técnica.
 
-Reformas que se consideran de importancia fueron introducidas en materia de usucapión, puesto que en el artículo 1227 se diferencia el nombre original que se empleó desde el derecho romano, de usucapión (prescripción adquisitiva) y (prescripción negativa) declarando que pueden adquirirse derechos reales en general y no selo el derecho de propiedad.
+Reformas que se consideran de importancia fueron introducidas en materia de usucapión, puesto que en el artículo 1227 se diferencia el nombre original que se empleó desde el derecho romano, de usucapión (prescripción adquisitiva) y (prescripción negativa) declarando que pueden adquirirse derechos reales en general y no solo el derecho de propiedad.
 
 En virtud de que la prescripción es una institución de orden público en este precepto (1232) se admite la renuncia de la prescripción una vez cumplida ésta, pero prohibe la renuncia del derecho de prescribir para lo futuro.
 
@@ -115,7 +115,7 @@ Actualmente son escasas las relaciones entre particulares que no tienen trascend
 
 Los capítulos relativos a obligaciones, constituyen la esencia misma de la técnica jurídica aplicada en el ámbito de los derechos patrimoniales, de la protección de los bienes, por lo que en la revisión, más que introducir reformas de fondo, se tratan de subsanar omisiones, evitar falsas interpretaciones mediante la aclaración de conceptos para hacer la ley entendible, aún a los profanos del derecho; se introducen algunas definiciones teóricas de que carece el Código y para ello se hace un estudio de derecho comparado con algunas legislaciones avanzadas estatales y la vigente en el Distrito Federal; se recibieron orientaciones de las legislaciones más modernas, por ejemplo la de Tlaxcala, que introduce en la definición de hecho y acto jurídico, respecto de las consecuencias jurídicas, un nuevo concepto (conservar) de tal manera que se definen como las fuentes de las obligaciones que por disposición de la ley crean, trasmiten, modifican, conservan o extinguen facultades o derechos jurídicos.
 
-Se reubican los capítulos relativos a los hechos y actos jurídicos, contenidos actualmente en nuestro Código en las disposiciones preliminares, para adicionar el libro correspondiente a obligaciones, ya que aquéllos incuestionablemente constituyen las principales fuentes de las obligaciones.
+Se reubican los capítulos relativos a los hechos y actos jurídicos, contenidos actualmente en nuestro Código en las disposiciones preliminares, para adicionar el libro correspondiente a obligaciones, ya que aquéllos incuestionablemente constituyen las principales, fuentes de las obligaciones.
 
 Se señala que los derechos civiles aún cuando sean de contenido puramente patrimonial también son de interés social.
 
@@ -171,7 +171,7 @@ En las donaciones se protege al donante prohibiéndole transferir su patrimonio 
 
 Por lo que se refiere al contrato de arrendamiento, se pretende adoptar, previa adecuación, las reformas introducidas recientemente en el Distrito Federal, y por tanto se señala que el arrendamiento de fincas urbanas destinadas a la habitación, es de orden público y de interés social, por tanto las normas establecidas al respecto son irrenunciables, se estipula que la duración mínima de todo contrato de arrendamiento de fincas urbanas destinadas a la habitación será de un año forzoso para arrendador y arrendatario que será prorrogable a voluntad del arrendatario, hasta por un año más cuando se encuentre al corriente en el pago de las rentas; se asienta que la renta sólo podrá ser incrementada anualmente, en su caso, pero que tal incremento no podrá exceder del 100% del aumento porcentual vigente al salario mínimo general en el lugar en el que se ubique el inmueble; se otorga plena seguridad a los inquilinos para que tengan preferencia en la adquisición del inmueble cuando el propietario lo ponga en venta, teniendo derecho el arrendatario a que se le notifique en forma legal la oferta, de tal manera que si el propietario no cumple con esta obligación y celebra contrato con tercero aquél será nulo; al efecto se señala como obligación a los notarios, cuando ante su presencia se otorguen contratos de compraventa de casas habitación dadas en arrendamiento, que verifiquen si el propietario cumplió con la obligación de notificar al inquilino la pretendida venta, y en caso contrario no deberá otorgarse la escritura, so pena de nulidad; igualmente se señala que estos derechos del inquilino deberán insertarse literalmente en todos los contratos de arrendamiento, y que la falta de contrato siempre será imputable al arrendador; por último también se señala como obligación a los oficiales del Registro Público, para inscribir contratos de compraventa que versen sobre inmuebles destinados a casa habitación, se cercioren si se cumplió por el vendedor lo relativo al derecho del tanto que corresponde al arrendatario y, en caso contrario, no se inscriba el documento.
 
-Igualmente se establece en este capítulo que quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido, pero igualmente se establece que posteriormente el arrendador que no habitare la casa o no cultivare la finca, será responsable de los daños y perjuicios que hubiere ocasionado a su inquilino. En los contratos de comodato y de depósito se procura sustituir el término de "cosa" por el de "bien", para que sea congruente la redacción con el resto del Código.
+Igualmente se establece en este capítulo que quedan exceptuadas de la obligación de prorrogar el contrato de arrendamiento los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido, pero igualmente se establece que posteriormente el arrendador que no habitare la casa o no cultivare la finca, será responsable de los daños y perjuicios que hubiere ocasionado a su inquilino. En los contratos de comodato y de depósito se procura sustituir el término de "cosa" por el de "bien", para que sea congruente la redacción con el resto del Código.
 
 Respecto de la forma del último contrato mencionado, se estipula que podrá otorgarse el documento privado cuando su valor no exceda de diez cuotas correspondientes al salario mínimo.
 
@@ -1143,7 +1143,7 @@ Ni éste ni el usufructuario tienen que hacerse abono alguno por razón de las l
 
 ### CAPITULO TERCERO. DE LAS OBLIGACIONES DEL USUFRUCTUARIO
 
-310.- El usufructuario, antes de entrar en el goce de los bienes, ésta obligado.
+310.- El usufructuario, antes de entrar en el goce de los bienes, ésta obligado:
 
 I.- A formar a sus expensas, con citación del dueño, un inventario de todos ellos, haciendo tasar los muebles y constar el estado en que se encuentren los inmuebles;
 
@@ -1583,7 +1583,7 @@ II.- En cinco años cuando la posesión sea de mala fe.
 
 462.- La posesión adquirida por medio de un delito se tendrá en cuenta para la prescripción, a partir de la fecha en que haya quedado extinguida la pena o prescrita la acción penal, considerándose siempre dicha posesión como de mala fe.
 
-463.- El que hubiere poseído derechos reales sobre bienes muebles e inmuebles por el tiempo y las condiciones exigidas por este Código, puede adquirirlos por prescripción promoviendo juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido por ende la propiedad. Si no está en el caso de deducir la acción contradictoria de referencia, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva la que se recibirá de acuerdo con las reglas que al efecto señala el Código de Procedimientos Civiles vigente en el Estado.
+463.- El que hubiere poseído derechos reales sobre bienes muebles e inmuebles por el tiempo y las condiciones exigidas por este Código, puede adquirirlos por prescripción promoviendo juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido por ende la propiedad. Si no astá en el caso de deducir la acción contradictoria de referencia, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva la que se recibirá de acuerdo con las reglas que al efecto señala el Código de Procedimientos Civiles vigente en el Estado.
 
 464.- La sentencia ejecutoria que declare procedente la acción de prescripción se inscribirá en el Registro Público y servirá de Título de propiedad al poseedor.
 
@@ -2727,7 +2727,7 @@ VI.- Los mayores de setenta y cinco años.
 
 874.- El albacea que estuviere ejerciendo el cargo mientras se decide sobre su excusa, debe desempeñarlo, bajo la pena establecida en el artículo 871.
 
-875.- El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente, ya que puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos
+875.- El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente, ya que puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos.
 
 876.- El albacea universal está obligado a entregar al especial las cantidades o bienes necesarios para que cumpla la parte del testamento que estuviere a su cargo.
 
@@ -2823,9 +2823,9 @@ En el caso que fueren varios los herederos inconformes, los convenios se harán 
 
 I.- Siempre que el heredero esté ausente o no sea conocido;
 
-II.- Cuando la cuantía de los legados iguale o exceda la porción del heredero albacea;
+II.- Cuando la cuantía de los legados iguale o exceda la porción del heredero o albacea;
 
-III.- Cuando se hagan legados para objetos o personas colectivas de beneficencia pública o privada.
+III.- Cuando se hagan legados para objetos o personas colectivas de beneficencia pública privada.
 
 910.- Los interventores deben tener la capacidad general para contratar y obligarse.
 
@@ -3123,7 +3123,7 @@ Es tácita cuando resulta de hechos o de actos que la presupongan o que autorice
 
 1014.- Es ilícito en general el acto jurídico que se ejecuta en contra de las leyes de orden público o de las buenas costumbres, violando normas prohibitivas.
 
-### CAPITULO TERCERO. DE LA INEXIsTENCIA Y NULIDAD DE LOS ACTOS JURIDICOS
+### CAPITULO TERCERO. DE LA INEXISTENCIA Y NULIDAD DE LOS ACTOS JURIDICOS
 
 1015.- El acto jurídico es inexistente en los siguientes casos:
 
@@ -3733,7 +3733,7 @@ Esta materia se regirá por las disposiciones de la Ley Federal del Trabajo.
 
 1225.- Puede también constituirse una obligación, haciendo depender, tanto su exigibilidad como su resolución, de un hecho pasado, pero desconocido de las partes.
 
-1226.- La condición es suspensiva cuando de su cumplimiento depende la existencia de la obligación
+1226.- La condición es suspensiva cuando de su cumplimiento depende la existencia de la obligación.
 
 1227.- La condición es resolutoria, cuando cumplida resuelve la obligación, volviendo las cosas al estado que tenían como si esa obligación no hubiere existido.
 
@@ -5016,6 +5016,10 @@ III.- Que si se trata de una casa su precio no exceda de cinco mil cuatrocientos
 1669.- De dicho instrumento se formularán cinco tantos para distribuirse entre los interesados, Autoridades Fiscales y Registro Público.
 
 1670.- Si el valor del inmueble excede del equivalente a cien días del salario mínimo vigente en la época de la celebración del contrato, su venta se otorgará en escritura pública.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 1991)</small>
+
+Sin embargo cuando se trate de operaciones o contratos otorgados por la Comisión para la Regularización de la Tenencia de la Tierra, podrán hacerse constar en documento privado celebrado ante dos testigos, que contenga además, la constancia a que se refiere el Artículo 2475 fracción III de este Código.
 
 1671.- La venta de bienes raíces no producirá efectos contra terceros sino después de registrado en los términos prescritos por este Código.
 
@@ -8022,5 +8026,9 @@ LIC. ROBERTO ALMANZA FELIX
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 P.O. 14 DE SEPTIEMBRE DE 1988.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 1 DE MAYO DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
