@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1949-11-05"
+last_updated: "1949-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 1949.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -957,11 +957,13 @@ El Estado se dividirá para su administración Política y Judicial en nueve Mun
 
 Tratándose de elecciones para Diputados Propietarios y Suplentes al Congreso Local, los Municipios de Villa de Alvarez y Minatitlán, formarán un solo Distrito Electoral, así como también los Municipios de Tecomán e Ixtlahuacán.
 
-(REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 5 DE NOVIEMBRE DE 1932)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1949)</small>
 
 ###### Artículo 105.
 
-Cada Municipalidad tendrá cuando menos tres mil habitantes; dentro de ellas las congregaciones en que haya más de mil tendrán la categoría de Pueblo, exceptuándose aquéllas que hayan sido o sean en lo sucesivo declarados Pueblos de conformidad con la Ley Agraria vigente y las que tengan más de doscientos la de Rancherías, siempre que unas y otras posean los elementos suficientes para sostener su categoría convenientemente.
+Cada Municipalidad tendrá cuando menos seis mil habitantes; dentro de ellas las congregaciones en que haya más de mil tendrán la categoría de Pueblo, exceptuándose aquéllas que hayan sido o sean en lo sucesivo declaradas Pueblos de conformidad con la Ley Agraria vigente y las que tengan más de doscientos la de Rancherías, siempre que unas y otras posean los elementos suficientes para sostener su categoría convenientemente.
+
+(REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 5 DE NOVIEMBRE DE 1932)
 
 Si alguna de las Municipalidades a que se refiere el artículo 104 de esta Constitución no reuniere o dejare de llenar los requisitos que fija este artículo, perderá la categoría de Municipalidad, o bien se le agregará el territorio que necesite, a juicio del Congreso.
 
@@ -1536,3 +1538,7 @@ Este Decreto surtirá sus efectos a partir del día de su publicación en el per
 P.O. 5 DE NOVIEMBRE DE 1949.
 
 Este Decreto empezará a surtir sus efectos desde el día quince del presente mes.
+
+P.O. 3 DE DICIEMBRE DE 1949.
+
+Este Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial.
