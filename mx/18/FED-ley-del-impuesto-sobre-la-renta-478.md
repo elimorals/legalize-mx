@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-478"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2001-12-13"
+last_updated: "2002-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO, FRACCION II, DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO SOBRE LA RENTA, PUBLICADA EN EL D.O.F. EL 1 DE ENERO DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación, el Martes 30 de Diciembre de 1980.
 
@@ -6396,6 +6398,8 @@ Para efectos de lo dispuesto en esta fracción se considera pago de interés las
 
 IX.- Los viáticos o gastos de viaje, en el país o en el extranjero, cuando no se destinen al hospedaje, alimentación, transporte, uso o goce temporal de automóviles y pago de kilometraje de la persona beneficiaria del viático o cuando se apliquen dentro de una faja de 50 kilómetros que circunde al domicilio del contribuyente. Las personas a favor de las cuales se realice la erogación, cuando no sea el propio contribuyente, deben tener relación de trabajo con éste, en los términos del Capítulo I de este Título, o deben estar prestando servicios profesionales.
 
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2001)</small>
+
 Tratándose de gastos de viaje destinados a la alimentación, sólo serán deducibles hasta por un monto que no exceda de $ 780.00 diarios por cada beneficiario, cuando los mismos se eroguen en territorio nacional, y $ 1,560.00 diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte. Cuando a la documentación que ampare el gasto de alimentación el contribuyente acompañe la relativa al transporte, deberá además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
 > <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2001)</small>
@@ -8824,11 +8828,9 @@ Las sociedades de fomento y las sociedades promovidas no podrán efectuar la ded
 
 Las sociedades mercantiles controladoras en los términos del Capítulo IV del Título II de la Ley del Impuesto sobre la Renta, cuyo ejercicio fiscal no coincida con el año de calendario, podrán determinar el impuesto del ejercicio conforme a lo dispuesto por el Capítulo IV del Título II de la Ley mencionada por la parte de su ejercicio que sea posterior al 31 de diciembre de 1981 y siempre que cumplan con los requisitos establecidos en la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
 ###### ARTICULO VIGESIMO QUINTO.
 
-Las reformas a los artículos 58 fracciones I y II, 62 primer párrafo, 72 fracción I, 77 fracción XIII, 88 fracciones II y III, 94 fracciones II y III, 95, 112 fracciones II, III y VI, 114 primer párrafo, 136 fracción IV y 140 último párrafo de la Ley del Impuesto sobre la Renta, entrarán en vigor el 1o. de abril de 1983.
+Las reformas a los artículos 58 fracciones I y II, 62 primer párrafo, 72 fracción I, 77 fracción XIII, 88 fracciones II y III, 94 fracciones II y III, 95, 112 fracciones II, III y VI, 114 primer párrafo, 136 fracción IV y 140 último párrafo de la Ley del Impuesto sobre la Renta, entrarán en vigor el 1o. de octubre de 1982.
 
 Los artículos 1o. último párrafo, 11 párrafos primero, segundo y tercero, 58 fracción IX, 61 y 63, de la Ley del Impuesto sobre la Renta, se derogan a partir de la misma fecha en que entre en vigor el citado Código.
 
@@ -13439,3 +13441,973 @@ SEGUNDO.- El Comité Interinstitucional a que se refiere el artículo 15, fracci
 Dentro del Comité mencionado, el Consejo Nacional de Ciencia y Tecnología tendrá voto de calidad en la determinación de los proyectos susceptibles de ser beneficiados con el estímulo fiscal.
 
 TERCERO.- Por el periodo comprendido entre la fecha en que entre en vigor el presente Decreto y el 31 de diciembre de 2001, el monto total de los estímulos fiscales a que hace referencia el artículo 163 de la Ley del Impuesto sobre la Renta, ascenderá a la cantidad prevista en la fracción IX, del artículo 15 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2001.
+
+D.O.F. 1 DE ENERO DE 2002.
+
+Disposiciones Transitorias de la Ley del Impuesto sobre la Renta
+
+Artículo Segundo. En relación con la Ley del Impuesto sobre la Renta a que se refiere el Artículo Primero de este Decreto, se estará a lo siguiente:
+
+I. La Ley del Impuesto sobre la Renta a que se refiere el Artículo Primero del presente Decreto entrará en vigor el 1o. de enero de 2002, salvo que en otros artículos del mismo se establezcan fechas de entrada en vigor diferentes.
+
+II. Se abroga la Ley del Impuesto sobre la Renta de 30 de diciembre de 1980. El Reglamento de la Ley del Impuesto sobre la Renta de 29 de febrero de 1984 continuará aplicándose en lo que no se oponga a la presente Ley y hasta en tanto se expida un nuevo Reglamento.
+
+Las obligaciones derivadas de la Ley que se abroga conforme a esta fracción, que hubieran nacido por la realización, durante su vigencia, de las situaciones jurídicas previstas en dicha Ley, deberán ser cumplidas en las formas y plazos establecidos en dicho ordenamiento.
+
+III. Cuando en la Ley del Impuesto sobre la Renta se haga referencia a situaciones jurídicas o de hecho, relativas a ejercicios anteriores, se entenderán incluidos, cuando así proceda, aquellos que se verificaron durante la vigencia de la Ley del Impuesto sobre la Renta que se abroga.
+
+IV. Los contribuyentes que con anterioridad a la entrada en vigor de la Ley del Impuesto sobre la Renta, hubiesen efectuado inversiones en los términos del artículo 42 de la Ley del Impuesto sobre la Renta que se abroga, que no hubiesen sido deducidos en su totalidad con anterioridad a la entrada en vigor de este artículo, aplicarán la deducción de dichas inversiones conforme a la Sección II del Capítulo II del Título II de la Ley del Impuesto sobre la Renta, únicamente sobre el saldo pendiente por deducir en los términos de la Ley del Impuesto sobre la Renta que se abroga y considerando como monto original de la inversión el que correspondió en los términos de esta última Ley.
+
+V. Los contribuyentes que con anterioridad a la entrada en vigor de la Ley del Impuesto sobre la Renta, hubiesen sufrido pérdidas fiscales en los términos del Capítulo III del Título II de la Ley del Impuesto sobre la Renta que se abroga, que no hubiesen sido disminuidas en su totalidad con anterioridad a la entrada en vigor de este artículo, disminuirán dichas pérdidas en los términos del Capítulo V del Título II de la Ley del Impuesto sobre la Renta, considerando únicamente el saldo de dicha pérdida pendiente de disminuir en los términos de la Ley del Impuesto sobre la Renta que se abroga.
+
+VI. En tanto en las Entidades Federativas entren en vigor nuevos Convenios de Colaboración Administrativa en Materia Fiscal Federal, continuarán vigentes las facultades delegadas en materia del impuesto sobre la renta contenidas en los siguientes convenios y acuerdos:
+
+Convenios de Colaboración Administrativa en Materia Fiscal Federal celebrados por el Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público con las entidades Federativas, en vigor a partir del 1 de enero de 1997, así como sus Acuerdos modificatorios.
+
+Acuerdo a la Secretaría de Hacienda y Crédito Público y al Departamento del Distrito Federal, para la colaboración administrativa de este último en Materia Fiscal Federal, publicado en el Diario Oficial de la Federación el 23 de mayo de 1997 y en vigor a partir del 24 de ese mismo mes y año.
+
+El ejercicio de las facultades delegadas en materia del impuesto sobre la renta, conforme a dichos convenios, se entenderá referido a la Ley del Impuesto sobre la Renta a partir de la fecha de su entrada en vigor.
+
+Los asuntos en materia del impuesto sobre la renta que a la fecha de entrada en vigor de la presente Ley se encuentre en trámite ante las autoridades fiscales de las entidades, serán concluidos por éstas, en los términos de la Ley del Impuesto sobre la Renta que se abroga.
+
+VII. Los contribuyentes obligados a presentar las declaraciones informativas correspondientes en los términos de la Ley del Impuesto sobre la Renta que se abroga, deberán presentar las declaraciones correspondientes al ejercicio que concluye el día anterior a la entrada en vigor de la Ley del Impuesto sobre la Renta, en el mes de febrero de 2002.
+
+VIII. Los contribuyentes que con anterioridad a la entrada en vigor de este artículo, hubiesen constituido fideicomisos en términos del artículo 27 de la Ley del Impuesto sobre la Renta que se abroga, podrán aplicar el estímulo establecido en el artículo 219 de la Ley del Impuesto sobre la Renta, siempre y cuando primero agoten los fondos aportados a dichos fideicomisos, conforme a las disposiciones de la Ley del Impuesto sobre la Renta que se abroga.
+
+IX. Los contribuyentes que con anterioridad a la fecha en que empezaron a tributar conforme a la Sección III del Capítulo VI, del Título IV de la Ley del Impuesto sobre la Renta que se abroga, hubieran pagado el impuesto conforme a la Sección II del citado Capítulo, al artículo 137-C del Reglamento de la misma o hayan sido contribuyentes menores, deberán conservar la documentación comprobatoria a que estaban obligados conforme a las disposiciones fiscales aplicables, por el plazo previsto en el artículo 30 del Código Fiscal de la Federación.
+
+X. Cuando las personas morales que distribuyan dividendos o utilidades hubieran optado por efectuar la deducción inmediata de activos fijos en el ejercicio inmediato anterior a aquél en que hubieren distribuido dividendos, y como consecuencia de ello hayan pagado el impuesto que establecía el artículo 10-A de la Ley del Impuesto sobre la Renta vigente hasta el 31 de diciembre de 1998, podrán acreditarlo en los ejercicios siguientes contra el impuesto que deban pagar conforme al artículo 10 de la Ley del Impuesto sobre la Renta.
+
+El monto total del impuesto por acreditar en los ejercicios siguientes será el que se derive de la diferencia entre la deducción inmediata y la que se hubiera realizado en los términos del artículo 41 de la Ley del Impuesto sobre la Renta que se abroga, correspondiente a los mismos activos fijos. Dicho monto será acreditable en cada ejercicio siguiente, en una cantidad equivalente al impuesto que le corresponda pagar en el mismo, como consecuencia de la no deducibilidad de las inversiones de los activos fijos referidos.
+
+En cada uno de los ejercicios en que se efectúe el acreditamiento a que se refiere el párrafo anterior, para los efectos del artículo 88 de la Ley del Impuesto sobre la Renta, en el ejercicio en que acrediten el impuesto, deberán disminuir de la utilidad fiscal neta calculada en términos de dicho precepto, la cantidad que resulte de dividir el impuesto acreditado entre el factor de 0.5385.
+
+XI. Para los efectos del artículo 47 de la Ley del Impuesto sobre la Renta que se abroga, el plazo de reinversión a que se refiere el cuarto párrafo de dicho precepto podrá seguir aplicándose sobre aquellas cantidades recuperadas en los ejercicios de 2000 y 2001, en los ejercicios de 2002 y 2003, respectivamente.
+
+Los contribuyentes que recuperen cantidades de las señaladas en el párrafo anterior, con posterioridad a la entrada en vigor de la Ley del Impuesto sobre la Renta, deberán estar a lo dispuesto por el artículo 43 de la misma.
+
+XII. Los contribuyentes que hubieren ejercido la opción prevista en el artículo 51 de la Ley del Impuesto sobre la Renta vigente hasta el 31 de diciembre de 1998, deberán mantener el registro específico de dichas inversiones, en los términos de la fracción IV del artículo 58 y de la fracción IV del artículo 112 de la Ley del Impuesto sobre la Renta, vigentes hasta el 31 de diciembre de 1998.
+
+XIII. Los contribuyentes que hubieren optado por efectuar la deducción inmediata de la inversión de bienes nuevos de activo fijo, conforme al artículo 51 de la Ley del Impuesto sobre la Renta vigente hasta el 31 de diciembre de 1998, no podrán deducir la parte no deducida de los mismos. Cuando enajenen los bienes a los que la aplicaron, los pierdan o dejen de ser útiles, excepto en los casos a que se refiere el artículo 10-C de la Ley del Impuesto sobre la Renta que se abroga, calcularán la deducción que por los mismos les hubiera correspondido en los términos de la fracción III del artículo 51-A de dicha Ley, aplicando los porcentajes contenidos en la tabla establecida en la mencionada fracción III del artículo 51-A de dicha Ley vigente hasta el 31 de diciembre de 1998, a la fecha en que ejercieron la opción.
+
+XIV. Los contribuyentes de la Ley del Impuesto sobre la Renta, que hubieran venido realizando actividades empresariales con anterioridad a la entrada en vigor del Decreto que Reforma, Adiciona y Deroga Diversas Disposiciones de la Ley del Impuesto sobre la Renta, publicado en el Diario Oficial de la Federación de 31 de diciembre de 1986, podrán efectuar con posterioridad al 31 de diciembre de 1986, las deducciones siguientes:
+
+a) Las pérdidas cambiarias pendientes de deducir que se hayan originado antes de la entrada en vigor de dicho Decreto, por las que se haya optado por deducirlas en ejercicios posteriores conforme a lo dispuesto por el artículo 26 de la Ley del Impuesto sobre la Renta vigente al 31 de diciembre de 1986.
+
+b) El importe que sea menor entre los inventarios de materias primas, productos semiterminados, productos terminados o mercancías que el contribuyente tenga al 31 de diciembre de 1986 o de 1988.
+
+c) El costo de ventas de las enajenaciones a plazos por las que el contribuyente hubiera optado deducirlo conforme fuera percibido efectivamente el ingreso por dichas enajenaciones, el que sea menor, entre dicho costo pendiente de deducir al 31 diciembre de 1986 o 1988.
+
+Las deducciones a que se refieren los incisos b) y c) de este artículo, sólo podrán efectuarse en el ejercicio en que el contribuyente cambie de actividad empresarial preponderante, entre en liquidación o tratándose de personas físicas dejen de realizar actividades empresariales. Para los efectos de este párrafo se considera cambio de actividad empresarial preponderante cuando el cambio de actividad preponderante implique un cambio por más de tres dígitos en la clave de actividad conforme al catálogo de actividades publicado por la Secretaría de Hacienda y Crédito Público.
+
+Para los efectos de las deducciones a que se refieren los incisos b) y c) de este artículo, el importe del inventario y del costo de ventas por enajenaciones a plazo que conforme a dichas fracciones se tenga derecho a deducir, se ajustará con el factor de actualización correspondiente al periodo comprendido entre diciembre de 1986 o 1988, según a cuál de esos meses corresponda el menor de los inventarios o costo de ventas pendientes de deducir y el mes inmediato anterior a aquel en que el contribuyente cambie de actividad empresarial preponderante, entre en liquidación o tratándose de personas físicas deje de realizar actividades empresariales.
+
+XV. Los contribuyentes que tributaban en la Sección I del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta que se abroga, que hubieran acumulado sus ingresos o efectuado deducciones conforme a dicha Ley, sin que hayan sido efectivamente percibidos o erogadas, ya no deberán ser acumulados ni deducidas para los efectos del Capítulo II del Título IV de la Ley del Impuesto sobre la Renta cuando efectivamente los perciban o los eroguen, según se trate.
+
+XVI. Los contribuyentes que antes de la entrada en vigor de la Ley del Impuesto sobre la Renta tributaron de conformidad con los Títulos II-A y IV, Capítulo VI, Sección II de la Ley del Impuesto sobre la Renta que se abroga, estarán a lo siguiente:
+
+a) Al saldo actualizado de la cuenta de capital de aportación se le sumará el saldo de los pasivos que no sean reservas y, en su caso, el saldo actualizado de la cuenta de utilidad fiscal neta, que se tengan al día inmediato anterior a la fecha en que entre en vigor esta Ley. La actualización de cada una de las cuentas, se efectuará desde el mes en que se actualizaron por última vez y hasta el mes inmediato anterior a aquél en que entre en vigor esta Ley.
+
+b) Se considerará el saldo de los activos financieros que se tengan al último día del mes inmediato anterior a aquél en que entre en vigor esta Ley.
+
+c) Si el monto a que se refiere el inciso a) es menor que el monto a que se refiere el inciso b), de esta fracción, la diferencia se considerará utilidad sujeta al pago del impuesto sobre la renta y aplicarán a dicha utilidad la tasa del 35%. Los contribuyentes adicionarán, en su caso, a la cuenta de utilidad fiscal neta, la utilidad mencionada, disminuida del impuesto sobre la renta pagado por la misma.
+
+Tratándose de contribuyentes que se dediquen a la agricultura, ganadería, pesca o silvicultura, el impuesto que se determine conforme a este inciso se reducirá en los términos establecidos en los artículos 13 y 143 de la Ley del Impuesto sobre la Renta que se abroga.
+
+El impuesto determinado conforme a este inciso se enterará ante las oficinas autorizadas, en el mes siguiente a aquél en que entre en vigor el presente artículo.
+
+No obstante lo dispuesto en el párrafo anterior, los contribuyentes podrán no pagar el impuesto correspondiente, siempre que inviertan un monto equivalente a la utilidad sujeta al pago del impuesto, determinada conforme al primer párrafo de este inciso, en la adquisición de activos fijos que utilicen en su actividad, para lo cual tendrán un plazo inicial de 30 meses, mismo que se podrá prorrogar por otro plazo igual, previa autorización de las autoridades fiscales.
+
+En el caso de que los contribuyentes no efectúen la inversión dentro del plazo señalado en el párrafo anterior, deberán pagar el impuesto correspondiente, actualizado y con los recargos respectivos.
+
+d) Si el monto a que se refiere el inciso a) es mayor que el monto a que se refiere el inciso b) que anteceden, la diferencia se considerará como pérdida fiscal, lacual (sic) podrá disminuirse de la utilidad fiscal o adicionarse a la pérdida fiscal en los términos del Capítulo VII del Título II de esta Ley.
+
+XVII. Para los efectos de lo dispuesto en la Ley del Impuesto sobre la Renta, las asociaciones en participación, estarán a lo siguiente:
+
+a) Los contribuyentes que hubieran celebrado contratos de asociación en participación con anterioridad a la entrada en vigor de este artículo, integrarán la cuenta de capital de aportación a que se refiere el artículo 89 de la Ley del Impuesto sobre la Renta, con las aportaciones efectuadas por sus integrantes, disminuyendo los retiros que de dichas aportaciones se hubiesen efectuado desde la fecha en que se celebró el convenio para su creación, y hasta el día anterior a la entrada en vigor de esta fracción. Para estos efectos, tanto las aportaciones como los retiros se actualizarán desde la fecha en que se realizó la aportación o se efectuó el retiro y hasta el mes inmediato anterior al en que entre en vigor esta fracción.
+
+b) Las asociaciones en participación, para los efectos del cálculo del coeficiente de utilidad de los pagos provisionales a que se refiere el artículo 14 de la Ley del Impuesto sobre la Renta, considerarán el total de los ingresos percibidos por dicha asociación en participación, así como la utilidad fiscal derivada del mismo en el ejercicio que termine con motivo de la entrada en vigor de dicha Ley. En el caso de que no exista utilidad en dicho ejercicio ni en los cinco anteriores, se considerará como coeficiente de utilidad para los efectos de los pagos provisionales, el que corresponda en los términos del artículo 90 de la Ley del Impuesto sobre la Renta.
+
+c) Las personas físicas que únicamente obtengan ingresos por actividades realizadas a través de la asociación en participación, podrán trasmitir a la asociación en participación en que sigan participando, el monto que les corresponde de las pérdidas fiscales generadas en el ejercicio fiscal de 2001, para que dichas pérdidas sean disminuidas por la asociación en participación en los ejercicios subsecuentes. En este caso, la persona física no podrá en ningún caso disminuir dicha pérdida. Por su parte, la asociación en participación disminuirá en los ejercicios siguientes dicha pérdida hasta por el monto de la utilidad fiscal que corresponda al por ciento en que la persona física que trasmite la pérdida participe de dicha utilidad en los términos del convenio por el que se crea la asociación en participación. Para aplicar lo dispuesto en este inciso, se deberá además, cumplir con las reglas de carácter general que al efecto expida el Servicio de Administración Tributaria.
+
+El Servicio de Administración Tributaria, mediante disposiciones de carácter general, podrá establecer las reglas que faciliten la aplicación de lo dispuesto en esta fracción.
+
+XVIII. Para los efectos de lo dispuesto en el artículo 8o. de la Ley del Impuesto sobre la Renta, durante los ejercicios de 2002 y 2003 se considerará que forman parte del sistema financiero las sociedades de ahorro y préstamo.
+
+XIX. Para los efectos del primer párrafo de la fracción III del artículo 133 de la Ley del Impuesto sobre la Renta, los contribuyentes que con anterioridad a la entrada en vigor de este artículo tributaban conforme al Título IV Capítulos II y VI de la Ley del Impuesto sobre la Renta que se abroga y cuenten con comprobantes que reúnen todos los requisitos fiscales, podrán continuar utilizando los comprobantes impresos hasta agotarlos o hasta que termine la vigencia establecida en ellos, lo que suceda primero. Para ello deberán agregar con letra manuscrita, con sello o a máquina la leyenda "efectos fiscales al pago", sin que dicha circunstancia implique la comisión de infracciones o de delitos de carácter fiscal.
+
+XX. Lo dispuesto en las fracciones IV y V del artículo 176 de la Ley del Impuesto sobre la Renta, entrará en vigor a partir del 1o. de enero de 2003.
+
+XXI. Tratándose de los intereses moratorios derivados del incumplimiento de obligaciones, que se hubiesen devengado a favor del contribuyente con anterioridad a la entrada en vigor de esta fracción y que no se hubiesen acumulado por no haber sido efectivamente percibidos, excepto cuando provengan de operaciones contratadas con personas físicas que no realicen actividades empresariales, con residentes en el extranjero o con las personas morales comprendidas en el Título III de la Ley del Impuesto sobre la Renta, dichos intereses se acumularán cuando se expida el comprobante que los ampare o cuando se perciban en efectivo, en bienes o en servicios, lo que ocurra primero. En este caso, quien pague los intereses moratorios generados con anterioridad a la entrada en vigor de esta fracción, sólo podrá deducirlos cuando los pague, si no los hubiese deducido en el momento en que se devengaron.
+
+Para los efectos del párrafo anterior, el componente inflacionario de los créditos y de las deudas de los que deriven intereses moratorios se calculará desde el mes en que se generaron dichos intereses y hasta el mes inmediato anterior a la entrada en vigor de esta fracción conforme a la Ley del Impuesto sobre la Renta que se abroga. El componente inflacionario que resulte se sumará o se restará, según sea el caso, del monto del ajuste anual por inflación acumulable o deducible, según corresponda.
+
+Cuando con posterioridad a la entrada en vigor de este artículo se cancele un crédito o una deuda, contratados con anterioridad a la entrada en vigor de la misma, se cancelará el componente inflacionario de dicho crédito o deuda correspondientes al periodo comprendido desde que se contrataron y hasta la entrada en vigor de este artículo, el monto que resulte de la cancelación del crédito se adicionará a los demás ingresos acumulables del contribuyente o, en su caso, se disminuirá de la pérdida fiscal, del ejercicio en el que se cancele el crédito. Asimismo, el componente inflacionario de la deuda que se cancela se disminuirá de los ingresos acumulables o, en su caso, se adicionará a la pérdida fiscal del ejercicio en que se cancele dicha deuda. Lo dispuesto en esta fracción se aplicará con independencia de lo señalado en el artículo 47 de la Ley del Impuesto sobre la Renta.
+
+XXII. Las personas físicas que tengan pérdidas por créditos incobrables, correspondientes a créditos que se consideraron ingresos acumulables con anterioridad a la entrada en vigor de este artículo, tendrán derecho a efectuar su deducción cuando se haya consumado el plazo de la prescripción que corresponda, o antes, si fuera notoria la imposibilidad práctica de cobro aplicando al efecto lo dispuesto en la fracción XVI del artículo 31 de la Ley del Impuesto sobre la Renta. Si se llegare a recuperar total o parcialmente alguno de los créditos que se hubiesen deducido en los términos de esta fracción, la cantidad percibida se acumulará a los ingresos del ejercicio en que se reciba el pago o se disminuirá, en su caso de la pérdida del mismo.
+
+XXIII. Para los efectos de lo dispuesto en el artículo 53 de la Ley del Impuesto sobre la Renta, no se considerará para el cálculo del ingreso acumulable a que se refiere el cuarto párrafo del artículo citado, los importes que se traspasen a los fideicomisos que se constituyan en aplicación del Programa de Apoyo a la Planta Productiva Nacional.
+
+XXIV. Para los efectos del artículo 55 de la Ley del Impuesto sobre la Renta, el monto original de la inversión de los terrenos y el costo comprobado de adquisición de las acciones que se consideren como créditos, se actualizarán desde la fecha en que se adquirió el bien y hasta la entrada en vigor de la Ley en cita.
+
+XXV. Las instituciones de seguros que hubiesen considerado como deuda la diferencia entre la pérdida y ganancia inflacionarias, en los términos de la fracción II del artículo 53-A de la Ley del Impuesto sobre la Renta que se abroga, deberán disminuir dicha diferencia, hasta agotarla, del ajuste anual por inflación deducible, de ejercicios posteriores o del costo de los activos no financieros cuando éstos se enajenen.
+
+XXVI. Para los efectos del tercer párrafo del artículo 53 de la Ley del Impuesto sobre la Renta, el excedente no deducido en el ejercicio fiscal que termina con motivo de la entrada en vigor de esta fracción, del monto de las reservas preventivas globales constituidas o incrementadas en dicho ejercicio y en el anterior, sólo se podrá deducir en los diez ejercicios siguientes. Asimismo, para los efectos del artículo citado primeramente deberán deducir los excedentes a que se refiere esta fracción hasta agotarse.
+
+XXVII. Los contribuyentes que al 31 de diciembre de 2001, contaban con autorización para determinar su resultado fiscal consolidado en los términos del Capítulo IV del Título II de la Ley del Impuesto sobre la Renta que se abroga, continuarán determinándolo conforme a las disposiciones fiscales establecidas en el Capítulo VI del Título II de la Ley del Impuesto sobre la Renta y demás disposiciones aplicables.
+
+XXVIII. Las sociedades controladoras que con anterioridad a la fecha de entrada en vigor de la Ley del Impuesto sobre la Renta, hayan diferido parte del impuesto correspondiente a los ejercicios de 1999, 2000 y 2001, conforme a lo dispuesto en los artículos 10 y 57-A de la Ley del Impuesto sobre la Renta que se abroga, deberán continuar aplicando lo dispuesto en el Capítulo IV del Título II de la misma Ley y demás disposiciones aplicables, respecto al impuesto diferido a que se refiere el tercer párrafo del artículo 57-A de la Ley del Impuesto sobre la Renta que se abroga, sin que esto implique que puedan optar por diferir parte del impuesto correspondiente a ejercicios terminados con posterioridad a la fecha citada.
+
+El saldo de la cuenta de utilidad fiscal neta consolidada, sólo se podrá disminuir una vez que se hubiere agotado el saldo de la cuenta de utilidad fiscal neta consolidada reinvertida que hubiesen constituido las sociedades controladoras conforme al artículo 57-H-BIS de la Ley del Impuesto sobre la Renta que se abroga.
+
+XXIX. La sociedad controladora que hubiese presentado el aviso a que se refiere el segundo párrafo del inciso a) de la fracción VIII del artículo Quinto del Decreto por el que se Modifican Diversas Leyes Fiscales y Otros Ordenamientos Federales publicado en el Diario Oficial de la Federación de 31 de diciembre de 1998, continuará considerando como sociedades controladas para los efectos del artículo 66 de la Ley del Impuesto sobre la Renta, aquéllas en las que más del 50% de las acciones con derecho a voto continúen siendo propiedad de una o varias sociedades de las que consolidan en el mismo grupo.
+
+XXX. Para calcular el cociente a que se refiere el último párrafo de la fracción I del artículo 68 de la Ley del Impuesto sobre la Renta, la sociedad controladora, en lugar de dividir la participación accionaria promedio diaria correspondiente al ejercicio de 2002 entre la participación accionaria promedio diaria correspondiente al ejercicio de 2001, dividirá la participación accionaria promedio diaria que tenga en la controlada durante el ejercicio de 2002 entre la participación accionaria al cierre del ejercicio de 2001.
+
+El cociente que se obtenga conforme al párrafo anterior será el que en su caso, se aplique en el ejercicio de 2002 para calcular las modificaciones a las utilidades o pérdidas fiscales, a los conceptos especiales de consolidación y al impuesto, correspondientes a los ejercicios de 2001 y anteriores.
+
+XXXI. Para los efectos del artículo 68 de la Ley del Impuesto sobre la Renta, cuando una sociedad controlada tenga pérdidas fiscales de ejercicios anteriores a 1999 pendientes de disminuir que hubiesen sido generadas durante la consolidación fiscal y la controladora las hubiera disminuido en algún ejercicio para determinar su resultado fiscal consolidado o pérdida fiscal consolidada, para efectos de determinar el resultado fiscal consolidado de ejercicios terminados a partir de 2002, la sociedad controladora adicionará las utilidades fiscales de dichas sociedades controladas en la participación accionaria promedio diaria que la sociedad controladora tenga en el capital social de las sociedades controladas durante el ejercicio por el que se calcule el impuesto hasta en tanto se agoten dichas pérdidas fiscales a nivel de la controlada.
+
+Tratándose de la sociedad controladora que en algún ejercicio del periodo comprendido del 1o. de enero de 1999 al 31 de diciembre de 2001, haya sido considerada como pura en los términos del noveno párrafo del artículo 57-A de la Ley del Impuesto sobre la Renta que se abroga, que tenga pérdidas fiscales individuales de algún ejercicio del mismo periodo pendientes de disminuir que hubiesen sido generadas durante la consolidación fiscal y las hubiera disminuido en algún ejercicio para determinar su resultado fiscal consolidado o pérdida fiscal consolidada, para efectos de determinar el resultado fiscal consolidado de ejercicios terminados a partir de 2002, la sociedad controladora adicionará sus utilidades fiscales al 100%, hasta en tanto se agoten dichas pérdidas fiscales a nivel de la controladora.
+
+La sociedad controladora que tenga pérdidas fiscales individuales de ejercicios anteriores al 1o. de enero de 1999 pendientes de disminuir que hubiesen sido generadas durante la consolidación fiscal y las hubiera disminuido en algún ejercicio para determinar su resultado fiscal consolidado o pérdida fiscal consolidada, para efectos de determinar el resultado fiscal consolidado de ejercicios terminados a partir de 2002, la sociedad controladora adicionará sus utilidades fiscales al 100%, hasta en tanto se agoten dichas pérdidas fiscales a nivel de la controladora.
+
+Para los efectos de esta fracción, en los pagos provisionales consolidados, la sociedad controladora adicionará los ingresos de las sociedades controladas en la participación accionaria promedio diaria del ejercicio que la sociedad controladora tenga en el capital social de dichas sociedades controladas, así como el 100% de los ingresos de las sociedades controladoras a que se refieren el segundo y tercer párrafos de esta fracción, durante el periodo por el que se calculen dichos pagos provisionales.
+
+XXXII. Para los efectos del segundo párrafo del artículo 68 de la Ley del Impuesto sobre la Renta, no se considerarán las pérdidas fiscales generadas con anterioridad al ejercicio de 2002, correspondientes a las sociedades controladoras que de conformidad con el noveno párrafo del artículo 57-A de la Ley del Impuesto sobre la Renta que se abroga, hayan sido consideradas como puras.
+
+Asimismo, para los efectos del segundo párrafo del artículo 68 de la Ley del Impuesto sobre la Renta, no se considerarán las pérdidas fiscales de sociedades controladoras y controladas generadas con anterioridad al ejercicio de 1999.
+
+XXXIII. Las sociedades controladoras que con anterioridad a la fecha de entrada en vigor de la Ley del Impuesto sobre la Renta, hayan determinado conceptos especiales de consolidación en los términos de las fracciones I, III y V del artículo 57-F y de las fracciones I, II y IV del artículo 57-G, de la Ley del Impuesto sobre la Renta que se abroga, deberán reconocer las operaciones que dieron origen a dichos conceptos especiales de consolidación como efectuadas con terceros al 31 de diciembre de 2001, como si se tratara de una desincorporación, en los términos del artículo 57-J de la Ley del Impuesto sobre la Renta que se abroga y demás disposiciones aplicables vigentes hasta la fecha de entrada en vigor de la Ley del Impuesto sobre la Renta.
+
+No obstante lo dispuesto en el párrafo anterior, las sociedades controladoras podrán continuar determinando los conceptos especiales de consolidación, incluyendo las modificaciones a los mismos, únicamente por las operaciones correspondientes a ejercicios anteriores a la fecha de entrada en vigor de la Ley del Impuesto sobre la Renta, hasta en tanto los bienes que dieron origen a dichos conceptos no sean enajenados a personas ajenas al grupo, en los términos del Capítulo IV del Título II de la Ley del Impuesto sobre la Renta que se abroga y demás disposiciones aplicables vigentes hasta la fecha de entrada en vigor de la Ley del Impuesto sobre la Renta y, según sea el caso, los sumarán o restarán para obtener el resultado fiscal consolidado o la pérdida fiscal consolidada del ejercicio, a que se refiere el artículo 68 de la Ley del Impuesto sobre la Renta.
+
+Cuando la sociedad controladora ejerza la opción prevista en el párrafo anterior, deberá presentar aviso ante las autoridades fiscales dentro de los cuatro meses siguientes al cierre del ejercicio de 2001.
+
+La opción prevista en esta fracción deberá ser ejercida por todas las operaciones que dieron origen a los conceptos especiales de consolidación.
+
+XXXIV. Las sociedades controladoras calcularán las modificaciones a las utilidades o pérdidas fiscales de ejercicios anteriores, y en su caso a los conceptos especiales de consolidación, en el ejercicio en el que su participación accionaria promedio diaria en el capital social de alguna controlada varíe con respecto al ejercicio inmediato anterior, en los términos de la fracción VII del ARTICULO DECIMO PRIMERO de la Ley que Establece, Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales y que Reforma Otras Leyes Federales, publicada en el Diario Oficial de la Federación, de 26 de diciembre de 1990, considerando como ejercicio más antiguo el que hubiera concluido en 1990.
+
+XXXV. Lo dispuesto en el inciso b) de la fracción II del artículo 69 de la Ley del Impuesto sobre la Renta, no será aplicable a los dividendos que paguen las controladas provenientes del saldo de la cuenta de utilidad fiscal neta que hubieran tenido al 31 de diciembre de 1998, de haber aplicado a ese año lo dispuesto en el inciso f) de la fracción VIII del Artículo Quinto del Decreto por el que se Modifican Diversas Leyes Fiscales y otros Ordenamientos Federales, publicado en el Diario Oficial de la Federación de 31 de diciembre de 1998. Dichas sociedades distribuirán en primera instancia el monto de los dividendos correspondientes a esta cuenta hasta agotarlos.
+
+XXXVI. Para los efectos del artículo 74 de la Ley del Impuesto sobre la Renta, las sociedades controladoras considerarán lo siguiente:
+
+a) Las utilidades o las pérdidas fiscales consolidadas a que se refiere la fracción I, estarán a lo siguiente:
+
+1. Por los ejercicios anteriores al 1o. de enero de 1999, serán las consolidadas obtenidas por la sociedad controladora, determinadas conforme a lo dispuesto por el artículo 57-E de la Ley del Impuesto sobre la Renta que se abroga.
+
+Se considerará como utilidad para los efectos del párrafo anterior, la utilidad fiscal consolidada incrementada con la participación de los trabajadores en las utilidades de la empresa deducida en los términos de la fracción III del artículo 25 de la Ley del Impuesto sobre la Renta que se abroga, de la sociedad controladora y de las sociedades controladas en la participación promedio diaria en que la sociedad controladora participó, directa o indirectamente, en el capital social de las controladas, en el ejercicio en que obtuvo dicha utilidad, disminuida con el impuesto sobre la renta que corresponda al resultado fiscal consolidado en el ejercicio de que se trate, sin incluir el que se pagó en los términos del artículo 10-A de dicha Ley, la participación de los trabajadores en las utilidades de la empresa y las partidas no deducibles, excepto las señaladas en las fracciones IX y X del artículo 25 de la Ley del Impuesto sobre la Renta que se abroga, de la sociedad controladora individualmente considerada y de las sociedades controladas en la participación promedio diaria en que la sociedad controladora participó, directa o indirectamente, en el capital social de las controladas, en el ejercicio en que obtuvo dicha utilidad.
+
+2. Por los ejercicios de 1999, 2000 y 2001, serán las que le hubieran correspondido de haber aplicado para la determinación de la participación consolidable del ejercicio en que se hubiera obtenido dicha utilidad o pérdida, la participación accionaria a que se refiere el tercer párrafo de la fracción I del artículo 57-E de la Ley del Impuesto sobre la Renta que se abroga, multiplicada por el factor de 1.00.
+
+Se considerará como utilidad para los efectos del párrafo anterior, la utilidad fiscal consolidada incrementada con la participación de los trabajadores en las utilidades de la empresa deducida en los términos de la fracción III del artículo 25 de la Ley del Impuesto sobre la Renta que se abroga, de la sociedad controladora y de las sociedades controladas, en la participación consolidable que le hubiera correspondido en los términos del párrafo anterior, disminuida con el impuesto sobre la renta que le hubiera correspondido al resultado fiscal consolidado que se hubiera determinado de conformidad con el párrafo anterior, sin incluir el que se pagó en los términos del artículo 10-A de la Ley del Impuesto sobre la Renta que se abroga, la participación de los trabajadores en las utilidades de la empresa y las partidas no deducibles para los efectos de dicho impuesto, excepto las señaladas en las fracciones IX y X del artículo 25 de la misma Ley, de la sociedad controladora y de las sociedades controladas, en la participación consolidable del ejercicio en que se hubiera obtenido dicha utilidad o pérdida de conformidad con el párrafo anterior, correspondientes a cada uno de los ejercicios del periodo de que se trate.
+
+b) Los dividendos o utilidades percibidos a que se refiere la fracción II, estarán a lo siguiente:
+
+1. Los percibidos en los ejercicios anteriores al 1o. de enero de 1999 serán los que obtuvieron la controladora y las controladas, de personas morales ajenas a la consolidación, en la participación promedio diaria en que la sociedad controladora participó directa o indirectamente en su capital social, a la fecha en que se percibió el dividendo.
+
+2. Los percibidos durante los ejercicios de 1999, 2000 y 2001 se considerarán en la participación consolidable que se hubiera determinado de haber multiplicado la participación accionaria a que se refiere el tercer párrafo de la fracción I del artículo 57-E de la Ley del Impuesto sobre la Renta que se abroga, a la fecha en que se percibió el dividendo o utilidad, por el factor de 1.00.
+
+XXXVII. Para los efectos del segundo y tercer párrafos del artículo 75 de la Ley del Impuesto sobre la Renta, cuando las utilidades fiscales correspondan a ejercicios terminados con anterioridad al 1o. de enero de 1999, el impuesto que se obtenga se multiplicará por el factor de 1.00 en lugar del factor previsto en los párrafos mencionados.
+
+XXXVIII. Las personas morales del régimen simplificado a que se refiere el Capítulo VII del Título II de la Ley del Impuesto sobre la Renta, efectuarán el primer pago provisional que corresponda en términos de la fracción I del artículo 81 de la citada Ley, de manera trimestral en lugar de mensual, considerando para estos efectos los datos correspondientes al periodo comprendido desde la fecha de entrada en vigor de esta fracción y hasta el último día del tercer mes siguiente a dicha fecha. Este pago provisional trimestral deberá enterarse el día 17 del mes inmediato siguiente al último mes al que corresponda el periodo de pago.
+
+Durante el periodo que corresponda al primer pago provisional en términos del párrafo anterior, las autoridades fiscales no impondrán sanciones a dichas personas morales transparentes cuando cometan infracciones por violaciones a las disposiciones fiscales. Lo anterior no será aplicable cuando la infracción implique omisión en el pago de contribuciones o sus accesorios.
+
+XXXIX. Para los efectos del artículo 82, fracción III, segundo párrafo de la Ley del Impuesto Sobre la Renta, los contribuyentes que con anterioridad a la entrada en vigor de este artículo, tributaron de conformidad con los Títulos II-A y IV, Capítulo VI, Sección II de la Ley del Impuesto sobre la Renta que se abroga y cuenten con comprobantes que reúnen todos los requisitos fiscales, en los que conste la leyenda "Contribuyente de Régimen Simplificado", podrán continuar utilizando los comprobantes impresos hasta agotarlos o hasta que termine la vigencia establecida en ellos, lo que suceda primero. Para ello deberán agregar a dicha leyenda la frase "a partir de DD/MM/AAAA Contribuyente del Régimen de Transparencia", sin que dicha circunstancia implique la comisión de infracciones o de delitos de carácter fiscal. La adición de la leyenda podrá efectuarse con letra manuscrita, con sello o impresa. En el caso de que soliciten la impresión de nuevos comprobantes, deberán imprimir los mismos cumpliendo con los requisitos que exijan las disposiciones fiscales vigentes, continuando con su número consecutivo.
+
+XL. Para los efectos del quinto párrafo del artículo 83 de la Ley del Impuesto sobre la Renta, cuando los contribuyentes obligados a presentar el aviso señalado en dicho párrafo ya lo hayan presentado en los términos de la Resolución de Facilidades Administrativas en el Régimen Simplificado, no estarán obligados a cumplir con dicha obligación.
+
+XLI. El Servicio de Administración Tributaria, mediante disposiciones de carácter general deberá otorgar facilidades administrativas y de comprobación para el cumplimiento de las obligaciones fiscales de los contribuyentes que hasta antes de la entrada en vigor de este artículo hubieran tributado conforme al régimen simplificado de la Ley del Impuesto sobre la Renta que se abroga o de acuerdo a la Resolución de Facilidades Administrativas en el Régimen Simplificado para 1999 vigente hasta el 31 de diciembre de 2001, así como las personas físicas que hasta el 31 de diciembre de 2000, hayan tributado en el Régimen de Pequeños Contribuyentes.
+
+Las facilidades administrativas y de comprobación que otorgará el Servicio de Administración Tributaria, en los términos del párrafo anterior, serán únicamente respecto de pagos a trabajadores eventuales, erogaciones realizadas en el caso de transportistas por concepto de sueldos o salarios que se le asignen al operador del vehículo, personal de tripulación, macheteros y maniobristas, operadores, mecánicos y cobradores, así como reparaciones, maniobras, refacciones de medio uso y reparaciones menores, gastos de viaje, gastos de imagen y limpieza, así como en el caso del sector primario por concepto de alimentación de ganado y gastos menores.
+
+XLII. El Servicio de Administración Tributaria podrá emitir reglas de carácter general otorgando a los contribuyentes dedicados exclusivamente al autotransporte terrestre de carga o de pasajeros, facilidades de comprobación, en cuyo caso, podrá establecer que sobre las cantidades erogadas se efectúe una retención del impuesto sobre la renta, sin que la misma pueda exceder del 17% del monto de dicha erogación.
+
+XLIII. Para los efectos del artículo 95 fracción XIII de la Ley del Impuesto sobre la Renta, aquellas instituciones o sociedades civiles constituidas únicamente con el objeto de administrar fondos o cajas de ahorro a que se refiere el artículo 70, fracción XII de la Ley Impuesto sobre la Renta que se abroga, constituidas antes de la entrada en vigor de la Ley del Impuesto sobre la Renta, serán personas morales con fines no lucrativos en la medida que cumplan con los requisitos de la primera Ley y con los que la Secretaría de Hacienda y Crédito Público haya publicado para tal efecto en reglas de carácter general.
+
+XLIV. Para los efectos del artículo 109 fracción XXVI de la Ley del Impuesto sobre la Renta, en el plazo de cinco años a que alude dicho precepto se considerarán aquellos que hubiesen transcurrido con anterioridad a la entrada en vigor de la citada Ley.
+
+XLV. El saldo de la cuenta de utilidad fiscal neta, sólo se podrá disminuir una vez que se hubiera agotado el saldo de la cuenta de utilidad fiscal neta reinvertida que hubiesen constituido los contribuyentes conforme al artículo 124-A de la Ley del Impuesto sobre la Renta que se abroga.
+
+Los dividendos o utilidades que distribuyan las personas morales o establecimientos permanentes provenientes del saldo de la cuenta de utilidad fiscal neta reinvertida que hubiesen constituido con anterioridad a la entrada en vigor de este artículo, pagarán el impuesto que se hubiera diferido, aplicando la tasa del 3% o del 5%, según se trate de utilidades generadas en 1999 o en 2000 y 2001. Para estos efectos, los dividendos o utilidades distribuidos se adicionarán con el impuesto sobre la renta que se deba pagar en los términos de este artículo. Para determinar el impuesto que se debe adicionar a los dividendos o utilidades, éstos se deberán multiplicar por el factor de 1.5385 al resultado se le aplicará la tasa que corresponda. Este impuesto se pagará conjuntamente con el pago provisional correspondiente al mes en el que se haya distribuido el dividendo o la utilidad de que se trate.
+
+El impuesto diferido que se haya pagado conforme al párrafo anterior, se podrá acreditar contra el impuesto al activo del ejercicio en el que se pague, y en dicho ejercicio se considerará causado para determinar la diferencia que se podrá acreditar adicionalmente contra el impuesto al activo, en los términos del artículo 9o. de la Ley del Impuesto al Activo.
+
+XLVI. Los contribuyentes no considerarán como ingresos para los efectos del impuesto sobre la renta, el importe de aquellas deudas que hubieran sido perdonadas como resultado de reestructuración de créditos o de enajenación de bienes muebles e inmuebles, certificados de vivienda, derechos de fideicomitente o fideicomisario que recaigan sobre inmuebles, por dación en pago o adjudicación judicial o fiduciaria, cuando se trate de créditos otorgados por contribuyentes que por disposición legal no puedan conservar los bienes recibidos como dación en pago o adjudicación judicial o fiduciaria y siempre que cancelen, en su caso, el interés que se hubiera deducido para efectos de dicho gravamen por las deudas citadas. En este caso, los contribuyentes deberán presentar las declaraciones complementarias que correspondan derivadas de la cancelación de los intereses que se hubieran deducido.
+
+Cuando los contribuyentes mencionados hayan considerado como ingresos del ejercicio sujetos al impuesto sobre la renta, el importe de las deudas que les hubieran sido perdonadas y que con motivo de la aplicación de lo dispuesto en el párrafo anterior determinen saldos a favor en las declaraciones complementarias correspondientes que para el efecto presenten, sólo podrán compensarlos contra el impuesto sobre la renta y el impuesto al activo del ejercicio, que tengan a su cargo. Cuando no se puedan compensar en un ejercicio lo podrán hacer en los siguientes hasta agotarlos.
+
+Lo anterior será aplicable siempre que se trate de créditos otorgados hasta el 31 de diciembre de 1994, aun cuando hubieran sido reestructurados posteriormente con la única finalidad de ampliar el plazo de vencimiento o las condiciones de pago del préstamo original, sin implicar en forma alguna un aumento en el saldo que a la fecha de reestructuración tenía el préstamo reestructurado, y existan registros en la contabilidad de la institución que hubiera otorgado el crédito que demuestren lo anterior.
+
+Las personas morales deberán disminuir el importe de las deudas que les fueron perdonadas contra las pérdidas del ejercicio que se determinen en los términos del artículo 61 de la Ley del Impuesto sobre la Renta.
+
+XLVII. Los contribuyentes personas físicas que tributen conforme al Título IV de la Ley del Impuesto sobre la Renta, no pagarán el impuesto por la obtención de los ingresos derivados de la enajenación de inmuebles, certificados de vivienda, derechos de fideicomitente o fideicomisario que recaigan sobre inmuebles, que realicen los contribuyentes como dación en pago o adjudicación judicial o fiduciaria, por créditos obtenidos con anterioridad a la entrada en vigor de esta disposición, a contribuyentes que por disposición legal no puedan conservar la propiedad de dichos bienes o derechos. En estos casos, el adquirente deberá manifestar en el documento que se levante ante fedatario público y en el que conste la enajenación que cumplirá con lo dispuesto en el artículo 54-A de la Ley del Impuesto sobre la Renta que se abroga.
+
+Las personas físicas que tributaron conforme a la Sección I del Capítulo VI del Título IV de la Ley de Impuesto sobre la Renta que se abroga, que enajenen los bienes a que se refiere esta fracción, no podrán deducir la parte aún no deducida correspondiente a dichos bienes que tengan a la fecha de enajenación, a que se refiere el artículo 108, último párrafo de la referida Ley, según corresponda, debiendo manifestar en el documento que se levante ante fedatario público el monto original de la inversión o la parte aún no deducida sin actualización, según sea el caso, así como la fecha de adquisición de los bienes a que se refiere dicho artículo.
+
+XLVIII. Durante los ejercicios de, 2002 y 2003, los contribuyentes que tributen conforme al Título II de la Ley del Impuesto sobre la Renta, no pagarán el impuesto sobre la renta, por los ingresos derivados de la enajenación de inmuebles, certificados de vivienda, derechos de fideicomitente o fideicomisario que recaigan sobre inmuebles, que realicen los contribuyentes como dación en pago o adjudicación fiduciaria a contribuyentes que por disposición legal no puedan conservar la propiedad de dichos bienes o derechos, siempre que la dación en pago o adjudicación fiduciaria derive de un crédito obtenido con anterioridad a la entrada en vigor de esta disposición. En este caso, el contribuyente que enajenó el bien no podrá deducir la parte aún no deducida correspondiente a ese bien que tenga a la fecha de enajenación, a que se refiere el artículo 37, sexto párrafo de la Ley del Impuesto sobre la Renta, debiendo manifestar en el documento que se levante ante fedatario público el monto original de la inversión y/o la parte aún no deducida sin actualización, según sea el caso, así como la fecha de adquisición de los bienes a que se refiere esta fracción.
+
+En estos casos, el adquirente deberá manifestar en el documento que se levante ante fedatario público y en el que conste la enajenación, que cumplirá con lo dispuesto en la fracción L de este artículo transitorio.
+
+XLIX. Lo dispuesto en el artículo 37, sexto párrafo, de la Ley del Impuesto sobre la Renta, por los ejercicios de, 2002 y 2003, será aplicable a los contribuyentes que por disposición legal no puedan conservar la propiedad de los bienes a que se refiere la fracción anterior, cuando los enajenen atendiendo a la opción de deducción que hubiesen aplicado los contribuyentes que hubieran otorgado en dación en pago o adjudicación fiduciaria dichos bienes. Para estos efectos, se deberá calcular el monto original de la inversión actualizado desde el mes en que adquirió el bien la persona que lo otorgó en dación en pago o adjudicación fiduciaria y hasta el mes en que el contribuyente los enajene.
+
+L. Para los efectos del artículo 57, de la Ley del Impuesto sobre la Renta, durante los ejercicios, 2002 y 2003, los contribuyentes que hubieran adquirido bienes o derechos por dación en pago o adjudicación, derivados de créditos otorgados con anterioridad a la entrada en vigor de esta disposición, que no puedan conservar en propiedad por disposición legal, estarán a lo siguiente:
+
+a) Cuando hubieran adquirido por dación en pago o adjudicación judicial o fiduciaria, inmuebles, certificados de vivienda o derechos de fideicomitente o de fideicomisario que recaigan sobre inmuebles, de personas físicas distintas de las señaladas en el inciso b) de esta fracción, exentas en los términos de la fracción XLVII de este artículo transitorio, no podrán deducir conforme al artículo 29 de la Ley del Impuesto sobre la Renta esas adquisiciones, debiendo determinar la ganancia obtenida o la pérdida sufrida en la enajenación que realicen de dichos bienes, restando al ingreso que obtengan por su enajenación el costo comprobado de adquisición que le correspondía a la persona física que le hubiera enajenado el bien, el cual se podrá ajustar multiplicándolo por el factor de actualización correspondiente al periodo comprendido desde el mes en que el bien fue adquirido por la persona física que lo enajenó por dación en pago o adjudicación y la fecha en que dicho bien sea enajenado a un tercero por quien lo recibió en pago o por adjudicación.
+
+El costo comprobado de adquisición que se podrá ajustar en los términos del párrafo anterior, se determinará conforme a lo siguiente:
+
+1. Se restará del costo comprobado de adquisición que le hubiera correspondido a la persona física que dio el bien en pago o que lo enajenó por adjudicación, la parte correspondiente al terreno y el resultado será el costo de construcción. Cuando no se pueda efectuar esta separación se considerará como costo del terreno el 20% del total.
+
+2. El costo de construcción deberá disminuirse a razón del 3% anual por cada año transcurrido entre la fecha de adquisición por la persona física que dio el bien en pago o que lo enajenó por adjudicación, y la de enajenación del bien a un tercero distinto de quien lo recibió en pago o por adjudicación, en ningún caso dicho costo será inferior al 20% del costo inicial. Las mejoras o adaptaciones al inmueble de que se trate, que hubieren implicado inversiones deducibles deberán sujetarse al mismo tratamiento.
+
+b) Cuando hubieran adquirido por dación en pago o adjudicación judicial o fiduciaria, inmuebles, certificados de vivienda o derechos de fideicomitente o de fideicomisario que recaigan sobre inmuebles, de las personas físicas que tributen conforme a las Secciones I o II del Capítulo II del Título IV de la Ley del Impuesto sobre la Renta, exentas de conformidad con la fracción XLVII de este artículo transitorio, no podrán deducir conforme al artículo 29 de la Ley del Impuesto sobre la Renta esas adquisiciones, debiendo determinar la ganancia obtenida o la pérdida sufrida en la enajenación que realicen de dichos bienes, considerando como fecha de adquisición y como monto original de la inversión, los que le hubieren correspondido a la persona que enajenó el bien, de conformidad con lo siguiente:
+
+1. Tratándose de terrenos y títulos valor que representen la propiedad de éstos, aplicarán lo dispuesto en el artículo 21 de la Ley del Impuesto sobre la Renta.
+
+2. Tratándose de inmuebles, considerarán como monto original de la inversión, la parte aún no deducida por la persona que enajenó el bien por dación en pago o adjudicación judicial o fiduciaria, en los términos del artículo 124 de la citada Ley, según corresponda. El saldo pendiente de deducir se actualizará multiplicándolo por el factor de actualización correspondiente al periodo comprendido desde el mes en que se adquirió por la persona que lo enajenó por dación en pago o adjudicación y hasta el último mes de la primera mitad del periodo del ejercicio en que dicho bien sea enajenado a un tercero por quien lo recibió por dación en pago o por adjudicación.
+
+c) Cuando hubieran adquirido por dación en pago o adjudicación fiduciaria, inmuebles, certificados de vivienda o derechos de fideicomitente o de fideicomisario que recaigan sobre inmuebles, de las personas morales a que se refiere la fracción XLVIII de este artículo transitorio, no podrán deducir conforme al artículo 29 de la Ley del Impuesto sobre la Renta dichas adquisiciones, debiendo determinar la ganancia obtenida o la pérdida sufrida en la enajenación que realicen de dichos bienes, considerando como fecha de adquisición y como monto original de la inversión, los que le hubieren correspondido a la persona que enajenó el bien, de conformidad con lo siguiente:
+
+1. Tratándose de terrenos y títulos valor que representen la propiedad de éstos, aplicarán lo dispuesto en el artículo 21 de la citada Ley.
+
+2. Tratándose de inmuebles, considerarán como monto original de la inversión, la parte aún no deducida por la persona que enajenó el bien por dación en pago o adjudicación fiduciaria, en los términos de los artículos 37, sexto párrafo de la Ley del Impuesto sobre la Renta. El saldo pendiente de deducir se actualizará multiplicándolo por el factor de actualización correspondiente al periodo comprendido desde el mes en que se adquirió por la persona que lo enajenó por dación en pago o adjudicación y hasta el último mes de la primera mitad del periodo del ejercicio en que dicho bien sea enajenado a un tercero por quien lo recibió por dación en pago o por adjudicación.
+
+LI. Los contribuyentes que con anterioridad a la entrada en vigor de la Ley del Impuesto sobre la Renta hubiesen adquirido acciones consideradas como colocadas entre el gran público inversionista de conformidad con las disposiciones de la Ley del Impuesto sobre la Renta que se abroga, y que enajenen dichas acciones con posterioridad a la entrada en vigor de esta fracción, considerarán como monto original ajustado por acción, para los efectos del artículo 24 de la Ley del Impuesto sobre la Renta, a la fecha de entrada en vigor de la misma el valor promedio que resulte de las últimas veintidós operaciones efectuadas con dichas acciones inmediatas anteriores a la entrada en vigor de dicha Ley, considerando el último hecho de cada día. Si las últimas veintidós operaciones son inhabituales en relación con el comportamiento de las acciones de que se trate en los seis meses anteriores respecto de número y volumen de operaciones, así como su valor, en lugar de tomar las veintidós últimas operaciones se considerarán los valores observados en los últimos hechos de los seis meses anteriores.
+
+LII. A partir del 1o. de enero de 2003 no se pagará el impuesto sobre la renta por los ingresos por intereses obtenidos por personas físicas provenientes de bonos emitidos por el Gobierno Federal o por sus agentes financieros y los que deriven de bonos de regulación monetaria emitidos por el Banco de México, de Pagarés de Indemnización Carretera emitidos por el Fideicomiso de Apoyo para el Rescate de Autopistas Concesionadas, de los Bonos de Protección al Ahorro Bancario emitidos por el Instituto para la Protección al Ahorro Bancario, emitidos con anterioridad al 1o. de enero de 2003, únicamente sobre los intereses devengados a favor durante el periodo comprendido desde la entrada en vigor de esta fracción y hasta que la tasa de interés se pueda revisar o se revise, de acuerdo con las condiciones establecidas en la emisión de dichos bonos o títulos valor.
+
+Quienes apliquen lo dispuesto en esta fracción deberán informar el monto de dichos ingresos en su declaración anual correspondiente al ejercicio en el que los obtengan, aun cuando no estén obligados presentar dicha declaración.
+
+LIII. Para los efectos del artículo 104 de la Ley del Impuesto sobre la Renta, no se considerará el monto de los intereses percibidos por la sociedad de inversión exentos en los términos de la fracción LII de este artículo, correspondientes al periodo de tenencia y a las acciones que se enajenan.
+
+LIV. Para los efectos de lo dispuesto en la fracción I, inciso a), punto 2, del artículo 195 de la Ley del Impuesto sobre la Renta, durante el ejercicio de 2002, los intereses a que hace referencia dicha fracción podrán estar sujetos a una tasa de 4.9%, siempre que el beneficiario efectivo de los intereses mencionados en este artículo sea residente de un país con el que se encuentre en vigor un tratado para evitar la doble tributación y se cumplan los requisitos previstos en dicho tratado para aplicar las tasas que en el mismo se prevean para este tipo de intereses.
+
+LV. Tratándose de colocaciones de títulos de deuda de empresas mexicanas en países con los que México no tenga celebrado tratado para evitar la doble imposición, durante el ejercicio de 2001 se aplicará la tasa del 4.9% sobre los intereses pagados que deriven de dichos títulos, siempre que se trate de países con los que México haya concluido negociaciones. Los países a que se refiere esta fracción son:
+
+Ecuador
+
+Grecia
+
+Indonesia
+
+Luxemburgo
+
+Polonia
+
+Portugal
+
+Rumania
+
+Venezuela
+
+LVI. Se consideran territorios con regímenes fiscales preferentes para los efectos de la Ley del Impuesto sobre la Renta y del Código Fiscal de la Federación:
+
+Anguila
+
+Antigua y Bermuda
+
+Antillas Neerlandesas
+
+Archipiélago de Svalbard
+
+Aruba
+
+Ascención
+
+Barbados
+
+Belice
+
+Bermudas
+
+Brunei Darussalam
+
+Campione D´Italia
+
+Commonwealth de Dominica
+
+Commonwealth de las Bahamas
+
+Emiratos Árabes Unidos
+
+Estado de Bahrein
+
+Estado de Kuwait
+
+Estado de Qatar
+
+Estado Independiente de Samoa Occidental
+
+Estado Libre Asociado de Puerto Rico
+
+Gibraltar
+
+Gran Ducado de Luxemburgo
+
+Granada
+
+Groenlandia
+
+Guam
+
+Hong Kong
+
+Isla Caimán
+
+Isla de Christmas
+
+Isla de Norfolk
+
+Isla de San Pedro y Miguelón
+
+Isla del Hombre
+
+Isla Qeshm
+
+Islas Azores
+
+Islas Canarias
+
+Islas Cook
+
+Islas de Cocos o Kelling
+
+Islas de Guernesey, Jersey, Alderney, Isla Great Sark, Herm, Little
+
+Sark, Brechou, Jethou Lihou (Islas del Canal)
+
+Islas Malvinas
+
+Islas Pacífico
+
+Islas Salomón
+
+Islas Turcas y Caicos
+
+Islas Vírgenes Británicas
+
+Islas Vírgenes de Estados Unidos de América
+
+Kiribati
+
+Labuán
+
+Macao
+
+Madeira
+
+Malta
+
+Montserrat
+
+Nevis
+
+Niue
+
+Patau
+
+Pitcairn
+
+Polinesia Francesa
+
+Principado de Andorra
+
+Principado de Liechtenstein
+
+Principado de Mónaco
+
+Reino de Swazilandia
+
+Reino de Tonga
+
+Reino Hachemita de Jordania
+
+República de Albania
+
+República de Angola
+
+República de Cabo Verde
+
+República de Costa Rica
+
+República de Chipre
+
+República de Djibouti
+
+República de Guyana
+
+República de Honduras
+
+República de las Islas Marshall
+
+República de Liberia
+
+República de Maldivas
+
+República de Mauricio
+
+República de Nauru
+
+República de Panamá
+
+República de Seychelles
+
+República de Trinidad y Tobago
+
+República de Túnez
+
+República de Vanuatu
+
+República del Yemen
+
+República Oriental del Uruguay
+
+República Socialista Democrática de Sri Lanka
+
+Samoa Americana
+
+San Kitts
+
+San Vicente y las Granadinas
+
+Santa Elena
+
+Santa Lucía
+
+Serenísima República de San Marino
+
+Sultanía de Omán
+
+Tokelau
+
+Trieste
+
+Tristán de Cunha
+
+Tuvalu
+
+Zona Especial Canaria
+
+Zona Libre Ostrava
+
+LVII. Para los efectos de lo dispuesto en la fracción anterior, el Gran Ducado de Luxemburgo será considerado como territorio con régimen fiscal preferente hasta en tanto entre en vigor el Convenio para evitar la doble tributación y prevenir la evasión fiscal en materia de impuestos sobre la renta y sobre el capital entre dicho país y los Estados Unidos Mexicanos.
+
+LVIII. Se consideran países en los que rige un sistema de tributación territorial:
+
+Jamaica
+
+Reino de Marruecos
+
+República Árabe Popular Socialista de Libia
+
+República de Bolivia
+
+República de Botswana
+
+República de Camerún
+
+República de Costa de Marfil
+
+República de El Salvador
+
+República de Guatemala
+
+República de Guinea
+
+República de Lituania
+
+República de Namibia
+
+República de Nicaragua
+
+República de Sudáfrica
+
+República de Zaire
+
+República de Zimbabwe
+
+República del Paraguay
+
+República del Senegal
+
+República Dominicana
+
+República Gabonesa
+
+República Libanesa
+
+LIX. Para los efectos de lo dispuesto en el artículo 190 de la Ley del Impuesto sobre la Renta, las personas morales ubicadas en territorios con regímenes fiscales preferentes, que enajenen acciones a una sociedad residente en el país, siempre que éstas sean parte del mismo grupo, podrán optar por pagar el impuesto sobre la renta aplicando la tasa del 1.8% sobre el valor total de la operación, sin deducción alguna, en lugar de la tasa del 20% prevista en dicha disposición, siempre que previamente obtengan autorización de las autoridades fiscales. Las autorizaciones a que se refiere esta fracción, únicamente se otorgarán durante el ejercicio de 2002, siempre que además de que la operación se realice a valor de mercado, se cumplan con las reglas generales que al efecto emita el Servicio de Administración Tributaria.
+
+LX. Las autoridades fiscales no determinarán contribuciones omitidas y sus accesorios a los contribuyentes que en el ejercicio de 2001 hubieran obtenido ingresos que no excedan a la cantidad establecida en el artículo 119-M de la Ley del Impuesto sobre la Renta que se abroga y que tributaron en los términos de la Sección III del Capítulo VI del Título IV de la misma y que hubieran emitido uno o más comprobantes que reúnan los requisitos fiscales que señale el Código Fiscal de la Federación y su Reglamento o hubiesen recibido pago de los ingresos derivados de su actividad empresarial, a través de cheque o mediante traspasos de cuenta en instituciones de crédito o casas de bolsa, cuando en estos casos se cumpla alguno de los requisitos que establece el artículo 29-C del Código Fiscal de la Federación, durante el periodo comprendido del 1o. de enero de 2001 y hasta la entrada en vigor de esta fracción, siempre que calculen y enteren el impuesto sobre la renta a su cargo por dicho periodo en los términos del artículo 130 de la Ley del Impuesto sobre la Renta.
+
+Asimismo, los contribuyentes a que se refiere esta fracción podrán efectuar la deducción de las erogaciones efectivamente realizadas en el citado periodo, por la adquisición de activos fijos, gastos o cargos diferidos en los términos del artículo 136 de la Ley del Impuesto sobre la Renta, siempre que cuenten con la documentación comprobatoria que reúna los requisitos fiscales, de dichas erogaciones.
+
+LXI. Para los efectos de la fracción I del artículo 161 de la Ley del Impuesto sobre la Renta, los contribuyentes personas físicas que deban solicitar su inscripción en el Registro Federal de Contribuyentes, contarán con un plazo de dos meses contados a partir de la entrada en vigor de esta fracción, para solicitar su inscripción en dicho registro.
+
+LXII. El monto establecido en el tercer párrafo del artículo 175 de la Ley del Impuesto sobre la Renta, durante el ejercicio fiscal de 2002 será de $1'000,000.00 y de $500,000.00 para los ejercicios fiscales de 2003 y los subsecuentes.
+
+LXIII. La información que la Ley del Impuesto sobre la Renta establezca para presentarse en el mes de febrero del año siguiente del ejercicio de que se trate y que en los términos de la Ley del Impuesto sobre la Renta que se abroga no debía proporcionarse a las autoridades fiscales, deberá proporcionarse por primera ocasión a más tardar el 15 de febrero del año 2003. Tratándose de la información a que se refiere el artículo 59 fracción I de la Ley del Impuesto sobre la Renta, ésta deberá contener únicamente los datos correspondiente (sic) al segundo semestre del ejercicio fiscal de 2002.
+
+LXIV. Cuando en la Ley del Impuesto al Activo se haga referencia al Capítulo IV del Título II o al Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta que se abroga, se entenderá que se refiere al Capítulo VI del Título II o al Capítulo II del Título IV de la Ley del Impuesto sobre la Renta, respectivamente.
+
+Asimismo, cuando se refiera a los artículos 6o.; 7o.-B, fracción III, segundo párrafo; 12; 22, fracción XI; 24, fracción I; 41; 43; 44; 45; 47; 133, fracción XIII; 140, fracción IV; 148; 148-A; 149 de la Ley del Impuesto sobre la Renta que se abroga, se entenderá que se refiere a los artículos 6o.; 46, fracción I, segundo párrafo; 14; 29, fracción XI; 31, fracción I; 37; 39; 40; 41; 43; 167, fracción XIII; 176, fracción III; 186; 187 y 188 de la Ley del Impuesto sobre la Renta, respectivamente.
+
+LXV. Las obligaciones establecidas en el penúltimo y último párrafos del artículo 134 de la Ley del Impuesto sobre la Renta relacionadas con las máquinas registradoras de comprobación fiscal, entrarán en vigor a los 90 días contados a partir de la entrada en vigor del presente Artículo.
+
+LXVI. Las tarifas y tablas contenidas en los artículos 113, 114, 115, 116, 177 y 178 de la Ley del Impuesto sobre la Renta, se encuentran actualizadas al 31 de diciembre de 2001.
+
+LXVII. Los contribuyentes dedicados exclusivamente a la edición de libros, podrán reducir el impuesto sobre la renta determinado en los términos de los artículos 10 o 177 de la Ley del Impuesto sobre la Renta, según se trate de persona moral o física, en los ejercicios y en los por cientos que a continuación se señalan:
+
+Ejercicio fiscal Por ciento de
+
+reducción
+
+2002 40%
+
+2003 30%
+
+2004 20%
+
+2005 10%
+
+Para los efectos de este artículo, se consideran contribuyentes dedicados exclusivamente a la edición de libros, aquéllos cuyos ingresos por dichas actividades representen cuando menos el 90% de sus ingresos totales.
+
+Tratándose de contribuyentes dedicados a la edición de libros que no se dediquen exclusivamente a esta actividad, calcularán la reducción a que se refiere esta fracción sobre el monto del impuesto que corresponda de los ingresos por la edición de libros, en los términos del Reglamento de esta Ley.
+
+El impuesto sobre la renta que se haya determinado conforme al artículo 10 o 117 de la Ley del Impuesto sobre la Renta, según se trate de persona moral o persona física, después de aplicar, en su caso, la reducción a que se refiere esta fracción, será el que se acreditará contra el impuesto al activo del mismo ejercicio y será el causado para determinar la diferencia que se podrá acreditar adicionalmente contra el impuesto al activo, en los términos del artículo 9o. de la Ley del Impuesto al Activo.
+
+LXVIII. La opción prevista en el artículo 220 de la Ley del Impuesto sobre la Renta, únicamente será aplicable respecto de inversiones efectuadas a partir de la entrada en vigor de dicha Ley, sin que en ningún caso pueda aplicarse respecto de inversiones efectuadas con anterioridad a dicha fecha.
+
+LXIX. Para los efectos del artículo 24 de la Ley del Impuesto sobre la Renta, para determinar la ganancia por enajenación de acciones, se considerará, para los efectos del inciso a) de la fracción II de dicho artículo, como utilidad fiscal de los ejercicios anteriores a la entrada en vigor de la misma, la utilidad fiscal incrementada con la participación de los trabajadores en las utilidades de la empresa deducida en los términos de la fracción III del artículo 25 de la Ley del Impuesto sobre la Renta que se abroga, disminuida con el importe del impuesto sobre la renta que corresponda a la persona moral en el ejercicio de que se trate, sin incluir el que se pagó en los términos del artículo 10-A de la Ley del Impuesto sobre la Renta que se abroga, la participación de los trabajadores en las utilidades de la empresa y las partidas no deducibles para efectos de dicho impuesto, excepto las señaladas en las fracciones VIII y IX del artículo 25 de la Ley del Impuesto sobre la Renta que se abroga, de cada uno de los ejercicios correspondientes al periodo de que se trate. Por lo que se refiere a la pérdida fiscal, se considerará la diferencia que resulte de disminuir de la totalidad de los ingresos acumulables obtenidos en el ejercicio, las deducciones autorizadas en los términos de la Ley vigente en el ejercicio de que se trate.
+
+Lo dispuesto en el párrafo anterior también será aplicable para determinar la ganancia por la enajenación de acciones emitidas por sociedades que tengan el carácter de controladoras en los términos de la Ley del Impuesto sobre la Renta o hayan tenido el carácter de controladoras en los términos de la Ley del Impuesto sobre la Renta que se abroga.
+
+LXX. Tratándose de acciones que se enajenen a partir del 1o. de enero de 2002, cuando las mismas hayan sido adquiridas de partes relacionadas durante el ejercicio de 2001, el contribuyente para determinar el costo promedio por acción de dichas acciones, deberá disminuir del monto original ajustado de las acciones determinado conforme a lo dispuesto en el artículo 24 de la Ley del Impuesto sobre la Renta, las pérdidas fiscales actualizadas de ejercicios anteriores pendientes de aplicar que la sociedad emisora de que se trate tenga a la fecha de adquisición, en la parte que le corresponda a las acciones que tenga el contribuyente.
+
+LXXI. Para los efectos de la fracción anterior, las pérdidas fiscales son las determinadas en los términos del artículo 61 de la Ley del Impuesto sobre la Renta. La sociedad emisora de las acciones deberá informar al contribuyente de que se trate, el monto de las pérdidas fiscales de ejercicios anteriores pendientes que aplicar (sic) actualizadas desde la última actualización y hasta el 1o. de enero de 2002. Asimismo, el contribuyente deberá actualizar dichas pérdidas por el periodo comprendido desde la última fecha citada y hasta el mes en el que se efectúe la enajenación de las acciones de que se trate.
+
+LXXII. Durante el ejercicio fiscal de 2002 las personas que efectúen pagos por intereses en lugar de aplicar las (sic) tasa de retención a que se refiere los artículos 58 y 160 de la Ley del Impuesto sobre la Renta, estarán obligados a retener el impuesto sobre la renta aplicando la tasa del 24% sobre los intereses pagados sin deducción alguna. Cuando la tasa anual de interés pactada sea mayor a diez puntos porcentuales, la retención se efectuará aplicando la tasa del 24% sobre el monto de los intereses que resulte de los diez primeros puntos porcentuales de la tasa de interés pactada, sin deducción alguna. Las retenciones que se hagan en los términos de esta fracción tendrán el carácter de pago definitivo.
+
+Cuando los intereses a que se refiere esta fracción sean pagados a personas que tributen conforme al Título II o al Capítulo II del Título IV de la Ley del Impuesto sobre la Renta, siempre que en este último caso los intereses deriven de créditos afectos a la actividad empresarial o la prestación del servicio profesional, las retenciones que se efectúen en los términos de esta fracción tendrán el carácter de pagos provisionales.
+
+Tratándose de personas físicas, durante el ejercicio de 2002, no se pagará el impuesto sobre la renta por los ingresos por intereses provenientes de valores a cargo del Gobierno Federal o por sus agentes financieros, los que deriven de bonos de regulación monetaria emitidos por el Banco de México, de Pagarés de Indemnización Carretera emitidos por el Fideicomiso de Apoyo para el Rescate de Autopistas Concesionadas y de los Bonos de Protección al Ahorro Bancario emitidos por el Instituto para la Protección al Ahorro Bancario.
+
+Asimismo, en el citado ejercicio no se pagará el impuesto sobre la renta por los ingresos por intereses obtenidos por personas físicas provenientes de los títulos de crédito a que se refiere el segundo párrafo de la fracción XIX del artículo 77 de la Ley del Impuesto sobre la Renta que se abroga.
+
+A partir del ejercicio fiscal de 2003 no se pagará el impuesto por los ingresos por intereses proveniente (sic) de los títulos de crédito a que se refiere el párrafo anterior, emitidos con anterioridad al 1o. de enero de 2003, únicamente sobre los intereses devengados a favor durante el periodo comprendido desde el 1o. de enero de 2003 y hasta que la tasa de interés se pueda revisar o se revise, de acuerdo con las condiciones establecidas en la emisión de dichos bonos o títulos valor.
+
+Quienes apliquen lo dispuesto en los dos párrafos anteriores deberán informar el monto de dichos ingresos en su declaración anual correspondiente al ejercicio en el que los obtengan, aun cuando no estén obligados presentar (sic) dicha declaración.
+
+LXXIII. Lo dispuesto en los artículos 103, 104 y 105 de la Ley del Impuesto sobre la Renta, entrarán en vigor a partir del 1o. de enero de 2003.
+
+Durante el ejercicio fiscal de 2002 las personas que efectúen pagos por intereses a las sociedades de inversión en instrumentos de deuda o a las sociedades de inversión de renta variable, efectuarán la retención del impuesto sobre la renta en los términos de la fracción LXXII de este artículo, la cual tendrá el carácter de pago definitivo y no serán ingresos acumulables en los términos del artículo 159 de la Ley del Impuesto sobre la Renta durante el ejercicio fiscal de 2002 para los integrantes de las sociedades de inversión.
+
+Asimismo, durante el ejercicio fiscal de 2002 no serán ingresos acumulables para los integrantes personas físicas de las sociedades de inversión los que obtengan por la enajenación de las acciones emitidas por las sociedades de inversión a que se refiere esta fracción, excepto en los casos en que las mismas se hubieran adquirido en los términos del artículo 218 de la Ley del Impuesto sobre la Renta.
+
+LXXIV. Para los efectos de lo dispuesto en el artículo 2o. de la Ley del Impuesto sobre la Renta y en los tratados para evitar la doble imposición celebrados por México, por los ejercicios de 2002 y 2003, los residentes en el extranjero que se ubiquen en alguno de los supuestos de establecimiento permanente derivado de las relaciones de carácter jurídico o económico que mantengan con empresas que lleven a cabo actividades de maquila en los términos de los Decretos para el fomento y operación de la industria maquiladora de exportación, publicados en el Diario Oficial de la Federación el 22 de diciembre de 1989, el 1o. de junio de 1998, el 30 de octubre y 31 de diciembre de 2000, excepto las denominadas maquiladoras de servicios cuando no realicen exclusivamente actividades de comercio exterior, podrán considerar que no tienen un establecimiento permanente en el país únicamente por dichas actividades y que cumplen con lo dispuesto en los artículos 215 y 216 de la Ley del Impuesto sobre la Renta, aun cuando con anterioridad al 31 de diciembre de 1999, hayan obtenido una resolución particular para los ejercicios fiscales de 2000, 2001 y 2002 en la que se confirme que cumplen con lo dispuesto en los artículos 64-A y 65 de la Ley del Impuesto sobre la Renta que se abroga, siempre que, en su caso, dichas empresas maquiladoras cumplan con lo siguiente:
+
+a) Que la utilidad fiscal de la empresa maquiladora determinada de conformidad con el artículo 10 y demás aplicables de la Ley del Impuesto sobre la Renta, en cada uno de los ejercicios de 2002 y 2003, represente al menos la cantidad mayor que resulte de aplicar lo dispuesto en los numerales 1 y 2 siguientes:
+
+1. El 6.9% sobre el valor total de los activos destinados a la operación de maquila en cada uno de los ejercicios fiscales de 2002 y 2003, incluyendo los que sean propiedad de la empresa maquiladora, de residentes en el extranjero, y de cualquiera de sus partes relacionadas, incluso cuando hayan sido otorgados en uso o goce temporal a dicha maquiladora.
+
+Las empresas maquiladoras podrán excluir del cálculo a que se refiere el párrafo anterior, el valor de los activos que les hayan arrendado partes relacionadas residentes en territorio nacional o partes no relacionadas residentes en el extranjero, siempre que cumplan con los siguientes requisitos:
+
+i) Que la maquiladora conserve la documentación que compruebe que las contraprestaciones correspondientes fueron pactadas a precios de mercado o, en su caso, que cumplan con lo dispuesto en los artículos 215, 216 y demás aplicables de la Ley del Impuesto sobre la Renta.
+
+ii) Que la maquiladora retenga y entere el impuesto sobre la renta que los residentes en el extranjero estén obligados a pagar por los ingresos que obtengan por el arrendamiento de los mencionados activos.
+
+iii) Que los bienes arrendados no hayan sido propiedad de la maquiladora.
+
+iv) Que los bienes arrendados no hayan sido propiedad de partes relacionadas residentes en el extranjero de la maquiladora.
+
+v) Que la maquiladora manifieste bajo protesta de decir verdad, conjuntamente con la información a que se refiere el inciso c) de esta fracción, que no ha obtenido en arrendamiento los activos con el fin de disminuir el valor total de los activos a que se refiere el primer párrafo de este numeral.
+
+vi) Que el otorgamiento del uso o goce de dichos activos no se realice a través de contratos de arrendamiento financiero a que se refiere el artículo 15 del Código Fiscal de la Federación.
+
+El valor de los activos destinados a la operación de maquila será calculado de conformidad con lo dispuesto en la Ley del Impuesto al Activo. El valor de los activos fijos e inventarios propiedad de residentes en el extranjero destinados a la operación de maquila será calculado de conformidad con lo dispuesto en las fracciones LXXV y LXXVI de este Artículo Transitorio.
+
+Para los efectos de esta fracción, no será aplicable lo dispuesto por el artículo 5o.-A de la Ley del Impuesto al Activo.
+
+2. El 6.5% sobre el monto total de los costos y gastos de operación relacionados con la operación de maquila, incluso los incurridos por residentes en el extranjero, correspondientes a cada uno de los ejercicios fiscales de 2002 y 2003, determinados de conformidad con los principios de contabilidad generalmente aceptados, aplicables al 31 de diciembre de 2001, excepto por lo siguiente:
+
+i) En lugar de considerar el valor de las mercancías, así como de las materias primas, productos semiterminados o terminados, utilizados en la operación de maquila, se considerará el valor total de dichas adquisiciones de conformidad con el artículo 29, fracción II de la Ley del Impuesto sobre la Renta, efectuadas en cada uno de los ejercicios de 2002 y 2003, destinados a la operación de maquila, aun cuando no se enajenen o no hayan sido utilizados en la operación de maquila.
+
+Para los efectos de este numeral, no se incluirá el valor que corresponda a la adquisición de mercancías, así como de materias primas, productos semiterminados o terminados, destinados a la operación de maquila, que efectúen por cuenta propia residentes en el extranjero.
+
+ii) La depreciación y amortización de los activos fijos, gastos y cargos diferidos propiedad de la empresa maquiladora, destinados a la operación de maquila, se calcularán aplicando los por cientos máximos autorizados en los artículos 39, 40 y 41 de la Ley del Impuesto sobre la Renta. La depreciación y amortización antes señaladas se actualizarán de conformidad con el artículo 37 de la citada Ley.
+
+Para los efectos de este subinciso no se considerará la depreciación y amortización de los activos fijos, gastos y cargos diferidos, propiedad de residentes en el extranjero.
+
+iii) No deberán considerarse los efectos de inflación determinados en los términos del Boletín B-10 emitido por el Instituto Mexicano de Contadores Públicos, A.C.
+
+iv) Podrán no considerarse los gastos financieros.
+
+v) Podrán no considerarse los gastos realizados en el extranjero por residentes en el extranjero por concepto de servicios relacionados con la operación de maquila, siempre que dichos servicios se presten y se aprovechen totalmente en el extranjero y su pago no se efectúe por cuenta de dicha maquiladora.
+
+Los conceptos a que se refiere este numeral se deberán considerar en su valor histórico sin actualización por inflación, con excepción de lo dispuesto en el subinciso ii) de este numeral.
+
+Para los efectos del cálculo a que se refiere el primer párrafo de este numeral, el monto de los gastos incurridos por residentes en el extranjero por servicios personales subordinados relacionados con la operación de maquila, que se presten o aprovechen en territorio nacional, deberá comprender el total del salario pagado en el ejercicio fiscal de que se trate, incluyendo cualesquiera de las prestaciones señaladas en reglas de carácter general que al efecto expida el Servicio de Administración Tributaria, otorgadas a la persona física.
+
+Cuando la persona física prestadora del servicio personal subordinado sea residente en el extranjero, en lugar de aplicar lo dispuesto en el párrafo anterior, se podrá considerar en forma proporcional los gastos referidos en el citado párrafo. Para obtener esta proporción se multiplicará el monto total del salario percibido por la persona física en el ejercicio fiscal de que se trate, por el cociente que resulte de dividir el número de días que haya permanecido en territorio nacional dicha persona entre 365. Se considerará número de días que la persona física permanece en territorio nacional, aquellos en los que tenga una presencia física en el país, así como los sábados y domingos por cada 5 días hábiles de estancia en territorio nacional, las vacaciones cuando la persona física de que se trate haya permanecido en el país por más de 183 días en un periodo de 12 meses, las interrupciones laborales de corta duración, así como los permisos por enfermedad.
+
+Las empresas maquiladoras que opten por aplicar lo dispuesto en este inciso presentarán ante el Servicio de Administración Tributaria, un aviso en escrito libre en el que manifiesten que la utilidad fiscal de la empresa maquiladora en cada uno de los ejercicios fiscales de 2002 y 2003, representará al menos la cantidad mayor que resulte de aplicar lo dispuesto en los numerales 1 y 2 anteriores.
+
+Las empresas maquiladoras que hayan optado por aplicar lo dispuesto en el presente inciso, quedarán exceptuadas de la obligación de presentar la declaración informativa señalada en la fracción XIV del artículo 86 de la Ley del Impuesto sobre la Renta, únicamente por la operación de maquila.
+
+b) Cuando no opten por aplicar lo dispuesto en el inciso anterior, deberán solicitar y obtener una resolución particular en los términos del artículo 34-A del Código Fiscal de la Federación, en la que se confirme que cumplen con lo dispuesto en los artículos 215 y 216 de la Ley del Impuesto sobre la Renta.
+
+Las empresas maquiladoras deberán proporcionar a las autoridades fiscales conjuntamente con la solicitud a que se refiere el párrafo anterior, la información y documentación que al efecto señale el Servicio de Administración Tributaria mediante reglas de carácter general, incluyendo, además, copia del programa de operación de maquila aprobado por la Secretaría de Economía, así como sus modificaciones correspondientes.
+
+Para los efectos de este inciso las empresas maquiladoras deberán presentar ante el Servicio de Administración Tributaria, una consulta de conformidad con el artículo 34-A del Código Fiscal de la Federación y con las reglas de carácter general que al efecto expida el propio Servicio, en la cual se deberán considerar todos los activos destinados a la operación de maquila.
+
+c) Las empresas maquiladoras que hayan optado por lo dispuesto en el inciso a) de esta fracción, deberán presentar a más tardar el 30 de abril de 2003 y 2004, según corresponda, en el formato o medios magnéticos que al efecto autorice el Servicio de Administración Tributaria mediante reglas de carácter general, entre otra, la siguiente información:
+
+1. El monto de la utilidad fiscal obtenida en cada uno de los ejercicios de 2002 y 2003, según corresponda, así como los porcentajes que representa respecto del valor de los activos destinados a la operación de maquila en los citados ejercicios y respecto del monto total de los costos y gastos correspondientes a tales ejercicios, de conformidad con lo dispuesto en el inciso a) de esta fracción.
+
+2. El valor de todos los activos destinados a la operación de maquila, calculados de conformidad con el numeral 1 del inciso a) de esta fracción, agrupados por cada uno de los siguientes conceptos: activos financieros, activos fijos, gastos y cargos diferidos, terrenos, inventarios y otros activos. Esta información deberá presentarse en forma separada por los activos propiedad de la empresa maquiladora, del residente en el extranjero, de cada una de las partes relacionadas de dicha maquiladora o del residente en el extranjero. No se considerará para los efectos de este numeral el valor de los activos que se haya excluido en los términos del segundo párrafo del numeral 1 del inciso a) de esta fracción.
+
+3. El monto de las contraprestaciones y los plazos que se hubieren pactado en cada uno de los contratos a través de los cuales se otorgue el uso o goce temporal de los activos destinados a la actividad de maquila, en los casos en que el valor de dichos activos se hubiere excluido de conformidad con lo dispuesto en el segundo párrafo del numeral 1 del inciso a) de esta fracción.
+
+4. El valor de todos los activos que se excluyeron del cálculo previsto en el inciso a) de esta fracción de conformidad con lo dispuesto en la fracción LXXVI de este Artículo Transitorio, agrupados de conformidad con el numeral 2 de esta fracción, señalando la razón por la cual fueron excluidos.
+
+5. Una relación de los costos y gastos de operación correspondientes a la maquiladora por cada uno de los ejercicios de 2002 y 2003, según corresponda, desglosados por concepto e importe, señalando por separado los conceptos a que se refieren los subincisos i) y ii) del numeral 2 del inciso a) de esta fracción.
+
+La información relacionada con los gastos a que se refieren el segundo y tercer párrafos del numeral 2 del inciso a) de esta fracción, que solicite la autoridad fiscal a la maquiladora en el ejercicio de sus facultades, podrá ser presentada por el residente en el extranjero que haya realizado dichos gastos. Sólo cuando dicho residente presente en tiempo y forma ante la autoridad la documentación requerida, quedará liberada la maquiladora de este requisito.
+
+En ningún momento se aplicarán los beneficios previstos en esta fracción si la documentación a que se refiere este inciso no se presente, se presente incompleta o en forma extemporánea.
+
+El Servicio de Administración Tributaria podrá autorizar por el ejercicio fiscal de 2002 y 2003 a las empresas maquiladoras que hayan optado por lo dispuesto en el inciso b) de esta fracción, a que cambien dicha opción y apliquen lo dispuesto en el inciso a) de la misma, siempre que cumplan con lo dispuesto en las reglas de carácter general que al efecto expida el propio Servicio de Administración Tributaria.
+
+Las empresas maquiladoras que hayan optado por aplicar lo dispuesto en el inciso a) de esta fracción, podrán cambiar dicha opción en los ejercicios fiscales de 2002 y 2003, siempre que soliciten y obtengan una resolución particular en los términos del artículo 34-A del Código Fiscal de la Federación, en la que se confirme que en dichos ejercicios cumplen con lo dispuesto en los artículos 215 y 216 de la Ley del Impuesto sobre la Renta.
+
+Las maquiladoras que de conformidad con lo dispuesto en el artículo 215 de la Ley del Impuesto sobre la Renta, no sean partes relacionadas de los residentes en el extranjero a que se refiere el primer párrafo de esta fracción, podrán estar a lo dispuesto en dicho primer párrafo, si cumplen con lo dispuesto en los incisos a) y c) anteriores y siempre que dichas maquiladoras presenten un aviso ante las autoridades fiscales a más tardar el 31 de marzo de 2002. Cuando la aplicación de lo dispuesto en este párrafo genere o pueda generar doble tributación para el mencionado residente en el extranjero, la maquiladora podrá iniciar, ante las autoridades fiscales mexicanas competentes, el procedimiento amistoso de resolución de controversias previsto en los tratados para evitar la doble tributación celebrados por México, según sea el caso.
+
+Para los efectos de esta fracción, se considera que las maquiladoras de servicios realizan exclusivamente actividades de comercio exterior, cuando más del 90% de los ingresos que obtengan en el ejercicio fiscal de que se trate hayan sido pagados por residentes en el extranjero u otras empresas que tengan autorizado un programa de maquila conforme los decretos señalados en el primer párrafo de esta fracción y además dichos ingresos provengan del ensamble, reparación, clasificación o empaque, de mercancías importadas temporalmente al amparo de un programa de maquila que posteriormente se retornen al extranjero en los términos de la legislación aduanera.
+
+LXXV. Para los efectos del numeral 1, inciso a) de la fracción anterior, las empresas maquiladoras a que se refiere dicha fracción deberán determinar el valor de los inventarios, activos fijos, cargos y gastos diferidos, propiedad de residentes en el extranjero destinados a la operación de maquila conforme a lo siguiente:
+
+a) El valor de los inventarios de materias primas, productos semiterminados o terminados, se determinará sumando los promedios mensuales de dichos inventarios, correspondientes a todos los meses del ejercicio y dividiendo el total entre el número de meses comprendidos en el ejercicio. El promedio mensual de los inventarios de materias primas, productos semiterminados o terminados, se determinará mediante la suma de dichos inventarios al inicio y al final del mes, así como del total de costos y gastos relacionados con la operación de maquila correspondientes a dicho mes y dividiendo el resultado entre dos. Los inventarios al inicio y al final del mes deberán valuarse conforme al método que la empresa maquiladora tenga implantado y con base en el mayor de los valores que para las materias primas o productos semiterminados o terminados se hubieren consignado en:
+
+1. El pedimento de importación;
+
+2. El contrato de seguro en el que se aseguren los inventarios para su importación a territorio nacional. Este valor no se tomará en cuenta si en el contrato correspondiente no se hubiere identificado por separado el valor de dichos inventarios respecto del valor de otros bienes.
+
+3. El que corresponda de conformidad con los artículos 215 y 216 de la Ley del Impuesto sobre la Renta, cuando el contribuyente cuente con la documentación señalada en el artículo 86, fracción XII de la mencionada Ley en el ejercicio en que se haya efectuado la importación de los inventarios y dicha documentación haya sido emitida en un periodo no mayor a seis meses anterior a la fecha en que se hayan importado dichos bienes; o
+
+4. El valor que se encuentre registrado en la contabilidad del propietario de dichos inventarios al momento de ser importados a México.
+
+Para determinar el mayor de los valores a que se refiere este inciso los contribuyentes deberán convertir a moneda nacional, en su caso, las cantidades previstas en los numerales antes señalados. Cuando dichas cantidades se encuentren denominadas en dólares de los Estados Unidos de América, el contribuyente deberá convertirlas a moneda nacional aplicando el tipo de cambio publicado en el Diario Oficial de la Federación vigente a la fecha de la importación de los bienes de que se trate a México. En caso de que el Banco de México no hubiera publicado dicho tipo de cambio, se aplicará el último tipo de cambio publicado con anterioridad a la fecha de su importación. Cuando las referidas cantidades estén denominadas en una moneda extranjera distinta del dólar de los Estados Unidos de América, se deberá multiplicar el tipo de cambio antes mencionado por el equivalente en dólares de los Estados Unidos de América de la moneda de que se trate, de acuerdo con la tabla que publique el Banco de México en el mes inmediato siguiente a aquél al que corresponda.
+
+b) El valor de los activos fijos será el monto pendiente por depreciar actualizado, calculado conforme a lo siguiente:
+
+1. Se considerará como monto original de la inversión el mayor de los siguientes valores, convertidos a dólares de los Estados Unidos de América:
+
+i) El consignado en el pedimento de importación;
+
+ii) El señalado en el contrato de seguro con el que se aseguren los activos fijos para su importación a territorio nacional. Este valor no se tomará en cuenta si en el contrato correspondiente no se hubiere identificado por separado el valor de dichos activos respecto del valor de otros bienes.
+
+iii) El que corresponda de conformidad con los artículos 215 y 216 de la Ley del Impuesto sobre la Renta, cuando el contribuyente cuente con la documentación señalada en el artículo 86, fracción XII de la misma Ley en el ejercicio en que se haya efectuado la importación de los activos fijos y dicha documentación haya sido emitida en un periodo no mayor a seis meses anterior a la fecha en que se hayan importado dichos bienes; o
+
+iv) El que resulte de disminuir el valor en que fueron adquiridos los activos fijos por los residentes en el extranjero con la cantidad que se obtenga de aplicar a dicho valor los porcientos máximos autorizados previstos en los artículos 39, 40, 41, 42 y demás aplicables de la Ley del Impuesto sobre la Renta, según corresponda al bien de que se trate, sin que en ningún caso se pueda aplicar lo dispuesto en el artículo 51 de la Ley del Impuesto sobre la Renta vigente hasta 1998. En este caso, la depreciación se considerará por meses completos, desde la fecha en que el activo fijo fue adquirido y hasta el mes en que se importe el bien. La cantidad que resulte conforme el cálculo anterior se actualizará desde la fecha en la que el residente en el extranjero adquirió el bien de que se trate y hasta el mes inmediato anterior a la fecha de la importación de los activos fijos de conformidad con lo dispuesto en el párrafo segundo del numeral 3 de esta fracción. En los casos en los que tanto la fecha de adquisición como la de importación de los activos citados correspondan al mismo mes y año, no se efectuará la actualización a que se refiere este subinciso.
+
+Para los efectos del primer párrafo de este numeral, la conversión a dólares de los Estados Unidos de América de los valores denominados en moneda nacional se llevará a cabo utilizando el tipo de cambio publicado en el Diario Oficial de la Federación vigente en la fecha de importación de los activos fijos. En el caso de que el Banco de México no hubiera publicado dicho tipo de cambio, se aplicará el último tipo de cambio publicado con anterioridad a la fecha de la importación de los activos fijos. La conversión a dólares de los Estados Unidos de América a que se refiere el párrafo anterior, de los valores denominados en otras monedas extranjeras, se efectuará utilizando el equivalente en dólares de los Estados Unidos de América de esta última moneda de acuerdo con la tabla que mensualmente publique el Banco de México durante la primera semana del mes inmediato siguiente a aquél al que corresponda.
+
+2. El monto pendiente por depreciar se calculará disminuyendo del monto original de la inversión determinado conforme a lo dispuesto en el numeral anterior, la cantidad que resulte de aplicar a este último monto los porcientos máximos autorizados previstos en los artículos 39, 40, 41, 42 y demás aplicables de la Ley del Impuesto sobre la Renta según corresponda al bien de que se trate, sin que en ningún caso se pueda aplicar lo dispuesto en el artículo 51 de la Ley del Impuesto sobre la Renta vigente hasta 1998. Para los efectos de este numeral, se deberá considerar la depreciación por meses completos, desde la fecha en que fueron importados y hasta el último mes de la primera mitad del ejercicio por el que se determine la utilidad fiscal de conformidad con la fracción LXXIV de este Artículo Transitorio. Cuando el bien de que se trate haya sido importado durante dicho ejercicio, la depreciación se considerará por meses completos desde la fecha de importación de dicho bien y hasta el último mes de la primera mitad del periodo en el que el bien haya sido destinado a la operación de maquila en el referido ejercicio.
+
+3. El monto pendiente por depreciar actualizado será el que resulte de aplicar a la cantidad calculada conforme al numeral anterior, el factor de actualización calculado por el periodo comprendido desde la fecha de importación de los activos fijos y hasta el último mes de la primera mitad del ejercicio por el que se determine la utilidad fiscal de conformidad con la fracción LXXIV de este Artículo Transitorio. Cuando el bien de que se trate haya sido importado durante dicho ejercicio, el monto pendiente por depreciar se actualizará por el periodo comprendido desde la fecha de importación de dicho bien y hasta el último mes de la primera mitad del periodo en el que el bien haya sido destinado a la operación de maquila en el referido ejercicio.
+
+El factor de actualización será la cantidad que resulte de dividir el índice de precios del productor de los Estados Unidos de América (Producer Price Index, Total Manufacturing Industries) del mes más reciente del periodo, entre el citado índice correspondiente al mes más antiguo de dicho periodo. Dicho factor se calculará hasta el diezmilésimo tomando en cuenta los periodos señalados en los párrafos anteriores.
+
+Tratándose de ejercicios irregulares, el factor de actualización se calculará por el periodo comprendido desde la fecha de adquisición o importación, según corresponda, y hasta el último mes de la primera mitad del periodo por el cual se haya destinado el bien a la operación de maquila. En el caso de ser impar el número de meses, se usará el mes anterior al que corresponda a la mitad del periodo.
+
+4. La cantidad que resulte de aplicar lo dispuesto en el numeral anterior, se convertirá a moneda nacional por el tipo de cambio que corresponda al último día del ejercicio por el que se determine la utilidad fiscal de conformidad con el inciso a) de la fracción LXXIV de este Artículo Transitorio.
+
+5. En ningún caso el monto pendiente de depreciar actualizado podrá ser inferior al 10% del monto original de la inversión actualizado por el periodo comprendido desde la fecha de importación del bien de que se trate y hasta el último mes de la primera mitad del ejercicio por el que se determine la utilidad fiscal de conformidad con la fracción LXXIV de este Artículo Transitorio.
+
+Cuando sea irregular el ejercicio en el que se utilice el activo fijo propiedad del residente en el extranjero, el valor del mismo se determinará dividiendo entre doce la cantidad que resulte de aplicar lo dispuesto en el numeral 2 de este inciso y el cociente se multiplicará por los meses en los que dicho activo se haya destinado a la operación de maquila durante el ejercicio. La cantidad que resulte conforme lo anterior se actualizará y convertirá a moneda nacional en los términos de los numerales 3 y 4 anteriores.
+
+c) Las empresas maquiladoras podrán optar por incluir los gastos y cargos diferidos, en el valor de los activos destinados a la operación de maquila.
+
+Las empresas maquiladoras deberán tener a disposición de las autoridades fiscales la documentación correspondiente en la que, en su caso, consten los valores previstos en los numerales 1, 2, 3 y 4 del inciso a) y en el numeral 1 del inciso b), de esta fracción. Se considerará que se cumple con la obligación de tener a disposición de las autoridades fiscales la documentación antes referida, cuando se proporcione a dichas autoridades, en su caso, dentro de los plazos señalados en las disposiciones fiscales. En ningún momento se podrá aplicar lo dispuesto en la fracción LXXIV de este Artículo Transitorio cuando no se tenga a disposición de las autoridades fiscales la documentación antes señalada.
+
+LXXVI. Para efectos de las fracciones LXXIV y LXXV de este Artículo Transitorio, las empresas maquiladoras podrán excluir del cálculo del valor de los activos destinados a la operación de maquila, los terrenos, las construcciones, la maquinaria y el equipo, hasta en tanto no se obtengan ingresos por su utilización, siempre que los hubieren adquirido con posterioridad al 31 de diciembre de 2001, y correspondan a obras de expansión.
+
+Los activos que hayan generado ingresos para las empresas maquiladoras no podrán excluirse en los términos del párrafo anterior.
+
+LXXVII. Las empresas maquiladoras de nueva creación que opten por aplicar lo dispuesto en la fracción LXXIV de este Artículo Transitorio, podrán cumplir con lo dispuesto en el inciso a) de la misma por los ejercicios fiscales de 2002 y 2003, si la utilidad fiscal en los ejercicios mencionados determinada de conformidad con el artículo 10 y demás aplicables de la Ley del Impuesto sobre la Renta, representa, en su caso, al menos la cantidad que resulte de aplicar lo dispuesto en el numeral 2 del inciso a) de la citada fracción.
+
+Lo dispuesto en el párrafo anterior no será aplicable en el ejercicio fiscal de 2002 si la maquiladora de nueva creación obtuvo en el ejercicio fiscal de 2001 ingresos derivados de la prestación del servicio de maquila.
+
+Para los efectos de esta fracción, se consideran empresas maquiladoras de nueva creación las personas morales que cumplan con lo siguiente:
+
+a) Que se hayan constituido de conformidad con las leyes mexicanas con posterioridad al 31 de diciembre de 2001.
+
+b) Que en el ejercicio fiscal de 2002, la Secretaría de Economía les haya autorizado por primera vez un programa de maquila.
+
+c) Que su constitución o creación no sea consecuencia de actos de fusión o escisión.
+
+d) Que más del 10% del valor total de los activos, calculado de conformidad con las fracciones LXXIV, LXXV y LXXVI, que destinen a la operación de maquila no corresponda, a activos que hayan sido adquiridos o utilizados previamente por otra empresa maquiladora.
+
+Las empresas maquiladoras de nueva creación que opten por aplicar lo dispuesto en esta fracción, podrán presentar los escritos a que refieren los incisos a) y b) de la fracción LXXIV de este Artículo Transitorio a más tardar en el mes de diciembre del ejercicio fiscal de que se trate.
+
+LXXVIII. Las empresas maquiladoras que realicen además de su operación de maquila, actividades distintas a ésta, podrán acogerse a lo dispuesto en la fracción LXXIV de este Artículo Transitorio sólo por la operación de maquila. Las actividades distintas a las antes señaladas estarán sujetas a lo establecido en la Ley del Impuesto sobre la Renta.
+
+Cuando las empresas maquiladoras hubieren optado por lo dispuesto en la Regla 3.33.1. de la Resolución Miscelánea Fiscal para 1999, publicada en el Diario Oficial de la Federación con fecha 3 de marzo del propio año, estarán a lo dispuesto en el párrafo anterior, siempre que hubieran aplicado dicha Regla únicamente por la operación de maquila.
+
+LXXIX. Cuando el Servicio de Administración Tributaria emita una resolución para los efectos de lo establecido en las reglas 244 y 244-C de la Resolución que establece para 1995 reglas de carácter general aplicables a los impuestos y derechos federales, excepto a los relacionados con el comercio exterior, publicada en el Diario Oficial de la Federación el día 31 de marzo del referido año, así como las reglas 255 y 258 de la Resolución que establece para 1996 reglas de carácter general aplicables a los impuestos y derechos federales, excepto a los relacionados con el comercio exterior, publicada en el Diario Oficial de la Federación el día 29 de marzo del referido año, que confirme que no se encuentran en los supuestos de determinación presuntiva previstos en los artículos 64 y 64-A de la Ley del Impuesto sobre la Renta que se abroga y en las reglas 2.12.2., 3.33.1., 3.32.1. y 2.12.3., de la Resolución Miscelánea Fiscal para 1997, 1998, 2000 y su prórroga para 2001, publicadas en el Diario Oficial de la Federación el 21 de marzo de 1997, el 9 de marzo de 1998, 6 de marzo de 2000 y 2 de marzo de 2001, respectivamente, que confirme que cumple con lo establecido por el artículo 215 de la Ley del Impuesto sobre la Renta y dicho impuesto, determinado por el contribuyente con base en la aplicación del método autorizado por el Servicio de Administración Tributaria, sea mayor al enterado por el contribuyente, los recargos por tal diferencia se causarán a partir del vigésimo día hábil siguiente a aquél en que se notifique la resolución respectiva, siempre que:
+
+a) La empresa maquiladora hubiera presentado la solicitud a que se refieren las reglas 244-C de la Resolución Miscelánea Fiscal para 1995 y 258 de la correspondiente para 1996 y 3.33.4. de la correspondiente para 1997, 3.33.4. correspondiente para 1998, 3.32.1. rubro E correspondiente a 2000 y 2001, a más tardar el 2 de enero de 1996, el 7 de enero de 1997, 7 de enero de 1998, 6 de enero de 1999, 31 de mayo de 2000 o con anterioridad a la publicación de esta fracción por la correspondiente a 2001, respectivamente.
+
+b) La utilidad fiscal de la empresa maquiladora contenida en la declaración del ejercicio de 1995, 1996, 1997, 1998, 1999, 2000 y 2001 se hubiera determinado mediante la aplicación del método propuesto en las solicitudes a que se refiere el inciso anterior, siempre que la declaración correspondiente al ejercicio de 1995, se haya presentado con anterioridad al 18 de junio de 1996, la declaración correspondiente al ejercicio de 1996 se haya presentado a más tardar el 31 de marzo de 1997, la declaración correspondiente al ejercicio de 1997 se haya presentado a más tardar el 31 de marzo de 1998, la declaración correspondiente al ejercicio fiscal de 1998, se haya presentado a más tardar el 31 de marzo de 1999, la declaración correspondiente al ejercicio fiscal de 1999, se haya presentado a más tardar el 31 de marzo de 2000, la declaración correspondiente del ejercicio de 2000 se haya presentado a más tardar el 31 de marzo de 2001 y la del ejercicio de 2001 se presente a más tardar el 31 de marzo de 2002.
+
+c) Que la empresa maquiladora presente toda la documentación e información que haya sido solicitada por el Servicio de Administración Tributaria dentro de un plazo de 15 días contados a partir del día siguiente a aquél en que surta efectos la notificación del requerimiento de información.
+
+LXXX. Por los ejercicios fiscales de 2002 y 2003, las empresas maquiladoras bajo programa de albergue, podrán considerar que no tienen establecimiento permanente en el país, únicamente por las actividades de maquila que realicen al amparo del programa autorizado por la Secretaría de Economía, cuando para dichas actividades utilicen activos propiedad de un residente en el extranjero.
+
+LXXXI. Para los efectos de la Ley del Impuesto al Activo, las personas residentes en el extranjero que mantengan inventarios para su transformación por empresas consideradas como maquiladoras en los términos de los Decretos para el fomento y operación de la industria maquiladora de exportación, publicados en el Diario Oficial de la Federación el 22 de diciembre de 1989, el 1o. de junio de 1998 y 31 de diciembre de 2000, u otorguen a dichas maquiladoras el uso o goce temporal de bienes de procedencia extranjera, podrán incluir en el valor del activo únicamente, los inventarios o bienes señalados, en la proporción que la producción destinada al mercado nacional represente del total de la producción de dichas maquiladoras, siempre que estas últimas cumplan con lo dispuesto en la fracción LXXIV de este Artículo Transitorio. Lo dispuesto en esta fracción también será aplicable para los ejercicios de 2002 y 2003 a las empresas maquiladoras bajo programa de albergue a que se refiere la fracción LXXX de este Artículo Transitorio, sin que su aplicación obligue al cumplimiento de lo dispuesto en la fracción LXXIV de este Artículo Transitorio.
+
+LXXXII. Para los efectos del primer párrafo del artículo 10 de la Ley del Impuesto sobre la Renta en lugar de aplicar la tasa establecida en dicho precepto, durante el ejercicio fiscal de 2002 se aplicará la tasa del 35%, durante el ejercicio fiscal de 2003 se aplicará la tasa del 34% y durante el ejercicio fiscal de 2004 se aplicará la tasa del 33%.
+
+Cuando en la Ley del Impuesto sobre la Renta se haga referencia al factor de 1.4706, durante el ejercicio fiscal de 2002 será de 1.5385, durante el ejercicio fiscal de 2003 será de 1.5152 y durante el ejercicio de 2004 será de 1.4925.
+
+Asimismo, para los efectos del artículo 11, fracción II de la Ley del Impuesto sobre la Renta, cuando los dividendos o utilidades distribuidos que motiven el acreditamiento del impuesto sobre la renta se hayan distribuido en el ejercicio fiscal de 2002 el factor a que se refiere el precepto citado será de 0.5385, cuando los dividendos o utilidades distribuidos que motiven el acreditamiento del impuesto sobre la renta se hayan distribuido en el ejercicio fiscal de 2003 el factor será 0.5152 y cuando se trate de dividendos o utilidades distribuidos que motiven el acreditamiento del impuesto sobre la renta se hayan distribuido en el ejercicio fiscal de 2004 se aplicará el factor de 0.4925.
+
+LXXXIII. Los contribuyentes que conforme a la Ley del Impuesto sobre la Renta que se abroga, estaban obligados a efectuar pagos provisionales trimestrales, los que tributaban en el régimen de pequeños contribuyentes y los que tributaban en el régimen simplificado, efectuarán los pagos provisionales del impuesto sobre la renta a su cargo y de las retenciones efectuadas, correspondientes a los tres primeros meses del ejercicio fiscal de 2002, mediante una sola declaración que presentarán a más tardar el día 17 de abril del 2002.
+
+LXXXIV. Para los efectos de lo dispuesto en la Ley de Coordinación Fiscal, a partir del 1o. de enero de 2003 no se incluirá en la recaudación federal participable a que hace referencia el segundo párrafo del artículo 2o. de la citada Ley, la parte de los ingresos que se obtengan por el impuesto sobre la renta de las personas físicas aplicable a los rendimientos de la deuda pública recaudada como retención.
+
+LXXXV. Lo dispuesto por los artículos 24 y 25 de la Ley del Impuesto sobre la Renta, entrará en vigor a partir del 1o. de abril de 2002. Durante el periodo en que entra en vigor dichos artículos, los contribuyentes que enajenen acciones deberán aplicar lo dispuesto en los artículos 19 y 19-A de la Ley del Impuesto sobre la Renta que se abroga.
+
+LXXXVI. Las personas físicas y morales dedicadas exclusivamente a actividades agrícolas o ganaderas, que adquieran terrenos a partir del primero de enero del 2002, cuyo uso hubiese sido para actividades agrícolas o ganaderas, y que los utilicen únicamente para fines agrícolas o ganaderas, podrán deducir el monto original de la inversión de los mismos, de la utilidad fiscal que se genere por dichas actividades en el ejercicio en que se adquieran y en los tres ejercicios inmediatos siguientes hasta agotarlo, siempre que dichos terrenos se utilicen exclusivamente para las labores agrícolas o ganaderas durante el periodo citado.
+
+El monto original de la inversión que no se deduzca en el ejercicio en el que se adquirió el terreno, se actualizará multiplicándolo por el factor de actualización correspondiente al periodo comprendido desde el primer mes de la segunda mitad del ejercicio en el que se adquirió, y hasta el último mes del ejercicio inmediato anterior a aquél en el que se deduzca. La parte del monto original de la inversión del terreno de que se trate ya actualizada pendiente de deducir de la utilidad fiscal, se actualizará multiplicándola por el factor de actualización correspondiente al periodo comprendido desde el mes en el que se actualizó por última vez y hasta el último mes del ejercicio inmediato anterior a aquél en el que se aplicará la deducción de que se trate.
+
+Para determinar la ganancia por la enajenación de estos terrenos, se considerará como monto original de la inversión, el saldo pendiente de deducir a la fecha de la enajenación.
+
+LXXXVII. Para los efectos del artículo 113 de la Ley del Impuesto sobre la Renta, en lugar de aplicar la tarifa contenida en dicho precepto, durante los ejercicios fiscales de 2002 al 2004 se aplicarán las siguientes:
+
+a) Para el ejercicio fiscal de 2002
+
+TARIFA
+
+Límite Límite Cuota Tasa
+
+inferior superior fija para aplicarse
+
+sobre el
+
+excedente del
+
+límite inferior
+
+$ $ $ %
+
+0.01 429.44 0.00 3.00
+
+429.45 3,644.94 12.88 10.00
+
+3,644.95 6,405.65 334.43 17.00
+
+6,405.66 7,446.29 803.76 25.00
+
+7,446.30 8,915.24 1,063.92 32.00
+
+8,915.25 17,980.76 1,533.98 33.00
+
+17,980.77 52,419.18 4,525.60 34.00
+
+52,419.19 En adelante 16,234.65 35.00
+
+b) Para el ejercicio fiscal de 2003
+
+TARIFA
+
+Límite Límite Cuota Tasa para
+
+inferior superior aplicarse
+
+sobre el
+
+excedente del
+
+límite inferior
+
+$ $ $ %
+
+0.01 429.44 0.00 3.00
+
+429.45 3,644.94 12.88 10.00
+
+3,644.95 6,405.65 334.43 17.00
+
+6,405.66 7,446.29 803.76 25.00
+
+7,446.30 8,915.24 1,063.92 32.00
+
+8,915.25 17,980.76 1,533.98 33.00
+
+17,980.77 En adelante 4,525.60 34.00
+
+c) Para el ejercicio fiscal de 2004
+
+TARIFA
+
+Límite Límite Cuota Tasa para
+
+inferior superior fija aplicarse
+
+sobre el
+
+excedente del
+
+límite inferior
+
+$ $ $ %
+
+0.01 429.44 0.00 3.00
+
+429.45 3,644.94 12.88 10.00
+
+3,644.95 6,405.65 334.43 17.00
+
+6,405.66 7,446.29 803.76 25.00
+
+7,446.30 8,915.24 1,063.92 32.00
+
+8,915.25 En adelante 1,533.98 33.00
+
+LXXXVIII. Para los efectos del artículo 177 de la Ley del Impuesto sobre la Renta, en lugar de aplicar la tarifa contenida en dicho precepto, durante los ejercicios fiscales de 2002 al 2004 se aplicarán las siguientes:
+
+a) Para el ejercicio fiscal de 2002
+
+TARIFA
+
+Límite Límite Cuota Tasa para
+
+inferior superior fija aplicarse
+
+sobre el
+
+excedente del
+
+límite inferior
+
+$ $ $ %
+
+0.01 5,153.22 0.00 3.00
+
+5,153.23 43,739.22 154.56 10.00
+
+43,739.23 76,867.80 4,013.10 17.00
+
+76,867.81 89,355.49 9,645.12 25.00
+
+89,355.49 106,982.82 12,767.04 32.00
+
+106,982.83 215,769.06 18,407.70 33.00
+
+215,769.07 629,030.10 54,307.20 34.00
+
+629,030.11 En adelante 194,815.74 35.00
+
+b) Para el ejercicio fiscal de 2003
+
+TARIFA
+
+Límite Límite Cuota Tasa para
+
+inferior superior fija aplicarse
+
+sobre el
+
+excedente del
+
+límite inferior
+
+$ $ $ %
+
+0.01 5,153.22 0.00 3.00
+
+5,153.23 43,739.22 154.56 10.00
+
+43,739.23 76,867.80 4,013.10 17.00
+
+76,867.81 89,355.48 9,645.12 25.00
+
+89,355.49 106,982.82 12,767.04 32.00
+
+106,982.83 215,769.06 18,407.70 33.00
+
+215,769.07 En adelante 54,307.20 34.00
+
+c) Para el ejercicio fiscal de 2004
+
+TARIFA
+
+Límite Límite Cuota Tasa para
+
+inferior superior fija aplicarse
+
+sobre el
+
+excedente del
+
+límite inferior
+
+$ $ $ %
+
+0.01 5,153.22 0.00 3.00
+
+5,153.23 43,739.22 154.56 10.00
+
+43,739.23 76,867.80 4,013.10 17.00
+
+76,867.81 89,355.48 9,645.12 25.00
+
+89,355.49 106,982.82 12,767.04 32.00
+
+106,982.83 En adelante 18,407.70 33.00
+
+LXXXIX. A partir de la fecha en que entre en vigor la Ley del Impuesto Sobre la Renta, quedan sin efectos las disposiciones legales, reglamentarias, administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.
+
+XC. Para efectos del artículo 32 de la Ley del Impuesto sobre la Renta, la deducibilidad de la Participación de los Trabajadores en las Utilidades, será conciderada (sic) en el caso de que la expectativa de crecimiento en los criterios generales de política económica para el ejercicio de 2003 estimen un crecimiento superior al 3% del Producto Interno Bruto.
+
+Artículo Tercero. Del impuesto sustitutivo del crédito al salario.
+
+Único. Están obligadas al pago del impuesto sustitutivo del crédito al salario establecido en este artículo, las personas físicas y las morales que realicen erogaciones por la prestación de un servicio personal subordinado en territorio nacional, conforme a lo siguiente:
+
+Se consideran erogaciones por la prestación de un servicio personal subordinado, los salarios y demás prestaciones en efectivo o en especie que sean pagadas por la persona física o moral a quienes les presten un servicio personal subordinado. Para estos efectos, también se considerarán erogaciones por la prestación de un servicio personal subordinado aquellas erogaciones que para los efectos de la Ley del Impuesto sobre la Renta se consideran ingresos asimilados a salarios.
+
+El impuesto establecido en este artículo se determinará aplicando al total de las erogaciones realizadas por la prestación de un servicio personal subordinado, la tasa del 3%.
+
+El impuesto establecido en este artículo se calculará por ejercicios fiscales y se causará en el momento en que se realicen las erogaciones por la prestación de un servicio personal subordinado.
+
+El impuesto del ejercicio, deducidos los pagos provisionales del mismo, se pagará en el año 2003 mediante declaración que se presentará ante las oficinas autorizadas, en las mismas fechas de pago que las establecidas para el impuesto sobre la renta.
+
+Los contribuyentes de este impuesto efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio mediante declaración que presentarán ante las oficinas autorizadas a más tardar el día 17 del mes inmediato siguiente a aquél en el que se realicen dichas erogaciones. El pago provisional se calculará aplicando la tasa establecida en el párrafo tercero de este artículo sobre el total de las erogaciones efectuadas en el mes al que corresponda el pago.
+
+Los contribuyentes a que hace referencia este artículo podrán optar por no pagar el impuesto sustitutivo del crédito al salario a que se refiere el mismo, siempre que no efectúen la disminución del crédito al salario pagado a sus trabajadores establecida en los artículos 116, 117 y 120 de la Ley del Impuesto sobre la Renta.
+
+Cuando el monto del crédito al salario pagado a los trabajadores en los términos de la Ley del Impuesto sobre la Renta sea mayor que el impuesto causado en los términos de este artículo, los contribuyentes que ejerzan la opción a que se refiere el párrafo anterior podrán disminuir del impuesto sobre la renta a su cargo o del retenido a terceros, únicamente el monto en el que dicho crédito exceda del impuesto causado en los términos de este artículo, siempre y cuando, además, se cumplan los requisitos que para tales efectos establece el artículo 120 de la Ley del Impuesto sobre la Renta.
+
+Para los efectos de este artículo, se considera como una sola persona moral el conjunto de aquellas que reúna alguna de las características que se señalan a continuación, caso en el cual cada una de estas personas morales deberá pagar el impuesto establecido en este artículo por la totalidad del monto erogado por la prestación de un servicio personal subordinado:
+
+a) Que sean poseídas por una misma persona física o moral en más del 50% de las acciones o partes sociales con derecho a voto de las mismas.
+
+b) Cuando una misma persona física o moral ejerza control efectivo de ellas, aun cuando no determinen resultado fiscal consolidado. Se entiende que existe control efectivo, cuando se dé alguno de los siguientes supuestos:
+
+1. Cuando las actividades mercantiles de la sociedad de que se trate se realizan preponderantemente con la sociedad controladora o las controladas.
+
+2. Cuando la controladora o las controladas tengan junto con otras personas físicas o morales vinculadas con ellas, una participación superior al 50% en las acciones con derecho a voto de la sociedad de que se trate. En el caso de residentes en el extranjero, sólo se considerarán cuando residan en algún país con el que se tenga acuerdo amplio de intercambio de información.
+
+3. Cuando la controladora o las controladas tengan una inversión en la sociedad de que se trate, de tal magnitud que de hecho les permita ejercer una influencia preponderante en las operaciones de la empresa.
+
+Para los efectos de este numeral, se consideran sociedades controladoras o controladas las que en los términos de la Ley del Impuesto sobre la Renta se consideren como tales.
+
+Disposiciones Transitorias del impuesto sustitutivo del crédito al salario
+
+Artículo Cuarto. En relación con el impuesto sustitutivo del crédito al salario a que se refiere el Artículo Tercero de este Decreto, se estará a lo siguiente:
+
+Único. El impuesto establecido en el Artículo Tercero de este Decreto entrará en vigor el 1o. de enero de 2002.
