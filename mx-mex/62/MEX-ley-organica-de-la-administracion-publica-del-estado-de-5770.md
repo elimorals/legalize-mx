@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2002-12-10"
+last_updated: "2003-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2003.
 
-Ley Publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
+Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
 El Ciudadano LICENCIADO ALFREDO DEL MAZO GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
@@ -37,9 +37,7 @@ LA H. XLVIII LEGISLATURA DEL ESTADO DE MEXICO,
 
 DECRETA:
 
-LEY ORGANICA DE LA ADMINISTRACION
-
-PUBLICA DEL ESTADO DE MEXICO
+LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
 ## TITULO PRIMERO. De la Administración Pública
 
@@ -227,7 +225,9 @@ A la SECRETARIA GENERAL DE GOBIERNO corresponde, además de las atribuciones que
 
 I. Conducir las relaciones del Poder Ejecutivo con los demás Poderes y con los Ayuntamientos del Estado, así como con las autoridades de otras entidades federativas.
 
-II. Conducir por delegación del Ejecutivo los asuntos de orden político interno.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2003)</small>
+
+II. Conducir por delegación del Ejecutivo los asuntos de orden político interno y suplir al titular del Ejecutivo en sus ausencias de hasta por 15 días.
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
@@ -1382,6 +1382,12 @@ SEXTO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de ob
 > <small>(F. DE E., P.O. 31 DE ENERO DE 2003)</small>
 
 SEPTIMO.- Los asuntos y procedimientos que se hayan iniciado antes del primero de enero del año dos mil tres en la Secretaría de Desarrollo Urbano y Obras Públicas, se tramitarán y resolverán, según corresponda, por la Secretaría de Desarrollo Urbano y Vivienda o por la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo.
+
+P.O. 6 DE AGOSTO DE 2003
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
