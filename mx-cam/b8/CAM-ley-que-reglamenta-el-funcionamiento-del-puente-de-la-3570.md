@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-reglamenta-el-funcionamiento-del-puente-de-la-3570"
 country: "mx"
 rank: "ley"
 publication_date: "1982-11-24"
-last_updated: "1996-06-19"
+last_updated: "2000-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY QUE REGLAMENTA EL FUNCIONAMIENTO DEL PUENTE DE LA UNIDAD - EUGENIO ECHEVERRIA CASTELLOT -ANTES- PUENTE ISLA AGUADA-PUERTO REAL
 
-LEY QUE REGLAMENTA EL FUNCIONAMIENTO DEL PUENTE ISLA AGUADA-PUERTO REAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO TERCERO DEL DECRETO NÚMERO 272, PUBLICADO EN EL P.O. DE 13 DE ABRIL DE 2000, TODAS LAS REFERENCIAS QUE EN LAS LEYES, REGLAMENTOS Y DEMÁS DISPOSICIONES ADMINISTRATIVAS DEL ESTADO SE HAGAN AL PUENTE ISLA AGUADA - PUERTO REAL O PUENTE DE LA UNIDAD, SE TENDRÁN COMO HECHAS AL "PUENTE DE LA UNIDAD - EUGENIO ECHEVERRÍA CASTELLOT".]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 1996.
+LEY QUE REGLAMENTA EL FUNCIONAMIENTO DEL PUENTE DE LA UNIDAD - EUGENIO ECHEVERRÍA CASTELLOT
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2000.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Campeche, el miércoles 24 de noviembre de 1982.
 
@@ -37,7 +39,9 @@ El H. L Congreso Constitucional del Estado Libre y Soberano de Campeche, decreta
 
 Número 166
 
-LEY QUE REGLAMENTA EL FUNCIONAMIENTO DEL PUENTE ISLA AGUADA-PUERTO REAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ABRIL DE 2000)</small>
+
+LEY QUE REGLAMENTA EL FUNCIONAMIENTO DEL PUENTE DE LA UNIDAD - EUGENIO ECHEVERRÍA CASTELLOT
 
 ###### ARTICULO 1.
 
@@ -108,3 +112,19 @@ P.O. 19 DE JUNIO DE 1996
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 13 DE ABRIL DE 2000.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "DECRETO NÚMERO 272", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO.- Se modifica el nombre del Puente Isla Aguada - Puerto Real o Puente de la Unidad, ubicado en el Municipio de Carmen, para adicionarle el nombre de su constructor Eugenio Echeverría Castellot.
+
+SEGUNDO.- En lo sucesivo se denominará "Puente de la Unidad - Eugenio Echeverría Castellot".
+
+TERCERO.- Todas las referencias que en las leyes, reglamentos y demás disposiciones administrativas del Estado se hagan al Puente Isla Aguada - Puerto Real o Puente de la Unidad, se tendrán como hechas al "Puente de la Unidad - Eugenio Echeverría Castellot".
+
+## TRANSITORIOS
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
