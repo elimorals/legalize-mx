@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1999-03-17"
+last_updated: "2000-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2000.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -1983,43 +1983,75 @@ VEHICULO TRAMO TRAMO
 
 COMPLETO INTERMEDIO
 
-I.- Motocicletas 0.50 0.25
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DEL 2000)</small>
+
+I.- Motocicletas 16.00 8.00
 
 II.- Automóviles y Camionetas tipo pick-up y panel, de hasta 10 pasajeros.
 
-a).- Sin remolque 1.30 0.65
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2000)</small>
 
-b).- Con remolque 1.50 0.75
+a).- Sin remolque 42.00 21.00
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2000)</small>
+
+b).- Con remolque 59.00 30.00
 
 III.- Autobuses de
 
 pasajeros 1.70 0.85
 
-IV.- Camiones de carga
+> <small>(ADICIONADO [N DE E. REFORMADO], P.O. 4 DE AGOSTO DE 2000)</small>
 
-de 2 ejes 1.70 0.85
+a) De 2 ejes 56.00 28.00
 
-V.- Camiones de carga o
+> <small>(ADICIONADO [N DE E. REFORMADO], P.O. 4 DE AGOSTO DE 2000)</small>
 
-tractores con semiremolque
+b) De 3 ejes 78.00 39.00
 
-de 3 ejes 2.20 1.10
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2000)</small>
 
-VI.- Camiones de carga o
+IV.- Camiones de
 
-tractores con semiremolque
+carga de 2 ejes 56.00 28.00
 
-de 4 ejes. 2.70 1.35
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2000)</small>
 
-VII.- Camiones de carga o
+V.- Camiones de carga o tractores con semiremolque
 
-tractores con semiremolque
+a) De 3 ejes 78.00 39.00
 
-de 5 ejes. 3.20 1.60
+b) De 4 ejes 110.00 55.00
 
-Tratándose de camiones de carga o tractores con remolque de más de 5 ejes, las cuotas a que se refiere la fracción VII se incrementarán por cada eje excedente, en un 50% del salario mínimo general diario vigente en el Estado.
+c) De 5 ejes 144.00 72.00
 
-Cuando la aplicación de la tarifa anterior se determine una cuota en fracciones de cien pesos, se ajustará la cuota a la centena inmediata siguiente si se trata de fracciones superiores a cincuenta pesos y cuando la fracción sea de cincuenta pesos o inferior el ajuste se hará a la centena inmediata anterior.
+d) De 6 ejes 166.00 83.00
+
+e) De 7 ejes 198.00 99.00
+
+f) De 8 ejes 232.00 116.00
+
+g) De 9 ejes 264.00 132.00
+
+h) Por eje excedente a que se refiere
+
+el inciso anterior. 34.00 17.00
+
+VI.- (DEROGADA, P.O. 4 DE AGOSTO DE 2000)
+
+VII.- (DEROGADA, P.O. 4 DE AGOSTO DE 2000)
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2000)</small>
+
+Cuando por la aplicación de la tarifa anterior se determine una cuota en fracciones de centavos, se ajustará la cuota a la unidad inmediata siguiente si se trata de fracciones superiores a cincuenta centavos y cuando la fracción sea de cincuenta centavos o inferior, el ajuste se hará a la unidad inmediata anterior.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2000)</small>
+
+La presente tarifa se actualizará en términos reales los meses de enero y julio de cada año. Para la actualización de las tarifas que se realice en el mes de enero, se obtendrá el factor, dividiendo el Índice Nacional de Precios al Consumidor que publica el Banco de México en el Diario Oficial de la Federación en el mes de julio del año inmediato anterior, entre el que se publica en el mes de diciembre del mismo año. La actualización que corresponda al mes de julio de cada año, se hará en los mismos términos y el factor se obtendrá de dividir el Índice que se publica en el mes de enero del año de que se trate entre el publicado en el mes de junio del mismo año. Los factores que se obtengan se multiplicarán por las tarifas que se encuentren vigentes en cada período.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2000)</small>
+
+Cuando el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3178,6 +3210,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE AGOSTO DE 2000.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Período Oficial "El Estado de Sinaloa".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
 
