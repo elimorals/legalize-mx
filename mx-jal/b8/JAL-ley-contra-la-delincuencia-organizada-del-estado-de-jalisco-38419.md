@@ -4,7 +4,7 @@ identifier: "JAL-ley-contra-la-delincuencia-organizada-del-estado-de-jalisco-384
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-10"
-last_updated: "2004-02-10"
+last_updated: "2004-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 10 de febrero de 2004.
 
@@ -47,9 +47,11 @@ LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO
 
 2. Se aplican en lo conducente las reglas generales establecidas en el Código Penal del Estado y en el Código de Procedimientos Penales del Estado de Jalisco, en tanto no contravengan lo dispuesto por las disposiciones especiales que integran esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 2.
 
-1. Comete el delito de delincuencia organizada quien se organice con dos o más personas, con jerarquía y con la intención de cometer o cometa en forma permanente o reiterada, alguno de los delitos establecidos en el Código Penal, que a continuación se señalan:
+1. Comete el delito de delincuencia organizada quien se organice con dos o más personas, con la intención de cometer o cometa en forma permanente o reiterada, alguno de los delitos establecidos en el Código Penal, que a continuación se señalan:
 
 I. Evasión de presos, previsto en los artículo (sic) 113, 116 y 117 del Código Penal;
 
@@ -278,3 +280,9 @@ El Secretario General de Gobierno
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 23 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
