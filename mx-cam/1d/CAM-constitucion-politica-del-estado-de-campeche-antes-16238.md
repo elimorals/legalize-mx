@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1980-11-11"
+last_updated: "1983-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 1980.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 1983.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -47,11 +47,13 @@ CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE
 
 El Estado de Campeche es parte integrante de la Federación constituída por los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 2.
 
-La porción del territorio nacional que corresponde al Estado es la que le ha sido reconocida en la Constitución Política de los Estados Unidos Mexicanos, en los Convenios y en los Decretos relativos.
+La porción del territorio nacional que corresponda al Estado, es la que ha sido reconocida en la Constitución Política de los Estados Unidos Mexicanos, en los Convenios y en los Decretos relativos, así como la zona marítima económica exclusiva, colindante con el territorio del Estado, sobre la cual ejerce su soberanía la Nación Mexicana.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -363,7 +365,7 @@ a) Que los partidos políticos que los postulen obtengan, cuando menos, el 1.5 p
 
 b) Que los mismos partidos hayan postulado también candidatos en seis distritos electorales, cuando menos, y
 
-c) Que los propios partidos no hayan acreditado dos o más diputados de mayoría relativa, pudiendo obtener hasta 2 de representación proporcional, siempre que no se les hubiese atribuído alguno de mayoría relativa.
+c) Que los propios partidos no hayan acreditado 2 o más diputados de mayoría relativa, pudiendo obtener hasta dos de representación proporcional, siempre que no se les hubiese atribuído alguno de mayoría relativa.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -391,7 +393,11 @@ a).- Ser originario del distrito en que se haga la elección, con residencia en 
 
 b).- Ser nativo del Estado, con residencia de un año en el distrito respectivo, inmediatamente anterior a la fecha de la elección;
 
-c).- Si se es oriundo de otro Estado, tener residencia cuando menos de doce años en el de Campeche y de seis meses en el distrito electoral de que se trate.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
+
+c) Si se es oriundo de otro Estado, tener residencia cuando menos de veinticinco años en el de Campeche y de seis meses en el distrito electoral de que se trate.
 
 No será impedimento la ausencia eventual en cualquiera de los casos, siempre que no se conserve la vecindad de otro Estado.
 
@@ -421,11 +427,13 @@ VI.- Los Jueces de Primera Instancia, los Recaudadores de Rentas y los President
 
 Los ciudadanos comprendidos en las fracciones de la III a la VI del artículo anterior podrán ser electos, siempre que se separen de sus cargos cuando menos 45 días antes de la elección.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 36.
 
-El Congreso calificará las elecciones de sus miembros a través de un Colegio Electoral que se integrará por los cinco presuntos diputados que de acuerdo con las constancias de mayoría que registre la Comisión Local Electoral, hubieren obtenido mayor número de votos, y por dos presuntos diputados de representación proporcional. La ley determinará la forma de seleccionar a los miembros del Colegio.
+El Congreso calificará las elecciones de sus miembros a través de un Colegio Electoral que se integrará por los cinco presuntos diputados que de acuerdo con las constancias de mayoría que registre la Comisión Electoral del Estado, hubieren obtenido mayor número de votos, y por dos presuntos diputados de representación proporcional. La Ley determinará la forma de seleccionar a los miembros del Colegio.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -577,9 +585,11 @@ e).- Que la erección del nuevo Municipio sea aprobada por las dos terceras part
 
 II.- Cambiar la residencia de los poderes del Estado, pero sólo a iniciativa fundada del Poder Ejecutivo y por el voto de las dos terceras partes de los diputados presentes;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- Imponer las contribuciones que deban corresponder al Estado y a los Municipios, fijando anualmente los ingresos y egresos que fueren necesarios para cubrir los presupuestos que se sometan a su consideración y aprobación por el Ejecutivo; determinar en los términos de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución, las participaciones que correspondan a los Municipios en los impuestos federales y estatales; legislar sobre la integración del patrimonio del Estado y de los Municipios; y legislar en todo lo concerniente a los diversos ramos de la Administración Pública del Estado;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
+
+III.- Imponer las contribuciones que deban corresponder al Estado y a los Municipios, fijando anualmente los ingresos y egresos que fueren necesarios para cubrir los presupuestos que se sometan a su consideración y aprobación por el Ejecutivo; estableciendo los ingresos y egresos relativos a aquel y los ingresos que correspondan a éstos; determinar en los términos de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución, las participaciones que correspondan a los Municipios en los impuestos federales y estatales; legislar sobre la integración del patrimonio del Estado y de los Municipios; y legislar en todo lo concerniente a los diversos ramos de la Administración Pública del Estado;
 
 IV.- Expedir todas las leyes que sean necesarias para hacer efectivas las facultades otorgadas por esta Constitución a los Poderes del Estado;
 
@@ -627,7 +637,7 @@ XXII.- Revisar y aprobar las cuentas de los ingresos y egresos de cada Municipio
 
 XXIII.- Conocer como Jurado de Declaración en los delitos oficiales de que se acuse al Gobernador del Estado, a los Diputados y a los Secretarios de los diversos Ramos de la Administración Pública Estatal, y como Jurado de Declaraciones y de Sentencia, en los delitos oficiales cometidos por los Magistrados del Tribunal Superior de Justicia y el Procurador General de Justicia;
 
-XXIV.- Erigirse en Jurado para declarar si ha o no lugar a proceder contra los altos funcionarios públicos, en caso de delitos del orden común;
+XXIV.- Erigirse en Jurado para declarar si ha o no lugar a proceder contra los altos funcionarios públicos, en caso de delitos del orden común.
 
 XXV.- Dictar resoluciones económicas relativas a su régimen interior;
 
@@ -659,9 +669,11 @@ XXXII.- Autorizar la enajenación o gravamen de los bienes de los Municipios;
 
 XXXIII.- Nombrar, a propuesta del Gobernador, una Junta Municipal compuesta de tres personas, cuando debiendo renovarse un Ayuntamiento no se hubiese celebrado su elección en la fecha correspondiente, o habiendo sido elegido no se presentare oportunamente al ejercicio de sus funciones. Dicha Junta se encargará provisionalmente de las funciones del Ayuntamiento hasta en tanto se celebren elecciones extraordinarias que deberán efectuarse en un plazo no mayor de sesenta días. Las mismas facultades se entenderán conferidas al Congreso cuando las elecciones Municipales se declaren nulas o por cualquier causa desaparecieren los Poderes del Ayuntamiento, siempre que tales situaciones se presentaren dentro del primer año de su correspondiente ejercicio, pues de suceder durante los dos últimos años del período de Gobierno Municipal, el Congreso siempre a propuesta del Gobernador, nombrará un Comité Municipal, integrado por tres personas el que asumirá la administración municipal hasta la conclusión del período de Gobierno respectivo. Por cada integrante del Comité habrá un suplente;
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXIV.- Suspender temporalmente o definitivamente por sí o a petición del Ejecutivo, previa formación de proceso, a los miembros de los Ayuntamientos cuando abusen de sus facultades, siempre que así se acuerde por el voto de las dos terceras partes de los miembros de la Legislatura; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
+
+XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan;
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -745,7 +757,11 @@ I.- Ser ciudadano campechano en pleno goce de sus derechos;
 
 II.- Tener 35 años cumplidos, el día de la elección y haber residido en el Estado todo el año anterior a la elección;
 
-III.- Ser ciudadano campechano por nacimiento, o tener 12 años de residencia, si la calidad de campechano fuese por vecindad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
+
+III.- Ser ciudadano campechano por nacimiento, o tener veinticinco años de residencia, si la calidad de campechano fuese por vecindad.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -787,13 +803,13 @@ Cuando la falta de gobernador ocurriese después de los dos primeros años del p
 
 Si al comenzar un período constitucional no se presentase el gobernador electo o la elección no estuviese hecha y declarada el 16 de septiembre, cesará sin embargo el gobernador cuyo período haya concluído y se encargará desde luego del Poder Ejecutivo en calidad de gobernador interino, el que designe el Congreso del Estado, o, en su caso, con el carácter de provisional el que designe la Diputación Permanente, procediéndose como disponen los artículos 64 y 65.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 67.
 
-Cuando la falta de Gobernador fuere temporal excediendo de sesenta días, el Congreso del Estado si estuviere reunido o en su defecto la Diputación Permanente, designará un Gobernador Interino para que funcione durante el tiempo que dure dicha falta.
+Cuando la falta del Gobernador fuere temporal excediendo de sesenta días, el Congreso del Estado si estuviere reunido o en su defecto la Diputación Permanente, designará un Gobernador Interino para que funcione durante el tiempo que dure dicha falta.
 
-Para suplir las ausencias temporales del Gobernador hasta por sesenta días, éste designará de entre los Secretarios de alguno de los Ramos de la Administración Pública, al funcionario que deba encargarse del Despacho del Poder Ejecutivo, comunicándolo al Congreso del Estado, o en defecto a la Diputación Permanente.
+Para suplir las ausencias temporales del Gobernador hasta por 60 días quedará como encargado del despacho, el Secretario de Gobierno o en su defecto los demás Secretarios en el orden que los enumera la Ley Orgánica del Poder Ejecutivo.
 
 Si la falta se convirtiere de temporal en absoluta, se procederá como disponen los artículos anteriores.
 
@@ -813,11 +829,13 @@ El ciudadano que hubiese sido designado gobernador provisional en el caso de fal
 
 El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Estado o ante la Diputación Permanente, en los recesos de aquél, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del mismo, y si así no lo hiciere, que la Nación o el Estado me lo demanden".
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 70.
 
-El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días, en tal caso, el Secretario del Ramo que designe el Gobernador se encargará del Despacho del Poder Ejecutivo.
+El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -957,11 +975,13 @@ Las faltas de los Secretarios de los diversos ramos de la Administración Públi
 
 La Ley organizará el Ministerio Público en el Estado y sus funcionarios serán nombrados y removidos libremente por el Ejecutivo, teniendo como Jefe al Procurador General de Justicia, quien para serlo deberá reunir los mismos requisitos que para ser Magistrado.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 76.
 
-El Procurador General, será el consejero jurídico del Gobierno e intervendrá en todos los negocios en que el Estado sea parte. Tanto él como sus agentes se someterán estrictamente a las disposiciones de la Ley, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
+El Procurador General de Justicia intervendrá en todos los negocios en que el Estado sea parte. Tanto él como sus agentes se someterán estrictamente a las disposiciones de la Ley, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -969,13 +989,17 @@ El Procurador General, será el consejero jurídico del Gobierno e intervendrá 
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-### CAPITULO XVII. De la Responsabilidad de los Funcionarios Públicos
+### CAPITULO XVII. De las Responsabilidades de los Servidores Públicos
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ### CAPITULO XVIII. De los Municipios del Estado
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 77.
 
@@ -1077,13 +1101,15 @@ El Gobernador podrá pedir ante el Congreso del Estado, o, ante la Diputación P
 
 El Gobernador del Estado, antes de pedir al Congreso la destitución de algún funcionario judicial, oirá a éste, en lo privado, a efecto de poder apreciar en conciencia la justificación de su solicitud. También será oído dicho funcionario por el Congreso o por la Diputación Permanente, en su caso.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 87.
 
-Será Presidente del Tribunal Superior de Justicia, el Magistrado propietario que anualmente sea electo para ese efecto por dicho Cuerpo Colegiado, y sus faltas temporales suplidas por otro Magistrado Propietario designado en la misma forma que el anterior.
+Será Presidente del Tribunal Superior de Justicia, el Magistrado propietario que anualmente sea electo para ese efecto por dicho Cuerpo Colegiado, y sus faltas temporales suplidas por otro Magistrado propietario designado en la misma forma que el anterior.
 
-El Presidente del Tribunal Superior de Justicia concurrirá al Congreso el último domingo del mes de agosto de cada año y rendirá ante la H. Representación Popular un informe escrito acerca de la situación que guarde la Administración de Justicia en el Estado, informe que contestará en el mismo acto el Presidente del Congreso.
+El Presidente del Tribunal Superior de Justicia, a más tardar el 31 de agosto rendirá ante la H. Representación Popular, un informe escrito acerca de la situación que guarde la Administración de Justicia en el Estado.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1111,7 +1137,7 @@ VIII.- Nombrar y remover a los empleados del Tribunal Superior de Justicia, acep
 
 IX.- Remover a los empleados de los juzgados de primera instancia, menores y de paz.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 1983)</small>
 
 ### CAPITULO XIX. Prevenciones Generales
 
@@ -1123,25 +1149,33 @@ IX.- Remover a los empleados de los juzgados de primera instancia, menores y de 
 
 ###### ARTICULO 89.
 
-Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Secretarios de los diversos Ramos de la Administración Pública Estatal, el Procurador General de Justicia, y el Presidente, Regidores y Síndicos de los Ayuntamientos, son responsables por los delitos del orden común que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones oficiales.
+Para los efectos de las responsabilidades a que alude este Capítulo, se reputarán como servidores públicos a los Diputados del Congreso del Estado; a los miembros del Poder Judicial; a los colaboradores del Ejecutivo, en los niveles centralizado, desconcentrado y descentralizado y a los integrantes de los Ayuntamientos, Juntas y Comisarías Municipales, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 90.
 
-El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por los delitos de traición a la Patria, violación definida de la Constitución y leyes locales, ataque a la libertad electoral y delitos graves del orden común.
+El Gobernador del Estado durante el tiempo de su encargo, sólo podrá ser acusado por los delitos de traición a la patria, violaciones a la Constitución Federal y del Estado y a las leyes que de ambas emanen, ataque a la libertad electoral, delitos graves del orden común, y manejo indebido de fondos y recursos federales, o estatales.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 91.
 
-Si el delito fuere común, el Congreso erigido en Gran Jurado declarará, a mayoría absoluta de votos y previa audiencia del acusado, si ha o no lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento ulterior contra el acusado; en el afirmativo, quedará éste, por el mismo hecho, separado de su cargo y sujeto a la acción de los tribunales comunes.
+Si el delito fuere común, el Congreso erigido en Gran Jurado declarará, a mayoría absoluta de votos y previa audiencia del acusado, si ha o no lugar a formación de causa. En caso negativo, quedarán reservadas las acciones para cuando el servidor público cese en sus funciones, interrumpiéndose el término prescriptorio; en el afirmativo, quedará el acusado, separado de su cargo y sujeto a la acción de los tribunales comunes.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1980)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 92.
 
-De los delitos oficiales conocerá el Congreso como jurado de declaración y el Tribunal en Pleno con inclusión del Magistrado supernumerario, como jurado de sentencia, cuando el acusado no sea Magistrado o Procurador General de Justicia, y en este caso conocerá el Congreso como jurado de sentencia.
+De los delitos cometidos por los servidores públicos que transgredan esta Constitución y las leyes del Estado conocerá el Congreso como Jurado de Declaración y el Tribunal en Pleno como Jurado de Sentencia; pero si el acusado fuese Magistrado o el Procurador General de Justicia, conocerá el Congreso como Jurado de Sentencia.
+
+Si la falta contraviniere la Constitución o Leyes Federales, o concurrieren uno o varios actos violatorios de ambos fueros, se aplicará en primer lugar lo dispuesto en las disposiciones federales y a continuación lo previsto por el fuero estatal.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1155,49 +1189,73 @@ El primer Jurado declarará, a mayoría absoluta de votos, si el acusado es o no
 
 El Congreso o el Tribunal en Pleno, constituídos del modo prevenido en el Artículo 92, se erigirá como Jurado de Sentencia y, con audiencia del reo, del Procurador General de Justicia, del defensor y del acusador si lo hubiere, procederá a aplicar, a mayoría absoluta de votos, la pena que la Ley designe.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 95.
 
-Si los funcionarios a que se refieren los artículos 89 y 90, fuesen acusados por delitos oficiales cometidos en el desempeño de algún cargo anterior a aquel en que ejerzan sus funciones, se procederá contra ellos en los términos de los artículos precedentes.
+Si los servidores públicos a que se refieren los artículos 89 y 90, fuesen acusados por delitos cometidos en el desempeño de algún cargo anterior a aquel en que ejerzan sus funciones, se procederá contra ellos en los términos de este Capítulo.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 96.
 
-Pronunciada una sentencia de responsabilidad por delitos oficiales, no podrá concederse al reo la gracia del indulto.
+Se impondrán, mediante juicios políticos, las sanciones procedentes a los servidores públicos, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+La comisión de delitos comunes por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal.
+
+Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+
+Pronunciada una sentencia de responsabilidad por delitos oficiales no podrá concederse al reo la gracia del indulto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 97.
 
-La responsabilidad oficial de los Presidentes de Ayuntamientos, Jueces de Primera Instancia, menores y de paz, así como de los munícipes, se exigirá ante el Tribunal Superior de Justicia en la forma que establezcan las leyes respectivas y las faltas u omisiones que comentan en el ejercicio de sus funciones, serán castigadas por sus respectivos superiores.
+La Ley determinará los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 98.
 
-La responsabilidad por delitos y faltas oficiales, sólo podrá exigirse dentro del período en que el funcionario ejerza su encargo y dentro de un año después.
+La Ley Sobre Responsabilidades Administrativas de los Servidores Públicos, determinará sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señale la Ley, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones, pero no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 99.
 
-Los Diputados al Congreso del Estado, el Gobernador, los Magistrados del Tribunal Superior de Justicia, los Presidentes, Síndicos y Regidores de los Ayuntamientos, gozan de fuero desde el día de su elección o nombramiento en su caso.
+El procedimiento de juicio político sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después.
 
-La Ley castigará severamente a la autoridad que viole el fuero que otorga esta Constitución a los funcionarios citados.
+Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeñe alguno de los encargos a que se hace referencia en este Capítulo.
+
+La Ley señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencia de los actos y omisiones, pero si fuesen graves, los plazos de prescripción no serán inferiores a tres años.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 100.
 
-En demandas de orden civil, no hay fuero ni inmunidad para ningún funcionario público.
+En demandas del orden civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 101.
 
-Se concede acción popular, sin obligación de constituírse en parte, para denunciar ante el Congreso las faltas o delitos, comunes u oficiales, cometidos por los funcionarios públicos. Una Ley reglamentará esta facultad.
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos idóneos de prueba, podrá formular denuncia ante el Congreso respecto de las conductas a las que se refiere el presente Capítulo.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1207,43 +1265,19 @@ Se concede acción popular, sin obligación de constituírse en parte, para denu
 
 ###### ARTICULO 102.
 
-Los municipios que integran el Estado serán libres, se regirán por la Ley Orgánica relativa, la que tendrá como bases, las siguientes:
+Los Municipios que integran el Estado serán libres, se regirán por la Ley Orgánica relativa, la que tendrá como bases las siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+I.- Cada Municipio será administrado por un Ayuntamiento de elección popular directa; se aplicará, además, el principio de representación proporcional;
 
-I.- Cada Municipio será administrado por un ayuntamiento de elección popular directa. En la elección de los Ayuntamientos del Municipio de la Capital del Estado y de los Municipios cuya población sea de 300,000 o más habitantes, se aplicará, además, el principio de representación proporcional. No habrá ninguna autoridad intermedia entre los Ayuntamientos y el Gobierno del Estado;
+II.- Los Ayuntamientos de los Municipios de la Entidad, tendrán tantos Regidores y Síndicos como determine la Ley Orgánica respectiva, electos por el principio de mayoría relativa y adicionalmente hasta dos Regidores y Síndicos electos por el sistema de representación proporcional.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuído un Regidor, el partido político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los requisitos siguientes:
 
-II.- Los Ayuntamientos del Municipio de la Capital del Estado y de aquellos municipios cuya población sea de 300,000 o más habitantes, tendrán tantos regidores y síndicos como determine la Ley Orgánica respectiva, electos por el principio de mayoría relativa y adicionalmente hasta dos regidores y síndicos electos por el sistema de representación proporcional.
+a) Que hubiere registrado fórmula de candidatos en las elecciones municipales respectivas;
 
-De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuido un Regidor, el partido político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los siguientes requisitos:
-
-a).- Que hubiere registrado fórmula de candidatos en las elecciones municipales respectivas;
-
-b).- Que alcance por lo menos el 1.5 por ciento del total de la votación emitida en el municipio correspondiente.
+b) Que alcance por lo menor (sic) el 1.5 por ciento del total de la votación emitida en el municipio correspondiente.
 
 La Ley Electoral, determinará los procedimientos que se observarán en dicha designación.
-
-III.- Cuando su extensión o densidad de población lo exija, los municipios podrán subdividirse en secciones municipales y comisarías, debiéndose establecer de acuerdo con la Ley Orgánica de los Municipios, las relaciones y dependencias que existan entre unas y otras;
-
-IV.- Los municipios administrarán libremente su hacienda, la cual se formará de las contribuciones que establezcan las leyes fiscales relativas y que en todo caso serán suficientes para atender a sus necesidades;
-
-V.- Los municipios tendrán personalidad jurídica para todos los efectos legales;
-
-VI.- Los municipios no podrán hacer exención de contribuciones que no esté prevista por las leyes, a ningún ciudadano o empresa bajo ningún pretexto;
-
-VII.- La primera autoridad administrativa del Municipio será el Presidente Municipal, quien tomará posesión el primero de enero y durará tres años en su encargo.
-
-Los componentes de los ayuntamientos, juntas y comisarías municipales, tomarán posesión igualmente el primero de enero y durarán asimismo tres años en sus respectivos encargos;
-
-VIII.- Tanto el Presidente Municipal como los componentes de los ayuntamientos, juntas y comisarías municipales, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato;
-
-Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato.
-
-Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero, los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio;
-
-IX.- Cuando por cualquier circunstancia desaparecieran los ayuntamientos o juntas municipales, tendrá facultad el Congreso del Estado o en su defecto la Diputación Permanente, para nombrar substitutos mientras se convoca a elecciones; si la falta ocurriere en el último año, los nombrados terminarán el período.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1263,7 +1297,11 @@ a).- Ser originario del Municipio en que se haga la elección, con residencia en
 
 b).- Ser nativo del Estado, con residencia de un año en el Municipio respectivo, inmediatamente anterior a la fecha de la elección;
 
-c).- Si se es oriundo de otro Estado, tener residencia cuando menos de doce años en el de Campeche y de un año en el Municipio de que se trate.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
+
+c).- Si se es oriundo de otro Estado, tener residencia cuando menos de veinticinco años en el de Campeche y de un año en el municipio de que se trate.
 
 No será impedimento la ausencia eventual en cualquiera de los casos, siempre que no se conserve la vecindad de otro Estado.
 
@@ -1724,3 +1762,7 @@ UNICO.- Estas reformas a la Constitución Política del Estado de Campeche, inic
 P.O. 11 DE NOVIEMBRE DE 1980.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MAYO DE 1983.
+
+UNICO.- Estas reformas entrarán en vigor noventa días después de su publicación en el Periódico Oficial del Gobierno del Estado.
