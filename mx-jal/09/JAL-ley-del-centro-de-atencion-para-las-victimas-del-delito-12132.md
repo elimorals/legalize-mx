@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-centro-de-atencion-para-las-victimas-del-delito-12132"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-07"
-last_updated: "1998-03-07"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL CENTRO DE ATENCION PARA LAS VICTIMAS DEL DELITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 7 de marzo de 1998.
 
@@ -123,7 +123,9 @@ El Consejo de Administración será el órgano máximo de gobierno, y se integra
 
 I.- Un Presidente que será el Gobernador del Estado o quien él designe;
 
-II.- Un Vicepresidente que será el Secretario de Seguridad Público (sic) Prevención y Readaptación Social o quien él designe;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
+
+II.- Un vicepresidente que será el Procurador General de Justicia del Estado de Jalisco, o la persona que él designe;
 
 III.- Un Secretario del Consejo que será el Director General del Centro;
 
@@ -133,9 +135,15 @@ a) Al Supremo Tribunal de Justicia;
 
 b) La Secretaría de Finanzas;
 
-c) La Procuraduría General de Justicia del Estado; y
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2003)</small>
 
-d) La Comisión Estatal de Derechos Humanos.
+c) La Secretaría de Seguridad Pública, Prevención y Readaptación social del Estado de Jalisco;
+
+d) La Comisión Estatal de Derechos Humanos;
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2003)</small>
+
+e) El Instituto Jalisciense de Ciencias Forenses.
 
 V.- Un Contralor Interno, que será designado por el Consejo de Administración, a propuesta del Director General del Centro.
 
@@ -301,9 +309,11 @@ V.- Las demás que le atribuyan otras disposiciones legales y administrativas.
 
 ### CAPITULO SEXTO. De los Derechos de la Víctima del Delito
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 2003)</small>
+
 ###### Artículo 21.
 
-Durante la averiguación previa y el procedimiento penal, la víctima del delito tendrá los siguientes derechos:
+Durante el procedimiento penal, la víctima del delito tendrá los siguientes derechos:
 
 I.- A contar con un asesor jurídico gratuito que le asista en todos los actos del procedimiento en que debe intervenir para la defensa de sus derechos;
 
@@ -315,7 +325,7 @@ IV.- A que la autoridad investigadora o jurisdiccional ordene la aplicación de 
 
 V.- A que se le garantice el acceso a la asistencia médica de urgencia, psicológica y psiquiátrica, siempre y cuando fuera necesario y como consecuencia del ilícito que se haya cometido en su contra;
 
-VI.- A que la autoridad investigadora o jurisdiccional ordene la aplicación de medidas para proteger su vida, posesiones o derechos, así como la de sus familiares cuando existan datos objetivos de que pudieran ser afectados por los probables responsables del delito o por terceros implicados;
+VI.- (DEROGADA, P.O. 1 DE MAYO DE 2003)
 
 VII.- A comparecer por sí o a través de su representante a las audiencias y alegar, previa solicitud del uso de la palabra, lo que a su derecho convenga y conforme lo establezca el Código Procesal;
 
@@ -337,9 +347,11 @@ III.- A contar con servicios especializados gratuitos sobre tratamiento postraum
 
 IV.- Los demás que le otorguen las leyes en este rubro.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2003)</small>
+
 ###### Artículo 23.
 
-A la víctima del delito se le podrá proporcionar ayuda económica sin ocasionar en ella dependencia, la cual será preferentemente mediante alimentos conforme lo establezcan los artículos 27 y 30 de esta Ley y de acuerdo al procedimiento que señale el Reglamento Interno.
+A la víctima del delito se le pondrá (sic) proporcionar ayuda económica sin ocasionar en ella dependencia, mediante el otorgamiento de ayuda en especie, conforme lo establezcan los artículos 27 y 30 de esta Ley.
 
 ### CAPITULO SEPTIMO. Del Fondo para el Auxilio a las Víctimas del Delito
 
@@ -362,6 +374,10 @@ II.- Las sumas que se obtengan por concepto del pago de las multas impuestas por
 III.- Las aportaciones que a manera de donaciones, en especie o en dinero, hagan las instituciones públicas o privadas; y
 
 IV.- Las demás aportaciones tendientes a incrementar la capacidad económica del Fondo.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2003)</small>
+
+El otorgamiento de ayuda de orden económico a favor de la víctima u ofendida por la comisión del delito, estará limitada a la capacidad y recursos financieros que constituyan el fondo para el auxilio a la víctima de delito.
 
 ###### Artículo 27.
 
@@ -480,3 +496,9 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE MAYO DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
