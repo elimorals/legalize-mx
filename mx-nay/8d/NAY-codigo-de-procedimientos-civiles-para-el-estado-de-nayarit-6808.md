@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "1997-04-05"
+last_updated: "2000-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2000.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -71,11 +71,71 @@ II.- Personalidad y capacidad, o representación y legitimación de la partes; y
 
 III.- Competencia del Juzgador.
 
-### CAPITULO UNICO. ACCION
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
+### CAPITULO UNICO. ACCIONES
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 6.
 
+En forma enunciativa, las acciones que podrán ejercitarse serán:
+
+I.- Por las acciones reales se reclamarán la herencia, los derechos reales o la declaración de libertad de gravámenes reales. Se dan y se ejercitan contra el que tiene en su poder la cosa y tiene obligación real, con excepción de la petición de herencia y la negatoria;
+
+II.- La reivindicación compete a quien no está en posesión de la cosa, de la cual tiene la propiedad, y su efecto será declarar que el actor tiene dominio sobre ella y se la entregue el demandado con sus frutos y accesiones en los términos prescritos por el Código Civil;
+
+III.- El tenedor de la cosa puede declinar la responsabilidad del juicio designando al poseedor que lo sea a título de dueño;
+
+IV.- El poseedor que niegue la posesión la perderá en beneficio del demandante;
+
+V.- Pueden ser demandados en reivindicación, aunque no posean la cosa, el poseedor que para evitar los efectos de la acción reivindicatoria dejó de poseer y el que está obligado a restituir la cosa o su estimación si la sentencia fuere condenatoria. El demandado que paga la estimación de la cosa puede ejercitar a su vez la reivindicación;
+
+VI.- No pueden reivindicarse las cosas que están fuera del comercio; los géneros no determinados al entablarse la demanda; las cosas unidas a otras por vía de accesión, según lo dispuesto por el Código Civil, ni las cosas muebles perdidas o robadas que un tercero haya adquirido de buena fe en almoneda, o de comerciante que en mercado público se dedica a la venta de objetos de la misma especie, sin previo reembolso del precio que se pagó. Se presume que hay buena fe si de la pérdida o robo se dio aviso pública y oportunamente.
+
+VII.- Al adquirente con justo título y de buena fe le compete la acción para que, aun cuando no haya prescrito le restituya la cosa con sus frutos y accesiones en los términos de la fracción II el poseedor de mala fe, o el que teniendo título de igual calidad ha poseído por menos tiempo que el actor. No procede esta acción en los casos en que ambas posesiones fuesen dudosas o el demandado tuviere su título registrado y el actor no, así como contra el legítimo dueño.
+
+VIII.- Procederá la acción negatoria para obtener la declaración de libertad o la de reducción de gravámenes de bien inmueble y la demolición de obras o señales que importen gravámenes, la tildación o anotación en el Registro de la Propiedad, y conjuntamente, en su caso, el pago de los daños y la indemnización de los perjuicios. Cuando la sentencia sea condenatoria, el actor puede exigir del reo que caucione el respeto de la libertad del inmueble. Sólo se dará esta acción al poseedor a título de dueño o que tenga derecho real sobre la heredad.
+
+IX.- Compete la acción confesoria al titular del derecho real inmueble y al poseedor del predio dominante que esté interesado en la existencia de la servidumbre. Se da esta acción contra el tenedor o poseedor jurídico que contraria el gravamen para que se obtenga el reconocimiento, la declaración de los derechos y obligaciones del gravamen y el pago de frutos, daños e indemnización de perjuicios, en su caso, y se haga cesar la violación. Si fuere la sentencia condenatoria, el actor puede exigir del demandado que afiance el respeto del derecho.
+
+> <small>(F. DE E., P.O. 10 DE ENERO DE 2001)</small>
+
+X.- La petición de herencia se deducirá por el heredero testamentario o probable heredero ab intestato, o por el que haga sus veces en la disposición testamentaria; y se da contra el albacea o contra el poseedor de las cosas hereditarias con el carácter de heredero o cesionario de éste y contra el que no alega título ninguno de posesión del bien hereditario o dolosamente dejó de poseerlo;
+
+XI.- La petición de herencia se ejercitará para que sea declarado heredero el demandante, se le haga entrega de los bienes hereditarios con sus accesiones, sea indemnizado y le rindan cuentas;
+
+XII.- El comunero puede deducir las acciones relativas a la cosa común, en calidad de dueño, salvo pacto en contrario, o ley especial. No puede, sin embargo, transigir ni comprometer en árbitros el negocio, sin consentimiento unánime de los demás condueños;
+
+XIII.- Las acciones de estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia, o atacar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones de estado civil perjudican aun a los que no litigaron.
+
+Las acciones de estado civil fundadas en la posesión de estado producirán el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
+
+XIV.- Las acciones personales se deducirán para exigir el cumplimiento de una obligación personal, ya sea de dar, de hacer o no hacer determinado acto;
+
+XV.- El enriquecimiento sin causa de una parte, con detrimento de otra, presta mérito al perjudicado para ejercitar la acción de indemnización en la medida en que aquélla se enriqueció;
+
+XVI.- El perjudicado por falta de título legal tiene acción para exigir que el obligado le extienda el documento correspondiente;
+
+XVII.- En las acciones mancomunadas por título de herencia o legado, sean reales o personales, se observarán las reglas siguientes:
+
+a).- Si no se ha nombrado interventor ni albacea, puede ejercitarlas cualquiera de los herederos o legatarios;
+
+b).- Si se ha nombrado interventor o albacea, sólo a éstos compete la facultad de deducirlas en juicio, y sólo podrán hacerlo los herederos o legatarios cuando, requeridos por ellos, el albacea o el interventor se rehusen a hacerlo;
+
+XVIII.- Ninguna acción puede ejercitarse sino por aquél a quien compete o por su representante legítimo. No obstante eso, el acreedor puede ejercitar las acciones que competan a su deudor cuando conste el crédito de aquél, en título ejecutivo y, excitado éste para deducirlas, descuide o rehuse hacerlo. El tercero demandado puede paralizar la acción pagando al demandante el monto de su crédito.
+
+Las acciones derivadas de derechos inherentes a la persona del deudor nunca se ejercitarán por el acreedor.
+
+Los acreedores que acepten la herencia que corresponda a su deudor ejercitarán las acciones pertenecientes a éste, en los términos en que el Código Civil lo permita; y
+
+XIX.- Las acciones que se tramiten contra los herederos no obligan a éstos sino en proporción a sus cuotas, salvo en todo caso la responsabilidad que les resulte cuando sea solidaria su obligación con el autor de la herencia, por ocultación de bienes o por dolo o fraude en la administración de bienes indivisos.
+
+Las acciones duran lo que la obligación que representan, menos en los casos en que la ley señala distintos plazos.
+
 Para iniciar un juicio no es necesario que se exprese el nombre de la acción, con tal de que se determine con claridad el título o causa en que se apoya y la prestación que se exija al demandado.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 7.
 
@@ -83,11 +143,13 @@ Cuando haya varias acciones contra una persona, respecto de una cosa, que proven
 
 Si llegaren a plantearse simultánea o subsidiariamente, acciones contrarias o contradictorias, el Juez, antes de admitir la demanda, requerirá al promovente para que precise cual es la que deduce.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 8.
 
 A nadie puede obligarse a intentar o proseguir una acción contra su voluntad, excepto en los casos siguientes:
 
-I.- Cuando por haberse interpuesto tercería ante un Juez Menor por cuantía mayor de la que fija la Ley para los negocios de su competencia, se hubieren remitido los autos a otro juzgado y el tercero opositor no ocurre a continuar la tercería y si requerido para ello no lo hace, se le tendrá por desistido de su acción a petición de parte interesada;
+I.- Cuando alguno públicamente se jacte de que otro es su deudor, o de que tiene que deducir derechos sobre alguna cosa que otro posee. En ese caso el poseedor, o aquel de quien se dice que es deudor, puede ocurrir al juez de su propio domicilio, pidiéndole que señale un término al jactancioso para que deduzca la acción que afirme tener, apercibido de que, no haciéndolo en el plazo designado, se tendrá por desistido de la acción que ha sido objeto de la jactancia. Este juicio se substanciará sumariamente. No se reputará jactancioso al que en algún ato judicial o administrativo se reserva los derechos que pueda tener contra alguna persona o sobre alguna cosa. La acción de jactancia prescribe a los tres meses desde la fecha en que tuvieron lugar los dichos y hechos que la originan;
 
 II.- Cuando alguno tenga acción o excepción que dependa del ejercicio de la acción de otro, a quien pueda exigir que la deduzca, oponga o continúe desde luego, y si excitado para ello se rehusare, lo podrá hacer aquél.
 
@@ -95,11 +157,13 @@ II.- Cuando alguno tenga acción o excepción que dependa del ejercicio de la ac
 
 ### CAPITULO I. PARTES
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 9.
 
-Solo puede iniciar un procedimiento judicial o intervenir en él, quien tenga interés legítimo en que la autoridad judicial declare o constituya un derecho o imponga una condena y quien tenga interés contrario.
+Solo puede iniciar un procedimiento judicial o intervenir en él, quien tenga interés legítimo en que la autoridad judicial declare o constituya un derecho o imponga una condena y quien tenga interés contrario. De oficio o a petición de parte se llamará a quienes les resulte interés jurídico en juicio, ordenando su emplazamiento.
 
-Los interesados o sus representantes legítimos podrán comparecer en el juicio por sí o por otro con mandato judicial otorgado conforme a la Ley Sustantiva Civil.
+Los interesados o sus representantes legítimos podrán comparecer en el juicio por sí o por otro con mandato judicial otorgado conforme a la ley sustantiva civil.
 
 ###### ARTICULO 10.
 
@@ -277,9 +341,11 @@ En caso de urgencia, podrá conocer el del lugar en donde se halle la persona o 
 
 #### SECCION TERCERA. SUBSTANCIACION Y DECISION DE COMPETENCIAS
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 36.
 
-Las cuestiones de competencia podrán promoverse solo por inhibitoria, que deberá intentarse dentro del término del emplazamiento ante el Juez a quien se considere competente, pidiéndole que dirija oficio al que estime no serlo, para que se inhiba y remita los autos.
+Las cuestiones de competencia podrán promoverse por inhibitoria o declinatoria. La inhibitoria se propondrá dentro del término del emplazamiento ante el juez que se considere competente, pidiéndole que dirija oficio al que se estime no serlo, para que se inhiba y remita los autos.
 
 ###### ARTICULO 37.
 
@@ -301,7 +367,19 @@ Llegados los autos en el Tribunal que deba decidir la competencia, citará a las
 
 Decidida la competencia, enviará los autos y testimonio de la sentencia al Juez declarado competente, de la cual remitirá otro tanto al Juez contendiente.
 
-En el caso que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, multa hasta de veinte días de salario, sin perjuicio de la condenación en costas.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
+ARTÍCULO 40 "A".- La declinatoria se promoverá ante el juez a quien se considere incompetente pidiéndole se abstenga del conocimiento del negocio y remita los autos al considerado competente. Se substanciará como incidente de previo y especial pronunciamiento.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
+ARTÍCULO 40 "B".- En ningún caso se promoverán de oficio las cuestiones de competencia, pero el juez que se estime incompetente podrá inhibirse del conocimiento del asunto, hasta antes de la audiencia de desahogo de pruebas, remitiendo el expediente al que considere competente.
+
+Cuando se hubiere optado por uno de los dos medios de promover la competencia, no podrá abandonarlo y recurrir al otro; tampoco podrá emplearlo sucesivamente.
+
+Si se declara improcedente una incompetencia, se aplicará al que la intentó, multa hasta de treinta días de salario a favor del Fondo Auxiliar del Poder Judicial del Estado, sin perjuicio de la condenación en costas.
 
 #### SECCION CUARTA. CUESTIONES DE COMPETENCIA ENTRE JUECES DEL ESTADO DE NAYARIT Y OTROS ORGANOS JURISDICCIONALES
 
@@ -381,17 +459,19 @@ En las actuaciones judiciales no se emplearán abreviaturas ni se borrarán las 
 
 Las audiencias serán públicas, exceptuándose las que se refieran a divorcio, nulidad de matrimonio y las demás en que a juicio del Tribunal convenga que sean secretas.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 54.
 
-Los Magistrados y Jueces tienen el deber de mantener el buen orden y de exigir que se les guarde respeto y consideración debida, corrigiendo en el acto las faltas que cometieren con multas que podrán ser hasta de tres, cinco y ocho días de salario, por los Juzgados Menores, de Primera Instancia y Sala Civil del Tribunal Superior de Justicia, respectivamente; pueden también emplear el auxilio de la fuerza pública.
+Los Magistrados y Jueces tienen el deber de mantener el buen orden, mostrar y exigir que se guarden el respeto y consideración debidos, corrigiendo en el acto las faltas que cometieren con multa que podrá ser hasta de treinta días de salario, teniendo en cuenta lo que al respecto dispone el artículo 21 Constitucional.
+
+La multa se hará efectiva a través del procedimiento económico-coactivo y por conducto de la autoridad exactora correspondiente.
+
+Asimismo podrá emplearse el auxilio de la fuerza pública, para el mantenimiento del orden, cuando así se requiera.
 
 ###### ARTICULO 55.
 
-Para imponer y hacer efectivas multas, se observarán las reglas siguientes:
-
-I.- En ningún caso será inferior al mínimo ni superior al máximo fijados en el artículo anterior, salvo tratándose de jornaleros, asalariados y obreros, en que se deberá estar a lo ordenado en la Constitución Política de los Estados Unidos Mexicanos; y
-
-II.- Se harán efectivas a través del procedimiento económico-coactivo y por conducto de la autoridad exactora correspondiente.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 56.
 
@@ -767,9 +847,11 @@ También podrá otorgar contragarantías que se fijarán a criterio del Tribunal
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 114.
 
-La jurisdicción voluntaria comprende todos los actos en que por disposición de la Ley o por solicitud de los interesados se requiere la intervención del Juez, sin que esté promovida ni se promueva controversia alguna entre partes determinadas.
+La jurisdicción voluntaria comprende todos los actos en que por disposición de la ley o por solicitud de los interesados se requiere la intervención del Juez o Notario Público, sin que esté promovida ni se promueva controversia alguna entre partes determinadas.
 
 ###### ARTICULO 115.
 
@@ -849,9 +931,11 @@ El Juez está obligado a ampliar el examen de los testigos con las preguntas que
 
 Si los testigos no fueren conocidos del Juez o del Secretario, se recibirá su declaración previa identificación.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 126.
 
-Las informaciones se protocolizarán ante el Notario que designe el promovente, quien dará al interesado el testimonio respectivo para su inscripción en el Registro Público de la Propiedad.
+Las informaciones se podrán tramitar ante Notario Público, siguiéndose las reglas de esta sección en lo conducente. Si el trámite es judicial se protocolizarán ante el Notario que designe el promovente. Efectuada ésta, se entregará al interesado el testimonio respectivo para su inscripción en el Registro Público de la Propiedad, en su caso.
 
 ### CAPITULO II. APEO Y DESLINDE
 
@@ -941,17 +1025,21 @@ Aprobada la venta, se ordenará que el precio se distribuya, aplicando una terce
 
 ### CAPITULO I. INTERPELACION
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 138.
 
-Cuando el cumplimiento de la obligación no esté sujeto a término, el acreedor podrá solicitar al Juez que ordene interpelar al deudor para que la cumpla.
+Cuando el cumplimiento de la obligación no esté sujeto a término, el acreedor podrá solicitar al juez o Notario Público que se mande interpelar al deudor para que la cumpla.
 
 ###### ARTICULO 139.
 
 En el escrito en que solicite la interpelación, el acreedor mencionará la obligación, el nombre y domicilio del deudor.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 140.
 
-Si el Juez encuentra ajustada a derecho la solicitud, ordenará que se interpele al deudor, para que cumpla su obligación y que se entregue al promovente la copia certificada de la interpelación.
+Encontrándose ajustada a derecho la solicitud, el juez o Notario Público en su caso, mandará que se interpele al deudor, para que cumpla su obligación y que se entregue al promovente copia autorizada de lo actuado.
 
 ### CAPITULO II. HOMOLOGACIÓN DE CONVENIOS CELEBRADOS FUERA DE JUICIO
 
@@ -1225,17 +1313,21 @@ Los Tribunales podrán decretar en todo tiempo, sea cual fuere la naturaleza del
 
 #### SECCION SEGUNDA. OFRECIMIENTO
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 185.
 
-El periodo de ofrecimiento de pruebas es de diez días comunes y perentorios que empezarán a contarse desde el día siguiente al de la notificación del auto que tuvo por contestada la demanda o la reconvención, o declaró la rebeldía en su caso.
+El periodo de ofrecimiento de pruebas es de cinco días comunes y perentorios que empezarán a contarse desde el día siguiente al de la notificación del auto que tuvo por contestada la demanda o la reconvención, o declaró la rebeldía en su caso. No obstante, las pruebas podrán ofrecerse en los escritos que fijan la controversia.
 
 ###### ARTICULO 186.
 
 Desde que se abra el período de ofrecimiento de pruebas hasta tres días antes de la celebración de la audiencia, salvo lo dispuesto por el artículo 212 podrá ofrecerse la prueba confesional, debiendo presentar ineludiblemente el pliego que contenga las posiciones en sobre cerrado que se guardará en el secreto del Tribunal.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 187.
 
-Las partes están obligadas, al ofrecer la prueba de documentos que no tengan en su poder, a expresar el archivo en que se encuentren, o si se encuentran en poder de terceros y si son propios o ajenos.
+Las partes están obligadas al ofrecer la prueba de documentos que no tengan en su poder, a expresar el archivo en que se encuentren, o si se encuentran en poder de terceros y si son propios o ajenos, expresando causa fundada de ello, sin que baste solo la manifestación de que no los tiene o de que exista posibilidad que no se le exhiban.
 
 ###### ARTICULO 188.
 
@@ -1251,9 +1343,25 @@ La prueba pericial se ofrece proporcionando nombre y domicilio de la persona que
 
 Si la ciencia, arte o técnica no estuvieren legalmente reglamentados, o estándolo, no hubiere peritos en el lugar, podrá ser nombrado cualquier persona entendida.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 191.
 
-Si los que deben nombrar un perito no pudieren ponerse de acuerdo, el juez designará uno entre los que propongan los interesados, y el que fuere designado practicará la diligencia.
+Cada parte dentro del tercer día nombrará a un perito, a no ser que se pusieren de acuerdo en el nombramiento de uno solo. El tercero en discordia será nombrado de oficio por el Juez.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
+ARTÍCULO 191 "A".- El Juez nombrará el perito que corresponda a cada parte en los siguientes casos:
+
+I. Cuando el designado por las partes no aceptare dentro de las cuarenta y ocho horas que sigan a la notificación de su nombramiento;
+
+II. Cuando habiendo aceptado no rindiere su dictamen dentro del término fijado o en la diligencia respectiva; y
+
+III. Cuando el que fue nombrado y aceptó el cargo lo renunciare después.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
+ARTÍCULO 191"B".- Los honorarios de cada perito serán pagados por la parte que lo nombró, o en cuyo defecto lo hubiere nombrado el Juez, y el del tercero, por ambas partes, sin perjuicio de lo que disponga la resolución sobre condenación en costas.
 
 ###### ARTICULO 192.
 
@@ -1456,6 +1564,10 @@ Solo pueden reconocer un documento privado el que lo firma, el que lo manda exte
 El perito dictaminará por escrito que presentará en la audiencia. Las partes y el Juez podrán formular observaciones y hacer preguntas que éste último estime pertinentes.
 
 El perito citado oportunamente será sancionado con multa hasta de veinte días de salario en caso de que no concurra, salvo causa grave que calificará el Juez.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
+Si resulta inexacto el señalamiento de domicilio del perito y de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al oferente multa hasta de veinte días de salario. Asimismo se declarará perdido su derecho al desahogo del peritaje de su parte, lo mismo cuando el oferente no presente al perito si se obligó a ello.
 
 ###### ARTICULO 223.
 
@@ -1775,19 +1887,25 @@ Cuando una de las partes invoque el sobreseimiento, se dará traslado a la contr
 
 #### SECCION CUARTA. CONCILIACION
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 272.
 
-En todos los juicios cuya naturaleza así lo permita, la autoridad judicial de oficio o a petición de cualquiera o de ambas partes, mandará citar a éstas a una audiencia de conciliación.
+En todo juicio cuya naturaleza así lo permita, la autoridad judicial, en la audiencia de pruebas y antes del desahogo de éstas, procurará la conciliación entre las partes.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 273.
 
-La audiencia se desarrollará conforme a las siguientes reglas:
+La conciliación se desarrollará conforme a las siguientes reglas:
 
-I.- Las partes comparecerán personalmente ante el órgano jurisdiccional, sin abogados patronos, asesores o apoderados;
+I.- Las partes comparecerán personalmente ante el órgano jurisdiccional, sin abogados patronos ni asesores. Sólo podrán intervenir apoderados en el caso de personas morales, siempre que tengan facultades suficientes para transigir;
 
-II.- El juzgador intervendrá exhortándolos para que procuren llegar a un arreglo conciliatorio;
+II.- El juez o el funcionario legalmente facultado exhortará a las partes para que procuren un arreglo conciliatorio;
 
-III.- Si las partes no llegan a un acuerdo o no asisten, se les tendrá por inconformes, siguiendo el juicio, el curso que corresponda.
+III.- De existir acuerdo se dará por terminado el procedimiento, y en caso de convenio, éste se aprobará y se elevará a la categoría de cosa juzgada, quedando las partes sujetas a su cumplimiento; y
+
+IV.- Si las partes no asisten o no llegan a un acuerdo, se les tendrá por inconformes, continuando la audiencia en sus términos.
 
 ### CAPITULO V. SUSPENSION E INTERRUPCION DEL PROCEDIMIENTO
 
@@ -2201,15 +2319,17 @@ Para la ejecución del desahucio se tiene como domicilio legal del ejecutado, la
 
 ### CAPITULO IV. SUMARISIMO
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 328.
 
-Los juicios que se intenten para retener o recuperar la posesión interina de un bien o derechos paterno-filiales, o tomar las medidas necesarias para evitar un daño, se tramitarán conforme al presente capítulo
+Los juicios que se intenten para retener o recuperar la posesión interina de un bien, o tomar las medidas necesarias para evitar un daño, se tramitarán conforme al presente capítulo.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 329.
 
 Al perturbado o despojado ilegalmente de la posesión en los supuestos del artículo anterior, le compete acción para mantenerla o recuperarla en contra de quien ha ejecutado, mandado ejecutar o esté ejecutando los actos constitutivos de la perturbación o despojo y será procedente aún entre comuneros, siempre que se compruebe de parte del accionante, que su posesión ha sido con exclusión de sus demás copartícipes en la propiedad de la cosa común.
-
-Cuando se trate de la posesión de estado de hijos menores de siete años, éstos deberán permanecer al lado de su madre, salvo que ésta realice actos inmorales que tiendan a la corrupción de aquéllos o tenga hábito de embriaguez o el uso indebido y persistente de drogas enervantes que amenacen causar la ruina de sus hijos.
 
 ###### ARTICULO 330.
 
@@ -3073,9 +3193,13 @@ El deudor de buena fe tiene derecho a alimentos, siempre que esté sujeto a patr
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 462.
 
-Todos los problemas inherentes a la familia se consideran de orden público, por constituir aquélla la base de la integración de la sociedad, en consecuencia, los juicios se tramitarán con intervención del Ministerio Público y del Procurador de la Defensa del Menor y la Familia. Y cuando sea necesaria la celebración de una junta o audiencia de pruebas, deberá efectuarse dentro de un término no mayor de quince días a partir del auto en que así se ordene
+Todos los problemas inherentes a la familia se consideran de orden público, por constituir aquélla la base de la integración de la sociedad, en consecuencia, los juicios se tramitarán con intervención del Ministerio Público y del Procurador de la Defensa del Menor y la Familia. Cuando sea necesaria la celebración de una junta o audiencia de pruebas, deberá efectuarse dentro de un término no mayor de quince días a partir del auto en que así se ordene.
+
+Podrán tramitarse ante Notario Público las cuestiones familiares que así lo determine este Código, sujetándose el fedatario a las disposiciones del mismo.
 
 ###### ARTICULO 463.
 
@@ -3231,17 +3355,23 @@ III.- Independientemente de las pruebas ofrecidas por las partes, puede el Juez 
 
 ### CAPITULO VIII. PATRIMONIO DE LA FAMILIA
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 491.
 
-La constitución, ampliación, reducción o extinción del patrimonio de familia, puede realizarse voluntaria o forzosamente.
+La constitución, ampliación, reducción o extinción del patrimonio de familia puede realizarse voluntariamente. Las dos primeras formas ante el Juez de lo Familiar o bien ante Notario Público, y las dos últimas sólo ante el Juez. La realización forzosa únicamente ante el Juez.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 492.
 
-Para la voluntaria, se observarán las siguientes reglas:
+En los términos del artículo anterior, el procedimiento voluntario ante el Juez se sujetará a las siguientes reglas:
 
-I.- El interesado, una vez reunidos los requisitos señalados por el Código Civil para la constitución, ampliación, reducción o extinción, según el caso, del patrimonio de familia, podrá comparecer por escrito o personalmente ante el Juez competente; y
+I. El interesado comparecerá, una vez reunidos los requisitos señalados por el Código Civil para la constitución, ampliación, reducción o extinción, según el caso, del patrimonio de familia; y
 
-II.- Este dictará auto o levantará el acta respectiva, señalando día y hora donde se recibirán las pruebas pertinentes y resolverá lo que en derecho proceda dentro del término de ley.
+II. El juez dictará auto o levantará el acta respectiva, señalando día y hora donde se recibirán las pruebas pertinentes y resolverá lo que en derecho proceda dentro del término de ley.
+
+En el trámite ante Notario Público se observarán en lo conducente las reglas anteriores y lo que disponga la Ley del Notariado.
 
 > <small>(F. DE E., P.O. 17 DE MARZO DE 1993)</small>
 
@@ -3352,6 +3482,14 @@ La pérdida de la patria potestad se decretará en juicio de acuerdo con las dis
 ###### ARTICULO 507.
 
 En cualquier estado del juicio el Juez podrá ordenar que la custodia de los hijos quede al cuidado de uno de los padres o de otra persona, y podrá además, de oficio o a petición de parte, acordar las medidas precautorias que juzgue adecuadas
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
+ARTÍCULO 507 bis.- Podrá ejercitarse acción para retener o recuperar la posesión de derechos paterno-filiales.
+
+> <small>(F. DE E., P.O. 10 DE ENERO DE 2001)</small>
+
+Cuando se trate de la posesión de estado de hijos menores de siete años, éstos deberán permanecer al lado de su madre, salvo que ésta realice actos inmorales que tiendan a la corrupción de aquellos o tenga hábito de embriaguez o haga uso indebido y persistente de drogas enervantes que amenacen causar la ruina de sus hijos.
 
 ###### ARTICULO 508.
 
@@ -4093,6 +4231,8 @@ Recibidas las declaraciones, se procederá conforme al artículo 2709 del Códig
 
 ### CAPITULO I. DE PREVIO Y ESPECIAL PRONUNCIAMIENTO
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 617.
 
 La separación del procedimiento judicial, para continuar el trámite ante el nota-notario (sic), tendrá lugar en los siguientes casos:
@@ -4115,9 +4255,11 @@ Siempre que haya oposición, en el momento en que surgiere, el notario suspender
 
 ## TITULO PRIMERO. INCIDENTES
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 620.
 
-Los incidentes ajenos al negocio principal o notoriamente frívolos o improcedentes, deberán ser repelidos de oficio por los tribunales, aplicando lo dispuesto por los artículos 54 y 55.
+Los incidentes ajenos al negocio principal o notoriamente frívolos o improcedentes, deberán ser repelidos de oficio por los tribunales, aplicando lo dispuesto por el artículo 54.
 
 ###### ARTICULO 621.
 
@@ -4127,9 +4269,11 @@ Si no se promovieren pruebas, se citará para interlocutoria o se reservará par
 
 ### CAPITULO II. QUE NO SUSPENDEN EL PROCEDIMIENTO Y DEBEN SER RESUELTOS UNA VEZ SUSTANCIADOS
 
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 629], P.O. 9 DE DICIEMBRE DE 2000)
+
 ###### ARTICULO 622.
 
-Formarán artículo de previo y especial pronunciamiento y por ello impiden el curso del juicio las excepciones de cosa juzgada, litispendencia, conexidad y falta de personalidad, personaría o capacidad en cualquiera de las partes, así como los incidentes de nulidad de actuaciones por falta o defecto en el emplazamiento, de citación para absolución de posiciones o para el reconocimiento de documentos.
+Formarán artículo de previo y especial pronunciamiento y por ello impiden el curso del juicio las excepciones de cosa juzgada, litispendencia, conexidad, falta de personalidad, personería o capacidad en cualquiera de las partes y declinatoria de jurisdicción, así como los incidentes de nulidad de actuaciones por falta o defecto en el emplazamiento, de citación para absolución de posiciones o para el reconocimiento de documentos.
 
 La nulidad de actuaciones por falta o defecto en el emplazamiento, es la única que no se convalida.
 
@@ -4139,13 +4283,17 @@ La nulidad de actuaciones por falta o defecto en el emplazamiento, es la única 
 
 Cuando de conformidad con lo dispuesto en los artículos 260 a 263 se haga valer a petición de parte la cosa juzgada, se dará forma al incidente respectivo y, si es declarado procedente, además de los efectos contemplados en los dispositivos antes citados, se condenará en costas a quien promoviere el nuevo juicio y se le impondrá una multa de hasta veinte días de salario.
 
-#### SECCION PRIMERA. UN SOLO EFECTO: DEVOLUTIVO
+#### SECCION QUINTA. DECLINATORIA DE JURISDICCION
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 624.
 
 La litispendencia podrá plantearse cuando un Juez conoce ya de un mismo asunto. El que la haga valer debe señalar el juzgado donde se tramita el primer juicio; si se declara procedente, se remitirán los autos al juzgado que primero conoció del asunto cuando ambos jueces se encuentren dentro de la jurisdicción del mismo tribunal de apelación. Dará por concluído el procedimiento si el primer juicio se tramita en juzgado que no pertenezca a la misma jurisdicción de apelación o en diversa instancia.
 
-#### SECCION SEGUNDA. AMBOS EFECTOS: DEVOLUTIVO Y SUSPENSIVO
+#### SECCION PRIMERA. UN SOLO EFECTO: DEVOLUTIVO
+
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 644], P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 625.
 
@@ -4161,7 +4309,9 @@ II.- Cuando se trata de juicios especiales; y
 
 III.- Cuando los juzgados que conozcan respectivamente de los juicios pertenezcan a tribunales de alzada diferentes.
 
-#### SECCION TERCERA. SUBSTANCIACION
+#### SECCION SEGUNDA. AMBOS EFECTOS: DEVOLUTIVO Y SUSPENSIVO
+
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 650], P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 627.
 
@@ -4175,7 +4325,23 @@ Sin embargo, cuando una excepción se funde en la falta de personalidad o en cua
 
 Similar trámite seguirá la falta de legitimación pasiva que en su defensa alegue quien haya sido emplazado sin tener realmente la calidad de demandado, siempre y cuando lo haga antes o al contestar la demanda.
 
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
+#### SECCION TERCERA. SUBSTANCIACION
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 629.
+
+La declinatoria de jurisdicción se propondrá ante el juez que se considere incompetente, pidiéndole que se abstenga del conocimiento del asunto. Declarada procedente se mandarán sin retardo los autos al juez que se estime competente, quien deberá hacerlo saber personalmente a las partes. En este caso, la demanda, contestación y la reconvención en su caso, se tendrán por presentadas ante el competente.
+
+(REUBICADO, P.O. 9 DE DICIEMBRE DE 2000)
+
+### CAPITULO III. QUE SE RESUELVEN AL DICTAR SENTENCIA
+
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 630], P.O. 9 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 630.
 
 Esta clase de incidentes tendrá lugar en cualquiera de los casos siguientes:
 
@@ -4213,9 +4379,13 @@ XIII.- Las tercerías excluyentes; y
 
 XIV.- Las demás previstas por la Ley.
 
-### CAPITULO III. QUE SE RESUELVEN AL DICTAR SENTENCIA
+(REUBICADO, P.O. 9 DE DICIEMBRE DE 2000)
 
-###### ARTICULO 630.
+### CAPITULO IV. QUE SE TRAMITAN PARA LOGRAR LA EJECUCIÓN DE SENTENCIA
+
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 631], P.O. 9 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 631.
 
 Se resolverán en sentencia definitiva los siguientes incidentes:
 
@@ -4231,9 +4401,13 @@ V.- En los juicios ejecutivos, la oposición del ejecutado a los valores fijados
 
 VI.- Los demás que indique la Ley.
 
-### CAPITULO IV. QUE SE TRAMITAN PARA LOGRAR LA EJECUCIÓN DE SENTENCIA
+(REUBICADO, P.O. 9 DE DICIEMBRE DE 2000)
 
-###### ARTICULO 631.
+### CAPITULO I. REVOCACION
+
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 633], P.O. 9 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 632.
 
 Se tramitarán en ejecución de sentencia, los siguientes:
 
@@ -4247,9 +4421,13 @@ IV.- Los de las excepciones admisibles contra la ejecución de las sentencias y 
 
 V.- La liquidación que tenga que hacerse de los gravámenes que afecten a los inmuebles vendidos, gastos de ejecución y demás.
 
-### CAPITULO I. REVOCACION
+(REUBICADO, P.O. 9 DE DICIEMBRE DE 2000)
 
-###### ARTICULO 632.
+## TITULO SEGUNDO. RECURSOS
+
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 632], P.O. 9 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 633.
 
 Los tribunales no admitirán nunca recursos notoriamente frívolos o improcedentes; los desecharán de plano, aplicando lo dispuesto en los artículos 54 y 55.
 
@@ -4277,27 +4455,37 @@ X.- Decidiendo de plano cualquier cuestión que se suscite durante la subasta; y
 
 XI.- Aprobando el remate o declarando la adjudicación de bienes embargados.
 
-## TITULO SEGUNDO. RECURSOS
-
-###### ARTICULO 633.
-
-Las resoluciones que no sean irrecurribles ni apelables, podrán ser revocadas por el Juez que las dicte o por el que lo sustituya en el conocimiento del asunto.
+(REUBICADO, P.O. 9 DE DICIEMBRE DE 2000)
 
 ### CAPITULO II. APELACION
 
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 636], P.O. 9 DE DICIEMBRE DE 2000)
+
 ###### ARTICULO 634.
+
+Las resoluciones que no sean irrecurribles ni apelables, podrán ser revocadas por el Juez que las dicte o por el que lo sustituya en el conocimiento del asunto.
+
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 634], P.O. 9 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 635
 
 Los autos que se dicten en segunda instancia, aún aquellos que en primera instancia serían apelables, pueden ser revocados por la sala o por la que la sustituya.
 
-###### ARTICULO 635.
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 635], P.O. 9 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 636
 
 La revocación debe pedirse dentro de las veinticuatro horas siguientes a la notificación, por escrito, del que se ordenará correr traslado a la contraria por igual término, y transcurrido el mismo se resolverá dentro de los tres días siguientes.
 
-###### ARTICULO 636.
+(REUBICADO, P.O. 9 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 637.
 
 El recurso de apelación tiene por objeto que en segunda instancia se reparen, en su caso, las violaciones cometidas en las resoluciones contra las cuales sea admisible.
 
-###### ARTICULO 637.
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 637], P.O. 9 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 638.
 
 Son casos de improcedencia de la apelación:
 
@@ -4311,33 +4499,49 @@ IV.- Que la resolución haya sido combatidas (sic) por otro medio de impugnació
 
 V.- Haber obtenido todo lo que se pidió.
 
-###### ARTICULO 638.
-
-Las resoluciones apelables distintas a la sentencia de fondo, lo serán a condición de que ésta también fuere apelable.
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 638], P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 639.
 
-Pueden apelar todos los interesados a quienes perjudique la resolución judicial, pero no el que obtuvo todo lo que pidió.
+Las resoluciones apelables distintas a la sentencia de fondo, lo serán a condición de que ésta también fuere apelable.
+
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 639], P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 640.
 
-La apelación puede interponerse en el acto de notificarse o por escrito.
+Pueden apelar todos los interesados a quienes perjudique la resolución judicial, pero no el que obtuvo todo lo que pidió.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 641.
 
-El litigante al interponer la apelación debe usar la moderación, absteniéndose de denostar al Juez, de lo contrario se aplicará en su contra lo dispuesto en los artículos 54 y 55.
+La apelación puede interponerse por escrito dentro de nueve días improrrogables, si se trata de sentencia definitiva, o dentro de cinco días si fuere auto o sentencia interlocutoria, y en el mismo escrito deberá expresarse los agravios, sin lo cual no será procedente.
+
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 641], P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 642.
+
+El litigante al interponer la apelación debe usar la moderación, absteniéndose de denostar al Juez, de lo contrario se aplicará en su contra lo dispuesto en los artículos 54 y 55.
+
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 642], P.O. 9 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 643.
 
 El recurso de apelación procede en uno o en ambos efectos. En el primer caso no suspende el procedimiento ni la ejecución del auto o sentencia y en el segundo sí, hasta que sea resuelto.
 
 Si la apelación devolutiva fuere de sentencia definitiva, se dejará en el juzgado, para ejecutarla, copia certificada de ella y de las constancias que el juez estime necesarias y si fuere de auto o interlocutoria, solo se remitirá al superior testimonio de lo que señalare de los autos el apelante, con las adiciones que haga la parte interesada y con las que el Juez estime necesarias, a no ser que el apelante prefiera esperar la remisión de los autos originales cuando estén en estado. Si dentro de los tres días siguientes al en que se le notifique la admisión del recurso, el apelante no señala las constancias para integrar el testimonio ni manifiesta que prefiere esperar, se le negará dicho testimonio y se tendrá por firme la resolución apelada.
 
-###### ARTICULO 643.
-
-Interpuesta la apelación, el juez la admitirá sin substanciación alguna si fuere procedente, expresando si la admite en uno o en ambos efectos y ordenará prevenir a las partes que deberán señalar domicilio para oír notificaciones en la residencia del Tribunal de Alzada a más tardar el día siguiente al en el que se notifique dicho auto.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 644.
+
+Interpuesta la apelación, el juez la admitirá sin substanciación alguna si fuere procedente, expresando si la admite en uno o en ambos efectos, corriendo traslado a la contraria para que dentro de cinco días conteste lo que a su derecho convenga.
+
+En los escritos de agravios y contestación, las partes señalarán domicilio en la residencia del Tribunal de Alzada para oír notificaciones, apercibiéndolos que de no hacerlo, éstas se les practicarán en los estrados.
+
+(REUBICADA, P.O. 9 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 645.
 
 Se admitirán en el efecto devolutivo las apelaciones que se hagan valer impugnando:
 
@@ -4367,13 +4571,17 @@ XII.- La declaratoria de herederos y el reconocimiento o desconocimiento de esa 
 
 XIII.- Las demás resoluciones contra las que expresamente así lo señala la ley.
 
-###### ARTICULO 645.
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 645], P.O. 9 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 646.
 
 No obstante lo dispuesto por el artículo anterior, si el apelante en un plazo que no exceda de tres días, presta garantía a satisfacción del tribunal de alzada para responder, en su caso, de las costas, daños y perjuicios que pueda ocasionar a la parte contraria, se admitirá la apelación en ambos efectos, excepto cuando se trate de alimentos.
 
 Si el tribunal confirmase la resolución apelada, condenará al apelante al pago de dichas indemnizaciones, además de lo que importen las costas.
 
-###### ARTICULO 646.
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 646], P.O. 9 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 647.
 
 Admitida la apelación en el efecto devolutivo, no se ejecutará la resolución impugnada si no se otorga previamente la garantía que podrá consistir en:
 
@@ -4383,19 +4591,27 @@ II.- Hipoteca sobre bienes inmuebles bastantes a juicio del tribunal, ubicados d
 
 III.- Fianza en la que deberán renunciarse los beneficios de orden y excusión.
 
-###### ARTICULO 647.
-
-La garantía otorgada por el ejecutante deberá ser suficiente para responder de la devolución o entrega de la cosa que haya de serlo, sus frutos y la indemnización de daños y perjuicios. El ministerio Público y el acreedor alimentario no están obligados a prestarla.
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 647], P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 648.
 
-El condenado podrá otorgar la contragarantía para evitar la ejecución de la resolución, la que comprenderá el pago de lo juzgado y sentenciado y gastos erogados por el ejecutante. Este derecho no lo tendrá el deudor alimentista.
+La garantía otorgada por el ejecutante deberá ser suficiente para responder de la devolución o entrega de la cosa que haya de serlo, sus frutos y la indemnización de daños y perjuicios. El ministerio Público y el acreedor alimentario no están obligados a prestarla.
+
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 648], P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 649.
 
-En los juicios relativos a cuestiones no pecuniarias, el señalamiento quedará a criterio del tribunal.
+El condenado podrá otorgar la contragarantía para evitar la ejecución de la resolución, la que comprenderá el pago de lo juzgado y sentenciado y gastos erogados por el ejecutante. Este derecho no lo tendrá el deudor alimentista.
+
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 649], P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 650.
+
+En los juicios relativos a cuestiones no pecuniarias, el señalamiento quedará a criterio del tribunal.
+
+(REUBICADA, P.O. 9 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 651.
 
 Además de los casos determinados expresamente en la ley, se admitirán en ambos efectos las apelaciones que se interpongan en contra de:
 
@@ -4421,35 +4637,31 @@ X.- La resolución que apruebe la partición, siempre y cuando exceda de dos mil
 
 XI.- Resoluciones dictadas en incidentes de liquidación o similares.
 
-###### ARTICULO 651.
-
-La apelación admitida en ambos efectos suspende desde luego la ejecución de las resoluciones recurridas y entretanto se decide, solo podrán dictarse las que se refieran a la administración, custodia y conservación de los bienes embargados o intervenidos judicialmente, siempre que la apelación no versare sobre uno de estos actos.
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 651], P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 652.
 
+La apelación admitida en ambos efectos suspende desde luego la ejecución de las resoluciones recurridas y entretanto se decide, solo podrán dictarse las que se refieran a la administración, custodia y conservación de los bienes embargados o intervenidos judicialmente, siempre que la apelación no versare sobre uno de estos actos.
+
+(REUBICADA, P.O. 9 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 653.
+
 La tramitación de la apelación se sujetará a las siguientes reglas:
 
-I.- Se confirmará, revocará o modificará por la sala respectiva, el auto dictado por el inferior, en el que se admitió el recurso y se hizo la calificación del grado;
+I. Llegados los autos o el testimonio en su caso al superior, éste dentro de los tres días siguientes, dictará providencia en la que decidirá sobre la admisión del recurso, la calificación del grado y la oportuna expresión de agravios y su contestación. Confirmado, revocado o modificado el auto del juez, se ordenará lo que corresponda;
 
-II.- Confirmado el auto, de oficio se pondrán los autos a la vista del apelante para que dentro de cinco días presente sus agravios y se mandará requerirlo para que proporcione, si antes no lo hubiere hecho, nombre y domicilio de su abogado patrono si lo tuviere, con apercibimiento de que en caso de ocultamiento, la multa que se impusiere de conformidad con la fracción VI de este precepto, será única y exclusivamente a su cargo. Revocado o modificado, se ordenará lo que corresponda;
+II. En los escritos de expresión de agravios y contestación, las partes pueden ofrecer pruebas especificando los puntos sobre los que deben versar, que nunca serán extraños a la cuestión debatida, y se esté en cualquiera de éstos casos: Cuando por cualquier causa no imputable al que solicita la prueba, no haya podido practicarse en la primera instancia toda o en parte de la que hubiera propuesto u ocurriese algún hecho que importe excepción superveniente. La Sala respectiva admitirá las pruebas que procedieren fijando día y hora para su recepción;
 
-III.- Expresados los agravios en tiempo, se correrá traslado a la parte apelada para que dentro del término de tres días los conteste, o manifieste lo que a sus intereses convenga.
-
-Transcurrido el término señalado sin que la parte apelante haya expresado agravios, de oficio o a petición de parte, se declarará desierto el recurso procediendo en consecuencia;
-
-IV.- En los escritos de expresión de agravios y contestación, las partes pueden ofrecer pruebas especificando los puntos sobre los que deben de versar, que nunca serán extraños a la cuestión debatida, y se esté en cualquiera de estos casos: cuando por cualquier causa no imputable al que solicita la prueba, no haya podido practicarse en la primera instancia toda o en parte de la que hubiera previsto u ocurriere algún hecho que importe excepción superveniente;
-
-V.- Dentro del día siguiente al que haya concluido el término para la contestación de agravios y si se hubieren ofrecido pruebas, se resolverá admitiendo las que necesariamente procedieren y se fijará día y hora para su recepción;
-
-VI.- Si no contestaren los agravios, no se ofrecieron pruebas, las ofrecidas no fueren admitidas o concluida su recepción, según el caso, se citará a las partes para sentencia y ésta se pronunciará dentro del término de ley;
+III. Si no se ofrecieren pruebas, las ofrecidas no fueren admitidas, o concluida su recepción, según el caso, se citará a las partes para sentencia que se pronunciará dentro del término de ley.
 
 Si se encontraren violaciones al procedimiento que dejaren sin defensa a cualquier persona con interés legítimo, se ordenará la reposición de aquél siempre que sea trascendente en el resultado del fallo, debiendo precisar el efecto o efectos y hacer un extrañamiento al inferior.
 
-Podrá suplirse la deficiencia de los agravios y si al hacerlo el tribunal de alzada encontrare que se debe no a la ignorancia, sino a la negligencia, irresponsabilidad o falta de ética del apelante o de su abogado patrono, impondrá a cada uno o a ambos según el caso, una multa de hasta veinte días de salario;
+Podrá suplirse la deficiencia de los agravios y si al hacerlo el Tribunal de Alzada encontrare que se debe no a la ignorancia, sino a la negligencia, irresponsabilidad o falta de ética del apelante o de su abogado patrono, impondrá a cada uno o a ambos según el caso, una multa de hasta treinta días de salario;
 
-VII.- Si se tuviere conocimiento de oficio o a petición de parte sobre la existencia de apelación devolutivo pendiente de resolver cuando ya haya citación para decidir el fondo en primera o segunda instancia, se suspenderá el pronunciamiento de la sentencia definitiva mientras la apelación devolutiva pendiente no sea resuelta; y
+IV. Si se tuviere conocimiento de oficio o a petición de parte sobre la existencia de apelación devolutiva pendiente de resolver, cuando ya haya citación para decidir el fondo en primera o segunda instancia, se suspenderá el pronunciamiento de la sentencia definitiva mientras la apelación devolutiva pendiente no sea resuelta; y
 
-VIII.- La sala del ramo declarará improcedente la apelación, sin entrar al estudio de los agravios, cuando encontrare que fue indebidamente admitida.
+V. La Sala del ramo declarará improcedente la apelación, sin entrar al estudio de los agravios, cuando encontrare que fue indebidamente admitida.
 
 TRANSITORIOS:
 
@@ -4526,3 +4738,21 @@ Los asuntos tramitados con la normatividad anterior, continuarán en su trámite
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que contraríen la observancia de las presentes reformas.
+
+P.O. 9 DE DICIEMBRE DE 2000
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Si al entrar en vigor estas modificaciones estuviere corriendo el término para ofrecer pruebas se aplicarán las disposiciones anteriores a aquellas.
+
+###### ARTICULO TERCERO.
+
+En la tramitación y resolución de las apelaciones pendientes al entrar en vigor las presentes modificaciones, se aplicarán las disposiciones anteriores a éstas, no así cuando estuviere corriendo el término para interponer la apelación, en cuyo caso se sujetará a las modificaciones.
+
+###### ARTICULO CUARTO.
+
+Con el objeto de evitar confusiones por el cambio en la numeración del articulado a que se refiere este decreto, deberá disponerse, a la brevedad, la reimpresión completa del Código de Procedimientos Civiles para el Estado de Nayarit.
