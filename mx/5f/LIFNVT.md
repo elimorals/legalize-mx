@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "1982-01-07"
+last_updated: "1983-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 24 de abril de 1972.
 
@@ -294,13 +294,17 @@ II.- Efectuar las aportaciones al Instituto del Fondo Nacional de la Vivienda pa
 
 III.- Hacer los descuentos a sus trabajadores en sus salarios, conforme a lo previsto en los artículos 97 y 110 de la Ley Federal del Trabajo, que se destinen al pago de abonos para cubrir préstamos otorgados por el Instituto y a la Administración, operación y mantenimiento de los conjuntos habitacionales, así como enterar el importe de dichos descuentos en la forma y términos que establecen esta Ley y sus Reglamentos.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 30.
 
-Las obligaciones de efectuar las aportaciones y enterar los descuentos a que se refiere el artículo anterior, así como su cobro, tienen el carácter de fiscales.
+Las obligaciones de efectuar las aportaciones y enterar los descuentos a que se refiere el Artículo anterior, así como su cobro, tienen el carácter de fiscales.
 
-El Instituto del Fondo Nacional de la Vivienda para los trabajadores, para esos efectos tiene el carácter de organismo fiscal autónomo, facultado para determinar en caso de incumplimiento el importe de las aportaciones patronales y las bases para su liquidación y para su cobro. El Instituto determinará el monto de las cantidades a enterar procedentes de los descuentos antes mencionados.
+El Instituto del Fondo Nacional de la Vivienda para los Trabajadores en su carácter de organismo fiscal autónomo, está facultado, en los términos del Código Fiscal de la Federación, para determinar, en caso de incumplimiento, el importe de las aportaciones patronales y de los descuentos omitidos, señalar las bases para su liquidación, fijarlos en cantidad líquida, requerir su pago y determinar los recargos que correspondan.
 
-El cobro y ejecución de los créditos no cubiertos, estarán a cargo de la Oficina Federal de Hacienda que corresponda, con sujeción a las normas del Código Fiscal de la Federación.
+Los pagos que deban efectuarse conforme a lo señalado en este artículo, se harán en las oficinas del propio instituto o en las de las sociedades nacionales o instituciones de crédito que autorice la Secretaría de Hacienda y Crédito Público.
+
+El cobro y ejecución de los créditos no cubiertos, estarán a cargo de la oficina federal de hacienda que corresponda, con sujeción a las normas del Código Fiscal de la Federación.
 
 ###### ARTICULO 31.
 
@@ -326,11 +330,11 @@ Al terminarse la relación laboral, el patrón deberá entregar al trabajador un
 
 Las aportaciones señaladas en la fracción II del artículo 29, deberán hacerse bimestralmente, a más tardar el día 15 o al día siguiente hábil si aquél no lo fuere, del mes subsecuente al bimestre al que correspondan. Estas aportaciones constituyen depósitos de dinero sin causa de intereses en favor de los trabajadores. La aplicación y entrega de los mismos, se hará conforme a lo dispuesto por el artículo 141 y demás disposiciones aplicables de la Ley Federal del Trabajo y de la presente Ley.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 36.
 
-Los depósitos constituidos a favor de los trabajadores, así como la cantidad adicional a que se refiere la fracción IV del artículo 141 de la Ley Federal del Trabajo y demás disposiciones aplicables de la presente Ley, estarán exentos de toda clase de impuestos.
+Los depósitos constituidos a favor de los trabajadores, así como la cantidad adicional a que se refiere la fracción I del Artículo 141 de la Ley Federal del Trabajo y demás disposiciones aplicables de la presente Ley, estarán exentos de toda clase de impuestos.
 
 ###### ARTICULO 37.
 
@@ -368,19 +372,23 @@ f) Los ascendientes que no dependan económicamente del trabajador.
 
 En los casos a que se refiere el presente artículo los trabajadores o sus beneficiarios recibirán una cantidad adicional igual a los depósitos que tengan constituidos en el Instituto.
 
-> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-Cuando los trabajadores hubieren recibido el crédito del Instituto, la devolución de los depósitos se hará con deducción de las cantidades que se hubieren aplicado al pago de dicho crédito en los términos de las fracciones I y II del artículo 141 de la Ley Federal del Trabajo, por lo que la cantidad adicional referida en el párrafo anterior será igual al monto del saldo resultante.
+Cuando los trabajadores hubieren recibido crédito del instituto la entrega de las cantidades a que tuvieren derecho, se hará en los términos de la Fracción III del Artículo 141 de la Ley Federal del Trabajo.
 
 > <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1982)</small>
 
 Para la devolución de los depósitos y cantidades adicionales bastará la presentación de solicitud por escrito, acompañada de las pruebas relacionadas a la petición.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 41.
 
-Para los efectos de la primera parte de la fracción V del artículo 141 de la Ley Federal del Trabajo, se entenderá que un trabajador ha dejado de estar sujeto a una relación de trabajo, cuando deje de prestar sus servicios a un patrón por un periodo mínimo de doce meses, a menos que exista litigio pendiente sobre la subsistencia de la relación de trabajo.
+Para los efectos de la Fracción II del Artículo 141 de la Ley Federal del Trabajo, se entenderá que un trabajador ha dejado de estar sujeto a una relación de trabajo, cuando deje de prestar sus servicios a un patrón por un periodo mínimo de doce meses, a menos que exista litigio pendiente sobre la subsistencia de la relación de trabajo.
 
-Cuando un trabajador se encuentre en el caso que prevé el párrafo anterior y hubiere recibido un préstamo del Instituto, éste le otorgará una prórroga sin causa de intereses, en los pagos de amortización que tenga que hacerle por concepto de capital e intereses. La prórroga tendrá un plazo máximo de doce meses y terminará anticipadamente cuando el trabajador vuelva a estar sujeto a una relación de trabajo.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+Cuando un trabajador hubiere recibido un crédito del Instituto, éste le otorgará a partir de la fecha en que haya dejado de prestar sus servicios a un patrón, una prórroga sin causa de intereses en los pagos de amortización que tenga que hacerle por concepto de capital e intereses. Para tal efecto, el trabajador acreditado deberá dar aviso al instituto dentro del mes siguiente a la fecha en que deje de prestar sus servicios al patrón. La prórroga tendrá un plazo máximo de doce meses, independientemente de que exista litigio en trámite sobre la subsistencia de la relación de trabajo y terminará anticipadamente cuando el trabajador vuelva a estar sujeto a una relación de trabajo.
 
 La existencia de los supuestos a que se refiere este artículo y el anterior, deberán comprobarse ante el Instituto.
 
@@ -472,9 +480,15 @@ En los lugares donde haya delegados o comisiones consultivas, el sorteo se reali
 
 Con sujeción a los requisitos que fije la Asamblea General, el Consejo de Administración determinará: los montos máximos de los créditos que otorgue el Instituto, la relación de dichos montos con el salario de los trabajadores acreditados, la protección de los préstamos, así como los precios máximos de venta de las habitaciones cuya adquisición o construcción pueda ser objeto de los créditos que otorgue el Instituto.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 49.
 
-Los créditos que otorgue el Instituto, deberán darse por vencidos anticipadamente, si los deudores, sin el consentimiento de aquél enajenan las viviendas, gravan los inmuebles que garanticen el pago de los créditos concedidos por el Instituto, o incurren en las causas de rescisión consignadas en los contratos respectivos.
+Los créditos que otorgue el instituto se darán por vencidos anticipadamente cuando sin su consentimiento los deudores enajenan o gravan las viviendas en favor de personas que no tengan el carácter de derechohabientes y sin que haya mediado autorización previa de aquél, para garantizar el pago de los créditos concedidos. En caso de que arrienden las viviendas o transmitan su uso por cualquier título o incurran en violación de cualquiera de las causas consignadas en los contratos respectivos, será motivo de rescisión.
+
+Tratándose de créditos otorgados para la adquisición de viviendas financiadas directamente por el instituto, éstos se darán por cancelados y el contrato rescindido si los deudores incurren en alguna de las causales señaladas en el párrafo anterior, por lo que el deudor o quien ocupe la vivienda deberá desocuparla en un término de 45 días naturales contados a partir de la fecha en que se reciba el aviso respectivo.
+
+En el caso del párrafo anterior, las cantidades que hayan cubierto los trabajadores hasta la fecha en que se desocupe la vivienda, se aplicarán a favor del instituto a título de pago por el uso de la propia vivienda.
 
 ###### ARTICULO 50.
 
@@ -504,9 +518,11 @@ Las controversias entre los patrones y el Instituto, una vez agotado, en su caso
 
 Será optativo para los patrones agotar el recurso de inconformidad o acudir directamente ante el Tribunal Fiscal de la Federación.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 55.
 
-Independientemente de las sanciones específicas que establece esta Ley, las infracciones a la misma que en perjuicio de sus trabajadores o del Instituto cometan los patrones, se castigarán con multas de $100.00 a $10,000.00.
+Independientemente de las sanciones específicas que establece esta Ley, las infracciones a la misma que en perjuicio de sus trabajadores o del instituto cometan los patrones, se castigarán con multas por el equivalente de 15 a 315 veces el salario mínimo general. La cuantificación de las sanciones pecuniarias que se establecen, se hará tomando como base de cálculo la cuota diaria de salario mínimo general vigente, en el lugar y tiempo en que se cometa la violación.
 
 Estas multas serán impuestas por la Secretaría del Trabajo y Previsión Social, de acuerdo con los Reglamentos respectivos y no se aplicarán a los patrones que enteren espontáneamente en los términos del Código Fiscal de la Federación, las aportaciones y descuentos correspondientes.
 
@@ -651,3 +667,11 @@ Las solicitudes de devolución de fondo de ahorro que se hubieren presentado con
 ###### ARTICULO CUARTO.
 
 Las solicitudes para la continuación voluntaria dentro del régimen del INFONAVIT que se hubieren presentado con anterioridad a la entrada en vigor de este decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en la fecha de presentación de la solicitud correspondiente.
+
+D.O.F. 30 DE DICIEMBRE DE 1983.
+
+PRIMERO.- Las solicitudes de entrega de depósitos presentadas con anterioridad a estas reformas y pendientes de ser resueltas, se atenderán en los términos de las disposiciones legales anteriores a las propias reformas. Las solicitudes de entrega de depósitos presentadas con posterioridad a la iniciación de vigencia de la Reforma al Artículo 141 de la Ley Federal del Trabajo, se resolverán atendiendo a la norma vigente en el momento en que el derecho en que se funden se volvió exigible.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto, las aportaciones que se efectúen a favor de los trabajadores ya acreditados, se aplicarán íntegramente a constituir su fondo de ahorro.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
