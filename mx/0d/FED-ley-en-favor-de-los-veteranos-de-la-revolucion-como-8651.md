@@ -4,7 +4,7 @@ identifier: "FED-ley-en-favor-de-los-veteranos-de-la-revolucion-como-8651"
 country: "mx"
 rank: "ley"
 publication_date: "1950-01-07"
-last_updated: "1950-01-07"
+last_updated: "1967-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8651&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1949-12-31"
 
 LEY EN FAVOR DE LOS VETERANOS DE LA REVOLUCION COMO SERVIDORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 1967.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 7 de enero de 1950.
 
@@ -101,17 +101,59 @@ Para desempeñar aquellos empleos en que conforme a las leyes se requieran títu
 
 Para ocupar cargos técnicos o en los que se requieran conocimientos específicos, deberán sujetarse a las pruebas de eficiencia que estipulan los reglamentos o disposiciones respectivos. Los Veteranos que hayan desempeñado durante dos años los puestos a que se refiere este párrafo, tendrán por ese solo hecho demostrada y reconocida su eficiencia.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1967)</small>
+
 ###### ARTICULO 15.
 
-Para los efectos de las disposiciones de la Ley de Pensiones Civiles de Retiro relativas a jubilaciones, los Veteranos tendrán derecho a que se les compute un 50% más del tiempo de servicio. La antigüedad se regulará sumando el tiempo de servicios prestados en la unidad burocrática en que se encuentre el interesado al solicitar su retiro, al tiempo de servicios prestados en otras épocas ya sea en la misma unidad burocrática o en distintas dependencias de los Poderes de la Unión, especialmente en el servicio del Ejército y Armada Nacionales.
+Los Veteranos de la Revolución que como servidores de la Federación obtengan del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado jubilación o pensión con cargo al patrimonio de dicho Organismo, tienen derecho a que la Federación, por conducto de la Secretaría de Hacienda y Crédito Público, les otorgue los siguientes beneficios.
 
-Los aumentos que resulten por las disposiciones de esta ley en las Pensiones de los Veteranos, se pagarán con cargo al Erario Federal.
+I.- Aumento de un 50% al cómputo de años de servicios que se haya tomado como base para la jubilación o la pensión concedida por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y
+
+II.- Una cuota diaria adicional con cargo al Erario Federal, equivalente a la cantidad que como diferencia resulte entre la cuota asignada por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado con cargo a su patrimonio y el 100% del sueldo disfrutado por el Veterano al causar baja de su empleo, si el cómputo, ya incluido el aumento a que se refiere la fracción que antecede, llega a 30 o más años.
+
+Cuando ya incluido el aumento de años de servicios, el cómputo sea menor de 30 años, se aplicará el tabulador contenido en el artículo 77 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+La iniciación de pago de la cuota adicional mencionada, será a partir del día siguiente al en que cause baja de su empleo el interesado.
+
+La calidad de Veterano de la Revolución se acreditará ante la Secretaría de Hacienda y Crédito Público con el oficio de reconocimiento expedido por la Secretaría de la Defensa Nacional y con el estudio de la Comisión Pro Veteranos de esta última Secretaría que haya servido de base para el mismo.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1967)</small>
 
 ###### ARTICULO 16.
 
-Las pensiones que se otorguen conforme al artículo que antecede, se calcularán tomando como base el último sueldo percibido por el Veterano en la fecha en que solicite su jubilación.
+Los familiares de los Veteranos disfrutarán de los beneficios de esta Ley, conforme a las siguientes reglas:
 
-El monto de la pensión será igual a ese último sueldo si el cómputo del tiempo hecho en la forma que previene el artículo anterior alcanza a 30 años, a todo tiempo menor, computado en la misma forma, se aplicará el tabulador de la Ley de Pensiones Civiles vigente.
+I.- Se consideran como familiares derechohabientes de los Veteranos:
+
+a).- La cónyuge supérstite.
+
+b).- Los hijos menores de 18 años.
+
+c).- La concubina, a falta de cónyuge supérstite, siempre que compruebe que hizo vida marital con el causante durante los cinco años consecutivos e inmediatos anteriores a la fecha del fallecimiento del Veterano y que tanto éste como ella permanecieron libres de matrimonio durante su unión.
+
+II.- Al fallecer un Veterano que haya estado disfrutando de cuota adicional con cargo al Erario Federal, sus familiares derechohabientes tendrán derecho a la transmisión del 80% del monto del beneficio durante el primer año, rebajándose del segundo en adelante anualmente un 10% sucesivamente hasta llegar al 50% del beneficio original;
+
+III.- Si el Veterano fallecido no disfrutó de cuota adicional con cargo al Erario Federal, sus familiares tendrán derecho a que se les transmita el 100% de la cuota adicional que hubiere correspondido al causante para el primer año, rebajándose del segundo en adelante un 10% hasta llegar a la mitad de la cuota asignada para el primer año;
+
+IV.- La iniciación de pago del beneficio concedido a los derechohabientes, será a partir del día siguiente al del fallecimiento del Veterano causante;
+
+V.- El derecho de los familiares del Veterano para disfrutar del beneficio que se les haya concedido, terminará:
+
+a).- Para los hijos, al cumplir 18 años de edad.
+
+b).- Para las hijas, al cumplir 18 años de edad o antes al contraer matrimonio o por vivir en concubinato.
+
+c).- Para la viuda o concubina, a su fallecimiento o al contraer nuevas nupcias o por vivir en concubinato.
+
+d).- Por prescripción, al transcurrir cinco años de no cobrarse el beneficio, contados a partir de la fecha del último cobro.
+
+IV (sic).- Si fueren varios los familiares con derecho a la cuota adicional, el importe de ésta se dividirá por partes iguales;
+
+VII.- Cuando se suspenda o extinga el derecho de un copartícipe, con su cuota-parte se acrecerá proporcionalmente la de sus cobeneficiarios, y
+
+VIII.- El derecho al cobro de la cuota-parte correspondientes a cada beneficiario prescribirá por el transcurso de dos años, computados a partir de la fecha del último cobro.
+
+Es incompatible la percepción de la cuota adicional otorgada a un Veterano o a sus deudos, con cualquier otra pensión o con cualquier percepción proveniente de empleos remunerados por el Presupuesto de Egresos de la Federación.
 
 ###### ARTICULO 17.
 
@@ -142,3 +184,9 @@ Se deroga la ley de 31 de diciembre de 1941 y las demás disposiciones que se op
 Francisco Hernández y Hernández, D.P.- Gustavo A. Uruchurtu, S.P.- Rafael Suárez Ocaña, D.S.- Alfonso Corona del Rosal, S.S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los treinta y un días del mes de diciembre de mil novecientos cuarenta y nueve.- Miguel Alemán.- Rúbrica.- El Secretario de Gobernación, Adolfo Ruiz Cortines.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ramón Beteta.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 19 DE ENERO DE 1967.
+
+UNICO.- Los trabajadores al servicio civil de la Federación que se crean con derecho a ser reconocidos como Veteranos de la Revolución, deberán presentar la solicitud respectiva a la Secretaría de la Defensa Nacional, Comisión Pro Veteranos, en el término de un año contado a partir de la fecha en que entre en vigor el presente Decreto, en la inteligencia de que, de no hacerlo dentro de ese plazo, prescribirá su derecho a solicitar los beneficios, de pensión establecidos por el mismo.
