@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1982-11-27"
+last_updated: "1985-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1985.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2063,31 +2063,39 @@ VIII.- Cuando se cometa durante un incendio, terremoto u otra calamidad pública
 
 Abigeato.
 
-370.- Comete el delito de abigeato el que sin consentimiento del que legalmente deba darlo, se apodere de ganado mayor o menor, en campo abierto, potrero, finca rústica, ejido o camino público, con objeto de aprovecharse de él; siempre y cuando el ofendido acredite legalmente su carácter de ganadero en la especie a la que pertenezcan los animales de que se trate.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1985)</small>
+
+370.- Comete el delito de abigeato el que sin consentimiento del que legalmente deba de darlo, se apodere de ganado mayor o menor con el objeto de aprovecharse de él.
 
 371.- Para los efectos del artículo anterior, se considerará ganado mayor: al bovino, caballar, mular y asnal; y como ganado menor: al cabrío, lanar y porcino.
 
-372.- Tratándose de ganado mayor, el delito de abigeato, se sancionará de acuerdo con las reglas siguientes:
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1985)</small>
 
-I.- Si el robo fuere de una a diez cabezas, con la pena de tres a ocho años de prisión y multa de doscientos a dos mil pesos;
+372.- Tratándose de ganado mayor, el delito de abigeato se sancionará de acuerdo con las siguientes reglas:
 
-II.- Si excediere de diez y no de quince cabezas, con la pena de seis a nueve años de prisión y multa de mil a cinco mil pesos;
+I.- Si el robo fuere de una a diez cabezas, con la pena de cinco a ocho años de prisión y multa de cincuenta a cien mil pesos;
 
-III.- Cuando el número de cabezas fuera mayor de quince, pero no de veinte, con la de siete a diez años de prisión y multa de dos mil a diez mil pesos;
+II.- Si excediere de diez y no de quince cabezas, con la pena de ocho a diez años de prisión y multa de setenta a ciento cincuenta mil pesos;
 
-IV.- Cuando el número de cabezas fuera mayor de veinte, se aplicarán de diez a quince años de prisión y multa de cinco mil a quince mil pesos.
+III.- Cuando el número de cabezas fuere mayor de quince, pero no de veinte, con la de diez a quince años de prisión y multa de cien a doscientos mil pesos;
+
+IV.- Cuando el número de cabezas fuere mayor de veinte, se aplicarán de quince a dieciocho años de prisión y multa de doscientos y trescientos mil pesos.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1985)</small>
 
 373.- Tratándose de ganado menor, el abigeato se sancionará de la manera siguiente:
 
-I.- Si el robo fuere de una a cinco cabezas, será sancionado de uno a cuatro años de prisión y multa de doscientos a mil pesos;
+I.- Si el robo fuere de una a cinco cabezas, será sancionado de cuatro a seis años de prisión y multa de veinte a cincuenta mil pesos;
 
-II.- Si el robo fuere de seis cabezas y no pasare de diez, será sancionado con la pena de dos a seis años de prisión y multa de cuatrocientos a dos mil pesos;
+II.- Si el robo fuere de seis cabezas y no pasare de diez, será sancionado con la pena de seis a nueve años de prisión y multa de cuarenta a ochenta mil pesos;
 
-III.- Si excediere de diez y no de quince cabezas, se aplicará la pena de tres a siete años de prisión y multa de mil a cinco mil pesos; y
+III.- Si excediere de diez y no de quince cabezas, se aplicará la pena de nueve a doce años de prisión y multa de cincuenta a cien mil pesos;
 
-IV.- Cuando el número de cabezas fuere mayor de quince se aplicará de cuatro a ocho años de prisión y multa de dos mil a diez mil pesos.
+IV.- Cuando el número de cabezas fuere mayor de quince se aplicará la pena de doce a quince años de prisión y multa de cien a doscientos mil pesos.
 
-374.- Se equipara el abigeato y se sancionará con prisión de dos a ocho años y multa de doscientos a dos mil pesos, a quienes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1985)</small>
+
+374.- Se equipará el abigeato y se sancionará con prisión de tres a diez años y multa de cincuenta a cien mil pesos, a quienes:
 
 I.- Desfiguren o borren las marcas de animales vivos o pieles;
 
@@ -2101,7 +2109,15 @@ V.- Contramarquen o contraseñen animales ajenos, en cualquier parte, sin derech
 
 VI.- Expidan certificados falsos para obtener guías, simulando ventas, o hagan conducir animales que no son de su propiedad, sin estar debidamente autorizados para ello, o se valgan de certificados o guías falsificadas para cualquier negociación sobre ganados o cueros;
 
-VII.- Siendo autoridades expidan guías falsas.
+VII.- Siendo autoridades expidan guías falsas;
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1985)</small>
+
+VIII.- Sin tomar las medidas indispensables para cerciorarse de la procedencia legítima de los animales, adquieran ganado producto del abigeato;
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1985)</small>
+
+IX.- Sin verificar su procedencia legítima, comercien, de primera mano, con pieles, carnes u otros derivados de los animales producto del abigeato.
 
 375.- Sin en la comisión del delito de abigeato, se ejecutan otros delitos, se aplicarán las reglas de acumulación.
 
@@ -2332,3 +2348,7 @@ P.O. 27 DE NOVIEMBRE DE 1982.
 PRIMERO.- Quedan derogadas todas las disposiciones del Código Penal de fecha 22 de octubre de 1979 que se opongan a las adiciones y reformas del presente decreto.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE ENERO DE 1985.
+
+UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
