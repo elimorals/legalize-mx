@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-sistema-intermunicipal-de-los-servicios-de-agua-597
 country: "mx"
 rank: "ley"
 publication_date: "1978-04-20"
-last_updated: "1989-07-06"
+last_updated: "1996-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5973&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL SISTEMA INTERMUNICIPAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE LA ZONA METROPOLITANA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 20 de abril de 1978.
 
@@ -235,7 +235,7 @@ X. Dentro de sus facultades, realizar los actos de administración que le encomi
 
 XI. Las demás que le correspondan de acuerdo con esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 1989)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 1989)</small>
 
 ###### Artículo 10.
 
@@ -259,11 +259,15 @@ IV. Gerencia de Tesorería;
 
 > <small>(REFORMADA, P.O. 6 DE JULIO DE 1989)</small>
 
-V. Gerencia de Operación y Mantenimiento; y
+V. Gerencia de Operación y Mantenimiento;
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 1996)</small>
+
+VI. Gerencia de Planeación, Programación y Desarrollo; y
 
 > <small>(ADICIONADA, P.O. 6 DE JULIO DE 1989)</small>
 
-VI. Las que se determine crear, en los términos de esta Ley.
+VI. (sic) Las que se determine crear, en los términos de esta Ley.
 
 La designación de cada uno de estos Gerentes se hará por el Consejo de Administración del Sistema y propuesta de su Presidente.
 
@@ -336,6 +340,28 @@ III. Tramitar y resolver lo que le corresponda y las que, específicamente se le
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1983)</small>
 
 IV. Además todas aquellas que, desde el punto de vista técnica le correspondan y las que le sean delegadas por el Consejo de Administración del "Sistema" o por su Director General.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 1996)</small>
+
+###### Artículo 12 Bis.
+
+Son funciones de la Gerencia de Planeación Programación y Desarrollo:
+
+I. Coordinar la formulación de los Planes de Desarrollo Institucional de acuerdo a las perspectivas teóricas y las metodologías contemporáneas, con el propósito de configurar enfoques unitarios y visionarios de la misión del organismo operador;
+
+II. Formular, en conjunto con las demás gerencias, los programas anuales de trabajo de la institución bajo esquemas uniformes, visiones colegiadas y metodologías unificadas;
+
+III. Integrar los programas anuales de trabajo de la Institución de tal manera que se garanticen las articulaciones entre las unidades organizacionales y los resultados de servicio;
+
+IV. Realizar el seguimiento y evaluación de los planes y programas de la institución, buscando con ello, el logro integral oportuno de los objetivos institucionales e identificado a tiempo las desviaciones que se presenten, para proponer alternativas de solución;
+
+V. Evaluar el control interno de la institución, mediante la realización de auditorías, y a la vez, verificando tanto la aplicación de los principios de contabilidad, como la veracidad de los estados financieros;
+
+VI. Promover mejoras a los procesos institucionales para eficientar el funcionamiento de las unidades organizacionales que integran el organismo, con un enfoque al usuario;
+
+VII. Mantener actualizados los manuales administrativos del organismo operador, buscando la permanente congruencia, entre la normatividad y los desempeños de las personas y las unidades organizacionales; y
+
+VIII. Las demás funciones y actividades que se requieran, conforme a las necesidades del Organismo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1983)</small>
 
@@ -522,3 +548,7 @@ Segundo.- Este Decreto entrará en vigor al tercer día de su publicación en el
 P.O. 6 DE JULIO DE 1989
 
 Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 6 DE ENERO DE 1996
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
