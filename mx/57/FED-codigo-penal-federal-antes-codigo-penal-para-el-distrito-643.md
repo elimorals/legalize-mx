@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1969-02-18"
+last_updated: "1970-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE FEBRERO DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JULIO DE 1970.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -827,7 +827,9 @@ Podrá concederse indulto cuando el reo haya prestado importantes servicios a la
 
 El indulto en ningún caso extinguirá la obligación de reparar el daño causado, excepto en el caso del artículo 96.
 
-### CAPITULO I. Traición a la Patria
+### CAPITULO I. Traición a la patria
+
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 99.
 
@@ -835,7 +837,7 @@ La rehabilitación tiene por objeto reintegrar al condenado en los derechos civi
 
 ### CAPITULO II. Espionaje
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 100.
 
@@ -921,15 +923,17 @@ La prescripción de la sanciones corporales, sólo se interrumpe aprehendiendo a
 
 La prescripción de las pecuniarias sólo se interrumpe por el embargo de bienes para hacerlas efectivas.
 
-### CAPITULO III. Conspiración
+### CAPITULO III. Sedición
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 116.
 
 La privación de derechos civiles o políticos prescribirá en veinte años.
 
-### CAPITULO I. Rebelión
+### CAPITULO IV. Motín
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 117.
 
@@ -937,15 +941,17 @@ Los reos de homicidio intencional o de heridas o violencias graves, a quienes se
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-### CAPITULO II. Sedición y otros desórdenes públicos
+### CAPITULO V. Rebelión
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 118.
 
 Para la prescripción de las acciones penales, se tendrá como base el término medio aritmético de las primeras, según el delito de que se trate.
 
-### CAPITULO III. Delitos de disolución social
+### CAPITULO VI. Terrorismo
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ## TITULO SEXTO. De los menores
 
@@ -983,117 +989,205 @@ Cuando el menor llegue a los dieciocho años antes de terminar el período de re
 
 # LIBRO SEGUNDO
 
-## TITULO PRIMERO. Delitos contra la seguridad exterior de la Nación
+> <small>N. DE E. CONFORME AL ARTICULO PRIMERO DEL DECRETO DE REFORMAS, QUEDAN DEROGADOS LOS TITULOS PRIMERO Y SEGUNDO ANTERIORES, INTEGRANDO EL PRESENTE TITULO LOS ARTICULOS 123 A 145.</small>
 
-### CAPITULO I. Piratería
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 29 DE JULIO DE 1970)</small>
+
+## TITULO PRIMERO. Delitos contra la seguridad de la Nación
+
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
+
+### CAPITULO VII. Sabotaje
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 123.
 
-Comete el delito de traición: el que atenta contra la independencia de la República Mexicana, su soberanía, su libertad o la integridad de su territorio, si el delincuente tiene la calidad de mexicano por nacimiento o por naturalización, o ha renunciado su nacionalidad de mexicano, dentro de los tres meses anteriores a la declaración de guerra o al rompimiento de las hostilidades entre un enemigo extranjero y México, si no ha precedido esa declaración.
+Se impondrá la pena de prisión de cinco a cuarenta años y multa hasta de cincuenta mil pesos al mexicano que cometa traición a la patria en alguna de las formas siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1955)</small>
+I.- Realice actos contra la independencia, soberanía o integridad de la Nación Mexicana con la finalidad de someterla a persona, grupo o gobierno extranjero;
+
+II.- Tome parte en actos de hostilidad en contra de la Nación, mediante acciones bélicas a las órdenes de un Estado extranjero o coopere con éste en alguna forma que pueda perjudicar a México.
+
+Cuando los nacionales sirvan como tropa, se impondrá pena de prisión de uno a nueve años y multa hasta de diez mil pesos;
+
+III.- Forme parte de grupos armados dirigidos o asesorados por extranjeros; organizados dentro o fuera del país, cuando tengan por finalidad atentar contra la independencia de la República, su soberanía, su libertad o su integridad territorial o invadir el territorio nacional, aun cuando no exista declaración de guerra;
+
+IV.- Destruya o quite dolosamente las señales que marcan los límites del territorio nacional, o haga que se confundan, siempre que ello origine conflicto a la República, o ésta se halle en estado de guerra;
+
+V.- Reclute gente para hacer la guerra a México, con la ayuda o bajo la protección de un gobierno extranjero;
+
+VI.- Tenga, en tiempos de paz o de guerra, relación o inteligencia con persona, grupo o gobierno extranjeros o le dé instrucciones, información o consejos, con objeto de guiar a una posible invasión del territorio nacional o de alterar la paz interior;
+
+VII.- Proporcione dolosamente y sin autorización, en tiempos de paz o de guerra, a persona, grupo o gobierno extranjeros, documentos, instrucciones o datos de establecimientos o de posibles actividades militares;
+
+VIII.- Oculte o auxilie a quien cometa actos de espionaje, sabiendo que los realiza;
+
+IX.- Proporcione a un Estado extranjero o a grupos armados dirigidos por extranjeros, los elementos humanos o materiales para invadir el territorio nacional, o facilite su entrada a puestos militares o le entregue o haga entregar unidades de combate o almacenes de boca o guerra o impida que las tropas mexicanas reciban estos auxilios;
+
+X.- Solicite la intervención o el establecimiento de un protectorado de un Estado extranjero o solicite que aquel haga la guerra a México; si no se realiza lo solicitado, la prisión será de cuatro a ocho años y multa hasta de diez mil pesos;
+
+XI.- Invite a individuos de otro Estado para que hagan armas contra México o invadan el territorio nacional, sea cual fuere el motivo que se tome; si no se realiza cualquiera de estos hechos, se aplicará la pena de cuatro a ocho años de prisión y multa hasta de diez mil pesos;
+
+XII.- Trate de enajenar o gravar el territorio nacional o contribuya a su desmembración;
+
+XIII.- Reciba cualquier beneficio, o acepte promesa de recibirlo, con el fin de realizar alguno de los actos señalados en este artículo;
+
+XIV.- Acepte del invasor un empleo, cargo o comisión y dicte, acuerde o vote providencias encaminadas a afirmar al gobierno intruso y debilitar al nacional; y
+
+XV.- Cometa, declarada la guerra o rotas las hostilidades, sedición, motín, rebelión, terrorismo, sabotaje o conspiración.
+
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 124.
 
-Se impondrá prisión de 8 a 40 años y multa de mil a cincuenta mil pesos, por el delito previsto en el artículo precedente y, además, en los casos siguientes:
+Se aplicará la pena de prisión de cinco a veinte años y multa hasta de veinticinco mil pesos, al mexicano que:
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
+I.- Sin cumplir las disposiciones constitucionales, celebre o ejecute tratados o pactos de alianza ofensiva con algún Estado, que produzcan o puedan producir la guerra de México con otro, o admita tropas o unidades de guerra extranjeras en el país;
 
-I.- Al que destruya o quite las señales que marcan las fronteras de la Nación o de cualquier otro modo haga que se confundan, siempre que se origine algún conflicto a la República o ésta se halle en guerra extranjera. Faltando esa circunstancia se aplicará prisión hasta por cinco años y multa hasta de diez mil pesos;
+II.- En caso de una invasión extranjera, contribuya a que en los lugares ocupados por el enemigo se establezca un gobierno de hecho, ya sea dando su voto, concurriendo a juntas, firmando actas o representaciones o por cualquier otro medio;
 
-II.- Al que enajene de cualquier modo una parte del territorio nacional, o contribuya de cualquier manera a su desmembración;
+III.- Acepte del invasor un empleo, cargo o comisión, o al que, en el lugar ocupado, habiéndolo obtenido de manera legítima lo desempeñe en favor del invasor; y
 
-III.- Al que celebre o ejecute tratados o pactos de alianza ofensiva que produzcan la guerra de México con otra potencia, o sin los requisitos constitucionales, admita tropas extranjeras en el país;
+IV.- Con actos no autorizados ni aprobados por el gobierno, provoque una guerra extranjera con México, o exponga a los mexicanos a sufrir por esto, vejaciones o represalias.
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
-
-IV.- Al que solicite la intervención o el protectorado de una nación extranjera, o que ésta o algún filibustero hagan la guerra a México, si se realizare cualesquiera de estos hechos.
-
-Cuando falte esta condición la prisión será de cuatro a ocho años y la multa hasta de diez mil pesos;
-
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
-
-V.- Al que invite a individuos de otra nación para que invadan el territorio nacional, sea cual fuere el motivo o el pretexto que se tome, si la invasión se verificare.
-
-En caso contrario se aplicarán de cuatro a ocho años de prisión y multa hasta de diez mil pesos;
-
-VI.- Al que reclute en México gente para hacer la guerra a la Patria bajo la bandera de una potencia enemiga;
-
-VII.- Al que oculte o auxilie a los espías o exploradores del enemigo, sabiendo que lo son;
-
-VIII.- A los que en guerra extranjera tomen las armas contra México, sirviendo en las filas enemigas, con excepción de los que figuren como tropa, a los que se aplicarán de dos a cuatro años de prisión;
-
-IX..- Al que proporcione al enemigo los medios de invadir el territorio nacional, le facilite la entrada a alguna fortaleza, plaza o ciudad fortificada, o a otro puesto militar, o le entregue o haga entregar éste o aquéllos, un almacén de municiones o de víveres, o alguna embarcación perteneciente a México;
-
-X.- Al que voluntariamente proporcione al enemigo hombres para el servicio militar, dinero, medios de transporte, armas, municiones de boca o de guerra, o impida que las tropas mexicanas reciban estos auxilios;
-
-XI.- Al que, estando ya declarada la guerra o rotas las hostilidades, forme o fomente una conspiración, rebelión o sedición en el interior, sea cual fuere el pretexto, si esto se hiciere por favorecer al invasor o diere ese resultado, y
-
-XII.- Al que acepte del enemigo un empleo, cargo o comisión en que tenga que dictar, acordar o votar providencias encaminadas a afirmar al gobierno intruso y debilitar al nacional, a favorecer el progreso de las operaciones militares del enemigo o su triunfo, u oponer obstáculo al triunfo de la Nación Mexicana, o al que en lugar ocupado por el enemigo, desempeñe un empleo o cargo de igual importancia de los que se mencionan en este inciso, conferido por una autoridad legítima de la Nación.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 125.
 
-Se aplicarán de uno a diez años de prisión y multa de mil a veinte mil pesos:
+Se aplicará la pena de dos a doce años de prisión y multa de mil a veinte mil pesos al que incite al pueblo a que reconozca al gobierno impuesto por el invasor o a que acepte una invasión o protectorado extranjero.
 
-I.- Al que haga una invitación formal y directa para cometer el delito de traición.
-
-Si la invitación se hiciere a tropa armada mexicana o al servicio de México, se juzgará al delincuente con arreglo a las leyes militares, sin perjuicio de lo dispuesto en la parte final del artículo 13 de la Constitución Política;
-
-II.- Al que, verificada una invasión extranjera, contribuya a que en los puntos ocupados por el enemigo se establezca un Gobierno de hecho, ya sea dando su voto, ya concurriendo a juntas o ya firmando actas o representaciones con ese fin;
-
-III.- Al que por medio de discursos en público o de proclamas, manifiestos u otros escritos, excite al pueblo a que reconozca al Gobierno impuesto por el invasor, o al que acepte una invasión o protectorado extranjeros;
-
-IV.- Al mexicano que con actos no autorizados ni aprobados por el Gobierno provoque una guerra extranjera con México, o dé motivo para que le sea declarada o exponga a los mexicanos a sufrir por esto vejaciones o represalias;
-
-V.- Al funcionario que compromete la vida o la dignidad de la República, y
-
-VI.- Al que en lugar ocupado por el enemigo desempeñe un empleo conferido por una autoridad legítima de la Nación, que no sea de los indicados en la fracción XII del artículo anterior, o al que lo acepte del enemigo y lo desempeñe.
-
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 126.
 
-Se impondrán prisión de uno a diez años y multa de mil a veinte mil pesos a los que conspiren para cometer el delito de traición a la Patria.
+Se aplicarán las mismas penas a los extranjeros que intervengan en la comisión de los delitos a que se refiere este Capítulo, con excepción de los previstos en las fracciones VI y VII del artículo 123.
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
-### CAPITULO II. Violación de inmunidad y de neutralidad
+### CAPITULO VIII. Conspiración
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 127.
 
-A los extranjeros residentes en la República que, no siendo de la nación con la cual México esté en guerra, cometieren alguno de los delitos previstos en el artículo 124, se les impondrá prisión hasta por veinte años y multa hasta por veinte mil pesos, y si fueren de los incluídos en el artículo 125, se les impondrá prisión hasta por cinco años y multa hasta por cinco mil pesos.
+Se aplicará la pena de prisión de cinco a veinte años y multa hasta de cincuenta mil pesos al extranjero que en tiempo de paz, con objeto de guiar a una posible invasión del territorio nacional o de alterar la paz interior, tenga relación o inteligencia con persona, grupo o gobierno extranjeros o le dé instrucciones, información o consejos.
+
+La misma pena se impondrá al extranjero que en tiempo de paz proporcione, sin autorización a persona, grupo o gobierno extranjero, documentos, instrucciones o cualquier dato de establecimientos o de posibles actividades militares.
+
+Se aplicará la pena de prisión de cinco a cuarenta años y multa hasta de cincuenta mil pesos al extranjero que, declarada la guerra o rotas las hostilidades contra México, tenga relación o inteligencia con el enemigo o le proporcione información, instrucciones o documentos o cualquier ayuda que en alguna forma perjudique o pueda perjudicar a la Nación Mexicana.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 128.
 
-Lo dispuesto en el artículo anterior se entiende sin perjuicio de lo que previene el artículo 33 constitucional.
+Se aplicará la pena de prisión de cinco a veinte años y multa hasta de cincuenta mil pesos, al mexicano que, teniendo en su poder documentos o informaciones confidenciales de un gobierno extranjero, los revele a otro gobierno, si con ello perjudica a la Nación Mexicana.
+
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 129.
 
-Se aplicará prisión de 20 a 40 años y multa hasta de cincuenta mil pesos, al que declarada la guerra o rotas las hostilidades esté en relación, o tenga inteligencia con el enemigo extranjero guiándolo, dándole instrucciones, consejos o proporcionándole noticias concernientes a las actividades diplomáticas o militares. Cuando las noticias no tengan este objeto pero fueren útiles al enemigo, la sanción será de 6 a 15 años de prisión y multa hasta de veinte mil pesos.
+Se impondrá la pena de seis meses a cinco años de prisión y multa hasta de cinco mil pesos al que teniendo conocimiento de las actividades de un espía y de su identidad, no lo haga saber a las autoridades.
 
-Se aplicará prisión de 25 a 40 años, multa hasta de cincuenta mil pesos y privación de derechos políticos hasta de 20 años, al funcionario o empleado público que declarada la guerra o rotas las hostilidades teniendo en su poder por razón de su empleo o cargo, el plano de alguna fortificación, arsenal, puerto, aeropuerto, rada, establecimientos industriales o militares o conociendo el secreto de una negociación o de una medida militar, entregue aquél o revele éste al enemigo. Cuando estos actos se realicen en tiempo de paz la prisión será de 15 a 30 años, la multa hasta de treinta mil pesos y la privación de derechos políticos hasta de diez años.
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
-Se aplicará prisión de 15 a 30 años y multa hasta de treinta mil pesos al que en tiempo de paz esté en relación o tenga inteligencia con un gobierno extranjero con el objeto de guiar una posible invasión del territorio nacional, o provocar alguna alteración de la paz interior, o con estos fines le dé instrucciones o consejos, o le proporcione noticias de las posibles actividades o establecimientos militares.
+### CAPITULO IX. Disposiciones comunes para los capítulos de este Título
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
-
-### CAPITULO III. Violaciones de los derechos de humanidad en prisioneros, rehenes, heridos u hospitales
-
-> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, D.O.F. 20 DE ENERO DE 1967)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 130.
 
-Cuando la revelación de secretos o la entrega de planos de que se habla en el artículo anterior es (sic) hagan a una potencia neutral, se impondrán al delincuente de cinco a diez años de prisión y multa hasta de quince mil pesos.
+Se aplicará la pena de seis meses a ocho años de prisión y multa hasta de diez mil pesos, a los que en forma tumultuaria, sin uso de armas, resistan o ataquen a la autoridad para impedir el libre ejercicio de sus funciones con alguna de las finalidades a que se refiere el artículo 132.
+
+A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición, se les aplicará la pena de cinco a quince años de prisión y multa hasta de veinte mil pesos.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+
+### CAPITULO I. Piratería
+
+###### ARTICULO 131.
+
+Se aplicará la pena de seis meses a siete años de prisión y multa hasta de cinco mil pesos, a quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una ley, se reúnan tumultuariamente y perturben el orden público con empleo de violencia en las personas o sobre las cosas, o amenacen a la autoridad para intimidarla u obligarla a tomar alguna determinación.
+
+A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de motín, se les aplicará la pena de dos a diez años de prisión y multa hasta de quince mil pesos.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+
+### CAPITULO II. Violación de inmunidad y de neutralidad
+
+###### ARTICULO 132.
+
+Se aplicará la pena de dos a veinte años de prisión y multa de cinco mil a cincuenta mil pesos a los que, no siendo militares en ejercicio, con violencia y uso de armas traten de:
+
+I.- Abolir o reformar la Constitución Política de los Estados Unidos Mexicanos;
+
+II.- Reformar, destruir o impedir la integración de las instituciones constitucionales de la Federación, o su libre ejercicio; y
+
+III.- Separar o impedir el desempeño de su cargo a alguno de los altos funcionarios de la Federación mencionados en el artículo 2o. de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación, del Distrito Federal y Territorios Federales y de los Altos Funcionarios de los Estados.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
+
+###### ARTICULO 133.
+
+Las penas señaladas en el artículo anterior se aplicarán al que residiendo en territorio ocupado por el Gobierno Federal, y sin mediar coacción física o moral, proporcione a los rebeldes, armas, municiones, dinero, víveres, medios de transporte o de comunicación o impida que las tropas del Gobierno reciban estos auxilios. Si residiere en territorio ocupado por los rebeldes, la prisión será de seis meses a cinco años.
+
+Al funcionario o empleado público de los Gobiernos Federal o Estatales, o de los Municipios, de organismos públicos descentralizados, de empresas de participación estatal, o de servicios públicos, federales o locales, que teniendo por razón de su cargo documentos o informes de interés estratégico, los proporcione a los rebeldes, se le aplicará pena de cinco a cuarenta años de prisión y multa de cinco mil a cincuenta mil pesos.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
+
+###### ARTICULO 134.
+
+Se aplicará la pena de dos a veinte años de prisión y multa de cinco mil a cincuenta mil pesos a los que, no siendo militares en ejercicio, con violencia y uso de armas, atenten contra el Gobierno de alguno de los Estados de la Federación, contra sus instituciones constitucionales o para lograr la separación de su cargo de alguno de los altos funcionarios del Estado, cuando interviniendo los Poderes de la Unión en la forma prescrita por el artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, los rebeldes no depongan las armas.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
+
+###### ARTICULO 135.
+
+Se aplicará la pena de uno a veinte años de prisión y multa hasta de cincuenta mil pesos al que:
+
+I.- En cualquier forma o por cualquier medio invite a una rebelión;
+
+II.- Residiendo en territorio ocupado por el Gobierno:
+
+a) Oculte o auxilie a los espías o exploradores de los rebeldes, sabiendo que lo son;
+
+b) Mantenga relaciones con los rebeldes, para proporcionarles noticias concernientes a las operaciones militares u otras que les sean útiles.
+
+III.- Voluntariamente sirva un empleo, cargo o comisión en lugar ocupado por los rebeldes, salvo que actúe coaccionado o por razones humanitarias.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
+
+###### ARTICULO 136.
+
+A los funcionarios o agentes del Gobierno y a los rebeldes que después del combate causen directamente o por medio de órdenes, la muerte a los prisioneros, se les aplicará pena de prisión de quince a treinta años y multa de diez mil a veinte mil pesos.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
+
+###### ARTICULO 137.
+
+Cuando durante una rebelión se cometan los delitos de homicidio, robo, secuestro, despojo, incendio, saqueo u otros delitos, se aplicarán las reglas del concurso.
+
+Los rebeldes no serán responsables de los homicidios ni de las lesiones inferidas en el acto de un combate, pero de los que se causen fuera del mismo, serán responsables tanto el que los mande como el que los permita y los que inmediatamente los ejecuten.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
+
+###### ARTICULO 138.
+
+No se aplicará pena a los que depongan las armas antes de ser tomados prisioneros, si no hubiesen cometido alguno de los delitos mencionados en el artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ### CAPITULO I. Violación de los deberes de humanidad
 
 > <small>N. DE E. REUBICADO, D.O.F. 20 DE ENERO DE 1967</small>
 
-###### ARTICULO 131.
+###### ARTICULO 139.
 
-Cuando la entrega de planos o la revelación de que hablan los dos artículos anteriores las haga un particular, se le impondrá la mitad de las sanciones señaladas en dichos artículos.
+Se impondrá pena de prisión de dos a cuarenta años y multa hasta de cincuenta mil pesos, sin perjuicio de las penas que correspondan por los delitos que resulten, al que utilizando explosivos, sustancias tóxicas, armas de fuego o por incendio, inundación, o por cualquier otro medio violento, realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor, terror en la población o en un grupo o sector de ella, para perturbar la paz pública, o tratar de menoscabar la autoridad del Estado, o presionar a la autoridad para que tome una determinación.
+
+Se aplicará pena de uno a nueve años de prisión y multa hasta de diez mil pesos, al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ### CAPITULO II. Genocidio
 
@@ -1109,137 +1203,61 @@ Se aplicarán las mismas sanciones señaladas en el párrafo anterior, a quien c
 
 En caso de que los responsables de dichos delitos fueren gobernantes, funcionarios o empleados públicos y las cometieren en ejercicio de sus funciones o con motivo de ellas, además de las sanciones establecidas en este artículo se les aplicarán las penas señaladas en el artículo 15 de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación.
 
-> <small>N. DE E. ANTES TITULO CUARTO, D.O.F. 20 DE ENERO DE 1967</small>
-
-###### ARTICULO 132.
-
-Hay conspiración siempre que dos o más personas resuelven de concierto, cometer alguno de los delitos de que tratan los dos Capítulos anteriores, o el primero y segundo del Título siguiente, acordando los medios de llevar a efecto su determinación. La sanción aplicable será hasta de cinco años y multa hasta de diez mil pesos, salvo lo dispuesto en el artículo 126.
-
-###### ARTICULO 133.
-
-Se comete el delito de rebelión: cuando personas no militares en ejercicio, se alzan en armas contra el Gobierno de la República, para:
-
-I.- Abolir o reformar la Constitución Política de ésta, o las instituciones que de ella emanan;
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-II.- Impedir la integración de éstas o su libre ejercicio, y
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-III.- Separar de sus cargos a alguno de los altos funcionarios de la Federación, mencionados en el artículo 108 de la Constitución Federal.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1951)</small>
-
-###### ARTICULO 134.
-
-Se impondrá prisión de dos a doce años, multa de cien a cinco mil pesos y privación de derechos políticos hasta por cinco años, por el delito previsto en el artículo precedente y además en los casos siguientes:
-
-I.- Al que se alce en armas contra el Gobierno de alguno de los Estados de la Federación, contra sus instituciones constitucionales, o para lograr alguno de los objetos a que se refiere la parte final del artículo anterior, cuando, interviniendo los Poderes de la Unión en la forma prescrita por el artículo 122 de la Constitución Política de la República, los rebeldes no depongan las armas;
-
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
-
-II.- Al que residiendo en territorio ocupado por el Gobierno, bajo la protección y garantía de éste, proporcione voluntariamente a los rebeldes, hombres para el servicio de las armas, municiones, dinero, víveres o medios de transporte, o impida que las tropas del Gobierno reciban esos auxilios.
-
-Si residiere en territorio ocupado por los rebeldes, la prisión será de seis meses a cinco años, y,
-
-III.- Al funcionario público que teniendo, por razón de su empleo o cargo, el plano de una fortificación, puerto o rada, o sabiendo el secreto de una expedición militar, revele éste o entregue aquél a los rebeldes.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1951)</small>
-
-###### ARTICULO 135.
-
-Se aplicarán de uno a diez años de prisión y multa hasta de diez mil pesos:
-
-I.- Al que invite formal y directamente para una rebelión;
-
-II.- A los que, estando bajo la protección y garantía del Gobierno, oculten o auxilien a los espías o exploradores de los rebeldes, sabiendo que lo son;
-
-III.- Al que, rotas las hostilidades y estando en las mismas condiciones, mantenga relaciones con el enemigo, para proporcionarle noticias concernientes a las operaciones militares u otras que le sean útiles, y
-
-IV.- Al que voluntariamente sirva un empleo, cargo subalterno o comisión en lugar ocupado por los rebeldes.
-
-###### ARTICULO 136.
-
-A los jefes o agentes del Gobierno y a los rebeldes que, después del combate, dieren muerte a los prisioneros, se les aplicará prisión de quince a treinta años.
-
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
-
-###### ARTICULO 137.
-
-A los extranjeros que cometan el delito de rebelión, se les aplicarán de seis a diez años de prisión y multa de mil a quince mil pesos y se les expulsará de la República.
-
-###### ARTICULO 138.
-
-Los rebeldes no serán responsables de las muertes ni de las lesiones inferidas en el acto de un combate; pero de todo homicidio que se cometa y de toda lesión que se cause fuera de la lucha, serán responsables, tanto el que mande ejecutar el delito como el que lo permita, y los que inmediatamente lo ejecuten.
+(REUBICADO [N. DE E. ANTES TITULO QUINTO], D.O.F. 29 DE JULIO DE 1970)
 
 ### CAPITULO I. Evasión de presos
 
-###### ARTICULO 139.
+###### ARTICULO 140.
 
-No se aplicará sanción a los que depongan las armas antes de ser tomados prisioneros, si no se hubiere cometido alguno de los delitos mencionados en el artículo que sigue.
+Se impondrá pena de dos a veinte años de prisión y multa de mil a cincuenta mil pesos, al que dañe, destruya o ilícitamente entorpezca vías de comunicación, servicios públicos, funciones de las dependencias del Estado, organismos públicos descentralizados, empresas de participación estatal o sus instalaciones; plantas siderúrgicas, eléctricas o de las industrias básicas; centros de producción o distribución de artículos de consumo necesario, de armas, municiones o implementos bélicos, con el fin de trastornar la vida económica del país o afectar su capacidad de defensa.
+
+Se aplicará pena de seis meses a cinco años de prisión y multa hasta de cinco mil pesos, al que teniendo conocimiento de las actividades de un saboteador y de su identidad, no lo haga saber a las autoridades.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ### CAPITULO II. Quebrantamiento de sanción
 
+###### ARTICULO 141.
+
+Se impondrá pena de uno a nueve años de prisión y multa hasta de diez mil pesos a quienes resuelvan de concierto cometer uno o varios de los delitos del presente Título y acuerden los medios de llevar a cabo su determinación.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
+
 ### CAPITULO III. Armas prohibidas
 
-###### ARTICULO 140.
+###### ARTICULO 142.
 
-Cuando en las rebeliones se pusiere en ejercicio, para hacerlas triunfar, el homicidio, el robo, el secuestro, el despojo, el incendio o el saqueo, se aplicarán las penas que por estos delitos y el de rebelión correspondan según las reglas de acumulación.
+Al que instigue, incite o invite a la ejecución de los delitos previstos en este Título se le aplicará la misma penalidad señalada para el delito de que se trate, a excepción de lo establecido en el segundo párrafo del artículo 130, en el segundo párrafo del artículo 131 y en la fracción I del artículo 135, que conservan su penalidad específica.
+
+Al que instigue, incite o invite a militares en ejercicio a la ejecución de los delitos a que se refiere este Título, se le aplicará pena de cinco a cuarenta años de prisión.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
+
+###### ARTICULO 143.
+
+Cuando de la comisión de los delitos a que se refiere el presente Título resultaren otros delitos, se estará a las reglas del concurso.
+
+Además de las penas señaladas en este Título, se impondrá a los responsables si fueren mexicanos, la suspensión de sus derechos políticos por un plazo hasta de diez años, que se computará a partir del cumplimiento de su condena. En los delitos comprendidos en los capítulos I y II del presente Título, se impondrá la suspensión de tales derechos, hasta por cuarenta años.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
+
+###### ARTICULO 144.
+
+Se consideran delitos de carácter político los de rebelión, sedición, motín y el de conspiración para cometerlos.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
+
+###### ARTICULO 145.
+
+Se aplicará pena de cinco a cuarenta años de prisión y multa de cinco mil a cincuenta mil pesos al funcionario o empleado de los Gobiernos Federal o Estatales, o de los Municipios, de organismos públicos descentralizados, de empresas de participación estatal o de servicios públicos, federales o locales, que incurran en alguno de los delitos previstos por este Título.
+
+(REUBICADO [N. DE E. ANTES TITULO TERCERO], D.O.F. 29 DE JULIO DE 1970)
+
+## TITULO SEGUNDO. Delitos contra el Derecho Internacional
 
 ### CAPITULO IV. Asociaciones delictuosas
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-###### ARTICULO 141.
-
-Son reos de sedición los que reunidos tumultuariamente, pero sin armas, resisten a la autoridad o la atacan para impedirle el libre ejercicio de sus funciones, con alguno de los objetos a que se refiere el artículo 133.
-
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
-
-### CAPITULO I. Ataques a las vías de comunicación y violación de correspondencia
-
-###### ARTICULO 142.
-
-La sedición se castigará con prisión de seis meses a cinco años.
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-###### ARTICULO 143.
-
-En lo que sea aplicable a la sedición, se observarán los artículos 136 y 140.
-
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
-
-###### ARTICULO 144.
-
-Son reos del delito de asonada o motín; los que, para hacer uso de un derecho se reúnen tumultuariamente. Este delito se castigará con prisión de un mes a dos años y multa de cincuenta a quinientos pesos.
-
-> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 1941)</small>
-
-###### ARTICULO 145.
-
-Se aplicarán prisión de dos a doce años y multa de mil a diez mil pesos, al extranjero o nacional mexicano que en forma hablada o escrita, o por cualquier otro medio, realice propaganda política entre extranjeros o entre nacionales mexicanos, difundiendo ideas, programas o normas de acción de cualquier gobierno extranjero que perturben el orden público o afecten la soberanía del Estado mexicano.
-
-Se perturba el orden público cuando los actos determinados en el párrafo anterior, tiendan a producir rebelión, sedición, asonada o motín.
-
-Se afecta la soberanía nacional cuando dichos actos puedan poner en peligro la integridad territorial de la República, obstaculicen el funcionamiento de sus instituciones legítimas o propaguen el desacato de parte de los nacionales mexicanos a sus deberes cívicos.
-
-Se aplicarán las mismas penas al extranjero o nacional mexicano que por cualquier medio induzca o incite a uno o más individuos a que realicen actos de sabotaje, a subvertir la vida institucional del País, o realice actos de provocación con fines de perturbación del orden o la paz pública y al que efectúe tales actos. En el caso de que los mismos actos constituyan otros delitos, se aplicarán además las sanciones de éstos.
-
-Se aplicará prisión de diez a veinte años, al extranjero o nacional mexicano que, en cualquier forma, realice actos de cualquier naturaleza, que prepare material o moralmente la invasión del territorio nacional o la sumisión del País a cualquier gobierno extranjero.
-
-Cuando el sentenciado en el caso de los párrafos anteriores, sea un extranjero, las penas a que antes se ha hecho referencia se aplicarán sin perjuicio de la facultad que concede al Presidente de la República el artículo 33 de la Constitución.
-
-> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 1941)</small>
-
-###### ARTICULO 145 Bis.
-
-Para todos los efectos legales, solamente se considerarán como de carácter político, los delitos consignados en este título, con excepción de los previstos en los artículos 136 y 140.
-
-## TITULO SEGUNDO. Delitos contra la seguridad interior de la Nación
-
-### CAPITULO II. Violación de correspondencia
 
 ###### ARTICULO 146.
 
@@ -1255,7 +1273,7 @@ III.- Los corsarios que, en caso de guerra entre dos o más naciones, hagan el c
 
 Se impondrán de quince a treinta años de prisión y decomiso de la nave, a los que pertenezcan a una tripulación pirata.
 
-### CAPITULO I. Desobediencia y resistencia de particulares
+### CAPITULO I. Ataques a las vías de comunicación y violación de correspondencia
 
 ###### ARTICULO 148.
 
@@ -1271,13 +1289,15 @@ IV.- Todo ataque o violencia de cualquier género a los escudos, emblemas o pabe
 
 En el caso de la fracción III, y si las circunstancias lo ameritan, los jueces podrán imponer hasta seis años de prisión.
 
-> <small>N. DE E. EN EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 20 DE ENERO DE 1967, DEROGA TACITAMENTE EL CAPITULO III DEL TITULO TERCERO; PASANDO SU ARTICULO 149 A FORMAR PARTE DE UN NUEVO TITULO CUARTO DENOMINADO DELITOS CONTRA LA HUMANIDAD.</small>
+(REUBICADO [N. DE E. ANTES TITULO CUARTO], D.O.F. 29 DE JULIO DE 1970)
 
-### CAPITULO II. Oposición a que se ejecute alguna obra o trabajo públicos
+### CAPITULO II. Violación de correspondencia
 
-## TITULO TERCERO. Delitos contra el Derecho Internacional
+## TITULO TERCERO. Delitos contra la humanidad
 
-### CAPITULO III. Quebrantamiento de sellos
+> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
+
+### CAPITULO I. Desobediencia y resistencia de particulares
 
 ###### ARTICULO 149.
 
@@ -1285,21 +1305,19 @@ Al que violare los deberes de humanidad en los prisioneros y rehenes de guerra, 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 20 DE ENERO DE 1967)</small>
 
+### CAPITULO II. Oposición a que se ejecute alguna obra o trabajo públicos
+
+## TITULO CUARTO. Delitos contra la seguridad pública
+
+### CAPITULO III. Quebrantamiento de sellos
+
+## TITULO QUINTO. Delitos en materia de vías de comunicación y de correspondencia
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ### CAPITULO IV. Delitos cometidos contra funcionarios públicos
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-## TITULO CUARTO. Delitos contra la humanidad
-
-> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
-
-### CAPITULO V. Ultrajes a las insignias nacionales
-
-## TITULO QUINTO. Delitos contra la seguridad pública
-
-### CAPITULO I. De la producción, tenencia, tráfico y proselitismo, en materia de estupefacientes
-
-> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
 
 ###### ARTICULO 150.
 
@@ -1321,9 +1339,7 @@ Si la reaprehensión del prófugo se lograre por gestiones del responsable de la
 
 Al preso que se fugue no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros presos y se fugue alguno de ellos o ejerciere violencia en las personas, en cuyo caso la pena aplicable será de seis meses a tres años de prisión.
 
-### CAPITULO II. Del peligro de contagio
-
-> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
+### CAPITULO V. Ultrajes a las insignias nacionales
 
 ###### ARTICULO 155.
 
@@ -1351,9 +1367,9 @@ II.- A aquel a quien se hubiere prohibido ir a determinado lugar o a residir en 
 
 El reo suspenso en su profesión u oficio, o inhabilitado para ejercerlos, que quebrante su condena pagará una multa de veinte a mil pesos. En caso de reincidencia, se duplicará la multa y se aplicará prisión de uno a seis años.
 
-### CAPITULO I. Ultrajes a la moral pública
+### CAPITULO I. De la producción, tenencia, tráfico y proselitismo, en materia de estupefacientes
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
+> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 1968)</small>
 
 ###### ARTICULO 160.
 
@@ -1407,11 +1423,13 @@ a). Otorgar fianza por la cantidad que fije la autoridad, y
 
 b). Comprobar la necesidad que tiene para la portación de armas y sus antecedentes de honorabilidad y prudencia, con el testimonio de cinco personas bien conocidas de la autoridad.
 
-### CAPITULO II. Corrupción de menores
+### CAPITULO II. Del peligro de contagio
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
+
+### CAPITULO I. Ultrajes a la moral pública
 
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
-
-### CAPITULO III. Lenocinio
 
 ###### ARTICULO 164.
 
@@ -1425,15 +1443,13 @@ Cuando se ejecuten uno o más delitos por pandilla, se aplicará a los que inter
 
 Se entiende por pandilla, para los efectos de esta disposición la reunión habitual, ocasional o transitoria, de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito.
 
-> <small>N. DE E. ANTES TITULO QUINTO, D.O.F. 20 DE ENERO DE 1967</small>
+(REUBICADO [N. DE E. ANTES TITULO SEXTO], D.O.F. 29 DE JULIO DE 1970)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
+## TITULO SEXTO. Delitos contra la autoridad
 
-## TITULO SEXTO. Delitos en materia de vías de comunicación y de correspondencia
+### CAPITULO II. Corrupción de menores
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
-
-### CAPITULO IV. Provocación de un delito y apología de éste o de algún vicio
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
 
 ###### ARTICULO 165.
 
@@ -1503,9 +1519,9 @@ II.- Al que en estado de ebriedad o bajo el influjo de drogas enervantes cometa 
 
 Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de aplicar las sanciones por el delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos, por un tiempo que no baje de un mes ni exceda de un año. En caso de reincidencia, la inhabilitación será definitiva.
 
-### CAPITULO I. Ejercicio indebido o abandono de funciones públicas
+### CAPITULO III. Lenocinio
 
-### CAPITULO II. Abuso de autoridad
+### CAPITULO IV. Provocación de un delito y apología de éste o de algún vicio
 
 ###### ARTICULO 173.
 
@@ -1533,11 +1549,13 @@ Al empleado de un telégrafo, teléfono o estación inalámbrica que conscientem
 
 Si resultare daño, se duplicará la sanción fijada por el artículo anterior.
 
-> <small>N. DE E. ANTES TITULO SEXTO, D.O.F. 20 DE ENERO DE 1967</small>
+(REUBICADO [N. DE E. ANTES TITULO SEPTIMO], D.O.F. 29 DE JULIO DE 1970)
 
-## TITULO SEPTIMO. Delitos contra la autoridad
+## TITULO SEPTIMO. Delitos contra la salud
 
-### CAPITULO III. Coalición de funcionarios
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 8 DE MARZO DE 1968)</small>
+
+### CAPITULO I. Ejercicio indebido o abandono de funciones públicas
 
 ###### ARTICULO 178.
 
@@ -1565,9 +1583,7 @@ El que, debiendo ser examinado en juicio y sin que le aprovechen las excepciones
 
 Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubieren agotado los medios de apremio.
 
-### CAPITULO IV. Cohecho
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
+### CAPITULO II. Abuso de autoridad
 
 ###### ARTICULO 199 Bis.
 
@@ -1575,9 +1591,7 @@ El que sabiendo que está enfermo de sífilis o de un mal venéreo en período i
 
 Cuando se trate de cónyuges, sólo podrá procederse por querella del ofendido.
 
-> <small>N. DE E. ANTES TITULO OCTAVO, D.O.F. 20 DE ENERO DE 1967</small>
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE ENERO DE 1966)</small>
+(REUBICADO [N. DE E. ANTES TITULO NOVENO], D.O.F. 29 DE JULIO DE 1970)
 
 ###### ARTICULO 184.
 
@@ -1593,7 +1607,7 @@ Cuando el delito se cometa por varias personas, de común acuerdo, la sanción s
 
 A las sanciones de que hablan los dos artículos que preceden, se podrá agregar una multa de veinte a quinientos pesos, cuando no hubiere lugar a la reparación del daño.
 
-### CAPITULO V. Peculado y concusión
+### CAPITULO III. Coalición de funcionarios
 
 ###### ARTICULO 187.
 
@@ -1603,7 +1617,9 @@ Al que quebrante los sellos puestos por orden de la autoridad pública, se le ap
 
 Cuando de común acuerdo, quebrantaren las partes interesadas en un negocio civil los sellos puestos por la autoridad pública, pagarán una multa de veinte a doscientos pesos.
 
-### CAPITULO I. Responsabilidad médica y técnica
+### CAPITULO IV. Cohecho
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
 
 ###### ARTICULO 189.
 
@@ -1615,9 +1631,7 @@ Al que cometa un delito en contra de un funcionario público o agente de la auto
 
 Los ultrajes hechos a una de las Cámaras, a un tribunal o a un jurado, o a un cuerpo colegiado de la administración de justicia o a cualquiera institución pública, se castigarán con tres días a seis meses de prisión y multa de cinco a doscientos pesos.
 
-### CAPITULO II. Delitos de abogados, patronos y litigantes
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO V. Peculado y concusión
 
 ###### ARTICULO 191.
 
@@ -1627,15 +1641,13 @@ Al que ultraje el escudo de la República o el pabellón nacional, ya sea de pal
 
 Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicará de tres días a un año de prisión y multa de veinticinco a mil pesos.
 
-> <small>N. DE E. ANTES TITULO SEPTIMO, D.O.F. 20 DE ENERO DE 1967</small>
+(REUBICADO [N. DE E. ANTES TITULO OCTAVO], D.O.F. 29 DE JULIO DE 1970)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE FEBRERO DE 1940)</small>
+## TITULO OCTAVO. Delitos contra la moral pública y las buenas costumbres
 
-## TITULO OCTAVO. Delitos Contra la Salud
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE ENERO DE 1966)</small>
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 8 DE MARZO DE 1968)</small>
-
-### CAPITULO I. Falsificación y alteración de moneda
+### CAPITULO I. Responsabilidad médica y técnica
 
 ###### ARTICULO 193.
 
@@ -1703,27 +1715,25 @@ Los estupefacientes, las substancias, los aparatos, los vehículos y demás obje
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
+### CAPITULO II. Delitos de abogados, patronos y litigantes
+
+> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+
+### CAPITULO I. Falsificación y alteración de moneda
+
+## TITULO NOVENO. Revelación de secretos
+
+> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+
 ### CAPITULO II. Falsificación de billetes de banco, títulos al portador y documentos de crédito público
 
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ### CAPITULO III. Falsificación de sellos, llaves, cuños o troqueles, marcas, pesas y medidas
 
-## TITULO NOVENO. Delitos contra la moral pública y las buenas costumbres
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE ENERO DE 1966)</small>
+## TITULO DECIMO. Delitos cometidos por funcionarios públicos
 
 ### CAPITULO IV. Falsificación de documentos en general
-
-### CAPITULO V. Falsedad en declaraciones judiciales y en informes dados a una autoridad
-
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
-
-## TITULO DÉCIMO. Revelación de secretos
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-### CAPITULO VI. Variación del nombre o del domicilio
 
 ###### ARTICULO 200.
 
@@ -1749,9 +1759,9 @@ Si además de los delitos previstos en este capítulo resultase cometido otro, s
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones o uniformes
+### CAPITULO V. Falsedad en declaraciones judiciales y en informes dados a una autoridad
 
-> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 1947)</small>
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 202.
 
@@ -1763,29 +1773,29 @@ Para los efectos de este precepto se considerará como empleado en la cantina, t
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
-### CAPITULO VIII. Disposiciones comunes a los capítulos precedentes
+### CAPITULO VI. Variación del nombre o del domicilio
 
 ###### ARTICULO 203.
 
 Las sanciones que señalan los artículos anteriores se duplicarán cuando el delincuente sea ascendiente, padrastro o madrastra del menor, privando al reo de todo derecho a los bienes del ofendido y de la patria potestad sobre todos sus descendientes.
 
-### CAPITULO I. Delitos contra el consumo y la riqueza nacionales
+### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones o uniformes
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 1947)</small>
 
 ###### ARTICULO 204.
 
 Los delincuentes de que se trata en este capítulo quedarán inhabilitados para ser tutores y curadores.
 
-### CAPITULO II. Vagos y malvivientes
-
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+### CAPITULO VIII. Disposiciones comunes a los capítulos precedentes
 
 ###### ARTICULO 205.
 
 (DEROGADO, D.O.F. 14 DE ENERO DE 1966)
 
-### CAPITULO III. Juegos prohibidos
+### CAPITULO I. Delitos contra el consumo y la riqueza nacionales
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
 
 ###### ARTICULO 206.
 
@@ -1805,7 +1815,9 @@ III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbu
 
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
 
-### CAPITULO I. Atentados al pudor, estupro y violación
+### CAPITULO II. Vagos y malvivientes
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 208.
 
@@ -1815,19 +1827,17 @@ Cuando la mujer cuyo cuerpo sea explotado por medio del comercio carnal, sea men
 
 Al que provoque públicamente a cometer un delito, o haga la apología de éste o de algún vicio, se le aplicarán prisión de tres días a seis meses y multa de cinco a cincuenta pesos, si el delito no se ejecutare. En caso contrario, se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
 
-> <small>N. DE E. ANTES TITULO NOVENO, D.O.F. 20 DE ENERO DE 1967</small>
+(REUBICADO [N. DE E. ANTES TITULO DECIMO], D.O.F. 29 DE JULIO DE 1970)
+
+### CAPITULO III. Juegos prohibidos
+
+### CAPITULO I. Atentados al pudor, estupro y violación
 
 ### CAPITULO II. Rapto
 
+## TITULO VIGESIMO. Delitos contra el honor
+
 ### CAPITULO III. Incesto
-
-### CAPITULO IV. Adulterio
-
-## TITULO VIGÉSIMO. Delitos contra la vida y la integridad corporal
-
-### CAPITULO UNICO. Violación de las leyes sobre inhumaciones y exhumaciones
-
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 210.
 
@@ -1837,17 +1847,17 @@ Se aplicará multa de cinco a cincuenta pesos o prisión de dos meses a un año 
 
 La sanción será de uno a cinco años, multa de cincuenta a quinientos pesos y suspensión de profesión en su caso, de dos meses a un año, cuando la revelación punible sea hecha por persona que presta servicios profesionales o técnicos o por funcionario o empleado público o cuando el secreto revelado o publicado sea de carácter industrial.
 
-> <small>N. DE E. ANTES TITULO DECIMO, D.O.F. 20 DE ENERO DE 1967</small>
+(REUBICADO [N. DE E. ANTES TITULO DECIMOPRIMERO], D.O.F. 29 DE JULIO DE 1970)
 
-TITULO DECIMOPRIMERO
+### CAPITULO IV. Adulterio
 
-Delitos cometidos por funcionarios públicos
+## TITULO VIGESIMO PRIMERO. Privación ilegal de la libertad y de otras garantías
 
-### CAPITULO I. Amenazas
+> <small>(DEROGADA SU DENOMINACION, D.O.F. 29 DE JULIO DE 1970)</small>
 
-## TITULO VIGESIMO PRIMERO. Delitos contra el honor
+### CAPITULO UNICO. Violación de las leyes sobre inhumaciones y exhumaciones
 
-### CAPITULO II. Allanamiento de morada y asalto
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 212.
 
@@ -1869,7 +1879,7 @@ V.- Al que sin habérsele admitido la renuncia de una comisión, empleo o cargo,
 
 Al que cometa el delito de abuso de autoridad se le impondrán de seis meses a seis años de prisión, multa de veinticinco a mil pesos y destitución de empleo.
 
-### CAPITULO I. Lesiones
+### CAPITULO I. Amenazas
 
 ###### ARTICULO 214.
 
@@ -1901,23 +1911,21 @@ XI.- El funcionario que teniendo conocimiento de una privación ilegal de libert
 
 Los delitos a que se refiere este capítulo producen acción popular.
 
-### CAPITULO II. Homicidio
+### CAPITULO II. Allanamiento de morada y asalto
 
 ###### ARTICULO 215.
 
 A los que cometan el delito de coalición de funcionarios se les impondrán de seis meses a dos años de prisión y multa de veinticinco a mil pesos.
 
-### CAPITULO III. Reglas comunes para lesiones y homicidio
+### CAPITULO I. Lesiones
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-### CAPITULO IV. Parricidio
+### CAPITULO II. Homicidio
 
 ###### ARTICULO 216.
 
 Cometen el delito de coalición: los funcionarios públicos, empleados, agentes o comisionados del Gobierno que se coaliguen para tomar medidas contrarias a una ley o reglamento, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas.
 
-### CAPITULO V. Infanticidio
+### CAPITULO III. Reglas comunes para lesiones y homicidio
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -1931,15 +1939,17 @@ II.- El que de manera espontánea dé u ofrezca dinero o cualquiera otra dádiva
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-### CAPITULO VI. Aborto
+### CAPITULO IV. Parricidio
 
-### CAPITULO VII. Abandono de personas
+### CAPITULO V. Infanticidio
+
+> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 218.
 
 El delito de cohecho se castigará con tres meses a cinco años de prisión y multa hasta de dos mil pesos.
 
-### CAPITULO I. Golpes y otras violencias físicas simples
+### CAPITULO VI. Aborto
 
 ###### ARTICULO 219.
 
@@ -1947,15 +1957,13 @@ Al que cometa el delito de peculado se le aplicarán de seis meses a doce años 
 
 (REFORMADO, D.O.F. 9 DE MARZO DE 1946) (F. DE E., D.O.F. 16 DE JULIO DE 1946)
 
-### CAPITULO II. Injurias y difamación
+### CAPITULO VII. Abandono de personas
 
 ###### ARTICULO 220.
 
 Comete el delito de peculado toda persona encargada de un servicio público, del Estado o descentralizado, aunque sea en comisión por tiempo limitado y que no tenga el carácter de funcionario, que, para usos propios o ajenos, distraiga de su objeto dinero, valores, fincas o cualquiera otra cosa perteneciente al Estado, al organismo descentralizado, o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa.
 
-### CAPITULO III. Calumnia
-
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
+### CAPITULO I. Golpes y otras violencias físicas simples
 
 ###### ARTICULO 221.
 
@@ -1963,37 +1971,37 @@ La sanción será de uno a seis meses de prisión, si dentro de los diez días s
 
 Este artículo se entiende sin perjuicio de la destitución, de la inhabilitación y de la multa correspondiente.
 
-### CAPITULO IV. Disposiciones comunes para los capítulos precedentes
+### CAPITULO II. Injurias y difamación
 
 ###### ARTICULO 222.
 
 Comete el delito de concusión: el encargado de un servicio público que, con el carácter de tal y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija, por sí o por medio de otro, dinero, valores, servicios, o cualquiera otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la ley.
 
-### CAPITULO UNICO. Privación ilegal de la libertad
+### CAPITULO III. Calumnia
 
-### CAPITULO I. Robo
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
+
+### CAPITULO IV. Disposiciones comunes para los capítulos precedentes
 
 ###### ARTICULO 223.
 
 A los funcionarios y empleados públicos que cometan el delito de concusión, se les aplicará destitución de empleo e inhabilitación para obtener otro por un término de dos a seis años, y pagarán una multa igual al duplo de la cantidad que hubieren recibido indebidamente. Si ésta pasare de cien pesos, se les impondrá además de tres meses a dos años de prisión.
 
-### CAPITULO II. Abuso de confianza
+### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 224.
 
 Las sanciones del artículo anterior, se aplicarán también a los encargados o comisionados por un funcionario público que, con aquella investidura, cometan el delito de concusión.
 
-> <small>N. DE E. ANTES TITULO DECIMOPRIMERO, D.O.F. 20 DE ENERO DE 1967</small>
+(REUBICADO [N. DE E. ANTES TITULO DECIMOSEGUNDO], D.O.F. 29 DE JULIO DE 1970)
 
-TITULO DECIMOSEGUNDO
+TITULO DECIMOPRIMERO
 
 Delitos cometidos en la administración de justicia
 
-### CAPITULO III. Fraude
-
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+### CAPITULO I. Robo
 
 ###### ARTICULO 225.
 
@@ -2017,7 +2025,9 @@ VIII.- Retardar o entorpecer maliciosamente o por negligencia la administración
 
 IV (SIC).- Tratar en el ejercicio de su cargo con ofensa, desprecio o deshonestidad a las personas que asistan a su tribunal u oficina.
 
-### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
+### CAPITULO II. Abuso de confianza
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 226.
 
@@ -2031,13 +2041,13 @@ II.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente alg
 
 Las disposiciones anteriores se aplicarán a todos los funcionarios o empleados de la administración pública, cuando en el ejercicio de su encargo ejecuten los hechos o incurran en las omisiones expresadas en los propios artículos.
 
-> <small>N. DE E. ANTES TITULO DECIMOSEGUNDO, D.O.F. 20 DE ENERO DE 1967</small>
+(REUBICADO [N. DE E. ANTES TITULO DECIMOTERCERO], D.O.F. 29 DE JULIO DE 1970)
 
-TITULO DECIMOTERCERO
+TITULO DECIMOSEGUNDO
 
 Responsabilidad profesional
 
-### CAPITULO V. Despojo de cosas inmuebles o de aguas
+### CAPITULO III. Fraude
 
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
@@ -2057,7 +2067,7 @@ El artículo anterior se aplicará a los médicos que habiendo otorgado responsi
 
 Igualmente serán responsables en la forma que previene el artículo 228, todos los que causen daños indebidos en el ejercicio de una profesión, o un arte o actividad técnica.
 
-### CAPITULO VI. Daño en propiedad ajena
+### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
 
 ###### ARTICULO 231.
 
@@ -2083,11 +2093,15 @@ III.- Al defensor de un reo, sea particular o de oficio, que sólo se concrete a
 
 Los defensores de oficio que sin fundamento no promuevan las pruebas conducentes en defensa de los reos que los designen, serán destituídos de su empleo. Para este efecto, los jueces comunicarán al Jefe de Defensores las faltas respectivas.
 
-> <small>N. DE E. ANTES TITULO DECIMOTERCERO, D.O.F. 20 DE ENERO DE 1967</small>
+(REUBICADO [N. DE E. ANTES TITULO DECIMOCUARTO], D.O.F. 29 DE JULIO DE 1970)
 
-TITULO DECIMOCUARTO
+TITULO DECIMOTERCERO
 
 Falsedad
+
+### CAPITULO V. Despojo de cosas inmuebles o de aguas
+
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 234.
 
@@ -2136,6 +2150,8 @@ Al que introduzca a la República o pusiere en circulación en ella los billetes
 Al que comete el delito de falsificación de billetes de banco en grado de tentativa, se le impondrá la misma pena que si lo hubiere consumado.
 
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+
+### CAPITULO VI. Daño en propiedad ajena
 
 ###### ARTICULO 239.
 
@@ -2327,9 +2343,9 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 Las disposiciones contenidas en este título no se aplicarán sino en lo que no estuviere previsto en las leyes especiales o no se opusiere a lo establecido en ellas.
 
-> <small>N. DE E. ANTES TITULO DECIMOCUARTO, D.O.F. 20 DE ENERO DE 1967</small>
+(REUBICADO [N. DE E. ANTES TITULO DECIMOQUINTO], D.O.F. 29 DE JULIO DE 1970)
 
-TITULO DECIMOQUINTO
+TITULO DECIMOCUARTO
 
 Delitos contra la economía pública
 
@@ -2413,9 +2429,9 @@ IV.- Los funcionarios o empleados públicos que autoricen, protejan o asistan a 
 
 Para los efectos de este capítulo se considerarán ilícitos los juegos, loterías y rifas en los términos que fijen los reglamentos respectivos expedidos por las autoridades administrativas superiores del Distrito y Territorios Federales.
 
-> <small>N. DE E. ANTES TITULO DECIMOQUINTO, D.O.F. 20 DE ENERO DE 1967</small>
+(REUBICADO [N. DE E. ANTES TITULO DECIMOSEXTO], D.O.F. 29 DE JULIO DE 1970)
 
-TITULO DECIMOSEXTO
+TITULO DECIMOQUINTO
 
 Delitos sexuales
 
@@ -2509,9 +2525,9 @@ Sólo se castigará el adulterio consumado.
 
 Cuando el ofendido perdone a su cónyuge, cesará todo procedimiento si no se ha dictado sentencia, y si ésta se ha dictado, no producirá efecto alguno. Esta disposición favorecerá a todos los responsables.
 
-> <small>N. DE E. ANTES TITULO DECIMOSEXTO, D.O.F. 20 DE ENERO DE 1967</small>
+(REUBICADO [N. DE E. ANTES TITULO DECIMOSEPTIMO], D.O.F. 29 DE JULIO DE 1970)
 
-TITULO DECIMOSÉPTIMO
+TITULO DECIMOSEXTO
 
 Delitos contra el estado civil y bigamia
 
@@ -2537,11 +2553,9 @@ El que cometa alguno de los delitos expresados en el artículo anterior, perder�
 
 Se impondrán hasta cinco años de prisión y multa hasta de quinientos pesos al que estando unido con una persona en matrimonio no disuelto ni declarado nulo, contraiga otro matrimonio con las formalidades legales.
 
-> <small>N. DE E. ANTES TITULO DECIMOSEPTIMO, D.O.F. 20 DE ENERO DE 1967</small>
+(REUBICADO [N. DE E. ANTES TITULO DECIMOCTAVO], D.O.F. 29 DE JULIO DE 1970)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
-
-TITULO DECIMOCTAVO
+TITULO DECIMOSÉPTIMO
 
 Delitos en materia de inhumaciones y exhumaciones
 
@@ -2567,9 +2581,9 @@ I.- Al que viole un túmulo, un sepulcro, una sepultura o féretro, y
 
 II.- Al que profane un cadáver o restos humanos con actos de vilipendio, mutilación, obscenidad o brutalidad.
 
-> <small>N. DE E. ANTES TITULO DECIMOCTAVO, D.O.F. 20 DE ENERO DE 1967</small>
+(REUBICADO [N. DE E. ANTES TITULO DECIMONOVENO], D.O.F. 29 DE JULIO DE 1970)
 
-TITULO DECIMONOVENO
+TITULO DECIMOCTAVO
 
 Delitos contra la paz y seguridad de las personas
 
@@ -2619,7 +2633,11 @@ Al que en despoblado o en paraje solitario haga uso de violencia sobre una perso
 
 Si los salteadores atacaren una población, se aplicarán de veinte a treinta años de prisión a los cabecillas o jefes, y de quince a veinte años a los demás.
 
-> <small>N. DE E. ANTES TITULO DECIMONOVENO, D.O.F. 20 DE ENERO DE 1967</small>
+(REUBICADO [N. DE E. ANTES TITULO VIGESIMO], D.O.F. 29 DE JULIO DE 1970)
+
+TITULO DECIMONOVENO
+
+Delitos contra la vida y la integridad corporal
 
 ###### ARTICULO 288.
 
@@ -2959,11 +2977,9 @@ Al que exponga en una casa de expósitos a un niño menor de siete años que se 
 
 Los ascendientes o tutores que entreguen en una casa de expósitos un niño que esté bajo su potestad, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
 
-> <small>N. DE E. ANTES TITULO VIGESIMO, D.O.F. 20 DE ENERO DE 1967</small>
+(REUBICADO [N. DE E. ANTES TITULO VIGESIMO PRIMERO], D.O.F. 29 DE JULIO DE 1970)
 
-## TITULO VIGESIMO SEGUNDO. Privación ilegal de la libertad y otras garantías
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
+## TITULO VIGESIMO SEGUNDO. Delitos en contra de las personas en su patrimonio
 
 ###### ARTICULO 344.
 
@@ -3103,17 +3119,17 @@ En tal caso, se hará en el documento una anotación sumaria de la sentencia pro
 
 Siempre que sea condenado el responsable de una injuria, de una difamación o de una calumnia, si lo solicita la persona ofendida, se publicará la sentencia en tres periódicos a costa de aquél. Cuando el delito se cometa por medio de un periódico, los dueños, gerentes o directores de éste, tengan o no responsabilidad penal, estarán obligados a publicar el fallo, imponiéndoseles multa de cien pesos por cada día que pase sin hacerlo, después de aquel en que se les notifique la sentencia. El importe de la multa no podrá exceder de diez mil pesos.
 
-> <small>N. DE E. ANTES TITULO VIGESIMO PRIMERO, D.O.F. 20 DE ENERO DE 1967</small>
-
-> <small>(ADICIONADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ## TITULO VIGESIMO TERCERO. Delitos en contra de las personas en su patrimonio
 
 ###### ARTICULO 364.
 
-Se aplicará la pena de prisión de uno a seis meses y multa de diez a cien pesos:
+Se aplicará la pena de un mes a tres años de prisión y multa hasta de mil pesos:
 
-I.- Al que sin orden de autoridad competente, siendo un particular y fuera de los casos previstos por la ley, arreste o detenga a otro en una cárcel privada o en otro lugar por menos de ocho días. Si la detención arbitraria excede de ocho días, la sanción será de un mes más por cada día, y
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 1970)</small>
+
+I.- Al particular que, fuera de los casos previstos por la Ley, detenga a otro en una cárcel privada o en otro lugar por menos de ocho días. Si la privación ilegal de la libertad excede de ocho días, la pena será de un mes más por cada día; y
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -3127,25 +3143,29 @@ I.- Al que obligue a otro a prestarle trabajos o servicios personales sin la ret
 
 II.- Al que celebre con otro un contrato que prive a éste de la libertad o le imponga condiciones que lo constituyan en una especie de servidumbre o que se apodere de alguna persona y la entregue a otro con el objeto de que éste celebre dicho contrato.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 366.
 
-Se impondrán de 5 a 40 años de prisión y multa de cien a diez mil pesos cuando la detención arbitraria tenga el carácter de plagio o secuestro en alguna de las formas siguientes:
+Se impondrá pena de cinco a cuarenta años de prisión y multa de mil a veinte mil pesos, cuando la privación ilegal de la libertad tenga el carácter de plagio o secuestro en alguna de las formas siguientes:
 
-I.- Cuando se trate de obtener rescate, o de causar daños o perjuicios al plagiado o a otra persona relacionada con éste;
+I.- Para obtener rescate o causar daño o perjuicio a la persona privada de la libertad o a otra persona relacionada con aquélla;
 
-II.- Cuando se haga uso de amenazas graves, de maltrato o de tormento;
+II.- Si se hace uso de amenazas graves, de maltrato o de tormento;
 
-III.- Cuando la detención se haga en camino público o en paraje solitario;
+III.- Si se detiene en calidad de rehén a una persona y se amenaza con privarla de la vida o con causarle un daño, sea a aquélla o a terceros, si la autoridad no realiza o deja de realizar un acto de cualquier naturaleza;
 
-IV.- Cuando los plagiarios obren en grupo o banda; y
+IV.- Si la detención se hace en camino público o en paraje solitario;
 
-V.- Cuando se cometa el robo de infante menor de doce años por quien sea extraño a su familia y no ejerza la patria potestad sobre él.
+V.- Si quienes cometen el delito obran en grupo; y
 
-Si el plagiario pone en libertad a la persona secuestrada, espontáneamente, antes de tres días y sin causar ningún perjuicio grave, sólo se aplicará la sanción correspondiente a la detención ilegal, de acuerdo con los dos artículos anteriores.
+VI.- Si el robo de infante se comete en menor de doce años, por quien sea extraño a su familia, y no ejerza la tutela sobre el menor.
 
-> <small>N. DE E. ANTES TITULO VIGESIMO SEGUNDO, D.O.F. 20 DE ENERO DE 1967</small>
+Cuando el delito lo comete un familiar del menor que no ejerza sobre él la patria potestad ni la tutela, la pena será de seis meses a cinco años de prisión.
+
+Si espontáneamente se pone en libertad a la persona antes de tres días y sin causar ningún perjuicio, sólo se aplicará la sanción correspondiente a la privación ilegal de la libertad de acuerdo con el artículo 364. Este beneficio no opera en el caso de la fracción III del presente artículo.
+
+(REUBICADO [N. DE E. ANTES TITULO VIGESIMO TERCERO], D.O.F. 29 DE JULIO DE 1970)
 
 ###### ARTICULO 367.
 
@@ -3455,9 +3475,9 @@ Si además de los daños directos resulta consumado algún otro delito, se aplic
 
 Cuando por cualquier medio se causen daño, destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercero, se aplicarán las sanciones del robo simple.
 
-> <small>N. DE E. ANTES TITULO VIGESIMOTERCERO, D.O.F. 20 DE ENERO DE 1967</small>
+(REUBICADO [N. DE E. ANTES TITULO VIGESIMOCUARTO], D.O.F. 29 DE JULIO DE 1970)
 
-TITULO VIGESIMOCUARTO
+TITULO VIGESIMOTERCERO
 
 Encubrimiento
 
@@ -3698,3 +3718,9 @@ El presente Decreto entrará en vigor tres días después de su publicación en 
 D.O.F. 18 DE FEBRERO DE 1969.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 29 DE JULIO DE 1970.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
