@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-18282"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-30"
-last_updated: "2001-03-12"
+last_updated: "2001-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Aguascalientes, el 30 de octubre de 2000.
 
@@ -237,9 +237,15 @@ Los partidos políticos podrán registrar simultáneamente en el mismo proceso e
 
 ### CAPITULO I. De los Sistemas Electorales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 16.
 
-El Poder Legislativo se deposita en el Congreso del Estado, el cual se integra con dieciocho Diputados electos según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán ocho al Municipio de Aguascalientes y, uno por cada uno de los Municipios restantes, y hasta nueve Diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado. El Congreso del Estado se renovará en su totalidad cada tres años.
+El Poder Legislativo se deposita en el Congreso del Estado, el cual estará integrado por veintitrés Diputados electos según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán trece al Municipio de Aguascalientes y, al menos uno a cada uno de los municipios restantes, y hasta por cuatro Diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado. El Congreso del Estado se renovará en su totalidad cada tres años.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+El Instituto Estatal Electoral deberá revisar y en su caso adecuar la demarcación territorial de los distritos electorales uninomimales, con base en los criterios previstos en el Artículo 17 de la Constitución Política del Estado de Aguascalientes. El Instituto contará con un término máximo de un año, contado a partir de que se den a conocer por los medios oficiales los resultados del Censo General de Población, para realizar la revisión, adecuación o instrumentación a que se refiere este párrafo.
 
 ###### ARTICULO 17.
 
@@ -271,9 +277,11 @@ En las listas de candidatos o en la planilla, los partidos políticos señalará
 
 ### CAPITULO II. De las Elecciones Ordinarias y Extraordinarias
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 19.
 
-Las elecciones ordinarias se verificarán el primer domingo del mes de septiembre del año que corresponda, para elegir:
+Las elecciones ordinarias se verificarán el primer domingo del mes de julio del año que corresponda, para elegir:
 
 I.- Diputados al Congreso y miembros de los Ayuntamientos, cada tres años; y
 
@@ -323,7 +331,9 @@ II.- Ejemplar de su declaración de principios, programa de acción y estatutos;
 
 III.- Señalar su domicilio en la capital del Estado.
 
-Las organizaciones a que se refiere el presente artículo, a más tardar en el mes de marzo del año del proceso electoral local, deberán manifestar su deseo de participar en las elecciones locales.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+El proceso electoral ordinario inicia en el mes de enero del año de la elección y concluye cuando el Tribunal Electoral haya resuelto el último de los medios de impugnación que se hubieren interpuesto o cuando se tenga constancia de que no se presentó alguno de ellos.
 
 ###### ARTICULO 25.
 
@@ -635,9 +645,11 @@ El Consejo General del Instituto Estatal Electoral en la sesión previa al inici
 
 Los topes máximos de gasto de campaña serán aquellas cantidades que resulten de multiplicar por 2.5 el costo mínimo determinado por el Consejo General del Instituto Estatal Electoral, para cada una de las campañas de Gobernador, Diputados de mayoría relativa y de miembros de Ayuntamientos, para efectos del financiamiento actualizado al mes inmediato anterior.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 60.
 
-Los partidos políticos que rebasen los topes de gastos de campaña se harán acreedores a las sanciones en las que incurran por mal uso de los recursos asignados, aplicando dichas sanciones el Consejo General del Instituto Estatal Electoral conforme a lo establecido en este Código.
+Los partidos políticos que rebasen los topes de gastos de pre-campaña y de campaña se harán acreedores a las sanciones en las que incurran por mal uso de los recursos asignados, aplicando dichas sanciones el Consejo General del Instituto Estatal Electoral conforme a lo establecido en este Código.
 
 # LIBRO TERCERO. DE LOS ORGANISMOS ELECTORALES
 
@@ -675,7 +687,9 @@ El patrimonio del Instituto se integra con los bienes muebles e inmuebles que se
 
 El Instituto Estatal Electoral tiene su residencia en la capital del Estado, funcionará erigido en Consejo General de forma permanente y será el órgano superior de dirección electoral en el Estado.
 
-El Consejo General se reunirá dentro de los diez primeros días del mes de marzo del año de la elección, con objeto de declarar el inicio del proceso electoral y preparar la elección. A partir de esa fecha y hasta la terminación de aquél, sesionará por lo menos una vez al mes. Concluido el proceso, se reunirá cuando sea convocado por su Presidente. La convocatoria podrá hacerse a solicitud de la mayoría de los consejeros ciudadanos, o a solicitud de la mayoría de los representantes de los partidos políticos. Las convocatorias se harán por escrito.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+El Consejo General se reunirá dentro de los diez primeros días del mes de enero del año de la elección, con objeto de declarar el inicio del proceso electoral y preparar la elección. A partir de esa fecha y hasta la terminación de aquél, sesionará por lo menos una vez al mes. Concluido el proceso, se reunirá cuando sea convocado por su Presidente. La convocatoria podrá hacerse a solicitud de la mayoría de los consejeros ciudadanos, o a solicitud de la mayoría de los representantes de los partidos políticos. Las convocatorias se harán por escrito.
 
 Son fines del Instituto Estatal Electoral los siguientes:
 
@@ -695,9 +709,9 @@ VI.- Llevar a cabo la promoción del voto, la educación cívico-electoral, y co
 
 El Consejo General del Instituto, se integrará por:
 
-I.- Siete Consejeros Ciudadanos que durarán en su cargo siete años.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
-El Congreso del Estado reemplazará cada año, al Consejero Electoral con mayor antigüedad en el desempeño de su cargo.
+I.- Siete Consejeros Ciudadanos que durarán en su cargo tres años, pudiendo ser reelectos por un período más, previa valoración que haga el Congreso del Estado;
 
 II.- Un Consejero Presidente que será electo por el Pleno, elegido de entre los Consejeros Ciudadanos que lo integran.
 
@@ -731,7 +745,9 @@ II.- Estar inscrito en el Registro Federal de Electores, aparecer en la lista no
 
 III.- Tener treinta años o más al día de su designación;
 
-IV.- Poseer título a nivel licenciatura legalmente expedido por Institución Educativa del país, con antigüedad mínima de cinco años y tener conocimientos en la materia político-electoral;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+IV.- Tener conocimientos en materia político-electoral;
 
 V.- No haber sido condenado por delito doloso alguno;
 
@@ -741,7 +757,7 @@ VII.- No tener ni haber tenido cargo alguno de elección popular en los últimos
 
 VIII.- Ser de reconocida honorabilidad;
 
-IX.- No desempeñar durante su encargo, ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Instituto y los que ejerzan en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados;
+IX.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2001)
 
 X.- No haber sido Procurador General de Justicia del Estado, Secretario de la Administración Pública Estatal o Municipal, durante los tres años anteriores al día de su nombramiento.
 
@@ -757,7 +773,9 @@ I.- Vigilar el cumplimiento de las disposiciones constitucionales relativas y la
 
 II.- Organizar el proceso electoral y cuidar de la oportuna instalación y funcionamiento de los organismos electorales;
 
-III.- Designar al Presidente y Secretario Técnico del Consejo General del Instituto Estatal Electoral, así como al Presidente, Secretario y Consejeros Ciudadanos propietarios y suplentes de los Consejos Distritales y Municipales, tomando en cuenta las propuestas de los consejeros representantes de los partidos políticos acreditados, así como a los miembros del Servicio Profesional Electoral.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+III.- Designar al Presidente y Secretario Técnico del Consejo General del Instituto Estatal Electoral, así como designar antes del cinco de febrero del año de la elección al Presidente, Secretario y Consejeros Ciudadanos propietarios y suplentes de los Consejos Distritales y Municipales, tomando en cuenta las propuestas de los consejeros representantes de los partidos políticos acreditados, así como a los miembros del servicio profesional electoral.
 
 IV.- Publicar en el Periódico Oficial del Estado su integración y la de los demás organismos electorales;
 
@@ -815,7 +833,11 @@ XXX.- Difundir la cultura política;
 
 XXXI.- Impulsar la participación ciudadana en aspectos cívico-electorales; y
 
-XXXII.- Dictar los acuerdos necesarios a fin de cumplimentar el presente Código.
+XXXII.- Dictar los acuerdos necesarios a fin de cumplimentar el presente Código;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+XXXIII.- Revisar y en su caso adecuar la demarcación territorial de los distritos electorales uninominales, con base en los criterios previstos en el Artículo 17 de la Constitución Política del Estado de Aguascalientes y en el presente Código.
 
 ### CAPITULO II. De sus Atribuciones de la Presidencia
 
@@ -971,9 +993,11 @@ IX.- Las demás que les sean asignadas por el Presidente o el propio Instituto.
 
 Los Consejos Distritales Electorales son los responsables de organizar las elecciones dentro de sus respectivos distritos, conforme a lo dispuesto por este Código. Gozarán de autonomía en su funcionamiento e independencia en sus decisiones.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 76.
 
-Con residencia en cada una de las cabeceras de los distritos electorales en que se divide el Estado, funcionará un Consejo Distrital que, a más tardar el dos de mayo del año de la elección, iniciará sus sesiones. A partir de esa fecha, y hasta la terminación de los comicios, sesionará por lo menos una vez al mes.
+Con residencia en cada una de las cabeceras de los distritos electorales en que se divide el Estado, funcionará un Consejo Distrital que a más tardar el diez de febrero del año de la elección, iniciará sus sesiones. A partir de esa fecha, y hasta la terminación del proceso electoral, sesionará por lo menos una vez al mes.
 
 ###### ARTICULO 77.
 
@@ -1009,7 +1033,9 @@ I.- Vigilar la observancia de este Código y demás disposiciones relativas;
 
 II.- Cumplir y hacer cumplir los acuerdos y disposiciones del Instituto Estatal Electoral;
 
-III.- Aprobar el proyecto del número y ubicación de casillas, así como nombrar a los ciudadanos integrantes de las mesas directivas de casilla, preferentemente a los que fungieron como tales en el proceso electoral federal anterior, previa evaluación de los mismos;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+III.- Aprobar el proyecto del número y ubicación de casillas, así como nombrar a los ciudadanos integrantes de las mesas directivas de casilla, en términos de lo establecido en el Artículo 92 de este Código;
 
 IV.- Registrar a los candidatos a Diputados que serán electos según el principio de mayoría relativa;
 
@@ -1093,9 +1119,11 @@ IX.- Las demás que le confiera el Presidente o el propio Consejo.
 
 Los Consejos Municipales Electorales son los responsables de organizar las elecciones dentro de sus respectivos Municipios, conforme a lo dispuesto por este Código, gozarán de autonomía en su funcionamiento e independencia en sus decisiones.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 83.
 
-Con residencia en cada una de las cabeceras de los Municipios del Estado, para la elección de miembros del Ayuntamiento funcionará un Consejo Municipal Electoral que, a más tardar el dos de mayo del año de la elección iniciará sus sesiones. A partir de esa fecha y hasta el término del proceso electoral sesionará por lo menos una vez al mes.
+Con residencia en cada una de las cabeceras de los Municipios del Estado, para la elección de miembros del Ayuntamiento funcionará un Consejo Municipal Electoral que, a más tardar el diez de febrero del año de la elección iniciará sus sesiones. A partir de esa fecha y hasta el término del proceso electoral sesionará por lo menos una vez al mes.
 
 ###### ARTICULO 84.
 
@@ -1201,15 +1229,25 @@ En cada sección electoral se instalará una mesa directiva de casilla por cada,
 
 ### CAPITULO II. De su Integración
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 92.
 
 Las mesas directivas de casillas estarán integradas por ciudadanos que residan en la sección respectiva, que estén en pleno ejercicio de sus derechos políticos, que sean de reconocida honorabilidad, y con los conocimientos suficientes que les permitan realizar su función.
 
-Se integrarán por un Presidente, un Secretario, dos Escrutadores y tres suplentes generales, nombrados por el Consejo Distrital Electoral.
+Se integrarán con un Presidente, un Secretario, dos Escrutadores y tres Suplentes Generales, nombrados por el Consejo Distrital Electoral.
 
-Se dará preferencia a quienes hayan fungido en la última elección federal, previamente capacitados por el Consejo Distrital correspondiente.
+El Consejo General del Instituto Estatal Electoral en el mes de enero del año de la elección, sorteará un mes del calendario que, junto con el que siga en su orden, serán tomados como base para la insaculación de los ciudadanos que integrarán las mesas directivas de casillas.
+
+Conforme al resultado obtenido en el sorteo a que se refiere el párrafo anterior, del primero al veinte de febrero del año de la elección, el Consejo General del Instituto Estatal Electoral procederá a insacular de las listas nominales de electores integradas con los ciudadanos que obtuvieron su credencial para votar con fotografía el quince de enero del mismo año, a un diez por ciento de ciudadanos de cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a cincuenta.
+
+A los ciudadanos que resulten seleccionados se les convocará para que asistan a un curso de capacitación que impartirán los Consejos Distritales Electorales del quince de marzo al treinta de abril del año de la elección.
+
+Los Consejos Distritales Electorales, apoyados por la Dirección de Capacitación Electoral y Educación Cívica del Instituto Estatal Electoral, harán una evaluación objetiva, con base en los datos que los ciudadanos aporten durante los cursos de capacitación, seleccionando a los que resulten aptos y reúnan los requisitos en términos de este Código, prefiriendo aquéllos que tengan una escolaridad mínima de nivel medio superior.
 
 No podrán estar en la casilla, a la vez los propietarios y el suplente; así como los asistentes electorales, con excepción del tiempo en que estén desempeñando sus funciones.
+
+En aquellos casos en que las elecciones estatales o municipales se realicen en el mismo año que las federales, para mejor proveer, los procesos electorales se llevarán a cabo de acuerdo con los convenios de colaboración suscritos entre el Instituto Estatal Electoral y el Instituto Federal Electoral.
 
 ###### ARTICULO 93.
 
@@ -1387,7 +1425,17 @@ I.- El cinco por ciento de los ciudadanos inscritos en el Padrón Electoral, cuy
 
 II.- Una tercera parte de los Diputados que integran el H. Congreso del Estado.
 
-Para que la solicitud se declare aprobada se requiere del voto favorable de las dos terceras partes de los integrantes del H. Congreso del Estado, la cual será turnada al Consejo General del Instituto Estatal Electoral para que a su vez, con el voto favorable de las dos terceras partes de sus integrantes determine su procedencia y elabore la pregunta para expedir enseguida la convocatoria correspondiente.
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+III.- Los Ayuntamientos de los Municipios del Estado, en el ámbito de su competencia; y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+IV.- El Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+Para que la solicitud se declare aprobada se requiere el voto favorable de las dos terceras partes de los integrantes del H. Congreso del Estado, la cual será turnada al Instituto Estatal Electoral para que a su vez, elabore la pregunta para expedir enseguida la convocatoria correspondiente.
 
 No podrán someterse a Referéndum ni a Plebiscito aquellas leyes o artículos que contemplen las siguientes materias:
 
@@ -1395,7 +1443,9 @@ No podrán someterse a Referéndum ni a Plebiscito aquellas leyes o artículos q
 
 2.- Ley Orgánica del Poder Ejecutivo del Estado de Aguascalientes;
 
-3.- Ley Orgánica del H. Congreso del Estado y su Reglamento Interior;
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+3.- Ley Orgánica del Poder Legislativo y sus Reglamentos;
 
 4.- Ley Orgánica del Poder Judicial del Estado;
 
@@ -1489,9 +1539,11 @@ IV.- Queda prohibido, independientemente de lo señalado por otros ordenamientos
 
 Corresponde exclusivamente a los partidos políticos el derecho de solicitar el registro de candidatos a cargos de elección popular, por conducto del Presidente del Comité Ejecutivo Estatal o su equivalente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 130.
 
-El registro de candidaturas a Gobernador, a Diputados y a miembros de Ayuntamientos, será del 15 al 30 de junio inclusive, del año de la elección.
+El registro de candidaturas a Gobernador, a Diputados y a miembros de Ayuntamientos, será del quince al treinta de abril inclusive, del año de la elección.
 
 Los organismos electorales darán amplia difusión a la apertura del registro de candidatos.
 
@@ -1535,13 +1587,17 @@ La solicitud deberá acompañarse de copia certificada del acta de nacimiento, e
 
 Las candidaturas de miembros de Ayuntamientos serán registradas por planillas de propietarios y suplentes; las de Diputados por el principio de mayoría relativa y por representación proporcional, por fórmulas de candidatos compuestas, cada una, por un candidato propietario y un candidato suplente.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 135.
 
-Para el registro de candidatos a todo cargo de elección popular, el partido político postulante deberá presentar y obtener el registro de la plataforma electoral para la elección, antes del 10 de junio del año de la elección.
+Para el registro de candidatos a todo cargo de elección popular, el partido político postulante deberá presentar y obtener el registro de la plataforma electoral para la elección, antes del diez de marzo del año de la elección.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 136.
 
-Los partidos políticos podrán registrar candidatos a Diputados que serán asignados por el principio de representación proporcional, si hubieren registrado candidatos a Diputados por el principio de mayoría relativa, en por lo menos, doce de los distritos electorales uninominales.
+Los partidos políticos podrán registrar candidatos a Diputados que serán asignados por el principio de representación proporcional, si hubieren registrado candidatos a Diputados por el principio de mayoría relativa, en por lo menos, quince de los distritos electorales uninominales.
 
 ###### ARTICULO 137.
 
@@ -1623,7 +1679,9 @@ De la Integración y Publicación de las Mesas Directivas de Casilla y su Ubicac
 
 A fin de estar en condiciones de acordar la ubicación de las casillas y para nombrar a los integrantes de las mesas directivas de casilla, se atenderá al procedimiento preliminar siguiente:
 
-Con base en la información proporcionada en la primera semana de julio del año de la elección por el Instituto Federal Electoral, acerca del número de ciudadanos empadronados en las secciones electorales del distrito, el Consejo Distrital sesionará para determinar el número de casillas que se instalarán; y
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+Con base en la información proporcionada en la primera semana de mayo del año de la elección por el Instituto Federal Electoral, acerca del número de ciudadanos empadronados en las secciones electorales del distrito, el Consejo Distrital sesionará para determinar el número de casillas que se instalarán; y
 
 Los tipos de casilla serán: básica, contigua, extraordinaria y especial.
 
@@ -1655,7 +1713,9 @@ El procedimiento para determinar la ubicación de las casillas y para nombrar a 
 
 I.- Los Presidentes de los Consejos Distritales Electorales, asistidos por los Secretarios y acompañados de los Consejeros Ciudadanos y de los representantes de los partidos políticos que asistan, recorrerán las secciones con el fin de localizar los lugares que reúnan los requisitos fijados por el artículo anterior;
 
-II.- Los Consejos Distritales Electorales determinarán las mesas directivas de casillas, y tomarán en cuenta preferentemente a los funcionarios que fungieron como tales en el proceso electoral federal inmediato anterior, previa evaluación de los mismos y en todo caso propondrán las vacantes que pudieren existir;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+II.- Los Consejos Distritales Electorales determinarán las mesas directivas de casilla, en términos del Artículo 92 de este Código y en todo caso, propondrán las vacantes que pudieren existir;
 
 III.- Posteriormente, los Presidentes de los Consejos Distritales presentarán para su aprobación ante el Pleno, el proyecto de la lista de casillas, su ubicación e integrantes, lo cual será verificado por los partidos políticos, los que dentro de los cinco días naturales siguientes podrán hacer las observaciones si no están satisfechos los requisitos de este Código; y
 
@@ -1869,9 +1929,11 @@ Los notarios públicos en ejercicio, los jueces de primera instancia y menores, 
 
 ### CAPITULO II. De la Instalación y Apertura de la Casilla
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 164.
 
-El primer domingo de septiembre del año de la elección, a las ocho horas, los ciudadanos nombrados Presidente, Secretario y Escrutadores propietarios de las mesas directivas de las casillas electorales, procederán a la instalación de la casilla en presencia de los representantes de los partidos políticos que concurran.
+El primer domingo de julio del año de la elección, a las ocho horas, los ciudadanos nombrados Presidente, Secretario y Escrutadores propietarios de las mesas directivas de las casillas electorales, procederán a la instalación de la casilla en presencia de los representantes de los partidos políticos que concurran.
 
 ###### ARTICULO 165.
 
@@ -2239,7 +2301,9 @@ IV.- Se formará un expediente que contendrá copias de las actas de escrutinio 
 
 Una vez concluido el cómputo final de la elección para Diputados de mayoría relativa, el Consejo General del Instituto Estatal Electoral procederá a la asignación de las Diputaciones por el principio de representación proporcional y para tal efecto se observará lo siguiente:
 
-I.- Para que un partido político tenga derecho a participar en la asignación de Diputados por el principio de representación proporcional, es preciso que obtenga por lo menos el 2.5% de la votación total emitida; haber acreditado su registro nacional ante el Consejo General del Instituto Estatal Electoral; y tener registrados candidatos a Diputados por mayoría relativa en, por lo menos, doce de los dieciocho distritos electorales uninominales; y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+I.- Para que un partido político tenga derecho a participar en la asignación de Diputados por el principio de representación proporcional, es preciso que obtenga por lo menos el 2.5% de la votación total emitida; haber acreditado su registro nacional ante el Consejo General del Instituto Estatal Electoral; y tener registrados candidatos a Diputados por mayoría relativa en, por lo menos, quince de los veintitrés distritos electorales uninominales; y
 
 II.- Para efectos de la asignación de las diputaciones de representación proporcional, se entiende por votación estatal emitida o simplemente votación estatal, la correspondiente a la elección de Diputados de mayoría relativa en todo el Estado, deduciéndose la votación emitida a favor de los partidos políticos que no hayan obtenido el 2.5% y los votos nulos.
 
@@ -2247,35 +2311,35 @@ II.- Para efectos de la asignación de las diputaciones de representación propo
 
 Las normas para la asignación de curules de representación proporcional son las siguientes:
 
-I.- Todos los partidos o coaliciones que hayan obtenido por lo menos el 2.5% de la votación total emitida tendrán derecho a participar en la asignación de Diputados de representación proporcional;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
-II.- Se hará la declaratoria de aquellos partidos que hayan obtenido el 2.5% de la votación;
+I.- Todos los partidos o coaliciones que hayan obtenido por lo menos el 2.5% de la votación total emitida tendrán derecho a participar en la asignación de Diputados de representación proporcional, siempre y cuando alcancen curules por repartir;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+II.- Se hará la declaratoria de aquellos partidos que hayan obtenido el 2.5% de la votación, en orden descendente y tomando en cuenta las curules a repartir;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 III.- Para distribuir las diputaciones restantes, se utilizará la fórmula electoral que se integra por los elementos siguientes:
 
-a).- Porcentaje mínimo;
+a).- Porcentaje mínimo; y
 
-b).- Cociente electoral;
+b).- Resto mayor.
 
-c).- Cociente rectificado; y
+El porcentaje mínimo lo representa el 2.5% de la votación emitida.
 
-d).- Resto mayor.
+Resto mayor de votos: Es el remanente de porcentajes, deducidos los utilizados en la asignación de curules, por el elemento anterior de la fórmula electoral;
 
-El porcentaje mínimo lo representa el 2.5% de la votación total emitida.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
-El cociente electoral se calcula dividiendo la suma de los porcentajes obtenidos con respecto a la votación total por los partidos políticos con derecho a participar en la asignación, deducido el 2.5% entre el número de curules a repartir.
+IV.- A los partidos que hayan obtenido el 2.5% o más de la votación estatal se le asignará una diputación, siempre u cuando existan curules a repartir. Si aún quedaren curules por repartir, éstas se asignarán utilizando los restos mayores.
 
-El cociente rectificado se calcula dividiendo la suma de los porcentajes obtenidos con respecto a la votación total, por los partidos políticos con derecho a participar en la asignación, deducidos los porcentajes utilizados para obtener curules, entre el número de curules por repartir.
-
-Resto mayor de votos: Es el remanente de porcentajes deducidos los utilizados en la asignación de curules, por los tres elementos anteriores de la fórmula electoral.
-
-IV.- A todos los partidos que hayan obtenido el 2.5% o más de la votación estatal se le asignará una diputación. En segundo término se asignará una diputación adicional a cada uno de los partidos políticos una vez deducido el 2.5% y que alcancen el cociente electoral. En tercer término se asignará una diputación adicional a cada uno de los partidos políticos cuyos porcentajes restantes una vez deducidos los porcentajes ya utilizados contengan el cociente rectificado. Si aún quedaren curules por repartir, éstas se asignarán utilizando los restos mayores.
-
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 208.
 
-Todo partido político tendrá derecho a participar en la asignación de Diputados por el principio de representación proporcional, sin que pueda exceder de dieciocho, tomando en cuenta los asignados por ambos principios.
+Todo partido político que obtenga el triunfo en la totalidad de los distritos uninominales, no tendrá derecho a participar en la asignación de Diputados por el principio de representación proporcional. Ningún partido podrá tener más de veintitrés Diputados tomando en cuenta los asignados por ambos principios.
 
 ###### ARTICULO 209.
 
@@ -2503,7 +2567,7 @@ Los actuales Consejeros Ciudadanos que fueron ratificados mediante el Decreto n�
 
 ###### ARTICULO CUARTO.
 
-Los integrantes del primer Consejo General del Instituto Estatal Electoral en términos del presente Código, durarán en el cargo de uno a siete años, debiendo ser sustituidos uno por año, en primer lugar el de mayor edad, luego el que le sigue con este mismo criterio y así sucesivamente hasta ser reemplazado en su totalidad.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO QUINTO.
 
@@ -2548,3 +2612,13 @@ Lic. Abelardo Reyes Sahagún.
 P.O. 12 DE MARZO DE 2001.
 
 UNICO.- Las presente reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor el primero de enero del año 2002.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo contenido en el presente Decreto.
+
+TERCERO.- Para efectos de homologar las fechas de las elecciones estatales y municipales con los procesos electorales federales del año 2006, el Gobernador del Estado de Aguascalientes, los Diputados integrantes de la LIX Legislatura del H. Congreso del Estado de Aguascalientes y los Ayuntamientos del Estado de Aguascalientes que sean electos en el año 2004, durará en su cargo cinco años, dos años y dos años, respectivamente por única vez.
+
+CUARTO.- El Instituto Estatal Electoral deberá adecuar la demarcación territorial de los distritos electorales uninominales prevista en esta reforma, en un plazo no mayor de un año contado a partir de que entre en vigor el presente Decreto.
