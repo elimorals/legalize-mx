@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1998-01-29"
+last_updated: "1999-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 1999.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -791,13 +791,13 @@ XXIII.- Discutir y aprobar en su caso, en el improrrogable término de diez día
 
 Si el Congreso no resuelve dentro del término antes citado, se tendrán por aprobados los nombramientos. Toda negativa de aprobación deberá estar fundada y aprobada por el Congreso. En tal caso el Gobernador hará nombramiento en favor de persona distinta de la rechazada, hasta quedar definitivamente integrado el Tribunal.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1999)</small>
 
-XXIV.- Recibir de los Diputados, del Gobernador electo y de los Magistrados del Tribunal Superior de Justicia, la protesta de guardar y hacer guardar la Constitución General de la República, la particular del Estado y las leyes que de ellas emanen y expedir el Bando Solemne para dar a conocer en todo el Estado de Guerrero la declaración de Gobernador electo que hubiere hecho el Consejo Estatal Electoral.
+XXIV.- Recibir de los Diputados, del Gobernador electo, de los Magistrados de los Tribunales Superior de Justicia, Electoral del Estado y de lo Contencioso Administrativo, la protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política Local y las Leyes, Reglamentos y Acuerdos que de una u otra emanan.
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1999)</small>
 
-XXV.- Recibir de los Magistrados, de los Tribunales Electoral del Estado y de lo Contencioso Administrativo, la protesta de guardar la Constitución Federal, la del Estado y las leyes que de una u otra emanen.
+XXV.- Designar, en los términos de esta Constitución, al Procurador General de Justicia del Estado, de entre la terna de profesionales del derecho que remita el Titular del Poder Ejecutivo.
 
 XXVI.- Suspender Ayuntamientos o declarar que éstos han desaparecido, y suspender o revocar el mandato a alguno de sus miembros, conforme a las hipótesis previstas y al procedimiento de la Ley correspondiente.
 
@@ -1109,7 +1109,7 @@ Llegado el caso de la desaparición de los poderes del Estado se observará el p
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1215,9 +1215,9 @@ XXXVIII.- Las demás que se deriven de las Constituciones Federal y Local, así 
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+### CAPITULO UNICO
 
-(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 75.
 
@@ -1247,9 +1247,9 @@ El Presidente presentará anualmente al Congreso un informe sobre las actividade
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 77.
 
@@ -1267,11 +1267,15 @@ El Ministerio Público estará a cargo de un Procurador General de Justicia y lo
 
 Para ser Procurador de Justicia se deberán satisfacer los mismos requisitos que esta Constitución señala a los Magistrados del Tribunal Superior. La Ley Orgánica determinará los requisitos para ser Sub'Procurador (sic) y Agente del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 80.
 
-El Procurador y los Subprocuradores serán nombrados y removidos por el Gobernador del Estado. Los Agentes y demás servidores públicos de confianza de la Procuraduría y del Ministerio Público serán nombrados y removidos por el Gobernador a propuesta del Procurador.
+El Procurador General de Justicia será nombrado por el Pleno del Congreso del Estado por el voto de la mayoría de sus integrantes presentes en sesión, de entre la terna de Ciudadanos profesionales del derecho que someta a su consideración el Titular del Poder Ejecutivo Estatal, éste último podrá removerlo libremente. El Congreso del Estado deberá tomarle la protesta de ley y emitirá el Decreto correspondiente.
+
+En el supuesto de que, a juicio del Congreso del Estado, ninguno de los integrantes de la terna propuesta por el Ejecutivo Estatal no reunieran los requisitos y el perfil requeridos para el desempeño del cargo, el Ejecutivo presentará propuesta diferente a la original.
+
+Los Subprocuradores serán nombrados y removidos por el Gobernador del Estado, a propuesta del Procurador. Los Agentes y demás servidores públicos de confianza de la Procuraduría y del Ministerio Público, serán nombrados y removidos por el Procurador, previo acuerdo del Gobernador.
 
 ###### ARTICULO 80 Bis.
 
@@ -1367,7 +1371,7 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1459,9 +1463,9 @@ VII.- Planear y regular de manera conjunta y coordinada con la Federación, el E
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO
+### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 94.
 
@@ -1573,9 +1577,9 @@ No pueden ser electos como integrantes de los Ayuntamientos, los miembros en ser
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
+### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ###### ARTICULO 100.
 
@@ -1657,7 +1661,7 @@ Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosar
 
 Todo Funcionario Público o empleado que tenga que manejar fondos, ya sea del Estado o del Municipio, deberá otorgar caución en términos de Ley.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 108.
 
@@ -1669,7 +1673,7 @@ La educación que proporcione el Estado será gratuita y lo puede hacer por sí 
 
 El sistema estatal de enseñanza ajustará sus planes y programas de estudio al sistema federal, estableciendo para el efecto la coordinación necesaria con las autoridades educativas federales. Tratándose de la educación superior, se procurará el desarrollo del Estado o la región, sin perjuicio de aprovechar los conocimientos, las experiencias o los medios de las instituciones federales o de otras entidades.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 110.
 
@@ -1909,11 +1913,11 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO. DEL MUNICIPIO LIBRE
+## TITULO DECIMO PRIMERO. DE LA HACIENDA PUBLICA DEL ESTADO Y SU ADMINISTRACION
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1933,26 +1937,6 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO PRIMERO. DE LA HACIENDA PUBLICA DEL ESTADO Y SU ADMINISTRACION
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
-
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
-
-## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
-
-### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
 ## TITULO NOVENO. DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
@@ -1960,6 +1944,26 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 ### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
+
+## TITULO DECIMO. DEL MUNICIPIO LIBRE
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ## TITULO DECIMO CUARTO. DE LA ADMINISTRACION PUBLICA
 
@@ -2690,3 +2694,9 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 29 DE ENERO DE 1998.
 
 UNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE MAYO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En un plazo no mayor de treinta días hábiles a la puesta en vigor del presente Decreto, deberá adecuarse la legislación reglamentaria de la materia, a fin de mantener actualizados los procedimientos respectivos.
