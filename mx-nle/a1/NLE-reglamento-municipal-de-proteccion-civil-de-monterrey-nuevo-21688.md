@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-municipal-de-proteccion-civil-de-monterrey-nuevo-216
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-06"
-last_updated: "2001-07-06"
+last_updated: "2001-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1872 +21,1274 @@ state: "NLE"
 ---
 # REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE MONTERREY, NUEVO LEON
 
-LEY DE SALUD DEL ESTADO DE QUERÉTARO
+REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE MONTERREY, NUEVO LEON
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2001.
 
-Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
+Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 6 de julio de 2001.
 
-LIC. JOSÉ EDUARDO CALZADA ROVIROSA, Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
+EL C. LIC. FELIPE DE JESÚS CANTÚ RODRÍGUEZ, PRESIDENTE MUNICIPAL DE LA CIUDAD DE MONTERREY, NUEVO LEÓN, A LOS HABITANTES DE ESTE MUNICIPIO HACE SABER:
 
-LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
+QUE EL REPUBLICANO AYUNTAMIENTO DEL MUNICIPIO DE MONTERREY, EN SESIÓN ORDINARIA CELEBRADA EL DÍA 29 DE JUNIO DE 2001, DE CONFORMIDAD CON LO ESTABLECIDO POR EL ARTÍCULO 26, INCISO A, FRACCIÓN VII y DEMÁS RELATIVOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE NUEVO LEÓN, APROBÓ, EL REGLAMENTO MUNICIPAL DE PROTECCIÓN CIVIL DE MONTERREY, NUEVO LEÓN, EN LOS TÉRMINOS QUE ENSEGUIDA SE TRANSCRIBEN:
 
-CONSIDERANDO.
+REGLAMENTO MUNICIPAL DE PROTECCIÓN CIVIL DE MONTERREY, NUEVO LEÓN.
 
-Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide la siguiente:
+## TÍTULO PRIMERO
 
-LEY DE SALUD DEL ESTADO DE QUERÉTARO
-
-## Título Primero. Disposiciones generales
-
-### Capítulo Único. Naturaleza y objeto
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-Las disposiciones de la presente Ley son de orden público e interés social y tiene por objeto:
-
-I. Regular las bases y modalidades para garantizar el acceso a los servicios de salud a la población, en el Estado de Querétaro;
-
-II. Fijar las normas conforme a las cuales se ejercerán atribuciones y competencias en la prestación de los servicios de salubridad; y
-
-III. Determinar la estructura administrativa y los mecanismos adecuados para la prestación de los servicios de salud a que se refiere la Ley General de Salud, que sean competencia del Poder Ejecutivo del Estado.
-
-El derecho a la protección de la salud, tiene las siguientes finalidades:
-
-I. El bienestar biopsicosocial de los seres humanos, para contribuir al ejercicio pleno de sus capacidades;
-
-II. Prolongar y mejorar la calidad de la vida humana;
-
-III. Proteger y fortalecer los valores que coadyuven a la creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social;
-
-IV. Promover actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
-
-V. El disfrute de servicios de salud y de asistencia social que satisfagan eficaz y oportunamente las necesidades de la población, sin que exista ningún tipo de discriminación; y
-
-VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud, y el desarrollo de la enseñanza y la investigación científica para la salud.
+Las disposiciones de este Reglamento y de los manuales de las bases y tablas técnicas que se expidan en términos de este Reglamento, son de orden público, interés social y de observancia general y obligatoria en el Municipio de Monterrey, Nuevo León, tanto para las autoridades, así como para los organismos o instituciones de carácter público, social y/o privado, grupos voluntarios y en general para todas las personas que por cualquier motivo residan, habiten o transiten por el Municipio; y tiene por objeto regular las acciones que en materia de protección civil se lleven a cabo en el municipio y establecer las bases de integración, coordinación y funcionamiento del Sistema Municipal de Protección Civil; regular las acciones de prevención, mitigación, auxilio, salvaguarda, y cuanto más sea necesario, de las personas, sus bienes, la propiedad pública y el medio ambiente; así como el restablecimiento y funcionamiento de los servicios públicos indispensables y sistemas estratégicos en casos de emergencia y desastre, provocados por riesgos geológicos, hidrometeorológicos, químicos, sanitarios y socio-organizativos o cualquier otro acontecimiento fortuito o de fuerza mayor.
 
 ###### Artículo 2.
 
-Para los efectos de esta Ley se entiende por:
-
-I. Agua potable: la que ha sido sometida al procedimiento de potabilización para que su ingestión no cause efectos nocivos a la salud;
-
-II. Alcantarillado: la red o sistema de conductos y dispositivos para recolectar y conducir las aguas residuales y pluviales al desagüe o drenaje;
-
-III. Comercio de productos alimenticios en almacenes y tiendas no especializadas: los sitios públicos y privados destinados a la compra y venta de productos en general, preferente los agropecuarios y de primera necesidad, en forma permanente y en días determinados;
-
-IV. Establecimientos comerciales: las instalaciones donde se efectúan actividades lucrativas consistentes en la intermediación directa o indirecta entre productores y consumidores de bienes;
-
-V. Regulación y control sanitario: los actos que lleve a cabo la Secretaría de Salud para ordenar o controlar el funcionamiento sanitario de las actividades que se realicen en los establecimientos a que se refieren esta Ley y los reglamentos respectivos, a través de la vigilancia, aplicación de medidas de seguridad e imposición de sanciones en los términos de esos ordenamientos;
-
-VI. Secretaría: la Secretaría de Salud del Estado de Querétaro;
-
-VII. Servicios de salud: aquellas acciones que se realizan en beneficio del individuo y de la sociedad en general, dirigidas a proteger, promover y restaurar la salud de la persona o de la colectividad; se considerarán como tales, los que se presten por establecimientos públicos de salud a la población en el Estado de Querétaro que así lo requiera, regidos por criterios de universalidad, equidad y beneficio social;
-
-VIII. SESEQ: los Servicios de Salud del Estado de Querétaro;
-
-IX. Sistema de Salud del Estado de Querétaro: al conjunto de unidades administrativas, órganos desconcentrados y descentralizados del Poder Ejecutivo del Estado y las personas físicas o morales de los sectores social y privado que presten servicios de salud, así como a los mecanismos de coordinación de acciones que se suscriban con dependencias o entidades de la administración pública federal;
-
-X. Usuario del servicio de salud: toda persona que requiera y obtenga los servicios de salud que presten los sectores públicos, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables; y
-
-XI. Atención médica prehospitalaria: aquella que brinda el sector público, privado y social, a través del técnico en urgencias médicas, al identificar, evaluar e intervenir en situaciones de emergencia o urgencia médica para salvaguardar la vida de los usuarios y prevenirles lesiones subsecuentes, en el propio sitio donde ocurre el incidente, así como durante su atención y traslado en unidades móviles tipo ambulancia, hasta el servicio hospitalario que le prestará la atención médica definitiva, con base en el conocimiento, habilidades, destrezas y aptitudes adquiridas, empleando para ello el equipo y la tecnología vigente, respetando la dignidad, costumbres y creencias del paciente.
-
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
-
-XII. Espacio 100% libre de humo de tabaco: Aquella área física cerrada con acceso al público o todo lugar de trabajo interior o de transporte público, en los que, por razones de orden público e interés social, queda prohibido fumar o tener encendido cualquier producto de tabaco.
+Los actos de autoridad para la aplicación de las disposiciones que establece este Reglamento y los manuales de las bases y tablas técnicas, comprenderán la inspección, control, vigilancia y certificación de las instalaciones y aparatos relacionados con la seguridad de las personas y de los bienes muebles, inmuebles o edificaciones, así como la imposición de sanciones por la infracción o incumplimiento de dichas normas.
 
 ###### Artículo 3.
 
-Para los efectos de esta Ley, corresponde al Poder Ejecutivo del Estado:
-
-A. En materia de salubridad general:
-
-I. El control sanitario de establecimientos, productos y servicios;
-
-II. La atención médica, preferentemente en beneficio de grupos vulnerables;
-
-III. La atención materno-infantil;
-
-IV. La salud visual y auditiva;
-
-V. La prestación de servicios de salud reproductiva;
-
-VI. La salud mental;
-
-VII. La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
-
-VIII. La promoción de la formación de recursos humanos para la salud;
-
-IX. La coordinación de la investigación para la salud y el control de esta en seres humanos;
-
-X. La información relativa a las condiciones, recursos y servicios de salud;
-
-XI. La educación para la salud;
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
-
-XII. La orientación, promoción y vigilancia en materia de nutrición, atendiendo a los problemas de malnutrición;
-
-XIII. La prevención y el control de los efectos nocivos de los factores ambientales en la salud de los seres humanos;
-
-XIV. La salud ocupacional y el saneamiento básico;
-
-XV. La prevención y el control de enfermedades transmisibles;
-
-XVI. La prevención y el control de las enfermedades no transmisibles y accidentes;
-
-XVII. La prevención de la invalidez y rehabilitación de las personas inválidas;
-
-XVIII. La asistencia social;
-
-XIX. El desarrollo de programas contra el alcoholismo y el tabaquismo;
-
-XX. El control sanitario de la asignación de órganos, tejidos y células;
-
-XXI. Coadyuvar en la consolidación y funcionamiento del Sistema Nacional de Salud, así como planear, organizar y desarrollar el Sistema Estatal de Salud; y
-
-XXII. Las demás que establezca esta Ley, la Ley General de Salud y demás disposiciones legales aplicables.
-
-B. En materia de salubridad local, el control sanitario de:
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
-
-I. Comercio de productos alimenticios en almacenes, cooperativas escolares, espacios comerciales donde se expenden o consumen alimentos en las instituciones de nivel básico y tiendas no especializadas;
-
-II. Construcciones, excepto las de los establecimientos de salud;
-
-III. Servicios de administración de cementerios;
-
-IV. Servicios de saneamiento estatales y municipales;
-
-V. Matanza de ganado y aves;
-
-VI. Captación, tratamiento, conducción y distribución de agua;
-
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
-
-VII. Trabajo sexual;
-
-VIII. Explotaciones pecuarias;
-
-IX. Centros penitenciarios;
-
-X. Servicios de baños públicos;
-
-XI. Centros de reunión y espectáculos;
-
-XII. Servicios de salones de belleza y peluquerías;
-
-XIII. Establecimientos de hospedaje;
-
-XIV. Transporte estatal y municipal;
-
-XV. Gasolineras y establecimientos de carburación; y
-
-XVI. Las demás que establezcan esta Ley, la Ley General de Salud y otras disposiciones legales aplicables.
+El Sistema Municipal de Protección Civil como parte integrante del Sistema Nacional y Estatal de la misma materia, establecerá las instancias, lineamientos y objetivos necesarios para la procuración de la Protección Civil.
 
 ###### Artículo 4.
 
-Es competencia del Poder Ejecutivo del Estado y, en su caso, de las autoridades en materia de salud, ejercer el control y regulación sanitaria de los establecimientos y actividades enunciadas en el artículo anterior, mediante la realización de acciones de vigilancia y verificación de establecimientos, aplicación de medidas de seguridad, imposición de sanciones y, en general todos aquellos actos que tengan por objeto prevenir riesgos y daños a la salud de la población.
+Es obligación de todas las Dependencias y Entidades de la Administración Pública Municipal, así como también de los organismos, asociaciones, sectores sociales y privados, y de cualquier persona que resida, habite o transite en el Municipio, el cooperar de manera coordinada con las Autoridades competentes, en la consecución de la Protección Civil.
 
 ###### Artículo 5.
 
-Son autoridades sanitarias en el Estado:
+Para los efectos de este ordenamiento, se consideran autoridades de protección civil en el Municipio a:
 
-I. El Gobernador del Estado;
+I.- El Republicano Ayuntamiento del Municipio de Monterrey;
 
-II. El Consejo de Salud del Estado de Querétaro;
+II.- El Presidente Municipal;
 
-III. El titular de la Secretaría de Salud del Estado de Querétaro;
+III.- El Secretario del Republicano Ayuntamiento;
 
-IV. El organismo público descentralizado denominado Servicios de Salud del Estado de Querétaro (SESEQ);
+IV.- El Director Municipal de Protección Civil;
 
-V. Los ayuntamientos, en su respectivo ámbito de competencia; y
+V.- El Consejo Municipal de Protección Civil; y
 
-VI. La Dirección de Fomento y Regulación Sanitaria.
+VI.- Los Titulares de las Dependencias Municipales, cuyas funciones infieran directa o indirectamente en la protección civil del Municipio.
 
 ###### Artículo 6.
 
-El Sistema de Salud del Estado de Querétaro tendrá como principal objetivo, prestar los servicios de salud en el Estado a la población en general y asegurar el acceso efectivo a dichos servicios a las comunidades indígenas, mediante la ampliación de la cobertura.
+El presupuesto de egresos municipal deberá contemplar las partidas que se estimen necesarias para el cumplimiento de las acciones que se establecen en el presente Reglamento, así como las que se deriven de su aplicación.
 
 ###### Artículo 7.
 
-El Sistema de Salud del Estado de Querétaro, con la intervención del Comité de Planeación para el Desarrollo del Estado de Querétaro, definirá los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud en el Estado, de conformidad con lo establecido en la presente Ley.
+Para los efectos de este Reglamento se entiende por:
+
+I.- Agentes Destructivos.- A los fenómenos de carácter geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico, y socio-organizativo que pueden producir o produzcan riesgo, alto riesgo, emergencia o desastre.
+
+II.- Alto Riesgo.- A la inminente o muy probable ocurrencia de una emergencia o desastre.
+
+III.- Apoyo.- Al conjunto de actividades administrativas destinadas a la prevención, el auxilio y la recuperación de la población ante situaciones de emergencia o desastre.
+
+IV.- Atlas de Riesgos.- Es el documento en el cual se integra la panorámica de los riesgos actuales y probables a los que están expuestos los habitantes y personas que transiten por el Municipio de la Ciudad de Monterrey así como de sus bienes y el medio ambiente; en él se reunirá la información relativa a los diferentes agentes perturbadores de origen natural, como los geológicos y los hidrometeorológicos y los inducidos por el hombre, como los químicos, los sanitarios y los socio-organizativos que se susciten o exista el riesgo de realizarse en el marco geográfico del territorio Municipal.
+
+V.- Auxilio.- Las acciones destinadas primordialmente a salvaguardar la vida, salud y bienes de las personas; la planta productiva; y a preservar los servicios públicos y el medio ambiente, ante la presencia de desastres. Estas acciones son de: alertamiento; evaluación de daños; planes de emergencia; seguridad; búsqueda, salvamento y asistencia; servicios estratégicos, equipamiento y bienes; salud; aprovisionamiento; comunicación social de emergencia; reconstrucción inicial y vuelta a la normalidad.
+
+VI.- Damnificado.- A la persona que sufre en su integridad física o en sus bienes, daños de consideración provocados directamente por los efectos de un desastre; también se considerarán damnificados a sus dependientes económicos. Es aplicable este concepto, a la persona que por la misma causa haya perdido su ocupación o empleo, requiriendo consecuentemente del apoyo gubernamental para sobrevivir en condiciones dignas.
+
+VII.- Desastre.- Al evento determinado en tiempo y espacio en el cual, la sociedad o una parte de ella, sufre daños severos tales como: pérdida de vidas, lesiones a la integridad física de las personas, daño a la salud, afectación de la planta productiva, daños materiales, daños al medio ambiente, imposibilidad para la prestación de servicios públicos; de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad. También se le considera calamidades públicas.
+
+VIII.- Emergencia.- La situación derivada de fenómenos naturales, actividades humanas o desarrollo tecnológico que pueden afectar la vida y bienes de la población, la planta productiva, los servicios públicos y el medio ambiente, cuya atención debe ser inmediata.
+
+IX.- Evacuación.- La medida de aseguramiento por alejamiento de la zona de peligro, en la cual debe prevalecer la colaboración de la población civil de manera individual o en grupos.
+
+X.- Establecimientos.- A las escuelas, oficinas, empresas, fábricas, industrias, almacenes, hoteles, moteles, centros de estudio, centros de salud, comercios, oficinas públicas y privadas, teatros, estadios, salones de fiesta, así como a cualquier otro local público o privado y, en general, a cualquier instalación, construcción, servicio u obra, en los que debido a su propia naturaleza, al uso a que se destine, o a la concurrencia masiva de personas, pueda existir riesgo. Para los efectos de este Reglamento, existen establecimientos de competencia Municipal y Estatal, y otros de competencia Federal.
+
+XI.- Grupos Voluntarios.- A las organizaciones y asociaciones legalmente constituidos y que cuentan con el reconocimiento oficial, cuyo objeto social sea prestar sus servicios en acciones de protección civil de manera comprometida y altruista, sin recibir remuneración alguna, y que para tal efecto cuentan con los conocimientos, preparación y equipos necesarios e idóneos.
+
+XII.- Mapa de Riesgos.- Es el documento en el cual se describe mediante simbología, el tipo de riesgo a que está expuesto cada zona o región del Municipio, mediante su identificación, clasificación y ubicación, y el cual permite a los diversos organismos de auxilio y apoyo a la población civil poder brindar una respuesta oportuna, adecuada y coordinada en su situación de emergencia causada por fenómenos de origen natural o inducidos por el hombre.
+
+XIII.- Mitigación.- La disminución de los daños y efectos causados por un siniestro o desastre.
+
+XIV.- Municipio.- El Municipio de Monterrey, Nuevo León.
+
+XV.- Plan de Contingencias: El documento que contempla el que hacer antes, duran te y después de una situación de emergencia, riesgo o desastre, así como las acciones que hay que desarrollar en apoyo y auxilio a la población, así como las acciones de regreso a la normalidad.
+
+XVI.- Prevención.- A las acciones, principios, normas, políticas y procedimientos, tendientes a disminuir o eliminar riesgos o altos riesgos, así como para evitar desastres y mitigar su impacto destructivo sobre la vida, la salud, bienes de las personas, la planta productiva, los servicios públicos y el medio ambiente.
+
+XVII.- Protección Civil.- Al conjunto de acciones, principios, normas, políticas y procedimientos preventivos o de auxilio, recuperación y apoyo, tendientes a proteger la vida, la salud y el patrimonio de las personas, la planta productiva, la prestación de servicios públicos y el medio ambiente; realizadas ante los riesgos, altos riesgos, emergencias o desastres; que sean producidos por causas de origen natural, artificial o humano, llevados a cabo por las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y en general, por todas las personas que por cualquier motivo residan, habiten o transiten en el Municipio.
+
+XVIII.- Recuperación.- Al proceso orientado a la reconstrucción y mejoramiento del sistema afectado (población y entorno), así como a la reducción del riesgo de ocurrencia y la magnitud de los desastres futuros. Se logra con base en la evaluación de los daños ocurridos, en el análisis y la prevención de riesgos y en los planes de desarrollo establecidos.
+
+XIX.- Riesgo.- La probabilidad de peligro o contingencia de que se produzca un desastre.
+
+XX.- Rehabilitación.- El conjunto de acciones que contribuyen al restablecimiento de la normalidad en las zonas afectadas por alto riesgo, emergencia, siniestro o desastre y a la reanudación de los servicios o actividades socio-económicas.
+
+XXI.- Salvaguarda.- Las acciones destinadas primordialmente a proteger la vida, salud y bienes de las personas; la planta productiva y a preservar los servicios públicos y el medio ambiente, ante la inminencia de un siniestro o desastre o la presencia de éstos.
+
+XXII.- Siniestro.- El evento de ocurrencia cotidiana o eventual determinada en tiempo y espacio en el cual uno o varios miembros de la población sufren un daño violento en su integridad física o patrimonial de tal manera que se afecta su vida normal.
 
 ###### Artículo 8.
 
-El Consejo Estatal de Salud, es el órgano de convergencia de las dependencias e instituciones de carácter público y privado que conforman el sector salud, para planear, implantar acciones, promover la participación de la ciudadanía en la solución de los problemas de salud y evaluar el impacto de los servicios en la materia, con el fin de coadyuvar en el mejoramiento del nivel de vida de los habitantes de la Entidad.
+Corresponde al R. Ayuntamiento en materia de Protección Civil:
+
+I. Aprobar las reformas al presente Reglamento;
+
+II. Vigilar que en el presupuesto anual se destinen las partidas necesarias para el desarrollo del Sistema Municipal de Protección Civil;
+
+III. Aprobar los Manuales y Bases Técnicas a que se refiere este Reglamento;
+
+IV. Aprobar el Programa Municipal de Protección Civil;
+
+V. En ausencia del Presidente Municipal y del Secretario del Ayuntamiento hacer las declaratorias de emergencia y de zona de desastre de nivel municipal; y
+
+VI. Las demás que le otorguen el presente Reglamento y demás ordenamientos legales aplicables.
 
 ###### Artículo 9.
 
-El Consejo de Salud del Estado de Querétaro, estará integrado de la siguiente manera:
+Corresponde al Presidente Municipal en materia de Protección Civil:
 
-I. Un Presidente, que será el titular del Poder Ejecutivo del Estado;
+I.- La aplicación del presente Reglamento; así como de la Ley de Protección Civil para el Estado de Nuevo León en el ámbito de su competencia;
 
-II. Un Secretario Ejecutivo, que será el titular de la Secretaría de Salud del Estado;
+II.- Promover la participación de la sociedad en la protección civil;
 
-III. Los siguientes Consejeros, que serán los titulares de:
+III.- Crear el Fondo Municipal de Desastres para la atención de emergencias originadas por riesgos, altos riesgos, emergencias y/o desastres. La creación y aplicación de este Fondo, se hará conforme a las disposiciones presupuestales y legales aplicables;
 
-a) Servicios de Salud del Estado de Querétaro, en el caso de que se trate de persona distinta al Secretario de Salud del Estado.
+IV.- Crear un Patronato Especial, responsable del acopio, administración y aplicación de los canales de distribución de los donativos de bienes y demás recursos que se recauden, con motivo de apoyo y auxilio a la población y/o comunidades afectadas por algún siniestro, sea éste de origen natural o causado por el hombre;
 
-b) La Secretaría de Gobierno.
+V.- Proponer al Republicano Ayuntamiento la inclusión de acciones y programas sobre la materia, en el Plan de Desarrollo Municipal;
 
-c) De la Comisión Ordinaria competente en materia de salud, del Poder Legislativo del Estado.
+VI.- Celebrar convenios de colaboración y/o coordinación en materia de Protección Civil; y
 
-d) La Delegación Estatal de (sic) Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
-
-e) La Delegación Estatal del Instituto Mexicano del Seguro Social.
-
-f) La Coordinación Sectorial de la Secretaría de Salud.
-
-g) La Delegación en Querétaro de la Cruz Roja.
-
-h) El Colegio de Médicos del Estado de Querétaro.
-
-i) El Colegio de Psicólogos del Estado de Querétaro.
-
-j) El Colegio de Odontólogos del Estado de Querétaro; y
-
-IV. Los siguientes Vocales:
-
-a) El Presidente de la Mesa Directiva de Municipio Saludable.
-
-b) El titular de la Unidad de Protección Civil.
-
-c) El titular o representante de los servicios médicos de la Secretaría de la Defensa Nacional, Delegación Querétaro.
-
-d) El titular o representante de los servicios médicos de la Secretaría de Comunicaciones y Transportes, Delegación Querétaro.
-
-e) El titular o encargado del área de salud de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, Delegación Querétaro.
-
-f) El titular del Consejo Estatal de Población.
-
-g) El Rector o un representante de la Universidad Autónoma de Querétaro.
-
-h) El titular de la Comisión Estatal de Arbitraje Médico.
-
-i) El titular del Consejo de Concertación Ciudadana para la Salud.
-
-j) Los presidentes de los consejos municipales de salud en el Estado.
-
-k) El titular de la Junta de Asistencia Privada.
-
-l) El titular de Saneamiento y Regulación Sanitaria.
-
-m) El Director de Servicios Médicos de los Servicios de Salud del Estado de Querétaro.
-
-n) El Director de servicios hospitalarios de los Servicios de Salud del Estado de Querétaro.
-
-o) El Director de Finanzas de los Servicios de Salud del Estado de Querétaro.
-
-p) El Director de Planeación de los Servicios de Salud del Estado de Querétaro.
-
-q) El Director de Recursos Humanos de los Servicios de Salud del Estado de Querétaro.
-
-r) El Director Jurídico de la Secretaría de Salud o de los Servicios de Salud del Estado de Querétaro, en su caso.
-
-s) El titular del Consejo Estatal contra las Adicciones.
-
-t) El Presidente de la asociación Farmacéutica de Querétaro, A.C.
-
-Conforme a las necesidades que puedan presentarse a futuro, podrán integrarse a las vocalías otros representantes de las instancias federales, estatales y municipales, así como del sector social y privado, a invitación del titular de la Secretaría de Salud del Estado.
+VII.- Las demás que disponga el presente Reglamento y los demás ordenamientos jurídicos, aplicables en materia de Protección Civil.
 
 ###### Artículo 10.
 
-Podrán asistir a las sesiones ordinarias, a invitación del Presidente del Consejo o del Secretario Ejecutivo, ponentes expertos, representantes de instituciones de salud o académicas y de agrupaciones asistenciales, relacionadas con los temas o asuntos a tratar en calidad de invitados.
+Corresponde al Secretario del R. Ayuntamiento en materia de Protección Civil:
+
+I.- Fungir como Secretario Ejecutivo del Consejo Municipal de Protección Civil;
+
+II.- En ausencia del Presidente Municipal realizar las declaratorias de emergencia y de zonas de desastre de nivel municipal; y,
+
+III.- Las demás que le otorguen el presente Reglamento y demás ordenamientos legales aplicables.
 
 ###### Artículo 11.
 
-El cargo de miembros del Consejo Estatal de Salud será honorífico; todos tienen derecho a voz y voto, debiendo nombrar a un suplente con carácter permanente, quien contará con facultades decisorias que le permitan adoptar los acuerdos que correspondan.
+Para los efectos de este Reglamento se considera de orden público e interés social:
+
+I.- El establecimiento y consecución de la protección civil en el Municipio;
+
+II.- La elaboración, aplicación, evaluación y difusión del Programa Municipal de Protección Civil; y
+
+III.- Las acciones de capacitación, prevención, auxilio, recuperación y apoyo que para el cumplimiento del presente Reglamento, se realicen.
 
 ###### Artículo 12.
 
-Para el cumplimiento de su objeto, el Consejo Estatal de Salud, tendrá las siguientes atribuciones:
-
-I. Dirigir acciones encaminadas a la realización y actualización del diagnóstico de salud estatal;
-
-II. Planear propuestas de financiamiento complementario que resuelvan de manera integral problemas de salud no contemplados o emergentes;
-
-III. Establecer mecanismos de coordinación sectorial e intersectorial en el Estado, en materia de salud;
-
-IV. Regular los comités, grupos de trabajo o mecanismos de interacción que en materia de salud existan en el Estado, así como la creación de las organizaciones que sean necesarias con los sectores público, social y privado;
-
-V. Dar seguimiento a los acuerdos, convenios y aplicación de reglamentos y normas oficiales mexicanas de carácter sectorial, según corresponda;
-
-VI. Coordinar sus acciones con el Consejo Nacional de Salud y con los Consejos Municipales de Salud, de acuerdo a los procesos de descentralización de los servicios de salud;
-
-VII. Coordinar las acciones conjuntas de los programas prioritarios de salud y de los procesos de descentralización;
-
-VIII. Fortalecer las campañas, cruzadas y acciones conjuntas o intersectoriales;
-
-IX. Promover y supervisar la aplicación de las normas de calidad en la atención de los problemas de salud de la población;
-
-X. Promover acciones en materia de saneamiento básico y salubridad general;
-
-XI. Determinar las necesidades de los recursos indispensables para el desarrollo de los programas sectoriales de salud;
-
-XII. Vigilar el adecuado aprovechamiento de los recursos sectoriales y asistenciales destinados a la salud;
-
-XIII. Evaluar el impacto de las acciones sectoriales y de coordinación con los sectores público, social y privado, tanto en el ámbito estatal como en el municipal;
-
-XIV. Definir los mecanismos y acciones para la creación y actualización del registro de técnicos en urgencias médicas y de las unidades móviles tipo ambulancia, así como el control, la supervisión y la evaluación de sus actividades, en coordinación con los sectores público, privado y social;
-
-XV. Emitir las disposiciones complementarias sobre áreas o modalidades de la investigación que sean de su competencia; y
-
-XVI. Las demás facultades y obligaciones que deriven de disposiciones legales aplicables.
+Los manuales de las bases y tablas técnicas que se expidan en términos del presente ordenamiento, contendrán las disposiciones adicionales de protección civil para cada uno de los establecimientos de competencia municipal, deberán ser elaborados por la Dirección Municipal de Protección Civil, la cual los entregará al C. Presidente Municipal para que éste los presente para su estudio y aprobación, en su caso, al Republicano Ayuntamiento.
 
 ###### Artículo 13.
 
-El Secretario de Salud coordinará al organismo denominado Servicios de Salud del Estado de Querétaro, con las siguientes facultades:
+Las autoridades municipales promoverán la creación de comités especializados de emergencia, según sea la mayor presencia de riesgos ocasionados en una determinada zona por cualquiera de los cinco tipos de agentes destructivos.
 
-I. Establecer y conducir la política estatal en materia de salud, en los términos de esta Ley, en concordancia con las políticas del Sistema de Salud del Estado de Querétaro y con lo dispuesto por el Poder Ejecutivo Federal;
+## TÍTULO SEGUNDO. DEL SISTEMA Y AUTORIDADES DE PROTECCIÓN CIVIL
 
-II. Coordinar los programas de servicios de salud de las dependencias y entidades del Poder Ejecutivo del Estado;
-
-III. Impulsar los programas y servicios de salud, en los términos de los convenios realizados por las dependencias y entidades del Poder Ejecutivo del Estado;
-
-IV. Promover, coordinar y realizar la evaluación de programas y servicios de salud que le sean solicitados por el Gobernador del Estado;
-
-V. Apoyar la coordinación entre las instituciones de salud y educativas del Estado, para formar y capacitar recursos humanos en materia de salud;
-
-VI. Impulsar la actualización permanente de las disposiciones legales en materia de salud;
-
-VII. Apoyar la coordinación de los programas y servicios de salud de toda dependencia o entidad pública, en los términos de la legislación aplicable y de los acuerdos de coordinación que en su caso se celebren;
-
-VIII. Impulsar la descentralización de los servicios de salud y de vigilancia sanitaria, en los términos de los convenios que al efecto se suscriban con los municipios;
-
-IX. Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de salud del Estado y de aquellas cuyas acciones repercutan en la salud de la población, con sujeción a las disposiciones legales aplicables;
-
-X. Coordinar el proceso de programación de las actividades de salud en el Estado y vigilancia sanitaria; y
-
-XI. Las demás facultades que se requieran para el cumplimiento de los objetivos del Sistema de Salud del Estado de Querétaro y las que determinen las disposiciones legales aplicables.
-
-## Título Segundo. Del Sistema de Salud del Estado de Querétaro
-
-### Capítulo Primero. Disposiciones Generales
+### CAPÍTULO I. DEL SISTEMA MUNICIPAL DE PROTECCIÓN CIVIL
 
 ###### Artículo 14.
 
-La concertación de acciones entre la Secretaría de Salud y los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
-
-I. Definición de las responsabilidades que asuman los integrantes de los sectores sociales y privados;
-
-II. Determinación de las acciones de orientación, estímulo y apoyo que se requieran;
-
-III. Especificación del carácter operativo de la concertación de acciones, con reserva de las funciones de autoridad del SESEQ y de la Dirección de Fomento y Regulación Sanitaria; y
-
-IV. Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
+Se crea el Sistema Municipal de Protección Civil, como parte integrante del Sistema Estatal y del Sistema Nacional, como un órgano operativo de coordinación de acciones para la prevención, auxilio y apoyo a la población ante situaciones de emergencias o desastres en el territorio municipal, los cuales atenten contra la integridad física de las personas, sus bienes y entorno, y la afectación de la planta productiva, la destrucción de bienes materiales y el daño de la naturaleza, así como la interrupción de las funciones esenciales de la sociedad.
 
 ###### Artículo 15.
 
-La competencia de las autoridades sanitarias en la planeación, regulación, organización y funcionamiento del Sistema de Salud del Estado de Querétaro, se regirá por las disposiciones de esta Ley y demás normas legales aplicables.
+El Sistema Municipal de Protección Civil, tendrá como objetivo fundamental ser el instrumento de información, en materia de Protección Civil, que reúna en conjunto los principios, normas, políticas, métodos, procedimientos y acciones, que en esa materia se hayan vertido, así como la información relativa a los cuerpos de protección civil de los sectores público, privado o social, que operen en el municipio, su rango de operación, personal, equipo y capacidad de auxilio, que permita prevenir riesgos y altos riesgos, desarrollar mecanismos de respuesta a desastres o emergencias y planificar la logística operativa y de respuesta de aquéllos, antes, durante y después de que se hayan suscitado.
 
 ###### Artículo 16.
 
-El Poder Ejecutivo del Estado, con la participación que corresponda al Comité de Planeación para el Desarrollo del Estado y al Consejo Estatal de Salud, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios de los Sistemas Nacional y Estatal de Salud.
+El Sistema Municipal de Protección Civil se integrará enunciativamente con la información de:
+
+I.- El Consejo Municipal de Protección Civil;
+
+II.- Las Dependencias o unidades Administrativas Municipales, cuyo objeto sea la protección civil;
+
+III.- Los Grupos voluntarios;
+
+IV.- Las Unidades Internas de Protección Civil en los Establecimientos;
+
+V.- Los Programas Federal, Estatal y Municipal de Protección Civil;
+
+VI.- Los Planes Municipales de protección civil; y,
+
+VII.- En general, la información relativa a las unidades de Protección Civil, cualesquiera que sea su denominación, de los sectores público, social y privado, que operen en territorio Municipal.
 
 ###### Artículo 17.
 
-Los establecimientos para la atención médica del sector público, social o privado del Sistema de Salud del Estado de Querétaro, de acuerdo a su grado de complejidad y nivel de resolución, contarán con:
+Además de lo señalado en el artículo anterior, el Sistema Municipal de Protección Civil podrá integrarse con la información aportada por las Representaciones y Dependencias de las Administraciones Públicas Municipales, Estatales y Federal, y sus unidades descentralizadas y entidades paramunicipales, estatales y federales, que desarrollen actividades en el Municipio, tendientes a la ejecución de programas de prevención, auxilio y apoyo de la población o que atiendan asuntos relacionados con la materia.
 
-I. Un comité hospitalario de bioética que será responsable del análisis, discusión y apoyo en la toma de decisiones respecto de los problemas o dilemas bioéticos que se presenten en la práctica clínica, la atención médica o en la docencia; la elaboración de lineamientos y guías éticas institucionales para la atención y la docencia médica; y las (sic) promoción de la educación bioética permanentemente de sus miembros y del personal del establecimiento; y
-
-II. Un comité de ética en investigación que será responsable de evaluar y dictaminar los protocolos de investigación en seres humanos, formulando las recomendaciones de carácter ético que correspondan y elaborar lineamientos y guías éticas institucionales para la investigación en salud, debiendo dar seguimiento a sus recomendaciones.
-
-Los comités hospitalarios de bioética y de ética en la investigación se sujetarán a la legislación vigente y a los criterios que establezca la Comisión Nacional de Bioética. Serán interdisciplinarios y estarán integrados por personal médico de distintas especialidades y profesionales en materia de psicología, enfermería, trabajo social, sociología, antropología, filosofía o especialistas en bioética, abogados con conocimientos en el área y representantes del núcleo afectado o de personas usuarias de los servicios de salud, hasta por el número convenido de sus miembros, guardando equilibrio de género, quienes podrán estar adscritos o no a la unidad de salud o establecimiento. Se procurará que ambos comités estén conformados de modo tal que sus integrantes representen a la pluralidad académica y científica del país.
-
-En las instituciones de salud, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, se constituirá una comisión de investigación, en el caso de que se realicen investigaciones en seres humanos, un comité de ética en investigación que cumpla con lo establecido en la presente Ley; y una comisión de bioseguridad, encargada de regular el uso de radiaciones ionizantes o de técnicas de ingeniería genética.
-
-Los establecimientos en los que se extraigan órganos y tejidos o se realicen trasplantes, adicionalmente, deberán contar con un comité interno de trasplantes y con un coordinador en el área, que serán supervisados por el comité hospitalario de bioética a que se refiere esta Ley.
-
-### Capítulo Segundo. De la distribución de competencias
+### CAPÍTULO II. DEL CONSEJO MUNICIPAL DE PROTECCIÓN CIVIL
 
 ###### Artículo 18.
 
-Corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría de Salud del Estado:
-
-I. En materia de salubridad general:
-
-a) Coordinar el Sistema de Salud del Estado de Querétaro y coadyuvar a su funcionamiento y consolidación.
-
-b) Formular y desarrollar programas locales de salud en el marco del Sistema de Salud del Estado de Querétaro y del Sistema Nacional de Salud, de acuerdo con los principios y objetivos de la planeación nacional.
-
-c) Celebrar con la Federación, los acuerdos de coordinación en materia de salubridad general concurrente y los convenios para la ejecución y operación de obras y la prestación de servicios sanitarios, cuando el desarrollo económico y social lo haga necesario; y con los municipios, los convenios que se requieran para la prestación de servicios sanitarios locales.
-
-d) Operar los servicios de salubridad general a que se refiere la presente Ley.
-
-e) Promover, fomentar y apoyar acciones en materia de salubridad y los convenios que al efecto se celebren.
-
-f) Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y demás disposiciones legales aplicables;
-
-II. En materia de salubridad local:
-
-a) Vigilar la sanidad en los límites con otras entidades federativas, en los términos de la presente Ley y de los convenios respectivos.
-
-b) Ejercer el control sanitario de los establecimientos y servicios de salubridad local a que se refiere la presente Ley.
-
-c) Promover, fomentar y apoyar las acciones en materia de salubridad local a cargo de los municipios, con sujeción a las políticas nacional y estatal de salud y en los convenios que se suscriban.
-
-d) Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y demás disposiciones aplicables.
-
-Cuando se requiera articular y conjugar esfuerzos para la elaboración y aplicación de planes y programas de servicios de salud en la Entidad, el Gobernador del Estado a través de las dependencias correspondientes, dispondrá lo conducente para establecer los procedimientos de coordinación entre la Secretaría, la Dirección de Fomento y Regulación Sanitaria y el SESEQ.
+El Consejo Municipal de Protección Civil es la institución de coordinación interna, de consulta, colaboración, participación, opinión, planeación, aplicación y supervisión del Sistema Municipal de Protección Civil, que tiene como fin proteger la vida, la salud y el patrimonio de las personas; la planta productiva, la prestación de servicios públicos y el medio ambiente; ante los riesgos, altos riesgos, emergencias o desastres, producidos por causas de origen natural o humano.
 
 ###### Artículo 19.
 
-Es competencia de la Secretaría de Salud del Estado:
+El Consejo Municipal de Protección Civil, se constituye por:
 
-I. Establecer y conducir la política estatal en materia de salud, en los términos de esta Ley, de conformidad con las políticas del Sistema de Salud del Estado de Querétaro y con lo dispuesto por el Poder Ejecutivo Federal;
+I.- La Directiva del Consejo, la cual se integra por:
 
-II. Coordinar los programas de servicios de salud de las dependencias y entidades del Poder Ejecutivo del Estado;
+a).- Un Presidente, que será el Presidente Municipal en funciones;
 
-III. Impulsar los programas y servicios de salud, en los términos de los convenios celebrados con las dependencias y entidades de la administración pública estatal;
+b).- Un Secretario Ejecutivo, que será el Secretario del Republicano Ayuntamiento;
 
-IV. Promover, coordinar y realizar la evaluación de programas y servicios de salud que le sea solicitada por el Gobernador del Estado;
+c).- Un Secretario Técnico, que será el Director Municipal de Protección Civil;
 
-V. Apoyar la coordinación entre las instituciones de salud y educativas del Estado, para formar y capacitar recursos humanos en materia de salud;
+d).- El Presidente de la Comisión de Protección Civil del Republicano Ayuntamiento, como Vocal;
 
-VI. Impulsar la actualización permanente de las disposiciones legales en materia de salud;
+e).- El Secretario Técnico Municipal, como Vocal;
 
-VII. Apoyar la coordinación de los programas y servicios de salud de toda dependencia o entidad pública, en los términos de la legislación aplicable y de los acuerdos de coordinación que en su caso se celebren;
+f).- El Secretario de Servicios Públicos Municipales, como Vocal;
 
-VIII. Impulsar la descentralización de los servicios de salud y de vigilancia sanitaria, en los términos de los convenios que al efecto se suscriban con los municipios que no cuenten con los elementos necesarios para afrontar los servicios básicos de salud;
+g).- El Secretario de Desarrollo Urbano y Ecología, como Vocal;
 
-IX. Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de salud del Estado y de aquellas cuyas acciones repercutan en la salud de la población, con sujeción a las disposiciones legales aplicables;
+h).- El Secretario de Policía Preventiva Municipal, como Vocal;
 
-X. Coordinar el proceso de programación de las actividades de salud en el Estado y vigilancia sanitaria; y (sic)
+I).- El Secretario de Vialidad y Tránsito Municipal, como Vocal;
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+j).- El Secretario de Desarrollo Municipal, como Vocal;
 
-XI. Implementar programas en materia de nutrición, tendientes a disminuir los índices de malnutrición en la población y en particular a los menores de edad y adolescentes en el Estado de Querétaro; y
+k).- El Director de Salud, como Vocal;
 
-XII. Las demás facultades que se requieran para el cumplimiento de los objetivos del Sistema de Salud del Estado de Querétaro y las que determinen las disposiciones generales aplicables.
+l).- Los representantes de las dependencias federales, estatales y municipales establecidas en el Municipio que determine el propio Consejo, como vocales; y,
+
+m).- Los Coordinadores de las Unidades o Grupos de Trabajo creados dentro de la Dirección Municipal de Protección Civil, como Vocales.
+
+II.- Los Representantes de los Grupos Voluntarios como los diferentes cuerpos de auxilio formados en patronatos o Asociaciones Civiles; que operen en el Municipio, que prestarán auxilio al Consejo Municipal de Protección Civil, interviniendo en las sesiones con voz pero sin voto.
+
+Entre los grupos voluntarios, se encuentran los grupos de rescate, los cuales siempre serán coordinados por la Dirección Municipal de Protección Civil, a fin de que realicen la función correspondiente dentro del Programa Municipal de Protección Civil.
+
+Cada Consejero, con excepción del Secretario Técnico de dicho Consejo, nombrará un suplente, que asistirá cuando faltare aquel; en el caso del Presidente de la Comisión de Protección Civil del Republicano Ayuntamiento, lo suplirá el Secretario de dicha Comisión.
+
+A convocatoria del Consejo, se invitará a participar a los representantes de las Organizaciones de los sectores social y privado; y de las instituciones de Educación Superior, Públicas y Privadas, ubicadas en el Municipio, interviniendo en las sesiones con voz pero sin voto.
+
+Los cargos de Consejeros serán honorificos.
 
 ###### Artículo 20.
 
-Compete a los ayuntamientos:
+El Consejo Municipal de Protección Civil tendrá las siguientes atribuciones:
 
-I. Suscribir los convenios con el Poder Ejecutivo del Estado, en materia de salud y prestación de servicios;
+I.- Conducir y Operar el Sistema Municipal de Protección Civil;
 
-II. Asumir la administración de los establecimientos de salud que descentralice en su favor el Poder Ejecutivo del Estado, en los términos de las leyes aplicables y de los convenios que a los efectos (sic) se celebren;
+II.- Constituirse y fungir como órgano de consulta en materia de protección civil, y el mecanismo de integración, concertación y coordinación de los sectores público, social y privado, en la ejecución para la prevención y atención de desastres;
 
-III. Formular y desarrollar programas municipales de salud, en el marco del Sistema Nacional de Salud, del Sistema de Salud del Estado de Querétaro y de acuerdo con los principios y objetivos de los planes nacional, estatal y municipales de desarrollo;
+III.- Discutir y aprobar el Plan Municipal de Protección Civil para su posterior presentación a través de su Presidente, al Republicano Ayuntamiento;
 
-IV. Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y las demás disposiciones generales aplicables; y (sic)
+IV.- Establecer mecanismos de coordinación del Sistema Municipal con los Sistemas Municipales de Protección Civil del Estado, el Sistema Estatal de Protección Civil y el Sistema Nacional de Protección Civil; así como proponer la homologación de las disposiciones jurídicas de la materia, con el fin de establecer criterios y procedimientos para una acción uniforme de las personas e instituciones públicas, privadas, sociales y académicas;
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+V.- Fomentar la cultura de Protección Civil y autoprotección, así como la participación activa y responsable de los habitantes del Municipio, con la colaboración de los sectores social, público, privado y académico en la materia, formulando los programas y acciones necesarios para ello;
 
-V. Promover, formular y desarrollar programas, dentro de su respectivo ámbito de competencia, contra la malnutrición; y
+VI.- Asesorar a la Dirección Municipal de Protección Civil en la integración, mantenimiento y actualización del Atlas y Mapa de Riesgos en el Municipio, y las posibles consecuencias que pueden derivarse de cada uno de ellos, a efecto de organizar acciones para eliminar aquéllos, o bien, disminuir el impacto de los mismos en la población y sus bienes;
 
-VI. Las demás atribuciones que se deriven de esta Ley y otras disposiciones legales en la materia.
+VII.- Vigilar el adecuado uso y aplicación de los recursos que se asignen a la prevención, apoyo, auxilio y recuperación a la población ante un desastre;
+
+VIII.- Elaborar, publicar y distribuir material informativo de protección civil, a efecto de difundirlo con fines de prevención y orientación;
+
+IX.- Fomentar la mejora y adecuación del Sistema Municipal de Protección Civil;
+
+X.- Impulsar acciones de capacitación especializada en operaciones de rescate dentro de los cuerpos institucionales de Protección Civil, así como la capacitación del mayor número de sectores de la población, para que los ciudadanos conozcan las medidas preventivas de accidentes y de cómo actuar cuando estos ocurran; y
+
+XI.- Las demás atribuciones afines a éstas, que establezcan las leyes y reglamentos en la materia.
 
 ###### Artículo 21.
 
-Los ingresos que obtenga el Estado por la prestación de los servicios en materia de salubridad general y local, quedarán sujetos a lo que se disponga en los acuerdos de coordinación con la Secretaría de Salud y lo que determine la legislación fiscal aplicable.
+El Consejo Municipal de Protección Civil sesionará ordinariamente por lo menos dos veces al año, en forma extraordinaria podrá sesionar en cualquier momento y cuantas veces se requiera, pudiendo el Consejo constituirse en sesión permanente cuando así lo determine necesario.
+
+En caso de ausencia del Presidente del Consejo, las sesiones ordinarias o extraordinarias serán dirigidas por el Secretario Ejecutivo.
+
+Para que las sesiones sean válidas, se requiere la asistencia de cuando menos la mitad más uno de los integrantes de la Directiva del Consejo, exceptuando lo anterior en caso de presentarse alto riesgo o declaratoria de zona de desastre a nivel municipal o de aplicación de recursos estatales, para lo cual sesionará con el número de integrantes que asista a la sesión.
 
 ###### Artículo 22.
 
-El Gobernador del Estado podrá celebrar convenios de coordinación y cooperación sanitaria con los gobiernos de los estados circunvecinos, sobre aquellas materias que sean de interés común. Asimismo, los municipios del Estado podrán celebrar, entre ellos, convenios sobre materias sanitarias que sean de competencia municipal.
+Para la aprobación de los asuntos planteados al Consejo, se requiere el voto de la mitad más uno de los asistentes a la sesión, teniendo el Presidente del Consejo, voto de calidad en caso de empate.
+
+Una vez realizada la votación y aprobado el asunto planteado, se emitirá la resolución o el acuerdo respectivo.
 
 ###### Artículo 23.
 
-El Gobernador del Estado podrá celebrar acuerdos de coordinación con la Secretaría de Salud Federal, a fin de que ésta asuma temporalmente, la prestación de servicios, el ejercicio de las funciones de control y regulación sanitaria a que se refiere la Ley General de Salud.
+La convocatoria para las sesiones contendrá referencia expresa de la fecha, lugar y hora en que se celebrará, la naturaleza de la sesión y el orden del día que contendrá, por lo menos, los siguientes puntos:
+
+I.- Verificación del quórum para declarar la apertura de la sesión;
+
+II.- Lectura y, en su caso, aprobación del acta de la sesión anterior; y
+
+III.- Los asuntos a tratar.
+
+De cada sesión se levantará acta que contenga las resoluciones y acuerdos tomados.
 
 ###### Artículo 24.
 
-Los municipios, conforme con las leyes aplicables, podrán promover la desconcentración de los servicios sanitarios básicos de su competencia, a sus correspondientes delegaciones municipales.
+Corresponde al Presidente del Consejo Municipal de Protección Civil:
+
+I.- Presidir las sesiones del Consejo;
+
+II.- Ordenar se convoque a sesiones ordinarias y extraordinarias;
+
+III.- Proponer el orden del día a que se sujetará la sesión;
+
+IV.- Vigilar el cumplimiento de los acuerdos;
+
+V.- Contar con voto de calidad en caso de empate;
+
+VI.- Presentar al Republicano Ayuntamiento, para su aprobación, el Proyecto del Programa Municipal de Protección Civil, del cual una vez aprobado, procurará su más amplia difusión en el Municipio;
+
+VII.- Vincularse, coordinarse y, en su caso, solicitar apoyo a los Sistemas Estatal y Nacional de Protección Civil, para garantizar mediante una adecuada planeación, la seguridad, prevención, auxilio y rehabilitación de la población civil y su entorno ante algún riesgo, alto riesgo, emergencia o desastre;
+
+VIII.- Coordinarse con las Dependencias Estatales y Federales y con las instituciones privadas y del sector social, en la aplicación y distribución de la ayuda estatal, federal, internacional y privada, que se reciba en caso de alto riesgo, emergencia o desastre;
+
+IX.- Evaluar ante una situación de emergencia, alto riesgo o desastre, la capacidad de respuesta del Municipio y, en su caso, la procedencia para solicitar apoyo a los Gobiernos Estatal y Federal;
+
+X.- Ordenar la integración y coordinación de los equipos de trabajo para dar respuesta frente a emergencias y desastres, especialmente para asegurar el mantenimiento y pronto restablecimiento de los servicios fundamentales;
+
+XI.- Hacer la declaratoria formal de emergencia, en los términos y condiciones ordenados en el Título Quinto, Capítulo I de este Reglamento;
+
+XII.- Solicitar al Gobierno Estatal y/o Federal, formular la declaratoria formal de zona de desastre de aplicación de recursos estatales y/o federales en los términos y condiciones ordenados en el Título Quinto, Capítulo II de este Reglamento;
+
+XIII.- Autorizar:
+
+a) La puesta en operación de los programas de emergencia para los diversos factores de riesgo; y
+
+b) La difusión de los avisos y alertas respectivas.
+
+XIV.- Convocar al Centro Municipal de Operaciones; y
+
+XV.- Las demás que le confiera el presente Reglamento y las que le otorgue el Consejo.
 
 ###### Artículo 25.
 
-El Poder Ejecutivo del Estado, aportará los recursos materiales, humanos, técnicos y financieros que sean necesarios para la operación de los servicios de salubridad general y local que queden comprendidos en los acuerdos de coordinación que al efecto se celebren.
+Corresponde al Secretario Ejecutivo del Consejo Municipal de Protección Civil:
 
-Los recursos que se aporten quedarán expresamente afectos a los fines del acuerdo respectivo y sujetos al régimen legal que les corresponda. La gestión de los mismos quedará a cargo de la estructura administrativa que establezcan coordinadamente la Federación y el Estado.
+I.- En ausencia del Presidente propietario, presidir las sesiones del Consejo, y realizar las declaratorias formales de emergencia;
+
+II.- Dar seguimiento a las disposiciones y acuerdos del Consejo;
+
+III.- Ejercer la representación legal del Consejo;
+
+IV.- Elaborar y certificar las actas del Consejo, y dar fe de su contenido; así como conservar en un archivo las mismas, archivo el cual estará bajo su custodia y cuidado;
+
+V.- Informar al Consejo sobre el estado que guarde el cumplimiento de los Acuerdos y resoluciones; y
+
+VI.- Las demás que le confieran el presente Reglamento, los demás ordenamientos aplicables y las que provengan de acuerdos del Consejo, o del Presidente Municipal.
 
 ###### Artículo 26.
 
-Las bases y modalidades del servicio coordinado de las atribuciones del Poder Ejecutivo del Estado y de los Municipios en la prestación de servicios de salubridad general, se establecerán en los convenios que al efecto se celebren, en los términos de lo establecido en la Constitución Política del Estado de Querétaro, de esta Ley y de las demás disposiciones legales aplicables.
+Corresponde al Secretario Técnico del Consejo Municipal de Protección Civil:
 
-### Capítulo Primero. Disposiciones generales
+I.- Elaborar y someter a la consideración del Consejo Municipal de Protección Civil el programa de trabajo de dicho Consejo;
+
+II.- Previo acuerdo del Presidente del Consejo, formular el orden del día para cada sesión;
+
+III.- Convocar por escrito a las sesiones ordinarias y extraordinarias del Consejo, cuando su Presidente así lo determine;
+
+IV.- Verificar que el quórum legal para cada sesión del Consejo, se encuentre reunido y comunicarlo al Presidente del Consejo;
+
+V.- Registrar las resoluciones y acuerdos del Consejo, y sistematizarlos para su seguimiento;
+
+VI.- Elaborar y rendir al Consejo un informe anual de los trabajos del mismo;
+
+VII.- En ausencia del Secretario Ejecutivo, ejercer la representación legal del Consejo;
+
+VIII.- Conducir operativamente el Sistema Municipal de Protección Civil;
+
+IX.- Reunir y mantener actualizada la información del Sistema Municipal de Protección Civil;
+
+X.- Rendir cuenta al Consejo del estado operativo del Sistema Municipal de Protección Civil;
+
+XI.- Llevar el registro de los recursos disponibles para casos de emergencias y desastres; y
+
+XII.- Los demás que les confieran las Leyes, el presente Reglamento, el Consejo, su Presidente o su Secretario Ejecutivo.
+
+### CAPÍTULO III. DEL CENTRO MUNICIPAL DE OPERACIONES
 
 ###### Artículo 27.
 
-Los servicios de salud se clasifican en tres tipos:
-
-I. De atención médica;
-
-II. De salud pública; y
-
-III. De asistencia social.
+Cuando se presente un alto riesgo, emergencia o desastre en el Municipio, el Consejo Municipal de Protección Civil, se erigirá, previa convocatoria de su Presidente o en su ausencia, del Secretario Ejecutivo, en Centro Municipal de Operaciones, al que se podrán integrar los representantes de los sectores social y privado y grupos voluntarios, cuya participación sea necesaria para el auxilio y recuperación de la población de la zona afectada.
 
 ###### Artículo 28.
 
-Conforme a las prioridades del Sistema de Salud del Estado de Querétaro, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
+Compete al Consejo Municipal de Protección Civil, como Centro Municipal de Operaciones:
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
+I.- Coordinar y dirigir, técnica y operativamente, la atención del alto riesgo, emergencia o desastre;
 
-### Capítulo Segundo. De los establecimientos de productos y servicios
+II.- Realizar la planeación táctica, logística y operativa, de los recursos necesarios, su aplicación, y las acciones a seguir;
+
+III.- Aplicar el plan de emergencia o los programas aprobados por el Consejo, y asegurar la adecuada coordinación de las acciones que realicen los grupos voluntarios; y
+
+IV.- Establecer la operación de redes de comunicación disponibles en situaciones de normalidad para asegurar la eficacia de las mismas en situaciones de emergencia.
+
+### CAPÍTULO IV. DE LA DIRECCIÓN MUNICIPAL DE PROTECCIÓN CIVIL
 
 ###### Artículo 29.
 
-Para la organización y administración de los servicios de salud, estos deben ser de forma integral, universalizada, que supere los desequilibrios territoriales y sociales, bajo los principios de coordinación, eficacia, celeridad, economía y flexibilidad.
-
-Se definirán criterios de distribución de universo de usuarios tales como, la regionalización de los servicios de salud pública para la promoción y la prevención de la salud por institución; así como, el escalonamiento de los servicios de salud, en la atención médica y asistencia social, para lograr la universalización de la salud con la colaboración interinstitucional.
+La Dirección Municipal de Protección Civil, tendrá como función, proponer, dirigir, presupuestar, ejecutar y vigilar la protección civil en el Municipio, así como el control operativo de las acciones que en dicha materia se efectúen, en coordinación con los sectores público, social, privado, grupos voluntarios, y la población en general, en apoyo a las resoluciones que dicte el Consejo Municipal de Protección Civil o, en su caso, del Centro Municipal de Operaciones.
 
 ###### Artículo 30.
 
-Para los efectos del derecho a la protección de la salud, se consideran servicios básicos de salud los referentes a:
+La Dirección Municipal de Protección Civil se integrará por:
 
-I. La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
+I.- Un Director, que será nombrado por el Presidente Municipal;
 
-II. La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
+II.- Las Unidades o Departamentos operativos que sean necesarios; y
 
-III. La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
-
-IV. La atención materno-infantil;
-
-V. La planeación familiar;
-
-VI. La salud mental;
-
-VII. La prevención y el control de las enfermedades buco dentales;
-
-VIII. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
-
-IX. La promoción del mejoramiento de la nutrición atendiendo a los problemas de malnutrición;
-
-X. La asistencia social a grupos vulnerables; y
-
-XI. Las demás que establezca la presente Ley y otras disposiciones legales aplicables.
+III.- El personal técnico, administrativo u operativo que sea necesario y que autorice el presupuesto respectivo.
 
 ###### Artículo 31.
 
-El Poder Ejecutivo del Estado, vigilará que las instituciones que presten servicios de salud en la Entidad apliquen el Cuadro Básico de Insumos del Sector Salud.
+La Dirección Municipal de Protección Civil tendrá las siguientes atribuciones:
+
+I.- Elaborar y presentar para su aprobación, al Presidente del Consejo Municipal de Protección Civil el anteproyecto del Programa Municipal de Protección Civil, así como los subprogramas, planes y programas especiales derivados de aquel;
+
+II.- Elaborar el inventario y hacer posible la disponibilidad permanente del mayor número de recursos humanos y materiales disponibles en el Municipio, así como promover el equipamiento de los cuerpos de rescate para hacer frente a un riesgo, alto riesgo, emergencia o desastre; vigilar su existencia y coordinar su manejo;
+
+III.- Proponer, coordinar y ejecutar las acciones de auxilio, salvamento y recuperación para hacer frente a las consecuencias de situaciones de riesgo, alto riesgo, emergencia o desastre, procurando el mantenimiento o pronto restablecimiento de los servicios públicos prioritarios en los lugares afectados;
+
+IV.- Mantener contacto con los demás Municipios, así como con el Gobierno Estatal y/o Federal según sea el caso, para el establecimiento y/o ejecución de objetivos comunes en materia de protección civil;
+
+V.- Establecer, administrar y operar, racionando, de acuerdo a sus criterios, los productos y servicios en los centros de acopio de recursos y abastecimientos, para recibir y brindar ayuda a la población afectada por un riesgo, alto riesgo, emergencia o desastre;
+
+VI.- Participar en la innovación de avances tecnológicos, que permitan el mejor ejercicio de sus funciones;
+
+VII.- Organizar y llevar a cabo campañas y acciones de capacitación para la sociedad en materia de protección civil;
+
+VIII.- Alentar a la población a participar activamente en acciones de protección civil y coordinar dicha participación;
+
+IX.- Coadyuvar en la promoción de la cultura de protección civil, promoviendo lo conducente ante las autoridades del sector educativo;
+
+X.- Proteger y auxiliar a la ciudadanía en casos de siniestros, ya sean naturales o provocados por el hombre;
+
+XI.- Proponer las medidas y los instrumentos que permitan el establecimiento de eficientes y oportunos canales de colaboración entre la Federación, el Estado, el Municipio y los demás Municipios, en materia de protección civil;
+
+XII.- Identificar los altos riesgos que se presenten en el Municipio, integrando y elaborando el atlas y mapa de riesgos;
+
+XIII.- Proporcionar información y dar asesoría a los establecimientos, sean empresas, instituciones, organismos, asociaciones privadas y del sector social, para integrar sus unidades internas de respuesta y promover su participación en las acciones de protección civil;
+
+XIV.- Promover la integración de las Unidades Internas de Protección Civil en las Dependencias y Organismos de la Administración Pública Municipal, Estatal y de la Federal cuando estén establecidas en el Municipio, así como en los establecimientos a que se refiere la fracción XXV de éste artículo;
+
+XV.- Respetar y hacer respetar las disposiciones legales aplicables en el Municipio, en materia de protección civil, para lo cual tendrá facultades de inspección, control y vigilancia para prevenir y controlar los desastres; así como para establecer las medidas de seguridad establecidas en el presente Reglamento, mediante resolución debidamente fundada y motivada;
+
+XVI.- Llevar el registro, capacitar y coordinar la participación de los grupos voluntarios;
+
+XVII.- Establecer el subsistema de información de cobertura municipal en la materia, el cual deberá contar con mapas de riesgo y archivos históricos sobre emergencias y desastres ocurridos en el Municipio;
+
+XVIII.- En caso de alto riesgo, emergencia o desastre, formular la evaluación inicial de la magnitud de la contingencia, presentando de inmediato esta información al Presidente del Consejo Municipal de Protección Civil y al Secretario Ejecutivo;
+
+XIX.- Proponer un programa de premios y estímulos a ciudadanos u organizaciones gubernamentales, sociales, privadas y grupos voluntarios que realicen acciones relevantes en materia de protección civil;
+
+XX.- Promover en los medios de comunicación masiva, electrónicos o escritos, planes y programas de capacitación, difusión y divulgación a través de publicaciones, grabaciones, videocintas y campañas permanentes sobre temas de protección civil, que contribuyan a la formación de una cultura en la materia;
+
+XXI.- Promover la protección civil en sus aspectos normativo, operativo, de coordinación y de participación, buscando el beneficio de la población del Municipio;
+
+XXII.- Realizar acciones de auxilio y recuperación para atender las consecuencias de los efectos destructivos de un desastre;
+
+XXIII.- Coordinarse con las demás Dependencias Municipales, con los demás Municipios del Estado, con las Autoridades Estatales y con las Federales, así como con Instituciones y grupos voluntarios para prevenir y controlar riesgos, altos riesgos, emergencias, y desastres;
+
+XXIV.- Determinar e imponer las sanciones correspondientes conforme al presente Reglamento;
+
+XXV.- Ejercer acciones de inspección, control y/o vigilancia en materia de protección civil pudiéndose coordinar con otras autoridades para tales funciones; en los siguientes establecimientos de competencia Municipal:
+
+a).- Edificios departamentales de hasta cuatro unidades de vivienda;
+
+b).- Internados, asilos, conventos, fraternidades, hoteles, moteles, campamentos turísticos, centros vocacionales (sic), casas de asistencia, y demás edificaciones que sirvan como habitación colectiva, ya sea permanente o temporal, para un número no mayor de veinte personas;
+
+c).- Oficinas de servicios públicos de la Administración Pública Municipal;
+
+d).- Terrenos para estacionamientos de vehículos;
+
+e).- Parques, plazas, instalaciones deportivas y balnearios municipales;
+
+f).- Jardines de niños, guarderías, dispensarios, consultorios y capillas de velación;
+
+g).- Lienzos charros, circos o ferias eventuales;
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+h).- Establecimientos que tengan menos de mil quinientos metros cuadrados de construcción, e industrias, talleres o bodegas existentes sobre terrenos con superficie menor de mil metros cuadrados;
+
+i).- Instalaciones de electricidad y alumbrado público;
+
+j).- Drenajes hidráulicos, pluviales y de aguas residuales;
+
+k).- Equipamientos urbanos, puentes peatonales, paraderos y señalamientos urbanos;
+
+l).- Anuncios panorámicos;
+
+m).- Puestos fijos, semifijos, mercados rodantes y oferencia itinerante en donde se realice el comercio en la vía Pública dentro de la Ciudad; y
+
+n) Todos aquellos que no sean de competencia estatal o federal y que por exclusión deban ser considerados como de competencia municipal, y aquellos que surta la competencia derivada de los convenios de colaboración y/o coordinación que se celebren en términos del Artículo 9, fracción VI del presente ordenamiento, con el Estado o la Federación.
+
+XXVI.- Fungir como Representante Municipal ante el Consejo de Protección Civil del Estado de Nuevo León;
+
+XXVII.- Integrar un directorio telefónico de los funcionarios de los tres órdenes de gobierno, sector social y privado, relacionados con la materia de protección civil;
+
+XXVIII.- Proponer la actualización de leyes y reglamentos estatales y reglamentos municipales que garantice la seguridad de la población, sus bienes y la ecología;
+
+XXIX.- Brindar apoyo a las diversas Dependencias y Entidades de otros municipios, estatales y federales, Instituciones Privadas y del Sector Social, para la ejecución de tareas de salvamento y auxilio de población;
+
+XXX.- Rendir y emitir los dictámenes, acuerdos, resoluciones de medidas de seguridad, de factibilidad y demás resoluciones que le sean solicitadas y este obligado a realizar de acuerdo a lo dispuesto en el presente Reglamento y demás disposiciones legales de la materia;
+
+XXXI.- Elaborar los manuales de las bases y tablas técnicas a que se refiere el artículo 12 de este ordenamiento; y,
+
+XXXII.- Las demás que le confiera el Presidente Municipal, el presente Reglamento, los diversos ordenamientos municipales y otros ordenamientos legales, así como las que se determinen por acuerdos y resoluciones del Consejo Municipal de Protección Civil.
 
 ###### Artículo 32.
 
-El Poder Ejecutivo del Estado coadyuvará con las autoridades federales competentes, para que se garantice a la población del Estado la disponibilidad de medicamentos especiales; y con las demás dependencias estatales para que los establecimientos de los sectores público, social y privado, dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajuste a lo que al efecto establecen las leyes aplicables.
+En base a lo dispuesto por la fracción XXX del artículo anterior, la Dirección Municipal de Protección Civil, emitirá los dictámenes y resoluciones de medidas de seguridad y de factibilidad cuando legalmente esté obligada a hacerlo, y dentro de los trámites municipales que se realicen para obtener, permiso de construcción, de demolición, licencias de uso de suelo y demás trámites en los que los diversos Reglamentos Municipales determinen como requisito la emisión y presentación de un dictamen o resolución de factibilidad, en el cual se determine la viabilidad de lo solicitado.
 
 ###### Artículo 33.
 
-El Poder Ejecutivo del Estado, en coordinación con las dependencias competentes del Poder Ejecutivo Federal, auxiliará a asegurar, en la Entidad, la adecuada distribución, comercialización y fijación de los precios máximos de venta al público de los medicamentos y demás insumos de salud.
+Los dictámenes y/o resoluciones que en términos del artículo anterior emita la Dirección Municipal de Protección Civil, a excepción de las de medidas de seguridad y aquella mediante la cual se resuelva el recurso de revocación, podrán ser positivos o negativos. Serán positivos aquellos en las que se resuelva o determine que en materia de protección civil y conforme a las disposiciones de éste Reglamento y de los manuales de las bases y tablas técnicas, resulta procedente el trámite solicitado. Serán negativos aquellos en las que se resuelva o determine que en materia de protección civil y conforme a las disposiciones de éste Reglamento y de los manuales de las bases y tablas técnicas, resulta improcedente el trámite solicitado.
 
 ###### Artículo 34.
 
-La Secretaría de Salud del Estado ejercerá el control sanitario de los establecimientos, productos y servicios, de conformidad con la Ley General de Salud, sus reglamentos, normas oficiales mexicanas y con los acuerdos de coordinación, descentralización y desconcentración que se celebren.
-
-Será responsabilidad de la Secretaría de Salud del Estado, en esta materia:
-
-I. Vigilar que en los establecimientos que expendan bebidas alcohólicas, éstas ostenten las etiquetas correspondientes que garanticen la calidad sanitaria;
-
-II. Constatar que el contenido de las bebidas alcohólicas se ajuste a lo especificado en la etiqueta correspondiente; y
-
-III. Realizar muestreos, cuando el contenido de las bebidas alcohólicas no se ajusten a lo especificado en las etiquetas, para, en caso de encontrar irregularidades, hacer la remisión a la autoridad competente.
+Así mismo, la Dirección Municipal de Protección Civil emitirá dictámenes, acuerdos y/o resoluciones mediante los cuales señale, resuelva y determine las acciones que en materia de protección civil y de acuerdo a las disposiciones de este Reglamento y de los manuales de las bases y tablas técnicas, deberá realizar el solicitante de los trámites referidos en el artículo 32 de éste ordenamiento, para efectos de la procedencia de los mismos.
 
 ###### Artículo 35.
 
-La Secretaría de Salud del Estado emitirá opinión técnica respecto de las condiciones sanitarias y ubicación de establecimientos que tramiten ante la Secretaría de Gobierno del Estado, solicitud para venta de bebidas alcohólicas.
+En la redacción de las resoluciones, acuerdos y dictámenes que al efecto emita la Dirección Municipal de Protección Civil se observarán las reglas siguientes:
 
-Para emitir la opinión técnica, se tomará en consideración:
+I.- Se ocupará exclusivamente de dictaminar el trámite solicitado, establecer las medidas de seguridad o resolver el recurso promovido;
 
-I. El nivel socioeconómico y cultural del área donde se ubicará el establecimiento;
+II.- Comenzarán expresando lugar y fecha en que se dé el dictamen, acuerdo o resolución;
 
-II. El posible impacto del alcoholismo en la zona donde se ubicará el establecimiento;
+III.- Bajo la palabra RESULTANDO referirá precisa y concretamente, en párrafos numerados, la competencia de dicha Autoridad y la naturaleza u objeto del dictamen, acuerdo o resolución;
 
-III. El tipo de actividad que desarrollará el establecimiento; y
+IV.- Bajo la palabra CONSIDERANDO consignará clara y concisamente, también en párrafos numerados, los puntos de derecho con las razones y fundamentos legales y técnicos de la materia que estime procedentes y las sitas de los preceptos y ordenamientos legales que juzgue aplicables;
 
-IV. Todas aquellas circunstancias que, previa evaluación, puedan representar un riesgo a la salud de la población.
+V.- Pronunciará, por último, la parte resolutiva en la cual se establezca la procedencia o improcedencia del trámite objeto de dictamen, las medidas de seguridad a tomar y/o la procedencia o improcedencia del recurso objeto de resolución.
 
 ###### Artículo 36.
 
-Se entiende por atención médica el conjunto de servicios que se proporcionarán al individuo, con el fin de proteger, promover y restaurar su salud.
+La Dirección Municipal de Protección Civil, vigilará que los establecimientos a que se refiere este Reglamento, instalen sus propias unidades internas de respuesta, asesorándolos y coordinando sus acciones directamente o a través de las unidades municipales.
+
+Los establecimientos deberán realizar, asistidos por la Dirección Municipal de Protección Civil o de la Unidad Municipal, según corresponda, cuando menos dos veces al año, simulacros para hacer frente a riesgos, altos riesgos, emergencias o desastres.
 
 ###### Artículo 37.
 
-Las actividades de atención médica son:
+Cuando debido a la magnitud de los altos riesgos, emergencias o desastres, sea necesaria la concurrencia simultánea de las Autoridades Municipales, Estatales y/o Federales de protección civil, la Dirección Municipal de Protección Civil estará a lo que en materia de coordinación de trabajos en respuesta ante la contingencia disponga la autoridad estatal y/o federal.
 
-I. Preventivas, que incluyen las de promoción de la salud y las de protección específica;
+## TÍTULO TERCERO. DE LA PARTICIPACIÓN CIUDADANA
 
-II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno;
-
-III. De rehabilitación, que incluyen acciones tendientes a corregir las discapacidades, ya sean físicas o mentales; y
-
-IV. De urgencias.
-
-## Título Tercero. De la prestación de los servicios de salud
-
-### Capítulo Tercero. De la atención médica
+### CAPÍTULO I. DE LOS GRUPOS VOLUNTARIOS
 
 ###### Artículo 38.
 
-Para los efectos de esta Ley, los servicios de salud, atendiendo a los prestadores de los mismos, se clasifican en:
-
-I. Servicios públicos a la población en general;
-
-II. Servicios a derechohabientes de instituciones públicas de seguridad social, los que con sus propios recursos o por encargo del Poder Ejecutivo Federal, presten las mismas instituciones a otros grupos de usuarios;
-
-III. Servicios sociales y privados, sea cual fuere la forma en que se contraten; y
-
-IV. Otros que se presten de conformidad con lo que establezca la autoridad sanitaria.
+Este Reglamento reconoce como grupos voluntarios a las instituciones, organizaciones y asociaciones a que se refiere la fracción XI del Artículo 7 de este Ordenamiento, que cuenten con su respectivo registro ante la Dirección Municipal de Protección Civil.
 
 ###### Artículo 39.
 
-Son servicios públicos a la población en general, los que se presten en establecimientos públicos de salud, a los habitantes del Estado que así lo requieran, regidos por criterios de universalidad, equidad y beneficio social, fundada en las condiciones socioeconómicas de los usuarios.
+Los grupos voluntarios deberán organizarse conforme a las siguientes bases:
 
-### Capítulo Cuarto. De los prestadores de los servicios de salud
+I.- Territoriales: Formados por los habitantes de una colonia, de una zona o de un centro de población del Municipio;
+
+II.- Profesionales o de Oficios: Constituidos de acuerdo a la profesión u oficio que tengan; y
+
+III.- De Actividades Específicas: atendiendo a la función de auxilio que desempeñen, constituidos por personas dedicadas a realizar acciones específicas de auxilio.
+
+### CAPÍTULO II. DEL PADRÓN Y REGISTRO DE LOS GRUPOS VOLUNTARIOS
 
 ###### Artículo 40.
 
-Los servicios de atención médica prehospitalaria que presten los técnicos en urgencias médicas y las unidades móviles tipo ambulancias, se regirán por la norma oficial mexicana que en su caso corresponda.
+A fin de que los grupos voluntarios municipales, regionales, estatales o internacionales, que deseen participar en las acciones de protección civil, obtengan el registro que las acredite como tales en el Padrón del Municipio, deberán inscribirse previa solicitud ante la Dirección Municipal de Protección Civil.
 
 ###### Artículo 41.
 
-Las cuotas de recuperación que se recauden por la prestación de servicios de salud, se ajustarán a lo que disponga la legislación fiscal aplicable del Estado y al acuerdo de coordinación celebrado en la materia con el Poder Ejecutivo Federal.
+La solicitud a que hace referencia el Artículo anterior contendrá cuando menos:
 
-Para la determinación de las cuotas de recuperación, se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario.
+I.- Acta constitutiva, domicilio del grupo en el Municipio y, en su caso, en el Estado, o bien, en el país;
 
-Las cuotas de recuperación se fundarán en principios de equidad y guardarán relación con los ingresos de los usuarios, debiendo eximirse el cobro cuando el usuario carezca de recursos para cubrirlas o en las zonas de menor desarrollo económico y social, conforme con las disposiciones que se determinen por el Poder Ejecutivo del Estado.
+II.- Bases de organización del grupo;
+
+III.- Relación del equipo con el que cuenta;
+
+IV.- Programa de acción, capacitación y adiestramiento;
+
+V.- Área geográfica de Trabajo;
+
+VI.- Horario normal de trabajo;
+
+VII.- Su registro ante la Secretaría de Relaciones Exteriores, en su caso;
+
+VIII.- Alta ante la Secretaría de Hacienda y Crédito Público, indicando su Registro Federal de Causantes;
+
+IX.- Solicitud para el uso de sistemas de advertencia y emblemas oficiales por parte de la Dirección Municipal de Protección Civil y la Secretaría de Vialidad y Tránsito Municipal.
 
 ###### Artículo 42.
 
-Cuando por la prestación de los servicios de salud, deba requerirse la cooperación a los usuarios en la realización de jornadas de trabajo, los municipios determinarán a qué obras de beneficio se aplicarán dichas jornadas.
+Los grupos de voluntarios municipales, regionales, estatales o internacionales que presenten completa la documentación señalada en el artículo anterior y obtengan de la Dirección Municipal de Protección Civil resolución favorable de factibilidad a que se refiere el artículo siguiente, la cual deberá de dictarse dentro de los quince días hábiles siguientes a la fecha de recepción de la solicitud por la Dirección, tendrán derecho a que se les expida constancia de registro y reconocimiento, como grupo voluntario en el Padrón Municipal que se lleve en la Dirección Municipal de Protección Civil.
 
 ###### Artículo 43.
 
-Son servicios a derechohabientes de instituciones públicas de seguridad social, los prestados por éstas a las personas que cotizan o a las que hubieren cotizado en las mismas, conforme a la ley correspondiente y a sus beneficiarios, los que por sus propios recursos o por encargo del Gobernador del Estado preste dicha institución a otros grupos de usuarios.
-
-Estos servicios se regirán por lo establecido en las disposiciones legales que regulen la organización y el funcionamiento de las instituciones prestadoras y por las contenidas en esta Ley, en lo que no se oponga a aquéllas.
+Para efectos de que la Dirección Municipal de Protección Civil expida la constancia de registro y reconocimiento señalado en el artículo anterior, deberá de emitir resolución de factibilidad favorable a la asociación, institución o grupo interesado, en la cual determine procedente la solicitud de registro referida.
 
 ###### Artículo 44.
 
-Los servicios de salud que presten las entidades públicas estatales o empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por los convenios realizados entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de la presente Ley y las demás normas aplicables a las instituciones de salud respectivas.
+Las personas que deseen desempeñar labores de rescate y auxilio, deberán constituirse en grupos voluntarios organizados, o bien, integrarse a uno ya registrado, a fin de recibir información, capacitación y realizar en forma coordinada las acciones de protección civil.
 
 ###### Artículo 45.
 
-Los trabajadores de los establecimientos estatales de salud, podrán participar en la gestión de los mismos, de conformidad con las disposiciones generales aplicables y podrán opinar y emitir sugerencias tendientes al mejoramiento de los servicios de salud.
-
-Los usuarios tendrán derecho, previo consentimiento libre e informado, a obtener prestaciones de salud oportunas y de calidad idónea y a recibir atención profesional y éticamente responsable, así como trato respetuoso y digno de los profesionales, técnicos y auxiliares.
-
-Si el usuario exigiera de los prestadores de servicios de salud, un procedimiento que por razones de conciencia o convicción clínica éstos juzguen inaceptable, quedarán dispensados de actuar siempre y cuando no sea caso de urgencia o se deteriore la salud del mismo, debiendo informarlo sin demora al usuario y, en su caso, a la institución otorgante del servicio.
-
-El personal sanitario, aun absteniéndose de practicar el acto objetado, está obligado a prestar cualquier otra atención médica a la persona que lo requiera.
+La Dirección Municipal de Protección Civil, deberá entregar al interesado, dentro de los quince días hábiles siguientes a aquél en que se emita la resolución favorable de factibilidad, la constancia de registro y reconocimiento señalado en el artículo 42 de este Ordenamiento.
 
 ###### Artículo 46.
 
-El Gobernador del Estado y los ayuntamientos podrán convenir con las instituciones federales de seguridad social, la prestación de servicios de salud para sus trabajadores.
+La preparación específica de los grupos voluntarios, deberá complementarse con la ejecución de ejercicios y simulacros, coordinados por la Dirección Municipal de Protección Civil.
 
 ###### Artículo 47.
 
-La Secretaría de Salud del Estado, en coordinación con las autoridades educativas, vigilará en el Estado de Querétaro el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos.
+Corresponde a los grupos voluntarios:
 
-### Capítulo Quinto. De los usuarios de los servicios de salud y la participación de la comunidad
+I.- Gozar del reconocimiento oficial, una vez obtenido su registro en el Padrón Municipal, de la Dirección Municipal de Protección Civil;
+
+II.- Participar en los programas de capacitación a la población o brigadas de auxilio;
+
+III.- Solicitar el auxilio de las Autoridades de Protección Civil, para el desarrollo de sus actividades;
+
+IV.- Coordinarse bajo el mando de las Autoridades de Protección Civil, ante la presencia de un riesgo, alto riesgo, emergencia o desastre;
+
+V.- Cooperar en la difusión de programas y planes de protección civil;
+
+VI.- Coadyuvar en actividades de monitoreo y pronóstico con la Dirección Municipal de Protección Civil, de la presencia de cualquier riesgo, alto riesgo, emergencia o desastre;
+
+VII.- Realizar los trámites ante las autoridades competentes, para obtener la autorización de recibir donativos deducibles de impuestos para sus donantes, en los términos de los ordenamientos jurídicos aplicables;
+
+VIII.- Aplicar los donativos que se obtengan, para los fines inherentes a la prestación de sus servicios, pudiéndose coordinar con el Patronato referido en la fracción IV del artículo 9 de este Reglamento;
+
+IX.- Refrendar anualmente su registro ante la Dirección Municipal de Protección Civil, siguiendo el mismo procedimiento con el que obtuvieron su registro y reconocimiento, debiendo presentar nueva documentación cuando ésta resulte adicional a la primeramente allegada o cuando haya cambiado la situación que ampara dicha documental;
+
+X.- Participar en aquellas actividades del Programa Municipal de protección civil, que estén en posibilidades de realizar;
+
+XI.- Rendir los informes y datos que les sean solicitados por la Dirección Municipal de Protección Civil con la regularidad que se les señale, o dentro del término otorgado para ello;
+
+XII.- Comunicar a las Autoridades de Protección Civil, la presencia de cualquier situación de probable o inminente riesgo; y
+
+XIII.- Las demás que les confieran otros ordenamientos jurídicos aplicables.
+
+### CAPÍTULO III. DE LOS DERECHOS Y OBLIGACIONES DE LA COMUNIDAD
 
 ###### Artículo 48.
 
-La Secretaría de Salud coadyuvará con las autoridades educativas competentes, para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionistas, técnicos y auxiliares de la salud y estimularán su participación en el Sistema de Salud del Estado de Querétaro, como instancias técnicas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
+Son derechos y obligaciones de los habitantes, residentes y de cualquier persona que transite por el Municipio, en materia de protección civil, las siguientes:
+
+I.- Informar de cualquier riesgo grave provocado por agentes naturales o humanos;
+
+II.- Participar en las acciones coordinadas por las autoridades de protección civil en caso de emergencia, riesgo, alto riesgo o desastre;
+
+III.- Cooperar con las autoridades para la ejecución de programas de protección civil;
+
+IV.- Respetar la señalización preventiva y de auxilio;
+
+V.- Mantenerse informado de las acciones y actitudes que deben asumirse antes, durante y después de un siniestro o desastre;
+
+VI.- Participar en los simulacros que las autoridades determinen;
+
+VII.- Los demás que le otorguen el presente Reglamento y las Autoridades de Protección Civil, siempre y cuando ello no implique a los ciudadanos un perjuicio de sus personas o patrimonio.
 
 ###### Artículo 49.
 
-Para los efectos de esta Ley, se considera usuario de servicios de salud, a toda persona que requiera y obtenga los que presten los sectores público, social y privado, en las condiciones y conforme con las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables.
+Cuando un desastre se desarrolle u origine en propiedad privada, los propietarios o encargados procurarán facilitar el acceso a los Cuerpos de Rescate y proporcionar toda clase de información y apoyo a las Autoridades de Protección Civil Municipal.
 
 ###### Artículo 50.
 
-La población tiene derecho a la atención médica apropiada, independientemente de su condición económica, cultural, identidad étnica y género.
-
-Los usuarios de los servicios de salud tienen derecho a:
-
-I. Ser atendidos por un médico;
-
-II. Ser tratados con respeto;
-
-III. Recibir un tratamiento conforme a los principios médicos científicamente aceptados;
-
-IV. Recibir, con calidad y continuidad, la atención médica que requieran, independientemente del tipo o unidad médica donde reciba el servicio; y
-
-V. Cuando esté en riesgo la vida del paciente, recibir los servicios de urgencias por parte de las instituciones públicas y privadas de manera gratuita, desde el momento en que ingresa hasta que su salud sea estable y estén en condiciones de ser trasladados a otra institución, si así lo desean el usuario o sus familiares.
+Los propietarios de vehículos que trasladen Artículos, sustancias químicas, gases, combustibles, residuos, solventes, maderas, explosivos o cualquier material que por su naturaleza o cantidad sean altamente flamables o peligrosos, deberán sujetarse a lo establecido en las Leyes estatales y federales de la materia y a las disposiciones de este Reglamento.
 
 ###### Artículo 51.
 
-El usuario tendrá derecho a:
-
-I. Ser tratado con respeto a su dignidad, vida privada, cultura y valores;
-
-II. Recibir atención terminal humanitaria;
-
-III. Tener información apropiada sobre su historia médica y condiciones de salud;
-
-IV. Obtener confidencialidad y protección de los informes sobre su estado de salud;
-
-V. Recibir la prescripción médica con una redacción comprensible y legible, identificando los medicamentos de forma genérica.
-
-Excepcionalmente, se le negará información cuando exista el pleno conocimiento que dicha información representa un peligro para su vida o su salud;
-
-VI. Solicitar cambio del médico tratante, si considera que éste, no procede de manera profesional y eficiente durante su tratamiento, fundándose en su derecho a tomar decisiones libremente con relación a su persona; y
-
-VII. Negar su consentimiento para participar en la investigación o enseñanza de la medicina.
+Todas las personas tienen el derecho y la obligación de denunciar ante la autoridad municipal, todo hecho, acto u omisión que cause o pueda causar riesgo, alto riesgo, emergencia o desastre para la población.
 
 ###### Artículo 52.
 
-Los técnicos en urgencias médicas y las unidades móviles tipo ambulancia, así como otros grupos de urgencia y rescate públicos, privados y sociales que presten servicios de atención médica prehospitalaria en casos de accidentes y desastres dentro del territorio del Estado, deberán sujetar su labor a lo que establezca el reglamento que para tal efecto se emita.
+La denuncia ciudadana es el instrumento jurídico que tienen los habitantes, residentes y personas en tránsito por este Municipio, para hacer del conocimiento de la autoridad competente de los actos u omisiones que contravengan las disposiciones del presente Reglamento y de los manuales de las bases y tablas técnicas.
 
 ###### Artículo 53.
 
-Los usuarios de los servicios de salud tienen la obligación de:
-
-I. Llevar un estilo de vida enfocado al cuidado de su salud;
-
-II. Atender las reglamentaciones internas de las instituciones prestadoras de servicios de salud; y
-
-III. Observar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
+Para que la denuncia ciudadana proceda, bastará que la persona que la interponga aporte los datos necesarios para su identificación y una relación de los hechos que se denuncian.
 
 ###### Artículo 54.
 
-La Secretaría de Salud establecerá los procedimientos para regular las modalidades de acceso a los servicios de salud pública de la población general y a los servicios sociales y privados en el Estado.
+Recibida la denuncia, la autoridad ante quien se formuló la turnará de inmediato a la Dirección Municipal de Protección Civil. Lo anterior sin perjuicio de que la autoridad receptora tome las medidas de urgencia necesarias para evitar que se ponga en riesgo la salud pública, la integridad de las personas y/o el patrimonio de las mismas.
 
 ###### Artículo 55.
 
-Las autoridades sanitarias del Estado y las instituciones de salud, establecerán los procedimientos de orientación y asesoría para los usuarios, sobre el uso de los servicios que requieran, así como los mecanismos para la presentación de quejas, reclamaciones y sugerencias respeto de la prestación de los servicios de salud y de falta de probidad, en su caso, de los servidores públicos.
+La Dirección Municipal de Protección Civil en los términos de este Reglamento, atenderá de manera permanente al público en general, en el ejercicio de la denuncia ciudadana. Para ello, difundirá ampliamente domicilios y números telefónicos destinados a recibir las denuncias.
 
-### Capítulo Sexto. De la atención materno infantil
+### CAPÍTULO IV. DE LAS UNIDADES INTERNAS DE PROTECCIÓN CIVIL EN LOS ESTABLECIMIENTOS
 
 ###### Artículo 56.
 
-Las personas o instituciones públicas o privadas que tengan conocimiento de accidentes o de que alguna persona requiera la prestación urgente de servicios de salud, cuidarán por los medios a su alcance, que los mismos sean trasladados a los establecimientos de salud más cercanos donde puedan recibir atención inmediata, sin perjuicio de su posterior remisión a otras instituciones.
+Las Unidades Internas de Protección Civil a que se refiere este Capítulo, son aquéllas que los establecimientos a que se refiere la fracción XXV del artículo 31 de este Reglamento, deben formar, en su caso, con el personal que labore o habite en dicho establecimiento, pudiendo contar con la participación de los vecinos de la zona donde se ubique el establecimiento correspondiente, con el fin de desarrollar programas teórico-prácticos enfocados a prevenir y auxiliar en la comisión de una situación de riesgo, alto riesgo o desastre, para lo cual deberán organizarse en brigadas y realizar los simulacros en términos del presente ordenamiento.
+
+Las relaciones laborales, civiles o de otra índole que se generen entre los establecimientos y sus Unidades Internas de Protección Civil se sujetarán a la legislación correspondiente, sin que el Municipio concurra con alguna obligación o derecho en dicha relación.
 
 ###### Artículo 57.
 
-De conformidad con lo que señalen las disposiciones generales aplicables, los agentes del Ministerio Público que reciban informes o denuncias sobre personas que requieran servicios de salud de urgencia, deberán disponer que las mismas sean trasladas (sic) de inmediato al establecimiento de salud más cercano.
+Los establecimientos a que se refiere la fracción XXV del artículo 31 de este Reglamento, tienen la obligación de contar con Unidades de Protección Civil debidamente avaladas por la Dirección Municipal de Protección Civil, las que deberán cumplir con los siguientes requisitos:
+
+I.- CAPACITACIÓN: El personal que integre las Unidades Internas de Respuesta deberá de estar apropiadamente capacitado, mediante un programa específico de carácter técnico-práctico, inductivo, formativo y de constante actualización.
+
+II.- BRIGADAS: Cada Unidad Interna de Respuesta deberá contar cuando menos con las brigadas de primeros auxilios, de prevención y combate de incendios y contingencias, de evacuación del inmueble, y de búsqueda y rescate coordinadas por el jefe de piso y el responsable del inmueble.
+
+III.- SIMULACROS: Las Unidades Internas de Respuesta deberán realizar ejercicios y simulacros, cuando menos dos veces al año en cada inmueble, entendidos aquéllos como una representación imaginaria de la presencia de una emergencia, mediante los cuales se pondrá a prueba la capacidad de respuesta de las brigadas de protección civil.
 
 ###### Artículo 58.
 
-La participación de la comunidad en los programas de protección de la salud y en la prestación de los servicios respectivos, tiene por objeto fortalecer la estructura y funcionamiento de los sistemas de salud y elevar el nivel de salud de la población del Estado.
+Los establecimientos a que se refiere la fracción XXV del artículo 31 de este Reglamento, tienen la obligación de contar permanentemente con un programa específico de Protección Civil y un Plan de Contingencias, el cual deberá estar autorizado y supervisado por la Dirección Municipal de Protección Civil.
 
 ###### Artículo 59.
 
-La comunidad podrá participar en los servicios de salud de los sectores públicos, social y privado, a través de las siguientes acciones:
-
-I. Adoptar hábitos que contribuyan a proteger la salud o solucionar problemas de salud;
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
-
-II. Participar en programas de promoción y mejoramiento de la salud, nutrición y prevención de enfermedades y accidentes;
-
-III. Coadyuvar en la prevención o tratamiento de problemas ambientales vinculados a la salud;
-
-IV. Colaborar como auxiliares voluntarios en la realización de tareas de atención médica y asistencia social; así como en determinadas actividades de operación de servicios de salud, bajo la dirección y control de las autoridades correspondientes;
-
-V. Dar aviso de la existencia de personas que requieran servicios de salud, cuando éstas se encuentren impedidas para solicitarlo por sí mismas;
-
-VI. Formular sugerencias para mejorar los servicios de salud;
-
-VII. Informar a las autoridades competentes, sobre irregularidades o deficiencias que se adviertan en la prestación de servicios de salud;
-
-VIII. Informar a las autoridades sanitarias, acerca de los efectos secundarios y reacciones adversas por el uso de medicamentos e insumos para la salud, o bien, por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos; y
-
-IX. Atender actividades que coadyuven a la protección de la salud.
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
-
-X. Apoyar los programas, estrategias y medidas en materia de nutrición, que implementen las autoridades de salud y educativas.
+En los establecimientos deberá colocarse en sitios visibles, equipos de seguridad, señales preventivas e informativas y equipo reglamentario señalados en éste Ordenamiento y en los manuales de las bases y tablas técnicas.
 
 ###### Artículo 60.
 
-La Secretaría de Salud, el SESEQ y las instituciones de salud estatales y municipales, promoverán y apoyarán la constitución de grupos, asociaciones e instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual y colectiva, así como en los de prevención de enfermedades, accidentes y rehabilitación de las personas con discapacidad.
+Para los efectos del Artículo anterior, los patrones, propietarios o titulares de los establecimientos, deberán capacitar a sus empleados y dotarlos del equipo necesario de respuesta, así como solicitar la asesoría de la Dirección Municipal de Protección Civil, tanto para su capacitación como para el desarrollo de la logística de respuesta a las contingencias.
 
 ###### Artículo 61.
 
-Con sujeción a la legislación aplicable, en las cabeceras municipales, delegaciones municipales, comisarías, ejidos y comunidades se constituirán comités de salud, los cuales tendrán como objetivo participar en el mejoramiento y vigilancia de los servicios de salud de sus localidades y promover mejores condiciones ambientales que favorezcan la salud de la población.
+Cuando los efectos de los riesgos, altos riesgos, emergencias o desastres rebasen la capacidad de repuesta de las Unidades Internas de Protección Civil, sus titulares, sin perjuicio de que cualquier otra persona pueda hacerlo, solicitarán de inmediato la asistencia de la Dirección Municipal de Protección Civil.
 
-### Capítulo Séptimo. De la salud reproductiva
+### CAPÍTULO V. REGULACIONES DE SEGURIDAD Y PREVENCIÓN PARA CENTROS DE POBLACIÓN
 
 ###### Artículo 62.
 
-Los ayuntamientos y los comisariados ejidales y comunales, con sujeción a la legislación aplicable, en coordinación con las instituciones de salud y las autoridades educativas competentes, tendrán la responsabilidad de organizar los comités de salud y de que se cumplan los fines para los que sean creados.
+Es obligación de quienes habiten, residan o transiten por el Municipio de Monterrey prestar toda clase de colaboración a las dependencias del Municipio y del Consejo Municipal de Protección Civil, ante situaciones de desastre, siempre y cuando ello no implique un perjuicio en su persona o en su patrimonio.
 
 ###### Artículo 63.
 
-La atención materno infantil tiene carácter prioritario y comprende las siguientes acciones:
-
-I. La atención de la mujer durante el embarazo, el parto y el puerperio;
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
-
-II. La atención del niño, previo y durante su nacimiento, así como la vigilancia de su crecimiento, nutrición adecuada y desarrollo integral, incluyendo la promoción de la vacunación oportuna;
-
-III. La protección de la integración y del bienestar familiar;
-
-IV. La detección temprana de la pérdida de audición y enfermedades visuales, y su tratamiento en todos sus grados, desde los primeros días del nacimiento; y
-
-V. El diagnóstico oportuno para resolver los problemas de salud visual y auditiva de los niños, en escuelas públicas y privadas.
+Cuando el origen de un desastre se deba a acciones realizadas por persona alguna, independientemente de las sanciones civiles o penales a que haya lugar, y de la responsabilidad resultante de daños y perjuicios a terceros, el o los responsables de haberlo causado, tendrán la obligación de reparar los daños causados a la infraestructura urbana, atendiendo las disposiciones de la autoridad competente.
 
 ###### Artículo 64.
 
-En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer y evaluar el problema y adoptar las medidas conducentes.
+Es obligación de los propietarios, arrendatarios o usufructuarios de terrenos baldíos y de edificaciones habitadas o abandonadas, dentro de los centros de población en el Municipio, el mantener los patios libres de materiales incendiables como hierbas o pastos secos con altura mayor a 30 centímetros, maderas, llantas, solventes y basura, entre otros.
 
 ###### Artículo 65.
 
-La protección de la salud física y mental de los menores, es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, con las autoridades competentes y la sociedad en general.
+Para la prevención de accidentes, la comunidad en general deberá:
 
-Para tutelar la protección de la salud mental de los menores, las instituciones públicas y las personas físicas o morales que presten servicios de salud a personas con embarazos de alto riesgo o a menores que presenten daños neurológicos, deberán notificar de estos casos, desde el momento de su detección, a los centros oficiales de rehabilitación, para que puedan proporcionar a los padres o tutores la información necesaria para su oportuna atención.
+I.- Reportar todo tipo de riesgo, a la Dirección Municipal de Protección Civil;
+
+II.- Evitar el trasvase de gas fuera de la planta, esto, a través del trasvase de pipa a vehículo, de cilindro doméstico a vehículos, y de tanque estacionario a cilindros menores, así como evitar el tener más de un tanque estacionario en un domicilio;
+
+III.- Solicitar la asesoría de la Dirección Municipal de Protección Civil para la quema de pastos, cuando considere que por la extensión o localización del mismo se corre riesgo de un incendio incontrolable;
+
+IV.- Si una zona habitacional está considerada como zona de riesgo, solicitar la vigilancia debida a la Dirección Municipal de Protección Civil; y
+
+V.- Observar y acatar todas las disposiciones que se requieran y se dispongan para salvaguardar la seguridad y desarrollo del evento, por parte de la Dirección Municipal de Protección Civil.
 
 ###### Artículo 66.
 
-En la organización y operación de los servicios de salud destinados a la atención materno infantil, las autoridades sanitarias del Estado establecerán procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios.
+En el transporte o traslado de artículos, gases, combustibles, residuos, solventes, maderas, explosivos, materiales o sustancias químicas o de cualquier otra índole, que por su naturaleza o cantidad sean altamente peligrosos o flamables, deberá observarse lo siguiente:
 
-Las autoridades sanitarias estatales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
+I.- Al suscitarse un derrame de algún químico, el cual pueda causar daño, la empresa propietaria del mismo queda obligada a cubrir los gastos y demás erogaciones que generen a la Dirección Municipal de Protección Civil, para reparar el daño causado;
 
-I. Acciones que privilegien la lactancia materna;
+II.- Queda estrictamente prohibido el derramar cualquier tipo de sustancias en el suelo, agua y medio ambiente en general, que pueda originar contaminación, enfermedades, riesgos, altos riesgos o desastres;
 
-II. Acciones de ayuda alimentaria directa, tendiente a mejorar el estado nutricional materno infantil; y
+III.- Los propietarios de vehículos de carga de dichos materiales o sustancias, deberán proveer, a los trabajadores y conductores de los mismos, del equipo necesario para poder controlar una fuga o derrame;
 
-III. Acciones de prevención y control de enfermedades ocasionadas por procesos diarreicos e infecciones respiratorias agudas en menores de cinco años.
+IV.- Portar de manera visible y libre de toda suciedad así como de cualquier obstáculo que lo afecte, en los cuatro lados del contenedor del material o sustancia referidas, la lámina oficial de identificación del producto que transporta y su riesgo; y
+
+V.- Portar la Hoja de Seguridad del material o sustancia transportada y la Guía de Emergencia correspondiente.
 
 ###### Artículo 67.
 
-Las autoridades sanitarias, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
-
-I. Los programas para padres destinados a promover la atención materno infantil;
-
-II. Las actividades recreativas, de esparcimiento y culturales, destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
-
-III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas; y (sic)
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
-
-IV. La vigilancia de los alimentos que se expendan en las cooperativas, así como en espacios comerciales donde se tenga a la venta o consuman alimentos en las instituciones de nivel básico, a efecto de que los mismos cumplan con alto contenido nutricional y evitar problemas de mal nutrición de menores de edad y adolescentes; y
-
-V. Las demás acciones que coadyuven a la protección de la salud materno infantil.
+Para la ejecución de acciones de salvamento y auxilio a la población, la Dirección Municipal de Protección Civil se apoyará, según la magnitud y efectos de los altos riesgos, emergencias o desastres, en las autoridades estatales y según la disponibilidad de éstas, en instituciones privadas, del sector social y Grupos Voluntarios de Protección Civil.
 
 ###### Artículo 68.
 
-Corresponde a la Secretaría de Salud Federal, establecer los lineamientos para proteger la salud de la comunidad escolar de los centros educativos dependientes del Estado.
+La Dirección Municipal de Protección Civil, cuando lo estime procedente, podrá brindar apoyo a las diversas Dependencias y Entidades, Estatales y Federales, Instituciones Privadas y del Sector Social, para la ejecución de tareas de salvamento y auxilio de la población en otros municipios.
 
-La prestación de servicios de salud a los escolares, se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias estatales y educativas competentes.
+###### Articulo 69.
 
-###### Artículo 69.
-
-La salud reproductiva tiene carácter prioritario. Los servicios que se presten en la materia, constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos, con pleno respeto a su dignidad.
+La Dirección Municipal de Protección Civil promoverá la celebración de convenios con los dueños de camiones pipa destinados al acarreo de agua, grúas, montacargas, traxcavos (sic), transportes de pasajeros del servicio público estatal y federal y demás maquinarias que sean indispensables a consideración de dicha Dirección, a fin de que presten auxilio a la misma, bajo la coordinación de ésta, para hacer frente a un desastre; así como con los dueños de establecimientos de expendio de combustible con el fin de que provean el mismo, sin que se tenga que pagar en ese momento, a los vehículos que porten autorización por escrito de recibirlo, emitida por la Dirección Municipal de Protección Civil, para llevar a cabo las actividades de auxilio correspondientes; en la inteligencia de que el valor del combustible será restituido por la Autoridad Municipal después de haber atendido la emergencia.
 
 ###### Artículo 70.
 
-Los servicios de salud reproductiva comprenden:
+Los elementos de la Dirección Municipal de Protección Civil, deberán portar el uniforme, placa o identificación personal cuando se encuentren en servicio; los vehículos utilizados para el servicio de sus funciones, deberán distinguirse con los colores, logotipo y número de identificación que le asigne la Autoridad Municipal correspondiente.
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+## TÍTULO CUARTO. DEL PROGRAMA MUNICIPAL DE PROTECCIÓN CIVIL
 
-l. La promoción y difusión de programas en materia de servicios de planificación familiar, salud reproductiva, educación sexual y de prevención de enfermedades de transmisión sexual, con base en los contenidos y estrategias que establezca el Consejo Nacional de Población;
-
-II. La atención de los solicitantes de servicios de salud reproductiva;
-
-III. La asesoría para la prestación de servicios de salud reproductiva a cargo de los sectores público, social y privado, de acuerdo con las políticas establecidas por el Consejo Nacional de Población, supervisando y evaluando su ejecución;
-
-IV. El apoyo y fomento a la investigación en materia de infertilidad humana, salud reproductiva familiar y biología de la reproducción humana;
-
-V. La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de salud reproductiva, con preferencia a la población adolescente; y
-
-VI. La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
-
-## Título Cuarto. De los recursos humanos para la salud
-
-### Capítulo Octavo. De la salud mental
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 71.
 
-Los comités de salud a que se refiere esta Ley, promoverán que en las poblaciones y comunidades semiurbanas y rurales se impartan pláticas de orientación en materia de planificación familiar. Las instituciones de salud y educativas, brindarán al efecto el apoyo necesario.
+El Programa Municipal de Protección Civil es el instrumento de ejecución de los planes de protección civil en el Municipio; en el se precisan las acciones a realizar, se determinan los responsables y se establecen los plazos para su cumplimiento, de conformidad con los recursos y medios disponibles.
+
+Este programa deberá ajustarse a los procedimientos de programación, presupuestación y control correspondientes y a las bases establecidas en la materia, en convenios de coordinación.
 
 ###### Artículo 72.
 
-El Poder Ejecutivo del Estado coadyuvará con la Secretaría de Salud Federal en las acciones del Programa Nacional de Salud Reproductiva que formule tanto el Consejo Nacional de Población como el Sector Salud; cuidará que se incorporen en los programas estatales de salud y proveerá los medios técnicos para hacer llegar a la población los métodos anticonceptivos necesarios para alcanzar los objetivos establecidos en la políticas nacionales de población.
+El Programa Municipal de Protección Civil, así como los subprogramas, programas institucionales, específicos y operativos que se deriven de los mismos, se expedirán, ejecutarán y revisarán, tomando en consideración las disposiciones de la Ley de Protección Civil del Estado, Programa Estatal de Protección Civil, así como los lineamientos del Programa Nacional de Protección Civil.
 
 ###### Artículo 73.
 
-En el estado de Querétaro, las técnicas de reproducción asistida y la disposición de material genético humano, se sujetarán a lo que dispongan la presente Ley y demás disposiciones que se emitan al respecto.
+En caso de que se identifiquen situaciones de riesgos, altos riesgos, emergencias o inminencias de un siniestro o desastre, que puedan afectar de manera grave a una determinada localidad o región, además de los que se consideren afectados directamente, cualquier persona, a través de un grupo voluntario podrá solicitar al Consejo Municipal de Protección Civil la elaboración de Programas de Emergencia de Protección Civil creados especialmente para prevenir o remediar una eventualidad concreta; teniendo la posibilidad el Consejo Municipal de Protección Civil, para éste o cualquier otro caso, de asesorarse por profesionales o especialistas de la eventualidad concreta a prevenir o remediar, no estando el Consejo obligado a realizarlo por la simple solicitud.
 
-### Capítulo Primero. De los profesionistas, técnicos y auxiliares
+### CAPÍTULO II. DE LA ESTRUCTURA DEL PROGRAMA MUNICIPAL DE PROTECCIÓN CIVIL
 
 ###### Artículo 74.
 
-La prevención de las enfermedades mentales tiene carácter prioritario y urgente. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control, y demás aspectos relacionados.
+El Programa Municipal de Protección Civil, contará con los siguientes subprogramas:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2012)</small>
+I.- De prevención;
+
+II.- De auxilio;
+
+III.- De recuperación y vuelta a la normalidad; y
+
+IV.- Programas y/o subprogramas de emergencia, creados especialmente para una eventualidad concreta.
 
 ###### Artículo 75.
 
-Para la atención y promoción de la salud mental, la Secretaría de Salud, el SESEQ y demás instituciones afines, en coordinación con las autoridades competentes, privilegiarán:
+El Programa Municipal de Protección Civil deberá contener cuando menos:
 
-I. El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental de la población en general;
+I.- Los antecedentes históricos de los riesgos, altos riesgos, emergencias o desastres en el Municipio;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
+II.- La identificación de todo tipo de riesgos a que está expuesto el Municipio;
 
-II. La elaboración y difusión permanente de programas y campañas acordes a los establecidos por las autoridades federales, a favor de la salud mental;
+III.- La identificación de los objetivos del Programa;
 
-III. La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y de otra naturaleza que puedan causar alteraciones mentales o dependencias;
+IV.- Los subprogramas de Prevención, Auxilio y Recuperación con sus respectivas metas, estrategias y líneas de acción;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
+V.- Archivo de los programas y/o subprogramas de emergencia, creados especialmente para una eventualidad concreta;
 
-IV. La elaboración y difusión de programas de prevención y atención de alteraciones y enfermedades mentales; y
+VI.- La estimación de los recursos financieros; y
 
-V. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental y emocional de la población.
+VII.- Los mecanismos para el control y evaluación.
 
 ###### Artículo 76.
 
-La atención de las enfermedades mentales comprende:
-
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
-
-I. El cuidado continuo y. adecuado de personas con enfermedades mentales; de acuerdo con las clasificaciones internacionales de las mismas, la rehabilitación psiquiátrica y psicológica de todas ellas; y
-
-II. La creación, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+El Subprograma de Prevención agrupará las acciones tendientes a evitar y/o mitigar los efectos y/o a disminuir la ocurrencia de altos riesgos, emergencias o desastres; y a promover el desarrollo de la cultura de la protección civil y autoprotección en la comunidad.
 
 ###### Artículo 77.
 
-La Secretaría de Salud prestará atención a los enfermos mentales que se encuentren recluidos en los centros penitenciarios del Estado o en otras instituciones no especializadas en salud mental, de conformidad con lo establecido en la Ley de la materia, debiendo coordinar sus acciones con la Dirección de Prevención y Readaptación Social, gestionando, en su caso, la remisión de los que así lo requieran a instituciones especializadas.
+El Subprograma de Prevención deberá contener:
 
-El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se ajustará a principios éticos y sociales y a las disposiciones que determinen la Secretaria de Salud Federal y los ordenamientos jurídicos aplicables.
+I.- Los estudios, investigaciones y proyectos de protección civil a ser realizados;
+
+II.- Los criterios para integrar el mapa de riesgo;
+
+III.- Los lineamientos para el funcionamiento y prestación de los distintos servicios públicos que deben ofrecerse a la población;
+
+IV.- Las acciones que la Dirección Municipal de Protección Civil deberá ejecutar para proteger a las personas y sus bienes;
+
+V.- El inventario de los recursos disponibles;
+
+VI.- La política de comunicación social; y
+
+VII.- Los criterios y bases para realización de simulacros.
 
 ###### Artículo 78.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que supongan la existencia de enfermedades mentales.
+El Subprograma de Auxilio, integrará las acciones previstas a fin de rescatar y salvaguardar, en caso de alto riesgo, emergencia o desastre, la integridad física de las personas, sus bienes y el medio ambiente, así como para mantener el funcionamiento de los servicios públicos. Para realizar las acciones de auxilio se establecerán las bases regionales que se requieran, atendiendo a los riesgos detectados en las acciones de prevención. Sus funciones específicas serán las siguientes:
 
-A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+I.- Emitir los avisos de alerta para prevenir a la población ante la presencia de una calamidad que pudiera ocasionar un desastre;
+
+II.- Coordinar a las diferentes Dependencias Municipales, sector privado y organizaciones no gubernamentales, así como a los grupos voluntarios de protección civil;
+
+III.- Proteger la integridad física de las personas y el resguardo de sus bienes para prevenir accidentes o actos de pillaje que puedan agravar los efectos causados por el desastre;
+
+IV.- Coordinar las acciones de búsqueda, salvamento y asistencia de los miembros de la comunidad que hayan sido afectados por el desastre;
+
+V.- Promover la protección y adecuado mantenimiento de la infraestructura básica de las localidades como medios y vías de comunicación, hospitales, suministro de agua, energía eléctrica, combustible, escuelas, etc.;
+
+VI.- Designar y operar los albergues necesarios en casos de alto riesgo, emergencia o desastre;
+
+VII.- Organizar y recolectar las aportaciones en ropa, alimentos, medicamentos, enseres domésticos y materiales, y establecer los mecanismos para su correcta distribución;
+
+VIII.- Establecer un sistema de información para la población; y
+
+IX.- Identificar los daños y promover la evacuación de sitios de riesgos.
 
 ###### Artículo 79.
 
-En el Estado de Querétaro, el ejercicio de las profesiones, actividades técnicas, auxiliares y de las especialidades en materia de salud, estará sujeto a:
+El Subprograma de Auxilio contendrá, entre otros, los siguientes criterios:
 
-I. La Ley de Profesiones del Estado de Querétaro;
+I.- Los establecidos o estipulados en acciones que desarrollen las dependencias y organismos de la Administración Pública Municipal;
 
-II. Las bases de coordinación que definan las autoridades educativas y las autoridades sanitarias del Estado;
+II.- Los establecidos en mecanismos de concentración y coordinación con los sectores social y privado; y
 
-III. Los convenios que al efecto suscriban el Poder Ejecutivo del Estado y el Poder Ejecutivo Federal; y
-
-IV. Las disposiciones de esta Ley y demás normas jurídicas aplicables.
+III.- Los establecidos en coordinación con los grupos voluntarios.
 
 ###### Artículo 80.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología en sus diversas ramas y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
-
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, embalsamamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+El Subprograma de Recuperación y Vuelta a la Normalidad, determinará las estrategias necesarias para la recuperación de la normalidad una vez ocurrida la emergencia o desastre.
 
 ###### Artículo 81.
 
-Las autoridades educativas del Estado, podrán (sic) a disposición de las autoridades sanitarias estatales, la información relativa a los títulos, diplomas de especialidad, certificados y cédulas profesionales que en área de salud tengan registrada.
+En el caso de que se identifiquen riesgos o altos riesgos que puedan afectar de manera grave a la población de una determinada localidad o región, se podrán elaborar Programas o Subprogramas de Emergencia de Protección Civil a que se refieren los artículos 73 y 74, fracción IV de este Reglamento.
 
 ###### Artículo 82.
 
-Quienes ejerzan las actividades profesionales, técnicas y auxiliares a que se refiere este Capítulo, deberán poner a la vista del público un rótulo al exterior del establecimiento que indique la institución que les expidió el título, diploma de especialidad o certificado y, en su caso, el número de su correspondiente cédula profesional. Igual mención deberá consignarse en los documentos y papelería que utilicen en el ejerció (sic) de tales actividades y en la publicidad que realicen al respecto.
+A fin de que la comunidad conozca el Programa Municipal de Protección Civil deberá ser publicado un extracto del mismo en el Periódico Oficial del Estado y en la Gaceta Municipal.
 
-## Título Quinto. De la investigación en materia de salud
+## TÍTULO QUINTO. DE LAS DECLARATORIAS FORMALES
 
-### Capítulo Segundo. Del servicio social de profesionistas
+### CAPÍTULO I. DE LA DECLARATORIA DE EMERGENCIA
 
 ###### Artículo 83.
 
-Todos los pasantes de las profesiones para la salud y sus ramas, deberán prestar servicio social en los términos de la presente Ley y las disposiciones legales aplicables en materia educativa.
+El Presidente Municipal en su carácter de Presidente del Consejo Municipal de Protección Civil, o el Secretario Ejecutivo en su ausencia, en los casos de alto riesgo, emergencia o desastre, podrá emitir una declaratoria de emergencia mandando se publique por una sola vez en el Periódico Oficial del Estado, y se difundirá a través de los medios de comunicación masiva.
 
 ###### Artículo 84.
 
-Los aspectos docentes de la prestación del servicio social se regirán por lo que establezcan las instituciones de educación superior, de conformidad con las atribuciones que les otorgan las disposiciones que rige su organización y funcionamiento y lo que determinen las autoridades educativas competentes.
+La declaratoria de emergencia hará mención expresa, entre otros, de los siguientes aspectos:
 
-La operación de los programas en los establecimientos de salud del Estado, se llevará a cabo de acuerdo con los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias estatales.
+I.- Identificación del alto riesgo, emergencia o desastre;
+
+II.- Infraestructura, bienes, localidades, regiones y sistemas afectables;
+
+III.- Determinación de las acciones de prevención y auxilio;
+
+IV.- Suspensión de actividades públicas que así lo ameriten; y
+
+V.- Instrucciones dirigidas a la población de acuerdo a los Programas Municipales de la materia.
 
 ###### Artículo 85.
 
-Para efecto de la prestación eficaz del servicio social, se establecerán mecanismos de coordinación entre las autoridades sanitarias del Estado y las educativas, con la participación que corresponda de otras dependencias competentes.
+El Presidente del Consejo Municipal de Protección Civil, o el Secretario Ejecutivo en su ausencia, una vez que la situación de emergencia haya terminado, lo publicarán en términos de lo establecido en el Artículo 83 de este Reglamento.
 
-### Capítulo Tercero. De la formación, capacitación y actualización del personal
+### CAPÍTULO II. DE LA DECLARATORIA DE ZONA DE DESASTRE
 
 ###### Artículo 86.
 
-La prestación del servicio social, se llevará a cabo mediante la participación de los pasantes en las unidades aplicativas del primer nivel de atención, prioritariamente en áreas urbanas y rurales de menor desarrollo económico y social del Estado.
-
-El Poder Ejecutivo del Estado, en coordinación con las instituciones educativas y de salud, definirá los mecanismos para que los prestadores de servicio social participen en la organización y operación de los comités de salud que alude esta Ley.
+Se considera zona de desastre de nivel municipal aquella en la que para hacer frente a las consecuencias de un siniestro o desastre, resulten suficientes los recursos municipales, y en consecuencia, no se requiera de la ayuda estatal y/o federal.
 
 ###### Artículo 87.
 
-Las autoridades sanitarias del Estado, con la participación de las instituciones de educación superior, elaborarán programas de servicio social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
+El Presidente Municipal, con dicho carácter y con el de Presidente del Consejo Municipal de Protección Civil, deberá solicitar al Gobernador del Estado, que emita formalmente la declaratoria de zona de desastre de aplicación de recursos del Estado, a fin de que den inicio las acciones necesarias de auxilio, recuperación y vuelta a la normalidad, por conducto de la Dependencia Estatal competente; en el caso de que para hacer frente a las consecuencias de un siniestro o desastre, sean insuficientes los recursos municipales, requiriéndose en consecuencia de la ayuda del Gobierno Estatal y/o Federal.
 
 ###### Artículo 88.
 
-De manera coordinada, las autoridades educativas y sanitarias estatales conducentes, recomendarán normas y criterios para la formación, capacitación y actualización de recursos humanos en el área de salud.
+El Presidente Municipal, con dicho carácter y con el de Presidente del Consejo Municipal de Protección Civil, podrá emitir declaratoria de zona de desastre de nivel municipal, previa evaluación de los daños causados por el siniestro o desastre que deberá realizar la Dirección Municipal de Protección Civil, la que surtirá efectos desde el momento de su declaración y la que comunicará de inmediato al Republicano Ayuntamiento para su conocimiento, mandándola publicar por una sola vez en el Periódico Oficial del Estado y en la Gaceta Municipal, y difundirla a través de los medios de comunicación masiva.
+
+En ausencia del Presidente Municipal, el Secretario del Republicano Ayuntamiento podrá realizar la declaratoria a que se refiere el párrafo anterior, y en ausencia de los anteriores, el Republicano Ayuntamiento del Municipio lo hará.
 
 ###### Artículo 89.
 
-Corresponde a la Secretaría de Salud, sin perjuicio de las autoridades educativas en la materia y en coordinación con éstas:
+La declaratoria de zona de desastre de nivel municipal hará mención expresa entre otros, de los siguientes aspectos:
 
-I. Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado en materia de salud;
+I.- Identificación del siniestro o desastre causado y el fenómeno que lo provoca;
 
-II. Apoyar la creación de centros de formación, capacitación y actualización de los recursos humanos para la salud;
+II.- Infraestructura, bienes, localidades, regiones, servicios y sistemas afectados;
 
-III. Otorgar facilidades para la enseñanza y adiestramiento en servicio, dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de aquéllos; y
+III.- Determinación de las acciones de apoyo, auxilio, salvaguarda, mitigación y recuperación con las que se deba combatir el siniestro o desastre causado;
 
-IV. Promover la participación de profesionales, técnicos y auxiliares de la salud, en actividades docentes.
+IV.- Suspensión de actividades públicas que así lo ameriten; y
+
+V.- Instrucciones dirigidas a la población de acuerdo a los Programas Municipales de la materia.
 
 ###### Artículo 90.
 
-La Secretaría de Salud sugerirá a las autoridades e instituciones educativas, cuando éstas lo soliciten, criterios sobre:
-
-I. Los requisitos para la apertura y el funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos; y
-
-II. El perfil de los profesionistas y técnicos para la salud, en sus etapas de formación.
+El Presidente Municipal o en su ausencia el Secretario del Republicano Ayuntamiento o en su defecto el Republicano Ayuntamiento del Municipio, una vez que la situación de zona de desastre de nivel municipal haya terminado, lo comunicará formalmente, siguiendo el procedimiento establecido en el Artículo 88 de este Reglamento.
 
 ###### Artículo 91.
 
-La Secretaría de Salud y el SESEQ, en coordinación con las autoridades federales competentes, impulsarán y promoverán la formación, capacitación y actualización de recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud del Estado.
+Las medidas que el Gobierno Municipal podrá adoptar, cuando se haya declarado formalmente zona de desastre de nivel municipal son las siguientes:
 
-## Título Sexto. De la información para la salud
+I.- Atención médica inmediata y gratuita;
 
-### Capítulo Único. Disposiciones generales
+II.- Alojamiento, alimentación y recreación;
+
+III.- Restablecimiento de los servicios públicos afectados;
+
+IV.- Suspensión temporal de las relaciones laborales, sin perjuicio para el trabajador;
+
+V.- Suspensión de las actividades escolares en tanto se vuelve a la normalidad; y
+
+VI.- Las demás que determine el Consejo de Protección Civil Municipal.
+
+## TÍTULO SEXTO. DE LA INSPECCIÓN, CONTROL, VIGILANCIA Y MEDIDAS DE SEGURIDAD
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 92.
 
-Los aspectos docentes del internado de pregrado y de las residencias de especialización, se regirán por lo que establezcan las instituciones de educación superior y deberán contribuir al logro de los objetivos de los Sistemas Nacional y Estatal de Salud, de conformidad con las atribuciones que les otorguen las disposiciones que rigen su organización y funcionamiento, y lo que determinen las autoridades educativas competentes.
+La Dirección Municipal de Protección Civil tendrá facultades de inspección y vigilancia para prevenir o controlar la posibilidad de desastres, sin perjuicio de las facultades que se confieren a otras Dependencias de la Administración Pública Municipal, Estatal y/o Federal, así como para establecer las medidas de seguridad mencionadas en este Reglamento mediante resolución debidamente fundada y motivada en los establecimientos a que se refiere la fracción XXV del artículo 31 de este Reglamento. Sin embargo, para este fin, podrá coordinarse, para todos los efectos, con las otras dependencias competentes en materia de desarrollo urbano y ecología, servicios primarios y las demás que correspondan de la Administración Pública Municipal que, en virtud de sus funciones, infieran directa o indirectamente en la Protección Civil Municipal, procurando, en todo momento, la prevención y protección civil ciudadana y comunitaria.
 
-La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo con los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias competentes.
+La Dirección Municipal de Protección Civil vigilará, en el ámbito de su competencia, el cumplimiento de este Reglamento y demás disposiciones que se dicten con base en él y aplicará las medidas de seguridad que correspondan.
+
+En caso de ser necesaria la aplicación de sanciones, las mismas se realizarán previa audiencia del interesado.
 
 ###### Artículo 93.
 
-La Secretaría de Salud y el SESEQ, apoyarán y estimularán el funcionamiento de establecimientos públicos destinados a la investigación científica en materia de salud.
+El Director Municipal de Protección Civil tendrá además las siguientes facultades:
+
+I.- Designar al personal que fungirá a su cargo y al que fungirá como inspector en las diligencias que se realicen en los establecimientos de competencia municipal, quienes también estarán facultados para ejecutar medidas de seguridad, pudiéndose coordinar con las otras autoridades municipales; y
+
+II.- Ordenar la práctica de inspecciones a los establecimientos de competencia municipal, en la forma y término que establece este Reglamento y, en su caso, aplicar las sanciones que correspondan, pudiéndose coordinar con las otras autoridades municipales competentes.
 
 ###### Artículo 94.
 
-En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recursos terapéuticos o de diagnóstico, cuando exista posibilidad fundada de salvar la vida, restablecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento por escrito de éste, de su representante legal, en su caso, o del familiar más cercano en parentesco, sin perjuicio de cumplir con los demás requisitos que determinen esta Ley y otras disposiciones aplicables.
+Las inspecciones de protección civil, tienen el carácter de visitas domiciliarias; por lo que los propietarios, responsables, encargados, administradores, poseedores u ocupantes de los inmuebles, obras o establecimientos señalados por este Reglamento, y los propietarios, ocupantes, poseedores o encargados de inmuebles u obras, están obligados a permitirlas, así como a proporcionar la información necesaria para el desahogo de las mismas.
+
+Los inspectores tendrán las siguientes atribuciones:
+
+I.- Realizar visitas de inspección a los establecimientos que regula este Reglamento;
+
+II.- Realizar notificaciones, levantar actas y ejecutar las medidas de seguridad y sanciones en los términos de las órdenes del Director Municipal de Protección Civil; y
+
+III.- Las demás que les otorgue el presente Reglamento, y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 95.
 
-Los establecimientos que presten servicios de salud y los profesionales, técnicos y auxiliares de la salud del Estado, proporcionarán a éste y a las autoridades federales competentes la información correspondiente, sin perjuicio de las obligaciones de suministrar información que les señalen otras disposiciones legales aplicables.
+Las inspecciones referidas en el presente Capítulo se sujetan a las siguientes bases:
+
+I.- Los inspectores practicarán la visita de inspección dentro de las 24 horas siguientes a la expedición de la orden.
+
+II.- El inspector deberá presentar una orden escrita, que contendrá, nombre del propietario, arrendatario o poseedor, administrador o representante legal, o ante la persona a cuyo cargo esté el inmueble, obra o establecimiento de los señalados en este Reglamento; la ubicación exacta del mismo; la fecha, objeto y aspectos de la orden de inspección; el fundamento legal y la motivación de la misma; el nombre y la firma de la Autoridad que expida la orden; el nombre y firma del inspector autorizado para el entendimiento y desahogo de la inspección. Cuando se ignore el nombre de la persona o personas a quien deba ir dirigida la orden de inspección, se señalarán datos suficientes que permitan la identificación del inmueble, obra o establecimiento de los señalados en este Reglamento, para su validez, pudiendo entender la visita con cualquiera de las personas al principio mencionadas.
+
+III.- Al iniciarse la visita de inspección, el inspector deberá identificarse ante el propietario, arrendatario o poseedor, administrador o representante legal, o ante la persona a cuyo cargo esté el inmueble, obra o establecimiento señalados en este Reglamento, con la credencial vigente que para tal efecto sea expedida, y se entregará al visitado copia legible de la orden de inspección, posteriormente el inspector deberá requerir a la persona con quien se entienda la diligencia para que designe dos personas de su confianza para que funjan como testigos en el domicilio de la diligencia; si éstos no son designados por aquél o los designados no aceptan, éstos serán propuestos y nombrados por el propio inspector, haciendo constar en el acta que las personas designadas por los visitadores aceptaron o no fungir como testigos; y, en caso de no conseguir personas que acepten ser testigos, esto se deberá asentar igualmente en el acta que se levante, sin que estas circunstancias invaliden los resultados de la visita.
+
+IV.- De toda visita se levantará por duplicado acta de la inspección, en la que se harán constar las circunstancias de la diligencia, las deficiencias o irregularidades observadas, debiendo ir las fojas numeradas, en las que se expresará lo dispuesto en la fracción II de este Artículo. Si alguna de las personas se niega a firmar, el inspector lo hará constar en el acta, sin que esta circunstancia altere el valor probatorio del documento o le reste validez al resultado de la visita. Las opiniones de los inspectores sobre el cumplimiento o incumplimiento de los (sic) disposiciones de este Reglamento, no constituyen resolución definitiva.
+
+V.- Uno de los ejemplares del acta quedará en poder de la persona con quien se entendió la diligencia; el original se entregará a la Dirección Municipal de Protección Civil.
+
+VI.- Si no estuviere presente la persona con quien se deba entender la visita de inspección, se le dejará citatorio para que se presente en fecha y hora determinada. En caso de no presentarse, la inspección se entenderá con quien estuviere presente en el lugar visitado, siguiendo el procedimiento establecido en las fracciones II a V de este artículo.
 
 ###### Artículo 96.
 
-En materia de salud, la educación tiene por objeto:
-
-I. Fomentar en la población el desarrollo de actividades y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes;
-
-II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades, los daños provocados por éstas y los efectos del medio ambiente en la salud; y
-
-III. Orientar y capacitar a la población en materia de nutrición; salud visual, mental, bucal y ocupacional; educación sexual y planificación familiar; prevención de riesgos de automedicación, fármaco dependencia, accidentes y discapacidad; uso adecuado de los servicios de salud y rehabilitación de las personas con discapacidad, detección de otras enfermedades y vigilancia sanitaria.
+En el caso de obstaculización u oposición a la práctica de la diligencia, la Dirección Municipal de Protección Civil podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, sin perjuicio de aplicar las sanciones a que haya lugar.
 
 ###### Artículo 97.
 
-Las autoridades sanitarias estatales y municipales, en coordinación con las autoridades federales competentes, propondrán y desarrollarán programas de educación en materia de salud, procurando optimizar los recursos y alcanzar la cobertura total de la población.
+Se consideran medidas de seguridad de inmediata ejecución las que dicte la Dirección Municipal de Protección Civil de conformidad con este Reglamento y demás disposiciones aplicables para proteger el interés público y/o evitar los altos riesgos, emergencias y/o desastres.
 
-El Poder Ejecutivo del Estado, en coordinación con las autoridades federales competentes, promoverá programas que puedan ser difundidos en los medios masivos de comunicación social del Estado.
+Las medidas de seguridad, si no se trata de un caso de alto riesgo, emergencia o desastre, se notificarán personalmente al interesado antes de su aplicación de acuerdo al procedimiento señalado en el artículo 99, sin perjuicio de la aplicación de las sanciones que correspondan.
 
 ###### Artículo 98.
 
-La Secretaría de Salud formulará y desarrollará programas de nutrición, prevención y atención a problemas de malnutrición, promoviendo en coordinación con la Secretaría de Educación, la participación de los organismos estatales, nacionales e internacionales, así como de los sectores social y privado, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos.
+Mediante resolución debidamente fundada y motivada se podrán establecer las medidas de seguridad siguientes:
+
+I.- La suspensión de trabajos y servicios;
+
+II.- La desocupación o desalojo de casas, obras, edificios, establecimientos o, en general, de cualquier inmueble;
+
+III.- La demolición de construcciones o el retiro de instalaciones;
+
+IV.- El aseguramiento y secuestro de objetos materiales;
+
+V.- La clausura temporal o definitiva, total o parcial de establecimientos, construcciones, instalaciones u obras;
+
+VI.- La realización de actos, en rebeldía de los que están obligados a ejecutarlos;
+
+VII.- El auxilio de la fuerza pública;
+
+VIII.- La emisión de mensajes de alerta;
+
+IX.- El aislamiento temporal, parcial o total del área afectada;
+
+X.- El establecimiento de términos para la ejecución para la ejecución (sic) de lo ordenado;
+
+XI.- Las demás que sean necesarias para la prevención, mitigación, auxilio, restablecimiento, rehabilitación y reconstrucción en caso de alto riesgo, emergencias y/o desastres.
 
 ###### Artículo 99.
 
-En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, procurando al efecto la participación de las organizaciones campesinas, ganaderas, cooperativas, instituciones universitarias o de educación superior y organizaciones sociales, cuyas actividades se relacionen con la producción de alimentos.
+Cuando en los establecimientos se realicen actos que constituyan riesgo a juicio de la Dirección Municipal de Protección Civil, esta autoridad en el ámbito de su competencia procederá como sigue:
+
+I.- Se notificará al responsable de la situación exhortándolo a acudir a la Dirección en fecha y hora determinada, que nunca será antes de setenta y dos horas de efectuada la inspección, a que alegue lo que a su derecho convenga o haga notar que se subsanó la causa o motivo constitutivo del riesgo;
+
+II.- En caso de incumplimiento del responsable, en los términos de la fracción anterior, se procederá a la ejecución de la medida o medidas de seguridad correspondientes, las que permanecerán hasta en tanto sea subsanada la causa o motivo constitutivo del riesgo;
+
+III.- En caso de que el riesgo se hubiera producido por la negligencia o irresponsabilidad del propietario, responsable, encargado u ocupante, en el manejo o uso de materiales, de personas, o por no haber sido atendidas las recomendaciones de la Autoridad competente, las Autoridades de Protección Civil, sin perjuicio de que se apliquen las medidas de seguridad, se impondrá multa a quien resultase responsable;
+
+IV.- En caso de que las Autoridades de Protección Civil determinen, que por motivos de su naturaleza resulte imposible la suspensión de la construcción, obra, o actos relativos, o la clausura de los establecimientos; se publicarán avisos a cuenta del propietario o responsable, en uno de los diarios de mayor circulación en la localidad de que se trate, advirtiendo a la población de los riesgos.
 
 ###### Artículo 100.
 
-La Secretaría de Salud, en materia de nutrición, tendrá a su cargo las siguientes obligaciones:
-
-I. Operar un sistema permanente de vigilancia epidemiológica de la nutrición de la población;
-
-II. Coordinar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimenticios adecuados, preferentemente en los grupos sociales vulnerables;
-
-III. Procurar, en coordinación con la Secretaría de Educación, que los alimentos y bebidas que se expendan en las escuelas de nivel preescolar, primaria y secundaria, posean el valor nutricional que coadyuve a una dieta correcta;
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
-
-IV. Establecer permanentemente los mecanismos de participación y colaboración, que permitan involucrar a los diversos sectores de la sociedad en la instrumentación de acciones integrales al interior de las instituciones educativas, encaminadas a modificar los hábitos alimenticios y disminuir el sedentarismo, con el fin de evitar problemas de malnutrición y enfermedades de tipo alimentario en los educandos;
-
-V. Promover la investigación básica y aplicada en ciencias, encaminada a conocer las condiciones de nutrición que prevalecen en la población y a determinar los requerimientos nutricionales mínimos, para la mejora o el mantenimiento de buenas condiciones de salud;
-
-VI. Recomendar las dietas y el consumo de nutrimentos indispensables para la población en general, proveyendo lo necesario, en la esfera de su competencia, a dicho consumo;
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
-
-VII. Realizar acciones de concientización y promoción de las medidas preventivas, a fin de evitar la malnutrición de las personas y en particular de los menores de edad y adolescentes; y
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
-
-VIII. Normar el valor nutritivo y características de la alimentación en las cooperativas escolares así como en espacios comerciales donde se expendan o consuman alimentos en las instituciones de nivel básico.
-
-### Capítulo Tercero. De los efectos del ambiente
+Tratándose de medidas de seguridad de inmediata ejecución, no será necesaria la notificación previa al interesado que se expresa en la fracción I del artículo anterior. La autoridad deberá citar al interesado durante las setenta y dos horas posteriores a la aplicación de la medida de seguridad para que alegue lo que a su derecho convenga, siendo aplicable lo dispuesto en la fracción III, y la parte final de la fracción II del artículo anterior.
 
 ###### Artículo 101.
 
-Las autoridades sanitarias del Estado, adoptarán las medidas y acciones tendientes a la protección de la salud humana, ante los riesgos y daños dependientes de las condiciones del medio ambiente.
+Las acciones que se ordenen por parte de las Autoridades de Protección Civil, para evitar, extinguir, disminuir o prevenir riesgos, altos riesgos, emergencias o desastres, así como las que se realicen para superarlos, serán a cargo del propietario, responsable, encargado u ocupante del establecimiento, sin perjuicio de que sea la propia Autoridad quien las realice en rebeldía del obligado. En este último caso, además del cobro de las cantidades correspondientes, se aplicarán las sanciones económicas que correspondan.
+
+Tanto las sanciones económicas, como en su caso, las cantidades por concepto de cobros por obras realizadas en rebeldía de los obligados, se consideran créditos fiscales, y serán cobrados mediante el procedimiento económico-coactivo de ejecución, por la Tesorería Municipal.
 
 ###### Artículo 102.
 
-Corresponde a la Secretaría de Salud, en este rubro:
-
-I. Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación del ambiente;
-
-II. Vigilar la calidad del agua para uso y consumo humano;
-
-III. Vigilar la seguridad radiológica, en el uso y aprovechamiento de fuentes de radiación, sin perjuicio de la intervención que corresponda a otras autoridades competentes; y
-
-IV. Contar con información actualizada sobre toxicología, en la que se establezcan medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas.
+La responsabilidad por daños o perjuicios derivados de acciones u omisiones que devengan en siniestros o desastres, se determinará y hará efectiva conforme las disposiciones de la legislación aplicable.
 
 ###### Artículo 103.
 
-La Secretaría de Salud se coordinará con las dependencias de la administración pública federal, para la prestación de los servicios que refiere este Capítulo.
+Si lo estima procedente, la autoridad que conozca del procedimiento hará del conocimiento del Ministerio Público los hechos u omisiones que pudieran constituir delito.
 
-## Título Séptimo. Del cuidado de la salud
+## TÍTULO SÉPTIMO. DE LAS SANCIONES, RECURSOS y REVISIÓN
 
-### Capítulo Único. De la información
+### CAPÍTULO I. DE LAS SANCIONES
 
 ###### Artículo 104.
 
-Queda prohibida la descarga de aguas residuales o de contaminantes en cualquier cuerpo de agua superficial o subterráneo, destinados para uso o consumo humano.
-
-Los usuarios que aprovechen en su servicio, aguas que posteriormente serán utilizadas para uso o consumo de la población, estarán obligados a darles el tratamiento correspondiente a fin de evitar riesgos para la salud humana, de conformidad con las disposiciones aplicables.
+Es competente para imponer las sanciones a que se refiere el presente capítulo el Director Municipal de Protección Civil.
 
 ###### Artículo 105.
 
-La Secretaría de Salud, en coordinación con las autoridades federales competentes, las autoridades ejidales y comunales correspondientes y la autoridad estatal encargada de la administración del distrito de riego, orientarán a la población sobre cómo evitar la contaminación de aguas de presas, pluviales, fluviales, lagos y otras que se utilicen para el riego o para uso doméstico, originadas por plaguicidas, sustancias tóxicas y desperdicios o basura.
-
-### Capítulo Cuarto. De la salud ocupacional
+Para los efectos de este Reglamento serán responsables los propietarios, poseedores, administradores, representantes, organizadores y demás personas, involucradas en las violaciones a este Reglamento.
 
 ###### Artículo 106.
 
-La Secretaría de Salud tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberá reunir, de conformidad con lo que establezcan los reglamentos respectivos.
+Son conductas constitutivas de infracción las que se lleven a cabo para:
+
+I.- Ejecutar, ordenar o favorecer actos u omisiones que impidan u obstaculicen las acciones de prevención, auxilio o apoyo a la población en caso de desastre;
+
+II.- Impedir u obstaculizar al personal autorizado al realizar inspecciones o actuaciones en los términos de este Reglamento;
+
+III.- No dar cumplimiento a los requerimientos de la autoridad competente;
+
+IV.- No dar cumplimiento a las resoluciones de la autoridad competente que impongan cualquier medida de seguridad en los términos de este Reglamento;
+
+V.- Realizar falsas alarmas y/o bromas que conlleve la alerta y/o acción de las autoridades de Protección Civil Municipal; y
+
+VI.- En general, cualquier acto u omisión que contravenga las disposiciones del presente Reglamento y de los manuales de las bases y tablas técnicas.
 
 ###### Artículo 107.
 
-El Poder Ejecutivo del Estado, en coordinación con las dependencias y entidades federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características de las personas.
+Las sanciones que podrán aplicarse consistirán en:
 
-### Capítulo Quinto. De la donación
+I.- Amonestación;
+
+II.- Clausura temporal o definitiva, total o parcial de los establecimientos;
+
+III.- Multa equivalente al monto de 20 a 1,000 días de salario mínimo vigente en la zona donde se cometió la infracción;
+
+En caso de reincidencia, el monto de la multa podrá ser incrementado sin exceder de 2,000 días de salario mínimo, y procederá la clausura definitiva;
+
+IV.- Suspensión de obras, instalaciones o servicios; y
+
+V.- Arresto administrativo hasta por 36 horas.
 
 ###### Artículo 108.
 
-En el Estado de Querétaro, las autoridades competentes establecerán acciones y políticas públicas para promover, difundir y desarrollar la cultura de la donación y de trasplantes de órganos, tejidos y células humanas.
+Serán solidariamente responsables:
 
-## Título Octavo. De la prevención y control de enfermedades y accidentes
+I.- Los que ayuden o faciliten a los propietarios, poseedores, administradores, representantes, organizadores y demás personas involucradas en las violaciones a este Reglamento;
 
-### Capítulo Primero. Disposiciones Generales
+II.- Quienes ejecuten, ordenen o favorezcan las acciones u omisiones constitutivas de infracción;
 
 ###### Artículo 109.
 
-El Gobernador del Estado y las autoridades competentes, ejercerán el control sanitario sobre los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deban reunir de conformidad con lo que establezcan los reglamentos respectivos.
+La imposición de sanciones se hará sin perjuicio de la responsabilidad que conforme a otras Leyes corresponda al infractor.
 
 ###### Artículo 110.
 
-La Secretaría promoverá la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, para el óptimo desarrollo de los programas y actividades que estime necesario para la prevención y control de enfermedades y accidentes.
+Al imponerse una sanción se tomará en cuenta:
 
-### Capítulo Segundo. De las enfermedades transmisibles
+I.- El daño o peligro que se ocasione o pueda ocasionarse a la salud o a la seguridad de la población o a su entorno;
 
-### Capítulo Primero. De la educación
+II.- La gravedad de la infracción;
+
+III.- Las condiciones socioeconómicas del infractor; y
+
+IV.- La reincidencia, en su caso.
+
+### CAPÍTULO II. DE LAS NOTIFICACIONES Y RECURSOS
 
 ###### Artículo 111.
 
-Las autoridades sanitarias estatales y municipales, realizarán actividades de vigilancia epidemiológica, prevención y control de enfermedades transmisibles, tales como:
+Los acuerdos que tomen las Autoridades Municipales de Protección Civil en cualquier sentido, se notificarán a los interesados atendiendo en lo conducente, a lo dispuesto por el Código de Procedimientos Civiles del Estado.
 
-I. Cólera, fiebre tifoidea, paratifoidea, shigelosis, amibiasis, hepatitis virales y otras enfermedades del aparato digestivo;
-
-II. Influenza epidémica, infecciones agudas del aparato respiratorio, infecciones meningocócicas y enfermedades causadas por estreptococos;
-
-III. Tuberculosis;
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
-
-IV. Difteria, tos ferina, tétanos, sarampión, poliomielitis, rubéola y parotiditis infecciosa;
-
-V. Rabia, peste, brucelosis y otras zoonosis. En estos casos, la Secretaría de Salud coordinará sus actividades con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
-
-VI. Fiebre amarilla, dengue y otras virales transmitidas por artrópodos;
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
-
-VII. Paludismo, tifo, fiebre recurrente transmitida por piojo, otras rickettsiosis, leishmaniasis, tripanosomiasis y oncocercosis;
-
-VIII. Sífilis, infecciones gonocócicas y otras de transmisión sexual;
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
-
-IX. Lepra y mal del pinto;
-
-X. Micosis profundas;
-
-XI. Helmintiasis intestinales y extraintestinales;
-
-XII. Toxoplasmosis;
-
-XIII. Síndrome de Inmunodeficiencia Adquirida (SIDA);
-
-XIV. Virus del Papiloma Humano (VPH); y
-
-XV. Las demás que determinen el Consejo de Salubridad General y los tratados y convenciones internacionales en los que los México sea parte.
+DEL RECURSO DE RECONSIDERACIÓN
 
 ###### Artículo 112.
 
-Las vacunaciones contra la tosferina, la difteria, el tétanos, la tuberculosis, la poliomielitis, el sarampión y el virus del papiloma humano, así como las que en el futuro la Secretaría de Salud estimare necesarias, serán obligatorias en los términos que establezca. Esta autoridad determinará los sectores de población que deban ser vacunados y las condiciones en que se suministrarán las vacunas, conforme a los programas que al efecto se prevean, los que serán de observación obligatoria para las instituciones de salud estatales y municipales.
-
-### Capítulo Tercero. De los accidentes
+Contra los dictámenes, determinaciones, resoluciones y acuerdos dictados por las Autoridades Municipales de Protección Civil procede el recurso de reconsideración.
 
 ###### Artículo 113.
 
-El Consejo Estatal para la Prevención de Accidentes, tiene como finalidad atender lo relativo a la prevención y control de accidentes; se integra por representantes de los sectores público, social y privado del Estado. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los sistemas nacional y estatal de salud.
-
-## Título Noveno. De la asistencia social, prevención y rehabilitación de las personas con discapacidad
-
-### Capítulo Único. Disposiciones generales
+El recurso de reconsideración tiene por objeto que la Autoridad Municipal de Protección Civil que emitió el acto recurrido examine el acto o acuerdo que se reclama a fin de constatar si existe violación al respecto, pudiendo confirmarlo, modificarlo o revocarlo.
 
 ###### Artículo 114.
 
-Para los efectos de esta Ley, se entiende por asistencia social el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
-
-También serán objeto de esta Ley, los servicios asistenciales que presten tanto las instituciones públicas como las privadas.
+El recurso de reconsideración se interpondrá por escrito ante la autoridad que dictó el acto que se impugna, dentro en un plazo no mayor de cinco días hábiles contados a partir de la fecha de su notificación o conocimiento.
 
 ###### Artículo 115.
 
-En los términos de este ordenamiento legal, son actividades de asistencia social:
+El escrito de reconsideración deberá indicar:
 
-I. La atención a personas que, por sus carencias socioeconómicas o por problemas de capacidades diferentes, se ven impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+I.- El nombre y domicilio del interesado;
 
-II. La atención, en establecimientos especializados, a menores, ancianos y personas con discapacidad en estado de abandono o desamparo, que no tengan recursos económicos suficientes para cubrir los gastos correspondientes;
+II.- El acto que se impugna;
 
-III. La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
+III.- La autoridad que lo emitió;
 
-IV. El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
+IV.- Fecha de notificación o conocimiento del acto recurrido;
 
-V. La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos, mujeres y personas con discapacidad, siempre que no cuenten con recursos para ello;
+V.- Exposición suscinta de hechos que motivan el recurso;
 
-VI. La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
+VI.- Los preceptos legales violados;
 
-VII. La promoción de la participación consciente y organizada de la población con carencias, en las acciones de promoción, asistencia y desarrollo social que se lleven a cabo en su propio beneficio;
+VII.- La expresión de los agravios que le cause el dictamen, determinación o acuerdo;
 
-VIII. El apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas;
+VIII.- El recurrente deberá adjuntar:
 
-IX. El apoyo médico a mujeres en periodo de gestación o lactancia, especialmente a las que carecen de recursos económicos y a adolescentes en situación de vulnerabilidad; y
+a).- El documento con que acredite su personalidad, cuando no actúe en nombre propio;
 
-X. La prestación de servicios funerarios.
+b).- El documento en que conste el acto impugnado;
+
+c).- La constancia de notificación del acto impugnado; y,
+
+d).- Las pruebas y demás elementos de convicción que ofrezca el recurrente.
 
 ###### Artículo 116.
 
-Para fomentar el desarrollo de programas públicos de asistencia social, el titular del Poder Ejecutivo del Estado promoverá la canalización de recursos y el apoyo técnico necesario.
-
-Asimismo, procurará destinar los apoyos necesarios a los programas de asistencia social, públicos y privados, para fomentar su aplicación.
+Si el escrito por el cual se interpone el recurso fuere oscuro o irregular, la autoridad receptora prevendrá al recurrente, por una sola vez, a efecto de que lo aclare, corrija o complete, de acuerdo con el presente Reglamento, señalándose en concreto sus defectos, con el apercibimiento de que si no cumple dentro del plazo de tres días hábiles, se tendrá por no interpuesto el recurso.
 
 ###### Artículo 117.
 
-Los menores en estado de desprotección social, tienen derecho a recibir los servicios asistenciales que necesiten, en cualquier establecimiento público dependiente del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+Las pruebas que ofrezca el recurrente, deberá relacionarlas con los hechos que motiven el recurso. Se tendrán por no ofrecidas las pruebas documentales, si éstas no se acompañan al escrito en que se interponga el recurso, y en ningún caso serán recabadas por la autoridad conocedora del recurso, salvo que obren en el expediente en que se haya originado el dictamen determinación o acuerdo combatido.
 
 ###### Artículo 118.
 
-Para la prestación de servicios de asistencia social para la atención a mujeres en periodo de gestación, se brindará preferentemente a mujeres y adolescentes que por alguna enfermedad se ponga en riesgo el desarrollo del embarazo así como aquellos casos en que se encuentren es (sic) situación extrema de vulnerabilidad o carezcan de recursos económicos.
+En la substanciación del recurso se admitirán toda clase de pruebas con excepción de la testimonial y la confesional por posiciones, así como aquellas que tengan el carácter de supervinientes; en su desahogo y valoración, se aplicará supletoriamente el Código de Procedimientos Civiles vigentes en el Estado.
 
 ###### Artículo 119.
 
-Los integrantes del Sistema de Salud del Estado de Querétaro, darán atención preferente e inmediata a menores y a adultos mayores sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental, así como a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra su integridad física o mental o su normal desarrollo psicosomático.
-
-En estos casos, las instituciones de salud del Estado podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y adultos mayores, sin perjuicio de dar intervención a las autoridades competentes.
+La autoridad que tramite el recurso, con base en la documentación, pruebas y demás elementos existentes dictará la resolución en un término de quince días hábiles, contados a partir de la fecha en que fue interpuesto o en su caso, de aquella fecha en que se haya cumplido por el recurrente la prevención a que se refiere el artículo 116.
 
 ###### Artículo 120.
 
-El Gobernador del Estado a través de la Secretaría de Salud, se coordinará con los organismos federales, estatales y municipales encargados de la asistencia social, para la prestación de servicios y la realización de las demás acciones que establezcan las disposiciones legales aplicables.
+Es improcedente el recurso de reconsideración cuando se haga valer contra dictámenes, determinaciones, resoluciones o acuerdos dictados por las Autoridades Municipales de Protección Civil:
 
-### Capítulo Segundo. De la nutrición
+I.- Que no afecten el interés jurídico del recurrente;
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+II.- Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de éstas o de sentencias;
+
+III.- Que se hayan consentido expresa o tácitamente, entendiéndose esto último, aquéllos contra los que no se interpuso el recurso administrativo dentro del plazo señalado por este ordenamiento legal;
+
+IV.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso de defensa diferente;
+
+V.- Que de acuerdo a las constancias de autos apareciere claramente que no existe tal dictamen, determinación o acuerdo impugnado; y
+
+VI.- Que haya sido impugnado ante una diversa Autoridad a la que emitió el acto recurrido o mediante algún recurso o medio de defensa diferente.
+
+### CAPÍTULO III. DE LA REVISIÓN Y CONSULTA
 
 ###### Artículo 121.
 
-Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus respectivas competencias, colaborarán para proporcionar atención rehabilitadora, cuando así se requiera.
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Protección Civil del Republicano Ayuntamiento, argumentando las razones que la sustentan. La Comisión de Protección Civil deberá, en un plazo no mayor de 30 días hábiles, analizar, valorar y responder por escrito al promovente. En caso de considerarse procedente la reforma se hará del conocimiento del Republicano Ayuntamiento para su consideración y resolución.
 
 ###### Artículo 122.
 
-La Secretaría de Salud y el SESEQ en coordinación con el Consejo Estatal para las Personas con Discapacidad y otras instituciones afines, promoverán que en los lugares donde se presten servicios públicos se realicen adecuaciones que faciliten el acceso y el libre desplazamiento de las personas con discapacidad, para que puedan hacer uso de los servicios.
+En la elaboración de los manuales de las bases y tablas técnicas a que se refiere el artículo 12 de este Reglamento se tomará en cuenta la opinión de la comunidad.
 
-###### Artículo 123.
+T R A N S I T O R I O S
 
-El patrimonio de la beneficencia pública, estará a cargo del organismo denominado "Administración del Patrimonio de la Beneficencia Pública", adscrito al SESEQ y corresponderá a éste representar los intereses de aquélla y distribuir los recursos que a la misma se destinen.
+PRIMERO.- El presente Reglamento entrara en vigor el día de su publicación en el Periódico Oficial del Estado.
 
-###### Artículo 124.
+SEGUNDO.- Se derogan todas las disposiciones Municipales que contravengan lo dispuesto en el presente Reglamento.
 
-La Secretaría de Salud conformará un Comité Técnico de Valoración para certificar el diagnóstico y la posibilidad de rehabilitación de las personas con discapacidad, expidiendo al solicitante el documento que acredite el grado de discapacidad, el cual tendrá validez ante cualquier organismo público o privado del estado de Querétaro.
+TERCERO.- En un plazo máximo de treinta días hábiles a partir de la vigencia de este Reglamento, deberá integrarse el Consejo Municipal de Protección Civil, efectuando la sesión de instalación correspondiente. El Consejo se instalará sin los vocales a que se refiere el inciso l) de la fracción I del artículo 19 de este Reglamento, quienes serán propuestos por el Consejo en la segunda sesión ordinaria que celebre.
 
-## Título Décimo. Del programa contra las adicciones
+CUARTO.- El Programa Municipal de Protección Civil deberá expedirse en un plazo no mayor a 180 días naturales, contados a partir de la entrada en vigor de este Reglamento.-
 
-### Capítulo Primero. Del programa contra el abuso de bebidas alcohólicas
+Dado en la sala de sesiones del R. Ayuntamiento de Monterrey, a los veintinueve días del mes de junio del año dos mil uno.
 
-###### Artículo 125.
+EL C. PRESIDENTE MUNICIPAL
 
-Las autoridades estatales y municipales, en su ámbito de competencia, deberán prevenir y combatir el abuso en el consumo de bebidas alcohólicas, inhibir la comisión de infracciones y delitos relacionados con dicho abuso, proteger la salud de los riesgos derivados del mismo, de conformidad con lo dispuesto en la presente Ley y las demás disposiciones aplicables.
+LIC. FELIPE DE JESÚS CANTÚ RODRÍGUEZ
 
-###### Artículo 126.
+EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
-El Poder Ejecutivo del Estado, se coordinará con las autoridades sanitarias federales para la ejecución, en el Estado, del programa contra el alcoholismo y el abuso de bebidas alcohólicas, comprendiendo, entre otras, las siguientes acciones:
+C.P. ROBERTO RAMÍREZ VILLARREAL
 
-I. La prevención, tratamiento y rehabilitación de los alcohólicos;
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012.)</small>
+P.O. 9 DE NOVIEMBRE DE 2001.
 
-II. La educación sobre los efectos del alcohol en salud y en las relaciones sociales, dirigida de forma general a toda la población y, de forma especial, a los grupos vulnerables, a través de métodos adecuados para ello; y
-
-III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales o consideradas de alto riesgo.
-
-###### Artículo 127.
-
-Para obtener información que las oriente, las autoridades sanitarias del Estado, en coordinación con otras dependencias y entidades públicas, realizarán actividades de investigación en los siguientes casos:
-
-I. Causas del alcoholismo y acciones para contrarrestar sus efectos negativos;
-
-II. Efectos de la publicidad de bebidas alcohólicas en la incidencia del alcoholismo y en los problemas relacionados con su consumo;
-
-III. Hábitos de consumo de alcohol en los diferentes grupos de población; y
-
-IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, laboral y educativo.
-
-### Capítulo Segundo. Del programa contra el tabaquismo
-
-###### Artículo 128.
-
-El Poder Ejecutivo del Estado, se coordinará con las autoridades sanitarias federales y municipales para la ejecución, en el Estado, del Programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
-
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
-
-I. La prevención, diagnóstico, tratamiento y rehabilitación del tabaquismo y de los padecimientos originados por éste;
-
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
-
-II. La educación sobre los efectos del tabaquismo en la salud, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar al interior de los espacios 100% libres de humo de tabaco, conforme a lo establecido en las disposiciones legales aplicables;
-
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
-
-III. La elaboración de un sistema de seguimiento y evaluación de metas del Programa contra el Tabaquismo, que incluya, al menos, las conductas relacionadas al tabaco y su impacto en la salud;
-
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
-
-IV. El diseño de programas, servicios de cesación y opciones terapéuticas que ayuden a dejar de fumar, combinadas con consejería y otras intervenciones, así como el diseño de campañas de publicidad que promuevan la cesación y disminuyan las probabilidades de iniciarse en el consumo de los productos del tabaco;
-
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
-
-V. La determinación y ejercicio de medios de control en expendios de tabaco en cualquiera de sus formas, a efecto de prevenir su consumo por parte de los menores de edad y de los incapaces; y
-
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
-
-VI. La prohibición de fumar en los espacios 100% libres de humo de tabaco. Los responsables de los edificios, oficinas o instalaciones de la administración pública estatal o municipal, así como de los organismos constitucionales autónomos, podrán disponer de los espacios en que se permite fumar, únicamente en el supuesto de que el edificio no haya sido declarado 100% libre de humo de tabaco. Fuera de estos lugares se prohíbe el consumo de tabaco.
-
-Los responsables de dichas instalaciones, en los términos de las disposiciones que los rijan, coadyuvarán con las autoridades sanitarias a efecto de dar cumplimiento con lo dispuesto en esta fracción.
-
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
-
-###### Artículo 129.
-
-Para poner en práctica las acciones del Programa contra el Tabaquismo, se tendrán en cuenta los siguientes aspectos:
-
-I. La generación de la evidencia científica sobre las causas y consecuencias del tabaquismo, la evaluación del programa, así como la cooperación técnica, jurídica y prestación de asesoramiento especializado;
-
-II. La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes; y
-
-III. La vigilancia e intercambio de información, con los diferentes organismos y dependencias relacionados con la materia.
-
-### Capítulo Tercero. Del programa contra la farmacodependencia
-
-###### Artículo 130.
-
-El titular del Poder Ejecutivo del Estado coadyuvará con la Secretaría de Salud federal, en la ejecución del Programa Nacional contra la fármaco dependencia.
-
-###### Artículo 131.
-
-El titular del Poder Ejecutivo del Estado y los municipios, para evitar y prevenir el consumo de sustancias tóxicas y psicotrópicos, se ajustará a lo siguiente:
-
-I. Determinarán y ejercerán medios de control en el expendio de sustancias tóxicas, para prevenir su consumo por parte de menores de edad e incapaces;
-
-II. Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas substancias, para evitar el empleo indebido de las mismas;
-
-III. Brindarán la atención médica que se requiera a las personas que usen o hayan utilizado sustancias tóxicas; y
-
-IV. Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el uso de sustancias tóxicas;
-
-A los establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan las autoridades competentes, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan, en los términos de esta Ley.
-
-### Capítulo Cuarto. Del programa contra las adicciones comportamentales
-
-###### Artículo 132.
-
-La Secretaría se coordinará con los municipios, para la ejecución del programa contra las adicciones comportamentales que comprenderá, entre otras, las siguientes acciones:
-
-I. La prevención, tratamiento y rehabilitación de problemas originados por las adicciones comportamentales; y
-
-II. La difusión dirigida especialmente a la familia y a los adolescentes, a través de medios de comunicación, sobre los diversos tipos de adicciones comportamentales y los efectos nocivos que producen en la salud y en las relaciones sociales, escolares y familiares.
-
-###### Artículo 133.
-
-La Secretaría elaborará un programa de investigación neurobiológico, psicológico y fisiológico, sobre las adicciones comportamentales y lo ejecutará en coordinación con el Centro Comunitario de Salud Mental del Estado, el cual incluirá:
-
-I. Las causas de las adicciones comportamentales y las acciones para combatirlas;
-
-II. Los efectos de publicidad en las adicciones comportamentales;
-
-III. Los efectos nocivos y repercusiones de las adicciones comportamentales en el ámbito familiar, escolar, laboral y social; y
-
-IV. La comorbilidad entre las adicciones comportamentales y las adicciones a sustancias.
-
-###### Artículo 134.
-
-La Secretaría elaborará un programa estatal contra las adicciones comportamentales y lo ejecutará en coordinación con las autoridades municipales, en su ámbito de competencia.
-
-###### Artículo 135.
-
-La Secretaría establecerá un programa de actualización en el estudio de las adicciones comportamentales, que incluya además de los trabajadores de la salud, preferentemente a los maestros de educación básica, media superior y superior.
-
-Título Decimoprimero
-
-De la salubridad local
-
-### Capítulo Primero. Disposiciones generales
-
-###### Artículo 136.
-
-La Secretaría emitirá los lineamientos a que quedará sujeto el control sanitario de las materias de salubridad local.
-
-###### Artículo 137.
-
-Los establecimientos y vehículos sujetos al control sanitario establecido en la presente Ley, estarán obligados a presentar aviso de funcionamiento ante la Secretaria, dentro de los quince días hábiles siguientes al inicio de sus actividades.
-
-###### Artículo 138.
-
-Todo cambio de propietario de un establecimiento, de razón o denominación social autorizado por la Secretaría, deberá ser comunicado por éste en un plazo no mayor de treinta días a partir de la fecha en que se hubiere realizado, sujetándose al trámite correspondiente a las disposiciones reglamentarias aplicables.
-
-### Capítulo Segundo. Del comercio de productos alimenticios en almacenes y tiendas no especializadas
-
-###### Artículo 139.
-
-Corresponde a las autoridades competentes, poder ordenar y vigilar que periódicamente se fumiguen los comercios de productos y alimenticios en almacenes y tiendas no especializadas, con el propósito de evitar la proliferación de fauna nociva para la salud, de acuerdo a las disposiciones establecidas por la Ley de la materia.
-
-###### Artículo 140.
-
-Los mercados y centros de abasto, desde el punto de vista higiénico, estarán bajo la vigilancia de la autoridad sanitaria competente, la cual comprobará que se cumpla con los requisitos legales establecidos.
-
-###### Artículo 141.
-
-Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el doble mantenimiento de sus locales y el ejercicio de sus actividades se sujetarán a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las correspondientes normas oficiales mexicanas.
-
-### Capítulo Tercero. De las construcciones
-
-###### Artículo 142.
-
-En el aspecto sanitario, las construcciones, reconstrucciones, modificaciones y adaptaciones deberán cumplir con las disposiciones de esta Ley, otras disposiciones legales aplicables y las normas oficiales mexicanas que correspondan.
-
-###### Artículo 143.
-
-Para iniciar y realizar la construcción, modificación y acondicionamiento de un edificio, se requiere de permiso sanitario del proyecto en cuanto a iluminación, ventilación, instalaciones sanitarias y contra accidentes.
-
-###### Artículo 144.
-
-Cuando el uso que se pretenda dar a un edificio o local sea público, además de los requisitos previstos en otras disposiciones aplicables, se deberá contar con agua potable corriente y retretes públicos, los cuales deberán reunir los requisitos correspondientes.
-
-###### Artículo 145.
-
-El responsable de la construcción, reconstrucción, modificación o acondicionamiento de cualquiera de los establecimientos a que se refiere este Título, deberá dar aviso de inicio y terminación de obra a la autoridad municipal que corresponda, quien vigilará el cumplimiento de los requisitos aprobados en el proyecto a que se refiere esta Ley, demás disposiciones legales y las normas oficiales mexicanas aplicables.
-
-###### Artículo 146.
-
-Los edificios y locales terminados podrán dedicarse al uso que se destinen, una vez inspeccionados y declarada la conformidad por parte de la autoridad municipal.
-
-###### Artículo 147.
-
-Los edificios, locales, construcciones o terrenos urbanos podrán ser verificados por la autoridad sanitaria estatal, quien ordenará las obras necesarias para satisfacer las condiciones higiénicas y de seguridad en los términos de esta Ley, de otras disposiciones legales aplicables y las normas oficiales mexicanas correspondientes.
-
-###### Artículo 148.
-
-Los propietarios o poseedores de los edificios y locales o de los negocios en ellos establecidos, están obligados a ejecutar las obras que se requieran para cumplir con las condiciones de higiene y seguridad que establezcan las disposiciones legales aplicables y la norma oficial mexicana correspondiente.
-
-### Capítulo Cuarto. De la captación, tratamiento, conducción y distribución de agua
-
-###### Artículo 149.
-
-Los proyectos de abastecimiento de agua potable deberán ser sometidos a la consideración de la autoridad sanitaria estatal y municipal, en su caso, para la aprobación del sistema adoptado y para el análisis minucioso de las aguas.
-
-###### Artículo 150.
-
-La autoridad sanitaria estatal y municipal, en su caso, realizará análisis periódicos de la potabilidad de las aguas, conforme con esta Ley, otras disposiciones legales aplicables y a las normas oficiales mexicanas aplicables.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2011)</small>
-
-### Capítulo Quinto. Del trabajo sexual
-
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
-
-###### Artículo 151.
-
-Para los efectos de esta Ley, se entiende por trabajo sexual la actividad erótico sexual que realice cualquier persona, utilizando cualquier parte de su cuerpo, a cambio de una remuneración económica o en especie.
-
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
-
-###### Artículo 152.
-
-Toda persona que ejerza el trabajo sexual, se sujetará a las medidas y formas de control que señale la Secretaría, conforme a las prevenciones de esta Ley y demás disposiciones aplicables.
-
-Toda persona que ejerza el trabajo sexual, deberá portar en todo momento la tarjeta de control sanitario que establece la presente Ley; quienes realicen dicha actividad sin contar con la mencionada tarjeta, serán sancionadas de conformidad con la Ley o reglamento en la materia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
-
-###### Artículo 153.
-
-Sólo podrán ejercer el trabajo sexual dentro del Estado de Querétaro, las personas que reúnan los siguientes requisitos:
-
-I. Ser mayor de 18 años;
-
-II. Estar en pleno uso y goce de sus facultades físicas y mentales;
-
-III. Acreditar con un examen toxicológico realizado por las autoridades sanitarias, que no se es adicto a bebidas alcohólicas, drogas ni estupefacientes;
-
-IV. Contar con la tarjeta de control sanitario que para tal efecto otorgue la autoridad sanitaria conducente; y
-
-V. Estar inscrito en el padrón que para tal efecto elabore la Secretaría.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
-
-###### Artículo 154.
-
-No podrán ejercer el trabajo sexual, quienes:
-
-I. Padezcan alguna enfermedad infectocontagiosa o de transmisión sexual;
-
-II. Estén embarazadas;
-
-III. No cuenten con la tarjeta de control sanitario vigente; y
-
-IV. Cuando su tarjeta de control sanitario presente vencimiento, carezca de sello y firma vigente o les sea retirada.
-
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
-
-###### Artículo 155.
-
-Queda prohibido el acceso de menores de edad al interior de establecimientos comerciales donde se ejerza el trabajo sexual.
-
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
-
-###### Artículo 156.
-
-Corresponde a las autoridades municipales definir y autorizar las zonas en las que se realice esta actividad. Las autoridades sanitarias en coordinación estrecha con las autoridades municipales, tomarán las medidas necesarias para controlar el ejercicio del trabajo sexual.
-
-Esta actividad no podrá ejercerse cerca de áreas habitacionales, escuelas, oficinas públicas, centros culturales, religiosos y deportivos.
-
-### Capítulo Sexto. De los centros penitenciarios
-
-###### Artículo 157.
-
-Los centros penitenciarios estarán sujetos al control sanitario del Poder Ejecutivo del Estado, de conformidad con las disposiciones que se señalan en esta Ley y demás disposiciones aplicables.
-
-###### Artículo 158.
-
-Los centros penitenciarios deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas oficiales mexicanas correspondientes, con un departamento de baños de regadera y otro de enfermería, ésta ultima para la atención de aquellos casos de enfermedad en la que no se requiera traslado a un hospital.
-
-Título Decimosegundo
-
-De las tarjetas sanitarias y certificaciones
-
-### Capítulo Primero. De las tarjetas sanitarias
-
-###### Artículo 159.
-
-El SESEQ podrá requerir tarjeta de control sanitario a las personas que realicen actividades mediante las cuales se pueda propagar alguna enfermedad transmisible, en los casos y bajo las condiciones que establezcan las disposiciones aplicables.
-
-###### Artículo 160.
-
-Los obligados a tener tarjeta sanitaria deberán exhibirla en el momento en que la autoridad sanitaria lo requiera.
-
-### Capítulo Segundo. De la revocación de tarjetas sanitarias
-
-###### Artículo 161.
-
-La autoridad sanitaria competente revocará las tarjetas sanitarias que haya otorgado, en los siguientes casos:
-
-I. Cuando por causas supervenientes, se compruebe que el ejercicio de las actividades que hubieran autorizado constituyen riesgo o daño para la salud humana;
-
-II. Cuando el ejercicio de la actividad que se hubiera autorizado, exceda los límites fijados en la tarjeta respectiva;
-
-III. Porque se de un uso distinto al autorizado;
-
-IV. Por incumplimiento grave a las disposiciones de esta Ley, sus reglamentos y demás disposiciones generales aplicables;
-
-V. Por desacato a las órdenes que dicte la autoridad sanitaria, en los términos de esta Ley y demás disposiciones generales aplicables;
-
-VI. Cuando resulten falsos los datos o documentos proporcionados por el interesado que hubieren servido de base a la autoridad sanitaria para otorgar la tarjeta;
-
-VII. Cuando el interesado no se ajuste a los términos, condiciones y requisitos en que se le haya otorgado la tarjeta o haga uso indebido de ésta;
-
-VIII. Cuando lo solicite el interesado; y
-
-IX. En los demás casos que determine la autoridad sanitaria.
-
-###### Artículo 162.
-
-Cuando la revocación de una tarjeta sanitaria se funde en los riesgos o daños que pueda causar o cause un servicio, la autoridad sanitaria dará conocimiento de tales revocaciones a las dependencias y entidades públicas que tengan atribuciones de orientación al consumidor.
-
-### Capítulo Tercero. De los certificados
-
-###### Artículo 163.
-
-Para los efectos de esta Ley, se entiende por certificado la constancia expedida en los términos que establezcan las autoridades sanitarias del Estado, para la comprobación o información de determinados hechos.
-
-###### Artículo 164.
-
-Para fines sanitarios, la autoridad sanitaria competente extenderá los siguientes certificados:
-
-I. Prenupciales;
-
-II. De defunción;
-
-III. De muerte fetal; y
-
-IV. Los demás que determinen la Ley General de Salud y sus reglamentos.
-
-###### Artículo 165.
-
-El certificado médico prenupcial será requerido por las autoridades del Registro Civil a quienes pretendan contraer matrimonio, con las excepciones que establezcan las disposiciones generales aplicables.
-
-###### Artículo 166.
-
-Los certificados de defunción y de muerte fetal serán expedidos una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas facultadas por la autoridad sanitaria competente.
-
-###### Artículo 167.
-
-Los certificados a que se refiere este Título, se extenderán por la autoridad sanitaria estatal en los modelos aprobados por la Secretaría, de conformidad con las normas que la misma emita.
-
-Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
-
-Título Decimotercero
-
-De la vigilancia sanitaria
-
-### Capítulo Único. Disposiciones generales
-
-###### Artículo 168.
-
-Corresponde a las autoridades sanitarias del Estado, en sus respectivos ámbitos de competencia, la vigilancia del cumplimiento de esta Ley y demás disposiciones que se dicten con base en ella.
-
-Con respecto a las funciones de control y regulación sanitaria que se descentralicen a los municipios, la autoridad sanitaria estatal podrá desarrollar acciones para evitar riesgos o daños a la salud de la población. En todos los casos, la propia autoridad dará conocimiento a las autoridades municipales de las acciones que lleven a cabo.
-
-###### Artículo 169.
-
-Las demás dependencias y entidades públicas coadyuvarán a la vigilancia del cumplimiento de las normas sanitarias y, cuando encontraren irregularidades que a su juicio constituyan violaciones a las mismas, lo harán del conocimiento de las autoridades sanitarias competentes.
-
-###### Artículo 170.
-
-El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrán ser objeto de orientación y educación de los infractores con independencia de que se aplique, si procedieren, las medidas de seguridad y las sanciones correspondientes en esos casos.
-
-###### Artículo 171.
-
-La vigilancia sanitaria se llevará a cabo mediante visitas de verificación a cargo de verificadores designados por la autoridad sanitaria estatal, quienes deberán realizar las respectivas diligencias de conformidad con las prescripciones de esta Ley y demás disposiciones aplicables.
-
-###### Artículo 172.
-
-Las autoridades sanitarias del Estado podrán encomendar a sus verificadores, además, actividades de orientación, educación y aplicación, en su caso, de las medidas de seguridad que se refiere esta Ley.
-
-Título Decimocuarto
-
-De las medidas de seguridad sanitaria
-
-### Capítulo Único. De las medidas de seguridad sanitaria
-
-###### Artículo 173.
-
-Se consideran medidas de seguridad sanitaria, aquellas disposiciones de inmediata ejecución que dicten la Secretaría y los municipios, de conformidad con los preceptos de esta Ley y los convenios que al efecto se suscriban, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que en su caso resulten aplicables.
-
-Son competentes para ordenar y ejecutar las medidas de seguridad, las autoridades sanitarias del Estado, en el ámbito de sus competencias.
-
-###### Artículo 174.
-
-Son medidas de seguridad sanitaria, las siguientes:
-
-I. El aislamiento;
-
-II. La cuarentena;
-
-III. La observación personal;
-
-IV. La vacunación de personas,
-
-V. La vacunación de animales;
-
-VI. La destrucción o control de insectos u otra fauna transmisora y nociva;
-
-VII. La suspensión de trabajos o servicios;
-
-VIII. El aseguramiento o destrucción de objetos, productos o substancias;
-
-IX. La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio;
-
-X. La prohibición de actos de uso; y
-
-XI. Las demás de índole sanitaria que determinen las autoridades del Estado, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
-
-###### Artículo 175.
-
-Se entiende por aislamiento la separación de personas infectadas, durante el periodo de transmisibilidad, en lugares y condiciones que eviten el peligro de contagio.
-
-El aislamiento se ordenará por escrito, previo dictamen médico y durará el tiempo estrictamente necesario para que desaparezca el peligro.
-
-###### Artículo 176.
-
-Se entiende por cuarentena la limitación a la libertad de tránsito de personas sanas que hubieren estado expuestas a una enfermedad transmisible, por el tiempo estrictamente necesario para controlar el riesgo de contagio.
-
-La cuarentena se ordenará por escrito, previo dictamen médico y consistirá en que las personas expuestas no abandonen determinado sitio o se restrinja su asistencia a determinados lugares.
-
-###### Artículo 177.
-
-La observación personal consiste en la estrecha supervisión sanitaria de los presuntos portadores, sin limitar su libertad de tránsito, con el fin de facilitar la rápida identificación de la infección o enfermedad transmisible.
-
-###### Artículo 178.
-
-Se ordenará la vacunación de personas expuestas a contraer enfermedades transmisibles, en los siguientes casos:
-
-I. Cuando no hayan sido vacunadas contra la tosferina, la difteria, el tétano, la tuberculosis, la poliomielitis, el sarampión y demás enfermedades transmisibles, cuya vacunación se estime obligatoria;
-
-II. En caso de epidemia grave; y
-
-III. Si existiere peligro de invasión de dichos padecimientos en el Estado.
-
-###### Artículo 179.
-
-El Poder Ejecutivo del Estado podrá ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
-
-###### Artículo 180.
-
-La Secretaría ejecutará las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando éstos constituyan un peligro para la salud de las personas.
-
-En todo caso, se dará a las dependencias encargadas de la sanidad animal, la intervención que corresponda.
-
-###### Artículo 181.
-
-La Secretaría podrá ordenar la inmediata suspensión de trabajos o servicios o la prohibición de actos de uso, cuando, de continuar aquellos, se ponga en peligro la salud de las personas.
-
-###### Artículo 182.
-
-La suspensión de trabajos o servicios será temporal. Podrá ser total o parcial y se aplicará por el tiempo estrictamente necesario para corregir las irregularidades que pongan en peligro la salud de las personas. Se ejecutarán las acciones necesarias que permitan asegurar la referida suspensión.
-
-Durante la suspensión se podrá permitir el acceso de las personas que tenga encomendada la corrección de las irregularidades que la motivaron.
-
-###### Artículo 183.
-
-El aseguramiento de objetos, productos o substancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales que se establezcan en las disposiciones legales aplicables.
-
-La autoridad sanitaria podrá retenerlos o dejarlos en depósito, hasta en tanto se determine, previo dictamen, su destino.
-
-Si el dictamen reportara que el bien asegurado no es nocivo para la salud y cumple con las disposiciones legales correspondientes, se procederá a su inmediata devolución.
-
-Si del dictamen resultara que el bien asegurado es nocivo, se podrá determinar, previa observancia de la garantía de audiencia, que el mismo sea sometido a un tratamiento que haga posible su legal aprovechamiento por el interesado o sea destruido si no pudiere tener un uso lícito por parte de la autoridad.
-
-Si el dictamen reportara que el bien asegurado no es nocivo para la salud y cumple con las disposiciones legales correspondientes, se procederá a su inmediata devolución. Si el interesado no gestionara la recuperación dentro de un plazo de treinta días hábiles, se entenderá que el bien causa abandono y quedará a disposición de la autoridad sanitaria competente para su aprovechamiento lícito.
-
-###### Artículo 184.
-
-La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
-
-## TRANSITORIOS
-
-Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
-
-Artículo Segundo. Se abroga la Ley de Salud del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 40, de fecha 11 de julio de 2003 y sus reformas.
-
-Artículo Tercero. El titular del Poder Ejecutivo del Estado emitirá las normas reglamentarias que resulten necesarias para la aplicación de la presente Ley.
-
-Artículo Cuarto. En tanto se expiden los reglamentos de esta Ley, la Secretaría de Salud del Estado podrá continuar aplicando las disposiciones legales conducentes.
-
-LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
-
-DADO EN EL SALÓN DE SESIONES "CONSTITUYENTES DE 1916-1917" RECINTO OFICIAL DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, A LOS OCHO DÍAS DEL MES DE ENERO DEL AÑO DOS MIL NUEVE.
-
-A T E N T A M E N T E
-
-LV LEGISLATURA DEL ESTADO DE QUERÉTARO
-
-MESA DIRECTIVA
-
-DIP. MIGUEL MARTÍNEZ PEÑALOZA
-
-PRESIDENTE
-
-Rúbrica
-
-DIP. JOSÉ GUADALUPE GARCÍA RAMÍREZ
-
-PRIMER SECRETARIO
-
-Rúbrica
-
-Lic. José Eduardo Calzada Rovirosa, Gobernador Constitucional del Estado de Querétaro, en ejercicio de lo dispuesto por los artículos 22 fracción I, 23 de la Constitución Política del Estado de Querétaro y 8 de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro; expido y promulgo la presente Ley de Salud del Estado de Querétaro.
-
-Dado en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado de Querétaro, en la Ciudad de Santiago de Querétaro, Qro., el día veintiuno del mes de enero del año dos mil diez, para su debida publicación y observancia.
-
-Lic. José Eduardo Calzada Rovirosa
-
-Gobernador Constitucional del Estado de Querétaro
-
-Rúbrica
-
-Lic. Jorge García Quiroz
-
-Secretario de Gobierno
-
-Rúbrica
-
-Dr. Mario César García Feregrino
-
-Secretario de Salud
-
-Rúbrica
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 3 DE SEPTIEMBRE DE 2010.
-
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
-
-Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
-
-Artículo Tercero. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
-
-P.O. 26 DE NOVIEMBRE DE 2010.
-
-###### ARTICULO SEGUNDO.
-
-SE REFORMAN LAS FRACCIONES XII DEL APARTADO A, I DEL APARTADO B DEL ARTICULO 3; SE ADICIONA UNA FRACCIÓN XI AL ARTICULO 19, RECORRIENDO LA ACTUAL FRACCIÓN XI; SE ADICIONA UNA FRACCIÓN V AL ARTICULO 20, RECORRIENDO LA ACTUAL FRACCIÓN V; SE REFORMA LA FRACCIÓN IX DEL ARTICULO 30; SE REFORMA LA FRACCIÓN II Y SE ADICIONA UNA FRACCIÓN X AL ARTICULO 59; SE REFORMA LA FRACCIÓN II DEL ARTICULO 63; SE ADICIONA UNA FRACCIÓN IV AL ARTICULO 67, RECORRIENDO LA ACTUAL FRACCIÓN IV; SE REFORMA EL ARTICULO 98; SE ADICIONA LA FRACCIÓN IV, AL ARTICULO 100, RECORRIENDO LAS ACTUALES FRACCIONES IV Y V Y SE ADICIONAN LAS FRACCIONES VII Y VIII, TODOS DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO.
-
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
-
-Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
-
-Artículo Tercero. Para efecto de lo dispuesto en el artículo 100 fracción VIII de la Ley de Salud del Estado de Querétaro, la Secretaría de Salud contará con el plazo de noventa días naturales, a partir de la entrada en vigor de la presente Ley, para emitir la normatividad que corresponda.
-
-Hasta en tanto es emitida dicha normatividad, deberán atenderse los criterios técnicos correspondientes a la Etapa I de Implementación del "Acuerdo mediante el cual se establecen los Lineamientos Generales para el expendio o distribución de alimentos y bebidas en los establecimientos de consumo escolar de los planteles de educación básica", contenidos en el Cuadro 3 denominado "Criterios nutrimentales de aplicación obligatoria en alimentos y gradualidad de implementación durante tres ciclos escolares a partir del Ciclo Escolar 2010-2011" del Anexo Único del Acuerdo en cita, publicado en el Diario Oficial de la Federación el 23 de Agosto de 2010.
-
-P.O. 26 DE NOVIEMBRE DE 2010.
-
-###### ARTICULO ÚNICO.
-
-SE REFORMAN LAS FRACCIONES IV, VII Y IX DEL ARTÍCULO 111 DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO.
-
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado."La Sombra de Arteaga".
-
-Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
-
-P.O. 22 DE JULIO DE 2011.
-
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
-
-Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
-
-P.O. 25 DE NOVIEMBRE DE 2011.
-
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
-
-Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
-
-P.O. 20 DE ENERO DE 2012.
-
-LEY QUE REFORMA EL ARTÍCULO 29 DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO.
-
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
-
-Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
-
-P.O. 20 DE ENERO DE 2012.
-
-LEY QUE REFORMA LOS ARTÍCULOS 74, 75, FRACCIONES II Y IV, 76, FRACCIÓN I Y 126, FRACCIÓN II, DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO.
-
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
-
-Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+Único. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
