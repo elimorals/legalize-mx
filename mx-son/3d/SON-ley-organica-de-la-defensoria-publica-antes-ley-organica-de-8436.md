@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-la-defensoria-publica-antes-ley-organica-de-843
 country: "mx"
 rank: "ley_organica"
 publication_date: "1973-07-28"
-last_updated: "1973-07-28"
+last_updated: "1993-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DE LA DEFENSORIA DE OFICIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE ENERO DE 1993.
 
 Ley publicada en el alcance al Boletín Oficial del Gobierno del Estado de Sonora, el sábado 28 de julio de 1973.
 
@@ -153,7 +153,9 @@ III.- No haber sido condenado en proceso por delito intencional.
 
 IV.- Ser de reconocida buena conducta.
 
-V.- Tener Título de Licenciado en Derecho o autorización de la Dirección General de Profesiones para ejercer la abogacía o como Pasante de Derecho.
+> <small>(REFORMADA, B.O. 18 DE ENERO DE 1993)</small>
+
+V.- Ser Licenciado en Derecho, con título legalmente expedido.
 
 ###### ARTICULO 13.
 
@@ -217,9 +219,13 @@ Todos los servicios que se presten al público en las oficinas de la Defensoría
 
 La infracción a este precepto será sancionada con destitución del responsable.
 
+> <small>(REFORMADO, B.O. 18 DE ENERO DE 1993)</small>
+
 ###### ARTICULO 19.
 
-Ninguna persona extraña al personal de las oficinas prestará servicios en ellas aún cuando los ofrezca gratuitamente, sin autorización previa y por escrito del Jefe de la Defensoría bajo su más estricta responsabilidad.
+Ninguna persona extraña al personal de las oficinas prestará servicios en ellas, aún cuando los ofrezca gratuitamente, sin autorización previa y por escrito del Jefe de la Defensoría bajo su más estricta responsabilidad. No obstante, el Jefe de la Defensoría de Oficio, podrá celebrar convenios de colaboración con las instituciones de educación superior y con las asociaciones civiles integradas por profesionales colegiados del derecho, o de otras especialidades, que existan en el Estado, con el objeto de que éstos coadyuven en la función que presta la Defensoría de Oficio.
+
+El jefe de la Defensoría de Oficio, se encargará del seguimiento y calificación del trámite judicial de los asuntos en los cuales estén interviniendo los miembros de las instituciones de educación superior o de las asociaciones de profesionales del derecho, o de otras especialidades, con el objeto de que, en caso de no estarse atendiendo debidamente el asunto, o presentarse negligencia, tomar las medidas correspondientes, independientemente de comunicarlo a los Directivos de las Instituciones y asociaciones, según el caso, para los efectos respectivos.
 
 ###### ARTICULO 20.
 
@@ -388,3 +394,11 @@ EL OFICIAL PRIMERO EN FUNCS.
 DE SECRETARIO DE GOBIERNO
 
 René Esquer.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 18 DE ENERO DE 1993.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
