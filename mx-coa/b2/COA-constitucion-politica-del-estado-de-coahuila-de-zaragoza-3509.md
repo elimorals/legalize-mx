@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1921-05-14"
+last_updated: "1926-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 1921.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 1926.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -532,7 +532,9 @@ XXVII. Declarar suspenso a un ciudadano en el ejercicio de sus derechos polític
 
 XXVIII. Convocar a elección cuando fuere necesario y decidir sobre la legalidad de ellas, consignando a la Autoridad Judicial, para su castigo, a los que hubiesen resultado culpables.
 
-XXIX. Erigirse en Gran Jurado para declarar sí ha o no lugar a formación de causa cuando por delitos oficiales o comunes fueren acusados el Gobernador del Estado, los Magistrados del Superior Tribunal de Justicia, los Diputados, el Secretario del Ejecutivo del Estado y del Tesorero General.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 1926)</small>
+
+XXIX. Erigirse en Gran Jurado para declarar si ha o no lugar a formación de causa cuando por delitos oficiales o comunes fueren acusados el Gobernador del Estado, los Magistrados del Superior Tribunal de Justicia, los Diputados, los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos.
 
 XXX. Nombrar al Tesorero General del Estado, a propuesta en terna del Ejecutivo.
 
@@ -676,7 +678,9 @@ IV. Nombrar y remover libremente al Procurador General de Justicia del Estado y 
 
 V. Celebrar, con su carácter de representante del Estado, los contratos y convenios de intereses público en los diversos ramos de la Administración.
 
-VI. Nombrar y remover libremente al Secretario del Poder Ejecutivo del Estado y demás empleados de su dependencia.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 1926)</small>
+
+VI. Nombrar o remover libremente al Secretario de Gobierno y demás empleados de su dependencia; remover también libremente al Tesorero General del Estado.
 
 VII. Nombrar, cuando lo crea conveniente, personas de su confianza para que informen si en los pueblos del Estado se observan la Constitución y las leyes.
 
@@ -684,7 +688,9 @@ VIII. Pedir a la Diputación Permanente expida convocatoria a sesiones extraordi
 
 IX. Objetar por una sola vez, dentro del preciso término de tres días los acuerdos económicos que comunique el Congreso, o la Diputación Permanente, mandándolos cumplir si fueren reproducidas.
 
-X. Visitar y hacer visitar, cuando lo juzgue conveniente, las oficinas de rentas del Estado y municipales y suspender a los empleados de hacienda que en aquellas visitas aparezcan responsables del mal manejo o inversión indebida de los fondos que recauden consignándolos al Juez que corresponda; comunicando la suspensión al Ayuntamiento respectivo, para que designe a la persona que ha de sustituir al suspenso. Si se trata de faltas del Tesorero General, dará cuenta al Congreso con los antecedentes respectivos, para los efectos constitucionales.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 1926)</small>
+
+X. Visitar y hacer visitar, cuando lo juzgue conveniente, las Oficinas de Rentas del Estado y Municipales y suspender a los empleados de Hacienda que en aquellas visitas aparezcan responsables del mal manejo o inversión indebida de los fondos que recauden consignándolos al Juez que corresponda, comunicando la suspensión al Ayuntamiento respectivo, para que designe a la persona que haya de sustituir al suspenso. Cuando se trate de la remoción del Tesorero General a que se refiere la fracción VI de este artículo o de su renuncia, enviará inmediatamente terna al Congreso o a la Diputación Permanente en su caso, para que haga desde luego el nuevo nombramiento, haciéndose cargo entre tanto de la Tesorería como Tesorero Interino, el Contador de la misma.
 
 XI. Remitir al Congreso los antecedentes relativos a delitos oficiales o del orden común cometidos por algún funcionario o empleado que goce fuero constitucional.
 
@@ -1204,7 +1210,9 @@ Para ser Juez de Primera Instancia se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos.
 
-II. Tener título oficial de Abogado, y dos años, cuando menos, de ejercicio de la profesión.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 1926)</small>
+
+II. Tener título oficial de abogado.
 
 III. Ser de buenos antecedentes de moralidad.
 
@@ -1274,17 +1282,17 @@ Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de J
 
 Si el delito fuere común, el Congreso, erigido en Gran Jurado, declarará, por mayoría absoluta de votos, si ha lugar o no a proceder contra el acusado; en caso negativo la declaración no será obstáculo para que las acusaciones continúen su curso cuando el Funcionario haya dejado de tener fuero, pues la resolución del Jurado no prejuzga los fundamentos de la acusación. En caso afirmativo el acusado quedará desde luego separado de su encargo y sujeto a los Tribunales Comunes
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1921)</small>
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 1926)</small>
 
 ###### Artículo 161.
 
-Si el delito cometido por los Funcionarios a que se refiere el artículo 159, fuere oficial, la Legislatura, erigida en Gran Jurado, declarará también, por mayoría absoluta de votos, si ha lugar o no a que se proceda contra el acusado. En caso negativo, cesará todo procedimiento. En el afirmativo, quedará el Funcionario inmediatamente suspenso en sus funciones y sujeto a la acción del Superior Tribunal de Justicia, quien instruirá el proceso respectivo y fallará en definitiva, absolviendo o condenando al inculpado, con audiencia de éste, del Procurador General de Justicia y del acusador si lo hubiere
+Si el delito fuere común, el Congreso erigido en Gran Jurado, declarará si ha lugar o no a proceder en contra del acusado; en caso negativo, la declaración no será obstáculo para que las acusaciones continúen su curso cuando el funcionario haya dejado de tener fuero, pues la resolución del Jurado no prejuzga los fundamentos de la acusación. En caso afirmativo, el acusado quedará desde luego separado de su encargo y sujeto a los Tribunales comunes.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1921)</small>
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 1926)</small>
 
 ###### Artículo 162.
 
-En los delitos comunes, y en los delitos, faltas u omisiones oficiales que cometan los demás Funcionarios o Empleados Públicos, conocerán los Tribunales ordinarios, en los términos que fije la Ley.
+Si el delito cometido por los funcionarios a que se refiere el artículo 159, a excepción del Gobernador, Diputados o Magistrados, fuere oficial la Legislatura erigida en Gran Jurado, declarará por mayoría absoluta de votos, si ha lugar o no a que se proceda contra el acusado. En caso negativo cesará todo procedimiento; en el afirmativo quedará el funcionario inmediatamente suspenso en sus funciones y sujeto a la acción del Superior Tribunal de Justicia, que fallará en definitiva con audiencia del inculpado, del Procurador General de Justicia y del acusador si lo hubiere. Si se tratare del Gobernador, Diputados o Magistrados, será necesario para declarar si hay lugar para proceder en su contra el voto unánime de DOCE diputados de los que integran el total de la Cámara.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 1921)</small>
 
@@ -1310,11 +1318,11 @@ La responsabilidad por delitos o faltas oficiales, sólo podrá exigirse durante
 
 En las penas impuestas por delitos oficiales, no podrá concederse al reo la gracia de indulto.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1921)</small>
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 1926)</small>
 
 ###### Artículo 167.
 
-No gozan de fuero constitucional los Funcionarios del Estado ni del Municipio, por los delitos oficiales, faltas u omisiones en que incurran en el desempeño de cualquier otro empleo, cargo o comisión, que hayan aceptado durante el período en que conforme a la ley se disfrute de fuero. Lo mismo sucederá respecto de los delitos del orden común, siempre que al verificarse no desempeñe el infractor las funcíones propias de su cargo. Para que la causa pueda iniciarse cuando el Funcionario haya vuelto a tomar posesión de su cargo, deberá procederse con arreglo a los artículos 160 y 161, según el caso.
+Sólo gozan de fuero Constitucional en el Estado, los CC. Diputados al Congreso, el Gobernador, los Magistrados del H. Tribunal Superior de Justicia, los Presidentes, Síndicos y Regidores de los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 1921)</small>
 
@@ -1340,9 +1348,11 @@ El Gobernador del Estado, y los funcionarios o empleados de la Administración P
 
 En los talleres tipográficos del Gobierno, se publicará el Periódico Oficial del Estado y se harán únicamente los trabajos oficiales del mismo Gobierno. En consecuencia, queda prohibido utilizar dichos talleres para hacer otros trabajos que no sean los expresados en el presente artículo.
 
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 1926)</small>
+
 ###### Artículo 173.
 
-Quedan prohibidas en el Estado de Coahuila, las peleas de gallos y los juegos de azar. La ley determinará la clase de juegos que podrán permitirse en los casinos, sociedades recreativas y diversiones públicas.
+Quedan prohibidos en el Estado, los juegos de azar. La Ley determinará la clase de juegos que puedan ser permitidos.
 
 ###### Artículo 174.
 
@@ -1543,3 +1553,7 @@ Quedan derogadas las disposiciones legales que se opongan a la presente ley.
 P.O. 14 DE MAYO DE 1921.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 5 DE MAYO DE 1926.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
