@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "2000-12-30"
+last_updated: "2002-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -645,11 +645,11 @@ Es objeto de este derecho la prestación del servicio de alumbrado público para
 
 Son sujetos de este derecho los propietarios o poseedores que se beneficie (sic) del servicio de alumbrado público que proporcione el municipio, sin importar que la fuente de alumbrado se encuentre o no ubicado precisamente frente a su predio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 41.
 
-Servirá de base para el cálculo de este derecho el importe del consumo que los propietarios o poseedores de predios cubran a la empresa que suministre la energía eléctrica, aplicando las tasas previstas en las Leyes de Ingresos Municipales respectivas que al efecto propongan los Ayuntamientos a la Legislatura del Estado; y, sólo para el caso de que no se publiquen estás, la tasa aplicable será del 8% para las tarifas 01, 1A, IB, IC, (sic) 02, 03, y 07 y 4% para las tarifas 08, 8A, 12, 12A.
+Es base de este derecho el importe del consumo que los propietarios o poseedores de predios cubran a la empresa que suministre la energía eléctrica, aplicando las tasas previstas en las Leyes de Ingresos Municipales respectivas; y, sólo para el caso de que estás no se publiquen la tasa aplicable serán (sic) del 8% para las tarifas 01, 1A, 1B, 1C, 02, 03, y 07 y 4% para las tarifas OM, HM, HS, y HT.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
 
@@ -1616,3 +1616,7 @@ El presente Decreto entrará en vigor a partir del día primero de enero del 200
 P.O. 30 DE DICIEMBRE DE 2000.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día primero de enero del año 2001, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE DICIEMBRE DE 2002.
+
+UNICO.- El presente Decreto entrara en vigor el día 1 de enero del año 2003 previa publicación en el Periódico Oficial del Gobierno del Estado.
