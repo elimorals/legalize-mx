@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1983-02-23"
+last_updated: "1983-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1983.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -6759,17 +6759,17 @@ Cuando los bienes vendidos son de los mencionados en las fracciones I y II del a
 
 2194.- El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 1979)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)</small>
 
-2195.- La venta de un inmueble cuyo precio, valor de avalúo o valor catastral sea hasta de doce mil quinientos pesos, podrá hacerse en instrumento privado que firmarán el vendedor y el comprador ante dos testigos y se ratificará en los términos de ley.
+2195.- La venta de un inmueble cuyo precio, valor de avalúo o valor catastral sea hasta de setenta y cinco mil pesos, podrá hacerse en instrumento privado, que firmarán el vendedor y el comprador ante dos testigos y se ratificará en los términos de Ley.
 
 2196.- Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del artículo 1728.
 
 2197.- De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 1979)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)</small>
 
-2198.- Si el precio, valor de avalúo o valor catastral excede de doce mil quinientos pesos la venta se hará en escritura pública.
+2198.- Si el precio, valor de avalúo o valor catastral excede de setenta y cinco mil pesos la venta se hará en escritura pública.
 
 2199.- La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este Código.
 
@@ -7045,9 +7045,9 @@ El arrendamiento no puede exceder de diez años para las fincas destinadas a hab
 
 2305.- El arrendamiento debe otorgarse por escrito cuando la renta pase de cien pesos anuales.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 1979)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)</small>
 
-2306.- Si el predio fuere rústico y la renta pasare de doce mil quinientos pesos anuales, el contrato se otorgará en escritura pública.
+2306.- Si el predio fuere rústico y la renta pasare de setenta mil pesos anuales, el contrato se otorgará en escritura pública.
 
 2307.- El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del arrendatario, salvo convenio en otro sentido.
 
@@ -7371,11 +7371,11 @@ La responsabilidad de que habla este artículo, no excederá de la suma de dosci
 
 ## TITULO SEPTIMO. DEL COMODATO
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 1979)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)</small>
 
 2396.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible y el otro contrae la obligación de restituirla individualmente.
 
-El comodato deberá otorgarse por escrito ante dos testigos salvo que se trate de predio rústico cuyo valor excediere de doce mil quinientos pesos en tal caso se otorgará en escritura pública.
+El comodato deberá otorgarse por escrito ante dos testigos, salvo que se trate de predio rústico y su valor excediere de setenta y cinco mil pesos, en cuyo caso se otorgará en escritura pública.
 
 2397.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituidas idénticamente.
 
@@ -8529,9 +8529,9 @@ Si la hipoteca no tiene plazo cierto, no podrá estipularse anticipo de rentas, 
 
 Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 1979)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)</small>
 
-2810.- Cuando el crédito hipotecario exceda de doce mil quinientos pesos, la hipoteca debe otorgarse en escritura pública. Cuando no exceda de esa cantidad podrá otorgarse en escritura privada ante dos testigos, ratificada en los términos de Ley de la cual se harán tantos ejemplares como sean las partes contratantes.
+2810.- Cuando el crédito hipotecario exceda de setenta y cinco mil pesos, la hipoteca debe otorgarse en escritura pública. Cuando no exceda de esa cantidad podrá otorgarse en escritura privada ante dos testigos, ratificada en los términos de Ley, de la cual se harán tantos ejemplares como sean las partes contratantes.
 
 2811.- La acción hipotecaria prescribirá a los diez años, contados desde que pueda ejercitarse con arreglo al título inscrito.
 
@@ -9134,3 +9134,7 @@ SEGUNDO.- Para los efectos del artículo 56-Bis de la Ley Orgánica del Poder Ju
 P.O. 23 DE FEBRERO DE 1983.
 
 ARTICULO TRANSITORIO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 1983.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
