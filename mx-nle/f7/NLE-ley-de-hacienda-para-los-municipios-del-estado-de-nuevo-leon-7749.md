@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2003-12-26"
+last_updated: "2004-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -405,11 +405,13 @@ VII.- Los arrendatarios en contratos de arrendamiento financiero de predios en l
 
 #### SECCION TERCERA. DETERMINACION DE LA BASE
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 21 Bis 2.
 
-El valor catastral de los predios será con base en las tablas de valores unitarios de suelo y construcción, que establezca el Congreso del Estado mediante Decreto a propuesta de los Ayuntamientos.
+La base del Impuesto será el valor catastral de los predios que se determinará aplicando, para cada predio, las tablas de valores unitarios del suelo o en su caso de construcción, aprobadas por el Congreso del Estado a propuesta de los Ayuntamientos, conforme a lo dispuesto en el Artículo 17 de la Ley del Catastro del Estado.
+
+A falta de actualización de las tablas de valores unitarios de suelo y construcción éstas se ajustarán conforme a los porcentajes que autorice el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -457,17 +459,19 @@ La base del impuesto será el valor catastral del inmueble, el cual será determ
 
 #### SECCION QUINTA. DE LA TASA DEL IMPUESTO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 21 Bis 8.
 
-Salvo lo establecido en el artículo siguiente, el Impuesto Predial se determinará, liquidará y pagará, aplicando a la base del Impuesto una tasa del 2 al millar anual, excepto en el caso de predios baldíos, a los cuales se les aplicará una tasa del 6 al millar anual, si se encuentran ubicados en los municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, y de 3 al millar anual, si se encuentran ubicados en los demás municipios del Estado.
+El Impuesto Predial se determinará y pagará, aplicando a la base del Impuesto una tasa del 2 al millar anual.
 
-Los propietarios de predios baldíos, ubicados en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, cuya superficie no exceda de 200 metros cuadrados, cubrirán su impuesto a la tasa del 3 al millar anual, siempre que no tengan otro inmueble en propiedad o posesión, debiendo mantener limpio su predio.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+En el caso de predios baldíos se pagará el Impuesto Predial adicionando 2 al millar a la tasa prevista en el primer párrafo de este Artículo. Si el inmueble se encuentra fuera de los municipios de Apodaca, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, o si su superficie no excede de 200 metros cuadrados y su propietario o poseedor no tienen otro inmueble en el Estado, la tasa adicional prevista en este párrafo será de 1 al millar.
 
-En los Municipios de Apodaca, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, tratándose de predios con edificaciones comerciales, industriales, de servicios y de cualquier uso distinto al de casa habitación, se pagará el Impuesto Predial adicionando uno al millar a la tasa prevista en el primer párrafo de este artículo. El rendimiento de esta tasa, se destinará a la realización de obras de infraestructura vial para solucionar la problemática en materia vial de estos municipios.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+Tratándose de predios con edificaciones comerciales, industriales, de servicios y de cualquier uso distinto al de casa habitación, se pagará el Impuesto Predial adicionando uno al millar a la tasa prevista en el primer párrafo de este Artículo.
 
 (REFORMADO, P.O. 27 DE DICIEMBRE DE 1996) (F. DE E., P.O. 20 DE ENERO DE 1997)
 
@@ -589,13 +593,13 @@ La Tesorería Municipal que corresponda, de acuerdo a los párrafos anteriores, 
 
 El impuesto se causará anualmente y su pago deberá hacerse por bimestres adelantados, que se cubrirán a más tardar el día 1° de los meses de Febrero, Abril, Junio, Agosto, Octubre y Diciembre. El impuesto podrá pagarse por anualidad anticipada a más tardar el día 1° del mes de Marzo, sin recargos. En el caso de que se pague a más tardar el 1° del mes de Febrero, gozará de una reducción del 15% de dicha anualidad y si lo cubre a más tardar el día 1° del mes de Marzo, gozará de una reducción del 10% de la misma.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-Si el monto anual del impuesto no excede de 6 cuotas, para los predios ubicados en los municipios de Apodaca, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, o de 4 cuotas, para los predios ubicados en los demás municipios, o si el contribuyente se encuentra beneficiado con la tarifa señalada en el artículo 21 bis-9, el pago deberá hacerse en un solo entero dentro de los primeros seis meses de cada año.
+Si el monto anual del impuesto no excede de 4 cuotas, el pago deberá hacerse en un solo entero dentro de los primeros seis meses de cada año.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-El impuesto mínimo a pagar en ningún caso podrá ser inferior de 2 cuotas tratándose de predios en general; de 6 cuotas tratándose de predios baldíos ubicados en los Municipios de Apodaca, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, y de 4 cuotas en el caso de predios baldíos ubicados en el resto del Estado.
+El impuesto mínimo a pagar en ningún caso podrá ser inferior de 2 cuotas.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -723,9 +727,9 @@ Los sujetos del impuesto están obligados a manifestar a la Secretaría de Finan
 
 Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el territorio del Estado, así como los derechos relacionados con los mismos, a que este Impuesto se refiere. Salvo lo dispuesto en el artículo siguiente, el impuesto se calculará aplicando la tasa del 2% al valor gravable del inmueble.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-Para los efectos de esta ley, se considera base del impuesto el valor gravable del inmueble, que será el que resulte mayor entre el de operación y el valor catastral.
+Es base de este impuesto el valor gravable, que será el valor que resulte mayor entre el de operación y el valor catastral del inmueble.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
@@ -883,11 +887,13 @@ En la determinación de este impuesto se deberán seguir las reglas siguientes:
 
 I.- Para efectos de este impuesto, se utilizará el salario mínimo general de la zona económica en donde se encuentre ubicado el inmueble, vigente al momento en que se pague el impuesto.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-El Valor Catastral que se utilice para la determinación del impuesto, será el vigente al momento en que se protocolice la escritura, y en los casos en que no se requiera o se cumpla esta formalidad, se aplicará el que esté vigente al momento en que se pague el impuesto. Cuando se trate de las operaciones a que se refieren las fracciones II, III y IV, del artículo 28 bis-2 se aplicará el factor de actualización a que se refiere el artículo 18 bis del Código Fiscal del Estado para referenciar el Valor Catastral a la fecha de firma del contrato, para tales efectos el Valor Catastral vigente se dividirá entre el factor de actualización mencionado y el resultado será el Valor Catastral vigente a la fecha de firma del contrato. Dicho valor referenciado servirá para determinar el valor gravable del inmueble, al cual se le aplicará la tasa vigente en aquella fecha, debiendo generarse los recargos y demás accesorios en los términos legales.
+El Valor Catastral que se utilice para la determinación de este impuesto, será el vigente al momento en que se protocolice la escritura, y en los casos en que no se requiera o no se cumpla esta formalidad, se aplicará el que esté vigente al momento en que se pague el impuesto. Cuando se trate de las operaciones a que se refieren las fracciones II, III y IV, del Artículo 28 bis-2 se aplicará el factor de actualización a que se refiere el Artículo 18 bis del Código Fiscal del Estado para referenciar el Valor Catastral a la fecha de firma del contrato, para tales efectos el Valor Catastral vigente se dividirá entre el factor de actualización mencionado y el resultado será el Valor Catastral vigente a la fecha de firma del contrato. Dicho valor referenciado servirá para determinar el valor gravable del inmueble, al cual se le aplicará la tasa vigente en aquella fecha, debiendo generarse los recargos y demás accesorios en los términos legales.
 
-II.- Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+II.- Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado. En el valor de operación se deberán incluir las demás cantidades que se cobren o carguen al adquirente o reciba el enajenante por cualquier otro concepto relacionado con el inmueble.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -1035,11 +1041,11 @@ Además del enajenante, responderán solidariamente del pago de este impuesto, l
 
 Igualmente serán responsables solidarios las autoridades judiciales que dicten resoluciones en las que se transmita el dominio de uno o varios inmuebles, y no den el aviso a que se refiere el artículo 28 bis-5, párrafo segundo, de esta Ley, así como los funcionarios adscritos a la Dirección del Registro Público de la Propiedad y del Comercio que autoricen la inscripción de documentos públicos o privados, en donde conste la transmisión del dominio de un inmueble, sin haberse cerciorado del pago de este impuesto.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 28 Bis 8.
 
-Para los efectos del artículo anterior, cuando el enajenante, persona física o moral, sea un fraccionador, desarrollador o urbanizador inmobiliario, estará obligado a remitir a la Tesorería Municipal, copia de los contratos de promesa de compra-venta y de cesiones de derecho, a más tardar dentro de los 30 días naturales siguientes a la fecha de su celebración.
+Para los efectos del Artículo anterior, cuando el enajenante, sea un fraccionador, desarrollador o urbanizador inmobiliario, estará obligado a remitir a la Tesorería Municipal, copia de los contratos de promesa de compra-venta y de cesiones de derecho, a más tardar dentro de los 30 días naturales siguientes a la fecha de su celebración. La omisión a la presentación oportuna de la documentación antes mencionada, se sancionará con multa de 10 a 20 cuotas, por cada convenio o contrato.
 
 ### CAPITULO III. IMPUESTO SOBRE DIVERSIONES Y ESPECTACULOS PUBLICOS
 
@@ -2123,9 +2129,9 @@ h) Diversas constancias y certificaciones 1 cuota
 
 En caso de reproducción en medios magnéticos, fotográficos, sonoros, ópticos o visuales y otros, los materiales que se requieran serán proporcionados por el interesado.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-En todos los casos, por búsqueda y localización de documentos, archivos y expedientes y demás información solicitada, generará 1 cuota, sin perjuicio del derecho que corresponda por las copias expedidas.
+En todos los casos, por búsqueda y localización de documentos, archivos y expedientes y demás información solicitada, generará 1 cuota, en cada caso, sin perjuicio del derecho que corresponda por las copias expedidas.
 
 (REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)(F. DE E., P.O. 18 DE ENERO DE 1999)
 
@@ -2597,9 +2603,9 @@ II.- Por inspecciones que previenen los Reglamentos a nivel municipal, de N$20.0
 
 III.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole: N$40.00 por cabeza de ganado vacuno, caballar, asnar, mular y porcino, y N$.25 por cabeza de ganado cabrío o lanar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-IV.- Por servicios de revisión de documentación en las operaciones de adquisición de inmuebles, 7 cuotas por cada inmueble.
+IV.- Por servicios de revisión de documentación en las operaciones de adquisición de inmuebles, 10 cuotas por cada inmueble.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -2628,6 +2634,10 @@ VI.- Por servicios sanitarios que preste el municipio, a las personas que lo sol
 a) Mantener animales en observación 0.50 cuotas
 
 b) Recoger animales domésticos enfermos 0.50 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+VII.- Por servicios de escrituración, para cumplimentar lo dispuesto por el Artículo 1731-Bis del Código Civil vigente en el Estado, 50 cuotas por cada inmueble.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -2707,23 +2717,23 @@ Están exentos del pago, a que se refiere el párrafo anterior, los partidos pol
 
 ### CAPITULO IX. POR LIMPIEZA DE LOTES BALDIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 65.
 
-Los propietarios de predios baldíos ubicados dentro del perímetro del área urbana de una ciudad, villa o congregación, deberán efectuar el desmonte, desherbe o limpieza de su inmueble, retirando la rama, basura o escombro, dos veces al año a más tardar en los meses de Marzo y Septiembre respectivamente.
+Los propietarios de predios baldíos deberán efectuar el desmonte, desyerba o limpieza de su inmueble, retirando la rama, basura o escombro, tres veces al año a más tardar en los meses de marzo, julio y noviembre respectivamente.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-Independientemente de las fechas señaladas en el párrafo anterior, la Autoridad Municipal podrá requerir en cualquier momento al propietario o poseedor del predio baldío, para que realice la limpieza, desmonte y desherbe de su predio, cuando el mismo esté provocando condiciones de insalubridad o inseguridad.
+Independientemente de la (sic) fechas señaladas en el párrafo anterior, la Autoridad Municipal podrá requerir en cualquier momento al propietario o poseedor del predio baldío, para que realice la limpieza, desmonte y desyerba de su predio, cuando el mismo esté provocando condiciones de insalubridad o inseguridad.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-De no cumplirse con lo dispuesto en los dos párrafos anteriores, el Municipio podrá efectuar el servicio de desmonte, desherbe o limpieza del predio baldío, según sea el caso; circunstancias en las cuales el propietario estará obligado a pagar al Municipio la prestación del servicio. Así mismo la autoridad municipal competente le impondrá una multa de uno a tres tantos de los derechos que le correspondería pagar, dependiendo de la reincidencia.
+De no cumplirse con lo dispuesto en los dos párrafos anteriores el Municipio podrá efectuar el servicio de desmonte, desyerba o limpieza del predio baldío, según sea el caso; circunstancias en las cuales el propietario estará obligado a pagar al Municipio la prestación del servicio. Así mismo la Autoridad Municipal competente le impondrá una multa de uno a tres tantos de los derechos que le correspondería pagar, dependiendo de la reincidencia.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-El pago de la multa que se impusiere al infractor no lo exime de su obligación a que se refiere el primer párrafo de este artículo
+El pago de la multa que se impusiere al infractor no lo exime de las obligaciones establecidas en este artículo.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -2741,9 +2751,9 @@ Para los efectos de este artículo deberá entenderse por:
 
 Desmonte.- Es la acción de cortar y retirar del predio baldío aquellos arbustos de tallo leñoso, cuyo diámetro sea inferior a 5 centimetros.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-Desherbe.- Es la acción de cortar y retirar del predio baldío aquellas plantas de tallo herbáceo que se encuentren en el mismo.
+Desyerba.- Es la acción de cortar y retirar del predio baldío aquellas plantas de tallo herbáceo que se encuentren en el mismo.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -3570,3 +3580,7 @@ Artículo Primero.- Este Decreto entrará en vigor a partir del 1° de Enero de 
 P.O. 26 DE DICIEMBRE DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor el 1° de enero del año 2004.
+
+P.O. 30 DE DICIEMBRE DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor el 1º de Enero del año 2005.
