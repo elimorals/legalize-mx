@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-secretaria-de-desarrollo-31505"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-08-15"
-last_updated: "1997-08-15"
+last_updated: "2003-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2003 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 15 de agosto de 1997.
 
@@ -250,3 +250,17 @@ Secretario de Desarrollo Agropecuario
 Lic. Oscar Hernández Villarreal
 
 Oficial Mayor
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2003.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan el Reglamento Interior de la Secretaría de Desarrollo Agropecuario publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", el 15 de Agosto de 1997 y todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento Interior.
