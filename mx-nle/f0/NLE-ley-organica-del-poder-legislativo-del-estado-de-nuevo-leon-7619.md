@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "1997-10-13"
+last_updated: "1997-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -501,6 +501,10 @@ Son Comisiones Especiales: Las que designe el Pleno para la resolución de un as
 
 Las Comisiones para Dictamen legislativo se integrarán pluralmente por nueve Diputados, que serán electos o ratificados en la quinta sesión de cada Primer Período Ordinario de año constitucional, durante los tres años de la Legislatura y se integrarán con un Presidente, un Vice-Presidente, un Secretario y seis Vocales.
 
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 1997)</small>
+
+La Presidencia de la Comisión de Derechos de las Mujeres será rotativa entre los diversos Grupos Legislativos constituidos, por lo que este cargo invariablemente se renovará en la quinta sesión de cada Primer Período Ordinario de ejercicio constitucional.
+
 Todas las Comisiones de dictamen legislativo se integrarán en proporción al número de diputados de cada Grupo Legislativo.
 
 Un mismo Diputado no podrá ser a la vez, Presidente de dos o más comisiones de dictamen legislativo.
@@ -515,93 +519,63 @@ La Comisión de Vigilancia de la Contaduría Mayor de Hacienda se integrará por
 
 Las Comisiones Jurisdiccionales funcionarán en los términos previstos en la Constitución y las Leyes cuando así lo acuerde la Asamblea; conocerán específicamente de los hechos que las hayan motivado su integración.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1997)</small>
 
 ###### Artículo 70.
 
 Son Comisiones Permanentes de Dictamen Legislativo las siguientes:
 
-1) Gobernación.
+I.- Gobernación
 
-2) Legislación y Puntos Constitucionales.
+II.- Legislación y Puntos Constitucionales
 
-3) Justicia.
+III.- Justicia
 
-4) Educación.
+IV.- Organización Interna de los Poderes
 
-5) Hacienda del Estado.
+V.- Seguridad Pública y Protección Civil
 
-6) Asuntos Agrícolas Forestales y Ganaderos.
+VI.- Derechos Humanos
 
-7) Capacitación para el Trabajo y Asuntos Laborales.
+VII.- Participación Ciudadana
 
-8) Salud Pública.
+VIII.- Familia
 
-9) Asistencia Social
+IX.- Derechos de las Mujeres
 
-10) Fomento Económico
+X.- Educación, Cultura y Deporte
 
-11) Obras Públicas
+XI.- Salud Pública y Asistencia Social
 
-12) Primera de Hacienda Municipal.
+XII.- Asentamientos Humanos, Desarrollo Urbano y Obras Públicas
 
-13) Segunda de Hacienda Municipal.
+XIII.- Ecología
 
-14) Tercera de Hacienda Municipal.
+XIV.- Comunicaciones y Transporte
 
-15) Cuarta de Hacienda Municipal.
+XV.- Desarrollo Económico
 
-16) Quinta de Hacienda Municipal.
+XVI.- Fomento Agrícola, Forestal y Ganadero
 
-17) Sexta de Hacienda Municipal.
+XVII.- Trabajo y Seguridad Social
 
-18) Séptima de Hacienda Municipal.
+XVIII.- Hacienda del Estado
 
-19) Asentamientos Humanos y Desarrollo Urbano.
+XIX.- Primera de Hacienda Municipal
 
-20) Preservación y Protección al Medio Ambiente.
+XX.- Segunda de Hacienda Municipal
 
-21) Comunicaciones.
+XXI.- Tercera de Hacienda Municipal
 
-22) Corrección de Estilo
+XXII.- Cuarta de Hacienda Municipal
 
-23) Relaciones y Asuntos Fronterizos
+XXIII.- Quinta de Hacienda Municipal
 
-24) Fomento Cultural.
+XXIV.- Sexta de Hacienda Municipal
 
-25) Fomento al Desarrollo Regional.
+XXV.- Séptima de Hacienda Municipal
 
-26) Seguridad Pública y Protección Civil.
-
-27) Transporte Urbano de Pasajeros.
-
-28) Editorial.
-
-29) Agua y Drenaje.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-30) Organización Interna de los Poderes y de la Administración Pública.
-
-31) Conducta Civil.
-
-32) Presupuesto y Cuenta Pública.
-
-33) Derechos Humanos.
-
-34) Deporte y Recreación.
-
-35) Juventud.
-
-36) Turismo.
-
-37) Tercera Edad.
-
-38) Participación Ciudadana.
-
-39) Protección a la Niñez.
-
-40) Seguridad Social y Bienestar Familiar.
+XXVI.- Información y Peticiones
 
 El Pleno mediante Iniciativa de Reforma a esta Ley podrá ampliar o suprimir las Comisiones de Dictamen Legislativo.
 
@@ -770,3 +744,7 @@ P.O. 13 DE OCTUBRE DE 1997.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE OCTUBRE DE 1997.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
