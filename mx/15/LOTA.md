@@ -4,7 +4,7 @@ identifier: "LOTA"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-02-26"
-last_updated: "1993-07-09"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOTA"
 
 LEY ORGANICA DE LOS TRIBUNALES AGRARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 26 de febrero de 1992.
 
@@ -190,7 +190,9 @@ XIII.- Las demás que le asigne el Reglamento Interior del Tribunal.
 
 Para ser magistrado se deben reunir los siguientes requisitos:
 
-I.- Ser ciudadano mexicano y estar en pleno ejercicio de sus derechos, así como tener por lo menos treinta años cumplidos el día de su designación;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I.- Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce de sus derechos civiles y políticos, así como tener por lo menos treinta años el día de su designación;
 
 II.- Ser licenciado en derecho con título debidamente registrado, expedido cuando menos cinco años antes de la fecha de la designación;
 
@@ -403,3 +405,7 @@ D.O.F. 9 DE JULIO DE 1993.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Para la resolución de asuntos relativos a ampliación o dotación de tierras, bosques y aguas, y creación de nuevos centros de población, a que se refiere el artículo tercero transitorio del Decreto por el que se reforma el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 6 de enero de 1992, el Tribunal Superior Agrario podrá contar con una Sala Auxiliar, integrada por el mismo número de magistrados y procedimiento para su nombramiento que los que actualmente constituyen el referido Tribunal. El funcionamiento de la Sala Auxiliar se regulará por lo previsto en el Reglamento Interior de los Tribunales Agrarios y su vigencia no podrá exceder del tiempo necesario para la resolución de los asuntos que le sean turnados por el Presidente del Tribunal Superior.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
