@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1995-04-28"
+last_updated: "1995-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -710,25 +710,31 @@ Se exceptúa de lo dispuesto en el párrafo anterior a las Filiales en cuyo capi
 
 La solicitud de autorización para organizarse y operar como Filial deberá cumplir con los requisitos establecidos en la presente Ley y en las reglas a las que se refiere el primer párrafo del artículo 45-B.
 
-> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 45-G.
 
-El capital social de las instituciones de banca múltiple Filiales estará integrado por acciones de la serie "F", que representarán cuando menos el cincuenta y uno por ciento de dicho capital. El cuarenta y nueve por ciento restante del capital social podrá integrarse indistinta o conjuntamente por acciones serie "F" y "B".
+El capital social de las Filiales estará integrado por acciones de la serie “F”, que representarán cuando menos el cincuenta y uno por ciento de dicho capital. El cuarenta y nueve por ciento restante del capital social podrá integrarse indistinta o conjuntamente por acciones serie “F” y “B”.
 
-Las acciones de la serie "F" solamente podrán ser adquiridas por una Sociedad Controladora Filial o, directa o indirectamente, por una Institución Financiera del Exterior, salvo en el caso a que se refiere el último párrafo del artículo 45-H.
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-Las acciones de la serie "B" se regirán por lo dispuesto para esta serie de acciones en los demás artículos de esta Ley. La Institución Financiera del Exterior, propietaria de las acciones serie "F", no quedará sujeta a los límites establecidos en el artículo 17 de esta Ley, respecto de su tenencia de acciones serie "B".
+Las acciones de la serie “F” solamente podrán ser adquiridas por una Sociedad Controladora Filial o, directa o indirectamente, por una Institución Financiera del Exterior, salvo en el caso a que se refiere el último párrafo del artículo 45-H, tratándose de acciones representativas del capital social de las instituciones de banca múltiple Filiales.
+
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+Las acciones de la serie “B” de las instituciones de banca múltiple Filiales se regirán por lo dispuesto para esta serie de acciones en los demás artículos de esta Ley. La Institución Financiera del Exterior, propietaria de las acciones serie “F” de una institución de banca múltiple Filial, no quedará sujeta a los límites establecidos en el artículo 17 de esta Ley, respecto de su tenencia de acciones serie “B”.
+
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 Las acciones serán de igual valor, dentro de cada serie, conferirán a sus tenedores los mismos derechos, y deberán pagarse íntegramente en efectivo en el acto de ser suscritas. Las mencionadas acciones se mantendrán en depósito en alguna de las instituciones para el depósito de valores reguladas en la Ley del Mercado de Valores, quienes en ningún caso se encontrarán obligadas a entregarlas a los titulares.
 
-El capital social de las sociedades financieras de objeto limitado Filiales deberá estar integrado por una sola serie de acciones. Una Institución Financiera del Exterior, directa o indirectamente, o una Sociedad Controladora Filial deberá ser en todo momento propietaria de acciones que representen cuando menos el noventa y nueve por ciento del capital social de la sociedad financiera de objeto limitado Filial, salvo en el caso a que se refiere el último párrafo del artículo 45-H.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 45-H.
 
-Las acciones serie "F" representativas del capital social de una institución de banca múltiple Filial, así como las acciones representativas del capital social de una sociedad financiera de objeto limitado Filial, únicamente podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
+Las acciones serie “F” representativas del capital social de una Filial, únicamente podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -748,9 +754,9 @@ No se requerirá autorización de la Secretaría de Hacienda y Crédito Público
 
 La Secretaría de Hacienda y Crédito Público podrá autorizar a las Instituciones Financieras del Exterior, a las Sociedades Controladoras Filiales o a las Filiales, la adquisición de acciones representativas del capital social de una institución de banca múltiple o de una sociedad financiera de objeto limitado, según corresponda, siempre y cuando se cumplan los siguientes requisitos:
 
-> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-I. La Institución Financiera del Exterior, la Sociedad Controladora Filial o la Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el cincuenta y uno por ciento del capital social de la institución de banca múltiple o cuando menos el noventa y nueve por ciento del capital social de la sociedad financiera de objeto limitado;
+I. La Institución Financiera del Exterior, la Sociedad Controladora Filial o la Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el cincuenta y uno por ciento del capital social;
 
 II. Deberán modificarse los estatutos sociales de la institución de banca múltiple o de la sociedad financiera de objeto limitado, cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo;
 
@@ -774,15 +780,31 @@ Las Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiri
 
 El consejo de administración de las instituciones de banca múltiple Filiales estará integrado, a elección de los accionistas de la institución, por once consejeros o sus múltiplos. Su nombramiento deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, así como a aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
 
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
 En el supuesto de que el consejo se integre con once miembros, los accionistas de la serie "F" designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que exceda del cincuenta por ciento del capital pagado, tendrán derecho a designar un consejero más. Los accionistas de la serie "B", en su caso, designarán a los consejeros restantes.
+
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 Los accionistas de cada una de las citadas series, que representen cuando menos un diez por ciento del capital pagado de la institución de banca múltiple Filial, tendrán derecho a designar a un consejero de la serie que corresponda. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
 
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
 En caso de que el consejo se integre por múltiplos de once o cuente con más de seis consejeros de la serie "F", para efectos de lo previsto en el párrafo anterior y en el artículo 23, fracción II de esta Ley, se deben guardar las proporciones correspondientes conforme a lo dispuesto en este artículo.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+En el caso de las sociedades financieras de objeto limitado Filiales, el número de consejeros en ningún caso podrá ser inferior a cinco. Los propietarios de la serie “B”, en su caso, tendrán derecho a nombrar por lo menos un consejero. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
+
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 El presidente del consejo deberá elegirse de entre los propietarios de la serie "F", y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
 
-En el caso de las instituciones de banca múltiple Filiales en las cuales cuando menos el noventa y nueve por ciento de los títulos representativos del capital social sean propiedad de una Institución Financiera del Exterior o una Sociedad Controladora Filial, así como el de las sociedades financieras de objeto limitado Filiales, podrán determinar libremente el número de consejeros, el cual en ningún caso podrá ser inferior a cinco.
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+En el caso de las instituciones de banca múltiple Filiales en las cuales cuando menos el noventa y nueve por ciento de los títulos representativos del capital social sean propiedad, directa o indirectamente, de una Institución Financiera del Exterior o una Sociedad Controladora Filial, podrá determinar libremente el número de consejeros, el cual en ningún caso podrá ser inferior a cinco.
+
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 La mayoría de los consejeros de una Filial deberá residir en territorio nacional.
 
@@ -792,11 +814,11 @@ La mayoría de los consejeros de una Filial deberá residir en territorio nacion
 
 Se exceptúa a los directores generales de las instituciones de banca múltiple Filiales del requisito previsto en la fracción I del artículo 24 de la presente Ley. Los directores generales de las Filiales deberán residir en territorio nacional.
 
-> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 45-M.
 
-El órgano de vigilancia de las instituciones de banca múltiple Filiales, estará integrado por lo menos por un comisario designado por los accionistas de la serie "F" y, en su caso, un comisario nombrado por los accionistas de la serie "B", así como sus respectivos suplentes.
+El órgano de vigilancia de las Filiales, estará integrado por lo menos por un comisario designado por los accionistas de la serie “F” y, en su caso, un comisario nombrado por los accionistas de la serie “B”, así como sus respectivos suplentes.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -1678,6 +1700,10 @@ Tratándose de los delitos a que se refieren los artículos 112 y 114 también s
 
 Lo dispuesto en los artículos citados en este Capítulo, no excluye la imposición de las sanciones que conforme a otras leyes fueren aplicables, por la comisión de otro u otros delitos.
 
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores, dictará disposiciones de carácter general para prevenir y detectar en las instituciones de crédito y sociedades financieras de objeto limitado, actos u operaciones con recursos, derechos o bienes que procedan o representen el producto de un probable delito. Estas disposiciones deberán ser observadas por los empleados y funcionarios de los citados intermediarios. La violación de las mismas será sancionada con multa equivalente del diez hasta el cien por ciento del monto del acto u operación de que se trate, la cual será impuesta por la Comisión Nacional Bancaria y de Valores a los intermediarios financieros mencionados.
+
 ###### ARTICULO 116.
 
 Para la imposición de las sanciones y multas previstas en el presente Capítulo y en el II de este Título, respectivamente, se considerará el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción o delito de que se trate.
@@ -1694,6 +1720,44 @@ Lo anterior, en forma alguna afecta la obligación que tienen las instituciones 
 
 Con la salvedad de toda clase de información que sea solicitada por la Comisión Nacional Bancaria, la violación del secreto propio de las operaciones a que se refiere la fracción XV del artículo 46 de esta Ley, incluso ante las autoridades o tribunales en juicios o reclamaciones que no sean aquellos entablados por el fideicomitente o fideicomisario, comitente o mandante, contra la institución o viceversa, constituirá a ésta en responsabilidad civil por los daños y perjuicios ocasionados, sin perjuicio de las responsabilidades penales procedentes.
 
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 118-A.
+
+La Comisión Nacional Bancaria y de Valores podrá revisar los modelos de contrato de adhesión utilizados por las instituciones de crédito.
+
+Para efectos de este artículo se entenderá por contrato de adhesión aquél elaborado unilateralmente por una institución, que conste en documentos de contenido uniforme en los que se establezcan los términos y condiciones aplicables a las operaciones activas que celebre la institución.
+
+La revisión tendrá por objeto determinar que los modelos de contrato se ajusten a la presente Ley, a las disposiciones emitidas conforme a ella y a los demás ordenamientos aplicables, así como verificar que dichos instrumentos no contengan estipulaciones confusas o que no permitan a la clientela conocer claramente el alcance de las obligaciones de los contratantes.
+
+La Comisión podrá ordenar que se modifiquen los modelos de contratos de adhesión y, en su caso, suspender su utilización hasta en tanto sean modificados.
+
+La Comisión Nacional Bancaria y de Valores podrá ordenar a las instituciones de crédito que publiquen las características de las operaciones que formalicen con contratos de adhesión, en los términos que la propia Comisión indique.
+
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+###### ARTICULO 118-B.
+
+Las instituciones de crédito deberán contar con unidades especializadas que tengan por objeto atender consultas y reclamaciones de sus usuarios.
+
+Las unidades a que se refiere el párrafo anterior, se sujetarán a lo siguiente:
+
+I. El titular de la unidad deberá tener facultades para representar y obligar con su firma a la institución;
+
+II. Contarán con personal en cada entidad federativa en que la institución tenga sucursales u oficinas, de acuerdo al programa de distribución regional que deberá ser aprobado por la Comisión Nacional Bancaria y de Valores;
+
+III. Deberán responder por escrito al usuario dentro de un plazo de treinta días hábiles, contado a partir de la fecha de recepción de la consulta o reclamación;
+
+IV. La documentación e información correspondiente a las consultas o reclamaciones y el plazo que deban ser conservadas por la institución, se regirán por las disposiciones de carácter general que emita la Comisión Nacional Bancaria y de Valores, y
+
+V. El titular de la unidad deberá presentar semestralmente al consejo de administración de la institución, un informe de las consultas o reclamaciones recibidas y atendidas, en el que se identifiquen las operaciones o áreas de la institución que registren el mayor número de consultas o reclamaciones, así como las causas que las motivan, a fin de que se adopten las medidas que correspondan. La institución deberá proporcionar a la Comisión Nacional Bancaria y de Valores copia simple del citado informe, a más tardar dentro de los treinta días hábiles posteriores a su presentación en el consejo de administración.
+
+Las instituciones deberán informar mediante aviso colocado en lugar visible en todas sus sucursales, la ubicación y horarios de servicio de las unidades previstas en este artículo.
+
+Los usuarios del servicio de banca y crédito podrán, a su elección, presentar su consulta o reclamación ante las unidades respectivas, en forma personal o por escrito.
+
+Lo establecido en el presente artículo es sin perjuicio de que los usuarios puedan proceder en los términos del artículo siguiente.
+
 ###### ARTICULO 119.
 
 Los usuarios del servicio de banca y crédito podrán, a su elección, presentar sus reclamaciones ante la Comisión Nacional Bancaria, o hacer valer sus derechos ante los tribunales competentes de la Federación o del orden común. Las instituciones de crédito estarán obligadas, en su caso, a someterse al procedimiento de conciliación a que se refiere el artículo siguiente.
@@ -1702,31 +1766,65 @@ En el caso en que las reclamaciones se presenten ante la Comisión Nacional Banc
 
 La sola presentación de la reclamación que se prevé en este artículo, interrumpe la prescripción.
 
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+La Comisión Nacional Bancaria y de Valores estará facultada para suplir la deficiencia en las reclamaciones en beneficio del usuario. Asimismo, desechará las reclamaciones que sean notoriamente improcedentes y aquéllas de las que esté conociendo la autoridad judicial, de lo cual se notificará al usuario.
+
 ###### ARTICULO 120.
 
 Las reclamaciones a que se refiere el artículo anterior, se ajustarán a las bases siguientes:
 
 I. Se presentarán por escrito ante la Comisión Nacional Bancaria, o en su delegación regional correspondiente; en las mismas se correrá traslado a la institución de que se trate, requiriéndole un informe detallado, mismo que deberá presentar por conducto de un representante en la fecha que dicha Comisión señale, de manera perentoria, para la realización de una junta de avenencia para la cual se citará a las partes y que sólo podrá diferirse por una vez;
 
-II. En la junta a que se refiere la fracción anterior, se exhortará a las partes a conciliar sus intereses y si ello no fuera posible la Comisión las invitará a que de común acuerdo la designen árbitro, sea en amigable composición o en juicio arbitral de estricto derecho, a elección de las mismas. El compromiso correspondiente se hará constar en el acta que al efecto se levante;
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-III. Las delegaciones regionales podrán tramitar la etapa conciliatoria y, en su caso, el procedimiento arbitral escogido;
+II. En la junta a que se refiere la fracción anterior, la Comisión exhortará a las partes a conciliar sus intereses.
 
-IV. En la amigable composición se fijarán las cuestiones que deberán ser objeto del arbitraje y la Comisión tendrá libertad de resolver en conciencia y a buena fe guardada, sin sujeción a las reglas legales, pero observando las formalidades esenciales del procedimiento.
+Si la institución de crédito no presenta el informe en la junta de avenencia, o no lo rinde en la forma señalada en la fracción anterior, la Comisión podrá diferir la junta y solicitarle las aclaraciones que estime necesarias.
 
-La Comisión tendrá la facultad de allegarse todos los elementos que juzgue necesarios para resolver las cuestiones que se le hayan sometido en arbitraje. No habrá términos ni incidentes y la resolución correspondiente sólo admitirá aclaración de la misma;
+En caso que el reclamante no comparezca, ni justifique su ausencia en un plazo de diez días hábiles, contado a partir de la fecha fijada para la celebración de la junta de avenencia, se entenderá que no desea la conciliación, dándose por concluido el procedimiento respectivo, quedando a salvo sus derechos para hacerlos valer ante los tribunales competentes.
 
-V. En el juicio arbitral de estricto derecho las partes formularán compromiso, en el que fijarán igualmente las reglas del procedimiento que convencionalmente establezcan, aplicándose supletoriamente el Código de Comercio, con excepción de los artículos 1217, 1235 y 1296.
+Si en la junta no se logra la conciliación de las partes, la Comisión las invitará a que de común acuerdo designen árbitro, ya sea a la propia Comisión o a quien ésta les proponga, quedando a elección de las mismas que el juicio arbitral sea en amigable composición o en juicio arbitral de estricto derecho. El compromiso correspondiente se hará constar en el acta que al efecto se levante.
 
-Las resoluciones en el juicio arbitral de estricto derecho, dictadas en el curso del procedimiento, admitirán como único recurso el de revocación y el laudo dictado sólo podrá ser impugnado en juicio de amparo;
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-VI. El incumplimiento o desacato por parte de las instituciones de crédito a los acuerdos o resoluciones dictadas por la Comisión Nacional Bancaria en el curso de los procedimientos establecidos en el presente artículo, serán castigados con multa administrativa que imponga la propia Comisión, por cantidad equivalente de cien a un mil veces el salario mínimo general diario vigente en el Distrito Federal;
+III. En el evento de que sea la institución de crédito la que decline el arbitraje y siempre que del contenido del escrito de reclamación y del informe que dicha institución presente, se desprendan elementos que a juicio de la Comisión permitan suponer la procedencia de lo reclamado, la propia Comisión podrá emitir un dictamen técnico que contenga su opinión.
 
-VII. El laudo que en amigable composición o en juicio arbitral de estricto derecho condene a una institución, le otorgará para su cumplimiento un plazo de quince días hábiles a partir de la notificación; si no lo efectuare, sin perjuicio de lo señalado en la fracción siguiente, la Comisión Nacional Bancaria, impondrá a la institución una multa hasta de tres veces el importe de lo condenado, si este fuera cuantificable o hasta cinco mil veces el salario mínimo general diario vigente en el Distrito Federal, si no lo fuere;
+La Comisión entregará al reclamante copia certificada del dictamen técnico, a efecto de que lo pueda hacer valer ante los tribunales competentes, los que deberán tomarlo en cuenta para mejor proveer en el procedimiento respectivo.
 
-VIII. Cuando se faltare al cumplimiento voluntario de lo convenido en la conciliación o al laudo en la amigable composición o en el juicio arbitral de estricto derecho, la parte afectada deberá acudir a los tribunales competentes, para efectos de ejecución de una u otra resolución, y
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
-IX. Las notificaciones en el juicio arbitral de estricto derecho se harán a las partes por cédula fijada en los estrados de la Comisión Nacional Bancaria o de la delegación regional correspondiente, excepción hecha del traslado de la reclamación, de la demanda, de la citación a la junta conciliatoria y del laudo, que tendrán que hacerse personalmente o por correo certificado con acuse de recibo. Las notificaciones surtirán efecto al día siguiente al en que se efectúen.
+IV. La Comisión tendrá la facultad de allegarse todos los elementos que juzgue necesarios para procurar la conciliación o resolver las cuestiones que se le hayan sometido en arbitraje, así como para formular el dictamen técnico a que se refiere la fracción anterior, pudiendo al efecto requerir a la institución de que se trate los datos, informes, registros, auxiliares, correspondencia y demás documentación relativa, así como practicar las visitas de inspección que se requieran.
+
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+V. Las delegaciones regionales podrán tramitar la etapa conciliatoria y, en su caso, el procedimiento arbitral escogido.
+
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+VI. En la amigable composición se fijarán las cuestiones que deberán ser objeto del arbitraje y la Comisión tendrá libertad de resolver en conciencia y a buena fe guardada, sin sujeción a las reglas legales, pero observando las formalidades esenciales del procedimiento. No habrá términos ni incidentes y la resolución correspondiente sólo admitirá aclaración de la misma.
+
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+VII. En el juicio arbitral de estricto derecho las partes formularán compromiso, en el que fijarán igualmente las reglas del procedimiento que convencionalmente establezcan, aplicándose supletoriamente el Código de Comercio, con excepción de los artículos 1217, 1235 y 1296.
+
+Las resoluciones en el juicio arbitral de estricto derecho, dictadas en el curso del procedimiento, admitirán como único recurso el de revocación y el laudo dictado sólo podrá ser impugnado en juicio de amparo.
+
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+VIII. El incumplimiento o desacato por parte de las instituciones de crédito a los requerimientos, solicitudes de informes, acuerdos o resoluciones dictados por la Comisión Nacional Bancaria y de Valores en el curso de los procedimientos establecidos en el presente artículo, serán castigados con multa administrativa que imponga la propia Comisión, por cantidad equivalente de cien a un mil veces el salario mínimo general diario vigente en el Distrito Federal;
+
+> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+IX. El laudo que en amigable composición o en juicio arbitral de estricto derecho condene a una institución, le otorgará para su cumplimiento un plazo de quince días hábiles a partir de la notificación; si no lo efectuare, sin perjuicio de lo señalado en la fracción siguiente, la Comisión Nacional Bancaria y de Valores impondrá a la institución una multa de hasta tres veces el importe de lo condenado, si éste fuera cuantificable o hasta cinco mil veces el salario mínimo general diario vigente en el Distrito Federal, si no lo fuere;
+
+> <small>(ADICIONADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+X. Cuando se faltare al cumplimiento voluntario de lo convenido en la conciliación o al laudo en la amigable composición o en el juicio arbitral de estricto derecho, la parte afectada deberá acudir a los tribunales competentes, para efectos de ejecución de una u otra resolución, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+
+XI. Las notificaciones en el juicio arbitral de estricto derecho se harán a las partes por cédula fijada en los estrados de la Comisión Nacional Bancaria y de Valores o de la delegación regional correspondiente, excepción hecha del traslado de la reclamación, de la demanda, de la citación a la junta conciliatoria y del laudo, que tendrán que hacerse personalmente o por correo certificado con acuse de recibo. Las notificaciones surtirán efecto al día siguiente a aquél en que se efectúen.
 
 ###### ARTICULO 121.
 
@@ -2125,5 +2223,23 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA 
 PRIMERO.- La presente Ley entrará en vigor el 1o. de mayo de 1995.
 
 SEGUNDO.- Se derogan el Capítulo I del Título Séptimo de la Ley de Instituciones de Crédito; los artículos 40, 41 fracciones I, II, III, IV, VI a VIII, XI a XII y último párrafo y 42 a 46 de la Ley del Mercado de Valores, y la fracción V del artículo 29 de la Ley de Sociedades de Inversión.
+
+...
+
+D.O.F. 17 DE NOVIEMBRE DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Lo dispuesto en el artículo 118-A de la Ley de Instituciones de Crédito se aplicará a los modelos de contratos de adhesión que sirvan de base para la celebración de contratos a partir del inicio de la vigencia del presente Decreto.
+
+TERCERO.- Las instituciones de crédito deberán establecer las unidades especializadas a que se refiere el artículo 118-B de la Ley de Instituciones de Crédito, en un plazo máximo de noventa días contado a partir del inicio de la vigencia del presente Decreto.
+
+CUARTO.- Las reclamaciones presentadas por los usuarios del servicio de banca y crédito ante la Comisión Nacional Bancaria y de Valores, con anterioridad al inicio de la vigencia del presente Decreto, continuarán su trámite hasta su conclusión en los términos establecidos por los artículos 119 y 120 de la Ley de Instituciones de Crédito, que se encontraban vigentes al momento de su presentación.
+
+QUINTO.- Lo establecido en los artículos segundo y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para Regular las Agrupaciones Financieras, Ley de Instituciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley del Mercado de Valores, Ley de Sociedades de Inversión, Ley General de Instituciones y Sociedades Mutualistas de Seguros y Ley Federal de Instituciones de Fianzas, publicado en el Diario Oficial de la Federación el 23 de diciembre de 1993, no es aplicable a las sociedades financieras de objeto limitado, arrendadoras financieras, empresas de factoraje financiero e instituciones de seguros, filiales, que resulten de las adquisiciones que sean autorizadas por la Secretaría de Hacienda y Crédito Público.
+
+SEXTO.- Las sociedades financieras de objeto limitado, organizaciones auxiliares del crédito, casas de cambio, instituciones de seguros e instituciones de fianzas, deberán efectuar, en su caso, los actos corporativos necesarios para ajustar sus estatutos a lo dispuesto por el presente Decreto, dentro de un plazo máximo de ciento veinte días contado a partir del inicio de la vigencia del mismo.
 
 ...
