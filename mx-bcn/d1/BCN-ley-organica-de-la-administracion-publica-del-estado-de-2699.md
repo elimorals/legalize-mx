@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "1989-12-31"
+last_updated: "1990-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1990.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -171,7 +171,7 @@ XVI.- Dirección de Comunicación Social;
 
 XVII.- Dirección Jurídica;
 
-XVIII.- Procuraduría de Protección al Turista, y
+XVIII.- (DEROGADA, P.O. 10 DE JULIO DE 1990)
 
 XIX.- Comisión Agraria Mixta.
 
@@ -627,7 +627,17 @@ VII.- Coordinarse con Instituciones Educativas Técnicas y de Nivel Superior, pa
 
 VIII.- Promover la creación de organismos de carácter privado y social que tiendan a fomentar la inversión en materia turística y servicios conexos, y
 
-IX.- Los demás que determinen expresamente las Leyes y Reglamentos.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1990)</small>
+
+IX.- La Protección, Auxilio y Representación de los Turistas;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 1990)</small>
+
+X.- La regulación, clasificación y control de los servidores turísticos;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 1990)</small>
+
+XI.- Las (sic) demás que determinen expresamente las Leyes y Reglamentos.
 
 ### CAPITULO XII
 
@@ -831,13 +841,13 @@ IV.- Intervenir en el trámite de los casos de expropiación, y
 
 V.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
-### CAPITULO XX
+> <small>(DEROGADO, P.O. 10 DE JULIO DE 1990)</small>
 
-DE LA COMPETENCIA DE LA PROCURADURIA DE PROTECCION AL TURISTA.
+### CAPITULO XX
 
 ###### ARTICULO 39.
 
-A la Procuraduría de Protección al Turista corresponden las atribuciones que le señala la Ley de la Procuraduría de Protección al Turista del Estado de Baja California, así como de otras Leyes, Reglamentos y demás Disposiciones aplicables.
+(DEROGADO, P.O. 10 DE JULIO DE 1990)
 
 ### CAPITULO XXI
 
@@ -1030,3 +1040,11 @@ P.O. 31 DE DICIEMBRE DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
+
+P.O. 10 DE JULIO DE 1990.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Los trabajadores de base que prestan servicios a la Procuraduría de Protección al Turista del Estado de Baja California, serán reubicados en la Secretaría de Turismo del Estado con pleno respeto de sus derechos laborales, los trabajadores de confianza, podrán ser reubicados a juicio del titular de la Secretaría.
+
+TERCERO.- Los recursos materiales, financieros y archivos de la Procuraduría de Protección al Turista del Estado de Baja California pasarán a la Secretaría de Turismo del Estado con las formalidades jurídicas y administrativas que procedan.
