@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2004-04-29"
+last_updated: "2004-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JUNIO DE 2004.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -1145,7 +1145,7 @@ II.- Los jueces y tribunales desecharán de plano toda recusación:
 
 a) Cuando no estuviere propuesta en tiempo.
 
-b) Cuando no se funde en alguna de la causas a que se refiere el artículo 126, y
+b) Cuando no se funde en alguna de las causas a que se refiere el artículo 126, y
 
 c) Cuando se interponga en negocios en que no puede tener lugar.
 
@@ -1607,7 +1607,7 @@ Se hará constar en los autos el día en que comienzan a correr los términos y 
 
 ###### Art. 182.
 
-Una vez concluídos los términos fijados a las partes, sin necesidad de que se acuse rebeldía, seguirá el juicio su curso, y se tendrá por perdido el derecho que, dentro de ellos, debió ejercitarse, salvo los casos en que la ley disponga otra cosa. Vencido un término procesal, el secretario dará cuenta inmediata, y el juez, sin necesidad de acuse de rebeldía, dictará la resolución que corresponda, según el estado del juicio.
+Una vez concluidos los términos fijados a las partes, sin necesidad de que se acuse rebeldía, seguirá el juicio su curso, y se tendrá por perdido el derecho que, dentro de ellos, debió ejercitarse, salvo los casos en que la ley disponga otra cosa. Vencido un término procesal, el secretario dará cuenta inmediata, y el juez, sin necesidad de acuse de rebeldía, dictará la resolución que corresponda, según el estado del juicio.
 
 Se exceptúa de lo dispuesto en este artículo el término para contestar la demanda y para expresar agravios. En estos casos el derecho subsistirá hasta el momento en que se acuse rebeldía.
 
@@ -2125,7 +2125,7 @@ II.- Si está debidamente justificada la personalidad o representación legal de
 
 III.- Si de los documentos presentados aparece que existe legitimación activa y pasiva de las partes;
 
-IV.- Si conforme a las reglas de competencia puede avocarse (sic) el conocimiento de litigio, y
+IV.- Si conforme a las reglas de competencia puede avocarse el conocimiento de litigio, y
 
 V.- Si la vía intentada es la procedente.
 
@@ -2351,7 +2351,7 @@ La falta de presentación de los escritos a que este artículo se refiere, sea p
 
 ###### Art. 256.
 
-Hasta antes de la sentencia, el actor podrá presentarse dentro del mismo juicio, haciendo valer acciones que se relacionen directamente con el mismo negocio y que hayan surgido de causas supervenientes posteriores a la fecha de la demanda, o cambiar las peticiones contenidas en el escrito inicial, ya sea porque la cosa objeto del litigio haya sido destruída, porque se reclamen daños y perjuicios en lugar de devolución o por cualquier otra cosa similar.
+Hasta antes de la sentencia, el actor podrá presentarse dentro del mismo juicio, haciendo valer acciones que se relacionen directamente con el mismo negocio y que hayan surgido de causas supervenientes posteriores a la fecha de la demanda, o cambiar las peticiones contenidas en el escrito inicial, ya sea porque la cosa objeto del litigio haya sido destruida, porque se reclamen daños y perjuicios en lugar de devolución o por cualquier otra cosa similar.
 
 Por su parte, el demandado podrá también, hasta antes de la sentencia, hacer valer excepciones supervenientes comprobando que no tuvo conocimiento anterior de ellas.
 
@@ -2479,7 +2479,7 @@ II.- Los documentos y pruebas que se acompañen con la demanda y contestación y
 
 El término ordinario de prueba será por el plazo que se determine según la clase del juicio, y comenzará a correr el día siguiente de que se notifique el auto que ordenó su apertura. Todas las pruebas deberán practicarse dentro del término probatorio, bajo pena de nulidad y responsabilidad del juez. Se exceptúan aquellas que, pedidas en tiempo legal, no pudieron practicarse por causas independientes del interesado. En este caso, el juez, si lo cree conveniente, podrá mandar concluirlas, dando conocimiento a las partes y señalando al efecto un término prudente, por una sola vez. Las pruebas documentales que se presenten fuera de término, serán admitidas en cualquier estado del juicio, hasta la citación para sentencia, si fueren de fecha posterior o protestando la parte que las ofrezca, que antes no supo de ellas, o que no fué ofrecida antes por causa que no le es imputable, y dándose conocimiento de las mismas a la contraria, quien dentro del tercer día deberá exponer lo que a su derecho convenga, reservándose la decisión de los puntos que suscitare hasta la sentencia definitiva, salvo siempre la facultad del juez de tomar en cuenta estos documentos para mejor proveer.
 
-En cualquier momento, ambas partes, de común acuerdo, pueden dar por concluído el término de prueba.
+En cualquier momento, ambas partes, de común acuerdo, pueden dar por concluido el término de prueba.
 
 ###### Art. 268.
 
@@ -3137,7 +3137,7 @@ Alegatos y citación para sentencia.
 
 ###### Art. 332.
 
-El término para alegar será siempre común para ambas partes, sin que en ningún caso puedan sacar los autos del juzgado. El que corresponda, según la clase de juicio, comenzará a correr al día siguiente al en que hubiere concluído el de prueba, si lo hubiere, sin que para que transcurra se requiera decisión especial del juez. Si no hubiere término de prueba, y las partes debieran alegar, el plazo correrá a partir de la notificación del auto que así lo determine.
+El término para alegar será siempre común para ambas partes, sin que en ningún caso puedan sacar los autos del juzgado. El que corresponda, según la clase de juicio, comenzará a correr al día siguiente al en que hubiere concluido el de prueba, si lo hubiere, sin que para que transcurra se requiera decisión especial del juez. Si no hubiere término de prueba, y las partes debieran alegar, el plazo correrá a partir de la notificación del auto que así lo determine.
 
 Si por disposición de la ley o del juez, los alegatos deben producirse en una audiencia, las partes los formularán verbalmente, primero el actor y después el demandado, y en el mismo orden las aclaraciones o rectificaciones, sin que éstas se consignen en el acta. Las partes pueden presentar en la audiencia o dentro de las cuarenta y ocho horas siguientes a su celebración, si concurrieron, un resumen escrito de sus alegatos o conclusiones. En sus alegatos verbales procurarán las partes la mayor brevedad y concisión y no podrán hacer uso de la palabra por más de media hora en total, cada una. Si una de las partes no concurre, los alegatos que presente serán leídos por el secretario.
 
@@ -3561,6 +3561,10 @@ II.- Admitido el recurso de apelación, a petición de parte serán puestos los 
 
 Del escrito de expresión de agravios deberá acompañarse copia con la que se correrá traslado a la contra-parte por el mismo término concedido al apelante a fin de que conteste lo que a su derecho convenga, quedando entre tanto los autos o el testimonio a su disposición;
 
+> <small>(ADICIONADO, B.O. 14 DE JUNIO DE 2004)</small>
+
+Cualesquiera que sea el tipo del juicio en el que intervengan como partes menores de edad o incapaces deberá suplirse la deficiencia del agravio, de tal modo que queden protegidos los derechos de los mismos según su consagración en la Constitución Política de la República, en la Convención sobre los Derechos del Niño ratificada el 21 de septiembre de 1989, en la Constitución Política Local y en la Ley local para la Protección de los Derechos de Niñas, Niños y Adolescentes.
+
 > <small>(REFORMADA, B.O. 26 DE MAYO DE 1951)</small>
 
 III.- Si el apelante omitiere expresar los agravios dentro del término concedido, a petición de parte, se tendrá por desierto el recurso, haciéndose la declaración correspondiente por el Supremo Tribunal. El que se desista después de haber expresado agravios será condenado en costas;
@@ -3621,7 +3625,7 @@ Las apelaciones contra autos en cualquier clase de juicios y sentencias interloc
 
 ###### Art. 390.
 
-Cuando se tramiten apelaciones contra sentencias definitivas, sólo podrán admitirse al actor nuevas acciones cuando se reclamen intereses o prestaciones futuras devengadas con posterioridad, daños y perjuicios supervenientes o el cambio de la prestación reclamada porque la cosa objeto del litigio haya sido destruída u otra causa similar que imposibilite el cumplimiento de la prestación original. Al demandado sólo se le admitirán excepciones supervenientes.
+Cuando se tramiten apelaciones contra sentencias definitivas, sólo podrán admitirse al actor nuevas acciones cuando se reclamen intereses o prestaciones futuras devengadas con posterioridad, daños y perjuicios supervenientes o el cambio de la prestación reclamada porque la cosa objeto del litigio haya sido destruida u otra causa similar que imposibilite el cumplimiento de la prestación original. Al demandado sólo se le admitirán excepciones supervenientes.
 
 Estas acciones y excepciones, se tramitarán incidentalmente por cuerda separada y se decidirán en la sentencia definitiva.
 
@@ -4113,7 +4117,7 @@ III.- Si llagare a asegurarse el título mismo del crédito, se nombrará un dep
 
 IV.- Si los créditos a que se refiere el artículo anterior fueren litigiosos, la providencia de secuestro se notificará al juez de los autos respectivos, dándolo a conocer al depositario nombrado a fin de que éste pueda sin obstáculo alguno desempeñar las obligaciones que le impone este artículo. El acreedor contra quien se haya dictado el secuestro continuará con la obligación de seguir como coadyuvante del depositario en el juicio respectivo, pero no podrá realizar ningún acto de disposición o cualquier otro que menoscabe el crédito materia del secuestro, y
 
-V.- Al notificarse el embargo al tercero deudor se le emplazará para que manifieste al juzgado, dentro de tres días, las cosas o bienes que adeude el ejecutado o que se encuentren en su poder y para que indique la época en que debe efectuar el pago o la entrega. El tercero tendrá obligación además de especificar dentro del mismo término los secuestros practicados con anterioridad en su contra y la sucesiones que él haya aceptado con relación al deudor. Si el tercero no cumple con hacer esta declaración se presumirá que adeuda la cantidad embargada y que ésta es exigible, pudiendo ejercitarse en su contra la acción que corresponda por el depositario. El tercero cuando sea requerido por el juez que tendrá obligación de exhibir los comprobantes que procedan para demostrar sus afirmaciones. En caso de que haya otros embargos anteriores, podrán tomarse en cuenta las declaraciones que haya hecho el tercero en los juicios respectivos.
+V.- Al notificarse el embargo al tercero deudor se le emplazará para que manifieste al juzgado, dentro de tres días, las cosas o bienes que adeude el ejecutado o que se encuentren en su poder y para que indique la época en que debe efectuar el pago o la entrega. El tercero tendrá obligación además de especificar dentro del mismo término los secuestros practicados con anterioridad en su contra y las cesiones que él haya aceptado con relación al deudor. Si el tercero no cumple con hacer esta declaración se presumirá que adeuda la cantidad embargada y que ésta es exigible, pudiendo ejercitarse en su contra la acción que corresponda por el depositario. El tercero cuando sea requerido por el juez que tendrá obligación de exhibir los comprobantes que procedan para demostrar sus afirmaciones. En caso de que haya otros embargos anteriores, podrán tomarse en cuenta las declaraciones que haya hecho el tercero en los juicios respectivos.
 
 ###### Art. 441.
 
@@ -4367,7 +4371,7 @@ I.- Se cerciorará el juez de que el remate fué anunciado en forma legal, y que
 
 II.- El día del remate, a la hora señalada, pasará el juez o secretario lista de los postores que se hubieren presentado, y concederá media hora para admitir a los que de nuevo se presenten;
 
-III.- Concluída la media hora, el juez declarará que habrá de procederse al remate, y no admitirá nuevos postores. Enseguida revisará las ofertas presentadas, desechando desde luego las que no tengan postura legal, y las que no estuvieron acompañadas de la garantía a que se refiere el artículo precedente, cuando se requiera ésta conforme a la ley;
+III.- Concluida la media hora, el juez declarará que habrá de procederse al remate, y no admitirá nuevos postores. Enseguida revisará las ofertas presentadas, desechando desde luego las que no tengan postura legal, y las que no estuvieron acompañadas de la garantía a que se refiere el artículo precedente, cuando se requiera ésta conforme a la ley;
 
 IV.- Calificadas de buenas las posturas, el juez las leerá en alta voz por sí mismo, o mandará darles lectura por la Secretaría, para que los postores presentes puedan mejorarlas. Si hay varias posturas legales, el juez decidirá cual es la preferente;
 
@@ -4953,7 +4957,7 @@ Si la sentencia declarase que no procede el juicio ejecutivo, reservará al acto
 
 ###### Art. 522.
 
-La sentencia definitiva y las demás resoluciones que se dicten en los juicio ejecutivos, sólo serán apelables en el efecto devolutivo, salvo cuando la ley disponga otra cosa.
+La sentencia definitiva y las demás resoluciones que se dicten en los juicios ejecutivos, sólo serán apelables en el efecto devolutivo, salvo cuando la ley disponga otra cosa.
 
 ### CAPITULO QUINTO.
 
@@ -5105,7 +5109,7 @@ Juicio de desahucio por falta de pago.
 
 El juicio de desahucio procede cuando se exige la desocupación de una finca o local por falta de pago de dos o más mensualidades de renta.
 
-Con la demanda se acompañará el contrato escrito del arrendamiento, cuando ello fuere necesario para la validez del acto, conforme al Código Civil. En caso de no ser necesario contrato escrito, o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, o éste se haya extraviado o destruído, se justificarán estas circunstancias por medio de información testimonial, prueba documental o cualquiera otra bastante, que se recibirá como medio preparatorio del juicio. Simultáneamente con el desahucio podrá reclamarse el pago de las rentas vencidas y de las que se sigan venciendo hasta que tenga verificativo el lanzamiento.
+Con la demanda se acompañará el contrato escrito del arrendamiento, cuando ello fuere necesario para la validez del acto, conforme al Código Civil. En caso de no ser necesario contrato escrito, o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, o éste se haya extraviado o destruido, se justificarán estas circunstancias por medio de información testimonial, prueba documental o cualquiera otra bastante, que se recibirá como medio preparatorio del juicio. Simultáneamente con el desahucio podrá reclamarse el pago de las rentas vencidas y de las que se sigan venciendo hasta que tenga verificativo el lanzamiento.
 
 ###### Art. 541.
 
@@ -5127,7 +5131,7 @@ Si en el acto de la diligencia justificará el arrendatario con el recibo corres
 
 Si se hubiere exhibido el importe, se mandará entregar al actor, sin más trámite, y se dará por terminado el procedimiento.
 
-Si se exhibiere el recibo de pago, se mandará dar vista al actor por el término de tres días, y si no lo objeta dentro de este plazo, se dará por concluída la instancia.
+Si se exhibiere el recibo de pago, se mandará dar vista al actor por el término de tres días, y si no lo objeta dentro de este plazo, se dará por concluida la instancia.
 
 ###### Art. 545.
 
@@ -5525,7 +5529,7 @@ IV.- El tribunal podrá tener en cuenta hechos no alegados por las partes, y ord
 
 V.- Si el actor que intente la demanda deja de promover por más de seis meses en el curso del juicio, la sentencia que se dicte se limitará a tenerlo por desistido de la acción;
 
-VI.- Si una de las partes fallece, la causa se dará por concluída, excepto en los casos en que la ley conceda a los herederos expresamente la facultad de continuarla;
+VI.- Si una de las partes fallece, la causa se dará por concluida, excepto en los casos en que la ley conceda a los herederos expresamente la facultad de continuarla;
 
 VII.- El juez podrá admitir alegaciones y pruebas de las partes, aunque se presenten fuera de término;
 
@@ -5573,7 +5577,7 @@ V.- Las pruebas deberán ofrecerse en los escritos de demanda o contestación. L
 
 VI.- Transcurrido el periodo de emplazamiento, dentro de los tres días siguientes se celebrará una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran. Si no fuere posible desahogar todas las pruebas, la audiencia podrá diferirse por una sola vez por un término no mayor de cinco días.
 
-El ejercicio de la acción corresponderá al Ministerio úblñi9co y será juez competente el del lugar donde esté el domicilio de la Institución de Beneficencia o Asistencia Social que haya acogido al menor.
+El ejercicio de la acción corresponderá al Ministerio Público y será juez competente el del lugar donde esté el domicilio de la Institución de Beneficencia o Asistencia Social que haya acogido al menor.
 
 ### CAPITULO SEPTIMO.
 
@@ -5731,7 +5735,7 @@ V.- Que se practique el examen en presencia del juez, del Ministerio Público y 
 
 ###### Art. 607.
 
-Las personas para quienes se pide la interdicción e inhabilitación pueden comparecer en el juicio y cumplir por si todos los actos procesales, incluídas las impugnaciones, aun cuando se les haya nombrado tutor o curador.
+Las personas para quienes se pide la interdicción e inhabilitación pueden comparecer en el juicio y cumplir por si todos los actos procesales, incluidas las impugnaciones, aun cuando se les haya nombrado tutor o curador.
 
 ###### Art. 608.
 
@@ -6171,7 +6175,7 @@ No se recibirá la información sin que previamente se haya dado una amplia publ
 
 Si el juez estima comprobada debidamente la posesión, lo declarará así por resolución judicial, mandándose protocolizar las diligencias respectivas y se inscribirá en el Registro Público de la Propiedad.
 
-Cualquiera que se crea con derecho a los bienes cuya inscripción se solicita mediante información de posesión, podrá alegarlo ante la autoridad competente. La interposición de su demanda suspenderá el curso del expediente si estuviere en trámite. Si estuviere ya concluído y aprobado, deberá el juez ponerlo en conocimiento del Registrador para que suspenda la inscrición (sic), y si ya estuviere hecha, para que anote la inscripción de la demanda.
+Cualquiera que se crea con derecho a los bienes cuya inscripción se solicita mediante información de posesión, podrá alegarlo ante la autoridad competente. La interposición de su demanda suspenderá el curso del expediente si estuviere en trámite. Si estuviere ya concluido y aprobado, deberá el juez ponerlo en conocimiento del Registrador para que suspenda la inscrición (sic), y si ya estuviere hecha, para que anote la inscripción de la demanda.
 
 Para que se suspenda la tramitación de la inscripción, así como para que se haga la anotación de ésta, es necesario que el demandado otorgue fianza de responder de los daños y perjuicios que se originen si su oposición se declara infundada.
 
@@ -6371,7 +6375,7 @@ Apeo y deslinde.
 
 ###### Art. 687.
 
-El apeo o deslinde tiene lugar siempre que no se hayan fijado los límites que separan un predio de otros u otros, o que habiéndose fijado, haya motivo fundado para creer que no son exactos, ya porque naturalmente se hayan confundido, o porque se hubieren destruído los señales que las marcaban, o bien porque éstas estuvieren colocadas en lugar distinto del primitivo.
+El apeo o deslinde tiene lugar siempre que no se hayan fijado los límites que separan un predio de otros u otros, o que habiéndose fijado, haya motivo fundado para creer que no son exactos, ya porque naturalmente se hayan confundido, o porque se hubieren destruido los señales que las marcaban, o bien porque éstas estuvieren colocadas en lugar distinto del primitivo.
 
 Hecho el apeo y deslinde, el juez decidirá sobre el derecho, y en su caso la obligación que tengan los interesados de cerrar o cercar su propiedad en todo o en parte.
 
@@ -6415,7 +6419,7 @@ II.- La diligencia no se suspenderá por virtud de simples observaciones, sino e
 
 III.- El juez o secretario, al ir demarcando los límites del fundo deslindado, otorgará posesión al promovente respecto de la propiedad que quede comprendida dentro de ellos, si ninguno de los colindantes se opusiere. Si se opusiere alguno que no tenga título registrado, no se le admitirá la oposición y continuará la diligencia; pero se reservarán sus derechos para que los dilucide en la vía y formas legales;
 
-IV.- Si hay oposición de alguno de los colindantes respecto a un punto determinado, por considerar que conforme a sus títulos queda comprendido dentro de los límites de su propiedad, el tribunal oirá a los interesados para que se pongan de acuerdo. Si ésto se lograre se hará constar y se otorgará la posesión según su sentido. Si no se lograre el acuerdo, se abstendrá el juez de hacer declaración alguna en cuanto a la posesión, respetando en ella a quien lo disfrute, y mandará reservar sus derechos a los interesados para que los haga valer en el juicio correspondiente;
+IV.- Si hay oposición de alguno de los colindantes respecto a un punto determinado, por considerar que conforme a sus títulos queda comprendido dentro de los límites de su propiedad, el tribunal oirá a los interesados para que se pongan de acuerdo. Si esto se lograre se hará constar y se otorgará la posesión según su sentido. Si no se lograre el acuerdo, se abstendrá el juez de hacer declaración alguna en cuanto a la posesión, respetando en ella a quien lo disfrute, y mandará reservar sus derechos a los interesados para que los haga valer en el juicio correspondiente;
 
 V.- El juez mandará que se fijen las señales convenientes en los puntos deslindados, las que quedarán como límites legales, y
 
@@ -6547,7 +6551,7 @@ Arraigo personal.
 
 Procederá que se decrete como providencia cautelar el arraigo personal del deudor, cuando se tema que se ausente u oculte la persona contra quien deba entablarse la demanda, y no tenga bienes en el lugar del juicio que sean bastantes para responder de lo reclamado. En los mismos casos el demandado podrá pedir el arraigo del actor para que responda de las costas y daños y perjuicios.
 
-La providencia se reducirá a prevenir al demandado que no se ausente del lugar del juiicio (sic) sin dejar representante o apoderado suficientemente instruído y expensado para responder de las resultas del juicio.
+La providencia se reducirá a prevenir al demandado que no se ausente del lugar del juiicio (sic) sin dejar representante o apoderado suficientemente instruido y expensado para responder de las resultas del juicio.
 
 ###### Art. 709.
 
@@ -6567,7 +6571,7 @@ I.- Si fuere absuelto el reo cuando se pida contra el demandado;
 
 II.- Si fuere condenado el demandado, si éste la pidió contra el actor;
 
-III.- Si el arraigado nombra apoderado suficientemente instruído y expensado;
+III.- Si el arraigado nombra apoderado suficientemente instruido y expensado;
 
 IV.- Cuando se cumpla o ejecute la sentencia definitiva, y
 
@@ -6885,7 +6889,7 @@ El Síndico ejecutará personalmente las funciones inherentes a su cargo, a meno
 
 No puede ser Síndico el pariente del concursado o del juez dentro del cuarto grado de consanguinidad, ni segundo de afinidad, ni su amigo ni su socio, ni el enemigo, ni con quien tenga comunidad de intereses.
 
-El que se halle en alguno de estos casos, deberá excusarse y ser substituído inmediatamente.
+El que se halle en alguno de estos casos, deberá excusarse y ser substituido inmediatamente.
 
 ###### Art. 746.
 
@@ -7093,7 +7097,7 @@ b) Que lo pidan todos, y
 
 c) Que no exista controversia alguna.
 
-En cualquier momento, antes de concluída, a solicitud de cualquiera de los interesados, cesará la tramitación extrajudicial. Lo mismo se observará cuando se suscite oposición o controversia.
+En cualquier momento, antes de concluida, a solicitud de cualquiera de los interesados, cesará la tramitación extrajudicial. Lo mismo se observará cuando se suscite oposición o controversia.
 
 La tramitación ante Notario se hará del conocimiento del fisco y se verificará de acuerdo con lo que se dispone en el capítulo respectivo.
 
@@ -7511,7 +7515,7 @@ IV.- También podrá ser removido a juicio del juez y a solicitud de cualquiera 
 
 V.- Cuando no alcancen los bienes para pagar las deudas líquidas, el albacea debe dar cuanta de esta circunstancia a los acreedores y liquidadores;
 
-VI.- Concluídas las operaciones de liquidación dentro de los ocho días siguientes presentará el albacea su cuenta general de albaceazgo; si no lo hace, se le apremiará por los medios legales, siendo aplicables las reglas de la ejecución forzosa;
+VI.- Concluidas las operaciones de liquidación dentro de los ocho días siguientes presentará el albacea su cuenta general de albaceazgo; si no lo hace, se le apremiará por los medios legales, siendo aplicables las reglas de la ejecución forzosa;
 
 VII.- Presentada la cuenta trimestral o general de administración, se mandará poner en la Secretaría a disposición de los interesados, por un término de diez días, para que se impongan de ella;
 
@@ -7581,7 +7585,7 @@ VI.- Si hubiere bienes gravados, se especificarán los gravámenes, indicando el
 
 ###### Art. 820.
 
-Concluído el proyecto de partición, el juez lo mandará poner a la vista de los interesados por un término de diez días.
+Concluido el proyecto de partición, el juez lo mandará poner a la vista de los interesados por un término de diez días.
 
 Vencido el plazo sin hacerse oposición, el juez aprobará el proyecto y dictará sentencia, mandando entregar a cada interesado los bienes que le hubieren sido aplicados, con los títulos de propiedad, después de ponerse en ellos, por el Secretario, una nota en que se haga constar la adjudicación.
 
@@ -8528,3 +8532,9 @@ B.O. 29 DE ABRIL DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 14 DE JUNIO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
