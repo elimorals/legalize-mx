@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2001-05-12"
+last_updated: "2002-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2002.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1003,9 +1003,9 @@ II.- Despachar dentro de los términos que señale la Ley Orgánica del Congreso
 
 III.- Emitir su voto en los asuntos que se sometan a la deliberación del Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
-IV.- Visitar en los recesos de la Legislatura, cuando menos una vez al año el distrito por el que resultaron electos, o los de aquel en que residan quienes fueron electos por el principio de representación proporcional, para informarse:
+IV.- Visitar en los recesos de la Legislatura, cuando menos una vez, el distrito por el que resultaron electos, o los de aquel en que residan quienes fueron electos por el principio de representación proporcional, para informarse:
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1019,7 +1019,9 @@ C.- Del estado en que se encuentra el desarrollo socioeconómico y la prestació
 
 D.- De los obstáculos que se opongan al adelanto del Distrito, y de las medidas impulsivas que sea necesario dictar en todos o alguno de los ramos de la riqueza pública.
 
-E.- Presentar al Congreso, al abrirse el período de sesiones posterior inmediato a la visita, un informe por escrito que contenga las observaciones que hubieren hecho, proponiendo al mismo tiempo las medidas que crean convenientes.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+
+E.- Presentar al Congreso, a más tardar en la tercera sesión posterior inmediata a la visita, un informe por escrito que contenga las observaciones que hubieren hecho, proponiendo al mismo tiempo las medidas que crean convenientes.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1031,9 +1033,9 @@ Para que los diputados puedan cumplir con las prevenciones contenidas en este ar
 
 Los Diputados podrán formular preguntas al Secretario General de Gobierno, al Procurador General de Justicia o a cualquiera de los Secretarios y Coordinadores, conforme a las bases siguientes:
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
-I.- Deberán presentarse por escrito, redactadas en forma sucinta, acompañarse de un breve motivación y leídas por su autor en sesión ordinaria del Congreso, que no sea solemne ni de apertura o clausura de período.
+I.- Deberán presentarse por escrito, redactadas en forma sucinta, acompañarse de una breve motivación y leídas por su autor en sesión ordinaria de la Diputación Permanente o del Congreso, que no sea solemne ni de apertura o clausura de período.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1047,9 +1049,9 @@ III.- A más tardar en la segunda sesión posterior a la de su formulación, el 
 
 IV.- El funcionario, por conducto del Secretario General de Gobierno, hará llegar su respuesta o informe correspondiente al Presidente del Congreso o de la Diputación Permanente dentro de los treinta días naturales posteriores a la fecha en que haya recibido la pregunta, pero si presenta solicitud motivada el plazo podrá prorrogarse por una sola vez hasta por diez días naturales, y
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
-V.- El Congreso conocerá la respuesta y en su caso podrá debatir sobre ella, pero se abstendrá de acordar moción o voto de censura.
+V.- El Congreso o la Diputación Permanente conocerán la respuesta y en su caso podrá debatir sobre ella, pero se abstendrán de acordar moción o voto de censura.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -1191,9 +1193,9 @@ III.- Llamar a los sustitutos de la misma Diputación en las faltas absolutas o 
 
 IV.- Integrar el número de Diputados que la componen, en caso de muerte, separación o impedimento no transitorio de alguno de los nombrados.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
-V.- Las que señala al Congreso el Artículo 64 en sus fracciones IX, inciso d; XIII; XIV; XXVII; XXXI; XXXII; XXXIII; XXXVI; y XLIV.
+V.- Las que señala al Congreso el artículo 64 en sus fracciones IX, inciso d); XIII; XVI; XXVII; XXXII; XXXIII; XXXVI y XLIV.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1209,9 +1211,9 @@ VIII.- Recibir del Instituto Estatal Electoral y, en su caso, del Tribunal Estat
 
 IX.- Conceder las licencias a que se refiere la fracción XIX del artículo 64, siempre que no excedan de un mes y en su caso, nombrar Gobernador interino.
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
-X.- Recibir iniciativas de ley o de decreto y turnarlas para su dictamen a la comisión que corresponda, y
+X.- Recibir iniciativas de ley, de decreto o de puntos de acuerdo y turnarlas para su dictamen a la comisión que corresponda, así como resolver las relativas a puntos de acuerdo, cuando éstos se refieran a asuntos de mero trámite administrativo o de gestaría (sic).
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1235,7 +1237,7 @@ DEL PODER EJECUTIVO.
 
 DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ###### Art. 84.
 
@@ -1341,7 +1343,7 @@ DEL DESPACHO DEL EJECUTIVO.
 
 ###### Art. 93.
 
-Son facultades del Gobernador:
+Son facultades y obligaciones del Gobernador:
 
 I.- Publicar y hacer cumplir las leyes federales.
 
@@ -1369,7 +1371,9 @@ VIII.- Prestar al Poder Judicial los auxilios que demande para el ejercicio de s
 
 IX.- Presentar anualmente al Congreso, antes del día diez de diciembre, la iniciativa de ley de ingresos y el proyecto de presupuesto de egresos para el año siguiente, debiendo comparecer el encargado de las finanzas del Estado a dar cuenta de ambas, en la fecha en que el Congreso lo solicite.
 
-X.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1994)
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+
+X.- Delegar, a través de patente, la fe pública del Estado para el ejercicio de la función notarial, en los términos de la ley respectiva.
 
 XI.- Mandar en Jefe la Guardia Nacional en el Estado conforme a la Ley Orgánica relativa.
 
@@ -1427,7 +1431,9 @@ XXVI.- Condonar adeudos por concepto de rezagos, cuando lo considere justo y equ
 
 XXVII.- Otorgar concesiones de acuerdo con las leyes de la materia.
 
-XXVIII.- Nombrar persona que represente en juicio a la Hacienda Pública cuando fuere necesario.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+
+XXVIII.- Representar al Estado en todo juicio o controversia que pueda afectar los intereses de éste, pudiendo nombrar uno o varios apoderados o delegados para tal efecto.
 
 XXIX.- Practicar visitas a los Municipios del Estado, cuando lo estime conveniente, ya por sí mismo o por medio de inspectores que nombre al efecto, proveyendo lo necesario en el orden administrativo e informando al Congreso o al Supremo Tribunal de las faltas que notare y cuyo remedio corresponda a los Poderes Legislativo y Judicial.
 
@@ -2223,6 +2229,10 @@ La policía preventiva estará al mando del presidente municipal, en los términ
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
+Art.- 141. Los ayuntamientos están facultados para aprobar, de acuerdo a las leyes en materia municipal que expida el Congreso del Estado, los bandos de policía y gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+
 ###### Art. 141.
 
 Los ayuntamientos están facultados para aprobar, de acuerdo a las leyes en materia municipal que expida el Congreso del Estado, los bandos de policía y gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
@@ -2319,7 +2329,9 @@ La educación pública en el Estado estará a cargo del Ejecutivo por conducto d
 
 ### CAPITULO IV.
 
-DE LA ASOCIACION PARA EL TRABAJO Y DE LA PREVISION SOCIAL.
+DEL DESARROLLO SUSTENTABLE.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ###### Art. 155.
 
@@ -2359,7 +2371,7 @@ La Legislatura del Estado establecerá las normas sobre salud que no sean de la 
 
 ### CAPITULO V.
 
-DEL TRABAJO Y DE LA PREVISION SOCIAL.
+DE LA ASOCIACION PARA EL TRABAJO Y DE LA PREVISION SOCIAL.
 
 ###### Art. 161.
 
@@ -2433,11 +2445,15 @@ El encargado de las finanzas del Estado y los demás funcionarios y empleados qu
 
 La ley determinará las atribuciones de la dependencia encargada de las finanzas públicas del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ###### Art. 173.
 
-(DEROGADO, P.O. 1 DE OCTUBRE DE 1994)
+En el diseño de las políticas públicas, el Gobierno del Estado y los municipios, procurarán que los criterios que las guíen consideren el aprovechamiento sustentable en el uso de los recursos naturales, a efecto de que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos por períodos definidos.
+
+Asimismo, los diversos proyectos de obra pública, en cualquiera de los órdenes de Gobierno, deberán garantizar, entre otras cosas, que el desarrollo sea integral y sustentable; que los mismos sean evaluables mediante criterios de carácter ambiental, económico y social, que tiendan a mejorar la calidad de vida y la productividad de las personas; que consideren medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ###### Art. 174.
 
@@ -2747,7 +2763,7 @@ DECRETO No. 263
 
 PRIMERO.- Las reformas a que se refiere esta Ley, entrarán en vigor en todo el Estado, el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Los Ayuntamientos que vienen funcionando, con arreglo a la Constitución del Estado en su términos vigentes hasta antes de estas reformas y a sus respectivas representaciones, concluirán su periódo el treinta y uno de diciembre de mil novecientos cincuenta y cinco.
+SEGUNDO.- Los Ayuntamientos que vienen funcionando, con arreglo a la Constitución del Estado en sus términos vigentes hasta antes de estas reformas y a sus respectivas representaciones, concluirán su período el treinta y uno de diciembre de mil novecientos cincuenta y cinco.
 
 TERCERO.- Las próximas elecciones para Ayuntamiento, se verificarán en el mes de julio de mil novecientos cincuenta y seis. En tal virtud para el lapso de tiempo comprendido del primero de enero de mil novecientos cincuenta y seis al nueve de octubre del mismo año, conforme está previsto en la Constitución del Estado, el Congreso Constitucional procederá a integrar provisionalmente los Ayuntamientos respectivos, seleccionando las personas que han de ocupar los cargos a propuesta en ternas que presentará el Ejecutivo del Estado, antes del quince de diciembre de mil novecientos cincuenta y cinco.
 
@@ -2940,3 +2956,79 @@ Antes del inicio del ejercicio fiscal de 2002, la Legislatura del Estado, en coo
 ###### ARTICULO SEXTO.
 
 En la realización de las acciones conducentes al cumplimiento del presente decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
+
+P.O. 23 DE NOVIEMBRE DE 2002.
+
+DECRETO No. 181/02 I P.E.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado, y hecho que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2002.
+
+DECRETO No. 253/02 II P.O.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2002.
+
+DECRETO No. 257/02 II P.O.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2002.
+
+DECRETO No. 277/02 II P.O.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política Estatal, envíese copia de la iniciativa y de los debates del Congreso a los ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2002.
+
+DECRETO No. 278/02 II P.O.
+
+###### ARTICULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de la declaración de haber sido aprobada la reforma a la Constitución Local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2002.
+
+DECRETO No. 336/02 I P.O.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política Estatal, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Chihuahua.
