@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-turismo-del-estado-de-queretaro-7845"
 country: "mx"
 rank: "ley"
 publication_date: "1992-11-12"
-last_updated: "1992-11-12"
+last_updated: "1994-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE TURISMO DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 12 de noviembre de 1992.
 
@@ -69,19 +69,35 @@ Los servicios turísticos que se presten en el Estado de Querétaro, se ajustar�
 
 Para los efectos de esta Ley, se consideran servicios turísticos los siguientes:
 
-I.- Los establecimientos destinados al hospedaje, ya sea de tiempo compartido, operación hotelera, o bien se trate de campamentos, paradores y similares;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-II.- Las negociaciones que de manera principal o complementaria ofrezcan servicios a los turistas, tales como agencias, subagencias y operadores de viajes y de turismo;
+I.- Hoteles, moteles, albergues, y demás establecimientos de hospedaje, así como campamentos y paradores de casas rodantes que presten servicios a turistas;
 
-III.- Las arrendadoras de automóviles, embarcaciones y demás bienes muebles y equipo destinado a actividades turísticas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-IV.- Los transportes cualquiera que sea su naturaleza, siempre que el servicio que presten sea exclusivo para el turismo.
+II.- Agencias, Subagencias y operadoras de viajes;
 
-V.- Los prestados por guías de turistas, guías choferes y guías especializados;
+III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1994)
 
-VI.- Los restaurantes, cafeterías, bares, centros nocturnos, gasolinerías y establecimientos similares, con la salvedad referida en el artículo 72 de la Ley Federal de Turismo; y
+IV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1994)
 
-VII.- Los demás considerados como tales por la Secretaría de Turismo del Gobierno Federal y por la Secretaría.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+V.- Los prestados por guías de turistas, de acuerdo con la clasificación prevista en las disposiciones del Reglamento de la Ley Federal de Turismo;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+VI.- Los restaurantes, cafeterías, bares, centros nocturnos y establecimientos similares, que se encuentren ubicados en los lugares señalados en la fracción primera de este artículo, así como en aeropuertos, terminantes de autobuses, estaciones de ferrocarril, museos y zonas arqueológicas;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+VII.- Empresas de sistemas de intercambio de servicios turísticos;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+VIII.- Las demás consideradas como tales por la Ley Federal de Turismo.
+
+Los prestadores de servicios a que se refiere la fracción VI que no se encuentren ubicados en los establecimientos señalados, podrán solicitar su inscripción al Registro Estatal de Turismo, siempre que cumplan con los requisitos que fije la Secretaría Estatal de Turismo de acuerdo con las disposiciones aplicables.
 
 ###### ARTICULO 7.
 
@@ -247,57 +263,73 @@ Para efectos de lo señalado en el artículo anterior, la Secretaría deberá in
 
 La Secretaría formulará periódicamente programas de evaluación turística, en los que se analicen las necesidades turísticas, la oferta y la demanda, así como la calidad de los servicios turísticos que se presten en la Entidad.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 33.
 
-Como parte del Sistema Estatal de Información Turística, se establece el Registro Estatal de Turismo, en el que se deberán inscribir:
+Como parte del Sistema Estatal de Información Turística, se establece el Registro Estatal de Turismo, que tiene por objeto la inscripción voluntaria de los prestadores de servicios turísticos de la Entidad. Así mismo, podrán inscribirse en el registro, las escuelas, instituciones y centros de educación, capacitación y formación de profesionales y técnicos en el ramo turístico.
 
-I.- Los prestadores de servicios turísticos;
-
-II.- Los establecimientos que ofrezcan servicios turísticos, con sus características de calidad, precio, servicios que brinda, tarifas, ofertas y demás aspectos necesarios que acuerde la Secretaría;
-
-III.- Los reglamentos internos de los establecimientos turísticos; y
-
-IV.- Las escuelas, instituciones y centros de educación, capacitación y formación de profesionales y técnicos en el ramo turístico.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 34.
 
-Es obligación de los prestadores de servicios turísticos inscribirse en el Registro Estatal de Turismo, sin perjuicio de las demás obligaciones registrales que otras leyes les imponga.
+Para inscribirse en el Registro Estatal de Turismo, será necesario dar aviso por escrito a la Secretaría, proporcionando los siguientes datos:
 
-La Secretaría organizará el registro y expedirá las cédulas, credenciales o permisos que procedan, una vez cubiertos los requisitos que se indican en la presente Ley, en los reglamentos, programas y acuerdos que de la misma se deriven.
+I.- Nombre y domicilio de la persona física o moral que prestará el servicio;
+
+II.- Lugar y domicilio en el que se prestarán los servicios;
+
+III.- Fecha de la apertura del establecimiento turístico;
+
+IV.- Tipo de los servicios que se prestarán y su categoría, conforme a las normas aplicables;
+
+V.- La demás información que el prestador estime necesaria para fines de difusión.
+
+La información contenida en el Registro Estatal, será turnada a la Secretaría de Turismo Federal, para mantener actualizado el Registro Nacional de Turismo.
 
 ### CAPITULO V. DE LOS SERVICIOS TURISTICOS Y DE LA
 
 PROTECCION AL TURISTA
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 35.
 
-Los prestadores y la prestación de los servicios turísticos en el Estado se ajustarán, por cuanto ve a la competencia estatal, a las disposiciones de la presente Ley y a los reglamentos, programas y acuerdos que de ella se deriven.
+La prestación de servicios turísticos en el Estado se regirá por lo convenido entre el prestador de servicio y el turista, observándose las disposiciones de la presente Ley y sus reglamentos, así como de la legislación federal de la materia.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 36.
 
-Los prestadores de servicios turísticos deberán inscribirse en el Registro Estatal de Turismo, en los términos del Artículo 33 de esta Ley y de acuerdo con los plazos, procedimientos y forma que determine la Secretaría.
+Las Normas Oficiales Mexicanas que regularán la prestación de los servicios turísticos y la protección al turista, serán expedidas por el organismo federal que corresponda, siendo dichas normas de observancia general y obligatoria dentro de la Entidad.
+
+La calidad y clasificación de los servicios turísticos serán materia exclusiva de Normas Mexicanas en los términos de la legislación aplicable.
 
 ###### ARTICULO 37.
 
-Para la expedición de cédulas, credenciales turísticas y demás permisos y autorizaciones para ofrecer servicios turísticos, la Secretaría analizará la solicitud de registro y los documentos que la acompañen y verificará que se cumplan las normas de esta Ley y demás disposiciones aplicables.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO 38.
 
-Las dependencias y entidades públicas estatales y municipales, para la expedición de autorizaciones o permisos a un prestador de servicios turísticos, deberán exigir a éste el dictamen favorable de la Secretaría.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO 39.
 
-La Secretaría tendrá las atribuciones y funciones que la Federación descentralice al Estado en materia de autorizaciones de tarifas y precios a que deben sujetarse los prestadores de servicios turísticos.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1994)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 40.
 
-Los prestadores de servicios turísticos inscritos en el Registro Estatal de Turismo tendrán los siguientes derechos:
+Los prestadores de servicios turísticos tendrán los siguientes derechos:
 
 I.- Ser incluidos en los catálogos, directorios, guías y programas que elabore la Secretaría;
 
 II.- Adquirir el reconocimiento de la categoría que corresponda a la calidad de sus servicios, en el ámbito de la competencia estatal;
 
-III.- Solicitar y obtener, en su caso, las autorizaciones de precios y tarifas de acuerdo con su calidad turística, en la esfera de la competencia estatal;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+III.- Solicitar información y asesoría técnica de la Secretaría, para elevar la calidad de sus servicios;
 
 IV.- Participar en los programas de promoción y de fomento que ejecute la Secretaría;
 
@@ -307,25 +339,35 @@ VI.- Obtener de la Secretaría los apoyos y gestiones necesarios ante dependenci
 
 VII.- Participar en los programas de capacitación turística que organice la Secretaría.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 41.
 
-Son obligaciones de los prestadores de servicios turísticos en el Estado:
+Los prestadores de servicios turísticos en el Estado, deberán:
 
 I.- Proporcionar los bienes y servicios que ofrezcan en los términos convenidos y de conformidad con lo dispuesto por la Ley Federal de Turismo, esta Ley y demás ordenamientos que de ambas se deriven;
 
-II.- Inscribirse en el Registro Estatal de Turismo y revalidar la cédula, credencial, las autorizaciones o permisos que requieran para su operación, con la periodicidad y en los términos y condiciones que establezcan las leyes;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-III.- Aplicar los precios y tarifas autorizados, hacerlos del conocimiento público en forma visible y expedir las facturas y comprobantes que amparen el cobro de los servicios prestados;
+II.- Anunciar ostensiblemente en los lugares de acceso al establecimiento, sus precios y tarifas y los servicios que estos incluyen;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+III.- Expedir las facturas y comprobantes que amparen el cobro de los servicios prestados;
 
 IV.- Colaborar con la Secretaría en los programas de promoción y fomento del turismo;
 
-V.- Comunicar a la Secretaría de los cambios de nombre o razón social del establecimiento, el cambio de propietario, domicilio y cualquier otra modificación a los servicios que presten;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+V.- Contar con los formatos foliados y de porte pagado en el Sistema de Quejas de Turistas, en los términos de la Norma Oficial Mexicana respectiva;
 
 VI.- Garantizar ante la Secretaría el cumplimiento de las condiciones en que ofrezcan los servicios turísticos, mediante el otorgamiento de fianzas y la contratación de los seguros que se requieran según la naturaleza del servicio, en los términos de las leyes aplicables;
 
 VII.- Proporcionar a la Secretaría los datos e informes que les requiera, así como el apoyo, auxilio y facilidades para la promoción turística en la Entidad;
 
-VIII.- Tener a la vista de los usuarios un libro debidamente autorizado por la Secretaría, para la recepción de quejas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+VIII.- Acatar las disposiciones legales existentes en materia de turismo, salud, prevención de delitos, protección al consumidor, y protección al medio ambiente;
 
 IX.- Capacitar a sus trabajadores con base en los programas autorizados;
 
@@ -333,7 +375,9 @@ X.- Emplear en todo caso y de manera destacada el idioma español en los anuncio
 
 XI.- Realizar su publicidad y ofrecer los servicios sin demérito de la dignidad nacional, sin alteración o falseamiento de los hechos históricos o de las manifestaciones de la cultura nacional y local;
 
-XII.- Proporcionar los servicios turísticos, precisamente en los términos en los que fueron ofrecidos por la publicidad, sin inducir al error a los turistas; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+XII.- Proporcionar los servicios turísticos, precios, tarifas y promociones, precisamente en los términos en los que fueron anunciados, ofrecidos por la publicidad o pactados, sin inducir el error a los turistas;
 
 XIII.- Mantener sus instalaciones en condiciones óptimas de servicio e higiene.
 
@@ -343,41 +387,53 @@ Compete a la Secretaría la protección integral al turista, a efecto de lo cual
 
 I.- Organizar y vigilar el cumplimiento de los programas y medidas de asistencia, auxilio y protección a quiénes visitan la Entidad, en coordinación con las dependencias que concurran en tales objetivos;
 
-II.- Organizar y operar un sistema de atención de quejas, denuncias y reclamaciones contra prestadores de servicios turísticos;
+II.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1994)
 
 III.- Participar en todas aquellas acciones de auxilio a los turistas en casos de emergencias o desastres; y
 
 IV.- Las demás que sean necesarias para proteger eficientemente los derechos de los turistas.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 43.
 
-La Secretaría recibirá todas las quejas y reclamaciones que le presenten los turistas. Cuando se trate de asuntos de competencia federal, orientará al reclamante y de inmediato turnará la reclamación a la autoridad competente; si el asunto es de competencia estatal, se avocará a investigar la queja o reclamación, solicitando al prestador de servicios denunciado, la información que requiera.
+Antes de la contratación de cualquier servicio turístico, el prestador del servicio tendrá la obligación de informar con todo detalle al turista sobre los precios, condiciones y la manera en que se prestarán los servicios que se ofrecen.
+
+Los prestadores de servicios turísticos, también están obligados a respetar los términos y las tarifas ofrecidas o pactadas con el usuario.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 44.
 
-Las quejas de los usuarios de los servicios turísticos se presentarán ante la Secretaría por escrito y, de ser posible, acompañadas de las pruebas que funden su reclamación.
+Cuando el prestador de servicios incurra en el incumplimiento de lo pactado con el turista, tendrá la obligación de reembolsar, bonificar o compensar la suma correspondiente al servicio incumplido, o bien, prestar otro servicio en forma inmediata de la misma calidad o equivalencia, a elección del turista afectado.
 
-Cuando las quejas versen sobre anomalías leves en la presentación de cualquiera de los servicios turísticos, los usuarios podrán hacerlo en forma verbal ante la Secretaría.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 45.
 
-Las quejas que manifiesten los usuario en los libros de recepción de quejas, con que deben contar los prestadores de servicios turísticos, serán motivo de investigación y verificación por parte de la Secretaría quien podrá imponer las sanciones a que se refiere esta Ley.
+Para determinar la calidad de los servicios prestados, se tomarán como referencia las Normas Mexicanas o en su ausencia, las establecidas por organismos internacionales, salvo que el prestador de servicios haya descrito ostensiblemente las características y la forma en que se preste el servicio.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 46.
 
-Cuando la queja conlleve la petición de reembolso por parte de un prestador de servicios, la Secretaría citará por escrito al quejoso y al prestador, y procurará conciliarlos, debiendo levantarse el acta correspondiente.
+Las quejas o denuncias que por incumplimiento de lo pactado o por infracciones a la presente Ley cometan los prestadores de servicios, deberán ser prestadas por el turista para su tramitación y resolución ante la Procuraduría Federal de Protección al Consumidor en la oficina más cercana al domicilio del afectado.
+
+Cuando el turista resida en el extranjero, podrá mandar su queja por medio de correo certificado y seguir el procedimiento de conciliación o de arbitraje por esa vía o por cualquier otro medio de comunicación, que permita agilizar los procedimientos y que previamente haya sido aceptado por las partes.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 47.
 
-Independientemente del resultado de audiencia a que se refiere el artículo anterior, la Secretaría podrá imponer al prestador de servicios las sanciones que correspondan en los términos de esta Ley.
+Las representaciones en el extranjero de la Secretaría de Turismo Federal, también están facultadas para recibir las denuncias, cuando así lo elija el turista afectado.
 
 ###### ARTICULO 48.
 
-La falta injustificada del prestador del servicio a la audiencia de conciliación se sancionará en los términos del Capítulo IX de esta Ley, sin perjuicio de la aplicación de las sanciones que prevean otros ordenamientos.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO 49.
 
-Cuando la Secretaría considere que el quejoso esta imposibilitado para comparecer, pero cuente con las pruebas y elementos suficientes para acreditar que procede el reembolso, se exigirá al prestador del servicio la presentación de la constancia de que lo ha efectuado, independientemente de que se le impongan las sanciones que correspondan.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1994)
 
 ### CAPITULO VI. DE LA CAPACITACION TURISTICA
 
@@ -439,31 +495,31 @@ La Secretaría promoverá la celebración de acuerdos de coordinación con la Se
 
 ### CAPITULO IX. DE LAS SANCIONES Y RECURSOS
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 58.
 
 En el ámbito de su competencia, la Secretaría vigilará el cumplimiento de la Ley Federal de Turismo, de esta Ley y de las normas que de ambas se deriven.
 
 ###### ARTICULO 59.
 
-La Secretaría regulará y controlará la prestación de los servicios turísticos que operen en el Estado, cerciorándose principalmente de que los establecimientos respectivos cuentan con la cédula turística o credencial, según el caso, y verificando que se cumplan con las disposiciones turísticas que los rigen.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1994)
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 60.
 
-La Secretaría vigilará que los servicios turísticos se presten de acuerdo a su clasificación, calidad y categoría; que se respeten los precios y tarifas autorizados y los términos en que los servicios se contratan por los usuarios.
+La Secretaría realizará visitas de verificación a los prestadores de servicios turísticos para constatar el cumplimiento de las obligaciones que les imponen las disposiciones legales en la materia.
 
-La Secretaría podrá modificar la clasificación y categoría de los servicios turísticos, cuando de la verificación que se practique se desprenda que los establecimientos respectivos no satisfacen las especificaciones requeridas.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 61.
 
-Para hacer efectivas las atribuciones anteriores, la Secretaría establecerá un programa permanente de verificación a los establecimientos que presten servicios turísticos en los términos de esta Ley, mediante visitas de inspección realizadas por personas debidamente autorizadas por la propia Secretaría.
+A la Secretaría de Turismo del Estado, corresponderá la facultad de llevar a cabo visitas de verificación ordinarias, mismas que se regirán por la presente Ley y sus reglamentos, mientras que la Procuraduría Federal de Protección al Consumidor realizará en los términos de la Ley de la materia, las visitas que se deriven de las quejas o denuncias que presenten los turistas. Lo anterior con la finalidad de evitar se dupliquen funciones entre ambas dependencias.
 
 ###### ARTICULO 62.
 
-Además de las visitas de verificación que practique la Secretaría como parte de sus programas de trabajo, podrá realizarlas también en los siguientes casos:
-
-I.- Cuando los interesados presenten su solicitud de inscripción en el Registro Estatal de Turismo como prestadores de servicios turísticos, a efecto de verificar la información proporcionada; y
-
-II.- Cuando se presente una queja ante la Secretaría, derivada de la prestación de un servicio turístico, que a su juicio requiera de comprobación.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO 63.
 
@@ -505,17 +561,21 @@ El verificador, una vez elaborada el acta, proporcionará una copia de la misma 
 
 ###### ARTICULO 68.
 
-Las violaciones a la presente Ley y sus Reglamentos se sancionarán administrativamente por la Secretaría, sin perjuicio de otras sanciones que correspondan por violaciones a leyes y ordenamientos federales, estatales y municipales.
+Las violaciones a la presente Ley, a sus reglamentos y a las Normas Oficiales Mexicanas, serán sancionadas por la Secretaría, sin perjuicio de otras sanciones que correspondan por violaciones a las leyes y ordenamientos federales, estatales y municipales.
+
+La Procuraduría Federal de Protección al Consumidor, se encargará de imponer las sanciones derivadas de las quejas que presenten los turistas en los términos de la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 69.
 
-Por violaciones a esta Ley, la Secretaría podrá imponer una o varias de las siguientes sanciones:
+Por violaciones a esta Ley, la Secretaría podrá imponer las siguientes sanciones:
 
-I.- Multa de hasta cien días de salario mínimo vigente en la ciudad de Querétaro;
+I.- Por infracciones a lo dispuesto en los artículo 41 fracciones III, V, X y XI y 43 primer párrafo, se impondrá una sanción de hasta por el equivalente a 500 veces el salario mínimo diario.
 
-II.- Clausura temporal o definitiva del establecimiento; y
+II.- Por infracciones a lo dispuesto en los reglamentos que regulan los servicios turísticos a que se refieren las fracciones II y V del artículo 6, así como por las infracciones cometidas a los artículos 41 fracción II y 44, se sancionarán con multa hasta por el equivalente a 1000 veces el salario mínimo diario.
 
-III.- Suspensión temporal o cancelación definitiva de la cédula o credencial turísticas.
+III.- Las infracciones a lo establecido por los artículos 36, 41 fracciones VI y XII y 43 segundo párrafo, serán sancionados con multa hasta por el equivalente a 3000 veces el salario mínimo diario.
 
 ###### ARTICULO 70.
 
@@ -527,25 +587,45 @@ II.- La gravedad de la infracción;
 
 III.- El daño económico y los perjuicios que se hubiesen ocasionado al turista;
 
-IV.- El resultado de la audiencia de conciliación en caso de que se hubiese realizado; y
+IV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1994)
 
 V.- La reincidencia, en su caso.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+VI.- Los datos comprobados que aporten las denuncias de los turistas;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+VII.- La publicidad información de los prestadores de servicios y la comprobación de las infracciones;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+VIII.- En general cualquier dato o circunstancia que aporte elementos para la aplicación de la sanción.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 71.
 
-Para la determinación del monto de las multas, la Secretaría tomará en consideración, además de lo estipulado en el artículo anterior, el tipo de servicio turístico de que se trate, su categoría, ubicación así como los precios y tarifas autorizados.
+Para la determinación del monto de las multas, la Secretaría tomará en consideración, además de lo estipulado en el artículo anterior, el tipo de servicio turístico de que se trate, su categoría, ubicación, así como los precios y tarifas que tengan establecidos.
+
+Cuando se imponga al prestador de servicios turísticos alguna sanción pecuniaria expresada en salarios mínimos, este se entenderá como el vigente en la Entidad en la fecha en que fue cometida la infracción.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 72.
 
-La Secretaría podrá ordenar en cualquier momento la clausura de su establecimiento en el que se presten servicios turísticos, cuando a su juicio la gravedad de la infracción atente contra los intereses turísticos nacionales y estatales, así como en los casos en que se violen los precios o tarifas autorizados por la Secretaría, o cuando un prestador opere sin la cédula turística correspondiente.
+Se entenderá que haya reincidencia cuando el mismo infractor incurra durante el transcurso de un año en dos o más violaciones del mismo precepto legal, contándose el mencionado plazo a partir de la fecha en que se cometió la primera infracción.
+
+En caso de reincidencia se podrá aplicar multa hasta por el doble de la impuesta originalmente.
 
 ###### ARTICULO 73.
 
-La cancelación de la cédula turística implicará la clausura inmediata del establecimiento. La cancelación de la credencial tendrá por efecto la imposibilidad de la persona física que la detente para operar.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO 74.
 
-La falta de inscripción en el Registro Estatal de Turismo y la consiguiente falta de cédula turística, será sancionada con clausura.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1994)
 
 ###### ARTICULO 75.
 
@@ -676,3 +756,15 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 JESUS RODRIGUEZ HERNANDEZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE DICIEMBRE DE 1994
+
+###### ARTICULO PRIMERO.
+
+Se derogan las disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO SEGUNDO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
