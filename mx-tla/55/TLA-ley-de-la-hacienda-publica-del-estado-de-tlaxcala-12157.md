@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-la-hacienda-publica-del-estado-de-tlaxcala-12157"
 country: "mx"
 rank: "ley"
 publication_date: "1998-04-07"
-last_updated: "1998-04-07"
+last_updated: "1998-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE LA HACIENDA PUBLICA DEL ESTADO DE TLAXCALA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el 7 de abril de 1998.
 
@@ -107,7 +107,9 @@ a).- Evaluar las necesidades y capacidad de endeudamiento del Estado y Municipio
 
 b).- Evaluar los programas de endeudamiento que presenten las Entidades Paraestatales;
 
-c).- Evaluar y opinar respecto de los empréstitos o créditos que otorgue el Estado o de aquellos que requieran su garantía, la que sólo se otorgará cuando se trate de programas prioritarios señalados en el Plan Estatal de Desarrollo y que sean a la vez inversiones recuperables y no desequilibradoras de las finanzas públicas;
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 1998)</small>
+
+c).- Evaluar y opinar respecto de los empréstitos o créditos que se otorguen al Estado o de aquellos que requieran su garantía, la que sólo se otorgará cuando se trate de programas prioritarios señalados en el Plan Estatal de Desarrollo y que sean a la vez inversiones recuperables y no desequilibradoras de las finanzas públicas.
 
 d).- Dar asesoría a las Entidades Públicas que lo requieran, en materia de Deuda Pública;
 
@@ -129,7 +131,9 @@ La Comisión estará orgánicamente estructurada de la siguiente manera:
 
 I. La Presidencia estará a cargo del Titular de la Secretaría.
 
-II. La Secretaría de la Comisión estará a cargo del Titular de la Contraloría del Ejecutivo, quien será el facultado para acordar con el Titular del Ejecutivo sobre los resultados de los trabajos de la Comisión y será el enlace con las diferentes Dependencias y Entidades de la Administración Pública.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 1998)</small>
+
+II. La Secretaría de la Comisión estará a cargo del Titular de la Contraloría del Ejecutivo, quien será el enlace con las diferentes Dependencias y Entidades de la Administración Pública.
 
 III. La Comisión contará con un Prosecretario Técnico, que apoyará todos los trabajos de la Comisión, el cual estará preferentemente adscrito a la Secretaria.
 
@@ -211,6 +215,10 @@ La forma y el contenido de dicha iniciativa se presentará al H. Congreso Local 
 
 En el caso de cambios de Administración, el Gobernador entrante presentará su iniciativa de Proyecto de Ley de Ingresos dentro de los quince días siguientes a su toma de posesión.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 1998)</small>
+
+En el caso de inicio o durante una administración, si el Proyecto de Ley de Ingresos presentado por el Titular del Ejecutivo no fuese aprobado en tiempo, para avalar el Presupuesto de Egresos correspondiente, se tendrá como base la Ley de Ingresos del Ejercicio inmediato anterior, y se podrá ejercer el mismo Presupuesto de Egresos del año anterior, hasta la aprobación y publicación de la nueva Ley.
+
 ## TITULO TERCERO. DEL PRESUPUESTO DE EGRESOS DEL ESTADO
 
 DISPOSICIONES GENERALES
@@ -285,9 +293,11 @@ Los Servidores Públicos serán por sus actos responsables de las afectaciones q
 
 ### CAPITULO PRIMERO. DE LA FORMULACION DEL PRESUPUESTO
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 26.
 
-El Presupuesto de Egresos del Estado se formulará de acuerdo a programas que tengan claramente definidos objetivos, metas y unidades responsables de su ejecución, teniendo como referencia principal el Plan Estatal de Desarrollo o acciones prioritarias emergentes instruídas por el Titular del Ejecutivo. El Presupuesto se elaborará para cada ejercicio fiscal y estará soportado por los ingresos federales y estatales correspondientes.
+El Presupuesto de Egresos del Estado se formulará de acuerdo a programas que tengan claramente definidos objetivos, metas y unidades responsables de su ejecución, teniendo como referencia principal el Plan Estatal de Desarrollo o acciones prioritarias emergentes instruídas por el Titular del Ejecutivo. El Presupuesto se elaborará para cada ejercicio fiscal y estará soportado por los Ingresos Federal y Estatal correspondientes y en su caso, adicionalmente con créditos o empréstitos, en los términos del Artículo 101 de la Constitución Política del Estado Libre y Soberano de Tlaxcala.
 
 ###### Artículo 27.
 
@@ -319,9 +329,11 @@ El Presupuesto de Egresos deberá contener como grupos fundamentales de autoriza
 
 Los capítulos señalados en el artículo anterior se dividirán en partidas que representarán las autorizaciones específicas del presupuesto y agrupados en forma de gasto, transferencias, inversión y deuda pública.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 30.
 
-Las previsiones de egresos a que se refiere la fracción IV del artículo 21 de esta Ley, se clasificarán por unidades, capítulos, partidas o en la forma que determine el manual presupuestal correspondiente al tipo de presupuesto que se formule.
+Las previsiones de egresos a que se refiere la fracción IV del Artículo 22 de esta Ley, se clasificarán por unidades, capítulos, partidas o en la forma que determine el manual presupuestal correspondiente al tipo de presupuesto que se formule.
 
 ###### Artículo 31.
 
@@ -444,6 +456,10 @@ En los últimos quince días de la Administración saliente no se hará ninguna 
 ###### Artículo 54.
 
 Durante el período de autorización del Presupuesto de Egresos de la Administración entrante, se podrán realizar erogaciones que serán consideradas presupuestal y contablemente a cargo del primer presupuesto que se autorice.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 1998)</small>
+
+En caso de postergarse o suspenderse la autorización del Presupuesto de Egresos de un ejercicio determinado, el Ejecutivo, Legislativo y Judicial podrán llevar a cabo sus programas, tomando como base el gasto que podrán ejercer, el monto erogado en el ejercicio inmediato anterior, hasta en tanto no se autorice el nuevo Presupuesto de Egresos.
 
 ### CAPITULO CUARTO. DE LAS MODIFICACIONES AL PRESUPUESTO
 
@@ -668,3 +684,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los treinta y un días del mes de Marzo de mil novecientos noventa y ocho.
 
 EL GOBERNADOR DEL ESTADO.- JOSE ANTONIO CRUZ ALVAREZ LIMA.- Rúbrica.- EL SECRETARIO DE GOBIERNO.- CARLOS HERNANDEZ GARCIA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE SEPTIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
