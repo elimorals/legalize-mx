@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-valuacion-del-estado-de-jalisco-12030"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-05"
-last_updated: "1998-02-05"
+last_updated: "2000-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE VALUACION DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 5 de febrero de 1998.
 
@@ -85,7 +85,7 @@ VII.- La Comisión de Inspección: la Comisión de Inspección y Vigilancia de l
 
 Los peritos valuadores que emitan dictámenes de valor para efectos catastrales, deberán sujetarse a las disposiciones en la materia.
 
-### CAPITULO IV. De las Asociaciones de Peritos Valuadores
+### CAPITULO II. De la Valuación
 
 ###### Artículo 5.
 
@@ -133,7 +133,7 @@ IV.- Las condiciones y requisitos que deberán acreditar las personas que realic
 
 V.- Los procedimientos para obtener y conservar el registro como perito valuador, conforme a la modalidad y especialidad correspondiente.
 
-### CAPITULO V. De los dictámenes de valor o avalúos
+### CAPITULO III. De los Peritos Valuadores
 
 ###### Artículo 9.
 
@@ -241,7 +241,7 @@ Las instituciones de crédito o entidades públicas con facultades valuatorias, 
 
 Los peritos valuadores registrados conforme a esta ley, quedarán sujetos a la inspección y vigilancia de la Comisión de Valuación, a la cual deberán proporcionar la información y documentación que les sea requerida en ejercicio de dichas facultades.
 
-### CAPITULO III. De los Peritos Valuadores
+### CAPITULO IV. De las Asociaciones de Peritos Valuadores
 
 ###### Artículo 21.
 
@@ -295,7 +295,7 @@ VI.- Celebrar actos, contratos, convenios y operaciones de cualquier naturaleza 
 
 VII.- Los demás que establezca esta ley y su reglamento.
 
-### CAPITULO II. De la Valuación
+### CAPITULO V. De los dictámenes de valor o avalúos
 
 ###### Artículo 25.
 
@@ -417,7 +417,9 @@ I.- Representar legalmente a la Comisión de Valuación;
 
 II.- Vigilar el cumplimiento de esta ley, de su reglamento y de las normas éticas, técnicas y arancelarias que se expidan;
 
-III.- Examinar las solicitudes de registro de quienes aspiren a ejercer la profesión de peritos valuadores, formulando la resolución correspondiente;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+III.- Examinar las solicitudes de registro de quienes aspiren a ejercer la profesión de peritos valuadores, formulando por escrito la resolución correspondiente, debiendo aprobar aquéllos que cumplan con los requisitos que establece el artículo 11 de la presente ley; de negarse, deberá fundar y motivar la razón de su dicho. En caso de controversia se estará a lo que dispone la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios;
 
 IV.- Designar a la persona encargada del Registro Estatal Profesional de Peritos Valuadores, para que elabore y actualice el registro;
 
@@ -439,7 +441,9 @@ XII.- Promover programas de capacitación y avalar aquellos que impartan las aso
 
 XIII.- Proponer al Titular del Poder Ejecutivo del Estado, la tarifa de los derechos que deban pagarse por concepto del estudio y tramitación de cada solicitud de registro de perito valuador en sus distintas modalidades y especialidades, o renovación del mismo;
 
-XIV.- Resolver los recursos de reconsideración que interpongan los peritos valuadores;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+XIV.- Resolver los recursos administrativos que se prevén en esta ley;
 
 XV.- Desempeñar las funciones consultivas que le encomiende el Titular del Poder Ejecutivo del Estado;
 
@@ -485,7 +489,9 @@ VI.- Remitir a la Comisión de Valuación, las resoluciones que se dicten para s
 
 VII.- Presentar denuncia ante el Ministerio Público, por los probables delitos profesionales en que hubieren incurrido los peritos valuadores; y
 
-VIII.- Informar a la Comisión de Valuación de las amonestaciones y sanciones cuando la misma se lo solicite, para dar trámite al recurso de reconsideración.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+VIII.- Informar a la Comisión de Valuación de las amonestaciones y sanciones cuando la misma se lo solicite, para los efectos de resolución de los recursos administrativos que se prevén en esta ley.
 
 ### CAPITULO IX. Del Registro Estatal Profesional de Peritos Valuadores
 
@@ -581,59 +587,47 @@ III.- Violaciones graves o reiteradas a las normas técnicas, vigentes a la fech
 
 La Comisión de Inspección, podrá presentar denuncia ante el Ministerio Público, por delitos profesionales cometidos por peritos valuadores.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 53.
 
-Contra los actos o resoluciones emitidos por la Comisión de Inspección que imponga una sanción, podrá interponerse el recurso de reconsideración ante el Comité Ejecutivo.
+Contra los actos o resoluciones emitidos por la Comisión de Inspección que impongan sanciones que el interesado estime indebidamente fundadas y motivadas procede el recurso de revisión, debiéndose estar a lo que dispone la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
 
 ###### Artículo 54.
 
-El recurso de reconsideración, se interpondrá por el interesado dentro de los quince días hábiles siguientes a la fecha en que notifique la resolución impugnada o, se ejecute el acto.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2000)
 
 ###### Artículo 55.
 
-El escrito en que se interponga el recurso de reconsideración, deberá cumplir con los siguientes requisitos:
-
-I.- Expresar el nombre, domicilio y número de registro del recurrente, para lo cual deberá acompañar al escrito, los documentos que acrediten su personalidad. Cuando el recurrente no promueva en lo personal, deberá acompañar los documentos que acrediten la personalidad de quien lo represente legalmente;
-
-II.- Mencionar con precisión, las fechas y números de oficio o documentos en que conste la resolución impugnada;
-
-III.- Manifestar la fecha en que fue notificada la resolución o se ejecutó el acto;
-
-IV.- Exponer en forma sucinta los hechos que motivaron el recurso de reconsideración;
-
-V.- Anexar las pruebas, que deberán relacionarse con cada uno de los puntos controvertidos;
-
-VI.- Señalar los agravios que le cause el acto o resolución impugnados; y
-
-VII.- Exponer los motivos y fundamentos legales en que se apoye el recurso.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2000)
 
 ###### Artículo 56.
 
-Si el escrito por el cual se interpone el recurso fuere obscuro o le faltare algún requisito, se prevendrá al recurrente, por una sola vez, para que lo aclare, corrija o complete, de acuerdo con las fracciones anteriores, señalándole las deficiencias en que hubiere incurrido; apercibiéndole que de no subsanarlas dentro del término de cinco días hábiles, contados a partir de la notificación correspondiente, el recurso de desechará de plano.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2000)
 
 ###### Artículo 57.
 
-El recurrente podrá solicitar la suspensión del acto o resolución que reclama, la cual será concedida siempre que no sea en perjuicio de interés general o se contravengan disposiciones de orden público.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2000)
 
 ###### Artículo 58.
 
-Las pruebas que ofrezca el recurrente, deberán relacionarse con cada uno de los hechos controvertidos, estar apegadas a derecho y a la moral, sin el cumplimiento de este requisito, serán desechadas de plano.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2000)
 
 ###### Artículo 59.
 
-Las pruebas documentales, deberán ser ofrecidas exhibiendo los documentos correspondientes, las cuales se acompañarán con el escrito inicial, o en su caso, bajo protesta de decir verdad manifestar la imposibilidad de aportarlas materialmente por estar en posesión de una autoridad, que previa solicitud no se las concedió. Para tal efecto, deberá señalar la autoridad que tenga dichas pruebas.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2000)
 
 ###### Artículo 60.
 
-Admitido el recurso, de ser necesario se pedirán los informes conducentes a las autoridades involucradas en la resolución que se impugna, las cuales deberán rendirlos, dentro del término de cinco días hábiles siguientes a la fecha en que se les hayan solicitado.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2000)
 
 ###### Artículo 61.
 
-Recibidos los informes y desahogadas las pruebas, se dictará la resolución respectiva, en un plazo no mayor de treinta días naturales.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2000)
 
 ###### Artículo 62.
 
-El recurso de reconsideración podrá interponerse simultáneamente ante el Tribunal Administrativo del Poder Judicial del Estado.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2000)
 
 ### CAPITULO XI. Del Patrimonio de la Comisión de Valuación
 
@@ -696,3 +690,9 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2000.
+
+ÚNICO.- Este decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
