@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2004-07-28"
+last_updated: "2004-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2004.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -313,17 +313,21 @@ VI. Caución de no ofender.
 
 ### CAPITULO I. PRISION
 
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 23.
 
-La prisión consiste en la privación de la libertad, la que podrá ser de tres meses a cincuenta años y se cumplirá en los términos y con las modalidades previstas en la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad respectiva.
+La prisión consiste en la privación de la libertad, la que podrá ser de tres meses a setenta años y se cumplirá en los términos y con las modalidades previstas en la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad.
 
 SUBTITULO PRIMERO
 
 ### CAPITULO II. MULTA
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 24.
 
-La multa consiste en el pago de una suma de dinero al Estado que se fijará por días multa, los cuales podrán ser de treinta a mil.
+La multa consiste en el pago de una suma de dinero al Estado que se fijará por días multa, los cuales podrán ser de treinta a cinco mil.
 
 El día multa equivale a la percepción neta diaria del inculpado en el momento de consumar el delito, tomando en cuenta todos sus ingresos, que en ningún caso serán inferiores al salario mínimo general vigente en el lugar donde se consumó.
 
@@ -1253,6 +1257,16 @@ IX. Cuando sin orden de la autoridad competente, obligue a los particulares a pr
 
 X. Cuando después de haber ejecutado una orden de aprehensión, no ponga al inculpado a disposición del juez sin dilación alguna.
 
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2004)</small>
+
+XI. Los servidores públicos del Instituto de Servicios Periciales que indebidamente:
+
+a) Destruyan, alteren o sustraigan documentos del registro;
+
+b) Retengan, modifiquen o divulguen información; y
+
+c) Expidan certificaciones de inscripciones que obren en el registro.
+
 Al responsable de este delito se le impondrán de uno a cinco años de prisión y de treinta a ciento cincuenta días multa, la destitución del cargo será definitiva y la inhabilitación será por veinte años para desempeñar empleo, cargo o comisión públicos.
 
 ###### Artículo 137.
@@ -1679,9 +1693,13 @@ Al que incurra en este delito, se le impondrá prisión de uno a tres años y de
 
 Comete este delito el que:
 
-I. Sin ser funcionario público se atribuya ese carácter o ejerza alguna función pública sin derecho; y
+I. Sin ser funcionario público se atribuya ese carácter o ejerza alguna función pública sin derecho; y (sic)
 
 II. Se atribuya o acepte por cualquier medio el carácter de profesionista sin tener título legal o ejerza los actos propios de una profesión sin título o sin autorización legal.
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2004)</small>
+
+III. Se equipara a la usurpación de funciones públicas la prestación u ostentación de servicios de seguridad privada, por parte de persona física, miembros o representantes legales de una persona jurídica o de una sociedad, corporación o empresa, sin la autorización otorgada por la autoridad estatal. Al responsable de este delito, se le impondrán de tres a ocho años de prisión y de cien a mil días multa.
 
 Al responsable de este delito, se le impondrán de uno a cuatro años de prisión y de treinta a doscientos cincuenta días multa.
 
@@ -1795,7 +1813,7 @@ Al que sin derecho estorbare de cualquier forma el aprovechamiento de bienes de 
 
 Comete el delito de utilización indebida de la vía pública:
 
-I. El que utilice la vía pública para consumir, distribuir o vender substancia (sic) ilícitas o para inhalar sustancia (sic) lícitas no destinadas para ese fin y que produzcan efectos psicotrópicos, sin perjuicio de lo dispuesto por otros ordenamientos jurídicos; para los efectos de este artículo, son substancias ilícitas las así calificadas por la Ley General de Salud; y
+I. El que utilice la vía pública para consumir, distribuir o vender substancia (sic)) ilícitas o para inhalar sustancia (sic) lícitas no destinadas para ese fin y que produzcan efectos psicotrópicos, sin perjuicio de lo dispuesto por otros ordenamientos jurídicos; para los efectos de este artículo, son substancias ilícitas las así calificadas por la Ley General de Salud; y
 
 II. El que dirija a otros a ejercer el comercio en la vía pública sin permiso de la autoridad competente.
 
@@ -2033,6 +2051,8 @@ Al que contraiga o autorice matrimonio con conocimiento de la existencia de un i
 
 ### CAPITULO II. SECUESTRO
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 214.
 
 Al que estando unido en matrimonio no disuelto ni declarado nulo, contraiga otro matrimonio, con las formalidades legales, se le impondrán de uno a cuatro años de prisión y de cincuenta a cuatrocientos días multa.
@@ -2249,6 +2269,8 @@ La reparación del daño respecto de los delitos contenidos en este subtítulo, 
 
 ### CAPITULO IV. VIOLACION
 
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2004)</small>
+
 ## TITULO TERCERO. DELITOS CONTRA LAS PERSONAS
 
 SUBTITULO PRIMERO
@@ -2329,9 +2351,13 @@ El delito de homicidio, se sancionará en los siguientes términos:
 
 I. Al responsable de homicidio simple, se le impondrán de diez a quince años de prisión y de doscientos cincuenta a trescientos setenta y cinco días multa;
 
-II. Al responsable de homicidio calificado, se le impondrán de veinte a cincuenta años de prisión y de quinientos a mil días multa; y
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
-III. Al responsable de homicidio cometido en contra de su cónyuge, concubina, concubinario, ascendientes, descendientes consanguíneos en línea recta o hermanos, teniendo conocimiento el inculpado del parentesco, se le impondrán de veinte a cincuenta años de prisión y de quinientos a mil días multa.
+II. Al responsable de homicidio calificado, se le impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa; y
+
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
+
+III. Al responsable de homicidio cometido en contra de su cónyuge, concubina, concubinario, ascendientes, descendientes consanguíneos en línea recta o hermanos, teniendo conocimiento el inculpado del parentesco, se le impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa.
 
 ### CAPITULO III. CALUMNIA
 
@@ -2341,7 +2367,9 @@ Son circunstancias que atenúan la penalidad en el delito de homicidio y se sanc
 
 I. Cuando el delito se cometa en riña o duelo se impondrán de tres a diez años de prisión y de cincuenta a doscientos cincuenta días multa, tomando en cuenta quien fue el provocado, quien el provocador y el grado de provocación;
 
-II. Cuando el delito se cometa bajo alguna de las siguientes circunstancias, se impondrán de seis meses a diez años de prisión y de treinta a doscientos cincuenta días multa:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DE 2004)</small>
+
+II. Cuando el delito se cometa bajo alguna de las siguientes circunstancias, se impondrá de cinco a veinte años de prisión y de cincuenta a trescientos días multa.
 
 a) En estado de emoción violenta;
 
@@ -2499,23 +2527,37 @@ A quien incurra en este delito se le impondrán de uno a cuatro años de prisió
 
 ###### Artículo 259.
 
-Al que por cualquier medio prive a otro de la libertad, con el fin de obtener rescate o causar daños o perjuicios al secuestrado o a otra persona relacionada con éste, se le impondrán de treinta a cincuenta años de prisión y de quinientos a mil días multa.
+Al que por cualquier medio prive a otro de la libertad, con el fin de obtener rescate o causar daños o perjuicios al secuestrado o a otra persona relacionada con éste, se le impondrá de treinta a sesenta años de prisión y de setecientos a cinco mil días multa.
 
 La pena señalada en el párrafo anterior se atenuará o agravará en los términos de las siguientes fracciones:
 
-I. Al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando no le haya causado ningún daño o perjuicio, ni a persona relacionada con éste, se le impondrán de uno a cuatro años de prisión y de treinta a cien días multa;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
-II. Al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción I del artículo 237, se le impondrán de dos a seis años de prisión y de cincuenta a ciento cincuenta días multa;
+I. Al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cuarenta y ocho horas, cuando no le haya causado ningún daño o perjuicio, ni a la persona relacionada con éste, se le impondrán de dos a seis años de prisión y de cien a mil días multa;
 
-III. Al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción II del artículo 238, se le impondrán de cuatro a ocho años de prisión y de setenta y cinco a doscientos días multa;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
-IV. Al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción III del artículo 238 o de las que pusieren en peligro la vida, se le impondrán de siete a quince años de prisión y de ciento veinticinco a trescientos setenta y cinco días multa; y
+II. Al que sin haber recibido rescate pusiese espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción I del artículo 237, se le impondrán de tres a diez años de prisión y de ciento cincuenta a mil quinientos días multa;
 
-V. Cuando con motivo de secuestro se causare la muerte o falleciera el secuestrado o personas relacionadas con este, se le impondrá de treinta y cinco a cincuenta años de prisión y de seiscientos veinticinco a mil días multa.
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
-> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DEL 2003)</small>
+III. Al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción II del artículo 238, se le impondrán de ocho a veinte años de prisión y de doscientos a dos mil días multa;
 
-VI. Al que solicite u obligue al secuestrado a retirar dinero de los cajeros electrónicos y/o de cualquier cuenta bancaria a la que éste tenga acceso, se le impondrá de treinta y cinco a cincuenta años de prisión y de seiscientos veinticinco a mil días multa.
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
+
+IV. Al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción III del artículo 238 o de las que pusieren en peligro la vida, se le impondrán de quince a treinta años de prisión y de doscientos cincuenta a tres mil días multa;
+
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
+
+V. Se impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa:
+
+a) Cuando con motivo del secuestro se cause la muerte o falleciera el secuestrado, y
+
+b) Cuando se cause la muerte a personas relacionadas con el secuestro.
+
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
+
+VI. Al que solicite u obligue al secuestrado a retirar dinero de los cajeros electrónicos y/o de cualquier cuenta bancaria a la que este tenga acceso se le impondrá de treinta y cinco a cincuenta años de prisión y de setecientos a dos mil días multa.
 
 Se equipara al secuestro, al que detenga en calidad de rehén a una persona y amenace con privarla de la vida o con causarle un daño, sea a aquélla o a terceros, para obligar a la autoridad a realizar o dejar de realizar un acto de cualquier naturaleza; en tal caso se impondrán las penas señaladas en este artículo.
 
@@ -2529,21 +2571,29 @@ A quien simule encontrarse secuestrado con amenaza de su vida o daño a su perso
 
 La misma pena se aplicará a cualquiera que participe en la comisión de este delito.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 261.
 
-Al que en relación con las conductas sancionadas por el artículo anterior y fuera de las causas de exclusión del delito y de la responsabilidad penal, se le impondrán de uno a ocho años de prisión y de treinta a doscientos días multa, cuando:
+A quien en relación con las conductas sancionadas por este capítulo y fuera de las causas de exclusión del delito y de la responsabilidad penal, se le impondrán de cinco a veinte años de prisión y de sesenta a mil quinientos días multa, cuando:
 
 I. Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de quienes representen o gestionen en favor de la víctima;
 
 II. Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
 
-III. Actúe como asesor con fines lucrativos de quienes representen o gestionen en favor de la víctima, evite informar o colaborar con la autoridad competente en el conocimiento de la comisión de secuestro;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
+
+III. Actúe con fines de lucro, como asesor o intermediario de quienes representen o gestionen en favor de la víctima;
 
 IV. Aconseje no presentar la denuncia del secuestro cometido o bien no colaborar u obstruir la actuación de las autoridades;
 
 V. Intimide a la víctima, a sus familiares, a sus representantes o gestores, durante o después del secuestro para que no colaboren con las autoridades competentes; y
 
 VI. Reciba cualquier pago con motivo de su intervención en el secuestro.
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2004)</small>
+
+VII. Actúe como asesor o intermediario de quienes representen o gestionen en favor de la víctima y evite informar o colaborar con la autoridad competente en el conocmiento de la comisión de secuestro.
 
 ###### Artículo 262.
 
@@ -2617,31 +2667,41 @@ No se procederá contra el inculpado del estupro, si no es por querella de la mu
 
 ###### Artículo 273.
 
-Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, se le impondrán de cinco a once años de prisión, y de cien a doscientos veinticinco días multa.
+Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, se le impondrán de diez a quince años de prisión, y de doscientos a dos mil días multa.
 
-Si la persona ofendida fuere menor de doce años, se impondrán de ocho a dieciséis años de prisión y de ciento cincuenta a cuatrocientos días multa.
-
-> <small>(F. DE E., G.G. 3 DE ABRIL DE 2000)</small>
+> <small>(F. DE E., G.G. 16 DE NOVIEMBRE DE 2004)</small>
 
 Comete también el delito de violación quien introduzca por vía vaginal o anal cualquier parte del cuerpo, objeto o instrumento diferente al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
 
-> <small>(F. DE E., G.G. 3 DE ABRIL DE 2000)</small>
+> <small>(F. DE E., G.G. 16 DE NOVIEMBRE DE 2004)</small>
 
-Se equipara a la violación, la cópula o introducción de la parte, objeto o instrumento a que se refiere el párrafo anterior, con persona privada de razón, de sentido, o cuando por enfermedad o por cualquiera otra causa no pudiera resistir, o cuando la víctima fuera menor de catorce años.
+Para los efectos de este artículo, se entiende por cópula la introducción del miembro viril en el cuerpo de la víctima por vía vaginal o anal, independientemente de su sexo, exista eyaculación o no.
 
-Para los efectos de este artículo, se entiende por cópula la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo, exista eyaculación o no.
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2004)</small>
+
+Artículo 273 BIS.- Si la persona ofendida fuere menor de quince años, se impondrán de veinte a cuarenta y cinco años de prisión y de doscientos a dos mil días multa.
+
+(F. DE E., G.G. 4 DE OCTUBRE DE 2004) (F. DE E., G.G. 16 DE NOVIEMBRE DE 2004)
+
+Se equipara a la violación la cópula o introducción por vía vaginal o anal cualquier parte del cuerpo, objeto o instrumento diferente al miembro viril, con persona privada de razón, de sentido o cuando por enfermedad o cualquier otra causa no pudiere resistir o cuando la víctima fuera menor de quince años.
 
 ###### Artículo 274.
 
 Son circunstancias que agravan el delito de violación las siguientes:
 
-I. Cuando en la comisión del delito de violación intervengan dos o más personas se impondrán, además de las penas señaladas en el artículo anterior, de cinco a dieciocho años de prisión y de cincuenta a doscientos días multa;
+(REFORMADA, G.G. 10 DE AGOSTO DE 2004) (F. DE E., G.G. 16 DE NOVIEMBRE DE 2004)
 
-II. Si el delito fuere cometido por un ascendiente contra su descendiente, por éste contra aquél, por un hermano contra otro, por el tutor en contra de su pupilo o por el padrastro, madrastra, amasio o amasia en contra del hijastro o hijastra, además de las sanciones previstas en el artículo 273 se impondrán de uno a tres años de prisión y de treinta a setenta y cinco días multa así como la pérdida de la patria potestad o la tutela en aquellos casos en que la ejerciere sobre la víctima;
+I. Cuando en la comisión del delito de violación intervengan dos o más personas se impondrán, además de las penas señaladas en los artículos 273 y 273 Bis, de treinta y cinco a setenta años de prisión y de cien a quinientos días multa;
+
+(REFORMADA, G.G. 10 DE AGOSTO DE 2004) (F. DE E., G.G. 16 DE NOVIEMBRE DE 2004)
+
+II. Si el delito fuere cometido por un ascendiente contra su descendiente, por éste contra aquél, por un hermano contra otro, por el tutor en contra de su pupilo o por el padrastro, madrastra, concubina, concubinario, amasio o amasia en contra del hijastro o hijastra, además de las sanciones previstas en los artículos 273 y 273 Bis se impondrán de tres a nueve años de prisión y de treinta a setenta y cinco días multa así como la pérdida de la patria potestad o la tutela en aquellos casos en que la ejerciere sobre la víctima;
 
 III. Cuando el delito de violación sea cometido por quien desempeñe un empleo, cargo o comisión públicos o ejerza una profesión, utilizando los medios o circunstancias que ellos le proporcionen, será destituido definitivamente del cargo o empleo o suspendido hasta por el término de diez años en el ejercicio de su profesión, independientemente de las sanciones a que se haga acreedor; y
 
-IV. Cuando por delito de violación se causare la muerte, se impondrán de veinticinco a cincuenta años de prisión y de quinientos a mil días multa.
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
+
+IV. Cuando por delito de violación se causare la muerte, se impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa; y (sic)
 
 SUBTITULO QUINTO
 
@@ -2773,7 +2833,9 @@ Se comprende dentro de la denominación de casa habitación, el aposento, cualqu
 
 III. Cuando se cometa en el interior de casa habitación o en el interior de un vehículo particular y se utilice en su ejecución la violencia, se impondrán de diez a quince años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa;
 
-IV. Cuando por motivo del delito de robo se causare la muerte, se impondrán de veinticinco a cincuenta años de prisión y de quinientos a mil días multa;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
+
+IV. Cuando por motivo del delito de robo se causare la muerte, se impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa;
 
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -3346,3 +3408,27 @@ G.G. 28 DE JULIO DE 2004.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 10 DE AGOSTO DE 2004.
+
+DECRETO NO. 55 QUE ADICIONA LA FRACCIÓN XI AL ARTICULO 136 DEL CODIGO PENAL PARA EL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese la presente Ley en el Periódico Oficial. "Gaceta del Gobierno".
+
+SEGUNDO.- La presente ley entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial, "Gaceta del Gobierno".
+
+TERCERO.- Se abroga la Ley del Registro de Antecedentes Penales y Administrativos del Estado de México.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+QUINTO.- El personal y bienes de la actual dirección de Servicios Periciales pasarán a formar parte del Instituto de Servicios Periciales en los términos y condiciones de la presente Ley.
+
+G.G. 10 DE AGOSTO DE 2004.
+
+DECRETO NO. 57 QUE REFORMA DIVERSOS ARTICULOS DEL CODIGO PENAL PARA EL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Las disposiciones contenidas en los artículos 23, 24, 176, 242, 243, 259, 261, 273, 274 y 290 del Código Penal, seguirán aplicándose para los hechos u omisiones ejecutados durante su vigencia.
