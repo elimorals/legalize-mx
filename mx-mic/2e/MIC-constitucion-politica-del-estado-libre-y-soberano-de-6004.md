@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1947-10-30"
+last_updated: "1954-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 1954.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -199,9 +199,13 @@ No puede el Congreso abrir sus sesiones sin la concurrencia de la mitad más uno
 
 Se entiende también que los diputados que falten diez días consecutivos, sin causa justificada o sin previa licencia del Presidente del Congreso, con la cual se dará conocimiento a éste, renuncian a concurrir hasta el período inmediato, llamándose desde luego a los suplentes.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1954)</small>
+
 ###### Artículo 33.
 
-El Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia, asistirán a la apertura del primer período de sesiones de cada año legislativo y rendirán sus respectivos informes en los que manifiesten el estado que guarde la Administración Pública y la Administración de Justicia respectivamente. El Presidente del Congreso contestará en términos Generales.
+El Gobernador del Estado asistirá a la apertura del Primer Período Ordinario de Sesiones de cada año Legislativo y rendirá el informe que manifieste el estado que guarde la Administración Pública. El Presidente del Congreso contestará en términos generales. A este acto deberán asistir el Presidente del Supremo Tribunal de Justicia y demás miembros que formen dicho Cuerpo.
+
+El Presidente del Supremo Tribunal de Justicia, rendirá ante el Congreso del Estado, el 13 de septiembre de cada año, el informe que manifieste el estado que guarda la Administración de Justicia. El Presidente del Congreso contestará en términos generales. A este Acto asistirá el Titular del Poder Ejecutivo y los Magistrados del Poder Judicial.
 
 ###### Artículo 34.
 
@@ -1424,3 +1428,9 @@ Artículo 1° El primer domingo de diciembre del corriente año se elegirán Reg
 Artículo 2º Los ciudadanos que resulten electos por las Secciones pares del primer domingo de diciembre de 1948, durarán en su cargo solamente dos años.
 
 Artículo 3º Esta Ley entrará en vigor desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 16 DE AGOSTO DE 1954.
+
+###### ARTICULO UNICO.
+
+Habiendo quedado satisfechos los requisitos exigidos por el artículo 175 de la Constitución Política del Estado, para la reforma del artículo 33 de la misma, este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial.
