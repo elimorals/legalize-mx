@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "1992-10-19"
+last_updated: "1994-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE OCTUBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -141,7 +141,7 @@ Para el estudio, planeación y despacho de los asuntos, en los diversos ramos de
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
-I. Secretaría General de Gobierno.
+I. Secretaría de Gobierno.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1989)</small>
 
@@ -206,8 +206,6 @@ III. Cumplir y hacer cumplir las políticas, los acuerdos, las órdenes, las cir
 IV. Ser el conducto para presentar ante la Legislatura del Estado las iniciativas de Ley o Decreto del Ejecutivo, así como publicar las Leyes, Reglamentos y demás disposiciones jurídicas que deban regir en el Estado.
 
 V. Tramitar lo relacionado con los nombramientos, licencias, remociones y renuncias de los magistrados del Tribunal Superior de Justicia.
-
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 VI. Otorgar a los Tribunales, a las autoridades judiciales y en general, a las dependencias públicas, el auxilio necesario para el debido ejercicio de sus funciones y para el cumplimiento de sus determinaciones.
 
@@ -355,7 +353,7 @@ XXXIII. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado
 
 ###### Artículo 26.
 
-(DEROGADA, P.O. 11 DE OCTUBRE DE 1989)
+(DEROGADO, P.O. 11 DE OCTUBRE DE 1989)
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
 
@@ -416,8 +414,6 @@ XVII. Fomentar y apoyar la organización social para el trabajo y el autoempleo.
 > <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 XVIII. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias.
-
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1992)</small>
 
 XIX. Las demás que señalen las leyes y reglamentos vigentes.
 
@@ -509,7 +505,9 @@ IX. Proponer al Ejecutivo del Estado y participar en la celebración de Convenio
 
 X. Participar en la promoción y realización de los Programas de Vivienda y coordinar su gestión y ejecución.
 
-XI. Coordinar, formular u operar Programas Estatales de obras de abastecimiento de agua potable y de servicios de drenaje y alcantarillado, así como de las demás relacionadas con el desarrollo y equipamiento urbanos, que no estén asignadas a otra Dependencia.
+> <small>(REFORMADA P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+XI. Coordinar, formular u operar programas estatales de obras de abastecimiento de agua potable y de servicios de drenaje y alcantarillado y de las demás relacionadas con el desarrollo y equipamiento urbanos, que no estén asignadas a otra dependencia; así como fijar, revisar o autorizar en su caso, los precios públicos por los servicios correspondientes que prevengan las leyes, escuchando a la Secretaría de Finanzas y Planeación.
 
 XII. Supervisar la construcción, conservación, mantenimiento, operación y administración de las obras de agua potable y alcantarillado a su cargo.
 
@@ -901,7 +899,7 @@ Artículo Quinto.- Cuando en esta Ley se dé denominación nueva o distinta a al
 
 Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
-Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario, Lorenzo Vera Osorno, -Diputado Secretario, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
+Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario, Lic. Lorenzo Vera Osorno, -Diputado Secretario, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
 
 Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
 
@@ -1000,6 +998,14 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Cuando en algún ordenamiento legal se mencione Secretaría de Gobierno o Secretario de Gobierno, se entenderá como SECRETARIA GENERAL DE GOBIERNO o SECRETARIO GENERAL DE GOBIERNO, respectivamente.
 
 TERCERO.- Cuando en otros ordenamientos legales se haga referencia a la Secretaría del Trabajo, se entenderá que se trata de la SECRETARIA DEL TRABAJO Y DE LA PREVISION SOCIAL.
+
+P.O. 27 DE DICIEMBRE DE 1994
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno", para que entre en vigor el 1º. de enero de 1995.
+
+SEGUNDO.- Para los efectos de la aplicación de la Ley de Coordinación Fiscal del Estado de México, en lo que se refiere al Municipio de Valle de Chalco Solidaridad, los preceptos, los conceptos e indicadores que contiene ese ordenamiento, se entenderán y aplicarán, en razón de las proporciones territoriales que específicamente aportaron cada uno de los municipios involucrados, así como al significado de su conjunto y en relación a sus efectos jurídicos y económicos.
+
+TERCERO.- En los casos en que para determinar las magnitudes de los conceptos u obligaciones fiscales, se haga mención a indicadores referidos a zonas económicas, se considerarán esos mismos indicadores referidos a áreas geográficas.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
