@@ -4,7 +4,7 @@ identifier: "ROO-decreto-que-crea-el-consejo-estatal-de-poblacion-del-estado-219
 country: "mx"
 rank: "decreto"
 publication_date: "1984-06-29"
-last_updated: "1984-06-29"
+last_updated: "2002-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 DECRETO QUE CREA EL CONSEJO ESTATAL DE POBLACION DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE DECRETO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL CONSEJO ESTATAL DE POBLACION DE QUINTANA ROO, PUBLICADA EN EL PERIODICO OFICIAL EL 30 DE DICIEMBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Decreto publicado en el Periódico Oficial el 29 de junio de 1984.
 
@@ -124,3 +126,19 @@ DIPUTADA SECRETARIA
 LIGIA ALVAREZ Y MANZANO
 
 En cumplimiento a lo dispuesto por la Fracción I del Artículo 91 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y para su debida publicación y observancia, expido el presente decreto en la residencia del Poder Ejecutivo a los veinticuatro días del mes de mayo de mi novecientos ochenta y cuatro.- El Gobernador Constitucional del Estado, Lic. Pedro Joaquín Coldwell.- El Secretario de Gobierno, Lic. Esteban Maqueo Coral.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE DECRETO.</small>
+
+P.O. 30 DE DICIEMBRE DE 2002.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+Artículo Segundo.- Se abroga el Decreto número uno por el que se crea el Consejo Estatal de Población del Estado de Quintana Roo, como un organismo Público de Carácter Consultivo del Poder Ejecutivo, publicado en el Periódico Oficial del Gobierno del Estado, el día veintinueve de junio de mil novecientos ochenta y cuatro.
+
+Artículo Tercero.- Al entrar en vigor el presente decreto, el Organismo Público Descentralizado denominado Consejo Estatal de Población, sustituye al Organismo Público de Carácter Consultivo del Poder Ejecutivo denominado Consejo Estatal de Población, en las relaciones jurídico-laborales existentes con los trabajadores de este último y que con motivo del presente decreto se incorporan a este organismo con sus mismos derechos y prestaciones.
+
+Artículo Cuarto.- Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan a la presente.
+
+Artículo Quinto.- La Secretaría de Hacienda del Estado deberá hacer los trámites necesarios a efecto de transferir al Consejo los recursos correspondientes, para el presente ejercicio fiscal.
+
+Artículo Sexto.- El Consejo contará con el término de noventa días contados a partir de la entrada en vigor de la presente Ley, para la integración de su Junta directiva y la elaboración de su Reglamento Interno.
