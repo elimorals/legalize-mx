@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-remodelacion-y-urbanizacion-de-la-ciudad-de-10039"
 country: "mx"
 rank: "ley"
 publication_date: "1974-05-12"
-last_updated: "1974-05-12"
+last_updated: "2004-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE REMODELACION Y URBANIZACION DE LA CIUDAD DE GUANAJUATO, DE SUS CALLEJONES Y DEMAS LUGARES TIPICOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEXTO DEL DECRETO NUMERO 112, PUBLICADO EN EL PERIODICO OFICIAL EL 27 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 12 de mayo de 1974.
 
@@ -94,3 +96,9 @@ LUIS H. DUCOING GAMBA.
 El Secretario General del Gobierno,
 
 LIC. J. GUADALUPE ENRIQUEZ MAGAÑA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE DICIEMBRE DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor a los 90 noventa días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
