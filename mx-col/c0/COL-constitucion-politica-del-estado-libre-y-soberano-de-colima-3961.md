@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1924-10-04"
+last_updated: "1928-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1924.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1928.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -155,9 +155,11 @@ En casos urgentes puede el Congreso en sus recesos, abrir periodos extraordinari
 
 En los casos previstos en el artículo anterior, deben expresarse en las convocatorias respectivas el asunto o asuntos que hayan de tratarse en periodo o sesión extraordinaria.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1928)</small>
+
 ###### Artículo 31.
 
-A la apertura de sesiones ordinarias del Congreso asistirá el Gobernador, con el único objeto de informar suscintamente (sic) sobre el Estado que guarden los negocios públicos; y el Presidente de la Asamblea, contestará en términos generales.
+Cada año, al abrirse el período ordinario de sesiones del Congreso, el 16 de Septiembre, asistirá el Gobernador con el único objeto de informar suscintamente (sic) sobre el estado que guarden los negocios públicos, y el Presidente de la Asamblea, contestará en términos generales.
 
 ###### Artículo 32.
 
@@ -1140,6 +1142,12 @@ Los derechos de ciudadano colimense no se pierden estando ausente por causa de e
 ###### ARTICULO 3º.
 
 Las anteriores reformas surtirán sus efectos desde la fecha de su publicación.
+
+P.O. 20 DE OCTUBRE DE 1928.
+
+###### Artículo 2o.
+
+Este Decreto comenzaá (sic) a surtir sus efectos a partir de la fecha de su publicación.
 
 ###### Artículo 2.
 
