@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "1990-12-11"
+last_updated: "1991-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 1991 EN EL P.O. DEL ESTADO DE COAHUILA DE ZARAGOZA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE ENERO DE 1991.]
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -68,6 +68,8 @@ IV.- Por los Consejos tutelares para Menores;
 V.- Por los Juzgados de Conciliación; y
 
 VI.- Por los demás órganos que se creen en las leyes, con cualquier otra denominación y a los cuales se les confiera jurisdicción.
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 Los árbitros voluntarios no ejercerán autoridad pública; pero conocerán del asunto o asuntos que les encomienden los interesados, de acuerdo a las reglas y restricciones que fijen las Leyes y según los términos de los compromisos respectivos.
 
@@ -129,6 +131,8 @@ Para los efectos de esta Ley, el Estado de Coahuila se divide en ocho distritos 
 
 I.- Distrito de Saltillo, con cabecera en la ciudad de Saltillo, que comprende la municipalidad del mismo nombre, así como las de Arteaga, Ramos Arizpe y General Cepeda;
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 II.- Distrito de Monclova, con cabecera en la ciudad de Monclova, que comprende la municipalidad del mismo nombre, así como las de Frontera, San Buenaventura, Nadadores, Lamadrid, Sacramento, Cuatrociénegas, Ocampo, Sierra Mojada, Abasolo, Escobedo, Candela y Castaños;
 
 III.- Distrito de Sabinas, con cabecera en la ciudad de Sabinas, que comprende la municipalidad del mismo nombre, así como las de Melchor Múzquiz, San Juan de Sabinas, Juárez y Progreso;
@@ -157,7 +161,11 @@ Será presidente, uno de los magistrados numerarios, designado por el Pleno, qui
 
 Los magistrados que integren el Tribunal Superior de Justicia deberán residir en la Capital del Estado; durarán en su encargo seis años, al término de los cuales podrán ser reelectos y, si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Sexto de la Constitución Política local.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ### CAPITULO II. DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 8o.
 
@@ -169,7 +177,9 @@ El Pleno del Tribunal Superior de Justicia sólo podrá funcionar con la concurr
 
 Las resoluciones del Pleno deberán ser autorizadas por el presidente, el magistrado ponente si lo hubiere y el secretario general de acuerdos y, en su caso, también por los magistrados disidentes.
 
-Las observaciones y los votos particulares que se hagan por escrito, deberán ser firmados por los magistrados que lo formulen.
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+Las observaciones y los votos particulares que se hagan por escrito, deberán ser firmados por los magistrados que los formulen.
 
 ###### ARTICULO 10.
 
@@ -177,7 +187,9 @@ Las sesiones del Pleno del Tribunal Superior de Justicia, podrán ser ordinarias
 
 Las sesiones en el proceso disciplinario siempre serán secretas.
 
-Cuando sea necesaria una reunión extraordinaria del Tribunal Pleno y no concurra el presidente, podrá ser convocada por la mayoría de los magistrados numerarios y será presidida por el magistrado que deba sustituirlo en los términos de esta Ley.
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+Cuando sea necesaria una reunión extraordinaria del Tribunal Pleno y no concurra el presidente, podrá ser convocada por la mayoría de los Magistrados numerarios y será presidida por el magistrado que deba sustituirlo en los términos de esta Ley.
 
 ###### ARTICULO 11.
 
@@ -288,6 +300,8 @@ IV.- Autorizar con su firma, en unión del Secretario General, los proveídos de
 V.- Presidir las sesiones que celebre el Tribunal Pleno; dirigir los debates conservando el orden durante las sesiones y poner a votación los negocios sometidos al conocimiento del Pleno, cuando se declare cerrada la discusión;
 
 VI.- Convocar a sesiones extraordinarias;
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 VII.- Formular anualmente el proyecto de Presupuesto de Egresos del Poder Judicial y someterlo a la consideración del Pleno; aprobado éste, el presidente deberá proponerlo al Ejecutivo para los efectos del artículo 152 de la Constitución Política;
 
@@ -539,17 +553,23 @@ V.- Vigilar el debido desempeño de las labores del personal, tomando las medida
 
 VI.- Las demás que le confiera la Ley y el Pleno del Tribunal.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 29.
 
 Cada Tribunal Unitario de Distrito tendrá, además del magistrado titular, los secretarios de acuerdos, de estudio y cuenta, actuarios y demás personal que requieran las necesidades del servicio y autorice el Presupuesto de Egresos.
 
 ### CAPITULO I. DEL CONSEJO DE LA JUDICATURA
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 30.
 
 En los distritos judiciales del Estado habrán los Juzgados de Primera Instancia en Materia Civil, Familiar, Penal y Mixtos que autorice el Pleno del Tribunal Superior de Justicia, atendiendo a las necesidades del servicio y a la disponibilidad presupuestal.
 
 Los Juzgados tendrán la residencia y jurisdicción territorial que acuerde el propio Pleno del Tribunal.
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 31.
 
@@ -565,11 +585,15 @@ En los Juzgados de Primera Instancia, habrá un juez que será el titular del ó
 
 Los jueces de Primera Instancia, en Materia Civil conocerán:
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 I.- De los asuntos civiles de jurisdicción contenciosa, común y concurrente; excepto si se controvierten cuestiones relacionadas con el patrimonio de familia, en los cuales la competencia corresponde a los jueces de lo Familiar.
 
 II.- De los juicios hereditarios y de sus conexidades, así como de las acciones de petición de herencia;
 
 III.- De los negocios de jurisdicción voluntaria cuyo conocimiento no corresponda específicamente a los jueces de lo Familiar;
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 IV.- De las diligencias preliminares de consignación en asuntos de carácter civil;
 
@@ -597,6 +621,8 @@ IV.- De los demás asuntos que les competan de acuerdo con las leyes.
 
 Los Jueces de Primera Instancia en Materia Familiar conocerán:
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 I.- De los procedimientos contenciosos relativos al matrimonio, a la ilicitud o nulidad del mismo y al divorcio, incluyendo los que se refieren al régimen de bienes en el matrimonio; de los que tengan por objeto modificaciones o rectificaciones en las actas del Registro Civil; de los que afecten el parentesco, a los alimentos, a la paternidad y a la filiación legítima, natural o civil; de los que tengan por objeto cuestiones relativas a la patria potestad, estado de interdicción y tutela y las cuestiones de ausencia y de presunción de muerte; de los que se refieran a cualquier cuestión relacionada con el patrimonio de familia como su constitución, disminución, extinción o afectación en cualquier forma;
 
 II.- De los negocios de jurisdicción voluntaria relacionados con el Derecho Familiar;
@@ -606,6 +632,8 @@ III.- De los asuntos concernientes a otras acciones relativas al estado civil, a
 IV.- De las diligencias de consignación en todo lo relativo al derecho familiar;
 
 V.- De la diligenciación de los exhortos, requisitorias y despachos, relacionados con el derecho familiar; y
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 VI.- De las cuestiones que afecten en sus derechos de personas a los menores e incapacitados y, en general, de todas las cuestiones familiares que reclamen la intervención judicial.
 
@@ -653,6 +681,8 @@ En el Estado se instalarán los Consejos Tutelares para Menores que sean necesar
 
 Los Consejos Tutelares para Menores se integrarán por tres miembros: Un licenciado en derecho, un médico y un pedagogo.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 42.
 
 La Presidencia de los Consejos Tutelares la ejercerá el licenciado en derecho, sin perjuicio de la igualdad de sus miembros.
@@ -660,6 +690,8 @@ La Presidencia de los Consejos Tutelares la ejercerá el licenciado en derecho, 
 ###### ARTICULO 43.
 
 Cada Consejo Tutelar tendrá adscrito un secretario quien deberá reunir los mismos requisitos que se exijan a los demás miembros para su designación, además de tener el título de licenciado en derecho; asimismo, contará con los empleados que señale el Presupuesto de Egresos.
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 Prestarán también sus servicios, los trabajadores sociales que autorice el propio presupuesto y que con el carácter de agentes de Libertad Vigilada, realizarán las funciones de investigación, protección y vigilancia de los menores que el Consejo los encomiende.
 
@@ -731,7 +763,9 @@ En cada municipio, habrá el número de Jueces de Conciliación que el Ayuntamie
 
 Son atribuciones de los Jueces de Conciliación:
 
-I.- Intervenir en los negocios civiles cuya cuantía no exceda de 150 días de salario mínimo general, vigente en la Capital del Estado, oyendo a las partes por el sólo efecto de procurar su conciliación y avenimiento y, logrado que sea, levantará un acta en la que hará constar lo convenido entre las partes, autorizándola el juez con dos testigos de asistencia y firmándola los interesados, si supieren hacerlo.
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+I.- Intervenir en los negocios civiles cuya cuantía no exceda de 150 días de salario mínimo general, vigente en la Capital del Estado, oyendo a las partes para el sólo efecto de procurar su conciliación y avenimiento y, logrado que sea, levantará un acta en la que hará constar lo convenido entre las partes, autorizándola el juez con dos testigos de asistencia y firmándola los interesados, si supieren hacerlo.
 
 Si no se lograra la conciliación, los jueces emitirán opinión a verdad sabida y buena fe guardada, sobre cual de las partes tiene la razón, haciéndolo saber a los interesados. Si esta opinión no fuera objetada en el término de 3 días se tendrá como resolución definitiva.
 
@@ -797,6 +831,8 @@ XVI.- Conservar en su poder el sello de la oficina;
 
 XVII.- Administrar los gastos de oficio;
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 XVIII.- Ejercer la supervisión y control sobre todos los servidores de su dependencia y proponer, en su caso, la imposición de medidas disciplinarias contra quienes no cumplan con su función; y
 
 XIX.- Las demás funciones que la ley les encomiende.
@@ -805,9 +841,11 @@ XIX.- Las demás funciones que la ley les encomiende.
 
 Los secretarios de estudio y cuenta, proyectarán, bajo la más absoluta reserva, las resoluciones que les encomienden el magistrado o el juez, al cual se encuentren adscritos, previo estudio que hagan del asunto. Para tal efecto, el magistrado o el juez, instruirán al secretario sobre los motivos de hecho y de derecho que deban fundar el proyecto de resolución.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 52.
 
-El Tribunal Superior de Justicia contará con un oficial mayor, quien deberá reunir los siguientes requisitos: ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos; no tener más de sesenta y cinco años de edad el día de la designación; tener título oficial de abogado, en el área de administración.
+El Tribunal Superior de Justicia contará con un oficial mayor, quien deberá reunir los siguientes requisitos: ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos; no tener más de sesenta y cinco años de edad el día de la designación; tener título oficial de abogado, o en el área de administración.
 
 El Oficial Mayor tendrá las siguientes atribuciones:
 
@@ -819,11 +857,15 @@ III.- Ponderar los requerimientos de la administración de justicia y las necesi
 
 IV.- Preparar anualmente el anteproyecto del Presupuesto de Egresos del Poder Judicial y ejercerlo conforme a las políticas generales que señale el presidente del Tribunal;
 
-V.- El manejo y la administración de la Revista de información judicial;
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+V.- Manejar y administrar la revista de información judicial;
 
 VI.- Llevar el control de la información estadística de todas las dependencias del Poder Judicial; y
 
-VII.- Atender los demás asuntos que le correspondan, en los términos de la Ley o aqullos (sic) cuya atención le encomiende el Pleno o el Presidente del Tribunal Superior.
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+VII.- Atender los demás asuntos que le correspondan, en los términos de la Ley o aquellos cuya atención le encomiende el Pleno o el Presidente del Tribunal Superior.
 
 ###### ARTICULO 53.
 
@@ -839,9 +881,13 @@ III.- Las demás que la ley o sus superiores les encomienden.
 
 Los demás servidores públicos de las dependencias judiciales, desempeñarán las labores que la ley o sus superiores les encomienden.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 55.
 
-El Pleno del Tribunal Superior de Justicia determinará los requisitos que deban satisfacer los pasantes que cumplan con su servicio social adscrito a las diversas dependencias del Poder Judicial, y les señalará sus derechos y deberes.
+El Pleno del Tribunal Superior de Justicia determinará los requisitos que deban satisfacer los pasantes que cumplan con su servicio social, adscritos a las diversas dependencias del Poder Judicial y les señalará sus derechos y deberes.
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 Los pasantes de cada dependencia deberán llevar un libro y cumplir con las obligaciones inherentes al puesto de su asignación.
 
@@ -851,11 +897,13 @@ Los pasantes de cada dependencia deberán llevar un libro y cumplir con las obli
 
 ###### ARTICULO 56.
 
-El Consejo de la Judicatura del Estado es un órgano de gobierno honorario que tendrá como funciones exclusivas intervenir en el nombramiento, inspección y régimen disciplinario del personal a servicio del Poder Judicial.
+El Consejo de la Judicatura del Estado es un órgano de gobierno honorario que tendrá como funciones exclusivas intervenir en el nombramiento, inspección y régimen disciplinario del personal al servicio del Poder Judicial.
 
 Estará integrado por el presidente del Tribunal Superior de Justicia, quien lo presidirá; por el procurador general de Justicia, por un representante designado por el Congreso que cuente con título de abogado y haya ejercido la profesión cinco años por lo menos; por el magistrado del Tribunal Unitario de Distrito y el Juez de Primera Instancia que tenga mayor antigüedad en el ejercicio del cargo y por los decanos de los notarios y abogados de la capital del Estado que estén en activo.
 
-En el caso de que haya dos o más magistrados de distrito, o dos o más jueces de Primera instancia con la misma antigüedad, integrará el Consejo de la Judicatura de mayor edad, según corresponda.
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+En el caso de que haya dos o más magistrados de distrito, o dos o más jueces de Primera instancia con la misma antigüedad, integrará el Consejo de la Judicatura el de mayor edad, según corresponda.
 
 ###### ARTICULO 57.
 
@@ -871,9 +919,11 @@ IV.- El Consejo de la Judicatura, por conducto del presidente del Tribunal Super
 
 V.- Contará con un secretario que deberá satisfacer los mismos requisitos que los secretarios de estudio y cuenta.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 58.
 
-Cuando deba designarse magistrados del Tribunal Superior de Justicia, propondrá al Gobernador del Estado, la lista de candidatos, que no podrá ser menor de tres para cada magistrado numerario o supernumerario. Para la formulación de estas listas, el Consejo de la Judicatura cuidará que los propuestos satisfagan los requisitos del artículo 13 de la Constitución Política del Estado, prefiriendo en todo caso, a aquellas personas que estén prestando o hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad y competencia, ampliamente acreditada en el ejercicio de la profesión de abogado.
+Cuando deban designarse magistrados del Tribunal Superior de Justicia, propondrá al Gobernador del Estado, la lista de candidatos, que no podrá ser menor de tres para cada magistrado numerario o supernumerario. Para la formulación de estas listas, el Consejo de la Judicatura cuidará que los propuestos satisfagan los requisitos del artículo 13 de la Constitución Política del Estado, prefiriendo en todo caso, a aquellas personas que estén prestando o hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad y competencia, ampliamente acreditada en el ejercicio de la profesión de abogado.
 
 ###### ARTICULO 59.
 
@@ -899,7 +949,9 @@ Las condiciones para el ingreso, formación, permanencia, ascenso y retiro del p
 
 I.- La Presidencia del Tribunal Superior de Justicia, por conducto de la Oficialía Mayor, formará un cuerpo de aspirantes que integrará con los abogados y pasantes de derecho que deseen ingresar a la carrera judicial y que reúnan los requisitos para ocupar los cargos de entrada en las especializaciones civil, familiar, penal y tutelar conforme a la reglamentación que se expida para las admisiones;
 
-II.- El ingreso a la carrera judicial presupone la asistencia a los cursos que imparte el Instituto de Especialización Judicial y la aprobación del examen de méritos;
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+II.- El ingreso a la carrera judicial presupone la asistencia a los Curzos (sic) que imparte el Instituto de Especialización Judicial y la aprobación del examen de méritos;
 
 III.- La carrera judicial se inicia en el puesto de actuario de juzgado de primera instancia y terminará en el de Magistrado del Tribunal;
 
@@ -948,6 +1000,8 @@ h).- Juez de Primera Instancia y presidente del Consejo Tutelar para Menores; y
 i).- Magistrado del Tribunal Unitario.
 
 Los jueces de Conciliación no tendrán derecho a ascenso por escalafón; sin embargo, podrá hacer aplicación para obtener una categoría superior a partir de Secretario de Juzgado de Primera Instancia siempre y cuando reúnan los requisitos que para la misma exija la Ley y sustenten y aprueben el examen de méritos correspondiente, debiendo tomarse en consideración en todo caso la eficiencia y probidad con que se hayan desempeñado.
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 65.
 
@@ -1011,6 +1065,8 @@ Todos los titulares de las dependencias del Poder Judicial, comunicarán a la Pr
 
 Todos los servidores públicos del Poder Judicial, deberán enviar su hoja de servicios, a la Oficialía Mayor de la Presidencia del Tribunal, con los datos que se les soliciten, dentro de los treinta días siguientes a la fecha de su designación.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 77.
 
 Los jueces de Conciliación serán nombrados cada tres años por el Tribunal Superior de Justicia, a propuesta en terna de los ayuntamientos, y podrán desempeñar el cargo en períodos sucesivos. El período se iniciará el día primero de febrero y concluirá el día treinta y uno de enero, una vez transcurrido el término de tres años.
@@ -1035,7 +1091,9 @@ I.- Ser ciudadano mexicano por nacimiento y coahuilense, en el pleno ejercicio d
 
 II.- No tener más de 65 años de edad, ni menos de 35, el día de la designación;
 
-III.- No (sic) tener título oficial de abogado y haber ejercido la profesión cinco años por lo menos;
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+III.- Tener título oficial de abogado y haber ejercido la profesión cinco años por lo menos;
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; y
 
@@ -1097,13 +1155,17 @@ V.- Preferentemente estar casados y tener descendencia; y
 
 VI.- Sustentar y aprobar el examen de méritos, en los términos de esta Ley.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 86.
 
 Los miembros de los Consejos Tutelares para Menores serán nombrados conforme a las disposiciones de esta Ley, por el Pleno del Tribunal Superior, durarán en su encargo seis años, al término de los cuales podrán ser reelectos y, si lo fueren, sólo podrán ser movidos de acuerdo con lo dispuesto por el Título Sexto de la Constitución Política del Estado.
 
 El médico y el pedagogo deberán prestar, preferentemente sus servicios, en las Residencias Juveniles a cargo del Sistema para el Desarrollo Integral de la Familia.
 
-Por cada titular se designará un supernumerario, quien deberá reunir los mismos requisitos que aquel, para suplirlo en sus faltas temporales o caso de impedimento o excusa.
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+Por cada titular se designará un supernumerario, quien deberá reunir los mismos requisitos que aquel, para suplirlo en sus faltas temporales o en caso de impedimento o excusa.
 
 ###### ARTICULO 87.
 
@@ -1133,7 +1195,9 @@ II.- No tener más de sesenta y cinco años de edad, ni menos de veintiuno, el d
 
 III.- Tener título oficial de abogado;
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará el cargo cualquiera qe (sic) haya sido la pena; y
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; y
 
 V.- Sustentar y aprobar el examen de méritos.
 
@@ -1183,7 +1247,7 @@ Los magistrados, los jueces y los integrantes del Consejo Tutelar para Menores q
 
 Los Secretarios y Actuarios una vez designados, no podrán ser suspendidos o cesados, salvo por falta o delitos y en la forma y términos previstos en esta Ley.
 
-### CAPITULO III. DE LAS SALAS Y DE LOS JUZGADOS
+### CAPITULO III. DE LAS SALAS DE LOS TRIBUNALES UNITARIOS DE DISTRITO Y DE LOS JUZGADOS
 
 ###### ARTICULO 97.
 
@@ -1191,9 +1255,13 @@ Ningún servidor público de la administración de justicia, podrá tener ocupac
 
 Se exceptúan de este precepto las actividades docentes y honoríficas, siempre que no se afecte la prestación regular de la función judicial.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 98.
 
 Los magistrados numerarios, aún cuando gocen de licencia, no podrán ejercer su profesión de abogados ni patrocinar negocios ante los tribunales, salvo que se trate de negocios propios.
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 99.
 
@@ -1225,6 +1293,8 @@ Los magistrados y jueces jubilados que así lo deseen, podrán seguir adscritos 
 
 El día en que tenga lugar la instalación del Tribunal Superior de Justicia, reunidos los magistrados propietarios y supernumerarios en la Sala de plenos, con la asistencia del Gobernador del Estado y del Presidente del Congreso, de los jueces y demás servidores del Poder Judicial, se efectuará la ceremonia respectiva, en la que el Presidente hará la declaratoria de iniciación del nuevo período.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 104.
 
 El Tribunal Superior de Justicia tendrá cada año dos períodos de sesiones; el primero, comenzará el día dos de enero y terminará el dieciséis de julio; el segundo, comenzará el primero de agosto y terminará el dieciocho de diciembre.
@@ -1253,9 +1323,11 @@ Cuando las circunstancias lo requieran, el Tribunal Pleno sesionará en forma ex
 
 La Secretaría del Pleno distribuirá oportunamente entre los Magistrados, una relación de los asuntos a tratar en las sesiones.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 109.
 
-Las sesiones del Pleno se desarrollarán en forma siguiente:
+Las sesiones del Pleno se desarrollarán en la forma siguiente:
 
 I.- El Presidente pasará lista de asistencia y declarará, en su caso, la integración del Pleno;
 
@@ -1265,9 +1337,13 @@ III.- Se dará curso a los asuntos de su competencia, dándoseles el trámite co
 
 IV.- Se proveerá sobre los demás asuntos que por disposición legal; o a juicio del Pleno, requieran su intervención.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 110.
 
 En los casos sujetos a decisión, el presidente propondrá el acuerdo y lo someterá a la consideración de los magistrados, recabándose la aprobación del mismo por unanimidad, o por mayoría de votos. En caso de oposición, el asunto se someterá a debate. El presidente cuidará de que la discusión sea moderada y sin apartarse del tema, para lo cual se concederá el uso de la palabra al disidente, quien podrá replicar a los que secunden la propuesta. Transcurrido el tiempo que se juzgue necesario para el desarrollo del debate, se pasará a votación. El presidente tendrá voto de calidad, en caso de empate. El voto particular se asentará en la resolución respectiva, sin perjuicio de que sea razonado, cuando así lo solicitare el magistrado disidente.
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 ### CAPITULO II. DEL INSTITUTO DE ESPECIALIZACION JUDICIAL
 
@@ -1309,7 +1385,9 @@ Los secretarios de Acuerdos deberán llevar, bajo su control y vigilancia, los s
 
 I.- De registro de entradas y salidas, con índice alfabético, por nombre del actor o del solicitante, si se trata de procesos civiles y familiares, o del inculpado, si se trata de procesos penales;
 
-II.- De registro de valores, independiente de los legajos que con aquellos se formen por riguroso orden numérico, conforme a la fecha de su presentación;
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+II.- De registro de valores, independiente de los legajos que con aquéllos se formen por riguroso orden numérico, conforme a la fecha de su presentación;
 
 III.- De exhortos, despachos y requisitorias, recibidos y diligenciados;
 
@@ -1365,6 +1443,8 @@ III.- A los empleados de éstos, debidamente autorizados, siempre que sean pasan
 
 IV.- A las personas designadas en cada proceso como auxiliares de la Administración de Justicia, para el exclusivo desempeño de su cargo;
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 V.- A los servidores públicos, que lo requieran en razón de sus funciones; y
 
 VI.- A las personas autorizadas por el Titular, para fines docentes o de investigación científica.
@@ -1383,11 +1463,15 @@ La vigilancia judicial se ejercerá por el Pleno del Tribunal Superior de Justic
 
 La vigilancia judicial se ejercerá principalmente por medio de visitas generales y especiales.
 
-Las visitas generales se practicarán a cada dependencia judicial por lo menos una vez al año, y tendrán por objeto comprobar la Asistencia del personal; su comportamiento y rendimiento; el orden y exactitud de los datos contenidos en los libros y expedientes; el correcto manejo de los títulos valores; y la existencia de los efectos que correspondan a cada asunto; así como el estado de la oficina y condiciones de trabajo. Se recibirá en audiencia a los interesados que deseen hacer planteamientos relacionados con la administración de justicia; a cuyo efecto estas visitas serán anunciadas con toda anticipación.
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+Las visitas generales se practicarán a cada dependencia judicial por lo menos una vez al año, y tendrán por objeto comprobar la asistencia del personal; su comportamiento y rendimiento; el orden y exactitud de los datos contenidos en los libros y expedientes; el correcto manejo de los títulos valores; y la existencia de los efectos que correspondan a cada asunto; así como el estado de la oficina y condiciones de trabajo. Se recibirá en audiencia a los interesados que deseen hacer planteamientos relacionados con la administración de justicia; a cuyo efecto estas visitas serán anunciadas con toda anticipación.
 
 ###### ARTICULO 122.
 
 De cada visita se levantará un acta, en la que se asentarán las conclusiones del caso. Con el original se dará cuenta al Pleno, dejándose una copia en poder del servidor público visitado y otra en poder del visitador.
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 Si del acta resultaren irregularidades, se iniciará el procedimiento respectivo, a fin de hacer efectiva la sanción disciplinaria que corresponda.
 
@@ -1399,9 +1483,11 @@ En el acta de visita se consignarán no sólo las irregularidades resultantes, s
 
 El Pleno del Tribunal se encargará de ponderar periódicamente, los méritos y la conducta profesional observada por los magistrados, los jueces y los integrantes de los consejos tutelares para menores, así como por secretario del Pleno y el oficial mayor, en el desempeño de sus funciones, teniendo a la vista en cada caso, su hoja de servicios y el resultado de las visitas practicadas.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 124.
 
-El presidente del Tribunal Superior de Justicia, los magistrados, los integrantes de los Consejos Tutelares para Menores y los jueces, harán una evaluación periódica de la actuación de sus secretarios, actuarios, y demás servidores que laboren en sus respectivas dependencias.
+El presidente del Tribunal Superior de Justicia, los magistrados, los integrantes de los Consejos Tutelares para Menores y los jueces, harán una evaluación periódica de la actuación de sus secretarios, actuarios y demás servidores que laboren en sus respectivas dependencias.
 
 ###### ARTICULO 125.
 
@@ -1409,7 +1495,11 @@ Las evaluaciones serán concentradas en la Presidencia del Tribunal Superior de 
 
 El presidente comunicará sus resultados al Consejo de la Judicatura.
 
-## TITULO SEXTO. DE LA SUSTITUCION EN CASO DE IMPEDIMENTO EXCUSA O RECUSACION
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+## TITULO SEXTO
+
+DE LA SUSTITUCION EN CASO DE IMPEDIMENTO, EXCUSA O RECUSACION.
 
 ###### ARTICULO 126.
 
@@ -1515,6 +1605,8 @@ La organización interna y el funcionamiento, los programas y planes de estudio;
 
 ### CAPITULO I. DE LOS PERMISOS, LICENCIAS Y VACACIONES
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 144.
 
 El Tribunal Superior de Justicia, contará con servicio de biblioteca, en los términos que disponga el reglamento interior.
@@ -1571,7 +1663,9 @@ Son funciones del contador encargado de la Oficina del Fondo:
 
 I.- La contabilización de la documentación relativa al Fondo;
 
-II.- El manejo de los fondos recibidos de las autoridades judiciales por conceptos de fianzas, multas o cauciones;
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+II.- El manejo de los fondos recibidos de las autoridades judiciales por concepto de fianzas, multas o cauciones;
 
 III.- Elaborar informes semestrales acerca de la posición financiera que guarde el Fondo durante el período comprendido de 1o de enero al 30 de junio y del 1o de julio al 31 de diciembre de cada año; y
 
@@ -1617,11 +1711,15 @@ III.- Informes de la Presidencia; y
 
 IV.- Efemérides del Poder Judicial.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 154.
 
 El Consejo Editorial del Boletín se integrará con el Presidente del Tribunal, quien fungirá como Director, los Magistrados de las Salas, el Magistrado del Tribunal Unitario del Primer Distrito, un Juez de Primera Instancia en cada materia, un Secretario de Redacción y un Administrador, que será el Oficial Mayor de la Presidencia.
 
 La designación del Magistrado del Tribunal Unitario, de los Jueces y del Secretario de Redacción lo hará el Pleno del Tribunal, cada tres años.
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 155.
 
@@ -1632,6 +1730,8 @@ En todo lo relativo a la Administración del Boletín, el Consejo Editorial tend
 ###### ARTICULO 156.
 
 La oficina de personal estará a cargo de un jefe que dependerá de la Oficialía Mayor y tendrá las atribuciones que ésta le asigne, por acuerdo del presidente del Pleno.
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 157.
 
@@ -1653,9 +1753,11 @@ Los servidores públicos de la administración de justicia tienen derecho a lice
 
 Los permisos y las licencias serán concedidos por el superior jerárquico del solicitante.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 161.
 
-Magistrados, jueces, secretarios, actuarios y demás servidores de la administración de justicia, disfrutarán anualmente de dos períodos de vacaciones, de diez días hábiles cada uno, en la época que determine el Pleno del Tribunal Superior de Justicia.
+Los Magistrados, jueces, secretarios, actuarios y demás servidores de la administración de justicia, disfrutarán anualmente de dos períodos de vacaciones, de diez días hábiles cada uno, en la época que determine el Pleno del Tribunal Superior de Justicia.
 
 Los días de vacaciones suplementarios a que en lo individual tengan derecho los servidores públicos de base, les serán concedidos por el titular de la dependencia, de acuerdo con las necesidades del servicio y en los términos de la Ley de la materia.
 
@@ -1751,9 +1853,11 @@ Todo ciudadano o persona moral, por conducto de sus órganos de representación,
 
 Son sujetos de juicio político: los magistrados del Tribunal Superior de Justicia; los magistrados de los Tribunales Unitarios de Distrito; los integrantes de los Consejos Tutelares para Menores; y los jueces de Primera Instancia.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 176.
 
-Corresponde al Congreso del Estado, instruir el procedimiento relativo al juicio político, por las causas y con las formalidades establecidas por la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado, así como imponer, en su caso, las sanciones que juzgue aplicable (sic) de acuerdo con la misma Ley.
+Corresponde al Congreso del Estado, instruir el procedimiento relativo al juicio político, por las causas y con las formalidades establecidas por la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado, así como imponer, en su caso, las sanciones que juzgue aplicables de acuerdo con la misma Ley.
 
 ###### ARTICULO 177.
 
@@ -1797,7 +1901,9 @@ II.- Desintegrar sin motivo justificado, el quórum de los Plenos, una vez comen
 
 III.- Dictar acuerdos o providencias que contengan decisiones generales sobre interpretación de las leyes;
 
-IV.- Llevar a su conocimiento los negocios en trámite ante los Tribunales Unitarios de Distrito, Consejos Tutelares para Menores, jueces de Primera Instancia y de Conciliación, a menos que se trate de ua (sic) investigación; y
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+IV.- Llevar a su conocimiento los negocios en trámite ante los Tribunales Unitarios de Distrito, Consejos Tutelares para Menores, jueces de Primera Instancia y de Conciliación, a menos que se trate de una investigación; y
 
 V.- Violar las normas que regulan el procedimiento para llevar a cabo los nombramientos que le competan.
 
@@ -1813,13 +1919,19 @@ III.- Actuar en negocios en que estuvieren impedidos, conociendo la causa del im
 
 IV.- Hacer declaración de rebeldía en perjuicio de alguna de las partes, sin cerciorarse de su legal emplazamiento, o antes de que expire el término establecido por la ley;
 
-V.- No recibir en forma injustificada las pruebas admitidas a las Partes;
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+V.- No recibir, injustificadamente, las pruebas admitidas a las partes;
 
 VI.- Impedir, por cualquier medio ilegal, que las partes hagan uso de los recursos establecidos en la ley;
 
-VII.- Fijar fianzas contrafianzas notoriamente excesivas o insuficientes, en los casos que prescriban las leyes, así como admitir las de personas que no acrediten su solvencia;
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+VII.- Fijar fianzas y contrafianzas notoriamente excesivas o insuficientes, en los casos que prescriban las leyes, así como admitir las de personas que no acrediten su solvencia;
 
 VIII.- Hacer en sus resoluciones calificaciones ofensivas o calumniosas, en perjuicio de las personas que intervienen en el proceso;
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 IX.- Hacer constar falsamente en una diligencia judicial hechos no acaecidos o dejar de mencionar los ocurridos;
 
@@ -1904,6 +2016,8 @@ V.- No atender con la debida corrección a los litigantes y al público en gener
 VI.- Solicitar o recibir dádivas, agasajos, préstamos, regalos y obtener toda clase de percepciones provenientes, directa o indirectamente, de alguna de las partes o de sus representantes o intermediarios, en negocio sometido a su conocimiento, o en el que haya de intervenir;
 
 VII.- Obtener o tratar de obtener por el desempeño de su función, beneficios adicionales a las prestaciones que le sean cubiertas con cargo al erario público;
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 VIII.- Influir, directa o indirectamente, en el nombramiento, promociones, suspensión, remoción, cese o sanción de cualquier servidor público de la administración de justicia, ya sea interés personal, familiar o de negocios, o porque con ello pretenda derivar alguna ventaja o beneficio para sí o para un tercero;
 
@@ -2015,7 +2129,9 @@ I.- Por el Tribunal Pleno, cuando se trate de quejas en contra de su Presidente;
 
 II.- Por el Presidente del Tribunal Superior de Justicia, cuando se trate de quejas en contra de los Magistrados integrantes de las Salas, Magistrados de Distrito, integrantes de los Consejos Tutelares para Menores y Jueces;
 
-III.- Por el presidente de la Sala, Magistrado Unitario de Distrito, presidente del Consejo Tutelar para Menores y jueces, cuando se trate de quejas en contra de los secretarios; y
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+III.- Por el presidente de la Sala, Magistrado de Distrito, presidente del Consejo Tutelar para Menores y jueces, cuando se trate de quejas en contra de los secretarios; y
 
 IV.- Por los secretarios de acuerdos, cuando se trate de quejas en contra de sus subalternos, y la falta sólo amerite como sanción, apercibimiento o amonestación.
 
@@ -2081,19 +2197,27 @@ El recurso de revisión se tramitará en la forma siguiente:
 
 I.- En el escrito en que se interponga, se expresarán los agravios que a juicio del recurrente le cause la resolución impugnada, proponiendo las pruebas que considere necesarias;
 
-II.- La autoridad revisora solicitará el envío del expediente relativo y acordará sobre la admisión del recurso y de las pruebas ofrecidas desechando de plano las que no considere idóneas.
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
-Las pruebas admitidas se desahogarán en un plazo de cinco días, que podrá ampliarse por una sola vez, a solicitud del recurrente, por el término de cinco días; y
+II.- La autoridad revisora solicitará el envío del expediente relativo y acordará sobre la admisión del recurso y de las pruebas ofrecidas deshechando (sic) de plano las que no considere idóneas;
 
-III.- Concluido el período probatorio, la autoridad revisora emitirá resolución dentro de los ocho días siguientes, notificándola a los iteresados (sic).
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+III.- Las pruebas admitidas se deshogarán (sic) en un plazo de cinco días, que podrá ampliarse por una sola vez, a solicitud del recurrente, por el término de cinco días; y
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+IV.- Concluído el período probatorio, la autoridad revisora emitirá resolución dentro de los ocho días siguientes, notificándola a los interesados.
 
 ###### ARTICULO 209.
 
 La ejecución de las sanciones administrativas impuestas en resolución firme, se llevará a cabo de inmediato en sus términos; pero tratándose de los servidores públicos de base, la destitución se sujetará a lo previsto por la ley del servicio civil.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 210.
 
-Si el presunto autor confesare la responsabilidad, se procederá de inmediato a dictar resolución, a no ser que quien conoce del procedimiento, disponga la recepción de pruebas para robustecer la veracidad de la confesión, se impondrá al infractor un tercio de la sanción aplicable, si es de naturaleza económica, pero en lo relativo a la indemnización deberá ser suficiente para cubrir el importe de los daños y perjuicios originados, y siempre deberá restituir lo que hubiere percibido con motivo de la infracción. Quedará al arbitrio prudencial de quien resuelva, dispensar al infractor de la suspensión, separación o inhabilitación.
+Si el presunto autor confesare la responsabilidad, se procederá de inmediato a dictar resolución, a no ser que quien conoce del procedimiento, disponga la recepción de pruebas para robustecer la veracidad de la confesión y se impondrá al infractor un tercio de la sanción aplicable, si es de naturaleza económica, pero en lo relativo a la indemnización deberá ser suficiente para cubrir el importe de los daños y perjuicios originados, y siempre deberá restituir lo que hubiere percibido con motivo de la infracción. Quedará al arbitrio prudencial de quien resuelva, dispensar al infractor de la suspensión, separación o inhabilitación.
 
 ###### ARTICULO 211.
 
@@ -2149,6 +2273,8 @@ La venera combinará el símbolo de la Justicia con el Escudo del Estado. Sus ca
 
 La roseta es un botón que se ostenta sobre la prenda de vestir y representa la venera recibida.
 
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 219.
 
 Con el estímulo o la recompensa se entregará una mención honorífica, en la que se expresarán las razones por las que se otorgaron, y deberá contener las firmas del presidente y magistrados del Tribunal Superior de Justicia.
@@ -2190,6 +2316,8 @@ El presidente del Tribunal Superior de Justicia llevará el registro de las cand
 ###### ARTICULO 226.
 
 El presidente y los magistrados sesionarán durante el mes de enero de cada año, para dictaminar sobre los expedientes sometidos a su consideración. Sus decisiones se tomarán por mayoría de votos y, en caso de empate, el presidente tendrá voto de calidad.
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 Se designará a uno de los magistrados para que engrose el dictamen y una vez formalizado, se señalará el lugar y fecha en que deba tener verificativo la ceremonia respectiva.
 
@@ -2267,7 +2395,9 @@ En la designación de auxiliares de la Administración de Justicia se observará
 
 I.- La autoridad judicial hará la designación de auxiliar que le corresponda, entre las personas que figuran en las listas, siguiendo el orden establecido en ellas;
 
-II.- La designación será rotatoria, de suerte que la misma persona no pueda ser nombrada por segunda vez, sino cuando se haya agotado la lista correspondiente. Empero, si al iniciarse o continuarse una diligencia faltaren los auxiliares, podrá procederse de inmediato a su reemplazo, con cualquiera de las personas que figuren en la lista correspondiente;
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+
+II.- La designación será rotatoria, de suerte que la misma persona no pueda ser nombrada por segunda vez, sino cuando se haya agotado la lista correspondiente. Empero, si al iniciarse o continuarse una diligencia Faltaren los auxiliares, podrá procederse de inmediato a su reemplazo, con cualquiera de las personas que figuren en la lista correspondiente;
 
 III.- Cuando en una lista no hubiere auxiliares de la especialidad requerida para el caso, se hará la designación en persona calificada para el oficio;
 
@@ -2282,6 +2412,8 @@ Todo nombramiento será notificado al auxiliar designado, mediante oficio, remit
 ###### ARTICULO 241.
 
 Si la persona designada estuviere impedida para desempeñar la función, se excusare de prestar el servicio, no tomare posesión oportuna, no concurriere a la diligencia o no cumpliere con su cargo dentro del término señalado, se procederá inmediatamente a su sustitución.
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 242.
 
@@ -2382,6 +2514,8 @@ El hecho de que alguna persona se atribuya el carácter de abogado sin tener tí
 Las asociaciones de abogados podrán solicitar y obtener su registro ante el Tribunal Superior de Justicia, cumplidos los siguientes requisitos:
 
 I.- Exhibir el testimonio de protocolización de su escritura constitutiva y sus Estatutos, así como copia certificada de dichos documentos; y
+
+> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 II.- Acompañar el directorio de sus miembros, así como una relación de los socios que integran su Consejo Directivo y su Comisión de Honor.
 
