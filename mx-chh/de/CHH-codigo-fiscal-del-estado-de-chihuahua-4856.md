@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1971-12-08"
+last_updated: "1971-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1971.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -2123,7 +2123,7 @@ Los contribuyentes a quienes se les practique una auditoría deberán dar aviso 
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
-240.- Los causantes que obtengan ingresos de operaciones celebradas directamente con el consumidor y gravadas en los grupos primero, segundo, séptimo y octavo del Artículo 212 de este Código, podrán cubrir el impuesto a razón de una cuota fija bimestral, siempre que sus ingresos no sean superiores a $500,000.00 (QUINIENTOS MIL PESOS, 00/100) anuales en las condiciones y con las formalidades siguientes:
+240.- Los causantes que obtengan ingresos de operaciones celebradas directamente con el consumidor y gravadas en los grupos primero, segundo, séptimo y octavo del Artículo 212 de este Código, podrán cubrir el impuesto a razón de una cuota fija bimestral, siempre que sus ingresos no sean superiores a $500,000.008QUINIENTOS MIL PESOS, 00/100) anuales en las condiciones y con las formalidades siguientes:
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -2153,7 +2153,7 @@ c).- Recibir las visitas de inspección que ordene la Tesorería General del Est
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
-d).- Dar aviso a la Recaudación de Rentas de su jurisdicción, cuando estime que sus ingresos anuales serán mayores de $500,000.00 (QUINIENTOS MIL PESOS 00/100), a fin de que la oficina receptora pueda tomar las medidas fiscales que procedan. Darán también aviso cuando sus ingresos excedan en un 20% a aquéllos por los que se fijó la cuota.
+d).- Dar aviso a la Recaudación de Rentas de su jurisdicción, cuando estime que sus ingresos anuales serán mayores de $500,000.00(QUINIENTOS MIL PESOS 00/100), a fin de que la oficina receptora pueda tomar las medidas fiscales que procedan. Darán también aviso cuando sus ingresos excedan en un 20% a aquéllos por los que se fijó la cuota.
 
 V.- Los convenios tendrán la duración que les corresponda, dentro de cada año fiscal comprendido dentro del 1o. de enero al 31 de diciembre, sin que la vigencia de los mismos pueda exceder de un año. Al término de su vigencia, que no será nunca posterior al 31 de diciembre del año en que se firmen, quedarán sin efectos.
 
@@ -2163,11 +2163,9 @@ VI.- La Tesorería General, en cualquier tiempo, podrá comprobar por los medios
 
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
-241.- Este impuesto grava las operaciones de compraventa, permuta, fideicomiso, cesión, donación, compensación, dación en pago, traspaso, aportación a sociedades, remates y en general cualquier acto por el cual se trasmita el dominio del ganado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1971)</small>
 
-Dentro del objeto de este impuesto quedan también comprendidos las consignaciones y el sacrificio del ganado.
-
-Cuando por cualquier circunstancia se saque el ganado del Estado se presumirá, sin que se admita prueba en contrario, que se verificó dentro del Estado operación gravada por este Capítulo.
+241.- Este impuesto grava las operaciones de compraventa, permuta, fideicomiso, cesión, donación, compensación, dación en pago, traspaso, aportación a sociedades, consignación, remates y en general cualquier acto por el cual se trasmita el dominio del ganado; también causará el impuesto la disposición del ganado al remitirse fuera del Estado o a rastros y empacadoras, casos en los cuales se presumirá, sin que se admita prueba en contrario que se verificó dentro del Estado operación gravada por este capítulo.
 
 242.- Es sujeto del impuesto la persona física o moral propietaria del ganado, que realice cualquiera de los actos señalados en el artículo anterior.
 
@@ -2203,15 +2201,17 @@ máxima de 30 días " 0.75
 
 No causa el impuesto el tránsito de ganado proveniente de otra Entidad Federativa destinado al extranjero, siendo indispensable que se acredite fehacientemente que el poseedor del ganado es su propietario, que los semovientes estén protegidos con pases y guías sanitarias de autoridades de otros Estados y que la exportación se lleve a cabo a nombre del propietario. De no cumplirse estos requisitos se hará efectiva la presunción del artículo 241.
 
-245.- El pago del Impuesto deberá hacerse:
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1971)</small>
 
-I.- En la Recaudación de Rentas a cuya jurisdicción corresponda el Municipio donde se sacrifique el ganado.
+245.- El pago del impuesto deberá hacerse:
+
+I.- En la Recaudación de Rentas a cuya jurisdicción corresponda el Municipio donde se realice cualquiera de los actos previstos en el artículo 241 de este Código.
 
 II.- En la Recaudación de Rentas a cuya jurisdicción corresponda el Municipio donde se embarque el ganado, cuando salga del Estado pero no de la República.
 
 III.- En las Recaudaciones de Rentas de Ciudad Juárez, Ciudad Ojinaga, Ascensión y Janos cuando el ganado se remita al extranjero.
 
-El impuesto se pagará antes de que el ganado se sacrifique o salga del Estado.
+El impuesto se pagará antes de realizar cualquiera de los actos a que se refiere el artículo 241.
 
 #### SECCION CUARTA. OBLIGACIONES DE LOS CAUSANTES
 
@@ -4076,3 +4076,7 @@ ARTICULO TRANSITORIO.- El presente decreto entrará en vigor al día siguiente d
 P.O. 8 DE DICIEMBRE DE 1971.
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de enero del año de 1972.
+
+P.O. 22 DE DICIEMBRE DE 1971.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
