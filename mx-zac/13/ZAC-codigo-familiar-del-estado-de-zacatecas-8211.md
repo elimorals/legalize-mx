@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "1992-07-15"
+last_updated: "1994-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1994.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -265,6 +265,14 @@ Tienen obligación de declarar el nacimiento el padre y la madre conjunta o sepa
 
 Si el registro no se hiciere dentro del término a que se refiere el párrafo que antecede y se tratare de un menor de seis años podrá hacerse extemporáneamente y el solicitante será sancionado con una multa de uno a tres días de salario mínimo vigente en el lugar y la fecha en que se pretenda hacer el registro. En los demás casos se estará a lo dispuesto en el artículo veinticuatro de esta Ley.
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 1994)</small>
+
+El médico o partera que atienda un alumbramiento estará obligado a notificar, dentro de las 72 horas siguientes, al Oficial del Registro Civil, Agente del Registro Civil, o en su defecto al Delegado Municipal del lugar donde hubiere ocurrido el nacimiento, los datos pertinentes para que se levante una constancia preliminar y se cite a los padres, o a uno de ellos si tal fuere el caso, para que presenten al infante y se complete el procedimiento de registro. Las leyes en materia de Salud determinarán las sanciones aplicables a los médicos o parteras que no cumplan con esta obligación.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 1994)</small>
+
+El Oficial del Registro Civil, en cuanto reciba la notificación a que se refiere el párrafo anterior, levantará la constancia respectiva en un libro sellado y foliado que se llevará para tales efectos, y citará, con apercibimiento de sanción, a los progenitores cuyos datos le hubieren sido comunicados. Si ninguno de ellos compareciese dentro de los noventa días siguientes a la fecha del nacimiento, se dará aviso al Consejo de Familia del Distrito Judicial que corresponda, a fin de que se procure la localización del menor y de los padres omisos y se tomen las medidas que en cada caso se requieran para que no resulten perjuicios a los derechos del menor.
+
 ###### ARTICULO 37.
 
 El acta de nacimiento contendrá la hora, día, mes, año y lugar en que ocurrió, así como el sexo, la impresión digital del pulgar derecho o en su caso, del pie derecho en su integridad sin que por motivo alguno pueda omitirse. Igualmente se asentará si es presentado vivo o muerto; nombre, edad, domicilio, estado civil y nacionalidad de los padres, de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos. Si la presentación la realiza una persona distinta a los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes.
@@ -277,9 +285,23 @@ Cuando al presentar al menor se exhiba copia certificada del acta de matrimonio 
 
 En los lugares en que no haya Oficial del Registro Civil el niño será presentado al Agente del Registro Civil o a la persona que ejerza la autoridad política y ésta dará la constancia respectiva, que los interesados llevarán al Oficial Registrador que corresponda, para que asiente el acta. La constancia sólo acreditará la presentación oportuna del niño.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 40.
 
-Cuando no se presente la copia certificada del acta de matrimonio, sólo se asentará el nombre del padre o de la madre, o el de ambos si concurrieren. La madre no tiene derecho de dejar de reconocer a su hijo, tiene obligación de que su nombre figure en el acta de nacimiento de éste. Si al hacerse la presentación son se da el nombre de la madre se pondrá en el acta que el presentado es hijo de madre desconocida, pero la investigación de la maternidad podrá hacerse ente los Tribunales de acuerdo con las disposiciones de este Código.
+Cuando no se presente la copia certificada del acta de matrimonio pero hubieren comparecido ambos progenitores, se levantará el acta de nacimiento con los datos que éstos declaren, bajo protesta de decir verdad. Si ocurre uno solo de los progenitores, se procederá conforme a las reglas siguientes:
+
+I. Si está presente el padre pero no la madre, aquel deberá declarar el nombre de la madre y los motivos de su ausencia. Si el caso fuese de los previstos en el artículo 332 de este Código, se procederá como se previene en el mismo. En los demás casos, se asentará en el acta el nombre de la madre y todos los datos pertinentes.
+
+II. Si el padre declara que la madre falleció, deberá comprobarlo con el acta de defunción respectiva.
+
+III. No es procedente levantar el acta de nacimiento cuando el padre manifieste que ignora el nombre de la madre. Si tal fuere su declaración, el Oficial del Registro Civil turnará el caso al Ministerio Público, para que éste determine las investigaciones pertinentes.
+
+IV. Si comparece la madre pero no el padre, aquella podrá declarar el nombre del otro progenitor con el consentimiento de éste u optar porque no aparezca en el acta respectiva.
+
+V. El padre o la madre que comparecen en ningún caso tienen el derecho de dejar de reconocer a su hijo ni de hacer que su nombre sea omitido en el acta respectiva.
+
+VI. Si la madre hubiere fallecido y el padre no estuviere presente o fuese desconocido para las personas que presentan al menor, se asentarán en el acta de nacimiento sólo los datos que obren en poder de los comparecientes, sin que sea motivo para dejar de levantar el acta que éstos no puedan aportar todos (sic) lo que normalmente contiene dicho documento.
 
 ###### ARTICULO 41.
 
@@ -289,9 +311,13 @@ Si el padre o la madre no pudieren concurrir ni tuvieren apoderado, podrán proc
 
 En las actas de nacimiento por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dicha nota se testarán de oficio dichas palabras por quien tenga a su cargo el levantamiento.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 43.
 
-Se prohíbe absolutamente al Oficial del Registro Civil y a los testigos que conforme a este ley deben asistir al acto, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deban declarar las personas que presenten al niño, bajo protesta de decir verdad.
+Está prohibido al Oficial del Registro Civil y a los testigos que conforme a este Código deben asistir al acto, hacer inquisición sobre la paternidad cuando la madre se hubiere acogido a la opción prevista en la fracción IV del artículo 40. Pero cuando la presentación fuere hecha por alguna otra persona que provisionalmente se hubiere hecho cargo del menor y el compareciente demuestre que la madre falleció o esté imposibilitada para la atención de su hijo, se le requerirá para que declare el nombre del padre y los datos que pudieren conducir a su identificación y localización, incluyéndose en el acta los que sean pertinentes para dicho fin.
+
+La constancia así asentada no tendrá efecto alguno en materia de reconocimiento paterno, ya que éste se sujetará a las normas previstas en este Código, pero servirá de base para que, por conducto del Consejo de Familia del Distrito Judicial que corresponda, se promueva la investigación del paradero del presunto padre a fin de que, una vez localizado, se haga de su conocimiento la existencia del menor y el estado de abandono en que se encuentra.
 
 ###### ARTICULO 44.
 
@@ -1721,7 +1747,7 @@ En todos los casos en que el marido tenga derecho de contradecir la paternidad d
 
 ###### ARTICULO 295.
 
-Si el marido está bajo tutela por cualquier causa de las señaladas en la Fracción II del Artículo 409, este derecho puede ser ejercido por su tutor. Si éste no lo ejerciere podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declaró haber cesado el impedimento.
+Si el marido está bajo tutela por cualquier causa de las señaladas en la Fracción II del Artículo 409, este derecho puede ser ejercido por su tutor. Si éste no lo ejerciere, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declaró haber cesado el impedimento.
 
 ###### ARTICULO 296.
 
@@ -1901,9 +1927,11 @@ Los padres pueden reconocer a su hijo conjunta o separadamente.
 
 El reconocimiento hecho por el padre puede ser contradicho por un tercero que a su vez pretenda tener ese carácter. El reconocimiento hecho por la madre puede ser contradicho por una tercera persona que a su vez pretenda tener ese carácter.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 330.
 
-El reconocimiento no es revocable por el que lo hace; y si se ha hecho en testamento, aunque éste se revoque no se tiene por revocado aquél.
+Salvo lo dispuesto por el artículo 326, el reconocimiento no es revocable por el que lo hace; y si se ha hecho en testamento, aunque éste se revoque no se tiene por revocado aquél.
 
 ###### ARTICULO 331.
 
@@ -1919,29 +1947,39 @@ IV. Por testamento;
 
 V. Por confesión judicial directa y expresa.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 332.
 
-Cuando el padre o la madre reconocen separadamente a un hijo, no podrán revelar en el acta del reconocimiento el nombre de la persona con quien fue habido, ni exponer ninguna circunstancia por donde aquélla puede ser reconocida. Las palabras que contengan esta revelación, se testarán de oficio, de modo que queden absolutamente ilegibles.
+Cuando uno de los progenitores reconozca separadamente a un hijo y el otro estuviere legalmente unido en matrimonio con una tercera persona, el que reconoce no podrá revelar el nombre del otro progenitor ni exponer ninguna circunstancia por la que pueda identificársele. Las palabras que contengan esa revelación no constarán en el acta respectiva y si ya aparecieren se testarán de oficio, de modo que quedan absolutamente ilegibles. Para que surta efectos esta disposición, el matrimonio debe haber sido anterior al nacimiento del hijo reconocido y estar subsistente en la fecha del reconocimiento.
 
 ###### ARTICULO 333.
 
 El Oficial del Registro Civil, el Juez de Primera Instancia, en su caso, y el Notario que consienta en la violación del artículo que precede, serán castigados con una multa equivalente a treinta días del salario mínimo vigente.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 334.
 
-Un cónyuge podrá reconocer, sin el consentimiento del otro cónyuge, al hijo habido antes de su matrimonio, pero no tendrá derecho de llevarlo a vivir al domicilio conyugal, si no es con la anuencia expresa de éste.
+Un cónyuge podrá reconocer al hijo habido fuera de matrimonio. Pero el que reconoce no tendrá derecho de llevar a su hijo a vivir en el domicilio conyugal, si no es con anuencia expresa de su consorte.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 335.
 
-Si ambos padres se hubieren casado, en el acta de reconocimiento que haga uno de ellos, podrá asentarse el nombre del otro consorte como su progenitor. En este caso quedará probada la filiación del hijo respecto de ambos, aunque al contraer matrimonio no hubieren cumplido con el deber de reconocer a su hijo.
+Si ambos progenitores contrajeron matrimonio entre sí, en el acta de reconocimiento que haga uno de ellos se asentará el nombre del otro, también como progenitor, y quedará probada la filiación del hijo respecto de ambos, aunque en el acto de contraer matrimonio no hubieren hecho el reconocimiento expreso ninguno de los dos.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 336.
 
-La mujer casada puede reconocer sin consentimiento del esposo, a un hijo habido con persona distinta a éste antes de su matrimonio.
+La mujer casada puede reconocer sin consentimiento del esposo, a un hijo habido con persona distinta a éste antes de su matrimonio. Es aplicable lo dispuesto en la parte final del artículo 334.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 337.
 
-El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto al marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoria se haya declarado que no es hijo suyo.
+El hijo de una mujer casada no podrá ser reconocido como hijo propio por un hombre que no sea su marido, salvo cuando éste lo haya desconocido y se haya declarado, por sentencia firme, que no es hijo suyo. Son aplicables, en lo conducente, las reglas preceptuadas en los artículos 287 al 292 de este Código.
 
 ###### ARTICULO 338.
 
@@ -1985,9 +2023,11 @@ IV. Cuando el hijo tenga a su favor un principio de prueba contra el pretendido 
 
 V. Cuando el hijo haya recibido alimentos del presunto padre.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 346.
 
-Está permitido al hijo nacido fuera de matrimonio y a sus descendientes investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios, pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada.
+El hijo nacido fuera de matrimonio tiene el derecho de investigar la maternidad, la cual podrá probarse por cualquiera de los medios ordinarios; la indagación será discreta si la presunta madre es mujer casada. Esta restricción no surtirá efectos en los casos de menores que no hayan cumplido doce años de edad y no cuenten con medios de subsistencia; pero será requisito que los representantes legales del menor o el Ministerio Público, en su caso, comprueben que previamente se llevó a cabo una investigación de la paternidad, la cual tuvo por resultado que el presunto progenitor ya había fallecido o que, por sus condiciones de salud física o mental o su notoria insolvencia económica, no puede atender a las necesidades del menor.
 
 ###### ARTICULO 347.
 
@@ -2321,9 +2361,21 @@ II. Por la ausencia declarada en forma;
 
 III. Por sentencia condenatoria que imponga como pena esa suspensión.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 406.
 
-Los Jueces pueden privar de la patria potestad al que la ejerce, o modificar su ejercicio, si trata a los que están en ella con excesiva severidad, no los educa o les impone preceptos que dañan su salud física o moral, o les da ejemplo o consejos corruptores.
+Son causales de privación de la patria potestad a quien la ejerce:
+
+I. Que trate, de palabra y/o de obra, a los que están sujetos a ella con injustificada y excesiva severidad o los castigue corporalmente sin la debida moderación.
+
+II. Que de manera intencional o por negligencia, propicie que su educación sea física, intelectual o socialmente inadecuada;
+
+III. Que les imponga o fomente hábitos que puedan dañar su salud física o mental; y
+
+IV. Que incurra frecuentemente en actos y formas de conducta que impliquen malos ejemplos o que puedan contribuir a su corrupción.
+
+Las causales previstas en las fracciones II y III se tendrán por configuradas cuando quienes ejercen la patria potestad permitan intencionadamente que los que están sujetos a ella tengan acceso, libre y reiteradamente, a publicaciones o materiales audiovisuales cuyo contenido esté clasificado como exclusivo para adultos.
 
 ###### ARTICULO 407.
 
@@ -2657,7 +2709,9 @@ Serán separados de la tutela:
 
 I. Los que sin haber caucionado su manejo, conforme a la Ley, ejerzan la administración de la tutela;
 
-II. Los que se condujeren mal o con negligencia en el desempeño de la tutela, ya sea respecto de la persona, ya respecto de la administración de los bienes del incapacitado.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 1994)</small>
+
+II. Los que se condujeren mal o con negligencia en el desempeño de la tutela, ya sea respecto de la persona, ya respecto de la administración de los bienes del incapacitado. Serán aplicables en lo conducente las causales que, para la privación de la patria potestad, están previstas en el artículo 406 de este Código.
 
 III. Los tutores que no rindan sus cuentas dentro del término que le señale esta ley;
 
@@ -2969,9 +3023,7 @@ La autorización judicial a que se refiere el artículo anterior sólo se conced
 
 ###### ARTICULO 520.
 
-Los bienes inmuebles, los derechos anexos a ellos y los muebles preciosos no pueden ser enajenados ni gravados por el tutor sino por causa de absoluta necesidad o por evidente utilidad del menor o del mayor con alguna de las incapacidades a las que se refiere el Artículo 409, Fracción II debidamente justificada y previa la conformidad del curador y la
-
-Autorización Judicial.
+Los bienes inmuebles, los derechos anexos a ellos y los muebles preciosos no pueden ser enajenados ni gravados por el tutor sino por causa de absoluta necesidad o por evidente utilidad del menor o del mayor con alguna de las incapacidades a las que se refiere el Artículo 409, Fracción II debidamente justificada y previa la conformidad del curador y la autorización judicial.
 
 ###### ARTICULO 521.
 
@@ -2985,7 +3037,7 @@ El tutor que no haga los depósitos o inversiones dentro de los plazos señalado
 
 ###### ARTICULO 523.
 
-La venta de Bienes Raíces de los menores y mayores incapaces es nula si no se hace judicialmente en subasta pública. En la enajenación de alhajas y muebles preciosos, el juez decidirá si conviene o no la almoneda pudiendo dispensarla, acreditada la utilidad que resulte al tutelado.
+La venta de Bienes Raíces de los menores y mayores incapaces es nula si no se hace judicialmente en subasta pública. En la enajenación de alhajas y muebles preciosos, el Juez decidirá si conviene o no la almoneda pudiendo dispensarla, acreditada la utilidad que resulte al tutelado.
 
 Los tutores no podrán vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados pertenecientes al incapacitado por menor valor del que se cotice en la plaza del día de la venta, ni dar fianza a nombre de su tutelado.
 
@@ -3357,9 +3409,11 @@ II. De un tutor para los negocios judiciales;
 
 III. Del consentimiento del que lo emancipó para contraer nuevo matrimonio antes de llegar a la mayor edad. Si el que otorgó la emancipación ejercía la patria potestad ha muerto, o está incapacitado legalmente, necesita el consentimiento del ascendiente a quien corresponda darlo, y en su defecto el del Juez.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 603.
 
-Las personas físicas que no hayan cumplido dieciocho años son menores de edad.
+Para los efectos de la aplicación de este Código y de la legislación civil en general, las personas físicas que no hayan cumplido dieciocho años son menores de edad.
 
 ###### ARTICULO 604.
 
@@ -3383,9 +3437,11 @@ Las providencias protectoras del incapaz, que esta ley establece, y las que juzg
 
 La mayor edad comienza a los dieciocho años cumplidos.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 609.
 
-El mayor de edad dispone libremente de su persona y de sus bienes.
+El mayor de edad dispone libremente de su persona y de sus bienes y tiene capacidad de ejercicio de sus derechos y obligaciones, conforme a las leyes respectivas.
 
 ## TITULO SEPTIMO. DE LOS AUSENTES E IGNORADOS
 
@@ -4027,7 +4083,9 @@ IX. Vigilar a los incapaces que realicen conductas antisociales, para tratar de 
 
 X. Recoger a los niños expósitos, abandonados o huérfanos, para internarlos en las instituciones públicas, en los términos de esta Ley;
 
-XI. Todas las demás funciones señaladas en este Código.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 1994)</small>
+
+XI. Las que establecen los artículos 36, 43 y 731, fracción II, así como todas las demás señaladas expresamente en este Código.
 
 ###### ARTICULO 726.
 
@@ -4045,19 +4103,25 @@ Los inválidos, niños y ancianos, tienen derecho a la protección integral por 
 
 El Gobierno del Estado, deberá dar protección social y asistencia a los niños, enfermos, desvalidos y ancianos.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 730.
 
-Todo niño abandonado por sus padres, por enfermedad, prisión o responsabilidad, será entregado en el Sistema Estatal para el Desarrollo Integral de la Familia, para su protección y cuidado.
+Todo niño abandonado por sus padres y/o familiares, por causa de enfermedad o prisión, o como consecuencia de conducta irresponsable, quedará bajo la protección y cuidado del Sistema Estatal para el Desarrollo Integral de la Familia. La misma atención se prestará a los menores huérfanos de padre y madre que carezcan de los otros familiares que, de acuerdo con las disposiciones de este Código, estarán obligados a proporcionarles los medios indispensables para su subsistencia.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 731.
 
-En esta materia, el Sistema Estatal para el Desarrollo Integral de la Familia, tiene las siguientes funciones:
+Para cumplir con sus objetivos en materia de atención a los menores, el Sistema Estatal para el Desarrollo Integral de la Familia tendrá las siguientes funciones:
 
-I. Custodiar temporalmente a los menores;
+I. Custodiar por el tiempo que sea necesario a los menores que carezcan de hogar o que sean expuestos en la vía pública;
 
-II. Cuidar a los niños por medio de las Instituciones respectivas instaladas en la Entidad;
+II. Tramitar, por conducto de los Consejos Familiares o del Ministerio Público, en su caso, la regularización de la situación legal de los menores que estén bajo su custodia o que no tengan quien los represente;
 
-III. Procurar, en coordinación con Instituciones Públicas o Privadas, disminuir el abandono, explotación e invalidez del menor.
+III. Procurar, con medios propios o en coordinación con otras instituciones privadas o públicas, municipales, estatales o federales, que se proporcione a los menores la asistencia social necesaria para protegerlos del abandono, evitar su explotación y encauzar su rehabilitación cuando sufran invalidez física, mental o moral; y
+
+IV. Llevar a cabo programas permanentes que estimulen la paternidad responsable, entendida como el cumplimiento constante y voluntario de todas y cada una de las obligaciones que este Código preceptúa a cargo del padre y de la madre, así como de los deberes morales inherentes.
 
 ###### ARTICULO 732.
 
@@ -4071,9 +4135,11 @@ El Sistema Estatal para el Desarrollo Integral de la Familia, para cumplir con l
 
 Para los efectos de la interpretación y aplicación de este Código, se autoriza a las personas encargadas de los Centros de Planificación Familiar y Control de la Natalidad, para instruir sobre la misma a las personas que lo soliciten.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 735.
 
-Se considera paternidad responsable la conducta consciente y deliberada de los padres, conociendo su situación social, económica y cultural, para determinar el número y espaciamiento de hijos que quisieren tener.
+Por disposición de la ley, una de las formas de ejercer la paternidad responsable es la conducta consciente de los padres, conociendo su situación social, económica y cultural, para determinar el número y espaciamiento de los hijos que quisieren tener.
 
 ###### ARTICULO 736.
 
@@ -4144,3 +4210,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Las declaraciones de incapacidad o de nombramiento de tutor que actualmente se encuentren en trámite antes los tribunales competentes, en sus resoluciones que se dicten respecto a los motivos que les dieron origen, deberán apegarse al texto de los artículos reformados, debiendo declarar en sus puntos resolutivos el tipo de incapacidad que padezca la persona.
+
+P.O. 25 DE MAYO DE 1994.
+
+UNICO.- Las presentes reformas entrarán en vigor a partir de sesenta días naturales contados desde el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Zacatecas.
