@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-3094
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-20"
-last_updated: "2001-11-09"
+last_updated: "2002-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de septiembre de 1992.
 
@@ -201,9 +201,11 @@ El Presupuesto de Egresos del Gobierno del Estado y de los Municipios comprender
 
 El Presupuesto de Egresos de las Entidades de la Administración Pública Paraestatal y Paramunicipal, cuando no estén incluidos en los Presupuestos mencionados en el Artículo anterior deberán ser aprobados por el Ejecutivo del Estado y por los Cabildos respectivos y, comprenderán las previsiones del gasto público que habrán de realizar en función de sus programas objetivos, metas y beneficios a alcanzar, por cada año calendario, a partir del día primero de enero.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO 19.
 
-Los Titulares de las Dependencias y Entidades cuidarán que la formulación de los programas a incorporar en el presupuesto de egresos, sea sobre bases reales y que las actividades, metas y beneficios planeados en los mismos cubran las necesidades mínimas de la comunidad, de acuerdo a las prioridades establecidas por el Ejecutivo del Estado y los Ayuntamientos en los Planes de Desarrollo y a la disponibilidad de recursos humanos, materiales y financieros.
+Los Titulares de las Dependencias y Entidades cuidarán que la formulación de los programas a incorporar en el presupuesto de egresos, sea sobre bases reales y que las actividades, metas y beneficios planeados en los mismos cubran las necesidades mínimas de la comunidad, de acuerdo a las prioridades establecidas por el Ejecutivo del Estado y los Ayuntamientos en los planes de Desarrollo y a la disponibilidad de recursos humanos, materiales y financieros, así como a las condiciones de la deuda Pública de las entidades o dependencias.
 
 ###### ARTICULO 20.
 
@@ -259,7 +261,9 @@ IV.- Ingresos y gastos realizados en el periodo transcurrido del ejercicio fisca
 
 V.- Estimación de los ingresos y propósitos de gastos del periodo por transcurrir del ejercicio fiscal en curso;
 
-VI.- Situación de la deuda pública al término del último ejercicio fiscal y estimación de la que se tendrá a la conclusión del ejercicio fiscal en curso y del inmediato siguiente;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2002)</small>
+
+VI.- Situación de la deuda pública al término del último ejercicio fiscal y estimación de la que se tendrá a la conclusión del ejercicio fiscal en curso y del inmediato siguiente, así como las cantidades y partidas que se programen para el cumplimiento de las obligaciones financieras o crediticias relativas a la deuda pública de conformidad con la Ley;
 
 VII.- La estructura organizacional y funciones vigentes así como las modificaciones propuestas, y
 
@@ -810,3 +814,7 @@ DECRETO NUMERO 374.
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor el día primero del mes de diciembre del año dos mil uno.
+
+P.O. 8 DE NOVIEMBRE DE 2002.
+
+UNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
