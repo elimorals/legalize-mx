@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1998-09-25"
+last_updated: "1999-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1999.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1765,29 +1765,71 @@ Robo por querella.- El robo cometido por un ascendiente contra un descendiente s
 
 Tipo y punibilidad del delito de robo de uso.- Al que se le imputare el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de uno a seis meses de prisión, siempre que justifique no haberse negado a devolverla, si se le requirió para ello. Además, pagará al ofendido como reparación del daño, el doble del alquiler, arrendamiento o intereses de la cosa usada.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
+
 ###### Artículo 208.
 
-Robo Calificado.- Se aplicará la misma pena del robo con violencia en los siguientes casos:
+Robo Calificado.- Se aplicará la misma penal (sic) del robo con violencia en los siguientes casos:
 
 I.- Cuando se cometa el delito en lugar cerrado;
 
-II.- Cuando el delito se cometa en edificio, vivienda, aposento o cuartos que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que están fijados sino también los movibles, sea cual fuere la materia de que están construidos;
+II.- Cuando el delito se cometa en edificio, vivienda, aposento o cuartos que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que estés (sic) fijados sino también los movibles, se (sic) cual fuere la materia de que están construidos;
 
 III.- Cuando lo cometa un dependiente o un doméstico contra su patrón o alguno de la familia de éste en cualquier parte que lo cometa.
 
 Por doméstico se entiende: el individuo que por un salario, por la sola comida u otro estipendio o servicio, gajes o emolumentos, sirve a otro, aún cuando no viva en la casa de éste;
 
-IV.- Cuando el huésped o comensal o alguno de su familia o de los criados que lo acompañen, lo cometa en la casa donde reciban hospitalidad, obsequio o agasajo;
+IV.- Cuando el huésped o comenzal (sic) o alguna de su familia o de los criados que lo acompañen, lo cometa en la casa donde reciban hospitalidad, obsequio o agasajo;
 
 V.- Cuando lo cometa el dueño o alguno de su familia en la casa del primero, contra sus dependientes o domésticos o contra cualquiera otra persona;
 
-VI.- Cuando lo cometan los dueños, dependientes, encargados o criados de empresas o establecimientos comerciales, en los lugares en que presten sus servicios al público, y en los bienes de los huéspedes o clientes, y
+VI.- Cuando lo cometan los dueños, dependientes, encargados o criados de empresas o establecimientos comerciales, en los lugares en que presten sus servicios al público, y en los bienes de los huéspedes o clientes y,
 
-VII.- Cuando se cometa por los obreros, artesanos, aprendices o discípulos, en la casa, taller o escuela en que habitualmente trabaje o aprendan, o en la habitación, oficina, bodega, u otro lugar al que tengan libre entrada con el carácter indicado;
+VII.- Cuando se cometan por los obreros, artesanos, aprendices o discípulos, en la casa, taller o escuela en que habitualmente trabaje o aprenda, o en la habitación, oficina, bodega, u otro lugar al que tengan libre entrada con el carácter indicado.
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 1995)</small>
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1999)</small>
 
-VIII.- Cuando el bien materia del delito lo constituya un vehículo de motor cualquiera que sea su tipo.
+###### Artículo 208
+
+BIS.- Robo de Vehículo. Al que se apodere de un vehículo de motor, sin derecho y sin consentimiento de la persona que pueda disponer de él con arreglo a la ley, se le impondrá de dos a doce años de prisión y de quinientos hasta mil días multa.
+
+Si el robo del vehículo se ejecutare con violencia, a la pena impuesta se le agregarán de uno a tres años de prisión.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1999)</small>
+
+###### Artículo 208
+
+TER.- Se impondrá prisión de dos a diez años y de doscientos hasta mil días multa, a quien SIN HABER TOMADO LAS PRECAUCIONES NECESARIAS PARA CERCIORARSE DE SU LEGITIMA PROCEDENCIA y con independencia de las penas que le correspondan por la comisión de otros delitos:
+
+I.- Venda, compre, suministre, custodie, trafique o transporte aún gratuitamente, vehículos de motor robados;
+
+II.- Destruya total o parcialmente un vehículo de motor robado, lo desmantele o le sustraiga sus partes;
+
+III.- Posea, compre, venda, custodie, suministre, trafique o de cualquier otra manera adquiera o reciba partes de algún o algunos vehículos de motor robados;
+
+IV.- Posea, use, altere, falsifique o modifique de cualquier manera, la documentación que acredite la propiedad o posesión de un vehículo de motor robado;
+
+V.- Altere, falsifique o modifique cualquiera de las series o numeración que identifique un vehículo de motor robado, o de cualquiera de sus partes;
+
+VI.- Utilice vehículo de motor robado, en la comisión de otro u otros delitos;
+
+VII.- Aporte recursos económicos o de cualquier especie para posibilitar la ejecución de alguno de los delitos a que se refiere este artículo y
+
+VIII.- Posea o use, vehículos de motor robados.
+
+Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de las penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por el período igual a la pena de prisión impuesta.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1999)</small>
+
+###### Artículo 208
+
+QUARTER.- Excluyente de pretensión punitiva.- Será causa excluyente de pretensión punitiva el contar con documento expedido por la Procuraduría General de Justicia del Estado, que haga constar que en sus registros no se encuentra denuncia o reporte de robo de vehículo de motor de que se trate o de cualquiera de las partes de éste.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1999)</small>
+
+###### Artículo 208
+
+QUINQUIES.- Al que use un vehículo de motor que porte placas de circulación reportadas como robadas, se le impondrá prisión de un mes a un año y hasta doscientos días multa.
 
 ### CAPITULO III. TRAFICO DE MENORES
 
@@ -3392,3 +3434,9 @@ P.O. 25 DE SEPTIEMBRE DE 1998.
 ###### ARTICULO UNICO.
 
 Las presentes reformas a los Códigos Penal y Civil, ambos para el Estado de Baja California, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ABRIL DE 1999.
+
+PRIMERO.- Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para los efectos de dar cumplimiento al artículo 208-quarter, se otorga al Poder Ejecutivo del Estado, un plazo no mayor de treinta días hábiles, a partir de la entrada en vigor del presente, para que remita a este H. Congreso del Estado, Iniciativa de Decreto que adicione en la Ley Orgánica de la Procuraduría General de Justicia, la facultad de expedir constancias de no existencia de reporte o denuncia de robo de vehículo de motor.
