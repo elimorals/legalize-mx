@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1989-03-19"
+last_updated: "1989-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 1989.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1635,11 +1635,19 @@ El Gobernador y los Magistrados del Supremo Tribunal de Justicia podrán desempe
 
 Solo se considerará que han desaparecido los Poderes en el Estado de Durango, cuando falten físicamente los titulares de los mismos. En éste caso, el Secretario General de Gobierno, se hará cargo del Poder Ejecutivo y convocará a elecciones que deberán efectuarse en un plazo máximo de seis meses.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1989)</small>
 
 ###### ARTICULO 127.
 
-Todos los contratos que el Gobierno y los Ayuntamientos tengan que celebrar para la ejecución de obras públicas, serán adjudicados mediante concurso, previa convocatoria a la que se dará amplia difusión a efecto de que se presenten proposiciones en sobres cerrados, que serán abiertos en audiencia pública. El Congreso podrá autorizar la contratación fuera de concurso cuando se trate de obras cuya inmediata ejecución sea de interés público.
+Los recursos económicos de que disponga el Gobierno del Estado, se administrarán con eficiencia, eficacia y honradez, para cumplir los objetivos y programas a que estén destinados.
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación que haya de celebrarse para la ejecución de obras públicas, serán adjudicados o se llevarán a cabo a través de licitaciones públicas mediante convocatoria pública, para que, de manera libre, se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precios, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+Cuando las licitaciones a que se refiere el párrafo anterior, no sean idóneas para garantizar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficiencia, eficacia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
+
+La administración de Recursos Económicos Estatales, se sujetará a las bases de este artículo.
+
+Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Quinto de esta Constitución.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -2036,3 +2044,9 @@ El presente Decreto entrará en vigor al día siguiente del de su publicación e
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 6 DE ABRIL DE 1989.
+
+PRIMERO.- El presente Decreto entrará en vigor (3) tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
