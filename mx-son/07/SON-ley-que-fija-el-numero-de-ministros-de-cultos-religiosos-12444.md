@@ -4,7 +4,7 @@ identifier: "SON-ley-que-fija-el-numero-de-ministros-de-cultos-religiosos-12444"
 country: "mx"
 rank: "ley"
 publication_date: "1919-05-04"
-last_updated: "1919-05-04"
+last_updated: "1931-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY QUE FIJA EL NUMERO DE MINISTROS DE CULTOS RELIGIOSOS QUE DEBERAN EJERCER SU MINISTERIO EN EL ESTADO
 
-LEY QUE FIJA EL NUMERO DE MINISTROS DE CULTOS RELIGIOSOS QUE DEBERAN EJERCER SU MINISTERIO EN EL ESTADO.
+LEY QUE FIJA EL NÚMERO DE MINISTROS DE CULTOS RELIGIOSOS QUE DEBERÁN EJERCER SU MINISTERIO EN EL ESTADO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE DICIEMBRE DE 1931.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el 4 de mayo de 1919.
 
@@ -39,9 +39,13 @@ EL CONGRESO DEL ESTADO DE SONORA, en nombre del pueblo, decreta la siguiente
 
 LEY QUE FIJA EL NUMERO DE MINISTROS DE CULTOS RELIGIOSOS QUE DEBERAN EJERCER SU MINISTERIO EN EL ESTADO.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, B.O. 5 DE DICIEMBRE DE 1931)</small>
+
 ###### ARTICULO UNICO.
 
-De conformidad con las disposiciones del Artículo 130 de la Constitución General de la República y Artículo 64, fracción IX de la Constitución Local, se fija el número máximo de ministros de cada uno de los cultos religiosos, en uno por cada diez mil habitantes, tomando como base el último censo de la población.
+De conformidad con las disposiciones del Artículo 130 de la Constitución General de la República y Artículo 69, Fracción IX de la Constitución Política Local, se fija el número máximo de Ministros de cada uno de los cultos religiosos, en uno por cada veinte mil habitantes, tomando como base el último censo de la población.
 
 ## TRANSITORIO
 
@@ -68,3 +72,11 @@ El Oficial 1ro. E. del D.
 General.
 
 M. Piña. h.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 5 DE DICIEMBRE DE 1931.
+
+## [N. DE E. TRANSITORIO DE LA "LEY QUE REFORMA LA NÚMERO 69 DE 23 DE ABRIL DE 1919".]
+
+UNICO.- Esta Ley entrará en vigor sesenta días después de su publicación en el Boletín Oficial del Estado.
