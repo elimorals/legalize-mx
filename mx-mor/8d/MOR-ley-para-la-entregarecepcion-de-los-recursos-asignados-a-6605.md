@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-entregarecepcion-de-los-recursos-asignados-a-6605"
 country: "mx"
 rank: "ley"
 publication_date: "1993-09-01"
-last_updated: "1993-09-01"
+last_updated: "2003-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY PARA LA ENTREGARECEPCION DE LOS RECURSOS ASIGNADOS A LOS PODERES Y AYUNTAMIENTOS DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA ENTREGA RECEPCION DE LA ADMINISTRACION PUBLICA DEL ESTADO Y MUNICIPIOS DE MORELOS, PUBLICADA EN EL PERIODICO OFICIAL EL 30 DE JULIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 1 de septiembre de 1993.
 
@@ -270,3 +272,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 ALFREDO DE LA TORRE Y MARTINEZ
 
 Rúbricas
+
+P.O. 30 DE JULIO DE 2003.
+
+PRIMERO.- La presente Ley iniciará su vigencia el siguiente día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Al entrar en vigor la presente ley, quedará abrogada la Ley para la Entrega Recepción de los Recursos Asignados a los Poderes y Ayuntamientos del Estado de Morelos, publicada el 1 de Septiembre de 1993, en el Periódico Oficial "Tierra y Libertad", número 3655.
+
+TERCERO.- La Contaduría Mayor de Hacienda del H. Congreso del Estado de Morelos efectuará las funciones que establece la presente Ley al Órgano Superior de Auditoría, hasta en tanto éste último sea creado.
+
+CUARTO.- Remítase la presente Ley al Gobernador Constitucional del Estado de Morelos, para los efectos establecidos por los artículos 44, 47 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
