@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1971-06-06"
+last_updated: "1971-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1971.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -291,9 +291,11 @@ El estado civil de las personas sólo se comprueba con las constancias relativas
 
 Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren las hojas en que se pueda suponer se encontraba el acta, se podrá recibir prueba del acto o del hecho de que se trate; pero si uno sólo de los registros se ha inutilizado y existe el otro ejemplar, de éste deberá tomarse la prueba, sin admitirla de otra clase.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1971)</small>
+
 ###### Art. 49.
 
-Todos los libros del Registro Civil serán visados en su primera y última hoja por el Secretario de Gobierno y autorizados por él mismo, con su rúbrica en todas las demás; se renovarán cada año, y un ejemplar quedará en el archivo del Registro Civil, así como los documentos que le correspondan, remitiendo el otro ejemplar, en el transcurso del primer mes del año siguiente a la Secretaría de Gobierno para que se deposite en una sección especializada del Archivo General.
+Todos los libros del Registro Civil serán visados en su primera y última hoja por el Secretario General del Gobierno y llevarán el sello de la Secretaría en el centro de manera que abarque las dos caras de las hojas que los integran; se renovarán cada año, y un ejemplar quedará en el Archivo del Registro Civil, así como los documentos que le correspondan, remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, a la Secretaría General del Gobierno para que se deposite en una sección especializada del Archivo General.
 
 ###### Art. 50.
 
@@ -15354,6 +15356,12 @@ P.O. 16 DE JULIO DE 1970.
 UNICO.- Este decreto surtirá efectos tres días después del siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 6 DE JUNIO DE 1971.
+
+###### ARTICULO UNICO.
+
+Este decreto surtirá efectos el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 1971.
 
 ###### ARTICULO UNICO.
 
