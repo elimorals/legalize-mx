@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-universidad-michoacana-de-san-nicolas-de-637
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-02-03"
-last_updated: "1986-06-23"
+last_updated: "1986-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DE LA UNIVERSIDAD MICHOACANA DE SAN NICOLAS DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 1986.
 
 Ley orgánica publicada en la Sección Segunda del Periódico Oficial, el lunes 3 de febrero de 1986.
 
@@ -143,9 +143,41 @@ IV. El Consejo de Investigación Científica; y
 
 V. Los Directores de Escuelas, Facultades, Institutos y Unidades profesionales.
 
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 1986)</small>
+
+VI. La Comisión de Rectoría.
+
+La Comisión de Rectoría estará integrada por ocho miembros, de los cuales cinco serán ex Rectores de la Universidad Michoacana de San Nicolás de Hidalgo que residan en esta Entidad Federativa, elegidos para el efecto, a mayoría de votos, por los ex Rectores de esa misma casa de estudios que tengan su domicilio en este Estado. De los tres miembros restantes, uno será el decano de los Directores de las Escuelas, Facultades e Institutos, otro será el decano de los profesores en activo, y el tercero será el estudiante que, siendo consejero universitario, tenga el más alto promedio de calificaciones en el año lectivo próximo anterior.
+
+La Comisión de Rectoría al constituirse, fijará, por sorteo, el orden de los ex Rectores miembros de la misma. Al cumplirse el tercer año de vigencia de esta Ley, la Comisión de Rectoría convocará a todos los ex Rectores que residan en el Estado, a efecto de que sustituyan por elección cada tres años, a dos miembros del grupo de ex Rectores de la propia Comisión. Los sustituidos serán los que ocupen los últimos lugares de la lista. Los nombres de los nuevos miembros se colocarán siempre en los primeros lugares de la propia lista, situándolos en el orden en que hayan sido elegidos.
+
+Los ex-Rectores miembros de esta Comisión de Rectoría, no podrán ser reelectos para el período inmediato.
+
+Las vacantes que se originen en el grupo de ex Rectores, miembros de la Comisión, serán cubiertas siguiendo el procedimiento anterior.
+
+Los miembros de la Comisión de Rectoría podrán ocupar en la Universidad, cargos docentes o de investigación.
+
+La Comisión de Rectoría sesionará válidamente con la presencia de más de la mitad de sus integrantes y tomará sus decisiones por mayoría de votos de los concurrentes. Si alguna votación resultare con empate, se practicarán sucesivas votaciones con entera libertad, hasta que se obtenga el acuerdo correspondiente en los términos de esta Ley.
+
+La Comisión designará de entre sus miembros a un Presidente y a un Secretario, quienes deberán tener residencia fija en Morelia y durarán en el desempeño de sus funciones un año y no podrán ser reelectos para el período inmediato.
+
+El Presidente y el Secretario de la Comisión serán los representantes de ésta ante los demás órganos de la Universidad.
+
+Los miembros de la Comisión de Rectoría que ocupen un cargo importante en el Poder Ejecutivo Federal o en el Ejecutivo Estatal, o un alto cargo en la administración Municipal, cesarán como miembros de la Comisión, mientras dure el encargo.
+
+Son atribuciones de la Comisión de Rectoría:
+
+A. Nombrar al Rector, conocer de la renuncia de éste y removerlo por causa grave. Antes de la designación del Rector definitivo, la Comisión de Rectoría recibirá y tomará en cuenta todas las opiniones que en forma escrita le envíen los miembros del Consejo Universitario a favor de alguna persona para dicho cargo.
+
+B. Resolver los conflictos que surjan entre el Consejo Universitario y el Rector, a petición de cualquiera de las partes, y,
+
+C. Expedir su propio reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 9o.
 
-El Consejo Universitario es la autoridad máxima del gobierno de la Universidad y estará integrado por:
+El Consejo Universitario es la autoridad máxima del Gobierno de la Universidad, salvo las atribuciones que corresponden a la Comisión de Rectoría, y estará integrado por:
 
 I. El Rector;
 
@@ -187,21 +219,13 @@ III. Fijar las políticas que deban regir en materia de planeación universitari
 
 IV. Aprobar planes, programas de estudios, métodos de enseñanza, así como sistemas de evaluación en el aprovechamiento de los alumnos;
 
-V. Crear, modificar o suprimir Escuelas, Facultades, Institutos, Unidades Profesionales y demás dependencias Universitarias;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 1986)</small>
+
+V. Crear, modificar o suprimir Facultades, Escuelas, Institutos. Unidades Profesionales y demás dependencias Universitarias; debiendo solicitar previamente al Rector y a la Comisión de Presupuesto y Control, informe sobre los recursos económicos disponibles para tal efecto.
 
 VI. Designar a las Comisiones del propio Consejo que esta Ley establece;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1986)</small>
-
-VII. Elegir como Rector, de la terna presentada por la Comisión respectiva, a quien obtenga el voto de las dos terceras partes de los miembros del Consejo; si en la primera votación no se hubiese alcanzado la mayoría de dos terceras partes, el Consejo Universitario en esa misma sesión electoral, elegirá Rector a quien en una nueva votación, obtenga mayoría.
-
-La sesión a que se refiere el párrafo anterior, la llevará a cabo el Consejo Universitario dentro de los cinco días naturales siguientes al que la Comisión de Rectoría le hubiese propuesto la terna correspondiente.
-
-Si dentro del mencionado término el Consejo Universitario no sesiona o sesionando no elige Rector o vence el plazo a que se refiere el párrafo anterior, la Comisión de Rectoría designara Rector provisional, entre aquellos que reúnan los requisitos establecidos en el artículo 21 de esta Ley, lo cual deberá hacer en el acto mismo de conocerse el resultado de la sesión electoral del consejo o al día siguiente de que concluya el término que al mismo se concede.
-
-En este caso, el Rector provisional deberá reiniciar el proceso de elección de Rector definitivo según lo dispuesto en el presente ordenamiento.
-
-En el supuesto del primer párrafo, el Presidente del Consejo Universitario no tendrá voto de calidad.
+VII. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 1986)
 
 VIII. Designar de terna propuesta por el Rector a los directores de Escuelas, Facultades, Institutos y Unidades Profesionales; en su caso, removerlos en los términos de esta Ley y del Estatuto Universitario;
 
@@ -237,7 +261,7 @@ El Consejo Universitario trabajará en pleno y en Comisiones permanentes y espec
 
 Son Comisiones Permanentes:
 
-I. La de Rectoría;
+I. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 1986)
 
 II. La de Presupuesto y Control;
 
@@ -253,29 +277,7 @@ Son Comisiones Especiales, las que designe el Consejo Universitario para atender
 
 ###### ARTICULO 14.
 
-La Comisión de Rectoría se integrará por cuatro Directores, tres Consejeros Profesores y dos Consejeros Alumnos; uno de los dos Directores será el Presidente de la comisión y tendrá voto de calidad, y durarán en su cargo dos años.
-
-Corresponde a esta Comisión:
-
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1986)</small>
-
-I. Auscultar a la comunidad universitaria y emitir dictamen, en un término de quince días naturales, proponiendo terna ante el Consejo Universitario para la elección de Rector;
-
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1986)</small>
-
-II. Designar Rector provisional cuando esta autoridad falte en forma definitiva o cuando falte injustificadamente por más de treinta días.
-
-El Rector provisional convocará al Consejo Universitario a fin de que designe Rector substituto, para concluir el período legal.
-
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1986)</small>
-
-III. Dictaminar sobre licencias, renuncia o remoción del Rector cuando así lo determine el Consejo.
-
-IV. (DEROGADA, P.O. 23 DE JUNIO DE 1986)
-
-> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 1986)</small>
-
-V. Elegir Rector provisional conforme a lo dispuesto en el párrafo tercero de la fracción VII del artículo 12 de esta Ley.
+(DEROGADO, P.O. 18 DE SEPTIEMBRE DE 1986)
 
 ###### ARTICULO 15.
 
@@ -341,9 +343,11 @@ III. Integrar e instruir, a la brevedad posible, los expedientes sobre los casos
 
 IV. Rendir dictamen al Consejo Universitario sobre los casos planteados, previa comparecencia y audiencia concedida al inculpado.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 20.
 
-El Rector es el representante legal de la Universidad, quien durará en su cargo cuatro años y no podrá ser reelecto para el período inmediato. Será substituido en sus faltas temporales menores de treinta días por el Secretario de la Universidad.
+El Rector es el representante legal de la Universidad, quien durará en su cargo 4 años y no podrá ser reelecto. Un Rector Interino si puede ser electo Rector definitivo. Quien haya sido Rector definitivo tampoco puede ser Rector Interino. Será substituido en sus faltas temporales menores de 30 días, por el Secretario de la Universidad.
 
 ###### ARTICULO 21.
 
@@ -540,3 +544,27 @@ Por esta única vez, el término a que se refiere el segundo párrafo de la frac
 ###### ARTICULO TERCERO.
 
 Se derogan las disposiciones legales que se opongan a este Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 1986
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los ex Rectores de la Universidad Michoacana se auto convocarán de inmediato en el lugar, día y hora que determinen, para los efectos del Artículo 8º., de esta Ley. Elegidos los cinco ex Rectores que formen parte de la Comisión de Rectoría, estos se encargarán de convocar, de inmediato, a los miembros restantes de la Comisión.
+
+###### ARTICULO TERCERO.
+
+La Comisión de Rectoría, estudiando el problema que actualmente confronta la Universidad, podrá designar Rector Interino en tanto se implementen las medidas que estime convenientes para conocer las opiniones de los Universitarios, que le ayuden a normar su criterio, para nombrar Rector Definitivo.
+
+Si por algún motivo de no tener o de no poder tener acceso a las instalaciones universitarias en donde existen los documentos en que se constante la antigüedad de los Directores y Profesores, o las calificaciones de los alumnos que son miembros del Consejo Universitario, y no pudieren certificarse estos datos, por esta vez, los cinco ex Rectores elegidos miembros de la Comisión de Rectoría podrán nombrar Rector Interino, debiendo hacerlo a mayoría de votos.
+
+###### ARTICULO CUARTO.
+
+El Consejo Universitario deberá adecuar y aprobar en un plazo prudente el Estatuto Universitario. Mientras no se realicen estas adecuaciones y se aprueben, prevalecerán en todo aquello que no se oponga a este Decreto: El Estatuto Universitario, los Reglamentos existentes y la Estructura Orgánica aprobada por el Consejo Universitario en acuerdo del 25 de enero de 1983; así mismo, el Manual General de Organización publicado en Febrero de 1980.
+
+###### ARTICULO QUINTO.
+
+Se abroga el Decreto Legislativo número 398 del 23 de junio de 1986, así como todas las normas y disposiciones que se opongan a este Decreto.
