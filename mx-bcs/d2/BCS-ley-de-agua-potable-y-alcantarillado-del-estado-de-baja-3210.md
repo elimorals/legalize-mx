@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-agua-potable-y-alcantarillado-del-estado-de-baja-3210"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-31"
-last_updated: "1982-12-31"
+last_updated: "1983-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 31 de diciembre de 1980.
 
@@ -43,15 +43,17 @@ DISPOSICIONES GENERALES.
 
 Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto establecer las bases para la prestación de los servicios públicos de agua potable y alcantarillado en el Estado de Baja California Sur.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 2o.
 
-Las obras destinadas al abastecimiento de agua a los centros de población e industrias, o sea su captación, potabilización, conducción y distribución, así como las de alcantarillado y las necesarias para el control de la contaminación del agua y para su desalación y el tratamiento de aguas residuales en el Estado, se realizarán de acuerdo con las necesidades del propio servicio y sujetándose a las leyes y Reglamentos aplicables.
+Las obras destinadas al abastecimiento de agua a los centros de población e industrias, su captación, potabilización, conducción y distribución, así como las de alcantarillado y las necesarias para el control de la contaminación del agua y para su desalación y el tratamiento de aguas residuales en el Estado, se realizarán de acuerdo con las necesidades del propio servicio y sujetándose a las Leyes y Reglamentos aplicables.
 
-El Gobernador del Estado celebrará con el Gobierno Federal, con los Ayuntamientos, así como con otras entidades públicas o privadas, los convenios que fueren necesarios para la ejecución de las obras y trabajos a que se refiere esta Ley y efectuará los pagos a que hubiere lugar.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 3o.
 
-Las atribuciones que en materia de prestación de los servicios de agua potable y alcantarillado establece esta Ley y sus Reglamentos, serán ejercidos en forma coordinada por las autoridades Estatales y Municipales.
+Las atribuciones que en materia de prestación de los servicios de agua potable y alcantarillado, establece la presente Ley, son competencia de las Autoridades Estatales y Municipales y serán ejercidas a través de los organismos que se crean por esta Ley.
 
 ###### ARTICULO 4o.
 
@@ -65,13 +67,9 @@ III.- De servicios públicos;
 
 IV.- Industriales.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 5o.
-
-El Ejecutivo del Estado podrá decretar la expropiación, ocupación temporal, total o parcial de los bienes de propiedad privada, sujetándose a las leyes que sobre la materia se encuentren vigentes.
-
-El monto de la indemnización correspondiente podrá ser cubierta por el operador del sistema con cargo a los fondos de que disponga, provenientes de la recaudación del servicio, o con cargo a los fondos que por acuerdo especial se le otorguen en cada caso concreto.
-
-###### ARTICULO 6o.
 
 Se declara de utilidad pública:
 
@@ -82,6 +80,14 @@ II.- La adquisición y la utilización o aprovechamiento de obras hidráulicas d
 III.- La prevención y el control de la contaminación de las aguas que se localicen dentro del Estado y que no sean de Jurisdicción Federal.
 
 IV.- La adquisición de los bienes inmuebles o muebles que sean necesarios para la construcción, rehabilitación, ampliación, mejoramiento, conservación, desarrollo y mantenimiento de los sistemas de agua potable y alcantarillado, incluyendo las instalaciones conexas, como son los caminos de acceso y las zonas de protección.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 6o.
+
+El Ejecutivo del Estado podrá decretar la expropiación, ocupación temporal, total o parcial de las obras hidráulicas y los bienes de propiedad privada, sujetándose a las leyes que sobre la materia se encuentren vigentes.
+
+El monto de la indemnización correspondiente podrá ser cubierta por el operador del sistema con cargo a los fondos de que disponga, provenientes de la recaudación del servicio, o con cargo a los fondos que por acuerdo especial se le otorguen en cada caso concreto.
 
 ###### ARTICULO 7o.
 
@@ -219,11 +225,13 @@ Las conexiones e instalaciones de tomas o de descargas de agua solicitadas será
 
 Comprobado el pago del importe del Presupuesto, el Organismo Operador ordenará la instalación de la toma o de la descarga de aguas.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 25.
 
-En los casos de nuevos fraccionamientos, los particulares interesados, solicitan del Organismo Operador el permiso correspondiente para la ampliación de la Red de Distribución, acompañando copia del Proyecto de fraccionamiento autorizado por la Dirección de Planificación y Urbanismo del Estado.
+En los casos de nuevos fraccionamientos, los particulares interesados, solicitarán del organismo operador el permiso correspondiente para la ampliación de la red de distribución, acompañando copia del proyecto de fraccionamiento autorizado por la Autoridad Municipal.
 
-El Organismo Operador del Sistema señalará en su caso el monto de la caución que debe otorgarse y calificará la forma de exhibirla, imponiendo a los permisionarios las obligaciones siguientes:
+El organismo operador del sistema señalará en su caso el monto de la caución que debe otorgarse y calificará la forma de exhibirla, imponiendo a los permisionarios las obligaciones siguientes:
 
 I.- Realizar la construcción de la obra con arreglo al proyecto aprobado y expensar todos los gastos que la misma ocasione.
 
@@ -285,129 +293,265 @@ Cuando el propietario de un giro no cumpla con la obligación que señalan los a
 
 Asimismo, hará las anotaciones correspondientes en el registro y padrón, sin perjuicio de que se impongan las sanciones procedentes.
 
+> <small>(REFORMADA SU DENOMINACION, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ### CAPITULO TERCERO
 
-DE LA OPERACION DE LOS SISTEMAS.
+DE LA COMISION DE AGUA POTABLE Y ALCANTARILLADO.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 36.
 
-La construcción, rehabilitación, ampliación, administración, operación, conservación y mantenimiento de los sistemas de agua potable, agua salada, alcantarillado y tratamiento de aguas residuales, así como el cobro de los derechos correspondientes estará a cargo de la Dirección de Aguas y Saneamiento del Estado de Baja California Sur, en coordinación con las Autoridades Municipales y Federales correspondientes.
+Los servicios públicos de agua potable y alcantarillado estarán a cargo de un organismo público descentralizado, con personalidad jurídica y patrimonio propio, de naturaleza mixta: Estatal y Municipal, que se denominará "Comisión de Agua Potable y Alcantarillado del Estado de Baja California Sur", cuya constitución y funcionamiento serán regulados por la presente Ley y disposiciones reglamentarias.
 
-El Director de Aguas y Saneamiento en coordinación con las Autoridades Municipales correspondientes designará a quien opere los sistemas de Agua Potable y Alcantarillado y que se haga cargo de las funciones a que se refiere el párrafo anterior.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 37.
 
-Los Administradores de Sistema de Agua Potable y Alcantarillado tendrán las siguientes facultades y obligaciones:
+Para el cumplimiento de su objetivo, la Comisión realizará las siguientes funciones:
 
-I.- Reanudar y manejar los derechos que cause el servicio y los fondos del sistema con sujeción a los presupuestos respectivos aprobados.
+I.- Planear, construir, rehabilitar, ampliar, operar, conservar y mejorar los sistemas de agua potable, agua desalada, alcantarillado, tratamiento y reuso de aguas residuales, en los términos de las Leyes Federales, Estatales y disposiciones Municipales.
 
-II.- Girar instrucciones al personal de Administración, Operación y Mantenimiento de los Sistemas, para el más eficaz desempeño de sus funciones.
+II.- Realizar los estudios y proyectos que sean necesarios para el cumplimiento de lo establecido en el inciso anterior y para el control de la contaminación del agua, en coordinación con las Autoridades competentes.
 
-III.- Prestar a los usuarios del Sistema, los servicios de Abastecimiento de Agua Potable y Alcantarillado.
+III.- Estudiar, dictaminar y proporcionar los servicios de agua potable y alcantarillado a los centros de población, fraccionamientos y particulares asentados dentro de los municipios del Estado, en los términos de las Leyes aplicables y convenios que para el efecto se celebren, proporcionando el asesoramiento técnico y administrativo.
 
-IV.- Imponer a los usuarios las sanciones que correspondan por las infracciones que cometan.
+IV.- Formular y mantener actualizado el Padrón de Usuarios de los servicios a su cargo.
 
-V.- Resolver sobre las solicitudes de tomas domiciliarias y conexiones de alcantarillado que se formulen.
+V.- Cobrar de acuerdo a las tarifas aprobadas por el Congreso Local los derechos correspondientes a la prestación de los servicios de agua y alcantarillado.
 
-VI.- Vigilar se mantenga al corriente el Padrón calificado de usuarios y el inventario del Sistema.
+VI.- Remitir a la Autoridad Fiscal del Municipio correspondiente, adeudos de los usuarios morosos, a fin de que se lleve a cabo su cobro mediante el procedimiento económico coactivo.
 
-VII.- Proveer a la constante vigilancia y mantenimiento del Sistema.
+VII.- Realizar las gestiones necesarias con el fin de obtener créditos y aportaciones económicas, promoviendo la constitución de fondos para el ejercicio de programas y cumplimiento de sus objetivos.
 
-VIII.- Remitir periódicamente a los Servicios Coordinados de Salud Pública, muestras de Agua Potable del Sistema para la verificación de su pureza.
+VIII.- Formular anualmente los estudios socio-económicos necesarios para el establecimiento de las tarifas conforme a las cuales deberán cobrarse los servicios a su cargo, y solicitar al Gobernador del Estado promueve la Iniciativa de Ley que corresponda.
 
-IX.- Someter a la consideración del Director de Agua y Saneamiento, la ampliación y mejora de las obras del sistema.
+IX.- Solicitar de las autoridades competentes, el trámite y decreto de expropiación, ocupación temporal o permanente, ocupación parcial o total, imposición de servidumbre administrativa, o limitación de los derechos de dominio de los bienes de propiedad privada, ejidales o cumunales, cuando se requiera de estas medidas para el cumplimiento de su objeto en los términos de las Leyes respectivas.
 
-X.- Vigilar que el personal de Administración, Operación y Mantenimiento del Sistema de Agua Potable y Alcantarillado cumplan con las obligaciones que esta Ley les impone.
+X.- Celebrar los convenios y contratos necesarios con organismos Federales, Estatales, Municipales o de centros de población, para el cumplimiento de sus funciones y atribuciones en la prestación del servicio.
 
-XI.- Vigilar que el pago de las cuotas por servicios y demás ingresos correspondan al Organismo se recauden con toda oportunidad y requerir en su caso a la Recaudación de Rentas correspondientes se proceda en ejercicio de la facultad económico-coativa, contra los usuarios morosos.
+XI.- Expedir su reglamento interior.
 
-XII.- Resolver sobre la ampliación o mejora de los Sistemas de Agua Potable y Alcantarillado y tomar en su caso a su cargo, la ejecución, la vigilancia y dirección técnica de las obras.
+XII.- Calificar e imponer las sanciones administrativas por las infracciones que cometan los usuarios de los servicios en los casos que proceda en términos de la presente Ley y sus reglamentos.
 
-XIII.- Resolver las quejas que se formulen por los usuarios sobre el funcionamiento y administración del Sistema.
+XIII.- Vigilar el funcionamiento de los organismos operadores y que sus bienes se encuentren debidamente inventariados, dándoseles el uso adecuado.
 
-XIV.- Estudiar y proponer en su caso, las tarifas que se aplicarán a los usuarios de los servicios, las que comprenderán, los gastos corrientes, depreciación y amortización de las obras, para mejoramiento y ampliación de los Sistemas.
+XIV.- Tramitar y resolver los recursos o medios impugnativos que les competan de acuerdo a lo establecido en la presente Ley.
 
-XV.- Concentrar las cantidades que reciba para la creación de las reservas de ampliación de la obra.
+XV.- Tramitar y resolver lo procedente en relación con las quejas que los usuarios presenten respecto del funcionamiento y operación de los sistemas.
 
-XVI.- Realizar las gestiones que sean necesarias a fin de obtener la cooperación o créditos que requiera para el cumplimiento de su objeto.
+XVI.- Practicar periódica y regularmente análisis de agua llevando el registro de los resultados, de las prestaciones, niveles de las redes de distribución y los volúmenes de agua consumida.
 
-XVII.- Solicitar a las autoridades competentes la expropiación, ocupación temporal, total o parcial de los bienes de propiedad particular, o la limitación de los derechos de dominio en los términos de la Ley de Expropiación vigente en el Estado. Cuando se requiera disponer de bienes ejidales o comunales para el cumplimiento del objeto y sus funciones se atenderá lo dispuesto por la Ley Federal de Reforma Agraria.
+XVII.- Auxiliar a las Autoridades en el control y prevención de la contaminación de aguas, así como planear, programar y construir en coordinación con estas Autoridades, las obras necesarias para ese efecto y para el reuso de aguas residuales, y
 
-XVIII.- Realizar las acciones que se requieran directa o indierectamente (sic) para el cumplimiento de su objeto y funciones.
+XVIII.- Las demás que le asigne la presente Ley y reglamentos relativos.
+
+Las obras de agua potable y alcantarillado se ejecutarán por la Comisión, la que podrá solicitar para el efecto, el asesoramiento de las dependencias Federales competentes, así como la revisión y aprobación de los proyectos en los términos de la Ley Federal para prevenir y controlar la contaminación ambiental y sus disposiciones reglamentarias.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 38.
 
-Para los efectos de esta Ley, cada administración del Sistema se considerará como Organismo Operador del mismo.
+El patrimonio de la Comisión se constituirá con:
+
+I.- Los bienes muebles e inmuebles, derechos y obligaciones y las instalaciones de los sistemas de agua potable y alcantarillado existentes en el Estado, que le sean entregados por las Autoridades Federales, Estatales y Municipales y los que se establezcan en el futuro dentro del Territorio de la Entidad.
+
+II.- Los subsidios, donaciones y aportaciones materiales, en valores y en efectivo que le hagan las autoridades, organismos públicos y privados, y las empresas y personas físicas.
+
+III.- Los remanentes, frutos, utilidades y rentas que obtenga de su propio patrimonio, así como los intereses que se produzcan en su favor como rendimiento de fondos disponibles e inversiones.
+
+IV.- Los ingresos derivados por las cuotas, tarifas y derechos que se cobren a los usuarios de los sistemas, por los servicios de agua potable y alcantarillado, así fuere por el procedimiento económico coactivo, y por cualquier otro crédito a su favor.
+
+V.- Las aportaciones que le corresponda cubrir a los núcleos de población que soliciten obras de agua potable o alcantarillado, de acuerdo con los convenios de cooperación que sobre el particular celebren con la Comisión.
+
+VI.- Los subsidios que otorguen los Gobiernos Federales, Estatal y Municipal.
+
+Los ingresos que obtenga la Comisión por la prestación de los servicios a su cargo, así como los demás recursos de que disponga, deberá destinarlos únicamente par el cumplimiento de su objetivo.
+
+Cuando el Gobierno Federal, Estatal o Municipal, otorguen apoyo económico a la Comisión, ésta vigilará que se utilice únicamente en los fines para los que haya sido concedido.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 39.
 
-Los ingresos que obtenga el Organismo Operador por prestación de los servicios a su cargo, así como los demás recursos de que disponga, deberá invertilos (sic) únicamente en la construcción, rehabilitación, ampliación, operación, administración, conservación y mejoramiento de los sistemas a su cargo.
+La Comisión ejercerá sus funciones a través de los siguientes órganos de Gobierno:
 
-Cuando el Gobierno Federal otorgue apoyo económico, la Dirección de Aguas y Saneamiento deberá vigilar que se utilice exclusivamente en los fines para los que haya sido concedido.
+I.- Consejo Directivo.
+
+II.- Organismos Operadores.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO CUARTO
 
-DE LA DIRECCION DE AGUAS Y SANEAMIENTO.
+DE LA OPERACION DE LOS SISTEMAS.
+
+###### ARTICULO 39-A.
+
+El Consejo Directivo es la suprema autoridad de la Comisión y se integrará con:
+
+I.- Un Presidente, que será el Gobernador del Estado, o la persona que éste designe.
+
+II.- Vocales que serán, los Presidentes Municipales de cada uno de los Ayuntamientos de la Entidad, o la persona que estos designen, así como un representante del H. Congreso del Estado.
+
+III.- Un Secretario, que será nombrado de común acuerdo entre el C. Gobernador y los CC. Presidentes Municipales.
+
+El Consejo Directivo sesionará ordinariamente cuando menos una vez al año, por un período máximo de diez días durante la segunda quincena del mes de enero, y en forma extraordinaria cuando así lo solicite cualesquiera de sus miembros previa convocatoria con ocho días de anticipación.
+
+Habrá quórum cuando concurran el Presidente, el Secretario y más de la mitad de los Vocales del Consejo. Sus decisiones se tomarán pro mayoría de votos, teniendo el Presidente voto de calidad en caso de empate de los presentes. El Secretario tendrá voz, más no voto en el seno del Consejo.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 39-B.
+
+Son facultades del Consejo Directivo:
+
+I.- Dictar las normas que regirán el funcionamiento de la Comisión de Agua Potable y Alcantarillado y de cada uno de los órganos que la integren y establecer los criterios que deben orientar sus actividades.
+
+II.- Determinar anualmente, con base en los estudios socio-económicos que presenten los organismos operadores, las propuestas que hagan y tomando en consideración los requerimientos que permitan la autosuficiencia financiera y administrativa de los Sistemas y de la Comisión, las tarifas que deberán pagar los usuarios de los servicios públicos que regula la presente Ley, y someterlos por conducto del Gobernador, a la consideración y aprobación del Congreso del Estado.
+
+III.- Aprobar dentro de la Sesión Ordinaria, los balances anuales, así como los informes generales y especiales que deberá presentar el Vocal Ejecutivo.
+
+IV.- Crear y establecer los Organismos Operadores que se estime necesarios para el manejo de los Sistemas.
+
+V.- Resolver los asuntos que le someta el Vocal Ejecutivo.
+
+VI.- Aprobar los programas de trabajo de los organismos operadores y sus presupuestos de ingresos y egresos resolviendo los asuntos que se sometan a su consideración.
+
+VII.- Elaborar el Reglamento Interior de la Comisión.
+
+VIII.- Designar el Vocal Ejecutivo de la Comisión.
+
+IX.- Aprobar los programas y construcción de nuevos sistemas de agua potable y alcantarillado.
+
+X.- Las demás que le sean conferidas por los ordenamientos vigentes.
+
+DE LAS ATRIBUCIONES.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 39-C.
+
+Son atribuciones del Presidente del Consejo:
+
+I.- Presidir las Sesiones Ordinarias y Extraordinarias del Consejo.
+
+II.- Iniciar el trámite de expropiación o de cualesquiera otra de la limitaciones legales de la propiedad que acuerde el Consejo Directivo, cuando estas medidas se requieran para cumplir los objetivos de la Comisión.
+
+III.- Las demás que le señale esta Ley y sus disposiciones reglamentarias.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 39-D.
+
+Son atribuciones del Secretario:
+
+I.- Concurrir a las Sesiones del Consejo Directivo y dar fe de los asuntos que se traten y de los acuerdos que se tomen, los que consignará en actas que deberán firmar los asistentes a dichas Sesiones, entregando copia a cada uno.
+
+II.- Informar a los miembros del Consejo, el resultado de la ejecución de los acuerdos tomados.
+
+III.- Llevar el archivo y correspondencia del Consejo Directivo de la Comisión.
+
+IV.- Llevar la firma mancomunada con el Vocal Ejecutivo de las cuentas bancarias que se utilicen para el manejo de los fondos y valores, y
+
+V.- Las demás que le señale esta Ley y sus disposiciones reglamentarias.
+
+DE LOS PRESIDENTES MUNICIPALES
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 39-E.
+
+Son atribuciones de los Presidentes Municipales integrantes del Consejo:
+
+I.- Concurrir a las reuniones del Consejo Directivo, y proponer lo relacionado con la construcción, ampliación, rehabilitación y operación de los Sistemas que se encuentren en sus correspondientes Municipios.
+
+II.- Proponer las cuotas o tarifas que estimen deban cobrarse por los servicios de agua potable y alcantarillado, o la modificación de las mismas, así como las obras de mejoramiento y ampliación de los sistemas.
+
+III.- Presentar al Consejo para su aprobación, los presupuestos de ingresos y egresos de los Organismos Operadores respectivos.
+
+IV.- Proponer ante el Vocal Ejecutivo la designación de los Administradores de los Organismos Operadores en su respectiva jurisdicción.
+
+V.- Supervisar el exacto cumplimiento de las atribuciones de los Organismos Operadores en su jurisdicción.
+
+VI.- Las demás que les señale esta Ley y sus disposiciones reglamentarias.
+
+> <small>(REFORMADO Y REUBICADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 40.
 
-Los Organismos Operadores están obligados a cumplir con las normas, políticas y lineamientos que para la administración, operación, conservación y mantenimiento de los sistemas, establezca la Dirección de Aguas y Saneamiento del Estado, debiendo atender las observaciones que ésta formule como resultado del ejercicio de sus funciones.
+Son atribuciones del Vocal Ejecutivo:
 
-Asimismo, los Organismos Operadores someterán anualmente a esta última para su aprobación, los proyectos de Presupuestos anuales de inversión y gasto corriente y sus programas de trabajo.
+I.- Ejecutar los acuerdos y decisiones del Consejo Directivo.
+
+II.- Representar al Consejo en los Asuntos relacionados con la operación de los sistemas, y con el personal de los mismos, con facultades de Apoderado General.
+
+III.- Vigilar el funcionamiento de los Organismos Operadores, así como la aplicación estricta de sus respectivos presupuestos de ingresos y egresos, proveyendo lo necesario para su correcto ejercicio.
+
+IV.- Vigilar que los Organismos Operadores cumplan con las Leyes y Reglamentos Federales y Estatales, así como con los ordenamientos municipales aplicables en la materia.
+
+V.- Llevar la firma mancomunada con el Secretario del Consejo Directivo de las cuentas bancarias que se utilicen para el manejo de los fondos y valores manejados por la Comisión.
+
+VI.- Proponer por escrito al Consejo Directivo las medidas adecuadas para el mejor funcionamiento de la Comisión y Organismos Operadores.
+
+VII.- Rendir informes mensuales al Consejo Directivo, de las actividades que hubiese realizado en relación con su cargo, y de la situación general que guarde la Comisión.
+
+VIII.- Supervisar el ejercicio de los programas y presupuestos de los Organismos Operadores evaluándolo y efectuando auditorías cuando se estime necesario y que serán efectuadas por personal de la Comisión.
+
+IX.- Realizar los actos de dominio que en relación con los bienes de la Comisión, le encomiende y autorice el Consejo Directivo.
+
+X.- Someter a la consideración y aprobación del Consejo Directivo, los presupuestos de ingresos y egresos de los Sistemas de Agua Potable y Alcantarillado de la Entidad, que formulen estos.
+
+XI.- Elaborar y proponer al Consejo Directivo los reglamentos e instructivos de funciones, atribuciones y labores de sus oficinas y organización en general.
+
+XII.- Vigilar se mantenga actualizado el padrón de usuarios de los sistemas de agua potable y alcantarillado de la Entidad.
+
+XIII.- Representar a la Comisión con todas las facultades generales y especiales establecidas en el Código Civil vigentes en el Estado, con la única salvedad de las restricciones que señale la presente Ley. Pudiendo formular denuncias y querellas, sustituir o delegar el poder, absolver y articular posiciones por la Comisión.
+
+XIV.- Formular y mantener actualizado el inventario de los bienes y recursos que integran los sistemas de agua potable, agua desalinizada, drenaje y alcantarillado.
+
+XV.- Revisar los estados financieros de los Organismos Operadores.
+
+XVI.- Establecer programas de capacitación y adiestramiento para el personal de los Organismos Operadores.
+
+XVII.- Designar a los Administradores de los Organismos Operadores.
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 41.
 
-El Titular del Poder Ejecutivo Estatal, por conducto de la Dirección de Aguas y Saneamiento establecerá las normas, políticas, lineamientos, bases y especificaciones conforme a las cuales deberá efectuarse la construcción, ampliación rehabilitación, organización, administración, operación, conservación y mantenimiento de los sistemas de agua potable y alcantarillado de los centros de población e industrias del Estado, supervisando su cumplimiento.
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 1983)
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 42.
 
-Corresponde a la Dirección de Aguas y Saneamiento:
+Los Organismos Operadores serán los encargados de la administración, operación, conservación, mantenimiento, y manejo de los Sistemas de Agua Potable y Alcantarillado establecidos o por establecer en las poblaciones de la Entidad, de acuerdo con las normas políticas y lineamiento que establezca la Comisión y dentro del marco jurídico Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-I.- Establecer los lineamientos de política en la materia, así como determinar las normas y criterios técnicos aplicables, conforme a los cuales deberán prestarse los servicios públicos de agua potable y alcantarillado y realizarse las obras que para ese efecto se requieran.
-
-II.- Realizar en coordinación con las autoridades correspondientes los estudios, investigaciones, planes y proyectos, que sean necesarios para el mejor uso y distribución del agua a los centros de población e industrias, construcción, rehabilitación, ampliación, operación, administración, conservación y mejoramiento de los sistemas de agua potable y alcantarillado, plantas desaladoras de agua, plantas para el tratamiento de aguas residuales y obras para el control de la contaminación del agua.
-
-III.- Autorizar las obras de construcción, rehabilitación y ampliación de los sistemas de agua potable, alcantarillado, desalación de agua y tratamiento de aguas residuales a cargo de los organismos operadores.
-
-IV.- Asesorar técnicamente a los organismos operadores.
-
-V.- Ejecutar las obras que requieran los sistemas, cuando lo soliciten los organismos operadores o se utilicen exclusivamente fondos del Estado.
-
-VI.- Realizar a solicitud de los organismos operadores el mantenimiento de los sistemas.
-
-VII.- Formular y mantener actualizado el inventario de los bienes y recursos que integran los sistemas de agua potable, agua desalada y alcantarillado.
-
-VIII.- Vigilar que los organismos operadores cumplan con las leyes y reglamentos federales y estatales, así como con los ordenamientos aplicables en la materia.
-
-IX.- Intervenir en las negociaciones que se realicen para la obtención de créditos y financiamientos a favor de los organismos operadores.
-
-X.- Vigilar que los organismos operadores practiquen el control de calidad del agua, en los términos de las disposiciones legales aplicables.
-
-XI.- Celebrar convenios y contratos necesarios para el cumplimiento de sus funciones.
-
-XII.- Autorizar los programas y presupuestos de los organismos operadores, supervisando su ejercicio.
-
-XIII.- Revisar y autorizar los estados financieros de los organismos operadores.
-
-XIV.- Establecer programas de capacitación y adiestramiento para el personal de los organismos operadores.
-
-XV.- Evaluar los programas responsabilidad de los organismos operadores.
-
-XVI.- Designar y remover libremente a los Administradores de los organismos operadores.
-
-XVII.- Revisar y en su caso, aprobar los estudios tarifarios formulados por los organismos operadores para la determinación y establecimiento de las tarifas conforme a las cuales deberá cobrarse la prestación de los servicios.
-
-XVIII.- Efectuar auditorías en los organismos operadores de los sistemas de agua potable, agua desalada, drenaje y alcantarillado.
-
-XIX.- Tramitar y resolver lo procedente en relación con las quejas que presenten los usuarios por deficiencias en el servicio o cobros indebidos.
-
-XX.- Ejercer las demás atribuciones que establezca esta Ley y otras disposiciones legales vigentes.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 43.
 
-La Dirección de Aguas y Saneamiento del Estado, establecerá las normas y lineamientos conforme a los cuales los organismos operadores deberán constituir en alguna institución nacional de crédito un fondo para financiar los programas anuales de obras de agua potable y alcantarillado en la entidad.
+Los Organismos Operadores, tendrán entre otras las siguientes funciones:
 
-Este fondo se constituirá con los porcentajes que previamente establezca la Dirección de Aguas y Saneamiento, de los recursos que se generen por la aplicación de las tarifas, deduciendo los gastos normales de operación, administración y conservación de los sistemas; así como el pago de pasivos.
+I.- Prestar los servicios de abastecimiento de agua potable y alcantarillado a los usuarios de las poblaciones en que operen.
+
+II.- Autorizar conexiones a la red de alcantarillado y la instalación de tomas de agua potable.
+
+III.- Elaborar anualmente sus respectivos proyectos de presupuestos de ingresos y egresos, así como sus programas de trabajo, y someter unos y otros a la consideración y aprobación de la Comisión, por conducto del Vocal que corresponde o del Vocal Ejecutivo.
+
+IV.- Recaudar las cuotas que deben cubrirse por los servicios que preste el organismo y hacer su concentración física y contable.
+
+V.- Manejar los fondos del Organismo Operador de acuerdo con los presupuestos, normas y procedimientos dictados para tal efecto.
+
+VI.- Turnar para su cobro a la Autoridad Fiscales las liquidaciones de los adeudos de los usuarios que no se hubiesen pagado oportunamente.
+
+VII.- Ordenar las visitas, inspecciones y verificaciones y controles en relación con los servicios y ejecutar las reparaciones necesarias inmediatas de los desperfectos o fallas que se hayan observado.
+
+VIII.- Consignar ante el Vocal Ejecutivo, los casos de infracciones cometidas por los usuarios, para efecto de que se apliquen las sanciones que correspondan, así como la comisión de hechos delictuosos, para su respectiva denuncia al Ministerio Público.
+
+IX.- Informar a la Comisión, las necesidades para la conservación y rehabilitación de los sistemas, así como de ampliaciones y sus respectivos presupuestos de obras para su estudio y aprobación.
 
 ### CAPITULO QUINTO
 
@@ -423,9 +567,11 @@ Las tarifas serán diferenciales de acuerdo al consumo efectuado y al uso autori
 
 Los Organismos Operadores de los Sistemas formularán anualmente un estudio tarifario con base en el cual deberán establecerse, revisarse y modificarse en su caso, las tarifas conforme a las cuales se cobrará la prestación de los servicios de Agua Potable y Alcantarillado.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 46.
 
-Los estudios a que se refiere el artículo anterior serán sometidos a la consideración y en su caso aprobación de la Dirección de Aguas y Saneamiento, para ser remitidos oportunamente al Congreso del Estado.
+Los estudios a que se refiere el Artículo anterior serán sometidos a la consideración y en su caso aprobación de la Comisión de Agua Potable y Alcantarillado, para ser remitidos oportunamente al Congreso del Estado.
 
 ###### ARTICULO 47.
 
@@ -561,6 +707,12 @@ En vista de la inspección a la que se refiere el artículo 61, el Organismo Ope
 
 Esta resolución deberá notificarse al interesado para los efectos del Artículo 68, 71 y 72 de esta Ley, y del pago del importe de la reparación del aparato.
 
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
+c) Del pago.
+
+(REUBICADO, B.O. 26 DE DICIEMBRE DE 1983)
+
 ###### ARTICULO 71.
 
 Los usuarios de los sistemas están obligados al pago de los derechos por el uso de los servicios de agua potable y alcantarillado; de acuerdo a las tarifas conforme al siguiente orden de prelación.
@@ -575,17 +727,25 @@ b).- Cuando no exista propietario, el poseedor del predio.
 
 III.- Los arrendatarios del predio o locales que tengan servicio de agua potable, en sustitución del propietario. Los pagos se harán directamente en las Oficinas del Organismo Operador o en la institución que éste autorice.
 
+(REUBICADO, B.O. 26 DE DICIEMBRE DE 1983)
+
 ###### ARTICULO 72.
 
 Queda prohibido sin excepción alguna el otorgamiento de condonación o exenciones por el pago de derechos de conexión o por los servicios que presten los Organismos Operadores, ya se trate de particulares, dependencias federales, estatales o municipales, entidades paraestatales, instituciones educativas o de asistencia pública o privada.
+
+(REUBICADO, B.O. 26 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 73.
 
 Las personas obligadas a pagar las cuotas por servicio de agua potable y alcantarillado deberán cubrirlas en las Oficinas Recaudadores que establezca el Organismo Operador.
 
+(REUBICADO, B.O. 26 DE DICIEMBRE DE 1983)
+
 ###### ARTICULO 74.
 
 Cuando no pueda determinarse el consumo de agua en virtud de desarreglo del medidor por causas no imputables al propietario, poseedor o encargado del predio, giro o establecimiento, las cuotas por el servicio de agua se cobrarán promediando el importe de lo causado en los tres meses anteriores y el servicio se cobrará aplicando la tarifa en vigor.
+
+(REUBICADO, B.O. 26 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 75.
 
@@ -593,17 +753,21 @@ Cuando no pueda verificarse el consumo de agua por desarreglos en los medidores,
 
 En caso de que la descarga del albañal se haya destruido intencionalmente o por causas imputables a los usuarios o poseedores de los predios, giros o establecimientos en que se halle instalada, éstos deberán cubrir el precio de la reparación, de acuerdo con los costos vigentes.
 
+(REUBICADO, B.O. 26 DE DICIEMBRE DE 1983)
+
 ###### ARTICULO 76.
 
 Para los efectos del artículo anterior, se presumirá que los desperfectos del medidor fueron causados intencionalmente por el propietario o poseedor, cuando estén habitando el predio en que aquél se encuentre instalado. Si el predio está ocupado por personas distintas, ya sea a título gratuito o en virtud de arrendamiento, el desperfecto no será imputable al propietario y se aplicará lo dispuesto en el artículo 71.
 
 Si el medidor fuese destruido por causas imputables al propietario o poseedor, el precio del mismo será cobrado al propietario del inmueble o del establecimiento en que se encuentre instalado, más el importe de la mano de obra por la instalación, independientemente de la sanción correspondiente.
 
+> <small>(REFORMADO Y REUBICADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 77.
 
-Los propietarios o poseedores de los predios, giros o establecimientos que se surtan de agua por medio de las derivaciones que autoriza esta Ley, deberán pagar al Organismo Operador la cuota correspondiente al diámetro de la derivación si la toma no tiene medidor; si hay medidor, se pagará la cuota que señale el Organismo, con la aprobación de la Dirección General de Aguas y Saneamiento, por la derivación.
+Los propietarios o poseedores de los predios, giros o establecimientos que se surtan de agua por medio de las derivaciones que autoriza esta Ley, deberán pagar al Organismo Operador la cuota correspondiente al diámetro de la derivación, si la toma no tiene medidor; si hay medidor, se pagará la cuota que señale el Organismo, con la aprobación de la Comisión de Agua Potable y Alcantarillado.
 
-Cuando se autorice la derivación, el interesado está obligado a cubrir al Organismo Operador el importe correspondiente a la instalación de la toma de agua. Al establecerse este servicio, dichas personas tendrán derecho preferente a la instalación de una toma, sin necesidad de efectuar el pago respectivo.
+(REUBICADO, B.O. 26 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 78.
 
@@ -611,17 +775,25 @@ En el caso de edificios sujetos al régimen de propiedad en condominio, los prop
 
 Mientras no se instalen los medidores, las cuotas serán determinadas conforme a cuotas fijas que señalen las tarifas respectivas y su pago estará a cargo de la administración del edificio.
 
+(REUBICADO, B.O. 26 DE DICIEMBRE DE 1983)
+
 ###### ARTICULO 79.
 
 Cuando un edificio construido que tenga instalada una sola toma de agua, pase al régimen de propiedad en condominio, el Organismo Operador podrá autorizar, si no existiere inconveniente que la totalidad del edificio siga surtiéndose de agua de dicha toma eximiéndose a los propietarios de cada piso, departamento, vivienda o local, de instalar aparato medidor individual.
+
+(REUBICADO, B.O. 26 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 80.
 
 Los usuarios que no cubran a tiempo los adeudos a su cargo, deberán cubrir los recargos de acuerdo al Código Fiscal vigente en el Estado; quedan incluídos los adeudos por conexión de tomas de servicios, así como los derechos que se causen por cooperación para las obras del servicio de agua potable y alcantarillado dentro de la población, que hubieren sido aprobados previamente.
 
+(REUBICADO, B.O. 26 DE DICIEMBRE DE 1983)
+
 ###### ARTICULO 81.
 
 Los propietarios o poseedores de predios, giros mercantiles o industriales, cualesquiera que estos sean, deberán garantizar por medio de depósito y antes de la instalación de la toma de agua, el importe del aparato medidor y los derechos por conexión del servicio y el importe correspondiente a dos mensualidades para cuyo efecto se aplicará la tarifa que se encuentre en vigor.
+
+(REUBICADO, B.O. 26 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 82.
 
@@ -759,9 +931,11 @@ En todos los casos en que conforme a las disposiciones de esta Ley el Organismo 
 
 DE LOS RECURSOS.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 97.
 
-Contra resoluciones y actos de los Organismos Operadores, procederán los recursos de reconsideración y revisión, los cuales se tramitarán en la forma y términos que establezca esta Ley, Código Fiscal y su Reglamento.
+Contra resoluciones y actos de los Organismos Operadores, procederán los recursos de reconsideración y revisión, los cuales se tramitarán en la forma y términos que establezca esta Ley.
 
 Asimismo, quien se considere afectado o lesionado por actos, conducta o resoluciones de funcionarios o personal al servicio de los Organismos Operadores, tendrán derecho de hacer valer la queja correspondiente contra las personas que resulten responsables.
 
@@ -836,3 +1010,21 @@ B.O. 31 DE DICIEMBRE DE 1982.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE DICIEMBRE DE 1983.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1ro. De Enero de 1984, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+El personal que labora en la Dirección de Aguas y Saneamiento del Estado, pasará a la Comisión de Agua Potable y Alcantarillado, sin menoscabo de sus derechos y será aplicable en lo conducente la Ley para los trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur.
+
+###### ARTICULO TERCERO.
+
+Los bienes inmuebles, muebles, instalaciones, maquinaria y enseres de la Dirección de Aguas y Saneamiento, pasará a formar parte de los bienes de la Comisión de Agua Potable y Alcantarillado.
+
+###### ARTICULO CUARTO.
+
+Se autoriza a la Comisión de Agua Potable y Alcantarillado a gestionar la consolidación de activos y substitución de deudora de pasivos de la Dirección de Aguas y Saneamiento del Estado y de los Municipios, previa la aprobación de éstos y de la Institución acreedora.
