@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-del-articulo-7-de-la-ley-organica-del-poder-22320"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-03"
-last_updated: "2001-10-03"
+last_updated: "2002-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO DEL ARTICULO 7 DE LA LEY ORGANICA DEL PODER JUDICIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2002.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de octubre de 2001.
 
@@ -43,9 +43,11 @@ El presente ordenamiento establece las reglas para el otorgamiento del haber por
 
 Los Magistrados tendrán derecho a que, con cargo al presupuesto anual que la Legislatura del Estado destine al Poder Judicial, se les asigne un haber por retiro.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2002)</small>
+
 ###### Artículo 3.
 
-El haber por retiro es la remuneración económica que se otorga a los Magistrados del Tribunal Superior de Justicia que se encuentren en situación de retiro y que consiste en un porcentaje del ingreso mensual que corresponda a los Magistrados en activo, comprendiendo no sólo el sueldo presupuestal, sino también las compensaciones, aguinaldos, bonos y cualesquier otro emolumento.
+El haber por retiro es la remuneración, económica que se otorga a los Magistrados del Tribunal Superior de Justicia que se encuentran en situación de retiro y que consiste en un porcentaje del ingreso mensual que corresponda a los Magistrados en activo, comprendiendo sólo el sueldo presupuestal, las compensaciones ordinarias y el aguinaldo, quedando al arbitrio del Pleno del Tribunal Superior de Justicia el otorgamiento de bonos u otros emolumentos.
 
 ###### Artículo 4.
 
@@ -114,3 +116,9 @@ LIC. FELIPE BORREGO.
 EL SECRETARIO GENERAL DE ACUERDOS
 
 LIC. JUAN VÍCTOR M. GONZÁLEZ CARRETÓN.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE ENERO DE 2002.
+
+UNICO.- El presente acuerdo de modificación entrara en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
