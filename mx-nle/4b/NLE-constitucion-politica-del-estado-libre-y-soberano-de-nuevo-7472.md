@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1973-05-16"
+last_updated: "1975-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 1975.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -215,23 +215,37 @@ II.- Tener veintiún años cumplidos el día de la elección; y
 
 III.- Ser vecino del Estado, con residencia no menor de cinco años inmediatos anteriores a la fecha de la elección.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 ###### Art. 48.
 
-No pueden ser diputados:
+No pueden ser Diputados:
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1942)</small>
 
 I.- El Gobernador del Estado.
 
-II.- El Secretario de Gobierno.
+> <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
+
+II.- El Secretario de Gobierno y los otros Secretarios del Despacho del Ejecutivo.
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1942)</small>
 
 III.- Los Magistrados del Tribunal Superior de Justicia ni el Procurador General de Justicia.
 
-IV.- El Tesorero del Estado.
+> <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
+
+IV.- El Secretario de Finanzas y Tesorero General del Estado.
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1942)</small>
 
 V.- Los funcionarios y empleados federales en el Estado.
 
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1942)</small>
+
 VI.- Los Presidentes Municipales, por los Distritos en donde ejercen autoridad; y
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 1942)</small>
 
 VII.- Los Jefes Militares con mando de fuerza, sea federal o del Estado.
 
@@ -301,9 +315,15 @@ La Legislatura llamada a sesiones extraordinarias no podrá ocuparse de otros ne
 
 Si las sesiones extraordinarias se prolongan hasta el tiempo en que deban comenzar las ordinarias, cesarán aquéllas y durante éstas se despacharán de preferencia los asuntos que motivaron la convocatoria y que hayan quedado pendientes.
 
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
+
 ###### Art. 62.
 
-Podrán asistir al Congreso, entre los Diputados, algún Magistrado del Superior Tribunal de Justicia por encargo de éste, el Secretario de Gobierno y el Tesorero General del Estado a tratar negocios concernientes a sus respectivos ramos de administración; se les concederá el uso de la palabra del mismo modo que a los Diputados, pero no votarán.
+Los Secretarios del Despacho del Ejecutivo podrán ocurrir al Congreso, previa autorización del Gobernador del Estado,, (sic) para informar sobre los asuntos de su ramo.
+
+Siguiendo el mismo procedimiento, el Congreso podrá citar a cualquiera de dichos Funcionarios para que exponga sus puntos de vista sobre asuntos de importancia substancial y de la materia de su competencia, cuando se discuta una iniciativa de ley o decreto que les concierna.
+
+Los Magistrados del Tribunal Superior de Justicia del Estado únicamente ocurrirán para los casos a que se refieren las fracciones XVI y XXVIII del artículo 63 de esta Constitución.
 
 ###### Art. 63.
 
@@ -363,9 +383,9 @@ XXI.- Nombrar al Gobernador interino o sustituto del Estado, en los casos que pr
 
 XXII.- Aprobar, en su caso, los nombramientos que haga el Gobernador del Estado de los Magistrados del Tribunal Superior de Justicia, así como aprobar las renuncias y licencias de los mismos funcionarios sometidas al Ejecutivo del Estado en los términos de los artículos 85 Fracción XX, 97 y 98.
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1928)</small>
+> <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
 
-XXIII.- Nombrar al Tesorero General del Estado, a propuesta en terna del Ejecutivo.
+XXIII.- Nombrar al Secretario de Finanzas y Tesorero General del Estado, a propuesta en terna del Ejecutivo.
 
 XXIV.- Conceder o negar al Gobernador licencia temporal para separarse de su puesto y para salir fuera del Estado, y designar a la persona que deba suplirle interinamente.
 
@@ -375,7 +395,9 @@ XXVI.- Conceder o negar a los menores habilitación de edad para administrar sus
 
 XXVII.- Autorizar al Ejecutivo para crear fuerzas de servicio temporal cuando lo demanden las necesidades del Estado.
 
-XXVIII.- Erigirse en Gran Jurado para declarar si ha o no lugar a formación de causa, cuando por delitos comunes fueren acusados los Diputados, el Gobernador, los Magistrados, el Procurador de Justicia, el Secretario General de Gobierno y el Tesorero General del Estado, en los términos del art. 106 de esta Constitución.
+> <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
+
+XXVIII.- Erigirse en Gran Jurado para declarar si ha o no lugar a formación de causa, cuando por delitos comunes fueren acusados los Diputados, el Gobernador, los Magistrados, el Procurador General de Justicia y cualquiera de los Secretarios del Despacho del Ejecutivo del Estado, en los términos del Artículo 106 de esta Constitución.
 
 XXIX.- Conocer como Jurado de Declaración de los delitos y faltas cometidos en el ejercicio de su cargo por los Funcionarios de que habla el articulo anterior, conforme a lo preceptuado por el art. 108 de esta Constitución.
 
@@ -449,9 +471,9 @@ V.- Manifestar su opinión por escrito al Gobernador, en los casos en que éste 
 
 VI.- Ejercer las facultades a que se refieren los artículos 52, 63 en sus fracciones IV, XV, XXI, XXXVI y XXXVII, 89, 90, 91, 97 y 98 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1968)</small>
+> <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
 
-VII.- Nombrar interinamente al Tesorero General del Estado, a propuesta en terna del Poder Ejecutivo, y aprobar los nombramientos que haga el Gobernador del Estado de los Magistrados del Tribunal Superior de Justicia, cuando la falta absoluta ocurra durante un receso del Congreso, en los términos previstos por los Artículos 97 y 98.
+VII.- Nombrar interinamente al Secretario de Finanzas y Tesorero General del Estado, a propuesta en terna del Poder Ejecutivo, y aprobar los nombramientos que haga el Gobernador del Estado de los Magistrados del Tribunal Superior de Justicia, cuando la falta absoluta ocurra durante un receso del Congreso, en los términos previstos por los artículos 97 y 98.
 
 VIII.- Recibir los expedientes de elecciones de todos los mandatarios públicos del Estado y practicar, para la renovación del Congreso, lo que prescribe la Ley Electoral y el Reglamento interior del mismo.
 
@@ -499,17 +521,19 @@ Sancionada la ley, el Gobernador la hará publicar en la Capital y la circulará
 
 Los decretos que sólo interesen a persona determinada se tendrán por publicados con su inserción en el "Periódico Oficial".
 
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
+
 ###### Art. 77.
 
-Se publicarán las leyes usando esta fórmula:
+Se publicarán las leyes usando esta fórmula: …
 
-"N.....,Gobernador Constitucional del Estado Libre y Soberano de Nuevo León, a todos sus habitantes hago saber: que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+"N_______,Gobernador Constitucional del Estado Libre y Soberano de Nuevo León, a todos sus habitantes hago saber: Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
-(Aquí el Texto literal)
+(AQUI EL TEXTO LITERAL)
 
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en...etc"
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en...etc.."
 
-Lo firmará el Gobernador del Estado y su Secretario.
+Lo firmarán el Gobernador del Estado, el Secretario General de Gobierno y el Secretario del Despacho que corresponda.
 
 ###### Art. 78.
 
@@ -541,7 +565,11 @@ I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con vecindad en e
 
 II.- Tener cuando menos treinta años cumplidos para el día de la elección y no más de sesenta y cinco.
 
-No pueden ser electos para Gobernador del Estado, el Secretario General de Gobierno, los Magistrados, el Procurador de Justicia, los empleados federales ni los militares de la Federación o del Estado que en servicio activo residan en el mismo.
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
+
+No pueden ser electos, para Gobernador del Estado, el Secretario General de Gobierno y los Secretarios del Despacho del Ejecutivo, los Magistrados, el Procurador General de Justicia, los Empleados Federales y los Militares de la Federación que en servicio activo residan en el Estado.
+
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 Para que los comprendidos en este artículo puedan ser electos necesitan separarse absolutamente de sus puestos cuando menos ciento ochenta días antes de la elección.
 
@@ -627,9 +655,9 @@ XXII.- Remitir al Congreso, con el informe respectivo, los proyectos de presupue
 
 XXIII.- Rendir los informes a que se refiere la fracción XIII del art. 63.
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1928)</small>
+> <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
 
-XXIV.- Proponer terna al Congreso para Tesorero General del Estado y removerlo libremente, enviando nueva terna al Congreso
+XXIV.- Proponer terna al Congreso para Secretario de Finanzas y Tesorero General del Estado, y removerlo libremente enviando nueva terna al Congreso.
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 1972)</small>
 
@@ -647,13 +675,13 @@ XXVII Ejercer las demás atribuciones que le confieren esta Constitución y las 
 
 No puede el Gobernador:
 
-REFORMADA, P.O. 28 DE ABRIL DE 1928)
+> <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
 
-I.- Ausentarse del Estado por más de 15 días sin licencia del Congreso o de la Diputación Permanente en su caso.
+I.- Ausentarse del Estado por más de treinta días sin autorización para hacerlo, del Congreso o de la Diputación Permanente, en su caso.
 
-Cuando el Gobernador se ausentare del Estado por un término mayor de tres días y menor de quince, deberá dar aviso al Congreso o a la Diputación Permanente en el receso de aquel.
+Cuando el Gobernador se ausentare del Estado, por un término mayor de cinco días y menor de treinta, deberá dar aviso al Congreso o a la Diputación Permanente, en el receso de aquél.
 
-Para salir fuera de la República necesita en todo caso licencia del Congreso o de la Diputación Permanente.
+Para salir fuera de la República necesita en todo caso, para hacerlo, autorización del Congreso o de la Diputación Permanente.
 
 II.- Impedir o embarazar con pretexto alguno las elecciones populares ni la reunión y deliberación del Congreso.
 
@@ -663,23 +691,27 @@ IV.- Imponer contribución alguna que no esté prevista por ley o decreto.
 
 V.- Mandar inmediata y personalmente, en campaña, la Guardia Nacional y demás fuerzas del Estado, sin haber obtenido permiso de la Legislatura o de la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1928)</small>
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 ###### Art. 87.
 
-Para el Despacho de los negocios de todos los Ramos habrá un solo Secretario de Gobierno, quien deberá tener los mismos requisitos que se necesitan para ser Gobernador del Estado, y éste lo nombrará y removerá a su arbitrio.
+En el Estado habrá un Secretario General de Gobierno quien tendrá las facultades especiales que le confiere esta Constitución, y, para ocupar el cargo, deberá reunir los requisitos exigidos para ser Gobernador, quien lo nombrará y removerá a su arbitrio.
+
+El Gobernador podrá designar, en los términos de la Ley Orgánica de la Administración Pública del Estado, otros Secretarios del Despacho del Ejecutivo a los que, así mismo, podrá remover libremente.
+
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 ###### Art. 88.
 
-Ninguna orden del Gobernador se tendrá como tal, si no es que vaya firmada por el Secretario o por quien lo sustituya legalmente; y ambos serán responsables de todas las órdenes que firmen.
+Ninguna orden del Gobernador se tendrá como tal, si no va firmada por el Secretario General de Gobierno y por el Secretario del Despacho que corresponda, o por quienes deban substituirlos legalmente. Los firmantes serán responsables de dichas órdenes.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1928)</small>
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 ###### Art. 89.
 
-Cuando el Congreso otorgare al Gobernador licencia para ausentarse del Estado por treinta días o menos, o el Gobernador se encontrare impedido por igual término, quedará encargado del Poder Ejecutivo el Secretario General de Gobierno, quien desempeñará el cargo hasta que el Gobernador Interino que se nombre otorgue la protesta de Ley. En estos casos el Oficial Mayor o el Jefe del Departamento Primero de la Secretaría de Gobierno refrendará la firma del Encargado del Poder Ejecutivo.
+Cuando el Congreso otorgare al Gobernador licencia para ausentarse del Estado por treinta días o menos, o el Gobernador se encontrare impedido por igual término, quedará encargado del Despacho de los asuntos del trámite el Secretario que designe el Gobernador. A falta de designación expresa el Encargado será el Secretario General de Gobierno, quien desempeñará el cargo hasta que el Gobernador Interino que se nombre otorgue la protesta de Ley. En estos casos, el Oficial Mayor o el Jefe del Departamento Primero de la Secretaría de Gobierno refrendará la firma de Encargado del Poder Ejecutivo.
 
-Si la licencia fuere por más de treinta días o en caso de impedimento del Gobernador debidamente comprobado, el Congreso o la Diputación Permanente en su caso nombrará al ciudadano que se encargue interinamente del Poder Ejecutivo.
+Si la licencia fuere por más de treinta días o en caso de impedimento del Gobernador debidamente comprobado, el Congreso o la Diputación Permanente, en su caso, nombrará al ciudadano que se encargue interinamente del Poder Ejecutivo.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
 
@@ -717,15 +749,27 @@ La potestad de aplicar las leyes en lo civil y criminal pertenece al Poder Judic
 
 La Justicia se administrará en nombre de la ley; las ejecutorias y provisiones de los Tribunales se encabezarán por ellos mismos en nombre del Estado, en la forma que las leyes prescriban.
 
-(REFORMADO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 ###### Art. 97.
 
-Los nombramientos de los Magistrados del Tribunal Superior de Justicia serán hechos por el C. Gobernador del Estado y sometidos a la aprobación de la Legislatura Local, la que resolverá fundadamente dentro del improrrogable término de cinco días. Si la Legislatura no resolviera dentro de dicho término se tendrán por aprobados los nombramientos. Sin la aprobación del Congreso no podrán tomar posesión los Magistrados del Tribunal Superior de Justicia. En caso de que la Legislatura no apruebe los primeros nombramientos, el Gobernador hará un segundo nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de la Legislatura en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros cinco días, el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba, o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso desecha el nombramiento, cesará desde luego en sus funciones de Magistrado provisional, y el Gobernador someterá nuevo nombramiento a la aprobación del Congreso en los términos señalados. Los Magistrados definitivos serán inamovibles, salvo que observen mala conducta, acepten desempeñar otro empleo o encargo de la Federación, Estados, Municipios, o particulares, excepto los servicios de Educación o por ser condenados en juicio de responsabilidad, en cuyo caso serán castigados con la pérdida del cargo.
+El nombramiento de los Magistrados del Tribunal Superior de Justicia será hecho por el C. Gobernador del Estado y, deberá ser ratificado por el H. Congreso, dentro del término de cinco días hábiles. Transcurrido dicho término se tendrá por ratificado.
+
+En caso que el H. Congreso del Estado no ratifique el nombramiento, el C. Gobernador hará una segunda designación que surtirá sus efectos, desde luego, como provisional, y que será sometida a la ratificación del Congreso en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los cinco primeros días hábiles, el Congreso ratificará o no el nombramiento. Si lo ratifica, el Magistrado nombrado provisionalmente continuará en sus funciones.
+
+Si el Congreso no ratifica el nombramiento cesará desde luego en sus funciones el Magistrado provisional, y el Gobernador someterá nueva designación a la aprobación del Congreso.
+
+Transcurridos dos años después del nombramiento, el Congreso del Estado, a propuesta del Gobernador, confirmará el nombramiento respectivo por un plazo de cuatro años.
+
+Si el Congreso no hace la confirmación, se hará por el Gobernador nuevo nombramiento siguiendo las formalidades previstas en el párrafo anterior.
+
+Al término del plazo de cuatro años, a propuesta del Ejecutivo, el Congreso declarará la inmovilidad en el cargo, la cual se perderá solamente por mala conducta, cuando incurran en faltas de probidad u honradez, negligencia en el desempeño de sus labores, sean condenados por sentencia ejecutoriada en juicio de responsabilidad, acepten desempeñar otro empleo o encargo de la Federación, Estados, Municipios o particulares, excepto los servicios de Educación, sean jubilados en los términos legales o renuncien a su puesto.
+
+Si el Congreso no hace la declaración de inamovilidad, el Gobernador hará nueva designación.
 
 Será Presidente del Tribunal el que por elección designen sus miembros, en la forma y términos que determine la Ley Orgánica.
 
-El Ministerio Público, institución que tiene por objeto velar la exacta observancia de la Leyes de interés general, será desempeñado por un Procurador General de Justicia y por los Agentes de dicho Ministerio y sus Suplentes, en su caso, nombrados todos por el Ejecutivo. Una Ley reglamentaria determinará la organización y funcionamiento del Ministerio Público en el Estado.
+El Ministerio Público, institución que tiene por objeto velar por la exacta observancia de las Leyes de interés general, será desempeñado por un Procurador General de Justicia, dos Sub-Procuradores y por los Agentes de dicho Ministerio y sus Suplentes, en su caso, nombrados todos por el Ejecutivo. Una Ley reglamentaria determinará la organización y funcionamiento del Ministerio Público en el Estado.
 
 (REFORMADO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
 
@@ -799,15 +843,15 @@ Los Tribunales y Jueces no pueden ejercer otras funciones que las de juzgar y pr
 
 Ningún funcionario o empleado de la administración de justicia podrá ser abogado, apoderado en negocios agenos (sic), asesor, arbitro de derecho o arbitrador ni tener comisión alguna del Gobierno, excepto las de Instrucción Pública.
 
-(REFORMADO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 ###### Art. 103.
 
-Los Jueces de Primera Instancia serán nombrados por el Tribunal Superior de Justicia en Pleno, a propuesta en ternas del Ejecutivo. Serán inamovibles salvo que observen mala conducta, acepten desempeñar otro empleo o en cargo de la Federación, Estados, Municipios o particulares, excepto los servicios de Educación, o por ser condenados en juicio de responsabilidad, en cuyos casos, serán castigados con la pérdida del cargo.
+Los Jueces de Primera Instancia serán nombrados por el Tribunal Superior de Justicia en Pleno, a propuesta del Ejecutivo.
 
-Las renuncias de los Jueces de Letras solamente proceden por causas graves y se presentarán ante el Tribunal Superior de Justicia.
+Transcurrido un año después del nombramiento, el Tribunal, a propuesta del Gobernador, confirmará el mismo, para que surta efectos durante un lapso de tres años.
 
-La Ley orgánica respectiva determinará su número, ramo, jurisdicción y lugar de residencia y establecerá los requisitos para obtener estos cargos públicos.
+Al término del plazo de tres años, a propuesta del Ejecutivo, el Tribunal declarará la inamovilidad en el cargo, la cual se perderá solamente por mala conducta, cuando incurran en faltas de probidad u honradez, negligencia en el desempeño de sus labores, sean condenados por sentencia ejecutoria en juicio de responsabilidad, acepten desempeñar otro empleo o encargo de la Federación, Estados, Municipios o particulares, excepto los servicios de Educación, sean jubilados en los términos legales o renuncien a su puesto.
 
 (REFORMADO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
 
@@ -823,11 +867,11 @@ de los Funcionarios Públicos.
 
 Todos los Funcionarios Públicos del Estado y Municipales son responsables, por los delitos y faltas del órden común en que incurran en el desempeño de sus respectivas funciones, en los términos que lo prevengan las leyes.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1968)</small>
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 ###### Art. 106.
 
-Cuando se trate de los Diputados, el Gobernador, los Magistrados, el Procurador General de Justicia, el Secretario General de Gobierno y el Tesorero General del Estado si el delito fuere común, el Congreso, erigido en Gran Jurado, declarará por no menos de dos terceras partes de los miembros que lo forman, si se tratare del Gobernador y por mayoría absoluta de éstos en los demás casos, y previa audiencia del acusado, si hay lugar o no a formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior. En el afirmativo el acusado queda, por ese solo hecho, separado de su cargo y sujeto a la acción de los tribunales comunes.
+Cuando se trate de los Diputados, el Gobernador, los Magistrados, el Procurador General de Justicia y los Secretarios del Despacho del Ejecutivo del Estado, si el delito fuere común, el Congreso, erigido en Gran Jurado, declarará por no menos de dos terceras partes de los miembros que lo forman, si se tratare del Gobernador, y por mayoría absoluta de éstos en los demás casos y previa audiencia del acusado, si ha lugar o no a formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior. En el afirmativo, el acusado queda, por ese solo hecho, separado de su cargo y sujeto a la acción de los Tribunales Comunes.
 
 ###### Art. 107.
 
@@ -973,17 +1017,17 @@ La Hacienda del Estado se compone de los edificios del mismo, de las aguas que n
 
 Anualmente, en la segunda quincena del mes de Octubre, el Ejecutivo presentará al Congreso un proyecto de presupuesto general, para su discusión y aprobación.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1928)</small>
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 ###### Art. 135.
 
-Será Jefe de la Hacienda Pública del Estado el Tesorero General.
+Será Jefe de la Hacienda Pública del Estado, el Secretario de Finanzas y Tesorero General del Estado.
 
-No podrá recaudar ninguna cantidad por concepto de impuesto o contribución que no esté basado en la Ley emanada del Congreso y sancionado por el Ejecutivo.
+No podrá recaudar ninguna cantidad por concepto de impuestos o contribuciones que no estén basados en la ley emanada del Congreso y sancionada por el Ejecutivo.
 
-No se hará ningún Egreso sin órden escrita del Gobernador y que esté previamente autorizado por Ley o Decreto del Congreso.
+No se hará ningún egreso sin orden escrita del Gobernador y que esté previamente autorizado por la ley o decreto del Congreso.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1968)</small>
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 ## TITULO X.
 
@@ -991,13 +1035,13 @@ Prevenciones Generales.
 
 ###### Art. 136.
 
-El Tesorero General del Estado enviará al Ejecutivo, en la segunda quincena de Enero de cada año, una memoria circunstanciada del estado que guarda la Hacienda Pública al final del ejercicio fiscal anterior.
+El Secretario de Finanzas y Tesorero General del Estado enviará al Ejecutivo, en la segunda quincena de enero de cada año, una memoria circunstanciada del Estado que guarda la Hacienda Pública al final del ejercicio fiscal anterior.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1928)</small>
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 ###### Art. 137.
 
-El Tesorero General del Estado y todos los empleados de Hacienda que tengan manejo de caudales públicos, otorgarán previamente ante el Ejecutivo, fianza suficiente para garantizar su manejo a juicio del mismo Ejecutivo.
+El Secretario de Finanzas y Tesorero General del Estado y todos los empleados de Hacienda que tengan manejo de caudales públicos, otorgarán previamente ante el Ejecutivo, fianza suficiente para garantizar su manejo a juicio del mismo Ejecutivo.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1928)</small>
 
@@ -1383,10 +1427,6 @@ P.O. 22 DE JULIO DE 1942.
 
 Estas reformas empezarán a regir el día de su publicación en el Periódico Oficial del Estado.
 
-P.O. 30 DE DICIEMBRE DE 1942.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
-
 P.O. 23 DE JUNIO DE 1943.
 
 > <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL "DECRETO No. 73 INTERPRETACIÓN AUTÉNTICA DEL INCISO b) DEL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
@@ -1396,6 +1436,10 @@ PRIMERO:— De los términos del Decreto Número 40 publicado en el Periódico O
 SEGUNDO: — En consecuencia: A contar del 4 de Octubre de 1946, nadie que haya ocupado el puesto de Gobernador provisional o interinamente, o con cualquier otro carácter durante los segundos tres años de un período Gubernamental podrá ser electo para ese mismo cargo en el período Constitucional inmediato.
 
 TERCERO :— En la forma que antecede queda interpretada Jurídicamente la disposición contenida en el Inciso b) del Artículo 84 de la Constitución Política del Estado y fijado su alcance por el H. Congreso Local.
+
+P.O. 30 DE DICIEMBRE DE 1942.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
 
 P.O. 30 DE ABRIL DE 1947.
 
@@ -1486,3 +1530,9 @@ UNICO:- El presente Decreto entrará en vigor, al día siguiente al de su public
 P.O. 16 DE MAYO DE 1973.
 
 UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE FEBRERO DE 1975.
+
+PRIMERO:- Las presentes reformas entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO:- En relación con las reformas a los artículos 97 y 103 de la Constitución Política del Estado de Nuevo León, surtirán sus efectos con respecto a los nombramientos que durante su vigencia se realicen.
