@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1984-04-03"
+last_updated: "1990-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 1990.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -361,7 +361,7 @@ f) Los adquirentes de predios, en relación al impuesto y sus accesorios insolut
 
 g) Cuando se construya al amparo de una licencia municipal a nombre de determinada persona, distinta de quien aparezca como adquirente en el acto o contrato translativo celebrado con la fraccionadora o propietaria, el constructor será el responsable del Impuesto sobre Transmisiones Patrimoniales, causado con motivo del contrato celebrado con la persona a nombre de quien se autorizó la licencia para construir; ya que, para los efectos de este Impuesto, se considera que hubo una operación translativa de propiedad, por la sola circunstancia de que la licencia de construcción se solicite y expida a nombre de una persona que, posteriormente, no aparezca como adquirente, en un contrato celebrado con la fraccionadora o con el propietario, salvo prueba en contrario;
 
-X. Los representantes legales de los sujetos de gravámenes, en forma subsidiaria excepto los apoderados para pleitos y cobranzas;
+X. Los representantes legales de los sujetos de gravámenes, en forma subsidiaria excepto los apoderados para pleitos y cobranzas.
 
 XI. Los comisionistas, respecto de los créditos, fiscales a cargo de sus comitentes, derivados de operaciones motivo del contrato de comisión y los comitentes por los créditos fiscales a cargo de los comisionistas, por las operaciones relativas al mismo contrato; y
 
@@ -1869,9 +1869,11 @@ Excepcionalmente, cuando por razones contingentes, la Hacienda Pública Municipa
 
 Para los efectos de esta Ley, la cuenta pública del Municipio está constituida por los estados contables y financieros, y demás información que muestre el registro de las operaciones derivadas de la aplicación de las Leyes de Ingresos y del ejercicio del gasto público municipal, la incidencia de las mismas operaciones y de otras cuentas en el activo y pasivo totales de la Hacienda municipal, y en un patrimonio neto, incluyendo el origen y aplicación de los recursos, así como el resultado de las operaciones del Ayuntamiento y los estados detallados de la Deuda Pública Municipal.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1990)</small>
+
 ###### Art. 223.
 
-La revisión de las cuentas anuales que deben presentar los Ayuntamientos de la entidad, y la glosa de dichas cuentas, de acuerdo a lo dispuesto por el párrafo segundo del Art. 13 de la Constitución Política del Estado, estarán a cargo del Congreso.
+La revisión de las cuentas anuales que deben presentar los Ayuntamientos de la Entidad, y la glosa de dichas cuentas, de acuerdo a lo dispuesto por los Arts. 23, frac. IV y el párrafo tercero, de la frac. III. del Art. 37, de la Constitución Política del Estado, estarán a cargo del Congreso.
 
 ###### Art. 224.
 
@@ -2255,9 +2257,11 @@ VIII. El depositario interventor que tuviere conocimiento de irregularidades en 
 
 Si las medidas urgentes que dicten los depositarios interventores en los casos previstos en la frac. VIII del artículo anterior, no fuesen acatadas por el deudor o el personal de la negociación secuestrada, la Tesorería Municipal ordenará de plano que el depositario interventor se convierta en administrador, o sea substituido por un depositario administrador, quien tomará posesión de su cargo desde luego.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 1990)</small>
+
 ###### Art. 276.
 
-El embargo de derechos reales o posesorios sobre bienes inmuebles o de negociaciones de cualquier género, se inscribirá en el Registro Público de la Propiedad y del Comercio y en la Dirección de Catastro de la Tesorería General del Estado.
+El embargo de derechos reales o posesorios sobre bienes inmuebles o de negociaciones de cualquier género, se inscribirá en el Registro Público de la propiedad y del Comercio y en la Dirección de Catastro de la Secretaría de Finanzas del Estado.
 
 La inscripción en la última Dependencia se verificará, cuando no se encuentren registrados los bienes en la primera. Cuando los bienes raíces o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Registro Público de la Propiedad y del Comercio, o Delegaciones de Catastro, en todas ellas se inscribirá el secuestro.
 
@@ -2702,3 +2706,9 @@ Lic. Enrique Alvarez del Castillo
 El Secretario General de Gobierno
 
 Lic. Eugenio Ruiz Orozco
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE MARZO DE 1990.
+
+Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
