@@ -4,7 +4,7 @@ identifier: "PUE-estatuto-del-servicio-electoral-profesional-del-instituto-38281
 country: "mx"
 rank: "estatuto"
 publication_date: "2001-08-03"
-last_updated: "2003-04-07"
+last_updated: "2004-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 ESTATUTO DEL SERVICIO ELECTORAL PROFESIONAL DEL INSTITUTO ELECTORAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2004.
 
 Estatuto publicado en la Quinta Sección del Periódico Oficial del Estado Puebla, el viernes 3 de agosto de 2001.
 
@@ -175,7 +175,9 @@ Catálogo: El Catálogo General de Cargos del Instituto;
 
 Código: El Código de Instituciones y Procesos Electorales del Estado de Puebla;
 
-Comisión: La Comisión Permanente Administrativa y de Servicio Electoral Profesional;
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+Comisión: La Comisión Permanente del Servicio Electoral profesional;
 
 Consejero Presidente: El Consejero Presidente del Consejo General del Instituto;
 
@@ -183,9 +185,13 @@ Consejo: El Consejo General del Instituto;
 
 Cuerpos: La forma en que se clasifica y organiza la función institucional dentro del Servicio Electoral Profesional con la finalidad de racionalizar las estructuras ocupacionales en un ámbito de profesionalización;
 
-Departamento: El Departamento de Formación y Desarrollo, adscrito a la Subdirección del Servicio Electoral Profesional;
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
-Dirección Administrativa: La Dirección Administrativa y de Servicio Electoral Profesional;
+Departamento: El Departamento de Formación y Desarrollo, adscrito a la Unidad del Servicio Electoral profesional;
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+Dirección Administrativa: La Dirección Administrativa;
 
 Direcciones: Las Direcciones que integran la Junta Ejecutiva;
 
@@ -217,7 +223,9 @@ Puestos: Las denominaciones que se atribuyen en la estructura ocupacional para u
 
 Servicio: El Servicio Electoral Profesional;
 
-Subdirección del Servicio: La Subdirección del Servicio Electoral Profesional, adscrita a la Dirección Administrativa y de Servicio Electoral Profesional; y
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+Unidad del Servicio: La Unidad del Servicio Electoral Profesional, adscrita al Consejo General; y
 
 Unidades Técnicas: La Secretaría General y la Contraloría Interna.
 
@@ -257,31 +265,35 @@ IV. Dotar al Instituto del personal calificado para garantizar su desempeño pro
 
 El servicio es un sistema de carrera compuesto por los procesos de Ingreso; Capacitación, Formación y Desarrollo Profesional; Evaluación; Promoción, Ascenso e Incentivos; y Sanción.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 8.
 
-El Servicio se organizará y desarrollará a través de la Dirección Administrativa, quien se apoyará para tal fin en la Subdirección del Servicio, de conformidad con las disposiciones del Código, del presente Estatuto y de los acuerdos, lineamientos y demás disposiciones que emitan el Consejo y la Junta en el ámbito de su competencia.
+El Servicio se organizará y desarrollará a través de la Unidad del Servicio, de conformidad con las disposiciones del Código, del presente Estatuto y de los acuerdos, lineamientos y demás disposiciones que emitan el Consejo y la Junta en el ámbito de su competencia.
 
 ###### ARTÍCULO 9.
 
 La operación y desarrollo del Servicio deberá basarse en la igualdad de oportunidades, los conocimientos necesarios, el desempeño adecuado, la evaluación permanente, la transparencia de los procesos, el apego a los principios rectores de la función estatal de organizar las elecciones y la competencia de sus miembros.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 10.
 
-Las Direcciones y Unidades Técnicas del Instituto deberán proporcionar a la Dirección Administrativa la información y el apoyo necesario para el adecuado cumplimiento de sus funciones.
+Las Direcciones y Unidades Técnicas del Instituto deberán proporcionar a la Unidad del Servicio la información y el apoyo necesario para el adecuado cumplimiento de sus funciones.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 11.
 
-La Subdirección del Servicio apoyara a la Dirección Administrativa, en la integración y actualización del archivo documental del personal, el cual contendrá un expediente de cada miembro del Servicio en activo.
+La Unidad del Servicio integrará y actualizará el archivo documental del personal, el cual contendrá un expediente de cada miembro del Servicio en activo.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 12.
 
-La antigüedad del personal del Servicio para efectos de la relación de trabajo se computará a partir de la fecha en que haya ingresado al Instituto. La antigüedad en el Servicio, se computará a partir de la obtención de la titularidad y sólo se tomarán en cuenta los periodos efectivos en los que se desempeñe.
+La antigüedad del personal del Servicio para efectos de la relación de trabajo se computará a partir de la fecha en que haya ingresado al Instituto. La antigüedad en el Servicio, se computará a partir de la obtención de la titularidad, hasta en tanto se mantenga la relación laboral.
 
 ### CAPÍTULO TERCERO. DE LA COMPETENCIA
 
@@ -297,11 +309,15 @@ II. Aprobar las convocatorias para ingresar al Servicio;
 
 III. Aprobar las reformas al Estatuto, que para tal efecto le proponga la Junta a través del Consejero Presidente;
 
-IV. Facultar a la Dirección Administrativa, para organizar, implementar y desarrollar el Servicio;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+IV. Facultar a la Unidad de Servicio, para organizar, implementar y desarrollar el Servicio;
 
 V. Requerir a la Comisión, a través de su Presidente, los informes específicos en materia del Servicio que considere necesarios;
 
-VI. Ratificar al Subdirector del Servicio Electoral Profesional; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+VI. Nombrar al Jefe de la Unidad del Servicio; y
 
 VII. Las demás que le confiera el Código y el presente Estatuto.
 
@@ -315,9 +331,13 @@ I. Suscribir convenios con instituciones con el propósito de organizar e impart
 
 II. Presidir la Junta e informar al Consejo de los trabajos de la misma referentes al Servicio;
 
-III. Someter a la aprobación del Consejo a propuesta del Director General las convocatorias para el Ingreso al Servicio; y
+III. Someter a la aprobación del Consejo a propuesta del Director General las convocatorias para el Ingreso al Servicio; y (sic)
 
-IV. Las demás que le confiera el Código y el presente Estatuto.
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2004)</small>
+
+IV. Expedir los nombramientos del personal de las Unidades Técnicas o dependientes del Consejo General; y
+
+V. Las demás que le confiera el Código y el presente Estatuto.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -327,13 +347,19 @@ Corresponde a la Junta:
 
 I. Proponer al Consejo a través del Consejero Presidente, los proyectos de reformas al Estatuto;
 
-II. Fijar a propuesta de la Dirección Administrativa, una vez hechas las sugerencias pertinentes por la Comisión, la operación de los procesos del Servicio, conforme a las políticas y programas generales aprobados por el Consejo;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-III. Evaluar el desempeño del Servicio y de los procesos que contempla, considerando los informes que para tal efecto le presente la Dirección Administrativa;
+II. Fijar a propuesta de la Unidad del Servicio, una vez hechas las sugerencias pertinentes por la Comisión, la operación de los procesos del Servicio, conforme a las políticas y programas generales aprobados por el Consejo;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+III. Evaluar el desempeño del Servicio y de los procesos que contempla, considerando los informes que para tal efecto le presente la Unidad del Servicio;
 
 IV. Aprobar el diseño curricular de los cursos de capacitación, formación y desarrollo profesional para el personal del Instituto;
 
-V. Aprobar y emitir los acuerdos de Incorporación al Servicio que le presente la Dirección Administrativa a propuesta de la Subdirección del Servicio;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+V. Aprobar y emitir los acuerdos de Incorporación al Servicio que le presente la Unidad del Servicio;
 
 VI. Otorgar la titularidad a los miembros del Servicio;
 
@@ -353,23 +379,33 @@ Corresponde a la Comisión:
 
 I. Conocer, analizar y hacer sugerencias al anteproyecto de políticas y programas, así como los objetivos generales de los procesos del Servicio, antes de su presentación a la Junta;
 
-II. Proponer a la Dirección Administrativa, para su oportuna presentación a la Junta, las reformas al Estatuto del Servicio;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+II. Proponer a la Unidad del Servicio, para su oportuna presentación a la Junta, las reformas al Estatuto del Servicio;
 
 III. Presentar los informes, dictámenes o proyectos de resolución que le solicite el Consejo;
 
 IV. Solicitar al Director General su colaboración en las tareas encomendadas a la Comisión;
 
-V. Solicitar a la Dirección Administrativa su colaboración e información necesaria para el cumplimiento de sus tareas;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+V. Solicitar a la Unidad del Servicio su colaboración e información necesaria para el cumplimiento de sus tareas;
 
 VI. Conocer, con suficiente oportunidad antes de su presentación a la Junta, y emitir opinión sobre los anteproyectos o las propuestas de cambio de la organización y normas del funcionamiento operativo de los procesos del Servicio;
 
-VII. Conocer y opinar sobre las actividades de la Dirección Administrativa relacionadas con los procesos del Servicio;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+VII. Conocer y opinar sobre las actividades de la Unidad del Servicio relacionadas con los procesos del Servicio;
 
 VIII. Supervisar, en los términos que establezca el Consejo, el desarrollo de las funciones o de los proyectos del Departamento en las áreas de atención que le corresponda y solicitar la incorporación de análisis, estudios e investigaciones específicas en el programa de trabajo del Departamento;
 
-IX. Supervisar las funciones del Departamento, por conducto de la Dirección Administrativa relacionadas con el desarrollo del personal del Servicio, Administrativo y Eventual del Instituto; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-X. Las demás que le confiera el Código y el presente Estatuto.
+IX. Supervisar las funciones del Departamento, por conducto de la Unidad del Servicio, relacionadas con el desarrollo del personal del Servicio, Administrativo y Eventual del Instituto; y
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+X. Las demás que le confiera el Código y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -377,7 +413,9 @@ X. Las demás que le confiera el Código y el presente Estatuto.
 
 Corresponde al Director General:
 
-I. Supervisar a la Dirección Administrativa en la orientación, coordinación y cumplimiento de las acciones de la Subdirección del Servicio;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+I. Expedir el nombramiento, con base en los procedimientos establecidos en este Estatuto al personal de las Unidades Administrativas;
 
 II. Expedir el nombramiento, con base en los procedimientos establecidos en este Estatuto, a los integrantes del Servicio, personal Administrativo y Eventual;
 
@@ -387,51 +425,73 @@ IV. Plantear al Consejo, a través del Consejero Presidente, las bases de la con
 
 V. Las demás que le confiera el Código y el presente Estatuto.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ### CAPÍTULO SEGUNDO. DE LAS SANCIONES
 
 ###### ARTÍCULO 18.
 
 Corresponde a la Dirección Administrativa:
 
-I. Elaborar el proyecto de Manual de Organización y el Catálogo;
+I. Determinar lugar y calendario de pago al personal del Instituto; y;
 
-II. Llevar al cabo los programas de Reclutamiento, Selección, Contratación, Formación y Desarrollo del personal del Servicio, Administrativo y Eventual;
+II. Las demás que confiera el Código y el presente Estatuto.
 
-III. Cumplir y hacer cumplir, en el ámbito de su competencia, las normas, derechos, obligaciones y procedimientos del Servicio;
-
-IV. Determinar lugar y calendario de pago al personal del Instituto; y
-
-V. Las demás que confiera el Código y el presente Estatuto.
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 19.
 
-Corresponde a la Subdirección del Servicio:
+Corresponde a la Unidad del Servicio:
 
-I. Dar cuenta a la Dirección Administrativa de la ejecución de los procesos del Servicio para obtener eficiencia en los trabajos electorales y alcanzar de esta forma que todo funcionario del Instituto cumpla con los principios de legalidad, imparcialidad, objetividad, certeza e independencia, en los términos previstos en el presente ordenamiento y de conformidad con los procedimientos aprobados por la Junta;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-II. Elaborar, proponer y administrar, las políticas y programas relativos al Servicio que presente la Dirección Administrativa a la Junta;
+I. Dar cuenta al Consejo General de la ejecución de los procesos del Servicio para obtener eficiencia en los trabajos electorales y alcanzar de esta forma que todo funcionario del Instituto cumpla con los principios de legalidad, imparcialidad, objetividad, certeza e independencia, en los términos previstos en el presente ordenamiento y de conformidad con los procedimientos aprobados por la Junta;
 
-III. Proponer al titular de la Dirección Administrativa, el diseño curricular de los cursos de Formación, Capacitación y Actualización para aspirantes, miembros del Servicio y el personal Administrativo y Eventual;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+II. Elaborar, proponer y administrar, las políticas y programas relativos al Servicio que se presenten a la Junta;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+III. Elaborar el diseño curricular de los cursos de Formación, Capacitación y Actualización para aspirantes, miembros del Servicio y el personal Administrativo y Eventual;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
 
 IV. Establecer mecanismos para fomentar, recibir, procesar, responder y tomar en cuenta en el diseño de los procesos del Servicio las sugerencias y opiniones del personal;
 
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
+
 V. Cumplir y hacer cumplir el Estatuto en el ámbito de su competencia;
 
-VI. Proponer al titular de la Dirección Administrativa, los proyectos de convocatorias y exámenes para el personal Eventual para que éste los haga del conocimiento de la Junta, previo conocimiento de la Comisión;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-VII. Proponer al titular de la Dirección Administrativa, el anteproyecto de reformas al Estatuto;
+VI. Proponer los proyectos de convocatorias y exámenes para el personal Eventual a la Junta, previo conocimiento de la Comisión;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+VII. Formular el anteproyecto de Estatuto que regirá a los integrantes del Servicio Electoral Profesional, así como las modificaciones que el mismo deba sufrir;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
 VIII. Coadyuvar en la elaboración de los informes anuales que la Comisión planee entregar al Consejo relacionados con los objetivos o actividades del Servicio;
 
-IX. Presentar al titular de la Dirección Administrativa los informes que considere pertinentes o los que ésta le solicite;
+IX. (DEROGADA, P.O. 1 DE MARZO DE 2004)
 
-X. Proponer el anteproyecto de Manual de Organización y el Catálogo al titular de la Dirección Administrativa;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-XI. Integrar un Archivo Informático y Documental actualizado del historial de los miembros del Servicio, del personal Administrativo y Eventual del Instituto, que contenga un expediente por cada miembro debidamente foliado por sección y, respecto a los procedimientos administrativos para la imposición de sanciones; y
+X. Elaborar el anteproyecto de Manual de Organización y el Catálogo de Cargos y Puestos del Instituto;
 
-XII. Las demás que le confiera el presente Estatuto.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XI. Integrar un Archivo Informático y Documental actualizado del historial del personal del Instituto;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XII. Llevar al cabo los programas de Reclutamiento, Selección, Contratación, Formación y Desarrollo del personal del Servicio, Administrativo y Eventual; y
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XIII. Las demás que le confiera el presente Estatuto y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -453,7 +513,9 @@ VI. Diseñar exámenes para la Evaluación periódica de los conocimientos que d
 
 VII. Calificar los exámenes a los que se refieren las fracciones II y VI del presente artículo;
 
-VIII. Dentro del ámbito de sus atribuciones, presentar al titular de la Subdirección del Servicio, informe mensual de sus actividades; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+VIII. Dentro del ámbito de sus atribuciones, presentar al titular de la Unidad del Servicio, informe mensual de sus actividades; y
 
 IX. Las demás que le confieran las disposiciones normativas aplicables.
 
@@ -465,11 +527,13 @@ IX. Las demás que le confieran las disposiciones normativas aplicables.
 
 El Catálogo establecerá la clasificación y descripción de los Puestos aprobados por el Consejo que integran la estructura orgánica del Instituto.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 22.
 
-La elaboración del Catálogo, así como sus actualizaciones, estará a cargo de la Dirección Administrativa con apoyo de la Subdirección del Servicio, y se someterá a la aprobación del Consejo. El Catálogo será actualizado anualmente y deberá tomar en cuenta la estructura de las áreas del Instituto y las políticas y programas generales aprobadas por el Consejo.
+La elaboración del Catálogo, así como sus actualizaciones, estará a cargo de la Unidad del Servicio, y se someterá a la aprobación del Consejo. El Catálogo será actualizado cuando se requiera y deberá tomar en cuenta la estructura de las áreas del Instituto y las políticas y programas generales aprobadas por el Consejo.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ### CAPÍTULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
@@ -481,7 +545,7 @@ III. DE LA RECLAMACIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 23.
 
-La Dirección Administrativa, considerando la opinión de las demás Direcciones y Unidades Técnicas, podrá hacer propuestas respecto a la estructura de Puestos exclusivos del Servicio. Dichas propuestas serán sometidas a consideración de la Junta para su aprobación e inclusión en el Catálogo.
+La Unidad del Servicio, considerando la opinión de las demás Direcciones y Unidades Técnicas, podrá hacer propuestas respecto a la estructura de Puestos exclusivos del Servicio. Dichas propuestas serán sometidas a consideración de la Junta para su aprobación e inclusión en el Catálogo.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -527,13 +591,13 @@ El personal del Servicio se integrará en dos Cuerpos de funcionarios y ocupará
 
 El personal del Servicio se integrará por los miembros del Servicio, provisionales y titulares.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 28.
 
-El personal del Servicio deberá desempeñar sus funciones en forma exclusiva dentro del Servicio y no podrá realizar otra actividad, Puesto o comisión remunerados, salvo que medie previa autorización del titular de la Dirección Administrativa, quien la deberá otorgar con el acuerdo del Director General, tomando en cuenta los principios, necesidades, intereses del Instituto y el desarrollo profesional del miembro del Servicio, considerando la opinión del superior jerárquico.
+El personal del Servicio deberá desempeñar sus funciones en forma exclusiva dentro del Servicio y no podrá realizar otra actividad, Puesto o comisión remunerados, salvo que medie previa autorización del titular de la Unidad del Servicio, quien la deberá otorgar con el acuerdo del Director General, tomando en cuenta los principios, necesidades, intereses del Instituto y el desarrollo profesional del miembro del Servicio, considerando la opinión del superior jerárquico.
 
 ###### ARTÍCULO 29.
 
@@ -679,11 +743,13 @@ III. Ganar el Concurso de Oposición.
 
 El Concurso de Oposición, será la vía privilegiada para la ocupación de vacantes y el acceso al Servicio.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 43.
 
-Los procedimientos para realizar los Concursos de Oposición se establecerán en los acuerdos y las convocatorias que expida la Junta, a propuesta de la Dirección Administrativa.
+Los procedimientos para realizar los Concursos de Oposición se establecerán en los acuerdos y las convocatorias que expida la Junta, a propuesta de la Unidad del Servicio.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 El Director General invitará a los integrantes del Consejo para presenciar la aplicación de los procedimientos para realizar dichos concursos.
 
@@ -721,13 +787,17 @@ Una vez cubiertos los requisitos anteriores, los interesados deberán aprobar lo
 
 I. DEL RECLUTAMIENTO Y SELECCIÓN DE ASPIRANTES
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 45.
 
-La Subdirección del Servicio aplicará el procedimiento de reclutamiento a los aspirantes a ingresar al Servicio. Se considerarán aspirantes los solicitantes externos y el Personal del Instituto que haya cubierto los requisitos normativos correspondientes.
+La Unidad del Servicio aplicará el procedimiento de reclutamiento a los aspirantes a ingresar al Servicio. Se considerarán aspirantes los solicitantes externos y el Personal del Instituto que haya cubierto los requisitos normativos correspondientes.
 
-La Dirección Administrativa aplicará el procedimiento de selección de los aspirantes que hayan cubierto los requisitos normativos en el procedimiento de reclutamiento, y dará cuenta a la Junta de la lista de aspirantes que considere aptos para ingresar al Servicio.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+La Unidad del Servicio aplicará el procedimiento de selección de los aspirantes que hayan cubierto los requisitos normativos en el procedimiento de reclutamiento, y dará cuenta a la Junta de la lista de aspirantes que considere aptos para ingresar al Servicio.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 El procedimiento de reclutamiento y selección de aspirantes tendrá por objeto asegurar la idoneidad del personal que ingrese al Servicio.
 
@@ -753,11 +823,17 @@ I. Aprobará el método de operación, así como los formatos generales de los e
 
 II. Expedirá una convocatoria, para aspirantes ajustándose a lo dispuesto en el artículo 49, del presente Estatuto;
 
-III. La Subdirección del Servicio desarrollará el modelo aprobado por la Junta, respecto al Concurso de Oposición;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-IV. La Dirección Administrativa dará cuenta del procedimiento seguido y sus resultados al Director General, para que éste informe a la Junta; y
+III. La Unidad del Servicio desarrollará el modelo aprobado por la Junta, respecto al Concurso de Oposición;
 
-V. Con base en los resultados obtenidos, la Junta emitirá el acuerdo de Incorporación correspondiente, previo conocimiento de la Comisión y el Director General expedirá los nombramientos a los miembros del Servicio con el Puesto y la adscripción que les corresponda, informando para tal efecto al Consejo, por conducto del Consejero Presidente.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+IV. La Unidad del Servicio dará cuenta del procedimiento seguido y sus resultados al Director General, para que éste informe a la Junta; y
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+V. Con base en los resultados obtenidos, la Junta emitirá el acuerdo de Incorporación correspondiente, previo conocimiento de la Comisión. El Consejero Presidente o el Director General según corresponda expedirán los nombramientos a los miembros del Servicio con el Puesto y la adscripción que les corresponda, informando para tal efecto al Consejo, por conducto del Consejero Presidente.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -785,9 +861,11 @@ El desarrollo de los mecanismos necesarios para garantizar la confidencialidad, 
 
 La Junta fijará, por medio de un acuerdo, los términos en que se llevará al cabo el procedimiento de Incorporación. En dicho acuerdo, se establecerán los mecanismos para asegurar la imparcialidad, objetividad y transparencia del Proceso de Incorporación y los métodos de supervisión.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 51.
 
-La Dirección Administrativa dará a conocer la lista de aspirantes a los miembros de la Junta, quien a través del Consejero Presidente informará al Consejo, para la presentación de observaciones fundadas y por escrito a la Junta sobre el cumplimiento de los requisitos legales, que serán debidamente valoradas.
+La Unidad del Servicio dará a conocer la lista de aspirantes a los miembros de la Junta, quien a través del Consejero Presidente informará al Consejo, para la presentación de observaciones fundadas y por escrito a la Junta sobre el cumplimiento de los requisitos legales, que serán debidamente valoradas.
 
 II. DE LA INCORPORACIÓN
 
@@ -795,11 +873,11 @@ II. DE LA INCORPORACIÓN
 
 La Incorporación es el acto mediante el cual los aspirantes a pertenecer al Servicio acceden a los Cuerpos que lo integran, mediante el acuerdo emitido por la Junta, que se pronuncie sobre el proceso de Ingreso.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 53.
 
-El dictamen emitido por la Dirección Administrativa sobre los resultados de Incorporación y el correspondiente acuerdo deberán ser aprobados, en su caso, por la Junta.
+El dictamen emitido por la Unidad del Servicio sobre los resultados de Incorporación y el correspondiente acuerdo deberán ser aprobados, en su caso, por la Junta.
 
 > <small>(REFORMADA LA NUMERACION, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -811,7 +889,9 @@ II.1. DE LA INCORPORACIÓN TEMPORAL
 
 La Incorporación temporal es aquella que tiene como fin cubrir las vacantes de urgente ocupación o en casos de disponibilidad, necesarias para la continuidad de los trabajos del Instituto. Los funcionarios que ocupen esos Puestos temporales, podrán participar como aspirantes internos en el Concurso de Oposición, para obtener un nombramiento provisional.
 
-El Director General, identificará e informará a la Junta Ejecutiva de las vacantes de urgente ocupación e instruirá al titular de la Dirección Administrativa que inicie el procedimiento de Incorporación temporal; señalando para tal efecto las razones que motiven la urgente ocupación de las vacantes
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+El Director General, identificará e informará a la Junta Ejecutiva de las vacantes de urgente ocupación e instruirá al titular de la Unidad del Servicio que inicie el procedimiento de Incorporación temporal; señalando para tal efecto las razones que motiven la urgente ocupación de las vacantes.
 
 La Incorporación temporal a un Puesto tendrá vigencia por el tiempo necesario, que no excederá de dos meses, con opción a renovarla por otro periodo del mismo lapso, y deberá en ese tiempo cumplirse el objeto por el que fue creado.
 
@@ -821,7 +901,9 @@ La Incorporación temporal a un Puesto tendrá vigencia por el tiempo necesario,
 
 La Junta determinará la ocupación temporal de los Puestos del Servicio cuando se generen vacantes de urgente ocupación o en casos de disponibilidad, a propuesta del Director General previo acuerdo con el Consejero Presidente; para determinar al candidato se tomarán en cuenta los méritos del personal del Servicio y del personal Administrativo así como sus evaluaciones en el último año.
 
-La Junta emitirá el acuerdo de Incorporación temporal y el Director General expedirá el nombramiento temporal correspondiente a quien haya sido designado previo conocimiento de la Comisión.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+La Junta emitirá el acuerdo de Incorporación temporal y el Consejero Presidente o el Director General según corresponda expedirán el nombramiento temporal correspondiente a quien haya sido designado, previo conocimiento de la Comisión.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -841,15 +923,17 @@ La Incorporación provisional es aquella que se otorga a los funcionarios de nue
 
 III. DE LA EXPEDICIÓN DE NOMBRAMIENTOS
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2003)</small>
 
 ###### ARTÍCULO 58.
 
-El Director General expedirá los nombramientos a los miembros del Servicio con el carácter que les corresponda, previo acuerdo que, al efecto, apruebe la Junta.
+El Consejero Presidente o el Director General según corresponda expedirán los nombramientos a los miembros del Servicio con el carácter que les corresponda, previo acuerdo que, al efecto, apruebe la Junta.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 Los ganadores de cada concurso de oposición recibirán un nombramiento provisional en el Puesto respectivo, que será vigente hasta la emisión del Acuerdo de la Junta que les otorgue la titularidad, en los términos del presente Estatuto.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
 
 ### CAPÍTULO SEXTO. DE LOS DERECHOS, OBLIGACIONES Y PROHIBICIONES DEL PERSONAL ADMINISTRATIVO
 
@@ -861,35 +945,57 @@ III. DE LAS PROHIBICIONES
 
 ###### ARTÍCULO 59.
 
-Los nombramientos serán elaborados por la Dirección Administrativa y firmados por el Director General, y contendrán como mínimo:
+Los nombramientos serán elaborados por la Unidad del Servicio y firmados por el Consejero Presidente o el Director General según corresponda y contendrán como mínimo:
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
 
 I. Nombre completo, nacionalidad, edad, registro federal de contribuyentes, género, domicilio, así como escolaridad máxima acreditada;
 
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
+
 II. En el caso de miembros del Servicio, se deberá señalar el Cuerpo al que corresponda;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
 
 III. El carácter temporal, provisional o titular del nombramiento, para miembros del Servicio;
 
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
+
 IV. Puesto y nivel para el que se expide el nombramiento; y
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
 
 V. Vigencia del nombramiento.
 
 IV. DE LA ADSCRIPCIÓN
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 60.
 
-El nombramiento será acompañado de un oficio de adscripción elaborado por la Dirección Administrativa y firmado por el Director General, correspondiente al Puesto a desempeñar y al Nivel que corresponda dentro de la estructura orgánica del Instituto; el cual deberá contener como mínimo:
+El nombramiento será acompañado de un oficio de adscripción elaborado por la Unidad del Servicio y firmado por el Consejero Presidente o el Director General según corresponda, referente al Puesto a desempeñar y al Nivel que corresponda dentro de la estructura orgánica del Instituto; el cual deberá contener como mínimo:
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
 
 I. Datos generales del miembro del Servicio;
 
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
+
 II. El órgano o unidad administrativa al cual se adscribe;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
 
 III. La denominación del Puesto que se asigna;
 
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
+
 IV. La vigencia del oficio de adscripción; y
 
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
+
 V. Constancia de que el miembro del Servicio acepta el Puesto y la adscripción.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 Los documentos a que se refiere el presente Artículo, formarán parte del expediente personal de cada miembro del Servicio.
 
@@ -909,19 +1015,25 @@ Al momento de tomar posesión del Puesto para el que fue nombrado, dentro del t�
 
 La Readscripción es un acto que implica movilidad, mediante el cual un miembro del Servicio es adscrito a un área distinta a la que ocupa, en un mismo Puesto u homólogo a éste.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
+
 ## TÍTULO TERCERO. DE LAS CONDICIONES GENERALES DE TRABAJO
 
 ### CAPÍTULO OCTAVO. DE LA ANTIGÜEDAD
 
 ###### ARTÍCULO 63.
 
-La Junta podrá readscribir al personal del Servicio por necesidades del mismo, o a petición de una Dirección, con base en el dictamen que para tal efecto emita la Dirección Administrativa relativo a la procedencia de las solicitudes.
+La Junta podrá readscribir al personal del Servicio por necesidades del mismo, o a petición de una Dirección, con base en el dictamen que para tal efecto emita la Unidad del Servicio relativo a la procedencia de las solicitudes.
 
-Para elaborar sus dictámenes, la Dirección Administrativa considerará la idoneidad del solicitante y sus méritos, así como la adecuada integración de las Direcciones o Unidades correspondientes, e informará a sus titulares, quienes tendrán un mínimo de dos días hábiles para emitir, en su caso, sus observaciones.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+Para elaborar sus dictámenes, la Unidad del Servicio considerará la idoneidad del solicitante y sus méritos, así como la adecuada integración de las Direcciones o Unidades correspondientes, e informará a sus titulares, quienes tendrán un mínimo de dos días hábiles para emitir, en su caso, sus observaciones.
 
 La Readscripción se hará sin menoscabo de las remuneraciones y prestaciones que correspondan.
 
-Los Directores y Unidades podrán solicitar a la Dirección Administrativa, por razones de operación, la Readscripción de cualquier miembro del Servicio adscrito a su área.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+Los Directores y Unidades podrán solicitar a la Unidad del Servicio, por razones de operación, la Readscripción de cualquier miembro del Servicio adscrito a su área.
 
 ### CAPÍTULO QUINTO. DE LAS VACANTES
 
@@ -961,9 +1073,11 @@ La Capacitación, Formación y Desarrollo profesional integran el proceso que ti
 
 I. DE LA CAPACITACIÓN
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 67.
 
-La Capacitación se desarrollará a través de los cursos necesarios impartidos por el Departamento con la colaboración de las Direcciones y Unidades Técnicas, propuestos por la Dirección Administrativa y aprobados por la Junta, previo conocimiento de la Comisión.
+La Capacitación se desarrollará a través de los cursos necesarios impartidos por el Departamento con la colaboración de las Direcciones y Unidades Técnicas, propuestos por la Unidad del Servicio y aprobados por la Junta, previo conocimiento de la Comisión.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -975,9 +1089,11 @@ II. DEL PROGRAMA DE FORMACIÓN Y DESARROLLO PROFESIONAL
 
 El Programa está constituido por las actividades de carácter académico y técnico orientadas a ofrecer al personal del Servicio, provisional y titular, conocimientos básicos para desarrollar el Puesto y conocimientos especializados, que les permitan mejorar y aumentar el desarrollo de sus capacidades personales y por tanto ofrecer mejores resultados institucionales hasta obtener tanto en lo individual como en lo institucional la profesionalización de los Cuerpos que integran el Servicio.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 69.
 
-La Dirección Administrativa, a través de la Subdirección del Servicio desarrollará el Programa, por tanto definirá sus contenidos con base en la opinión de las Direcciones, y los miembros del Servicio. Con el criterio anterior, fijará sus modalidades y sus reglas de calificación; con el apoyo de los Departamentos de Normatividad y Procedimientos y de Formación y Desarrollo.
+La Unidad del Servicio desarrollará el Programa, por tanto definirá sus contenidos con base en la opinión de las Direcciones, y los miembros del Servicio. Con el criterio anterior, fijará sus modalidades y sus reglas de calificación; con el apoyo de los Departamentos de Normatividad y Procedimientos y de Formación y Desarrollo.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -1017,21 +1133,23 @@ Para el diseño del programa de esta fase se procederá a detectar las necesidad
 
 La fase de formación especializada será la que implique el adquirir conocimientos dirigidos a conseguir objetivos institucionales.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 74.
 
-La Dirección Administrativa diseñará y determinará, con el apoyo del Departamento, el proyecto que defina los contenidos de las fases de formación básica, profesional y especializada, mismo que aprobará la Junta.
+La Unidad del Servicio diseñará y determinará, con el apoyo del Departamento, el proyecto que defina los contenidos de las fases de formación básica, profesional y especializada, mismo que aprobará la Junta.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 75.
 
-La Dirección Administrativa coordinará, con el apoyo del Departamento, la realización de los cursos necesarios para impartir los contenidos de las fases del Programa.
+La Unidad del Servicio coordinará, con el apoyo del Departamento, la realización de los cursos necesarios para impartir los contenidos de las fases del Programa.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 76.
 
-La Dirección Administrativa seleccionará y elaborará, con el apoyo del Departamento, los textos y cursos de las materias que compongan el Programa, así como los materiales didácticos necesarios.
+La Unidad del Servicio seleccionará y elaborará, con el apoyo del Departamento, los textos y cursos de las materias que compongan el Programa, así como los materiales didácticos necesarios.
 
 ## TÍTULO PRIMERO. DEL SERVICIO
 
@@ -1051,11 +1169,11 @@ Los miembros del Servicio podrán ser requeridos por el Instituto para colaborar
 
 Sólo en los procesos electorales, el Consejo podrá suspender la aplicación del Programa.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 79.
 
-La Dirección Administrativa en coordinación con las demás Direcciones del Instituto, promoverá cursos y actividades complementarias de Formación y Desarrollo Profesional vinculadas con los fines y actividades del Instituto.
+La Unidad del Servicio en coordinación con las demás Direcciones del Instituto, promoverá cursos y actividades complementarias de Formación y Desarrollo Profesional vinculadas con los fines y actividades del Instituto.
 
 ## TÍTULO QUINTO. PROCESO DE EVALUACIÓN
 
@@ -1065,35 +1183,37 @@ La Dirección Administrativa en coordinación con las demás Direcciones del Ins
 
 La Evaluación es el proceso que tiene como finalidad analizar, valuar y calificar el cumplimiento de las funciones asignadas al personal, así como la participación y aprovechamiento, en los programas de Formación y Desarrollo.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 81.
 
-El Instituto, a través de la Dirección Administrativa, llevará al cabo un proceso de Evaluación de los miembros del Servicio, que incluirá una Evaluación del rendimiento en el desempeño, una Evaluación del aprovechamiento en el programa de Formación y Desarrollo Profesional y una Evaluación global en términos de los Capítulos Segundo, Tercero y Cuarto de este Título Quinto.
+El Instituto, a través de la Unidad del Servicio, llevará al cabo un proceso de Evaluación de los miembros del Servicio, que incluirá una Evaluación del rendimiento en el desempeño, una Evaluación del aprovechamiento en el programa de Formación y Desarrollo Profesional y una Evaluación global en términos de los Capítulos Segundo, Tercero y Cuarto de este Título Quinto.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 82.
 
-Toda Evaluación estará compuesta por un conjunto de procedimientos que la Dirección Administrativa propondrá a la Junta, previo conocimiento de la Comisión; y tendrá por objeto apoyar en la toma de decisiones relativas a la Readscripción, la Titularidad, la Disponibilidad, el Ascenso, la Aplicación de Incentivos, la Formación, la Promoción y la Imposición de Sanciones al personal, en su caso.
+Toda Evaluación estará compuesta por un conjunto de procedimientos que la Unidad del Servicio propondrá a la Junta, previo conocimiento de la Comisión; y tendrá por objeto apoyar en la toma de decisiones relativas a la Readscripción, la Titularidad, la Disponibilidad, el Ascenso, la Aplicación de Incentivos, la Formación, la Promoción y la Imposición de Sanciones al personal, en su caso.
 
-La Dirección Administrativa establecerá los procedimientos para difundir los criterios y los factores a calificar con anticipación al periodo que será evaluado; notificándolos para tal efecto al personal correspondiente.
+La Unidad del Servicio establecerá los procedimientos para difundir los criterios y los factores a calificar con anticipación al periodo que será evaluado; notificándolos para tal efecto al personal correspondiente.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 83.
 
-La Dirección Administrativa se apoyará en la Subdirección del Servicio para analizar y, en su caso, decidir el valor curricular de las actividades de Formación y Desarrollo profesional en términos de este Estatuto que realicen los miembros del Servicio fuera del Programa, para efectos de la Evaluación global.
+La Unidad del Servicio analizará y decidirá el valor curricular de las actividades de Formación y Desarrollo profesional en términos de este Estatuto que realicen los miembros del Servicio fuera del Programa, para efectos de la Evaluación global (propuesta por la Dirección de Asuntos Jurídicos).
 
 ###### ARTÍCULO 84.
 
 La Evaluación del rendimiento se aplicará anualmente a los miembros del Servicio.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ### CAPÍTULO DÉCIMO. DE LOS INCENTIVOS
 
 ###### ARTÍCULO 85.
 
-La Dirección Administrativa con el apoyo de la Subdirección del Servicio instrumentará una Evaluación especial para cada proceso electoral, cuyos resultados serán parte de la Evaluación del rendimiento.
+La Unidad del Servicio instrumentará una Evaluación especial para cada proceso electoral, cuyos resultados serán parte de la Evaluación del rendimiento.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -1101,9 +1221,11 @@ La Dirección Administrativa con el apoyo de la Subdirección del Servicio instr
 
 La Evaluación del aprovechamiento en el Programa tendrá una periodicidad de seis meses entre cada examen y podrá suspenderse en proceso electoral por acuerdo del Consejo, y se reanudará una vez concluido dicho proceso, conforme a las condiciones acordadas.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 87.
 
-Dentro del primer semestre de cada año, la Junta, por conducto de las Direcciones correspondientes, notificará a los miembros del Servicio, de manera personal, las calificaciones obtenidas en la Evaluación del rendimiento en el desempeño del año anterior y en la Evaluación del aprovechamiento en el Programa, así como el reporte de Evaluación global que haya elaborado la Dirección Administrativa.
+Dentro del primer semestre de cada año, la Junta, por conducto de las Direcciones correspondientes, notificará a los miembros del Servicio, de manera personal, las calificaciones obtenidas en la Evaluación del rendimiento en el desempeño del año anterior y en la Evaluación del aprovechamiento en el Programa, así como el reporte de Evaluación global que haya elaborado la Unidad del Servicio.
 
 ### CAPÍTULO SEGUNDO. DE LA EVALUACIÓN DEL RENDIMIENTO
 
@@ -1113,45 +1235,53 @@ Dentro del primer semestre de cada año, la Junta, por conducto de las Direccion
 
 La Evaluación del rendimiento es aquella que se realizará dentro de los 3 primeros meses de cada año, tomando en cuenta los objetivos previamente planeados conforme a las políticas y programas del Instituto considerando factores de eficacia, eficiencia, principios de actuación, desarrollo laboral, trabajo en equipo y demás factores que determine la Junta.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 89.
 
-La Junta determinará con la participación del personal del Servicio, por medio de un acuerdo, los programas, objetivos, mecanismos y procedimientos que servirán para evaluar el rendimiento del personal del Servicio al año siguiente. Los parámetros y factores a evaluar correspondientes para cada Puesto del Servicio serán entregados por la Dirección Administrativa a los funcionarios del Servicio contra acuse de recibo. Dicha Evaluación deberá contar con la participación del superior jerárquico de cada miembro del Servicio.
+La Junta determinará con la participación del personal del Servicio, por medio de un acuerdo, los programas, objetivos, mecanismos y procedimientos que servirán para evaluar el rendimiento del personal del Servicio al año siguiente. Los parámetros y factores a evaluar correspondientes para cada Puesto del Servicio serán entregados por la Unidad del Servicio a los funcionarios del Servicio contra acuse de recibo. Dicha Evaluación deberá contar con la participación del superior jerárquico de cada miembro del Servicio.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 La Comisión podrá hacer observaciones al sistema de Evaluación.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 90.
 
-La Dirección Administrativa con el acuerdo de la Comisión, diseñará en los meses de octubre y noviembre de cada año los formatos de Evaluación del desempeño anual y la Evaluación especial para proceso electoral y se pondrán a consideración de la Junta para su análisis y aprobación.
+La Unidad del Servicio diseñará en los meses de octubre y noviembre de cada año los formatos de Evaluación del desempeño anual y la Evaluación especial para proceso electoral y se pondrán a consideración de la Junta para su análisis y aprobación, previo conocimiento de la Comisión.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 91.
 
-La Junta aprobará, en su caso, los proyectos de dictamen de Evaluación del rendimiento que la Dirección Administrativa le presente.
+La Junta aprobará, en su caso, los proyectos de dictamen de Evaluación del rendimiento que la Unidad del Servicio le presente.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 92.
 
-La Dirección Administrativa deberá notificar dentro de un periodo de treinta días naturales posteriores a la aprobación de los dictámenes por parte de la Junta; a los directores y titulares de las unidades técnicas, las calificaciones que correspondan a cada miembro del Servicio adscrito a su área, para que éstos informen personalmente dentro de los 3 días hábiles siguientes al que reciban dichas calificaciones, los resultados a cada miembro del Servicio.
+La Unidad del Servicio deberá notificar dentro de un periodo de treinta días naturales posteriores a la aprobación de los dictámenes por parte de la Junta; a los directores y titulares de las unidades técnicas, las calificaciones que correspondan a cada miembro del Servicio adscrito a su área, para que éstos informen personalmente dentro de los 3 días hábiles siguientes al que reciban dichas calificaciones, los resultados a cada miembro del Servicio.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 93.
 
-Las inconformidades sobre la Evaluación del rendimiento de los miembros del Servicio podrán presentarse por escrito de manera fundada y motivada, acompañadas de los elementos que las sustenten, ante la Dirección Administrativa, dentro de los diez días hábiles siguientes a la fecha en la que surta efectos la notificación personal de resultados de la Evaluación del desempeño.
+Las inconformidades sobre la Evaluación del rendimiento de los miembros del Servicio podrán presentarse por escrito de manera fundada y motivada, acompañadas de los elementos que las sustenten, ante la Unidad del Servicio, dentro de los diez días hábiles siguientes a la fecha en la que surta efectos la notificación personal de resultados de la Evaluación del desempeño.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LOS TRABAJADORES EVENTUALES
 
 ###### ARTÍCULO 94.
 
-Las inconformidades a las que se refiere el artículo anterior se harán del conocimiento de la Comisión y de la Junta, quienes podrán tomar en cuenta la propuesta de la Dirección administrativa para determinar lo conducente. Las resoluciones que se emitan al respecto serán definitivas, y no procederá recurso alguno en contra de ellas.
+Las inconformidades a las que se refiere el artículo anterior se harán del conocimiento de la Comisión y de la Junta, quienes podrán tomar en cuenta la propuesta de la Unidad del Servicio para determinar lo conducente. Las resoluciones que se emitan al respecto serán definitivas, y no procederá recurso alguno en contra de ellas.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 95.
 
-La Dirección Administrativa a propuesta de la Subdirección del Servicio, presentará a la Junta un reporte sobre el proceso y los resultados de la Evaluación del rendimiento del personal del Servicio en el año anterior. A su vez, la Junta, por medio del Director General, entregará al Consejero Presidente un reporte de los resultados de la Evaluación del desempeño del personal del Servicio para que éste lo haga del conocimiento del Consejo General.
+La Unidad del Servicio, presentará a la Junta un reporte sobre el proceso y los resultados de la Evaluación del rendimiento del personal del Servicio en el año anterior. A su vez, la Junta, por medio del Director General, entregará al Consejero Presidente un reporte de los resultados de la Evaluación del desempeño del personal del Servicio para que éste lo haga del conocimiento del Consejo General.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -1159,13 +1289,17 @@ La Dirección Administrativa a propuesta de la Subdirección del Servicio, prese
 
 La permanencia del personal del Servicio en el Instituto estará sujeta a la aprobación de la Evaluación del rendimiento mediante la obtención del certificado de aprobación. El personal del Servicio que no obtenga dicho certificado, será destituido del Servicio.
 
-El miembro del Servicio que obtenga certificado condicionado, entrará, durante el año inmediato posterior al periodo evaluado, a un programa especial cuyas características fijará la Dirección Administrativa. La Evaluación del rendimiento de dicho miembro en el año inmediato posterior al periodo en que éste obtuvo dicha calificación contendrá un factor de Evaluación adicional que ponderará el mejoramiento en los aspectos en los que el miembro del Servicio haya presentado deficiencias.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+El miembro del Servicio que obtenga certificado condicionado, entrará, durante el año inmediato posterior al periodo evaluado, a un programa especial cuyas características fijará la Unidad del Servicio. La Evaluación del rendimiento de dicho miembro en el año inmediato posterior al periodo en que éste obtuvo dicha calificación contendrá un factor de Evaluación adicional que ponderará el mejoramiento en los aspectos en los que el miembro del Servicio haya presentado deficiencias.
 
 ### CAPÍTULO TERCERO. DE LA EVALUACIÓN DEL APROVECHAMIENTO DEL PROGRAMA
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 97.
 
-La Dirección Administrativa evaluará por medio de exámenes semestrales, con la participación del Departamento el aprovechamiento de los miembros del Servicio en el Programa. Notificará por escrito, a los sustentantes que deberán presentar exámenes, las fechas, las materias, estableciendo las medidas de seguridad y solicitando los apoyos que considere necesarios.
+La Unidad del Servicio evaluará por medio de exámenes semestrales, con la participación del Departamento el aprovechamiento de los miembros del Servicio en el Programa. Notificará por escrito, a los sustentantes que deberán presentar exámenes, las fechas, las materias, estableciendo las medidas de seguridad y solicitando los apoyos que considere necesarios.
 
 ###### ARTÍCULO 98.
 
@@ -1175,25 +1309,33 @@ La permanencia en el Servicio estará sujeta a la aprobación de los exámenes c
 
 Los miembros de nuevo Ingreso al Servicio, con excepción de los temporales, tendrán la obligación de presentar los exámenes de las materias del Programa a partir de los seis meses posteriores a su Incorporación o una vez transcurrido el proceso electoral.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 100.
 
-La Subdirección del Servicio deberá enviar a los miembros del Servicio, con el apoyo del Departamento, los materiales didácticos y de apoyo para el estudio de las materias del Programa, al menos con sesenta días naturales de anticipación a la fecha de aplicación de los exámenes. También podrá implementar cursos para la aprobación de las materias respetando los plazos señalados en este Estatuto, mismos que serán complementarios al estudio de los textos y materiales didácticos.
+La Unidad del Servicio deberá enviar a los miembros del Servicio, con el apoyo del Departamento, los materiales didácticos y de apoyo para el estudio de las materias del Programa, al menos con sesenta días naturales de anticipación a la fecha de aplicación de los exámenes. También podrá implementar cursos para la aprobación de las materias respetando los plazos señalados en este Estatuto, mismos que serán complementarios al estudio de los textos y materiales didácticos.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 101.
 
-La Dirección Administrativa, dentro de los treinta días naturales siguientes a la fecha de aplicación de los exámenes, notificará personalmente y por escrito sus resultados a cada uno de los sustentantes.
+La Unidad del Servicio, dentro de los treinta días naturales siguientes a la fecha de aplicación de los exámenes, notificará personalmente y por escrito sus resultados a cada uno de los sustentantes.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LOS DERECHOS, LAS OBLIGACIONES Y LAS PROHIBICIONES DE LOS TRABAJADORES EVENTUALES
 
 ###### ARTÍCULO 102.
 
-La Subdirección del Servicio integrará un registro de las materias del Programa, las calificaciones y oportunidades de acreditación de cada uno de los miembros del Servicio.
+La Unidad del Servicio integrará un registro de las materias del Programa, las calificaciones y oportunidades de acreditación de cada uno de los miembros del Servicio.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 La presentación de exámenes es obligatoria para los miembros del Servicio. En caso de no presentarse sin causa justificada, recibirán una calificación No Aprobatoria, haciendo constar en el expediente que no se presentó.
 
-Los miembros del Servicio que por motivo de salud, no puedan asistir el día y hora indicados deberán acreditar ante la Subdirección del Servicio su incapacidad mediante el justificante médico que les expida el Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado de Puebla. Los justificantes sólo podrán presentarse hasta dos días hábiles después de la fecha del examen. La valoración de los justificantes de otro tipo, quedará sujeta al dictamen que emita la Dirección Administrativa. Ésta deberá notificar por escrito y en forma personal al miembro del Servicio la resolución que corresponda, dentro de los quince días hábiles siguientes a la fecha de celebración del examen.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+Los miembros del Servicio que por motivo de salud, no puedan asistir el día y hora indicados deberán acreditar ante la Unidad del Servicio su incapacidad mediante el justificante médico que les expida el Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado de Puebla. Los justificantes sólo podrán presentarse hasta dos días hábiles después de la fecha del examen. La valoración de los justificantes de otro tipo, quedará sujeta al dictamen que emita la Unidad del Servicio. Ésta deberá notificar por escrito y en forma personal al miembro del Servicio la resolución que corresponda, dentro de los quince días hábiles siguientes a la fecha de celebración del examen. En su caso, que se ajuste en términos de la Ley General de Salud.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -1207,21 +1349,29 @@ Los miembros del Servicio que por motivo de salud, no puedan asistir el día y h
 
 Las calificaciones de los exámenes de las materias del Programa serán: Aprobado y No Aprobado.
 
-La Subdirección del Servicio llevará un registro de las calificaciones obtenidas por los miembros del Servicio en los exámenes de las materias del Programa.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
-Las escalas de calificación serán determinadas por la Dirección Administrativa, estableciendo sus rangos numéricos y sus equivalencias, así como qué calificaciones entran en la categoría de aprobado y qué calificaciones entran en la categoría de no aprobado.
+La Unidad del Servicio llevará un registro de las calificaciones obtenidas por los miembros del Servicio en los exámenes de las materias del Programa.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+Las escalas de calificación serán determinadas por la Unidad del Servicio, estableciendo sus rangos numéricos y sus equivalencias, así como qué calificaciones entran en la categoría de aprobado y qué calificaciones entran en la categoría de no aprobado.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 104.
 
-Los miembros del Servicio podrán solicitar por escrito al titular de la Dirección Administrativa la revisión de los exámenes sustentados, dentro de los diez días naturales siguientes a la fecha de notificación de sus resultados.
+Los miembros del Servicio podrán solicitar por escrito al titular de la Unidad del Servicio la revisión de los exámenes sustentados, dentro de los diez días naturales siguientes a la fecha de notificación de sus resultados.
 
-El titular de dicha Dirección tendrá tres días para notificar por escrito la fecha y hora en que se realizará dicha revisión, debiendo estar comprendida dentro de los 15 días siguientes al que el miembro del Servicio solicite la revisión de su examen.
+El titular de dicha Unidad tendrá tres días para notificar por escrito la fecha y hora en que se realizará dicha revisión, debiendo estar comprendida dentro de los 15 días siguientes al que el miembro del Servicio solicite la revisión de su examen.
 
 ### CAPÍTULO CUARTO. DE LA EVALUACIÓN GLOBAL
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 105.
 
-La Evaluación global del personal comprenderá la Evaluación del Rendimiento y la Evaluación del Aprovechamiento de las materias del Programa con base en los resultados que definan los aspectos cuantitativos y cualitativos que se hayan determinado para tal efecto, así como de la consideración de las sanciones y los incentivos, cuyos pesos y mecanismos de ponderación para el efecto serán aprobados por la Junta, a propuesta de la Dirección Administrativa, previo conocimiento de la Comisión.
+La Evaluación global del personal comprenderá la Evaluación del Rendimiento y la Evaluación del Aprovechamiento de las materias del Programa con base en los resultados que definan los aspectos cuantitativos y cualitativos que se hayan determinado para tal efecto, así como de la consideración de las sanciones y los incentivos, cuyos pesos y mecanismos de ponderación para el efecto serán aprobados por la Junta, a propuesta de la Unidad del Servicio, previo conocimiento de la Comisión.
 
 ## TÍTULO SEXTO. PROCESO DE PROMOCIÓN
 
@@ -1237,11 +1387,13 @@ La Promoción es el movimiento ascendente de los miembros titulares en la estruc
 
 Para poder obtener promociones en Niveles, los miembros del Servicio deberán permanecer como titulares en su Nivel por lo menos un año.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ### CAPÍTULO SEGUNDO. DE LAS REMUNERACIONES
 
 ###### ARTÍCULO 108.
 
-De acuerdo a las posibilidades presupuestales del Instituto, la Junta convocará, cada año, a participar en la Promoción, estableciendo, a propuesta de la Subdirección del Servicio, el número de promociones a otorgar en cada Nivel. La Dirección Administrativa a propuesta de la Subdirección del Servicio, someterá a la aprobación de la Junta, previo conocimiento de la Comisión, los dictámenes de promociones correspondientes.
+De acuerdo a las posibilidades presupuestales del Instituto, la Junta convocará, cada año, a participar en la Promoción, estableciendo, a propuesta de la Unidad del Servicio, el número de promociones a otorgar en cada Nivel. La Unidad del Servicio, someterá a la aprobación de la Junta, previo conocimiento de la Comisión, los dictámenes de promociones correspondientes.
 
 ### CAPÍTULO SEGUNDO. DEL ASCENSO EN LOS CARGOS
 
@@ -1279,23 +1431,29 @@ II. Haber aprobado las fases de formación básica y profesional del Programa; y
 
 III. Haber acreditado la última Evaluación del rendimiento y Evaluación global.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 114.
 
-A más tardar, dos meses después de la notificación de los resultados de los exámenes del Programa, la Dirección Administrativa, una vez verificado que el personal haya cumplido los requisitos para la Titularidad y que no haya sido notificado del inicio de un Procedimiento Administrativo en su contra que esté pendiente de resolución, elaborará y presentará a la Junta la lista de los miembros que cumplan con dichos requisitos.
+A más tardar, dos meses después de la notificación de los resultados de los exámenes del Programa, la Unidad del Servicio, una vez verificado que el personal haya cumplido los requisitos para la Titularidad y que no haya sido notificado del inicio de un Procedimiento Administrativo en su contra que esté pendiente de resolución, elaborará y presentará a la Junta la lista de los miembros que cumplan con dichos requisitos.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ### CAPÍTULO TERCERO. DE LA JORNADA DE TRABAJO, DÍAS DE DESCANSO Y VACACIONES
 
 ###### ARTÍCULO 115.
 
-Los miembros de la Comisión podrán solicitar por escrito al titular de la Dirección Administrativa, la revisión de los expedientes de los miembros del Servicio que se encuentren en el archivo correspondiente, así como emitir observaciones en forma fundada y motivada sobre el cumplimiento de los requisitos, durante los periodos que fije la Junta.
+Los miembros de la Comisión podrán solicitar por escrito al titular de la Unidad del Servicio, la revisión de los expedientes de los miembros del Servicio que se encuentren en el archivo correspondiente, así como emitir observaciones en forma fundada y motivada sobre el cumplimiento de los requisitos, durante los periodos que fije la Junta.
 
 ###### ARTÍCULO 116.
 
 A más tardar sesenta días naturales después de entregada a la Junta la lista de los aspirantes a la Titularidad, ésta emitirá un dictamen al respecto.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 117.
 
-La Dirección Administrativa deberá analizar todas las observaciones para determinar, en su caso, las acciones para corregir aspectos insuficientes del desempeño o la formación de dichos miembros.
+La Unidad del Servicio deberá analizar todas las observaciones para determinar, en su caso, las acciones para corregir aspectos insuficientes del desempeño o la formación de dichos miembros.
 
 ### CAPÍTULO CUARTO. DE LOS INCENTIVOS
 
@@ -1311,35 +1469,47 @@ Los incentivos son la forma de retribuir económicamente o en especie a los miem
 
 El Instituto podrá establecer incentivos para el personal del Servicio por su desempeño sobresaliente en el Servicio, en especie o numerario, en los términos que establezca la Junta, los cuales se fijarán de acuerdo con el presupuesto anual aprobado por el Consejo.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 120.
 
-Con base en el dictamen de la Junta sobre las investigaciones y trabajos extracurriculares que lleven al cabo los miembros del Servicio, la Dirección Administrativa podrá disponer la publicación de quienes fueron beneficiados con los estímulos.
+Con base en el dictamen de la Junta sobre las investigaciones y trabajos extracurriculares que lleven al cabo los miembros del Servicio, la Unidad del Servicio podrá disponer la publicación de quienes fueron beneficiados con los estímulos.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 121.
 
-Serán la base para otorgar incentivos, los méritos obtenidos dentro del Servicio y las aportaciones útiles para el mismo, cuya valoración la realizará, con base en el artículo 82 de este Estatuto, la Dirección Administrativa. Entre los méritos a evaluar se considerarán los siguientes:
+Serán la base para otorgar incentivos, los méritos obtenidos dentro del Servicio y las aportaciones útiles para el mismo, cuya valoración la realizará, con base en el artículo 82 de este Estatuto, la Unidad del Servicio. Entre los méritos a evaluar se considerarán los siguientes:
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
 
 I. Desempeño sobresaliente, en el ejercicio de las actividades encomendadas;
 
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
+
 II. Acreditación excelente de los exámenes del Programa;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
 
 III. Aportaciones destacadas en las actividades de los programas de trabajo;
 
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
+
 IV. Reconocimientos;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
 
 V. Elaboración de estudios e investigaciones que aporten notorios beneficios para el mejoramiento del Instituto; y
 
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
+
 VI. Propuestas útiles en materia electoral, de financiamiento de proyectos o programas, y de administración de recursos humanos y materiales.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 122.
 
-La Dirección Administrativa, previo conocimiento de la Comisión, propondrá a la Junta, para su aprobación, los lineamientos que deberán observarse para evaluar los méritos y aportaciones. La Junta aprobará, lo relativo al sistema de incentivos.
+La Unidad del Servicio, previo conocimiento de la Comisión, propondrá a la Junta, para su aprobación, los lineamientos que deberán observarse para evaluar los méritos y aportaciones. La Junta aprobará, lo relativo al sistema de incentivos.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -1353,11 +1523,11 @@ Se otorgará medalla y diploma al mérito al personal del Servicio que obtenga l
 
 La Junta podrá otorgar incentivos a los miembros del Servicio que realicen actividades de estudio, capacitación, docencia o investigación en diversas disciplinas afines al objeto del Instituto y que redunden en beneficio de éste.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 125.
 
-Las propuestas de candidatos a recibir incentivos deberán presentarse ante la Junta, a través de la Dirección Administrativa a propuesta de la Subdirección del Servicio previo acuerdo con el Director General. También se harán del conocimiento de la Comisión.
+Las propuestas de candidatos a recibir incentivos deberán presentarse ante la Junta, a través de la Unidad del Servicio previo acuerdo con el Director General. También se harán del conocimiento de la Comisión.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -1507,7 +1677,9 @@ XIV. Las demás que señale el Código, el presente Estatuto, los acuerdos del C
 
 La Disponibilidad es el tiempo que se autoriza al personal del Servicio para ausentarse temporalmente del Puesto del Servicio con el objeto de efectuar actividades académicas o de investigación. Podrá ser concedida siempre que no se afecten las actividades del Instituto y que la actividad se compruebe fehacientemente.
 
-Se consultará, antes de su autorización, al superior jerárquico que corresponda y al titular de la Dirección Administrativa. Será facultad exclusiva de la Junta conceder la Disponibilidad.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+Se consultará, antes de su autorización, al superior jerárquico que corresponda y al titular de la Unidad del Servicio. Será facultad exclusiva de la Junta conceder la Disponibilidad.
 
 La disponibilidad no podrá exceder de un año natural.
 
@@ -1523,11 +1695,11 @@ La Disponibilidad, en ningún caso, podrá ser autorizada para periodos que abar
 
 Los miembros del Servicio en Disponibilidad dejarán de percibir remuneraciones por concepto del Puesto, así como los estímulos del Nivel que ocupen.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 134.
 
-El personal del Servicio que se encuentre en disponibilidad podrá reincorporarse al Servicio una vez concluida la misma, para lo cual deberá solicitar por escrito al titular de la Dirección Administrativa su Reincorporación al Instituto cuando menos treinta días hábiles antes de que concluya la disponibilidad junto con un informe y la acreditación de las actividades realizadas.
+El personal del Servicio que se encuentre en disponibilidad podrá reincorporarse al Servicio una vez concluida la misma, para lo cual deberá solicitar por escrito al titular de la Unidad del Servicio su Reincorporación al Instituto cuando menos treinta días hábiles antes de que concluya la disponibilidad junto con un informe y la acreditación de las actividades realizadas.
 
 ### CAPÍTULO QUINTO. DE LA REINCORPORACIÓN
 
@@ -1643,9 +1815,11 @@ El procedimiento administrativo a que se refiere el artículo 141 del presente E
 
 Una vez que se determine el inicio de un procedimiento administrativo no procederá otorgar disponibilidad, a que se refieren a los artículos 131, 132,133 y 134 de este ordenamiento.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 146.
 
-Las autoridades competentes podrán solicitar la asesoría de la Dirección de Asuntos Jurídicos para procurar la legalidad del Procedimiento Administrativo.
+Las autoridades competentes podrán solicitar la asesoría de la Secretaría General, apoyándose para tal efecto de la Unidad Jurídica para procurar la legalidad del Procedimiento Administrativo.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -1755,7 +1929,9 @@ La autoridad que inicie el procedimiento de oficio se apegará invariablemente a
 
 El Procedimiento se dividirá en la etapa de instrucción y la de resolución. La primera comprende el inicio del procedimiento hasta el desahogo de pruebas y la segunda corresponde a la emisión de la resolución que ponga fin al procedimiento.
 
-I. Será autoridad instructora el Secretario General, apoyándose para tal efecto de la Dirección de Asuntos Jurídicos, en el supuesto de que la conducta sea atribuida a un miembro del Servicio o el personal Administrativo adscrito a las áreas del Instituto, o bien por quien en ausencia de estos se encuentren como responsables del despacho de dicho Puesto.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+I. Será autoridad instructora el Secretario General, apoyándose para tal efecto de la Unidad Jurídica, en el supuesto de que la conducta sea atribuida a un miembro del Servicio o el personal Administrativo adscrito a las áreas del Instituto, o bien por quien en ausencia de éstos se encuentren como responsables del despacho de dicho Puesto.
 
 II. Será autoridad resolutoria la Junta.
 
@@ -1925,9 +2101,11 @@ La Junta informará a la Comisión sobre los procedimientos substanciados y resu
 
 III. DE LA RECLAMACIÓN ADMINISTRATIVA
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 174.
 
-La reclamación contemplada en la fracción XI, del artículo 128 del presente Estatuto, se hará a través de una petición por escrito ante la Dirección Administrativa, con el objeto de obtener una respuesta por escrito en un término de diez días hábiles después de recibida la reclamación.
+La reclamación contemplada en la fracción XI, del artículo 128 del presente Estatuto, se hará a través de una petición por escrito ante la Unidad del Servicio, con el objeto de obtener una respuesta por escrito en un término de diez días hábiles después de recibida la reclamación.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -1945,15 +2123,17 @@ La reclamación contemplada en la fracción XI, del artículo 128 del presente E
 
 Este libro regula las disposiciones aplicables al personal Administrativo y Eventual y las condiciones generales de trabajo de todo el personal del Instituto.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 176.
 
-La Dirección Administrativa propondrá a la Junta, previo acuerdo de la Comisión para su aprobación, las normas políticas y procedimientos relativos a la administración del personal al que se refiere este Libro.
+La Unidad del Servicio con apoyo de la Dirección Administrativa propondrán a la Junta, previo conocimiento de la Comisión para su aprobación, las normas políticas y procedimientos relativos a la administración del personal al que se refiere este Libro.
 
 La Comisión podrá vigilar y supervisar los asuntos relativos al personal Administrativo y a los trabajadores Eventuales del Instituto; para tal efecto, podrá emitir recomendaciones y formular propuestas.
 
-La Dirección Administrativa deberá proporcionar a la Comisión toda la información que le sea requerida sobre el personal Administrativo y los trabajadores Eventuales.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+La Unidad del Servicio deberá proporcionar a la Comisión toda la información que le sea requerida sobre el personal Administrativo y los trabajadores Eventuales.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -1973,11 +2153,11 @@ Es personal Eventual el personal con plaza presupuestal que se contrata por obra
 
 ### CAPÍTULO SEGUNDO. DEL CATÁLOGO
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2003)</small>
 
 ###### ARTÍCULO 180.
 
-La Dirección Administrativa, considerando la opinión de las demás Direcciones y Unidades Técnicas, podrá hacer propuestas respecto a la estructura de Puestos que integren el personal Administrativo y Eventual. Dichas propuestas serán sometidas a consideración de la Junta para su aprobación e inclusión en el Catálogo.
+La Unidad del Servicio, considerando la opinión de las demás Direcciones y Unidades Técnicas, podrá hacer propuestas respecto a la estructura de Puestos que integren el personal Administrativo y Eventual. Dichas propuestas serán sometidas a consideración de la Junta para su aprobación e inclusión en el Catálogo.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -2013,27 +2193,39 @@ VII. Declarar bajo protesta no estar inhabilitado para ocupar Cargo público, ni
 
 VIII. Presentar la solicitud respectiva acompañada de la documentación que acredite el cumplimiento de los requisitos.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 184.
 
-Para la selección de personal Administrativo, se tomarán en cuenta los criterios que la Junta determine conforme a las normas, políticas y procedimientos que para el efecto se establezcan, a propuesta de la Dirección Administrativa, agotando el siguiente procedimiento:
+Para la selección de personal Administrativo, se tomarán en cuenta los criterios que la Junta determine conforme a las normas, políticas y procedimientos que para el efecto se establezcan, a propuesta de la Unidad del Servicio, agotando el siguiente procedimiento:
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 I. Invitación;
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+
 II. Acreditación de requisitos;
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 III. Entrevista preliminar;
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+
 IV. Exámenes de selección; y
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 V. Evaluación curricular.
 
 ### CAPÍTULO CUARTO. DEL NOMBRAMIENTO
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 185.
 
-El personal Administrativo ostentará este carácter y prestará sus servicios en virtud del nombramiento expedido por el Director General.
+El personal Administrativo ostentará este carácter y prestará sus servicios en virtud del nombramiento expedido por el Consejero Presidente o el Director General según corresponda.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -2079,13 +2271,13 @@ En el caso de separación por reestructuración, el personal Administrativo, con
 
 El nombramiento dejará de surtir efectos sin responsabilidad para el Instituto cuando, una vez otorgado el mismo el interesado no tome posesión de su empleo dentro de los tres días hábiles siguientes a la fecha que se indique, siempre que haya sido notificado.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 192.
 
-El personal Administrativo que cause baja del Instituto deberá entregar al titular de la Dirección Administrativa dentro de los tres días siguientes a la misma la credencial o gafete expedido por el Instituto, y rendir los informes de los documentos, bienes y recursos asignados a su custodia, así como los asuntos que tenga bajo su responsabilidad. Para ello, en su caso, deberá elaborarse el acta administrativa de entrega-recepción en los términos que establezca la Contraloría Interna del Instituto.
+El personal Administrativo que cause baja del Instituto deberá entregar al titular de la Unidad del Servicio dentro de los tres días siguientes a la misma la credencial o gafete expedido por el Instituto, y rendir los informes de los documentos, bienes y recursos asignados a su custodia, así como los asuntos que tenga bajo su responsabilidad. Para ello, en su caso, deberá elaborarse el acta administrativa de entrega-recepción en los términos que establezca la Contraloría Interna del Instituto.
 
-El titular de la Dirección Administrativa deberá verificar los requisitos del certificado de no adeudo, cada vez que ocurra una baja del personal Administrativo.
+El titular de la Unidad del Servicio a través de la Dirección Administrativa deberá verificar los requisitos del certificado de no adeudo, cada vez que ocurra una baja del personal Administrativo.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -2117,7 +2309,9 @@ II. Recibir los apoyos y la autorización correspondiente para participar en los
 
 III. Participar en los concursos y movimientos de Ascenso y Promoción de acuerdo con el presente Estatuto;
 
-IV. Recibir cursos de capacitación que le permitan realizar de mejor manera las funciones que tiene encomendadas, mismos que serán diseñados y ejecutados anualmente por la Subdirección del Servicio, la que se apoyará en el Departamento, de conformidad con los programas y políticas generales del Instituto;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+IV. Recibir cursos de capacitación que le permitan realizar de mejor manera las funciones que tiene encomendadas, mismos que serán diseñados y ejecutados anualmente por la Unidad del Servicio, la que se apoyará en el Departamento, de conformidad con los programas y políticas generales del Instituto;
 
 V. Inconformarse o reclamar ante las autoridades correspondientes del Instituto, en contra de los actos que considere le causen algún agravio en su relación jurídica con el Instituto;
 
@@ -2219,11 +2413,11 @@ Para los efectos de este ordenamiento, se entiende por movimiento del personal A
 
 En atención a las necesidades del Instituto, el personal Administrativo podrá ser readscrito a otra área del mismo, a un Puesto no exclusivo del Servicio, sin perjuicio de las remuneraciones y prestaciones que le corresponden.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 200.
 
-En el supuesto señalado en el artículo anterior, cuando el personal administrativo desee su cambio de Adscripción, deberá presentar la solicitud correspondiente ante la Dirección o Unidad Técnica de su adscripción, la cual la remitirá a la Dirección Administrativa, quien determinará sobre su procedencia, previa autorización del Director General.
+En el supuesto señalado en el artículo anterior, cuando el personal administrativo desee su cambio de Adscripción, deberá presentar la solicitud correspondiente ante la Dirección o Unidad Técnica de su adscripción, la cual la remitirá a la Unidad del Servicio, quien determinará sobre su procedencia, previa autorización del Consejero Presidente o Director General según corresponda.
 
 ### CAPÍTULO OCTAVO. DE LA ANTIGÜEDAD
 
@@ -2235,11 +2429,11 @@ La antigüedad es el tiempo de servicio del personal Administrativo a la Institu
 
 ### CAPÍTULO NOVENO. DEL ASCENSO Y PROMOCIÓN
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 202.
 
-El Ascenso es el movimiento del personal Administrativo a un Puesto superior en la estructura ocupacional y estará basado en los resultados de las evaluaciones del desempeño desde la incorporación del personal al Instituto, conforme lo determine la Junta, previo acuerdo de la Comisión, a propuesta de la Dirección Administrativa.
+El Ascenso es el movimiento del personal Administrativo a un Puesto superior en la estructura ocupacional y estará basado en los resultados de las evaluaciones del desempeño desde la incorporación del personal al Instituto, conforme lo determine la Junta, previo acuerdo de la Comisión, a propuesta de la Unidad del Servicio.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -2247,13 +2441,15 @@ El Ascenso es el movimiento del personal Administrativo a un Puesto superior en 
 
 La Promoción es el movimiento ascendente del personal Administrativo en una estructura presupuestal de Niveles respectivamente.
 
-Las promociones podrán otorgarse por acuerdo de la Junta y con el conocimiento de la Comisión, a propuesta de la Dirección Administrativa, al personal Administrativo atendiendo a la disponibilidad presupuestaria y conforme a los procedimientos Operativos aplicables.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+Las promociones podrán otorgarse por acuerdo de la Junta y con el conocimiento de la Comisión, a propuesta de la Unidad del Servicio, al personal Administrativo atendiendo a la disponibilidad presupuestaria y conforme a los procedimientos Operativos aplicables.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 204.
 
-El aprovechamiento del personal Administrativo será evaluado anualmente, en los términos que disponga la Junta a propuesta de la Dirección Administrativa.
+El aprovechamiento del personal Administrativo será evaluado anualmente, en los términos que disponga la Junta a propuesta de la Unidad del Servicio.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -2269,17 +2465,17 @@ III. Nivel 3; y
 
 IV. Nivel 4.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 206.
 
-Para poder acceder a promociones en Puestos Administrativos, se deberá realizar un movimiento ascendente en niveles y basarse en la Evaluación del desempeño y en la antigüedad, que deberá ser de al menos un año en el nivel actual, de acuerdo a la metodología que para tal efecto establezca la Junta a propuesta de la Dirección Administrativa.
+Para poder acceder a promociones en Puestos Administrativos, se deberá realizar un movimiento ascendente en niveles y basarse en la Evaluación del desempeño y en la antigüedad, que deberá ser de al menos un año en el nivel actual, de acuerdo a la metodología que para tal efecto establezca la Junta a propuesta de la Unidad del Servicio.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 207.
 
-El personal Administrativo que se encuentre en cualquier Puesto tendrá derecho a concursar, en los términos que establezca la Dirección Administrativa, por la vacante del Puesto inmediato superior al que ocupa, siempre que cubra el perfil requerido, otorgándosele, en caso de ganar el concurso, el Puesto inmediato superior al que ostentaba.
+El personal Administrativo que se encuentre en cualquier Puesto tendrá derecho a concursar por la vacante de un Puesto inmediato superior del Servicio, en los términos que establezca la Unidad del Servicio, siempre que cubra el perfil requerido, otorgándosele, en caso de ganar el concurso, el Puesto inmediato superior al que ostentaba.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -2293,19 +2489,21 @@ El personal Administrativo de cualquier Nivel podrá participar en los procesos 
 
 El personal Administrativo del Instituto será evaluado anualmente y los resultados de dicha Evaluación serán la base para los efectos administrativos correspondientes.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 210.
 
-La Dirección Administrativa actualizará anualmente el sistema de Evaluación del desempeño del personal Administrativo y lo someterá a la consideración de la Junta para su aprobación. La Comisión, podrá en todo momento realizar observaciones y recomendaciones respecto del sistema de Evaluación y su diseño.
+La Unidad del Servicio actualizará anualmente el sistema de Evaluación del desempeño del personal Administrativo y lo someterá a la consideración de la Junta para su aprobación. La Comisión, podrá en todo momento realizar observaciones y recomendaciones respecto del sistema de Evaluación y su diseño.
 
 ###### ARTÍCULO 211.
 
 El sistema de Evaluación deberá funcionar sobre la base de merecimientos objetivos, por lo que deberán tomarse en consideración la antigüedad, la calidad del trabajo realizado, la eficiencia, eficacia, puntualidad, honradez, constancia, servicios relevantes y logros académicos alcanzados.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 212.
 
-La Dirección Administrativa diseñará un sistema de estímulos y premios que someterá a la consideración de la Junta para su aprobación y ejecución correspondiente, previo acuerdo de la Comisión y de acuerdo al presupuesto del Instituto.
+La Unidad del Servicio diseñará un sistema de estímulos y premios que someterá a la consideración de la Junta para su aprobación y ejecución correspondiente, previo acuerdo de la Comisión y de acuerdo al presupuesto del Instituto.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -2343,17 +2541,19 @@ VI. El horario de labores;
 
 VII. La vigencia del contrato; y
 
-VIII. Los demás elementos de validez que determine la Dirección Administrativa.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+VIII. Los demás elementos de validez que determine la Unidad del Servicio con el apoyo de la Dirección Administrativa.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 7 DE ABRIL DE 2003)</small>
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LOS DERECHOS, LAS OBLIGACIONES Y LAS PROHIBICIONES DEL PERSONAL EVENTUAL
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 216.
 
-El personal eventual recibirá los cursos de capacitación necesarios para el buen desarrollo del proceso electoral. En la impartición de dichos cursos intervendrán las Direcciones en el área de su competencia, con el apoyo de la Subdirección del Servicio.
+El personal eventual recibirá los cursos de capacitación necesarios para el buen desarrollo del proceso electoral. En la impartición de dichos cursos intervendrán las Direcciones en el área de su competencia, con el apoyo de la Unidad del Servicio.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
@@ -2533,15 +2733,19 @@ El Consejo General, a propuesta del Director General fijará los horarios de lab
 
 El Consejo General mediante acuerdo que someta a su consideración el Director General podrá determinar el cambio de horario o de adscripción de su personal por necesidades del Servicio y tomando en cuenta su naturaleza.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 235.
 
-La Dirección Administrativa establecerá un sistema de control y registro del personal del Instituto. El personal del Instituto debe registrar diariamente sus horas de entrada y salida.
+La Unidad del Servicio con apoyo de la Dirección Administrativa establecerán un sistema de control y registro del personal del Instituto. El personal del Instituto debe registrar diariamente sus horas de entrada y salida.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTÍCULO 236.
 
-El personal del Instituto que realice estudios tendientes a mejorar su preparación, ya sea educación medio superior, superior o de postgrado, podrá pedir al responsable de la Dirección o Unidad de su adscripción, que solicite a la Dirección Administrativa una jornada especial, quien se sujetará a las disposiciones que al efecto determine esta última.
+El personal del Instituto que realice estudios tendientes a mejorar su preparación, ya sea educación medio superior, superior o de postgrado, podrá pedir al responsable de la Dirección o Unidad de su adscripción, que solicite a la Unidad del Servicio una jornada especial, y el solicitante se sujetará a las disposiciones que al efecto determine esta última.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 Al personal que se le autoricen dichas facilidades deberá presentar constancia de inscripción en escuelas oficiales o con reconocimiento oficial; asimismo deberá reincorporarse a su horario normal durante el periodo de vacaciones escolares.
 
@@ -2591,7 +2795,9 @@ Las solicitudes de licencia del personal del Instituto se tramitarán conforme a
 
 I. Deberá presentarse ante el superior jerárquico o jefe de la unidad responsable cuando menos con cinco días de anticipación al día en que inicia el periodo de la licencia; y
 
-II. En el caso de solicitudes de licencia de hasta cinco días hábiles, el titular del área podrá autorizar la licencia solicitada, notificando de ello al Director General. La solicitud se resolverá en un máximo de tres días contados a partir de la fecha de su presentación, notificando de su resolución al interesado, e informando a la Dirección Administrativa, en caso de que la licencia sea concedida. Dicha licencia surtirá efectos a partir de la notificación.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+II. En el caso de solicitudes de licencia de hasta cinco días hábiles, el titular del área podrá autorizar la licencia solicitada, notificando de ello al Director General. La solicitud se resolverá en un máximo de tres días contados a partir de la fecha de su presentación, notificando de su resolución al interesado, e informando a la Unidad del Servicio, en caso de que la licencia sea concedida. Dicha licencia surtirá efectos a partir de la notificación.
 
 ###### ARTÍCULO 243.
 
@@ -2723,7 +2929,9 @@ El Instituto podrá otorgar a su personal las siguientes prestaciones:
 
 I. Ayuda para anteojos y de aparatos auditivos al personal del Instituto que lo requiera por prescripción médica, en los términos y condiciones que establezca la Junta;
 
-II. Becas académicas cuya cuantía y monto se establezcan de conformidad con el procedimiento que disponga la Junta, a propuesta de la Dirección Administrativa.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
+
+II. Becas académicas cuya cuantía y monto se establezcan de conformidad con el procedimiento que disponga la Junta, a propuesta de la Unidad del Servicio con el apoyo de la Dirección Administrativa.
 
 Dicho procedimiento deberá preservar la igualdad de oportunidades para todos los solicitantes;
 
@@ -2814,3 +3022,7 @@ La Dirección Administrativa propondrá a la Junta a través del Director Genera
 ###### ARTÍCULO SEGUNDO.
 
 Con la finalidad de dar cumplimiento a lo dispuesto por el artículo octavo transitorio, y tomando en cuenta el desarrollo del proceso electoral extraordinario 2002, se realizará la evaluación del desempeño del personal del Instituto que participó en los procesos electorales 2001 y 2002 durante los cuatro primeros meses del año 2003.
+
+P.O. 1 DE MARZO DE 2004.
+
+EL ACUERDO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE PUEBLA.
