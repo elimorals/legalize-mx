@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1958-11-15"
+last_updated: "1962-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1958.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1962.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -3415,7 +3415,9 @@ ART. 812.- Después de los plazos a que se refieren los artículos 807 y 808 no 
 
 ART. 813.- Al albacea se le entregarán los bienes sucesorios, así como los libros y papeles, debiendo rendirle cuentas al interventor, sin perjuicio de lo dispuesto en el artículo 205 del Código Civil.
 
-ART. 814.- Si no se hubiere presentado ningún aspirante a la herencia antes o después de los edictos, o no fuere reconocido con derecho a ella ninguno de los pretendientes, se tendrá como heredera a la Beneficencia Pública.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1962)</small>
+
+ART. 814.- Si no se hubiere presentado ningún aspirante a la herencia antes o después de los edictos, o no fuere reconocido con derecho a ella ninguno de los pretendientes, se tendrá como heredero al Fisco del Estado representado por el Ministerio Público.
 
 ### CAPITULO IV. Del inventario y avalúo
 
@@ -4162,3 +4164,7 @@ Secretario Gral. de Gobierno.
 P.O. 15 DE NOVIEMBRE DE 1958.
 
 Este Decreto surtirá efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1962.
+
+Este Decreto empezará a surtir sus efectos legales a partir de su publicación en el Periódico Oficial del Estado.
