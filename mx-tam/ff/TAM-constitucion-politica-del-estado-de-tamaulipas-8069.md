@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1944-02-09"
+last_updated: "1946-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1946.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -383,9 +383,11 @@ Concluidos los actos de que habla el artículo anterior, los nuevos Diputados ot
 
 En seguida se hará el nombramiento de un Presidente, dos Secretarios y un suplente, quien cubrirá la falta de cualquiera de los miembros de la Mesa en quien ocurra; el Presidente del Congreso declarará a esta legítimamente constituida y en aptitud de ejercer sus funciones.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1946)</small>
+
 ###### Art. 44.
 
-El Congreso tendrá dos períodos de sesiones ordinarias cada año: el primero, improrrogable, comenzará el día primero de enero y terminará el treinta de abril; el segundo, prorrogable hasta por un mes, dará principio el primero de septiembre y terminará el treinta de noviembre. El Gobernador asistirá a la apertura de las sesiones informando sobre el estado de la Administración Pública el día primero de cada año y, además, mandará informes por escrito acerca de todos o de algunos ramos del servicio público, cuando así lo estime conveniente o cuando así lo solicite el Congreso.
+El Congreso tendrá dos períodos de sesiones ordinarios cada año: El primero improrrogable, comenzará el 1o. de Enero y terminará el 30 de Abril; el segundo prorrogable hasta por un mes, dará principio el 1o. de septiembre y terminará el 30 de Noviembre. El Gobernador asistirá a la apertura de las sesiones, pudiendo informar acerca de todos o algunos de los Ramos de la Administración cuando lo estime conveniente o así lo solicite el Congreso; pero éste en sesión pública extraordinaria recibirá el informe anual del Ejecutivo sobre el estado de la Administración Pública, en las fechas previstas en la Fracción XXXIII del Artículo 91. Este informe será contestado por el Presidente del Congreso.
 
 ###### Art. 45.
 
@@ -583,9 +585,9 @@ LIX. (sic) Convocar a elecciones en caso de muerte del Gobernador, o cuando por 
 
 L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Supremo Tribunal de Justicia y de los impedimentos que tengan para desempeñar sus cargos, nombrando en su caso quien deba substituirlos.
 
-LI. Proponer candidato para el puesto de Magistrado de la Suprema Corte de Justicia de la Nación, con arreglo a lo dispuesto en el artículo 96 de la Constitución General.
+LI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 1946)
 
-LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
+LII.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
 LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas.
 
@@ -809,21 +811,11 @@ La elección de Gobernador prefiere a cualquiera otra. Sólo es renunciable este
 
 Si no hubiere habido elección de Gobernador, si se hubiere hecho y publicado para el día cuatro de febrero o el nuevamente electo no sé presentare a tomar posesión de su cargo cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que nombre el Congreso o la Diputación Permanente constituídos aquel o esta en su caso en sesión permanente y secreta por cinco del número total de sus miembros si se tratare del Congreso o por mayoría si se tratare de la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1934)</small>
-
-ART. 84.- En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar (sic) formación de causa ya sea por violación a la presnte (sic) Constitución, o por delito del orden común, o ya por violación a la Constitución Federal y Leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los tres primeros años del período, el Congreso Local constituído en sesión permanente y secreta nombrará, por el voto cuando menos de cinco del número total de sus miembrns (sic), un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción LIX del Artículo 58 de esta Constitución. El Congreso convocará a alecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado.
-
-El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro del último año del período, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el período. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican, convocará desde luego al mismo Congreso a sesiones extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el H. Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino, para que se haga cargo del Poder Ejecutivo mientras toma posesión el Gobernador Substituto que resulte electo.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1946)</small>
 
 ###### Art. 84.
 
-Si no hubiere habido elección de Goberndor (sic), si se hubiere hecho y publicado para el día cuatro de febrero o el nuevamente electo no sé presentare a tomar posesión de su cargo cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que nombre el Congreso o la Diputación Permanente constituídos aquel o esta en su caso en sesión permanente y secreta por cinco del número total de sus miembros si se tratare del Congreso o por mayoría si se tratare de la Diputación Permanente.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1934)</small>
-
-ART. 85.- En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar (sic) formación de causa ya sea por violación a la presnte (sic) Constitución, o por delito del orden común, o ya por violación a la Constitución Federal y Leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los tres primeros años del período, el Congreso Local constituído en sesión permanente y secreta nombrará, por el voto cuando menos de cinco del número total de sus miembrns (sic), un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción LIX del Artículo 58 de esta Constitución. El Congreso convocará a alecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado.
-
-El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro del último año del período, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el período. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican, convocará desde luego al mismo Congreso a sesiones extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el H. Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino, para que se haga cargo del Poder Ejecutivo mientras toma posesión el Gobernador Substituto que resulte electo.
+En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa ya sea por violación a la presente Constitución o por delito del orden común, o ya por violación a la Constitución Federal y Leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los tres primeros años del periodo, el Congreso Local, constituído en sesión permanente y secreta nombrará, por el voto cuando menos de cinco del número total de sus miembros, un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción XLIX del Artículo 58 de esta Constitución. El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro de los últimos tres años del periodo, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el periodo. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican convocará desde luego al mismo Congreso a sesiones extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el H. Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino para que se haga cargo del Poder Ejecutivo mientras toma posesión el Gobernador Substituto que resulte electo.
 
 ###### Art. 85.
 
@@ -927,7 +919,9 @@ XXXI. Pedir al Congreso, o a la Comisión Permanente, si aquel no estuviere reun
 
 XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones.
 
-XXXIII. Concurrir a la apertura de los períodos de sesiones del Congreso, rindiendo un informe sobre los diversos ramos de la Administración en la del primero de enero de cada año
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1946)</small>
+
+XXXIII.- Concurrir a la apertura de los periodos de sesiones del Congreso, pudiendo informar en ellas acerca de todos o algunos de los Ramos de la Administración Pública, cuando lo estime conveniente o así lo solicite el Congreso; pero deberá rendir un Informe completo sobre ésta, en sesión pública extraordinaria del Congreso, el día 5 de Febrero de cada año.
 
 XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad.
 
@@ -1716,3 +1710,7 @@ UNICO.- Este Decreto comienza a surtir sus efectos a partir de la fecha de su pu
 P.O. 9 DE FEBRERO DE 1944.
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
+
+P.O. 7 DE DICIEMBRE DE 1946.
+
+Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
