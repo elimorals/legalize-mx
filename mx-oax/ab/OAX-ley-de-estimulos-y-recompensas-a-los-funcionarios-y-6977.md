@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-estimulos-y-recompensas-a-los-funcionarios-y-6977"
 country: "mx"
 rank: "ley"
 publication_date: "1962-07-21"
-last_updated: "1962-07-21"
+last_updated: "1984-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ESTIMULOS Y RECOMPENSAS A LOS FUNCIONARIOS Y EMPLEADOS DEL GOBIERNO DEL ESTADO Y MAESTROS FEDERALIZADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1984.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 21 de julio de 1962.
 
@@ -79,11 +79,13 @@ Los premios en efectivo que se concedan por vía de recompensa serán de 60 a 18
 
 Se faculta al Gobernador del Estado para aumentar los premios en efectivo cuando el máximo señalado resulte inequitativo, atendiendo a la importancia de la actividad o el esfuerzo realizado por el beneficiario.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1984)</small>
+
 ###### Artículo 7o.
 
-Se instituye la Medalla a la Perseverancia, de primera y segunda categoría y sus distintivos y diplomas correspondientes, para premiar a los servidores públicos del Gobierno y a los maestros federalizados que hayan prestado sus servicios durante treinta y veinticinco años o más, respectivamente.
+Se instituye la medalla a la perseverancia, de primera y segunda categoría y sus diplomas correspondientes, para premiar a los servidores públicos del Gobierno que hayan prestado sus servicios durante 30 y 25 años o más respectivamente, cuando se trate de personal masculino y de 25 y 20 años o más respectivamente cuando se trate de personal femenino.
 
-No será requisito el que los servicios se hayan prestado ininterrumpidamente o en el mismo ramo; basta que el total de años cubra esos períodos de tiempo.
+No será requisito que los servicios se hayan prestado ininterrumpidamente o en la misma dependencia o Poder; basta que el total de años cubra esos período (sic) de tiempo.
 
 ###### Artículo 8o.
 
@@ -144,3 +146,9 @@ Y lo comunico a usted para su conocimiento y fines consiguientes.
 Sufragio Efectivo. No Reelección. El Respeto al Derecho Ajeno es la Paz.- Oaxaca de Juárez, a 27 de junio de 1962.- El Subsecretario Enc. del Despacho, Guillermo Martínez León.- Rúbrica.
 
 Al C..................
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE NOVIEMBRE DE 1984.
+
+UNICO.- Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado, con efectos a partir del día 21 de octubre próximo.
