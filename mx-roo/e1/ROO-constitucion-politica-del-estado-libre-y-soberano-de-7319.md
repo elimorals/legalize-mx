@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2003-12-02"
+last_updated: "2004-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -325,19 +325,43 @@ ARTICULO (SIC).- Para la Organización y desenvolvimiento de la familia revisten
 
 Es derecho correlacionado a la calidad de padres, la determinación libre, informada y responsable, acerca del número y espaciamiento de los hijos. Constituirá su especial incumbencia el deber de procurarles los cuidados y educación adecuados. El poder público dispondrá según el caso, los auxilios pertinentes para suplir las deficiencias en la asitencia (sic) de sus progenitores, tanto como para ofrecer orientación conveniente a los menores desprotegidos.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 32.
+
+La educación es un derecho fundamental del ser humano y de la sociedad. Todo individuo tiene derecho a la educación en los términos de la legislación aplicable.
+
+El Estado garantizará el ejercicio del derecho a la educación para todos y la universalización de la educación básica.
+
+La educación básica obligatoria está conformada por la educación preescolar, primaria y secundaria.
 
 La educación cumple un eminente valor social de interés general. Su orientación descansa en el desenvolvimiento integral de la persona como miembro de una colectividad, y propicia el acceso generalizado a la instrucción pública.
 
 El Estado de Quintana Roo, participará en la función educacional, con arreglo a la distribución dispuesta en la legislación federal de la materia, entre la Federación, Estados y Municipios, para su adecuada unificación y coordinación y para la determinación de las aportaciones económicas que deban corresponder a este servicio público.
 
-La educación primaria, secundaria y normal, así como la de cualquier tipo o grado destinada a obreros o campesinos, que impartan las particulares, estará sujeta a autorización del Gobierno del Estado, quien podrá otorgarla, negarla o revocarla. Asimismo, otorgará o retirará el reconocimiento de validez oficial a estudios distintos de los expresados, impartidos por particulares.
+La educación en el Estado de Quintana Roo, será laica, científica, democrática, y nacionalista. Procurará el constante mejoramiento cultural, social, político y económico del pueblo. Se sustentará en los valores de la solidaridad humana, nacional e internacional. Luchará contra los privilegios, la exclusión y las rupturas del tejido social. Combatirá la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios.
 
-El Gobierno Estatal asumirá el ejercicio de todas las demás atribuciones que le confieran el Artículo 3o de la Constitución General y sus disposiciones reglamentarias.
+Asimismo, atenderá a la comprensión de la problemática estatal y contribuirá al aprovechamiento y conservación de los recursos del Estado, y a la defensa de la independencia política, científica, tecnológica y económica de la nación, para garantizar la continuidad y acrecentamiento de nuestra cultura.
 
-Es deber de los padres, preservar el derecho de los menores a la satisfacción de sus necesidades y a la salud física y mental. La ley determinará los apoyos a la protección de los menores a cargo de las Instituciones Públicas de carácter Federal, Estatal y Municipal.
+El Estado, además de lo señalado con antelación, deberá:
+
+a).- Promover y atender todos los tipos y modalidades educativos incluyendo la educación inicial, la educación media superior y la educación superior necesarios para el desarrollo del Estado y la Nación;
+
+b).- Acentuar la formación y capacitación para el trabajo orientada hacia la productividad; y
+
+c).- Promover y apoyar la investigación científica y tecnológica y alentar el fortalecimiento y difusión de nuestra cultura, la educación física y la práctica del deporte.
+
+Todos los servicios de educación obligatoria que el Estado ofrece serán gratuitos y de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos.
+
+Los beneficiarios del servicio podrán contribuir solidariamente a su mantenimiento, conservación, ampliación y cobertura.
+
+Los particulares podrán impartir educación en todos sus tipos, niveles y modalidades, en estos casos los particulares deberán cumplir con los planes y programas que la autoridad competente determine y obtendrán previamente la autorización expresa del Poder Público, sujetándose a las disposiciones de la Ley General de Educación, de la Ley de Educación del Estado, de sus respectivos reglamentos y de los acuerdos secretariales que incidan en la materia.
+
+En los términos que establezca la Ley, el Estado otorgará y retirará la autorización o el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares.
+
+Las inversiones que en materia educativa realicen los gobiernos estatal y municipales, y sus organismos descentralizados, así como los particulares, son de interés público, por lo tanto quedan sujetas a la normatividad que salvaguarda este interés.
+
+El Gobierno Estatal asumirá el ejercicio de todas las demás atribuciones que le confieran el Artículo 3º de la Constitución General y sus disposiciones reglamentarias.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
@@ -825,7 +849,9 @@ Son facultades de la Legislatura del Estado.
 
 I.- Legislar en su orden interno en todo cuanto no esté reservado por la Constitución General de la República a los funcionarios federales.
 
-II.- Expedir leyes reglamentarias y ejercer las facultades explícitas otorgadas por la Constitución General de la República principalmente en materia educativa de conformidad a la Ley Federal de Educación.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2004)</small>
+
+II.- Expedir leyes reglamentarias y ejercer las facultades explícitas otorgadas en la Constitución Política de los Estados Unidos Mexicanos principalmente en materia educativa de conformidad con la Ley General de Educación.
 
 III.- Iniciar leyes y decretos ante el Congreso de la Unión.
 
@@ -2612,3 +2638,7 @@ P.O. 2 DE DICIEMBRE DE 2003.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE MAYO DE 2004.
+
+UNICO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para los efectos legales que correspondan.
