@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "1996-09-11"
+last_updated: "2005-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -453,9 +453,19 @@ VIII.- La imposibilidad del trabajador de cumplir con la relación de trabajo po
 
 Una parte de la relación laboral, en cualquier tiempo, podrá rescindir la relación de trabajo por causas imputables a la otra.
 
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2005)</small>
+
+Si fuere el titular de la entidad pública quien pretenda la rescisión, previamente deberá instaurar un procedimiento administrativo que respete la garantía de audiencia y que sea substanciado en condiciones de igualdad procesal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 29.
 
-El titular de la entidad pública podrá rescindir la relación de trabajo al trabajador, sin incurrir en responsabilidad, si se produce cualquiera de las siguientes causales:
+El titular de la entidad pública podrá rescindir la relación de trabajo al trabajador, sin incurrir en responsabilidad.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2005)</small>
+
+Para ello, deberá substanciarse un procedimiento al que asisten el propio trabajador, la parte denunciante en caso de haberla y la parte sindical correspondiente para garantizar que exista igualdad de condiciones procesales. Lo anterior, siempre y cuando se produzca cualesquiera de las causales siguientes.
 
 I.- Que incurra el trabajador en faltas de probidad u honradez; o en actos de violencia, amagos, injurias o malos tratos contra sus jefes o compañeros, o familiares de unos u otros, dentro de horas de servicio, salvo que medie provocación o que obre en legítima defensa, si son de tal manera graves que hagan imposible la relación de trabajo;
 
@@ -479,31 +489,39 @@ X.- Que no presente los documentos necesarios para la prestación de sus servici
 
 XI.- Que incurra en una conducta análoga a las anteriores, igualmente grave y de consecuencias semejantes en lo que al trabajo se refiere.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 30.
 
-Cuando la relación de trabajo haya tenido una duración de más de veinte años, no procederá la rescisión, no obstante que se actualice alguna de las causas señaladas en el artículo 29, pero se impondrá al trabajador la corrección disciplinaria que corresponda.
+Cuando la relación de trabajo haya tenido una duración de más de veinte años, no procederá la rescisión, no obstante que se actualice alguna de las causas señaladas en el artículo 29 de esta ley, pero de probarse las señaladas causa, se impondrá al trabajador la corrección disciplinaria que corresponda.
 
-Si en el lapso de un año el trabajador repite la falta o cometa otra u otras que constituya una causa legal de rescisión, dejará de tener efecto la disposición anterior.
+Si en el lapso de un año el trabajador repite la falta, o cometa otra u otras que constituya una causa legal de rescisión, dejará de tener efecto la disposición anterior.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2005)</small>
 
 ###### Artículo 31.
 
-En caso de que el titular de la entidad pública rescinda la relación de trabajo por causas imputables al trabajador, deberá darle por escrito el aviso que contenga con claridad los hechos que la motivan y la fecha o fechas en que se cometieron.
+En caso de que el titular de la entidad pública inicie el procedimiento de rescisión de la relación de trabajo por causas imputables al trabajador, deberá notificarle legalmente y por escrito su determinación, que contenga con claridad los hechos que la motivan y la fecha o fechas en que se cometieron, señalando además con precisión las fechas de las audiencias o de la práctica de cualesquier diligencia administrativa, tendiente a demostrar la comisión o no de los hechos que se le imputan.
 
-El aviso deberá entregarse personalmente al trabajador en la fecha misma de la rescisión de la relación de trabajo o bien, comunicarlo al Tribunal dentro de los cinco días siguientes, en cuyo caso deberá proporcionar el último domicilio que tenga registrado del trabajador a fin de que dicha autoridad se lo notifique.
+La notificación deberá entregarse personalmente al trabajador en la fecha misma de la determinación de inicio del procedimiento de rescisión de la relación de trabajo o bien, comunicarlo al Tribunal dentro de los cinco días siguientes, en cuyo caso deberá proporcionar el último domicilio que tenga registrado del trabajador, a fin de que dicha autoridad se lo notifique.
 
-La falta de aviso al trabajador personalmente o por conducto del Tribunal, por sí sola, determinará la nulidad de la rescisión y, en consecuencia, la injustificación de la separación.
+La falta de notificación al trabajador, personalmente o por conducto del Tribunal, será suficiente para determinar la nulidad del inicio del procedimiento de rescisión y, en consecuencia, la injustificación de la separación, si así se hubiere determinado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2005)</small>
 
 ###### Artículo 32.
 
-Toda rescisión de la relación de trabajo que no hubiese sido precedida de investigación será nula.
+Toda rescisión de la relación de trabajo que no hubiese sido precedida de la substanciación de un procedimiento de investigación, en la que se hayan observado las garantías de legalidad, seguridad jurídica y audiencia, será nula.
 
 En el acta de investigación administrativa, el titular de la entidad pública o su representante otorgará al trabajador el derecho de audiencia y defensa, en la que tendrá intervención la representación sindical, asentándose en ella los hechos, motivo de su origen, con toda precisión; la declaración del trabajador afectado y la del representante sindical, si intervinieron y quisieron hacerlo, las de los testigos de cargo y descargo idóneos; asimismo se recibirán las demás pruebas que pertinentemente procedan, firmándose las actuaciones al término de las mismas por los interesados, lo que harán de igual forma dos testigos de asistencia.
 
 De no querer firmar el acta los intervenientes se asentará tal circunstancia, lo que no invalidará el contenido de la misma, debiéndose entregar una copia al trabajador y otra al representante sindical.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 33.
 
-El trabajador que haya sido separado injustificadamente, podrá solicitar ante el Tribunal, a su elección, que se le indemnice con el importe de tres meses de salario o el cumplimiento de la relación laboral y la consecuente reinstalación; tendrá derecho además a que se le paguen los salarios vencidos, desde la fecha del despido hasta la de su reincorporación.
+El trabajador que haya sido separado injustificadamente, podrá demandar ante el Tribunal a su elección, que se le indemnice con el importe de tres meses de salario, o el cumplimiento de la relación laboral y la consecuente reinstalación; tendrá derecho además, a que se le cubran los salarios vencidos, desde la fecha de la separación hasta la de su reincorporación, así como la publicación en el Periódico Oficial del Estado, de la resolución respectiva.
 
 ###### Artículo 34.
 
@@ -963,9 +981,11 @@ La vacante se otorgará al trabajador de la categoría inmediata inferior que, h
 
 En igualdad de condiciones se preferirá al trabajador que tenga mayor tiempo de servicios prestados dentro de la misma entidad pública. Cuando existan varios en esta situación, se preferirá al que demuestre que es la única fuente de ingresos de su familia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 96.
 
-Las plazas de última categoría, de nueva creación o disponibles en cada grupo, una vez corrido el escalafón respectivo con motivo de las vacantes que ocurrieren y previo estudio de la categoría a cubrir, realizado por el titular de la entidad pública, tomando en cuenta la opinión del sindicato que justifique su ocupación, serán propuestas en un ciento por ciento por el sindicato.
+Las contrataciones de plazas de última categoría, de nueva creación o generadas por renuncia, jubilación, pensión, retiro voluntario, defunción, ascenso, licencias, comisión o sanción, disponibles en cada grupo o subsistema, así como las generadas durante los procesos de corrimiento escalafonario, se realizarán, por el titular de la entidad pública, procediendo a cubrir las vacantes de forma expedita atendiendo invariablemente las propuestas hechas en un cincuenta por ciento por el sindicato.
 
 Los aspirantes a ocupar las plazas vacantes deberán reunir los requisitos que para esos puestos señale cada entidad pública.
 
@@ -2520,3 +2540,9 @@ LIC. ARTURO ROMO GUTIERREZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ESAU HERNANDEZ HERRERA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 5 DE FEBRERO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
