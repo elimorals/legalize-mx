@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1931-05-28"
+last_updated: "1932-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 1931.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 1932.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -100,6 +100,8 @@ Se derogan todas las disposiciones que se opongan a la presente.
 ###### ARTICULO 4°.
 
 Esta ley comenzará a surtir sus efectos desde el 20 de mayo actual.
+
+P.O. 29 DE DICIEMBRE DE 1932
 
 ## TITULO SEGUNDO
 
@@ -735,13 +737,17 @@ El Congreso, cuando lo crea oportuno establecerá los juicios por Jurados, en lo
 
 Del Tribunal Superior de Justicia.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1932)</small>
+
 ###### Art. 104.
 
-El Tribunal Superior de Justicia se compondrá de tres Magistrados propietarios y tres seplentes o supernumerarios, que serán elegidos directamente por la Legislatura del Estado, dentro de los ocho días siguientes a su instalación.
+El Tribunal Superior de Justicia estará integrado por un Magistrado Propietario y dos magistrados suplentes o Supernumerarios de los cuales uno puede ser Secretario de acuerdos o del Pleno del Tribunal. El Magistrado Propietario y los Supernumerarios serán elegidos directamente por la Legislatura del Estado, cada vez que el caso lo requiera, por la faltan absoluta de las personas que desempeñen dichos cargos, y en su receso, por la Diputación Permanente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1932)</small>
 
 ###### Art. 105.
 
-Los Magistrados del Tribunal Superior de Justicia entrarán al desempeño de su cargo en la misma fecha, 1º de octubre, que el Gobernador del Estado, y durarán en sus funciones cuatro años.
+El Magistrado Propietario del Tribunal Superior de Justicia entrará al desempeño de su encargo previa protesta ante la Legislatura o ante la Comisión Permanente, y durará en sus funciones el mismo tiempo que el Ejecutivo del Estado.
 
 ###### Art. 106.
 
@@ -757,15 +763,19 @@ IV.- No pertenecer al estado eclesiástico, ni ser ministro de alguna religión 
 
 V.- Tener antecedentes intachables de moralidad.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1931)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1932)</small>
 
 ###### Art. 107.
 
-Será Presidente del Tribunal el Magistrado propietario que resulte electo para ese cargo por la misma Corporación, debiendo computarse también el voto del Procurador de Justicia. El Presidente del Tribunal será renovado cada año pudiendo ser reelecto, y sus faltas temporales serán suplidas precisamente por uno de los otros dos Magistrados propietarios, designado en la misma forma que el anterior.
+Será Presidente del Tribunal el Magistrado Propietario y fungirá como tal por todo el periodo de su encargo, debiendo ser oído el parecer del C. Procurador en la designación de jueces de Primera Instancia, Municipales, y demás empleados de la Administración de Justicia.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1932)</small>
 
 ###### Art. 108.
 
-Las faltas temporales de los otros dos Magistrados serán cubiertas por su orden, por los Ministros Supernumerarios, lo mismo que las absolutas entre tanto que la Legislatura elige a la persona que deba cubrir la vacante.
+En las faltas temporales del Magistrado Propietario y Presidente del Tribunal, será substituido por el Magistrado Supernumerario primero en número, y a faltan de este, por el segundo.
+
+Cuando uno de los magistrados desempeñe el cargo de Secretario del Tribunal Pleno, entrará en funciones a substituir al Magistrado Propietario, pero el Supernumerario que lo substituya estará en funciones solamente mientras la Legislatura hace la designación del nuevo propietario. El cargo de Magistrado Supernumerario es compatible con cualquiera otro puesto dentro de la administración de justicia, que no sea el de Magistrado Propietario, cuando no tuviere fijado sueldo en el Presupuesto. Los Magistrados Supernumerarios auxiliarán en sus labores al Propietario cuando este se los pida, pudiendo llegar hasta a encargarse del despacho de una Sala y los substituirán en el conocimiento de los negocios en que se declare impedido.
 
 ###### Art. 109.
 
@@ -797,17 +807,23 @@ XI.- Las demás obligaciones que les impongan las leyes.
 
 De los Jueces de Primera Instancia, Menores y Municipales.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1932)</small>
+
 ###### Art. 110.
 
-Los Jueces de Primera Instancia y los Menores serán nombrados por el Tribunal Superior, dentro de los ocho días siguientes a su instalación; los últimos a propuesta en terna del Juez de Primera Instancia de la Municipalidad de que se trate. Los Jueces Municipales serán nombrados por los respectivos Ayuntamientos, dentro de los ocho días siguientes a su instalación.
+Los Jueces de Primera Instancia y los Municipales, serán nombrados por el Tribunal Superior de Justicia, cada vez que el caso lo requiera.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1932)</small>
 
 ###### Art. 111.
 
-Los Jueces de Primera Instancia durarán en su encargo cuatro años, contados desde la fecha de su nombramiento.
+Los Jueces de Primera Instancia durarán en su encargo todo el tiempo que dure su buen comportamiento en el cargo y serán removidos por el Tribunal Superior cuando den lugar a ello previo juicios de responsabilidad seguido ante el Magistrado Propietario, pudiendo ser acusador cualquier persona ofendida, pero siempre a pedimento del C. Procurador de Justicia como Representante Social.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1932)</small>
 
 ###### Art. 112.
 
-Los Jueces Menores y Municipales durarán en su encargo dos años, contados desde la fecha de su nombramiento.
+Los Jueces Municipales durarán en su encargo todo el tiempo que dure su buen comportamiento y serán removidos por el Tribunal Superior cuando den lugar a ello, previo juicio de responsabilidad seguido ante el Magistrado Propietario pudiendo ser acusador cualquier persona ofendida.
 
 ###### Art. 113.
 
@@ -1552,3 +1568,11 @@ Los nuevos Municipios tendrán los mismos límites que actualmente tienen como D
 ###### ARTICULO 2°.
 
 El tercer domingo de noviembre de mil novecientos treinta y uno tendrá lugar las elecciones vara (sic) designar los miembros que integrarán los Ayuntamientos de los Municipios que crea esta ley, debiendo aquéllos tomar posesión el 1° de enero de 1932. Mientras tanto, el Gobernador del Estado dictará las medidas necesarias para la organización de la Hacienda de dichos Municipios y nombrará Juntas de Administración Civil para cada uno de ellos, las que tomarán posesión el 20 de mayo del año en curso, tendrán las mismas facultades que los Ayuntamientos y podrán ser removidas libremente por el mismo G. Gobernador debiendo estar integradas por un presidente municipal, dos regidores Propietarios y dos Suplentes.
+
+###### ARTICULO 1°.
+
+Estas reformas entrarán en vigor con fecha 1º. de enero de 1933. La H. Legislatura o en su caso la Comisión Permanente, designarán con oportunidad al Magistrado Propietario que deberá entrar en funciones el 1º. de enero, otorgando la protesta de Ley ante la misma Legislatura o en su defecto ante la Comisión Permanente. También serán designados los Magistrados Supernumerarios y otorgarán la protesta respectiva en igual forma.
+
+###### ARTICULO 2°.
+
+Todo el personal que integra la Administración de Justicia en el Estado, a excepción de los Magistrados actuales continuarán fungiendo con carácter interino, debiendo el Tribunal Superior de Justicia en uso de las facultades que le confiere el artículo 110 reformado de la Constitución, hacer las designaciones de los Jueces dentro de un término de dos meses y de los Secretarios y empleados del Poder Judicial dentro del mismo término, en uso de sus facultades que al propio Tribunal confiere la Ley Orgánica del Poder Judicial.
