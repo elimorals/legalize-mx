@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-poder-judicial-del-estado-de-san-13199"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-10"
-last_updated: "2003-06-07"
+last_updated: "2004-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2004.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de diciembre de 1998.
 
@@ -2181,11 +2181,15 @@ Para el control de los asuntos que se siguen en los Juzgados Mixtos, el Secretar
 
 Para el control de los asuntos que se tramitan en los Juzgados Menores, el Secretario de Acuerdos, llevará los Libros de Gobierno y los demás que sean necesarios, los cuales le serán entregados por la Presidencia del Supremo Tribunal.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 9 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 135.
 
-Para el control de los asuntos que se registran en la Oficialía de Partes Común a los Juzgados Civiles y de lo Familiar. Se llevarán los siguientes libros que serán entregados por la Presidencia del Supremo Tribunal:
+Para el control de los asuntos que se registran en la Oficialia de Partes Comun a los Juzgados Civiles y de lo Familiar, asi como en la Oficialia de Partes Comun en los Juzgados del Ramo Penal del Primer Distrito Judicial, se llevaran los siguientes libros que seran entregados por la Presidencia del Supremo Tribunal:
 
-I.- Once Libros de Registro correspondiente (sic) a los Juzgados Civiles y Familiares, ocho de éstos en materia Civil y los tres restantes en materia Familiar: manejándose un Libro por cada Juzgado, que debe contener el reporte diario de las demandas que les hayan sido asignadas, registrándose en ellos los siguientes datos:
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2004)</small>
+
+I.- Doce Libros de Registro correspondiente (sic) a los Juzgados Civiles y Familiares, ocho de estos en materia Civil y los cuatro restantes en materia Familiar; manejandose un Libro por cada Juzgado, que debe contener el reporte diario de las demandas que les hayan sido asignadas, registrandose en ellos los siguientes datos:
 
 A).- Año en que es presentado;
 
@@ -2225,7 +2229,9 @@ H).- El nombre del demandado;
 
 I).- El concepto por el cual se interpone la demanda.
 
-III.- Dos Libros de Gobierno generales, uno en materia Civil y Mercantil y otro en materia Familiar, que deben registrar los escritos o promociones subsecuentes, en juicios que se estén ventilando en los Juzgados Civiles o Familiares, según se trate. Asimismo, se deben asentar en ellos demandas estrictamente de término. Al entregarse éstas y las promociones a la primera hora del día siguiente al Juzgado que correspondan, se debe recabar el sello del Juzgado, fecha y firma o rúbrica de la persona que los recibe. Estos Libros deben ser utilizados únicamente en el horario vespertino, en donde se anotarán los siguientes datos.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2004)</small>
+
+III.- Tres Libros de Gobiemo (sic) generales, uno en materia Civil y Mercantil, otro en materia Familiar, que deben registrar los escritos o promociones subsecuentes, en juicios que esten ventilando en los Juzgados Civiles o Familiares, segun se trate; y el tercero de ellos, en materia de Apelacion, en el que se deben registrar las promociones o escritos de termino dirigidos a las Salas a quienes corresponda conocer en Alzada de las citadas materias. Asimismo, se deben asentar en los dos primeros Libros demandas estrictamente de termino. Al entregarse estas, y las promociones o escritos a la primera hora del dia siguiente al Juzgado o Sala que correspondan, se debe recabar en el libro particular correspondiente el sello del Juzgado o Sala, fecha y firma o rubrica de la persona que los recibe. Estos libros deben ser utilizados unicamente en el horario vespertino, en donde se anotaran los siguientes datos:
 
 A).- Número de folio con que es registrado el escrito o demanda, según se trate;
 
@@ -2235,13 +2241,21 @@ C).- La hora en que se recibe el escrito o demanda;
 
 D).- El nombre del actor o de quien promueve;
 
-F) (SIC).- La materia del juicio y el número de expediente si aparece anotado;
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2004)</small>
 
-G).- El número de anexos, si se acompañan;
+E).- La materia del juicio y el numero de expediente o Toca si aparece anotado.
 
-H).- El número de documentos, si se acompañan;
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2004)</small>
 
-I).- Las observaciones, según lo que se solicita en el escrito o demanda;
+F).- El número de anexos, si se acompañan;
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2004)</small>
+
+G).- El número de documentos, si se acompañan;
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2004)</small>
+
+H).- Las observaciones, según lo que se solicita en el escrito o demanda.
 
 ###### ARTICULO 136.
 
@@ -2365,9 +2379,13 @@ Para el control de la recepción de escritos y promociones se utilizará un relo
 
 Al recibir las promociones y escritos se cuidará que se encuentren grapados los documentos, anexos y copias de traslado al escrito original de la promoción, en caso contrario, se le hará saber al promovente para que subsane la anomalía, a fin de evitar extravíos y traspapeleos.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 158.
 
-Al siguiente día hábil de haberse recibido las promociones o escritos en la Oficialía de Partes, ésta los remitirá al Juzgado que le corresponda, con una relación de los mismos en dos tantos, a efecto de que el personal del Juzgado selle y firme de recibido. En casos excepcionales, podrán ser remitidos los escritos iniciales de demanda a los Juzgados asignados, el mismo día de su presentación, con la autorización expresa del Presidente del Supremo Tribunal.
+Al siguiente dia de haberse recibido las promociones o escritos de asuntos civiles, mercantiles y familiares en la Oficialia de Partes, o de asuntos civiles, mercantiles o familiares correspondientes a las Salas de la materia, dicha Oficialia los remitira al Juzgado o Sala respectivos, con una relacion de los mismos, en dos tantos, a efecto de que el personal de Juzgado o de la Sala selle y firme de recibido. En casos excepcionales, podrán ser remitidos los escritos iniciales de demanda a los juzgados asignados, el mismo dia de su presentacion, previa autorizacion expresa del Presidente del Supremo Tribunal.
+
+... (SIC)
 
 ###### ARTICULO 159.
 
@@ -3209,13 +3227,21 @@ VII.- Cuidar el buen desempeño del personal a su cargo.
 
 VIII.- Las demás que le encomienden las leyes.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 243.
 
-El horario de la Oficialía de Partes se distribuirá de la siguiente manera
+El horario de la Oficialia de Partes sera de las 8:00 ocho horas a las 24:00 veinticuatro horas y se distribuira de la siguiente manera:
 
-De lunes a jueves de 8:00 a 14:30 horas y el viernes de 8:00 a 14:00 horas recepción y registro de documentos de demandas iniciales.
+De lunes a jueves de 8:00 a 14:30 horas y el viernes de 8:00 a 14:00 horas: recepcion y registro de escritos iniciales de demanda.
 
-De lunes a jueves 14:30 a 18:00 horas y el viernes de 14:00 a 18:00 horas; recepción de escritos subsecuentes a Juzgados Civiles y Familiares y de 14:30 a 19:00 horas, recepción de escritos subsecuentes en materia Mercantil.
+De lunes a jueves de 14:31 a 18:00 horas y el viernes de 14:01 a 18:00 horas: recepcion de escritos subsecuentes a Juzgados Civiles y Familiares y de 14:31 a 19:00 horas, recepcion de escritos subsecuentes en materia Mercantil.
+
+De lunes a viernes de 18:01 a 24:00 horas, recepcion de escritos de termino en materias Civil y Familiar y de 19:01 a 24:00 horas recepcion de promociones de termino en materia Mercantil.
+
+De lunes a jueves de 8:00 a 14:30 horas y el viernes de 8:00 a 14:00 horas: recepcion de promociones de materia Penal, de caracter no urgente.
+
+De lunes a Jueves de 14:31 a 24:00 horas y el viernes de 14:01 a 24:00 horas: recepcion de promociones o escritos de termino en materia de apelacion Civil, Mercantil y Familiar.
 
 ###### ARTICULO 244.
 
@@ -3958,3 +3984,11 @@ P.O. 7 DE JUNIO DE 2003.
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente acuerdo.
+
+P.O. 9 DE MARZO DE 2014.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS Y MODIFICACIONES AL REGLAMENTO INTERIOR DEL PODER JUDICIAL”.]
+
+PRIMERO.- El presente Acuerdo entrara en vigor al dia siguiente de su publicacion en el Periodico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan a este acuerdo.
