@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-servicios-medicos-10912"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-06-30"
-last_updated: "1997-06-30"
+last_updated: "2000-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10912&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1997-06-27"
 
 REGLAMENTO DE SERVICIOS MEDICOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE SEPTIEMBRE DE 2000.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación el lunes 30 de junio de 1997.
 
@@ -61,9 +61,13 @@ Para otorgar las prestaciones médicas a la población derechohabiente, el Insti
 
 I. Primer Nivel de Atención. Lo constituyen las Unidades de Medicina Familiar en donde se otorgan servicios de salud integrales y continuos al individuo y su familia. Es el sitio de entrada al sistema de salud institucional.
 
-II. Segundo Nivel de Atención. Corresponde a los hospitales generales de subzona, zona o región, en donde se atiende a los pacientes, remitidos por los servicios del primer nivel de atención, que requieren procedimientos diagnósticos, terapéuticos y de rehabilitación.
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
 
-III. Tercer Nivel de Atención. Es la red de Hospitales de alta tecnología y máxima resolución diagnóstica-terapéutica. En ellos se atiende a los pacientes que los Hospitales del segundo nivel de atención remiten.
+II. Segundo nivel de atención. Lo constituyen los hospitales generales de subzona, zona o región en donde se atiende a los pacientes, remitidos por los servicios de los distintos niveles de atención, de acuerdo a la regionalización de los mismos, para recibir atención diagnóstica, terapéutica y de rehabilitación de conformidad a la complejidad de su padecimiento.
+
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
+III. Tercer nivel de atención. Es la red de hospitales de alta tecnología y máxima resolución diagnóstica–terapéutica. En ellos se atiende a los pacientes que los hospitales del segundo nivel de atención remiten, o por excepción los que el primer nivel envíen de conformidad a la complejidad del padecimiento.
 
 ###### Artículo 5.
 
@@ -101,7 +105,9 @@ El Instituto proporcionará las prestaciones del Seguro de Enfermedades y Matern
 
 I. Directamente, a través de su propio personal e instalaciones;
 
-II. Indirectamente, en virtud de convenios con otros organismos públicos o particulares, para que se encarguen de proporcionar las prestaciones en especie del Seguro de Enfermedades y Maternidad, en los términos de la Ley y del Reglamento de Subrogación de Servicios;
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
+II. Indirectamente, en virtud de convenios con otros organismos, públicos o particulares, para que se encarguen de proporcionar las prestaciones en especie del Seguro de Enfermedades y Maternidad en los términos de la Ley y del Reglamento de Subrogación de Servicios;
 
 III. Indirectamente, mediante convenios con quienes tuvieren establecidos los servicios médicos y hospitalarios, pudiendo convenirse si se tratare de patrones con obligación al seguro, en la reversión de cuotas, en los términos de la Ley y del Reglamento de Subrogación de Servicios.
 
@@ -197,7 +203,9 @@ Cuando el probable riesgo le ocurra al trabajador en su centro laboral, el patr�
 
 Cuando el probable riesgo le ocurra al trabajador fuera de su centro laboral, aquél, sus familiares o las personas encargadas de representarlo podrán optar por cualquiera de las acciones siguientes:
 
-I. Informar al patrón para que éste dé aviso al Instituto a través del formulario establecido para tal efecto, en un plazo no mayor de veinticuatro horas, contado a partir de que aquél fue informado del probable riesgo ocurrido a su trabajador.
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
+I. Informar al patrón para que éste dé aviso al Instituto a través del formulario establecido para tal efecto, en un plazo no mayor a veinticuatro horas, contado a partir de que aquél fue informado del probable riesgo ocurrido a su trabajador.
 
 II. Avisar inmediatamente al Instituto el probable riesgo de trabajo que haya sufrido el trabajador.
 
@@ -223,7 +231,9 @@ El asegurado que sufra un riesgo de trabajo y las lesiones o padecimiento le imp
 
 Posteriormente a las cincuenta y dos semanas referidas en el párrafo que antecede y una vez valuada la incapacidad permanente, el trabajador tendrá derecho a las prestaciones en especie y en dinero que marca la Ley.
 
-La valuación de la incapacidad permanente será realizada por los médicos del Instituto, con base en la determinación del estado físico-funcional del trabajador y la información médica, técnica y social que aporten los representantes del sindicato y de la empresa para la que presta sus servicios. Para efecto de propiciar la participación de médicos representantes de los trabajadores y los patrones en las valuaciones antes mencionadas, el Consejo Técnico creará Comisiones Médicas Dictaminadoras Tripartitas en las Delegaciones del Instituto, las cuales funcionarán en los términos que establezca el acuerdo dictado por ese cuerpo colegiado.
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
+La valuación de la incapacidad permanente será realizada por los médicos del Instituto, con base en la información médica institucional y lo establecido en la Ley Federal del Trabajo, la Ley y sus Reglamentos. Las divisiones de Salud en el Trabajo serán las responsables de validar la procedencia o improcedencia de los dictámenes emitidos de acuerdo a la normatividad general e interna establecida en esta materia, así como los casos de controversia que el Consejo Técnico o los consejos consultivos delegacionales le requieran.
 
 El representante del Instituto en las Comisiones referidas en el párrafo precedente será designado por la Dirección de Prestaciones Médicas.
 
@@ -247,7 +257,9 @@ Para este mismo efecto, el Instituto podrá, por iniciativa propia, o a solicitu
 
 Para los efectos del presente capítulo se entenderá por:
 
-I. Enfermedad. Toda alteración física o mental en el individuo, provocada por una lesión orgánica o funcional, permanente o transitoria, causada por agentes físicos, químicos o biológicos, que puede o no imposibilitarle para el desempeño del trabajo o actividades de la vida diaria y requiere de la atención médica para su prevención, curación o rehabilitación.
+> <small>(REFORMADA, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
+I. Enfermedad. Toda alteración física o mental en el individuo, provocada por una lesión orgánica o funcional, permanente o transitoria, causada por trastornos metabólicos, agentes físicos, químicos o biológicos, que puede o no imposibilitarle para el desempeño del trabajo o actividades de la vida diaria y requiere de la atención médica para su prevención, curación o rehabilitación.
 
 II. Maternidad. El estado fisiológico de la mujer originado por el proceso de la reproducción humana, en relación con el embarazo, el parto, el puerperio y la lactancia.
 
@@ -265,7 +277,9 @@ El Seguro de Enfermedades y Maternidad no cubre:
 
 a) Cirugía estética.
 
-b) Dotación de anteojos, lentes de contacto y aparatos auditivos.
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
+b) Dotación de anteojos, lentes de contacto, lentes intraoculares, aparatos auditivos e implantes cocleares, así como prótesis y órtesis externas.
 
 c) Cirugía para corrección de astigmatismo, presbicia, miopía e hipermetropía.
 
@@ -275,7 +289,9 @@ e) Tratamientos: Dentales, excepto extracciones, obturaciones y limpieza; Ortodo
 
 el caso de secuelas de labio y paladar hendido; Endodoncia, excepto en recubrimientos pulpares, corte de la pulpa cameral, extirpación de la pulpa radicular y apicectomías; Paradoncia, salvo en padecimientos de origen irritativo.
 
-f) Procedimientos y tratamientos médico-quirúrgicos no considerados en los instrumentos normativos de la atención médica.
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
+f) Procedimientos y tratamientos médico-quirúrgicos no considerados en los instrumentos normativos de la atención médica, los basados en fundamentos no aceptados por la ciencia médica o de dudosa eficacia en el correcto tratamiento de los enfermos, así como los que no se encuentren implementados en las instituciones públicas o privadas en el país, los aprobados por la Secretaría de Salud o que para su realización requieran de insumos y componentes específicos no disponibles en el territorio nacional.
 
 #### SECCIÓN SEGUNDA. DE LA ATENCIÓN EN EL RAMO DE ENFERMEDADES
 
@@ -301,13 +317,17 @@ En los casos en que al hijo mayor de dieciséis años del asegurado se le hubier
 
 #### SECCIÓN TERCERA. DE LA ATENCIÓN EN EL RAMO DE MATERNIDAD
 
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 34.
 
-El derecho a recibir la asistencia obstétrica necesaria comenzará a partir del día en que el Instituto certifique el estado de embarazo, que servirá de base para determinar la fecha probable del parto y el cómputo de los días de incapacidad a que se refieren el artículo 101 de la Ley.
+El derecho a recibir la asistencia obstétrica necesaria comenzará a partir del día en que el Instituto certifique el estado de embarazo, momento en el cual se determinará la fecha probable del parto de acuerdo a los criterios técnico-médicos y el cómputo de los días de incapacidad a que se refiere el artículo 101 de la Ley.
+
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 35.
 
-La ayuda para lactancia consiste en el suministro de leche industrializada por parte del Instituto para el hijo de la asegurada o de la esposa o concubina del asegurado o pensionado, o a falta de éstos a la persona encargada de alimentar al niño. Esta prestación se proporcionará durante los primeros seis meses de vida del menor, a juicio del médico tratante del Instituto.
+La ayuda para lactancia consistente en el suministro por parte del Instituto, de un sucedáneo de leche humana para el hijo de la asegurada o de la esposa o concubina del asegurado o pensionado, o a falta de éstos a la persona encargada de alimentar al niño. Esta prestación se proporcionará durante seis meses en el primer año de vida; iniciándose de preferencia después de los 4 a 6 meses de edad del niño o antes previa valoración por el médico tratante del Instituto, para definir el sucedáneo de leche más apropiado.
 
 ###### Artículo 36.
 
@@ -445,21 +465,27 @@ El tiempo de duración de la hospitalización del derechohabiente deberá limita
 
 Cuando un derechohabiente por propia decisión y bajo su responsabilidad sea internado en un centro hospitalario que no pertenezca al sistema institucional, el Instituto quedará relevado de toda responsabilidad, salvo la relacionada con la expedición del certificado de incapacidad que en su caso tuviera derecho.
 
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 64.
 
-Cuando fuera necesario el tratamiento quirúrgico, se requerirá el consentimiento previo y por escrito, en el formato establecido, del paciente, siempre que esté capacitado para otorgarlo, o de su familiar o representante legal cuando el enfermo no pueda hacerlo; salvo que se trate de casos de urgencia.
+Cuando fuera necesario, el tratamiento quirúrgico del paciente, se requiere el consentimiento informado del mismo, previo y por escrito, en el formulario establecido siempre que esté capacitado para otorgarlo o de su familiar o representante legal cuando el enfermo no pueda hacerlo; salvo que se trate de casos de urgencia donde se aplicará la normatividad relativa comprendida en la Ley General de Salud.
+
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 65.
 
-Las unidades médicas institucionales en los casos en que el derechohabiente solicite atención en los servicios de urgencias por presentar problemas de salud agudos, deberán proporcionarle atención médica inmediata.
+Las unidades médicas institucionales en los casos en que el derechohabiente solicite atención en los servicios de urgencias por presentar problemas de salud agudos, deberán proporcionarle atención médica inmediata. Cuando se trate de no derechohabientes, el servicio se otorgará de conformidad con lo dispuesto en la Ley General de Salud, o, en su caso, de acuerdo a la normatividad vigente para la atención y cobro a no derechohabientes.
 
 ###### Artículo 66.
 
 Si por la índole de su padecimiento, el derechohabiente necesita permanecer en el área de observación del servicio de urgencias, se le otorgará la atención médica hasta por un lapso máximo de doce horas, contado a partir del momento de su ingreso, tiempo durante el cual se determinará su egreso del servicio o su hospitalización.
 
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 67.
 
-Al egreso del paciente del servicio de urgencias, el médico tratante deberá enviarle al médico familiar en los formatos establecidos la información sobre la atención médica otorgada.
+Al egreso del paciente del servicio de urgencias, el médico tratante deberá enviarle al médico familiar o al no familiar, según corresponda, en los formularios establecidos, la información sobre la atención médica otorgada.
 
 ###### Artículo 68.
 
@@ -481,21 +507,23 @@ Los servicios médicos del Instituto podrán practicar la autopsia al cadáver c
 
 #### SECCIÓN SEXTA. DE LA SALUD REPRODUCTIVA Y MATERNO INFANTIL
 
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 69.
 
-Para los efectos de la presente sección, se entenderá por salud reproductiva el estado de completo bienestar físico, mental y social y no solamente la ausencia de enfermedad durante el proceso de reproducción, así como en el ejercicio de la sexualidad.
-
-Formarán parte de la salud reproductiva los programas de prevención referidos al proceso de reproducción y a la sexualidad.
+Para efectos de la presente sección se entenderá por Salud Reproductiva, la capacidad de la pareja humana de disfrutar y desarrollar su vida sexual, regulando su fecundidad mediante una protección anticonceptiva oportuna y eficaz; la vigilancia del embarazo, parto y puerperio, así como de la nutrición, el crecimiento y el desarrollo de los niños; de tal manera que la reproducción ocurra en las mejores condiciones de salud y bienestar de la propia pareja y sus descendientes.
 
 ###### Artículo 70.
 
 El Instituto otorgará a los derechohabientes, a través del personal médico o paramédico, información, orientación y consejería que les permita tomar decisiones informadas y de manera voluntaria en torno a su salud reproductiva.
 
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 71.
 
-El Instituto otorgará a los derechohabientes, en edad fértil, siempre que ellos lo demanden, los métodos anticonceptivos temporales o definitivos.
+El Instituto otorgará a los derechohabientes en edad fértil, siempre que ellos lo demanden, los métodos anticonceptivos temporales o definitivos.
 
-Para la aplicación de procedimientos anticonceptivos definitivos o temporales, será indispensable obtener la autorización expresa y por escrito del solicitante, previa información al mismo sobre el procedimiento que se le aplicará.
+Para la aplicación de procedimientos anticonceptivos definitivos como la oclusión tubaria bilateral y la vasectomía o temporales como los hormonales orales, hormonales inyectables, el dispositivo intra uterino y los implantes subdérmicos, será indispensable la realización del procedimiento para la obtención del consentimiento informado por escrito.
 
 ###### Artículo 72.
 
@@ -504,6 +532,10 @@ El Instituto otorgará la vigilancia y atención del embarazo, parto y puerperio
 ###### Artículo 73.
 
 El Instituto otorgará a la población derechohabiente menor de cinco años, vigilancia de la nutrición, crecimiento y desarrollo.
+
+> <small>(ADICIONADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 73 bis. El Instituto informará a los derechohabientes y, en su caso, a la población abierta, sobre sus derechos reproductivos mediante la participación del personal médico y paramédico, y a través de los diversos medios de comunicación.
 
 #### SECCIÓN SÉPTIMA. DE LA MEDICINA PREVENTIVA
 
@@ -535,15 +567,21 @@ La asistencia farmacéutica a que se refieren los artículos 3 y 17 fracción I 
 
 El médico tratante pondrá especial cuidado en la cuantificación de los medicamentos que prescriba, tomando en cuenta la naturaleza, evolución y control de la enfermedad.
 
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 80.
 
-Para la prescripción de medicamentos, el médico tratante se ajustará al cuadro básico del Instituto.
+Para la prescripción de medicamentos, el médico tratante se ajustará al Cuadro Básico de Medicamentos del Instituto. La prescripción y dotación de medicamentos fuera del Cuadro Básico del Instituto, en aquellos casos que excepcionalmente se requieran para la atención de un paciente en particular, se realizará con apego a las normas y requisitos que para tal efecto emita el Consejo Técnico.
 
 #### SECCIÓN NOVENA. DE LA EDUCACIÓN MÉDICA
 
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 81.
 
-El Instituto promoverá y propiciará la realización de actividades de educación médica, dirigidas a su personal y coadyuvará con el Sistema Educativo Nacional en la formación, capacitación y desarrollo del personal del área de la salud con el propósito de mejorar la calidad de los servicios, de acuerdo con las normas y procedimientos emitidos por el órgano competente..
+El Instituto promoverá, propiciará y facilitará la realización de actividades de educación médica formativas y de actualización permanente que favorezcan el desarrollo profesional de su personal y coadyuvará con el Sistema Educativo Nacional en la formación, capacitación y desarrollo del personal del área de la salud, ambos con el propósito de mejorar la calidad de los servicios médicos de acuerdo con las normas y procedimientos emitidos por el órgano competente.
+
+Los recursos financieros que se obtengan para el fomento de la educación médica en el Instituto, por concepto de cuotas de recuperación por la prestación de servicios educativos o aportaciones y donaciones de personas físicas, instituciones, empresas y organizaciones filantrópicas, públicas o privadas, nacionales o extranjeras, se administrarán a través del Fondo de Fomento a la Educación.
 
 #### SECCIÓN DÉCIMA. DE LA INVESTIGACIÓN MÉDICA
 
@@ -561,9 +599,15 @@ Tratándose de menores de edad y discapacitados, dicha autorización deberá oto
 
 Los temas de las investigaciones médicas considerarán preferentemente las necesidades de salud o el otorgamiento de servicios que tienen o requieren los derechohabientes. Dichas investigaciones médicas se llevarán a cabo conforme al instructivo en vigor y deberán seguir los lineamientos de la ética médica, señalados en la Ley General de Salud vigente.
 
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 85.
 
-Los recursos financieros que se obtengan para la realización de investigaciones médicas se administrarán a través del Fondo de Fomento a la Investigación.
+Los recursos financieros que se obtengan para la realización de investigaciones médicas, en concepto de aportaciones y donativos de personas físicas, instituciones, empresas y organizaciones filantrópicas, públicas o privadas, nacionales o extranjeras, otorgados para el apoyo de la investigación médica que se realiza en el Instituto, se administrarán a través del Fondo de Fomento de Investigación.
+
+> <small>(ADICIONADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 85 bis. El Instituto promoverá la difusión de las investigaciones realizadas, a través de su publicación en revistas científicas nacionales e internacionales y fomentará la utilización de sus resultados en la toma de decisiones del personal directivo y en la solución a los problemas derivados de la atención a la salud de la población.
 
 ### CAPÍTULO IV. DE LA ATENCIÓN MÉDICA EN EL RAMO DE INVALIDEZ
 
@@ -571,11 +615,15 @@ Los recursos financieros que se obtengan para la realización de investigaciones
 
 Para los efectos del presente Reglamento se entenderá que existe invalidez cuando el asegurado se halle imposibilitado para procurarse, mediante un trabajo igual, una remuneración superior al cincuenta por ciento de su remuneración habitual percibida durante el último año de trabajo y que esa imposibilidad derive de una enfermedad o accidente no profesionales.
 
-La dictaminación del estado de invalidez deberá ser realizada por los servicios médicos institucionales, a través del dictamen médico correspondiente, en el que se considerarán la determinación del estado físico funcional del trabajador y la información médica, técnica y social que aporten los representantes del sindicato y de la empresa para la que presta sus servicios. Las comisiones médicas dictaminadoras tripartitas delegacionales que se señalan en el artículo 25 de este Reglamento, serán competentes para participar en el proceso de dictaminación del estado de invalidez.
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
+La dictaminación del estado de invalidez deberá ser realizada por los servicios médicos institucionales, a través del dictamen médico correspondiente, en el que se considerarán la determinación del estado físico funcional del trabajador y la información médica, técnica y social que se requiera.
 
 Asimismo, este dictamen deberá emitirse, independientemente del número de semanas cotizadas que tuviera el trabajador, para los efectos que señala el párrafo segundo del artículo 122 de la Ley.
 
-Para efectos de revisar la procedencia o improcedencia y, en su caso, resolver lo conducente respecto del dictamen médico referido al estado de invalidez, el Consejo Técnico creará una Comisión integrada por miembros del propio Consejo, la que funcionará en los términos que determine el acuerdo dictado por este Cuerpo Colegiado.
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
+Para efectos de revisar la procedencia o improcedencia y, en su caso, resolver lo conducente respecto del dictamen de invalidez. Las divisiones de Salud en el Trabajo serán las facultadas para validar que el dictamen esté elaborado con base a la normatividad establecida, así como los casos de controversia que el Consejo Técnico y los consejos consultivos delegacionales le requieran.
 
 ###### Artículo 87.
 
@@ -879,6 +927,12 @@ La resolución que se emita será comunicada por escrito al peticionario.
 
 La Dirección de Prestaciones Médicas, a través de sus Coordinaciones, ejercerá el control necesario para mejorar la calidad de los servicios médicos, la satisfacción de los usuarios y coadyuvar al equilibrio financiero de los diferentes ramos de seguro.
 
+> <small>(ADICIONADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
+
+###### Artículo 134.
+
+Es responsabilidad de las direcciones regionales y delegaciones, la evaluación del nivel operativo, el desarrollo de los programas institucionales, así como la implantación y vigilancia del estricto cumplimiento de la normatividad sectorial e institucional aplicable a la prestación de los servicios en materia de salud.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Reglamento entrará en vigor el primero de julio de mil novecientos noventa y siete.
@@ -890,3 +944,9 @@ TERCERO. Se abroga el Reglamento de Traslado de Enfermos, aprobado por Acuerdo d
 CUARTO. Se abroga el Reglamento para la Expedición de Certificados de Incapacidad Temporal para el Trabajo a los Asegurados del Régimen Obligatorio del Seguro Social, aprobado por el H. Consejo Técnico en Acuerdo 623/93 de fecha 15 de diciembre de 1993.
 
 QUINTO. Con la finalidad de incrementar la satisfacción de los usuarios y mejorar la calidad, equidad y eficiencia de los servicios, a través de la participación responsable de derechohabientes y prestadores de servicios, la elección libre por parte del asegurado de su médico familiar, se realizará hasta el momento en que el Instituto instrumente los procedimientos administrativos que en su caso correspondan.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+D.O.F. 13 DE SEPTIEMBRE DE 2000.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
