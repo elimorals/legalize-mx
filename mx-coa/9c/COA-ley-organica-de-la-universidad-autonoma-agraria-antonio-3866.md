@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-universidad-autonoma-agraria-antonio-3866"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-04-04"
-last_updated: "1989-04-04"
+last_updated: "1991-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3866&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA AGRARIA "ANTONIO NARRO"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 4 de abril de 1989.
 
@@ -319,7 +319,11 @@ VIII.- Coordinar las actividades de los Órganos de Gobierno y el funcionamiento
 
 IX.- Presentar ante el Consejo Universitario, para su sanción, los planes, programas y presupuestos necesarios para el logro de los objetivos Universitarios en los términos que establezca el Estatuto y los Reglamentos;
 
-X.- Los demás que señale este ordenamiento, así como las normas y disposiciones reglamentarias de la Universidad.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JUNIO DE 1991)</small>
+
+X.- Otorgar poder general para pleitos y cobranzas, actos de administración y actos de dominio, con todas las facultades, aún las que requieren poder especial conforme a la Ley, en los términos del Artículo 2554 del Código Civil para el Distrito Federal, aplicable en toda la República en materia federal, y su correlativo el Artículo 2448 del Código Civil del Estado de Coahuila; y además para desistir de amparos y para formular querellas y acusaciones de carácter penal, así como para otorgar y suscribir títulos de crédito;
+
+XI.- Las demás que señale este ordenamiento, así como las normas y disposiciones reglamentarias de la Universidad.
 
 ### CAPITULO VII. DISPOSICIONES GENERALES
 
@@ -366,3 +370,11 @@ LIC. ELISEO MENDOZA BERRUETO (Rúbrica)
 EL SECRETARIO DEL EJECUTIVO DEL ESTADO.
 
 LIC. JOSE FUENTES GARCIA (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE JUNIO DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
