@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-general-del-h-tribunal-superior-de-3664"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-08-30"
-last_updated: "1997-03-11"
+last_updated: "1997-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, DE LOS JUZGADOS DE PRIMERA INSTANCIA, MENORES Y DE CONCILIACIÓN Y DE LAS DEMÁS DEPENDENCIAS DEL PROPIO TRIBUNAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 1997.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el viernes 30 de agosto de 1991.
 
@@ -54,6 +54,10 @@ El Tribunal Superior de Justicia, se integra con la estructura determinada por l
 El horario ordinario de las oficinas que integran el Poder Judicial será todos los días hábiles de la semana de las 8:00 a las 15:00 horas incluída media hora de descanso.
 
 Los Titulares de los Tribunales o Dependencias Administrativas podrán ordenar que el personal labore en horas o días diferentes a las señaladas, en horario no mayor de ocho horas, por requerimiento de la Ley o necesidades del servicio.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1997)</small>
+
+Se exceptúa del horario anterior al personal que labora en la Sala Administrativa, cuando esta se erija en la Sala Electoral y en los Juzgados Electorales, en los que el Presidente de dicha Sala, dispondrá el horario que deben regir las labores de los organismos electorales, así como los turnos que deban implementarse los sábados, domingos y días festivos, durante el proceso electoral.
 
 El Pleno del Tribunal podrá modificar el horario establecido.
 
@@ -99,9 +103,13 @@ IV.- No registrar su salida al término de sus labores;
 
 V.- Por no encontrarse en su lugar de trabajo, sin justificación alguna;
 
-VI.-Por ausentarse para visita médica y no asistir a ésta o no acreditar debidamente ésta con la orden correspondiente; y
+VI.- Por ausentarse para visita médica y no asistir a ésta o no acreditar debidamente ésta con la orden correspondiente; y
 
-VII.-Por estar autorizado para no registrar su asistencia y no acudir o abandonar sus labores sin causa justificada.
+VII.- Por estar autorizado para no registrar su asistencia y no acudir o abandonar sus labores sin causa justificada.
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 1997)</small>
+
+VIII.- No presentarse a cubrir el turno que se le haya asignado oportunamente.
 
 ###### Artículo 8º.
 
@@ -225,6 +233,24 @@ Para que funcionen las Salas del Tribunal, se necesita la concurrencia de los Tr
 
 Las Sesiones de las Salas serán ordinarias y secretas y se celebrarán el día hábil de cada semana que acuerden las Presidencias de las mismas. En caso de algún asunto urgente, el Presidente podrá convocar a Sesiones Extraordinarias a iniciativa propia o a solicitud de un Magistrado de la propia Sala.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1997)</small>
+
+###### Artículo 25
+
+1.- Las sesiones de la Sala Administrativa, erigida en Sala Electoral, durante el proceso electoral, serán públicas y se celebrarán en cualquier día y hora, conforme al procedimiento siguiente:
+
+a).- El Secretario de Acuerdos dará lectura a la lista de los asuntos que serán ventilados y resueltos en la Sesión;
+
+b).- El Magistrado Instructor hará la presentación general del expediente y leerá los puntos resolutivos del proyecto de resolución; señalará el sentido de la resolución y los preceptos en que se funde y las consideraciones jurídicas que considere pertinentes;
+
+c).- Los Magistrados podrán discutir el proyecto en turno;
+
+d).- Cuando la mayoría de los Magistrados estén de acuerdo con el proyecto, el Magistrado disidente podrá limitarse a expresar que vota en contra o formular voto particular razonado dentro de un plazo de 24 horas, contados a partir de que concluya la Sesión respectiva, dicho voto se agregará al expediente.
+
+e).- Si el proyecto del Magistrado Instructor, no fue aceptado por la mayoría, la Presidencia de la Sala designará a otro Magistrado, para que dentro de un plazo de 24 horas, contadas a partir de que concluya la sesión respectiva, emita nuevo proyecto de fallo, con las consideraciones y razonamientos jurídicos correspondientes y lo someta a consideración del Pleno de la Sala; y,
+
+f).- El Secretario de Acuerdos levantará un Acta Circunstanciada de cada Sesión Pública.
+
 ###### Artículo 26.
 
 En las Salas se listarán cuando menos con un día hábil de anticipación a la Sesión, por la Secretaría de Acuerdos, los negocios que habrán de discutirse en la misma, y se irán resolviendo sucesivamente, en el orden en que aparezcan listados.
@@ -234,6 +260,10 @@ En las Salas se listarán cuando menos con un día hábil de anticipación a la 
 Los proyectos de resolución, redactados por escrito deberán ser distribuidos para su estudio a los demás Magistrados integrantes de la Sala, cuando menos con tres días hábiles antes de la Sesión. Si el proyecto fuere aprobado sin adiciones ni reformas, se tendrá como sentencia definitiva firmándose en un lapso no mayor de tres días. Si uno de los Magistrados estuviese disconforme con los puntos resolutivos del fallo y votase en contra, deberá expresar la razón de su voto o formular voto particular en un término que no exceda de siete días.
 
 En los mismos términos, si uno de los Magistrados estuviese conforme con los puntos resolutivos pero disconforme con alguna de las consideraciones del fallo, expresará la razón de su voto o formulará voto concurrente en el mismo plazo.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1997)</small>
+
+Los proyectos de resolución redactados por escrito, deberán ser distribuidos inmediatamente para su estudio, a los Magistrados integrantes de la Sala Administrativa, erigida en la Sala Electoral, 24 horas antes del aviso del listado de los asuntos por estrados.
 
 ###### Artículo 28.
 
@@ -264,6 +294,12 @@ b).- Asentar en los autos los acuerdos que se dicten y vigilar que reciben el de
 c).- Autorizar las actas, los acuerdos y las resoluciones, dar fe de las actuaciones y expedir constancias y certificaciones; y
 
 d).- Cuidar que se pongan en los expedientes las razones que procedan con relación al acuerdo y ordenar el despacho oportuno de la correspondencia.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1997)</small>
+
+###### Artículo 30
+
+1.- El Secretario de Acuerdos de la Sala Administrativa erigida en la Sala Electoral, llevará los libros que se consideren convenientes para el control de los medios de impugnación que se presenten.
 
 ### CAPÍTULO IV. DEL SECRETARIO GENERAL, OFICIAL MAYOR, ACTUARIOS Y DELEGACIONES DE LA OFICIALÍA MAYOR
 
@@ -373,6 +409,12 @@ IX.- Conceder licencias a los secretarios y empleados de su dependencia, hasta p
 
 X.- Vigilar la puntualidad y disciplina de sus subordinados.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1997)</small>
+
+###### Artículo 37
+
+1.- Corresponde a los Presidentes de los Juzgados Electorales, las mismas atribuciones que señala el Artículo 25-1, en el ámbito de su competencia.
+
 ### CAPÍTULO II. DE LOS SECRETARIOS DE ACUERDOS Y ACTUARIOS DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
 Artículo 39 (sic).- Son atribuciones y obligaciones de los secretarios de acuerdos de los juzgados de primera instancia, las siguientes:
@@ -416,6 +458,12 @@ XVIII.- Remitir al archivo judicial, a la superioridad o al sustituto legal, los
 XIX.- Ordenar y vigilar que se despachen sin demora los asuntos y correspondencia del juzgado, ya sea que se refiera a negocios judiciales del mismo o al desahogo de los oficios que se manden librar en las determinaciones respectivas, dictadas en los expedientes; y
 
 XX.- Desempeñar todas las demás funciones que las leyes, los reglamentos y el Tribunal Pleno determinen.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1997)</small>
+
+###### Artículo 39
+
+1.- Son atribuciones y obligaciones de los Secretarios de Acuerdos de los Juzgados Electorales, además de las que señala el artículo anterior, llevar los libros que se refieren el Artículo 30-1 de este Reglamento, en lo que atañe a los Medios de Impugnación que les corresponda conocer de acuerdo con su competencia.
 
 ###### Artículo 40.
 
@@ -695,6 +743,10 @@ Los funcionarios y empleados que tengan más de 6 meses consecutivos de servicio
 
 El Tribunal Pleno señalará en la primera Sesión que celebre en los meses de junio y diciembre de cada año, los períodos vacacionales de los Magistrados, Jueces de Primera Instancia y Menores y empleados del Tribunal Superior de Justicia.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1997)</small>
+
+De acuerdo a las necesidades del servicio, igualmente señalará los períodos vacacionales de los Organos Jurisdiccionales Electorales durante el año de Proceso Electoral.
+
 ###### Artículo 62.
 
 Las vacaciones de los funcionarios y empleados de los Juzgados las determinará el Tribunal en Pleno a propuesta de los Jueces respectivos.
@@ -726,6 +778,10 @@ IV.- Se excluyen de los cómputos mencionados las ausencias determinadas en la L
 V.- Las licencias concedidas conforme a este acuerdo serán registradas en el expediente personal del solicitante que se lleva en la Oficialía Mayor de este Tribunal, para los efectos de los cómputos respectivos al instarse otra. En cuanto a las licencias concedidas por los Jueces de Primera Instancia y Menores, éstos deberán igualmente abrir un registro de aquéllas y además comunicar a dicha Oficialía y a la Presidencia del Tribunal, para los mismos fines, los casos en que se extienden tales permisos; y
 
 VI.- Todas las licencias que se otorguen serán de días naturales, y no deberán otorgarse en vísperas de vacaciones o al reinicio de labores después de éstas, ni así mismo a continuación de licencias ya concedidas, ya sean con goce de sueldo o sin él.
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 1997)</small>
+
+VII.- Durante las etapas de la Jornada Electoral, de resultados y declaración de validez de las elecciones y de la del dictamen y declaración de validez de la elección y de Gobernador Electo del Estado, de resultados y declaración de validez de las elecciones de Diputados y componentes de Ayuntamientos y Juntas Municipales, las licencias y permisos quedan suspendidos en Sala y Juzgados Electorales.
 
 ###### Artículo 64.
 
@@ -1306,3 +1362,9 @@ P.O. 11 DE MARZO DE 1997.
 PRIMERO:- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
 
 SEGUNDO:- Con fundamento en los artículos 3 y 4 del Código Civil vigente en el Estado, publíquese este acuerdo en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche por una sola vez.- Cúmplase.- Así lo acordó el Pleno del H. Tribunal Superior de Justicia del Estado.
+
+P.O. 28 DE JUNIO DE 1997.
+
+Primero.- Las presentes adiciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+Segundo.- Con fundamento en los Artículos 3 y 4 del Código Civil vigente del Estado, publíquese este Acuerdo en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche, y hágase del conocimiento del Foro Campechano y Público en General.
