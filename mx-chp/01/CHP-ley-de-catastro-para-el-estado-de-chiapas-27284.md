@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-catastro-para-el-estado-de-chiapas-27284"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-23"
-last_updated: "2002-12-23"
+last_updated: "2003-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE CATASTRO PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 23 de diciembre de 2002.
 
@@ -81,7 +81,9 @@ I. Proporcionar información para la implementación de planes, programas y acci
 
 II. Apoyar la administración de las contribuciones inmobiliarias con apego a los principios de equidad y proporcionalidad, cuando los Ayuntamientos así lo requieran, y
 
-III. Proporcionar servicios catastrales oportunos y de calidad a los propietarios y poseedores de bienes inmuebles.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+III. Proporcionar servicios catastrales oportunos y de calidad a los propietarios y poseedores de bienes inmuebles, así como a las dependencias e instituciones públicas.
 
 Asimismo, la Dirección de Catastro Urbano y Rural, proporcionara a las oficinas Publicas y a los Ayuntamientos los datos que soliciten y que consten en los registros catastrales, que sirvan a las funciones propias de aquellos.
 
@@ -121,6 +123,14 @@ f) Los demás datos que se requieran conforme a ésta Ley y su Reglamento.
 
 Para los efectos catastrales, los bienes inmuebles se clasifican en urbanos, suburbanos y rústicos.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 5-A.
+
+La interpretación y aplicación de la presente ley y su reglamento corresponde a las autoridades catastrales.
+
+A falta de disposición expresa en cuanto a la aplicación e interpretación de esta ley, se aplicarán supletoriamente, las del Código de la Hacienda Pública para el Estado de Chiapas.
+
 ### Capítulo segundo. De la terminología
 
 ###### Artículo 6.
@@ -143,7 +153,9 @@ VII. CLAVE CATASTRAL.- El número que identifica a un predio en el catastro.
 
 VIII. CÉDULA – AVALÚO CATASTRAL.- Es el documento en el que se consignan las características y el valor de mercado de un predio o fracción de éste.
 
-IX. CÉDULA CATASTRAL.- El documento que comprueba que un predio está registrado en el catastro y contiene la información de las características principales del mismo.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+IX. CÉDULA CATASTRAL.- El documento que comprueba que un predio está registrado en el catastro, certifica la existencia del mismo y contiene la información de sus características físicas principales.
 
 X. CONSTRUCCIÓN.- Las edificaciones de cualquier tipo, destino o uso, inclusive los equipos e instalaciones adheridas permanentemente y que forman parte integral de ella.
 
@@ -233,11 +245,15 @@ III. El Subsecretario de Ingresos;
 
 IV. El Director de Catastro Urbano y Rural.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 8.
 
 Son atribuciones del Gobernador del Estado:
 
-Establecer las normas, políticas y lineamientos generales relativos al ejercicio de las funciones catastrales.
+I. Establecer las normas, políticas y lineamientos generales relativos al ejercicio de las funciones catastrales.
+
+II. Suscribir los convenios de coordinación en materia de catastro que se requieran para el eficaz ejercicio de las funciones correspondientes, con dependencias y entidades de la administración pública federal y otras entidades federativas.
 
 ###### Artículo 9.
 
@@ -291,7 +307,13 @@ VI. Proponer las reformas necesarias a la Legislación Catastral, tendientes al 
 
 VII. Formular los anteproyectos de convenios en materia catastral.
 
-VIII. Las demás que le confiere el presente ordenamiento, su Reglamento y demás disposiciones relativas.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+VIII. Coordinar los trabajos para la determinación de los valores unitarios del municipio que lo solicite.
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+IX. Las demás que le confiere el presente ordenamiento, su Reglamento y demás disposiciones relativas.
 
 Los particulares, podrán solicitar aclaraciones a las autoridades catastrales, sobre los actos que estas emitan, dentro de un plazo de seis días hábiles siguientes a aquel que haya tenido conocimiento del acto, debiendo la autoridad resolver en un plazo de quince días hábiles contados a partir de la recepción de la solicitud.
 
@@ -513,6 +535,12 @@ El valor catastral de un predio tendrá vigencia durante el ejercicio fiscal en 
 
 La cédula - avalúo tendrá una vigencia de seis meses, contados a partir de la fecha de su expedición.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 42-A.
+
+Para efectos de las operaciones traslativas de dominio de bienes inmuebles se deberá considerar invariablemente el valor emitido por la autoridad catastral o por los peritos autorizados por la Dirección de Catastro Urbano y Rural.
+
 ###### Artículo 43.
 
 El avalúo emitido por perito valuador, tendrá una vigencia de seis meses, contados a partir de la fecha de su determinación.
@@ -609,9 +637,11 @@ La Dirección de Catastro Urbano y Rural, deberá asignar la clave y el valor a 
 
 Las personas físicas o morales que construyan fraccionamientos o condominios, deberán comunicar por escrito a la Dirección Catastro Urbano y Rural, la fecha de terminación de las obras de urbanización del fraccionamiento o edificación de condominio, dentro del término de los quince días siguientes y antes de que se proceda a la venta de los lotes o apartamentos, casas, oficinas o locales comerciales.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 59.
 
-En los casos de fraccionamientos o condominios, que se desarrollen total o parcialmente sin las autorizaciones respectivas, la Dirección de Catastro Urbano y Rural, procederá a efectuar las operaciones catastrales correspondientes, comunicando de inmediato los resultados a las autoridades competentes, a fin de que se apliquen a los infractores las sanciones que sean procedentes y se tomen las medidas que la propia autoridad determine.
+En los casos que los fraccionamientos o condominios se desarrollen total o parcialmente sin la autorización respectiva, y que la Dirección de Catastro Urbano y Rural, tenga conocimiento, comunicará de inmediato a las autoridades competentes para que se apliquen a los infractores las sanciones que sean procedente y se tomen las medidas que la propia autoridad determine.
 
 ###### Artículo 60.
 
@@ -707,7 +737,9 @@ Cuando se detecte un bien inmueble no manifestado, la Dirección de Catastro Urb
 
 Los Notarios, Corredores Públicos y en general todos aquellos funcionarios que dan fé pública, en los casos de operaciones de traslación de dominio, modificaciones o correcciones sobre bienes inmuebles ubicados en la Entidad; deberán requerir a los interesados la cédula catastral o cédula - avalúo vigente.
 
-En la escritura pública o instrumento que formulen deberán asentar la clave o número de registro catastral del bien inmueble de que se trate.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+En la escritura pública o instrumento que formulen deberán de asentar la clave o número de registro catastral del bien inmueble de que se trate, obteniéndola de la cédula catastral o cédula avalúo.
 
 ###### Artículo 68.
 
@@ -759,9 +791,11 @@ Para cualquier trámite ante la Dirección de Catastro Urbano y Rural, relaciona
 
 Para los efectos de su inscripción en la Dirección de Catastro Urbano y Rural, el contrato relativo a un predio deberá acompañarse de la cédula-avalúo o cédula catastral vigente o de una copia certificada de la misma.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 79.
 
-El Registro Público de la Propiedad y del Comercio, tiene la obligación de remitir a la Dirección de Catastro Urbano y Rural, dentro de los primeros quince días siguientes a su inscripción, una relación de los documentos registrados durante el mes inmediato anterior.
+El Registro Público de la Propiedad y del Comercio, tiene la obligación de remitir a la Dirección de Catastro Urbano y Rural, dentro del mes siguiente al de su inscripción, una relación de los documentos registrados durante el mes inmediato anterior.
 
 ###### Artículo 80.
 
@@ -864,3 +898,19 @@ Dado en el salón de sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los veintitrés días del mes de diciembre del año dos mil dos.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Emilio Zebadúa González, Secretario de Gobierno.- Evelio Rojas Morales.- Secretario de Hacienda.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE DICIEMBRE DE 2003.
+
+###### ARTICULO PRIMERO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+LAS PERSONAS FISICAS O MORALES QUE HAYAN CONSTITUIDO FRACCIONAMIENTOS O CONDOMINIOS CON ANTERIORIDAD A LA PROMULGACION DE LA LEY DE FRACCIONAMIENTOS Y LA LEY SOBRE REGIMEN DE PROPIEDAD EN CONDOMINIO, VIGENTE, DEBERAN ACREDITAR EL CUMPLIMIENTO DE LOS REQUISITOS QUE EXIGIA LA LEGISLACION EN EL MOMENTO DE SU CONSTITUCION.
+
+> <small>(F. DE E., P.O. 21 DE ENERO DE 2004)</small>
+
+EN TODO CASO, PARA REALIZAR LAS OPERACIONES CATASTRALES, DEBERAN PRESENTAR, COMO MINIMO, LA ESCRITURA GENERAL DEL PREDIO, PLANO DE LOTIFICACION Y EN SU CASO AUTORIZACION DEL MUNICIPIO.
