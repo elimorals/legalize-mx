@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1992-10-08"
+last_updated: "1992-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -272,6 +272,10 @@ I.- Cuando los pleitos están en diversas instancias;
 II.- Cuando se trate de juicios sumarios; y
 
 III.- Cuando los juzgados que conozcan respectivamente de los juicios, pertenezca a tribunales de alzada diferentes.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+IV.- Cuando se trate de un proceso que se tramite en el extranjero.
 
 ###### ARTÍCULO 43.
 
@@ -639,9 +643,11 @@ En los despachos y exhortos no se requiere la legalización de las firmas del tr
 
 Para que los exhortos de los tribunales de los Estados de la Federación y del Distrito Federal sean diligenciados por los jueces del Estado, no será necesaria la legalización de las firmas de los funcionarios que los expidan.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTÍCULO 107.
 
-Los exhortos que se remitan al extranjero o se reciban de él, se sujetarán en cuando a sus formalidades, a las disposiciones relativas del Código Federal de Procedimientos Civiles.
+Los exhortos que se remitan al extranjero o se reciban de él, se sujetarán en cuanto a sus formalidades a las disposiciones relativas del Código Federal de Procedimientos Civiles, salvo lo dispuesto por los tratados y convenciones internacionales de que México sea parte.
 
 ###### ARTÍCULO 108.
 
@@ -652,6 +658,10 @@ Pueden los tribunales acordar que los exhortos y despachos que manden expedir se
 ###### ARTÍCULO 109.
 
 Las notificaciones, citaciones y emplazamientos se efectuarán dentro de los tres días siguientes al en que se dicten las resoluciones que las prevengan, cuando el juez o la ley no dispusieren otra cosa. Se impondrá de plano a los infractores de este artículo, una multa que no excederá de diez días de salario mínimo general.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 109 bis.- A solicitud de parte legítima podrán practicarse notificaciones, recepción de pruebas u otras diligencias similares, necesarias en procesos extranjeros en los términos del artículo 922 bis.
 
 ###### ARTÍCULO 110.
 
@@ -1179,6 +1189,10 @@ IX.- Pidiendo el examen de testigos, para probar alguna excepción, siempre que 
 
 X.- Pidiendo la exhibición o compulsa de un protocolo o de cualquier documento que esté en poder de quien se va a demandar, o de persona que sea extraña al juicio que se prepara, o que se extienda certificación o informe por alguna autoridad respecto de algún hecho relativo al asunto de que se trate, o cualquiera diligencia análoga.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+XI.- Pidiendo el examen de testigos u otras declaraciones que se refieran a un proceso extranjero.
+
 ###### ARTÍCULO 187.
 
 Al pedirse la diligencia preparatoria, debe expresarse el motivo por el que se solicita y el litigio que se trata de seguir o que se teme.
@@ -1193,9 +1207,11 @@ Contra la resolución que conceda la diligencia preparatoria, no habrá ningún 
 
 La acción que puede ejercitarse conforme a las fracciones III, IV y V del artículo 186 procede contra cualquier persona que tenga en su poder las cosas que en ellas se mencionan.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTÍCULO 190.
 
-Las diligencias preparatorias de que se trata en las fracciones III a V y VIII y IX del artículo 186, se practicarán con citación de la parte contraria, a quien se correrá traslado de la solicitud por el plazo de tres días, y se aplicarán las reglas establecidas para la práctica de la prueba testimonial.
+Las diligencias preparatorias de que trata en las fracciones III a V y VIII a XI del artículo 186, se practicarán con citación de la parte contraria, a quien se correrá traslado de la solicitud por el término de tres días, y se aplicarán las reglas establecidas para la práctica de la prueba testimonial.
 
 ###### ARTÍCULO 191.
 
@@ -1695,9 +1711,17 @@ IV.- Cuando la negativa fuere elemento constitutivo de la acción.
 
 Ni la prueba en general, ni los medios de prueba establecidos por la ley, son renunciables.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 272.
 
-Solo los hechos están sujetos a prueba; el derecho lo estará únicamente, cuando se funde en leyes extranjeras o en usos, costumbre o jurisprudencia.
+Solo los hechos estarán sujetos a prueba, así como los usos y costumbres o jurisprudencia en que se funde el derecho.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 272 bis.- El tribunal aplicará el derecho extranjero tal como lo harían los jueces del Estado cuyo derecho resultaré aplicable, sin perjuicio de que las partes puedan alegar la existencia y contenido del derecho extranjero invocado.
+
+Para informarse del texto, vigencia, sentido y alcance del derecho extranjero, el Tribunal podrá valerse de informes oficiales al respecto, pudiendo solicitarlos al servicio Exterior Mexicano, o bien, ordenar o admitir las diligencias probatorias que considere necesarias o que ofrezcan las partes.
 
 ###### ARTÍCULO 273.
 
@@ -1846,6 +1870,12 @@ Los documentos privados se presentarán originales, y cuando formen parte del un
 ###### ARTÍCULO 297.
 
 Las partes están obligadas, al ofrecer la prueba de documentos que no tienen en su poder, a expresar el archivo en que se encuentren o si se encuentran en poder de terceros si son propios o ajenos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 297 bis.- La obligación de exhibir documentos y/o cosas en procesos que se sigan en el extranjero, no comprenderá la de exhibir documentos o copias de documentos identificados por características genéricas.
+
+En ningún caso, podrá el Tribunal ordenar ni llevar a cabo la inspección de archivos que no sean de acceso publico, salvo en los casos permitidos por las Leyes Nacionales y las del Estado.
 
 ###### ARTÍCULO 298.
 
@@ -2291,6 +2321,12 @@ No obstante lo dispuesto en los artículos anteriores, cuando el testigo resida 
 
 Para el examen de los testigos que no residen en el lugar del juicio, se liberará exhorto en que se incluirán, en pliego cerrado, las preguntas y respuestas.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 374 bis.- Cuando se solicitaré el desahogo de prueba testimonial, confesional o declaración de parte para surtir efecto en un proceso extranjero, los declarantes podrán ser interrogados verbal y directamente en los términos de este Código.
+
+Para ello, será necesario que se acredite ente el Tribunal desahogo, que los hechos materia del interrogatorio, están relacionados con el proceso pendiente y que medie solicitud de parte o de la autoridad exhortante.
+
 ###### ARTÍCULO 375.
 
 Después de tomarle al testigo la protesta de conducirse con verdad y de advertirle de las penas en que incurren los testigos falsos, se hará constar el nombre, edad, estado civil, domicilio y ocupación; si es pariente por consanguinidad o afinidad y en qué grado, de alguno de los litigantes; si es dependiente o empleado del que lo presenta, o tiene con él sociedad o alguna otra relación de intereses; si tiene interés directo o indirecto en el pleito, si es amigo íntimo o enemigo de alguno de los litigantes. A continuación se procederá al examen.
@@ -2623,7 +2659,7 @@ XVIII.- En general, las cuestiones que por su naturaleza requieran celeridad a j
 
 En los casos de la Fracción XIV del artículo anterior se oirá al Ministerio Publico. Al escrito de demanda se acompañará copia certificada del acta de que se trate y se ofrecerán las pruebas en que se funde la impugnación. El juez emplazará al Director del Registro Civil, para que conteste la demanda y llamará a las personas de cuyo estado civil se trate o pueda ser afectado por la resolución definitiva y a las que en la demanda se mencionen como involucradas. Señalará una audiencia que tendrá lugar luego de transcurridos diez días del emplazamiento tomando en cuenta la distancia en los términos del artículo 130 de este código. En esa audiencia se recibirá la contestación de la demanda y se desahogarán las pruebas ofrecidas, salvo aquellas que el juez rechace o no sea posible recibir en ese mismo acto.
 
-Si el Director del Registro Civil no contestase la demanda, se tendrá por presuntivamente confesados los hechos en que se funda el pedimento de rectificación o de modificación y luego de recibidas las pruebas y oídos los legatos de los interesados si los formulasen por escrito dentro de tres días se dictará la resolución correspondiente.
+Si el Director del Registro Civil no contestase la demanda, se tendrá por presuntivamente confesados los hechos en que se funda el pedimento de rectificación o de modificación y luego de recibidas las pruebas y oídos los alegatos de los interesados si los formulasen por escrito dentro de tres días se dictará la resolución correspondiente.
 
 (EN SUSPENSO LA VIGENCIA, P.O. 8 DE OCTUBRE DE 1992)
 
@@ -3595,7 +3631,11 @@ Si en el contrato se ha convenido en que una finca hipotecada haya de ser adjudi
 
 Cuando los bienes, cuyo remate se haya decretado fueran muebles, se observarán las mismas reglas que para el caso de los inmuebles; a excepción de lo referente a edictos, los que siempre se publicarán fijándose en los tableros del juzgado, por tres veces consecutivas mediando un lapso de tres días entre cada publicación.
 
-#### SECCION CUARTA.. De la ejecución de las sentencias y demás resoluciones dictadas por los tribunales y jueces de los Estados, de la Federación, del Distrito y del extranjero
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+#### SECCION CUARTA.
+
+DE LA EJECUCION DE LAS SENTENCIAS Y DEMAS RESOLUCIONES DICTADAS POR LOS TRIBUNALES Y JUECES DE LOS ESTADOS, DEL DISTRITO Y DE LA FEDERACION.
 
 ###### ARTICULO 603.
 
@@ -3629,39 +3669,93 @@ IV.- Siempre que la parte condenada haya sido emplazada personalmente para ocurr
 
 El juez que reciba despacho u orden de sus superior para ejecutar cualquier diligencia, es mero ejecutor, y , en consecuencia, no dará curso a ninguna excepción que opongan los interesados, y se tomará simplemente razón se sus respuestas en el expediente, antes de devolverlo.
 
-### CAPITULO I. De los incidentes en general
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+### CAPITULO VI. DE LA COOPERACION PROCESAL INTERNACIONAL
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 608.
 
-Las sentencias y demás resoluciones judiciales dictadas en países extranjeros, tendrán en el Estado la fuerza que establezca los tratados respectivos o, en su defecto, se estará a la reciprocidad internacional.
+Los exhortos internacionales que se reciban solo requerirán de homologación cuando impliquen ejecución coactiva sobre personas, bienes o derechos.
+
+Los exhortos relativos a notificaciones, recepción de pruebas y otros asuntos de mero trámite, se diligenciarán cuando proceda, sin formar incidente y de acuerdo con las siguientes reglas:
+
+I.- Las diligencias de exhortos o el obsequio de otras solicitudes de mera cooperación procesal internacional, se llevarán a cabo por los Tribunales del Estado, en los términos y dentro de los límites de este Código y demás Leyes aplicables;
+
+II.- Sin perjuicio de lo anterior, el Tribunal exhortado podrá conceder simplificación de formalidades o la observancia de formalidades distintas a las nacionales, si esto no resulta lesivo al orden público y esencialmente a las garantías individuales;
+
+III.- A solicitud de parte legítima, podrán llevarse a cabo actos de notificación, recepción de pruebas u otras diligencias similares, para ser utilizadas en procesos en el extranjero, en la vía de jurisdicción o de diligencias preparatorias previstas en este Código, y
+
+IV.- Los Tribunales del Estado que remitan al extranjero exhortos internacionales, o que los reciban, los tratarán por duplicado y conservará éste para constancia de lo enviado, o de lo recibido y de lo actuado.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 609.
 
-Solo tendrán fuerza en el estado todas las ejecutorias extranjeras que reúnan las siguientes circunstancias:
+Las sentencias y demás resoluciones extranjeras tendrán eficacia y serán reconocidas en el Estado, en todo lo que no sean contrarias al orden público interno en los términos del Código Federal de Procedimientos Civiles y demás Leyes aplicables, salvo lo dispuesto por los tratados y convenciones de que México sea parte.
 
-I.- Que se cumpla con las formalidades prescritas en el artículo 107;
+Tratándose de sentencias y resoluciones jurisdiccionales que solamente vayan a utilizarse como prueba, será suficiente que las mismas llenen los requisitos necesarios para ser considerados como documentos públicos auténticos.
 
-II.- Que hayan sido dictadas a consecuencia del ejercicio de una acción personal;
+Los efectos que las sentencias o laudos arbitrales produzcan en el Estado, se regirán por este Código, por el Código Federal de Procedimientos Civiles y demás leyes estatales y federales aplicables.
 
-IV (sic).- Que haya sido emplazado personalmente el demandado para ocurrir al juicio;
-
-IV.- Que haya sido emplazado personalmente el demandado para ocurrir al juicio;
-
-V.- Que sean ejecutorias, conforme a las leyes de la Nación en que se hayan dictado; y
-
-VI.- Que llenen los requisitos necesarios para ser consideradas como autenticas.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 610.
 
-Es competente para ejecutar una sentencia dictada en el extranjero, el juez que lo seria para seguir el juicio en que se dictó conforme al título tercero.
+Las sentencias, laudos y resoluciones dictadas en el extranjero, podrán tener fuerza de ejecución en el Estado si se cumplen las siguientes condiciones:
+
+I.- Que se hayan satisfecho las formalidades previstas en el Código Federal de Procedimientos Civiles en materia de exhortos provenientes del extranjero;
+
+II.- Que no hayan sido dictados como consecuencia del ejercicio de una acción real;
+
+III.- Que el Juez o Tribunal sentenciador haya tenido competencia para conocer y juzgar del asunto, de acuerdo con las reglas reconocidas en la esfera internacional, que sean compatibles con las adoptadas por el Código Civil del Estado, por este Código o por el Código Federal de Procedimientos Civiles;
+
+IV.- Que el demandado haya sido notificado y emplazado en forma personal a efecto de asegurarle la garantía de audiencia y el ejercicio de sus defensas;
+
+V.- Que tengan el carácter de cosa juzgada en el país en que fueron dictadas;
+
+VI.- Que la acción que les dio origen no sea materia de juicio que esté pendiente entre las mismas partes ante Tribunales Mexicanos y en el cual hubiere prevenido el Tribunal Mexicano, o cuando menos que el exhorto o carta rogatoria para emplazar, hubieren sido tramitados y entregados a la Secretaría de Relaciones Exteriores o a las autoridades del Estado donde deba practicarse el emplazamiento.
+
+La misma regla se aplicará cuando se hubiere dictado sentencia definitiva.
+
+VII.- Que la obligación para cuyo cumplimiento se haya procedido, no sea contraría al orden público en el Estado, y
+
+VIII.- Que llenen los requisitos para ser considerados como auténticos.
+
+No obstante el cumplimiento de las anteriores condiciones el Juez podrá negar la ejecución, si se probare que en el país de origen no se ejecutan sentencias, resoluciones jurisdiccionales o laudos extranjeros en casos análogos.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 611.
 
-Traducida la Ejecutoria en la forma prevista en el artículo 328, se presentará al juzgado competente para su ejecución, pero previamente se formará artículo para examinar su autenticidad y si, conforme a las leyes nacionales, deba o no ser ejecutada. Se substanciará con un escrito de cada parte y audiencia del Ministerio Público. La resolución, que se dictará dentro del tercero día contesten o no las partes y el Ministerio Público, será apelable en ambos efectos, si se denegare la ejecución y, y en efecto devolutivo si se concediere.
+El exhorto del Juez o Tribunal requirente, debe acompañarse de la siguiente documentación:
+
+I.- Copia auténtica de la sentencia, laudo o resolución jurisdiccional;
+
+II.- Copia auténtica de las constancias que acrediten que se cumplió con las condiciones previstas en las fracciones IV y V señaladas en el artículo anterior;
+
+III.- Las traducciones al español que sean necesarias al efecto, y
+
+IV.- Que el ejecutante haya señalado domicilio para oír notificaciones en el lugar de la homologación.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 612.
 
-Ni el juez interior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o derecho en que se apoye, limitándose tan solo a examinar su autenticidad y si deba o no ejecutarse conforme a las leyes mexicanas.
+El reconocimiento y ejecución de sentencias extranjeras, se sujetará a las siguientes reglas:
+
+I.- Que el tribunal competente para ejecutar una sentencia, laudo o resolución jurisdiccional proveniente del extranjero sea el del domicilio del ejecutado.
+
+II.- El incidente de homologación de sentencia, laudo o resolución extranjera, se abrirá con citación personal al ejecutante y al ejecutado, a quienes se concederá el término de nueve días hábiles para exponer defensa y para ejercitar los derechos que les correspondieren; y en el caso de que ofrecieren pruebas que fueren pertinentes se fijará fecha para recibir las admitidas, cuya preparación correrá a cargo del oferente, salvo razón fundada. En todos los casos se dará intervención al Ministerio Público para que ejercite los derechos que le correspondiere.
+
+La resolución que se dicte será en un lapso de tres días siguientes después de haber oído a las partes. La resolución será apelable en ambos efectos si se denegare la ejecución y en el efecto devolutivo si se concediere.
+
+III.- Todas las cuestiones relativas a depositaria, avaluó, remate y demás relacionadas con la liquidación y ejecución coactiva de sentencia dictada por Tribunal extranjero, serán resueltas por el Tribunal de homologación. La distribución de los fondos resultantes del remate, quedarán a disposición del Juez sentenciador extranjero;
+
+IV.- Ni el Tribunal de primera instancia ni el de apelación podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos del hecho o de derecho en que se apoye, limitándose sólo a examinar su autenticidad y si deba o no ejecutarse conforme a lo previsto en los artículos anteriores, y
+
+V.- Si una sentencia, laudo o resolución jurisdiccional extranjera no pudiere tener eficacia en su totalidad, el Tribunal podrá admitir su eficacia parcial a petición de parte interesada.
 
 ## TITULO OCTAVO. Del juicio arbitral
 
@@ -3821,7 +3915,7 @@ El juez debe compeler a los árbitros a cumplir con sus obligaciones.
 
 ## TITULO NOVENO. De los incidentes
 
-### CAPITULO II. De la acumulación de autos
+### CAPITULO I. De los incidentes en general
 
 ###### ARTÍCULO 642.
 
@@ -3851,7 +3945,7 @@ La sentencia en los incidentes es apelable en los casos en que lo fuere la sente
 
 En los incidentes criminales que surjan en negocios civiles se observará lo dispuesto en el Código de Procedimientos Penales.
 
-### CAPITULO I. De la suspensión
+### CAPITULO II. De la acumulación de autos
 
 ###### ARTÍCULO 647.
 
@@ -3961,7 +4055,7 @@ Es válido todo lo practicado por los jueces competentes antes de la acumulació
 
 ## TITULO DÉCIMO. De la suspensión, interrupción y caducidad del proceso
 
-### CAPITULO II. De la interrupción
+### CAPITULO I. De la suspensión
 
 ###### ARTÍCULO 662.
 
@@ -3985,7 +4079,7 @@ Los actos ejecutados ante tribunal diverso del que conozca del negocio, sólo so
 
 El tiempo de la suspensión no se computa en ningún plazo.
 
-### CAPITULO III. De la caducidad
+### CAPITULO II. De la interrupción
 
 ###### ARTÍCULO 666.
 
@@ -4007,7 +4101,7 @@ En el segundo supuesto del artículo 666, la interrupción cesará cuando la par
 
 Es aplicable al caso de interrupción lo dispuesto por el artículo 665.
 
-### CAPITULO ÚNICO
+### CAPITULO III. De la caducidad
 
 ###### ARTÍCULO 670.
 
@@ -4175,7 +4269,7 @@ TITULO DECIMOSEGUNDO
 
 Divorcio por mutuo consentimiento
 
-### CAPITULO I. De las revocaciones y apelaciones
+### CAPITULO ÚNICO
 
 ###### ARTÍCULO 697.
 
@@ -4221,7 +4315,7 @@ TITULO DECIMOTERCERO
 
 De los recursos
 
-### CAPITULO II. Denegada apelación
+### CAPITULO I. De las revocaciones y apelaciones
 
 ###### ARTÍCULO 706.
 
@@ -4437,7 +4531,7 @@ La parte interesada deberá promover la acumulación de las apelaciones pendient
 
 En el supuesto de la fracción II del artículo 743 el interesado deberá hacerlo del conocimiento del tribunal, hasta antes de la sentencia.
 
-### CAPITULO III. Recurso de responsabilidad
+### CAPITULO II. Denegada apelación
 
 ###### ARTÍCULO 746.
 
@@ -4451,7 +4545,7 @@ Interpuesta la denegada apelación, el juez sin suspender los procedimientos en 
 
 El tribunal, sin sustanciación alguna, resolverá si la apelación fue bien desechada o, en caso contrario, revocando el auto de negatorio, admitirá la apelación expresando el efecto o efectos en que se admite y ordenará al inferior que cumpla con el trámite correspondiente.
 
-### CAPITULO I. Reglas generales
+### CAPITULO III. Recurso de responsabilidad
 
 ###### ARTÍCULO 749.
 
@@ -4495,9 +4589,7 @@ TITULO DECIMOCUARTO
 
 De los concursos
 
-### CAPITULO II
-
-De la rectificación y graduación de créditos.
+### CAPITULO I. Reglas generales
 
 ###### ARTÍCULO 757.
 
@@ -4547,7 +4639,9 @@ En este caso y en el previsto en el artículo anterior, la revocación se tramit
 
 El concursado, en el caso de concurso necesario, deberá presentar al juzgado, dentro de los cinco días de la notificación del auto que lo declare, un estado detallado de su activo y pasivo, con nombres y domicilios de acreedores y deudores, privilegiados y comunes; si no lo presentare, lo hará el síndico.
 
-### CAPITULO III. De la administración del concurso
+### CAPITULO II
+
+De la rectificación y graduación de créditos.
 
 ###### ARTÍCULO 763.
 
@@ -4631,7 +4725,7 @@ Los acreedores listados en el estado del deudor o que presentaren sus documentos
 
 Cuando al hacerse una cesión de bienes, sólo hubiere acreedores hipotecarios, se observarán las disposiciones contenidas en el título primero, tercera parte del libro cuarto del Código Civil, siendo forzosamente el síndico o el acreedor hipotecario, primero en tiempo, quien litigará en representación de los demás acreedores, observándose lo dispuesto en los artículos precedentes.
 
-### CAPITULO IV. Del deudor común
+### CAPITULO III. De la administración del concurso
 
 ###### ARTÍCULO 779.
 
@@ -4673,7 +4767,7 @@ El síndico será removido de plano, si dejare de rendir la cuenta mensual o de 
 
 Será removido por los trámites establecidos para los incidentes, por mal desempeño de su cargo o por comprobarse alguno de los impedimentos a que se refiere el artículo 781.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO IV. Del deudor común
 
 ###### ARTÍCULO 786.
 
@@ -4691,7 +4785,7 @@ TITULO DECIMOQUINTO
 
 Juicios Sucesorios
 
-### CAPITULO II. De las testamentarias
+### CAPITULO I. Disposiciones generales
 
 ###### ARTÍCULO 788.
 
@@ -4867,7 +4961,7 @@ VI.- Lo relativo a las ventas y aplicación de los bienes.
 
 Si durante la tramitación de un intestado, apareciere el testamento, se sobreseerá aquél para abrir el juicio de testamentaría; a no ser que las disposiciones testamentarias se refieran sólo a una parte de los bienes hereditarios. En este caso se acumularán los juicios, bajo la representación del ejecutor testamentario, y la liquidación y partición serán siempre comunes; los inventarios lo serán también, si los juicios se acumularen antes de su elaboración.
 
-### CAPITULO III. De los intestados
+### CAPITULO II. De las testamentarias
 
 ###### ARTÍCULO 811.
 
@@ -4925,7 +5019,7 @@ Si se impugnare la validez del testamento o la capacidad legal de algún hereder
 
 En la junta prevenida por el artículo 811, podrán los herederos nombrar interventor, conforme a la facultad que les concede el artículo 1589 del Código Civil, y se nombrará precisamente en los casos previstos por el 1592 del mismo código.
 
-### CAPITULO IV. Del inventario y avalúo
+### CAPITULO III. De los intestados
 
 ###### ARTÍCULO 820.
 
@@ -5017,7 +5111,7 @@ Al albacea se le entregarán los bienes sucesorios, así como libros y papeles, 
 
 Si no se hubiere presentado ningún aspirante a la herencia antes o después de los edictos, o no fuere reconocido con derecho a ella ninguno de los pretendientes, se tendrán como herederos a las personas que señale el Código Civil.
 
-### CAPITULO V. I. De la administración
+### CAPITULO IV. Del inventario y avalúo
 
 ###### ARTÍCULO 839.
 
@@ -5125,7 +5219,7 @@ La remoción a que se refiere este artículo se substanciará en forma incidenta
 
 Los gastos de inventario y avalúo son a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
 
-### CAPITULO VI. De la liquidación y partición de la herencia
+### CAPITULO V. I. De la administración
 
 ###### ARTÍCULO 859.
 
@@ -5227,7 +5321,7 @@ Si todos los interesados aprobaren la cuenta, o no la impugnaren, el juez la apr
 
 El auto que pruebe o repruebe la cuenta es apelable en el efecto devolutivo.
 
-### CAPITULO VII. De la tramitación por notarios
+### CAPITULO VI. De la liquidación y partición de la herencia
 
 ###### ARTÍCULO 880.
 
@@ -5371,7 +5465,7 @@ VI.- La firma de todos los interesados.
 
 La sentencia que apruebe o repruebe la partición es apelable en ambos efectos, cuando el monto del caudal exceda de quinientos días de salario mínimo general.
 
-### CAPITULO VIII. De la transmisión hereditaria del patrimonio familiar
+### CAPITULO VII. De la tramitación por notarios
 
 ###### ARTÍCULO 900.
 
@@ -5399,7 +5493,7 @@ Siempre que haya oposición de algún aspirante a la herencia o de cualquier acr
 
 Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un juicio sucesorio intestamentario o testamentario iniciado por testamento público, éste podrá seguirse tramitando con intervención de un notario, de acuerdo con lo que se establece en este capítulo, para lo cual exhibirán copia certificada de lo actuado.
 
-### CAPITULO IX. Del testamento público cerrado
+### CAPITULO VIII. De la transmisión hereditaria del patrimonio familiar
 
 ###### ARTÍCULO 905.
 
@@ -5415,7 +5509,7 @@ IV.- Todas las resoluciones se harán constar en actas y no se requieren peticio
 
 V.- El acta o actas en que consten las adjudicaciones pueden servir de título a los interesados.
 
-### CAPITULO X. Declaración de ser formal el testamento ológrafo
+### CAPITULO IX. Del testamento público cerrado
 
 ###### ARTÍCULO 906.
 
@@ -5435,7 +5529,7 @@ Será preferida para la protocolización de todo testamento cerrado, la notaría
 
 Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversa, el juez procederá respecto a cada uno de ellos, como se previene en este capítulo y los hará protocolizar en un mismo oficio, para los efectos a que haya lugar en los casos previstos por los artículos 1371 y 1373 del Código Civil.
 
-### CAPITULO XI. Declaración de ser formal el testamento privado
+### CAPITULO X. Declaración de ser formal el testamento ológrafo
 
 ###### ARTÍCULO 910.
 
@@ -5449,7 +5543,7 @@ Recibido el pliego, procederá el tribunal como se dispone en el artículo 1438 
 
 Si para la debida identificación fuere necesario reconocer la firma, por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastante sus declaraciones, el tribunal nombrará un perito para que confronte la firma con las indubitadas que existan del testador, y, teniendo en cuenta su dictamen, hará la declaración que corresponda.
 
-### CAPITULO XII. Del testamento militar
+### CAPITULO XI. Declaración de ser formal el testamento privado
 
 ###### ARTÍCULO 913.
 
@@ -5477,7 +5571,7 @@ Recibidas las declaraciones, el tribunal procederá conforme al artículo 1452 d
 
 De la resolución que niegue la declaración solicitada, pueden apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria; de la que acuerde la declaración, puede apelar el representante del Ministerio Público.
 
-### CAPITULO XIII. Del testamento marítimo
+### CAPITULO XII. Del testamento militar
 
 ###### ARTÍCULO 917.
 
@@ -5489,13 +5583,13 @@ De la declaración judicial se remitirá copia autorizada al Gobernador del Esta
 
 En lo demás, se observará lo dispuesto en el capítulo que antecede.
 
-### CAPITULO XIV. Del testamento hecho en país extranjero
+### CAPITULO XIII. Del testamento marítimo
 
 ###### ARTÍCULO 919.
 
 Hechas las publicaciones que ordene el artículo 1590 del Código Civil del Distrito Federal, podrán los interesados acudir al tribunal competente para que pida a la Secretaría de Relaciones Exteriores la remisión del testamento o directamente a ésta para que lo envíe.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO XIV. Del testamento hecho en país extranjero
 
 ###### ARTÍCULO 920.
 
@@ -5511,13 +5605,17 @@ TITULO DECIMOSEXTO
 
 De la jurisdicción voluntaria
 
-### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
+### CAPITULO I. Disposiciones generales
 
-### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
+### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
 
 ###### ARTÍCULO 922.
 
 La jurisdicción voluntaria comprende todos los actos en que, por disposición de la ley o por solicitud de los interesados, se requiere la intervención del juez, sin que esté promovida, ni se promueva, cuestión alguna entre partes determinadas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 922 bis.- A solicitud de parte legítima o de autoridad exhortante, podrá practicarse en esta vía, las notificaciones, recepción de pruebas o diligencias similares necesarias para procesos extranjeros.
 
 ###### ARTÍCULO 923.
 
@@ -5559,7 +5657,7 @@ La apelación deberá interponerse en un plazo de seis días.
 
 Toda cuestión que surja en los negocios a que se refieren los capítulos siguientes y que haya de resolverse en juicio contradictorio, se substanciará en la forma determinada para los incidentes, a no ser que la ley dispusiere otra cosa.
 
-### CAPITULO IV. Adopción
+### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
 
 ###### ARTÍCULO 929.
 
@@ -5667,7 +5765,7 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar la existen
 
 Los tutores y curadores no pueden ser removidos, ni excusarse por acto de jurisdicción voluntaria.
 
-### CAPITULO V. De las informaciones ad perpétuam
+### CAPITULO IV. Adopción
 
 ###### ARTÍCULO 942.
 
@@ -5735,7 +5833,7 @@ Para recibir dinero prestado, en nombre del menor o incapacitado, necesita el tu
 
 Lo dispuesto en los artículo que preceden se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento, por más de cinco años de bienes de ausentes, menores e incapacitados.
 
-### CAPITULO VI. Apeo y deslinde
+### CAPITULO V. De las informaciones ad perpétuam
 
 ###### ARTÍCULO 954.
 
@@ -5769,7 +5867,7 @@ Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en 
 
 La impugnación de la adopción y su revocación, en los casos de los artículos 380 y 391 fracción II del Código Civil, no pueden promoverse en diligencia de jurisdicción voluntaria.
 
-### CAPITULO VII. Disposiciones relativas a otros actos de jurisdicción voluntaria
+### CAPITULO VI. Apeo y deslinde
 
 ###### ARTÍCULO 958.
 
@@ -5800,6 +5898,8 @@ Las informaciones se protocolizarán en el protocolo del notario que designe el 
 ###### ARTÍCULO 962.
 
 En ningún caso se admitirán, en jurisdicción voluntaria, informaciones de testigos sobre hechos que fueren materia de un juicio comenzado.
+
+### CAPITULO VII. Disposiciones relativas a otros actos de jurisdicción voluntaria
 
 ###### ARTÍCULO 963.
 
@@ -6148,3 +6248,13 @@ La vigencia de esta ley será durante los meses de diciembre de 1992, enero y ju
 ###### ARTICULO TERCERO.
 
 Las disposiciones jurídicas que se opongan a la presente quedan derogadas mientras dure la vigencia de ésta, a cuyo término recobraran aquellas su pleno vigor en forma automática.
+
+P.O. 30 DE DICIEMBRE DE 1992
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el periódico Oficial "La sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones Legales y reglamentarias que se opongan a la presente.
