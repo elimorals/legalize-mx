@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-administracion-publica-del-21337"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-12-15"
-last_updated: "1996-12-15"
+last_updated: "1999-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JESUS MARIA, AGS.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 1999.
 
 Reglamento publicado en el Suplemento, Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de diciembre de 1996.
 
@@ -59,7 +59,7 @@ Las dependencias municipales deberán apegarse a las políticas, prioridades y r
 
 Cuando exista confusión en las funciones de más de una dependencia para la atención de algún asunto, éstas se someterán a un análisis que determinará a quien corresponde la función respectiva. De persistir la duda, el Presidente Municipal resolverá en definitiva a cual dependencia será asignada la función, lo que deberá constar en el presente Reglamento.
 
-### CAPITULO II. De las Autoridades del Gobierno Municipal
+### CAPITULO ll. De las Autoridades del Gobierno Municipal
 
 ###### ARTICULO 6o.
 
@@ -93,6 +93,8 @@ VI.- Los Jefes de Manzana.
 
 ### CAPITULO III. De las Dependencias Municipales
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 9o.
 
 Para el estudio, planeación y despacho de los asuntos de su competencia la Administración Pública Municipal contará con las siguientes Dependencias:
@@ -101,23 +103,19 @@ Para el estudio, planeación y despacho de los asuntos de su competencia la Admi
 
 - Secretaría Particular.
 
-- Presidencia del Comité Municipal del Sistema Para el Desarrollo Integral de la Familia y Voluntariado.
+- Presidencia del Comité Municipal del Sistema para el Desarrollo Integral de la Familia y Voluntariado.
 
-- Secretaria de H. Ayuntamiento.
+- Secretaria de Honorable Ayuntamiento y Dirección de Gobierno.
 
 - Tesorería Municipal.
 
 - Dirección de Obras Públicas y Planeación.
 
-- Oficialía Mayor.
+- Dirección de Administración.
 
 - Dirección de Servicios Públicos Municipales.
 
-- Dirección de Desarrollo Social.
-
-- Dirección de Seguridad Pública.
-
-- Dirección de Tránsito Municipal.
+- Dirección de Seguridad Pública y Vialidad Municipal.
 
 - Dirección de Salud Municipal.
 
@@ -147,11 +145,13 @@ X.- Las Juntas Vecinales de Colaboración Municipal:
 
 XI.- El Comité de Planeación para el Desarrollo Municipal;
 
-XII.- EI Sistema Municipal de Protección Civil; y
+XII.- El Sistema Municipal de Protección Civil; y
 
 XIII.- Los demás órganos que sean creados por el H. Ayuntamiento, que respondan a las necesidades del Municipio.
 
 ### CAPITULO IV. De la Estructura de la Administración Pública Municipal
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1999)</small>
 
 ###### ARTICULO 11.
 
@@ -161,7 +161,7 @@ PRESIDENCIA MUNICIPAL:
 
 - Secretaría Particular.
 
-- Presidencia del Comité Municipal del Sistema Para el Desarrollo Integral de la Familia y Voluntariado.
+- Presidencia del Comité Municipal del Sistema para el Desarrollo Integral de la Familia y Voluntariado.
 
 - Secretaria del H. Ayuntamiento.
 
@@ -169,23 +169,25 @@ PRESIDENCIA MUNICIPAL:
 
 - Dirección de Obras Públicas y Planeación.
 
-- Oficíalía Mayor.
+- Dirección de Administración.
 
 - Dirección de Servicios Públicos Municipales.
 
 - Dirección de Desarrollo Social.
 
-- Dirección de Seguridad Pública.
-
-- Dirección de Tránsito Municipal.
+- Dirección de Seguridad Pública y Vialidad del Municipio.
 
 - Dirección de Salud Municipal.
 
 SECRETARIA PARTICULAR:
 
+- Departamento de Giros y Eventos.
+
+- Departamento de atención Ciudadana y Comunicación Social.
+
 PRESIDENCIA DEL COMITE MUNICIPAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA Y VOLUNTARIADO.
 
-- Dirección del DIF Municipal.
+- Dirección del Comité para el Desarrollo Integral de la Familia.
 
 - Departamento Jurídico.
 
@@ -193,13 +195,15 @@ PRESIDENCIA DEL COMITE MUNICIPAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA F
 
 - Departamento del Servicio Médico.
 
--Departamento del CENDI.
+- Departamento del Centro de Desarrollo Infantil.
 
-SECRETARIA DEL H. AYUNTAMIENTO:
+- Departamento Servicios Generales.
+
+SECRETARIA DEL H. AYUNTAMIENTO Y DIRECCION DE GOBERNACION:
 
 - Departamento de Reglamentos Municipales.
 
-- Departamento de Acción Cívica.
+- Departamento de Acción Cívica, Cultura y Deporte.
 
 TESORERIA MUNICIPAL:
 
@@ -207,55 +211,61 @@ TESORERIA MUNICIPAL:
 
 - Departamento de Egresos.
 
+- Departamento de Contabilidad.
+
 DIRECCION DE OBRAS PUBLICAS Y PLANEACION:
 
-- Departamento de Planeación.
+- Subdirección de Planeación.
 
-- Departamento de Construcción.
+- Subdirección de Obras Públicas.
 
-OFICIALIA MAYOR:
+- Departamento Administrativo.
 
-- Departamento de Recursos Humanos.
+DIRECCION DE ADMINISTRACION:
 
-- Departamento de Proveeduría.
+- Subdirección de Recursos Humanos.
 
-- Departamento de Servicios Generales.
+- Subdirección de Recursos Materiales.
 
-DIRECCION DE SERVICIOS PUBLICOS MUNICIPALES:
+- Subdirección de Servicios Generales.
 
-- Departamento de Parques y Jardines.
+DIRECCION DE SERVICIOS PUBLICOS:
 
-- Departamento de Limpia y Aseo.
+- Subdirección de Parques y Jardines.
+
+- Subdirección de Limpia y Aseo.
+
+- Subdirección de Ecología y Protección al Ambiente.
 
 - Departamento de Alumbrado Público.
 
 - Departamento de Panteones.
 
-- Departamento de Mercados.
+- Departamento de Areas Comerciales.
 
-- Departamento de Ecología y Protección al Medio Ambiente.
+- Departamento de Rastro.
 
 DIRECCION DE DESARROLLO SOCIAL:
 
-- Departamento de Vivienda Digna.
+- Subdirección de Concertación Social.
 
-- Departamento de Fondos Municipales.
+- Subdirección de Promoción Social.
 
-- Departamento de Apoyo a la Producción.
+- Subdirección de Educación, Cultura y Deporte.
 
-- Departamento de Escuela Digna.
+- Departamento Operativo Ramo XXXIII.
 
-- Departamento de Estímulos a la Educación Básica.
+- Departamento Educativo.
 
-DIRECCION DE SEGURIDAD PUBLICA:
+- Departamento de Estudios Sociales.
+
+- Departamento de Promoción Social.
+
+DIRECCION DE SEGURIDAD PUBLICA Y VIALIDAD DEL MUNICIPIO:
 
 - Subdirección de Seguridad Pública.
 
-- Comandancia.
-
-DIRECCION DE TRANSITO MUNICIPAL:
-
-- Comandancia.
+- Subdirección de Tránsito Municipal y Comandancia.
 
 DIRECCION DE SALUD:
 
@@ -537,9 +547,11 @@ VII.- Controlar las acciones y obras que se ejecuten en el Municipio para que se
 
 VIII.- Supervisar y controlar las actividades de las diferentes áreas que integran la Dirección.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 20.
 
-A la OFICIALIA MAYOR, corresponde lo siguiente:
+A la DIRECCION DE ADMINISTRACION corresponde lo siguiente:
 
 I.- Planear, programar y coordinar las actividades que tienen por objeto el reclutamiento contratación, capacitación y desarrollo del personal que labora en la Administración Pública Municipal;
 
@@ -605,9 +617,11 @@ IX.- Expedir las convocatorias y bases a que deben ajustarse los concursos de ob
 
 X.- Participar en el Comité de Planeación para el Desarrollo Municipal como Secretario Técnico.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 23.
 
-A la DIRECCION DE SEGURIDAD PUBLICA, corresponde lo siguiente:
+A la Dirección de Seguridad Pública y Vialidad del Municipio, corresponde lo siguiente:
 
 l.- Mantener la seguridad y el orden público del Municipio;
 
@@ -621,31 +635,49 @@ V.- Auxiliar al Ministerio Público, a las autoridades judiciales y a las admini
 
 VI.- Proporcionar el auxilio necesario en caso de siniestro;
 
-VII.- Observar estrictamente lo que el Bando de Policía y Buen Gobierno consigna en esta materia; y
+VII.- Observar estrictamente lo que el Bando de Policía y Buen Gobierno consigna en esta materia; y (sic)
 
-VIII.- Sancionar las faltas cometidas por los agentes de seguridad.
+VIII.- Sancionar las faltas cometidas por los agentes de seguridad;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
+
+IX.- Vigilar el cumplimiento de los normas de tránsito de vehículos, semovientes y peatones dentro del municipio;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
+
+X.- Proponer al H. Ayuntamiento y a la Presidencia Municipal las medidas necesarias para mejorar la vialidad;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
+
+XI.- Realizar campañas permanentes para vigilar que los señalamientos de tránsito se encuentren en óptimas condiciones, reponer las destruidas e instalar las que resulten necesarias;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
+
+XII.- Aplicar las sanciones administrativas por infracción al. Reglamento de Tránsito;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
+
+XIII.- Promover las (sic) capacitación de los elementos de nuevo ingreso y fomentar el desarrollo de los que ya se encuentran en funciones;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
+
+XIV.- Sancionar las faltas cometidas por los agentes de tránsito;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
+
+XV.- Impartir educación vial a los distintos sectores de la población del municipio;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
+
+XVI.- Adoptar las medidas necesarias para prevenir y evitar la contaminación ambiental producida por los vehículos automotores que circulen en el Municipio; y
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 1999)</small>
+
+XVII.- Observar estrictamente lo que el Bando de Policía y Buen Gobierno consigna en esta materia.
 
 ###### ARTICULO 24.
 
-A la DlRECCION DE TRANSITO MUNICIPAL, corresponde lo siguiente:
-
-l.- Vigilar el cumplimiento de las normas de tránsito de vehículos, semovientes y peatones dentro del Municipio;
-
-II.- Proponer al H. Ayuntamiento y al Presidente Municipal las medidas necesarias para mejorar la vialidad;
-
-III.- Realizar campañas permanentes para vigilar que los señalamientos de tránsito se encuentren en óptimas condiciones. Reponer las destruidas e instalar las que resulten necesarias;
-
-IV.- Aplicar las sanciones administrativas por infracción al Reglamento de Tránsito;
-
-V.- Promover la capacitación de los elementos de nuevo ingreso y fomentar el desarrollo de los que ya se encuentran en funciones;
-
-VI.- Sancionar las faltas cometidas por los agentes de tránsito;
-
-VII.- Impartir educación vial a los distintos sectores de la población del Municipio;
-
-VIIl.- Adoptar las medidas necesarias para prevenir y evitar la contaminación ambiental producida por los vehículos automotores que circulen en el Municipio; y
-
-IX.- Observar estrictamente lo que el Bando de Policía y Buen Gobierno consigna en esta materia.
+(DEROGADO, P.O. 4 DE ABRIL DE 1999)
 
 ###### ARTICULO 25.
 
@@ -702,3 +734,9 @@ Ing. Julio César Macías Pérez.
 SINDICO:
 
 Profr. Antonio Olvera Morales.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE ABRIL DE 1999.
+
+UNICO.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
