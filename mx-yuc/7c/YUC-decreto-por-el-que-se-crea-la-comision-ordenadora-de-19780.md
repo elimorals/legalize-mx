@@ -4,7 +4,7 @@ identifier: "YUC-decreto-por-el-que-se-crea-la-comision-ordenadora-de-19780"
 country: "mx"
 rank: "decreto"
 publication_date: "1986-02-21"
-last_updated: "1986-02-21"
+last_updated: "1987-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 SE CREA LA COMISION ORDENADORA DE DESARROLLO URBANO Y DE VIVIENDA DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 1987.
 
 Decreto publicado en el Periódico Oficial el Viernes 21 de Febrero de 1986.
 
@@ -35,9 +35,11 @@ Ciudadano Víctor M. Cervera Pacheco, Gobernador Constitucional Interino del Est
 
 Que el "L" Congreso Constitucional del Estado, Libre y Soberano de Yucatán, Decreta:
 
+> <small>(REFORMADO, D.O. 4 DE FEBRERO DE 1987)</small>
+
 ###### ARTICULO PRIMERO.
 
-Se crea la Comisión Ordenadora de Desarrollo Urbano y de Vivienda del Estado de Yucatán, como organismo descentralizado con personalidad jurídica y patrimonio propio y cuyo domicilio social estará en la ciudad de Mérida, con fundamento en el Artículo primero de la Ley Orgánica del Poder Ejecutivo del Estado de Yucatán.
+Se crea la Comisión Ordenadora del Uso del Suelo del Estado de Yucatán, como organismo descentralizado con personalidad jurídica y patrimonio propio y cuyo domicilio social estará en la ciudad de Mérida, con fundamento en el Artículo primero de la Ley Orgánica del Poder Ejecutivo del Estado de Yucatán.
 
 ###### ARTICULO SEGUNDO.
 
@@ -72,6 +74,10 @@ XIII.- Otorgar financiamientos a los grupos de bajos ingresos para la adquisici�
 XIV.- Celebrar, ejecutar o aplicar contratos, convenios, actos y operaciones y todo tipo de recursos y créditos que sean convenientes o necesarios para el cumplimiento de sus objetivos y
 
 XV.- Colaborar en la regularización de los asentamientos humanos con el objeto de contribuir al uso más racional del suelo, en relación al desarrollo urbano y a la vivienda en el Estado.
+
+> <small>(ADICIONADO, D.O. 4 DE FEBRERO DE 1987)</small>
+
+XVI.- Proyectar, desarrollar, acondicionar, dotar de infraestructura y equipamiento, mejorar y operar terrenos para dedicarlos a fines industriales, agropecuarios, agroindustriales, turísticos y cualquier otro que sea afín o análogo a los anteriores, la adquisición y venta de los mismos, su arrendamiento, financiamiento, el otorgamiento de contratos de fideicomiso, así como la celebración de toda clase de actos o contratos relacionados con dichos fines.
 
 ###### ARTICULO TERCERO.
 
@@ -216,3 +222,9 @@ Víctor M. Cervera Pacheco
 El Secretario de Gobierno
 
 Abog. Orlando A. Paredes Lara
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 4 DE FEBRERO DE 1987.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
