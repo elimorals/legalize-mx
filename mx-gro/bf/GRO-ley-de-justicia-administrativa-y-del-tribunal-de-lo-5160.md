@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-justicia-administrativa-y-del-tribunal-de-lo-5160"
 country: "mx"
 rank: "ley"
 publication_date: "1987-07-07"
-last_updated: "1991-02-26"
+last_updated: "1991-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE JUSTICIA ADMINISTRATIVA Y DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 7 de julio de 1987.
 
@@ -91,13 +91,17 @@ LEY DE JUSTICIA ADMINISTRATIVA Y DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO D
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley es de orden público e interés social y tiene por objeto substanciar y resolver los procedimientos contenciosoadministrativos, que se planteen entre las autoridades del Estado de Guerrero, los Ayuntamientos y Organismos Públicos Descentralizados con funciones de autoridad, y los particulares.
+La presente Ley es de orden público e interés social y tiene por objeto substanciar y resolver los procedimientos contenciosos en materia administrativa y fiscal, que se planteen entre las autoridades del Estado de Guerrero, los Ayuntamientos y Organismos Públicos Descentralizados con funciones de autoridad y los particulares, así como las resoluciones que se dicten por autoridades competentes en aplicación de la Ley de Responsabilidades de los Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 2o.
 
-El procedimiento contencioso se substanciará y resolverá de manera independiente y en forma optativa a los recursos que establecen las leyes administrativas del Estado, salvo que en éstas se establezca que deba agotarse previamente el recurso ordinario.
+Las Salas Regionales conocerán por razón del territorio respecto de las resoluciones que dicten las autoridades ordenadoras con sede en su jurisdicción. Los juicios que surjan con motivo de la ejecución de dichas resoluciones y demás cuestiones accesorias serán conocidas por la Sala Regional que tenga jurisdicción respecto a las referidas resoluciones. Para los efectos de esta Ley se entiende por autoridad ordenadora, la que dicte u ordene la resolución impugnada o tramite el procedimiento en que aquéllas se pronuncien.
 
 ###### ARTICULO 3o.
 
@@ -121,9 +125,11 @@ Los procedimientos que se promuevan ante el Tribunal, se substanciarán y resolv
 
 Los procedimientos por responsabilidad administrativa se substanciarán de acuerdo a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
 ###### ARTICULO 7o.
 
-Toda promoción deberá ser firmada por el promovente, requisito sin el cual no se le dará curso. Cuando el promovente no sepa o no pueda firmar, lo hará otra persona en su nombre y el interesado estampará su huella digital.
+Toda promoción deberá ser firmada por el promovente, requisito sin el cual no se le dará curso y se tendrá por no presentada. Cuando el promovente no sepa o no pueda firmar, lo hará otra persona en su nombre y el interesado estampará su huella digital.
 
 ###### ARTICULO 8o.
 
@@ -163,7 +169,13 @@ B) El organismo con funciones administrativas de autoridad que dicte, ordene, ej
 
 C) En asuntos fiscales, el Secretario de Finanzas o Síndico Municipal.
 
-III.- El tercero perjudicado, que es cualquier persona cuyos intereses puedan verse afectados por resoluciones del Tribunal.
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+D) El particular a quien favorezca la resolución cuya modificación o nulidad demande la autoridad administrativa.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+III.- El tercero perjudicado, que tenga un derecho incompatible con la pretensión del demandante, mismo que podrá apersonarse en el juicio como coadyuvante de las autoridades que tengan un interés directo en la modificación o anulación del acto.
 
 ###### ARTICULO 13.
 
@@ -179,13 +191,17 @@ Los servidores públicos del Poder Ejecutivo, de los Municipios y de los Organis
 
 ### CAPITULO II. DE LAS NOTIFICACIONES
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
 ###### ARTICULO 16.
 
-Las resoluciones serán notificadas a más tardar el día hábil siguiente a aquél en que se pronuncien.
+Las resoluciones serán notificadas a más tardar dentro de los tres días siguientes a aquél en que se pronuncien.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 17.
 
-Los particulares deberán señalar domicilio en la población donde resida la Sala ante la que se promueva, en el primer escrito que se presente y en su caso comunicar el cambio del mismo para que se le hagan las notificaciones personales. En caso de no hacerlo así las notificaciones personales se harán en las listas de la propia Sala.
+Los particulares deberán señalar domicilio para oír y recibir notificaciones en el primer escrito que se presente, y en su caso comunicar el cambio del mismo para que se le hagan las notificaciones personales. En caso de no hacerlo así las notificaciones personales se harán en las listas de la propia Sala.
 
 ###### ARTICULO 18.
 
@@ -205,13 +221,29 @@ D) La que mande citar a un tercero;
 
 E) El requerimiento de un acto a la parte que deba cumplirlo;
 
-F) La de sobreseimiento;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
 
-G) La sentencia definitiva, y
+F) Las resoluciones interlocutorias;
 
-H) En cualquier caso urgente o importante si así lo ordena el Tribunal.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
 
-III.- Fuera de los casos señalados en la fracción anterior, las notificaciones se harán directamente a los particulares en las Salas del Tribunal, si se presentan dentro del día siguiente en que se haya dictado la resolución, y si no se presentaren, por lista autorizada que se fijará en los estrados de la Sala correspondiente.
+G) La que se señale fecha para la audiencia;
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+H) La de sobreseimiento;
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+I).- La sentencia definitiva, y
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+J).- En cualquier caso urgente o importante si así lo ordena el Tribunal.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+III.- Fuera de los casos señalados en la fracción anterior las notificaciones se harán directamente a los particulares en las Salas del Tribunal, si se presentan dentro del día siguiente en que se haya dictado la resolución, y si no se presentaren, por lista autorizada que se fijará en los estrados de la Sala correspondiente. La lista contendrá: El nombre de la persona que se notifique, el número de expediente, la fecha en que se haga, y la firma del funcionario autorizado para hacerla.
 
 ###### ARTICULO 19.
 
@@ -269,13 +301,27 @@ La demanda deberá formularse por escrito y presentarse directamente ante la Sal
 
 Cuando la demanda se presente ante la autoridad demandada, ésta en el plazo perentorio de 48 horas contadas a partir de la fecha de su recepción, deberá remitirla a la Sala respectiva para su tramitación, si no lo hiciere en el plazo señalado, se hará acreedora a un arresto hasta por 36 horas o a la destitución de su puesto, o a ambas sanciones a juicio del Pleno del Tribunal.
 
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+En caso de resolución negativa ficta, la demanda podrá presentarse una vez que haya transcurrido el plazo respectivo para configurarla.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+Cuando se demande la nulidad o modificación de un acto favorable a un particular, las autoridades podrán presentar la demanda cuando hayan detectado causas legales que funden y motiven la interposición del juicio, sin embargo dicha acción sólo podrá ejercitarse dentro de los 5 años siguientes a la fecha en que haya emitido la resolución cuya nulidad se demande.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
 ###### ARTICULO 26.
 
-El demandante tendrá el derecho de ampliar la demanda dentro de los quince días siguientes a la fecha de la contestación de la misma, sólo en los casos siguientes:
+El demandante tendrá el derecho de ampliar la demanda sólo en los casos siguientes:
 
 I.- Cuando se recurra una negativa ficta, y
 
 II.- Cuando el actor no conozca los fundamentos o motivos del acto impugnado, sino hasta que la demanda esté contestada.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+La ampliación de la demanda deberá presentarse dentro de los quince días siguientes al en que surta efectos la notificación del auto recaído a dicha contestación.
 
 ###### ARTICULO 27.
 
@@ -295,15 +341,27 @@ VI.- La fecha en la que se tuvo conocimiento del acto impugnado;
 
 VII.- La descripción de los hechos;
 
-VIII.- La firma del actor, y si éste no supiere o no pudiere firmar, lo hará un tercero a su ruego, imprimiendo el primero su huella digital, y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1991)</small>
 
-IX.- Las pruebas que el actor ofrezca.
+VIII.- Los conceptos de nulidad e invalidez que le cause el acto impugnado;
 
-El actor deberá acompañar una copia de la demanda y de los documentos anexos a ella, para cada una de las partes.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+IX.- Las pruebas que el actor ofrezca, y
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+X.- La firma del actor, y si éste no supiere o no pudiere firmar, lo hará un tercero a su ruego, imprimiendo el primero su huella digital.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+El actor deberá acompañar una copia de la demanda y de los documentos anexos a ella, para cada una de las partes, así como el documento con que acredite su personalidad o en el que conste que le fue reconocida por la autoridad demandada, cuando no gestione en nombre propio.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 28.
 
-El Tribunal proporcionará gratuitamente a los interesados, formas impresas de demanda así como el servicio de asesoría.
+El Tribunal proporcionará gratuitamente a los interesados, formas impresas de demanda así como el servicio de asesoría, cuya utilización será optativa para el particular.
 
 ###### ARTICULO 29.
 
@@ -311,7 +369,9 @@ La Sala admitirá la demanda o la desechará en los siguientes casos:
 
 I.- Si encontrare motivo manifiesto e indudable de improcedencia, y
 
-II.- Si siendo obscura e irregular y previniendo al actor para subsanarla, en el término de cinco días, no lo hiciere.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+II.- Si siendo obscura e irregular y previniendo al actor para subsanarla, en el término de cinco días, no lo hiciere; debiéndose entender por obscuridad o irregularidad subsanable, la falta o impresición de los requisitos formales a que se refiere el artículo 27 de la presente Ley.
 
 Contra el desechamiento a que se refiere este Artículo procede el recursos (sic) de reclamación ante la propia Sala.
 
@@ -321,27 +381,51 @@ Contra el desechamiento a que se refiere este Artículo procede el recursos (sic
 
 Admitida la demanda se correrá traslado de la misma a los demandados, emplazándolos para que la contesten dentro de los diez días hábiles siguientes a aquél en que surta efectos el emplazamiento. El plazo para contestar la ampliación de la demanda será de tres días hábiles siguientes al en que surta efectos la notificación del acuerdo que la admita. En el auto en que se dé entrada a la demanda se señalará fecha para la audiencia dentro de un plazo que no excederá de quince días hábiles y dictará las demás providencias que procedan con arreglo a este ordenamiento. Cuando fueren varias las demandas, el término correrá individualmente.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
 ###### ARTICULO 31.
 
-La parte demandada, en su contestación se referirá a cada uno de los puntos aducidos en el escrito de demanda, citará los fundamentos legales aplicables al caso y ofrecerá las pruebas que considere pertinentes. Los demandados deberán acompañar una copia de la contestación de la demanda y de los documentos anexos para cada una de las partes.
+La parte demandada en su contestación expresará:
+
+I.- Las cuestiones incidentales de previo y especial pronunciamiento a que haya lugar;
+
+II.- Las casuales (sic) de improcedencia y sobreseimiento que impidan se emita resolución en cuanto al fondo del asunto;
+
+III.- Se referirá concretamente a cada uno de los hechos que el demandante le impute de manera expresa, afirmándolos o negándolos;
+
+IV.- Citará los fundamentos legales aplicables al caso;
+
+V.- Los argumentos por medio de los cuales demuestre la ineficacia de los agravios, y
+
+VI.- Las pruebas que ofrezca.
+
+Los demandados deberán acompañar una copia de la contestación de la demanda y de los documentos anexos para cada una de las partes. En la contestación de la demanda no podrán cambiarse los motivos o fundamentos de derecho de la resolución impugnada.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 32.
 
-El tercero perjudicado, se apersonará al juicio hasta antes de la audiencia formulando alegatos y aportando las pruebas que considere pertinentes.
+El tercero perjudicado se apersonará al juicio hasta antes de la audiencia formulando alegatos y aportando las pruebas que considere pertinentes, sin menoscabo de que pueda coadyuvar con las autoridades demandadas durante el desarrollo del procedimiento.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 33.
 
-Si la parte demandada no contesta dentro del término legal respectivo; el Tribunal tendrá por confesados los hechos de la demanda, salvo prueba en contrario.
+Si la parte demandada no contestare dentro del término legal respectivo, o ésta no se refiera a todos los hechos de la demanda, el Tribunal declarará la preclusión correspondiente y tendrá por confesados los hechos que el actor impute de manera precisa al demandado, salvo prueba en contratrario (sic).
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 34.
 
-Contestada la demanda, el Magistrado examinará el expediente y si encontrare justificada alguna causa de improcedencia o sobreseimiento, emitirá resolución en la que dará por concluido el procedimiento.
+Contestada la demanda, el Magistrado examinará el expediente y si encontrare justificada alguna causa de improcedencia o sobreseimiento, podrá emitir resolución inmediatamente mediante la cual se dé por concluído el procedimiento, o reservar su análisis o resolución, hasta la emisión de la sentencia definitiva.
 
 ###### ARTICULO 35.
 
 En los procedimientos en los que no exista tercero perjudicado, las autoridades u organismos demandados podrán allanarse a la demanda, en cuyo caso, se dictará la resolución correspondiente sin mayor trámite.
 
-Siempre que sea claro e indubitable el derecho del demandante, podrá pedir al Tribunal, que se requiera a la parte demandada para que se manifieste en un plazo de cinco días si pide la resolución inmediata o la continuación del procedimiento. En dicho pedimento sea en uno o en otro sentido, se expresarán las razones en que se apoye el Tribunal, en su caso, dictará la resolución en un término que no exceda de cinco días.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+Siempre que sea claro e indubitable el derecho del actor, éste podrá pedir al Tribunal, que se requiera a la parte demandada para que se manifieste en un plazo de cinco días si pide la resolución inmediata o la continuación del procedimiento. En dicho pedimento sea en uno o en otro sentido, expresará las razones en que se apoye para que el Tribunal, en su caso, dicte la resolución en un término que no exceda de cinco días.
 
 ### CAPITULO VI. DE LA SUSPENSION DE LOS ACTOS IMPUGNADOS
 
@@ -373,7 +457,9 @@ La suspensión otorgada conforme al Artículo anterior, quedará sin efecto si e
 
 Para que surta efecto la caución que ofrezca el tercero, conforme al párrafo anterior, deberá cubrir previamente el costo de la que hubiese otorgado el actor.
 
-Contra los actos que concedan o nieguen la suspensión y contra el señalamiento de fianzas y contrafianzas, procede el recurso de reclamación ante la Sala Superior.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+Contra los actos que concedan o nieguen la suspensión y contra el señalamiento de fianzas y contrafianzas, procede el recurso de reclamación mismo que deberá presentarse ante la Sala Superior.
 
 ###### ARTICULO 41.
 
@@ -561,21 +647,27 @@ Abierta la audiencia el día y hora señalados, el Secretario llamará a las par
 
 La recepción de las pruebas se hará en la audiencia y se sujetará a las siguientes reglas:
 
-I.- Se admitirán las relacionadas con los puntos controvertidos que se hubieren ofrecido en la demanda y la contestación, así como las supervenientes;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+I.- Se admitirán las relacionadas con los puntos controvertidos que se hubieren ofrecido en la demanda y en la contestación;
 
 II.- Si se ofrece prueba pericial, las partes y la Sala podrán formular observaciones a los peritos y hacerles las preguntas que estimen pertinentes en relación con los puntos sobre los que se dictaminen;
 
 III.- Cuando se hubieren presentado interrogatorios por las partes en relación con la prueba testimonial, las preguntas deberán tener relación directa con los puntos controvertidos y deberán estar concebidas, en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. La Sala deberá cuidar que se cumplan estas condiciones, impidiendo preguntas que las contraríen. La protesta y examen de los testigos se hará en presencia de las partes. Al formularse repreguntas se seguirán las mismas reglas.
 
-La Sala podrá hacer las preguntas que considere necesarias, y
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
+La Sala podrá hacer las preguntas que considere necesarias. La prueba testimonial podrá ser declarada desierta cuando siendo citado el testigo, no viva en el domicilio señalado o cuando habiéndose comprometido el oferente a presentarlo no lo haga, y
 
 IV.- Se asentarán las exposiciones de las partes sobre los documentos exhibidos, y las respuestas de los testigos, comprendiendo el sentido o término de la pregunta formulada.
 
 Contra el desechamiento de pruebas, procede el recurso de reclamación ante la misma Sala Regional.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
 ###### ARTICULO 66.
 
-Concluida la recepción de las pruebas, las partes podrán alegar en forma verbal o escrita, por sí o por medio de sus representantes.
+Concluida la admisión y desahogo de las pruebas, se dará el uso de la palabra al actor, al demandado y al tercero perjudicado, si lo hubiere, para que formulen en ese orden por sí o por medio de sus representantes sus alegatos, que pueden ser en forma escrita o verbal, en el primer caso se ordenarán agregar a sus autos y, en el segundo supuesto, su intervención no podrá exceder de media hora por cada parte; si al formular los alegatos se vierten objeciones contra los acuerdos pronunciados en la audiencia, el Magistrado Instructor determinará si deben resolverse de plano o se reserva para el momento en que deban resolverse las cuestiones de fondo.
 
 ###### ARTICULO 67.
 
@@ -667,9 +759,11 @@ El recurso se interpondrá con expresión de agravios, dentro del término de tr
 
 El recurso se sustanciará con vista a las partes por un término común de tres días, para que expongan lo que a su derecho convenga y trascurrido (sic) dicho término, la Sala resolverá lo conducente.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
 ###### ARTICULO 82.
 
-El recurso de revisión procede contra las resoluciones de las Salas del Tribunal que decreten o nieguen sobreseimientos; las que resuelvan el procedimiento o la cuestión planteada en el fondo, y las que pongan fin al mismo, pudiéndose plantear por cualquiera de las partes, ante la Sala Superior.
+El recurso de revisión procede contra las resoluciones de las Salas del Tribunal que decreten o nieguen sobreseimiento; las que resuelvan las cuestiones incidentales; las dictadas con motivo de los recursos planteados entre las mismas; las que resuelvan el procedimiento o la cuestión planteada en el fondo, y las que pongan fin a éste, pudiéndose plantear por cualquiera de las partes ante la Sala Superior, con expresión de agravios.
 
 ###### ARTICULO 83.
 
@@ -701,9 +795,11 @@ Las tesis jurisprudenciales sustentadas por la Sala Superior, así como aquellas
 
 El Tribunal de lo Contencioso Administrativo, es un órgano dotado de plena autonomía para dictar sus fallos, con la organización y competencia que esta Ley establece.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+
 ###### ARTICULO 88.
 
-El Tribunal de lo Contencioso Administrativo se integrará de una Sala Superior con tres Magistrados y por dos Salas Regionales con un Magistrado cada una, las que podrán aumentarse cuando el servicio lo requiera, a juicio de la Sala Superior.
+El Tribunal de lo Contencioso Administrativo se integrará de una Sala Superior con tres Magistrados, por 7 Salas Regionales y Magistrados Supernumerarios, éstos y las Salas Regionales podrán aumentarse cuando el servicio lo requiera, a juicio de la Sala Superior.
 
 ###### ARTICULO 89.
 
@@ -724,6 +820,8 @@ VI.- No haber sido condenado por sentencia ejecutoriada por delito intencional.
 ###### ARTICULO 90.
 
 El nombramiento de los Magistrados lo hará el Gobernador del Estado, de acuerdo al procedimiento constitucional respectivo, requiriéndose en todo caso, la aprobación del Congreso, y hecha la designación, la Sala Superior determinará la adscripción de cada Magistrado.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 91.
 
@@ -925,11 +1023,15 @@ Las atribuciones de los Presidentes de Sala, Secretarios, Actuarios y Secretario
 
 ### CAPITULO V. DE LOS ASESORES Y COMISIONADOS
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 112.
 
-Cuando la Sala Superior o las Salas Regionales conozcan de violaciones a los derechos de los administrados en municipalidades diversas a su sede, pero dentro de su ámbito territorial jurisdiccional enviarán a un Asesor Comisionado para orientar a los posibles quejosos respecto de la aplicación y alcance de esta Ley y, en su caso, recibirán las promociones correspondientes.
+Cuando la Sala Superior o las Salas Regionales conozcan de las violaciones a los derechos ciudadanos de los administrados en municipalidades diversas de su sede, pero dentro de su ámbito territorial jurisdiccional enviarán a un Asesor Comisionado para orientar a los posibles quejosos respecto de la aplicación y alcance de esta Ley y, en su caso, habilitarán a las oficinas del Ejecutivo Estatal, Síndicos Procuradores y Comisarios Municipales como órganos de recepción de demandas ciudadanas, así como para realizar diligencias que se estimen convenientes dentro de los procedimientos que prevee esta Ley.
+
+Todas las autoridades habilitadas tendrán facultades de Oficialía de Partes y deberán cumplir con la obligación de remitir la demanda a la Sala Regional correspondiente o a la Sala Superior de acuerdo a las determinaciones específicas que al respecto se dicten, dentro de las 48 horas siguientes a su presentación.
+
+Las autoridades que omitan dar cumplimiento a lo anteriormente señalado, incurrirán en responsabilidad oficial y se harán acreedoras a las sanciones establecidas en el párrafo segundo del artículo 25 de esta misma Ley.
 
 ## TRANSITORIOS
 
@@ -945,11 +1047,9 @@ En un plazo no mayor de nueve meses contados a partir de la publicación de esta
 
 El Reglamento Interno del Tribunal de lo Contencioso Administrativo, se expedirá por el Pleno en un término de 90 días a partir de su instalación.
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 1987)</small>
-
 ###### ARTICULO CUARTO.
 
-Los nombramientos que expida el Titular del Poder Ejecutivo en favor de los Magistrados de las Salas Superior y Regionales, tendrán una vigencia de un año, durante los primeros seis años, transcurridos los cuales entrará en plenitud la vigencia del Artículo 91 de esta Ley.
+(DEROGADO, P.O. 11 DE OCTUBRE DE 1991)
 
 Dada en el Salón de Sesiones del H. Poder Legislativo del Estado de Guerrero, a los veintiséis días del mes de junio de mil novecientos ochenta y siete.
 
@@ -990,3 +1090,17 @@ UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publica
 P.O. 26 DE FEBRERO DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 11 DE OCTUBRE DE 1991.
+
+###### ARTICULO PRIMERO.
+
+El cómputo del término a que se refiere el artículo 91 de la Ley de Justicia Administrativa tendrá vigencia a partir de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En cumplimiento a lo dispuesto por el artículo Primero Transitorio de este Decreto en relación con lo preceptuado por el artículo 90 de la Ley de Justicia Administrativa, los Magistrados del Tribunal de lo Contencioso Administrativo deberán rendir protesta ante el H. Congreso del Estado.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
