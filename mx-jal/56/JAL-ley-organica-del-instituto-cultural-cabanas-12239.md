@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-cultural-cabanas-12239"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-18"
-last_updated: "1981-04-02"
+last_updated: "1982-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12239&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL INSTITUTO CULTURAL CABAÑAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 ABRIL DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 JULIO DE 1982.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 18 de diciembre de 1980.
 
@@ -97,8 +97,6 @@ VII. Los CC. Ex-Gobernadores del Estado electos popularmente.
 
 Los integrantes del Patronato podrán hacerse representar por la persona que designen.
 
-DEL CONSEJO DIRECTIVO
-
 ###### Artículo 6°.
 
 Serán facultades del Patronato las siguientes:
@@ -118,6 +116,8 @@ V. Las demás que en forma directa o derivada le correspondan en los términos d
 ###### Artículo 7°.
 
 El Patronato sesionará ordinariamente, cada año y extraordinariamente, cuando sea convocado por el Presidente del Patronato o el Gobernador del Estado.
+
+DEL CONSEJO DIRECTIVO
 
 ###### Artículo 8°.
 
@@ -139,9 +139,15 @@ VI. Por el C. Presidente Municipal de la ciudad de Guadalajara.
 
 VII. Por el C. Jefe del Departamento de Bellas Artes del estado de Jalisco.
 
+> <small>(ADICIONADA, P.O. 29 JULIO DE 1982)</small>
+
+VIII. Los CC. Ex-Gobernador del Estado, electos popularmente.
+
+> <small>(REFORMADO, P.O. 29 JULIO DE 1982)</small>
+
 ###### Artículo 9°.
 
-Tendrán carácter de asesores del Consejo Directivo las personalidades reconocidas en el campo de la cultura, la ciencia, los organismos de servicio y los sectores más representativos de la comunidad a juicio del Consejo.
+También integrarán el Consejo Directivo las personalidades reconocidas en el campo de la cultura, la ciencia, los organismos de servicio y los sectores más representativos de la comunidad, a juicio de los Consejeros, a que se refiere el artículo que precede.
 
 ###### Artículo 10°.
 
@@ -292,3 +298,9 @@ Lic. Alfonso de Alba Martín
 P.O. 2 DE ABRIL DE 1981.
 
 Unico. Este Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial "El Estado de Jalisco".
+
+P.O. 29 DE JULIO DE 1982.
+
+Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+Segundo. Se derogan todas las disposiciones que se opongan a la aplicación del presente Decreto.
