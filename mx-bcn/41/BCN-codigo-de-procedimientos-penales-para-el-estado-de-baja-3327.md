@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2003-06-06"
+last_updated: "2003-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2003.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1271,15 +1271,21 @@ VI.- Causare ejecutoria la sentencia que lo condene.
 
 ### CAPITULO VI. ARRAIGO
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 140.
 
-Arraigo del indiciado.- Cuando de una averiguación previa no este concluida y existan datos de que el Ministerio Público solicitará al juzgador que decrete el arraigo, fundando y motivando su petición. si el juzgador considera suficientes para asegurar al indiciado, decretará el arraigo con vigilancia del Ministerio Público y mandará notificar en forma personal al arraigado, que no puede ausentarse de la ciudad sin autorización judicial, y que debe comparecer ante el Ministerio Público cuando se le requiera, apercibiéndole de que la violación de la medida será sancionada administrativamente con cincuenta a trescientos días multa.
+Arraigo del Indiciado.- Cuando en una averiguación previa existan datos de que el indiciado pretende sustraerse a la acción de la justicia, el Ministerio Público podrá solicitar al juzgador que decrete el arraigo, fundando y motivando su petición.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2003)</small>
+
+Si el juzgador considera que existen motivos suficientes para asegurar al indiciado, decretará el arraigo en el lugar solicitado por la autoridad investigadora y ordenará la ejecución de tal medida por conducto de ésta o de sus auxiliares, quedando a su disposición, vigilancia y responsabilidad del indiciado.
 
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 1995)</small>
 
 Cuando se sorprenda a una persona con los instrumentos u objetos del delito, y no pueda detenerse con base en la flagrancia o la urgencia administrativa, la autoridad informará inmediatamente al Ministerio Público y éste ordenará, siempre que exista denuncia o querella y el instrumento u objeto se haya identificado plenamente, el arraigo provisional del indiciado, solicitando en las próximas veinticuatro horas la ratificación judicial o el levantamiento de la medida, según proceda.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de treinta días, prorrogables por un término igual a petición de la autoridad investigadora. El juzgador resolverá, escuchando a ésta y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
 
@@ -2075,7 +2081,7 @@ Después de ejercitada la acción penal, el ministerio Público puede desistirse
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1995)</small>
 
-###### Artículo 263.
+###### ARTICULO 263.
 
 Causales de no ejercicio o desistimiento de la acción penal.- El Ministerio público no ejercitará o, en su caso, no desistirá de la acción penal:
 
@@ -3450,3 +3456,7 @@ UNICO.- Las presentes reformas entrarán en vigor, a partir del día siguiente d
 P.O. 6 DE JUNIO DE 2003.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2003.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial Baja California.
