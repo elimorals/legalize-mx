@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1995-06-03"
+last_updated: "1995-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1995.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3321,7 +3321,7 @@ VII.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente al
 
 ## TITULO OCTAVO.
 
-Delitos cometidos por funcionarios y empleados de la Administración Pública, Estatal y Municipal o Descentralizada.
+Delitos cometidos por funcionarios y empleados de la Administración Pública, Estatal y Municipal o escentralizada.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE NOVIEMBRE DE 1982)</small>
 
@@ -4427,6 +4427,162 @@ II.- Se cometa por medio de inundación, incendio, minas, bombas o explosivos.
 
 389.- Se aplicará prisión de uno a tres años al que mediante incendio, explosión o por cualquier otro medio creare un peligro común para las personas o para los bienes.
 
+### CAPITULO I.
+
+Delitos contra la Legitimidad de las Elecciones.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+391.- Se impondrá prisión de seis meses a tres años y multa de diez a cien días del salario mínimo vigente, a quien:
+
+I.- Vote sin tener credencial para votar y no esté inscrito en la lista nominal de electores;
+
+II.- Vote más de una vez en una misma elección;
+
+III.- Vote con una credencial de la que no sea titular;
+
+IV.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+V.- Se apodere o destruya una o varias urnas de votación, obstaculice o Interfiera el desarrollo normal de las votaciones, del escrutinio o del cómputo;
+
+VI.- Recoja sin causa prevista por la Ley, una o varias credenciales de elector de los ciudadanos, antes o después de emitir su voto;
+
+VII.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
+
+VIII.- Viole de cualquier manera el secreto del voto;
+
+IX.- Organice, el día de la elección, la reunión y traslado de electores con el objeto de llevarlos a votar y de violar la libertad y el secreto del voto;
+
+X.- Introduzca o substraiga de las urnas ilícitamente una o más boletas electorales, destruya o altere boletas o documentos electorales;
+
+XI.- Se apodere, destruya o deteriore ilegítimamente propaganda o documentación relativa a un partido político o candidato durante el proceso electoral;
+
+XII.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa;
+
+XIII.- Impida en forma violenta la instalación de una casilla;
+
+XIV.- Por cualquier medio obstaculice o impida la realización de los cómputos electorales posteriores a la jornada electoral; y
+
+XV.- Se posesione de oficinas de los órganos electorales o retenga una o varias personas, con el fin de obligar a la autoridad electoral, a que realice o deje de realizar un acto de su competencia.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+392.- Se impondrá de uno a cinco años de prisión, quien o quienes mediante la violencia provoquen desestabilización o ingobernabilidad en uno o varios municipios del Estado, con la finalidad de alterar el resultado de las elecciones, estén o no agotados los recursos previstos por la ley.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+393.- Se impondrá prisión de tres a siete años y multa de setenta a doscientos días de salario mínimo vigente, a quien por cualquier medio participe en la alteración del registro de electores, del Padrón Electoral y de los listados nominales o en la expedición ilícita de credenciales para votar.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+394.- Se impondrá prisión de uno a seis años y multa de cien a doscientos días de salario mínimo vigente, al funcionario partidista que:
+
+I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
+
+III.- Substraiga, destruya, altere o haga un uso indebido de documentos oficiales de índole electoral;
+
+IV.- Suspendan el desarrollo normal de la votación o ejerza violencia física o moral sobre los funcionarios electorales;
+
+V.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral, o respecto de sus resultados; y
+
+VI.- Impida la instalación, apertura o cierre de una casilla.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+395.- Se impondrá prisión de dos a nueve años al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas, aprovechen ilícitamente fondos, bienes o servicios en los términos del artículo 398 de este Capítulo.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+396.- Se impondrá prisión de dos a seis años y multa de cincuenta a doscientos días de salario mínimo vigente al funcionario electoral que:
+
+I.- Altere en cualquier forma, sustituya o haga uso indebido de documentos relativos al Registro Federal de Electores que deban utilizarse en las elecciones locales;
+
+II.- Se abstenga de cumplir sin causa justificada con sus obligaciones electorales en perjuicio del proceso;
+
+III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada;
+
+IV.- Altere los resultados electorales, o substraiga, destruya boletas o documentos electorales, sin causa justificada;
+
+V.- No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
+
+VI.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+VII.- Instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la Ley de la materia, o impida su instalación;
+
+VIII.- Instale una casilla en lugar distinto al señalado por los órganos electorales, sin causa justificada;
+
+IX.- No haga constar oportunamente las violaciones de que haya tenido conocimiento en el desarrollo del proceso electoral, o se rehuse infundadamente a admitir los recursos que ante él se interpongan;
+
+X.- No admita la solicitud de inscripción de alguna persona o se niegue a inscribirla, cuando sea procedente, altere oculte o substraiga documentación relativa a los padrones y listas nominales que deban utilizarse en las elecciones locales;
+
+XI.- No proporcione oportunamente la documentación electoral correspondiente a los presidentes de las mesas directivas de casillas, a no ser que medie causa justificada;
+
+XII.- Expulse de la casilla electoral sin causa justificada a representante de un partido político o coarte los derechos que la Ley le concede;
+
+XIII.- Conociendo la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto, no tome las medidas conducentes para que cesen;
+
+XIV.- Permita o tolere que un ciudadano emita su voto, a sabiendas de que no cumple con los requisitos de la ley, o que se introduzcan en las urnas ilícitamente una o más boletas electorales;
+
+XV.- Retenga o no entregue al organismo electoral correspondiente, el paquete electoral, en los tiempos previstos en la ley o por acuerdo de los órganos electorales, sin causa justificada;
+
+XVI.- Se niegue sin causa justificada, teniendo la obligación de hacerlo, a registrar los nombramientos de los representantes de los partidos políticos, dentro de los plazos establecidos en el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca; y
+
+XVII.- Propague dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+397.- Se impondrá prisión de uno a nueve años y multa de doscientos a cuatrocientos días de salario mínimo vigente al servidor público que:
+
+I.- Obligue a sus subordinados a emitir sus votos a favor de un partido político o candidato.
+
+II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de un partido político o candidato;
+
+III.- Prive de la libertad a los candidatos, a los representantes de los partidos políticos o a los funcionarios electorales, bajo pretexto de comisión de delitos o faltas administrativas inexistentes y sin existir orden de detención o de aprehensión para ello; y
+
+IV.- Impida la realización de una reunión, asamblea, manifestación pública, o cualquier acto legal de propaganda electoral.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+398.- Se impondrá prisión de dos a nueve años, al servidor público que: Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, tales como vehículos, inmuebles y equipos al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado u otros, o proporcione ese apoyo a través de sus subordinados, usando el tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+399.- Por la comisión de cualquiera de los delitos comprendidos en el presente capítulo se podrá imponer, además de la pena que corresponda, la inhabilitación de uno a cinco años y, en su caso, la destitución del cargo.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+400.- Al servidor público mencionado por el artículo 211 del Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, que se niegue sin causa justificada a cumplir las funciones que establece el mismo precepto, se le aplicará una multa de cien a doscientos días de salario mínimo vigente o inhabilitación para obtener algún cargo público.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+401.- Se impondrá multa de 500 días de salario mínimo vigente, al ministro de culto religioso que, por cualquier medio, en el desarrollo de actos propios de su ministerio, induzca al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+
+### CAPITULO II.
+
+Reglas Comunes.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+402.- Para los efectos del capítulo anterior se entiende por:
+
+I.- Funcionarios electorales: quienes en términos de la legislación local electoral, integren los órganos que cumplen funciones públicas electorales;
+
+II.- Funcionarios partidistas: Los dirigentes de los partidos políticos, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales locales, los propios partidos otorguen representación para actuar en la jornada electoral ante los órganos electorales en los términos de la legislación local electoral;
+
+III.- Servidores públicos: son los representantes de elección popular, los miembros del Poder Judicial, los funcionarios y empleados y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, en los organismos descentralizados, empresas de participación estatal, sociedades y asociaciones asimiladas a éstas, o en fideicomisos de participación estatal o municipal; y
+
+IV.- Documentos electorales: boletas para votar, las actas oficiales de la jornada electoral, actas de escrutinio y cómputo de las mesas directivas de casilla y de los cómputos distritales o municipales; en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Instituto Estatal Electoral.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+
+403.- Las sanciones previstas en los delitos del presente capítulo, se aplicarán sin perjuicio de las demás penas que pudieran corresponder al responsable por el concurso real de delitos.
+
+ARTICULOS TRANSITORIOS:
+
 ## TITULO DECIMO OCTAVO (SIC).
 
 Privación ilegal de la libertad y violación de otras garantías.
@@ -4479,7 +4635,11 @@ III.- Impida o dificulte la averiguación de los delitos y el castigo de los cul
 
 IV.- Compre dos o más veces cosas robadas. Lo anterior se podrá comprobar por cualquier medio de prueba.
 
-ARTICULOS TRANSITORIOS:
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+
+## TITULO VIGESIMO PRIMERO.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
 ###### ARTICULO 1o.
 
@@ -4558,6 +4718,10 @@ P.O. 3 DE JUNIO DE 1995.
 PRIMERO. El presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Los reos que se encuentren comprendidos en las hipótesis del artículo 97 del Código Penal, podrán solicitar al juez que pronunció la sentencia irrevocable, la concesión del beneficio de la condena condicional, y el juez, oyendo al Ministerio Público, resolverá lo que en derecho proceda.
+
+P.O. 15 DE JULIO DE 1995.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 10.
 
