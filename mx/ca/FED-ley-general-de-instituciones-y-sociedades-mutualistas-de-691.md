@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1974-12-23"
+last_updated: "1975-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ENERO DE 1975.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -628,6 +628,22 @@ Las utilidades no distribuídas que no estén afectas a los fines del artículo 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1956)</small>
 
 Las inversiones de capital pagado, reservas de capital y utilidades no distribuídas de toda especie a que se refiere este artículo, no estarán sujetas a las reglas sobre depósito de valores establecidas en el artículo 93 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 1975)</small>
+
+ARTICULO 32 bis.- Las operaciones con valores inscritos en el Registro Nacional de Valores e Intermediarios, que realicen las instituciones de seguros en los términos previstos por esta ley, deberán llevarse a cabo con la intermediación de agentes de valores.
+
+La Secretaría de Hacienda y Crédito Público podrá exceptuar del requisito establecido en el primer párrafo de este artículo, a las operaciones que se efectúen:
+
+a).- En cumplimiento de disposiciones de política monetaria o crediticia;
+
+b).- Para financiar empresas de nueva creación o ampliaciones a las existentes;
+
+c).- Para transferir proporciones importantes del capital de empresas;
+
+d).- Para otros propósitos a los cuales no se adecuen los mecanismos normales del mercado.
+
+La Secretaría de Hacienda y Crédito Público, para resolver sobre las excepciones previstas en este artículo, oirá al Banco de México, S. A., a la Comisión Nacional Bancaria y de Seguros o a la Comisión Nacional de Valores, según que la materia corresponda al ámbito de alguna o algunas de las entidades citadas.
 
 ###### ARTICULO 33.
 
@@ -2382,3 +2398,13 @@ D.O.F. 23 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 2 DE ENERO DE 1975.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+...
