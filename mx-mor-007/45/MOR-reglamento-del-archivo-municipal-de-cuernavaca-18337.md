@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-archivo-municipal-de-cuernavaca-18337"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-10-25"
-last_updated: "2000-10-25"
+last_updated: "2003-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO DEL ARCHIVO MUNICIPAL DE CUERNAVACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de octubre de 2000.
 
@@ -83,9 +83,11 @@ VI.- ARCHIVOS HISTÓRICOS.- Los que se constituyan con aquellos documentos cuyo 
 
 En el Archivo Municipal, se encontrará toda la documentación generada en las dependencias que integran el Gobierno Municipal que por sus funciones propias ésta debe ser guardada. En el Archivo, la documentación tendrán (sic) un tratamiento especial con el objeto de que éstos puedan estar al servicio del público en general.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 6.
 
-Corresponde a la Secretaría del Ayuntamiento, el manejo y cuidado del archivo municipal.
+Corresponde a la Secretaría del Ayuntamiento, a través de la Dirección del Archivo Municipal, el manejo, cuidado, guarda y depuración de todos los documentos que sean enviados.
 
 ###### ARTÍCULO 7.
 
@@ -209,43 +211,63 @@ Para la consulta de algún documento del archivo deberá hacerse previa solicitu
 
 ### CAPÍTULO V. DEL COMITÉ TÉCNICO DEL ARCHIVO GENERAL
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 27.
 
-El Comité Técnico del Archivo General, es un órgano asesor que tiene por objeto normar, regular y preservar acervos, expedientes, registros y en general todos aquellos documentos administrativos e históricos de las unidades administrativas del Ayuntamiento. Asimismo, será el encargado de vigilar que los traslados e inventarios de los documentos provenientes de las diversas dependencias, se realicen en las fechas indicadas.
+El Comité Técnico de la Dirección de Archivo Municipal, es un órgano asesor que tiene por objeto normar, regular, valorar, orientar, dictaminar, depurar y preservar acervos, expedientes, registros y en general todos aquellos documentos administrativos e históricos de las unidades administrativas del Ayuntamiento. Asimismo, será el encargado de vigilar que los traslados e inventarios de los documentos provenientes de las diversas dependencias del Ayuntamiento, se realicen en las fechas indicadas de acuerdo a lo estipulado en el artículo 21 de este Reglamento.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 28.
 
-El Comité Técnico estará conformado por los siguientes funcionarios municipales:
+El Comité Técnico estará conformado por los siguientes servidores públicos:
 
-a).- El Presidente Municipal, quien a su vez fungirá como Presidente del Comité;
+a).- El Presidente Municipal, quien fungirá como Presidente del Comité;
 
 b).- El Secretario del Ayuntamiento;
 
-c).- El Director del Archivo General;
+c).- El Director del Archivo Municipal, quien fungirá como Secretario Técnico;
 
 d).- El Síndico;
 
-e).- El Regidor que presida la Comisión de Protección al Patrimonio Municipal;
+e).- El Regidor de Protección al Patrimonio Cultural;
 
 f).- El Regidor de Educación, Cultura y Recreación; y
 
-g).- El Cronista de la Ciudad.
+g).- La Contraloría Municipal.
+
+Dichos cargos serán honoríficos.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 29.
 
-El Comité Técnico tendrá las siguientes funciones:
+El Comité Técnico tendrá las siguientes facultades y obligaciones:
 
-I. Promover el desarrollo y fortalecimiento del Archivo General, mediante la obtención de recursos para su mantenimiento;
+I. Promover el desarrollo y fortalecimiento del Archivo Municipal, mediante la obtención de recursos para su mantenimiento;
 
-II. Fungir como el órgano de asesoría y consulta en materia de Archivos, contribuyendo en la definición de las medidas y políticas generales para su cabal funcionamiento y operación en los diversos ámbitos del gobierno a nivel municipal;
+II. Fungir como el órgano de asesoría y consulta en materia de archivos, contribuyendo en la definición de las medidas y políticas generales para su cabal funcionamiento y operación en los diverso (sic) ámbitos del gobierno a nivel municipal;
 
-III. Promover el diseño, desarrollo, control y evaluación de los proyectos, planes operativos y mecanismos necesarios para instrumentar un Programa General de Trabajo;
+III. Promover el diseño, desarrollo, control y evaluación de los proyectos, planes operativos y mecanismos necesarios para instrumentar un programa general de trabajo;
 
-IV. Fomentar la utilización de los instrumentos más avanzados que brinde la tecnología moderna para la (sic) lograr la eficiencia y seguridad en materia archivística y de administración de documentos;
+IV. Fomentar la utilización de los instrumentos más avanzados que brinde la tecnología moderna para lograr la eficiencia y seguridad en materia archivística y de administración de documentos;
 
-V. Celebrar reuniones de orientación y evaluación; y
+V. Realizar las propuestas de eliminación y depuración de documentos inactivos que no sean dignos de resguardo, de cuerdo con los lineamientos establecidos por el Comité Técnico, y en congruencia con lo establecido en los artículos 11, 12, 13, 26 fracción XII, 30 y 33 de la Ley General de Documentación del Estado de Morelos, para determinar el fin de los documentos obsoletos, a efecto de que éstos puedan ser incinerados, destruidos o reciclados de acuerdo a lo que dictamine el Comité Técnico;
 
-VI. Informar al cabildo de sus actividades.
+VI. Celebrar reuniones de orientación y evaluación de documentos con las diferentes dependencias que conforman al Ayuntamiento, en cuanto a documentación digna de resguardo;
+
+VII. Informar al Cabildo de sus actividades;
+
+VIII. Promover investigaciones sobre nuevas técnicas de administración de documentos;
+
+IX. Colaborar en la vigilancia del estricto cumplimiento de la Ley General de Documentación para el Estado de Morelos, el presente reglamento y demás disposiciones aplicables;
+
+XI. Proponer técnicas para mejorar la organización, clasificación y catalogación de los acervos documentales, relacionadas a la conservación y preservación de los mismos;
+
+XIII. Apoyar técnicamente la clasificación, catalogación, conservación, restauración, reproducción, resguardo y depuración de documentos; y
+
+XIV. Las demás que le señalen el Cabildo y el presente reglamento.
 
 ###### ARTÍCULO 30.
 
@@ -288,3 +310,11 @@ TRANSITORIOS (SIC)
 El Reglamento del Archivo Municipal de Cuernavaca, entrarán (sic) en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano informativo que edita el Gobierno del Estado de Morelos.
 
 Dado en la Ciudad de Cuernavaca, Morelos, a los trece días del Mes de octubre del Dos Mil, en el Salón del Cabildo PRESIDENTE "BENITO JUÁREZ GARCÍA", del Honorable Ayuntamiento de Cuernavaca, Morelos.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+P.O. 5 DE NOVIEMBRE DE 2003.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación den el Periódico Oficial "Tierra y Libertad", órgano informativo que edita el Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan las disposiciones administrativas municipales que se opongan la presente Acuerdo.
