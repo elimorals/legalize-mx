@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "1966-07-19"
+last_updated: "1969-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JULIO DE 1966.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 1969.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -99,11 +99,13 @@ V.- Por el Tribunal Superior de Justicia en pleno.
 
 Los Jueces Auxiliares sólo tienen facultad para practicar las diligencias que les encomienden los de Primera Instancia y los Municipales de su jurisdicción y para recoger las pruebas urgentes y asegurar a los responsables cuando se cometa un delito en su territorio jurisdiccional.
 
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 1969)</small>
+
 ###### ARTICULO 8º.
 
-Los Jueces Municipales son competentes para conocer de los delitos que se cometan en territorio del Municipio en donde ejerzan sus funciones y que tengan como sanción: amonestación, apercibimiento, caución de no ofender, multa que no exceda de cincuenta pesos y prisión hasta de seis meses.
+Los Jueces Municipales "A", son competentes para conocer los delitos que se cometan en el territorio de la jurisdicción donde ejerzan sus funciones y tengan como sanción: amonestación, apercibimiento, caución de no ofender, multa que no exceda de mil pesos y, prisión hasta de dos años, aun cuando la multa que pueda corresponder en este caso exceda del límite establecido con anterioridad.
 
-De los demás delitos, conocerán sólo a prevención cuando hubiere detenidos y una vez desahogadas las primeras diligencias y dictado, en sus casos, el auto de formal prisión, el de sujeción a proceso, o el de libertad por falta de elementos para procesar, se declararán incompetentes, remitiendo lo actuado al Juez de Primera Instancia respectivo.
+Los Jueces Municipales "B", tendrán competencia en los términos que señala el párrafo anterior, con la salvedad de que sólo conocerán delitos que tengan como sanción: multa que no exceda de trescientos pesos y, prisión hasta de seis meses, aun cuando la multa que pueda corresponder en este caso, exceda del límite establecido con anterioridad.
 
 ###### ARTICULO 9º.
 
@@ -2517,7 +2519,7 @@ Concedida la rehabilitación por la Legislatura del Estado, se comunicará la re
 
 Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá conceder otra.
 
-TRANSITORIOS:
+T R A N S I T O R I O S :
 
 1o.- Este Código entrará en vigor el día 1º. de julio del año 1948.
 
@@ -2540,3 +2542,13 @@ Jalapa-Enríquez, a 22 de diciembre de 1947.- El Gobernador Constitucional del E
 G.O. 19 DE JULIO DE 1966.
 
 La presente Ley surtirá sus efectos legales, tres días después de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 27 DE NOVIEMBRE DE 1969.
+
+###### ARTICULO PRIMERO.
+
+Publíquese en la "Gaceta Oficial" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Esta Ley entrará en vigor a partir del día primero del año de mil novecientos setenta.
