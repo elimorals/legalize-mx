@@ -4,7 +4,7 @@ identifier: "FED-ley-que-establece-las-normas-minimas-sobre-readaptacion-2572"
 country: "mx"
 rank: "ley"
 publication_date: "1971-05-19"
-last_updated: "1974-12-23"
+last_updated: "1984-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2572&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1971-02-08"
 
 LEY QUE ESTABLECE LAS NORMAS MINIMAS SOBRE READAPTACION SOCIAL DE SENTENCIADOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE DICIEMBRE DE 1984.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 19 de mayo de 1971.
 
@@ -58,6 +58,10 @@ En dichos convenios se determinará lo relativo a la creación y manejo de insti
 Los convenios podrán ser concertados entre el Ejecutivo Federal y un solo Estado, o entre aquél y varias entidades federativas, simultáneamente, con el propósito de establecer, cuando así lo aconsejen las circunstancias, sistemas regionales.
 
 Lo anterior se entiende sin perjuicio de lo prescrito en el artículo 18 Constitucional acerca de convenios para que los reos sentenciados por delitos del orden común extingan su condena en establecimientos dependientes del Ejecutivo Federal.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 1984)</small>
+
+La Dirección General de Servicios Coordinados de Prevención y Readaptación Social tendrá a su cargo, asimismo, la ejecución de las sanciones que, por sentencia judicial, sustituyan a la pena de prisión o a la multa, y las de tratamiento que el juzgador aplique, así como la ejecución de las medidas impuestas a inimputables, sin perjuicio de la intervención que a este respecto deba tener, en su caso y oportunidad, la autoridad sanitaria.
 
 ### CAPITULO II. Personal
 
@@ -159,7 +163,21 @@ Los Patronatos brindarán asistencia a los liberados de otras entidades federati
 
 Por cada dos días de trabajo se hará remisión de uno de prisión, siempre que el recluso observe buena conducta, participe regularmente en las actividades educativas que se organicen en el establecimiento y revele por otros datos efectiva readaptación social. Esta última será, en todo caso, el factor determinante para la concesión o negativa de la remisión parcial de la pena, que no podrá fundarse exclusivamente en los días de trabajo, en la participación en actividades educativas y en el buen comportamiento del sentenciado.
 
-La remisión funcionará independientemente de la libertad preparatoria, cuyos plazos se regirán, exclusivamente, por las normas específicas pertinentes.
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 1984)</small>
+
+La Remisión funcionará independientemente de la libertad preparatoria. Para este efecto, el cómputo de plazos se hará en el orden que beneficie al reo. El Ejecutivo regulará el sistema de cómputos para la aplicación de este precepto, que en ningún caso quedará sujeto a normas reglamentarias de los establecimientos de reclusión o a disposiciones de las autoridades encargadas de la custodia y de la readaptación social.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 1984)</small>
+
+El otorgamiento de la remisión se condicionará, además de lo previsto en el primer párrafo de este artículo, a que el reo repare los daños y perjuicios causados o garantice su reparación, sujetándose a la forma, medidas y términos que se le fijen para dicho objeto, si no puede cubrirla desde luego.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 1984)</small>
+
+Al disponer la remisión, la autoridad que la conceda establecerá las condiciones que deba observar el reo, conforme a lo estipulado en los incisos a) a d) de la segunda parte del artículo 84 del Código Penal.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 1984)</small>
+
+La remisión es revocable por la autoridad que la otorga, en los casos y conforme al procedimiento dispuestos para la revocación de la libertad preparatoria.
 
 ### CAPITULO VI. Normas Instrumentales
 
@@ -172,6 +190,10 @@ La Dirección General de Servicios Coordinados de Prevención y Readaptación So
 ###### ARTICULO 18.
 
 Las presentes Normas se aplicarán a los procesados, en lo conducente.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 1984)</small>
+
+La autoridad administrativa encargada de los reclusorios no podrá disponer, en ningún caso, medidas de liberación provisional de procesados. En este punto se estará exclusivamente a lo que resuelva la autoridad judicial a la que se encuentra sujeto el procesado, en los términos de los preceptos legales aplicables a la prisión preventiva y a la libertad provisional.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -208,3 +230,9 @@ D.O.F. 23 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 10 DE DICIEMBRE DE 1984.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
