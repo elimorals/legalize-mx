@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2004-11-05"
+last_updated: "2005-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 2005.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -732,6 +732,10 @@ Las cuotas de recuperación se fundarán en principios de solidaridad social y g
 
 A los extranjeros que ingresen al país con el propósito predominante de hacer uso de los servicios de salud, se cobrará íntegramente el costo de los mismos, excepto en los casos de urgencias.
 
+> <small>(ADICIONADO, D.O.F. 18 DE ENERO DE 2005)</small>
+
+Se eximirá del cobro de las cuotas de recuperación por concepto de atención médica y medicamentos, a todo menor a partir de su nacimiento hasta cinco años cumplidos, que no sea beneficiario o derechohabiente de alguna institución del sector salud. Para el cumplimiento de esta disposición, será requisito indispensable que la familia solicitante se encuentre en un nivel de ingreso correspondiente a los tres últimos deciles establecidos por la Secretaría de Salud.
+
 ###### ARTICULO 37.
 
 Son servicios a derechohabientes de instituciones públicas de seguridad social los prestados por éstas a las personas que cotizan o a las que hubieren cotizado en las mismas conforme a sus leyes y a sus beneficiarios, los que con sus propios recursos o por encargo del Ejecutivo Federal presten tales instituciones a otro (sic) grupos de usuarios.
@@ -878,11 +882,11 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO V. Atención Materno-Infantil
 
-### CAPITULO VII. Salud Mental
-
 ### CAPITULO VI. Servicios de Planificación Familiar
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+
+### CAPITULO VII. Salud Mental
 
 ###### ARTICULO 61.
 
@@ -936,7 +940,7 @@ En materia de higiene escolar, corresponde a las autoridades sanitarias establec
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
-### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
+### CAPITULO II. De los Beneficios de la Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1008,9 +1012,7 @@ La Secretaría de Salud coordinará las actividades de las dependencias y entida
 
 La Secretaría de Salud prestará, a través del Consejo Nacional de Población, el asesoramiento que para la elaboración de programas educativos en materia de planificación familiar y educación sexual le requiera el sistema educativo nacional.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
-
-### CAPITULO II. De los Beneficios de la Protección Social en Salud
+### CAPITULO I. Disposiciones Generales
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1070,7 +1072,7 @@ Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1150,11 +1152,13 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+
 ## TITULO TERCERO BIS. De la Protección Social en Salud
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
+### CAPITULO VI. Del Fondo de Protección contra Gastos Catastróficos
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1246,11 +1250,11 @@ El Ejecutivo Federal, por conducto de la Secretaría de Salud, y los gobiernos d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO V. De las Cuotas Familiares
+### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VI. Del Fondo de Protección contra Gastos Catastróficos
+### CAPITULO V. De las Cuotas Familiares
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1322,7 +1326,7 @@ La Secretaría de Salud definirá las variables que serán utilizadas en la fór
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VIII. Del Consejo Nacional de Protección Social en Salud
+### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1396,7 +1400,7 @@ No se considerarán elegibles para la participación en los recursos del fondo q
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
+### CAPITULO VIII. Del Consejo Nacional de Protección Social en Salud
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1453,8 +1457,6 @@ El Consejo Nacional de Protección Social en Salud ejercerá las atribuciones qu
 ###### ARTICULO 77 Bis 35.
 
 El Sistema de Protección Social en Salud contará con una Comisión Nacional, como órgano desconcentrado de la Secretaría de Salud, con la estructura y funciones que le asigne su reglamento interno. El titular de la Comisión Nacional será designado por el Presidente de la República a propuesta del Secretario de Salud tras haber recogido las opiniones de los miembros del Consejo a que se refiere este Capítulo, que dispondrá para su operación de los recursos que le asigne la Federación.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO II. Servicio Social de Pasantes y Profesionales
 
@@ -1527,6 +1529,8 @@ IX. Cuidar las instalaciones de los establecimientos de salud y colaborar en su 
 X. Hacer uso responsable de los servicios de salud, y
 
 XI. Proporcionar de manera fidedigna la información necesaria para documentar su incorporación al Sistema de Protección Social en Salud y para la definición del monto a pagar por concepto de cuota familiar.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO III. Formación, Capacitación y Actualización del Personal
 
@@ -1896,7 +1900,7 @@ I.- Establecer un sistema permanente de vigilancia epidemiológica de la nutrici
 
 > <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2004)</small>
 
-II. Normar el desarrollo de los programas y actividades de educación en materia de nutrición, prevención, tratamiento y control de la desnutrición y obesidad, encaminados a promover hábitos alimentarios adecuados, preferentemente en los grupos sociales más vulnerables;
+II.- Normar el desarrollo de los programas y actividades de educación en materia de nutrición, prevención, tratamiento y control de la desnutrición y obesidad, encaminados a promover hábitos alimentarios adecuados, preferentemente en los grupos sociales más vulnerables;
 
 III.- Normar el establecimiento, operación y evaluación de servicios de nutrición en las zonas que se determinen, en función de las mayores carencias y problemas de salud;
 
@@ -1966,7 +1970,7 @@ II.- Vigilar y certificar la calidad del agua para uso y consumo humano, y
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
-III.- Vigilar la seguridad radiológica para el uso y aprovechamiento de las fuentes de radiación para uso médico sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+III.- Vigilar la seguridad radiológica para el uso y aprovechamiento de las fuentes de radiación para uso médico sin perjuicio de la intervención que corresponda a otras autoridades competentes;
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -4956,11 +4960,11 @@ IV.- Los libros de control de estupefacientes o substancias psicotrópicas, así
 
 > <small>(REFORMADA, D.O.F. 26 DE MAYO DE 2000)</small>
 
-V. La internación de cadáveres de seres humanos en el territorio nacional y su traslado al extranjero, y el embalsamamiento;
+V.- La internación de cadáveres de seres humanos en el territorio nacional y su traslado al extranjero, y el embalsamamiento;
 
 > <small>(REFORMADA, D.O.F. 26 DE MAYO DE 2000)</small>
 
-VI. La internación en el territorio nacional o la salida de él, de tejidos de seres humanos, incluyendo la sangre, componentes sanguíneos y células progenitoras hematopoyéticas y hemoderivados;
+VI.- La internación en el territorio nacional o la salida de él, de tejidos de seres humanos, incluyendo la sangre, componentes sanguíneos y células progenitoras hematopoyéticas y hemoderivados;
 
 VII.- La publicidad relativa a los productos y servicios comprendidos en esta Ley;
 
@@ -6027,3 +6031,13 @@ D.O.F. 5 DE NOVIEMBRE DE 2004.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, sólo en cuanto a los Artículos 333, 461, 462 y 462 Bis de la Ley General de Salud.
 
 Segundo. A los treinta días de su publicación en cuanto al Artículo 329 de la Ley General de Salud, el Centro Nacional de Trasplantes deberá presentar a la Secretaría de Salud la propuesta del documento mediante el cual se manifestará el consentimiento expreso de todas aquellas personas cuya voluntad sea donar sus órganos después de su muerte para que éstos sean utilizados en trasplantes.
+
+D.O.F. 18 DE ENERO DE 2005.
+
+Artículo Primero.- Los Gobiernos de las Entidades Federativas, adecuarán el reglamento respectivo para establecer la modalidad para la ejecución de los estudios socioeconómicos respectivos.
+
+Artículo Segundo.- El Ejecutivo Federal podrá allegarse de los recursos necesarios para dar cumplimiento a las disposiciones del presente Decreto mediante las asignaciones que para compensar la disminución de ingresos por concepto de cuotas de recuperación se destinen en el Presupuesto de Egresos de la Federación para el ejercicio del año 2005.
+
+Artículo Tercero.- Todos los niños beneficiarios de esta reforma, deberán ser inscritos obligatoriamente en el Programa de Control del Niño Sano de la jurisdicción sanitaria correspondiente.
+
+Artículo Cuarto.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
