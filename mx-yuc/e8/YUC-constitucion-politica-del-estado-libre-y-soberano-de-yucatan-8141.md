@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1961-09-30"
+last_updated: "1962-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 1961.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE NOVIEMBRE DE 1962.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -1013,9 +1013,17 @@ III.- reintegrar la actividad individual, cuando ésta se encuentre menoscabada 
 
 IV.- ordenar las relaciones sociales hacia el fin de que la convivencia deje de ser pesada carga para la mayoría y fuente de bienandanza para una minoría, adoptando como principio de justicia el de que cada quien debe cooperar al bienestar colectivo, en la medida de sus fuerzas físicas e intelectuales, y recibir en cambio, de la sociedad, lo bastante para satisfacer sus necesidades;
 
-V.- organizar el sistema represivo, inspirándolo en el criterio de defensa social, eliminando todo concepto de venganza colectiva; y
+> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 1962)</small>
 
-VI.- evitar que por el acaparamiento de las fuentes o instrumentos de producción, sea posible en la estructura social, la explotación de los frutos del esfuerzo ajeno.
+V.- organizar el sistema represivo, inspirándolo en el criterio de defensa social, eliminando todo concepto de venganza colectiva;
+
+> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 1962)</small>
+
+VI.- evitar que por el acaparamiento de las fuentes o instrumentos de producción, sea posible en la estructura social, la explotación de los frutos del esfuerzo ajeno; y
+
+> <small>(ADICIONADA, D.O. 21 DE NOVIEMBRE DE 1962)</small>
+
+VII.- Propugnar el mejoramiento de los trabajadores a su servicio a fin de que alcancen metas de superación intelectual y beneficios de seguridad social y pensiones en los cauces del Estatuto de los Trabajadores al Servicio del Estado, que es la norma legal que rige las relaciones laborales sobre la materia.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1275,23 +1283,23 @@ D.O. 15 DE JUNIO DE 1927.
 
 Este Decreto comenzará a surtir sus efectos legales el mismo día de su publicación en el "Diario Oficial" del Estado.
 
-D.O. 18 DE MARZO DE 1930.
+D.O. 18 DE MARZO DE 1930
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
-D.O. 28 DE JUNIO DE 1930.
+D.O. 28 DE JUNIO DE 1930
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
-D.O. 31 DE DICIEMBRE DE 1930.
+D.O. 31 DE DICIEMBRE DE 1930
 
 La reforma de los artículos 20 y 21 constitucionales, entrará en vigor al verificarse las elecciones para integrar la XXXII Legislatura del Estado y la de las demás disposiciones a que este decreto se refiere, el día primero de enero de 1931.
 
-D.O. 31 DE DICIEMBRE DE 1931.
+D.O. 31 DE DICIEMBRE DE 1931
 
 Este decreto entrará en vigor el día primero de enero del año de mil novecientos treinta y dos.
 
-D.O. 30 DE MARZO DE 1932.
+D.O. 30 DE MARZO DE 1932
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
@@ -1299,11 +1307,11 @@ D.O. 8 DE AGOSTO DE 1932.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
-D.O. 20 DE AGOSTO DE 1932.
+D.O. 20 DE AGOSTO DE 1932
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
-D.O. 4 DE JULIO DE 1938.
+D.O. 4 DE JULIO DE 1938
 
 ###### ARTICULO 1.
 
@@ -1329,47 +1337,51 @@ Los ciudadanos electos para desempeñar los cargos de Magistrados del Tribunal S
 
 Quedan derogadas todas las Leyes que de cualquier modo se opongan a la presente Constitución.
 
-D.O. 6 DE OCTUBRE DE 1943.
+D.O. 6 DE OCTUBRE DE 1943
 
 Esta Ley comenzará a regir al día siguiente de su publicación en el "Diario Oficial" del Estado.
 
-D.O. 4 DE OCTUBRE DE 1944.
+D.O. 4 DE OCTUBRE DE 1944
 
 Esta Ley comenzará a regir el día siguiente al de su publicación en el "Diario Oficial" del Gobierno del Estado.
 
-D.O. 2 DE OCTUBRE DE 1946.
+D.O. 2 DE OCTUBRE DE 1946
 
 ARTICULO SEGUNNDO (SIC).- Esta Ley comenzará a regir al día siguiente de su publicación en el Diario Oficial del Estado.
 
-D.O. 8 DE OCTUBRE DE 1947.
+D.O. 8 DE OCTUBRE DE 1947
 
 Esta Ley comenzará a regir al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
 
-D.O. 14 DE OCTUBRE DE 1947.
+D.O. 14 DE OCTUBRE DE 1947
 
 Esta Ley comenzará a regir al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
 
-D.O. 11 DE SEPTIEMBRE DE 1954.
+D.O. 11 DE SEPTIEMBRE DE 1954
 
 Esta Ley comenzará a regir el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
-D.O. 22 DE ENERO DE 1955.
+D.O. 22 DE ENERO DE 1955
 
 Esta Ley comenzará a regir el día siguiente al de su publicación en el "Diario Oficial" del Estado.
 
-D.O. 31 DE DICIEMBRE DE 1960.
+D.O. 31 DE DICIEMBRE DE 1960
 
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
-D.O. 19 DE JULIO DE 1961.
+D.O. 19 DE JULIO DE 1961
 
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor, el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
-D.O. 30 DE SEPTIEMBRE DE 1961.
+D.O. 30 DE SEPTIEMBRE DE 1961
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LOS ARTICULOS 1 Y 2 DEL CODIGO CIVIL VIGENTE EN EL ESTADO DE YUCATAN.
+
+D.O. 21 DE NOVIEMBRE DE 1962
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LOS ARTICULOS 1 Y 2 DEL CODIGO CIVIL VIGENTE EN EL ESTADO DE YUCATAN.
 
