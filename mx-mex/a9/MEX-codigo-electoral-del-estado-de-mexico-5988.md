@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-5988"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-03-02"
-last_updated: "1999-10-09"
+last_updated: "2001-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ELECTORAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE OCTUBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2001.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el sábado 2 de marzo de 1996.
 
@@ -287,7 +287,9 @@ Integración de la Legislatura del Estado
 
 Para tener derecho a la asignación de diputados de representación proporcional, el partido político de que se trate deberá:
 
-I. Acreditar la postulación de candidatos propios de mayoría relativa en, por lo menos, 30 distritos electorales, salvo que medie coalición de dos o más partidos, en cuyo caso, la obligación anterior se entenderá referida a la coalición de que se trate; y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
+
+I. Acreditar la postulación de candidatos propios de mayoría relativa en, por lo menos, 15 distritos electorales, salvo que medie coalición, en cuyo caso, la obligación anterior se entenderá referida a la coalición de que se trate; y
 
 II. Haber obtenido, al menos, el 1.5% de la votación válida emitida en el Estado en la elección de diputados de mayoría relativa.
 
@@ -329,7 +331,9 @@ D. En los municipios de más de un millón de habitantes, el Ayuntamiento estar�
 
 III. Cada partido político deberá postular en planilla con fórmulas de propietarios y suplentes la totalidad de candidatos para los cargos a elegir. El candidato a Presidente Municipal ocupará el primer lugar en la lista de la planilla; el candidato o los candidatos a síndico ocupará u ocuparán, según el caso, el segundo y el tercer lugar en dicha lista; y los restantes candidatos a regidor ocuparán los siguientes lugares en la lista, hasta completar el número que corresponda de acuerdo a lo establecido en los apartados A al D de la fracción II de este artículo;
 
-IV. Para tener derecho a participar en la asignación de regidores según el principio de representación proporcional, los partidos políticos deberán postular planillas completas de candidatos en por lo menos 60 municipios del Estado,
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
+
+IV.- Para tener derecho a participar en la asignación de regidores según el principio de representación proporcional, los partidos políticos deberán acreditar la postulación de planillas completas de candidatos propios o en coalición en, por lo menos, cincuenta municipios del Estado.
 
 V. Para los efectos de la fracción anterior se requiere adicionalmente, que los partidos políticos obtengan al menos el 1.5% de la votación válida emitida en el municipio de que se trate;
 
@@ -869,7 +873,7 @@ b) Los informes contendrán los ingresos y gastos ordinarios de los partidos pol
 
 II. Los informes de Campaña:
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
+(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)(F. DE E., P.O. 15 DE OCTUBRE DE 1998)
 
 a) Deberán presentarse por los partidos políticos, por cada una de las campañas, para Gobernador, diputados locales y ayuntamientos respectivamente.
 
@@ -1067,9 +1071,13 @@ V. La coalición por la que se postulen candidatos a diputados por el principio 
 
 VI. Los partidos que se coaliguen para la elección de diputados por el principio de mayoría relativa en la totalidad de los distritos uninominales, deberán coaligarse para la elección de diputados por el principio de representación proporcional;
 
-VII. Los partidos podrán formar coaliciones para la elección de diputados por el principio de mayoría relativa en uno o más distritos uninominales, siempre y cuando las coaliciones en los distintos distritos se integren con los mismos partidos; y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
 
-VIII. Los partidos podrán formar coaliciones para la elección de uno o más ayuntamientos, siempre y cuando las coaliciones en los distintos municipios se integren con los mismos partidos.
+VII. Los partidos podrán formar coaliciones para la elección de diputados por el principio de mayoría relativa en uno o más distritos uninominales.
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
+
+VIII. Los partidos podrán formar coaliciones para la elección de uno o más ayuntamientos.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
@@ -1113,19 +1121,31 @@ La coalición que presente candidatos a diputados por el principio de mayoría r
 
 El convenio de coalición contendrá los siguientes datos:
 
-I. Los partidos políticos que la forman;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
 
-II. La elección que la motiva;
+I. El emblema y coloro colores del partido coaligado que la coalición decida, o con el formado con los de los partidos políticos integrantes de la coalición;
 
-III. Nombre, edad, lugar de nacimiento y domicilio del o de los candidatos;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
+
+II. La elección que la motiva, haciendo señalamiento expreso del o de los distritos o municipios, o lista de representación proporcional;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
+
+III. Nombre, edad, lugar de nacimiento, clave de la Credencial para Votar, domicilio y consentimiento por escrito del o de los candidatos, tanto de mayoría relativa como de representación proporcional, éstos últimos en la lista única;
 
 IV. El cargo para el que se postula al o a los candidatos;
 
-V. El emblema y color o colores del partido coaligado que la coalición decida, o con el formado con los de los partidos políticos integrantes de la coalición; en este último caso no deberán aparecer ligados;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
 
-VI. En su caso, la forma de distribución del financiamiento público que les corresponda; y
+V. En su caso, la forma de distribución del financiamiento público que les corresponda, estableciendo cada uno de éstos el monto de las aportaciones para el desarrollo de las campañas, así como la forma de reportarlo en los informes correspondientes;
 
-VII. La prelación para conservar el registro de los partidos políticos, en el caso de que el porcentaje obtenido por la coalición no sea superior o equivalente a la suma de los porcentajes mínimos que cada uno de los partidos coaligados necesite para conservar su registro.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
+
+VI. La aprobación del convenio por parte de los órganos directivos correspondientes a cada uno de los partidos coaligados, así como las firmas autógrafas de los representantes de los partidos suscribientes; y
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
+
+VII. El porcentaje de los votos que a cada partido político coaligado le corresponda, para efectos de la conservación del registro, la distribución del financiamiento público y, en su caso, para la asignación de diputados por el principio de representación proporcional, cuando no se hubieren coaligado para ese efecto.
 
 ###### Artículo 75.
 
@@ -2205,7 +2225,7 @@ VIII. Resolver sobre las peticiones y consultas que sometan a su consideración 
 
 IX. Recibir los recursos que este Código establece, en contra de sus resoluciones y remitirlos a la autoridad competente para su resolución;
 
-X. Informar una vez al mes por lo menos, durante el proceso electoral, al Consejo General del Instituto sobre el desarrollo de sus funciones; y
+X. Informar una vez al mes por lo menos, durante el proceso electoral, al Consejo General del Instituto sobre el desarrollo de sus funciones;
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
 
@@ -2239,7 +2259,7 @@ V. Expedir la Constancia a la planilla de candidatos para el Ayuntamiento que ha
 
 VI. Dar a conocer, mediante avisos colocados en el exterior del local del Consejo Municipal respectivo, los resultados de los cómputos municipales;
 
-VII. Vigilar el cumplimiento de las resoluciones tomadas por el propio Consejo Municipal o el Consejo General del Instituto; y
+VII. Vigilar el cumplimiento de las resoluciones tomadas por el propio Consejo Municipal o el Consejo General del Instituto;
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
 
@@ -2981,7 +3001,9 @@ I. Distrito o Municipio, sección electoral y fecha de la elección;
 
 II. Cargo para el que se postula al candidato o candidatos;
 
-III. El color o combinación de colores y emblema que cada partido político o coalición tenga registrado, en el orden que le corresponda de acuerdo a la antigüedad de su registro;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
+
+III. El color o combinación de colores y emblema que cada partido político o coalición tenga registrado, en el orden que le corresponda de acuerdo a la antigüedad de su registro como partido. En el caso de una coalición se tomará como base el registro del partido más antiguo que la integre;
 
 IV. Nombre y apellidos del candidato o los candidatos respectivos;
 
@@ -3675,51 +3697,43 @@ I. Haber obtenido el 51% o más de la votación válida emitida, y que su númer
 
 II. Haber obtenido menos del 51% de la votación válida emitida y que su número de constancias de mayoría relativa sea igual o mayor a la mitad más uno de los miembros de la Legislatura.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2001)</small>
+
 ###### Artículo 265.
 
-Para la distribución de diputados de representación proporcional se cumplirán las siguientes normas:
+La distribución y asignación de diputados de representación proporcional por parte del Consejo General se sujetará a las siguientes reglas:
 
-I. Si un partido obtiene el 51% o más de la votación válida emitida y el número de sus constancias de mayoría relativa representan un porcentaje del total de la Legislatura inferior a su referido porcentaje de votos, tendrá derecho a que le sean asignados diputados de representación proporcional hasta que la suma de diputados obtenidos por ambos principios represente su porcentaje de votos;
+I. Tendrán derecho a la asignación de diputados de representación proporcional los partidos que hubieren obtenido al menos el 1.5 % de la votación total emitida y cuyo número de constancias de mayoría relativa represente un porcentaje del total de integrantes de la Legislatura menos a su porcentaje de votos.
 
-II. Ningún partido tendrá derecho a que le sean reconocidos más de 49 diputados, que representan el 65% de la integración total de la Legislatura, aún cuando hubiese obtenido un porcentaje de votos superior;
+II. Se asignarán de forma tal que el número de diputados de cada partido represente un porcentaje del total de integrantes de la Legislatura lo más cercano posible a su porcentaje de la votación valida emitida.
 
-III. Si ningún partido obtiene el 51% de la votación válida emitida y ninguno alcanza, con sus constancias de mayoría relativa, la mitad más uno de los miembros de la Legislatura, al partido con más constancias de mayoría y por lo menos el 45% de la votación emitida, le serán asignados diputados de representación proporcional, hasta alcanzar la mayoría de la Legislatura; y
+III. El número de diputados de representación proporcional a asignar a cada partido se calculará de la siguiente manera:
 
-IV. Si ningún partido se encuentra en la hipótesis de la fracción anterior, los diputados de representación proporcional serán asignados de forma tal que el número de diputados de cada partido, como porcentaje del total de la Legislatura, sea igual a su porcentaje de votos. En dicho caso, la asignación se hará empezando por el partido que mayor porcentaje de votos haya obtenido.
+a). Se calculará el cociente de unidad, el cual será el resultado de dividir la votación valida efectiva menos la votación obtenida por aquellos partidos que por el principio de mayoría relativa hubieran obtenido un porcentaje de integrantes del total de la Legislatura mayor o igual a su porcentaje de la votación valida emitida entre el número total de integrantes de la Legislatura menos el número de diputados obtenidos por aquellos partidos que por el principio de mayoría relativa hubieran obtenido un porcentaje de integrantes del total de la Legislatura mayor o igual a su porcentaje de la votación valida emitida.
+
+b). A la votación de los partidos que participen en la asignación de diputados de representación proporcional se deberá restar el producto de multiplicar el total de diputados de mayoría relativa obtenidos por el cociente de unidad.
+
+c). A cada partido se asignarán tanto diputados como su votación, una vez realizadas las deducciones señaladas en el inciso anterior, contenga el cociente de unidad.
+
+d). Si después de haber realizado dicha asignación quedaren diputaciones por distribuir esta se realizará por resto mayor entendiendo por éste último al remanente mas alto entre los restos de las votaciones de cada partido una vez hecha la distribución de diputados mediante el cociente de unidad.
 
 ###### Artículo 266.
 
-El Consejo General realizará la asignación por el principio de representación proporcional, conforme a la fórmula integrada con los siguientes elementos:
+(DEROGADO, P.O. 24 DE AGOSTO DE 2001)
 
-A. El 1.5% de la votación válida emitida;
-
-B. Cociente de unidad; y
-
-C. Resto mayor
-
-Cociente de unidad es el resultado de dividir la votación válida efectiva entre el total de diputados de representación proporcional que deban asignarse.
-
-Resto mayor de votos es el remanente mas alto entre los restos de las votaciones de cada partido político una vez hecha la distribución de diputados mediante el cociente de unidad. El resto mayor se utilizará cuando aún hubiese diputaciones por asignar.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2001)</small>
 
 ###### Artículo 267.
 
-Para la aplicación de la fórmula prevista en el artículo anterior se procederá como sigue:
+Para la asignación de los diputados de representación proporcional, los partidos políticos harán una declaratoria respecto al orden en que deba efectuarse, optando por cualesquiera de las alternativas siguientes:
 
-I. Primero se determinará si es el caso de aplicar a algún partido político el o los supuestos establecidos en las fracciones I y III del artículo 265, en cuyo caso se asignarán primero a dicho partido los diputados de representación proporcional que correspondan;
+A). La primera diputación corresponderá a la fórmula de candidatos que no habiendo obtenido mayoría relativa haya alcanzado el porcentaje más alto de la votación minoritaria de su partido.
 
-II. De igual manera se descontará la votación de el o los partidos políticos que no alcancen el 1.5% de la votación válida emitida o se encuentren en los supuestos previstos por el artículo 264 de este Código;
+Las demás a que tenga derecho cada partido serán asignadas alternativamente a la fórmula que aparezca en las listas de candidatos y en orden descendente de acuerdo al porcentaje de votación más alto de quienes no hubieren obtenido constancia de mayoría; o
 
-III. A cada uno de los partidos cuya votación represente al menos el 1.5% de la votación válida emitida, sin haber obtenido constancias de mayoría, le será asignado un diputado de representación proporcional. Los votos utilizados serán descontados de la votación obtenida por los partidos correspondientes y de la votación válida efectiva;
+B).La primera diputación corresponderá a la fórmula de candidatos que aparezca encabezando la lista a que se refiere el artículo 22 de este ordenamiento.
 
-IV. La votación total obtenida conforme a las fracciones anteriores, según sea el caso, será dividida entre el número de diputados que quedasen por repartir, obteniéndose el cociente de unidad;
-
-V. Se determinarán y asignarán los diputados que correspondan a cada partido político, conforme al número de veces que contenga su votación el cociente de unidad;
-
-VI. Si después de aplicarse el cociente de unidad quedaren diputados por distribuir, se utilizará el resto mayor, siguiendo el orden decreciente de los votos no utilizados para cada uno de los partidos políticos en la asignación de diputados; y
-
-La primera diputación corresponderá a la fórmula de candidatos que no habiendo obtenido la mayoría relativa haya alcanzado el porcentaje mas alto de votación minoritaria de su partido.
-
-Las demás a que tenga derecho cada partido, serán asignadas alternativamente a la fórmula que aparezca en las listas de candidatos, y en orden descendente de acuerdo al porcentaje de votación a quienes no hubieren obtenido constancia de mayoría.
+Las demás a que tenga derecho cada partido, serán asignadas alternativamente entre las listas de candidatos y a las fórmulas que hayan obtenido el porcentaje de votación más alto de su partido en forma descendente y que no haya obtenido constancia de mayoría.
 
 ###### Artículo 268.
 
@@ -4967,7 +4981,7 @@ Para cumplir con los objetivos para los cuales fue creada, la comisión celebrar
 
 ###### Artículo 352.
 
-El Consejero Presidente del Consejo General tomará conocimiento de las infracciones en que incurran los notarios públicos que sin causa justificada dejen de cumplir las obligaciones que les señala este Código sin perjuicio de la imposición de otras sanciones previstas en este Código y en la legislación penal.
+El Consejero presidente del Consejo General tomará conocimiento de las infracciones en que incurran los notarios públicos que sin causa justificada dejen de cumplir las obligaciones que les señala este Código sin perjuicio de la imposición de otras sanciones previstas en este Código y en la legislación penal.
 
 Conocida la infracción, el Consejo General integrará un expediente, que remitirá al Ejecutivo del Estado, quien concediendo la garantía de audiencia al perjudicado, dictará la resolución que corresponda.
 
@@ -5186,3 +5200,9 @@ Este Decreto entrará en vigor el día de su publicación en la Gaceta del Gobie
 ###### ARTÍCULO TERCERO.
 
 El Servicio Profesional Electoral señalado en el artículo 109-bis, se implementará una vez que concluya el proceso electoral del año 2000.
+
+P.O. 24 DE AGOSTO DE 2001
+
+Artículo Primero.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno"
+
+Artículo Segundo.- Este decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno"
