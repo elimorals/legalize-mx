@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1986-09-06"
+last_updated: "1986-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE SEPTIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 1986.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -463,7 +463,9 @@ VI. No tener antecedentes penales por comisión de delitos de naturaleza intenci
 
 No pueden ser electos Diputados:
 
-I. El Gobernador, los Magistrados del Tribunal Superior de Justicia y el Procurador General del Estado;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+I. El Gobernador, los Secretarios del Despacho, los Magistrados del Tribunal Superior de Justicia y el Procurador General de Justicia del Estado;
 
 II. Los Diputados al Congreso General, estén o no en ejercicio;
 
@@ -473,7 +475,9 @@ IV. Los militares en servicio activo o en cuartel;
 
 V. Los Presidentes Municipales por los Distritos en que ejerzan autoridad; y
 
-VI. Los Jefes de las rentas federales, el Tesorero General del Estado y los Administradores de Rentas por los Distritos en donde ejerzan sus funciones.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+VI. Los Jefes de las Rentas Federales y los Administradores de Rentas por los Distritos en donde ejerzan sus funciones.
 
 > <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
 
@@ -493,11 +497,11 @@ La Legislatura se renovará en su totalidad cada tres años y comenzará a funci
 
 En cada año tendrá un período de sesiones ordinarias, prorrogables por treinta días, que principiará en la fecha expresada en el artículo precedente y concluirá el 31 de diciembre.
 
-> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 1938)</small>
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 53.
 
-En el período de sesiones ordinarias, la Legislatura se ocupará de preferencia en examinar, discutir y aprobar los presupuestos que con relación a los ingresos y egresos del año siguiente, le serán presentados por el C. Gobernador; en examinar y aprobar los planes de arbitrios de los Municipios; en examinar y aprobar las cuentas de recaudación y distribución de caudales del año próximo anterior, que serán presentadas por el Gobernador y los Ayuntamientos en las fechas que indiquen las leyes orgánicas respectivas. La revisión no se limitará a examinar si las cantidades gastadas están o no de acuerdo con las partidas respectivas del presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y de las responsabilidades a que hubiere lugar. No podrá haber otras partidas secretas, fuera de las que se consideren necesarias con ese carácter, en el presupuesto del Gobierno del Estado, las que empleará el Secretario por acuerdo escrito del Gobernador.
+En el período de sesiones ordinarias la Legislatura se ocupará de preferencia, en examinar, discutir y aprobar los presupuestos que, con relación a los ingresos y egresos del año siguiente, le serán presentados por el C. Gobernador; en examinar y aprobar los planes de arbitrios de los municipios; en examinar y aprobar las cuentas de recaudación y distribución de caudales del año próximo anterior, que serán presentadas por el Gobernador y los Ayuntamientos, en las fechas que indiquen las Leyes Orgánicas respectivas. La revisión no se limitará a examinar si las cantidades gastadas están o no de acuerdo con las partidas respectivas del presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y de las responsabilidades a que hubiere lugar. No podrá haber otras partidas secretas, fuera de las que se consideren necesarias con ese carácter, en el Presupuesto del Gobierno del Estado, las que empleará el Secretario General de Gobierno por acuerdo escrito del Gobernador.
 
 ###### Artículo 54.
 
@@ -547,9 +551,9 @@ El Gobernador del Estado y el Presidente del Tribunal Superior de Justicia leer�
 
 A dichos informes dará contestación el Presidente de la Legislatura.
 
-> <small>(REFORMADO, G.O. 29 DE OCTUBRE DE 1981)</small>
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
-Si el Gobernador no pudiere concurrir por hallarse enfermo o por otra causa justificada, dará lectura a su informe el Secretario de Gobierno.
+Si el Gobernador no pudiere concurrir por hallarse enfermo o por otra causa justificada, dará lectura a su Informe el Secretario General de Gobierno.
 
 > <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
@@ -605,9 +609,9 @@ DEL GOBERNADOR DEL ESTADO, DE SUS FACULTADES Y OBLIGACIONES.
 
 ### CAPITULO VII.
 
-DEL SECRETARIO DE GOBIERNO.
+DE LOS SECRETARIOS.
 
-> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 68.
 
@@ -665,7 +669,9 @@ XVI. Contraer deudas sobre el crédito del Estado y señalar fondos para pagarla
 
 XVII. Crear, suprimir y dotar competentemente los empleos del Estado;
 
-XVIII. Promover lo necesario al mejoramiento de los elementos de prosperidad en el Estado;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+XVIII. Dar, a iniciativa del Ejecutivo, la Ley de Planeación que reglamentará la formulación, instrumentación, control, evaluación y actualización de los planes, programas y proyectos de la Administración Pública Estatal. La Planeación del desarrollo económico y social del Estado, será democrática y obligatoria para el poder público;
 
 XIX. Proteger la libertad de cultos sin consentir preferencia alguna en favor de determinada religión; y dar la ley sobre el número máximo de ministros de los cultos a que la faculta el artículo 130 de la Constitución General de la República;
 
@@ -733,7 +739,9 @@ XXXVIII. Organizar en el territorio del Estado el sistema penal por Colonias, Pe
 
 XXXIX. Establecer las bases normativas para que los ayuntamientos expidan los bandos de policía y buen Gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivos ámbitos de validez;
 
-XL. Aprobar la legislación que proponga la Dirección General de Salubridad, por medio del Ejecutivo del Estado, y dictar las disposiciones conducentes a la represión del alcoholismo. Una ley establecerá, desde luego, dicha dirección General, determinando las bases de su organización, y funcionamiento;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+XL. Discutir y aprobar, en su caso, la legislación que proponga la Secretaría de Salud y Asistencia, por medio del Ejecutivo del Estado sobre esta materia, y dictar las disposiciones conducentes a la lucha contra el alcoholismo;
 
 XLI. Aprobar las disposiciones que dicte el Ejecutivo con relación a la organización, disciplina y funciones de la Guardia Civil o de Seguridad del Estado y el número de plazas que deba tener;
 
@@ -839,7 +847,9 @@ VIII. Establecer exenciones o subsidios respecto de los impuestos, derechos, pro
 
 Son iniciativas de ley o decreto:
 
-I. Las proposiciones que dirigen a la Legislatura, el Gobernador del Estado, las Legislaturas de otros Estados de la Federación, el Tribunal Superior de Justicia, la Dirección General de Educación y la Universidad Veracruzana en lo tocante a sus ramos;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+I. Las proposiciones que dirigen a la Legislatura el Gobernador del Estado, las Legislaturas de otros Estados de la Federación, el Tribunal Superior de Justicia y la Universidad Veracruzana en lo tocante a sus ramos;
 
 II. Las proposiciones de los miembros de la Legislatura admitidas a discusión, conforme al Reglamento; y
 
@@ -961,6 +971,8 @@ XII. Los municipios, en los términos de las leyes federales y estatales relativ
 
 XIII. Los municipios poseerán facultades para expedir, de acuerdo con las bases normativas que establezca la Legislatura, los bandos de policía, buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivos ámbitos de validez.
 
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
 ### CAPITULO VIII.
 
 DEL PODER JUDICIAL.
@@ -969,19 +981,41 @@ DEL PODER JUDICIAL.
 
 ###### Artículo 91.
 
-El Ejecutivo tendrá, para el despacho de los negocios oficiales, un Secretario que se denominará "Secretario de Gobierno".- Para ocupar este puesto, son necesarios los mismos requisitos que para ser electo Gobernador; siendo indispensable, además, que la persona designada sea titulada en la ciencia del Derecho.
+Para el despacho de los asuntos encomendados al Ejecutivo, habrá tantas Secretarías, dependencias y organismos públicos como la Administración Pública de la Entidad lo requiera, conforme a la Ley Orgánica de la Administración Pública del Estado.
+
+Habrá un Secretario General de Gobierno, quien sustituirá al Gobernador en sus faltas que no excedan de un mes y estarán a su cargo, todos los negocios del Ejecutivo, sean cuales fueren.
+
+Para auxiliar en sus funciones a los Secretarios del Despacho y sustituirlos en sus faltas temporales, lo podrá hacer el Director General que éstos designen, al Secretario General de Gobierno lo sustituirá el Subsecretario.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 92.
 
-Substituirá al Gobernador en sus faltas que no excedan de un mes; será el Jefe de la Secretaría y estarán a su cargo todos los negocios del Ejecutivo del Estado, sean cuales fueren.
+Para ser Secretario del Despacho se requiere:
+
+I. Ser ciudadano veracruzano, nativo del Estado y en ejercicio de sus derechos, o ciudadano mexicano por nacimiento, debiendo en este último caso, tener un mínimo de 5 años de residencia en el Estado.
+
+II. Ser mayor de 25 años.
+
+III. No haber sido condenado por sentencia ejecutoria, por la comisión de delitos de naturaleza intencional.
+
+Para ocupar el puesto de Secretario General de Gobierno, son necesarios los mismos requisitos que para ser electo Gobernador, siendo indispensable, además, que la persona designada sea titulada en la ciencia del Derecho. El Subsecretario de Gobierno deberá reunir los mismos requisito que el Secretario General de Gobierno.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 93.
 
-Las faltas del Secretario, serán suplidas por persona que tenga el carácter de Subsecretario.
+Todos los reglamentos, decretos y acuerdos que el Gobernador expida en ejercicio de sus funciones constitucionales, deberán ser refrendados por el Secretario General de Gobierno, y por el o los titulares del ramo a que el asunto corresponda. Sin este requisito no serán obedecidos.
+
+Los Secretarios del Despacho serán responsables de las resoluciones del Gobernador, que autoricen con su firma, contrarias a la Constitución y Leyes del Estado, sin perjuicio de las responsabilidades que correspondan al Gobernador.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 94.
 
-La Legislatura podrá llamar al Secretario de Gobierno para que informe cuando se discuta una ley o se estudie un negocio cualquiera.
+El Gobernador podrá dar a conocer sus resoluciones a través de los Secretarios del Despacho, cuando así lo estime pertinente.
+
+En cualquier tiempo, la Legislatura del Estado o la Diputación Permanente, podrá citar a los Secretarios del Despacho para que informen del Estado que guarda la administración de sus respectivos ramos. Asimismo, podrá citarlos para explicar a la Legislatura, cuando se vaya a discutir un proyecto de ley o a estudiar un asunto relacionado con el ramo de que está encargado, en los términos del Artículo 87, fracción XI de esta Constitución.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 5 DE ABRIL DE 1984)</small>
 
@@ -993,11 +1027,17 @@ En el caso de urgencia notoria calificada por el voto de los dos tercios de los 
 
 Se reputará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones a la Legislatura, dentro de siete días útiles; a no ser que corriendo ese término hubiere cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse el primer día útil en que vuelva a reunirse.
 
+### CAPITULO I.
+
+DE LA HACIENDA Y CRÉDITO DEL ESTADO.
+
 ###### Artículo 95.
 
 El ejercicio del Poder Judicial del Estado se deposita en los órganos a que se refiere el Artículo 36 de esta Constitución.
 
-El Tribunal Superior de Justicia estará integrado por trece Magistrados Numerarios y dos Supernumerarios; funcionará en Pleno o en Salas, según lo determine la Ley, y será presidido por un Magistrado que no integrará Sala, sino en los casos expresamente señalados. El Presidente será designado por el Tribunal en Pleno, en la primera sesión del mes de diciembre de cada año, pudiendo ser reelecto; en sus faltas temporales, no mayores de treinta días, será sustituido por el Magistrado que él designe, pero si excediere de ese término, la designación la hará el Tribunal en Pleno. Los Magistrados Supernumerarios suplirán en sus ausencias a los Numerarios y además tendrán el carácter de Visitadores Judiciales. Cada Magistrado del Tribunal Superior, al entrar a ejercer su cargo, protestará ante la Legislatura, y en los recesos de ésta, ante la Diputación Permanente, guardar y hacer guardar la Constitución Federal, la Particular del Estado y las leyes que de ellas emanen, mirando en todo por la prosperidad y bienestar del Estado, así como impartir recta y pronta justicia.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+El Tribunal Superior de Justicia estará integrado por 16 Magistrados Numerarios y 4 Supernumerarios; funcionará en Pleno o en Salas, según lo determine la Ley Orgánica y será presidido por un Magistrado que no integrará Sala, sino en los casos expresamente establecidos en la propia ley y designado por el Tribunal en Pleno, en la primera sesión del mes de diciembre de cada año, pudiendo ser reelecto; en sus faltas temporales, no mayores de treinta días, será sustituido por el Magistrado que él designe, pero si excediere de ese término, la designación la hará el Tribunal en Pleno. Los Magistrados Supernumerarios suplirán en sus ausencias a los Numerarios y además, tendrán el carácter de Visitadores Judiciales. Cada Magistrado del Tribunal Superior al entrar a ejercer su cargo, protestará ante la Legislatura y en los recesos de ésta, ante la Diputación Permanente, guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ellas emanen, mirando en todo por la prosperidad y bienestar del Estado, así como impartir recta y pronta justicia.
 
 Los jueces de Primera Instancia, protestarán en los mismos términos ante el Presidente del Tribunal Superior o ante la autoridad judicial que el mismo Presidente designe. Los jueces municipales y los auxiliares, protestarán, respectivamente ante los jueces primeros o únicos de Primera Instancia y ante los jueces municipales primeros o únicos.
 
@@ -1019,29 +1059,33 @@ V. Ser de notoria moralidad y gozar de buena reputación.
 
 VI. No haber sido condenado por sentencia ejecutoria, dictada por los Tribunales Penales.
 
-> <small>(REFORMADO, G.O. 21 y 23 DE NOVIEMBRE DE 1944)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 97.
 
-Los nombramientos de los Magistrados del Tribunal Superior de Justicia serán hechos directamente por el Gobernador, quedando encomendados los trámites relativos a la Secretaría de Gobierno.
+Los nombramientos de los Magistrados del Tribunal Superior de Justicia, serán hechos directamente por el Gobernador, quedando encomendados los trámites relativos a la Secretaría General de Gobierno.
 
 > <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 1947)</small>
 
 Las designaciones de Magistrados serán sometidas a la aprobación de la Legislatura o de la Diputación Permanente, en su caso, la que otorgará o denegará esa aprobación dentro del improrrogable término de diez días. Si no se objetare la designación dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación expresa o tácita de la Legislatura, o en su caso, de la Diputación Permanente, no podrán tomar posesión de sus cargos los Magistrados nombrados por el Gobernador. En el caso de que no se aprueben dos nombramientos sucesivos respecto de la misma vacante, el Gobernador, hará un nombramiento, que surtirá efectos desde luego como provisional y que será sometido a la aprobación de la Legislatura en el siguiente período ordinario de sesiones. En este período, dentro de los primeros diez días, la Legislatura deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Legislatura desecha el nombramiento provisional, cesará desde luego en sus funciones de Magistrado y el Gobernador hará una nueva proposición en los términos señalados.
 
+> <small>(REFORMADO, G.O. 21 y 23 DE NOVIEMBRE DE 1944)</small>
+
 Los Jueces de Primera Instancia y los Agentes del Ministerio Público que reúnan los requisitos prevenidos para ser nombrados Magistrados y que se hayan distinguido por su laboriosidad, eficacia, competencia y honradez en el ejercicio de sus funciones, serán preferidos a cualquier otro abogado para ser designados Magistrados.
 
-> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 98.
 
-Los jueces de Primera Instancia serán nombrados por el Tribunal Superior de Justicia, en concurso de oposición, tomando en cuenta, además, su capacidad, honradez, eficiencia y antecedentes de servicio dentro del Poder Judicial. Pueden participar en dicho concurso los licenciados en Derecho con un mínimo de cinco años de ejercicio profesional debidamente acreditado en el Estado, bajo las mismas condiciones que se señalan para quienes ya prestan sus servicios dentro de aquél.
+Los Jueces de Primera Instancia serán nombrados por el Tribunal Superior de Justicia en Pleno mediante concurso de oposición. Será requisito previo para concursar en el citado examen de oposición, acreditar las materias del plan de estudios del Instituto de Especialización del Poder Judicial y satisfacer las cualidades de reconocido prestigio profesional, honradez, capacidad y buenos antecedentes dentro del Poder Judicial, en su caso.
 
-Podrán quedar exentos de examen de oposición a juicio del Tribunal Pleno, quienes hayan fungido como magistrados, jueces o Procurador General de Justicia, en el supuesto de que reúnan las cualidades antes apuntadas y los que fueran llamados por el Tribunal para ocupar interinamente el cargo.
+Podrán quedar exentos de examen de oposición, a juicio del Tribunal en Pleno, quienes hayan fungido como Magistrados, Jueces de Primera Instancia o Procurador General de Justicia, en el supuesto de que reúnan las cualidades antes apuntadas.
 
-Los jueces municipales serán nombrados por el Tribunal Superior de Justicia, a propuesta en terna del Juez Primero o Mixto de Primera Instancia del Distrito Judicial respectivo.
+El Tribunal Superior podrá designar Jueces de Primera Instancia Interinos, hasta por un año improrrogable, para ocupar las vacantes que dejen los Titulares en los casos que señale la Ley respectiva.
 
-Los jueces auxiliares serán designados por el Juez Primero o Mixto de Primera Instancia, del Distrito Judicial en cuya jurisdicción vayan a actuar, con aprobación de la Presidencia del Tribunal.
+Los Jueces Municipales serán nombrados por el Tribunal Superior de Justicia, a propuesta en terna del Juez o Jueces de Primera Instancia del Distrito Judicial respectivo.
+
+Los Jueces Auxiliares serán designados por el Juez Municipal de su Jurisdicción, oyendo a la comunidad y con aprobación de la Presidencia del Tribunal.
 
 > <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
 
@@ -1103,7 +1147,9 @@ I. Iniciar ante la Legislatura las Leyes y Decretos que tengan por objeto mejora
 
 II. Erigirse en Jurado de Sentencia, conforme a lo dispuesto en el artículo 123 de esta Constitución, para conocer en juicio político, cuando los servidores públicos incurran en actos u omisiones que constituyan perjuicio a los intereses públicos fundamentales y a su correcto despacho;
 
-III. Conocer, en los términos que fije la Ley respectiva, en pleno, de los instructivos de responsabilidad que hayan de formarse a sus miembros, al Procurador General, al Secretario de Gobierno, al Tesorero General del Estado, y a los Jueces de Primera Instancia, hasta resolver si ha lugar o no a formación de causa;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+III. Conocer, en los términos que fije la ley respectiva, en pleno, de los instructivos de responsabilidad que hayan de formarse a sus miembros, a los Secretarios del Despacho, al Procurador General de Justicia y a los Jueces de Primera Instancia, hasta resolver si ha lugar o no a formación de causas;
 
 > <small>(REFORMADA, G.O. 5 DE ABRIL DE 1984)</small>
 
@@ -1149,7 +1195,7 @@ Aprobado el proyecto en los términos que disponen los artículos anteriores, es
 
 ## TITULO QUINTO.
 
-DE LA HACIENDA Y CRÉDITO DEL ESTADO Y DE LA TESORERÍA GENERAL.
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 107.
 
@@ -1201,33 +1247,51 @@ Los procedimientos para la aplicación de las sanciones mencionadas, se desarrol
 
 La Ley determinará los casos y las circunstancias en los que se deba sancionar penalmente por causa del enriquecimiento ilícito a los servidores públicos, señalando las bases para el Registro Patrimonial de éstos.
 
-> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 123.
 
-Podrán ser sujetos de juicio político, los Diputados, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia, el Secretario de Gobierno, el Subsecretario de Gobierno, el Tesorero General del Estado, el Procurador General de Justicia, los Agentes del Ministerio Público, los Directores, Subdirectores y Jefes de Departamento del Poder Ejecutivo, el Magistrado del Tribunal Fiscal del Estado, los Directores, Gerentes o Encargados de Organismos Descentralizados o Desconcentrados, Empresas de Participación Estatal, Sociedades, Asociaciones o Fideicomisos constituidos por el Estado.
-
-Por lo que hace a los miembros de los Ayuntamientos, se estará a lo dispuesto en sus Leyes respectivas.
-
-Las sanciones consistirán, en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
-
-Para la aplicación de las sanciones antes mencionadas, la Legislatura del Estado procederá a la acusación respectiva ante el Pleno del Tribunal Superior de Justicia del Estado, previa declaración de las dos terceras partes del total de los integrantes de la Legislatura, después de haber sustanciado el procedimiento respectivo y con audiencia del inculpado.
-
-Conociendo de la acusación, el Pleno del Tribunal Superior de Justicia erigido en Jurado de Sentencia, aplicará la sanción correspondiente mediante resolución de las dos terceras partes de la totalidad de sus integrantes.
-
-Las declaraciones de la Legislatura y del Tribunal Superior de Justicia son inimpugnables.
+Podrán ser sujetos de juicio político, los Diputados, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia, los Secretarios del Despacho, el Subsecretario de Gobierno, el Procurador General de Justicia, los Agentes del Ministerio Público, los Directores, Subdirectores, Jefes de Departamento, del Poder Ejecutivo, el Magistrado del Tribunal Fiscal del Estado, los Directores, Gerentes o Encargados de organismos descentralizados o desconcentrados, empresas de participación estatal, sociedades, asociaciones o fideicomisos constituídos por el Estado.
 
 > <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
+Por lo que hace a los miembros de los Ayuntamientos, se estará a lo dispuesto en sus Leyes respectivas.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
+Las sanciones consistirán, en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
+Para la aplicación de las sanciones antes mencionadas, la Legislatura del Estado procederá a la acusación respectiva ante el Pleno del Tribunal Superior de Justicia del Estado, previa declaración de las dos terceras partes del total de los integrantes de la Legislatura, después de haber sustanciado el procedimiento respectivo y con audiencia del inculpado.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
+Conociendo de la acusación, el Pleno del Tribunal Superior de Justicia erigido en Jurado de Sentencia, aplicará la sanción correspondiente mediante resolución de las dos terceras partes de la totalidad de sus integrantes.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
+Las declaraciones de la Legislatura y del Tribunal Superior de Justicia son inimpugnables.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 124.
 
-Para proceder penalmente contra los Diputados, los Magistrados del Tribunal Superior de Justicia, el Gobernador del Estado, el Secretario de Gobierno, el Subsecretario de Gobierno, el Procurador General de Justicia o los Presidentes Municipales, por la comisión de delitos, durante el tiempo de su encargo, la Legislatura del Estado, por las dos terceras partes de los votos de la totalidad de sus integrantes, declarará si ha lugar a proceder contra el inculpado, en el procedimiento que se siga, se respetarán las garantías de audiencia y legalidad.
+Para proceder penalmente contra los Diputados, los Magistrados del Tribunal Superior de Justicia, el Gobernador del Estado, los Secretarios del Despacho, el Subsecretario de Gobierno, el Procurador General de Justicia o los Presidentes Municipales, por la comisión de delitos durante el tiempo de su encargo, la Legislatura del Estado, por las dos terceras partes de los votos de la totalidad de sus integrantes, declarará si ha lugar a proceder contra el inculpado. En el procedimiento que se siga, se respetarán las garantías de audiencia y legalidad.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 Si la Legislatura declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la Ley.
 
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
 Si la resolución de la Legislatura fuese negativa, se suspenderá todo procedimiento ulterior ante la misma por los mismos hechos.
 
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
 Las declaraciones y resoluciones de la Legislatura, son inimpugnables,
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 El efecto de la declaración de que ha lugar a proceder contra el inculpado, será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
 
@@ -1403,11 +1467,13 @@ La disposición que aumente o disminuya la remuneración que perciben los servid
 
 Todos los funcionarios y empleados del Estado y del Municipio, al entrar a desempeñar sus cargos, harán protesta formal de guardar y cumplir la Constitución General de la República, la particular del Estado y todas las leyes que de ambas emanen.
 
-> <small>(REFORMADO, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 136.
 
-El Gobernador, los Magistrados propietarios, los supernumerarios cuando estén en funciones, el Procurador General del Estado, los Jueces de primera Instancia, los Presidentes Municipales, el Secretario de Gobierno, los Secretarios del Tribunal, los Visitadores Judiciales permanentes y los Secretarios de los Juzgados, no podrán funcionar como árbitros o arbitradores, ni ejercer la abogacía ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o marital. La infracción de este artículo será causa de responsabilidad.
+El Gobernador, los Magistrados Propietarios, los Supernumerarios cuando estén en funciones, el Procurador General de Justicia del Estado, los Jueces de Primera Instancia, los Presidentes Municipales, los Secretarios del Despacho, los Secretarios del Tribunal, los Visitadores Judiciales permanentes y los Secretarios de los Juzgados, no podrán intervenir como árbitros o arbitradores, ni ejercer la abogacía ni la procuración, sino cuando se trate de sus propios intereses o los correspondientes a su cónyuge, concubina o concubinario, parientes por consanguinidad en línea recta sin limitación de grado, colateral consanguíneo hasta el cuarto grado y por afinidad hasta el segundo, así como el civil y cuando exista relación de tutela o curatela. La infracción de este artículo será causa de responsabilidad.
+
+> <small>(REFORMADO, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
 
 Esta prohibición comprende a los funcionarios o empleados que no estén en el ejercicio de sus funciones, por hallarse disfrutando de licencia.
 
@@ -1435,7 +1501,9 @@ I. El Presidente de la última Legislatura o el de la Diputación permanente si 
 
 II. El Vicepresidente de la Legislatura;
 
-III. El último Secretario de Gobierno; y
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+III. El último Secretario General de Gobierno, y
 
 IV. El último Presidente del Tribunal Superior.
 
@@ -1475,11 +1543,11 @@ Las contribuciones serán decretadas en cantidad suficiente para cubrir los gast
 
 Para cubrir un déficit imprevisto en el tesoro, reprimir insurrecciones, o para la defensa, en caso de guerra, podrá hacerse uso del crédito del Estado, pero jamás se delegará esta facultad en un individuo o corporación.
 
-> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 118.
 
-Todos los caudales públicos pertenecientes al Estado, ingresarán a la Tesorería General o a las Oficinas de Hacienda que determine la Ley. El Tesorero hará la distribución de ellos según el Presupuesto y será responsable, personal y pecuniariamente, por los pagos que efectúe sin que estén comprendidos en aquél o autorizados por la Ley.
+Todos los caudales públicos pertenecientes al Estado, ingresarán a la Secretaría de Finanzas y Planeación o a las Oficinas de Hacienda que determine la Ley. El Secretario del Ramo hará la distribución de ellos, según el presupuesto y será responsable, personal y pecuniariamente, por los pagos que efectúe sin que estén comprendidos en aquél o autorizados por la Ley.
 
 ###### Artículo 119.
 
@@ -1605,9 +1673,9 @@ IX. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a éstos e
 
 X. Ocurrir anualmente al acto de apertura de Sesiones Ordinarias de la H. Legislatura;
 
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 1932)</small>
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
-XI. Acordar que concurra el Secretario de Gobierno a las sesiones de la Legislatura, para que dé a ésta los informes que pida o para apoyar, en los debates, las observaciones que haga el Ejecutivo a los proyectos de ley o decretos, o bien las iniciativas que presentare;
+XI. Acordar que concurran los Secretarios del Despacho, a las sesiones de la Legislatura, para que den a ésta, los informes que pida o para apoyar en los debates las observaciones que haga el Ejecutivo a los proyectos de Ley o decretos, o bien a las iniciativas que presentare;
 
 > <small>(REFORMADA, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
 
@@ -1615,13 +1683,13 @@ XII. Pasar al Procurador los asuntos que deban ventilarse dentro de los Tribunal
 
 XIII. Impedir los abusos de la fuerza armada, contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que aquélla incurriere;
 
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 1932)</small>
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
-XIV. Nombrar y remover libremente al Secretario de Gobierno, al Tesorero General y a los empleados de la Secretaría; concederles, sin sueldo, las licencias que soliciten y suspender a los empleados hasta por tres meses, por faltas comprobadas en el desempeño de sus obligaciones y que no den motivo a que se les instruya causa o a que se les destituya;
+XIV. Nombrar y remover libremente a los Secretarios del Despacho y a los empleados de las Secretarías; concederles sin sueldo, las licencias que soliciten y suspender a los empleados hasta por tres meses, por faltas comprobadas en el desempeño de sus obligaciones y que no den motivo a que se les instruya causa o a que se les destituya;
 
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 1932)</small>
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
-XV. Nombrar y remover libremente al Procurador General de Justicia, al Director de Educación, al Director General de Salubridad y a todos los Funcionarios y empleados dependientes del Poder Ejecutivo;
+XV. Nombrar y remover libremente al Procurador General de Justicia y a todos los funcionarios y empleados dependientes del poder ejecutivo;
 
 > <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
 
@@ -1699,7 +1767,9 @@ IX. Decretar la prisión de alguna persona ni privarla de su libertad, sino cuan
 
 X. Ocupar la propiedad de ninguna persona, ni perturbar a nadie en la posesión, uso o aprovechamiento de ella, sino por causa de necesidad pública y en los términos que prevenga la ley; y
 
-XI. Sancionar leyes, o expedir reglamentos u órdenes generales o de pago, sin que vayan autorizadas por el Secretario de Gobierno, salvo las que se refieran a los fondos de la enseñanza, que se autorizarán de acuerdo con las leyes relativas.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+XI. Sancionar leyes o expedir reglamentos u órdenes generales o de pago, sin que vayan autorizadas por el Secretario General de Gobierno, salvo las que se refieren a los fondos de la enseñanza, que se autorizarán de acuerdo con las leyes relativas.
 
 ###### Artículo 89.
 
@@ -1712,6 +1782,8 @@ En caso de licencia del Gobernador del Estado, no quedará impedido el interino 
 ###### Artículo 90.
 
 El cargo de Gobernador del Estado, sólo es renunciable por causa grave que calificará la Legislatura, ante la que se presentará la renuncia.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
 ## TRANSITORIOS.
 
@@ -1924,3 +1996,21 @@ Se derogan las disposiciones que se opongan a esta Ley.
 ###### ARTICULO SEGUNDO.
 
 La presente Ley entrará en vigor al día siguiente a la fecha de su publicación en la 'Gaceta Oficial' órgano del Gobierno del Estado.
+
+G.O. 16 DE DICIEMBRE DE 1986.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor, al día siguiente de su publicación en la "Gaceta Oficial" del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Jueces de Primera Instancia que se encuentren en ejercicio, concluirán su encargo el 6 de abril de 1987, en caso de haber iniciado el desempeño de su función con anterioridad al 6 de abril de 1984, fecha en que entró en vigor la reforma al artículo 99 de esta Constitución. De éstos, los que sean ratificados en sus cargos, adquirirán la inmovilidad.
+
+###### ARTICULO TERCERO.
+
+Los Jueces de Primera Instancia que se encuentren en ejercicio y que hayan sido designados con posterioridad al 6 de abril de 1984, concluirán su encargo el día en que se cumplan tres años de ejercicio, a partir de la fecha de su designación, a cuyo término, si son ratificados, adquirirán la inamovilidad.
+
+###### ARTICULO CUARTO.
+
+La reforma del primer párrafo del artículo 98, entrará en vigor a partir del día 7 de abril de 1987; pero no será aplicable para los casos a que se refiere el Artículo Tercero Transitorio anterior.
