@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-periodico-oficial-del-estado-de-aguascalientes-16069"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-18"
-last_updated: "1999-07-18"
+last_updated: "2003-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL PERIODICO OFICIAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2003.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 18 de julio de 1999.
 
@@ -45,9 +45,11 @@ LEY DEL PERIODICO OFICIAL DEL ESTADO DE AGUASCALIENTES
 
 La presente Ley tiene por objeto reglamentar la publicación del Periódico Oficial del Estado de Aguascalientes, al que se refiere el Artículo 35 de la Constitución Política del Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 2o.
 
-El Periódico Oficial del Estado es el medio de difusión del Gobierno del Estado de Aguascalientes, de carácter permanente e interés público, cuyo objeto es el publicar dentro del territorio del Estado, las leyes, decretos, reglamentos, acuerdos, circulares, órdenes y demás actos expedidos por los Poderes del Estado y los Ayuntamientos, en sus respectivos ámbitos de competencia, así como los actos y resoluciones de los Concesionarios de Servicios Públicos y de los Organismos Públicos Descentralizados que crean situaciones jurídicas que afecten a los particulares, a fin de que éstos sean publicados y observados debidamente.
+El Periódico Oficial del Estado, es el medio de difusión del Gobierno del Estado de Aguascalientes, de carácter permanente e interés público, cuyo objeto es el publicar dentro del territorio del Estado, las leyes, decretos, reglamentos, acuerdos, circulares, órdenes y demás actos expedidos por los Poderes del Estado y los Ayuntamientos, en sus respectivos ámbitos de competencia, así como los actos y resoluciones de Entidades Paraestatales y de los Concesionarios de Servicios Públicos que crean situaciones jurídicas que afecten a los particulares, a fin de que éstos sean publicados y observados debidamente.
 
 ###### ARTICULO 3o.
 
@@ -55,21 +57,27 @@ Serán materia de publicación en el Periódico Oficial del Estado:
 
 I.- Las leyes y decretos expedidos por el Congreso del Estado;
 
-II.- Los reglamentos que emita el Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2003)</small>
 
-III.- Los decretos, acuerdos, circulares y órdenes administrativas de las dependencias del Ejecutivo que creen situaciones jurídicas que afecten a los particulares;
+II.- Los decretos, reglamentos, acuerdos, circulares y órdenes administrativas del Ejecutivo y sus dependencias que creen situaciones jurídicas que afecten a los particulares;
+
+III.- (DEROGADA, P.O. 30 DE JUNIO DE 2003)
 
 IV.- Los acuerdos y convenios celebrados por el Estado de Aguascalientes;
 
-V.- Los actos y resoluciones que la Constitución y las leyes ordenen que se publiquen en el Periódico Oficial del Estado;
+V.- Actos y resoluciones que la Constitución y las leyes ordenen que se publiquen en el Periódico Oficial del Estado;
 
 VI.- Actos y resoluciones de alguno de los Poderes del Estado que creen situaciones jurídicas que afecten a particulares;
 
-VII.- Actos y resoluciones de Concesionarios de Servicios Públicos y Organismos Públicos Descentralizados que creen situaciones jurídicas que afecten a particulares.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2003)</small>
+
+VII.- Actos y resoluciones de Entidades Paraestatales de Concesionarios de Servicios Públicos que creen situaciones jurídicas que afecten a los particulares.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 4o.
 
-Es obligación del titular del Poder Ejecutivo del Estado, a través de la Dependencia que establezca la Ley Orgánica del Poder Ejecutivo, a efecto de estar en posibilidad de hacer cumplir la ley, el dar publicidad por medio del Periódico Oficial del Estado, de todos los ordenamientos y disposiciones señaladas en el artículo anterior.
+Es obligación del titular del Poder Ejecutivo del Estado, a través de la Dependencia que establezca la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, dar publicidad por medio del Periódico Oficial del Estado, de todos los ordenamientos y disposiciones señaladas en los Artículos 3° y 6° de la presente Ley.
 
 ###### ARTICULO 5o.
 
@@ -87,13 +95,17 @@ III.- Los actos y resoluciones de los Ayuntamientos que la Constitución y las l
 
 IV.- Los acuerdos, circulares y órdenes de los Ayuntamientos del Estado, que creen situaciones jurídicas que afecten a los particulares.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 7o.
 
-Todo documento oficial, decreto, resolución o disposición que sea turnada para su publicación en el Periódico Oficial del Estado, deberá contener la certificación por parte del Secretario General de Gobierno del Estado, de las firmas de quien o quienes los emitan. Dicha certificación se hará cuando se refiera a los actos y resoluciones previstos por los Artículos 3o. y 6o. de la presente Ley.
+Tratándose de la publicación de los actos y resoluciones previstas en los Artículos 3° y 6° de la presente Ley, se deberá contar con las firmas de quien o quienes los emitan, las cuales serán certificadas por el Secretario General de Gobierno, de proceder la publicación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 8o.
 
-El responsable directo de las publicaciones será el Secretario General de Gobierno del Estado, quien tendrá las siguientes obligaciones:
+El responsable directo de las publicaciones será el Secretario de Gobierno del Estado, quien nombrará a un Director del Periódico Oficial, mismo que tendrá las siguientes atribuciones y obligaciones:
 
 I.- Vigilar que la publicación del Periódico se realice con apego estricto a lo que establecen la presente Ley y el Reglamento de la misma;
 
@@ -129,9 +141,11 @@ El número de tomo aumentará progresivamente cada año, los ejemplares del Peri
 
 Queda prohibida la práctica de publicar alcances o suplementos a los números del Periódico Oficial.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 11.
 
-El Periódico Oficial del Estado se editará en la ciudad de Aguascalientes, Ags., en los Talleres Gráficos del Estado y será distribuido en todo el Estado y en cada uno de los Municipios coadyuvando éstos en su distribución.
+El Periódico Oficial del Estado se editará en la ciudad de Aguascalientes, Ags., en los Talleres Gráficos del Estado y será distribuido a través del Archivo Administrativo del Poder Ejecutivo en todo el Estado y en cada uno de los Municipios, coadyuvando éstos en su distribución.
 
 La edición y distribución del Periódico Oficial deberá ser en cantidad suficiente que garantice la satisfacción de la demanda en todo el territorio del Estado.
 
@@ -145,17 +159,19 @@ También se proporcionará en forma gratuita, por lo menos un ejemplar del Peri�
 
 ###### ARTICULO 13.
 
-Dentro de la Ley de Ingresos del Estado para el Ejercicio Fiscal correspondiente se determinará: el costo por la suscripción anual; por numero suelto; por números atrasados; así como el costo que tendrá cada palabra tratándose de publicaciones de avisos, edictos, requerimientos, notificaciones y el costo por cualquiera otra publicación. En los avisos cada cifra se tomará como una palabra.
+Dentro de la Ley de Ingresos del Estado para el Ejercicio Fiscal correspondiente se determinará: el costo por la suscripción anual; por número suelto; por números atrasados; así como el costo que tendrá cada palabra tratándose de publicaciones de avisos, edictos, requerimientos, notificaciones y el costo por cualquiera otra publicación. En los avisos cada cifra se tomará como una palabra.
 
 ###### ARTICULO 14.
 
 Se deberá publicar el segundo lunes de cada mes, un índice general del contenido de las publicaciones del mes inmediato anterior, igualmente deberá publicar el segundo lunes del mes de marzo de cada año, un índice por materias de las publicaciones del año inmediato anterior.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 15.
 
-En el supuesto de que alguna publicación contenga errores, se encuentre incompleta, o se pretenda llevar a cabo alguna modificación, deberá de remitirse a la Secretaría General de Gobierno, un oficio en que conste la pretensión anterior y el nuevo documento completo con las modificaciones respectivas, señalando en el oficio claramente los errores, modificaciones o adecuaciones que se pretendan hacer.
+En el supuesto de que algún documento publicado contenga errores, omisiones o se encuentre incompleto, la autoridad emisora realizará la solicitud de modificación por medio de oficio dirigido al Secretario General de Gobierno de manera clara y precisa, en especial debe contener la transcripción de la parte que contenga el error del texto publicado, así como la del texto correcto.
 
-Se deberá publicar en el Periódico Oficial el oficio y un aviso señalando que se deja sin efecto la publicación que se pretende modificar o completar. Así como el número, tomo y fecha en que fue publicada la misma, junto con el texto completo ya modificado, debiendo señalarse en el índice que esta publicación es la correcta, indicando además el número, tomo y fecha de la primera que queda sin efecto. El oficio a que se refiere este artículo deberá guardarse en el archivo correspondiente.
+En este caso, se deberá publicar en el Periódico Oficial el oficio y un aviso que mencione el número, tomo y fecha del Periódico Oficial en que fue publicado el texto que contiene el error, el texto vigente y en contraposición el texto que será válido a partir de su publicación. En los índices mensual y anual se especificarán las erratas de que haya sido objeto el documento publicado, mediante los datos de localización del Periódico Oficial; el oficio a que se refiere este artículo deberá guardarse en el archivo correspondiente.
 
 TRANSITORIOS:
 
@@ -189,7 +205,7 @@ Cecilia Cristina Franco Ruiz Esparza.
 
 DIPUTADO SECRETARIO,
 
-Gonzalo Nieves Mota,
+Gonzalo Nieves Mota.
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -200,3 +216,9 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE JUNIO DE 2003.
+
+UNICO.- La presente reforma entrará en vigor a los diez días siguientes a su publicación en el Periódico Oficial del Estado.
