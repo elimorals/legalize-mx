@@ -4,7 +4,7 @@ identifier: "BCN-ley-sobre-el-sistema-estatal-de-asistencia-social-del-3303"
 country: "mx"
 rank: "ley"
 publication_date: "1986-11-10"
-last_updated: "1986-11-10"
+last_updated: "1998-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 1998.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 10 de noviembre de 1986.
 
@@ -197,9 +197,11 @@ El Gobierno del Estado contará con un Organismo Público Descentralizado, con p
 
 Cuando en esta Ley se haga mención al Organismo, se entenderá hecha al Sistema para el Desarrollo Integral de la Familia de Baja California.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 17.
 
-El Organismo, para el logro de sus objetivos, realizará las siguientes funciones:
+El organismo, para el logro de sus objetivos realizará las siguientes funciones:
 
 I.- Promover y prestar servicios de asistencia social;
 
@@ -213,7 +215,9 @@ V.- Administrar el patrimonio de la beneficencia pública y realizar las funcion
 
 VI.- Fomentar, apoyar y coordinar las actividades que lleven a cabo las Instituciones de Asistencia o Asociaciones Civiles y todo tipo de Entidades Privadas cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras Dependencias;
 
-VII.- Promover, supervisar, vigilar y evaluar las actividades de las Instituciones de Asistencia Privada;
+> <small>(REFORMADOA, P.O. 23 DE ENERO DE 1998)</small>
+
+VII.- Promover, supervisar, vigilar y evaluar la actividad de las Instituciones Privadas de Asistencia Social, y en el caso de que éstas reciban donaciones, autorizarlas para tal efecto en términos de Ley.
 
 VIII.- Reglamentar las actividades de las Instituciones de Asistencia Privada en Materia de Prestación de los Servicios de Asistencia Social, con sujeción a lo dispuesto por la Ley de Salud del Estado y por este ordenamiento;
 
@@ -377,7 +381,13 @@ VII.- Celebrar los convenios, contratos y actos jurídicos que sean indispensabl
 
 VIII.- Actuar en representación del Organismo con facultades generales para actos de administración, para pleitos y cobranzas, así como aquéllos que requieran cláusula especial conforne (sic) a las Leyes; y,
 
-IX.- Las demás que sean necesarias para el ejercicio de las anteriores.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 1998)</small>
+
+IX.- Supervisar, vigilar, evaluar, otorgar y en su caso revocar la autorización de las Instituciones Privadas de Asistencia Social para recibir las donaciones.
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 1998)</small>
+
+X.- Las demás que sean necesarias para el ejercicio de las anteriores.
 
 ###### ARTICULO 32.
 
@@ -546,3 +556,13 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HUGO FELIX GARCIA.
 
 ( Rúbrica )
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 23 DE ENERO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. Quedan sin efecto todas las disposiciones que se oponga a la entrada en vigor de este Decreto.
+
+TERCERO. El ejecutivo del Estado hará la revisión, adecuación y publicación al Reglamento de esta Ley, en un plazo que no excederá de 60 días naturales posteriores a la publicación de este Decreto.
