@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-de-la-ley-que-establece-el-archivo-general-de-18500"
 country: "mx"
 rank: "reglamento"
 publication_date: "1941-09-20"
-last_updated: "1941-12-20"
+last_updated: "1943-06-12"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO DE LA LEY QUE ESTABLECE EL ARCHIVO GENERAL DE NOTARIAS Y DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1943.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, los días 20 y 27 de septiembre, 4, 18 y 25 de octubre, 1 y 8 de noviembre de 1941.
 
@@ -249,13 +249,15 @@ El Director del Archivo General de la Capital y los Jueces de Primera Instancia 
 
 TARIFA:
 
-A.- Por toda inscripción de títulos o bienes cuyo valor no exceda de $ 500.00 cs, incluso el depósito de los instrumentos privados a que se refiere el artículo 2806 del Código Civil $ 2,00 cs.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1943)</small>
 
-B.- Si el valor excede de $ 500.00 cs. hasta $ 5,000.00 cs., por cada millar o fracción que exceda de los $ 500.00 cs. $ 1,00 cs
+A.- Por toda inscripción de títulos o bienes cuyo valor no exceda de $ 500.00 es incluso el depósito de los instrumentos privados a que es refiere el artículo 2086 del Código Civil. $1.00
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1943)</small>
 
-C.- Si el valor excede de $ 5,000.00 se cobrará por lo que exceda por cada millar o fracción $ 0.50 cs.
+B.- Si el valor excede de $ 500 00 es, por cada millar o fracción que sobrepase los $ 500.00...$ 0.50
+
+C.- (DEROGADO, P.O. 12 DE JUNIO DE 1943)
 
 D.- Por la inscripción o registro de títulos de bienes cuyo valor sea indeterminado $ 3.00 cs.
 
@@ -383,7 +385,7 @@ E.- Notas marginales en protocolos o testimonios, por cada una $ 2.00 cs
 
 En cuanto a testimonios de escrituras que puedan perjudicar a tercero, sólo podrá expedirlas mediante compulsorios que insertará en el testimonio o copia de que se trate.
 
-EL REGLAMENTO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+EL DECRETO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
 Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -398,3 +400,7 @@ Sufragio Efectivo. No Reelección.- Carreteras y Escuelas.- Oaxaca de Juárez, a
 P.O. 20 DE DICIEMBRE DE 1941.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 12 DE JUNIO DE 1943.
+
+Único.- El presente Decreto comenzará a surtir sus efectos desde la fecha de su publicación.
