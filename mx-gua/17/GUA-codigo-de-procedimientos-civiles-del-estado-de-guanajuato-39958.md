@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1996-11-19"
+last_updated: "1997-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -5035,10 +5035,18 @@ El presente Decreto entrará en vigor el cuarto día siguiente al de su publicac
 
 La función de actuario se seguirá desempeñando por el secretario o empleado del tribunal que el Juez decida aún cuando no reúna los requisitos del artículo 38-B que se adiciona a la Ley Orgánica del Poder Judicial, en tanto el pleno del Supremo Tribunal de Justicia acuerde los nombramientos de actuarios de conformidad con dicho dispositivo.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO TERCERO.
 
-Será optativa la creación de la oficina central de actuarios y de oficialía de partes común, hasta el 31 de diciembre de 1996; la creación de la oficina y oficialía de referencia, será obligatoria a partir del 1º de enero de 1997.
+Conforme a las previsiones presupuestales para el ejercicio fiscal de 1997, contenidas en el presupuesto general de egresos del gobierno del Estado, el organo competente del poder judicial implementara las acciones necesarias para que al 31 de diciembre de 1997, se de pleno cumplimiento a las disposiciones contenidas en el presente decreto.
 
 ###### ARTICULO CUARTO.
 
 Una vez que se instale el Juzgado mixto de primera instancia de nueva creación, los juzgados civil y penal de primera instancia de San Miguel de Allende le remitirán los expedientes de su competencia por territorio.
+
+P.O. 11 DE FEBRERO DE 1997.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
