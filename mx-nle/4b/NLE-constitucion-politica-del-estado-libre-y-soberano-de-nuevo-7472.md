@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2000-10-13"
+last_updated: "2000-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2000.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -429,13 +429,21 @@ VI.- Ordenar el establecimiento o supresión de Municipalidades, por el voto de 
 
 Por acuerdo de las dos terceras partes de la Legislatura, se podrán suspender Ayuntamientos o declarar que estos han desaparecido, así como suspender o revocar el mandato de alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, respetándose en todos los casos la garantía de audiencia;
 
-VII.- Examinar y aprobar los proyectos y arbitrios para obras de pública utilidad del Estado.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1968)</small>
+VII.- Examinar y aprobar anualmente, a propuesta del Gobernador, la Ley de Ingresos del Estado y los proyectos y arbitrios de pública utilidad.
 
-VIII.- Crear, a instancia del Ejecutivo, empleos, oficinas y plazas que requiera la administración pública del Estado, asignando los sueldos de ellos, y suprimirlos, cuando cese su necesidad.
+Si terminado un año, por cualquier circunstancia no se hubiere aprobado la Ley de Ingresos que deba aplicarse al siguiente ejercicio, mientras no haya aprobación expresa en diverso sentido seguirá vigente la misma del ejercicio que termina.
 
-IX.- Fijar anualmente, a propuesta del Gobernador, los gastos de la Administración Pública del Estado y decretar contribuciones para cubrirlos, determinando la duración de éstas y el modo de recaudarlas.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
+
+VIII.- Aprobar a instancia del Titular del Ejecutivo Estatal, la Ley Orgánica que establezca la estructura fundamental de la organización de la Administración Pública, señalando los ramos que la integran y sus respectivas competencias.
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
+
+IX.- Examinar y aprobar anualmente, a propuesta del Gobernador, el Presupuesto de Egresos del Gobierno del Estado, estableciendo en él, los sueldos aplicables al Gobernador del Estado y a los Secretarios que le reporten, así como las partidas autorizadas para remuneraciones del personal de cada Secretaría.
+
+Si terminado un año, por cualquier circunstancia no se hubiere aprobado la Ley de Egresos que deba aplicarse al siguiente ejercicio, mientras no haya aprobación expresa en diverso sentido seguirá vigente la misma del ejercicio que termina.
 
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -817,13 +825,13 @@ III.- Nombrar y remover libremente a los titulares de las Dependencias que integ
 
 IV.- Auxiliar a los Tribunales del Estado para que la justicia se administre en forma pronta y expedita y para que se ejecuten las sentencias, prestando a aquéllos el apoyo que necesiten para el mejor ejercicio de sus funciones.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE MAYO DE 1965)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
 
-V.- Disponer la inversión de los caudales públicos del Estado en los distintos ramos de su administración, previa ley o decreto del Congreso y contratar créditos para fines de regulación de fluctuaciones presupuestales o para la ejecución de obras públicas; garantizar las obligaciones que contraigan los organismos descentralizados y los Ayuntamientos del Estado, y descontar efectos de comercio que obren en la cartera de la Hacienda Pública. El Ejecutivo dará cuenta anualmente al Congreso del Estado de los términos en que ejerzan las autorizaciones anteriores.
+V.- Ejercer el Presupuesto de Egresos aprobado por el Congreso del Estado; previa Ley o Decreto del Congreso contratar créditos con las limitaciones que establece esta Constitución; garantizar las obligaciones que contraigan las Entidades Paraestatales y los Ayuntamientos del Estado, y descontar efectos de comercio que obren en la cartera de la Hacienda Pública. El Titular del Ejecutivo Estatal dará cuenta anualmente al Congreso del Estado de los términos en que ejerza las atribuciones anteriores.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
 
-VI.- Ejercer la superior inspección de la Hacienda Pública del Estado y de los Municipios, dando cuenta al Congreso Local si la recaudación, custodia, administración e inversión de la misma no se ha efectuado de acuerdo a lo previsto en los presupuestos respectivos.
+VI.- Ejercer la superior inspección de la función ejecutiva.
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1984)</small>
 
@@ -865,9 +873,9 @@ XIX.- Expedir los títulos profesionales con arreglo a las leyes.
 
 XX.- Someter a la aprobación del Congreso del Estado, la propuesta que le presente respecto a los cargos de Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo y Presidente de la Comisión Estatal de Derechos Humanos, de acuerdo con lo dispuesto por los artículos 63 fracción XXII, 98 y 99 de ésta Constitución.
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1968)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
 
-XXI.- Presentar a la Legislatura, durante su primer período de sesiones ordinarias, el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
+XXI.- Presentar a la Legislatura, a más tardar en la primera quincena del mes de diciembre, el presupuesto de egresos del año siguiente, proponiendo los arbitrios para cubrirlo
 
 XXII.- (DEROGADA, P.O. 24 DE MAYO DE 1996)
 
@@ -1527,15 +1535,15 @@ En el caso de que el crecimiento de los centros urbanos forme o tienda a formar 
 
 De la Hacienda Pública del Estado.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
+
 ###### Art. 133.
 
-La Hacienda del Estado se compone de los edificios del mismo, de las aguas que no siendo federales tampoco pertenezcan a particulares, por pasar de una finca a otra; de las herencias y bienes vacantes, de los créditos que tenga a su favor, de sus propias rentas, de las contribuciones que decrete el Legislativo y de los demás ingresos que determinen las leyes fiscales.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+El Patrimonio del Estado se compone de todos los bienes y derechos que éste haya adquirido y adquiera por cualquier título, incluyendo sin limitación: las aguas que no siendo federales tampoco pertenezcan a particulares; las herencias y bienes vacantes, los créditos que tenga a su favor, sus propias rentas, los derechos sobre el patrimonio neto de los organismos descentralizados y empresas de participación estatal, sin perjuicio de los derechos de terceros, las obras públicas hechas con fondos estatales mientras no sean transferidas a otras entidades, las contribuciones que decrete el legislativo y de los demás ingresos que determinen las leyes fiscales o que se generen en su favor por cualquier causa legal.
 
 ###### Art. 134.
 
-Anualmente, en la segunda quincena del mes de Noviembre el Ejecutivo presentará al Congreso un proyecto de presupuesto general, para su discusión y aprobación.
+(DEROGADO, P.O. 16 DE OCTUBRE DE 2000)
 
 > <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
@@ -1545,9 +1553,9 @@ Será Jefe de la Hacienda Pública del Estado, el Secretario de Finanzas y Tesor
 
 No podrá recaudar ninguna cantidad por concepto de impuestos o contribuciones que no estén basados en la ley emanada del Congreso y sancionada por el Ejecutivo.
 
-No se hará ningún egreso sin orden escrita del Gobernador y que esté previamente autorizado por la ley o decreto del Congreso.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
+No se efectuará ningún egreso que no este previamente autorizado por Ley o Decreto del Congreso.
 
 ## TITULO X.
 
@@ -1555,13 +1563,11 @@ Prevenciones Generales.
 
 ###### Art. 136.
 
-El Secretario de Finanzas y Tesorero General del Estado enviará al Ejecutivo, en la segunda quincena de enero de cada año, una memoria circunstanciada del Estado que guarda la Hacienda Pública al final del ejercicio fiscal anterior.
-
-> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
+(DEROGADO, P.O. 16 DE OCTUBRE DE 2000)
 
 ###### Art. 137.
 
-El Secretario de Finanzas y Tesorero General del Estado y todos los empleados de Hacienda que tengan manejo de caudales públicos, otorgarán previamente ante el Ejecutivo, fianza suficiente para garantizar su manejo a juicio del mismo Ejecutivo.
+(DEROGADO, P.O. 16 DE OCTUBRE DE 2000)
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1928)</small>
 
@@ -1573,13 +1579,9 @@ El año fiscal correrá del primero de enero al 31 de diciembre.
 
 Una ley determinará la organización y funcionamiento de todas las Oficinas de Hacienda en el Estado.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1968)</small>
-
-ART. 140.- Ninguna cuenta, ya sea del Estado o de los Municipios dejará de concluirse y glosarse anualmente.
-
 ###### Art. 140.
 
-Ninguna cuenta, ya sea del Estado o de los Municipios, dejará de concluirse y glosarse anualmente, sin que se permita jamás que ningún crédito activo quede pendiente de un año para otro.
+(DEROGADO, P.O. 16 DE OCTUBRE DE 2000)
 
 ## TITULO XI.
 
@@ -2596,3 +2598,7 @@ Artículo Sexto.- Tratándose de funciones y servicios que conforme al presente 
 En el caso del inciso a) del artículo 132 primera parte, dentro del plazo señalado en el párrafo anterior, el Gobierno del Estado podrá solicitar a la Legislatura, conservar en su ámbito de competencia los servicios a que se refiere el citado inciso, cuando la transferencia de Estado a Municipio afecte, en perjuicio de la población, su prestación. La Legislatura Local resolverá lo conducente.
 
 En tanto se realiza la transferencia a que se refiere el primer párrafo, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
+
+P.O. 16 DE OCTUBRE DE 2000.
+
+Artículo Único.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
