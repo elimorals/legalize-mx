@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-de-los-municipios-del-estado-de-26737"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2002-12-27"
+last_updated: "2003-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DEL IMPUESTO PREDIAL DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO
 
-LEY DEL IMPUESTO PREDIAL DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO
+LEY DEL IMPUESTO PREDIAL DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -83,17 +83,37 @@ Ninguna persona física o moral, ni instituciones oficiales o privadas podrán s
 
 En ningún caso el importe anual a pagar por concepto de este Impuesto será menor a la cantidad de un día de salario mínimo general vigente en la zona económica correspondiente.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 8.
 
-Quienes acrediten que son pensionados o jubilados y bajo protesta de decir verdad manifiesten por escrito que no reciben otro ingreso en dinero, pagarán lo establecido en el artículo 7 por concepto del pago de este impuesto, siempre que además demuestren que el inmueble objeto del impuesto es su única propiedad en el Estado, que lo están habitando, que no lo destinan parcialmente a arrendamiento, que perciban menos de tres salarios mínimos vigentes en la zona económica correspondiente y que se encuentren al corriente en sus pagos por concepto de este impuesto. Quienes cumplan con los requisitos anteriores y perciban más de tres salarios mínimos vigentes en la zona económica correspondiente, y el pago se realice en el primer bimestre, pagarán el 50% del total de este impuesto.
+Quienes acrediten que son pensionados o jubilados, pagarán lo establecido en el artículo que antecede por concepto del impuesto predial, siempre y cuando cumplan con los siguientes requisitos:
 
-Las dependencias encargadas de las finanzas públicas municipales darán a conocer mediante publicación en estrados el beneficio de esta disposición.
+a. Manifestar por escrito y bajo protesta de decir verdad, que no reciben otro ingreso en dinero;
+
+b. Demostrar que el inmueble objeto del impuesto es su única propiedad en el Estado mediante la expedición de certificación del Registro Público de la Propiedad, y en el resto de la República bajo protesta de decir verdad.
+
+c. Habitar dicho inmueble y por lo tanto no destinarlo parcialmente a arrendamiento; y
+
+d. Encontrarse al corriente en sus pagos por concepto de este impuesto.
+
+Quienes cumplan con los requisitos anteriores y perciban más de tres salarios mínimos vigentes en la zona económica correspondiente y realicen dicho pago en el primer bimestre el año, pagarán el 50% del total de este impuesto.
+
+Las dependencias encargadas de las finanzas públicas municipales darán a conocer mediante publicación en estrados, el beneficio de esta disposición.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 9.
 
-Quienes acrediten que son miembros del Instituto Nacional de Adultos en Plenitud INAPLEN y bajo protesta de decir verdad manifiesten por escrito que no reciben ingreso en dinero, pagarán lo establecido en el artículo 7 por concepto del pago de este impuesto, siempre que además demuestren que el inmueble objeto del impuesto es su única propiedad en el Estado, que lo están habitando, que no lo destinan parcialmente a arrendamiento y que se encuentren al corriente en sus pagos por concepto de este impuesto. Quienes cumplan con los requisitos anteriores, perciban hasta tres salarios mínimos vigentes en la zona económica correspondiente, y el pago se realice en el primer bimestre, pagaran el 50% del total de este impuesto.
+Quienes no reciban ingreso en dinero y así lo manifiesten bajo protesta de decir verdad, pagarán lo establecido por el artículo 7 por concepto de impuesto predial, siempre que cumplan los requisitos a que se refieren los incisos b) al d) del artículo inmediato anterior y acrediten:
 
-Las Dependencias Encargadas de las Finanzas Públicas Municipales darán a conocer mediante publicación en estrados el beneficio de esta disposición.
+a. Que son afiliados del Instituto Nacional de las Personas Adultas Mayores (INAPAM); o
+
+b. Que cuentan con certificación de discapacidad expedida por las autoridades competentes en materia de salud.
+
+Quienes cumpliendo con los requisitos anteriores, perciban hasta tres salarios mínimos vigentes en la zona económica correspondiente y realicen dicho pago en el primer bimestre, pagarán el 50% del total de este impuesto.
+
+Las dependencias encargadas de las finanzas públicas municipales darán a conocer mediante publicación en estrados el beneficio de esta disposición.
 
 ### CAPÍTULO SEGUNDO. DEL OBJETO Y SUJETO
 
@@ -125,7 +145,7 @@ I. Los Titulares del derecho de propiedad y de propiedad en condominio.
 
 II. Los Titulares del derecho de copropiedad y de copropiedad en condominio, quienes serán considerados como un solo sujeto.
 
-III. Los poseedores y coposedores, en los casos a que se refiere el Artículo 11. En estos casos, los coposedores también serán considerados como un sólo sujeto.
+III. Los poseedores y coposedores (sic), en los casos a que se refiere el Artículo 11. En estos casos, los coposedores (sic) también serán considerados como un sólo sujeto.
 
 IV. El fideicomitente que conserve la posesión o el fiduciario, mientras éste último no transmita la propiedad en ejecución del fideicomiso.
 
@@ -451,17 +471,39 @@ La presente Ley entrará en vigor a partir del día primero de enero del año 20
 
 Se derogan todas aquellas disposiciones que se opongan a la presente, y se abroga la Ley del Impuesto Predial publicada el 31 de diciembre de 1986.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO TERCERO.
 
-En los casos que la actualización de los valores catastrales y la aplicación de la tarifa correspondiente, resulte como consecuencia un incremento mayor al 20% del impuesto causado en el año 2002, únicamente se incrementará un 20% cada año, hasta que el resultado de la aplicación de la tarifa a la base sea menor al 20% del incremento de lo causado en el año anterior.
+En los casos que la actualización de los valores catastrales y la aplicación de la tarifa correspondiente, resulte como consecuencia un incremento mayor al 20% del impuesto causado en el Ejercicio Fiscal inmediato anterior, únicamente se incrementará un 20% cada año, hasta que el resultado de la aplicación de la tarifa a la base sea menor al 20%.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+Se exceptúan de lo anterior, aquellos inmuebles que hayan incrementando su valor por sufrir modificaciones físicas, cambio de uso de suelo o cambio de situación jurídica.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO CUARTO.
 
-Los Ayuntamientos del Estado podrán autorizar reducciones de hasta por un 50 por ciento en el pago del impuesto predial, únicamente en lo que corresponde al ejercicio fiscal del año 2003, sin perjuicio a lo dispuesto por los artículos 7, 8, 9 y 23 de la Ley del Impuesto Predial de los Municipios del Estado de Querétaro.
+Los Ayuntamientos del Estado podrán autorizar reducciones de hasta por un 50 por ciento en el pago del impuesto predial, sin perjuicio a lo dispuesto por los artículos 7, 8, 9, y 23 de la Ley del Impuesto Predial de los Municipios del Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+###### ARTÍCULO QUINTO.
+
+Las personas físicas y morales que tengan en propiedad inmuebles que se ubiquen en los Municipios afectados por la reciente temporada de inundaciones en el Estado, que hayan sido dañados total o parcialmente, pagarán lo establecido en el artículo 7 por concepto del pago del impuesto predial.
+
+Las autoridades fiscales municipales, determinarán las reducciones únicamente en lo que corresponde al ejercicio fiscal del año 2004 y sin perjuicio de lo establecido en los artículos 7, 8, 9 y 23 de la Ley del Impuesto Predial de los Municipios del Estado de Querétaro.
+
+Las dependencias encargadas de las finanzas públicas municipales darán a conocer mediante publicación en estrados el beneficio de esta disposición, previo análisis del censo de familias afectadas, aunado a los datos que por el mismo concepto tenga la Unidad de Protección Civil Municipal o Estatal en su caso.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+###### ARTÍCULO SEXTO.
+
+Tratándose de la primera enajenación, las personas físicas que tengan en propiedad inmuebles regularizados mediante los Programas de Certificación de Derechos Ejidales (PROCEDE) o los de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT) y adeuden hasta cinco ejercicios fiscales, pagarán por cada uno de éstos la tarifa establecida en el artículo 7 de esta Ley, siempre y cuando realicen la totalidad del pago del ejercicio fiscal en curso dentro de los tres primeros meses del año, en los términos del artículo 22 y 23 de este ordenamiento.
+
+Las dependencias encargadas de las finanzas públicas municipales darán a conocer mediante publicación en estrados el beneficio de esta disposición.
 
 ASÍ LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
 
@@ -516,3 +558,19 @@ P.O. 27 DE DICIEMBRE DE 2002
 ###### ARTICULO ÚNICO.
 
 La presente ley entrará en vigor el día 01 de enero de 2003.
+
+P.O. 26 DE DICIEMBRE DE 2003.
+
+LEY QUE REFORMA EL ARTICULO TERCERO TRANSITORIO DE LA LEY.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación, en el periódico oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 26 DE DICIEMBRE DE 2003.
+
+LEY QUE REFORMA LOS ARTICULOS 8, 9 Y CUARTO TRANSITORIO Y SE ADICIONAN EL QUINTO Y SEXTO TRANSITORIOS DE LA LEY.
+
+Artículo Primero.- La presente Ley entrará en vigor el día 1 de enero de 2004.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
