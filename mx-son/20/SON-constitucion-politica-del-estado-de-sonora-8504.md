@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1939-04-29"
+last_updated: "1941-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE ABRIL DE 1939.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE ENERO DE 1941.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -305,9 +305,13 @@ III. Haber residido en el Estado de Sonora, cuando menos un año inmediatamente 
 
 IV. No haber sido Diputado Propietario, o Suplente en ejercicio por un año o más en el período inmediato anterior.
 
-V. No haber desempeñado alguno de los cargos de Gobernador, Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno o Tesorero General del Estado, dentro del año anterior al día de la elección.
+> <small>(REFORMADA, B.O. 15 DE ENERO DE 1941)</small>
 
-VI. No haber sido Juez de Primera Instancia, Administrador de Rentas, Agente Fiscal, Presidente Municipal, Visitador de Hacienda o Inspector Escolar, ni ejercido mando militar alguno en el Distrito Electoral de la elección, dentro del tiempo fijado en la fracción anterior.
+V. No haber desempeñado el cargo de Gobernador del Estado dentro del año anterior al día de la elección.
+
+> <small>(REFORMADA, B.O. 15 DE ENERO DE 1941)</small>
+
+VI. No haber sido Magistrado del Supremo Tribunal de Justicia, Procurador General de Justicia, Secretario de Gobierno, Tesorero General del Estado, Juez de Primera Instancia, Agente Fiscal, Presidente Municipal, Visitador de Hacienda o Inspector Escolar, ni ejercido mando militar alguno en el Distrito Electoral de la Elección, dentro de los noventa días anteriores al de la elección.
 
 VII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso.
 
@@ -373,9 +377,11 @@ En sesiones extraordinarias el Congreso se ocupará del asunto o asuntos que exp
 
 Si al comenzar un período de sesiones ordinarias el Congreso estuviere celebrando extraordinarias, cesarán éstas y continuarán discutiéndose en aquellas los negocios para que fue convocado.
 
+> <small>(REFORMADO, B.O. 15 DE ENERO DE 1941)</small>
+
 ###### Artículo 46.
 
-A la apertura de cada período de sesiones ordinarias asistirán el Gobernador y el Presidente del Supremo Tribunal de Justicia quienes respectivamente presentarán en el acto un informe sobre el estado que guarda la administración pública.
+El diez y seis de septiembre de cada año, fecha de apertura del primer período de sesiones ordinarias de Congreso, asistirán el Gobernador y el Presidente del Supremo Tribunal de Justicia, quienes respectivamente presentarán en el acto, un informe sobre el estado que guarda la Administración Pública.
 
 ###### Artículo 47.
 
@@ -519,9 +525,9 @@ XV. Para computar los votos emitidos en las elecciones de Gobernador y declarar 
 
 XVI. Para conceder licencias y aceptar la renuncia al Gobernador del Estado.
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1937)</small>
+> <small>(REFORMADA, B.O. 15 DE ENERO DE 1941)</small>
 
-XVII. Para constituirse en Colegio Electoral y elegir al ciudadano que deba substituir al Gobernador, en sus faltas temporales o absolutas.
+XVII. Para constituirse en Colegio Electoral y elegir ciudadano que deba substituir al Gobernador en sus faltas absolutas y en sus faltas temporales cuando éstas excedan de un mes.
 
 > <small>(REFORMADA, B.O. 4 DE AGOSTO DE 1928)</small>
 
@@ -699,13 +705,13 @@ El ciudadano que hubiere sido nombrado en definitiva Gobernador Provisional para
 
 El nombrado Gobernador Provisional durante la primera mitad del período, podrá ser electo por el Congreso como Interino para terminar el período, si dentro de la segunda mitad de éste, vuelve a ocurrir nueva falta absoluta.
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1937)</small>
+> <small>(REFORMADO, B.O. 15 DE ENERO DE 1941)</small>
 
 ###### Artículo 74.
 
-Cuando la falta de Gobernador fuere temporal por cualquier causa, el Congreso si estuviere reunido, o en su defecto la Diputación Permanente, designará un Gobernador, Interino, para que funcione mientras dure la falta. Si la falta, de temporal se convierte en absoluta, se procederá como lo dispone el artículo anterior.
+Cuando la falta de Gobernador fuere por más de un mes, por cualquier causa, el Congreso designará un Gobernador Interino para que funcione mientras dure la falta. Si la falta, de temporal se convierte en absoluta, se procederá como lo dispone al artículo anterior.
 
-El nombrado Gobernador Interino en el caso de falta temporal, no quedará inhabilitado para ser electo en el período inmediato siempre que no hubiere funcionado dentro del año anterior al de la elección.
+El nombrado Gobernador Interino en el caso de falta temporal no quedará inhabilitado para ser electo en el período inmediato, siempre que no hubiere funcionado dentro del año anterior al de la elección.
 
 El Gobernador Interino, nombrado en definitiva para terminar el período constitucional, no podrá ser electo para el período siguiente.
 
@@ -723,13 +729,17 @@ El cargo de Gobernador no es renunciable sino por causa grave que calificará el
 
 El Gobernador, al tomar posesión de su encargo, rendirá ante el Congreso o ante la Diputación Permanente en los recesos de aquél, la protesta que previene el Artículo 157 de esta Constitución.
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1937)</small>
+> <small>(REFORMADO, B.O. 15 DE ENERO DE 1941)</small>
 
 ### CAPÍTULO XVIII. DE LAS DONACIONES PARA AUXILIAR A LA POBLACIÓN
 
 ###### Artículo 78.
 
-El Gobernador no podrá ausentarse de la Capital por más de diez días, ni salir del territorio del Estado, sin previo permiso del Congreso o de la Diputación Permanente, cuando aquél no esté reunido.
+El Gobernador podrá ausentarse del territorio del Estado hasta por diez días, dando aviso al Congreso o a la Diputación Permanente, quedando en funciones de Gobernador Interino el Secretario de Gobierno.
+
+Si la ausencia del Gobernador excede de diez días hasta un mes, necesitará permiso del Congreso o de la Diputación Permanente de acuerdo con la fracción I del artículo 66, debiendo una vez concedido éste, asumir las funciones de Gobernador Interino el propio Secretario de Gobierno.
+
+Si la ausencia del Gobernador excede de un mes, el Congreso designará quien lo substituya.
 
 ###### Artículo 79.
 
@@ -749,7 +759,9 @@ VI. Imponer como pena correccional a los particulares que desobedecieren sus ór
 
 VII. Presentar, al principio del primer período de sesiones ordinarias, al Congreso, los Presupuestos de Ingresos y Egresos del año siguiente, y al principio del segundo período de sesiones la cuenta de gastos del año próximo anterior.
 
-VIII. Concurrir a la apertura de cada período de sesiones ordinarias del Congreso y presentar en este acto un informe detallado sobre el estado de la Administración Pública.
+> <small>(REFORMADA, B.O. 15 DE ENERO DE 1941)</small>
+
+VIII. Concurrir el día diez y seis de septiembre de cada año, fecha de apertura del primer período ordinario de sesiones del Congreso y presentar en este acto, un informe detallado sobre el estado de la Administración Pública.
 
 IX. Concurrir a la apertura de las sesiones extraordinarias del Congreso cuando él las haya promovido.
 
@@ -1562,6 +1574,10 @@ B.O. 29 DE ABRIL DE 1939.
 LEY No. 113, QUE MODIFICA DIVERSOS ARTICULOS DE LA CONSTITUCION.
 
 Unico.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 15 DE ENERO DE 1941.
+
+UNICO.- Esta Ley entrará en vigor a partir del día 14 del mes actual, previa su publicación en el Boletín Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
