@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1984-09-05"
+last_updated: "1986-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 1986.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -368,23 +368,19 @@ El Congreso no puede abrir sus Sesiones sin la concurrencia de más de la mitad 
 
 Transcurrido el plazo anterior sin que se hubieren presentado, se llamará al desempeño de la función, a los suplentes respectivos y si tampoco se presentaren dentro de un plazo de diez días, se convocará a elecciones, en los Distrito (sic) de que se trate.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 1986)</small>
 
 ###### Artículo 32.
 
-El Congreso tendrá cada año, dos Períodos de Sesiones Ordinarias, el primero se iniciará el 17 de abril y terminará el 14 de agosto, el segundo empezará el 5 de octubre y concluirá el 31 de diciembre.
+El Congreso tendrá cada año, dos Períodos de Sesiones Ordinarios, el primero se iniciará el 17 de abril y terminará el 30 de agosto, el segundo empezará el 5 de noviembre y concluirá el 31 de enero.
 
-En el primer período de sesiones el Congreso se ocupará invariablemente del examen, discusión y aprobación de la Cuenta Pública del año anterior, tanto del Estado como de los Municipios. Para este efecto, el Estado o los Municipios, presentarán al Congreso dentro de los primeros quince días del mes de marzo de cada año, la cuenta correspondiente al año anterior.
+El Congreso se ocupara invariablemente del examen, discusión y aprobación de la Cuenta Pública del Estado, de los Trimestres comprendidos de enero a marzo: de abril a junio; de julio a septiembre y de octubre a diciembre del año que corresponda. Para este efecto, el Ejecutivo del Estado, presentará al Congreso la Cuenta General de Gastos conforme a lo dispuesto en la Fracción XIX del Artículo 70 de la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+En el Primer Período de Sesiones, el Congreso se ocupará invariablemente del examen, discusión y aprobación en su caso de la Cuenta Pública del año anterior de los Municipios, para este efecto, los Municipios presentarán al Congreso dentro de los primeros quince días de marzo de cada año, la Cuenta correspondiente al año anterior.
 
-En el segundo período se ocupará preferentemente del exámen, discusión y aprobación de las Leyes de Ingresos del Estado y de los Municipios, para cuyos efectos las Iniciativas correspondientes deberán presentarse al Congreso a más tardar el día 30 de Noviembre de cada año.
+En el Segundo Período de Sesiones, se ocupará preferentemente del examen, discusión y aprobación de las Leyes de Ingresos del Estado y de los Municipios, para cuyos efectos las iniciativas correspondientes deberán presentarse al Congreso a más tardar el 15 de noviembre de cada año
 
-El Congreso del Estado podrá citar a los Secretarios de despacho que corresponda, a los Presidentes Municipales, Regidores de Hacienda y Tesoreros en su caso para que informen o expliquen el contenido y alcance de los proyectos de Ley de Ingresos y Presupuestos de Egresos respectivos. Asimismo, cuando pidan ampliación del término de presentación de dichos proyectos expresarán las razones de su solicitud. Cuando se trate de los proyectos de Ley de Ingresos y Presupuesto de Egresos del Estado, la solicitud de ampliación del término de presentación al Congreso la formulará el Jefe del Ejecutivo.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
-
-Los plazos de presentación de las Leyes de Ingresos y cuentas públicas a que se refiere este Artículo, sólo podrán ampliarse a solicitud del Ejecutivo o de los Presidentes Municipales, por causas plenamente justificadas a juicio del Congreso o de la Comisión Permanente, pero será obligación de los Secretarios de Finanzas y de Programación y Presupuesto o de los Regidores de Hacienda de los Municipios, respectivamente, comparecer ante el Congreso para informar las razones que los motiven.
+Los plazos de presentación de las Leyes de Ingresos y Cuentas Públicas a que se refiere este Artículo, sólo podrán ampliarse a solicitud del Ejecutivo o de los Presidentes Municipales, por causas plenamente justificadas a juicio del Congreso o de la Comisión Permanente, pero será obligación del Secretario de Hacienda o de los Regidores de Hacienda de los Municipios respectivamente, comparecer ante el Congreso para informar las razones que los motiven.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
 
@@ -578,9 +574,9 @@ XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo co
 
 XXVII.- Recibir a los Diputados, Gobernador, Magistrados del Tribunal Superior y Contador Mayor de Hacienda, la protesta a que se refiere el Artículo 133 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 30 DE JULIO DE 1986)</small>
 
-XXVIII.- Examinar y calificar en el primer período ordinario de Sesiones, la cuenta pública del año anterior que oportunamente deberá presentarle el Ejecutivo.
+XXVIII.- Examinar y calificar la Cuenta Pública del Trimestre anterior que oportunamente deberá presentarle el Ejecutivo.
 
 Asimismo, examinar y aprobar, en su caso, la cuenta Pública del año anterior que deberán presentar los Municipios en los primeros cinco días del primer período de Sesiones.
 
@@ -1010,9 +1006,9 @@ XVII.- Promulgar y hacer cumplir las leyes o decretos del Congreso del Estado, p
 
 XVIII.- Someter a la aprobación del Congreso los proyectos de Ley de Ingresos y Presupuesto de Egresos para el año fiscal siguiente, así como los proyectos de modificaciones a éste durante el ejercicio fiscal en curso.
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 1986)</small>
 
-XIX.- Rendir al Congreso la cuenta general de gastos del año fiscal anterior.
+XIX.- Rendir al Congreso la Cuenta General de Gastos por trimestre durante los 30 días posteriores al cierre de cada una de las mismas, a excepción del último trimestre de cada año, cuya cuenta se presentará en los primeros diez días del mes de enero.
 
 > <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -1516,7 +1512,7 @@ e).- Panteones;
 
 f).- Rastros;
 
-g).- Calles, Parques y Jardines,
+g).- Calles, Parques y Jardines;
 
 h).- Seguridad Pública y Tránsito; y,
 
@@ -2113,3 +2109,13 @@ Segundo.- Se derogan todas las disposiciones legales o reglamentarias que se opo
 Tercero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Cuarto.- Remítase al Ejecutivo del Estado, para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política del Estado.
+
+P.O. 30 DE JULIO DE 1986.
+
+Primero.- Se reforma el Artículo 32; el Párrafo 1o. de la Fracción XXVIII del Artículo 40; y la Fracción XIX del Artículo 70 de la Constitución Política del Estado, vigente.
+
+Segundo.- Remítase el presente decreto a los H. H. Ayuntamientos Constitucionales del Estado, para efectos del Artículo 147 de la Constitución Política.
+
+Tercero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Cuarto.- Remítase el presente Decreto al Ejecutivo del Estado, para efectos de su promulgación y publicación en el Periódico Oficial del Estado.
