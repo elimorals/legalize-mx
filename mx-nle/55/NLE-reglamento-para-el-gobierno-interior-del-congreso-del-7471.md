@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2003-03-19"
+last_updated: "2003-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -463,25 +463,25 @@ i) Las leyes que establezcan y regulen los temas integrales en materia de tratam
 
 j) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
-IV.- Comisión de Desarrollo Humano:
+IV.- Desarrollo Social y Derechos Humanos:
 
-a) Las iniciativas relativas a la protección, defensa y conservación de los derechos humanos de los individuos y grupos sociales;
+a) Las iniciativas relativas a la protección, defensa y conservación de los derechos humanos;
 
 b) Las iniciativas relativas al fortalecimiento de la familia como núcleo básico de la sociedad;
 
-c) Las iniciativas en materia de la regulación de los derechos del niño;
+c) Las iniciativas relacionadas al apoyo social temporal;
 
-d) La legislación relativa al desarrollo integral de la juventud;
+d) Las iniciativas relacionadas con el mejoramiento de la calidad de vida de los nuevoleoneses;
 
-e) La legislación relativa a la protección, apoyo, reconocimiento, estímulo y desarrollo de las personas de la tercera edad, tendiente a mejorar su calidad de vida;
+e) Las iniciativas relativas al establecimiento de acciones o programas tendientes a combatir la pobreza extrema;
 
-f) La legislación relacionada con la salud pública del Estado;
+f) Las iniciativas encaminadas a establecer programas educativos dirigidos a los habitantes de zonas marginadas y por vías no formales;
 
-g) Las iniciativas relacionadas al apoyo social temporal, encaminado a la dignificación de las personas y grupos sociales económicamente desprotegidos;
+g) Representar al Congreso ante los organismos e instancias de Derechos Humanos estatales, nacionales e internacionales;
 
-h) Lo relativo a los discapacitados y su integración a la sociedad;
+h) Coordinarse con otra u otras comisiones para tratar temas comunes o relacionados con sus atribuciones;
 
 i) Dar cauce y contestación a las peticiones de personas que soliciten la intervención del Poder Legislativo; y
 
@@ -517,31 +517,23 @@ e) Las iniciativas relativas al fortalecimiento de actividades deportivas;
 
 f) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
 VII.- Comisión de Ecología:
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2002)</small>
+a) La legislación relativa a la protección, preservación y renovación del equilibrio ecológico;
 
-a) La legislación relativa a la protección y preservación del equilibrio ecológico y la promoción del desarrollo sustentable;
+b) La legislación relativa al agua potable, saneamiento y tratamiento del agua, así como procesamiento de desechos sólidos;
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+c) La legislación relativa a la protección de los animales;
 
-b) La legislación relativa al agua potable, saneamiento y procesamiento de desechos sólidos;
+d) Lo referente al cumplimiento de la Ley de Ordenamiento Territorial de los Asentamiento (sic) Humanos y de Desarrollo Urbano, en lo concerniente al aspecto ambiental;
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+e) Representar al Congreso ante las autoridades ambientales en los temas materia de esta Comisión;
 
-c) La legislación relativa a la protección de los animales y al aprovechamiento racional de las especies ganaderas y avícolas;
+f) Coordinarse con otra u otras comisiones para tratar temas comunes o relacionados con sus atribuciones; y
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
-
-d) Lo referente al cumplimiento de la Ley de Ordenamiento Territorial de los Asentamiento Humanos y de Desarrollo Urbano, en lo concerniente al aspecto ambiental;
-
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
-
-e) Dar cauce y contestación a las peticiones de personas que soliciten la intervención del Poder Legislativo; y
-
-f) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+g) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
@@ -579,9 +571,75 @@ g) Las iniciativas en materia del desarrollo del servicio público de carrera; y
 
 h) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+X.- Comisión de Desarrollo Sustentable:
+
+a) Las iniciativas sobre la promoción y fomento del desarrollo sustentable de los sectores social y productivo en el Estado;
+
+b) Lo concerniente al derecho a vivir en un medio ambiente adecuado para el desarrollo de la persona, así como del deber de conservarlo;
+
+c) Los asuntos referentes a la sustentabilidad del desarrollo económico, social, cultural, energético, ambiental y científico;
+
+d) Los temas relacionados con los bienes y servicios ambientales para el mantenimiento de los ecosistemas, la diversidad biológica y las cuencas hidrológicas;
+
+e) Los asuntos relacionados con la promoción del desarrollo sustentable, tales como la educación ambiental, ecoeficiencia, salud ocupacional, ecoturismo, transporte alternativo, vivienda ecológica, y todas aquellas que persigan objetivos en este sentido;
+
+f) Dar cauce y contestación a las peticiones ciudadanas, así como hacer del conocimiento de las autoridades competentes los asuntos que le sean turnados;
+
+g) Representar al Congreso ante los organismos gubernamentales, del sector productivo, ambiental y de la sociedad civil;
+
+h) Coordinarse con otra u otras comisiones para tratar temas comunes o relacionados con sus atribuciones; y
+
+i) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+XI.- Comisión de Juventud:
+
+a) Las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los jóvenes del Estado;
+
+b) La legislación encaminada a vigilar el respeto a los derechos de los jóvenes;
+
+c) La legislación relativa a fomentar la generación de empleos para los jóvenes;
+
+d) Las iniciativas que aseguren la participación de los jóvenes en la toma de decisiones;
+
+e) Los asuntos concernientes a promover la participación de la juventud en los ámbitos educativo, cultural y deportivo de la sociedad;
+
+f) Las iniciativas en materia de recreación y aprovechamiento del tiempo libre de los jóvenes;
+
+g) Los asuntos relacionados con el desarrollo personal y profesional de la juventud;
+
+h) Los demás asuntos e iniciativas que el Congreso le encomiende.
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+XII.- Comisión de Atención a Grupos Vulnerables:
+
+a) Lo relativo a fortalecer el marco jurídico para la protección a los derechos de los niños, de las personas con discapacidad y de los adultos mayores y de cualquier grupo vulnerable;
+
+b) La legislación relacionada con la salud pública del Estado;
+
+c) Las iniciativas relativas a la prevención y combate contra la discriminación y marginación por cuestiones de edad, étnicas, económicas, religiosas, políticas, de género o de cualquier índole, así como promover una cultura de atención a los grupos vulnerables;
+
+d) Lo concerniente al establecimiento de Programas que les permitan un mejor acceso a los apoyos que otorgue el Estado y los Municipios;
+
+e) Las iniciativas en materia de protección a los niños abandonados y para evitar el maltrato, explotación y prostitución infantil;
+
+f) Los asuntos referentes a fomentar la integración a la sociedad de los adultos mayores, con el fin de mejorar su calidad de vida;
+
+g) Los asuntos relativos al apoyo y protección de las personas pensionadas y jubiladas;
+
+h) Los asuntos relativos a promover la implementación de mecanismos y programas tendientes a facilitar las condiciones de vida de las personas con discapacidad;
+
+i) Las iniciativas encaminadas a otorgar un empleo digno a los habitantes del Estado; y
+
+j) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
-X.- Comisión de Hacienda del Estado:
+XIII.- Comisión de Hacienda del Estado:
 
 a) Lo concerniente a la expedición de la Ley de Ingresos y del Presupuesto de Egresos del Estado;
 
@@ -599,7 +657,7 @@ g) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
-XI.- Comisión Primera de Hacienda y Desarrollo Municipal:
+XIV.- Comisión Primera de Hacienda y Desarrollo Municipal:
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2001)</small>
 
@@ -609,7 +667,7 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
-XII.- Comisión Segunda de Hacienda y Desarrollo Municipal:
+XV.- Comisión Segunda de Hacienda y Desarrollo Municipal:
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2001)</small>
 
@@ -619,7 +677,7 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
-XIII.- Comisión Tercera de Hacienda y Desarrollo Municipal:
+XVI.- Comisión Tercera de Hacienda y Desarrollo Municipal:
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2001)</small>
 
@@ -629,7 +687,7 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2001)</small>
 
-XIV.- Comisión Cuarta de Hacienda y Desarrollo Municipal:
+XVII.- Comisión Cuarta de Hacienda y Desarrollo Municipal:
 
 a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de Agualeguas, Cerralvo, China, Doctor Coss, Doctor González, General Bravo, General Treviño, Juárez, Los Aldamas, Los Herreras, Los Ramones, Marín, Melchor Ocampo, Parás, y Pesquería, Nuevo León.
 
@@ -637,7 +695,7 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2001)</small>
 
-XV.- Comisión Quinta de Hacienda y Desarrollo Municipal:
+XVIII.- Comisión Quinta de Hacienda y Desarrollo Municipal:
 
 a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de Abasolo, El Carmen, Ciénega de Flores, García, General Zuazua, Hidalgo, Higueras, Mina, Salinas Victoria, San Pedro Garza García y Santa Catarina, Nuevo León.
 
@@ -1571,7 +1629,7 @@ Si algún Diputado, Magistrado u otro Funcionario que deba protestar ante el Con
 
 ###### Artículo 153.
 
-Los Diputados. harán uso de la palabra siempre de pié y preferentemente en la Tribuna, guardando durante las sesiones la compostura y seriedad inherente a su cargo.
+Los Diputados harán uso de la palabra siempre de pié y preferentemente en la Tribuna, guardando durante las sesiones la compostura y seriedad inherente a su cargo.
 
 Podrán desde su lugar hacer intervenciones breves como secundar una propuesta o alguna moción.
 
@@ -1780,3 +1838,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 19 DE MARZO DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE OCTUBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
