@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "1993-10-13"
+last_updated: "1997-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1997.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 13 de octubre de 1993.
 
@@ -8713,15 +8713,21 @@ V.- En lo general y salvo prueba en contrario, se presume que el bien se pierde 
 
 VI.- Si la cosa se pierde por caso fortuito o fuerza mayor, el dueño sufrirá la pérdida, a menos que exista estipulación en contrario, tratándose de enajenaciones puras y simples. Si fueren con reserva de dominio o bajo condición suspensiva, el adquirente sufrirá el riesgo, si se encuentra en posesión de la cosa.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 1433.
 
-NOCION Y EFECTOS DEL CASO FORTUITO Y FUERZA MAYOR. Nadie está obligado al caso fortuito ni a la fuerza mayor, sino cuando ha dado causa o contribuido a ellos, cuando ha aceptado expresamente esa responsabilidad, o cuando la Ley se la impone.
+NOCION Y EFECTOS DEL CASO FORTUITO ORDINARIO, EXTRAORDINARIO Y FUERZA MAYOR. Nadie está obligado al caso fortuito ni a la fuerza mayor, sino cuando ha dado causa o contribuido a ellos, cuando ha aceptado expresamente esa responsabilidad, o cuando la Ley se la impone.
 
-Se entiende por caso fortuito todo acontecimiento natural, previsible o imprevisible, pero inevitable, por virtud del cual se pierda el bien o se imposibilite el cumplimiento de la obligación.
+Se entiende por caso fortuito ordinario todo acontecimiento natural, previsible o imprevisible, pero inevitable, por virtud del cual se pierda el bien o se imposibilite el cumplimiento de la obligación.
+
+Son casos fortuitos extraordinarios el incendio, guerra, peste, inundación insólita, langosta o plagas similares, terremoto, alteraciones imprevisibles que sobrevienen por hechos y circunstancias que alteran la situación económica del País o del Estado, u otro acontecimiento igualmente desacostumbrado y que los contratantes no hayan podido razonablemente prever.
 
 Se entiende por fuerza mayor todo hecho previsible o imprevisible, pero inevitable, proveniente de uno o más terceros determinados o indeterminados por virtud del cual se pierda el bien o se imposibilite el cumplimiento de la obligación.
 
-Si los acontecimientos fortuitos o de fuerza mayor no imposibilitan totalmente el cumplimiento de la obligación contraída o no constituye obstáculo insuperable para un deudor cuidadoso y de buena fe, al que no sea imputable, dolo o culpa, simplemente se retardará el cumplimiento de la obligación y ésta será disminuida hasta el límite en que se surja el obstáculo insuperable, aún cuando el cumplimiento retardado o parcial de la obligación resulte más oneroso para el deudor.
+Si los acontecimientos fortuitos ordinarios o de fuerza mayor no imposibilitan totalmente el cumplimiento de la obligación contraída o no constituye obstáculo insuperable para un deudor cuidadoso y de buena fe, al que no sea imputable, dolo o culpa, simplemente se retardará el cumplimiento de la obligación y ésta será disminuida hasta el límite en que se surja el obstáculo insuperable, aún cuando el cumplimiento retardado o parcial de la obligación resulte más oneroso para el deudor.
+
+En los casos fortuitos extraordinarios, se estará a lo dispuesto en los artículos 1718 A y 1719 B de este Código.
 
 ###### ARTICULO 1434.
 
@@ -10225,6 +10231,16 @@ EL INCUMPLIMIENTO DE CONTRATO CAUSA RESPONSABILIDAD CIVIL. Es causa de responsab
 
 DAÑOS Y PERJUICIOS POR INCUMPLIMIENTO CONTRACTUAL. El contratante que falte al cumplimiento del contrato, sea en la substancia, sea en el modo, será responsable de los daños y perjuicios que cause al otro contratante, a no ser que la falta provenga de hecho de éste, fuerza mayor o caso fortuito, a los que aquél de ninguna manera haya contribuido.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1997)</small>
+
+ARTICULO 1719 A.- APLICACION DE LOS CONTRATOS EN EL MOMENTO DE SU CELEBRACION. En los contratos bilaterales onerosos con prestaciones periódicas o continuas, el consentimiento se extiende otorgado en las condiciones y circunstancias existentes en el momento de su celebración.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1997)</small>
+
+ARTICULO 1719 B.- DE LA IMPREVISION EN LOS CONTRATOS.- Cuando en cualquier momento de la ejecución de los contratos a que se refiere el artículo anterior, varíen las condiciones generales del medio en que debería ejecutarse ésta, por acontecimientos fortuitos extraordinarios, que no pudieron razonablemente preverse por la parte obligada al momento de su celebración, y que de llevarse a cabo en los términos de la convención, resultaría una prestación excesivamente onerosa y carente de equidad a su cargo y que no corresponde a la causa del contrato celebrado, puede demandarse la revisión del contrato con el objeto de realizar una reducción equitativa y justa, sin modificar la naturaleza y los elementos substanciales del contrato.
+
+Una vez que cesen las causas que dieron origen al ejercicio de la pretensión que concede este artículo, a iniciativa de parte, podrán revisarse nuevamente las condiciones del contrato o demandarlo ante la autoridad judicial.
+
 ###### ARTICULO 1720.
 
 SANEAMIENTO EN LOS CONTRATOS CONMUTATIVOS SOBRE VICIOS OCULTOS. En los contratos conmutativos, el enajenante está obligado al saneamiento por los defectos ocultos de la cosa enajenada que la hagan impropia para los usos a que se le destine, o que disminuyan de tal modo este uso, que de haberlo conocido el adquirente no hubiere hecho la adquisición o habría dado menos precio por la cosa.
@@ -11349,11 +11365,13 @@ OBLIGACIONES DEL PROPIETARIO DE UN PREDIO RUSTICO. El propietario de un predio r
 
 TIEMPO DE PAGO. La renta debe pagarse en los plazos convenidos, y a falta de convenio, por semestres vencidos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 1922.
 
-NO REBAJA PROPORCIONAL DE LA RENTA. El arrendatario no tendrá derecho a la rebaja de la renta por esterilidad de la tierra arrendada o por pérdida de frutos proveniente de casos fortuitos ordinarios, pero sí en caso de pérdida de más de la mitad de los frutos, por casos extraordinarios.
+NO REBAJA PROPORCIONAL DE LA RENTA. El arrendatario no tendrá derecho a la rebaja de la renta por esterilidad de la tierra arrendada o por pérdida de frutos provenientes de casos fortuitos ordinarios, pero sí en caso de pérdida de más de la mitad de los frutos, por casos fortuitos extraordinarios.
 
-Entiéndese por casos fortuitos extraordinarios el incendio, guerra, peste, inundación insólita, langosta, o plagas similares, terremoto u otro acontecimiento igualmente desacostumbrado y que los contratantes no hayan podido razonablemente prever.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 17 DE SEPTIEMBRE DE 1997)</small>
 
 En esos casos el precio del arrendamiento se rebajará proporcionalmente al monto de las pérdidas sufridas.
 
@@ -15150,3 +15168,19 @@ EL SECRETARIO GENERAL DE GOBIERNO
 ALFREDO DE LA TORRE Y MARTINEZ
 
 Rúbricas
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 17 DE SEPTIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "Tierra y Libertad" órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las presentes reformas y adiciones, no se aplicarán a los contratos celebrados con anterioridad a la vigencia de este decreto.
+
+###### ARTICULO TERCERO.
+
+Remítase al Titular del Poder Ejecutivo del Estado, para los efectos a que se refiere el artículo 47 de la Constitución Política del Estado.
