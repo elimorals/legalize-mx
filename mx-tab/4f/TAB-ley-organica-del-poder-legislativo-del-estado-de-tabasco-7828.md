@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-7828"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-01-02"
-last_updated: "1997-02-15"
+last_updated: "1997-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 2 de enero de 1993.
 
@@ -83,15 +83,17 @@ El Congreso del Estado elaborará, aprobará y ejercerá su presupuesto anual de
 
 El Congreso del Estado tendrá las facultades y atribuciones que le señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, esta Ley y disposiciones legales que de ellas emanen.
 
-### CAPITULO II. COLEGIO ELECTORAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+### CAPITULO II. DE LA COMISION INSTALADORA
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 10.
 
-El Congreso antes de clausurar el último Período de Sesiones de cada Legislatura nombrará de entre sus miembros, una Comisión Instaladora de la Legislatura que deba sucederla, los miembros de esta Comisión serán 4 y fungirán el primero como Presidente, el segundo como Vicepresidente, el Tercero y Cuarto como Secretarios.
+El Congreso, en la última sesión del mes de noviembre del Tercer Año de su Ejercicio Constitucional, nombrará de entre sus miembros una Comisión Instaladora de la Legislatura que deba sucederla, los miembros de esta Comisión serán 4 y fungirán el primero como Presidente, el segundo como Vicepresidente, el tercero y cuarto como Secretarios.
 
-El Congreso comunicará al INSTITUTO ESTATAL ELECTORAL y al TRIBUNAL ESTATAL ELECTORAL, la designación de la Comisión a que se refiere este Artículo, la designación de la Comisión a que se refiere este Artículo (sic).
+El Congreso comunicará al INSTITUTO ELECTORAL DE TABASCO y al TRIBUNAL ELECTORAL DE TABASCO, la designación de la Comisión a la que se refiere este Artículo.
 
 ###### ARTICULO 11.
 
@@ -109,11 +111,11 @@ El Congreso comunicará al INSTITUTO ESTATAL ELECTORAL y al TRIBUNAL ESTATAL ELE
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 1994)
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 15.
 
-La Legislatura en Ejercicio se erigirá en Colegio Electoral para ejercer las siguientes atriguciones (sic).
+La Legislatura en Ejercicio, expedirá el Bando solemne para dar a conocer la declaración de Gobernador electo.
 
 1.- Calificar las Elecciones de Gobernador del Estado; haciendo la declaratoria correspondiente;
 
@@ -411,7 +413,9 @@ X. Las demás contenidas en esta Ley, en su Reglamento y las que le asigne la pr
 
 La Gran Comisión se integrará con:
 
-I. Un Presidente, que será el Coordinador del Grupo Parlamentario Mayoritario;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+I. Un Presidente, que será el Coordinador de la Fracción Parlamentaria que ostente la mayoría;
 
 II. Un Secretario y dos Vocales; y
 
@@ -469,7 +473,9 @@ I. Petición, Gestoría y Quejas;
 
 II. Gobernación y Puntos Constitucionales;
 
-III. Calificadora de Asuntos Electorales;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+III. Asuntos Electorales;
 
 IV. Justicia y Gran Jurado;
 
@@ -523,9 +529,9 @@ XXIV. Fortalecimiento Municipal;
 
 XXV. Participación Ciudadana;
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-XXVII (SIC). Atención a Discapacitados;
+XXVII (SIC). Atención a la Población con Discapacidad;
 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
@@ -883,29 +889,69 @@ Con relación a este capítulo en lo no previsto en esta Ley y su Reglamento, la
 
 ### CAPITULO XVIII. DE LA ORGANIZACION ADMINISTRATIVA DEL CONGRESO
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 132.
 
-En su funcionamiento el Congreso del Estado se auxiliará de los siguientes órganos administrativos:
+Para su funcionamiento, el Congreso del Estado contará con las dependencias siguientes:
 
-a). Oficialía Mayor;
+I. Oficialía Mayor;
 
-b). Contaduría Mayor de Hacienda;
+II. Contaduría Mayor de Hacienda; e
 
-c). Dirección de Información Social y Relaciones Públicas;
+III. Instituto de Investigaciones Legislativas.
 
-d). Dirección de Asuntos Jurídicos;
-
-e). Dirección de Estudios Legislativos;
-
-f). Dirección de Programación y Gestoría
-
-g). Dirección de Finanzas; y
-
-h). Dirección de Administración.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 133.
 
-Para su integración, funcionamiento y competencia, estas Dependencias se regirán por lo dispuesto en el Reglamento para el Gobierno Interior del Congreso y con apego al Presupuesto General de Egresos del Poder Legislativo.
+Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, la Oficialía Mayor contará con las siguientes unidades administrativas:
+
+I. Dirección de Asuntos Jurídicos;
+
+II. Dirección de Petición, Gestoría y Quejas;
+
+II (SIC). Dirección de Administración;
+
+IV. Dirección de Finanzas;
+
+V. Dirección de Comunicación Social y Relaciones Públicas; y
+
+VI. Coordinación de Biblioteca y Videoteca Legislativa.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 134.
+
+La Contaduría Mayor, contará con las siguientes unidades administrativas:
+
+I. Subcontaduría Mayor de Hacienda;
+
+II. Dirección de Auditoría y Evaluación;
+
+III. Dirección de Auditoría y Supervisión de Obras Públicas;
+
+IV. Dirección de Control de Nombramientos y Bienes Patrimoniales; y
+
+V. Dirección de Desarrollo Técnico y Sistematización.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 135.
+
+El Instituto de Investigaciones Legislativas contará con las siguientes unidades:
+
+I. Dirección General;
+
+II. Consejo Académico; y
+
+III. Dirección de Investigación y Estudios Legislativos.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 136.
+
+Para su integración, funcionamiento y competencia, estas dependencias se regirán por lo dispuesto en el Reglamento Interior del Congreso y con apego al Presupuesto General de Egresos del Poder Legislativo.
 
 T R A N S I T O R I O S
 
@@ -972,6 +1018,12 @@ P.O. 19 DE OCTUBRE DE 1996.
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
 
 P.O. 15 DE FEBRERO DE 1997.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 27 DE DICIEMBRE DE 1997.
 
 ###### ARTÍCULO ÚNICO.
 
