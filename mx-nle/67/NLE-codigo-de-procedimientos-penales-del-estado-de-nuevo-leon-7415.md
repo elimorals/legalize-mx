@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "1997-07-25"
+last_updated: "1998-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -1017,13 +1017,13 @@ Tratándose de los delitos culposos con motivo del tránsito de vehículos, en d
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 1994)
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 139.
 
-Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, recurrirá al órgano jurisdiccional, fundando y motivando su petición, para que éste resuelva de plano el arraigo con vigilancia de la autoridad, que ejercerán el Ministerio Público y sus auxiliares. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de 30 días, prorrogables por igual término a petición del Ministerio Público. El Juez resolverá, escuchando al Ministerio Público y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
+Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado o testigos, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquéllos, acudirá al órgano jurisdiccional, fundando y motivando su petición, para que éste resuelva de plano el arraigo con vigilancia de la autoridad, que ejercerán el Ministerio Público y sus auxiliares. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de treinta días, prorrogables por igual término a petición del Ministerio Público. En caso de prorroga, el Juez resolverá escuchando al Ministerio Público y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
 
-Se entiende por arraigo la medida decretada por la autoridad judicial consistente en obligar a un indiciado o testigo a permanecer por determinado tiempo en su domicilio, en un municipio determinado o en el territorio del Estado, a disposición de la autoridad ordenadora.
+Para la aplicación de este Artículo se observará en lo procedente lo dispuesto por el Artículo 181 Bis del Código Penal del Estado.
 
 ###### ARTICULO 140.
 
@@ -2063,15 +2063,13 @@ Siempre que se tome declaración a un menor de edad, a un pariente del inculpado
 
 Si de la instrucción aparecieren presunciones bastantes, para sospechar que algún testigo se ha producido con falsedad o se ha contradicho manifiestamente en sus declaraciones, será inmediatamente puesto a disposición del Ministerio Público; se mandarán compulsar las piezas conducentes para la averiguación del delito, y se formarán separadamente el proceso correspondiente, sin que por esto se suspenda la causa que se esté siguiendo.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 295.
 
-Cuando hubiere de ausentare alguna persona que puede declarar acerca del delito, de sus circunstancias, o de la persona del inculpado, el Tribunal, a solicitud del reo, su defensor o la parte ofendida, podrá arraigar al testigo por el tiempo que fuere estrictamente indispensable para que rinda su declaración, sin que en ningún caso exceda de treinta días. Igualmente, el Ministerio Público tanto durante la averiguación previa como durante la instrucción, podrá solicitar al Juez el arraigo de testigo en el caso previsto en la primera parte.
+Cuando hubiere la posibilidad o el riesgo de que se ausentare alguna persona que puede declarar acerca del delito, de sus circunstancias, o de la persona del inculpado, el Tribunal, a solicitud del reo, su defensor o la parte ofendida, podrá arraigar al testigo por el tiempo que fuere estrictamente indispensable para que rinda su declaración, sin que exceda de treinta días. Igualmente, el Ministerio Público tanto durante la averiguación previa como durante la instrucción, podrá solicitar al Juez el arraigo de testigos en el caso previsto en la primera parte.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1997)</small>
-
-Si del procedimiento resultare que el testigo fue arraigado indebidamente, tendrá derecho de exigir que se le indemnice por el o los particulares solicitantes, o por el Estado cuando el solicitante sea el Ministerio Público, por los daños y perjuicios causados por el arraigo.
+Para la aplicación de lo ordenado en este artículo se deberá observar en lo conducente lo dispuesto por el numeral 139 de este Código y el Artículo 181 Bis del Código Penal del Estado.
 
 ###### ARTICULO 296.
 
@@ -3778,3 +3776,7 @@ P.O. 25 DE JULIO DE 1997
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
