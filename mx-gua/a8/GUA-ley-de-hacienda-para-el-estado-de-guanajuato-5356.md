@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-5356"
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1998-12-22"
+last_updated: "1998-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1998.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -207,7 +207,7 @@ Las infracciones a las disposiciones de este capítulo se sancionarán en los t�
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
-###### ARTICULO 12-M.
+###### Artículo 12-M.
 
 La administración del 95% de los ingresos que se obtenga de este impuesto, corresponderá a la entidad pública que determine el Ejecutivo del Estado, sectorizada a la Secretaría de Desarrollo Económico; su órgano de gobierno se integrará con representantes del Gobierno del Estado y del sector turístico.
 
@@ -225,7 +225,7 @@ En la cuenta pública estatal, se deberá reflejar la aplicación que se haga de
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
-###### ARTICULO 12-N.
+###### Artículo 12-N.
 
 El 95% de los ingresos obtenidos de la recaudación de este impuesto, se destinarán a la constitución de un fondo de promoción y difusión para el turismo del Estado, que será administrado en los términos del artículo anterior; y el 5% a la Secretaría de Planeación y Finanzas para gastos de administración integral del impuesto.
 
@@ -323,9 +323,11 @@ El organismo administrador a que se refiere este capítulo, deberá fijar en lug
 
 Igualmente el organismo administrador a que se refiere este artículo, podrá celebrar convenios y promociones para reducción de las tarifas vigentes para el pago de los derechos correspondientes, por el uso de las carreteras y puentes estatales de cuota en operación.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 22.
 
-No se pagarán los derechos de carreteras y puentes estatales, por los vehículos militares, policiales, de bomberos, ambulancias y auxilio turístico, siempre que por sus características y emblemas se identifiquen como vehículos para tales efectos. Asimismo no cubrirán estos derechos los vehículos de los Senadores, Diputados Federales y Diputados Locales del Estado de Guanajuato.
+No se pagarán los derechos de carreteras y puentes estatales, por los vehículos militares, policiales, de bomberos, ambulancias y auxilio turístico, siempre que por sus características y emblemas se identifiquen como vehículos para tales efectos.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -628,3 +630,7 @@ P.O. 22 DE DICIEMBRE DE 1998.
 Artículo Primero.- El presente decreto entrará en vigor el primero de enero de mil novecientos noventa y nueve.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 25 DE DICIEMBRE DE 1998.
+
+Artículo Unico.- El presente decreto entrará en vigor el día primero de marzo de 1999, una vez que haya sido publicado en el Periódico Oficial del Gobierno.
