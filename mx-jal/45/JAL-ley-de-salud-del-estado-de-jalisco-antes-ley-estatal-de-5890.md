@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2003-12-30"
+last_updated: "2004-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -66,6 +66,10 @@ V. El acceso a los servicios de salud que satisfagan eficaz y oportunamente, las
 VI. El conocimiento de los servicios de salud para su adecuado aprovechamiento y uso; y
 
 VII. El desarrollo de la enseñanza, la investigación científica y tecnológica para la salud.
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+XXVIII. Promover los principios de equidad y no discriminación.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -3546,3 +3550,7 @@ UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en e
 P.O. 30 DE DICIEMBRE DE 2003.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE JUNIO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
