@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "1979-12-31"
+last_updated: "1980-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 1980.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -536,7 +536,9 @@ a) Por conocimientos: La posesión de los principios teóricos y prácticos que 
 
 b) Por aptitud: La suma de facultades físicas y mentales, la iniciativa, laboriosidad y la eficiencia para llevar a cabo una actividad determinada.
 
-c) Por antigüedad: El tiempo de servicios prestados a la dependencia correspondiente.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
+
+c) Por antigüedad: El tiempo de servicios prestados a la dependencia correspondiente, o a otra distinta cuyas relaciones laborales se rijan por la presente Ley, siempre que el trabajador haya sido sujeto de un proceso de reasignación con motivo de la reorganización de servicios, o de los efectos de la desconcentración administrativa aun cuando la reasignación tuviere lugar por voluntad del trabajador.
 
 "En el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, las plazas de Directores y Subdirectores de Clínicas, Jefes de División Quirúrgica y de División Médica; Jefes de Servicios de Especialidad Médica y Quirúrgica y Jefes de Laboratorio Médico, serán ocupadas por oposición entre los trabajadores de la misma Institución. Para calificar la oposición, la Comisión de Escalafón se asesorará de las Academias Nacionales de Medicina y de Cirugía, según el caso, las que rendirán el dictamen correspondiente, mismo que servirá de base para la designación. En el caso de que las Academias mencionadas declaren desierto el concurso para ocupar las plazas de Jefes de División de Medicina y Cirugía y Jefes de Especialidad Médica y Quirúrgica, podrá convocarse a oposición abierta entre todos los especialistas de la rama en la República".
 
@@ -592,9 +594,13 @@ En los concursos se procederá por las comisiones a verificar las pruebas a que 
 
 La vacante se otorgará al trabajador que habiendo sido aprobado de acuerdo con el reglamento respectivo obtenga la mejor calificación.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
+
 ###### ARTICULO 62.
 
-Las plazas de última categoría disponibles en cada grupo, una vez corridos los escalafones respectivos con motivo de las vacantes que ocurrieren, serán cubiertas libremente por el titular
+Las plazas de última categoría de nueva creación o las disponibles en cada grupo, una vez corridos los escalafones respectivos con motivo de las vacantes que ocurrieren; y previo estudio realizado por el Titular de la Dependencia, tomando en cuenta la opinión del Sindicato, que justifique su ocupación, serán cubiertas en un 50% libremente por los Titulares y el restante 50% por los candidatos que proponga el Sindicato.
+
+Los aspirantes para ocupar las plazas vacantes deberán reunir los requisitos que para esos puestos, señale cada una de las Dependencias.
 
 ###### ARTICULO 63.
 
@@ -1341,3 +1347,15 @@ D.O.F. 31 DE DICIEMBRE DE 1979.
 PRIMERO.- Este Decreto entrará en vigor el 1o. de enero de 1980.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 15 DE ENERO DE 1980.
+
+DECRETO DE REFORMAS A LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTICULO 123 CONSTITUCIONAL.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 15 DE ENERO DE 1980.
+
+DECRETO DE REFORMAS AL ARTICULO 62 DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTICULO 123 CONSTITUCIONAL.
+
+UNICO.- Este Decreto entrará en vigor el 1o. de enero de 1980.
