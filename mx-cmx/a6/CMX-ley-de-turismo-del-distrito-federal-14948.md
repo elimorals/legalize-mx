@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-turismo-del-distrito-federal-14948"
 country: "mx"
 rank: "ley"
 publication_date: "1998-05-22"
-last_updated: "1998-05-22"
+last_updated: "1999-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14948&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-05-20"
 
 LEY DE TURISMO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE NOVIEMBRE DE 1999.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 22 de mayo de 1998.
 
@@ -104,7 +104,9 @@ Podrán ser invitados los representantes de los sectores académico y demás ent
 
 Serán considerados como servicios turísticos los prestados a través de los establecimientos siguientes:
 
-I.- Hoteles, moteles, albergues y demás establecimientos de hospedaje y operación hotelera, así como campamentos y paradores de casas rodantes que presten servicios a turistas;
+> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 1999)</small>
+
+I.- Hoteles, moteles, albergues, hostales y demás establecimientos de hospedaje y operación hotelera, así como campamentos y paradores de casas rodantes que presten servicios a turistas;
 
 II.- Las negociaciones que de manera principal o complementaria ofrezcan servicios turísticos receptivos o emisores, tales como agencias, subagencias y operadores de viajes y de turismo;
 
@@ -294,6 +296,12 @@ De la misma forma gestionará ante las autoridades correspondientes el otorgamie
 
 La Secretaría promoverá ante los sectores público, social y privados la creación de empresas dedicadas a la actividad turística, identificando las posibilidades de inversión con factibilidad económica, y financiera para propiciar la creación de nuevos centros de desarrollo, buscando un balance con las necesidades especificas de la zona y la protección y conservación de los recursos naturales y culturales.
 
+> <small>(ADICIONADO, G.O. 18 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 28
+
+BIS La Secretaría promoverá ante la Secretaría de Finanzas el otorgamiento de estímulos y facilidades para los ciudadanos que deseen ofrecer los servicios de hospedaje en la modalidad de hostal, así como los demás servicios turísticos a que se refiere el Artículo 6º de la Ley.
+
 ###### ARTICULO 29.
 
 La Secretaría, escuchando a los organismos del sector, someterá a la consideración de la Secretaría de Desarrollo Urbano y Vivienda los criterios generales para la elaboración de los estudios pertinentes sobre proyectos de inversión turística en el Distrito Federal.
@@ -379,6 +387,14 @@ I.- Reembolsar, bonificar o compensar la suma correspondiente al servicio incump
 II.- Proporcionar a la Secretaría, toda la información y facilitar la documentación que se requiera de las personas dedicadas al servicio de turismo, para efectos de verificación, siempre y cuando se refiera a documentación e información relacionada única y exclusivamente con la prestación del servicio turístico correspondiente, siguiendo en todo caso, las formalidades establecidas por la Ley de Procedimiento Administrativo del Distrito Federal, y
 
 III.- Observar estrictamente las disposiciones esta ley y del Reglamento que de la misma derive, así como la Ley Federal y su Reglamento y vigilar que sus dependencias y servidores públicos cumplan con los citados ordenamientos legales.
+
+> <small>(ADICIONADO, G.O. 18 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 43
+
+BIS Los hostales se sujetarán a lo establecido en el Código Civil para el Distrito Federal en materia del Fuero Común y para toda la república en materia de Fuero Federal, en lo relativo al Contrato de Hospedaje.
+
+La Secretaría establecerá la clasificación y categorización de los establecimientos a que se refiere el Artículo 6º de la Ley.
 
 ###### ARTICULO 44.
 
@@ -473,3 +489,11 @@ Dentro del término de sesenta días, a partir de la fecha que entre en vigor la
 RECINTO LEGISLATIVO DEL DISTRITO FEDERAL, A VEINTISEIS DE MARZO DE MIL NOVECIENTOS NOVENTA Y OCHO.- DIP. RICARDO MOLINA TEODORO, PRESIDENTE.- DIP. FERNANDO DE GARAY Y ARENAS, SECRETARIO.- DIP. RAFAEL LOPEZ DE LA CERDA. SECRETARIO.- Rúbricas.
 
 En cumplimiento de lo dispuesto en el inciso b) de la fracción II correspondiente a la Base Segunda del Apartado C del artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, 48 y 49 del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto en la Residencia Oficial del Poder Ejecutivo Local, en la Ciudad de México, a los veinte días del mes de mayo de mil novecientos noventa y ocho. El Jefe de Gobierno del Distrito Federal, Cuauhtémoc Cárdenas Solorzano.- Rúbrica.- La Secretaria de Gobierno, Rosario Robles Berlanga.- Rúbrica.- El Secretario de Turismo, Rafael Suárez Vázquez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 18 DE NOVIEMBRE DE 1999.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en la Gaceta de Gobierno del Distrito Federal y para su mayor difusión publíquese también en el Diario Oficial de la Federación.
+
+SEGUNDO.- Dentro del término de cien días, a partir de la fecha en que entre en vigor el presente Decreto. El Jefe de Gobierno del Distrito Federal expedirá las disposiciones reglamentarias que requiera esta ley.
