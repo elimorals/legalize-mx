@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-auditoria-superior-gubernamental-del-estado-de-33365"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-11"
-last_updated: "2004-01-07"
+last_updated: "2004-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE AUDITORIA SUPERIOR GUBERNAMENTAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 11 de agosto de 2003.
 
@@ -165,19 +165,21 @@ f) El resultado de las operaciones de los poderes del Estado, municipios y entes
 
 g) El avance de la gestión financiera.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2004)</small>
+
 ###### Artículo 8.
 
-El titular del Poder Ejecutivo del Estado deberá presentar la cuenta pública a la Legislatura por trimestres, a más tardar el último día hábil del mes siguiente.
+Los Poderes del Estado, deberán presentar su cuenta pública, al Congreso del Estado, por trimestres, a más tardar el último día hábil del mes siguiente. Los Gobiernos Municipales presentarán al Congreso, a más tardar el día 31 de enero de cada año, la cuenta pública correspondiente al año anterior.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 2004)</small>
+Las cuentas públicas mensuales de los gobiernos municipales, se presentarán a la Auditoría Superior Gubernamental, dentro de los primeros veinte días naturales del mes siguiente al que corresponda rendir dicho informe, debiendo de informar al Congreso del Estado del cumplimiento o no de los Ayuntamientos, dentro de los tres día (sic) siguientes al vencimiento de la obligación.
 
-Los Gobiernos Municipales presentarán a la Legislatura su cuenta pública mensual dentro de los primeros 20 días naturales del mes siguiente al que corresponda rendir dicho informe. Una vez recibida la cuenta pública mensual por la Legislatura, éste la remitirá a la Auditoría Superior Gubernamental para su revisión y fiscalización superior. La cuenta pública anual la presentarán conforme a lo dispuesto por la Constitución del Estado.
+Sólo se podrá ampliar por una sola vez el plazo de presentación de las cuentas públicas trimestrales y anuales, cuando exista solicitud del Ejecutivo del Estado, de los presidentes municipales, o de los titulares de los organismos autónomos; en el caso del Ejecutivo será obligación de la Secretaría encargada del despacho del ramo de hacienda pública, comparecer ante el Congreso para presentar su solicitud e informar sobre las razones que la motiven; en el ámbito municipal la atribución anterior corresponderá a los presidentes municipales y comparecerá, en su caso, la persona que designe el presidente municipal; en los organismos autónomos los titulares de los mismos. Las solicitudes deberán de estar suficientemente justificadas a juicio del Congreso del Estado quien las aprobará mediante el decreto correspondiente; debiendo ser presentadas, por lo menos, con diez días hábiles de anticipación a la conclusión del plazo. A las solicitudes se anexarán los documentos que funden las razones que motivaron la petición de prórroga; de no existir respuesta a las solicitudes en un término no mayor de quince días hábiles, a partir de que se reciban, se entenderá que fueron resueltas favorablemente. Por ningún motivo la prórroga excederá de un mes; en los supuestos de que no se entreguen las Cuentas Públicas, vencidas las ampliaciones que se autoricen; la Auditoría Superior Gubernamental, iniciará el procedimiento de destitución de los Servidores Públicos que incurran en omisión.
 
-Sólo se podrá ampliar por una sola vez el plazo de presentación de la cuenta pública, cuando medie solicitud del Ejecutivo del Estado o del Presidente Municipal o de los titulares de las demás entidades fiscalizadas suficientemente justificada a juicio de la legislatura, presentada por los (sic) menos con diez días hábiles de anticipación a la conclusión del plazo, debiendo comparecer en todo caso el representante que acrediten, a informar de las razones que lo motiven. En ningún caso la prórroga excederá de un mes, y en caso de no entregar la cuenta pública en este plazo, se llevará a cabo el procedimiento de destitución de los servidores público responsables.
+En el caso de las Cuentas Públicas mensuales, de los gobiernos municipales, no existirán prórrogas para su presentación, con excepción del primer mes del inicio de su mandato constitucional, que podrá presentarse en el mismo término que para el segundo mes. Para que se autoricen las prórrogas, deberán cumplirse las reglas señaladas en el párrafo anterior.
 
-En caso de no presentar la cuenta pública en el plazo previsto en el primer párrafo de este artículo, sin que medie solicitud de prórroga, la Auditoría Superior Gubernamental impondrá una multa a los servidores públicos responsables, de 700 a 1000 días de salario mínimo general vigente en el Estado de Morelos, apercibiéndoles que para el caso de no presentarla en el término de 15 días se procederá a la destitución de los servidores públicos responsables.
+En los supuestos de que no se presenten las cuentas públicas trimestrales y las anuales, en los plazos previstos en el primer párrafo de este artículo, sin que medie solicitud de prórroga, la Auditoría Superior Gubernamental, impondrá a los servidores públicos responsables, una multa de 500 a 1000 días de salario mínimo general vigente en el Estado de Morelos; en el caso de que no se presenten oportunamente las cuentas públicas mensuales de los Ayuntamientos, la Auditoría Superior Gubernamental, los multará con hasta 200 días de salario mínimo general vigente en el Estado de Morelos. En los casos antes señalados, se apercibirá a los servidores públicos responsables para que presenten las cuentas públicas, y en el caso de que no las presenten, en un último término de quince días hábiles, contados a partir de que sean notificados; se procederá a fincarles la responsabilidad establecida en la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, y en su caso, se les aplicará la sanción que corresponda, debiendo informar al Congreso del Estado de estas acciones.
 
-Independientemente de las multas impuestas, existe la obligación de presentar la cuenta pública.
+Independientemente de las multas y sanciones que se impongan, existe la obligación de presentar las cuentas públicas.
 
 ###### Artículo 9.
 
@@ -1230,3 +1232,13 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo para los efectos co
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 21 DE JULIO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos del artículo 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos, remítase el presente decreto al Gobernador del Estado.
