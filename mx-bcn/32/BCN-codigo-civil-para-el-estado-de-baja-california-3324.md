@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1986-09-30"
+last_updated: "1987-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1987.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1065,7 +1065,9 @@ VI.- El atentado contra la vida de alguno de los casados para contraer matrimoni
 
 VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
 
-VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula; la sífilis, la locura y las enfermedades crónicas e incurables, que sean, además contagiosas o hereditarias;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1987)</small>
+
+VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula; la sífilis, el síndrome de inmunodeficiencia adquirida (SIDA), la locura y las enfermedades crónicas e incurables, que sean, además contagiosas o hereditarias;
 
 IX.- El idiotismo y la imbecilidad;
 
@@ -1521,9 +1523,11 @@ La nulidad que se funde en alguna de las causas expresadas en la Fracción VIII 
 
 Tienen derecho de pedir la nulidad a que se refiere la Fracción IX del artículo 153, el otro cónyuge o el tutor del incapacitado.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 245.
 
-El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segundo, anula éste aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge del primer matrimonio, por sus hijos o herederos, y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá el Ministerio Público.
+El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segundo, anula éste aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge del primer matrimonio, por sus hijos o herederos, y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá indistintamente el Ministerio Público o el Sistema para el Desarrollo Integral de la Familia.
 
 ###### ARTICULO 246.
 
@@ -1927,6 +1931,10 @@ IV.- Los hermanos y demás parientes colaterales dentro del cuarto grado;
 
 V.- El Ministerio Público;
 
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 1987)</small>
+
+VI.- El Sistema Para el Desarrollo Integral de la Familia.
+
 ###### ARTICULO 313.
 
 Si las personas a que se refieren las Fracciones II, III y IV del artículo anterior no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de los alimentos, se nombrará por el Juez un tutor interino.
@@ -2195,15 +2203,15 @@ El reconocimiento hecho por uno de los padres, produce efectos respecto de él y
 
 El reconocimiento no es revocable por el que lo hizo, y si se ha hecho en testamento, cuando éste se revoque, no se tiene por revocado el reconocimiento.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 365.
 
-El Ministerio Público, tendrá acción contradictoria del reconocimiento de un menor de edad, cuando se hubiere efectuado en perjuicio del menor.
+El Ministerio Público o el Sistema Para el Desarrollo Integral de la Familia, tendrán acción contradictoria del reconocimiento de un menor de edad, cuando se hubiere efectuado en perjuicio de éste.
 
-La misma acción tendrá el progenitor que reclame para si tal carácter con exclusión de quien hubiere hecho el reconocimiento indebidamente o para el sólo efecto de la exclusión.
+La misma acción tendrá el progenitor que reclame para si tal carácter, con exclusión de quien hubiere hecho el reconocimiento indebidamente o para el sólo efecto de la exclusión.
 
-El tercero afectado por obligaciones derivadas del reconocimiento ilegalmente efectuado podrá contradecirlo en vía de excepción.
-
-En ningún caso procede impugnar el reconocimiento por causa de herencia para privar de ella al menor reconocido.
+El tercero afectado por obligaciones derivadas del reconocimiento legalmente efectuado, podrá contradecirlo en vía de excepción.
 
 ###### ARTICULO 366.
 
@@ -2259,17 +2267,17 @@ La mujer que cuida o ha cuidado la lactancia de un niño, a quien le ha dado su 
 
 Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquel sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 377.
 
-Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cual de los dos ejercerá la custodia; y en caso de que no lo hicieren, el Juez de Primera Instancia de lo Familiar del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá la custodia; y en caso de que no lo hicieren, el Juez de Primera Instancia de lo Familiar del lugar, oyendo a los padres, y al Sistema Para el Desarrollo Integral de la Familia de Baja California, resolverá lo que creyere más conveniente a los intereses del menor.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 378.
 
-En caso de que el reconocimiento se efectué sucesivamente por los padres que no viven juntos, ejercerá la custodia el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el Juez de Primera Instancia de lo Familiar del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
+En caso de que el reconocimiento se efectué sucesivamente por los padres que no viven juntos, ejercerá la custodia el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el Juez de Primera Instancia de lo Familiar del lugar, no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Sistema Para el Desarrollo Integral de la Familia de Baja California.
 
 ###### ARTICULO 379.
 
@@ -2325,15 +2333,25 @@ III.- A percibir la porción hereditaria y los alimentos que fije la Ley.
 
 ### CAPITULO V. DE LA ADOPCION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 387.
 
-El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más menores o a un incapacitado, aún cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que acredite además:
+El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar a uno o más menores o a un incapacitado, aún cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y lo haga en forma personal y no por conducto de apoderado o representante legal alguno, acreditando además:
 
 I.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trata de adoptar;
 
 II.- Que la adopción es benéfica para la persona que trata de adoptarse; y
 
 III.- Que el adoptante es persona de buenas costumbres.
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 1987)</small>
+
+IV.- Que goza de buena salud física y mental, acreditada mediante estudio especial realizado por el Sistema Para el Desarrollo Integral de la familia, en el que se le declare apto para realizar la adopción.
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 1987)</small>
+
+V.- Tratándose de extranjeros éstos deberán acreditar que pueden realizar dicho acto, con la respectiva autorización, expedida por las Secretarías de Gobernación y de Relaciones Exteriores.
 
 Cuando circunstancias especiales lo aconsejen, el Juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitados simultáneamente.
 
@@ -2409,9 +2427,17 @@ La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
 
 La adopción puede revocarse:
 
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, se oirá a las personas que prestaron su consentimiento conforme al artículo 394, cuando fueren de domicilio conocido, y a falta de ellas, al representante del Ministerio Público.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1987)</small>
 
-II.- Por ingratitud del adoptado.
+I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, se oirá a las personas que prestaron su consentimiento conforme al artículo 394, cuando fueren de domicilio conocido, y a falta de ellas, al Ministerio Público y al Sistema Para el Desarrollo Integral de la Familia.
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1987)</small>
+
+II.- Por ingratitud del adoptado; oyendo al Sistema Para el desarrollo Integral de la Familia.
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 1987)</small>
+
+III.- Cuando dejare de reunirse los requisitos a que se refieren los Artículo 387 de este Código y 908 del Código de Procedimientos Civiles, a juicio del sistema Para el Desarrollo Integral de la Familia.
 
 ###### ARTICULO 403.
 
@@ -2601,11 +2627,13 @@ Las personas que ejercen la patria potestad tienen obligación de dar cuenta de 
 
 En todos los casos en que las personas que ejercen la patria potestad tienen un interés opuesto al de los hijos, serán estos representados, en juicio y fuera él, por un tutor nombrado por el Juez para cada caso.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 438.
 
 Los Jueces tienen facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes del hijo se derrochen o se disminuyan.
 
-Estas medidas se tomarán a instancias de las personas interesadas, del menor cuando hubiere cumplido catorce años, o del Ministerio Público en todo caso.
+Estas medidas se tomarán a instancias de las personas interesadas, del menor cuando hubiere cumplido catorce años, del Ministerio Público o del Sistema para el Desarrollo Integral de la Familia de Baja California en todo caso.
 
 ###### ARTICULO 439.
 
@@ -4067,9 +4095,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 722.
 
-El valor máximo de los bienes afectos al patrimonio de familia será de cien mil pesos.
+El valor máximo de los bienes afectos al patrimonio familiar será de cuatro veces el salario mínimo general elevado al año en Baja California.
 
 ###### ARTICULO 723.
 
@@ -8323,9 +8353,11 @@ Son nulas de pleno derecho las disposiciones por las que el testador dispensa al
 
 La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código de Procedimientos Civiles.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 1613.
 
-Cuando fuere heredera la Asistencia Pública o los herederos fueren menores, intervendrá el Ministerio Público en la aprobación de las cuentas.
+Cuando fuere heredera la Asistencia Pública o los herederos fueren menores, intervendrá el Ministerio Público y el Sistema para el Desarrollo Integral de la Familia, en la aprobación de las cuentas.
 
 ###### ARTICULO 1614.
 
@@ -8553,11 +8585,13 @@ Si el testador hubiere legado alguna pensión o renta vitalicia, sin gravar con 
 
 En el proyecto de partición se expresará la parte que del capital o fundo afecto a la pensión, corresponderá a cada uno de los herederos luego que aquella se extinga.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 1663.
 
-Cuando todos los herederos sean mayores, y el interés del fisco, si lo hubiere, esté cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo y terminación de la testamentaría o del intestado.
+Cuando todos los herederos sean mayores, y el interés del fisco, si lo hubiere, esté cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo y terminación de la testamentaria o del intestado.
 
-Cuando haya menores, podrán separarse, si están debidamente representados y el Ministerio Público da su conformidad. En este caso, los acuerdos que se tomen se denunciarán al Juez, y éste, oyendo al Ministerio Público, dará su aprobación, si no se lesionan los derechos de los menores.
+Cuando haya menores, podrán separarse, si están debidamente representados, y el Ministerio Público y el Sistema Para el Desarrollo Integral de la Familia de Baja California otorgan su conformidad. En este caso, los acuerdos que se tomen se denunciarán al Juez, y éste, oyendo al Ministerio Público y al Sistema Para el Desarrollo Integral de la Familia, dará su aprobación, si no se lesionan los derechos de los menores.
 
 ###### ARTICULO 1664.
 
@@ -11107,13 +11141,13 @@ En la venta de que habla el artículo 2186 mientras que no pasa la propiedad de 
 
 El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 2191.
 
-Las enajenaciones de bienes inmuebles cuyo valor convencional no sea mayor de sesenta y cinco mil pesos y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez de Paz o Registro Público de la Propiedad.
+La enajenación de bienes inmuebles cuyo valor convencional no sea mayor de cuatro veces el salario mínimo general elevado al año en Baja California y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez de Paz o Registro Público de la Propiedad.
 
-Los contratos por los que el Estado o los Municipios, así como los Organismos Descentralizados y Empresas de Participación Oficial, dependientes de ellos, enajenen terrenos o casas destinados a habitación, para la constitución del patrimonio familiar o para personas de escasos recursos económicos hasta por el valor de cien mil pesos, podrán otorgarse en documento privado sin los requisitos de testigos y de ratificación de firmas.
+Los contratos por los que el Gobierno del Estado, Municipios y Organismos Descentralizados enajenen terrenos o casas para la constitución del patrimonio familiar o para personas de escasos recursos económicos hasta por un valor de cuatro veces el salario mínimo general elevado al año en Baja California, podrán otorgarse en documento privado sin los requisitos de testigos y de ratificación de firmas.
 
 ###### ARTICULO 2192.
 
@@ -11123,19 +11157,19 @@ Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su r
 
 De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 2194.
 
-Si el valor del inmueble excede de sesenta y cinco mil pesos, su venta se hará en Escritura Pública, salvo lo dispuesto por el artículo 2191.
+Si el valor del inmueble excede de cuatro veces el salario mínimo general elevado al año en Baja California, su venta se hará en escritura pública, salvo lo dispuesto por el Artículo 2121.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 2195.
 
-Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de sesenta y cinco mil pesos, cuando la venta sea al contado puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor, a cuyo favor estén inscritos los bienes.
+Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de lo dispuesto por el Artículo 2194, cuando la venta sea al contado puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el Registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
 
-El endoso será ratificado ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma, hará una nueva inscripción de los bienes vendidos, en favor del comprador.
+El endoso será ratificado ante el Registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas y previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma, hará una nueva inscripción de los bienes vendidos en favor del comprador.
 
 ###### ARTICULO 2196.
 
@@ -11475,9 +11509,11 @@ Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géne
 
 El interés es legal o convencional.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 2269.
 
-El interés legal es el nueve por ciento anual. El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste el Juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
+El interés legal es el cincuenta por ciento anual. El interés convencional es el que fijen los contratantes; puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, la inexperiencia o ignorancia del deudor, a petición de éste el Juez, teniendo en cuenta las circunstancias del caso, podrá reducirlo equitativamente hasta el tipo legal.
 
 ###### ARTICULO 2270.
 
@@ -14133,15 +14169,19 @@ IV.- Los legatarios, por el importe de sus legados, si no hubiere hipoteca espec
 
 V.- El Estado, los pueblos y los establecimientos públicos, sobre los bienes de sus administradores o recaudadores, para asegurar las rentas de sus respectivos cargos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 2803.
 
-La constitución de la hipoteca en los casos a que se refieren las Fracciones II y III del artículo anterior, puede ser pedida:
+La constitución de la hipoteca en los casos a que se refieren las Fracciones II y III del Artículo anterior puede ser pedida:
 
 I.- En el caso de bienes de que fueren meros administradores los padres, por los herederos legítimos del menor;
 
 II.- En el caso de bienes que administren los tutores, por los herederos legítimos y por el curador del incapacitado;
 
-III.- Por el Ministerio Público si no la pidieren las personas enumeradas en las Fracciones anteriores.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1987)</small>
+
+III.- Por el Ministerio Público o el Sistema Para el Desarrollo Integral de la Familia, indistintamente.
 
 ###### ARTICULO 2804.
 
@@ -14567,7 +14607,7 @@ XIV.- Los demás títulos que la Ley ordene expresamente que sean registrados.
 
 ###### ARTICULO 2870.
 
-Los documentos que conforme a esta Ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuánto le fueren favorables.
+Los documentos que conforme a esta Ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuanto le fueren favorables.
 
 ###### ARTICULO 2871.
 
@@ -14970,3 +15010,9 @@ P.O. 30 DE SEPTIEMBRE DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 31 DE JULIO DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, treinta días después al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
