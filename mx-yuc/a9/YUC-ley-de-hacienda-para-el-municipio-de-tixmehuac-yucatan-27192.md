@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-tixmehuac-yucatan-27192"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2002-12-31"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE TIXMEHUAC, YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 31 de diciembre de 2002.
 
@@ -1047,23 +1047,29 @@ El pago de este derecho se hará al momento de solicitar el servicio.
 
 ### CAPÍTULO VII. DERECHOS POR EL USO DE CEMENTERIOS
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 82.
 
-Los derechos a que se refiere este capítulo se causarán y pagaran de conformidad con lo siguiente tarifa:
+Son objeto de este Derecho los diversos servicios de cementerios prestados por el municipio.
 
-Inhumación
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
-a) Niño 2.6 Salarios Mínimos
+###### ARTÍCULO 82-A.
 
-b) Adulto 2.6 Salarios Mínimos
+Son sujetos de este Derecho, las personas físicas o morales que directa o indirectamente reciban alguno o algunos de los servicios mortuorios, que preste el municipio.
 
-Exhumación
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
-a) Niño 1.5 Salarios Mínimos
+###### ARTÍCULO 82-B.
 
-b) Adulto 1.5 Salarios Mínimos
+Estos derechos se causarán conforme a la tarifa que al efecto establezca la Ley de Ingresos municipal correspondiente.
 
-Por el uso de Bóveda a perpetuidad 26 Salarios Mínimos
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 82-C.
+
+El pago de los derechos se hará por anticipado o al solicitar el servicio, en las oficinas de la Tesorería Municipal.
 
 ## TÍTULO QUINTO. DE LAS CONTRIBUCIONES DE MEJORAS
 
@@ -1364,3 +1370,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 ( RUBRICA )
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 31 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
