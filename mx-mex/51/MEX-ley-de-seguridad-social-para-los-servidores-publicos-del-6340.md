@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-social-para-los-servidores-publicos-del-6340"
 country: "mx"
 rank: "ley"
 publication_date: "1969-08-23"
-last_updated: "1974-07-27"
+last_updated: "1994-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE MEXICO, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS COORDINADOS Y DESCENTRALIZADOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS, PUBLICADA EN LA G.G. DE 19 DE OCTUBRE DE 1994, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS COORDINADOS Y DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 1974.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE OCTUBRE DE 1994 (ABROGADA).
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el sábado 23 de agosto de 1969.
 
@@ -886,3 +888,63 @@ G.G. 27 DE JULIO DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+G.G. 19 DE OCTUBRE DE 1994.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS”.]
+
+###### ARTICULO PRIMERO.
+
+Esta ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de México, "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Seguridad Social para los Servidores Públicos del Estado de México, de sus Municipios y de los Organismos Coordinados y Descentralizados, expedida mediante decreto 131 de la H. XLIII Legislatura del Estado de México, de fecha 15 de agosto de 1969; igualmente, se derogan todas las disposiciones que se opongan a la presente ley.
+
+###### ARTICULO TERCERO.
+
+El Instituto seguirá cubriendo el importe de las pensiones concedidas con anterioridad a la entrada en vigor de esta ley en los términos en que hayan sido otorgadas.
+
+El otorgamiento de las pensiones cuya solicitud se encuentre en trámite al entrar en vigor esta ley, se determinará conforme al momento y a las condiciones en que se haya generado el derecho correspondiente.
+
+###### ARTICULO CUARTO.
+
+Los montos máximos a que se refieren el tercer párrafo del artículo 26 y el artículo 62 de esta ley, se incrementarán en forma gradual hasta alcanzar un monto equivalente a 10 veces el salario mínimo general del área geográfica en donde se encuentra ubicada la capital del Estado, conforme a lo siguiente:
+
+A partir de la fecha en que entre en vigor esta ley, los montos máximos mencionados serán equivalentes a 9 veces el salario mínimo general señalado en el párrafo anterior.
+
+A partir del 1° de enero de 1996, dichos montos máximos serán equivalentes a 9.5 veces el salario mínimo general señalado en el primer párrafo de este artículo.
+
+A partir del 1° de enero de 1997, los montos máximos mencionados serán equivalentes a 10 veces el salario mínimo general señalado en el primer párrafo de este artículo.
+
+###### ARTICULO QUINTO.
+
+Los servidores públicos en activo que al entrar en vigor esta ley tengan más de 30 años de servicios, podrán gozar de los beneficios adicionales que otorga el artículo 81 de la misma, para lo cual deberán presentar solicitud por escrito; para este efecto, los años adicionales que se les computen serán aquéllos que acumulen a partir de la entrada en vigor de esta ley.
+
+###### ARTICULO SEXTO.
+
+Los servidores públicos que se encuentren en activo al entrar en vigor esta ley, así como los exservidores que hubiesen dejado a salvo sus derechos conforme al artículo 33 de la ley que se abroga, tendrán derecho a la pensión de retiro por edad y tiempo de servicios a que se refiere el artículo 82 de esta ley, así como a los beneficios señalados en el artículo 84 de la misma, al cumplir 50 años de edad, acreditando ante el Instituto haber laborado cuando menos 15 años y haber cubierto las cuotas correspondientes a este período.
+
+###### ARTICULO SEPTIMO.
+
+A partir de la vigencia de esta ley y por única vez, se concede un plazo de un año a las personas que hayan ingresado al servicio público en las Instituciones Públicas señaladas en el artículo 2 de esta ley después de haber cumplido 50 años de edad y que estén en activo, para solicitar al Instituto su incorporación al régimen de seguridad social que ésta establece. Para este efecto, deberán cubrir por su cuenta las cuotas, aportaciones e intereses correspondientes en los términos que fijen las disposiciones reglamentarias de esta ley.
+
+###### ARTICULO OCTAVO.
+
+Los servidores públicos que hubiesen retirado su seguro de cesantía o separación, denominado en esta ley fondo de reintegro por separación, y hayan reingresado al servicio público posteriormente, tendrán por única vez, un plazo de un año contado a partir de la vigencia de esta ley, para realizar las gestiones y el pago a que se refiere el artículo 111 de la misma.
+
+###### ARTICULO NOVENO.
+
+A los servidores y exservidores públicos constituidos en mora del pago de préstamos regulados por la ley que se abroga, se les concede por una sola vez, un plazo de doce meses a partir de la fecha de la vigencia de esta ley para cubrirlos sin el pago de los intereses moratorios que se hubiesen generado.
+
+###### ARTICULO DECIMO.
+
+A las Instituciones Públicas que tengan adeudos con el Instituto, se les concede un plazo de seis meses, contados a partir de la entrada en vigor de la presente ley, para cubrir dichas obligaciones conforme a las tasas de interés moratorio que les correspondía de acuerdo a la ley que se abroga.
+
+###### ARTICULO DECIMO PRIMERO.
+
+Los actos que se hayan realizado conforme a la ley que se abroga, seguirán surtiendo efectos hasta la conclusión del término o cumplimiento de las condiciones en que se hayan efectuado.
+
+###### ARTICULO DECIMO SEGUNDO.
+
+Las disposiciones reglamentarias de la presente ley deberán ser expedidas en un término no mayor de 180 días contados a partir de la fecha en que entre en vigor la misma. En tanto se expiden estas disposiciones reglamentarias, se seguirán aplicando las vigentes en cuanto no la contravengan.
