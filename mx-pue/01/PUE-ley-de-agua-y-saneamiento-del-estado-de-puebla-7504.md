@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-agua-y-saneamiento-del-estado-de-puebla-7504"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-28"
-last_updated: "1994-12-27"
+last_updated: "1996-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE AGUA Y SANEAMIENTO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1996.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 28 de febrero de 1992.
 
@@ -465,7 +465,9 @@ V.- Proporcionar los servicios a su cargo, a los núcleos de población de su Mu
 
 VI.- Formular y mantener actualizado el padrón de usuarios de los servicios a su cargo.
 
-VII.- Realizar las gestiones que sean necesarias a fin de obtener los financiamientos que se requieran para la más eficiente prestación de sus servicios, en los términos de la legislación aplicable.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1996)</small>
+
+VII.- Realizar las gestiones necesarias para celebrar operaciones de financiamiento que se requieran para la realización de inversiones públicas productivas a cargo del Organismo Operador.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
@@ -1073,13 +1075,51 @@ El período por el cual se realice la estimación presuntiva a que este capítul
 
 La estimación presuntiva procederá independientemente de las sanciones a que haya lugar.
 
-### CAPITULO I. DE LAS INFRACCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE JULIO DE 1996)</small>
+
+### CAPITULO IV. DE LA DETERMINACION Y COBRO DE TARIFAS PARA LA AMORTIZACION DE DEUDA PUBLICA
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 1996)</small>
+
+ARTICULO 96 A.- Los Organismos Operadores que celebren operaciones de financiamiento con la autorización del H. Congreso del Estado, estarán facultados para aprobar las cuotas, tasas y tarifas relacionadas con la prestación de los servicios de agua potable, alcantarillado y saneamiento, hasta la amortización del crédito que se contrate.
+
+Los adeudos a cargo de los usuarios por la prestación de los servicios objeto de esta Ley, se equipararán a créditos fiscales, y le serán aplicables los recargos, sanciones, gastos de ejecución, actualización, indemnizaciones e intereses, en los términos de este ordenamiento y de la legislación hacendaria aplicable. Dichos adeudos serán exigibles por los Organismos Operadores a través del Procedimiento Administrativo de Ejecución.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 1996)</small>
+
+ARTICULO 96 B.- El Organo de Gobierno de los Organismos Operadores aprobará las cuotas, tasas y tarifas de cada uno de los servicios que se presten, debiendo publicarse en el Periódico Oficial del Estado.
+
+En la fijación de las cuotas, tasas y tarifas por los servicios, se deberán incluir los costos de operación, administración, conservación, mantenimiento y mejoramiento, así como los recursos necesarios para constituir un fondo que permita la rehabilitación, ampliación y mejoramiento de los sistemas, la recuperación del valor actualizado de las inversiones del Organismo Operador y el servicio de su deuda; dicho fondo se constituirá y operará de conformidad con las reglas técnicas que apruebe el Organo de Gobierno del Organismo.
+
+La recuperación del valor actualizado de las inversiones de infraestructura hidráulica realizadas por el Organismo Operador respectivo, por sí o por terceros, deberá tomarse en cuenta para su incorporación en la fijación de las cuotas, tasas y tarifas respectivas o para su cobro por separado a los directamente beneficiados por las mismas, se podrán celebrar con los beneficiarios convenios que garanticen la recuperación de la inversión, salvo cuando ésta se efectúe a través de leyes de contribuciones de mejoras por obras públicas hidráulicas en el Estado o Municipio, o a través de una legislación fiscal similar.
+
+Se deberán revisar y ajustar las cuotas, tasas y tarifas a fin de actualizarlas semestralmente o antes, si así se conviene en los contratos de crédito que al efecto celebre el Organismo Operador; para cualquier modificación se deberá elaborar un estudio que justifique las nuevas cuotas, tasas y tarifas.
+
+Los Organismos Operadores deberán disponer lo necesario para que, de acuerdo con la naturaleza del servicio de que se trate, se establezcan tarifas por rangos de consumo y tipo de uso.
+
+Las cuotas, tasas y tarifas que determine el Organismo Operador en los términos de este capítulo, no podrán ser materia de condonaciones, exenciones o reducciones o cualquier otro acto que merme o atrase la recaudación, salvo los casos de siniestros que afecten la situación económica de un grupo de la colectividad o se autorice su pago a plazos, en ambos casos previo acuerdo del Organo de Gobierno del Organismo Operador y con los requisitos que éste mismo establezca.
+
+El Estado y los Municipios no serán sujetos del pago de las cuotas, tasas y tarifas que se emitan conforme a este capítulo, respecto de los bienes de los que sean propietarios o poseedores.
+
+Las cuotas, tasas y tarifas que se determinen conforme a este capítulo no estarán sujetas al procedimiento de actualización previsto en los artículos 75, 76, 77 y 78 de esta Ley, por lo que al entrar en vigor el decreto del H. Congreso del Estado en el que se autorice la contratación del financiamiento, se suspenderá la aplicación de las mismas, las correlativas de la misma Ley y las contenidas en los demás ordenamientos que resulten aplicables hasta la amortización total del crédito.
+
+Los adeudos de los usuarios que se hubieren generado conforme a las disposiciones que se suspendan de acuerdo a lo previsto en este artículo, se calcularán y pagarán en términos de las disposiciones vigentes en el momento en que se generaron.
+
+Los adeudos de los usuarios que se hubieren causado conforme a las disposiciones de este capítulo se calcularán y pagarán en términos de las disposiciones vigentes en el momento en que se generaron.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 1996)</small>
+
+ARTICULO 96 C.- Los Organismos Operadores deberán celebrar Convenios de Colaboración Administrativa con el Gobierno Estatal, en el caso de que requiera su garantía en las operaciones de financiamiento.
+
+En los casos en que el patrimonio estatal garantice el cumplimiento de las obligaciones de los Organismos Operadores, deberán preverse en los contratos respectivos las condiciones que garanticen la participación estatal en el seguimiento del cumplimiento de las obligaciones crediticias y del destino de las inversiones. Las circunstancias posteriores a la suscripción de los documentos, que limiten la facultad estatal para establecer el seguimiento a que se refiere este párrafo, implicarán el retiro de la garantía por el monto del crédito que aún no se hubiere desembolsado o ejercido, debiendo notificarse a la Institución acreditante con una anticipación de 30 días para que se proceda en los términos pactados al efecto, en el contrato respectivo.
+
+Será responsabilidad de los Organismos Operadores prever en su presupuesto de egresos, las partidas necesarias para el servicio de la deuda.
+
+El H. Congreso del Estado podrá en el Decreto respectivo, autorizar a los Organismos Operadores a reestructurar su deuda publica, a efecto de reducir las cargas financieras modificando tasas de interés, plazos y formas de pago.
 
 ## TITULO QUINTO. DE LAS INFRACCIONES Y SANCIONES
 
-### CAPITULO II. DE LAS SANCIONES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+### CAPITULO I. DE LAS INFRACCIONES
 
 ###### ARTICULO 97.
 
@@ -1171,7 +1211,9 @@ I.- No proporcionar los avisos, informes, datos o documentos, no exhibirlos en e
 
 II.- No prestar a las Autoridades Competentes, el auxilio necesario para la determinación y cobro de las cuotas o tarifas por la prestación de los servicios objeto de esta Ley, en los casos en que tengan obligación de hacerlo, de conformidad con la misma.
 
-### CAPITULO UNICO
+### CAPITULO II. DE LAS SANCIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 101.
 
@@ -1182,6 +1224,8 @@ Las autoridades competentes, impondrán las sanciones administrativas por infrac
 Para la aplicación de las sanciones, la autoridad competente considerará como infracciones graves entre otras, aquellas cometidas utilizando tubería superior a tres cuartos de pulgada de diámetro para el caso de las relacionadas a agua potable o de quince centímetros de diámetro para las relativas a drenaje o alcantarillado.
 
 ## TITULO SEXTO. DEL RECURSO ADMINISTRATIVO DE REVOCACION
+
+### CAPITULO UNICO
 
 ###### ARTICULO 102.
 
@@ -1308,3 +1352,13 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado y ent
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Organismos Operadores que a la fecha de entrada en vigor del presente decreto tuvieran contratados financiamientos constitutivos de deuda pública, contarán con un plazo de 60 días para someter a su Organo de Gobierno la aprobación de sus cuotas o tarifas.
