@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1983-07-29"
+last_updated: "1983-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 1983.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -75,13 +75,23 @@ La Constitución Política de los Estados Unidos Mexicanos y esta Constitución 
 
 Es función del Estado proveer el desenvolvimiento de todas las facultades de sus habitantes y promover en todo a que disfruten sin excepción de igualdad de opotunidades (sic).
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+###### ARTICULO 9.
+
+Es finalidad del Estado, procurar por la participación de todos los ciudadanos en los procesos que regulan la vida de la comunidad. Fomentar la conciencia de solidaridad estatal, nacional e internacional.
+
+A fin de lograr este objeto, el Estado organizará un sistema de planeación democrática, política, social y cultural, para el desarrollo estatal, que imprima solidez, dinamismo, permanencia y equidad al crecimiento económico estatal, estableciendo al efecto los convenios adecuados con la Federación.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
 ###### ARTICULO 9o.
 
 Es finalidad del Estado procurar por la participación de todos los ciudadanos en los procesos que regulan la vida de la comunidad. Fomentar la conciencia de solidaridad estatal, nacional e internacional.
 
 ###### ARTICULO 10.
 
-Al Estado corresponde impulsar el desarrollo económico, procurar el progreso compartido y la distribución equitativa dela (sic) riqueza para garantizar la justicia social.
+Al Estado corresponde impulsar el desarrollo económico, procurar el progreso compartido y la distribución equitativa de la riqueza para garantizar la justicia social, a cuyo efecto planeará, conducirá, coordinará y orientará la actividad económica, en la esfera de su competencia, regulando y fomentando las actividades de interés general a la cual concurrirán los diversos sectores de población de conformidad a las leyes de la materia, con irrestricto apego a las libertades consagradas en la Constitución Federal y la del Estado.
 
 ###### ARTICULO 11.
 
@@ -97,11 +107,15 @@ El Estado de Quintana Roo asegura para sus habitantes el goce irrestricto de las
 
 Igual protección asume respecto de los derechos fundamentales que, en ejercicio de su soberanía, consagra esta Constitución.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
 ###### ARTICULO 13.
 
-El Estado garantiza la igualdad jurídica respecto de sus habitantes, sin distinción de origen, sexo, condición o actividad social.
+El Estado garantiza la igualdad jurídica respecto de sus habitantes sin distinción de origen, sexo, condición o actividad social.
 
-Todo varón y mujer serán sujetos de iguales derechos y obligaciones ante la ley.
+Todo varón y mujer serán sujetos de iguales derechos y obligaciones ante la Ley.
+
+Toda Familia tiene derecho a disfrutar de vida digna y decorosa. La ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo, en concordancia y coordinación con las leyes federales sobre la materia. Toda persona tiene derecho a la protección de la salud. La ley definirá las bases y modalidades para el acceso a los servicios de salud. En materia de salubridad general se estará a las disposiciones que dicte la Federación de conformidad al contenido de la fracción XVI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 14.
 
@@ -119,9 +133,11 @@ Toda persona tiene derecho a realizar por propio consentimiento su trabajo en cu
 
 La Legislatura local, determinará qué profesiones necesitan título para su ejercicio, y los requerimientos de su expedición.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
 ###### ARTICULO 17.
 
-Los Funcionarios y empleados públicos estatales y municipales acatarán el derecho de petición, cuando se ejercite por escrito, respetuosa y pacíficamente. En materia política, sólo los ciudadanos mexicanos usarán de esta prerrogativa. A toda petición recaerá, en breve término contestación al interesado.
+Los servidores y empleados públicos, estatales o municipales, acatarán el derecho de petición, cuando se ejercite por escrito, respetuosa y pacíficamente. En materia política sólo los Ciudadanos Mexicanos usarán de esta prerrogativa. A toda petición recaerá en breve término contestación al interesado.
 
 ###### ARTICULO 18.
 
@@ -215,11 +231,11 @@ Tampoco podrá prolongarse la prisión preventiva por más tiempo del máximo fi
 
 En toda pena de prisión impuesta por una sentencia, se computará el tiempo de la detención.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
 ###### ARTICULO 29.
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial del Estado, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa el castigo de las infracciones a los Reglamentos Gubernativos y de Policía, que consistirá únicamente en multa o arresto hasta por 36 horas, pero si el infractor fuese jornalero, obrero o trabajador no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. La multa impuesta a los trabajadores no asalariados no excederá del equivalente de un día de su ingreso.
+La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial del Estado, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa el castigo de las infracciones a los reglamentos gubernativos y de policía, que consistirá únicamente en multa o arresto hasta por 36 horas. Si el infractor fuese jornalero, obrero o trabajador no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. La multa impuesta a los trabajadores no asalariados no excederá del equivalente de un día de su ingreso.
 
 > <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
 
@@ -239,21 +255,31 @@ ARTICULO (SIC).- Para la Organización y desenvolvimiento de la familia revisten
 
 Es derecho correlacionado a la calidad de padres, la determinación libre, informada y responsable, acerca del número y espaciamiento de los hijos. Constituirá su especial incumbencia el deber de procurarles los cuidados y educación adecuados. El poder público dispondrá según el caso, los auxilios pertinentes para suplir las deficiencias en la asitencia (sic) de sus progenitores, tanto como para ofrecer orientación conveniente a los menores desprotegidos.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
 ###### ARTICULO 32.
 
 La educación cumple un eminente valor social de interés general. Su orientación descansa en el desenvolvimiento integral de la persona como miembro de una colectividad, y propicia el acceso generalizado a la instrucción pública.
 
-El Estado de Quintana Roo participará en la función educacional, con arreglo a la distribución dispuesta en la legislación federal de la materia, entre la Federación, estados y municipios, para su adecuada unificación y coordinación y para la determinación de las aportaciones económicas que deban corresponder a este servicio público.
+El Estado de Quintana Roo, participará en la función educacional, con arreglo a la distribución dispuesta en la legislación federal de la materia, entre la Federación, Estados y Municipios, para su adecuada unificación y coordinación y para la determinación de las aportaciones económicas que deban corresponder a este servicio público.
 
-La educación primaria, secundaria y normal, así como la de cualquier tipo o grado destinada a obreros o a campesinos, que impartan los particulares, estará sujeto (sic) a autorización del gobierno del Estado, quien podrá otorgarla, negarla o revocarla. Asimismo otorgará, negará o retirará el reconocimiento de validez oficial a estudios distintos de los expresados, impartidos por particulares.
+La educación primaria, secundaria y normal, así como la de cualquier tipo o grado destinada a obreros o campesinos, que impartan las particulares, estará sujeta a autorización del Gobierno del Estado, quien podrá otorgarla, negarla o revocarla. Asimismo, otorgará o retirará el reconocimiento de validez oficial a estudios distintos de los expresados, impartidos por particulares.
 
-El gobierno estatal asumirá el ejercicio de todas las demás atribuciones que le confieran el artículo 3o. de la Constitución General y sus disposiciones reglamentarias.
+El Gobierno Estatal asumirá el ejercicio de todas las demás atribuciones que le confieran el Artículo 3o de la Constitución General y sus disposiciones reglamentarias.
+
+Es deber de los padres, preservar el derecho de los menores a la satisfacción de sus necesidades y a la salud física y mental. La ley determinará los apoyos a la protección de los menores a cargo de las Instituciones Públicas de carácter Federal, Estatal y Municipal.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
 ###### ARTICULO 33.
 
-El Estado de Quintana Roo reconoce a la propiedad una función social de la jerarquía más elevada. Los preceptos que disponen su regulación conforme a las asignaciones de su ámbito local, buscan el aprovechamiento racional de los elementos naturales susceptibles de apropiación, para propugnar la distribución equitativa de la riqueza pública y preservar su conservación.
+El Estado de Quintana Roo, reconoce a la propiedad una función social de la jerarquía más elevada.
 
-Las autoridades estatales conducirán en los términos de las leyes reglamentarias del artículo 27 de la Constitución de la República, las tramitaciones relacionadas con dotaciones, restituciones de tierras y aguas y sus ampliaciones en favor de núcleos de población interesados, así como las demás que estos ordenamientos le reserven.
+Los preceptos que disponen su regulación conforme a las asignaciones de su ámbito local, buscan el aprovechamiento racional de los elementos naturales susceptibles de apropiación para propugnar la distribución equitativa de la riqueza pública y preservar su conservación.
+
+Las Autoridades Estatales conducirán, en los términos de las Leyes reglamentarias del artículo 27 de la Constitución de la República, las tramitaciones relacionadas con dotaciones, restituciones de tierras y aguas y sus ampliaciones en favor de núcleos de población interesados, así como las demás que estos ordenamientos le reserven.
+
+El Estado, otorgará asesoría legal a los campesinos, a fin de impulsar el desarrollo rural integral con el propósito de generar empleos y el fomento de la agricultura, la ganadería y la explotación racional forestal, para el uso óptimo de la tierra, la organización de productores agropecuarios, su industrialización y comercialización, considerándolos de interés público.
 
 ###### ARTICULO 34.
 
@@ -441,13 +467,15 @@ IV. En el caso de que dos o más partidos políticos con derecho a participar en
 
 La Legislatura calificará las elecciones de sus miembros y resolverálas (sic) dudas que hubiere sobre ellas. Su resolución será definitiva e inatacable.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
 ###### ARTICULO 55.
 
-Para ser diputado a la Legislatura, se requiere:
+Para ser Diputado a la Legislatura, se requiere:
 
-I.- Ser quintanarroense y ciudadano del Estado en ejercicio de sus derechos, y
+I.- Ser ciudadano quintanarroense, en ejercicio de sus derechos políticos, con 6 años de residencia en el Estado, y
 
-II.- Tener 21 años cumplidos el día de la elección.
+II.- Tener 18 años cumplidos el día de la elección.
 
 ###### ARTICULO 56.
 
@@ -457,11 +485,15 @@ No podrá ser diputado:
 
 I.- El Gobernador en ejercicio, aún cuando se separe definitivamente de su puesto, cualesquiera sea su calidad, el origen y la forma de designación.
 
-II.- El Secretario de Gobierno, el Secretario de Desarrollo Económico, el Secretario de Finanzas, el Oficial Mayor, el Procurador General, los magistrados del Tribunal Superior de Justicia, los jueces y cualquiera otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo 90 días antes de la fecha de las elecciones.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+II.- El Secretario de Gobierno, el Secretario de Desarrollo Económico, el Secretario de Finanzas, el Secretario de Obras Públicas y Desarrollo Urbano, el Secretario Estatal de Turismo, el Secretario de Educación Pública y Bienestar Social, el Secretario de Fomento Agropecuario, el Contralor de Gobierno, el Oficial Mayor, el Procurador General, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquiera otra persona que desempeñe cargo público Estatal a menos que se separe definitivamente de su cargo 90 días antes de la fecha de la elección.
 
 III.- Los presidentes municipales o quienes ocupen cualquier cargo municipal, a menos que se separe (sic) del mismo 90 días antes de la elección.
 
-IV.- Los funcionarios federales con funciones públicas en el Estado, a menos que se separen de ellas 90 días antes de la elección.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+IV.- Los servidores públicos federales que realicen sus funciones en el Estado, a menos que se separen de ellas 90 días antes de la fecha de la elección.
 
 V.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos a más tardar 90 días anteriores a la elección, y
 
@@ -609,7 +641,9 @@ XIV.- Ejercer las facultades que le otorga la Constitución Federal en relación
 
 XV.- Determinar las características y el uso del escudo estatal.
 
-XVI.- Solicitar la comparecencia de funcionarios públicos para que informen, cuando se discuta o estudie un negocio relativo a su dependencia.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+XVI.- Solicitar la comparecencia de servidores públicos para que informen, cuando se discuta o estudie un negocio relativo a su dependencia.
 
 XVII.- Erigirse en Gran Jurado para calificar las causas de responsabilidad de sus miembros por delitos cometidos en el desempeño de sus funciones.
 
@@ -619,9 +653,13 @@ XVIII.- Declarar si ha lugar o no a formación de causa de que habla el artícul
 
 XIX.- Elegir la Diputación Permanente.
 
-XX.- Otorgar o negar su aprobación a los nombramientos y renuncia de magistrados del Tribunal Superior de Justicia que le someta el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
-XXI.- Legislar en todo lo relativo a la administració (sic) pública.
+XX.- Recibir la protesta de Ley y otorgar o negar su aprobación a los nombramientos, renuncias y destituciones, solicitadas por el Gobernador, de Magistrados del Tribunal Superior de Justicia;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+XXI.- Legislar en todo lo relativo a la administración pública, planeación y desarrollo económico y social, así como para la programación y ejecución de acciones de orden económico, en la esfera de la competencia estatal y otras cuya finalidad sea la producción suficiente y oportuna de bienes y servicios, social y estatalmente necesarios.
 
 XXII.- Autorizar la participación del Ejecutivo en comisiones inter estatales de desarrollo regional.
 
@@ -647,7 +685,9 @@ XXVIII.- Nombrar y remover libremente a sus empleados y a los de la Contaduría 
 
 XXIX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior que será representada(sic) dentro de los primeros 10 días de la apertura de sesiones.
 
-XXX.- Aprobar el Presupuesto de Egresos y fijar las contribuciones para cubrirla(sic).
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+XXX.- Aprobar las Leyes de Ingresos Municipal y Estatal y el presupuesto de egresos del Estado, determinando en cada caso, las partidas correspondientes para cubrirlas.
 
 XXXI.- Crear y suprimer (sic) empleos públicos y fijar sus emolumentos.
 
@@ -667,9 +707,9 @@ XXXVII.- Definir los límites de los municipios en caso de duda surgida entre el
 
 XXXVIII.- Decidir sobre la desaparición de poderes municipales, sólo en casos de causa grave, calificada por la Legislatura mediante el voto de las dos terceras partes de la totalidad de los Diputados siempre y cuando los miembros del Ayuntamiento hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
-XXXIX.- Designar a los integrantes de las juntas de gobierno municipal en los casos previstos por esta Constitución.
+XXXIX.- Designar a los integrantes de los Concejos Municipales y al Presidente Municipal sustituto, en los casos previstos por esta Constitución.
 
 XL.- Expedir la Ley de Expropiación por causa de utilidad pública.
 
@@ -705,11 +745,21 @@ V.- Conceder licencias temporales a los diputados y magistrados del Tribunal Sup
 
 VI.- Nombrar Gobernador provisional en los casos previstos en esta Constitución.
 
-VII.- Designar a propuesta del Ejecutivo, a los miembros de las Juntas de Gobierno Municipales.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
-VIII.- Otorgar o negar su aprobación a los nombramientos y renuncias de magistrados que le someta el Gobernador, y
+VII.- Designar, a los miembros de los Concejos Municipales y al Presidente Municipal sustituto, en los casos previstos en este ordenamiento.
 
-IX.- Las demás que le confiera expresamente esta Constitución.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+VIII.- Recibir la protesta de Ley y aprobar o desechar nombramientos, renuncias y destituciones, solicitadas por el Gobernador, de los Magistrados del Tribunal Superior de Justicia.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+IX.- Recibir la protesta de Ley al Gobernador Interino, provisional, sustituto o quien haga sus veces.
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+X. Las demás que le confiera expresamente esta Constitución.
 
 #### SECCION SEGUNDA. De las Facultades y Obligaciones del Gobernador
 
@@ -717,7 +767,7 @@ IX.- Las demás que le confiera expresamente esta Constitución.
 
 #### SECCION TERCERA. De la Administración del Ejecutivo
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
 ###### ARTICULO 78.
 
@@ -741,7 +791,9 @@ IV.- No ser militar en servicio activo o ciudadano con mando en los cuerpos de s
 
 V.- No ser Secretario de Estado o Jefe de Departamento, Ministro de la Suprema Corte de Justicia de la Nación o Procurador General de Justicia de la Nación, en funciones, dentro de los noventa días anteriores a la fecha de la elección.
 
-VI.- No ser Secretario de Gobierno, Secretario de Desarrollo Económico, Secretario de Finanzas, Oficial Mayor, Procurador o magistrado del Tribunal Superior de Justicia del Estado, dentro de los 90 días anteriores a la fecha de la elección, y
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+VI.- No ser Secretario de Gobierno, Secretario de Desarrollo Económico, Secretario de Finanzas, Secretario de Obras Públicas y Desarrollo Urbano, Secretario de Educación Pública y Bienestar Social, Secretario de Fomento Agropecuario, Secretario Estatal de Turismo, Contralor del Estado, Oficial Mayor, Procurador, Magistrado del Tribunal Superior de Justicia del Estado, dentro de los 90 días anteriores a la fecha de la elección; y
 
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 89 de esta Constitución.
 
@@ -807,7 +859,9 @@ II.- El Gobernador interino, el provisional o el ciudadano que bajo, cualquiera 
 
 Son facultades del Gobernador:
 
-I.- Nombrar y remover libremente al Secretario de Gobierno, Secretario de Desarrollo Económico, Secretario de Finanzas, oficial Mayor, Procurador General de Justicia y demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no estédeterminado (sic) de otro modo en la Constitución o en las leyes.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+I.- Nombrar y remover libremente al Secretario de Gobierno, Secretario de Desarrollo Económico, Secretario de Finanzas, Secretario de Obras Públicas y Desarrollo Urbano, Secretario de Educación Pública y Bienestar Social, Secretario de Fomento Agropecuario, Secretario Estatal de Turismo, Contralor del Estado, Oficial Mayor, Procurador General de Justicia y demás servidores y empleados públicos del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las Leyes.
 
 II.- Nombrar a los magistrados del Tribunal Superior de Justicia, con la aprobación de la Legislatura o la Diputación Permanente, en su caso.
 
@@ -815,7 +869,9 @@ III.- Nombrar a los jueces del Consejo Titular (sic) para Menores, en los térmi
 
 IV.- Recibir las renuncias de los magistrados del Tribunal Superior de Justicia y turnarlas, a la Legislatura o a la Diputación Permanente, en su caso.
 
-V.- Pedir la destitución, por mala conducta, de los funcionarios judiciales.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+V.- Pedir la destitución por mala conducta, de los servidores públicos del Poder Judicial.
 
 VI.- Conceder indulto a reos sentenciados por delitos del orden común.
 
@@ -825,7 +881,9 @@ VIII.- Solicitar la protección de los Poderes de la Unión, de conformidad con 
 
 IX.- Ejercer el derecho de veto en los términos de la Constitución.
 
-X.- Tener bajo su mando la fuerza pública en los municipios donde resida habitual o transitoriamente.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+X.- Tener bajo su mando la fuerza de Seguridad Pública y Tránsito en los Municipios donde resida habitual o transitoriamente y expedir el reglamento respectivo;
 
 XI.- Ejercer las facultades que le otorgue la Constitución Federal en relación a la Guardia Nacional.
 
@@ -879,7 +937,7 @@ XIII.- Las demás que señalen esta Constitución y sus leyes.
 
 ###### ARTICULO 92.
 
-Para el despacho de los negocios del orden administrativo habrá un Secretario de Gobierno, un Secretario de Desarrollo Económico, un Secretario de Finanzas, un Oficial Mayor, un Procurador General de Justicia y los demás funcionarios que determine la Ley Orgánica del Poder Ejecutivo, así como los organismos descentralizados, empresas de Participación Estatal y Fideicomisos creados en la forma que determine la Ley.
+Para el despacho de los negocios del orden administrativo habrá un Secretario de Gobierno, una Secretaría de Desarrollo Económico, un Secretario de Finanzas, un Secretario de Obras Públicas y Desarrollo Urbano, un Secretario de Educación Pública y Bienestar Social, un Secretario de Fomento Agropecuario, un Secretario Estatal de Turismo, un Contralor, un Oficial Mayor, un Procurador General de Justicia y los demás servidores públicos que determine la Ley Orgánica del Poder Ejecutivo, así como los Organismos Descentralizados, empresas de participación estatal, fideicomisos y demás órganos creados o que se creen en la forma que determinen las leyes.
 
 ###### ARTICULO 93.
 
@@ -939,7 +997,9 @@ V.- Los árbitros.
 
 VI.- El Jurado Popular, y
 
-VII.- Los demás funcionarios y auxiliares de la Administración de justicia en los términos establecidos en las leyes y códigos relativos.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+VII.- Los demás servidores públicos y auxiliares de la administración de justicia en los términos establecidos en las leyes y códigos relativos.
 
 ###### ARTICULO 100.
 
@@ -975,15 +1035,19 @@ Dentro de los primeros 10 días de sesiones de la Legislatura se deberá aprobar
 
 Si laLegislatura (sic) desecha el nombramiento, cesará desde luegoensus(sic) funciones el magistrado provisional, y el Ejecutivo someterá nuevo nombramiento en los términos que se indican en este precepto.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
 ###### ARTICULO 103.
 
-Los magistrados del Tribunal Superior de Justicia durarán en su cargo 6 años y sólo podrán ser privados de sus puestos por mala conducta o responsabilidad oficial, en los términos de esta Constitución y de la ley respectiva.
+Los magistrados del Tribunal Superior de Justicia durarán en su encargo 6 años y sólo podrán ser privados de sus puestos por mala conducta o responsabilidad oficial en los términos del Título Octavo de esta Constitución y de su Ley reglamentaria.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
 ###### ARTICULO 104.
 
-Los magistrados del Tribunal Superior de Justicia, ya sean definitivos o provisionales, deberán otorgar la protesta de ley ante la Legislatura del Estado y en los recesos de ésta ante la Diputación Permanente.
+Los magistrados del Tribunal Superior de Justicia ya sean definitivos o provisionales deberán otorgar la protesta de ley ante la Legislatura del Estado y en los recesos de ésta ante la Diputación Permanente.
 
-Los jueces protestarán ante el Tribunal Superior de Justicia. Los demás funcionarios y empleados de la administración de justicia rendirán la protesta ante la autoridad de quien dependan.
+Los jueces protestarán ante el Tribunal Superior de Justicia. Los demás servidores públicos y empleados de la administración de justicia rendirán la protesta ante la autoridad de quien dependan.
 
 ###### ARTICULO 105.
 
@@ -1005,7 +1069,9 @@ II.- Discutir y aprobar o modificar, en su caso, los presupuestos de egresos que
 
 III.- Solicitar al Ejecutivo el aumento de juzgados y de la planta de secretarios y empleados de la administración de justicia, cuando las necesidades del servicio lo requieran y lo permitan las condiciones del erario.
 
-IV.- Ordenar, por conducto del presidente del Tribunal, que se haga la consignación al Ministerio Público, en los casos de la comisión de delitos oficiales que deban ser sancionados por las autoridades competentes.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+IV.- Ordenar, por conducto del Presidente del Tribunal, que se consigue al Ministerio Público a cualquiera de sus miembros que se haga acreedor por la comisión de delitos o faltas oficiales de conformidad al Título Octavo de esta Constitución.
 
 V.- Informar al Gobernador o a la Legislatura del Estado acerca de los casos de indulto necesario, rehabilitación y demás determinados por las leyes.
 
@@ -1023,17 +1089,19 @@ La misma ley normará la integración, organización y funcionamiento de los jur
 
 El Tribunal Superior de Justicia, de acuerdo con el Gobernador del Estado, determinará el número de jueces menores y de paz que deberán establecerse, su lugar de residencia y su jurisdicción territorial.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
 ### CAPITULO II. De la Hacienda Pública
 
 ###### ARTICULO 110.
 
-Ningún funcionario judicial podrá tener ocupación o empleo diverso, con excepción de los docentes cuyo desempeño no perjudique las funciones o labores propias de su cargo.
+Ningún Servidor Público del Poder Judicial podrá tener ocupación o empleo diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
 ###### ARTICULO 111.
 
-El Gobernador podrá pedir ante la Legislatura del Estado la destitución, por mala conducta, de cualquiera de los magistrados del Tribunal Superior de Justicia y de los jueces del orden común. En estos casos, si la Legislatura del Estado declara por mayoría absoluta de votos justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, independientemente de cualquier responsabilidad legal en que hubiera incurrido, procediéndose a nueva designación.
-
-El Gobernador del Estado, antes de pedir a la Legislatura la destitución de algún funcionario judicial, oirá a éste en loprivado(sic), a efecto de poder apreciar la justificación de tal solicitud.
+El Gobernador podrá pedir a la Legislatura del Estado o la Diputación Permanente, en su caso, la destitución por mala conducta, de cualquiera de los Magistrados del Tribunal Superior de Justicia, y de los Jueces del Orden Común. En estos casos, si la Legislatura del Estado declara por mayoría absoluta de votos justificada la petición, el servidor público acusado quedará privado desde luego de su puesto, independientemente de cualquiera responsabilidad legal en que hubiera incurrido, procediéndose a nueva designación.
 
 ## TITULO QUINTO. De la División de Poderes
 
@@ -1127,13 +1195,15 @@ El Municipio Libre, es una entidad de carácter público dotada de personalidad 
 
 Cada municipio será administrado por un ayuntamiento de elección popular directa en los términos de la Ley Electoral y no habrá ninguna autoridad intermedia entre éste y el gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
 ###### ARTICULO 128.
 
-Los municipios podrán tener representación en los organismos oficiales, federales y estatales que realicen obras dentro de su circunscripción.
+Los Municipios podrán tener representación en los organismos Oficiales, federales y estatales que realicen obras dentro de su circunscripción.
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 1983)</small>
+Los Municipios, en los términos de las Leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana, otorgar licencias y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
 
-Los municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+Los Municipios en el ámbito de su competencia, sujetándose a las Leyes de la Materia, federales y estatales, planearán y regularán de manera conjunta y coordinada el desarrollo de los centros urbanos que por encontrarse situados en dos o más territorios municipales formen o tiendan a formar una continuidad geográfica y demográfica.
 
 ###### ARTICULO 129.
 
@@ -1281,7 +1351,7 @@ d) Subsidios, legados, donaciones, o por cualquier otra causa.
 
 El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO V. Del Gobierno Municipal
 
@@ -1289,13 +1359,13 @@ Concepto e Integración
 
 ###### ARTICULO 145.
 
-Los Ayuntamientos se integran de la siguiente forma:
+Los Ayuntamientos se integran en la siguiente forma:
 
-I. En los Municipios de Othón P. Blanco y Benito Juárez, con un Presidente, un Síndico, 7 Regidores electos según el principio de mayoría relativa y hasta tres regidores electos según el principio de representación proporcional.
+I.- En los municipios de Othón P. Blanco y Benito Juárez, con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y hasta tres regidores electos según el principio de representación proporcional.
 
-II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas e Isla Mujeres, con un Presidente, un Síndico, 5 Regidores de Mayoría Relativa y hasta 2 regidores de representación proporcional.
+II.- En los municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas e Isla Mujeres, con un Presidente, un Síndico, seis Regidores de mayoría relativa y hasta dos Regidores de representación proporcional.
 
-Se elegirá un suplente para el Síndico y uno para cada regidor.
+Se elegirá un suplente para el Síndico y uno para cada Regidor.
 
 ###### ARTICULO 146.
 
@@ -1303,7 +1373,7 @@ Ningún ciudadano puede excusarse de servir al cargo de presidente, síndico o r
 
 ### CAPITULO VI. De la Elección del Ayuntamiento
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
 ###### ARTICULO 147.
 
@@ -1313,21 +1383,33 @@ El ayuntamiento reside en la cabecera del municipio y sus miembros durarán tres
 
 Los miembros del Ayuntamiento se elegirán por sufragio universal directo, libre y secreto de los ciudadanos quintanarroenses en ejercicio de sus derechos, mediante el sistema electoral mixto de mayoría relativa y de representación proporcional conforme a las bases siguientes.
 
-I. En los Municipios de Othón P. Blanco, y Benito Juárez, cada Partido Político postulará una lista de nueve personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas e Isla Mujeres, cada partido político postulará una lista de siete personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+I. En los Municipios de Othón P. Blanco, y Benito Juárez, cada Partido Político postulará una lista de once personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas e Isla Mujeres, cada Partido Político postulará una lista de ocho personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
 
 II. El Partido Político que obtenga mayoría de votos acreditará a sus miembros en los cargos para los que fueron postulados.
 
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
+
 III. Los cargos de Regidores de representación proporcional, se asignarán a los partidos políticos que hayan obtenido por lo menos el 1.5 por ciento del total de votos válidos emitidos en los Municipios donde hubieren participado; excepto el Partido Político que haya obtenido mayoría de votos. Para la Asignación se observará lo dispuesto en la Ley Electoral del Estado, la que reglamentará las fórmulas electorales y los procedimientos que se establezcan.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
 ###### ARTICULO 149.
 
-Para ser miembro de un ayuntamiento se requiere:
+Para ser miembros de un Ayuntamiento se requiere:
 
-I.- Ser ciudadano quintanarroense en ejercicio de sus derechos políticos.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
-II.- Estar avecindado en el municipio por un período no menor de un año inmediato anterior al día de la elección.
+I.- Ser ciudadano quintanarroense en ejercicio de sus derechos políticos, con 6 años de residencia en el Estado.
 
-III.- Tener 21 años de edad, al día de la elección.
+II.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 1983)
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+III.- Tratándose de regidores, tener 18 años de edad el día de la elección, y 21 años de edad para los demás miembros del Ayuntamiento.
 
 IV.- Ser persona de reconocida buena conducta.
 
@@ -1355,27 +1437,35 @@ Los presidentes municipales, síndicos y regidores de los ayuntamientos que haya
 
 En las ausencias temporales del presidente municipal pasará a desempeñar sus funciones el primer regidor.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
 ###### ARTICULO 154.
 
-En caso de falta absoluta del presidente municipal, el ayuntamiento por mayoría de votos y en sesión presidida por el síndico, elegirá de entre los regidores a quien deba sustituirlo.
+En caso de falta absoluta del Presidente Municipal, la Legislatura del Estado, o la Diputación Permanente, en su caso, designarán al ciudadano quintanarroense que deba sustituirlo. En todo caso, el designado deberá satisfacer los requisitos contenidos en el artículo 149 de esta Constitución y rendirá la Protesta de Ley.
 
 ### CAPITULO VIII. De las Facultades y Obligaciones del Ayuntamiento
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
 ###### ARTICULO 155.
 
 En caso de falta absoluta del síndico o regidores, el ayuntamiento llamará a los suplentes respectivos, quienes rendirán la protesta y asumirán el desempeño del cargo.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
 ###### ARTICULO 156.
 
-Cuando no se hubiere verificado la elección en la fecha que debe renovarse el Ayuntamiento, o efectuada ésta, no se presentaren sus miembros al tomar posesión de sus cargos y conforme a la ley no procediera que entraren en funciones los suplentes, la Legislatura del Estado o la Diputación Permanente en su caso, nombrará de entre los vecinos a una junta de Gobierno Municipal que asumirá provisionalmente las funciones del Ayuntamiento y convocará a elecciones extraordinarias, las que en todo caso deberán celebrarse en un plazo no mayor de 45 días.
+Cuando no se hubiere verificado la elección en la fecha que debe renovarse el Ayuntamiento, o efectuada ésta, no se presentaren sus miembros a tomar posesión de su cargo y conforme a la Ley no procediera que entraren en funciones los suplentes, la Legislatura del Estado o la Diputación Permanente, en su caso, nombrará un Concejo Municipal que asumirá provisionalmente las funciones del Ayuntamiento y convocará a elecciones extraordinarias, las que en todo caso, deberán celebrarse en un plazo no mayor de 45 días.
 
-El mismo procedimiento se seguirá cuando la elección se declare nula o cuando por cualquier causa, desaparezca el Ayuntamiento dentro del primer año de su ejercicio.
+El mismo procedimiento se seguirá cuando la elección se declare nula, o cuando por cualquier causa desaparezca el Ayuntamiento dentro del primer año de su ejercicio.
 
-Cuando la desaparición de poderes se dé en los dos últimos años del período del Gobierno Municipal, la Legislatura del Estado o la Diputación Permanente en su caso, nombrará entre los vecinos a un concejo municipal que concluirá el periodo de Gobierno.
+Cuando la desaparición de poderes se dé en los dos últimos años del período del Gobierno Municipal, la Legislatura del Estado o la Diputación Permanente, en su caso, nombrará entre los vecinos a un Concejo Municipal que concluirá el período de Gobierno.
 
-### CAPITULO IX. De los Titulares del Gobierno Municipal
+En todo caso los miembros de los Concejos Municipales satisfarán los requisitos exigidos para ser miembros del Ayuntamiento y rendirán la protesta de Ley.
+
+### CAPITULO IX. Del Gobierno Municipal y sus Titulares
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
 ###### ARTICULO 157.
 
@@ -1423,6 +1513,22 @@ Los procedimientos para la aplicación de las sanciones mencionadas se desarroll
 
 No podrá imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+V.- La Ley de Responsabilidades de los Servidores Públicos, determinará las obligaciones de éstos, las sanciones aplicables por los actos u omisiones indebidos que señala este Título, los procedimientos a seguir y las Autoridades encargadas de su aplicación.
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+VI.- La Ley Orgánica Municipal determinará en los términos del primer párrafo de este Artículo y para efectos de sus responsabilidades, el carácter de servidores públicos de quienes desempeñen empleo, cargo o comisión en los ayuntamientos.
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+VII.- En los juicios de orden civil no existe fuero ni inmunidad de ningún servidor público.
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+VIII.- Las declaraciones y resoluciones que se dicten a quienes se sujeten a juicio político son inatacables.
+
 ###### ARTICULO 171.
 
 La responsabilidad oficial sólo podrá exigirse durante el tiempo que el funcionario o empleado desempeñe el encargo, y hasta un año después.
@@ -1433,15 +1539,15 @@ La responsabilidad oficial sólo podrá exigirse durante el tiempo que el funcio
 
 El Gobernador del Estado, durante el período de su encargo, sólo podrá ser acusado por los delitos de traición a la Patria y delitos graves del Orden Común.
 
-> <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
 ###### ARTICULO 173.
 
-Siempre que se trate de alguno de los funcionarios especificados en la fracción XVII del artículo 75, y del (sic) delito fuere de orden común, la Legislatura, erigida en Gran Jurado, declarará si ha lugar o no a proceder contra el acusado. En caso afirmativo, por esa sola declaración quedará el acusado separado de su encargo y sujeto a la autoridad judicial correspondiente.
+Siempre que se trate de alguno de los servidores públicos especificados en la fracción XVII del Artículo 75, y el delito fuere de orden común, la Legislatura, erigida en Gran Jurado, declarará si ha lugar o no a proceder contra el acusado. En caso afirmativo, por esa sola declaración quedará el acusado separado de su encargo y sujeto a la autoridad judicial correspondiente.
 
 ###### ARTICULO 160.
 
-Son facultades y obligaciones de los ayuntamientos:
+Son facultades y obligaciones del Ayuntamiento:
 
 I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estatales y municipales.
 
@@ -1455,11 +1561,11 @@ IV.- Nombrar y remover al secretario y tesorero, a propuesta del presidente muni
 
 V.- Conceder licencias a sus miembros hasta por treinta días y convocar a quienes deban suplirlos.
 
-VI.- Designar al regidor que deba sustituir al presidente municipal en caso de falta absoluta de éste y convocar a los suplentes del síndico o regidores en los casos de falta absoluta de éstos.
+VI.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 1983)
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
-VII.- Mantener los servicios de seguridad pública Municipal y Tránsito.
+VII.- Mantener los servicios de Seguridad Pública y Tránsito Municipal de conformidad al contenido de la Fracción VIII del Artículo 163.
 
 VIII.- Establecer en el territorio del municipio las delegaciones y subdelegaciones necesarias.
 
@@ -1479,9 +1585,33 @@ XIV.- Rendir a la Legislatura del Estado, la cuenta anual del gasto público, en
 
 XV.- Promover el desenvolvimiento político, económico, social y cultural de la comunidad.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
 ###### ARTICULO 161.
 
-Corresponde al presidente, síndico y regidores, el ejercicio del gobierno municipal y la representación de los intereses de la comunidad.
+Los Municipios de la Entidad con el concurso del Poder Ejecutivo del Estado, cuando así fuere necesario y lo determinen las leyes, tendrá a su cargo los siguientes servicios públicos:
+
+a).- Alumbrado Público.
+
+b).- Limpia.
+
+c).- Mercados y Centrales de Abasto.
+
+d).- Panteones.
+
+e).- Rastros.
+
+f).- Calles, Parques y Jardines.
+
+g).- Seguridad Pública y Tránsito, y
+
+h).- Las demás que la Legislatura determine de conformidad a las condiciones territoriales, socioeconómicas y de la capacidad administrativa y financiera en cada caso.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+###### ARTICULO 161
+
+BIS.- Corresponde al Presidente, Síndico y Regidores el ejercicio del Gobierno Municipal y la representación de los intereses de la comunidad.
 
 ###### ARTICULO 162.
 
@@ -1505,7 +1635,11 @@ VI.- Nombrar y remover a los delegados, subdelegados, alcaides y personal admini
 
 VII.- Convocar al ayuntamiento a sesiones de acuerdo con lo establecido en el reglamento interior.
 
-VIII.- Tener bajo su mando los cuerpos de seguridad para la conservación del orden público, con excepción de las facultades reservadas al Gobernador.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+VIII.- Tener bajo su mando los cuerpos de Seguridad Pública y Tránsito para la conservación del orden público, con excepción de las facultades reservadas al Gobernador.
+
+Los Cuerpos de Seguridad Pública y Tránsito de los Municipios, coordinarán sus actividades con los de Seguridad Pública y Tránsito del Estado, de conformidad al Reglamento respectivo.
 
 IX.- Solicitar la autorización del ayuntamiento para ausentarse del municipio por más de quince días.
 
@@ -1525,9 +1659,43 @@ XI.- Las demás que le confieran las disposiciones legales aplicables.
 
 La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que la Legislatura del Estado, por el voto de las dos terceras partes de la totalidad de sus miembros, acuerde las reformas o adiciones y que éstas sean aprobadas por la mayoría de los Ayuntamientos del Estado. La Legislatura o la Diputación Permanente, en su caso, harán el cómputo de los votos de los ayuntamientos, y la declaración de haber sido aprobadas las adiciones o reformas.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
 ###### ARTICULO 164.
 
 El síndico tiene a su cargo la vigilancia de la hacienda pública municipal.
+
+## TITULO DECIMO. Prevenciones Generales
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+###### ARTICULO 175.
+
+El Gobernador del Estado, el Secretario de Gobierno, el Oficial Mayor, los Secretarios del Despacho, el Contralor de Gobierno, el Procurador del Estado, los Magistrados del Tribunal Superior, los Diputados de la Legislatura y los demás servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en el presupuesto de egresos del Estado o en los presupuestos de las Entidades paraestatales, según corresponda.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+###### ARTICULO 176.
+
+Ninguna Autoridad impondrá préstamos forzosos, ni se hará gasto alguno que no esté determinado en los presupuestos de egresos o que no sea aprobado por la Legislatura. Incurrirán en responsabilidad los servidores públicos que así lo ordenen.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+###### ARTICULO 177.
+
+Las adquisiciones, contratos de obra, enajenaciones y todo tipo de servicios de cualquier naturaleza que se realicen, se adjudicarán, o llevarán a cabo, a través de licitaciones públicas mediante convocatorias a fin de asegurar al Estado las mejores condiciones de precio, calidad, financiamiento, oportunidad y demás particularidades referentes, de conformidad a la ley reglamentaria que establecerá los montos mínimos para la aplicación de este precepto, las bases, procedimientos, reglas, requisitos y demás circunstancias pertinentes.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+###### ARTICULO 178.
+
+Los cargos de elección popular son preferentes a los de nombramiento, y renunciables sólo por causa grave, que calificará la entidad a quien corresponda conocer las renuncias.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+###### ARTICULO 179.
+
+Todo cargo, comisión o empleo público es incompatible con algún otro, federal o estatal, cuando por ambos se perciba un sueldo, salvo los docentes.
 
 ## TITULO NOVENO
 
@@ -1578,6 +1746,12 @@ V.- De readaptación social.
 ###### ARTICULO 169.
 
 La Ley Orgánica determinará la organización y funcionamiento de las dependencias administrativas del ayuntamiento y los requisitos, facultades y obligaciones de sus titulares.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+
+###### ARTICULO 169
+
+BIS.- Las relaciones laborales entre el Estado, los Municipios y Organismos Descentralizados con sus trabajadores y servidores públicos, se regirán por las leyes que expida la Legislatura del Estado, respetando las bases fundamentales contenidas en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y leyes reglamentarias. Los Municipios observarán estas mismas reglas por lo que a sus trabajadores se refiere.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -1700,3 +1874,9 @@ CUARTO.- En tanto se deroga en lo conducente la Ley de Tránsito y Explotación 
 P.O. 29 DE JULIO DE 1983.
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 1983.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas y adiciones a esta Ley entrarán en vigor al día siguiente de su publicación en le Periódico Oficial del Estado.
