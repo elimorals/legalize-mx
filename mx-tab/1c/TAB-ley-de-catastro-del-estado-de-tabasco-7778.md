@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-catastro-del-estado-de-tabasco-7778"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-23"
-last_updated: "1993-01-23"
+last_updated: "2000-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE CATASTRO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2000.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el 23 de Enero de 1993.
 
@@ -95,9 +95,11 @@ Para los efectos catastrales, la propiedad de raíz se clasifica en: predios urb
 
 Todos los bienes inmuebles deberán estar inscritos por sus propietarios o poseedores en el Padrón Catastral.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 6.
 
-Los actos y resoluciones en materia de Catastro serán tramitados en la forma, términos y procedimientos establecidos en la presente Ley. A falta de disposiciones expresas, deberán considerarse como normas supletorias las disposiciones jurídicas relativas.
+Los actos y resoluciones en materia de catastro serán tramitados en la forma, términos y procedimientos establecidos en la presente Ley.
 
 ###### Artículo 7.
 
@@ -131,7 +133,7 @@ F) Los propietarios de los predios cuando hayan otorgado su posesión en virtud 
 
 G) Los fraccionadores cuando no trasmitan el dominio;
 
-H) Los propietarios de construcciones levantadas en terrenos que no sean de su propiedad;
+H) (DEROGADO, P.O. 18 DE NOVIEMBRE DE 2000)
 
 I) Las empresas o sociedades de crédito que refaccionen o hagan liquidaciones con deducción de gravámenes;
 
@@ -153,17 +155,33 @@ C) Los usufructuarios del predio.
 
 Para los efectos de la presente Ley se entenderá por:
 
-Actualización de Valores: Procedimiento puesto en práctica por la autoridad catastral para determinar los Valores Unitarios correspondientes al mismo.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
-Avalúo: Acción de otorgar valor a un predio que se formula tomando como base los lineamientos que establece esta Ley. El avalúo podrá ser definitivo o provisional.
+Actualización de Valores: Procedimiento técnico puesto en práctica por la autoridad catastral para determinar los valores unitarios de suelo y construcción, tanto de predios urbanos como rústicos.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Avalúo: Acción de otorgar valor a un predio que se formula tomando como base los lineamientos que establece esta Ley y su Reglamento.
 
 Bienes inmuebles: Son los señalados como tales por el Código Civil del Estado.
 
-Cartografía: Conjunto de mapas y planos que contienen las delimitaciones y deslindes de los bienes inmuebles.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Cartografía: Mapas y planos que contienen las delimitaciones y deslindes, así como la información técnica de los bienes inmuebles.
 
 Certificado de Valor Catastral: Documento que acredita el Valor Catastral de un predio, para cualquier efecto.
 
-Clave Catastral: Identificador único que se asigna a cada predio en el momento de su inscripción en el Padrón Catastral.
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Cédula Catastral: Documento que comprueba que un predio se encuentra registrado en el catastro y que contiene la información de las características principales del mismo.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Condominio: Inmueble que consta de diferentes departamentos, viviendas, casas o locales, susceptibles de aprovechamiento independiente por tener salida a un elemento común de aquél o a la vía pública, perteneciente a distintos propietarios, cada uno de los cuales tiene un derecho singular y exclusivo de propiedad y, además, un derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarias para su adecuado uso o disfrute.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Clave Catastral: Identificador numérico único que se asigna a cada predio para su ubicación en la cartografía.
 
 Construcciones: Edificaciones de cualquier tipo, destino y uso adheridas al inmuebles (sic), en condiciones que no puedan separarse del suelo sin deterioro de la propia construcción.
 
@@ -171,7 +189,15 @@ Construcciones Ruinosas: Las que por su estado de conservación o estabilidad, r
 
 Deslinde: Identificación y determinación de los límites de un predio.
 
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Demasía: Superficie de terreno o predio que excede de sus límites legales.
+
 Fraccionamiento: La división de un terreno en manzanas y lotes, que requiera del trazo de una o más vías públicas que incluya obras de urbanización.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Fusión de Predios: Unión en un solo predio de dos o más terrenos colindantes.
 
 Inconformidad: Recurso legal para impugnar la información asentada en el Padrón Catastral o en contra de actos sobre medidas, propietarios y avalúos que puedan afectar al predio.
 
@@ -179,17 +205,27 @@ Instructivo de Valuación, Revaluación y Deslinde: Conjunto de normas y procedi
 
 Lote: Predio resultante de un fraccionamiento o de una lotificación.
 
-Lotificación: División de terrenos en lotes para su enajenación, cuando tales terrenos se encuentren comprendidos en una área urbanizada.
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
-Manifestación Catastral: Documento que el interesado utiliza para pedir que se inscriba un predio en el Catastro, o bien para manifestar alguna modificación a las características del mismo.
+Lotificación: División de terreno en lotes cuya superficie total no exceda de dos mil quinientos metros cuadrados y se encuentre en un área urbanizada y que no requiera de vía pública.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Manifestación Catastral: Solicitud del interesado, a través del formato único, para que se inscriba el predio en el Catastro o para manifestar alguna modificación a las características del mismo; formato en el cual la autoridad catastral expide la respuesta correspondiente.
 
 Notificación: Acto por el cual se da a conocer en forma legal a los interesados, por escrito, el resultado de la actividad catastral sobre un predio determinado, y la expresión de sus características cualitativas y cuantitativas.
 
-Padrón Catatral (sic): Conjunto de registros en los que se contiene los datos generales y particulares de los bienes inmuebles ubicados en el territorio del Estado.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
-Perímetro Urbano: Contorno que se fija como límite de la zona urbana.
+Padrón Catastral: Conjunto de registros alfanuméricos que contiene los datos generales y particulares de los bienes inmuebles ubicados en el territorio del Estado.
 
-Predio: Bien inmuebles (sic) conformado por un terreno comprendido dentro de un perímetro, con construcción o sin ella, que pertenezca en propiedad, posesión o por cualquier otro título a una o varias personas.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Perímetro Urbano: Contorno que se fija como límite en las zonas urbanas.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Predio: Bien inmueble conformado por un terreno debidamente delimitado con construcción o sin ella.
 
 Predio Edificado: El que tiene construcciones; no se entienden como tales las bardas perimetrales.
 
@@ -203,13 +239,25 @@ Predio Urbano: El que se encuentra ubicado dentro de una zona urbana.
 
 Propiedad Raíz: Bienes inmuebles ubicados en el territorio del Estado.
 
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Plano: Representación gráfica y técnica en proyección horizontal de las diferentes partes de un predio.
+
 Revaluación Catastral: Conjunto de actividades técnicas para asignar un nuevo Valor Catastral a un predio.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Relotificación: Modificación que se haga al plano de lotificación aprobado y registrado por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Subdivisión: La división de un terreno o predio en hasta cinco fracciones que no requiere del trazo de vía pública, respetando, en su caso, la superficie del lote mínimo.
 
 Tabla de Valores Unitarios: Conjunto de los valores del suelo y de la construcción, por unidad de medida, y que se utiliza en la valuación de los predios, previa aprobación según se establece en la presente Ley.
 
 Valor Catastral: El asignado a cada uno de los predios ubicados en el territorio del Estado, de acuerdo con los procedimientos a que se refiere esta Ley.
 
-Valor Provisional: El que se asigna al predio en base a sus datos de acuerdo a los procedimientos establecidos en esta Ley.
+Valor Provisional: (DEROGADO, P.O. 18 DE NOVIEMBRE DE 2000)
 
 Valores Unitarios de Suelo: Los determinados para el suelo, por unidad de superficie, en cada zona catastral.
 
@@ -217,11 +265,15 @@ Valores Unitarios de Construcción: Los determinados para las distintas clasific
 
 Valuación Catastral: Conjunto de actividades técnicas realizadas para signar un Valor Catastral por primera vez a un predio.
 
-Zonas Catastrales: Areas relativamente homogéneas en las que se presentan características específicas similares en cuanto a usos del suelo, servicios públicos, tipo de desarrollo, densidad de población, tipo y calidad de las construcciones e índice socioeconómico.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Zona Catastral: Area relativamente homogénea en la que se presentan características específicas similares en cuanto a usos del suelo, servicios públicos, tipos de desarrollo, densidad de población, tipo y calidad de las construcciones e índice socioeconómico demarcado en manzanas y lotes.
 
 Zonificación Catastral: Demarcación del territorio del Estado en zonas catastrales, manzanas y lotes, de acuerdo con las características señaladas en esta Ley, y en los instructivos aplicables.
 
-Zona Urbana: Constituye una unidad territorial, que cuenta con traza y al menos dos de los servicios siguientes: agua potable, electrificación, drenaje, pavimentación de calles, banquetas y telefonía.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Zona Urbana Catastral: Constituye una unidad territorial que cuenta con una traza urbana y por lo menos con dos de los servicios públicos siguientes: agua potable, energía eléctrica, alumbrado público, drenaje, pavimentación, guarniciones, banquetas, telefonía y transporte en general.
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -229,17 +281,27 @@ Zona Urbana: Constituye una unidad territorial, que cuenta con traza y al menos 
 
 Son autoridades en materia de Catastro:
 
-I.- El Gobernador del Estado.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
-II.- El Secretario de Finanzas.
+II.- El Secretario de Planeación y Finanzas.
 
-III.- El Departamento de Catastro e Impuesto Predial.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
-IV.- Los ayuntamientos o Concejos Municipales, en los términos de esta Ley.
+III.- El Director General de Ingresos.
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+IV.- El Jefe de la Unidad de Catastro; y
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+V.- El Tesorero o Director de Finanzas Municipal.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 10.
 
-La elaboración del Catastro en el Estado estará a cargo de la Secretaría de Finanzas, por conducto del Departamento de Catastro e Impuesto Predial. La Secretaría de Finanzas podrá delegar en los ayuntamientos o Concejos Municipales las facultades en materia de Catastro.
+La elaboración del Catastro en el Estado estará a cargo de la Secretaría de Planeación y Finanzas, por conducto de la Unidad de Catastro. Dicha Secretaría podrá delegar, mediante convenios, en los Ayuntamientos o Concejos Municipales, las facultades en materia de Catastro, a excepción de las que se señalan en el artículo 36 de esta Ley.
 
 ###### Artículo 11.
 
@@ -247,15 +309,21 @@ Compete al Gobernador del Estado:
 
 I.- Establecer las políticas, normas y lineamientos generales del Catastro y evaluar su cumplimiento.
 
-II.- Instruir la formulación de los valores unitarios de terrenos y de construcción para las zonas catastrales comprendidas en el Estado y someterlos a la aprobación del Congreso del Estado.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+II.- Instruir la formulación de las Zonas Catastrales comprendidas en el Estado y someterlas a la aprobación del Congreso del Estado; y
 
 III.- Las demás que determine esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 12.
 
-Compete a la Secretaría de Finanzas:
+Compete a la Secretaría de Planeación y Finanzas:
 
-I.- Proponer al Congreso del Estado la zonificación catastral y las tablas valores unitarios de suelo y de construcción.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+I.- Proponer al Titular del Ejecutivo, para su trámite ante el Congreso del Estado, la Zonificación Catastral.
 
 II.- Establecer políticas y programas tendientes a cumplir los objetivos del Catastro.
 
@@ -273,9 +341,11 @@ VIII.- Expedir los Acuerdos Delegatorios de Facultades, correspondientes.
 
 IX.- Las demás facultades que señale esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 13.
 
-Compete al Departamento de Catastro e Impuesto Predial:
+Compete a la Unidad de Catastro:
 
 I.- Formular las normas técnicas y administrativas aplicables a la identificación, registro, valuación y revaluación y deslindes de bienes inmuebles.
 
@@ -283,7 +353,9 @@ II.- Formar y conservar al Catastro por medio de los sistemas técnicos más apr
 
 III.- Integrar los Registros Catastrales.
 
-IV.- Elaborar y mantener actualizada la Cartografía Catastral.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+IV.- Elaborar y mantener actualizada la cartografía catastral en base a la normatividad establecida.
 
 V.- Asignar clave y determinar el Valor Catastral a los bienes inmuebles.
 
@@ -297,13 +369,21 @@ VIII.- Auxiliar en el deslinde y descripción de los perímetros divisorios entr
 
 Compete a los Ayuntamientos o Concejos Municipales:
 
-I.- Colaborar con la Secretaría de Finanzas en la elaboración de la zonificación catastral y las tablas de valores unitarios de suelo y de construcción.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
-II.- Apoyar a la Secretaría de Finanzas en los estudios para determinar los límites del territorio del Estado y de los municipios.
+I.- Colaborar con la Secretaría de Planeación y Finanzas en la elaboración de la Zonificación Catastral.
 
-III.- Participar con la Secretaría de Finanzas en los procesos de valuación y revaluación de los predios en el territorio del municipio.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
-IV.- Las demás que siendo atribuibles a la Secretaría de Finanzas, las delegue al Ayuntamiento o Concejo Municipal mediante acuerdo de colaboración administrativa en los términos de la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco.
+II.- Apoyar a la Secretaría de Planeación y Finanzas en los estudios para determinar los límites del territorio del Estado y de los municipios.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+III.- Participar con la Secretaría de Planeación y Finanzas en los procesos de evaluación y revaluación de los predios en el territorio del municipio; y
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+IV.- Las demás que siendo atribuibles a la Secretaría de Planeación y Finanzas las delegue al Ayuntamiento o Concejo Municipal, mediante convenio o acuerdo de colaboración administrativa, en los términos de la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco.
 
 ### CAPITULO TERCERO. DE LAS OBLIGACIONES
 
@@ -313,105 +393,153 @@ IV.- Las demás que siendo atribuibles a la Secretaría de Finanzas, las delegue
 
 Los propietarios o poseedores de los predios, definitivos en los términos del Artículo 7 de esta Ley, ubicados dentro del territorio del Estado, deberán inscribirlos en el Padrón Catastral, señalar sus características físicas, ubicación y uso, así como los datos socioeconómicos y estadísticos necesarios para cumplir con los objetivos del Catastro.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 16.
 
-Las personas físicas o morales que adquieran la propiedad o posesión de predios, deberán manifestarlos de inmediato al Departamento de Catastro e Impuesto Predial.
+Las personas físicas o jurídicas colectivas que adquieran la propiedad o posesión de predios deberán inscribirlos, en un plazo no mayor de cuarenta y cinco días hábiles siguientes, ante la autoridad catastral correspondiente, en los formatos autorizados y requisitos establecidos en el Reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 17.
 
-Los propietarios y poseedores de los predios ubicados dentro del territorio del Estado deberán manifestar al Departamento de Catastro e Impuesto Predial, cualquier modificación de las características de sus predios o a su régimen legal, para la actualización de sus registros, dentro de un plazo de 15 días hábiles contados a partir de la fecha en que se hubiere hecho la modificación.
+Para la actualización de sus registros, los propietarios y poseedores de los predios deberán manifestar a la autoridad catastral cualquier modificación de las características de sus predios o régimen legal, dentro de un plazo de quince días hábiles, contados a partir de la fecha en que se hubiere hecho la modificación.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 18.
 
-Los propietarios o poseedores de un predio tienen la obligación de proporcionar al personal del Departamento de Catastro e Impuesto Predial debidamente autorizado, los datos e informes que les sean solicitados acerca de dicho predio, dando toda clase de facilidades para la realización de los trabajos catastrales.
+Los propietarios o poseedores de un predio tienen la obligación de proporcionar a los servidores públicos, autorizados por las autoridades catastrales, los datos e informes que les sean solicitados acerca de dicho predio, dando toda clase de facilidades para la realización de los trabajos catastrales.
 
 #### SECCION SEGUNDA. OBLIGACIONES DE LOS TERCEROS
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 19.
 
-Los notarios públicos, jueces o cualquier otro funcionario que tenga fe pública y que intervenga en el otorgamiento de contratos que pretendan modificar o trasmitir el dominio directo de un predio tienen la obligación de manifestar por escrito en las formas oficiales respectivas, dentro de los 15 días hábiles siguientes a la fecha de los contratos, disposiciones o resoluciones y de las operaciones que se realicen sobre la propiedad de raíz.
+Los notarios públicos, jueces o cualquier otro servidor público que tenga fe pública y que intervenga en el otorgamiento de contratos, disposiciones o resoluciones de las operaciones sobre la propiedad raíz, que modifiquen o transmitan el dominio directo de un predio, tienen la obligación de manifestarlo por escrito y en las formas oficiales a la autoridad catastral correspondiente, conforme al capítulo respectivo del Reglamento de la presente Ley, dentro de los quince días hábiles siguientes a la fecha de tales actos.
 
 ###### Artículo 20.
 
 El Registro Público de la Propiedad y del Comercio no podrá inscribir en sus registros ningún acto, contrato o instrumento notarial sin que le acompañe la Manifestación Catastral debidamente requisitada, que ampare el predio de referencia.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 21.
 
-Las dependencias y las entidades de la Administración Pública estatal, federal y municipal, están obligadas a proporcionar al Departamento de Catastro e Impuesto Predial toda la información que éste solicite, en relación con sus actividades catastrales, para el mejor desempeño de sus funciones.
+Las dependencias y entidades de la administración pública federal, estatal y municipal, están obligadas a proporcionar a las autoridades catastrales toda la información que se les solicite, en relación a sus actos que afecten a la propiedad raíz.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 22.
 
-Las dependencias y entidades de la Administración Pública Federal, estatal y municipal, están obligadas a proporcionar al Departamento de Catastro e Impuesto Predial información de los predios de su propiedad o posesión dentro del territorio del Estado, de tal forma que el mismo Departamento pueda plenamente identificar los terrenos y construcciones que sean de dominio público y aquéllos que no lo sean.
+Las dependencias y entidades de la administración pública federal, estatal y municipal, están obligadas a proporcionar a las autoridades catastrales, información de los predios de su propiedad o posesión dentro del territorio del Estado, de tal forma que la misma autoridad pueda plenamente identificar los terrenos y construcciones que sean de dominio público o privado.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 23.
 
-Las autoridades, dependencias o instituciones que intervengan o autoricen operaciones que por cualquier motivo modifiquen las características de la propiedad raíz o de un predio en particular, están obligadas a manifestarlo al Departamento de Catastro e Impuesto Predial dentro de un plazo de 30 días hábiles.
+Las autoridades, dependencias o instituciones que intervengan o autoricen operaciones que por cualquier motivo modifiquen las características de un inmueble, están obligadas a manifestarlo a la autoridad catastral correspondiente, dentro de un plazo de quince días hábiles, contados a partir de que tengan conocimiento.
 
-De igual modo darán aviso al Departamento de Catastro e Impuesto Predial de la terminación de construcciones, la instalación de servicios, la apertura de vías públicas, el cambio de nomenclatura de calles, o la realización de cualquier obra pública o privada que implique la modificación de las características de los predios o de sus servicios.
+Asimismo, darán aviso a las autoridades catastrales correspondientes de la terminación de construcciones, la instalación de servicios, la apertura de vías públicas, el cambio de nomenclatura de calles, o la realización de cualquier obra pública o privada que implique la modificación de las características de los predios o de sus servicios.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 24.
 
-Para el otorgamiento de licencia o autorización para fraccionar, subdividir, relotificar o fusionar un predio, la autoridad competente requerirá del solicitante la Certificación de Clave y Valor Catastral respectivos. Asimismo, enviará mensualmente al Departamento de Catastro e Impuesto Predial una relación de las licencias y autorizaciones que hayan sido otorgadas, así como de los Avisos de Terminación de Obras.
+Para el otorgamiento de licencia o autorización para fraccionar, subdividir, relotificar o fusionar un predio, la autoridad competente requerirá del solicitante la Certificación de Clave Catastral y el Valor Catastral respectivos.
+
+La autoridad que lleve a cabo cualesquiera de los actos a que se refiere el párrafo anterior, deberá enviar mensualmente a la autoridad catastral una relación de las licencias y autorizaciones que haya otorgado, así como los avisos de terminación de obras.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 25.
 
-La autoridad competente remitirá al Departamento de Catastro e Impuesto Predial copia del acta o del documento en el que se hubiere hecho constar la terminación de las obras de urbanización de los fraccionamientos. En aquellos casos en que la misma autoridad estime procedente la autorización para la venta de lotes y casas, sin estar terminada la totalidad de las obras de urbanización, remitirá al Departamento de Catastro e Impuesto Predial copia del documento en el que se otorga dicha autorización.
+En el caso de terminación de las obras de urbanización de los fraccionamientos, la autoridad competente deberá enviar a la autoridad catastral respectiva, copia del acta o del documento en el que se haya hecho constar la terminación de dicha obra, dentro de los quince días siguientes, computados a partir de la fecha de expedición de los citados documentos.
+
+En aquellos casos en que la autoridad estime procedente otorgar la autorización para la venta de lotes y casas, sin estar terminada la totalidad de las obras de urbanización, remitirá a la autoridad catastral copia del documento en el que se otorga la citada autorización.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 26.
 
-Los fraccionadores están obligados a manifestar al Departamento de Catastro e Impuesto Predial en un plazo no mayor de 15 días hábiles, todas las operaciones que realicen respecto de los lotes que forman parte del fraccionamiento, especialmente las que impliquen la modificación del dominio directo de los lotes.
+Los fraccionadores están obligados a manifestar por escrito a la autoridad catastral correspondiente, en un plazo no mayor de quince días hábiles, contados a partir del día siguiente, de las operaciones que realicen respecto de los lotes que forman parte del fraccionamiento, especialmente las que indiquen las modificaciones del dominio directo de los mismos.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 27.
 
-Para el otorgamiento de licencia de uso del suelo, de construcción, reconstrucción, ampliación o demolición, la autoridad competente requerirá del solicitante la Certificación de la Clave y el Valor Catastral del predio. Asimismo, enviará mensualmente al Departamento de Catastro e Impuesto Predial una relación de las licencias que haya otorgado durante el período.
+Para el otorgamiento de la licencia de uso del suelo, de construcción, reconstrucción, ampliación y demolición, la autoridad competente requerirá del solicitante la Certificación de la Clave Catastral y el Valor Catastral del predio. Asimismo, deberá enviar mensualmente a la autoridad catastral una relación de las licencias que haya otorgado durante el período.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 28.
 
-Las dependencias y entidades de la Administración Pública federal, estatal y municipal que realicen actividades relativas a la construcción de obras para el desarrollo urbano y la vivienda, así como a la regularización de la tenencia de la tierra, deberán informar al Departamento de Catastro e Impuesto Predial las características de dichas obras dentro de los 15 días hábiles siguientes a la iniciación de la obra o vivienda.
+Las dependencias y entidades de la administración pública federal, estatal y municipal que realicen, directamente o a través de terceros, construcción de obras para el desarrollo urbano y la vivienda, así como la regularización de la tenencia de la tierra, deberán informar a la autoridad catastral las características de dichas obras, dentro de los quince días hábiles siguientes a la iniciación de las citadas obras o de la regularización respectiva.
 
 #### SECCION TERCERA. OBLIGACIONES DE LAS AUTORIDADES
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 29.
 
-En el ejercicio de las atribuciones a que se refiere el Artículo 14 de esta Ley, los ayuntamientos o concejos municipales deberán observar las disposiciones contenidas en el presente ordenamiento, así como las normas técnicas y administrativas en materia de Catastro aprobadas por la Secretaría de Finanzas.
+En el ejercicio de las atribuciones a que se refiere el artículo 14 de esta Ley, los Ayuntamientos o Concejos Municipales deberán observar las disposiciones contenidas en el presente ordenamiento, así como las normas técnicas y administrativas en materia de catastro aprobadas por la Secretaría de Planeación y Finanzas.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 30.
 
-Los Ayuntamientos o Concejos Municipales deberán proporcionar a solicitud de la Secretaría de Finanzas, la información relativa para integrar el Padrón Catastral del Estado.
+Los Ayuntamientos o Concejos Municipales deberán proporcionar, a solicitud de la Secretaría de Planeación y Finanzas, la información relativa para integrar el Padrón Catastral del Estado.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 31.
 
-El departamento de Catastro e Impuesto Predial dará aviso, de los trabajos de valuación, revaluación y deslinde, a los propietarios o poseedores de los predios, de acuerdo con lo establecido por el Artículo 62 de esta Ley.
+La autoridad catastral dará aviso de los trabajos de valuación, revaluación y deslinde, a los propietarios o poseedores de los predios, de acuerdo con lo establecido en el artículo 62 de esta Ley.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 32.
 
-El Departamento de Catastro e Impuesto Predial deberá comunicar a los propietarios o poseedores de los predios, mediante notificación, el resultado de la actividad catastral sobre un predio determinado, la expresión de sus características cualitativas y cuantitativas, los avalúos practicados y las resoluciones que dicte, de acuerdo a los establecido (sic) en los Artículos 69 y 70 de la presente Ley.
+La autoridad catastral deberá notificar a los propietarios o poseedores el resultado de la actividad catastral, las características cualitativas y cuantitativas, los avalúos practicados y las resoluciones que dicte respecto de sus predios, conforme a lo establecido en los artículos 69 y 70 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 33.
 
-El Departamento de Catastro e Impuesto Predial deberá tener al día el Valor Catastral de los predios, revaluando constantemente éstos según sean afectados por los factores económicos y sociales que influyan en su valoración de acuerdo a lo establecido en el Artículo 58 de esta Ley.
+La autoridad catastral deberá tener actualizado el valor catastral de los predios, según sean afectados por los factores económicos y sociales que influyan en su valoración, atendiendo a lo ordenado por el artículo 58 de esta Ley.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 34.
 
-El Departamento de Catastro e Impuesto Predial proporcionará información y expedirá constancias y certificaciones de los planos y datos que obren en el Padrón Catastral, previa solicitud por escrito de los interesados y el pago de los derechos correspondientes.
+La autoridad catastral proporcionará información y expedirá constancias y certificaciones de los planos y datos que obren en el Padrón Catastral, previa solicitud por escrito de los interesados y el pago de los derechos correspondientes.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 35.
 
-El Departamento de Catastro e Impuesto Predial facilitará a los ayuntamientos o concejos municipales el uso del Padrón Catastral para el cobro del impuesto predial o para cualquier otro uso.
+La Unidad de Catastro proporcionará a los Ayuntamientos o Concejos Municipales el Padrón Catastral del Estado, según corresponda, para el cobro del impuesto predial o cualquier otro uso.
 
 ## TITULO SEGUNDO. DEL CATASTRO
 
 ### CAPITULO PRIMERO. DE LOS VALORES UNITARIOS
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 36.
 
-La Secretaría de Finanzas propondrá al Congreso del Estado, para su aprobación, la división del territorio del Estado en zonas catastrales, así como las Tablas de Valores Unitarios de Suelo y de Construcción. Una vez que el Congreso del Estado apruebe la zonificación catastral, así como los valores unitarios del suelo y de construcción, éstos serán publicados en el Periódico Oficial del Gobierno del Estado y tendrán vigencia a partir del día siguiente de su publicación.
+Los Ayuntamientos o Concejos Municipales propondrán al Congreso del Estado, los Valores Unitarios de Suelo y de Construcción, los cuales una vez aprobados serán publicados en el Periódico Oficial del Gobierno del Estado.
+
+Los Ayuntamientos o Concejos Municipales conformarán una sola tabla de Valores Unitarios de Construcción para todo el territorio del municipio. Asimismo, elaborarán tabla de Valores Unitarios de Suelo por cada Zona Catastral del municipio.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 37.
 
-Los ayuntamientos o concejos municipales colaborarán con la Secretaría de Finanzas en la zonificación catastral del territorio de sus respectivos municipios, así como en la elaboración de las Tablas de Valores Unitarios de Suelo y de Construcción.
+La Secretaría de Planeación y Finanzas deberá elaborar la Zonificación Catastral del Estado, la que una vez aprobada por el Congreso será publicada en el Periódico Oficial, y podrá auxiliar a los Ayuntamientos o Concejos Municipales en la elaboración de las tablas de Valores Unitarios de Suelo y de Construcción.
 
-Se conformarán una sola Tabla de Valores Unitarios de Construcciones para todo el territorio de un municipio. Asimismo, se elaborará una Tabla de Valores Unitarios de Suelo por cada zona catastral.
+Los Ayuntamientos o Concejos Municipales podrán colaborar con la Secretaría de Planeación y Finanzas en la Zonificación Catastral del territorio de sus respectivos municipios.
 
 ###### Artículo 38.
 
@@ -455,7 +583,11 @@ V.- Las prácticas de ordenamiento y regulación del territorio que sean aplicab
 
 VI.- La situación jurídica de la tenencia de la tierra.
 
-VII.- Los demás factores que influyan en la determinación de dichos valores.
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+VII.- Tipo, calidad, tamaño y sistemas empleados en las construcciones; y
+
+VIII.- Los demás factores que influyan en la determinación de dichos valores.
 
 ###### Artículo 40.
 
@@ -467,9 +599,11 @@ II.- Costo y calidad de los materiales de construcción utilizados y de la mano 
 
 III.- Edad de la construcción.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 41.
 
-En caso de que a alguna zona del territorio municipal no se le haya asignado valores unitarios de suelo o, habiéndosele asignado, hayan cambiado las características esenciales, en el período de su vigencia, el Departamento de Catastro e Impuesto Predial podrá fijar provisionalmente valores unitarios, tomando como base los aprobados para alguna zona catastral con características similares. Estos valores regirán hasta en tanto se apliquen los valores definitivos, en la inteligencia de que la duración de su vigencia no excederá de un año.
+En caso de que alguna zona del territorio municipal no tenga asignado Valores Unitarios de Suelo y de Construcción o habiéndosele asignado, hayan cambiado las características esenciales en el período de su vigencia, los Ayuntamientos o Concejos Municipales podrán fijar provisionalmente Valores Unitarios, tomando como base los aprobados para alguna Zona Catastral con características similares. Estos valores regirán hasta en tanto se apliquen los valores definitivos y su vigencia no excederá de un año.
 
 ###### Artículo 42.
 
@@ -477,17 +611,25 @@ A los predios ubicados dentro del perímetro urbano, pero donde no existen manza
 
 ### CAPITULO SEGUNDO. DEL PADRON CATASTRAL Y DE LA INSCRIPCION DE INMUEBLES
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 43.
 
-La Secretaría de Finanzas, por conducto del Departamento de Catastro e Impuesto Predial, deberá conformar su Padrón Catastral en los términos de esta Ley.
+La Secretaría de Planeación y Finanzas, por conducto de la Unidad de Catastro, en los términos de esta Ley deberá conformar el Padrón Catastral del Estado.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 44.
 
-Para la inscripción o actualización de los datos de los predios en el Padrón Catastral, los propietarios y poseedores deberán utilizar la Manifestación Catastral, en los formatos que para tal efecto establezca la Secretaría de Finanzas.
+Para la inscripción o actualización de los datos de los predios en el Padrón Catastral, los propietarios y poseedores deberán utilizar el formato de Manifestación Catastral que para tal efecto establezca la autoridad competente.
+
+Para la inscripción de un predio en el Padrón Catastral del Estado, la autoridad catastral deberá comprobar fehacientemente que dicho predio no se encuentra inscrito, y de estarlo sólo podrá inscribirse si existe resolución firme de la autoridad competente, para lo cual deberá exhibir el interesado copia debidamente certificada.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 45.
 
-En el supuesto de que los propietarios o poseedores de predios no presenten oportunamente la Manifestación Catastral, la Secretaría de Finanzas procederá de oficio a realizar la inscripción o actualización de que se trate.
+En el supuesto de que los propietarios o poseedores de predios no presenten oportunamente la Manifestación Catastral, la autoridad catastral procederá de oficio a realizar la inscripción o actualización de que se trate.
 
 ###### Artículo 46.
 
@@ -497,13 +639,17 @@ La modificación a cualquiera de las características de los bienes inmuebles, d
 
 Al inscribir un predio en el Padrón Catastral se le asignará una Clave Catastral. En el caso de los condominios cada uno de los departamentos, despachos, viviendas o locales se inscribirán por separado en el Padrón con diferente Clave Catastral.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 48.
 
-En los casos de condominios, fraccionamientos, subdivisiones, relotificaciones o fusiones de predios que se realicen, total o parcialmente, sin la licencia o autorización respectiva, la Secretaría de Finanzas procederá a efectuar las operaciones catastrales correspondientes.
+La autoridad catastral, en los casos de fraccionamientos, condominios, subdivisiones, relotificaciones o fusiones de predios, no realizará ningún trámite catastral sin la licencia o autorización correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 49.
 
-Las dependencias y entidades de la Administración Pública Federal, estatal y municipal proporcionarán la información de los predios de su propiedad o posesión dentro del territorio del Estado a la Secretaría de Finanzas durante el primer trimestre de cada año, anexando los siguientes documentos:
+Las dependencias y entidades de la administración pública federal, estatal y municipal, proporcionarán a las autoridades catastrales la información de los predios de su propiedad o posesión dentro del territorio del Estado, durante el primer trimestre de cada año, anexando los siguientes documentos:
 
 I.- Manifestación de cada predio señalando su área en metros cuadrados, las longitudes de sus colindancias y los nombres de los propietarios o poseedores de los predios colindantes.
 
@@ -515,11 +661,13 @@ IV.- Plano de cada construcción con la información señalada en el punto anter
 
 V.- Especificación de los terrenos y construcciones que son de dominio público y de los que no lo son, con el valor actual de cada uno de ellos.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 50.
 
-La Secretaría de Finanzas podrá requerir por escrito aclaraciones sobre la información entregada por las dependencias y entidades de la Administración Pública Federal, estatal y municipal, o solicitarles información adicional sobre los predios mencionados en el artículo anterior.
+La autoridad catastral podrá requerir por escrito aclaraciones sobre la información entregada por las dependencias y entidades de la administración pública federal, estatal y municipal, o solicitarles información adicional sobre los predios mencionados en el artículo anterior.
 
-Las aclaraciones o información adicional solicitada por la Secretaría de Finanzas serán suministradas por las dependencias y entidades públicas en un plazo no mayor de 30 días hábiles, contados a partir de la fecha de recepción del requerimiento.
+Las aclaraciones o información adicional solicitadas serán suministradas por las dependencias y entidades públicas en un plazo no mayor de treinta días hábiles, contados a partir de la fecha de recepción del requerimiento.
 
 ###### Artículo 51.
 
@@ -573,6 +721,10 @@ VI.- Se dividan terrenos por la apertura de calles o la realización de otras ob
 
 VII.- Los terrenos ejidales pasen a conformar predios urbanos en los términos de esta Ley.
 
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+VIII.- Cuando en un terreno exista demasía.
+
 ###### Artículo 58.
 
 Se llevará a cabo la revaluación de predios, cuando:
@@ -601,17 +753,23 @@ La valuación y reavaluación (sic) catastral se sujetarán a los (sic) dispuest
 
 La valuación y revaluación catastral de inmuebles será realizada, en su caso, de acuerdo con los datos proporcionados por el interesado en la Manifestación Catastral.
 
-En todos los casos, los valuadores autorizados por la Secretaría de Finanzas podrán realizar los estudios técnicos de campo que sean necesarios para constatar la veracidad de los datos proporcionados por el interesado.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Los valuadores autorizados por la autoridad catastral podrán realizar estudios técnicos de campo que sean necesarios para constatar la veracidad de los datos proporcionados por el interesado.
 
 ###### Artículo 61.
 
 En el caso de predios, con o sin construcciones, situados en zonas catastrales para los que no se hayan fijado valores unitarios, o cuando los existentes ya no sean aplicables, se estará a lo dispuesto en el Artículo 41 de esta Ley.
 
-Los valores unitarios de suelo y de construcción aprobados, así como los valores provisionales en su caso, son la base para la determinación de los Valores Catastrales correspondientes a los predios.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Los Valores Unitarios de Suelo y de construcción aprobados son la base para la determinación de los Valores Catastrales correspondientes a los predios.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 62.
 
-Para efectuar trabajos de valuación, revaluación, deslinde y de rectificación o aclaración de linderos, de todos los predios de una zona catastral, el Departamento de Catastro e Impuesto Predial dará aviso en uno de los periódicos de mayor circulación de la localidad, cuando menos con ocho días de anticipación a la fecha de inicio de los trabajos y que se publique durante tres veces consecutivas.
+Para efectuar trabajos de valuación, revaluación, deslinde y de rectificación o aclaración de linderos de los predios de una Zona Catastral, la autoridad catastral dará aviso en uno de los periódicos de mayor circulación de la localidad, cuando menos con ocho días de anticipación a la fecha de inicio de los trabajos, el cual será publicado durante tres veces consecutivas.
 
 Para efectuar esos trabajos en solamente una parte de los predios de una zona, se dará aviso a los propietarios o poseedores con cinco días de anticipación.
 
@@ -625,17 +783,21 @@ En los casos de que las operaciones afecten predios de la Federación, del Gobie
 
 El resultado de los trabajos catastrales y en su caso las observaciones de los interesados, se notificará a los propietarios o poseedores de los predios de acuerdo a lo establecido en los Artículos 69 y 70 de la presente Ley, dejándose a salvo los derechos de los interesados para que los ejerciten en la vía y forma que determine la presente Ley y demás disposiciones relativas.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 65.
 
-Cuando por causas imputables al propietario o poseedor de un predio, no se pueden realizar los trabajos catastrales que resulten necesarios para determinar o verificar las características del predio o bien para determinar el Valor Catastral correspondiente, el Departamento de Catastro e Impuesto Predial valuará o revaluará el predio en base a los elementos de que disponga.
+Cuando por causas imputables al propietario o poseedor de un predio, no se puedan realizar los trabajos catastrales que resulten necesarios para determinar o verificar las características del predio o bien para determinar su Valor Catastral, la autoridad catastral valuará o revaluará el predio en base a los elementos de que disponga.
 
 ## TITULO TERCERO. DE LAS FORMAS CATASTRALES
 
 ### CAPITULO PRIMERO. CLASIFICACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 66.
 
-La Secretaría de Finanzas, por conducto del Departamento de Catastro e Impuesto Predial, autorizará las formas oficiales para inscribir, manifestar, certificar y notificar el resumen de sus operaciones catastrales, que serán:
+La Secretaría de Planeación y Finanzas, por conducto de la Unidad de Catastro, oyendo la opinión de las autoridades catastrales municipales, autorizará las formas oficiales para inscribir, manifestar, certificar y notificar el resumen de sus operaciones catastrales, que serán:
 
 I.- Manifestación Catastral de predios o de modificación a sus características.
 
@@ -649,15 +811,19 @@ IV.- Las demás necesarias para el buen funcionamiento del catastro.
 
 El uso de las formas catastrales se ajustará a lo dispuesto en la presente Ley.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 68.
 
-El Departamento de Catastro e Impuesto Predial, al recibir una Manifestación Catastral, podrá practicar la ratificación o rectificación de los datos manifestados, y el avalúo resultante de dichos trabajos será notificado por escrito a los interesados, de acuerdo a lo establecido por esta Ley.
+La autoridad catastral al recibir una Manifestación Catastral podrá practicar la ratificación o rectificación de los datos manifestados, y el avalúo resultante de dichos trabajos serán notificados por escrito a los interesados, de acuerdo a lo establecido por esta Ley.
 
 ### CAPITULO SEGUNDO. DE LAS NOTIFICACIONES
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 69.
 
-La Secretaría de Finanzas notificará el resultado de las operaciones de valuación, revaluación, deslinde y rectificación o aclaración de linderos. Las Direcciones de Finanzas o Tesorerías Municipales deberán de auxiliar a la Secretaría de Finanzas en cualquier proceso de notificación.
+La autoridad catastral correspondiente notificará al o a los interesados el resultado de las operaciones de valuación, revaluación, deslinde y rectificación o aclaración de linderos.
 
 ###### Artículo 70.
 
@@ -671,35 +837,43 @@ Los procedimientos relativos a la Notificación se ajustarán a lo dispuesto en 
 
 Son infracciones en materia de Catastro, las siguientes:
 
-I.- No realizar las manifestaciones para la inscripción de predios y construcciones en el Padrón Catastral.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
-II.- No informar en el tiempo y forma previstos los actos que deben ser comunicados a la Secretaría de Finanzas.
+I.- No realizar las manifestaciones catastrales para la inscripción de predios y construcciones ante la autoridad catastral correspondiente.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+II.- No informar en tiempo y forma los actos previstos en esta Ley que deban ser comunicados a la autoridad catastral respectiva.
 
 III.- Realizar cualquier acción o incurrir en omisión, contrarias a los preceptos de esta Ley.
 
-IV.- Negar la información que requiera la Secretaría de Finanzas para la realización de trabajos catastrales.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
-V.- Manifestar datos falsos al Departamento de Catastro e Impuesto Predial, o a sus órganos dependientes, respecto de predio objeto de trabajos catastrales.
+IV.- Negar la información que requiera la autoridad catastral para la realización de trabajos catastrales.
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+V.- Manifestar datos falsos respecto del predio objeto de trabajos catastrales.
 
 VI.- Oponerse o interferir en la realización de cualquiera de las operaciones catastrales.
 
-VII.- No realizar las manifestaciones para la inscripción de inmuebles de dominio público en el Padrón Catastral, en los términos de esta Ley.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+VII.- No realizar las manifestaciones para la inscripción de inmuebles propiedad de la Federación, del Estado o de los Municipios en los términos de esta Ley.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 72.
 
-Las infracciones a la presente Ley serán sancionadas por la Secretaría de Finanzas, con multa, de la manera siguiente:
+Las infracciones a la presente Ley serán sancionadas por la autoridad catastral competente con las multas siguientes:
 
-A) De 1 a 50 veces el salario mínimo diario vigente en el Estado, a los sujetos cuya conducta corresponda a lo previsto por las Fracciones I, II, III y IV del artículo anterior;
+a) De una a doscientas veces el salario mínimo diario vigente en el Estado, a los sujetos cuya conducta corresponda a lo previsto por las fracciones I, II, III, IV, V y VI del artículo anterior; y
 
-B) De 51 a 200 veces el salario mínimo diario vigente en el Estado, a los sujetos cuya conducta corresponda a lo previsto por las Fracciones V y VI del artículo anterior; y
+b) De quinientas a mil veces el salario mínimo diario vigente en el Estado, a las personas que se encuentren en los supuestos de la fracción VII del artículo 71 de esta Ley.
 
-C) De 500 a 1,000 veces el salario mínimo diario vigente en el Estado, a los sujetos cuya conducta corresponda a lo previsto por la Fracción VII del artículo anterior.
+En caso de reincidencia la autoridad catastral podrá duplicar el monto de las multas señaladas en los incisos anteriores. Las sanciones a que este artículo se refiere serán aplicadas tomando en consideración la gravedad de la infracción cometida, la Zona Catastral, el valor del predio y la condición económica del infractor, y serán pagadas en un plazo de quince días hábiles, contados a partir del día siguiente al de la notificación.
 
-En caso de reincidencia, la Secretaría de Finanzas podrá duplicar el monto de la multa señalada en este artículo. Las sanciones señaladas serán aplicadas por la Secretaría de Finanzas tomando en consideración la gravedad de la infracción cometida y serán pagadas por el infractor en la misma Secretaría en un plazo de 10 días hábiles, contados a partir de la fecha de la infracción.
-
-Para aplicar las sanciones señaladas en los incisos A) y B) de este artículo, la autoridad deberá tener en consideración la zona catastral, valor del predio y condición económica del propietario de dicho predio.
-
-En caso de incumplimiento, la Secretaría de Finanzas aplicará el procedimiento administrativo de ejecución especificado en el Código Fiscal del Estado.
+En caso de incumplimiento en el pago de las multas a que se refiere este artículo, se aplicará el procedimiento administrativo de ejecución señalado en el Código Fiscal del Estado.
 
 ### CAPITULO SEGUNDO. DE LOS RECURSOS
 
@@ -719,25 +893,33 @@ IV.- En los demás casos relacionados con la aplicación de esta Ley.
 
 Los interesados podrán hacer uso del Recurso de inconformidad respecto de los datos asentados en el Padrón Catastral, dentro de los 15 días hábiles, contados a partir del día siguiente de que surta efecto la notificación.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 75.
 
-Contra la resolución dictada por el Departamento de Catastro e Impuesto Predial procederá el Recurso de Revisión, que se resolverá en los términos del Código Fiscal del Estado de Tabasco.
+Contra la resolución dictada por las autoridades catastrales procederá el recurso de revisión, que se tramitará y resolverá en los términos del Código Fiscal del Estado de Tabasco.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 76.
 
-Contra los actos y resoluciones que se dicten en la aplicación de los artículos anteriores, procederá el Recurso de Queja en los términos del Código Fiscal del Estado de Tabasco.
+Contra la resolución emitida en el recurso de revisión procederá el recurso de queja, el cual se substanciará conforme a lo dispuesto en el Código Fiscal del Estado de Tabasco.
 
 ###### Artículo 77.
 
 En caso de no proceder la Inconformidad, los interesados pagarán los gastos que se originen.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 78.
 
-Los interesados que no presenten sus inconformidades dentro de los términos y formas establecidas por esta Ley, se tendrán por conformes. El Departamento de Catastro e Impuesto Predial rechazará las inconformidades presentadas extemporáneamente.
+Los interesados que no presenten sus inconformidades dentro de los términos y formas establecidas por esta Ley, se tendrán por conformes. Las autoridades catastrales correspondientes rechazarán las inconformidades presentadas extemporáneamente.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 79.
 
-En todo lo no previsto por esta Ley, se aplicará supletoriamente el Código Fiscal del Estado, y en lo que proceda la Legislación Civil del Estado.
+En todo lo no previsto en esta Ley se aplicarán supletoriamente: la Ley de Desarrollo Urbano y Ordenamiento Territorial, Ley de Hacienda, Ley de Protección Ambiental, Código Fiscal, Código Civil, Ley de Hacienda de los Municipios, todos del Estado de Tabasco, así como la Ley Federal de Aguas Nacionales, Ley Federal de la Reforma Agraria y demás disposiciones jurídicas relativas.
 
 T R A N S I T O R I O S
 
@@ -764,3 +946,19 @@ LIC. MANUEL GURRIA ORDOÑEZ.
 LIC. ENRIQUE PRIEGO OROPEZA.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE NOVIEMBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente del de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las solicitudes y recursos que se estén tramitando antes de la entrada en vigor del presente Decreto, se substanciarán por las autoridades catastrales que conforme a este Decreto y a los convenios celebrados tengan facultades para hacerlo.
