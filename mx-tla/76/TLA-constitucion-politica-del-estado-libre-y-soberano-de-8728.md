@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2003-11-03"
+last_updated: "2004-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -86,6 +86,10 @@ VII. De investigar, recibir y difundir hechos de interés público, salvo los ca
 VIII. Los agraviados por los delitos serán tratados con dignidad y respeto, informados de sus derechos, oídos desde el inicio del procedimiento penal hasta la conclusión del mismo y notificados de los actos procesales. El Estado les brindará protección y seguridad;
 
 IX. A la educación y al acceso a la formación profesional y continua. Este derecho incluye la facultad de seguir gratuitamente la enseñanza obligatoria que comprende la preescolar, primaria y secundaria. Se garantizan, de acuerdo con las normas nacionales que regulan su ejercicio, la libertad de creación de centros docentes dentro del respeto de los principios democráticos, así como del derecho de los padres a asegurar la educación y la enseñanza de sus hijos conforme a sus convicciones;
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2004)</small>
+
+Asimismo, el Estado fomentará y coordinará la cultura física y el deporte en el ámbito de su competencia;
 
 X. El Estado garantizará la participación igualitaria de los ancianos y las personas con capacidades diferentes en los espacios de actuación social. Estas personas tienen derecho a beneficiarse de medidas que garanticen su autonomía, su integración social y profesional, y su participación en la vida de la comunidad;
 
@@ -2770,3 +2774,9 @@ Quedan derogadas todas las disposiciones que se opongan al presente Decreto, inc
 ###### ARTÍCULO SÉPTIMO.
 
 Iníciese y cúmplase el procedimiento que establece el Artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala.
+
+P.O. 10 DE AGOSTO DE 2004.
+
+###### ARTICULO UNICO.
+
+Este Decreto de reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
