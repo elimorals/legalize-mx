@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-imagen-urbana-del-municipio-de-los-cabos-baja-286
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-31"
-last_updated: "1999-12-31"
+last_updated: "2004-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCS"
 
 REGLAMENTO DE IMAGEN URBANA DEL MUNICIPIO DE LOS CABOS BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE OCTUBRE DE 2004.
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1999.
 
@@ -82,29 +82,21 @@ AUTORIDADES Y ORGANOS DE APOYO.
 
 DE LAS AUTORIDADES MUNICIPALES.
 
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 4.
 
-La aplicación de este reglamento, corresponde en primer término a las autoridades municipales, a través de la Dirección General de Asentamientos Humanos, Obras Públicas y Ecología, y Dirección de Planificación y Urbanismo, quienes cuidarán su observancia y tendrán las siguientes facultades y atribuciones en materia de imagen urbana:
+La aplicación de este reglamento, corresponde en primer término a las autoridades municipales, a través de la Secretaría Municipal de Desarrollo Urbano y Ecología, y la Dirección Municipal de Planeación Urbana, quienes cuidarán su observancia y tendrán las siguientes facultades y atribuciones en materia de imagen urbana:
 
-I. Recibir las solicitudes, tramitar, expedir y revocar en su caso las autorizaciones permisos específicos para la construcción de obra nueva, restauración, reparación, remodelación de fachadas, edificios y del espacio urbano así como cualquier obra de urbanización o dictamen de imagen urbana, a que se refiere el presente reglamento.
+I. Recibir las solicitudes, tramitar, expedir y revocar en su caso las autorizaciones permisos específicos para la construcción de obra nueva, restauración, remodelación de fachadas, edificios y del espacio urbano, así como cualquier obra de urbanización o dictamen de imagen urbana, a que se refiere el presente reglamento.
 
-II. Determinar las zonas y las edificaciones no establecidas en este reglamento, en las que únicamente se permita la conservación de inmuebles.
+II. Determinar las zonas y las edificaciones no establecidas en este reglamento.
 
-III. Ordenar la inspección de obras y acciones relativas a la imagen urbana para verificar el cumplimiento a las disposiciones contenidas en el presente reglamento.
-
-IV. Aplicar y/o ejecutar las medidas necesarias para el cumplimiento de este ordenamiento y en su caso, sancionar las infracciones cometidas al mismo.
-
-V. Solicitar el auxilio de la fuerza pública cuando fuere necesario para el cumplimiento de las disposiciones de este reglamento.
-
-VI. Convocar a la iniciativa privada a las instituciones y Asociaciones particulares, así como a los Gobiernos Federal y Estatal a fin de convenir sobre la preservación y mantenimiento de la imagen urbana.
-
-VII. Las demás que sean necesarias para el cumplimiento de este reglamento, las que confiera el Ayuntamiento y demás ordenamientos vigentes.
-
-DE LAS AUTORIDADES ESTATALES.
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 5.
 
-El Gobierno del Estado a través de la Secretaría de Planeación Urbana e Infraestructura y de la Dirección de Planeación Urbana y Ecología, concurrirá en la aplicación de este reglamento, en ejercicio de sus atribuciones en materia de Asentamientos Humanos; para tal efecto, cuando por motivo del dictamen técnico de uso del suelo, encuentre que un proyecto arquitectónico contiene elementos considerados como prohibidos en el presente Reglamento, podrá hacer recomendaciones al Ayuntamiento, respecto de las modificaciones que a su juicio deben hacerse.
+El Gobierno del Estado a través de la Secretaría de Planeación Urbana e Infraestructura, concurrirá en la aplicación de este reglamento, en ejercicio de sus atribuciones en materia de Asentamientos Humanos; para tal efecto, cuando por motivo del dictamen técnico de uso del suelo, encuentre que un proyecto arquitectónico contiene elementos considerados como prohibidos en el presente Reglamento, podrá hacer recomendaciones al Ayuntamiento, respecto de las modificaciones que a su juicio deben hacerse.
 
 DE LAS AUTORIDADES FEDERALES.
 
@@ -120,35 +112,51 @@ La Secretaría de Medio Ambiente, Recursos Naturales y Pesca, interviene en coor
 
 DE LOS ORGANOS DE APOYO.
 
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 7.
 
 Comité técnico de la imagen urbana Municipal.
 
-Se constituye el comité técnico como órgano de consulta y apoyo de las Autoridades Municipales, para velar por el cumplimiento de las disposiciones que marque la legislación existente, con el fin de preservar en la esfera de sus atribuciones, la zonas (sic) centro y áreas patrimoniales que corresponden en el Municipio, y estará integrado por:
+Se constituye el comité técnico como órgano de consulta y apoyo de las Autoridades Municipales, para velar por el cumplimiento de las disposiciones que marque la legislación existente, con el fin de preservar en la esfera de sus atribuciones, la imagen urbana dentro del territorio municipal, especialmente las áreas comprendidas en el plan Director (sic) de Desarrollo Urbano, y estará integrado por:
 
-I. El C. Presidente Municipal, quien fungirá como Presidente del mismo.
+I. El Presidente Municipal, quien fungirá como Presidente del mismo.
 
-II. El Director General de Asentamientos Humanos, Obras Públicas y Ecología del Ayuntamiento, quien actuará como Secretario Técnico.
+II. El Secretario Municipal de Desarrollo Urbano y Ecología del Ayuntamiento, quien actuará como Secretario Técnico.
 
-III. El Director de Planeación Urbana Municipal.
+III. El Director Municipal de Planeación Urbana.
 
 IV. Representante de Cabildo, que serán los integrantes de la Comisión de Asentamientos Humanos y Obras Públicas.
 
-V. Un Representante de la Secretaria de Planeación Urbana e Infraestructura del Gobierno del Estado.
+V. Un representante de la Secretaría de Planeación Urbana e Infraestructura del Gobierno del Estado.
 
-VI. Un Representante de la Secretaría de Desarrollo Social.
+VI. Un Representante de la Secretaría Municipal de Desarrollo Social.
 
-VII. Un Representante de la Secretaria de Medio Ambiente, Recursos Naturales y Pesca.
+VII. Un Representante de la Secretaria de Medio Ambiente y Recursos Naturales.
 
-VIII. Un Representante del Instituto Nacional de Antropología e Historia, centro de B.C.S.
+VIII. Un representante del Instituto Nacional de Antropología e Historia, centro de B.C.S.
 
-IX. Un Representante del Colegio de Arquitectos, de Baja California Sur, A.C.
+IX. Un representante del Colegio de Arquitectos de Baja California Sur., A C.
 
-X. Un Representante del Colegio de Ingenieros Civiles de Baja California Sur, A.C.
+X. Un representante del Colegio de Ingenieros Civiles de Baja California Sur, A C.
 
-XI. Un Representante de la Comisión de Propietarios y Comerciantes de la zona centro y areas patrimoniales de las poblaciones en el Municipio de los Cabos.
+XI. Un representante de la Comisión de Propietarios y Comerciantes de la zona centro y áreas patrimoniales de las poblaciones en el Municipio de Los Cabos.
 
-XII. El Director General de Asentamientos Humanos, Obras Públicas de Los Cabos, para el caso de conurbaciones.
+XII. El Secretario Municipal de Obras y Servicios Públicos.
+
+XIII. Un representante de la Cámara Nacional de Comercio, Servicios y Turismo de los Cabos.
+
+XIV. Un representante de la Cámara Nacional de la Industria Restaurantera y Alimentos Condimentados, Baja California Sur.
+
+XV. Un representante de la Cámara Nacional de la Industria de la Transformación en los Cabos, B.C.S.
+
+XVI. Un representante de los Promotores y Desarrolladores Turísticos Inmobiliarios de Los Cabos A.C.
+
+XVII. Un representante de la Asociación de Hoteles de Los Cabos, A.C.
+
+XVIII. Un representante de la Asociación Sudcaliforniana de Desarrolladores de Tiempos Compartidos A. C.
+
+Dentro del comité técnico se conformará un subcomité integrado por representantes o asesores con perfil idóneo cualificado (sic) técnica y profesionalmente de los sectores y autoridades que integran al propio comité para aquellos asuntos que requieran de una atención mas detallada.
 
 ###### ARTICULO 8.
 
@@ -170,9 +178,11 @@ En caso de encontrarse una zona arqueológica en el Municipio, se deberán reali
 
 Para la conservación y mejoramiento del patrimonio histórico del Municipio, todas las personas estarán obligadas a conservar y proteger los sitios y edificios que signifiquen testimonios valiosos de su historia y cultura regional.
 
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 12.
 
-Todos los edificios históricos o de valor patrimonial que se encuentren inscritos en el Catálogo Nacional de Monumentos Históricos Inmuebles, deberán conservar su aspecto formal y no se permitirá cambio o adición de elementos en sus fachadas sin la aprobación del I.N.A.H. y la autorización expresa de la Dirección General de Asentamientos Humanos, Obras Públicas y Ecología del Ayuntamiento, conforme lo establece el Reglamento Estatal de Construcciones.
+Todos los edificios históricos o de valor patrimonial que se encuentren inscritos en el Catálogo Nacional de Monumentos Históricos Inmuebles, deberán conservar su aspecto formal y no se permitirá cambio o adición de elementos en sus fachadas sin la aprobación del I.N.A.H. y la autorización expresa de la Secretaría Municipal de Desarrollo Urbano y Ecología del Ayuntamiento, conforme lo establece el Reglamento Estatal de Construcciones.
 
 ###### ARTICULO 13.
 
@@ -240,23 +250,25 @@ IV. No se permitirán los recubrimientos de materiales vidriados, de cerámica, 
 
 V. No se permitirá la colocación de canteras laminadas o chapeos. Cuando a juicio de los técnicos responsables del INAH, en un edificio de valor histórico arquitectónico se encuentren silares (sic) de cantera en mal estado y que por ello se pongan en peligro la estabilidad del edificio, se sustituirá por piezas nuevas del mismo tipo, color y textura de los originales. Cuando se trate de piedras labradas, pintadas o decoradas, el INAH determinará, previo estudio particular, el tipo de trabajo que ha de realizarse en ellos o su eventual sustitución.
 
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 18.
 
 La pintura para los monumentos.
 
-II. No se autoriza pintura de esmalte brillante. La pintura será de cal o vinílica. Se utilizarán tres colores por edificio, uno para muros y otro para cornisas, remates o enmarcamientos de puertas o ventanas. Se podrá utilizar un tercer color en rodapiés o guardapolvos, buscando siempre armonizar con colores usados en el resto de la fachada y con las fachadas de los edificios colindantes, apegándose a la gama propuesta por el proyecto integral.
+I. No se autoriza pintura de esmalte brillante. La pintura será de cal o vinílica. Se utilizarán tres colores por edificio, uno para muros y otro para cornisas, remates o enmarcamientos (sic) de puertas o ventanas. Se podrá utilizar un tercer color en rodapiés o guardapolvos, buscando siempre armonizar con colores usados en el resto de la fachada y con las fachadas de los edificios colindantes, apegándose a la gama propuesta por el proyecto integral.
 
-III. La pintura de guarda polvo en fachadas no deberá tener una altura menor de 60 centímetros, ni mayor de 120 centímetros.
+II. La pintura de guarda polvo en fachadas no deberá tener una altura menor de 60 centímetros, ni mayor de 120 centímetros.
 
-IV. Cuando se encuentren muros interiores, exteriores o elementos arquitectónicos de cantera pintada o decorada con pintura, los técnicos responsables del INAH, realizarán un estudio que determine el tipo de esas pinturas y, en su caso, sobre la conveniencia de la conservación y mejoramiento o limpieza de los elementos.
+III. Cuando se encuentren muros interiores, exteriores o elementos arquitectónicos de cantera pintada o decorada con pintura, los técnicos responsables del INAH, realizarán un estudio que determine el tipo de esas pinturas y, en su caso, sobre la conveniencia de la conservación y mejoramiento o limpieza de los elementos.
 
-V. No se permitirá la ejecución de dibujos, pinturas o figuras hechas con pintura en partes o en la totalidad de la fachada; así mismo, no se autorizará pintar con un solo color, grandes superficies de fachadas compuestas por varias construcciones.
+IV. No se permitirá la ejecución de dibujos, pinturas o figuras hechas con pintura en partes o en la totalidad de la fachada; así mismo, no se autorizará pintar con un solo color, grandes superficies de fachadas compuestas por varias construcciones.
 
-VI. No se permitirá subdividir con diferentes colores las fachadas de los edificios de valor histórico arquitectónico o de valor ambiental.
+V. No se permitirá subdividir con diferentes colores las fachadas de los edificios de valor histórico arquitectónico o de valor ambiental.
 
-VII. No se permitirá ningún tipo de pintura en paños de cantera o piedra.
+VI. No se permitirá ningún tipo de pintura en paños de cantera o piedra.
 
-VIII. La Dirección General de Asentamientos Humanos, Obras Públicas y Ecología del Ayuntamiento, tendrá la tabla cromática para la combinación y su utilización de la misma.
+VII. La Secretaría Municipal de Desarrollo Urbano y Ecología del Ayuntamiento, tendrá la tabla cromática para la combinación y su utilización de la misma.
 
 ###### ARTICULO 19.
 
@@ -602,87 +614,755 @@ IV. En cualquier predio de las zonas centro en el que se valla (sic) a realizar 
 
 Deberá preverse la apertura, renovación y mantenimiento de zonas verdes, así como la aplicación de medidas similares para contrarrestar la contaminación ambiental y mejorar la calidad de vida en el municipio.
 
+> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE OCTUBRE DE 2004)</small>
+
 ### CAPITULO X
 
-DE LOS ANUNCIOS.
+NORMAS DE NOMENCLATURA Y PUBLICIDAD URBANA.
 
-###### ARTICULO 62.
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2004)</small>
 
-En la instalación de anuncios, carteles y propaganda que sirva para la publicidad económica, social, política, industrial comercial y cultural se estará a lo dispuesto en el reglamento municipal de anuncios vigente y en el presente reglamento.
+ARTICULO 62 En el diseño, producción y la instalación de letreros, señales, avisos y anuncios requeridos para la publicidad económica, social, política, industrial, comercial y cultural del Municipio de Los Cabos, se estará a lo dispuesto en este capitulo.
+
+El presente capitulo norma y regula todos los elementos y acciones relacionadas con la nomenclatura y publicidad en general en la vía pública dentro del Municipio de Los Cabos.
+
+La regulación de la nomenclatura y publicidad en el medio urbano es de interés público en virtud de que las acciones individuales en estos rubros tienen impacto en la imagen local de la comunidad tanto del medio ambiente natural como del medio urbano y por ser su repercusión de alcance nacional e internacional en el mercado turístico de visitantes y local entre la comunidad residente teniendo en cuenta que es obligación y facultad del Gobierno Municipal elevar la calidad de vida de la población.
+
+La necesidad de regular estos aspectos ha surgido como respuesta para evitar el desorden visual en el rubro de letreros, señales, avisos y anuncios. El mayor impacto negativo se manifiesta en el renglón publicitario en lo tocante a anuncios y avisos y en menor grado en la nomenclatura urbana en los letreros y en las señales.
+
+Las normas se dividen en dos grandes rubros: el de la nomenclatura y el de la publicidad.
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2004)</small>
+
+ARTICULO 62 BIS. Para efectos del presente Capitulo, respecto a las solicitudes rendidas ante la autoridad municipal, esta quedará obligada a expedir respuesta en un termino no mayor a 5 días hábiles contados a partir de la fecha de su recepción. Cuando la autoridad considere que para resolver de (sic) la solicitud requiera del apoyo o dictamen del Subcomité de Imagen Urbana, con la notificación al interesado, acordará dentro de dicho termino su remisión, y este ultimo habrá de dictaminar en un termino no mayor a 20 días hábiles turnándolo de nueva cuenta a la autoridad para que esta resuelva en definitiva lo que corresponda en un termino de 3 días hábiles.
+
+No obstante que transcurridos los 20 días hábiles sin que el comité dictamine lo que corresponda, la autoridad municipal queda obligada a resolver en dicho término de 3 días hábiles.
+
+Transcurridos cualquiera de los términos que se indican en los párrafos que anteceden, se entenderá aprobada la solicitud, si la autoridad municipal o el subcomité omiten resolver lo conducente.
+
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 63.
 
-No se podrá fijar anuncios, avisos y carteles fuera de los lugares que para este objetivo señalen las autoridades municipales, quienes aprobarán los modelos y características especificas.
+No se podrá fijar letreros, señales, avisos y anuncios, sin la previa aprobación y fuera de los lugares que para este objetivo sean señalados por la autoridad municipal, quien aprobará los modelos y características especificas en su proyecto.
+
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 64.
 
-Su colocación deberá:
+DE LA NOMENCLATURA
 
-I. Respetar las características formales y arquitectónicas, el perfil urbano y el valor ambiental del distrito histórico, y no dañar los elementos arquitectónicos y ornamentales.
+La nomenclatura se expresa mediante letreros y señales.
 
-II. En el interior y exterior de los monumentos históricos y tradicionales no podrán existir anuncios con publicidad o propaganda.
+El objeto y finalidad de la nomenclatura, en ambas de sus expresiones, es la identificación de espacios e inmuebles con fines de orientación e información.
 
-III. De acuerdo al bando de policía y buen gobierno en su capítulo IV, articulo 14, fracción XV, de las atribuciones de las autoridades de policía; queda prohibido manchar o fijar anuncios y propaganda impresa o pintada en edificios públicos y particulares, bardas, banquetas, arbotantes, monumentos y obras de arte.
+El principio de orden que regirá la aplicación de las normas de nomenclatura será el de su jerarquía.
 
-IV. La propaganda política, queda sujeta a lo establecido en el reglamento de anuncios, al COFIPE y a la ley estatal electoral vigentes (sic).
+La nomenclatura se estructurará conforme a los niveles jerárquicos enlistados a continuación. Los niveles de menor jerarquía quedarán supeditados a los de mayor jerarquía. Su localización deberá de ser congruente en ese sentido de tal manera que la presencia de un letrero o señal se circunscriba y limite a su ámbito de injerencia.
 
-V. El ayuntamiento determinará, los espacios más importantes para la colocación de programas, carteles y avisos de información cultural, recreativas y otras, cuyo diseño y ubicación deberán ser acordes a lo que establece este reglamento.
+NIVEL SUPERIOR
 
-ARTICULO 64 BIS. La colocación de espectaculares de cualquier material, fijos o móviles están prohibidos en todo el Municipio, ya que obstaculizan la visión y deterioran la Imagen del lugar.
+- 1 Federal
+
+- 2 Estatal
+
+- 3 Municipal
+
+- 4 Regional
+
+- 5 Centros de Población (Ciudades o poblaciones)
+
+NIVEL LOCAL
+
+- 6 Zonas Homogéneas. (Fraccionamientos, Colonias)
+
+- 7 Conjuntos, centros, condominios.
+
+- 8 Inmuebles particulares e individuales
+
+- En aquellos casos en que la terminología utilizada para denominar a una unidad no sea congruente con el nivel jerárquico que le corresponda adoptará las normas aplicables a su verdadera jerarquía, por disposición de la autoridad municipal.
+
+I. LETREROS
+
+Letrero.- Indica el nombre o giro del establecimiento, la empresa, el comercio, la institución, el destino, el espacio urbano, el equipamiento, el conjunto, la unidad urbana.
+
+1. EL LETRERO
+
+Las siguientes normas son generales y aplicables a todos los letreros propios del nivel local:
+
+1.1 Se permitirá un solo letrero por cada establecimiento o entidad en su acceso principal o por frente de manzana en caso de haber varios frentes.
+
+1.2 En los casos en que un inmueble tenga varias fachadas o accesos en distintos frentes de manzana se permitirá un letrero por cada frente de manzana.
+
+1.3 Cuándo se requieran o acumulen más de dos letreros para un mismo predio el inmueble estará obligado a definir una denominación única para la entidad que identifique al conjunto Al interior del conjunto se podrá ubicar con jerarquía menor la nomenclatura de las partes que integran al conjunto con letreros individuales tipo directorio pero imperceptible desde la vía pública.
+
+1.4 El letrero indicará exclusivamente el nombre comercial del usuario pudiendo incluir el logotipo y el giro que les identifica.
+
+1.5 No podrán ser pintados sobre la fachada o muros del predio o del inmueble en los centros urbanos, corredor turístico y corredores urbanos identificados en los planos oficiales y en las tablas de valores de suelo.
+
+1.6 La tipografía utilizada deberá de ser volumétrica o tridimensional y no pintada sobre una superficie o en su defecto al bajo relieve.
+
+1.7 La tipografía se colocará en forma adosada o sobrepuesta sobre una superficie que deberá ser parte integral del propio edificio o de un muro del inmueble que servirá de fondo para el letrero.
+
+1.8 En todo caso se evitará recurrir a marcos o tableros para la instalación de la tipografía de tal manera que sea parte integral de la construcción a diferencia de un cuadro sobrepuesto o colgante.
+
+1.9 Se prohíbe la colocación de letreros sobre las azoteas o cubiertas de los inmuebles así como sobre barandales y rejas, cristales y ventanas o marquesinas.
+
+1.10 Los directorios de negocios para conjuntos deberán colocarse al interior del inmueble de tal manera que tenga prioridad en su ubicación, escala y presentación el letrero denominativo del conjunto y que su directorio desglosado no se pueda percibir desde la vía pública.
+
+1.11 Los letreros no podrán ocupar la totalidad de las superficie de la fachada y deberán de ser proporcionados y compuestos tomando en cuenta las superficies de muros y vanos y otros elementos arquitectónicos de tal manera que el resultado sea armónico. En caso de discrepancia de criterios en la definición de estos conceptos será el Comité Técnico de Imagen Urbana Municipal quién dictaminará lo conducente y la resolución correspondiente.
+
+1.12 Los letreros no podrán rebasar el 5% de la superficie total del paramento de la fachada del edificio que le servirá de fondo y sobre la cual se instalará. Dicha superficie no podrá rebasar una superficie total de 6 m2 como máximo.
+
+Cuando la superficie del letrero aplicando la norma del 5% de la superficie total del paramento de la fachada resulte inferior a 0:50 m2, se permitirá a criterio del propietario el que el letrero sea de 0.50 m2 como máximo o de una superficie menor.
+
+Todos los casos no contemplados o que requieran de una consideración adicional deberán de ser dictaminados por el Comité Técnico Municipal de Imagen Urbana.
+
+2. POR GIRO O USUARIO.- Aplicarán en forma particular y específica una serie de normas adicionales según el tipo de usuario, giro, establecimiento o actividad de que se trate.
+
+a. DESARROLLOS Y FRACCIONAMIENTOS
+
+a.1- Deberán de tener un letrero sobre el acceso principal al desarrollo o fraccionamiento.
+
+Podrán tener un letrero de menor jerarquía por cada acceso adicional.
+
+a.2- Características:
+
+- el fondo será un muro de piedra natural de la región con junta seca;
+
+- el tamaño máximo permitido será de 1.80 de alto por 7.20 m de largo;
+
+- cumplirá con los requisitos de tipografía aplicables a letreros referidos en los incisos 1.6 y 1.7 de la fracción I del presente articulo.
+
+- quedarán en libertad de proponer los letreros al interior de su desarrollo
+
+- deberán obtener la autorización de la Dirección Municipal de Planeación Urbana Municipal de su proyecto de letreros previa instalación
+
+- la iluminación deberá de ser discreta e indirecta de tal manera que su fuente resulte imperceptible desde la vialidad
+
+b.1- Deberá de tener un letrero con el nombre del conjunto o de la plaza comercial en un lugar fácilmente perceptible desde la vía pública, podrán incluirse un catalogo de los servicios o giros que se ofrezcan, libre de imágenes o alusiones a marcas publicitarias bajo un formato único Sujeto a la dictaminación del comité técnico de imagen urbana y a su aprobación por la autoridad.
+
+b.2- En el caso de contar con varios frentes de manzana podrán tener un letrero adicional en cada uno de los frentes de manzana.
+
+b.3- El tamaño y ubicación quedará sujeto a las características propias del proyecto mismas que deberán de presentarse para su evaluación y dictaminación por el Comité Técnico de Imagen Urbana del Municipio de Los Cabos para su posterior autorización por parte de la autoridad competente.
+
+b.4- En caso de contar con un reglamento interno que contemple la imagen, los letreros y señalización serán aprobados por la autoridad municipal, privilegiando la homogeneidad y la congruencia con la necesidad de identificación y giro solamente.
+
+c. EDIFICIOS PÚBLICOS E INSTITUCIONALES
+
+c.1- De preferencia contarán con un letrero único que los identifique claramente colocado en el acceso principal al predio ocupado por el equipamiento
+
+c.2- En el caso de tener varios accesos podrán colocar uno de menor jerarquía en los otros accesos siempre y cuando queden ubicados en distintos frentes de manzana
+
+c.3- Según el giro
+
+- Hospitales.- Indicarán con toda claridad sus accesos de emergencia
+
+- Bancos.- Podrán utilizar la imagen institucional corporativa de la Banca siempre y cuando se adecuen a las normas generales para letreros.
+
+- Oficinas de gobierno.- Quedan sujetas a las normas aplicables a otros tipos de edificios de oficinas privadas.
+
+d. ESTABLECIMIENTOS INDIVIDUALES O PRIVADOS
+
+d.1- Cada establecimiento podrá colocar un letrero por local comercial. En los casos en que existan locales comerciales diversos en un mismo predio deberán de definir una denominación para el conjunto. En los casos en que haya un solo local comercial en el predio se sujetaran a las normas aplicables a un edificio que da a la vía pública.
+
+d.2- El diseño y colocación de estos letreros quedará supeditado a la existencia de un letrero de nivel jerárquico superior.
+
+d.3- Entiéndase por lo anterior que un local individual que no forma parte de un conjunto, un edificio, una plaza comercial podrá sujetarse a las reglas generales de este mismo artículo.
+
+d.4- Los locales que formen parte de un conjunto, un edificio o una plaza comercial deberán de ubicar sus letreros al interior de dichos inmuebles de tal manera que no afecten y no se perciban desde la vía pública pudiendo sin embargo dar a las circulaciones interiores que les dan acceso siempre y cuando queden confinadas a los espacios interiores propios del inmueble principal.
+
+e. GIROS COMERCIALES ESPECIALIZADOS
+
+e.1- Cines.- Podrán hacer uso de luces de neón o luminosos característicos de estos giros, siempre y cuándo los inmuebles de las salas ocupen una edificación que no formen parte de un conjunto de locales distintos o plaza comercial y den inmediatamente a un espacio exterior comunicado con la vía pública.
+
+e.2- Farmacias.- Utilizarán exclusivamente una cruz de color verde de acrílico y con iluminación interior. Podrá ser perpendicular al paño del muro, de dimensiones no mayores de 1.20 por lado, El resto de las normas generales serán aplicables.
+
+e.3- Gasolinera.- Utilizarán la imagen autorizada por Petróleos Mexicanos (PEMEX) similar al utilizado en ese tipo de establecimientos a nivel mundial. Solamente podrán exhibir su logotipo y nombre distintivo. No se permitirá anunciar los productos u otros servicios como parte del letrero.
+
+e.4- Centros nocturnos.- Podrán hacer uso de letreros luminosos en sus diferentes versiones previa dictaminación del Comité Técnico de Imagen Urbana del Municipio de Los Cabos, y autorización de la autoridad competente.
+
+e.5- Las misceláneas y abarroterías en zonas urbanas de vivienda popular podrán hacer uso de letreros pintados sobre las fachadas.
+
+e.6- Consultorios médicos. Deberán colocar un solo letrero que identifique al grupo de médicos que ocupen el inmueble bajo una sola denominación evitando el listado de nombres y especialidades de cada uno.
+
+f. OBRAS EN CONSTRUCCIÓN
+
+f.1- Obligatoriamente Habrá un letrero por obra durante la vigencia de la licencia de construcción
+
+f.2- Contendrá los siguientes datos:
+
+Denominación del proyecto,
+
+Nombre del propietario,
+
+Nombre del constructor,
+
+Nombre, registro y dirección del Director Responsable de Obra,
+
+Número de licencia de construcción.
+
+f.3- Se colocará sobre un par de postes en un sitio con acceso libre desde la vía pública para verificación
+
+f.4- Se colocará adosada a la parte frontal del letrero y accesible para su lectura una copia de la licencia de construcción.
+
+f.5- Los letreros serán elaborados sobre láminas de plástico
+
+f.6- Para fines residenciales y comerciales el tamaño tipo será únicamente de 0.61 x 1.22
+
+f.7- Para fines comerciales cuya superficie rebase los 3,000 m2 bajo techo los letreros podrán tener excepcionalmente 1.22 x 2.44 m.
+
+f.8- El responsable de obra deberá tener en perfecto estado físico el letrero de obra.
+
+g. RESTAURANTES, BARES, CAFETERÍAS Y ESTABLECIMIENTOS DE CONSUMO DE ALIMENTOS Y BEBIDAS
+
+g.1- Podrán colocar un letrero perpendicular a la fachada del edificio en el acceso principal al giro comercial
+
+g.2- los letreros para estos giros podrán utilizar los dos frentes disponibles
+
+g.3- en forma excepcional en los casos de bienes inmuebles en esquina podrán optar por colocar uno adicional en el segundo frente de manzana, de menor jerarquía, previa autorización de la Dirección Municipal de Planeación Urbana
+
+g.4- la forma de sujeción será suspendido o colgante
+
+g.5- quedará colocado sobre un campo real o virtual de proporciones rectangulares o fondo de medidas máximas de 1.22 m. para el ancho y 1.22 m. para el alto a elección del operador o propietario
+
+g.6- deberá de quedar colocado a una altura mínima libre de 2.50 m sobre del nivel de banqueta
+
+g.7- no podrá rebasar la altura de la fachada del edificio
+
+g.8- su longitud sobre la vía pública nunca excederá el ancho de la banqueta peatonal sobre la cual se encuentra colocado ni podrá tener más de 1.22 m. de ancho
+
+g.9- podrán utilizar cualquier material de fondo o enmarcamiento para montar el letrero
+
+g.10- la iluminación del letrero será de manera indirecta sin que se detecte la fuente de la misma desde la vía pública
+
+g.11- no podrá asociarse a ningún tipo de publicidad o marca comercial
+
+II. SEÑALES
+
+Las señales son símbolos gráficos, textos o ambos elementos, colocados en la vía pública que tienen por objeto instruir, prevenir o informar a los usuarios de la vía pública de la existencia de normas, restricciones, prohibiciones o peligros que organicen, agilicen, limiten o imposibiliten sus movimientos y desplazamientos.
+
+Las señales pueden ser de tipo horizontal o vertical según la superficie y dispositivo de montaje que utilicen para su presentación y fijación.
+
+Comprende las señales necesarias para:
+
+a) las indicaciones de tránsito,
+
+b) la nomenclatura de espacios públicos entre ellos las calles y las plazas,
+
+c) los números oficiales de los inmuebles,
+
+d) la información de los destinos públicos principales,
+
+e) de accesos y adaptaciones especiales para personas con capacidades distintas.
+
+Las señales utilizarán primordialmente diseños gráficos a base de signos y utilizarán los símbolos oficiales existentes en México y aquellos convencionales a nivel internacional dando prioridad a los acordados y utilizados por los países del Tratado de Libre Comercio de América del Norte.
+
+SOBRE LA COLOCACIÓN
+
+Todas las señales se ubicarán en la vía pública.
+
+Para todos los casos y para protección de los peatones y vehículos la parte inferior de las placas de nomenclatura deberá de quedar a una distancia no menor a 2.00 metros sobre el nivel de la acera o de la superficie peatonal inmediatamente bajo la misma y a no menos de 30 centímetros del paramento vertical que delimita el espacio del arroyo de circulación vehicular.
+
+Las placas deberán de quedar siempre en posición vertical y a 90 grados con respecto al eje de la vialidad, excepto el que indica el sentido del tránsito vehicular, el cuál se ubicará paralelo al eje longitudinal de la vía correspondiente y a la distancia que indiquen las normas de vialidad.
+
+1. SEÑALES DE TRANSITO
+
+- para los efectos de este reglamentó, las señales se clasifican en los siguientes rubros:
+
+A. Por su colocación:
+
+1) Verticales.- Se colocan utilizando postes, estructuras o paramentos verticales.
+
+2) Horizontales.- Se colocan normalmente sobre el pavimento de las superficies de rodamiento y de tránsito vehicular o peatonal.
+
+B. Por el tipo de mensaje:
+
+a) Preventivas
+
+b) Restrictivas
+
+c) Informativas
+
+- El diseño, la tipografía, los colores serán los oficiales autorizados y contenidos en el Manual de Dispositivos para el Control de Tránsito en Zonas Urbanas y Suburbanas.
+
+A. Los colores autorizados son:
+
+- Rojo.- Para el círculo y la franja diagonal de las señales restrictivas, el fondo de las señales de alto y la cruz roja de las señales informativas.
+
+- Blanco.- Para el fondo de las señales restrictivas y de información general y la tipografía de las señales informativas y de protección por obras.
+
+- Azul.- Para el fondo de las señales diagramáticos, informativas y de servicios.
+
+- Amarillo.- Para el fondo de los escudos de las Carreteras Federales.
+
+- Naranja.- Para el fondo de las señales o dispositivos para protección de obras de construcción y conservación de calles y carreteras.
+
+- Negro.- Para la tipografía y gráficos de las señales restrictivas y preventivas.
+
+- No se permitirá variación alguna en los diseños de las señales.
+
+- Las señales de tránsito localizadas sobre vialidades privadas deberán de cumplir rigurosamente con las normas de diseño y colocación de las normas del Manual de Dispositivos para el Control de Tránsito en Zonas Urbanas y Suburbanas
+
+- Todos los desarrollos, fraccionamientos, colonias, condominios adoptarán las normas para las señales de tránsito aprobadas respetando la simbología, tamaño, colores, tipo de sujeción y recomendaciones o restricciones para su localización y uso.
+
+2. SEÑALES DE NOMENCLATURA
+
+Las señales de nomenclatura se utilizan para identificar por un lado espacios públicos pudiendo ser vialidades o equipamientos y por otro para identificar los predios en forma numérica.
+
+Solamente podrán ubicarse en el predio o espacio al cuál identifican específicamente.
+
+Los desarrollos y fraccionamientos privados así como los condominios podrán proponer y definir el diseño propio, específico y único para la nomenclatura de sus calles y podrán colocarlos previa autorización y registro de sus nombres y formatos con el H. Ayuntamiento de Los Cabos.
+
+a) SEÑALES URBANAS
+
+- Vialidades
+
+- Carreteras, libramientos regionales
+
+- Federales
+
+- Estatales
+
+- Municipales
+
+- Caminos rurales
+
+- Vialidades primarias de alta velocidad o de acceso controlado
+
+- Vialidades primarias
+
+- Vialidades secundarias
+
+- Vialidades locales
+
+- Callejones, cerradas y retornos
+
+- Vialidades peatonales y andadores
+
+- Sectores
+
+- Centro urbanos
+
+- Desarrollos inmobiliarios
+
+- Colonias
+
+- Fraccionamientos
+
+- Condominios
+
+- Espacios públicos
+
+- Playas
+
+- Parques
+
+- Jardines
+
+- Plazas
+
+- Monumentos
+
+- Edificios
+
+- Equipamiento
+
+- Centros comerciales
+
+- Estacionamientos
+
+- Hospitales
+
+b) NÚMEROS OFICIALES
+
+- Para ser colocados deberá de contar con el certificado de alineamiento y de número oficial y tener pagados los derechos correspondientes
+
+- Habrá uno por predio
+
+- Se colocará en el acceso principal a cada inmueble
+
+- solamente se colocará uno por inmueble
+
+- dando a la vía pública
+
+- sobre el alineamiento con la vía pública
+
+- en el caso en que el inmueble se encuentre remetido del alineamiento con la vía Pública el letrero deberá de localizarse a no más de tres metros del alineamiento con la vía pública
+
+- podrán ser remetidos o sobrepuestos
+
+- estarán hechos de material sólido
+
+- en caso de tener fondo será de un color contrastante con el utilizado para el número
+
+- Los predios de las colonias con vivienda popular utilizarán el número oficial estandarizado que proporcionará con cargo al propietario la Dirección de Planeación Urbana Municipal con las siguientes características:
+
+- número en color contrastante contra el fondo de acuerdo a los tonos de la gama oficial
+
+- material plástico durable
+
+- dimensión mínima por número de 10 cms x 20 cms
+
+- colocado en el costado del acceso peatonal a la propiedad, a una altura de 1.80 m del nivel de banqueta o del terreno natural en el alineamiento
+
+3. SEÑALES DE INFORMACIÓN
+
+Las señales de tipo informativo se utilizan para dar direcciones o señalar rutas para un recorrido que lleven a un destino.
+
+a) Turísticas.- Destinos, rutas, servicios
+
+b) Emergencias.- Salidas y rutas de evacuación
+
+c) Exhibidores.-
+
+Podrán colocarse en espacios públicos cuya dimensión lo permita:
+
+- sin obstaculizar el tráfico peatonal o vehicular
+
+- en plazas públicas
+
+- sobre vialidades podrá haber uno por frente de manzana únicamente y la separación mínima entre ellos será de 100 m.
+
+- banquetas y andadores públicos
+
+- en el caso de requerirse de un lenguaje escrito se utilizará el español con prioridad y se permitirá el uso del inglés simultáneamente
+
+4. GENERALIDADES
+
+- No se podrá asociar ni colgar anuncios publicitarios de las estructuras, de las señales, ni ser parte integral de las mismas
+
+- Se buscará concentrar la ubicación y colocación de señales para evitar su proliferación y uso confuso
+
+- Se utilizarán y simplificarán las señales para que se utilice el menor número posible de ellas
+
+- En caso de requerirse de un lenguaje escrito se utilizará el español
+
+ARTICULO 64 BIS. (DEROGADO, B.O. 10 DE OCTUBRE DE 2004)
+
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 65.
 
-Los materiales permitidos son madera y lámina metálica, o su similar siempre y cuando conserven las mismas características.
+DE LA PUBLICIDAD URBANA
 
-###### ARTICULO 65.
+La Publicidad en el medio ambiente urbano se manifiesta a través de Avisos y Anuncios.
 
-BIS. Queda estrictamente prohibida la colocación de anuncios inflables en cualquier lugar, ya que son un contaminante visual.
+Los avisos y anuncios son utilizados con fines publicitarios o informativos.
+
+La política en materia de imagen urbana está dirigida a regular la publicidad de tal manera que se impida el deterioro visual urbano y se logre una armonía en el entorno, (sic)
+
+I. ANUNCIOS
+
+Es la propaganda comercial de marcas, productos y servicios preferentemente con fines publicitarios y comerciales.
+
+Todos los anuncios, Incluidos los espectaculares, quedan terminantemente prohibidos en todo el territorio del Municipio, salvo las excepciones reguladas por este reglamento.
+
+TIPOS DE ANUNCIOS COMPRENDERÁN:
+
+1. BANDEROLAS PARA ANUNCIOS
+
+Anuncios sinónimos de, banderas, estandartes, banderolas.
+
+Son fabricados con tela de plástico.
+
+Se colocarán montados en un poste para funcionar en forma ondulante o rígida. Los postes deberán estar colocados a nivel de terreno natural, y no se permitirán sobre ninguna edificación o construcción.
+
+Son permitidas siempre y cuando se coloquen en terrenos con proyectos previamente autorizados, en proceso de desarrollo o ya desarrollados y como parte integral del diseño urbano, arquitectónico o de paisaje del inmueble de que se trate y previo dictamen del SubComité de Imagen Urbana y autorizados por la Secretaria de Desarrollo Urbano y Ecología.
+
+Solamente se permitirá una o dos por poste.
+
+El uso de banderines de plástico, papel o tela para promociones no se permitirán.
+
+2. EN PRECAMPAÑAS Y CAMPAÑAS POLÍTICAS
+
+- Se contemplaran las normas que rigen al Instituto Federal Electoral y del Instituto Estatal Electoral, además se procurará buscar acuerdos con los partidos políticos y con la autoridad electoral para respetar una limpieza de propaganda política y un orden en precampañas, campañas y tiempos post-electorales para el retiro de la publicidad.
+
+El Ayuntamiento difundirá ampliamente el contenido de los acuerdos que se tomen.
+
+El Ayuntamiento procurará mediante acuerdo con los partidos políticos respectivos y con las autoridades electorales que sobre las vialidades regionales, entendiéndose como vialidades regionales la carretera Transpeninsular, atravesando la ciudad Lineal, San José del Cabo, Corredor Turístico, y Cabo San Lucas hasta la salida a Todos Santos, terminando en Migriño que es limite territorial del Municipio de Los Cabos, B.C.S., los libramientos carreteros, así como las vialidades primarias de las ciudades respectivas permanezcan libres de propaganda electoral.
+
+3. EXHIBIDORES PARA ANUNCIOS
+
+- Los Exhibidores quedan terminantemente prohibidos sobre la vía pública obstaculizando las aceras de circulación.
+
+4. ANUNCIOS EN BARDAS Y FACHADAS
+
+- Están prohibidos sobre las bardas y fachadas que den a un espacio público salvo los casos de excepción a que se refiere el punto 2 que antecede.
+
+5. PUNTOS DE VENTA SOBRE LA VÍA PÚBLICA
+
+En los puntos de venta de bienes u ofrecimientos de servicios sobre la vía publica, estará prohibida la utilización de letreros, señales, avisos y anuncios
+
+- Se permitirá al interior de plazas y locales comerciales siempre y cuando no invadan ni sean visibles desde la vía pública.
+
+6. VEHÍCULOS
+
+No se permitirá el uso de anuncios ambulantes, montados sobre toldos, cofres, capacetes, cajuelas o en ventanas de los vehículos, en plataformas o remolques,
+
+- En vehículos de transporte publico estatal, independientemente del tipo y para poder circular en las vías publicas de jurisdicción municipal, deberán obtener autorización municipal, en los términos de la Ley de Transporte del Estado de Baja California Sur y su Reglamento, y en todo caso no podrán exceder una superficie mayor al 20% de la superficie del costado donde se pretenda fijar,
+
+- Los vehículos utilitarios podrán tener anuncios propios de su giro comercial exclusivamente, para estos efectos se entenderá como vehículo utilitario aquel que se encuentre registrado o dado de alta en el inventario fiscal del propietario anunciante, y de acuerdo a lo que marque la Ley de Transporte Publico del Estado de Baja California Sur y su Reglamento.
+
+- En los vehículos del servicio particular, no utilitarios queda prohibida la fijación de cualquier tipo de publicidad comercial.
+
+7. INFLABLES
+
+- Se permitirán temporalmente y cumpliendo con las normas de seguridad en materia de sujeción, previo dictamen del Comité Técnico de Imagen Urbana
+
+8. CARPAS
+
+- Se permitirán temporalmente y cumpliendo con las normas de seguridad en materia de su sujeción y previo dictamen del Comité Técnico de Imagen Urbana y autorizados por la Secretaria Municipal de Desarrollo Urbano y Ecología.
+
+9. TOLDOS
+
+- Se permitirán sujetándose a los criterios regulados en el apartado correspondiente a estructuras en la vía pública, previo dictamen del Comité de Imagen Urbana
+
+10. ANUNCIOS LUMINOSOS
+
+- se permitirán en las zonas centrales asociadas a giros de diversión clasificados como centros nocturnos, bares, restaurantes, cabarets y discotecas, previo dictamen del Comité Técnico de Imagen Urbana.
+
+11. BIENES RAÍCES Y DESARROLLOS INMOBILIARIOS
+
+A. ANUNCIOS.-
+
+Se utilizan para anunciar y promover la venta o arrendamiento de bienes inmuebles.
+
+- Solamente se permitirá un anuncio de venta por inmueble.
+
+- El letrero se instalará colocado sobre un poste único como mínimo o utilizando dos postes como máximo de 1.00 m. de alto medido a partir de la superficie natural del terreno y colocado a una distancia de 1.00 m. del alineamiento con la vía pública.
+
+- La superficie única para los anuncios será de 90cm. x 90 cm. Pudiendo tener un letrero adicional con el nombre del agente representante en una tablilla de 10 cm. x 90 cm. colgando en la parte inferior.
+
+- El anuncio podrá ser colocado sobre el lindero del inmueble hacia el interior de la propiedad o dentro de una franja a una distancia mínima de 1.00 m. del alineamiento con la vía pública.
+
+- El anuncio tendrá exclusivamente el nombre y logotipo del agente de bienes raíces debidamente registrado y autorizado y el teléfono de la oficina central del corredor.
+
+- Los particulares que opten por promover la venta de sus inmuebles en forma personal podrán anunciarse ajustándose a las normas aplicables a los agentes de bienes raíces substituyendo el logotipo por la leyenda EN VENTA.
+
+- Las mantas, caballetes tipo “emparedado” o “Sándwich” para promover la venta de inmuebles en la vía pública no se permitirán.
+
+- El uso de banderines de plástico, papel o tela para promover un bien inmueble no se permitirán.
+
+B. PRISMAS DE COMERCIALIZACIÓN.-
+
+Se utilizarán para promover la comercialización de predios o inmuebles de gran magnitud cuya superficie exceda los 5,000 m2 y tengan un mínimo de frente a la vía pública de 50.00 m. o que sean conjuntos y fraccionamientos
+
+El prisma deberá tener las siguientes características:
+
+- figura geométrica de un prisma con base rectangular, triangular o circular
+
+- la envolvente del prisma deberá ajustarse a las medidas 0.80 m x 0.80 m. por lado de base y que no exceda de 4.00 m. de alto
+
+- el predio deberá de quedar ubicado dentro del límite del centro de población
+
+- en el caso de haber varios predios en estas circunstancias dentro de un mismo desarrollo solamente se concederá uno para uso de ese desarrollo integral
+
+- los materiales serán plásticos translucidos
+
+- contendrán impreso el nombre y logotipo del agente de bienes raíces y datos para contactarlo
+
+- las Asociaciones de Bienes Raíces podrán proponer el prototipo al cuál se sujetará el sector que promueve la venta y renta de bienes inmuebles y lo someterá al Comité Municipal de Imagen Urbana para su dictaminación y aprobación por la Secretaría Municipal de Desarrollo Urbano y Ecología
+
+- Solamente podrá colocarse un prisma por predio
+
+- No podrá ser luminoso aun que si reflejarte en un 5% de su área total
+
+- Se colocará a una distancia no inferior a 6.00 m. del alineamiento con la vía pública o de cualquiera de sus colindancias con otros predios
+
+II. AVISOS
+
+Avisos.- Se utilizan para promover y anunciar eventos, celebraciones o actividades culturales, sociales, artísticas, deportivas y políticas públicas.
+
+a) Es el único caso en que se permitirán letreros de gran dimensión
+
+b) Podrá ser de tipo impreso o de pantalla electrónica
+
+c) Los avisos son de tipo temporal, administrados exclusivamente por la autoridad municipal o quien ella determine
+
+d) Solamente se podrán instalar en los sitios autorizados para ello que corresponden a los accesos regionales a los distintos centros de población que se han destinado especialmente para ello:
+
+a. Accesos regionales a los centros de población:
+
+i. Acceso de Todos Santos a Cabo San Lucas
+
+ii. Acceso de San José del Cabo a Cabo San Lucas
+
+iii. Acceso de Cabo San Lucas a San José del Cabo
+
+iv. Acceso de Buenavista a San José del Cabo
+
+v. Acceso a Santiago
+
+vi. Acceso a Miraflores
+
+vii. Acceso a La Ribera
+
+b. Predios para ferias y eventos populares
+
+c. Auditorios, instalaciones deportivas
+
+e (sic)) No se podrán utilizar mantas
+
+f) Quedan restringidos a las áreas urbanas existentes
+
+g) No se podrán colocar sobre vialidades
+
+h) Deberán quedar colocadas dentro del predio del inmueble que promueva dichas actividades o que las albergue
+
+i) Deberá promoverlos y operarlos el H. Ayuntamiento directamente cobrando o exentando los derechos correspondientes o en su defecto otorgar la concesión para su construcción, uso, usufructo y mantenimiento a otras personas o instituciones en los términos que determine la autoridad.
+
+2.1.2. Volantes.- Son impresos en hojas únicas que se distribuyen en la vía pública
+
+- No se permitirán volantes distribuidos en la vía pública en las zonas indicadas en el inciso d) de este apartado.
+
+- El anunciante será corresponsable en la aplicación de las sanciones por su mal uso y distribución.
+
+ARTICULO 65 BIS. (DEROGADO, B.O. 10 DE OCTUBRE DE 2004)
+
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 66.
 
-Para la iluminación de los anuncios:
+DE LA ILUMINACIÓN, LENGUAJE Y COLOCACIÓN.
 
-I. La iluminación que se requiera para anuncios, letreros, aparadores, vitrinas y otros, deberán autorizarse por el ayuntamiento. La iluminación funcionará exclusivamente de noche y las fuentes luminosas (focos y/o lamparas), no quedarán expuestos a la vista.
+Son aplicables a todos los rubros objeto de esta reglamentación.
 
-II. La iluminación será exclusivamente para el anuncio.
+3.1. Respecto a la iluminación:
 
-III. Los cables, soportes o estructuras que requiera la iluminación deberán quedar ocultos al exterior.
+- No se permiten dispositivos de los llamados luminosos cuya fuente de iluminación queda incorporada al mensaje o proceda del fondo mismo de la superficie del letrero, aviso, señal o anuncio.
+
+- La iluminación será exclusivamente para el anuncio
+
+- los cables, soportes o estructuras que requiera la iluminación deberán quedar ocultos al exterior.
+
+- Por lo tanto habiendo dos tipos de fuentes de iluminación se permitirá:
+
+- Iluminación directa
+
+- Iluminación indirecta
+
+No se permitirá:
+
+- Iluminación interior en materiales traslucidos.
+
+- Neón
+
+- Acrílico
+
+Salvo en los siguientes casos: Hospitales, servicios de urgencia, farmacias de guardia, centros nocturnos, discotecas, cabarets, restaurantes y bares.
+
+3.2. Respecto al lenguaje
+
+- Se deberá de utilizar el español excepto cuándo se trate del nombre del establecimiento o de una marca registrada.
+
+3.3. Respecto de la colocación
+
+- Todos los letreros, anuncios, señales y avisos deberán de quedar colocados de tal manera que no resulten un nesgo para el peatón.
+
+- La localización de los letreros, anuncios, señales y avisos no deberán obstaculizar la visual (sic) de unos y otros.
+
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 67.
 
-La dimensión de los anuncios deberá ser.
+AUTORIZACIONES
 
-I. En planta baja, con un máximo de 45 centímetros de peralte.
+- Los letreros, avisos y anuncios deberán contar con la autorización de la Secretaria Municipal de Desarrollo Urbano y Ecología previo a su instalación
 
-II. En planta alta, con 60 centímetros de peralte.
+Las señales deberán de ser autorizadas por el Cabildo previo visto bueno de la Secretaría de Desarrollo Urbano y Ecología y consulta y aprobación de la Comisión Consultiva de Desarrollo Urbano de Los Cabos.
 
-III. En ningún caso excederán el 10 % de la superficie de la fachada en la planta baja.
+- Para ello el solicitante deberá presentar los siguientes requisitos:
 
-ARTICULO 67 BIS. Colores base y proporciones permitidas.
+- Petición por escrito
 
-COLOR PORCENTAJE AREA
+- Acreditar la propiedad del inmueble dónde se requiere instalar o en su defecto anuencia por escrito debidamente notariada del propietario del inmueble
 
-MARFIL DE UN 60% HASTA UN 100% FACHADAS
+- Dibujo a escala demostrando la ubicación del letrero en el inmueble debidamente acotado y especificando los materiales y colores de los acabados de la fachada y del letrero.
 
-CREMA DE UN 60% HASTA UN 100% FACHADAS
+Dibujo a escala especificando el sistema de suspensión a utilizarse con todos los cálculos y especificaciones
 
-ARENA DE UN 60% HASTA UN 100% FACHADAS
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 10 DE OCTUBRE DE 2004)</small>
 
-PAJA DE UN 40% HASTA UN 60% FACHADAS
+ARTICULO 67 BIS. SECTORIZACIÓN
 
-BEIGE DE UN 15% HASTA UN 25% VOLUMEN ALTO
+Para la sectorización se estará conforme a los usos del suelo que define el Plan de Desarrollo Urbano vigente.
 
-DURAZNO DE UN 5% HASTA UN 15% PORTICO,
+Disposiciones Generales:
 
-VANOS, ETC.
+Vía Pública
 
-OCRE VIVO DE UN 1% HASTA UN 10% MARCOS, ARCOS,
+No podrán invadir la vía pública con dispositivos que utilicen las aceras y banquetas
 
-TORRES.
+Densidad de anuncios
 
-COLOR
+Criterios de dosificación:
 
-CONTRASTANTE DE UN 1% HASTA UN 10% VER COMENTARIOS
+Localización de anuncios
+
+- Impacto o efectos negativos:
+
+- sobre azoteas quedan terminantemente prohibidos
+
+- sobre fachadas
+
+- sobre muros quedan condicionados al plano de localización
+
+Proporciones
+
+Tipografía
+
+- Libre
+
+- Estandarizada
+
+- Por tipo de letrero
+
+Por su:
+
+-mensaje o finalidad:
+
+-forma de fijación
+
+- poste
+
+- colgante
+
+- sobrepuesto
+
+-tipo
+
+- pintado
+
+- sobrepuesto
+
+- enmarcado
+
+- libre
+
+- colgante
+
+-materiales
+
+- pintura
+
+- tela
+
+- albañilería
+
+- plástico
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2004)</small>
+
+ARTICULO 67 BIS A. Queda prohibido manchar o fijar anuncios y propaganda impresa o pintada en edificios públicos y particulares, bardas, banquetas, arbotantes, monumentos y obras de arte. Se sancionará en términos del Bando de Policía y Buen Gobierno, a quien viole lo dispuesto en este precepto.
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2004)</small>
+
+ARTICULO 67 BIS B. El uso de banderines de plástico, papel o tela para publicidad no se permitirán.
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2004)</small>
+
+ARTICULO 67 BIS C. Queda estrictamente prohibido las inscripciones o signos anónimos dibujados o pintados en paredes de edificios, muros, bardas, comúnmente denominados "graffiti". Quienes incurran en esta conducta serán sujetos a las sanciones previstas en el Bando Municipal de Policía y Buen Gobierno.
 
 ###### ARTICULO 68.
 
@@ -776,11 +1456,11 @@ V. Que los comerciantes obstruyan la vía pública, ya sea con los bienes que ex
 
 DE LAS LICENCIAS, AUTORIZACIONES Y PERMISOS.
 
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 75.
 
-Para la realización de cualquier obra o acción de imagen urbana, fijación de anuncios, carteles y propaganda comercial y de servicios dentro del municipio, se requiere la obtención de autorización o permiso de la Dirección General de Asentamientos Humanos, Obras Públicas y Ecología Municipal y Planificación Urbana.
-
-Para la fijación temporal de anuncios, carteles y toda clase de propaganda política y de espectáculos y diversiones públicas dentro del municipio, las autorizaciones correspondientes deberán solicitarse y obtenerse ante la Secretaría General del Ayuntamiento o Delegaciones Municipales en su caso.
+Para la realización de cualquier obra o acción de imagen urbana, fijación de anuncios, carteles y propaganda comercial y de servicios dentro del municipio, se requiere la obtención de autorización o permiso de la Secretaría Municipal de Desarrollo Urbano y Ecología.
 
 ###### ARTICULO 76.
 
@@ -806,9 +1486,11 @@ g). Para el caso de colocación de anuncios y propaganda en propiedad ajena al s
 
 h). Carta compromiso o contrato de renta y autorización de uso del suelo, en su caso, para estacionamiento.
 
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 78.
 
-El ayuntamiento, junto con el Comité Técnico de Protección de la Imagen Urbana, podrá solicitar, cuando a su juicio lo amerite por el impacto de una nueva construcción, los estudios, proyectos y documentos que orienten la realización de un proyecto arquitectónico que cumpla con lo especificado en el artículo anterior.
+El ayuntamiento, junto con el Comité Técnico, podrá solicitar, cuando a su juicio lo amerite por el impacto de una nueva construcción, los estudios, proyectos y documentos que orienten la realización de un proyecto arquitectónico que cumpla con lo especificado en el artículo anterior.
 
 ###### ARTICULO 79.
 
@@ -983,3 +1665,15 @@ Décimo Cuarto Regidor.
 C. Luis Armando Díaz.
 
 Secretario General.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 10 DE OCTUBRE DE 2004.
+
+PRIMERO: Las presentes reformas y derogaciones entraran en vigor en el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: los anuncios existentes que contravengan el presente reglamento deberán ser retirados o substituidos en un plazo máximo de sesenta días naturales contados a partir del día siguiente de su publicación.
+
+TERCERO: Los propietarios de letreros existentes cuentan con 180 días naturales a partir del día siguiente a su publicación, para cumplir con este ordenamiento.
+
+CUARTO: Se derogan aquellas disposiciones del Municipio que se opongan al presente reglamento.
