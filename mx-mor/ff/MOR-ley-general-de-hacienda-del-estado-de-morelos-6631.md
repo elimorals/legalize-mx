@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1991-12-26"
+last_updated: "1992-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1992.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -3119,57 +3119,41 @@ TASA O CUOTA
 
 FIJA O MENSUAL
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1992)</small>
+
 I.- De espectáculos.
 
-A).- Cinematógrafos.
+A).- Variedades y otros similares, sobre el
 
-1).- Sobre el ingreso bruto percibido
+ingreso bruto percibido por el boletaje
 
-por el boletaje vendido. 5%
+vendido 5%
 
-2).- Instalados en vehículos, por función, de .25 A .50%
+B).- Festivales taurinos:
 
-B).- Teatro, variedades y otros Similares
+1).- Corridas de toros, sobre el ingreso bruto
 
-sobre el ingreso bruto percibido por el
+percibido por el boletaje vendido 10%
 
-boletaje vendido. 5%
+2).- Novilladas y charreadas, sobre el ingreso
 
-C).- Circo.
+bruto percibido por el boletaje vendido 5%
 
-Sobre el ingreso bruto percibido por el
+C).- Lucha libre y box, sobre el ingreso bruto
 
-boletaje vendido. 5%
+percibido por el boletaje vendido 10%
 
-D).- Festivales taurinos.
+D).- Deportivos: Futbol, béisbol y otros
 
-1).- Corridas de toros.
+espectáculos similares, sobre el ingreso
 
-Sobre el ingreso bruto percibido por el
+bruto percibido por el boletaje vendido 10%
 
-boletaje vendido 10%
+E).- Por la explotación de balnearios, sobre
 
-2).- Novilladas y charreadas.
+el ingreso bruto percibido por el boletaje
 
-sobre el ingreso bruto percibido por el
-
-boletaje vendido 5%
-
-E).- Lucha libre y box
-
-sobre el ingreso bruto percibido por el
-
-boletaje vendido. 10%
-
-F).- Deportivos: Futbol, béisbol y otros
-
-espectáculos similares sobre el ingreso
-
-bruto percibido por el boletaje vendido. 10%
-
-G).- Por la explotación de balnearios. 2%
-
-Se tomará como base el ingreso bruto percibido por el boletaje vendido, debiéndose enterar a la recaudación de rentas respectiva, dentro de los primeros quince días del mes siguiente.
+vendido 2%
 
 II.- De Diversiones.
 
@@ -3207,13 +3191,13 @@ en premios. 10%
 
 Los contribuyentes del impuesto fijado en el artículo anterior lo enterarán en la forma siguiente:
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1990)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1992)</small>
 
-I.- Los comprendidos en la fracción I inciso a) subinciso I, lo pagarán dentro del los primeros quince días naturales del mes posterior.
+I.- Los comprendidos en la fracción I, incisos A), B), C) y D), y la fracción V, lo pagarán el día de la función;
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1990)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1992)</small>
 
-II.- Los comprendidos en las fracciones I inciso A), B), C), D), E), F) y G); II inciso A), y V lo pagarán el día de la función.
+II.- Los comprendidos en la fracción I, inciso E), lo pagarán dentro de los primeros quince días naturales del mes posterior;
 
 III.- Los comprendidos en las fracciones IV y VI lo cubrirán dentro de la semana posterior a los sorteos o rifas.
 
@@ -5978,3 +5962,13 @@ Se derogan todos los acuerdos, reglamentos y demás disposiciones que se opongan
 ###### ARTICULO TERCERO.
 
 Remítase el presente decreto al Titular del Poder Ejecutivo Estatal para los efectos que señala la Fracción XVII del Artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 21 DE OCTUBRE DE 1992.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Se derogan todos los acuerdos, reglamentos, circulares y demás disposiciones que se opongan al presente decreto.
+
+TERCERO.- Las actividades gravadas al amparo de la vigencia de las disposiciones anteriores a la fecha en que entre en vigor el presente decreto, se enterarán y liquidarán de conformidad a dichas disposiciones.
+
+CUARTO.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal para los efectos constitucionales correspondientes.
