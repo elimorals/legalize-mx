@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-las-juntas-de-mejoramiento-moral-civico-y-7764"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-23"
-last_updated: "1967-12-27"
+last_updated: "1984-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA LAS JUNTAS DE MEJORAMIENTO MORAL, CIVICO Y MATERIAL EN EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1984.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 23 de diciembre de 1953.
 
@@ -51,9 +51,11 @@ III.- (DEROGADA POR ARTICULO NOVENO TRANSITORIO DE LA LEY DE PLANIFICACION DEL E
 
 En las ciudades populares se crearán comités por Sectores, barrios, colonias, etc., a juicio del C. Gobernador del Estado, y con los mismos fines y modalidades que la Junta de Mejoramiento Moral, Cívico y Material del Municipio, la que coordinará las labores de los diferentes Comités y procurará que no queden sectores, colonias o zonas sin el organismo correspondiente.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1984)</small>
+
 ###### Artículo 4o.
 
-Para la integración de las Juntas a que esta Ley se refiere, en cada Municipio el Presidente Municipal y un Representante del C. Gobernador del Estado convocarán a las personas residentes en la localidad y que más se hayan caracterizado por su honradez, moralidad y actividad en obras de beneficio colectivo, sin distinción alguna por razón de opinión, ideología, religión, edad, sexo o nacionalidad, debiéndose solicitar y recibir sin limitación alguna la cooperación de la mujer.
+Para la integración de las Juntas a que esta Ley se refiere, en cada Municipio el Presidente Municipal y un representante del C. Gobernador del Estado, convocarán a las personas residentes en la localidad y que más se hayan caracterizado por su honradez, moralidad y actividades en obras de beneficio colectivo, sin distinción alguna por razón de opinión, ideología, religión o edad, sexo o nacionalidad.
 
 ###### Artículo 5o.
 
@@ -143,10 +145,14 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 P.O. 27 DE DICIEMBRE DE 1967.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
-
 LEY DE PLANIFICACION DEL ESTADO DE NUEVO LEON
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 1o.- Esta Ley entrará en vigor el día primero de enero de 1968, si para entonces ha sido publicada en el Periódico Oficial del Estado, o, en su defecto, tres días después de que se haya efectuado la publicación.
 
 9o.- Se deroga la fracción III del artículo 2o. de la Ley de fecha 4 de octubre de 1953 que creó las Juntas de Mejoramiento Moral, Cívico y Material en el Estado de Nuevo León, subsistiendo dicha Ley en todo lo que no se contraponga a la presente.
+
+P.O. 2 DE NOVIEMBRE DE 1984.
+
+UNICO:- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
