@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1984-01-04"
+last_updated: "1989-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1989.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -334,7 +334,9 @@ En las causas en que se encuentre agotada la averiguación correspondiente, y no
 
 Los Jueces y Tribunales, en todo lo que la Ley no prohiba o prevenga expresamente, podrán dictar en procesos sujetos a su jurisdicción, los trámites y providencias necesarios para la pronta y eficaz administración de Justicia.
 
-### CAPITULO VI. Términos judiciales
+### CAPITULO VI. Plazos y Términos
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 38.
 
@@ -438,15 +440,23 @@ Si el juez moroso residiere en algún Estado, la autoridad requeriente, proceder
 
 Los tribunales o jueces, al dirigirse a las autoridades o funcionarios que no sean judiciales, lo harán por medio de oficio.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1989)</small>
+
 ### CAPITULO VII. De las audiencias
 
 ###### ARTICULO 57.
 
-Los términos judiciales son improrrogables y empezarán a correr desde el día siguiente al en que se hubiere hecho la notificación. No se incluirán en ellos los domingos ni los días de fiesta nacional, salvo que se trate de tomar al procesado su declaración preparatoria o de pronunciar el auto de formal prisión.
+Los plazos son improrrogables y empezarán a correr desde el día siguiente al de la fecha de la notificación, salvo los casos que este Código señale expresamente.
+
+No se incluirán en los plazos, los sábados, los domingos, ni los días inhábiles, a no ser que se trate de poner al inculpado a disposición de los tribunales, de tomarle su declaración preparatoria o de resolver la procedencia de su formal prisión, sujeción o (sic) proceso o libertad.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 58.
 
-Los términos se contarán por días naturales, excepto los que se refieren a la declaración preparatoria o al auto de formal prisión, que correrán de momento a momento y desde que el procesado se halle a disposición de la autoridad judicial
+Los plazos se contarán por días hábiles, excepto los que se refieren a los tres casos mencionados en la segunda parte del artículo anterior y a cualquier otro que por disposición legal debe computarse por horas, pues éstos se contarán de momento a momento.
+
+Los términos se fijarán por día y hora.
 
 ### CAPITULO VIII. Resoluciones judiciales
 
@@ -582,9 +592,11 @@ Las resoluciones judiciales no se entenderán consentidas, sino cuando, notifica
 
 Todas las resoluciones apelables, deberán ser notificadas al Ministerio Público, al procesado, al querellante, en su caso, y al defensor o a cualquiera de los defensores si hubiere varios.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 81.
 
-Las notificaciones se harán a más tardar dentro de los tres días siguientes al en que se dicten las resoluciones que las motiven.
+Las notificaciones se harán a más tardar el día siguiente al en que se dicten las resoluciones que las motiven.
 
 ###### ARTICULO 82.
 
@@ -616,9 +628,11 @@ En la cédula se harán constar: el tribunal que manda practicar la diligencia, 
 
 Todas las notificaciones se harán personalmente al interesado, excepto en los casos expresamente consignados en este capítulo.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 88.
 
-Cuando haya que notificar a una persona fuera del lugar del proceso, pero dentro del territorio sujeto a la jurisdicción del tribunal, la notificación podrá hacerse o por el notificador del propio tribunal o por medio de oficio comisorio. Si la diligencia hubiere de practicarse fuera del territorio jurisdiccional del tribunal, se librará exhorto en la forma y términos que dispone esta ley.
+Cuando haya que notificar a una persona fuera del Distrito Federal, se librará exhorto, en la forma y términos que dispone esta ley.
 
 ###### ARTICULO 89.
 
@@ -1800,6 +1814,18 @@ Los mismos funcionarios asentarán también en dicha acta: todas las observacion
 
 Las diligencias practicadas por el Ministerio Público y por la Policía Judicial, tendrán valor probatorio pleno, siempre que se ajusten a las reglas relativas de este Código.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1989)</small>
+
+###### ARTICULO 286 Bis.
+
+Cuando aparezca de la averiguación previa que existe denuncia o querella, que se han reunido los requisitos previos que en su caso exija la ley y que se han comprobado el cuerpo del delito y la probable responsabilidad del inculpado, el Ministerio Público ejercitará la acción penal ante el órgano jurisdiccional que corresponda.
+
+El juzgado ante el cual se ejercite la acción penal, radicará de inmediato el asunto. Sin más trámite le abrirá expediente en el que se resolverá lo que legalmente corresponda y practicará, sin demora alguna, todas las diligencias que resulten procedentes.
+
+Si durante el plazo de diez días, contados a partir del en que se haya hecho la consignación, el juez no dicta auto de radicación en el asunto, el Ministerio Público podrá recurrir en queja ante la Sala Penal del Tribunal Superior que corresponda.
+
+El Juez ordenará o negará la aprehensión, reaprehensión o comparecencia solicitada por el Ministerio Público dentro de los quince días contados a partir del en que se haya acordado la radicación. Si no resuelve oportunamente sobre este punto, el Ministerio Público procederá en los términos previstos en la parte final del párrafo anterior.
+
 ### CAPITULO II. Auto de formal prisión y libertad por falta de méritos
 
 ###### ARTICULO 287.
@@ -1942,6 +1968,10 @@ Se seguirá procedimiento sumario cuando se trate de flagrante delito; exista co
 
 También se seguirá juicio sumario cuando se haya dictado auto de formal prisión o de sujeción a proceso, en su caso, si ambas partes manifiestan en el mismo acto o dentro de los tres días siguientes a la notificación, que se conforman con él y no tienen más pruebas que ofrecer, salvo las conducentes a la individualización de la pena o medida de seguridad y el juez no estime necesario practicar otras diligencias.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1989)</small>
+
+En los casos a que alude el párrafo anterior, la audiencia a que se refiere el artículo 308 se realizará dentro de los cinco días siguientes.
+
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 306.
@@ -1972,9 +2002,9 @@ Si es el Ministerio Público el que hace dicha reserva, al concluir el término 
 
 Si las conclusiones se presentan verbalmente, el juez podrá dictar sentencia en la misma audiencia o disponer de un término de cinco días. El mismo término regirá posteriormente a los que se fijan para presentar conclusiones por escrito.
 
-> <small>(F. DE E., D.O.F. 7 DE MAYO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1989)</small>
 
-No procede recurso alguno contra las sentencias que en estos procesos dicten los Jueces Menores y de Paz.
+No procede recurso alguno contra las sentencias que se dicten en procesos sumario.
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -2012,11 +2042,15 @@ En caso que dentro del término señalado en este artículo, y al desahogar las 
 
 Para asegurar el desahogo de las pruebas propuestas, los jueces harán uso de los medios de apremio y de las medidas que consideren oportunas, pudiendo disponer la presentación de personas por medio de la fuerza pública en los términos del artículo 33.
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 315.
 
-Transcurridos o renunciados los plazos a que se refiere el artículo anterior, o si no se hubiere promovido prueba, el Juez declarará cerrada la instrucción y mandará poner la causa a la vista del Ministerio Público y de la Defensa, durante cinco días por cada uno, para la formulación de conclusiones. Si el expediente excediera de cincuenta fojas, por cada veinte de exceso o fracción se aumentará un día más.
+Transcurridos o renunciados los plazos a que se refiere el artículo anterior, o si no se hubiere promovido prueba, el juez declarará cerrada la instrucción y mandará poner la causa a la vista del Ministerio Público y de la defensa, durante cinco días por cada uno, para la formulación de conclusiones. Si el expediente excediera de doscientas fojas, por cada cien de exceso o fracción, se aumentará un día al plazo señalado, sin que nunca sea mayor de treinta días hábiles.
+
+Transcurrido el plazo a que se refiere el párrafo anterior sin que el Ministerio Público haya presentado conclusiones, el juez deberá informar mediante notificación personal al Procurador acerca de esta omisión, para que dicha autoridad formule u ordene la formulación de las conclusiones pertinentes, en un plazo de diez días hábiles, contados desde la fecha en que se le haya notificado la omisión, sin perjuicio de que se apliquen las sanciones que correspondan; pero, si el expediente excediere de doscientas fojas, por cada cien de exceso o fracción se aumentará un día en el plazo señalado, sin que nunca sea mayor de treinta días hábiles.
+
+Si transcurren los plazos a que alude el párrafo anterior, sin que se formulen las conclusiones, el juez tendrá por formuladas conclusiones de no acusación y el procesado será puesto en inmediata libertad y se sobreseerá el proceso.
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -2048,17 +2082,17 @@ Las conclusiones definitivas del Ministerio Público sólo pueden modificarse po
 
 Si las conclusiones del Ministerio Público fueren de no acusación o contrarias a las constancias procesales, el Juez, señalando en qué consiste la contradicción, cuando ésta sea el motivo de la remisión, dará vista de ellas con el proceso respectivo al Procurador de Justicia, para que éste las confirme, modifique o revoque.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 321.
 
-Para los efectos del artículo anterior, el Procurador de Justicia o Subprocurador que corresponda oirán el parecer de los Agentes del Ministerio Público Auxiliares que deben emitirlo, y dentro de los quince días siguientes al de la fecha en que se haya recibido el proceso, resolverán si son de confirmarse o modificarse las conclusiones. Si transcurrido este plazo no se recibe respuesta de los funcionarios primeramente mencionados, se entenderá que las conclusiones han sido confirmadas.
+Para los efectos del artículo anterior, el Procurador de Justicia o Subprocurador que corresponda, oirán el parecer de los agentes del Ministerio Público auxiliares que deban emitirlo y dentro de los diez días siguientes al de la fecha en que se haya dado vista del proceso, resolverán si son de confirmarse o modificarse las conclusiones. Si el expediente excediera de doscientas fojas, por cada cien de exceso o fracción, se aumentará un día al plazo señalado, sin que nunca sea mayor de veinte días hábiles.
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+Si transcurridos los plazos a que se refiere el párrafo anterior no se recibe respuesta de los funcionarios mencionados, se entenderá que las conclusiones han sido confirmadas.
 
 ###### ARTICULO 322.
 
-Si el proceso no excede de cincuenta fojas, el Procurador de Justicia dictará la resolución a que se refiere el artículo anterior, dentro de los quince días siguientes a la recepción de la causa, con las conclusiones objetadas. Por cada veinte fojas más o fracción, se aumentará un día a los que aquí se señalan. Si el Procurador no resuelve dentro del plazo a que se refiere este precepto, se tendrán por confirmadas las conclusiones.
+(DEROGADO, D.O.F. 3 DE ENERO DE 1989)
 
 ###### ARTICULO 323.
 
@@ -2082,11 +2116,9 @@ Las partes deberán estar presentes en la audiencia. En caso de que el Ministeri
 
 La audiencia a que se hubiere convocado por segunda cita se llevará a cabo aun cuando no asista el Ministerio Público, sin perjuicio de la responsabilidad en que éste incurra. También incurrirá en responsabilidad el defensor faltista, pero en este caso se substituirá por uno de oficio, suspendiéndose la vista a efecto de que éste se imponga debidamente de la causa y pueda preparar su defensa. Lo dispuesto en este artículo no obsta para que el acusado nombre para que lo defienda a cualquiera de las personas que se encuentren en la audiencia y que legalmente no estén impedidas para hacerlo.
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
-
 ###### ARTICULO 327.
 
-Si el Ministerio Público no formula conclusiones dentro del plazo legal, se dará vista con la causa al Procurador, para que éste, sin perjuicio de la responsabilidad en que aquél hubiera incurrido, las formule en un plazo que no excederá de 15 días, contados desde la fecha en que se hubiese dado vista.
+(DEROGADO, D.O.F. 3 DE ENERO DE 1989)
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -2094,11 +2126,11 @@ Si el Ministerio Público no formula conclusiones dentro del plazo legal, se dar
 
 Después de recibir las pruebas que legalmente puedan presentarse, de la lectura de las constancias que las partes señalen y de oír los alegatos de las mismas, el juez declarará visto el proceso, con lo que termina la diligencia.
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 329.
 
-La sentencia se pronunciará dentro de los quince días siguientes a la vista. Si el expediente excediera de cincuenta fojas, por cada veinte de exceso o fracción se aumentará un día más.
+La sentencia se pronunciará dentro de los diez días siguientes a la vista. Si el expediente excediera de doscientas fojas, por cada cien de exceso o fracción, se aumentará un día más al plazo señalado, sin que nunca sea mayor de treinta días hábiles.
 
 ###### ARTICULO 330.
 
@@ -2670,6 +2702,10 @@ Si no admitiere la apelación, procederá el recurso de denegada apelación.
 
 Cuando la apelación se admita en ambos efectos, y no hubiere otros procesados en la misma causa que no hubieren apelado, y además no se perjudique la instrucción, o cuando se trate de sentencia definitiva, se remitirá original el proceso al Tribunal Superior respectivo. Fuera de estos casos, se remitirá testimonio de todas las constancias que las partes designen, y de aquellas que el Juez estime conducentes.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1989)</small>
+
+El original o testimonio debe remitirse al Tribunal Superior dentro del plazo de cinco días.
+
 ###### ARTICULO 423.
 
 Recibido el proceso o el testimonio en su caso, el Tribunal mandará citar a las partes para la vista del negocio, dentro de los quince días siguientes.
@@ -2684,9 +2720,11 @@ El día señalado para la vista del negocio, comenzará la audiencia por la rela
 
 Si fueren dos o más los apelantes, usarán de la palabra en el orden que designe el mismo Magistrado, pudiendo hablar al último el acusado o su defensor. Si las partes, debidamente notificadas, no concurrieren, se llevará adelante la audiencia, la cual podrá celebrarse en todo caso con la presencia de dos Magistrados; pero la sentencia respectiva deberá pronunciarse por los tres que integran la Sala.
 
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 425.
 
-Declarado visto el proceso, quedará cerrado el debate, y el Tribunal pronunciará su fallo dentro de quince días a más tardar, excepto en el caso del artículo siguiente.
+Declarado visto el proceso, quedará cerrado el debate, y el tribunal pronunciará su fallo dentro de diez días a más tardar, excepto en el caso del artículo siguiente.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -2764,7 +2802,9 @@ Siempre que el Tribunal encuentre retardado indebidamente el despacho de una cau
 
 Cuando el Tribunal notare que el defensor hubiere faltado a sus deberes, no interponiendo los recursos que procedieren o abandonando los interpuestos, si por las constancias de la causa apareciere que debían prosperar, o no alegando circunstancias probadas en el proceso y que habrían favorecido notablemente al acusado, o alegando hechos falsos, o puntos de Derecho notoriamente inaplicables, se procederá como previene el artículo anterior. Si el defensor fuere de oficio, el Juez estará obligado a llamar la atención del superior de aquél sobre la negligencia o ineptitud manifestadas.
 
-### CAPITULO V. Sentencia ejecutoria
+### CAPITULO IV BIS. De la Queja
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 435.
 
@@ -2802,9 +2842,23 @@ Recibidos los certificados, en su caso, el Tribunal citará para sentencia y pro
 
 Si la apelación se declarare admisible, se procederá como previene el Capítulo anterior. En caso contrario, se mandará archivar el toca respectivo.
 
-### CAPITULO I. Substanciación de las competencias
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 3 DE ENERO DE 1989)</small>
 
-### CAPITULO II. Suspensión del procedimiento
+### CAPITULO V. Sentencia ejecutoria
+
+###### ARTICULO 442 Bis.
+
+El recurso de queja procede contra las conductas omisas de los jueces que no emitan las resoluciones o no ordenen la práctica de diligencias dentro de los plazos y términos que señale la ley o bien, que no cumplan las formalidades o no despachen los asuntos de acuerdo a lo establecido en este Código.
+
+La queja se interpondrá por escrito en cualquier momento, a partir de que se produjo la situación que la motiva, ante la sala penal que corresponda del Tribunal Superior de Justicia.
+
+En las hipótesis previstas en el artículo 286 bis, la queja sólo podrá interponerla el Ministro(sic) Público.
+
+La sala penal del Tribunal Superior de Justicia, en el término de cuarenta y ocho horas, le dará entrada al recurso y requerirá al juez cuya conducta omisa haya dado lugar al recurso, para que rinda informe dentro del plazo de tres días.
+
+Transcurrido este plazo, con informe o sin él, se dictará dentro de cuarenta y ocho horas la resolución que proceda. Si se estima fundado el recurso, la sala penal del Tribunal Superior de Justicia requerirá al juez para que cumpla con las obligaciones determinadas en la ley en un plazo no mayor de dos días, sin perjuicio de las responsabilidades que le resulten. La falta del informe a que se refiere el párrafo anterior, establece la presunción de ser cierta la omisión atribuída y hará incurrir al juez en multa de diez a cien veces el salario mínimo.
+
+### CAPITULO I. Substanciación de las competencias
 
 ###### ARTICULO 443.
 
@@ -2818,9 +2872,7 @@ II. Las sentencias de Segunda Instancia y aquellas contra las cuales no concede 
 
 ## TITULO QUINTO. Incidentes
 
-### CAPITULO III. Incidentes criminales en el juicio civil
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+### CAPITULO II. Suspensión del procedimiento
 
 ###### ARTICULO 444.
 
@@ -2984,7 +3036,7 @@ Lo prevenido en las disposiciones legales que señalen la competencia de los dis
 
 Solamente se entiende fijada definitivamente la competencia cuando en el incidente respectivo haya recaído resolución que cause ejecutoria o cuando en vista de las conclusiones del Ministerio Público un juez o tribunal manda pasar la causa a otro y el auto respectivo ha causado ejecutoria.
 
-### CAPITULO IV. Acumulación de procesos
+### CAPITULO III. Incidentes criminales en el juicio civil
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -3020,7 +3072,9 @@ Cuando la suspensión se hubiere decretado conforme a la fracción II del artíc
 
 Para suspender el procedimiento bastará el pedimento del Ministerio Público, hecho con fundamento en los artículos anteriores. El juez lo decretará de plano sin substanciación alguna. Asimismo se podrá suspender el procedimiento, a petición del inculpado o su representante, dando vista al Ministerio Público.
 
-### CAPITULO V. Separación de procesos
+### CAPITULO IV. Acumulación de procesos
+
+> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
 ###### ARTICULO 482.
 
@@ -3032,7 +3086,7 @@ Cuando en un negocio judicial, civil o mercantil, se denuncien hechos delictuoso
 
 El Ministerio Público dentro del término de diez días, practicará desde luego las diligencias necesarias para poder determinar si se hace consignación de los hechos a los tribunales o no; en el primer caso y siempre que estos hechos sean de tal naturaleza que si se llegare a dictar sentencia con motivo de ellos, ésta deba necesariamente influir en las resoluciones que pudieran dictarse en el negocio, el Ministerio Público pedirá y el juez o tribunal ordenará que se suspenda el procedimiento civil, hasta que se pronuncie una resolución definitiva en el asunto penal.
 
-### CAPITULO VI. Impedimentos, excusas y recusaciones
+### CAPITULO V. Separación de procesos
 
 ###### ARTICULO 484.
 
@@ -3138,7 +3192,7 @@ No procederá la acumulación de procesos que se sigan ante tribunales o jueces 
 
 El juez o tribunal que primero pronuncie sentencia ejecutoria, la comunicará al otro. Este, para pronunciar su fallo, se sujetará a lo que dispone el Código Penal para la imposición de sanciones en casos de acumulación y reincidencia.
 
-### CAPITULO VII. Incidente para resolver sobre la reparación del daño exigible a terceras personas
+### CAPITULO VI. Impedimentos, excusas y recusaciones
 
 ###### ARTICULO 505.
 
@@ -3172,7 +3226,7 @@ El auto en que se decrete la separación sólo es apelable en el efecto devoluti
 
 Cuando varios jueces o tribunales conocieren de procesos cuya separación se hubiere decretado, el que primero pronuncie sentencia ejecutoria la comunicará a los otros; éstos dictarán su fallo, de acuerdo con lo que dispone el Código Penal para la imposición de sanciones en casos de acumulación y de reincidencia.
 
-### CAPITULO VIII. Incidentes no especificados
+### CAPITULO VII. Incidente para resolver sobre la reparación del daño exigible a terceras personas
 
 ###### ARTICULO 511.
 
@@ -3342,9 +3396,7 @@ De esta multa será solidariamente responsable el que hubiere patrocinado al rec
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-### CAPITULO I. De la libertad por desvanecimiento de datos
-
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+### CAPITULO VIII. Incidentes no especificados
 
 ###### ARTICULO 532.
 
@@ -3394,7 +3446,7 @@ El fallo en este incidente será apelable en ambos efectos, pudiendo interponer 
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-### CAPITULO II. Libertad provisional bajo protesta
+### CAPITULO I. De la libertad por desvanecimiento de datos
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -3418,9 +3470,9 @@ Hecha la promoción, se dará vista con ella a las partes, para que contesten en
 
 Si el juez lo creyere conveniente, o alguna de las partes lo pidiere, citará a una audiencia que se verificará dentro de los tres días siguientes. Durante este plazo, así como en la audiencia, se recibirán las pruebas. Concurran o no las partes, el juez fallará desde luego el incidente, siendo apelable el fallo sólo en el efecto devolutivo.
 
-### CAPITULO III. Libertad provisional bajo caución
+### CAPITULO II. Libertad provisional bajo protesta
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 546.
 
@@ -3458,9 +3510,9 @@ En el caso de la fracción II del artículo 547, la resolución que conceda la l
 
 En el caso de la fracción I del artículo 547, la resolución que concede la libertad, tendrá efectos definitivos y se sobreseerá el proceso.
 
-### CAPITULO I. De la ejecución de sentencias
+### CAPITULO III. Libertad provisional bajo caución
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 552.
 
@@ -3500,9 +3552,9 @@ I. En los casos del inciso II de la fracción X del artículo 20 constitucional;
 
 II. Cuando habiéndose pronunciado sentencia condenatoria en Primera Instancia, la cumpla íntegramente el acusado, y esté pendiente el recurso de apelación.
 
-### CAPITULO II. De la libertad preparatoria
+### CAPITULO I. De la ejecución de sentencias
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 556.
 
@@ -3644,7 +3696,9 @@ En los casos de revocación de la libertad caucional, se deberá oír previament
 
 ## TITULO SEXTO
 
-### CAPITULO III. De la retención
+### CAPITULO II. De la libertad preparatoria
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 575.
 
@@ -3686,9 +3740,7 @@ Recibida por la Dirección General de Servicios Coordinados de Prevención y Rea
 
 Para la ejecución de las sanciones, la Dirección General de Servicios Coordinados de Prevención y Readaptación Social se sujetará a lo prevenido en el Código Penal, en éste y en las leyes y los reglamentos respectivos.
 
-### CAPITULO IV. De la conmutación de sanciones
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MARZO DE 1971)</small>
+### CAPITULO III. De la retención
 
 ###### ARTICULO 583.
 
@@ -3750,7 +3802,9 @@ El portador del salvo-conducto lo presentará siempre que sea requerido para ell
 
 Cuando hubiere expirado el término de la condena que debiera haberse compurgado, de no concederse la libertad preparatoria, el agraciado ocurrirá al Tribunal Superior de Justicia para que éste, en vista de la sentencia y de los informes de la Dirección de Servicios Coordinados de Prevención y Readaptación Social, haga de plano la declaración de quedar el reo en absoluta libertad.
 
-### CAPITULO V. De la rehabilitación
+### CAPITULO IV. De la conmutación de sanciones
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 594.
 
@@ -3796,9 +3850,7 @@ Cuando el fallo de la Dirección considere inaplicable la retención, no impedir
 
 La Dirección General de Servicios Coordinados de Prevención y Readaptación Social estará obligada a resolver sobre la retención, en todo caso, dos meses antes de la fecha de la extinción de la condena, sin perjuicio de lo dispuesto en el artículo anterior.
 
-### CAPITULO VI. Del indulto
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+### CAPITULO V. De la rehabilitación
 
 ###### ARTICULO 601.
 
@@ -3810,7 +3862,9 @@ A su solicitud acompañará el condenado testimonio de la sentencia, y en su cas
 
 Si la conmutación se basare en alguno de los motivos enumerados en el artículo 75 del Código Penal, podrá otorgarse observando lo dispuesto en artículo 76 del mismo Código.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO VI. Del indulto
+
+> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
 ###### ARTICULO 603.
 
@@ -3852,9 +3906,7 @@ Concedida la rehabilitación por el Congreso, se comunicará al tribunal o juzga
 
 Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá conceder otra.
 
-### CAPITULO II. De la división jurisdiccional
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 611.
 
@@ -3906,7 +3958,7 @@ En el segundo caso, se mandarán archivar las diligencias.
 
 ## TITULO SEPTIMO. Organización y competencia
 
-### CAPITULO III. De los Juzgados de Paz del Orden Penal
+### CAPITULO II. De la división jurisdiccional
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
@@ -3948,7 +4000,9 @@ VI. Los síndicos e interventores de concurso, los albaceas provisionales y defi
 
 El Ejecutivo de la Unión y demás autoridades de su dependencia facilitarán a los tribunales de justicia los auxilios que necesiten para que puedan ejercer de manera expedita todas sus funciones.
 
-### CAPITULO IV. De las Cortes Penales
+### CAPITULO III. De los Juzgados de Paz del Orden Penal
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 622.
 
@@ -3976,9 +4030,7 @@ Las sedes de los juzgados en los Partidos Judiciales del Distrito Federal serán
 
 (DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1974)
 
-### CAPITULO V. De la organización interior
-
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+### CAPITULO IV. De las Cortes Penales
 
 ###### ARTICULO 628.
 
@@ -3996,9 +4048,9 @@ III. Practicar las diligencias que les encomienden los jueces de Primera Instanc
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE MARZO DE 1971)</small>
 
-### CAPITULO VI. De los Presidentes de Debates
+### CAPITULO V. De la organización interior
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 630.
 
@@ -4040,7 +4092,7 @@ III. Practicar las diligencias que les encomienden los jueces de Primera Instanc
 
 (DEROGADO, D.O.F. 19 DE MARZO DE 1971)
 
-### CAPITULO VII. Del Jurado
+### CAPITULO VI. De los Presidentes de Debates
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -4094,7 +4146,9 @@ VIII. Las demás que la ley o el juez les encomienden relativas a los asuntos de
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
-### CAPITULO VIII. Del Tribunal de Menores
+### CAPITULO VII. Del Jurado
+
+> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
 ###### ARTICULO 644.
 
@@ -4108,9 +4162,7 @@ II. Dirigir los debates del jurado; y
 
 III. Proponer o dictar los fallos que corresponda, con arreglo al veredicto del jurado, observándose lo dispuesto en el artículo 408.
 
-### CAPITULO IX. De los delitos y faltas oficiales
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+### CAPITULO VIII. Del Tribunal de Menores
 
 ###### ARTICULO 645.
 
@@ -4218,9 +4270,9 @@ Cuando se efectúe un jurado el tribunal dispondrá la manera de atender el serv
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)</small>
 
-### CAPITULO X. De la Dirección General de Servicios Coordinados de Prevención y Readaptación Social y otras Dependencias
+### CAPITULO IX. De los delitos y faltas oficiales
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
 ###### ARTICULO 660.
 
@@ -4253,6 +4305,10 @@ Cuando se efectúe un jurado el tribunal dispondrá la manera de atender el serv
 ###### ARTICULO 667.
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+
+### CAPITULO X. De la Dirección General de Servicios Coordinados de Prevención y Readaptación Social y otras Dependencias
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 668.
 
@@ -4515,3 +4571,7 @@ D.O.F. 4 DE ENERO DE 1984.
 PRIMERO.- El presente decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los individuos que se encuentren sujetos a proceso al momento de entrar en vigor este Decreto, podrán optar por acogerse a las disposiciones en él contenidas o continuar sometidos a las que se modifican.
+
+D.O.F. 3 DE ENERO DE 1989.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de abril de 1989.
