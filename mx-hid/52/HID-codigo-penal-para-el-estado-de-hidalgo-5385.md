@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2004-04-19"
+last_updated: "2005-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2005.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -841,21 +841,11 @@ Si al dictarse sentencia aparecen reunidos los requisitos para la suspensión co
 
 ### CAPITULO II. LIBERTAD PREPARATORIA
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2005)</small>
 
-###### ARTICULO 91.
+###### Artículo 91.
 
-El órgano ejecutor podrá conceder la libertad preparatoria al sentenciado, cuando satisfaciéndose los demás requisitos que fije la ley correspondiente, haya cumplido:
-
-I.- Las tres quintas partes de la pena privativa de libertad, si hubiere sido condenado por delito no calificado como grave por el artículo 119 del Código de Procedimientos Penales o
-
-II.- Las cuatro quintas partes de la pena privativa de libertad, si hubiere sido condenado por delito grave así calificado por el artículo 119 del Código de Procedimientos Penales, salvo los precisados en el siguiente párrafo.
-
-No se concederá la libertad preparatoria al sentenciado, si hubiere sido condenado por los siguientes delitos graves: homicidio, previsto por el artículo 138; secuestro, previsto por el artículo 166; asalto, previsto por el artículo 173, cuando se hayan aplicado los dos aumentos de punibilidad precisados por el numeral 174; violación, cuando concurriendo alguna de las agravantes del artículo 181, se hubiera cometido el delito previsto por el párrafo primero del artículo 179 o del artículo 180, exceptuándose por cuanto a este numeral la introducción sin violencia por la vía anal o vaginal de cualquier objeto instrumento o elemento distinto del miembro viril o tráfico de menores, previsto por el artículo 237; preceptos todos de este Código.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
-
-Cuando la suma de las puniciones impuestas separadamente por cada hecho delictivo en tratándose de concurso real o material de delitos, sea igual o mayor a los cuarenta años de prisión, tampoco se concederá la libertad preparatoria al sentenciado.
+El condenado a más de dos años de prisión, podrá obtener su libertad condicional ante la Dirección General de Prevención y Readaptación Social, en los términos de la Ley de Ejecución de Penas.
 
 #### SECCION SEPTIMA. APLICACION DE PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -3412,3 +3402,7 @@ UNICO.- El presente Decreto, entrará en vigor a los quince días naturales sigu
 P.O. 19 DE ABRIL DE 2004.
 
 UNICO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE MARZO DE 2005.
+
+ÚNICO.- El presente Decreto, entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
