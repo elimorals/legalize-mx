@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-obras-publicas-del-estado-14672"
 country: "mx"
 rank: "ley"
 publication_date: "1986-02-13"
-last_updated: "1986-02-13"
+last_updated: "1992-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "QUE"
 
 LEY DE OBRAS PÚBLICAS DEL ESTADO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1992.
 
 Ley Publicada en el Periódico Oficial del Estado "La Sombra de Arteaga", el 13 de febrero de 1986.
 
 LIC. MARIANO PALACIOS ALCOCER, Gobernador Constitucional del Estado Libre y Soberano de Querétaro de Arteaga, a los habitantes del mismo, sabed que:
 
-LA CUADRAGÉSIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 63 DE LA CONSTITUCIÓN POLÍTICA LOCAL...ha tenido a bien expedir la siguiente:
+LA CUADRAGÉSIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 63 DE LA CONSTITUCIÓN POLÍTICA LOCAL... ha tenido a bien expedir la siguiente:
 
 LEY DE OBRAS PÚBLICAS DEL ESTADO
 
@@ -85,7 +85,7 @@ La ejecución de la obra pública con cargo total o parcial a fondos estatales o
 
 ###### ARTICULO 7.
 
-La ejecución de las obras públicas que realicen las dependencias y entidades con cargo total o parcial a fondos acordados por la Federación, conforme a los Convenios entre los Ejecutivos Federal y Estatal, estarán sujetas a las disposiciones de la Ley de Obras Públicas de la Federación, a lo ordenado por esta Ley y a lo pactado en los propios convenios a que se hace alusión.
+La ejecución de las obras públicas que realicen las dependencias y entidades con cargo total o parcial a fondos acordados por la Federación conforme a los Convenios entre los Ejecutivos Federal y Estatal, estarán sujetas a las disposiciones de la Ley de Obras Públicas de la Federación, a lo ordenado por esta Ley y a lo pactado en los propios convenios a que se hace alusión.
 
 ###### ARTICULO 8.
 
@@ -295,7 +295,7 @@ Las Dependencias, Entidades y Ayuntamientos deberán informar este hecho a la Co
 
 Las circunstancias extraordinarias a las que se refiere el artículo anterior serán cuando:
 
-I.- A juicio de la Dependencia o Entidad ejecutoras y de común acuerdo con la Coordinación de Planeación y de los Ayuntamientos, en su caso, la obra sea de tal urgencia que deba iniciarse de inmediato y terminarse en un plazo perentorio y no se disponga del tiempo necesario para cumplir los requisitos establecidos.
+I.- A juicio de la Dependencia o Entidad ejecutoras y de común acuerdo con la Coordinación de Planeación y de los Ayuntamientos, en su caso, la obra sea de tal urgencia que deba iniciarse de inmediato y terminarse en un plazo perentorio y no se disponga del tiempo necesario para cumplir con requisitos establecidos.
 
 II.- Atendiendo al importe total de la obra, no se justifique efectuar los gastos que tanto el convocante como los participantes tenían que hacer para cumplir los requisitos establecidos.
 
@@ -303,15 +303,13 @@ III.- Por las características particulares de la obra, se advierta que ésta re
 
 IV.- El contrato sólo pueda celebrarse con una determinada persona por ser ésta el titular de la o las patentes necesarias para realizar las obras.
 
+(REFORMADO, P.O. 09 DE ABRIL DE 1992).
+
 ###### ARTICULO 30.
 
-Las Dependencias, Entidades y Ayuntamientos podrán adjudicar contratos a personas que no estén registradas en el Padrón de Contratistas, sin necesidad de convocatoria pública, cuando:
+Cuando se trate de trabajos de mantenimiento de equipo o instalación, de su conservación o reparación o de ejecución de obra pública cuyo monto no rebase los máximos que se consignan en el Presupuesto de Egresos de la Federación, publicado en el Diario Oficial de la Federación, según al año que corresponda, en correlación a lo dispuesto por al artículo 57 de la Ley de Obras Públicas Federal, las dependencias, entidades y ayuntamientos podrán adjudicar contratos a persona físicas o morales, sin necesidad de convocatoria pública, previa invitación que se extenderá a cuando menos tres personas que cuenten con capacidad de respuesta y de recursos técnicos, financieros y demás que sean necesarios para la ejecución de la obra, y de la que se seleccionará la propuesta que cumpla con las condiciones y garantías a que se refiere el artículo 34 de la presente Ley pero que deberán estar inscritos en el padrón de contratistas del Gobierno del Estado de Querétaro.
 
-I.- Se trate de trabajos de mantenimiento de equipo o instalación, de su conservación o reparación, cuyo monto no rebase el señalado para éste efecto por la Coordinación de Planeación o por los Ayuntamientos, en su caso.
-
-II.- El monto objeto del contrato no exceda de 10 000 veces el salario mínimo diario vigente en la Capital del Estado.
-
-En todo caso, cuando se asignen contratos en los términos de este artículo, los adjudicados deberán tramitar su registro correspondiente ante la Coordinación de planeación en un término que no exceda de 10 días contados a partir de la fecha de la firma del contrato respectivo.
+Para los efectos de aplicación de este precepto, cada obra deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos y límites que se establecen en el presupuesto de egresos arriba mencionado, y en ningún caso el importe total de una obra podrá ser fraccionado para que sea comprendida en los supuestos a que se refiere el presente artículo.
 
 ###### ARTICULO 31.
 
@@ -546,3 +544,19 @@ LIC. MARIANO PALACIOS ALCOCER
 El C. Secretario de Gobierno,
 
 LIC. JOSÉ MARÍA HERNÁNDEZ SOLIS
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P O. 9 DE ABRIL DE 1992.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "LA SOMBRA DE ARTEAGA".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente.
+
+###### ARTICULO TERCERO.
+
+Los concursos por invitación que estén actualmente en trámite conforme lo dispuesto por el artículo 30 de la Ley de Obras Públicas aquí derogado, se llevarán a cabo hasta su conclusión conforme a lo dispuesto en dicho artículo.
