@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-civiles-para-el-estado-de-durango-4706
 country: "mx"
 rank: "codigo"
 publication_date: "1948-08-22"
-last_updated: "1988-03-03"
+last_updated: "1989-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 1988.
-
-(N. DE E. LAS PRESENTES REFORMAS, ADICIONES Y DEROGACIONES AL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE DURANGO, CONTENIDAS EN EL DECRETO No. 74, CONTINUARON SU PUBLICACION EN LAS FECHAS: 6, 10, 13, 17 Y 20 DE MARZO DE 1988).
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 1989.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22, jueves 26 y domingo 29 de agosto; jueves 2, domingo 5, jueves 9, domingo 12, jueves 16, domingo 19, jueves 23, domingo 26 y jueves 30 de septiembre; domingo 3, jueves 7, domingo 10, jueves 14, domingo 17 y jueves 21 de octubre de 1948.
 
@@ -471,23 +469,27 @@ III.- La suspensión que no exceda de un mes.
 
 Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, ésta podrá pedir al Juez o Magistrado que la oiga en justicia; y se citará para la audiencia dentro del tercer día, en la que se resolverá sin ulterior recurso.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 1989)</small>
+
 ###### ARTICULO 64.
 
-Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles odos (sic) los del año, menos los domingos y aquellos que las leyes declaren festivos.
+Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año excepción de sábados, domingos y aquellos que las leyes declaren festivos.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1982)</small>
+Se entienden horas hábiles las que medien desde las siete a las diecinueve horas. El juez podrá habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija expresando cual sea ésta y las diligencias que hayan de practicarse.
 
-Se entienden horas hábiles las que median desde las siete hasta las diecinueve horas. En los juicios sobre alimentos, impedimentos de matrimonio, servidumbres legales, interdictos posesorios diferencias domésticas y las demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 1989)</small>
 
 ###### ARTICULO 65.
 
-Las copias simples de los documentos que se presenten, confrontadas y autorizadas por el secretario, correrán en los autos, quedando los originales en el tribunal, donde podrá verlos la parte contraria, si lo pidiere.
+En los distritos judiciales donde exista Oficialía de Partes, el escrito por el cual se inicia un procedimiento, deberá ser presentado en la Oficialía de Partes común a los juzgados de lo Civil y Familiar, para ser turnados al juzgado que corresponda, los interesados pueden exhibir una copia de su escrito a fin de que se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el Oficial que la reciba. Los escritos subsecuentes se presentarán en el juzgado que conozca del procedimiento, pudiendo los interesados exhibir una copia de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación sellada y firmada por el Secretario que la reciba.
 
-Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelvan con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba en el Tribunal.
+Las copias simples de los documentos, que se presenten, confrontadas y autorizadas por el Secretario, correrán en los autos quedando los originales en el tribunal, donde podrá verlos la parte contraria, si lo pidiere.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 1989)</small>
 
 ###### ARTICULO 66.
 
-El Secretario hará constar el día y la hora en que se presente un escrito y dará cuenta con él, a más tardar dentro de veinticuatro horas; bajo la pena de diez pesos de multa, sin perjuicio de las demás que merezca conforme a las leyes.
+El Secretario dará cuenta con los escritos presentados, a más tardar dentro de las veinticuatro horas de su presentación, bajo la pena de cubrir por concepto de multa, el importe de un día de salario que perciba sin perjuicio de las demás que merezca conforme a las leyes.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 1988)</small>
 
@@ -949,9 +951,11 @@ Siempre que la práctica de un acto judicial requiera citación de las personas 
 
 Los términos que por disposición expresa de la Ley, o por la naturaleza del caso, no son individuales, se tienen por comunes para las partes.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 1989)</small>
+
 ###### ARTICULO 136.
 
-Para fijar la duración de los términos, los meses se regularán por el número de días que les corresponden, y los días se entenderán de veinticuatro horas naturales contados de las veinticuatro a las veinticuatro.
+Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales, sin perjuicio de que las actuaciones judiciales se sujeten al horario que establece el artículo 64.
 
 ###### ARTICULO 137.
 
@@ -1267,9 +1271,11 @@ DE LOS PROCEDIMIENTOS, RECUSACIONES Y EXCUSAS.
 
 De los impedimentos y excusas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 1989)</small>
+
 ###### ARTICULO 170.
 
-Todo magistrado, juez o secretario se tendrá por forzosamente impedido para conocer en los casos siguientes:
+Todo magistrado, juez o Secretario se tendrá por forzosamente impedido para conocer en los casos siguientes:
 
 I.- En negocio en que tenga interés directo o indirecto;
 
@@ -1279,7 +1285,9 @@ III.- Siempre que entre el funcionario de que se trata, su cónyugue (sic) a sus
 
 IV.- Si fuere pariente por consanguinidad o afinidad, del abogado o procurador de alguna de las partes, en los mismos grados a que se refiere ministrador actual de sus bienes;
 
-V.- Cuando él, su cónyugue (sic), o alguno de sus hijos, sea heredero, legatario, donante, donatario, socio, acreedor, deudor, fiador, fiado, arrendador, arrendatario, principal, dependiente o comensal habitual de alguna de las partes, o administrados actual de sus bienes;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 1989)</small>
+
+V.- Cuando él, su cónyuge o alguno de sus hijos, sea heredero, legatario, donante, donatario, socio, acreedor (sic), deudor, fiador, fiado, arrendador, arrendatario, principal dependiente o comensal habitual de alguna de las partes administrador actual de sus bienes. Tratándose de herencia o legado, sólo será motivo de excusa cuando el carácter de heredero o legatario se derive de la Ley o testamento otorgado antes de la iniciación del juicio;
 
 VI.- Si ha hecho promesa o amenazas, o ha manifestado de otro modo su odio o afecto por alguno de los litigantes;
 
@@ -6742,3 +6750,7 @@ Los asuntos que se encuentren en trámite al momento de entrar en vigor las refo
 ###### ARTICULO TERCERO.
 
 Las cuestiones de competencia y recusación que se encuentren en trámite al momento de entrar en vigor las reformas contenidas en este Decreto, continuarán su tramitación conforme a las normas con que se iniciaron.
+
+P.O. 11 DE MAYO DE 1989.
+
+UNICO.- El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
