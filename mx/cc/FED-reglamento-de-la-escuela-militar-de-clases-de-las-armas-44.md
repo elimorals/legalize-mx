@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-clases-de-las-armas-44"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "1993-04-13"
+last_updated: "2001-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE CLASES DE LAS ARMAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2001.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 13 de abril de 1993.
 
@@ -41,9 +41,11 @@ La Escuela Militar de Clases de las Armas, es un establecimiento de Educación M
 
 ### CAPITULO II. Dependencia
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 2o.
 
-La Escuela Militar de Clases de las Armas, depende del Alto Mando del Ejército y Fuerza Aérea a través de la Dirección General de Educación Militar.
+La Escuela Militar de Clases de las Armas depende del Alto Mando del Ejército y Fuerza Aérea a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
 ### CAPITULO III. Objetivos
 
@@ -111,7 +113,9 @@ B. Subsección de Planes y Programas;
 
 C. Subsección Psicopedagógica; y
 
-D. Subsección de Apoyos Didácticos.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+D. Subsección de Apoyos Didácticos y Doctrina Militar.
 
 V. Sección Académica:
 
@@ -129,7 +133,21 @@ F. Subsección de Materias de Cultura General y de Educación Física y Deportes
 
 G. Otras que determine la superioridad.
 
-VI. Sección Administrativa:
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Ayudantía General:
+
+A. Ayudante General;
+
+B. Subayudantía;
+
+C. Servicios Técnicos, y
+
+D. Servicios Generales.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VII. Sección Administrativa:
 
 A. Jefatura;
 
@@ -137,19 +155,9 @@ B. Subsección de Personal;
 
 C. Subsección de Recursos Materiales;
 
-D. Subsección de Contabilidad; y
+D. Subsección de Contabilidad, y
 
 E. Subsección de Informática, Archivo y Correspondencia.
-
-VII. Ayudantía General:
-
-A. Ayudante General;
-
-B. Subayudantía;
-
-C. Servicios Técnicos; y
-
-D. Servicios Generales.
 
 VIII. Unidad Ejecutora de Pago.
 
@@ -165,13 +173,17 @@ Además de los órganos citados en el artículo anterior, deberá existir una Ju
 
 La Dirección, es el órgano rector de la Escuela Militar de Clases de las Armas a cargo de un General del Ejército procedente de Arma nombrado por el Alto Mando, a quien se denomina Director.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 9o.
 
-El Director de la Escuela Militar de Clases de las Armas, tiene las obligaciones y atribuciones correspondientes a un Comandante de Cuerpo de Tropa, de conformidad con lo estipulado en las leyes y reglamentos militares y además las siguientes:
+El Director de la Escuela Militar de Clases de las Armas tiene las atribuciones y responsabilidades correspondientes a un Comandante de Cuerpo de Tropa, de conformidad con lo establecido en las leyes y reglamentos militares y además las siguientes:
 
 I. Representar a la Escuela Militar de Clases de las Armas;
 
-II. Presentar a la Dirección General de Educación Militar los planes y programas de estudio de los cursos que se imparten en el plantel;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea los planes y programas de estudio de los cursos que se imparten en el plantel;
 
 III. Hacer cumplir las directivas establecidas en el Plan General de Educación Militar, en la parte correspondiente;
 
@@ -191,11 +203,15 @@ X. Difundir permanentemente el contenido del presente Reglamento a todo el perso
 
 XI. Proponer y opinar las altas, bajas y cambios del personal del plantel;
 
-XII. Prestar a la Dirección General de Educación Militar un informe de actividades, al término de cada ciclo escolar;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XII. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea un informe de actividades al término de cada ciclo escolar;
 
 XIII. Vigilar permanentemente el bienestar del personal del plantel, promoviendo el desarrollo de actividades para elevar su moral, atendiendo sus problemas personales y los de sus derechohabientes;
 
-XIV. Proponer a la Dirección General de Educación Militar el proyecto de presupuesto de su competencia;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIV. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea el proyecto de presupuesto de su competencia;
 
 XV. Firmar la documentación oficial que se genera con motivo de las actividades académicas y administrativas del plantel; y
 
@@ -247,9 +263,11 @@ XV. Las que le sean asignadas por la superioridad.
 
 El Cuerpo de Alumnos de la Escuela Militar de Clases de las Armas, está a cargo de un Teniente Coronel de Arma del Ejército, a quien se denomina Comandante del Cuerpo de Alumnos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 13.
 
-El Comandante del Cuerpo de Alumnos de la Escuela Militar de Clases de las Armas, tiene las siguientes obligaciones:
+El Comandante del Cuerpo de Alumnos de la Escuela Militar de Clases de las Armas tiene las atribuciones y responsabilidades siguientes:
 
 I. Ejercer el mando del Cuerpo de Alumnos del plantel;
 
@@ -275,7 +293,9 @@ XI. Fomentar las virtudes militares en el personal de alumnos;
 
 XII. Supervisar el pago oportuno de haberes y demás percepciones al personal de alumnos.
 
-XIII. Supervisar y dirigir las prácticas de tipo y ejercicios sobre el terreno del personal de alumnos;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIII. Supervisar y dirigir las prácticas de tiro de los jefes y oficiales que pertenecen al Cuerpo de Alumnos;
 
 XIV. Supervisar que el personal perteneciente al Cuerpo de Alumnos, permanentemente se encuentre en óptimas condiciones físicas;
 
@@ -299,13 +319,21 @@ XXIII. Las que le sean asignadas por la superioridad.
 
 ### CAPITULO IV. De la Sección Pedagógica
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 14.
 
-La Sección Pedagógica, es el órgano de planeación y evaluación educativa de la Escuela Militar de Clases de las Armas, a cargo de un Teniente Coronel de Arma, Diplomado de Estado Mayor, a quien se denomina Jefe de la Sección Pedagógica.
+La Sección Pedagógica es el órgano de planeación y evaluación educativa de la Escuela Militar de Clases de las Armas, a cargo de un Teniente Coronel de Arma, Diplomado de Estado Mayor, a quien se denomina Jefe de la Sección Pedagógica, mismo que además debe reunir cualquiera de los requisitos siguientes:
+
+I. Tener experiencia docente, o
+
+II. Tener experiencia académica.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 15.
 
-La Sección Pedagógica de la Escuela Militar de Clases de las Armas, tiene las siguientes funciones:
+El Jefe de la Sección Pedagógica de la Escuela Militar de Clases de las Armas tiene las atribuciones y responsabilidades siguientes:
 
 I. Planear, coordinar y supervisar las actividades pedagógicas del plantel;
 
@@ -349,17 +377,67 @@ XX. Elaborar el Programa General de Prácticas y Visitas;
 
 XXI. Coordinar sus actividades con los demás órganos del plantel, y
 
-XXII. Las que le sean asignadas por la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXII. Revisar la bibliografía militar extranjera, con la finalidad de proponer si procede la inclusión de temas en nuestra doctrina militar y con ello mantenerla actualizada;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXIII. Coordinar la revisión permanente de la bibliografía empleada en la elaboración de programas de estudio;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXIV. Revisar la bibliografía relacionada con derechos humanos, con objeto de incluir, modificar o completar temas de esta materia en los manuales militares;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXV. Proponer innovaciones en relación con el adiestramiento y actividades administrativas, considerando aspectos prácticos, reales y objetivos;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXVI. Proponer y hacer recomendaciones con relación a la adquisición del material y equipo necesario para el plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXVII. Proponer innovaciones en relación a la organización y funcionamiento del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXVIII. Coordinar los aspectos educativos, culturales y doctrinarios de conformidad con los objetivos del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXIX. Participar en la elaboración de los perfiles de ingreso y egreso del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXX. Participar en la coordinación y control de la evaluación en la admisión, selección y clasificación del personal de nuevo ingreso;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXXI. Supervisar el proceso de evaluación y la publicación de las calificaciones del personal de alumnos, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXXII. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO V. De la Sección Académica
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 16.
 
-La Sección Académica, es el órgano de ejecución y materialización de los planes y programas de estudio de la Escuela Militar de Clases de las Armas, a cargo de un Teniente Coronel de Arma, Diplomado de Estado Mayor, a quien se denomina Jefe de la Sección Académica.
+La Sección Académica es el órgano de ejecución y materialización de los planes y programas de estudio de la Escuela Militar de Clases de las Armas, a cargo de un Teniente Coronel de Arma, Diplomado de Estado Mayor, a quien se denomina Jefe de la Sección Académica, mismo que además debe reunir cualquiera de los requisitos siguientes:
+
+I. Tener experiencia docente, o
+
+II. Tener experiencia académica.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 17.
 
-La Sección Académica de la Escuela Militar de Clases de las Armas, tiene las siguientes funciones:
+El Jefe de la Sección Académica de la Escuela Militar de Clases de las Armas tiene las atribuciones y responsabilidades siguientes:
 
 I. Coordinar y controlar la aplicación y desarrollo de los planes y programas generales y de estudios, así como proponer las modificaciones que sean necesarias;
 
@@ -391,17 +469,23 @@ XIV. Formular los informes de la sección;
 
 XV. Coordinar sus actividades con los demás órganos del plantel; y
 
-XVI. Las que le sean asignadas por la superioridad.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO VI. De la Ayudantía General
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 18.
 
-La Ayudantía General de la Escuela Militar de Clases de las Armas, está a cargo de un Teniente Coronel o Mayor de Arma, a quien se denomina Ayudante General.
+La Ayudantía General de la Escuela Militar de Clases de las Armas es el órgano encargado de satisfacer las necesidades de vida interna del plantel, a cargo de un Teniente Coronel o Mayor de Arma, a quien se denomina Ayudante General.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 19.
 
-El Ayudante General de la Escuela Militar de Clases de las Armas, tiene las siguientes funciones:
+El Ayudante General de la Escuela Militar de Clases de las Armas, tiene las atribuciones y responsabilidades siguientes:
 
 I. Las correspondientes a un Ayudante y a las de un Jefe de Instrucción de un cuerpo de tropa, respecto al personal de planta de la escuela, perteneciente a los servicios técnicos y generales;
 
@@ -429,13 +513,17 @@ XII. Las que determine la superioridad.
 
 ### CAPITULO VII. De la Sección Administrativa
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 20.
 
-La Sección Administrativa de la Escuela Militar de Clases de Armas, está a cargo de un jefe del Servicio de Administración, a quien se denomina Jefe de la Sección Administrativa.
+La Sección Administrativa de la Escuela Militar de Clases de las Armas es el órgano de apoyo administrativo del plantel, a cargo de un Jefe de Arma u Oficinista, a quien se denomina Jefe de la Sección Administrativa.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 21.
 
-El Jefe de la Sección Administrativa de la Escuela Militar de Clases de las Armas, tiene las siguientes funciones:
+El Jefe de la Sección Administrativa de la Escuela Militar de Clases de las Armas tiene las atribuciones y responsabilidades siguientes:
 
 I. Elaborar y tramitar la documentación que se genere con motivo de los movimientos del personal de alumnos y de la planta de la escuela, así como mantener completos y actualizados los expedientes del mismo;
 
@@ -477,9 +565,11 @@ La Unidad Ejecutora de Pago de la Escuela Militar de Clase de las Armas, está a
 
 El Jefe de la Unidad Ejecutora de Pago de la Escuela Militar de Clases de las Armas, tiene la responsabilidad de proporcionar el servicio de pago de haberes y demás percepciones al personal de la misma, de conformidad con las disposiciones legales aplicables y directivas que emita la superioridad.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 24.
 
-La Unidad Ejecutora de Pago, normará sus actividades de conformidad con los ordenamientos respectivos.
+La Unidad Ejecutora de Pago norma su estructura y funcionamiento de conformidad con las disposiciones legales respectivas.
 
 ### CAPITULO IX. De la Junta Técnica-Consultiva
 
@@ -499,6 +589,10 @@ B. Jefe de la Sección Pedagógica; y
 
 C. Jefe de la Sección Académica.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+D. Jefe de la subsección del curso correspondiente.
+
 El Secretario será el vocal de menor jerarquía y antigüedad.
 
 ###### ARTICULO 26.
@@ -509,9 +603,11 @@ Los Vocales de la Junta Técnica-Consultiva serán suplidos en sus ausencias, po
 
 En casos especiales, la Junta Técnica-Consultiva podrá recurrir a otras fuentes de asesoramiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 28.
 
-Las funciones de la Junta Técnica-Consultiva son:
+Las responsabilidades de la Junta Técnica Consultiva son:
 
 I. Analizar y proponer soluciones a problemas de carácter pedagógico y académico que surjan en el plantel;
 
@@ -569,27 +665,41 @@ B. Jefe de la Sección Administrativa; y
 
 C. Jefe de la Unidad Ejecutora de Pago.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+D. Jefes de las subsecciones de la Sección Administrativa.
+
 VI. De los Servicios:
 
-Está constituido por el personal de los servicios Técnicos, Administrativos y Generales del plantel.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+Está constituido por el personal de los servicios técnicos, administrativos y generales y aquel otro no incluido en la clasificación anterior.
 
 ### CAPITULO II. Del Personal Docente
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 30.
 
-Es profesor, el personal militar o civil que tiene a su cargo labores de enseñanza o transmisión de conocimientos, pudiendo ser titular o adjunto.
+Al personal docente le corresponde el desarrollo del proceso enseñanza-aprendizaje, tiene las atribuciones y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares, las prescritas en el presente Reglamento y disposiciones aplicables que emita la superioridad; este personal puede ser profesor o instructor.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 31.
 
-Es instructor, el personal militar o civil a quien se encomienda la impartición de conocimientos sobre materias que requieren habilidad o destreza.
+Son profesores los militares o civiles que tienen a su cargo con carácter titular o de adjunto, labores permanentes de enseñanza o transmisión de conocimientos, previa acreditación del título profesional que avale el dominio de la asignatura por impartir.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 32.
 
-Los profesores e instructores honorarios, son los que imparten conocimientos o prácticas y que no perciben remuneración por este hecho.
+Son instructores los militares a quienes se encomienda la impartición de conocimientos sobre materias que requieren habilidad, pericia o destreza y que acrediten previamente ante la Sección Académica el conocimiento de la materia que vayan a impartir.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 33.
 
-El Personal Docente tiene la responsabilidad del desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo y del cumplimiento a lo establecido en el presente Reglamento en las partes correspondientes.
+Los profesores o instructores honorarios son los que imparten conocimientos o prácticas y que no perciben remuneración por este hecho, debiendo extendérseles un nombramiento como estímulo a dichas actividades.
 
 ### CAPITULO III. De los Alumnos
 
@@ -601,13 +711,17 @@ El personal que realiza sus estudios en el plantel, recibe la denominación de A
 
 El personal de la Armada de México, Infantería de Marina, que ingrese al plantel, lo hará en calidad de Becario y se regirá durante su estancia en él, por lo establecido en este Reglamento y en las disposiciones legales aplicables.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 36.
 
-El personal de Alumnos que causa alta en el plantel, integrará una antigüedad que será designada con el número ordinal correspondiente.
+El personal de alumnos que efectúa un curso en el plantel, integra una antigüedad que es designada con el número ordinal correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 37.
 
-El personal de Alumnos tendrá las siguientes obligaciones:
+El personal de alumnos además de lo establecido en la legislación militar y disposiciones aplicables que emita la superioridad, tiene las atribuciones y responsabilidades siguientes:
 
 I. Asistir puntualmente a las actividades que le señalen las distribuciones de tiempo respectivas;
 
@@ -615,7 +729,13 @@ II. Acatar las disposiciones académicas establecidas;
 
 III. Participar en las actividades oficiales emanadas de la superioridad; y
 
-IV. Desempeñar los servicios y comisiones que se designe.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Desempeñar los servicios y comisiones que se le designe inherentes a su jerarquía, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Conocer y observar el contenido del presente Reglamento en las partes correspondientes.
 
 ## TITULO QUINTO. De la Admisión
 
@@ -635,15 +755,25 @@ La formación del personal de Alumnos de la Escuela Militar de Clases de las Arm
 
 ### CAPITULO II. De la Planeación
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 40.
 
-La Planeación, tiene por finalidad establecer los objetivos de aprendizaje, los métodos y técnicas de enseñanza, así como determinar los métodos de evaluación con base en los planes y programas generales y de estudios del plantel.
+La planeación del proceso enseñanza-aprendizaje se lleva a cabo de acuerdo con el Plan General de Educación Militar y el Calendario General Escolar.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 40 Bis.
+
+La planeación didáctica es el conjunto de acciones que permiten establecer la estructura, diseño y secuencia del proceso enseñanza-aprendizaje, con el fin de organizarlo, sistematizarlo, dirigirlo, evaluarlo y en su caso, rectificarlo para alcanzar los objetivos prescritos en los planes y programas de estudio del plantel.
 
 ### CAPITULO III. De la Ejecución
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 41.
 
-La Ejecución de la enseñanza, tiene por objeto desarrollar el contenido de los planes y programas generales y de estudio a través de la interacción del personal docente y el de alumnos.
+La ejecución de la enseñanza tiene por objeto la correcta coordinación y aplicación del contenido de los planes y programas de estudio a través de la interacción del personal docente y de alumnos.
 
 ### CAPITULO IV. De la Evaluación
 
@@ -669,11 +799,15 @@ Son aquellos que realiza el personal de alumnos para comprobar su grado de aprov
 
 II. Final Ordinario:
 
-Es aquel que se aplica a todo el personal de alumnos al término de cada materia y cubre la totalidad del programa de una asignatura.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+Es aquel que se aplica a todo el personal de alumnos al término de cada materia y cubre la totalidad del programa de la asignatura durante el periodo escolar respectivo.
 
 III. Extraordinario:
 
-Es aquel que se aplica al personal de alumnos por reprobar un examen final ordinario o tres exámenes parciales de una misma materia.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+Es aquel que se aplica al personal de alumnos, cuya calificación final de la asignatura sea menor de seis puntos calculada de acuerdo a lo establecido en el artículo 48, de este Reglamento.
 
 ###### ARTICULO 45.
 
@@ -687,13 +821,17 @@ III. Prácticos; o
 
 IV. Una combinación de los anteriores.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 46.
 
-Para calificar todos los exámenes se utilizará la escala numérica de CERO a CIEN puntos, sin incluir decimales.
+Para calificar todos los exámenes se utiliza la escala numérica de cero a diez puntos incluyendo decimales.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 47.
 
-La calificación mínima aprobatoria será de SESENTA puntos.
+La calificación mínima aprobatoria es de seis puntos.
 
 ###### ARTICULO 48.
 
@@ -713,9 +851,11 @@ El personal de alumnos que utilice medios fraudulentos para resolver un examen, 
 
 ### CAPITULO V. De los Jurados
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 51.
 
-Los jurados estarán integrados por personal docente del plantel y aquel otro que determine la superioridad para aplicar y evaluar los diferentes tipos de exámenes mencionados en este Reglamento.
+Los jurados para aplicar y evaluar los diferentes tipos de exámenes mencionados en este Reglamento, estarán integrados por personal docente del plantel y aquel otro que determine la superioridad.
 
 ## TITULO SEPTIMO. De las Faltas y Bajas
 
@@ -743,6 +883,10 @@ II. Las faltas justificadas a clases motivadas por actos del servicio, no serán
 
 III. Las faltas injustificadas serán acumuladas.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. El registro y cómputo de faltas se dará a conocer periódicamente al personal de alumnos por la Sección Académica del plantel.
+
 ### CAPITULO II. De las Bajas
 
 ###### ARTICULO 56.
@@ -759,7 +903,9 @@ IV. Acumular el 10% o más de faltas injustificadas en una sola materia o el 15%
 
 V. Acumular el 30% o más de faltas justificadas en una sola materia o en el conjunto de ellas durante el ciclo lectivo.
 
-VI. Acumular 300 (trescientos) puntos de demérito durante el ciclo lectivo, previa determinación de mala conducta por el Consejo de Honor;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Acumular 160 (Ciento sesenta) puntos de demérito durante el ciclo lectivo, previa determinación de mala conducta por el Consejo de Honor;
 
 VII. Por inutilidad, de acuerdo con las tablas anexas a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
@@ -767,9 +913,27 @@ VIII. Por existir irregularidades en la documentación presentada al ingresar al
 
 IX. Por encontrarse en alguna de las causales de baja establecidas en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+X. Adquirir otra nacionalidad;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XI. Solicitud del interesado que sea aceptada por la superioridad, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XII. Encontrarse sujeto a proceso en el fuero de guerra, en el orden común o federal.
+
 ###### ARTICULO 57.
 
 El personal de alumnos que causa baja de los cursos que se imparten en el plantel, quedará a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 57 Bis.
+
+Al personal de alumnos que por cualquier motivo vaya a ser dado de baja del plantel, se le comunicará previamente por escrito esta circunstancia, haciéndole saber las razones y fundamentos legales, concediéndole un término de 15 días naturales contados a partir de la fecha en que sea notificado, a efecto de que manifieste lo que a sus intereses convenga sobre el particular.
 
 ## TITULO OCTAVO. De los Reconocimientos Académicos
 
@@ -789,15 +953,25 @@ II. Nombramiento correspondiente.
 
 Los incentivos que se otorgan al personal de alumnos, por el aprovechamiento en sus estudios son los siguientes:
 
-I. Figurar en el Cuadro de Honor en el mes siguiente a aquél que haya obtenido en los exámenes un promedio mínimo de 80 puntos;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+I. Figurar en el cuadro de honor en el mes siguiente a aquel en que haya obtenido en los exámenes un promedio mínimo de 8.5 puntos;
 
 II. Disfrutar de las franquicias extraordinarias que fije la Dirección del plantel;
 
 III. Recibir citación en la Orden Particular del plantel;
 
-IV. Premio y diploma al personal de alumnos que termine satisfactoriamente sus estudios y obtenga los promedios más altos durante su estancia en el plantel; y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-V. Otros que autorice la Secretaría de la Defensa Nacional.
+IV. Premio y diploma al personal de alumnos que terminen satisfactoriamente sus estudios y obtengan los tres promedios más altos durante su estancia en el plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Exento de realizar el examen final ordinario el personal de alumnos que obtenga un promedio mínimo de 9.0 puntos en una materia, después de haber sustentado los exámenes parciales de la misma, asentándose la calificación obtenida en el promedio, quedando a elección del alumno la opción de presentar o no dicha evaluación para incrementar su promedio general, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Otros que autorice la Secretaría de la Defensa Nacional.
 
 ###### ARTICULO 60.
 
@@ -807,25 +981,31 @@ El personal de alumnos que termine satisfactoriamente sus estudios en el plantel
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 61.
 
-Los arrestos que se impongan al personal de alumnos, serán graduados por el Director del plantel, conforme a lo establecido en la legislación militar, se cumplirán a partir del momento en que se le comunique dicho correctivo disciplinario.
+Los arrestos que se impongan al personal de alumnos, serán graduados por el Director del plantel, conforme lo establecido en la legislación militar y se cumplirán en los días de franquicia para no entorpecer las actividades académicas.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 62.
 
-La graduación de arrestos impuestos al personal de alumnos, se contabilizará con puntos de demérito, los que sirven de base para el control y registro de su conducta; el hecho de acumular 300 (trescientos) durante el ciclo lectivo, será motivo de baja del plantel siempre y cuando determine mala conducta el Consejo de Honor.
+La graduación de arrestos impuestos al personal de alumnos se contabilizará con puntos de demérito, los que sirven de base para el control y registro de su conducta.
 
 ###### ARTICULO 63.
 
 Los arrestos, impuestos al personal de alumnos, se computarán con 20 puntos de demérito por cada veinticuatro horas.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 64.
 
-La acumulación de 100 (cien) puntos de demérito durante el ciclo lectivo implica la pérdida de distinción para los Alumnos de Primera.
+Los arrestos graduados con más de 96 horas (80 puntos), se cumplirán alternando dos fines de semanas continuos de reclusión por uno de franquicia.
 
 ###### ARTICULO 65.
 
-La acumulación de 200 (doscientos) puntos de demérito durante el ciclo lectivo, implica la destitución de grado para las Clases de Alumnos.
+(DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
 
 ###### ARTICULO 66.
 
@@ -846,3 +1026,11 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se modifica el artículo 1o. del acuerdo que aprueba la creación de la Escuela de Clases del Ejército, publicado en el Diario Oficial de la Federación de 14 de abril de 1948, en cuanto a la denominación de la misma que será Escuela Militar de Clases de las Armas y se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Defensa Nacional, Antonio Riviello Bazán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 22 DE JUNIO DE 2001.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
