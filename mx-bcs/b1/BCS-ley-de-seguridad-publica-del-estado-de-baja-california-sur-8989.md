@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-seguridad-publica-del-estado-de-baja-california-sur-8989
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-06"
-last_updated: "2002-03-20"
+last_updated: "2002-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 6 de junio de 1996.
 
@@ -153,7 +153,9 @@ Compete al Gobernador del Estado:
 
 I.- Cuidar y mantener el orden público preservando la paz y tranquilidad social en el Estado;
 
-II.- Coordinar los cuerpos de seguridad pública en el Estado, conforme a lo dispuesto por el artículo 79 fracción XII de la Constitución Política del Estado;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
+
+II.- Coordinar los cuerpos de seguridad pública en el estado, y dar órdenes a la policía preventiva municipal en aquellos casos en que éste juzgue como de fuerza mayor o alteración grave del orden público;
 
 III.- Celebrar convenios de coordinación con la Federación, las entidades federativas y los Municipios, para una mejor prestación del servicio de seguridad pública en el Estado;
 
@@ -561,7 +563,7 @@ Los estímulos y reconocimientos para el personal de las corporaciones de polic�
 
 ## TITULO NOVENO. DEL REGIMEN DISCIPLINARIO
 
-### CAPITULO II. DE LOS CORRECTIVOS DISCIPLINARIOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 68.
 
@@ -603,7 +605,7 @@ La resolución que declare improcedente un cambio de adscripción, tendrá por o
 
 No procederá el recurso de revisión contra un cambio de adscripción decretado en razón de las necesidades del servicio y que no tenga el carácter de sanción.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LOS CORRECTIVOS DISCIPLINARIOS
 
 ###### ARTICULO 63.
 
@@ -797,11 +799,11 @@ El Consejo Estatal de Seguridad Pública y los Consejos Municipales darán ampli
 
 La comunidad podrá participar en la instrumentación y ejecución de medidas para la vigilancia y seguridad de la propia población, a través de la organización vecinal, con la aprobación de las autoridades competentes y siempre que ello no ponga en riesgo el buen desempeño de la función de seguridad pública.
 
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 20 DE MARZO DE 2002)</small>
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 20 DE MARZO DE 2002)</small>
 
 ## TITULO DECIMO SEGUNDO. DE LOS SERVICIOS PRIVADOS DE SEGURIDAD
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 20 DE MARZO DE 2002)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 20 DE MARZO DE 2002)</small>
 
 ### CAPITULO UNICO
 
@@ -898,3 +900,13 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA 
 PRIMERO.- La presente Ley entrará en vigor noventa días después de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se deroga el Título Décimo Segundo, Capítulo Unico de la Ley de Seguridad Pública del Estado de Baja California Sur, así como todos los ordenamientos y disposiciones que se opongan a la presente Ley.
+
+B.O. 10 DE JULIO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Los ayuntamientos de la entidad contarán con noventa días naturales par (sic) los efectos de lo dispuesto por los artículos 26, 90, 91, 92, y 94 de la Ley Orgánica Municipal Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur, reformados por este Decreto, en lo que se refiere a los bandos de policía y gobierno y reglamentos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
