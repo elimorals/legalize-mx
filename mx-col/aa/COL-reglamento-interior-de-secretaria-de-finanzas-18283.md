@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-secretaria-de-finanzas-18283"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-16"
-last_updated: "2000-09-16"
+last_updated: "2002-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 16 de septiembre de 2000.
 
@@ -237,6 +237,10 @@ XVIII.- Revisar las declaraciones y recibos de pago de contribuciones, para dete
 
 XIX.- Atender y en su caso autorizar, por acuerdo del Secretario: las solicitudes de pago de créditos fiscales de manera diferida o en parcialidades, con garantía del interés fiscal; las solicitudes de devolución de impuestos o de cantidades pagadas indebidamente al Estado; de condonación o reducción de multas impuestas por las Receptorías de Rentas; así como del reconocimiento de créditos en contra de éste para efectos de su compensación, derivados de contribuciones estatales o federales coordinadas;
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+XIX BIS.- Revocar las autorizaciones para pagar los créditos fiscales a plazos, ya sean en forma diferida o en parcialidades, cuando el contribuyente se coloque en las causales establecidas por las disposiciones fiscales aplicables, tanto en materia de ingresos estatales como de federales coordinados e instruir al jefe de la oficina ejecutora correspondiente, para que proceda a exigir el saldo insoluto del adeudo y los accesorios causados, por medio del procedimiento administrativo de ejecución;
+
 XX.- Revisar y autorizar en su caso, la cancelación de créditos fiscales estatales o federales coordinados, así como los acuerdos de suspensión o baja de contribuyentes no localizados;
 
 XXI.- Hacer efectivos, a través del procedimiento administrativo de ejecución, los documentos suscritos a favor del erario estatal y otros cuyo cobro estén encomendados a la Secretaría, que para este efecto se equipararán a créditos fiscales, de acuerdo con las prevenciones respectivas de la materia, excepto cuando su exigibilidad se rija por disposiciones no fiscales;
@@ -279,25 +283,41 @@ I.- Una Subdirección
 
 II.- Un Departamento Administrativo
 
-III.- Un Departamento de Padrón Vehicular
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
-IV.- Un Departamento de Ingresos Estatales
+III.- Un Departamento de Contribuciones Vehiculares e Ingresos Estatales;
 
-V.- Un Departamento de Ingresos Federales
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
-VI.- Un Departamento de Cobranza
+IV.- Un Departamento de Ingresos Federales Coordinados;
 
-VII. Un Departamento Técnico
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
-VIII.- Un Departamento de Recursos Federales y Estadística
+V.- Un Departamento Técnico;
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+VI.- Un Departamento de Recursos Federales y Estadística de Ingresos;
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+VII. Un Departamento de Informática;
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+VIII.- Una Unidad de Apoyo a la Cobranza;
 
 IX.- Un Departamento de Informática
 
 X.- Una Unidad de Coordinación con Municipios
 
-XI.- Una Unidad de Asesoría Jurídica
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
-X (SIC).- Las Receptorías de Rentas
+XI.- Una Unidad de Asesoría Jurídica; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+X (SIC).- Las Receptorías de Rentas.
 
 ###### ARTICULO 11.
 
@@ -485,17 +505,33 @@ XXII.- Las demás que establezcan las leyes, reglamentos, decretos, convenios, a
 
 La Dirección de Auditoría Fiscal, además del Despacho del Director, se integrará por:
 
-I.- Un Departamento Jurídico
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
-II.- Un Departamento de Asistencia al Contribuyente
+I.- Una Subdirección;
 
-III.- Un Departamento de Auditorías en Visitas Domiciliarias
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
-IV.- Un Departamento de Revisiones de Escritorio y Dictámenes
+II.- Un Departamento Jurídico;
 
-V.- Un Departamento de Apoyo y Servicios Generales
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
-VI.- Un Departamento de Programación
+III.- Un Departamento de Asistencia al Contribuyente;
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+IV.- Un Departamento de Auditorías en Visitas Domiciliarias;
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+V.- Un Departamento de Revisiones de Escritorio y Dictámenes;
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+VI.- Un Departamento de Apoyo y Servicios Generales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+VII.- Un Departamento de Programación.
 
 ###### ARTICULO 17.
 
@@ -597,7 +633,7 @@ Para el ejercicio de sus funciones y cumplimiento de responsabilidades, el Coord
 
 ###### ARTICULO 21.
 
-Son funciones y responsabilidades del jefe de la Unidad de Asesoría Financiera.
+Son funciones y responsabilidades del jefe de la Unidad de Asesoria Financiera.
 
 I.- Someter a la aprobación del Secretario el programa anual de trabajo del área;
 
@@ -647,13 +683,19 @@ VI.- Hacer efectiva a los contribuyentes o responsables solidarios que hayan inc
 
 VII.- Ordenar y llevar a cabo el procedimiento administrativo de ejecución, a fin de hacer efectivos los créditos fiscales y sus accesorios, derivados de la aplicación de las leyes fiscales del Estado y de los convenios de coordinación y de colaboración administrativa, celebrados entre el Gobierno del Estado de Colima y los gobiernos federal y municipales;
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+VII BIS.- Habilitar días y horas inhábiles para la práctica de diligencias de notificación de toda clase de actos administrativos, de requerimiento de pago, así como de embargo de bienes y negociaciones;
+
 VIII.- Imponer las multas previstas en las leyes fiscales aplicables por presentar previo requerimiento declaraciones extemporáneas, por no cumplir con los requerimientos o cumplirlos fuera de los plazos señalados en los mismos, así como por pagar en forma extemporánea las contribuciones decretadas por las leyes fiscales del Estado y aquellas cuya administración recae en el Estado por virtud de los convenios de coordinación o de colaboración respectivos;
 
 IX.- Embargar precautoriamente bienes o negociaciones para asegurar los intereses del fisco, ya sea respecto de créditos estatales, federales o municipales coordinados, cuando se den los supuestos previstos en las leyes fiscales respectivas;
 
 X.- Aceptar las garantías que se otorguen para cubrir créditos fiscales y, en su caso, ordenar la ampliación de las mismas;
 
-XI.- Verificar que los depositarios de bienes embargados en los procedimientos administrativos de ejecución, cumplan con las obligaciones de su encargo y, en caso contrario, fincar las responsabilidades correspondientes, acordando la sustitución del depositario;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+XI.- Nombrar y remover a los depositarios de bienes o negociaciones embargados, verificando que los mismos cumplan con las obligaciones de su encargo y, en caso contrario, fincar las responsabilidades correspondientes, acordando su sustitución;
 
 XII.- Notificar toda clase de actos administrativos y resoluciones de carácter fiscal emitidos por las autoridades fiscales de la Secretaría en el ejercicio de las facultades otorgadas por las leyes fiscales del Estado y las que se deriven de la aplicación de los convenios de coordinación o de colaboración, respectivos;
 
@@ -661,7 +703,9 @@ XIII.- Ejercer la vigilancia que demande el cumplimiento de las leyes fiscales, 
 
 XIV.- Recibir toda clase de manifestaciones y avisos de los contribuyentes obligados en los términos de la legislación hacendaría, domiciliados en la jurisdicción de las propias Receptorías, verificando que los datos asentados coincidan con la realidad;
 
-XV.- Ordenar y llevar a cabo los actos de verificación del cumplimiento de las obligaciones fiscales previstas en la legislación fiscal estatal y los que deban realizarse por virtud de los convenios de coordinación y de colaboración administrativa celebrados entre el Gobierno del Estado y los gobiernos federales y municipales, imponiendo las sanciones que resulten procedentes por violación a las leyes fiscales respectivas;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+
+XV.- Ordenar y llevar a cabo los actos de verificación del cumplimiento de las obligaciones fiscales previstas en la legislación fiscal estatal y de las relacionadas con la presentación de avisos al Registro Estatal Vehicular, así como los que deban realizarse por virtud de los convenios de coordinación y de colaboración administrativa celebrados entre el Gobierno del Estado y los gobiernos federal y municipales, imponiendo las sanciones que resulten procedentes por violación a las leyes respectivas;
 
 XVI.- Proporcionar orientación técnica a los contribuyentes respecto al cumplimiento de sus obligaciones fiscales y resolver en el ámbito de su competencia las consultas que sobre situaciones reales y concretas le planteen los interesados individualmente, conforme a las disposiciones legales aplicables y la normatividad emitida al efecto por las autoridades competentes;
 
@@ -780,3 +824,9 @@ Dado en la residencia del Poder Ejecutivo, en Palacio de Gobierno, a los 16 día
 SUFRAGIO EFECTIVO. NO REELECCIÓN
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.-Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA.-Rúbrica.- EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA.-Rúbrica.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+
+P.O. 2 DE NOVIEMBRE DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Colima".
