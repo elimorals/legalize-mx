@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1990-05-16"
+last_updated: "1992-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1992.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -229,11 +229,11 @@ Del Registro Civil.
 
 Disposiciones Generales.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 1992)</small>
 
 ###### Artículo 35.
 
-En el Estado el Registro Civil estará constituido por el Departamento del Registro Civil, su Archivo Estatal y las Oficialías que determine el Reglamento respectivo.
+En el Estado el Registro Civil estará constituído por la Dirección del Registro Civil, y las Oficialías que determine el reglamento respectivo.
 
 La titularidad de las Oficialías del Registro Civil estará a cargo de los funcionarios estatales denominados Oficiales del Registro Civil, quienes tendrán fe pública en el desempeño de las labores propias de su cargo.
 
@@ -251,11 +251,11 @@ Las actas del Registro Civil se asentarán en formas especiales cuyo formato se 
 
 Para asentar las actas del Registro Civil habrá las siguientes formas: Nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, defunción, inscripción de las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o la limitación de la capacidad legal para administrar bienes.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1992)</small>
 
 ###### Artículo 38.
 
-Si se perdiere o destruyere alguna de las formas del Registro Civil, se sacará inmediatamente copia de alguno de los otros ejemplares, bajo la responsabilidad del Oficial del Registro Civil, del Jefe del Departamento del Registro Civil y del encargado del Archivo Estatal de dicho registro, para cuyo efecto el funcionario titular del lugar donde ocurra la pérdida dará aviso a los demás, en la forma que establezca el Reglamento respectivo.
+Si se perdiere o destruyere alguna de las formas del Registro Civil, se sacará inmediatamente copia alguna de los otros ejemplares, bajo la responsabilidad del Oficial del Registro Civil, del Director del Registro Civil y del encargado del archivo estatal de dicho Registro, para cuyo efecto el funcionario titular del lugar donde ocurre la pérdida dará aviso a los demás en la forma que establezca el reglamento respectivo.
 
 ###### Artículo 39.
 
@@ -267,11 +267,13 @@ El estado civil de las personas sólo se comprueba por las constancias relativas
 
 Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren las actas en que se pueda suponer que se encontraba la inscripción, se podrá probarse el acto en la forma que establezca el Código de Procedimientos Civiles, para la inscripción del mismo.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 1992)</small>
 
 ###### Artículo 41.
 
-Las formas del Registro Civil serán distribuidas por el Jefe del Departamento del Registro Civil, se renovarán cada año y los Oficiales del Registro Civil remitirán un ejemplar de ellas al Archivo Estatal del Registro Civil, otro a la Dirección General del Registro Nacional de Población de la Secretaría de Gobernación, un ejemplar al interesado y el otro quedará en el archivo de la Oficialía.
+Las formas del Registro Civil serán distribuídas por el Director del Registro Civil, se renovarán cada año, y los Oficiales del Registro Civil, remitirán un ejemplar de ellas al archivo estatal del Registro Civil, y a la Dirección General del Registro Nacional de Población, de la Secretaría de Gobernación, un ejemplar al interesado y el otro quedará en el archivo de la Oficialía.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
 
 Con las actas del Registro Civil se integrará el apéndice respectivo, que estará constituido por todos los documentos relacionados con el acto que se asienta. Los documentos del apéndice estarán anotados y relacionados con el acta respectiva, al igual que las actas lo estarán con éstos.
 
@@ -353,11 +355,11 @@ Para acreditar el estado civil adquirido por los mexicanos fuera de la Repúblic
 
 Los Oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales; cuando esto no fuere posible, suplirán dichas faltas la primera autoridad política municipal respectiva.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1992)</small>
 
 ###### Artículo 53.
 
-El Departamento del Registro Civil supervisará las actuaciones de los Oficiales del Registro Civil ejerciendo las facultades que le señale el Reglamento respectivo.
+La Dirección del Registro Civil supervisará las actuaciones de los Oficiales del Registro Civil ejerciendo las facultades que le señale el Reglamento respectivo.
 
 ### CAPITULO II.
 
@@ -901,7 +903,9 @@ De la Rectificación de las Actas del Estado Civil.
 
 La rectificación o modificación de un acta del estado civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
 
-La aclaración de las actas del estado civil, procede cuando en el registro existan errores mecanográficos, ortográficos o de otra índole que no afecten los datos esenciales de aquellas y deberán tramitarse ante el Departamento del Registro Civil.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1992)</small>
+
+La aclaración de las actas del estado civil, procede cuando en el Registro existan errores mecanográficos, ortográficos o de otra índole que no afecten los datos esenciales de aquellas y deberán tramitarse conforme lo dispuesto en el Reglamento del Registro Civil.
 
 ###### Artículo 135.
 
@@ -15612,3 +15616,9 @@ P.O. 16 DE MAYO DE 1990.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 9 DE NOVIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
