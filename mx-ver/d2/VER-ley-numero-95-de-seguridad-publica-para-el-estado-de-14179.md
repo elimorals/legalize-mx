@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-95-de-seguridad-publica-para-el-estado-de-14179"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-17"
-last_updated: "1998-01-17"
+last_updated: "2001-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2001.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 17 de enero de 1998.
 
@@ -99,9 +99,11 @@ El titular del Poder Ejecutivo dispondrá la división del territorio de la enti
 
 El Sistema Estatal de Seguridad Pública comprende las corporaciones y los servicios de prevención de conductas ilícitas, persecución de delitos e infracciones, ejecución de sanciones y custodia de individuos sujetos a reclusión o internamiento, establecidos conforme a la legislación vigente, así como los organismos y servicios auxiliares de aquellos, existentes o que en lo sucesivo se creen independientemente de la denominación o adscripción administrativa que tengan.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2001)</small>
+
 ###### Artículo 14.
 
-El Gobernador podrá disponer de las fuerzas de seguridad pública, dentro de los límites del estado, tendrá bajo su inmediata dependencia a la policía en el lugar donde residan los Poderes del Estado, y ejercerá, como suprema instancia, las funciones conducentes a organizar y disciplinar las fuerzas de la entidad.
+El Gobernador tendrá el mando supremo de las fuerzas de seguridad pública estatales. Las policías municipales preventivas acatarán las órdenes que el Titular del Poder Ejecutivo les transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
 El mando directo de los cuerpos de seguridad pública recaerá en los funcionarios que señalen las normas aplicables en cada caso. Dichos funcionarios serán responsables de la observancia de la presente ley y de las disposiciones que deriven de ella.
 
@@ -129,43 +131,71 @@ El Consejo Estatal de Seguridad Pública es la instancia superior encargada de l
 
 El Consejo Estatal de Seguridad Pública, para la organización, supervisión y dirección de sus trabajos, estará integrado por:
 
-I. El Gobernador del Estado, quien lo presidirá;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-II. El Secretario General de Gobierno;
+I. El Secretario de Seguridad Pública, quien lo presidirá;
 
-III. El Procurador General de Justicia;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-IV. El Secretario de Comunicaciones;
+II. El Procurador General de Justicia;
 
-V. El Director General Seguridad Pública;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-VI. El Director General de Tránsito y Transporte;
+III. El Secretario de Comunicaciones;
 
-VII. El Director General de Prevención y Readaptación Social;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-VIII. El Director General de la Policía Judicial;
+IV. El Director General Seguridad Pública;
 
-IX. Los representantes en la entidad de las siguientes dependencias:
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-a) Secretaría de Gobernación;
+V. El Director General de Tránsito y Transporte;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+VI. El Director General de Prevención y Readaptación Social;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+VII. El Director General de la Policía Ministerial;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+VIII. Los representantes en la Entidad de las siguientes dependencias:
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2001)</small>
+
+a) Secretaría de Seguridad Pública;
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2001)</small>
 
 b) Secretaría de la Defensa Nacional;
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2001)</small>
+
 c) Secretaría de Marina;
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2001)</small>
 
 d) Secretaría de Comunicaciones y Transportes;
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2001)</small>
+
 e) Procuraduría General de la República.
 
-X. Los Presidentes Municipales de la Entidad en los asuntos relacionados con el ámbito territorial de su competencia; y
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-XI. El Secretario Ejecutivo.
+IX. Los Presidentes Municipales de la Entidad, en los asuntos relacionados con el ámbito territorial de su competencia; y
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+X. El Secretario Ejecutivo.
 
 A propuesta del Presidente del Consejo podrá participar además quien, por razón de sus atribuciones, esté vinculado con los fines de la seguridad pública.
 
 ###### Artículo 18.
 
-En ausencia del Gobernador del estado, el Secretario General de Gobierno presidirá el Consejo Estatal.
+(DEROGADO, G.O. 29 DE ENERO DE 2001)
 
 ###### Artículo 19.
 
@@ -219,7 +249,9 @@ Existirán con carácter permanente las siguientes comisiones:
 
 I. Comisión del Servicio Policial de Carrera, que auxiliará al Consejo Estatal y fungirá como órgano de revisión de las decisiones sobre estímulos y recompensas que pronuncien las juntas de Honor y Justicia, y
 
-II. Comisión de Seguridad Privada, que integrará los expedientes y los pondrá a consideración del Secretario General de Gobierno a fin de que emita las determinaciones procedentes en materia de servicios privados de seguridad pública.
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+II. Comisión de Seguridad Privada, que integrará los expedientes y los pondrá a consideración del Secretario de Seguridad Pública a fin de que emita las determinaciones procedentes en materia de servicios privados de seguridad pública.
 
 ###### Artículo 25.
 
@@ -241,9 +273,11 @@ ESTATAL DE SEGURIDAD PÚBLICA Y DEL
 
 CONSEJO ESTATAL
 
+> <small>(REFORMADO, 29 DE ENERO DE 2001)</small>
+
 ###### Artículo 27.
 
-El Sistema Estatal de Seguridad Pública y su Consejo Estatal tendrá una Secretaría Ejecutiva, cuyo titular será designado y removido libremente por el Gobernador del Estado, participará con voz en las sesiones del Consejo Estatal y además contará con el apoyo administrativo que le asigne el Titular del Poder Ejecutivo.
+El Sistema Estatal de Seguridad Pública y su Consejo Estatal tendrá una Secretaría Ejecutiva, cuyo titular será designado y removido por el Secretario de Seguridad Pública, previo acuerdo del Gobernador del Estado, participará con voz en las sesiones del Consejo Estatal y además contará con el apoyo administrativo que le asigne el Titular del Poder Ejecutivo.
 
 ###### Artículo 28.
 
@@ -505,7 +539,9 @@ Las sanciones a las que se refiere el artículo anterior serán impuestas por el
 
 Para ello se desahogará un procedimiento en forma, notificando al interesado acerca del inicio de aquél y sobre los hechos que lo motivan. En el curso del procedimiento se oirá a quienes presenten quejas acerca de la prestación del servicio, en caso de haberlos, así como al prestador del servicio. Este podrá presentar las pruebas que estime pertinentes y alegar lo que convenga a su interés jurídico, dentro de los cinco días hábiles posteriores a la fecha en que se le notifique el inicio del procedimiento. Recibidas las pruebas la resolución se dictará en un término no mayor a 30 días naturales.
 
-La resolución que dicte el Director General de Seguridad Pública del Estado podrá ser impugnada ante el Secretario General Gobierno, quien resolverá en definitiva.
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2001)</small>
+
+La resolución que dicte el Director General de Seguridad Pública del Estado podrá ser recurrida ante el Secretario de Seguridad Pública, quien resolverá en definitiva, de conformidad con las disposiciones legales aplicables.
 
 La impugnación podrá ser interpuesta por el afectado dentro de los cinco días hábiles siguientes a la notificación que se le haga de la resolución.
 
@@ -528,3 +564,21 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 SALVADOR MIKEL RIVERA
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 29 DE ENERO DE 2001.
+
+Primero. El presente Decreto iniciará su vigencia el día uno de junio de dos mil uno.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El personal, con respecto a sus derechos laborales, así como los recursos financieros y materiales de las distintas áreas que en términos de este Decreto pasan a ser responsabilidad de la Secretaría de Seguridad Pública, se integrarán a esta dependencia para el desempeño de sus atribuciones.
+
+Cuarto. El personal, con respecto a sus derechos, así como los recursos financieros y materiales de los centros de observación y adaptación social para menores infractores que en términos de este Decreto pasan a ser responsabilidad de la Secretaría de Gobierno se integrarán a esta dependencia para el desempeño de sus atribuciones.
+
+Quinto. Las dependencias del Poder Ejecutivo del Estado a que hace referencia este Decreto, a la brevedad posible, ajustarán su organización y normatividad interiores a las disposiciones contenidas en la misma.
+
+Sexto. En tanto se expiden las normas reglamentarias correspondientes, seguirán siendo aplicables, en lo que no se opongan a este Decreto, los reglamentos en vigor.
+
+Séptimo. Para efectos de lo previsto en el artículo 71, fracción XI, inciso h) de la Constitución Política del Estado de Veracruz-Llave y 35, fracción XXV, inciso h) de la Ley Orgánica del Municipio Libre, los Ayuntamientos podrán asumir la prestación del servicio público de tránsito de conformidad con lo dispuesto por el artículo Tercero Transitorio del Decreto por el que se declaró reformado y adicionado el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el veintitrés de diciembre de mil novecientos noventa y nueve.
