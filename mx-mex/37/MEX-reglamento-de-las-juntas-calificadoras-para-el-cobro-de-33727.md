@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-las-juntas-calificadoras-para-el-cobro-de-33727"
 country: "mx"
 rank: "reglamento"
 publication_date: "1925-12-23"
-last_updated: "1925-12-23"
+last_updated: "1926-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LAS JUNTAS CALIFICADORAS PARA EL COBRO DE IMPUESTOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE ENERO DE 1926.
 
 Reglamento publicado en la Gaceta del Gobierno del Estado de México, el miércoles 23 de diciembre de 1925.
 
@@ -75,9 +75,13 @@ Las asociaciones de contribuyentes presentarán candidatos distintos para la for
 
 El día once de enero a las once horas, el Administrador de Rentas procederá a instalar las Juntas Calificadoras de cada ramo con los candidatos de las asociaciones, si éstas representan a todos los productores. Se levantará un acta de constitución de la Junta, citando el Administrador para la primera sesión, que deberá celebrarse el día quince del mismo mes de enero. Por medio de instructivo se notificará a los miembros de la Junta y a los suplentes. Si los representantes no tuvieran designado domicilio en el Distrito, se les notificará fijando el instructivo en las puertas de la Administración de Rentas.
 
+> <small>(REFORMADO, G.G. 2 DE ENERO DE 1926)</small>
+
 ###### Art. 7.
 
-Cuando las asociaciones de contribuyentes no existan o el número de sus componentes sea inferior a la totalidad de ellos, el Administrador de Rentas procederá como lo manda el artículo 32 de la Ley de Ingresos, practicando a las once horas del día once de enero un sorteo de entre todos los contribuyentes de cada ramo, para escoger, cuatro que integren la Junta como propietarios y cuatro suplentes, para los casos de faltas de los propietarios. El sorteo se practicará colocando en una ánfora todos los nombres de los causantes empadronados del ramo; las cuatro papeletas que se extraigan en primer lugar, serán para los propietarios y las cuatro restantes para los suplentes. El resultado del sorteo se hará constar en un acta que se levantará por triplicado, remitiéndose un ejemplar a la Procuraduría General de Hacienda, otro a la Tesorería General del Estado y conservando otro la Administración de Rentas.
+Cuando las asociaciones de contribuyentes no existan en el número de sus componentes sea inferior a la totalidad de ellos, el Administrador de Rentas procederá como lo manda el artículo 32 de la Ley de Ingresos, practicando a la once horas del día once de enero, un sorteo de entre todos los contribuyentes de cada ramo, para escoger, cuatro que integren la Junta como propietarios y cuatro suplentes, para los casos de faltas de los propietarios. El sorteo se practicará colocando en una ánfora todos los nombres de los causantes empadronados del ramo; las cuatro papeletas que se extraigan en primero lugar, serán para los propietarios y los cuatro restantes para los suplentes. El resultado del sorteo se hará constar en un acta que se levantará por triplicado, remitiéndose un ejemplar a la Procuraduría General de Hacienda, otro ala Tesorería General del Estado y conservando otro la Administración de Rentas.
+
+Cuando los contribuyentes de cada ramo no lleguen a cuatro en el Distrito, el Administrador de Rentas hará la calificación, la que en todo caso quedará sujeta a la resolución del ejecutivo.
 
 ###### Art. 8.
 
@@ -206,3 +210,9 @@ Carlos Riva Palacio.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 N. Bassols.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 2 DE ENERO DE 1926.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MEXICO.
