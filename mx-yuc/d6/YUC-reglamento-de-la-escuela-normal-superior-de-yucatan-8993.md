@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-escuela-normal-superior-de-yucatan-8993"
 country: "mx"
 rank: "reglamento"
 publication_date: "1982-02-08"
-last_updated: "1982-03-31"
+last_updated: "1985-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,19 +23,21 @@ state: "YUC"
 
 REGLAMENTO DE LA ESCUELA NORMAL SUPERIOR DE YUCATAN
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 31 DE MARZO DE 1982]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE JULIO DE 1985.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el lunes 8 de febrero de 1982.
 
 Doctor Francisco Luna Kan, Gobernador Constitucional del Estado Libre y Soberano de Yucatán, a sus habitantes hago saber:
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 OCTAVO.- El Consejo Directivo de la Escuela Normal Superior de Yucatán, autoridad máxima de esta escuela, con el fin de actualizarla y adecuarla a las modificaciones de la Educación Normal Superior en el país, hacer más operante su funcionamiento, dar mejor servicio y facilitar al máximo el proceso de superación profesional del magisterio, solicitó al Ejecutivo con fundamento en el Artículo 8vo., inciso I de la Ley que creó la Escuela Normal Superior de Yucatán, la expedición de un nuevo Reglamento, por lo que, con fundamento en la facultad que le confiere la fracción XI del artículo 55 de la Constitución Política del Estado, he tenido a bien expedir el siguiente:
 
 REGLAMENTO DE LA ESCUELA NORMAL SUPERIOR DE YUCATAN
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE JULIO DE 1985)</small>
 
 ###### ARTICULO 1o.
 
@@ -65,23 +67,39 @@ D.- Vincular la Escuela Normal Superior de Yucatán con la realidad socioeconóm
 
 E.- Fomentar las actitudes de solidaridad nacional e internacional dentro del marco de la paz, la justicia y la libertad.
 
-Para lograr dichos objetivos es necesario que la Escuela Normal Superior;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE JULIO DE 1985)</small>
 
-A.- Aporte sus experiencias a la educación nacional, sirviendo de laboratorio de investigación de métodos y procedimientos pedagógicos, de organización, supervisión y apreciación de resultados, relativos a los diversos tipos o aspectos de la educación en el país;
+Para lograr dichos objetivos es necesario que la Escuela Normal Superior:
 
-B.- Ofrezca una preparación al alumno de educación normal superior que lo capacite para realizar su labor pedagógica tanto en Instituciones de Educación Media que apliquen el plan por áreas como por asignaturas;
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
 
-C.- Desarrolle en ocho semestres los cursos ordinarios de Licenciatura y los de Maestría en cuatro semestres;
+1.- Aporte sus experiencias a la educación nacional, sirviendo de laboratorio de investigación de métodos y procedimientos pedagógicos, de organización, supervisión y apreciación de resultados, relativos a los diversos tipos o aspectos de la educación en el país;
 
-D.- Ofrezca en la Maestría la ampliación y profundización de estudios particulares dentro de la misma especialidad, así como de conocimientos psicopedagógicos y de administración educativa;
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
 
-E.- Organice el doctorado en forma de seminarios semestrales o anuales para formar investigadores en el campo pedagógico y docente para la educación superior;
+2.- Ofrezca una preparación al alumno de educación normal superior que lo capacite para realizar su labor pedagógica tanto en Instituciones de Educación Media que apliquen el plan por áreas como por asignaturas;
 
-F.- Extendida los servicios, educativos tanto en la modalidad escolar como en la extraescolar.
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
+3.- Desarrolle en ocho semestres los cursos ordinarios de Licenciatura y los de Maestría en dos años con seis períodos tetramestrales, si el estudiante se matricula ininterrumpidamente en los cursos que le correspondan.
+
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
+4.- Ofrezca en la Maestría la ampliación y profundización de estudios particulares dentro de la misma especialidad, así como de conocimientos psicopedagógicos y de administración educativa;
+
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
+5.- Organice el doctorado en forma de seminarios semestrales o anuales para formar investigadores en el campo pedagógico y docente para la educación superior;
+
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
+6.- Extendida los servicios, educativos tanto en la modalidad escolar como en la extraescolar.
+
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
 
 ###### ARTICULO 3o.
 
-Para el desempeño de su cometido, la Escuela Normal Superior de Yucatán, organizará su enseñanza a nivel de Licenciatura en las siguientes especialidades: ESPAÑOL, MATEMÁTICAS, CIENCIAS NATURALES, CIENCIAS SOCIALES, LENGUA EXTRAJERA y ORIENTACIÓN ESCOLAR así como la especialidad de Educación Tecnológica.
+Para el desempeño de su cometido, la Escuela Normal Superior de Yucatán, organizará su enseñanza a nivel de Licenciatura en las siguientes especialidades: Español, Matemáticas, Ciencias Naturales, Ciencias Sociales, Lengua Extrajera, Orientación Escolar, Pedagogía, Educación Artística, Educación Física, Trabajo Social y Educación Tecnológica.
 
 ###### ARTICULO 4o.
 
@@ -93,9 +111,11 @@ Los maestros técnico-prácticos que hayan concluido la especialidad de Educaci�
 
 ### CAPITULO II (SIC). DEL GOBIERNO DE LA ESCUELA
 
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 6o.
 
-La autoridad máxima de la Escuela Normal Superior de Yucatán será el Consejo Directivo integrado por el Secretario de Asuntos Educativos y Sociales del Gobierno del Estado o por quien haga sus veces, que será el Presidente, por la Dirección de Educación Pública del Estado, el Director y el Secretario General de la Escuela y por un representante de los maestros y otro de los alumnos, por especialidad.
+La autoridad máxima de la Escuela Normal Superior de Yucatán será el Consejo Directivo integrado por el Secretario de Educación del Gobierno del Estado que será el Presidente, por el Director y el Secretario General de la Escuela y por un representante de los maestros y otro de los alumnos, por especialidad.
 
 ###### ARTICULO 7o.
 
@@ -105,9 +125,11 @@ a).- Los que sean sometidos por la Dirección de la Escuela.
 
 b).- Los que sean propuestos por sus miembros.
 
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 8o.
 
-Para que las reuniones del Consejo Directivo tengan validez, deberán estar presididas por el Secretario de Asuntos Educativos y Sociales o quien haga sus veces o en su defecto, por el Director de Educación Pública del Estado; el Secretario General de la Escuela citará cuando menos con tres días de anticipación a la fecha de la reunión, requiriéndose para la validez de los acuerdos el quórum compuesto de la mitad más uno de sus integrantes. Si después de citada una junta no se presentase el número legal de Consejeros, se citará nuevamente para otra fecha, celebrándose con el número de Consejeros que asistan.
+Para que las reuniones del Consejo Directivo tengan validez deberán estar presididas por el Secretario de Educación; el Secretario General de la Escuela citará cuando menos con tres días de anticipación a la fecha de la reunión, requeriéndose (sic) para la validez de los acuerdos el quórum compuesto de la mitad más uno de sus integrantes. Si después de citada una junta no se presentase el número legal de consejeros, se citará nuevamente para otra fecha, celebrándose con el número de consejeros que asistan.
 
 ###### ARTICULO 9o.
 
@@ -169,11 +191,15 @@ c).- Por la Sociedad de Alumnos de la Escuela.
 
 ### CAPITULO III. DEL PERSONAL
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 21o.
 
-Son atribuciones del Director del Plantel:
+Son atribuciones del Director del plantel:
 
-I.- Proponer el Consejo Directivo a quienes deberán integrar el personal administrativo y docente, así como a los que beberán ocupar los cargos de Secretario General, Subdirector Técnico, Subdirector Administrativo, Tesorero y los que forman la Comisión Técnica, los empleados administrativos ocuparán empleos de base con todos los derechos y obligaciones que establece el Estatuto Jurídico de los Trabajadores al Servicio del Estado.
+> <small>(REFORMADA, D.O. 30 DE JULIO DE 1985)</small>
+
+I.- Proponer al Consejo Directivo a quienes deberán integrar el personal docente, administrativo y manual, así como a los que beberán ocupar los cargos de Secretario General, Sub-Director Técnico, Sub-Director Administrativo, Tesorero, los que forman la Comisión Técnica y demás cargos necesarios al funcionamiento de la Institución. Los empleados administrativos y manuales ocuparán empleos de base con todos los derechos y obligaciones que establece el Estatuto de los Trabajadores al Servicio del Estado.
 
 II.- Aplicar las medidas disciplinarias correspondientes a profesores, alumnos y empleados, cuando sea necesario hacerlo y en los términos del presente Reglamento.
 
@@ -353,19 +379,23 @@ No están autorizados los profesores para conceder a los alumnos permisos para f
 
 Para Ingresar a la Escuela Normal Superior de Yucatán se requiere:
 
-> <small>(F. DE E., D.O. 31 DE MARZO DE 1982)</small>
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
 
-a).- Acreditar haber terminado la carrera de Profesor Normalista en sus modalidades de Educación Primaria o Educación Preescolar, o haber terminado el grado de Bachiller con plan de tres años, vocacional o estudios equivalentes
+a).- Acreditar haber terminado la carrera de profesor normalista en sus modalidades de educación primaria o educación pre-escolar o haber terminado el bachillerato con plan de tres años o estudios equivalentes, en cuyo caso deberán cursar y aprobar las materias correspondientes al curso de nivelación pedagógica.
 
 b).- Otros documentos que señale la Dirección de la Escuela para integrar el expediente del alumno.
 
-c).- Cubrir la correspondiente cuota de inscripción.
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
+c).- Presentar examen de admisión.
 
 ###### ARTICULO 39o.
 
 Son obligaciones de los alumnos:
 
-a).- Concurrir puntualmente a sus clases dentro del horario señalado a las mismas y justificar oportunamente ante la Dirección del Plantel sus inasistencias a ellas por causas de fuerza mayor, sólo como condición para conservar su calidad de alumnos ya que la justificación de las faltas no se tomará en cuenta para fijar el derecho a la prueba ordinaria o extraordinaria.
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
+a).- Concurrir puntualmente a sus clases dentro del horario señalado a las mismas y acreditar un mínimo de 80% de asistencias para tener derecho a examen ordinario de la materia de que se trate.
 
 b).- Observar buena conducta.
 
@@ -389,6 +419,8 @@ No se permite al alumno inscribirse en dos o más grados dentro de la especialid
 
 El alumno que en el transcurso de dos años consecutivos haya sido reprobado en siete o más materias, perderá su derecho a continuar en la Escuela, aunque cambie de especialidad.
 
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 301 PUBLICADO EN EL D.O. DE 30 DE JULIO DE 1985, SE ADVIERTE QUE ESTE ARTÍCULO SE INTEGRABA CON LOS INCISOS A) AL H) QUEDANDO ACTUALMENTE HASTA EL INCISO G)]</small>
+
 ###### ARTICULO 42o.
 
 Son derechos de los alumnos:
@@ -403,33 +435,41 @@ c).- Obtener los documentos que acrediten los estudios realizados durante el cur
 
 d).- Obtener el certificado de terminación de estudios y derecho al examen recepcional, previo cumplimiento de las disposiciones que señala este Reglamento.
 
-e).- Cambiar de especialidad por una sola vez, para la cual revalidarán las materias cursadas comunes o ambas. La solicitud respectiva se presentará durante los cuatro meses siguientes a la terminación del curso, para que el Director de la Escuela dicte el acuerdo correspondiente, previo estudio del caso.
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
 
-f).- Obtener la revalidación de las materias cursadas fuera del plantel, cuando las mismas sean equivalentes a las que ofrece la Escuela, a juicio de la Dirección de Educación Pública del Estado y previo estudio y dictamen de la Comisión Técnica de la Escuela Normal Superior de Yucatán.
+e).- Obtener la revalidación de las materias cursadas fuera del plantel, cuando las mismas sean equivalentes a las que ofrece la Escuela a juicio de la Secretaría de Educación del Estado y previo estudio y dictamen de la Comisión Técnica de la Escuela Normal Superior de Yucatán.
 
-g).- Presentar en exámenes a título de suficiencia hasta el 50 por ciento de las materias que no hubiere acreditado, correspondiente a un grado.
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
 
-> <small>(F. DE E., D.O. 31 DE MARZO DE 1982)</small>
+f).- Presentar en exámenes a título de suficiencia hasta el 50% de las materias que, no hubiere acreditado, correspondiente a un semestre.
 
-h).- Organizarse en sociedades de alumnos para contribuir al mejoramiento de la Escuela y defender los derechos e intereses de sus miembros.
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
+g).- Organizarse en sociedad de alumnos para contribuir al mejoramiento de la Escuela y defender los derechos e intereses de los alumnos.
 
 ### CAPITULO VI. DE LA MARCHA DE LA ESCUELA
 
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 43o.
 
-Los cursos que se imparten en la Escuela Normal Superior de Yucatán, podrán tener dos modalidades.
+Los cursos que se impartan en la Escuela Normal Superior de Yucatán, podrán tener dos modalidades:
 
 a).- Cursos regulares de trabajo diario de lunes a viernes durante el período comprendido de septiembre a junio.
 
-b).- Los que imparta mediante guías de estudio de septiembre a junio, en sistema abierto, y de julio a agosto, en sistema directo que se destinará a prácticas intensivas, con duración de seis semanas.
+b).- Clases sabatinas de octubre a junio que comprenderán el primer semestre y diarias en julio y agosto con duración de 6 semanas el segundo semestre.
+
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
 
 ###### ARTICULO 44o.
 
-En los cursos directos, el tiempo lectivo de cada clase será de 60 minutos diarios de lunes a viernes.
+El tiempo lectivo de cada clase será de 60 minutos.
+
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
 
 ###### ARTICULO 45o.
 
-Durante el tiempo que medie entre la terminación e iniciación de los cursos directos de verano, la Comisión Técnica servirá de enlace entre los maestros de cada una de las asignaturas y los alumnos que vayan a cursarlas, con el objeto de atender todo lo relativo a la preparación de los cursos. Esta Comisión Técnica participará en la orientación de los exámenes profesionales.
+Durante el desarrollo de los cursos la Comisión Técnica organizará academias de especialidad, con el fin de elaborar, revisar y modificar planes y programas de estudios, así como de estudiar y dictaminar sobre los problemas técnicos que se presenten.
 
 ###### ARTICULO 46o.
 
@@ -501,9 +541,11 @@ Las prácticas de observación y de actuación dirigidas, concluirán con una cr
 
 ### CAPITULO IX. DE LOS ANEXOS
 
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 59o.
 
-Las Escuela Secundarias Anexo y de Regularización, la Biblioteca, los laboratorios y demás dependencias de la Escuela Normal Superior de Yucatán, constituirán una unidad técnica y administrativa.
+Las Escuelas Secundarias Anexa y de Regularización, la Biblioteca, los laboratorios y demás dependencias de la Escuela Normal Superior de Yucatán, constituirán una unidad técnica y administrativa.
 
 ###### ARTICULO 60o.
 
@@ -513,7 +555,9 @@ a).- Deben ser escuelas de investigación, experimentación y comprobación peda
 
 b).- Sus trabajos serán teórico práctico y complementarán la cultura general del alumno.
 
-c).- Estarán sujetas a los programas especiales que se adopten con aprobación de la Dirección de Educación Pública del Estado y formarán parte, en doctrinas y acción de la Escuela Normal Superior de Yucatán.
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
+c).- Estarán sujetas a los programas especiales que se adopten con aprobación de la Secretaría de la (sic) Educación del Estado y formarán parte, en doctrinas y acción de la Escuela Normal Superior de Yucatán.
 
 ###### ARTICULO 61o.
 
@@ -531,9 +575,11 @@ La protección y cuidado de los laboratorios, debe ser norma de conducta del alu
 
 ### CAPITULO X. DE LA EVALUACION DE APRENDIZAJE
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 63o.
 
-La evaluación del aprendizaje en la Escuela Normal Superior de Yucatán se efectuará de acuerdo con las disposiciones generales vigentes de la Secretaría de Educación Pública y de la de Dirección de Educación Pública del Estado, con el propósito de mantener la unificación con el sistema educativo NACIONAL y se sujetarán a los siguientes principios generales:
+La evaluación del aprendizaje en la Escuela Normal Superior de Yucatán se efectuará de acuerdo con las disposiciones generales vigentes de la Secretaría de Educación Pública y de la Secretaría de Educación del Estado, con el propósito de mantener la unificación con el Sistema Educativo Nacional y se sujetarán a los siguientes principios generales:
 
 1o.- Se considerará como un proceso inherente a la tarea educativa para comprobar si se han logrado los objetivos propuestos en los programas de cada materia de conocimiento para decidir la promoción de los alumnos y para contribuir a mejorar el nivel de enseñanza.
 
@@ -569,6 +615,8 @@ d).- Evaluación final.
 
 6o.- Comprendida la evaluación dentro del proceso educativo deberán planearse convenientemente a través de las disposiciones, instructivos y la reglamentación del año escolar.
 
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 301 PUBLICADO EN EL D.O. DE 30 DE JULIO DE 1985, SE ADVIERTE QUE ESTE ARTÍCULO SE INTEGRABA CON LOS INCISOS A) AL F) QUEDANDO ACTUALMENTE HASTA EL INCISO E)]</small>
+
 ###### ARTICULO 64o.
 
 Los exámenes a título de suficiencia se concederán en los siguientes casos:
@@ -577,13 +625,19 @@ a).- Por reprobación en exámenes ordinarios siempre que las materias no exceda
 
 b).- Por no acreditar cuando menos el 80 por ciento de asistencia del curso de la materia que se trate.
 
-c).- Para regularizar al alumno por cambio de especialidad hasta en 6 materias semestrales como máximo.
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
 
-d).- En los casos de revalidación de estudios cursados en esta Escuela o en otras Normales Superiores con estudios equivalentes para promover a un alumno de un grado a otro siempre que las materias no excedan del 50 por ciento del total de un grado.
+c).- En los casos de revalidación de estudios cursados en esta Escuela o en otras normales superiores con estudios equivalentes para promover a un alumno de un grado a otro siempre que las materias no excedan del 50% del total de un grado.
 
-e).- Por violación de serie de materias para regularizar a un alumno en sus estudios.
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
 
-f).- Por acuerdo del Consejo Directivo en los casos particulares que ameriten ser llevados hasta la máxima autoridad.
+d).- Por violación de serie de materias para regularizar a un alumno en sus estudios.
+
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
+e).- Por acuerdo del Consejo Directivo en los casos particulares que ameriten ser llevados hasta la máxima autoridad.
+
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
 
 Sólo se autorizarán los exámenes que se soliciten en estos casos cuando cubran los requisitos y derechos señalados por la Escuela.
 
@@ -627,37 +681,59 @@ No se permitirá presentar exámenes fuera de los períodos, calendario, horario
 
 Una vez aprobadas las materias que marca el plan de estudios, y cumplidos los requisitos respectivos el pasante podrá sustentar examen profesional para obtener el título de profesional para obtener el título de profesor de Educación Media a nivel licenciatura o Maestro de Educación Media, según la especialidad y plan que cursó.
 
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 68o.
 
-Se autoriza a cada uno de los alumnos o equipos de 5 elementos como máximo, que cursan el último año de su carrera, a elegir entre los catedráticos de la Escuela Normal Superior de Yucatán a un asesor para la elaboración del documento recepcional, con la retribución acordada de alumno a maestro.
+Se autoriza a cada uno de los alumnos o equipos de tres elementos como máximo, que cursan el último año de su carrera, a elegir a un asesor entre los catedráticos de la Escuela Normal Superior de Yucatán designados por la Dirección de la misma, para la elaboración del documento recepcional.
 
 ###### ARTICULO 69o.
 
 Hecha la elección del asesor por cada alumno o equipo de alumnos, éstos deberán hacer el registro del título de su trabajo y del asesor en la Subdirección Técnica para fines de control en la elaboración de su trabajo y la programación de los exámenes profesionales. Dicho registro se hará llenando la forma que proporcione la escuela.
 
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 70o.
 
-El trabajo recepcional de cada alumno o equipo estará sujeto a las normas que señale el instructivo que para este fin proporciona la escuela. Pudiendo optar el alumno por alguna de las modalidades de titulación que a continuación se le ofrecen:
+El trabajo recepcional de cada alumno o equipo estará sujeto a las normas que señale el instructivo que para este fin proporciona la escuela, pudiendo optar el por alguna de las modalidades de titulación que a continuación se le ofrecen:
 
-a) - Presentar un trabajo de investigación personal relacionado con la especialidad con extensión mínima de 20 cuartillas.
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
 
-b) - Presentación de un trabajo de investigación relacionado con la especialidad por un equipo no mayor de 5 alumnos, con extensión mínima de 40 cuartillas.
+a).- Presentar un trabajo de investigación personal relacionado con la especialidad, con extensión mínima de 20 cuartillas.
 
-c) - Un informe de labores correspondiente a un año de trabajo en la especialidad y en institución oficial de Educación Media o Superior con extensión mínima de 20 cuartillas.
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
 
-d) - Presentar una obra impresa, pedagógica o científica de la especialidad, o un libro de texto, aprobado por el Consejo Nacional Técnico de la Educación, para las escuelas de Educación Media.
+b).- Presentación de un trabajo de investigación de campo relacionado con la especialidad con extensión mínima de 30 cuartillas.
 
-e) - Presentar constancias o documentos de haber impartido por lo menos 20 conferencias sobre la especialidad.
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
+c).- Un informe de labores correspondiente a un año de trabajo en la especialidad y en institución oficial de educación media o superior con extensión mínima de 20 cuartillas.
+
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
+d).- Presentar una obra impresa, pedagógica o científica de la especialidad o un libro de texto, aprobado por el Consejo Nacional Técnico de la Educación, para las escuelas de Educación Media.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE JULIO DE 1985)</small>
+
+e).- Presentar constancias o documentos de haber impartido por lo menos 20 conferencias sobre la especialidad.
+
+> <small>(ADICIONADO, D.O. 30 DE JULIO DE 1985)</small>
+
+f).- Las modalidades correspondientes a los incisos "b" y "d", investigación de campo y obra impresa, podrán ser realizados por un equipo no mayor de tres miembros.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE JULIO DE 1985)</small>
 
 ###### ARTICULO 71o.
 
-Para tener derecho a la titulación los alumnos solicitantes deberán cumplir con los siguientes requisitos
+Para tener derecho a la titulación los alumnos solicitantes deberán cumplir con los siguientes requisitos:
 
 1o.- Tener en su expediente, según corresponda a sus antecedentes de preparación, los siguientes documentos:
 
 a) - Título de Profesor de Educación Primaria o certificado de estudios del mismo nivel; o
 
-b) - Título de Bachiller de tres años o certificados del mismo nivel.
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
+b) - Título de Bachiller de tres años o certificados del mismo nivel y constancia de haber acreditado el curso de Nivelación Pedagógica.
 
 2o.- Los alumnos provenientes de otra Escuela Normal Superior deberán tener el certificado de estudios debidamente legalizado con la revalidación y su expediente completo integrado.
 
@@ -699,17 +775,19 @@ I.- Se aceptará la presentación del examen cuando la mayoría de los sustentan
 
 4.- El alumno que pertenezca a un equipo y no solicite el examen con sus compañeros, no podrá presentar examen con el trabajo escrito que sirvió a sus compañeros. Para poder presentar tendrá que elabora otro trabajo de investigación, y solicitar el examen.
 
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 301 PUBLICADO EN EL D.O. DE 30 DE JULIO DE 1985, SE ADVIERTE QUE ESTE ARTÍCULO SE INTEGRABA CON LAS FRACCIONES I A LA IV QUEDANDO ACTUALMENTE HASTA LA FRACCIÓN III]</small>
+
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 75o.
 
-Para que el trabajo esté debidamente requisitado deberá seguir este proceso.
+Para que el trabajo esté debidamente requisitado deberá seguir este proceso:
 
-I.- Registrar el trabajo a realizar con el nombre del asesor antes del 31 de diciembre del año escolar que se curse (las formas las proporciona la Escuela).
+I.- Presentarlo en la Subdirección Técnica con la firma del asesor y del alumno o alumnos (original y copia).
 
-II.- Presentarlo a la Subdirección Técnica con la firma del asesor y del alumno antes del 30 de mayo del año lectivo. En el caso de los alumnos por equipo deberá llevar nombres y firmas de ellos.
+II.- Tener la autorización del Departamento de Titulación.
 
-III.- Tener la autorización de la Subdirección Técnica.
-
-IV.- Presentarlo en 5 tantos en el transcurso de las tres primeras semanas de los Cursos Intensivos. Fecha límite, 31 de julio del año lectivo.- Los trabajos por equipo se presentarán en el mismo número de ejemplares con nombre y firma de los sustentantes.
+III.- Entregar cinco ejemplares del trabajo ajustado a los lineamientos marcados por el Departamento de Titulación en un plazo no menor de tres semanas antes de la fecha asignada para presentar el examen profesional.
 
 ###### ARTICULO 76o.
 
@@ -725,9 +803,11 @@ El jurado de exámenes profesionales estará integrado por tres sinodales, cated
 
 Cada uno de los sinodales formulará su voto por escrito y firmado, asentándose en el acta respectiva. El resultado podrá ser 1, aprobado con mención honorífica, 2, aprobado por unanimidad, 3, aprobado por mayoría, 4, no aprobado, 5, ausente.
 
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 79o.
 
-El alumno que resulte reprobado, tendrá derecho sólo por una vez, a presentar nuevo examen profesional, utilizando, si lo desea, el mismo trabajo presentado anteriormente, en un plazo no menor de un año, ni mayor de dos, después de la fecha del primero.
+El alumno que resulte reprobado, tendrá derecho sólo por una vez, a presentar nuevo examen profesional, utilizando, si lo desea, el mismo trabajo presentado anteriormente, en un plazo no menor de un año ni mayor de dos, después de la fecha del primero.
 
 ###### ARTICULO 80o.
 
@@ -759,11 +839,11 @@ Se reserva toda la autoridad al Consejo Directivo de la Escuela para la resoluci
 
 La Maestría y el Doctorado serán oportunidades de mejoramiento profesional para quienes hayan obtenido el título respectivo.
 
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 85o.
 
-Para cursar la Maestría se requiere como antecedente de estudio, el título de Profesor de Educación Media en la especialidad de que se trate.
-
-Para cursar el Doctorado, se requiere como antecedente la Maestría.
+Para cursar la Maestría, en cualesquiera de sus especialidades, se requiere como antecedentes de estudio, título a nivel de Licenciatura, expedido por alguna escuela normal superior, universidad, tecnológico u otra institución de estudios superiores del país. Para cursar el Doctorado, se requiere como antecedente la Maestría.
 
 ### CAPITULO XIII. DE LA REVALIDACION DE ESTUDIOS
 
@@ -791,15 +871,17 @@ PRIMERO.- Se abrogan los decretos Nos. 451 publicados en el Diario Oficial del G
 
 SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
-> <small>(F. DE E., D.O. 31 DE MARZO DE 1982)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE JULIO DE 1985)</small>
 
-TERCERO.- Los egresados de la Escuela Normal Superior que hubieren terminado sus estudios en los años de 1976 y 1977, y que aún no hubieren obtenido el título profesional correspondiente y se encuentren prestando sus servicios en el Estado o fuera de él, podrán obtener el mismo, si cumplen cualquiera de los siguientes requisitos:
+TERCERO.- Los egresados de la Escuela Normal Superior de Yucatán que hubieren terminado sus estudios en los años de 1976,1977, 1979, 1980, 1981, 1982 y 1983 y que aún no hubieren obtenido el título profesional correspondiente, así como se encuentren prestando sus servicios en el Estado o fuera de él, podrán obtener el mismo, si reúnen los siguientes requisitos:
 
 a).- Haber cumplido cinco años de servicio en la especialidad respectiva;
 
 b).- Tener un promedio mínimo de calificaciones de ocho en sus estudios profesionales;
 
-c).- Presentar una obra impresa, pedagógica o científica, relacionada con la especialidad o un libro de texto aprobado por el Consejo Nacional Técnico de la Educación o por la Dirección de Educación Pública del Estado;
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 1985)</small>
+
+c).- Presentar una obra impresa, pedagógica o científica, relacionada con la especialidad o un libro de texto aprobado por el Consejo Nacional Técnico de la Educación o por la Secretaría de Educación del Estado:
 
 d).- Presentar un informe de labores correspondientes a un año lectivo;
 
@@ -838,3 +920,11 @@ LIC. MARIO A. BOLIO GRANJA.
 EL SRIO. DE ASUNTOS EDUCATIVOS Y SOCIALES.
 
 C. EDUARDO TELLO SOLIS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 30 DE JULIO DE 1985.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 301 SE REFORMAN LOS ARTÍCULOS 1o., 2o., 3o., 6o., 8o., 21o., 38o., 39o., 42o., 43o., 44o., 45o., 59o., 60o., 63o., PÁRRAFO PRIMERO, 64o., 65o., 68o., 70o., 71o., 75o., 79o., Y 85o., DEL REGLAMENTO DE LA ESCUELA NORMAL SUPERIOR".]
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
