@@ -4,7 +4,7 @@ identifier: "LFPA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1994-08-04"
-last_updated: "2000-04-19"
+last_updated: "2000-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2570&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPA"
 
 LEY FEDERAL DE PROCEDIMIENTO ADMINISTRATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MAYO DE 2000.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de agosto de 1994.
 
@@ -300,13 +300,15 @@ ART. 35.- Las notificaciones, citatorios, emplazamientos, requerimientos, solici
 
 I. Personalmente con quien deba entenderse la diligencia, en el domicilio del interesado;
 
-II. Mediante oficio entregado por mensajero o correo certificado, con acuse de recibo, telefax o cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos; y
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2000)</small>
+
+II. Mediante oficio entregado por mensajero o correo certificado, con acuse de recibo. También podrá realizarse mediante telefax, medios de comunicación electrónica o cualquier otro medio, cuando así lo haya aceptado expresamente el promovente y siempre que pueda comprobarse fehacientemente la recepción de los mismos, y
 
 III. Por edicto, cuando se desconozca el domicilio del interesado o en su caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2000)</small>
 
-Tratándose de actos distintos a los señalados anteriormente, las notificaciones podrán realizarse por correo ordinario, mensajería, telegrama o, previa solicitud por escrito del interesado, a través de telefax.
+Tratándose de actos distintos a los señalados anteriormente, las notificaciones podrán realizarse por correo ordinario, mensajería, telegrama o, previa solicitud por escrito del interesado, a través de telefax, medios de comunicación electrónica u otro medio similar.
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -499,6 +501,26 @@ Para efectos de esta Ley, por trámite se entiende cualquier solicitud o entrega
 > <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
 
 ART. 69-C.- Los titulares de las dependencias u órganos administrativos desconcentrados y directores generales de los organismos descentralizados de la administración pública federal podrán, mediante acuerdos generales publicados en el Diario Oficial de la Federación, establecer plazos de respuesta menores dentro de los máximos previstos en leyes o reglamentos y no exigir la presentación de datos y documentos previstos en las disposiciones mencionadas, cuando puedan obtener por otra vía la información correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2000)</small>
+
+En los procedimientos administrativos, las dependencias y los organismos descentralizados de la Administración Pública Federal recibirán las promociones o solicitudes que, en términos de esta Ley, los particulares presenten por escrito, sin perjuicio de que dichos documentos puedan presentarse a través de medios de comunicación electrónica en las etapas que las propias dependencias y organismos así lo determinen mediante reglas de carácter general publicadas en el Diario Oficial de la Federación. En estos últimos casos se emplearán, en sustitución de la firma autógrafa, medios de identificación electrónica.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2000)</small>
+
+El uso de dichos medios de comunicación electrónica será optativo para cualquier interesado, incluidos los particulares que se encuentren inscritos en el Registro de Personas Acreditadas a que alude el artículo 69-B de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2000)</small>
+
+Los documentos presentados por medios de comunicación electrónica producirán los mismos efectos que las leyes otorgan a los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorgan a éstos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2000)</small>
+
+La certificación de los medios de identificación electrónica del promovente, así como la verificación de la fecha y hora de recepción de las promociones o solicitudes y de la autenticidad de las manifestaciones vertidas en las mismas, deberán hacerse por las dependencias u organismos descentralizados, bajo su responsabilidad, y de conformidad con las disposiciones generales que al efecto emita la Secretaría de Contraloría y Desarrollo Administrativo.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2000)</small>
+
+Las dependencias y organismos descentralizados podrán hacer uso de los medios de comunicación electrónica para realizar notificaciones, citatorios o requerimientos de documentación e información a los particulares, en términos de lo dispuesto en el artículo 35 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
 
@@ -754,9 +776,11 @@ ART. 82.- Las autoridades administrativas con base en los resultados de la visit
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2000)</small>
 
-ART. 83.- Los interesados afectados por los actos y resoluciones de la Administración Pública Federal centralizada que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán interponer recurso de revisión o intentar las vías judiciales correspondientes.
+ART. 83.- Los interesados afectados por los actos y resoluciones de las autoridades administrativas que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán interponer el recurso de revisión o, cuando proceda, intentar la vía jurisdiccional que corresponda.
+
+En los casos de actos de autoridad de los organismos descentralizados federales, de los servicios que el Estado presta de manera exclusiva a través de dichos organismos y de los contratos que los particulares sólo pueden celebrar con aquéllos, que no se refieran a las materias excluidas de la aplicación de esta Ley, el recurso de revisión previsto en el párrafo anterior también podrá interponerse en contra de actos y resoluciones que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente.
 
 ART. 84.- La oposición a los actos de trámite en un procedimiento administrativo deberá alegarse por los interesados durante dicho procedimiento, para su consideración, en la resolución que ponga fin al mismo. La oposición a tales actos de trámite se hará valer en todo caso al impugnar la resolución definitiva.
 
@@ -897,3 +921,9 @@ TERCERO.- La información inscrita en el Registro Federal de Trámites Empresari
 CUARTO.- Los recursos humanos, presupuestales y los bienes, que a la entrada en vigor de este Decreto, sean utilizados por la Secretaría de Comercio y Fomento Industrial para el ejercicio de las funciones en materia de mejora regulatoria a que se refiere este ordenamiento, se asignarán a la Comisión Federal de Mejora Regulatoria.
 
 QUINTO.- Los asuntos en materia de mejora regulatoria que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos por la Comisión Federal de Mejora Regulatoria, en el ámbito de su competencia.
+
+D.O.F. 30 DE MAYO DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en este Decreto. Los recursos administrativos en trámite ante organismos descentralizados a la entrada en vigor del mismo, se resolverán conforme a la ley de la materia.
