@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-salud-y-desarrollo-3777
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-06-27"
-last_updated: "1995-06-27"
+last_updated: "2004-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD Y DESARROLLO COMUNITARIO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD, PUBLICADO EN EL P.O. DE 9 DE JULIO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 27 de junio de 1995.
 
@@ -394,3 +396,11 @@ LIC. CARLOS JUARISTI SEPTIEN
 LA SECRETARIA DE SALUD Y DESARROLLO COMUNITARIO
 
 DRA. LOURDES QUINTANILLA RODRIGUEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE JULIO DE 2004.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Salud y Desarrollo Comunitario, publicado en el Periódico Oficial del Gobierno del Estado No. 51 del 27 de junio de 1995. Asimismo se derogan todas las disposiciones que se opongan al presente Reglamento.
