@@ -4,7 +4,7 @@ identifier: "HID-codigo-familiar-reformado-para-el-estado-de-hidalgo-5423"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-08"
-last_updated: "1986-12-08"
+last_updated: "1996-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO FAMILIAR REFORMADO PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1996.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 8 de diciembre de 1986.
 
@@ -1991,9 +1991,11 @@ La constitución del patrimonio familiar, se hará con inmuebles ubicados en el 
 
 Cada familia, sólo puede constituir un patrimonio familiar. Los que se integran subsistiendo el primero, no producirán efecto legal alguno.
 
-###### ARTICULO 355.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1996)</small>
 
-El valor máximo de los bienes que forman el patrimonio familiar, es por la cantidad resultante de multiplicar el factor 7,300 por el salario mínimo general diario, vigente en la región; autorizando un incremento del diez por ciento anual no acumulable.
+###### Artículo 355.
+
+El valor máximo de los bienes que forman el patrimonio familiar, será el que resulte de multiplicar la cantidad derivada del importe de sesenta días de salario mínimo vigente en el Estado por trescientos sesenta y cinco días; autorizando un incremento del diez por ciento anual no acumulable.
 
 ###### ARTICULO 356.
 
@@ -2604,3 +2606,13 @@ Por lo tanto mando se imprima, publique y circule para su debido cumplimiento el
 Dado en el Palacio del Poder Ejecutivo en la ciudad de Pachuca de Soto, Estado de Hidalgo, a los treinta días del mes de noviembre de mil novecientos ochenta y seis.
 
 El Gobernador Constitucional del Estado.- ARQ. GUILLERMO ROSSELL.- El Secretario General de Gobierno.- PROFR. JOSE GUADARRAMA MARQUEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 19 DE AGOSTO DE 1996.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los procedimientos para efectos de la constitución del patrimonio familiar, que se encuentren en proceso a partir de la vigencia del presente Decreto, podrán continuarse de conformidad con las disposiciones contenidas en el presente.
