@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2002-11-27"
+last_updated: "2003-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2003.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -49,7 +49,11 @@ Constitución Política del Estado Libre y Soberano de Tabasco
 
 El Estado de Tabasco es parte integrante de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2003)</small>
+
+El Territorio del Estado es el que de hecho y por derecho le pertenece.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2003)</small>
 
 ### CAPITULO II. DE LOS HABITANTES
 
@@ -57,7 +61,41 @@ El Estado de Tabasco es parte integrante de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 2°.
 
-El Territorio del Estado es el que de hecho y por derecho le pertenece.
+El Estado de Tabasco, reconoce expresamente en términos del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, que como parte de la Nación Mexicana tiene una composición pluricultural, sustentada en la diversidad de pueblos y comunidades indígenas que se encuentran asentados y conviven en su territorio.
+
+Se reconoce a los pueblos y comunidades indígenas establecidos en el Estado, su derecho a la libre determinación, mismo que se ejercerá en un marco constitucional de autonomía que asegure la unidad estatal y nacional. En consecuencia tendrán autonomía para:
+
+I.- Conservar y mejorar el control sobre su hábitat;
+
+II.- Preservar y enriquecer su lengua sin limitación alguna;
+
+III.- Decidir sus formas internas de convivencia y organización social, económica, política y cultural;
+
+IV.- Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la equidad de género, en un marco que respete el pacto federal y la soberanía del Estado;
+
+V.- De acuerdo con sus normas, procedimientos y prácticas tradicionales, elegir en cada pueblo o comunidad a un ciudadano indígena que los represente ante el Ayuntamiento, mismo que tendrá derecho a voz en las sesiones del Cabildo en que se traten asuntos relacionados con la población correspondiente, así como las demás facultades y obligaciones que las leyes secundarias le confieran;
+
+VI.- Aplicar sus sistemas normativos en la regulación y resolución de sus conflictos internos, sujetándose a los principios generales de la Constitución Política de los Estados Unidos Mexicanos con respecto a las garantías individuales, a los derechos humanos y, de manera relevante, la dignidad de las mujeres, los niños y los adultos mayores. Las leyes secundarias establecerán los casos y procedimientos de validación por los Jueces o Tribunales correspondientes; y
+
+VII.- Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución federal y en las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de las comunidades, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquéllos que corresponden a las áreas estratégicas. Para tales efectos, las comunidades podrán asociarse en términos de ley;
+
+También se les reconoce su derecho a tener acceso pleno a la jurisdicción del Estado, por lo que en todo procedimiento y juicio en que una de las partes o ambas sea una comunidad o un indígena, las autoridades respectivas deberán considerar sus costumbres y especificidades culturales. En consecuencia, tienen en todo tiempo el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento en su lengua, dialecto y cultura.
+
+Los gobiernos estatales y municipales, garantizarán que los habitantes de los pueblos o comunidades indígenas, tengan acceso en igualdad de condiciones a los servicios de salud, por lo que independientemente de los programas establecidos en el sistema nacional o estatal, procurarán aprovechar la medicina tradicional y apoyar la nutrición de los indígenas, mediante programas de alimentación, en especial para la población infantil.
+
+El Estado apoyará el desarrollo y promoción de los conocimientos y la medicina tradicional indígena.
+
+Los pueblos o comunidades indígenas tendrán derecho a que el Estado garantice el mejoramiento de las condiciones de sus espacios, para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado, para la construcción o mejoramiento de sus viviendas.
+
+El Estado deberá establecer en los programas de educación básica, el favorecimiento de la enseñanza bilingüe en los pueblos y comunidades indígenas reconocidos en el Estado de Tabasco.
+
+El Estado fomentará el eficaz ejercicio de los derechos de uso, disfrute y aprovechamiento sustentable de los recursos naturales, flora y fauna silvestres de las comunidades indígenas, en los términos y con las modalidades que se establecen en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y las leyes aplicables respectivas.
+
+El Estado con la participación de las comunidades indígenas, instrumentará los planes y programas necesarios para impulsar su desarrollo socioeconómico.
+
+Las leyes secundarias, atendiendo lo señalado en los cuatro primeros párrafos del artículo 2º de la Constitución federal y a esta Constitución, reconocerán a los pueblos y comunidades indígenas existentes en la entidad, su ubicación dentro del territorio estatal, así como los lineamientos a que se sujetarán los derechos que como tales se les reconoce. Dichas leyes deberán ser traducidas, impresas y publicadas en las diversas lenguas de los pueblos o comunidades indígenas de que se trate.
+
+El Estado y los municipios establecerán la institución y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas, en los términos de las disposiciones que prevean las leyes aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1982)</small>
 
@@ -76,6 +114,10 @@ Balancán, Cárdenas, Centla, Centro, Comalcalco, Cunduacán, Emiliano Zapata, H
 ###### ARTICULO 4°.
 
 Los habitantes del Estado tienen iguales derechos y obligaciones, en los términos de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2003)</small>
+
+En consecuencia, queda prohibida toda forma de discriminación motivada por origen étnico o nacional, el género, la edad, la lengua o idioma, sexo, religión, costumbres, opiniones, preferencias, condición social, salud, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -377,8 +419,6 @@ Para ser diputado se requiere:
 
 I.- Ser ciudadano mexicano, nativo de la entidad o con residencia efectiva en ella no menor de dos años;
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1975)</small>
-
 II.- Tener veintiún años cumplidos el día de la elección;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
@@ -388,8 +428,6 @@ III.- No estar en servicio activo en el Ejército ni tener mando de algún cuerp
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 IV.- No ser Gobernador del Estado, ni Secretario de Ramo alguno de la Administración Pública, Procurador General de Justicia; Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje, o del Tribunal Electoral de Tabasco; Oficial Mayor o Titular de algunas de las Dependencias o Entidades de la Administración Pública Estatal; Presidente Municipal, funcionario electoral o funcionario federal, a menos que permanezca legalmente separado de su cargo desde noventa días naturales antes de la elección; y
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 V.- No ser ministro de culto religioso alguno.
 
@@ -452,8 +490,6 @@ Los diputados que sin causa justificada o sin previa licencia del Presidente del
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 Incurrirán en responsabilidad, y se harán acreedores a las sanciones que la ley señale, quienes habiendo sido electos diputados no se presenten, sin causa justificada a juicio de la Cámara, a desempeñar el cargo dentro del plazo señalado en el primer párrafo de este artículo. También incurrirán en responsabilidad, que la misma ley sancionará, los partidos políticos que, habiendo postulado candidatos en una elección para diputados, acuerden que sus miembros que resultaren electos no se presenten a desempeñar sus funciones.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO 192, PUBLICADO EN EL P.O. DE 27 DE NOVIEMBRE DE 2002, EL CONTENIDO DE LOS ANTERIORES PARRAFOS TERCERO, CUARTO Y QUINTO SE REUBICAN EN EL ACTUAL ARTICULO 9; QUEDANDO MODIFICANDA LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -607,9 +643,9 @@ VII.- Imponer las contribuciones que deban corresponder al Estado y a los Munici
 
 VIII.- Reglamentar las facultades concedidas a la Entidad por el artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1983)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2003)</small>
 
-IX.- Legislar sobre Administración de Justicia, Sanidad Pública Estatal y vías de comunicaciones estatales y municipales; expedir Leyes para la programación, promoción, concertación y ejecución de acciones de orden económico, especialmente en lo referente al abasto y otras que tengan como finalidad la producción suficiente y oportuna de bienes y servicios socialmente necesarios en la entidad;
+IX.- Legislar sobre Administración de Justicia, Sanidad Pública Estatal, Materia Indígena y vías de comunicaciones estatales y municipales; expedir leyes para la programación, promoción, concertación y ejecución de acciones de orden económico, especialmente en lo referente al abasto y otras que tengan como finalidad la producción suficiente y oportuna de bienes y servicios socialmente necesarios en la entidad;
 
 X.- (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2002)
 
@@ -1015,6 +1051,10 @@ XIII.- Otorgar autorización para el ejercicio de la Función Notarial;
 
 XIV.- Formular el Programa Anual de Gobierno de acuerdo a un estudio que para tal efecto se elabore, mediante una adecuada planificación, en el que se jerarquicen las necesidades públicas a satisfacer, buscando con el mayor rigor el máximo aprovechamiento de los recursos disponibles;
 
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2003)</small>
+
+Impulsar programas y acciones tendentes a fortalecer las tradiciones comunitarias en un marco de respeto a la cultura de los pueblos y comunidades indígenas del Estado.
+
 XV.- Coordinar la inversión pública estatal y municipal para los efectos de la fracción anterior y propiciar su armonización con los programas del Gobierno Federal;
 
 XVI.- Promover la inversión de todos los sectores de acuerdo con el Programa de Gobierno, con sentido social que genere empleos y propicie el desarrollo económico;
@@ -1299,7 +1339,7 @@ Los Magistrados y Jueces que integran el Poder Judicial del Estado, durarán och
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
-## TITULO VII. RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+## TITULO VII. RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1371,6 +1411,10 @@ g) Los demás requisitos que exijan las Leyes correspondientes.
 
 XII.- Las relaciones de trabajo entre el Estado, los Municipios y sus Trabajadores, se regirán por las Leyes vigentes basadas en lo dispuesto en el artículo 123 de la Constitución Federal y sus disposiciones reglamentarias.
 
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2003)</small>
+
+En los municipios donde existan pueblos o comunidades indígenas, éstas últimas podrán coordinarse y asociarse tomando en consideración su pertenencia étnica e histórica para formar asociaciones de pueblos y comunidades indígenas; así como para realizar el estudio de sus problemas locales, con el objeto de establecer programas de desarrollo común, económico y social.
+
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 65.
@@ -1413,7 +1457,9 @@ El titular del Poder Ejecutivo Federal, tendrá el mando de la fuerza pública l
 
 III.- Los Municipios, en los términos de las Leyes Federales y Estatales relativas, estarán facultados para elaborar, dentro del Sistema Estatal de Planeación Democrática, sus Planes Municipales trianuales y sus programas operativos anuales.
 
-Los Planes Municipales de Desarrollo precisarán los objetivos generales, estrategias y prioridades del Desarrollo Integral del Municipio, contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y responsables de su ejecución, establecerán los lineamientos de política de carácter global, sectorial y de servicios municipales. Sus previsiones se referirán al conjunto de la actividad económica y social y regirán el contenido de los programas operativos anuales, en concordancia siempre con el Plan Estatal y con el Plan Nacional de Desarrollo.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2003)</small>
+
+Los Planes Municipales de Desarrollo precisarán los objetivos generales, estrategias y prioridades del Desarrollo Integral del Municipio, contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y responsables de su ejecución, establecerán los lineamientos de política de carácter global, sectorial y de servicios municipales. Sus previsiones se referirán al conjunto de la actividad económica y social y regirán el contenido de los programas operativos anuales, en concordancia siempre con el Plan Estatal y con el Plan Nacional de Desarrollo. En los municipios donde existan pueblos y comunidades indígenas, se les deberá consultar para la elaboración de estos planes, en términos de lo establecido en la fracción IX del apartado B del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Los Planes Municipales deberán preveer (sic); de conformidad con el artículo 115 de la Constitución Federal, los programas de Desarrollo Urbano Municipal; la creación y Administración de reservas territoriales; el control y vigilancia de la utilización del suelo en sus jurisdicciones territoriales; la regularización de la tenencia de la tierra urbana; la creación y administración de zonas de reserva ecológicas. Para tal efecto, y de conformidad con los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Federal, los Ayuntamientos expedirán los reglamentos y disposiciones administrativas que fueran necesarios.
 
@@ -1443,9 +1489,9 @@ Las leyes locales no establecerán exenciones o subsidios respecto de las mencio
 
 VI.- El Congreso del Estado, aprobará las Leyes de Ingresos de los municipios; así mismo, revisara y fiscalizará sus cuentas públicas, en relación a los planes municipales y a sus programas operativos anuales.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2003)</small>
 
-Los presupuestos de egresos serán aprobados por los Ayuntamientos, sobre la base de sus ingresos disponibles.
+Los presupuestos de egresos serán aprobados por los Ayuntamientos, sobre la base de sus ingresos disponibles. Dichos presupuestos deberán considerar partidas para que se ejecuten las acciones señaladas en el apartado B del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
 
@@ -1497,7 +1543,7 @@ IX.- Convocar en los términos establecidos por esta Constitución y las leyes r
 
 En lo conducente y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE JUNIO DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE NOVIEMBRE DE 2003)</small>
 
 ## TITULO IX. DE LAS REFORMAS Y DE LA INVIOLABILIDAD DE LA CONSTITUCION
 
@@ -1609,6 +1655,10 @@ Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido 
 
 Las Leyes sobre responsabilidades Administrativas de los servidores Públicos determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspención (sic), destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable, y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 67, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2003)</small>
+
+La responsabilidad de los poderes del Estado, la de los ayuntamientos y la de los organismos autónomos, por los daños que con motivo de su actividad administrativa irregular causen en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes secundarias. El poder público de que se trate, estará facultado para ejercitar, con las formalidades del caso, en la vía o acción que se prevea en la ley de la materia; en contra del servidor público responsable, la resarción al patrimonio hacendario, del monto que por este motivo hubiere erogado.
+
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
 
 ###### ARTICULO 72.
@@ -1667,7 +1717,7 @@ Al Desarrollo Económico Estatal Concurrirán con Responsabilidad Social, el Sec
 
 El Sector Público tendrá a su cargo, de manera exclusiva, las áreas estratégicas definidas por esta Constitución y las Leyes que de ella emanen. Para un mejor cumplimiento de sus fines, la Ley Precisará las formas de Participación Social en estas áreas, conservando el Estado en todo tiempo el Control sobre la Conducción y Operación. Asimismo, podrá participar por sí, o a través de los Sectores Social o Privado de acuerdo con la Ley, para impulsar y organizar las areas prioritarias del desarrollo.
 
-Bajo criterios de equidad social y productividad, se apoyara e impulsará al sector social y al sector privado de la economía, sujetandolos junto con las actividades económicas que realiza el Estado, a las modalidades que dicte el interés Público y al uso, en beneficio general de los recursos productivos, cuidando de su conservación y del medio ambiente.
+Bajo criterios de equidad social y productividad, se apoyara e impulsará al sector social y al sector privado de la economía, sujetandolos junto con las actividades económicas que realiza el Estado, a las modalidades que dicte el interés Público y al uso, en beneficio general, de los recursos productivos, cuidando de su conservación y del medio ambiente.
 
 La Ley, establecerá los mecanismos que faciliten la organización y expansión de la actividad económica del sector social, mediante organizaciones para trabajadores, cooperativas, comunidades, empresas que pertenezcan mayoritaria o exclusivamente a los trabajadores y, en general, de todas las formas de organización social para la producción, distribución y consumo de bienes y servicios socialmente necesarios.
 
@@ -1675,7 +1725,9 @@ La Ley alentará y protegerá la actividad económica que realizan los particula
 
 El Estado organizará un sistema de planeación Democrática del Desarrollo Estatal que imprima solidez, dinamismo, permanencia y equidad, al crecimiento de la economía y a la democratización Política, Social y Cultural del Estado.
 
-Los fines del proyecto estatal contenidos en esta Constitución determinarán los objetivos de la planeación. La Planeación será democrática buscando la participación de los diversos sectores sociales y recogiendo las aspiraciones y demandas de la sociedad para incorporarlos al plan y a los programas de desarrollo. Por tanto, habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la administración pública del Estado. La Ley facultará al Ejecutivo para que pueda establecer los procedimientos de participación y consulta popular en el Sistema Estatal de Planeación Democrática, así como los criterios de la formulación, instrumentación, control y evaluación del Plan y los programas de desarrollo. Asimismo, determinará cuales serán los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenios con los Gobiernos de las entidades municipales, e induzca y concerte con los particulares, las acciones a realizar para su elaboración y ejecución.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2003)</small>
+
+Los fines del proyecto estatal contenidos en esta Constitución determinarán los objetivos de la planeación. La planeación será democrática buscando la participación de los diversos sectores de la sociedad, particularmente de los pueblos y comunidades indígenas, para incorporar en lo conducente, sus recomendaciones y propuestas al plan y a los programas de desarrollo. Por tanto, habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la administración pública del Estado. La Ley facultará al Ejecutivo para que pueda establecer los procedimientos de participación y consulta popular en el Sistema Estatal de Planeación Democrática, así como los criterios de la formulación, instrumentación, control y evaluación del Plan y los programas de desarrollo. Asimismo, determinará cuales serán los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenios con los Gobiernos de las entidades municipales, e induzca y concerte con los particulares las acciones a realizar para su elaboración y ejecución.
 
 El Ejecutivo informará al congreso del Estado de los criterios que sirvan de base al plan estatal de desarrollo, con el fin de que los tome en consideración al ejercer sus atribuciones constitucionales.
 
@@ -1704,6 +1756,8 @@ El manejo de Recursos Económicos del Estado, de los Municipios y de sus respect
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
 
 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del título séptimo de esta Constitución.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 77.
 
@@ -2358,3 +2412,21 @@ Por otra parte, en un término no mayor a ciento veinte días hábiles, habrá d
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2003.
+
+Artículo Primero. En términos del artículo 83, de la Constitución Política del Estado Libre y Soberano de Tabasco, una vez que el Congreso del Estado, por el voto de las dos terceras partes de los diputados presentes, acuerden las referidas reformas y adiciones, remítase a los Honorables Ayuntamientos de la entidad, para su aprobación o rechazo correspondiente, dentro del término de quince días naturales, y vencido dicho término dése cuenta al pleno, para el cómputo de los votos de los Ayuntamientos y la declaración en su caso, de haber sido aprobadas las adiciones y reformas de nuestra Constitución.
+
+Artículo Segundo. El presente Decreto, una vez cumplido el procedimiento a que se alude en el artículo anterior, con las salvedades a que se contrae el Artículo Transitorio Cuarto, entrará en vigor a los 30 días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Tercero. Para efectos de dar cumplimiento a lo ordenado en el presente Decreto, el Ejecutivo Estatal en concurrencia con los ayuntamientos de la entidad y demás autoridades que con motivo de sus atribuciones tengan competencia en la materia, deberán llevar a cabo oportunamente los trabajos y acciones necesarias, a fin de determinar con la mayor exactitud posible, el número de pueblos o comunidades indígenas existentes en el Estado de Tabasco, el número de sus integrantes, su ubicación por comunidad y municipio, para proponer al Congreso del Estado el reconocimiento expreso de los mismos y la adecuación de las leyes secundarias locales en las que incidan las presentes reformas constitucionales en materia indígena.
+
+Artículo Cuarto. La aplicación de esta reforma constitucional, en lo que respecta a la responsabilidad patrimonial del Estado, implicará un término que no debe exceder al 13 de junio del año 2004, para la adecuación de las disposiciones jurídicas secundarias, en la que se deberán tomar en cuenta los criterios siguientes:
+
+a) El pago de la indemnización se efectuaría después de seguir los procedimientos para determinar que al particular efectivamente le corresponde dicha indemnización;
+
+b) El pago de la indemnización estará sujeto a la disponibilidad presupuestaria del ejercicio fiscal de que se trate y en caso de insuficiencia, la obligación subsistirá para el siguiente ejercicio fiscal; y
+
+c) Hasta en tanto se expidan las reformas a las leyes secundarias, será exigible por los particulares la responsabilidad patrimonial del Estado, en los términos establecidos en las disposiciones jurídicas anteriores.
+
+Artículo Quinto. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
