@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1997-11-15"
+last_updated: "1998-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1998.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -33,7 +33,7 @@ Que la H. Legislatura del Estado ha tenido a bien aprobar lo siguiente:
 
 La XXXVIII Legislatura Constitucional del Estado Libre y Soberano de Oaxaca,
 
-DECRETA :
+DECRETA:
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
@@ -4121,6 +4121,14 @@ Cuando hayan transcurrido seis años desde la declaración de ausencia, el juez,
 
 Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, o en cualquier siniestro terrestre, aéreo, o marítimo, bastará que hayan transcurrido dos años contados desde su desaparición para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales autorizadas por el capítulo I de este título.
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1998)</small>
+
+Cuando la desaparición sea consecuencia de un siniestro natural, provocado por terremotos, erupciones, maremotos, ciclones, huracanes, tornados, trombas, incendios, explosiones u otros semejantes provocados por el hombre, y por cualquier medio de pruebas, se acredite que el desaparecido fue víctima de ese siniestro, bastará el transcurso de tres meses, contados a partir del acontecimiento, para que el Juez inicie el procedimiento que declare la presunción de muerte. En estos casos el Juez acordará la publicación de la solicitud de declaración de presunción de muerte por dos veces en el Periódico Oficial del Estado y en otro de mejor (sic) circulación en el Estado, con cargo al Fondo para la Administración de Justicia durante el procedimiento que en ningún caso, excederá de treinta días.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1998)</small>
+
+La presunción de muerte por ausencia declarada en la vía de jurisdicción voluntaria no tiene autoridad de cosa juzgada; la tendrá la que se dicte en jurisdicción contenciosa, pero sólo respecto de quienes intervinieron en las diligencias.
+
 ###### Artículo 719.
 
 Declarada la presunción de muerte, se abrirá el testamento del ausente, si no estuviere ya publicado, conforme al artículo 692; los poseedores provisionales darán cuenta de su administración en los términos prevenidos en el artículo 706 y los herederos y demás interesados entrarán en la posesión definitiva de los bienes sin garantía alguna: la que según la ley se hubiere dado, quedará cancelada.
@@ -4341,7 +4349,7 @@ VI. (DEROGADA, P.O. 31 DE MAYO DE 1997)
 
 La declaración de constitución, de modificación o extinción del patrimonio familiar, se promoverá ante el Juez competente, por la vía de jurisdicción voluntaria, y en caso de controversia, se estará a lo dispuesto en el Título Decimoséptimo, Capítulo Unico, de las controversias del orden familiar, del Código de Procedimientos Civiles para el Estado de Oaxaca y la comunicará al Registro Público, para que se haga la inscripción, anotación o cancelación que corresponda.
 
-Cuando el patrimonio se extinga por la caúsa prevista en la fracción V del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial debiendo hacerse en el Registro la cancelación que proceda.
+Cuando el patrimonio se extinga por la causa prevista en la fracción V del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial debiendo hacerse en el Registro la cancelación que proceda.
 
 ###### Artículo 754.
 
@@ -12111,7 +12119,7 @@ Salvo pacto en contrario, el depositario tiene derecho a exigir retribución por
 
 ###### Artículo 2399.
 
-Los depositarios de títulos, valores, efectos o documentos que devengen intereses, quedan obligados a realizar el cobro de éstos en las épocas de vencimiento, así como también a practicar cuantos actos sean necesarios para que los efectos depositados conserven el valor y los derechos que les correspondan con arreglo a las leyes.
+Los depositarios de títulos, valores, efectos o documentos que devengen (sic) intereses, quedan obligados a realizar el cobro de éstos en las épocas de vencimiento, así como también a practicar cuantos actos sean necesarios para que los efectos depositados conserven el valor y los derechos que les correspondan con arreglo a las leyes.
 
 ###### Artículo 2400.
 
@@ -15078,3 +15086,7 @@ DECRETO No. 208, QUE REFORMA LOS ARTICULOS 2880, 2881, 2892, 2893, 2894 Y ADICIO
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Con la finalidad de que la población no se vea efectada (sic) con la interrupción del servicio registral de la propiedad, en tanto sean designados los registradores, sus funciones serán desempeñadas por los Jueces de Primera Instancia de los distritos judiciales foráneos, y el Director del Registro Público de la Propiedad en el distrito del Centro.
+
+P.O. 17 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
