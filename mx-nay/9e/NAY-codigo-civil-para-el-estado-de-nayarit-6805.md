@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "1997-02-19"
+last_updated: "1997-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1997.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -12265,9 +12265,9 @@ El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en
 
 Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor ni de registro. La hipoteca constituida, para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1997)</small>
 
-Las Instituciones de Crédito del Sistema Financiero Mexicano e Instituciones de Seguridad Social, podrán ceder sus derechos, con garantía hipotecaria sin necesidad de notificación al deudor, ni de inscripción en el Registro, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, deberá notificar por escrito al deudor, la cesión realizada obligará al nuevo cesionario a inscribirla en el Registro Público de la Propiedad.
+Las instituciones del Sistema Bancario Mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras y los Institutos de Seguridad Social, podrán ceder sus créditos con garantía hipotecaria sin necesidad de notificación al deudor, de escritura pública, ni de inscripción en el registro, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
 
 > <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
@@ -15530,3 +15530,17 @@ Los asuntos tramitados con la normatividad anterior, continuarán en su trámite
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que contraríen la observancia de las presentes reformas y adiciones.
+
+P.O. 5 DE ABRIL DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los asuntos tramitados con la normatividad anterior, continuarán en su trámite con las nuevas disposiciones, en cuanto no afecten los intereses de las partes y el interés público.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que contraríen la observancia de las presentes reformas.
