@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-servicio-de-transporte-de-pasajeros-en-14749
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-23"
-last_updated: "2000-10-05"
+last_updated: "2003-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14749&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1999-08-18"
 
 REGLAMENTO PARA EL SERVICIO DE TRANSPORTE DE PASAJEROS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE OCTUBRE DE 2000.
+> <small>N. DE E. EL PRESENTE REGLAMENTO FUE ABROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPORTE DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL EL 30 DE DICIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2003.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 23 de agosto de 1999.
 
@@ -48,7 +50,7 @@ Es responsabilidad de la Secretaría asegurar, controlar, promover y vigilar que
 
 Para los efectos del presente Reglamento se estará a las definiciones establecidas en la Ley de Transporte del Distrito Federal, además de las siguientes:
 
-I. Delegación: Los órganos político administrativos establecidos en cada demarcación territorial.
+I. Delegación: Los órganos político administrativos establecidos en cada demarcación territorial;
 
 II. Jefe de Gobierno: El Jefe de Gobierno del Distrito Federal;
 
@@ -60,7 +62,7 @@ V. Persona con Discapacidad: Todo ser humano que padece temporal o permanentemen
 
 VI. Reglamento: El presente Reglamento, y
 
-VII. Secretaría: La Secretaría de Transportes y Vialidad del Distrito Federal;
+VII. Secretaría: La Secretaría de Transportes y Vialidad del Distrito Federal.
 
 ###### Artículo 3°.
 
@@ -106,11 +108,11 @@ Los usuarios del tren metro y del tren ligero deberán circular en las estacione
 
 Se prohibe a los usuarios del metro y tren ligero:
 
-I. Maniobrar los carros y todo dispositivo en cualquier instalación del sistema, excepción hecha de los destinados al uso de los pasajeros.
+I. Maniobrar los carros y todo dispositivo en cualquier instalación del sistema, excepción hecha de los destinados al uso de los pasajeros;
 
 II. Invadir las vías o los túneles por donde circulen;
 
-III. Poner obstáculos al cierre de las puertas o tratar de abrirlas.
+III. Poner obstáculos al cierre de las puertas o tratar de abrirlas;
 
 IV. Fumar, prender cerillos o encendedores dentro de las estaciones y carros;
 
@@ -128,7 +130,7 @@ X. Transportar bolsas grandes o maletas que estorben el movimiento o causen mole
 
 XI. Transportar animales, excepto perros guía;
 
-XII. La venta de cualquier tipo de objetos o mercancías que estén en el comercio solamente podrá efectuarse previa autorización y en la forma y en los lugares que la autoridad competente determine.
+XII. La venta de cualquier tipo de objetos o mercancías que estén en el comercio solamente podrá efectuarse previa autorización y en la forma y en los lugares que la autoridad competente determine;
 
 XIII. Hacer uso de las estaciones o de los carros cuando se encuentre en estado de intoxicación por alcohol o por cualquier otra substancia tóxica, y
 
@@ -228,7 +230,7 @@ III. Características del mantenimiento del parque vehícular;
 
 IV. Características del tipo de vehículo a utilizar y,
 
-V. Programa de capacitación, incentivos, renovación de flota y, en su caso, protección al ambiente y atención al público;
+V. Programa de capacitación, incentivos, renovación de flota y, en su caso, protección al ambiente y atención al público.
 
 ###### Artículo 20.
 
@@ -362,9 +364,9 @@ II. Portar en lugar visible del interior del vehículo, la licencia de conducir 
 
 III. Efectuar maniobras de ascenso y descenso de pasajeros, únicamente en los lugares autorizados y en el carril derecho donde se ubique la parada;
 
-IV. Seguir el itinerario indicado y en caso de presentarse una contingencia que obligue a su desvío, procurar incorporarse al trayecto señalado en el punto más cercano posible.
+IV. Seguir el itinerario indicado y en caso de presentarse una contingencia que obligue a su desvío, procurar incorporarse al trayecto señalado en el punto más cercano posible;
 
-V. Entregar a todo usuario, en el momento en que cubra el importe de su viaje, el comprobante de pago que ampare el servicio y el seguro del viajero, salvo los casos que determine la Secretaría.
+V. Entregar a todo usuario, en el momento en que cubra el importe de su viaje, el comprobante de pago que ampare el servicio y el seguro del viajero, salvo los casos que determine la Secretaría;
 
 VI. Portar el uniforme y abstenerse de fumar durante la prestación del servicio;
 
@@ -446,7 +448,7 @@ I. Escolar.- Es la actividad por virtud de la cual, y mediante permiso otorgado 
 
 II. De personal.- Es la actividad por virtud de la cual, y mediante permiso otorgado por la Secretaría, las personas físicas o morales satisfacen sus necesidades de transporte de los asalariados que laboran en las empresas que contratan sus servicios y que no se ofrece al público en general y,
 
-III. Especializado.- El que se presta en, ambulancias, autopatrullas, de bomberos y otros vehículos de emergencia;
+III. Especializado.- El que se presta en, ambulancias, autopatrullas, de bomberos y otros vehículos de emergencia.
 
 ###### Artículo 40.
 
@@ -522,7 +524,7 @@ Los titulares del permiso para prestar el servicio de transporte especial en bic
 
 I. Contar con bases de servicio autorizadas por la Delegación Política correspondiente;
 
-II. Portar el gáfete de identificación o licencia del conductor, del tipo y clasificación que establezca la Delegación, y
+II. Portar el gafete de identificación o licencia del conductor, del tipo y clasificación que establezca la Delegación, y
 
 III. Sujetarse a las disposiciones que en materia de seguridad y operación dicte la Secretaría.
 
@@ -536,7 +538,7 @@ Los interesados en prestar el transporte especial de pasajeros en motocicletas a
 
 ### Capitulo Séptimo
 
-#### Sección II. De los Vehículos
+#### Sección I. Del Equipamiento Auxiliar
 
 ###### Artículo 53.
 
@@ -548,7 +550,7 @@ II. Cierre de circuito: El espacio físico autorizado por la Secretaría, en el 
 
 III. Cobertizo: La estructura ubicada en las paradas autorizadas que sirve a los pasajeros para aguardar la llegada del transporte público;
 
-IV. Encierro: El espacio físico registrado ante la Secretaría, donde permanecen los vehículos que prestan el servicio público o especializado de transporte de pasajeros, cuando no están en horas de servicio.
+IV. Encierro: El espacio físico registrado ante la Secretaría, donde permanecen los vehículos que prestan el servicio público o especializado de transporte de pasajeros, cuando no están en horas de servicio;
 
 V. Lanzadera: El espacio físico autorizado por la Secretaría, donde permanecen momentáneamente estacionados los vehículos mientras se desocupan las posiciones de ascenso y descenso al inicio del servicio y cuyo propósito es evitar la saturación de las bahías en los Centros de Transferencia Modal o bases;
 
@@ -584,7 +586,7 @@ VIII. La infraestructura existente.
 
 Por lo que se refiere al equipamiento auxiliar previsto en las fracciones I, III a VI, VII y IX, del artículo 53 de este Reglamento, éste deberá ubicarse en los lugares precisados en sus respectivos permisos y deberá contar con las características en materia de seguridad, espacios para vehículos, paradas de ascenso y descenso de pasajeros, higiene, comodidad, vialidades, en su caso, y señalización necesaria, para garantizar la adecuada prestación del servicio.
 
-#### Sección I. Del Equipamiento Auxiliar
+#### Sección II. De los Vehículos
 
 ###### Artículo 56.
 
@@ -620,7 +622,7 @@ II. Promocional.- Implica una disminución en el precio establecido del servicio
 
 III.- Especial.- Es el precio que se cubre por la prestación del servicio, derivado de un acuerdo de carácter social, que beneficia a diversos sectores de la población y,
 
-IV. Única o Plana.- Es el precio que se paga por la prestación del servicio, independientemente de la distancia recorrida por el usuario;
+IV. Única o Plana.- Es el precio que se paga por la prestación del servicio, independientemente de la distancia recorrida por el usuario.
 
 ###### Artículo 61.
 
@@ -672,7 +674,7 @@ I. La definición del costo de la inversión requerida para proporcionar los ser
 
 II. Las mejoras de productividad y reducción de costos que sean alcanzables mediante el mejoramiento técnico de la operación y de la administración de la empresa, y
 
-III. Los costos que se deriven de la operación y el mantenimiento de la capacidad instalada
+III. Los costos que se deriven de la operación y el mantenimiento de la capacidad instalada.
 
 ###### Artículo 68.
 
@@ -722,7 +724,7 @@ Las tarifas y sus modificaciones deberán ser publicadas en la Gaceta Oficial de
 
 La Secretaría contará con verificadores del transporte de pasajeros, quienes tendrán las obligaciones siguientes:
 
-I. Acreditar los cursos de capacitación y actualización que determine la Secretaría.
+I. Acreditar los cursos de capacitación y actualización que determine la Secretaría;
 
 II. Portar en lugar visible la identificación oficial con fotografía vigente, expedida por la Secretaría, en todas y cada una de las actuaciones que desempeñen en el ejercicio de su función así como el oficio de comisión que establezca el objeto de la inspección;
 
@@ -778,7 +780,7 @@ XV. No contar, en el caso del servicio de transporte de pasajeros especializado 
 
 XVI. Hacer base en lugares no autorizados;
 
-XVII. No portar la licencia vigente o el gáfete de identificación en lugar visible o el ejemplar de los Reglamentos de Tránsito y de este Reglamento;
+XVII. No portar la licencia vigente o el gafete de identificación en lugar visible o el ejemplar de los Reglamentos de Tránsito y de este Reglamento;
 
 XVIII. Transportar más pasajeros de los autorizados;
 
@@ -829,3 +831,21 @@ G.O. 5 DE OCTUBRE DE 2000.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del distrito federal.
 
 SEGUNDO.- Se derogan las disposiciones administrativas y reglamentarias que se opongan al presente Decreto.
+
+G.O. 30 DE DICIEMBRE DE 2003.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Se abrogan los siguientes Reglamentos:
+
+I. Reglamento para el Servicio de Transporte de Pasajeros en el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 23 de agosto de 1999;
+
+II. Reglamento para el Servicio de Transporte de Carga en el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 23 de agosto de 1999;
+
+III. Reglamento para el Servicio de Transporte Público de Taxi en el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 23 de agosto de 1999;
+
+IV. Las disposiciones jurídicas y administrativas que se opongan al presente Reglamento.
+
+Tercero.- La Secretaría instrumentará lo necesario para que los Manuales, Instructivos y demás instrumentos de apoyo administrativo se adecuen a las disposiciones del presente reglamento.
+
+Cuarto.- Las cesiones de derechos efectuadas al amparo de la Ley de Transporte del Distrito Federal publicada en la Gaceta Oficial del Distrito Federal el 21 de diciembre de 1995, se formalizarán conforme al procedimiento que para el efecto establezca la Secretaría.
