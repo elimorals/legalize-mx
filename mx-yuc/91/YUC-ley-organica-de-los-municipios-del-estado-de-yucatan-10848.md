@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-los-municipios-del-estado-de-yucatan-10848"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-25"
-last_updated: "1992-06-24"
+last_updated: "1992-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE JULIO DE 1992.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 25 de octubre de 1988.
 
@@ -1279,6 +1279,18 @@ f).- Combatir el alcoholismo, la afición a las drogas, la prostitución, la men
 
 g).- Las demás que le asignen otras leyes en el ámbito de su competencia.
 
+> <small>(ADICIONADA, D.O. 16 DE JULIO DE 1992)</small>
+
+VI.- DE ECOLOGIA:
+
+A) Preservar y restaurar el equilibrio ecológico y la protección al ambiente en el territorio municipal, con excepción de los asuntos de competencia exclusiva del Estado o la Federación, y con la concurrencia de éstos cuando no cuente con el personal técnico necesario y los instrumentos adecuados para dicho fin;
+
+B) Formular la política y los criterios ecológicos particulares del municipio;
+
+C) Prevenir y controlar la contaminación originada por ruido, vibraciones, energía térmica y lumínica, así como olores perjudiciales al equilibrio ecológico o al ambiente, salvo en las zonas o en los casos de fuentes emisoras de jurisdicción Federal, con la concurrencia del Ejecutivo Estatal, en tanto no cuenten con el personal técnico y los instrumentos necesarios, o no expidan los reglamentos correspondientes para que se cumplan las disposiciones vigentes en materia de ecología; y
+
+D) Las demás que les asignen otras leyes en el ámbito de su competencia.
+
 ###### ARTICULO 39.
 
 Los Ayuntamientos no podrán en ningún caso:
@@ -1478,6 +1490,10 @@ II.- De Desarrollo Urbano y Obras Públicas;
 III.- De Servicios Públicos; y
 
 IV.- De Seguridad Pública y Vialidad.
+
+> <small>(ADICIONADA, D.O. 16 DE JULIO DE 1992)</small>
+
+V.- DE ECOLOGIA:
 
 ###### ARTICULO 49.
 
@@ -2280,3 +2296,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 D.O. 24 DE JUNIO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 16 DE JULIO DE 1992.
+
+PRIMERO.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
