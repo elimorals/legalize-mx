@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2001-09-22"
+last_updated: "2003-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2003.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -563,7 +563,9 @@ La Comisión de Gobierno se integrará por los Coordinadores de los grupos parla
 
 El Diputado único de un partido político, que por esa razón no integre grupo parlamentario, formará parte de la Comisión de Gobierno Interno y Acuerdos Parlamentarios en calidad de vocal.
 
-La Presidencia de la Comisión de Gobierno, será electa por voto ponderado de los Coordinadores, de conformidad con el artículo siguiente. En caso de que ningún Coordinador de grupo parlamentario, por sí sólo, represente la mayoría absoluta, la presidencia será rotativa trimestralmente, correspondiéndole presidir al Coordinador de cada grupo parlamentario, tantas veces como corresponda el número de Diputados que los integren con el porcentaje que representen en relación al total que formen el Congreso. La primera presidencia recaerá en el grupo parlamentario que tenga el mayor número de Diputados. En el caso de que varios grupos parlamentarios tengan igual número de Diputados, la preeminencia la tendrá el del partido político que haya obtenido mayor número de votos en la elección de Diputados.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2003)</small>
+
+La Presidencia de la Comisión de Gobierno será electa por voto ponderado de los Coordinadores, de conformidad con el artículo siguiente. En caso de que ningún Coordinador de grupo parlamentario, por sí sólo, represente la mayoría absoluta, la presidencia recaerá en el Coordinador del grupo parlamentario que tenga el mayor número de Diputados. En el caso de que varios grupos parlamentarios tengan igual número de Diputados, la presidencia la tendrá el del partido político que haya obtenido mayor número de diputaciones de mayoría relativa.
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
@@ -1166,3 +1168,7 @@ P.O. 22 DE SEPTIEMBRE DE 2001.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MAYO DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Colima".
