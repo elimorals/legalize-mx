@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1990-12-26"
+last_updated: "1991-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 1991.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -54,9 +54,9 @@ III.- Otorguen el uso o goce temporal de bienes.
 
 IV.- Importen bienes o servicios.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
-El impuesto se calculará aplicando a los valores que señala esta Ley, la tasa del 15%. El impuesto al valor agregado en ningún caso se considerará que forma parte de dichos valores.
+El impuesto se calculará aplicando a los valores que señala esta Ley, la taza (sic) del 10 %. El impuesto al valor agregado en ningún caso se considerará que forma parte de dichos valores.
 
 El contribuyente trasladará dicho impuesto, en forma expresa y por separado, a las personas que adquieran los bienes, los usen o gocen temporalmente, o reciban los servicios. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a dichas personas de un monto equivalente al impuesto establecido en esta Ley.
 
@@ -64,35 +64,9 @@ El contribuyente pagará en las oficinas autorizadas la diferencia entre el impu
 
 El traslado del impuesto a que se refiere este artículo no se considerará violatorio de precios o tarifas, incluyendo los oficiales.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
-
 ###### ARTICULO 2o.
 
-El impuesto se calculará aplicando la tasa del 6% a los valores que señala esta Ley, cuando los actos o actividades por los que se deba pagar el impuesto, se realicen por residentes en las franjas fronterizas de 20 kilómetros paralelas a la línea divisoria internacional del norte del país, y la colindante con Belice, Centroamérica, o en las zonas libres de Baja California y parcial de Sonora y de Baja California Sur, y siempre que la entrega material de bienes o la prestación de servicios se lleve a cabo en las citadas franjas o zonas.
-
-Tratándose de importación, se aplicará la tasa del 6% siempre que los bienes o servicios sean enajenados o utilizados en las mencionadas franjas o zonas.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Tratándose de la realización de los actos o actividades que a continuación se señalan, en dichas franjas fronterizas o zonas libres, el impuesto al valor agregado se calculará aplicando al valor que señala esta Ley las tasas del 15% o del 20%, según sea el caso.
-
-I.- La enajenación e importación de los siguientes bienes:
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-a).- Los señalados en el artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios.
-
-b).- Combustibles líquidos o gaseosos, aceites, grasas y lubricantes, derivados del petróleo, así como los productos de la petroquímica básica.
-
-c).- Vehículos sujetos a matrícula o registro mexicanos.
-
-d).- Inmuebles.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
-
-II.- La prestación de servicios independientes.
-
-III.- El uso o goce temporal de inmuebles.
+(DEROGADO, D.O.F. 21 DE NOVIEMBRE DE 1991)
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -102,7 +76,9 @@ El impuesto se calculará aplicando la tasa del 0% a los valores a que se refier
 
 I.- La enajenación de:
 
-a).- Animales y vegetales que no estén industrializados.
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+a).- Animales y Vegetales que no estén industrializados, salvo el hule.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -122,7 +98,9 @@ b).- Los siguientes bienes:
 
 7.- Café, sal común, azúcar, mascabado y piloncillo.
 
-c).- Agua no gaseosa ni compuesta y hielo.
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+c).- Hielo y agua no gaseosa ni compuesta, excepto cuando en este último caso, su presentación sea en envases menores de diez litros.
 
 d).- Ixtle, palma y lechuguilla.
 
@@ -132,9 +110,9 @@ A la enajenación de la maquinaria y del equipo a que se refiere este inciso, se
 
 f).- Fertilizantes, plaguicidas, herbicidas y fungicidas, siempre que estén destinados para ser utilizados en la agricultura o ganadería.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
-El consumo de los alimentos a que se refiere este artículo en el mismo lugar o establecimiento en que se enajenen, se considerará prestación de servicios sujeta al pago del impuesto establecido en esta Ley. También se considerará prestación de servicios, la enajenación de dichos alimentos efectuada por establecimientos que cuenten con instalaciones para ser consumidos los mismos.
+Se aplicará la tasa que establece el artículo 1o. a la enajenación de los alimentos a que se refiere el presente artículo preparados para su consumo en el lugar o establecimiento en que se enajenen, inclusive cuando no cuenten con instalaciones para ser consumidos en los mismos.
 
 II.- La prestación de los siguientes servicios independientes:
 
@@ -164,71 +142,37 @@ a).- Bebidas distintas de la leche.
 
 b).- Jarabes o concentrados para preparar refrescos que se expendan en envases abiertos utilizando aparatos eléctricos o mecánicos, así como los concentrados, polvos, jarabes, esencias o extractos de sabores que al diluirse permitan obtener refrescos.
 
-c).- Los que le sea aplicable las tasas del 0% y del 20%
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+c).- Los que le sea aplicable la tasa del 0 %
 
 II.- Medicinas de patente.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
-El consumo de los alimentos a que se refiere este artículo en el mismo lugar o establecimiento en que se enajenen, se considerará prestación de servicios sujeta al pago del impuesto establecido en esta Ley. También se considerará prestación de servicios, la enajenación de dichos alimentos efectuada por establecimientos que cuenten con instalaciones para ser consumidos los mismos.
+Se aplicará la tasa que establece el artículo 1o. a la enajenación de los alimentos a que se refiere el presente artículo preparados para su consumo en el lugar o establecimiento en que se enajenen, inclusive cuando no cuenten con instalaciones para ser consumidos en los mismos.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
-###### ARTICULO 2o.-C.
+###### ARTICULO 2o-C.
 
-El impuesto se calculará aplicando a los valores que señala esta Ley, la tasa del 20% cuando se realicen los actos o actividades siguientes:
+Las personas físicas con actividades empresariales que únicamente enajenen bienes o presten servicios al público en general no estarán obligadas al pago del impuesto por dichas actividades, siempre que en el año de calendario anterior hayan obtenido ingresos por estas actividades y tenido o utilizado activos que no excedan, respectivamente, de una cantidad equivalente a 77 y 15 veces el salario mínimo general del área geográfica del contribuyente elevado al año. El valor de los activos se determinará de conformidad con la Ley del Impuesto al Activo.
 
-I.- La enajenación e importación de los siguientes bienes:
-
-a).- Caviar, salmón ahumado, angulas y champaña.
-
-b).- Televisores para imagen a color con pantalla de más de 75 centímetros.
-
-c).- Motocicletas de más de 350 centímetros cúbicos de cilindrada, esquí acuático motorizado, motocicletas acuáticas y tablas de oleaje con motor.
-
-d).- Armas de fuego y sus accesorios.
-
-e).- Rines de magnesio y techos movibles; para vehículos.
-
-f).- Aeronaves, excepto aviones fumigadores.
-
-II.- La prestación de los siguientes servicios independientes:
-
-a).- Los prestados a usuarios de tarjetas de crédito sobre la cantidad que ellos paguen por la apertura del crédito y por la prórroga para su ejercicio.
-
-b).- Los de señal de televisión por cable o por cualquier otro medio distinto al de radio difusión general.
-
-c).- Los de instalación de techos movibles para vehículos.
-
-d).- Los que permiten la práctica del golf, la equitación, el polo, el automovilismo deportivo o las actividades deportivas náuticas, incluyendo las cuotas de membresía y las demás contraprestaciones que se tengan que erogar para la práctica de esas actividades y el mantenimiento de los animales y equipo necesarios.
-
-e).- La cuota de membresía para restaurantes, centros nocturnos o bares, de acceso restringido.
-
-III.- El uso o goce temporal de los siguientes bienes:
-
-a).- Aeronaves, excepto aviones fumigadores.
-
-b).- Motocicletas de más de 350 centímetros cúbicos de cilindrada, esquí acuático motorizado, motocicletas acuáticas y tablas de oleaje con motor.
-
-c).- Equipos cinematográficos o de videograbación, así como las cintas, películas o discos para dichos equipos.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO QUINTO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 26 DE DICIEMBRE DE 1990.</small>
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-###### ARTICULO 2o.-D.
-
-No estarán obligadas al pago del impuesto por la enajenación de bienes o prestación de servicios al público en general que efectúen las personas físicas que en el año de calendario anterior hayan obtenido ingresos y tenido o utilizado activos que no excedan, respectivamente, de 300 millones de pesos y de una cantidad equivalente a 15 veces el salario mínimo general del área geográfica del contribuyente elevado al año. El límite en moneda nacional antes citado se actualizará en los términos del artículo 7o-C de la Ley del Impuesto sobre la Renta y el valor de los activos se determinará de conformidad con la Ley del Impuesto al Activo.
+Asimismo, estarán sujetos a lo previsto en este artículo las personas físicas que se dediquen a actividades agrícolas, silvícolas o pesqueras, no obstante que la totalidad o parte de sus actos o actividades no las realicen con el público en general, debiendo reunir, en todo caso, los requisitos de los límites de ingresos y activos a que se refiere el párrafo anterior.
 
 Los contribuyentes a que se refiere este artículo estarán obligados a recabar y conservar la documentación comprobatoria de las adquisiciones que efectúen.
+
+###### ARTICULO 2o.- D.
+
+(DEROGADO, D.O.F. 21 DE NOVIEMBRE DE 1991)
 
 ###### ARTICULO 3o.
 
 La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados, las instituciones y asociaciones de beneficencia privada, las sociedades cooperativas o cualquiera otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación a que se refiere el artículo primero y, en su caso, pagar el impuesto al valor agregado y trasladarlo, de acuerdo con los preceptos de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
-La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos descentralizados y las instituciones públicas de seguridad social, tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no den lugar al pago de derechos.
+La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos descentralizados y las instituciones públicas de seguridad social, tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no den lugar al pago de derechos, salvo en el caso de los derechos por el servicio, uso, suministro o aprovechamiento de agua.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -242,9 +186,9 @@ El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que
 
 Para que sea acreditable el impuesto al valor agregado deberán reunirse los siguientes requisitos:
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
-I.- Que corresponda a bienes o servicios estrictamente indispensables para la realización de actos distintos de la importación, por los que se deba pagar el impuesto establecido en esta Ley o a los que se les aplique la tasa del 0%. Para que se consideren estrictamente indispensables la importación, adquisición o uso o goce temporal de automóviles, aeronaves, embarcaciones, casa habitación o de bienes y servicios relacionados con ellos, así como el hospedaje, la alimentación, los donativos, obsequios y atenciones de toda clase, será necesario que las erogaciones respectivas sean deducibles para fines del impuesto sobre la renta, aun cuando el contribuyente no esté obligado al pago de este último impuesto.
+I.- Que corresponda a bienes o servicios estrictamente indispensables para la realización de actos distintos de la importación, por los que se deba pagar el impuesto establecido en esta Ley o a los que se les aplique la tasa del 0 %. Para los efectos de esta Ley, se consideran estrictamente indispensables las erogaciones efectuadas por el contribuyente que sean deducibles para los fines del impuesto sobre la renta, aun cuando no se esté obligado al pago de este último impuesto. Tratándose de erogaciones parcialmente deducibles para fines del impuesto sobre la renta, únicamente será acreditable el impuesto trasladado en la proporción en que dichas erogaciones sean deducibles para fines del citado impuesto sobre la renta.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -268,9 +212,7 @@ III.- Que hayan sido efectivamente erogados los pagos por la adquisición de bie
 
 El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser transmitido por acto entre vivos, excepto tratándose de fusión de sociedades.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
-
-Para acreditar el impuesto al valor agregado en la importación de bienes tangibles cuando se hubiera pagado la tasa del 6%, el contribuyente deberá poder comprobar que los bienes fueron utilizados o enajenados en las franjas o zonas a que se refiere el artículo 2o.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -284,9 +226,11 @@ Los contribuyentes sujetos al régimen establecido en el Título II-A o en la Se
 
 El impuesto se calculará por ejercicios fiscales, salvo los casos señalados en el artículo 33 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 21 DE NOVIEMBRE DE 1991.</small>
 
-Las personas morales, a excepción de los organismos descentralizados que no realicen preponderantemente actividades empresariales, efectuarán pagos provisionales a más tardar el día 11 de cada uno de los meses del ejercicio, mediante declaración que presentarán en las oficinas autorizadas. Los demás contribuyentes efectuarán dichos pagos mediante declaración que presentarán ante las oficinas autorizadas a más tardar el día 17 de cada uno de los meses del ejercicio, salvo que se trate de personas físicas sujetas al régimen simplificado establecido en la Sección II del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta o de las mencionadas en el artículo 86-A de la misma, quienes efectuarán pagos provisionales trimestrales por los mismos periodos y en las mismas fechas de pago que las establecidas para el impuesto sobre la renta.
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+Los contribuyentes efectuarán pagos provisionales mediante declaración que presentarán ante las oficinas autorizadas a más tardar el día 17 de cada uno de los meses del ejercicio, salvo que se trate de contribuyentes de la Sección II del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta, quienes efectuarán pagos provisionales trimestrales por los mismos períodos y en las mismas fechas de pago que las establecidas para el impuesto sobre la renta.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -328,9 +272,9 @@ El contribuyente que reciba el descuento, la bonificación o devuelva los bienes
 
 Para los efectos de esta Ley, se entiende por enajenación, además de lo señalado en el Código Fiscal de la Federación, el faltante de bienes en los inventarios de las empresas. En este último caso la presunción admite prueba en contrario.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
-No se considerará enajenación, la transmisión de propiedad que se realice por causa de muerte, por fusión o por escisión de sociedades, así como la donación, salvo que ésta la realicen empresas para las cuales el donativo no sea deducible para los fines del impuesto sobre la renta.
+No se considerará enajenación, la transmisión de propiedad que se realice por causa de muerte, así como la donación, salvo que ésta la realicen empresas para las cuales el donativo no sea deducible para los fines del impuesto sobre la renta.
 
 Cuando la transferencia de propiedad no llegue a efectuarse, se tendrá derecho a la devolución del impuesto al valor agregado correspondiente, siempre que se reúnan los requisitos establecidos en el artículo 7o. de esta Ley.
 
@@ -354,9 +298,9 @@ VI.- Moneda nacional y moneda extranjera, así como las piezas de oro o de plata
 
 VII.- Partes sociales, documentos pendientes de cobro y títulos de crédito, con excepción de certificados de depósito de bienes cuando por la enajenación de dichos bienes se esté obligado a pagar este impuesto. En la enajenación de documentos pendientes de cobro, no queda comprendida la enajenación del bien que ampare el documento.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
-VIII.- Los que sin propósito de lucro enajenen en beneficio exclusivo de sus agremiados, miembros o trabajadores, según sea el caso, las tiendas que establezcan los sindicatos obreros, las organizaciones ejidales y comunales que operen en los términos de la Ley de la Reforma Agraria, así como las dependencias y organismos públicos que señale la Secretaría de Hacienda y Crédito Público en disposiciones de carácter general. El beneficio previsto en la presente fracción no se aplicará en tratándose de enajenación de bienes afectos a la tasa del 20% a que se refiere el Artículo 2o. C fracción I, de esta Ley.
+VIII.- El oro, así como la joyería, orfebrería, piezas artísticas u ornamentales, cuyo contenido mínimo de dicho material sea del 80%, salvo cuando su enajenación se realice por comerciantes en ventas al menudeo y siempre que se trate de operaciones con el público en general.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -462,9 +406,11 @@ VIII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1980)
 
 IX.- El aseguramiento contra riesgos agropecuarios y los seguros de vida, ya sea que cubran el riesgo de muerte u otorguen rentas vitalicias o pensiones, así como las comisiones de agentes y los reaseguros, que correspondan a los seguros citados.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
-X.- Por los que deriven intereses y toda otra contraprestación distinta del principal que:
+X.- Por los que deriven intereses que:
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 a).- Deriven de operaciones en las que el enajenante, el prestador del servicio o quien conceda el uso o goce temporal de bienes, proporcione financiamiento relacionado con actos o actividades por los que no se esté obligado al pago de este impuesto o a los que se les aplique la tasa del 0%.
 
@@ -472,11 +418,27 @@ a).- Deriven de operaciones en las que el enajenante, el prestador del servicio 
 
 b).- Reciban o paguen las instituciones de crédito, las uniones de crédito y las empresas de factoraje financiero, en operaciones de financiamiento para las que requieran de autorización y por concepto de descuento en documentos pendientes de cobro, así como las comisiones de los agentes y corresponsales de las instituciones de crédito por dichas operaciones.
 
-c).- Reciban las instituciones de fianzas, las de Seguros y las Sociedades mutualistas de seguros, en operaciones de financiamiento.
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
-d) Paguen los trabajadores a sus patrones en operaciones de mutuo, así como los pagados por los derechohabientes a instituciones de seguridad social.
+No será aplicable lo dispuesto en el párrafo anterior, tratándose de créditos otorgados a personas físicas que no desarrollen actividades empresariales, o no presten servicios personales independientes, o no otorguen el uso o goce temporal de bienes inmuebles. Tratándose de créditos otorgados a personas que realicen las actividades mencionadas, no se pagará el impuesto cuando los mismos sean para la adquisición de bienes de inversión en dichas actividades.
+
+> <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+Tampoco será aplicable la exención prevista en el primer párrafo de este inciso tratándose de créditos otorgados a través de tarjetas de crédito.
+
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+c).- Reciban las instituciones de fianzas, las de seguros y las sociedades mutualistas de seguros, en operaciones de financiamiento, excepto tratándose de créditos otorgados a personas físicas que no gozarían de la exención prevista en el inciso anterior.
+
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+d).- Provengan de créditos hipotecarios.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 e).- Provengan de cajas de ahorro de los trabajadores, y de fondos de ahorro establecido por las empresas siempre que reúna los requisitos de deducibilidad en los términos de la Ley del Impuesto sobre la Renta.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 f).- Deriven de obligaciones emitidas conforme a lo dispuesto en la Ley General de Títulos y Operaciones de Crédito.
 
@@ -510,7 +472,11 @@ d).- Asociaciones patronales y colegios de profesionales.
 
 e).- Asociaciones o sociedades civiles organizadas con fines científicos, políticos, religiosos y culturales, a excepción de aquéllas que proporcionen servicios con instalaciones deportivas cuando el valor de éstas representen más del 25% del total de las instalaciones.
 
-XIII.- Los de espectáculos públicos por el boleto de entrada. No se consideran espectáculos públicos los prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+XIII.- Los de espectáculos públicos por el boleto de entrada, salvo los de teatro, cine y circo, cuando el convenio con el Estado o Acuerdo con el Departamento del Distrito Federal, donde se presente el espectáculo no se ajuste a lo previsto en la fracción VI del artículo 41 de esta Ley.
+
+No se consideran espectáculos públicos los prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -546,9 +512,9 @@ Tratándose de obras de construcción de inmuebles provenientes de contratos cel
 
 Las cantidades entregadas a quien proporcione el servicio incluyendo los depósitos, se entenderán pagos anticipados.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
-En el caso de servicios personales independientes se tendrá obligación de pagar el impuesto en el momento en que se paguen las contraprestaciones a favor de quien los preste y sobre el monto de cada una de ellas.
+En el caso de servicios personales independientes, así como en el caso de derechos por el servicio, uso, suministro o aprovechamiento de agua, se tendrá obligación de pagar el impuesto en el momento en que se paguen las contraprestaciones a favor de quien los preste y sobre el monto de cada una de ellas.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -584,7 +550,9 @@ II.- Inmuebles destinados o utilizados exclusivamente para casa-habitación. Si 
 
 III.- Fincas dedicadas o utilizadas sólo a fines agrícolas o ganaderos.
 
-IV.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1980)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+IV.- Bienes tangibles cuyo uso o goce sea otorgado por residentes en el extranjero sin establecimiento permanente en territorio nacional, por los que se hubiera pagado el impuesto en los términos del artículo 24 de esta Ley.
 
 V.- Libros, periódicos y revistas.
 
@@ -638,9 +606,9 @@ I.- Las que, en los términos de la legislación aduanera, no lleguen a consumar
 
 II.- Las de equipajes y menajes de casa a que se refiere la legislación aduanera.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
-III.- Las de bienes cuya enajenación en el país y las de servicios por cuya prestación en territorio nacional, no den lugar al pago del impuesto al valor agregado o se les aplique la tasa de 0% y las de bienes muebles usados, únicamente cuando éstos sean de los mencionados en los artículos 2o.-A, fracción I, inciso e) y 9o., fracción III, de esta Ley.
+III.- Las de bienes cuya enajenación en el país y las de servicios por cuya prestación en territorio nacional, no den lugar al pago del impuesto al valor agregado, salvo la de oro que no sean en lingotes, o se les aplique la tasa del 0% y las de bienes muebles usados, únicamente cuando éstos sean de los mencionados en el artículo 2o.-A, fracción I, inciso e) y 9o., fracción III, de esta Ley.
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -680,7 +648,9 @@ IV.- En el caso de aprovechamiento en territorio nacional de servicios prestados
 
 Para calcular el impuesto al valor agregado tratándose de importación de bienes tangibles, se considerará el valor que se utilice para los fines del impuesto general de importación, adicionado con el monto de este último gravamen y de los demás que se tengan que pagar con motivo de la importación.
 
-El valor que se tomará en cuenta tratándose de importación de bienes o servicios a que se refieren las fracciones II a V del artículo 24 será el que les correspondería en esta Ley por enajenación de bienes, uso o goce de bienes o prestación de servicios, en territorio nacional, según sea el caso.
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+El valor que se tomará en cuenta tratándose de importación de bienes o servicios a que se refieren las fracciones II, III y V del artículo 24, será el que les correspondería en esta Ley por enajenación de bienes, uso o goce de bienes o prestación de servicios, en territorio nacional, según sea el caso.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -928,9 +898,9 @@ La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estad
 
 I.- Los actos o actividades por los que deba pagarse el impuesto al valor agregado o sobre las prestaciones o contraprestaciones que deriven de los mismos, ni sobre la producción de bienes cuando por su enajenación deba pagarse dicho impuesto.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
-II.- La enajenación de bienes o prestación de servicios cuando una u otra se exporten o sean de los señalados en el artículo 2o-A de esta Ley.
+II.- La enajenación de bienes o prestación de servicios cuando una u otra se exporten o sean de los señalados en los artículos 2o-A y 2o-C de esta Ley.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -943,6 +913,14 @@ IV.- Intereses, los títulos de crédito y los productos o rendimientos derivado
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 V.- El uso o goce temporal de casa habitación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 21 DE NOVIEMBRE DE 1991.</small>
+
+> <small>(ADICIONADA, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+
+VI.- Espectáculos públicos consistentes en obras de teatro y funciones de circo o cine, que en su conjunto superen un gravamen a nivel local del 8 % calculado sobre el ingreso total que derive de dichas actividades.
+
+Queda comprendido dentro de esta limitante cualquier gravamen adicional que se les establezca con motivo de las citadas actividades.
 
 Tampoco mantendrán impuestos locales o municipales de carácter adicional sobre las participaciones en gravámenes federales que les correspondan.
 
@@ -1319,3 +1297,23 @@ PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, e
 TERCERO.- Por el año de 1991, las personas físicas que se dediquen a la agricultura, ganadería, pesca o silvicultura, así como las personas morales a que se refiere el último párrafo del artículo 67-H de la Ley del Impuesto sobre la Renta, podrán efectuar un pago único en el impuesto sobre la renta, al activo y al valor agregado, por los ingresos, bienes y actividades, que correspondan a los referidos giros, mismo que se presentará conjuntamente con la declaración del ejercicio de los impuestos antes referidos.
 
 QUINTO.- Lo dispuesto en los artículos 2o.-D de la Ley del Impuesto al Valor Agregado y 8º.-B de la Ley del Impuesto Especial sobre Producción y Servicios, se aplicará a partir del 1o. de octubre de 1990.
+
+D.O.F. 21 DE NOVIEMBRE DE 1991.
+
+DISPOSICIONES DE VIGENCIA ANUAL
+
+###### ARTICULO UNICO.
+
+Durante el año de 1992, se aplicará la tasa del 0% para calcular el impuesto al valor agregado por la enajenación e importación de productos destinados a la alimentación, con excepción de los mencionados en los artículos 2-A fracción I, último párrafo y 2-B, fracción I incisos a), b) y último párrafo y la enajenación e importación de medicinas de patente.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, con excepción de lo previsto en el artículo 5o. que entrará en vigor el 1o. de enero de 1992, y el artículo 41, fracción Vl que entrará en vigor el 1o. de abril de dicho año.
+
+SEGUNDO.- El pago provisional correspondiente al mes de diciembre de 1991 se enterará el 17 de enero de 1992.
+
+TERCERO.- El saldo a favor que, en su caso, se derive de la reducción de la tasa del 15% al 10%, que resulte en la declaración del pago provisional correspondiente al mes de noviembre de 1991, se podrá compensar contra cualquier otra cantidad que se esté obligado a pagar por adeudo propio o por retención a terceros, incluyendo sus accesorios derivados de impuestos federales correspondientes a dicho mes.
+
+La cantidad del saldo a favor que no se hubiera podido compensar, podrá solicitarse en devolución.
+
+No será aplicable lo previsto en este artículo por los actos o actividades sujetos a la tasa del 0%.
