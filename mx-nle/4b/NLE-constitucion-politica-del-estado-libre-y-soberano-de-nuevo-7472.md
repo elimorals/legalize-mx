@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1995-05-24"
+last_updated: "1995-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1293,6 +1293,10 @@ IV.- Los Municipios en el ámbito de su competencia y con apego a las leyes fede
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
+###### Art. 13.
+
+Cuando por cualquier circunstancia los Ayuntamientos electos no tomaren posesión el día treinta y uno de Octubre, continuarán ejerciendo sus funciones los Ayuntamientos salientes hasta que aquellos tomen posesión de sus cargos.
+
 ###### Art. 132.
 
 Cuando por cualquier circunstancia los Ayuntamientos electos no tomaren posesión el día treinta y uno de Octubre, continuarán ejerciendo sus funciones los Ayuntamientos salientes hasta que aquellos tomen posesión de sus cargos.
@@ -1461,6 +1465,10 @@ En los establecimientos oficiales se impartirá gratuitamente la enseñanza prim
 
 Toda persona tiene derecho a la protección de la salud. La ley establecerá las bases y modalidades para el acceso a los servicios de salud y determinará la participación del Estado y sus Municipios en la materia.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1995)</small>
+
+Todos los habitantes tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como del deber de conservarlo. Los Poderes del Estado, en forma coordinada con la ciudadanía, velarán por la conservación de los recursos naturales, así como su uso y explotación; a proteger y mejorar la calidad de vida, tanto como defender y restaurar el medio ambiente, en forma solidaria en el logro de estos objetivos de orden superior.
+
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
 
 El niño tiene derecho a la vida sana, a la salud, a la alimentación, a la educación, a la recreación, a la preparación para el trabajo y a llevar una vida digna en el seno de la familia. Nadie podrá darle malos tratos, ni inducirlo a prácticas que afecten su buena formación. El Estado proveerá lo necesario y expedirá leyes y normas para garantizar los derechos del niño.
@@ -1472,8 +1480,6 @@ El Estado promoverá el bienestar de las personas de edad avanzada mediante un s
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
 
 La enseñanza es libre; pero será laica la que se dé en los establecimientos oficiales de educación, lo mismo que la enseñanza primaria, elemental y superior que se imparta en los establecimientos particulares.
-
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 21 DE NOVIEMBRE DE 1994)</small>
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
 
@@ -1789,15 +1795,15 @@ P.O. 12 DE MAYO DE 1937.
 
 UNICO:- Las anteriores reformas no afectarán la elección que se verificará el domingo 25 del próximo mes de julio del presente año, para Diputados Federales y Locales, así como Miembros del Supremo Tribunal de Justicia del Estado.
 
+P.O. 30 DE DICIEMBRE DE 1942.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
 P.O. 22 DE JULIO DE 1942.
 
 ###### ARTICULO SEGUNDO.
 
 Estas reformas empezarán a regir el día de su publicación en el Periódico Oficial del Estado.
-
-P.O. 30 DE DICIEMBRE DE 1942.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
 
 P.O. 23 DE JUNIO DE 1943.
 
@@ -2202,3 +2208,7 @@ P.O. 24 DE MAYO DE 1995.
 DECRETO NUMERO 53, QUE DEROGA EL ARTICULO 51.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 1995.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
