@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1982-12-29"
+last_updated: "1983-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1983.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1301,9 +1301,9 @@ Para la actualización bienal de los valores catastrales de predios ya valuados,
 
 En los casos de reavalúos a que se refiere la Sección de Catastro, el nuevo valor entrará en vigor a partir del bimestre siguiente a la fecha del traslado de dominio, de la terminación de nuevas construcciones, de las ampliaciones de las construcciones ya existentes o de la notificación del avalúo en los demás casos, con excepción de lo relativo a avalúos provisionales.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
+(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983) (F. DE E., P.O. 9 DE NOVIEMBRE DE 1983)
 
-En poblaciones de más de 50,000 habitantes, tratándose de predios no edificados o cuya construcción tenga un valor inferior a la tercera parte del valor del terreno, el valor catastral será de un tanto más al que correspondería si estuviese edificado.
+En poblaciones de más de 50,000 habitantes, tratándose de predios no edificados o cuya construcción tenga un valor inferior a la tercera parte del valor del terreno, el valor catastral será de un tanto más al que correspondería si estuviese edificado, salvo que se trate de propietarios o poseedores de un solo terreno con extensión hasta de 500 metros cuadrados.
 
 ### CAPITULO IV. IMPUESTO SOBRE NOMINAS
 
@@ -4614,3 +4614,7 @@ ARTICULO TRANSITORIO.- Las presentes disposiciones entrarán en vigor a partir d
 P.O. 29 DE DICIEMBRE DE 1982.
 
 ARTICULO TRANSITORIO.- La presente Ley entrará en vigor el día 1o. de Enero de 1983.
+
+P.O. 14 DE SEPTIEMBRE DE 1983.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
