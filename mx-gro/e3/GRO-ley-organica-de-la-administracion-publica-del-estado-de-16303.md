@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-16303"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-12"
-last_updated: "2004-04-27"
+last_updated: "2004-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE GUERRERO NUMERO 433
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 12 de octubre de 1999.
 
@@ -1007,11 +1007,15 @@ XXXVIII.- Las demás que le señalen las Leyes y Reglamentos vigentes en el Esta
 
 La Secretaría de Medio Ambiente y Recursos Naturales del Estado (SEMAREN), contará en su estructura con un órgano administrativo desconcentrado denominado Procuraduría de Protección Ecológica.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 32.
 
-La Secretaría de la Mujer, es el órgano encargado de establecer las políticas y acciones que favorezcan el bienestar y la incorporación de la mujer al desarrollo integral del Estado, correspondiéndole el despacho de los asuntos siguientes:
+La Secretaría de la Mujer, es el órgano encargado de establecer y ejecutar las políticas y acciones que favorezcan el bienestar y la incorporación de la mujer al desarrollo integral del Estado, correspondiéndole el despacho de los asuntos siguientes:
 
-I.- Formular y llevar a cabo el Programa de Participación Social de la Mujer, con la intervención que corresponda a las dependencias y entidades que integran la Administración Pública del Estado;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+
+I.- Formular y ejecutar el Programa de Participación Social de la Mujer, con la intervención que corresponda a las dependencias que integran la Administración Pública del Estado;
 
 II.- Apoyar la coordinación con el Gobierno Federal y con los Municipios, a efecto de que participen en la elaboración e implementación del programa al que se refiere la fracción anterior;
 
@@ -1023,21 +1027,41 @@ V.- Coordinar el Subcomité de la Participación Social de la Mujer derivado del
 
 VI.- Proponer adecuaciones legales que favorezcan la igualdad efectiva de la mujer, así como su mejoramiento integral dentro de la sociedad;
 
-VII.- Administrar los fondos financieros de apoyo a la participación social de la mujer;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
 
-VIII.- Apoyar a los municipios en la formulación y puesta en marcha de programas que impulsen la incorporación integral de la mujer al desarrollo y mantener estrecha relación e intercambio de información con las autoridades municipales correspondientes;
+VII.- Administrar y Ejecutar los fondos financieros de apoyo a la participación social de la mujer;
 
-IX.- Operar el Centro de Capacitación y Adiestramiento de la Mujer Guerrerense;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
 
-X.- Proporcionar el servicio gratuito de asesoría y defensa de los derechos de la mujer;
+VIII.- Apoyar a los municipios en la formulación y puesta en marcha de programas que impulsen la incorporación integral de la mujer al desarrollo y mantener estrecha relación e intercambio de información con las autoridades municipales correspondientes, en coordinación con instituciones educativas y de investigación en la materia;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
 
-XI.- Elaborar y proponer ante la Secretaría de Desarrollo Social, aquellos programas y proyectos estatales que promuevan la incorporación de la mujer guerrerense al bienestar social y a la actividad productiva;
+IX.- Operar y ejecutar los programas del Centro de Capacitación y Adiestramiento de la Mujer Guerrerense;
 
-XII.- Establecer y operar un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
 
-XIII.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
+X.- Proporcionar el servicio gratuito de asesoría, representación legal y difusión de los derechos de la mujer;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+
+XI.- Elaborar y proponer para su ejecución, ante la Secretaría de Desarrollo Social, aquellos programas y proyectos estatales que promuevan la incorporación de la mujer guerrerense al bienestar social y a la actividad productiva;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+
+XII.- Proporcionar apoyo a las víctimas de violencia intrafamiliar, concertando acciones con los albergues temporales de refugio a mujeres víctimas de violencia intrafamiliar y llevar a cabo el procedimiento previsto en la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+
+XIII.- Promover la participación de la sociedad civil en la elaboración de los programas de participación social de la mujer guerrerense;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2004)</small>
+
+XIV.- Establecer y operar un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2004)</small>
+
+XV.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 33.
 
@@ -1444,3 +1468,9 @@ Las funciones establecidas en esta Ley u otras leyes especiales a la Procuradur�
 ###### ARTICULO SÉPTIMO.
 
 El Reglamento Interior de la Secretaría de Medio Ambiente y Recursos Naturales del Estado (SEMAREN), deberá ser expedido dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 13 DE JULIO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para sus efectos constitucionales y publicación en el Periódico Oficial del Gobierno del Estado.
