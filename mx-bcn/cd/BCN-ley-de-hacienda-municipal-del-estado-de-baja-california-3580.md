@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1956-01-10"
+last_updated: "1958-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 1956.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1958.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -752,6 +752,12 @@ IV.- Las señaladas en las fracciones XII, XIV y XVII, con multa de $50.00 a 1,0
 ###### ARTICULO 94.
 
 Al tener conocimiento la Autoridad Fiscal de la colaboración de un profesionista en un acto de defraudación fiscal sea su intervención directa o indirecta, mediata o inmediata se consignarán los hechos al Ministerio Público para los efectos correspondientes.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1958)</small>
+
+###### ARTICULO 94 Bis.
+
+Sin perjuicio de que se apliquen los recargos y sanciones correspondientes, el Tesorero Municipal podrá clausurar temporalmente los giros comerciales o industriales que omitan el pago de sus impuestos durante cuatro meses consecutivos.
 
 ###### ARTICULO 95.
 
@@ -1606,5 +1612,9 @@ P.O. 20 DE MAYO DE 1955.
 UNICO.- Las adiciones y reformas a que se refiere el presente Decreto entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 P.O. 10 DE ENERO DE 1956.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 31 DE OCTUBRE DE 1958.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
