@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2002-08-02"
+last_updated: "2002-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2002.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -251,11 +251,15 @@ El organismo electoral competente con la participación del Gobierno del Estado,
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2002)</small>
 
 ###### Art. 46.
 
-Se deposita el Poder Legislativo en un Congreso que se renovará cada tres años, compuesto por veintiséis Diputados electos por mayoría relativa, votados en distritos electorales uninominales y hasta dieciséis electos por el principio de representación proporcional, designados de acuerdo a las bases y formas que establece La Ley.
+Se deposita el Poder Legislativo en un Congreso que se renovará cada tres años, iniciando su mandato el 20 de septiembre del año de la elección.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+
+Cada Legislatura estará compuesta por veintiséis Diputados electos por el principio de mayoría relativa, votados en distritos electorales uninominales, y hasta dieciséis diputados electos por el principio de representación proporcional, designados de acuerdo a las bases y formas que establezca la Ley.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 1993)</small>
 
@@ -1901,7 +1905,7 @@ Las leyes establecerán los medios necesarios para que se garantice la independe
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
-En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando la requiera, y los demás que señalen las leyes.
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 14 DE AGOSTO DE 2002)</small>
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 1965)</small>
 
@@ -1925,15 +1929,19 @@ Todo proceso se seguirá forzosamente por el delito o delitos señalados en el a
 
 Todo maltratamiento en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal, toda gabela o contribución en las cárceles, son abusos, que serán corregidos por las leyes y reprimidos por las autoridades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2002)</small>
 
 ###### Art. 19.
 
-En todo proceso de orden penal, tendrá el indiciado las siguientes garantías:
+En todo procedimiento del orden penal, el inculpado, la víctima o el ofendido tendrán las siguientes garantías:
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+
+A.- Del inculpado:
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
-I.- Inmediatamente que lo solicite, el Juez deberá otorgarle la libertad provisional bajo caución, siempre y cuando no se trate de delitos en que, por su gravedad, la Ley expresamente prohíba conceder este beneficio. En caso de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la Ley, o cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
+I.- Inmediatamente que lo solicite, el Juez deberá otorgarle la libertad provisional bajo caución, siempre y cuando no se trate de delitos en que, por su gravedad, la Ley expresamente prohiba conceder este beneficio. En caso de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la Ley, o cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
 
 El monto y la forma de caución que se fije, deberán ser asequibles para el indiciado. En circunstancias que la Ley determine, la autoridad judicial podrá modificar el monto de la caución. Para resolver sobre la forma y el monto de la caución, el juez deberá tomar en cuenta la naturaleza, modalidades y circunstancias del delito; las características del indiciado y la posibilidad de cumplimiento de las obligaciones procesales a su cargo; los daños y perjuicios causados al ofendido; así como la sanción pecuniaria que, en su caso, pueda imponerse al indiciado.
 
@@ -1947,7 +1955,7 @@ III.- Se le hará saber en audiencia pública y dentro de las cuarenta y ocho ho
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
-IV. Siempre que lo solicite, será careado en presencia del juez con quienes depongan en su contra.
+IV.- Cuando así lo solicite, será careado, en presencia del juez, con quienes depongan en su contra, salvo lo dispuesto en la fracción V del apartado B de este Artículo;
 
 V.- Se le recibirán los testigos y demás pruebas que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto, y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, siempre que se encuentren en el lugar del proceso.
 
@@ -1972,6 +1980,38 @@ Tampoco podrá prolongarse la prisión preventiva por más tiempo del que como m
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
 Las garantías previstas en las fracciones I, V, VII y IX también serán observadas durante la averiguación previa, en los términos y con los requisitos y límites que las leyes establezcan; lo previsto en la fracción II no estará sujeto a condición alguna.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+
+B.- De la víctima o del ofendido:
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+
+I.- Recibir asesoría jurídica, ser informado de los derechos que en su favor establece la Constitución Federal y esta Constitución y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+
+II.- Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la averiguación previa como en el proceso, y a que se desahoguen las diligencias correspondientes.
+
+Cuando el Ministerio Público considere que no es necesario el desahogo de determinada diligencia, deberá fundar y motivar su negativa;
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+
+III.- Recibir, desde la comisión del delito, atención médica y psicológica de urgencia;
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+
+IV.- Que se le repare el daño, en los casos que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria.
+
+La ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño;
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+
+V.- Tratándose de menores de edad, no estarán obligados a carearse con el inculpado cuando se trate de delitos de violación o secuestro. En estos casos, se llevarán a cabo declaraciones en las condiciones que establezca la ley; y
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+
+VI.- Solicitar las medidas y providencias que prevea la ley para su seguridad y auxilio.
 
 ###### Art. 20.
 
@@ -2640,5 +2680,17 @@ P.O. 11 DE ENERO DE 2002.
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 2 DE AGOSTO DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 2002.
+
+DECRETO NUMERO 241, QUE REFORMA EL ARTICULO 46
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 2002.
+
+DECRETO NUMERO 242, QUE REFORMA LOS RATICULOS 16 Y 19.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
