@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "1999-06-25"
+last_updated: "2003-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de junio de 1999.
 
@@ -893,9 +893,11 @@ Toda persona podrá solicitar testimonio de las actas del Registro Civil, así c
 
 Los actos y hechos del estado civil relativos al Oficial del Registro Civil, a su consorte y a los ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por él mismo, pero se asentarán en los propios libros y se autorizarán por el oficial de la adscripción más próxima, o bien por el oficial que determine la Dirección Estatal del Registro Civil.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2003)</small>
+
 ###### ARTÍCULO 158.
 
-Las actas del registro civil extendidas conforme a las disposiciones que preceden, hacen prueba plena en todo lo que el Oficial del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta pueda ser redargüida de falsa.
+Las actas del Registro Civil extendidas conforme a las disposiciones que preceden y de aquellas establecidas en la Ley del Registro Civil, hacen prueba plena en todo lo que el Oficial del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta pueda ser redargüida de falsa.
 
 Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
 
@@ -1297,9 +1299,9 @@ Si no aparece el cadáver, pero hay certeza de que alguna persona ha sucumbido e
 
 Cuando un Oficial del Registro Civil en el Estado reciba la constancia a que se refiere el artículo 125 del Código Civil para el Distrito Federal, en materia común, y para toda la República, en materia federal, sobre la defunción de una persona ocurrida en el mar o espacio aéreo nacional, procederá a levantar el acta que corresponda; se archivará el documento extendido por el capitán del navío o de la aeronave, anotando con el número que corresponda el acta levantada.
 
-###### ARTÍCULO 225.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2003)</small>
 
-Cuando alguna persona falleciere en el lugar que no sea el de su domicilio, se remitirá al Oficial del Registro Civil de éste, copia certificada del acta para que se asiente en el libro respectivo, anotándose la remisión al margen del acta original.
+###### ARTÍCULO 225.
 
 Cuando el fallecimiento se efectúe en lugar distinto al del registro del nacimiento, se remitirá copia certificada del acta de defunción al Oficial del Registro Civil del lugar de dicho registro, para que se haga la anotación en el acta respectiva.
 
@@ -1337,27 +1339,41 @@ El Oficial del Registro Civil levantará el acta correspondiente en la que se in
 
 Cuando se recobre la capacidad legal para administrar bienes, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JULIO DE 2003)</small>
+
 SECCIÓN DECIMAPRIMERA
 
-DE LA RECTIFICACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
+DE LA RECTIFICACIÓN Y DE LA ACLARACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2003)</small>
 
 ###### ARTÍCULO 234.
 
-Ha lugar a pedir la rectificación:
+Cuando en un asiento registral aparezca un error procederá, en los términos previstos por este Código u otras disposiciones aplicables, la rectificación o la aclaración del mismo.
 
-I. Por falsedad, cuando se alegue que el suceso registrado no pasó.
+Procederá la rectificación de los asientos cuando:
 
-II. Por desacuerdo con la realidad, cuando se demuestre a través de documentos fehacientes, que la persona de que se trata ha sido siempre designada con un nombre distinto del que aparece en su acta de nacimiento.
+I. Exista falsedad en los casos en que se alegue que el suceso registrado no pasó.
 
-III. Por enmienda, cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
+II. Exista desacuerdo entre el asiento y la realidad y que se demuestre, a través de documentos fehacientes, que la persona de que se trata ha sido siempre designada con un nombre distinto del que aparece en su acta de nacimiento.
+
+III. Los errores que existan o se adviertan versen sobre el nombre del registrado, o su fecha de nacimiento o su nacionalidad o sobre los nombres, fechas y nacionalidad de las personas que hayan intervenido en el acto del asentamiento.
+
+La rectificación de una acta del estado civil, deberá hacerse ante el Poder Judicial y en virtud de sentencia ejecutoriada, excepción hecha del reconocimiento o la adopción que se sujetarán a las prescripciones de este Código.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2003)</small>
 
 ###### ARTÍCULO 235.
 
-La rectificación o modificación de una acta del estado civil, deberá hacerse ante el Poder Judicial y en virtud de sentencia ejecutoriada, excepción hecha del reconocimiento o la adopción, que se sujetarán a las prescripciones de este código, así como los casos de la fracción III del artículo anterior, que se refieran a la rectificación de errores cuya evidencia resulte de la confrontación con los documentos en virtud de los cuales se ha practicado la inscripción, o bien, cuando el error quede establecido por las demás circunstancias de la inscripción, o de otra u otras que hagan fe del acto o hecho correspondiente, en los que también se podrá resolver la rectificación por la Dirección Estatal del Registro Civil.
+Procederá la aclaración de los asientos ante la autoridad administrativa competente cuando haya de variarse algún nombre de las personas que figuren en los documentos, distintas del registrado, o cuando haya que variarse algún dato que resulte de la confrontación con los documentos en cuya virtud se ha practicado la inscripción o bien, cuando el error quede establecido por las demás circunstancias de la inscripción o de otra u otras inscripciones que hagan fe del acto o hecho correspondiente.
+
+El procedimiento de aclaración se sujetará a las disposiciones que establezca la Ley del Registro Civil.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2003)</small>
 
 ###### ARTÍCULO 236.
 
-Pueden pedir la rectificación de un acta de estado civil:
+Pueden pedir la rectificación o la aclaración, según corresponda, de una acta del estado civil:
 
 I. Las personas de cuyo estado se trata.
 
@@ -1365,11 +1381,11 @@ II. Las que se mencionan en el acta como relacionadas con el estado civil del (s
 
 III. Los herederos de las personas comprendidas en las dos fracciones anteriores.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2003)</small>
+
 ###### ARTÍCULO 237.
 
-El juicio de rectificación se tramitará conforme al Código Procesal Civil y el juez del negocio, además de citar a los interesados que fueren conocidos o que intervinieren en el acta, publicarán un extracto de la demanda, por una sola vez, en el Periódico Oficial del Estado y en otro de los de mayor circulación del lugar en el que se encuentre ubicado el domicilio del promovente, mandándose fijar además, en un lugar visible de la Oficialía que corresponda, haciendo saber que se admitirá a contradecirla a cualquiera, que teniendo interés, se presente dentro de un término que no exceda de treinta días; debiendo oírse como partes al Ministerio Público y al Oficial del Registro Civil.
-
-En caso de que la rectificación se promueva ante la Dirección Estatal del Registro Civil, se procederá en los mismo términos del párrafo anterior, pero la notificación podrá hacerse mediante simple oficio y no será necesario oír al Ministerio Público. El procedimiento administrativo de rectificación, se sujetará a las normas que establezca la Ley Reglamentaria del Registro Civil.
+El juicio de rectificación se tramitará conforme al Código Procesal Civil y el juez del negocio, además de (sic) citara los interesados que fueren conocidos o que intervinieron en el acta, publicará, a costa de los mismos, un extracto de la demanda, por una sola vez, en el Periódico Oficial del Gobierno del Estado y en otro de los de mayor circulación del lugar en el que se encuentre ubicado el domicilio de los promoventes; se mandará fijar además, en un lugar visible de la Oficialía que corresponda, haciendo saber que se admitirá a contradecirla a cualquiera que, teniendo interés, se presente dentro del término que no exceda de treinta días, debiendo oírse como partes al Ministerio Público y al Oficial del Registro Civil que corresponda.
 
 ###### ARTÍCULO 238.
 
@@ -5841,7 +5857,7 @@ Cuando siendo válido el testamento no deba subsistir la institución de hereder
 
 ###### ARTÍCULO 1042.
 
-Si el testador dispone legalmente sólo de una parte de sus bienes, el resto de ellos forma la sucesión legitima.
+Si el testador dispone legalmente sólo de una parte de sus bienes, el resto de ellos forma la sucesión legítima.
 
 ###### ARTÍCULO 1043.
 
@@ -13297,7 +13313,7 @@ Sólo pueden ser objeto de prescripción, las obligaciones y derechos que están
 
 ###### ARTÍCULO 2512.
 
-La prescripción se verifica pr (sic) el sólo transcurso del tiempo fijado pr (sic) la ley.
+La prescripción se verifica por el sólo transcurso del tiempo fijado pr (sic) la ley.
 
 ###### ARTÍCULO 2513.
 
@@ -19796,3 +19812,11 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 25 DE JULIO DE 2003.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
