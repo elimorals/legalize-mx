@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-publico-de-energia-72"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-05-31"
-last_updated: "1994-05-19"
+last_updated: "1997-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-05-26"
 
 REGLAMENTO DE LA LEY DEL SERVICIO PUBLICO DE ENERGIA ELECTRICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MAYO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JULIO DE 1997.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el lunes 31 de mayo de 1993.
 
@@ -695,9 +695,11 @@ IV. Costo total de corto plazo de la energía eléctrica:
 
 Corresponde al costo unitario de la energía eléctrica proveniente de una planta, determinado durante el periodo de que se trate, incluyendo el costo de los energéticos utilizados y todos los costos variables de operación y mantenimiento en los que dicha planta incurra como resultado de las actividades de generación y transmisión de la energía hasta el punto de interconexión;
 
-V. Costo total de largo plazo de la energía eléctrica:
+> <small>(REFORMADA, D.O.F. 25 DE JULIO DE 1997)</small>
 
-Corresponde al costo unitario de la energía eléctrica proveniente de una planta, determinado a lo largo de la totalidad de la vida útil de ésta, incluyendo los costos de inversión y financieros, el rendimiento sobre la inversión, los costos de los energéticos utilizados y los de operación y mantenimiento en los que incurra la planta e infraestructura en cuestión como resultado de las actividades de generación y transmisión de dicha energía hasta el punto de interconexión;
+V. Costo económico de largo plazo de la energía eléctrica:
+
+Al costo unitario de la energía eléctrica proveniente de una planta, determinado a lo largo de la vida útil de ésta, incluyendo entre otros los costos de inversión y financieros; el riesgo de construcción; el rendimiento sobre la inversión; los costos de los energéticos utilizados; el costo de los recursos del sector público para obtenerlos y el costo de oportunidad para destinarlos a inversiones alternativas; el incremento en el riesgo derivado de posibles modificaciones del marco regulatorio del sector, y los costos y riesgos de operación y mantenimiento en los que incurra la planta e infraestructura en cuestión, como resultado de las actividades de generación y transmisión de dicha energía hasta el punto de interconexión o hasta la interconexión;
 
 VI. Despachabilidad:
 
@@ -759,11 +761,11 @@ El ejercicio de las actividades a que se refiere el artículo anterior, podrá i
 
 En los proyectos correspondientes, los interesados deberán considerar las instalaciones relativas a dichas actividades, para los fines de construcción y operación de las mismas, sin perjuicio de la posibilidad de celebrar; en su caso, convenios con la Comisión, para la prestación por ésta de servicios de transmisión de la energía eléctrica a los permisionarios.
 
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 1997)</small>
+
 ###### Artículo 74.
 
-Para la prestación del servicio público de energía eléctrica, se aprovechará tanto en el corto como en el largo plazo la energía eléctrica que resulte de menor costo para la Comisión y que ofrezca óptima estabilidad, calidad y seguridad del servicio público.
-
-En el ámbito administrativo, la Secretaría será la autoridad responsable de hacer cumplir este precepto fundamental, para lo cual ejercerá las facultades de regulación y supervisión que le confieren la Ley y este Reglamento.
+Para la prestación del servicio público de energía eléctrica, se aprovechará la generada por particulares de acuerdo con los criterios establecidos en el artículo 125 de este Reglamento.
 
 ###### Artículo 75.
 
@@ -771,15 +773,19 @@ La Comisión adoptará internamente los criterios y reglas necesarios para que:
 
 I. Los costos de generación, transmisión y distribución puedan conocerse por separado y reflejen el uso de los recursos económicos que tiene lugar en las distintas actividades realizadas por la Comisión;
 
-II. El cálculo de los costos de generación y de transmisión haga posible su análisis para determinar tanto el costo total de corto plazo como el costo total de largo plazo de la energía eléctrica;
+> <small>(REFORMADA, D.O.F. 25 DE JULIO DE 1997)</small>
+
+II. El cálculo de los costos de generación y de transmisión haga posible su análisis para determinar tanto el costo total de corto plazo como el costo económico total de largo plazo de la energía eléctrica;
 
 III. La estimación de los costos permita conocer los correspondientes a la capacidad de generación, independientemente de los costos de la energía generada, y
 
 IV. El grado de desagregación o detalle permita determinar razonablemente los costos a que se refieren las fracciones anteriores, en las distintas zonas geográficas, instalaciones o períodos de que se trate.
 
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 1997)</small>
+
 ###### Artículo 76.
 
-Para el efecto de que los costos de la energía eléctrica proveniente de plantas de la Comisión y de los permisionarios que le aporten o pretendan aportar electricidad puedan ser comparados de manera compatible y lógica, se estará a la metodología que emita la Secretaría oyendo la opinión de la Comisión, permisionarios y la Secretaría de Hacienda y Crédito Público. Esta metodología será obligatoria para la Comisión y para dichos permisionarios.
+Para el efecto de que los costos de corto plazo y los costos económicos de largo plazo de la energía eléctrica, proveniente de plantas de la Comisión y de los permisionarios que le aporten o pretendan aportar electricidad, puedan ser comparados de manera compatible y lógica, se estará a la metodología que emita la Secretaría, con la opinión de la Comisión, de los permisionarios y de la Secretaría de Hacienda y Crédito Público. Esta metodología se utilizará para determinar la modalidad de ejecución de los proyectos conforme a lo establecido en el artículo 125 de este Reglamento y será obligatoria para la Comisión y para dichos permisionarios.
 
 #### Sección tercera.- De los permisos
 
@@ -977,13 +983,11 @@ Las resoluciones de revocación o de caducidad serán publicadas en el Diario Of
 
 #### Sección sexta.- Del autoabastecimiento
 
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 1997)</small>
+
 ###### Artículo 101.
 
-De acuerdo con lo dispuesto en el artículo 36, fracción I, de la Ley, se entiende por autoabastecimiento la utilización de energía eléctrica para fines de autoconsumo cuando:
-
-I. La energía provenga de plantas destinadas a la satisfacción de las necesidades del conjunto de los copropietarios o socios, y
-
-II. El permisionario se comprometa expresamente a utilizar la energía eléctrica exclusivamente dentro de los perímetros autorizados por la Secretaría.
+De acuerdo con lo dispuesto en el artículo 36, fracción I, de la Ley, se entiende por autoabastecimiento a la utilización de energía eléctrica para fines de autoconsumo siempre y cuando dicha energía provenga de plantas destinadas a la satisfacción de las necesidades del conjunto de los copropietarios o socios.
 
 ###### Artículo 102.
 
@@ -1011,7 +1015,13 @@ III. La producción directa o indirecta de energía eléctrica utilizando combus
 
 Para la obtención y aprovechamiento de un permiso de cogeneración, será indispensable que:
 
-I. La electricidad generada se destine a la satisfacción de las necesidades de establecimientos asociados a la cogeneración, entendidos por tales los de las personas físicas o morales que dan lugar a los procesos base de la cogeneración o que sean copropietarios de las instalaciones o socios de la sociedad de que se trate, siempre y cuando utilicen o esté a su disposición dicha electricidad o coadyuven en el proceso que origina o hace posible el aprovechamiento, y
+> <small>(REFORMADA, D.O.F. 25 DE JULIO DE 1997)</small>
+
+I. La electricidad generada se destine a la satisfacción de las necesidades de establecimientos asociados a la cogeneración, entendidos por tales, los de las personas físicas o morales que:
+
+a) Utilizan o producen el vapor, la energía térmica o los combustibles que dan lugar a los procesos base de la cogeneración, o
+
+b) Sean copropietarios de las instalaciones o socios de la sociedad de que se trate, y
 
 II. El permisionario se obligue a poner sus excedentes de energía eléctrica a disposición de la Comisión, de acuerdo con lo previsto en la sección cuarta de este capítulo.
 
@@ -1025,7 +1035,7 @@ II. Los diagramas del proceso, balances térmicos y requerimientos específicos 
 
 III. La disponibilidad de excedentes de potencia y energía eléctrica esperada, por día típico, formulada en forma mensual y anual, y
 
-IV. Los elementos para acreditar los niveles de eficiencia establecidos en el artículo anterior.
+IV. (DEROGADA, D.O.F. 25 DE JULIO DE 1997)
 
 ###### Artículo 106.
 
@@ -1035,7 +1045,7 @@ En este supuesto, la solicitud deberá ser firmada también por los operadores, 
 
 ###### Artículo 107.
 
-En el caso del artículo anterior, los operadores de los procesos que den lugar a la cogeneración, asumirán responsabilidad solidaria con los permisionarios, respecto de las obligaciones derivadas de la Ley, de este Reglamento y de las condiciones que se establezcan en los permisos respectivos.
+(DEROGADO, D.O.F. 25 DE JULIO DE 1997)
 
 #### Sección octava.- De la producción independiente
 
@@ -1139,9 +1149,11 @@ Para los efectos de la presente sección, los solicitantes, salvo que se interco
 
 #### Sección duodécima.- De los procedimientos para la adición o sustitución de la capacidad de generación
 
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 1997)</small>
+
 ###### Artículo 124.
 
-Toda adición o sustitución de capacidad de generación resultante de la prospectiva del sector eléctrico, deberá hacerse aprovechando la energía eléctrica cuyo costo total de largo plazo sea el menor para la Comisión y que proporcione, además, óptima estabilidad, calidad y seguridad en el servicio público.
+Toda adición o sustitución de capacidad de generación resultante de la prospectiva del sector eléctrico, deberá hacerse aprovechando la energía eléctrica cuyo costo económico total de largo plazo sea el menor para la Comisión y que proporcione, además, óptima estabilidad, calidad y seguridad en el servicio público.
 
 ###### Artículo 125.
 
@@ -1149,15 +1161,21 @@ Para los efectos del artículo anterior, se deberá observar lo siguiente:
 
 I. Con apego al Documento de Prospectiva a que se refiere el capítulo anterior, la Secretaría determinará periódicamente la ampliación o sustitución de capacidad que se requiera para satisfacer la demanda de energía eléctrica del país;
 
-II. La Secretaría estudiará las soluciones técnicas y el costo total de largo plazo de la energía proveniente de los proyectos recomendados por la Comisión para cubrir dicha adición o sustitución de capacidad, como si se tratase de proyectos propios de la Comisión;
+> <small>(REFORMADA, D.O.F. 25 DE JULIO DE 1997)</small>
+
+II. La Secretaría estudiará las soluciones técnicas y el costo económico total de largo plazo de la energía proveniente de los proyectos recomendados por la Comisión para cubrir dicha adición o sustitución de capacidad, como si se tratase de proyectos propios de la Comisión;
 
 III. La Secretaría, con base en las soluciones que recomiende la Comisión, podrá determinar que los proyectos se ejecuten y operen por la propia Comisión, cuando:
 
 a) El proyecto respectivo contemple una planta nuclear; o
 
-> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 1997)</small>
 
-b) Con base en la comparación de costos totales de largo plazo de la energía eléctrica, sea evidente la conveniencia de que la Comisión se haga cargo de la ejecución y operación del proyecto de que se trate. Al efecto, la Secretaría dará a conocer a los particulares interesados el proyecto propuesto por la Comisión para que formulen sus sugerencias en un plazo de sesenta días. Transcurrido este plazo, la Secretaría podrá proceder a autorizar a la Comisión para que se haga cargo del proyecto bajo la modalidad de ejecución de obras. Si la Comisión no acredita el cumplimiento de las previsiones originales relativas al costo total de largo plazo de la energía eléctrica correspondiente, el proyecto será sometido a licitación en los términos de la siguiente fracción, excepto cuando se compruebe que el aplazamiento de la ejecución de las obras implicará un mayor costo, y
+b) Con base en la comparación de costos económicos totales de largo plazo de la energía eléctrica se estime conveniente que la Comisión se haga cargo de la ejecución y operación del proyecto de que se trate. En todo momento la comparación de costos tendrá como objetivo seleccionar la fuente de generación de menor costo económico –con óptima estabilidad y seguridad en el servicio público- y por lo tanto sólo se deben considerar aquellos elementos que permitan una comparación objetiva entre las diversas alternativas.
+
+En todo caso, la Secretaría dará a conocer previamente a los particulares interesados el proyecto propuesto por la Comisión, para que formulen sugerencias en un plazo de sesenta días. Transcurrido dicho plazo, la Secretaría podrá autorizar a la Comisión para que se haga cargo del proyecto bajo la modalidad de ejecución de obras.
+
+A fin de garantizar el suministro, si la Comisión no acredita que el proyecto a ejecutar por ésta cumple con la condición relativa al costo económico total de largo plazo de la energía eléctrica, o si no se contara con recursos presupuestarios para realizarlo, el proyecto será sometido a licitación en los términos establecidos en la fracción IV;
 
 > <small>(REFORMADA, D.O.F. 19 DE MAYO DE 1994)</small>
 
@@ -1165,13 +1183,33 @@ IV. En los casos de licitación del proyecto, la Secretaría instruirá a la Com
 
 a) La convocatoria y las bases de licitación serán verificadas por la Secretaría y podrán exigir garantía de seriedad de oferta;
 
-b) La Comisión convocará públicamente postores que ofrezcan poner a disposición de dicha entidad la capacidad solicitada o parte de ésta. El procedimiento de licitación establecido tendrá como finalidad asegurar el menor costo total de largo plazo y, además, óptima estabilidad, calidad y seguridad en el servicio público;
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 1997)</small>
+
+b) La Comisión convocará públicamente a postores que ofrezcan poner a disposición de dicha entidad la capacidad solicitada o parte de ésta;
 
 c) Las convocatorias serán publicadas en el Diario Oficial de la Federación y en algún periódico de los de mayor circulación en la entidad federativa en donde se requiera la capacidad de generación, sin perjuicio de su difusión en el extranjero por los medios que se estimen apropiados, y
 
-d) Las convocatorias y las bases de licitación deberán plantearse en tal forma que permitan a los interesados expresar con flexibilidad el contenido técnico de sus propuestas en lo relativo a tecnología, combustible, diseño, ingeniería, construcción y ubicación de las instalaciones, sin perjuicio de que, en aquellos casos en que así lo considere necesario, la Secretaría, fundando y motivando sus razones, podrá instruir por escrito a la Comisión para que en la convocatoria y en las bases de licitación se señalen las especificaciones precisas en cuanto al tipo de combustible a utilizarse para la generación.
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 1997)</small>
 
-V. (DEROGADA, D.O.F. 19 DE MAYO DE 1994)
+d) Las convocatorias y las bases de licitación deberán plantearse en términos que permitan a los interesados expresar con flexibilidad el contenido técnico de sus propuestas, en lo relativo a tecnología, combustible, diseño, ingeniería, construcción y ubicación de las instalaciones, sin perjuicio de que, cuando lo considere necesario, la Secretaría, fundando y motivando sus razones, podrá instruir por escrito a la Comisión para que en la convocatoria y en las bases de licitación se señalen las especificaciones precisas sobre el combustible.
+
+En casos especiales, la Secretaría podrá autorizar a la Comisión ofrecer en la convocatoria y en las bases de licitación un sitio específico para ubicar la planta o unidad en cuestión. Seleccionar y adquirir dicho sitio será opcional para los licitantes. En ningún caso, ubicar la planta o unidad en el sitio ofrecido por la Comisión será elemento para determinar al ganador de la licitación, y
+
+> <small>(ADICIONADO, D.O.F. 25 DE JULIO DE 1997)</small>
+
+e) Dichas convocatorios y bases de licitación podrán incluir, además, criterios cuantificables que modifiquen en el tiempo los términos del a relación entre los productores externos de energía y la Comisión, en función de la evolución del mercado de energía en el país, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE JULIO DE 1997)</small>
+
+V.- En casos de emergencia, que pudieran poner en riesgo el suministro de energía eléctrica en todo el territorio o en una región del país, previa opinión favorable de la Comisión Intersecretarial Gasto Financiamiento, y de conformidad con los requisitos que establece la Ley de Adquisiciones y Obras Públicas para situaciones de emergencia, la Secretaría podrá autorizar que la Comisión obtenga la energía requerida por medio de:
+
+a) Adquisiciones en el mercado nacional, sin que se aplique el límite a que se refiere el artículo 126 de este Reglamento;
+
+b) Importaciones extraordinarias a largo plazo de energía eléctrica, que rebasen los límites de sus programas, y
+
+c) Proyectos de generación en los que, en su caso, precise la tecnología, el combustible, el diseño, la ingeniería, la construcción y la ubicación de las instalaciones.
+
+La Secretaría evaluará la mejor combinación de las opciones citadas que podrán incluir la transmisión y la transformación, con objeto de enfrentar la emergencia al menor costo posible.
 
 ###### Artículo 126.
 
@@ -1263,7 +1301,9 @@ La evaluación de las ofertas se ceñirá a los criterios que se establezcan en 
 
 Previo conocimiento de la Secretaría, la Comisión dictará su fallo en la fecha señalada en la convocatoria y en las bases de licitación, el cual no podrá exceder de ciento ochenta días, contados a partir de la fecha de apertura de las ofertas técnicas.
 
-Una vez dictado el fallo y dado a conocer en la forma establecida en las bases de licitación, la Comisión adjudicará el convenio en favor de quien presente la propuesta solvente que cumpla con las condiciones establecidas en las bases de licitación y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas; si resultare que dos o más propuestas satisfacen la totalidad de los requerimientos de la convocante, el convenio se adjudicará a quien ofrezca la energía eléctrica requerida al menor costo de largo plazo para la Comisión. En dicho convenio se pactarán compromisos de capacidad y compras de energía y se exigirá la constitución de las garantías respectivas.
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 1997)</small>
+
+Una vez dictado el fallo y dado a conocer en la forma establecida en las bases de licitación, la Comisión adjudicará el convenio en favor de quien presente la propuesta solvente que cumpla con las condiciones establecidas en las bases de licitación y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas; si resultare que dos o más propuestas satisfacen la totalidad de los requerimientos de la convocante, el convenio se adjudicará a quien ofrezca la energía eléctrica requerida al menor costo económico de largo plazo para la Comisión. En dicho convenio se pactarán compromisos de capacidad y compras de energía y se exigirá la constitución de las garantías respectivas.
 
 Si el adjudicatario no firmare el convenio respectivo de acuerdo con lo dispuesto en el artículo 135, la Comisión podrá, sin necesidad de una nueva licitación, adjudicar el convenio al participante que haya presentado la siguiente proposición solvente más baja y así sucesivamente. Lo anterior, siempre que la diferencia en precio con respecto a la postura originalmente ganadora no sea superior al diez por ciento del monto total de ésta.
 
@@ -1413,9 +1453,13 @@ Las remuneraciones por la capacidad puesta a disposición de la Comisión en los
 
 Sección decimoquinta.- Del despacho
 
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 1997)</small>
+
 ###### Artículo 148.
 
-La entrega de energía eléctrica a la red del servicio público, se sujetará a las reglas de despacho y operación del sistema eléctrico nacional que establezca la Comisión, de conformidad con lo dispuesto en la Ley y en este Reglamento.
+La entrega de energía eléctrica a la red del servicio público, se sujetará a las reglas de despacho y operación del sistema eléctrico nacional que establezca el Centro Nacional de Control de Energía (CENACE), de la Comisión, de conformidad con lo dispuesto en la Ley y en este Reglamento.
+
+Los administradores deberán observar reglas comunes para la adecuada operación del sistema eléctrico nacional.
 
 ###### Artículo 149.
 
@@ -1463,9 +1507,11 @@ Cuando con las instalaciones existentes la Comisión no tenga posibilidad de pro
 
 Si la Comisión y el solicitante no llegaran a un acuerdo al respecto, este último podrá pedir la intervención de la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 1997)</small>
+
 ###### Artículo 157.
 
-Los particulares podrán construir las líneas de transmisión que requieran, siempre que dichas líneas no se interconecten a la red del servicio público y cumplan con las normas oficiales mexicanas.
+Los particulares podrán construir las líneas de conducción de energía eléctrica que requieran para su propio uso, siempre que dichas líneas cumplan con las normas oficiales mexicanas. En caso de que los particulares pretendan interconectarse con la red del servicio público, será necesaria la celebración previa del contrato respectivo con el suministrador.
 
 ###### Artículo 158.
 
@@ -1700,3 +1746,9 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 19 DE MAYO DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE JULIO DE 1997.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
