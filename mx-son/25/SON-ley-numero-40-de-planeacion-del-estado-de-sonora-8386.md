@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-40-de-planeacion-del-estado-de-sonora-8386"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-02"
-last_updated: "1984-02-02"
+last_updated: "1991-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PLANEACION DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 23 DE DICIEMBRE DE 1991.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 2 de febrero de 1984.
 
@@ -413,6 +413,14 @@ En tanto se expidan las disposiciones reglamentarias de esta Ley, continuarán a
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
+> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO SEXTO.
+
+Para el período de gobierno del 22 de octubre de 1991 al 21 de octubre de 1997, el Plan Estatal de Desarrollo deberá estar aprobado y publicado dentro de los seis meses siguientes, contados a partir de la toma de posesión del titular del Poder Ejecutivo del Estado.
+
+Los Ayuntamientos que tomaron posesión el día 13 de octubre de 1991, por esta única vez, aprobarán y publicarán sus planes municipales de desarrollo, a más tardar un mes después de que se haya publicado el Plan Estatal de Desarrollo.
+
 Comuníquese al Ejecutivo para su sanción y promulgación.
 
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.
@@ -442,3 +450,9 @@ Dr. Samuel Ocaña García.
 EL SECRETARIO DE GOBIERNO,
 
 Lic. Carlos Gámez Fimbres.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 23 DE DICIEMBRE DE 1991.
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
