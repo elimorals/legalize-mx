@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-18421"
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-05"
-last_updated: "2001-03-13"
+last_updated: "2001-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2001.
 
 Ley publicada en Sección Octava del Periódico Oficial del Estado de Jalisco, el sábado 5 de agosto de 2000.
 
@@ -1133,11 +1133,15 @@ Cuarto. Los ayuntamientos que integran el Sistema Intermunicipal de los Servicio
 
 Quinto. El proyecto a que se refiere el artículo anterior deberá contener un esquema de transición que asegure la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales y que deberá incluir el aspecto económico, administrativo y técnico.
 
-Sexto. El Gobierno del Estado contará con un plazo máximo de 180 días para desvincularse del Sistema Intermunicipal para los servicios de Agua Potable y Alcantarillado en el Estado de Jalisco.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2001)</small>
+
+Sexto. El Gobierno del Estado contará con un plazo máximo de 300 días para desvincularse el Sistema Intermunicipal para los Servicios de Agua Potable y Alcantarillado en el Estado de Jalisco.
 
 Séptimo. Se derogan todas las disposiciones legales que se opongan a lo que establece la presente Ley.
 
-Octavo. Los Organismos que hayan sido constituidos con anterioridad a la entrada en vigor de la presente Ley, tendrán un plazo de 180 días naturales para adecuar su conformación y funcionamiento a lo que determina la Ley.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2001)</small>
+
+Octavo. Los Organismos que hayan sido constituidos con anterioridad a la entrada en vigor de la presente Ley, tendrán un plazo de 300 días naturales para adecuar su conformación y funcionamiento a lo que determina la Ley.
 
 Noveno. En la celebración de los convenios entre algún municipio y la Comisión Estatal de Agua y Saneamiento, a efecto de que ésta asuma la responsabilidad de la prestación de los servicios públicos de agua de algún municipio, se estará a lo dispuesto por la Constitución Política de los Estados Unidos mexicanos, la Constitución del Estado, la Ley marco en materia municipal, la presente Ley, su Reglamento y demás ordenamientos que resulten aplicables.
 
@@ -1180,3 +1184,9 @@ Segundo. Respecto al proyecto a que se refieren los artículos transitorios cuar
 a) El Congreso del Estado deberá apoyar todo el proceso, fungiendo como mediador y proponiendo e impulsando las soluciones a los problemas financieros y administrativos que se presenten.
 
 b) El Gobierno del Estado y los ayuntamientos de Guadalajara, Tlaquepaque, Tonalá y Zapopan deberán prever un plan de contingencia para el pago de los pasivos del Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado de la Zona Metropolitana, a efecto de que los nuevos Sistemas Operadores de los servicios inicien sus operaciones con una administración económicamente sana.
+
+P.O. 15 DE DICIEMBRE DE 2001.
+
+> <small>(F. DE E., P.O. 23 DE FEBRERO DE 2002)</small>
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
