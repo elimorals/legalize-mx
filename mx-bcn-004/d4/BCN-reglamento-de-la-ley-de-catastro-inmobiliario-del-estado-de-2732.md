@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-catastro-inmobiliario-del-estado-de-273
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-12-02"
-last_updated: "1994-12-02"
+last_updated: "1997-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DEL CATASTRO INMOBILIARIO DEL ESTADO DE BAJA CALIFORNIA PARA EL MUNICIPIO DE TIJUANA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 1997.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 2 de diciembre de 1994.
 
@@ -389,33 +389,41 @@ La Dirección realizará los trabajos que se requieran para la obtención y actu
 
 Los trabajos topográficos que desarrolle la Dirección deberán estar debidamente referidos al Sistema Estatal de Coordenadas.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 1997)</small>
+
 ###### ARTICULO 53.
 
-En materia de cartografía, la Dirección prestará al público en general los siguientes servicios:
+En materia de cartografía, la Dirección prestara al público en general, los siguientes servicios:
 
-I.- Deslinde predial de la propiedad pública o privada, consistente en la fijación en el campo de los vértices que definen la poligonal que delimita la descripción legal de la misma, siempre que no sea mayor a una hectárea.
+I.- Deslinde predial de la propiedad publica o privada, consistente en la fijación en el campo de los vértices que definen la poligonal que delimita la descripción legal de la misma.
 
-II.- Levantamiento topográfico, consistente en la localización en campo de los linderos de un predio, detectando diferencias con la definición legal, siempre que el predio no sea mayor a una hectárea.
+II.- levantamiento topográfico, consistente en la localización en campo de los linderos de un predio detectando diferencias con la definición legal.
 
 III.- Constancia de datos cartográficos, consistente en un documento en que se establecen los datos cartográficos con que se encuentra registrado un predio.
 
-IV.- Certificación de Polígonos, consiste en la verificación de la veracidad de los datos declarados, que definen los linderos de un predio.
+IV.- Certificación de polígonos, consistente en la verificación de la veracidad de los datos declarados, que definen los linderos de un predio.
+
+Los servicios y trabajos topográficos anteriormente enumerados deberán ser elaborados conforme a la NORMA TECNICA que realice la Dirección de Catastro Conjuntamente con los Colegios Relacionados en la Materia y; que deberá ser expedida y autorizada por la Sindicatura Municipal.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 1997)</small>
 
 ###### ARTICULO 54.
 
-La Dirección podrá elaborar los trabajos y servicios topográficos con personal adscrito, o a través de Peritos Deslindadores con registro vigente en el padrón que al efecto lleve la Dirección.
+La Dirección elaborara los trabajos y servicios topográficos con su propio personal, o a través de peritos con registro vigente en el padrón que al efecto lleve la Dirección.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 1997)</small>
 
 ### CAPITULO PRIMERO. DE LAS OBLIGACIONES DE LOS PARTICULARES
 
 ###### ARTICULO 55.
 
-Para ser Perito Deslindador se requiere:
+Para ser perito deslindador se requiere:
 
-a) Ser Ingeniero topógrafo, civil, agrónomo, minero, petrolero o de una carrera afín, reconocida por las autoridades competentes en materia de profesiones.
+a).- Ser Ingeniero Topógrafo en sus distintas ramas o de alguna carrera afín a la topografía.
 
-b) Tener registro de la Dirección de Profesiones del Estado.
+b).- Aprobar los exámenes de conocimientos a los que hace referencia la Norma Técnica correspondiente.
 
-c) Estar dado de alta en el padrón que al efecto lleve la Dirección.
+c).- Cumplir con la Norma Técnica autorizada para tal fin.
 
 ###### ARTICULO 56.
 
@@ -455,6 +463,10 @@ T R A N S I T O R I O S
 
 ### CAPITULO SEGUNDO. SANCIONES Y RECURSOS
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 1997)</small>
+
+ARTICULO 59 Las sanciones a que se refiere el artículo 54 de la Ley en relación con el artículo 53 de la misma serán aplicadas por la Dirección de Catastro Municipal sin perjuicio de las sanciones aplicables a las que se hicieran acreedores los peritos de acuerdo a lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+
 ###### ARTICULO PRIMERO.
 
 El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado. Publíquese para conocimiento de la ciudadanía en un periódico de mayor circulación en el Municipio de Tijuana.
@@ -484,3 +496,11 @@ que el presente Reglamento de la Ley del Catastro Inmobiliario del Estado de Baj
 EL SECRETARIO DEL AYUNTAMIENTO
 
 C. LIC. RUBEN ALFONSO FERNANDEZ ACEVES
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE JULIO DE 1997.
+
+PRIMERO.- Las presentes reformas, entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La Norma Técnica deberá ser expedida en un término no mayor de 30 días naturales a partir de la publicación de las presentes reformas en el Periódico Oficial del Estado.
