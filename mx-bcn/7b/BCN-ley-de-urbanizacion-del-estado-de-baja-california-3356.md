@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-urbanizacion-del-estado-de-baja-california-3356"
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-20"
-last_updated: "1996-12-27"
+last_updated: "2003-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE URBANIZACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2003.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el jueves 20 de agosto de 1981.
 
@@ -39,51 +39,63 @@ LEY DE URBANIZACION DEL ESTADO DE BAJA CALIFORNIA
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 1o.
 
-Se declaran de utilidad pública, las obras de urbanización que deban realizarse de acuerdo con las prescripciones de esta Ley.
+La presente Ley es de interés público y tiene por objeto regular las mejoras que se producen en los predios ubicados en las zonas donde se llevan a cabo las obras de urbanización, mediante los sistemas de plusvalía y cooperación.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 2o.
 
-Los propietarios o poseedores de predios ubicados en la Entidad, beneficiados con obras de urbanización que se efectúen tanto por el sistema de imposición como por el de cooperación, previstos en esta Ley, están obligados a contribuir por la ejecución de dichas obras.
+Los propietarios o poseedores de predios ubicados en el Estado, beneficiados con obras de urbanización, están obligados a contribuir por la ejecución de dichas obras.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 3o.
 
-Las obras de urbanización normadas por esta Ley, son las siguientes:
+Las obras de urbanización objeto de contribución, bajo los sistemas de plusvalía o de cooperación, son las siguientes:
 
-I.- La apertura de nuevas vías públicas; la rectificación, ampliación, prolongación y mejoramiento de las ya existentes; las de seguridad relacionadas con el tránsito de vehículos y peatones; la construcción de plazas, jardines, parques y campos deportivos;
+I.- Las de apertura de nuevas vías públicas;
 
-II.- Las de ornato, seguridad y protección;
+II.- Las de pavimentación, rectificación, ampliación, prolongación y mejoramiento de vías públicas ya existentes;
 
-III.- La pavimentación, empedrado, banquetas, guarniciones y drenaje pluvial, de las vías públicas;
+III.- Las de seguridad y protección relacionadas con el tránsito de vehículos y peatones, dentro y fuera de los límites de los centros de población;
 
-IV.- Las Instalaciones necesarias para dotar a los centros de población de alumbrado público o para mejorar el ya existente; y
+IV.- Las de ornato, seguridad y protección, además del empedrado, banquetas, guarniciones y demás elementos que equipan las vías públicas;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1986)</small>
+V.- Las de agua potable, alcantarillado sanitario y alcantarillado pluvial;
 
-V.- Previo Convenio con la Comisión Federal de Electricidad, las de electrificación necesarias para dotar a los Centros de Población de fluido eléctrico o para mejorar las ya existentes;
+VI.- Las instalaciones necesarias para dotar a los centros de población de alumbrado público o para mejorar el ya existente;
 
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1986)</small>
+VII.- Las de electrificación necesarias para dotar a los centros de población de fluido eléctrico o para mejorar las ya existentes;
 
-VI.- Cualquier otro tipo de obras y servicios tendientes a la integración y mejoramiento de las poblaciones de la Entidad.
+VIII.- Las obras de regeneración urbana de aquellas zonas de los centros de población que se requieran para su reactivación económica, social y urbanística, tales como la construcción de estacionamientos públicos, mercados públicos, plazas, jardines, parques e instalaciones deportivas o similares;
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1986)</small>
+IX.- Cualquier otro tipo de obras o servicios relacionadas con la misma, tendientes a la integración y mejoramiento de las poblaciones del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 4o.
 
-Una vez concluídas las obras de urbanización que realicen los Consejos de Urbanización Municipales y la Junta de Urbanización del Estado, se entregarán a los Ayuntamientos a cuyo cargo estará su mantenimiento, el que se considerará como un servicio municipal, con excepción de las obras de drenaje de aguas negras, pluvial, así como las líneas y redes para agua potable, que serán entregadas para su mantenimiento a la Comisión Estatal de Servicios Públicos que corresponda, las de electrificación que se entregarán a la Comisión Federal de Electricidad, para su mantenimiento, las que se considerarán como Servicios Federales de acuerdo a lo que establece la Fracción III del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, así como el Artículo 81 de la Constitución Política Local.
+Una vez concluidas las obras de urbanización que realicen los Consejos de Urbanización Municipales y la Junta de Urbanización del Estado, se entregarán a los Municipios a cuyo cargo estará su mantenimiento, el que se considerará como un servicio municipal, con excepción de las obras de drenaje de aguas negras, pluvial, así como las líneas y redes de agua potable, que serán entregadas para su mantenimiento a la Comisión Estatal de Servicios Públicos que corresponda, las de electrificación que se entregarán a la Comisión Federal de Electricidad para su mantenimiento, las que se considerarán como servicios federales de acuerdo a lo que establece la fracción III del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, así como el Artículo 82 de la Constitución Política Local.
 
 ###### ARTICULO 5o.
 
 Los residentes de una zona determinada que representen un número considerable de interesados, a juicio del Consejo de Urbanización Municipal respectivo, independientemente de la actuación propia del mismo, podrán promover ante éste, la ejecución o mejoramiento de obras de urbanización bajo el sistema de cooperación o la reconstrucción de las mismas. Igualmente el Ayuntamiento respectivo podrá sugerir la ejecución de las obras de que se trata.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 6o.
 
-La Secretaría de Asentamientos Humanos y Obras Públicas del Estado, autorizará la planeación de las obras de urbanización previstas en esta Ley, ajustándose a lo dispuesto en la Ley de Desarrollo Urbano del Estado.
+La planeación urbana y las obras que de ésta deriven, deberán se autorizadas por la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, y por los Municipios en los términos que los faculte la Ley de Desarrollo Urbano del Estado de Baja California.
+
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 7o.
 
-Son sujetos del pago de Impuestos o Derechos por obras de urbanización, según se realicen bajo el sistema de imposición o de cooperación, los siguientes:
+Son sujetos del pago de contribuciones de mejoras por obras de urbanización, según se realicen bajo el sistema de plusvalía o de cooperación, o de ambos en el supuesto de que se realicen simultáneamente, los siguientes:
 
 I.- Los propietarios de los predios comprendidos en la zona beneficiada por las obras;
 
@@ -97,19 +109,21 @@ III.- La Institución fiduciaria en el caso de inmuebles sujetos a fideicomiso, 
 
 IV.- El propietario del terreno, cuando el de la construcción sea distinto.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 8o.
 
-Si el predio estuviere constituido bajo el régimen de propiedad en condominio, ya sea dividido en pisos, departamentos, locales o viviendas, el importe del Impuesto o Derecho que corresponda a cada propietario se determinará dividiendo la cantidad que deba pagarse por todo el predio entre la superficie cubierta de construcción que resulte de sumar la de todos los pisos, exceptuando la que se destine a servicios de uso común y el cociente así obteniendo se multiplicará por el número de metros que corresponda al piso, departamento, local o vivienda de que se trate.
+Si el predio estuviere constituido bajo el régimen de propiedad en condominio, ya sea dividido en pisos, departamentos, locales o viviendas, el importe de las contribuciones de mejoras que corresponda a cada propietario, se determinará dividiendo la cantidad que deba pagarse por todo el predio entre la superficie cubierta de construcción que resulte de sumar la de todos los pisos, exceptuando la que se destine a servicios de uso común, y el cociente así obtenido se multiplicará por el número de metros que corresponda al piso, departamento, local o vivienda de que se trate; una vez realizada esta operación, se deberá sujetar a las normas para la individualización tanto del sistema de plusvalía como para el de cooperación, o de ambos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 9o.
 
-Tratándose de extrema pobreza, por incapacidad física, temporal o permanente de los beneficiados por obras de urbanización, determinada mediante verificación y estudio socioeconómico que se haga al respecto, el Ejecutivo del Estado o el Presidente Municipal, en su correspondiente jurisdicción y en relación con obras llevadas a cabo por los Consejo (sic) de Urbanización Municipal, o por la Junta de Urbanización del Estado, podrán congelar el cobro de los adeudos, por impuestos de plusvalía o cuotas de cooperación en la medida que resulte necesario, mientras no cambie el mencionado estado de pobreza por circunstancias familiares o por cualquier otra causa. El cobro se hará efectivo cuando se transmita la propiedad a tercero, ya sea por herencia o por cualquier otro concepto.
+Tratándose de extrema pobreza, por incapacidad física, temporal o permanente de los beneficiados por obras de urbanización, determinada mediante verificación y estudio socioeconómico que se haga al respecto, el Ejecutivo del Estado o los Ayuntamientos, en sus respectivos ámbitos de competencia y en relación con obras llevadas a cabo por los Consejos de Urbanización Municipal, o por la Junta de Urbanización del Estado, podrán congelar el cobro de los adeudos, por las contribuciones de mejoras en la medida que resulte necesario, mientras no cambie el mencionado estado de pobreza por circunstancias familiares o por cualquier otra causa. El cobro se hará efectivo cuando se transmita la propiedad a tercero, ya sea por herencia o por cualquier otro concepto.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+El Ejecutivo del Estado, en los términos del párrafo anterior, cuando lo estime procedente, podrá eximir mediante subsidios el pago de las contribuciones de mejoras por las obras realizadas bajo los sistemas de plusvalía o de cooperación, a los Organismos Descentralizados o a las Instituciones de Asistencia Pública o Privada, así como a las que realicen actividades educativas o culturales, o tiendan a la protección de los menores o de las clases económicamente débiles.
 
-El Ejecutivo del Estado, en los términos del párrafo anterior, cuando lo estime conveniente, podrá eximir mediante subsidios el pago del impuesto de plusvalía o de las cuotas de cooperación a los Organismos Descentralizados o a las Instituciones de Beneficencia Pública o Privada, así como a las que realicen actividades educativas o culturales o tiendan a la protección de los menores o de las clases económicamente débiles. Tratándose de pensionados, jubilados e indigentes mayores de 60 años y discapacitados que acrediten tal calidad y reúnan los requisitos establecidos en el Título IX de la Ley de Hacienda del Estado de Baja California, quedarán exentos como sigue: los pensionados, jubilados, y discapacitados que realicen alguna actividad económicamente productiva y que obtengan ingresos de hasta 5 veces el salario mínimo general, en el 50% del Impuesto de Plusvalía o cuotas de cooperación; y los indigentes mayores de 60 años o discapacitados que no desempeñen actividad productiva, el 100% en los conceptos señalados, otorgándose este beneficio sólo por un inmueble de su propiedad, en la misma forma el Presidente Municipal podrá eximir mediante subsidio del pago de las cuotas de cooperación a los organismos, Instituciones de Beneficencia y personas físicas señaladas anteriormente.
+Tratándose de pensionados, jubilados, indigentes mayores de sesenta años y discapacitados que acrediten tal calidad y reúnan los requisitos establecidos en el Título Noveno de la Ley de Hacienda del Estado de Baja California, quedarán exentos como sigue: los pensionados, jubilados, y discapacitados que realicen alguna actividad económicamente productiva y que obtengan ingresos de hasta cinco veces el salario mínimo general, en el cincuenta por ciento de las contribuciones de mejoras; y los indigentes mayores de sesenta años o discapacitados que no desempeñen actividad productiva, el cien por ciento en los conceptos señalados, otorgándose este beneficio sólo por un inmueble de su propiedad, en la misma forma los Ayuntamientos podrán eximir mediante subsidio del pago de las contribuciones de mejoras por concepto de las obras realizadas bajo el sistema de cooperación, a los Organismos, Instituciones de Asistencia y personas físicas señaladas anteriormente.
 
 ###### ARTICULO 10.
 
@@ -125,13 +139,31 @@ IV.- Quince años en pavimento de concreto hidráulico;
 
 V.- Ocho años en pavimento de concreto asfáltico;
 
-VI.- Diez años en banquetas y guarniciones de concreto; y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
+VI.- Diez años en banquetas y guarniciones en concreto;
 
 VII.- Diez años en alumbrado público.
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1986)</small>
 
 VIII.- Veinte años en electrificación.
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
+IX.- Veinticinco años en tubería para agua potable de PVC;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
+X.- Veinticinco años en tubería para alcantarillado sanitario de PVC;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
+XI.- Veinticinco años en tubería para alcantarillado pluvial de PVC o de cualquier otro material;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
+XII.- Quince años en tomas y descargas de agua potable y alcantarillado sanitario, independientemente de los materiales que estén instalados.
 
 ###### ARTICULO 11.
 
@@ -143,189 +175,283 @@ Los Organismos que presten servicios públicos, previamente a la ejecución de c
 
 En los casos de emergencia en que resulte urgente el trabajo que afecte una obra de urbanización, el Organismo procederá de inmediato a ello sin perjuicio de solicitar simultáneamente la autorización del Ayuntamiento en los términos del párrafo anterior.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 13.
 
-Los Notarios y demás funcionarios administrativos y judiciales no autorizarán escrituras, actas o contratos en que intervengan, que impliquen trasmisión, desmembración del dominio, constitución de servidumbres o garantías reales en relación con inmuebles si no se les comprueba mediante constancia expedida por el Consejo de Urbanización Municipal correspondiente o por la Junta de Urbanización del Estado, de que el inmueble de que se trata no está afecto al pago de derechos de cooperación o al impuesto de plusvalía, o que está al corriente en los pagos, lo cual deberá hacerse constar en la escritura o instrumento relativo. Los funcionarios mencionados que no den cumplimiento a lo anterior, serán responsables de los daños y perjuicios que con su omisión causen.
+Los Notarios y demás funcionarios administrativos y judiciales no autorizarán escrituras, actas o contratos en que intervengan, que impliquen la transmisión, desmembración del dominio, constitución de servidumbres, fideicomisos o garantías reales en relación con inmuebles, ni su subdivisión, fusión, relotificación o fraccionamiento, si no se les comprueba mediante constancia expedida por el Consejo de Urbanización Municipal correspondiente y por la Junta de Urbanización del Estado, de que el inmueble de que se trata no está afecto al pago de las contribuciones de mejoras, o que está al corriente en los pagos, lo cual deberá hacerse constar en la escritura o instrumento relativo.
+
+Los funcionarios mencionados que no den cumplimiento a lo anterior, serán responsables de los daños y perjuicios que con su omisión causen.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 14.
 
-Tienen el carácter de Organismos de Urbanización para los efectos de la presente Ley:
+En lo relativo a los casos de subdivisión, fusión, relotificación y fraccionamiento de los predios beneficiados por contribuciones de mejoras, el propietario deberá acudir ante el Consejo de Urbanización Municipal, para cumplir con los requisitos establecidos por la Ley de la materia.
 
-I.- La Junta de Urbanización del Estado;
-
-II.- Los Consejos de Urbanización Municipales;
-
-III.- La Secretaría de Asentamientos Humanos y Obras Públicas del Estado;
-
-IV.- La Secretaría de Finanzas del Estado;
-
-V.- Las Comisiones Estatales de Servicios Públicos; y
-
-VI.- Los Comités de Obras.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 15.
 
-La Junta de Urbanización del Estado, es un organismo público descentralizado del Estado, con personalidad jurídica y patrimonio propios, facultada para ejecutar obras de urbanización bajo el sistema de imposición, así como para gestionar y contratar lo relativo a la ejecución de dichas obras, y concurrir con la personalidad de que se trata ante organismos e instituciones privadas y autoridades Federales, Estatales y Municipales.
+En lo no previsto por esta Ley, será de aplicación supletoria el Código Fiscal del Estado de Baja California.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 16.
 
-La Junta de Urbanización del Estado, ejercerá jurisdicción en toda la entidad, funcionará permanentemente y tendrá su sede en la capital del Estado. La Junta se integrará por un representante que designe el Gobernador del Estado, que fungirá como Presidente de la misma y por:
+Tienen el carácter de organismos de urbanización:
 
-I.- El Oficial Mayor de Gobierno;
+I.- La Secretaría de Asentamientos Humanos y Obras Públicas;
 
-II.- El Secretario de Asentamientos Humanos y Obras Públicas del Estado;
+II.- La Junta de Urbanización del Estado;
 
-III.- El Secretario de Finanzas del Estado;
+III.- Las Comisiones Estatales de Servicios Públicos;
 
-IV.- El Secretario de Desarrollo;
+IV.- Las Promotoras para el Desarrollo de las Comunidades Rurales y Populares del Estado de Baja California;
 
-V.- El Director de Organización, Programación y Presupuesto;
+V.- La unidad administrativa en materia de obras públicas de los Ayuntamientos;
 
-VI.- Un Representante de Inmobiliaria del Estado;
+VI.- Los Consejos de Urbanización Municipales.
 
-VII.- Un Representante de la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares;
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+### CAPITULO SEGUNDO. DE LOS ORGANISMOS DE URBANIZACION Y DE LA JUNTA DE URBANIZACION DEL ESTADO
 
-VIII.- Un representante del Instituto de Vivienda del Estado de Baja California;
-
-IX.- Un Representante de la Federación Estatal de Cámaras Nacionales de Comercio y Servicios Turísticos constituída en el Estado;
-
-X.- Un Representante de las Cámaras Nacionales de la Industria de Transformación o Delegaciones constituídas en el Estado;
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
-
-XI.- Un representante de los Centros Empresariales constituidos en el Estado;
-
-XII.- Un Representante de los Colegios de Ingenieros y Arquitectos constituidos y domiciliados en la Entidad y que se encuentren registrados en el Departamento de Profesiones, de la Secretaría de Educación y Bienestar Social;
-
-XIII.- Un Representante de los Centros Bancarios, legalmente constituídos en el Estado;
-
-XIV.- Un Representante de las Uniones de Contribuyentes y Usuarios de Servicios Públicos, legalmente constituídas y domiciliadas en el Estado;
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
-
-XV.- Un Representante de las Uniones de Propietarios de Bienes Raíces o la Junta General de Vecinos constituida ante la autoridad Municipal, domiciliada en el Estado;
-
-XVI.- Un Representante de cada una de las tres Organizaciones Obreras mayoritarias, a juicio de la Dirección del Trabajo y Prevención Social, legamente constituídas y domiciliadas en el Estado; y
-
-XVII.- Un Representante de cada una de las tres Organizaciones Campesinas mayoritarias, legalmente constituídas y domiciliadas en el Estado.
-
-Por cada representante propietario de los señalados, se designará un suplente que lo substituirá en sus faltas.
-
-### CAPITULO SEGUNDO. DE LOS ORGANISMOS DE URBANIZACION EN EL ESTADO
+(REUBICADA, P.O. 28 DE FEBRERO DE 2003)
 
 #### SECCION PRIMERA. INTEGRACION, ATRIBUCIONES Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 17.
 
-Tendrán el carácter de integrantes de la Junta de Urbanización del Estado, cuando deban realizarse obras en su jurisdicción, los Presidentes Municipales y los Directores de las Comisiones Estatales de Servicios Públicos o sus Representantes. En este caso tendrán voz y voto. La Junta dará a conocer a dichos funcionarios, la circunstancia que motive su intervención.
+La Junta de Urbanización del Estado, es un organismo público descentralizado del Ejecutivo del Estado, con personalidad jurídica y patrimonio propio, la cual tiene por objeto ejecutar las obras de urbanización bajo el sistema de plusvalía, así como para gestionar y contratar lo relativo a la ejecución de dichas obras, y concurrir ante organismos e instituciones privadas y autoridades Federales, Estatales y Municipales para coordinarse en la ejecución de las mismas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+El domicilio legal de la Junta de Urbanización del Estado, será la Capital del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 18.
 
-La Junta de Urbanización del Estado tendrá las siguientes atribuciones:
+El Ejecutivo del Estado a través de la Secretaría de Asentamientos Humanos y Obras Públicas podrá encomendar a los organismos de urbanización previstos en la presente Ley, la ejecución de obras que conlleven un beneficio general, bajo el sistema de plusvalía, de cooperación, o por ambos simultáneamente. Cuando las obras que se realicen tengan características de las que se lleven acabo (sic) por medio del sistema de cooperación, pero por su magnitud, importancia e impacto en las ciudades, se realicen bajo el sistema de plusvalía, únicamente la definición de la contribución se ajustará a lo que establece el artículo 94 de esta Ley para el sistema de cooperación, y para fincar el crédito fiscal se sujetarán a lo previsto para el sistema de plusvalía.
 
-I.- Realizar estudios sobre la conveniencia, necesidad, viabilidad, costo, financiamiento y demás pormenores respecto de la ejecución de obras, sometiendo los proyectos correspondientes a la consideración de la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, para que en el término de veinte días dé su aprobación, en su caso;
+Para la ejecución de las obras previstas en el párrafo anterior, los organismos de urbanización deberán celebrar un convenio en el que especifiquen los derechos y obligaciones de ambas partes; siguiendo los lineamientos previstos en esta Ley para cada etapa del procedimiento a utilizarse.
 
-II.- Ejecutar directamente o mediante contrato, las obras que sean aprobadas por la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, así como realizar las que dicha dependencia le encomiende;
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
-
-III.- Formular las bases, expedir las convocatorias y adoptar las decisiones relativas al concurso para la contratación de obras y servicios en el Municipio que vayan a ser realizados bajo el sistema de imposición, conforme a la Ley de Obra Pública correspondiente.
-
-Se exceptúan de lo anterior, aquéllas obras previstas por esta Ley y realizadas por la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, con Fondos Estatales o Federales en forma parcial o total, de carácter recuperable y que produzcan plusvalía, en dado caso la contratación de las mismas será llevada a cabo por la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, en los términos de la Ley de Obra Pública respectiva, sin perjuicio de que dichas obras puedan incorporarse al sistema de imposición, previsto por esta Ley en lo que se refiere a la recuperación o el costo de las mismas, siempre y cuando dicha recuperación se reinvierta en el Estado;
-
-IV.- Contratar directamente los financiamientos y suscribir los títulos de crédito y demás documentos necesarios que de ello se deriven y dar un fideicomiso o constituir en garantía los impuestos de plusvalía;
-
-V.- Suscribir los contratos para la realización de las obras y vigilar su cumplimiento, fijando las garantías que deban otorgar los contratistas; deducir las acciones sobre responsabilidades, derivadas de los contratos que celebren;
-
-VI.- Fijar la derrama del impuesto de plusvalía entre las propiedades comprendidas en las zonas de afectación;
-
-VII.- Calcular el monto de las indemnizaciones en los casos de expropiación para realización de obras;
-
-VIII.- Realizar directamente la ejecución de obras cuando el monto y magnitud de las mismas no justifique su contratación con terceros.
-
-El Gobernador del Estado, podrá disponer que en el caso a que se refiere esta Fracción, las obras las realice la Secretaría de Asentamientos Humanos y Obras Públicas del Estado;
-
-IX.- Cobrar el costo de las obras; y
-
-X.- Formular su Reglamento Interior.
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 1982)</small>
-
-XI.- Revocar total o parcialmente la declaratoria a que se refiere el Artículo 56 cuando por cualquier motivo varía alguno o algunos de los conceptos que debe comprender dicha declaratoria. Previamente a la Revocación se le dará audiencia al Ayuntamiento o Ayuntamientos correspondientes. Se publicará en el Periódico Oficial del Estado y en uno de los de mayor circulación del Municipio o Municipios en que se pretenda realizar la obra.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 19.
 
-A fin de integrar la Junta de Urbanización del Estado, el Ejecutivo requerirá por oficio a los Organismos y Organizaciones a que se refiere el Artículo 16 de esta Ley, para que dentro de los quince días siguientes al requerimiento, hagan la designación del Representante propietario y suplente que les corresponda.
+La Junta de Urbanización del Estado tendrá las siguientes atribuciones:
 
-El requerimiento aludido, deberá enviarse por correo certificado, con acuse de recibo.
+I.- Realizar, estudios sobre la conveniencia, necesidad, viabilidad, costo, financiamiento y demás pormenores respecto de la ejecución de obras, sometiendo los proyectos correspondientes a consideración de la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, y de aprobarse, se informe a los Ayuntamientos respectivos;
+
+II.- Ejecutar directamente o mediante contrato las obras, equipamientos, suministros y servicios relacionados con las mismas, que sean aprobadas en su programa anual de inversión, así como realizar las que la Secretaría de Asentamientos Humanos y Obras Públicas del Estado le encomiende;
+
+III.- Implementar los procedimientos previstos en las Leyes en materia de obras públicas, para la contratación de obras, equipamientos, suministros y servicios relacionados con las mismas, en el Municipio que vayan a ser realizados;
+
+IV.- Contratar, previo el cumplimiento de la Ley de Deuda Pública del Estado de Baja California, los financiamientos y suscribir los títulos de crédito y demás documentos necesarios que de ellos se deriven, y dar en fideicomiso o constituir en garantía, los créditos fiscales que se deriven de las contribuciones de mejoras;
+
+V.- Suscribir los contratos para la realización de las obras, equipamientos, suministros y servicios relacionados con las mismas; vigilar y controlar su cumplimiento fijando las garantías y penas que deban otorgar los contratistas o proveedores, y deducir las acciones sobre responsabilidades derivadas de los contratos que celebren;
+
+VI.- Suscribir los contratos de coordinación o coinversión que permitan las leyes, reglamentos y demás disposiciones legales;
+
+VII.- Determinar la derrama de las contribuciones de mejora entre las propiedades comprendidas en las zonas generales de beneficio, con facultades para cuantificar, determinar, liquidar y notificar los créditos fiscales por dicho concepto.
+
+La notificación, cobro y recaudación de los créditos fiscales por concepto de contribuciones de mejora, deberá realizarse a través del Subrecaudador de Rentas del Estado adscrito al organismo;
+
+VIII.- Realizar directamente la ejecución de obras o servicios relacionados con la misma, cuando el monto y magnitud de las mismas no justifique su contratación con terceros;
+
+IX.- Cobrar a través del procedimiento administrativo de ejecución los créditos fiscales, en caso de incumplimiento de los causantes, por conducto del Subrecaudador de Rentas del Estado adscrito;
+
+X.- Formular los proyectos de Reglamento Interior y los manuales necesarios, a efecto de ser remitidos al Ejecutivo Estatal para su aprobación;
+
+XI.- Revocar sus actos sólo cuando los mismos no concedan derechos, autorizaciones o permisos a terceros derivados del acto a revocarse;
+
+XII.- Elaborar los proyectos de acuerdos de expropiación para su remisión al Ejecutivo Estatal, y cubrir el monto de las indemnizaciones en los casos de expropiación para realización de obras bajo el sistema de plusvalía, así como de los convenios que se realicen para la liberación del derecho de vía;
+
+XIII.- Las demás que deriven de las Leyes, reglamentos y cualquier otra disposición legal.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 20.
 
-En el caso de que no se hicieran las designaciones dentro del término señalado, se considerará que los Organismos y Organizaciones, renuncian a su derecho de representación en la Junta de Urbanización del Estado, la cual se tendrá por integrada con los designados, en los términos del Artículo anterior.
+El patrimonio de la Junta de Urbanización del Estado se integra por:
+
+I.- Los bienes, recursos y derechos que a su favor otorgue o asigne el Gobierno Federal, Estatal o Municipal;
+
+II.- Las donaciones, legados, subsidios y demás aportaciones análogas que reciba de particulares;
+
+III.- Los ingresos que obtenga por el desarrollo de sus actividades;
+
+IV.- Los ingresos que se deriven del artículo 21 de esta Ley;
+
+V.- Los rendimientos y demás ingresos que obtenga de la inversión de los recursos a que se refiere las fracciones anteriores;
+
+VI.- Los bienes, derechos y obligaciones que generen utilidad económica o sean susceptibles de estimación pecuniaria, que obtenga por cualquier otro título legal.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 21.
 
-Constituída la Junta de Urbanización del Estado, elegirá en la primera sesión, de entre las personas que la integran, el Secretario, Tesorero, Primer Vocal y Segundo Vocal de la Directiva de la Junta, así como a los Suplentes, que substituirán a los titulares en sus ausencias temporales.
+La Junta de Urbanización del Estado, percibirá con cargo a cada una de las obras que realice, un porcentaje del diez por ciento por concepto de dirección, vigilancia, supervisión, control y administración, porcentaje que se reducirá en su caso, de acuerdo con la magnitud y número de las obras que tenga a su cargo.
+
+La Junta de Urbanización está facultada para aceptar, para obra determinada, aportaciones federales, estatales o municipales, así como aportaciones voluntarias de instituciones y personas físicas o morales, en forma parcial o total. Estas aportaciones podrán ser recuperadas por la Junta de Urbanización del Estado por tratarse de obras que producen mejoras a los predios que se encuentran en su zona general de beneficio y podrán incorporarse al sistema de plusvalía en lo que se refiere a la recuperación o costo de las mismas, siempre y cuando dicha recuperación se reinvierta en el Estado en otras obras reguladas por esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 22.
 
-La Directiva durará en ejercicio dos años, prorrogándose automáticamente sus funciones hasta que tomen posesión los directivos que deban substituírla y que se eligirán cada dos años.
+La Junta de Urbanización del Estado contará con un órgano de gobierno que se denominará Junta Directiva, la cual se integrará y representará de la siguiente forma:
 
-Los cargos de la Directiva, con excepción del Presidente, podrán recaer por votación en cualesquiera de los Representantes propietarios de la Junta que ejerzan funciones permanentes; y en caso de renuncia de alguno de los miembros de la Directiva, se procederá a hacer nueva elección para el puesto que quede vacante.
+I.- Presidente: La persona que designe el Gobernador del Estado;
+
+II.- Secretario: El Secretario de Asentamientos Humanos y Obras Públicas;
+
+III.- El Secretario de Planeación y Finanzas;
+
+IV.- El Secretario de Desarrollo Económico;
+
+V.- El Secretario de Desarrollo Social;
+
+VI.- El Director de Control y Evaluación Gubernamental;
+
+VII.- El Presidente Municipal del lugar en que se ejecutarán las obras;
+
+VIII.- El Director de la Comisión Estatal de Servicios Públicos, del lugar en que se ejecutarán las obras;
+
+IX.- El Director de la Inmobiliaria Estatal, del lugar en que se ejecutarán las obras;
+
+X.- El Director de las Promotoras para el Desarrollo de las Comunidades Rurales y Populares, del lugar en que se ejecutarán las obras;
+
+XI.- El Director del Consejo de Urbanización Municipal, del lugar en que se ejecutarán las obras;
+
+XII.- El Director de la Unidad Municipal de Urbanización, del lugar en que se ejecutarán las obras;
+
+XIII.- Un Representante del Consejo Coordinador Empresarial, del lugar en que se ejecutarán las obras;
+
+XIV.- Un Representante nombrado por los Colegios de Ingenieros Civiles registrados ante el Departamento de Profesiones, del lugar en que se ejecutarán las obras;
+
+XV.- Un Representante nombrado por los Colegios de Arquitectos registrados ante el Departamento de Profesiones, del lugar en que se ejecutarán las obras;
+
+XVI.- Un Representante de la Cámara Mexicana de la Industria de la Construcción, del lugar en que se ejecutarán las obras.
+
+Los integrantes a que se refieren las fracciones de la VII a la XVI participarán en las sesiones de la Junta Directiva, cuando se incorporen temas de su competencia, y tendrán derecho a voz y voto durante su desarrollo; el derecho de voto se podrá ejercer sólo en los asuntos de su competencia. Al momento de convocar a los integrantes se dará a conocer la circunstancia que motive su intervención.
+
+Los cargos en la Junta Directiva son honoríficos y por su desempeño no percibirán retribución, emolumento o compensación alguna.
+
+Los integrantes podrán designar por escrito a la persona que los supla en sus ausencias temporales, quienes tendrán los mismos derechos y obligaciones que los propietarios.
+
+La Junta Directiva contará con un secretario técnico que será el Director General de la Junta de Urbanización del Estado, quien podrá participar en las sesiones sólo con derecho a voz.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 23.
 
-Si alguno de los miembros de la Junta se separa definitivamente, no existiere suplente y se tratare de Representante de los diversos sectores sociales, se hará nueva designación de Representante para cubrir la vacante por el plazo que falte para el ejercicio, en los términos del Artículo 19 de esta Ley.
+El Presidente de la Junta Directiva, en la segunda semana de enero de cada ejercicio fiscal, requerirá por oficio a las dependencias, entidades y organismos privados a que se refiere la fracción IV del artículo 22 de esta Ley, para que dentro de los quince días siguientes al requerimiento, hagan la designación del integrante propietario y suplente que les corresponda, según sea el caso.
 
-Respecto de los elementos oficiales que por Ley sean miembros de la Junta, al dejar de desempeñar el cargo oficial relativo, serán suplidos por quienes ocupen los puestos respectivos.
+Cuando los organismos privados no hicieren las designaciones dentro del término señalado, se efectuará un requerimiento para que las realicen dentro de los cinco días hábiles siguientes a que tenga conocimiento de éste, y en caso de no hacerlo, se considerará que renuncian a su derecho de representación durante el ejercicio fiscal correspondiente.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 24.
 
-Las elecciones para designar nueva Directiva, se llevarán a cabo en la primera quincena del mes de enero, la que entrará en funciones y ejercerá durante dos años.
+Los servidores públicos que sean miembros propietarios de la Junta Directiva, al dejar de desempeñar el cargo oficial, serán suplidos por quienes ocupen los puestos respectivos, pero en el caso de que los representantes del sector privado se separen definitivamente y no existiere suplente, se requerirá de una nueva designación para cubrir la vacante en los términos del artículo anterior.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 25.
 
-La Junta funcionará legítimamente con la concurrencia de la mayoría de sus miembros, y las resoluciones se tomarán por mayoría de votos de los representantes, teniendo en caso de empate, voto de calidad el Presidente de la Junta, en caso de no realizarse dicha reunión la siguiente se llevará a cabo, con la asistencia de la tercera parte de los miembros, tomándose las resoluciones en igual forma y conservando el voto de calidad el Presidente de la Junta.
+La Junta Directiva contará con las siguientes atribuciones:
+
+I.- Aprobar la aplicación de los recursos para el funcionamiento del Organismo, sus modificaciones y el cierre presupuestal;
+
+II.- Aprobar el proyecto de Reglamento Interior, así como los manuales de operación que sean necesarios;
+
+III.- Designar apoderados generales o especiales para ejercer actos de dominio;
+
+IV.- Otorgar en favor del Director General Poder General para pleitos y cobranzas, actos de administración y dominio, con todas las facultades generales y especiales que requieran cláusula especial;
+
+V.- Aprobar el informe trimestral que le rinda el Director General, relacionado con la situación administrativa, financiera y laboral del Organismo;
+
+VI.- Aprobar los proyectos de derrama de las contribuciones de mejora por el sistema de plusvalía, antes de ser notificados a los beneficiados;
+
+VII.- Solicitar al Director General la información relativa a la contratación de financiamientos, suscripción de títulos de crédito, contratos de coordinación o coinversión y en general, toda aquella información necesaria para la observancia de la buena marcha de la Junta de Urbanización del Estado;
+
+VIII.- Las demás que se deriven de las leyes, reglamentos y cualquier otra disposición legal.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 26.
 
-El Presidente de la Junta tendrá la representación general y jurídica de la misma, sin perjuicio de que la propia Junta pueda designar de entre sus miembros, las comisiones especiales que estime convenientes. Serán facultades del Presidente, las de suscribir en unión del Tesorero, toda clase de títulos de crédito y contratos de financiamiento, así como la firma de contratos de obras, y en general todos aquellos actos que sean necesarios para la buena marcha de la administración general de la Junta, comprendiendo las de nombramiento y remoción de personal.
+El quórum de la Junta Directiva se integrará con la concurrencia de la mayoría de los miembros citados, y las resoluciones se tomarán por mayoría de votos de los miembros presentes; teniendo el Presidente voto de calidad en caso de empate.
 
-La Junta, en su caso, podrá otorgar al Presidente, facultades para ejercer actos de dominio.
+Cuando no se integre el quórum para sesionar en la fecha y hora indicada, transcurrida una hora, se podrá sesionar válidamente con la asistencia de cuando menos la tercera parte de los miembros, lo que se deberá indicar en la convocatoria. Las resoluciones se tomarán por mayoría de votos, conservando el voto de calidad el Presidente.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 27.
 
-El Secretario de la Junta, firmará en unión del Presidente, en toda clase de actos jurídicos, con excepción de los que impliquen disposición de fondos, en el desempeño de las atribuciones que le confiere esta Ley y llevará los libros de actas de sesiones que deberá autorizar con su firma.
+La Junta Directiva sesionará en forma ordinaria cada tres meses y de manera extraordinaria cuantas ocasiones las circunstancias lo exijan, pudiendo convocarse a sesión por acuerdo del Director General o a petición de tres de sus integrantes.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 28.
 
-El Tesorero de la Junta, tendrá a su cargo, la función de supervisar el manejo de los fondos, la planeación financiera y la formulación del proyecto de Presupuesto anual, que deberá poner a consideración de la propia Junta. Deberá, además, autorizar con su firma y la del Presidente, todos los actos que impliquen disposición de fondos que deban realizarse de acuerdo con el ejercicio de las facultades que competen a la Junta. Asimismo, deberá rendir ante aquélla, un informe anual de su gestión.
+La Junta de Urbanización del Estado, tendrá un Director General, que será nombrado y removido libremente por el Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 29.
 
-La Junta de Urbanización del Estado, tendrá un Gerente General, que será nombrado y removido libremente por el Gobernador del Estado. El Gerente General tendrá el carácter de Apoderado General para pleitos y cobranzas, y a su cargo estará la coordinación de los recursos materiales y humanos necesarios para el funcionamiento de la Junta, vigilar la recaudación del impuesto de plusvalía, así como el manejo de los fondos para cubrir las necesidades de la misma, para lo cual deberá estar expresamente autorizado por el Presidente ante las Instituciones de créditos respectivas, o en su defecto, su firma deberá ir acompañada por la del Presidente o del Tesorero de la propia Junta.
+Son facultades y obligaciones del Director General:
+
+I.- Elaborar y presentar para su aprobación a la Junta Directiva, el programa de actividades del organismo y el anteproyecto de presupuesto anual de ingresos y egresos, así como sus modificaciones;
+
+II.- Dirigir administrativa y técnicamente a la Junta de Urbanización del Estado, dando cumplimiento a su objeto;
+
+III.- Ejecutar los acuerdos y disposiciones que la Junta Directiva le encomiende, así como asistir a las sesiones de la misma, con derecho al uso de la voz pero no al voto;
+
+IV.- Representar legal y jurídicamente a la Junta de Urbanización del Estado ante terceros, y ante toda clase de autoridades civiles, administrativas y judiciales, con facultades amplias para pleitos y cobranzas y actos de administración en los términos del mandato que para el efecto le otorgue la Junta Directiva, sin perjuicio de que ésta pueda designar apoderados generales o especiales que estime convenientes;
+
+V.- Presentar ante la Junta Directiva informe trimestral de la situación administrativa, financiera y laboral del organismo, y demás que le sean requeridos por la misma;
+
+VI.- Elaborar el proyecto de Reglamento Interior de la Junta de Urbanización del Estado, de sus manuales operativos, así como modificaciones a los mismos, y someterlos a la Junta Directiva para su aprobación;
+
+VII.- Coordinar los recursos materiales y humanos necesarios para el funcionamiento de la Junta de Urbanización del Estado;
+
+VIII.- Vigilar y administrar la recaudación de las contribuciones de mejoras por el sistema de plusvalía, así como el manejo de los fondos para cubrir las necesidades del Organismo;
+
+IX.- Suscribir los contratos y convenios sobre obras, equipamientos, suministros y servicios relacionados con la misma; toda clase de títulos de crédito de conformidad con el artículo 9 de la Ley General de Títulos y Operaciones de Crédito y contratos de financiamiento;
+
+X.- Formular denuncias y querellas, articular y absolver posiciones, desistirse del juicio de Amparo, otorgar y revocar poderes, y en general, realizar todos aquellos actos jurídicos que sean necesarios para la obtención de los fines del organismo, comprendiendo las de nombramiento y remoción del personal, con las facultades necesarias para intervenir en la conciliación y representación de conflictos laborales;
+
+XI.- Las demás que se deriven de las leyes, reglamentos y cualquier otra disposición legal.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 30.
 
-La Junta sesionará cuando menos, una vez al mes y en cuantas ocasiones las circunstancias lo exijan, pudiendo convocarse a sesión por acuerdo del Presidente, o a moción de dos de los miembros de la Directiva o del Gerente General.
+La Junta de Urbanización del Estado contará con un Comisario, el cual tendrá las siguientes facultades y obligaciones:
+
+I.- Vigilar que la administración de los recursos y el funcionamiento del organismo se hagan de acuerdo con lo dispuesto en la Ley, así como con los programas y presupuestos aprobados;
+
+II.- Practicar la revisión de los estados financieros y las de carácter administrativo que se requieran;
+
+III.- Recomendar a la Junta Directiva y al Director General las medidas correctivas que sean convenientes para el mejor funcionamiento del organismo;
+
+IV.- Las demás que se deriven de la Ley, reglamentos o cualquier otra disposición legal.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 31.
 
-La Junta de Urbanización del Estado, contará para su asesoramiento, con los departamentos especializados necesarios y el personal correspondiente, que percibirá los sueldos que el presupuesto interno le asigne, pudiendo crear, en función de las necesidades de la urbanización general del Estado, nuevas dependencias especializadas.
+La Junta de Urbanización del Estado, contará para su asesoramiento, con los departamentos especializados necesarios y el personal correspondiente, que percibirá los sueldos que el presupuesto interno le asigne, pudiendo crear, en función de las necesidades de la urbanización general del Estado, nuevas unidades especializadas.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 32.
 
-Para su sostenimiento, la Junta de Urbanización del Estado, percibirá con cargo a cada una de las obras que realice, un porcentaje del diez por ciento por concepto de dirección, vigilancia, supervisión y administración, porcentaje que se reducirá en su caso, de acuerdo con la magnitud y número de las obras que tenga a su cargo. La Junta está facultada para aceptar, para obra determinada, subsidios de autoridades federales, estatales o municipales, así como aportaciones voluntarias de instituciones y personas físicas o morales, en cuyo caso, se disminuirá el porcentaje aludido en la obra de que se trate, en la proporción que corresponda.
+Cuando la Junta de Urbanización del Estado, deje de cumplir con su objeto, o su funcionamiento ya no resulte conveniente para la economía del Estado, o para el interés público, se estará a lo dispuesto en la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
@@ -333,9 +459,11 @@ Para su sostenimiento, la Junta de Urbanización del Estado, percibirá con carg
 
 Los Consejos de Urbanización Municipales, son organismos públicos descentralizados Municipales, con personalidad jurídica y patrimonio propios, que tienen como finalidad representar y coordinar a los sectores económicos, sociales profesionales y demás representativos de la comunidad, para llevar a cabo las obras de urbanización bajo el sistema de cooperación dentro de la jurisdicción municipal que les corresponda.
 
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 28 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 34.
 
-Los Consejos de Urbanización Municipales, estarán integrados de la siguiente forma:
+Los Consejos de Urbanización estarán integrados de la siguiente forma:
 
 I.- Por la persona designada por el Presidente Municipal, quien tendrá el carácter de Presidente del Consejo;
 
@@ -345,7 +473,9 @@ II.- El Oficial Mayor de Gobierno del Estado;
 
 III.- Por el Secretario de Asentamientos Humanos y Obras Públicas del Estado, o por la persona que éste designe;
 
-IV.- Por el Secretario de Finanzas del Estado, o por la persona que éste designe;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
+IV.- Por el Secretario de Planeación y Finanzas, o por la persona que éste designe;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
@@ -441,11 +571,11 @@ En el caso de que no se hicieran las designaciones dentro del término señalado
 
 ###### ARTICULO 38.
 
-Constituídos los Consejos de Urbanización Municipales, elegirán en la primera sesión, de entre las personas que los integran, al Secretario, Tesorero, Primer Vocal y Segundo Vocal de la Directiva de los Consejos, así como a los Suplentes, que substituirán a los titulares, en sus ausencias temporales.
+Constituidos los Consejos de Urbanización Municipales, elegirán en la primera sesión, de entre las personas que los integran, al Secretario, Tesorero, Primer Vocal y Segundo Vocal de la Directiva de los Consejos, así como a los Suplentes, que substituirán a los titulares, en sus ausencias temporales.
 
 ###### ARTICULO 39.
 
-La Directiva durará en ejercicio, un año, prorrogándose automáticamente sus funciones hasta que tomen posesión los directivos que deban substituírla y que se elegirán cada año.
+La Directiva durará en ejercicio, un año, prorrogándose automáticamente sus funciones hasta que tomen posesión los directivos que deban substituirla y que se elegirán cada año.
 
 Los cargos de la Directiva, con excepción del Presidente, podrán recaer por votación en cualesquiera de los Representantes propietarios de los Consejos; y en caso de renuncia de alguno de los miembros de la Directiva, se procederá a hacer nueva elección para el puesto que quede vacante.
 
@@ -489,29 +619,33 @@ El Tesorero del Consejo tendrá a su cargo, la función de supervisar el manejo 
 
 Los Consejos de Urbanización Municipal, sesionarán por lo menos una vez al mes y en cuantas ocasiones las circunstancias lo exijan, pudiendo convocarse a sesión por acuerdo del Presidente o a moción de dos de los miembros de la Directiva o del Gerente General.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 48.
 
-La Secretaría de Asentamientos Humanos y Obras Públicas del Estado y los Ayuntamientos en su respectiva jurisdicción y en el ejercicio de su competencia tendrán las siguientes atribuciones:
+La Secretaría de Asentamientos Humanos y Obras Públicas del Estado y los Municipios en sus respectivos ámbitos de competencia tendrán la siguientes atribuciones:
 
-I.- Conocer los proyectos de obras de urbanización que bajo los sistemas de imposición y cooperación, sometan a su consideración la Junta de Urbanización del Estado y los Consejos de Urbanización Municipales, a fin de aprobarlos, modificarlos o rechazarlos, según corresponda;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+I.- Conocer los proyectos de obras de urbanización que bajo los sistemas de plusvalía y cooperación, sometan a su consideración la Junta de Urbanización del Estado y los Consejos de Urbanización municipales respectivamente, a fin de aprobarlos, modificarlos o rechazarlos, según corresponda;
 
-II.- Formular proyectos de obras de urbanización bajo el sistema de imposición y realizarlos directamente o encomendar su ejecución a la Junta de Urbanización del Estado, o en su caso al Consejo de Urbanización Municipal que corresponda;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
-En los casos en que la Secretaría y los Ayuntamientos realicen obras de Urbanización, tendrán las atribuciones que la Ley confiere a la Junta de Urbanización del Estado;
+II.- Formular proyectos de obras de urbanización bajo el sistema de plusvalía y realizarlos directamente o encomendar su ejecución a la Junta de Urbanización del Estado, o en su caso a los organismos de urbanización previstos en la presente Ley, quienes se sujetarán a lo dispuesto en su Capítulo III;
+
+En los casos en que la Secretaría de Asentamientos Humanos y Obras Públicas del Estado y los Municipios realicen obras de urbanización, tendrán las atribuciones que la Ley le confieren a la Junta de Urbanización del Estado, en cuanto no se opongan a su respectivo ámbito competencial;
 
 III.- Supervisar el debido funcionamiento de la Junta de Urbanización del Estado y de los Consejos de Urbanización Municipales; y
 
-IV.- Supervisar la ejecución de obras, ya sean por el sistema de imposición o por el de cooperación.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+IV.- Supervisar la ejecución de las obras, ya sean por el sistema de plusvalía o por el de cooperación.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 49.
 
-La Secretaría de Finanzas y los Ayuntamientos en su jurisdicción, en todo lo que se refiere a obras de urbanización previstas en esta Ley, tendrán la facultad de revisar y ordenar los movimientos financieros y contables.
+La Secretaría de Planeación y Finanzas y los Ayuntamientos en su jurisdicción, en todo lo que se refiere a obras de urbanización previstas en esta Ley, tendrán la facultad de revisar y ordenar los movimientos financieros y contables.
 
 ###### ARTICULO 50.
 
@@ -543,165 +677,337 @@ Los Comités de obras funcionarán válidamente con la concurrencia de cuando me
 
 Los Comités de obras deberán informar a los Consejos de Urbanización, sobre los asuntos relacionados con las obras a su cargo.
 
-### CAPITULO TERCERO. SISTEMA DE IMPOSICION
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE FEBRERO DE 2003)</small>
 
-#### SECCION PRIMERA
+### CAPITULO TERCERO. DEL SISTEMA DE PLUSVALIA
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
+#### SECCION PRIMERA. DE LOS ELEMENTOS, DECLARATORIA Y PROCEDIMIENTO DEL SISTEMA DE PLUSVALIA
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 55.
 
-El incremento de valor y la mejoría específica de la propiedad, que sean la consecuencia inmediata y directa de la ejecución de obras por el sistema de imposición, será objeto del impuesto de plusvalía.
+Los elementos de las contribuciones de mejoras, realizadas bajo el sistema de plusvalía, son los siguientes:
+
+I.- Objeto: El incremento de valor y la mejoría específica de la propiedad, que se originan como consecuencia inmediata y directa de la ejecución de obras por el sistema de plusvalía;
+
+II.- Sujeto Activo: Las autoridades previstas por el artículo 16 de esta Ley;
+
+III.- Sujeto Pasivo: Las personas previstas por los artículos 2 y 7 de esta Ley;
+
+IV.- Base: La superficie del predio beneficiada por la obra pública;
+
+V.- Cuota: Los importes a pagar por metro cuadrado, por cada sección o secciones de beneficio en que se encuentre enclavado el inmueble o predio beneficiado;
+
+VI.- Época de pago: Las contribuciones de mejoras serán cubiertas en el número de exhibiciones que señale la declaratoria emitida para la obra, las cuales podrán ser hasta en sesenta exhibiciones, y el primer pago mensual deberá efectuarse dentro de los quince días siguientes al de la fecha de notificación del instructivo a que se refiere el artículo 73 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 56.
 
-El impuesto a que se refiere el Artículo anterior, tendrá carácter objetivo y afectará a todos los inmuebles comprendidos dentro de la zona beneficiada por la obra, la cual será determinada en forma de declaratoria por la Junta de Urbanización o por la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, como resultado de los proyectos y estudios técnicos que se lleven a cabo en ejercicio de sus facultades y con audiencia del Ayuntamiento o Ayuntamientos interesados en la obra. Dicha declaratoria será publicada en el Periódico Oficial del Estado y en uno de los de mayor circulación del Municipio o Municipios en que se pretenda realizar la obra, y deberá comprender:
+Las contribuciones de mejoras a que se refiere el artículo anterior, tendrán carácter objetivo y afectarán a todos los inmuebles comprendidos dentro de la zona general de beneficio por una obra, la cual será determinada en forma de declaratoria por la Junta de Urbanización del Estado, como resultado de los proyectos y estudios técnicos siguientes:
 
-I.- Costo de la obra;
+I.- Proyecto ejecutivo de obra;
 
-II.- Monto probable de las indemnizaciones por expropiación, en su caso;
+II.- Padrón de beneficiados con la obra;
 
-III.- Monto total del impuesto de plusvalía correspondiente a la obra de que se trate;
+III.- Estudio de derrama.
 
-IV.- Clasificación de la zona afectada en secciones según los diversos grados de beneficio determinado por la obra; y
-
-V.- Número de mensualidades de igual cantidad, que serán hasta en número de sesenta, para cubrir el impuesto, fijado de acuerdo con la importancia económica de la zona beneficiada y el costo de la obra.
-
-La declaratoria de que se trata, será requisito previo a la iniciativa de Ley de Plusvalía, que el Ejecutivo presente ante el Congreso del Estado.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 57.
 
-El Impuesto de Plusvalía, que en cada caso se establezca por el Congreso del Estado, según las bases de la presente Ley, se aplicará al pago de indemnizaciones de predios expropiados para la ejecución de la obra relativa, cuando así corresponda, y al del costo de la misma, incluyéndose en este concepto el importe de los intereses y comisiones por los créditos o empréstitos que se hubieren obtenido para ser destinados al financiamiento de la obra, así como a gastos de administración de la Junta de Urbanización del Estado.
+La zona general de beneficio consistirá en un área envolvente de la obra, dividida en las secciones que determina el artículo 68, medida a partir de los paramentos o límite exterior de la misma. Cuando en una obra exista un impedimento legal o natural para que la zona general de beneficio envuelva toda la obra, el área sólo comprenderá la superficie sin el impedimento de que se trate.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 58.
 
-La Junta de Urbanización del Estado, al proponer la derrama del Impuesto de Plusvalía sobre los inmuebles ubicados en la correspondiente zona de beneficio efectivo, deberá tomar en consideración las bases que establece el Artículo 66 de esta Ley.
+La declaratoria será publicada en el Periódico Oficial del Estado y en un diario de mayor circulación del Municipio o Municipios en que se pretenda realizar la obra, y deberá comprender:
+
+I.- Descripción de la obra a ejecutarse;
+
+II.- Superficie y descripción de la zona general de beneficio y su clasificación en las secciones según los diversos grados de beneficio de la obra;
+
+III.- Importe derramable de la obra, el cual se integra con los siguientes conceptos:
+
+a).- Costo de la obra, el cual se compone del costo de los proyectos, estudios, supervisión, control de calidad y ejecución de la obra;
+
+b).- Monto de las indemnizaciones por expropiación o el pago por la liberación convencional del derecho de vía, en su caso;
+
+c).- Importe de las aportaciones públicas o privadas existentes para la obra, que para los efectos del importe derramable se disminuirá del monto de la suma de los dos conceptos anteriores, salvo lo dispuesto en la parte final del artículo 21 de esta Ley;
+
+d).- Importe de los intereses y comisiones en el supuesto de existir créditos o empréstitos contratados para sufragar el costo de la obra. Dicho costo financiero solo se calculará del importe que resulte al disminuirse las aportaciones obtenidas en los términos del inciso anterior;
+
+e).- El monto resultante de aplicar el porcentaje previsto por el artículo 21 de esta Ley.
+
+IV.- Las cuotas asignadas a cada una de las secciones de beneficio en que se divide la zona general, las cuales se calcularán en los términos del artículo 69 de esta Ley;
+
+V.- Monto total de las contribuciones de mejoras por el sistema de plusvalía correspondiente a la obra de que se trate;
+
+VI.- Número de mensualidades de igual cantidad, para cubrir la contribución de mejora;
+
+VII.- El procedimiento de participación ciudadana previsto por el artículo 61 de esta Ley.
+
+Previa a su publicación, la declaratoria de que se trata se hará del conocimiento del o de los Municipios donde se vaya a realizar la obra sujeta al sistema de plusvalía, en sesión formal de Cabildo.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 59.
 
-Al ser aprobada una obra cuya ejecución requiera la expropiación de bienes de propiedad privada, la Junta de Urbanización o la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, la solicitará al Ejecutivo, el que si es procedente, la acordará en los términos de la Ley de la materia.
+Las contribuciones de mejoras por las obras realizadas bajo el sistema de plusvalía tienen la naturaleza de créditos fiscales y se destinarán para recuperar el pago efectuado o a efectuarse de los conceptos que integran el importe derramable de la obra.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 60.
 
-La resolución expropiatoria deberá limitarse a los predios o fracciones de ellos, que sean indispensables para la ejecución de las obras respectivas.
+Al proponerse la derrama de las contribuciones de mejoras por el sistema de plusvalía sobre los inmuebles ubicados en la zona general de beneficio, se deberá tomar en consideración que el importe derramable de la obra es el límite de la recaudación total de las contribuciones de mejoras por el sistema de plusvalía.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 61.
 
-El acuerdo expropiatorio se notificará al afectado, en los términos de la Ley de Expropiación del Estado.
+En las declaratorias que se emitan deberá ordenarse un procedimiento de participación ciudadana que se integrará con los siguientes actos:
+
+I.- La notificación personal a cada beneficiado, para que asista a la junta de vecinos que se programe, donde se le expondrá la información técnica, financiera y de derrama de la obra a ejecutarse;
+
+II.- En el acto de notificación, se entregará a cada beneficiado un instructivo donde se proyecte el importe de la contribución de mejora por el sistema de plusvalía a su cargo y los datos que sirvieron de base para su cálculo;
+
+III.- De la junta de vecinos se dejará constancia de la asistencia, y de los cuestionamientos que realicen los beneficiados que comparecieron, así como de las respuestas que efectuaron los funcionarios que la presidieron.
+
+En el supuesto de que el predio beneficiado con la obra se encuentre baldío o abandonado y se desconozca el domicilio del propietario, se deberá levantar acta circunstanciada en la que se haga constar tales hechos y las notificaciones se harán por edictos que se publicarán por una sola vez, en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación en el lugar en que vaya a realizarse la obra y contendrá un resumen de los actos que se notifican.
+
+Se entiende que el domicilio de una persona se ignora, cuando no lo hubiere manifestado a la Oficina Catastral Municipal, y ésta haya informado en ese sentido al solicitársele dicho dato.
+
+Antes de concluir la obra, los beneficiados podrán solicitar por escrito correcciones de la proyección del importe de la contribución a su cargo, demostrando los elementos o circunstancias en que se basen. A dicha solicitud el organismo de urbanización responsable de la derrama de la obra, deberá dar respuesta en un plazo no mayor de quince días hábiles.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 62.
 
-El acuerdo expropiatorio surtirá efectos, no obstante que los predios expropiados sean objeto de arrendamiento o de otro contrato traslativo de uso.
+El procedimiento a seguir para las obras que se lleven a cabo por el sistema de plusvalía será el siguiente:
 
-#### SECCION SEGUNDA. DE LAS EXPROPIACIONES REQUERIDAS EN EL SISTEMA IMPOSITIVO
+I.- Se realizarán los estudios técnicos y los proyectos ejecutivos para llevar a cabo la ejecución de la obra, sometiéndose a las autorizaciones que correspondan;
+
+II.- En caso de ser necesario, se deberá liberar la zona de trabajo de la obra;
+
+III.- Se podrá iniciar la ejecución de la obra;
+
+IV.- Realizar los estudios catastrales de la zona general de beneficio de la obra, definir el padrón de beneficiados y determinar la derrama posible o estimada;
+
+V.- Publicar la declaratoria a que se refiere el artículo 58 de esta Ley;
+
+VI.- Llevar a cabo el procedimiento de participación ciudadana de acuerdo a lo establecido en el artículo 61 de esta Ley;
+
+VII.- Concluir la ejecución de la obra, realizar el o los finiquitos correspondientes y determinar los montos finales de la derrama;
+
+VIII.- Notificar formalmente la contribución de mejora por el sistema de plusvalía a cada uno de los beneficiados, o en los términos del procedimiento previsto en el artículo 61, cuando se desconozca el domicilio del propietario.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
+#### SECCION SEGUNDA. DE LAS EXPROPIACIONES Y LIBERACION DEL DERECHO DE VIA REQUERIDA EN EL SISTEMA DE PLUSVALIA
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 63.
 
-El procedimiento judicial de indemnización no impedirá que se realice la demolición de las construcciones y el acondicionamiento de los bienes expropiados, cuando la autoridad expropiante haya tomado posesión de los mismos.
+Al ser aprobada una obra cuya ejecución requiera la expropiación de bienes de propiedad privada, la Junta de Urbanización del Estado o la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, deberán solicitar al Ejecutivo del Estado la expropiación, quien determinará su procedencia y observará el procedimiento en los términos de la Ley de la materia..
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 64.
 
-Operará la compensación del crédito fiscal originado por el Impuesto de Plusvalía, hasta la coincidencia con el crédito a favor del causante, por concepto de indemnización por expropiación parcial.
+Las obras públicas que se realizan bajo el sistema de plusvalía son de utilidad pública, y el acuerdo expropiatorio que las declare como tal, se deberá limitar a los predios o fracciones de estas, que sean indispensables para la ejecución de las obras, según el proyecto ejecutivo de las mismas.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 65.
 
-Se considerarán bases técnicas generales, a fin de lograr una derrama equitativa del impuesto de plusvalía sobre los inmuebles en la zona de beneficio efectivo:
+En la indemnización por expropiación o importe por la liberación convencional del derecho de vía, operará la compensación del crédito fiscal originado por la contribución de mejora por el sistema de plusvalía, hasta la coincidencia con el crédito a favor del causante.
 
-I.- La superficie de cada predio;
-
-II.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 1984)
-
-III.- La distancia del predio, al foco o eje de la obra;
-
-IV.- La influencia de la obra sobre su rentabilidad y valor comercial; y
-
-V.- Todos los demás datos determinantes en el incremento de valor y mejoría de la propiedad objeto del impuesto.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 66.
 
-Cuando se trate de obras de rectificación, ampliación, prolongación y mejoramiento de las vías públicas ya existentes, por regla general, el impuesto se calculará por unidad de metro cuadrado de superficie de los predios sin tomar en consideración las construcciones que puedan existir sobre ellos, y será tanto más elevado, en la medida en que sea menor la distancia del predio de que se trate, al eje de la obra.
+La liberación del derecho de vía mediante convenio pactado con el propietario afectado, será de acuerdo al valor que determine la Comisión Estatal de Avalúos.
 
-#### SECCION TERCERA. NORMAS PARA LA INDIVIDUALIZACION DEL IMPUESTO DE PLUSVALIA
+> <small>(REFORMADA SU DENOMINACION Y REUBICADA, P.O. 28 DE FEBRERO DE 2003)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+#### SECCION TERCERA. INDIVIDUALIZACION DE LA CONTRIBUCION DE MEJORA POR EL SISTEMA DE PLUSVALIA
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 67.
 
-En los casos a que se refiere el Artículo anterior, la distancia, para los fines del cálculo del Impuesto se medirá del centro de gravedad de cada predio, al eje de la vía pública de que se trate. En los predios que tengan frente a la misma, la medición se hará sobre la perpendicular del eje. En los demás casos, la medición se hará siguiendo la línea más corta sobre los ejes de las calles que conduzcan a la vía pública.
+Para lograr una derrama proporcional y equitativa de las contribuciones de mejora que se generen por obras ejecutadas bajo el sistema de plusvalía sobre los inmuebles ubicados en la zona general de beneficio, se deberá considerar:
+
+I.- La superficie beneficiada de cada predio, por unidad de metro cuadrado;
+
+II.- Las secciones en que se divida la zona general de beneficio, según los distintos grados del mismo;
+
+III.- La distancia del predio al paramento de la obra, considerando que el beneficio será tanto más elevado, en la medida en que sea menor la distancia del predio de que se trate, al paramento de la obra;
+
+IV.- Las características técnicas y costo de la obra pública;
+
+V.- Los deméritos que afecten a los predios ubicados en la zona general de beneficio.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 68.
 
-Para determinar la cantidad líquida, que por imposición corresponda a cada predio, deberá multiplicarse su superficie por la cuota de imposición que por metro cuadrado corresponda, según la diversa zonificación en función de las normas que señala esta Ley.
+La zona general de beneficio de las obras realizadas bajo el sistema de plusvalía tendrán una profundidad y se seccionarán en los términos siguientes:
+
+I.- Para las obras indicadas en las fracciones I, II y III del artículo 3:
+
+a).- Vialidades Urbanas:
+
+1.- Libramientos con flujo libre denominados también vialidades primarias, tendrán una zona general de beneficio de mil quinientos metros lineales de profundidad, contados a partir del paramento de la misma, la cual se dividirá en quince secciones;
+
+2.- Arterias principales y arterias con flujo ininterrumpido también denominadas vías principales, excepto en semáforos y pasos peatonales, tendrán una zona general de beneficio de doscientos metros lineales de profundidad, contados a partir del paramento de la misma, la cual se dividirá en quince secciones;
+
+3.- Vialidades secundarias con flujo interrumpido también denominadas colectoras o distribuidoras, tendrán una zona general de beneficio de ciento cincuenta metros lineales de profundidad, contados a partir del paramento de la misma, la cual se dividirá en quince secciones;
+
+4.- Vialidades terciarias o locales, tendrán una zona general de beneficio de cincuenta metros lineales de profundidad, contados a partir del paramento de la misma, la cual se dividirá en cuatro secciones.
+
+b).- Vialidades Regionales: Las que se ejecuten y que puedan ser utilizadas por los inmuebles que estén ubicados en su zona general de beneficio, se podrán derramar siempre y cuando se lleve a cabo un programa de desarrollo urbano de la zona y tenga los accesos controlados necesarios para que hagan posible su uso y disfrute. Estas obras tendrán una zona general de beneficio de mil quinientos metros lineales de profundidad contados a partir del paramento de la misma, la cual se dividirá en quince secciones;
+
+II.- Las obras contenidas en las fracciones IV y VI del artículo 3, solo se podrán derramar a los predios que tengan acceso directo a la obra y colindando con las mismas, teniendo una zona general de beneficio de cincuenta metros lineales de profundidad contados a partir del paramento de la misma, la cual se dividirá en una sola sección;
+
+III.- La zona general de beneficio de las obras contenidas en las fracciones V y VII del artículo 3, será el área de aportación o de cobertura con que se proyecten;
+
+IV.- Las obras contenidas en la fracción VIII del artículo 3 tendrán secciones de beneficio radial, cuyo centro será el mismo centro geométrico físico de la obra, para determinar la zona general de beneficio y sus secciones, será necesario realizar estudios para definir la influencia sobre su rentabilidad y valor comercial;
+
+V.- Las obras de reposición y mejoramiento de las vías públicas existentes, cuando haya concluido su vida útil en los términos del artículo 10 de esta Ley, tendrán las secciones que corresponda a la clasificación comprendida en las fracciones que anteceden. Los trabajos de mantenimiento en ningún caso podrán ser considerados como materia de esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 69.
 
-Respecto de los predios de superficie irregular afectos al Impuesto de Plusvalía por la rectificación, ampliación, prolongación y mejoramiento de las vías públicas ya existentes, la Junta de Urbanización del Estado, y en su caso, la Secretaría de Asentamientos Humanos y Obras Públicas, deberá tomar en consideración como base técnica de sus estudios, la operación de homogeneización que se hará tomando en cuenta los ancones, al fondo excedentes a veinticinco metros, la estrechez de los frentes, la desproporción entre el frente y el fondo, los ángulos de apertura inferior y superior a noventa grados, y en general, todas las circunstancias que según las normas urbanísticas sean aconsejables para deducir una superficie irregular a la superficie efectiva que deberá afectar al Impuesto de Plusvalía.
+La cuota para cada sección de beneficio se calculará de la siguiente manera:
+
+I.- La primera sección de beneficio será la colindante con el paramento de la obra y la decimaquinta será la más alejada;
+
+II.- El importe derramable de la obra a que se refiere la fracción III del artículo 58, se deberá dividir entre una constante de 120 para obtener un factor;
+
+III.- El factor resultante se aplicará en los siguientes términos:
+
+A efecto de obtener el importe de la primera sección se deberá multiplicar el factor por quince; para la segunda sección se deberá multiplicar el factor por catorce, y así sucesivamente hasta llegar a la sección quince, la cual se deberá multiplicar por uno.
+
+IV.- El importe por sección provisional se dividirá entre la superficie geométrica total que le corresponda a la sección;
+
+V.- El resultado corresponderá a una cuota provisional inicial para derrama de la sección;
+
+VI.- La cuota provisional se multiplicará por la superficie real beneficiada de cada sección;
+
+VII.- El importe provisional de la suma de derrama de todas las secciones, si no es igual al importe derramable, la diferencia se aplicará con el mismo procedimiento, hasta que no exista diferencia positiva;
+
+VIII.- Todas las cuotas provisionales que resulten de aplicar el método anterior, se sumarán por su correspondiente sección, para determinar la cuota definitiva.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 70.
 
-En los predios con los frentes a dos vías públicas opuestas, se harán dos homogeneizaciones dividiéndolos al efecto por una línea media entre ambos frentes.
+Para determinar la cantidad líquida que corresponda a cada predio, deberá multiplicarse su superficie beneficiada por la cuota o cuotas que por metro cuadrado corresponda, según las diversas secciones de beneficio que se establezcan en el artículo 69 de esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 71.
 
-En las manzanas que por pertenecer a un mismo propietario constituyen un mismo predio, la homogeneización se realizará dividiéndolas en cuatro fracciones mediante el trazo de una línea media entre los frentes opuestos.
+Se consideran deméritos que disminuyen el grado de beneficio que recibe un predio enclavado en la zona general de beneficio:
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1986)</small>
+I.- Que el inmueble beneficiado no tenga acceso directo a la obra por existir taludes o desniveles mayores a tres metros en todo su frente, que origine la necesidad de hacer trabajos para lograr el acceso. En este supuesto el predio tendrá un demérito del cincuenta porciento;
 
-#### SECCION CUARTA. BASES PARA EL PAGO Y RECAUDACION DEL IMPUESTO DE PLUSVALIA
+II.- Que el inmueble beneficiado tenga pendientes topográficas que hagan difícil su desarrollo. En este caso el predio tendrá los siguientes deméritos:
+
+a).- El diez porciento para los que presenten pendientes entre el quince y el treinta y cinco porciento;
+
+b).- El treinta porciento para los que presenten pendientes superiores al treinta y cinco porciento.
+
+III.- Que el inmueble haya sido afectado para la liberación del derecho de vía de la obra y resulte una superficie no afectada con una profundidad menor a veinte metros. En este supuesto el predio tendrá un demérito del ochenta porciento;
+
+IV.- Que el inmueble beneficiado tenga un uso habitacional y tenga una superficie no mayor de seiscientos metros cuadrados. En este caso el demérito será del cincuenta porciento;
+
+V.- Cuando exista entre el inmueble y el paramento de la obra obstáculos físicos, tales como derecho de vía del ferrocarril, drenes, canales, arroyos u otros conceptos similares, el demérito será del veinticinco por ciento.
+
+Los deméritos aplicables a los predios serán determinados al momento de elaborarse el padrón de beneficiados con la obra, previsto por la fracción II del artículo 56 de esta Ley, aplicándose a la superficie beneficiada de los inmuebles en la proporción antes establecida, para que sean tomados en cuenta en el estudio de derrama; logrando con ello, su incorporación en la conformación de las cuotas de las secciones de beneficio.
+
+No se aplicarán los deméritos del presente artículo, cuando se trate de obras en donde el cálculo de las contribuciones de mejoras se realice de conformidad a lo dispuesto en el artículo 94 de esta Ley.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADA, P.O. 28 DE FEBRERO DE 2003)</small>
+
+#### SECCION CUARTA. BASES PARA EL PAGO Y RECAUDACION DE LA CONTRIBUCION DE MEJORA POR EL SISTEMA DE PLUSVALIA
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 72.
 
-A fin de lograr la máxima equidad y proporcionalidad en la derrama del Impuesto en los casos de los Artículos 66 al 71, los predios en esquina sufrirán incremento en la superficie homogénea que sirva de base al cálculo del Impuesto, en un treinta por ciento, en un veinte por ciento o en un diez por ciento, según, que la esquina sea considerada como comercial de primer orden, comercial de segundo orden, o no comercial.
+La operación de cálculo para la individualización de la contribución, le corresponderá hacerla a los organismos de urbanización previstos en el artículo 16 de esta Ley.
 
-Cuando se trate de obras de electrificación normadas por la Fracción V del Artículo 3o. de esta Ley, el Impuesto se calculará en base al número de lotes beneficiados, sin tomar en consideración las construcciones que puedan existir sobre ellos, o cualquier otra circunstancia.
+Cuando las áreas de las zonas generales de beneficio de dos o más obras, coincidan total o parcialmente, tanto en lo físico como en el plazo de recuperación, tendrá preferencia en el cobro el crédito que se finque primero; la siguiente podrá ser recuperada una vez que se cubra el primer crédito fiscal fincado. En este supuesto no transcurrirá el plazo de caducidad o prescripción del segundo crédito fiscal. De igual forma respecto de este último crédito no se generarán recargos hasta que se empiece a cubrir el mismo.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 73.
 
-La operación de cálculo para la individualización del Impuesto, le corresponderá hacerla con base en la Ley de Plusvalía de que se trate y en las normas generales de la presente Ley, a la Junta de Urbanización del Estado, o en su caso, a la Secretaría de Asentamientos Humanos y Obras Públicas.
+La Junta de Urbanización del Estado, una vez individualizada la contribución de mejora, por conducto del Subrecaudador de Rentas del Estado adscrito al organismo, notificará personalmente al causante la cuantificación y liquidación de la contribución mediante un instructivo en el que se exprese:
+
+I.- Nombre del causante;
+
+II.- Dirección del causante;
+
+III.- Clave catastral del predio, ubicación o domicilio, número de lote o fracción y manzana del predio;
+
+IV.- Superficie beneficiada por cada sección según sea el caso;
+
+V.- Cuotas por metro cuadrado por cada sección de beneficio;
+
+VI.- Importe líquido total de la contribución;
+
+VII.- El importe mensual y el número de mensualidades en que deberá de cubrirse la contribución.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 74.
 
-Una vez individualizado el Impuesto de Plusvalía correspondiente, la Junta de Urbanización del Estado, o en su caso la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, por conducto de la Secretaría de Finanzas, notificará personalmente al causante la cuantificación y liquidación del Impuesto mediante un instructivo en el que se exprese:
+Si al terminarse las obras resultan excedentes en la recaudación de la derrama, con el sobrante se hará a cada causante una bonificación proporcional al monto de la contribución que haya cubierto.
 
-a).- Nombre del propietario;
+Esta bonificación se comunicará al causante personalmente para que en un término de quince días naturales, tramite la devolución correspondiente. Si el causante no realiza este trámite dentro del término antes mencionado, las bonificaciones respectivas se aplicarán a obras públicas proyectadas por el Estado, de beneficio común.
 
-b).- Ubicación del predio;.
-
-c).- Superficie real;
-
-d).- Superficie afectada al Impuesto;
-
-e).- Distancia al eje de la vía pública;
-
-f).- Cuota de imposición por metro cuadrado;
-
-g).- Importe líquido total del impuesto; y
-
-h).- Importe de cada pago mensual.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 75.
 
-El Impuesto será cubierto en el número de exhibiciones mensuales que señale la Ley que establezca el Impuesto de Plusvalía en cada caso, de acuerdo con las bases generales de la presente Ley, y el primer pago mensual deberá efectuarse dentro de los quince días siguientes al de la notificación al causante del instructivo a que se refiere el Artículo anterior.
+Los causantes que voluntariamente renuncien a los plazos fijados en su liquidación para el pago del Impuesto, cubriéndolo de contado, tendrán derecho a una bonificación equivalente a la parte proporcional que pudiera corresponderles en el financiamiento de la obra.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 76.
 
-Si al terminarse las obras resultan excedentes en la recaudación del Impuesto, con el sobrante, se hará a cada causante una bonificación proporcional al monto del impuesto que haya cubierto.
+Cuando no se pague la contribución por plusvalía dentro del término o en la fecha que sea exigible, se hará efectivo por medio del procedimiento administrativo de ejecución establecido en el Código Fiscal del Estado de Baja California, causándose los recargos correspondientes en términos de las disposiciones de dicho Código.
 
-Esta bonificación se comunicará al causante para que en un término de quince días, tramite la devolución correspondiente. Si el causante no realiza este trámite dentro del término antes mencionado, las bonificaciones respectivas se aplicarán a obras públicas proyectadas por el Estado, de beneficio común.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 77.
 
-Los causantes que voluntariamente renuncien a los plazos fijados en su liquidación para el pago del Impuesto, cubriéndolo de contado, tendrán derecho a una bonificación equivalente a la parte proporcional que pudiera corresponderles en el financiamiento de la obra.
+Los causantes podrán pagar voluntariamente en especie el crédito determinado en su contra.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 78.
 
-Cuando no se pague el Impuesto de Plusvalía dentro del término, o en la fecha que sea exigible, se hará efectivo por medio del procedimiento administrativo de ejecución establecido en el Código Fiscal del Estado, causándose los recargos correspondientes en términos de dicho Código.
+Los deudores de las contribuciones de mejora por el sistema de plusvalía podrán impugnar el crédito fincado en los términos de los recursos previstos por el Código Fiscal del Estado de Baja California.
 
 ### CAPITULO CUARTO. SISTEMA DE COOPERACION
 
 #### SECCION PRIMERA
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 79.
 
-Las obras de urbanización a que se refiere el Artículo 3o. de esta Ley, que por su naturaleza no ameriten que se lleven a cabo bajo el sistema de imposición, en virtud de no ser de beneficio general para los habitantes de las ciudades o no abarquen una extensa zona de gran influencia de beneficio en las mismas, se realizarán por cooperación y estarán a cargo de los Consejos de Urbanización Municipales.
+Las obras de urbanización a que se refiere el artículo 3 de esta Ley, que por su naturaleza no ameriten que se lleven a cabo bajo el sistema de plusvalía, en virtud de no ser de beneficio general para los habitantes de las ciudades, o no abarquen una extensa zona de gran influencia de beneficio en las mismas, se realizarán por cooperación y estarán a cargo de los Consejos de Urbanización Municipales.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
@@ -899,7 +1205,7 @@ Las designaciones de integrantes de la Junta de Urbanización del Estado y de lo
 
 ###### ARTICULO SEXTO.
 
-Los financiamientos contratados durante la vigencia de la Ley de Planeación y Urbanización del Estado, que se abroga, a nombre de la Junta de Planeación y Urbanización del Estado se consideran constituídos a nombre de la Junta de Urbanización del Estado, subsistiendo los avales que el Gobierno del Estado haya otorgado en relación con dichos financiamientos. El Ejecutivo del Estado pondrá en conocimiento de este particular a las Instituciones Financieras acreedoras.
+Los financiamientos contratados durante la vigencia de la Ley de Planeación y Urbanización del Estado, que se abroga, a nombre de la Junta de Planeación y Urbanización del Estado se consideran constituidos a nombre de la Junta de Urbanización del Estado, subsistiendo los avales que el Gobierno del Estado haya otorgado en relación con dichos financiamientos. El Ejecutivo del Estado pondrá en conocimiento de este particular a las Instituciones Financieras acreedoras.
 
 ###### ARTICULO SEPTIMO.
 
@@ -960,3 +1266,9 @@ El presente Decreto entrará en vigor, el día siguiente al de su publicación e
 P.O. 27 DE DICIEMBRE DE 1996.
 
 El presente Decreto entrará en vigor el siguiente día al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE FEBRERO DE 2003.
+
+###### ARTÍCULO UNICO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Baja California.
