@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-131-de-division-territorial-del-estado-de-23614"
 country: "mx"
 rank: "ley"
 publication_date: "1988-07-14"
-last_updated: "1996-11-30"
+last_updated: "1997-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE DIVISION TERRITORIAL DEL ESTADO DE VERACRUZ-LLAVE, PARA LA ELECCION DEL PODER LEGISLATIVO DEL MISMO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ENERO DE 1997.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 14 de julio de 1988.
 
@@ -49,9 +49,11 @@ Esta Ley tiene por objeto, determinar el número y ámbito espacial de la demarc
 
 Para los efectos de esta Ley, se entiende por Distrito Electoral Uninominal, la demarcación territorial en que se divide el Estado de Veracruz, para la recepción del sufragio, en las elecciones de diputados por el principio de mayoría relativa, con base en la cual se elaborarán las listas nominales de electores y por Circunscripción Plurinominal, se entiende el territorio de toda la Entidad, para la elección por el principio de representación proporcional.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 3°.
 
-El Estado de Veracruz se divide en veinticuatro distritos electorales uninominales. La Jurisdicción y Cabecera de cada uno de dichos Distritos, será la siguiente:
+El Estado de Veracruz se divide en veinticuatro distritos electorales uninominales, la jurisdicción y cabecera de cada uno de dichos distritos, será la siguiente:
 
 > <small>(REFORMADO, G.O. 1 DE ABRIL DE 1989)</small>
 
@@ -563,6 +565,8 @@ Sayula de Alemán
 
 Soconusco
 
+> <small>(REFORMADO, G.O. 30 DE ENERO DE 1997)</small>
+
 VIGESIMO SEGUNDO DISTRITO
 
 CABECERA: COSOLEACAQUE
@@ -586,6 +590,8 @@ Pajapan
 Soteapan
 
 Texistepec
+
+Uxpanapa
 
 Zaragoza
 
@@ -656,3 +662,13 @@ El Concejo de Administración Municipal, realizará sus funciones en el periodo 
 ###### ARTICULO TERCERO.
 
 Se derogan cualesquiera disposiciones que contravengan el presente DECRETO.
+
+G.O. 30 DE ENERO DE 1997.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" Organo del Gobierno del Estado.
+
+Artículo Segundo. El Concejo de Administración Municipal, iniciará sus funciones una vez que sus integrantes tomen la protesta de ley, y concluirá su periodo el 31 de diciembre de mil novecientos noventa y siete.
+
+Artículo Tercero. La cabecera municipal se determinará antes del nombramiento del Concejo municipal, o simultáneamente con él.
+
+Artículo Cuarto. Se derogan cualesquiera disposiciones que contravengan el presente Decreto.
