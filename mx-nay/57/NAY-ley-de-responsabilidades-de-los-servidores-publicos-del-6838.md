@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-responsabilidades-de-los-servidores-publicos-del-6838"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-01"
-last_updated: "1998-05-06"
+last_updated: "2002-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2002.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 1 de Febrero de 1984.
 
@@ -63,23 +63,35 @@ VI.- El Registro patrimonial de los servidores públicos.
 
 Son sujetos de esta Ley, los servidores públicos mencionados en el artículo 122 Constitucional y todos aquellos que manejen o apliquen recursos económicos del Estado.
 
-###### ARTICULO 3o.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
-Las Autoridades competentes para aplicar la presente Ley, serán:
+###### Artículo 3o.
 
-I.- El Honorable Congreso del Estado;
+Las Autoridades competentes para aplicar la presente ley, serán:
 
-II.- El Poder Ejecutivo, a través de:
+I. El Honorable Congreso del Estado;
 
-a) El Gobernador Constitucional del Estado
+II. El Organo de Fiscalización Superior de la Entidad;
 
-b) Procurador General de Justicia; y
+III. El Poder Ejecutivo por sí y a través de sus dependencias.
 
-c) La Secretaría de la Contraloría General de la Entidad.
+IV. La Secretaría de la Contraloría General de la Entidad.
 
-III.- El Tribunal Superior de Justicia; y
+V. El Tribunal Superior de Justicia;
 
-IV.- Los demás Organos Jurisdiccionales que determine.
+VI. El Consejo de la Judicatura;
+
+VII. Los Tribunales de Trabajo;
+
+VIII. Los ayuntamientos;
+
+IX. Las Contralorías Municipales; y
+
+X. Los entes públicos;
+
+XI. Los demás órganos e instituciones que determinen las leyes.
+
+Para efectos de la fracción IX de este artículo quedan comprendidos como entes públicos, además de los señalados: La Universidad Autónoma de Nayarit, el Consejo Estatal Electoral, el Tribunal Estatal Electoral, la Comisión Estatal de Derechos Humanos, los órganos jurisdiccionales de competencia local, y todos los Organismos Públicos constitucionalmente autónomos para el desempeño de sus funciones.
 
 ###### ARTICULO 4o.
 
@@ -613,11 +625,11 @@ Si el servidor público presunto responsable confesare su responsabilidad, se pr
 
 ## TITULO CUARTO
 
-### CAPITULO UNICO
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MAYO DE 2002)</small>
 
-REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
+### CAPITULO UNICO. DEL REGISTRO PATRIMONIAL DE LOS SERVIDORES PÚBLICOS
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 81.
 
@@ -631,55 +643,103 @@ a) En tres meses si el beneficio obtenido o el daño causado no excede de diez v
 
 b) En los demás casos, en tres años.
 
-###### ARTICULO 83.
+###### Artículo 83.
 
-La Secretaría de la Contraloría General manejará el Registro, Control y Custodia de las declaraciones sobre la situación patrimonial de los Servidores Públicos, de conformidad con esta Ley y demás disposiciones aplicables.
+Son autoridades competentes para efectuar la recepción, registro, control, revisión y fiscalización de las declaraciones patrimoniales, los siguientes órganos:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 1984)</small>
+I. En el Poder Legislativo, el Órgano de Fiscalización Superior y la Comisión de Hacienda y Cuenta Pública.
 
-###### ARTICULO 84.
+II. En el Poder Judicial, el Consejo de la Judicatura.
 
-La declaración de situación patrimonial se presentará anualmente, ante la Secretaría de la Contraloría General del Estado, y tienen obligación de hacerlo bajo Protesta de decir verdad:
+III. En el Poder Ejecutivo, la Secretaría de la Contraloría General.
 
-I.- Del Congreso del Estado: Los Diputados, Oficial Mayor y Contador Mayor de Hacienda.
+IV. En los ayuntamientos, de los servidores públicos electos popularmente, el Órgano de Fiscalización Superior, del resto de los servidores públicos municipales, la Contraloría Municipal.
 
-II.- Del Poder Ejecutivo Estatal: Todos los funcionarios desde nivel de jefes de oficina hasta el Gobernador del Estado. En el caso de la Procuraduría General de Justicia, desde los Agentes del Ministerio Público hasta el Procurador General.
+V. En los demás entes públicos, el Órgano de Fiscalización Superior.
 
-III.- En la administración pública paraestatal: directores, gerentes, subdirectores, subgerentes y servidores públicos equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria y sociedades y asociaciones asimiladas y fideicomisos públicos.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
-IV.- En el Poder Judicial del Estado: Magistrados, Jueces de Primera Instancia, Jueces Menores y Secretarios Judiciales.
+###### Artículo 84.
 
-V.- En los Tribunales del Trabajo: Los miembros de las Juntas y Secretarios.
+Tienen la obligación de presentar la declaración de situación patrimonial, en los términos establecidos por la presente ley y bajo protesta de decir verdad:
 
-VI.- Los demás servidores públicos que determine el Procurador General de Justicia del Estado, mediante disposiciones generales debidamente motivadas y fundadas.
+I. Del Poder Legislativo.- Los diputados, el Secretario General, el Oficial Mayor, directores y servidores públicos hasta nivel de jefe de departamento; en el Organo de Fiscalización Superior, el Auditor General y todo el personal de confianza.
 
-###### ARTICULO 85.
+El Auditor General y los auditores especiales del Organo de Fiscalización Superior de la Entidad presentarán sus declaraciones patrimoniales a la Comisión de Hacienda y Cuenta Pública del Congreso del Estado, en los plazos y términos que establece esta ley.
 
-La declaración de situación patrimonial deberá presentarse, dentro de los siguientes plazos:
+II. Del Poder Ejecutivo:
 
-I.- Sesenta días naturales siguientes a la toma de posesión.
+a)En la administración pública estatal centralizada: todos los servidores públicos desde nivel de jefes de departamento hasta el Gobernador del Estado; en la Secretaría de la Contraloría, el Secretario y el demás personal de confianza; en la Procuraduría General de Justicia, además de los servidores públicos señalados, los agentes del Ministerio Público y los secretarios de éstos, los policías judiciales y los peritos;
 
-II.- Treinta días naturales siguientes a la conclusión del encargo; y
+b)En la administración pública estatal paraestatal, que comprende los organismos descentralizados, empresas de participación estatal, fondos, fideicomisos y sociedades o asociaciones asimiladas: directores, gerentes, subdirectores, subgerentes y todos los servidores públicos hasta el equivalente al nivel de jefes de departamento de la administración pública estatal centralizada.
 
-III.- Durante el mes de Octubre de cada año, deberá presentarse la declaración de situación patrimonial.
+III. En el Poder Judicial: magistrados, jueces, secretarios judiciales, ejecutores y notificadores de cualquier categoría o designación, y desde los jefes de departamento hasta los titulares de sus dependencias.
 
-Si dentro de los plazos referidos no se hubiere presentado la declaración correspondiente, sin causa justificada, la autoridad competente dictará las medidas del caso.
+IV. En los demás Organos Jurisdiccionales: Los miembros de las juntas, los magistrados, jueces, secretarios, actuarios y notificadores de cualquier categoría o designación, y desde los jefes de departamento hasta los titulares de sus dependencias.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1984)</small>
+V. En los ayuntamientos: Presidente, Síndico y Regidores, los titulares de las dependencias municipales y todos los demás servidores públicos desde el nivel de jefes de departamento, incluyendo auditores, inspectores y comandantes de la Policía Municipal.
 
-###### ARTICULO 86.
+VI. En los entes públicos no comprendidos en las fracciones anteriores: todos los servidores públicos desde el equivalente al nivel de jefes de departamento de la administración pública estatal centralizada hasta sus titulares.
 
-La Secretaría de la Contraloría General del Estado, expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial o de modificación en su caso, así como los manuales o instructivos que indicarán lo que es obligatorio declarar.
+Esta misma obligación la tendrán los servidores públicos que tengan a su cargo, una o más de las funciones siguientes:
 
-###### ARTICULO 87.
+a) Dirección, supervisión, inspección, auditoría, seguridad, vigilancia, custodia, fiscalización, procuración y administración de justicia y readaptación social;
 
-En la declaración inicial y final se manifestarán los bienes inmuebles, con la fecha y valor de adquisición.
+b) Representación legal Titular o delegada para realizar actos de dominio, de administración general o de ejercicio presupuestal;
 
-En las declaraciones anuales se manifestarán las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
+c) Manejo de fondos estatales o municipales;
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1984)</small>
+d) Custodia de bienes y valores;
 
-Tratándose de bienes muebles, la Secretaría de la Contraloría General del Estado, decidirá mediante acuerdo general, las características que deba contener la declaración.
+e) Atención o resolución de trámites directos con el público para efectuar pagos de cualquier índole para obtener licencias o autorizaciones;
+
+f) Adquisición o comercialización de bienes y servicios; y
+
+g) Efectuar pagos de cualquier índole.
+
+Los titulares de los Poderes, de los ayuntamientos, de los organismos públicos descentralizados estatales o municipales, las empresas de participación estatal o municipal o de fideicomisos públicos, y de los demás entes públicos, precisarán durante el mes de febrero de cada año, cuales son los servidores públicos obligados a presentar su declaración patrimonial por tener a cargo una o más de las funciones antes señaladas.
+
+Asimismo deberán presentar su declaración patrimonial los demás servidores públicos del Poder Ejecutivo que determinen el Secretario de la Contraloría y el Procurador General de Justicia del Estado, mediante disposiciones generales debidamente motivadas y fundadas.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
+
+###### Artículo 85.
+
+La declaración patrimonial deberá presentarse en los siguientes plazos:
+
+I. La declaración inicial: dentro de los sesenta días naturales siguientes a la toma de posesión;
+
+II. La declaración de conclusión del encargo: dentro de los treinta días naturales siguientes a la conclusión del cargo; y
+
+III. La declaración de modificación patrimonial: durante el mes de octubre de cada año.
+
+Si transcurridos los plazos a que hacen referencia las fracciones I y III no se hubiese presentado la su declaración patrimonial correspondiente, sin causa justificada, se aplicará al servidor público por la autoridad competente, previa instancia sumaria que conceda garantía de audiencia al omiso o extemporáneo, una sanción pecuniaria consistente de quince días a dos meses del total del sueldo base presupuestal que tenga asignado, previniéndosele en el primer caso, que de no rendir su declaración patrimonial dentro de los veinte días naturales siguientes a la fecha de notificación del citatorio, será separado de su cargo, previa notificación que de este hecho se haga al superior jerárquico o a los titulares de las dependencias o entidades, para que proceda en los términos de la ley.
+
+Para el caso de los diputados, servidores públicos electos popularmente en los ayuntamientos y los de los entes públicos, el Órgano de Fiscalización Superior, enviará la notificación correspondiente al H. Congreso del Estado o al titular del ente público que corresponda para que se proceda en los términos de las leyes aplicables.
+
+Para el caso de que se omita sin causa justificada la declaración patrimonial contemplada en la fracción II, las autoridades competentes para efectos de este Título Cuarto, procederán a la investigación del patrimonio del infractor en los términos de esta ley, sin perjuicio de aplicar una sanción pecuniaria consistente en multa de quince días a seis meses del último sueldo base presupuestal percibido por el servidor público e inhabilitarlo por un período de uno a seis años. Cuando la presentación de la declaración patrimonial por conclusión sea extemporánea se procederá a aplicar sólo la sanción pecuniaria.
+
+Las sanciones que se impongan con motivo al incumplimiento de la presentación de las declaraciones patrimoniales en los plazos que en este artículo se establecen, además de estar debidamente motivadas y fundadas, se determinarán de conformidad a lo establecido por el artículo 64 de esta ley.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
+
+###### Artículo 86.
+
+La Secretaría de la Contraloría General del Estado y el Organo de Fiscalización Superior, de manera coordinada, expedirán las normas y los formatos bajo los cuales los servidores públicos deberán presentar su declaración de situación patrimonial o de modificación en su caso, los manuales o instructivos que indicarán el contenido y las características de lo que es obligatorio declarar, con relación a los bienes muebles e inmuebles.
+
+En todo caso, en la declaración patrimonial inicial y final de bienes se señalarán los bienes inmuebles, con la fecha y valor de adquisición; en las declaraciones patrimoniales anuales se señalarán sólo las modificaciones al patrimonio, con fecha y valor de adquisición, debiéndose indicar el medio por el que se hizo la adquisición.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
+
+###### Artículo 87.
+
+Las autoridades competentes para efectos de este título, establecerán los procedimientos adecuados a fin de realizar el análisis contable-financieros de las manifestaciones de bienes presentadas por los servidores públicos, a efecto de determinar la veracidad de su contenido y existencia de un probable incremento en su patrimonio. Si del análisis realizado resultaren irregularidades, iniciará el procedimiento administrativo correspondiente.
+
+Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, las autoridades competentes, podrán ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando estos actos requieran orden de autoridad judicial, aquellas formularán ante ésta, la solicitud correspondiente.
+
+En todo caso, se deberá dar cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquellos consten, para que en un plazo de quince días contados a partir del día siguiente en que sea notificado, exponga ante la autoridad que lo notifica lo que a su derecho convenga y ésta emita su resolución dentro de los quince días siguientes.
+
+> <small>N. DE E. EL PRESENTE ARTICULO NO FUE DEROGADO EXPRESAMENTE EN EL DECRETO DE REFORMAS, P.O. 15 DE MAYO DE 2002.</small>
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 1998)</small>
 
@@ -691,41 +751,59 @@ La Secretaría de la Contraloría General, podrá utilizar la información conte
 
 Asimismo, los Ayuntamientos, proveerán a la mencionada dependencia la información patrimonial referente a los servidores públicos de los cuerpos policiales municipales, conforme a los Acuerdos de Coordinación respectivos.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
-###### ARTICULO 88.
+###### Artículo 88.
 
-La Secretaría de la Contraloría General en función de lo dispuesto por la fracción XIII del Artículo 26-A de la Ley Orgánica del Poder Ejecutivo, tendrá una coordinación estrecha con la Procuraduría General de Justicia.
+El servidor público a quien se practique visita de investigación o auditoría podrá interponer el recurso de inconformidad ante la autoridad que emitió el acto contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días hábiles siguientes a la conclusión de aquellas, en el que se expresarán los motivos de la inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los quince días hábiles siguientes a la presentación del recurso.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1984)</small>
+Todas las actas que se levanten con motivo de la visita deberán ir firmadas por el servidor público y dos testigos que para el efecto designe. Si el servidor público o los testigos se negaren a firmar, el visitador lo hará constar, sin que estas circunstancias afecten el valor probatorio que, en su caso, posea dicho documento.
 
-###### ARTICULO 89.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
-Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera obtener un servidor público, la Secretaría de la Contraloría General del Estado, podrá ordenar fundando y motivando su acuerdo, visitas de revisión e inspección y de auditorías, auxiliándose de las autoridades competentes y en su caso pedir la intervención judicial correspondiente.
+###### Artículo 89.
 
-###### ARTICULO 90.
+Serán sancionados en los términos que disponga el Código Penal los servidores públicos que incurran en enriquecimiento ilícito.
 
-En todos los casos de visitas de inspección o auditorías, el servidor público tendrá derecho de audiencia, podrá inconformarse, ofreciendo las pruebas que considere necesario acompañar o rendir dentro de los treinta días siguientes.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
-###### ARTICULO 91.
+###### Artículo 90.
 
-Serán sancionados en los términos que disponga el Código Penal, los servidores públicos que incurran en enriquecimiento ilícito.
+Para los efectos de esta ley y de la legislación penal, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge, dependientes económicos directos y parientes consanguíneos hasta el cuarto grado, salvo que acredite que estos bienes los obtuvieron por sí mismos y por motivos ajenos al servidor público.
 
-###### ARTICULO 92.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
-Para los efectos de esta Ley y del Código Penal, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que se acredite que estos los obtuvieron por sí mismos y por motivos ajenos al servidor público.
+###### Artículo 91.
 
-###### ARTICULO 93.
+Para los efectos de la persecución penal por enriquecimiento ilícito, la autoridad competente hará al Ministerio Público, en su caso, declaratoria de que el servidor sujeto a la investigación respectiva, en los términos de la presente ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio, representado por sus bienes, los de las personas a las que se refiere el artículo anterior y de aquellos sobre los que conduzca como dueño, durante el tiempo en su encargo o por motivos del mismo.
 
-Durante el desempeño de su empleo, cargo o comisión y un año después, los servidores públicos no podrán solicitar, aceptar o recibir por sí o por interpósita persona dinero o cualquier otra donación o servicio o para las personas a que se refiere la fracción XIII del artículo 54 y que procedan de cualquier persona cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público en el desempeño de su empleo, cargo o comisión que determinen conflicto de intereses. Se exceptúa de lo anterior si el servidor público o las personas a que se refiere este artículo, han recibido de la misma persona física o moral, en una o mas ocasiones, durante un año, obsequios cuyo valor acumulado en ese año, no sea superior a diez veces su salario diario vigente, en el momento de la recepción.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
-En ningún caso se podrán recibir de dichas personas títulos de valor, bienes inmuebles o cesiones de derechos sobre juicios o controversias en las que se dirima la titularidad de los derechos de posesión o de propiedad sobre bienes de cualquier clase.
+###### Artículo 92.
 
-La conducta de los servidores públicos que viole esta disposición, será sancionada como cohecho en los términos del Código Penal.
+Para los efectos de esta ley, se considera obsequio todo bien que reciban con motivo de sus funciones los servidores públicos, su cónyuge o parientes consanguíneos hasta el cuarto grado.
 
-###### ARTICULO 94.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
 
-Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece o sean de los estrictamente prohibidos, deberán de informar de ello a la autoridad que la Procuraduría determine a fin de ponerlos a su disposición. La autoridad correspondiente, llevará un registro de dichos bienes.
+###### Artículo 93.
+
+Se prohibe que los servidores públicos reciban para sí o para su cónyuge o parientes consanguíneos hasta el cuarto grado, así como para los padres y hermanos de su cónyuge, obsequios de personas respecto de las cuales en razón de la función que tengan encomendada, hayan tomado o deban tomar alguna decisión de trámite, despacho o resolución, con el ánimo de beneficiar indebidamente a éstos, dentro de un año anterior a la fecha del obsequio o dentro de un año posterior a la misma. En ningún caso se podrán recibir de dichas personas títulos de valor, bienes inmuebles o cesiones de derechos sobre juicios o controversias en las que se dirima la titularidad de los derechos de posesión o de propiedad sobre bienes de cualquier clase.
+
+Los obsequios que se hagan de acuerdo con los supuestos anteriores se entenderán cedidos al patrimonio del estado o al municipio según sea el caso, debiendo los servidores públicos hacer entrega de ellos con anterioridad a la decisión a que se refiere el primero de los párrafos de este artículo o dentro de los diez días siguientes a su recepción, según proceda.
+
+Si el servidor público incumple con lo dispuesto en el párrafo anterior, su conducta se castigará como cohecho y será sancionado en los términos de la Legislación Penal.
+
+Los obsequios que se hagan a los servidores públicos que no se encuentren en las hipótesis de esta dispositivo, deberán ser declarados por éstos en la manifestación anual de bienes cuando el valor unitario de cada obsequio exceda a treinta días de salario mínimo vigente en la capital del estado.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
+
+###### Artículo 94.
+
+El Poder Ejecutivo del Estado y los ayuntamientos de la entidad establecerán los procedimientos y mecanismos procedentes para realizar en el ámbito de sus respectivas competencias, las acciones que se requieren para cumplir con los acuerdos y resoluciones del sistema nacional de seguridad pública, debiéndose llevar a cabo para el efecto de una estrecha coordinación con la Secretaría General de Gobierno, Procuraduría General de Justicia y la Secretaría de la Contraloría General del Estado.
+
+La Secretaría de la Contraloría General, podrá utilizar la información contenida en las declaraciones patrimoniales, correspondientes a los servidores públicos, adscritos a los cuerpos policiales estatales, en términos de los Acuerdos de Coordinación derivados del Sistema Nacional de Seguridad Pública.
+
+Asimismo, los ayuntamientos, proveerán a la mencionada dependencia la información patrimonial referente a los servidores públicos de los cuerpos policiales municipales, conforme a los Acuerdos de Coordinación respectivos.
 
 TRANSITORIOS :
 
@@ -772,3 +850,13 @@ P.O. 6 DE MAYO DE 1998.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- El Poder Ejecutivo del Estado de Nayarit y los Ayuntamientos Constitucionales dispondrán de un término de 30 días a partir de la fecha de entrada en vigor del presente decreto, para que procedan a celebrar los convenios relacionados con el cumplimiento a que se refiere la presente modificación legislativa.
+
+P.O. 15 DE MAYO DE 2002.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+Segundo. Se derogan, además de las disposiciones que expresamente se señalan en este decreto, las demás que se opongan al presente ordenamiento.
+
+Tercero.- Todas las declaraciones patrimoniales que aún se encuentren bajo la custodia de la Secretaria de la Contraloría y que correspondan a los servidores públicos de los Poderes Legislativo ó Judicial y de los demás entes públicos, deberán ser remitidas a las autoridades que corresponda, conforme el artículo 84 de esta ley para todos los efectos que en ella se consignan dentro del plazo de treinta días contados a partir de la entrada en vigor del presente decreto.
+
+Cuarto.- Los servidores públicos de los ayuntamientos y de los demás entes públicos que no hubiesen presentado declaración patrimonial por no haber estado obligados a ello, para efectos de dar cumplimiento a la fracción I del artículo 85 a que se refiere este decreto, tan luego que entre en vigor, dispondrán de un plazo de treinta días para presentar su declaración inicial de bienes.
