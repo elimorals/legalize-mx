@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "1994-07-07"
+last_updated: "1996-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1996.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987.
 
@@ -111,7 +111,9 @@ I.- Instantáneo, cuando la consumación se agota en el mismo momento en que se 
 
 II.- Permanente, cuando la consumación se prolonga en el tiempo pudiendo cesar por voluntad del agente.
 
-III.- Continuado, cuando con unidad de determinación se realizan varias conductas con solución de continuidad, violatorias al mismo precepto legal, pero tratándose de agresiones a la vida, a la salud, al honor, a la libertad y a la honestidad se requerirá unidad de sujeto pasivo.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+III.- Continuado, cuando con unidad de determinación se realizan varias conductas con solución de continuidad, violatorias al mismo precepto legal, y exista unidad en el sujeto pasivo.
 
 ### CAPITULO IV. LA IMPUTABILIDAD
 
@@ -317,9 +319,11 @@ DE LAS PENAS
 
 ### CAPITULO II. PRISION
 
+> <small>(REFORMADO, P.O 19 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 30.
 
-La prisión consiste en la privación de la libertad personal, su duración será de tres días a treinta años, y se extinguirá en los establecimientos que señale el órgano ejecutor de sanciones.
+La prisión consiste en la privación de la libertad personal, su duración será de 3 días a 40 años, y se extinguirá en los establecimientos que señale el órgano ejecutor de sanciones.
 
 ### CAPITULO III. TRATAMIENTO EN LIBERTAD
 
@@ -339,17 +343,19 @@ La semilibertad implica alternación de periodos de privación de la libertad y 
 
 ### CAPITULO V. MULTA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 34.
 
-La multa consiste en el pago de una cantidad de dinero al Estado, que se fijará por días multa, los cuales no podrán exceder de quinientos. El día multa equivale a la percepción neta diaria del inculpado en el momento de consumar el delito, tomando en cuenta todas sus percepciones. Para los efectos de este Código, el límite inferior del día multa será el equivalente al salario mínimo diario vigente en el lugar que se consumó el delito.
+La multa consiste en el pago de una cantidad de dinero al Estado, que se fijará por días multa, los cuales no podrán exceder de setecientos cincuenta. El día multa equivale a la percepción neta diaria del inculpado en el momento de consumar el delito, tomando en cuenta todas sus percepciones. Para los efectos de este Código, el límite inferior del día multa será el equivalente al salario mínimo diario vigente en el lugar que se consumó el delito.
 
 Por lo que toca al delito continuado se atenderá al salario mínimo vigente en el momento consumativo de la última conducta; para el permanente, se considerará el salario mínimo en vigor en el momento en que cesó la consumación.
 
 Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella el Ejecutivo a través del órgano que corresponda podrá substituirla total o parcialmente por prestación de trabajo en favor de la comunidad.
 
-Cada jornada de trabajo saldará un día multa. Cuando no sea posible o conveniente la substitución de la multa por la prestación de servicios, el propio Ejecutivo podrá colocar al sentenciado en libertad bajo vigilancia que no excederá del número de días multa substituidos.
+Cada jornada de trabajo saldará un día multa. Cuando no sea posible o conveniente la substitución de la multa por la prestación de servicios, el propio Ejecutivo podrá colocar al sentenciado en libertad bajo vigilancia que no excederá del número de días multa substituídos.
 
-Si el sentenciado se negare sin causa justificada a cubrir el importe de la multa, el Estado la exigirá mediante el procedimiento económico coactivo.
+Si el sentenciado se negare sin causa justificada a cubrir el importe de la multa, el Estado la exigirá mediante el procedimiento económico-coactivo.
 
 La autoridad a quien corresponda el cobro de la multa, podrá fijar plazos para el pago de ésta.
 
@@ -631,7 +637,9 @@ MEDIDAS DE SEGURIDAD
 
 El Organo Jurisdiccional fijará la pena dentro de los límites señalados para cada delito, teniendo en cuenta los aspectos objetivos y subjetivos del hecho punible; la lesión o puesta en peligro del bien jurídico; las circunstancias de modo, tiempo y lugar; los motivos determinantes; las demás condiciones del sujeto activo y de la víctima, en la medida en que hayan influido en la comisión del delito, y las que determinen la gravedad ilícita y la culpabilidad del sujeto.
 
-Cuando se trate de punibilidad alternativa, el Juez podrá imponer, motivando su resolución, la sanción privativa de libertad sólo cuando ello sea ineludible a los fines de la justicia, prevención general y prevención especial.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+El órgano jurisdiccional ordenará de oficio la realización de los estudios criminológicos interdisciplinarios del imputado y tomará conocimiento directo de éste, del ofendido y de la ejecución del hecho en la medida requerida para cada caso.
 
 En aquellos delitos que tengan señaladas pena privativa de libertad en forma alternativa con cualquier otra, en todo caso se impondrá la de prisión al imputado cuando este haya cometido con anterioridad delito doloso o preterintencional y por el cual se haya dictado sentencia condenatoria ejecutoriada, o existiendo acumulación de expedientes, resulte responsable de los delitos a que se refieren los expedientes acumulados.
 
@@ -789,7 +797,9 @@ Para efectos de la substitución se requiere que el reo satisfaga los requisitos
 
 Se confiere a los Organos Jurisdiccionales la facultad de suspender condicionalmente la ejecución de la pena de prisión, si concurren las siguientes circunstancias:
 
-I.- Que el reo haya delinquido por primera vez;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+I.- Que no hubiere sido condenado anteriormente, por sentencia ejecutoriada, por delito doloso;
 
 II.- Que tenga modo honesto de vivir y haya observado buena conducta con anterioridad al delito, probada por hechos positivos.
 
@@ -799,7 +809,9 @@ III.- Que durante el proceso no se haya sustraido a la acción judicial.
 
 IV.- Que la pena de prisión impuesta, no exceda de cuatro años;
 
-V.- Que haya pagado la reparación de los daños y perjuicios y la multa.
+> <small>(ADICIONADA [N. DE E., REFORMADA], P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+V.- Que haya pagado la reparación de los daños y perjuicios y la multa. En caso de que el sentenciado acredite a satisfacción del juzgador que no tiene recursos económicos para el pago de la multa, la ejecución de ésta podrá ser suspendida, en cuyo caso seguirá la misma suerte que la pena de prisión.
 
 ###### ARTICULO 89.
 
@@ -1071,7 +1083,9 @@ Cuando concurra alguna de las circunstancias señaladas en el Artículo 131 de e
 
 Al que cause a otro un daño en su salud se le impondrá la pena que corresponda de acuerdo a las fracciones siguientes:
 
-I.- De 3 a 9 meses de prisión o de 10 a 30 días multa, si tardan en sanar hasta 15 días.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+I.- De tres a nueve meses de prisión, o de diez a treinta días multa, o ambas sanciones a juicio del juez, si tardan en sanar hasta quince días.
 
 > <small>(REFORMADA, P.O. 01 DE NOVIEMBRE DE 1990)</small>
 
@@ -1291,11 +1305,39 @@ II.- Que el agente se ostente como autoridad sin serlo;
 
 III.- Que se lleve a cabo por dos o más personas;
 
-IV.- Que se realice con violencia, se vejare o se torturase a la víctima, y
+IV.- Que se realice con violencia, se vejare o se torturase a la víctima, y (sic)
 
 V.- Que la víctima sea menor de dieciséis años de edad o que por cualquiera otra circunstancia esté en situación de inferioridad física respecto del agente.
 
-Si espontáneamente se pone en libertad a la persona antes de tres días y sin causar ningún perjuicio sólo se aplicará la sanción correspondiente a la privación ilegal de la libertad de acuerdo con el artículo 147 de este Código.
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+VI. Cuando de esta conducta resulten graves daños físicos o mentales al ofendido, o muera durante el secuestro o a consecuencia de dicho acto, sin perjuicio de las reglas del concurso.
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+VII. Cuando quien participe de cualquier manera en la comisión de este ilícito, sea servidor público encargado de prevenir, denunciar, investigar o juzgar la comisión de delitos.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+Si espontáneamente se pone en libertad a la persona, antes de tres días y sin causar ningún perjuicio sólo se aplicará la sanción correspondiente a la privación ilegal de la libertad, que será prisión de seis meses a cuatro años.
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 150 BIS. Independientemente de las sanciones que correspondan en los términos del artículo 150 de este código y fuera de las causas de exclusión del delito previstas por la ley, se sancionará con una pena de uno a ocho años de prisión y de doscientos a setecientos cincuenta días multa, al que:
+
+I. Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de quienes representen o gestionen en favor de la víctima;
+
+II. Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
+
+III. Actúe como asesor de quienes representen o gestionen en favor de la víctima, y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro;
+
+IV. Aconseje el no presentar la denuncia del secuestro cometido, o bien el no colaborar o el obstruir la actuación de las autoridades;
+
+V. Efectúe el cambio de moneda nacional por divisas, sabiendo que es con el propósito directo de pagar el rescate a que se refiere la fracción I del artículo anterior; y
+
+VI. Intimide a la víctima, a sus familiares hasta el segundo grado o a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
+
+No se aplicará sanción alguna a quien, habiendo realizado las conductas previstas en las fracciones III y IV de este artículo, sea ascendiente o descendiente consanguíneo o por adopción, cónyuge, concubina o concubinario o pariente colateral por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo, o que esté ligado al secuestrado por amor, respeto, gratitud o estrecha amistad.
 
 ### CAPITULO II. ABUSOS DESHONESTOS
 
@@ -1529,7 +1571,9 @@ II.- Prisión de 4 a 10 años y de 180 hasta 500 días multa, cuando el valor de
 
 Se aumentarán hasta en una mitad las penas previstas en el Artículo anterior, si el robo se realiza:
 
-I.- Con violencia contra la persona robada o sobre otra que la acompañe o cuando se ejerza violencia para proporcionarse la fuga o defender lo robado.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+I.- Por medio de la violencia, la acechanza o cualquier otra circunstancia que disminuya las posibilidades de defensa de la víctima o de persona que la acompañe, o la ponga en condiciones de desventaja, o cuando se ejerza violencia para proporcionarse la fuga o defender lo robado.
 
 II.- Se verifique en paraje solitario, en lugar cerrado o en edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los móviles, sea cual fuere la materia de que estén construidos;
 
@@ -1544,6 +1588,22 @@ VI.- En contra de una oficina recaudatoria o cualquier otra en que se conserven 
 VII.- Respecto de vehículo estacionado en la vía pública o en otro lugar destinado a su guarda o reparación, y
 
 VIII.- Quebrantando la confianza o seguridad derivada de una relación de servicio, trabajo u hospitalidad.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 183 BIS. Se sancionará con pena de uno a cinco años de prisión y hasta quinientos días multa, al que a sabiendas y con independencia de las penas que le correspondan por la comisión de otros delitos:
+
+I.- Sin consentimiento del que tenga derecho a otorgarlo, desmantele alguno o varios vehículos o comercialice conjunta o separadamente sus autopartes;
+
+II.- Enajene o trafique de cualquier manera con vehículo o vehículos robados;
+
+III.- Detente, posea o custodie un vehículo robado, o modifique de cualquier manera la documentación con que se pretenda acreditar la propiedad o identificación de éste;
+
+IV.- Traslade el o los vehículos robados fuera del territorio del estado; y
+
+V.- Utilice el o los vehículos robados en la comisión de otro u otros delitos.
+
+Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito, además de las sanciones a que se refiere este artículo, se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un periodo igual a la pena de prisión impuesta.
 
 ###### ARTICULO 184.
 
@@ -1900,6 +1960,18 @@ A quien porte, fabrique, importe o acopie sin un fin lícito instrumentos que s�
 ###### ARTICULO 220.
 
 Al que forme parte de manera permanente de una asociación de dos o más personas destinada a delinquir, se le impondrá prisión de 3 meses a 4 años.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+Cuando la asociación esté integrada por tres o más personas, y empleen la violencia o aprovechen estructuras comerciales o de negocios para cometer los delitos, la sanción será hasta una mitad más de la prevista en el caso anterior.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+A los miembros de la asociación delictiva que tengan facultades de mando o decisión, se les impondrá de 6 meses a ocho años de prisión, y hasta setecientos cincuenta días multa.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+Cuando se trate de un servidor público encargado de prevenir, denunciar, investigar o juzgar la comisión de delitos, que participe de cualquier manera en la asociación delictuosa, las penas correspondientes por los delitos cometidos se aumentaran hasta en una mitad y se les impondrá además destitución e inhabilitación para desempeñar cualquier empleo, cargo o comisión públicos, hasta por un tiempo igual al de la pena impuesta.
 
 ### CAPITULO III. TRATA DE PERSONAS
 
@@ -2267,7 +2339,7 @@ III.- Recursos o elementos esenciales, destinados al mantenimiento del orden pú
 
 Se aplicará prisión de 6 meses a 5 años, al que teniendo conocimiento de las actividades de un saboteador y de su identidad, no lo haga saber a las autoridades.
 
-### CAPITULO VII. INSULTOS A LA AUTORIDAD
+### CAPITULO VII. DELITOS CONTRA SERVIDORES PUBLICOS EN EJERCICIO DE SUS FUNCIONES
 
 ###### ARTICULO 256.
 
@@ -2345,9 +2417,9 @@ II.- Otorgue permisos, licencias o autorizaciones de contenido económico;
 
 III.- Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales y sobre precios y tarifas de los bienes y servicios producidos o prestados en la administración pública estatal o municipal;
 
-IV.- Realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes y servicios, o colocaciones de fondos y valores con recursos económicos públicos;
+IV.- Realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes y servicios, o colocaciones de fondo y valores con recursos económicos públicos;
 
-V.- Dé, a sabiendas, una aplicación pública distinta de aquélla a que estuvieron destinados los fondos públicos que tuviere a su cargo o hiciere un pago ilegal;
+V.- Dé, a sabiendas, una aplicación pública distinta de aquella a que estuvieron destinados los fondos públicos que tuviere a su cargo o hiciere un pago ilegal;
 
 VI.- En el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos o contratos de prestación de servicios profesionales, mercantiles o de cualquier otra naturaleza que sean remunerados, a sabiendas de que no se prestará el servicio o no se cumplirá el contrato otorgado;
 
@@ -2386,6 +2458,8 @@ VI.- Haga que se le entreguen fondos, valores u otra cosa que no se le haya conf
 Al que cometa el delito de abuso de autoridad se le aplicará prisión de 1 a 6 años y de 30 a 300 días multa, penas que se aumentarán hasta en una mitad más por el caso previsto en la fracción VI de este Artículo.
 
 ### CAPITULO V. EVASIÓN DE PRESOS
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 265.
 
@@ -2517,9 +2591,15 @@ Cuando la Ley autorice el empleo del apremio para hacer efectivas las determinac
 
 Al que indebidamente destruya, retire, oculte o de cualquier otro modo quebrante los sellos puestos por orden legítima de la autoridad se aplicará prisión de 3 meses a 1 año y hasta 15 días multa.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 285.
 
 Al que de palabra o de obra insulte o injurie a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá prisión de 3 meses a 1 año y hasta 15 días multa.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 285 BIS. Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, cuando se tenga conocimiento de esa circunstancia, se le aplicarán de uno a cinco años de prisión, además de la que le corresponda por el delito cometido.
 
 ###### ARTICULO 286.
 
@@ -2617,7 +2697,7 @@ Si los anteriores actos se realizan sobre la totalidad del expediente, se aument
 
 ###### ARTICULO 293.
 
-Al que indebidamente ponga en libertad o favorezca la evasión de una persona que se encuentre legalmente privada de aquélla, se le impondrá prisión de 3 meses a 5 años. Si los evadidos fuesen dos o más, se duplicará la sanción.
+Al que indebidamente ponga en libertad o favorezca la evasión de una persona que se encuentre legalmente privada de aquélla, se le impondrá prisión de 3 meses a 5 años, cuando al evadido se le impute delito grave, con conocimiento de esta circunstancia, o si los evadidos fueren dos o más, se duplicará la sanción.
 
 ###### ARTICULO 294.
 
@@ -3044,3 +3124,13 @@ P.O. 7 DE JULIO DE 1994
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 19 DE DICIEMBRE DE 1996
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente.
