@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "1997-02-15"
+last_updated: "1999-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -287,9 +287,13 @@ La Base para determinar el importe a pagar por concepto de este impuesto será e
 
 El Impuesto sobre Traslación de Dominio y otras operaciones de bienes inmuebles se causará y pagará aplicando la tasa del 2%.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 28.
 
-Los sujetos obligados al pago de este impuesto, deberán enterarlo en la Recaudación de Rentas de la Secretaría de Finanzas del Gobierno del Estado, en cuya jurisdicción se encuentre ubicado el inmueble, dentro de los treinta días siguientes de la fecha en que se realice el acto generador, mediante declaración utilizando las formas que al efecto apruebe la Secretaría de Finanzas del Gobierno del Estado.
+Los sujetos obligados al pago de este impuesto, deberán enterarlo en la Tesorería Municipal, en cuya jurisdicción se encuentre ubicado el inmueble, dentro de los treinta días siguientes a la fecha en que se realice el acto generador, utilizando al efecto las formas de declaración aprobadas.
+
+Tratándose de Municipios que suscriban convenio con la Secretaría de Finanzas para la administración y cobro de este impuesto, los sujetos obligados deberán efectuar el pago en la recaudación de rentas de dicha Secretaría, en cuya jurisdicción se encuentra ubicado el inmueble.
 
 ###### ARTICULO 29.
 
@@ -375,13 +379,221 @@ El pago de este impuesto se hará en la Tesorería Municipal dentro de los veint
 
 En caso de que se establezca un fraccionamiento sin la debida autorización del Ejecutivo del Estado, estará obligado al pago de este impuesto el fraccionador y serán responsables solidarios del mismo, las personas que hubieren contratado con este la realización de las obras, así como quien hubiere adquirido por cualquier tipo de contrato los lotes de referencia.
 
-### CAPITULO I. ALUMBRADO PUBLICO
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO II. ASEO PUBLICO
+### CAPITULO IV. DEL IMPUESTO SOBRE JUEGOS PERMITIDOS, RIFAS, SORTEOS, LOTERIAS Y CONCURSOS
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+DEL OBJETO
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 38 A.- Es objeto de este impuesto, la celebración de juegos permitidos por la Ley, la enajenación de boletos, billetes y demás comprobantes que permitan presenciar o participar en loterías, rifas, sorteos, juegos con apuestas y concursos sea cual fuera la denominación que pretenda dársele a la enajenación inclusive cooperación o donativos que se realicen dentro de la circunscripción de los Municipios del Estado.
+
+También se considera como objeto de este impuesto, la obtención de los ingresos dentro de la circunscripción territorial de los Municipios del Estado, derivados de premios por loterías, rifas, sorteos o concursos que celebren los organismos descentralizados de la administración publica federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, no considerándose para los efectos de este impuesto el reintegro correspondiente al billete que permitió participar en loterías.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+DE LOS SUJETOS
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 38 B.- Son sujetos de este impuesto:
+
+I. Las personas físicas o morales que enajenen boletos o billetes y demás comprobantes que permitan presenciar o participar en loterías, rifas, sorteos, concursos, o cualquier otro juego permitido por la ley; y,
+
+II. Las personas físicas o morales que resulten beneficiadas con los premios de las rifas, sorteos, loterías, concursos o cualquier otro juego permitido por la ley.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+DE LAS EXCEPCIONES
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 38 C.- Están exceptuados del pago de este impuesto, los sorteos y loterías que celebre la lotería nacional y pronósticos deportivos para la asistencia pública en los que corresponde a la fracción I del artículo 38 B de esta ley.
+
+De igual manera se exceptuará del pago a las personas físicas que obtengan premios, cuyo valor no exceda de treinta y cuatro salarios mínimos.
+
+Tratándose de rifas, sorteos y loterías que se celebren con fines benéficos, los Presidentes Municipales previo acuerdo de Cabildo podrán reducir o condonar este impuesto, siempre que los eventos sean realizados por instituciones de beneficencia pública o privada directamente y el producto se destine a fines asistenciales en forma general y sin distingo alguno. Para tal efecto dichas instituciones deberán de solicitarlo por escrito a las Tesorerías Municipales u oficinas autorizadas de la misma, con quince días de anticipación a la realización del acto.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+DE LA BASE
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 38 D.- La base de este impuesto será:
+
+I El ingreso total percibido por la enajenación de boletos, billetes o demás comprobantes que permitan presenciar o participar en rifas, sorteos, loterías, concursos o cualquier otro juego permitido por la ley; y,
+
+II El valor de los premios que reciban los beneficiarios en rifas, sorteos, loterías, concursos o cualquier otro juego permitido por la ley, sin deducción alguna.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+DE LA TASA
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 38 E.- Este impuesto se liquidará conforme a la tasa del 6% sobre la base gravable.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+DEL PAGO
+
+ARTICULO 38 F.- El pago de este impuesto se realizará en las Tesorerías Municipales u oficinas autorizadas de la misma, de la manera siguiente:
+
+I. Dentro de los tres primeros días hábiles a partir de la realización del evento en el caso a que se refiere la fracción I del artículo 38 de esta Ley, debiendo ser enterado por quien celebre el evento.
+
+II. Las personas físicas o morales que realicen rifas, sorteos, loterías o concursos, deberán retener y enterar dentro de los primeros tres días hábiles siguientes a la fecha en que se realice el evento, en el caso de la fracción II del artículo 38 de esta Ley.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 38 G.- Los sujetos de este impuesto tienen la obligación de registrarse en la Tesorería Municipal, proporcionando los datos y documentos que las mismas exijan, conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria del pago que corresponda por retención de este impuesto.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+DE LOS RESPONSABLES SOLIDARIOS
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 38 H.- Son responsables solidarios del pago de este impuesto:
+
+I. Los presidentes de los patronatos, comités o coordinadora de cualquiera que sea la denominación que adopten, que organicen, promuevan, dirijan o patrocinen la celebración de rifas, sorteos, loterías o concursos;
+
+II. Quienes verifiquen pagos a los empleados de las personas y organismos a que se refieren las fracciones I y II de este artículo, por gastos propios del evento; y,
+
+III. Los servidores públicos que autoricen su celebración sin dar previo aviso a la Tesorería Municipal y cerciorarse de que se encuentre garantizado el interés fiscal en los términos del artículo 87 del Código Fiscal Municipal del Estado de Oaxaca.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO V. DEL IMPUESTO SOBRE DIVERSIONES Y ESPECTACULOS PUBLICOS
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+DEL OBJETO
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 38 I.- Es objeto de este impuesto, la realización y explotación de diversiones y espectáculos públicos.
+
+Por diversión y espectáculo público se entenderá toda función de esparcimiento, sea teatral, deportiva o de cualquier otra naturaleza semejante que se verifique en teatros, calles, plazas, y locales abiertos o cerrados.
+
+Para los efectos de este impuesto no se considerarán como espectáculos públicos, los prestados en restaurantes, bares, cabarets, salones de fiesta o de baile o centros nocturnos, y todos aquellos que estén obligados al pago del impuesto al valor agregado.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+DEL SUJETO
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 38 J.- Son sujetos de este impuesto las personas físicas o morales que realicen o exploten diversiones o espectáculos públicos dentro de la jurisdicción de los Municipios del Estado.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+DE LA BASE
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 38 K.- La base gravable para el pago de este impuesto serán los ingresos que se generen por la venta del boletaje, contraseña o similar que permita la entrada a las diversiones o espectáculos públicos.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+DE LA TASA
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 38 L.- Este impuesto se liquidará conforme a las tasas que a continuación se indican, sobre la base gravable que resulte conforme al artículo 38 K de la presente ley:
+
+I. Tratándose de teatros y circos, el 4% por cada función sobre los ingresos brutos originados por el espectáculo, en todas las localidades;
+
+II. Para el caso de ferias y demás espectáculos públicos análogos, el 6% sobre los ingresos brutos;
+
+III. Tratándose de box, lucha libre y super libre, así como otros eventos deportivos similares, 6% sobre los ingresos brutos;
+
+IV. Para el caso de bailes, presentaciones de artistas, kermesses y otras distracciones de esta naturaleza, 6% sobre los ingresos brutos originados por los espectadores o concurrentes a esta clase de eventos;
+
+V. Tratándose de ferias populares, regionales, agrícolas ganaderas e industriales, por lo que se refiere a los espectáculos que se establezcan en ellas, 6% sobre los ingresos brutos; y,
+
+VI. En cualquier otra diversión o evento similar no especificados en las fracciones anteriores, 6% sobre los ingresos brutos.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+DEL PAGO
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 38 M.- En los casos de eventos de permanencia los pagos deben realizarse en forma mensual a los Ayuntamientos de los Municipios del Estado por conducto de sus Tesorerías Municipales u oficinas autorizadas. Tratándose de eventos esporádicos el impuesto deberá ser pagado inmediatamente al término del espectáculo.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 38 N.- Los sujetos de este impuesto están obligados a solicitar por escrito con diez días hábiles de anticipación a la celebración del evento, la autorización de la Tesorería Municipal, debiendo proporcionar los siguientes datos:
+
+I. Nombre y domicilio de quien promueva, organice o explote la diversión, o espectáculo público para el cual se solicita la autorización;
+
+II. Clase de diversión o espectáculo;
+
+III. Ubicación del inmueble o predio en que se va a efectuar, y nombre del propietario o poseedor del mismo;
+
+IV. Hora señalada para que principie el evento; y,
+
+V. Número de localidades de cada clase que haya en el local destinado al espectáculo y su precio al público.
+
+Cualquier modificación a los datos señalados en las fracciones que anteceden, deberá comunicarse por escrito a la Tesorería Municipal, dentro de los tres días hábiles anteriores a la fecha de la celebración del evento.
+
+Concedida la autorización, los sujetos de este impuesto están obligados a:
+
+a) Presentar a la Tesorería Municipal, la emisión total de los boletos de entrada, a más tardar un día hábil antes al de la realización de la actividad autorizada, a fin de que sean sellados por dicha autoridad;
+
+b) Entregar a la Tesorería Municipal dentro del término a que se refiere la fracción anterior los programas del espectáculo;
+
+c) No variar los programas y precios dados a conocer al público sin que se dé aviso a la Tesorería Municipal y se recabe nueva autorización antes de la realización del evento; y,
+
+d) Garantizar el interés fiscal, en las formas establecidas por el artículo 87 del Código Fiscal Municipal del Estado de Oaxaca.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+DE LA INTERVENCION
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 38 Ñ.- Será facultad de la Tesorería Municipal, el nombramiento de interventores de nivel municipal, para los efectos a que se refiere este impuesto, quienes tendrán a su cargo la vigilancia del buen cobro de los ingresos que por estos conceptos se recauden, conforme a las reglas siguientes:
+
+I. La orden de intervención se notificará al sujeto de la contribución en el domicilio en donde se realice el espectáculo sujetándose a las formalidades previstas para las visitas en el Código Fiscal Municipal del Estado de Oaxaca.
+
+II. El contribuyente estará presente durante la celebración del evento o designará persona que lo represente y en caso de no hacerlo, el interventor o interventores practicarán la diligencia con quien se encuentre, levantando acta circunstanciada en la que se asentarán los hechos u omisiones conocidos por el interventor en presencia de dos testigos designados por el ocupante del lugar visitado o en su ausencia o negativa se nombrarán por el interventor o interventores mencionados.
+
+III. El interventor procederá a contabilizar los ingresos que por boletos vendidos obtenga el sujeto de la contribución, así como los ingresos que por expendio de bebidas alcohólicas se realicen durante el evento, según sea el caso, procediendo a emitir la liquidación del impuesto correspondiente cuyo importe deberá ser cubierto al terminar el evento al interventor, quien expedirá el recibo oficial.
+
+IV. En caso que no se cubra el impuesto que se haya liquidado en términos del inciso anterior, el interventor estará facultado para proceder a embargar precautoriamente bienes suficientes del sujeto de la contribución que garanticen el crédito, sujetándose para tal efecto a las formalidades que establece el Código Fiscal Municipal del Estado de Oaxaca.
+
+V. Los organizadores, promotores o representantes de las empresas de espectáculos y diversiones públicas, están obligados a permitir que los interventores comisionados por la Tesorería Municipal, desempeñen adecuadamente sus funciones, así como a proporcionarles cualquier documentación o datos que requieran para el desempeño de las mismas.
+
+Las autoridades fiscales del Municipio podrán suspender cualquier diversión o espectáculo, cuando quienes lo organicen o exploten se nieguen a permitir que los interventores vigilen la entrada, liquiden o recauden el impuesto, o cuando no se haya cumplido con las obligaciones a que se refiere el artículo 38 N de esta Ley.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+DE LOS RESPONSABLES SOLIDARIOS
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 38 O.- Son responsables solidarios del pago del impuesto a que se refiere este capítulo:
+
+I. Los representantes legales o apoderados de las personas físicas y morales que realicen o exploten diversiones o espectáculos públicos dentro de la jurisdicción del municipio.
+
+Este impuesto se cobrará independientemente de lo que conforme a la legislación fiscal del Estado se tenga establecido para los espectáculos públicos.
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
-### CAPITULO III. MERCADOS
+### CAPITULO I. ALUMBRADO PUBLICO
 
 ###### ARTICULO 39.
 
@@ -403,17 +615,17 @@ Servirá de base para el cálculo de este derecho el importe del consumo que los
 
 El cobro de este derecho lo realizará la empresa suministradora del servicio, la cual hará la retención correspondiente, consignando el cargo en los recibos que expida por el consumo ordinario.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 43.
 
-La empresa suministradora del servicio deberá enterar las cantidades recaudas por este derecho a la Secretaría de Finanzas del Gobierno del Estado.
+La empresa suministradora del servicio deberá enterar las cantidades recaudadas por este derecho a los Ayuntamientos del Estado, por conducto de sus Tesorerías Municipales.
 
 ###### ARTICULO 44.
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 1991)
 
-### CAPITULO IV. PANTEONES
+### CAPITULO II. ASEO PUBLICO
 
 ###### ARTICULO 45.
 
@@ -455,7 +667,7 @@ III En los casos a que se refiere la fracción III del artículo anterior, el pa
 
 IV En el supuesto previsto en las fracciones IV y V del artículo anterior, en forma bimestral de conformidad con las tarifas que se establezcan en la Ley de Ingresos.
 
-### CAPITULO V. RASTRO
+### CAPITULO III. MERCADOS
 
 ###### ARTICULO 49.
 
@@ -481,7 +693,7 @@ III Por cuota fija para comerciantes ambulantes.
 
 El pago de derecho para servicios que deban prestarse en forma regular, como son: El aseo, vigilancia y demás relacionados con la administración, deberán realizarse mensualmente por los comerciantes con locales o puestos fijos o semifijos. En los casos de comerciantes que realicen sus actividades de manera esporádica y no en forma permanente, el pago deberá realizarse por cada vez que soliciten la asignación de lugares o espacios.
 
-### CAPITULO VI. POR SERVICIOS DE CALLES
+### CAPITULO IV. PANTEONES
 
 ###### ARTICULO 53.
 
@@ -545,7 +757,7 @@ Son sujetos de este derecho las personas que soliciten los servicios de panteone
 
 El pago de los derechos por servicios en panteones se hará en la Tesorería Municipal que corresponda, antes de la ejecución del servicio, conforme a la tarifa que establezca la Ley de Ingresos Municipal.
 
-### CAPITULO VII. POR SERVICIO DE PARQUES Y JARDINES
+### CAPITULO V. RASTRO
 
 ###### ARTICULO 59.
 
@@ -591,7 +803,7 @@ El pago deberá cubrirse en la Tesorería Municipal al solicitar este servicio.
 
 Todo ganado sacrificado fuera del rastro público municipal, estará sujeto a cuotas especiales de acuerdo con las leyes de ingresos municipales.
 
-### CAPITULO VIII. POR CERTIFICACIONES, CONSTANCIAS Y LEGALIZACIONES
+### CAPITULO VI. POR SERVICIOS DE CALLES
 
 ###### ARTICULO 67.
 
@@ -613,7 +825,7 @@ La cuota a pagar por unidad de medida será determinada en las leyes de ingresos
 
 El pago de los derechos de este capítulo deberán (sic) cubrirse con posterioridad a la prestación de los servicios que los ocasionan, en un plazo que no excederá de cinco días, pudiendo ampliarse en razón de su monto, a solicitud de los interesados, con excepción de los servicios de alineamientos, cuyo pago deberá efectuarse con anterioridad a la prestación del servicio solicitado.
 
-### CAPITULO IX. POR LICENCIAS Y PERMISOS
+### CAPITULO VII. POR SERVICIO DE PARQUES Y JARDINES
 
 ###### ARTICULO 72.
 
@@ -631,7 +843,7 @@ La base y cuota para el pago de estos derechos será determinada por la Ley de I
 
 El pago deberá realizarse previo el ingreso de los usuarios al parque, jardín o unidad deportiva.
 
-### CAPITULO X. DERECHOS DE COOPERACION PARA OBRAS PUBLICAS MUNICIPALES
+### CAPITULO VIII. POR CERTIFICACIONES, CONSTANCIAS Y LEGALIZACIONES
 
 ###### ARTICULO 76.
 
@@ -669,7 +881,7 @@ II Las constancias y certificaciones solicitadas por las autoridades Federales, 
 
 III Las certificaciones y constancias relacionadas con los procesos de índole penal y juicios de alimentos.
 
-### CAPITULO I. DERIVADOS DE BIENES INMUEBLES
+### CAPITULO IX. POR LICENCIAS Y PERMISOS
 
 ###### ARTICULO 82.
 
@@ -757,23 +969,89 @@ Son responsables solidarios tratándose de permisos de construcción, ampliació
 
 Sólo podrán establecerse por estos derechos exenciones por concepto de permisos relacionados con la construcción de todo tipo, realizadas por la federación, el estado y los municipios, cuando se trate de construcción de bienes de dominio público.
 
-### CAPITULO II. DERIVADOS DE BIENES MUEBLES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO III. PRODUCTOS FINANCIEROS
+### CAPITULO IX BIS. POR EXPEDICION DE LICENCIAS, PERMISOS O AUTORIZACIONES PARA ENAJENACION DE BEBIDAS ALCOHOLICAS
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 93 A.- Por la expedición de licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas a personas físicas o morales, que autorice el Municipio, se causarán y pagarán derechos de acuerdo a lo que determine la Ley de Ingresos Municipal respectiva.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 93 B.- Por la autorización de permisos temporales para el funcionamiento de lugares establecidos o eventuales que expendan bebidas alcohólicas, se causarán derechos por día, de acuerdo a lo que determine la Ley de Ingresos Municipal respectiva.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 93 C.- Por la autorización de funcionamiento de horario extraordinario de giros prestadores de servicios que incluyan el expendio de bebidas alcohólicas, se estará a lo que determine la Ley de Ingresos Municipal respectiva.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 93 D.- Por la revalidación anual de licencias de funcionamiento, distribución y comercialización de bebidas alcohólicas, se estará a lo que determine la Ley de Ingresos Municipal respectiva. La revalidación deberá efectuarse dentro de los 3 primeros meses de cada año.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 93 E.- Por autorización de modificaciones a las licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas, se causarán de acuerdo a lo que determine la Ley de Ingresos Municipal respectiva.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 93 F.- Las autoridades municipales competentes establecerán los requisitos para la obtención de estas licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas.
+
+### CAPITULO X. DERECHOS DE COOPERACION PARA OBRAS PUBLICAS MUNICIPALES
 
 ###### ARTICULO 94.
 
 Para el establecimiento y recaudación, de estos derechos se estará a lo dispuesto en la ley de cooperación para obras públicas del Estado de Oaxaca.
 
-### CAPITULO IV. OTROS PRODUCTOS
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO UNICO. DEL SANEAMIENTO
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 94 A.- Los costos de las obras de infraestructura necesarias para realizar las conexiones de agua potable de las redes a los predios, tuberías de drenaje, pavimento, banqueta y guarniciones se sujetarán a las disposiciones de la Ley de Desarrollo Urbano para el Estado de Oaxaca y la Ley de Cooperación para Obras Públicas del Estado de Oaxaca.
+
+Para el caso de que no se publiquen cuotas específicas de recuperación para alguna obra determinada o no se celebren con anterioridad a la ejecución de la misma, convenios con los usuarios o propietarios de los predios, se aplicará la siguiente tarifa:
+
+Número de salarios mínimos
+
+generales diarios de la zona
+
+económica que corresponda.
+
+I. Introducción de agua potable,
+
+varios (red de distribución). 10.00
+
+II. Introducción de red de drenaje,
+
+varios. 10.00
+
+III. Electrificación 10.00
+
+IV. Revestimiento de las calles m2 1.00
+
+V. Pavimentación de calles m2 2.50
+
+VI. Banquetas m2 3.00
+
+VII. Guarniciones metro lineal 3.50
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 94 B.- Las cuotas que en los términos de esta Ley corresponda cubrir a los particulares beneficiados con las obras de saneamiento, tendrán el carácter de créditos fiscales y constituirán gravámenes reales sobre los inmuebles beneficiados con las obras; por lo tanto, serán pagadas preferentemente con el valor de los inmuebles y en las mismas condiciones de los adeudos provenientes de impuestos.
+
+La recaudación de las cuotas o derechos por este concepto, corresponderá a la Tesorería Municipal, la cual por los medios legales las hará efectivas y las aplicará a los fines específicos que les corresponda, debiendo llevar en cada caso una cuenta especial.
+
+## TITULO TERCERO BIS. CONTRIBUCIONES DE MEJORAS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO I. DERIVADOS DE BIENES INMUEBLES
 
 ## TITULO CUARTO. PRODUCTOS
 
-### CAPITULO I. DERIVADOS DEL SISTEMA SANCIONATORIO MUNICIPAL
-
-## TITULO QUINTO. APROVECHAMIENTOS
-
-### CAPITULO II. DERIVADOS DE RECURSOS TRANSFERIDOS AL MUNICIPIO
+### CAPITULO II. DERIVADOS DE BIENES MUEBLES
 
 ###### ARTICULO 95.
 
@@ -919,7 +1197,7 @@ Son sujetos de estos productos, las personas físicas o morales, propietarias o 
 
 El pago de los productos a que se refiere esta sección se realizará de acuerdo con las cuotas que establezcan las leyes de ingresos municipales y previamente el retiro del vehículo correspondiente.
 
-### CAPITULO III. PROVENIENTES DEL CREDITO
+### CAPITULO III. PRODUCTOS FINANCIEROS
 
 ###### ARTICULO 125.
 
@@ -951,7 +1229,7 @@ Los ingresos que se perciban por la enajenación de bienes muebles, invariableme
 
 También obtendrá productos el municipio por el arrendamiento de sus bienes muebles cuyo costo será fijado en la Ley de Ingresos Municipal; en ausencia de ésta, por el Tesorero Municipal.
 
-### CAPITULO IV. APROVECHAMIENTOS DIVERSOS
+### CAPITULO IV. OTROS PRODUCTOS
 
 ###### ARTICULO 131.
 
@@ -977,7 +1255,7 @@ Para adquirir acciones o títulos de empresas, se requiere la autorización del 
 
 Los recursos que se obtengan por rendimientos de inversiones financieras en instituciones de crédito por compra de acciones o títulos de empresas, invariablemente se ingresará al erario municipal, clasificándolos como productos financieros.
 
-### CAPITULO UNICO. PARTICIPACIONES FEDERALES
+### CAPITULO I. DERIVADOS DEL SISTEMA SANCIONATORIO MUNICIPAL
 
 ###### ARTICULO 137.
 
@@ -995,7 +1273,9 @@ El pago de los productos a que se refiere este capítulo deberá hacerse con ant
 
 Se establece responsabilidad solidaria a las autoridades municipales en el pago de estos productos cuando por descuido, negligencia o mala fe dejen de reclamarse su pago a los particulares.
 
-## TITULO SEXTO. PARTICIPACIONES
+## TITULO QUINTO. APROVECHAMIENTOS
+
+### CAPITULO II. DERIVADOS DE RECURSOS TRANSFERIDOS AL MUNICIPIO
 
 ###### ARTICULO 141.
 
@@ -1034,6 +1314,8 @@ Las tasas de recargos por incumplimiento oportuno de créditos fiscales y por pe
 ###### ARTICULO 148.
 
 Los pagos por los aprovechamientos derivados del sistema sancionatorio municipal deberán ser cubiertos exclusivamente en la Tesorería Municipal o en las oficinas o instituciones que ésta en forma expresa autorice para ello.
+
+### CAPITULO III. PROVENIENTES DEL CREDITO
 
 ###### ARTICULO 149.
 
@@ -1079,6 +1361,8 @@ Para los aprovechamientos a que se refieren las fracciones IX y X del artículo 
 
 Los aprovechamientos a que se refiere este capítulo, deberán ingresar al erario municipal, tratándose de numerario o al inventario de bienes patrimoniales tratándose de bienes muebles o inmuebles, en un plazo no mayor de setenta y dos horas contados a partir del momento en que tales bienes o recursos sean del conocimiento de la autoridad municipal.
 
+### CAPITULO IV. APROVECHAMIENTOS DIVERSOS
+
 ###### ARTICULO 155.
 
 Los municipios podrán obtener recursos derivados de empréstitos o financiamientos que se concerten con personas físicas y morales, siguiendo los procedimientos que para tales efectos contempla la ley y previa autorización de la Legislatura del Estado.
@@ -1105,6 +1389,8 @@ Todo recurso que obtenga el municipio por concepto de deuda pública, deberá in
 
 Adquiere responsabilidad cualquier funcionario que contravenga las disposiciones contenidas en este capítulo.
 
+### CAPITULO UNICO. PARTICIPACIONES FEDERALES
+
 ###### ARTICULO 161.
 
 Los municipios percibirán aprovechamientos derivados de otros conceptos no previstos en los capítulos anteriores, cuyo rendimiento, ya sea en efectivo o en especie, deberá ser ingresado al erario municipal, expidiendo de inmediato el recibo oficial respectivo.
@@ -1112,6 +1398,8 @@ Los municipios percibirán aprovechamientos derivados de otros conceptos no prev
 ###### ARTICULO 162.
 
 Sólo la Tesorería Municipal podrá recibir los aprovechamientos a que se refiere este capítulo y sólo esta dependencia puede expedir los recibos que amparen el ingreso de tales recursos al erario municipal.
+
+## TITULO SEXTO. PARTICIPACIONES
 
 ###### ARTICULO 163.
 
@@ -1214,3 +1502,9 @@ P.O. 15 DE FEBRERO DE 1997.
 ###### ARTICULO UNICO.
 
 Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día primero de enero del 2000, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
