@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2003-06-12"
+last_updated: "2004-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 2004.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -373,13 +373,13 @@ Y las demás que fijen las leyes.
 
 ### CAPITULO II. Prisión
 
-> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 25.
 
 La prisión consiste en la privación de la libertad corporal. Su duración será de tres días a sesenta años, y sólo podrá imponerse una pena adicional al límite máximo cuando se cometa un nuevo delito en reclusión. Se extinguirá en las colonias penitenciarias, establecimientos o lugares que al efecto señalen las leyes o la autoridad ejecutora de las penas, ajustándose a la resolución judicial respectiva.
 
-Las penas de prisión impuestas se compurgarán de manera sucesiva. En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
+La privación de libertad preventiva se computará para el cumplimiento de la pena impuesta así como de las que pudieran imponerse en otras causas, aunque hayan tenido por objeto hechos anteriores al ingreso a prisión. En este caso, las penas se compurgarán en forma simultánea.
 
 ###### ARTICULO 26.
 
@@ -693,11 +693,19 @@ El aumento o la disminución de la pena, fundadas en las calidades, en las relac
 
 Son aplicables las que se funden en circunstancias objetivas, si los demás sujetos tienen conocimiento de ellas.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 55.
 
-Cuando por haber sufrido el sujeto activo consecuencias graves en su persona o por su senilidad o su precario estado de salud, fuere notoriamente innecesaria e irracional la imposición de una pena privativa o restrictiva de libertad, el juez, de oficio o a petición de parte motivando su resolución, podrá prescindir de ella o substituirla por una medida de seguridad. En los casos de senilidad o precario estado de salud, el juez se apoyará siempre en dictámenes de peritos.
+Cuando la orden de aprehensión se dicte en contra de una persona mayor de 70 años de edad, el juez podrá ordenar que la prisión preventiva se lleve a cabo en el domicilio del indiciado bajo las medidas de seguridad que procedan de acuerdo con la representación social.
+
+No gozarán de esta prerrogativa quienes a criterio del juez puedan sustraerse de la acción de la justicia o manifiesten una conducta que haga presumible su peligrosidad.
+
+En todo caso la valoración por parte del juez se apoyará en dictámenes de peritos.
+
+Una vez dictada la sentencia ejecutoriada, la pena podrá ser sustituida por una medida de seguridad, a juicio del juez o tribunal que la imponga de oficio o a petición de parte, cuando por haber sufrido el sujeto activo consecuencias graves en su persona, o por su senilidad o su precario estado de salud, fuere notoriamente innecesaria o irracional que se compurgue dicha pena.
+
+En los casos de senilidad o precario estado de salud, el juez se apoyará siempre en dictámenes de peritos.
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
@@ -801,9 +809,9 @@ En los casos de tentativa punible de delito grave así calificado por la ley, la
 
 En caso de concurso ideal, se aplicará la pena correspondiente al delito que merezca la mayor, que se aumentará hasta una mitad del máximo de su duración, sin que pueda exceder de las máximas señaladas en el Título Segundo del Libro Primero.
 
-> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2004)</small>
 
-En caso de concurso real, se impondrán las penas previstas para cada uno de los delitos cometidos, sin que exceda de las máximas señaladas en el Título Segundo del Libro Primero.
+En caso de concurso real, se impondrán las penas previstas para cada uno de los delitos cometidos, sin que exceda de las máximas señaladas en el Título Segundo del Libro Primero. Si las penas se impusieran en el mismo proceso o en distintos, pero si los hechos resultan conexos, o similares, o derivado uno del otro, en todo caso las penas deberán contarse desde el momento en que se privó de libertad por el primer delito.
 
 > <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
@@ -1692,8 +1700,6 @@ Se aplicará pena de cinco a cuarenta años de prisión y multa de cinco mil a c
 ## TITULO SEGUNDO. Delitos contra el Derecho Internacional
 
 ### CAPITULO I. Violación de los deberes de humanidad
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>N. DE E. REUBICADO, D.O.F. 20 DE ENERO DE 1967</small>
 
@@ -4461,7 +4467,7 @@ Siempre que sea condenado el responsable de una injuria, de una difamación o de
 
 ### CAPITULO V. Disposiciones comunes a los delitos contra el ambiente
 
-(REFOMADO, D.O.F. 6 DE FEBRERO DE 2002)
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 364.
 
@@ -6158,3 +6164,7 @@ D.O.F. 18 DE DICIEMBRE DE 2002.
 D.O.F. 12 DE JUNIO DE 2003.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE MAYO DE 2004.
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
