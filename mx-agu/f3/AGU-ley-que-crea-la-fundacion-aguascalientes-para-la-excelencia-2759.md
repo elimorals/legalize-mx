@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-la-fundacion-aguascalientes-para-la-excelencia-275
 country: "mx"
 rank: "ley"
 publication_date: "1993-10-10"
-last_updated: "1993-10-10"
+last_updated: "2001-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA LA FUNDACION AGUASCALIENTES PARA LA EXCELENCIA EDUCATIVA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 10 de octubre de 1993.
 
@@ -101,9 +101,11 @@ VIII.- Expedir constancias de aportación deducibles de impuestos, previa solici
 
 La Fundación tendrá las atribuciones necesarias para alcanzar su objeto y las demás que señalan las disposiciones legales o reglamentarias.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 8o.
 
-La Fundación contará con un consejo superior que estará integrado por el titular del Poder Ejecutivo, quien lo presidirá; dos Presidentes Municipales del Estado; el Director General del Instituto; el Secretario General de Gobierno; el Secretario de Finanzas; el Secretario de Administración; el Secretario de Desarrollo Social; el tstular (sic) del COPLADEA; el Titular de la Comisión Estatal de Desarrollo Económico y Comercio Exterior; el Director General de la Fundación; un representante del S.N.T.E.; un representante de la A.E.P.F; y, un representante de la Unión Nacional de Padres de Familia, así como miembros distinguidos del sector privado y social a invitación del titular del Ejecutivo. Por cada representante se designará a su suplente.
+La Fundación contará con un consejo superior que estará integrado por el titular del Poder Ejecutivo, quien lo presidirá; dos Presidentes Municipales del Estado, el Director General del Instituto, el Secretario General de Gobierno, el Secretario de Finanzas, el Secretario de Desarrollo Social, el Secretario de Planeación, el Secretario de Desarrollo Económico, el Director General de la Fundación, un representante del S.N.T.E., un representante de la A.E.P.F., y un representante de la Unión Nacional de Padres de Familia, así como miembros distinguidos del sector privado y social a invitación del titular del Ejecutivo. Por cada representante se designará a su suplente.
 
 ###### ARTICULO 9o.
 
@@ -172,3 +174,9 @@ Otto Granados Roldán.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Efrén González Cuéllar.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+UNICO.- El presente decreto entrará en vigor a partir del 1o. de enero del año 2002.
