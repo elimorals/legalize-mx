@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-organizacion-y-reglamentaria-del-registro-publico-de-375
 country: "mx"
 rank: "ley"
 publication_date: "1978-07-20"
-last_updated: "2002-06-21"
+last_updated: "2002-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ORGANIZACION Y REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DE COMERCIO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 20 de julio de 1978.
 
@@ -685,18 +685,24 @@ P.O. 17 DE SEPTIEMBRE DE 1999.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO SEGUNDO.
 
-El titular de la Oficina Registral en el Municipio de Playas de Rosarito, previo a consumar inscripciones, anotaciones o cancelaciones o a expedir o autorizar certificaciones de actos jurídicos conforme a la Ley que regula la materia y, cuyos antecedentes consten en los archivos de las Oficinas Registrales del municipio de Tijuana, procederá a solicitar al Registrador competente, copia certificada de éstos, para que formen parte del archivo histórico-registral de la nueva Oficina, causándose previamente los derechos respectivos conforme a la Ley de Ingresos vigente para el Estado de Baja California.
+Una vez establecido el Registro Público de la Propiedad y de Comercio en la ciudad de Playas de Rosarito, el Registrador Público en el Municipio de Tijuana realizará oficiosamente el traslado de las partidas y en su caso anotaciones y gravámenes que sean antecedente de los documentos objeto de registro que se encuentren en su Delegación y que pertenezcan a la circunscripción territorial del Municipio de Playas de Rosarito, realizando las cancelaciones de partidas y anotaciones al margen de las mismas, señalando que han sido trasladadas a los libros y archivos del Registro Público de la Propiedad y de Comercio del Municipio de Playas de Rosarito.
 
 ###### ARTICULO TERCERO.
 
-Practicado el proceso consignado en el Artículo anterior, el Registrador Público de la Propiedad y del Comercio en Playas de Rosarito, notificará oficialmente esa circunstancia al Registrador de la jurisdicción municipal correspondiente, para que este último haga constar en la partida inicial la referencia de que ésta fue trasladada a los archivos del Registro Público de Playas de Rosarito.
+(DEROGADO, P.O. 28 DE JUNIO DE 2002)
 
 ###### ARTICULO CUARTO.
 
 El Registrador Público de la Propiedad y de Comercio en el municipio de Tijuana, a partir de la fecha de publicación de este Decreto, carecerá de facultad para consumar nuevas inscripciones, expedir o autorizar certificación alguna respecto a inscripciones, anotaciones y cancelaciones de actos jurídicos que consten en el archivo y que resulten de actual competencia de la Oficina Registral con sede en el Municipio de Playas de Rosarito.
 
 P.O. 21 DE JUNIO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JUNIO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
