@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1984-06-08"
+last_updated: "1986-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 1986.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -471,15 +471,13 @@ Los hidalguenses serán preferidos para toda clase de concesiones y para todo em
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1986)</small>
 
 ###### Artículo 23.
 
-El territorio del Estado es el expresado en el Supremo Decreto de Erección de 15 de enero de 1869, y se integra con los 84 Municipios que a continuación se enumeran:
+El Territorio del Estado es el expresado en el Supremo Decreto de Erección de 15 de Enero de 1869, y se integra con los 84 Municipios que a continuación se enumeran: 1. ACATLAN. 2. ACAXOCHITLAN. 3. ACTOPAN. 4. AGUA BLANCA DE ITURBIDE. 5. AJACUBA. 6. ALFAJAYUCAN. 7. ALMOLOYA. 8. APAN. 9. ATITALAQUIA. 10. ATLAPEXCO. 11. ATOTONILCO EL GRANDE. 12. ATOTONILCO DE TULA. 13. CALNALI. 14. CARDONAL. 15. CUAUTEPEC DE HINOJOSA. 16. CHAPANTONGO. 17. CHAPULHUACÁN. 18. CHILCUAUTLA. 19. EL ARENAL. 20. ELOXOCHITLAN. 21. EMILIANO ZAPATA. 22. EPAZOYUCAN. 23. FRANCISCO I. MADERO. 24. HUASCA DE OCAMPO. 25. HUAUTLA. 26. HUAZALINGO. 27. HUEHUETLA. 28. HUEJUTLA DE REYES. 29. HUICHAPAN. 30. IXMIQUILPAN. 31. JACALA DE LEDEZMA. 32. JALTOCAN. 33. JUAREZ HIDALGO. 34. LA MISION. 35. LOLOTLA. 36. METEPEC. 37. METZTITLAN. 38. MINERAL DEL CHICO. 39. MINERAL DEL MONTE. 40. MINERAL DE LA REFORMA. 41. MIXQUIAHUALA DE JUAREZ. 42. MOLANGO. 43. NICOLAS DE FLORES. 44. NOPALA DE VILLAGRAN. 45. OMITLAN DE JUAREZ. 46. PACULA. 47. PACHUCA DE SOTO. 48. PISAFLORES. 49. PROGRESO DE OBREGON. 50. SAN AGUSTIN METZQUITITLAN. 51. SAN AGUSTIN TLAXIACA. 52. SAN BARTOLO TUTOTEPEC. 53. SAN FELIPE ORIZATLAN. 54. SAN SALVADOR. 55. SANTIAGO DE ANAYA. 56. SANTIAGO TULANTEPEC DE LUGO GUERRERO. 57. SINGUILUCAN. 58. TAXQUILLO. 59. TECOZAUTLA. 60. TENANGO DE DORIA. 61. TEPEAPULCO. 62. TEPEHUACAN DE GUERRERO. 63. TEPEJI DEL RIO DE OCAMPO. 64. TEPETITLAN. 65. TETEPANGO. 66. TEZONTEPEC DE ALDAMA. 67. TIANGUISTENGO. 68. TIZAYUCA. 69. TLAHUELILPAN. 70. TLAHUILTEPA. 71. TLANALAPA. 72. TLANCHINOL. 73. TLAXCOAPAN. 74. TOLCAYUCA. 75. TULA DE ALLENDE. 76. TULANCINGO DE BRAVO. 77. VILLA DE TEZONTEPEC. 78. XOCHIATIPAN. 79. XOCHICOATLAN. 80. YAHUALICA. 81. ZACUALTIPAN DE ANGELES. 82. ZAPOTLAN DE JUAREZ. 83. ZEMPOALA. 84. ZIMAPAN.
 
-1. Acatlán. 2. Acaxochitlán. 3. Actopan. 4. Agua Blanca de Iturbide. 5. Ajacuba. 6. Alfajayucan. 7. Almoloya. 8. Apan. 9. Atitalaquia. 10. Atlapexco. 11. Atotonilco el Grande. 12. Atotonilco de Tula. 13. Calnali. 14. Cardonal. 15. Cuauhtepec de Hinojosa. 16. Chapantongo. 17. Chapulhuacán. 18. Chilcuauhtla. 19. El Arenal. 20. Eloxochitlán. 21. Emiliano Zapata. 22. Epazoyucán. 23. Francisco I. Madero. 24. Huasca de Ocampo. 25. Huauhtla. 26. Huazalingo. 27. Huehuetla. 28. Huejutla de Reyes. 29. Huichapan. 30. Ixmiquilpan. 31. Jacala de Ledesma. 32. Jaltocán. 33. Juárez-Hidalgo. 34. La Misión. 35. Lolotla. 36. Metepec. 37. Metztitlán. 38. Mineral del Chico. 39. Mineral del Monte. 40. Mineral de la Reforma. 41. Mixquiahuala de Juárez. 42. Molango. 43. Nicolás Flores. 44. Nopala de Villagrán. 45. Omitlán de Juárez. 46. Pacula. 47. Pachuca. 48. Pisaflores. 49. Progreso de Obregón. 50. San Agustín Mezquititlán. 51. San Agustín Tlaxiaca. 52. San Bartolo Tutotepec. 53. San Felipe Orizatlán. 54. San Salvador. 55. Santiago de Anaya. 56. Santiago Tulantepec. 57. Singuilucan. 58. Tasquillo. 59. Tecozautla. 60. Tenango de Doria. 61. Tepeapulco. 62. Tepehuacán de Guerrero. 63. Tepeji del Río de Ocampo. 64. Tepetitlán. 65. Tetepango. 66. Tezontepec de Aldama. 67. Tianguistengo. 68. Tizayuca. 69. Tlahuelilpan. 70. Tlahuiltepa. 71. Tlanalapa. 72. Tlanchinol. 73. Tlaxcoapan. 74. Tolcayuca. 75. Tula de Allende. 76. Tulancingo de Bravo. 77. Villa de Tezontepec. 78. Xochiatipán. 79. Xochicoatlán. 80. Yahualica. 81. Zacualtipan. 82. Zapotlán de Juárez. 83. Zempoala. 84. Zimapán.
-
-Las adiciones o supresiones a los nombres de los Municipios se podrán realizar a iniciativa de los Ayuntamientos respectivos y con aprobación del Congreso, debiendo, preferentemente, respetarse los nombres tradicionales.
+Las adiciones o supresiones a los nombres de los Municipios se podrán realizar a iniciativa de los Ayuntamientos respectivos y con aprobación del Congreso, debiendo preferentemente, respetarse los nombres tradicionales.
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -2226,6 +2224,10 @@ UNICO.- Estas modificaciones entrarán en vigor a partir del día siguiente de s
 P.O. 8 DE JUNIO DE 1984.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+P.O. 16 DE JULIO DE 1986.
+
+UNICO. El presente Decreto entará (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 3o.
 
