@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-notariado-para-el-estado-de-aguascalientes-3113"
 country: "mx"
 rank: "ley"
 publication_date: "1980-06-01"
-last_updated: "1987-07-19"
+last_updated: "1987-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 1 de junio de 1980.
 
@@ -101,7 +101,9 @@ En los casos de excepción podrá intervenir el notario salvo que aparezca su in
 
 Los jueces desecharán de plano, toda promoción que contravenga esta disposición y darán conocimiento al Ministerio Público para los fines de su cargo. Será motivo de responsabilidad de parte de los jueces la falta de cumplimiento a esta disposición.
 
-La infracción a esta disposición traerá consigo la pérdida de cargo de Notario, el pago de daños y perjuicios y multa de mil pesos a veinticinco mil pesos.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1987)</small>
+
+La infracción a esta disposición traerá consigo la pérdida del cargo de Notario, el pago de daños y perjuicios y multa igual al importe de ocho a doscientos días del salario mínimo general vigente.
 
 ###### ARTICULO 7o.
 
@@ -619,7 +621,9 @@ d).- Por cualquier otra violación menor, tal como no llevar índices, no empast
 
 e).- Por incumplimiento de las obligaciones estipuladas en el Artículo 10 de esta Ley.
 
-II.- Multa de cinco mil a cincuenta mil pesos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 1987)</small>
+
+II.- Multa igual al importe de cuarenta a cuatrocientos días del salario mínimo general vigente.
 
 a).- Por reincidir en alguna de las infracciones antes señaladas.
 
@@ -763,9 +767,11 @@ Antes de iniciar el ejercicio de sus funciones, los notarios rendirán ante el G
 
 Cuando algún notario en ejercicio, debidamente autorizado, pase transitoria o permanentemente a ejercer a otra municipalidad, lo mismo que para reasumir sus funciones después de alguna licencia, no es necesaria nueva protesta.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 96.
 
-El ejercicio notarial sin la protesta a que se contrae el Artículo 94 de esta Ley, será castigado administrativamente con multa de diez mil a veinticinco mil pesos, sin perjuicio de las demás responsabilidades de orden civil o penal en que el notario pudiera haber incurrido.
+El ejercicio notarial sin la protesta de ley a que se contrae el Artículo 94 de esta Ley, será castigado administrativamente con multa igual al importe de ochenta a doscientos días del salario mínimo general vigente, sin perjuicio de las demás responsabilidades del orden civil o penal en que el Notario pudiera haber incurrido.
 
 ###### ARTICULO 97.
 
@@ -1058,3 +1064,7 @@ Lic. Antonio Javier Aguilera García.
 P.O. 19 DE JULIO DE 1987.
 
 UNICO.- El presente Decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE NOVIEMBRE DE 1987.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
