@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2001-11-23"
+last_updated: "2003-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -2821,9 +2821,21 @@ Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo ac
 
 En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la custodia el que primero lo hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el juez no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
+
+###### Art. 381 Bis.
+
+La paternidad y la maternidad pueden probarse por cualquiera de los medios ordinarios. Para estos efectos, la prueba del ADN, prueba biológica molecular de la caracterización del ácido desoxirribonucleico de las células, realizada por instituciones certificadas para este tipo de pruebas por la Secretaría de Salud del Estado, tendrá validez plena. Si se propusiera esta prueba y el presunto progenitor no asistiere a la práctica de la prueba o se negare a proporcionar la muestra necesaria, se presumirá la filiación, salvo prueba en contrario.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
+
+Art. 381 Bis I.- Generada la presunción de la filiación, en actos prejudiciales, podrá decretarse pensión alimenticia, como medida provisional y de protección, a cargo del presunto progenitor y a favor de pretendido hijo, al admitirse la demanda correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Art. 382.
 
-La investigación de la paternidad de los hijos nacidos fuera de matrimonio, está permitida:
+La investigación de la paternidad de los hijos nacidos fuera de matrimonio podrá realizarse:
 
 I.- En los casos de rapto, estupro o violación, cuando la época del delito coincida con la de la concepción;
 
@@ -2831,7 +2843,9 @@ II.- Cuando el hijo se encuentre en posesión de estado de hijo del presunto pad
 
 III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre habitaba bajo el mismo techo con el pretendido padre, viviendo maritalmente;
 
-IV.- Cuando el hijo tenga a su favor un principio de prueba contra del pretendido padre.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
+
+IV.- Cuando el hijo tenga a su favor un principio de prueba en contra del pretendido padre. Si no se cuenta con este tipo de prueba, podrá obtenerse mediante el acto prejudicial de investigación de la paternidad.
 
 ###### Art. 383.
 
@@ -2861,9 +2875,7 @@ El hecho de dar alimentos no constituye por sí solo prueba, ni aún presunción
 
 ###### Art. 388.
 
-Las acciones de investigación de paternidad o maternidad, sólo pueden intentarse en vida de los padres.
-
-Si los padres hubieren fallecido durante la menor edad de los hijos, tienen éstos derecho de intentar la acción antes de que se cumplan cuatro años de su mayor edad.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2003)
 
 ###### Art. 389.
 
@@ -16306,5 +16318,9 @@ P.O. 13 DE OCTUBRE DE 2000.
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 P.O. 23 DE NOVIEMBRE DE 2001.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
