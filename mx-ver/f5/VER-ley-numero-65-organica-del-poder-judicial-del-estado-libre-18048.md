@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2003-12-31"
+last_updated: "2004-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -37,7 +37,7 @@ Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Esta
 
 LA HONORABLE QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTICULOS 33 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL; 44 DE LA LEY ORGANICA DEL PODER LEGISLATIVO; 103 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO Y EN NOMBRE DEL PUEBLO, EXPIDE LA SIGUIENTE:
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. DE 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 LEY Núm. 65
 
@@ -119,7 +119,7 @@ IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite
 
 V. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución Federal y la ley de la materia;
 
-VI. No tener más de 70 años de edad.
+VI. (DEROGADA, G.O. 27 DE AGOSTO DE 2004)
 
 No podrán ser magistrados las personas que hayan ocupado el cargo de Secretario del Despacho o su equivalente, Procurador General de Justicia, Senador, Diputado Local o Federal ni Presidente Municipal, durante el año previo al día de su nombramiento.
 
@@ -175,9 +175,11 @@ III. El Pleno del Tribunal Superior de Justicia resolverá las contradicciones e
 
 IV. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2002)
 
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 12.
 
-El Tribunal Superior de Justicia realizará la compilación, sistematización y publicación de las resoluciones y precedentes obligatorios que dicten los órganos competentes del Poder Judicial, a fin de garantizar su adecuada distribución y difusión.
+El Tribunal Superior de Justicia realizará la compilación, sistematización y publicación de las resoluciones y precedentes obligatorios que dicten el Pleno y las Salas que lo integran, a fin de garantizar su adecuada distribución y difusión.
 
 ### CAPÍTULO III. De la Integración y Funcionamiento de las Salas de los Tribunales del Poder Judicial
 
@@ -237,7 +239,13 @@ VII. Participar en los programas de capacitación del Instituto de Formación, C
 
 VIII. Participar en los programas de visitas a los Juzgados del Estado implementados por el Consejo de la Judicatura; y
 
-IX. Las demás que expresamente establezcan la Constitución local, esta ley y las leyes del Estado.
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+IX. Informar a su presidente de sus ausencias temporales no mayores de cinco días; y
+
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2004)</small>
+
+X. Las demás que expresamente establezcan la Constitución local y las leyes del Estado.
 
 ###### Artículo 18.
 
@@ -247,11 +255,11 @@ El Congreso del Estado o, en sus recesos, la Diputación Permanente, resolverán
 
 En ningún caso se podrán conceder licencias con el carácter de indefinidas, ni tampoco por un tiempo mayor de noventa días naturales durante el período de un año; excepto cuando se trate de cursos de especialización en materia jurídica, cuya duración no exceda de seis meses.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 19.
 
-En sus ausencias o licencias temporales y para efectos de integrar Sala, los magistrados serán suplidos por el Secretario de Acuerdos de la misma.
+En sus ausencias o licencias temporales y para efectos de integrar Sala, los Magistrados serán suplidos por el Secretario de Acuerdos de la misma. A falta o imposibilidad de éste, por un Secretario de Estudio y Cuenta de la propia Sala, en cuyo caso no se exigirá el requisito previsto por el artículo 4, fracción II, de esta ley.
 
 ###### Artículo 20.
 
@@ -443,11 +451,11 @@ Las resoluciones del Pleno se tomarán por mayoría de votos de los presentes, q
 
 ### CAPÍTULO II. De la competencia del Pleno del Tribunal
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 38.
 
-El Pleno del Tribunal Superior de Justicia velará por la autonomía de los órganos del Poder Judicial del Estado, por la independencia de sus miembros y tendrá competencia para:
+El Pleno del Tribunal Superior de Justicia tendrá competencia para:
 
 I. Conocer y resolver las controversias constitucionales que surjan entre:
 
@@ -485,37 +493,65 @@ VII. Resolver sobre la responsabilidad administrativa de los Consejeros de la Ju
 
 VIII. Hacer del conocimiento del Procurador General de Justicia, los hechos que pudieran ser constitutivos de delitos atribuidos a los servidores públicos de la administración de justicia;
 
-IX. Representar, por conducto de su Presidente, al Poder Judicial;
+IX. (DEROGADA, G.O. 27 DE AGOSTO DE 2004)
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+X. (DEROGADA, G.O. 27 DE AGOSTO DE 2004)
 
-X. Autorizar al Consejo de la Judicatura la celebración de contratos, cuyo valor de operación exceda de veinticinco mil salarios mínimos vigentes en la capital del Estado, en los términos que dispongan esta ley y las leyes de la materia;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XI. Aprobar el Proyecto de presupuesto del Poder Judicial, con base en los respectivos anteproyectos que le remitan el Consejo de la Judicatura, y los Tribunales y Salas que lo integran, el que se enviará al Ejecutivo a más tardar el día quince de noviembre de cada año, para su presentación y, en su caso, aprobación definitiva por el Congreso del Estado, en los términos que señalen esta ley y demás disposiciones legales en la materia;
+XI. Aprobar el anteproyecto de presupuesto del Tribunal Superior de Justicia, con base en los anteproyectos que le remitan las Salas que lo integran;
 
-XII. Rendir cuentas anualmente al Congreso del Estado, acerca del ejercicio del presupuesto del Poder Judicial y del Fondo Auxiliar para la Impartición de Justicia, en los términos que señalen esta ley y demás disposiciones legales en la materia;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XIII. Aprobar el Reglamento del Tribunal Superior de Justicia;
+XII. Ejercer su presupuesto bajo los criterios de legalidad, transparencia, honradez y austeridad;
 
-XIV. Resolver, de oficio o por denuncia, las contradicciones entre precedentes obligatorios emitidos por las Salas del Poder Judicial;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XV. Resolver los conflictos de competencia que surjan entre las Salas del Tribunal Superior de Justicia, entre los Tribunales de lo Contencioso Administrativo y de Conciliación y Arbitraje, entre éstos y los Juzgados, y de los juzgados entre sí;
+XIII. Entregar a su presidente la cuenta pública documentada del ejercicio fiscal del año anterior;
 
-XVI. Reglamentar el funcionamiento del órgano que realice la compilación y sistematización de las resoluciones y precedentes obligatorios que emitan las Salas del Poder Judicial;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XVII. Presentar ante el Congreso las iniciativas de leyes o decretos, en todo lo relacionado con la organización y funcionamiento de la impartición y la administración de justicia;
+XIV. Atender las observaciones y recomendaciones que le formule el Órgano de Fiscalización Superior, respecto del ejercicio de su presupuesto, en los términos que establezca la Ley;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XVIII. Elegir a su Presidente en términos de esta ley, así como conocer y aceptar, en su caso, las licencias o renuncia a dicho cargo; asimismo, conceder licencias que no excedan de diez días naturales a los Magistrados del Tribunal Superior de Justicia;
+XV. Aprobar el Reglamento del Tribunal Superior de Justicia;
 
-XIX. Adscribir a los Magistrados a las Salas correspondientes;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+XVI. Resolver, de oficio o por denuncia, las contradicciones entre precedentes obligatorios emitidos por las Salas;
 
-XX. Nombrar, mediante votación secreta, a tres magistrados para que formen parte del Consejo de la Judicatura, en términos de lo dispuesto por el artículo 100 de la presente ley; y
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XXI. Conocer de los demás asuntos que expresamente establezcan la Constitución Política local, esta ley y demás leyes del Estado.
+XVII. Resolver los conflictos de competencia que surjan entre las Salas del Tribunal Superior de Justicia, entre éstas y los Juzgados y de los juzgados entre sí;
+
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XVIII. Establecer, en su respectivo ámbito y en los términos de esta ley, los precedentes obligatorios de él o de sus Salas y ordenar su publicación, debidamente compilada y sistematizada, por conducto del presidente del Tribunal;
+
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XIX. Presentar ante el Congreso las iniciativas de leyes o decretos, en todo lo relacionado con la organización y funcionamiento de la impartición y la administración de justicia;
+
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XX. Elegir a su Presidente en términos de esta ley, así como conocer y aceptar, en su caso, las licencias o renuncia a dicho cargo; asimismo, conceder licencias que no excedan de diez días naturales a los Magistrados del Tribunal Superior de Justicia;
+
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XXI. Adscribir a los Magistrados a las Salas correspondientes;
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XXII. Nombrar, mediante votación secreta, a tres magistrados para que formen parte del Consejo de la Judicatura, en términos de lo dispuesto por el artículo 100 de la presente ley;
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XXIII. Acordar sobre el funcionamiento de la Sala Auxiliar prevista en el artículo 66 de la Constitución Política del Estado; y
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XXIV. Conocer de los demás asuntos que expresamente establezcan la Constitución local y las leyes del Estado.
 
 ### CAPÍTULO III. De su Presidente
 
@@ -527,7 +563,9 @@ El Tribunal Superior de Justicia será presidido por un Magistrado que no integr
 
 El Presidente del Tribunal Superior de Justicia tendrá las atribuciones siguientes:
 
-I. Representar legalmente al Tribunal y al Consejo de la Judicatura, y firmar los oficios que se expidan a los otros Poderes del Estado, de la Federación u otras Entidades;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+I. Representar legalmente al Tribunal y al Consejo de la Judicatura y asumir, para los efectos legales procedentes, la representación del Poder Judicial;
 
 II. Velar en todo momento por la autonomía e independencia de los órganos del Poder Judicial y por la inviolabilidad de los recintos judiciales, para lo cual podrá solicitar en caso necesario el auxilio de la fuerza pública.
 
@@ -535,7 +573,9 @@ III. Designar como su representante para asuntos concretos a otro Magistrado o s
 
 IV. Celebrar, por acuerdo del Pleno, convenios y contratos en la esfera de su competencia;
 
-V. Presentar ante el Pleno del Tribunal Superior y del Consejo de la Judicatura, así como ante los demás integrantes del Poder Judicial, en la primera semana de diciembre de cada año, un informe por escrito de las actividades realizadas por el Poder Judicial en el año correspondiente. Este informe se entregará al Congreso del Estado;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+V. Presentar ante el Pleno del Tribunal Superior y del Consejo de la Judicatura, en la primera semana de diciembre de cada año, un informe por escrito de las actividades realizadas por el tribunal que preside. Este informe se entregará al Congreso del Estado;
 
 VI. Dar cuenta al Pleno de las demandas instauradas en contra de los servidores públicos a que se refiere el artículo 77 de la Constitución Política local;
 
@@ -565,9 +605,9 @@ XVIII. Convocar a sesiones extraordinarias en los términos que disponga esta le
 
 XIX. Tramitar los asuntos de la competencia del Pleno hasta ponerlos en estado de resolución, con excepción de los previstos en las fracciones I, II y III del artículo 38 de esta ley;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XX. Ordenar la publicación de los precedentes obligatorios que dicten las Salas y Tribunales del Poder Judicial, en los términos que señale su Reglamento;
+XX. Ordenar la publicación de los precedentes obligatorios que dicten el Pleno y las Salas del Tribunal Superior de Justicia, en los términos que señale su Reglamento;
 
 XXI. Conceder audiencia pública;
 
@@ -575,23 +615,29 @@ XXII. Dictar los acuerdos que sean pertinentes en todos los ocursos que se le di
 
 XXIII. Vigilar el debido cumplimiento de los acuerdos del Pleno tanto del Tribunal Superior como del Consejo de la Judicatura y de los que el mismo dictare;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XXIV. Conocer de los avisos que los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo o del Tribunal de Conciliación y Arbitraje le den respecto a sus ausencias no mayores de cinco días;
+XXIV. Conocer de los avisos que los Magistrados del Tribunal Superior de Justicia le den respecto a sus ausencias no mayores de cinco días;
 
 XXV. Informar a los integrantes del Tribunal Superior de Justicia, de los acuerdos tomados por el Consejo de la Judicatura;
 
 XXVI. Proponer al Pleno del Tribunal y al Consejo de la Judicatura las medidas indispensables para la mejor administración de justicia;
 
-XXVII. Tomar la protesta a los Secretarios de Acuerdos de Sala en los casos en que deban ejercer las funciones de Magistrado; y
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE DICIEMBRE DE 2002)</small>
+XXVII. Recibir los anteproyectos de presupuesto que le remitan las Salas del Tribunal Superior de Justicia para someterlos, a más tardar el día quince de octubre de cada año, a la consideración del Pleno;
 
-XXVIII. Aceptar donaciones puras y simples en beneficio del patrimonio del Poder Judicial del Estado.
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 30 DE DICIEMBRE DE 2002)</small>
+XXVIII. Enviar al Ejecutivo, a más tardar el quince de noviembre de cada año, los anteproyectos de presupuesto de los tribunales que integran el Poder Judicial, así como el del Consejo de la Judicatura, el que incluirá el de juzgados y órganos;
 
-XXIX. Las demás que expresamente establezcan la Constitución local, esta ley y las leyes del Estado.
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XXIX. Enviar al Congreso del Estado, a más tardar el último día del mes de mayo, la cuenta pública documentada y consolidada de los tribunales y del Consejo de la Judicatura; y
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XXX. Las demás que expresamente establezcan la Constitución Local y las leyes del Estado.
 
 ###### Artículo 41.
 
@@ -605,6 +651,10 @@ El Pleno del Tribunal Superior de Justicia y sus Salas contarán, respectivament
 
 El Tribunal Superior de Justicia se integrará con una Sala Constitucional, cuatro Salas Penales, tres Salas Civiles y una Sala Electoral. Cada una de ellas se compondrá por tres Magistrados, de entre los que se elegirá a su presidente, el cual fungirá por un año, con la posibilidad de ser reelegido.
 
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2004)</small>
+
+Cuando no existan procesos electorales, plebiscitarios o de referendo, la Sala Electoral funcionará como Sala Auxiliar y conocerá de la materia que se le asigne, en la forma y términos que acuerde el Pleno.
+
 ###### Artículo 43.
 
 Las Salas tendrán competencia para:
@@ -617,7 +667,9 @@ III. Girar mandamientos, en el ámbito de su competencia, a los juzgados del Est
 
 IV. Requerir, en el ámbito de su competencia, a las autoridades estatales o municipales, organismos, entidades y particulares, según corresponda, los informes o documentos necesarios para la sustanciación de los expedientes cuando, instaurado un juicio, tengan relación con los puntos controvertidos, en los casos y términos previstos por las leyes;
 
-V. Elaborar anualmente su anteproyecto de presupuesto y enviarlo al Presidente del Tribunal Superior de Justicia para la elaboración del Proyecto de Presupuesto del Poder Judicial del Estado;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+V. Elaborar anualmente su anteproyecto de presupuesto y enviarlo al Presidente del Tribunal Superior de Justicia, a fin de que éste lo someta al acuerdo del Pleno;
 
 VI. Proponer, en el ámbito de su competencia, al Tribunal Superior de Justicia las reformas al Reglamento del Tribunal Superior de Justicia que estime necesarias;
 
@@ -651,7 +703,7 @@ VII. Adoptar las medidas de naturaleza inmediata o urgente necesarias para el de
 
 VIII. Solicitar al Presidente del Tribunal Superior de Justicia, la aplicación de correcciones disciplinarias a los promoventes, litigantes o particulares que en sus escritos falten al respeto al Presidente y a los Magistrados de la Sala;
 
-IX. Turnar a los Magistrados de la Sala, los expedientes para la formulación de los proyectos de resolución;
+IX. (DEROGADA, G.O. 27 DE AGOSTO DE 2004)
 
 X. Informar al Presidente del Tribunal Superior de Justicia, para su publicación, de las resoluciones y precedentes obligatorios dictados por la Sala correspondiente;
 
@@ -659,7 +711,9 @@ XI. Rendir al Presidente del Tribunal Superior de Justicia, dentro de los primer
 
 XII. Proponer, previo acuerdo de la Sala de que se trate y en su respectivo ámbito de competencia, reformas al reglamento del Tribunal Superior de Justicia;
 
-XIII. Las demás que expresamente establezcan la Constitución Política local, esta ley y las leyes del Estado;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XIII. Las demás que expresamente establezcan la Constitución local y las leyes del Estado.
 
 #### SECCIÓN PRIMERA. De la Sala Constitucional
 
@@ -715,6 +769,8 @@ V. Los demás que expresamente establezcan la Constitución Política local, est
 
 #### SECCIÓN CUARTA. De la Sala Electoral
 
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 48.
 
 La Sala Electoral tendrá competencia para:
@@ -727,9 +783,11 @@ b) Actos o resoluciones de los órganos electorales, durante el tiempo que trans
 
 c) Actos o resoluciones que violen los derechos políticos electorales de los ciudadanos;
 
-IV. Realizar el cómputo final y, en su caso, la declaración de validez de la elección de Gobernador, y la de Gobernador electo del candidato que hubiere obtenido el mayor número de sufragios, ordenando su publicación en la Gaceta Oficial del Estado; y
+II. Realizar el cómputo final y, en su caso, la declaración de validez de la elección de Gobernador, y la de Gobernador electo del candidato que hubiere obtenido el mayor número de sufragios, ordenando su publicación en la Gaceta Oficial del Estado;
 
-V. Conocer de los demás asuntos que expresamente establezcan la Constitución local, esta ley y las leyes del Estado.
+III. Conocer, en funciones de Sala Auxiliar, de los asuntos y la materia que le asigne el Pleno; y
+
+IV. Conocer de los demás asuntos que expresamente establezcan la Constitución local y las leyes del Estado.
 
 #### SECCIÓN PRIMERA. De su Organización y Funcionamiento
 
@@ -785,11 +843,23 @@ VIII. Proponer al Consejo de la Judicatura el nombramiento del Secretario de Acu
 
 IX. Someter a la consideración de la Sala Superior reformas al Reglamento de su propio Tribunal;
 
-X. Remitir al Presidente del Tribunal Superior de Justicia, dentro de los primeros quince días del mes de noviembre de cada año, el informe anual de las actividades del Tribunal, para su inclusión en el informe que aquél rinda al Pleno de su propio Tribunal;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+X. Presentar ante el Consejo de la Judicatura y los Magistrados que integran las Salas Superior y Regionales del Tribunal de lo Contencioso Administrativo, en la primera semana de diciembre de cada año, un informe por escrito de las actividades realizadas por el órgano jurisdiccional que preside. Este informe se entregará al Congreso del Estado;
 
 XI. Conocer y someter a la consideración de la Sala Superior, las excusas o impedimentos de los Magistrados del Tribunal; y
 
-XII. Las demás que expresamente establezcan la Constitución local, esta ley y las leyes del Estado.
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XII. Elaborar y someter a la consideración de la Sala Superior, a más tardar el día quince de octubre de cada año, su anteproyecto anual de presupuesto;
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XIII. Conocer de los avisos que los Magistrados del Tribunal de lo Contencioso Administrativo le den respecto a sus ausencias no mayores de cinco días; y
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XIV. Las demás que expresamente establezcan la Constitución local y las leyes del Estado.
 
 #### SECCIÓN TERCERA. De la Competencia del Tribunal de Conciliación y Arbitraje
 
@@ -797,7 +867,9 @@ XII. Las demás que expresamente establezcan la Constitución local, esta ley y 
 
 La Sala Superior tendrá su sede oficial en el Municipio de Xalapa-Enríquez y tendrá competencia para:
 
-I. Establecer, en su respectivo ámbito, los precedentes obligatorios en los términos que señala esta ley;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+I. Establecer, en su respectivo ámbito, los precedentes obligatorios en los términos de esta ley y ordenar su publicación, debidamente compilada y sistematizada, por conducto de su presidente;
 
 II. Resolver los recursos de revisión que se interpongan en contra de las resoluciones de las Salas Regionales;
 
@@ -819,7 +891,17 @@ X. Dar cuenta al Consejo de la Judicatura de las irregularidades de que tenga co
 
 XI. Aprobar el Reglamento del Tribunal de lo Contencioso Administrativo y remitirlo, para su publicación, al Presidente del Tribunal Superior de Justicia; y
 
-XII. Conocer de los demás asuntos que expresamente establezcan la Constitución Política local, esta ley y las leyes del Estado.
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XII. Ejercer el presupuesto del Tribunal bajo los criterios de legalidad, honradez, transparencia y austeridad;
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XIII. Atender las observaciones y recomendaciones que le formule el Órgano de Fiscalización Superior, respecto del ejercicio de su presupuesto, en los términos que establezca la Ley; y
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XIV. Conocer de los demás asuntos que expresamente establezcan la Constitución local y las leyes del Estado.
 
 #### SECCIÓN CUARTA. De la Procuraduría para la Defensa de los Trabajadores
 
@@ -909,17 +991,31 @@ VII. Proponer al Consejo de la Judicatura, el nombramiento del Secretario de Acu
 
 VIII. Proponer reformas al Reglamento de su Tribunal;
 
-IX. Remitir al Presidente del Tribunal Superior de Justicia, dentro de los primeros quince días del mes de noviembre de cada año, el informe anual de las actividades del Tribunal, para su inclusión en el informe que aquél rinda al Pleno de su propio Tribunal;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+IX. Presentar ante el Consejo de la Judicatura y los Magistrados que integran el Tribunal de Conciliación y Arbitraje, en la primera semana de diciembre de cada año, un informe por escrito de las actividades realizadas por el órgano jurisdiccional que preside. Este informe se entregará al Congreso del Estado;
 
 X. Conocer y someter a la consideración del Tribunal, las excusas o impedimentos de sus Magistrados;
 
-XI. Las demás que expresamente establezcan la Constitución Política local, esta ley y las leyes del Estado.
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XI. Elaborar y someter a la consideración de los Magistrados que integran el Tribunal, a más tardar el día quince de octubre de cada año, el anteproyecto anual de presupuesto;
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XII. Conocer de los avisos que los Magistrados del Tribunal de Conciliación y Arbitraje le den respecto a sus ausencias no mayores de cinco días; y
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XIII. Las demás que expresamente establezcan la Constitución local y las leyes del Estado.
 
 ###### Artículo 60.
 
 El Tribunal de Conciliación y Arbitraje tendrá su sede oficial en el Municipio de Xalapa-Enríquez y tendrá competencia para:
 
-I. Establecer, en su respectivo ámbito, precedentes de observancia obligatoria en los términos que establezca la ley;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+I. Establecer, en su respectivo ámbito, los precedentes obligatorios en los términos de esta ley y ordenar su publicación, debidamente compilada y sistematizada, por conducto de su presidente;
 
 II. Resolver las controversias laborales que se susciten entre los Poderes Judicial o Legislativo y sus trabajadores; entre la administración pública estatal y municipal con sus empleados; y entre los organismos autónomos de Estado y sus trabajadores;
 
@@ -939,7 +1035,21 @@ IX. Aprobar el reglamento del Tribunal de Conciliación y Arbitraje y remitirlo,
 
 X. Dar cuenta al Consejo de la Judicatura de las irregularidades de que tenga conocimiento, cometidas por los secretarios, actuarios y demás servidores públicos del Tribunal de Conciliación y Arbitraje, que afecten el buen funcionamiento del mismo; y
 
-XI. Conocer de los demás asuntos que expresamente establezcan la Constitución Política local, esta ley y las leyes del Estado;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XI. Ejercer su presupuesto bajo los criterios de legalidad, honradez, transparencia y austeridad;
+
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XII. Entregar a su presidente la cuenta pública documentada del ejercicio fiscal del año anterior;
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XIII. Atender las observaciones y recomendaciones que le formule el Órgano de Fiscalización Superior, respecto del ejercicio de su presupuesto, en los términos que establezca la Ley; y
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XIV. Conocer de los demás asuntos que expresamente establezcan la Constitución local y las leyes del Estado.
 
 ###### Artículo 61.
 
@@ -1199,7 +1309,9 @@ VIII. Sustituir en el trámite de los asuntos, en su Distrito Judicial, a los Ju
 
 IX. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2002)
 
-X. Las demás que expresamente establezcan esta ley y las leyes del Estado.
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+X. Las demás que expresamente establezcan la Constitución local y las leyes del Estado.
 
 ###### Artículo 82.
 
@@ -1367,71 +1479,107 @@ I. Conducir la administración, vigilancia y disciplina del Poder Judicial, con 
 
 II. Formar, actualizar y especializar a los servidores públicos del Poder Judicial, así como desarrollar la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia;
 
-III. Auxiliar al Pleno del Tribunal Superior de Justicia en la elaboración del proyecto de presupuesto el que deberá especificar, por renglón separado, las partidas para los Tribunales, Juzgados y órganos que integran el Poder Judicial, en los términos que señalen esta ley y demás disposiciones legales en la materia;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+III. Elaborar su anteproyecto anual de presupuesto de egresos, así como el de los juzgados y órganos del Poder Judicial y remitirlos a su presidente;
 
 IV. Celebrar sesiones ordinarias una vez por semana; y extraordinarias, cada vez que se requieran, previa convocatoria de su Presidente o a solicitud de cualquiera de sus integrantes;
 
 V. Erigir, de conformidad con el reglamento y el presupuesto, el número de Juzgados en las materias que se requieran, determinando la cabecera del distrito o ciudad donde deban residir, y adscribir a los jueces que deben integrar cada uno de ellos;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-VI. Con excepción de los Magistrados nombrar, remover y resolver sobre la adscripción y renuncia de los servidores públicos del Poder Judicial; así como cambiar de adscripción, según las necesidades del servicio, a Jueces y Secretarios de Primera Instancia a Menores, o viceversa;
+VI. Con excepción de los Magistrados, nombrar, remover y resolver sobre la adscripción y renuncia de los servidores públicos del Poder Judicial; así como cambiar de adscripción, según las necesidades del servicio, a Jueces y Secretarios de Primera Instancia a Menores, o viceversa; para el caso de nombrar al Director General de Administración, éste deberá cubrir los requisitos previstos por el artículo 123, fracción I, inciso b;
 
-VII. Administrar el Fondo Auxiliar para la Impartición de Justicia;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-VIII. Atender las solicitudes del Órgano de Fiscalización Superior respecto del ejercicio del presupuesto del Poder Judicial y de la Administración del Fondo Auxiliar para la Impartición de Justicia, en los términos que establezca la Ley;
+VII. Ejercer su presupuesto y el de los juzgados, así como administrar el Fondo Auxiliar para la Impartición de Justicia, con transparencia, eficacia, honradez y austeridad.
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-IX. Resolver, previa garantía de audiencia, fundando y motivando su resolución, sobre las quejas administrativas y sobre los instructivos de responsabilidad de los servidores públicos del Poder Judicial, mediante los procedimientos establecidos en esta Ley, así como por los reglamentos y acuerdos que el propio Consejo dicte en materia disciplinaria, con excepción de los Magistrados de los Tribunales y del personal del Tribunal Superior de Justicia;
+VIII. Entregar a su presidente la cuenta pública documentada del ejercicio fiscal del año anterior;
 
-X. Convenir con instituciones de educación superior, a efecto de que la carrera judicial se desarrolle a nivel de excelencia, y aplicar los exámenes de oposición para ocupar los cargos de Jueces y Secretarios en los Juzgados de Primera Instancia y Menores;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+IX. Atender las observaciones y recomendaciones que le formule el Órgano de Fiscalización Superior, respecto del ejercicio de su presupuesto y el de los juzgados, así como de la administración del Fondo Auxiliar, en los términos que establezca la Ley;
 
-XI. Investigar y determinar la responsabilidad y sanciones de los servidores públicos del Poder Judicial que, con motivo de las irregularidades que se detecten, hagan de su conocimiento los Magistrados y Jueces, así como notificar a los Magistrados los acuerdos que tome el Pleno;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XII. Controlar, evaluar, inspeccionar y vigilar los ingresos, gastos, recursos y obligaciones de los órganos y servidores públicos del Poder Judicial, con excepción del Tribunal Superior de Justicia, durante el ejercicio presupuestal correspondiente;
+X. Resolver, previa garantía de audiencia, fundando y motivando su resolución, sobre las quejas administrativas y sobre los instructivos de responsabilidad de los servidores públicos del Poder Judicial, mediante los procedimientos establecidos en esta Ley, así como por los reglamentos y acuerdos que el propio Consejo dicte en materia disciplinaria, con excepción de los Magistrados de los Tribunales y del personal del Tribunal Superior de Justicia;
 
-XIII. Expedir los reglamentos interiores en materia administrativa, de Contraloría Interna, defensoría de oficio, carrera judicial, escalafón, visitaduría judicial y régimen disciplinario del Poder Judicial del Estado;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+XI. Convenir con instituciones de educación superior, a efecto de que la carrera judicial se desarrolle a nivel de excelencia, y aplicar los exámenes de oposición para ocupar los cargos de Jueces y Secretarios en los Juzgados de Primera Instancia y Menores;
 
-XIV. Celebrar contratos para atender las necesidades administrativas del Poder Judicial del Estado, en los términos señalados por esta ley y las leyes del Estado;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XV. Organizar simposiums, conferencias y demás eventos que resulten de interés para el Poder Judicial del Estado;
+XII. Investigar y determinar la responsabilidad y sanciones de los servidores públicos del Poder Judicial que, con motivo de irregularidades, denuncien los particulares o le hagan de su conocimiento los Magistrados y Jueces, informándoles de los acuerdos que al respecto tome;
 
-XVI. Practicar visitas a los juzgados y a la Comisión Jurisdiccional de Menores Infractores, así como realizar investigaciones sobre casos concretos;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+XIII. Controlar, evaluar, inspeccionar y vigilar los ingresos, gastos, recursos y obligaciones de los órganos y servidores públicos del Poder Judicial, con excepción del Tribunal Superior de Justicia, durante el ejercicio presupuestal correspondiente;
 
-XVII. Conocer y resolver, con excepción de los Magistrados, sobre los casos de renuncia, licencia no mayor a diez días naturales, ausencia temporal, suplencia y faltas definitivas de los servidores públicos del Poder Judicial, en los términos que señale esta ley. El Consejo de la Judicatura podrá delegar esta facultad a los titulares de los órganos jurisdiccionales.
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XIV. Expedir los reglamentos interiores en materia administrativa, de Contraloría Interna, defensoría de oficio, carrera judicial, escalafón, visitaduría judicial y régimen disciplinario del Poder Judicial del Estado;
+
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XV. Celebrar contratos para atender las necesidades administrativas del Poder Judicial del Estado, en los términos señalados por esta ley y las leyes del Estado;
+
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XVI. Organizar simposiums, conferencias y demás eventos que resulten de interés para el Poder Judicial del Estado;
+
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XVII. Practicar visitas a los juzgados y a la Comisión Jurisdiccional de Menores Infractores, así como realizar investigaciones sobre casos concretos:
+
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XVIII. Conocer y resolver, con excepción de los Magistrados, sobre los casos de renuncia, licencia no mayor a diez días naturales, ausencia temporal, suplencia y faltas definitivas de los servidores públicos del Poder Judicial, en los términos que señale esta ley. El Consejo de la Judicatura podrá delegar esta facultad a los titulares de los órganos jurisdiccionales;
 
 También resolverá respecto de licencias solicitadas por los Magistrados de los Tribunales de lo Contencioso Administrativo y de Conciliación y Arbitraje, no mayores a diez días naturales;
 
-XVIII. Calificar los impedimentos de los Consejeros;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XIX. Desarrollar por conducto del Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial del Estado, tareas de formación, actualización, investigación, capacitación y especialización de los miembros del Poder Judicial así como de los interesados en ingresar a la carrera judicial. El Consejo establecerá los planes y programas de estudio, así como el reglamento de Instituto;
+XIX. Calificar los impedimentos de los Consejeros;
 
-XX. Administrar el sistema aleatorio para la distribución de los asuntos que se radiquen en los Tribunales del Poder Judicial, en los términos previstos por esta ley;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+XX. Desarrollar por conducto del Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial del Estado, tareas de formación, actualización, investigación, capacitación y especialización de los miembros del Poder Judicial así como de los interesados en ingresar a la carrera judicial. El Consejo establecerá los planes y programas de estudio, así como el reglamento de (sic) Instituto;
 
-XXI. Nombrar y remover libremente a los defensores de oficio; en relación con los adscritos a las Salas del Tribunal Superior de Justicia, se hará a propuesta del Pleno del propio Tribunal;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XXII. Llevar el registro de los profesionales que, en calidad de peritos y de conformidad con lo dispuesto en la Ley, puedan fungir como auxiliares de la administración de justicia, la que deberá publicarse en la Gaceta Oficial del Estado, dentro de los primeros diez días de cada año;
+XXI. Administrar el sistema aleatorio para la distribución de los asuntos que se radiquen en los Tribunales del Poder Judicial, en los términos previstos por esta ley;
 
-XXIII. Proporcionar de manera eficiente a los litigantes y público en general, información acerca del estado que guardan los asuntos radicados, salvo de aquellos negocios que la Ley exija reserva;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XXIV. Tener bajo su cuidado el Archivo Judicial, para el resguardo de los expedientes que provengan de los Tribunales del Poder Judicial, relativos a procesos concluidos y demás documentos que se reciban y deban archivarse; así como la integración y conservación del acervo de la Biblioteca del Poder Judicial; y
+XXII. Nombrar y remover libremente a los defensores de oficio; en relación con los adscritos a las Salas del Tribunal Superior de Justicia, se hará a propuesta del Pleno del propio Tribunal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XXV. Previa garantía de audiencia, imponer multa de diez a treinta días de salario mínimo general vigente en la capital del Estado, a quien denoste a un servidor público del Poder Judicial, en cualquier promoción que presente ante el Consejo de la Judicatura.
+XXIII. Llevar el registro de los profesionales que, en calidad de peritos y de conformidad con lo dispuesto en la Ley, puedan fungir como auxiliares de la administración de justicia, la que deberá publicarse en la Gaceta Oficial del Estado, dentro de los primeros diez días de cada año;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XXVI. Las demás que expresamente establezcan esta ley y las leyes del Estado.
+XXIV. Remitir a los presidentes de los tribunales del poder judicial las solicitudes de información presentadas por las partes acerca del estado que guardan los asuntos radicados bajo su jurisdicción, a efecto de que las mismas sean atendidas oportunamente, salvo que la ley exija reserva;
+
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XXV. Tener bajo su cuidado el Archivo Judicial, para el resguardo de los expedientes que provengan de los Tribunales del Poder Judicial, relativos a procesos concluidos y demás documentos que se reciban y deban archivarse; así como la integración y conservación del acervo de la Biblioteca del Poder Judicial; y
+
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XXVI. Previa garantía de audiencia, imponer multa de diez a treinta días de salario mínimo general vigente en la capital del Estado, a quien denoste a un servidor público del Poder Judicial, en cualquier promoción que presente ante el Consejo de la Judicatura.
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XXVII. Aceptar donaciones o legados puros y simples en favor de los órganos del Poder Judicial; y
+
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+XXVIII. Las demás que expresamente establezcan la Constitución local y las leyes del Estado.
 
 ###### Artículo 105.
 
@@ -1723,7 +1871,7 @@ III. El Comité Técnico reconstituirá o incrementará los fondos de retiro con
 
 ###### Artículo 131.
 
-Dentro de los primeros sesenta días de cada año, el comité técnico obtendrá estados financieros dictaminados por el contador publico o despacho de contadores públicos, en los términos de las leyes fiscales respectivas, con relación a la auditoria externa que se haya realizado al fondo auxiliar de administración de justicia.
+(DEROGADO, G.O. 27 DE AGOSTO DE 2004)
 
 ###### Artículo 132.
 
@@ -1817,7 +1965,9 @@ I. Los Magistrados, Jueces de Primera Instancia, Menores y Municipales, así com
 
 II. Los abogados patronos y los defensores, en los casos de responsabilidades provenientes de hechos u omisiones cometidas en el juicio en que intervengan. En materia civil, siempre que tengan título profesional expedido y registrado ante autoridad legalmente facultada para ello; y
 
-III. El Ministerio Público en los negocios en que intervenga.
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+
+III. El Ministerio Público en los negocios en que intervenga, la víctima o el ofendido en las causas penales y, en general, quien tenga conocimiento de las faltas.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -2108,3 +2258,15 @@ G.O. 31 DE DICIEMBRE DE 2003.
 PRIMERO. El presente Decreto entrará en vigor el primero de enero de dos mil cuatro, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 27 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor el primero de enero de 2005, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado, excepto las disposiciones relativas a la formulación y aprobación de los anteproyectos de presupuesto anual y a su remisión, que iniciarán su vigencia al día siguiente de la publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura, dentro de sus respectivos ámbitos de atribuciones, ajustarán su organización y normatividad interior y tomarán las medidas necesarias para el cumplimiento del presente Decreto.
+
+CUARTO.- El personal y los recursos materiales con que actualmente cuenta la Dirección de Administración y Personal del Tribunal Superior de Justicia pasarán a formar parte del Consejo de la Judicatura.
+
+QUINTO.- En un plazo de treinta días, contado a partir de la entrada en vigor del presente Decreto, el Consejo de la Judicatura nombrará a su Director General de Administración.
