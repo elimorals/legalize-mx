@@ -1,0 +1,588 @@
+---
+title: "LEY ESTATAL DEL DEPORTE, NUEVO LEON"
+identifier: "NLE-ley-estatal-del-deporte-nuevo-leon-7480"
+country: "mx"
+rank: "ley"
+publication_date: "1993-11-17"
+last_updated: "1993-11-17"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7480&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-nle"
+scjn_id: "7480"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "138"
+reform_count: "11"
+scjn_last_update: "2025-10-22"
+issue_date: "1993-11-16"
+state: "NLE"
+---
+# LEY ESTATAL DEL DEPORTE, NUEVO LEON
+
+LEY ESTATAL DEL DEPORTE
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de noviembre de 1993.
+
+EL CIUDADANO SOCRATES CUAUHTEMOC RIZZO GARCIA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER.
+
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+
+DECRETO
+
+NUM. 211
+
+LEY ESTATAL DEL DEPORTE
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+###### Artículo 1o.
+
+Las disposiciones de esta Ley, son de orden público e interés social y tienen por objeto coadyuvar en la formación y desarrollo integral de los habitantes del Estado de Nuevo León, a través del Sistema Estatal del Deporte.
+
+###### Artículo 2o.
+
+El Gobierno Estatal y los Ayuntamientos deben considerar dentro de sus planes, programas y presupuestos, las acciones y recursos para el desarrollo de las actividades deportivas.
+
+###### Artículo 3o.
+
+El Sistema Estatal del Deporte está constituído por las acciones, recursos y procedimientos que se destinan a impulsar, fomentar y desarrollar el deporte en el Estado.
+
+###### Artículo 4o.
+
+El. Sistema Estatal del Deporte, estará a cargo del Ejecutivo del Estado y ejercerá sus atribuciones por conducto de la dependencia competente.
+
+###### Artículo 5o.
+
+El Sistema Estatal del Deporte excluye las actividades de promoción, organización, desarrollo y participación en materia de deporte que se realicen con la finalidad de obtener un lucro.
+
+###### Artículo 6o.
+
+El Sistema Estatal del Deporte establece para su funcionamiento:
+
+A) La participación obligatoria de las dependencias y entidades de la Administración Pública del Estado;
+
+B) La coordinación del Estado y de los Municipios a través del Sistema Estatal del Deporte;
+
+C) La participación del Sector Social y Privado conforme a lo previsto en el Capítulo III de este Ordenamiento;
+
+D) Formular y ejecutar las políticas que orienten al fomento y desarrollo del deporte en el Estado;
+
+E) Formular el Programa Estatal del Deporte y llevar las acciones que de él se deriven; y
+
+F) Planear y programar los medios necesarios para satisfacer los requerimientos del Deporte en el Estado de Nuevo León.
+
+###### Artículo 7o.
+
+Se crea el Registro Estatal del Deporte cuya finalidad es la de inscribir y llevar un registro actualizado de todos los deportistas, Organizaciones Deportivas, jueces, árbitros, técnicos, instalaciones para la práctica del deporte y eventos deportivos.
+
+###### Artículo 8o.
+
+La inscripción en el Registro Estatal del Deporte es condición para gozar de los estímulos y apoyos que se otorgan dentro del Sistema Estatal del Deporte.
+
+###### Artículo 9o.
+
+La dependencia competente designada por el Ejecutivo del Estado tendrá para los efectos de esta Ley las siguientes atribuciones:
+
+I .- Coordinar el Sistema Estatal del Deporte;
+
+II.- Ser el órgano rector para ejecutar la Política Estatal del Deporte;
+
+III.- Representar el Deporte Estatal ante las autoridades municipales, estatales e internacionales; y
+
+IV.- Las demás que otorguen otras disposiciones legales y las necesarias para el desarrollo del Deporte en el Estado.
+
+###### Artículo 10.
+
+Es. obligatorio estimular en el Sistema Educativo del Estado, la promoción e impartición a la iniciación deportiva en los niveles de educación básica y media superior, así como en las instituciones de educación especial.
+
+###### Artículo 11.
+
+Es de carácter obligatorio para toda persona que se dedica a impartir clases Teóricas o Prácticas de cualquier actividad deportiva en forma pública o privada, tener el reconocimiento oficial de estudios o en su caso obtenerlo a través de la institución que el Ejecutivo del Estado designe.
+
+###### Artículo 12.
+
+Las Asociaciones y Administradores de establecimientos deportivos son corresponsables de que sus instructores, entrenadores y técnicos que impartan clases y seminarios cuenten con el reconocimiento oficial que acredite su capacidad para ejercer como tales.
+
+En el incumplimiento a lo dispuesto en el párrafo anterior, la dependencia del deporte procederá, a través de las autoridades correspondientes, a la clausura del establecimiento.
+
+###### Artículo 13.
+
+Corresponde a la Dependencia responsable del Deporte programar cursos de formación capacitación y actualización para Entrenadores e Instructores Deportivos y Profesores de Educación Física.
+
+###### Artículo 14.
+
+Las instituciones educativas del Estado tanto públicas como privadas, dedicadas a la impartición de programas relacionados con la actividad deportiva, en niveles de Licenciatura, Postgrado, Técnicos, Seminarios, Diplomados o Cursos Semejantes, deben otorgar becas académicas para participantes designados por la dependencia competente, dentro de sus programas de capacitación.
+
+### CAPITULO II. DE LA PARTICIPACION DE LOS MUNICIPIOS
+
+###### Artículo 15.
+
+Corresponde a los Ayuntamientos la organización, desarrollo y fomento del deporte en su localidad.
+
+###### Artículo 16.
+
+Los municipios se integran tanto al Sistema Estatal del Deporte como al Sistema Nacional del Deporte para alcanzar los siguientes fines:
+
+I.- Planear y determinar sus necesidades en materia deportiva y los medios para satisfacerlos;
+
+II.- Determinar y otorgar los estímulos y apoyos para la organización, el desarrollo y fomento de la actividad deportiva; y
+
+III.- Promover y apoyar a los organismos locales que desarrollen actividades deportivas e incorporarlos al Sistema Estatal del Deporte.
+
+###### Artículo 17.
+
+Los Ayuntamientos tendrán la siguiente normatividad, además de las atribuciones que esta Ley otorga:
+
+I.- Vigilar el cumplimiento del Sistema Estatal del Deporte en el ámbito de su jurisdicción;
+
+II.- Registrarse en el Sistema Nacional del Deporte en el que se incluya las Instalaciones deportivas de su territorio y vigilar su conservación, mantenimiento y uso adecuado;
+
+III.- Procurar y promover espacios físicos destinados a la práctica del deporte en su jurisdicción territorial con apego a los planes, programas, declaratorias o disposiciones administrativas sobre desarrollo urbano; y
+
+IV.- Celebrar convenios con organismos e instituciones públicas, privadas y sociales, con el objeto de patrocinar las actividades deportivas que se celebren en su localidad.
+
+### CAPITULO III. DE LA PARTICIPACION DE LOS SECTORES SOCIAL Y PRIVADO
+
+###### Artículo 18.
+
+El Ejecutivo Estatal y los Ayuntamientos promoverán la participación de los sectores social y privado, así como de los organismos que realicen actividades deportivas con el fin de integrarlos al Sistema Estatal del Deporte a través de convenios de concertación.
+
+###### Artículo 19.
+
+El sector social lo conforman las Organizaciones de carácter Político, Ciudadano, Sindical o Campesino, que con recursos propios, promueven y fomentan la práctica, organización, y desarrollo de actividades deportivas, en apoyo a los programas estatales y nacionales del Deporte.
+
+###### Artículo 20.
+
+El sector privado se constituye por personas físicas o morales, que con recursos propios promueven y fomentan la práctica, organización y desarrollo de actividades deportivas en apoyo a los programas estatales y nacionales del Deporte.
+
+###### Artículo 21.
+
+Los convenios de concertación deberán de establecer:
+
+I.- La forma en que se desarrollarán las actividades deportivas que se realicen dentro del Sistema Estatal del Deporte;
+
+II.- Los estímulos y apoyos que se destinen para el desarrollo y fomento del deporte, considerando las actividades físicas, científicas y técnicas relacionadas con la actividad deportiva; y
+
+III.- Las aportaciones que se realicen por las partes, tanto de acciones como de recursos en la promoción del deporte.
+
+###### Artículo 22.
+
+Las instituciones Públicas y Privadas promoverán el deporte en sus planteles, impulsando a estudiantes y trabajadores a representarlos en competencias municipales, estatales, regionales, nacionales e internacionales.
+
+###### Artículo 23.
+
+Se instituye el Servicio Social, tanto para los egresados de las Facultades de Organización Deportiva de las Instituciones Educativas de nivel superior con similares profesiones, consistente en prestar sus servicios profesionales por el tiempo establecido por cada institución educativa, en el desarrollo de los Programas Deportivos Municipales del Estado de Nuevo León
+
+###### Artículo 24.
+
+El Ejecutivo del Estado y los Ayuntamientos promoverán la creación y fomento de uno o más patronatos integrados por los sectores social y/o privado, a fin de que coadyuven al desarrollo y ejecución de los Programas Deportivos.
+
+### CAPITULO IV. DE LOS ORGANISMOS DEPORTIVOS
+
+###### Artículo 25.
+
+Son organismos deportivos, para los efectos de esta Ley, toda agrupación de personas físicas o morales, que cuenten o no con personalidad jurídica, que su propósito sea la práctica de un deporte o que tengan por objeto desarrollar y fomentar actividades que se vinculen con el deporte y cuyo fin no implique necesariamente actividades deportivas.
+
+###### Artículo 26.
+
+Los individuos, personas morales, agrupaciones de personas físicas y entidades sociales podrán formar libremente organismos deportivos, sin más requisitos que registrarse ante la autoridad competente a fin de ser integrado al Sistema Estatal y a traves de éste, al Sistema Nacional del Deporte para poder obtener los estímulos y apoyos que otorguen los Municipios y los Ejecutivos Estatal y Federal en su caso.
+
+###### Artículo 27.
+
+Los deportistas que individualmente participen en el Sistema Estatal del Deporte deberán:
+
+I.- Registrarse en el Sistema Estatal del Deporte; y
+
+II.- Conducir sus actividades deportivas de acuerdo a lo dispuesto en la presente Ley.
+
+###### Artículo 28.
+
+Para efectos de esta Ley se reconocen como organismos deportivos de competencia en el Estado:
+
+A) Clubes;
+
+B) Ligas; y
+
+C) Asociaciones Deportivas.
+
+###### Artículo 29.
+
+Los Clubes deportivos son organismos constituídos con el fin de promover la participación de uno o más deportes, pudiendo integrarse a la Asociación deportivas que corresponda a cada deporte que practique, pudiendo afiliarse en forma directa o a través de una Liga deportiva.
+
+###### Artículo 30.
+
+Las Ligas deportivas son organizaciones que en cada especialidad afilian clubes y/o equipos con la finalidad de realizar competencias en forma programada y permanente.
+
+###### Artículo 31.
+
+Las Asociaciones deportivas son las organizaciones con carácter Estatal que pueden agrupar a Ligas y Clubes deportivos en cada disciplina y los representan, en las competencias oficiales y ante autoridades deportivas Municipales, Estatales y Nacionales.
+
+###### Artículo 32.
+
+Las Ligas y Clubes deportivos a través de sus asociaciones respectivas, deben registrar ante la dependencia responsable del deporte y el Municipio que corresponda, el programa anual de sus actividades para su inclusión y seguimiento en el Programa Estatal del Deporte.
+
+###### Artículo 33.
+
+Los Deportistas registrados en cada uno de los municipios deberán estar afiliados obligatoriamente al Sistema Nacional RED, con el objeto de que reciban los beneficios de este sistema. Los Clubes, Ligas y Asociaciones Deportivas serán corresponsables de que sus afiliados cumplan con este requisito.
+
+###### Artículo 34.
+
+La participación de Clubes y Ligas tendrán carácter obligatorio en los torneos municipales cuando se convoque a formar las selecciones municipales, como etapa previa para los torneos selectivos a la representación estatal.
+
+###### Artículo 35.
+
+Las Ligas, Clubes y Asociaciones que no cumplan con los preceptos de esta Ley, serán sancionados conforme a la misma.
+
+### CAPITULO V. DEL PROGRAMA ESTATAL DEL DEPORTE
+
+###### Artículo 36.
+
+El Programa Estatal del Deporte será formulado por el Ejecutivo del Estado conforme a las disposiciones de esta Ley y tendrá el carácter de instrumento rector de las actividades deportivas del Sistema Estatal del Deporte.
+
+###### Artículo 37.
+
+El Programa Estatal del Deporte deberá formularse de acuerdo a los siguientes sectores:
+
+1) Deporte Popular;
+
+2) Deporte Estudiantil;
+
+3) Deporte Adaptado;
+
+4) Deporte Selectivo; y
+
+5) Deporte Asociado.
+
+###### Artículo 38.
+
+En la elaboración del Programa Estatal del Deporte podrán participar conforme al Sistema Nacional de Planeación Democrática, los deportistas e individuos relacionados de cualquier forma con el deporte, de manera individual u organizadamente conforme a las disposiciones de esta Ley.
+
+### CAPITULO VI. DE LOS FOMENTOS Y ESTIMULOS AL DEPORTE
+
+###### Artículo 39.
+
+Dentro del Sistema Estatal del Deporte los deportistas tendrán los siguientes derechos:
+
+I.- Practicar el o los deportes de su elección;
+
+II.- Asociarse para la práctica del deporte y en su caso para la defensa de sus derechos;
+
+III.- Hacer uso de las instalaciones deportivas cumpliendo la normatividad correspondiente; y
+
+IV.- Recibir asistencia técnica y entrenamiento deportivo apropiado;
+
+V.- Recibir atención y servicio médico durante competencias oficiales cuando así lo requiera la práctica de un deporte;
+
+VI.- Participar en competencias, juegos o eventos deportivos, reglamentarios u oficiales;
+
+VII.- Representar a su Club, Asociación, Federación, Municipio, Estado o al País, en competencias técnicas nacionales o internacionales;
+
+VIII.- Participar en la elaboración del Programa Estatal del Deporte, así como de programas y reglamentos deportivos a convocatoria de la autoridad rectora;
+
+IX.- Ejercer el derecho de voto como miembro de la Asociación u Organización a la que pertenezca, así como desempeñar cargos directivos de representación;
+
+X.- Obtener de las autoridades correspondientes el registro que lo acredite como deportista;
+
+XI.- Recibir toda clase de becas, reconocimientos y recompensa de cualquier índole de carácter deportivo; y
+
+XII.- Los demás que le otorgue esta Ley u otros ordenamientos legales.
+
+###### Artículo 40.
+
+Dentro del Sistema Estatal del Deporte los deportistas tendrán las siguientes obligaciones:
+
+I.- Ser ejemplo para la niñez, la juventud y la sociedad en general;
+
+II.- Cumplir los Estatutos y Reglamentos del o los deportes que practiquen;
+
+III.- Asistir a competencias cuando sean requeridos representando dignamente a su club, asociación, federación, localidad o al País;
+
+IV.- Participar en las consultas públicas a que se convoque para la elaboración del Programa Estatal del Deporte, así como los programas y reglamentos deportivos de su especialidad;
+
+V.- Ejercer su derecho de voto en el seno de la asociación y organización a la que pertenezcan;
+
+VI.- Cuidar y vigilar que las instalaciones en que practiquen su deporte, se conserven en buen estado; y
+
+VII.- Las demás que les otorgue esta Ley u otros ordenamientos legales.
+
+###### Artículo 41.
+
+La participación de los deportistas e individuos relacionados con el deporte para la elaboración, reformas, adiciones, derogación o abrogación del reglamento de carácter deportivo, se substanciará de acuerdo con la convocatoria que al efecto expida la Dependencia encargada de planear, diseñar e implementar las necesidades que el deporte requiera.
+
+###### Artículo 42.
+
+Las personas físicas o morales, así como las agrupaciones que realicen actividades destinadas al desarrollo e impulso del deporte estatal que no estén destinadas a obtener un lucro podrán gozar de los apoyos que se otorguen dentro del Sistema Estatal del Deporte, éstos podrán consistir en:
+
+I.- Dinero y especie;
+
+II.- Formación y capacitación;
+
+III.- Asesoría;
+
+IV.- Asistencia; y
+
+V.- Gestoría.
+
+###### Artículo 43.
+
+El otorgamiento y goce de los beneficios a que se refiere este capítulo, estarán sujetos al cumplimiento de esta Ley y se otorgarán conforme a las bases y el reglamento que establezca el Ejecutivo del Estado.
+
+### CAPITULO VII. DE LAS INSTALACIONES DEPORTIVAS
+
+### CAPITULO VIII. DEL SERVICIO MEDICO EN EL DEPORTE
+
+###### Artículo 44.
+
+Se declara de interés social la construcción, conservación y mantenimiento de las instalaciones deportivas que permitan atender adecuadamente las demandas que requiera el desarrollo del deporte, promoviendo para este fin la participación de los sectores social y privado.
+
+###### Artículo 45.
+
+El Ejecutivo del Estado y los Ayuntamientos, determinarán los espacios destinados a la práctica deportiva y de recreación pública, atentos a lo dispuesto por los Artículos 97 y 116 de la Ley de Desarrollo Urbano del Estado de Nuevo León. Su uso no podrá ser modificado sino por el Congreso del Estado.
+
+###### Artículo 46.
+
+Los responsables administrativos de las instalaciones deportivas realizadas con recursos de la Federación, Estado o Municipios e inscritas en el Registro Estatal del Deporte deberán registrar su calendario anual de actividades ante la Dependencia responsable del deporte estatal.
+
+###### Artículo 47.
+
+El Ejecutivo del Estado a través de la Dependencia encargada del deporte estatal procederá a eficientizar el uso de las instalaciones deportivas del Estado, programando su uso, de tal manera que presten servicios al mayor número de deportistas, utilizando al efecto las instalaciones que existan construidas con recursos públicos, fuera de los horarios del programa normal de actividades registradas.
+
+###### Artículo 48.
+
+Las Asociaciones, Ligas y Clubes deben apoyar con recursos propios la construcción y mantenimiento de las instalaciones deportivas públicas que utilizan.
+
+###### Artículo 49.
+
+En la construcción de Instalaciones Deportivas deberán tomarse en cuenta las que sean necesarias para el Deporte Infantil que contarán con las especificaciones técnicas y arquitectónicas para su desarrollo.
+
+###### Artículo 50.
+
+Se procederá en las nuevas construcciones de Instalaciones Deportivas, y en la rehabilitación de los actuales espacios y acondicionamientos arquitectónicos para la realización del Deporte Adaptado o de Discapacitados así como el acondicionamiento de accesos y servicios para ellos mismos. Las Instalaciones actuales deberán acondicionarse para cumplir con este precepto.
+
+###### Artículo 51.
+
+Las Instalaciones Deportivas del Estado de Nuevo León deberán estar registradas en el Registro Estatal del Deporte en concordancia con el Registro Nacional del Deporte.
+
+El uso de las Instalaciones Deportivas debe ser exclusivamente para Eventos Deportivos.
+
+###### Artículo 52.
+
+Los responsables o administradores de toda instalación Deportiva deberán tramitar su registro ante la Dependencia responsable del deporte estatal, que verificará que sean las adecuadas para la práctica del deporte, con la calidad y seguridad que se requiere. Debiendo realizarse verificaciones anuales o con anterioridad a petición de los interesados.
+
+La Dependencia responsable del deporte estatal podrá vetar el uso de cualquier instalación deportiva que no cumpla con los requisitos señalados, a través de las autoridades correspondientes
+
+### CAPITULO IX. DEL ANTIDOPING
+
+###### Artículo 53.
+
+Todo deportista organizado que practique alguna actividad incluida en el Sistema Estatal del Deporte tendrá derecho a recibir atención médica, tanto en la prevención, como la atención y tratamiento de lesiones, con motivo de su participación en entrenamientos, juegos y/o competencias autorizadas.
+
+Para tal efecto, las autoridades deportivas promoverán los mecanismos de concertación con las Instituciones Públicas y Privadas que integran el sector salud, así como con los organismos deportivos.
+
+###### Artículo 54.
+
+Las instituciones eminentemente deportivas y organizaciones de los sectores oficial, social y privado están obligados a prestar Servicio Médico Deportivo a los deportistas que lo requieran, durante las prácticas y competencias oficiales que promueven u organicen.
+
+###### Artículo 55.
+
+Las Instituciones del Sector Público Estatal, promoverán programas de atención médica, la formación de especialistas en Medicina y Ciencias Aplicadas al Deporte, dedicados a la práctica y/o investigación científica.
+
+### CAPITULO X. DE LAS SANCIONES ADMINISTRATIVAS
+
+Y RECURSOS EN EL DEPORTE
+
+###### Artículo 56.
+
+Doping, es el uso de substancias o métodos considerados prohibidos o restringidos por el Comité Antidoping del Estado de Nuevo León.
+
+###### Artículo 57.
+
+En el Estado de Nuevo León, se prohibe el Doping en el deporte.
+
+Las acciones contra el Doping en el deporte se declaran de interés social y prioritario en el Estado.
+
+###### Artículo 58.
+
+La lista de substancias y métodos considerados Doping, será emitida en forma anual por el Comité Antidoping del Estado de Nuevo León y publicada en el Periódico Oficial del Estado.
+
+###### Artículo 59.
+
+El Comité Estatal Antidoping, está integrado por:
+
+I.- El Titular de la Autoridad deportiva estatal;
+
+II.- Un coordinador médico estatal, quien concerta las acciones de los Delegados;
+
+III.- Un Delegado de las Asociaciones Deportivas del Estado, quien asume el cargo de Secretario;
+
+IV.- Un Delegado deportista con premio estatal, quien asume el cargo de vocal;
+
+V.- Un Delegado de la Asociación Estatal de Medicina del Deporte, quien asume el cargo de vocal; y
+
+VI.- Un Delegado médico de la Sub-Secretaría de Salud del Estado, quien asume el cargo de vocal.
+
+###### Artículo 60.
+
+La autoridad rectora, dará los nombramientos del Coordinador Médico Estatal y del Delegado Deportista con premio estatal.
+
+###### Artículo 61.
+
+En las competencias que se realicen en el Estado, se deberán llevar a cabo en forma muestreada análisis de substancias o métodos tipo doping.
+
+###### Artículo 62.
+
+El Comité Estatal Antidoping determinará, por evento, el número y procedimiento de elección de deportistas para análisis de substancias o métodos tipo doping.
+
+En las competencias de ámbito estatal ésto se llevará a cabo en forma concertada con la Asociación Estatal de Deporte respectiva.
+
+En competencia de ámbito regional, nacional e internacional, se concertará con la Comisión Nacional del Deporte.
+
+###### Artículo 63.
+
+El Comité Estatal Antidoping, es el único organismo facultado en el Estado de Nuevo León para dirimir en caso de doping positivo en el deporte en evento de carácter estatal.
+
+###### Artículo 64.
+
+Son funciones del Comité Estatal Antidoping:
+
+I.- Precisar la lista de substancias y métodos tipo doping;
+
+II.- Dictaminar la positividad o no de casos de doping;
+
+III.- Normar las campañas antidoping en los medios de comunicación;
+
+IV.- Difundir en las Asociaciones Estatales del Deporte, el peligro del doping en el deporte;
+
+V.- Asesorar a las Instituciones del Ejecutivo, Legislativas, Judiciales, Legales, Laborales, de Derechos Humanos en materia de doping en el deporte;
+
+VI.- Normar el programa de rehabilitación médica, psicológica y social para deportistas con fallo de doping positivo;
+
+VII.- Nombrar los Asesores y Comisiones que se requieran para el cumplimiento de sus funciones; y
+
+VIII.- Las demás funciones que determine la autoridad rectora.
+
+###### Artículo 65.
+
+El Comité Estatal Antidoping, expedirá las normas técnicas, así como las cédulas de nombramientos a Comisarios, Oficiales y Auxiliares que acrediten tener los conocimientos y destrezas suficientes y necesarias para llevar a cabo su función.
+
+###### Artículo 66.
+
+El Comité Estatal Antidoping, expedirá las normas técnicas, así como las cédulas de aprobación a los laboratorios que presenten tener los recursos humanos y materiales suficientes y necesarios para llevar a cabo análisis de substancias y métodos tipo doping.
+
+###### Artículo 67.
+
+Para dar fallo de doping positivo, el Comité Estatal Antidoping, debe contar con una declaración escrita del deportista indicando la substancia o método tipo doping utilizado, o en su caso el análisis de laboratorio positivo a substancia o método tipo doping.
+
+El deportista tendrá derecho a asistir, acompañado de asesoría especializada, al análisis de laboratorio que determine en forma final el fallo positivo o negativo de doping.
+
+###### Artículo 68.
+
+El deportista no podrá ser objeto de premiación, reconocimiento o incentivo de índole alguna, por su participación en la competición en que se falle como doping positivo.
+
+###### Artículo 69.
+
+El deportista con fallo de doping positivo será sancionado la primera vez, con suspensión temporal de sus derechos como deportista a que se hace acreedor por parte de su Asociación.
+
+En el caso de substancias tipo doping prohibidas, anabólicos esteroides, así como las catalogadas por la Ley de Salud como estupefacientes, la suspensión será por un período no menor de seis meses.
+
+Durante el tiempo de la suspensión, no podrá representar al Estado o al País ni participar en competición oficial alguna para ese deporte, organizada o con el aval de la autoridad deportiva estatal.
+
+###### Artículo 70.
+
+El deportista con fallo de doping positivo será sancionado la segunda vez, con pérdida de sus derechos como deportista a que se hace acreedor por parte de su Asociación.
+
+El deportista no podrá ser aceptado bajo circunstancia alguna en la Asociación de Deporte a la que pierde sus derechos.
+
+###### Artículo 71.
+
+El deportista con fallo de doping positivo tendrá derecho a asistir al programa de rehabilitación médica, psicológica y social aprobado por el Comité Estatal Antidoping.
+
+En este programa se incluye participación en algún deporte.
+
+###### Artículo 72.
+
+Las personas que integran el cuerpo técnico como entrenadores, auxiliares, preparadores físicos, metodólogos, laboratoristas, profesionales y técnicos en medicina y ciencias aplicadas al deporte, así como directivos y administradores que tengan responsabilidad en caso positivo de doping, serán cesados en forma inmediata de sus cargos, no pudiendo ejercer más su profesión en el ámbito del deporte en el Estado de Nuevo León.
+
+###### Artículo 73.
+
+Cuando sea evidente que algún participante en justas deportivas caiga en casos de drogadicción, la autoridad deportiva deberá hacer del conocimiento de las áreas responsables dicha situación.
+
+###### Artículo 74.
+
+Las sanciones en el ámbito deportivo son independientes de la responsabilidad civil o penal a que dé lugar el uso de substancias o métodos tipo doping.
+
+###### Artículo 75.
+
+La aplicación de sanciones por infracciones a la Ley, a sus reglamentos y disposiciones legales corresponden a:
+
+I.- El Ejecutivo del Estado, a través de la dependencia correspondiente; y
+
+II.- A las autoridades deportivas y municipales en el ámbito de su jurisdicción.
+
+###### Artículo 76.
+
+Las infracciones que se cometan a esta Ley y a sus reglamentos, se les aplicarán las sanciones siguientes:
+
+I.- Amonestación privada o pública;
+
+II.- Suspensión temporal o definitiva de su Registro;
+
+III.- Suspensión temporal o definitiva en el uso de Instalaciones Deportivas Oficiales;
+
+IV.- Limitación, reducción o cancelación de apoyos económicos; y
+
+V.- Desconocimiento definitivo.
+
+###### Artículo 77.
+
+Contra las resoluciones de las autoridades y organismos deportivos que impongan sanciones procederá el recurso de reconsideración ante la misma autoridad que emitió el fallo en un término de 15 días hábiles a partir del fallo.
+
+###### Artículo 78.
+
+Las resoluciones que impongan sanciones, interpuesta o no la reconsideración, podrán impugnarse por el recurso de inconformidad que se tramitará ante la Comisión Estatal de Apelación y Arbitraje del Deporte, en el término de 30 días a partir del fallo original o 15 días hábiles de la resolución de reconsideración.
+
+###### Artículo 79.
+
+Se crea la Comisión Estatal de Apelación y Arbitraje, que tendrá la función de atender y resolver administrativamente las inconformidades que los miembros del Sistema Estatal del Deporte presenten en contra de las sanciones que apliquen las autoridades deportivas.
+
+El Ejecutivo Estatal designará a los miembros de esta Comisión y expedirá el reglamento a que se sujetará su integración y funcionamiento.
+
+TRANSITORIOS:
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Las agrupaciones, personas físicas y morales a que se refieren los Artículos 32 y 33 del presente ordenamiento, deberán obtener su registro o su autorización dentro de los seis meses siguientes contados a partir del siguiente día de la publicación de la presente Ley.
+
+###### ARTICULO TERCERO
+
+- Para efecto de los Artículos 11 y 12, el Poder Ejecutivo del Estado contará con un plazo máximo de hasta seis meses para designar a la institución competente, contándose a partir de este momento, doce meses para que se cumpla con lo dispuesto en dichos diversos.
+
+###### ARTICULO CUARTO
+
+- Por lo que hace a la disposición del Artículo 58, mientras no sea publicada en el Periódico Oficial la lista de mérito, deberá utilizarse la que aparece publicada en la Ley Estatal de Salud.
+
+Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los diez días del mes de Noviembre de mil novecientos noventa y tres.-PRESIDENTE: DIP. OSCAR GONZALEZ VALLEJO; DIP. SECRETARIO: JUAN MANUEL GARZA SAUCEDA; DIP. SECRETARIO: OSCAR CABALLERO NAVARRO.- RUBRICAS.
+
+Por lo tanto mando se imprima, publique y circule y se le de el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los dieciséis días del mes de Noviembre de mil novecientos noventa y tres.
+
+EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+SOCRATES CUAUHTEMOC RIZZO GARCIA.
+
+EL C. SECRETARIO GENERAL DE GOBIERNO
+
+LEOPOLDO ESPINOSA BENAVIDES.
+
+EL C. SECRETARIO DE DESARROLLO SOCIAL
+
+GUSTAVO ALARCON MARTINEZ
