@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1990-11-22"
+last_updated: "1991-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 1991.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -445,7 +445,11 @@ Las declaraciones del nacimiento, se harán presentando al infante ante el Ofici
 
 Tienen obligación de declarar el nacimiento, los padres del menor o cualquiera de ellos, dentro de los ciento ochenta días siguientes a la fecha en que hubiese ocurrido. A su vez, el Oficial del Registro Civil deberá hacer la inscripción correspondiente.
 
+(EN SUSPENSO LA VIGENCIA, P.O. 21 DE NOVIEMBRE DE 1991)
+
 Transcurrido el lapso a que se refiere el párrafo anterior y tratándose de menores hasta de siete años, que acrediten mediante constancia expedida por la autoridad municipal y otros documentos conducentes, ser vecinos del territorio de la jurisdicción Oficial, haber nacido en territorio nacional y no estar registrado, se procederá a su inscripción.
+
+(EN SUSPENSO LA VIGENCIA, P.O. 21 DE NOVIEMBRE DE 1991)
 
 Fuera de los supuestos consignados en el párrafo anterior, el registro de nacimiento, se tramitará y ordenará, en la forma en que disponga el Código de Procedimientos Civiles.
 
@@ -796,6 +800,8 @@ VI. El Ministerio Público.
 ###### ARTÍCULO 132.
 
 La aclaración de las actas del estado civil de las personas, procede cuando en ellas existan errores macanográficos u ortográficos o de ambas especies que no afecten los datos esenciales de las mismas. Se tramitarán administrativamente ante la Dirección del Registro Civil, quien resolverá de plano, ordenando en su caso la aclaración respectiva que se comunicará lo mismo a la Oficialía correspondiente, como a la Dirección General del Registro Nacional de Población, para que se anoten en sus archivos.
+
+(EN SUSPENSO LA VIGENCIA, P.O. 21 DE NOVIEMBRE DE 1991)
 
 ###### ARTÍCULO 133.
 
@@ -14780,3 +14786,19 @@ LIC. MARIANO PALACIOS ALCOCER
 EL C. SECRETARIO DE GOBIERNO
 
 LIC. JOSÉ MARÍA HERNANDEZ SOLIS
+
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.
+
+P.O. 21 DE NOVIEMBRE DE 1991
+
+###### ARTICULO PRIMERO.
+
+Las personas que al entrar en vigor esta ley esten tramitando juicio de registro extemporáneo podrán optar por concluir o por acudir ante el oficial del registro civil respectivo, en los términos de los dispuesto en este ordenamiento para que se asiente su registro de nacimiento.
+
+###### ARTICULO SEGUNDO.
+
+La presente ley se publicará en el periódico oficial "La Sombra de Arteaga" y su vigencia será durante los meses de diciembre del 1991 y enero y junio de 1992.
+
+###### ARTICULO TERCERO.
+
+Las disposiciones jurídicas que se opongan a la presente quedan derogadas mientras dure la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor en forma automática.
