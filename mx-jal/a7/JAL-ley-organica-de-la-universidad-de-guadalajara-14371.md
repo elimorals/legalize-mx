@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-universidad-de-guadalajara-14371"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-01-15"
-last_updated: "1995-04-13"
+last_updated: "2002-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA UNIVERSIDAD DE GUADALAJARA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de enero de 1994.
 
@@ -231,17 +231,31 @@ d) Ser designado o electo para desempeñar un cargo en organismos o institucione
 
 II. Disfrutar del beneficio del año sabático, si es académico de carrera, en los términos y condiciones establecidos en el Estatuto del Personal Académico;
 
-III. Recibir la pensión que otorgue el Consejo General Universitario, en los términos de la normatividad correspondiente, cuando en el desempeño de sus funciones, sufran incapacidad para el servicio;
+III. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2002)
 
-IV. Recibir la pensión vitalicia que otorgue el Consejo General Universitario, cuando cuente con sesenta y cinco años o más de edad, o como mínimo treinta años al servicio efectivo de la Universidad, y
+IV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2002)
 
 V. Las demás que les otorgue esta Ley y otros ordenamientos.
 
-El procedimiento para regular las licencias, remociones, jubilaciones y demás relaciones propias del personal académico de la Universidad, será regulado en los estatutos y reglamentos que autorice el Consejo General Universitario, así como por la normatividad estatal y federal aplicable.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
+El procedimiento para regular las licencias, remociones y demás relaciones propias del personal académico de la Universidad, será normado en los estatutos y reglamentos que autorice el Consejo General Universitario, así como por las disposiciones estatales y federales aplicables.
 
 ###### Art. 19.
 
 El personal administrativo se conforma por quienes realizan actividades no académicas. La categoría de personal administrativo incluye a los trabajadores de servicio.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
+Art. 19 A.- Los trabajadores académicos y administrativos de la Universidad de Guadalajara recibirán una sola pensión; la establecida en los términos de la Ley del Seguro Social, o bien, la que la Universidad convenga con sus trabajadores en un régimen pensionario propio en los términos que establezca el Consejo General Universitario.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
+Art. 19 B.- En caso que la Universidad de Guadalajara conviniere un régimen pensionario propio, el personal directivo que además cuente con un nombramiento de base tendrá una sola pensión, en los términos del reglamento correspondiente, sin que pueda optar por la pensión como directivo.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
+Art. 19 C.- El personal directivo que no cuente con un nombramiento de base, y los trabajadores de las denominadas empresas universitarias estarán en el régimen obligatorio de la Ley del Seguro Social.
 
 ### CAPÍTULO III. De los alumnos
 
@@ -1674,3 +1688,11 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 13 DE ABRIL DE 1995.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE DICIEMBRE DE 2002.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo.- Se derogan todas aquellas disposiciones que contravengan este decreto.
+
+Tercero.- Los trabajadores académicos, administrativos y de confianza, no directivos, que antes de la entrada en vigor de esta reforma, cuenten con un contrato o nombramiento vigente definitivo y reúnan los requisitos establecidos en las fracciones III y IV del artículo 18 de la Ley Orgánica del a Universidad de Guadalajara que se derogan con este decreto, conservarán su derecho a jubilarse bajo estas disposiciones, el cual podrán ejercerlo en el momento en que así lo decidan.
