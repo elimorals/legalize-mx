@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1987-01-21"
+last_updated: "1991-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -1419,9 +1419,11 @@ Los jueces en este caso no exigirán una prueba tan rigurosa como cuando se trat
 
 II.- Cuando desconozca la presunción legal que tenga en su favor el colitigante.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1991)</small>
+
 ###### Artículo 225.
 
-Sólo los hechos están sujetos a prueba; el derecho lo estará únicamente cuando se funde en leyes extranjeras o en usos, costumbres o jurisprudencia.
+Sólo los hechos están sujetos a prueba. El Derecho Extranjero lo verificará y aplicará de oficio el juzgador, sin perjuicio de que las partes coaduyven (sic) al logro de esa información.
 
 ###### Artículo 226.
 
@@ -6137,7 +6139,7 @@ P.O. 24 DE AGOSTO DE 1977.
 
 PRIMERO.- Las presentes reformas entrarán en vigor el día primero de diciembre del presente año.
 
-SEGUNDO.-Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
+SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
 
 a).- Cada juzgado formulará el inventario de los citados asuntos.
 
@@ -6241,14 +6243,20 @@ DECRETO NUM. 240, QUE REFORMA EL ARTICULO 935.
 
 UNICO:- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
+P.O. 21 DE ENERO DE 1987.
+
+###### ARTICULO UNICO
+
+- Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
 P.O. 25 DE FEBRERO DE 1985.
 
 ###### ARTICULO UNICO
 
 - Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-P.O. 21 DE ENERO DE 1987.
+P.O. 2 DE AGOSTO DE 1991.
 
-###### ARTICULO UNICO
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
-- Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+SEGUNDO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
