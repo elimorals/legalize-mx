@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "1984-06-22"
+last_updated: "1984-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1984.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -209,9 +209,9 @@ Están obligados al pago del impuesto sobre adquisición de inmuebles establecid
 
 Para los efectos de esta sección se entiende por adquisición la que se derive de:
 
-> <small>(REFORMADA, P. O. 22 DE JUNIO DE 1984)</small>
+> <small>(REFORMADA, P. O. 25 DE DICIEMBRE DE 1984)</small>
 
-I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal.
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges.
 
 II.- La compraventa en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
 
@@ -253,9 +253,9 @@ XI.- En las permutas se considerará que se efectúan dos adquisicones (sic).
 
 XII.- La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge.
 
-> <small>(ADICIONADA, P. O. 22 DE JUNIO DE 1984)</small>
+> <small>(REFORMADA, P. O. 25 DE DICIEMBRE DE 1984)</small>
 
-XIII.- La celebración de contratos de arrendamiento financiero y la cesión de derechos del arrendamiento financiero.
+XIII.- La celebración de contratos de arrendamiento financiero y la cesión de derechos del arrendatario financiero.
 
 ###### ARTICULO 29.
 
@@ -351,9 +351,9 @@ d) Descripción del inmueble.
 
 No se causa el impuesto en los siguientes casos:
 
-> <small>(REFORMADA, P. O. 22 DE JUNIO DE 1984)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1984)</small>
 
-I.- En las adquisiciones de bienes que hagan la Federación, los Estados y los Municipios, para formar parte del dominio público.
+I.- En las adquisiciones de bienes que hagan la Federación, los Estados, el D. F., y los Municipios para formar parte del dominio público; así como, los Estados Extranjeros en caso de reciprocidad.
 
 > <small>(REFORMADA, P. O. 22 DE JUNIO DE 1984)</small>
 
@@ -700,3 +700,9 @@ P.O. 22 DE JUNIO DE 1984.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE DICIEMBRE DE 1984.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
