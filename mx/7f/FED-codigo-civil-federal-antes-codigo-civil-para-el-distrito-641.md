@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-federal-antes-codigo-civil-para-el-distrito-641"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1970-01-17"
+last_updated: "1970-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2025-11-14"
 
 CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ENERO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 1970.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -500,15 +500,15 @@ En los casos de emancipación por efecto del matrimonio no se formará acta sepa
 
 ###### ARTICULO 94.
 
-Las actas de emancipación por decreto judicial se formará insertando a la letra la resolución del juez que autorizó la emancipación. Se anotará el acta de nacimiento expresando al margen de ella haber quedado emancipado el menor, citando la fecha de emancipación y el número y foja del acta respectiva.
+(DEROGADO, D.O.F. 28 DE ENERO DE 1970)
 
 ###### ARTICULO 95.
 
-Si en la oficina en que se registró la emancipación no existe el acta de nacimiento del emancipado, el Oficial del Registro Civil remitirá copia del acta de emancipación al del lugar en que se registro el nacimiento, para que haga la anotación correspondiente.
+(DEROGADO, D.O.F. 28 DE ENERO DE 1970)
 
 ###### ARTICULO 96.
 
-La omisión del registro de emancipación no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 81.
+(DEROGADO, D.O.F. 28 DE ENERO DE 1970)
 
 ### CAPITULO VII. De las actas de matrimonio
 
@@ -824,9 +824,11 @@ Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mu
 
 Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los Presidentes Municipales pueden conceder dispensas de edad por causas graves y justificadas.
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
+
 ###### ARTICULO 149.
 
-El hijo o la hija que no hayan cumplido veintiún años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
+El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre o de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
 
 ###### ARTICULO 150.
 
@@ -1272,7 +1274,9 @@ La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará 
 
 I.- Cuando haya habido hijos;
 
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los veintiún años, y ni él ni el otro cónyuge hubieren intentado la nulidad.
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1970)</small>
+
+II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años; y ni él ni el otro cónyuge hubieren intentado la nulidad.
 
 ###### ARTICULO 238.
 
@@ -1894,9 +1898,13 @@ La acción que compete al hijo para reclamar su estado, es imprescriptible para 
 
 Los demás herederos del hijo podrán intentar la acción de que trata el artículo anterior:
 
-I.- Si el hijo ha muerto antes de cumplir veinticinco años;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1970)</small>
 
-II.- Si el hijo cayó en demencia antes de cumplir los veinticinco años y murió después en el mismo estado.
+I.- Si el hijo ha muerto antes de cumplir veintidós años.
+
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1970)</small>
+
+II.- Si el hijo cayó en demencia antes de cumplir los veintidós años y murió después en el mismo estado.
 
 ###### ARTICULO 349.
 
@@ -2390,7 +2398,9 @@ Al efecto, el precio de la venta se depositará en una institución de crédito,
 
 El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
 
-I.- Por la emancipación o la mayor edad de los hijos;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1970)</small>
+
+I.- Por la emancipación derivada del matrimonio o la mayor edad de los hijos;
 
 II.- Por la pérdida de la patria potestad;
 
@@ -2422,7 +2432,9 @@ La patria potestad se acaba:
 
 I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II.- Con la emancipación;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1970)</small>
+
+II.- Con la emancipación, derivada del matrimonio.
 
 III.- Por la mayor edad del hijo.
 
@@ -2486,9 +2498,11 @@ III.- Los sordo-mudos que no saben leer ni escribir;
 
 IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de drogas enervantes.
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
+
 ###### ARTICULO 451.
 
-Los menores de edad emancipados tienen incapacidad legal para los actos que se mencionan en el artículo relativo del Capítulo I del Título Décimo de este Libro.
+Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para los actos que se mencionen en el artículo relativo al capítulo I del título décimo de este libro.
 
 ###### ARTICULO 452.
 
@@ -3366,7 +3380,9 @@ Designarán por sí mismos al curador, con aprobación judicial:
 
 I.- Los comprendidos en el artículo 496, observándose lo que allí se dispone respecto de esos nombramientos;
 
-II.- Los menores de edad emancipados, en el caso previsto en la fracción III del artículo 643.
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1970)</small>
+
+II.- Los menores de edad emancipados por razón del matrimonio, en el caso previsto en la fracción II del artículo 643.
 
 ###### ARTICULO 625.
 
@@ -3436,6 +3452,8 @@ Mientras que se nombra tutor, el juez pupilar debe dictar las medidas necesarias
 
 ### CAPITULO I. De la emancipación
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
+
 ###### ARTICULO 635.
 
 Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 537.
@@ -3464,39 +3482,39 @@ Tampoco pueden alegarla los menores, si han presentado certificados falsos del R
 
 ### CAPITULO II. De la mayor edad
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
+
 ###### ARTICULO 641.
 
-El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
+El matrimonio del menor de dieciocho años produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
 
 ###### ARTICULO 642.
 
-Los mayores de dieciocho años que estén sujetos a patria potestad o a tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y su actitud para el manejo de sus intereses.
+(DEROGADO, D.O.F. 28 DE ENERO DE 1970)
 
-Los padres o tutores pueden emancipar a sus hijos y pupilos que se encuentren en las condiciones mencionadas en el párrafo anterior, siempre que éstos consientan en su emancipación.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
 
 ###### ARTICULO 643.
 
-El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
+El emancipado tiene la libre administración de sus bienes, pero simpre (sic) necesita durante su menor edad:
 
-I.- Del consentimiento del que lo emancipo para contraer matrimonio antes de llegar a la mayor edad. Si el que otorgó la emancipación ejercía la patria potestad ya ha muerto, o está capacitado legalmente al tiempo en que el emancipado intente casarse, necesita éste el consentimiento del ascendiente a quien corresponda darlo, y en su defecto, el del juez;
+I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces.
 
-II.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
-
-III.- De un tutor para los negocios judiciales.
+II.- De un tutor para negocios judiciales.
 
 ###### ARTICULO 644.
 
-Hecha la emancipación, no puede ser revocada.
+(DEROGADO, D.O.F. 28 DE ENERO DE 1970)
 
 ###### ARTICULO 645.
 
-Fuera del caso a que se refiere el artículo 641, la emancipación siempre será decretada por el juez, y la resolución correspondiente se remitirá al oficial del Registro Civil para que levante el acta respectiva.
+(DEROGADO, D.O.F. 28 DE ENERO DE 1970)
 
 ### CAPITULO I. De las medidas provisionales en caso de ausencia
 
 ###### ARTICULO 646.
 
-La mayor edad comienza a los veintiún años cumplidos.
+La mayor edad comienza a los dieciocho años cumplidos.
 
 ###### ARTICULO 647.
 
@@ -11751,3 +11769,9 @@ DECRETO QUE REFORMA LA FRACCIÓN VIII DEL ARTICULO 511 DEL CÓDIGO CIVIL PARA EL
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor al tercer día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 28 DE ENERO DE 1970.
+
+###### ARTICULO UNICO.
+
+El presente decreto surtirá sus efectos a los tres días de su publicación en el "Diario Oficial" de la Federación.
