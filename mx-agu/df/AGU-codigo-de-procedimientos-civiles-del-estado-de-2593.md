@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2000-03-06"
+last_updated: "2000-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2000.
 
 Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -1533,9 +1533,11 @@ Los autos en que se admita alguna prueba no son recurribles. Cuando la recepció
 
 Los hechos notorios pueden ser invocados por el tribunal, aunque no hayan sido alegados por las partes.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 241.
 
-Cuando una de las partes se oponga a la inspección o reconocimiento ordenados por el tribunal, para conocer sus condiciones físicas o mentales, o no conteste las preguntas que le dirija, deben tenerse por ciertas las afirmaciones de la contraparte, salvo prueba en contrario. Lo mismo se hará si una de las partes no exhibe, a la inspección del tribunal, la cosa o documento que tiene en su poder, o de que puede disponer.
+Cuando una de las partes se oponga, sin justificación legal, a la inspección o reconocimiento ordenados por el tribunal, para conocer sus condiciones físicas o mentales, o no conteste las preguntas que le dirija, deben tenerse por ciertas las afirmaciones de la contraparte si éstas forman parte de la litis, salvo prueba en contrario, siempre y cuando tengan relación directa con la prueba en cuestión. Lo mismo se hará si una de las partes impide la elaboración de un dictamen pericial, o si no exhibe, a la inspección del tribunal, la cosa o documento que tiene en su poder, o de que puede disponer.
 
 ###### ARTICULO 242.
 
@@ -1807,99 +1809,147 @@ Las partes sólo podrán objetar los documentos dentro de los tres días siguien
 
 ### CAPITULO V. Prueba Pericial
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 294.
 
-La prueba pericial tendrá lugar en las cuestiones de un negocio relativas a alguna ciencia o arte, y en los casos en que expresamente lo prevenga la ley.
+La prueba pericial tendrá lugar cuando se requieran conocimientos especiales en las cuestiones de un negocio relativas a alguna ciencia, arte, técnica, oficio o industria, y en los casos en que expresamente lo prevenga la Ley.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 295.
 
-Los peritos deben tener título en la ciencia o arte a que pertenezca la cuestión sobre que ha de oírse su parecer, si la profesión o el arte estuvieran reglamentados.
+Los peritos deben tener título en la ciencia, arte, técnica, oficio o industria a que pertenezca la cuestión sobre la que ha de oírse su parecer, si la ciencia, arte, técnica, oficio o industria requiere título para su ejercicio.
 
-Todo nombramiento de perito que haga el juez, deberá recaer en servidor público del Gobierno del Estado o de los Municipios y en caso de no haberlo, se designará un profesor en la materia de una institución educativa oficial superior, quienes están obligados a desempeñar el cargo sin pago de honorarios.
+El perito tercero en discordia, deberá designarse de entre aquellos que se encuentren registrados en la lista oficial de peritos formulada por el Supremo Tribunal de Justicia, debidamente publicada en el Periódico Oficial del Estado.
 
-Si la profesión o el arte no estuvieren legalmente reglamentados, o estándolo, no hubiere peritos en el lugar, podrán ser nombradas cualesquiera personas entendidas, a juicio del tribunal, aún cuando no tengan título.
+Si no hubiere peritos en el lugar, que satisfagan las condiciones que anteceden, podrá designarse cualesquiera persona entendida en la materia, aún cuando no tenga título o no se encuentre registrado en la lista oficial.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 296.
 
-Cada parte nombrará un perito, a no ser que se pusieren de acuerdo en el nombramiento de uno solo.
+Cada parte nombrará un perito, pero podrán convenir en la designación de un solo perito, o bien conformarse con el designado por su contraparte.
 
-Si fueren más de dos litigantes, nombrarán un perito los que sostuvieren unas mismas pretensiones, y otro los que las contradigan.
+Los honorarios de cada perito serán pagados por la parte que los nombró, los correspondientes al perito tercero en discordia serán cubiertos por las partes en la proporción que les corresponda.
 
-Si los que deben nombrar un perito no pudieren ponerse de acuerdo, el tribunal designará uno de entre los que propongan los interesados.
+Para el pago de los honorarios, los peritos presentarán al tribunal correspondiente regulación, de la cual se dará vista por el término de tres días a la parte o partes que deban pagarlos, transcurrido dicho término contesten o no contesten las partes, hará el tribunal la regulación definitiva tomando en consideración en su caso las disposiciones arancelarias, y ordenará su pago.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 297.
 
-La prueba pericial se ofrecerá expresando los puntos sobre los que deba versar, precisando las cuestiones que deban resolver los peritos y haciendo la designación de perito de su parte con expresión de su nombre y domicilio.
+El ofrecimiento de la prueba pericial, debe contener los siguientes requisitos:
 
-Al admitir la prueba, el Juez concederá a las demás partes el término de tres días para que adicionen el cuestionario con lo que a sus intereses convenga y las prevendrá para que en el mismo término designen perito de su parte en los términos del artículo anterior.
+I.- Señalar con toda precisión la materia de la prueba y las cuestiones que deben resolver los peritos;
 
-Transcurrido ese término, con vista al cuestionario y a su adición si la hubo, el Juez hará el nombramiento del perito tercero que dictaminará en caso de discordia.
+II.- Indicar qué se pretende acreditar con la prueba;
+
+III.- Precisar el nombre, apellidos y domicilio en el lugar del juicio, del perito que se proponga;
+
+IV.- La aceptación y protesta del cargo por parte del perito designado;
+
+V.- Acreditar la calidad profesional, técnica, artística o industrial del perito, exhibiendo en su caso copia certificada de la cédula profesional o de las constancias que lo acrediten.
+
+La falta de cualquiera de los requisitos anteriores, importa el desechamiento de plano, de la prueba en cuestión.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 298.
 
-El juez designará de oficio los peritos que corresponda nombrar a cada parte en los casos siguientes:
+La aceptación del cargo obliga al perito a la emisión del dictamen, bajo pena de responsabilidad respecto de los daños y perjuicios que cause a la parte que lo designó.
 
-I.- Si alguno de los litigantes, dejare de hacer el nombramiento en el término señalado en el artículo anterior;
-
-II.- Cuando el designado por las partes no aceptare el cargo en los términos del artículo siguiente;
-
-III.- Cuando recaiga algún nombramiento en persona inhabilitada por cualquier causa;
-
-IV.- Cuando habiendo aceptado el nombramiento no rindiere su dictamen dentro del término fijado o en la diligencia respectiva;
-
-V.- Cuando el que fue nombrado y aceptó el cargo lo renunciare después;
-
-VI.- Si el designado por los litigantes no se encontrare en el lugar del juicio o en el que deba practicarse la prueba o no se hubiere señalado su domicilio.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 299.
 
-Los peritos nombrados por las partes serán presentados por éstas al Tribunal dentro de los tres días siguientes de habérseles tenido como tales, a manifestar la aceptación y protesta de desempeñar su cargo con arreglo a la Ley. Los peritos nombrados por el Tribunal serán notificados personalmente de su designación para que manifiesten si aceptan y protestan desempeñar el cargo, manifestación que deberán hacer dentro de los tres días que sigan de la notificación de su nombramiento.
+Al admitir la prueba, el juez concederá a las demás partes, el término de tres días para que adicionen el cuestionario con lo que a sus intereses convenga, y las requerirá para que en el término de seis días designen perito de su parte, conforme a los lineamientos de las fracciones III, IV y V del Artículo 297.
 
-Si se trata de servidor público esta obligado a aceptar el cargo, pudiendo excusarse en el mismo término de tres días, si hay una causa fundada.
-
-> <small>(F. DE E., P.O. 27 DE AGOSTO DE 1989)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 300.
 
-La diligencia se practicará en la audiencia del juicio cuando así lo permita la naturaleza del reconocimiento, en cualquier otro caso se fijará a los peritos un término prudente para que presenten su dictamen, en todo caso, las partes tienen derecho de formular a los peritos las cuestiones que sean pertinentes.
+Una vez transcurrido el término concedido para el nombramiento de los peritos, el juez, de oficio o a petición de parte, proveerá todas las medidas pertinentes, que sean necesarias para el desahogo de la prueba, dará traslado a los peritos designados con el cuestionario y la adición, si la hubo, y los requerirá para que en diez días emitan su dictamen.
+
+Los peritos están obligados a expresar en sus dictámenes:
+
+a).- Los estudios que hayan realizado y los conocimientos prácticos que tengan en relación a la materia objeto de la prueba;
+
+b).- Los elementos que hayan tomado en cuenta, y los procedimientos científicos o analíticos que hayan efectuado, que les haya permitido dar respuesta a las cuestiones puestas a su consideración; y
+
+c).- Los motivos y razones en que fundamenten sus conclusiones.
+
+Dentro de los tres días siguientes a la conclusión del término establecido en el párrafo primero de este Artículo, las partes podrán exigir la presencia de los peritos en la audiencia del Juicio, a fin de que puedan ser interrogados por los interesados; siendo así, el tribunal los citará para que comparezcan a ella, bajo apercibimiento del empleo de los medios de apremio previstos en el Artículo 60, para el caso de incumplimiento.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 301.
 
-En el caso de la primera parte del artículo anterior concurrirá el tercero en discordia y se observarán las reglas siguientes:
+La prueba pericial podrá tenerse por desahogada con la presentación de un solo dictamen en los siguientes casos:
 
-I.- El perito que dejare de incurrir sin causa justa, calificada por el tribunal, incurrirá en una multa de dos a diez días de salario mínimo general vigente en el estado y será responsable de los daños causados por su culpa, sin perjuicio de lo que previene el Artículo 298;
+I.- Cuando se adhieran las partes a la designación de un solo perito;
 
-II.- Los peritos practicarán unidos la diligencia, pudiendo concurrir los interesados al acto y hacerles observaciones, pero deberán retirarse para que los peritos discutan y deliberen solos;
+II.- Tratándose de la parte que no ofreció la prueba, cuando no designe perito o designándolo, el nombramiento no cumpla con lo previsto en las fracciones III, IV y V del Artículo 297;
 
-III.- Los peritos de las partes emitirán inmediatamente su dictamen, pero si lo solicitan por la naturaleza del asunto, se les señalará un término para que lo rindan.
+III.- Si el perito designado no rinde el dictamen en el término previsto para ello, excepto en los casos de sustitución.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 302.
 
-Rendidos los dictámenes de los peritos de las partes el Juez los examinará y si discordaren en alguno o algunos de los puntos esenciales, requerirá del perito tercero su dictamen sobre los puntos discordia, dictamen que deberá rendir en la misma audiencia, si es posible, en cualquier otro caso le señalará un término prudente.
+Procede la sustitución del perito designado:
+
+a).- Por una sola vez, si el perito nombrado no rinde el dictamen en el término previsto para ello;
+
+b).- Por imposibilidad manifiesta para emitir el dictamen dentro del término legal, previa petición de parte interesada, misma que deberá justificar plenamente; y
+
+c).- Por causa de muerte.
+
+La sustitución deberá de realizarse dentro del término de tres días contados a partir de que el Juez la acepte, cumpliendo con los requisitos de las fracciones III, IV y V del Artículo 297.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 303.
 
-El perito tercero que nombre el tribunal, puede ser recusado dentro de los tres días siguientes al en que cause estado la notificación de su nombramiento a los litigantes, por las mismas causas que pueden serlo los jueces; pero si se tratare de perito nombrado en rebeldía de una de las partes sólo ésta podrá hacer uso de la recusación.
+Rendidos los dictámenes de los peritos de las partes, el juez los examinará y si discordaren en alguno o algunos de los puntos esenciales, designará al perito tercero en discordia, a quien se le hará saber el cargo a fin de que, en tres días, manifieste si lo acepta o no. En caso de negativa o si no manifestare nada al respecto, se nombrará a otro.
+
+Una vez aceptado el cargo, deberá rendir el dictamen en el término de ocho días, citándolo si procediere a la audiencia de juicio, apercibiéndole que en caso de no emitir el dictamen o no comparecer a la audiencia, se hará uso de los medios de apremio. En caso de negativa a rendir el dictamen, el juez podrá sustituirlo de manera discrecional, imponiéndole una multa hasta de veinte días de salario mínimo general vigente en el Estado.
+
+En cualesquiera de los casos, el Juez expedirá el nombramiento respectivo a los peritos designados, a fin de que cumplan con su mandato.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 304.
 
-La recusación se resolverá por el procedimiento incidental, a menos que el perito confesare la causa, en la cual se admitirá desde luego la recusación y se procederá al nombramiento de nuevo perito.
+Se tendrá por desierta la prueba pericial, en los siguientes casos:
+
+I.- Si ninguno de los peritos rinde dictamen;
+
+II.- Cuando el perito de la parte oferente no rinda el dictamen, si su contraparte no hizo designación, salvo el caso de sustitución;
+
+III.- En los casos de conformidad o designación de un perito común, si éste no rinde el dictamen.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 305.
 
-Contra el auto que resuelva o deseche la recusación, no procede recurso alguno.
+Los peritos que nombren las partes no podrán ser recusados.
+
+El perito tercero puede ser recusado dentro de los tres días siguientes a su designación, por las mismas causas que pueden serlo los jueces.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 306.
 
-Los honorarios de cada perito serán pagados por la parte que lo nombró, o en cuya rebeldía lo hubiere nombrado el tribunal.
+La recusación se tramitará conforme a lo previsto en el primer párrafo del Artículo 175 de este Código, a menos que el perito confesare la causa, caso en el cual se procederá al nombramiento de otro perito.
+
+En caso de oposición del perito a la recusación, de resultar fundada ésta, se le impondrá una multa de hasta veinte días de salario mínimo general vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 307.
 
-Para el pago de los honorarios de que trata el artículo anterior, los peritos presentarán al tribunal la correspondiente regulación, de la cual se dará vista por el término de tres días a la parte o partes que deban pagarlos.
-
-Transcurrido dicho término contesten o no contesten las partes, hará el tribunal la regulación definitiva y ordenará su pago, teniendo en consideración en su caso, las disposiciones arancelarias.
-
-En caso de que el importe de honorarios se hubiere fijado por convenio, se estará a lo que en él se establezca.
+Contra la resolución que decida o deseche la recusación no procede recurso alguno.
 
 ### CAPITULO VI. Reconocimiento o Inspección Judicial
 
@@ -2927,15 +2977,31 @@ I.- Para intervenir en el acto del remate, pudiendo hacer al juez las observacio
 
 II.- Para recurrir el auto de aprobación del remate, en su caso.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 480.
 
-Para el avalúo de los bienes inmuebles el juez pedirá a la oficina catastral que corresponda, informes sobre el valor comercial de dichos bienes, y éste servirá de avalúo para el remate. Este avalúo tendrá vigencia de un año.
+Para el avalúo de los bienes inmuebles, se observarán las siguientes reglas:
 
-(REFORMADO, P.O. 2 DE ABRIL DE 1995) (F. DE E., P.O. 14 DE MAYO DE 1995)
+I.- Solicitada la apertura del período de remate, el juez concederá a las partes cinco días para que designen perito valuador, que cumpla con lo dispuesto en el Artículo 295;
+
+II.- A la designación, que debe satisfacer los requisitos previstos en las fracciones III, IV y V del Artículo 297, deberá acompañarse el avalúo;
+
+III.- Se tendrá por conforme con el avalúo del perito de su contraparte, al litigante que no haga designación de valuador, al que haga recaer el cargo sobre perito no autorizado, al que no cumpla con los requisitos de la fracción que antecede, o al que no exhiba el dictamen al momento de hacer la designación. Si todas las partes son omisas al respecto, el precio comercial del bien a justipreciar será fijado pro (sic) la oficina catastral que corresponda a su ubicación si se encuentra dentro del territorio del Estado, o por un perito designado por el juzgador de entre aquellos que se encuentren registrados en la lista oficial de peritos, en cualquier otro caso.
+
+IV.- El juez designará perito tercero en discordia, si los avalúos rendidos por los peritos de las partes guardan entre sí una diferencia mayor al 20% respecto del dictamen más alto; en caso contrario, se promediarán los peritajes para obtener el precio del inmueble valuado;
+
+V.- El juez determinará en justicia, cual de los dictámenes servirá de base para fijar la postura legal de la subasta;
+
+VI.- El costo del dictamen catastral, será pagado por las partes;
+
+VII.- Los avalúos tendrán vigencia de un año.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 481.
 
-Obtenido el informe del valor de los bienes, si fueren raíces, se anunciará su venta señalando día y hora para la almoneda por medio de edictos que se publicarán por una sola vez en el Periódico Oficial del Estado y en tres diarios de circulación estatal.
+Obtenido el valor de los bienes, si fueren raíces, se anunciará su venta señalando día y hora para la almoneda por medio de edictos que se publicarán por una sola vez en el Periódico Oficial del Estado y en tres diarios de circulación estatal.
 
 A petición de cualquiera de las partes, y a su costa, el Juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
 
@@ -3007,11 +3073,15 @@ Hecha la declaración de la postura preferente, el juez preguntará si la mejora
 
 Dentro de los tres días siguientes al en que se fincó el remate, el juez, de oficio, revisará el procedimiento de ejecución y dictará auto aprobando o no el remate. Contra esa resolución se da el recurso de apelación.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 494.
 
-Aprobado el remate, el Juez, prevendrá al comprador para que consigne ante el propio Juez el remanente del precio completo del remate, en un término de cinco días tratándose de bienes muebles y de diez tratándose de bienes inmuebles, si no consigna el precio, se procederá a declarar que por su culpa deja de tener efecto la venta en su favor y que ha perdido el importe del depósito a que se refiere el artículo 485, en caso de haberse presentado otros postores al remate y siempre y cuando no haya transcurrido el término que para la vigencia del avalúo establece el artículo 480, en el mismo acuerdo dará opción el Juez a los otros postores para que en un término común de cinco días consignen el precio completo de la última postura que les hubiese sido aceptada en la audiencia de remate y si lo hacen, el Juez, dentro de los tres días siguientes, declarará adjudicados los bienes sacados a remate en favor del mejor comprador. En cualquier otro caso, se procederá a nueva subasta como si la anterior no se hubiere celebrado.
+Aprobado el remate, el Juez, prevendrá al comprador para que consigne ante el primero el remanente del precio completo del remate, en un término de cinco días tratándose de bienes muebles y de diez tratándose de bienes inmuebles, si no consigna el precio, se procederá a declarar que por su culpa deja de tener efecto la venta en su favor y que ha perdido el importe del depósito a que se refiere el Artículo 485 de este Código, en caso de haberse presentado otros postores al remate y siempre y cuando no haya transcurrido el término que para la vigencia del avalúo establece el Artículo 480 de este ordenamiento, en el mismo acuerdo dará opción el Juez a los otros postores para que en un término común de cinco días consignen el precio completo de la última postura que les hubiese sido aceptada en la audiencia de remate y si lo hacen, el Juez, dentro de los tres días siguientes, declarará adjudicados los bienes sacados a remate en favor del mejor comprador. En cualquier otro caso, se procederá a nueva subasta como si la anterior no se hubiere celebrado.
 
-El depósito a que se refiere el artículo 485 se aplicará a beneficio del ejecutado, pero se aplicará al ejecutante si éste lo solicita, en abono a su crédito.
+El depósito a que se refiere el Artículo 485 se aplicará a beneficio del ejecutado, pero se aplicará al ejecutante si éste lo solicita, en abono a su crédito.
+
+Cuando se trate de un procedimiento de liquidación de una mancomunidad y el comprador no realice la consignación del remanente del precio completo del remate, en el plazo previsto al efecto en el párrafo primero de este Artículo, ya no podrá presentarse como postor en futuras subasta (sic) dentro del mismo procedimiento y el tribunal le impondrá una multa hasta por el equivalente de 900 días de salario mínimo general vigente en el Estado.
 
 ###### ARTICULO 495.
 
@@ -5452,3 +5522,21 @@ P.O. 6 DE MARZO DE 2000.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JUNIO DE 2000.
+
+###### ARTICULO PRIMERO.
+
+Estas reformas entrarán en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Tratándose del remate de inmuebles, se aplicarán estas reformas a los procedimientos que actualmente se tramiten independientemente de su fecha de inicio si lo permite el estado de los autos.
+
+###### ARTICULO TERCERO.
+
+Tratándose de la prueba pericial en juicios civiles ya iniciados, la reforma sólo podrá aplicarse en los litigios que aún no se encuentren en la etapa de ofrecimiento de pruebas.
+
+###### ARTICULO CUARTO.
+
+Si para el ejercicio de un derecho procesal estuviere corriendo un término y el señalado en esta reforma fuere menor que el señalado en el anterior, se observará lo dispuesto en este último.
