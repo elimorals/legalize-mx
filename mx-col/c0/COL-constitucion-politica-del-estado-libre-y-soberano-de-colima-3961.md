@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1992-08-01"
+last_updated: "1992-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1992.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -193,9 +193,9 @@ II.- Tener 21 años cumplidos al día de la elección.
 
 III.- No estar en servicio activo en el Ejercito Nacional, ni tener mando en la Policía en el Distrito en que se haga la elección cuando menos 90 días antes de ella.
 
-> <small>(REFORMADA, P. O. 16 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1992)</small>
 
-IV.- No ser Secretario General de Gobierno, Magistrado del Supremo Tribunal de Justicia, Secretario de Programación y Finanzas, ni desempeñar el cargo de juez de Distrito en el Estado, a menos que se separen de sus cargos noventa días antes de verificarse la elección.
+IV.- No ser Secretario General de Gobierno, Magistrado del Supremo Tribunal de Justicia, Secretario de Finanzas, ni desempeñar el cargo de Juez de Distrito en el Estado, a menos que se separen de sus cargos noventa días antes de verificarse la elección.
 
 (REFORMADA, P.O. 6 DE JULIO DE 1935) (REPUBLICADA, P.O. 12 DE DICIEMBRE DE 1936)
 
@@ -291,9 +291,9 @@ II.- Legislar sobre todos los Ramos de Administración o gobierno interiores que
 
 III.- Aprobar anualmente, los Presupuestos de Ingresos y Egresos del Estado, y decretar en todo tiempo las contribuciones que basten a cubrir los Egresos de los Municipios.
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 1991)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1992)</small>
 
-IV.- Aprobar o reprobar las cuentas de los caudales públicos, que deberá presentar la Secretaría de Programación y Finanzas del Gobierno del Estado, dentro de los sesenta días siguientes a la apertura del Segundo Periodo Ordinario de Sesiones de cada año, en caso de que fueren reprobadas dichas cuentas, consignar al Ministerio Público a los presuntos delincuentes para la averiguación correspondiente y aplicación del castigo a los responsables.
+IV.- Aprobar o reprobar las cuentas de los caudales públicos, que deberá presentar la Secretaría de Finanzas del Gobierno del Estado, dentro de los sesenta días siguientes a la apertura del Segundo Periodo Ordinario de Sesiones de cada año, en caso de que fueren reprobadas dichas cuentas, consignar al Ministerio Público a los presuntos delincuentes para la averiguación correspondiente y aplicación del castigo a los responsables.
 
 (REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -567,9 +567,9 @@ V.- No ser ni haber sido ministro de algún culto.
 
 VI.- No haber figurado directa ni indirectamente en alguna asonada, motín o cuartelazo.
 
-> <small>(REFORMADA, P. O. 16 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1992)</small>
 
-VII.- No estar en servicio activo en el Ejercito Nacional ni en las fuerzas del Estado, con noventa días de anticipación al día de la elección. El Secretario General de Gobierno, los Magistrados del Supremo Tribunal de Justicia, el Secretario de Programación y Finanzas y el Presidente Municipal de la Capital, pueden ser electos para desempeñar la Primera Magistratura del Estado, sólo en el caso de haber cesado en su encargo noventa días antes de la elección.
+VII.- No estar en servicio en el Ejercito Nacional ni en las fuerzas del Estado, con noventa días de anticipación al día de la elección. El Secretario General de Gobierno, los Magistrados del Supremo Tribunal de Justicia, el Secretario de Finanzas y el Presidente Municipal de la Capital, pueden ser electos para desempeñar la Primera Magistratura del Estado, sólo en el caso de haber cesado en su encargo noventa días antes de la elección.
 
 (REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -1317,21 +1317,21 @@ IV.- De las donaciones, herencias, legados y reintegros que se concedan y otorgu
 
 El Congreso expedirá la ley de Hacienda que establezca las bases generales para la fijación de los impuestos y la manera de hacerlos efectivos.
 
-> <small>(REFORMADO, P. O. 16 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 110.
 
-Habrá en el Estado una Oficina encargada de la Recaudación y distribución de los Caudales Públicos, que se denominará "Secretaría de Programación y Finanzas del Estado" y que estará a cargo del Secretario Respectivo.
+Habrá en el Estado una Oficina encargada de la recaudación y distribución de los caudales públicos, que se denominará "Secretaría de Finanzas del Estado" y que estará a cargo del Secretario respectivo.
 
 ###### Artículo 111.
 
 En cada una de las cabeceras de las Municipalidades habrá una Oficina que recaudará los arbitrios Municipales y que se denominará "Tesorería Municipal" y estará a cargo de un Tesorero Municipal.
 
-> <small>(REFORMADO, P. O. 16 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 112.
 
-En las cabeceras de cada Municipio, en donde la Secretaría de Programación y Finanzas del Estado lo juzgue conveniente, habrá una Oficina encargada de recaudar los impuestos y contribuciones que correspondan al Estado; que se denominará Receptoría de Rentas y estará a cargo de un Receptor.
+En las cabeceras de cada Municipio, en donde la Secretaría de Finanzas del Estado lo juzgue conveniente, habrá una Oficina encargada de recaudar los impuestos y contribuciones que correspondan al Estado, que se denominará Receptoría de Rentas y estará a cargo de un Receptor.
 
 ###### Artículo 113.
 
@@ -1341,11 +1341,11 @@ Las oficinas a que se refieren los artículos anteriores, podrán ejercer la fac
 
 Los encargados de las Oficinas de referencia, distribuirán los caudales públicos con estricto arreglo al presupuesto y serán responsables personal y pecuniariamente, por los gastos que hicieren u ordenaren sin estar comprendidos o autorizados por ley posterior.
 
-> <small>(REFORMADO, P. O. 16 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 115.
 
-El Secretario de Programación y Finanzas del Estado y los demás empleados que manejen fondos públicos, otorgarán finanza (sic) en la forma que la Ley determine.
+El Secretario de Finanzas del Estado y los demás empleados que manejen fondos públicos, otorgarán fianza en la forma que la ley determine.
 
 ## TITULO IX.. DE LA DIVISION POLITICA DEL ESTADO. (SIC)
 
@@ -1379,11 +1379,11 @@ El Gobernador del Estado, los Diputados a la Legislatura Local y los Magistrados
 
 Se concede acción popular para exigir la responsabilidad de los funcionarios y empleados públicos, a excepción de la que provenga de delitos en que se requiera la querella necesaria.
 
-> <small>(REFORMADO, P. O. 16 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 121.
 
-Siempre que se trate de un delito de orden común cometido por los Diputados, El Gobernador, los Magistrados, el Secretario General de Gobierno, el Procurador General de Justicia, el Sub-Procurador, el Secretario de Programación y Finanzas o los Munícipes, el Congreso, erigido en Gran Jurado, declarará a mayoría absoluta de votos si hay o no lugar a proceder contra el acusado. En caso negativo no habrá lugar a procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, comensando (sic) entonces la prescripción. En el caso afirmativo el acusado quedará por el mismo hecho separado de su cargo y sujeto a la acción de los tribunales comunes.
+Siempre que se trate de un delito de orden común cometido por los Diputados, el Gobernador, los Magistrados, el Secretario General de Gobierno, el Procurador General de Justicia, el Sub-Procurador, el Secretario de Finanzas o los Munícipes, el Congreso, erigido en Gran Jurado, declarará a mayoría absoluta de votos si hay o no lugar a proceder contra el acusado. En caso negativo no habrá lugar a procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En el caso afirmativo el acusado quedará por el mismo hecho separado de su cargo y sujeto a la acción de los Tribunales comunes.
 
 ###### Artículo 122.
 
@@ -1479,11 +1479,11 @@ Se prohibe ejercer simultáneamente dos o más cargos de elección popular; pero
 
 Todo cargo o empleo público es incompatible con cualquiera otro de la Federación, del Estado o de los Municipios, cuando por ellos se perciba sueldo, exceptuándose los de los Ramos de Instrucción, de Beneficencia Pública o los honoríficos en asociaciones científicas o literarias.
 
-> <small>(REFORMADO, P. O. 16 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 139.
 
-Los Diputados, el Gobernador, los Magistrados del Supremo Tribunal de Justicia, el Secretario General de Gobierno, el Procurador General de Justicia, el Sub-Procurador, el Secretario de Programación y Finanzas del Estado y los Munícipes gozan de fuero desde el día de su elección o nombramiento en su caso.
+Los Diputados, el Gobernador, los Magistrados del Supremo Tribunal de Justicia, el Secretario General de Gobierno, el Procurador de Justicia, el Sub-Procurador, el Secretario de Finanzas y los Munícipes gozan de fuero desde el día de su elección o nombramiento en su caso.
 
 (REFORMADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
 
@@ -2076,3 +2076,7 @@ P.O. 1 DE AGOSTO DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 5 DE DICIEMBRE DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
