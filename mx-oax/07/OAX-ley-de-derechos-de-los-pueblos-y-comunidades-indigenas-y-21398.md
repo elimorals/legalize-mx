@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-21398"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-19"
-last_updated: "1998-06-19"
+last_updated: "2001-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 31 DE MARZO DE 2001.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 19 de junio de 1998.
 
@@ -87,9 +87,11 @@ Los pueblos y comunidades indígenas tienen derecho social a determinar libremen
 
 Así mismo, tienen derecho social a determinar, conforme a la tradición de cada uno, su propia composición, y a ejercer con autonomía todos los derechos que esta Ley reconoce a dichos pueblos y comunidades.
 
-###### Articulo 5º.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2001)</small>
 
-El Estado, por conducto de la Procuraduría para la Defensa del Indígena y el Poder Judicial, en el ámbito de sus respectivas competencias, quedan facultados para aplicar la presente Ley y asegurar el respeto de los derechos sociales de los pueblos y comunidades indígenas, conforme al principio igualitario de que ninguno de ellos, o cualquier núcleo no indígena, será considerado superior a los demás.
+###### Artículo 5º.
+
+El Estado, por conducto de la Secretaría de Asuntos Indígenas y el Poder Judicial, en el ámbito de sus respectivas competencias, quedan facultados para aplicar la presente Ley y asegurar el respeto de los derechos sociales de los pueblos y comunidades indígenas, conforme al principio igualitario de que ninguno de ellos, o cualquier núcleo no indígena, será considerado superior a los demás.
 
 ###### Articulo 6º.
 
@@ -109,9 +111,11 @@ En el marco del orden jurídico vigente el Estado respetará los límites de los
 
 La autonomía de los pueblos y comunidades se ejercerá a nivel del municipio, de las agencias municipales, agencias de policía o de las asociaciones integradas por varios municipios entre sí, comunidades entre si o comunidades y municipios.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2001)</small>
+
 ###### Artículo 9°.
 
-En materia de conflictos agrarios en tierras de pueblos y comunidades indígenas, el Estado, por conducto de la Junta de Conciliación Agraria del Estado de Oaxaca en consenso con las autoridades municipales y comunitarias y las asociaciones de comunidades y pueblos indígenas, promoverá la conciliación en los términos del artículo 16 sexto párrafo y 90 Bis de la Constitución Política local y de la Ley Orgánica de la Junta mencionada.
+En materia de conflictos agrarios en tierras de pueblos y comunidades indígenas, el Estado, por conducto de la Junta de Conciliación Agraria del Estado de Oaxaca en consenso con las autoridades municipales y comunitarias y las asociaciones de comunidades y pueblos indígenas, promoverá la conciliación en los términos del artículo 16 sexto párrafo y 91 de la Constitución Política Local y de la Ley Orgánica de la Junta mencionada.
 
 ###### Artículo 10°.
 
@@ -121,13 +125,17 @@ Cada pueblo o comunidad indígena tiene el derecho social a darse con autonomía
 
 Los ayuntamientos de municipios no indígenas de los que formen parte una o varias comunidades indígenas promoverán la creación de regidurías de asuntos indígenas. Las personas que ocupen dicho cargo serán designadas conforme a sus tradiciones políticas.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2001)</small>
+
 ###### Artículo 12.
 
-Las autoridades municipales respetarán la autonomía de las comunidades indígenas que formen parte de municipios no indígenas. En caso de disenso el Estado, por conducto de la Procuraduría para la Defensa del Indígena, buscará la concertación y la convivencia plural.
+Las autoridades municipales respetarán la autonomía de las comunidades indígenas que formen parte de municipios no indígenas. En caso de disenso, el Estado, por conducto de la Secretaría de Asuntos Indígenas, buscará la concertación y la convivencia plural.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2001)</small>
 
 ###### Artículo 13.
 
-Los pueblos y comunidades indígenas podrán formar asociaciones para los fines que consideren convenientes y de acuerdo al artículo 94 de la Constitución Política Local. Así mismo, tendrán el derecho de adoptar libremente su toponimia, cultura, lengua y formas de gobierno, del pueblo indígena al que pertenezcan. Por cuanto a sus relaciones fuera del territorio del Estado se estará a lo dispuesto por el artículo 96 de la Constitución Política del Estado.
+Los pueblos y comunidades indígenas podrán formar asociaciones para los fines que consideren convenientes, de acuerdo al artículo 113 fracción V de la Constitución Política Local. Así mismo, tendrán el derecho de adoptar libremente su toponimia, cultura, lengua y formas de gobierno, del pueblo indígena al que pertenezcan. Por cuanto a sus relaciones fuera del territorio del estado se estará a lo dispuesto por el artículo 113 fracción I ultimo párrafo de la Constitución Política del Estado.
 
 ###### Artículo 14.
 
@@ -187,9 +195,11 @@ Los pueblos y comunidades indígenas, en los términos del artículo 3° de la C
 
 ###### Artículo 24.
 
-El Estado, por conducto de sus instancias educativas, garantizará que las niñas y los niños indígenas tengan acceso a la educación básica formal bilingüe e intercultural. Los pueblos y comunidades indígenas, así como las madres y padres de familia indígenas, en los términos del artículo 3º. de la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Educación y de la Ley Estatal de Educación, tendrán derecho a establecer y participar en los sistemas educativos, para la implementación de la enseñanza en sus propias lenguas dentro del marco legal vigente.
+El Estado, por conducto de sus instancias educativas, garantizará que las niñas y los niños indígenas tengan acceso a la educación básica formal bilingüe e intercultural. Los pueblos y comunidades indígenas, así como las madres y padres de familia indígenas, en los términos del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Educación y de la Ley Estatal de Educación, tendrán derecho a establecer y participar en los sistemas educativos, para la implementación de la enseñanza en sus propias lenguas dentro del marco legal vigente.
 
-En materia de educación en los pueblos y comunidades indígenas se estará a lo dispuesto por los artículos 12 y 150 de la Constitución Política del Estado; 28 y 29 de la Ley Estatal de Educación.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2001)</small>
+
+En materia de educación en los pueblos y comunidades indígenas se estará a lo dispuesto por los artículos 12 y 126 de la Constitución Política del Estado, 28 y 29 de la Ley Federal de Educación.
 
 ###### Artículo 25.
 
@@ -197,7 +207,7 @@ El Estado, a través de sus instancias educativas, en consulta con los pueblos y
 
 ###### Artículo 26.
 
-Los pueblos y comunidades indígenas tienen derecho a establecer, de acuerdo a la normatividad vigente, sus propios medios de comunicación -periódicos, revistas, estaciones de radio, televisoras, y demás análogos, en sus propias lenguas.
+Los pueblos y comunidades indígenas tienen derecho a establecer, de acuerdo a la normatividad vigente, sus propios medios de comunicación -periódicos, revistas, estaciones de radio, televisoras, y demás análogos-, en sus propias lenguas.
 
 ###### Artículo 27.
 
@@ -225,7 +235,9 @@ Para garantizar el efectivo acceso de los pueblos y comunidades indígenas al ej
 
 A fin de garantizar el efectivo acceso de los pueblos y comunidades indígenas a la jurisdicción del Estado, en los procesos penales, civiles, agrarios, administrativos o cualquier procedimiento que se desarrolle en forma de juicio, que sea competencia de las autoridades del Estado y en el que intervenga un miembro de algún pueblo indígena que ignore el español, éste contara con un traductor bilingüe ya sea oficial o particular. Los jueces, procuradores y demás autoridades administrativas que conozcan del asunto, bajo su responsabilidad se asegurarán del cumplimiento de está disposición. En todas las etapas procesales y al dictar resolución, los jueces, procuradores y demás autoridades administrativas que conozcan del asunto, deberán tomar en consideración la condición, prácticas, tradiciones y costumbres del o de los miembros de los pueblos y comunidades indígenas.
 
-El Estado, por conducto de la Procuraduría para la Defensa del Indígena, en coordinación con el Ministerio Público, vigilará la eficaz protección de los derechos de los pueblos y comunidades indígenas, así como los de los hombres y las mujeres indígenas, desde el inicio de las averiguaciones previas hasta la consignación de los casos, cerciorándose que aquéllos cuenten oportunamente con la asistencia de traductores bilingües y de defensores de oficio. En los casos en que se omita dicha asistencia, la Procuraduría para la Defensa del Indígena o los interesados, solicitarán a la Representación Social que, de nueva cuenta, se desahoguen las diligencias subsanando dichas omisiones a efecto de ejercitar la acción penal correspondiente.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2001)</small>
+
+El Estado, por conducto de la Secretaría de Asuntos Indígenas, en coordinación con el Ministerio Público, vigilará la eficaz protección de los derechos de los pueblos y comunidades indígenas, desde el inicio de las averiguaciones previas hasta la consignación de los casos, cerciorándose que aquéllos cuenten oportunamente con la asistencia de traductores bilingües y de defensores de oficio. En los casos en que se omita dicha asistencia, la Secretaría de Asuntos Indígenas o los interesados, solicitarán a la Representación Social que, de nueva cuenta, se desahoguen las diligencias subsanando dichas omisiones a efecto de ejercitar acción penal correspondiente.
 
 En los casos en que los indígenas o sus pueblos o comunidades sean parte o partes, se abrirá de oficio la segunda instancia a efecto de verificar que los derechos individuales y sociales de aquéllos efectivamente hayan sido reconocidos y respetados. Los Magistrados revisarán las actuaciones de los jueces que conocieron en primera instancia.
 
@@ -307,9 +319,11 @@ En los pueblos, comunidades y municipios indígenas, así como en los municipios
 
 Las autoridades de los municipios y comunidades preservarán el tequio como expresión de solidaridad según los usos de cada pueblo y comunidad indígenas. Los tequios encaminados a la realización de obras de beneficio común, derivados de los acuerdos de las asambleas, de las autoridades municipales y de las comunitarias de cada pueblo y comunidad indígena, podrán ser considerados como pago de contribuciones municipales.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2001)</small>
+
 ###### Artículo 44.
 
-En caso de controversias entre las autoridades municipales y comunitarias, de los pueblos y comunidades indígenas, y los hombres y mujeres indígenas prestadores del tequio, la Procuraduría para la Defensa del Indígena intervendrá para encontrar acuerdos conciliatorios. De no lograrse la conciliación conocerán de la controversia la Secretaría General de Gobierno y en su caso el H. Congreso del Estado.
+En caso de controversias entre las autoridades municipales y comunitarias, de los pueblos y comunidades indígenas, y los hombres y mujeres indígenas prestadores del tequio, la Secretaría de Asuntos Indígenas intervendrá para encontrar acuerdos conciliatorios. De no lograrse la conciliación conocerán de la controversia la Secretaria General de Gobierno y en su caso el H. Congreso del Estado.
 
 ### CAPÍTULO VI. DE LAS MUJERES INDÍGENAS
 
@@ -379,9 +393,11 @@ Con respeto a la autonomía municipal, los ayuntamientos dictarán las medidas l
 
 Para la determinación del monto de los recursos a distribuir entre las comunidades a que se refiere el párrafo anterior, los ayuntamientos deberán tomar en cuenta la opinión que al respecto le formulen los Consejos de Desarrollo Municipal constituidos por disposición de la normatividad correspondiente.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2001)</small>
+
 ###### Artículo 60.
 
-En los términos de lo dispuesto por el Artículo 94 de la Constitución Política del Estado con el fin de impulsar el desarrollo de las asociaciones de pueblos y de comunidades indígenas, el Estado por conducto de la instancia de planeación competente, acordará con aquéllas la formulación, diseño, aplicación y evaluación de planes y programas de desarrollo.
+En los términos de lo dispuesto por el artículo 113 fracción V de la Constitución Política del Estado y con el fin de impulsar el desarrollo de las asociaciones de pueblos y de comunidades indígenas, el Estado por conducto de la instancia de planeación competente, acordará con aquéllas la formulación, diseño, aplicación y evaluación de planes y programas de desarrollo.
 
 ###### Artículo 61.
 
@@ -446,3 +462,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HECTOR ANUAR MAFUD MAFUD.
 
 Al C.............
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+
+P.O. 31 DE MARZO DE 2001
+
+UNICO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
