@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-del-congreso-del-estado-de-coahuila-4303"
 country: "mx"
 rank: "reglamento"
 publication_date: "1940-02-24"
-last_updated: "1940-02-24"
+last_updated: "2004-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY ORGANICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIODICO OFICIAL EL 24 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 24 de febrero de 1940.
 
@@ -1148,3 +1150,21 @@ P. A. DEL SRIO. DEL EJVO. DEL EDO.
 EL OFICIAL MAYOR.
 
 TOMAS ALGABA GOMEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2004.
+
+PRIMERO.- La presente Ley entrará en vigor el día primero de enero del año 2005, con excepción de las disposiciones contenidas en los Capítulos I, II, III y IV del Título Sexto, relativas a las Comisiones Dictaminadoras Ordinarias, que entrarán en vigor el día primero de enero del año 2006.
+
+SEGUNDO.- Tanto el Oficial Mayor como el Tesorero del Congreso, continuarán en sus respectivos cargos por el resto de la LVI Legislatura, en virtud de haber sido electos por el Pleno del Congreso para todo el ejercicio constitucional.
+
+TERCERO.- En tanto se aprueba el Reglamento del Servicio Civil de Carrera, el personal de base y confianza, laborará conforme a lo dispuesto en los ordenamientos vigentes en el Estado.
+
+CUARTO.- Cuando en una Ley, Reglamento o cualquier otra disposición se haga referencia a la "Gran Comisión", se entenderá que se refieren a la "Junta de Gobierno".
+
+QUINTO.- A partir del 1° de enero de 2005, quedará abrogada la Ley Orgánica del Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, contenida en el Decreto número 523, publicado en el Periódico Oficial del Gobierno del Estado, de fecha 6 de septiembre de 1994, con excepción de las disposiciones relativas a las Comisiones, contenidas en el Capítulo VIII del Título Segundo y en el Sexto Transitorio de este ordenamiento, que continuarán vigentes hasta el término del ejercicio de la LVI Legislatura.
+
+SEXTO.- A partir del 1° de enero de 2005, quedará abrogado el Reglamento Interior del Congreso del Estado, contenido en el Decreto 33, publicado en el Periódico Oficial del Gobierno del Estado de fecha 24 de febrero de 1940.
+
+SEPTIMO.- Al entrar en vigor esta Ley, quedarán derogadas todas las disposiciones legales o reglamentarias que se opongan a la misma.
