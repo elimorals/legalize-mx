@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1998-10-02"
+last_updated: "1998-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 1998.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -949,9 +949,13 @@ XVII. Conceder el indulto necesario y por gracia y conmutar las penas privativas
 
 XVIII. Rendir a la Legislatura del Estado, el cinco de septiembre de cada año, un informe acerca del estado que guarde la administración pública;
 
-XIX.- Enviar cada año a la Legislatura, antes del 15 de diciembre, los proyectos de leyes de ingresos y presupuesto de egresos del Estado que deberán regir en el año fiscal inmediato siguiente y presentar la cuenta de gastos del año inmediato anterior, a más tardar el 20 de julio;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1998)</small>
 
-XX.- Enviar cada año a la Legislatura, antes del 15 de diciembre, el proyecto de Ley de Ingresos de los Municipios, que considerará las propuestas que formulen los ayuntamientos y que regirá en el año fiscal inmediato siguiente;
+XIX. Enviar cada año a la Legislatura, antes del 5 de diciembre, los proyectos de leyes de ingresos y presupuestos de egresos del Estado que deberán regir en el año fiscal inmediato siguiente y presentar la cuenta de gastos del año inmediato anterior, a más tardar el 15 de julio;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1998)</small>
+
+XX. Enviar cada año a la Legislatura, antes del 5 de diciembre, el proyecto de Ley de Ingresos de los Municipios, que considerará las propuestas que formulen los ayuntamientos y que regirá en el año fiscal inmediato siguiente;
 
 XXI. Cuidar la recaudación y buena administración de la Hacienda Pública del Estado;
 
@@ -1425,7 +1429,9 @@ Los ayuntamientos expedirán el Bando Municipal, que será promulgado y publicad
 
 Los municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que establezca la ley de la materia.
 
-Los ayuntamientos celebrarán sesiones extraordinarias de cabildo cuando la Ley de ingresos aprobada por la Legislatura, requiera adecuaciones al presupuesto de egresos. Estas sesiones nunca excederán de 10 días hábiles y tendrán como único objeto, concordar el presupuesto de egresos con la citada ley de ingresos. Al concluir las sesiones en las que se apruebe el presupuesto municipal de egresos en forma definitiva, se dispondrá por el presidente municipal su promulgación y publicación.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1998)</small>
+
+Los ayuntamientos celebrarán sesiones extraordinarias de cabildo cuando la Ley de Ingresos aprobada por la Legislatura, implique adecuaciones al presupuesto de egresos. Estas sesiones nunca excederán al 10 de enero y tendrán como único objeto, concordar el presupuesto de egresos con la citada Ley de Ingresos. Al concluir las sesiones en las que se apruebe el presupuesto municipal de egresos en forma definitiva, se dispondrá por el presidente municipal su promulgación y publicación, teniendo la obligación de enviar la ratificación o modificación en su caso de dicho Presupuesto de Egresos a la Contaduría General de Glosa a más tardar el día 20 de enero de cada año.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -2254,3 +2260,13 @@ Este decreto entrará en vigor el día de su publicación en la "Gaceta del Gobi
 ###### ARTÍCULO TERCERO.
 
 A efecto de dar cumplimiento al artículo 11, la Legislatura tomará los acuerdos correspondientes, a más tardar el día 30 de noviembre de 1998.
+
+P.O. 26 DE NOVIEMBRE DE 1998
+
+###### ARTICULO PRIMERO.
+
+Publíquese en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación.
