@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "1977-06-16"
+last_updated: "1977-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1977.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -3143,15 +3143,15 @@ ART. 935.- Cuando parte de la cosa perteneciere exclusivamente a un copropietari
 
 ART. 936.- Todo condueño tiene la plena propiedad de la parte alícuota que le corresponda y la de sus frutos y utilidades, pudiendo, en consecuencia, enajenarla, cederla o hipotecarla, y aun subsistir otro en su aprovechamiento, salvo si se tratare de derecho personal. Pero el efecto de la enajenación o de la hipoteca con relación a los condueños, estará limitada a la porción que se les adjudique en la división al cesar la comunidad. Los condueños gozan del derecho del tanto.
 
-ART. 937.- Cuando los diferentes pisos de una casa pertenecieren a distintos propietarios, si los título (sic) de propiedad no arreglan los términos en que deben contribuir a las obras necesarias, se observarán las reglas siguientes:
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1977)</small>
 
-I.- Las paredes maestras, el tejado o azotes (sic), y las demás cosas de uso común, estarán a cargo de todos los propietarios en proporción al valor de su piso.
+ART. 937.- Cuando los diferentes departamentos, viviendas, casas ó locales de un inmueble, construídos en forma vertical, horizontal ó mixta, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquél ó a la vía pública, pertenecieran a distintos propietarios, cada uno de éstos tendrá un derecho singular y exclusivo de propiedad sobre su departamento, vivienda, casa o local y, además, un derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarios para su adecuado uso o disfrute.
 
-II.- Cada propietario costeará el suelo de su piso;
+Cada propietario podrá enajenar, hipotecar ó gravar en cualquier otra forma su departamento, vivienda, casa o local, sin necesidad de consentimiento de los demás condóminos. En la enajenación, gravamen o embargo de un departamento, vivienda, casa o local, se entenderán comprendidos invariablemente los derechos sobre los bienes comunes que le son anexos.
 
-III.- El pavimento del portal, puerta de entrada, patio común y obras de policía, comunes a todos, se costearán a prorrata por todos los propietarios;
+El derecho de copropiedad sobre los elementos comunes del inmueble, solo será enajenable, gravable ó embargable por terceros, conjuntamente con el departamento, vivienda, casa o local de propiedad exclusiva, respecto del cual se considere anexo inseparable. La copropiedad sobre los elementos comunes del inmueble no es susceptible de división.
 
-IV.- La escalera que conduce al piso primero se costeará a prorrata entre todos, excepto el dueño del piso bajo; la que desde el primer piso conduce al segundo, se costeará por todos, excepto por los dueños del piso bajo y del primero, y así sucesivamente.
+Los derechos y obligaciones de los propietarios a que se refiere este precepto, se regirán por las escrituras en que se hubiera establecido el régimen de propiedad por las de compra-venta correspondiente, por el reglamento del condominio de que se trate, por la Ley sobre el Régimen de Propiedad en Condominio de Inmuebles para el Estado de Durango, por las disposiciones de éste Código y las demás leyes que fueren aplicables.
 
 ART. 938.- Cuando haya constancia que demuestre quién fabricó la pared que divide los predios, el que la costeó es dueño exclusivo de ella; si constan que se fabricó por los colindantes, o no consta quién la fabricó, es de propiedad común.
 
@@ -7689,7 +7689,7 @@ ART. 2479.- El mandante puede eixgir (sic) la devolución del instrumento o escr
 
 El mandante que descuide exigir los documentos que acrediten los poderes, del mandatario, responde de los daños que puedan resultar por esa causa a terceros de buena fe.
 
-ART. 3480.- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
+ART. 3480 (SIC).- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
 
 ART. 2481.- Aunque el mandato termine por la muerte del mandante, debe el mandatario continuar en la administración, entre tanto los herederos proveen por sí mismos a los negocios, siempre que de lo contrario pueda resultar algún perjuicio.
 
@@ -9268,3 +9268,9 @@ UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publ
 P.O. 16 DE JUNIO DE 1977.
 
 UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE NOVIEMBRE DE 1977.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
