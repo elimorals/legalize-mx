@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2002-02-22"
+last_updated: "2002-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2002.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -351,7 +351,9 @@ I.- Conducir las relaciones que correspondan al Poder Ejecutivo del Estado con l
 
 II.- Presentar ante el Congreso del Estado las Iniciativas de Ley y Decretos que envíe el Gobernador;
 
-III.- Autorizar la publicación en el Periódico Oficial de Leyes, Decretos y demás Disposiciones que deban regir en el Estado;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2002)</small>
+
+III.- Autorizar y tramitar en el Periódico Oficial del Estado la publicación de las leyes, decretos, reglamentos y demás disposiciones de orden general que deben regir en el Estado;
 
 IV.- Intervenir y ejercer la vigilancia que en materia electoral señalen las Leyes al Ejecutivo del Estado o los Convenios que al efecto se celebren;
 
@@ -1594,6 +1596,10 @@ Las menciones que en otras leyes se hagan a la Secretaría de Desarrollo Económ
 ###### ARTICULO TERCERO.
 
 El Gobernador del Estado por conducto de la dependencia competente hará la entrega-recepción de los recursos humanos y materiales a cargo de la Secretaría de Desarrollo Económico para la atención de las facultades que este Decreto concede a la Secretaría de Fomento Agropecuario.
+
+P.O. 1 DE NOVIEMBRE DE 2002.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
 
