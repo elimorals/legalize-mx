@@ -4,7 +4,7 @@ identifier: "LFRSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1982-12-31"
-last_updated: "1996-12-24"
+last_updated: "1997-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LFRSP"
 
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 1997.
+
+(REPUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE ENERO DE 1998).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1982.
 
@@ -68,17 +70,19 @@ Las autoridades competentes para aplicar la presente Ley serán:
 
 I.- Las Cámaras de Senadores y Diputados al Congreso de la Unión;
 
-> <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 1992)</small>
+(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
 
-I Bis.- La Asamblea de Representantes del Distrito Federal;
+I Bis.- La Asamblea Legislativa del Distrito Federal;
 
-> <small>(F. DE E., D.O.F. 10 DE MARZO DE 1983)</small>
+(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
 
-II.- La Secretaría de la Contraloría General de la Federación;
+II.- La Secretaría de Contraloría y Desarrollo Administrativo;
 
 III.- Las dependencias del Ejecutivo Federal;
 
-IV.- El Departamento del Distrito Federal;
+(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
+
+IV.- El órgano ejecutivo local del Gobierno del Distrito Federal;
 
 V.- (DEROGADA POR ARTICULO OCTAVO TRANSITORIO DEL DECRETO QUE CREA LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 26 DE MAYO DE 1995)
 
@@ -484,13 +488,11 @@ XXIV.- La (sic) demás que le impongan las leyes y reglamentos.
 
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría de la Contraloría General, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría de la Contraloría General, el subalterno podrá practicarla directamente informando a su superior acerca de este acto.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ###### ARTICULO 48.
 
 Para los efectos de esta ley se entenderá por Secretaría a la Secretaría de Contraloría y Desarrollo Administrativo.
-
-> <small>N. DE E. DE ACUERDO A UNA INVESTIGACION MINUCIOSA REALIZADA, EL PRESENTE PARRAFO AUN SIGUE SIENDO VIGENTE, A PESAR DE QUE LA REFORMA DEL 24 DE DICIEMBRE DE 1996, NO LO CONTEMPLA. EN LA EXPOSICION DE MOTIVOS SI LO PREVE.</small>
 
 Para los mismos efectos, se entenderá por superior jerárquico al titular de la dependencia y, en el caso de las entidades, al coordinador del sector correspondiente, el cual aplicará las sanciones cuya imposición se le atribuya a través de la contraloría interna de su dependencia.
 
@@ -508,19 +510,13 @@ La Secretaría, el superior jerárquico y todos los servidores públicos tienen 
 
 Incurre en responsabilidad el servidor público que por sí o por interpósita persona, utilizando cualquier medio, inhiba al quejoso para evitar la formulación o presentación de quejas y denuncias, o que con motivo de ello realice cualquier conducta injusta u omita una justa y debida que lesione los intereses de quienes las formulen o presenten.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE DICIEMBRE DE 1995)</small>
+(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ###### ARTICULO 51.
 
-El Consejo de la Judicatura del Distrito Federal establecerá los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el artículo 47, así como para aplicar las sanciones establecidas en el presente capítulo.
+Las Cámaras de Senadores y Diputados del Congreso de la Unión, así como la Asamblea Legislativa del Distrito Federal establecerán los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el artículo 47, así como para aplicar las sanciones establecidas en el presente capítulo, conforme a la legislación respectiva y por lo que hace a su competencia.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
-
-Lo propio harán, conforme a la legislación respectiva y por lo que hace a su competencia, las Cámaras de Senadores y Diputados del Congreso de la Unión, así como la Asamblea de Representantes del Distrito Federal.
-
-> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1992)</small>
-
-Asimismo, y por lo que hace a su competencia, las autoridades jurisdiccionales a que se refieren las fracciones VII a IX del artículo 3o., determinarán los órganos y sistemas para los efectos a que se refiere el párrafo primero, en los términos de su legislación respectiva.
+Asimismo, y por lo que hace a su competencia, las autoridades jurisdiccionales a que se refieren las fracciones VII a X del artículo 3o., determinarán los órganos y sistemas para los efectos a que se refiere el párrafo anterior, en los términos de sus legislaciones respectivas.
 
 ###### ARTICULO 52.
 
@@ -764,13 +760,19 @@ II.- Auxilio de la fuerza pública.
 
 Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
-ARTICULO 77 bis.- Cuando en el procedimiento administrativo disciplinario se haya determinado la responsabilidad del servidor público y que la falta administrativa haya causado daños y perjuicios a particulares, éstos podrán acudir a las dependencias, entidades o a la Secretaría de la Contraloría General de la Federación para que ellas directamente reconozcan la responsabilidad de indemnizar la reparación del daño en cantidad líquida y, en consecuencia, ordenar el pago correspondiente, sin necesidad de que los particulares acudan a la instancia judicial o a cualquiera otra.
+ARTICULO 77 bis.- Cuando en el procedimiento administrativo disciplinario se haya determinado la responsabilidad del servidor público y que la falta administrativa haya causado daños y perjuicios a particulares, éstos podrán acudir a las dependencias, entidades o a la Secretaría de Contraloría y Desarrollo Administrativo, para que ellas directamente reconozcan la responsabilidad de indemnizar la reparación del daño en cantidad líquida y, en consecuencia, ordenar el pago correspondiente, sin necesidad de que los particulares acudan a la instancia judicial o cualquier otra.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 El Estado podrá repetir de los servidores públicos el pago de la indemnización hecha a los particulares.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
+
 Si el órgano del Estado niega la indemnización, o si el monto no satisface al reclamante, se tendrán expeditas, a su elección, la vía administrativa o judicial.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 Cuando se haya aceptado una recomendación de la Comisión de Derechos Humanos en la que se proponga la reparación de daños y perjuicios, la autoridad competente se limitará a su determinación en cantidad líquida y la orden de pago respectiva.
 
@@ -808,9 +810,9 @@ III.- El derecho de los particulares a solicitar la indemnización de daños y p
 
 La Secretaría llevará el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos de las dependencias y entidades de la Administración Pública Federal, así como de los órganos jurisdiccionales a que se refieren las fracciones VII a IX del artículo 3o., en los términos de esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 1995)</small>
+(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
-Las atribuciones que este Título otorga a la Secretaría se confieren, en el ámbito de sus respectivas competencias, tanto al Consejo de la Judicatura del Distrito Federal, como a las Cámaras de Senadores y Diputados del Congreso de la Unión y Asamblea de Representantes del Distrito Federal.
+Las atribuciones que este Título otorga a la Secretaría, a las Cámaras de Senadores y Diputados del Congreso de la Unión y a la Asamblea Legislativa del Distrito Federal.
 
 Para los efectos del párrafo que antecede, las citadas autoridades conforme a la legislación respectiva, determinarán los órganos encargados de ejercer dichas atribuciones, así como los sistemas que se requieran para tal propósito.
 
@@ -822,25 +824,29 @@ Tienen la obligación de presentar declaraciones de situación patrimonial, ante
 
 I.- En el Congreso de la Unión: Diputados y Senadores, Oficiales Mayores, Tesoreros y Directores de las Cámaras, y Contador Mayor de Hacienda;
 
-> <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 1992)</small>
+(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
 
-I Bis.- En la Asamblea de Representantes del Distrito Federal: Los Representantes, Oficial Mayor, Tesorero y Directores de la misma;
+I Bis.- En la Asamblea Legislativa del Distrito Federal: los Diputados, Oficial Mayor, Tesorero, Directores, Subdirectores y Jefes de Departamento de la misma;
 
 II.- En el Poder Ejecutivo Federal: Todos los funcionarios, desde el nivel de jefes de departamentos hasta el de Presidente de la República, además de los previstos en las fracciones IV, V y IX de este artículo;
 
 III.- En la Administración Pública Paraestatal: Directores Generales, gerentes generales, subdirectores generales, subgerentes generales, directores, gerentes, subdirectores y servidores públicos equivalentes de los órganos descentralizados, empresas de participación estatal mayoritaria y sociedades y asociaciones asimiladas y fideicomisos públicos;
 
-IV.- En el Departamento del Distrito Federal: Todos los funcionarios, desde el nivel al que se refiere la fracción II hasta el de Jefe de Departamento del Distrito Federal, incluyendo Delegados Políticos, Subdelegados y jefes de departamento de las Delegaciones.
+(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
+
+IV.- En el órgano ejecutivo local del gobierno del Distrito Federal: todos los funcionarios, desde el nivel a que se refiere la fracción II hasta el Jefe de Gobierno del Distrito Federal, incluyendo Delegados Políticos, Subdelegados y Jefes de Departamento de las Delegaciones;
 
 V.- En la Procuraduría General de la República y en la Procuraduría General de Justicia del Distrito Federal: Todos los funcionarios, desde el nivel mencionado en la fracción II hasta los de Procurador General de la República y Procurador General de Justicia del Distrito Federal, incluyendo a Agentes del Ministerio Público y policías judiciales;
 
 VI.- En el Poder Judicial Federal: Ministros de la Suprema Corte de Justicia de la Nación, Magistrados de Circuito, Jueces de Distrito, secretarios judiciales y actuarios de cualquier categoría o designación;
 
-VII.- En el Poder Judicial del Distrito Federal: Magistrados del Tribunal Superior de Justicia, Jueces, secretarios judiciales y actuarios de cualquier categoría o designación;
+(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
+VII.- En el Tribunal de lo Contencioso Administrativo del Distrito Federal, Magistrados y Secretarios o sus equivalentes;
 
-VIII.- En el Tribunal Fiscal de la Federación, en los tribunales de trabajo y en los demás órganos jurisdiccionales que determinen las leyes: Magistrados, miembros de junta y secretarios, o sus equivalentes, y
+(REFORMADA, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADA, G.O. 12 DE ENERO DE 1998)
+
+VIII.- En el Tribunal Fiscal de la Federación, en los tribunales de trabajo y en los demás órganos jurisdiccionales que determinen las leyes: Magistrados, miembros de junta y Secretarios o sus equivalentes; y
 
 IX.- En la Secretaría de la Contraloría General: Todos los servidores públicos de confianza.
 
@@ -916,9 +922,39 @@ Se castigará como cohecho las conductas de los servidores públicos que violen 
 
 Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece o sean de los estrictamente prohibidos, deberán informar de ello a la autoridad que la Secretaría determine a fin de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes.
 
+(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+
 ###### ARTICULO 90.
 
-La Secretaría de la Contraloría General de la Federación hará al Ministerio Público, en su caso, declaratoria de que el funcionario sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio de los bienes adquiridos o de aquéllos sobre los que conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
+La Secretaría de Contraloría y Desarrollo Administrativo hará al Ministerio Público, en su caso, declaratoria de que el funcionario sujeto a la investigación respectiva, en los términos de la presente ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio de los bienes adquiridos o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
+
+(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+
+## TITULO QUINTO. De las disposiciones aplicables a los servidores públicos del órgano ejecutivo del Distrito Federal
+
+(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+
+### CAPITULO UNICO. (ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+
+###### ARTICULO 91.
+
+Al frente de la Contraloría General de la Administración Pública del Distrito Federal habrá un Contralor General, quien será nombrado y removido libremente por el Jefe de Gobierno.
+
+Las facultades y obligaciones que esta Ley otorga a la Secretaría y a su titular se entenderán conferidas en el Distrito Federal a la Contraloría General de la Administración Pública del Distrito Federal y a su titular.
+
+(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+
+###### ARTICULO 92.
+
+El Contralor General designará y removerá libremente a los titulares de los órganos de control interno de las dependencias, entidades paraestatales y órganos desconcentrados de la Administración Pública del Distrito Federal.
+
+Los órganos de control interno tendrán las mismas facultades que esta Ley les confiere a las contralorías internas de las dependencias y entidades de la Administración Pública Federal, las que serán ejercidas en las dependencias, entidades y órganos desconcentrados de la Administración Pública del Distrito Federal.
+
+(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+
+###### ARTICULO 93.
+
+El servidor público afectado por los actos o resoluciones de la Contraloría General de la Administración Pública del Distrito Federal o de los órganos de control interno, podrá, a su elección, interponer el recurso de revocación, previsto en esta Ley, o impugnar dichos actos o resoluciones ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, el que se sujetará a lo dispuesto por los artículos 73 y 74 de esta ley.
 
 ## TRANSITORIOS
 
@@ -1013,3 +1049,13 @@ QUINTO.- La Secretaría de Hacienda y Crédito Público realizará los actos que
 Las dependencias y entidades continuarán proporcionando los espacios físicos, los recursos humanos y materiales que requieran los referidos órganos de control interno.
 
 La relación laboral del resto del personal de dichos órganos de control interno no se modifica por la entrada en vigor del presente decreto.
+
+D.O.F. 4 DE DICIEMBRE DE 1997.
+
+REPUBLICADO, G.O. 12 DE ENERO DE 1998.
+
+PRIMERO.- La reforma a la fracción II del artículo 3o. y las que se refieren a la Asamblea Legislativa del Distrito Federal entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las demás reformas entrarán en vigor el día 5 de diciembre de 1997.
+
+TERCERO.- En tanto la Asamblea Legislativa del Distrito Federal regula las responsabilidades de los servidores públicos de los órganos encargados de la función judicial del fuero común en el Distrito Federal, seguirán aplicándose las disposiciones de esta Ley vigentes a la fecha del presente Decreto.
