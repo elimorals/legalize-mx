@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1983-12-22"
+last_updated: "1984-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE ENERO DE 1984.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -401,7 +401,9 @@ I. Ser ciudadano sonorense en ejercicio de sus derechos políticos.
 
 II. Tener veintiún años cumplidos, por lo menos, el día de la elección.
 
-III. Haber residido en el Estado, cuando menos un año inmediatamente anterior al día en que se haga la elección, tratándose de los nativos del mismo; y cinco años inmediatamente anteriores al día de la elección, en caso contrario.
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
+
+III. Tener vecindad y residencia efectiva dentro del Distrito Electoral correspondiente, de cuando menos dos años inmediatamente anteriores al día en que se haga la elección, tratándose de los nativos del Estado; y cinco años inmediatamente anteriores al día de la elección, en caso de no serlo.
 
 IV. No haber sido Gobernador del Estado dentro del período en que se efectúe la elección, aún cuando se hubiere separado definitivamente de su puesto.
 
@@ -615,15 +617,21 @@ V. Para establecer las bases de todo arreglo amistoso sobre límites del territo
 
 VI. Para reclamar ante quien corresponda las leyes que se expidan o los actos que se ejecuten por cualquiera autoridad federal o estatal, cuando ataquen la soberanía o independencia del Estado, o cuando por cualquiera causa aquéllos se consideren lesivos al mismo.
 
-VII. Para dictar leyes relativas a la salubridad pública del Estado.
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
+
+VII. Para expedir Leyes en el Estado que fijen las bases sobre la organización y prestación de los servicios públicos de salud y de educación, así como para la capacitación y adiestramiento en el trabajo, protección a la familia, promoción a la vivienda, recreación y deporte y seguridad social.
 
 VIII. Para dictar leyes encaminadas a combatir el alcoholismo en el Estado.
 
 IX. Para determinar el número máximo de ministros de cultos religiosos que puedan ejercer su ministerio en el Estado, en las condiciones del artículo 130 de la Constitución General de la República.
 
-X. Para reglamentar el funcionamiento del Municipio Libre como base de la división territorial y de la organización política y administrativa del Estado.
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
-XI. Para arreglar definitivamente los límites de los municipios, salvo el caso de que las cuestiones pendientes tengan un carácter contencioso.
+X. Para reglamentar el funcionamiento del Municipio libre como base de la división territorial y de la organización política y administrativa del Estado, así como para fortalecerlo como corresponsable en la conducción del desarrollo de la entidad.
+
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
+
+XI. Para definir los Límites de los Municipios.
 
 XII. Para erigir nuevos municipios dentro de los límites de los existentes, siendo necesario, al efecto:
 
@@ -641,11 +649,15 @@ XIII. Para suprimir aquéllos municipios que carezcan de elementos bastantes par
 
 Para que la supresión tenga efecto se oirá al ayuntamiento o ayuntamientos interesados y al Ejecutivo del Estado, en los términos establecidos en los incisos c) y d) de la fracción anterior.
 
+> <small>(ADICIONADA, B.O. 30 DE ENERO DE 1984)</small>
+
+XIII Bis. Para conocer, substanciar y resolver los procedimientos relativos a la suspensión o desaparición de Ayuntamientos, o de suspensión de sus miembros o revocación de su mandato; así como para convocar a elecciones municipales extraordinarias e integrar y designar Consejos Municipales, en su caso.
+
 XIV. Para trasladar, provisionalmente, fuera de la ciudad de Hermosillo, la residencia de los Poderes del Estado.
 
-> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
-XV. Para computar y calificar los votos emitidos en las elecciones de Gobernador y de diputados y declarar quienes han sido electos para los cargos respectivos; hacer lo propio con los obtenidos por los partidos políticos para los efectos del artículo 31 de esta Constitución, determinando a qué candidatos deberá acreditarse como diputados de partido.
+XV. Para erigirse en Colegio Electoral con el fin de computar y calificar las elecciones de Gobernador, Diputados Locales y Ayuntamientos del Estado con el objeto de resolver de oficio y en definitiva quiénes hayan sido electos para los cargos respectivos y también para hacer lo propio con los resultados obtenidos por los partidos políticos para los efectos de determinar y asignar respectivamente, cuáles candidatos deberán acreditarse como Diputados de Minoría y cuáles Regidores según el principio de representación proporcional a que se refieren el Artículo 115 de la Constitución Federal y los Artículos 31 y 130 de esta Constitución.
 
 XVI. Para resolver sobre la renuncia de sus propios miembros y la del Gobernador, y para conceder licencias a unos y otro.
 
@@ -659,7 +671,9 @@ XVIII. Para aprobar o rechazar los nombramientos de los Magistrados del Supremo 
 
 XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él.
 
-XX. Para erigirse en Colegio Electoral y calificar, previo el examen de las protestas formuladas, los votos emitidos en las elecciones, a que se refiere la fracción XV; computar dichos votos y hacer la declaratoria correspondiente.
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
+
+XX. Para erigirse en Colegio Electoral en los términos de la Fracción XV de este Artículo, y resolver en definitiva las peticiones de nulidad y los recursos que se hubieren presentado y emitir las declaratorias correspondientes.
 
 XXI. Para erigirse en Gran Jurado en los casos establecidos por esta Constitución.
 
@@ -667,17 +681,23 @@ XXII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Egresos del
 
 XXIII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Ingresos que le presente el Ejecutivo.
 
-XXIV. Para discutir, modificar, aprobar o reprobar anualmente, los presupuestos de ingresos y egresos de los ayuntamientos.
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
-XXV. Para examinar la cuenta de cada año, y cuando el Congreso lo pida, le presentará el Ejecutivo, debiendo comprender dicho exámen, no sólo la conformidad de las erogaciones con las partidas del Presupuesto de Egresos, sino también la exactitud y justificación de tales erogaciones.
+XXIV. Para discutir, modificar, aprobar o reprobar anualmente las Leyes de Ingresos y Presupuestos de Ingresos de los Ayuntamientos, así como las modificaciones a dichos presupuestos.
+
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
+
+XXV. Para revisar anualmente las cuentas públicas del Estado del año anterior que deberá presentar el Ejecutivo y las de los Municipios que deberán presentar los Ayuntamientos. La revisión de las cuentas públicas tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos aprobados y analizar el cumplimiento de los objetivos y metas contenidos en los programas, a cuya ejecución se haya asignado los recursos presupuestados. Si de la glosa aparecieren discrepancias entre las cantidades ejercidas, las partidas aprobadas y las metas alcanzadas, o no existiere exactitud y justificación de los gastos hechos, se determinarán las responsabilidades de acuerdo con la Ley.
 
 XXVI. Para crear y suprimir empleos públicos del Estado y señalar, aumentar o disminuir sus dotaciones.
 
-XXVII. Para autorizar al Ejecutivo a fin de que contraiga deudas a nombre del Estado, fijándole expresamente las bases a que deba sujetarse, sin contravenir al artículo 117 de la Constitución General de la República.
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
+
+XXVII. Para autorizar al Ejecutivo y a los Ayuntamientos a fin de que contraigan deudas en nombre del Estado y de los Municipios, respectivamente, fijándoles expresamente las bases a que deban sujetarse, sín contravenir al Artículo 117 de la Constitución General de la República.
 
 XXVIII. Para conceder amnistías por delitos cuyo conocimiento corresponda privativamente a los Tribunales del Estado.
 
-XXIX. Para otorgar premios o recompensas a las personas que hayan prestado servicios de importancia a la Nación o al Estado, y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado.
+XXIX. Para otorgar permisos o recompensas a las personas que hayan prestado servicios de importancia a la Nación o al Estado, y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado.
 
 XXX. Para aprobar o reprobar la creación de nuevas Comisarías o suprimir las existentes, a iniciativa de los ayuntamientos correspondientes.
 
@@ -697,9 +717,13 @@ XXXV. Para velar por la conservación de los derechos de los ciudadanos y habita
 
 XXXVI. Para establecer la nomenclatura política de los poblados del Estado y legislar en todo lo concerniente a su fundo legal, planificación y urbanización, observándose, en su caso, lo que en la misma materia prescriban las leyes federales.
 
-XXXVII. Para calificar definitivamente las elecciones de los ayuntamientos, cuando se pida la nulidad de tales elecciones.
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
-XXXVIII. Para resolver, con estricta sujeción a las leyes, en caso de petición de nulidad, sobre la validez de las elecciones de Gobernador y de diputados.
+XXXVII. Para determinar, según las condiciones territoriales y socioeconómicas de los Municipios, y según su capacidad administrativa, técnica y financiera, los servicios públicos que éstos tendrán a su cargo directamente o en concurso con el Estado, así como para fijar anualmente sus contraprestaciones.
+
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
+
+XXXVIII. Para fijar las bases conforme a la (sic) cuales los Ayuntamientos expedirán sus disposiciones de observancia general en sus respectivas jurisdicciones, así como para la coordinación y asociación de Municipios en la prestación de los servicios públicos a que se refiere el Artículo 137 de esta Constitución.
 
 XXXIX. Para dictar leyes sobre vías de comunicación y aprovechamiento de aguas y bosques que no sean de jurisdicción federal; y sobre el ejercicio, explotación y aprovechamiento de la caza.
 
@@ -709,7 +733,9 @@ XLI. Para conceder permiso al Gobernador del Estado a fin de que pueda asumir el
 
 XLII. Para extender credenciales de senadores al Congreso de la Unión, por el Estado, a los ciudadanos que obtuvieren la mayoría de votos.
 
-XLIII. Para expedir leyes o reglamentos concernientes a la recta aplicación de la Ley Federal del Trabajo, en las materias que ésta encomienda a las autoridades estatales.
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
+
+XLIII. Para expedir Leyes y reglamentos concernientes a la recta aplicación de la Ley Federal del Trabajo, en las materias que ésta encomienda a las Autoridades Estatales; así mismo, para expedir las leyes que normen las relaciones de los servidores públicos de los Poderes del Estado y Ayuntamientos y de los trabajadores al servicio de los organismos descentralizados.
 
 > <small>(ADICIONADA, B.O. 22 DE ENERO DE 1977)</small>
 
@@ -719,7 +745,7 @@ XLIII Bis. Para instituir Tribunales de lo Contencioso Administrativo dotados de
 
 También podrá instituir Tribunales de Conciliación y Arbitraje que conozcan de las controversias que surjan de la aplicación de las leyes que regulen las relaciones entre los trabajadores del Servicio Civil y los titulares de las entidades y dependencias públicas en que presten sus servicios.
 
-XLIV. Para expedir las leyes concernientes a la administración y gobierno interior del Estado en todos sus ramos, interpretarlas, aclararlas o derogarlas y hacer efectivas las facultades expuestas y todas las demás que le confieran la Constitución General de la República, esta Local y las leyes que de ellas emanen.
+XLIV. Para expedir las leyes concernientes a la administración y gobierno interior del Estado en todos sus ramos, interpretarlas, aclararlas o derogarlas y hacer efectivas las facultades expuestas y todas los demás que le confieran la Constitución General de la República, esta Local y las leyes que de ellas emanen.
 
 #### SECCION VI.
 
@@ -913,7 +939,13 @@ Son facultades y obligaciones del Gobernador:
 
 I. Promulgar sin demora las leyes y decretos, y los acuerdos en su caso; ejecutarlos y hacer que se ejecuten; y formar en la parte administrativa y de conformidad con las disposiciones de la ley, los reglamentos necesarios para la exacta observancia de los mismos.
 
-II. Velar por la conservación del orden, tranquilidad y seguridad del Estado.
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
+
+II. Velar por la conservación del orden, tranquilidad y seguridad, así como promover e inducir en el Estado, el progreso Económico, social, político y cultural y, en general, el bienestar de la población en todos los ordenes, procurando que sea compartido y equilibrado entre centros urbanos y rurales, conforme a los principios de justicia y seguridad jurídica y a los planes y programas del Gobierno.
+
+> <small>(ADICIONADA, B.O. 30 DE ENERO DE 1984)</small>
+
+II Bis. En los términos de la Ley respectiva, conducirá la formulación, instrumentación, control y evaluación del Plan Estatal de Desarrollo y de los Programas de Gobierno, así como los procedimientos de participación y consulta popular, a que se refiere esta Constitución.
 
 III. Iniciar ante el Congreso las leyes y decretos que juzgue convenientes para el mejoramiento de la administración pública y progreso del Estado.
 
@@ -948,6 +980,10 @@ XIV. En caso de sublevación o de trastorno interior en el Estado, excitar, de a
 > <small>(REFORMADA, B.O. 18 DE JUNIO DE 1977)</small>
 
 XV. Auxiliar, a solicitud de sus Ayuntamientos, a los Municipios de la entidad a fin de mejorar la ejecución de obras, la prestación de servicios o cualquier otro propósito del que se derive un mejoramiento de la administración y fortalecimiento de la autonomía municipal.
+
+> <small>(ADICIONADA, B.O. 30 DE ENERO DE 1984)</small>
+
+XV Bis. Proponer al Congreso del Estado, con base a los estudios técnicos e históricos la definición de los límites entre dos o más Municipios.
 
 > <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
@@ -1255,11 +1291,11 @@ El Jefe de Defensores rendirá la protesta de Ley ante el Ejecutivo y será subs
 
 Para ser Defensor de Oficio se necesitan los mismos requisitos que para ser Agente del Ministerio Público.
 
-### CAPITULO UNICO.
+### CAPITULO I.
 
-Municipios y Comisarías.
+Integración y Organización de los Municipios.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ###### Artículo 112.
 
@@ -1425,185 +1461,225 @@ III. Tener la competencia necesaria para el desempeño del cargo, a juicio del j
 
 Los Jueces de Primera Instancia, Locales y Menores, conocerán de los asuntos que les encomienden las leyes, en la forma y términos que las mismas establezcan.
 
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
+
 ## TITULO QUINTO.
 
 MUNICIPIO LIBRE.
 
-### CAPÍTULO III. De la Reproducción, Cría y Enajenación de Animales Domésticos de Compañía
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+### CAPITULO II.
+
+Ambito de Competencia de los Municipios.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ###### Artículo 128.
 
-El Estado quedará dividido para su gobierno en municipios, de acuerdo con el artículo 25 de esta Constitución.
+La base de la división territorial, política y administrativa del Estado de Sonora, será el Municipio Libre, que estará administrado por un Ayuntamiento. No habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO, B.O. 13 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ###### Artículo 129.
 
-Cada Municipio será administrado por un Ayuntamiento. No habrá ninguna autoridad intermedia entre el Ayuntamiento y el Ejecutivo del Estado.
+El Municipio será considerado como persona de derecho público con personalidad jurídica y patrimonio propios.
 
-> <small>(REFORMADO, B.O. 2 DE JULIO DE 1981)</small>
-
-Cada Ayuntamiento se integrará por el Presidente Municipal y los Regidores que resulten electos según el principio de mayoría relativa en votación popular directa.
-
-> <small>(ADICIONADO, B.O. 2 DE JULIO DE 1981)</small>
-
-En la Capital del Estado y en aquellos Municipios con una población de 50,000 o más habitantes, habrá lugar a la asignación hasta de tres Regidores según el principio de representación proporcional, en la forma y términos que para el efecto señale la Ley Orgánica Electoral del Estado.
-
-Los Regidores electos por mayoría relativa y los electos según el principio de representación proporcional, siendo ambos representantes populares, tendrán idéntica categoría e igualdad de derechos y deberes.
-
-Teniendo en cuenta el último censo general de población, la Comisión Electoral del Estado determinará oportunamente, antes de cada elección, cuales serán los Municipios en los que podrá tener lugar la asignación de Regidores de Representación Proporcional. Igual determinación podrá tomarse por acuerdo de la propia Comisión, tomando en cuenta la información fidedigna de que se disponga sobre el crecimiento demográfico, cuando las condiciones socio-políticas de algún Municipio lo justifiquen.
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ###### Artículo 130.
 
-Los Municipios tendrán personalidad jurídica para todos los efectos legales.
+Los Ayuntamientos serán órganos colegiados deliberantes, integrados por un Presidente Municipal, un Síndico y los Regidores que sean designados por sufragio popular, directo, libre y secreto. Las elecciones se basarán en el sistema de elección de mayoría relativa, y en el caso de los regidores, habrá también de representación proporcional, de conformidad con las bases que establezca la Ley. Por cada Síndico y Regidor Propietario será elegido un Suplente.
 
-> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 1978)</small>
+Todos los Regidores Propietarios serán considerados como representantes populares, con idéntica categoría e igualdad de derechos y obligaciones.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ###### Artículo 131.
 
-El Ayuntamiento se compondrá de un Presidente que llevará el nombre de Presidente Municipal y del número de Regidores que determine la Ley Orgánica relativa.
+Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, electos popularmente, por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos propietarios para el período inmediato, a menos que hayan estado en ejercicio.
 
-En todo caso, el número de los integrantes de un Ayuntamiento será impar y no menor de cinco. Por cada Regidor Propietario se elegirá un Suplente.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ###### Artículo 132.
 
-El Presidente Municipal y demás miembros del Ayuntamiento durarán en sus cargos tres años y tomarán posesión el día dieciséis de septiembre del año de la elección.
+Para ser Presidente Municipal, Síndico o Regidor de un Ayuntamiento, se requiere:
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+I. Ser ciudadano sonorense en pleno ejercicio de sus derechos políticos y tener veintiún años cumplidos, por lo menos el día de la elección.
 
-###### Artículo 133.
+II. Ser vecino del Municipio correspondiente, con residencia efectiva dentro del mismo, cuando menos de dos años si es nativo del Estado, o de cinco años si no lo es.
 
-Los cargos de Presidente Municipal y de concejal serán obligatorios, pero no gratuitos, y sólo serán renunciables por causa justificada que calificará el ayuntamiento.
-
-> <small>(REFORMADO, B.O. 21 DE MAYO DE 1960)</small>
-
-###### Artículo 134.
-
-Para ser Presidente Municipal o concejal de un Ayuntamiento se requiere:
-
-> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 1972)</small>
-
-I. Ser ciudadano sonorense en pleno ejercicio de sus derechos políticos y tener veintiún años cumplidos, por lo menos, el día de la elección.
-
-> <small>(REFORMADA, B.O. 18 DE ABRIL DE 1964)</small>
-
-II. Ser vecino del Municipio correspondiente con residencia efectiva, dentro del mismo cuando menos de dos años si es nativo del Estado, o de cinco si no lo es.
-
-III. No desempeñar ningún cargo público en el municipio donde se hace la elección, ya dependa aquél del Estado o de la Federación; no estar en servicio activo en el ejército, ni tener mando de fuerzas en el mismo municipio, a menos de que, quien está comprendido en tales casos, se separe definitivamente de su empleo o cargo noventa días antes de la elección.
-
-> <small>(ADICIONADA, B.O. 3 DE ENERO DE 1983)</small>
+III. No desempeñar ningún cargo público en el Municipio donde se hace la elección, ya dependa aquél del Estado o de la Federación; no estar en servicio activo en el Ejército, ni tener mando de fuerzas en el mismo Municipio, a menos que, quién esté comprendido en tales casos, se separe definitivamente de su empleo o cargo noventa días antes de la elección.
 
 IV. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
 
-###### Artículo 134 Bis.
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
-(DEROGADO, B.O. 5 DE MAYO DE 1954)
+###### Artículo 133.
 
-> <small>(ADICIONADO, B.O. 5 DE OCTUBRE DE 1932)</small>
+El Presidente Municipal y demás miembros del Ayuntamiento durarán en su cargo tres años, y tomarán posesión el día dieciséis de Septiembre del año en que se verifique la elección.
 
-Artículo 134 A. Para ser Presidente Municipal, se requiere:
+Los cargos del Presidente Municipal, Síndico y Regidor serán obligatorios y remunerados. Solamente serán renunciables por causa justificada que califique el Ayuntamiento y apruebe el Congreso.
 
-I. Ser ciudadano sonorense en pleno ejercicio de sus derechos políticos.
+Si alguno de los miembros de un Ayuntamiento dejare de desempeñar su cargo, será substituído por su suplente, o se procederá según lo disponga esta Constitución y la Ley.
 
-II. Ser vecino del Municipio que lo nombre.
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
-> <small>(REFORMADA, B.O. 29 DE ABRIL DE 1939)</small>
+###### Artículo 134.
 
-III. No haber sido Presidente Municipal electo por el pueblo, o haber desempeñado las funciones interinamente por el lapso de un año o más en el período inmediato anterior.
+Para el auxilio de los Ayuntamientos en el despacho de los asuntos de su competencia, contarán con una administración pública que será directa y paramunicipal, conforme a la Ley Orgánica que expida el Congreso del Estado. Esta Ley definirá las facultades que serán competencia de la administración directa, y definirá las bases generales de creación, operación, vigilancia y supresión del sector paramunicipal.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ###### Artículo 135.
 
-Los presidentes municipales y concejales de los ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos propietarios para el periodo inmediato, a menos de que hayan estado en ejercicio.
+Las administraciones públicas directas asentadas en las Cabeceras de las Municipalidades estarán integradas como mínimo por una Secretaría y una Tesorería. Las personas designadas para estos cargos deberán llenar los mismos requisitos exigidos para ser miembro del Ayuntamiento.
 
-> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 1970)</small>
+Los Ayuntamientos deberán al inicio de su gestión, nombras (sic) Comisarios y Delegados Municipales. Estos serán representantes directos del Ayuntamiento y ejercerán las atribuciones y deberes señalados en la Ley, dentro de los ámbitos territoriales que determinen los propios ayuntamientos. Para ocupar estos cargos se requiere ser ciudadano sonorense en pleno ejercicio de sus derechos políticos y tener la vecindad en el lugar en que haya de ser nombrado.
 
-### CAPÍTULO IV. De los Animales de Carga y Tiro
+> <small>(ADICIONADO, B.O. 30 DE ENERO DE 1984)</small>
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+### CAPITULO III.
+
+Patimonio (sic) y Hacienda Pública de los Municipios.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ###### Artículo 136.
 
-Las faltas temporales o absolutas del Presidente Municipal, serán suplidas como se establezca en la Ley Orgánica de Administración Municipal.
+Son facultades y obligaciones de los Ayuntamientos:
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+I. En el ámbito de su competencia, promover e inducir el desarrollo económico, social, político y cultural y el bienestar de los habitantes, conforme a los principios de justicia y seguridad jurídica y a los Planes y Programas de Gobierno Municipales.
+
+II. En el marco del sistema estatal de planeación, conducir la formulación, instrumentación, control y evaluación del Plan Municipal de Desarrollo, al que estarán sujetas las funciones y actividades del Ayuntamiento y la Administración Pública Municipal e inducir y concertar con las representaciones de los sectores social y privado las acciones a realizar para su elaboración y ejecución.
+
+III. Hacer la declaratoria correspondiente a las elecciones para la integración del Ayuntamiento de acuerdo con el sistema de mayoría relativa y las asignaciones preliminares según el principio de representación proporcional, sujetándose en ambos casos a los resultados que les comunique el Comité Municipal Electoral. Tanto la declaratoria como las asignaciones serán revisadas, calificadas y resueltas en definitiva por el Congreso del Estado.
+
+IV. Expedir, de acuerdo con las bases normativas que establezca el Congreso, los Bandos de Policía y Buen Gobierno y los reglamentos, circulares y demás disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, que serán publicadas en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+V. Iniciar leyes y decretos ante el Congreso del Estado, en lo concerniente a sus Municipios.
+
+VI. Formular su Reglamento Interior en el que se defina la organización y funcionamiento del propio Ayuntamiento, así como los de la Administración pública Municipal directa, de acuerdo a las bases que establezca la Ley.
+
+VII. En los términos señalados por las Leyes, y previa autorización del Congreso, crear organismos descentralizados, fideicomisos y empresas públicas de participación Municipal, para la atención de los servicios públicos y para el desarrollo económico.
+
+VIII. Ejercer las atribuciones que las disposiciones jurídicas federales y estatales otorgan a los Municipios en materia turística; reforma agraria; fomento agropecuario; desarrollo urbano; coordinación fiscal; servicios educativos y de salud; vivienda; recursos naturales; protección del medio ambiente; sistemas ecológicos; comercio, abasto y distribución de productos.
+
+IX. Promover las actividades productivas del Municipio, alentando y organizando el desarrollo de la agricultura, ganadería, pesca, industria, minería y de otras actividades que propicien la prosperidad de sus habitantes.
+
+X. Proteger y conservar la cultura de los grupos étnicos asentados en sus territorios.
+
+XI. Vigilar que los habitantes del Municipio realicen sus actividades con respeto a derechos de terceros, al orden e interés público y en general en pro del bienestar colectivo, de acuerdo a las Leyes y reglamentos.
+
+XII. Prestar los servicios de seguridad pública y tránsito, sin perjuicio de lo establecido por la fracción XX del Artículo 79 de esta Constitución.
+
+XIII. Emitir los actos, acuerdos y resoluciones que de conformidad con la Ley y demás disposiciones, sean del ámbito de su competencia.
+
+XIV. Aplicar las sanciones de multa o arresto cuya imposición les atribuya los Bandos de Policía y Buen Gobierno y los demás reglamentos Municipales, en los términos de esta Constitución.
+
+XV. Resolver, de acuerdo con las atribuciones que les confieran las Leyes, los recursos administrativos interpuestos en contra de los actos, acuerdos y resoluciones dictados por el propio Ayuntamiento y demás autoridades Municipales.
+
+XVI. En los términos de Ley, celebrar Convenios de Coordinación con los Ejecutivos Estatal y Federal, a efecto de coordinar acciones de interés común, asumir el ejercicio de funciones, la ejecución y operación de obras, la prestación de servicios públicos, y en general, cualquier otra actividad o propósito de beneficio colectivo, cuando el desarrollo económico y social lo haga necesario.
+
+XVII. Participar en el Sistema Estatal de Planeación en los términos establecidos por esta Constitución y demás disposiciones.
+
+XVIII. Promover la participación y cooperación de la comunidad en la planeación, construcción y conservación de obras, prestación de servicios públicos y, en general, en la ejecución de acciones para el desarrollo de la comunidad, y en su caso, concertar acciones con los interesados.
+
+XIX. Administrar su patrimonio y prestar los servicios públicos en los términos señalados por esta Constitución y demás disposiciones aplicables.
+
+XX. Vigilar los establecimientos de asistencia y beneficencia pública y privada en la forma que determine la Ley.
+
+XXI. Someter al examen y aprobación del Congreso, durante la primera quincena del mes de Noviembre de cada año, la Ley de Ingresos y el correspondiente Presupuesto de Ingresos (sic), que deberán regir en el año fiscal siguiente. Todo ingreso adicional o excedente que reciba el Ayuntamiento para su ejercicio, deberá ser autorizado previamente por el Congreso del Estado.
+
+XXII. Aprobar, con base en las contribuciones y demás ingresos que determine anualmente el Congreso, sus Presupuestos de Egresos y publicarlos en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+XXIII. Enviar trimestralmente al Congreso, los estados financieros que comprenderán la balanza de comprobación, el balance general y el estado de resultados que contenga el ejercicio presupuestario de Ingresos y Egresos que se lleve a la fecha.
+
+XXIV. Someter al examen y aprobación del Congreso, anualmente, en la primera quincena del segundo período de sesiones ordinarias, sus cuentas públicas del año anterior.
+
+XXV. Glosar las cuentas del Ayuntamiento saliente, en un término de noventa días contados a partir de la fecha de toma de posesión. Si de la glosa resultaren diferencias con las cuentas públicas aprobadas por el Congreso, será éste quién decida lo conducente.
+
+XXVI. Formular los Estados Financieros correspondientes al último año de su gestión que comprenderán la balanza de comprobación, el balance general, y el estado de resultados que contenga el Ejercicio presupuestario de Ingresos y Egresos y entregarlos, al concluir sus funciones, al Ayuntamiento entrante y al Congreso.
+
+XXVII. Rendir a la población, por conducto del Presidente Municipal, un informe anual detallado sobre el estado que guarden los asuntos municipales, los días quince de Septiembre de cada año. Dicho informe será comunicado por escrito al Congreso del Estado y al Gobernador.
+
+XXVIII. Proporcionar a los Poderes del Estado los informes y documentos que les soliciten.
+
+XXIX. Organizar y estructurar la administración de la Comisaría y Delegaciones.
+
+XXX. Conceder licencias al Presidente Municipal y Concejales, en los términos de la Ley Orgánica respectiva.
+
+XXXI. Nombrar y remover a los funcionarios y empleados de la administración pública municipal directa y concederles licencia, de acuerdo a lo que establezcan las Leyes.
+
+XXXII. Cubrir preferentemente y en forma adecuada, los sueldos de los Jueces locales y Menores de su jurisdicción, y proveerlos de los útiles y elementos de trabajo indispensables para el correcto desempeño de sus funciones.
+
+XXXIII. Coadyuvar con el Poder Judicial en el auxilio que demande para hacer efectivas las resoluciones de éste.
+
+XXXIV. Dar cuenta al Supremo Tribunal de Justicia de las irregularidades que observen en la administración de Justicia Local y Menor.
+
+XXXV. Las demás que las Leyes Federales o del Estado les otorguen o impongan.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ###### Artículo 137.
 
-Cada Ayuntamiento tendrá un Secretario y un Tesorero de fuera de su seno. Las personas designadas para estos empleos deberán llenar los requisitos necesarios para ser miembros del ayuntamiento. El Tesorero, deberá, además, otorgar una fianza cuyo monto determinará la ley reglamentaria.
+En los términos fijados en las leyes respectivas, corresponde a los Municipios la eficaz prestación, en sus respectivas jurisdicciones, de los siguientes servicios públicos:
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+a). Agua Potable y Alcantarillado.
+
+b). Alumbrado Público.
+
+c). Limpia.
+
+d). Mercados.
+
+e). Panteones.
+
+f). Rastros.
+
+g). Calles, parques y jardines.
+
+h). Seguridad pública y tránsito.
+
+i). Los demás que les señale el Congreso del Estado, según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa, técnica y financiera.
+
+En el caso de que alguno o algunos de estos servicios no se presten eficazmente, el Congreso del Estado intervendrá para resolver lo conducente, a excepción del servicio público de las fuerzas de Seguridad Pública y Tránsito, cuyo manejo y mando se ajustará a las disposiciones que sobre esta materia especifican esta Constitución y las Leyes Reglamentarias.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ###### Artículo 138.
 
-Habrá en cada cabecera de municipalidad una institución denominada Oficina del Catastro y del Padrón Municipal, la cuál tendrá a su cargo el catastro y el padrón del Municipio. La organización y funcionamiento de dicha institución se determinará por la Ley Orgánica relativa.
+Los Servicios Públicos Municipales podrán prestarse con el concurso del Estado, cuando así fuere necesario y lo determinen las Leyes, así como en coordinación y asociación con otros Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley. También podrán ser prestados mediante concertaciones con particulares o a través del otorgamiento de concesiones.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+En los casos en que los servicios públicos de competencia municipal se encuentren a cargo de particulares, podrán municipalizarse por razones de orden e interés público y en los términos que establezca la Ley.
 
-### CAPÍTULO V. De la exhibición, de la pensión, Adiestramiento y del Albergue de Animales
+> <small>(ADICIONADO, B.O. 30 DE ENERO DE 1984)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+### CAPITULO IV.
 
-> <small>(REFORMADO, PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2015)</small>
+Declaración de Desaparición de Ayuntamientos y Suspensión o Revocación del Mandato de sus Miembros.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ###### Artículo 139.
 
-Son facultades y obligaciones de los ayuntamientos:
+Los Municipios administrarán los bienes de dominio público y privado de su patrimonio y podrán otorgar concesiones para su explotación, de conformidad con las leyes respectivas; administrarán libremente su hacienda, la que se formará con los rendimientos de los bienes que les pertenezcan, así como con las contribuciones y otros ingresos que establezca el Congreso del Estado a su favor, los cuales procederán de:
 
-I. Cuidar del orden público dentro de su jurisdicción. A este fin tendrán a su cargo la organización y mando de la policía municipal, sin perjuicio de las facultades concedidas al Gobernador por la fracción XX del artículo 79 de esta Constitución.
+A) Contribuciones, incluyendo tasas adicionales, que establezcan las leyes sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, así como los que tengan por base el cambio de valor de los inmuebles.
 
-II. Someter anualmente, durante la primera quincena del mes de noviembre, al examen y aprobación del Congreso los presupuestos de ingresos y egresos del municipio, que deberán regir en el año fiscal inmediato siguiente.
+Los Municipios podrán celebrar convenios con el Estado para que este se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
 
-III. Administrar libremente su hacienda, que se formará de las contribuciones aprobadas por el Congreso.
+B) Los ingresos derivados de la prestación de los servicios públicos a su cargo.
 
-IV. Expedir, previa aprobación del Congreso, los reglamentos necesarios a la buena organización y funcionamiento de los servicios públicos del municipio.
+No se establecerán exenciones ni se concederán subsidios respecto de las contribuciones señaladas en los incisos anteriores, en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Solo los bienes de Dominio Público de la Federación, del Estado o de los Municipios, estarán exentos de dichas contribuciones.
 
-V. Vigilar los establecimientos de beneficencia pública y privada en la forma que determine la ley.
+C) Las participaciones federales que serán cubiertas por la Federación, a través del Estado, a los Municipios, con arreglo a las bases montos y plazos que anualmente se determinen por la legislatura Local.
 
-VI. Vigilar las escuelas oficiales y particulares de su jurisdicción.
+D) Subsidios, legados y donaciones que se establezcan a su favor.
 
-VII. Cuidar de que el catastro y el padrón municipales se lleven eficientemente.
+Los recursos Municipales se manejarán con honradez y eficacia, según las bases establecidas en el Artículo 150 de esta Constitución y en las Leyes.
 
-VIII. Glosar las cuentas del Ayuntamiento saliente, dentro de noventa días contados a partir de la fecha de la toma de posesión.
-
-IX. Conceder licencias al Presidente Municipal y concejales, en los términos de la Ley Orgánica respectiva.
-
-X. Publicar en la "Tabla de Avisos" de la oficina municipal los presupuestos, ordenanzas y demás disposiciones de observancia general.
-
-XI. Nombrar y remover a los empleados de su dependencia y concederles licencia.
-
-XII. Iniciar leyes ante el Congreso del Estado.
-
-XIII. Formar su Reglamento Interior.
-
-> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 1978)</small>
-
-XIV. Computar y calificar los votos emitidos en las elecciones de los integrantes del nuevo Ayuntamiento y en caso de elecciones extraordinarias en las de sus propios miembros, así como hacer las asignaciones de Regidores electos según el principio de representación proporcional en los casos previstos en el artículo 129 y emitir las declaratorias correspondientes. Estas quedarán sujetas a la revisión y resolución definitiva del Congreso del Estado, cuando se pida la nulidad de tales elecciones.
-
-XV. Rendir a los Poderes del Estado los informes que les pidan.
-
-XVI. Rendir en el mes de agosto al Gobernador, un informe general sobre la labor que hayan desarrollado.
-
-> <small>(REFORMADA, B.O. 20 DE JUNIO DE 1956)</small>
-
-XVII. Aplicar las sanciones de multa o arresto cuya imposición les atribuyan los Bandos de Policía y Buen Gobierno y los demás Reglamentos Municipales.
-
-XVIII. Organizar y vigilar la administración de las comisarías de su jurisdicción, corrigiendo las deficiencias que notaren.
-
-XIX. Cubrir preferentemente los sueldos de los jueces locales y menores de su jurisdicción, y proveerlos de los útiles y elementos de trabajo necesarios.
-
-XX. Rendir al Congreso, anualmente, en la primera quincena del mes de agosto, cuenta pormenorizada del manejo hacendario.
-
-XXI. Dar cuenta al Supremo Tribunal de Justicia de las irregularidades que observaren en la administración de justicia local o menor.
-
-XXII. Las demás que las leyes federales o del Estado les otorguen o impongan.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(ADICIONADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ### CAPÍTULO VI. Del Traslado de Animales
 
@@ -1611,19 +1687,19 @@ XXII. Las demás que las leyes federales o del Estado les otorguen o impongan.
 
 ###### Artículo 140.
 
-Los Ayuntamientos nombrarán cada tres años a los comisarios y delegados de policía de sus respectivas jurisdicciones, al iniciar aquellos sus funciones.
+La Ley Orgánica establecerá las bases y señalará las causas para que el Congreso del Estado, por el voto de las dos terceras partes de sus miembros, pueda suspender Ayuntamientos, declarar que éstos han desaparecido, así como suspender o revocar al mandato de alguno de sus miembros en lo individual. En el procedimiento que se substancie, los miembros del Ayuntamiento involucrados tendrán oportunidad suficiente para aportar pruebas y formular los alegatos que consideren convenientes. El Gobernador del Estado tendrá la participación que le asigne la Ley.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ###### Artículo 141.
 
-Para ser comisario o delegado de policía se requiere ser ciudadano sonorense en pleno ejercicio de sus derechos políticos, y vecino del lugar en que haya de ser nombrado.
+Cuando se suspenda o declare desaparecido un Ayuntamiento y no procediere que entraren en funciones los suplentes, en los casos señalados por la Ley, se podrán nombrar Concejos Municipales y, en su caso, convocar a elecciones extraordinarias.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ###### Artículo 142.
 
-Los comisarios y delegados de policía tendrán las facultades y obligaciones que señale la ley orgánica respectiva, y serán los representantes directos del ayuntamiento.
+De conformidad con las bases establecidas en la legislación secundaria, los Concejos Municipales serán integrados con vecinos del lugar, y tendrán la misma estructura orgánica, atribuciones y deberes que los Ayuntamientos.
 
 ## TITULO SEXTO.
 
@@ -1701,6 +1777,10 @@ El manejo de recursos económicos estatales se sujetará a las bases de esta Con
 
 Artículo 150 A. En el Estado las mujeres tienen los mismos derechos civiles y políticos que los hombres; podrán ser electas y tendrán derecho a voto en cualquier elección, siempre que reúnan los requisitos que señala la Ley.
 
+> <small>(ADICIONADO, B.O. 30 DE ENERO DE 1984)</small>
+
+Artículo 150 B. La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial del Estado, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la Autoridad Administrativa del Gobierno Estatal y a los Ayuntamientos, la aplicación de sanciones por las infracciones a los reglamentos gubernativos y de policía, que consistirán únicamente en multa o arresto hasta por treinta y seis horas. Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. La multa impuesta a los trabajadores no asalariados no excederá del equivalente a un día de su ingreso.
+
 ###### Artículo 151.
 
 Ningún individuo debe desempeñar dos cargos de elección popular; pero el electo puede escoger entre ellos el que más le convenga.
@@ -1721,13 +1801,13 @@ El aumento de las dietas de los Diputados no tendrá efecto en el período de la
 
 Los cargos o empleos públicos no son, ni pueden ser en el Estado, propiedad o patrimonio de quien los ejerza, ni podrán desempeñarse por personas que no sepan leer y escribir.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 23 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ###### Artículo 156.
 
-La vecindad se adquiere durante dos años de residencia fija en algún lugar del territorio del Estado, o durante uno para quienes adquieran bienes raíces, ejerzan alguna profesión, arte o industria dentro de la propia entidad.
+Toda persona adquiere la vecindad si reside de manera efectiva, durante dos años en algún lugar del territorio del Estado y ejerce alguna profesión, arte, industria, empleo o actividad productiva y honorable.
 
-La vecindad, aún sin el requisito de la residencia efectiva, no se pierde por la ausencia en el desempeño de cargos públicos de elección popular o empleo o comisión conferidos por el Gobierno de la Nación o del Estado. Tampoco se pierde por ausentarse prestando servicios en la milicia o para seguir estudios científicos o artísticos, pero en estos casos si se perderá cuando esta Constitución exija el requisito de residencia efectiva.
+Quienes teniendo la residencia y vecinada (sic) se ausentaren del lugar de su residencia para desempeñar cargos de elección popular, siempre y cuando ejerzan precisamente el mandato conferido por el pueblo, o para prestar o desempeñar cargos conferidos por el Gobierno Federal o Estatal según el caso o cargos de representación gremial o sindical, no perderán los beneficios de la mencionada vecindad y residencia efectiva para los efectos a que se refieren los Artículos 9 Fracción II, 33 Fracción III, 70 Fracción I, 114 Fracción I y 132 Fracción II de esta Constitución.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -2142,6 +2222,12 @@ LEY No. 33, QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS DE LA CONSTITUCION.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación e el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE ENERO DE 1984.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
