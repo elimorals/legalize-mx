@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2003-10-03"
+last_updated: "2004-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO.
+CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2004.
 
-Ley Publicada en el Periódico Oficial del Estado "La Sombra de Arteaga", el 06 de Julio de 1989.
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
 LIC. MARIANO PALACIOS ALCOCER, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
 
@@ -37,7 +37,9 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
 ## TITULO PRIMERO. PRINCIPIOS FUNDAMENTALES
 
-ARTICULO 1 (Derechos del Imputado).- El imputado gozará de los derechos que le otorgan la Constitución de los Estados Unidos Mexicanos, los tratados celebrados por la República, la Constitución y las leyes penales del Estado de Querétaro, y podrá ejercerlos desde el momento en que se inicien las diligencias de preparación del ejercicio de la acción penal en su contra hasta la terminación del procedimiento y la ejecución total de la pena.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2004)</small>
+
+ARTICULO 1 (Derechos del Imputado, de la Víctima y del Ofendido).- El imputado, la víctima y el ofendido del delito, gozarán de los derechos que les otorga la Constitución Política de los Estados Unidos Mexicanos, los tratados celebrados por el Presidente de la República y aprobados por el Senado, la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga y las leyes del Estado, y podrán ejercerlos desde el momento en que se inicien las diligencias de preparación del ejercicio de la acción penal, hasta la terminación del procedimiento.
 
 ARTICULO 2 (Tratamiento del imputado como inocente).- Todo imputado se presumirá inocente mientras no se pruebe en el proceso su culpabilidad conforme a la ley.
 
@@ -89,7 +91,7 @@ I.- Al máximo de la pena que fije al delito la ley, y
 
 II.- A la pena privativa de libertad cuando la ley imponga varias de distinta naturaleza.
 
-ARTICULO 13 (Compentencia por conexidad).- Los procesos que se sigan por delitos conexos deberán acumularse y será competente:
+ARTICULO 13 (Competencia por conexidad).- Los procesos que se sigan por delitos conexos deberán acumularse y será competente:
 
 I.- El juzgador que deba conocer del delito que tenga señalada la pena más grave, o
 
@@ -129,9 +131,11 @@ El procedimiento de sustitución se sujetará a lo que señala la Ley Orgánica 
 
 (Funciones del Ministerio Público).- Compete al Ministerio Público llevar a cabo la preparación del ejercicio de la acción penal, y ejercer la acción penal ante los Tribunales del Estado, en los casos en que resulte procedente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 20.
 
-(Facultades del Ministerio Público en la diligencias de preparación del ejercicio de la acción penal).- En las diligencias de preparación del ejercicio de la acción corresponderá al Ministerio Público:
+(Facultades y Obligaciones del Ministerio Público en las diligencias de preparación del ejercicio de la acción penal). En las diligencias de preparación del ejercicio de la acción penal corresponderá al Ministerio Público:
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2000)</small>
 
@@ -163,11 +167,21 @@ Con ese propósito, el Procurador General de Justicia podrá autorizar la infilt
 
 IX.- Autorizar la disposición de órganos y tejidos humanos, a los disponentes secundarios conforme a lo dispuesto en el Reglamento de la Ley General de Salud en materia de control sanitario de la disposición de órganos, tejidos y cadáveres de seres humanos, cuando el occiso en vida haya hecho manifestación expresa de donarlos, con sujeción a los requisitos legales estipulados en el citado reglamento. Así mismo, y para tal fin, deberá de prestar todas las facilidades necesarias a efecto de no entorpecer las actividades tendientes a la disposición de los mismos.
 
-Para el caso de que la autoridad ministerial incurra en actos u omisiones tendientes a entorpecer el trámite normal de disposición de órganos, tejidos y cadáveres de seres humanos ocasionando con ello que se lesionen los intereses y la dignidad de terceros, se hará acreedor a las sanciones que sean aplicables de la Ley de Responsabilidades de los Servidores Públicos del Estado de Queretaro.
+Para el caso de que la autoridad ministerial incurra en actos u omisiones tendientes a entorpecer el trámite normal de disposición de órganos, tejidos y cadáveres de seres humanos ocasionando con ello que se lesionen los intereses y la dignidad de terceros, se hará acreedor a las sanciones que sean aplicables de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
 
-ARTICULO 21 (Facultades del Ministerio Público en ejercicio de la acción penal).- En ejercicio de la acción penal, corresponde al Ministerio Público:
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2004)</small>
 
-I.- Promover la iniciación del procedimiento ante el Órgano Jurisdiccional.
+X. Informar a la víctima y al ofendido, los derechos que a su favor establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga y las leyes del Estado, canalizándolos a las instituciones que correspondan, para que reciban la asesoría jurídica y la atención médica y psicológica que requieran.
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2004)</small>
+
+XI. Informar a la víctima y al ofendido del desarrollo de las diligencias de preparación del ejercicio de la acción penal, cuando así lo soliciten.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2004)</small>
+
+ARTICULO 21 (Facultades y obligaciones del Ministerio Público en ejercicio de la acción penal).- En ejercicio de la acción penal, corresponde al Ministerio Público:
+
+I.- Promover la iniciación del procedimiento ante el Órgano Jurisdiccional;
 
 II.- Solicitar las órdenes de aprehensión y de comparecencia que estime procedentes;
 
@@ -184,6 +198,14 @@ VII.- Formular conclusiones en los términos señalados por la ley;
 VIII.- Interponer los medios de impugnación que la ley concede y expresar los agravios correspondientes, y
 
 IX.- En general, hacer todas las promociones que sean conducentes al desarrollo y terminación regular de los procesos.
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2004)</small>
+
+X. Informar a la víctima y al ofendido, los derechos que a su favor establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga y las leyes del Estado, canalizándolos a las instituciones que corresponda, para que reciban la asesoría jurídica y la atención médica y psicológica que requieran; y
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2004)</small>
+
+XI. Informar a la víctima y al ofendido, del desarrollo de las diversas fases del proceso ante la autoridad jurisdiccional, cuando así lo soliciten.
 
 ARTICULO 22 (Obligación del Ministerio Público de solicitar el sobreseimiento).- Corresponde al Ministerio Público solicitar al Órgano Jurisdiccional el sobreseimiento, en los casos en que proceda.
 
@@ -225,9 +247,9 @@ I.- Inmediatamente que lo solicite, será puesto en libertad provisional bajo ca
 
 II.- Se le hará saber en audiencia pública, y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicia, el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en este acto su declaración preparatoria;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2004)</small>
 
-III.- Siempre que lo solicite, será careado en presencia del juez con quiénes depongan en su contra, para que pueda hacerles todas las preguntas conducentes a su defensa.
+III.- Cuando así lo solicite, será careado, en presencia del juez, con quienes depongan en su contra, para que pueda hacerles todas las preguntas conducentes a su defensa, salvo con los menores de edad cuando sean víctimas u ofendidos tratándose de los delitos de violación o secuestro.
 
 IV.- Le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso;
 
@@ -285,33 +307,69 @@ ARTICULO 35 (Incumplimiento del defensor a sus obligaciones).- Cuando el juzgado
 
 Si el defensor fuere de oficio, el juzgador deberá, además, poner en conocimiento de los hechos al superior, señalándole el incumplimiento en que aquél hubiere incurrido. Las facultades que este precepto otorga al juzgador, serán independientes del derecho que pueda corresponder al imputado para denunciar o reclamar la responsabilidad que, en su caso, resulte al defensor.
 
-### CAPITULO IV. EL OFENDIDO
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE MARZO DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+### CAPITULO IV. LA VICTIMA Y EL OFENDIDO
 
-ARTICULO 36 (Derechos del ofendido durante las diligencias de preparación del ejercicio de la acción penal).- Durante las diligencias de preparación del ejercicio de la acción penal, la persona ofendida por el delito tendrá los siguientes derechos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2004)</small>
+
+ARTICULO 36 (Derechos de la víctima y del ofendido durante las diligencias de preparación del ejercicio de la acción penal). Durante las diligencias de preparación del ejercicio de la acción penal, la víctima y el ofendido por el delito tendrán los siguientes derechos:
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 I.- Proporcionar al Ministerio Público todos aquellos datos, objetos, instrumentos o medios de prueba que tenga, y que puedan contribuir a la demostración de los elementos materiales del delito, de la responsabilidad del imputado, de la existencia de daños y perjuicios, así como su monto, ocasionados por aquél;
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
 II.- Solicitar al Ministerio Público, una vez que éste tenga la estimativa de que están comprobados los elementos del tipo, que dicte las providencias necesarias para asegurar sus derechos o restituirlo en el goce de éstos, siempre que estén legalmente justificados y se otorgue, cuando así lo considere necesario el órgano investigador, caución bastante para garantizar el pago de daños y perjuicios que pudieran ocasionarse a terceros o al imputado.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 III.- A que se le notifique personalmente las determinaciones sobre el ejercicio o no ejercicio de la acción penal, o de la determinación de reserva;
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
 IV.- A impugnar, en los términos y forma que el presente Código establece, las determinaciones del no ejercicio de la acción penal tomadas por el Procurador General de Justicia.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2004)</small>
 
-ARTICULO 37 (De los derechos del ofendido ante el órgano jurisdiccional).- La persona ofendida por el delito, en la fase del procedimiento ante el órgano jurisdiccional, tendrá los siguientes derechos:
+V. A recibir de manera inmediata la atención médica y psicológica que requieran, la cual se efectuará a través de las áreas que para tal efecto existan en las instituciones públicas correspondientes.
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2004)</small>
+
+VI. A recibir asesoría jurídica en los términos del artículo 20 fracción X de este Código.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2004)</small>
+
+ARTICULO 37 (De los derechos de la víctima y el ofendido ante el órgano jurisdiccional).- La víctima y el ofendido por el delito, durante la fase del procedimiento ante el órgano jurisdiccional, tendrán los siguientes derechos:
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 I.- Coadyuvar con el Ministerio Público durante la fase judicial del procedimiento penal, ofreciendo al juzgador, por conducto de aquél o directamente, medios de prueba que conduzcan a comprobar la existencia del delito, la responsabilidad penal del imputado, y la existencia y monto de los daños y perjuicios que se le hayan ocasionado;
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
 II.- Pedir directamente al órgano jurisdiccional que decrete el embargo precautorio de los bienes en que puedan hacerse efectivos, en su oportunidad, la reparación de los daños y perjuicios, así como que dicte las providencias necesarias para que se le restituya en el goce de sus derechos, en los términos previstos en este Código;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 III.- En el mismo plazo concedido al Ministerio Público, formular conclusiones, únicamente por lo que respecta a la existencia de daños y perjuicios y su monto;
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
 IV.- Interponer el recurso de apelación, únicamente por lo que respecta al concepto a que se refiere la fracción anterior,
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
 V.- Impugnar, en los términos de la presente ley, el desistimiento de la acción penal y las conclusiones no acusatorias, ratificadas por el Procurador General de Justicia.
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2004)</small>
+
+VI. A recibir atención médica y psicológica y en el caso que lo amerite, se efectuará de manera inmediata por parte de las áreas que al respecto existan en las Instituciones Públicas.
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2004)</small>
+
+VII. A recibir asesoría jurídica en los términos del artículo 21 fracción X de este Código.
 
 ## TITULO TERCERO. ACTOS PROCESALES
 
@@ -369,7 +427,7 @@ ARTICULO 53 (Designación de intérprete para sordomudos).- Cuando alguna de las
 
 Los que intervengan en la diligencia no podrán ser intérpretes.
 
-ARTICULO 54 (Cambio de personal).- Cuando hubiere cambio de Juzgador o de secretario no se proveerá auto alguno que haga saber el cambio, pero en el primero que se proyere se insertará el nombre completo del nuevo funcionario. Tratándose del Tribunal Superior de Justicia, se pondrán, al margen de los autos, los nombres y apellidos de los funcionarios que los firmen.
+ARTICULO 54 (Cambio de personal).- Cuando hubiere cambio de Juzgador o de secretario no se proveerá auto alguno que haga saber el cambio, pero en el primero que se proveyere se insertará el nombre completo del nuevo funcionario. Tratándose del Tribunal Superior de Justicia, se pondrán, al margen de los autos, los nombres y apellidos de los funcionarios que los firmen.
 
 Cuando la única resolución sea la sentencia, se dictará auto de previo haciendo conocer a las partes el nombre del nuevo funcionario y concediéndoles cinco días para que se manifiesten si tienen causa para recusarlo. Este auto se notificará personalmente al procesado y a su defensor.
 
@@ -675,11 +733,11 @@ II.- El homicidio, en los supuestos de los artículos 125 y 126;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-III.- Las lesiones previstas en la fracción IX del artículo 127, cuando concurrran las circunstancias señaladas en el artículo 131;
+III.- Las lesiones previstas en la fracción IX del artículo 127, cuando concurran las circunstancias señaladas en el artículo 131;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-IV.- El secuestro en los supuestos del artículo 150, excepto cuando se ponga en libertad a la persona antes de tres días y sin causar ningún perjuicios,
+IV.- El secuestro en los supuestos del artículo 150, excepto cuando se ponga en libertad a la persona antes de tres días y sin causar ningún perjuicio,
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -949,7 +1007,7 @@ ARTICULO 151 (Legalidad de la prueba).-La admisión, preparación, práctica y v
 
 ARTICULO 152 (Medios de prueba admisibles).- Son admisibles como medios de prueba todos aquellos elementos que puedan producir convicción en el ánimo de la autoridad respectiva, que no sean contrarios al derecho.
 
-Durante el procedimiento ante el Órgano Jurisdiccional, los medios de prueba siempre deben ser recibidos por el Juzgador con citación de la partes.
+Durante el procedimiento ante el Órgano Jurisdiccional, los medios de prueba siempre deben ser recibidos por el Juzgador con citación de las partes.
 
 ARTICULO 153 (Obligación de exhibir documentos).- Toda persona en cuyo poder se hallen cosas o documentos que deban servir de medio de prueba, tiene la obligación de exhibirlos, cuando para ello sea requerida en forma por el Ministerio Público, durante las diligencias de preparación del ejercicio de la acción penal, o por el juzgador, con motivo del procedimiento que se siga ante él, con las salvedades que establezcan las leyes.
 
@@ -1149,7 +1207,11 @@ En lo demás, se observarán las disposiciones precedentes.
 
 ### CAPITULO VII. CAREOS
 
-ARTICULO 202 (Careos procesales).- Además de los señalados en la fracción IV del artículo 20 Constitucional, los careos se practicarán cuando exista contradicción en las declaraciones de dos personas, pudiendo repetirse cuando el Juzgador estime oportuno o cuando surgan nuevos puntos de contradicción.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2004)</small>
+
+ARTICULO 202 (Careos Procesales). Los careos procesales se practicarán cuando el imputado lo solicite, en presencia del juez, con quienes depongan en su contra, salvo lo previsto en el artículo 29 fracción III de este Código.
+
+También se practicarán cuando exista contradicción en las declaraciones de dos personas, pudiendo repetirse cuando el juzgador estime oportuno o cuando surjan nuevos puntos de contradicción.
 
 ARTICULO 203 (Práctica de los careos procesales).- El careo se practicará solamente entre dos personas y no intervendrán en la diligencia sino las que deban ser careadas, las partes y los intérpretes, si fueren necesarios.
 
@@ -1201,7 +1263,7 @@ IV.- Que no haya datos que la hagan inverosímil.
 
 ARTICULO 215 (Declaración de testigos).- Para apreciar la declaración de cada testigo, el Juzgador tendrá en consideración:
 
-I.-La edad, capacidad e instrucción y si tiene el criterio necesario para apreciar el acto;
+I.- La edad, capacidad e instrucción y si tiene el criterio necesario para apreciar el acto;
 
 II.- Que por su probidad, la independencia de su posesión y sus antecedentes personales tenga completa imparcialidad;
 
@@ -1223,7 +1285,7 @@ ARTICULO 216 (Objeto de las diligencias de preparación del ejercicio de la acci
 
 ARTICULO 217 (Iniciación por denuncia).- El agente del Ministerio Público está obligado a proceder por denuncia a la investigación de los delitos del orden común, excepto:
 
-I.-Cuando se trate de delitos en los que solamente se pueda proceder por querella, o
+I.- Cuando se trate de delitos en los que solamente se pueda proceder por querella, o
 
 II.- Cuando la ley exija algún requisito previo, si éste no se ha llenado.
 
@@ -1257,7 +1319,7 @@ ARTICULO 224 (Acta inicial).- En el caso del artículo anterior, se procederá a
 
 > <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2000)</small>
 
-ARTICULO 224 bis (Conciliación). En las averiguaciones iniciadas por delitos perseguibles por querellas, y hasta antes de ejercitarse, en su caso, la acción penal, el Agente del Ministerio Público deberá poner a consideración del ofendido la posibilidad de llevar a cabo su conciliación con el imputado y si aquél aceptará por escrito, se dictarán las providencias necesarias para propiciar un acuerdo conciliatorio. De presentarse ambas partes para el posible acuerdo conciliatorio, se les exhortará para que procuren llegar al mismo, explicándoles sobre las consecuencias legales respecto a la averiguación en que se actúa, se les escuchará y se procederá a levantar el acta correspondiente. No será impedimiento para ejercitar la acción penal el que se encuentre pendiente la conciliación.
+ARTICULO 224 bis (Conciliación). En las averiguaciones iniciadas por delitos perseguibles por querellas, y hasta antes de ejercitarse, en su caso, la acción penal, el Agente del Ministerio Público deberá poner a consideración del ofendido la posibilidad de llevar a cabo su conciliación con el imputado y si aquél aceptará por escrito, se dictarán las providencias necesarias para propiciar un acuerdo conciliatorio. De presentarse ambas partes para el posible acuerdo conciliatorio, se les exhortará para que procuren llegar al mismo, explicándoles sobre las consecuencias legales respecto a la averiguación en que se actúa, se les escuchará y se procederá a levantar el acta correspondiente. No será impedimento para ejercitar la acción penal el que se encuentre pendiente la conciliación.
 
 ARTICULO 225 (Citación a los testigos).- El Ministerio Público podrá citar para que declaren sobre los hechos que se averiguan, a las personas que por cualquier concepto participen en ellos o aparezca tengan datos sobre los mismos.
 
@@ -1307,7 +1369,7 @@ El lesionado o sus familiares tienen la obligación de comunicar a la autoridad 
 
 ARTICULO 233 (Responsiva médica).- La responsiva a que se refiere el artículo 231, impone al médico las obligaciones siguientes:
 
-I.-Atender debidamente al lesionado;
+I.- Atender debidamente al lesionado;
 
 II.- Informar a la autoridad que conozca del proceso de cualquier accidente o complicación que sobrevenga, expresando si es consecuencia inmediata o necesaria de las lesiones o si proviene de otra causa, proporcionándole los datos que solicite;
 
@@ -1315,7 +1377,7 @@ III.- Comunicar inmediatamente a la misma autoridad todo cambio del lugar donde 
 
 IV.- Extender certificado de sanidad o de defunción si muere el lesionado, con los datos pertinentes al caso, y los demás que le solicite la autoridad.
 
-El incumplimiento de cualquiera de las obligaciones señaladas en este artículo, ameritará la imposición de la corrección disciplinaria correspondiente.
+El incumplimiento de cualquiera de las obligaciones señaladas en este artículo, ameritará la imposición de la corrección disciplinaria correspondiente.imposición de la corrección disciplinaria correspondiente.
 
 ARTICULO 234 (Certificados de sanidad o defunción).- Los certificados de sanidad o de defunción expedidos por médicos particulares, estarán sujetos a la revisión de los médicos oficiales, quienes rendirán el dictamen definitivo.
 
@@ -1469,7 +1531,7 @@ ARTICULO 264 (Preguntas al inculpado).- El Juzgador, el defensor y el Agente del
 
 ARTICULO 265 (Requisitos del auto de formal prisión).- Dentro de las setenta y dos horas siguientes al momento en que el inculpado quede a disposición del juez, éste dictará el auto de formal prisión, cuando de lo actuado aparezcan acreditados los siguientes requisitos:
 
-I.-Que se haya tomado declaración preparatoria del inculpado, o bien que conste en el expediente que éste se rehusó a declarar o que no lo hizo por imposibilidad material insuperable.
+I.- Que se haya tomado declaración preparatoria del inculpado, o bien que conste en el expediente que éste se rehusó a declarar o que no lo hizo por imposibilidad material insuperable.
 
 II.- Que esté comprobado el cuerpo de un delito que tenga señalada sanción privativa de libertad.
 
@@ -1629,9 +1691,7 @@ IV.- En los demás casos en que la ley ordene expresamente la suspensión del pr
 
 La suspensión fundada en los supuestos de las fracciones I y III. no (sic) impide que, a requerimiento del Ministerio Público o del ofendido o sus representantes, adopte el Juzgador las medidas precautorias patrimoniales que establece este Código.
 
-ARTICULO 297 (Captura del imputado).- Lo dispuesto en la
-
-fracción I del artículo anterior, se entiende sin perjuicio de que, en su oportunidad, se practiquen todas las diligencias que sean procedentes para lograr la captura del imputado.
+ARTICULO 297 (Captura del imputado).- Lo dispuesto en la fracción I del artículo anterior, se entiende sin perjuicio de que, en su oportunidad, se practiquen todas las diligencias que sean procedentes para lograr la captura del imputado.
 
 La sustracción de un imputado a la acción de la justicia no impedirá la continuación del procedimiento respecto de los demás imputados que se hallaren a disposición del Juzgador.
 
@@ -1835,7 +1895,7 @@ V.- Cuando el Juzgador no resuelva alguna petición formulada conforme a derecho
 
 ARTICULO 332 (Interposición de la queja).- La queja deberá interponerse por escrito ante el Tribunal Superior de Justicia, expresando las razones en que se funde, dentro de los cinco días siguientes contados a partir de que hubieren transcurrido los plazos señalados para cada hipótesis del artículo anterior.
 
-ARTICULO 333 (Substanciación).- El Tribunal Superior de Justicia en el plazo de cuarenta y ocho horas, le dará entrada a la queja y requerirá al Juzgador de Primera Instancia, a quien se le imputa la conducta omisiva que ha dado lugar a la queja, para que rinda informe dentro del plazo de tres días y envié las constancias relativas.
+ARTICULO 333 (Substanciación).- El Tribunal Superior de Justicia en el plazo de cuarenta y ocho horas, le dará entrada a la queja y requerirá al Juzgador de Primera Instancia, a quien se le imputa la conducta omisiva que ha dado lugar a la queja, para que rinda informe dentro del plazo de tres días y envíe las constancias relativas.
 
 Transcurrido este plazo, con informe o sin él, se dictará la resolución que proceda, y si se estima probada la omisión, el Tribunal de Segunda Instancia requerirá al Juzgador para que cumpla con la obligación respectiva dentro del plazo de tres días. La falta del informe a que se refiere el párrafo anterior, establece la presunción de ser cierta la omisión atribuida y hará incurrir al juez en multa de diez a cien veces el salario mínimo vigente en el momento y lugar en que hubiere ocurrido la omisión.
 
@@ -1889,7 +1949,7 @@ ARTICULO 322 (Obligación de expresar los motivos de inconformidad).- El juzgado
 
 ARTICULO 323 (Prohibición de reformar la resolución apelada en perjuicio del imputado).- Si solamente hubiera apelado el procesado o su defensor, no se podrá aumentar la sanción impuesta en la sentencia recurrida.
 
-ARTICULO 324 (Reclasificación).- El tribunal podrá cambiar la clasificación del delito únicamente en apelación contra un auto de procesamiento o de libertad, orden de aprehensión o de citación para preparatoria.
+ARTICULO 324 Reclasificación).- El tribunal podrá cambiar la clasificación del delito únicamente en apelación contra un auto de procesamiento o de libertad, orden de aprehensión o de citación para preparatoria.
 
 ARTICULO 325 (Falta de competencia del Juez de Primera Instancia).- Cuando el Juzgador de apelación advierta que el Juez de Primera Instancia no tenía competencia, remitirá el expediente al Juzgador competente, por conducto del Juzgador incompetente, comunicando a éste que debe inhibirse. En este caso, serán válidas todas las actuaciones practicadas por el Juzgador incompetente, salvo la sentencia definitiva, en su caso.
 
@@ -1983,7 +2043,7 @@ El Juzgador requerido dará un plazo común de tres días a las partes para que 
 
 ARTICULO 350 (Resolución del Tribunal Superior de Justicia).- Cuando conforme al artículo 16 de este Código el conflicto de competencia deba ser resuelto por el Tribunal Superior de Justicia, éste emitirá su resolución dentro del plazo de diez días contados a partir de la fecha en que reciba el o los incidentes; en el caso de que se determine procedente la incompetencia planteada, el Tribunal Superior de Justicia ordenará lo conducente a fin de que el procedimiento sea continuado por el Juez declarado competente.
 
-ARTICULO 351 ( Validez de las actuaciones del Juzgador incompetente).- Lo actuado por un Juzgador incompetente será válido. El Juzgador declarado competente que reciba las actuaciones del incompetente, continuará el proceso a partir del último acto realizado por el primero.
+ARTICULO 351 (Validez de las actuaciones del Juzgador incompetente).- Lo actuado por un Juzgador incompetente será válido. El Juzgador declarado competente que reciba las actuaciones del incompetente, continuará el proceso a partir del último acto realizado por el primero.
 
 ARTICULO 352 (Tramitación por separado).- Los incidentes sobre competencia se tramitarán siempre por separado.
 
@@ -2049,7 +2109,7 @@ ARTICULO 339 (Internamiento provisional del enfermo mental en las diligencias de
 
 ARTICULO 340 (Declaración Preparatoria y Nombramiento de Defensor).- Si durante la diligencia de la declaración preparatoria, el Juzgador estima que el inculpado se encuentra en alguno de los estados a que se refiere el artículo anterior, que lo imposibilite para la práctica de la diligencia, se abstendrá de llevarla a cabo. Si el Juzgador considera que el inculpado se encuentra en condiciones de nombrar defensor, le hará saber el derecho que tiene de hacerlo. En caso contrario, el nombramiento lo podrá hacer el tutor del inculpado, si lo tiene, su cónyuge, sus ascendientes o descendientes en primer grado o, en su defecto, el Juzgador.
 
-ARTICULO 341 (Auto de procesamiento).- Para que el internamiento provisional pueda prolongarse por más de setenta y dos horas, deberá justificarse con auto que se dicte en los términos y para los efectos que señala el artículo 19 Constitucional.
+ARTICULO 341 (Auto de Procesamiento).- Para que el internamiento provisional pueda prolongarse por más de setenta y dos horas, deberá justificarse con auto que se dicte en los términos y para los efectos que señala el artículo 19 Constitucional.
 
 ARTICULO 342 (Dictamen pericial).- Cuando haya motivo fundado para suponer que el inculpado es inimputable, en los términos del Código Penal, el Juzgador lo mandará examinar por peritos, quienes dentro de un plazo de treinta días dictaminarán sobre su estado mental y ordenará, en su caso, que se le interne en el establecimiento especial, si procede.
 
@@ -2257,7 +2317,7 @@ La presente Ley entrará en vigor a partir del día siguiente al de su publicaci
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 
-P.O. 02 DE ABRIL DE 1999.
+P.O. 2 DE ABRIL DE 1999.
 
 ###### ARTICULO PRIMERO.
 
@@ -2285,9 +2345,11 @@ La presente ley entrará en vigor al día siguiente al de su publicación en el 
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a los establecido en la presente ley.
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en la presente ley.
 
 P.O. 23 DE AGOSTO DE 2002
+
+LEY QUE ADICIONA LA FRACCION XX AL ARTICULO 121 DEL CODIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -2298,6 +2360,8 @@ La presente Ley iniciará su vigencia al día siguiente de su publicación en el
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente.
 
 P.O. 23 DE AGOSTO DE 2002
+
+LEY QUE ADICIONA LA FRACCION XXII AL ARTICULO 121 DEL CODIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -2332,3 +2396,9 @@ P.O. 3 DE OCTUBRE DE 2003.
 Primero.- La presente ley entrará en vigor el día de publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente ley.
+
+P.O. 19 DE MARZO DE 2004.
+
+Primero.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"..
+
+Segundo.- En los procedimientos penales que se encuentren en trámite por los delitos de violación o secuestro, las víctimas o los ofendidos que sean menores de edad, podrán solicitar en su favor, la aplicación inmediata de los beneficios que les otorga la presente ley.
