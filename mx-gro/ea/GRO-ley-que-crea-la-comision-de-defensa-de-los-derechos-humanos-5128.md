@@ -4,7 +4,7 @@ identifier: "GRO-ley-que-crea-la-comision-de-defensa-de-los-derechos-humanos-512
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-26"
-last_updated: "1990-09-26"
+last_updated: "1992-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY QUE CREA LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS Y ESTABLECE EL PROCEDIMIENTO EN MATERIA DE DESAPARICION INVOLUNTARIA DE PERSONAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 26 de septiembre de 1990.
 
@@ -35,7 +35,7 @@ LA QUINCUAGESIMA TERCERA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y S
 
 LEY QUE CREA LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS Y ESTABLECE EL PROCEDIMIENTO EN MATERIA DE DESAPARICION INVOLUNTARIA DE PERSONAS.
 
-## TITULO I. DISPOSICIONES GENERALES
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPITULO UNICO. REGLAS GENERALES
 
@@ -55,7 +55,7 @@ En la aplicación de las disposiciones de esta Ley, estarán obligados a colabor
 
 La violación de este precepto será causa de responsabilidad para los servidores públicos y de sanción a los particulares, en los términos de las disposiciones aplicables y de la presente Ley.
 
-## TITULO II. DE LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO DE GUERRERO
+## TITULO SEGUNDO. DE LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO DE GUERRERO
 
 ### CAPITULO I. NATURALEZA Y OBJETO
 
@@ -64,6 +64,10 @@ La violación de este precepto será causa de responsabilidad para los servidore
 Se crea la Comisión de Defensa de los Derechos Humanos del Estado de Guerrero, como un organismo con personalidad jurídica y patrimonio propios; de integración plural, con la participación de la sociedad civil, dotado de autonomía técnica y operativa; con relación directa con el Titular del Poder Ejecutivo y sin intermediación alguna, para efectos de comunicación y auxilio material, pero sin estar sometido a su mando. Su actuación, en cuanto a la protección de los derechos humanos en los casos específicos, será de carácter jurídico.
 
 La Comisión, a través de su Presidente, podrá actuar como órgano de autoridad, en los casos que previene el artículo 16 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1992)</small>
+
+La Comisión de Defensa de los Derechos Humanos del Estado de Guerrero, tendrá la facultad de elaborar su anteproyecto de presupuesto anual de egresos, el cual remitirá directamente a la Secretaría de Finanzas y Administración, para el trámite correspondiente, equivalente por lo menos al 10% del presupuesto asignado a la Procuraduría General de Justicia.
 
 ###### ARTICULO 5o.
 
@@ -622,3 +626,9 @@ Rúbrica.
 El Secretario General de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 22 DE DICIEMBRE DE 1992.
+
+UNICO.- El presente Decreto surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
