@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-las-promotoras-para-el-desarrollo-de-las-18081"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-20"
-last_updated: "2000-10-20"
+last_updated: "2001-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE CREA LAS PROMOTORAS PARA EL DESARROLLO DE LAS COMUNIDADES RURALES Y POPULARES DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 2000.
 
@@ -291,23 +291,37 @@ La presente Ley entrará en vigor el día siguiente de su publicación en el Per
 
 Se abroga la Ley que Crea la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares publicada en el Periódico Oficial de fecha 10 de mayo de 1981, así como el Reglamento Interno de la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares.
 
-Continúan en vigor los actos, resoluciones, acuerdo y las disposiciones de carácter general emitidos con fundamento en la Ley que se abroga en lo que no se opongan a este ordenamiento.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
+Continúan en vigor los actos, resoluciones, acuerdo y las disposiciones de carácter general emitidos con fundamento en la Ley que se abroga en lo que no se opongan a este ordenamiento; así como los poderes, mandatos y, en lo general, las representaciones otorgadas y las facultades concedidas, hasta en tanto no sean modificadas o revocadas expresamente.
 
 ###### ARTÍCULO TERCERO.
 
-Los nombramientos de Consejeros del Consejo de Administración de la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares otorgados con fundamento en la Ley que se abroga, quedan sin efecto, salvo los contemplados en esta Ley.
+Los nombramientos de Consejeros del Consejo de Administración de la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares otorgados con fundamento en la Ley que se abroga, queda sin efecto, salvo los contemplados en esta Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
+Los nombramientos de Director General y del personal que así corresponda conforme a su naturaleza, de la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares, otorgados con fundamento en la Ley que se abroga, quedarán sin efecto el 31 de Diciembre del año 2000.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### ARTÍCULO CUARTO.
 
-Los derechos laborales de los trabajadores de la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares, serán respetados conforme a la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas para el Estado de Baja California, y demás disposiciones legales aplicables, quedando sujetos a esta Ley los empleados que forman o llegaren a formar parte de los organismos que se crean.
+Los derechos laborales de los trabajadores de la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares, serán respetados conforme a las disposiciones legales aplicables, quedando sujetos a éstas los empleados que forman o llegaren a formar parte de los organismos que se crean.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### ARTÍCULO QUINTO.
 
-Formarán parte del patrimonio de la Promotora para el Desarrollo de las Comunidades Rurales y Populares Mexicali, los bienes muebles e inmuebles, que se utilizaban en la Dirección General de la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares; tratándose de Promotora para el Desarrollo de las Comunidades Rurales y populares Tijuana, formarán parte de su patrimonio los bienes muebles e inmuebles, que se utilizaban en la Delegación de Tijuana de la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares, así como los utilizados en las ciudades de Ensenada, Tecate y Playas de Rosarito; lo que deberá formalizarse en un período no mayor de 30 días a partir de la entrada en vigor de esta Ley.
+Formarán parte del patrimonio de la Promotora para el Desarrollo de las Comunidades Rurales y Populares de Mexicali, los bienes muebles e inmuebles, que se utilizaban en la Dirección General de la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares; tratándose de la Promotora para el Desarrollo de las Comunidades Rurales y Populares Tijuana, formarán parte de su patrimonio los bienes muebles e inmuebles, que se utilizaban en la Delegación de Tijuana de la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares, así como los utilizados en las ciudades de Ensenada, Tecate y Playas de Rosarito; lo que deberá formalizarse por la Comisión Intersectorial a que se refiere el Artículo Décimo Transitorio de esta Ley, de acuerdo al procedimiento y en los plazos que la misma determine.
 
 ###### ARTÍCULO SEXTO.
 
 Corresponderá a la Promotora para el Desarrollo de las Comunidades Rurales y Populares Mexicali, por lo que se refiere al ejercicio fiscal del año 2000, los recursos presupuestales fijados en el Presupuesto de Egresos para el año 2000 para la Dirección General de la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares, para ejercer en el Municipio de Mexicali; asimismo, corresponderá a la Promotora para el Desarrollo de las Comunidades Rurales y Populares Tijuana, en cuanto al ejercicio fiscal del año 2000, los recursos presupuestales fijados en el Presupuesto de Egresos del 2000 para la Delegación de Tijuana de la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares, así como lo presupuestado para ejercerse en los Municipios de Ensenada, Tecate y Playas de Rosarito.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
+La transferencia de los recursos presupuestales anteriores, se formalizará por conducto de la Comisión Intersecretarial a que se refiere el Artículo Décimo Transitorio de esta Ley, de conformidad con los lineamientos y plazos que la misma determine.
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -315,21 +329,33 @@ Los créditos fiscales generados a favor de la Promotora Estatal para el Desarro
 
 En relación a los créditos fiscales generados a favor de la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares, que hasta la fecha de entrada en vigor de la presente Ley queden sin cubrir, por obras realizadas en los Municipios de Tijuana, Ensenada, Tecate y Playas de Rosarito, pasarán a formar parte del patrimonio de la Promotora para el Desarrollo de las Comunidades Rurales y Populares Tijuana.
 
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
+La cesión de los créditos referidos en los párrafos procedentes, se formalizará en la forma y plazos que determine la Comisión Intersecretarial a que se refiere el Artículo Décimio (sic) Transitorio de esta Ley.
+
 ###### ARTÍCULO OCTAVO.
 
 Las obligaciones financieras, jurídicas y administrativas, inherentes al ejercicio de las atribuciones de la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares, contraidas en el ámbito competencial del Municipio de Mexicali, quedarán bajo la responsabilidad de la Promotora para el Desarrollo de las Comunidades Rurales y Populares Mexicali, a partir de la entrada en vigor de esta Ley. Las obligaciones financieras, jurídicas y administrativas, inherentes al ejercicio de las atribuciones de la Promotora Estatal para el Desarrollo de las Comunidades rurales y Populares, contraídas en el ámbito competencial de los Municipios de Tijuana, Ensenada, Tecate y Playas de Rosarito, quedarán bajo la responsabilidad de la Promotora para el Desarrollo de las Comunidades Rurales y Populares Tijuana, a partir de la entrada en vigor de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
+La subrogación de las obligaciones a que se refiere este Artículo, se formalizará mediante el procedimiento que determine la Comisión Intersecretarial prevista en el Artículo Décimo Transitorio de esta Ley.
 
 ###### ARTÍCULO NOVENO.
 
 En un plazo de noventa días contados a partir de la vigencia de esta Ley, los organismos deberán formular y aprobar su respectivo Reglamento Interior al que sujetarán su funcionamiento, remitiéndolo al Ejecutivo del Estado para su expedición y publicación.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### ARTÍCULO DÉCIMO.
 
-La Coordinación de Desarrollo Social del Estado, así como las de Asentamientos Humanos y Obras Públicas y, de Planeación y Finanzas, en el ámbito atribucional que les corresponda, serán las encargadas de esclarecer las dudas y controversias que surjan por la aplicación de los artículos transitorios, quinto, sexto, séptimo y octavo que anteceden.
+La Coordinadora de Desarrollo Social del Estado, la Dirección de Control y Evaluación Gubernamental y las Secretarías de Asentamientos Humanos y Obras Públicas y, de Planeación y Finanzas, conformarán la Comisión Intersecretarial que tendrá como finalidad establecer los procedimientos y plazos en que se deberá dar cumplimiento a los actos a que se refieren los Artículos Transitorios Quinto, Sexto, Séptimo y Octavo de la Ley que Crea las Promotoras para el Desarrollo de las Comunidades Rurales y Populares del Estado de Baja California, así como aquellos que sean necesarios para la extinción de entidad prevista en la Ley abrogada y, para la formalización de la creación de los organismos establecidos en esta Ley.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### ARTÍCULO DECIMO PRIMERO.
 
-El Consejo tendrá noventa días naturales a partir de la entrada en vigor de la Ley, para proceder a su instalación conforme al crecimiento poblacional en los diversos municipios del Estado.
+Los Consejos de Administración tendrán un plazo de hasta treinta días, a partir de la entrada en vigor de este Decreto, para proceder a su instalación, de conformidad con la Ley que Crea las Promotoras para el Desarrollo de las Comunidades Rurales y Populares del Estado de Baja California.
 
 DADO en el Salón de Sesiones "Lic. Benito Juárez García" del Honorable Poder Legislativo, en la Ciudad de Mexicali, Baja California, a los doce días del mes de octubre del año dos mil.
 
@@ -352,3 +378,11 @@ C.P. JORGE RAMOS
 EL OFICIAL MAYOR DE GOBIERNO ENCARGADO DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA POR MINISTERIO DE LEY
 
 LIC. SALVADOR MORALES MUÑOZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE FEBRERO DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
