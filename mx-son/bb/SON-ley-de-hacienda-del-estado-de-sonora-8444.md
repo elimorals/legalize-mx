@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1977-08-17"
+last_updated: "1977-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE AGOSTO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1977.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -287,6 +287,10 @@ El valor catastral será determinado por la Tesorería General del Estado, el cu
 
 Todos los predios del Estado, aún los que estén beneficiados por las exenciones, deberán ser objeto del avalúo; excepto los predios rústicos ejidales aprovechados para la producción agropecuaria.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
+La Tesorería General del Estado formulará tablas generales de valores para unidades tipo de edificación y planos de cada ciudad con valores de calle, para ser aplicados a los respectivos lotes tipo. La determinación del lote tipo, se hará de acuerdo con la naturaleza de la región, destino de los predios y sus dimensiones dominantes, pudiéndose hacer divisiones de cada región en secciones con tipos diferentes en cada una. Las tablas y planos a que se refiere este apartado, deberán publicarse en el Boletín Oficial del Estado y entrar en vigor a partir de la fecha que se señale en cada uno de los acuerdos respectivos.
+
 ###### Artículo 17.
 
 Se considera que el valor catastral es provisional:
@@ -503,7 +507,9 @@ Una vez que el convenio para la autorización del fraccionamiento sea elevado a 
 
 La Dirección de Comunicaciones y Obras Públicas del Estado dará aviso a la Tesorería General del Estado, de la terminación de las obras de urbanización del fraccionamiento de que se trate, dentro de los quince días siguientes.
 
-Recibido el aviso a que se refiere el párrafo anterior, la Tesorería General del Estado deberá:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
+Recibido el aviso a que se refiere el párrafo anterior o en aquellos casos en los que el fraccionador fuere autorizado para celebrar operaciones de compra-venta; promesas de venta; promesas de venta; ventas con reserva de dominio o cualquier otro contrato preparatorio o preliminar, antes de la terminación de las obras de urbanización, la Tesorería del Estado deberá:
 
 I.- Empadronar los lotes del fraccionamiento, los cuales se considerarán como nuevos predios;
 
@@ -755,7 +761,9 @@ e).- Aves de corral y huevo, en operaciones subsecuentes a las de primera mano;
 
 f).- Legumbres, verduras y frutas en estado natural, siempre que no se modifique su forma, estado o composición, en operaciones subsecuentes a las de primera mano;
 
-g).- Tortillas, masa de nixtamal, harina de maíz, harina de trigo y pan, excepto pastel;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
+g).- Tortillas, masa de nixtamal, harina de maíz, pan, excepto pastel, y pastas alimenticias sin relleno en ventas de primera mano que produzcan los propios fabricantes que las expendan;
 
 h).- Leche natural, condensada, evaporada, deshidratada o enlatada;
 
@@ -765,7 +773,7 @@ j).- Huaraches y sombreros de palma;
 
 k).- Aguas purificadas, destiladas o potables, no gaseosas ni compuestas, así como hielo con excepción del anhídrido carbónico;
 
-l).- Miel de abeja; y
+l).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1977)
 
 > <small>(ADICIONADA, B.O. 4 DE JUNIO DE 1977)</small>
 
@@ -837,13 +845,13 @@ De las Tasas
 
 La tasa del impuesto será:
 
-(REFORMADA, B.O. 4 DE JUNIO DE 1977) (F. DE E., B.O. 18 DE JUNIO DE 1977)
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1977)</small>
 
-I.- De 1.4% para los ingresos comprendidos en los artículos 70, excepción de los señalados en los incisos k), l) y ll), de la Fracción III y 71, excepción de los señalados en la fracción IV;
+I.- De 1.4% para los ingresos comprendidos en los Artículos 70, excepción de los señalados en el inciso k) y ll) de la fracción III, y 71, excepción de los señalados en la fracción IV; y
 
-(REFORMADA, B.O. 4 DE JUNIO DE 1977) (F. DE E., B.O. 18 DE JUNIO DE 1977)
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1977)</small>
 
-II.- De 1.8% para los ingresos a que aluden los artículos 70, en su fracción III incisos K), l) y ll) y 71 en su fracción IV.
+II.- De 1.8% para los ingresos a que aluden los Artículos 70, en su fracción III inciso k) y ll), y 71 en su fracción IV.
 
 ###### Artículo 78.
 
@@ -955,9 +963,11 @@ De las Declaraciones y Pago del Impuesto
 
 El pago del Impuesto deberá hacerse dentro de los días 1o. al 20 de cada mes, mediante una declaración de los ingresos que se hayan obtenido en el mes inmediato anterior. El impuesto mínimo que deberán pagar los contribuyentes no podrá ser menor de $35.00 mensuales.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE DICIEMBRE DE 1977)</small>
+
 ###### Artículo 94.
 
-Los contribuyentes con ingresos anuales hasta de $1'500,000.00, podrán optar por cubrir el impuesto mediante la aceptación de una cuota fija mensual que determinará la Tesorería General del Estado.
+Los contribuyentes con ingresos anuales hasta de $1´500,000.00, podrán optar por cubrir el Impuesto mediante la aceptación de una cuota fija mensual que determinará la Tesorería General del Estado, en cuyo caso el Impuesto se pagará dentro de los primeros quince días del mes a que corresponda.
 
 ###### Artículo 95.
 
@@ -1287,7 +1297,9 @@ I.- 1.8% sobre el monto total de los ingresos a que se refieren las fracciones I
 
 II.- 4% sobre el monto total de los ingresos a que se refiere la fracción III del artículo 143.
 
-Los giros comprendidos en esta fracción, párrafo precedente, podrán pagar el impuesto mediante una cuota fija mensual, a juicio de la Tesorería General del Estado, que será en proporción a los ingresos del período anterior, como sigue:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
+Los giros comprendidos en las fracciones I y II precedentes, podrán pagar el impuesto mediante una cuota fija mensual, a juicio de la Tesorería General del Estado, que será en proporción a los ingresos del período anterior, como sigue:
 
 a).- Cantinas, según su importancia, de $1,625.00 a $12,500.00;
 
@@ -1313,7 +1325,15 @@ h).- Cabarets y cantinas, dentro de hoteles y centros de turismo de $2,450.00 a 
 
 i).- Cabarets, según su importancia y ubicación, de $3,000.00 a $12,500.00;
 
-j).- Establecimientos con ventas al copeo según su ubicación, atendidos por mujeres, de $3,000.00 a $ 12,500.00.
+j).- Establecimientos con ventas al copeo según su ubicación, atendidos por mujeres, de $3,000.00 a $ 12,500.00;
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
+k).- Los establecimientos con ventas por botella cerrada de $1,725.00 a $11,500.00;
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
+l).- Los establecimientos con ventas por botella cerrada, anexos a supermercados de $750.00 a $11,500.00.
 
 ###### Artículo 148.
 
@@ -1341,9 +1361,11 @@ El impuesto sobre Producción Agrícola, grava los productos no industrializados
 
 La base del Impuesto es el valor de la cosecha bruta al momento de levantarse.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
 ###### Artículo 153.
 
-Es sujeto del impuesto el agricultor, pero están solidariamente obligados al pago los adquirentes de primera mano de los productos agrícolas, así como los almacenistas y demás personas y sociedades que operen con los productos gravados.
+Es sujeto del Impuesto el agricultor, pero están solidariamente obligados al pago los adquirientes de primera mano de los productos agrícolas, así como los almacenistas y demás personas y sociedades que operen con los productos gravados, incluyendo a los Agentes Aduanales.
 
 ###### Artículo 154.
 
@@ -1649,11 +1671,49 @@ Los sujetos de este impuesto deberán pagarlo dentro de los días 1o. al 20 del 
 
 Los sujetos de este impuesto deberán registrarse en la oficina recaudadora de su domicilio, dentro de los diez días siguientes a la iniciación de sus operaciones.
 
-#### Sección Primera. Del Impuesto Sobre Traslación de Dominio
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
+#### Sección Cuarta. Del Impuesto a la Apicultura
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 182 Bis.
+
+Es objeto de este impuesto, la enajenación de primera mano de los productos de plantas o granjas apícolas.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 182 Bis 1.
+
+Son sujetos de este impuesto los propietarios de las plantas o granjas apícolas.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 182 Bis 2.
+
+La base del Impuesto es el valor de la enajenación de primera mano que realicen los apicultores.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 182 Bis 3.
+
+La tasa del Impuesto será de 1.8% sobre el valor de la enajenación.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 182 Bis 4.
+
+Los sujetos de este impuesto deberán pagarlo dentro de los días 1o. al 20 del mes siguiente a la enajenación de lo gravado por este impuesto, mediante la presentación de una declaración.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 182 Bis 5.
+
+Los sujetos de este impuesto deberán registrarse en la oficina recaudadora de su domicilio, dentro de los diez días siguientes a la iniciación de operaciones.
 
 ### Capítulo Quinto. De los Impuestos Sobre Capitales
 
-#### Sección Segunda. Del Impuesto Sobre Productos o Rendimientos de Capital y Otros Ingresos
+#### Sección Primera. Del Impuesto Sobre Traslación de Dominio
 
 ###### Artículo 183.
 
@@ -1799,7 +1859,7 @@ El encargado del Registro Público de la Propiedad no registrará la operación 
 
 Cuando las operaciones se celebren fuera del Estado, sobre bienes situados dentro de sus limites, el impuesto se pagará antes de ratificase el contrato ante notario si debe llenarse este requisito o en caso contrario antes de inscribir la escritura o contrato en el Registro Público. Si el contrato no debe ser registrado, el impuesto se pagará dentro de los treinta días siguientes a la celebración de la operación.
 
-#### Sección Primera. Del impuesto Sobre Remuneraciones al Trabajo Personal
+#### Sección Segunda. Del Impuesto Sobre Productos o Rendimientos de Capital y Otros Ingresos
 
 ###### Artículo 198.
 
@@ -1947,11 +2007,13 @@ Tampoco podrán los encargados del Registro Público cancelar las inscripciones 
 
 Los Notarios, Jueces y Encargados del Registro Público de la Propiedad que no dén cumplimiento a las obligaciones que se les imponen y que traigan consigo la omisión total o parcial de créditos fiscales a cargo de los sujetos del impuesto, son solidariamente responsables en el pago de los mismos.
 
+#### Sección Primera. Del impuesto Sobre Remuneraciones al Trabajo Personal
+
 #### Sección Segunda. Del Impuesto a la Prestación de Servicios bajo la Dirección y Dependencia de un Tercero
 
-#### Sección Tercera. Del Impuesto al Ejercicio de Profesiones Liberales, Artísticas e Innominadas
-
 ### Capítulo Sexto. De los Impuestos Sobre Productos del Trabajo
+
+#### Sección Tercera. Del Impuesto al Ejercicio de Profesiones Liberales, Artísticas e Innominadas
 
 ###### Artículo 213.
 
@@ -3081,31 +3143,23 @@ a los avisos anteriores, por cada palabra 1.50
 
 Según acuerdo de la secretaría de Comunicaciones y Transportes publicado en el Diario Oficial número 32 de fecha 15 de Octubre de 1975 y Decreto Presidencial del 12 de Enero de 1972, las placas tipo único para todos los vehículos, se clasifican en los siguientes grupos y se expedirán bianualmente, conforme a las especificaciones y tarifas que siguen:
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
 1.- DE TRANSPORTE PRIVADO: Que deberán
 
 ostentar los vehículos de propulsión mecánica
 
 para uso particular. Estas placas solicitadas
 
-dentro de los primeros nueve meses del bienio,
+durante el primer año del bienio, causaran
 
-causarán una cota de $160.00
+una cuota de $60.00
 
-Cuando se soliciten dentro delos (sic) últimos
+Cuando se soliciten durante el segundo año del
 
-tres meses del primero año del bienio, causarán
+bienio 80.00
 
-cuota de 120.00
-
-Cuando se soliciten dentro de los primeros nueve
-
-meses del segundo año del bienio, causarán una
-
-cuota de 30.00
-
-Cuando se soliciten dentro de los últimos tres meses
-
-del bienio, causarán una cuota de 40.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
 
 2.- DE SERVICIO PUBLICO LOCAL: Que deberán
 
@@ -3113,57 +3167,15 @@ ostentar los vehículos de propulsión mecánica que
 
 se utilicen para prestar servicio de transporte de
 
-personas o cosas dentro del Estado, cuando se
+personas o cosas dentro del Estado. Cuando
 
-soliciten dentro de los primeros nueve meses del
+soliciten dentro del primer año del bienio 100.00
 
-bienio, causarán una cota de $00.00
+Cuando se soliciten dentro del segundo año del
 
-Cuando se soliciten dentro de los últimos tres
+bienio 50.00
 
-meses del primer año del bienio, causarán una
-
-cota de 75.00
-
-Cuando se soliciten dentro de los primeros
-
-nueve meses del segundo año del bienio,
-
-causarán una cota de 50.00
-
-Cuando se soliciten dentro de los últimos tres
-
-meses del segundo año del bienio, causarán
-
-una cota de 25.00
-
-3.- POR SERVICIO PUBLICO FEDERAL: Que
-
-deberán ostentar los vehículos de propulsión
-
-mecánica en general, para transmitir dentro
-
-de la República Mexicana. Estas placas cuando
-
-sean solicitadas dentro de los primeros nueve
-
-meses del bienio, causarán una cuota de 100.00
-
-Cuando se soliciten dentro de los últimos tres
-
-meses del primer año del bienio, causarán una
-
-cuota de 75.00
-
-Cuando se soliciten dentro de los primeros nueve
-
-meses del segundo año del bienio, causarán una
-
-cuota de 50.00
-
-Cuando se solicite dentro de los últimos tres meses
-
-del segundo año del bienio, causarán una cuota de 25.00
+3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1977)
 
 4.- PLACAS FRONTERIZAS: Ostentarán placas
 
@@ -3177,11 +3189,7 @@ uso a que se destine el vehículo, conforme a las
 
 especificaciones anteriores,
 
-5.- DE TRASLADO: Que estarán a cargo de la
-
-Secretaría de Comunicaciones y que se suministrarán
-
-a través de su Delegación de Tránsito en el Estado.
+5.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1977)
 
 ###### Artículo 313.
 
@@ -3722,3 +3730,7 @@ UNICO.- Esta Ley entrará en vigor tres días después de su publicación en el 
 B.O. 17 DE AGOSTO DE 1977.
 
 UNICO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+B.O. 31 DE DICIEMBRE DE 1977.
+
+UNICO.- Esta Ley entrará en vigor el día primero de Enero de 1978, previa publicación en el Boletín Oficial del Estado.
