@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2002-05-22"
+last_updated: "2002-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -623,9 +623,9 @@ VIII.- Estimular, incrementar y orientar la curiosidad de las niñas y de los ni
 
 IX.- Inculcar en los niños el respeto a la propiedad pública y privada; y
 
-> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2002)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
-X.- Impulsar la creación de la cultura al no graffiti.
+X.- Fomentar en los educandos una cultura sobre el cuidado del agua.
 
 #### SECCIÓN VIII. DE LA EDUCACIÓN PARA ADULTOS
 
@@ -685,7 +685,11 @@ XIII.- Fomentar en los niños y niñas el respeto a la propiedad privada y públ
 
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2002)</small>
 
-XIV.- Impulsar la creación de la cultura al no graffiti o pintas.
+XIV.- Impulsar la creación de la cultura al no graffiti o pintas;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+XV.- Fomentar en los educandos una cultura sobre el cuidado del agua.
 
 ###### Artículo 41.
 
@@ -737,7 +741,11 @@ VIII.- Favorecer el proceso de socialización, fomentando la participación acti
 
 IX.- Propiciar la acción liberadora de la educación cambatiendo (sic) la marginación y sujeción persistentes; y
 
-X.- Impulsar el conocimiento y la capacitación del desarrollo sostenido y sustentable de sus comunidades.
+X.- Impulsar el conocimiento y la capacitación del desarrollo sostenido y sustentable de sus comunidades;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+XI.- Fomentar en los educandos una cultura sobre el cuidado del agua.
 
 ###### Artículo 46.
 
@@ -833,7 +841,11 @@ XII.- Concientizar al educando sobre el respeto a la propiedad privada y públic
 
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2002)</small>
 
-XIII.- Concientizar al educando, que el graffiti o pintas que dañan propiedades privadas o públicas representan un delito.
+XIII.- Concientizar al educando, que el graffiti o pintas que dañan propiedades privadas o públicas representan un delito;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)</small>
+
+XV (sic).- Fomentar en los educandos una cultura sobre el cuidado del agua.
 
 ###### Artículo 58.
 
@@ -2058,3 +2070,7 @@ P.O. 22 DE MAYO DE 2002.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
