@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-la-cultura-11964"
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-19"
-last_updated: "1991-01-19"
+last_updated: "1999-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO CHIHUAHUENSE DE LA CULTURA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 19 de enero de 1991.
 
@@ -41,9 +41,11 @@ DECRETA:
 
 LEY DEL INSTITUTO CHIHUAHUENSE DE LA CULTURA
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 1.
 
-Se declaran de orden público e interés social las actividades culturales, así como la promoción y la difusión de las mismas.
+Se declaran de orden público e interés social las actividades Culturales, Humanísticas y Científicas, así como la promoción y la difusión de las mismas.
 
 ###### ARTICULO 2.
 
@@ -53,19 +55,29 @@ Se crea el Instituto Chihuahuense de la Cultura como un organismo público desce
 
 El Instituto Chihuahuense de la Cultura tiene los siguientes objetivos:
 
-I.- Promover las diversas formas y manifestaciones culturales de la entidad en el ámbito de la cultura nacional y universal;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
-II.- Rescatar, preservar, salvaguardar y difundir el patrimonio histórico y cultural de la entidad;
+I.- Promover las diversas formas y manifestaciones culturales de la Entidad, en el ámbito de la cultura regional, nacional y universal;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+II.- Rescatar, preservar, salvaguardar y difundir el patrimonio histórico y cultural de la Entidad, satisfaciendo los requerimientos de información del Gobierno del Estado y de la colectividad;
 
 III.- Apoyar y fortalecer las diversas manifestaciones que promuevan el desarrollo y enriquezcan el patrimonio y los valores culturales de los chihuahuenses;
 
 IV.- Promover y difundir la investigación cultural, la educación artística y las bellas artes, y procurar la formación y actualización de los recursos humanos dedicados a estas actividades;
 
-V.- Apoyar la consolidación de los centros culturales existentes y promover la creación de aquellos que garanticen la atención de los diversos aspectos culturales;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
-VI.- Promover el uso de los medios de comunicación masiva en las actividades culturales y artísticas y su difusión;
+V.- Apoyar la consolidación de los Centros Culturales, Humanísticos y Científicos existentes, así como promover la creación de aquellos que garanticen la atención de los diversos aspectos culturales;
 
-VII.- Propiciar y estimular el intercambio cultural a nivel municipal, regional, estatal, nacional e internacional, y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+VI.- Promover el uso de los medios de comunicación masiva en las actividades culturales y su difusión;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+VII.- Propiciar y estimular el intercambio cultural, humanístico y científico, a nivel municipal, regional, estatal, nacional e internacional, promoviendo los eventos que resulten convenientes para tales efectos y suscribir además los convenios que sean necesarios; y
 
 VIII.- Coadyuvar con los municipios en el diseño de una política cultural que atienda las necesidades y características de cada uno de ellos.
 
@@ -89,47 +101,43 @@ VII.- Ser el órgano representativo del Gobierno del Estado en materia cultural;
 
 VIII.- Las demás que señala esta Ley y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 5.
 
-Para el cumplimiento de sus objetivos y el ejercicio de sus atribuciones, el Instituto Chihuahuense de la Cultura tendrá la estructura orgánica y funcional que determine su reglamento interior debiendo necesariamente existir los siguientes órganos:
+Para el cumplimiento de sus objetivos y el ejercicio de sus atribuciones, el Instituto Chihuahuense de la Cultura tendrá la estructura normativa y funcional que determine su estatuto orgánico, debiendo necesariamente existir los siguientes órganos:
 
-I.- Consejo Estatal;
+I.- Director;
 
-II.- Comité Técnico;
+II.- Consejo Estatal;
 
-III.- Director.
+III.- Comité Técnico;
+
+IV.- Un Organo de Vigilancia.
+
+El órgano de vigilancia estará integrado por un Comisario Público propietario y un suplente, designados por la Contraloría del Estado, cuyas funciones serán las establecidas en la Ley de Entidades Paraestatales del Estado de Chihuahua.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 6.
 
 El Consejo Estatal es la máxima autoridad del Instituto y estará integrado por:
 
-I.- El Gobernador Constitucional del Estado;
+I.- El Titular de la Secretaría de Educación y Cultura, o por la persona que éste designe;
 
-II.- El Director General de Desarrollo Social;
+II.- El Titular de la Secretaría de Fomento Social;
 
-III.- El Coordinador de Planeación y Evaluación;
+III.- El Titular de la Secretaría de Planeación y Evaluación;
 
-IV.- El Coordinador de Fortalecimiento Municipal;
+IV.- El de la Secretaría de Desarrollo Municipal; y
 
-V.- El Jefe del Departamento de Educación del Estado;
+V.- Un representante de organismos sociales y uno de organismos privados que promuevan el desarrollo de las actividades culturales en el Estado, por invitación del Presidente del Consejo Estatal.
 
-VI.- El Presidente del Comité Técnico del Instituto;
-
-VII.- El Director del Instituto;
-
-VIII.- El Rector de la Universidad Autónoma de Chihuahua;
-
-IX.- El Rector de la Universidad Autónoma de Cd. Juárez;
-
-X.- Un representante de los Institutos Tecnológicos del Estado;
-
-XI.- El Director de Servicios y Coordinados de Educación Pública en el Estado; y
-
-XII.- Cuatro representantes de organismos sociales y privados que promuevan el desarrollo de las actividades culturales en el Estado, por invitación del Presidente del Consejo Estatal.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 7.
 
-El Presidente del Consejo Estatal será el Gobernador Constitucional del Estado, o la persona en quién delegue su representación. A su vez, cada miembro del Consejo para (sic) designar a su respectivo suplente.
+El Presidente del Consejo Estatal será el Secretario de Educación y Cultura, o la persona en quien delegue su representación. A su vez, cada miembro del Consejo podrá designar a su respectivo suplente.
 
 ###### ARTICULO 8.
 
@@ -137,7 +145,9 @@ El Consejo Estatal tiene las siguientes funciones:
 
 I.- Definir la política cultural del Gobierno del Estado;
 
-II.- Expedir el reglamento interior del Instituto;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+II.- Expedir el estatuto orgánico del Instituto;
 
 III.- Estudiar y, en su caso, aprobar los planes y programas del Instituto;
 
@@ -153,17 +163,21 @@ VII.- Las demás que le otorguen esta Ley y otras disposiciones legales aplicabl
 
 Los cargos en el Consejo Estatal serán honoríficos y, por lo tanto, quienes lo integren no recibirán retribución alguna.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 10.
 
-El Consejo sesionará en forma ordinaria cada cuatro meses y extraordinaria cuando lo convoque su Presidente.
+El Consejo sesionará en forma ordinaria cada dos meses y extraordinaria cuando lo convoque su Presidente.
 
 ###### ARTICULO 11.
 
 Las sesiones del Consejo Estatal se instalarán con la asistencia de la mitad más uno de sus integrantes y los acuerdos se tomarán por mayoría de votos de los miembros presentes, teniendo el Presidente voto de calidad en caso de empate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 12.
 
-El Comité Técnico estará integrado por un representante de cada una de las siguientes manifestaciones culturales, que destaque por su interés, conocimientos y participación:
+El Comité Técnico estará integrado por un representante de cada una de las siguientes manifestaciones culturales, que destaque por su interés, conocimiento y participación:
 
 I.- Literatura;
 
@@ -177,47 +191,57 @@ V.- Música;
 
 VI.- Patrimonio Histórico;
 
-VII.- Cultura Popular.
+VII.- Cultura Popular;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+VIII.- Culturas Etnicas; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+IX.- Cultura de Género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 13.
 
-Los miembros del Comité serán designados cada tres años por todos aquellos grupos, instituciones y asociaciones formalmente constituidos y dedicados al desarrollo cultural en el Estado, cada uno de los cuales designará a su representante, debidamente acreditado. El Presidente del Consejo Estatal convocará a los representantes para la elección del Comité, conforme al procedimiento que establezca el reglamento interior del Instituto.
+Los miembros del Comité serán designados cada tres años por todos aquellos grupos, instituciones y asociaciones formalmente constituidos y dedicados al desarrollo cultural en el Estado, cada uno de los cuales designará a su representante, debidamente acreditado ante el Instituto. El Presidente del Consejo Estatal convocará a los representantes para la elección del Comité, conforme al procedimiento que establezca el estatuto orgánico del Instituto.
 
 El Comité Técnico, una vez constituído, designará de entre sus miembros al coordinador del mismo, quien podrá ser removido libremente de su cargo por el propio Comité.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 14.
 
-El funcionamiento del Comité Técnico estará regulado por el reglamento interior del Instituto, el que deberá prever la conformación de comisiones que garanticen la participación de persona (sic) representativas de las diversas manifestaciones culturales.
+El funcionamiento del Comité Técnico estará regulado por el estatuto orgánico del Instituto, el que deberá prever la conformación de comisiones que garanticen la participación de personas representativas de las diversas manifestaciones culturales.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 15.
 
 El Comité Técnico tiene las siguientes funciones:
 
-I.- Contribuir en el diseño de la política cultural del Gobierno del Estado;
+I.- Contribuir en funciones consultivas, en el diseño de la política cultural del Instituto Chihuahuense de la Cultura;
 
-II.- Fungir como órgano de asesoría y consulta del Instituto en materia cultural;
+II.- Detectar y analizar las necesidades culturales de la entidad y proponer los proyectos adecuados para atenderlas;
 
-III.- Detectar y analizar las necesidades culturales de la entidad y elaborar los proyectos adecuados para atenderlas;
+III.- Evaluar las propuestas de planes, programas y proyectos culturales, bibliográficos y de informática que reciba el Instituto;
 
-IV.- Evaluar y aprobar, en su caso, las propuestas de planes, programas y proyectos culturales que reciba el Instituto;
+IV.- Proponer modificaciones al estatuto orgánico del Instituto;
 
-V.- Participar en la elaboración de los planes y programas anuales que deban someterse a la aprobación del Consejo Estatal, así como en lo relativo a premios, subsidios, gratificaciones y becas que en materia cultural otorgue el Instituto;
+V.- Proporcionar al Director del Instituto la información que éste requiera para el desempeño de sus funciones;
 
-VI.- Elaborar proyectos de modificaciones al reglamento interior del Instituto;
+VI.- Propiciar el fomento, el desarrollo y la difusión de la cultura en los municipios;
 
-VII.- Proporcionar al Director del Instituto la información que este requiera para el desempeño de sus funciones;
+VII.- Dar seguimiento, dentro del ámbito de su competencia, a los acuerdos del Consejo Estatal; y
 
-VIII.- Propiciar el fomento, el desarrollo y la difusión de la cultura en los municipios;
+VIII.- Las demás que señalen esta ley y otras disposiciones legales aplicables.
 
-IX.- Dar seguimiento, dentro del ámbito de su competencia, a los acuerdos del Consejo Estatal;
-
-X.- Participar en el proceso de selección del personal técnico del Instituto relacionado directamente con actividades culturales; y
-
-XI.- Las demás que señalen esta ley y otras disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 16.
 
-Los miembros del Comité Técnico percibirán las remuneraciones que determine el Presupuesto de Egresos.
+El cargo de miembro del Comité Técnico será honorífico, por lo que no habrá lugar a remuneración alguna.
 
 ###### ARTICULO 17.
 
@@ -229,7 +253,9 @@ El Director del Instituto será designado y removido libremente por el Gobernado
 
 I.- Representar al Instituto como mandatario con todas las facultades generales y las particulares que requieran cláusula especial conforme a la Ley, sin limitación alguna, en los términos del Código Civil para el Estado. Tendrá facultades para actos de administración, dominio y para pleitos y cobranzas; así como para formular querellas, pudiendo conferir y revocar poderes generales y especiales, sin perder por ello la posibilidad de su ejercicio directo;
 
-II.- Concertar, vincular y coordinar con los distintos organismos, instituciones, grupos y personas que tengan como objetivo fomentar la participación cultural y artística;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+II.- Concertar, vincular y coordinar con los distintos organismos, instituciones, grupos y personas que tengan como objetivo fomentar la participación cultural, humanística y científica;
 
 III.- Elaborar los planes y programas anuales del Instituto con la participación que corresponda al Comité Técnico y someterlos a la aprobación del Consejo Estatal;
 
@@ -255,7 +281,9 @@ XII.- Las demás que le señalen esta Ley y otras disposiciones legales aplicabl
 
 El patrimonio del Instituto estará constituído por:
 
-I.- Los bienes muebles e inmuebles que destine el Gobierno del Estado para el desarrollo de sus actividades culturales y los de todos los centros e instituciones culturales que formen parte del Instituto;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+I.- Los bienes muebles e inmuebles que destine el Gobierno del Estado para el desarrollo de sus actividades culturales y los de todos los centros e instituciones culturales, humanísticas y científicas que formen parte del Instituto;
 
 II.- Las aportaciones que hagan en su favor los Gobiernos Federal, Estatal y Municipal;
 
@@ -265,15 +293,19 @@ IV.- Los beneficios que obtenga en su propio patrimonio y los ingresos que perci
 
 V.- Todos los demás bienes que se le asignen por cualquier medio legal.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 20.
 
-El Instituto administrará su patrimonio de acuerdo a lo que establezca el reglamento interior.
+El Instituto administrará su patrimonio de acuerdo a lo que establezca el estatuto orgánico.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 21.
 
-El Instituto contará con un fondo estatal para la cultura y las artes, que se constituirá con aportaciones de los sectores público, social y privado, y cuyo destino será el fomento de las actividades culturales.
+El Instituto contará con un fondo estatal para la cultura, que se constituirá con aportaciones de los sectores público, social y privado, y cuyo destino será el fomento de las actividades culturales.
 
-El Reglamento Interior del Instituto establecerá los objetivos específicos, la conformación y la aplicación del fondo, debiendo prever que para su operación se nombre a un representante de cada uno de los sectores mencionados.
+El estatuto orgánico del Instituto establecerá los objetivos específicos, la conformación y la aplicación del fondo, debiendo prever que para su operación se nombre a un representante de cada uno de los sectores culturales mencionados.
 
 ###### ARTICULO 22.
 
@@ -332,3 +364,31 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los trece días del mes de diciembre de mil novecientos noventa.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. FERNANDO BAEZA MELENDEZ. EL SECRETARIO DE GOBIERNO. LIC. MARTHA I. LARA ALATORRE.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE DICIEMBRE DE 1999.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto 670/85 que en su momento creó al Centro de Información del Estado de Chihuahua.
+
+###### ARTÍCULO TERCERO.
+
+El personal de base que labora actualmente en el Centro de Información del Estado de Chihuahua, que en aplicación de este Decreto pase a depender del Instituto Chihuahuense de la Cultura, no resultará afectado en los derechos que haya adquirido en virtud de su relación laboral anterior, misma que en lo sucesivo se entenderá para todos los efectos con dicho Instituto.
+
+###### ARTÍCULO CUARTO.
+
+En los términos de los artículos que anteceden, los recursos patrimoniales, humanos y financieros del Centro de Información del Estado de Chihuahua pasarán a formar parte del Instituto Chihuahuense de la Cultura y se entregarán, bajo las formalidades administrativas procedentes, en un término de sesenta días. Los asuntos pendientes pasarán de inmediato al Instituto Chihuahuense de la Cultura para su trámite y resolución.
+
+###### ARTÍCULO QUINTO.
+
+Las facultades y obligaciones contenidas en otros ordenamientos se entenderán referidas al Instituto Chihuahuense de la Cultura, hasta en tanto se lleven a cabo las adecuaciones legales pertinentes.
+
+###### ARTÍCULO SEXTO.
+
+Las obligaciones que a la entrada en vigor del presente decreto haya contraído el Centro de Información del Estado de Chihuahua, se entenderán contraídas por el Instituto Chihuahuense de la Cultura.
