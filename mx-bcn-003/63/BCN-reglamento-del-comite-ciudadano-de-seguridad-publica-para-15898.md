@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-comite-ciudadano-de-seguridad-publica-para-15898
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-21"
-last_updated: "2000-01-21"
+last_updated: "2002-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DEL COMITE CIUDADANO DE SEGURIDAD PUBLICA PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 21 de enero de 2000.
 
@@ -145,27 +145,23 @@ Cuando los acuerdos del Comité comprendan acciones relacionadas con otro ámbit
 
 ### CAPITULO TERCERO. DE LA INTEGRACION DEL COMITÉ
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
+
 ###### Artículo 6.
 
-El Comité se integrará de la siguiente manera:
+El comité se integra de las (sic) siguiente manera:
 
-I. 9 ciudadanos, uno de los cuales fungirá como Presidente;
+I.- 15 Consejeros Ciudadanos, uno de los cuales fungirá como Presidente.
 
-II. 8 funcionarios gubernamentales, representados por:
+II.- 4 Consejeros Gubernamentales representados por:
 
-a) El Director de Seguridad Pública.
+a) Regidor Titular de la Comisión de Seguridad Publica.
 
-b) El regidor de la Comisión de Seguridad Pública.
+b) El Sindico Procurador.
 
-c) Delegados Municipales.
+c) El Secretario General del Ayuntamiento.
 
-d) Presidente del Patronato D.A.R.E.
-
-e) Sindico Procurador
-
-f) Coordinador de Jueces Calificadores.
-
-IIl. Un secretario técnico.
+d) El Director de Seguridad Pública, Transito y Transportes.
 
 ###### Artículo 7.
 
@@ -199,15 +195,17 @@ Para ser secretario técnico se deberán de cubrir los requisitos señalados en 
 
 El Ayuntamiento elegirá por insaculación a los ciudadanos que integran el comité, conforme al procedimiento mencionado en los artículos 11 y 12 de este reglamento.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
+
 ###### Artículo 11.
 
-El Ayuntamiento, para la designación de los ciudadanos que integrarán el comité, convocará públicamente, en el Periódico Oficial del Estado y en el diario de mayor circulación dentro del municipio, dentro de los primeros 15 días naturales del mes de Enero del año correspondiente al inicio de su trienio, a las asociaciones, organismos y agrupaciones e instituciones mencionadas en el artículo 8, fracción VIII, de este reglamento, a efecto de que por escrito presenten sus propuestas y acrediten la satisfacción de los requisitos mencionados en el antedicho artículo.
+El ayuntamiento, para la designación de los Ciudadanos que la (sic) integran el Comité convocara públicamente, en el diario de mayor circulación dentro del Municipio, dentro de los primeros 60 días naturales del primer año de su gestión, a las asociaciones, organismos y agrupaciones e instituciones mencionadas en el Artículo 8, Fracción VIII, de este reglamento, a efectos (sic) de que por escrito pregunten sus propuestas y acrediten la satisfacción de los requisitos mencionados en el antedicho Artículo.
 
-El plazo para la presentación de las propuestas será de treinta días naturales, contados a partir del día siguiente a aquel en que se lance la convocatoria.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
 
 ###### Artículo 12.
 
-Los ciudadanos miembros del Comité a que se hace referencia el artículo 10 de este reglamento, serán elegidos por insaculación por el Ayuntamiento, de entre las propuestas recibidas, dentro de los quince días naturales siguientes a vencimiento del plazo señalado en el artículo anterior. La insaculación se hará de tal forma que los efectos no sean de un mismo género de asociación u organismo empresarial o agrupación profesional.
+Los Ciudadanos miembros del Comité a que se hace referencia el artículo 10 de este Reglamento serán elegidos por insaculación por el Ayuntamiento, de entre las propuestas recibidas, dentro de los 10 días naturales siguientes a vencimiento del plazo señalado en el Artículo anterior. La insaculación se hará de tal forma que los efectos no sean de un mismo genero de asociación u organismo empresarial o agrupación profesional.
 
 ###### Artículo 13.
 
@@ -226,6 +224,10 @@ En ningún caso, los ciudadanos integrantes del Comité y el secretario técnico
 El presidente del comité será electo de entre los consejeros ciudadanos, con la aprobación de las dos terceras partes de estos, a mas tardar el día de la instalación de dicho Comité.
 
 Los ciudadanos miembros del Comité saliente seguirán en su cargo hasta en tanto inicien sus funciones los miembros del Comité entrante.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+El ayuntamiento estará facultado para ratificar en el cargo para un nuevo periodo a los Consejeros Ciudadanos que integran el Comité, a excepción de aquellos que manifiesten desinterés en seguir con su representación o bien por que hayan incurrido en las hipótesis de sustitución en el Articulo 24 de este reglamento.
 
 ### CAPITULO CUARTO. DE LAS OBLIGACIONES Y FACULTADES DE LOS INTEGRANTES
 
@@ -341,9 +343,11 @@ El ciudadano miembro del Comité que deje de asistir a tres sesiones consecutiva
 
 Las inasistencias del Presidente del Comité, serán cubiertas por el consejero que sea designado por acuerdo del mismo Comité.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
+
 ###### Artículo 24.
 
-Cuando alguno de los ciudadanos miembros del Comité elegidos por el Ayuntamiento, sea removido, renuncie, o por cualquier otra causa se vea impedido para seguir desempeñando su cargo, el Ayuntamiento Municipal, procederá a elegirlo conforme a los requisitos y plazos establecidos en los artículos 10, 11 Y 12 de este reglamento, entendiéndose que los plazos solo se observaran por cuanto al número de días, independientemente del mes de que se trate.
+Cuando alguno de los Ciudadanos miembros del Comité elegidos por el Ayuntamiento, sea removido, renuncie o por cualquier otra causa se vea impedido para seguir desempeñando su cargo, el Ayuntamiento procederá a sustituirlo de inmediato debiéndose cubrir la vacante con el Aspirante a Consejero que halla (sic) resultado insaculado progresivamente al decimoquinto Consejero Ciudadano.
 
 ###### Artículo 25.
 
@@ -472,3 +476,9 @@ SUFRAGIO EFECTIVO. NO REELECCION
 EL SECRETARIO MUNICIPAL
 
 C. LIC. RAUL VARGAS RODRÍGUEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE ABRIL DE 2002.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
