@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2005-01-03"
+last_updated: "2005-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE MARZO DE 2005.
 
-Ley publicada de la Segunda a Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
+Ley publicada de la Segunda a la Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -4701,3 +4701,7 @@ La Secretaría de Economía enviará por medios electrónicos al Servicio de Adm
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, excepto lo señalado en el artículo segundo transitorio del presente Decreto.
 
 SEGUNDO.- El artículo segundo de este Decreto entrará en vigor el día que entre en vigor el Acuerdo que modifica el similar que establece la clasificación y codificación de mercancías cuya importación está sujeta a regulación por parte de las dependencias que integran la Comisión Intersecretarial para el Control de Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas.
+
+D.O.F. 2 DE MARZO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
