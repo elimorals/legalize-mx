@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-obras-publicas-y-servicios-relacionados-del-estado-24656
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-11"
-last_updated: "2001-09-11"
+last_updated: "2005-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de septiembre del 2001.
 
@@ -75,9 +75,13 @@ I.- Dependencias: Las que conforman el sector central de la administración púb
 
 II.- Entidades: Las definidas paraestatales en la Ley de Entidades Paraestatales del Estado de Oaxaca;
 
-III.- SDUCOP: La Secretaria de Desarrollo Urbano, Comunicaciones y Obras Públicas;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
 
-IV.- Contraloría: La Contraloría General del Poder Ejecutivo del Estado;
+III.- Secretaría: La Secretaría de Obras Públicas;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+IV.- Contraloría: La Secretaría de la Contraloría del Poder Ejecutivo del Estado;
 
 V.- COPLADE: Comité Estatal de Planeación para el Desarrollo de Oaxaca;
 
@@ -105,7 +109,9 @@ Las autoridades competentes para aplicar e interpretar la presente ley dentro de
 
 I.- La Contraloría;
 
-II.- La SDUCOP; y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+II.- La Secretaría; y
 
 III.- Los Ayuntamientos.
 
@@ -139,9 +145,11 @@ Los Contratos y demás actos jurídicos y materiales que con base en la presente
 
 En lo no previsto por esta Ley, serán aplicables supletoriamente el Código Civil y el Código de Procedimientos Civiles para el Estado Libre y Soberano de Oaxaca.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 10.
 
-En materia de obra pública la SDUCOP, para el debido cumplimiento de la presente Ley, tendrá las siguientes atribuciones:
+En materia de obra pública la Secretaría, para el debido cumplimiento de la presente Ley, tendrá las siguientes atribuciones:
 
 I.- Analizar la viabilidad de los programas de ejecución de las obras públicas que le presenten las Dependencias, Entidades o los Ayuntamientos, y en su caso tomar las disposiciones administrativas para asegurar al Estado el cumplimiento de los programas y debida ejecución de las obras públicas;
 
@@ -189,9 +197,11 @@ Las atribuciones conferidas a la Contraloría en esta Ley, serán ejercidas por 
 
 Las controversias que se susciten con motivo de la interpretación y aplicación de esta Ley o de los contratos celebrados, serán resueltas por el Honorable Tribunal Superior de Justicia del Estado, en los términos de la Ley Orgánica del Poder Judicial del Estado de Oaxaca. Para la resolución de las controversias se aplicará el procedimiento sumario contemplado en el Código de Procedimientos Civiles del Estado, en lo que no se oponga a la naturaleza de las disposiciones de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 16.
 
-Se crea la Comisión Estatal Consultiva de la Obra Pública, como órgano normativo, de asesoría, consulta técnica para la realización de la obra pública; integrándose bajo la siguiente estructura: Un Presidente, que será el Titular del Poder Ejecutivo; un Secretario Técnico del Gobierno, que será el Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas; contará además con representantes permanentes del COPLADE, de las Secretarías de Administración y Finanzas, Contraloría General, Instituto Estatal de Ecología, y de las Cámaras y Colegios respectivos. La Comisión convocará a sus sesiones a representantes de otras Dependencias y Entidades, del sector social y privado organizados en asociaciones que tengan personalidad legal, cuando por la naturaleza de los asuntos que se deban tratar se justifique su participación. Para la validez y eficacia de las sesiones deberá encontrarse presente el titular de la Contraloría General del Poder Ejecutivo.
+Se crea la Comisión Estatal Consultiva de la Obra Pública, como órgano normativo, de asesoría, consulta técnica para la realización de la obra pública; integrándose bajo la siguiente estructura: Un Presidente, que será el Titular del Poder Ejecutivo; un Secretario Técnico del Gobierno, que será el Secretario de Obras Públicas; contará además con representantes permanentes del COPLADE, de las Secretarías de Administración, de Finanzas, y de la Contraloría, Instituto Estatal de Ecología, y de las Cámaras y Colegios respectivos. La Comisión convocará a sus sesiones a representantes de otras Dependencias y Entidades, del sector social y privado organizados en asociaciones que tengan personalidad legal, cuando por la naturaleza de los asuntos que se deban tratar se justifique su participación. Para la validez y eficacia de las sesiones deberá encontrarse presente el titular de la Secretaría de la Contraloría.
 
 El titular del Ejecutivo emitirá las bases para la organización, funcionamiento y atribuciones de la Comisión, debiendo publicarse en el Periódico Oficial para su validez y observancia.
 
@@ -265,9 +275,11 @@ XIII.- Los convenios de coordinación entre Dependencias, Entidades o Ayuntamien
 
 XIV.- Las demás previsiones que deban tomarse en consideración según la naturaleza y características de la obra.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 21.
 
-Las Dependencias y Entidades a más tardar el último día del mes de marzo de cada año, pondrán a disposición de la SDUCOP, Contraloría y COPLADE; sus programas de obras públicas para los efectos de su competencia.
+Las Dependencias y Entidades a más tardar el último día del mes de marzo de cada año, pondrán a disposición de la Secretaría, la Contraloría y COPLADE; sus programas de obras públicas para los efectos de su competencia.
 
 El documento que contenga los programas, podrá ser adicionado, modificado, suspendido o cancelado, de manera fundada sin responsabilidad alguna para la Dependencia o Entidad de que se trate.
 
@@ -295,7 +307,9 @@ VII.- Las determinaciones sobre el presupuesto total de la obra, como los relati
 
 VIII.- Las demás previsiones que deban tomarse en consideración según la naturaleza y características de la obra.
 
-Para el exacto cumplimiento de lo dispuesto por este artículo los Ayuntamientos, podrán solicitar asesoría a la SDUCOP o a la Contraloría.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
+Para el exacto cumplimiento de lo dispuesto por este artículo los Ayuntamientos, podrán solicitar asesoría a la Secretaría o a la Contraloría.
 
 ###### Artículo 23.
 
@@ -321,9 +335,11 @@ II.- Por invitación restringida a cuando menos tres Contratistas; y,
 
 III.- Por adjudicación directa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 26.
 
-La contratación de obra pública, por Dependencias y Entidades solo podrá llevarse a cabo cuando se tenga saldo disponible en las partidas correspondientes del presupuesto aprobado, y se cuente con los títulos de propiedad debidamente inscritos en los Registros Públicos a favor de las Dependencias, Entidades y Ayuntamientos, además deberán contar con los estudios y proyectos, las normas y especificaciones de construcción y programas de ejecución; salvo casos excepcionales a juicio de la SDUCOP y previa autorización del COPLADE, podrán convocarse sin contar con tales requisitos.
+La contratación de obra pública, por Dependencias y Entidades solo podrá llevarse a cabo cuando se tenga saldo disponible en las partidas correspondientes del presupuesto aprobado, y se cuente con los títulos de propiedad debidamente inscritos en los Registros Públicos a favor de las Dependencias, Entidades y Ayuntamientos, además deberán contar con los estudios y proyectos, las normas y especificaciones de construcción y programas de ejecución; salvo casos excepcionales a juicio de la Secretaría y previa autorización del COPLADE, podrán convocarse sin contar con tales requisitos.
 
 Los servidores públicos que autoricen actos en contravención a lo dispuesto en este artículo, se harán acreedores a las sanciones previstas por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca y disposiciones aplicables.
 
@@ -465,7 +481,9 @@ I.- Aquellas en las que el servidor público intervenga de cualquier forma en la
 
 II.- Las que desempeñan un empleo, cargo o comisión en el servicio público, o bien las sociedades de las que dichas personas formen parte; así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
-III.- Aquellos contratistas que por causas imputables a ellos mismos, la Dependencia, Entidad o Ayuntamiento convocante les hubiere rescindido administrativamente contratos en más de una ocasión, dentro de un lapso de dos años calendario, contados a partir de la primera rescisión. Dicho impedimento prevalecerá ante la propia Dependencia, Entidad o Ayuntamiento convocante durante dos años calendario contados a partir de la fecha de rescisión del segundo contrato. La SDUCOP hará inmediatamente del conocimiento general mediante su publicación en el Periódico Oficial, la existencia de este impedimento;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+III.- Aquellos contratistas que por causas imputables a ellos mismos, la Dependencia, Entidad o Ayuntamiento convocante les hubiere rescindido administrativamente contratos en más de una ocasión, dentro de un lapso de dos años calendario, contados a partir de la primera rescisión. Dicho impedimento prevalecerá ante la propia Dependencia, Entidad o Ayuntamiento convocante durante dos años calendario contados a partir de la fecha de rescisión del segundo contrato. La Secretaría hará inmediatamente del conocimiento general mediante su publicación en el Periódico Oficial, la existencia de este impedimento;
 
 IV.- Las que no hubieren cumplido sus obligaciones contractuales respecto de las materias de esta Ley, por causas imputables a ellas y que, como consecuencia de ello, haya sido perjudicada gravemente la Dependencia, Entidad o Ayuntamiento respectivo;
 
@@ -579,7 +597,9 @@ Se levantará acta de la segunda etapa, en la que se hará constar las propuesta
 
 La Dependencia, Entidad o Ayuntamiento convocante, para efectuar el análisis de las proposiciones, elaborará el dictamen basándose en cuadro comparativo de las mismas; para ello deberán verificar que las mismas incluyan la información, documentos y requisitos solicitados en las bases de licitación; que el programa de ejecución sea factible de realizar dentro del plazo establecido, con los recursos considerados por la convocante, y que las características, especificaciones y calidad de los materiales a utilizar sean los requeridos por la convocante.
 
-Las Dependencias, Entidades o Ayuntamientos convocantes, verificarán que el cálculo e integración de los precios unitarios sea el correcto, conforme a las disposiciones administrativas que expida la SDUCOP, mediante un acuerdo secretarial publicado en el Periódico Oficial.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
+Las Dependencias, Entidades o Ayuntamientos convocantes, verificarán que el cálculo e integración de los precios unitarios sea el correcto, conforme a las disposiciones administrativas que expida la Secretaría, mediante un acuerdo secretarial publicado en el Periódico Oficial.
 
 Si resultare que dos o más proposiciones son solventes, y por tanto satisfacen la totalidad de los requerimientos de la convocante, el contrato se adjudicará a quien haya presentado la proposición cuyo precio sea el más bajo.
 
@@ -769,7 +789,9 @@ I.- Los ajustes se calcularán a partir de la fecha en que se haya producido el 
 
 Cuando el atraso sea por causa imputable al contratista, procederá el ajuste de costos exclusivamente para la obra que debiera estar pendiente de ejecutar conforme al programa originalmente pactado;
 
-II.- Los incrementos o decrementos de los costos de los insumos, serán calculados con base en los relativos del Banco de México o el índice que determine la SDUCOP;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+II.- Los incrementos o decrementos de los costos de los insumos, serán calculados con base en los relativos del Banco de México o el índice que determine la Secretaría;
 
 III.- El ajuste de costos que corresponda a los trabajos ejecutados conforme a las estimaciones correspondientes, deberá cubrirse por parte de la Dependencia, Entidad o Ayuntamiento, a solicitud del contratista, a más tardar dentro de los treinta días naturales siguientes a la fecha en que la convocante resuelva por escrito el aumento o reducción respectivo; y,
 
@@ -815,7 +837,9 @@ II.- En caso de rescisión del contrato por causas imputables al contratista, la
 
 III.- Cuando por caso fortuito o fuerza mayor se imposibilite la continuación de los trabajos, el contratista podrá suspender la obra. En este supuesto, si opta por la terminación anticipada del contrato, deberá presentar su solicitud a la Dependencia, Entidad o Ayuntamiento, quien resolverá dentro de los veinte días naturales siguientes a la recepción de la misma; en caso de negativa será necesario que el contratista obtenga de la autoridad judicial la declaratoria correspondiente.
 
-En los casos de las fracciones anteriores los titulares de las Dependencias y Entidades o el Presidente Municipal, en el caso de los Ayuntamientos, mediante acuerdo debidamente fundado y motivado resolverán lo procedente; dicho acuerdo deberá ser notificado al contratista, informando del mismo a la SDUCOP y a la Contraloría en el caso de las Dependencias y Entidades; los Ayuntamientos lo harán del conocimiento del Órgano de Control Interno y de la Contaduría Mayor.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
+En los casos de las fracciones anteriores los titulares de las Dependencias y Entidades o el Presidente Municipal, en el caso de los Ayuntamientos, mediante acuerdo debidamente fundado y motivado resolverán lo procedente; dicho acuerdo deberá ser notificado al contratista, informando del mismo a la Secretaría y a la Contraloría en el caso de las Dependencias y Entidades; los Ayuntamientos lo harán del conocimiento del Órgano de Control Interno y de la Contaduría Mayor.
 
 ## TITULO QUINTO. DE LA EJECUCION DE LA OBRA
 
@@ -841,9 +865,13 @@ Cuando la supervisión sea realizada por contrato, la aprobación de las estimac
 
 Las Dependencias, Entidades o los Ayuntamientos, bajo su responsabilidad podrán ejecutar obra pública por administración directa, siempre que posean capacidad técnica, administrativa, operativa y elementos necesarios para ello, consistentes en maquinaria, equipo de construcción y personal técnico que se requiera para el desarrollo de los trabajos respectivos.
 
-Previo a la ejecución de la obra el titular de la ejecutora, emitirá el acuerdo respectivo haciéndolo del conocimiento de la Contraloría, la SDUCOP, o Contaduría Mayor según corresponda, así mismo, les comunicará periódicamente sobre el inicio, avance físico, gastos efectuados y terminación de la obra.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
-Para el caso de las obras que ejecute la SDUCOP bajo esta modalidad, lo comunicará únicamente a la Contraloría.
+Previo a la ejecución de la obra el titular de la ejecutora, emitirá el acuerdo respectivo haciéndolo del conocimiento de la Contraloría, la Secretaría, o Contaduría Mayor según corresponda, así mismo, les comunicará periódicamente sobre el inicio, avance físico, gastos efectuados y terminación de la obra.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
+Para el caso de las obras que ejecute la Secretaría bajo esta modalidad, lo comunicará únicamente a la Contraloría.
 
 Los referidos acuerdos comprenderán también la descripción pormenorizada de la obra, proyectos, planos, especificaciones, programas de ejecución y suministro, y el presupuesto correspondiente, así como los datos relativos a la autorización del gasto de inversión y la fecha de iniciación de los trabajos.
 
@@ -899,6 +927,8 @@ Es responsabilidad de las Dependencias, Entidades y Ayuntamientos vigilar este a
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 68.
 
 Las Dependencias, Entidades o Ayuntamientos a través de sus titulares o Presidente Municipal, según corresponda; bajo su responsabilidad y mediante acuerdo que emitan, podrán contratar directamente servicios relacionados con las obras públicas, siempre que:
@@ -921,11 +951,13 @@ No quedan comprendidos dentro de los servicios a que se refiere el artículo 68 
 
 ###### Artículo 71.
 
-Las Dependencias, Entidades o los Ayuntamientos contratantes, deberán remitir por escrito a la SDUCOP, a la Contraloría y a la Contaduría Mayor según corresponda, la información relativa a las obras y servicios relacionados con las mismas que se realicen o contraten.
+Las Dependencias, Entidades o los Ayuntamientos contratantes, deberán remitir por escrito a la Secretaría, a la Contraloría y a la Contaduría Mayor según corresponda, la información relativa a las obras y servicios relacionados con las mismas que se realicen o contraten.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 72.
 
-La SDUCOP, la Contraloría y el Órgano de Control Interno, en el ámbito de sus respectivas competencias podrán realizar las visitas, inspecciones y verificaciones, que estimen pertinentes a las obras publicas que estén realizando las Dependencias, Entidades y Ayuntamiento; así como solicitar a los servidores públicos de la misma y a los contratistas, en su caso, todos los datos e informes relacionados con las obras en mención, con el fin de constatar que estas se realicen conforme a lo establecido en esta Ley, otras disposiciones aplicables y convenios celebrados, así como con los programas y presupuestos autorizados.
+La Secretaría, la Contraloría y el Órgano de Control Interno, en el ámbito de sus respectivas competencias podrán realizar las visitas, inspecciones y verificaciones, que estimen pertinentes a las obras publicas que estén realizando las Dependencias, Entidades y Ayuntamiento; así como solicitar a los servidores públicos de la misma y a los contratistas, en su caso, todos los datos e informes relacionados con las obras en mención, con el fin de constatar que estas se realicen conforme a lo establecido en esta Ley, otras disposiciones aplicables y convenios celebrados, así como con los programas y presupuestos autorizados.
 
 Para realizar las verificaciones aludidas, la instancia competente deberá expedir orden por escrito, en la que acredite al personal que las llevarán a cabo, especificando la obra de que se trate.
 
@@ -933,9 +965,11 @@ Para realizar las verificaciones aludidas, la instancia competente deberá exped
 
 Para efectos del artículo anterior, las Dependencias, Entidades o los Ayuntamientos contratantes, conservarán en forma ordenada y sistemática toda la documentación comprobatoria de los actos y contratos de dichas obras, cuando menos por un lapso de cinco años, contados a partir de la fecha de recepción de la obra.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 74.
 
-Las Dependencias, Entidades o Ayuntamientos ejecutores, tendrán la obligación de supervisar y vigilar todo el proceso constructivo de la obra pública a su cargo. Para tal efecto, cuando existan dudas sobre la interpretación o aplicación de las normas de supervisión y control, procederán a solicitar a la SDUCOP o a la Contraloría la consulta correspondiente a efecto de que estas de inmediato emitan su criterio de interpretación y aplicación de dichas normas.
+Las Dependencias, Entidades o Ayuntamientos ejecutores, tendrán la obligación de supervisar y vigilar todo el proceso constructivo de la obra pública a su cargo. Para tal efecto, cuando existan dudas sobre la interpretación o aplicación de las normas de supervisión y control, procederán a solicitar a la Secretaría o a la Contraloría la consulta correspondiente a efecto de que éstas de inmediato emitan su criterio de interpretación y aplicación de dichas normas.
 
 ###### Artículo 75.
 
@@ -1013,9 +1047,11 @@ V.- La resolución emitida deberá ser notificada de manera personal al infracto
 
 Ese mismo procedimiento se deberá observar para la rescisión de los contratos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 84.
 
-Cuando la SDUCOP, la Contraloría o el Órgano de Control Interno, tengan conocimiento de que alguna Dependencia, Entidad o Ayuntamiento, no se ajusta a las disposiciones de esta ley, procederán en el ámbito de su respectiva competencia de la manera siguiente:
+Cuando la Secretaría, la Contraloría o el Órgano de Control Interno, tengan conocimiento de que alguna Dependencia, Entidad o Ayuntamiento, no se ajusta a las disposiciones de esta ley, procederán en el ámbito de su respectiva competencia de la manera siguiente:
 
 I.- Comunicarán, por escrito a la Dependencia, Entidad o al Ayuntamiento ejecutor de la obra pública, la existencia de la infracción, precisando en que consiste ésta y solicitando las aclaraciones pertinentes, hecho lo cual si procede, indicará al infractor las medidas que se deberán tomar para corregir tal situación, señalando un plazo prudente para su cumplimiento;
 
@@ -1034,6 +1070,8 @@ Los contratistas que se encuentren en los supuestos de las fracciones VI, VII, V
 ## TÍTULO NOVENO. MEDIO DE IMPUGNACIÓN Y RECURSO
 
 ### CAPITULO II. DEL RECURSO DE REVOCACION
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### Artículo 87.
 
@@ -1085,7 +1123,7 @@ La resolución que ponga fin al procedimiento de inconformidad, se notificará p
 
 ###### Artículo 93.
 
-En contra de las resoluciones que dicte la SDUCOP, la Contraloría y la Contaduría Mayor en los términos de esta Ley, el agraviado podrá interponer el recurso de revocación ante la que hubiese emitido dicha resolución, dentro del término de diez días naturales, contados a partir del día siguiente al de la notificación de la resolución, el que se tramitará conforme a las normas siguientes:
+En contra de las resoluciones que dicte la Secretaría, la Contraloría y la Contaduría Mayor en los términos de esta Ley, el agraviado podrá interponer el recurso de revocación ante la que hubiese emitido dicha resolución, dentro del término de diez días naturales, contados a partir del día siguiente al de la notificación de la resolución, el que se tramitará conforme a las normas siguientes:
 
 I.- Se interpondrá bajo protesta de decir verdad por el recurrente, mediante escrito en el que se expresarán los agravios que la resolución impugnada le cause, acreditará su personalidad, ofrecerá las pruebas que se proponga rendir y acompañará copia de la resolución impugnada o constancia de la notificación de esta última, excepto si la notificación se hizo por correo;
 
@@ -1095,7 +1133,9 @@ III.- Si dentro del trámite que haya dado origen a la resolución recurrida, el
 
 IV.- Se tendrán por no ofrecidas las pruebas documentales, si estas no se acompañan al escrito en que se interponga el recurso y en ningún caso serán recabadas por la autoridad, salvo que obren en el expediente en que se haya originado la resolución recurrida;
 
-V.- La SDUCOP, la Contraloría y la Contaduría Mayor según el caso, acordarán lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiese ofrecido, que deberán ser pertinentes e idóneas para clarificar las cuestiones controvertidas; ordenándose el desahogo de las mismas, dentro del plazo de quince días hábiles, el que será improrrogable;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+V.- La Secretaría, la Contraloría y la Contaduría Mayor según el caso, acordarán lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiese ofrecido, que deberán ser pertinentes e idóneas para clarificar las cuestiones controvertidas; ordenándose el desahogo de las mismas, dentro del plazo de quince días hábiles, el que será improrrogable;
 
 VI.- La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por el recurrente. De no presentarse el dictamen dentro del plazo de Ley, la prueba será declarada desierta; y,
 
@@ -1204,3 +1244,9 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 LIC. HECTOR ANUAR MAFUD MAFUD.
 
 AL C...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
