@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2001-09-14"
+last_updated: "2001-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -969,6 +969,10 @@ Contará con un Consejo de la Judicatura, el cual ejercerá funciones de vigilan
 
 La representación del Poder Judicial estará a cargo del Presidente del Tribunal Superior de Justicia del Estado, el cual se elegirá y desempeñará sus funciones en los términos y por el período que la Ley señale.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2001)</small>
+
+El Presidente del Tribunal Superior de Justicia en el día de la apertura del primer período de sesiones ordinarias del Congreso, asistirá en sesión solemne para rendir un informe general, por escrito, del estado que guarde la Administración de Justicia en la entidad.
+
 La Ley garantizará la independencia de los Magistrados, Consejeros y Jueces en el ejercicio de sus funciones, así como la plena ejecución de sus resoluciones.
 
 Corresponde al Tribunal de Justicia Electoral como máxima autoridad jurisdiccional electoral estatal, y órgano especializado del Poder Judicial garantizar el cumplimiento del principio de legalidad de los actos y resoluciones electorales.
@@ -1173,7 +1177,7 @@ El Tribunal de Justicia Electoral, por conducto de su Presidente, presentará su
 
 El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas para su adecuado funcionamiento.
 
-### CAPITULO IV.. DE LAS ATRIBUCIONES, FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
+### CAPITULO V.. DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -1223,7 +1227,7 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO V.. DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
+### CAPITULO IV.. DE LAS ATRIBUCIONES, FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -1915,6 +1919,8 @@ El Gobernador Provisional cesará el día en que, conforme a la presente Constit
 
 Por esta sola vez los términos a que se refieren los artículos 18 y 42 de esta Constitución se reducen a treinta días.
 
+Mexicali, B. Cfa., 15 de Agosto de 1953.
+
 Dip. Presidente,
 
 LIC. EVARISTO BONIFAZ GOMEZ
@@ -2416,3 +2422,9 @@ PRIMERO.- Las presentes reformas y adiciones a la Constitución Política del Es
 SEGUNDO.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, las presente reformas se declararán parte de esta Constitución, para que inicien su vigencia, a partir del próximo 1° de octubre del 2001, previa su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Los ordenamientos o Leyes que resulten afectadas por las reformas a esta Constitución, se modificarán y armonizarán en su texto por este Congreso, en un plazo que no exceda de 60 días, contados a partir de la iniciación de su vigencia.
+
+P.O. 7 DE DICIEMBRE DE 2001.
+
+PRIMERO.- Las presentes reformas entrarán en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, una vez que se corra el trámite que señala el Artículo 112, de la Constitución Política del Estado a los Municipios para que emitan su opinión, en los términos de Ley.
+
+SEGUNDO.- El Presidente del Tribunal Superior de Justicia, por única ocasión, deberá asistir a sesión solemne del Congreso del Estado en la fecha que al efecto designe dicha Soberanía, para rendir el informe a que hace referencia éstas reformas.
