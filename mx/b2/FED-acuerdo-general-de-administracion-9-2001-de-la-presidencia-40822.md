@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-9-2001-de-la-presidencia-4082
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-09-13"
-last_updated: "2001-09-13"
+last_updated: "2003-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40822&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2001-09-13"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION 9/2001 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [ATRIBUCIONES DE LA DIRECCION GENERAL DE RELACIONES INTERNACIONALES]
 
-ACUERDO GENERAL DE ADMINISTRACION 9/2001, DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE CREA Y ESTABLECEN LAS ATRIBUCIONES DE LA DIRECCION GENERAL DE RELACIONES INTERNACIONALES DE ESTE ALTO TRIBUNAL
+ACUERDO GENERAL DE ADMINISTRACIÓN 9/2001, DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE CREA Y ESTABLECEN LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE RELACIONES INTERNACIONALES DE ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN III-2003, DEL DIEZ DE MARZO DE DOS MIL TRES, DEL COMITÉ DE RELACIONES PUBLICAS NACIONALES E INTERNACIONALES DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE RELACIONES PÚBLICAS NACIONALES E INTERNACIONALES, PUBLICADO EN EL D.O.F. DE 15 DE ABRIL DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: DEROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XIV, Septiembre de 2001, pagina 1399.
 
@@ -94,3 +96,13 @@ SEGUNDO.- Se derogan, a partir de la entrada en vigor de este acuerdo, todas aqu
 TERCERO.- Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta.
 
 Así lo acordó el presidente de la Suprema Corte de Justicia de la Nación Ministro Genaro David Góngora Pimentel, el día trece del mes de septiembre de dos mil uno, ante el coordinador general de Asuntos Jurídicos de la Presidencia de la Suprema Corte de Justicia de la Nación, que da fe.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 15 DE ABRIL DE 2003.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Se deroga, a partir de la entrada en vigor de este Acuerdo, el Acuerdo General de Administración 9/2001, de la Presidencia de la Suprema Corte de Justicia de la Nación, por el que se crea y establecen las funciones de la Dirección General de Relaciones Internacionales de este Alto Tribunal; así como todas aquellas disposiciones administrativas en lo que se opongan a lo señalado en el presente Acuerdo.
+
+TERCERO.- Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación.
