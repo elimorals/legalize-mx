@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1942-11-17"
+last_updated: "1942-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE NOVIEMBRE DE 1942.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -848,9 +848,9 @@ VIII.- Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos 
 
 IX.- Para impedir que en el comercio de Estado a Estado se establezcan restricciones.
 
-> <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 1942)</small>
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 1942)</small>
 
-X.- Para legislar en toda la República sobre minería, industria cinematográfica, comercio, instituciones de crédito y energía eléctrica; para establecer el Banco de Emisión Unico, en los términos del artículo 28 de esta Constitución, y para expedir las leyes del trabajo, reglamentarias del artículo 123 de la propia Constitución. La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, excepto cuando se trate de asuntos relativos a la industria textil, eléctrica, ferrocarriles y demás empresas de transporte amparadas por concesión federal, minería e hidrocarburos, los trabajos ejecutados en el mar y en las zonas marítimas, y, por último, las obligaciones que en materia educativa corresponden a los patrones, en la forma y términos que fijen las disposiciones reglamentarias.
+X.- Para legislar en toda la República sobre hidrocarburos, minería, industria cinematográfica, comercio, instituciones de crédito y energía eléctrica, para establecer el Banco de Emisión Unico en los términos del artículo 28 de esta Constitución y para expedir las leyes del trabajo reglamentarias del artículo 123 de la propia Constitución.
 
 XI.- Para crear y suprimir empleos públicos de la Federación y señalar, aumentar o disminuir sus dotaciones.
 
@@ -1610,6 +1610,10 @@ XXIX.- Se considera de utilidad pública la expedición de la Ley del Seguro Soc
 
 XXX.- Asimismo serán consideradas de utilidad social, las sociedades cooperativas para la construcción de casas baratas e higiénicas, destinadas a ser adquiridas en propiedad, por los trabajadores en plazos determinados.
 
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 1942)</small>
+
+XXXI.- La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales, en asuntos relativos a la industria textil, eléctrica, cinematográfica, hulera y azucarera, minería, hidrocarburos, ferrocarriles y empresas que sean administradas en forma directa o descentralizada por el Gobierno Federal; empresas que actúen en virtud de un contrato o concesión federal, y las industrias que le sean conexas; a empresas que ejecuten trabajos en zonas federales y aguas territoriales; a conflictos que afecten a dos o más entidades federativas; a contratos colectivos que hayan sido declarados obligatorios en más de una entidad federativa y, por último, las obligaciones que en materia educativa corresponden a los patrones, en la forma y términos que fija la ley respectiva.
+
 ## TITULO SEPTIMO.
 
 PREVENCIONES GENERALES.
@@ -2017,3 +2021,7 @@ UNICO.- La presente Ley entrará en vigor el día 1º del mes siguiente al en qu
 D.O.F. 17 DE NOVIEMBRE DE 1942.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 18 DE NOVIEMBRE DE 1942.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
