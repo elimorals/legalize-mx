@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2002-09-20"
+last_updated: "2002-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2002.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -401,15 +401,15 @@ I.- El Gobernador del Estado, sea Provisional, Interino o Encargado del Despacho
 
 II.- Los Magistrados y Jueces del Tribunal Superior de Justicia del Estado, el Secretario General de Gobierno, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes de la elección;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2002)</small>
 
-III.- Los Diputados y Senadores del Congreso de la Unión durante el período de su ejercicio constitucional, salvo que se separen de sus cargos en forma provisional noventa días antes de la elección;
+III.- Los Diputados y Senadores del Congreso de la Unión durante el período para el que fueron electos, aun cuando se separen de sus cargos; con excepción de los suplentes siempre y cuando éstos no estuvieren ejerciendo el cargo;
 
 IV.- Los militares en servicio activo o las personas que tengan mando de policía, a menos que se separen de sus cargos noventa días antes de la elección;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2002)</small>
 
-V.- Los Presidentes Municipales por los distritos en que ejerzan autoridad, y los miembros de un Ayuntamiento, salvo que éstos últimos se separen de sus cargos en forma provisional noventa días antes de la elección;
+V.- Los Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos durante el período para el que fueron electos, aun cuando se separen de sus cargos; con excepción de los suplentes siempre y cuando éstos no estuvieren ejerciendo el cargo;
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
 
@@ -753,13 +753,15 @@ V.- Estar en pleno goce de sus derechos Políticos.
 
 VI.- No tener empleo, cargo o comisión en el Gobierno Federal, Estatal o Municipal, en los organismos descentralizados municipales o estatales, o Instituciones educativas públicas; salvo que se separen en forma provisional, noventa días antes del día de la elección.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 42.
 
-No podrán ser electos Gobernador del Estado: el Secretario General de Gobierno, los Magistrados y Jueces del Tribunal Superior de Justicia del Estado, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos en forma definitiva, noventa días antes de la elección.
+No podrán ser electos Gobernador del Estado: el Secretario General de Gobierno, los Magistrados y Jueces del Tribunal Superior de Justicia del Estado, el Procurador General de Justicia y los Secretarios y Directores del Poder Ejecutivo, salvo que se separen de sus cargos en forma definitiva, noventa días antes de la elección.
 
-Los Diputados y Senadores del Congreso de la Unión, Diputados locales, Presidentes Municipales, Directores del Poder Ejecutivo, los militares en servicio activo y los Jefes de Policía, no podrán ser electos Gobernador del Estado, salvo que se separen de sus cargos en forma provisional, noventa días antes de la elección.
+Los Militares en servicio activo y los titulares de los cuerpos policíacos, no podrán ser electos Gobernador del Estado, salvo que se separen de sus cargos en forma provisional, noventa días antes de la elección.
+
+Los Diputados y Senadores del Congreso de la Unión, Diputados locales, Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos durante el período para el que fueron electos, aun cuando se separen de sus cargos; con excepción de los suplentes siempre y cuando éstos no estuvieren ejerciendo el cargo.
 
 ###### ARTICULO 43.
 
@@ -1343,7 +1345,13 @@ IV.- No tener empleo, cargo o comisión en el Gobierno federal, estatal o munici
 
 No podrán ser electos miembros de un Ayuntamiento, el Gobernador del Estado sea provisional, interino, substituto o encargado del despacho, aún cuando se separe de su cargo, así como los Magistrados y Jueces del Tribunal Superior de Justicia, el Secretario General de Gobierno del Estado, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes de la elección.
 
-Los Diputados Locales, Diputados y Senadores del Congreso de la Unión, los militares en servicio activo y Jefes de Policía, salvo que se separen de sus cargos en forma provisional, noventa días antes de la elección.
+(REFORMADO, P.O. 4 DE OCTUBRE DE 2002) (F. DE E., P.O. 18 DE OCTUBRE DE 2002)
+
+Los Diputados Locales, los Diputados y Senadores del Congreso de la Unión, durante el periodo para el que fueron electos, aun cuando se separen de sus cargos; con excepción de los suplentes siempre y cuando estos no estuvieren ejerciendo el cargo.
+
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2002) (F. DE E., P.O. 18 DE OCTUBRE DE 2002)
+
+Los Militares en servicio activo y los titulares de los cuerpos policíacos, salvo que se separen de sus cargos en forma provisional noventa días antes de la elección.
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -2438,3 +2446,7 @@ SEGUNDO.- La designación del Magistrado Presidente del Tribunal Superior de Jus
 P.O. 20 DE SEPTIEMBRE DE 2002.
 
 UNICO.- La presente reforma y adición entrará en vigor al día siguiente al de su promulgación en el Periódico Oficial Órgano del Gobierno del Estado.
+
+P.O. 4 DE OCTUBRE DE 2002.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
