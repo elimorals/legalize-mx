@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1996-12-24"
+last_updated: "1997-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -86,9 +86,7 @@ A la Consejería Jurídica del Ejecutivo Federal le serán aplicables las dispos
 
 ###### ARTICULO 5o.
 
-El Gobierno del Distrito Federal estará a cargo del Presidente de la República, quien lo ejercerá por conducto del Jefe del Departamento del Distrito Federal, de conformidad con lo dispuesto en la Ley Orgánica correspondiente.
-
-El Procurador General de Justicia del Distrito Federal dependerá directamente del Presidente de la República, y ejercerá las funciones que le asigne la Ley.
+(DEROGADO, D.O.F. 4 DE DICIEMBRE DE 1997)
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
@@ -212,49 +210,47 @@ Cuando alguna Secretaría de Estado o Departamento Administrativo necesite infor
 
 ### CAPITULO II. De la competencia de las Secretarías de Estado, Departamentos Administrativos y Consejería Jurídica del Ejecutivo Federal
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 26.
 
 Para el despacho de los asuntos del orden administrativo, el Poder Ejecutivo de la Unión contará con las siguientes dependencias:
 
-Secretaría de Gobernación
+Secretaría de Gobernación.
 
-Secretaría de Relaciones Exteriores
+Secretaría de Relaciones Exteriores.
 
-Secretaría de la Defensa Nacional
+Secretaría de la Defensa Nacional.
 
-Secretaría de Marina
+Secretaría de Marina.
 
-Secretaría de Hacienda y Crédito Público
+Secretaría de Hacienda y Crédito Público.
 
-Secretaría de Desarrollo Social
+Secretaría de Desarrollo Social.
 
-Secretaría de Medio Ambiente, Recursos Naturales y Pesca
+Secretaría de Medio Ambiente, Recursos Naturales y Pesca.
 
-Secretaría de Energía
+Secretaría de Energía.
 
-Secretaría de Comercio y Fomento Industrial
+Secretaría de Comercio y Fomento Industrial.
 
-Secretaría de Agricultura, Ganadería y Desarrollo Rural
+Secretaría de Agricultura, Ganadería y Desarrollo Rural.
 
-Secretaría de Comunicaciones y Transportes
+Secretaría de Comunicaciones y Transportes.
 
-Secretaría de Contraloría y Desarrollo Administrativo
+Secretaría de Contraloría y Desarrollo Administrativo.
 
-Secretaría de Educación Pública
+Secretaría de Educación Pública.
 
-Secretaría de Salud
+Secretaría de Salud.
 
-Secretaría del Trabajo y Previsión Social
+> <small>(F. DE E., D.O.F. 11 DE FEBRERO DE 1998)</small>
 
-Secretaría de la Reforma Agraria
+Secretaría del Trabajo y Previsión Social.
 
-Secretaría de Turismo
+Secretaría de la Reforma Agraria.
 
-Departamento del Distrito Federal.
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1996)</small>
+Secretaría de Turismo.
 
 Consejería Jurídica del Ejecutivo Federal.
 
@@ -1382,11 +1378,7 @@ Las demás dependencias y entidades de la Administración Pública Federal propo
 
 ###### ARTICULO 44.
 
-Al Departamento del Distrito Federal, corresponde el despacho de los siguientes asuntos:
-
-I.- Atender lo relacionado con el gobierno de dicha Entidad en los términos de su ley orgánica, y
-
-II.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+(DEROGADO, D.O.F. 4 DE DICIEMBRE DE 1997)
 
 ### CAPITULO UNICO. De la Administración Pública Paraestatal
 
@@ -1685,3 +1677,15 @@ QUINTO.- La Secretaría de Hacienda y Crédito Público realizará los actos que
 Las dependencias y entidades continuarán proporcionando los espacios físicos, los recursos humanos y materiales que requieran los referidos órganos de control interno.
 
 La relación laboral del resto del personal de dichos órganos de control interno no se modifica por la entrada en vigor del presente decreto.
+
+D.O.F. 4 DE DICIEMBRE DE 1997.
+
+ÚNICO.- Las derogaciones y reforma a la Ley Orgánica de la Administración Pública Federal entrarán en vigor el 5 de diciembre de 1997.
+
+ARTÍCULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL; DE LA LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; DE LA LEY DE EXPROPIACIÓN Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL.
+
+PRIMERO.- Las reformas a que se refiere el presente Decreto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con las particularidades que se establecen en las disposiciones transitorias de cada uno de los artículos de este Decreto.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
