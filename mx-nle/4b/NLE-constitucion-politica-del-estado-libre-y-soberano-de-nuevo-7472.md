@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1949-05-11"
+last_updated: "1951-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1951.
+
+(REPUBLICADO EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1951)
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1171,7 +1173,9 @@ Todo maltratamiento en la aprehensión o en las prisiones, toda molestia que se 
 
 En todo juicio del orden criminal tendrá el acusado las siguientes garantías:
 
-I.- Inmediatamente que lo solicite será puesto en libertad bajo de fianza no mayor de diez mil pesos, según sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito no merezca ser castigado con una pena mayor de cinco años de prisión, y sin más requisitos que poner la suma de dinero respectiva a disposición de la autoridad, u otorgar la caución hipotecaria o personal bastante para asegurarla.
+(REFORMADA, P.O. 6 DE JUNIO DE 1951)(REPUBLICADA, P.O. 4 DE JULIO DE 1951)
+
+I.- Inmediatamente que lo solicite será puesto en libertad bajo fianza que fijará el Juez tomando en cuenta sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito merezca ser castigado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión, sin más requisito que poner la suma de dinero respectiva, a disposición de la autoridad u otorgar caución hipotecaria o personal bastante para asegurarla, bajo la responsabilidad del Juez en su aceptación. En ningún caso la fianza o caución será mayor de $100,000.00 (CIEN MIL PESOS M. N.), a no ser que se trate de un delito que represente para su autor un beneficio económico o cause a su víctima un daño patrimonial, pues en estos casos la garantía será, cuando menos, hasta tres veces mayor al beneficio obtenido o al daño ocasionado.
 
 II.- No podrá ser compelido a declarar en su contra, por lo cual queda rigurosamente prohibida toda incomunicación o cualquiera otro medio que tienda a aquel objeto.
 
@@ -1304,5 +1308,11 @@ P.O. 29 DE SEPTIEMBRE DE 1948.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
 
 P.O. 11 DE MAYO DE 1949.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 6 DE JUNIO DE 1951.
+
+(REPUBLICADO, P.O. 4 DE JULIO DE 1951)
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
