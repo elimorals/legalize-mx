@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "1999-05-25"
+last_updated: "1999-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -147,9 +147,11 @@ DEFENSAS SUSTANTIVAS O PROCESALES. Las defensas sustantivas que se funden en la 
 
 Las causas que excluyen el delito sólo se tomarán en cuenta al resolver la petición para que se ordene aprehender o hacer comparecer al inculpado; al dictar el auto que resuelva su situación jurídica o que sobresea el proceso y en la sentencia.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 12.
 
-EXCEPCIONES SUSTANTIVAS O PROCESALES. Las excepciones, sustantivas o procesales, que presuponen la existencia de la acción penal, de los hechos que la motivan y de la relación procesal penal, se examinarán en la sentencia.
+EXCEPCIONES SUSTANTIVAS O PROCESALES. Las excepciones, sustantivas o procesales, que presuponen la existencia de la acción penal, de los hechos que la motivan y de la relación procesal penal, se podrán examinar al resolver sobre la orden de aprehensión o comparecencia; en el auto que resuelva la situación jurídica; en el que resuelva sobre el sobreseimiento y en la sentencia.
 
 ###### ARTÍCULO 13.
 
@@ -217,17 +219,15 @@ PRINCIPIOS DE PREVENCIÓN Y DE ATRACCIÓN EN LA COMPETENCIA POR TERRITORIO. Cuan
 
 El juez del lugar donde se cometió el delito más grave; atendiendo a la pena máxima de prisión; tendrá competencia para conocer de todos los que se cometieron en otros lugares y respecto de los que procedería la acumulación. Sin perjuicio de que si el Ministerio Público ejercita acción penal ante los jueces de cada lugar según el delito que en él se cometió, se considere válido lo que conozcan y, en su caso, se decrete luego la acumulación.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 23.
 
-COMPETENCIA CUANDO SE IGNORE DÓNDE SE COMETIÓ EL DELITO. Cuando se ignore dónde se cometió el delito, serán jueces competentes en el orden de prelación siguiente:
+COMPETENCIA CUANDO SE IGNORE DONDE SE COMETIO EL DELITO. Cuando se ignore dónde se cometió el delito, serán jueces competentes en el orden de prelación siguiente:
 
 I. LUGAR DE PRUEBAS MATERIALES. El del lugar donde se descubren evidencias materiales del delito.
 
-II. LUGAR DONDE SE APREHENDA AL INCULPADO. El del lugar donde se detiene al inculpado.
-
-III. RESIDENCIA DEL INCULPADO. El de la residencia del inculpado.
-
-IV. RESIDENCIA DEL AGENTE DEL MINISTERIO PÚBLICO QUE PRIMERO TENGA NOTICIA DEL DELITO. El de la residencia del agente del Ministerio Público que primero tiene noticia del delito.
+II. RESIDENCIA DEL AGENTE DEL MINISTERIO PUBLICO QUE PRIMERO TENGA NOTICIA DEL DELITO. El de la residencia del agente del Ministerio Público que primero tiene noticia del delito.
 
 Si después se conoce donde se cometió el delito, sin que aún se cite para sentencia, se remitirán al juez respectivo las actuaciones, los inculpados y las evidencias. Las actuaciones serán válidas.
 
@@ -289,7 +289,9 @@ IV. DELITOS CULPOSOS COMETIDOS CON MODALIDAD AGRAVANTE. Cualquier otro delito cu
 
 V. DELITOS EN LOS QUE LA PENA MÁXIMA DE PRISIÓN SE REDUCE A SEIS AÑOS O MENOS, POR MODALIDAD ATENUANTE. Los delitos cuya pena máxima de prisión se reduzca a seis años o menos, por concurrir una o más modalidades atenuantes.
 
-VI. DELITOS CUANDO EXISTA REITERACIÓN DELICTIVA. Cuando aparezca que el inculpado cometió con anterioridad otro delito, sin aún transcurrir el término legal para que se excluya la reiteración delictiva; sea ésta real o ficta. Si ello aparece durante el proceso, el juez local letrado ordenará que se aprehenda al inculpado y remitirá la causa al juez de primera instancia, para que la continúe. Sin perjuicio de que el inculpado obtenga luego su libertad provisional bajo caución.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+VI. DELITOS CUANDO EXISTA REITERACION DELICTIVA. Cuando aparezca que el inculpado cometió con anterioridad otro delito, sin aún transcurrir el término legal para que se excluya la reiteración delictiva; sea ésta real o ficta; si ello aparece durante el proceso, el juez local letrado ordenará que se aprehenda al inculpado, sin perjuicio de que el inculpado obtenga luego su libertad provisional bajo caución.
 
 VII. DELITOS EN LOS QUE SE VIOLAN MEDIDAS DE ARRAIGO JUDICIAL. Los delitos en los que el inculpado viole sin causa justificada alguna de las medidas de arraigo que se le fijen durante el proceso. En cuyo caso, se procederá de igual forma que la fracción anterior.
 
@@ -345,15 +347,23 @@ FALTA POR DESATENDER LAS GARANTÍAS DE ACUSACIÓN Y AUDIENCIA. Incurrirá en fal
 
 Incurrirá en igual falta, si al consignarse con detenido se lleva a cabo la diligencia de declaración preparatoria, sin que la acusación se determine a más tardar al iniciar aquella. En ésta, el Ministerio Público podrá determinar la acusación en forma oral.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+No se considerará como falta cuando se lleve a cabo la diligencia de declaración preparatoria y luego aparezca que se formuló acusación por hecho determinado que resulte ser atípico, o cuando en la acusación se omitió precisar en qué consiste algún elemento típico que sea esencial para la punibilidad del hecho.
+
 ###### ARTÍCULO 40.
 
 CONSECUENCIAS PROCESALES POR INCUMPLIR LAS GARANTÍAS DE ACUSACIÓN Y AUDIENCIA. Será motivo para anular de pleno derecho la diligencia de declaración preparatoria; así como las actuaciones y resoluciones posteriores, salvo las que no se puedan renovar; al igual que para ordenar la libertad del inculpado:
 
-Si en esa diligencia se omite darle a conocer el o los hechos determinados de que se le acusa; o éstos no se hacen constar en el acta y el Ministerio Público omitió hacerlo antes en la forma que señalan los artículos 34 o 35.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+Si en esa diligencia se omite darle a conocer el o los hechos determinados de que se le acusa; o éstos no se hacen constar en el acta y el Ministerio Público omitió hacerlo antes en la forma que señalan los Artículos 34 o 35. Así mismo, cuando los hechos determinados por los que se formuló acusación resulten ser atípicos o en la acusación se omitió precisar en qué consiste algún elemento típico que sea esencial para la punibilidad básica del hecho.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 41.
 
-CLASIFICACIÓN TÉCNICA DEL DELITO POR EL QUE SE EJERCITA ACCIÓN. El nombre del o de los delitos y los fundamentos que con relación a ellos se invoquen en el pedimento que inicia la acción penal, no impedirán al juzgador reclasificarlos al resolver sobre la orden de aprehensión o de comparecencia; o la situación jurídica del inculpado. La facultad de reclasificar, incluirá los casos en los que los mismos hechos configuren varios delitos y en el pedimento se omitió mencionar algunos de éstos.
+CLASIFICACION TECNICA DEL DELITO POR EL QUE SE EJERCITA ACCION. El nombre del o de los delitos y los fundamentos que con relación a ellos se invoquen en el pedimento que inicia la acción penal, no impedirán al juzgador reclasificarlos al resolver sobre la orden de aprehensión o de comparecencia; o la situación jurídica del inculpado. La facultad de reclasificar, incluirá los casos en los que los mismos hechos configuren varios delitos y en el pedimento se omitió mencionar algunos de éstos. Mas se ordenará la libertad del inculpado al resolver su situación jurídica, si los hechos determinados por los que se formuló acusación resultan ser atípicos, con inclusión de los casos en los que en la acusación se omita precisar en qué consiste algún elemento típico que sea esencial para la punibilidad básica del hecho.
 
 Para ello y en cualquier caso, el juzgador se estará a la prueba de los hechos y a la exacta aplicación de la ley penal; pero sin que pueda atender a circunstancias ajenas a la materia de la acusación que perjudiquen al inculpado. El Ministerio Público o inculpado podrán apelar la reclasificación.
 
@@ -1339,7 +1349,9 @@ NULIDADES DE PLENO DERECHO. Son nulos de pleno derecho:
 
 I. FALTA DE ACCIÓN PENAL. Todos los actos procesales que realicen el juzgador, las partes y el defensor, si el Ministerio Público no ejercita la acción penal.
 
-II. INCOMPETENCIA DE ORIGEN. Todos los actos procesales que se efectúen por juzgador que le falten los requisitos personales que la ley señala para ser juez o magistrado.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+II. INCOMPETENCIA DE ORIGEN. Las sentencias que se dicten por el juzgador que le falten los requisitos personales que la ley señala para ser juez o magistrado. En el caso anterior la nulidad sólo procederá si lo pide el inculpado y/o su defensor en los términos a que se refiere el Artículo 182 de este código. La nulidad se limitará a reponer el acto procesal para que sea renovado por autoridad legítima, quedando por consecuencia la autoridad ilegítima separada de su cargo, sin perjuicio de la responsabilidad administrativa o penal que proceda.
 
 III. FALTA DE COMPETENCIA. Los actos procesales que se realicen sin competencia.
 
@@ -1567,9 +1579,11 @@ RETENCIÓN POR DELITO FLAGRANTE. Al recibir al indiciado, el Ministerio Público
 
 Será penalmente responsable el Ministerio Público o funcionario que decrete indebidamente la retención. A la persona así detenida se le pondrá en inmediata libertad.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 215.
 
-CASOS EN LOS QUE NO PROCEDE LA RETENCIÓN. No se retendrá al indiciado por delitos en los que proceda el beneficio procesal de penalidad alternativa; a menos que el inculpado se niegue a dar su nombre y domicilio o resulte indicio de que aquel puede ser falso. Mas si el Ministerio Público lo estima conveniente, podrá pedir el arraigo del indiciado. En estos casos, tampoco procederá el arraigo en hotel.
+CASOS EN LOS QUE NO PROCEDE LA RETENCIÓN. No se retendrá al indiciado por delitos en los que proceda el beneficio procesal de penalidad alternativa; a menos que el inculpado se niegue a dar su nombre y domicilio o resulte indicio de que aquel puede ser falso. Mas si el Ministerio Público lo estima conveniente, podrá acordar la retención sólo por el tiempo para pedir de inmediato el arraigo del indiciado y para que aquél se conceda, sin que la retención por ningún motivo pueda exceder de ocho horas, salvo que la detención se realice a partir de las trece horas en sábado, o en domingo. En estos casos, tampoco procederá el arraigo en hotel.
 
 ###### ARTÍCULO 216.
 
@@ -1591,11 +1605,17 @@ PRÓRROGA DE LA LIBERTAD CAUCIONAL DEL RETENIDO CUANDO SE EJERCITE LA ACCIÓN PE
 
 Con ello, la libertad caucional se considerará prorrogada tácitamente, hasta en tanto el juzgador la revoque; modifique su cuantía o cancele la caución. El juzgador citará al inculpado a rendir la declaración preparatoria. Además de sus derechos, en esa diligencia le hará saber las obligaciones que deberá cumplir para conservar su libertad caucional durante el proceso. Si no se presenta, resolverá sobre la petición de orden de aprehensión o comparecencia y ordenará que se haga efectiva la caución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 219.
 
-ARRAIGO DEL INDICIADO. Cuando en la averiguación previa existan indicios de la intervención del indiciado en el cuerpo del delito, el Ministerio Público podrá pedir motivadamente al juzgador, que decrete el arraigo con vigilancia de la autoridad. La que ejercerán el Ministerio Público y la policía ministerial. La petición de arraigo se resolverá dentro de las tres horas siguientes y sólo si el Ministerio Público motiva la urgencia de aquél.
+ARRAIGO DEL INDICIADO. Cuando en la averiguación previa existan indicios de que el indiciado intervino en el cuerpo del delito, el Ministerio Público podrá pedir motivadamente al juzgador, que decrete el arraigo con vigilancia de la autoridad. La que ejercerán el Ministerio Público y la policía ministerial. La petición de arraigo se resolverá dentro de las tres horas siguientes y sólo si el Ministerio Público motiva la urgencia de aquél o que se encuentra en el caso del Artículo 215.
 
 El arraigo se prolongará por el tiempo indispensable para integrar la averiguación; sin que pueda exceder de treinta días. Prorrogable hasta por otros treinta, a solicitud del Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+Mas si el Ministerio Público ejercita acción penal contra el inculpado antes o dentro del plazo que se conceda para el arraigo: éste se prolongará hasta que el juzgador resuelva sobre la orden de aprehensión o comparecencia; y, además, por el tiempo indispensable para ejecutarla. En tales casos, el juzgador resolverá sobre la aprehensión o comparecencia a más tardar al día siguiente laborable de la consignación si así se lo motiva y pide el Ministerio Público.
 
 ###### ARTÍCULO 220.
 
@@ -1615,7 +1635,9 @@ I. DELITO GRAVE. Que se trate de un delito que la ley considere grave.
 
 II. RIESGO FUNDADO DE SUSTRACCIÓN. Que exista riesgo fundado que el indiciado se sustraiga a la acción de la justicia.
 
-III. IMPOSIBILIDAD DE ACUDIR AL JUEZ. Que haya indicio grave de que el indiciado intervino en el delito y se espere demostrar el cuerpo del delito dentro de las cuarenta y ocho horas siguientes; o que demostrado aquél, por razón de la hora o lugar no se pueda acudir ante el juez a solicitar la orden de aprehensión.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+III. IMPOSIBILIDAD DE ACUDIR AL JUEZ. Que, demostrado el cuerpo del delito, haya indicio grave de que el indiciado intervino y se espere hacer probable su responsabilidad penal dentro de las cuarenta y ocho horas siguientes; o que demostrada aquella, además del cuerpo del delito, por razón de la hora o lugar no se pueda acudir ante el juez a solicitar la orden de aprehensión.
 
 ###### ARTÍCULO 222.
 
@@ -1647,7 +1669,9 @@ IX. Lenocinio y trata de personas cuando incida en menores de 16 años de edad.
 
 X. Sustracción y tráfico de menores; salvo cuando se trate del padre o la madre en el primer caso.
 
-XI. Homicidio doloso, simple o calificado. También en grado de tentativa, pero sólo cuando se dispare arma de fuego tres o más veces contra la víctima o se emplee arma blanca con la se le infieran tres o más heridas cerca de órganos vitales.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+XI. Homicidio doloso, simple o calificado, consumado o en grado de tentativa, pero en este último caso sólo cuando se dispare arma de fuego tres o más veces contra la víctima o se emplee arma blanca con el que se le infieran dos o más heridas cerca de órganos vitales internos, o que alguna o más de aquellas heridas interesen a alguno o más de aquellos órganos.
 
 XII. Lesiones dolosas gravísimas; con o sin modalidades agravantes.
 
@@ -1663,7 +1687,9 @@ XVII. Atentados al pudor empleando la violencia física.
 
 XVIII. Robo consumado o en grado de tentativa; siempre y cuando en cualquiera de ellos se emplee violencia en las personas para cometerlo; o mientras se comete; o para huir o conservar lo robado. Robo consumado o en grado de tentativa en casa habitada o destinada para habitación. Robo consumado o en grado de tentativa de vehículo automotor. Receptación dolosa de vehículos automotores robados o de sus componentes. Robo que cometan tres o más personas en industria, almacén o comercio. Robo que cometan tres o más personas mediante fractura de cerraduras. Robo agravado o especialmente agravado por cualquier modalidad, en el que intervenga un servidor público o empleado o agente de seguridad privada, se encuentre o no se encuentre registrada la empresa a la que pertenezca, en su caso. Robo en campo abierto por el que se sustraiga un instrumento o máquina de labranza; un equipo de bombeo o accesorios; fertilizantes, alambre o postas utilizados para cercar.
 
-XIX. Abigeato de ganado mayor, consumado o en grado de tentativa. También se califica como delitos graves la transportación o posesión de cabezas de ganado mayor objeto de abigeato o de sus vestigios identificables, siempre y cuando en cualquiera de ellos su valor exceda de trescientas veces el salario mínimo.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+XIX. Abigeato de ganado mayor, consumado o en grado de tentativa. También se califica como delitos graves la transportación o posesión de cabezas de ganado mayor objeto de abigeato o de sus vestigios identificables, siempre y cuando en cualquiera de ellos su valor exceda de trescientas veces el salario mínimo; asimismo, cuando en un robo con circunstancias especialmente agravantes, concurra la modalidad de transportación o posesión de las cosas robadas, o estas conductas se den en sí como delito doloso por no tratarse del autor o partícipe en el robo que se cometió en circunstancias especialmente agravantes.
 
 XX. Fraccionamientos no autorizados.
 
@@ -1683,7 +1709,7 @@ Este artículo también será aplicable por el juzgador durante la detención pa
 
 ###### ARTÍCULO 225.
 
-REGLAS GENERALES. El Ministerio Público inspeccionará y asegurará los instrumentos y objetos del delito; así como todas aquellas evidencias en las que exista huella del mismo o pudieren tener relación con el delito. Además, no levantará el aseguramiento cuando: 1) Ello sea indispensable para proteger la prueba del delito. 2) Se desconozca quién puede tener derecho a ella. 3) No haya quien la reclame.
+REGLAS GENERALES. El Ministerio Público inspeccionará y asegurará los instrumentos y objetos del delito; así como todas aquellas evidencias en las que exista huella del mismo o pudieren tener relación con el delito. Además, no levantará el aseguramiento cuando: 1) Ello sea indispensable para proteger la prueba del delito. 2) Se desconozca quién puede tener derecho a ella; o éste no se acredita con un principio de prueba, a menos que aparezca dato que lo controvierta. Si la cosa pertenecía al occiso ofendido o a quién quede incapacitado, se podrá entregar a los deudos o a las personas a que se refiere el Artículo 193. 3) No haya quien la reclame.
 
 Al asegurar una evidencia, el Ministerio Público hará constar el lugar donde la guarde; su etiqueta de identificación y bajo responsabilidad de quién se guarda. Procurará que se preserven adecuadamente para evitar su contaminación. También hará constar cómo se guarda la evidencia. El Ministerio Público se podrá estar a las medidas para guardar e identificar la evidencia que tomó la policía. En tal caso, se cerciorará de ellas.
 
@@ -1927,15 +1953,31 @@ CUANDO PROCEDE LA VÍA DE FALTA PENAL. La vía de falta penal procederá cuando 
 
 El Ministerio Público verificará si se cumplen los requisitos del párrafo anterior. De ser así, citará a la persona inculpada a una audiencia.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+Si el Ministerio Público ejercita acción penal sin antes citar a la persona inculpada y sea notorio que se cumplían los requisitos del segundo párrafo de este Artículo y, además, que en autos constaba el domicilio donde se le podía citar, sin que sea necesario que éste se haya proporcionado para oír y recibir notificaciones: se mandará aclarar el pedimento de inicio de la acción penal para que el Ministerio Público subsane su omisión y dé la oportunidad de audiencia a la persona inculpada. Subsanada la omisión, el Ministerio Público informará de ello al juzgador; quien sobreseerá la causa si la persona inculpada reconoció la falta y pagó la multa. En caso contrario, el juez continuará la causa. No será motivo para mandar aclarar el pedimento, si la persona inculpada dejó de comparecer sin causa justificada ante el Ministerio Público.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 266.
 
-AUDIENCIA POR FALTA PENAL. En la audiencia a que se refiere el artículo anterior, el Ministerio Público le hará saber al inculpado la falta que se le atribuye y que si la reconoce sólo le impondrá una multa reducida y en su caso, quedará obligado a reparar el daño; en tanto que: 1) La multa se fijará dentro de la mitad de los limites mínimo y máximo que señala la ley para la conducta como delito. 2) Se prescindirá de cualquier otra sanción que la ley penal señale al delito; salvo la reparación del daño. 3) La falta no se considerará como antecedente penal. 4) El pago de la multa impedirá definitivamente que el Ministerio Público ejercite en su contra la acción penal por el hecho presuntamente delictivo que se le atribuye.
+AUDIENCIA POR FALTA PENAL. En la audiencia a que se refiere el Artículo anterior, el Ministerio Público le hará saber a la persona inculpada la falta que se le atribuye y que si la reconoce sólo le impondrá una multa reducida; en tanto que: 1) La multa se podrá fijar hasta la mitad del máximo si la pena de prisión que señale la ley para el delito no excede de un año, o hasta un tercio del máximo que señale la ley como multa para el delito en los demás casos. 2) Se prescindirá de cualquier otra sanción que la ley penal señale al delito; salvo la reparación del daño, a la que quedará obligada al aceptar la falta. 3) La falta no se considerará como antecedente penal. 4) El pago de la multa impedirá definitivamente que el Ministerio Público ejercite en su contra la acción penal por el hecho presuntamente delictivo que se le atribuye y será motivo para determinar el no-ejercicio de la acción penal.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 267.
 
-RECONOCIMIENTO DE FALTA PENAL. En caso de que la persona inculpada reconozca la falta y convenga en reparar el daño: En la misma audiencia el Ministerio Público le fijará la multa que corresponda y por ministerio de ley a la persona inculpada se le considerará obligada a la reparación del daño por cantidad ilíquida; señalándosele un plazo de diez días para pagar la multa a favor del fondo para mejorar la procuración de justicia. Se le explicará la forma de hacer el pago.
+RECONOCIMIENTO DE FALTA PENAL. En caso de que la persona inculpada reconozca la falta y convenga en reparar el daño: en la misma audiencia el Ministerio Público le fijará la multa que corresponda y, por ministerio de ley, a la persona inculpada se le considerará obligada a la reparación del daño por cantidad ilíquida, se pague o no se pague la multa.
 
-Si la persona inculpada no repara el daño; el Ministerio Público; el ofendido o la víctima; podrán acudir ante el juzgador penal acompañando constancia del reconocimiento de la falta penal y promover incidente de liquidación en vía de ejecución. La resolución que fije el monto servirá de título para directamente hacerlo efectivo en el patrimonio del responsable por la vía de apremio ante juez civil.
+Para hacer efectiva la multa, el Ministerio Público le hará saber a la persona inculpada las reglas para fijar la multa y, además, que tendrá un plazo de diez días para pagarla a favor del fondo para mejorar la procuración de justicia. Para ello entregará a la persona inculpada un instructivo y, en su caso, una forma autorizada a fin de que proceda a realizar el pago de la multa fijada. El Ministerio Público no recibirá dinero en efectivo por ningún concepto.
+
+La Procuraduría General de Justicia fijará los mecanismos internos para hacer expedito y confiable el pago de la multa o caución a través de las formas autorizadas, aquéllas se enterarán al fondo para mejorar la procuración de justicia.
+
+Por regla general, si la pena de prisión máxima para el delito es de dos años o excede de estos, la multa no será menor de treinta días multa. Si la pena de prisión máxima para el delito excede de un año pero es inferior a dos, la multa no será menor de veinte días multa. Si la pena de prisión máxima para el delito es de un año o inferior a éste, la multa no será menor de diez días multa. Mas si el Ministerio Público aplica cualquier aumento a dichos mínimos, lo hará bajo su más estricta responsabilidad haciendo constar los motivos y, además, los motivará racionalmente con el aumento que aplique. La multa no podrá exceder de los máximos del Artículo anterior.
+
+Si la persona inculpada no repara el daño y sin que sea necesario agotar las instancias del proceso: el Ministerio Público, el ofendido o la víctima podrán acudir ante el juez penal acompañando constancia del reconocimiento de la falta penal y promover el incidente de liquidación en vía de ejecución que prevé el Artículo 710. Será suficiente la resolución del juez penal que fije el monto, para que se haga efectivo en el patrimonio del responsable, directamente en la vía de apremio ante juez civil.
+
+De no pagarse la multa dentro del plazo, de inmediato se continuará con la averiguación. En la misma audiencia se prevendrá al inculpado de la consecuencia del impago.
 
 ###### ARTÍCULO 268.
 
@@ -2064,6 +2106,8 @@ El embargo también se levantará si se niega orden de aprehensión o comparecen
 ## TÍTULO PRIMERO. DEBIDO PROCESO PENAL
 
 ### CAPÍTULO V. MEDIDAS CON RELACIÓN A EVIDENCIAS DEL DELITO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 285.
 
@@ -2271,7 +2315,9 @@ FORMALIDADES ANTES DE TOMAR LA DECLARACIÓN PREPARATORIA. La declaración prepar
 
 Una vez que el inculpado cuente con defensor, se le harán saber las demás garantías que le otorga el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Si al inculpado se le dictó orden de comparecencia, se le hará saber que mientras el proceso no se suspenda o concluya con sentencia firme, tendrá las obligaciones a que se refiere el artículo 267; según se las especifique el juzgador en ese momento.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+Si al inculpado se le dictó orden de comparecencia, se le hará saber que mientras el proceso no se suspenda o concluya con sentencia firme, tendrá las obligaciones a que se refiere el Artículo 320; según se las especifique el juzgador en ese momento.
 
 A continuación se le harán saber los hechos determinados que se le atribuyen en los términos de los artículos 34 o 35 de este Código; así como los nombres de sus acusadores y de los testigos que declaren en su contra. Si en la misma audiencia el Ministerio Público determinó los hechos por lo que acusa, estos se harán constar en el acta. Además, se le enterará de las constancias de la averiguación previa.
 
@@ -2317,13 +2363,17 @@ LECTURA DE LA DECLARACIÓN DEL INCULPADO. El juez hará saber siempre al inculpa
 
 TRASTORNO MENTAL DEL INCULPADO. Cuando el juez estime que el inculpado sufre de algún trastorno mental por la conducta que observe al practicar la diligencia; determinará que el secretario haga constar dicho comportamiento y podrá dar por concluida la diligencia para proceder con arreglo al procedimiento especial respectivo, suspendiendo el proceso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 312.
 
-PLAZO Y REQUISITOS PARA DICTAR AUTO DE FORMAL PRISIÓN. El auto de formal prisión se dictará dentro de las sesenta y dos horas, contadas desde el momento en que el inculpado quedó a disposición del juez, cuando concurran los requisitos siguientes:
+PLAZO Y REQUISITOS PARA DICTAR AUTO DE FORMAL PRISIÓN. El auto de formal prisión se dictará dentro de las setenta y dos horas, contadas desde el momento en que el inculpado quedó a disposición del juez, cuando concurran los requisitos siguientes:
 
 I. OBSERVANCIA PREVIA DE GARANTÍA DE AUDIENCIA. Que se practicó la declaración preparatoria en la forma y con los requisitos que establece esta sección.
 
-II. QUE NO SE ACREDITE CAUSA EXCLUYENTE DE DELITO O EXTINTIVA DE LA ACCIÓN PENAL. Que no exista a favor del inculpado alguna causa excluyente de delito; o extintiva de la acción penal.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+II. COMPROBACIÓN DEL CUERPO DEL DELITO. Que se compruebe el cuerpo del delito, a través de demostrar la concreción histórica de los elementos del tipo penal que sean materiales o descriptivos y normativos, con inclusión de la culpa en su caso, que señalan los Artículos 16 y 18 del código penal, con relación al delito de que se trate.
 
 > <small>(F. DE E., P.O. 10 DE AGOSTO DE 1999)</small>
 
@@ -3227,7 +3277,9 @@ INICIO Y CONCLUSIÓN DE LA FASE PROBATORIA EN LA VÍA ORDINARIA. La fase probato
 
 OFRECIMIENTO DE MEDIOS DE PRUEBA. En el auto de formal prisión se ordenará poner el proceso a la vista de las partes, para que dentro del término de cuarenta días comunes, contados desde el siguiente a la última notificación de dicho auto, propongan los medios de prueba que estimen pertinentes. Sin perjuicio de ofrecer y recibir los que por su naturaleza o las circunstancias del caso, sea urgente desahogar.
 
-Una vez que el auto de formal prisión se notifique a las partes: El secretario hará el cómputo del término de 50 días y asentará los días en que principia y concluye el término.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+Una vez que el auto de formal prisión se notifique a las partes: El secretario hará el cómputo del término de cuarenta días y asentará los días en que principia y concluye el término.
 
 #### SECCIÓN TERCERA. ADMISIÓN DE MEDIOS DE PRUEBA EN VÍA ORDINARIA
 
@@ -5329,9 +5381,17 @@ I. VALIDEZ CONFORME AL PRINCIPIO DE VIGENCIA (REGLA GENERAL) Todos los actos y o
 
 II. PROLONGACIÓN TRANSITORIA DE VIGENCIA PARA PROCESOS EN TRÁMITE. También se resolverán conforme al Código de Procedimientos Penales que se abroga o de sus reformas, los procesos que al entrar en vigencia el nuevo código, se encuentren en trámite, en primera o segunda instancia, hasta su conclusión. Igualmente, los que al entrar en vigencia el nuevo código, su fase de ejecución esté pendiente de iniciarse o se encuentre en trámite.
 
-III. EXCEPCIÓN PARA BENEFICIOS PROCESALES. Se exceptúan del apartado anterior: el sistema de faltas penales; la libertad caucional y la oblación. Así como los demás beneficios procesales análogos que se prevean en este código o en otras leyes; a los que el inculpado se podrá acoger y se le concederán si estos proceden.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+III. EXCEPCION PARA BENEFICIOS PROCESALES. Se exceptúan del apartado anterior: la libertad caucional y la oblación, así como los demás beneficios procesales análogos que se prevean en este código o en otras leyes; a los que el inculpado se podrá acoger y se le concederán si estos proceden.
+
+Si antes de dictar sentencia en primera instancia, se advierte que un proceso se sigue por delito o delitos de los que ahora este código considera faltas penales y la acción penal se ejercitó antes de la vigencia de este código, el propio juez procederá a aplicar en lo conducente los Artículos 265, 266, 267 y demás relativos de este código, sin necesidad de requerir al Ministerio Público que practique las diligencias correspondientes. Las multas que se paguen por aquel concepto se ingresarán al fondo para mejorar la administración de justicia.
 
 IV. INMEDIATEZ DE LA APLICACIÓN DE LAS NORMAS VIGENTES DE ESTE CÓDIGO, PARA LAS AVERIGUACIONES PREVIAS EN TRÁMITE. Las averiguaciones previas que se encuentren en trámite al iniciar su vigencia este código, en lo sucesivo se ajustarán al mismo.
+
+La libertad caucional y la oblación en lo conducente, así como el sistema de faltas penales, también se aplicarán a los asuntos que se encuentren en trámite durante la averiguación previa a partir de cuando inicie su vigencia este código.
+
+Se considerará un asunto en trámite a partir de cuando se recibió en el juzgado el pedimento de inicio de la acción penal.
 
 V. INMEDIATEZ DE LA APLICACIÓN DE LAS NORMAS DE ESTE CÓDIGO, PARA LOS PROCESOS EN LOS QUE BAJO SU VIGENCIA SE INICIE LA PRIMERA O SEGUNDA INSTANCIA; ASÍ COMO PARA LAS AVERIGUACIONES PREVIAS QUE SE INICIEN. También se ajustarán a este código, las averiguaciones previas que se inicien bajo su vigencia; así como los procesos que en primera o segunda instancia se inicien bajo la vigencia del mismo.
 
@@ -5428,3 +5488,9 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 30 DE NOVIEMBRE DE 1999.
+
+UNICO.- Estas reformas iniciarán su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
