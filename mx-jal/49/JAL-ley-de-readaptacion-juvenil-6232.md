@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-readaptacion-juvenil-6232"
 country: "mx"
 rank: "ley"
 publication_date: "1958-08-09"
-last_updated: "1958-08-09"
+last_updated: "1969-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE READAPTACION JUVENIL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL. 6 DE SEPTIEMBRE DE 1969.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 9 de agosto de 1958.
 
@@ -41,17 +41,21 @@ LEY DE READAPTACION JUVENIL.
 
 Principios Generales.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1969)</small>
+
 ###### Artículo 1o.
 
-Los infractores menores de dieciocho años que no estén legalmente emancipados no podrán ser sometidos a proceso ante las autoridades judiciales, sino que quedarán sujetos directamente a los Organismos especiales a que se refiere esta Ley, para que previa la investagacion (sic) y observación necesarias, se dicten las medidas conducentes para su educación y adaptación social, así como para atacar la causa o causas determinantes de su infracción.
+Los infractores menores de dieciséis años, que no estén legalmente emancipados no podrán ser sometidos a proceso ante las autoridades judiciales, sino que quedarán sujetos directamente a los organismos especiales a que se refiere esta Ley, para que previa la investigación y observación necesarias, se dicten las medidas conducentes para su educación y adaptación social, así como para atacar la causa o causas determinantes de su infracción.
 
 ###### Artículo 2o.
 
 Los menores quedan obligados a comparecer como testigos ante los tribunales y podrán ser compelidos a declarar en los términos previstos por la ley.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1969)</small>
+
 ###### Artículo 3o.
 
-La responsabilidad civil por los hechos de los menores de dieciocho años que cometan infracciones a las Leyes Penales, sólo podrá ser exigida ante los Tribunales Civiles con arreglo a las Leyes de la Materia.
+La responsabilidad civil por los hechos de los menores de dieciséis años que cometan infracciones a las Leyes Penales, sólo podrá ser exigida ante los Tribunales Civiles con arreglo a las Leyes de la Materia.
 
 ###### Artículo 4o.
 
@@ -211,13 +215,17 @@ Para autorizar la reclusión fuera del establecimiento de educación correcciona
 
 Del Procedimiento.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1969)</small>
+
 ###### Artículo 21o.
 
-En la aprehensión de menores de dieciocho años se procurará que sea practicada prescindiéndose de agentes o procedimientos que den al infractor la impresión de que es un criminal o perverso. Queda absolutamente prohibida su reclusión en locales designados para presos adultos o en compañía de éstos.
+En la aprehensión de menores de dieciséis años se procurará que sea practicada prescindiéndose de agentes o procedimientos que den al infractor la impresión de que es un criminal o perverso. Queda absolutamente prohibida su reclusión en locales designados para presos adultos o en compañía de éstos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 1969)</small>
 
 ###### Artículo 22o.
 
-Toda Autoridad que en ejercicio de sus funciones tenga conocimiento de que un menor de dieciocho años ha infringido la Ley Penal, deberá comunicarlo de inmediato al Consejo Paternal para que éste tome las medidas que procedan en los términos de esta ley. En la misma forma deberá proceder cuando tenga a su disposición a un menor infractor.
+Toda Autoridad que en ejercicio de sus funciones tenga conocimientos de que un menor de dieciséis años ha infringido la Ley Penal, deberá comunicarlo de inmediato al Consejo Paternal para que éste tome las medidas que procedan en los términos de esta Ley. En la misma forma deberá proceder cuando tenga a su disposición a un menor infractor.
 
 El consejo ordenará sin pérdida de tiempo la localización del domicilio del menor citando cuando así proceda, a los familiares de quienes dependa su vigilancia y personas que hayan presenciado o tengan conocimiento de la infracción.
 
@@ -261,9 +269,11 @@ Cuando el Consejo lo estime adecuado podrá dejar el menor al cuidado de su fami
 
 Si el menor de doce años no estuviere moralmente abandonado, pervertido o en peligro de estarlo y si su estado no exigiere un tratamiento especial, el Consejo lo amonestará o le aplicará las medidas que estime pertinentes. En este caso advertirá y aconsejará a los padres del menor del modo más conveniente.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1969)</small>
+
 ###### Artículo 32o.
 
-Si el menor de dieciocho años pero mayor de doce estuviere moralmente abandonado, pervertido o en peligro de estarlo, el Consejo ordenará su envío a la Granja de Recuperación Juvenil, en donde permanecerá el tiempo necesario para su educación.
+Si el menor de dieciséis años pero mayor de doce estuviere moralmente abandonado, pervertido o en peligro de estarlo, el Consejo ordenará su envío a la Granja de Recuperación Juvenil, en donde permanecerá el tiempo necesario para su educación.
 
 ###### Artículo 33o.
 
@@ -355,9 +365,11 @@ El menor podrá disfrutar condicionalmente de libertad, siempre que hubiere most
 
 La Granja Industrial Juvenil de Recuperación a través de sus órganos, cuidará de la vigilancia del libertado cuando así proceda, fijando las reglas de conducta que estime convenientes, como la obligación de aprender un oficio, la de permanecer en determinado lugar, o la de abstenerse de bebidas alcohólicas. Si dentro de un año a contar de la libertad infringiere el menor las reglas de su conducta impuesta, o si de cualquier otro modo abusare de su libertad la Granja Industrial Juvenil de Recuperación, con autorización del Consejo Paternal llevará a cabo el reingreso del menor al Departamento que corresponda en dicha Granja. En caso contrario, la libertad será definitiva. En todo caso se procurará que los padres o demás parientes del menor se hagan cargo de los gastos que demande el sostenimiento y educación del menor que goce de este beneficio.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1969)</small>
+
 ###### Artículo 50o.
 
-Si el estado del menor de 18 años exigiere un tratamiento especial, por ser enfermo mental, ciego, sordo, mudo, epiléptico, alcohólico o toxicómano, o si se encontrare retrasado en su desarrollo mental o moral, el Consejo Paternal ordenará que se le someta a un tratamiento adecuado.
+Si el estado del menor de dieciséis años exigiera un tratamiento especial, por ser enfermo mental, ciego, sordo, mudo, epiléptico, alcohólico o toxicómano, o si se encontrare retrasado en su desarrollo mental o moral, el Consejo Paternal ordenará que se le someta a un tratamiento adecuado.
 
 ###### Artículo 51o.
 
@@ -367,9 +379,11 @@ Durante el tiempo de su reclusión, el menor estará obligado a trabajar de acue
 
 Si el menor cometiere durante su internamiento una grave infracción o demostrare alguna temibilidad, se le aplicará la medida tutelar correspondiente con las atenuaciones que procedan, a juicio del Consejo Paternal.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1969)</small>
+
 ###### Artículo 53o.
 
-La Granja Industrial Juvenil de Recuperación cuidará de que, entre los infractores menores de 18 años, se establezcan las clasificaciones respectivas para evitar la contaminación de los menores que no representen peligrosidad con reincidentes o habituales.
+La Granja Industrial Juvenil de Recuperación cuidará de que entre los infractores menores de dieciséis años se establezcan las clasificaciones respectivas para evitar la contaminación de los menores que no representan peligrosidad con reincidentes o habituales.
 
 TRANSITORIOS:
 
@@ -408,3 +422,9 @@ AGUSTIN YAÑEZ.
 El Srio. Gral. de Gobierno,
 
 Lic. Alfonso de Alba.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 1969.
+
+UNICO.- Esta Ley empezará a surtir sus efectos a los 3 días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
