@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1994-11-21"
+last_updated: "1995-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -67,7 +67,9 @@ Son Nuevoleoneses:
 
 I.- Los nacidos en territorio del Estado, o accidentalmente fuera de él, de padres mexicanos, nativos de o avecindados en alguna de sus Municipalidades.
 
-II.- Los mexicanos por nacimiento o naturalización, avecindados en el Estado, que no manifiesten ante el Alcalde Primero del lugar de su residencia su deseo de conservar su anterior origen.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1995)</small>
+
+II.- Los mexicanos por nacimiento o naturalización avecindados en el Estado que no manifiesten ante el Presidente Municipal del lugar de su residencia su deseo de conservar su anterior origen.
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 1973)</small>
 
@@ -303,7 +305,7 @@ Concurriendo el cargo de Diputado en una misma persona con cualquiera otro de lo
 
 ###### Art. 51.
 
-Cuando un mismo individuo fuere electo Diputado por dos o más Distritos, preferirá la elección del de su vecindad. Si no fuere vecino de ninguno de ellos, será Diputado por el Distrito de menor población.
+(DEROGADO, P.O. 24 DE MAYO DE 1995)
 
 ###### Art. 52.
 
@@ -1289,9 +1291,11 @@ III.- En términos de las leyes federales y locales que rigen la materia y dentr
 
 IV.- Los Municipios en el ámbito de su competencia y con apego a las leyes federales y locales, planearán y regularán de manera conjunta y coordinada el desarrollo de centros urbanos que formen o tiendan a formar una continuidad demográfica, sea que éste se integre dentro del mismo Estado de Nuevo León o conjuntamente con un municipio situado en otra Entidad Federativa vecina.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+
 ###### Art. 132.
 
-Cuando por cualquiera circunstancia no se recibieren los Munícipes nuevamente electos el día primero del año, continuarán ejerciendo sus funciones los que deben cesar hasta que aquéllos se reciban de sus cargos.
+Cuando por cualquier circunstancia los Ayuntamientos electos no tomaren posesión el día treinta y uno de Octubre, continuarán ejerciendo sus funciones los Ayuntamientos salientes hasta que aquellos tomen posesión de sus cargos.
 
 ## TITULO IX.
 
@@ -2178,5 +2182,23 @@ P.O. 5 DE NOVIEMBRE DE 1993.
 UNICO:- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 21 DE NOVIEMBRE DE 1994.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE MAYO DE 1995.
+
+DECRETO NUMERO 49, QUE REFORMA EL ARTICULO 132.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE MAYO DE 1995.
+
+DECRETO NUMERO 50, QUE REFORMA LA FRACCION II DEL ARTICULO 31.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE MAYO DE 1995.
+
+DECRETO NUMERO 53, QUE DEROGA EL ARTICULO 51.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
