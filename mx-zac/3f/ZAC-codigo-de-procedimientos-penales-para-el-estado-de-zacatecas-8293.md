@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "2001-04-18"
+last_updated: "2002-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2002.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -102,6 +102,10 @@ Es competente para conocer de los delitos continuados y de los permanentes, cual
 ###### ARTICULO 9o.
 
 Para la decisión de las competencias se observarán las siguientes reglas: las que se suscitan entre tribunales de igual categoría se decidirán conforme a los artículos anteriores, y si hay dos o más competentes, a favor del que haya prevenido.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2002)</small>
+
+Las cuestiones de competencia que se susciten entre los jueces de primera instancia y municipales serán resueltas de plano por el Tribunal Superior de Justicia. Sino se planteara conflicto alguno bastará la aceptación de la competencia para conocer del asunto.
 
 ###### ARTICULO 10.
 
@@ -1083,7 +1087,9 @@ El tribunal deberá tomar conocimiento directo del sujeto, de la víctima y de l
 
 La instrucción deberá terminarse en el menor tiempo posible. Cuando exista auto de formal prisión y el delito tenga señalada una sanción máxima que exceda de dos años de prisión se terminará dentro de diez meses.
 
-Cuando el máximo de la sanción imponible no exceda de dos años de prisión, con independencia de que se dicte auto de formal prisión o sujeción a proceso, el juicio se seguirá en vía sumaria, de conformidad con el artículo 299-Bis.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2002)</small>
+
+Cuando el máximo de la sanción imponible al tipo básico del delito de que se trate no exceda de dos años de prisión, o la aplicable sea alternativa o no privativa de la libertad, con independencia de que se dicte auto de formal prisión o sujeción a proceso, el juicio se seguirá en vía sumaria, de conformidad con el artículo 299-Bis. Lo anterior no será obstáculo para la imposición de penas mayores, de acuerdo a las constancias procesales.
 
 Los términos a que se refiere este artículo se contarán a partir de la fecha de auto de formal prisión o del de sujeción a proceso, en su caso.
 
@@ -1967,15 +1973,31 @@ b)Se citará a la audiencia final de pruebas, conclusiones y sentencia, que debe
 
 II.- Las pruebas pericial, testimonial, de confrontación, careos, y la de inspección ocular con carácter de reconstrucción de hechos deberán promoverse dentro de los cinco días hábiles contados a partir de la notificación del auto a que se refiere el párrafo anterior en la que se asentará el cómputo respectivo y se desahogarán antes de la audiencia final, sin perjuicio de que se haga relación de ellas en ésta. Las demás pruebas se promoverán en cualquier tiempo y se desahogarán o tendrán por desahogadas en la fase probatoria de la audiencia;
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2002)</small>
+
+Cuando estas pruebas tengan por objeto demostrar cuestiones supervenientes podrán ofrecerse hasta el día anterior al de la celebración de la audiencia, pudiéndose diferir ésta, por única ocasión, de acuerdo a su pertinencia y factibilidad.
+
 III.- De no desahogarse en tiempo y forma las pruebas ofrecidas en juicio sumario, la audiencia podrá diferirse con sujeción al término establecido para dictar sentencia;
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2002)</small>
+
+El cambio en las modalidades del delito derivado de pruebas posteriores, así como la ampliación del término del proceso, no serán obstáculo para que el Juez siga conociendo de la causa.
 
 IV.- Si las conclusiones del Ministerio Público actualizan alguna de las hipótesis previstas en el artículo 293 de este Código, se dará la vista correspondiente al Procurador del Estado, para los efectos del artículo 294 del referido Código, asentándose en el acta el diferimiento de la audiencia final hasta en tanto el Procurador desahogue la vista.
 
 V.- En el juicio sumario no se requerirá auto que agote la averiguación ni aquel que declare cerrada la Instrucción;
 
-VI.- Contra las resoluciones interlocutorias dictadas en este procedimiento no procederá recurso alguno, y cualquier cuestión incidental será resuelta de plano.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2002)</small>
 
-VII.- La audiencia principiará con la recepción, por su orden, de las pruebas promovidas por las partes, a continuación se recibirán las conclusiones del Ministerio Público y la contestación y conclusiones del acusado y su defensor, acto continuo se dictará la sentencia que corresponda.
+VI.- Contra los autos de formal prisión o sujeción a proceso y demás resoluciones interlocutorias dictadas en este procedimiento no procederá recurso alguno.
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2002)</small>
+
+VII.- La audiencia principiará con la recepción, por su orden, de las pruebas promovidas por las partes, a continuación se recibirán las conclusiones del Ministerio Público y la contestación y conclusiones del acusado y su defensor, acto continuo se dictará la sentencia que corresponda, y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2002)</small>
+
+VIII. En caso de concurso de delitos bastará que la pena máxima de uno de ellos exceda de dos años de prisión para que conozca el juez de primera instancia hasta su total conclusión.
 
 ### CAPITULO III. Procedimiento ante los Jueces Menores
 
@@ -3372,3 +3394,9 @@ Tercero. Las personas sujetas a procesos penales que se encuentren en trámite a
 P.O. 18 DE ABRIL DE 2001
 
 UNICO.- El presente Decreto entrará en vigor quince días naturales después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 2002
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Las personas cuya situación jurídica sea la de procesadas con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido el delito, sin perjuicio de aplicar, cuando proceda lo previsto en el artículo 56 del Código Penal del Estado.
