@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-742
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-07-31"
-last_updated: "1992-07-03"
+last_updated: "1994-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1994.
 
 Ley publicada en el Periódico Oficial, el Miércoles 31 de Julio de 1991.
 
@@ -475,7 +475,13 @@ XIX.- Brindar la asesoría técnica que soliciten los municipios, para la formul
 
 XX.- Celebrar convenios de coordinación y asistencia técnica con las entidades y organismos que apoyen planes de vivienda; y
 
-XXI.- Las demás que le señalen las leyes, reglamentos y otras disposiciones vigentes.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE1994)</small>
+
+XXI.- Operar los Sistemas de Radio Nuevo León y Televisión Estatal, supervisando su apego a las políticas generales y programas que se fijen en la materia, así como impulsar, implementar y determinar su preservación como modelos culturales, consolidando su misión y vocación de medios electrónicos de comunicación comprometidos en el bienestar social, la calidad de vida, la integración familiar de los nuevoleoneses, la cultura y las artes.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 1994)</small>
+
+XXII.- Las demás que le señalen las Leyes o Reglamentos y otras disposiciones vigentes.
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE1992)</small>
 
@@ -653,7 +659,7 @@ II.- Diseñar y mantener un proceso dinámico de consulta de opinión ciudadana 
 
 III.- Establecer nuevas alternativas de comunicación y difusión en la actividad de la Administración Pública Estatal;
 
-IV.- Organizar y operar los sistemas de Radio Gobierno y Televisión Estatal, supervisando su apego a las políticas generales y programas que se fijen en la materia;
+IV.- (DEROGADA, P.O. 15 DE JUNIO DE 1994)
 
 V.- Recopilar la información que generen los medios de comunicación, elaborando compilaciones y análisis de la misma, para mantener enterados oportunamente a los funcionarios;
 
@@ -798,3 +804,7 @@ P.O. 3 DE JULIO DE 1992.
 ###### ARTICULO TERCERO
 
 - Las atribuciones de la Secretaria de Desarrollo Social en materia educativa, contempladas en otras leyes, reglamentos, acuerdos y disposiciones, se entienden conferidas a la Secretaria de Educación.
+
+P.O. 15 DE JUNIO DE 1994.
+
+UNICO:- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
