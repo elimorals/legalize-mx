@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1946-04-16"
+last_updated: "1947-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ABRIL DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1947.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -123,11 +123,13 @@ Las instituciones de seguros extranjeras sólo podrán publicar los datos de con
 
 El uso de las palabras "seguro," "reaseguro," "aseguramiento" u otras similares en cualquier idioma, en la denominación de un establecimiento o de una sociedad, se reserva exclusivamente a las instituciones de seguros. Las sucursales de instituciones de seguros del extranjero autorizadas para operar en México podrán usar en su denominación esos términos, agregando la palabra "sucursal," con indicación del lugar en que operen. El Registro Público de Comercio no inscribirá escrituras públicas de sociedades en cuya denominación se empleen dichas palabras o sus equivalentes, en español o en cualquier otro idioma, sino cuando la escritura aparezcan insertos los documentos oficiales que comprueben la existencia de la autorización otorgada por la Secretaría de Hacienda. El uso ilegal de dichas palabras u otras equivalentes, en español o en cualquier otro idioma, se castigará por la Secretaría de Hacienda y Crédito con multa de $500.00 a $1,000.00 a cada uno de los gerentes, directores o miembros del Consejo de Administración del establecimiento o sociedad correspondiente, y la negociación respectiva será clausurada administrativamente por la Secretaría de Hacienda y Crédito Público, hasta que su denominación sea cambiada.
 
-(REFORMADO, D.O.F. 16 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1947)</small>
 
 ###### ARTICULO 8°.
 
-Los Poderes de la Federación y de los Estados, los Gobiernos del Distrito y de los Territorios Federales, los Municipios, los establecimientos descentralizados, las sociedades de economía mixta, las comisiones autónomas, deberán celebrar sus contratos de seguro, con las instituciones nacionales de seguros, con las mexicanas en su defecto y finalmente con las sucursales de empresas extranjeras autorizadas para operar en el país, salvo disposición contraria de la Ley del Seguro Social.
+Los Poderes de la Federación y de los Estados, los gobiernos del Distrito y de los Territorios federales, los municipios, los establecimientos descentralizados, las sociedades de economía mixta y las comisiones autónomas deberán celebrar sus contratos de seguro, indistintamente con las instituciones nacionales o mexicanas de seguros y, en su defecto, con las sucursales de empresas extranjeras autorizadas para operar en el país, salvo disposición contraria de la Ley del Seguro Social.
+
+Los seguros a que se refiere este artículo se contratarán exclusivamente con la mediación del organismo que para este objeto establezca la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 9°.
 
@@ -1680,3 +1682,13 @@ Para ajustar sus capitales mínimos a lo dispuesto en los artículos 20 y 21 ref
 ###### ARTICULO III.
 
 Las presentes reformas entrarán en vigor el día de su publicación en el Diario Oficial.
+
+D.O.F. 31 DE DICIEMBRE DE 1947.
+
+###### ARTICULO I.
+
+En tanto se establezca el organismo a que se refiere el artículo 8°. los seguros indicados en el mismo seguirán contratándose con la "Aseguradora Mexicana", S. A.
+
+###### ARTICULO II.
+
+El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
