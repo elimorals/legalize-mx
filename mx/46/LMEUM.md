@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1943-03-31"
+last_updated: "1943-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE AGOSTO DE 1943.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -54,9 +54,13 @@ Las únicas monedas circulantes serán:
 
 a). Los billetes del Banco de México, con las denominaciones que fijen sus Estatutos;
 
-b). (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1938)
+( REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE AGOSTO DE 1943)
 
-c). Las monedas de plata de un peso y de cincuenta y veinte centavos, con los tamaños, pesos, cuños, ley de 0.720 (setecientos veinte milésimos) y demás características que se establecen en el Decreto de 27 de octubre de 1919;
+b). Las monedas de plata de un peso y de cincuenta centavos y veinte centavos, con los tamaños, pesos, cuños, ley de 0.720 (setecientos veinte milésimos) y las características que se establecen en el decreto de 27 de octubre de 1919.
+
+> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1943)</small>
+
+c). La moneda fraccionaria de bronce con denominación de veinte centavos y el tamaño, peso, cuño, composición y demás características que se establecen en el decreto de 3 de agosto de 1943.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1942)</small>
 
@@ -437,6 +441,10 @@ Se prorroga hasta el 30 de junio del presente año, el plazo que para la circula
 ## TRANSITORIOS
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 10 DE AGOSTO DE 1943.
+
+UNICO.- El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO 3°.
 
