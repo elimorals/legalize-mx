@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2003-05-03"
+last_updated: "2003-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2003.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -3313,7 +3313,7 @@ Los menores de edad no pueden alegar la nulidad de que hablan los artículos 409
 
 ###### ARTICULO 416.
 
-Cuando se hacen pasar por mayores
+Cuándo se hacen pasar por mayores
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -22827,7 +22827,7 @@ Concepto de aparcería agrícola
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-Tiene lugar la aparcería agrícola, cuando una persona da a otra un predio rústico para que lo cultive, a fin de repartirse los frutos en la forma que convengan o a falta de convenio, conforme a las costumbres del lugar; en el entendido de que el aparcero nunca podrá corresponderle sólo por su trabajo menos del 50 por ciento de la cosecha.
+Tiene lugar la aparcería agrícola, cuando una persona da a otra un predio rústico para que lo cultive, a fin de repartirse los frutos en la forma que convengan o a falta de convenio, conforme a las costumbres del lugar; en el entendido de que al aparcero nunca podrá corresponderle sólo por su trabajo menos del 50 por ciento de la cosecha.
 
 ###### ARTICULO 2982.
 
@@ -24793,7 +24793,17 @@ Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede 
 
 La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
-Las entidades financieras podrán ceder créditos que tengan garantizados con hipoteca sin necesidad de notificación al deudor, ni de registro cuando los mismos sean cedidos a una entidad financiera actuando a nombre propio o como fiduciaria y el propósito de la cesión sea la emisión y colocación de valores, y siempre que el cedente mantenga la administración de los créditos deberá únicamente notificarlo al deudor.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2003)</small>
+
+Las Instituciones de Crédito, indistintamente de Banca Múltiple o de Banca de Desarrollo, las demás entidades financieras, así como los fideicomisos públicos, que conforman el Sistema Bancario Mexicano; los institutos de vivienda y en su caso, las entidades de la administración pública federal, estatal o municipal, creados con esa finalidad en los términos de las leyes orgánicas ó conforme el acto legislativo por el que se constituyan; podrán ceder los créditos que tengan garantizados con hipoteca, sin necesidad de escritura pública, notificación al deudor, ni de registro, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor, señalando quién será el nuevo acreedor y, en su caso, el domicilio para recibir el pago dentro del lugar donde se estuviere realizando antes de la cesión.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2003)</small>
+
+Derivado de la cesión, el deudor tendrá los mismos derechos y obligaciones contemplados en el contrato original; por lo que no podrán variarse las condiciones para el cumplimiento de las obligaciones del deudor, sin su consentimiento.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2003)</small>
+
+En los supuestos previstos en los párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor del o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de esta.
 
 ###### ARTICULO 3224.
 
@@ -25282,3 +25292,9 @@ P.O. 3 DE MAYO DE 2003.
 PRIMERO.- El presente decreto entrará en vigor a los cuarenta y cinco días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+P.O. 8 DE OCTUBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
