@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-penales-del-estado-de-campeche-3386"
 country: "mx"
 rank: "codigo"
 publication_date: "1975-12-09"
-last_updated: "1986-12-23"
+last_updated: "1993-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1993.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el martes 9 de diciembre de 1975.
 
@@ -141,13 +141,17 @@ Cuando se dé vista de la causa al procesado, el tribunal tomará las precaucion
 
 Si se perdiere algún proceso, se repondrá a costa del responsable, el cual estará obligado a pagar los daños y perjuicios que se ocasionen por la pérdida, quedando, además, sujeto a las disposiciones del Código Penal, siempre que el acto fuere sancionado conforme a ellas. Para la reposición del expediente se recurrirá a las constancias existentes en los archivos, libros y otros expedientes y a todos los datos que puedan aportarse. El juez ordenará de oficio la reposición, y si fuere solicitada por alguna parte, se dará a su instancia la tramitación de los incidentes.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+
 ###### Artículo 16.
 
-Ningún escrito se admitirá en la Secretaría de un juzgado sin estar firmado por la parte que lo presente. No sabiendo o no pudiendo ésta escribir, deberá presentarlo en persona, y el secretario lo hará constar así, expresando la causa de no estar firmado, o podrá suscribirlo y presentarlo otra persona a su nombre; pero en este caso, deberá ratificar el escrito el interesado ante el Actuario o Testigos de Asistencia.
+Ningún escrito se admitirá, en los juzgados y tribunal superior, sin estar debidamente firmado por la parte que promueve, pudiéndose ordenar su ratificación cuando se estime necesario. No sabiendo o no pudiendo escribir el promovente, deberá presentarlo en persona, y el secretario lo hará constar así, expresando la causa de no estar firmado, o podrá suscribirlo y presentarlo otra persona a su nombre. En este último caso, el interesado ratificará el escrito ante el actuario o testigos de asistencia.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Artículo 17.
 
-El secretario hará constar el día y la hora en que se presente un escrito y dará cuenta de él, a más tardar dentro de veinticuatro horas, bajo la pena de cincuenta pesos de multa, sin perjuicio de las demás que merezca conforme a las leyes.
+El secretario hará constar el día y la hora en que se presente un escrito y dará cuenta de él, a más tardar, dentro de veinticuatro horas; de no hacerlo así se le aplicará una corrección disciplinaria, sin perjuicio de las demás sanciones que merezca conforme a las leyes.
 
 ###### Artículo 18.
 
@@ -181,9 +185,11 @@ Los tribunales y los jueces podrán imponer las correcciones disciplinarias que 
 
 Cuando la corrección recaiga sobre persona que goce de sueldo del erario, se dará aviso a la pagaduría respectiva.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+
 ###### Artículo 24.
 
-El Ministerio Público, en las diligencias de policía judicial podrá imponer, por vía de corrección disciplinaria, multas que no excedan de veinticinco pesos. Contra estas correcciones no se admite más recurso que el de queja ante el Procurador General de Justicia.
+El ministerio público, en las diligencias de policía judicial, podrá imponer, por vía de corrección disciplinaria, multas que no excedan de cinco días de salario mínimo general. Contra esta corrección no se admite más recurso que el de queja ante el Procurador General de Justicia.
 
 ###### Artículo 25.
 
@@ -235,7 +241,9 @@ Son correcciones disciplinarias:
 
 I.- El apercibimiento;
 
-II.- La multa de veinticinco a quinientos pesos;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 1993)</small>
+
+II.- La multa de tres a cien días de salario mínimo general;
 
 III.- La suspensión hasta por un mes;
 
@@ -249,7 +257,9 @@ Las correcciones disciplinarias podrán imponerse de plano en el acto de cometer
 
 El Ministerio Público en la averiguación previa y los tribunales, podrán emplear, para hacer cumplir sus determinaciones, los siguientes medios de apremio:
 
-I.- La multa de quince hasta trescientos pesos;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 1993)</small>
+
+I.- La multa de tres a sesenta días de salario mínimo general;
 
 II.- El auxilio de la fuerza pública;
 
@@ -375,27 +385,35 @@ Todas las audiencias serán públicas, pudiendo entrar libremente a ellas todos 
 
 En los casos en que se trate de un delito contra la moral, o cuando en el proceso sea ésta atacada, la audiencia se verificará a puerta cerrada, sin que puedan entrar al lugar en que se celebre más que las personas que intervengan oficialmente en ella.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+
 ###### Artículo 63.
 
-Todos los que asistan a la audiencia estarán con la cabeza descubierta, con respeto y en silencio, quedando prohibido dar señales de aprobación o desaprobación y externar o manifestar opiniones sobre la culpabilidad o inocencia del acusado sobre las pruebas que se rindan o sobre la conducta de alguno de los que intervengan en el juicio. El transgresor será amonestado; si reincidiere, se le expulsará del local donde la audiencia se celebre, y si se resiste a salir o vuelve al lugar se le impondrá como corrección disciplinaria multa hasta de doscientos pesos.
+Todos los que asistan a la audiencia estarán con la cabeza descubierta, con respeto y en silencio, quedando prohibido dar señales de aprobación o desaprobación y externar o manifestar opiniones sobre la culpabilidad o inocencia del acusado sobre las pruebas que se rindan, o sobre la conducta de alguno de los que intervengan en el juicio. El transgresor será amonestado; si reincidiere, se le expulsará del local donde la audiencia se celebre, y si se resiste a salir o vuelve al lugar se le impondrá como corrección disciplinaria multa hasta de cincuenta días de salario mínimo general.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Artículo 64.
 
-Cuando hubiere tumulto, el funcionario que presida la audiencia podrá imponer a los que lo hayan causado, hasta quince de prisión o hasta doscientos pesos de multa.
+Cuando hubiere tumulto, el funcionario que presida la audiencia podrá imponer, a los que lo hayan causado, hasta cincuenta días de salario mínimo general de multa como corrección disciplinaria.
 
 ###### Artículo 65.
 
 Cuando el orden no se restablezca por los medios expresados, se hará que la fuerza pública haga despejar el lugar donde la audiencia se celebre, continuando a puerta cerrada.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+
 ###### Artículo 66.
 
-Si el procesado faltare o injuriase a alguno de los que intervienen en la audiencia o a cualquiera otra persona, se le mandará expulsar del lugar donde aquélla se celebre, continuándola sin él, pudiendo imponérsele, por el que la presida y por vía de corrección disciplinaria, hasta quince días de prisión o hasta doscientos pesos de multa.
+Si el procesado faltase el respeto o injuriase a alguno de los que intervienen en la audiencia o a cualquiera otra persona, se le mandará a expulsar del lugar donde aquella se celebre, continuándola sin él, pudiendo imponérsele, por el que la presida y por vía de corrección disciplinaria, multa hasta de cincuenta días de salario mínimo general.
 
 ###### Artículo 67.
 
 Si el defensor perturbase el orden o injuriase u ofendiese a alguna persona, se le apercibirá, y si reincidiere, se le mandará expulsar del lugar donde aquélla se celebre, conti- fensores (sic) de oficio, para que, si quiere, nombre de entre ellos otro que le siga defendiendo.
 
-Al expulsado se le impondrán hasta quince días de prisión o hasta doscientos pesos de multa.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+
+Al expulsado se le impondrá como corrección disciplinaria multa de hasta cincuenta días de salario mínimo general.
 
 ###### Artículo 68.
 
@@ -405,7 +423,9 @@ Si el que cometiere las faltas indicadas fuere el representante del Ministerio P
 
 El acusado, durante la audiencia, sólo podrá comunicarse con sus defensores, sin poder dirigir la palabra al público.
 
-Si infringiere esta disposición será castigado, así como aquél que con él se comunique, con prisión hasta de quince días o multa de doscientos pesos.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+
+Si infringiere esta disposición será castigado, así como aquél que con él se comunique, con multa hasta de cincuenta días de salario mínimo como corrección disciplinaria.
 
 ###### Artículo 70.
 
@@ -485,31 +505,31 @@ Las resoluciones judiciales no se entenderán consentidas, sino cuando notificad
 
 ###### Artículo 83.
 
-Para que haya sentencia en el tribunal pleno, se necesita la presencia de todos los magistrados; y la validez de estas resoluciones requiere cuando menos el voto de la mayoría. Tratándose de otras resoluciones no será necesaria la presencia de todos los miembros del tribunal.
+(DEROGADO, P.O. 28 DE JUNIO DE 1993)
 
 ###### Artículo 84.
 
-El magistrado que no estuviere conforme, puede extender su voto particular en los mismos autos, o en el acta de aquel acuerdo, o en un libro especialmente destinado a este objeto.
+(DEROGADO, P.O. 28 DE JUNIO DE 1993)
 
 ###### Artículo 85.
 
-Cuando no haya mayoría absoluta se llamará a uno de los magistrados suplentes en el orden que corresponda para integrar el tribunal, haciendo saber este trámite a las partes.
+(DEROGADO, P.O. 28 DE JUNIO DE 1993)
 
 ###### Artículo 86.
 
-Integrado el tribunal, el secretario hará una relación en acta de los puntos de discordancia y de los fundamentos en que se apoye cada voto, y con vista de los autos se discutirá nuevamente el asunto y se decidirá lo que se estime justo.
+(DEROGADO, P.O. 28 DE JUNIO DE 1993)
 
 ###### Artículo 87.
 
-En el caso del artículo anterior, si tampoco hubiere mayoría absoluta, bastará la relativa para decidir, y en su defecto, el presidente del tribunal resolverá la cuestión con su voto, dictándose la sentencia según el resultado de la votación.
+(DEROGADO, P.O. 28 DE JUNIO DE 1993)
 
 ###### Artículo 88.
 
-Todos los magistrados, aunque no estuvieren conformes, deberán firmar la sentencia, en la cual sólo se hará constar si se dictó por unanimidad o por mayoría.
+(DEROGADO, P.O. 28 DE JUNIO DE 1993)
 
 ###### Artículo 89.
 
-El juez o magistrado puede variar su voto antes de firmar la sentencia; pero firmada ésta no puede variarse ni modificarse en manera alguna.
+(DEROGADO, P.O. 28 DE JUNIO DE 1993)
 
 ### CAPITULO VIII. Notificaciones
 
@@ -867,11 +887,11 @@ También se admitirá como prueba todo aquello que se presente como tal, siempre
 
 ### CAPITULO VI. Confesión
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
 ###### Artículo 160.
 
-La confesión podrá recibirse por el agente del Ministerio Público que practique la averiguación previa, contando siempre con la presencia en el acto de la diligencia de un defensor de oficio; también podrá recibirse por el juez o tribunal que conozca del asunto.
+La confesión podrá recibirse por el agente del ministerio público que practique la averiguación previa, contando siempre con la presencia, en el acto de la diligencia, de la persona de la confianza del inculpado a quien éste nombre como su defensor. Si el inculpado no nombrase defensor o el designado se negase a estar presente en la diligencia, será sustituido por un defensor de oficio. La confesión podrá recibirse también por el juez o tribunal que conozca del asunto.
 
 ###### Artículo 161.
 
@@ -1543,13 +1563,15 @@ Asimismo, toda persona que en ejercicio de funciones públicas tenga conocimient
 
 Al iniciar sus procedimientos, el Ministerio Público o la policía judicial, se trasladarán inmediatamente al lugar de los hechos, para dar fe de las personas y de las cosas afectadas por el acto delictuoso, y tomarán los datos de las que lo hayan presenciado, procurando que declaren, si es posible, en el mismo lugar de los hechos, y citándolas, en caso contrario, para que dentro del término de veinticuatro horas comparezcan a rendir su declaración.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
+REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)
 
 ###### Artículo 288.
 
 Cuando el presunto responsable fuere aprehendido, se hará constar el día y la hora en que lo haya sido; de inmediato se le practicará reconocimiento médico por los peritos en turno del servicio médico forense, quienes harán constar en el certificado respectivo su estado psicofísico.
 
-A continuación, sin demora alguna, previo aviso al defensor de oficio correspondiente y en presencia de éste, el agente del Ministerio Público recibirá la declaración del detenido. Durante esta diligencia el defensor de oficio estará facultado expresamente para solicitar que se asiente constancia en el acta respectiva sobre los particulares relativos a si el detenido lo fue al margen de los casos previstos por el artículo 16 de la Constitución Federal; a cualquiera irregularidad que observare en el precitado reconocimiento médico; y hacer, por conducto del aludido funcionario público, las preguntas que considere necesarias al declarante con el fin de dejar lo más clara posible la declaración de éste.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+
+A continuación, sin demora alguna, previo aviso al defensor que designe el inculpado o al defensor de oficio correspondiente, en su caso, y en presencia de cualquiera de ellos, el agente del Ministerio Público recibirá la declaración del detenido. Durante esta diligencia el defensor estará facultado expresamente para solicitar que se asiente constancia en el acta respectiva sobre los particulares relativos a si el detenido lo fue al margen de los casos previstos por el artículo 16 de la Constitución Federal; a cualquiera irregularidad que observare en el precitado reconocimiento médico; y a hacer, por conducto del aludido funcionario público, las preguntas que considere necesarias al declarante, con el fin de dejar lo más clara posible la declaración de éste.
 
 El defensor no podrá comunicarse en privado con el detenido antes de que éste rinda declaración, para evitar cualesquiera aleccionamientos. Sin embargo, con posterioridad a la diligencia y durante el curso de la investigación deberá permitírsele la más amplia comunicación con el detenido para el ejercicio de sus funciones.
 
@@ -1893,9 +1915,11 @@ El Ministerio Público, al formular sus conclusiones, hará una exposición suci
 
 Las conclusiones del Ministerio Público se presentarán por escrito con el visto bueno del Procurador General de Justicia y podrán ser sostenidas verbalmente en la audiencia principal.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+
 ###### Artículo 348.
 
-Las conclusiones de la defensa no se sujetarán a ninguna regla especial. Si aquélla no formula conclusiones en el término que establece el artículo 345, se tendrán por formuladas las de inculpabilidad y se impondrá al o a los defensores multa de quinientos pesos o arresto hasta de tres días, salvo que el acusado se defienda por sí mismo.
+Las conclusiones de la defensa no se sujetarán a ninguna regla especial. Si aquélla no formula conclusiones en el término que establece el artículo 345, se tendrán por formuladas las de inculpabilidad y se impondrá al o a los defensores multa de cien días de salario mínimo general, salvo que el acusado se defienda por sí mismo.
 
 ###### Artículo 349.
 
@@ -1922,6 +1946,10 @@ La audiencia a que se hubiere convocado por segunda cita se llevará al cabo aun
 ###### Artículo 354.
 
 Si el Ministerio Público no formula conclusiones dentro del plazo legal, se dará vista con la causa al Procurador, para que éste, sin perjuicio de la responsabilidad en que aquél hubiere incurrido, las formule en un plazo que no excederá de 15 días, contados desde la fecha en que se hubiere dado vista.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1993)</small>
+
+Si el Procurador no formula conclusiones, dentro del plazo fijado en el párrafo que antecede, se tendrán por formuladas las de no acusación, continuándose el curso del proceso, sin perjuicio de la responsabilidad en que incurra el Procurador.
 
 ###### Artículo 355.
 
@@ -2007,9 +2035,11 @@ VI.- Las demás resoluciones que señala la ley.
 
 Salvo determinación expresa en contrario, el recurso de apelación procederá sólo en el efecto devolutivo y muy especialmente respecto de las sentencias definitivas que absuelvan al acusado.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+
 ###### Artículo 369.
 
-Al notificarse el auto de formal prisión o la sentencia definitiva, se hará saber al procesado el término que la ley concede para interponer el recurso de apelación, quedando constancia en el proceso de haberse cumplido con esta prevención. La omisión de este requisito surtirá el efecto de duplicar el término legal para interponer el recurso, y los funcionarios encargados de hacer las notificaciones serán castigados disciplinariamente por el tribunal de alzada con multa de veinticinco a cien pesos.
+Al notificarse el auto de formal prisión o la sentencia definitiva, se hará saber al procesado el término que la ley concede para interponer el recurso de apelación, quedando constancia en el expediente de haberse cumplido con esta prevención. La omisión de este requisito surtirá el efecto de duplicar el término legal para interponer el recurso, y los funcionarios encargados de hacer las notificaciones serán castigados en vía de corrección disciplinaria, por el tribunal de alzada, con multa de hasta cinco días de salario mínimo general.
 
 ###### Artículo 370.
 
@@ -2201,9 +2231,11 @@ Consentida la sentencia en que el juez inferior haya accedido a la inhibitoria, 
 
 Si el juez requerido sostiene su competencia, lo manifestará por oficio al requeriente y remitirá las actuaciones del incidente, con citación de las partes, al Tribunal Pleno que dirimirá la competencia. Lo mismo hará el requeriente tan luego reciba el oficio del requerido.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+
 ###### Artículo 406.
 
-Cada juez, al remitir las actuaciones, expondrá al tribunal las razones en que se funde sin que baste referirse al expediente respectivo. El juez que no remita el informe, incurrirá en una multa de veinticinco a quinientos pesos.
+Cada juez, al remitir las actuaciones, expondrá al tribunal las razones en que se funde, sin que baste referirse al expediente respectivo. El juez que no remita el informe será sancionado con una corrección disciplinaria.
 
 ###### Artículo 407.
 
@@ -2669,9 +2701,25 @@ El auto que conceda la libertad bajo protesta es apelable.
 
 ### CAPITULO III. Libertad Provisional Bajo Caución
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+
 ###### Artículo 491.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que el término medio aritmético de la sanción corporal correspondiente al delito imputado no exceda de cinco años de prisión. En caso de acumulación se deberá atender al término medio aritmético de la pena del delito más grave.
+Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, si no excede de cinco años el término medio aritmético de la pena privativa de libertad que corresponde al delito imputado, incluyendo sus modalidades. En caso de acumulación se atenderá el delito cuya pena sea mayor.
+
+En los casos en que la pena del delito imputado rebase el término medio aritmético de cinco años de prisión, y no se trate de los delitos específicamente señalados en este artículo, el juzgador concederá la libertad provisional en resolución fundada y motivada, siempre que se cumpla con los siguientes requisitos:
+
+I.- Que se garantice debidamente, a juicio del juez, la reparación del daño;
+
+II.- Que la concesión de la libertad no constituya un grave peligro social;
+
+III.- Que no exista riesgo fundado de que el inculpado pueda sustraerse a la acción de la justicia; y
+
+IV.- Que no se trate de personas que por ser reincidentes o haber mostrado habitualidad, la concesión de la libertad haga presumir fundadamente que evadirían la acción de la justicia.
+
+Para los efectos del párrafo anterior no procederá la libertad provisional, cuando se trate de los casos previstos en los artículos 127; 148; 150; 193, segundo párrafo; 233; 234; 235, tercer párrafo; 252; 257, segundo párrafo; 272; 285; 289; 331; 335, fracción IV; 348, fracciones II y III; 349, fracciones I y III; 350; 354 y 373, del Código Penal del Estado.
+
+En la determinación que dicte, el juez fundará y motivará el otorgamiento o la negativa de libertad, así como la revocación de ésta, en su caso, tomando en cuenta las prevenciones constitucionales y legales aplicables. En lo que respecta a la determinación del monto de la caución, se hará señalamiento específico sobre los daños y perjuicios, en la medida en que de las actuaciones se desprendan datos para fijar unos y otros. El juez valorará lo actuado, así mismo, para resolver si se trata de delito intencional o imprudencial, con el propósito de precisar las consecuencias de esta clasificación para los efectos de la garantía debida.
 
 ###### Artículo 492.
 
@@ -2713,11 +2761,13 @@ II.- En caución hipotecaria, otorgada por el inculpado o por terceras personas,
 
 III.- En fianza personal bastante, que podrá constituirse en el expediente.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+
 ###### Artículo 498.
 
-Cuando la fianza personal exceda de dos mil pesos, el fiador deberá comprobar que tiene bienes raíces, inscritos en el Registro Público de la Propiedad de la jurisdicción del juez o tribunal, cuyo valor sea, cuando menos, tres veces mayor que el monto de la cantidad señalada como garantía, salvo cuando se trate de empresas afianzadoras legalmente constituidas y autorizadas.
+Cuando la fianza personal exceda de cien días de salario mínimo general diario vigente en la entidad, el fiador deberá comprobar que tiene bienes raíces, inscritos en el Registro Público de la Propiedad de la jurisdicción del juez o tribunal, cuyo valor sea cuando menos tres veces mayor que el monto de la cantidad señalada como garantía, salvo cuando se trate de empresas afianzadoras legalmente constituidas y autorizadas.
 
-Cuando la fianza no exceda de dos mil pesos, no será necesario observar lo dispuesto en el párrafo anterior, quedando a juicio del tribunal y bajo su responsabilidad, la apreciación de la solvencia del fiador.
+Cuando la fianza no exceda de los mencionados cien días de salario mínimo, no será necesario observar lo dispuesto en el párrafo anterior, quedando a juicio del tribunal o juez y bajo su responsabilidad, la apreciación de la solvencia del fiador.
 
 ###### Artículo 499.
 
@@ -2731,9 +2781,11 @@ El fiador propuesto, salvo cuando se trate de las mencionadas empresas afianzado
 
 Los juzgados llevarán un índice en que se anotarán las cauciones otorgadas ante ellos, para formar una estadística. El Tribunal Superior llevará asimismo su propio índice para registrar las fianzas otorgadas ante el mismo. Dichos juzgados, en el término de tres días, deberán comunicar al expresado Tribunal las cauciones que hayan aceptado, así como la cancelación de las mismas, en su caso, para que también esto se anote en el índice. Cuando lo estimen necesario, los jueces solicitarán del Tribunal datos del índice para calificar la solvencia de un fiador.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+
 ###### Artículo 502.
 
-Al notificarse al inculpado el auto que le conceda la libertad caucional, se le hará saber que contrae las siguientes obligaciones: presentarse ante su juez cuantas veces sea citado o requerido para ello; comunicar al mismo los cambios de domicilio que tuviere, y presentarse ante el juzgado o tribunal que conozca de su causa el día que se le señale de cada semana. En la notificación se hará constar que se hicieron saber al inculpado las anteriores obligaciones, pero la omisión de este requisito no libra de ellas ni de sus consecuencias al mismo.
+Al notificarse al inculpado el auto que le concede la libertad caucional, se le hará saber que contrae las obligaciones de presentarse ante su juez cuantas veces sea citado o requerido para ello; de comunicar al mismo los cambios de domicilio que tuviere; y de presentarse periódicamente, ante el juzgado o tribunal que conozca de su causa, en las fechas que éste le señale tomando en consideración las circunstancias relativas al lugar de residencia y ocupación del inculpado. En la notificación se hará constar que se hicieron saber al inculpado las anteriores obligaciones, pero la omisión de este requisito no libra de ellas ni de sus consecuencias al mismo inculpado.
 
 ###### Artículo 503.
 
@@ -2974,3 +3026,9 @@ P.O. 23 DE DICIEMBRE DE 1986.
 Artículo Primero.- El presente Decreto iniciará su vigencia a los treinta días de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a este Decreto.
+
+P.O. 28 DE JUNIO DE 1993.
+
+Primero.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a las contenidas en este decreto.
