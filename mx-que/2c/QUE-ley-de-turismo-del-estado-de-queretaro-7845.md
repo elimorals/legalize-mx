@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-turismo-del-estado-de-queretaro-7845"
 country: "mx"
 rank: "ley"
 publication_date: "1992-11-12"
-last_updated: "2001-11-16"
+last_updated: "2004-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,407 +21,859 @@ state: "QUE"
 ---
 # LEY DE TURISMO DEL ESTADO DE QUERETARO
 
-LEY DE TURISMO DEL ESTADO DE QUERETARO
+REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DE ACCESO A LA INFORMACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE FEBRERO DE 2008.
 
-Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 12 de noviembre de 1992.
+Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 20 de septiembre de 2007.
 
-LA QUINCUAGESIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DEL ESTADO (SIC) DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 41 DE LA CONSTITUCION POLITICA DEL ESTADO... ha tenido a bien expedir la siguiente:
+El Consejo General o Pleno del Instituto Veracruzano de Acceso a la Información, en ejercicio de las atribuciones que le confieren los artículos 34, fracción XVI, 42.2, 44 y Séptimo transitorio de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, expide el presente:
 
-LEY DE TURISMO DEL ESTADO DE QUERETARO
+Reglamento Interior del Instituto Veracruzano de Acceso a la Información
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### Capítulo primero. DE LAS DISPOSICIONES GENERALES
 
-###### ARTICULO 1.
+###### Artículo 1.
 
-Las normas de esta Ley son de orden público e interés social y tienen por objeto regular el fomento y desarrollo de la actividad turística en el Estado de Querétaro, por lo que sus prescripciones son de observancia general en el territorio de la Entidad.
+Este reglamento es de observancia general para el Instituto Veracruzano de Acceso a la Información, y tiene por objeto establecer su organización y funcionamiento.
 
-###### ARTICULO 2.
+###### Artículo 2.
 
-El desarrollo turístico del Estado constituye una prioridad en los planes, programas y acciones del Gobierno del Estado y de los Municipios en materia de desarrollo económico y social de la Entidad, de conformidad con los siguientes principios:
+El Instituto Veracruzano de Acceso a la Información es un organismo autónomo del Estado, con personalidad jurídica y patrimonio propio, gozará de autonomía técnica y presupuestal, con domicilio legal en la ciudad de Xalapa de Enríquez, Veracruz.
 
-I. Se declara de interés público el aprovechamiento eficiente de los recursos turísticos del Estado, en beneficio de los grupos sociales y privados que concurren a estas actividades en los términos de la presente Ley;
+###### Artículo 3.
 
-II. El aprovechamiento eficiente de los recursos turísticos del Estado se realizará con estricto respeto a las normas federales y estatales en materia de salvaguarda del equilibrio ecológico y la protección al ambiente;
+Además de lo señalado en el artículo 3 de la Ley, para los efectos de este reglamento se entiende por:
 
-III. La planeación, programación y fomento del turismo se realizarán de manera coordinada entre el Gobierno del Estado y el Gobierno Federal, por conducto de las dependencias competentes y de manera concertada con los sectores social y privado locales, nacionales e internacionales del ramo turístico;
+I. Comité de Adquisiciones: El Comité de Adquisiciones, Arrendamientos, y Enajenación de Bienes Muebles y Servicios del Instituto Veracruzano de Acceso a la Información;
 
-IV. El fomento al turismo tendrá como bases la creación, conservación, protección y aprovechamiento de los recursos y atractivos turísticos del Estado, a efecto de lo cual se consideran prioritarias las acciones de planeación, programación, capacitación, promoción, concertación, verificación y vigilancia del desarrollo turístico de la Entidad; y
+II. Consejero: El servidor público integrante del órgano máximo de dirección del Instituto, electo por el Pleno del H. Congreso del Estado de Veracruz de Ignacio de la Llave;
 
-V. Las autoridades estatales y municipales, los prestadores de servicios turísticos y los particulares, en general, concurrirán en la vigilancia del cumplimiento de las disposiciones de la presente Ley, denunciando de inmediato ante la autoridad competente las anomalías e irregularidades que observen en el trato al turista y, en general, en todo lo relativo al desarrollo turístico del Estado.
+III. Consejo: Consejo General o Pleno;
 
-###### ARTICULO 3.
+IV. Consejo General o Pleno: Cuerpo colegiado integrado por tres Consejeros. Constituye el órgano máximo de dirección del Instituto Veracruzano de Acceso a la Información;
 
-La aplicación y ejecución de las normas de la presente Ley corresponden al Gobernador del Estado, por conducto de la Secretaría de Turismo, dependencia pública que tendrá las facultades, atribuciones y funciones que en su favor establece la Ley Orgánica de la Administración Pública del Estado, la presente Ley y demás ordenamientos jurídicos aplicables, federales y locales.
+V. Constitución Local: La Constitución Política del Estado de Veracruz de Ignacio de la Llave;
 
-###### ARTICULO 4.
+VI. Criterios: Aquellas decisiones que emita el Consejo en el conocimiento de los recursos de su competencia, siempre que no se encuentren previstos en la Ley, Lineamientos y demás normatividad de la materia;
 
-Para los efectos de esta Ley, a la Secretaría de Turismo del Estado se le denominará, en lo sucesivo, la Secretaría.
+VII. Estado: El Estado de Veracruz de Ignacio de la Llave;
 
-Asimismo, se considerará como turista a la persona que en el Estado de Querétaro utilice alguno de los servicios turísticos a los que se refiere el artículo 6 de la presente Ley, independientemente de su procedencia o residencia.
+VIII. Gaceta Oficial: La Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave;
 
-###### ARTICULO 5.
+IX. Instituto: El Instituto Veracruzano de Acceso a la Información;
 
-Los servicios turísticos que se presten en el Estado de Querétaro, se ajustarán a las disposiciones de la presente Ley, sin perjuicio de la aplicación de otros ordenamientos federales, estatales y municipales y de la competencia de otras autoridades.
+X. Ley: La Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave;
 
-###### ARTICULO 6.
+XI. Resolución: Acto materialmente jurisdiccional que pone fin al procedimiento.
 
-Para los efectos de esta Ley, se consideran servicios turísticos los siguientes:
+###### Artículo 4.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+Los servidores públicos del Instituto que no pertenezcan al Servicio Profesional de Carrera serán trabajadores de confianza, con base en el Reglamento del Servicio Profesional de Carrera que expida el Consejo.
 
-I.- Hoteles, moteles, albergues, y demás establecimientos de hospedaje, así como campamentos y paradores de casas rodantes que presten servicios a turistas;
+###### Artículo 5.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+Los servidores públicos del Instituto ajustarán su actuación conforme a los principios y objetivos que establece la Constitución, la Ley, su Reglamento, el presente Reglamento, los Lineamientos y demás disposiciones legales y administrativas aplicables.
 
-II.- Agencias, Subagencias y operadoras de viajes;
+###### Artículo 6.
 
-III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1994)
+El Consejo interpretará este Reglamento y resolverá lo no previsto en el mismo.
 
-IV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1994)
+La interpretación se hará en términos de lo que establece el artículo 7 de la Ley.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+###### Artículo 7.
 
-V.- Los prestados por guías de turistas, de acuerdo con la clasificación prevista en las disposiciones del Reglamento de la Ley Federal de Turismo;
+El Consejo podrá reformar o abrogar este Reglamento a propuesta de los Consejeros, quienes fundamentarán y motivarán debidamente su iniciativa.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+Una vez aprobada la reforma o abrogación, se ordenará su publicación en la Gaceta Oficial.
 
-VI.- Los restaurantes, cafeterías, bares, centros nocturnos y establecimientos similares, que se encuentren ubicados en los lugares señalados en la fracción primera de este artículo, así como en aeropuertos, terminantes de autobuses, estaciones de ferrocarril, museos y zonas arqueológicas;
+###### Artículo 8.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+Todas las decisiones y atribuciones son competencia originaria del Consejo del Instituto, el cual determinará la delegación de éstas en las áreas administrativas y servidores públicos adscritos al mismo.
 
-VII.- Empresas de sistemas de intercambio de servicios turísticos;
+###### Artículo 9.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+El funcionamiento de la Unidad de Acceso del Instituto se determinará en su Reglamento y se integrará con los servidores públicos que determine el Consejo, para el desempeño de sus atribuciones.
 
-VIII.- Las demás consideradas como tales por la Ley Federal de Turismo.
+### Capítulo segundo. DE LA ESTRUCTURA ORGÁNICA
 
-Los prestadores de servicios a que se refiere la fracción VI que no se encuentren ubicados en los establecimientos señalados, podrán solicitar su inscripción al Registro Estatal de Turismo, siempre que cumplan con los requisitos que fije la Secretaría Estatal de Turismo de acuerdo con las disposiciones aplicables.
+###### Artículo 10.
 
-###### ARTICULO 7.
+Para el ejercicio de sus atribuciones, el Instituto contará con la siguiente estructura administrativa:
 
-La prestación de servicios turísticos en el Estado de Querétaro se abstendrá de discriminar a las personas por motivos de raza, sexo, credo religioso, pertenencia política, nacionalidad y condición social.
+I. El Consejo General o Pleno;
 
-###### ARTICULO 8.
+II. Los Consejeros;
 
-La Secretaría vigilará que los servicios turísticos se presten con eficiencia, calidad y oportunidad, y en coordinación con las autoridades competentes velará por la protección de los recursos naturales, los valores artísticos, históricos, arqueológicos, arquitectónicos y típicos de los centros turísticos del Estado. Igualmente, promoverá ante los Municipios la conservación, mantenimiento y dignificación de la imagen urbana en beneficio de la actividad turística.
+III. La Presidencia del Consejo General o Pleno;
 
-###### ARTICULO 9.
+IV. La Secretaría Técnica;
 
-Las dependencias y entidades del Gobierno del Estado y de los Municipios auxiliarán a la Secretaría en la aplicación de las normas de esta Ley de los reglamentos, acuerdos y programas que de ella se deriven.
+V. La Secretaría General de Acuerdos;
 
-### CAPITULO II. DE LA PLANEACION DEL DESARROLLO
+VI. La Dirección de Capacitación y Vinculación Ciudadana;
 
-TURISTICO
+VII. La Dirección de Sistemas Informáticos;
 
-###### ARTICULO 10.
+VIII. La Dirección de Administración y Finanzas;
 
-La Secretaría es el órgano encargado de formular y conducir la política de desarrollo de la actividad turística del Estado, a efecto de lo cual deberá:
+IX. La Dirección de Asuntos Jurídicos;
 
-I. Organizar, operar, observar y evaluar el ejercicio de las atribuciones y funciones que competen al Estado y las que el Gobierno Federal descentralice;
+X. La Contraloría Interna;
 
-II. Formular y desarrollar programas de turismo de conformidad con el Plan Nacional de Desarrollo y con el Plan de Desarrollo Integral del Estado; y
+XI. La Unidad de Acceso del Instituto; y
 
-III. Ejercer las demás atribuciones y funciones que le confiere la Ley Orgánica de la Administración Pública Estatal y la presente Ley.
+XII. Las demás áreas y personal profesional, técnico y administrativo necesario para el desempeño de sus atribuciones, de acuerdo con el presupuesto y programas del Instituto, que autorice el Consejo.
 
-###### ARTICULO 11.
+###### Artículo 11.
 
-La planeación del desarrollo turístico del Estado se llevará a cabo a través de programas que formule la Secretaría, previa aprobación del Gobernador del Estado.
+El Consejo es el órgano máximo de dirección del Instituto, tomará sus decisiones y desarrollará sus atribuciones de manera colegiada, ajustándose al principio de igualdad entre sus integrantes, por lo que no habrá preeminencia entre ellos.
 
-###### ARTICULO 12.
+El Consejo es la autoridad frente a los Consejeros en su conjunto y en lo particular, sus resoluciones son obligatorias para éstos, sean ausentes o disidentes al momento de tomarlas.
 
-Los programas turísticos se sujetarán a los principios, estrategias, prioridades y acciones previstos en el Plan Nacional de Desarrollo y en el Plan de Desarrollo Integral del Estado de Querétaro. Dichos programas podrán ser generales o referirse a una parte del territorio del Estado, de acuerdo con los atractivos turísticos y los recursos disponibles.
+###### Artículo 12.
 
-###### ARTICULO 13.
+Los acuerdos, resoluciones y demás determinaciones que emita el Consejo, serán obligatorias para todos los servidores públicos del Instituto.
 
-Los programas turísticos deberán contener, por lo menos:
+Los criterios que emita el Consejo son obligatorios para los sujetos obligados.
 
-I. La referencia al Plan del que se desprenden;
+###### Artículo 13.
 
-II. Los objetivos y metas que se persiguen;
+Además de las atribuciones que señala la Constitución, en el artículo 34 de la Ley, su Reglamento, el Consejo tendrá las siguientes:
 
-III. Las autoridades responsables que los ejecuten;
+I. Recibir en acuerdo a los secretarios y directores del Instituto;
 
-IV. La descripción y ubicación de las acciones, obras y servicios y la referencia a los recursos necesarios; y
+II. Aprobar los reglamentos, manuales de organización y procedimientos y demás normatividad necesaria para el funcionamiento administrativo, así como para el adecuado ejercicio de los recursos públicos asignados al Instituto, que deberán publicarse en la Gaceta Oficial;
 
-V.- Las etapas y tiempos para su cumplimiento.
+III. Elaborar, emitir y modificar los Lineamientos para:
 
-###### ARTICULO 14.
+1. Publicar y mantener actualizada la información pública;
 
-En la planeación del desarrollo turístico se tomarán en cuenta los siguientes aspectos:
+2. Clasificar información reservada y confidencial;
 
-I.- El aprovechamiento eficiente y racional de los recursos naturales, salvaguardando en todo caso el equilibrio ecológico y la protección al ambiente;
+3. Orientar la creación de ficheros y archivos que contengan datos personales;
 
-II.- Los programas turísticos y las acciones que de ellos se deriven habrán de aprovechar óptimamente los principales atractivos turísticos del Estado y difundirlos ampliamente a nivel local, nacional e internacional; y
+4. Reglamentar la operación de las unidades de acceso a la información;
 
-III.- El desarrollo turístico del Estado se fundará esencialmente en la coordinación de acciones con el Gobierno Federal, con otras entidades federativas, con los Municipios y mediante acuerdos de concertación con los sectores social y privado.
+5. Elaborar formatos de solicitudes de acceso a la información pública y corrección de datos personales para su presentación ante las unidades de acceso;
 
-###### ARTICULO 15.
+6. Catalogar, clasificar y conservar los documentos administrativos y organización de archivos; y
 
-La Secretaría promoverá y participará en los acuerdos y convenios que celebre el Gobernador del Estado con el Gobierno Federal, los Municipios y los prestadores de servicios turísticos.
+7. Los demás que deban emitirse en cumplimiento de la Ley o de la normatividad aplicable.
 
-Asimismo, la Secretaría promoverá la participación del Estado en los programas turísticos que abarquen a varias entidades federativas, suscribiendo al efecto los convenios necesarios para la difusión de los valores artísticos, históricos y arqueológicos del Estado, a nivel nacional e internacional.
+IV. Establecer el calendario de labores al inicio de cada año;
 
-###### ARTICULO 16.
+V. Aprobar la estructura orgánica y sus modificaciones, el catálogo de puestos y el tabulador de salarios de los servidores públicos del Instituto;
 
-La Secretaría intervendrá en los órganos de planeación estatal cuando se trate de analizar y decidir acciones sobre el desarrollo económico y social del Estado.
+VI. Establecer mecanismos de coordinación con los sujetos obligados;
 
-###### ARTICULO 17.
+VII. Aprobar la creación de comisiones o comités y designar a sus integrantes;
 
-El Gobernador del Estado determinará la creación de comisiones intersecretariales para el apoyo y realización de programas de desarrollo turístico, con la participación que corresponda a entidades federales y municipales y con la concurrencia de los sectores social y privado.
+VIII. Aprobar la política de comunicación e imagen institucional;
 
-### CAPITULO III. DE LA PROMOCION Y FOMENTO DEL TURISMO
+IX. Aprobar los estados financieros trimestrales y anuales del Instituto;
 
-###### ARTICULO 18.
+X. Aprobar el programa operativo anual y conocer los avances del programa;
 
-En la promoción y fomento del turismo, corresponde a la Secretaría proteger, mejorar, incrementar y difundir los atractivos turísticos del Estado, alentando las corrientes turísticas locales, nacionales y las provenientes del exterior del país.
+XI. Aprobar los programas anuales de adquisiciones, arrendamientos y servicios;
 
-###### ARTICULO 19.
+XII. Recibir el entero de las fianzas y remitirlas al área administrativa correspondiente;
 
-Las dependencias y entidades de la administración pública estatal y de los municipios coadyuvarán en la promoción y fomento del turismo en los términos de esta Ley y de conformidad con los acuerdos y convenios que al efecto se suscriban.
+XIII. Aprobar las sanciones que fije el Contralor Interno del Instituto a los proveedores o licitantes que infrinjan la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave;
 
-###### ARTICULO 20.
+XIV. Aprobar las políticas, planes y programas para la promoción de la cultura de la transparencia, acceso a la información y rendición de cuentas;
 
-A fin de cumplir con los objetivos del artículo 18 de este ordenamiento, la Secretaría deberá:
+XV. Aprobar donativos y verificar su aplicación a los fines señalados;
 
-I.- Fomentar el cuidado y conservación de zonas y monumentos arqueológicos, artísticos e históricos y lugares de interés para el turismo;
+XVI. Aprobar pagos extraordinarios y demás erogaciones que se realicen en ejercicio de sus atribuciones;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+XVII. Autorizar la participación de los Consejeros a los eventos que sea invitado el Instituto o, en su caso, designar a los servidores públicos que podrán acudir en su representación;
 
-II.- Promover y gestionar ante autoridades federales, estatales y municipales la dotación de infraestructura y servicios urbanos con las adecuaciones necesarias para ser utilizados por personas discapacitadas, en los centros de interés turístico;
+XVIII. Solicitar la presencia en la sesiones de los servidores públicos del Instituto que se estime conveniente, así como otorgarles el derecho a voz;
 
-III.- Impulsar la ampliación y mejoramiento de la planta turística, promoviendo la creación de nuevos centros en aquellos lugares que, por sus características físicas o culturales, representen un potencial turístico;
+XIX. Aprobar el orden del día de las sesiones ordinarias y extraordinarias;
 
-IV.- Promover, en coordinación, con la dependencia del ramo, el rescate y preservación de las tradiciones y costumbres del Estado que constituyan un atractivo turístico, apoyando las iniciativas tendientes a su conservación;
+XX. Emitir las resoluciones de los recursos de revisión y de reconsideración que le sean sometidos;
 
-V.- Gestionar e impulsar los servicios de transportación exclusiva para el turismo que requieran los destinos en operación y las zonas en desarrollo; y
+XXI. Resolver respecto a la afirmativa ficta;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+XXII. Ordenar el engrose en los proyectos de resolución de los recursos en que haya disidencia por mayoría;
 
-VI.- Gestionar ante las autoridades competentes la oportuna y eficaz atención al turista en servicios de transportación, seguridad pública, salud, procuración de justicia y los demás servicios colaterales que requieran los turistas, en especial los turistas que padezcan algún tipo de discapacidad; y
+XXIII. Aprobar la propuesta de retiro de un asunto incluido en el orden del día de las sesiones ordinarias;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+XXIV. Aprobar las versiones públicas de las actas, resoluciones y acuerdos del Consejo;
 
-VII.- Promover la actividad turística en general y particularmente en el turismo social al sector de los discapacitados, estableciéndose los planes y programas que beneficien y otorguen un servicio humano y de calidad para ellos.
+XXV. Resolver las solicitudes de ampliación del período de reserva de la información clasificada;
 
-###### ARTICULO 21.
+XXVI. Aprobar la suscripción de convenios, contratos, bases de colaboración y demás actos consensuales a celebrarse con terceros;
 
-La Secretaría colaborará con las dependencias y entidades que tengan a su cargo la administración y conservación de parques, bosques, lagos, lagunas, ríos, zonas arqueológicas, monumentos artísticos e históricos, museos y demás sitios de atractivo turístico, con el objeto de impulsar y fomentar su aprovechamiento turístico.
+XXVII. Turnar a la Secretaría Técnica las resoluciones para su notificación;
 
-###### ARTICULO 22.
+XXVIII. Autorizar a los Consejeros las ausencias menores a sesenta días;
 
-Para efectos de lo dispuesto en el artículo anterior, la Secretaría difundirá por los medios de comunicación a su alcance, los atractivos turísticos del Estado.
+XXIX. Informar al H. Congreso del Estado sobre la falta absoluta de alguno de los Consejeros, para los efectos legales procedentes;
 
-###### ARTICULO 23.
+XXX. Conceder, por causa justificada y siempre que no perjudique el funcionamiento del Instituto, licencias a los secretarios, directores, contralor, secretarios de estudio y cuenta y demás servidores públicos del Instituto;
 
-Para la promoción y fomento de los atractivos turísticos del Estado, la Secretaría estimulará la organización de espectáculos, congresos, excursiones, ferias, exposiciones y actividades de interés general, susceptibles de atraer visitantes y paseantes al Estado.
+XXXI. Expedir el Reglamento del Servicio Profesional de Carrera, así como el Estatuto sobre las Condiciones Generales de Trabajo de los servidores públicos del Instituto, y ordenar su publicación en la Gaceta Oficial;
 
-###### ARTICULO 24.
+XXXII. Aprobar el nombramiento, promoción y remoción del personal del Instituto;
 
-La Secretaría promoverá la formación de patronatos y asociaciones para la organización de ferias y festividades, así como la de aquellos grupos constituidos específicamente para el fomento de turismo.
+XXXIII. Evaluar el desempeño de los servidores públicos del Instituto y aprobar los estímulos que les correspondan;
 
-###### ARTICULO 25.
+XXXIV. Conocer de las faltas e infracciones de responsabilidad en que incurran los servidores públicos del Instituto, en los términos de la normatividad aplicable;
 
-Los patronatos, asociaciones, comités y demás organizaciones que se formen con el fin de promover y fomentar el turismo, recibirán apoyo y asesoría de la Secretaría y de las dependencias, entidades estatales y municipales.
+XXXV. Aprobar el informe que anualmente se rendirá por conducto del Presidente del Consejo al H. Congreso del Estado en términos de lo dispuesto por la Ley;
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+XXXVI. Imponer las medidas de apremio por el incumplimiento a sus resoluciones, conforme a lo dispuesto en la Ley y su Reglamento;
 
-###### ARTICULO 26.
+XXXVII. Aprobar la instalación de la Unidad de Acceso y del Comité de Información de Acceso Restringido del Instituto;
 
-La Secretaría celebrará convenios con los prestadores de servicios turísticos con el objeto de promover el turismo social, mediante la determinación de paquetes y tarifas reducidos; entendiendo por turismo social, además de la clasificación de la clase trabajadora y en general al de bajos recursos, a aquél sector de personas que requieran atenciones especiales por sufrir alguna discapacidad.
+XXXVIII. Nombrar a los servidores públicos que integrarán la Unidad de Acceso y el Comité de Información de Acceso Restringido a que se refiere la fracción anterior;
 
-###### ARTICULO 27.
+XXXIX. Conocer y resolver cualquier asunto relacionado con la materia objeto de la Ley y su Reglamento;
 
-El Gobierno del Estado otorgará estímulos y auspiciará a todas aquellas inversiones que tengan como finalidad el turismo en el Estado, a efecto de lo cual podrá constituir el Fondo Mixto de Promoción Turística, que se conformará con las aportaciones de los Gobiernos Federal, Estatal y Municipal y con recursos de los sectores social y privado.
+XL. Las demás que señale la Constitución, la Ley, su Reglamento, el presente Reglamento, los Lineamientos y demás disposiciones legales y administrativas aplicables.
 
-La administración del Fondo será responsabilidad de la Secretaría, en los términos que determine el Gobernador del Estado y de acuerdo con las bases o cláusulas del convenio respectivo.
+###### Artículo 14.
 
-###### ARTICULO 28.
+Los Consejeros tendrán las siguientes atribuciones:
 
-Las dependencias y entidades públicas estatales y municipales, deberán poner en conocimiento de la Secretaría, los proyectos turísticos de inversión nacional o extranjera que tengan interés en establecerse en la Entidad.
+I. Asistir a las sesiones del Consejo, con voz y voto;
 
-### CAPITULO IV. DEL SISTEMA ESTATAL DE INFORMACION
+II. Practicar, la realización de diligencias para mejor proveer cuando así lo estimen conveniente en los asuntos de su competencia;
 
-TURISTICA
+III. Proponer al Consejo fundada y motivadamente, la celebración de audiencias con las Partes, atendiendo a la naturaleza del asunto de que se trate;
 
-###### ARTICULO 29.
+IV. Suplir la deficiencia de la queja;
 
-La Secretaría organizará y operará el Sistema Estatal de Información Turística, instrumento mediante el cual se dispondrá de todos los elementos informativos necesarios para el fomento y desarrollo del turismo en el Estado.
+V. Instruir los recursos de revisión y de reconsideración que les sean turnados y formular el proyecto de resolución;
 
-###### ARTICULO 30.
+VI. Someter al Consejo el proyecto de resolución de los recursos de revisión y de reconsideración;
 
-El Sistema Estatal de Información Turística deberá contener:
+VII. Proponer asuntos en el orden del día de las sesiones ordinarias del Consejo;
 
-I.- Información estadística acerca de los fenómenos turísticos en el Estado;
+VIII. Proponer el retiro de asuntos en el orden del día de las sesiones ordinarias;
 
-II.- Información sobre los servicios turísticos que se ofrecen en la Entidad;
+IX. Proponer la celebración de sesiones extraordinarias;
 
-III.- Relación clasificada de los prestadores de servicios turísticos;
+X. Solicitar al Secretario Técnico se registre en el acta correspondiente el sentido de su voto, a favor o en contra;
 
-IV.- Relación pormenorizada de los diferentes sitios de interés Turístico en el Estado;
+XI. Formular, dentro del término de tres días hábiles siguientes a la resolución del asunto, su voto particular o concurrente;
 
-V.- Cuadros informativos, mapas, guías y demás documentos y datos necesarios para la identificación de los centros y lugares turísticos del Estado; y
+XII. Solicitar al Consejo, excusa de conocer de algún asunto en el que exista impedimento inmediatamente de que se tenga conocimiento del mismo, en términos de lo previsto por el Código de Procedimientos Administrativos para el Estado;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+XIII. Informar al Consejo sobre el cumplimiento o grado de avance de los asuntos que les sean turnados o encomendados;
 
-VI.- Relación de los sitios de interés turístico del Estado, que cuentan con la infraestructura necesaria para recibir turistas discapacitados; y
+XIV. Suscribir los reglamentos, resoluciones, manuales, lineamientos, acuerdos, y demás decisiones del Consejo;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+XV. Someter al Consejo las iniciativas de reforma o abrogación, a la normativa, formatos, lineamientos y reglamentos vigentes, para su discusión y aprobación;
 
-VII.- Los demás aspectos que sean necesarios para contar con un sistema completo y actualizado de información turística.
+XVI. Promover, difundir e investigar acerca de los objetivos de la Ley;
 
-###### ARTICULO 31.
+XVII. Representar al Instituto en los casos que el Consejo determine;
 
-Para efectos de lo señalado en el artículo anterior, la Secretaría deberá integrar, analizar, evaluar y difundir la información que recabe y, con base en ello, diseñará un programa permanente de difusión turística a nivel local, nacional e internacional.
+XVIII. Solicitar licencia al Consejo para separarse temporalmente de su cargo, por causa justificada, hasta por sesenta días sin goce de sueldo;
 
-###### ARTICULO 32.
+XIX. Suplir las ausencias del Presidente del Consejo;
 
-La Secretaría formulará periódicamente programas de evaluación turística, en los que se analicen las necesidades turísticas, la oferta y la demanda, así como la calidad de los servicios turísticos que se presten en la Entidad.
+XX. Participar en los procesos de selección, evaluación, promoción y remoción del personal del Instituto, de conformidad con el Reglamento del Servicio Profesional de Carrera que apruebe el Consejo;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+XXI. Solicitar informes respecto de las actividades y la ejecución de los planes, programas y recursos públicos de las áreas administrativas del Instituto; y
 
-###### ARTICULO 33.
+XXII. Las demás que señale la Constitución Local, la Ley, su Reglamento, el presente Reglamento, los Lineamientos y demás disposiciones legales y administrativas aplicables, y aquellas que le instruya el Consejo.
 
-Como parte del Sistema Estatal de Información Turística, se establece el Registro Estatal de Turismo, que tiene por objeto la inscripción voluntaria de los prestadores de servicios turísticos de la Entidad. Así mismo, podrán inscribirse en el registro, las escuelas, instituciones y centros de educación, capacitación y formación de profesionales y técnicos en el ramo turístico.
+###### Artículo 15.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+El Presidente del Consejo, además de las facultades precisadas en el artículo 46 de la Ley y de las atribuciones contenidas en el artículo anterior, tendrá las siguientes:
 
-###### ARTICULO 34.
+I. Coordinar los trabajos del Consejo;
 
-Para inscribirse en el Registro Estatal de Turismo, será necesario dar aviso por escrito a la Secretaría, proporcionando los siguientes datos:
+II. Conducir los debates del Consejo, respecto de los asuntos incluidos en el orden del día;
 
-I.- Nombre y domicilio de la persona física o moral que prestará el servicio;
+III. Guardar y hacer guardar el orden en las sesiones del Consejo;
 
-II.- Lugar y domicilio en el que se prestarán los servicios;
+IV. Turnar los recursos, a que se refiere el artículo 67 de la Ley, por ante (sic) el Secretario de Acuerdos del Instituto, dentro de las 24 horas siguientes a su recepción;
 
-III.- Fecha de la apertura del establecimiento turístico;
+V. Turnar en forma alternada a los Consejeros los asuntos en los que se ordene el engrose;
 
-IV.- Tipo de los servicios que se prestarán y su categoría, conforme a las normas aplicables;
+VI. Someter a la aprobación del Consejo el acta de la sesión correspondiente;
 
-V.- La demás información que el prestador estime necesaria para fines de difusión.
+VII. Proponer al Consejo la designación del titular de la Unidad de Acceso del Instituto;
 
-La información contenida en el Registro Estatal, será turnada a la Secretaría de Turismo Federal, para mantener actualizado el Registro Nacional de Turismo.
+VIII. Solicitar a los sujetos obligados la información y el auxilio que se requiera, para el adecuado ejercicio de las atribuciones que la Ley le otorga al Instituto previo acuerdo del Consejo;
 
-### CAPITULO V. DE LOS SERVICIOS TURISTICOS Y DE LA
+IX. Remitir al titular del Poder Ejecutivo el proyecto de presupuesto de egresos del Instituto, una vez aprobado por el Consejo;
 
-PROTECCION AL TURISTA
+X. Resolver previo acuerdo del Consejo, sobre la adquisición, enajenación, alta y baja de bienes muebles y la prestación de servicios sujetándose a lo dispuesto en las leyes de la materia; así como gestionar la incorporación, destino o desincorporación de bienes inmuebles del dominio público del Estado, afectos al servicio del Instituto;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+XI. Solicitar al H. Congreso del Estado su autorización para el procedimiento de baja de bienes muebles del Instituto;
 
-###### ARTICULO 35.
+XII. Someter a la aprobación del Consejo, los informes de avance de la gestión financiera y la cuenta pública del Instituto;
 
-La prestación de servicios turísticos en el Estado se regirá por lo convenido entre el prestador de servicio y el turista, observándose las disposiciones de la presente Ley y sus reglamentos, así como de la legislación federal de la materia.
+XIII. Elaborar el proyecto de informe anual de labores del Instituto para someterlo a la aprobación del Consejo;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+XIV. Firmar las identificaciones de los servidores públicos del Instituto;
 
-###### ARTICULO 36.
+XV. Otorgar y revocar poderes en los términos del Código Civil para el Estado de Veracruz de Ignacio de la Llave, previo acuerdo del Consejo;
 
-Las Normas Oficiales Mexicanas que regularán la prestación de los servicios turísticos y la protección al turista, serán expedidas por el organismo federal que corresponda, siendo dichas normas de observancia general y obligatoria dentro de la Entidad.
+XVI. Suscribir las iniciativas de reforma a la Ley, aprobadas por el Consejo y someterlas a consideración del Congreso del Estado;
 
-La calidad y clasificación de los servicios turísticos serán materia exclusiva de Normas Mexicanas en los términos de la legislación aplicable.
+XVII. Remitir la correspondencia que le envíe la Oficialía de Partes a las áreas administrativas del Instituto; y
 
-###### ARTICULO 37.
+XVIII. Las demás que señale la Constitución Local, la Ley, su Reglamento, el presente Reglamento, los Lineamientos y demás disposiciones legales y administrativas aplicables, y aquellas que le instruya el Consejo.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 1994)
+###### Artículo 16.
 
-###### ARTICULO 38.
+El titular de la Secretaría Técnica del Consejo contará con los servidores públicos que determine el Consejo, para el desempeño de las siguientes atribuciones:
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 1994)
+I. Instruir a la Actuaría del Instituto en los asuntos de su competencia;
 
-###### ARTICULO 39.
+II. Elaborar el orden del día y las actas de las sesiones ordinarias y extraordinarias;
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 1994)
+III. Inscribir los asuntos en el orden del día, incluyendo el nombre del Consejero que lo haya solicitado;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+IV. Asistir a las sesiones del Consejo con derecho a voz, pero sin voto;
 
-###### ARTICULO 40.
+V. Recabar la votación de los Consejeros y registrarla en el acta de sesión correspondiente;
 
-Los prestadores de servicios turísticos tendrán los siguientes derechos:
+VI. Elaborar y mantener actualizada en los libros correspondientes la información relativa a: sesiones celebradas y actas levantadas; asuntos concluidos y sentido de la votación; diferidos; engrosados; votos particulares y concurrentes;
 
-I.- Ser incluidos en los catálogos, directorios, guías y programas que elabore la Secretaría;
+VII. Poner a disposición de los Consejeros con la debida anticipación, los documentos y anexos de los asuntos que serán tratados en las sesiones;
 
-II.- Adquirir el reconocimiento de la categoría que corresponda a la calidad de sus servicios, en el ámbito de la competencia estatal;
+VIII. Proveer los elementos y apoyo logístico necesario para el ágil desarrollo de las sesiones del Consejo;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+IX. Notificar a los Consejeros por oficio y con acuse de recibo, la fecha y hora de las sesiones extraordinarias a que haya lugar;
 
-III.- Solicitar información y asesoría técnica de la Secretaría, para elevar la calidad de sus servicios;
+X. Firmar las actas, acuerdos y resoluciones del Consejo;
 
-IV.- Participar en los programas de promoción y de fomento que ejecute la Secretaría;
+XI. Coadyuvar en la ejecución de las políticas y programas institucionales;
 
-V.- Recibir estímulos y apoyos de la Secretaría en el caso de que mejoren los servicios turísticos;
+XII. Gestionar la publicación en la Gaceta Oficial de la normatividad aplicable, y de los acuerdos y resoluciones del Consejo, cuando éste así lo determine;
 
-VI.- Obtener de la Secretaría los apoyos y gestiones necesarios ante dependencias y entidades federales, estatales y municipales; y
+XIII. Elaborar el proyecto de acuerdo acerca del cumplimiento o inobservancia de la resolución de los recursos emitida por el Consejo;
 
-VII.- Participar en los programas de capacitación turística que organice la Secretaría.
+XIV. Elaborar el aviso al superior jerárquico del servidor público que desacate la resolución del Consejo, para su aprobación y notificación;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+XV. Tener bajo su resguardo, control y responsabilidad los sellos de la Secretaría Técnica, los libros de registro correspondientes; así como mantener la información reservada o confidencial con ese carácter, cuando hubiere sido solicitada al sujeto obligado por el Instituto para la resolución de un recurso;
 
-###### ARTICULO 41.
+XVI. Elaborar, en coordinación con la Unidad de Acceso, las estadísticas de las solicitudes de acceso a la información, presentadas ante el Instituto en su calidad de sujeto obligado para hacerlas del conocimiento del Consejo;
 
-Los Prestadores de Servicios Turísticos en el Estado, deberán:
+> <small>(REFORMADA, G.O. 26 DE FEBRERO DE 2008)</small>
 
-I.- Proporcionar los bienes y servicios que ofrezcan en los términos convenidos y de conformidad con lo dispuesto por la Ley Federal de Turismo, esta Ley y demás ordenamientos que de ambas se deriven;
+XVII. Dar fe de los actos realizados por el Consejo; Certificar las copias fotostáticas que se expidan de los documentos que obren en los archivos del Instituto;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+XVIII. Notificar las resoluciones del Consejo en tiempo y forma;
 
-II.- Anunciar ostensiblemente en los lugares de acceso al establecimiento sus precios y tarifas y los servicios que estos incluyen, así como los señalamientos que indiquen que dicho establecimiento cuenta con la infraestructura necesaria para prestar servicio a personas con discapacidad;
+XIX. Elaborar el acuerdo de ampliación del plazo a que se refiere el artículo 67 fracción IV de la Ley, previa solicitud del Consejo;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+XX. Apoyar al Presidente del Consejo en la integración del proyecto de informe anual de labores del Instituto;
 
-III.- Expedir las facturas y comprobantes que amparen el cobro de los servicios prestados;
+XXI. Remitir a la Dirección de Sistemas Informáticos la versión pública de los asuntos tratados en las sesiones;
 
-IV.- Colaborar con la Secretaría en los programas de promoción y fomento del turismo;
+XXII. Proporcionar a los Consejeros la información que le sea requerida;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+XXIII. Rendir al Consejo, un informe semestral de las actividades realizadas en ejercicio de sus atribuciones; y
 
-V.- Contar con los formatos foliados y de porte pagado en el Sistema de Quejas de Turistas, en los términos de la Norma Oficial Mexicana respectiva;
+XXIV. Las demás que señale la Constitución Local, la Ley, su Reglamento, el presente Reglamento, los Lineamientos y demás disposiciones legales y administrativas aplicables, y aquellas que le instruya el Consejo.
 
-VI.- Garantizar ante la Secretaría el cumplimiento de las condiciones en que ofrezcan los servicios turísticos, mediante el otorgamiento de fianzas y la contratación de los seguros que se requieran según la naturaleza del servicio, en los términos de las leyes aplicables;
+###### Artículo 17.
 
-VII.- Proporcionar a la Secretaría los datos e informes que les requiera, así como el apoyo, auxilio y facilidades para la promoción turística en la Entidad;
+El titular de la Secretaría General de Acuerdos, contará con los servidores públicos que determine el Consejo para el desempeño de las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+I. Instruir y supervisar la Oficialía de Partes, la Actuaría y el Archivo del Instituto;
 
-VIII.- Acatar las disposiciones legales existentes en materia de turismo, salud, prevención de delitos, protección al consumidor, protección al medio ambiente, apoyo y protección a personas con discapacidad;
+II. Remitir a los Consejeros la documentación o promociones relativas a los recursos de que conozcan;
 
-IX.- Capacitar a sus trabajadores con base en los programas autorizados;
+III. Elaborar y firmar los autos de turno, de inicio de los recursos y el cambio de turno de los mismos derivados de las excusas o engroses y llevar su registro en el libro y/o sistema correspondiente;
 
-X.- Emplear en todo caso y de manera destacada el idioma español en los anuncios, propaganda y leyendas en los que ofrezcan los servicios, sin perjuicio del uso de otros idiomas;
+IV. Elaborar y firmar los autos de trámite durante la substanciación de los recursos que sean sometidos al conocimiento de los Consejeros;
 
-XI.- Realizar su publicidad y ofrecer los servicios sin demérito de la dignidad nacional, sin alteración o falseamiento de los hechos históricos o de las manifestaciones de la cultura nacional y local;
+V. Dar cuenta al Presidente del Consejo con los informes que rindan los sujetos obligados, con posterioridad a la notificación de la resolución de que se trate;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+VI. Dar fe de los actos realizados por el Consejero ponente en la tramitación de los recursos de que conozca;
 
-XII.- Proporcionar los servicios turísticos, precios, tarifas y promociones, precisamente en los términos en los que fueron anunciados, ofrecidos por la publicidad o pactados, sin inducir el error a los turistas; y
+VII. Celebrar la audiencia con las Partes que prevé la fracción II del artículo 67 de la Ley, cuando así lo haya determinado el Consejo;
 
-XIII.- Mantener sus instalaciones en condiciones óptimas de servicio e higiene.
+VIII. Practicar en tiempo y forma las notificaciones que ordenen los Consejeros ponentes;
 
-###### ARTICULO 42.
+IX. Remitir a la Dirección de Asuntos Jurídicos los asuntos jurisdiccionales y cualquier otro que resulte de su competencia, turnando copia fotostática al Presidente del Consejo;
 
-Compete a la Secretaría la protección integral al turista, a efecto de lo cual deberá:
+X. Remitir inmediatamente a los Consejeros, los expedientes formados con motivo de los recursos interpuestos ante el Instituto y mantenerlos entresellados y foliados;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+XI. Tener bajo su resguardo, control y responsabilidad los sellos de la Secretaría de Acuerdos y el índice de expedientes turnados a los Consejeros;
 
-I.- Organizar y vigilar el cumplimiento de los programas y medidas de asistencia, auxilio y protección a quiénes visitan la Entidad, así como a los propios residentes de ésta y que con motivo de la prestación de un servicio clasificado como turístico adquieran la calidad de Turistas, en coordinación con las dependencias que concurran en tales objetivos;
+XII. Remitir a la Dirección de Sistemas Informáticos el registro de los recursos interpuestos ante el Instituto;
 
-II.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1994)
+XIII. Proporcionar al Consejo y a los Consejeros, la información que le sea requerida;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+XIV. Rendir al Consejo, un informe semestral de las actividades realizadas en ejercicio de sus atribuciones; y
 
-III.- Participar en todas aquellas acciones de auxilio a los turistas en casos de emergencias o desastres; y
+XV. Las demás que señale la Constitución Local, la Ley, su Reglamento, el presente Reglamento, los Lineamientos y demás disposiciones legales y administrativas aplicables, y aquellas que le instruya el Consejo.
 
-IV.- Las demás que sean necesarias para proteger eficientemente los derechos de los turistas.
+### Capítulo tercero. DEL CONSEJO GENERAL O PLENO
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+###### Artículo 18.
 
-###### ARTICULO 43.
+El titular de la Dirección de Capacitación y Vinculación Ciudadana contará con los servidores públicos que determine el Consejo para el desempeño de las siguientes atribuciones:
 
-Antes de la contratación de cualquier servicio turístico, el prestador del servicio tendrá la obligación de informar con todo detalle al turista sobre los precios, condiciones y la manera en que se prestarán los servicios que se ofrecen.
+I. Elaborar e impartir a los sujetos obligados, a los servidores públicos del Instituto y a la sociedad veracruzana programas de capacitación acerca de los objetivos de la Ley;
 
-Los prestadores de servicios turísticos, también están obligados a respetar los términos y las tarifas ofrecidas o pactadas con el usuario.
+II. Diseñar los programas de capacitación a que se refiere la fracción anterior, atendiendo a las características geográficas, políticas, sociales y de acceso a las tecnologías de la información, que presentan las diferentes regiones y municipios de la entidad, para lo cual se deberá tomar en cuenta la diversidad multiétnica y pluricultural del Estado;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+III. Establecer y mantener vínculos institucionales con la sociedad veracruzana y los sujetos obligados;
+
+IV. Capacitar, previo acuerdo del Consejo a los sujetos obligados, para la adecuada aplicación de la normativa de la materia;
+
+V. Vigilar el cumplimiento de los lineamientos que emita el Instituto;
+
+VI. Realizar el acopio de fuentes relacionadas con las atribuciones del Instituto;
+
+VII. Supervisar el establecimiento de mesas o tableros para el acceso a la información a que se refiere el artículo 9.3 de la Ley y dar vista al Consejo;
+
+VIII. Elaborar y difundir folletos, boletines, trípticos y demás material impreso que contribuya a la construcción de la cultura de la transparencia y acceso a la información;
+
+IX. Promover con las instituciones educativas, la inclusión en los planes y programas de estudio el derecho de acceso a la información, la transparencia de la gestión pública y demás objetivos de la Ley;
+
+X. Investigar acerca de la cultura de la transparencia, el derecho de acceso a la información, la información de acceso restringido, la rendición de cuentas y la protección de datos personales;
+
+XI. Realizar la publicación de la Revista del Instituto;
+
+XII. Coadyuvar con el Consejo en la elaboración y actualización de los Lineamientos a que se refiere la Ley;
+
+XIII. Proporcionar a los Consejeros la información que le sea requerida;
+
+XIV. Rendir al Consejo, el informe semestral de las actividades realizadas en ejercicio de sus atribuciones; y
+
+XV. Las demás que señale la Constitución Local, la Ley, su Reglamento, el presente Reglamento, los Lineamientos y demás disposiciones legales y administrativas aplicables, y aquellas que le instruya el Consejo.
+
+###### Artículo 19.
+
+El titular de la Dirección de Sistemas Informáticos contará con los servidores públicos que determine el Consejo para el desempeño de las siguientes atribuciones:
+
+I. Coordinar y enlazar los sistemas informáticos del Instituto con la Federación, estados y municipios, con quienes se haya celebrado el convenio respectivo;
+
+II. Desarrollar, administrar y actualizar el portal de internet del Instituto, previa aprobación del Consejo, conforme a los Lineamientos aprobados por éste;
+
+III. Aplicar en el ejercicio de sus atribuciones las nuevas tecnologías electrónicas e informáticas;
+
+IV. Diseñar, desarrollar, administrar e implementar los sistemas informáticos necesarios para las solicitudes de acceso a la información de la Unidad de Acceso del Instituto y las notificaciones vía electrónica;
+
+V. Diseñar, desarrollar, administrar y aplicar los sistemas informáticos necesarios para el funcionamiento del Instituto;
+
+VI. Desarrollar la firma electrónica del Instituto;
+
+VII. Implementar herramientas informáticas de seguridad para la conservación, custodia y protección de información reservada, confidencial y la protección de datos personales;
+
+VIII. Opinar y colaborar con los planes, programas, lineamientos y formatos que determine el Consejo;
+
+IX. Impartir cursos de capacitación al personal del Instituto en el uso de las tecnologías informáticas y brindar el soporte técnico necesario;
+
+X. Planear, programar, ejecutar y dar mantenimiento a la infraestructura informática necesaria para el desarrollo de las actividades del Instituto;
+
+XI. Administrar las licencias de software y distribuirlas entre los usuarios de la red informática del Instituto;
+
+XII. Proponer al Consejo General el requerimiento y adquisición de bienes informáticos, necesarios para la operación eficiente del Instituto;
+
+XIII. Coadyuvar con el Consejo en la elaboración y actualización de los Lineamientos a que se refiere la Ley;
+
+XIV. Proporcionar a los Consejeros la información que le sea requerida;
+
+XV. Elaborar las estadísticas de la información que le envíen las secretarías y las áreas administrativas del Instituto;
+
+XVI. Rendir al Consejo, el informe semestral de las actividades realizadas en ejercicio de sus atribuciones; y
+
+XVII. Las demás que señale la Constitución Local, la Ley, su Reglamento, el presente Reglamento, los Lineamientos y demás disposiciones legales y administrativas aplicables, y aquellas que le instruya el Consejo.
+
+###### Artículo 20.
+
+El titular de la Dirección de Administración y Finanzas contará con los servidores públicos que determine el Consejo para el desempeño de las siguientes atribuciones:
+
+I. Planear, programar, presupuestar, ejercer y registrar los recursos financieros, materiales y servicios personales asignados al Instituto, bajo los principios de austeridad y disciplina presupuestaria;
+
+II. Elaborar en coordinación con las áreas administrativas, el proyecto de programa operativo anual para la aprobación del Consejo;
+
+III. Elaborar el anteproyecto de presupuesto de egresos del Instituto para su aprobación por el Consejo;
+
+IV. Otorgar caución para asegurar el correcto manejo de los recursos a su cargo, en términos de lo señalado por el Código Financiero del Estado.
+
+V. Llevar la contabilidad y elaborar mensualmente los estados financieros del Instituto, conforme a la normatividad vigente;
+
+VI. Elaborar los informes trimestrales sobre el ejercicio del gasto a que se refiere el artículo 179 del Código Financiero del Estado de Veracruz, y someterlo a la aprobación del Consejo para su posterior presentación al H. Congreso del Estado, debiendo turnar copia de dicho informe al titular de la Contraloría Interna del Instituto;
+
+VII. Cumplir oportunamente con las obligaciones tributarias, federales, estatales y municipales a cargo del Instituto;
+
+VIII. Enterar a las autoridades fiscales correspondientes, las cuotas e impuestos que se hayan retenido a los servidores públicos para tales fines;
+
+IX. Elaborar y presentar al Consejo para su aprobación el programa anual de adquisiciones, arrendamientos y servicios atendiendo a los requerimientos y necesidades de las áreas administrativas;
+
+X. Realizar previa autorización del Consejo los procedimientos de licitación y suscripción de contratos administrativos con base en la normatividad vigente;
+
+XI. Elaborar la convocatoria de licitación y solicitar al Secretario Técnico del instituto, su publicación en la Gaceta Oficial;
+
+XII. Expedir y poner a la venta las bases de licitación;
+
+XIII. Determinar el incumplimiento de los contratos en términos de la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave, y solicitar a la Dirección de Asuntos Jurídicos lo procedente;
+
+XIV. Declarar desierto el procedimiento de licitación que prevé la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave;
+
+XV. Solicitar a la Dirección de Asuntos Jurídicos que se haga efectiva a los proveedores y licitadores la fianza que señala la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave;
+
+XVI. Enviar al titular de la Secretaría Técnica y a la Dirección de Sistemas Informáticos el fallo de la licitación para los efectos de lo dispuesto por el artículo 51 de la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave;
+
+XVII. Solicitar al Comité de Adquisiciones, la aprobación del inicio del procedimiento de licitación;
+
+XVIII. Realizar los procedimientos de licitación en términos del Reglamento y Manual de Adquisiciones, Arrendamientos y Enajenación de Bienes Muebles y Servicios;
+
+XIX. Notificar por oficio y con acuse de recibo al Comité de Adquisiciones, la celebración de la junta de aclaración en los procedimientos de licitación;
+
+XX. Notificar por oficio y con acuse de recibo al Comité de Adquisiciones, la celebración de la junta de presentación y apertura de proposiciones en los procedimientos de licitación;
+
+XXI. Convocar la junta de aclaración y la junta de presentación y apertura de proposiciones;
+
+XXII. Emitir el dictamen técnico que establece la fracción VII del artículo 43 de la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave;
+
+XXIII. Solicitar al Comité de Adquisiciones, la aprobación del fallo en el procedimiento de licitación;
+
+XXIV. Notificar el fallo del procedimiento de licitación en términos de lo dispuesto por el artículo 44 de la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave;
+
+XXV. Solicitar al Comité de Adquisiciones el dictamen técnico sobre el estado material de los bienes del instituto para iniciar el procedimiento de baja;
+
+XXVI. Elaborar el catálogo de proveedores;
+
+XXVII. Proporcionar a las áreas administrativas del Instituto, los recursos materiales que le soliciten;
+
+XXVIII. Realizar y registrar oportunamente los pagos a proveedores;
+
+XXIX. Integrar y mantener actualizado el inventario de bienes muebles del Instituto;
+
+XXX. Resguardar, conservar y dar mantenimiento preventivo y correctivo a los bienes muebles e inmuebles asignados al Instituto;
+
+XXXI. Garantizar la conservación y funcionamiento de los bienes muebles e inmuebles del Instituto mediante la celebración de contratos de seguro;
+
+XXXII. Conservar la documentación comprobatoria del ejercicio de los recursos financieros y materiales y servicios personales del Instituto, conforme a la normatividad vigente y en el marco de su responsabilidad;
+
+XXXIII. Proporcionar a la Dirección de Sistemas Informáticos, la información que en términos de la Ley y demás normativa aplicable, el Instituto está obligado a publicar;
+
+XXXIV. Elaborar los manuales de organización y de procedimientos, para su aprobación por el Consejo;
+
+XXXV. Realizar y registrar oportunamente el pago de las remuneraciones y demás prestaciones a los servidores públicos del Instituto;
+
+XXXVI. Expedir y entregar las constancias de retención de impuestos a los servidores públicos del Instituto;
+
+XXXVII. Realizar los trámites necesarios para que se cumpla con las obligaciones patronales en materia de seguridad social;
+
+XXXVIII. Coadyuvar con el Consejo en la elaboración y actualización de los Lineamientos a que se refiere la Ley;
+
+XXXIX. Proporcionar a los Consejeros la información que le sea requerida;
+
+XL. Rendir al Consejo el informe trimestral de las actividades realizadas en ejercicio de sus atribuciones; y
+
+XLI. Las demás que señale la Constitución Local, la Ley, su Reglamento, el presente Reglamento, los Lineamientos y demás disposiciones legales y administrativas aplicables, y aquellas que le instruya el Consejo.
+
+### Capítulo décimo primero. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS
+
+###### Artículo 21.
+
+El titular de la Dirección de Asuntos Jurídicos contará con los servidores públicos que determine el Consejo para el desempeño de las siguientes atribuciones:
+
+I. Compilar y emitir opinión de las normas jurídicas relacionadas con el ejercicio de las atribuciones del Instituto;
+
+II. Fungir como asesor jurídico de las diversas áreas administrativas del Instituto;
+
+III. Elaborar los proyectos de convenios, contratos, instrumentos de coordinación y demás actos administrativos a celebrarse con terceros, para someterlos al Consejo;
+
+IV. Brindar orientación a quienes la soliciten acerca de los objetivos de la Ley;
+
+V. Representar al Presidente del Consejo, previa delegación de facultades ante los tribunales federales y del fuero común, y ante cualquier autoridad administrativa en los asuntos en que tenga interés o injerencia jurídica, y promover el juicio de amparo en contra de los actos que afecten la esfera jurídica del Instituto;
+
+VI. Elaborar proyectos de interpretación de la Ley y su Reglamento, para someterlos al Consejo;
+
+VII. Elaborar los proyectos de informes sobre presuntas violaciones a la Ley, para someterlos al Consejo;
+
+VIII. Formular dictámenes, opiniones o informes en materia jurídica que le soliciten los Consejeros o secretarios del Instituto;
+
+IX. Formular demandas, denuncias, querellas o recursos, presentarlos y dar seguimiento a las secuelas procesales ante las autoridades competentes previa autorización del Consejo;
+
+X. Desistirse, previa autorización del Consejo de las demandas, denuncias, querellas o recursos en los que el Instituto sea parte;
+
+XI. Rendir los informes previos y justificados en los juicios de amparo en que el Instituto sea autoridad responsable;
+
+XII. Coadyuvar en el análisis jurídico de la normatividad del Instituto;
+
+XIII. Ejercer la rescisión administrativa que prevé la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave;
+
+XIV. Hacer efectivas las fianzas señaladas por la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave, y enterarlas al Consejo;
+
+XV. Tener bajo su resguardo, control y responsabilidad los sellos de la Dirección de Asuntos Jurídicos;
+
+XVI. Llevar el registro de los expedientes a su cargo en los libros correspondientes;
+
+XVII. Coadyuvar con el Consejo en la elaboración y actualización de los Lineamientos a que se refiere la Ley;
+
+XVIII. Proporcionar a los Consejeros la información que le sea requerida;
+
+XIX. Rendir al Consejo, el informe semestral de las actividades realizadas en ejercicio de sus atribuciones;
+
+XX. Remitir a la Dirección de Sistemas Informáticos el registro de los expedientes a su cargo; y
+
+XXI. Las demás que señale la Constitución Local, la Ley, su Reglamento, el presente Reglamento, los Lineamientos y demás disposiciones legales y administrativas aplicables, y aquellas que le instruya el Consejo.
+
+### Capítulo décimo segundo. DE LA CONTRALORÍA INTERNA
+
+###### Artículo 22.
+
+El titular de la Contraloría Interna contará con los servidores públicos que determine el Consejo para el desempeño de las siguientes atribuciones:
+
+I. Organizar y coordinar el sistema de control y evaluación del Instituto, así como inspeccionar el ejercicio del gasto público e ingresos del mismo y su congruencia con el presupuesto de egresos;
+
+II. Vigilar que las normas, procedimientos administrativos y contables se apliquen eficientemente, conforme a los lineamientos establecidos por las leyes de la materia para las diferentes áreas administrativas;
+
+III. Vigilar el cumplimiento de los convenios que se firmen entre el Instituto y las dependencias federales, estatales o municipales, así como con otros organismos y asociaciones;
+
+IV. Elaborar el programa anual de auditoria interna, de control y evaluación del origen y aplicación de los recursos financieros;
+
+V. Vigilar que los recursos asignados al Instituto se utilicen exclusivamente para los fines a que estén destinados;
+
+VI. Vigilar que el Instituto en ejercicio de sus atribuciones se conduzca bajo criterios de eficiencia, austeridad y disciplina presupuestaria;
+
+VII. Actuar en coordinación con las áreas administrativas para verificar que se cumpla con la normatividad en el ejercicio del gasto;
+
+VIII. Informar al Consejo de las faltas cometidas por los servidores públicos del Instituto en el ejercicio del gasto;
+
+IX. Dictar las políticas internas necesarias para el funcionamiento del Instituto;
+
+X. Realizar a las áreas administrativas del Instituto, auditorias financieras, operacionales, de resultado de programas y de legalidad e informar inmediatamente al Consejo el resultado de las mismas;
+
+XI. Llevar el control y dar seguimiento a las observaciones y recomendaciones derivadas de las auditorias practicadas a las áreas administrativas del Instituto;
+
+XII. Vigilar el cumplimiento de las metas del programa operativo anual;
+
+XIII. Revisar el informe trimestral que le envíe la Dirección de Administración y Finanzas para los efectos del artículo 179 del Código Financiero del Estado;
+
+XIV. Analizar los estados financieros del Instituto y en su caso emitir las recomendaciones pertinentes;
+
+XV. Formular opinión al Consejo sobre los criterios contables y de control en materia de programación y presupuestación;
+
+XVI. Conocer del recurso de revocación previsto por los artículos 52 y siguientes de la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave;
+
+XVII. Fijar las sanciones a los proveedores o licitantes que infrinjan la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave; Supervisar el cumplimiento de las obligaciones de los servidores públicos del Instituto, en lo relativo a su situación patrimonial, siendo responsable de la custodia y salvaguarda de las declaraciones patrimoniales, en su caso, remitirlas al H. Congreso del Estado de conformidad con la normatividad aplicable;
+
+XVIII. Conocer de las quejas que se presenten en contra de los servidores públicos del Instituto;
+
+XIX. Iniciar con base en la normatividad aplicable, el procedimiento administrativo con motivo de las quejas en contra de los servidores públicos del Instituto, con excepción de los Consejeros, y en su caso imponer las sanciones disciplinarias que correspondan de conformidad con las leyes de la materia;
+
+XX. Intervenir en el proceso de entrega y recepción de las áreas administrativas del Instituto;
+
+XXI. Coadyuvar con el Consejo en la elaboración y actualización de los Lineamientos a que se refiere la Ley;
+
+XXII. Proporcionar a los Consejeros la información que le sea requerida;
+
+XXIII. Rendir al Consejo, el informe trimestral de las actividades realizadas en ejercicio de sus atribuciones;
+
+XXIV. Vigilar que las disposiciones establecidas en este Reglamento sean aplicadas por las áreas administrativas del instituto; y
+
+XXV. Las demás que señale la Constitución Local, la Ley, su Reglamento, el presente Reglamento, los Lineamientos y demás disposiciones legales y administrativas aplicables, y aquellas que le instruya el Consejo.
+
+### Capítulo décimo tercero. DE LAS SUPLENCIAS
+
+###### Artículo 23.
+
+Las ausencias temporales del Presidente del Consejo, menores a 60 días naturales serán suplidas alternadamente por los Consejeros restantes.
+
+En caso de renuncia o ausencia definitiva de alguno de los Consejeros, se comunicará al H. Congreso del Estado.
+
+###### Artículo 24.
+
+Las ausencias temporales del Secretario Técnico serán suplidas por el Secretario General de Acuerdos, quién asumirá sus atribuciones sin menoscabo de las propias.
+
+###### Artículo 25.
+
+Las ausencias temporales del Secretario General de Acuerdos serán suplidas por el Secretario Técnico, quién asumirá sus atribuciones sin menoscabo de las propias.
+
+###### Artículo 26.
+
+Las ausencias temporales de los titulares de las áreas administrativas del Instituto, serán suplidas por el servidor público que determine el Consejo.
+
+### Capítulo décimo cuarto. DE LOS DÍAS Y HORAS HÁBILES
+
+###### Artículo 27.
+
+Serán días hábiles todos los del año, excepto los sábados y domingos, los que establezca como días de descanso obligatorio la Ley Federal del Trabajo, así como los que determine el Consejo. El horario de labores de los servidores públicos del Instituto será de lunes a viernes de nueve a dieciocho horas.
+
+###### Artículo 28.
+
+Serán horas hábiles las comprendidas entre las nueve y las dieciocho horas.
+
+El Consejo podrá habilitar las horas inhábiles cuando así lo requiera para el cumplimiento de sus atribuciones.
+
+### Capítulo cuarto. DE LOS CONSEJEROS
+
+###### Artículo 29.
+
+El periodo vacacional de los servidores públicos del Instituto será determinado por el Consejo.
+
+### Capítulo décimo quinto. DE LAS SESIONES Y ACUERDOS DEL CONSEJO GENERAL
+
+###### Artículo 30.
+
+Las sesiones del Consejo se celebrarán en el domicilio legal del Instituto, serán públicas, excepto en aquellos casos en que se deba analizar información de acceso restringido.
+
+###### Artículo 31.
+
+Las sesiones del Consejo serán ordinarias y extraordinarias, las primeras se realizarán semanalmente conforme al calendario aprobado por el Consejo y las segundas cuando así lo requiera la naturaleza del asunto.
+
+###### Artículo 32.
+
+Cualquiera de los Consejeros podrá solicitar por escrito al Consejo, la celebración de sesiones extraordinarias, que se convocarán con un día hábil de anticipación por lo menos; cuya notificación se hará por conducto del Secretario Técnico, adjuntando la convocatoria, el orden del día y los anexos que se requieran para la celebración de la sesión.
+
+Si los Consejeros se encuentran presentes y están de acuerdo en reunirse en sesión extraordinaria, se omitirá la convocatoria y notificación señaladas.
+
+###### Artículo 33.
+
+El orden del día de la sesión ordinaria deberá contener por lo menos:
+
+I. Lista de asistencia;
+
+II. Declaración de quórum;
+
+III. Instalación de la sesión;
+
+IV. La prelación de los asuntos a tratar;
+
+V. Exposición, discusión y votación de los proyectos de resolución relativos a los recursos de que conoce el Instituto;
+
+VI. Desahogo de los demás asuntos que deba conocer el Consejo.
+
+###### Artículo 34.
+
+Las sesiones del Consejo iniciarán en el día y hora señalados, pero en caso de que llegada la hora no hubiere quórum, sus integrantes tendrán un tiempo de tolerancia máxima de treinta minutos.
+
+### Capítulo quinto. DE LA PRESIDENCIA DEL CONSEJO GENERAL O PLENO
+
+###### Artículo 35.
+
+Transcurrido el tiempo de tolerancia sin que hubiere quórum, el Secretario Técnico cerrará el acta de sesión, asentando lo anterior y los asuntos programados para la sesión no iniciada, tendrán que tratarse en sesión extraordinaria, la que se debe llevar a cabo antes de la fecha señalada para la siguiente sesión ordinaria.
+
+###### Artículo 36.
+
+Las sesiones se desarrollarán como sigue:
+
+I. En las sesiones ordinarias, leído el orden del día, el Presidente del Consejo preguntará a los Consejeros, si existen asuntos que en virtud de su urgencia deban incluirse, para que el Secretario Técnico los inscriba;
+
+II. El Consejero ponente presentará el proyecto de resolución por conducto del servidor público que determine;
+
+III. Los asuntos a tratar serán discutidos, para lo cual cada Consejero dispone de diez minutos como máximo, iniciando el Consejero Ponente;
+
+IV. Agotados los tiempos anteriores, cada Consejero tendrá derecho de réplica por cinco minutos como máximo;
+
+V. Agotados los tiempos de la réplica, cada Consejero tendrá derecho de dúplica, hasta por tres minutos como máximo;
+
+VI. Habiéndose agotado la réplica y dúplica, se procederá de inmediato a la votación;
+
+VII. El sentido del voto deberá ser a favor o en contra;
+
+VIII. Al final de la discusión de cada asunto, el Secretario Técnico recabará y registrará la votación en el acta de sesión correspondiente;
+
+IX. Si el Consejo determina que el asunto no está suficientemente discutido, será diferido por única ocasión para otra sesión ordinaria o extraordinaria;
+
+X. Cuando por la naturaleza del asunto de que se trate y a juicio de algún Consejero, se considere necesaria la presencia de cualquier servidor público del Instituto, el Presidente del Consejo instruirá al Secretario Técnico lo haga comparecer para exponer el asunto.
+
+###### Artículo 37.
+
+Para los efectos del artículo anterior, el Presidente del Consejo tendrá las siguientes atribuciones:
+
+a. Conceder el uso de la voz a los integrantes del Consejo por orden de prelación de ponencias; y
+
+b. Fungir como moderador en las sesiones.
+
+###### Artículo 38.
+
+El acta de sesión se elaborará en papel oficial y deberá contener por lo menos:
+
+I. Número de acta;
+
+II. Fecha y hora de su inicio y conclusión;
+
+III. Mención del tipo de sesión de que se trate;
+
+IV. Registro de asistencia;
+
+V. Aprobación del orden del día;
+
+VI. Relación de los asuntos listados;
+
+VII. Relación de los recursos discutidos, votados y diferidos;
+
+VIII. Relación de los asuntos generales que se hayan desahogado;
+
+IX. Acuerdos tomados;
+
+X. Sentido de la votación;
+
+XI. Votos particulares y concurrentes;
+
+XII. Cierre de la sesión; y
+
+XIII. Firmas de quienes hayan intervenido.
+
+###### Artículo 39.
+
+Para efecto de las sesiones, la votación será de la siguiente forma:
+
+I. Unanimidad: Cuando el voto total de los Consejeros asistentes sea en el mismo sentido.
+
+II. Mayoría: Aquella que implique dos votos de los Consejeros en el mismo sentido.
+
+###### Artículo 40.
+
+En caso de votación por mayoría, el Consejero disidente deberá formular fundada y motivadamente su voto particular, para lo cual contará con un plazo de tres días hábiles siguientes a la sesión y presentarlo al Secretario Técnico, para que sea incorporado a la resolución.
+
+Cuando algún Consejero esté conforme con los resolutivos pero disienta de las consideraciones podrá formular el voto concurrente en el mismo plazo.
+
+Cuando el proyecto de algún Consejero sea rechazado por mayoría, el Presidente del Consejo turnará el asunto para engrose al Consejero que corresponda de acuerdo al turno de éste.
+
+###### Artículo 41.
+
+Las sesiones se conducirán con el debido orden, respeto y compostura, para lo cual el público asistente se abstendrá de interrumpir u obstaculizar su desarrollo.
+
+Para garantizar el orden de las sesiones, el Presidente del Consejo podrá tomar cualquiera de las siguientes medidas:
+
+I. Exhortar a guardar el orden;
+
+II. Conminar a abandonar la sala de sesiones; o
+
+III. Solicitar el auxilio de la fuerza pública para reestablecer el orden, retirando a quien lo haya alterado.
+
+###### Artículo 42.
+
+En caso de que no fuera posible conservar el orden de la sesión, el Consejo podrá suspenderla.
+
+###### Artículo 43.
+
+Los Consejeros no son recusables, pero deberán excusarse de conocer los asuntos de que se trate cuando se encuentren comprendidos en alguno de los supuestos señalados por el artículo 128 del Código de Procedimientos Administrativos del Estado; de no hacerlo incurrirán en responsabilidad en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Veracruz de Ignacio de la Llave y demás normativa aplicable.
+
+T R A N S I T O R I O S
+
+Primero. El presente Reglamento entrará en vigor al día hábil siguiente de su publicación en la Gaceta Oficial.
+
+Segundo. La suplencia alternada del Presidente del Consejo, será iniciada por el Consejero designado para el período inmediato posterior.
+
+Tercero. Para los efectos del turno del engrose a que se refiere la fracción V del artículo 15 del presente Reglamento, iniciará el Consejero designado para el periodo inmediato posterior.
+
+Dado en el salón de sesiones del Consejo General del Instituto Veracruzano de Acceso a la Información, a los trece días del mes de septiembre del año dos mil siete.
+
+Presidente del Consejo Álvaro Ricardo de Gasperín Sampieri, Consejera Luz del Carmen Martí Capitanachi y Consejera Rafaela López Salas, por ante el Secretario Técnico del Instituto, Fernando Aguilera De Hombre, con quien actúan.-Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 26 DE FEBRERO DE 2008.
+
+...
+
+Segundo.- Se instruye al Secretario Técnico para que publique el presente acuerdo en la Gaceta Oficial del estado.
+
+Tercero.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 ###### ARTICULO 44.
 
@@ -455,7 +907,7 @@ Las representaciones en el extranjero de la Secretaría de Turismo Federal, tamb
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1994)
 
-### CAPITULO VI. DE LA CAPACITACION TURISTICA
+### Capítulo sexto. DE LA SECRETARÍA TÉCNICA DEL CONSEJO GENERAL O PLENO
 
 ###### ARTICULO 50.
 
@@ -491,9 +943,7 @@ La Secretaría promoverá la celebración de acuerdos y convenios con dependenci
 
 Las escuelas, centros e instituciones dedicadas a la formación profesional y técnica en materia turística, deberán registrarse ante la Secretaría, acompañando al efecto la documentación y los informes que se les requieran.
 
-### CAPITULO VII. DE LA CONCERTACION SOCIAL PARA EL
-
-DESARROLLO TURISTICO
+### Capítulo séptimo. DE LA SECRETARÍA GENERAL DE ACUERDOS
 
 ###### ARTICULO 54.
 
@@ -511,11 +961,9 @@ En los acuerdos y convenios que se celebren intervendrán, según el caso, las d
 
 La Secretaría promoverá la celebración de acuerdos de coordinación con la Secretaría de Turismo Federal con el objeto de establecer las bases de concurrencia de ambas entidades en materia de protección al turista y de verificación y vigilancia de los servicios turísticos que se presten en el Estado.
 
-### CAPITULO VIII. DE LA VIGILANCIA Y LA VERIFICACION
+### Capítulo octavo. DE LA DIRECCIÓN DE CAPACITACIÓN Y VINCULACIÓN CIUDADANA
 
-### CAPITULO IX. DE LAS SANCIONES Y RECURSOS
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+### Capítulo noveno. DE LA DIRECCIÓN DE SISTEMAS INFORMÁTICOS
 
 ###### ARTICULO 58.
 
@@ -578,6 +1026,8 @@ IX.- Nombre y firma del verificador, de quien atendió la visita y de las person
 ###### ARTICULO 67.
 
 El verificador, una vez elaborada el acta, proporcionará una copia de la misma a la persona con quien se entendió la visita, aún en el caso de que ésta se hubiera negado a firmarla, hecho que no desvirtuará su validez.
+
+### Capítulo décimo. DE LA DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS
 
 ###### ARTICULO 68.
 
