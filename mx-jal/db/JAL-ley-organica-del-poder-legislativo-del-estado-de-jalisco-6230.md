@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1998-02-03"
+last_updated: "1999-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 1999.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -491,11 +491,15 @@ XXVIII. Asuntos Indígenas;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1992)</small>
 
-XXIX.Cultura; y
+XXIX. Cultura; y
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1992)</small>
 
-XXX.Planeación del Desarrollo.
+XXX. Planeación del Desarrollo.
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 1999)</small>
+
+XXXI. Protección Civil.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1992)</small>
 
@@ -635,7 +639,7 @@ III. (DEROGADA, P.O. 22 DE DICIEMBRE DE 1994)
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1988)</small>
 
-IV.Dictaminar sobre la necesidad de convocar a elecciones extaordinarias, cuando sea necesario; y sobre el resultado de éstas, dentro de los quince días siguientes a la recepción de la documentación respectiva;
+IV.Dictaminar sobre la necesidad de convocar a elecciones extraordinarias, cuando sea necesario; y sobre el resultado de éstas, dentro de los quince días siguientes a la recepción de la documentación respectiva;
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1992)</small>
 
@@ -645,11 +649,11 @@ V.Proponer para su designación, como Gobernador Interino, Provisional o Substit
 
 VI.Dictaminar sobre las propuestas que se presenten para integran (sic) el Tribunal de lo Contencioso Electoral que se establece en la Constitución Política del Estado, en los términos de la ley en la materia.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1999)</small>
 
 ###### Artículo 41.
 
-Corresponde a la Comisión de Desarrollo Agrícola y Forestal, el conocimiento de los asuntos, relacionados con la normatividad que se derive de los planes de desarrollo agrícola, mejoramiento de los ejidatarios y pequeños propietarios agrícolas, que sean competencia del Estado, de conformidad con las disposiciones de la Legislación Agraria y demás aplicables; así como el estudio y dictamen de los asuntos que deba conocer el Congreso en materia de conservación, protección, restauración y aprovechamiento de los recursos forestales, con base en la Legislación Forestal y en los convenios que de la misma se deriven.
+Corresponde a la Comisión de Desarrollo Agrícola y Forestal, el conocimiento de los asuntos, relacionados con la normatividad que se derive de los Planes de Desarrollo Agrícola, mejoramiento de los ejidatarios, comuneros, posesionarios, avecindados y pequeños propietarios agrícolas, que sean competencia del estado, de conformidad con lo dispuesto en el artículo 27, párrafo tercero de la Constitución Política de los Estados Unidos Mexicanos, las disposiciones de la legislación agraria y demás aplicables, así como el estudio y dictamen de los asuntos que deba conocer el Congreso en materia de conservación, protección, restauración y aprovechamiento de los recursos forestales, con base en la legislación forestal y en los convenios que de la misma se deriven.
 
 ###### Artículo 42.
 
@@ -807,7 +811,7 @@ Corresponde a la Comisión de Vialidad y Tránsito, el conocimiento de los asunt
 
 ###### Artículo 47-I.
 
-Corresponde a la Comisión de Comuncaciones y Transportes, el conocimiento de los asuntos de normatividad legislativa relacionados con la construcción y funcionamiento de las vías de comunicación estatales; con la prestación directa o concesionada del transporte de personas y cosas utilizando las referidas vías estatales de comunicación; y con la modificación, reforma o adición de las normas relativas, vigentes en el Estado.
+Corresponde a la Comisión de Comunicaciones y Transportes, el conocimiento de los asuntos de normatividad legislativa relacionados con la construcción y funcionamiento de las vías de comunicación estatales; con la prestación directa o concesionada del transporte de personas y cosas utilizando las referidas vías estatales de comunicación; y con la modificación, reforma o adición de las normas relativas, vigentes en el Estado.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1992)</small>
 
@@ -844,6 +848,22 @@ Corresponde a la Comisión para la Planeación del Desarrollo, conocer de los as
 I. El conocimiento de los asuntos referentes a la normatividad de las acciones requeridas para llevar a cabo la Planeación del Desarrollo del Estado; y
 
 II. La normatividad que se derive de la programación sectorial, regional y especial que de esta se derive, incluyendo los proyectos específicos que planeen realizar.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1999)</small>
+
+###### Artículo 47-N.
+
+Corresponde a la Comisión de Protección Civil conocer de los siguientes asuntos:
+
+I. De la normatividad relativa a la protección civil en el Estado;
+
+II. De los planes y programas de prevención, auxilio y reconstrucción, ante la presencia de desastres o siniestros que afecten a la población en sus vidas o sus bienes;
+
+III. De la prevención de desastres y siniestros en las zonas de alto riesgo;
+
+IV. Del seguimiento en las acciones operativas que se realicen en material de protección civil y de los ámbitos de competencia institucionales; y
+
+V. De los demás asuntos relacionados con la materia que le sean turnados por acuerdo de la Asamblea.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1998)</small>
 
@@ -1725,6 +1745,8 @@ QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 1997)
 
 (DEROGADO, P.O. 29 DE ABRIL DE 1997)
 
+rtículo 190.- (DEROGADO, P.O. 29 DE ABRIL DE 1997)
+
 ###### Artículo 190.
 
 (DEROGADO, P.O. 29 DE ABRIL DE 1997)
@@ -1900,3 +1922,11 @@ Artículo Cuarto. El presente decreto entrará en vigor al día siguiente de su 
 P.O. 3 DE FEBRERO DE 1998
 
 UNICO. Este decreto entrará en vigor el día 1º. de Febrero de 1998, debiendo publicarse en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE FEBRERO DE 1999DECRETO QUE REFORMA ART. 41,
+
+UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+DECRETO QUE REFORMA ART. 31 Y 47-N, P.O. 13 DE FEBRERO DE 1999
+
+UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
