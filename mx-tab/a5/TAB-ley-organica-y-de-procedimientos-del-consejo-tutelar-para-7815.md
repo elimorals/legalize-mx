@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-y-de-procedimientos-del-consejo-tutelar-para-7815"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-07-13"
-last_updated: "1983-07-13"
+last_updated: "1999-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA Y DE PROCEDIMIENTOS DEL CONSEJO TUTELAR PARA MENORES INFRACTORES DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 13 de julio de 1983.
 
@@ -93,7 +93,11 @@ Asimismo, desarrollará todas las demás funciones correspondientes a su cargo. 
 
 ### CAPITULO II. COMPETENCIA
 
-8.- El Consejo Tutelar delegará en el sistema para el Desarrollo Integral de la Familia, Tabasco, la responsabilidad de la elaboración, supervisión, supervisión (sic) y control del programa para rehabilitar a los menores internados en el Centro Educativo Tutelar; asimismo, la capacitación, la selección del personal para laborar en dicho centro y la evaluación de sus resultados.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1999)</small>
+
+8.- El Consejo Tutelar y los Centros Educativos Tutelares para Menores Infractores, tendrán la facultad de elaborar, ejecutar y controlar el programa para rehabilitar a los menores internados en dichos centros. La Secretaría de Gobierno a través de la Subsecretaría de Protección Civil, Prevención y Readaptación Social y la Dirección General de Prevención y Readaptación Social, supervisará y evaluará dichas actividades.
+
+El Consejo Tutelar y los Centros Educativos Tutelares seleccionarán y capacitarán a su personal en el ámbito de sus respectivas competencias.
 
 9.- El Consejo Tutelar conocerá exclusivamente en lo que respecta a menores cuyas edades fluctúan entre los ocho y los 17 años, de las siguientes materias:
 
@@ -203,7 +207,9 @@ III.- Cualquier otra clase de albergue, asilo, casa de salud o escuela no compre
 
 33.- Las instituciones a que se refiere el artículo anterior se regirán por sus respectivos reglamentos interiores en donde se especificará el régimen al que quedarán sujetos los menores, atendiendo a las finalidades de su educación, curación y rehabilitación, con absoluta prohibición de toda medida de carácter punitivo.
 
-34.- El Centro Educativo Tutelar dependerá del Sistema para el Desarrollo Integral de la Familia, Tabasco y su Director será nombrado por el Director General del mismo y se regirá por su reglamento interior.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1999)</small>
+
+34.- Los Centros Educativos Tutelares para Menores Infractores dependerán de la Secretaría de Gobierno del Estado y sus funciones se regirán por esta Ley y su Reglamento Interior, los Directores serán nombrados y removidos por el Secretario de Gobierno, previo acuerdo del Titular del Poder Ejecutivo.
 
 ## TITULO TERCERO. SERVICIOS AUXILIARES Y AUTORIDADES COADYUVANTES
 
@@ -264,3 +270,11 @@ ENRIQUE GONZALEZ PEDRERO.
 LIC. JOSE EDUARDO BELTRAN HERNANDEZ,
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE OCTUBRE DE 1999.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
