@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-continuacion-voluntaria-dentro-del-549"
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-11-04"
-last_updated: "1982-03-09"
+last_updated: "1986-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=549&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1975-10-23"
 
 REGLAMENTO PARA LA CONTINUACION VOLUNTARIA DENTRO DEL REGIMEN DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MARZO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 1986.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 4 de noviembre de 1975.
 
@@ -61,7 +61,9 @@ Los trabajadores jubilados por quienes el patrón o patrones hayan hecho aportac
 
 Para los efectos de este reglamento se entiende por trabajador jubilado:
 
-I.- Al que se le haya concedido pensión por el Instituto Mexicano del Seguro Social, por vejez, cesantía en edad avanzada, invalidez permanente no profesional o por incapacidad total permanente derivada de un riesgo de trabajo, y
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1986)</small>
+
+I.- Al que se le haya concedido pensión por el Instituto Mexicano del Seguro Social por vejez; cesantía en edad avanzada; invalidez definitiva, en los términos previstos por la Ley del Seguro Social, si produjo la disolución de la relación de trabajo; incapacidad total permanente; incapacidad parcial permanente del 50% o más, cuando haya producido la disolución de la relación laboral, y
 
 II.- Al que se le haya concedido por su patrón o patrones o por un sistema de pensiones y jubilaciones pagado por el patrón o patrones que hubiere tenido, una pensión, cuando la misma se genere por cualquiera de las causas señaladas en la fracción anterior.
 
@@ -216,3 +218,7 @@ D.O.F. 9 DE MARZO DE 1982.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los trabajadores inscritos en el régimen de continuación voluntaria con anterioridad a la entrada en vigor de la (sic) reformas y adiciones a la Ley Federal del Trabajo y a la Ley del INFONAVIT publicadas en el Diario Oficial de la Federación el día 7 de enero de 1982, deberán de enterar directamente al Instituto, en los términos del Reglamento correspondiente, el 1% sobre la cantidad que sirva de base para el cálculo de la aportación voluntaria para la administración, operación y mantenimiento de los conjuntos habitacionales.
+
+D.O.F. 21 DE NOVIEMBRE DE 1986.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
