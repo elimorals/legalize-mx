@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2001-11-21"
+last_updated: "2001-12-13"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 2001.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -107,13 +107,15 @@ SEGUNDO.- Cada uno de los circuitos a que se refiere el punto primero comprender
 
 I.- PRIMER CIRCUITO:
 
-1.- Cuarenta y cuatro tribunales colegiados especializados: seis en materia penal, trece en materia administrativa, trece en materia civil y doce en materia de trabajo, todos con residencia en el Distrito Federal.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 86/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2001)</small>
+
+1.- Cincuenta y dos tribunales colegiados especializados: diez en materia penal, trece en materia administrativa, catorce en materia civil y quince en materia de trabajo, todos con residencia en el Distrito Federal.
 
 2.- Seis tribunales unitarios especializados: cuatro en materia penal y dos en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 73/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 83/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2001)</small>
 
-3.- Cuarenta y tres juzgados de distrito en el Distrito Federal especializados: doce en materia de procesos penales federales, seis de amparo en materia penal, diez en materia administrativa, doce en materia civil y tres en materia de trabajo, todos con sede en el Distrito Federal.
+3.- Cuarenta y nueve juzgados de distrito en el Distrito Federal especializados: dieciocho en materia de procesos penales federales, seis de amparo en materia penal, diez en materia administrativa, doce en materia civil y tres en materia de trabajo, todos con sede en el Distrito Federal.
 
 II.- SEGUNDO CIRCUITO:
 
@@ -139,11 +141,15 @@ III.- TERCER CIRCUITO:
 
 IV.- CUARTO CIRCUITO:
 
-1.- Ocho tribunales colegiados especializados: uno en materia penal, dos en materia administrativa, dos en materia civil y tres en materia de trabajo, todos con residencia en Monterrey.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 89/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2001)</small>
+
+1.- Diez tribunales colegiados especializados: dos en materia penal, dos en materia administrativa, tres en materia civil y tres en materia de trabajo, todos con residencia en Monterrey.
 
 2.- Dos tribunales unitarios con residencia en Monterrey.
 
-3.- Siete juzgados de distrito en el Estado de Nuevo León, con sede en Monterrey.
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 87/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2001)</small>
+
+3.- Nueve juzgados de distrito en el Estado de Nuevo León, con sede en Monterrey.
 
 V.- QUINTO CIRCUITO:
 
@@ -265,9 +271,9 @@ XVI.- DECIMOSEXTO CIRCUITO:
 
 XVII.- DECIMOSEPTIMO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 65/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 90/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2001)</small>
 
-1.- Cuatro tribunales colegiados: tres con residencia en Chihuahua y uno con sede en Juárez.
+1.- Cinco tribunales colegiados: cuatro con residencia en Chihuahua y uno con sede en Juárez.
 
 > <small>(REFORMADO POR EL PUNTO SEXTO ACUERDO GENERAL 77/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE NOVIEMBRE DE 2001)</small>
 
@@ -810,3 +816,75 @@ D.O.F. 21 DE NOVIEMBRE DE 2001.
 PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 82/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO I.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 83/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO I.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 84/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO I.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 85/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO I.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 86/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO I.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 87/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO IV.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 88/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NUMERO 1 APARTADO IV.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 89/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO IV.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 90/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO XVII.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
