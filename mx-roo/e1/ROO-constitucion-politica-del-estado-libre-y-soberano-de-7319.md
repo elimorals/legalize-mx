@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2001-02-15"
+last_updated: "2001-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -507,7 +507,9 @@ II.- La ley garantizará que los partidos políticos cuenten de manera equitativ
 
 El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a lo siguiente y a lo que disponga la ley:
 
-a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, aplicando los costos mínimos de campaña calculados por el órgano superior de dirección del Consejo Estatal Electoral, el número de diputados a elegir, el número de partidos políticos con representación en la Legislatura del Estado y la duración de las campañas electorales. El 30% de la cantidad total que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el 70% restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2001)</small>
+
+a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente y será determinado multiplicando el número de ciudadanos inscritos en el Padrón Electoral Estatal con corte al mes de octubre del año inmediato anterior al del ejercicio presupuestal correspondiente, por el 40% de un salario mínimo general vigente en el Estado. El 30% de la cantidad total que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el 70% restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 
 b) El financiamiento público para las actividades tendientes a la obtención del voto durante los procesos electorales, equivaldrá a una cantidad igual al monto del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese año; y
 
@@ -539,9 +541,11 @@ Los Consejeros del Poder Legislativo del Estado serán propuestos por los grupos
 
 El Consejo Estatal Electoral tendrá a su cargo en forma integral y directa, además de las que determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de las agrupaciones y de los partidos políticos, al padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de diputados y ayuntamientos, cómputo de la elección de Gobernador del Estado en cada uno de los distritos electorales uninominales, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley.
 
-> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2001)</small>
 
-IV.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Este sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación en los términos del artículo 104 de esta Constitución.
+IV.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Este sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación en los términos del artículo 103 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1997)</small>
 
 En materia electoral la interposición de los medios de impugnación ordinarios no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
@@ -2363,30 +2367,6 @@ DECRETO QUE REFORMA A LA CONSTITUCION POLITICA DEL ESTADO (ARTS. 49 Y 54)
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-DECRETO QUE REFORMA A LA CONSTITUCION POLITICA DEL ESTADO EN DIVERSOS ARTICULOS.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Los Magistrados del Tribunal Superior de Justicia que encontrándose en funciones hayan sido reelectos mediante nombramiento del Ejecutivo del Estado y aprobación de la Legislatura, sólo podrán ser removidos en los términos que señala el Título Octavo de esta Constitución. Los demás Magistrados podrán ser reelectos al cumplir seis años de ejercicio, contados a partir de la fecha de su designación y si lo fueren, solo podrán ser separados de su cargo en los mismos términos indicados en este artículo.
-
-ARTTICULO TECERO.-- Por esta única ocasión dentro de los noventa días contados a partir de la entrada en vigor del presente Decreto, el Pleno del Tribunal Superior de Justicia elegirá a quien se hará cargo de la Presidencia, en los términos del artículo 105 del presente Decreto. En tanto, el actual Presidente del Tribunal Superior de Justicia continuará en funciones hasta que se efectúe la elección correspondiente.
-
-###### ARTICULO TERCERO.
-
-Por esta única ocasión dentro de los noventa días contados a partir de la entrada en vigor del presente Decreto, el Pleno del Tribunal Superior de Justicia elegirá a quien se hará cargo de la Presidencia, en los términos del artículo 105 del presente Decreto. En tanto, el actual Presidente del Tribunal Superior de Justicia continuará en funciones hasta que se efectúe la elección correspondiente.
-
-###### ARTICULO CUARTO.
-
-En un término de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, se expedirá la nueva Ley Orgánica del Poder Judicial del Estado, mientras tanto, continuará en vigor la actual, en lo que no se contraponga con el presente Decreto.
-
-###### ARTICULO QUINTO.
-
-Los recursos humanos, materiales y financieros, que de acuerdo a la presente reforma pasan a formar parte del Poder Judicial, se llevará a cabo mediante actas de entrega y recepción. La Secretaría de Hacienda dispondrá lo necesario en consulta con estos órganos, para que en el Presupuesto de Egresos del Estado, en el capítulo del Poder Judicial, se realice la ampliación de las partidas correspondientes integradas por las partidas que corresponden a los órganos que ahora forman parte del Poder Judicial.
-
 P.O. 9 DE JULIO DE 1998.
 
 DECRETO QUE REFORMA A LA CONSTITUCION POLITICA DEL ESTADO EN DIVERSOS ARTICULOS.
@@ -2401,7 +2381,7 @@ Los Magistrados del Tribunal Superior de Justicia que encontrándose en funcione
 
 ###### ARTICULO TERCERO.
 
-El Gobierno del Estado y los Municipios realizarán los actos conducentes a efecto de que los convenios que, en su caso, hubiesen celebrado con anterioridad, se ajusten a lo establecido en este Decreto y a las leyes relativas.
+Por esta única ocasión dentro de los noventa días contados a partir de la entrada en vigor del presente Decreto, el Pleno del Tribunal Superior de Justicia elegirá a quien se hará cargo de la Presidencia, en los términos del artículo 105 del presente Decreto. En tanto, el actual Presidente del Tribunal Superior de Justicia continuará en funciones hasta que se efectúe la elección correspondiente.
 
 ###### ARTICULO CUARTO.
 
@@ -2426,6 +2406,34 @@ P.O. 6 DE MARZO DE 2000.
 UNICO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 15 DE FEBRERO DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Tratándose de funciones y servicios que conforme al presente Decreto sean competencia de los municipios y que a su entrada en vigor sean prestados por el Gobierno del Estado, o de manera coordinada con los municipios, éstos podrán asumirlos, previa aprobación del Ayuntamiento. El Gobierno del Estado dispondrá de lo necesario para que la función o servicio público de que se trate se transfiera al municipio de manera ordenada, conforme al programa de transferencia que presente el Titular del Ejecutivo, en un plazo máximo de 90 días contados a partir de la recepción de la correspondiente solicitud. Cuando el Gobierno del Estado no procediera según lo dispuesto en este Artículo, el Ayuntamiento podrá comunicar su acuerdo a la Legislatura, para que ésta determine lo conducente.
+
+En el caso del servicio público de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, dentro del mismo plazo señalado en el párrafo anterior, el Gobierno del Estado podrá solicitar a la legislatura conservarlo en su ámbito de competencia, cuando la transferencia de Estado a municipio afecte, en perjuicio de la población, su prestación. La Legislatura resolverá lo conducente.
+
+En tanto se realiza la transferencia a que se refiere el primer párrafo de este Artículo, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
+
+###### ARTICULO TERCERO.
+
+El Gobierno del Estado y los Municipios realizarán los actos conducentes a efecto de que los convenios que, en su caso, hubiesen celebrado con anterioridad, se ajusten a lo establecido en este Decreto y a las leyes relativas.
+
+###### ARTICULO CUARTO.
+
+Antes del inicio del ejercicio fiscal de 2002, la Legislatura del Estado en coordinación con los Municipios de la propia entidad, adoptarán las medidas conducentes a fin de que los valores unitarios de suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores de mercado de dicha propiedad y procederán, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+###### ARTICULO QUINTO.
+
+En la realización de las acciones conducentes al cumplimiento del presente Decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores del Estado y Municipios.
+
+P.O. 30 DE MAYO DE 2001.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTICULO PRIMERO.
 
