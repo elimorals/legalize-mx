@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2001-12-17"
+last_updated: "2002-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2001. (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002).
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -585,7 +585,7 @@ El Congreso tendrá cada año tres períodos de Sesiones, en la forma siguiente:
 
 I.- El Primero comenzará el día quince de enero, terminará el quince de marzo y se ocupará de estudiar, discutir y votar las iniciativas de Ley que se presenten y resolver los demás asuntos que le correspondan conforme a esta Constitución.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
 II.- El segundo comenzará el primero de junio, terminará el treinta y uno de julio, en el que además de conocer de los asuntos mencionados en la fracción anterior, examinará, revisará y calificará la Cuenta de la Hacienda Pública del Estado del año inmediato anterior, que será presentada por el Titular del Ejecutivo antes del inicio de este periodo.
 
@@ -593,7 +593,7 @@ En el caso del último año previo al de conclusión de la administración const
 
 En los casos previstos en los dos párrafos anteriores, declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
 III.- El tercero comenzará el día quince de octubre y terminará el quince de diciembre, deberá incluir en la agenda legislativa, el estudio, la discusión y la aprobación de la Ley de Ingresos del Estado y de cada Municipio, que habrán de entrar en vigor al año siguiente, así como de las zonas catastrales y las tablas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones a la propiedad inmobiliaria, las que se elaborarán y enviarán en términos de la legislación secundaria.
 
@@ -665,9 +665,9 @@ VI.- Autorizar al Ejecutivo para que celebre convenios con los demás Estados o 
 
 VII.- Autorizar la enajenación de bienes inmuebles propios del Estado o de los Municipios, a solicitud de éstos, así como aprobar los contratos que celebren los Ayuntamientos, cuando tengan duración mayor del período para el cual hubieren sido electos.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE FEBRERO DE 2002)</small>
 
-VIII.- Establecer las bases para que el Estado y los Municipios, así como los organismos descentralizados y empresas públicas puedan contraer obligaciones y empréstitos destinados a inversiones públicas productivas y fijar anualmente, en la Ley de Egresos del Estado y en los presupuestos de los Municipios, los conceptos y los montos máximos de dichas obligaciones o empréstitos. El Congreso aprobará las operaciones de financiamiento, que se contratarán, convertirán o consolidarán mediante el Decreto que emita.
+VIII.- Establecer las bases para que el Estado y los Municipios, así como los organismos descentralizados y empresas públicas puedan contraer obligaciones y empréstitos destinados a inversiones públicas productivas, y fijar anualmente, en la Ley de Egresos del Estado y en los presupuestos de los Municipios, los conceptos y los montos máximos de dichas obligaciones o empréstitos. El Congreso aprobará las operaciones de financiamiento, que se contratarán, convertirán o consolidarán mediante el Decreto que emita.
 
 El Congreso del Estado autorizará a los Ayuntamientos, cuando proceda, afectar en garantía sus participaciones.
 
@@ -767,7 +767,7 @@ XXVII.- Expedir leyes para hacer efectivas las anteriores facultades y todas las
 
 XXVIII.- Aprobar las leyes de ingresos de los Municipios, así como revisar y fiscalizar sus cuentas públicas.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE FEBRERO DE 2002)</small>
 
 XXIX.- Establecer las bases que permitan al Estado y a los Municipios, coordinarse en materia de ingreso, gasto, deuda y patrimonio público, para su desarrollo e inversión;
 
@@ -1057,11 +1057,11 @@ XXI.- Nombrar y recibir la protesta de los funcionarios y empleados públicos cu
 
 XXII.- Conocer de las licencias y renuncias de los funcionarios y empleados a quienes nombre, en los casos en que esta Constitución o las leyes no dispongan otra cosa.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
 XXIII.- Establecer un sistema de modernización administrativa, así como promover el constante perfeccionamiento de la Administración Pública, de acuerdo con las necesidades y recursos de la Entidad.
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
 XXIII-BIS.- Establecer el Servicio Civil de Carrera para los servidores públicos de la Administración Pública Estatal, en el que se regulará el ingreso, permanencia, promoción y en su caso, remoción de los servidores públicos, con criterios de calidad, eficiencia, mérito, lealtad, objetividad, legalidad, imparcialidad y equidad.
 
@@ -1389,7 +1389,7 @@ b).- Los Municipios podrán celebrar convenios con el Estado, para que éste se 
 
 c).- Los presupuestos de egresos de los Municipios serán aprobados por los respectivos Ayuntamientos, con base en los ingresos de que dispongan.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
 d) Los Ayuntamientos, en el ámbito de su competencia, propondrán a la legislatura del Estado, las cuotas y tarifas aplicables a impuestos, derechos, aprovechamientos, contribuciones de mejoras y productos; así como las zonas catastrales y las tablas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
@@ -1561,11 +1561,11 @@ V.- La forma de Constituir los Ayuntamientos cuando los Regidores electos no con
 
 ## TITULO OCTAVO. DE LA ADMINISTRACION EN GENERAL
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2001)</small>
+REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
 ### CAPITULO I. DE LA PLANEACION Y LAS COMPRAS DEL SECTOR PUBLICO
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 20 DE FEBRERO DE 2002)
 
 ###### Artículo 107.
 
@@ -1577,7 +1577,7 @@ Será responsabilidad del Ejecutivo, la elaboración del Plan Estatal de Desarro
 
 La participación de los particulares y del sector social será considerada en todas las acciones a realizar para la elaboración y ejecución de los planes y programas de desarrollo.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 20 DE FEBRERO DE 2002)
 
 ###### Artículo 108.
 
@@ -1601,7 +1601,7 @@ La Hacienda Pública tiene por objeto atender los gastos del Estado.
 
 La Hacienda Pública se formará con el producto de las contribuciones, impuestos, derechos, productos, aprovechamientos y participaciones que determinen las leyes fiscales, y con las donaciones, legados, herencias y reintegros que se hicieren en su favor.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 20 DE FEBRERO DE 2002)
 
 ###### Artículo 111.
 
@@ -1981,7 +1981,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 128 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 13 DE NOVIEMBRE DE 1936.
 
@@ -2191,7 +2191,7 @@ Antes del inicio del ejercicio fiscal de 2002, el Congreso del Estado, en coordi
 
 ###### ARTÍCULO SEXTO.
 
-En la realización de las acciones conducentes al cumplimiento del presente Decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
+En la realización de las acciones conducentes al cumplimiento del presente Decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.Estado.
 
 P.O. 17 DE DICIEMBRE DE 2001.
 
@@ -2204,3 +2204,15 @@ Tercero.- En materia de compras del sector público, continuarán vigentes las d
 Cuarto.- Los convenios celebrados entre el Estado y los Municipios en materia de coordinación fiscal y administrativa, serán válidos y continuarán vigentes hasta su conclusión o renovación.
 
 Quinto.- Los acuerdos a que se refiere la fracción XXIII Bis del artículo 79 del presente Decreto, serán irrevocables y su vigencia será la que en los mismos se determine.
+
+P.O. 20 DE FEBRERO DE 2002.
+
+Primero.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones legales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Cuarto.- En materia de compras del sector público, continuarán vigentes las disposiciones secundarias.
+
+Quinto.- Los convenios celebrados entre el Estado y los Municipios en materia de coordinación fiscal y administrativa, serán válidos y continuarán vigentes hasta su conclusión o renovación.
