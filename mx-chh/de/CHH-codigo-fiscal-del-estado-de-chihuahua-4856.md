@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1999-11-27"
+last_updated: "2000-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2000.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -663,9 +663,9 @@ La Tesorería General del Estado estará facultada para expedir los instructivos
 
 Tampoco podrán ratificar firmas y el contenido de documentos en los cuales consten actos que causen algún gravamen sin comprobar que el mismo ha sido cubierto.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2000)</small>
 
-Los Notarios y en general los funcionarios encargados de la fé pública, dentro de los 30 días hábiles siguientes contados a partir de la fecha en que se firme la escritura respectiva, deberán presentar ante la Recaudación de Rentas que corresponda, nota con 3 copias, salvo de los testamentos, en la que harán constar el número y fecha de la escritura, nombre de los otorgantes, naturaleza del acto, valor de la operación avalúo en su caso, ubicación de los bienes inmuebles si fueren materia del acto o resolución y liquidación de los impuestos que se causen a juicio del Notario; de estar exceptuados conforme a la Ley deberán expresarlo así, señalando la causa de la exención y su fundamento legal.
+Los fedatarios públicos, dentro de los treinta días hábiles siguientes a la fecha en que se firme la escritura respectiva, deberán presentar ante la Recaudación de Rentas que corresponda, nota con tres copias, en la que harán constar el número y fecha de la escritura, nombre de los otorgantes, naturaleza del acto, valor de la operación y del avalúo en su caso, ubicación de los bienes inmuebles si fueren materia del acto o resolución y liquidación de los impuestos que se causen a juicio del fedatario. No será necesaria la presentación de la nota tratándose de actos en que se consignen testamentos y mandatos, de los que no causen el impuesto conforme a la ley y de aquellos en los que se cause el Impuesto sobre Actos Jurídicos con base en valor indeterminado.
 
 Las autoridades correspondientes, si el objeto de la operación son bienes inmuebles, harán constar en la nota los datos catastrales relativos y si se encuentran al corriente en el pago de las contribuciones ordinarias y extraordinarias. El original de la nota se devolverá con la certificación de que se cubrió el impuesto conforme a la liquidación formulada bajo la responsabilidad del Notario, facultándolo para la autorización de la escritura.
 
@@ -3405,9 +3405,9 @@ V.- En los contratos de aparcería, el propietario pagará el 1% del precio de l
 
 VI.- Por los actos jurídicos no previstos en las fracciones anteriores, se pagará $0.75 por cada un mil pesos o fracción sobre el valor de la operación.
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
 
-VII.- Cuando en el acto jurídico no se exprese cantidad ni pueda determinarse el valor de la operación, se pagará el equivalente al 12.5% (ciento veinticinco por ciento), sobre el salario mínimo diario, correspondiente a la zona económica de la capital del Estado.
+VII.- Cuando por la naturaleza del acto Jurídico no pueda determinarse el valor de la operación, se pagará el equivalente al 125% sobre el salario mínimo diario que rija en la Capital del Estado. En este caso para el pago del impuesto la autoridad fiscal podrá expedir certificados preimpresos, que se agregarán al apéndice del protocolo correspondiente, o a la copia auténtica que se agregue al apéndice del Libro de Registro de Actos fuera de Protocolo, si el acto se otorgó ente (sic) fedatario público. En el documento que se entregue al interesado, se pondrá razón del pago en la que conste el número del certificado.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
@@ -3439,9 +3439,13 @@ IX.- Los actos en cuya virtud se cancele otro, salvo lo previsto en la fracción
 
 X.- Los actos mediante los cuales se reduzca el capital social o se disuelvan personas jurídicas colectivas o sociedades conyugales.
 
-XI.- Los actos en que se consignen disposiciones testamentarias.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
 
-XII.- Los actos que contengan operaciones gravadas con algún otro impuesto establecido por este Código, siempre y cuando su importe sea mayor al que resultaría de aplicarse las tasas del Artículo 305.
+XI.- Los actos en que se consignen disposiciones testamentarias, así como en los que se tramiten testamentarias o intestamentarias o se cancele el régimen de patrimonio familiar.
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
+
+XII.- Los actos que contengan operaciones gravadas por algún otro impuesto establecido por esta (sic) Código o por el Impuesto Municipal sobre Traslación de Dominio de Bienes Inmuebles, siempre y cuando el importe a pagar por éstos sea mayor al que resultaría de aplicar las tasas del artículo 305.
 
 307.- Los causantes, tratándose de escrituras privadas están obligados:
 
@@ -3715,7 +3719,7 @@ Los ingresos que el Estado obtenga por contribuciones especiales, se fijarán y 
 
 314.- Quedan comprendidas en este Capítulo, las participaciones a Municipios derivadas de los ingresos provenientes de la Participación Federal al Estado, correspondientes al Fondo General de Participaciones y al Impuesto sobre Tenencia o Uso de Vehículos, así como las derivadas de los Impuestos Estatales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1990)</small>
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1990)</small>
 
 315.- Las participaciones a los Municipios del Estado se integrarán de la siguiente forma:
 
@@ -3735,7 +3739,7 @@ B).- El 50% (cincuenta por ciento) restante, de acuerdo a los factores de increm
 
 316.- Como resultado de los procedimientos de distribución de participaciones, a que se refiere el Artículo anterior, anualmente fijará el Congreso del Estado, en la Ley de Ingresos para los Municipios, los porcentajes de participación sobre el producto total que les corresponda.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1990)</small>
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1990)</small>
 
 317.- El importe de las participaciones a que se contrae la fracción II del artículo 315, se destinará en un ciento por ciento a programas de obra pública. En condiciones excepcionales plenamente justificadas ante la Comisión de Gasto y Financiamiento, podrán destinarse a otros fines.
 
@@ -4640,3 +4644,9 @@ P.O. 27 DE NOVIEMBRE DE 1999.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día primero de diciembre de mil novecientos noventa y nueve.
+
+P.O. 23 DE DICIEMBRE DE 2000.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el primero de enero del dos mil uno.
