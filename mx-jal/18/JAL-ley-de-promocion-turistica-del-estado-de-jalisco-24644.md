@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-promocion-turistica-del-estado-de-jalisco-24644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-28"
-last_updated: "2002-05-28"
+last_updated: "2004-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROMOCION TURISTICA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2004.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el martes 28 de mayo de 2002.
 
@@ -69,13 +69,29 @@ IV. Fomentar de manera prioritaria las acciones de planeación, promoción, prog
 
 V. Propiciar el desarrollo coordinado de las actividades de los servicios turísticos;
 
-VI. Propiciar la creación de instrumentos de financiamiento y otros mecanismos de fomento para la modernización productiva en las micro, pequeñas y medianas empresas turísticas;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2004)</small>
 
-VII. Impulsar proyectos de fomento turístico que propicien la creación y conservación del empleo, de conformidad con los lineamientos establecidos en la presente ley;
+VI. Promover la formación de agrupaciones en sus formas con reconocimiento legal para impulsar y facilitar el desarrollo de la actividad turística;
 
-VIII. Optimizar la calidad de los servicios turísticos del Estado; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2004)</small>
 
-IX. La coordinación y participación de las autoridades federales, municipales y organismos del sector público, privado y social para el desarrollo turístico de la entidad.
+VII. Impulsar proyectos de fomento turístico; promover la micro y pequeña empresa, así como a las personas físicas y jurídicas para generar empleos y autoempleos, además de conservar los existentes;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2004)</small>
+
+VIII. Propiciar la creación de instrumentos de financiamiento y otros mecanismos de fomento para la modernización productiva en las micro, pequeñas y medianas empresas turísticas;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2004)</small>
+
+IX. Fomentar la profesionalización y capacitación de las personas físicas que presten servicios turísticos, a través del as instancias de gobierno correspondientes, estatales y municipales, y particulares; así como la formación y perfeccionamiento de los profesionales del turismo;
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2004)</small>
+
+X. Optimizar la calidad de los servicios turísticos del Estado; y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2004)</small>
+
+XI. La coordinación y participación de las autoridades federales, municipales y organismo del sector público, privado y social para el desarrollo turístico de la entidad.
 
 ###### Artículo 4.
 
@@ -490,3 +506,9 @@ LIC. FRANCISCO JAVIER RAMÍREZ ACUÑA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HÉCTOR PÉREZ PLAZOLA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco". La publicación oficial contendrá la exposición de motivos de la presente ley.
