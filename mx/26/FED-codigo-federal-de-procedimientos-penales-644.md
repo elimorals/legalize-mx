@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1934-08-30"
+last_updated: "1954-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ENERO DE 1954.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -49,21 +49,29 @@ III.- El de juicio, durante el cual el Ministerio Público precisa su acusación
 
 IV.- El de ejecución, que comprende desde el momento en que causa ejecutoria la sentencia de los tribunales, hasta la extinción de las sanciones aplicadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE ENERO DE 1954)</small>
+
 ###### ARTICULO 2o.
 
-Dentro del período de averiguación previa la Policía Judicial Federal deberá, en ejercicio de sus facultades:
+Dentro del período de averiguación previa la Policía Judicial Federal, deberá, en ejercicio de sus facultades:
 
-I.- Recibir las denuncias y querellas de los particulares o de cualquiera autoridad, sobre hechos que puedan constituir delitos de orden federal;
+> <small>(REFORMADA, D.O.F. 9 DE ENERO DE 1954)</small>
+
+I.- Recibir las denuncias y querellas de los particulares o de cualquiera autoridad, sobre hechos que puedan constituir delitos de orden federal. (En estos casos las diversas policías, cuando actúen en funciones de Policía Judicial, inmediatamente darán aviso al Ministerio Público dejando de actuar cuando éste así lo determine).
 
 II.- Practicar la averiguación previa; y
 
 III.- Buscar las pruebas de la existencia de los delitos del orden federal y de la responsabilidad de quienes en ellos hubieren participado.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE ENERO DE 1954)</small>
+
 ###### ARTICULO 3o.
 
-Dentro del mismo período el Ministerio Público Federal deberá:
+Dentro del mismo periodo, el Ministerio Público Federal deberá:
 
-I.- Ejercitar por sí mismo, en caso necesario, las funciones expresadas en el artículo anterior, teniendo bajo su dirección y mando a todas las autoridades que conforme a la ley ejerzan funciones de policía judicial;
+> <small>(REFORMADA, D.O.F. 9 DE ENERO DE 1954)</small>
+
+I.- Ejercitar por sí mismo, en caso necesario, las funciones expresadas en el artículo anterior, teniendo bajo su dirección y mando a todas las autoridades y policías cuando conforme a la ley, ejerzan funciones de policía judicial.
 
 II.- Ejercitar la acción penal.
 
@@ -137,11 +145,15 @@ El Juez y los miembros de la policía judicial, estarán acompañados en todas l
 
 En las diligencias podrán emplearse, según el caso y a juicio del funcionario que las practique, la taquigrafía, el dictáfono y cualquier otro medio que tenga por objeto reproducir imágenes o sonidos y el medio empleado se hará constar en el acta respectiva.
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+
 ###### ARTICULO 17.
 
-En las actuaciones no se emplearán abreviaturas, ni se rasparán las palabras equivocadas, sobre las que sólo se pondrá una línea delgada que permita su lectura, salvándose con toda precisión, antes de las firmas, el error cometido. En la misma forma se salvarán las palabras que se hubieren entrerrenglonado.
+En las actuaciones no se emplearán abreviaturas, ni se rasparán las palabras equívocas, sobre las que sólo se pondrá una línea delgada que permita su lectura, salvándose con toda precisión, antes de las firmas el error cometido. En la misma forma se salvarán las palabras que se hubieren entrerrenglonado.
 
 Todas las fechas y cantidades se escribirán precisamente con letra.
+
+Las actuaciones del Ministerio Público y de los Tribunales, deberán levantarse por duplicado, ser autorizadas y conservarse en sus respectivos archivos. En todo caso, se sacarán y conservarán en el archivo mencionado, copias autorizadas de las siguientes constancias: de la pieza por medio de la cual se ejercitó la acción penal; del auto de formal prisión o sujeción a proceso y de la sentencia.
 
 ###### ARTICULO 18.
 
@@ -245,9 +257,13 @@ Cuando cambiare el personal de un tribunal, no se proveerá auto alguno haciendo
 
 Cuando no tenga que dictarse resolución alguna anterior a la sentencia, sí se hará saber el cambio de personal.
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+
 ###### ARTICULO 38.
 
-Cuando esté plenamente comprobado en autos el delito de que se trate, el funcionario que conozca del asunto dictará las providencias necesarias, a solicitud del interesado, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados. Si se tratare de cosas, únicamente podrán retenerse, esté o no comprobado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la averiguación.
+Cuando esté plenamente comprobado en autos el delito de que se trata, el funcionario que conozca del asunto dictará las providencias necesarias, a solicitud del interesado, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados. Si se tratare de cosas, únicamente podrán retenerse, esté o no comprobado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la averiguación.
+
+Si la entrega del bien pudiera lesionar derechos de tercero o del inculpado, podrá efectuarse la devolución mediante fianza bastante para garantizar los daños y perjuicios, si el funcionario a cuya disposición está el bien, estima necesaria esa garantía.
 
 ###### ARTICULO 39.
 
@@ -513,13 +529,27 @@ La falta de cumplimiento de esta disposición será sancionada por el tribunal c
 
 ### CAPITULO X. Audiencias de derecho
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+
 ###### ARTICULO 86.
 
-Las audiencias serán públicas y en ellas el inculpado podrá defenderse por sí mismo y por su defensor, siempre que pueda hacerlo comparecer sin entorpecer la audiencia.
+Las audiencias serán públicas y en ellas el inculpado podrá defenderse por sí mismo o por su defensor.
 
 El Ministerio Público podrá replicar cuantas veces quisiere, pudiendo la defensa contestar en cada caso.
 
-Si el acusado tuviere varios defensores, no se oirá más que a uno de ellos en cada vez que toque hablar a la defensa. Lo mismo se hará cuando intervinieren varios Agentes del Ministerio Público.
+Si el acusado tuviere varios defensores, no se oirá más que a uno de ellos en cada vez que toque hablar a la defensa. Lo mismo se hará cuando intervinieren varios agentes del Ministerio Público.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+
+###### ARTICULO 86.
+
+Las audiencias serán públicas y en ellas el inculpado podrá defenderse por sí mismo o por su defensor.
+
+El Ministerio Público podrá replicar cuantas veces quisiere, pudiendo la defensa contestar en cada caso.
+
+Si el acusado tuviere varios defensores, no se oirá más que a uno de ellos en cada vez que toque hablar a la defensa. Lo mismo se hará cuando intervinieren varios agentes del Ministerio Público.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
 
 ###### ARTICULO 87.
 
@@ -527,9 +557,11 @@ Las audiencias se llevarán a cabo concurran o no las partes, salvo el Ministeri
 
 ###### ARTICULO 88.
 
-En las audiencias a que se refieren los artículos 305, 307 y 311, si el defensor fuere particular y no asistiere o se ausentare de ellas, sin autorización expresa del acusado, se le impondrá una corrección disciplinaria y se nombrará a éste un defensor de oficio, que será designado por el mismo acusado, si estuviere presente. Si el faltista fuere defensor de oficio, se comunicará la falta a su superior inmediato y se le hará comparecer por la fuerza pública o se le substituirá por otro.
+En las audiencias a que se refieren los artículos 305, 307 y 311 si el defensor no concurre, el funcionario que las presida, las diferirá, requiriendo al inculpado para que nombre nuevo defensor y si no lo hiciere se le designará uno de oficio.
 
-Lo dispuesto en este artículo será sin perjuicio del derecho que tiene el acusado, si estuviere presente, de nombrar para que lo defienda a cualquiera persona de las que se encuentren en la audiencia y que no tuviere impedimento legal.
+Cuando el nuevo defensor no esté en condiciones, de acuerdo con la naturaleza del negocio, para cumplir desde luego con su cometido, se diferirá o suspenderá la audiencia a juicio del tribunal.
+
+Si el faltista fuere defensor de oficio se comunicará la falta a su superior inmediato se ordenará su presentación o se le substituirá por otro, sin perjuicio de su consignación al Ministerio Público si procediere.
 
 ###### ARTICULO 89.
 
@@ -547,9 +579,11 @@ Antes de cerrarse el debate, el funcionario que presida la audiencia preguntará
 
 Si el inculpado altera el orden en una audiencia se le apercibirá de que si insiste en su actitud se tendrá por renunciado su derecho de estar presente; si no obstante esto, continúa, se le mandará retirar del local y proseguirá la diligencia con su defensor. Todo esto, sin perjuicio de aplicarle la corrección disciplinaria que el tribunal estime pertinente.
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+
 ###### ARTICULO 92.
 
-Si es el defensor quien altera el orden se le apercibirá, y si continúa en la misma actitud se le expulsará del local, pudiendo imponérsele, además, una corrección disciplinaria. Para que el inculpado no carezca de defensor, se procederá de acuerdo con lo dispuesto en la parte final del artículo 88.
+Si es el defensor quien altera el orden, se le apercibirá, y si continúa en la misma actitud se le expulsará del local, pudiendo imponérsele, además, una corrección disciplinaria. Para que el inculpado no carezca de defensor, se procerá (sic) de acuerdo con lo dispuesto en la parte primera del artículo 88.
 
 ###### ARTICULO 93.
 
@@ -1003,11 +1037,11 @@ Cuando el cadáver no se encuentre, o por otro motivo no se haga la autopsia, ba
 
 En los casos de aborto o de infanticidio el cuerpo del delito se tendrá por comprobado en los mismos términos que el de homicidio; pero en el primero, además, reconocerán los peritos a la madre, describirán las lesiones que presente y dictaminarán sobre la causa del aborto. En uno y otro caso expresarán la edad de la víctima, si nació viable y todo aquello que pueda servir para fijar la naturaleza del delito.
 
-> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
-
 ###### ARTICULO 174.
 
 En los casos de robo el cuerpo del delito podrá comprobarse por alguno de los medios siguientes, siempre que no haya sido posible hacerlo en los términos del artículo 168:
+
+> <small>(F. DE E., D.O.F. 1 DE NOVIEMBRE DE 1934)</small>
 
 l.- Cuando el inculpado confiese el robo que se le imputa, aun cuando se ignore quién sea el dueño de la cosa objeto del delito;
 
@@ -2113,17 +2147,25 @@ Contra el auto que admita la apelación no procede recurso alguno, sin perjuicio
 
 Si el apelante fuere el acusado, al admitirse el recurso se le prevendrá que nombre defensor que lo patrocine en la segunda instancia.
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+
 ###### ARTICULO 372.
 
-Admitida la apelación en ambos efectos, se remitirá original el proceso al tribunal de apelación respectivo. Si fueren varios los acusados y la apelación solamente se refiere a alguno o algunos de ellos, el tribunal que dictó la sentencia apelada ordenará se expidan los testimonios a que se refiere el artículo 531.
+Admitida la apelación en ambos efectos, se remitirá original el proceso al Tribunal de apelación respectivo. Si fueren varios los acusados y la apelación solamente se refiere a alguno o algunos de ellos, el tribunal que dictó la sentencia apelada ordenará se expidan los testimonios a que se refiere el artículo 531.
 
 Si se trata de sentencia absolutoria, podrá remitirse original el proceso, a no ser que hubieren uno o más inculpados que no hubiesen apelado.
 
-Cuando la apelación se admita en el efecto devolutivo, salvo el caso del párrafo anterior, se remitirá testimonio de lo que las partes designen y de lo que el tribunal estime conveniente.
+Cuando la apelación se admite en el efecto devolutivo, salvo el caso del párrafo anterior, se remitirá el duplicado autorizado de constancias o testimonio de lo que las partes designen y de lo que el tribunal estime conveniente.
+
+El duplicado o testimonio debe remitirse dentro de ocho días y si no se cumple con esta prevención, el tribunal de apelación a pedimento del apelante, impondrá al inferior una multa de cincuenta a mil pesos.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
 
 ###### ARTICULO 373.
 
-Recibido el proceso o el testimonio, en su caso, el tribunal lo pondrá a la vista de las partes por el término de tres días; y si dentro de ellos no promovieren prueba, se señalará día para la vista, que se efectuará dentro de los treinta siguientes a la conclusión del primer término. Para ella serán citados el Ministerio Público, el inculpado si estuviere en el lugar, y el defensor nombrado. Si no se hubiere nombrado a éste para la instancia, el tribunal lo nombrará de oficio.
+Recibido el proceso, el duplicado autorizado de constancias o el testimonio en su caso, el tribunal lo pondrá a la vista de las partes por el término de tres días; y si dentro de ellos no promovieren prueba, se señalará día para la vista, que se efectuará dentro de los treinta siguientes a la conclusión del primer término.
+
+Para ella serán citados el Ministerio Público, el inculpado si estuviere en el lugar y el defensor nombrado. Si no se hubiere nombrado a éste para la instancia, el tribunal lo nombrará de oficio.
 
 ###### ARTICULO 374.
 
@@ -3338,3 +3380,15 @@ Sufragio Efectivo. No Reelección.
 México, D. F., a 28 de agosto de 1934.- El Subsecretario de Gobernación, Encargado del Despacho, Juan G. Cabral.- Rúbrica.
 
 Al C...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+D.O.F. 9 DE ENERO DE 1954.
+
+###### ARTICULO PRIMERO.
+
+Este decreto surtirá sus efectos un mes después de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Las audiencias en los procesos del orden federal que se celebren dentro de la vigencia de esta ley, se sujetarán a lo que se dispone en los preceptos que se reforman.
