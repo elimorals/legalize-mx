@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1984-12-31"
+last_updated: "1985-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1985.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -78,9 +78,9 @@ D).- Cerveza .......... 21.5%
 
 E).- Vinos de mesa, sidras y rompopes, así como los vinos denominados aromatizados, quinados, generosos y vermuts .......... 15%
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-F).- El aguardiente y las bebidas alcohólicas no comprendidas en el inciso anterior, así como sus concentrados .......... 40%
+F).- El alcohol, aguardiente y bebidas alcohólicas no comprendidas en el inciso anterior, así como sus concentrados .......... 40%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -180,6 +180,10 @@ XIII.- Gas avión, el combustible para avión que no contenga dicloruro de etile
 
 XIV.- Seguros individuales en operaciones de vida, los que así defina la Ley General de Instituciones de Seguros.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+XV.- Alcohol, el que así define la Ley del Impuesto sobre Adquisición de Azúcar, Cacao y Otros Bienes.
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 4o.
@@ -218,7 +222,9 @@ Los contribuyentes efectuarán pagos provisionales a más tardar el día 20 de c
 
 Cuando en la declaración de pago provisional resulte saldo a favor, el contribuyente podrá acreditarlos contra el impuesto a su cargo que le corresponda en los pagos provisionales siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor. Los saldos que resulten a favor del contribuyente en la última declaración de pago provisional de su ejercicio no se podrán acreditar en declaraciones posteriores.
 
-El impuesto del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración que se presentará ante las oficinas autorizadas dentro de los tres meses siguientes al cierre del ejercicio. Los contribuyentes del impuesto sobre la renta presentarán con la declaración definitiva de ese gravámen, un ejemplar de la declaración anual del impuesto establecido en esta Ley.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+El impuesto del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración que se presentará ante las oficinas autorizadas dentro de los tres meses siguientes al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que de este impuesto se le solicite en las declaraciones del impuesto sobre la renta.
 
 Tratándose de importación de bienes el pago se hará conforme lo establece el artículo 15.
 
@@ -232,13 +238,11 @@ Los saldos cuya devolución se solicite no podrán acreditarse en declaraciones 
 
 A.- Los productores, envasadores o importadores que a través de comisionistas, mediadores, agentes, representantes, corredores, consignatarios o distribuidores, enajenen los bienes a que se refiere el artículo 2o. de esta Ley, estarán obligados a retener el impuesto sobre la contraprestación que a éstos corresponda y enterarlo mediante declaración en las oficinas autorizadas, a más tardar el día 20 del mes siguiente a aquél en que se efectuó la retención; cuando las contraprestaciones se incluyan en el valor de la enajenación por las que se pague este impuesto, no se efectuará la retención y no se considerarán contribuyentes de este impuesto por dichas actividades.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-Los contribuyentes que sean productores, envasadores o importadores de los bienes a que se refiere esta Ley, deberán retener el impuesto que corresponda a sus adquirentes sobre el margen de comercialización generalmente aceptado conforme a los precios del mercado del bien de que se trate al realizarse la enajenación y enterarlo mediante declaración en las oficinas autorizadas, a más tardar el día 20 del mes siguiente a aquél en que se efectuó la retención. En los casos en que no se conozca el margen de comercialización, el retenedor considerará que dicho margen es del 35%. Cuando los adquirentes no estén obligados al pago del impuesto en los términos del artículo 8o. de la Ley, no se hará la retención, debiendo presentar el enajenante una declaración informativa sobre estas operaciones, a más tardar el día 20 del mes siguiente a aquél en que se efectuaron.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-Los contribuyentes a los que les sea retenido el impuesto sobre las contraprestaciones que les correspondan en los términos del primer párrafo de este artículo, no tendrán obligación de presentar declaraciones de pago provisional, pudiendo acreditar en la declaración del ejercicio las cantidades retenidas. Los contribuyentes a los que se retenga el impuesto de conformidad con lo previsto en el segundo párrafo de este artículo, deberán presentar declaraciones de pago provisional en las que acreditarán las cantidades que les hubieran sido retenidas en el mes por el que se presenta la declaración.
+Los contribuyentes a los que les sea retenido el impuesto sobre las contraprestaciones que le correspondan en los términos del párrafo anterior, no tendrán obligación de presentar declaraciones de pago provisional, pudiendo acreditar en la declaración del ejercicio las cantidades retenidas.
 
 ###### ARTICULO 6o.
 
@@ -284,6 +288,10 @@ V.- Cigarros elaborados por fabricantes cuyo volumen total de producción sea in
 
 VI.- Gas avión, a excepción de las que realice Petróleos Mexicanos.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+VII.- Las de alcohol desnaturalizado, así como las de alcohol cuya adquisición esté gravada por el impuesto sobre adquisición de azúcar, cacao y otros bienes, o la primera enajenación en la que por su adquisición no se esté obligado al pago de ese impuesto.
+
 ###### ARTICULO 9o.
 
 Para los efectos de esta Ley, se entiende que la enajenación se efectúa en territorio nacional, si en él se encuentra el bien al efectuarse el envío al adquirente y cuando, no habiendo envío se realiza en el país la entrega material del bien por el enajenante.
@@ -328,7 +336,9 @@ II.- Las efectuadas por pasajeros en los términos de la legislación aduanera y
 
 III.- La de los bienes señalados en las fracciones I y II del artículo 8o. de esta Ley.
 
-IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+IV.- La de alcohol desnaturalizado y las de alcohol por cuya importación o primera adquisición en la que no se esté obligado al pago del impuesto sobre adquisición de azúcar, cacao y otros bienes.
 
 V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
@@ -735,5 +745,73 @@ Los contribuyentes a los que se les retenga el impuesto de conformidad con lo se
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1985, excepto lo establecido por los Artículos Décimo y Décimo Primero que comenzarán a regir a partir del día 1o. de enero de 1986; Décimo Segundo que entrará en vigor el 1o. de julio de 1985; Vigésimo, en lo relativo a las adiciones y reformas a la Sección Cuarta, Capítulo VIII, Título I de la Ley Federal de Derechos, que regirán a partir del día 1o. de febrero de 1985; y Vigésimo Tercero que entrará en vigor el 1o. de agosto de 1985.
+
+D.O.F. 31 DE DICIEMBRE DE 1985.
+
+DISPOSICIONES CON VIGENCIA DURANTE EL AÑO DE 1986
+
+ARTICULO DECIMOSEGUNDO.- Durante el año de 1986, se aplicarán en materia del Impuesto Especial sobre Producción y Servicios, las siguientes disposiciones:
+
+I.- Los productores o envasadores de agua mineral natural o con sabor, que de conformidad con el artículo 5o.-A de la Ley del Impuesto Especial sobre Producción y Servicios estén obligados a retener ese impuesto, continuarán aplicando las disposiciones que estuvieron vigentes para 1985.
+
+II.- Los productores o importadores de cigarros para calcular el impuesto por la enajenación de esos bienes, considerarán como valor el precio de venta al detallista de los mismos. Este impuesto no se pagará por las enajenaciones subsecuentes.
+
+III.- Para los efectos del Artículo Decimotercero, fracción IV, inciso b) de esta Ley, son cigarros populares sin filtros los que el 1o. de enero de 1986, tengan un precio máximo al público que no exceda de $ 70.00 por cajetilla de cigarros.
+
+IV.- No se pagará el impuesto especial sobre producción y servicios por las enajenaciones de alcohol que realice Azúcar, S.A. de C.V., a los productores que lo utilicen como insumo para la elaboración de bebidas alcohólicas, siempre que se encuentren registrados ante esa entidad.
+
+Asimismo, Azúcar, S.A. de C.V., presentará declaración informativa anual dentro de los tres meses siguientes al cierre de su ejercicio.
+
+DISPOSICIONES CON VIGENCIA DURANTE LOS AÑOS DE 1986 Y 1987
+
+ARTICULO DECIMOTERCERO.- Durante los años de 1986 y 1987, se aplicarán en materia del impuesto especial sobre producción y servicios, las siguientes disposiciones:
+
+A.- En la enajenación o importación de los bienes que a continuación se indican, se aplicarán las tasas siguientes:
+
+I.- Cerveza .......... 25%
+
+II.- Vinos de mesa, sidras y rompopes así como los vinos denominados aromatizados, quinados, generosos y vermut .......... 19%
+
+III.- El alcohol, aguardiente y bebidas alcohólicas no comprendidas en el inciso anterior, así como sus concentrados .......... 50%
+
+IV.- Tabacos Labrados:
+
+a).- Cigarros .......... 180%
+
+b).- Cigarros populares sin filtro elaborados con tabacos obscuros, con tamaño máximo de 77 mm. de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión, así como puros y otros tabacos labrados .......... 25%
+
+V.- Gasolina que contenga tetraetilo de plomo y su octanaje no exceda de 82 octanos o la de mayor octanaje que no contenga tetraetilo de plomo, así como el diesel .......... 122%
+
+B.- Durante los años de 1986 y 1987, los productores o importadores de los bienes señalados en el apartado anterior les serán aplicables las demás disposiciones que prevé la Ley del Impuesto Especial sobre Producción y Servicios.
+
+C.- La tasa contenida en la fracción V del apartado A de este artículo, entrará en vigor a partir del día 1o. de febrero de 1986.
+
+DISPOSICIONES CON VIGENCIA DURANTE LOS AÑOS DE 1986 A 1990
+
+###### ARTICULO DECIMO CUARTO.
+
+Durante los años de 1986 a 1990 en materia del impuesto especial sobre producción y servicios en la prestación de los servicios telefónicos que a continuación se indican, se aplicarán las siguientes tasas:
+
+I.- Servicios locales:
+
+a).- Abonados residenciales y de telefonía rural .......... 60%
+
+b).- En casos distintos a los residenciales y de telefonía rural .......... 72%
+
+II.- Servicios de larga distancia nacional que son aquellos que comercialmente se cobran como tales:
+
+a).- Abonados residenciales y de telefonía rural .......... 32%
+
+b).- En casos distintos a los residenciales y de telefonía rural .......... 42%
+
+Durante los años de aplicación de esta disposición, el Gobierno Federal realizará aportaciones de capital en la empresa de participación estatal mayoritaria Teléfonos de México, S.A. en una cantidad equivalente al 20% de la recaudación estimada en estos conceptos por la Ley de Ingresos de la Federación.
+
+III.- Durante los años de 1986 a 1990, quienes proporcionen los servicios telefónicos a que se refieren las dos fracciones anteriores les serán aplicables las demás disposiciones que prevé la Ley del Impuesto Especial sobre Producción y Servicios.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1986.
 
 ## TRANSITORIO
