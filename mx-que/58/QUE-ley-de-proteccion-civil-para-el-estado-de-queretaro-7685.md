@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-proteccion-civil-para-el-estado-de-queretaro-7685"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-03"
-last_updated: "1992-12-03"
+last_updated: "2003-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,93 @@ state: "QUE"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE QUERETARO
 
-LEY DE PROTECCION CIVIL PARA EL ESTADO DE QUERETARO
+REGLAMENTO INTERNO DEL ORGANISMO PÚBLICO DESCENTRALIZADO CONSEJO PARA LA CULTURA DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2002.
 
-Ley publicada en el Periódico Oficial del Estado de Querétaro, el 3 de diciembre de 1992.
+Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 27 de octubre de 1995.
 
-LA QUINCUAGESIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 41 DE LA CONSTITUCION POLITICA LOCAL... tenido a bien expedir la siguiente:
+EL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, LXVII LEGISLATURA, EN USO DE LAS FACULTADES QUE LE CONCEDE EL ARTÍCULO 63, DE LA CONSTITUCION POLITICA LOCAL, EXPIDE EL SIGUIENTE:
 
-LEY DE PROTECCION CIVIL PARA EL ESTADO DE QUERETARO
+REGLAMENTO INTERNO DEL CONSEJO PARA LA CULTURA DE NUEVO LEÓN
+
+El 7 de junio de 1995 se publicó en el Periódico Oficial del Estado la Ley que crea el Organismo Público Descentralizado denominado Consejo para la Cultura de Nuevo León, cuyo objeto es propiciar y estimular las expresiones artísticas, la cultura popular y las diversas manifestaciones que propendan a la preservación y enriquecimiento de la cultura de Nuevo León; proteger, conservar y difundir el patrimonio cultural del Estado y Promover los valores culturales de la sociedad nuevoleonesa.
+
+En los términos previstos por los artículos 18, cuarto Transitorio y demás relativos de la Ley que crea el organismo público descentralizado Consejo para la Cultura de Nuevo León, el Consejo de este organismo, en sesión ordinaria de fecha diecinueve de octubre de mil novecientos noventa y cinco, aprobó y ordenó la expedición del siguiente:
+
+REGLAMENTO INTERNO DEL ORGANISMO PUBLICO DESCENTRALIZADO CONSEJO PARA LA CULTURA DE NUEVO LEÓN
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
+
+###### ARTICULO 1o.
+
+El presente Reglamento Interno establece la estructura de los órganos y dependencias que integran el Consejo para la Cultura y las Artes de Nuevo León (CONARTE), señala las facultades de éstos y regula su funcionamiento, en lo no previsto por la Ley que crea a este organismo.
+
+###### ARTICULO 2o.
+
+El Consejo del organismo, en su carácter de órgano supremo del mismo, ejercerá sus atribuciones previstas en la Ley a través de los órganos y dependencias que lo integran, las cuales ejecutarán sus decisiones en los términos dispuestos en el presente Reglamento.
+
+###### ARTICULO 3o.
+
+Las resoluciones adoptadas por el Consejo en pleno obligan a sus miembros a ejecutarlas.
+
+###### ARTICULO 4o.
+
+El Consejo podrá tomar las medidas conducentes, dentro del marco jurídico aplicable, para garantizar la confidencialidad respecto de los asuntos, proyectos, informes y documentos que considere conveniente para el adecuado cumplimiento de los fines del organismo.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2001)</small>
+
+###### ARTICULO 5o.
+
+En los casos en que conforme al Artículo 6°, último párrafo, de la ley que crea el organismo, se requiera invitar para la celebración de sesiones a los miembros del Consejo, éstos serán citados por conducto del Secretario Técnico, señalando la fecha, hora y lugar de su celebración.
+
+###### ARTICULO 6o.
+
+En cada sesión el Presidente instruirá al Secretario Técnico para qué levante lista de asistencia. Una vez concluida la sesión se levantará acta de la misma. La lista de asistencia y el acta de la sesión serán firmadas por los asistentes y se agregarán al expediente respectivo.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2001)</small>
+
+###### ARTICULO 7o.
+
+Las ausencias del Presidente del Consejo a las sesiones en segunda convocatoria, serán cubiertas por el Secretario Técnico, y las del Secretario Técnico por el vocal que designe el Consejo al inicio de cada sesión.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2001)</small>
+
+###### ARTICULO 8o.
+
+De conformidad con el Artículo 5°, penúltimo párrafo, de la ley que crea el organismo, se consideran faltas graves que ameriten la substitución de uno o varios miembros del Consejo las siguientes:
+
+I. Ser condenado por delito doloso que merezca pena corporal.
+
+II. Violar sistemáticamente lo dispuesto en la ley que crea el organismo o el presente Reglamento, previa amonestación del Consejo.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
+
+###### ARTICULO 9o.
+
+Para la remoción de un vocal del Consejo se deberá seguir el siguiente procedimiento:
+
+I. La propuesta de remoción sólo podrá ser presentada ante el Consejo por cualesquiera de los integrantes del mismo, por escrito, con los elementos que considere adecuados para fundar su propuesta.
+
+II. El Consejo analizará la propuesta de remoción en la sesión ordinaria o extraordinaria siguiente a la recepción de la misma, y en esa sesión acordará el inicio del procedimiento de remoción o su desechamiento.
+
+III. El vocal de quien se trate la propuesta de remoción, será citado por el Presidente o por el Secretario Técnico a comparecer ante el Consejo, en sesión ordinaria o extraordinaria, con por lo menos quince días hábiles de anticipación, para que exponga los argumentos y aporte los elementos que considere a su favor.
+
+Para tales efectos, conjuntamente con la cita se le proporcionará copia de la propuesta de remoción y se pondrán a su disposición los elementos que hayan sido presentados para fundar la propuesta de remoción.
+
+Si el vocal cuya remoción se proponga no acude o no expone argumentos a su favor, se le considerará en desacuerdo con la propuesta de remoción.
+
+IV. Una vez expuestos los argumentos y aportados los elementos de prueba por el vocal cuya remoción se proponga o, en su defecto, una vez que se le tenga en desacuerdo conforme al último párrafo de la fracción III de este artículo, en esa sesión o a más tardar en la siguiente, con base en los elementos que consten en el expediente, el Consejo, según sea el caso:
+
+a) Resolverá sobre la procedencia de la remoción del vocal, si éste fue designado por la comunidad artística; o
+
+b) Emitirá su opinión y la comunicará al Gobernador del Estado, por conducto del Presidente del Consejo, a fin de que el titular del Ejecutivo resuelva lo conducente, si se trata de alguno de los demás vocales.
+
+Si el Presidente o el Secretario Técnico incurren en faltas graves, se seguirá el mismo procedimiento previsto para los vocales a que se refiere el inciso b) de la fracción IV de este artículo. Las funciones que le correspondan en relación con el procedimiento, serán ejercidas en el caso del Presidente por el Secretario Técnico y en el caso del Secretario Técnico únicamente por el Presidente.
+
+La decisión de aceptar su renuncia o remover a un vocal designado por la comunidad artística, solamente podrá ser tomada con, por lo menos, la mayoría de votos de los miembros integrantes del Consejo, en cuya votación no participará el integrante de quien se trate la renuncia o remoción.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -105,289 +183,263 @@ El Ejecutivo del Estado a través de la Secretaría de Gobierno, del Consejo Est
 
 ###### ARTICULO 10.
 
-El Ejecutivo del Estado dictará los Decretos, Acuerdos y demás disposiciones que estime pertinentes para:
+El Consejo promoverá la celebración de elecciones para cubrir la vacante de alguno de sus integrantes designados por la comunidad artística, dentro de los tres meses siguientes a la fecha en que se haya notificado su fallecimiento o incapacidad permanente, aceptado su renuncia o decidido su remoción, por cualesquiera de las causas previstas en el Artículo 5°, penúltimo párrafo, de la ley que crea el organismo.
 
-I. Crear órganos relacionados con las finalidades que persigue esta Ley, los cuales tendrán la estructura y funciones que sean acordes con sus objetivos;
+En caso de presentarse la renuncia, el fallecimiento o la incapacidad permanente del Secretario Técnico, de los vocales nombrados por el Gobernador del Estado o de los vocales a que se refiere el artículo 5°, fracción III, incisos e) y f), de la ley que crea el organismo, el Presidente informará de ello al Consejo y al Ejecutivo, a fin de que éste resuelva lo conducente.
 
-II. Poner en vigor las medidas, procesos y técnicas adecuadas para la prevención de desastres provocados por los fenómenos naturales, tecnológicos y humanos;
+Si el Presidente fallece o padece incapacidad permanente, el Secretario Técnico ejercerá las atribuciones que el párrafo anterior otorga al Presidente.
 
-III. Realizar, contratar y ordenar los estudios, obras o trabajos, así como para implantar las medidas mediatas o inmediatas que estime necesarias para prevenir desastres provocados por fenómenos naturales, tecnológicos o humanos, y
+La renuncia del Presidente será presentada directamente al Gobernador del Estado.
 
-IV. Emitir declaratorias de contingencia, emergencia, o desastre.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2001)</small>
 
 ### CAPITULO II. DEL CONSEJO ESTATAL DE PROTECCION CIVIL
 
 ###### ARTICULO 11.
 
-El Consejo Estatal de Protección Civil es un órgano participativo y de consulta en materia de prevención, auxilio y apoyo a la población, ante la eventualidad de alguna catástrofe, desastre o calamidad pública.
+La elección democrática de los vocales a que se refiere el artículo 5° de la Ley que crea el organismo, se efectuará conforme al procedimiento y requisitos acordados por el Consejo para cada elección, conforme a las siguientes bases:
+
+I. Para tener derecho a voto, los artistas de cada disciplina se inscribirán en el registro que para tal efecto llevará el Consejo con el apoyo de los vocales representantes de cada disciplina, acreditando ser mayores de edad, su residencia en el Estado de Nuevo León y su carácter de artista en su especialidad, presentando la información relativa a su participación artística en las disciplinas correspondientes.
+
+II. El Consejo señalará los plazos para efectuar el registro a que se refiere la fracción anterior y para la inscripción de los candidatos a vocales.
+
+III. Toda persona podrá participar como candidato, sin más restricciones que las establecidas en las leyes.
+
+IV. El Consejo publicará un aviso en por lo menos uno de los diarios de mayor circulación en la Entidad, en el que se invite a la comunidad artística a participar en las elecciones, informando sobre los procedimientos, fechas, plazos, lugares, horarios y requisitos acordados para participar, ya sea como electores o como candidatos. Este aviso deberá publicarse con al menos un mes de anticipación a la fecha de inicio de las elecciones.
+
+V. Una vez concluida la elección, el Consejo reconocerá como candidatos electos a quienes hayan obtenido la mayoría requerida por el Consejo para cada vacante. Si una misma persona resulta electa para dos o más disciplinas o vacantes, deberá decidir respecto de una de ellas y el resto se declararán desiertas, para convocar a nuevas elecciones.
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2002)</small>
+
+VI. El Consejo señalará los lugares, fechas y horarios acordados para la votación y adicionalmente podrá autorizar la utilización del envío anticipado, de los medios electrónicos y de cualesquier otros medios que faciliten el sufragio.
+
+VII. Para lograr una mejor representatividad, el Consejo podrá acordar la aplicación de sistemas de eliminación de candidatos mediante votaciones sucesivas.
 
 ###### ARTICULO 12.
 
-El Consejo Estatal de Protección Civil tendrá por objeto elaborar y promover acciones de planeación y coordinación de las tareas y acciones de los sectores público, social y privado en materia de protección civil.
+El procedimiento de designación de los nuevos consejeros será utilizado cuantas veces sea necesario, a efecto de que el Consejo se encuentre debidamente integrado.
 
 ###### ARTICULO 13.
 
-EL Consejo Estatal de Protección Civil se integrará por:
+Además de las facultades conferidas por la Ley que crea el organismo, el presidente tendrá las siguientes:
 
-I. Un Presidente, que será el Gobernador del Estado;
+I. Presentar oportunamente al Consejo los presupuestos de ingresos y egresos del organismo.
 
-II. Un Secretario Ejecutivo, que será el Secretario de Gobierno;
+II. Presentar oportunamente al Consejo los estados financieros del organismo respecto del año anterior.
 
-III. Un Secretario Técnico, que será designado por el Gobernador del Estado;
+III. Someter aquellos asuntos de su competencia a la consideración del Pleno del Consejo, cuando por su importancia y trascendencia, a juicio del Presidente así lo amerite.
 
-IV. Los Representantes de los Poderes Legislativo y Judicial del Estado;
+IV. Tomar decisiones cuya competencia corresponda al Consejo, en caso de que por razones de extrema urgencia así se requiera, siempre que no sea posible reunir al Consejo en forma oportuna y que, de no tomarse una decisión, se causen daños o perjuicios de difícil reparación o se afecten gravemente el funcionamiento, las actividades o los proyectos del organismo. En estos casos el Presidente deberá convocar inmediatamente al Consejo para informar del uso que le hubiere dado a la facultad concedida en esta fracción.
 
-V. Los Titulares de las Dependencias y Entidades de la Administración Pública Estatal, que por el ramo que atienden les corresponda participar en los programas de prevención, auxilio y apoyo ante alguna posible calamidad.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2002)</small>
 
-VI. Las Delegaciones Estatales de las Dependencias y Entidades de la Administración Pública Federal, que atiendan ramos de actividad relacionados con la ejecución de los programas de prevención, auxilio y apoyo;
+V. Ser el vocero oficial del organismo ante los medios de comunicación. El Presidente podrá delegar esta facultad en aquellos consejeros y funcionarios que estime conveniente.
 
-VII. Las organizaciones de los sectores social y privado de la Entidad;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE OCTUBRE DE 2002)</small>
 
-VIII. Representantes de las instituciones de educación superior en el Estado;
+VI. Designar y remover a los directores administrativo (sic), de programas y de espacios.
 
-IX. En su caso, los representantes de los Sistemas Municipales de Protección Civil en los que se prevea u ocurra algún desastre, y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE OCTUBRE DE 2002)</small>
 
-X. A invitación del Presidente del Consejo, podrán formar parte del mismo los Delegados Estatales de las Dependencias y Entidades de la Administración Pública Federal, que atiendan ramos relacionados con agentes destructivos que puedan ocasionar desastres a la población civil.
+VII. Presentar al Consejo la propuesta de estructura orgánica de CONARTE.
 
 ###### ARTICULO 14.
 
-Son atribuciones del Consejo Estatal de Protección Civil, las siguientes:
+Además de las facultades conferidas por la Ley que crea el organismo, los vocales tendrán las siguientes:
 
-I. Apoyar al Sistema Nacional de Protección Civil, para garantizar, mediante una adecuada planeación, la seguridad, auxilio y rehabilitación de la población civil y su entorno, ante alguna posible calamidad;
+I. Proponer al Consejo los proyectos de sus áreas representadas.
 
-II. Coordinar las acciones de las Dependencias del Sector Público Estatal y Municipal, así como las de los organismos privados, para el auxilio a la población en el ámbito geográfico del Estado en que se prevea u ocurra algún desastre;
+II. Representar al Consejo en los asuntos que éste determine.
 
-III. Supervisar la elaboración y edición de Atlas Estatal de Riesgos;
+III. Servir de enlace entre los grupos representados y el Consejo.
 
-IV. A través de la Unidad Estatal, elaborar y divulgar los programas y medidas para la prevención de desastres;
+IV. Participar en las comisiones del Consejo en las que hayan sido designados conforme a este Reglamento.
 
-V. Vincular al Sistema Estatal de Protección Civil con el Sistema Nacional;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2001)</small>
 
-VI. Fomentar la participación de los diversos grupos sociales locales, en la difusión y ejecución de las acciones que se convenga realizar en la materia;
+Las funciones de los vocales serán las de miembros de un órgano colegiado y sus cargos serán honoríficos, por lo que no percibirán remuneración alguna por el desempeño de sus funciones.
 
-VII. Elaborar, evaluar, reformar y aplicar, en lo que corresponda, el Programa Estatal de Protección Civil, procurando además su más amplia difusión en la Entidad;
-
-VIII. Vigilar la adecuada racionalización del uso y destino de los recursos que se asignen a la prevención, auxilio y apoyo de la población civil en la eventualidad de un desastre;
-
-IX. Promover las reformas e iniciativas de Ley, para establecer un marco jurídico adecuado a las acciones de prevención, auxilio y apoyo en casos de desastres;
-
-X. Crear un fondo para la atención de desastres;
-
-XI. Formular la declaración de desastre;
-
-XII. Propiciar la implantación de planes eficaces de respuesta, ante la eventualidad de un desastre provocado por fenómenos naturales, tecnológicos o humanos;
-
-XIII. Constituir Comisiones para el cumplimiento de sus facultades;
-
-XIV. Vigilar que las autoridades y personal de la Administración Pública Estatal y Organismos dependientes del Gobierno, presten la información y colaboración oportuna y adecuada a la Unidad Estatal de Protección Civil para el cumplimiento de sus objetivos;
-
-XV. Vigilar que los organismos privados y sociales cumplan con los compromisos concertados para su participación en el Sistema Estatal de Protección Civil;
-
-XVI. Fomentar la participación de los Municipios en el Sistema Estatal de Protección Civil;
-
-XVII. Promover en los Municipios la integración de Sistemas Municipales de Protección Civil;
-
-XVIII. Asegurar el mantenimiento o pronto restablecimiento de los servicios públicos fundamentales en los lugares donde ocurra el desastre;
-
-XIX. Ordenar la integración y coordinación de los equipos de respuesta frente a riesgos y catástrofes;
-
-XX. Evaluar la situación de desastre, la capacidad de respuesta de la Entidad y, en su caso, solicitar el apoyo del Sistema Nacional de Protección Civil para la atención del evento;
-
-XXI. Delegar atribuciones en las Comisiones que se constituyan para la realización de sus objetivos;
-
-XXII. Determinar las medidas de seguridad necesarias e imponer las sanciones correspondientes por infracciones a la presente Ley o su Reglamento;
-
-XXIII. Emitir su Reglamento Interior, y
-
-XXIV. Las demás que le confiera esta Ley, sus Reglamentos y disposiciones aplicables.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 15.
 
-EL Consejo Estatal de Protección Civil está facultado para constituir las comisiones que estime necesarias para la realización de sus objetivos; así como para delegar en éstas, las facultades que considere convenientes, sin perjuicio de su ejercicio directo. La estructura y funcionamiento de las mismas estará regulada por lo que al efecto determine el Reglamento respectivo.
+Los miembros del Consejo, durante su gestión, no podrán participar con derecho a premio, en certamen o concurso alguno convocado por el Consejo para la Cultura y las Artes de Nuevo León.
 
 ###### ARTICULO 16.
 
-Corresponde al Presidente del Consejo:
+Cualquier situación no prevista en la Ley, en este Reglamento o en cualquier otro ordenamiento jurídico, será resuelta conforme a los lineamientos aprobados por el Consejo.
 
-I. Vigilar el cumplimiento de los Acuerdos del Consejo;
-
-II. Convocar a sesiones ordinarias, extraordinarias y permanentes;
-
-III. Autorizar el orden del día a que se sujetará la sesión;
-
-IV. Formular la Declaratoria de Desastre, y
-
-V. Las demás que se deriven de esta Ley, sus Reglamentos y demás disposiciones aplicables;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 17.
 
-Corresponde al Secretario Ejecutivo;
-
-I. Presidir las sesiones del Consejo en ausencia de su Presidente;
-
-II. Dar cumplimiento a los Acuerdos del Consejo;
-
-III. Presentar a consideración del Consejo, la Iniciativa del Programa Estatal de Protección Civil y sus correspondientes subprogramas, reformas o adiciones;
-
-IV. Hacer pública la Declaratoria de Desastre formulada por el Ejecutivo Estatal, en cuyo caso deberá convocar de inmediato al Consejo instalando sin demora el Centro Estatal de Operaciones y vigilando el desarrollo de los trabajos correspondientes. Asimismo, hacer lo propio, cuando se trate de declaratorias del Ejecutivo Federal;
-
-V. Rendir un informe anual sobre los trabajos del Consejo;
-
-VI. Someter a consideración del Consejo, el Reglamento Interior y las adecuaciones que resulten necesarias;
-
-VII. Certificar las Actas del consejo y dar fe de su contenido, y
-
-VIII. Las demás funciones que deriven de ésta y otros ordenamientos aplicables;
+El Consejo podrá crear las comisiones que considere convenientes, con carácter temporal o permanente, y les otorgará las facultades necesarias para el eficaz desempeño de sus funciones.
 
 ###### ARTICULO 18.
 
-Corresponde al Secretario Técnico:
+Las comisiones estudiarán, evaluarán, analizarán y dictaminarán los asuntos a su cargo. Las decisiones deberán someterse a la consideración del Consejo en Pleno.
 
-I.- Asistir con voz a las sesiones del Consejo y redactar las actas respectivas;
-
-II. Elaborar y someter a consideración del Secretario Ejecutivo el calendario de sesiones del Consejo;
-
-III. Verificar la existencia del quórum legal necesario para sesionar; dar fe de lo actuado en las sesiones y levantar las actas correspondientes;
-
-IV. Dar cuenta de los requerimientos de la Unidad Estatal de Protección Civil y de la correspondencia;
-
-V. Llevar el archivo y control de los diversos programas de Protección Civil;
-
-VI. Elaborar y mantener actualizado el directorio de integrantes del Consejo y de la Unidad Estatal de Protección Civil;
-
-VII. Llevar el registro de los recursos disponibles para casos de desastre y firmar, junto con el presidente del Consejo, todos los acuerdos y resoluciones del mismo;
-
-VIII. Registrar los Acuerdos del Consejo y sistematizarlos para su seguimiento;
-
-IX. Llevar el seguimiento de los Acuerdos tomados por el Consejo;
-
-X. Ordenar y clasificar los programas, estudios e investigaciones que se presenten en el Consejo;
-
-XI. Formular la convocatoria a las sesiones, incluyendo el orden del día, y
-
-XII. Las demás funciones que se deriven de esta Ley, sus Reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 19.
 
-Los integrantes miembros del Consejo Estatal de Protección Civil ejercerán sus funciones en forma honorífica.
+Las comisiones solamente intervendrán en aquellos asuntos encomendados expresamente por el Pleno del Consejo y los documentos que de ellas emanen únicamente tendrán el carácter de actas o dictámenes, los cuales sólo podrán darse a conocer a personas ajenas a los integrantes del Consejo previo acuerdo expreso del mismo en ese sentido.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2001)</small>
 
 ### CAPITULO III. DE LA UNIDAD ESTATAL DE PROTECCION CIVIL
 
 ###### ARTICULO 20.
 
-La Unidad Estatal de Protección Civil tendrá a su cargo la organización y operación del Sistema Estatal de Protección Civil, y depende del Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno; sus acciones se apoyarán en el Consejo Estatal de Protección Civil y serán coordinadas por el Secretario Técnico.
+Cada comisión contará con los miembros designados y removidos libremente por el Consejo de entre sus integrantes y estarán formadas por un Presidente y los vocales respectivos.
+
+Las comisiones sesionarán a convocatoria de su Presidente o de la mayoría de sus integrantes, con la asistencia de por lo menos la mayoría de sus miembros, y emitirán sus dictámenes por mayoría de votos de los presentes. A petición expresas del sustentante, en los dictámenes de las comisiones se podrá hacer constar el voto razonado de quienes se hayan opuesto al sentido del dictamen.
+
+Las convocatorias para sesión deberán hacerse por lo menos un día natural antes de su celebración. Este requisito no será necesario cuando se encuentren reunidos la totalidad de los integrantes de cada comisión.
 
 ###### ARTICULO 21.
 
-La Unidad quedará integrada por:
+El Presidente de cada comisión tendrá las siguientes facultades:
 
-I. Un Titular designado por el Gobernador Constitucional del Estado, quién será el responsable directo de la misma;
+I. Presidir las sesiones de las comisiones.
 
-II. Un encargado de Coordinación y Atención de Emergencias;
+II. Presentar los informes y dictámenes de las comisiones al Pleno del Consejo.
 
-III. Un encargado de Apoyo Logístico;
-
-IV. Un encargado de Planeación y Capacitación, y
-
-V. El personal de prevención y protección civil, de inspección y vigilancia, que autorice el presupuesto respectivo.
+III. En general, realizar todos aquellos actos que sean necesarios para el funcionamiento de las comisiones.
 
 ###### ARTICULO 22.
 
-Corresponde a la Unidad Estatal de Protección Civil la responsabilidad de cumplir con las siguientes funciones:
+Los vocales tendrán las siguientes facultades:
 
-I.- Contribuir al establecimiento de un nuevo orden estatal en materia de protección civil;
+I. Participar en las sesiones de las comisiones, emitiendo sus opiniones y votando los dictámenes respectivos.
 
-II.- Promover la protección civil en sus aspectos normativo, operativo, de coordinación y de participación, buscando la extensión de sus efectos a toda la población del Estado;
+II. Suplir al Presidente en sus ausencias.
 
-III.- Promover la educación y la capacitación de la sociedad en materia de protección civil;
-
-IV.- Establecer los planes y programas básicos de prevención, auxilio y apoyo frente a la eventualidad de desastres, provocados por los diferentes tipos de agentes;
-
-V.- Realizar acciones de auxilio y rehabilitación inicial, para atender las consecuencias de los efectos destructivos en caso de que se produzca algún desastre;
-
-VI.- Coordinarse con las autoridades federales y municipales, así como las organizaciones, grupos e individuos de la corporación de voluntarios y, en general, de los sectores social y privado, para prevenir y controlar situaciones de emergencia;
-
-VII.- Elaborar el inventario de recursos humanos y materiales disponibles y susceptibles de movilización en su caso de emergencia;
-
-VIII.- Estudiar y aprobar planes y proyectos para la protección de personas, instalaciones y bienes de interés general, y para garantizar el normal funcionamiento de los servicios esenciales para la comunidad;
-
-IX.- Requerir a los directores, administradores, propietarios o poseedores de establecimientos, negociaciones, industrias; así como a los organizadores o responsables de eventos, que proporcionen la información y documentación necesaria para evaluar el grado de riesgo ante la eventualidad de algún siniestro o desastre;
-
-X.- Practicar visitas periódicas de inspección a los locales o establecimientos por medio, de personal debidamente autorizado y acreditado;
-
-XI.- Establecer las medidas de seguridad necesarias e imponer las sanciones correspondientes por infracciones a esta Ley o su Reglamento, y
-
-XII.- Las demás que le atribuyan otras leyes y Reglamentos, las que le asigne el Presidente o el Secretario Ejecutivo del Consejo y las que sean necesarias para hacer efectivas las facultades anteriores.
+III. Convocar por acuerdo de la mayoría de sus integrantes a la celebración de sesiones de la comisión respectiva.
 
 ###### ARTICULO 23.
 
-Para la formulación y conducción de la política estatal de protección civil y la expedición de las acciones e instrucciones previstos en esta Ley, se observarán los siguientes principios.
-
-I. De la adecuada y eficaz elaboración del Sistema Estatal de Protección Civil dependen la vida, la protección de personas, instalaciones productivas, bienes de interés general y el normal funcionamiento de los servicios esenciales para el Estado;
-
-II. Las autoridades y los particulares deben asumir la responsabilidad que les corresponde en la tarea de la protección civil;
-
-III. La prevención es el medio más eficaz para establecer planes y programas de protección, auxilio y apoyo frente a la eventualidad de desastres provocados por los diferentes tipos de agentes;
-
-IV. La coordinación entre los distintos niveles de Gobierno y la eficaz concertación con la sociedad, son indispensables para el adecuado funcionamiento de los sistemas y políticas de protección civil en el Estado;
-
-V. El sujeto principal de la concertación son los grupos y organizaciones sociales, sin menoscabo del individuo. Por tanto, el propósito de la concertación social en materia de protección civil, es coordinar las acciones de la sociedad ante situaciones de emergencia;
-
-VI. En el ejercicio de las atribuciones que las leyes confieren al Estado y a los Municipios para regular, promover, restringir, prohibir, orientar y, en general, inducir las acciones de los particulares en materia de protección civil, se considerarán como criterios de la política estatal en la materia, los contenidos en esta Ley;
-
-VII. Toda persona tiene derecho a disfrutar del orden, tranquilidad y seguridad sociales, derivada de una adecuada prevención y control de las situaciones de emergencia. Las autoridades en los términos de esta Ley y sus Reglamentos, tomarán las medidas para preservar ese derecho;
-
-VIII. El control y la prevención por medio de la elaboración de un adecuado inventario de recursos humanos, materiales e institucionales, disponibles y susceptibles de movilización en caso de emergencia, son elementos fundamentales para elevar y mejorar la calidad de vida de la población, y
-
-IX. Es interés del Estado que las acciones que se lleven a cabo en materia de protección civil cuenten con los planes y programas básicos de prevención, auxilio y apoyo para proteger a la población frente a la eventualidad de desastres provocados por los diferentes tipos de agentes.
+El Secretario Técnico, directamente o a través del personal que para estos efectos se asigne, apoyarán a las comisiones en la elaboración de las actas y dictámenes derivados de las sesiones que celebren.
 
 ###### ARTICULO 24.
 
-El Titular de la Unidad y los encargados de las distintas áreas, serán nombrados y removidos libremente por el Gobernador del Estado.
+Las ausencias de los Presidentes de las comisiones, serán cubiertas por los vocales que designe la comisión al inicio de cada sesión.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 25.
 
-Corresponde al Titular de la Unidad Estatal de Protección Civil:
+El Consejo para la Cultura y las Artes de Nuevo León está organizado en las áreas siguientes:
 
-I. organizar y operar el Sistema Estatal de Protección Civil;
+a). Área normativa.
 
-II. Determinar en coordinación con los Municipios, las especificaciones para la coordinación intermunicipal del Sistema Estatal de Protección Civil;
+b). Área operativa.
 
-III. Participar con voz y voto en las reuniones del Consejo Estatal e informar de las acciones ejecutadas por la Unidad a su cargo, y
-
-IV. Las demás que le encomiende esta Ley, los Reglamentos respectivos y las que le sean asignadas por el Consejo Estatal de Protección Civil.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 26.
 
-Los encargados serán responsables, en sus respectivas áreas de los Programas de Protección Civil, su operatividad y coordinación.
+El área normativa está integrada por el Pleno del Consejo, por el Presidente y por el Secretario Técnico.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 27.
 
-La Unidad Estatal de Protección Civil contará con instalaciones, materiales, equipo y recursos humanos y financieros necesarios para su eficaz funcionamiento, conforme al presupuesto respectivo.
+El área operativa está a cargo del Presidente, de quien dependerán el Secretario Técnico, el Director Administrativo, los directores de proyectos y de espacios, los jefes de departamento y en general, el resto del personal del Organismo, conforme a la estructura aprobada por el Consejo.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
 
 ### CAPITULO IV. DE LOS SISTEMAS MUNICIPALES DE PROTECCION CIVIL
 
 ###### ARTICULO 28.
 
-En cada uno de los Municipios del Estado se establecerán Sistemas de Protección Civil, con la finalidad de organizar los planes y programas de prevención, auxilio y apoyo a la población ante situaciones de emergencia.
+En el área operativa, además de las facultades que la ley y demás disposiciones le confieren, el Secretario Técnico tendrá las siguientes:
+
+I. Cumplir con los principios y misión del Consejo, con las normas contenidas en la ley que crea el organismo, en este Reglamento y demás ordenamientos aplicables, con las políticas y acuerdos emanados del Consejo y con las instrucciones dadas por el Presidente.
+
+II. Ejecutar y vigilar el cumplimiento de las políticas culturales, normas y decisiones, de acuerdo a las disposiciones del Consejo y conforme a las instrucciones que para tal efecto le gire el Presidente.
+
+III. Formular y presentar al Presidente los proyectos de presupuestos de ingresos y egresos, y el plan anual de actividades y proyectos.
+
+VI (SIC). Las demás que le confiera el Consejo.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 29.
 
-Corresponde a los Municipios de la Entidad, dentro de sus respectivas jurisdicciones:
+El Director Administrativo tendrá las siguientes facultades:
 
-I. Formular y conducir la política de protección civil municipal, de manera congruente con las políticas de la Federación y del Gobierno del Estado en esta materia;
+I. Cumplir con los principios y misión del Consejo, con las normas contenidas en la ley que crea el organismo, en este Reglamento y demás ordenamientos aplicables, con las políticas y acuerdos emanados del Consejo y con las instrucciones dadas por el Presidente o por el Secretario Técnico.
 
-II. Prevenir y controlar en el ámbito municipal, las emergencias y contingencias que pudieran ser provocadas por diferentes tipos de agentes;
+II. Contratar, evaluar, promover, transferir y remover al personal de CONARTE cuya designación no corresponda al Presidente, y asignarle sus funciones y responsabilidades, conforme a los lineamientos aprobados por el Consejo y a las instrucciones que le den el Presidente o el Secretario Técnico.
 
-III. Organizar un primer nivel de respuesta ante las situaciones de emergencia que se presenten en el Municipio;
+III. Recaudar los ingresos del organismo, ejecutar y vigilar su presupuesto de egresos aprobado por el Consejo, llevar la contabilidad y elaborar y presentar al Presidente los informes financieros respectivos.
 
-IV. Concertar acciones con los sectores social y privado en materia de protección civil, conforme a esta Ley y sus Reglamentos, y
+IV. Administrar el patrimonio del organismo, conforme a los lineamientos que emita el Consejo y atendiendo las instrucciones que le den el Presidente o el Secretario Técnico.
 
-V. Establecer en el ámbito de su competencia, las medidas necesarias para imponer las sanciones a que se refiere el Capítulo XI de esta Ley.
+V. Las demás que le confiera el Consejo.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 30.
 
-Con base en las disposiciones contenidas en esta Ley y sus Reglamentos, los Municipios emitirán las ordenanzas, reglamentos y bandos municipales para proveer a su debida observancia y cumplimiento.
+Son atribuciones y obligaciones de los directores de programas y espacios las siguientes:
+
+I. Cumplir con los principios y misión del Consejo, con las normas contenidas en la ley que crea el organismo, en este Reglamento y demás ordenamientos aplicables, con las políticas y acuerdos emanados del Consejo y con las instrucciones dadas por el Presidente o por el Secretario Técnico.
+
+II. Representar al organismo en los términos que establezca el Presidente, conforme a sus atribuciones.
+
+III. Mantener relaciones con las autoridades o con otras instituciones, organismos o personas físicas o morales de interés para sus funciones, siguiendo los lineamientos e instrucciones señalados por el Presidente.
+
+IV. Formular y presentar al Presidente el proyecto de presupuesto de egresos y el plan de actividades y proyectos de su Dirección, para el año siguiente.
+
+V. Presentar a la consideración del Presidente sus propuestas para el funcionamiento y operación de su área.
+
+VI. Dirigir y coordinar las actividades encomendadas a su área por el Presidente.
+
+VII. Ser responsables del uso y mantenimiento de las instalaciones físicas a su cargo.
+
+VIII. Evaluar al personal a su cargo.
+
+IX. Asignar funciones y responsabilidades al personal a su cargo, conforme a las disposiciones legales aplicables y a las políticas y lineamientos expedidas por el Consejo y por el Presidente.
+
+X. Dirigir y coordinar los programas o espacios culturales que estén bajo su responsabilidad.
+
+XI. Las demás que les confiera el Consejo.
+
+## TRANSITORIOS.
+
+###### ARTICULO ÚNICO.
+
+El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Dado en la sede del Consejo para Cultura de Nuevo León, en Monterrey, Nuevo León a los 19 días del mes de octubre de mil novecientos noventa y cinco.
+
+LA PRESIDENTA
+
+LIC. ALEJANDRA RANGEL HINOJOSA
+
+EL C. SECRETARIO TÉCNICO
+
+DR. EDUARDO RUBIO ELOSUA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MAYO DE 2001.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO.- REFORMAS A LOS ARTÍCULOS 5°, 7°, 8°, 9°, 10, 11, 14 ÚLTIMO PÁRRAFO, 17, 19, 20 PÁRRAFO PRIMERO Y 26 DEL REGLAMENTO INTERNO DEL CONSEJO PARA LA CULTURA DE NUEVO LEÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 2002.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL CUAL SE “REFORMA AL REGLAMENTO INTERNO DEL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO 31.
 
