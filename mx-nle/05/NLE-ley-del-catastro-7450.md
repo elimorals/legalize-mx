@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1986-12-31"
+last_updated: "1987-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -69,15 +69,23 @@ c).- Las Cámaras de Comercio, de Industria y Propietarios de Bienes Raíces; y
 
 d).- Las Personas o Instituciones Privadas cuya colaboración se requiera.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+
+d).- El Instituto Mexicano de Valuación de Nuevo León, A. C.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+
+e).- Las personas o instituciones privadas cuya colaboración se requiera.
+
 ###### ARTICULO 3o.
 
 (DEROGADO P.O. 28 DE DICIEMBRE DE 1974)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987) (F. DE E., P.O. 27 DE ENERO DE 1988)
 
 ###### ARTICULO 4o.
 
-La Junta Central Catastral se integrará por dos Representantes Oficiales, que designará el Secretario de Finanzas y Tesorero General del Estado y que tendrán el carácter de Presidente y Secretario, y dos representantes de la Cámara de Propietarios de Bienes Raíces en el Estado, con el carácter de vocales. Se nombrarán suplentes tanto para los representantes oficiales como para los de la Cámara, quienes se encargarán de suplir las faltas temporales o definitivas de los propietarios. El Presidente tendrá voto de calidad en caso de empate.
+La Junta Central Catastral se integrará por dos Representantes Oficiales, que designará el Secretario de Finanzas y Tesorero General del Estado y que tendrán el carácter de Presidente y Secretario, un Representante de la Cámara de Propietarios de Bienes Raíces en el Estado y un Representante del Instituto Mexicano de Valuación de Nuevo León, A. C., con el carácter de Vocales. Se nombrarán suplentes tanto para los Representantes Oficiales como para los de la Cámara y del Instituto, quienes se encargarán de suplir las faltas temporales o definitivas de los propietarios. El presidente tendrá voto de calidad en caso de empate.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -165,13 +173,13 @@ Las Bases Generales de Valores por Unidades Tipo deberán ser del dominio públi
 
 Las Bases Generales de Valores para la propiedad urbana, suburbana y la rústica, tendrán una vigencia de cinco años, contados a partir de la fecha en que dichas Bases hayan sido objeto de revisión. Pasado dicho plazo de vigencia, las Bases Generales de Valores podrán volver a ser objeto de revisión; en la inteligencia de que si ésta no se practica, subsistirán las Bases Generales de Valores existentes.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 20o.
 
-Excepto en el año que sean objeto de revisión, las Bases Generales por Unidades Tipo a que se refiere el Artículo anterior y los Valores Reales Catastrales de los inmuebles, tendrán un ajuste anual automático del 15% -quince por ciento-, que entrará en vigor el 1o. de enero de cada año, sin necesidad de que los mismos sean notificados a los interesados para tener plena validez. Fuera de este supuesto, las Bases Generales por Unidades Tipo y los Valores Reales Catastrales no podrán ser modificados mientras no sean objeto de revisión, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de la ampliación de zonas urbanas o sub-urbanas, o por cualquier otra causa.
+Excepto en el año en que sean objeto de revisión, las Bases Generales de Valores por Unidades Tipo a que se refiere el artículo anterior y los Valores Reales Catastrales de los Inmuebles, se ajustarán conforme al porcentaje que se establezca mediante disposición de vigencia anual, que entrará en vigor el 1o. de Enero de cada año, sin necesidad de que los mismos sean notificados a los interesados para tener plena validez. Fuera de este supuesto, las Bases Generales de Valores por Unidades Tipo y los Valores Reales Catastrales no podrán ser modificados mientras no sean objeto de revisión, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de ampliación de zonas urbanas o sub-urbanas, o por cualquier otra causa.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 21.
 
@@ -181,7 +189,7 @@ El avalúo de los predios se hará con estricto apego a las Bases Generales de V
 
 ###### ARTICULO 21o.
 
-El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo. No obstante lo anterior, para los efectos de la aplicación del Impuesto Predial, el valor catastral de los predios en ningún caso podrá ser inferior a $534,000.00 (QUINIENTOS TREINTA Y CUATRO MIL PESOS). En el Reglamento de esta Ley se señalará el procedimiento para formular los avalúos.
+El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo. No obstante lo anterior, para los efectos de la aplicación del Impuesto Predial, el valor catastral de los predios en ningún caso podrá ser inferior a $800,000.00. En el Reglamento de esta Ley se señalará el procedimiento para formular los avalúos.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
@@ -301,6 +309,12 @@ Con motivo de la reducción en la tasa del Impuesto Predial del seis al millar a
 
 Con motivo de la reducción en la tasa del Impuesto Predial del 3 al millar anual al 1.5 al millar anual establecida en el artículo 21 Bis-8 de la Ley de Hacienda para los Municipios del Estado, en 1987 y por una sola vez, se duplicará el valor real catastral de los inmuebles ubicados en el Estado, sin perjuicio de la aplicación del ajuste previsto en el artículo 20 de esta Ley.
 
+> <small>(ADICIONADO, P. O. 30 DE DICIEMBRE DE 1987)</small>
+
+###### ARTICULO 8o.
+
+En los términos del Artículo 20 de la Ley del Catastro, durante el año de 1998 se aplicara un incremento del 50% en las Bases Generales de Valores por Unidades Tipo y en los Valores Reales Catastrales.
+
 Lo tendrá entendido el C. Gobernador Constitucional del Estado, mandándolo imprimir, publicar y circular a quienes corresponda.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado de Nuevo León, en Monterrey, su Capital, a los ocho días del mes de enero de mil novecientos sesenta y cuatro.- PRESIDENTE: DIP. MARIO GARZA VALDEZ.- DIP. SECRETARIO HILARIO CONTRERAS GARCIA.- DIP. SECRETARIO: ARTURO DE LA GARZA GONZALEZ". Rúbricas.
@@ -414,3 +428,17 @@ Este Decreto entrará en vigor el día 1o. de Enero de 1987.
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que contraríen o se opongan al contenido de este Decreto.
+
+P.O. 30 DE DICIEMBRE DE 1987.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor el 1o. de Enero de 1988.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan todas las disposiciones, leyes y reglamentos que se opongan al contenido del presente Decreto.
+
+###### ARTICULO TERCERO
+
+- Con motivo de la reforma efectuada al artículo 28 de la Constitución Política del Estado, deberá entenderse que las disposiciones fiscales y administrativas de la Entidad que menciona al Municipio de Garza García, se refieren al Municipio de San Pedro Garza García.
