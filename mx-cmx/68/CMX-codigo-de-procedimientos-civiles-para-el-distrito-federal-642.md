@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1991-01-04"
+last_updated: "1992-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 1992.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -2462,7 +2462,7 @@ En caso de impugnación de falsedad de un documento, se observará lo dispuesto 
 
 (REUBICADA, D.O.F. 14 DE MARZO DE 1973)
 
-### CAPITULO V. De la forma escrita en la recepción de pruebas
+### CAPITULO VI. De la recepción oral de las pruebas
 
 > <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -2840,7 +2840,7 @@ ARTICULO 401 (DEROGADO Y REUBICADO, D.O.F. 14 DE MARZO DE 1973)
 
 > <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
-### CAPITULO VI. De la recepción oral de las pruebas
+### CAPITULO V. De la forma escrita en la recepción de pruebas
 
 ### CAPITULO VII. Del valor de las pruebas
 
@@ -2868,25 +2868,19 @@ ARTICULO 405
 
 La reclamación de nulidad de la confesión por error o violencia, se tramitará incidentalmente y se decidirá en la definitiva.
 
-ARTICULO 406 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
+ARTICULO 406
+
+> <small>(DEROGADO, D.O.F. 10 DE ENERO DE 1986)</small>
 
 ARTICULO 407 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
 
-ARTICULO 408
+ARTICULO 408 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
 
-> <small>(DEROGADO, D.O.F. 10 DE ENERO DE 1986)</small>
+ARTICULO 409 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
 
-ARTICULO 409
+ARTICULO 410 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
 
-> <small>(DEROGADO, D.O.F. 10 DE ENERO DE 1986)</small>
-
-ARTICULO 410
-
-> <small>(DEROGADO, D.O.F. 10 DE ENERO DE 1986)</small>
-
-ARTICULO 411
-
-> <small>(DEROGADO, D.O.F. 10 DE ENERO DE 1986)</small>
+ARTICULO 411 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
 
@@ -5002,6 +4996,8 @@ El secretario actuario que entregue la cita recogerá, en una libreta especial, 
 
 En el juzgado habrá el número necesario de libretas para que pueda llevar una cada encargado de entregar citas.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ARTICULO 14
 
 En los casos a que se refiere el artículo 10, el recibo se firmará por la persona a quien se hiciere la citación. Si no supiere o no pudiere firmar, lo hará a su ruego un testigo; si no quisiera firmar o presentar testigo que lo haga, firmará el testigo requerido al efecto por el notificador. Este testigo no puede negarse, bajo multa de dos a cinco pesos.
@@ -5179,6 +5175,8 @@ Cuando fuere necesario esperar a alguna persona a quien se hubiere llamado a la 
 ARTICULO 44
 
 Para cada asunto se formará un breve expediente con los documentos relativos a él y, en todo caso, con el acta de la audiencia en la que muy sucintamente se relatarán los puntos principales y se asentará la sentencia así como lo relativo a su ejecución. Bastará que las actas sean autorizadas por el juez y el secretario o los testigos de asistencia en su caso; pero los interesados tendrán el derecho de firmarlas también, pudiendo sacar copias de ellas, cuya exactitud certificará el secretario previo cotejo si así se pidiere. El condenado que estuviere presente firmará en todo caso el acta, a menos de no saber o estar físicamente impedido; si fuere posible se imprimirán sus huellas digitales.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1966)</small>
 
@@ -5389,6 +5387,8 @@ ARTICULO 745
 La junta de rectificación y graduación será presidida por el juez, procediéndose al examen de los créditos previa lectura por el síndico de un breve informe sobre el estado general activo y pasivo y documentos que prueben la existencia de cada uno de ellos. En este informe del síndico estarán contenidos los dictámenes que rinda sobre cada uno de los créditos presentados y de los cuales con anticipación se le corrió traslado.
 
 En el informe deberá también clasificar los créditos de acuerdo con sus privilegios según el Código Civil.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ARTICULO 746
 
@@ -5620,7 +5620,7 @@ ARTICULO 781
 
 El albacea manifestará dentro de tres días de hacérsele saber el nombramiento, si acepta. Si acepta y entra en la administración, le prevendrá el juez que dentro de tres meses debe garantizar su manejo con sujeción a lo dispuesto en los artículos 1,708 y 1,709 del Código Civil, salvo que todos los interesados le hayan dispensado de esa obligación.
 
-Si no garantiza su manejo dentro del término señalado, se le removerá de plano..
+Si no garantiza su manejo dentro del término señalado, se le removerá de plano.
 
 ARTICULO 782
 
@@ -5779,6 +5779,8 @@ Este albacea tiene el carácter de definitivo.
 ARTICULO 806
 
 Si ninguno de los pretendientes hubiere sido declarado heredero, continuará como albacea judicial el interventor que se hubiere nombrado antes o que en su defecto se nombre.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ARTICULO 807
 
@@ -5940,6 +5942,8 @@ ARTICULO 837
 
 El interventor no puede deducir en juicio las acciones que por razón de mejoras, manutención o reparación tenga contra la testamentaría o el intestado, sino cuando haya hecho esos gastos con autorización previa.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ARTICULO 838
 
 El interventor tendrá el dos por ciento del importe de los bienes, si no exceden de veinte mil pesos; si excede de esta suma, pero no de cien mil pesos, tendrá además el uno por ciento sobre el exceso, y si excediere de cien mil pesos, tendrá el medio por ciento, además, sobre la cantidad excedente.
@@ -6064,6 +6068,8 @@ Si no hubiere mayoría el juez nombrará partidor eligiéndolo entre los propues
 
 El cónyuge aunque no tenga el carácter de heredero será tenido como parte si entre los bienes hereditarios hubiere bienes de la sociedad conyugal.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 ARTICULO 861
@@ -6131,6 +6137,8 @@ IV.- Noticia de la entrega de los títulos de las propiedades adjudicadas o repa
 V.- Expresión de las cantidades que algún heredero quede reconociendo a otro, y de la garantía que se haya constituído;
 
 VI.- La firma de todos los interesados.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ARTICULO 870
 
@@ -6334,11 +6342,13 @@ En los negocios de menores e incapacitados intervendrán el Juez de lo Familiar 
 
 ### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1992)</small>
+
 ARTICULO 902
 
 Ninguna tutela puede conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella.
 
-La declaración del estado de minoridad o demencia puede pedirse: 1º. Por el mismo menor si ha cumplido dieciséis años; 2º. Por su cónyuge; 3º. Por sus presuntos herederos legítimos; 4º. Por el albacea; 5º. Por el Ministerio Público.
+La declaración del estado de minoridad, o de incapacidad por las causas a las que se refiere la fracción II del artículo 450 del Código Civil, pueden pedirse: 1o. por el mismo menor si ha cumplido 16 años; 2o. por su cónyuge; 3o. por sus presuntos herederos legítimos; 4o. por su albacea; 5o. por el Ministerio Público.
 
 Pueden pedir la declaración de minoridad los funcionarios encargados de ello por el Código Civil.
 
@@ -6354,9 +6364,13 @@ La declaración de incapacidad por causa de demencia, se acreditará en juicio o
 
 Como diligencias prejudiciales se practicarán las siguientes:
 
-I.- Recibida la demanda de interdicción, el juez ordenará las medidas tutelares conducentes al aseguramiento de la persona y bienes del señalado como incapacitado; ordenará que la persona que auxilia a aquél de cuya interdicción se trata, lo ponga a disposición de los médicos alienistas en el plazo de 72 horas para que sea sometido a exámen; ordenará que el afectado sea oído personalmente o representado durante este procedimiento; y que la persona bajo cuya guarda se encuentra el indicado como incapaz se abstenga de disponer de los bienes del incapacitado, siempre que, a la demanda se acompañe certificado de un médico alienista o informe fidedigno de la persona que lo auxilia u otro medio de convicción que justifique la necesidad de estas medidas.
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1992)</small>
 
-II.- Los médicos que practiquen el exámen deberán ser designados por el juez y serán de preferencia alienistas. Dicho examen se hará en presencia del juez, previa citación de la persona que hubiere pedido la interdicción y del Ministerio Público.
+I.- Recibida la demanda de interdicción, el juez ordenará las medidas tutelares conducentes al aseguramiento de la persona y bienes del señalado como incapacitado; ordenará que la persona que auxilia a aquél de cuya interdicción se trata, lo ponga a disposición de los médicos alienistas o de la especialidad correspondiente o bien, informe fidedigno de la persona que lo auxilie u otro medio de convicción que justifique la necesidad de estas medidas.
+
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1992)</small>
+
+II.- Los médicos que practiquen el examen deberán ser designados por el juez y serán de preferencia alienistas o de la especialidad correspondiente. Dicho examen se hará en presencia del juez previa citación de la persona que hubiere pedido la interdicción y del Ministerio Público.
 
 III.- Si del dictamen pericial resultare comprobada la incapacidad, o por lo menos hubiere duda fundada acerca de la capacidad de la persona cuya interdicción se pide, el juez proveerá las siguientes medidas:
 
@@ -6457,6 +6471,8 @@ ARTICULO 914
 Los tutores y curadores no pueden ser removidos ni excusarse sino a través del incidente contradictorio respectivo.
 
 ### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ARTICULO 915
 
@@ -7127,3 +7143,9 @@ Los procedimientos de inmatriculación de inmuebles que a la fecha de entrada en
 ###### ARTICULO TERCERO.
 
 Publíquese en la Gaceta Oficial del Departamento del Distrito Federal.
+
+D.O.F. 23 DE JULIO DE 1992.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las declaraciones de incapacidad o de nombramiento de tutor que actualmente se encuentra (sic) en trámite ante los tribunales competentes, en sus resoluciones que se dicten respecto de los motivos que les dieron origen y causa, deberán apegarse al texto de los artículos reformados, debiendo declarar en sus puntos resolutivos el tipo de incapacidad que padezca la persona.
