@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2004-08-11"
+last_updated: "2004-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2004.
 
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 11 DE AGOSTO DE 2004 NO APLICA A LAS REFORMAS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE PUBLICADAS DEL DECRETO 856 PUBLICADO EN LA G.O. DE 10 DE AGOSTO DE 2004.]</small>
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 3 DE SEPTIEMBRE DE 2004 NO APLICA AL CONTENIDO DEL ARTICULADO DEL DECRETO 848 PUBLICADO EN LA G.O. DE 2 DE JULIO DE 2004.]</small>
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
