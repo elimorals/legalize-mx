@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-administracion-municipal-8463"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1984-02-02"
-last_updated: "1991-07-18"
+last_updated: "1992-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DE ADMINISTRACION MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 21 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el jueves 2 de febrero de 1984.
 
@@ -505,7 +505,7 @@ XVI.- Vigilar y preservar el patrimonio cultural e histórico del Municipio.
 
 XVII.- Formar y actualizar el catastro y padrón municipal, cuidando de que se inscriban en este último todos los vecinos, expresando su nombre, edad, estado civil, nacionalidad, residencia, domicilio, propiedades, profesión, actividad productiva o trabajo de que subsistan, si son jefes de familia, en cuyo caso, se expresará el número y sexo de las personas que la formen.
 
-XVIII.- Registrar los templos que existan o se abran el culto religioso, así como a los encargados de los mismos, y sus cambios, notificándolos a la Secretaría de Gobernación, por conducto del Gobernador del Estado. Para estos efectos se llevarán dos libros especiales, en uno se asentará lo correspondiente a los templos y en otro, lo relacionado con sus encargos.
+XVIII.- (DEROGADA, B.O. 21 DE DICIEMBRE DE 1992)
 
 XIX.- Ejercer las atribuciones que en el ramo de mostrencos les confieran.
 
@@ -1512,3 +1512,9 @@ ESTA LEY ENTRARA EN VIGOR TREINTA DIAS DESPUES DE SU PUBLICACION EN EL BOLETIN O
 B.O. 18 DE JULIO DE 1991.
 
 UNICO.- La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 21 DE DICIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
