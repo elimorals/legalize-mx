@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1958-04-21"
+last_updated: "1963-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 1958.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 1963.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -5703,11 +5703,11 @@ Cuando no hubiere este convenio, la oposición de parte se substanciará inciden
 
 La resolución declarando herederos de un intestado o que es legítimo un testamento, es apelable en el efecto devolutivo, si el valor de la sucesión excede de un mil pesos.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1938)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1963)</small>
 
 ###### Artículo 1099.
 
-Si el valor de los bienes hereditarios no excede de $2,000.00, es optativo para los interesados acudir a la autoridad judicial o a la administrativa en los términos del artículo 68 del Código Fiscal. En éste último caso, la resolución que ordene la variación catastral servirá de título y tendrá los mismos efectos que si la aplicación de bienes se hubiese hecho conforme a las disposiciones de este título, con las salvedades de la Ley.
+Si el valor de los bienes hereditarios no excede de seis mil pesos, es optativo para los interesados acudir a la autoridad judicial o a la administrativa en los términos del artículo 261 de la Ley de Hacienda del Estado. En este último caso, la resolución que ordene la variación catastral servirá de título y tendrá los mismos efectos que si la aplicación de bienes se hubiere hecho conforme a las disposiciones de este título, con las salvedades de la Ley.
 
 ###### Artículo 1100.
 
@@ -7720,3 +7720,9 @@ Esta Ley tendrá vigencia a los 5 cinco días de su publicación en el Periódic
 ###### ARTICULO SEGUNDO.
 
 De os juicios civiles que se hallen en trámite en los Juzgados de Primera Instancia y tengan una cuantía que no exceda de un mil pesos, deberán conocer los jueces menores municipales correspondientes al Distrito Judicial de que se trate, a partir de la vigencia de la presente reforma.
+
+P.O. 25 DE ABRIL DE 1963.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor, a partir de la fecha de su publicación en el Periódico Oficial de la Entidad.
