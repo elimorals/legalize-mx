@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2003-08-17"
+last_updated: "2003-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2003.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -623,7 +623,7 @@ IV.- Legislar en materia económica, educativa, indígena, cultural, electoral e
 
 V.- Formular y en su caso aprobar los planes globales y sectoriales de desarrollo del Estado de Chiapas;
 
-VI.- Auxiliar a la Federación en materia de culto religioso, de conformidad con la legislación aplicable y determinar según las necesidades locales, el número máximo de ministros de los cultos;
+VI.- Auxiliar a la Federación en materia de culto religioso, de conformidad con la legislación aplicable y determinar según las necesidades locales, el numero máximo de ministros de los cultos;
 
 VII.- Conceder al Ejecutivo por un tiempo limitado y con la aprobación de las dos terceras partes de los Diputados presentes, las Facultades Extraordinarias que necesite en caso de invasión, alteración o peligro públicos, o requerirlo así la Administración General del Estado. El Ejecutivo deberá dar cuenta del uso que haga de las facultades conferidas, en el siguiente periodo ordinario de sesiones;
 
@@ -633,7 +633,7 @@ IX.- Legislar sobre el establecimiento de instituciones para el tratamiento de l
 
 X.- Legislar en todo lo relativo al fundo legal de los Municipios y al reparto de predios disponibles a los ciudadanos chiapanecos que más lo necesiten;
 
-XI.- Dictar leyes encaminadas a combatir el alcoholismo en cumplimiento de lo dispuesto en el Artículo 117 infine de la Constitución Federal;
+XI.- Dictar leyes encaminadas a combatir el alcoholismo en cumplimiento de lo dispuesto en el Articulo 117 infine de la Constitución Federal;
 
 XII.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos y fijar las contribuciones con que haya de ser cubierto, en vista de los proyectos que el Ejecutivo presente. Al aprobar el Presupuesto de Egresos no podrá dejar de señalar la retribución que corresponda a un empleo establecido por la Ley, y en caso de que por cualquier circunstancia se omita fijar la remuneración, se entenderá señalada la que hubiere tenido el Presupuesto anterior o en la Ley que estableció el empleo;
 
@@ -671,7 +671,7 @@ XXIV.- Conceder licencia al Gobernador y a los Diputados para separarse de su ca
 
 XXV.- Constituirse en Colegio Electoral para elegir al ciudadano que deba sustituir al Gobernador Constitucional, ya sea con el carácter de provisional, de interino o de sustituto, en los términos de los Artículos 38 y 39 de esta Constitución;
 
-XXVI.- Autorizar al Ejecutivo para que celebre arreglos sobre los límites del Estado y sancionar en su caso dichos arreglos, previamente a que sean sometidos a la aprobación del Congreso de la Unión;
+XXVI.- Autorizar al Ejecutivo para que celebre arreglos sobre los limites del Estado y sancionar en su caso dichos arreglos, previamente a que sean sometidos a la aprobación del Congreso de la Unión;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -709,7 +709,7 @@ XXXVII.- Recibir del Gobernador, Diputados y Magistrados la protesta a que se re
 
 XXXVIII.- (DEROGADA, P.O. 29 DE ABRIL DE 1995)
 
-XXXIX.- Suspender hasta por tres meses previa garantía de audiencia, a los miembros de los Ayuntamientos por si o a petición del Ejecutivo cuando sea indispensable hacerlo para la práctica de alguna averiguación, y en su caso, separarlos del cargo previa formación de causa, cuando abusen de sus facultades;
+XXXIX.- Suspender hasta por tres meses previa garantía de audiencia, a los miembros de los Ayuntamientos por si o a petición del Ejecutivo cuando sea indispensable hacerlo para la practica de alguna averiguación, y en su caso, separarlos del cargo previa formación de causa, cuando abusen de sus facultades;
 
 XL.- Conocer, como Jurado de acusación, de los procedimientos que por delitos oficiales se inicien contra los funcionarios a que se refiere esta constitución;
 
@@ -971,7 +971,7 @@ El ejercicio en el que proceda la renovación sexenal del Poder Ejecutivo, la cu
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2001)</small>
 
-XIX.- Presentar al Congreso del Estado, en el último cuatrimestre del año respectivo, el presupuesto de egresos del año siguiente; en el caso de que la presentación en el cuatrimestre mencionado no corresponda con el período ordinario de sesiones, se convocará al Congreso, a sesión extraordinaria;
+XIX.- Presentar al Congreso del Estado, en el ultimo cuatrimestre del año respectivo, el presupuesto de egresos del año siguiente; en el caso de que la presentación en el cuatrimestre mencionado no corresponda con el período ordinario de sesiones, se convocará al Congreso, a sesión extraordinaria;
 
 XX.- Facilitar al poder judicial los auxilios que necesite para el ejercicio expedito de sus funciones;
 
@@ -1235,7 +1235,7 @@ b) Cuando menos la tercera parte de los miembros del Congreso;
 
 c) Cuando menos la tercera parte de los Ayuntamientos.
 
-La resolución que emita el Pleno de la Sala Superior que decrete la existencia de omisión legislativa, surtirá sus efectos a patir de su publicación en el Periódico Oficial del Estado; en dicha resolución se determinará un plazo que comprenda dos períodos ordinarios de sesiones del Congreso del Estado, para que éste resuelva.
+La resolución que emita el Pleno de la Sala Superior que decrete la existencia de omisión legislativa, surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado; en dicha resolución se determinará un plazo que comprenda dos períodos ordinarios de sesiones del Congreso del Estado, para que éste resuelva.
 
 IV.- A efecto de dar respuesta fundada y motivada a las cuestiones de inconstitucionalidad formulada por los Magistrados o Jueces del Estado cuando tengan duda sobre la constitucionalidad o aplicación de una Ley local, en el proceso sobre el cual tengan conocimiento, las peticiones deberán ser desahogadas en un plazo no mayor de treinta días.
 
@@ -1415,11 +1415,11 @@ En ningún caso podrán hacerse incorporaciones o segregaciones de un municipio 
 
 El patrimonio y la Hacienda del Estado se componen de los bienes del mismo, de los mostrencos abandonados o vacantes que estén dentro de su territorio; de las herencias y donativos; de los creditos que obtenga a su favor, de las rentas que deba percibir, de los ingresos decretados por el Congreso, de las participaciones federales y de los que por cualquier otro título obtenga.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 65.
 
-El Gobernador, de acuerdo con la naturaleza de las funciones ejecutivas que le correspondan, tiene facultad y obligación de cuidar los fondos públicos, tal como se previene en el Artículo 42 fracción IV de esta constitución. Para ese fin y como dependencia del ejecutivo, la Tesorería General del Estado tiene a su cargo el despacho de esos asuntos, en los términos previstos en la Ley Orgánica de la Administración Pública del Estado.
+El Gobernador, de acuerdo con la naturaleza de las funciones ejecutivas que le correspondan, tiene facultad y obligación de cuidar los fondos públicos, tal como se previene en el Artículo 42 fracción IV de esta Constitución. Para ese fin y como dependencia del Ejecutivo, la Secretaría de Hacienda del Estado tiene a su cargo el despacho de esos asuntos, en los términos previstos en la Ley Orgánica de la Administración Pública del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2000)</small>
 
@@ -1443,13 +1443,11 @@ Las partidas presupuestales, o las que asignen cualquier cantidad para gastos ex
 
 El funcionario que realice erogaciones que no estén previstas en las leyes correspondientes, incurrirá en responsabilidad oficial y responderá con su patrimonio de las erogaciones realizadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 67.
 
-Para la glosa de las cuentas de Hacienda del Estado y de los Municipios habrá una Contaduría Mayor de Hacienda, que dependerá del Congreso del Estado y en sus recesos de la Comisión Permanente a través de su Comisión de Hacienda.
-
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+Para la glosa de las cuentas de Hacienda del Estado y de los Municipios habrá un Organo de Fiscalización Superior que dependerá del Congreso del Estado y en sus recesos de la Comisión Permanente a través de su Comisión de Vigilancia.
 
 Para el desempeño de sus funciones podrá contar con elementos necesarios que requiera.
 
@@ -2615,7 +2613,7 @@ P.O. 17 DE AGOSTO DE 2003.
 
 Primero.- El presente Decreto de reformas a la Constitución iniciará su vigencia al siguiente día a su publicación en el Periódico Oficial del Estado.
 
-Segundo.- Tan luego como se obtenga la aprobación de la mayoría de los Ayuntamientos, el Congreso del Estado expedirá la Ley Orgánica del Congreso y la Ley del Órgano de Fiscalización Superior.
+Segundo.- Tan luego como se obtenga la aprobación de la mayoría de los Ayuntamientos, el Congreso del Estado expedirá la Ley Órgánica del Congreso y la Ley del Organo de Fiscalización Superior.
 
 Tercero.- En tanto se crea la Nueva Ley de Fiscalización Superior del Estado, la actual Entidad de Fiscalización Superior continuará ejerciendo las atribuciones conforme a la ley que actualmente le rige.
 
@@ -2628,3 +2626,13 @@ Ese mismo día deberá quedar instalada la Junta de Coordinación Política.
 El 31 de marzo de 2004 se deberá de elegir la Mesa Directiva que iniciará sus funciones al día siguiente y fungirá hasta la conclusión de la Sexagésima Primera Legislatura. El Presidente será electo dentro de los Diputados del Tercer Grupo Parlamentario con mayor representación en la misma Legislatura.
 
 Quinto.- Se derogan todas las disposiciones que se contrapongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se contrapongan al presente decreto.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
