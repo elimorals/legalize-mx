@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-general-de-gobierno-12393"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-01-23"
-last_updated: "2002-07-01"
+last_updated: "2003-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2003.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de San Luis Potosí, el viernes 23 de enero de 1998.
 
@@ -95,7 +95,11 @@ La Dirección General de Prevención y Readaptación Social, de la que a su vez 
 
 a).- Las Direcciones de los Centros de Readaptación Social de la capital, así como los regionales y
 
-b).- El Consejo Tutelar de Menores Infractores.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2003)</small>
+
+b).- El Consejo Central Tutelar de Menores Infractores de quien a su vez depende:
+
+1. La Dirección de Área, Escuela “Profesor Ángel Silva”
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2002)</small>
 
@@ -107,9 +111,13 @@ a).- La Dirección de Estado Mayor,
 
 b).- La Dirección de Operación,
 
-c).- La Dirección de Inspección General y
+c).- La Dirección de Inspección General y (sic)
 
 d).- La Dirección de la Academia de Policía.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2003)</small>
+
+e).- Dirección Zona Huasteca.
 
 VII.- La Dirección de Informática y Sistemas.
 
@@ -709,9 +717,11 @@ X.- Proveer lo conducente para que los internos participen en las actividades la
 
 XI.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquéllas que le confiera la Superioridad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 24.
 
-Competen al Consejo Tutelar Central para Menores Infractores las siguientes atribuciones:
+Competen al Consejo Central Tutelar para Menores Infractores, integrada por la Dirección de Área Escuela “Profesor Ángel Silva” quien fungirá como Centro de Observación y Readaptación, las siguientes atribuciones:
 
 I.- Dar cumplimiento a la Ley de Consejos Tutelares y de Readaptación Social para Menores del Estado;
 
@@ -757,9 +767,11 @@ VIII.- Participar en todas aquellas acciones que contribuyan a promover el desar
 
 IX.- Las demás que les asigne el Secretario General de Gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 26.
 
-Competen a la Dirección General de Protección Social y Vialidad, la cual se integra con las Direcciones de Estado Mayor, de Operaciones de Inspección General y de la Academia de Policía, las siguientes atribuciones:
+Competen a la Dirección General de Protección Social y Vialidad, la cual esta integrada con las Direcciones de Estado Mayor, de Operaciones de Inspección General, de la Academia de Policía y Dirección Zona Huasteca, las siguientes atribuciones:
 
 I.- Garantizar que los actos de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública, así como prevenir la comisión de conductas antisociales y proteger los derechos de las personas;
 
@@ -990,3 +1002,19 @@ Se abroga el Acuerdo Administrativo en el cual se crea la Coordinación de Gobie
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones administrativas que contravengan al presente decreto.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE FEBRERO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que hace a la Dirección Zona Huasteca dependiente de la Dirección General de Protección Social y Vialidad, el presente reglamento le será aplicable hasta en tanto entre en funciones.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se contrapongan al presente decreto.
