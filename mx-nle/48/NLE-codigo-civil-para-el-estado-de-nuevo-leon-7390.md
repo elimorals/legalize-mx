@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2000-10-13"
+last_updated: "2001-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -293,7 +293,7 @@ Art. 23 Bis I.- La minoría de edad, el estado de interdicción y las demás inc
 
 Art. 23 Bis II.- La personalidad jurídica de las personas morales, se adquiere en el momento de su constitución y se pierde al extinguirse conforme lo disponga la ley.
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ## TITULO TERCERO. DE LOS ATRIBUTOS DE LAS PERSONAS
 
@@ -317,9 +317,9 @@ El estado civil es un atributo privativo de las personas físicas.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO V. DE LA NACIONALIDAD
+### CAPITULO I. DEL NOMBRE
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 #### SECCION PRIMERA. DE LAS PERSONAS FISICAS
 
@@ -389,11 +389,7 @@ Art. 25 Bis IX.- En el procedimiento judicial de cambio de nombre, el Oficial de
 
 #### SECCION SEGUNDA. DE LAS PERSONAS MORALES
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
-
-Art. 32 Bis V.- Son aplicables al patrimonio de las personas morales, las disposiciones relativas al patrimonio de las personas físicas, en tanto no se opongan a la naturaleza de las primeras.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 26.
 
@@ -409,9 +405,9 @@ El nombre de las personas morales de carácter privado, estará constituido por 
 
 Art. 26 Bis I.- La persona moral tiene derecho al uso exclusivo de su nombre y puede oponerse a que otra persona lo use sin derecho.
 
-> <small>(REFORMADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO VI. DEL ESTADO CIVIL
+### CAPITULO II. DEL DOMICILIO
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -421,7 +417,7 @@ Domicilio es el lugar en que la ley tiene por situadas a las personas para el cu
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
+#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -471,9 +467,9 @@ VIII.- De las personas que residan temporalmente en el país en el desempeño de
 
 Art. 28 Bis V.- Se tiene derecho a designar domicilios convencionales para el ejercicio y cumplimiento de derechos y obligaciones, así como renunciar en el aspecto judicial a la jurisdicción de su domicilio.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
+#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -499,13 +495,13 @@ Las sucursales que operen en lugares distintos de donde radica la casa matriz, t
 
 Art. 29 Bis I.- Las personas morales, podrán designar domicilios convencionales para el ejercicio y cumplimiento de derechos y obligaciones, así como renunciar en el aspecto judicial a la jurisdicción de su domicilio.
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
-
-### CAPITULO IV. DEL PATRIMONIO
-
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
+### CAPITULO III. DE LA CAPACIDAD JURIDICA
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+
+#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -547,7 +543,7 @@ III.- A petición del mismo incapaz, la cual no necesita ser escrita.
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
+#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -565,9 +561,9 @@ Las personas morales pueden ejercitar los derechos y cumplir las obligaciones qu
 
 Art. 31 Bis I.- Las personas morales obran y se obligan a través de los órganos por los que actúan, por disposición de la ley y conforme a las disposiciones relativas de sus estatutos sociales.
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO I. DEL NOMBRE
+### CAPITULO IV. DEL PATRIMONIO
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -605,11 +601,15 @@ Art. 32 Bis IV.- El patrimonio moral se constituye por los derechos y deberes no
 
 #### SECCION SEGUNDA. DE LAS PERSONAS MORALES
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO III. DE LA CAPACIDAD JURIDICA
+Art. 32 Bis V.- Son aplicables al patrimonio de las personas morales, las disposiciones relativas al patrimonio de las personas físicas, en tanto no se opongan a la naturaleza de las primeras.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO V. DE LA NACIONALIDAD
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 33.
 
@@ -617,7 +617,7 @@ La nacionalidad de las personas se regirá por las leyes de la materia.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO II. DEL DOMICILIO
+### CAPITULO VI. DEL ESTADO CIVIL
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -639,7 +639,7 @@ Art. 34 Bis I.- Posesión de estado civil es la conducta reiterada que en forma 
 
 Art. 34 Bis II.- Para acreditar la posesión de estado civil se deberá atender, el trato y comportamiento en el seno de la familia respectiva, la fama que sobre el particular tenga la persona en sus relaciones sociales y de familia.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
 ## TITULO CUARTO. DEL REGISTRO CIVIL
 
@@ -1935,9 +1935,9 @@ I.- El error acerca de la persona con quien se contrae, cuando entendiendo un c�
 
 II.- Que el matrimonio se haya celebrado concurriendo algunos de los impedimentos enumerados en el artículo 156;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2001)</small>
 
-III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 97, 98, 100, 102 o 103.
+III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 94, 97, 100, 101, 102 ó 103.
 
 ###### Art. 236.
 
@@ -16362,6 +16362,10 @@ P.O. 3 DE ENERO DE 2000.
 P.O. 13 DE OCTUBRE DE 2000.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 23 DE NOVIEMBRE DE 2001.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
