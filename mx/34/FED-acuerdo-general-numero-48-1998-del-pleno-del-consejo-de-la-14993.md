@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-48-1998-del-pleno-del-consejo-de-la-1499
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-03-23"
-last_updated: "2004-09-17"
+last_updated: "2005-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14993&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-09"
 
 ACUERDO GENERAL NUMERO 48/1998, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE SEPTIEMBRE DE 2004.
+ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 2005.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de marzo de 1999.
 
@@ -1459,7 +1459,9 @@ I. Ser de nacionalidad mexicana;
 
 II. Encontrarse en pleno ejercicio de sus derechos;
 
-III. Tener experiencia profesional mínima de tres años, preferentemente en el ámbito jurisdiccional, hecha excepción de los Secretarios Técnicos que laboren directamente en áreas administrativas;
+> <small>(REFORMADA POR EL ACUERDO GENERAL 1/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ENERO DE 2005)</small>
+
+III. La experiencia mínima de tres años requerida para ser Secretario Técnico, se computará a partir de la fecha en que el aspirante haya presentado su examen profesional para obtener título de Licenciado en Derecho, o en alguna materia afín a las competencias del Consejo de la Judicatura Federal, salvo en aquellos casos en que se satisfagan los siguientes requisitos:
 
 IV. Gozar de buena reputación; y,
 
@@ -2494,3 +2496,9 @@ D.O.F. 17 DE SEPTIEMBRE DE 2004.
 PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 21 DE ENERO DE 2005.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
