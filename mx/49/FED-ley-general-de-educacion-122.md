@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2003-03-13"
+last_updated: "2004-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -58,11 +58,13 @@ En el proceso educativo deberá asegurarse la participación activa del educando
 
 El Estado está obligado a prestar servicios educativos para que toda la población pueda cursar la educación preescolar, la primaria y la secundaria. Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la presente Ley.
 
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 4o.
 
-Todos los habitantes del país deben cursar la educación primaria y la secundaria.
+Todos los habitantes del país deben cursar la educación preescolar, la primaria y la secundaria.
 
-Es obligación de los mexicanos hacer que sus hijos o pupilos menores de edad cursen la educación primaria y la secundaria.
+Es obligación de los mexicanos hacer que sus hijos o pupilos menores de edad cursen la educación preescolar, la primaria y la secundaria.
 
 ###### ARTICULO 5o.
 
@@ -106,9 +108,11 @@ XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, 
 
 XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 8o.
 
-El criterio que orientará a la educación que el Estado y sus organismos descentralizados impartan -así como toda la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica que los particulares impartan-, se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
+El criterio que orientará a la educación que el Estado y sus organismos descentralizados impartan -así como toda la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica que los particulares impartan- se basará en los resultados del progreso científico; luchará contra la ignorancia y sus causas y efectos; las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos y la discriminación, especialmente la ejercida en contra de las mujeres. Además:
 
 I.- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
@@ -160,19 +164,29 @@ III.- Autoridad educativa municipal al ayuntamiento de cada municipio.
 
 Corresponden de manera exclusiva a la autoridad educativa federal las atribuciones siguientes:
 
-I.- Determinar para toda la República los planes y programas de estudio para la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, a cuyo efecto se considerará la opinión de las autoridades educativas locales y de los diversos sectores sociales involucrados en la educación, en los términos del artículo 48;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
-II.- Establecer el calendario escolar aplicable en toda la República para cada ciclo lectivo de la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica;
+I.- Determinar para toda la República los planes y programas de estudio para la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, a cuyo efecto se considerará la opinión de las autoridades educativas locales y de los diversos sectores sociales involucrados en la educación en los términos del artículo 48;
+
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+II.- Establecer el calendario escolar aplicable en toda la República para cada ciclo lectivo de la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica;
 
 III.- Elaborar y mantener actualizados los libros de texto gratuitos, mediante procedimientos que permitan la participación de los diversos sectores sociales involucrados en la educación;
 
-IV.- Autorizar el uso de libros de texto para la educación primaria y la secundaria;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
-V.- Fijar lineamientos generales para el uso de material educativo para la educación primaria y la secundaria;
+IV.- Autorizar el uso de libros de texto para la educación preescolar, la primaria y la secundaria;
+
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+V.- Fijar lineamientos generales para el uso de material educativo para la educación preescolar, primaria y la secundaria;
 
 VI.- Regular un sistema nacional de formación, actualización, capacitación y superación profesional para maestros de educación básica;
 
-VII.- Fijar los requisitos pedagógicos de los planes y programas de educación inicial y preescolar que, en su caso, formulen los particulares;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+VII.- Fijar los requisitos pedagógicos de los planes y programas de educación inicial que, en su caso, formulen los particulares;
 
 VIII.- Regular un sistema nacional de créditos, de revalidación y de equivalencias, que faciliten el tránsito de educandos de un tipo o modalidad educativo a otro;
 
@@ -192,17 +206,23 @@ Corresponden de manera exclusiva a las autoridades educativas locales, en sus re
 
 I.- Prestar los servicios de educación inicial, básica -incluyendo la indígena-, especial, así como la normal y demás para la formación de maestros;
 
-II.- Proponer a la Secretaría los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
-> <small>(F. DE E., D.O.F. 29 DE JULIO DE 1993)</small>
+II.- Proponer a la Secretaría los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica;
 
-III.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, con respeto al calendario fijado por la Secretaría;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+III.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, con respeto al calendario fijado por la Secretaría;
 
 IV.- Prestar los servicios de formación, actualización, capacitación y superación profesional para los maestros de educación básica, de conformidad con las disposiciones generales que la Secretaría determine;
 
-V.- Revalidar y otorgar equivalencias de estudios de la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la Secretaría expida;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
-VI.- Otorgar, negar y revocar autorización a los particulares para impartir la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, y
+V.- Revalidar y otorgar equivalencias de estudios de la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la Secretaría expida;
+
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+VI.- Otorgar, negar y revocar autorización a los particulares para impartir la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, y
 
 VII.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
@@ -216,7 +236,9 @@ II.- Determinar y formular planes y programas de estudio, distintos de los previ
 
 III.- Revalidar y otorgar equivalencias de estudios, distintos de los mencionados en la fracción V del artículo 13, de acuerdo con los lineamientos generales que la Secretaría expida;
 
-IV.- Otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos de los de primaria, secundaria, normal y demás para la formación de maestros de educación básica que impartan los particulares;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+IV.- Otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos de los de preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica que impartan los particulares;
 
 V.- Editar libros y producir otros materiales didácticos, distintos de los señalados en la fracción III del artículo 12;
 
@@ -366,7 +388,7 @@ Dichas medidas estarán dirigidas, de manera preferente, a los grupos y regiones
 
 ###### ARTICULO 33.
 
-Para cumplir con lo dispuesto en el artículo anterior, las autoridades educativas, en el ámbito de sus respectivas competencias llevarán a cabo las actividades siguientes:
+Para cumplir con lo dispuesto en el artículo anterior, las autoridades educativas en el ámbito de sus respectivas competencias llevarán a cabo las actividades siguientes:
 
 I.- Atenderán de manera especial las escuelas en que, por estar en localidades aisladas o zonas urbanas marginadas, sea considerablemente mayor la posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad para enfrentar los problemas educativos de dichas localidades;
 
@@ -374,7 +396,9 @@ II.- Desarrollarán programas de apoyo a los maestros que realicen su servicio e
 
 III.- Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
-IV.- Prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que les faciliten la terminación de la primaria y la secundaria;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+IV.- Prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que faciliten la terminación de la educación preescolar, primaria y la secundaria;
 
 V.- Otorgarán apoyos pedagógicos a grupos con requerimientos educativos específicos, tales como programas encaminados a recuperar retrasos en el aprovechamiento escolar de los alumnos;
 
@@ -414,9 +438,11 @@ El Ejecutivo Federal, el gobierno de cada entidad federativa y los ayuntamientos
 
 #### Sección 1.- De los tipos y modalidades de educación
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 37.
 
-La educación de tipo básico está compuesta por el nivel preescolar, el de primaria y el de secundaria. La educación preescolar no constituye requisito previo a la primaria.
+La educación de tipo básico está compuesta por el nivel preescolar, el de primaria y el de secundaria.
 
 El tipo medio-superior comprende el nivel de bachillerato, los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalentes.
 
@@ -462,7 +488,9 @@ Tratándose de la educación para adultos la autoridad educativa federal podrá 
 
 Los beneficiarios de esta educación podrán acreditar los conocimientos adquiridos, mediante exámenes parciales o globales, conforme a los procedimientos a que aluden los artículos 45 y 64. Cuando al presentar un examen no acrediten los conocimientos respectivos, recibirán un informe que indique las unidades de estudio en las que deban profundizar y tendrán derecho a presentar nuevos exámenes hasta lograr la acreditación de dichos conocimientos.
 
-El Estado y sus entidades organizarán servicios permanentes de promoción y asesoría de educación para adultos y darán las facilidades necesarias a sus trabajadores y familiares para estudiar y acreditar la educación primaria y la secundaria.
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+El Estado y sus entidades organizarán servicios permanentes de promoción y asesoría de educación para adultos y darán las facilidades necesarias a sus trabajadores y familiares para estudiar y acreditar la educación preescolar, primaria y la secundaria.
 
 Quienes participen voluntariamente brindando asesoría en tareas relativas a esta educación tendrán derecho, en su caso, a que se les acredite como servicio social.
 
@@ -506,9 +534,11 @@ IV.- Los criterios y procedimientos de evaluación y acreditación para verifica
 
 En los programas de estudio deberán establecerse los propósitos específicos de aprendizaje de las asignaturas u otras unidades de aprendizaje dentro de un plan de estudios, así como los criterios y procedimientos para evaluar y acreditar su cumplimiento. Podrán incluir sugerencias sobre métodos y actividades para alcanzar dichos propósitos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 48.
 
-La Secretaría determinará los planes y programas de estudio, aplicables y obligatorios en toda la República, de la educación primaria, la secundaria, la educación normal y demás para la formación de maestros de educación básica.
+La Secretaría determinará los planes y programas de estudio, aplicables y obligatorios en toda la República Mexicana, de la educación preescolar, la primaria, la secundaria, la educación normal y demás para la formación de maestros de educación básica, de conformidad a los principios y criterios establecidos en los artículos 7 y 8 de esta Ley.
 
 Para tales efectos la Secretaría considerará las opiniones de las autoridades educativas locales, y de los diversos sectores sociales involucrados en la educación, expresadas a través del Consejo Nacional de Participación Social en la Educación a que se refiere el artículo 72.
 
@@ -532,9 +562,11 @@ Las instituciones deberán informar periódicamente a los educandos y, en su cas
 
 #### Sección 3.- Del calendario escolar
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 51.
 
-La autoridad educativa federal determinará el calendario escolar aplicable en toda la República, para cada ciclo lectivo de la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, necesarios para cubrir los planes y programas aplicables. El calendario deberá contener doscientos días de clase para los educandos.
+La autoridad educativa federal determinará el calendario escolar aplicable a toda la República, para cada ciclo lectivo de la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, necesarios para cubrir los planes y programas aplicables. El calendario deberá contener doscientos días de clase para los educandos.
 
 La autoridad educativa local podrá ajustar el calendario escolar respecto al establecido por la Secretaría, cuando ello resulte necesario en atención a requerimientos específicos de la propia entidad federativa. Los maestros serán debidamente remunerados si la modificación al calendario escolar implica más días de clase para los educandos que los citados en el párrafo anterior.
 
@@ -546,9 +578,11 @@ Las actividades no previstas en los planes y programas de estudio, o bien la sus
 
 De presentarse interrupciones por caso extraordinario o fuerza mayor, la autoridad educativa tomará las medidas para recuperar los días y horas perdidos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 53.
 
-El calendario que la Secretaría determine para cada ciclo lectivo de educación primaria, de secundaria, de normal y demás para la formación de maestros de educación básica, se publicará en el Diario Oficial de la Federación.
+El calendario que la Secretaría determine para cada ciclo lectivo de educación preescolar, de primaria, de secundaria, de normal y demás para la formación de maestros de educación básica, se publicará en el Diario Oficial de la Federación.
 
 El calendario aplicable en cada entidad federativa deberá publicarse en el órgano informativo oficial de la propia entidad.
 
@@ -558,7 +592,9 @@ El calendario aplicable en cada entidad federativa deberá publicarse en el órg
 
 Los particulares podrán impartir educación en todos sus tipos y modalidades.
 
-Por lo que concierne a la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, deberán obtener previamente, en cada caso, la autorización expresa del Estado. Tratándose de estudios distintos de los antes mencionados, podrán obtener el reconocimiento de validez oficial de estudios.
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+Por lo que concierne a la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, deberán obtener previamente, en cada caso, la autorización expresa del Estado, tratándose de estudios distintos de los antes mencionados podrán obtener el reconocimiento de validez oficial de estudios.
 
 La autorización y el reconocimiento serán específicos para cada plan de estudios. Para impartir nuevos estudios se requerirá, según el caso, la autorización o el reconocimiento respectivos.
 
@@ -572,7 +608,9 @@ I.- Con personal que acredite la preparación adecuada para impartir educación 
 
 II.- Con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad otorgante determine. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento, y
 
-III.- Con planes y programas de estudio que la autoridad otorgante considere procedentes, en el caso de educación distinta de la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica.
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+III.- Con planes y programas de estudio que la autoridad otorgante considere procedentes, en el caso de educación distinta de la preescolar, la primaria, la secundaria, la normal, y demás para la formación de maestros de educación básica.
 
 ###### ARTICULO 56.
 
@@ -670,7 +708,9 @@ V.- Opinar, en los casos de la educación que impartan los particulares, en rela
 
 Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
-I.- Hacer que sus hijos o pupilos, menores de edad, reciban la educación primaria y la secundaria;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+I.- Hacer que sus hijos o pupilos menores de edad, reciban la educación preescolar, la primaria y la secundaria;
 
 II.- Apoyar el proceso educativo de sus hijos o pupilos, y
 
@@ -756,7 +796,9 @@ III.- Suspender clases en días y horas no autorizados por el calendario escolar
 
 IV.- No utilizar los libros de texto que la Secretaría autorice y determine para la educación primaria y secundaria;
 
-V.- Incumplir los lineamientos generales para el uso de material educativo para la educación primaria y la secundaria;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+V.- Incumplir los lineamientos generales para el uso de material educativo para la educación preescolar, la primaria y la secundaria;
 
 VI.- Dar a conocer antes de su aplicación, los exámenes o cualesquiera otros instrumentos de admisión, acreditación o evaluación, a quienes habrán de presentarlos;
 
@@ -792,7 +834,9 @@ I.- Ostentarse como plantel incorporado sin estarlo;
 
 II.- Incumplir con lo dispuesto en el artículo 59, e
 
-III.- Impartir la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, sin contar con la autorización correspondiente.
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+III.- Impartir la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, sin contar con la autorización correspondiente.
 
 En los supuestos previstos en este artículo, además de la aplicación de las sanciones señaladas en la fracción I del artículo 76, podrá procederse a la clausura del plantel respectivo.
 
@@ -907,3 +951,11 @@ D.O.F. 13 DE MARZO DE 2003.
 SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE DICIEMBRE DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Con el objetivo de dar cumplimiento a lo señalado en la parte final del Artículo Cuarto Transitorio del Decreto por el que se modifican los artículos 3o. y 31 de la Constitución Política de los Estados Unidos Mexicanos, la Secretaría proveerá lo necesario para implementar programas de capacitación que permitan en un tiempo perentorio, garantizar la equidad de la calidad educativa y en su caso expedir la certificación que lo haga constar a quienes a la fecha de entrada en vigor de dicho Decreto, impartan el nivel.
+
+Artículo Tercero.- La consideración del nivel de preescolar como prerrequisito para el ingreso al nivel de educación primaria, se hará de conformidad con la calendarización que establece el Artículo Quinto Transitorio del Decreto por el que se modifican los artículos 3o. y 31 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación del 12 de noviembre del 2002.
