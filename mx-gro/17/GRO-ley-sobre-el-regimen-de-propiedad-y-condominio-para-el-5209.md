@@ -4,7 +4,7 @@ identifier: "GRO-ley-sobre-el-regimen-de-propiedad-y-condominio-para-el-5209"
 country: "mx"
 rank: "ley"
 publication_date: "1956-12-12"
-last_updated: "1956-12-12"
+last_updated: "1988-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY SOBRE EL REGIMEN DE PROPIEDAD Y CONDOMINIO PARA EL ESTADO DE GUERRERO NUMERO 103.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1988.
 
 Ley publicada en el Periódico Oficial, el 12 de diciembre de 1956.
 
@@ -363,6 +363,58 @@ Unicamente los mexicanos por nacimiento y las sociedades legalmente constituidas
 
 Los Notarios y el Registrador Público de la Propiedad en el Estado, cuando intervengan en operaciones de transmisión de propiedades de Condominio, ajustarán su procedimiento al Reglamento de la Ley Orgánica de la Fracción I del Artículo 27 Constitucional.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 17 DE JUNIO DE 1988)</small>
+
+### CAPITULO IX
+
+> <small>(ADICIONADO, P. O. 17 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 50.
+
+El régimen de propiedad en condominio de carácter vecinal en un régimen que será normado por las disposiciones de la presente Ley, las que convenga la declaratoria de autoridades competentes que lo autoricen, las de las escrituras en que se hubiera establecido dicho régimen y las demás disposiciones jurídicas aplicables y que no se opongan a lo dispuesto en este Capítulo.
+
+> <small>(ADICIONADO, P. O. 17 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 51.
+
+El régimen de propiedad en condominio de carácter vecinal podrá constituirse:
+
+A).- En inmuebles que sean enajenados para ese fin por el Gobierno Federal o Estatal y los Municipios, siempre y cuando tengan como finalidad el fomento de la vivienda.
+
+B).- En inmuebles, en cuya adquisición participen con financiamientos para el mismo fin las Entidades descritas en el párrafo anterior.
+
+C).- En inmuebles que sean adquiridos por sus ocupantes o inquilinos en cuya adquisición o enajenación también intervengan las Entidades descritas.
+
+D).- En inmuebles y predios incluidos en los programas habitacionales del Gobierno del Estado o sus Organismos y que oportunamente se aprueben.
+
+E).- En inmuebles dedicados a vivienda que cambien por voluntad de los propietarios o copropietarios, o en su caso de los inquilinos que las habiten, al régimen a que se refiere este Capítulo.
+
+El régimen de propiedad en condominio de carácter vecinal, sólo podrá constituirse en viviendas de interés social y locales anexos.
+
+> <small>(ADICIONADO, P. O. 17 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 52.
+
+El régimen de propiedad de condominio de carácter vecinal, deberá de ser autorizado por la Secretaría de Desarrollo Urbano y Obras Públicas del Gobierno del Estado, debiendo describir las características del proyecto que apruebe y los requisitos administrativos a que deberá de sujetarse el proyecto.
+
+> <small>(ADICIONADO, P. O. 17 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 53.
+
+La formalización de los actos y contratos en los que se hagan constar la constitución del régimen de propiedad en condominio a que se refiere el Artículo 49, tendrá el tratamiento que determine el Gobierno del Estado a través de la Secretaría de Desarrollo Urbano y Obras Públicas.
+
+> <small>(ADICIONADO, P. O. 17 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 54.
+
+Para la administración y vigilancia en los inmuebles sujetos a la constitución del régimen de propiedad en condominio vecinal, la declaratoria contenida en escritura pública a que se refiere el Artículo 2o. de esta Ley, también deberá de obtenerse una declaración o autorización por parte de la Secretaría de Desarrollo Urbano y Obras Públicas del Gobierno del Estado, respecto a que sea factible el proyecto general una vez que se hayan cubierto los requisitos pertinentes al caso.
+
+> <small>(ADICIONADO, P. O. 17 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 55.
+
+Dado su carácter de régimen excepcional de los condominios de carácter vecinal para su constitución se podrá eximir a los propietarios o copropietarios de cumplir con el requisito a que se refiere el Artículo 2o. inciso f) de esta Ley, sin que ello lo exima del pago de contribuciones correspondientes.
+
 T R A N S I T O R I O S :
 
 PRIMERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
@@ -392,3 +444,9 @@ ING. DARIO L. ARRIETA MATEOS
 EL SECRETARIO GRAL. DE GOBIERNO
 
 Lic. Luis Téllez Bustamante
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P. O. 17 DE JUNIO DE 1988.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
