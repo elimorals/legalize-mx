@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-23212"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2001-12-25"
+last_updated: "2003-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2003
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre del 2001.
 
@@ -100,6 +100,8 @@ Queda prohibido en el Estado de Tamaulipas el empleo de animales vivos para prá
 ###### ARTICULO 10.
 
 Queda prohibido azuzar animales o provocar que se acometan entre ellos, o hacer de las peleas así provocadas, un espectáculo público o privado.
+
+> <small>(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE REGULA LA CELABRACIÓN DE ESPECTÁCULOS TAURINOS EN EL ESTADO DE TAMAULIPAS, P.O. 20 DE MAYO DE 2003)</small>
 
 Las corridas de toros, novillos o becerros, charreadas y rodeos; así como las peleas de gallos, carrera de caballos y perros, habrán de sujetarse a los reglamentos y disposiciones establecidas en la Legislación Federal.
 
@@ -322,3 +324,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los trece días del mes de diciembre de año dos mil uno.
 
 ATENTAMENTE .-"SUFRAGIO EFECTIVO. NO REELECCION". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- El SECRETARIO GENERAL DE GOBIERNO ENCARGADO DEL DESPACHO POR MINISTERIO DE LEY.- BLADIMIR MARTINEZ RUIZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MAYO DE 2003
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO TERCERO.
+
+Queda sin efectos la parte relativa a corridas de toros, novillos o becerros, del párrafo segundo del artículo 10 de la Ley de Protección a los Animales para el Estado de Tamaulipas, ya que habrá de sujetarse a las disposiciones normativas del presente cuerpo legal a su entrada en vigor.
