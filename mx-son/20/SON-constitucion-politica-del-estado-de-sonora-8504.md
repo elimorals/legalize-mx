@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1983-01-03"
+last_updated: "1983-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE ENERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE DICIEMBRE DE 1983.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -273,19 +273,43 @@ Forma de Gobierno.
 
 De acuerdo con la Constitución General de de (sic) los Estados Unidos Mexicanos, el Estado de Sonora adopta para su régimen interior la forma de gobierno republicano, representativo y popular, teniendo como base de su división territorial y organización política y administrativa el Municipio Libre, según la presente Constitución y las leyes que de ella emanen.
 
-### CAPITULO I.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
-Disposiciones Generales.
+### CAPITULO III.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Economía Pública y Planeación del Desarrollo.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
+
+Artículo 25 A. El Gobierno del Estado está obligado a promover, orientar y conducir el desarrollo económico, social, político y cultural de la población de la Entidad, mediante el fomento del crecimiento económico, del empleo y una más justa distribución del ingreso y la riqueza con la más amplia participación de la sociedad.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
+
+Artículo 25 B. Los sectores público, privado y social concurrirán con solidaridad en el desarrollo integral del Estado. El sector público bajo el esquema de economía mixta, impulsará por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
+
+Artículo 25 C. La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de las responsabilidades del Gobierno del Estado y de los Gobiernos Municipales, sobre el desarrollo integral de la entidad, de acuerdo a los principios, fines y objetivos políticos, sociales, culturales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado Libre y Soberano de Sonora.
+
+El Estado considera la planeación del desarrollo como actividad de interés público.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
+
+Artículo 25 D. Habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la Administración Pública Estatal y en igual forma existirá un Plan de Desarrollo por cada Municipio de la Entidad, al que se sujetarán los programas de los Gobiernos Municipales.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
+
+Artículo 25 E. La Ley determinará los procedimientos de participación y consulta popular en el proceso de planeación y los criterios para la formulación, instrumentación, control y evaluación de los planes y los programas de desarrollo y los órganos responsables. Asimismo, las bases para que el Ejecutivo Estatal coordine mediante convenios con los Gobiernos Federal y Municipal e induzca y concierte con las representaciones de los sectores social y privado las acciones a realizar para su elaboración y ejecución.
 
 ## TITULO CUARTO.
 
 División de Poderes.
 
-### CAPITULO II.
+### CAPITULO I.
 
-Poder Legislativo.
+Disposiciones Generales.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 26.
 
@@ -303,9 +327,9 @@ No podrán reunirse dos o más Poderes en una sola persona o corporación, ni de
 
 Los Poderes del Estado residirán en la capital del mismo. Esta será la ciudad de Hermosillo, sin perjuicio de la facultad concedida al Congreso en el Artículo 64 fracción XIV de la presente Constitución.
 
-### CAPITULO III.
+### CAPITULO II.
 
-Poder Ejecutivo.
+Poder Legislativo.
 
 #### SECCION I.
 
@@ -743,9 +767,9 @@ X. Las demás que expresamente le confiere esta Constitución.
 
 Elección y Funcionamiento.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-Poder Judicial.
+Poder Ejecutivo.
 
 #### SECCION II.
 
@@ -767,11 +791,9 @@ Instrucción Pública.
 
 Ministerio Público.
 
-### CAPITULO UNICO.
+### CAPITULO IV.
 
-Municipios y Comisarías.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Poder Judicial.
 
 #### SECCION V.
 
@@ -897,13 +919,13 @@ III. Iniciar ante el Congreso las leyes y decretos que juzgue convenientes para 
 
 IV. Hacer cumplir las resoluciones de los tribunales y prestar a éstos los medios que necesiten para el ejercicio expedito de sus funciones.
 
-V. Cuidar de que las Autoridades que dependan del Ejecutivo cumplan estrictamente con las obligaciones que les imponen la Constitución Federal, esta Local y las leyes que de ellas emanen, corrigiendo las faltas que notare con multa hasta de trescientos pesos o con arresto que no exceda de treinta y seis horas. Si el infractor no pagare la multa que se le hubiere impuesto, se le aplicará en su lugar el arresto correspondiente que en ningún caso excederá de quince días. El Ejecutivo impondrá asimismo las correcciones disciplinarias que procedan por las faltas en que incurrieren el Secretario de Gobierno, el Procurador General de Justicia y el Tesorero General del Estado.
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADA, B.O. 20 DE JUNIO DE 1956)</small>
+V. Exigir de las autoridades que dependan del Ejecutivo del Estado, el cumplimiento estricto de las obligaciones que les imponen la Constitución Federal, la Estatal y las Leyes que de ellas emanen, aplicándoles las sanciones a que se hagan acreedores, en los términos que prevengan las leyes.
 
-VI. Imponer correccionalmente a los particulares que desobedecieren sus órdenes o le faltaren al respeto en su carácter oficial, multa que no excederá de quinientos pesos o arresto por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días. Si el infractor fuese jornalero u obrero, no podrá ser sancionado con multa mayor del importe de su jornal o sueldo en una semana.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
-Imponer asímismo, las sanciones que por infracciones a las Leyes y Reglamentos Gubernativos se señalen en los mismos, cuando en tales Ordenamientos no se especifique qué Autoridad debe imponerlas.
+VI. Imponer las sanciones administrativas que determinen las leyes y reglamentos.
 
 VII. Presentar cada año ante el Congreso durante la primera quincena del mes de noviembre, los proyectos de presupuestos de ingresos y egresos del Estado, que deberán regir en el año fiscal inmediato siguiente, y en la primera quincena del segundo periodo de sesiones ordinarias, la cuenta de gastos del año anterior.
 
@@ -927,9 +949,11 @@ XIV. En caso de sublevación o de trastorno interior en el Estado, excitar, de a
 
 XV. Auxiliar, a solicitud de sus Ayuntamientos, a los Municipios de la entidad a fin de mejorar la ejecución de obras, la prestación de servicios o cualquier otro propósito del que se derive un mejoramiento de la administración y fortalecimiento de la autonomía municipal.
 
-> <small>(REFORMADA, B.O. 18 DE JUNIO DE 1977)</small>
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
-XVI. Celebrar convenios con el Ejército Federal y con los Ayuntamientos de la entidad, de los que se deriven la ejecución de obras, la prestación de servicios o el mejoramiento común de la Hacienda Pública, así como el cumplimiento de cualquier propósito de beneficio colectivo.
+XVI. Celebrar convenios con el Ejecutivo Federal, en los términos de ley, de los que se deriven la asunción por parte del Estado de funciones, la ejecución y operación de obras y la prestación de servicios públicos del Gobierno Federal, cuando el desarrollo económico y social lo hagan necesario.
+
+Asimismo, podrá celebrar convenios con los Ayuntamientos de la entidad, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior, o bien, la asunción de funciones, la ejecución y operación de obras y la prestación de servicios públicos del Gobierno Estatal cuando el desarrollo económico y social lo hagan necesario.
 
 XVII. Declarar la utilidad pública y decretar la expropiación, de acuerdo con lo prevenido en el artículo 27 de la Constitución General, ajustando sus procedimientos a las leyes correspondientes.
 
@@ -1017,15 +1041,19 @@ XII. Disponer en ningún caso, bajo ningún pretexto, de los bienes considerados
 
 XIII. Conceder licencias para juegos de azar.
 
-> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 81.
 
-Para el Despacho de los negocios que esta Constitución encomienda al Ejecutivo habrá un Secretario de Gobierno, quien tendrá las facultades y obligaciones que le confieren esta Constitución y la Ley Orgánica del Poder Ejecutivo del Estado. Para ocupar este cargo, son necesarios los mismos requisitos que para ser Gobernador.
+Para el despacho de los asuntos de orden administrativo del Poder Ejecutivo, la administración pública será directa y paraestatal, conforme a la Ley Orgánica que expida el Congreso del Estado, la cual definirá las facultades que serán competencia de la administración directa y definirá las bases generales de creación, operación, vigilancia y supresión del sector paraestatal.
 
-Además habrá un Subsecretario de Gobierno, quien auxiliará en sus funciones y suplirá en sus ausencias temporales al Secretario de Gobierno y tendrá las facultades y obligaciones que les señale la Ley Orgánica del Poder Ejecutivo.
+Habrá un Secretario de Gobierno, quien tendrá las facultades y obligaciones que le confiere esta Constitución y demás leyes. Además, habrá los Secretarios de Despacho, Tesorero General del Estado, Oficial Mayor y demás órganos y unidades que la administración requiera, quienes tendrán las atribuciones que le señalen la Ley Orgánica.
 
-Además de los funcionarios anteriores y los que establezca esta Constitución, habrá el número de Secretarías funcionarios y dependencias, que señalen la Ley Orgánica del Poder Ejecutivo y los demás órganos y unidades administrativas que la administración requiera.
+El Subsecretario de Gobierno auxiliará en sus funciones y suplirá en sus ausencias temporales al Secretario de Gobierno y tendrá las facultades y obligaciones que le señale la Ley Orgánica del Poder Ejecutivo.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
+
+Artículo 81 A. Para ser Secretario de Gobierno se deben reunir los mismos requisitos que para ser Gobernador del Estado. Para ser Secretario de Despacho, Oficial Mayor y Tesorero General del Estado, se requiere ser mexicano por nacimiento, mayor de treinta años de edad y estar en ejercicio de sus derechos.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1227,9 +1255,11 @@ El Jefe de Defensores rendirá la protesta de Ley ante el Ejecutivo y será subs
 
 Para ser Defensor de Oficio se necesitan los mismos requisitos que para ser Agente del Ministerio Público.
 
-### CAPÍTULO II. De la Reproducción, Cría y Enajenación de Animales Silvestres
+### CAPITULO UNICO.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+Municipios y Comisarías.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 112.
 
@@ -1655,9 +1685,17 @@ Prevenciones Generales.
 
 Por ningún motivo podrán subastarse las contribuciones del Estado o del Municipio.
 
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 150.
 
-Todos los contratos que el Gobierno del Estado deba celebrar para la ejecución de Obras Públicas se arreglarán en pública subasta.
+Los recursos económicos de que disponga el Gobierno del Estado, así como sus respectivas administraciones públicas paraestatales, se administrarán con eficiencia y honradez para cumplir los objetivos y programas a los que estén destinados.
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevará a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimiento, reglas, requisitos y demás elementos para acreditar la economía, eficacia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
+
+El manejo de recursos económicos estatales se sujetará a las bases de esta Constitución.
 
 > <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -2088,6 +2126,22 @@ B.O. 3 DE ENERO DE 1983.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE DICIEMBRE DE 1983.
+
+LEY No. 32, QUE ADICIONA EL CAPITULO TERCERO Y DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE DICIEMBRE DE 1983.
+
+LEY No. 33, QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación e el Boletín Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
