@@ -4,7 +4,7 @@ identifier: "COA-ley-del-servicio-medico-para-los-trabajadores-de-la-4786"
 country: "mx"
 rank: "ley"
 publication_date: "1969-02-08"
-last_updated: "1969-02-08"
+last_updated: "1990-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SERVICIO MEDICO PARA LOS TRABAJADORES DE LA EDUCACION DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1990.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el sábado 8 de febrero de 1969.
 
@@ -269,13 +269,17 @@ I.- Ser miembro activo de la organización estatal sindical de los trabajadores 
 
 II.- Ser de reconocida competencia y honorabilidad.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1990)</small>
+
 ###### ARTICULO 29o.
 
-Los integrantes del Consejo de Administración durarán en su cargo tres años y serán designados por la organización estatal sindical de los trabajadores de la educación pública, en Asamblea General de Representantes y rendirán su protesta ante la misma Asamblea que los designe.
+Los integrantes del Consejo de Administración durarán en su cargo tres años y podrán ser removidos cuando exista causa suficiente que lo amerite.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1990)</small>
 
 ###### ARTICULO 30o.
 
-Fungirá como Presidente del Consejo de Administración, en todo caso, el Secretario de Acción Social de la organización estatal sindical de los trabajadores de la educación pública.
+Los integrantes del Consejo de Administración serán designados por el Comité Ejecutivo Seccional a propuesta del Organo Máximo de Gobierno Sindical de la Sección 38 del S.N.T.E.
 
 ###### ARTICULO 31o.
 
@@ -512,3 +516,11 @@ El Secretario del Ejecutivo del Estado.
 LIC. JOSE RAMIREZ MIJARES.
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE JUNIO DE 1990.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
