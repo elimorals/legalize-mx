@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "1970-04-25"
+last_updated: "1971-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1971.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -2543,7 +2543,9 @@ La resolución en que se declara que una sentencia ha causado o no ejecutoria, n
 
 ## TITULO OCTAVO. De los juicios sumarios
 
-### CAPITULO II. Disposiciones especiales para el juicio sobre arrendamiento
+### CAPITULO II. Del juicio sumario de desahucio
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1971)</small>
 
 ###### Art. 511.
 
@@ -2617,77 +2619,105 @@ Los incidentes que no tengan señalada tramitación especial en este Código, se
 
 En el caso de la fracción XV del artículo 511, una vez recibida por el juez el acta levantada por el oficial del Registro Civil, que contenga la denuncia del impedimento, se citará al denunciante, a los pretendientes y al Ministerio Público para una audiencia, en que expresarán lo que convenga a sus respectivas pretensiones. En caso necesario se recibirá a prueba el juicio por diez días, ajustándose la tramitación a las disposiciones de este capítulo.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE ABRIL DE 1971)</small>
+
 ### CAPITULO III. Del juicio hipotecario
 
 ###### Art. 521.
 
-Cuando la demanda de desocupación se funde en la falta de pago de pensiones, se observarán las disposiciones de este capítulo. En los demás casos se sujetará a las reglas generales de los juicios sumarios.
+La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará con el contrato escrito del arrendamiento. En caso de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental o cualquiera otra bastante como medio preparatorio del juicio.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1971)</small>
 
 ###### Art. 522.
 
-Si la renta anual del predio cuya desocupación se pida no exceda de doscientos pesos, el juicio será verbal, y se promoverá ante el juez de paz de la localidad en que esté ubicada la finca.
+Presentada la demanda con el documento o la justificación correspondiente, dictará auto el juez mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas, y no haciéndolo, se le prevenga que dentro de veinte días si la finca sirve para habitación, o dentro de cuarenta días si sirve para giro mercantil o industrial, o dentro de noventa si fuere rústica, proceda a desocupar la apercibido de lanzamiento a su costa si no lo verifica. En el mismo acto se le emplazará para que dentro de tres días ocurra a oponer las excepciones que tuviere.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1971)</small>
 
 ###### Art. 523.
 
-El juicio procederá en los casos previstos por el artículo 2391, fracción I, del Código Civil.
+Si en el acto de la diligencia justificare el arrendatario, con los recibos correspondientes, haber hecho el pago de las pensiones reclamadas, o exhibiere su importe o copia sellada por un juzgado de escritos de ofrecimiento de pago a los que hubiere acompañado los certificados de depósito respectivos, se suspenderá la diligencia, asentándose constancia de estas circunstancias en el acta y agregándose los justificantes que se presenten, para dar cuenta al juzgado. Si se exhibiere el importe, se mandará entregar al actor sin más trámite y se dará por terminado el procedimiento.
+
+Si se exhibieren copias de escritos de ofrecimiento de pago, se pedirán en su caso, los originales por oficio al juzgado en que se encuentren, así como los correspondientes certificados. Recibidos éstos se dará por terminado el procedimiento y se entregarán los certificados al arrendador a cambio de los recibos correspondientes. En caso de presentarse recibos de pago, se mandará dar vista al actor por el término de tres días; si no los objeta, se dará por concluido el juicio; si los objeta, se citará para la audiencia de pruebas y alegatos a que se refiere el artículo 526.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1971)</small>
 
 ###### Art. 524.
 
-Cuando la demanda por desocupación se entable presentándose el actor con el documento relativo al contrato, el juez dictará auto mandando que el actuario requiera al inquilino para que en el acto acredite, con el recibo correspondiente, haber cubierto la pensión o pensiones estipuladas, y no justificándolo, le prevendrá que proceda a desocupar la finca dentro de cuarenta y cinco días, si el predio es urbano, o dentro de tres meses si fuese rústico, apercibiéndolo de lanzamiento a su costa, si no lo verifica.
+Cuando durante el plazo fijado para el desahucio, exhiba el inquilino el recibo de las pensiones debidas o el importe de ellas, dará el juez por terminada la providencia de lanzamiento sin condenación en costas.
 
-En caso de no ser necesario conforme a la ley el contrato escrito, o de haberse cumplido el convenio voluntariamente por ambos contratantes, sin otorgamiento de documento, se justificará el contrato por medio de información testimonial, prueba documental o cualquiera otra bastante.
+Si el recibo presentado es de fecha posterior a la exhibición o la exhibición del importe de las pensiones se hace fuera del término señalado para el desahucio, también se dará por concluida la providencia de lanzamiento, pero se condenará al inquilino al pago de las costas causadas.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1971)</small>
 
 ###### Art. 525.
 
-No encontrándose el demandado en la primera busca, se le dejará cédula para que espere el día siguiente, a la hora que se le señale. En la misma cédula se le apercibirá de que de no esperar, se entenderá la diligencia de requerimiento con cualquier persona que se encuentre en la casa.
+Los beneficios de los plazos que este capítulo concede a los inquilinos, no son renunciables.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1971)</small>
 
 ###### Art. 526.
 
-Si en la casa no hubiere ninguna persona o estuviese cerrada, la cédula de emplazamiento a que se refiere el anterior artículo, será entregada a cualquier vecino de los que vivan en las casas inmediatas.
+En caso de que se opongan otras excepciones por el inquilino, se mandará dar vista con ellas al actor, citándose para audiencia de pruebas y alegatos dentro de los ocho días siguientes, teniendo en cuenta que esta audiencia debe efectuarse antes del vencimiento del término fijado para el lanzamiento.
+
+El juez debe desechar de plano las excepciones diversas a las que el Código Civil, en los artículos 2,335 a 2,338 y 2,348, concede al inquilino para no pagar la renta, siendo éstas inadmisibles si no se ofrecen con sus pruebas.
+
+Son improcedentes la reconvención y la compensación.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1971)</small>
 
 ###### Art. 527.
 
-Cumplido lo dispuesto, en su caso, en los dos artículos anteriores, si el demandado no esperase para la diligencia de requerimiento, se practicará ésta por su orden con cualquiera de las personas mencionadas en dichos dos artículos; se levantará acta de la diligencia, concluyendo con el requerimiento de que habla el artículo 524 y se entregará copia a la persona con quien se haya entendido la diligencia.
+La sentencia que decrete el desahucio será apelable en el efecto devolutivo y se sujetará sin necesidad de ser engrosada y sin el otorgamiento de fianza. La que lo niegue será apelable en ambos efectos.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1971)</small>
 
 ###### Art. 528.
 
-Si en el acto del requerimiento el inquilino exhibiere el importe de las rentas, se hará constar el hecho y se dará vista al actor para que exponga lo que convenga a su derecho. Si el demandante no se opusiere, se sobreseerá la providencia de lanzamiento; pero si hubiere oposición, el juez resolverá, con vista de lo expuesto por las partes en una audiencia, si se continúan las diligencias o si se sobresee, reservando al actor sus derechos para que los haga valer en la vía que proceda. Lo mismo se observará cuando se exhiba el importe de las pensiones y de los gastos durante el término fijado para la desocupación.
+Si las excepciones fueren declaradas procedentes en la misma resolución, dará el tribunal por terminada la providencia de lanzamiento. En caso contrario, en la sentencia se señalará el plazo para la desocupación, que será el que falte para cumplirse el señalado por el artículo 522.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1971)</small>
 
 ###### Art. 529.
 
-Cuando al ser requerido o en el plazo señalado para la desocupación, el inquilino presente los recibos que justifiquen el pago de las rentas, si el actor no los objeta, se sobreseerá la providencia de lanzamiento. Si bajo protesta de decir verdad, no reconociere los recibos, se continuará dicha providencia, sin perjuicio de la responsabilidad penal en que hubiera incurrido la misma parte.
+La diligencia de lanzamiento se entenderá con el ejecutado o en su defecto con cualquiera persona de la familia, doméstico, portera o portero, agente de la policía o vecinos, pudiéndose romper las cerraduras de la puerta si necesario fuere. Los muebles u objetos que en la casa se encuentren, si no hubiere persona de la familia del inquilino que los recoja u otra autorizada para ello, se remitirán por inventario a la primera autoridad municipal correspondiente o al local q. (sic) designe la autoridad administrativa, dejándose constancia de esta diligencia en autos.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1971)</small>
 
 ###### Art. 530.
 
-El demandado puede oponer en el término de tres días, después del requerimiento, las excepciones que tuviere, inclusive la de pago no justificado con los recibos de la renta. Las excepciones se tramitarán en pieza separada, sin perjuicio de la providencia de lanzamiento, siguiéndose las reglas generales del juicio sumario.
+Al hacer el requerimiento que se dispone en el artículo 522, se embargarán y depositarán bienes bastantes para cubrir las pensiones reclamadas si así se hubiere decretado. Lo mismo se observará al ejecutarse el lanzamiento.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1971)</small>
 
 ###### Art. 531.
 
-No es admisible la reconvención.
+Para la ejecución del desahucio se tiene como domicilio legal del ejecutado, la finca o departamento de cuya desocupación se trata.
 
 ###### Art. 532.
 
-Si la sentencia que se dicte declara justificadas las excepciones opuestas, se condenará al actor al pago de todos los daños y perjuicios causados al demandado. Si no estuviera justificada su cuantía, se reservarán al inquilino sus derechos para que los ejercite en el juicio correspondiente.
+(DEROGADO, P.O. 27 DE ABRIL DE 1971)
 
 ###### Art. 533.
 
-No verificándose la desocupación en los términos señalados en el artículo 524, ni acreditándose o verificándose el pago de las pensiones adeudadas, conforme a lo prescrito en los artículos 528 y 529, se llevará adelante la providencia de lanzamiento, entendiéndose ésta por su orden con alguna o algunas de las personas designadas en los artículos 525 y 526, pudiendo romper las cerraduras de las puertas de la casa, si fuere necesario. Los muebles u objetos que en el predio se encuentren, si no hubiere persona de la familia del demandado que los recoja, u otra autorizada para ello, se remitirán con inventario a la primera autoridad municipal para que determine lo conveniente, dejándose constancia de esta diligencia en los autos. No impedirá el lanzamiento la circunstancia de encontrarse en la finca personas que la hayan subarrendado.
+(DEROGADO, P.O. 27 DE ABRIL DE 1971)
 
 ###### Art. 534.
 
-Al hacerse el requerimiento o al ejecutarse el lanzamiento, si el actor lo hubiese pedido, se embargarán los bienes más realizables que se encuentren en la finca, y que sean suficientes para cubrir las pensiones y gastos del juicio. Los bienes embargados se depositarán en poder del demandado, cuando el embargo se trabe en el acto del requerimiento.
+(DEROGADO, P.O. 27 DE ABRIL DE 1971)
 
 ###### Art. 535.
 
-No es admisible ningún recurso, que interponga el arrendatario en las diligencias de requerimiento y lanzamiento.
+(DEROGADO, P.O. 27 DE ABRIL DE 1971)
 
 ###### Art. 536.
 
-Si en la demanda se promovieren simultáneamente el juicio sobre el pago de renta y la providencia de lanzamiento, terminada ésta, continuará la substanciación de aquél. En este caso no se admitirán las excepciones que se hubiesen opuesto conforme al artículo 530.
+(DEROGADO, P.O. 27 DE ABRIL DE 1971)
 
 ###### Art. 537.
 
-Cuando se siga el juicio de desocupación por alguna causa que no sea la falta de pago de pensiones, si el inquilino, durante el juicio, dejare de cubrir la pensión o pensiones que deba satisfacer, se procederá al lanzamiento, observándose lo dispuesto en el artículo 524, si el actor lo pidiere.
+(DEROGADO, P.O. 27 DE ABRIL DE 1971)
 
 ### CAPITULO IV. Del ofrecimiento de pago y de la consignación
 
@@ -6772,3 +6802,7 @@ El presente decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 27 DE ABRIL DE 1971.
+
+UNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
