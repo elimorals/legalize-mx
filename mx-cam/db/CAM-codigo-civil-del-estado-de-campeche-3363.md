@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "1942-10-17"
+last_updated: "1943-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1943.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -2297,7 +2297,7 @@ El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido defin
 
 ###### Art. 410.
 
-El menor que haya sido adoptado, podrá impugnar la adopción dentro del año siguiente a la mayor edad o la fecha en que cesare cualquiera otra incapacidad si la hubiere.
+El menor que haya sido adoptado, podrá impugnar la adopción dentro del año siguiente a la mayor edad o a la fecha en que cesare cualquiera otra incapacidad si la hubiere.
 
 ###### Art. 411.
 
@@ -12433,7 +12433,7 @@ El mandato puede ser escrito o verbal.
 
 El mandato verbal es el otorgado de palabra entre presentes, hayan o no intervenido testigos.
 
-Cuando el mandato haya sido verbal debe ratificarse por escrito antes de que concluya el negocio para que se dió
+Cuando el mandato haya sido verbal debe ratificarse por escrito antes de que concluya el negocio para que se dió.
 
 ###### Art. 2452.
 
@@ -15078,3 +15078,13 @@ Dado en el Palacio del Poder Legislativo del Estado, en Campeche, a los trece d�
 Por tanto mando se imprima, publique y circule para su debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo del Estado, en Campeche, a los trece días del mes de octubre del año de mil novecientos cuarenta y dos.- El Gobernador Constitucional del Estado, Dr. Héctor Pérez Martínez.- El Secretario General de Gobierno Interino, Lic. Francisco Alvarez Barret.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 5 DE ENERO DE 1943.
+
+POR SU IMPORTANCIA SE TRANSCRIBE EL ARTICULO UNICO DEL DECRETO.
+
+###### ARTICULO UNICO.
+
+EL CODIGO CIVIL DEL ESTADO A QUE SE HACE MENCION, COMENZARA A REGIR EL DIA QUINCE DE LOS CORRIENTES MES Y AÑO.
