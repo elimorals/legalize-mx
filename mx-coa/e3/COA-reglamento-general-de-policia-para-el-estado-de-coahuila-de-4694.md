@@ -4,7 +4,7 @@ identifier: "COA-reglamento-general-de-policia-para-el-estado-de-coahuila-de-469
 country: "mx"
 rank: "reglamento"
 publication_date: "1943-02-24"
-last_updated: "1943-02-24"
+last_updated: "1971-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO GENERAL DE POLICIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 1971.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el miércoles 24 de febrero de 1943.
 
@@ -101,9 +101,11 @@ En las poblaciones cuyo vecindario llegue a cuatro mil o más habitantes, la Pol
 
 El uniforme será a cuenta de los fondos Municipales.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1971)</small>
+
 ###### ARTICULO 13.
 
-En todas las poblaciones los Agentes de la Policía estarán provistos de pistola, macana y silbato, y los de a caballo substituirán la macana con el sable.
+Los agentes de la policía estarán provistos del equipo que determine el Ejecutivo del Estado, a proposición del Ayuntamiento respectivo.
 
 ### CAPITULO CUARTO.
 
@@ -1070,3 +1072,9 @@ BENECIO LOPEZ PADILLA.- (Rúbrica).
 EL SRIO. DEL EJVO. DEL EDO.
 
 LIC. FRANCISCO LOPEZ SERRANO.- (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 1971.
+
+UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
