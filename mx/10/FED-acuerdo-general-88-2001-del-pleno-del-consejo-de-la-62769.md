@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-88-2001-del-pleno-del-consejo-de-la-62769"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-12-13"
-last_updated: "2001-12-13"
+last_updated: "2002-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62769&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-12-07"
 
 ACUERDO GENERAL 88/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, FECHA DE INICIO DE FUNCIONAMIENTO Y JURISDICCION TERRITORIAL DEL SEGUNDO TRIBUNAL COLEGIADO EN MATERIA PENAL DEL CUARTO CIRCUITO, CON RESIDENCIA EN MONTERREY, NUEVO LEON; A LA NUEVA DENOMINACION DEL ACTUAL TRIBUNAL COLEGIADO EN MATERIA PENAL DEL PROPIO CIRCUITO Y SEDE; A LA MODIFICACION DE LA EXTENSION DE COMPETENCIA DE LOS TRIBUNALES COLEGIADOS EN MATERIA DE TRABAJO DEL CUARTO CIRCUITO, ESTABLECIDA EN EL ACUERDO CCNO/14/2001 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS EN MATERIA PENAL DEL MENCIONADO CIRCUITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE FEBRERO DE 2002
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 13 de diciembre de 2001.
 
@@ -67,6 +67,8 @@ Durante el periodo señalado, la mencionada oficina de correspondencia común co
 
 Concluido el mencionado periodo, los tres tribunales colegiados en materia de trabajo del Cuarto Circuito, recobrarán la competencia para ellos establecida en el Acuerdo General 84/2000, del Pleno del Consejo de la Judicatura Federal.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/11/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 28 DE FEBRERO DE 2002, SE PRORROGA EL PLAZO DE EXCLUSION DE TURNO DE NUEVOS ASUNTOS AL PRIMER TRIBUNAL COLEGIADO EN MATERIA PENAL DEL CUARTO CIRCUITO, POR EL LAPSO DE DOS MESES, DEL 1 DE MARZO AL 30 DE ABRIL DE 2002.</small>
+
 SEXTO.- El Primer Tribunal Colegiado en Materia Penal del Cuarto Circuito quedará excluido del turno de nuevos asuntos durante el periodo que comprende del catorce de diciembre de dos mil uno al veintiocho de febrero de dos mil dos.
 
 A partir del día siguiente al en que concluya, el periodo especificado en el párrafo anterior, el órgano jurisdiccional excluido se incorporará al turno de nuevos asuntos, conforme al sistema computarizado que se utiliza para esos efectos.
@@ -88,3 +90,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 88/2001, del Pleno del Consejo de la Judicatura Federal, Relativo a la Denominación, Residencia, Competencia, Fecha de Inicio de Funcionamiento y Jurisdicción Territorial del Segundo Tribunal Colegiado en Materia Penal del Cuarto Circuito, con Residencia en Monterrey, Nuevo León; a la Nueva Denominación del Actual Tribunal Colegiado en Materia Penal del Propio Circuito y Sede; a la Modificación de la Extensión de Competencia de los Tribunales Colegiados en Materia de Trabajo del Cuarto Circuito, Establecida en el Acuerdo CCNO/14/2001 de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal; así como a las Reglas de Turno, Sistema de Recepción y Distribución de Asuntos entre los Tribunales Colegiados en Materia Penal del Mencionado Circuito, fue aprobado en sesión extraordinaria de siete de diciembre de dos mil uno, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a siete de diciembre de dos mil uno.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 28 DE FEBRERO DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
