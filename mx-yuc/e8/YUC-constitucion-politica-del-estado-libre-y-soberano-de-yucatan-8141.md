@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1961-07-19"
+last_updated: "1961-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE JULIO DE 1961.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 1961.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -887,7 +887,9 @@ I.- hacer uso del derecho de iniciar Leyes que le confiere esta Constitución;
 
 II.- ejercer las funciones de Jurado que le confiere el artículo 100 de esta Constitución;
 
-III.- nombrar y remover a los Jueces de Primera Instancia, a los Secretarios, Diligencieros y demás empleados subalternos de la Administración de Justicia;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 1961)</small>
+
+III.- nombrar y remover a los Jueces de Primera Instancia, a los miembros el Tribunal de Menores, a los Jueces de Paz, a los Secretarios, Diligencieros y demás empleados subalternos de la Administración de Justicia;
 
 IV.- admitir las renuncias que de sus encargos hagan los funcionarios y empleados referidos en la fracción anterior, así como conceder licencias a los mismos;
 
@@ -933,7 +935,9 @@ II.- formar sus presupuestos de ingresos, sin otra limitación que la de hacerlo
 
 III.- tomar dinero prestado para las necesidades públicas o para una obra de utilidad general, siempre que se obtenga en cada caso la previa aprobación del Congreso;
 
-IV.- nombrar y remover a todos los empleados de su dependencia y a los Jueces de Paz del municipio;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 1961)</small>
+
+IV.- nombrar y remover a todos los empleados de su dependencia y cubrir los emolumentos de los jueces de Paz del Municipio;
 
 V.- hacer uso del derecho de iniciar Leyes;
 
@@ -1364,6 +1368,10 @@ D.O. 19 DE JULIO DE 1961.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor, el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 30 DE SEPTIEMBRE DE 1961.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LOS ARTICULOS 1 Y 2 DEL CODIGO CIVIL VIGENTE EN EL ESTADO DE YUCATAN.
 
 ###### ARTICULO PRIMERO.
 
