@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "1993-12-29"
+last_updated: "2002-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1993.
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -211,6 +213,8 @@ Los vehículos estacionados en lugares prohibidos o que obstaculicen el libre tr
 
 La Secretaría podrá otorgar concesiones a los particulares, para que establezcan estacionamientos y pensiones de vehículos en terrenos de propiedad privada, cuando lo requiera el interés público y cumplan las condiciones de seguridad e higiene.
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
+
 ### CAPITULO VI. DEL SERVICIO PUBLICO DE TRANSPORTE
 
 ###### ARTICULO 28.
@@ -301,6 +305,8 @@ El acuerdo por el cual se otorga una concesión o un permiso de Servicio Públic
 
 Las personas físicas o morales que realicen el servicio de transporte en las modalidades de escolar, de funeraria, de carga o de personal, con vehículos de su propiedad, para la satisfacción de sus necesidades, sólo requerirán de autorización expedida por el Titular de la Secretaría, debiendo acreditar para tal caso, que sus vehículos se encuentran provistos de los equipos y dispositivos para garantizar una eficiente prestación del servicio y que además, reúnen los requisitos de seguridad e higiene previstos en esta Ley y su Reglamento.
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
+
 ### CAPITULO VII. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONCESIONARIOS
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1993)</small>
@@ -335,7 +341,9 @@ V.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1993)
 
 VI.- Otorgar las facilidades necesarias a las autoridades de la Secretaría, en la inspección de vehículos, instalaciones y documentos relacionados con la concesión.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO VIII. DE LA SUSPENSION Y CANCELACION DE LICENCIAS, CONCESIONES Y PERMISOS
 
@@ -419,6 +427,8 @@ La determinación que cancele una concesión o permiso, se decretará sin perjui
 
 El Estado tendrá en todo tiempo la facultad de prestar el servicio público de transporte, cuando así lo exija el interés social.
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
+
 ### CAPITULO IX. DE LAS COMISIONES CONSULTIVAS DEL TRANSPORTE
 
 ###### ARTICULO 46.
@@ -499,10 +509,54 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los doce días del mes de noviembre de mil novecientos ochenta y siete.- El Gobernador Constitucional del Estado, ING. AMERICO VILLARREAL GUERRA.- El Secretario General de Gobierno, LIC. HERIBERTO BATRES GARCIA.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N.DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 29 DE DICIEMBRE DE 1993.
+
+###### ARTICULO CUARTO.
+
+Los prestadores del servicio actuales deberán observar lo establecido en el artículo 92 de la ley; dispondrán de un plazo de 90 días contados a partir de la fecha en que entre en vigor el presente ordenamiento para que presenten a la Dirección el Programa de Renovación del Parque Vehicular.
+
+En dicho Programa, y a partir de que entre en vigor esta Ley, se deberá contemplar el inicio del proceso de renovación de las unidades, en los términos y plazos siguientes:
+
+I.- Servicio de pasajeros:
+
+La renovación de unidades será con vehículos de cuatro puertas y se contará con los siguientes plazos:
+
+a) De sitio.- Ciento ochenta días para unidades de modelo mil novecientos noventa y cinco y anteriores;
+
+b) Libre.- Ciento ochenta días para unidades de modelo mil novecientos noventa y ocho y anteriores; y
+
+c) De ruta.- En los términos y plazos establecidos en el Convenio que al efecto se suscriba o se encuentre vigente entre los representantes de los prestadores del servicio y el Estado.
+
+II.- Servicio especializado y de carga:
+
+Sujeto a las condiciones físicas y mecánicas que determine la Dirección.
+
+Por lo anterior, deberán relacionar en forma consecutiva las unidades que entrarán en dicho proceso, detallando las características de las mismas y el plazo para su renovación.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En tanto se expide el reglamento a que hace mención esta ley, se continuarán aplicando, de manera supletoria, en todo lo que no se oponga a la misma, el Reglamento de Tránsito y Transporte del Estado de Tamaulipas, los acuerdos relativos y demás disposiciones aplicables.
+
+###### ARTICULO TERCERO.
+
+Se deroga la Ley de Tránsito y Transporte, en lo referente a Transporte Público, publicada en el Periódico Oficial del Estado Número uno extraordinario de fecha lunes 30 de Noviembre de 1987.
+
+###### ARTICULO QUINTO.
+
+El reglamento de la presente ley deberá expedirse dentro de los ciento ochenta días siguientes a la fecha en que ésta entre en vigor.
+
+###### ARTICULO SEXTO.
+
+A efecto de dar cumplimiento a lo señalado en el Capítulo Único del Título Octavo, los prestadores actuales del servicio, en cualquiera de sus modalidades, contarán con un plazo de ciento ochenta días, a partir de que entre en vigor el Reglamento de la Ley.
