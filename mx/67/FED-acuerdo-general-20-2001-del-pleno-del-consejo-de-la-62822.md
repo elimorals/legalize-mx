@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-20-2001-del-pleno-del-consejo-de-la-62822"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-03-20"
-last_updated: "2001-03-20"
+last_updated: "2001-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62822&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-03-12"
 
 ACUERDO GENERAL 20/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA DE MANERA TEMPORAL LA COMPETENCIA Y REGLAS DE TURNO DE LOS DOS TRIBUNALES COLEGIADOS EN MATERIAS ADMINISTRATIVA Y DE TRABAJO, ASI COMO DE LOS TRES TRIBUNALES COLEGIADOS EN MATERIA CIVIL DEL SEPTIMO CIRCUITO, CON RESIDENCIA EN BOCA DEL RIO Y XALAPA, VERACRUZ, RESPECTIVAMENTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE SEPTIEMBRE DE 2001.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 20 de marzo de 2001.
 
@@ -55,6 +55,8 @@ ACUERDO
 
 PRIMERO.- Se modifica temporalmente la competencia del Primer y Segundo Tribunales Colegiados en Materias Administrativa y de Trabajo del Séptimo Circuito; así como del Primer, Segundo y Tercer Tribunales Colegiados en Materia Civil del propio Circuito, por el término y para los efectos precisados en el punto siguiente, conservando dichos órganos jurisdiccionales la denominación y jurisdicción territorial que tienen asignadas.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/12/2001, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 27 DE SEPTIEMBRE DE 2001, SE EXTIENDE EL LAPSO SEÑALADO EN EL PRESENTE PUNTO DEL UNO DE OCTUBRE AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOS.</small>
+
 SEGUNDO.- Los nuevos asuntos de materia administrativa, incluso los recursos de queja a que alude la fracción XI del artículo 95 de la Ley de Amparo, que por competencia originaria correspondería conocer a los Tribunales Colegiados en Materias Administrativa y de Trabajo del Séptimo Circuito y que se reciban del uno de abril al treinta de septiembre de dos mil uno, serán del conocimiento de los tres Tribunales Colegiados en Materia Civil del Séptimo Circuito, así como de los dos Tribunales en Materias Administrativa y de Trabajo que actualmente se encuentran instalados en el referido Circuito.
 
 Por lo anterior, durante el periodo en cita los nuevos asuntos deberán presentarse en la Oficialía de Partes Común de los Tribunales Colegiados en Materia Civil del Séptimo Circuito, la que los registrará, turnará y remitirá a los órganos jurisdiccionales federales que corresponda, conforme al sistema computarizado que para tal efecto se instale en dicha Oficialía.
@@ -80,3 +82,11 @@ PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta, así como en un diario de circulación nacional y otro de circulación en el Estado de Veracruz.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 20/2001, del Pleno del Consejo de la Judicatura Federal, que Modifica de Manera Temporal la Competencia y Reglas de Turno de los dos Tribunales Colegiados en Materias Administrativa y de Trabajo, así como de los Tres Tribunales Colegiados en Materia Civil del Séptimo Circuito, con Residencia en Boca del Río y Xalapa, Veracruz, Respectivamente, fue aprobado por el propio Pleno, en sesión extraordinaria de doce de marzo de dos mil uno, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a doce de marzo de dos mil uno.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 27 DE SEPTIEMBRE DE 2001.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
