@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-agua-potable-y-alcantarillado-del-estado-de-sinaloa-1149
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "1993-08-04"
+last_updated: "1998-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 1998.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 20 de febrero de 1984.
 
@@ -41,23 +41,33 @@ LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE SINALOA
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 1.
 
-Las disposiciones de esta Ley son de orden público, interés social y de aplicación general, por cuanto su objeto es establecer las bases y reglamentación sanitaria para la prestación de los servicios públicos de agua potable y alcantarillado en el Estado de Sinaloa.
+Las disposiciones de esta Ley son de orden público, interés social y de aplicación general, por cuanto su objeto es establecer las bases y reglamentación sanitaria para la prestación de los servicios públicos de agua potable, alcantarillado y tratamiento de aguas residuales, que para los efectos de esta Ley se denominará saneamiento, en el Estado de Sinaloa.
 
 ###### ARTICULO 2.
 
 Se declara de utilidad pública:
 
-I.- La planeación, construcción, ampliación, rehabilitación, mantenimiento y administración de las obras y servicios necesarios para la operación de los sistemas y prestación sanitaria de agua potable y alcantarillado en los centros poblados y asentamientos humanos de los Municipios del Estado de Sinaloa;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
 
-II.- La adquisición y aprovechamiento de obras hidráulicas o bienes de propiedad privada, cuando se requieran para la eficiente operación de los sistemas de agua potable y alcantarillado establecidos o por establecer;
+I.- La planeación, construcción, ampliación, rehabilitación, mantenimiento y administración de las obras y servicios necesarios para la operación de los sistemas y prestación sanitaria de agua potable, alcantarillado y saneamiento en los centros poblados y asentamientos humanos de los municipios del Estado de Sinaloa;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+II.- La adquisición y aprovechamiento de obras hidráulicas o bienes de propiedad privada, cuando se requieran para la eficiente operación de los sistemas de agua potable, alcantarillado y saneamiento establecidos o por establecer;
 
 III.- La captación, regularización, potabilización, desalación, conducción, distribución, prevención y control de la contaminación de las aguas, así como el tratamiento de las aguas residuales que se localicen dentro de los Municipios del Estado y que no sean de jurisdicción federal;
 
-IV.- La adquisición de los bienes muebles o inmuebles que sean necesarios para la construcción, ampliación, rehabilitación, conservación, mantenimiento y operación de los sistemas de agua potable y alcantarillado, incluyendo las instalaciones conexas como son los caminos de acceso y las zonas de protección; y,
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
 
-V.- La formación, modificación y manejo tanto de los padrones de usuarios, como de las tarifas conforme a las cuales serán causados los derechos por la prestación de los servicios públicos de agua potable y alcantarillado en los distintos sistemas urbanos y rurales del Estado.
+IV.- La adquisición de los bienes muebles o inmuebles que sean necesarios para la construcción, ampliación, rehabilitación, conservación, mantenimiento y operación de los sistemas de agua potable, alcantarillado y saneamiento, incluyendo las instalaciones conexas como son los caminos de acceso y las zonas de protección; y
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+V.- La formación, modificación y manejo tanto de los padrones de usuarios, como de las tarifas y cuotas de agua potable, alcantarillado y saneamiento en los distintos sistemas urbanos y rurales del Estado.
 
 ###### ARTICULO 3.
 
@@ -81,29 +91,29 @@ El reglamento de la presente Ley detallará sus características, la connotació
 
 ### CAPITULO SEGUNDO. DE LA INTEGRACION Y ATRIBUCIONES DE LOS ORGANOS DE CONSULTA, PLANEACION Y OPERACION DE LOS SISTEMAS
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 5.
 
-Los Ayuntamientos de la Entidad establecerán las políticas, lineamientos y especificaciones conforme a las cuales deberá efectuarse la construcción, ampliación, rehabilitación, administración, operación y conservación y mantenimiento de los sistemas de agua potable y alcantarillado de los centros poblados y asentamientos humanos correspondientes.
+Los Ayuntamientos de la Entidad establecerán las políticas, lineamientos y especificaciones conforme a las cuales deberá efectuarse la construcción, ampliación, rehabilitación, administración, operación, conservación y mantenimiento de los sistemas de agua potable, alcantarillado y saneamiento de los centros poblados y asentamientos humanos correspondientes.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 6.
 
-Para consulta y asesoramiento, en materia de agua potable y alcantarillado, del Ejecutivo del Estado, de los Ayuntamientos y de las Juntas Municipales, se establece la Comisión Estatal de Agua Potable y Alcantarillado como un Organismo Público Descentralizado de la Administración Estatal, con personalidad jurídica y patrimonio propios, la cual tendrá su domicilio social en la capital del Estado.
+Para consulta y asesoramiento, en materia de agua potable, alcantarillado y saneamiento, del Ejecutivo del Estado, de los Ayuntamientos y de las Juntas Municipales, en adelante Juntas, se establece la Comisión Estatal de Agua Potable y Alcantarillado de Sinaloa, en adelante la Comisión, como un organismo público descentralizado de la administración estatal, con personalidad jurídica y patrimonio propios, la cual tendrá su domicilio social en la capital del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 7.
 
-La Comisión Estatal de Agua Potable y Alcantarillado estará administrada por un Consejo Directivo que se integrará con un Presidente, un Secretario y hasta nueve Vocales Propietarios que deberán ser representantes de los sectores público, privado y social de la Entidad.
+La Comisión Estatal de Agua Potable y Alcantarillado de Sinaloa, estará administrada por un Consejo Directivo que se integrará con un Presidente, un Secretario, nueve Vocales Propietarios que deberán ser representantes de los sectores público, social y privado de la Entidad y un vocal propietario por cada una de las tres zonas del Estado, que representarán a las Juntas Municipales respectivas.
 
-> <small>(REFORMADO, P.O. 04 DE AGOSTO DE 1993)</small>
-
-El Presidente del consejo Directivo será el Secretario de Comunicaciones y Obras Públicas del Gobierno del Estado, o quien lo sustituye en el cargo.
+El Presidente del Consejo Directivo será el Secretario de Desarrollo Social, Medio Ambiente y Pesca del Gobierno del Estado, o quien lo sustituya en el cargo.
 
 El Secretario del Consejo será el Vocal Ejecutivo de la propia Comisión.
 
-Los Vocales serán designados y removidos libremente por el Titular del Poder Ejecutivo Estatal. Por cada propietario se designará un suplente.
+Los Vocales serán designados y removidos libremente por el Gobernador del Estado, a excepción de los vocales que representen a las Juntas. Por cada propietario se designará un suplente. El Suplente de cada Vocal Propietario, podrá sustituirlo con las atribuciones de éste, cuando no pueda asistir a las sesiones del Consejo Directivo.
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 1987)</small>
 
@@ -127,23 +137,35 @@ El cargo del integrante del Consejo Directivo no será retribuido con sueldo o e
 
 El Consejo Directivo funcionará válidamente con la concurrencia de la mayoría de sus miembros, entre los cuales deberá estar el Presidente o quien haga sus veces. Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes y el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 10.
 
-La Comisión Estatal, tendrá las funciones y atribuciones siguientes:
+La Comisión tendrá las funciones y atribuciones siguientes:
 
-I.- Promover el establecimiento de normas y procedimientos en cuanto a la realización de obras y a la operación, administración, conservación, mantenimiento, economía y desarrollo de los sistemas de agua potable y alcantarillado;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
 
-II.- Coadyuvar con los Ayuntamientos y el Gobierno del Estado, ante los organismos federales, instituciones y dependencias federales en las gestiones de financiamiento y planeación de obras para los sistemas de agua potable y alcantarillado;
+I.- Promover el establecimiento de normas y procedimientos en cuanto a la realización de obras y a la operación, administración, conservación, mantenimiento, economía y desarrollo de los sistemas de agua potable, alcantarillado y saneamiento;
 
-III.- Cooperar en la promoción de la acción coordinada de la Federación, el Estado y los Municipios en materia de obras de agua potable y alcantarillado;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
 
-IV.- Proponer las bases y normas, para la celebración de contratos de construcción y conservación de obras para los sistemas de agua potable y alcantarillado;
+II.- Coadyuvar con los Ayuntamientos y el Gobierno del Estado, ante los organismos federales, instituciones y dependencias federales, en las gestiones de financiamiento y planeación de obras para los sistemas de agua potable, alcantarillado y saneamiento;
 
-V.- Participar en la vigilancia del mejor aprovechamiento de cualquier recurso federal, estatal o municipal que esté destinado al servicio de agua potable y alcantarillado;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+III.- Cooperar en la promoción de la acción coordinada de la Federación, el Estado y los Municipios en materia de obras de agua potable, alcantarillado y saneamiento;
 
-VI.- Asesorar a las Juntas Municipales en aspectos técnicos, administrativos y financieros, particularmente en lo que atañe a la revisión y actualización periódica de las tarifas de agua potable y alcantarillado;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+IV.- Proponer las bases y normas para la celebración de contratos de construcción y conservación de obras para los sistemas de agua potable, alcantarillado y saneamiento;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+V.- Participar en la vigilancia del mejor aprovechamiento de cualquier recurso federal, estatal o municipal, que esté destinado al servicio de agua potable, alcantarillado y saneamiento;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+VI.- Asesorar a las Juntas en aspectos técnicos, administrativos y financieros, particularmente en lo que atañe a la revisión y actualización periódica de las tarifas de agua potable, alcantarillado y saneamiento;
 
 VII.- Desarrollar programas de orientación a los usuarios con el objeto de proteger la calidd (sic) del agua potable y propiciar su aprovechamiento racional;
 
@@ -151,11 +173,17 @@ VII.- Desarrollar programas de orientación a los usuarios con el objeto de prot
 
 VIII.- Promover la capacitación y adiestramiento del personal de las Juntas Municipales;
 
-IX.- Mantener actualizado el inventario de los bienes y recursos de los sistemas de agua potable y alcantarillado y de las reservas hidrológicas del Estado; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+IX.- Mantener actualizado el inventario de los bienes y recursos de los sistemas de agua potable, alcantarillado y saneamiento y las reservas hidrológicas del Estado;
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
 
 X.- En coordinación con las dependencias competentes del Gobierno del Estado, promover la planeación, evaluación y supervisión de proyectos, presupuestos y construcción de obras;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 1998)</small>
+
+X Bis.- Participar con las Juntas en la determinación de las condiciones particulares de descargas domiciliarias o determinarlas a solicitud de las mismas. A falta de éstas, serán las que establezcan la Comisión Nacional del Agua y las Normas Oficiales Mexicanas en materia de protección ambiental, de la Secretaría del Medio Ambiente, Recursos Naturales y Pesca de la Federación;
 
 > <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
 
@@ -165,17 +193,23 @@ XI.- Gestionar complementariamente ante las dependencias y entidades federales, 
 
 XII.- Promover convenios de coordinación y colaboración entre dos o más Juntas Municipales;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
 
-XIII.- Auxiliar a las Juntas Municipales para que practiquen el control de calidad del agua potable desde las fuentes mismas de abastecimiento, zonas de protección, estructura de captación, sistemas de conducción, de regularización y distribución, así como las instalaciones de tratamiento y operación de los sistemas y de los equipos, en los términos de las disposiciones aplicables;
+XIII.- Auxiliar a las Juntas para que practiquen el control de calidad del agua potable desde las fuentes mismas de abastecimiento, zonas de protección, estructura de captación, sistemas de conducción, de regularización y distribución, así como las instalaciones de tratamiento y operación de los sistemas y de los equipos, en los términos de las disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+Subsidiar, en su caso, a las Juntas en especial para sus programas de desinfección del agua para consumo humano;
 
-XIV.- Cuando sea necesario, promover la obtención de crédito para ejecutar los programas de obras, tramitando los avales correspondientes;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+XIV.- Promover, cuando sea necesario, la obtención de créditos para ejecutar los programas de obras, tramitando los avales correspondientes;
 
 > <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
 
 XV.- Solicitar a las autoridades competentes, expropiaciones, ocupaciones temporales, totales o parciales de obras hidráulicas y bienes de propiedad privada, y la limitación de los derechos de dominio;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 1998)</small>
+
+XV Bis.- Apoyar, a solicitud de las Juntas, en la elaboración de convocatorias, términos de referencia, contratos, apertura de propuestas y dictámenes de las licitaciones de obra pública de agua potable, alcantarillado y saneamiento en el Estado y supervisar dichas obras;
 
 > <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
 
@@ -241,23 +275,25 @@ VII.- Formular los programas de trabajo y operación, así como los estados fina
 
 VII.- (sic) Las demás que le señalen el Consejo Directivo las disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 12.
 
-Para la administración, operación, mantenimiento, ampliación y mejoramiento de los sistemas y servicios de agua potable y alcantarillado de los centros poblados del Estado, en cada Municipio se establecerá un Organismo Público Descentralizado de la Administración Municipal que se denominará Junta Municipal de Agua Potable y Alcantarillado, con personalidad jurídica y patrimonio propios, y tendrá su domicilio social en la Cabecera Municipal.
+Para la administración, operación, mantenimiento, ampliación y mejoramiento de los sistemas y servicios de agua potable, alcantarillado y saneamiento de los centros poblados del Estado, en cada municipio se establecerá un organismo público descentralizado de la administración municipal que se denominará Junta Municipal de Agua Potable y Alcantarillado, con personalidad jurídica y patrimonio propios y tendrá su domicilio en la cabecera municipal.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 13.
 
-Las Juntas Municipales serán administradas por un Consejo Directivo integrado por un Presidente, un Secretario y hasta siete Vocales propietarios que deberán ser representantes de los sectores público, privado y social.
+Las Juntas serán administradas por un Consejo Directivo integrado por un Presidente, un Secretario, un Representante de la Comisión, el Tesorero Municipal y hasta siete Vocales Propietarios, que deberán ser representantes de los sectores público, social y privado.
 
 El Presidente del Consejo será el Presidente Municipal o quien lo sustituya en el cargo.
 
-El Secretario será el Gerente General de la Junta Municipal.
+El Secretario será el Gerente General de la Junta.
 
-Los Vocales serán nombrados y removidos libremente por el Ayuntamiento correspondiente. Por cada propietario se designará un suplente.
+El Representante de la Comisión será el Vocal Ejecutivo de la Comisión o quien éste designe, quien participará con voz pero sin derecho a voto.
+
+Los Vocales serán nombrados y removidos libremente por el Ayuntamiento correspondiente. Por cada Vocal Propietario, se designará un Suplente. El Suplente de cada Vocal Propietario, podrá sustituirlo, con las atribuciones de éste, cuando no pueda asistir a las sesiones del Consejo Directivo.
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
 
@@ -275,25 +311,35 @@ Los Consejos Directivos funcionarán válidamente con la concurrencia de la mayo
 
 Las Juntas tendrán las siguientes funciones y atribuciones:
 
-I.- Administrar, operar y mantener los sistemas de agua potable y alcantarillado de su jurisdicción;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
 
-II.- Facturar y recaudar el importe de los servicios conforme a las tarifas en vigor;
+I.- Administrar, operar y mantener los sistemas de agua potable, alcantarillado y saneamiento de su jurisdicción;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+II.- Facturar y recaudar el importe de los servicios conforme a las tarifas y cuotas en vigor, así como los adeudos generados por el incumplimiento del pago oportuno;
 
 III.- Tener la administración general de los bienes muebles e inmuebles de su propiedad;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
 
-IV.- Proponer al Ayuntamiento las obras necesarias de construcción, conservación, mantenimiento, rehabilitación y ampliación de los sistemas de su jurisdicción y en su caso, llevar a cabo la ejecución de las mismas;
+IV.- Programar en coordinación con el Ayuntamiento, las obras necesarias de construcción, conservación, mantenimiento, rehabilitación y ampliación de los sistemas de su jurisdicción y en su caso, llevar a cabo la ejecución de las mismas;
 
-V.- Recibir las obras de agua potable y alcantarillado que se construyan en su jurisdicción;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+V.- Recibir las obras de agua potable, alcantarillado y saneamiento que se construyan en su jurisdicción;
 
 VI.- Formular y mantener actualizado el padrón de usuarios;
 
-VII.- Contratar los servicios con los usuarios, cobrar los derechos correspondientes y realizar las instalaciones necesarias;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+VII.- Contratar los servicios con los usuarios, cobrar las tarifas y cuotas correspondientes y realizar las instalaciones necesarias;
 
 VIII.- Atender las quejas y los recursos interpuestos por los usuarios;
 
-IX.- Solicitar a las tesorerías municipales el ejercicio de la facultad económico coactiva en contra de los terceros y usuarios morosos y los procedimientos de apremio previstos por la Ley de Hacienda Municipal, para hacer efectivos los adeudos, multas, recargos, derechos de cooperación y cualquier ingreso lícito que no fuere cubierto oportunamente;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+IX.- Solicitar a las autoridades municipales el apoyo y coordinación para la cobranza de adeudos por tarifas, multas, recargos y cuotas de conexión, así como cualquier ingreso lícito que no fuere cubierto oportunamente;
 
 X.- Vigilar que todos los ingresos que se recauden se inviertan en los objetivos señalados por esta Ley y que en ningún caso podrán ser afectados a otro fin;
 
@@ -315,17 +361,29 @@ XVIII.- Desarrollar programas de capacitaciln (sic) y adiestramiento para su per
 
 XIX.- Formular y mantener actualizado el inventario de bienes y recursos que integran su patrimonio;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
 
-XX.- Formular y mantener actualizado el inventario de sistemas de agua potable y alcantarillado del Municipio correspondiente y remitir copia del mismo a la Comisión Estatal;
+XX.- Formular y mantener actualizado el inventario de sistemas de agua potable, alcantarillado y saneamiento del municipio correspondiente y remitir copia del mismo a la Comisión;
 
-> <small>(REFORMADA P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
 
-XXI.- Gestionar la obtención y contratación de créditos necesarios, a fin de destinarlos a la planeación, construcción, ampliación, rehabilitación y mantenimiento de las obras y servicios para la operación de los sistemas de agua y alcantarillado del Municipio respectivo. En garantía de los créditos que se obtengan las Juntas podrán afectar los derechos, rentas y cualquier ingreso que perciban por la explotación de los sistemas; y
+XXI.- Gestionar la obtención y contratación de créditos necesarios, a fin de destinarlos a la planeación, construcción, ampliación, rehabilitación y mantenimiento de las obras y servicios para la operación de los sistemas de agua potable, alcantarillado y saneamiento del municipio respectivo. En garantía de los créditos que se obtengan, las Juntas podrán afectar las tarifas, cuotas, rentas y cualquier ingreso que perciban por la explotación de los sistemas;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
 
-XXII.- Las demás que le confieran Leyes, Reglamentos y Acuerdos.
+XXII.- Prohibir el avenamiento, hacia sus sistemas de alcantarillado de descargas que impidan o dificulten el tratamiento de las aguas residuales. Las Juntas estarán facultadas para establecer cuotas especiales según el volumen y calidad de las descargas que ocasionaren gastos extraordinarios de tratamiento;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 1998)</small>
+
+XXIII.- Determinar las condiciones particulares de descarga domiciliaria al sistema de alcantarillado;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 1998)</small>
+
+XXIV.- Contratar los servicios de particulares, cuando sea necesario, para el cumplimiento de las funciones y atribuciones consignadas en este artículo; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 1998)</small>
+
+XXV.- Las demás que le confieren leyes, reglamentos, decretos y acuerdos.
 
 ###### ARTICULO 17.
 
@@ -335,9 +393,9 @@ I.- Nombrar y remover libremente en cada una de las Juntas en (sic) Gerente Gene
 
 II.- Resolver los recursos que se interpongan en contra de la actuación y resoluciones de los Gerentes Generales de las Juntas;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
 
-III.- Analizar, discutir y autorizar las tarifas para el cobro de los servicios;
+III.- Analizar, discutir y autorizar las tarifas y cuotas para el cobro de los servicios;
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
 
@@ -385,11 +443,11 @@ VII.- Formular los programas de trabajo y operación, así como los estados fina
 
 VIII.- Las demás que le señalen sus (sic) Consejo Directivo y las disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 19.
 
-En el medio rural cada comunidad podrá designar un Encargado del sistema de agua potable y alcantarillado, con funciones señaladas y supervisadas por la Junta Municipal correspondiente, a efecto de que vigile el buen funcionamiento de los servicios.
+En el medio rural, cada comunidad podrá designar un encargado del sistema de agua potable, alcantarillado y saneamiento, con funciones señaladas y supervisadas por la Junta Municipal correspondiente, a efecto de que vigile el buen funcionamiento de los servicios.
 
 ###### ARTICULO 20.
 
@@ -397,25 +455,35 @@ El patrimonio de las Juntas estará integrado por:
 
 I.- Los bienes muebles e inmuebles que les pertenezcan;
 
-II.- Los derechos, rentas y cualquier ingreso que perciban por la operación de los sistemas de agua potable y alcantarillado;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+II.- Las tarifas, cuotas, rentas y cualquier ingreso que perciban por la operación de los sistemas de agua potable, alcantarillado y saneamiento;
 
 III.- Las donaciones, aportaciones, subsidios y cualquiera liberalidad que reciban en el futuro y los bienes muebles e inmuebles que adquieran por cualquier título legal, ya sea en bienes o valores; y,
 
-IV.- Los derechos, obligaciones, equipos, instalaciones, bienes muebles e inmuebles, propiedad de sistemas de agua potable y alcantarillado de la Federación, del Estado o de los Municipios de Sinaloa o de organismos públicos descentralizados o paraestatales que les sean entregados para su operación y administración.
+> <small>(REFORMADA P.O. 27 DE MAYO DE 1998)</small>
+
+IV.- Las tarifas, cuotas, rentas, obligaciones, equipos, instalaciones, bienes muebles e inmuebles, propiedad de los sistemas de agua potable, alcantarillado y saneamiento de la Federación, del Estado o de los Municipios de Sinaloa o de los organismos públicos descentralizados o paraestatales que les sean entregados para su operación y administración.
 
 ###### ARTICULO 21.
 
 Las obras destinadas al servicio público de abastecimiento de agua a los centros poblados y asentamientos humanos, o sea, su captación, regularización, potabilización, desalación, fluorisación (sic), conducción y distribución así como las de alcantarillado y las necesarias para la prevención y control de la contaminación de las aguas y para el tratamiento de las aguas residuales en la entidad, y que no sean de jurisdicción federal, se realizarán de acuerdo con las necesidades del propio servicio, sujetándose a las Leyes y Reglamentos aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 22.
 
-Las Comisiones Municipales de Desarrollo de Centros Poblados y las dependencias encargadas de las obras públicas en cada Municipio, deberán comunicar por escrito y con la anticipación debida a la Junta correspondiente acerca de todo lo relacionado con sus programas de pavimentación y regeneración de calles y banquetas, con el objeto de coordinar los trabajos de introducción y rehabilitación de las redes de agua potable y alcantarillado.
+Las Comisiones Municipales de Desarrollo de Centros Poblados y las dependencias encargadas de las obras públicas en cada municipio, deberán comunicar por escrito y con la anticipación debida a la Junta correspondiente, acerca de todo lo relacionado con sus programas de pavimentación y regeneración de calles y banquetas, con el objeto de coordinar los trabajos de introducción y rehabilitación de las redes de agua potable, alcantarillado y saneamiento.
 
-### CAPITULO TERCERO. DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 1998)</small>
+
+### CAPITULO TERCERO. DE LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 23.
 
-Están obligados a conectarse y abastecerse de los servicios de agua potable y alcantarillado en los lugares en que existan dichos servicios:
+Están obligados a conectarse y abastecerse de los servicios de agua potable, alcantarillado y saneamiento en los lugares en que existan dichos servicios:
 
 I.- Los propietarios o poseedores de predios edificados;
 
@@ -483,13 +551,25 @@ Cuando este tipo de edificios tengan una sola toma y carezcan de medidor y una s
 
 Cuando un edificio que tenga instalada una toma de agua pase al régimen de propiedad en condominio, las Juntas podrán autorizar que se siga surtiendo de dicha toma, eximiéndose así a los propietarios o poseedores de cada piso, departamento o local, de la instalación de aparatos medidores individuales.
 
-ARICULO (SIC) 30.- Las tomas de agua potable y descargas de alcantarillado serán instaladas frente a los predios correspondientes y los aparatos medidores preferentemente fuera de la construcción del edificio y protegido por el usuario con fácil acceso a los mismos, a efecto de que las lecturas del consumo, las inspecciones, las pruebas de funcionamiento del aparato medidor o su cambio, se puedan llevar a cabo fácilmente.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
+
+###### ARTICULO 30.
+
+Las tomas de agua potable y descargas de alcantarillado, serán instaladas frente a los predios correspondientes y los aparatos medidores fuera de la construcción del edificio y protegido por el usuario con fácil acceso a los mismos, a efecto de que las lecturas del consumo, las inspecciones, las pruebas de funcionamiento del aparato medidor o su cambio, se puedan llevar a cabo fácilmente.
+
+Los comercios, talleres e industrias instalarán por cuenta propia frente a su predio en la vía pública y antes de la descarga a la red de atarjeas, un registro o pozo de visita para efecto de que las Juntas puedan llevar a cabo la operación, el mantenimiento de la descarga y en su caso, la toma de muestras para analizar las características de las aguas residuales que se descarguen. Estos análisis serán por cuenta del usuario.
+
+Tratándose de usuarios domésticos, para los mismos efectos, preferentemente instalarán el registro o pozo de visita frente a su predio, y los análisis serán por cuenta de la Junta.
+
+Los comercios, talleres, industrias y domicilios que la Junta determine, tendrán la obligación de construir las trampas de sólidos, las desnatadoras de grasas o los sistemas de tratamiento antes de la descarga de sus aguas residuales a la red de atarjeas, que la naturaleza de éstas requieran para cumplir con las condiciones particulares de descarga que las Juntas o la Comisión establecieren.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 31.
 
-Cuando tengan que ejecutarse obras de construcción o reconstrucción de una edificación o cuando por cualquier otra causa se haga necesario modificar la instalación de los servicios de agua potable y alcantarillado, los usuarios deberá (sic) solicitar, previamente, el cambio de lugar de la toma o de la descarga, expresándose las causas que la motivan y fijando con toda precisión el lugar en que están instaladas y en el que deberán quedar.
+Cuando se tengan que ejecutar obras de construcción o reconstrucción de una edificación o cuando por cualquier otra causa se haga necesario modificar la instalación de los servicios de agua potable, alcantarillado y saneamiento, los usuarios deberán solicitar previamente el cambio del lugar de la toma o de la descarga, expresándose las causas que lo motivan y fijando con toda precisión el lugar en que están instaladas y en el que deberán quedar.
 
-Si con la modificación no se infringen las disposiciones de esta Ley o de los Reglamentos, se ordenará el cambio de la toma o de la descarga el que se realizará con el personal de las Juntas con cargo al usuario previo el pago correspondiente.
+Si con la modificación no se infringen las disposiciones de esta Ley o de los reglamentos, se ordenará el cambio de la toma o de la descarga, el que se realizará con el personal de las Juntas con cargo al usuario previo el pago correspondiente.
 
 ###### ARTICULO 32.
 
@@ -497,11 +577,9 @@ Las Juntas podrán autorizar derivaciones de tomas o descargas:
 
 I.- Para que se surtan provisionalmente predios edificados en calles que carezcan de los servicios, hasta en tanto queden establecidos los mismos en las calles correspondientes y,
 
-II.- Para que se sirvan giros o establecimientos de la toma o descarga del edificio de que forman parte los locales que ocupan.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
 
-Los propietarios o poseedores de los predios, giros o establecimientos que se sirvan de derivaciones que autoricen las Juntas, deberán pagar los derechos correspondentes (sic), como si tuvieran tomas o descargas por separado.
-
-Para autorizar una derivación, deberán solicitarlo el propietario o poseedor del predio, giro o establecimiento que pretenda los servicios, y expresar su consentimiento el propietario o poseedor del predio en que está instalada la toma o descarga de donde se trata de hacer la derivación.
+II.- Para que se sirvan giros o establecimientos de la toma o descarga del edificio de que forman parte los locales que ocupan. Los propietarios o poseedores de los predios o establecimientos que se sirvan de derivaciones que autoricen las Juntas, deberán pagar las tarifas y cuotas correspondientes, como si tuvieran tomas o descargas por separado. Para autorizar una derivación, deberán solicitar al propietario o poseedor del predio, giro o establecimiento que pretende los servicios y expresar su consentimiento el propietario o poseedor del predio en que está instalada la toma o descarga de donde se trata de hacer la derivación.
 
 ###### ARTICULO 33.
 
@@ -515,13 +593,17 @@ Cuando se trate de carpas de espectáculos o diversiones públicas temporales, l
 
 De toda manifestación de apertura, traspaso, traslado o clausura de giros o establecimientos obligados a abastecerse de agua potable así como hacer uso del sistema de alcantarillado, el usuario deberá dar aviso a la Junta correspondiente dentro de los diez días siguientes a la fecha de realizados los trámites citados, proporcionando copia de la documentación respectiva.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 36.
 
-Al establecerse los servicios de agua potable y alcantarillado en los lugares que carezcan de ellos se notificará los (sic) interesados por medio de publicaciones de carácter general, para el efecto de que cumplan las disposiciones de esta Ley.
+Al establecerse los servicios de agua potable, alcantarillado y saneamiento en los lugares que carezcan de ellos, se notificará a los interesados por medio de publicaciones de carácter general, para el efecto de que cumplan las disposiciones de esta Ley.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 37.
 
-Dentro de los plazos fijados en el artículo 23 de esta Ley, los propietarios o poseedores de predios, giros o establecimientos obligados a hacer uso de agua potable y alcantarillado, o sus legítimos representantes, deberán presentar un escrito solicitando la instalación de la toma o de la descarga correspondiente, en las formas impresas que las propias Juntas proporcionarán para el cumplimiento de estas disposiciones.
+Dentro de los plazos fijados en el Artículo 23 de esta Ley, los propietarios o poseedores de predios, giros o establecimientos, o sus legítimos representantes, obligados a hacer uso de agua potable, alcantarillado y saneamiento, deberán presentar un escrito solicitando la instalación de la toma y de la descarga correspondiente, en las formas impresas que las propias Juntas proporcionarán para el cumplimiento de estas disposiciones.
 
 ###### ARTICULO 38.
 
@@ -569,11 +651,17 @@ Para los efectos de la presente Ley, en los fraccionamientos habitacionales se d
 
 I.- Obras para el abastecimiento del agua potable potable (sic) y red de suministro, con sus correspondientes tomas domiciliarias, hidrantes y cabezales de las redes;
 
-II.- La (sic) obras para la descarga de las aguas negras, red de alcantarillado o drenaje y descargas domiciliarias;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+II.- Las obras para las descargas de las aguas negras, red de alcantarillado o drenaje y descargas domiciliarias, incluyendo el registro o pozo de visita en la banqueta del predio que permita la operación, el mantenimiento de la descarga y en su caso la toma de muestras, para analizar la calidad de las aguas residuales de los giros comerciales, domésticos, industriales y de servicios;
 
 III.- Obras para la descarga de las aguas pluviales y red de drenaje pluvial; y,
 
 IV.- Red de riego de camellones y parques en los términos y condiciones adecuados a cada tipo de fraccionamiento, en su caso.
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 1998)</small>
+
+V.- Los fraccionamientos habitacionales que no puedan descargar sus aguas residuales a la red de alcantarillado, deberán contar con el sistema de tratamiento correspondiente.
 
 ###### ARTICULO 47.
 
@@ -589,7 +677,9 @@ IV.- Plano de la configuración topográfica del terreno y plano con la lotifica
 
 V.- Plano de localización del terreno de acuerdo con el plano regulador de la ciudad y en el que se señalen la vialidad y las líneas maestras de servicios públicos;
 
-VI.- Constancias sobre factibilidad y presupuesto de los costos aproximados de los abastos, descargas y suministros de servicios públicos, incluyendo las tomas domiciliarias de agua potable con sus medidores y las redes de alcantarillado con las descargas domiciliarias;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+VI.- Constancias sobre factibilidad y presupuesto de los costos aproximados de los abastos, descarga y suministros de servicios públicos, incluyendo las tomas domiciliarias de agua potable con sus medidores, las redes de alcantarillado con las descargas domiciliarias y el registro o pozo de visita frente al predio que permita la operación, el mantenimiento de la descarga y en su caso, la toma de muestras para analizar la calidad de las aguas residuales de los giros industriales, comerciales y de servicios;
 
 VII.- Plan de solución a la descarga de las aguas negras y la formulación del proyecto y presupuestos respectivos;
 
@@ -597,7 +687,9 @@ VIII.- Análisis de suelos;
 
 IX.- Los plazos para la iniciación, realización y terminación de las obras; y,
 
-X.- La obligación de cubrir las cuotas que correspondan por derechos de conexiones a las redes de agua potable y alcantarillado.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+X.- La obligación de cubrir las cuotas que correspondan por derecho de conexiones a las redes de Agua Potable, Alcantarillado y Saneamiento.
 
 ###### ARTICULO 48.
 
@@ -605,33 +697,45 @@ Los fraccionadores de terrenos, sean personas físicas o morales, no podrán cel
 
 ### CAPITULO CUARTO. DEL PAGO DE LOS SERVICIOS
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 49.
 
-Los usuarios de los sistemas están obligados al pago de los derechos por el uso de los servicios de agua potable y alcantarillado. El Congreso del Estado aprobará las tarifas que se causarán por dichos servicios y conforme a las cuales se fijarán las cuotas y modos de pago. Para todos los efectos legales a que haya lugar, el decreto o los decretos correspondientes se considerarán como partes integrantes de la presente Ley.
+Los usuarios de los sistemas están obligados al pago de las tarifas y cuotas de agua potable, alcantarillado y saneamiento.
 
-Para los efectos de la presente Ley, se considerarán como usuarios a los propietarios o poseedores por cualquier título, de los predios, giros o establecimientos a los que se les proporcionen los servicios de agua potable y alcantarillado y tengan la obligación de hacer uso de los mismos.
+Para los efectos de la presente Ley, se considerarán como usuarios a los propietarios o poseedores por cualquier título, de los predios, giros o establecimientos a los que se les proporcionen los servicios de agua potable, alcantarillado y saneamiento y tengan la obligación de hacer uso de los mismos.
 
-Los propietarios o poseedores de los predios en que se encuentren giros o establecimientos que reciban los servicios, serán solidariamente responsables con los propietarios o poseedores de dichos giros o establecimientos, del pago de cualquier adeudo por concepto de los derechos, recargos, sanciones o cualquiera otro concepto que establezca esta Ley.
+Los propietarios o poseedores de los predios en que se encuentren giros o establecimientos que reciban los servicios, serán solidariamente responsables con los propietarios o poseedores de dichos giros o establecimientos, del pago de cualquier adeudo por concepto de las tarifas y cuotas, recargos y sanciones o cualquier otro concepto que establezca la Ley.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 50.
 
-Queda prohibido el otorgamiento de exenciones por cuanto al pago de derechos por los servicios que presten las Juntas, ya se trate de particulares, dependencias federales, estatales o municipales, entidades paraestatales o paramunicipales, instituciones educativas o de asistencia pública o privada.
+Queda prohibido el otorgamiento de exenciones por cuanto al pago de las tarifas y cuotas por los servicios que prestan las Juntas, ya se trate de particulares, dependencias federales, estatales o municipales, paraestatales o paramunicipales, instituciones educativas o de asistencia pública o privadas.
+
+Tratándose de pensionados o jubilados, que acrediten tal situación, usuarios del servicio doméstico y cuyo consumo bimestral sea de hasta cincuenta metros cúbicos, con el acuerdo del Consejo Directivo, se les aplicarán tarifas y cuotas del 50% por los servicios que prestan las Juntas.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 51.
 
-Los usuarios deberán cubrir el pago de los derechos en las oficinas de las Juntas o en las instituciones autorizadas al efecto, dentro de la fecha expresada en el recibo correspondiente o por adelantado dentro de los primeros veinte días del mes o del bimestre correspondiente cuando el pago de los derechos por los servicios sea a base de cuota fija.
+Los usuarios deberán cubrir el pago de las tarifas y cuotas en las oficinas de las Juntas o en las instituciones autorizadas al efecto, dentro de la fecha expresada en el recibo correspondiente o por adelantado dentro de los primeros veinte días del mes o del bimestre correspondiente cuando el pago de las tarifas y cuotas por los servicios sea a base de cuota fija.
 
-Los usuarios que no cubran las cuotas del servicio dentro de los plazos señalados, pagarán recargos de conformidad a lo que marca la Ley de Hacienda Municipal.
+Los usuarios que no cubran las cuotas del servicio dentro de los plazos señalados, pagarán recargos de conformidad a lo dispuesto en la Ley de Hacienda Municipal del Estado de Sinaloa.
 
-Será causa de limitación de los servicios el que los usuarios dejen de pagar uno o más meses o bimestres, hasta que se pongan al corriente en sus pagos.
+Será causa de limitación de los servicios el que los usuarios dejen de pagar uno o más meses o bimestres conforme al sistema de cobro establecido.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 52.
 
-Cuando no se pueda verificar el consumo de agua potable por desperfectos en el medidor, de los que no sea responsable el usuario, los derechos por el servicio se cobrarán promediando el importe de los causados en los dos bimestres anteriores. Si por la reciente instalación del medidor sólo se han causado derechos por un bimestre, éstos servirán de base para el cobro por el tiempo en que el medidor permanezca en revisión y reparación.
+Cuando no se pueda verificar el consumo de agua potable por desperfectos en el medidor, de los que no sea responsable el usuario, el pago de las tarifas y cuotas se cobrará promediando el importe del causado en los dos meses o dos bimestres anteriores. Si por la reciente instalación del medidor sólo se ha causado consumo por un mes o un bimestre, éste servirá de base para el cobro por el tiempo en que el medidor permanezca en revisión y reparación.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 53.
 
-Cuando no se pueda verificar el consumo de agua potable por desperfectos del medidor causados por el usuario, los derechos por el servicio se cobrarán en la forma que fija el artículo anterior, pero se duplicarán las cuotas, más el importe de la mano de obra por la reparación y la instalación, sin perjuicio de que se impongan las sanciones que correspondan.
+Cuando no se pueda verificar el consumo de agua potable por desperfectos del medidor causado por el usuario, el consumo se cobrará en la forma que fija el artículo anterior, pero se duplicarán las tarifas y cuotas, más el importe de la mano de obra por la reparación y la instalación, sin perjuicio de que se impongan las sanciones que correspondan.
 
 ###### ARTICULO 54.
 
@@ -641,33 +745,35 @@ Los propietarios o poseedores de los predios, giros o establecimientos que se su
 
 Cuando se autorice la derivación, el interesado está obligado a cubrir a las Juntas el importe correspondiente a la instalación de la toma de agua. Al establecerse este servicio, dichos usuarios tendrán derecho preferente a la instalación de una toma, cubriendo únicamente los gastos adicionales que se ocasionen.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 56.
 
-Los adeudos, las multas, los recargos, así como los derechos de cooperación que se fijen para cubrir el costo de las obras de construcción, rehabilitación y ampliación de los sistemas de agua potable y alcantarillado y cualquier otro ingreso lícito que no fuere pagado oportunamente por los usuarios o quienes deban cubrirlos, tendrán el carácter de créditos fiscales, para cuya recuperación, las Juntas podrán solicitar de las autoridades fiscales municipales, el ejercicio de la facultad económico-coactiva.
+Las Juntas, para la cobranza de los adeudos por las tarifas, las multas, los recargos, así como las cuotas de conexión y cooperación que se fijen para cubrir el costo de las obras de construcción, rehabilitación y ampliación de los sistemas de agua potable, alcantarillado y saneamiento, podrán solicitar el apoyo y coordinación de las autoridades municipales y cualquier otro ingreso lícito que no fuere cubierto oportunamente.
 
 ###### ARTICULO 57.
 
 La falta de pago oportuno de los créditos a que se refiere el artículo anterior, causarán los recargos fijados en la Ley de Hacienda Municipal, que no podrán exceder del 100% del crédito principal, independientemente de los gastos de cobranza.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 58.
 
-Los notarios y Corredores Públicos no podrán autorizar ni el Oficial del Registro Público de la Propiedad inscribir contratos traslativos de dominio de inmuebles si no se les comprueba previamente que el inmueble de referencia está al corriente en el pago de los derechos causados por los servicios que prestan las Juntas. La inobservancia del mandato anterior originará una obligación solidaria a cargo del Notario, Corredor Público u Oficial Registrador respecto del pago de los derechos adecuados (sic) a la fecha de la autorización o registro respectivo.
+Los Notarios, Corredores Públicos y Oficiales del Registro Público de la Propiedad, no podrán autorizar ni inscribir contratos traslativos de dominio de inmuebles, si no se les comprueba previamente que el inmueble de referencia está al corriente en el pago de las tarifas y cuotas causadas por los servicios que prestan las Juntas. La inobservancia del mandato anterior, originará una obligación solidaria a cargo del Notario, Corredor Público u Oficial Registrador respecto del pago de las tarifas, cuotas, recargos y multas adeudados a la fecha de la autorización o registro respectivo.
 
 ### CAPITULO QUINTO. DE LAS TARIFAS
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 59.
 
-Cada una de las Juntas Municipales aprobará anualmente las tarifas conforme a las cuales se cobrará la prestación de los servicios de agua potable y alcantarillado así como los derchos (sic) de conexión, en sus respectivas jurisdicciones.
+El Consejo Directivo de cada Junta, aprobará anualmente las tarifas y cuotas de conexión que servirán de base para el cobro por la prestación de los servicios de agua potable, alcantarillado y saneamiento. Las tarifas y cuotas aprobadas se publicarán en el Periódico Oficial "El Estado de Sinaloa".
 
-Las tarifas aprobadas se publicarán en el periódico oficial "El Estado de Sinaloa".
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 60.
 
-Las tarifas deberán establecerse tomando en cuenta los gastos de administración, operación y mantenimiento, y constitución de fondos de reserva para la rehabilitación y el mejoramiento de los sistemas y servicios.
-
-Las tarifas serán diferenciales ascendentes de acuerdo al consumo efectuado, al uso autorizado en los términos del artículo 4 de la presente Ley y a la capacidad económica del centro poblado, zona o región de que se trate.
+Las tarifas y cuotas deberán establecerse tomando en cuenta los gastos de administración, operación, mantenimiento y constitución de fondos de reservas para la rehabilitación y el mejoramiento de los sistemas y servicios. Las tarifas serán diferenciales ascendentes de acuerdo al consumo efectuado, al uso autorizado en los términos del artículo 4 de la presente Ley y a la capacidad económica del centro poblado, zona o región de que se trate.
 
 ### CAPITULO SEXTO. DE LA INSPECCION Y VERIFICACION DE LOS SERVICIOS
 
@@ -687,7 +793,13 @@ II.- Para comprobar si los medidores funcionan correctamente y para retirarlo e 
 
 III.- Para verificar los diámetros de las tomas; y,
 
-IV.- Para investigar si se cumplen debidamente las disposiciones de esta Ley.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+IV.- Para analizar las características de las aguas residuales que se descarguen a la red; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 1998)</small>
+
+V.- Para investigar si se cumplen debidamente las disposiciones de esta Ley.
 
 ###### ARTICULO 63.
 
@@ -713,9 +825,11 @@ Cuando se encuentre cerrado un predio, giro o establecimiento, en el que deba pr
 
 Si por segunda vez se encuentra cerrado el predio, giro o establecimiento, sin que se halle ninguna persona dentro de él, se actuará en los términos del artículo 65.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 68.
 
-Las visitas se limitarán exclusivamente al objeto indicado en la orden respectiva y por ningún motivo podrán extenderse a objetos distintos, aún cuando se relacionen con los servicios de agua potable y alcantarillado, salvo que en el momento de la visita se descubra, accidentalmente, una infracción a las disposiciones de esta Ley, en cuyo caso el inspector la hará contar (sic) en el acta respectiva.
+Las visitas se limitarán exclusivamente al objeto indicado en la orden respectiva y por ningún motivo podrán extenderse a objetos distintos, aún cuando se relacionen con los servicios de agua potable, alcantarillado y saneamiento, salvo que en el momento de la visita se descubra accidentalmente, una infracción a las disposiciones de esta Ley, en cuyo caso el inspector la hará constar en el acta respectiva.
 
 ###### ARTICULO 69.
 
@@ -785,7 +899,9 @@ V.- El que impida al personal autorizado de las Juntas, el examen de los aparato
 
 VI.- El que cause desperfectos a un aparato medidor;
 
-VII.- El que viole los sellos de un aparato medidor;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+VII.- El que viole los sellos de un aparato medidor o cualquier sistema de limitación de los servicios que la Junta aplique;
 
 VIII.- El que por cualquier medio haga que el aparato medidor no registre el consumo;
 
@@ -797,7 +913,9 @@ XI.- El que personalmente o valiéndose de otro, cambie de lugar o haga modifica
 
 XII.- Los propietarios, encargados o arrendatarios de predios, giros o establecimientos o sus familiares, allegados, dependientes o cualquier otra persona que se encuentre en los mismos, por oponer resistencia para la inspección de instalaciones interiores, al personal autorizado por las Juntas;
 
-XIII.- El que se niegue a proporcionar, sin causa justificada, los informes que soliciten las Juntas en relación con los servicios de agua potable y alcantarillado;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+XIII.- El que se niegue a proporcionar sin causa justificada, los informes que soliciten las Juntas en relación con los servicios de agua potable, alcantarillado y saneamiento;
 
 XIV.- El que emplee mecanismos para succionar agua de las tuberías de distribución o con esta finalidad lleve a cabo trabajos o realice actos sin autorización de la Junta respectiva;
 
@@ -805,7 +923,13 @@ XV.- El que haga uso indebido del agua potable de tal forma que pueda considerar
 
 XVI.- El que intencional o imprudencialmente perjudique o dañe las instalaciones de alcantarillado o drenaje; y,
 
-XVII.- A los que cometan cualquier otra infracción a las disposiciones de esta Ley, no especificada en las fracciones que anteceden.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+
+XVII.- Los usuarios industriales, comerciales o públicos que dejen de pagar los servicios recibidos correspondientes por uno o más meses o bimestres, según el sistema de cobro;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 1998)</small>
+
+XVIII.- Los que cometan cualquier otra infracción a las disposiciones de esta Ley, no especificadas en las fracciones que anteceden.
 
 ### CAPITULO OCTAVO. DE LAS SANCIONES
 
@@ -827,11 +951,15 @@ III.- En los casos mencionados en la fracción VI, inciso c), del propio artícu
 
 Las infracciones a que se refieren las fracciones II, III, IV, X, XI y XVI, del artículo 80, se sancionarán con una multa equivalente de cinco a sesenta días del salario mínimo general en la zona correspondiente, de acuerdo con las circunstancias del caso.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 83.
 
-Las infracciones a que se refieren las fracciones V, VI, VII, VIII y XIII del artículo 80, se sancionarán con multa equivalente de tres a diez días del salario mínimo general en la zona respectiva; igual multa se impondrá a quien cometa la infracción señalada en las fracciones XIV y XVI del artículo 81, pero tratándose de fraccionamientos o de usuarios con consumos mayores de 200 metros cúbicos bimestrales, la multa podrá elevarse hasta el equivalente de cuarenta y cinco días del mismo salario.
+Las infracciones a que se refieren las fracciones V, VI, VII, VIII, IX y XIII del artículo 80, se sancionarán con multa equivalente de tres a diez días de salario mínimo general de la zona respectiva; igual multa se impondrá a quien cometa la infracción señalada en las fracciones XIV y XVI del artículo 80, pero tratándose de fraccionamientos o de usuarios con consumos mayores de 200 metros cúbicos bimestrales, la multa podrá elevarse al equivalente de cuarenta y cinco días del mismo salario.
+
+Los infractores a que se refiere las fracciones VI, VII, VIII y IX del artículo 80 de la Ley, que reincidan en la violación de los aparatos medidores, el sello, los sistemas de limitación del servicio aplicados por las Juntas, registros del medidor y alteración al consumo marcado, serán sancionados con la interrupción del servicio, que no podrá ser reinstalado sino hasta que quede cubierto el monto de los daños y de los demás adeudos del usuario.
+
+También serán sancionados con la interrupción de los servicios, los infractores a que se refiere la fracción XVII del artículo 80, cuando se trate de usuarios industriales, comerciales o públicos a que se refiere el artículo 4 de esta Ley.
 
 ###### ARTICULO 84.
 
@@ -1042,3 +1170,21 @@ P.O. 4 DE AGOSTO DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE MAYO DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+A partir de la fecha en que este Decreto entre en vigor, se derogan las disposiciones que se opongan al mismo.
+
+###### ARTICULO TERCERO.
+
+Las situaciones jurídicas nacidas con anterioridad de que entre en vigor este Decreto, se seguirá regulando hasta su conclusión, conforme al texto anterior.
+
+###### ARTICULO CUARTO.
+
+Las Juntas no podrán cobrar ninguna tarifa o cuota por concepto de saneamiento mientras no se construyan y entren en operación las plantas de tratamiento.
