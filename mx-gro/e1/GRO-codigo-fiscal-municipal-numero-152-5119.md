@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-municipal-numero-152-5119"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-30"
-last_updated: "1995-12-26"
+last_updated: "1997-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO FISCAL MUNICIPAL NUMERO 152
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el miércoles 30 de diciembre de 1987.
 
@@ -863,9 +863,9 @@ VI. Cuando las infracciones no se estimen leves y consistan en hechos, omisiones
 
 VII. Cuando se estime que la infracción cometida es leve y que no se ha tenido como consecuencia la evasión del impuesto, se impondrá el mínimo de la sanción que corresponda, apercibiéndose al infractor de que se le castigará como reincidente si volviera a incurrir en la infracción;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-En tratándose de aviso de movimiento de propiedad de inmuebles presentado fuera del plazo, cuando no se cause el impuesto sobre adquisición de bienes inmuebles, se impondrá la sanción que establece la fracción XIII del artículo 86 de este Código.
+Tratándose de aviso de movimiento de propiedad de inmuebles presentado fuera de plazo se impondrá la sanción que establece la fracción XIII del artículo 86 de este Código.
 
 VIII. Cuando se omita una prestación fiscal que corresponda a los actos o contratos que se hagan constar en escrituras públicas o minutas extendidas ante el Notario o Corredor titulado, la sanción se impondrá exclusivamente a los Notarios o Corredores y los otorgantes solo quedarán obligados a pagar los impuestos omitidos;
 
@@ -917,7 +917,9 @@ XV. No presentar o no proporcionar o hacerlo extemporáneamente los avisos, soli
 
 XVI. Declarar los ingresos menores a los percibidos, hacer deducciones falsas, ocultar u omitir bienes existencias que deben figurar en los inventarios, o ligarlos a precios inferiores que los reales, no practicar los inventarios y balances que prevengan las disposiciones fiscales o hacerlo fuera de los plazos que estas dispongan; hasta noventa días del salario mínimo vigente en el Municipio.
 
-XVII. No pagar en forma total o parcial los impuestos, contribuciones, derechos, productos, dentro de los plazos señalados por las Leyes Fiscales; hasta tres tantos de la prestación fiscal; y/o contraprestación.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+XVII. No pagar en forma total o parcial los impuestos, contribuciones, derechos, productos, dentro de los plazos señalados en las leyes fiscales; hasta un tanto de la prestación fiscal y/o contraprestación.
 
 XVIII. Eludir el pago de las prestaciones fiscales como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras, de uno hasta noventa días del salario mínimo vigente en el Municipio.
 
@@ -1046,6 +1048,48 @@ XI.- No enterar dentro del plazo legal los créditos fiscales correspondientes a
 XII.- Traficar ilegalmente con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos, por cada uno; multa de 1 a 160 días del salario mínimo vigente en la zona económica que le corresponda.
 
 XIII.- Infringir otras disposiciones fiscales en forma no prevista en las precedentes; multa de 1 a 160 días del salario mínimo vigente en la zona económica que le corresponda.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+ARTICULO 88 BIS I.- Son infracciones y sanciones cuya responsabilidad recae en los peritos valuadores, cuando de las supervisiones realizadas a los trabajos de valuación, se detecten deficiencias por la incorrecta aplicación de los criterios de valuación que afecten notablemente las bases de tributación, al efecto las autoridades fiscales municipales podrán solicitar a la Secretaría de Finanzas y Administración del Estado aplicar las siguientes sanciones:
+
+I.- Amonestación por escrito:
+
+a).- Cuando en la revisión de los avalúos se determine que los datos no corresponden a la realidad o los valores asentados se determinaron con base a un incremento porcentual de los valores catastrales aplicados por el Ayuntamiento;
+
+b).- Por cambiar de domicilio fiscal sin dar el aviso correspondiente a las autoridades fiscales municipales y a la Secretaría de Finanzas y Administración;
+
+c).- Por cualquier otro incumplimiento a las disposiciones normativas que establecen las Leyes de Catastro, de Hacienda Municipal, respectivamente y el presente Código.
+
+II.- Suspensión de seis a doce meses, en caso de reincidir en alguna de las situaciones señaladas en la fracción que antecede de este artículo.
+
+III.- Cancelación por:
+
+a).- Haber obtenido, el registro con información y/o documentación falsa.
+
+b).- Por violaciones graves y reiteradas a las disposiciones del apartado de los avalúos, en la práctica y formulación de éstos.
+
+c).- Cancelación definitiva del registro, o inhabilitación como perito valuador por la Comisión Nacional Bancaria y de Valores, conforme a ordenamientos legales y administrativos aplicables, en relación con la actividad valuatoria.
+
+d).- Ser condenado mediante sentencia ejecutoriada que amerite pena corporal.
+
+Al perito valuador que se le suspenda temporalmente, no podrá realizar avalúos con fines fiscales durante ese período, sujetándose su reinscripción a los requisitos mencionados en el Artículo 65 de la Ley de Catastro Municipal. En el momento de la suspensión el perito valuador, reportará los avalúos hechos hasta esta fecha, así como los pendientes, quedando apercibido de que los no reportados no tendrán validez.
+
+El nombre y el número que les corresponderá a los Peritos Valuadores registrados, así como de los que se les aplique la suspención (sic) o cancelación del registro se hará del conocimiento de las siguientes instituciones:
+
+a) Comisión Nacional Bancaria y de Seguros.
+
+b) Colegio de Ingenieros.
+
+c) Colegio de Arquitectos.
+
+d) Sociedades Nacionales de Crédito que respalden los avalúos.
+
+e) Notarios Públicos.
+
+f) Tesoreros Municipales.
+
+Cuando los Peritos Valuadores cometan alguna infracción distinta a las previstas en el presente capítulo, se hará del conocimiento a la autoridad competente, independientemente de la imposición de las sanciones previstas en el Código Fiscal Municipal.
 
 ### CAPITULO II. DE LOS DELITOS FISCALES
 
@@ -1567,39 +1611,33 @@ II.- El deudor deberá ponerse de acuerdo con la Tesorería sobre el nombramient
 
 III.- Si el deudor no se pone de acuerdo para los efectos de la fracción que antecede, con la Tesorería Municipal, ésta nombrará perito tercero, escogiéndolo dentro de los de institución bancaria.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-IV.- Si de las supervisiones realizadas se encontraran deficiencias, alteraciones u omisiones de los Peritos Valuadores, sin perjuicio de las sanciones penales o fiscales en que incurran, se les aplicarán las siguientes sanciones administrativas:
+IV.- En caso de detectarse deficiencias, alteraciones, u omisiones en la valuación del bien embargado, para efectos del remate, a los peritos valuadores responsables que se encuentren inscritos en el Registro Estatal se les aplicarán las sanciones que se establecen en el artículo 88-Bis I de este Código; sin perjuicio de las sanciones penales o fiscales a que sean acreedores.
 
-a).- Apercibimiento por escrito.- Cuando mediante la supervisión realizada se detecten omisiones, deficiencias y alteraciones que afecten notablemente las bases de tributación del impuesto correspondiente.
+a).- (DEROGADO, P.O. 26 DE DICIEMBRE DE 1997)
 
-b).- Suspensión temporal.- Cuando se reincida en la causal de la fracción que antecede, hasta por el término de un año.
+b).- (DEROGADO, P.O. 26 DE DICIEMBRE DE 1997)
 
-c).- Cancelación de la cédula estatal.- Cuando habiendo suspendido temporalmente al valuador, incida nuevamente, en la causal a que se refiere la fracción anterior.
+c).- (DEROGADO, P.O. 26 DE DICIEMBRE DE 1997)
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+V.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1997)
 
-V.- El Perito Valuador que se le suspenda temporalmente, no podrá realizar avalúos comerciales para efectos fiscales, durante ese período, sujetándose su reinscripción a los requisitos mencionados en el Artículo 65 de la Ley de Catastro Municipal.
+VI.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1997)
 
-En el momento de la suspensión el perito valuador, reportará los avalúos hechos hasta esta fecha, así como los pendientes, quedando apercibido de que los no reportados no tendrán validez.
+a).- (DEROGADO, P.O. 26 DE DICIEMBRE DE 1997)
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+b).- (DEROGADO, P.O. 26 DE DICIEMBRE DE 1997)
 
-VI.- El nombre y el número que les corresponda a los Peritos Valuadores registrados, así como de los que se les aplique la suspensión o la cancelación del registro se hará del conocimiento de las siguientes instituciones:
+c).- (DEROGADO, P.O. 26 DE DICIEMBRE DE 1997)
 
-a).- H. Comisión Nacional Bancaria y de Seguros.
+d).- (DEROGADO, P.O. 26 DE DICIEMBRE DE 1997)
 
-b).- Colegio de Ingenieros.
+e).- (DEROGADO, P.O. 26 DE DICIEMBRE DE 1997)
 
-c).- Colegio de Arquitectos.
+f).- (DEROGADO, P.O. 26 DE DICIEMBRE DE 1997)
 
-d).- Sociedades Nacionales de Crédito que respalden los avalúos.
-
-e).- Notarios Públicos.
-
-f).- Tesoreros Municipales.
-
-Cuando los Peritos Valuadores cometan alguna infracción distinta a las previstas en el presente capítulo, se hará del conocimiento a la autoridad competente, independientemente de la imposición de las sanciones previstas en el Código Fiscal Municipal.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 144o.
 
@@ -2088,3 +2126,13 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y seis.
+
+P.O. 26 DE DICIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y ocho.
