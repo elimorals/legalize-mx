@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "1995-01-13"
+last_updated: "1997-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -547,7 +547,7 @@ Si el caso exige mayor sanción, se dará parte a la autoridad competente.
 
 ###### Artículo 90.
 
-A toda demanda o contestación deberá acompañarse necesariamente: 1o. El poder que acredite la personalidad del que comparece en nombre de otro; 2o. El documento o documentos que acrediten el carácter con el que el litigante se presente en juicio en el caso de tener representación legal de alguna persona o corporación o cuando el derecho que reclame provenga de habérsele transmitido por otra persona; 3o. Copia del escrito y de los documentos para correr traslado a la contraparte, pudiendo ser en papel común, fotostática o cualquiera otra, siempre que sea legible.
+A toda demanda o contestación deberá acompañarse necesariamente: 1o. El poder que acredite la responsabilidad del que comparece en nombre de otro; 2o. El documento o documentos que acrediten el carácter con el que el litigante se presente en juicio en el caso de tener representación legal de alguna persona o corporación o cuando el derecho que reclame provenga de habérsele transmitido por otra persona; 3o. Copia del escrito y de los documentos para correr traslado a la contraparte, pudiendo ser en papel común, fotostática o cualquiera otra, siempre que sea legible.
 
 ###### Artículo 91.
 
@@ -1459,7 +1459,7 @@ No pueden dictarse otras providencias precautorias, que las establecidas en este
 
 El que pida la providencia precautoria deberá acreditar el derecho que tiene para gestionar y la necesidad de la medida que solicita.
 
-La prueba puede consistir en documento o en testigos idóneos, que serán por lo menos tres.
+La prueba puede consistir en documento o en testigos idóneos, que serán por los menos tres.
 
 ###### Artículo 239.
 
@@ -1501,7 +1501,7 @@ En la ejecución de las providencias precautorias no se admitirá excepción alg
 
 ###### Artículo 248.
 
-El aseguramiento de bienes decretado por providencia precautoria y la consignación a que se refiere el artículo 244, se rigen por lo dispuesto en las reglas generales del secuestro
+El aseguramiento de bienes decretado por providencia precautoria y la consignación a que se refiere el artículo 244, se rigen por lo dispuesto en las reglas generales del secuestro.
 
 ###### Artículo 249.
 
@@ -3717,7 +3717,7 @@ TITULO DECIMOCUARTO
 
 ### CAPITULO II (SIC). Del Juicio Hipotecario
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 634.
 
@@ -3777,109 +3777,163 @@ Para la ejecución del desahucio se tiene como domicilio legal del ejecutado, la
 
 ###### Artículo 644-A.
 
-El juicio hipotecario es un procedimiento especial que tiene por objeto la constitución o ampliación de las hipotecas necesarias, la división o extinción de hipotecas o bien el pago o prelación del crédito que la hipoteca garantice.
+Se tramitará en la vía especial hipotecaria todo juicio que tenga por objeto la constitución, ampliación, división, registro y extinción de una hipoteca, así como su nulidad, cancelación, o bien el pago o prelación del crédito que la hipoteca garantice.
 
-Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas del presente capítulo, es requisito indispensable que la escritura conste en escritura debidamente registrada y que el plazo de pago se haya cumplido, o que deba anticiparse conforme a lo previsto en los artículos del Código Civil.
+Para que el juicio tenga por objeto el pago o la prelación de un crédito hipotecario, es necesario se siga según las reglas del presente capítulo, siendo requisito indispensable que el crédito hipotecario se otorgue en los términos de los Artículos 3096, 3097, 3098, 3099, 3108 y demás relativos del Código Civil para el Estado y que sea de plazo cumplido, o que éste sea exigible en los términos pactados o bien conforme a las disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 644-B.
 
-Cuando se establece pleito entre los que contrataron la hipoteca procederá juicio hipotecario sin necesidad del registro, siendo siempre condición indispensable para inscribir la cédula, que esté registrado el bien a nombre del demandado y que no haya inscripción de embargo o gravamen a favor de tercero.
+Procederá el juicio hipotecario, si éste fue constituido en los términos de los Artículos 3096, 3097, 3098, 3099, 3108 y demás relativos del Código Civil para el Estado, y además cuando:
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+I.- El documento base de la acción tenga carácter de título ejecutivo.
+
+II.- El bien se encuentre inscrito a favor del demandado.
+
+III.- No exista embargo o gravamen en favor de tercero, inscrito cuando menos noventa días anteriores a la de la presentación de la demanda.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 644-C.
 
-Presentado el escrito de demanda acompañado del instrumento respectivo, el Juez, si encuentra que reúnen los requisitos fijados por los artículos anteriores ordenará la expedición de la cédula hipotecaria y en su inscripción en el Registro Público de la Propiedad y mandará se corra traslado de la demanda al deudor para que dentro del término de nueve días ocurra a contestarla. En la contestación de demanda el deudor podrá oponer excepciones que no podrán ser otras que las de pago, de contrato no cumplido, novación, nulidad, de quita o de espera que consten por escrito, incompetencia, litispendencia, conexidad o de cosa juzgada, las tres últimas solamente se admitirán si se exhiben con la contestación las copias selladas de la demanda o de la contestación de demanda o, tratándose de la litispendencia y conexidad, de las cédulas de emplazamiento del juicio primeramente promovido; en el caso de la cosa juzgada se deberá acompañar como prueba, copia de la sentencia.
+Presentado el escrito de demanda, acompañado del instrumento respectivo, el Juez, previa calificación de que se reúnen los requisitos fijados por los artículos anteriores, en un plazo no mayor de tres días, admitirá la misma y mandará anotar la demanda en el Registro Público de la Propiedad y que se corra traslado de ésta al deudor, para que dentro del término de cinco días ocurra a contestarla y a oponer las excepciones que no podrán ser otras que:
 
-La personalidad de los promoventes se analizará de oficio por el Juez. Las excepciones que se opongan no suspenderán el procedimiento y se resolverán de plano en la audiencia de ley. No procederá la reconvención en este juicio.
+I.- La falta de personalidad del acreedor;
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+II.- Las fundadas en las que el demandado no haya firmado el documento base de la acción, su alteración o la de falsedad del mismo;
+
+III.- Falta de representación, de poder bastante o facultades legales de que quien haya suscrito en representación del demandado el documento base de la acción;
+
+IV.- Incumplimiento o nulidad del contrato;
+
+V.- Pago o compensación;
+
+VI.- Remisión o quita;
+
+VII.- Oferta de no cobrar o espera;
+
+VIII.- Novación de contrato;
+
+IX.- Litispendencia y conexidad, y
+
+X.- Cosa juzgada.
+
+Las excepciones comprendidas en las fracciones de la V a la VIII y la indicada en la fracción X, solo se admitirán cuando se funden en prueba documental. Las excepciones señaladas en la fracción IX, solo se admitirán si se exhiben con la contestación las copias señaladas de la demanda y contestación de ésta, o de las cédulas de emplazamiento del juicio pendiente o conexo, o bien la documentación que acredite fehacientemente que se encuentra tramitando un procedimiento arbitral.
+
+El Juez bajo su más estricta responsabilidad revisará escrupulosamente la contestación de la demanda y desechará de plano las excepciones diferentes a las que se autoriza, o aquellas en que sea necesario exhibir documento y el mismo no se acompañe.
+
+La reconvención solo será procedente cuando se funde en el mismo documento base de la acción o se refiera a su nulidad. En cualquier otro caso se desechará de plano.
+
+Las cuestiones relativas a la personalidad de las partes no suspenderán el procedimiento y se resolverán de plano en la audiencia. Si el demandado se allanare a la demanda y solicitare el término de gracia para el pago o cumplimiento de lo reclamado, el Juez dará vista al actor para que, dentro de tres días manifieste lo que a su derecho convenga, debiendo el Juez resolver de acuerdo a tales proposiciones de las partes. El término de gracia no podrá exceder de tres meses en ningún caso.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 644-D.
 
-Tanto en la demanda como en la contestación de demanda deberán las partes plantear la controversia y ofrecer todas sus pruebas. El Juez resolverá sobre la admisión de pruebas en el auto que recaiga a los escritos en que se ofrezcan, las que deberán desahogarse en la audiencia de ley, misma que deberá tener lugar en un término no mayor de 30 días.
+Tanto en la demanda como en la contestación a la misma, y en su caso, en la reconvención y en la contestación a ésta, las partes tienen la obligación de ser precisas, indicando en los hechos si sucedieron ante testigos, citando los nombres y apellidos de éstos y presentando todos los documentos relacionados con tales hechos. En los mismos escritos, las partes deben ofrecer todas sus pruebas, relacionándolas con los hechos que se pretendan probar. El juez resolverá sobre la admisión o desechamiento de pruebas, según proceda, en el auto que recaiga de las promociones en que se ofrezcan. En el caso de que las pruebas ofrecidas sean contra la moral o el derecho, sobre hechos que no han sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles, o no se hayan relacionado con los mismos, el juez las desechará; las pruebas que se admitan se desahogarán en la audiencia respectiva, la que será única e indiferible.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+En caso de allanamiento total de la demanda; si el deudor no hace valer defensas ni opone excepciones o las opone en forma distinta a lo señalado en este capítulo o fuera del término concedido para ello o no realiza dentro del plazo el pago de la cantidad reclamada, se pronunciará inmediatamente sentencia definitiva.
+
+En el escrito de contestación a la demanda y no encontrándose en ninguno de los supuestos del párrafo que antecede, se dará vista al actor para que manifieste lo que a su derecho convenga. En ese mismo acto, se señalará fecha y hora para la celebración de la audiencia de conciliación, excepciones, ofrecimiento y admisión de pruebas y desahogo de las mismas, la que deberá celebrarse dentro de los 20 días siguientes.
+
+Si hubiere reconvención se correrá traslado de ésta a la actora principal para que la conteste dentro de los tres días siguientes y en el mismo proveído le dará vista, en su caso con las excepciones opuestas para que manifieste lo que a su derecho convenga, dentro de ese mismo término.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 644-E.
 
-Las partes deberán ofrecer pruebas de su acción o de sus excepciones y defensas en los términos del artículo que antecede exhibiendo los documentos que tengan en su poder o la copia sellada solicitando los documentos que no tuvieran en los términos de los Artículos 91 y 92 de este ordenamiento.
+Si en la libertad de gravamen como uno de los elementos por el cual se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios, el juez mandará notificarles la existencia del juicio para que manifiesten lo que a su derecho corresponda.
 
-La preparación de las pruebas quedará a cargo de la parte oferente, por lo que en el acto de la audiencia, deberá presentar testigos, peritos y demás pruebas que le hayan sido admitidas y solamente en caso que demuestre fehacientemente al Juez la imposibilidad de preparar el desahogo de algunas de las pruebas que le fueron admitidas, éste, bajo su más estricta responsabilidad auxiliará al oferente expidiendo los oficios y citaciones que corresponda y nombrará perito tercero en discordia en caso de ser necesario, cuyos honorarios deberán ser cubiertos por las partes en porcentajes iguales. Lo anterior a efecto de preparar las pruebas y desahogarse en los términos del párrafo siguiente a más tardar en la audiencia de ley.
-
-Si llamado a un testigo, perito o solicitado un documento que haya sido ofrecido y admitido como prueba, no se desahogan éstos en el momento de celebrarse la audiencia de ley, no obstante el auxilio del Juzgado para su obtención por causa imputable al oferente, se declarará desierta la prueba ofrecida.
-
-El Juez deberá estar presente en la audiencia, la que se iniciará resolviendo los incidentes que hubieran, desahogará las pruebas admitidas y que procesalmente se puedan desahogar. Las que no estuvieren preparadas por culpa de los oferentes se declararán desiertas, por lo que la audiencia no se suspenderá ni habrá diferimientos de ésta en ningún caso, por falta de preparación.
-
-Desahogadas las pruebas, las partes podrán alegar lo que a su derecho convenga y el Juez dictará la resolución que corresponda.
-
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 644-F.
 
-Los incidentes no suspenderán el procedimiento, se tramitarán en los términos del Artículo 422 de este Código y la resolución se dictará conjuntamente con la sentencia definitiva.
+La demanda se anotará al margen de la inscripción registral de la hipoteca en el Registro Público correspondiente, a cuyo efecto el actor exhibirá un tanto más de dicha demanda, documento base de la acción y en su caso de aquellos con que justifique su representación, para que previo cotejo con sus originales se certifiquen por el Secretario, haciendo constar que se expiden para efectos de que la parte interesada inscriba su demanda, a quien se le entregarán para tal fin, debiendo hacer las gestiones en el Registro.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 644-G.
 
-El secuestro de la finca hipotecada se regirá por lo dispuesto en el Capítulo II, del Título Noveno de este código, debiendo quedar el deudor en posesión de la finca cuando habite en ella en calidad de depositario.
+Si la finca no se haya en el lugar del juicio, se librará exhorto al juez de la ubicación, para que ordene el registro de la demanda como se previene en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 644-H.
 
-Inscrita la cédula hipotecaria, no podrá verificarse en la finca hipotecada ninguno de los actos en ella expresados, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la demanda que ha motivado la expedición de la cédula o de la providencia dictada a petición de acreedor de mejor derecho.
+Anotada la demanda en el Registro Público de la Propiedad, no podrá verificarse en la finca hipotecada ningún embargo, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el curso del juicio, sino en virtud de sentencia ejecutariada (sic) relativa a la misma finca, debidamente registrada y anterior en fecha a la inscripción de la referida demanda o en razón de providencia precautoria solicitada ante el juez por acreedor con mejor derecho, en fecha anterior a la demanda.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 644-I.
 
-Para el avalúo de la finca se observará lo prevenido en el Capítulo V, Sección Tercera del Título Séptimo de este código.
+En la diligencia de emplazamiento se le requerirá al deudor del pago de lo adeudado y de no hacerlo se le nombrará depositario judicial, respecto a la finca dada en garantía hipotecaria, de sus frutos y los objetos que con arreglo al contrato y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+Para efecto del inventario el deudor queda obligado a dar todas las facilidades para su formación y en caso de desobediencia, el Juez lo compelerá por los medios de apremio que le autoriza la ley.
+
+El deudor que no haya aceptado la responsabilidad de depositario, será desalojado judicialmente y entregará desde luego la tenencia material al actor.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 644-J.
 
-El valor del bien para efectos del remate del bien hipotecado será el que determine la institución de crédito que señalen las partes en la constitución de la hipoteca o en defecto de ésta, la institución del crédito que señale el juez.
+Si en la diligencia que se señala en el párrafo anterior no se entendiere directamente con el deudor, éste deberá dentro de los tres días siguientes manifestar si acepta o no la responsabilidad de depositario, entendiéndose que no lo acepta si no hace esta manifestación y en este caso el autor podrá pedir que se le entregue la tenencia material de la finca.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 644-K.
 
-El recurso de apelación en su caso, solo será admitido en el efecto devolutivo.
+Las partes deberán ofrecer sus pruebas para acreditar los hechos de su acción o de sus excepciones en los escritos que fijan la controversia, exhibiendo los documentos que tengan en su poder o la copia sellada en la que se solicite la expedición de tales documentos que no tuvieran.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a los testigos, peritos y demás pruebas que les hayan sido admitidas y solo en caso de que existan periciales contradictorias de ambas partes, el juez en auxilio de las mismas, nombrará un perito tercero en discordia. Las pruebas salvo la del perito tercero en discordia se desahogarán en la audiencia respectiva.
+
+Si llamado un testigo, perito o solicitado un documento que hayan sido admitidos como pruebas, no se desahogan éstas a más tardar en la audiencia, se declarará desierta la prueba ofrecida por causa imputable al oferente.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 644-L.
 
-Agotado el procedimiento, si resulta probada la acción, al decidir los derechos controvertidos, la sentencia decretará el remate de los bienes hipotecados.
+Si el demandado en la audiencia conciliatoria confesare ciertas las pretensiones del actor, el juez le concederá al demandado un término de gracia de quince días para hacer los pagos adeudados, exentándolo del pago de gastos y costos que se hubieren originado. Si no lo hiciere, a los quince días siguientes se dictará sentencia condenatoria en la que se determine el remate de la finca hipotecada por el saldo de lo adeudado por el demandado.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 644-M.
 
-Si el superior revoca el fallo de primera instancia que declaró procedente el remate, luego que vuelvan los autos al Juzgado de su origen, se mandará cancelar la inscripción de la cédula hipotecaria en el Registro Público y en su caso se devolverá la finca al demandado, ordenando al depositario que rinda cuentas con pago en el término que le fije el Juez, que no podrá exceder de treinta días, si el remate se hubiere ya verificado, se hará efectiva la fianza en vía de apremio.
+El Juez debe presidir la audiencia, que se iniciará resolviendo todas las excepciones que existan, los incidentes que hubieren y desahogará las pruebas admitidas y preparadas y procederán las partes a alegar lo que a su derecho convenga, acto continuo el juez dictará la sentencia que corresponda, la que podrá ser apelable únicamente en efecto devolutivo.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 644-N.
 
-Si en el Título con que se ejercita una acción hipotecaria se advierte que haya otros acreedores hipotecarios anteriores, el Juez mandará notificarles la cédula hipotecaria para que usen de sus derechos conforme a la ley.
+Para el remate, se tendrá como precio de la finca hipotecada, el precio que señale el avalúo que presente la persona que las partes hayan convenido para tal efecto en el momento de la constitución de la hipoteca, o en su caso, de no haberse acordado se procederá de la forma siguiente:
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+I.- Cada parte tendrá derecho de exhibir, dentro de los cinco días siguientes a que sea ejecutable la sentencia, avalúo de la finca hipotecada, practicado por un corredor público, una institución de crédito o perito valuador autorizado por la ley, los cuales en ningún caso podrán tener el carácter de parte o de interesada en juicio;
+
+II.- En el caso de que algunas de las partes deje de exhibir el avalúo dentro del plazo señalado en la fracción anterior se entenderá su conformidad con el avalúo que haya exhibido su contraria;
+
+III.- En el supuesto de que ninguna de las partes exhiba el avalúo dentro del plazo señalado en la fracción I de este artículo, cualquiera de ellas lo podrá presentar posteriormente, considerándose como base para el remate el primero en tiempo;
+
+IV.- Si las dos partes exhibieren los avalúos en el plazo a que se refiere la fracción I de este artículo y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate el promedio de ambos avalúos, siempre y cuando no exista un treinta por ciento de diferencia entre el más bajo y el más alto, en cuyo caso el juez ordenará se practique nuevo avalúo por el corredor público o la institución bancaria que al efecto señale;
+
+V.- La vigencia del valor que se tenga por los avalúos, será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre ésta y la subsecuente mediara un término mayor de seis meses, se deberán actualizar los valores;
+
+VI.- Obtenido el valor del avalúo según el caso que corresponda de acuerdo a las fracciones anteriores, se procederá a rematar la finca en los términos del Capítulo IV del Título IX de este ordenamiento, y
+
+VII.- La resolución que recaiga al remate solo podrá ser apelable en sentido devolutivo.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 644
 
-.O- La cédula hipotecaria contendrá una relación sucinta de la escritura y concluirá en los términos: "En virtud de las constancias que proceden, queda sujeta la finca...... de la propiedad de ...... a juicio hipotecario, lo que se hace saber a las autoridades y al público, para que no se practique en la mencionada finca ningún embargo, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del presente juicio o viole los derechos en él adquiridos por el C. (Aquí el nombre del actor).
+.O- En el caso de la transmisión de los derechos y obligaciones prevista en el segundo párrafo del Artículo 3108 del Código Civil, se deberá solicitar avalúo del bien para fijar el precio que corresponda a la cosa en el momento de exigirse el pago, debiéndose aplicar en lo conducente lo señalado en el Artículo 523 de este ordenamiento. El deudor puede oponerse a la transmisión alegando las excepciones que tuviere, y ésta oposición se substanciará incidentalmente.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+También pueden oponerse a la venta, los acreedores hipotecarios posteriores, alegando prescripción de la acción hipotecaria.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 644-P.
 
-La cédula hipotecaria se inscribirá en el Registro Publico correspondiente, a cuyo efecto se expedirá por duplicado copia certificada de la cédula, una copia quedará en el registro y la otra, ya registrada, se agregará a los asuntos(sic).
+Las resoluciones que se dicten en esta vía especial hipotecaria, podrán ser apeladas solo en efecto devolutivo y en ningún caso podrá suspenderse el procedimiento.
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
 
@@ -5507,7 +5561,7 @@ Cuando se presente como actor o como reo alguien que no sea personalmente conoci
 
 No será necesaria la identificación aunque se trate de personas desconocidas cuando por la naturaleza o circunstancias del caso no hubiere peligro de suplantación de la persona.
 
-El que se presente como actor o como reo usando nombre de otro para hacerse pasar por él, se considerará como falsario y quedará sujeto a las sanciones que termine el Código Penal.
+El que se presente como actor o como reo usando nombre de otro para hacerse pasar por él, se considerará como falsario y quedará sujeto a las sanciones que determine el Código Penal.
 
 Del Juicio
 
@@ -5647,7 +5701,7 @@ En los negocios de la competencia de los juzgados de paz o menores municipales, 
 
 ###### Artículo 41.
 
-Ante los jueces de paz o menores municipales no será necesaria la intervención de abogados ni se exigirá ritualidad alguna ni forma determinada en las promociones o alegaciones que se hagan
+Ante los jueces de paz o menores municipales no será necesaria la intervención de abogados ni se exigirá ritualidad alguna ni forma determinada en las promociones o alegaciones que se hagan.
 
 ###### Artículo 42.
 
@@ -5708,3 +5762,17 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los juicios que actualmente se estén tramitando que tengan por objeto cualquiera de los supuestos previstos en el Artículo 644-A del presente decreto, se seguirán substanciando conforme a las normas establecidas para los juicios en que se iniciaron, hasta su resolución definitiva.
+
+P.O. 30 DE ABRIL DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+Se abrogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Todos los juicios hipotecarios que actualmente se siguen, se continuará tramitando conforme al procedimiento iniciado.
