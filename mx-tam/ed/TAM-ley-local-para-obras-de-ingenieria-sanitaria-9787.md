@@ -4,7 +4,7 @@ identifier: "TAM-ley-local-para-obras-de-ingenieria-sanitaria-9787"
 country: "mx"
 rank: "ley"
 publication_date: "1944-06-07"
-last_updated: "1944-06-07"
+last_updated: "1944-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY LOCAL PARA OBRAS DE INGENIERÍA SANITARIA EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en el Periódico Oficial, el 30 de septiembre de 1944.
 
