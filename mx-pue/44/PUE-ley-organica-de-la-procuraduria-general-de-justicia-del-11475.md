@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-procuraduria-general-de-justicia-del-11475"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-03-15"
-last_updated: "1996-03-15"
+last_updated: "1998-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 1998.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 15 de marzo de 1996.
 
@@ -153,17 +153,7 @@ I).- Acordar la reserva provisional de las actuaciones, cuando una vez realizada
 
 J).- Procurar la conciliación de las partes, tratándose de delitos perseguibles por querella;
 
-K).- Previa autorización del C. Procurador no ejercitar la acción penal persecutoria, en los siguientes casos:
-
-a).- Cuando los hechos de que tengan conocimiento, no sean constitutivos de delito, conforme a la descripción típica contenida en la Ley;
-
-b).- Cuando se hubiese extinguido legalmente la acción penal persecutoria, en términos de lo dispuesto por el Código de Defensa Social para el Estado;
-
-c).- Cuando de las diligencias practicadas, se deduzca plenamente que el inculpado actúo en algunas de las causas excluyentes de responsabilidad penal; y
-
-d).- Cuando aún siendo presuntivamente delictivos los hechos de que se trate, resulte imposible la prueba de su existencia por obstáculo material insuperable.
-
-En los casos, de solicitud de reserva o archivo, el Agente del Ministerio Público antes de remitir la Averiguación Previa al Primer Subprocurador, notificará al denunciante o querellante el acuerdo de reserva o archivo, otorgándole quince días naturales para que exprese por escrito lo que a su derecho convenga, para posteriormente acordar lo procedente.
+K).- (DEROGADO, P.O. 5 DE AGOSTO DE 1998)
 
 II.- En el ejercicio de la acción penal persecutoria y durante el proceso con:
 
@@ -309,9 +299,13 @@ XVIII.- En términos de Ley atender y facilitar a los Diputados los informes que
 
 El Ministerio Público es una Institución encargada de velar por la exacta observancia de las Leyes de interés público, y que a través de sus Agentes del Ministerio Público ejercita las acciones correspondientes en contra de los infractores de dichas Leyes, haciendo efectivos los derechos concedidos al Estado e interviniendo en los juicios que afecten a personas a quienes la Ley otorgue especial protección.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 16.
 
-Los Agentes del Ministerio Público, en su carácter de Representantes Sociales, tendrán las atribuciones que le confieren los diferentes ordenamientos legales y las que esta Ley Orgánica prevé para la investigación y persecución de los delitos, así como las que por acuerdo les confiera el Titular de la Procuraduría.
+Los Agentes del Ministerio Público Titulares, en su carácter de representantes sociales, tendrán las atribuciones que le confieren los diferentes ordenamientos legales y los que esta Ley Orgánica prevé para la investigación y persecución de los delitos, así como los que por acuerdo le confiera el Titular de la Procuraduría.
+
+Será el Reglamento de esta Ley, el que delimite específicamente las funciones y ámbitos de competencia que deberá regir para los Agentes del Ministerio Público Adjuntos y Auxiliares de Agente del Ministerio Público.
 
 ###### ARTICULO 17.
 
@@ -447,9 +441,41 @@ VI.- No ser adicto a estupefacientes, ni tener el hábito del alcoholismo; y
 
 VII.- Tener más de veinticinco años de edad, a la fecha de su nombramiento.
 
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
+Además de los requisitos anteriores su ingreso estará supeditado a la aprobación del procedimiento selectivo que para tal efecto se convoque y que constará de las siguientes fases: convocatoria; entrega de documentos; proceso de selección; examen psicológico y examen por oposición.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
+La convocatoria deberá señalar entre otros los siguientes puntos:
+
+a).- Si el concurso es abierto a todo el foro o si es de promoción interna;
+
+b).- Número de plazas a cubrir;
+
+c).- Requisitos que deben cumplir los candidatos;
+
+d).- Plazo de entrega de documentación;
+
+e).- Lugar, fecha y hora de entrega de la documentación requerida;
+
+f).- Carácter del concurso (abierto o interno), criterios de evaluación y temática;
+
+g).- Fecha de ingreso, y
+
+h).- Documentación a entregar.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
+El jurado que realizará el examen de oposición se integrará por seis sinodales Titulares, representantes de las Instituciones siguientes: Facultades de Derechos de Universidades Públicas y Privadas; Colegios o Asociación de Abogados en el Estado; Comisión Estatal de Defensa de los Derechos Humanos y el Director de Formación y Capacitación Profesional de la Procuraduría, quien fungirá como Secretario con voz pero sin voto.
+
 ###### ARTICULO 34.
 
 Para ser Agente de la Policía Judicial, deberán reunirse los requisitos mencionados en las fracciones I, II, V y VI del artículo anterior, así como acreditar haber concluido cuando menos la enseñanza preparatoria o su equivalente y tener más de dieciocho y menos de cuarenta años de edad, a la fecha de su ingreso.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+
+Para acceder al grado de Comandante y Jefe de Grupo en la corporación, los aspirantes al ascenso deberán aprobar el procedimiento de promoción que para tal efecto se convoque; el que, entre otros requisitos dispondrán de: una permanencia de tres años cumplidos e ininterrumpidos en la corporación; cubrir satisfactoriamente los cursos de capacitación y actualización que con ese fin programe la Dirección de Formación y Capacitación Profesional de la Procuraduría; ausencia de sanciones administrativas y disciplinarias que se le hayan impuesto y la aprobación de un examen de promoción, que se llevará a cabo entre los servidores públicos que se crean con derecho a cubrir la plaza de que se trate.
 
 ###### ARTICULO 35.
 
@@ -550,3 +576,23 @@ LIC. MANUEL BARTLETT DIAZ
 EL SECRETARIO DE GOBERNACION
 
 LIC. MARIO P. MARIN TORRES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE AGOSTO DE 1998.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los actos y procedimientos relacionados con esta Ley, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento y las demás normas aplicables al asunto de que se trate.
+
+###### ARTÍCULO CUARTO.
+
+En tanto no se expidan las disposiciones reglamentarias y administrativas que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no contravengan.
