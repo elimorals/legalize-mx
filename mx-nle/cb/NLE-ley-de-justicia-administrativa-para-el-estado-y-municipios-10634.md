@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "1997-02-21"
+last_updated: "2003-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -115,9 +115,13 @@ El Tribunal de lo Contencioso Administrativo tendrá un Presidente que durará e
 
 La elección del Presidente del Tribunal, se efectuará por los mismos Magistrados, en la primera sesión del año que corresponda.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 14.
 
-Para ser Secretario General de Acuerdos, Secretario de Estudio y Cuenta, y Actuario del Tribunal se deberán reunir los mismos requisitos que se establecen para los Magistrados, a excepción del referente al título profesional, cuya expedición deberá ser de al menos tres años previos al día de su nombramiento.
+Para ser Secretario General de Acuerdos, Secretario de Estudio y Cuenta, y Actuario del Tribunal, se deberán reunir los mismos requisitos que se establecen para los Magistrados, a excepción del referente a la fracción II del Artículo 8 de esta Ley, en cuyo caso bastará con poseer título de Licenciado en Derecho.
+
+Tratándose del Secretario General de Acuerdos y de los Secretarios de Estudio y Cuenta, ellos deberán contar, además, con por lo menos dos años de ejercicio profesional o práctica jurisdiccional por el mismo lapso en el Tribunal de lo Contencioso Administrativo o en algún otro órgano jurisdiccional.
 
 ###### Artículo 15.
 
@@ -990,3 +994,9 @@ JUAN FRANCISCO RIVERA BEDOYA
 El C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 XAVIER DORIA GONZALEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
