@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-municipal-del-estado-de-aguascalientes-18405"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-11-06"
-last_updated: "2000-11-06"
+last_updated: "2003-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL PERIODICO OFICIAL EL 6 DE OCTUBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 6 de noviembre de 2000.
 
@@ -537,7 +539,7 @@ LIII.- Celebrar convenios para la administración y custodia de las zonas federa
 
 LIV.- Formular y aprobar los planes y programas conducentes al desarrollo municipal de acuerdo con lo dispuesto en esta ley; y
 
-LV.-Solicitar oportunamente la expropiación de bienes por causas de utilidad pública, motivando su solicitud; y
+LV.- Solicitar oportunamente la expropiación de bienes por causas de utilidad pública, motivando su solicitud; y
 
 LVI.- Las demás que le confieran esta y otras disposiciones legales.
 
@@ -847,13 +849,13 @@ I.- Superficie, medidas, linderos y ubicación exacta del inmueble de que se tra
 
 II.- Valor catastral o fiscal y comercial del mismo;
 
-III.-Términos en que debe realizarse la operación y motivos que tengan para realizarla;
+III.- Términos en que debe realizarse la operación y motivos que tengan para realizarla;
 
 IV.- Comprobación de que el inmueble no esté destinado a un servicio publico municipal y que carece de valor arqueológico, histórico o artístico, certificado esto ultimo por un perito en la materia;
 
 V.- Documentación que acredite la propiedad municipal sobre el inmueble; y
 
-VI.-El destino que se dará a los fondos que se obtengan de la operación.
+VI.- El destino que se dará a los fondos que se obtengan de la operación.
 
 ###### ARTICULO 57.
 
@@ -1100,3 +1102,15 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE OCTUBRE DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO.- Se abroga la Ley Orgánica Municipal del Estado de Aguascalientes, publicada el día 6 de noviembre de 2000, en el Periódico Oficial del Estado de Aguascalientes.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+CUARTO.- Los actos jurídicos municipales y los trámites ante las autoridades municipales que se encuentren pendientes de resolución se sujetarán a los procedimientos previstos en la Ley que se abroga.
