@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1976-06-24"
+last_updated: "1978-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 1978.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -317,11 +317,11 @@ Después de verificadas las elecciones en cada periodo constitucional, los ciuda
 
 Las resoluciones así dictadas y todas las que prevengan del Congreso erigido en Colegio Electoral, serán definitivas e irrevocables; y ningún poder, autoridad o funcionario podrá revisar ni poner en duda los títulos de legitimidad de cualquier funcionario declarado electo por el Colegio Electoral.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1978)</small>
 
 ###### Artículo 25.
 
-El Congreso se reunirá en sesiones ordinarias y extraordinarias. Tendrá cada año dos períodos de sesiones ordinarias; el primero de iniciará el 1o. de marzo y concluirá el 25 de mayo, y el segundo se iniciará el 15 de noviembre y concluirá el 21 de febrero del año siguiente. Se reunirá en sesiones extraordinarias cuando fuere convocado por la Diputación Permanente.
+El Congreso se reunirá en sesiones ordinarias y extraordinarias; Tendrá cada año dos períodos de sesiones ordinarias; el primero de iniciará el 1o. de marzo y concluirá el 30 de junio, y el segundo se iniciará el 1 de octubre y concluirá el 31 de diciembre. Se reunirán en sesiones extraordinarias cuando fuere convocado por la Diputación Permanente.
 
 ###### Artículo 26.
 
@@ -333,7 +333,7 @@ La Legislatura no puede abrir sus sesiones ordinarias o extraordinarias, ni deli
 
 Los diputados que falten a las sesiones sin causa justificada o sin licencia de la Legislatura por más de diez veces, serán sustituidos por los suplentes hasta el período inmediato.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1978)</small>
 
 ## TITULO VI. DE LOS MUNICIPIOS
 
@@ -341,7 +341,7 @@ Los diputados que falten a las sesiones sin causa justificada o sin licencia de 
 
 ###### Artículo 28.
 
-Durante las sesiones ordinarias, el Congreso se ocupará preferentemente de examinar y calificar las cuentas de recaudación y aplicación de los fondos del Estado y Municipales correspondientes al año anterior y dictar la Ley de Ingresos del Estado y de los Municipios y estudiar, modificar o aprobar en su caso, el Presupuesto de Egresos del Estado que el Gobernador deberá de enviar al Congreso oportunamente.
+Durante el primer período de sesiones ordinarias, el Congreso se ocupará preferentemente de examinar y calificar las cuentas de recaudación y aplicación de los fondos del Estado y Mpales. correspondientes al año anterior; y en el segundo, y para que rijan en el año siguiente, se ocupará preferentemente de dictar la Ley de Ingresos del Estado y de los Municipios, y de aprobar el Presupuesto de Egresos del Estado que el Gobernador deberá de enviar al Congreso durante el mes de noviembre.
 
 ###### Artículo 29.
 
@@ -443,9 +443,9 @@ VII. Constituirse en Colegio Electoral a efecto de calificar la elección de Gob
 
 VIII. Ratificar los nombramientos de los Magistrados del Tribunal Superior de Justicia expedidos por el C. Gobernador del Estado. Si la Cámara no resolviere sobre la ratificación o no ratificación de dichos nombramientos, dentro del término de diez días, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara, no podrán tomar posesión los Magistrados nombrados por el C. Gobernador del Estado. En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de una misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego como provisional, y que será sometido a la aprobación del Congreso en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego el Magistrado Provisional y el Gobernador someterá nuevo nombramiento a la aprobación del Congreso, en los términos señalados. Cuando por enfermedad o licencia de alguno de los Magistrados, no se pudiera integrar el Tribunal Superior de Justicia, los nombramientos provisionales que el C. Gobernador extienda para cubrir la vacante, no están sujetos a ratificación del Congreso, siempre que la ausencia del Magistrado Propietario no exceda de tres meses.
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 1975)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 1978)</small>
 
-IX. Recibir la protesta del Gobernador, Magistrados y Diputados, hecha excepción del caso de desaparición de Poderes, conforme a la Fracción V del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos, en cuyo caso, el nuevo Gobernador rendirá la protesta ante los Presidentes Municipales presentes de las Cabeceras de los Distritos Electorales Locales; así como la de los Magistrados del H. Tribunal Superior de Justicia.
+IX. Recibir la protesta del Gobernador, Magistrados y Diputados.
 
 X. Nombrar y remover al Contador Mayor de Glosa y aprobar los nombramientos que de los empleados subalternos haga el Contador.
 
@@ -501,13 +501,13 @@ IV. Conceder licencia hasta por seis meses al Gobernador, a los magistrados, dip
 
 V. Llamar a los diputados suplentes para las próximas sesiones en caso de muerte, inhabilidad o licencia de los propietarios;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 1975)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 1978)</small>
 
-VI. Recibir la Protesta del Gobernador y Magistrados, salvo el caso de desaparición de Poderes previsto por la fracción IX del Artículo 41 de esta Constitución;
+VI. Recibir la protesta del Gobernador y Magistrados;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 1975)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 1978)</small>
 
-VII. Convocar por sí sola, al Congreso a Sesiones Extraordinarias, para los efectos señalados en los Artículos 51, 91 y 92 de esta Constitución;
+VII. Convocar inmediatamente por sí sola, al Congreso, a sesiones extraordinarias, siempre que el Gobernador, los Diputados, los Magistrados o el Procurador General de Justicia hayan cometido algún delito grave del orden común y en los casos de falta absoluta del Gobernador;
 
 VIII. Recibir dentro del receso del Congreso las iniciativas de Ley y proposiciones dirigidas a la Cámara y turnarlas para dictamen a las comisiones respectivas, a fin de que se despachen en el inmediato período de sesiones;
 
@@ -557,39 +557,31 @@ IV.- Los militares que no se hayan separado del servicio, cuando menos noventa d
 
 El Gobernador será nombrado por elección popular directa y en los términos que disponga la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1975)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL 1978)</small>
 
 ###### Artículo 50.
 
-El Gobernador entrará al ejercicio de sus funciones el 1o. de abril del año correspondiente, durará en su cargo 6 años y nunca podrá ser reelecto. Los ciudadanos que hayan ocupado el cargo de Gobernador del Estado por elección popular directa ordinaria o extraordinaria, en ningún caso, y por ningún motivo, podrán volver a ocupar ese cargo ni aún con el carácter de Interinos, Provisionales, Substitutos o Encargados del Despacho.
+El Gobernador entrará al ejercicio de sus funciones el 1o. de abril del año correspondiente, durará en su cargo 6 años y nunca podrá ser reelecto. Los ciudadanos que hayan ocupado el cargo de Gobernador del Estado por elección popular directa ordinaria o extraordinaria, en ningún caso y por ningún motivo podrán volver a ocupar ese cargo ni aún con el carácter de interinos, provisionales, substitutos o encargados del despacho.
 
-El Gobernador al tomar posesión de su cargo rendirá ante el Congreso del Estado o a la Diputación Permanente en los recesos de aquél, la siguiente protesta: Protesto solemnemente guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y las Leyes que de ellas emanen; desempeñar leal y patrióticamente, el cargo de Gobernador del Estado, mirando por la prosperidad y bienestar de esta propia Entidad, y si así no lo hiciere, que el Estado me lo demande. Tratándose del Gobernador Provisional o Substituto, elevado a virtud de la desaparición de Poderes, la protesta se rendirá en los mismos términos, pero ante las Autoridades indicadas por el Artículo 41 Fracción IX de esta Constitución. Los Presidentes Municipales para los anteriores efectos se reunirán por única vez en el Recinto Oficial de la Cámara de Diputados.
+El Gobernador al tomar posesión de su cargo rendirá ante el Congreso del Estado o a la Diputación Permanente en los recesos de aquél, la siguiente protesta: Protesto solemnemente guardar y hacer (sic) la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y las Leyes que de ellas emanen; desempeñar leal y patrióticamente, el cargo de Gobernador del Estado, mirando por la prosperidad y bienestar de la Entidad, y si así no lo hiciere, que el Estado me lo demande.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1978)</small>
 
 ###### Artículo 51.
 
-Para suplir las faltas temporales del Gobernador, el Congreso del Estado, o en su receso la Diputación Permanente, nombrará un Gobernador Interino.
+Para suplir las faltas temporales del Gobernador, el Congreso del Estado, o en su receso, la Diputación Permanente, nombrará un Gobernador Interino.
 
-En caso de falta absoluta del Gobernador ocurrida en los tres primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Interino; el mismo Congreso expedirá dentro de los diez días siguientes al de la designación de Gobernador Interino, la convocatoria para la elección de Gobernador que deba de concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que señale para la verificación de las elecciones, un plazo no menor de un mes, ni mayor de tres meses.
+En caso de falta absoluta del Gobernador ocurrida en los 3 primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las 2 terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Interino; el mismo Congreso expedirá dentro de los diez días siguientes al de la designación de Gobernador Interino, la convocatoria para la elección de Gobernador que deba concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que señale para la verificación de las elecciones, un plazo no menor de un mes, ni mayor de 3 meses.
 
-Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará desde luego un Gobernador Provisional y convocará a sesiones extraordinarias al Congreso, para que éste, a su vez, designe al Gobernador Interino y expida la convocatoria a elecciones de Gobernador en los términos del párrafo anterior.
+Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador Provisional y convocará a sesiones extraordinarias al Congreso, para que éste, a su vez; designe al Gobernador Interino y expida la convocatoria a elecciones de Gobernador en los términos del párrafo anterior.
 
-Si la falta ocurriere durante los tres últimos años del período, si el Congreso se encontrare en sesiones designará al Gobernador Substituto que deberá concluir el período; si el Congreso no estuviere reunido, la Comisión Permanente nombrará un Gobernador Provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la elección de Gobernador Substituto.
+Si la falta ocurriere durante los 3 últimos años del período, si el Congreso se encontrare en sesiones designará al Gobernador Substituto, que deberá concluir el período; si el Congreso no estuviere reunido la Diputación Permanente nombrará un Gobernador Provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral, y haga la elección de Gobernador Substituto.
 
-Si la falta absoluta ocurriere no encontrándose el Gobernador en el ejercicio de sus funciones el 1o. de abril, cesara sin embargo, el Gobernador cuyo período haya terminado y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el que designe el Congreso del Estado y procederá conforme al párrafo segundo del presente artículo.
+Si la falta absoluta ocurriere no encontrándose el Gobernador en el ejercicio de sus funciones el 1o. de abril, cesara sin embargo, el Gobernador cuyo período haya terminado y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el que designe el Congreso del Estado y procederá conforme al párrafo 2o. del presente artículo.
 
-Si la falta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Presiente del Tribunal se encargará del Despacho del Gobierno, hasta la toma de posesión del Gobernador Provisional o del Substituto, en sus respectivos casos.
+Si la falta absoluta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Presiente del Tribunal Superior de Justicia se encargará del Despacho hasta la toma de posesión del Gobernador Provisional o del Substituto, en sus respectivos casos.
 
-El Presidente del Tribunal se encargará además, del Despacho del Gobierno, siempre que por cualquier motivo no precisados por esta Constitución, se encuentre acéfalo el Poder Ejecutivo.
-
-> <small>(ADICIONADO, 1 DE MARZO DE 1975)</small>
-
-Si la falta absoluta del Gobernador se debiere a la desaparición de Poderes en el Estado, ocupará inmediatamente el cargo de Gobernador, el Presidente Municipal de Pachuca de Soto, Hidalgo; el Gobernador tendrá el carácter de Provisional si la falta ocurriere dentro de los dos primeros años, debiendo de expedir dentro de los diez días siguientes, convocatoria en que citará a elecciones para Diputados Propietarios y Suplentes que integren el Congreso del Estado por el resto el período, mediando entre la fecha de la convocatoria y la que se señale para la celebración de las elecciones, a efecto de integrar el Poder Legislativo, un plazo no menor de un mes ni mayor de seis meses. El Gobernador Provisional deberá expedir dentro del año siguiente, convocatoria para la elección de Gobernador Substituto, quien deberá de concluir el período, mediando entre la fecha de la convocatoria y la que se señale para la celebración de las elecciones un plazo no menor de 4 meses, ni mayor de 6 meses. Cuando la desaparición de Poderes sea declarada dentro de los cuatro últimos años del mandato, también asumirá el cargo de Gobernador el Presidente Municipal de Pachuca de Soto, quien terminará el período correspondiente con carácter de Substituto, y expedirá convocatoria para integrar el Poder Legislativo en los términos citados, que durará en su encargo el resto del período. La iniciación y duración de las Legislaturas que sucedan a la desaparición de Poderes, deberán ajustarse a las fechas que resultaren reformándose en este evento las Leyes que así procedieren.
-
-> <small>(ADICIONADO, 1 DE MARZO DE 1975)</small>
-
-Tratándose de Gobernador Provisional que asuma el poder a virtud de lo establecido en el párrafo anterior, el Poder Judicial del Estado será integrado por nombramientos que expida el Gobernador y quedarán definitivamente designados si el Gobernador electo para terminar el período los ratifica, en caso contrario, el Poder Judicial se integrará conforme a lo preceptuado en las Fracciones XIV y XV del Artículo 53 de esta Constitución.
+El Presidente del Tribunal Superior de Justicia se encargará además, del Despacho del Gobierno, siempre que por cualquier motivo no precisados por esta Constitución, se encuentre acéfalo el Poder Ejecutivo.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
@@ -615,9 +607,9 @@ IV. Pedir al Congreso de la Unión el consentimiento a que se refiere la fracci�
 
 V. Informar al Congreso por escrito o verbalmente por conducto del Secretario del Ramo, sobre los asuntos de la Administración cuando el mismo Congreso lo solicite;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 1978)</small>
 
-VI. Hacer que se remita al Congreso, el 15 de enero de cada año, la cuenta general del Estado, correspondiente al año anterior;
+VI. Hacer que se remita al Congreso el 15 de marzo de cada año, la Cuenta General del Estado, correspondiente al año anterior;
 
 VII. Facilitar al Poder Judicial los elementos necesarios para el ejercicio expedito de sus funciones;
 
@@ -661,9 +653,9 @@ XXV. Nombrar Jueces del Registro Civil donde lo crea oportuno, de acuerdo con la
 
 XXVI. Cuidar de los distintos ramos de la administración, procurando que los caudales públicos estén siempre asegurados y se recauden e inviertan con arreglo a las leyes;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 1978)</small>
 
-XXVII. Asistir al H. Congreso el día 20 de febrero de cada año, para dar cuenta del estado que guardan los diversos ramos de la Administración Pública;
+XXVII. Asistir al H. Congreso el día 1o. de marzo de cada año, para dar cuenta del estado que guardan los diversos ramos de la administración pública;
 
 XVIII (sic). Solicitar del Congreso autorización para el arreglo de límites con los Estados limítrofes; y una vez aprobado el arreglo por el Congreso, dirigir al Congreso de la Unión para los efectos de los artículos 73 fracción IV y 116 de la Constitución General;
 
@@ -1180,6 +1172,10 @@ Unico.- Este Decreto entrará en vigor al día siguiente de su publicación en e
 P.O. 24 DE JUNIO DE 1976.
 
 Este Decreto entrará en vigor el día 3 de junio (sic) próximo.
+
+P.O. 24 DE ABRIL DE 1978.
+
+UNICO.- Este Decreto surtirá sus efectos a partir del 15 de marzo próximo del año en curso.
 
 ###### Artículo 3o.
 
