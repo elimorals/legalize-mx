@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-7828"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-01-02"
-last_updated: "1997-12-27"
+last_updated: "1998-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 1998.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 2 de enero de 1993.
 
@@ -529,9 +529,27 @@ XXIV. Fortalecimiento Municipal;
 
 XXV. Participación Ciudadana;
 
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 1998)</small>
+
+XXVI. Protección Civil;
+
+ATRIBUCIONES
+
+a) Conocer y dar seguimiento a los planes y programas que el Consejo y la Unidad de Protección Civil del Estado de Tabasco, en el marco del Sistema Nacional de Protección Civil, han elaborado para responder a las contingencias y desastres naturales en Tabasco.
+
+b) Coordinar, junto con las Comisiones Permanentes de Petición, Gestoría y Quejas y de Participación Ciudadana del H. Congreso del Estado, la atención inmediata de todas las peticiones y propuestas que los ciudadanos formulen en torno a las medidas, planes y programas de Protección Civil en Tabasco.
+
+c) Coordinar, junto con la Comisión Permanente de Fortalecimiento Municipal del H. Congreso del Estado, la difusión entre los Ayuntamientos de Tabasco, la conveniencia de integrar el Sistema Municipal de Protección Civil.
+
+d) Fomentar, en coordinación con el Consejo y la Unidad de Protección Civil del Estado de Tabasco, la difusión de programas preventivos entre la población civil para actuar en caso de desastres.
+
+e) Coordinar, junto con el Consejo y la Unidad de Protección Civil y los Organismos pertinentes, la realización de campañas escolares de educación para situaciones de emergencia, que informen y preparen a la juventud sobre los desastres naturales más probables de ocurrir en el Estado y como actuar frente a ellos.
+
+f) Investigar, en coordinación con las Comisiones Permanentes del H. Congreso del Estado, cuyo ámbito de competencia se vea involucrado, medidas y acciones que enriquezcan el marco normativo y los respectivos programas y planes de acción de Protección Civil en Tabasco;
+
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-XXVII (SIC). Atención a la Población con Discapacidad;
+XXVII. Atención a la Población con Discapacidad;
 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
@@ -1024,6 +1042,12 @@ P.O. 15 DE FEBRERO DE 1997.
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
 
 P.O. 27 DE DICIEMBRE DE 1997.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 14 DE FEBRERO DE 1998.
 
 ###### ARTÍCULO ÚNICO.
 
