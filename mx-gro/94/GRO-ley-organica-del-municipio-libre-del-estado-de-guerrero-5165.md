@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "1990-01-05"
+last_updated: "1991-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -495,7 +495,7 @@ III. En los Municipios con menos de 25 mil habitantes además del Presidente y d
 
 ###### ARTICULO 47.
 
-Cuando en las elecciones se obtenga 5% o más de los votos válidos, se asignarán las regidurías de representación proporcional en el orden decreciente de la votación en que se hayan obtenido, accediendo a ellas los candidatos a Presidentes Municipales cuando no hayan triunfado sus planillas. También podrán acceder a las regidurías de representanción (sic) proporcional los candidatos a Diputados al Congreso del Estado, sean de mayoría o de minoría, cuando no hayan obtenido el triunfo de sus fórmulas.
+Cuando en las elecciones obtenga 5% o más de los votos válidos, se asignarán las regidurías de representación proporcional en el orden decreciente de la votación en que se hayan obtenido, accediendo a ellas los candidatos a Presidentes Municipales cuando no hayan triunfado sus planillas. También podrán acceder a las regidurías de representanción (sic) proporcional los candidatos a Diputados al Congreso del Estado, sean de mayoría o de minoría, cuando no hayan obtenido el triunfo de sus fórmulas.
 
 ###### ARTICULO 48.
 
@@ -1555,6 +1555,12 @@ En función del Municipio y de los agrupamientos del Municipio por regiones se f
 
 El Congreso del Estado analizará las propuestas que presenten los Ayuntamientos para la concertación de empréstitos y resolverá sobre su procedencia haciéndose llegar los elementos de juicio que considere oportunos, en particular sobre las condiciones de los créditos, plazos de amortización, tasas de interés y garantías solicitadas.
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1991)</small>
+
+ARTICULO 145 bis.- Cuando un servidor público municipal aplique los recursos federales o estatales que se le transfieran según las leyes o convenios; para programas o proyectos específicos a gastos municipales distintos a los prevenidos, se hará acreedor a las sanciones que disponga la Ley de Responsabilidades de los Servidores Públicos, sin perjuicio de la aplicación del Código Penal en lo conducente.
+
+Los servidores públicos municipales otorgarán los auxilios e información necesarios para la devolución de los recursos desviados y los correspondientes intereses legales, al personal de la Contaduría Mayor de Glosa, las áreas de Contraloría y Fiscalización y de las dependencias federales competentes que según las Leyes deban intervenir en estos asuntos.
+
 ### CAPITULO III. DEL REGIMEN DE CONCESIONES
 
 ###### ARTICULO 146.
@@ -1919,7 +1925,7 @@ III. Actuar como auxiliar del Ministerio Público del Fuero Común y de los Sín
 
 IV. Formular y remitir anualmente al Ayuntamiento el padrón de habitantes de la Comisaría;
 
-V. Ejercer vigilancia en materia de salud pública, sobre todo entratándose (sic) de enfermedades infectocontagiosas y epidémicas;
+V. Ejercer vigilancia en materia de salud pública, sobre todo entratándose de enfermedades infectocontagiosas y epidémicas;
 
 VI. Dar cuenta al Ayuntamiento del estado de los caminos y de la infraestructura de riego, así como de lo relativo al agua potable y drenaje;
 
@@ -2304,3 +2310,9 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE MARZO DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
