@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-aeropuertos-15558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-17"
-last_updated: "2000-08-08"
+last_updated: "2003-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15558&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-15"
 
 REGLAMENTO DE LA LEY DE AEROPUERTOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE SEPTIEMBRE DE 2003.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 17 de febrero de 2000.
 
@@ -269,7 +269,9 @@ La Secretaría, una vez integrados la evaluación y dictamen de las solicitudes,
 
 La Secretaría, una vez recibida la opinión de la Comisión Intersecretarial o transcurrido el plazo referido en el párrafo anterior, resolverá lo conducente y lo notificará al interesado, en un plazo máximo de ciento ochenta días naturales para el caso de concesiones, y de noventa días naturales para el caso de permisos, ambos plazos contados a partir de la recepción de la solicitud. Tratándose de las solicitudes a que se refiere el artículo 8 de este Reglamento, la Secretaría, en caso de estimarlo procedente, podrá optar entre otorgar directamente la concesión o proceder a su licitación.
 
-Los gobiernos de las entidades federativas o de los municipios que participen en sociedades mercantiles a las que de conformidad con el artículo 14 de la Ley se les otorgue concesión para administrar, operar, explotar y, en su caso, construir un aeropuerto, deberán mantener en todo momento por lo menos el 51% de participación en el capital social. En caso de que se cuente con inversión neutra, dicho porcentaje de participación deberá mantenerse tanto en el capital ordinario como en la inversión neutra.
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2003)</small>
+
+Los gobiernos de las entidades federativas o de los municipios que participen en sociedades mercantiles a las que de conformidad con el artículo 14 de la Ley se les otorgue la concesión para administrar, operar, explotar y, en su caso, construir un aeropuerto, deberán mantener en todo momento ya sea en forma individual o conjuntamente con la participación de una o varias entidades paraestatales por lo menos el 51% de participación en el capital social. En caso de que se cuente con inversión neutra, dicho porcentaje de participación deberá mantenerse tanto en el capital ordinario como en la inversión neutra.
 
 En caso de que se resuelva otorgar una concesión o permiso de los señalados en el presente artículo, los solicitantes deberán cubrir previamente las contraprestaciones que, en su caso, se establezcan, salvo que se especifique alguna otra forma para cubrir las mismas.
 
@@ -1936,3 +1938,7 @@ Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 8 DE AGOSTO DE 2000.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE SEPTIEMBRE DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
