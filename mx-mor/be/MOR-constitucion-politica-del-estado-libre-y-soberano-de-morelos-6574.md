@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1989-11-02"
+last_updated: "1989-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1989.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -670,7 +670,11 @@ XLIX.- Expedir las Leyes Orgánicas y la de División Territorial Municipal con 
 
 L.- Expedir Leyes, en el ámbito de su competencia, en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico, previendo la concurrencia con los Municipios y el Gobierno Federal.
 
-LI.- Las demás que expresamente le confiere esta Constitución.
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+
+LI.- Expedir la Ley que instituya el tribunal de lo Contencioso-Administrativo del Estado, dotado de plena Autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal o de los Ayuntamientos y los particulares; y establezca las normas para su Organización, su funcionamiento, el procedimiento y los recursos contra su resolución.
+
+LII.- Las demás que expresamente le confiere esta Constitución.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -2233,3 +2237,17 @@ Este Decreto iniciará su vigencia a partir del día siguiente de su publicació
 ###### ARTICULO SEGUNDO.
 
 Remítase al Ejecutivo del Estado el presente Decreto, para los efectos a que hacer referencia la Fracción XVII del Artículo 70 de la Constitución Política del Estado.
+
+P.O. 15 DE NOVIEMBRE DE 1989.
+
+###### ARTICULO PRIMERO.
+
+Este decreto iniciará su vigencia a partir del día siguiente de su publicación en el periódico oficial "Tierra y Libertad", órgano del gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para dar cumplimiento a lo que establece el artículo 147 de la Constitución Política del Estado, remítase el presente decreto, con los debates que hubiere provocado, a los ayuntamientos de nuestra entidad federativa para su discusión.
+
+###### ARTICULO TERCERO.
+
+Una vez hecho el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la adición al artículo 40, de conformidad con lo que señala el artículo 148 de la constitución local, remítase al ejecutivo del Estado el presente decreto, para los efectos a que hace referencia la fracción XVII del artículo 70 de la Constitución Política del Estado.
