@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-notariado-del-estado-de-baja-california-sur-3322"
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-31"
-last_updated: "1977-12-31"
+last_updated: "1985-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL NOTARIADO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 1985.
 
 Ley publicada en Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1977.
 
@@ -67,23 +67,27 @@ Notario es la persona a quien el Ejecutivo del Estado haya otorgado nombramiento
 
 La función notarial se ejerce en el Estado por los Notarios Titulares de una Notaría de número y por quienes deban substituirlos conforme a esta Ley.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 6o.
 
-En cada Partido Judicial habrá los notarios que requiera el interés público a juicio del Ejecutivo.
+En el Estado de Baja California Sur, habrá los Notarios que requiera el interés público a juicio del Ejecutivo.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
 ###### ARTICULO 7o.
 
-El notario sólo actuará dentro de la adscripción territorial para la que fue nombrado, pero los actos que realice pueden referirse a cualquier lugar.
-
-Cuando sean varios los notarios designados para la misma adscripción territorial, ésta será común para todos ellos.
+El Notario actuará dentro de la adscripción territorial del Estado, estableciendo su domicilio en el lugar expresamente señalado en su patente y los actos que realice pueden referirse a cualquier lugar.
 
 ###### ARTICULO 8o.
 
 La orientación y superación de la actuación notarial quedan a cargo del Consejo de Notarios del Estado.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 9o.
 
-La supervisión de la función notarial está a cargo del Ejecutivo, quien la ejerce por conducto de la Dirección de Gobernación.
+La supervisión de la función notarial está a cargo del Ejecutivo.
 
 ### CAPITULO SEGUNDO
 
@@ -107,7 +111,9 @@ IV. Ser de conducta honorable;
 
 V. Aprobar el examen que marca el Reglamento, a menos que se trate de los casos de excepción previstos en el mismo;
 
-VI. Comprobar que durante un año, en forma ininterrumpida, ha practicado bajo la dirección y responsabilidad de un notario, quien deberá cerciorarse de que el interesado cuenta, al iniciar su práctica, con título profesional de abogado;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1985)</small>
+
+VI. Comprobar que durante un año, en forma ininterrumpida, ha practicado bajo la dirección y responsabilidad de un Notario en ejercicio en Baja California Sur, quien deberá cerciorarse de que el interesado cuenta, al iniciar su práctica, con título profesional de abogado;
 
 VII. Los demás que marque el Reglamento u otras leyes.
 
@@ -119,37 +125,55 @@ De los derechos, obligaciones e impedimentos de los Notarios.
 
 Podrá otorgarse nombramiento cuando se cree una nueva notaría o alguna de las existentes quede vacante. Para tal efecto el Ejecutivo del Estado ordenará se publique un aviso en el Boletín Oficial, convocando a los aspirantes que pretendan obtener por oposición el nombramiento de notario, para que presenten solicitud y acrediten llenar los requisitos en los términos y plazos que marque el reglamento.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 13.
 
-Tanto en la Dirección de Gobernación como en el archivo de Notarías habrá expedientes para cada notario.
+En el Archivo General de Notarías y en el Consejo de Notarios habrá expedientes para cada notario.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
 ###### ARTICULO 14.
 
-El otorgamiento del nombramiento, se publicará en el Boletín Oficial, con los siguientes datos, el nombre y apellidos de la persona a quien se confiere, su adscripción, lugar de residencia, el número de la notaría que le corresponda y fecha del nombramiento.
+El otorgamiento del nombramiento se publicará en el Boletín Oficial del Gobierno del Estado con los siguientes datos: Nombre y apellidos de la persona a quien se le otorga; el lugar donde debe establecer la residencia de su despacho; el número de Notaría que corresponda; la fecha de otorgamiento, los demás que esta Ley o su Reglamento establezcan y los que a juicio del Ejecutivo sean necesarios.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
 ###### ARTICULO 15.
 
-El nombramiento de notario público se registrará en la Dirección de Gobernación, archivo general de notarías y del Estado y ante el Consejo de Notarios.
+El nombramiento de notario público se registrará en el Archivo General de Notarías y ante el Consejo de Notarios.
 
 ###### ARTICULO 16.
 
 Para el inicio de sus funciones el notario debe:
 
-I. Rendir la protesta de Ley ante el Director de Gobernación;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1985)</small>
 
-II. Otorgar fianza, depósito en efectivo o hipoteca ante la Dirección de Gobernación, por la cantidad de cincuenta mil pesos;
+I. Rendir la protesta ante el Gobernador del Estado;
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1985)</small>
+
+II. Otorgar fianza, depósito en efectivo o hipoteca ante el Ejecutivo, por la cantidad de doscientos cincuenta mil pesos;
 
 III. Proveerse en su costa del sello y protocolo, debiéndose (sic) éstos reunir las características que marca esta Ley;
 
-IV. Registrar el sello y su firma en la Dirección de Gobernación, archivo de notarios del Estado y Consejo de Notarios.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1985)</small>
+
+IV. Registrar el sello y su firma en el Archivo General de Notarías del Estado y Consejo de Notarios.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
 ###### ARTICULO 17.
 
-El sello de cada notario debe ser de forma circular con un diámetro de cuatro centímetros, con el Escudo Nacional en el centro e inscrito en derredor el nombre y apellidos del notario, número de la notaría y adscripción.
+El sello de cada notario debe ser de forma circular con un diámetro de cuatro centímetros, con el Escudo Nacional en el centro e inscrito en derredor el nombre y apellidos del notario, número de la notaría y lugar de residencia.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
 ###### ARTICULO 18.
 
-En caso de que se pierda o altere el sello que el notario tenga registrado, se proveerá de otro a su costa en el que pondrá un signo que lo diferencíe del anterior. Habido un nuevo sello lo informará de inmediato a la Dirección de Gobernación, archivo general de notarías y Consejo de Notarios del Estado por medio de oficio en que conste la impresión del nuevo sello para su registro.
+En caso de que se pierda o altere el sello que el notario tenga registrado, se proveerá de otro a su costa en el que pondrá un signo que lo diferencíe del anterior.
+
+Habido un nuevo sello lo informará de inmediato al Archivo General de Notarías y Consejo de Notarios del Estado por medio de oficio en que conste la impresión del nuevo sello para su registro.
 
 ###### ARTICULO 19.
 
@@ -169,7 +193,9 @@ a) Desempeñar cargos de instrucción pública y beneficencia;
 
 b) Actuar como abogado postulante en asuntos propios, de su cónyuge, ascendientes, descendientes y demás parientes por consanguinidad y afinidad hasta el segundo grado;
 
-c) Desempeñar el cargo de miembro del consejo administrativo, comisario y secretario de sociedades;
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
+
+c) Desempeñar el cargo de miembro del Consejo de Administración, Comisario y Secretario de Sociedades o Asociaciones, sean mercantiles, civiles o de cualquiera otra naturaleza;
 
 d) Desempeñar la tutela y la curatela legítima;
 
@@ -177,11 +203,15 @@ e) Resolver consultas jurídicas;
 
 f) Ser arbitrador o secretario en juicios arbitrales;
 
-g) Patrocinar a los interesados en los procedimientos judiciales y administrativos necesarios para obtener el registro de escrituras en aquellas en que no exista controversia relacionados con los impuestos y derechos que causaren los actos pasados ante ellos;
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
+
+g) Patrocinar a los interesados en los procedimientos judiciales y administrativos en que no exista controversia o litigio entre partes y en especial los necesarios para obtener el registro de escrituras y en todos aquellos relacionados con los impuestos y derechos que se causen por los instrumentos pasados ante su fé;
 
 h) Redactar y formular proyectos de leyes, estatutos y reglamentos, de escrituras y contratos privados, aún cuando hayan de autorizarse por otros funcionarios;
 
-i) Ocupar el cargo de Director del Registro Público de la Propiedad, de Registrador Público, de Director del Archivo de Notarios o de sus delegaciones, previa licencia de sus actividades como notario;
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
+
+i) Desempeñar empleos, cargos o comisiones públicas, previa licencia de Ley o sin necesidad de la misma si a juicio del Ejecutivo no existe incompatibilidad para que se siga desempeñando la función Notarial;
 
 j) Desempeñar empleos, cargos o comisiones públicas, previa licencia de ley o en los casos que expresamente lo facultan las leyes respectivas.
 
@@ -247,17 +277,27 @@ VI. Actuar cuando el objeto del acto sea física o legalmente imposible.
 
 De la separación y de la suplencia de los notarios.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 23.
 
-Los notarios podrán separarse del ejercicio de sus funciones o ausentarse del lugar de su residencia hasta por treinta días sucesivos o alternados en cada semestre, dando aviso a la Dirección de Gobernación, al archivo general de Notarías y a quien debe suplirlos.
+Los Notarios podrán separarse del ejercicio de sus funciones o ausentarse del lugar de su residencia hasta por treinta días sucesivos o alternados en cada semestre, dando aviso al Ejecutivo del Estado, al Archivo General de Notarías, al Consejo de Notarios y a quien deba suplirlos, salvo cuando dicha ausencia no sea mayor de tres días hábiles.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
 ###### ARTICULO 24.
 
-Los notarios de una misma adscripción deberán celebrar convenios para suplirse recíprocamente en sus faltas temporales relativas al artículo que antecede. Cuando solo haya un notario, el convenio lo celebrará con notarios de las adscripciones más cercanas a la suya. Dicho convenio deberá celebrarse dentro de los treinta días hábiles siguientes a su protesta.
+Los Notarios del Estado deberán celebrar convenios entre sí para suplirse recíprocamente en sus faltas temporales, relativas al Artículo que antecede.
+
+Dicho convenio deberá celebrarse dentro de los treinta días hábiles siguientes al inicio de sus funciones.
+
+Un Notario de Número no podrá suplir a más de un Notario Titular a la vez. De no existir Notario Titular que pueda hacer la suplencia será hecha por el Juez de Primera Instancia.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
 ###### ARTICULO 25.
 
-Si los notarios no celebran convenios de suplencia dentro del plazo que se les concede, la Dirección de Gobernación del Estado determinará la forma de llevar a cabo ésta y las personas que deban suplirse entre sí.
+Si los Notarios no celebran convenios de suplencia dentro del plazo que se les concede, el Ejecutivo determinará la forma de llevar a cabo ésta y las personas que deban suplirse entre sí.
 
 ###### ARTICULO 26.
 
@@ -267,21 +307,33 @@ Los nombres de los notarios que vayan a suplirse entre sí, serán registrados y
 
 Los notarios tienen derecho a solicitar y obtener del Ejecutivo del Estado, licencia para estar separados de su cargo hasta por el término de un año renunciable.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 28.
 
-Si se trata de licencia para desempeñar un cargo o empleo público, el notario solicitará y le será concedido por el Ejecutivo, la licencia para separarse de la función notarial por todo el tiempo que dure su encargo.
+Si se trata de licencia para desempeñar un cargo o empleo público, el Notario solicitará la licencia para separarse de la función notarial por todo el tiempo que dure su encargo, la que será concedida a juicio del Ejecutivo. Si el cargo es de elección popular, no podrá negarse dicha licencia.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
 ###### ARTICULO 29.
 
-Si un notario suplente recibe nombramiento como titular, deberá llenar todos los requisitos y cumplir las obligaciones que esta ley impone a los de su clase para poder actuar.
+Las suplencias de los Notarios Titulares en los casos de licencia, serán cubiertas por otro Notario Titular, un Juez de Primera Instancia o por un Licenciado en Derecho que reúna los requisitos previstos en las Fracciones I, II, III y IV del Artículo once de esta Ley, designado en su caso por el Ejecutivo.
+
+El Ejecutivo otorgará al Suplente el nombramiento correspondiente cuya vigencia será por el tiempo en que el titular se encuentre separado de la Notaría y sin que genere para el suplente derecho alguno.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
 ###### ARTICULO 30.
 
-Si un notario suplente recibe nombramiento como titular de la notaría en que está ejerciendo esa suplencia, deberá renunciar a la notaría de la cual sea titular.
+Los Notarios Suplentes tendrán igual capacidad funcional que la del Notario Titular y los documentos e instrumentos que autoricen tendrán el mismo valor.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
 ###### ARTICULO 31.
 
-No se podrá suplir a más de un notario a la vez.
+El nombramiento del Notario Suplente se revocará a solicitud del Notario Titular o por alguna de las causas que señala esta Ley.
+
+Las disposiciones aplicables a un Notario Titular lo son también para el Suplente.
 
 ### CAPITULO QUINTO
 
@@ -295,13 +347,19 @@ I. Ser sujeto a proceso por delito doloso en que haya sido declarado formalmente
 
 II. Llevar una conducta que causa descrédito a la función notarial.
 
-III. Padecer enfermedad que lo imposibilite en forma transitoria para ejercer la función notarial, surtiendo en tal caso efecto la suspensión durante todo el tiempo que dure el impedimento. Tan luego como el Ejecutivo tenga conocimiento de que un notario está imposibilitado para ejercer, lo comunicará al Consejo de Notarios para que designe en un plazo de 15 días hábiles, dos médicos legalmente autorizados para ejercer su profesión, para que dictaminen acerca de la naturaleza del padecimiento si éste lo imposibilita para actuar como notario. El peritaje será enviado directamente a la Dirección de Gobernación a la brevedad y con copia para el Consejo de Notarios.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1985)</small>
 
-Para que surta efectos la suspensión deberá ser resuelta por el Director de Gobernación, previa audiencia del notario que se pretende suspender en los casos de las fracciones II y III.
+III. Padecer enfermedad, que lo imposibilite en forma transitoria para ejercer la función notarial, surtiendo en tal caso efecto la suspensión durante todo el tiempo que dure el impedimento. Tan luego como el Ejecutivo tenga conocimiento de que un Notario está imposibilitado para ejercer, lo comunicará al Consejo de Notarios para que designe en un plazo de 15 días hábiles, dos médicos legalmente autorizados para ejercer su profesión, para que dictaminen acerca de la naturaleza del padecimiento, si éste lo imposibilita para actuar como notario. El peritaje será enviado directamente al Ejecutivo a la brevedad y con copia para el Consejo de Notarios.
+
+Para que surta efectos la suspensión deberá ser resuelta por el Ejecutivo, previa audiencia del Notario que se pretende suspender en los casos de las Fracciones II y III.
+
+Decretada la suspensión, deberá designarse un Notario Suplente en los términos del Artículo 29 de esta Ley.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
 ###### ARTICULO 33.
 
-Quedará sin efecto el nombramiento expedido a favor de un notario, si dentro del término de los treinta días hábiles siguientes al de su protesta ante el Director de Gobernación, no inicia sus funciones y establece oficina en el lugar en que deba desempeñarlas.
+Quedará sin efecto el nombramiento expedido a favor de un notario, si dentro del término de los ciento ochenta días hábiles siguientes al de su protesta ante el Ejecutivo, no inicia sus funciones y establece oficina en el lugar en que deba desempeñarlas.
 
 ###### ARTICULO 34.
 
@@ -345,13 +403,11 @@ Cuando un notario dejara de prestar sus servicios por cualquier causa, en forma 
 
 En caso de cesación definitiva de un notario titular, el Ejecutivo hará nuevo nombramiento.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 41.
 
-El sello del notariado que cese en sus funciones será recogido por la Dirección de Gobernación y enviado al archivo general de Notarías para su destrucción.
-
-Igual procedimiento se seguirá en caso de suspensión solo que el sello no será destruído, sino conservado en depósito mientras dure ésta.
-
-En ambos casos se levantará por el titular del archivo, acta del hecho en dos tantos, uno para archivo y otro para la notaría de que se trata.
+El sello del Notario que cese en sus funciones será recogido y enviado al Archivo General de Notarías para su destrucción.
 
 ###### ARTICULO 42.
 
@@ -391,11 +447,11 @@ Además se dejará siempre en blanco una faja de un centímetro y medio de ancho
 
 En el protocolo se escribirá manuscrito, en máquina o por cualquier otro procedimiento moderno que permita una escritura firme e indeleble. No se escribirán más de cuarenta líneas por página al igual distancia una de otras.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 47.
 
-En la primera página útil de cada libro, la Dirección de Gobernación pondrá una razón en que conste el lugar y la fecha de autorización, el número que corresponda al libro, el número, nombre y apellidos del notario, adscripción a que pertenece y el lugar de su residencia; y la expresión de que ese libro solamente debe utilizarse por el notario para quien se autoriza o por la persona que legalmente lo sustituya en sus funciones.
-
-Al final de la última página del libro se pondrá una razón similar sellada y suscrita por el titular del archivo general de Notarías.
+En la primera página útil de cada libro, se pondrá una razón en que conste el lugar, y la fecha de autorización, el número que corresponda al libro, el número, nombre y apellidos del notario, el lugar de su residencia; y la expresión de que ese libro solamente debe utilizarse por el Notario para quien se autoriza o por la persona que legalmente lo sustituya en sus funciones.
 
 ###### ARTICULO 48.
 
@@ -771,11 +827,11 @@ Inmediatamente que ponga razón de clausura, autorizada con su firma y sello, in
 
 Cuando el notario tenga su protocolo en varios libros, al cerrar uno tendrá que cerrarlos todos.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 110.
 
-Cuando esté por concluirse el protocolo que lleve el notario, enviará a la Dirección de Gobernación el libro o juegos de libros en que habrá de continuar actuando, para su autorización.
-
-Hecha esta la Dirección de Gobernación enviará el libro o juego de libros al archivo general de Notarías, para que su Titular asiente la razón que le corresponde y haga entrega del protocolo al notario.
+Cuando esté por concluirse el protocolo que lleve el notario, enviará al Archivo General de Notarías el libro o juego de libros en que habrá de continuar actuando, para su autorización. Hecha ésta se hará entrega del protocolo al notario.
 
 #### SECCION SEGUNDA (SIC)
 
@@ -917,9 +973,11 @@ IV. En todo caso el visitador cuidará que a más tardar después de dos meses d
 
 V. En el acta correspondiente se harán todas las observaciones pertinentes a los actos u omisiones del notario contrarias a ésta u otras leyes.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
+
 ###### ARTICULO 130.
 
-Con el resultado de la visita se levantará un acta por triplicado, en la que se harán constar además las declaraciones que haga el notario. Un tanto del acta será remitido a la Dirección de Gobernación, otro al Consejo de Notarios y la tercera quedará en poder del notario.
+Con el resultado de la visita se levantará un acta por triplicado, en la que se harán constar además las declaraciones que haga el notario. Un tanto del acta será remitido al Archivo General de Notarías, otro al Consejo de Notarios y la tercera quedará en poder del notario.
 
 ###### ARTICULO 131.
 
@@ -975,11 +1033,15 @@ II. Si de la misma se estima que resultan comprobados los hechos, se enviará co
 
 III. El Consejo de Notarios cuidará que su informe sea recibido por el Ejecutivo antes de treinta días hábiles contados a partir de la fecha del oficio con que éste le haya enviado el acta de la investigación administrativa realizada;
 
-IV. Recibido el informe del Consejo o sin él, si el plazo ha fenecido, el Director de Gobernación oirá personalmente al notario de que se trate, para lo cual le citará a una audiencia en día y hora fijos;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1985)</small>
+
+IV. Recibido el informe del Consejo o sin él, si el plazo ha fenecido, el Ejecutivo oirá al Notario de que se trate, para lo cual le citará a una audiencia en día y hora fijos;
 
 V. El notario tendrá un plazo de diez días hábiles, más los que le correspondan por razón de la distancia de acuerdo al Código de Procedimientos Civiles del Estado, para aportar pruebas en su descargo. Este término comenzará a correr a partir del día siguiente al de la audiencia prescrita en la fracción anterior;
 
-VI. Vencido el término, el Director de Gobernación dictará resolución dentro del término de los treinta días siguientes, con base en los datos obtenidos en la inspección ordenada, en el dictamen del Consejo de Notarios y en las pruebas aportadas por el interesado, si las hubo; la cual someterá a la consideración del C. Gobernador, para su firma.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1985)</small>
+
+VI. Vencido el término, el Ejecutivo dictará resolución dentro de los treinta días siguientes, con base en los datos obtenidos en la inspección ordenada, en el dictamen del Consejo de Notarios y en las pruebas aportadas por el interesado, si las hubo.
 
 La resolución firmada por el Gobernador del Estado será definitiva y no admitirá recurso alguno.
 
@@ -1034,3 +1096,11 @@ Lic. Angel César Mendoza Arámburo.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 Lic. Guillermo Mercado Romero.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE JULIO DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
