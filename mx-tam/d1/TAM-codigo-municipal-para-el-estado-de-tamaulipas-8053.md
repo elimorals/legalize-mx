@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "1999-12-22"
+last_updated: "2000-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -239,7 +239,9 @@ El Ayuntamiento residirá en la cabecera del Municipio, y sólo por Decreto del 
 
 Para ser miembro de un Ayuntamiento se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2000)</small>
+
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
 
@@ -257,9 +259,9 @@ IV.- No estar sujeto a proceso por delito doloso. El impedimento surte efecto de
 
 V.- Tener un modo honesto de vivir, saber leer y escribir, y no estar en los casos previstos en el Artículo 106 del Código Penal del Estado; y
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-VI.- No ser servidor público de la Federación, del Estado o del Municipio, no tener participación directa o indirecta en servicios, contratos o suministros por cuenta del Ayuntamiento o el mando de la fuerza pública en el Municipio en que se haga la elección, a no ser que se separe de su cargo o participación por lo menos noventa días antes de dicha elección.
+VI.- No ser servidor público de la Federación o del Estado, con excepción de los cargos de elección popular, o del Municipio; no tener participación directa o indirecta en servicios, contratos o suministros por cuenta del Ayuntamiento; o el mando de la fuerza pública en el Municipio en que se haga la elección, a no ser que se separe de su cargo o participación por lo menos noventa días antes de dicha elección.
 
 ###### ARTICULO 27.
 
@@ -515,7 +517,7 @@ Corresponde al Congreso resolver los conflictos que surjan entre los miembros de
 
 Los Ayuntamientos no podrán por ningún motivo:
 
-I.- Expedir bandos reglamentos, circulares y demás disposiciones administrativas de observancia general, contrarios a la Constitución General de la República, a la Particular del Estado y a las leyes que de éstas emanen.
+I.- Expedir bandos, reglamentos, circulares y demás disposiciones administrativas de observancia general, contrarios a la Constitución General de la República, a la Particular del Estado y a las leyes que de éstas emanen.
 
 II.- Gravar el tránsito o salida de mercancía.
 
@@ -2852,3 +2854,9 @@ Las personas físicas o morales que al entrar en vigor estas disposiciones se co
 ###### ARTICULO TERCERO.
 
 Se adiciona a la Ley de Ingresos de cada uno de los 43 Municipios del Estado, el Impuesto Sobre Espectáculos Públicos, por lo que están autorizados para cobrarlo a partir del 1 de Enero del año 2000.
+
+P.O. 20 DE OCTUBRE DE 2000.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
