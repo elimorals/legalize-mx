@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1994-10-08"
+last_updated: "1995-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 1995.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -778,6 +778,10 @@ a) Presentar un informe ante la Tesorería Municipal u Oficialía Mayor de Padr�
 b) Otorgar garantía, a satisfacción de la Tesorería Municipal, u Oficialía Mayor de padrón y licencias en su caso, en alguna de las formas previstas en esta Ley, que no será inferior al impuesto estimado, correspondiente a un día de actividad;
 
 c) Dar el aviso correspondiente, en los casos de ampliación del período de explotación, ante la Tesorería Municipal, u Oficialía Mayor de Padrón y Licencias en su caso, a más tardar, el último día que comprende el aviso cuya vigencia se vaya a ampliar;
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 1995)</small>
+
+En el caso de que se utilicen medios electrónicos para la expedición de boletos o control de asistencia a los eventos, espectáculos o diversiones públicas, las personas físicas o jurídicas responsables de la operación de estos medios, previamente pondrán a disposición de la autoridad municipal los manuales de operación de los sistemas; y entregar al día siguiente los reportes de resultados que se les soliciten.
 
 III. Presentar ante la Tesorería Municipal, u Oficialía Mayor de Padrón y Licencias en su caso, para su resello, el boletaje que será utilizado, cuando menos, un día antes de que se verifique la diversión;
 
@@ -2816,3 +2820,7 @@ Unico.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 8 DE OCTUBRE DE 1994.
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 1995.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
