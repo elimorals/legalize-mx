@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1971-12-22"
+last_updated: "1972-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1972.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1735,7 +1735,7 @@ IX.- Los intereses, el sobreprecio, o cualquier otra prestación que aumente los
 
 #### SECCION PRIMERA. OBJETO
 
-> <small>N. DE E. SE SUSPENDE LA APLICACION DEL PRESENTE DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO DEL DECRETO No. 521-71, PUBLICADO EN P.O. 24 DE ABRIL DE 1971.</small>
+> <small>N. DE E. SE SUSPENDE LA APLICACION DEL PRESENTE DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO DEL DECRETO No. 521-71, PUBLICADO EN P.O. 30 DE DICIEMBRE DE 1972.</small>
 
 202.- El Impuesto sobre el Comercio y la Industria grava, en los términos de los artículos siguientes, los ingresos que se obtengan:
 
@@ -1763,9 +1763,7 @@ III.- Como comisión mercantil, el mandato otorgado al comisionista para ejecuta
 
 Quedan comprendidas en esta fracción entre otras, las actividades que por cuenta ajena desarrollan los consignatarios, agentes, representantes, corredores y distribuidores quienes deberán cumplir los requisitos que señala el Artículo siguiente;
 
-IV.- Como arrendamiento y sub-arrendamiento, la concesión del uso o goce temporal de bienes muebles, inmuebles o negociaciones que produzca un ingreso el arrendador o subarrendador.
-
-Se entiende por negociación un conjunto de bienes organizados con fines de lucro, que requiere para producir ingresos: materia prima, maquinaria, elemento humano y gastos de operación o alguno o algunos de estos factores.
+IV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1972)
 
 206.- El ingreso gravable de los comisionistas estará formado por la cantidad que perciban por concepto de remuneración por la comisión desempeñada, siempre que se satisfagan los requisitos siguientes:
 
@@ -1809,39 +1807,43 @@ IV.- Los contribuyentes radicados fuera del Estado manifestarán directamente o 
 
 #### SECCION TERCERA. GRUPOS Y TASAS
 
-212.- Los ingresos se clasificarán en ocho grupos y causarán el Impuesto conforme a las tasas que a continuación se indican:
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-PRIMER GRUPO.- 0.60% sobre los ingresos provenientes de la venta de productos y de servicios que enseguida se expresan:
+212.- Los ingresos se clasificarán en seis grupos y causarán el impuesto conforme a las tasas que a continuación se indican:
 
-I.- Tortillas, masa de maíz y harina de maíz.
+PRIMER GRUPO.- 1.8 % sobre los ingresos provenientes de la presentación o enajenación de:
 
-II.- Pan, excluyendo pasteles y pastelillos, que quedan afectos a la tasa que señala el grupo octavo.
+I.- Servicios prestados en laboratorios de análisis clínicos, sanatorios, clínicas, casas de maternidad, y salud, bancos de sangre y huesos y hospitales, exceptuando a las instituciones de beneficencia pública o privada que funcionen de acuerdo con la ley de la materia, las cuales están exentas del pago del impuesto.
 
-III.- Carne, pescado y mariscos.
+II.- Perfumes, cosméticos, joyas y demás artículos de lujo.
 
-IV.- Frutas y verduras.
+III.- Fertilizantes, insecticidas y productos análogos.
 
-V.- Leche y sus derivados.
+IV.- Café, golosinas, aguas gaseosas y sodas.
 
-VI.- Servicios prestados en restaurantes, cafés, fondas y loncherías. Si venden bebidas alcohólicas, sobre éstas pagarán el impuesto de acuerdo con las tasas que señala el segundo grupo.
+V.- Pasteles y pastelillos.
 
-VII.- Medicinas, productos medicinales, químico-medicinales y farmacéuticos.
+VI.- Productos avícolas.
 
-VIII.- Servicios prestados en sanatorios, clínicas, casas de maternidad y salud, bancos de sangre y huesos y hospitales, exceptuando a las Instituciones de beneficiencia (sic) pública o privada que funcionen de acuerdo con la Ley de la materia, las cuales están exentas del pago del impuesto.
+VII.- Frutas.
 
-IX.- Leña y carbón vegetal.
+VIII.- Derivados de la leche.
 
-X.- Manta y mezclilla.
+IX.- Manta y mezclilla.
 
-XI.- Los actos comerciales derivados directamente de la producción agrícola, siempre y cuando no los realicen directamente los productores. También los productos avícolas.
+X.- Los actos comerciales derivados directamente de la producción agrícola, siempre y cuando no los realicen directamente los productores.
 
-XII.- En general todos los artículos comestibles, con excepción de los expresamente señalados en el Grupo Octavo.
+XI.- Medicinas, productos medicinales, químico-medicinales y farmacéuticos.
+
+XII.- Servicios prestados en restaurantes, cafés, fondas y loncherías. Si venden bebidas alcohólicas, sobre éstas pagarán el impuesto de acuerdo con las tasas que señala el segundo grupo; y
+
+XIII.- En general sobre todos los artículos, mercancías y servicios que no estén gravados en los grupos siguientes ni expresamente exentos.
 
 SEGUNDO GRUPO.- El impuesto se causará a razón de:
 
 I.- 2.5% sobre los ingresos que se obtengan en establecimientos que expendan bebidas alcohólicas al copeo.
 
-II.- 1.2% sobre los ingresos correspondientes a las ventas de bebidas alcohólicas por botella cerrada, que efectúen las personas, establecimientos o empresas que las distribuyan.
+II.- 1.8% sobre los ingresos correspondientes a las ventas de bebidas alcohólicas por botella cerrada, que efectúen las personas, establecimientos o empresas que las distribuyan.
 
 III.- 2.5% cuando en un mismo negocio se vendan bebidas alcohólicas en botella cerrada y al copeo.
 
@@ -1851,35 +1853,19 @@ CUARTO GRUPO.- Los ingresos procedentes de la venta de automóviles y camiones, 
 
 I.- 3% sobre toda clase de automóviles no armados en el País, si la venta es de primera mano.
 
-II.- 2% sobre toda clase de camiones de pasajeros o de carga no armados en el País, si la venta es de primera mano.
+II.- 2% sobre toda clase de camiones de pasajeros o de carga no armados en el País si la venta es de primera mano.
 
-III.- 3% sobre toda clase de automóviles armados en el País, si la venta es de primera mano y la operación no se realiza por agencia establecida en el Estado. Si ésta la lleva a cabo, se causará el impuesto a razón del 1.2%.
+III.- 3% sobre toda clase de automóviles armados en el País, si la venta es de primera mano y la operación no se realiza por agencia establecida en el Estado. Si ésta la lleva a cabo se causará el impuesto a razón de 1.8%.
 
-IV.- 2% sobre toda clase de camiones de pasajeros o de carga, armados en el País, si la venta es de primera mano y la operación no se realiza por agencia establecida en el Estado. Si ésta la lleva a cabo se causará el impuesto a razón del 1.2%.
+IV.- 2% sobre toda clase de camiones de pasajeros o de carga, armados en el País, si la venta es de primera mano y la operación no se realiza por agencia establecida en el Estado. Si ésta la lleva a cabo se causará el impuesto a razón del 1.8%
 
-V.- 1.2% en las ventas de segunda mano o posteriores de toda clase de automóviles y camiones, armados o no en el País.
+V.- 1.8% en las ventas de segunda mano o posteriores de toda clase de automóviles y camiones, armados o no en el País.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+Para los efectos de este grupo se considerarán ventas de primera mano, todas las que se verifiquen con automóviles o camiones nuevos o usados que por primera vez sean motivo de una transacción comercial dentro del territorio del Estado. El valor gravable se determinará con base en la tabla de valores que anualmente fijará la Tesorería General o, a juicio de esta Autoridad, sobre el valor resultante del avalúo que al efecto practique.
 
-Para los efectos de este grupo se considerarán ventas de primera mano, todas las que se verifiquen con automóviles o camiones nuevos o usados que por primera vez sean motivo de una transacción comercial dentro del territorio del Estado. El valor gravable se determinará con base en la tabla de valores que anualmente fijará la Tesorería General o, a juicio de esta autoridad, sobre el valor resultante del avalúo que al efecto practique.
+QUINTO GRUPO.- $0.02 (Dos centavos) por kilo sobre las ventas de primera mano de azúcar realizadas por los productores, introductores y comerciantes mayoristas de ese producto.
 
-QUINTO GRUPO.- 2% sobre los ingresos derivados del arrendamiento o sub-arrendamiento de bienes muebles, inmuebles y negociaciones, obtenidos por sociedades mercantiles.
-
-SEXTO GRUPO.- $0.02 (Dos Centavos) por kilo sobre las ventas de primera mano de azúcar realizadas por los productores, introductores y comerciantes mayoristas de ese producto.
-
-SEPTIMO GRUPO.- 3% sobre los ingresos que se obtengan por concepto de la explotación de aparatos fonoelectromecánicos de diversión y básculas que funcionen con monedas o sin ellas.
-
-OCTAVO GRUPO.- El impuesto se causará a razón del 1.2% sobre ingresos provenientes de la prestación o enajenación de:
-
-I.- Servicios prestados en laboratorios de análisis clínicos;
-
-II.- Perfumes, cosméticos, joyas y demás artículos de lujo;
-
-III.- Fertilizantes, insecticidas y productos análogos;
-
-IV.- Café, golosinas, aguas gaseosas y sodas; y
-
-V.- En general sobre todos los artículos, mercancías y servicios que no estén gravados en los grupos anteriores ni expresamente exentos.
+SEXTO GRUPO.- 3 % sobre los ingresos que se obtengan por concepto de la explotación de aparatos fonoelectromecánicos de diversión y básculas que funcionen con monedas o sin ellas.
 
 213.- En todas aquellas operaciones que sean realizadas en forma accidental, por sujetos no empadronados, el impuesto se pagará aplicando la tasa que corresponda conforme al artículo anterior.
 
@@ -1901,9 +1887,9 @@ II.- Si los ingresos no son gravables, por razón de su diversa índole, de acue
 
 216.- No causan el impuesto:
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-I.- Las enajenaciones de maíz y frijol.
+I.- Las enajenaciones de maíz, frijol, tortillas, masa de maíz, pan, verduras, leche, pescados y mariscos, leña y carbón vegetal, así como la carne sin procesar vendida al menudeo en carnicerías.
 
 II.- Las enajenaciones de primera mano que se verifiquen con algodón y su semilla o avena, cuyas operaciones son motivo de los impuestos especiales que establecen los capítulos respectivos del presente libro.
 
@@ -2121,9 +2107,9 @@ Los contribuyentes a quienes se les practique una auditoría deberán dar aviso 
 
 #### SECCION DECIMA. CONVENIOS CON LOS CAUSANTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-240.- Los causantes que obtengan ingresos de operaciones celebradas directamente con el consumidor y gravadas en los grupos primero, segundo, séptimo y octavo del Artículo 212 de este Código, podrán cubrir el impuesto a razón de una cuota fija bimestral, siempre que sus ingresos no sean superiores a $500,000.008QUINIENTOS MIL PESOS, 00/100) anuales en las condiciones y con las formalidades siguientes:
+240.- Las personas físicas que obtengan ingresos de operaciones celebradas directamente con el consumidor y gravadas en los grupos primero, segundo y sexto del artículo 212 de este Código, podrán cubrir el impuesto a razón de una cuota fija bimestral, siempre que sus ingresos no sean superiores a $500,000.00 (Quinientos mil pesos, 00/100) anuales en las condiciones y con las formalidades siguientes:
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -4061,7 +4047,9 @@ P.O. 24 DE ABRIL DE 1971.
 
 > <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO SEGUNDO DEL DECRETO No. 521-71, QUE A LA LETRA DICE:</small>
 
-"ARTICULO SEGUNDO.- Mientras se encuentra en vigor el convenio que se aprueba se suspende la aplicación de las disposiciones del Código Fiscal del Estado que en materia del Impuesto sobre el Comercio y la Industria gravan los ingresos por las operaciones previstas en el artículo 202 del Código Fiscal del Estado, en cuanto sean diversos a los autorizados por el artículo 81 de la Ley Federal del Impuesto sobre Ingresos Mercantiles y en el convenio de Coordinación de 8 de marzo de 1971 que se aprueba".
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+"ARTICULO SEGUNDO.- Mientras se encuentra en vigor el convenio que se aprueba se suspende la aplicación de las disposiciones del Código Fiscal del Estado que en materia del Impuesto sobre el Comercio y la Industria gravan los ingresos por las operaciones previstas en el artículo 202 del Código Fiscal del Estado, en cuanto sean diversos a los autorizados por el artículo 81 de la Ley Federal del Impuesto sobre Ingresos Mercantiles y en el convenio de coordinación de 8 de marzo de 1971 que se aprueba, debiendo percibir el Estado de Chihuahua una cuota adicional del 1.8% sobre importe de los ingresos gravables percibidos dentro de su territorio, de conformidad con las tasas actualmente en vigor salvo las que excedan de dicho porcentaje que quedan reducidas precisamente al 1.8%".
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación.
 
@@ -4080,3 +4068,9 @@ UNICO.- El presente Decreto entrará en vigor el día 1o. de enero del año de 1
 P.O. 22 DE DICIEMBRE DE 1971.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1972.
+
+DECRETO No. 241-72.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor el día 1o. de enero del año de 1973.
