@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2003-04-30"
+last_updated: "2003-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JUNIO DE 2003.
 
 Ley publicada de la Segunda a Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -4602,7 +4602,9 @@ SEGUNDO.- A partir del 1 de septiembre de 2003, el arancel ad valorem aplicable 
 
 TERCERO.- A partir del 1 de abril de 2004, el arancel ad valorem aplicable a la importación de las siguientes fracciones arancelarias será el que a continuación se indica:
 
-a) para las fracciones arancelarias 7208.27.01, 7208.36.01, 7208.37.01, 7208.38.01, 7208.39.01, 7808.51.01 (sic), 7208.52.01, 7209.16.01, 7209.17.01, 7209.18.01, 7210.61.01, 7214.20.01, 7214.91.01, 7214.99.01, 7214.99.02, 7216.10.01, 7216.21.01, 7216.32.99, 7216.40.01, 7217.20.99, 7225.19.99, 7225.92.01 y 7228.30.99, será de 13;
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2003)</small>
+
+a) para las fracciones arancelarias 7208.27.01, 7208.36.01, 7208.37.01, 7208.38.01, 7208.39.01, 7208.51.01, 7208.52.01, 7209.16.01, 7209.17.01, 7209.18.01, 7210.61.01, 7214.20.01, 7214.91.01, 7214.99.01, 7214.99.02, 7216.10.01, 7216.21.01, 7216.32.99, 7216.40.01, 7217.20.99, 7225.19.99, 7225.92.01 y 7228.30.99, será de 13;
 
 b) para las fracciones arancelarias 7216.31.01, 7216.32.01 y 7216.32.02, será de 10, y
 
@@ -4629,3 +4631,17 @@ D.O.F. 10 DE FEBRERO DE 2003.
 D.O.F. 30 DE ABRIL DE 2003.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE JUNIO DE 2003.
+
+DECRETO POR EL QUE SE CREAN Y MODIFICAN ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION (APLICA SOLO A LOS ARTICULOS 1, 3 Y 4 DEL DECRETO DE REFORMAS)
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMA QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, a excepción de lo establecido en los artículos transitorios segundo, tercero y cuarto.
+
+SEGUNDO.- El artículo 2o. de este Decreto entrará en vigor el 1 de enero de 2004.
+
+TERCERO.- El arancel ad-valorem aplicable a la importación para la fracción arancelaria 8471.60.02, señalada en el artículo 1 de este decreto, se reducirá a Ex., a partir del 1 de enero de 2005.
+
+CUARTO.- El arancel-cupo que se establece en el artículo 4 del presente Decreto, para las fracciones arancelarias 0406.10.01, 0406.30.01, 0406.30.99, 0406.90.03 y 0406.90.05, entrará en vigor el 1o. de julio de 2003.
