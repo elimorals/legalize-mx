@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-instituto-del-deporte-del-estado-de-yucatan-antes-18744
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-23"
-last_updated: "1989-06-23"
+last_updated: "2003-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DEL INSTITUTO DEL DEPORTE DEL ESTADO DE YUCATAN - ANTES LEY DEL INSTITUTO DE LA JUVENTUD Y EL DEPORTE DEL ESTADO DE YUCATAN
 
-LEY DEL INSTITUTO DE LA JUVENTUD Y EL DEPORTE DEL ESTADO DE YUCATÁN
+LEY DEL INSTITUTO DEL DEPORTE DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE MAYO DE 2003.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 23 de junio de 1989.
 
@@ -35,59 +35,57 @@ LICENCIADO VICTOR MANZANILLA SHAFFER. GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE
 
 QUE EL "LI" CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE YUCATAN, D E C R E T A:
 
-LEY DEL INSTITUTO DE LA JUVENTUD Y EL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2003)</small>
 
-DEPORTE DEL ESTADO DE YUCATAN
+LEY DEL INSTITUTO DEL DEPORTE DEL ESTADO DE YUCATAN
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 1.
 
-Se crea el Instituto de la Juventud y el Deporte del Estado de Yucatán, como un organismo público descentralizado, con personalidad, patrimonio propio y autonomía operativa, con atribuciones normativas y técnicas para establecer y operar acciones tendientes al bienestar integral de la juventud, fomentar la participación de ésta en el desarrollo estatal y para la práctica, fomento y desarrollo de las actividades deportivas de aficionados en todas sus categorías y ramas.
+El Instituto del Deporte del Estado de Yucatán es un organismo público descentralizado, con personalidad jurídica, patrimonio propio y autonomía operativa, con atribuciones normativas y técnicas para establecer su carácter rector en acciones tendientes a la práctica, fomento, planeación y desarrollo de las actividades deportivas de aficionados, así como al fomento de la cultura física en todos sus niveles y órdenes.
+
+Para efectos de la presente ley, al Instituto del Deporte del Estado de Yucatán se le denominará como el Instituto.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 2.
 
-El instituto de la Juventud y el Deporte del Estado de Yucatán, tendrá las siguientes atribuciones:
+El Instituto del Deporte del Estado de Yucatán tendrá como objeto:
 
-I.- Planear, programar, operar y evaluar la política estatal en materia de desarrollo de la juventud;
+I.- Promover la cultura física y la práctica del deporte en todos sus niveles y órdenes, de acuerdo con la política, programas y estrategias que establezca para ese objeto;
 
-II.- Realizar, analizar y difundir estudios e investigaciones en materia de problemática juvenil y sus alternativas de solución;
+II.- Participar en la elaboración del Programa Estatal del Deporte, derivado del Plan Estatal de Desarrollo;
 
-III.- Fomentar el sano desarrollo somático, mental y social de la juventud;
+III.- Asesorar y apoyar a los municipios del Estado que lo soliciten, en los ámbitos que sean de la competencia del Instituto;
 
-IV.- Implementar y desarrollar programas que coadyuven a la rehabilitación integral de jóvenes con secuelas invalidantes de carácter somático, mental o social.
+IV.- Coordinar y apoyar la participación de las representaciones estatales deportivas de aficionados en los torneos regionales, estatales y nacionales;
 
-V.- Planear, desarrollar y evaluar programas de fomento al desarrollo de la juventud y apoyar los que los propios jóvenes realicen, de acuerdo con los objetivos del instituto;
+V.- Promover y realizar investigaciones en las ciencias y técnicas que inciden en los diferentes campos del deporte, divulgando los resultados obtenidos;
 
-VI.- Promover la práctica del deporte en todas sus ramas y categorías, de acuerdo con la política, programas y estrategias que establezca para ese objeto;
+VI.- Promover y apoyar el establecimiento y mejoramiento de instalaciones y servicios para la práctica del deporte;
 
-VII.- Participar en la elaboración del Programa Estatal del deporte y la juventud, derivado del Plan Estatal de Desarrollo.
+VII.- Organizar el proceso anual para otorgar el reconocimiento al mérito deportivo;
 
-VIII.- Asesorar y apoyar a los municipios del Estado que soliciten, en las materias que sean de la competencia del Instituto.
+VIII.- Coadyuvar en la formación del personal técnico para el desarrollo de las actividades de apoyo a la cultura física y a la práctica del deporte en el Estado;
 
-IX.- Coordinar y apoyar la participación de las representaciones estatales deportivas de aficionados en los torneos regionales, estatales y nacionales;
+IX.- Coordinar el funcionamiento de las asociaciones deportivas y organismos afines legalmente constituidos en la entidad e incorporados a la estructura de la Confederación Deportiva Mexicana;
 
-X.- Promover y realizar investigaciones en las ciencias y técnicas que inciden en los diferentes campos del deporte, divulgando los resultados obtenidos;
+X.- Administrar las instalaciones deportivas que les sean destinadas para sus servicios por el Gobierno del Estado y utilizarlas para realizar toda clase de eventos recreativos, deportivos y de otros que no contravengan los fines del Instituto, y
 
-XI.- Promover y apoyar el establecimiento y mejoramiento de instalaciones y servicios para la juventud y el deporte;
-
-XII.- Organizar el proceso anual de selección de aspirantes a la medalla al mérito deportivo;
-
-XIII.- Coadyuvar en la información del personal técnico para el desarrollo de las actividades de apoyo a la juventud y el deporte en el Estado;
-
-XIV.- Coordinar el funcionamiento de las asociaciones deportivas legalmente constituidas en la entidad;
-
-XV.- Administrar las instalaciones deportivas que les sean destinadas para sus servicios por el Gobierno del Estado y utilizarlas para realizar toda clase de eventos recreativos, deportivos y de otros que no contravengan los fines del Instituto; y
-
-XVI.- Las demás que le confieran las Leyes y Reglamentos y en general, aquellas que sean necesarias para la atención a la juventud y el deporte de aficionados en el Estado;
+XI.- Las demás que le confieran las leyes y reglamentos y, en general, aquellas que sean necesarias para la promoción de la cultura física y la atención al deporte de aficionados en el Estado.
 
 ### CAPITULO II. DEL PATRIMONIO DEL INSTITUTO
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 3.
 
-El Patrimonio del Instituto de la Juventud y el Deporte del Estado de Yucatán se constituirá por:
+El patrimonio del Instituto se constituirá por:
 
-I.- Los bienes que destine al servicio del Instituto, el Gobierno del Estado;
+I.- Los bienes que el Gobierno del Estado le transfiera;
 
 II.- Las partidas que anualmente le asigne el Presupuesto de Egresos del Estado;
 
@@ -97,41 +95,43 @@ IV.- Las aportaciones, legados y donaciones que reciba de los sectores privado y
 
 V.- Los ingresos que se deriven de la administración de los bienes a su cargo;
 
-VI.- Los ingresos derivados del Fideicomiso encargado del Fondo para el Deporte, que estará bajo su administración; y
+VI.- Los ingresos derivados del fideicomiso encargado del Fondo para el Deporte, que estará bajo su administración, y
 
-VII.- Los demás ingresos que perciba por cualquier otro título legal.
+VII.- Los demás bienes que adquiera por cualquier otro título legal.
 
 ### CAPITULO III. DE LOS ORGANOS DEL INSTITUTO
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 4.
 
-El Instituto de la Juventud y el Deporte del Estado de Yucatán contará con los siguientes órganos:
+La administración del Instituto estará a cargo de:
 
-I.- El Consejo Directivo; y
+I.- El Consejo Directivo, y
 
-II.- La Dirección General.
+II.- El Director General.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 5.
 
-El Consejo Directivo será la máxima autoridad del Instituto y
+El Consejo Directivo será la máxima autoridad del Instituto y estará integrado por:
 
-Estará integrado por:
+I.- Un Presidente, que será el Gobernador del Estado.
 
-I.- Un Presidente que será el Gobernador del Estado.
+II.- El Secretario General de Gobierno como Vocal y quien suplirá las ausencias del Presidente.
 
-II.- Cinco vocales que serán:
+III.- El Secretario de Planeación y Presupuesto como vocal;
 
-A).- El Secretario de Gobierno quien suplirá las ausencias del Presidente.
+IV.- El Secretario de Hacienda como vocal;
 
-B).- El Secretario de Planeación y Presupuesto.
+V.- El Secretario de Educación como vocal, y
 
-C).- El Tesorero General del Estado.
+VI.- El Secretario de Salud como vocal.
 
-D).- El Secretario de Educación.
+Cada uno de los vocales nombrará a su suplente.
 
-E).- El Secretario de Salud.
-
-Contará además con un Comisario que será el titular de la Secretará de la Contraloría General del Estado y con un Secretario de Actas y Acuerdos, que será nombrado en términos de la Ley de Entidades Paraestatales.
+Contará además con un Comisario que será designado por el titular de la Secretaría de la Contraloría General del Estado, y con un Secretario de Actas y Acuerdos, que será designado por el Secretario General de Gobierno.
 
 ###### ARTICULO 6.
 
@@ -161,31 +161,43 @@ VIII.- Las demás que le señalen, ésta u otras Leyes o reglamentos.
 
 El Presidente del Consejo Directivo deberá convocar a sesiones ordinarias cuando menos cuatro veces al año y extraordinarias cuantas veces lo considere conveniente.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 9.
 
-La Dirección General estará a cargo de un Director General, que será nombrado y removido libremente por el Gobernador del Estado y tendrá las siguientes atribuciones:
+El Director General será nombrado y removido libremente por el Gobernador del Estado y tendrá las siguientes atribuciones:
 
 I.- Ejecutar los acuerdos y disposiciones del Consejo Directivo;
 
-II.- Representar legalmente al Instituto como mandatario general para celebrar actos de administración y dominio y para pleitos y cobranzas, con todas las facultades generales y especiales que, conforme a la Ley, requieran de cláusula especial. En ningún caso el Director General podrá adquirir, enajenar o gravar bienes del Instituto, sin la autorización previa del Consejo Directivo;
+II.- Ejercer las más amplias facultades de dominio, administración, pleitos y cobranzas, aún de aquellos que requieran autorización especial; emitir, avalar y negociar títulos de crédito, formular querellas y otorgar perdón; ejercitar y desistirse de acciones judiciales inclusive del juicio de amparo; comprometer asuntos en arbitraje y celebrar transacciones;
 
 III.- Suscribir y celebrar convenios, acuerdos y contratos relacionados con las funciones del Instituto, de conformidad con los lineamientos que determine el Consejo Directivo;
 
 IV.- Expedir los manuales administrativos, previa autorización del Consejo Directivo;
 
-V.- Nombrar, suspender y remover a los servidores públicos del Instituto;
+V.- Nombrar, suspender y remover, con la autorización del Presidente del Consejo Directivo, a los servidores públicos del Instituto que ocupen cargos con la jerarquía inmediata inferior a la suya;
 
-VI.- Elaborar y someter a la aprobación del Consejo Directivo, el Programa Anual de Actividades;
+VI.- Nombrar y remover libremente a los servidores públicos del Instituto con la salvedad a que se refiere la fracción anterior;
 
-VII.- Presentar un informe anual al Consejo Directivo; y
+VII.- Elaborar y someter a la aprobación del Consejo Directivo, el Programa Anual de Actividades;
 
-VIII. Las demás que le confieran ésta u otras Leyes y reglamentos y las que le otorgue expresamente el Consejo Directivo.
+VIII.- Presentar un informe anual al Consejo Directivo;
+
+IX.- Otorgar, sustituir y revocar poderes especiales y generales. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que expida al apoderado el Director General. Los poderes generales para surtir efectos frente a terceros, deberán inscribirse en el registro de Organismos Descentralizados.
+
+X.- Elaborar y someter a la aprobación del Consejo Directivo el Proyecto del Presupuesto Anual, y
+
+XI.- Las demás que le confieran ésta u otras leyes y reglamentos y las que le otorgue expresamente el Consejo Directivo.
+
+En ningún caso el Director General podrá enajenar o gravar bienes del Instituto, sin la autorización previa del Consejo Directivo.
 
 ### CAPITULO IV. DEL PATRONATO DEL INSTITUTO
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 10.
 
-El Patronato del Instituto de la Juventud y el Deporte del Estado de Yucatán, estará integrado por un número impar de miembros, nombrados y removidos libremente por el Consejo Directivo. Dichos miembros serán seleccionados de entre los sectores público, social y privado del Estado. Los miembros del Patronato no percibirán retribución alguna.
+El Patronato del Instituto estará integrado por un número impar de miembros, nombrados y removidos libremente por el Consejo Directivo. Dichos miembros serán seleccionados de entre los sectores públicos, social y privado del Estado. Los miembros del Patronato no percibirán retribución alguna.
 
 ###### ARTICULO 11.
 
@@ -197,9 +209,17 @@ II.- Coadyuvar en la obtención de recursos adicionales para el Instituto; y
 
 III.- Las demás que le confiera el Consejo Directivo.
 
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2003)</small>
+
+### CAPITULO V. DE LOS TRABAJADORES DEL INSTITUTO
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 12.
 
-Las relaciones laborales entre el Instituto y sus trabajadores, se regirán por la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán.
+Los trabajadores del Instituto se regirán por la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 13.
 
@@ -232,3 +252,13 @@ LIC. MARCO ANTONIO MARTINEZ ZAPATA.
 EL SECRETARIO DE EDUCACION
 
 ING. MILTON RUBIO MADERA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE MAYO DE 2003.
+
+PRIMERO.- Se derogan las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
+
+SEGUNDO.- En un plazo no mayor de ciento ochenta días naturales deberá expedirse el Reglamento Interior del Instituto del Deporte de Yucatán.
+
+TERCERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
