@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1980-01-30"
+last_updated: "1980-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1980.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -677,7 +677,9 @@ XX.- Nombrar a los Magistrados del Tribunal Superior de Justicia, sometiendo sus
 
 XXI.- Presentar a la Legislatura, durante su primer período de sesiones ordinarias, el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
 
-XXII.- Remitir al Congreso, con el informe respectivo, los proyectos de presupuestos de ingresos que le envíen con ese objeto los Ayuntamientos, de acuerdo con el art. 125.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 1980)</small>
+
+XXII.- Remitir al Congreso, con el informe respectivo los proyectos de presupuestos de ingresos que le envíen con ese objeto los Ayuntamientos, de acuerdo con el Artículo 128 de esta Constitución.
 
 XXIII.- Rendir los informes a que se refiere la fracción XIII del art. 63.
 
@@ -989,7 +991,9 @@ I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civ
 
 II.- Ser mayor de veintiún años;
 
-III.- Tener residencia de no menos de un año para el día de la elección en el Municipio en que ésta se verifique;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 1980)</small>
+
+III.- Tener residencia de no menos de un año para el día de la elección en el Municipio en que ésta se verifique. En los Municipios de Apodaca, General Escobedo, Garza García, Guadalupe, Monterrey, San Nicolás de los Garza, Santa Catarina y Villa de García, que comprenden el área metropolitana, será válida la que se tenga en cualquiera de éstos;
 
 IV.- No tener empleo o cargo remunerados en el Municipio en donde se verifique la elección, ya dependan de éste, del Estado o de la Federación, exceptuándose los puestos de Instrucción y Beneficencia;
 
@@ -1654,3 +1658,15 @@ UNICO:- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 30 DE ENERO DE 1980.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE OCTUBRE DE 1980.
+
+DECRETO QUE REFORMA EL ARTICULO 122, FRACCION III DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+
+UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE OCTUBRE DE 1980.
+
+DECRETO QUE REFORMA EL ARTICULO 85, FRACCION XXII DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+
+UNICO:- La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
