@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-ministerio-publico-del-estado-de-coahuila-1522
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-05-18"
-last_updated: "1999-05-18"
+last_updated: "2005-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15220&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL PERIODICO OFICIAL EL 11 DE MARZO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 18 de mayo de 1999.
 
@@ -335,7 +337,7 @@ VIII. Visitar por sí o por conducto del funcionario que designe al efecto, las 
 
 IX. Asistir a los plenos del Tribunal Superior de Justicia del Estado, en los casos y con las facultades previstas en la Ley Orgánica del Poder Judicial y la Ley Orgánica de la Administración Pública estatal.
 
-X. Llevar las relaciones interinstituionales con las Procuradurías Generales de Justicia de los Estados, del Distrito Federal y con la Procuraduría General de la República.
+X. Llevar las relaciones interinstitucionales con las Procuradurías Generales de Justicia de los Estados, del Distrito Federal y con la Procuraduría General de la República.
 
 XI. Cambiar de adscripción a los servidores públicos de la Dependencia, cuando las necesidades del servicio así lo exijan.
 
@@ -547,7 +549,7 @@ Los elementos que no aprueben el curso de inducción correspondiente, serán sep
 
 ###### ARTÍCULO 30.
 
-Los agentes del Ministerio Público y las policías ministeriales integrados al Servicio Civil de Carrera de la Procuraduría General de Justicia del Estado, podrán ser separados del servicio en los términos previsto en las disposiciciones legales y reglametarias que los rijan.
+Los agentes del Ministerio Público y las policías ministeriales integrados al Servicio Civil de Carrera de la Procuraduría General de Justicia del Estado, podrán ser separados del servicio en los términos previsto en las disposiciones legales y reglametarias que los rijan.
 
 Los peritos adscritos a los Servicios Periciales de la Procuraduría, en los niveles y categorías administrativas no comprendidos en el Servicio Civil de Carrera, los asesores y los demás servidores públicos a que se refiere el primer párrafo del artículo 20 de esta Ley, por la naturaleza de sus funciones, son trabajadores de confianza.
 
@@ -706,3 +708,13 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 11 DE MARZO DE 2005.
+
+PRIMERO. Esta Ley entrará en vigor a los treinta días naturales siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley Orgánica del Ministerio Público, publicada en el Periódico Oficial del Gobierno del Estado el primero de julio de mil novecientos noventa y nueve y se derogan las demás disposiciones que se opongan a la presente Ley.
+
+TERCERO. No se afectarán los derechos laborales y administrativos del personal adscrito a la Procuraduría General de Justicia.
