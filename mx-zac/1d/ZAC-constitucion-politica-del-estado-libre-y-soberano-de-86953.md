@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2001-10-24"
+last_updated: "2002-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2002.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -707,9 +707,11 @@ La Legislatura sólo podrá convocar a elecciones para Diputados propietarios, c
 
 #### SECCIÓN PRIMERA. DE LA INSTALACIÓN DE LA LEGISLATURA Y PERIODOS ORDINARIOS DE SESIONES
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2002)</small>
+
 ###### Artículo 57.
 
-La Legislatura del Estado se instalará el siete de septiembre del año de su elección y tendrá durante cada año de ejercicio dos periodos ordinarios de sesiones. El primero iniciará el ocho de septiembre y concluirá el quince de diciembre, pudiéndose prorrogar hasta el día treinta del mismo mes; el segundo comenzará el primero de febrero y terminará el treinta de junio.
+La Legislatura del Estado se instalará el siete de septiembre del año de su elección y tendrá durante cada año de ejercicio dos Períodos Ordinarios de Sesiones. El primero iniciará el ocho de septiembre y concluirá el quince de diciembre pudiéndose prorrogar hasta el día treinta del mismo mes; el segundo comenzará el primero de marzo y terminará el treinta de junio.
 
 ###### Artículo 58.
 
@@ -2452,3 +2454,9 @@ TERCERO.- Dentro de los treinta días siguientes al inicio de vigencia de este D
 CUARTO.- Dentro de los quince días siguientes al inicio de vigencia de este Decreto, se harán los ajustes correspondientes a los inventarios, para que el mobiliario y equipo que tenía asignado la Sala de Primera Instancia, se reubique a donde corresponda.
 
 QUINTO.- Dentro de los noventa días siguientes al inicio de vigencia de este Decreto, se harán las reformas pertinentes al Código Electoral y a la Ley Orgánica del Poder Judicial del Estado. En tanto ello ocurre, una vez integrada la Sala Electoral, los recursos que se presentaren antes de que entre en vigor la reforma a las leyes, se tramitarán en única instancia ante dicha Sala.
+
+P.O. 30 DE ENERO 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Dentro de los treinta días siguientes al inicio de vigencia del presente Decreto, deberán hacerse las reformas y adiciones correspondientes a la Ley Orgánica del Poder Legislativo.
