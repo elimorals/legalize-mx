@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-catastro-del-estado-de-chihuahua-4543"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "1999-12-25"
+last_updated: "2000-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -383,9 +383,9 @@ Los actos y resoluciones emitidas por las autoridades catastrales, con base en l
 
 ARTICULOS TRANSITORIOS:
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-Artículo Primero. Esta Ley entrará en vigor el primero de enero de mil novecientos noventa y seis con excepción de lo dispuesto en el Párrafo Segundo del Artículo 24, el cual entrará en vigor el primero de enero del año dos mil uno.
+Artículo Primero. Esta Ley entrará en vigor el primero de enero de mil novecientos noventa y seis, con excepción de lo dispuesto en el párrafo segundo del Artículo 24, el cual entrará en vigor el primero de enero del año dos mil dos.
 
 Artículo Segundo. Las Disposiciones de el Código Fiscal del Estado de Chihuahua en su Libro Primero, Título tercero, Capítulo I, Sección Sexta, serán aplicables de manera supletoria, hasta en tanto se expida el Reglamento de la presente Ley.
 
@@ -446,3 +446,9 @@ P.O. 25 DE DICIEMBRE DE 1999.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el primero de enero del año dos mil.
+
+P.O. 30 DE DICIEMBRE DE 2000.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil uno.
