@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-notariado-para-el-estado-de-queretaro-11922"
 country: "mx"
 rank: "ley"
 publication_date: "1976-10-28"
-last_updated: "1993-05-20"
+last_updated: "1994-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA PERIODICO OFICIAL: 20 DE MAYO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el 28 de octubre de 1976.
 
@@ -209,7 +209,7 @@ Los jueces repelarán, de plano, toda promoción que viole la disposición conte
 
 El Notario que deseare desempeñar alguno de los cargos cuya incompatibilidad con el ejercicio del Notariado se establece en el Artículo 25, deberá obtener previamente la licencia respectiva del Ejecutivo, para separarse de dicho ejercicio.
 
-(EN SUSPENSO, P.O. 20 DE MAYO DE 1993)
+(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
 
 ###### ARTICULO 28.
 
@@ -1170,3 +1170,13 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Las disposiciones jurídicas que se opongan a la presente Ley, quedan sin efecto mientras dure la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor.
+
+P.O. 9 DE JUNIO DE 1994
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, " La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones jurídicas que se opongan a la presente, quedan sin efecto mientras dure la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor.
