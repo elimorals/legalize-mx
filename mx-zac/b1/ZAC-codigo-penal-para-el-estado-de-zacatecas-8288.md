@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "1999-05-19"
+last_updated: "2001-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2001.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -1599,6 +1599,36 @@ El abandono en perjuicio de menores de edad que no tuvieren otro u otros familia
 
 254.- Si del abandono resultare algún daño, ya sea muerte, lesiones o cualquier otro, se aplicarán las sanciones del delito preterintencional.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE AGOSTO DE 2001)</small>
+
+### CAPITULO VIII. VIOLENCIA FAMILIAR
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)</small>
+
+254-A.- Violencia familiar es el uso del poder, de la fuerza física o moral, así como la omisión grave, de manera reiterada, en contra de un miembro de la familia por otro integrante de la misma, con la intención de someterla a su dominio, o de dañar su integridad física, psíquica o sexual, independientemente de que pueda o no causar lesiones, o de que resulte cualquier otro delito.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)</small>
+
+254-B.- Comete el delito de violencia familiar, el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; o en línea transversal hasta el cuarto grado; pariente por afinidad hasta el segundo grado; el adoptante o el adoptado, siempre y cuando, habiten en el mismo domicilio.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)</small>
+
+254-C.- A quien cometa el delito de violencia familiar se le impondrá de seis meses a seis años de prisión, multa de cinco a cincuenta cuotas, y perderá el derecho a pensión alimenticia, en su caso.
+
+El delito de violencia familiar se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, caso en que se perseguirá de oficio.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)</small>
+
+254-D.- Se equipara al delito de violencia familiar y se impondrá la misma sanción:
+
+I.- Cuando la violencia familiar se cometa en contra de los parientes de la concubina o del concubinario, siempre y cuando, lo sean por consanguinidad o por afinidad hasta el segundo grado;
+
+II.- Cuando sin existir relación de parentesco, el sujeto pasivo sea un menor de edad, incapacitado, discapacitado, anciano, o cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado, siempre y cuando el autor de la violencia y la víctima habiten en el mismo domicilio.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)</small>
+
+254-E.- En todos los casos de violencia familiar, el Ministerio Público deberá intervenir, independientemente de que exista o no, querella o denuncia. Exhortará al presunto responsable para que se abstenga de cualquier conducta ofensiva hacia la víctima; acordará las medidas preventivas que estime necesarias para salvaguardar la integridad física y psíquica del agredido, solicitara a la autoridad judicial las medidas precautorias que considere pertinentes y vigilará su cumplimiento.
+
 ### CAPITULO UNICO. DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
 255.- Se impondrá prisión de tres meses a dos años y multa de cinco a quince cuotas:
@@ -1651,11 +1681,11 @@ III.- Tratar de obligar al amenazado a contraer alguna obligación o a realizar 
 
 IV.- Realizar en forma directa o encubierta una campaña de difamación.
 
+## TITULO DECIMO CUARTO
+
 ### CAPITULO II. ALLANAMIENTO DE MORADA
 
 262.- Se impondrá de seis meses a dos años de prisión y multa de una a tres cuotas al que, sin motivo justificado, se introduzca o permanezca furtivamente o con engaños, o violencia, o sin permiso de la persona autorizada para darlo, a un departamento, vivienda, aposento o dependencia de una casa habitada.
-
-## TITULO DECIMO CUARTO
 
 ### CAPITULO III. ASALTO
 
@@ -1817,6 +1847,8 @@ Cuando el autor de la lesión sea persona de notoria escasa instrucción a crite
 
 292.- De las lesiones que a una persona cause algún animal bravío, será responsable el que con esa intención lo azuce o lo suelte. Si lo suelta por descuido, la sanción será la correspondiente al delito culposo.
 
+## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
+
 ### CAPITULO II. HOMICIDIO
 
 293.- Comete el delito de homicidio el que priva de la vida a otro.
@@ -1851,7 +1883,7 @@ III.- Cuando sean varias las lesiones, unas mortales y otras no y se ignore quie
 
 299.- Al responsable de homicidio calificado se le impondrán de dieciséis a treinta años de prisión y multa de veinte a sesenta cuotas.
 
-## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
+## TITULO DECIMO SEXTO. DELITOS CONTRA EL HONOR
 
 ### CAPITULO III. REGLAS COMUNES PARA LOS DELITOS DE LESIONES Y HOMICIDIO
 
@@ -1892,8 +1924,6 @@ Si sólo se causaren lesiones, la sanción será de treinta días a tres años y
 I.- Declarar a los reos sujetos a la vigilancia de la policía; y
 
 II.- Prohibirles ir a determinado lugar, municipio o distrito del Estado, o residir en él.
-
-## TITULO DECIMO SEXTO. DELITOS CONTRA EL HONOR
 
 ### CAPITULO IV. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
 
@@ -1960,6 +1990,8 @@ Si el aborto lo causare un médico, cirujano, comadrona o partera, además de la
 315.- Al que encuentre abandonado o abandone en cualquier sitio a un menor o a un anciano incapaz de cuidarse a sí mismo a una persona lesionada, inválida o amenazada de un peligro cualquiera, se le aplicarán de tres a seis meses de prisión o multa de una a cinco cuotas si no diera aviso inmediato a la autoridad u omitiese prestarles el auxilio necesario cuando pudiere hacerlo sin riesgo personal.
 
 316.- El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete que deje en estado de abandono sin prestarle o facilitarle asistencia a la persona a quien atropelló, o le causó un daño similar, será sancionado con la pena de tres a seis meses de prisión o multa de diez a veinticinco cuotas, por esta sola circunstancia. Si del abandono resultare la muerte, la sanción será de dos a ocho años de prisión; si resultaren lesiones o algún otro delito, se aplicará la mitad de las sanciones que correspondan a aquéllos.
+
+## TITULO DECIMO OCTAVO. DELITOS CONTRA EL PATRIMONIO
 
 ### CAPITULO I. ROBO
 
@@ -2040,8 +2072,6 @@ Además de las sanciones señaladas en el artículo 320 de este Código, se apli
 Si además de las personas a que se refiere el párrafo anterior tuviere intervención en el robo alguna otra, para sancionar a ésta se necesita querella del ofendido, pero en este caso se procederá contra todos los responsables, incluyendo a los que se mencionan en la primera parte de este artículo.
 
 329.- Si precediere, acompañare o siguiere al robo algún otro hecho que por sí solo constituya un delito, se aplicarán las reglas del concurso.
-
-## TITULO DECIMO OCTAVO. DELITOS CONTRA EL PATRIMONIO
 
 ### CAPITULO II. ABIGEATO
 
@@ -2311,7 +2341,7 @@ V.- Pagar los salarios de los trabajadores en tabernas, cantinas, prostíbulos o
 
 VI.- Obligar a los trabajadores a realizar jornadas sin descanso que excedan de once horas en las labores diurnas y de siete en las nocturnas;
 
-> <small>(REFORMADA P.O. 5 DE JULIO DE 1997)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1997)</small>
 
 VII.- Imponer labores insalubres o peligrosas y trabajos nocturnos a las mujeres y a los jóvenes menores de dieciocho años;
 
@@ -2399,6 +2429,8 @@ III.- Mediante cualquier acción u omisión que no constituya delito diverso, ej
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
+## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA PUBLICA Y CONTRA EL TRABAJO Y LA PREVISION SOCIAL
+
 ### CAPITULO II. RETENCION ILEGITIMA
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
@@ -2414,8 +2446,6 @@ III.- No ponga al detenido a disposición de la autoridad judicial sin dilación
 Se entenderá que el inculpado queda a disposición del juzgador, para los efectos constitucionales y legales, desde el momento en que la autoridad lo ponga a disposición de aquel en la prisión preventiva o en el centro de salud en que se encuentre.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
-## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA PUBLICA Y CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
 ### CAPITULO III. DETENCION Y PRISION PREVENTIVA ILEGITIMA
 
@@ -2615,6 +2645,8 @@ X.- Destruya, oculte, altere un expediente, paquete electoral o algún documento
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
 
+## TITULO VIGESIMO
+
 ### CAPITULO CUARTO. DE LOS FUNCIONARIOS ELECTORALES
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 1995)</small>
@@ -2685,8 +2717,6 @@ V.- Sustraiga, destruya, oculte, altere algún expediente, paquete electoral u o
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE FEBRERO DE 1997)</small>
 
-## TITULO VIGESIMO
-
 ### CAPITULO QUINTO. DE LOS DIRIGENTES PARTIDISTAS Y CANDIDATOS
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 1997)</small>
@@ -2753,6 +2783,10 @@ XI.- Simule hechos, circunstancias o actos de campaña electoral para imputarlos
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
+## TITULO VIGESIMO PRIMERO. DELITOS CONTRA LA FUNCION PERSECUTORIA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
 ### CAPITULO SEXTO. DE LOS OBSERVADORES ELECTORALES
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 1995)</small>
@@ -2767,10 +2801,6 @@ III.- Propale noticias falsas en torno al desarrollo de la jornada electoral o r
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
-## TITULO VIGESIMO PRIMERO. DELITOS CONTRA LA FUNCION PERSECUTORIA
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
 ### CAPITULO SEPTIMO. DE LOS ENCUESTADORES
 
 > <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
@@ -2778,6 +2808,10 @@ III.- Propale noticias falsas en torno al desarrollo de la jornada electoral o r
 383.- Se impondrá de uno a tres años de prisión y multa hasta de quinientas cuotas de salario mínimo general vigente en el Estado, a la persona física que publique encuestas o sondeos de opinión y den a conocer las preferencias de los ciudadanos durante los ocho días previos a la jornada electoral y hasta la hora oficial de cierre de las casillas.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
+
+## TITULO VIGESIMO SEGUNDO. DELITOS CONTRA LAS GARANTIAS RECTORAS DEL JUICIO PENAL
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO OCTAVO. DE LOS SERVIDORES PUBLICOS
 
@@ -2812,10 +2846,6 @@ VI.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 1997)</small>
 
 Si para la comisión de cualquiera de los delitos previstos en este capítulo se utiliza violencia física contra personas, a las penas que correspondan se aumentarán de 1 a 2 años de prisión.
-
-## TITULO VIGESIMO SEGUNDO. DELITOS CONTRA LAS GARANTIAS RECTORAS DEL JUICIO PENAL
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ## TITULO VIGESIMO TERCERO
 
@@ -2928,3 +2958,7 @@ Primero.- El presente Decreto entrará en vigor a los quince días siguientes al
 Segundo.- En aplicación del principio constitucional de irretroactividad de la ley, las reformas a los Códigos Penal y de Procedimientos Penales del Estado, contenidas en el presente Decreto, beneficiarán a todo indiciado, procesado o sentenciado que después de su entrada en vigor se encuentre en condiciones de ser favorecido por el mismo y no será aplicable en aquellos casos en que la reforma les depare perjuicio.
 
 Tercero.- Las personas sujetas a procesos penales que se encuentren en trámite al inicio de la vigencia de este Decreto, en los que se investiguen delitos cuya pena máxima no exceda de dos años de prisión, podrán libremente acogerse a la reforma procesal o continuar el trámite en términos de lo previsto en las disposiciones legales anteriores a esta reforma.
+
+P.O. 22 DE AGOSTO DE 2001
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación, en el Periódico Oficial, Organo del Gobierno del Estado.
