@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "1996-12-27"
+last_updated: "1997-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -73,13 +73,19 @@ Las Leyes de Egresos del Estado y de los Municipios regularán el gasto público
 
 El presente Código que regula la actividad fiscal del Estado, tendrá aplicación para normar la relativa a los Municipios, salvo que dicha actividad municipal por su naturaleza le resulte oponible.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+De acuerdo con lo anterior, tratándose de la actividad fiscal del Municipio, en todos los casos que este Código se refiera al Secretario de Finanzas y Tesorero General del Estado o la Secretaría de Finanzas y Tesorería General del Estado, se entenderá referido al Tesorero Municipal o a la Tesorería Municipal, del Municipio de que se trate.
+
 ###### ARTICULO 3.
 
 Las contribuciones se clasifican en impuestos, derechos y contribuciones especiales, los que se definen de la siguiente manera:
 
 I.- Impuestos son las prestaciones establecidas en ley que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas en las fracciones II y III de este artículo.
 
-II.- Derechos son las contraprestaciones establecidas en Ley por los servicios públicos que presta el Estado en sus funciones de derecho público, así como por el uso o aprovechamiento de los bienes de dominio publico del Estado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+II.- Derechos son las contribuciones establecidas en Ley por recibir servicios que presta el Estado en sus funciones de derecho público, así como por el uso o aprovechamiento de los bienes de dominio público del Estado.
 
 III.- Contribuciones especiales son las prestaciones cuyo presupuesto de hecho se caracteriza por un beneficio económico particular proporcionado al contribuyente por la realización de obras públicas o de tareas estatales o municipales provocadas por las actividades del contribuyente. Su rendimiento no debe tener un destino ajeno al financiamiento de las obras o actividades correspondientes.
 
@@ -1487,9 +1493,11 @@ III.- Afecten el interés jurídico de terceros, en los casos a que se refiere e
 
 El recurso de nulidad de notificaciones procederá en contra de las que se hagan en contravención de las disposiciones legales.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 119.
 
-La interposición del recurso de revocación será optativa para el interesado antes de acudir al juzgado fiscal del estado; los demás recursos administrativos deberán agotarse previamente a la promoción del juicio respectivo. Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que corresponda.
+La interposición de los recursos administrativos a que se refiere el Artículo 115 será optativa para el interesado antes de acudir al Tribunal de lo Contencioso Administrativo del Estado. Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que corresponda.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1673,9 +1681,11 @@ Tratándose de actos relativos al procedimiento administrativo de ejecución, el
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán los gastos de ejecución a cargo de quien incurrió en el incumplimiento.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 137.
 
-Las notificaciones por estrados se harán fijando durante cinco días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del sexto día siguiente a aquel en que se hubiera fijado el documento.
+Cuando las personas a quienes se haya de notificar, omitan señalar domicilio en su primer escrito o hayan variado su domicilio fiscal para el caso de que lo hubieren manifestado ante la propia autoridad y no hubieren notificado esta situación o bien, cuando habiéndose efectuado la notificación a través de edictos, el notificado no compareciere, las notificaciones que deban efectuarse, aún las de carácter personal, se efectuarán por estrados a través de instructivo que deberá contener el texto íntegro de la resolución y que se fijará durante cinco días en un sitio abierto al público de las oficinas de la autoridad y del cual se dejará constancia en el expediente respectivo. En estos casos se tendrá como fecha de notificación la del sexto día, contado a partir del siguiente a aquél en que se hubiera fijado el documento.
 
 ###### ARTICULO 138.
 
@@ -1697,9 +1707,9 @@ IV.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solv
 
 V.- Embargo en la vía administrativa.
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-La garantía deberá comprender, además de las contribuciones adeudadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá ampliarse la garantía por el importe de los recargos correspondientes a los doce meses siguientes y así sucesivamente hasta garantizar el 100% de los recargos.
+La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes y así sucesivamente.
 
 La Secretaría de Finanzas y Tesorería General del Estado vigilará que las garantías sean suficientes tanto en el momento de su aceptación como con posterioridad, y si no lo fueren, exigirá su ampliación o procederá al secuestro de otros bienes, previo requerimiento al particular para que mejore la garantía otorgada.
 
@@ -2564,3 +2574,9 @@ Para los efectos de lo dispuesto en el artículo 18 Bis del Código Fiscal del E
 P.O. 27 DE DICIEMBRE DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1997.
+
+P.O. 29 DE DICIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de Enero de 1998.
