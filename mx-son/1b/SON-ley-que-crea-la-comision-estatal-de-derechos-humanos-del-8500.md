@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-la-comision-estatal-de-derechos-humanos-del-8500"
 country: "mx"
 rank: "ley"
 publication_date: "1992-10-08"
-last_updated: "1992-10-08"
+last_updated: "1998-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 1998.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 8 de octubre de 1992.
 
@@ -143,9 +143,11 @@ V.- No ejercer cargo público en el momento de su designación;
 
 VI.- Gozar de reconocido prestigio profesional o personal, en la entidad.
 
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 11.
 
-El nombramiento del Presidente de la Comisión, será hecho por el titular del Poder Ejecutivo Estatal, valorando previamente las opiniones de la sociedad sonorense para su designación, y posteriormente someterlo a la aprobación del Congreso del Estado.
+El Presidente de la Comisión será nombrado por el Congreso del Estado, por las dos terceras partes de sus Diputados integrantes. Para el nombramiento respectivo, deberá valorarse previamente las opiniones de la sociedad sonorense, de acuerdo a los procedimientos que el Congreso determine, con base en su propia Normatividad interna.
 
 ###### ARTICULO 12.
 
@@ -175,7 +177,9 @@ III.- Dictar las medidas específicas que juzgue convenientes para el mejor dese
 
 IV.- Distribuir y delegar funciones a los Visitadores, en los términos del Reglamento Interno;
 
-V.- Enviar un informe anual al Congreso del Estado y al titular del Poder Ejecutivo Estatal sobre las actividades de la Comisión;
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1998)</small>
+
+V.- Presentar directamente un informe anual al Congreso del Estado y al Titular del Poder Ejecutivo Estatal sobre las actividades de la Comisión, o en su caso, cuando éstos se lo requieran oportunamente;
 
 VI.- Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades y organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
 
@@ -435,9 +439,13 @@ La Comisión notificará inmediatamente a los quejosos los resultados de la inve
 
 El Presidente de la Comisión deberá publicar, en su totalidad o en forma resumida, las recomendaciones y los acuerdos de no responsabilidad emitidos por la Comisión. En casos excepcionales, podrá determinar si los mismos sólo deban comunicarse a los interesados de acuerdo con las circunstancias del propio caso.
 
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 53.
 
-El Presidente de la Comisión deberá enviar un informe anual, tanto al Congreso del Estado, como al titular del Ejecutivo Estatal, sobre las actividades que haya realizado en el período respectivo. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
+El Presidente de la Comisión deberá presentar directamente un informe anual, tanto al Congreso del Estado, como al Titular del Ejecutivo Estatal, sobre las actividades que haya realizado en el período respectivo. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
+
+En el caso del Congreso del Estado, dicho informe deberá presentarse personalmente por el Presidente de la Comisión Estatal de Derechos Humanos, a través de las Comisiones de Justicia y Derechos Humanos de ese Organo Legislativo, quiénes resolverán el procedimiento de análisis y evaluación correspondiente, con sujeción a su propia normatividad interior.
 
 ###### ARTICULO 54.
 
@@ -556,3 +564,23 @@ LIC. MANLIO FABIO BELTRONES RIVERA.
 EL SECRETARIO DE GOBIERNO,
 
 LIC. ROBERTO SANCHEZ CEREZO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 28 DE DICIEMBRE DE 1998.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se autoriza a las Comisiones de Justicia y Derechos Humanos del Congreso del Estado, que hasta en tanto sea adecuado el Reglamento de Funcionamiento y Gobierno Interior a la Ley Orgánica de este Congreso, puedan instrumentar conjuntamente el procedimiento de selección y nombramiento del Presidente de la Comisión Estatal de los Derechos Humanos, o en su caso, el de ratificación para un segundo período, de acuerdo a las disposiciones de la propia Ley de esa Comisión Estatal de los Derechos Humanos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan aquellas disposiciones que en lo conducente se opongan a la aplicación y observancia de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Las facultades otorgadas en la presente Ley a las Comisiones Unidas de Justicia y Derechos Humanos a efecto de instruir el procedimiento de selección y nombramiento del Presidente de la Comisión Estatal de Derechos Humanos del Estado, entrará en vigor una vez concluido el período ordinario del actual Presidente de dicho Organismo.
