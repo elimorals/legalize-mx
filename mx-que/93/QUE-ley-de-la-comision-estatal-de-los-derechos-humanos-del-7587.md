@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-comision-estatal-de-los-derechos-humanos-del-7587"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-24"
-last_updated: "1992-12-24"
+last_updated: "1995-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7587&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LA "COMISION ESTATAL DE DERECHOS HUMANOS" REGLAMENTARIA DEL ARTICULO 9º DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 24 de diciembre de 1992.
 
@@ -181,7 +181,9 @@ IV. Dictar las medidas específicas que juzgue convenientes para el mejor desemp
 
 V. Distribuir y delegar funciones al Visitador General, en los términos de esta Ley y su Reglamento;
 
-VI. Enviar un informe semestral a la Legislatura del Estado y al Titular del Poder Ejecutivo Estatal sobre las actividades de la Comisión y hacerlo público a la sociedad;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+VI. Enviar un informe anual a la Legislatura del Estado, al Titular del Poder Ejecutivo y al Presidente del Poder Judicial de la Entidad, durante la última semana del mes de abril de cada año, sobre las actividades de la Comisión, haciéndolo público a la sociedad.
 
 VII. Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades de organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
 
@@ -590,3 +592,15 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 JESUS RODRIGUEZ HERNANDEZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 1995
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto por la presente Ley.
