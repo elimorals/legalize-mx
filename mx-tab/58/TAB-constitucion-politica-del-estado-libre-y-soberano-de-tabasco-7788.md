@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1921-05-25"
+last_updated: "1923-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1921.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 1923.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -231,27 +231,33 @@ Los Diputados gozan de fuero desde el día en que hubieren sido declarados elect
 
 El Congreso se renovará en su totalidad cada dos años, comenzando a funcionar el 16 de septiembre posterior a las elecciones.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1923)</small>
+
 ###### Art. 38.
 
-Los miembros de la Cámara, presuntos o definitivos electos para cada bienio, deben reunirse en el salón de sesiones destinado al Poder Legislativo diez días antes de la instalación del Congreso o de abrir el período de sesiones correspondientes, y estando presente la mayoría de los Diputados de los diferentes distritos electorales, se constituirá en JUNTA PREPARATORIA para revisar, en su caso, las elecciones de los presuntos Diputados o para designar el Presidente y Secretarios de la Mesa Directiva del Congreso, conforme al Reglamento del mismo.
+Los miembros de la Cámara salientes deberán reunirse en el Salón de Sesiones destinado al Poder Legislativo el día 1º de Septiembre, y estando presente la mayoría de los Diputados que la integran, se constituirán en Junta Preparatoria para revisar y decidir sobre la validez o nulidad de las elecciones celebradas con motivo de la renovación de los Diputados que compondrán el nuevo Congreso, debiendo designar al Presidente y Vicepresidente de la Mesa que se encargará de dicho acto.
 
-Si no se reuniere la mayoría del número total de los Diputados, los presentes se constituirán en JUNTA PREVIA para compeler a los ausentes a que concurran, con la advertencia de que si no lo hacen en el término de diez días se entenderá por esa sola falta que no aceptan el cargo, llamándose en seguida a los suplentes, si antes no estuvieren en ejercicio, los cuales deben presentarse dentro del plazo de veinte días, y si tampoco se consigue su asistencia se declarará vacante el cargo y se convocará a nuevas elecciones por los distritos respectivos.
+Si no hubiere quórum de Diputados, para integrar el Congreso, los presentes se constituirán en Junta Previa para compeler a los ausentes a que concurran, con la advertencia de que si no lo hacen dentro de los cinco días siguientes, entonces la Comisión Permanente conocerá de la validez o nulidad de las elecciones hasta el día 14 inclusive de dicho mes y si para esa fecha no se han revisado la mayoría de las credenciales del futuro Congreso, entonces los presuntos Diputados se reunirán en Junta Previa el día 15 y serán los que resuelvan quienes son los ciudadanos electos por el Pueblo.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1923)</small>
 
 ###### Art. 39.
 
-Cada Cámara, con el carácter de Junta Preparatoria o no, según los casos, pero siempre erigida en Colegio Electoral, calificará las elecciones de sus miembros, resolviendo las dudas o controversias que ocurran con motivo de ellas, y sus resoluciones serán definitivas e inatacables.
+La misma Cámara saliente, con el carácter de Junta Preparatoria, o la Comisión Permanente en su caso, pero siempre erigida en Colegio Electoral, calificarán las elecciones de los presuntos miembros resolviendo las dudas o controversias que ocurran con motivo de ellas, siendo las resoluciones definitivas e inatacables.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1923)</small>
 
 ###### Art. 40.
 
-La Cámara no puede funcionar, en ningún caso, sin la asistencia por lo menos de la mitad más uno del número total de sus componentes.
+La Cámara no puede funcionar en ningún caso sin la asistencia por lo menos de la mitad más una del número total de sus componentes. Si no hubiere quórum para la instalar el nuevo Congreso hecha la declaratoria de la validez de la mayoría de las credenciales de los presente Diputados, éstos se reunirán en Junta Previa para compeler a los ausentes que no se hayan presentado, quedando facultados para que en caso de no conseguir su asistencia, llamen a los suplentes, y si tampoco consiguen su asistencia, declaren vacantes las Representaciones de sus Distritos convocando a las elecciones respectivas.
 
-Si no hubiere QUORUM para la instalación del Congreso y conforme al artículo 38 estuviere vacante la mayoría de los cargos de Diputados, la Junta Previa lo comunicará al Ejecutivo para que convoque a nuevas elecciones; pero si no lo hubiese para abrir algún período de sesiones ordinarias, la Comisión Permanente hará la convocatoria y mientras tanto continuará funcionando.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1923)</small>
 
 ### CAPITULO II.. INSTALACION Y PERIODOS DE SESIONES DEL CONGRESO
 
 ###### Art. 41.
 
-Aprobadas las elecciones de la mayoría de los Diputados que deben integrar la Cámara y habiendo quórum, otorgarán los mismos Diputados la protesta de guardar y hacer guardar la Constitución General, la del Estado y las leyes que de ellas emanen, conforme lo previene esta Constitución, rindiéndola por sí el Presidente de la Junta Preparatoria, quien la recibirá después a los otros Diputados. En seguida se designará la Mesa Directiva del Congreso y se hará la declaración solemne de quedar instalada la Legislatura respectiva y abierto su período de sesiones.
+Aprobadas las elecciones de la mayoría de los nuevos Diputados que deben integrar la Cámara, otorgarán la protesta de guardar y hacer guardar la Constitución de la República, la Particular del Estado las leyes que de ambas emanen, ya ante la Cámara saliente o ante la Comisión Permanente, siempre que alguna de éstas haya conocido de las elecciones de que se trata, pero si transcurrió el término señalado en el artículo 88 tienen que conocer de la validez o nulidad de las elecciones los presuntos Diputados, entonces al haber quórum nombrarán su Mesa Directiva y otorgarán la protesta por sí, el que resulte Presidente, y ante éste los demás; y se hará la declaratoria solemne de quedar instalada la Legislatura y abierto su período de sesiones.
 
 ###### Art. 42.
 
@@ -411,7 +417,9 @@ R.- Caminos y demás vías de comunicación, para que siempre se mantengan exped
 
 III.- Iniciar ante el Congreso de la Unión las leyes y decretos que sean de la competencia del mismo, así como su derogación, y secundar cuando lo estime conveniente las iniciativas hechas por las Legislaturas de otros Estados.
 
-IV.- Erigirse en Colegio Electoral para hacer el escrutinio y la declaración respecto a la elección de Gobernador del Estado y Senadores al Congreso General.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 1923)</small>
+
+IV.- Erigirse en Colegio electoral para hacer el escrutinio y la declaración respecto a la elección de Gobernador del Estado, Senadores al Congreso General y Diputados al Congreso Local.
 
 V.- Decidir sobre las elecciones de Ayuntamiento, cuando se reclame contra ellas.
 
@@ -425,9 +433,9 @@ IX.- Inspeccionar la Contaduría Mayor de Hacienda.
 
 X.- Nombrar y remover libremente al Contador Mayor, a los empleados de la Secretaría del Congreso, y a los de la Contaduría Mayor.
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 1921)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 1923)</small>
 
-XI.- Nombrar a propuesta en terna del Ejecutivo, al Tesorero General del Estado y removerlo libremente.
+XI.- Nombrar a propuesta en terna del Ejecutivo al Tesorero General del Estado.
 
 XII.- Decretar la manera de cubrir el contingente que para el Ejército de la Nación debe dar el Estado conforme a las leyes federales.
 
@@ -445,9 +453,9 @@ XVIII.- Elegir a los Magistrados del Supremo Tribunal de Justicia.
 
 XIX.- (DEROGADA, P.O. 25 DE MAYO DE 1921)
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 1921)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 1923)</small>
 
-XX.- Resolver acerca de las renuncias de Gobernador; de Diputados, del Tesorero General del Estado y de los Magistrados del Tribunal Superior de Justicia, y conceder a los mismos funcionarios, licencia en los términos que dispongan las leyes.
+XX- Resolver acerca de las renuncias de Gobernador, de los Diputados y de los Magistrados del Tribunal Superior de Justicia, y conceder a los mismos funcionarios, licencia en los términos que dispongan las leyes.
 
 XXI.- Convocar a elecciones de Diputados cuando ocurra falta absoluta del propietario y suplente, si dicha falta ocurriera antes de los últimos seis meses del período constitucional.
 
@@ -629,7 +637,9 @@ II.- Sancionar, promulgar y ejecutar las leyes y decretos dados por el Poder Leg
 
 III.- Nombrar y remover libremente al Secretario General de Gobierno.
 
-IV.- Proponer en terna al Congreso del Estado el nombramiento de Tesorero General.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 1923)</small>
+
+IV.- Proponer en terna al Congreso del Estado, el nombramiento de Tesorero General, pudiendo removerlo libremente y concederle licencia indifinida (sic) o por tiempo determinado.
 
 V.- Nombrar y remover libremente al Procurador de Justicia, al Subsecretario de Gobierno y a todos los demás empleados y funcionarios del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes.
 
@@ -863,6 +873,8 @@ VII.- Vigilar y promover cuanto se relacione con la buena marcha de la Administr
 
 RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1923)</small>
+
 ###### Art. 108.
 
 El Ministerio Público en el Estado estará a cargo de un "PROCURADOR DE JUSTICIA" que residirá en la Capital del Estado, y del número de Agentes que determinará la ley que organice su funcionamiento.
@@ -995,9 +1007,9 @@ El año fiscal comenzará el primero de enero y terminará el treinta y uno de d
 
 ###### Art. 131.
 
-Los Diputados al Congreso del Estado, los Magistrados, el Procurador de Justicia y el Secretario General de Gobierno o el Subsecretario en su caso, así como los Regidores de los Ayuntamientos son responsables de los delitos comunes que cometan durante el tiempo de su encargo, y por los delitos, faltas u omisiones en que incurran en el ejercicio de ese mismo cargo.
+Los Diputados al Congreso del Estado, los Magistrados, el Procurador de Justicia, y el Secretario General de Gobierno o el Sub-Secretario en su caso, así como los Regidores de los Ayuntamientos, son responsables de los delitos comunes que cometan durante el tiempo de su encargo, y por los delitos, faltas u omisiones en que incurran en el ejercicio de ese mismo cargo.
 
-El Gobernador del Estado sólo podrá ser acusado durante el tiempo de sus funciones por los delitos de traición a la Patria, violación expresa de la Constitución General, y del Estado, ataques a la libertad electoral y delitos graves del orden común.
+El Gobernador del Estado sólo podrá ser acusado durante el tiempo de sus funciones, por los delitos de traición a la Patria, violación expresa de la Constitución General, y del Estado, ataques a la libertad electoral y delitos graves del orden común, pero para que pueda ser desaforado, se necesitará el voto unánime de la totalidad de los Diputados que formen el Congreso.
 
 ###### Art. 132.
 
@@ -1264,3 +1276,7 @@ Los Ayuntamientos actualmente en funciones cesarán en ellas el 31 de Diciembre 
 ###### Art. 2º.
 
 Este Decreto comenzará a regir desde la fecha de su publicación.
+
+P.O. 28 DE MAYO DE 1923.
+
+UNICO:- Este Decreto comenzará a surtir sus efectos legales desde la fecha de su promulgación.
