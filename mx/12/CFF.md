@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1981-12-31"
+last_updated: "1982-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 1982.
 
 Código publicado en el Diario Oficial de la Federación el jueves 31 de diciembre de 1981.
 
@@ -2856,7 +2856,9 @@ Los magistrados, las autoridades o cualquier particular podrán dirigirse al Pre
 
 ## TRANSITORIOS
 
-Artículo Primero.- Este Código entrará en vigor en toda la República el día primero de octubre de 1982.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 1982)</small>
+
+Artículo Primero.- Este Código entrará en vigor en toda la República el día 1o. de abril de 1983.
 
 Artículo Segundo.- A partir de la entrada en vigor de este Código se abroga el Código Fiscal de la Federación de fecha 30 de diciembre de 1966.
 
@@ -2889,3 +2891,11 @@ Artículo Décimo Primero.- Para los efectos de la aplicación de este Código, 
 México, D. F., a 30 de diciembre de 1981.- Blas Chumacero Sánchez, S.P.- Marco Antonio Aguilar Cortés, D.P.- Luis León Aponte, S.S.- Silvio Lagos Martinez, D.S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y uno.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Gobernación, Enrique Olivares Santana.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS, DISPOSICIONES DE VIGENCIA ANUAL Y LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+D.O.F. 30 DE SEPTIEMBRE DE 1982.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el 1o. de octubre de 1982.
