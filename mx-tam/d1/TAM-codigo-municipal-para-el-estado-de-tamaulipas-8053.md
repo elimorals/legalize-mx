@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2004-05-27"
+last_updated: "2004-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -115,7 +115,7 @@ En caso de conflicto por cuestión de límites entre Municipios, el Congreso del
 
 ###### ARTICULO 11.
 
-El Congreso, por acuerdo de las dos terceras partes de sus integrantes, podrá crear nuevos Municipios dentro de los límites de los existentes, modificar sus límites y suprimir o fusionar algunos de ellos, previa consulta y dictamen del Ejecutivo del Estado. Para que pueda crearse un nuevo Municipio deberán satisfacerse los siguiente requisitos:
+El Congreso, por acuerdo de las dos terceras partes de sus integrantes, podrá crear nuevos Municipios dentro de los límites de los existentes, modificar sus límites y suprimir o fusionar algunos de ellos, previa consulta y dictamen del Ejecutivo del Estado. Para que pueda crearse un nuevo Municipio deberán satisfacerse los siguientes requisitos:
 
 I.- Contar con una población excedente a veinticinco mil habitantes, lo cual se acreditará con el censo respectivo.
 
@@ -801,7 +801,17 @@ V.- Autorizar con su firma las actas, acuerdos, documentos y demás disposicione
 
 VI.- Compilar las disposiciones jurídicas que tengan vigencia en el Municipio y, en su caso, proporcionar asesoría a los Ayuntamientos, dependencias y órganos auxiliares de la administración pública municipal.
 
-VII.- Las demás establecidas en la Ley y sus reglamentos.
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+
+VII.- Tener a su cargo la oficina de la Crónica Municipal, la que dependerá de un Cronista Municipal, quien se podrá auxiliar de un Cronista Adjunto y del personal administrativo que el presupuesto permita.
+
+El Cronista Municipal será designado por el Ayuntamiento entre la terna propuesta por el Presidente Municipal. El Cronista Adjunto será designado por el Ayuntamiento entre la terna propuesta por el Cronista Municipal. Dichos titulares podrán ser ratificados o relevados a juicio del Ayuntamiento, privilegiando la continuidad propia de la función.
+
+Por la naturaleza de la labor, los cargos recaerán en individuos apartidistas.
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+
+VIII.- Las demás establecidas en la ley y sus reglamentos.
 
 ###### ARTICULO 69.
 
@@ -2383,7 +2393,7 @@ Solamente podrán hacerse retenciones, descuentos o deducciones al salario del t
 
 I.- Cuando el trabajador contraiga deudas con el Ayuntamiento por concepto de anticipo de salarios, pagos hechos con exceso, errores o pérdidas de fondos municipales a su custodia, por causa imputable al trabajador.
 
-II.- Cuando se trate de cobro de cuotas de la organización burocrática a la que pertenezca el trabajador o cuando se trate de aportación de fondos para constitución de cooperativas, cajas de ahorro o servicios de seguridad social, siempre que el trabajador hubiere manifestado previamente de una manera expresa sus conformidad.
+II.- Cuando se trate de cobro de cuotas de la organización burocrática a la que pertenezca el trabajador o cuando se trate de aportación de fondos para constitución de cooperativas, cajas de ahorro o servicios de seguridad social, siempre que el trabajador hubiere manifestado previamente de una manera expresa su conformidad.
 
 III.- Cuando se trate de descuentos ordenados por la autoridad judicial para cubrir el monto de alimentos exigidos al trabajador.
 
@@ -3388,3 +3398,9 @@ P.O. 27 DE MAYO DE 2004.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La oficina de la Crónica Municipal, sus titulares y el personal administrativo a su cargo, se adscribirán una vez efectuada la planeación administrativa y el presupuesto lo permita.
