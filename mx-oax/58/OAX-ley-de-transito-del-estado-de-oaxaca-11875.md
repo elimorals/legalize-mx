@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-del-estado-de-oaxaca-11875"
 country: "mx"
 rank: "ley"
 publication_date: "1969-07-05"
-last_updated: "1998-01-17"
+last_updated: "1999-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSITO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1999.
 
 Ley publicada en el Periódico Oficial Organo del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca, el Sábado 5 de Julio de 1969.
 
@@ -57,35 +57,49 @@ La presente Ley tiene por objeto establecer las bases y requisitos a que se suje
 
 Por tal motivo, cuando por cualquier causa se suspenda la prestación de tales servicios, el Ejecutivo del Estado podrá intervenir las empresas para la reanudación de los propios servicios.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
 
 ###### Artículo 2o.
 
-Corresponde al Poder Ejecutivo del Estado, por conducto de su Dirección General de Tránsito, la aplicación de esta Ley y sus reglamentos.
+La aplicación de esta Ley y sus Reglamentos, corresponde al Titular del Poder Ejecutivo del Estado por conducto de la Secretaría de Transporte y sus correspondientes Direcciones de Tránsito y de Transporte. Lo anterior sin menoscabo de las facultades y atribuciones de los Municipios en materia de tránsito.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1999)</small>
 
 ###### Artículo 3o.
 
-La Dirección General de Tránsito del Estado se integra por:
+La Dirección de Tránsito del Estado se integra por:
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
 I.- Un Director.
 
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
 II.- Un Sub-Director.
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
 III.- Delegados Foráneos de Tránsito.
 
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
 IV.- Agentes de Policía de Tránsito, y
 
-V.- Auxiliares de la Dirección General de Tránsito.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+V.- Auxiliares de la Dirección de Tránsito.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1999)</small>
 
 ###### Artículo 4o.
 
-Son auxiliares de la Dirección General de Tránsito del Estado:
+Son auxiliares de la Secretaría de Transporte y Dirección de Tránsito del Estado:
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
 I.- El Cuerpo de Peritos en manejo y tránsito de vehículos.
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
 II.- El Cuerpo Médico para el examen físico y mental de los conductores de vehículos.
 
@@ -103,13 +117,25 @@ Son Autoridades de Tránsito en el Estado:
 
 I.- El Gobernador del Estado.
 
-II.- El Director General de Tránsito del Estado.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE JULIO DE 1999)</small>
 
-III.- El Sub-Director General de Tránsito del Estado.
+II.- El Secretario de Transporte;
 
-IV.- Los Delegados Foráneos de Tránsito del Estado; y,
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
-V.- Los Agentes de Policía de Tránsito del Estado.
+III.- El Director de Tránsito del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+IV.- El Subdirector de Tránsito del Estado;
+
+([N. DE E. REFORMADA], P.O. 9 DE JULIO DE 1999)
+
+V- Los Delegados Foráneos de Tránsito del Estado; y
+
+([N. DE E. ADICIONADA], P.O. 9 DE JULIO DE 1999)
+
+VI.- Los Agentes de Policía de Tránsito del Estado.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
@@ -135,45 +161,83 @@ V.- Para ordenar la inspección y vigilancia de las empresas que exploten servic
 
 VI.- Para fijar y aplicar las sanciones en que incurran las personas físicas y morales con motivo de violaciones a la presente Ley y sus reglamentos.
 
-VII.- Para nombrar y remover al personal de la Dirección General de Tránsito del Estado, a que se refieren las fracciones I, II y III del artículo 3o. de esta Ley.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+VII.- Para nombrar y remover al personal de la Dirección de Tránsito del Estado, a que se refieren las Fracciones I, II, III y IV del artículo 3° de esta Ley.
 
 VIII.- Para expedir los reglamentos de la presente Ley.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1999)</small>
+
+Artículo 7° BIS.- Son atribuciones y competencia del Secretario de Transporte:
+
+I.- Cumplir y hacer cumplir las disposiciones de esta Ley y sus Reglamentos;
+
+II.- Planificar y ordenar los proyectos y programas de los servicios de transporte público, de pasaje o carga, en las poblaciones, caminos y carreteras de jurisdicción estatal, tomando en cuenta la participación de los Municipios cuando éstos lo soliciten, sometiéndolos a la aprobación del titular del Ejecutivo Estatal;
+
+III.- Dictar las medidas necesarias para la inspección y vigilancia de las empresas que exploten servicios de transporte, de pasaje o de carga para comprobar el cumplimiento de las disposiciones de esta Ley y asegurar las garantías de los usuarios;
+
+IV.- Instruir los procedimientos administrativos para otorgar, supervisar, suspender o revocar las concesiones y permisos que señala el Capítulo IV de esta Ley y el respectivo Reglamento, hasta dejarlos en estado de resolución, sometiéndolo a la aprobación del Gobernador del Estado para su resolución;
+
+V.- Aplicar las sanciones a que se refiere esta Ley y sus Reglamentos;
+
+VI.- Aprobar las tarifas del transporte público de pasaje o carga;
+
+VII.- Ejercer el mando de la Dirección de Tránsito del Estado; y
+
+VIII.- Las demás que le confieran otros ordenamientos legales y reglamentarios.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1999)</small>
 
 ###### Artículo 8o.
 
-Son atribuciones y obligaciones del Director General de Tránsito:
+Son atribuciones y obligaciones del Director de Tránsito:
 
-I.- Cumplir y hacer cumplir las disposiciones de esta Ley y sus reglamentos, así como las que en materia de tránsito emanen del Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+I.- Cumplir y hacer cumplir las disposiciones de esta Ley y sus Reglamentos, así como las que en materia de tránsito emanen del Titular del Poder Ejecutivo del Estado o del Secretario de Transporte;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
 II.- Ejercer el mando, el control y la vigilancia de los Delegados Foráneos de Tránsito, para ajustar su conducta a los mandatos de esta Ley, de sus reglamentos y de las disposiciones que con fundamento en éstos se dicten.
 
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
 III.- Planificar y ordenar el Tránsito Estatal, proponiendo al Ejecutivo del Estado los proyectos respectivos para su aprobación, cuando ésta sea necesaria.
 
-IV.- Seguir el procedimiento administrativo, hasta dejarlo en estado de resolución, de todas aquellas cuestiones que conforme a esta Ley y reglamentos demanden la aprobación o decisión del Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
-V.- Dictar las medidas necesarias para el buen funcionamiento de la Dirección General de Tránsito y de sus servicios auxiliares, proponiendo al Ejecutivo del Estado las medidas que ameriten la decisión de éste.
+IV.- Instruir los procedimientos administrativos de su competencia de conformidad con las disposiciones legales y reglamentarias aplicables;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+V.- Dictar las medidas necesarias para el buen funcionamiento de la Dirección de Tránsito y de sus servicios auxiliares, proponiendo al Ejecutivo del Estado o al Secretario de Transporte las medidas que ameriten su decisión;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
 VI.- Expedir, conforme a las disposiciones de esta Ley y sus reglamentos, licencias para el manejo y tránsito de vehículos.
 
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+
 VII.- Ordenar la inspección sobre el funcionamiento y estado que guarden los vehículos, mediante revistas periódicas.
 
-VIII.- Imponer las sanciones a que se refieren las fracciones I y II del Artículo 30 de esta Ley.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+VIII.- Imponer las sanciones a que se refieren las Fracciones I, II, III y V del artículo 30 de esta Ley.
 
-###### Artículo 9o.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
 
-Son atribuciones y obligaciones del SubDirector General de Tránsito:
+###### Artículo 9°.
 
-I.- Suplir al Director General de Tránsito en todas sus atribuciones y obligaciones, en las faltas temporales de éste.
+Son atribuciones y obligaciones del Subdirector de Tránsito:
 
-II.- Cumplir las comisiones que le encomienden el Gobernador del Estado y el Director General de Tránsito, en el desempeño de su cargo.
+I.- Suplir al Director de Tránsito en todas sus atribuciones y obligaciones, en las faltas temporales de éste;
 
-III.- Ejercer el control administrativo de las oficinas de la Dirección General de Tránsito, cuidar del buen funcionamiento de ésta, vigilar la conducta del personal administrativo de las mismas y dar cuenta de sus observaciones al Director General de Tránsito, para asegurar al máximo un eficiente servicio al público.
+II.- Cumplir las comisiones que le encomienden el Gobernador del Estado, el Secretario de Transporte y el Director de Tránsito en el desempeño de su cargo;
 
-IV.- Ejercer el mando, el control y la vigilancia de los Agentes de Policía y de los cuerpos auxiliares de la Dirección General de Tránsito, para ajustar su conducta a los mandatos de esta Ley, de sus reglamentos y de las disposiciones que con fundamento en ésta se dicten.
+III.- Ejercer el control administrativo de las oficinas de la Dirección de Tránsito, cuidar del buen funcionamiento de ésta, vigilar la conducta del personal administrativo de las mismas y dar cuenta de sus observaciones al Director de Tránsito, para asegurar al máximo un eficiente servicio al público;
+
+IV.- Ejercer el mando, el control y la vigilancia de los Agentes de Policía y de los Cuerpos Auxiliares de la Dirección de Tránsito, para ajustar su conducta a los mandatos de esta Ley, de sus reglamentos y de las disposiciones que con fundamento en ésta se dicten.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
@@ -183,17 +247,31 @@ Son atribuciones y obligaciones de los Delegados Foráneos de Tránsito:
 
 I.- Cumplir y hacer cumplir las disposiciones de esta Ley y sus reglamentos, así como las que dicten en materia de tránsito el Gobernador del Estado y el Director General de Tránsito.
 
-II.- Ejercer en sus jurisdicciones, el mando, el control y la vigilancia inmediatos de los Agentes de Policía de Tránsito y demás personal adscrito a su jurisdicción, para ajustar su conducta a los mandatos de esta Ley y sus reglamentos, dando cuenta de sus observaciones al Director General de Tránsito para los efectos a que hubiere lugar.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
-III.- Formular proyectos de planificación del tránsito en sus jurisdicciones y dar cuenta con ellos al Director General de Tránsito.
+I.- Cumplir y hacer cumplir las disposiciones de esta Ley y sus reglamentos, así como las que dicten en materia de tránsito el Gobernador del Estado, el Secretario de Transporte y el Director de Tránsito;
 
-IV.- Seguir el procedimiento administrativo hasta dejarlo en estado de resolución, de todas aquellas cuestiones que demanden la aprobación o decisión del Ejecutivo del Estado o del Director de Tránsito. Invariablemente dará cuenta al Director General de Tránsito, del inicio de esos procedimientos.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+II.- Ejercer en sus jurisdicciones, el mando, el control y vigilancia inmediatos de los Agentes de Policía de Tránsito y demás personal adscrito a su jurisdicción, para ajustar su conducta a los mandatos de esta Ley y sus reglamentos, dando cuenta de sus observaciones al Director de Tránsito para los efectos a que hubiere lugar;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+III.- Formular proyectos de planificación del tránsito en sus jurisdicciones y dar cuenta con ellos al Director de Tránsito;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+IV.- Seguir el procedimiento administrativo hasta dejarlo en estado de resolución, de todas aquellas cuestiones que demanden la aprobación o decisión del Ejecutivo del Estado, del Secretario de Transporte o del Director de Tránsito. Invariablemente dará cuenta al Director de Tránsito, del inicio de esos procedimientos;
 
 V.- Levantar infracciones e imponer las sanciones a que se refieren las fracciones I y II del artículo 30 de esta Ley.
 
-VI.- Dar cuenta al Director General de Tránsito, proporcionándole los elementos de prueba que hubiere obtenido, de todos aquellos casos que ameriten las sanciones a que se refieren las fracciones III y IV del artículo 30 de esta Ley.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
-VII.- Rendir mensualmente informe detallado de sus labores y de la situación que guarden las oficinas a su cargo, al Director General de Tránsito.
+VI.- Dar cuenta al Director de Tránsito, proporcionándole los elementos de prueba que hubiere obtenido, de todos aquellos casos que ameriten las sanciones a que se refieren las Fracciones III y IV del artículo 30 de esta Ley; y
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+VII.- Rendir mensualmente informe detallado de sus labores y de la situación que guarde las oficinas a su cargo, al Director de Tránsito.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
@@ -207,9 +285,11 @@ II.- Levantar infracciones conforme al procedimiento que fijen los reglamentos d
 
 III.- Procurar inmediato auxilio a las personas que resulten lesionadas con motivo de accidentes de tránsito.
 
-IV.- Detener, sin perjuicio de la disposición a que se refiere la fracción anterior, a las persones que infraganti aparezcan presuntamente responsables de los delitos causados con motivo del manejo y tránsito de vehículos, así como a los vehículos instrumentos de los mismos, poniéndolos inmediatamente a disposición de la Dirección General de Tránsito o sus Delegaciones, para su consignación ante las Autoridades competentes.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
-Tratándose únicamente de daño en propiedad ajena y de las lesiones a que se refieren los artículos 273 y 274 del Código Penal del Estado, no habrá lugar a consignación si los interesados se arreglan personalmente en el lugar de los hechos o ante la Dirección General de Tránsito, o sus Delegaciones; levantándose el acta de convenio siempre y cuando los interesados lo soliciten.
+IV.- Poner a disposición de las autoridades competentes, sin perjuicio de la disposición a que se refiere la fracción anterior a las personas que sean detenidas en flagrancia y aparezcan presuntamente responsables de los delitos causados con motivo del manejo y tránsito de vehículos, así como a los vehículos instrumentos de los mismos, informando a sus superiores jerárquicos.
+
+Tratándose únicamente de daños en propiedad ajena y de las lesiones a que se refiere el artículo 273 del Código Penal del Estado, no habrá lugar a consignación si los interesados convienen personalmente en el lugar de los hechos o ante la Dirección de Tránsito o sus Delegaciones; levantándose el acta de convenio siempre y cuando los interesados lo soliciten.
 
 V.- Auxiliar e instruir a las personas y a los conductores de vehículos, para facilitarles la circulación y el tránsito respectivo con el menor peligro posible.
 
@@ -227,13 +307,17 @@ III.- Dictaminar sobre las causas probables de los accidentes de tránsito y sob
 
 IV.- Levantar infracciones.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1999)</small>
 
 ###### Artículo 13.
 
-Corresponde a los integrantes del Cuerpo Médico de la Dirección General de Tránsito:
+Corresponde a los integrantes del Cuerpo Médico de la Dirección de Tránsito:
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
 I.- Dictaminar sobre el estado físico y mental de los aspirantes a obtener licencia para manejar vehículos, según la clase de éstos.
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
 II.- Realizar el examen de las personas cuando con motivo de infracciones o accidentes de tránsito, sea necesario dictaminar sobra la posible ingestión de substancias embriagantes o drogas prohibidas y sobre el grado o período de intoxicación.
 
@@ -297,19 +381,17 @@ TRANSITO, CONCESIONES Y PERMISOS.
 
 La circulación de las personas, el manejo y tránsito de vehículos y semovientes y los servicios de transporte de pasajeros y de carga en las vías públicas del Estado de Oaxaca, se sujetarán a las condiciones y requisitos que señalen esta Ley y sus reglamentos.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE DICIEMBRE DE 1976)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
 
-###### ARTICULO 18.
+###### Artículo 18.
 
-El establecimiento y la explotación de los servicios públicos de transporte de pasajeros y de carga, así como sus servicios conexos, solamente podrán efectuarse mediante concesión o permiso que otorgue el Ejecutivo del Estado.
+El establecimiento y la explotación de los servicios públicos de transporte de pasajeros o de carga así como sus servicios conexos, solamente podrán efectuarse mediante concesión o permiso que otorgue el Gobernador del Estado, previo procedimiento administrativo seguido ante la Secretaría de Transporte, quien determinará las necesidades de tales servicios con base en los estudios de factibilidad que elabore al efecto.
 
-Las necesidades de tales servicios se determinarán por la Dirección de Economía del Gobierno del Estado con base en el estudio socio económico que elabore al efecto.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
 
 ###### Artículo 19.
 
-Quienes soliciten concesión o permiso para establecer y explotar servicios públicos de transporte de pasajeros o de carga, deberán comprobar ante el Ejecutivo del Estado, que están capacitados económicamente para la prestación del servicio según la naturaleza y necesidades del mismo.
+Quienes soliciten concesión o permiso para establecer y explotar servicios públicos de transporte de pasajeros o de carga, deberán comprobar ante la Secretaría del Transporte que están capacitados y reúnen los requisitos para la prestación del servicio según la naturaleza y necesidades del mismo.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
@@ -367,7 +449,9 @@ b).- La prohibición de que se expidan concesiones a quienes no las exploten per
 
 c).- Respecto de las concesiones para explotación de automóviles de alquiler, la disposición de que éstas se otorguen únicamente a personas físicas, con la condición de que se dediquen personalmente a la explotación de la concesión.
 
-d).- La obligación de (sic) concesionario, de comunicar por escrito a la Dirección General de Seguridad Pública la interrupción total o parcial del servicio, siempre y cuando ésta exceda de 10 días, explicando las causas, para su investigación y efectos de lo previsto en esta Ley y su Reglamento.
+> <small>(REFORMADO, P.O.9 DE JULIO DE 1999)</small>
+
+d).- La obligación del concesionario de comunicar por escrito a la Secretaría de Transporte la interrupción total o parcial del servicio, siempre y cuando ésta exceda de 10 días, explicando las causas para su investigación y efecto de lo previsto en esta Ley y su Reglamento.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
@@ -401,9 +485,9 @@ III.- Cuando, por hechos u omisiones de los concesionarios o permisionarios, que
 
 IV.- Por incapacidad económica o quiebra supervenientes de los concesionarios o permisionarios, que impidan la prestación del servicio conforme a las condiciones fijadas en las concesiones y permisos.
 
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
-V.- Cuando se demuestre que la concesión fue otorgada, sin satisfacer los requisitos a que se refieren los artículos 93 y 94 del Reglamento de esta Ley y en contravención al procedimiento que la misma establece.
+V.- Cuando en el trámite de algún recurso se demuestre que la concesión fue otorgada sin satisfacer los requisitos que establecen las disposiciones legales y reglamentarias o en contravención al procedimiento que esta Ley establece. De comprobarse este supuesto el acto será nulo de pleno derecho.
 
 (ADICIONADO, P.O. 17 DE ENERO DE 1998) ¿??
 
@@ -427,9 +511,9 @@ Cuando opere la caducidad o revocación de las concesiones o permisos, los conce
 
 Los derechos al establecimiento y explotación de los servicios públicos de transporte de pasajeros o carga, que amparen las concesiones y permisos serán inembargables
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1976)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
 
-Artículo 29 bis.- Cuando haya necesidad de aumentar los servicios de transporte de pasajeros y carga, la Dirección General de Seguridad Pública, por conducto de de (sic) la Jefatura de Tránsito, convocará a quienes se crean con derechos a tales concesiones por medio del Periódico Oficial y aviso que se coloquen en lugares públicos de la localidad respectiva.
+Artículo 29 BIS.- Cuando haya necesidad de aumentar los servicios de transporte de pasaje o carga, la Secretaría de Transporte, convocará para obtener tales concesiones por medio del Periódico Oficial, por el Periódico de mayor circulación local o estatal y avisos que se coloquen en lugares públicos de la localidad respectiva.
 
 > <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
@@ -443,7 +527,9 @@ SANCIONES.
 
 Las violaciones a las disposiciones de esta Ley y sus reglamentos, se sancionarán con:
 
-I.- Multa de $25.00 a $1,000.00.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+I.- Multa de 1 a 100 veces el monto del salario mínimo diario vigente en la zona correspondiente en el Estado.
 
 II.- Suspención de licencias para el manejo y tránsito de vehículos.
 
@@ -471,17 +557,17 @@ RECURSOS.
 
 Se establece el recurso de revisión ante el Ejecutivo del Estado, para revocar, modificar o confirmar, en su caso, con las pruebas que el recurrente aporte, los actos motivados por la aplicación de esta Ley y sus reglamentos.
 
-> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
 
 ###### Artículo 33.
 
-El recurso se interpondrá por conducto del Director General de Tránsito o de los Delegados de Tránsito en el Estado, dentro de los cinco días hábiles siguientes al día en que el recurrente haya sido notificado del acto.
+El recurso se interpondrá por conducto de la Secretaría de Transporte o de los Delegados de Tránsito en el Estado, dentro de los cinco días hábiles siguientes al día en que el recurrente haya sido notificado del acto.
 
 Con el escrito de interposición del recurso se acompañarán las pruebas de que se disponga y se ofrecerán las que deban desahogarse.
 
-La autoridad de Tránsito receptora, dentro de los tres días hábiles siguientes a la interposición del recurso, concederá al recurrente un plazo de diez días hábiles para el desahogo de pruebas, señalando, en su caso, día y hora para recibirlas.
+La autoridad receptora, dentro de los tres días hábiles siguientes a la interposición del recurso, concederá al recurrente un plazo de diez días hábiles para el desahogo de pruebas, señalando, en su caso, día y hora para recibirlas.
 
-Dentro de los cinco días hábiles siguientes a la conclusión del plazo probatorio, la autoridad receptora engrosará el expediente con las pruebas, razones y fundamentos que tuvo en consideración para dictar el acto recurrido, y lo remitirá al Ejecutivo del Estado. Los Delegados de Tránsito harán la remisión por conducto del Director General de Tránsito.
+Dentro de los cinco días hábiles siguientes a la conclusión del plazo probatorio, la autoridad receptora engrosará el expediente con las pruebas, razones y fundamentos que tuvo en consideración para dictar el acto recurrido y lo remitirá al Ejecutivo del Estado. Los Delegados de Tránsito harán la remisión por conducto del Secretario de Transporte.
 
 El Ejecutivo del Estado, dentro de los quince días hábiles siguientes a la recepción del expediente, dictará resolución definitiva.
 
@@ -544,3 +630,11 @@ Este decreto entrará en vigor a partir de su publicación en el Periódico Ofic
 P.O. 17 DE ENERO DE 1998.
 
 UNICO.- Este Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 1999.
+
+PRIMERO.- El Ejecutivo Estatal tendrá un plazo de seis meses, contados a partir de la vigencia de este Decreto, para elaborar y publicar los Reglamentos respectivos acordes con estas reformas legales.
+
+SEGUNDO.- Continuarán aplicándose las disposiciones legales y reglamentarias vigentes hasta antes de la entrada en vigor del presente Decreto, en todos aquellos procedimientos administrativos y jurídicos que hayan iniciado antes de la publicación del mismo, hasta su resolución.
+
+TERCERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
