@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "2000-07-14"
+last_updated: "2000-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2000.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -189,9 +189,13 @@ El Juez o Tribunal, que se estime incompetente para conocer de una causa, una ve
 
 Si la autoridad a quien se remita el proceso, a su vez se estimare incompetente, lo elevará al superior que debe de dirimir la competencia para que, con arreglo al Artículo 413 se dicte la resolución que corresponda.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 17.
 
-No obstante lo dispuesto en los Artículos anteriores, cuando por convenir al interés público el Procurador General de Justicia solicite que de una causa radicada en un Juzgado conozca otro de diverso Distrito Judicial, el Supremo Tribunal en Pleno, podrá acordarlo así, sin substanciación alguna, e indicando, en su caso, el Distrito Judicial en que se ha de proseguir el proceso de que se trate.
+No obstante lo dispuesto en los artículos anteriores, también será competente para conocer de un asunto, un juez distinto al del lugar de la comisión del delito, si por razones de insuficiencia de seguridad en las prisiones, atendiendo a las características del hecho imputado, a las circunstancias personales del indiciado que no garanticen el desarrollo adecuado del proceso, el Ministerio Público considera necesario llevar el ejercicio de la acción penal ante otro juez.
+
+Lo anterior es igualmente aplicable para los casos en que, por las mismas razones, la autoridad judicial de oficio o a petición de parte, estime necesario trasladar a un procesado a algún centro de readaptación social distinto al del lugar de la comisión del delito, en los que será competente el tribunal del lugar en que se ubique dicho centro. Lo anterior no requerirá de substanciación alguna, debiendo indicar la autoridad judicial el distrito en que se ha de proseguir el proceso de que se trate.
 
 ### CAPITULO II. FORMALIDADES
 
@@ -3780,3 +3784,9 @@ P.O. 14 DE JULIO DE 2000.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 4 DE AGOSTO DE 2000.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
