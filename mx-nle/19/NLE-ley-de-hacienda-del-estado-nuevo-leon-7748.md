@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1982-12-31"
+last_updated: "1983-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -105,223 +105,93 @@ También se admitirán como medio de pago, los cheques de cuentas personales de 
 
 ###### ARTICULO 10.
 
-Es objeto de este impuesto:
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
-I.- La propiedad de los predios urbanos;
+###### ARTICULO 11.
 
-II.- La propiedad de predios sub-urbanos;
-
-III.- La propiedad de predios rústicos;
-
-IV.- Las plantas de beneficio y establecimientos metalúrgicos, en en (sic) los términos del Artículo 37 de la Ley Federal de Impuestos y Fomento a la Minería, por las fincas y el valor de la maquinaria determinado mediante avalúo pericial;
-
-V.- La posesión de predios urbanos, sub-urbanos o rústicos, en los casos siguientes:
-
-a) Cuando no exista propietario;
-
-b) Cuando se derive de cualquier acto jurídico que permita la ocupación del inmueble;
-
-c) Cuando por causas ajenas a la voluntad de los propietarios, éstos no se encuentren en posesión de los inmuebles, y;
-
-d) Cuando siendo propiedad del Estado, de sus Municipios o de la Federación, se den en explotación por cualquier título a terceros.
-
-El objeto del impuesto predial incluye la propiedad o posesión de las construcciones permanentes, edificadas sobre los predios.
-
-###### ARTICULO 11
-
-Son sujetos de este impuesto:
-
-I.- Los propietarios de predios urbanos, sub-urbanos o rústicos;
-
-II.- Los poseedores de predios urbanos, sub-urbanos o rústicos, en el caso a que se refiere la fracción V del Artículo 10;
-
-III.- Lo (sic) fideicomitentes mientras sean poseedores del predio objeto del fideicomiso, o los fideicomisarios que estén en posesión del predio, en cumplimiento del fideicomiso;
-
-IV- Con responsabilidad objetiva los adquirientes por cualquier título, de predios urbanos, sub-urbanos o rústicos;
-
-V.- Con responsabilidad solidaria;
-
-a) Los propietarios de predios a que se refiere el inciso b) de la fracción V del Artículo 10, y;
-
-b) La fiduciara en el caso previsto por la fracción III de este Artículo.
-
-VI.- Los usufructuarios, usuarios y habituarios.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 12.
 
-Es base de este impuesto:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
-
-a) En predios con valor real catastral hasta de $ 1'925,000.00, la base será el 50%.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
-
-b) En predios con valor real catastral superior a $ 1'925,000.00 la base será el 75%.
-
-c) La que resulte mayor de entre el valor fiscal con que se encuentren empadronados y el valor de la operación de traslado de dominio, en aquellos casos en que los predios no tengan asignado valor catastral mediante el procedimiento establecido en la Ley del Catastro y su reglamento.
-
-d) (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
-
-e) En predios baldíos susceptibles de fraccionamiento, en los términos de la Ley de Urbanismo y Planificación, ubicados en las zonas urbanas del Estado, la base será el 100%.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
-
-La base del impuesto se ajustará a miles de pesos, aumentando o disminuyendo a ceros las tres últimas cifras, según éstas excedan o no de 500.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 13.
 
-El Impuesto Predial se determinará, liquidará y pagará, aplicando a la base del impuesto una tarifa del 6 (seis) al millar anual.
-
-En los términos de la Ley Federal de Impuestos y Fomento a la Minería, las plantas de beneficio y establecimientos metalúrgicos de cualquier clase, pagarán el Impuesto Predial aplicando a la base de dicho impuesto una tarifa del 5 (cinco) al millar anual.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 14.
 
-Se conceden las siguientes exenciones en el pago de este impuesto:
-
-I.- Total por tiempo indefinido.
-
-a) Predios destinados a planteles escolares no oficiales donde se imparta enseñanza primaria, secundaria o universitaria, autorizada por el Gobierno Federal o Estatal y sometida a su vigilancia;
-
-b) Los predios que sean propiedad de instituciones públicas, destinadas a planteles escolares;
-
-c) Los predios que perteneciendo a particulares, estén destinado (sic) a un servicio público gratuito autorizado por el Estado o por el Gobierno Municipal, siempre que por los mismos sus propietarios no perciban renta;
-
-d) Los predios ejidales;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
-
-e) Los predios cuyo valor real determinado por la Oficina Técnica Catastral no excedan de $1´500,000.00 y pertenezcan a:
-
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1979)</small>
-
-1.- Huérfanos menores de 18 años;
-
-2.- Mujeres cualquiera que sea su edad con excepción de casadas;
-
-3.- Veteranos de la Revolución, en los términos del Decreto No. 71 expedido por el H. Congreso, con fecha 19 de diciembre de 1950;
-
-4.- Personas incapacitadas físicamente para trabajar.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
-
-5.- Jubilados, y pensionados con ingresos propios, cuyo monto diario no exceda de dos veces y media el salario mínimo general que rija en la zona económica en que se encuentre ubicado el inmueble.
-
-Gozarán de esta exención únicamente las personas citadas que no posean otro bien raíz en el Estado y que habiten el inmueble en cuestión.
-
-f) Los lotes que adquieran los particulares en los cementerios;
-
-g) Los predios pertenecientes exclusivamente a Instituciones de Beneficencia Privada;
-
-h) Los predios propiedad del Gobierno Federal, Municipal o de la Universidad Autónoma de Nuevo León;
-
-i) Los predios afectos al patrimonio de familia, en los términos del Código Civil del Estado;
-
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1979)</small>
-
-j) Los predios pertenecientes a los trabajadores al servicio del Estado, siempre que el inmueble objeto del impuesto vaya a destinarse o se destine a vivienda y no posean otro bien raíz en el Estado;
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
-
-k) Los entes u organismos creados por el Gobierno del Estado de Nuevo León para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como las personas que lleven a cabo programas concretos con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", respecto de los predios directamente destinados a esos programas.
-
-II.- Total por tiempo determinado:
-
-a) Viviendas consideradas de interés social, en los términos de la Ley de Fomento a la vivienda Popular expedida por el H. Congreso del Estado el 30 de mayo de 1968, y sus reformas en vigor.
-
-b) Predios adquiridos por las personas que resulten directamente beneficiadas con los programas que desarrollan los organismos señalados en el inciso k) de la fracción anterior.
-
-Esta exención se otorgará por un plazo de diez años, siempre que los propietarios construyan su vivienda, en un plazo de dos años, contados a partir de la fecha de adquisición.
-
-c) Se otorgará exención por un plazo de diez años, o en todo caso por el mismo término del crédito hipotecario respectivo, a los predios pertenecientes a los trabajadores de la federación, por una sola vez, siempre que en ellos habiten y no posean otro bien raíz en el Estado
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 15.
 
-Las exenciones se solicitarán por escrito a la Tesorería General del Estado, debiéndose acompañar las pruebas que demuestren su procedencia.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 16.
 
-La vigencia de las exenciones en el pago del impuesto predial, se iniciará a partir del bimestre siguiente a la fecha en que se hubiere emitido la resolución que las conceda. Los beneficiarios de las exenciones deberán manifestar a la Tesorería General, cualquier modificación de las circunstancias que hubieren motivado dichas exenciones.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 #### SECCION SEGUNDA. De los Sujetos del Impuesto
 
 ###### ARTICULO 17.
 
-La valuación catastral de los predios será practicada en la forma y términos que señalan esta Ley y la Ley del Catastro.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
-ATRTICULO (SIC) 18.- Sobre el valor catastral de los predios que se fije en los términos de la Ley respectiva, las Autoridades Fiscales procederán a la determinación del impuesto.
+###### ARTICULO 18.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 19.
 
-Cuando el predio se encuentra edificado con diversos departamentos sujetos al régimen de propiedad en condominio, la Tesorería fijará el impuesto de acuerdo con los valores catastrales, el cual entrará en vigor a partir del bimestre siguiente a la fecha en que se haya autorizado previamente la escritura de constitución del condominio. Si éste se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron. En estos casos, la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del bimestre siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado, girándose a cada cual el documento para el pago correspondiente.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 20.
 
-La tasa del impuesto, cuando se trate del primer avalúo del predio, se aplicará a partir del bimestre siguiente a la fecha en que ocurrió el hecho o circunstancia que dio lugar a la práctica del avalúo conforme a las disposiciones de este Capítulo y de la Ley del Catastro.
-
-En los casos de revalúos a que se refiere la Ley de Catastro, la cuota se aplicará a partir del bimestre siguiente a la fecha en que ocurra el hecho o circunstancia que los motiven.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 21.
 
-La división de un predio deberá ser manifestada a la Tesorería General por los Notarios, Jueces y demás Autoridades; por el propietario o por el adquiriente o adquirientes, en su caso, dentro del plazo que establece el Artículo 30 de esta Ley.
-
-Mientras se practique la valuación correspondiente a cada porción del predio dividido, se tendrá provisionalmente como base gravable para cada una de esas porciones, la parte proporcional del valor con el que venía tributando.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 22.
 
-La tasa del impuesto es anual y su pago deberá hacerse por bimestres adelantados, que se cubrirán dentro de los primeros veinticinco días de los meses de enero, marzo, mayo julio, septiembre y noviembre.
-
-El impuesto podrá pagarse por anualidad anticipada a más tardar el último día hábil del mes de enero, en cuyo caso se gozará de una deducción del 10% -diez por ciento- de dicha anualidad.
-
-El pago anticipado del Impuesto Predial no impide el cobro de diferencias que deba hacer la Secretaría de Finanzas y Tesorería General del Estado, por cambio de las bases gravables o modificación de la tasa del impuesto.
-
-Cuando se hayan establecido bases provisionales para determinar el monto del impuesto, al aplicar la base definitiva se cobrarán o compensarán las diferencias que resulten.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 23.
 
-El pago de este impuesto deberá efectuarse en la Oficina Recaudadora correspondiente, o donde en su caso lo disponga la Tesorería General.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 24.
 
-La Tesorería General tendrá acción real para el cobro del Impuesto Predial y de las prestaciones accesorias a éste.
-
-En consecuencia, el procedimiento administrativo de ejecución que establece el Código Fiscal del Estado afectará a los predios directamente, quienquiera que sea el propietario o poseedor. No quedan comprendidas en esta disposición las multas que se impongan cuando se incurra en infracciones al presente Capítulo.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 25.
 
-Los Notarios Públicos, para autorizar en forma definitiva escrituras en que se hagan constar contratos, convenios o resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el Estado, deberán exigir constancia de no adeudo, para cuyo efecto se deberá presentar el documento de pago correspondiente.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 26.
 
-En los casos de predios no registrados en los padrones de la Tesorería General, por causa imputable al sujeto del impuesto, se hará el cobro por diez años anteriores a la fecha en que la autoridad fiscal tenga conocimiento de la existencia del predio.
-
-Tratándose de construcciones no manifestadas, si no se pudiera fijar con precisión la fecha desde la cual se omitió el aviso correspondiente, se hará el cobro del impuesto por los diez años anteriores a la fecha en que se tenga conocimiento de la ocultación, salvo que el interesado pruebe que la omisión data de fecha posterior.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 27.
 
-Los documentos para pago que expida la Tesorería General, tratándose del Impuesto Predial, sólo tendrán efectos en relación con este mismo impuesto.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 28.
 
-Las manifestaciones y avisos que los particulares y Notarios Públicos deban presentar para efectos de este impuesto, se harán en las formas oficiales y se presentarán expresando todos los datos y acompañando los documentos o planos que se requieran, ante la Oficina Recaudadora correspondiente.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 29.
 
-Cuando en las manifestaciones o avisos exigidos, no se expresen los datos o no se acompañen los documentos o planos requeridos, las Autoridades Fiscales otorgarán un plazo de quince días para que se corrija la omisión, contado a partir de la fecha en que los interesados reciban el requerimiento.
-
-Si transcurre dicho plazo y no se expresan los datos o no se presentan los documentos o planos a que se refiere el párrafo anterior, dichas autoridades no tomarán en cuenta estas manifestaciones o avisos, sin perjuicio de imponer al infractor las sanciones que procedan.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 30.
 
-Las manifestaciones a que alude este Capítulo y la Ley del Catastro, respecto de contratos de promesa de venta, de venta con reserva de dominio, así como de venta y cualesquiera otros contratos, resoluciones administrativas o judiciales, deberán presentarse dentro del plazo de 15 días de la fecha del contrato, acto o resolución.
-
-También se consideran comprendidas en este Artículo, las manifestaciones de división o fusión de predios en que no se opere traslado de dominio alguno, porque las porciones del predio dividido no salgan del dominio del propietario o porque los predios fusionados sean de un solo propietario. Los Notarios Públicos que autoricen dichas escrituras, tendrán obligación de manifestar también esos contratos, resoluciones o actos a la Tesorería General por conducto de la Oficina Recaudadora respectiva, dentro del mismo término que establece el párrafo anterior.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 31.
 
-Los sujetos del impuesto están obligados a manifestar a la Tesorería General, por conducto de la Oficina Recaudadora correspondiente, los cambios de domicilio, dentro de los quince días siguientes a aquél en que se efectúen. Si no lo hicieren, se tendrá como domicilio para todos los efectos legales el que hubieren señalado anteriormente o, en su defecto, el predio objeto del impuesto.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ### CAPITULO SEGUNDO. Del Impuesto sobre Ingresos Mercantiles
 
@@ -401,8 +271,6 @@ Si los causantes de que se trata repercuten el impuesto o no cumplen los requisi
 
 #### SECCION CUARTA. De la Tasa del Impuesto
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
-
 ###### ARTICULO 41.
 
 Es sujeto de este impuesto la persona física o moral que obtiene el ingreso con motivo de operaciones gravadas por esta Ley, realizadas o que surtan sus efectos en el territorio del Estado de Nuevo León.
@@ -442,8 +310,6 @@ Se considera que los vendedores ambulantes no eximidos del pago del impuesto, ti
 El impuesto se causará a razón del 12 al millar sobre el monto total de los ingresos gravables percibidos por los causantes de los Municipios de Monterrey, Allende, Apodaca, Cadereyta, Garza García, General Escobedo, Guadalupe, Linares, Montemorelos, Sabinas Hidalgo, San Nicolás de los Garza, Santa Catarina y Santiago. En los demás Municipios del Estado, la tasa será del 9 al millar sobre el monto total de los ingresos gravables.
 
 #### SECCION SEXTA. Del Pago del Impuesto
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 47.
 
@@ -1459,127 +1325,75 @@ En caso de reincidencia en el incumplimiento de la obligación mencionada en est
 
 ###### ARTICULO 187.
 
-Se establece por esta Ley el Impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad, que gravitará con carácter real sobre los predios que sean beneficiados por una obra de urbanización, por estimarse que su desarollo (sic) y conclusión acrecentará necesariamente el valor de dichos predios, sin que esto se deba al esfuerzo económico de sus propietarios o poseedores.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 188.
 
-Son sujetos del impuesto con responsabilidad directa los propietarios de los predios, y los poseedores de éstos cuando no exista o no esté definido el propietario. Responsables solidarios, los promitentes compradores y los adquirientes, en las operaciones con reserva de dominio. Responsable solidaria la Institución Fiduciaria si el predio está afectado en fideicomiso, cuya institución cubrirá el impuesto con cargo a quien quede como propietario del predio beneficiado, una vez ejecutado el fideicomiso.
-
-Cuando sean personas distintas el propietario de la tierra y el de las construcciones, el impuesto recaerá sobre el primero.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 189.
 
-El monto total del impuesto, en cada caso de urbanización, no podrá exceder del costo de la obra de que se trate.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 190.
 
-El costo por derramar de una obra de urbanización, estará constituído por lo siguiente:
-
-I.- Importe del Anteproyecto y del Proyecto;
-
-II.- Importe de las indemnizaciones;
-
-III.- Importe de la obra de urbanización;
-
-IV.- Pago de intereses y gastos bancarios si se requiere financiamiento; y
-
-V.- Gastos generales para la realización del proyecto.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 191.
 
-El costo a que se refiere el Artículo anterior disminuirá para los efectos de la derrama, por las aportaciones que autoridades o particulares hagan en beneficio de la obra.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 192.
 
-Cuando un predio afectado por expropiación lo sea también por este impuesto, el monto de este último se abonará al costo de la primera en la medida de su respectiva compensación
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 193.
 
-El impuesto deberá ser pagado en la época que señale el Decreto Legislativo que lo declare aplicable a un caso concreto de urbanización.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 194.
 
-Para calcular el impuesto se requiere determinar primeramente su área de imposición atendiendo los siguientes factores:
-
-I.- Las características, magnitud e importancia de la obra.
-
-II.- La estimación de los beneficios que se derivan de la obra, y de los que se traduzcan en forma de aumento de valor de los terrenos de la zona o zonas que abarque, considerando las condiciones previas y posteriores a la ejecución de la obra, así como el alcance o extensión de los beneficios o aumentos de valor para los predios colindantes o próximos a dicha obra.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 195.
 
-Determinada dicha área de imposición se calculará el impuesto correspondiente a cada predio, tomándose para ello en cuenta lo siguiente:
-
-a).- Costo de la obra por derramar.
-
-b).- El plano de conjunto del área de imposición, señalándose para cada predio su ubicación, su área, la distancia de su centro de gravedad al eje de la mejora, y sus características propias como son: su importancia actual y futura probable dentro de la zona en que esté ubicado, así como la proporcionalidad que existe actualmente y que vaya a existir probablemente en el futuro, respecto la importancia entre él y los demás predios de su manzana, entre él y las demás manzanas de su zona y entre el y las demás zonas incluidas en el área de imposición, en su caso.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 196.
 
-El impuesto correspondiente a cada predio, dentro de imposición, se calculará aplicando la siguiente fórmula:
-
-(VEASE FORMULA ANEXA)
-
-En esa formula Ix representa el impuesto correspondiente a cada predio; C, el costo por derramar; A1, A2, …… An, las áreas de cada predio; L1, L2 …… Ln, las distancias más cortas de los centros de gravedad de cada predio al eje de la mejora y K1, K2, …….. Kn, el factor de proporcionalidad que caracteriza a cada predio y a que se refiere la última parte del inciso b) del Artículo anterior.
-
-Esta fórmula se ha deducido tomando en consideración que el impuesto correspondiente a cada predio o porción de predio debe ser inversamente proporcional a la distancia de su centro de gravedad al eje de la mejora.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 197.
 
-Cuando la obra consista en la instalación o construcción de redes primarias o redes secundarias de distribución de agua potable, o redes de alcantarillado para los servicios de drenaje sanitario y drenaje pluvial, el área para la cual hayan sido calculadas, y a la que técnica y razonablemente deban servir aunque para ello puedan requerirse obras complementarias posteriores, será la que se tome como área de beneficio o área de influencia.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 198.
 
-La Tesorería General del Estado, formulará la liquidación del Impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad, para cada causante en particular, de acuerdo con el proyecto aprobado por el Decreto Legislativo que declare aplicable el impuesto.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 199.
 
-La notificación de la liquidación deberá practicarse mediante un instructivo que contenga:
-
-a) El nombre del propietario
-
-b) La ubicación del predio
-
-c) La superficie real
-
-d) La superficie afecta al impuesto
-
-e) La distancia al eje de la obra
-
-f) El monto total de la derrama
-
-g) La cuota de imposición por metro cuadrado
-
-h) El importe líquido total del impuesto
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 200.
 
-El causante podrá inconformarse con la liquidación del impuesto, si encontrare en ella errores o inexactitudes que, en su concepto, puedan modificarla La tramitación de este Recurso se sujetará a las normas siguientes:
-
-I.- Se presentará, por escrito, ante el C. Tesorero General del Estado, bien directamente o bien por conducto de la Autoridad Fiscal que haga la notificación. En esta promoción se hará ofrecimiento de pruebas.
-
-II.- El escrito será presentado dentro de los diez días siguientes al en que surta efectos la notificación de la liquidación.
-
-III.- La autoridad encargada de resolver el Recurso proveerá desde luego al desahogo de las pruebas ofrecidas. Al efecto, señalará un término de quince días dentro del cual los interesados deberán exhibir todos los documentos que hubieren ofrecido; asimismo, deberán presentar a sus peritos y testigos. Si por la naturaleza de las pruebas ofrecidas, o porque su desahogo dependa de terceros, la autoridad considera insuficiente el plazo de quince días, lo ampliará hasta por tres meses más.
-
-IV.- Para la resolución del Recurso, la Autoridad Fiscal podrá pedir que se le rindan los informes que estime pertinentes, por parte de quienes hayan intervenido en la formación de la liquidación materia del Recurso.
-
-V.- Rendidas las pruebas y recibidos, en su caso, los informes, se dictará resolución dentro de un plazo que no excederá de quince días.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 201.
 
-En lo no previsto por esta Ley, la aplicación y recaudación del Impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad, se hará con apego a las disposiciones del Código Fiscal vigente en el Estado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 202.
 
-El impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad será exigible desde el día siguiente al en que se publique en el Periódico Oficial del Gobierno del Estado el Decreto mediante el cual se ordene la ejecución de la obra.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 203.
 
-Los Notarios Públicos no autorizarán, ni los Registradores Públicos de la Propiedad inscribirán, actos o contratos que impliquen transmisión de dominio, desmembración del mismo o constitución voluntaria de servidumbres o garantías reales, que tengan relación con inmuebles afectos a este impuesto, si no se les demuestra que se está al corriente en el pago del mismo.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ###### ARTICULO 204.
 
-En lo no previsto en este Capítulo, será de aplicación supletoria la Ley de Planificación y Urbanización del Estado de Nuevo León.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ### CAPITULO DECIMO PRIMERO. Del Impuesto sobre Erogaciones Turísticas
 
@@ -1955,33 +1769,35 @@ S u p e r f i c i e d e C a l e f a c c i ó n
 
 Tasa:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-I.- Hasta 15 M2. $100.00
+I.- Hasta 15 M2 $125.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-II.- Mayor de 15 y hasta 25 M2. $150.00
+II.- Mayor de 15 y hasta 25 M2 $200.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-III.- Mayor de 25 y hasta 50 M2. $200.00
+III.- Mayor de 25 y hasta 50 M2 $250.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-IV.- Mayor de 50 y hasta 75 M2. $250.00
+IV.- Mayor de 50 y hasta 75 M2 $300.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-V.- Mayor de 75 y hasta 100 M2. $500.00
+V.- Mayor de 75 y hasta 100 M2 $625.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-VI.- Mayor de 100 y hasta 200 M2. $1,000.00
+VI.- Mayor de 100 y hasta 200 M2 $1,250.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-VII.- Por cada metro cuadrado, excedente de 200. $2.50
+VII. Por cada metro cuadrado, $3.00
+
+excedente de 200
 
 Para la aplicación de esta Tarifa, se tomará en cuenta el número total de metros cuadrados de superficie de calefacción, generados por todas las calderas que se tengan instaladas en cada establecimiento, sin importar el número de éstas.
 
@@ -1989,7 +1805,9 @@ La inspección inicial deberá llevarse a cabo previamente a su funcionamiento y
 
 Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres anticipados dentro de los primeros quince días de los meses de enero y julio.
 
-Los operarios de las calderas deberán previamente obtener la licencia correspondiente como "calderero", la cual tendrá vigencia anual. Por la expedición de la licencia citada se cobrará un derecho de $100.00 (cien pesos).
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+Los operarios de las calderas deberán previamente obtener la licencia correspondiente como "calderero", la cual tendrá vigencia anual. Por la expedición de la licencia citada se cobrará un derecho de $125.00.
 
 ###### ARTICULO 268.
 
@@ -2001,45 +1819,45 @@ POTENCIA EN CABALLOS DE FUERZA
 
 T a s a
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-I.- Hasta 5 $100.00
+I.- Hasta 5 $125.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-II.- Mayor de 5 y hasta 10 $150.00
+II.- Mayor de 5 y hasta 10 $200.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-III.- Mayor de 10 y hasta 25 $200.00
+III.- Mayor de 10 y hasta 25 $250.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-IV.- Mayor de 25 y hasta 50 $250.00
+IV.- Mayor de 25 y hasta 50 $300.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-V.- Mayor de 50 y hasta 75 $300.00
+V.- Mayor de 50 y hasta 75 $375.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-VI.- Mayor de 75 y hasta 100 $350.00
+VI.- Mayor de 75 y hasta 100 $450.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-VII.- Mayor de 100 y hasta 150 $400.00
+VII.- Mayor de 100 y hasta 150 $500.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-VIII.- Mayor de 150 y hasta 200 $500.00
+VIII.- Mayor de 150 y hasta 200 $625.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-IX.- Mayor de 200 y hasta 250 $800.00
+IX.- Mayor de 200 y hasta 250 $1,000.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-X.- Por cada caballo de fuerza excedente $2.50
+X.- Por cada caballo de fuerza excedente $3.00
 
 Para la aplicación de esta Tarifa se tomará en cuenta la capacidad total en caballos de fuerza, de potencia generada por todos los motores que se tengan instalados en cada establecimiento, sin importar el número de ellos.
 
@@ -2057,15 +1875,15 @@ Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres a
 
 Por los servicios prestados en la Secretaría General de Gobierno, se causarán y pagarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 I.- Por autorización a las sociedades comerciales para la adquisición de terrenos
 
-necesarios para su objeto, en los términos de la Fracción IV del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, $500.00.
+necesarios para su objeto, en los términos de la fracción IV del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, $ 650.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-II.- Por expedición de constancias y certificados que extiendan las Dependencias de la Secretaría General de Gobierno, $150.00.
+II.- Por expedición de constancias y certificados que extiendan las Dependencias de la Secretaría General de Gobierno, $ 200.00.
 
 ###### ARTICULO 270.
 
@@ -2075,27 +1893,27 @@ T A R I F A
 
 Concepto:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-I.- Inscripción de hechos relativos al nacimiento y reconocimiento de hijos y defunción $50.00.
+I.- Inscripción de hechos relativos al nacimiento y reconocimiento de hijos de defunción, $60.00
 
-> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-II.- Inscripción de actas de matrimonio $350.00.
+II.- Inscripción de actas de matrimonio $400.00
 
-> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-III.- Inscripción de actas de divorcio $700.00.
+III.- Inscripción de actas de divorcio $800.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-IV.- Expedición de copias certificadas de las actas del estado civil, cada una $50.00.
+IV.- Expedición de copias certificadas de las actas del estado civil, cada una $60.00
 
 V.- Cuando los servicios del oficial se presten a solicitud del interesado en horas, días inhábiles, o en lugar distinto a la sede de la Oficialía, su inscripción causará cuota de otro tanto más de la suma fijada en las fracciones anteriores.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-VI.- Las anotaciones marginales $100.00.
+VI.- Las anotaciones marginales $125.00
 
 Gozarán de reducción del 50% del monto de los derechos indicados en las fracciones precedentes, las personas de escasos recursos, sin ingresos fijos o regulares, que comprueben tal situación, bajo la responsabilidad del oficial del Registro Civil al que corresponda la prestación del servicio.
 
@@ -2117,35 +1935,33 @@ Concepto: Tasa:
 
 I.- Por inscripción o registro de Título ya se trate de documentos públicos o privados; de resoluciones judiciales, administrativas o de cualquier otra clase, por virtud de las cuales se adquiera, trasmita, grave, modifique o extinga el dominio o la posesión de bienes inmuebles, así como el de bienes muebles que deban registrarse conforme a las leyes, por el valor mayor, legal o convencional que en ellos se especifique:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-a) Hasta de $5,000.00 ...... $50.00
+a) Hasta de $5,000.00 ….. $60.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-b) Mayor de $5,000.00 y hasta $15,000.00 ...... $100.00
+b) Mayor de $5,000.00 y hasta $15,000.00 ….. $125.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-c) Mayor de $15,000.00 y hasta $250,000.00, por cada millar o fracción ...... $7.00
+c) Mayor de $15,000.00 y hasta $250,000.00, por cada millar o fracción ….. $8.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-d) Mayor de $250,000.00 y hasta $1'000,000.00, por los primeros $250,000.00 de
+d) Mayor de $250,000.00 y hasta $1'000,000.00, por los primeros $250,000.00 de acuerdo con el inciso anterior y por cada millar o fracción excedente …... $3.00
 
-acuerdo con el inciso anterior y por cada millar o fracción excedente ...... $2.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+e) Mayor de $1'000,000.00, por cada millar o fracción excedente, hasta $50'000,000.00 ….. $4.00
 
-e) Mayor de $1'000,000.00, por cada millar o fracción excedente, hasta $50'000,000.00 ...... $2.50
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+f) Por el excedente de $50'000,000.00, se pagarán por cada millar o fracción ….. $5.00
 
-f) Por el excedente de $50'000,000.00, se pagarán por cada millar o fracción ...... $3.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
-
-g) Si el valor es indeterminado ...... $150.00
+g) Si el valor es indeterminado ….. $200.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -2157,65 +1973,65 @@ Tratándose de documentos o contratos que consignen prestaciones periódicas, si
 
 Por lo que hace a operaciones sobre bienes muebles o inmuebles, en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, se pagará el 75% de la tasa correspondiente y el 25 % restante, al practicarse la inscripción complementaria.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-II.- Por la expedición de copias o certificados, por cada hoja, sin perjuicio del derecho establecido por esta Ley $25.00
+II.- Por la expedición de copias o certificados, por cada hoja, sin perjuicio del derecho establecido por esta Ley $30.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-III.- Por cancelación de inscripciones se pagará el 10% de la tasa que cause la inscripción, pero en ningún caso la cantidad a pagar será menor de $150.00
+III.- Por cancelación de inscripciones se pagará el 10% de la tasa que cause la inscripción, pero en ningún caso la cantidad a pagar será menor de $200.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-IV.- Por cualquier rectificación de inscripciones $150.00
+IV.- Por cualquier rectificación de inscripciones $200.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-V.- Por ratificación de firmas ante el Registrador, en los casos a que se refiere el Artículo 55 de la Ley Reglamentaria del Registro Público de la Propiedad $150.00
+V.- Por ratificación de firmas ante el Registrador, en los casos a que se refiere el Artículo 55 de la Ley Reglamentaria del Registro Público de la Propiedad $200.00
 
 VI.- Por el Registro de Planos de Fraccionamientos, por cada lote vendible:
 
 A) Fraccionamientos habitacionales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-a) De primera categoría $40.00
+a) De primera categoría $50.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-b) De segunda categoría $15.00
+b) De segunda categoría $20.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-B.- Fraccionamientos comerciales, industriales y campestres $100.00
+B.- Fraccionamientos comerciales, industriales y campestres $125.00
 
 C.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 D.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-E.- Cementerios $15.00
+E.- Cementerios $20.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-VII.- Por certificado de no inscripción de inmuebles $500.00
+VII.- Por certificado de no inscripción de inmueble $650.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-VIII.- Por certificado de gravámenes o de libertad de gravámenes $250.00
+VIII.- Por certificado de gravámenes o de libertad de gravámenes $300.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-IX.- Por acreditación o rectificación de medidas $2,000.00
+IX.- Por acreditación o rectificación de medidas $2,500.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-X.- Por inscripción de aviso preventivo $250.00
+X.- Por inscripción de aviso preventivo $300.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-XI.- Por certificación de constancia del archivo de Notarías $500.00
+XI.- Por certificación de constancia del Archivo de Notarías $650.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -2225,17 +2041,27 @@ Por autorización de apertura de:
 
 I.- Protocolos:
 
-a) Para Notarías Públicas ubicadas en los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, por cada libro autorizado $3,000.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-b) Para Notarías Públicas ubicadas en los demás Municipios, por cada libro autorizado $1,500.00
+a) Para Notarías Públicas ubicadas en los municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, por cada libro autorizado $4,000.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $2,000.00
 
 II.- Libros de Actas Fuera de Protocolo:
 
-a) Para Notarías Públicas ubicadas en los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, por cada libro autorizado $1,500.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-b) Para Notarías Públicas ubicadas en los demás Municipios, por cada libro autorizado $750.00
+a) Para Notarías Públicas ubicadas en los municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, por cada libro autorizado $2,000.00
 
-III.- Por cada Libro de Registro de Corredores Públicos $3,000.00.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $1,000.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+III.- Por cada Libro de Registro de Corredores Públicos $3,500.00.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -2245,41 +2071,53 @@ Por autorización de cierre de:
 
 I.- Protocolos:
 
-a) Para Notarías Públicas ubicadas en los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, por cada libro autorizado $1,500.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-b) Para Notarías Públicas ubicadas en los demás Municipios, por cada libro autorizado $750.00
+a) Para Notarías Públicas ubicadas en los municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, por cada libro autorizado $2,000.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $1,000.00
 
 II.- Libros de Actas Fuera de Protocolo:
 
-a) Para Notarías Públicas ubicadas en los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, por cada libro autorizado $750.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-b) Para Notarías Públicas ubicadas en los demás Municipios, por cada libro autorizado $400.00
+a) Para Notarías Públicas ubicadas en los municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, por cada libro autorizado $1,000.00
 
-III.- Por cada Libro de Registro de Corredores Públicos $1,500.00.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro
+
+autorizado $500.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+III.- Por cada Libro de Registro de Corredores Públicos $2,000.00.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 273.
 
-Por legalización de firmas $150.00
+Por legalización de firmas $200.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 274.
 
-Por la expedición de licencia para la portación de armas de fuego y su refrendo anual $1,800.00.
+Por la expedición de licencias para la portación de armas de fuego y su refrendo anual $2,000.00
 
 ###### ARTICULO 275.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1980)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO DECIMO SEXTO. Impuesto Sobre Traslado de Dominio
 
 ###### ARTICULO 275 Bis.
 
-Por autorización de traslado de cadáveres fuera del Estado $150.00.
+Por autorización de traslado de cadáveres fuera del Estado $200.00.
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
@@ -2291,73 +2129,75 @@ Por los servicios prestados por la Tesorería General del Estado o sus dependenc
 
 I.- Por empadronamiento y refrendo anual:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-a) Expendio de bebidas alcohólicas $2,000.00
+a) Expendio de bebidas alcohólicas $2,500.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-b) Expendio de bebidas alcohólicas, restaurantes con servicio de variedad artística o musical $20,000.00
+b) Expendio de bebidas alcohólicas, restaurantes con servicio de variedad artística o musical $25,000.00
 
 Si en dichos establecimientos se presenta al público habitualmente la actuación personal de filarmónicos $10,000.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-c) Hoteles de paso, cabarets, prostíbulos, casa de asignación o lugares semejantes $40,000.00
+c) Hoteles de paso, cabarets, prostíbulos, casa de asignación o lugares semejantes $50,000.00
 
 II.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 1979)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-III.- Por la expedición de constancias y certificados que extiendan las Dependencias de la Secretaría de Finanzas y Tesorería General del Estado $150.00
+III.- Por la expedición de constancias y certificados que extiendan las Dependencias de la Secretaría de Finanzas y Tesorería General del Estado $200.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-IV.- Por registro de contratos de arrendamiento de bienes inmuebles, cada uno $150.00
+IV.- Por registro de contratos de arrendamiento de bienes inmuebles, cada uno $200.00
 
 V.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1980)
 
 VI.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 1979)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-VII.- Por expedición de placas y tarjetas de circulación para vehículos de motor, excepto motocicletas y motonetas, anualmente $250.00
+VII.- Por expedición de placas y tarjetas de circulación, para vehículos de motor,
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+excepto motocicletas y motonetas, anualmente $700.00
 
-VIII.- Por expedición de placas y tarjetas de circulación para motocicletas y motonetas, anualmente $150.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+VIII.- Por expedición de placas y tarjetas de circulación para motocicletas y motonetas, anualmente $300.00
 
-IX.- Por expedición de placas para bicicletas, anualmente $30.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+IX.- Por expedición de placas para bicicletas, anualmente $50.00
 
-X.- Por expedición de placas para vehículos de tracción animal, anualmente $30.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+X.- Por expedición de placas para vehículos de tracción animal, anualmente $50.00
 
-XI.- Por expedición de placas para remolques destinados a ser accionados por automóviles, anualmente $150.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+XI.- Por expedición de placas para remolques destinados a ser accionados por automóviles, anualmente $300.00
 
-XII.- Por expedición de placas para remolques destinados a ser accionados por camiones o tractores, anualmente $200.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+XII.- Por expedición de placas para remolques destinados a ser accionados por camiones o tractores, anualmente $400.00
 
-XIII.- Por expedición de placas para demostración y prueba de vehículos, anualmente $250.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+XIII.- Por expedición de placas para demostración y prueba de vehículos, anualmente $700.00
 
-XIV.- Por expedición de duplicado o reposición de tarjetas de circulación $100.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+XIV.- Por expedición de duplicado o reposición de tarjetas de circulación $200.00
 
-XV.- Por expedición de licencia para manejar, o sus duplicados $100.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+XV.- Por expedición de licencia para manejar, o sus duplicados, anualmente $200.00
 
-XVI.- Por baja de vehículos de motor $100.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+XVI.- Por baja de vehículos de motor $200.00
 
 Tratándose de vehículos por los cuales deba pagarse el Impuesto sobre Tenencia o Uso de Automóviles, no se dará ningún trámite si no se acredita estar al corriente en el pago del referido impuesto, debiendo acreditarse además que no existe infracción alguna por violaciones al Reglamento de Tránsito en vigor.
 
@@ -2369,29 +2209,29 @@ La expedición de las placas y tarjetas de circulación a que se refieren las fr
 
 XVII.- Por expedición de certificado de valor actual real, según el valor determinado en el avaluó se pagará:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-a) Si no excede de $100,000.00 ….. $150.00
+a) Si no excede de $ 100,000.00 ….. $200.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-b) Si excede de $100,000.00 pero no de $ 250,000.00 ….. $350.00
+b) Si excede de $ 100,000.00 pero no de $ 250,000.00 ….. $400.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-c) Si excede de $250,000.00, pero no de $500,000.00 ….. $550.00
+c) Si excede de $ 250,000.00, pero no de $500,000.00 ….. $700.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-d) Si excede de $500,000.00, pero no de $ 2,000,000.00 ….. $800.00
+d) Si excede de $ 500,000.00, pero no de $ 2,000,000.00 ….. $1,000.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-e) Si excede de $2´000,000.00 ….. $1,250.00
+e) Si excede de $ 2´000,000.00 ….. $1,500.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-XVIII.- Por revalidación o refrendo anual de fierros de herrar o marcas de sangre, cada uno ….. $150.00
+XVIII.- Por revalidación o refrendo anual de fierros de herrar o marcas de sangre, cada uno ….. $500.00
 
 ### CAPITULO SEGUNDO
 
@@ -2421,31 +2261,31 @@ Concepto: Tasa:
 
 I.- Registro de Títulos Profeisonales (sic):
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-a) De maestros ….. $200.00
+a) De maestros $250.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-b) De Corredor Público o de las patentes de Notario Público ….. $15,000.00
+b) De Corredor Público o de las patentes de Notario Público $18,000.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-c) De los demás profesionistas ….. $700.00
+c) De los demás profesionistas $800.00
 
 II.- Por exámenes y expedición de certificados de salud con vigencia de un año, a personas que presten sus servicios en establecimientos de cualquier clase, que fabriquen, elaboren, manejen o expendan bebidas y comestibles; o que tengan contacto directo o personal con el público, como hoteles, casas de asistencia, casas de huéspedes, casas de baños, peluquerías, salones de belleza y similares, hospitales, clínicas, maternidades y en todo aquél establecimiento en que se internen pacientes para su tratamiento, medicina o diagnóstico; médicos consultantes, médicos veterinarios, odontólogos, químicos farmacobiólogos, técnicos radiólogos, parteros, enfermeras, auxiliares de enfermería, recepcionistas y secretarias mdicas (sic), personal de farmacias, personal de bancos de sangre, de laboratorios, clínicas y laboratorios de anatomía patológica:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-a) Examen médico y el análisis sanguíneo ….. $100.00
+a) Examen médico y análisis sanguíneo $200.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-b) Expedición de certificado de salud ….. $20.00
+b) Expedición de certificado de salud $100.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-c) Catastro torácico ….. $20.00
+c) Catastro torácico $100.00
 
 Las personas obligadas a obtener certificados de salud podrán hacerse el examen médico, análisis sanguíneo y catastro torácico, con personas o en establecimientos autorizados distintos a los dependientes de los Servicios Coordinados de Salud Pública en el Estado; acreditado lo anterior, únicamente cubrirán lo correspondiente a la expedición del certificado de salud.
 
@@ -2453,21 +2293,21 @@ III.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 1979)
 
 IV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1981)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-V.- Por la revisión de planos que practique ingeniería sanitaria, sobre el valor de las edificaciones que se pretenda construir, determinado por la Tesorería General, con base en los planos y proyectos que presente el interesado y, en los demás datos que proporcionen las oficinas competentes, al millar, $3.00.
+V.- Por la revisión de planos que practique ingeniería sanitaria, sobre el valor de las edificaciones que se pretenda construir, determinado por la Tesorería General, con base en los planos y proyectos que presente el interesado y, en los demás datos que proporcionen las oficinas competentes, al millar $4.00
 
 VI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1981)
 
 VII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1981)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-VIII.- Por registro de fierros y señales de ganado, por cada uno ….. $150.00
+VIII.- Por registro de fierros y señales de ganado, por cada uno $500.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-IX.- Por la expedición de constancias y certificados, que expidan las Dependencias de Gobierno del Estado, no mencionadas en las disposiciones de este Título ….. $150.00
+IX.- Por la expedición de constancias y certificados, que expidan las Dependencias del Gobierno del Estado, no mencionadas en las disposiciones de este Título $200.00.
 
 ###### ARTICULO 277 Bis.
 
@@ -2609,15 +2449,13 @@ T R A N S I T O R I O S :
 
 La Oficina Técnica Catastral, aún cuando no reciba dichos planos, procederá a la valuación de los predios del fraccionamiento, aplicando los valores catastrales en vigor. Las cuotas que resulten con motivo de esos avalúos, entrarán en vigor el bimestre siguiente a la fecha en que se practiquen.
 
-###### ARTICULO CUARTO
+###### ARTICULO CUARTO.
 
-- (DEROGADO, P.O. 28 DE DICIEMBRE DE 1979).
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979).
 
-###### ARTICULO QUINTO
+###### ARTICULO QUINTO.
 
-- En todo tiempo, el Ejecutivo del Estado, a través de la Tesorería General, podrá verificar si las personas señaladas en el Artículo 14, Fracción I, inciso k), cumplen con los requisitos establecidos, para gozar de las exensiones que esta ley les concede.
-
-En caso de que se descubra que los beneficiados no cumplan con los requisitso (sic) por los cuales se les concedió la exención, se cancelarán los beneficios otorgados, haciéndoles efectivo el cobro de los impuestos, por los cuales gozarán de franquicia.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983).
 
 Por lo tanto, envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -2710,6 +2548,16 @@ P.O. 31 DE DICIEMBRE DE 1982.
 ###### ARTICULO PRIMERO
 
 Este Decreto entrará en vigor el día 1o. de enero de 1983.
+
+###### ARTICULO SEGUNDO
+
+Se derogan todas las Leyes, Resoluciones y Disposiciones que se opongan a la presente Ley.
+
+P.O. 30 DE DICIEMBRE DE 1983.
+
+###### ARTICULO PRIMERO
+
+Este Decreto entrará en vigor el día 1o. de enero de 1984.
 
 ###### ARTICULO SEGUNDO
 
