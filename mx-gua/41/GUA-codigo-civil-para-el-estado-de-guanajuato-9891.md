@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1971-11-28"
+last_updated: "1972-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1972.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -12799,9 +12799,11 @@ VIII. El día y la hora de la presentación del título en el Registro.
 
 El registrador que haga una inscripción sin cumplir con lo dispuesto en el artículo anterior, será responsable de los daños y perjuicios que cause a los interesados y sufrirá una suspensión de empleos por tres meses.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1972)</small>
+
 ###### Art. 2515.
 
-El registro producirá sus efectos desde el día y la hora en que el documento se hubiere presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
+El registro producirá sus efectos desde el día y la hora en que el documento se hubiere presentado en la Oficina Registradora, siempre que el interesado haga entrega a la propia Oficina dentro de los 15 días siguientes a aquella presentación del recibo oficial de pago de los derechos correspondientes al registro del documento de referencia.
 
 ###### Art. 2516.
 
@@ -15362,6 +15364,12 @@ P.O. 6 DE JUNIO DE 1971.
 Este decreto surtirá efectos el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 28 DE NOVIEMBRE DE 1971.
+
+###### ARTICULO UNICO.
+
+Este decreto surtirá efectos el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1972.
 
 ###### ARTICULO UNICO.
 
