@@ -4,7 +4,7 @@ identifier: "VER-ley-de-ingresos-para-el-estado-de-veracruz-de-ignacio-de-la-356
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2003-12-25"
-last_updated: "2003-12-25"
+last_updated: "2004-10-01"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE INGRESOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE CORRESPONDIENTE AL EJERCICIO FISCAL DE 2004
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE OCTUBRE DE 2004.
 
 Ley publicada en la Gaceta Oficial. Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, el jueves 25 de diciembre de 2003.
 
@@ -351,11 +351,11 @@ Se condonan los créditos fiscales estatales derivados de contribuciones o aprov
 
 No procederá esta condonación cuando existan dos créditos fiscales a cargo de una misma persona y la suma de ellos exceda el límite antes establecido.
 
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 10.
 
-Se autoriza al Ejecutivo del Estado para que contraiga, conforme a las disposiciones del Libro Quinto del Código Financiero para el Estado de Veracruz de Ignacio de la Llave, un endeudamiento neto hasta por un monto equivalente a cinco por ciento del total de los ingresos ordinarios que se obtengan en el ejercicio fiscal 2004, para ser destinado a inversión pública productiva y reducir la fuerte estacionabilidad de las participaciones federales que repercuten sobre los pagos a proveedores de la misma. El Ejecutivo del Estado, podrá ejercer la presente autorización, siempre que en ningún caso rebase el porcentaje señalado y el término de la liquidación del endeudamiento no exceda el periodo constitucional de la presente administración.
-
-En garantía o fuente de pago de los financiamientos que se celebren con base en esta autorización, el Gobierno del Estado podrá afectar las participaciones que en ingresos federales reciba o los ingresos que deriven de programas, ramos o aportaciones de apoyo instrumentados por el Gobierno Federal que, conforme a las disposiciones legales que los rijan, puedan destinarse al saneamiento financiero, y los ingresos propios, sin incluir los provenientes del Impuesto Sobre Nóminas y del Impuesto por la Prestación de Servicios de Hospedaje.
+Se autoriza al Ejecutivo del Estado para que conforme a las disposiciones del Código Financiero para el Estado de Veracruz de Ignacio de la Llave, contrate endeudamiento para aplicarse en términos de lo que disponen los artículos 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos; 73 de la Constitución Política del Estado; 7,212, 316 y demás aplicables del Código Financiero del Estado, permitiendo en su caso concluir diversas inversiones públicas productivas y, eventualmente, utilizar una porción en la reestructuración del importe no amortizado de la deuda pública ya contratada. En garantía o fuente de pago de los financiamientos que se celebren, el Gobierno del Estado podrá afectar las participaciones que recibe del Gobierno Federal y los ingresos que deriven de programas, ramos o aportaciones de apoyo instrumentados por la Federación que, conforme a las disposiciones legales que los rijan, puedan destinarse al saneamiento financiero; así como ingresos propios, sin incluir aquellas que tengan un destino específico, considerado que el mecanismo para cubrir el pasivo referido sea a través de un fideicomiso de administración y pago que se encuentre constituido o que en el futuro se constituya por el Gobierno del Estado.
 
 ## TRANSITORIO
 
@@ -372,3 +372,11 @@ A t e n t a m e n t e
 Sufragio efectivo. No reelección
 
 Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+G.O. 1 DE OCTUBRE DE 2004.
+
+PRIMERO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DÍA DE SU PUBLICACIÓN EN LA GACETA OFICIAL DEL ESTADO.
+
+SEGUNDO. SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
