@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-escuela-normal-superior-del-estado-de-2920"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-10-27"
-last_updated: "1976-10-27"
+last_updated: "1982-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DE LA ESCUELA NORMAL SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1982.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial Estado de Baja California Sur, el 27 de octubre de 1976.
 
@@ -39,9 +39,11 @@ LEY ORGANICA DE LA ESCUELA NORMAL SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR.
 
 La Escuela Normal Superior del Estado de Baja California Sur, es la Institución educativa encargada de formar los profesionales de enseñanza media y superior que requieran las necesidades del Estado y demás entidades federativas, sin desatender la unidad orgánica del Sistema Educativo Nacional.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO SEGUNDO.
 
-Esta Institución dependerá directamente del Ejecutivo del Estado y tendrá como finalidades:
+Esta Institución dependerá del Ejecutivo del Estado, quien podrá ejercer sus facultades a través de la Unidad Coordinadora del Sector Educativo y tendrá como finalidades:
 
 a) Formar Licenciados, Maestros y Doctores en Ciencias de la Educación para atender la docencia, la administración y la investigación en los tipos medio y superior del Sistema Educativo Nacional en sus modalidades escolar y extraescolar.
 
@@ -153,17 +155,17 @@ Para el ingreso a los estudios de doctorado se require (sic), además del grado 
 
 Habrá Consejo Escolar como máxima autoridad integrado por el Director de la Escuela, el Subdirector que hará las funciones de Secretario y un Consejero-maestro por cada especialidad, así como un consejero alumno representante igualmente en cada especialidad existente; el Director presidirá el Consejo Escolar y ejercerá las facultades ejecutivas; el Subdirector tendrá voz pero no voto.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO DECIMO TERCERO.
 
-El cuerpo directivo de esta Institución estará integrado por:
+El Cuerpo Directivo de esta Institución estará integrada (sic) por:
 
-El Director de la Escuela.
+El Director de la Escuela,
 
-El Subdirector Administrativo.
+El Subdirector,
 
-El Subdirector Técnico.
-
-El Subdirector para Escuela de Graduados.
+El Subdirector de la Escuela de Graduados, y
 
 El Coordinador General de Licenciaturas.
 
@@ -179,9 +181,11 @@ III. Poseer título expedido por Escuela Normal Superior reconocida por autorida
 
 IV. Haber ejercido la docencia por tres años como mínimo, a nivel de ensenñanza (sic) media o superior. Los mismos requisitos se requieren para ser Subdirector.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO DECIMO QUINTO.
 
-El Director de la Escuela Normal Superior, será designado por el Gobernador del Estado, de una terna que proponga el Consejo Escolar. El Subdirector será nombrado por el Director.
+El Director de la Escuela será nombrado por el Gobernador del Estado y durará en su cargo un máximo de cuatro años en caso de no ser ratificado. El Subdirector será nombrado por el Director.
 
 ###### ARTICULO DECIMO SEXTO.
 
@@ -207,9 +211,11 @@ El personal administrativo y de intendencia de la Escuela Normal Superior del Es
 
 Las relaciones laborales entre la Escuela Normal Superior y el personal docente se regirá por el reglamento especial que se dicte al efecto por el Consejo Escolar.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO VIGESIMO SEGUNDO.
 
-Los títulos que expida la Escuela Normal Superior del Estado de Baja California Sur, deberán ser firmados por el Director de la Escuela y por el C. Gobernador Constitucional del Estado.
+Los títulos que expida la Escuela Normal Superior serán firmados por el Gobernador del Estado y por el Director de la Institución. Dichos títulos serán certificados y registrados por la Unidad Coordinadora del Sector Educativo.
 
 ## TRANSITORIOS
 
@@ -244,3 +250,11 @@ Lic. Angel César Mendoza Arámburo. Rúbrica.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 Lic. Guillermo Mercado Romero. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 20 DE DICIEMBRE DE 1982.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
