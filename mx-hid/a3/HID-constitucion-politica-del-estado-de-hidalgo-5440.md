@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1987-09-24"
+last_updated: "1987-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 1987.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -175,7 +175,7 @@ Toda persona reducida a prisión tiene derecho a la readaptación social y a los
 
 El Gobierno del Estado creará instituciones especiales para el tratamiento de los menores infractores.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+(REFORMADO, P.O. 1 DE OCTUBRE DE 1987) (F. DE E., P.O. 30 DE DICIEMBRE DE 1987)
 
 ###### Artículo 9°.
 
@@ -189,7 +189,7 @@ El Gobierno del Estado creará instituciones especiales para el tratamiento de l
 
 ###### Artículo 10.
 
-Para garantizar el interés social, en todo momento, el Estado tendrá facultades de fijar el uso y destino de la tierra a efecto de que los asentamientos humanos cumplan con el Plan de Desarrollo urbano del Estado. Asimismo podrá reglamentar el uso del suelo conforme a la vocación productiva de la tierra, a fin de hacer operativos el Programa General de Gobierno y el Plan Estatal de Desarrollo, garantizando el bienestar social.
+Para garantizar el interés social, en todo momento, el Estado tendrá facultades para fijar el uso y destino de la tierra a efecto de que los asentamientos humanos cumplan con lo establecido por el Plan Estatal de Desarrollo y con la Planeación del Desarrollo Urbano. Así mismo podrá reglamentar el uso del suelo conforme a la vocación productiva de la tierra a fin de hacer operativos los programas garantizando el bienestar social.
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -727,9 +727,13 @@ XXI. Hacer comparecer a los servidores públicos titulares de dependencias o dir
 
 XXII. Expedir las leyes que rijan las relaciones de trabajo entre el estado y sus trabajadores y entre los Municipios y sus respectivos trabajadores con base en lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias; y
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+(ADICIONADA, P.O. 1 DE OCTUBRE DE 1987) (F. DE. E., P.O. 30 DE DICIEMBRE DE 1987)
 
-XXIII. Las demás que le sean concedidas por esta Constitución.
+XXIII. Expedir leyes sobre planeación del desarrollo estatal, y
+
+(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987) (F. DE. E., P.O. 30 DE DICIEMBRE DE 1987)
+
+XXIV. Las demás que le sean concedidas por esta Constitución.
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -901,7 +905,7 @@ El Gobernador del Estado podrá salir del territorio del mismo sin licencia del 
 
 #### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1987)</small>
 
 ###### Artículo 71.
 
@@ -1025,7 +1029,9 @@ XLV. Planificar y regular el crecimiento de los centros urbanos, otorgando los s
 
 XLVI. Recabar las participaciones que correspondan a los Ayuntamientos, que por cualquier título se perciban, para entregarlos a la Hacienda Municipal;
 
-XLVII. (DEROGADA, P.O. 16 DE ENERO DE 1987)
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1987)</small>
+
+XLVII. Conducir y promover el desarrollo integral del Estado, de conformidad con los objetivos y prioridades de la planeación del desarrollo estatal;
 
 XLVIII. Actuar como árbitro en los conflictos que se susciten entre los Municipios;
 
@@ -1039,13 +1045,15 @@ LII. Las demás que le confiera esta Constitución y la General de la República
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
-#### SECCION IV. DEL DESARROLLO POLITICO Y ECONOMICO
+#### SECCION IV. DE LA PLANEACION ESTATAL DEL DESARROLLO
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, 1 DE OCTUBRE DE 1987)</small>
 
 ###### Artículo 72.
 
-Para el despacho de los asuntos del Ejecutivo existirá una organización del mismo, que se consignará en la Ley Orgánica de la Administración Pública del Estado, la que establecerá las dependencias y organismos necesarios para su funcionamiento y los requisitos que deberán cumplir los servidores públicos.
+La administración pública del Estado, será centralizada y paraestatal de acuerdo a la Ley Orgánica que expida el Congreso, la que establecerá las dependencias y entidades necesarias para el despacho de los asuntos del Ejecutivo Estatal, y los requisitos que deberán cumplir los servidores públicos.
+
+En todo caso, las dependencias de la Administración Pública Centralizada y las Entidades de la Administración Pública Paraestatal deberán de planear, programar y conducir sus actividades con sujeción a los objetivos y prioridades de la planeación del desarrollo estatal.
 
 ###### Artículo 73.
 
@@ -1085,7 +1093,7 @@ Para el despacho de los asuntos del Ejecutivo existirá una organización del mi
 
 El Gobernador podrá delegar en cualquier funcionario, las facultades otorgadas a él, así como a las dependencias del Ejecutivo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 1987)</small>
 
 #### SECCION V. DEL MINISTERIO PUBLICO
 
@@ -1093,41 +1101,51 @@ El Gobernador podrá delegar en cualquier funcionario, las facultades otorgadas 
 
 ###### Artículo 82.
 
-Para imprimir firmeza, dinamismo permanencia y equidad al desarrollo político y al crecimiento de la economía de la Entidad, el Gobernador dentro de su primer año de ejercicio, entregará para su sanción al Congreso del Estado, el Programa General de Gobierno y el Plan Estatal de Desarrollo.
+Corresponde al Gobierno Estatal la rectoría del desarrollo de la Entidad, para garantizar que sea integral, fortalezca su economía, su régimen democrático, la ocupación y una más justa distribución del ingreso, permitiendo el ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, dentro de lo que prescribe la Constitución General de la República, la particular del Estado y las Leyes que de ellas emanen.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+El Estado programará, planeará, conducirá, coordinará y orientará la actividad económica en la Entidad, y regulará fomentará las actividades que demande el interés público sin menoscabo de las libertades y derechos que otorgan esta Constitución y la General de la República.
+
+(REFORMADO, P.O. 1 DE OCTUBRE DE 1987) (F. DE. E., P.O. 30 DE DICIEMBRE DE 1987)
 
 ###### Artículo 83.
 
-En la elaboración del Programa General de Gobierno y el Plan Estatal de Desarrollo serán consultados los ayuntamientos y las organizaciones respectivas de los diversos sectores de la población; a efecto de que aporten informaciones, experiencias y propuestas, congruentes con la realidad en la Entidad y el interés colectivo. El mismo criterio se seguirá para la instrumentación, control y evaluación de los resultados del Programa y del Plan.
+En el desarrollo estatal concurrirán con responsabilidad, los sectores público, social y privado. Así mismo, el sector público del Estado podrá participar por sí o con los otros, de acuerdo con la Ley, para impulsar y organizar las áreas prioritarias de desarrollo del Estado, de conformidad con la legislación correspondiente.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+(F. DE. E., P.O. 30 DE DICIEMBRE DE 1987)
+
+La Federación podrá concurrir al desarrollo de la Entidad, en forma coordinada con el Estado, en los términos que señalen los convenios correspondientes y los Objetivos Nacionales y Estatales.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1987)</small>
 
 ###### Artículo 84.
 
-El Congreso del Estado sancionará el Programa y el Plan que constituirán las normas rectoras de la actividad de los órganos del Estado. La aprobación del Programa y el Plan requerirá, cuando menos, del voto de las dos terceras partes de los integrantes de la Legislatura.
+En un sistema de economía mixta, el Gobierno Estatal, bajo normas de equidad social, producción y productividad, dará protección, apoyo, ayuda y estímulos a las empresas de los sectores social, y privado, sujetándolos a las modalidades que dicte el interés público, cuando contribuyan al desarrollo económico y social, en beneficio de la colectividad, procurando que en el aprovechamiento de los recursos se cuide su conservación y el medio ambiente.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1987)</small>
 
 ###### Artículo 85.
 
-En su informe anual de labores, el Ejecutivo informará sobre las modificaciones de tiempo y forma practicadas al Programa y al Plan.
+El desarrollo integral del Estado se llevará a cabo mediante un sistema de planeación democrática, que imprima solidez, dinamismo, permanencia y equidad a dicho desarrollo.
 
-La misma información será dada a la Legislatura, cuando se deban adoptar medidas que modifiquen el proyecto original.
+Los objetivos de la planeación estatal estarán determinados por los principios rectores del proyecto nacional, contenido en la Constitución Política de los Estados Unidos Mexicanos, así como en los fines contenidos en esta Constitución, teniendo a conservar, en todo caso, la autonomía de la entidad, e impulsar la democratización política, social y cultural de la población.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+(REFORMADO, P.O. 1 DE OCTUBRE DE 1987) (F. DE E., P.O. 30 DE DICIEMBRE DE 1987)
 
 ###### Artículo 86.
 
-El Programa General de Gobierno consignará las directrices de la actividad de los órganos del Estado y de los Ayuntamientos, sobre la base del desarrollo compartido, la responsabilidad conjunta de los sectores de la población, la autonomía de la Entidad, la seguridad jurídica, la libertad municipal, la legalidad en el quehacer público; y la justicia social, en todas las gestiones de la administración.
+La planeación será democrática. Por medio de la participación de los diversos sectores del Estado, recogerá las aspiraciones y demandas de la Sociedad, para incorporarlas al Plan y a los programas de desarrollo.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+Habrá un Plan Estatal de Desarrollo, al que se sujetarán obligatoriamente los programas sectoriales, institucionales, operativos, regionales, municipales, y especiales que se elaboren en el Estado.
+
+(REFORMADO, P.O. 1 DE OCTUBRE DE 1987) (F. DE. E., P.O. 30 DE DICIEMBRE DE 1987)
 
 ###### Artículo 87.
 
-El Plan Estatal de Desarrollo es el instrumento operativo para la ejecución del Programa General de Gobierno, y deberá incorporar todas las medidas que impliquen permanencia y continuidad en las acciones de la administración pública, para evitar desviaciones y obstáculos temporales que interrumpan la acción coherente de los órganos del Estado.
+La ley determinará las características del sistema estatal de planeación democrática, los órganos responsables del proceso de planeación, las bases para que el Ejecutivo Estatal coordine mediante convenios con los Municipios y el Gobierno Federal, indusca (sic) y concerte con los sectores social y privado, las acciones a realizar para su elaboración y ejecución. La Ley señalará la intervención que el Congreso tendrá en la planeación.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+(F. DE. E., P.O. 30 DE DICIEMBRE DE 1987)
+
+Así mismo, la Ley facultará al Ejecutivo Estatal para que establezca los procedimientos de participación y consulta popular en el sistema estatal de planeación democrática y los criterios para la formulación, instrumentación del Plan y los Programas de Desarrollo.
 
 #### SECCION I. DE LOS TITULARES DEL GOBIERNO MUNICIPAL
 
@@ -1135,31 +1153,19 @@ El Plan Estatal de Desarrollo es el instrumento operativo para la ejecución del
 
 ###### Artículo 88.
 
-Las metas del programa y del Plan contemplarán acciones a corto, mediano y largo plazo, estableciendo métodos flexibles y prácticos que se adapten a las variaciones, que incidan en el transcurso de la vida política, económica y social de la población del Estado.
-
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1987)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 1987)
 
 ###### Artículo 88 Bis.
 
-Corresponde al Gobierno del Estado, la rectoría del desarrollo de la Entidad, para garantizar que sea integral, fortalezca su economía, su régimen democrático, la ocupación y una más justa distribución del ingreso, permitiendo el ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, dentro de lo que prescribe la Constitución General de la República, la particular del Estado y las leyes que de ellas emanen.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 1987)
 
-El Estado programará, planeará, conducirá, coordinará y orientará la actividad económica en la Entidad, y regulará y fomentará las actividades que demanden el interés público sin menoscabo de la libertad.
+Artículo 88a. (DEROGADO, P.O. 1 DE OCTUBRE DE 1987)
 
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1987)</small>
+Artículo 88b. (DEROGADO, P.O. 1 DE OCTUBRE DE 1987)
 
-Artículo 88a. Al desarrollo económico concurrirán, con responsabilidad, el Sector Público, el social y el privado. Asimismo, el Sector Público, podrá participar con los otros, de acuerdo con la ley, para impulsar y organizar las áreas prioritarias del desarrollo.
+Artículo 88c. (DEROGADO, P.O. 1 DE OCTUBRE DE 1987)
 
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1987)</small>
-
-Artículo 88b. En un sistema de economía mixta, el Estado, bajo normas de equidad social, producción y productividad, dará protección, apoyo, ayuda y estímulos a las empresas de los sectores sociales y privados, sujetándolos a las modalidades que dicte el interés público, cuando contribuyan al desarrollo económico en beneficio de la colectividad.
-
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1987)</small>
-
-Artículo 88c. El Programa General de Gobierno y el Plan Estatal de Desarrollo, tendrán como principios directores, los que contiene el Proyecto Nacional, que se basa en la Constitución Política de los Estados Unidos Mexicanos, que representa la síntesis de las aspiraciones que el pueblo ha planteado, ratificado y desarrollado en su trayectoria hacia la integración y afirmación de su nacionalidad, organización política federal, representativa y democrática.
-
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1987)</small>
-
-Artículo 88d. En el Programa y en el Plan, se considerarán las cuestiones que se presenten en la Entidad con motivo de las necesidades de su población, en materias de alimentos, vivienda, salud, educación, empleo, y otras fundamentales para el bienestar social, dándoseles la solución adecuada, dentro de las posibilidades que permitan los recursos naturales, humanos, técnicos y presupuéstales de que se puede disponer para ello. Se propiciará un desarrollo armónico, distribuyéndose la producción económica, justa, equitativa y convenientemente, en las distintas zonas del Estado, de tal manera, que se evite la concentración demográfica e industrial en algunas de ellas solamente.
+Artículo 88d. (DEROGADO, P.O. 1 DE OCTUBRE DE 1987)
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1471,6 +1477,10 @@ El municipio es una Institución con personalidad jurídica-política, con terri
 
 Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá autoridad alguna intermedia entre éste y el Gobierno del Estado.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1987)</small>
+
+El desarrollo social y económico del Municipio se llevará a cabo en forma planeada, tomándose en cuenta para que las acciones sean congruentes con los objetivos que persiga todo el Estado, los objetivos y prioridades de la planeación del desarrollo estatal, debiendo considerarse en todo tiempo la libertad y autonomía de este Gobierno. Para tal efecto, los Municipios podrán coordinarse con el Gobierno Estatal, en los términos que señale la Ley.
+
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 ### CAPITULO III. DE LA CREACION, SUPRESION Y ASOCIACION DE MUNICIPIOS
@@ -1759,9 +1769,9 @@ IV. Designar al Regidor que deba sustituir al Presidente Municipal, en caso de f
 
 V. Establecer en el territorio del Municipio, las Delegaciones y Subdelegaciones que sean necesarias;
 
-> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1987)</small>
 
-VI. Cooperar con las autoridades federales y estatales, en las funciones de su competencia y planes de desarrollo dentro del Municipio;
+VI. Cooperar con las Autoridades Federales y Estatales en las funciones de su competencia, atendiendo a lo establecido por el Plan Estatal de Desarrollo y a los programas sectoriales, regionales y especiales, así como el del Municipio;
 
 > <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
 
@@ -1779,13 +1789,13 @@ IX. Formular anualmente su proyecto de Ley de Ingresos, que será sometido a la 
 
 X. Formular anualmente su Presupuesto de Egresos que será sometido a la aprobación del Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1987)</small>
 
-XII (sic). Vigilar el cumplimiento del Programa General de Gobierno y del Plan Estatal de Desarrollo, en lo que respecta a su Municipio, propuesto por el Gobernador al tomar posesión;
+XII (sic). Vigilar el cumplimiento del Plan Estatal de Desarrollo y los programas sectoriales, regionales y especiales en lo que respecta a su Municipio;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1987)</small>
 
-XIII (sic). Promover el desenvolvimiento material, social, cultural, artístico, deportivo, científico, tecnológico y educativo en general, en la comunidad defendiendo y preservando su ecología a través de planes y de programas concretos;
+XIII (sic). Promover el desenvolvimiento material, social, cultural, artístico, deportivo, científico, tecnológico y educativo en general, en la comunidad, defendiendo y preservando su ecología a través de programas concretos;
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -1803,9 +1813,9 @@ XV. Admitir o desechar la licencia que solicitaren los regidores;
 
 XVI. Admitir o rechazar las renuncias de los funcionarios y empleados del Ayuntamiento;
 
-> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+(REFORMADA, P.O. 1 DE OCTUBRE DE 1987) (F. DE E., P.O. 30 DE DICIEMBRE DE 1987)
 
-XVII. Los Municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de tenencia de tierra urbana; otorgar licencia y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución General de la República, expedirán los reglamentos y disposiciones administrativas que fueren necesarios;
+XVII. Los Municipios, en los términos de las Leyes Federales y Estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y el desarrollo Urbano Municipal; participar en la creación y administración de sus reservas territoriales, controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución General de la República, expedirán los reglamentos y disposiciones administrativas que fueren necesarios;
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
@@ -1901,11 +1911,11 @@ Son facultades y obligaciones del Presidente Municipal:
 
 I. Cumplir y proveer a la observancia de las Leyes federales y estatales, así como los ordenamientos municipales;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+(REFORMADA, P.O. 1 DE OCTUBRE DE 1987) (F. DE E., P.O. 30 DE DICIEMBRE DE 1987)
 
-II. Cumplir con el Programa General de Gobierno y el Plan Estatal de Desarrollo propuestos por el Gobernador, proveyendo su observancia respecto a lo que se refiera a su municipio.
+II. Cumplir con el Plan Estatal de Desarrollo y los Programas sectoriales, regionales y especiales aprobados, proveyendo su observancia respecto a los que se refiera a su municipio.
 
-Al tomar posesión de su cargo el Presidente Municipal deberá presentar así mismo un Plan de Gobierno y Desarrollo Municipal congruente con el Estatal;
+Al tomar posesión de su cargo, el Presidente Municipal deberá presentar un Programa de Desarrollo Municipal congruente con el Plan Estatal;
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -2466,3 +2476,13 @@ P.O. 24 DE SEPTIEMBRE DE 1987.
 PRIMERO.- El presente Decreto de reformas entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los Magistrados del Tribunal Superior de Justicia que se encuentren en funciones al entrar en vigor el presente Decreto, serán inamovibles y sólo podrán ser privados de sus puestos en los casos que señalan la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+P.O. 1 DE OCTUBRE DE 1987.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo dispuesto por este Decreto.
