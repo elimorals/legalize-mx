@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-las-delegaciones-del-instituto-de-seguridad-y-117
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-01"
-last_updated: "2001-12-04"
+last_updated: "2002-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11794&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1997-09-18"
 
 REGLAMENTO DE LAS DELEGACIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ABRIL DE 2002.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 1 de octubre de 1997.
 
@@ -179,7 +179,9 @@ IV.- Unidad de Atención al Derechohabiente y Comunicación Social, y
 
 V.- Unidad Jurídica.
 
-Asimismo, contará con una Unidad de Auditoría Interna dependiente de la Contraloría General en el Instituto.
+> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 2002)</small>
+
+En cada una de las Delegaciones del Instituto habrá un Organo Interno de Control, el cual auxiliará al Organo Interno de Control en el ISSSTE, en los términos establecidos por el artículo 52 del Estatuto Orgánico del ISSSTE, y formará parte integrante del Organo Interno de Control en el ISSSTE.
 
 #### SECCION PRIMERA. DELEGADO
 
@@ -557,23 +559,33 @@ XVIII.- Colaborar con la Subdirección General Jurídica en los actos, trámites
 
 XIX.- Coadyuvar en la difusión de los beneficios logrados a través de los convenios internacionales suscritos por el Instituto.
 
-#### SECCION CUARTA. UNIDAD DE AUDITORIA INTERNA
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE ABRIL DE 2002)</small>
+
+#### SECCION CUARTA. ORGANOS INTERNOS DE CONTROL EN LAS DELEGACIONES
+
+> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 23.
 
-El Jefe de la Unidad de Auditoría Interna será designado y removido por la Secretaría de Contraloría y Desarrollo Administrativo.
+El Titular del Organo Interno de Control en cada Delegación del ISSSTE, será designado por la Secretaría de Contraloría y Desarrollo Administrativo, en los términos previstos por el artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal.
+
+> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 24.
 
-La Unidad de Auditoría Interna tendrá a su cargo el ejercicio de las atribuciones en materia de auditoría, vigilancia y fiscalización, a que se refieren las disposiciones legales, reglamentarias y administrativas aplicables, con objeto de que la gestión delegacional se lleve a cabo con transparencia, racionalidad, economía y disciplina presupuestal, y con estricto apego a la normatividad vigente.
+El Titular del Organo Interno de Control en cada Delegación del ISSSTE, auxiliará para el ejercicio de sus funciones al Titular del Organo Interno de Control en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. El Titular del Organo Interno de Control en cada Delegación será designado por la Secretaría de Controlaría y Desarrollo Administrativo, en los términos previstos por el artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, ejercerá las facultades establecidas por el artículo 47, fracción III, del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, con la restricción de emitir resoluciones en términos de la Ley Federal de Responsabilidades de los Servidores Públicos, por lo que en ese sentido, tampoco podrá ejercer las facultades atribuidas dentro de los puntos 1, segundo párrafo, 2, 3, 6, 7 y 9 del artículo 47, fracción III del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo, toda vez que éstas únicamente podrán ser ejercidas por el Titular del Organo Interno de Control en el ISSSTE o el titular del Area de Responsabilidades de éste.
+
+> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 25.
 
-El Instituto proporcionará a la Unidad de Auditoría Interna los espacios físicos y los recursos humanos y materiales en la Delegación, necesarios para el desarrollo de sus funciones, de conformidad con el presupuesto aprobado.
+En cada Delegación del ISSSTE, el Instituto proporcionará al Organo Interno de Control correspondiente, los espacios físicos y los recursos humanos y materiales, necesarios para el desarrollo de sus funciones, de conformidad con el presupuesto aprobado.
+
+> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 26.
 
-Los servidores públicos de la Delegación deberán prestar el auxilio y exhibir la información que requiera el Jefe de la Unidad de Auditoría Interna para el desarrollo de sus funciones.
+Los servidores públicos de la Delegación deberán prestar el auxilio y exhibir la información que requiera el Titular del Organo Interno de Control en la Delegación respectiva, para el desarrollo de sus funciones.
 
 #### SECCION QUINTA. CLASIFICACION DE LAS DELEGACIONES
 
@@ -877,7 +889,7 @@ México, D.F., a 18 de septiembre de 1997.- El Secretario de la Junta Directiva 
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-D.O.F. 29 DE JUNIO DE 1998
+D.O.F. 29 DE JUNIO DE 1998.
 
 UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
@@ -898,3 +910,9 @@ D.O.F. 4 DE DICIEMBRE DE 2001.
 ###### ARTICULO UNICO.
 
 La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ABRIL DE 2002.
+
+PRIMERO.- Las presentes Reformas del Reglamento de Delegaciones del ISSSTE, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En su oportunidad inscríbanse las presentes reformas en el Registro Público de Organismos Descentralizados.
