@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1993-12-18"
+last_updated: "1995-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -2817,9 +2817,7 @@ III.- Presenatr (sic) declaraciones, así como los avisos, datos, documentos e i
 
 IV.- Cuando los sujetos operen con varios establecimientos, podrán optar por acumular la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado, para lo cual presentarán aviso en la Oficina Fiscal ante la cual dejará de presentar declaraciones.
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
-
-V.- Informar sobre el cumplimiento de las disposiciones establecidas en este capítulo en los términos de los Artículos 51 y 52 A del Código Fiscal del Estado.
+V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1995)
 
 DE LAS EXENCIONES
 
@@ -2865,15 +2863,13 @@ b).- (DEROGADO, P.O. 18 DE DICIEMBRE DE 1993)
 
 c).- (DEROGADO, P.O. 18 DE DICIEMBRE DE 1993)
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-d).- Instituciones que impartan gratuitamente la educación y las federales por cooperación y que cuenten con reconocimiento de validez oficial.
+d).- Instituciones que impartan gratuitamente la educación, las federales por cooperación y las asociaciones civiles que impartan educación en cualquiera de sus niveles y que cuenten con autorización o reconocimiento de validez oficial y con los planes de estudio autorizados por las autoridades competentes..
 
 e).- Clubes de servicio.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
-
-Las personas a que se refiere la fracción II de este artículo, deberán gestionar y obtener de la Secretaría de Hacienda del Estado en forma expresa la autorización de la exención.
+> <small>(DEROGADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO XIV. IMPUESTO PARA LA EDUCACION UNIVERSITARIA
 
@@ -3031,17 +3027,23 @@ TARIFA:
 
 I.- Inscripciones.
 
-II.- Inscripción de hechos relativos al nacimiento, reconocimiento de hijos, adopciones y defunción 10 % de un día de salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-2.- Inscripción de actas de matrimonio dos días de salario mínimo.
+1.- Inscripción de hechos relativos al nacimiento, reconocimiento de hijos, adopciones y defunción, 50 % de un día de salario mínimo.
 
-3.- Inscripción de actas de divorcio.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-a).- Expedidas en el país, dos días de salario mínimo.
+2.- Inscripción de actas de matrimonio, seis días de salario mínimo.
 
-b).- Expedidas fuera del país, cuatro días de salario mínimo.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-Cuando los servicios del oficial se presten a solicitud del interesado en horas o días inhábiles o en lugar distinto a la sede de la Oficialía, su inscripción causará una cuota igual al importe de ocho días de salario mínimo.
+3.- Inscripción de actas de divorcio:
+
+a).- Expedidas en el país, seis días de salario mínimo.
+
+b).- Expedidas fuera del país, ocho días de salario mínimo.
+
+Cuando los servicios del oficial se presten a solicitud del interesado en horas o días inhábiles o en lugar distinto a la sede de la oficialía, su inscripción causará una cuota igual al importe de dieciocho días de salario mínimo.
 
 II.- REGULARIZACIONES Y CANCELACIONES.
 
@@ -3049,19 +3051,19 @@ II.- REGULARIZACIONES Y CANCELACIONES.
 
 a).- El registro de actos celebrados en el extranjero causarán los derechos establecidos en la presente tarifa, según los actos de que se trate.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-b).- La inscripción de las resoluciones judiciales de cancelación o rectificación de actas del estado civil causarán la cuota igual 50% del importe de un día de salario mínimo.
+b).- La inscripción de las resoluciones judiciales de cancelación o rectificación de actas del estado civil causarán la cuota igual al importe de un día de salario mínimo.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-c).- La corrección de errores en inscripciones causará la cuota igual al 50% del importe de un día de salario mínimo.
+c).- La corrección de errores en inscripciones causará la cuota igual al importe de un día de salario mínimo.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA. P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 III.- CERTIFICACIONES
 
-Las certificaciones de constancias que obren en los libros del Registro Civil causarán la cuota de 50% del importe de un día de salario mínimo.
+Las certificaciones de constancias que obren en los libros del Registro Civil causarán la cuota igual al importe de un día de salario mínimo.
 
 ###### ARTICULO 262o.
 
@@ -3133,9 +3135,9 @@ XII.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 1985)
 
 XIII.- La cancelación del registro de cada sociedad civil o asociación civil por extinción de las mismas con el importe de tres días de salario mínimo.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-XIV.- La cancelación de las inscripciones en los casos a que se refieren las fracciones V y VII, con el importe de tres días de salario mínimo.
+XIV.- La cancelación de las inscripciones en los casos a que se refieren las fracciones V y VII, con el importe de tres días de salario mínimo, por cada anotación.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
 
@@ -3171,9 +3173,9 @@ d).- Por su autorización de cada libro del protocolo notarial, tres días de sa
 
 e).- Por la conservación de cada libro y sus anexos (apéndice) del protocolo notarial, 50 % de un día de salario mínimo.
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-XVIII.- La inscripción de avisos preventivos de compraventa, hipotecas y donaciones, con el importe de cinco días de salario mínimo.
+XVIII.- La inscripción de avisos preventivos de compraventa, hipotecas y donaciones, con el importe de cinco días de salario mínimo, por cada propiedad.
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -3197,9 +3199,9 @@ Cuando los servicios se presten a través de Telefax o cualquier otro medio de c
 
 Para la determinación y cobro de los derechos que establece el artículo anterior se observarán las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-I.- Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, aquel que sirva de base para el cálculo del impuesto sobre adquisición de bienes inmuebles sin deducción alguna.
+I.- Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, aquel que sirva de base para el cálculo del Impuesto sobre Adquisición de Bienes Inmuebles sin deducción alguna; en los casos que no se cause dicho impuesto, se tomará como base el valor de lo bienes inmuebles determinado en el avalúo pericial expedido por la Dirección de Catastro de la Secretaría de Hacienda del Estado.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -3207,11 +3209,13 @@ II.- En los contratos de arrendamiento servirá de base para determinar los dere
 
 III.- En las emisiones de las cédulas hipotecarias en que se constituya hipoteca en favor de una institución de crédito, por las condiciones, cuotas, derechos y otros conceptos que no puedan determinarse al momento de realizarse la operación, se pagará por la inscripción que se haga de dicha hipoteca independientemente de la que se constituya a favor de los tenedores de las cédulas, la cual causará la cuota correspondiente por cantidad indeterminada.
 
-IV.- En toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella quedan comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes, y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que sirva de base para el cobro de los derechos, debiendo observarse lo dispuesto en la fracción I de este Artículo.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+IV.- En toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella quedan comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que sirva de base para el cobro de los derechos, debiendo observarse lo dispuesto en la fracción I de este artículo.
 
-V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará de acuerdo a las tasas establecidas en la fracción I del Artículo 263.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará de acuerdo a la tasa establecida en la fracción I del artículo 263.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -3285,7 +3289,9 @@ TARIFA:
 
 I.- Examen de todo documento, sea público o privado, que se presente al Registro para su inscripción, cuando se rehuse éste por no ser inscribible o cuando por otros motivos se devuelva sin inscribir dos días de salario mínimo.
 
-II.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 1993) (F. DE E., P.O. 1 DE ENERO DE 1994)
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+II.- La inscripción de documentos cuyo tenor y autenticidad deban hacerse notorios en los términos que lo dispone el artículo 16 fracción II del Código de Comercio, con el importe de cien días de salario mínimo.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
 
@@ -3307,21 +3313,19 @@ VI.- El depósito del programa a que se refiere el Artículo 92 de la Ley Genera
 
 VII.- Por la inscripción del acta de emisión de bonos y obligaciones de Sociedades Anónimas, se cobrarán las cuotas que correspondan, conforme a la fracción III de esta Tarifa.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-VIII.- La inscripción de la liquidación de Sociedades Mercantiles con el importe de cuatro días de salario mínimo.
+VIII.- La inscripción de los acuerdos de fusión o escisión de sociedades, con el importe de cuatro días de salario mínimo.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-IX.- La inscripción de la disolución de Sociedades Mercantiles con el importe de cuatro días de salario mínimo.
+IX.- La inscripción de los acuerdos de disolución o la liquidación de sociedades mercantiles con el importe de cuatro días de salario mínimo, aún en el caso en que se lleven a cabo en un solo acto.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+X.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1995)
 
-X.- La inscripción de la liquidación y disolución de Sociedades Mercantiles, cuando se lleven a cabo un solo acto con el importe de cuatro días de salario mínimo.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
-
-XI.- En los casos de las fracciones VIII, IX y X si como consecuencia de la liquidación de la Sociedad se adjudican bienes inmuebles, los derechos se causarán sobre el valor en que se adjudiquen a los socios o a terceros en los términos de la Fracción III de esta tarifa y teniendo en cuenta lo dispuesto en la fracción I del Artículo 264.
+XI.- En los casos de las fracciones VIII y IX si como consecuencia de la liquidación, fusión o escisión de la sociedad, se adjudican bienes inmuebles, los derechos se causarán conforme a lo dispuesto en los artículos 263 fracción I y 264 fracción I de esta Ley.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -3386,6 +3390,10 @@ VI.- En los casos no previstos expresamente en el Artículo anterior, los derech
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 VII.- Los derechos previstos en esta tarifa serán aumentados en un 100% cuando los interesados soliciten la inscripción el mismo día de su presentación.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
+VIII.- No se causarán los derechos previstos en la fracción II del artículo anterior, cuando se paguen los derechos establecidos en el artículo 287 de esta Ley.
 
 ###### ARTICULO 268o.
 
@@ -3679,9 +3687,27 @@ Los propietarios o poseedores de predios que se encuentren dentro del área de b
 
 ### CAPITULO IX. SERVICIOS DIVERSOS
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 287o.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+Por la expedición de licencias para el funcionamiento de establecimientos o locales que enajenan total o parcialmente al público en general bebidas alcohólicas, se causarán conforme a lo siguiente:
+
+I.- Restaurantes, bares de los hoteles y moteles, restaurantes bar, cafés cantantes, clubes deportivos y recreativos, casinos y círculos sociales con servicio exclusivo para sus socios, con el importe de 300 días de salario mínimo. Los centros nocturnos y discoteques, con el importe de 600 días de salario mínimo.
+
+II.- Loncherías, fondas, coctelerías, taquerías, cenadurías y otros establecimientos similares que tengan por giro la venta y consumo de alimentos no comprendidos en la fracción anterior con el importe de 100 días de salario mínimo.
+
+III.- Supermercados, con el importe de 300 días de salario mínimo.
+
+IV.- Minisupers, tiendas de abarrotes, licorerías depósitos, agencias, subagencias, almacenes y distribuidoras con el importe de 150 días de salario mínimo.
+
+V.- Bares, cantinas, tabernas y otros establecimientos similares no comprendidos en la fracción I de este artículo con el importe de 200 días de salario mínimo.
+
+VI.- Eventuales, como los que se instalan en ferias, bailes, kermeses, salones de baile y eventos deportivos, con el importe de 10 días de salario mínimo por evento.
+
+VII.- Por la revalidación anual de las licencias expedidas a los establecimientos señalados en las fracciones de la I a la V, se causarán a razón del 50% de los derechos previstos en cada una de dichas fracciones, según corresponda y deberán pagarse cada año a más tardar el último día del mes de febrero.
+
+VIII.- Por la expedición de autorizaciones anuales de funcionamiento en horario extraordinario con el importe del 50% de los derechos señalados en las fracciones de la I a la V, por cada hora.
 
 ###### ARTICULO 288o.
 
@@ -3956,3 +3982,7 @@ P.O. 18 DE DICIEMBRE DE 1993
 ###### ARTICULO UNICO.
 
 El presente Decreto surtirá sus efectos a partir del 1º de Enero de 1994.
+
+P.O. 30 DE DICIEMBRE DE 1995
+
+UNICO.- El presente Decreto entrará en vigor el 1º. de Enero de 1996.
