@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1993-07-19"
+last_updated: "1993-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1993.
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL PUBLICADA EN EL D.O.F. 22 DE DICIEMBRE DE 1993, A PARTIR DE LA ENTRADA EN VIGOR DE DICHA LEY, SE DEJAN SIN EFECTO UNICAMENTE POR LO QUE SE REFIERE A LAS MATERIAS REGULADAS EN LA MISMA, LOS ARTICULOS 3o. A 5o.; 10; 12 A 20; 29 A 38; 40 A 84; 86; 89; 92 A 96; 99; 110; 116 A 124; 126; 127; 523 A 532; 535 Y 541 DE LA LEY DE VIAS GENERALES DE COMUNICACION.</small>
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -84,23 +86,9 @@ d).- Los construídos en su totalidad o en su mayor parte por la Federación.
 
 e).- Los ferrocarriles particulares cuando sean auxiliares de una explotación industrial y hagan servicio público;
 
-VI.- Los caminos:
+VI.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
-a).- Cuando entronquen con alguna vía de país extranjero.
-
-b).- Cuando comuniquen a dos o más Entidades Federativas, entre sí.
-
-c).- Cuando en su totalidad o en su mayor parte sean construídos por la Federación;
-
-VII.- Los puentes:
-
-a).- Los ya constituídos o que se construyan sobre las líneas divisorias internacionales.
-
-> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 1943)</small>
-
-b).- Los ya construidos o que se construyan sobre vías generales de comunicación o sobre corrientes de jurisdicción federal.
-
-c).- La construcción de puentes se hará previo permiso de la Secretaría de la Defensa Nacional, otorgado por conducto de la Secretaría de Comunicaciones y Obras Públicas;
+VII.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 VIII.- El espacio aéreo nacional en que transiten las aeronaves;
 
@@ -194,33 +182,11 @@ Las vías generales de comunicación, los servicios públicos que en ellas se es
 
 Para construir, establecer y explotar vías generales de comunicación, o cualquiera clase de servicios conexos a éstas, será necesario el tener concesión o permiso del Ejecutivo Federal, por conducto de la Secretaría de Comunicaciones y con sujeción a los preceptos de esta Ley y sus Reglamentos.
 
-La construcción, establecimiento, o explotación de vías generales de comunicación, se sujetará a un plan general que responda a las necesidades de la economía nacional y que deberá hacerse del conocimiento del público, a cuyo efecto la Secretaría de Comunicaciones publicará, dentro de los primeros quince días del mes de enero de cada año, el programa de trabajos correspondientes, debiendo ajustarse el referido plan a las siguientes bases generales:
+> <small>(DEROGADO SEGUNDO PARRAFO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
-I.- Comunicación preferente de las zonas de mayor potencialidad económica que carezcan de medios de transporte expeditos;
+> <small>(DEROGADO TERCER PARRAFO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
-II.- De conformidad con la fracción anterior, se dará especial atención al establecimiento de vías de enlace o alimentadoras de troncales;
-
-III.- La construcción o establecimiento de nuevas vías quedará sujeta a estudios previos de carácter económico para determinar:
-
-a).- Distancia adecuada de la nueva vía respecto a las ya establecidas, a fin de evitar duplicidades dentro de una misma zona de influencia, cuando las vías ya existentes satisfagan con eficacia las necesidades de transporte de la región.
-
-b).- Perspectivas de tráfico inicial.
-
-c).- Riquezas naturales susceptibles de aprovechamiento.
-
-d).- Planeación de las explotaciones a que dé lugar el estudio de la fracción anterior.
-
-e).- Posibilidades de colonización.
-
-f).- Estado de la propiedad territorial que habrá de beneficiarse con la nueva vía de comunicación.
-
-g).- En los casos del inciso a) de la fracción III, la Secretaría de Comunicaciones se asesorará de la Secretaría de la Defensa Nacional, desde el punto de vista militar;
-
-IV.- La Federación realizará con la oportunidad debida las obras necesarias de colonización a lo largo de las zonas de influencia de las nuevas vías, en los lugares más apropiados para el caso, expropiando la extensión territorial que se determine.
-
-Para la mejor observancia y fines que se propone este artículo, se formará una Comisión Técnica Consultiva, compuesta de los representantes oficiales, de los trabajadores y de las empresas, que fije el Reglamento que al efecto se expida.
-
-Está comisión tendrá, asimismo, a su cargo, el estudio del número de vehículos que deben prestar el servicio en cada ruta, con el objeto de que no sea mayor de la capacidad de ésta, ni menor del que los intereses generales requieran.
+> <small>(DEROGADO CUARTO PARRAFO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 8o.
 
@@ -242,11 +208,9 @@ V.- Las embarcaciones que presten servicio público de cabotaje o de navegación
 
 VI.- Las aeronaves que hagan servicio internacional en los términos de las convenciones o tratados respectivos;
 
-VII.- Los vehículos destinados al servicio de transporte en los caminos, de acuerdo con los artículos relativos del Capítulo II del Título Segundo que se refiere a explotaciones de caminos.
+VII.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
-> <small>(ADICIONADA, D.O.F. 13 DE MARZO DE 1943)</small>
-
-VIII.- Los puentes de carácter provisional y los definitivos de escasa importancia, a juicio de la Secretaría de Comunicaciones.
+VIII.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 10.
 
@@ -318,57 +282,35 @@ En las concesiones se fijarán las bases a que deben sujetarse los prestadores d
 
 ###### ARTICULO 21.
 
-Las vías generales de comunicación son de utilidad pública. En consecuencia, la Secretaría de Comunicaciones, a solicitud de los interesados o por sí mismas cuando se trate de vías construídas por el Gobierno Federal o en cooperación con las autoridades locales, declarará y fundará administrativamente, en nombre del Ejecutivo, la expropiación de los terrenos, construcciones, aguas y materiales de propiedad particular que se requieran para la construcción, establecimiento, reparación o mejoramiento de dichas vías, sus servicios auxiliares y demás dependencias y accesorios. La expropiación se hará con arreglo a las bases siguientes:
-
-I.- La Secretaría de Comunicaciones, para declarar la expropiación correspondiente, determinará el lugar y la extensión de los terrenos y aguas y el volumen de éstas, así como las construcciones y materiales que deban expropiarse, previo estudio de las necesidades de la vía;
-
-II.- Si para la construcción y establecimiento de la vía hubiese necesidad de ocupar terrenos, aguas u obras ya utilizadas por otra o destinados a diferentes usos de la misma, la Secretaría de Comunicaciones, oyendo a los interesados, examinará si la ocupación de estos bienes para la nueva vía, causa a la anterior perjuicios de tal manera graves que hagan inconveniente el establecimiento de la proyectada, y decidirá si se cambia la ruta de ésta o si es de llevarse a cabo la expropiación; en este caso, la nueva vía estará obligada a pagar a la antigua la indemnización a que hubiere lugar por la ocupación de terreno, aguas u obras, interrupción de tránsito o daño material que le causare, y
-
-III.- Si hubiere necesidad de ocupar terrenos, aguas o construcciones afectas a una obra de utilidad pública, el destino definitivo de las mismas lo determinará la Secretaría de Comunicaciones, de acuerdo con la de Hacienda y Crédito Público, cuando se trate de bienes de propiedad federal; en el caso de que los bienes mencionados pertenezcan a los Estados, Municipios o particulares, la Secretaría de Comunicaciones determinará su destino, oyendo previamente a los interesados.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 22.
 
-La substanciación del procedimiento de expropiación se hará en la forma y términos que fija la ley de la materia.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 23.
 
-El expropiado o su causahabiente tendrán derecho, dentro del término de cinco años, a reivindicar la cosa expropiada o la parte correspondiente, cuando la totalidad o una parte de ella no se utilizare o se aplicare a uso distinto de aquel para el que se autorizó la expropiación.
-
-En este caso, el expropiado o su causahabiente no estarán obligados a devolver otra suma que la que el expropiante hubiere pagado por vía de indemnización, o la parte proporcional en su caso.
-
-El plazo de cinco años a que se refiere este artículo, se contará desde la fecha en que los bienes materia de la expropiación queden desafectos al uso para el que se autorizó la expropiación.
-
-> <small>(REFORMADO, D.O.F. 7 DE JULIO DE 1944)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 24.
 
-La Secretaría de Hacienda, a sugestión de la de Comunicaciones y Obras Públicas, concederá en sus respectivos casos, la libre importación de los materiales, aparatos, maquinaria, equipo y efectos destinados a la construcción, establecimiento, conservación y explotación de las vías generales de comunicación y medios de transporte, sus dependencias y accesorios, conforme a las siguientes bases:
-
-I.- Que no se fabrique en la República en cantidad o clase adecuadas al objeto a que van a destinarse; y
-
-II.- Que la cantidad de artículos cuya importación se conceda en franquicia sea la indispensable para el objeto a que se destinen a juicio de la Secretaría de Comunicaciones.
-
-La duración de la franquicia se determinará por la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 25.
 
-El Gobierno Federal podrá importar con franquicia los materiales, aparatos, maquinaria, equipo y efectos destinados a la construcción, establecimiento, explotación, vigilancia y conservación de sus vías de comunicación y medios de transporte, sin sujetarse a los términos que previene el artículo anterior.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 26.
 
-El material, implementos y maquinaria cuya libre importación se autorice de conformidad con los artículos anteriores, se aplicarán al uso exclusivo de las vías federales de comunicación y servicios auxiliares, dependencias y accesorios, sólo podrán enajenarse o emplearse en usos distintos de los que motivaron la franquicia, mediante permiso de la Secretaría de Hacienda, y el pago de los impuestos reducidos en su caso, en proporción al tiempo que se hayan utilizado dichos objetos.
-
-La Secretaría de Hacienda sólo podrá conceder ese permiso por causas justificadas.
-
-En el caso de que los efectos de que se trata se enajenaren o se empleen, en contravención a lo dispuesto en este artículo, la misma autoridad hará efectivos los impuestos causados, y los infractores sufrirán las penas que dispongan las leyes respectivas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 27.
 
-Las personas o empresas que construyan, establezcan o exploten vías generales de comunicación, podrán utilizar en la construcción, conservación y mejoramiento de las vías, servicios auxiliares, dependencias y accesorios, los terrenos de propiedad federal y los materiales y las aguas existentes en terrenos nacionales y en ríos de jurisdicción federal, de acuerdo con la resolución definitiva que las Secretarías de Hacienda y de Agricultura, respectivamente, dicten, sujetándose a las leyes y disposiciones relativas. Estas mismas Secretarías, de acuerdo con la de Comunicaciones, podrán conceder extensión o reducción de las cuotas que fijen las tarifas para el uso de terrenos nacionales.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 28.
 
-El Gobierno Federal podrá dar ayuda económica a los concesionarios de vías generales de comunicación y medios de transporte. Está ayuda se otorgará de acuerdo con lo dispuesto por la Ley Orgánica del Presupuesto u otras leyes especiales, oyendo a los interesados y posibles afectados, y sólo cuando la Secretaría de Comunicaciones, previos los estudios del caso, y por acuerdo del C. Presidente de la República declare que la vía es de urgente creación, o requiere inmediato estímulo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ### CAPITULO V. Caducidad y rescisión de concesiones y contratos y revocación de permisos
 
@@ -470,23 +412,7 @@ Los permisos serán revocables en la forma y términos que establezcan esta ley 
 
 ###### ARTICULO 39.
 
-La quiebra de las empresas que exploten vías generales de comunicación, se sujetará a las prescripciones del Código de Comercio y las reglas siguientes:
-
-I.- La administración y explotación del servicio público concesionado estarán a cargo de un Consejo de Incautación, constituido por un representante de los acreedores, un delegado de los obreros que presten servicios en la empresa, un representante de la concesionaria y dos de la Secretaría de Comunicaciones, uno de los cuales será el presidente de dicho Consejo, cuyo funcionamiento determinará el reglamento respectivo.
-
-II.- Por ninguna acción judicial podrá interrumpirse la explotación de los servicios públicos;
-
-III.- El Consejo de Incautación desempeñará las funciones que correspondan al síndico o interventor y estará, además, obligado:
-
-a).- A consignar, con el carácter de depósito, en el Banco de México, las cantidades que se obtengan en la explotación de los servicios, después de deducidos los gastos de administración.
-
-b).- A depositar en la misma institución bancaria, las existencias de dinero o valores que tuviere la empresa en la época en que se decrete la incautación.
-
-c).- A exhibir los libros pertenecientes a la compañía, cuando proceda y lo decrete el juez.
-
-d).- A procurar que el servicio público se preste en forma regular y continua, acatando todas las disposiciones que dicte la Secretaría de Comunicaciones en interés del mismo, y
-
-IV.- El juez que conozca de la quiebra dará, en todo caso, a las Secretarías de Comunicaciones y de Hacienda, la intervención que les corresponda para asegurar los derechos del Estado y del público usuario.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ### CAPITULO VI. Construcción y establecimiento de vías generales de comunicación
 
@@ -856,7 +782,7 @@ En el reglamento se fijarán los términos de duración de los transportes, pasa
 
 ###### ARTICULO 85.
 
-La Secretaría de Comunicaciones cuidará de que no se establezcan obligaciones de ninguna especie que coloquen a unas empresas de vías generales de comunicación, en condiciones privilegiadas respecto a otras. No se entenderá como situación privilegiada la que resulte de las disposiciones legales o reglamentarias que tiendan a evitar competencias injustificadas o ruinosas entre las empresas, ni la que resultare de la aplicación del artículo 28 de esta ley.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ### CAPITULO VIII. Personalidad y bienes de las empresas sujetas a concesión
 
@@ -866,11 +792,11 @@ Las bases constitutivas de las sociedades que exploten vías generales de comuni
 
 ###### ARTICULO 87.
 
-Las sociedades que exploten vías generales de comunicación, cuyas juntas directivas o consejos de administración residan en el extranjero, están obligadas a tener en la República, en el lugar de su domicilio o en el que designe la concesión, una junta local compuesta de directores o consejeros, conforme a las bases constitutivas de las sociedades y que formarán parte de su junta directiva o consejo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 88.
 
-Las bases constitutivas y estatutos de las sociedades a que se refiere el artículo anterior, determinarán las facultades de la junta local. En todo caso, la junta directiva o consejo de administración residente en el extranjero y el comité ejecutivo, en sus respectivos casos, tendrán obligación de mandar a la junta local, copia integra y certificada de las actas de sus sesiones y de las resoluciones que tomaren, así como de las actas de las asambleas generales de accionistas. También tendrán obligación la junta directiva o consejo de administración y el comité ejecutivo, de hacer del conocimiento de la junta local todas las operaciones financieras que se celebraren.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 89.
 
@@ -884,21 +810,11 @@ Son imprescriptibles las acciones que correspondan a la Nación, respecto de los
 
 ###### ARTICULO 90.
 
-Para la emisión de acciones, obligaciones y bonos, así como para aumentar el capital cuando lo exijan las necesidades de la construcción o explotación, se observarán las reglas siguientes:
-
-I.- Levantados los planos y perfiles, se formarán los presupuestos de toda la obra;
-
-II.- Sobre la base de estos presupuestos y de los derechos que el concesionario se haya reservado, se fijará con aprobación de la Secretaría de Comunicaciones, el capital en acciones;
-
-III.- No podrán emitirse obligaciones sino después de constituído y pagado totalmente el capital social, y sólo cuando el cincuenta por ciento, cuando menos, de este capital haya sido invertido en la vía de que se trate;
-
-IV.- Todas las obligaciones contraídas para adquirir fondos o las de cualquier otro género, no contendrán plazo mayor para su completa amortización, que el correspondiente a las primeras nueve décimas partes del total del tiempo en que se haya otorgado la concesión, excepto en los casos de empresas no sujetas a la reversión.
-
-V.- Cuando se aumente el capital en acciones o se emitan obligaciones porque lo exijan las necesidades de la construcción o explotación, se necesitará la previa aprobación de la Secretaría de Comunicaciones. Además del derecho de emitir acciones y obligaciones, podrán las empresas allegarse fondos por cualquier otro medio legal.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 91.
 
-El capital reunido por las empresas para el establecimiento y explotación de la vía de comunicación o medio de transporte, no podrá destinarse a otro negocio distinto.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 92.
 
@@ -932,13 +848,11 @@ La empresa estará obligada a poner en conocimiento de la Secretaría de Comunic
 
 ###### ARTICULO 97.
 
-Los concesionarios de vías generales de comunicación y las empresas que exploten medios de transporte, están obligados a llevar la contabilidad de los negocios relacionados con la concesión o medios de transporte, inclusive las operaciones que hagan en el extranjero, sin excepción ni restricción alguna, en el lugar de la República Mexicana en donde tengan su domicilio legal o su administración principal. Las Secretarías de Comunicaciones y Obras Públicas, y de Hacienda, de común acuerdo, determinarán el sistema uniforme de cuentas y la forma en que éstas se llevarán, pudiendo en todo caso modificarlo o adicionarlo, oyendo a las empresas. Estas no podrán variar dicho sistema de cuentas de ingresos, egresos, etc., sin la previa aprobación de las mismas Secretarías.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 98.
 
-Los concesionarios establecerán su domicilio en el lugar de la República que fije la concesión, sin perjuicio de las agencias que convenga a sus intereses establecer en diversos lugares del país o del extranjero; debiendo tener siempre en la capital de la República uno o más apoderados suficientemente instruidos y expensados para entenderse con el Gobierno Federal.
-
-La Secretaría podrá relevar a las empresas de poco capital de la obligación de tener dicho apoderado expensado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 99.
 
@@ -948,39 +862,29 @@ Las notificaciones que hayan de hacerse a empresas que no tengan apoderado o del
 
 ###### ARTICULO 100.
 
-Las vías generales de comunicación, con los terrenos que les estén incorporados y los demás bienes inmuebles que les pertenezcan, no están sujetos a servidumbre, en cuanto esas servidumbres sean incompatibles con el uso a que dichos bienes estén destinados.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 101.
 
-Cuando cualesquiera de los bienes a que se refiere el artículo anterior, destinados a las vías generales de comunicación, no se usen, podrán celebrarse, con relación a ellos, toda clase de contratos y operaciones que afecten su propiedad ni cambien su destino, previa la aprobación, en cada caso, de la Secretaría de Comunicaciones. Durante el término de esos contratos, los mismos bienes estarán sujetos al pago de impuestos locales.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ### CAPITULO IX. Derechos de la Nación
 
 ###### ARTICULO 102.
 
-El Gobierno Federal tendrá derecho a una reducción del cincuenta por ciento en los precios de toda clase de servicios que cobren al público las empresas de vías generales de comunicación y las de servicios auxiliares o conexos de éstas, siempre que reúnan los requisitos siguientes:
-
-I.- Que el servicio sea oficial del Gobierno Federal;
-
-II.- Que el mismo servicio se ordene, para el Ejecutivo Federal por cualquiera Secretaría o Departamento de Estado, por el Jefe de Ayudantes o Secretario Particular del Presidente de la República y para los otros poderes, por los conductos que ellos designen, y
-
-III.- Que el pago se haga por las Oficinas Federales con cargo a la partida respectiva del presupuesto de Egresos. Tratándose del servicio militar en tiempo de paz, las bases para la aplicación de esta reducción serán establecidas en un reglamento especial.
-
-La Secretaría de Comunicaciones estará facultada para decidir, en los casos de duda, sobre el carácter oficial del Servicio de que se trate, no pudiendo considerar como tal al que tenga carácter mercantil.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 103.
 
-Las líneas de navegación aérea están obligadas a hacer una reducción del quince por ciento en las cuotas que fijen las tarifas vigente (sic) aplicables al público, siempre que se cumplan los requisitos del articulo anterior.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 104.
 
-Por el término de la concesión, las vías generales de comunicación y medios de transporte, con excepción de las líneas aéreas están obligadas a conducir gratuitamente las correspondencias postales de la primera a la cuarta clase a que se refiere el Capítulo Segundo, Libro Sexto de esta ley.
-
-Respecto a la de quinta clase para los puntos ligados por ferrocarril, las tarifas deberán ser iguales a las del express y el Gobierno Federal pagará a las empresas de transporte el cincuenta por ciento de las tarifas de express, los bultos postales, entre puntos no ligados por ferrocarril, serán conducidos gratuitamente. Cuando los bultos postales se transporten por más de una línea ferrocarrilera, el cincuenta por ciento se dividirá proporcionalmente entre las líneas que lo transporten.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 105.
 
-Toda línea de navegación aérea está obligada a hacer el servicio de conducción de correspondencia mediante contrato celebrado con la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 106.
 
@@ -998,7 +902,7 @@ Las empresas de ferrocarriles estarán obligadas a permitir que transiten gratui
 
 ###### ARTICULO 109.
 
-Durante el término del trazo y la construcción de ferrocarriles, caminos, puentes, puertos, vías fluviales y lacustres e instalaciones de comunicaciones eléctricas, las empresas concesionarias están obligadas a admitir en sus trabajos respectivos, con las limitaciones que establezca el reglamento, a los pasantes de las escuelas nacionales de ingenieros que el mismo reglamento determine. Los gastos de alojamiento y asistencia de los pasantes serán por cuenta de la empresa en el caso de que los trabajos se desarrollen fuera del lugar en que aquéllos hagan sus estudios. El reglamento respectivo determinará, además, los casos en que las empresas que tengan capacidad para hacerlo estén obligadas a remunerar los trabajos que lleven a cabo dichos pasantes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 110.
 
@@ -1170,11 +1074,9 @@ Los concesionarios o permisionarios que incumplan la obligación de proteger a l
 
 La Secretaría de Comunicaciones y Transportes resolverá administrativamente todas las controversias que se originen en relación con el seguro del viajero o con el fondo de garantía, sin perjuicio de las facultades que correspondan a la Comisión Nacional Bancaria y de Seguros y a otras autoridades.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
-
 ###### ARTICULO 128.
 
-Los prestadores de servicios en vías generales de comunicación están obligados a presentar ante la Secretaría de Comunicaciones y Transportes para su perforación o resello, los documentos que expidan a los usuarios tales como: carta de porte, conocimiento de embarque, boleto, factura o documento similar, sin cuyo requisito no tendrán validez.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 # LIBRO SEGUNDO. Comunicaciones terrestres
 
@@ -1312,263 +1214,89 @@ Son aplicables a los tranvías las disposiciones relativas a ferrocarriles, en c
 
 ### CAPITULO I. De los caminos en general
 
-> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 1992)</small>
-
 ###### ARTICULO 146.
 
-Las concesiones para construir y explotar caminos, se otorgarán por el plazo que señale la Secretaría de Comunicaciones y Transportes y que no podrá exceder de treinta años.
-
-El Gobierno Federal podrá construir y explotar caminos de peaje por sí o mediante concesión que se otorgue en los términos de esta Ley a particulares, a los Estados o a los Municipios.
-
-La explotación mediante la operación, de los caminos de peaje construidos o adquiridos por el Gobierno Federal, podrá ser concesionada, si así conviene al interés público, de conformidad con el procedimiento establecido por esta Ley y de acuerdo con las condiciones que se señalen en el título de concesión correspondiente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 147.
 
-Los Gobiernos de los Estados, Territorios Federales y Municipios, podrán construir, reconstruir y mejorar los caminos a que se refiere esta ley, con autorización de la Secretaría de Comunicaciones y conforme a las especificaciones que la misma señale en cada caso. Igualmente podrá esta Secretaría autorizar a los Gobiernos locales para que ejerzan funciones de policía de tránsito en dichos caminos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 148.
 
-La Secretaría de Comunicaciones podrá ordenar la reapertura o ensanche de cualesquiera de los caminos enumerados en la fracción VI del artículo 1º, cuando hubieren estado o estén en uso público.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 149.
 
-Cuando los caminos deban atravesar las poblaciones, la Secretaría de Comunicaciones, oyendo a las autoridades que corresponda, determinará las calles y calzadas por donde hayan de pasar, las cuales se considerará que forman parte de aquellos por lo que respecta al servicio de tránsito.
-
-El Gobierno Federal por conducto de la Secretaría de Comunicaciones, se hará cargo de la construcción, reparación, conservación, ampliación y mejoramiento de los caminos comprendidos dentro de perímetros urbanizados, así como de la reglamentación del tránsito y de la policía de los mismos; pero el propio Gobierno deberá celebrar convenios con las autoridades locales para la realización de dichas obras y para el ejercicio de las funciones de policía mencionadas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 150.
 
-El terreno que quedare sin utilizar por cambios de trazo de un camino se venderá en pública subasta; sin embargo, los dueños de los predios expropiados en primer lugar, y en segundo lugar los de los colindantes tendrán derecho preferente para adquirir sin subasta, previo avalúo pericial, la sección de camino que colinde con su predio. Podrán adquirirla también dando en compensación una cantidad de terreno que pueda ser empleada en el nuevo trazo.
-
-En estas enajenaciones se observará en su caso, lo dispuesto en la ley o leyes que clasifiquen y establezcan el régimen de los bienes inmuebles de la Federación.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 151.
 
-Los dueños de predios que sean atravesados por los caminos estarán obligados a cercarlos en la parte que limite el derecho de vía correspondiente, y en caso de no hacerlo, la Secretaría de Comunicaciones procederá en los términos del artículo 47 de esta Ley.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 9 DE ENERO DE 1948)</small>
 
 ### CAPITULO II. Explotación de caminos
 
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
-
 ###### ARTICULO 152.
 
-Para el aprovechamiento de los caminos de jurisdicción federal en la explotación de servicios públicos de autotransporte, será necesario obtener concesión de la Secretaría de Comunicaciones y Obras Públicas, y su otorgamiento se sujetará a las siguientes bases:
-
-I.- Unicamente podrán conferir a mexicanos por nacimiento y a sociedades constituídas por éstos conforme a las leyes del país. En ningún caso podrán conferirse a sociedades cuyo capital este total o parcialmente representado por acciones al portador.
-
-II.- Se otorgará para cualquiera de los servicios siguientes:
-
-Transporte de personas:
-
-a).- Servicio de primera.
-
-b).- Servicio de segunda.
-
-c).- Servicio exclusivo de turismo.
-
-Transporte de carga:
-
-a).- Servicio de carga.
-
-b).- Servicio de express.
-
-Transporte de personas y de carga.
-
-Servicio mixto.
-
-Se entiende por servicio mixto el que se preste, para el transporte de personas y cosas, en un mismo vehículo que satisfaga las características que determine el Reglamento para esta clase de servicio.
-
-La Secretaría de Comunicaciones y Obras Públicas determinará, de acuerdo con el Reglamento respectivo, el número y la extensión de las rutas en que estarán divididos los caminos de jurisdicción federal, así como la clase o clases de servicios que en cada ruta deban operar.
-
-III.- La explotación que se proponga efectuar el solicitante quedará condicionada a la constitución de una sociedad, de las permitidas en este Capítulo, por todos los concesionarios que presten indéntico (sic) servicio, para realizar la explotación conjunta de la misma ruta o tramo y para los demás fines de toda sociedad, salvo el caso de que una ruta pueda ser servida por un concesionario con el número de vehículos que conforme a esta Ley pueda operar.
-
-La Secretaría de Comunicaciones y Obras Públicas podrá autorizar la constitución de una sola sociedad para la explotación de dos o más clases de los servicios de transportes de personas o de cosas que se presten en una ruta, cuando todos los conocesionarios (sic) en la prestación de los servicios de que se trata formulen la solicitud correspondiente.
-
-Para los efectos de esta disposición el servicio mixto se considerará dentro de la categoría del transporte de personas.
-
-En caso de que no se elevaren solicitudes de concesión para prestar el servicio mixto de una determinada ruta o tramo de camino, los concesionarios que efectúen el servicio de segunda en esa ruta y, en su caso la sociedad que constituyan conforme a esta Ley, estarán obligados a destinar el número de vehículos que determine la Secretaría de Comunicaciones y Obras Públicas para la prestación de ese servicio.
-
-Tomando en cuenta las modalidades de los servicios de carga y express que en las diversas rutas deban prestarse, la Secretaría de Comunicaciones y Obras Públicas podrá autorizar la constitución de dos o más sociedades de los concesionarios que realicen el servicio en la misma ruta, pero en todo caso aquellos que presten servicio sujeto a las mismas modalidades, deberán integrar una sola sociedad.
-
-Las concesiones que se expidan especialmente para la prestación del servicio público de transporte de frutas y legumbres o de otros artículos perecederos en carros frigoríficos, autorizarán a los concesionarios a transitar en los diversos caminos de jurisdicción federal.
-
-IV.- Una persona física podrá gozar de una o más concesiones, pero el número de vehículos, cuya explotación se le conceda, no podrá exceder de cinco, ya sea que operen o no, en la misma ruta.
-
-El número máximo de vehículos que podrá amparar la concesión que se otorgue a una sociedad será el que fuere necesario para la explotación de la ruta, si se satisfacen los requisitos siguientes:
-
-a).- Que así lo hubiere pedido la interesada.
-
-b).- Que el capital social permita realizar esa explotación.
-
-c).- Que cada socio hubiere aportado, como máximo, la suma que demande la explotación de cinco vehículos.
-
-Esta sociedad debe tener los mismos fines expresados en la primera parte de la fracción anterior.
-
-Salvo lo dispuesto en las fracciones II y III del Artículo 160, cada socio deberá limitar sus aportaciones a la explotación de cinco vehículos, a lo sumo, sin perjuicio de las sumas que fuere necesario aportar para el establecimiento de los servicios accesorios. La misma limitación deberá observarse durante todo el término de vigencia de la sociedad y, por tanto, ningún socio podrá aumentar su participación social ni adquirir acciones de la sociedad concesionaria en una proporción que exceda a la autorizada de este Artículo.
-
-V.- Se preferirá a los solicitantes que por la calidad del equipo que ofrezcan destinar al servicio, por la instalación de servicios accesorios, tales como terminales, bodegas, estaciones intermedias, o por otras circunstancias similares estén en condiciones de prestar y garantizar un mejor servicio al público. En igualdad de condiciones, se preferirá a las personas físicas o morales vinculadas y con domicilio en las regiones o zonas que habrán de abarcar los servicios y, en su defecto, las concesiones se otorgarán atendiendo al orden en que hubieren sido solicitadas, de conformidad con los datos que arroje el libro de registro público de solicitudes que por duplicado llevará la Secretaría de conformidad con el Reglamento de esta Ley.
-
-Para los efectos de esta fracción las sociedades cooperativas gozarán de la preferencia que les otorguen las Leyes.
-
-VI.- El trámite se sujetará a las disposiciones de esta Ley y su Reglamento, pero con la salvedad de que tanto la solicitud como la concesión se publicarán por una sola vez en el "Diario Oficial" de la Federación y en dos de los periódicos de mayor circulación de la Capital de la República, con el fin de que durante el plazo de treinta días contados a partir de la última publicación, las personas que pudieren resultar afectadas, presenten sus observaciones.
-
-Los interesados deberán ordenar a su costa las publicaciones a que esta Fracción se refiere, en un término que no exceda de diez días a contar de la fecha de presentación de su solicitud.
-
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 153.
 
-No quedarán comprendidos en el Artículo anterior:
-
-I.- El uso de vehículos cuando se trate de establecimientos educacionales, instituciones deportivas y de compañías de navegación acuática o aérea, siempre que se realicen en vehículos contratados o de propiedad de las entidades respectivas y para sus propios fines.
-
-Las empresas de navegación sólo podrán realizar el servicio a que esta Fracción se refiere entre los puertos o aeropuertos y las ciudades o poblaciones a que dichos puertos correspondan.
-
-II.- El transporte de muebles y efectos en uso, aún cuando sea realizado por una empresa, siempre que se limite al servicio de personas o entidades que realicen un cambio efectivo de domicilio o de local.
-
-III.- Los servicios de grúas para el arrastre o transporte de vehículos.
-
-IV.- Los transportes para la distribución del petróleo y sus derivados.
-
-V.- Los transportes que en razón de su reducida importancia o de sus modalidades particulares no constituyan servicios públicos de los que ameriten concesión en los términos de esta Ley, a juicio de la Secretaría de Comunicaciones y Obras Públicas.
-
-En los casos anteriormente mencionados los interesados deberán obtener el premiso correspondiente y la aprobación de las tarifas, si el servicio las requiere.
-
-Los agricultores, mineros, empresas de construcción y los comerciantes e industriales, sean personas físicas o morales podrán, empleando vehículos de su exclusiva propiedad, hacer el tranporte (sic) por las carreteras federales, de los productos o artículos de su propiedad, obteniendo para ello la correspondiente autorización de la Secretaría de Comunicaciones y Obras Públicas, que se otorgará con sujeción al Reglamento respectivo.
-
-En los casos en que temporalmente se presente una demanda extraordinaria de transportes, La Secretaría de Comunicaciones y Obras Públicas podrá conceder permisos eventuales para la satisfacción inmediata de esa demanda, dando preferencia, en igualdad de condiciones a los concesionarios de las líneas regulares establecidas en la ruta; en su defecto, a concesionarios de otras líneas y, en último extremo, a transportadores particulares. En todo caso, las cuotas que se cobren no serán inferiores a las autorizadas para el servicio ordinario.
-
-Entre aquellos puntos en que no exista servicio público autorizado, el transporte de personas será libre entretanto se establecen esos servicios y no estará sujeto a más condiciones que las aplicables en materia de circulación de vehículos.
-
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 154.
 
-Las concesiones se otorgarán por un término de diez años que podrá prorrogarse si los concesionarios hubieren cumplido con las disposiciones de esta Ley y su Reglamento y con las obligaciones que específicamente se determinen en el título de la concesión.
-
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 155.
 
-En las concesiones para la explotación de servicios públicos de autotransportes, no tendrá efectos la reversión establecida en el Artículo 89 en lo que se refiere a los vehículos; pero será aplicable en lo que respecta a estaciones terminales y demás instalaciones auxiliares, para cuya explotación el término de la concesión será de cincuenta años.
-
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 156.
 
-Los derechos derivados de las concesiones serán transmisibles en los términos que en seguida se expresan, previa autorización de la Secretaria de Comunicaciones y Obras Públicas, si el interesado en adquirirlos satisface los requisitos establecidos por esta Ley para obtener una concesión:
-
-a).- Si transcurridos tres años desde que se inició la explotación del servicio el concesionario hubiere cumplido sus obligaciones.
-
-b).- En cualquier tiempo en caso de fallecimiento o de incapacidad física o mental del concesionario.
-
-c).- En todo tiempo para dar cumplimiento a lo prevenido en la fracción III del Artículo 152 los concesionarios convinieren en transmitir el goce o la titularidad de esos derechos a la sociedad que para tal efecto constituyan.
-
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 157.
 
-Los concesionarios estarán obligados:
-
-I.- A aceptar el transporte de las personas y efectos que están obligados a conducir, sin acordar otras preferencias, por razón de tiempo y lugar, que las autorizadas por esta Ley.
-
-II.- A no cobrar por el transporte un precio distinto del establecido en las tarifas aprobadas por la Secretaría de Comunicaciones y Obras Públicas.
-
-III.- A realizar el transporte de toda ruta especificada en la concesión y a efectuar ese recorrido conforme a los horarios aprobados y, tratándose de servicio de carga no sujeto a horario, a las velocidades y dentro de los plazos que señale el Reglamento.
-
-IV.- A emplear en el servicio los vehículos que satisfagan las condiciones de seguridad, higiene, capacidad, peso y demás especificaciones que con relación a cada clase de servicio determine la Secretaría de Comunicaciones y Obras Públicas.
-
-V.- A combinar y coordinar sus servicios con los de otras empresas que exploten vías generales de comunicación de conformidad con las disposiciones que sobre el particular dicte la Secretaría de Comunicaciones y Obras Públicas o de acuerdo con los convenios que, previa la aprobación de la misma Secretaría, celebren los interesados.
-
-VI.- A substituir los vehículos que temporal o permanentemente retiren del servicio, por otros de la misma capacidad y demás características, pudiendo ser de mejor calidad.
-
-VII.- A dar cumplimiento a las disposiciones que dicte la Secretaría de Comunicaciones y Obras Públicas, en orden a lo dispuesto en el Artículo 160.
-
-VIII.- A construir o instalar terminales, bodegas y estaciones intermedias cuando la importancia del servicio así lo requiera a juicio de la Secretaría de Comunicaciones y Obras Públicas.
-
-IX.- A suministrar a la Secretaría de Comunicaciones y Obras Públicas los datos estadísticos que esta requiera, así como los informes sobre los resultados económicos y financieros de la operación del servicio, con las comprobaciones necesarias.
-
-X.- A cumplir las demás prestaciones y abstenciones que les imponen la Ley, los Reglamentos y las que se estipulen y establezcan en los títulos de las concesiones respectivas.
-
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 158.
 
-Los servicios de carga y express se prestarán por los concesionarios desde el domicilio de los remitentes hasta el de los destinatarios, si así se hubiere estipulado en la carta de porte, y a falta de estipulación de terminal a terminal estos servicios se realizarán exclusiva y continuadamente por las tripulaciones y en los vehículos de los mismos concesionarios que los lleven a cabo sin perjuicio de lo dispuesto en la Fracción V del Artculo (sic) anterior.
-
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 159.
 
-Las sociedades a que se refiere la Fracción II del Artículo 152, se organizarán conforme a las siguientes bases:
-
-I.- Podrán constituirse conforme a las Leyes del país con la excepción que se hace en la Fracción I del Artículo 152.
-
-II.- Sin perjuicio de lo dispuesto en los párrafos segundo y tercero de la Fracción III del mismo Artículo, agruparán a los concesionarios que efectúen la misma clase de servicio en una ruta o tramo.
-
-III.- Tendrán, por objeto, entre otros que estipulen los interesados o que determine la Secretaría de Comunicaciones y Obras Públicas la explotación del servicio o servicios de que se trate, de acuerdo con los itinerarios, tarifas, honorarios, capacidad, forma y demás circunstancias que establezca la misma Secretaría para la mayor eficacia, seguridad, regularidad, permanencia, economía y coordinación del servicio o servicios aludidos.
-
-IV.- Estarán administradas en los términos que estable(sic) la Ley de la materia, pero en todo caso la minoría, que representen cuando menos un 25% de los concesionarios que constituyen la sociedad, tendrá derecho a designar un Consejero.
-
-V.- Los socios tendrán derecho, en proporción a sus respectivas aportaciones, para acordar los aumentos de capital que fueren necesarios, a efecto de dar cumplimiento a lo dispuesto en las Fracciones II y III del Artículo 160 de esta Ley.
-
-VI.- El proyecto de escritura constitutiva deberá ser previamente autorizado por la Secretaría de Comunicaciones y Obras Públicas y una vez extendida la escritura, será inscrita en el registro especial que llevará la misma Secretaría y en los demás que prevengan las Leyes.
-
-Las sociedades cooperativas se constituirán y administrarán en los términos de la Ley de la materia.
-
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 160.
 
-La Secretaría de Comunicaciones y Obras Públicas estará facultada, en todo tiempo, para modificar las clases de servicios y el número de vehículos que operen en una ruta o tramo, así como su capacidad, peso y demás especificaciones, tomando en cuenta los dictámenes de la Comisión Técnica Consultiva, a que se refiere la Fracción IV del Artículo 8º. si fuere procedente aumentar el número de vehículos en cualquiera de los servicios a que se refiere la Fracción II del Artículo 152, se observarán las reglas siguientes:
-
-I.- Si el servicio fuere prestado solamente por una persona física, deberá otorgarse a dicha persona la concesión correspondiente, si así lo solicitare y si el número total de vehículos que debiere operar no excediera de cinco.
-
-II.- La sociedad constituída para explotar el servicio de que se trate y la que fuere concesionaria en los términos de la segunda parte de la Fracción IV del Artículo 152, tendrán la obligación a la vez que el derecho, de aumentar, previo el otorgamiento de la concesión correspondiente, el número de vehículos que fuere necesario.
-
-III.- La misma obligación tendrán las sociedades que exploten dos o más servicios cuando la necesidad se presente en la relación con cualquiera de los servicios que proporcionen.
-
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 161.
 
-Las sociedades que se constituyen conforme al Artículo 159, serán solidariamente responsables con los concesionarios por el cumplimiento de sus obligaciones y en ningún caso podrán eludir o limitar esta responsabilidad.
-
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 162.
 
-Para auxiliar en sus labores a la Comisión Técnica Consultativa de Vías Generales de Comunicación, la Secretaría de Comunicaciones y Obras Públicas creará un cuerpo técnico que se encargará de realizar los estudios económicos generales de las distintas regiones del país, de estudiar las necesidades de transporte en esas mismas zonas y el número de vehículos necesario para satisfacerlos, de determinar las posibilidades de coordinación con otros tipos de transporte, de estudiar y proponer la forma y característica del transporte para cada zona, de concentrar y elaborar los datos estadísticos necesarios para realizar los trabajos mencionados y de los demás estudios que la Comisión y Secretaría de que se trata le encomienden.
-
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 163.
 
-Las concesiones para la explotación de servicios públicos de autotransportes en caminos de jurisdicción federal, caducarán o serán rescindidas por las mismas causas que se establecen en el Capítulo V, Libro Primero de esta Ley, de acuerdo con el procedimiento que la misma y su Reglamento determinen.
-
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 164.
 
-En el Reglamento de esta Ley se consignarán las normas a que deberá sujetarse cada uno de los servicios a que se refiere la fracción II del Artículo 152, así como las disposiciones relativas al tránsito de vehículos particulares extranjeros y de los que presten exclusivamente servicio de turismo internacional por los caminos de jurisdicción federal.
-
-La reglamentación del servicio exclusivo de turismo a que se refiere el inciso c) de la Fracción II del Artículo 1552 (sic), se sujetará a las siguientes bases:
-
-a).- Sólo se prestará hacia puntos de interés turístico o entre puntos de ese interés catalogados como tales por la Comisión Nacional de Turismo o por Decreto del Ejecutivo.
-
-b).- Se realizará exclusivamente entre los puntos extremos autorizados en la concesión y, por consiguiente, no se prestará entre poblaciones intermedias o para esos puntos.
-
-c).- Los vehículos que se empleen satisfarán (sic), en cuanto a celeridad, comodidad, seguridad, y operación las características que señale el Reglamento.
-
-d).- Las cuotas que se cobren serán proporcionadas a la calidad del equipo y del servicio, así como a los demás factores atendibles para determinar las tarifas, de acuerdo con las características que la Secretaría de Comunicaciones y Obras Públicas prescriba para la ruta de que se trate.
-
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1948)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 165.
 
-Las terminales de los vehículos destinados al servicio público de autotransporte y las oficinas de las sociedades de que trata el Artículo 159 y las de los concesionarios, en sus caso, así como las estaciones intermedias y locales de los servicios anexos, serán centros de carácter oficial en los cuales la Secretaría de Comunicaciones y Obras Públicas podrá instalar inspectores que vigilen la observancia de esta Ley y su Reglamento.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ## TITULO TERCERO. Puentes
 
@@ -1576,31 +1304,15 @@ Las terminales de los vehículos destinados al servicio público de autotranspor
 
 ###### ARTICULO 166.
 
-El otorgamiento de concesiones para la construcción, reconstrucción y explotación de puentes, se regirá por lo dispuesto en este Libro para los caminos en todo lo que sea aplicable, y, demás, por las siguientes prescripciones:
-
-I.- Los interesados acompañarán a su solicitud el plano topográfico de la localización y el croquis de la obra, debidamente acotados, así como la memoria descriptiva de la misma;
-
-II.- Las concesiones para construir y explotar puentes que formen parte de camino particulares, se otorgarán por el mismo plazo señalado en la concesión del camino;
-
-> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 1943)</small>
-
-III.- Los permisos para construir y explotar puentes de carácter provisional, podrán otorgarse por el término improrrogable de cinco años como máximo.
-
-IV.- En las concesiones se señalará el plazo en que deban presentarse los planos definitivos de la obra;
-
-V.- Las tarifas para la explotación de puentes fijarán cuotas individuales, y las relativas a vehículos se fijarán tomando como base su capacidad y medio de tracción;
-
-VI.- El establecimiento de servicios de transporte por los puentes construidos en virtud de concesión federal y que den servicio a caminos locales o vecinales, se sujetará a las disposiciones que las autoridades correspondientes dicten para los caminos de que formen parte, y
-
-VII.- En el otorgamiento de estas concesiones, se oirá la opinión de la Secretaría de Agricultura y Fomento, por lo que respecta a las condiciones hidráulicas que deban satisfacer para no alterar el régimen de las aguas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 167.
 
-La construcción y explotación de puentes sobre las corrientes que sirvan de límite al territorio nacional, se hará preferentemente por cuenta del Gobierno Federal, con objeto de establecer el libre paso en dichos puentes, a cuyo efecto se procurará obtener el establecimiento de iguales condiciones en la Nación vecina de que se trate.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 168.
 
-Sólo en caso de que el Gobierno Federal no está capacitado para realizar las obras de que trata el artículo anterior o de que no se llegue a un arreglo respecto a la parte no mexicana de esos puentes, se podrán otorgar concesiones a particulares para la construcción y explotación de los mismos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 # LIBRO TERCERO. Comunicaciones por Agua
 
@@ -4288,7 +4000,7 @@ Ojetos (sic) prohibidos
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 523.
 
@@ -4324,8 +4036,6 @@ La expedición o aplicación de horarios, tarifas y demás documentos relacionad
 
 El que indebidamente autorice o contrate servicios conforme a tarifas distintas de las aplicables al caso, será castigado con multa de cien a quinientos pesos por cada infracción. Si con el fin de ocultar la infracción se asentaren partidas falsas en los libros o se expidiere carta de portes u otro documento igualmente falso, la pena será de dos meses a dos años de prisión y multa de cien a mil pesos.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 ###### ARTICULO 529.
 
 Se impondrá multa de cincuenta a quinientos pesos por cada infracción:
@@ -4334,21 +4044,15 @@ I.- A las empresas que no cumplan con la obligación de publicar sus tarifas com
 
 II.- A las empresas que se nieguen a establecer tarifas unidas y en virtud de esa negativa, continúen aplicando tarifas locales.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 ###### ARTICULO 530.
 
 Los errores en la aplicación de las tarifas no están comprendidos en las disposiciones penales de esta ley; pero las empresas estarán obligadas a devolver lo que hayan cobrado indebidamente y si se rehusaren a hacerlo, se les impondrá multa de cincuenta a dos mil pesos, a juicio de la Secretaría de Comunicaciones.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 531.
 
 El que sin la debida autorización de la empresa vendiere o enajenare por cualquier título un boleto personal, incurrirá en multa de veinte a cincuenta pesos por cada boleto enajenado.
 
 Si además, se alterase el nombre de la persona a quien originariamente se hubiere expedido el boleto, se aplicará la pena de un mes a un año de prisión o multa de cincuenta a doscientos pesos.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 532.
 
@@ -4364,21 +4068,15 @@ Los que dañen, perjudiquen o destruyan las vías generales de comunicación, o 
 
 Si el delito fuere cometido por imprudencia con motivo del tránsito de vehículos por carretera, aquél sólo se perseguirá por querella, la cual únicamente podrá formularse cuando no se repare el daño en un plazo de treinta días naturales. En este caso, el delito se sancionará con multa hasta por el valor del daño causado más la reparación de éste.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 ###### ARTICULO 534.
 
 El que indebidamente y sin el propósito de interrumpir o perjudicar las vías generales de comunicación arroje en ellas cualquier obstáculo, impida sus desagües, descargue aguas, tale, pode o maltrate los árboles del derecho de vía, incurrirá en multa de veinticinco a doscientos pesos.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 535.
 
 A los conductores de toda clase de vehículos que manejen o tripulen estos en vías generales de comunicación sin haber obtenido los certificados de capacidad física y aptitud o sin las licencias exigidas por la ley, se les aplicará por la primera infracción multa hasta de mil pesos. En casos de reincidencia incurrirán en la pena de quince días a un año de prisión.
 
 En las mismas penas incurrirá el empresario o dueño del vehículo que autorice o consienta su manejo o tripulación sin que el conductor posea los certificados y licencias mencionados en dicho artículo.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
 
@@ -4398,61 +4096,21 @@ Al que coloque intencionalmente señales que puedan ocasionar la pérdida o grav
 
 Si se ocasionaren los accidentes mencionados, se aplicarán las reglas de acumulación con el delito o delitos que resulten consumados.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
 ###### ARTICULO 537.
 
-Los conductores y demás tripulantes que intervengan en el manejo de vehículos, si realizan sus actividades en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra sustancia que produzca efectos similares, serán sancionados con treinta a noventa días de trabajo en favor de la comunidad o multa de treinta a noventa días de salario mínimo vigente en el Distrito Federal, área metropolitana. La sanción se duplicará cuando se transporten personas en un vehículo que dé servicio colectivo, aun cuando no se hubiesen cubierto los requisitos que para la prestación del mismo se exigen.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1975)</small>
-
-Los operadores de autobuses cuando transporten pasajeros en carreteras federales, que rebase la velocidad de 95 kilómetros por hora, serán sancionados en los siguientes términos:
-
-> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-I.- Por la primera infracción se aplicará multa por veinte días de salario mínimo vigente en el Distrito Federal, área metropolitana.
-
-> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
-
-II.- Por la segunda infracción se aplicará multa por cuarenta días de salario mínimo vigente en el Distrito Federal, área metropolitana.
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1975)</small>
-
-III.- Por la tercera infracción, se cancelará la licencia para conducir autobuses de autotransporte de pasajeros de servicio público federal.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1975)</small>
-
-Los operadores de autobuses que cometan las infracciones señaladas en las fracciones I y II de este artículo, no podrán volver a conducir hasta en tanto cubran el importe de la multa impuesta.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1975)</small>
-
-La Secretaría de Comunicaciones y Transportes, en forma inmediata deberá poner en conocimiento del concesionario o permisionario la infracción impuesta al operador, y en su caso, el pago de la multa.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1975)</small>
-
-El concesionario o permisionario estará obligado a pagar un tanto igual a la multa impuesta al infractor, en el caso de que permita que dicho operador conduzca sin haber hecho el pago de la infracción correspondiente.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 538.
 
-El monto de las sanciones administrativas que se impongan a los conductores de vehículos con motivo del manejo de éstos será garantizado con el valor de los propios vehículos o mediante el otorgamiento de fianza suficiente para responder de las mismas. En caso de que la garantía sea el vehículo podrá entregarse en depósito a su conductor o a su legítimo propietario, quienes deberán presentarlo ante la autoridad competente cuando ésta lo solicite. En el supuesto de que los vehículos se encuentren involucrados en la comisión de un delito se procederá conforme a las disposiciones penales respectivas.
-
-> <small>N. DE E. EL TEXTO DEL PRESENTE PARRAFO SE TRANSCRIBE INCOMPLETO EN VIRTUD DE LO ILEGIBLE EN LA IMPRESION DE LA PAGINA 43 DEL DIARIO OFICIAL DE FECHA 24 DE DICIEMBRE DE 1986.</small>
-
-El propietario del vehículo dispondrá de un plazo de un año contado a partir de la fecha en que se cometió la infracción para cubrir las multas impuestas o los gastos a que hubiere lugar; en caso contrario, se formulará la liquidación de las cantidades que por concepto de sanciones o gastos deban cubrirse por el infractor y junto con el vehículo se consignarán a la Secretaría de Hacienda y Crédito Público para que proceda a su remate. Con el producto del mismo se hará el pago de las multas y gastos que la autoridad (sic) … el remanente se pondrá a disposición del propietario del mismo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 539.
 
-A los propietarios de vehículos particulares que hagan en éstos servicio de transporte de pasajeros o de carga, sin contar con la concesión o permiso respectivo en los términos de esta ley, se les impondrá como pena la pérdida del vehículo y una multa de cincuenta a cinco mil pesos, a juicio de la Secretaría de Comunicaciones.
-
-En este caso se seguirá el procedimiento que indica el artículo 524 de esta ley.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 540.
 
-A las empresas de vías generales de comunicación y medios de transporte, que se nieguen a enlazar sus líneas, dentro del plazo que fije la Secretaría de Comunicaciones, se les impondrá una multa hasta de diez pesos diarios en el primer mes, hasta de cien pesos en el segundo y hasta de doscientos pesos diarios en el tercero y en los siguientes, por todo el tiempo de la desobediencia, sin perjuicio de que si la Secretaría lo estima conveniente, se aplique el procedimiento señalado en el artículo 47 para la ejecución de las obras necesarias.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 541.
 
@@ -4628,23 +4286,17 @@ I.- A los propietarios, poseedores u operadores de aeronaves de servicio privado
 
 II.- A los propietarios, poseedores u operadores de aeronaves de servicio privado, destinadas a aplicaciones científicas de la aviación civil, por preferir a extranjeros respecto de mexicanos, para la realización de tales trabajos.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 559.
 
 Se impondrá multa de doscientos cincuenta a veinticinco mil pesos o prisión de seis meses a cinco años, a todo aquel que obstruya u obstaculice en cualquier forma o lo permita, las pistas, andenes y demás lugares de tránsito de los aeródromos.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 560.
 
 Se impondrá multa de doscientos cincuenta a veinticinco mil pesos y prisión de seis meses a cinco años, a todo aquel que inunde o por negligencia permita que se inunde un aeródromo en todo o en parte.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -4682,8 +4334,6 @@ II.- Al piloto, comandante o miembro de la tripulación en los casos de las frac
 
 III.- Al piloto o comandante, en los casos de las fracciones XI y XIV, con suspensión hasta por seis meses de la licencia respectiva.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 566.
@@ -4720,8 +4370,6 @@ Se impondrá multa de cincuenta a cinco mil pesos o prisión hasta por seis mese
 
 Se aplicarán a la navegación aérea, en su caso, las disposiciones del Código Penal para el Distrito Federal relativas a la piratería.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 ###### ARTICULO 571.
 
 Se castigará con la pena que señala el Código Penal para el delito de revelación de secretos, al que indebidamente y en perjuicio de otro, intercepte, divulgue, revele o aproveche los mensajes, noticias o informaciones que escuche y que no estén destinados a él o al público en general.
@@ -4734,31 +4382,21 @@ Las personas que hagan uso de los servicios telegráficos y radiotelegráficos p
 
 Las Oficinas de Comunicaciones Eléctricas sólo trasmitirán ese género de comunicaciones cuando provengan de agencias de noticias que acrediten ante la Dirección General de Correos y Telégrafos, tener contratada la adquisición de noticias internacionales.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 ###### ARTICULO 573.
 
 Se impondrá multa de veinticinco a cien pesos o prisión de ocho días a un mes, al que indebidamente y no de manera habitual, realice el servicio de transporte o distribución de correspondencia reservado al Gobierno Federal.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 574.
 
 Al que indebidamente y con el carácter de empresario establezca o desempeñe el transporte o distribución a que se refiere el artículo anterior, se le impondrán de uno a tres años de prisión y multa de cincuenta a cinco mil pesos. En la misma pena incurrirá quien indebidamente explote servicios públicos de correspondencia por los sistemas de comunicación eléctrica que están reservados exclusivamente al Gobierno Federal.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 ###### ARTICULO 575.
 
 Al que emplee los servicios de correspondencia indebidamente desempeñados por las empresas o personas citadas en los dos artículos anteriores, se le impondrá multa de veinticinco a cien pesos o prisión de ocho días a un mes.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 ###### ARTICULO 576.
 
 Se aplicará de un mes a un año de prisión o multa de cincuenta a mil pesos al que indebidamente abra, destruya o substraiga alguna pieza de correspondencia cerrada, confiada al Correo.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 577.
 
@@ -4812,8 +4450,6 @@ En el caso de que los delitos a que se refieren los artículos 580, 581 y 582, f
 
 Se impondrán de quince días a dos años de prisión al que indebidamente dificulte, retarde o detenga el curso de las correspondencias en una vía de comunicación, o de cualquiera manera impida el libre y preferente transporte de las mismas.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 ###### ARTICULO 587.
 
 El que utilice en asuntos extraños al servicio postal, los pases y demás útiles destinados al uso exclusivo del Correo, será castigado con multa de cinco a cien pesos.
@@ -4825,8 +4461,6 @@ Los funcionarios o empleados de Correos y Telégrafos que utilicen en asuntos ex
 ###### ARTICULO 589.
 
 Las órdenes de prisión dictadas contra empleados del Correo y del Telégrafo que manejen fondos públicos, no podrán ser ejecutadas antes de que los empleados hagan entrega formal de los fondos y valores que estuvieren a su cuidado, así como de los comprobantes relativos a su cuenta, sin perjuicio de asegurar convenientemente al responsable.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -5179,3 +4813,21 @@ II. Los artículos 9o., fracciones I, incisos f), g) y h), y IV; 11; 14-H; 14-I;
 III. Todas las disposiciones que se opongan a lo previsto en esta ley.
 
 Se deja sin efectos el artículo 110 de la Ley de Vías Generales de Comunicación sólo por lo que hace a puertos, terminales, marinas e instalaciones portuarias, así como a servicios portuarios.
+
+D.O.F. 22 DE DICIEMBRE DE 1993.
+
+LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga la Ley sobre Construcción de Caminos en Cooperación con los Estados, publicada en el Diario Oficial de la Federación el 8 de mayo de 1934.
+
+TERCERO.- Se derogan los artículos 1o., fracciones VI y VII; 8o., párrafos segundo a cuarto; 9o., fracciones VII y VIII; 21 a 28; 39; 85; 87; 88; 90; 91; 97; 98; 100 a 105; 109; 128; 146 a 168 y 537 a 540 de la Ley de Vías Generales de Comunicación; y las demás disposiciones que se opongan a la presente Ley.
+
+A partir de la entrada en vigor de la presente Ley, se dejan sin efecto únicamente por lo que se refiere a las materias reguladas en la misma, los artículos 3o. a 5o.; 10; 12 a 20; 29 a 38; 40 a 84; 86; 89; 92 a 96; 99; 110; 116 a 124; 126; 127; 523 a 532; 535 y 541 de la Ley de Vías Generales de Comunicación.
+
+SEXTO.- Las concesiones y permisos otorgados con anterioridad a la entrada en vigor de la presente Ley, continuarán en vigor en los términos y condiciones consignados en los mismos, hasta el término de su vigencia.
+
+Por lo que se refiere a las concesiones y permisos en trámite se estará a lo dispuesto en la Ley de Vías Generales de Comunicación.
