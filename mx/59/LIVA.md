@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1997-05-15"
+last_updated: "1997-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1997.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -162,15 +162,15 @@ Los actos o actividades a los que se les aplica la tasa del 0%, producirán los 
 
 (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 2o-C.
 
-Las personas físicas con actividades empresariales que únicamente enajenen bienes o presten servicios al público en general no estarán obligadas al pago del impuesto por dichas actividades, siempre que en el año de calendario anterior hayan obtenido ingresos por estas actividades y tenido o utilizado activos que no excedan, respectivamente, de una cantidad equivalente a 77 y 15 veces el salario mínimo general del área geográfica del contribuyente elevado al año. El valor de los activos se determinará de conformidad con la Ley del Impuesto al Activo.
+Las personas físicas con actividades empresariales que únicamente enajenen bienes o presten servicios al público en general, no estarán obligadas al pago del impuesto por dichas actividades, siempre que en el año de calendario anterior hayan obtenido ingresos que no excedan de $1'000,000.00 por dichas actividades. La cantidad a que se refiere este párrafo se actualizará anualmente, en el mes de enero, en los términos del artículo 17-A del Código Fiscal de la Federación.
 
-Asimismo, estarán sujetos a lo previsto en este artículo las personas físicas que se dediquen a actividades agrícolas, silvícolas o pesqueras, no obstante que la totalidad o parte de sus actos o actividades no las realicen con el público en general, debiendo reunir, en todo caso, los requisitos de los límites de ingresos y activos a que se refiere el párrafo anterior.
+Asimismo, estarán sujetas a lo previsto en este artículo las personas físicas que se dediquen a actividades agrícolas, silvícolas o pesqueras, no obstante que la totalidad o parte de sus actos o actividades no las realicen con el público en general, debiendo reunir, en todo caso, el requisito de límite de ingresos a que se refiere el párrafo anterior.
 
-Los contribuyentes a que se refiere este artículo estarán obligados a recabar y conservar la documentación comprobatoria de las adquisiciones que efectúen.
+Las personas a que se refiere este artículo estarán obligadas a recabar y conservar la documentación comprobatoria de las adquisiciones que efectúen, en los casos en que lo estén de conformidad con lo dispuesto en la Ley del Impuesto sobre la Renta.
 
 ###### ARTICULO 2o.- D.
 
@@ -216,9 +216,9 @@ Cuando se esté obligado al pago del impuesto al valor agregado o cuando sea apl
 
 II.- Que haya sido trasladado expresamente al contribuyente y que conste por separado en los comprobantes a que se refiere la fracción III del artículo 32 de esta Ley.
 
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-III.- Que hayan sido efectivamente erogados los pagos por la adquisición de bienes o servicios de que se trate, en los términos de los artículos 24, fracción IX y 136, fracción X de la Ley del Impuesto sobre la Renta, cuando el impuesto haya sido trasladado por contribuyentes sujetos al régimen establecido en el Título II-A o en la Sección II, del Capítulo VI, del Título IV, de la citada Ley.
+III.- Que hayan sido efectivamente erogados los pagos por la adquisición de bienes o servicios de que se trate, en los términos de los artículos 24, fracción IX y 136, fracción X de la Ley del Impuesto sobre la Renta, cuando el impuesto haya sido trasladado por contribuyentes sujetos a los regímenes establecidos en el Título II-A o en las Secciones II y III del Capítulo VI del Título IV de la citada Ley.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -237,6 +237,14 @@ Los contribuyentes sujetos al régimen establecido en el Título II-A o en la Se
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 Los contribuyentes que en los términos de los artículos 67-G y 119-J de la Ley del Impuesto sobre la Renta, dejen de tributar conforme al régimen simplificado o al régimen simplificado a las actividades empresariales, para hacerlo de conformidad con el Título II o Título IV, Capítulo VI, Sección I de la citada Ley, acreditarán o, en su caso, trasladarán el impuesto derivado de las operaciones a crédito efectuadas con anterioridad a la fecha en que dejaron de tributar en los citados regímenes, que no se hayan considerado como entradas o salidas en los mismos, en la fecha en que efectivamente se efectúe su pago o cobro, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 4o-B.
+
+Los contribuyentes sujetos al régimen establecido en la Sección III del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta, deberán expedir la documentación comprobatoria de sus actividades en la fecha en la que efectivamente se cobren los bienes enajenados o los servicios prestados.
+
+Los contribuyentes que dejen de tributar conforme al régimen señalado, para hacerlo de conformidad con el Título IV, Capítulo VI, Sección I, de la citada Ley, trasladarán el impuesto derivado de las operaciones a crédito efectuadas con anterioridad a la fecha en que dejaron de tributar en dicho régimen, que no hayan considerado como ingreso, en la fecha en que efectivamente se efectúe su cobro.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -358,9 +366,25 @@ Para calcular el impuesto tratándose de enajenaciones se considerará como valo
 
 Cuando el precio pactado sea cierto y determinable con posterioridad, el impuesto se pagará hasta que pueda ser determinado; si únicamente parte del precio es determinable con posterioridad, sólo el impuesto correspondiente a dicha parte se diferirá. Los intereses moratorios y penas convencionales, darán lugar al pago del impuesto en el mes en que se paguen.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-En las enajenaciones a plazo en los términos del Código Fiscal de la Federación, se podrá diferir el impuesto de conformidad con el Reglamento de esta Ley. Tratándose de arrendamiento financiero, el impuesto que podrá diferirse en los términos del Reglamento de esta Ley, será el que corresponda al monto de los pagos por concepto de intereses.
+En las enajenaciones a plazo en los términos del Código Fiscal de la Federación, el impuesto correspondiente al valor de la enajenación excluyendo intereses, se podrá diferir conforme sean efectivamente recibidos los pagos; el impuesto que corresponda a los intereses se podrá diferir al mes en que éstos sean exigibles. Tratándose de arrendamiento financiero, el impuesto que podrá diferirse, será el que corresponda al monto de los pagos por concepto de intereses conforme éstos sean exigibles.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+Para los efectos del párrafo anterior, cuando la exigibilidad de los intereses sea mensual y no se reciba el pago de los mismos durante un periodo de tres meses consecutivos, el contribuyente podrá, a partir del cuarto mes, diferir el impuesto de los intereses exigibles no cobrados, a partir de dicho mes y hasta el mes en que efectivamente se reciba el pago de los mismos. A partir del mes en que se reciba el pago total de los intereses exigibles no cobrados a que se refiere este párrafo, el impuesto correspondiente a los intereses que posteriormente se generen, se causará en el mes en que éstos sean exigibles.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+Cuando los intereses a que se refieren los dos párrafos anteriores, sean exigibles por periodos mayores a un mes y no se reciba el pago de los mismos durante un periodo consecutivo de tres meses, el contribuyente podrá diferir el impuesto de los intereses exigibles no cobrados a partir del cuarto mes, hasta el mes en que efectivamente se reciba el pago de los mismos. A partir del mes en que se reciba el pago total de los intereses exigibles no cobrados a que se refiere este párrafo, el impuesto correspondiente a los intereses que posteriormente se generen, se causará conforme éstos sean exigibles.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+Tratándose de arrendamiento financiero sólo será aplicable lo dispuesto en los dos párrafos anteriores en el caso de operaciones efectuadas con el público en general.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+Lo dispuesto en los párrafos tercero a sexto de este artículo, será aplicable siempre que el contribuyente no haya optado por considerar como ingreso obtenido en el ejercicio el total del precio pactado, conforme a lo dispuesto por el artículo 16, fracción III de la Ley del Impuesto sobre la Renta.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -452,9 +476,9 @@ X.- Por los que deriven intereses que:
 
 a).- Deriven de operaciones en las que el enajenante, el prestador del servicio o quien conceda el uso o goce temporal de bienes, proporcione financiamiento relacionado con actos o actividades por los que no se esté obligado al pago de este impuesto o a los que se les aplique la tasa del 0%.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-b).- Reciban o paguen las instituciones de crédito, las uniones de crédito, las sociedades financieras de objeto limitado y las empresas de factoraje financiero, en operaciones de financiamiento, para las que requieran de autorización y por concepto de descuento en documentos pendientes de cobro, así como las comisiones de los agentes y corresponsales de las instituciones de crédito por dichas operaciones.
+b).- Reciban o paguen las instituciones de crédito, las uniones de crédito, las sociedades financieras de objeto limitado, las sociedades de ahorro y préstamo y las empresas de factoraje financiero, en operaciones de financiamiento, para las que requieran de autorización y por concepto de descuento en documentos pendientes de cobro; los que reciban los almacenes generales de depósito por créditos otorgados que hayan sido garantizados con bonos de prenda; así como las comisiones de los agentes y corresponsales de las instituciones de crédito por dichas operaciones.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -468,9 +492,9 @@ Tampoco será aplicable la exención prevista en el primer párrafo de este inci
 
 c).- Reciban las instituciones de fianzas, las de seguros y las sociedades mutualistas de seguros, en operaciones de financiamiento, excepto tratándose de créditos otorgados a personas físicas que no gozarían de la exención prevista en el inciso anterior.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-d).- Provengan de créditos hipotecarios para la adquisición, ampliación, construcción o reparación de bienes inmuebles destinados a casa habitación.
+d).- Provengan de créditos hipotecarios o con garantía fiduciaria para la adquisición, ampliación, construcción o reparación de bienes inmuebles destinados a casa habitación.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -580,31 +604,53 @@ En el caso de mutuo y otras operaciones de financiamiento, se considerará como 
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 18-A.
 
-Se considerará como valor para los efectos del cálculo del impuesto, el valor real de los intereses devengados cuando éstos deriven de créditos relacionados con actos o actividades gravados por esta Ley otorgados por las instituciones del sistema financiero a que se refiere el artículo 7o.-B, fracción III, último párrafo de la Ley del Impuesto sobre la Renta; de créditos otorgados a través de contratos de apertura de crédito o cuenta corriente en los que el acreditado o cuentacorrentista pueda disponer del crédito mediante el uso de tarjetas expedidas por el acreedor; de enajenaciones con pago diferido del precio por los que se generen intereses, y de operaciones de arrendamiento financiero.
+Se considerará como valor para los efectos del cálculo del impuesto, el valor real de los intereses devengados cuando éstos deriven de créditos otorgados por las instituciones del sistema financiero a que se refiere el artículo 7o.-B, fracción III, último párrafo de la Ley del Impuesto sobre la Renta; en créditos otorgados a través de contratos de apertura de crédito o cuenta corriente en los que el acreditado o cuentacorrentista pueda disponer del crédito mediante el uso de tarjetas expedidas por el acreedor; de enajenaciones a plazo en los términos del Código Fiscal de la Federación por las que se generen intereses y de operaciones de arrendamiento financiero, cuando se opte por diferir el impuesto que corresponda a los intereses hasta el mes en que sean exigibles.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 En el caso de las operaciones a que se refiere este artículo, las comisiones que se cobren al deudor, acreditado, cuentacorrentista o arrendatario, por la disposición de dinero en efectivo o por cualquier otro concepto y las penas convencionales, excepto los intereses moratorios, no se considerarán como parte de los intereses devengados.
 
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
 El valor real de los intereses devengados, se determinará conforme a lo siguiente:
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 I. Cuando la operación de que se trate esté denominada en moneda nacional o extranjera, el valor real de los intereses se calculará aplicando a la base sobre la cual se calcularon los intereses devengados, la tasa real de interés, de conformidad con lo siguiente:
 
 a) La tasa real de interés se calculará restando, a la tasa de interés que corresponda al periodo de que se trate, la inflación del mismo periodo. La inflación se calculará dividiendo el valor de la unidad de inversión determinado por el Banco de México para el último día del periodo, entre el valor de la unidad de inversión para el día inmediato anterior al primer día del periodo, y restando del cociente la unidad.
 
-b) Cuando la operación de crédito se encuentre pactada en moneda extranjera, la ganancia cambiaria devengada en el periodo de que se trate, expresada como proporción del saldo promedio del principal en el mismo periodo, se sumará a la tasa de interés correspondiente al mismo periodo. Para expresar la ganancia cambiaria devengada en el periodo de que se trate como proporción del saldo promedio del principal en el mismo periodo, se dividirá aquélla en moneda nacional, entre dicho saldo promedio convertido a moneda nacional al tipo de cambio que el Banco de México publique en el Diario Oficial de la Federación para el primer día del período de causación de los intereses. En el caso de que el Banco de México no publique dicho tipo de cambio, se aplicará el último tipo de cambio publicado por dicha institución antes de esa fecha. El saldo promedio del principal será la suma de los saldos diarios del principal en el periodo, dividida entre el número de días comprendidos en el mismo periodo de causación.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+b) Cuando la operación de crédito se encuentre pactada en moneda extranjera, la ganancia cambiaria devengada en el periodo de que se trate, expresada como proporción del saldo promedio del principal en el mismo periodo, se sumará a la tasa de interés correspondiente al mismo periodo. Para expresar la ganancia cambiaria devengada en el periodo de que se trate como proporción del saldo promedio del principal en el mismo periodo, se dividirá aquélla en moneda nacional, entre dicho saldo promedio convertido a moneda nacional al tipo de cambio que el Banco de México publique en el Diario Oficial de la Federación para el último día del periodo de causación de los intereses. En el caso de que el Banco de México no publique dicho tipo de cambio, se aplicará el último tipo de cambio publicado por dicha institución antes de esa fecha. El saldo promedio del principal será la suma de los saldos diarios del principal en el periodo, dividida entre el número de días comprendidos en el mismo periodo de causación.
 
 Cuando en el periodo de causación de los intereses, el resultado de sumar la tasa de interés que corresponda al periodo y la ganancia cambiaria devengada en el mismo periodo expresada en los términos del párrafo anterior, sea igual o menor a la inflación del periodo, no se causará el impuesto durante el mencionado periodo.
 
 En el caso de que la tasa de interés que corresponda al periodo esté expresada en por ciento, se deberá dividir entre cien antes de efectuar las sumas y resta, mencionadas en los párrafos anteriores.
 
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
 II. Cuando las operaciones de que se trate se encuentren denominadas en unidades de inversión, el valor real de los intereses, serán los intereses devengados en el periodo, sin considerar el ajuste que corresponda al principal por el hecho de estar denominados en las citadas unidades.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 Tratándose de las operaciones a que se refiere este artículo, en las que los periodos de causación de los intereses sean mensuales o menores a un mes, y en dichos periodos no se encuentre fijado por el Banco de México el valor de la unidad de inversión para el último día del periodo de causación de los intereses, los contribuyentes considerarán el valor de la unidad de inversión determinado por el Banco de México para los días correspondientes al periodo inmediato anterior e igual en duración al de causación de los intereses.
 
-En las enajenaciones de bienes con pago diferido del precio en las que en los términos de este artículo, se pague el impuesto al valor agregado solamente sobre el valor real de los intereses devengados derivados de dichas operaciones, no se podrá diferir el impuesto sobre el precio de enajenación de los bienes, en los términos del párrafo tercero del artículo 12 de esta Ley.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+En las enajenaciones de bienes a plazo en los términos del Código Fiscal de la Federación, cuando se opte por diferir el impuesto que corresponda a los intereses hasta el mes en que sean exigibles, se estará a lo dispuesto en este artículo, únicamente cuando se pague el impuesto sobre el total del precio pactado en el momento en que se efectúa la enajenación.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+Cuando no se reciba el pago de los intereses devengados mensualmente durante un periodo de tres meses consecutivos, el contribuyente podrá, a partir del cuarto mes, diferir el impuesto de los intereses que se devenguen a partir de dicho mes, hasta el mes en que efectivamente reciba el pago de los mismos. A partir del mes en el que se reciba el pago total de los intereses devengados no cobrados a que se refiere este párrafo, el impuesto correspondiente a los intereses que posteriormente se devenguen, se causará en el mes en que éstos se devenguen. Tratándose de arrendamiento financiero sólo será aplicable lo dispuesto en este párrafo en el caso de operaciones efectuadas con el público en general.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+Tratándose de operaciones de crédito o de arrendamiento financiero, pactadas en moneda extranjera celebradas con el público en general, podrá optarse por considerar como valor para los efectos del cálculo del impuesto, en lugar del valor real de los intereses devengados a que se refiere este artículo, el valor de los intereses devengados. Cuando se ejerza esta opción por un crédito en lo individual, no podrá cambiarse la misma durante la vigencia de dicho crédito.
 
 ### CAPITULO IV. DEL USO O GOCE TEMPORAL DE BIENES
 
@@ -617,6 +663,10 @@ Para los efectos de esta Ley se entiende por uso o goce temporal de bienes, el a
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 Se dará el tratamiento que está Ley establece para el uso o goce temporal de bienes, a la prestación del servicio de tiempo compartido.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+Se considera prestación del servicio de tiempo compartido, independientemente del nombre o de la forma que se dé, al acto jurídico correspondiente, consistente en poner a disposición de una persona o grupo de personas, directamente o a través de un tercero, el uso, goce o demás derechos que se convengan sobre un bien o parte del mismo, en una unidad variable dentro de una clase determinada, por periodos previamente convenidos mediante el pago de una cantidad o la adquisición de acciones o partes sociales de una persona moral, sin que en este último caso se trasmitan los activos de la persona moral de que se trate.
 
 ###### ARTICULO 20.
 
@@ -703,6 +753,10 @@ VI.- Las de obras de arte creadas en el extranjero por mexicanos o residentes en
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 VII.- Oro, con un contenido mínimo de dicho material del 80%.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+VIII.- La de vehículos, que se realice de conformidad con el artículo 62, fracción I de la Ley Aduanera, siempre que se cumpla con los requisitos y condiciones que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
 ###### ARTICULO 26.
 
@@ -888,6 +942,10 @@ En el caso de que los ingresos deriven de actos o actividades que realice una su
 
 Tratándose de servicios personales independientes prestados a través de una asociación o sociedad civil, será ésta la que a nombre de los asociados o socios cumpla con las obligaciones señaladas en esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+Las personas físicas a que se refiere la Sección III, Capítulo VI, Título IV de la Ley del Impuesto sobre la Renta, que únicamente enajenen bienes o presten servicios al público en general, que en el año de calendario anterior hayan obtenido ingresos mayores de $1'000,000.00, en lugar de la contabilidad a que se refiere la fracción I de este artículo, deberán llevar el registro de sus ingresos diarios efectuando la separación de los actos o actividades por los que deba pagarse el impuesto por las distintas tasas, de aquéllos por los cuales esta Ley libera de su pago. Asimismo, por lo que se refiere a sus compras deberán contar con comprobantes que reúnan requisitos fiscales.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 33.
@@ -904,73 +962,25 @@ Cuando la contraprestación que reciba el contribuyente no sea en dinero, sino t
 
 En las permutas y pagos en especie, el impuesto al valor agregado se deberá pagar por cada bien cuya propiedad se trasmita, o cuyo uso o goce temporal se proporcione, o por cada servicio que se preste.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
 ###### ARTICULO 35.
 
-Las personas físicas que enajenen bienes o presten servicios, cuando sean contribuyentes menores conforme a la Ley del Impuesto sobre la Renta, pagarán el impuesto al valor agregado de conformidad con la estimación del valor de los actos o actividades por los que deban pagar el impuesto, que al efecto les practiquen las autoridades fiscales, debiéndose observar lo siguiente:
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-I.- Llevar contabilidad simplificada, de sus operaciones de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-II.- Dichas personas no tendrán obligación de calcular ni declarar mensualmente el monto de las contraprestaciones que correspondan a sus actividades por las que deban pagar el impuesto. Las autoridades fiscales les estimarán el valor de los actos o actividades por los que están sujetos a pagar el impuesto, excluyendo las actividades sujetas a la tasa del 0%; a esta estimación las autoridades aplicarán la tasa del impuesto que corresponda, según sea el caso, obteniéndose así el impuesto a cargo estimado.
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-Del impuesto a cargo estimado se restará el impuesto acreditable a que se refiere el artículo 4o. de esta Ley. La diferencia entre el impuesto a cargo estimado y el impuesto acreditable, será el monto del impuesto a pagar.
-
-Las estimaciones a que se refiere esta fracción se mantendrán hasta que las autoridades fiscales formulen otras.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-III.- Pagar bimestralmente el impuesto a que se refiere la fracción anterior a cuenta del impuesto del ejercicio, los cuales deberán hacerse dentro del bimestre al cual corresponda ante las oficinas autorizadas.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-IV.- Cuando de las comprobaciones que lleven a cabo las autoridades fiscales aparezca que el valor de los actos o actividades por las que el contribuyente deba pagar el impuesto al valor agregado, es superior en más de un 20% a la última estimación practicada, se rectificará ésta y se cobrarán las diferencias del impuesto que procedan más los recargos de ley. Si el contribuyente solicita espontáneamente a las autoridades fiscales la rectificación de la estimación y ésta resulta superior en más del 20% mencionado, pagará el impuesto que proceda más los recargos correspondientes, salvo cuando en la rectificación el contribuyente no rebase los límites de ingresos para hacer (sic) considerados como contribuyentes menores conforme a la Ley del Impuesto Sobre la Renta, en cuyo caso quedará liberado de pagar las diferencias correspondientes a bimestres anteriores.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-V.- Conservar la contabilidad simplificada a que se refiere la fracción I de este artículo y los comprobantes señalados en el artículo 36 de esta Ley.
-
-VI.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 35-A.
 
-Las personas físicas que siendo contribuyentes menores en los términos del artículo 35 de esta Ley, que hayan optado por pagar el impuesto conforme al régimen general de la Ley del Impuesto sobre la Renta, o bien dejen de estar en los supuestos para ser considerados como tales en los términos de dicha Ley, por el año en que ejerzan la opción o dejen de estar en los supuestos señalados, cumplirán con las obligaciones a que se refiere el artículo 32 de esta Ley. Cuando los contribuyentes dejen de ser menores y hubieran efectuado pagos conforme a la estimación del valor de sus actos o actividades, los mismos se considerarán para el pago del impuesto del ejercicio.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 35.-B.
 
-Cuando los contribuyentes que dejen de ser menores, dentro del año de calendario en que ello ocurra, aporten sus bienes en calidad de socios a una sociedad mercantil para formar parte de su activo fijo, no estarán obligados a pagar el impuesto al valor agregado por esa enajenación. Lo dispuesto en este artículo sólo será aplicable si el contribuyente dejó de ser menor sin que medie el ejercicio de las facultades de comprobación de las autoridades fiscales.
-
-(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)(F. DE E. D.O.F. 24 DE ENERO DE 1986)
+(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 36.
 
-Los contribuyentes menores expedirán comprobantes simplificados en los términos del artículo 115-B de la Ley del Impuesto Sobre la Renta; cuando un contribuyente menor opte por pagar el impuesto conforme al régimen general de la citada Ley o deje de estar en los supuestos para ser considerado como tal en los términos de la misma, se entenderá que deja de ser menor para los efectos del impuesto al valor agregado.
+(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 37.
 
-Para los efectos de la estimación que realicen las autoridades fiscales, se tomará en cuenta:
-
-Importe de compras efectuadas; inventarios de mercancías, de maquinaria y equipo; monto de la renta del local en que estén establecidos los negocios; número de trabajadores que tengan a su servicio y sueldos de que disfruten; pagos de cuotas al Instituto Mexicano del Seguro Social; impuestos pagados a la Federación, Distrito Federal, Estados o Municipios; cantidades que hayan cubierto por concepto de energía eléctrica y teléfonos; retiros en efectivo y en especie efectuados por el propietario del negocio para la atención de sus necesidades personales y de su familia; zona comercial en que se encuentre ubicado el negocio; informaciones recabadas de terceros y, en general, todos los elementos de juicio que puedan utilizarse para la estimación del valor de las actividades por las que se deba pagar el impuesto.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Las autoridades fiscales podrán incrementar la estimación del valor de los actos o actividades por los que el contribuyente esté obligado a pagar impuesto, aplicando a la estimación efectuada en el año de calendario anterior, el factor que en su caso, señale anualmente el Congreso de la Unión.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Las estimaciones que realicen las autoridades fiscales se harán por ejercicios y se dividirán entre seis para los efectos del pago bimestral.
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 ### CAPITULO IX. DE LAS PARTICIPACIONES A LAS ENTIDADES FEDERATIVAS
 
@@ -1446,31 +1456,19 @@ Lo dispuesto en el ARTICULO UNICO de las DISPOSICIONES DE VIGENCIA ANUAL del Dec
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-D.O.F. 3 DE DICIEMBRE DE 1993.
+D.O.F. 20 DE JULIO DE 1992.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
 
-PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
+###### ARTICULO DECIMO TERCERO.
 
-D.O.F. 29 DE DICIEMBRE DE 1993.
-
-UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1994.
-
-D.O.F. 28 DE DICIEMBRE DE 1994.
-
-DISPOSICION DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
+Lo dispuesto en el ARTICULO UNICO de las DISPOSICIONES DE VIGENCIA ANUAL del Decreto que Reforma, Adiciona y Deroga Diversas Disposiciones de la Ley del Impuesto al Valor Agregado, publicado en el Diario Oficial de la Federación el 21 de noviembre de 1991, no será aplicable a lo dispuesto en el artículo 2o-B, fracción I, inciso d) del presente Decreto, por lo que la enajenación e importación de los alimentos citados en el artículo 2o-B, fracción I, inciso d), estarán gravados a la tasa del 10% a partir de la entrada en vigor del presente Decreto.
 
 ###### ARTICULO OCTAVO.
 
 (DEROGADO, D.O.F. 27 DE MARZO DE 1995)
 
 ## TRANSITORIO
-
-UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1995.
-
-D.O.F. 27 DE MARZO DE 1995.
-
-DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ###### ARTICULO QUINTO.
 
@@ -1491,6 +1489,14 @@ El contribuyente que reciba el descuento, la bonificación o devuelva los bienes
 IV.- Los contribuyentes que estén sujetos a lo dispuesto por la fracción III del artículo 4o. de la Ley del Impuesto al Valor Agregado procederán a efectuar el acreditamiento o traslado del impuesto, a la tasa vigente al momento de efectuar el acto gravado por la citada Ley.
 
 Tratándose de enajenaciones que en los términos del Código Fiscal de la Federación se consideren a plazos, y en las cuales el bien enajenado hubiera sido entregado o enviado con anterioridad a la entrada en vigor de la presente Ley, y por las que el contribuyente en los términos del artículo 12 de la Ley del Impuesto al Valor Agregado hubiere optado por diferir dicho impuesto hasta que efectivamente reciba los pagos, el diferimiento será considerando que el impuesto sobre el precio pactado se causó a la tasa vigente en la fecha en que se expidió el comprobante de la enajenación de que se trate. En el caso de los intereses que se causen sobre la parte del precio no percibido efectivamente al momento de entrar en vigor esta Ley, por las enajenaciones a plazos, así como tratándose de intereses derivados de los contratos de arrendamiento financiero, el impuesto sobre los mismos se causará a la tasa vigente en el mes en que dichos intereses sean exigibles.
+
+## TRANSITORIO
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1995.
+
+D.O.F. 27 DE MARZO DE 1995.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ## TRANSITORIO
 
@@ -1574,6 +1580,24 @@ II a VII.- .............
 
 II.- Durante el ejercicio de 1997 el impuesto al valor agregado sobre el servicio o suministro de agua para uso doméstico que se efectúe en dicho ejercicio, se causará a la tasa del cero por ciento.
 
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE DICIEMBRE DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
+
+D.O.F. 29 DE DICIEMBRE DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1994.
+
+D.O.F. 28 DE DICIEMBRE DE 1994.
+
+DISPOSICION DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
+
 ## Transitorio
 
 UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1997.
@@ -1583,6 +1607,10 @@ D.O.F. 15 DE MAYO DE 1997.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 1997.
+
+ÚNICO.- La presente Ley entrará en vigor el día 1o. de enero de 1998.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
