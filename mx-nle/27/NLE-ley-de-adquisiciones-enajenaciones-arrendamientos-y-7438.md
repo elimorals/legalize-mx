@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-adquisiciones-enajenaciones-arrendamientos-y-7438"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-19"
-last_updated: "1997-04-25"
+last_updated: "1997-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS PARA LA ADMINISTRACION PUBLICA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 19 de enero de 1987.
 
@@ -443,6 +443,10 @@ CUARTO.- Se faculta al Ejecutivo del Estado para contratar en forma directa, con
 
 QUINTO.- Se faculta al Ejecutivo del Estado para enajenar en forma directa, sin sujetarse a licitación pública, los bienes muebles que integran la infraestructura de la Planta Termoeléctrica, destinando el producto de su venta al pago de la deuda del Gobierno del Estado, en los términos del Decreto y al contrato de donación respectivo, debiendo informar del ejercicio de esta facultad al Congreso del Estado, al Rendir la Cuenta Pública correspondiente.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1997)</small>
+
+SEXTO.- Se faculta al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Tesorería General del Estado, para celebrar contratos de arrendamiento con personas físicas o morales a fin de proveer de inmuebles a las distintas Dependencias de la Administración Pública Estatal, sin sujetar a los arrendadores a la obligación de inscribirse en el Padrón de Proveedores del Gobierno del Estado.
+
 Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey su Capital, a los catorce días del mes de Enero de mil novecientos ochenta y siete.- PRESIDENTE: POR M. DE LEY DIP. DR. MENTOR TIJERINA DE LA GARZA; DIP. SECRETARIO: NESTOR MOLINA MARTINEZ; DIP. SECRETARIO: BERNARDINO ALVARADO GONZALEZ.- RUBRICAS.
@@ -468,3 +472,7 @@ UNICO.- El Presente Decreto tiene aplicación a partir del 1° de Enero de 1997.
 P.O. 25 DE ABRIL DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 1997.
+
+UNICO:- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
