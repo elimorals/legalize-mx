@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1998-08-28"
+last_updated: "1999-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 1999.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -2925,7 +2925,7 @@ ART. 428.- En los escritos que fijan la controversia, las partes ofrecerán las 
 
 ART. 429.- Desde el día en que se mande emplazar al reo se fijará día y hora para la audiencia de pruebas y alegatos, la que se celebrará dentro de los treinta días que sigan al emplazamiento. El juez resolverá sobre la admisión de las pruebas al acordar los escritos en que se ofrezcan.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 430.- En la audiencia el Juez, recibirá las pruebas admitidas.
 
@@ -4615,7 +4615,7 @@ ART. 714.- La responsabilidad civil en que puedan incurrir jueces y magistrados 
 
 ART. 715.- No podrá promoverse demanda de responsabilidad civil, sino hasta que queda determinado por sentencia o auto firme el pleito o causa en que se suponga causado el agravio.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 716.- Cuando la demanda se dirija contra un Juez de Paz, cualquiera que sea su cuantía, conocerá de ella el Juez de Primera Instancia a que aquél corresponda. Contra la sentencia que éste pronuncie, procederá la apelación en ambos efectos para ante el tribunal superior, si el juicio por su cuantía fuere apelable.
 
@@ -5855,39 +5855,39 @@ ART. 907.- Lo dispuesto en los artículos que preceden se aplicará al gravamen 
 
 ### CAPITULO IV. Adopción
 
-(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-ART. 908.- El que pretende adoptar, deberá acreditar los requisitos señalados por el Artículo 387 del Código Civil.
+ART. 908.- El que pretende adoptar, deberá manifestar y acompañar a la promoción inicial, en su caso, los documentos que acrediten lo siguiente:
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1987)</small>
+I.- Su nombre y edad del menor o incapaz que pretende adoptar, así como la clase de adopción que desea realizar;
 
-En la promoción inicial deberá manifestar el nombre y edad del menor o incapacitado, y el nombre y domicilio de quienes ejerzan sobre él la Patria Potestad o la Tutela, o de las personas o Institución Pública que lo haya acogido; debiendo acompañar un estudio médico, psicológico y socio-económico, tanto de los adoptantes como del menor que se pretenda adoptar, realizado por el Sistema para el Desarrollo Integral de la Familia. Las pruebas pertinentes se recibirán sin dilación en cualquier día y hora hábil.
+II.- Nombre y domicilio de quienes ejerzan sobre él la Patria Potestad o la Tutela, o de las personas que lo hayan acogido;
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1987)</small>
+III.- El estudio médico, psicológico y socio-económico, tanto de los adoptantes como del menor que se pretenda adoptar, realizado por el Sistema Estatal para el Desarrollo Integral de la Familia, pudiéndose exhibir en forma posterior y a petición del Juez;
 
-La solicitud de adopción a que se refiere este Artículo deberá ser suscrita en forma personal por el interesado, debiendo el Juez ordenar la ratificación de la misma, en su presencia, sin cuyo requisito no se le dará trámite. Tampoco se le deberá dar trámite a las solicitudes que vengan suscritas por apoderado o representante legal del interesado. Los infractores de esta disposición, serán destituidos de su cargo, sin responsabilidad para el Tribunal Superior de Justicia.
+IV.- La constancia de la exposición o del tiempo de abandono, para los efectos del artículo 441 del Código Civil, cuando el menor hubiere sido acogido por una institución de asistencia pública o privada; y,
 
-Cuando el menor hubiere sido acogido por una institución pública, el adoptante, recabará constancia del tiempo de la exposición o abandono para los efectos del artículo 441 fracción IV del Código Civil.
+V.- Tratándose de extranjeros, además de lo previsto con antelación, deberán acompañar los documentos que acrediten su legal estancia o residencia en México y autorización de la Secretaría de Gobernación para internarse y permanecer en la República con la finalidad de realizar la adopción; certificado la idoneidad para adoptar expedido por la autoridad competente de su país de origen y constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en el.
 
-Si hubieren transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito del menor con el presunto adoptante, entretanto se consuma dicho plazo.
-
-Si el menor no tuviere padres conocidos y no hubiere sido acogido por institución pública, se decretará el depósito con el presunto adoptante, por el término de seis meses para los mismos efectos.
+La solicitud de adopción a que se refiere este artículo deberá ser suscrita en forma personal por el interesado, debiendo el Juez ordenar la ratificación de la misma, en su presencia, sin cuyo requisito no se le dará trámite. Tampoco se le deberá dar trámite a las solicitudes que vengan suscritas por apoderado.
 
 (REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 909.- Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme a los artículos 394 y 395 del Código Civil, el Juez de Primera Instancia de lo familiar resolverá dentro del tercer día lo que proceda sobre la adopción.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
-ART. 910.- Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el Juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá, conforme a lo dispuesto en el artículo 404 del Código Civil.
+ART. 910.- Cuando el adoptado y el adoptante pidan que la adopción simple sea revocada, el Juez los citará a una audiencia verbal para dentro de los tres días siguientes, se resuelva conforme a lo dispuesto en el artículo 400, del Código Civil.
 
-Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento conforme al Artículo 394 del Código Civil, cuando fuere conocido su domicilio, o en su caso se oirá al representante del Ministerio Público, o al Sistema para el Desarrollo Integral de la Familia.
-
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del Artículo anterior, pueden rendirse toda clase de pruebas.
+Para acreditar cualquier hecho relativo a la conveniencia de la revocación, pueden rendirse toda clase de pruebas.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 911.- La impugnación de la adopción y su revocación, en los casos de los artículos 391 y 402 fracción II del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+
+ART. 911 BIS.- Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena y se reúnan los requisitos del artículo 391 del Código Civil, el Juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público, luego de la cual se resolverá lo conducente en el término de ocho días.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6522,3 +6522,15 @@ P.O. 28 DE AGOSTO DE 1998.
 ###### ARTICULO UNICO.
 
 Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
+
+P.O. 10 DE DICIEMBRE DE 1999.
+
+ARTICULO. PRIMERO.- Las presentes reformas y adiciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+En relación al trámite correspondiente a la adopción plena ante el Registro Civil del Estado, se establece un plazo de 60 días para los efectos de realizar las reformas necesarias a su ordenamiento jurídico.
+
+###### ARTICULO TERCERO.
+
+Los trámites de adopción que estén en proceso y sobre los cuales sea procedente sujetarse a la adopción plena, será orientado a solicitud de los adoptantes satisfechos los requisitos de Ley.
