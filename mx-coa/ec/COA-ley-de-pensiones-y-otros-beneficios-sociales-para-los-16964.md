@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-16964"
 country: "mx"
 rank: "ley"
 publication_date: "1999-11-19"
-last_updated: "2000-12-22"
+last_updated: "2005-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACION PUBLICA DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 19 de noviembre de 1999.
 
@@ -117,7 +117,9 @@ El patrimonio de la Dirección de Pensiones que se dividirá en los términos de
 
 I. Respecto a las prestaciones de que trata el artículo 41 de la presente ley, las entidades, los organismos y los trabajadores afiliados al régimen de la Dirección de Pensiones, aportarán obligatoriamente a ésta, las cantidades siguientes:
 
-a) Para el financiamiento de la pensión de retiro por edad y antigüedad en el servicio, las entidades y organismos previstas en las fracciones I, II y V del artículo 2° de esta ley, aportarán el 9% del sueldo tabular y quinquenio o prima de antigüedad, en su caso, de los trabajadores que dependen de ellas; y las entidades y organismos a que se refieren las fracciones III y IV del artículo señalado aportarán el 9% del sueldo base de los trabajadores que dependen de ellas. Asimismo, para financiar esta pensión, los trabajadores aportarán el 6.5% de sus percepciones totales. Estas aportaciones, tanto de los trabajadores como de las entidades y organismos, integran la cuenta individual del trabajador.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2005)</small>
+
+a) Para el financiamiento de la pensión de retiro por edad y antigüedad en el servicio, las entidades y organismos previstos en las fracciones I, II y V del artículo 2º de esta ley, aportarán el 9% del sueldo tabular y quinquenio o prima de antigüedad, en su caso, de los trabajadores de la Sección 38 del Sindicato Nacional de los Trabajadores de la Educación que dependen de ellas; y las entidades y organismos a que se refieren las fracciones III y IV del artículo señalado aportarán el 9% del sueldo base de los trabajadores que dependen de ellas. Así mismo, para financiar esta pensión, los trabajadores de la Sección 38 del Sindicato Nacional de los Trabajadores de la Educación aportarán el 6.5% de sus percepciones totales; estas aportaciones, tanto de los trabajadores como de las entidades y organismos, integran la cuenta individual del trabajador. Por su parte, los pensionados de la Sección 38 del Sindicato Nacional de los Trabajadores de la Educación antes del 30 de septiembre de 2004 aportarán el 4% de sus percepciones totales y, los pensionados de la Sección 38 del Sindicato Nacional de los Trabajadores de la Educación después de esta fecha, aportarán el 6.5% de sus percepciones totales; las cantidades correspondientes a dichos porcentajes se destinarán al fondo global de la Dirección de Pensiones.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
@@ -1287,6 +1289,10 @@ En caso de fallecimiento del trabajador activo sujeto a las disposiciones de la 
 
 En todo lo previsto en los artículos transitorios relativos a la aplicación de la ley que se abroga, se reafirma que para quienes decidan acogerse a dicho régimen pensionario, continuarán aplicándose enteramente en toda su extensión los beneficios que otorga la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada el 28 de junio de 1975 en el Periódico Oficial del Gobierno del Estado número 52, así como sus respectivas reformas.
 
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2005)</small>
+
+Las aportaciones que realicen los pensionados conforme al artículo 11, fracción I inciso a) de la Ley, formarán parte del fondo global del que son beneficiarios, sin que en ningún caso formen cuentas individuales.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 TERCERO. Para los trabajadores a que se refiere el artículo que antecede que pertenezcan a la Universidad Autónoma de Coahuila y a la Universidad Autónoma Agraria "Antonio Narro" y que decidan acogerse voluntariamente a las disposiciones de la ley que se abroga, se seguirán aplicando ultraactivamente las disposiciones anteriores hasta en tanto se cubra al último de los pensionados o beneficiarios que se acojan a ella. Por el contrario, para los trabajadores a que se refiere el artículo que antecede y que sean afiliados a la Sección 38 del SNTE, y que desean acogerse voluntariamente a las disposiciones del ordenamiento que se abroga, se aplicarán, a partir de la fecha en que entre en vigor esta ley, los siguientes lineamientos:
@@ -1382,3 +1388,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 22 DE DICIEMBRE DE 2000.
 
 ÚNICO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE ENERO DE 2005.
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
