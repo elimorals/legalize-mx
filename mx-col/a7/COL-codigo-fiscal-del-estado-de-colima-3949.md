@@ -4,7 +4,7 @@ identifier: "COL-codigo-fiscal-del-estado-de-colima-3949"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-26"
-last_updated: "1986-07-05"
+last_updated: "1989-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO FISCAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1989.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1981.
 
@@ -377,21 +377,17 @@ II.- Cuando el deudor sea declarado en quiebra o solicite su liquidación judici
 
 III.- Cuando en su caso, deje de cubrirse alguna de las parcialidades.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 32.
 
 Cuando no se pague un crédito fiscal en la fecha o dentro de plazo señalado en las disposiciones respectivas, deberán cubrirse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
+Los recargos se calcularán sobre el total de crédito fiscal excluyendo los propios recargos y demás accesorios legales, sin que exceda de los generados hasta por cinco años. Cuando el pago hubiere sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
 
-Los recargos se calcularán sobre el total del crédito fiscal excluyendo los propios recargos y demás accesorios legales, no excediendo del 150% del monto de dicho crédito. Cuando el pago hubiere sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
+Cuando el contribuyente pague en forma expontanea (sic) los créditos omitidos, sin que medie gestión de cobro por parte de la Autoridad fiscal, los recargos no excederán de los generados en un año.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1984)</small>
-
-Cuando el contribuyente pague en forma espontanea los créditos omitidos, sin que medie gestión de cobro por parte de la Autoridad fiscal, los recargos no excederán del 100% del monto de los créditos.
-
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 1984)</small>
-
-En los casos en que un contribuyente demuestre que la falta de pago de un crédito fiscal obedece a causas imputables a la Tesorería General, no habrá lugar a la causación de recargos. En estos caso el contribuyente deberá cubrir el crédito o créditos determinados, dentro de los quince días siguientes al de su notificación.
+En los casos en que un contribuyente demuestre que la falta de pago de un crédito fiscal obedece a causas imputables a la Secretaría de Programación y Finanzas, no habrá lugar a la causación de recargos. En estos caso el contribuyente deberá cubrir el crédito o créditos determinados, dentro de los quince días siguientes al de su notificación.
 
 ###### ARTICULO 33.
 
@@ -511,9 +507,13 @@ La cancelación de créditos fiscales en las cuentas públicas, por incosteabili
 
 DE LAS INFRACCIONES Y SANCIONES.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 46.
 
 La aplicación de las sanciones administrativas que procedan, se hará sin perjuicio de que se exija el pago de las prestaciones fiscales respectivas, de los recargos en su caso, y de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+
+Con excepción de lo establecido en la Fracción XXI del Artículo 49 del Código Fiscal del Estado y tratándose de las multas que este capítulo establece en cantidades determinadas o entre un mínimo y un máximo, dichas cantidades se incrementarán en lo que resulte de multiplicarlas por el factor que en su caso señale para estos efectos la Ley de Ingresos del Estado.
 
 ###### ARTICULO 47.
 
@@ -549,11 +549,11 @@ X.- La Tesorería General del Estado se abstendrá de imponer sanciones, cuando 
 
 XI.- La Tesorería General del Estado dejará de imponer sanciones cuando se haya incurrido en infracción por hechos ajenos a la voluntad del infractor, circunstancia que éste deberá probar a satisfacción de la mencionada Tesorería.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 49.
 
-Son responsables en la comisión de las infracciones previstas en este Código las personas que realicen los supuestos que en este capítulo se consideran como tales, así como las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales, incluyendo aquellas que lo hagan fuera de los plazos establecidos; en cuyo caso a cada uno corresponderá la sanción que se señala; cuando suceda alguno de los supuestos siguientes:
+Son responsable en la Comisión de las infracciones previstas en este Código las personas que realicen los supuestos que en este capítulo se consideran como tales, así como las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales, incluyendo aquellas que lo hagan fuera de los plazos establecidos; en cuyo caso a cada uno corresponderá la sanción que señala; cuando suceda alguno de los supuestos siguientes:
 
 I. No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse, o hacerlo fuera de los plazos legales; no incluir en las manifestaciones para su inscripción en el Registro o Registros de Causantes todas las actividades por las que sea contribuyente habitual, o no citar su número de registro de las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualesquiera oficinas o autoridades, multa de : $100.00 a $10,000.00;
 
@@ -605,13 +605,15 @@ XIX.- No conservar los libros, documentos y correspondencia que le sean dejados 
 
 XX.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes, multa de $100.00 a $10,000.00
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1989)</small>
 
 XXI.- En el supuesto del Artículo 131 de la Ley de Hacienda del Estado, por cada cabeza de ganado multa de:
 
-a).- $ 5,000.00 si es ganado mayor.
+a).- 10 unidades económicas si es ganado mayor.
 
-b).- $ 4,000.00 si es ganado menor.
+b).- 6 unidades económicas si es ganado menor.
+
+Entendiéndose como unidad económica el valor de un día de salario mínimo vigente en el Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1982)</small>
 
@@ -1832,3 +1834,7 @@ Para efectos de uniformidad en cuanto a terminología con el Código fiscal de l
 P.O. 5 DE JULIO DE 1986.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 14 DE ENERO DE 1989.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente de su expedición y deberá ser publicado en el Periódico Oficial "EL ESTADO DE COLIMA".
