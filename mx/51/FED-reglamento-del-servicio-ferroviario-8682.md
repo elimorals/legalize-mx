@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-servicio-ferroviario-8682"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-30"
-last_updated: "1996-09-30"
+last_updated: "2000-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8682&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-09-26"
 
 REGLAMENTO DEL SERVICIO FERROVIARIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2000.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de septiembre de 1996.
 
@@ -35,9 +35,11 @@ REGLAMENTO DEL SERVICIO FERROVIARIO
 
 ### Capítulo I. Del objeto
 
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 1.
 
-El presente ordenamiento tiene por objeto regular la construcción, conservación y mantenimiento de las vías férreas que sean vías generales de comunicación, así como la prestación de los servicios ferroviarios que comprenden, la operación y explotación de las vías generales de comunicación ferroviaria, el servicio público de transporte ferroviario que en ellas opera y los servicios auxiliares, conforme a la Ley Reglamentaria del Servicio Ferroviario.
+El presente ordenamiento tiene por objeto regular la construcción, conservación y mantenimiento de las vías férreas que sean vías generales de comunicación, así como la prestación de los servicios ferroviarios que comprenden la operación y explotación de las vías generales de comunicación ferroviaria, el servicio público de transporte ferroviario que en ellas opera, los servicios de interconexión y terminal, los derechos de paso y derechos de arrastre obligatorios, así como los servicios auxiliares, conforme a la Ley Reglamentaria del Servicio Ferroviario.
 
 ###### Artículo 2.
 
@@ -217,7 +219,9 @@ En este supuesto, los solicitantes deberán acreditar que los servicios u obras 
 
 Las solicitudes de autorización para realizar las instalaciones u obras a que se refiere el artículo 34 de la Ley, deberán acompañar el proyecto en el que se especifiquen la naturaleza, características, ubicación y tiempo estimado para la realización de la obra.
 
-La Secretaría emitirá la resolución correspondiente en un plazo que no excederá de 90 días naturales, contado a partir de aquél en que se presente la solicitud debidamente integrada.
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+La Secretaría emitirá la resolución correspondiente en un plazo que no excederá de cuarenta y cinco días naturales contado a partir de aquél en que se presente la solicitud.
 
 ###### Artículo 21.
 
@@ -269,7 +273,9 @@ II. Para instalación de anuncios y señales publicitarias en el derecho de vía
 
 III. Para accesos, puentes sobre vías férreas, cruzamientos e instalaciones marginales en el derecho de vía, el plazo será indefinido.
 
-Tratándose de las instalaciones y obras a que se refiere el artículo 34 de la Ley, la vigencia de las autorizaciones será de hasta cincuenta años.
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+Tratándose de las instalaciones y obras a que se refiere el artículo 34 de la Ley, la vigencia de las autorizaciones será indefinida.
 
 La vigencia de los permisos y autorizaciones podrá ser renovada a solicitud del interesado, siempre que lo solicite con tres meses de anticipación a la fecha de vencimiento respectiva, y hubiera cumplido con lo dispuesto en la Ley, este Reglamento, así como con los reglamentos y las Normas aplicables, y las condiciones previstas en el permiso o autorización correspondiente. La Secretaría resolverá lo conducente dentro de los noventa días naturales siguientes a la presentación de la solicitud, debidamente integrada.
 
@@ -671,7 +677,9 @@ El equipo ferroviario deberá cumplir con las condiciones que al efecto establez
 
 Únicamente podrá transitar por una vía general de comunicación ferroviaria, el equipo ferroviario que previamente al inicio de operaciones, se inspeccione y apruebe por personal calificado del concesionario.
 
-La inspección antes señalada tiene como objeto verificar que el equipo ferroviario se encuentre en condiciones apropiadas y seguras para su operación, para lo cual deberá cumplir, cuando menos, con los requisitos de seguridad establecidos en este Reglamento, el reglamento interno de transporte del concesionario y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+La inspección antes señalada tiene como objeto verificar que el equipo ferroviario se encuentre en condiciones apropiadas y seguras para su operación, para lo cual deberá cumplir, cuando menos, con los requisitos de seguridad establecidos en este Reglamento, las normas oficiales mexicanas, el reglamento interno de transporte del concesionario y demás disposiciones aplicables.
 
 El equipo ferroviario de reciente adquisición, así como el reparado o reconstruido, deberá, previamente al inicio de sus operaciones, ser inspeccionado.
 
@@ -855,15 +863,17 @@ Los relojes reglamentarios de todas las rutas se sincronizarán diariamente a la
 
 #### Sección tercera. De los servicios de interconexión y terminal, derechos de paso y derechos de arrastre
 
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 104.
 
-El servicio de interconexión comprende el entronque de la vía férrea de un concesionario con la de otro, y el intercambio recíproco de equipo ferroviario, así como, en su caso, los servicios de terminal que se requieran cuando uno de los concesionarios tenga a su cargo la operación de la misma.
+El servicio de interconexión comprende el intercambio de equipo ferroviario, el tráfico interlineal entre concesionarios, los movimientos, traslados y demás acciones necesarias que deban realizarse para la continuidad del tráfico ferroviario y la entrega o devolución de equipo ferroviario respectivo a su destino u origen, incluyendo los servicios de terminal.
 
-El intercambio consiste en el movimiento que se realiza para la entrega y devolución de equipo ferroviario, de la vía férrea de un concesionario a la de otro.
+El servicio de interconexión deberá permitir en todo tiempo la prestación de los servicios de transporte entre las vías férreas de los concesionarios como una ruta continua de comunicación. El concesionario de origen deberá efectuar el cobro al usuario de la tarifa por toda la ruta desde su origen hasta el destino final y será su responsabilidad realizar el entero respectivo a los concesionarios conectantes.
 
-El servicio de interconexión deberá permitir en todo tiempo la prestación de los servicios ferroviarios entre vías férreas de dos concesionarios, como una ruta continua de comunicación.
+Punto de interconexión es el lugar determinado por la Secretaría para prestar los servicios de interconexión. La Secretaría, al determinar los puntos de interconexión en los que se efectuará el intercambio de equipo ferroviario, considerará, entre otros, las terminales, el entronque de las vías férreas de un concesionario con la de otro y los puntos en donde inician o terminan los derechos de paso o derechos de arrastre obligatorios de los concesionarios. Los concesionarios podrán convenir puntos de interconexión distintos a los establecidos por la Secretaría, debiendo entregar a la misma, copia del convenio correspondiente, en un plazo de quince días hábiles, contados a partir del día siguiente al de la celebración de dicho convenio. La Secretaría, al revisar el convenio, tomará en cuenta que no se afecte la continuidad, seguridad y eficiencia en la prestación de los servicios de transporte.
 
-Punto de interconexión es el lugar en el que se enlazan vías férreas para prestar los servicios de interconexión. La Secretaría determinará los puntos y distancias de interconexión en los que se efectuará el intercambio de equipo ferroviario.
+La Secretaría, en su caso, expedirá normas oficiales mexicanas que establezcan la clasificación, características y modalidades de los servicios de interconexión y de terminal a las que deberá sujetarse la prestación de los mismos.
 
 ###### Artículo 105.
 
@@ -886,6 +896,10 @@ Los derechos de paso o derechos de arrastre que se establezcan en el título de 
 Los concesionarios podrán además pactar entre ellos derechos de paso o derechos de arrastre distintos a los establecidos en el título de concesión, en cuyo caso sólo se estará a lo que prevean los convenios respectivos.
 
 Los concesionarios estarán obligados a permitir que otros concesionarios tengan acceso, a través de la vía férrea objeto de su concesión, a cualquier taller de los señalados en el artículo 134 de este Reglamento, mediante el pago de la contraprestación correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+La Secretaría, en su caso, expedirá normas oficiales mexicanas que establezcan la clasificación, características y modalidades de los derechos de paso y derechos de arrastre obligatorios, a las que deberá sujetarse la prestación de los mismos.
 
 ###### Artículo 108.
 
@@ -1351,9 +1365,11 @@ En caso de que las partes no lleguen a un acuerdo respecto del monto de la contr
 
 Se interrumpe la prestación de los servicios ferroviarios cuando se dejan de prestar los servicios concesionados o permisionados en forma total o parcial, y temporal o permanente.
 
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 165.
 
-Los concesionarios y permisionarios podrán interrumpir temporalmente la prestación de la totalidad o parte de los servicios objeto de la concesión o permiso, en los casos de reconstrucción, conservación y mantenimiento, en los términos que para cada caso prevé este Reglamento.
+Los concesionarios y permisionarios únicamente podrán interrumpir temporalmente la prestación de la totalidad o parte de los servicios ferroviarios que deban prestar, en los casos de reconstrucción, conservación y mantenimiento, y en los términos que para cada caso prevé este Reglamento.
 
 ###### Artículo 166.
 
@@ -1897,15 +1913,27 @@ Los concesionarios deberán remitir copia a la Secretaría de las solicitudes qu
 
 ### Capítulo II. De la verificación, sanciones y trámite de solicitudes
 
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 222.
 
-Las visitas de verificación se practicarán de conformidad con el procedimiento establecido en la Ley Federal del Procedimiento Administrativo.
+Las visitas de verificación se practicarán de conformidad con la Ley Federal de Procedimiento Administrativo y conforme a los requisitos que señalen las normas oficiales mexicanas y demás disposiciones aplicables.
 
-La información a la que tengan acceso los verificadores tendrá carácter de confidencial.
+La Secretaría, por sí o a través de terceros, puede realizar en cualquier momento, de conformidad con las disposiciones aplicables en la materia, exámenes médicos de aptitud psicofísica al personal técnico ferroviario, así como, en forma aleatoria, exámenes toxicológicos.
+
+La información a la que se tenga acceso durante la verificación debe ser considerada con carácter de confidencial. Los resultados de los exámenes señalados en el párrafo anterior, podrán darse a conocer a los concesionarios y permisionarios.
+
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 223.
 
-En ningún caso las visitas de verificación podrán impedir el desarrollo normal de las actividades del concesionario o permisionario, ni interrumpirán total o parcialmente la prestación de los servicios. En caso de que por la naturaleza de la verificación se afecten las actividades de los visitados o la prestación de los servicios, el verificador deberá acordar lo conducente con los concesionarios o permisionarios para establecer la fecha y horario en que podrá llevarse a cabo la verificación correspondiente.
+Los concesionarios y permisionarios están obligados a permitir el acceso a los verificadores de la Secretaría a sus instalaciones, a transportarlos en sus equipos para que realicen la verificación en términos de la Ley y este Reglamento, y, en general, a otorgarles todas las facilidades para estos fines.
+
+La Secretaría, por sí o a través de los verificadores, podrá requerir a los concesionarios y permisionarios, informes con los datos que permitan a la Secretaría conocer la operación y explotación del servicio ferroviario.
+
+Se considerará como verificación especial aquella que se realice de manera integral a los concesionarios y permisionarios, incluyendo a su personal técnico ferroviario, y cubra aspectos técnicos, financieros, jurídicos y administrativos, así como la que se realice en los centros de formación, capacitación y adiestramiento, y como verificación técnica aquella que se practique a los servicios auxiliares y sobre aspectos específicos a concesionarios o permisionarios, entre otros, al equipo ferroviario, sus partes o refacciones, o a las vías férreas.
+
+En caso de que los concesionarios y permisionarios requieran de una verificación por parte de la Secretaría, éstos la deberán solicitar por escrito, adjuntando el comprobante de pago de derechos correspondiente.
 
 ###### Artículo 224.
 
@@ -1960,3 +1988,13 @@ Cuarto. Los permisos, autorizaciones y licencias otorgados con anterioridad a la
 Las solicitudes de permiso, autorización o licencia en trámite se ajustarán a lo previsto en el presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de septiembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 8 DE AGOSTO DE 2000.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Dentro de sesenta días naturales posteriores a la publicación de este Decreto, la Secretaría de Comunicaciones y Transportes deberá publicar en el Diario Oficial de la Federación una tabla de los certificados de seguridad que requieren las embarcaciones y artefactos navales, previstos en el Reglamento a que se refiere el artículo décimo primero del presente Decreto, de acuerdo a sus características y servicio al que se destinen.
+
+TERCERO. Los artículos 30 a 35 del Reglamento a que se refiere el artículo décimo primero del presente Decreto, continuarán vigentes para las empresas que tengan embarcaciones extranjeras inscritas en el Programa de Abanderamiento, hasta la fecha en que den cumplimiento a los compromisos asumidos para abanderar dichas embarcaciones como mexicanas y los casos de incumplimiento serán sancionados conforme al artículo 140 fracción V, de la Ley de Navegación.
