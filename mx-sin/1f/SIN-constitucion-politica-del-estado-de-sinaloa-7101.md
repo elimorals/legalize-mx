@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1976-01-14"
+last_updated: "1977-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1977.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -343,11 +343,11 @@ En estos tres últimos casos, la convocatoria se hará por conducto de la misma 
 
 Si el Congreso estuviere en período extraordinario de sesiones cuando deba comenzar el ordinario, cerrará aquél para inaugurar éste. A la apertura y clausura de todo período extraordinario de sesiones o prórroga del ordinario, deberán preceder los decretos respectivos.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1977)</small>
 
 ###### Art. 40.
 
-El día 15 de noviembre de cada año, el Gobernador del Estado rendirá ante el Congreso instalado en sesión solemne, un informe por escrito sobre la situación que guarde la administración pública. El Presidente de la Legislatura contestará dicho informe en términos generales.
+A la apertura del Primer Período Ordinario de Sesiones del Congreso, asistirá el Gobernador del Estado y rendirá un informe por escrito sobre la situación que guarde la administración pública, a excepción del año que corresponda a la transmisión del Poder Ejecutivo Federal, en cuyo caso deberá rendirlo el día 10 de diciembre. El Presidente de la Legislatura contestará dicho informe en términos generales.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1961)</small>
 
@@ -397,7 +397,7 @@ C). Que la elección de la nueva Municipalidad sea aprobada por el voto de las d
 
 VII Bis. Suprimir Municipalidades que no llenen los requisitos de la fracción anterior, pudiendo el mismo Congreso, en este caso, hacer la nueva división política que corresponda.
 
-VIII. Ratificar o no la erección de Sindicaturas y Comisarías que propongan los Ayuntamientos, o la supresión o modificación de las existentes, determinación de sus demarcaciones y designación de sus cabeceras.
+VIII. Ratificar o nó la erección de Sindicaturas y Comisarías que propongan los Ayuntamientos, o la supresión o modificación de las existentes, determinación de sus demarcaciones y designación de sus cabeceras.
 
 IX. Decretar la fundación de poblaciones y fijar las categorías de pueblo, villa o ciudad que les corresponda.
 
@@ -1938,3 +1938,9 @@ P.O. 14 DE ENERO DE 1976.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 5 DE ENERO DE 1977.
+
+###### ARTICULO UNICO.
+
+El presente Decreto empezará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
