@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2003-01-17"
+last_updated: "2004-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2004.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -86,6 +86,10 @@ IV.- Establecerá sistemas de educación a distancia.
 V.- Efectuará programas dirigidos a los Padres de Familia, que les permitan dar mejor atención a sus hijos, y
 
 VI.- Realizará las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos, incluyendo los desayunos escolares para las zonas urbanas y rurales que lo requieran.
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2004)</small>
+
+VII.- Atenderá de manera especial, las escuelas en las que se imparta educación especial, o aquellas que acepten para su integración a alumnos con capacidades diferentes.
 
 El Estado también promoverá el desarrollo de programas asistenciales, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
@@ -417,13 +421,25 @@ Para ser docente de educación indígena, se requiere tener como mínimo la educ
 
 El Estado y los municipios promoverán el mejoramiento de la nutrición de los niños indígenas, mediante programas y acciones que permitan una alimentación balanceada de los mismos.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 34.
 
-La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como aquellos con aptitudes sobresalientes. Procurando atender a los educandos de manera adecuada a sus propias condiciones, con equidad social.
+La educación especial es la dirigida a personas con capacidades diferentes, así como aquellas con aptitudes sobresalientes.
 
-Tratándose de menores de edad con discapacidades, esta educación propiciará su integración a los planteles de educación básica formal; para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva.
+La educación especial tendrá como objetivo proporcionar la integración de niños, niñas y jóvenes a los planteles de educación inicial, preescolar, primaria, secundaria en sus distintas modalidades y a las instituciones de educación media-superior, aplicando métodos, técnicas y materiales específicos, así como dando orientación a padres de familia y a personal docente de las escuelas regulares, que atiendan a alumnos con necesidades educativas especiales.
 
-Esta educación incluye orientación a los padres o tutores, así como a los docentes y personal de escuelas de educación básica formal que integran a los alumnos con necesidades especiales de educación.
+La autoridad educativa responsable, proporcionará a los alumnos los apoyos educativos indispensables dentro de un marco de equidad, pertenencia y calidad, que les permita desarrollar sus capacidades al máximo e integrarse educativa, social y laboralmente.
+
+La educación especial tendrá las siguientes finalidades:
+
+I.- Favorecer el acceso y permanencia en el sistema educativo a niños, niñas y jóvenes que presenten necesidades educativas especiales;
+
+II.- Preservar el derecho a la educación de las personas con capacidades diferentes en el Estado;
+
+III.- Brindar mayores oportunidades de desarrollo educativo y laboral a niños, niñas y jóvenes con necesidades educativas especiales; y
+
+IV.- Propiciar un marco de equidad, y calidad educativa que permita a los alumnos con necesidades educativas especiales, desarrollar al máximo sus capacidades.
 
 ###### ARTICULO 35.
 
@@ -972,3 +988,7 @@ SEGUNDO: Para efecto de cumplimentar las presentes reformas, la autoridad estata
 P.O. 17 DE ENERO DE 2003.
 
 Único: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE ABRIL DE 2004.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
