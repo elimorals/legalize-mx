@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1962-12-29"
+last_updated: "1963-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,479 +21,407 @@ state: "OAX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-REGLAMENTO DE LIMPIEZA, APROVECHAMIENTO Y RECOLECCION DE BASURA DEL MUNICIPIO DE ABASOLO, COAHUILA
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 1963.
 
-Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 8 de agosto de 2008.
+Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
-REGLAMENTO DE LIMPIEZA, APROVECHAMIENTO Y RECOLECCION DE BASURA
+MANUEL GARCIA VIGIL, Gobernador Constitucional del Estado Libre y Soberano de Oaxaca, a sus habitantes hace saber:
 
-## TITULO PRIMERO. DEL OBJETO Y SUJETOS DEL REGLAMENTO
+Que la XXVIII Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, en funciones de Constituyente, de acuerdo con el artículo quinto del Decreto número ciento veinticinco expedido por el ciudadano Primer Jefe del Ejército Constitucionalista, encargado del Poder Ejecutivo de la Unión, el veintisiete de marzo de mil novecientos diecisiete, y con el artículo noventa y uno del decreto número catorce, expedido con fecha treinta de septiembre de mil novecientos veinte por el ciudadano Jesús Acevedo, Gobernador provisional, reforma la Constitución Política del Estado en los términos siguientes:
 
-###### ARTÍCULO 1.
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-El presente Reglamento es de orden e interés público y de observancia general y obligatoria, constituye un conjunto de normas legales expedidas por el Ayuntamiento que tienen por objeto regular la prestación del servicio público de limpieza, recolección y aprovechamiento de la basura y la operación de las instalaciones o vehículos donde se realice la transferencia, transporte, almacenamiento, reciclado y disposición final de los residuos sólidos no peligrosos, de conformidad con lo dispuesto por la Constitución General de la República, la Constitución Política del Estado y el Código Municipal.
+## TITULO PRIMERO. De las Garantías Individuales
 
-###### ARTÍCULO 2.
+###### ARTICULO 1°.
 
-Para los efectos del presente Reglamento, se entenderá por:
+El Estado de Oaxaca declara que su organización gubernativa tiene por objeto el mejoramiento económico, social y político de todos sus habitantes, armonizando los derechos individuales con los de la colectividad.
 
-I. AYUNTAMIENTO: El Ayuntamiento de Abasolo;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
-II. DEPARTAMENTO: El Departamento de Limpieza del Municipio;
+###### ARTICULO 2°.
 
-III. RESIDUOS SÓLIDOS: El material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control y tratamiento de cualquier producto, cuya calidad, no permita usarlo nuevamente en el proceso que lo generó; además, que no esté considerado como residuo sólido peligroso que se desarrolle en los domicilios particulares, establecimientos mercantiles, comerciales, industriales, vías públicas y áreas comunes;
+La Ley es una para todos y de ella emanan las facultades y los deberes de las autoridades, así como los derechos y las obligaciones de los individuos de la especie humana. Los Poderes Públicos, entidades morales, autoridades y funcionarios sólo tienen las facultades que les dá la ley. Los individuos pueden hacer todo lo que ésta no les prohibe.
 
-IV. ÁREAS COMUNES: Son los espacios municipales de convivencia y uso general;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
-V. REGLAMENTO: El Reglamento de Limpieza, Recolección y Aprovechamiento de Basura;
+ARTICULO 3° La manifestación de las ideas no puede ser objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque la ley o los derechos de tercero, provoque algún crimen o delito, o perturbe el orden público.
 
-VI. LEY DE INGRESOS: La que se aprueba para el Municipio cada año;
+En consecuencia, es inviolable la libertad de escribir y publicar escritos sobre cualquier materia. Ninguna ley ni autoridad puede establecer la previa censura, ni exigir fianza a los autores o impresores, ni coartar la libertad de imprenta, que no tiene más límite que el respeto a la vida privada, a la ley y a la paz pública. En ningún caso podrá secuestrarse la imprenta o cualquier otro medio que haya servido para hacer la impresión, como instrumento del delito.
 
-VII. RELLENO: El Relleno Sanitario Municipal;
+Las leyes orgánicas dictarán cuantas disposiciones sean necesarias para evitar que so pretexto de las denuncias por delitos de prensa, sean encarcelados los expendedores, voceadores de periódicos, operarios y demás empleados del establecimiento en que se haya impreso el escrito denunciado, a menos que se demuestre previamente la responsabilidad de aquéllos.
 
-VIII. RESIDUOS Y DESHECHOS SÓLIDOS NO PELIGROSOS: La basura y restos de materiales de cualquier naturaleza no peligrosa, depositados en la vía pública los que recolecte el Ayuntamiento a través del Departamento de Limpieza y el Departamento de Parques y Jardines o aquellos que los particulares depositen en las instalaciones destinadas al efecto, son propiedad del Ayuntamiento;
+###### ARTICULO 3°.
 
-IX. LIMPIEZA: Las acciones de aseo, desobstrucción, barrido y en general las que permitan el saneamiento e higiene de las áreas Municipales;
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1940)
 
-X. RECOLECCIÓN: Las acciones de recopilación o acopio de materiales sólidos no peligrosos para su destino final al relleno sanitario o las áreas destinadas para su aprovechamiento o reciclado; y
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
-XI. APROVECHAMIENTO: La reutilización, explotación o provecho de los residuos sólidos no peligrosos, sea en forma directa o descentralizadamente, o bien asignar su tratamiento en virtud de permiso, concesión o contratación a particulares, de conformidad a lo establecido en este Reglamento.
+###### ARTICULO 4°.
 
-###### ARTÍCULO 3.
+Nadie puede ser juzgado por leyes o tribunales especiales; son necesarias leyes expedidas con anterioridad al hecho y jueces previamente establecidos por la Ley.
 
-El ámbito de aplicación es obligatorio en todo el territorio municipal y son sujetos de las disposiciones que regula el presente Reglamento las autoridades, los vecinos, habitantes, visitantes y transeúntes en el Municipio, instituciones públicas, sociales y privadas o personas particulares a los que se les confieran atribuciones, facultades u obligaciones previstas en el mismo.
+###### ARTICULO 5°.
 
-###### ARTÍCULO 4.
+En los juicios del orden criminal queda prohibido imponer por simple analogía y aun por mayoría de razón, pena alguna que no esté decretada por una ley exactamente aplicable al delito de que se trate. En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y a falta de ésta, se fundará en los principios generales del derecho.
 
-Este Reglamento fija las bases para establecer:
+###### ARTICULO 6°.
 
-I. La organización, vigilancia y funcionamiento del servicio público de limpieza así como la forma de operar del relleno sanitario;
+En el Estado, jamás se expedirá ley que imponga penas a personas determinadas, que pretenda surtir efecto retroactivo en perjuicio de alguien, que decrete la infamia de un hombre, una familia o una clase, o que establezca la confiscación de bienes o multas excesivas, entendiéndose por una y otras, las que afecten al patrimonio de familia.
 
-II. La recolección y transporte de residuos sólidos no peligrosos, a los lugares que se destinen para su almacenamiento, recuperación, tratamiento y disposición final, con las modalidades que para el área rural determine autoridad municipal correspondiente, de conformidad con este Reglamento;
+###### ARTICULO 7°.
 
-III. El aseo y limpieza de calles, avenidas, parques, jardines y paseos públicos, calzadas y bulevares, y en general áreas públicas municipales;
+Ninguna detención podrá exceder del término de tres días sin que se justifique con un auto de formal prisión en el que se expresarán: el delito que se impute al acusado, los elementos que constituyan aquél, lugar, tiempo y circunstancias de ejecución y los datos que arroje la averiguación previa, los que deben ser bastantes para comprobar el cuerpo del delito y hacer probable la responsabilidad del acusado. La infracción de esta disposición hace responsable a la autoridad que ordene la detención o la consienta y a los agentes, ministros, alcaides o carceleros que la ejecuten.
 
-IV. El ordenamiento de las actividades de los particulares, relacionadas con la generación de residuos sólidos no peligrosos;
+Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de acusación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
 
-V. La supervisión y vigilancia, de las instalaciones y vehículos donde se realice la transferencia, transporte, almacenamiento, reciclado y disposición final de los residuos sólidos no peligrosos;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 1949)</small>
 
-VI. La comercialización de los residuos sólidos no peligrosos;
+###### ARTICULO 8°.
 
-VII. El ingreso de personas y de vehículos al relleno sanitario;
+En todo juicio del orden criminal, tendrá el acusado las siguientes garantías:
 
-VIII. El manejo, transportación y destino final de los residuos que generen los comercios, instituciones públicas, sociales y privadas o personas particulares a quienes se sujeta al pago de un derecho previsto en la Ley de Ingresos del Municipio;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 1949)</small>
 
-IX. El transporte de basura y desperdicios a los lugares autorizados por el Ayuntamiento para su entierro o incineración; y
+I. Inmediatamente que lo solicite será puesto en libertad bajo fianza que fijará el juez tomando en cuenta sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito merezca ser castigado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión y, sin más requisito que poner la suma de dinero respectiva, a disposición de la autoridad u otorgar caución hipotecaria o personal bastante para asegurarla, bajo la responsabilidad del juez en su aceptación.
 
-X. La recolección, transporte y entierro o cremación de cadáveres de animales que se encuentren en la vía pública y áreas de uso común o establecimientos oficiales.
+En ningún caso la fianza o caución será mayor de $250,000.00 Doscientos Cincuenta Mil Pesos, a no ser que se trate de un delito que presente para su autor un beneficio económico o cause a la víctima un daño patrimonial, pues en estos casos la garantía será, cuando menos, tres veces mayor al beneficio obtenido o al daño ocasionado;
 
-###### ARTÍCULO 5.
+II. No podrá ser compelido a declarar en su contra, por lo cual queda rigurosamente prohibida toda incomunicación o cualquier otro medio que tienda a aquel objeto;
 
-El servicio público del relleno sanitario tiene por finalidad:
+III. Se le hará saber en audiencia pública y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicia, el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en este acto su declaración preparatoria;
 
-I. La instalación y práctica de los rellenos sanitarios;
+IV. Será careado con los testigos que depongan en su contra, los que declararán en su presencia, si estuvieren en el lugar del juicio, para que pueda hacerles todas las preguntas conducentes a su defensa;
 
-II. Coadyuvar a la preservación del ecosistema;
+V. Se le recibirán los testigos y demás pruebas que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, siempre que se encuentren en el lugar del proceso;
 
-III. Obtener el aseo y saneamiento del Municipio;
+VI. Será juzgado en audiencia pública por un juez o jurado de ciudadanos que sepan leer y escribir, vecinos del lugar y distrito en que se cometiere el delito, siempre que éste pueda ser castigado con una pena mayor de un año de prisión. En todo caso serán juzgados por un jurado los responsables de delitos cometidos por medio de la prensa, contra el orden público o la seguridad interior del Estado;
 
-IV. Estimular la cooperación de los habitantes para la limpieza del municipio; y
+VII. Le serán facilitados, en cualquier tiempo, todos los datos que solicite para su defensa y que consten en el proceso;
 
-V. Establecer las obligaciones en materia de aseo público, a cargo de las personas morales o físicas, instituciones públicas, privadas, fraccionadoras o quien realice cualquier tipo de operación mercantil generadora de desperdicios sólidos.
+VIII. Será juzgado antes de tres meses, si se tratare de delitos cuya pena máxima no exceda de dos años de prisión; y antes de seis meses, si la pena máxima excediere de este tiempo;
 
-En caso de residuos líquidos se deberá cumplir con las normas ecológicas federales, estatales y municipales así como con el pago que señale la Ley de Ingresos.
+IX. Se le oirá en defensa por sí o por personas de su confianza o por uno y otras, según su voluntad. En caso de no tener quien lo defienda, se le presentará lista de los defensores de oficio para que elija el que o los que le convengan. Si el acusado no quiere nombrar defensores después de ser requerido para hacerlo, al rendir su declaración preparatoria, el juez le nombrará uno de oficio. El acusado podrá nombrar defensores desde el momento en que sea aprehendido, y tendrá derecho a que éstos se hallen presentes en todos los actos del juicio; pero estará obligado a hacerlos comparecer cuantas veces se necesite;
 
-El manejo de los residuos peligrosos y potencialmente peligrosos se ajustará a la normatividad de la materia.
+X. En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
 
-###### ARTÍCULO 6.
+Tampoco podrá prolongarse la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motivare el proceso. En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
 
-Son autoridades en esta materia:
+###### ARTICULO 9°.
 
-a) El Ayuntamiento;
+Ninguna autoridad, ningún poder público, puede suspender el efecto de las leyes, salvo en el caso previsto por el artículo veintinueve de la Constitución Federal.
 
-b) Presidente Municipal;
+###### ARTICULO 10.
 
-c) Director de Servicios Públicos;
+Ningún negocio judicial tendrá más de dos instancias, y el juez que de cualquiera manera haya intervenido en la primera, no podrá conocer en la segunda. Ningún negocio civil o criminal se sujetará por segunda vez a los Tribunales, cuando ya esté resuelto conforme a las leyes.
 
-d) Director de Ecología;
+###### ARTICULO 11.
 
-e) Jefe del Departamento de dirección de limpieza y aprovechamiento y recolección de basura;
+Nadie puede ser aprisionado por deudas de carácter puramente civil. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Los Tribunales estarán expeditos para administrar justicia en los plazos y términos que fije la ley; su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
 
-f) Tesorero Municipal;
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
-g) La dependencia responsable del relleno sanitario y los servicios de limpieza; y
+###### ARTICULO 12.
 
-h) El superior jerárquico, que tenga el carácter de responsable de una oficina, unidad o área administrativa, según lo dispone el presente Reglamento y demás ordenamientos en materia de servicios y obras públicas municipales.
+Ni la Ley, ni las autoridades reconocerán algún pacto, convenio o contrato que menoscabe la libertad del hombre, ya sea por causa de trabajo, de educación o voto religioso; ni los que impliquen renuncia de cualquiera de las garantías individuales o de beneficio de derecho en asuntos en que el Estado debe intervenir, para garantizar los intereses sociales.
 
-###### ARTÍCULO 7.
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1943)</small>
 
-El Ayuntamiento, a través de la dirección de limpieza y aprovechamiento y recolección de basura, tendrá las siguientes atribuciones y deberes:
+En el Estado nadie podrá desempeñar trabajos personales sin la justa retribución y sin su pleno consentimiento, salvo el trabajo impuesto como pena por la Autoridad Judicial, el cual se ajustará a lo dispuesto en las fracciones l y II del artículo 123 de la Constitución General de la República.
 
-l. Diseñar y operar los sistemas y procedimientos necesarios para la prestación del servicio público de limpieza;
+###### ARTICULO 13.
 
-II. Promover entre los habitantes del Municipio una cultura de la limpieza y respeto al medio ambiente, concertando con los medios de comunicación y con los sectores social y privado, en coordinación con las dependencias federales y estatales que correspondan, la realización de campañas de limpieza;
+Ninguna ley ni autoridad podrá limitar el derecho de petición, con tal que ésta se formule por escrito, de manera pacífica y respetuosa. En asuntos políticos, sólo podrán ejercerlo los ciudadanos de la República. La autoridad a quien se dirija la petición tiene la obligación de contestarla por escrito en el término de diez días, cuando la ley no fije otro, y hacer llegar desde luego su respuesta al peticionario.
 
-III. Determinar rutas, sectores, recorridos, turnos, horarios y frecuencias en que debe prestarse el servicio público de limpieza y de recolección de basura y desperdicios;
+###### ARTICULO 14.
 
-IV. Señalar los lugares en que deben ubicarse los depósitos de basura, e instalar los necesarios para cubrir los requerimientos de la población, para el debido cumplimiento del servicio el Ayuntamiento se coordinará con los vecinos del municipio y las organizaciones representativas de los diversos sectores de la población;
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. Ninguna orden de aprehensión o detención podrá librarse, a no ser por la autoridad judicial, sin que preceda denuncia, acusación o querella de un hecho determinado que la ley castigue con pena corporal, y sin que estén apoyadas aquellas por declaración, bajo protesta, de persona digna de fe o por otros datos que hagan probable la responsabilidad del inculpado, hecha excepción de los casos de infraganti delito, en que cualquiera persona puede aprehender al delincuente y a sus cómplices, poniéndolos sin demora a disposición de la autoridad inmediata. Solamente en casos urgentes, cuando no haya en el lugar alguna autoridad judicial, y tratándose de delitos que se persiguen de oficio, podrá la autoridad administrativa, bajo su más estrecha responsabilidad, decretar la detención de un acusado, poniéndolo inmediatamente a disposición de la autoridad judicial.
 
-V. Aplicar, en el marco de sus atribuciones, las sanciones que correspondan por el incumplimiento de este Reglamento, sin perjuicio de las facultades que en esta materia tengan otras autoridades;
+En toda orden de cateo, que sólo la autoridad judicial podrá expedir y que será escrita, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan; a lo que únicamente debe limitarse la diligencia, levantándose al concluirla, una acta circunstanciada en presencia de dos testigos propuestos por el ocupante del lugar cateado, o en su ausencia o negativa, por la autoridad que practique la diligencia.
 
-VI. Atender oportunamente las quejas e inquietudes de los ciudadanos con relación al servicio público de limpieza;
+La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y para exigir la exhibición de los libros y papeles indispensables para comprobar que se han acatado las disposiciones fiscales, sujetándose, en estos casos, a las leyes respectivas y a las formalidades prescritas para los cateos.
 
-VII. Orientar a la comunidad sobre el manejo más conveniente de la basura y desperdicios;
+###### ARTICULO 15.
 
-VIII. De considerarlo necesario, para la eficiencia del servicio y conveniente por las exigencias de la ciudadanía, concesionar y/o contratar la prestación del servicio público de limpieza, de acuerdo con las disposiciones de este y otros Reglamentos en la materia;
+Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El lugar de ésta será distinto y estará completamente separado del que se destinare para la extinción de las penas.
 
-IX. Autorizar, diseñar, construir y operar directamente o bajo el régimen de concesión, estaciones de transferencia, plantas de tratamiento de residuos sólidos y sitios de disposición final;
+###### ARTICULO 16.
 
-X. Instalar contenedores de residuos sólidos no peligrosos o autorizados a particulares en los lugares que previamente se hayan seleccionado en base a estudios. Se supervisará en forma periódica, el buen funcionamiento de los mismos;
+Nadie podrá ser detenido por más de setenta y dos horas, sin que se le decrete auto motivado de prisión en los términos prevenidos por el artículo séptimo de esta Constitución; ni arrestado por más de veinticuatro horas, sin que se le ponga a disposición de su Juez o se le comunique la corrección impuesta por la autoridad administrativa, en los casos de su competencia. Dos horas antes de concluir el término respectivo, el alcaide o encargado del lugar en que se guarde la detención o el agente que haga sus veces, que no reciba copia autorizada del auto de formal prisión o prisión preventiva, o el aviso de la autoridad administrativa de la corrección impuesta, deberá llamar la atención de quien corresponda sobre ese particular, y si al concluir el término no recibe la constancia mencionada, pondrá en libertad al detenido.
 
-XI. Imponer a los particulares la obligación de destinar sitios y, en su caso, instalar contenedores para depositar residuos sólidos;
+Si la detención se efectúa fuera del lugar en que resida el Juez o la autoridad administrativa que la ordenó, al término mencionado de veinticuatro horas se agregará el suficiente para recorrer la distancia que hubiere entre dicho lugar y aquel en que se efectúe la detención.
 
-XII. Desarrollar todas las actividades que considere pertinentes y necesarias, para lograr la adecuada prestación del Servicio Público de Limpieza;
+Si pasados los términos indicados, el alcaide o quien haga sus veces no recibe copia de los documentos de que se ha hablado, a más de poner en libertad al detenido, dará cuenta inmediatamente al Tribunal Superior de Justicia para que exija la responsabilidad correspondiente.
 
-XIII. Aplicar las sanciones que correspondan, por violaciones al presente Reglamento; y
+###### ARTICULO 17.
 
-XIV. Las demás que expresamente les señale el Ayuntamiento o el Presidente Municipal y demás disposiciones legales, para el mejor desempeño de sus funciones; (sic)
+Todo rigor o maltratamiento usado en la aprehensión, en la detención o en las prisiones; toda gabela o contribución en las cárceles; toda molestia injustificada que se infiera en una prisión; toda privación de los elementos esenciales de la vida; así como la permanencia en lugares notoriamente insalubres o antihigiénicos, son, tanto para el que los ordene, como para el que los ejecute, un motivo de responsabilidad que la autoridad competente hará efectiva conforme a la ley. Las penas que priven de la libertad a un individuo tendrán como base el trabajo adecuado para éste, y como fin, su regeneración social. La autoridad judicial, sólo por causa de urgente administración de justicia que hará constar expresamente en el mandamiento respectivo, podrá decretar la extracción de los reos de sus prisiones.
 
-###### ARTÍCULO 8.
+La autoridad administrativa sólo podrá decretarla, respecto de quienes estén a su disposición, previa la libre gestión del preso, hecha por escrito y firmada por sus defensores, familiares o ante testigos que no sean empleados públicos. La autoridad respectiva será estrictamente responsable de todo perjuicio que el preso sufra por causa originada directamente por la extracción.
 
-El servicio público de limpieza y la operación del relleno sanitario en el Municipio, lo proporcionará el Ayuntamiento a través de la dirección de limpieza, aprovechamiento y recolección de basura , con el personal, equipo y útiles adecuados y necesarios para la prestación oportuna, eficiente y eficaz del servicio, o bien, el mismo se podrá concesionar o contratar con particulares, en los casos y condiciones que estime necesarios, el propio Ayuntamiento organizará y promoverá en el área rural del Municipio, con el apoyo y participación de los vecinos, los servicios comunitarios de limpieza.
+###### ARTICULO 18.
 
-###### ARTÍCULO 9.
+Los habitantes del Estado son absolutamente libres de poseer armas de cualquiera clase, para su seguridad y legítima defensa, excepto las prohibidas expresamente por la ley y las reservadas por la Nación al uso exclusivo del Ejército, Armada y Guardia Nacional; pero para su portación en las poblaciones, quedarán sujetos al reglamento de policía.
 
-La dirección de limpieza, aprovechamiento, recolección de basura contará con un Departamento de Limpieza, que será la unidad administrativa mediante la cual organizará y desarrollará el servicio público de limpieza y recolección de basura.
+###### ARTICULO 19.
 
-###### ARTÍCULO 10.
+No se podrá coartar el derecho de asociarse o reunirse pacíficamente con cualquier objeto lícito; pero solamente los ciudadanos de la República podrán hacerlo para tomar parte en los asuntos políticos del país. Ninguna reunión armada tiene derecho de deliberar.
 
-Los basureros municipales se ubicarán fuera de los centros de población. En la elección de los lugares para el destino final de la basura se estará a lo que al respecto prevengan las normas de la materia y la opinión de las autoridades del Municipio.
+Los ministros de los cultos nunca podrán, en una reunión pública o privada constituida en junta, ni en actos del culto o de propaganda religiosa, hacer crítica de las leyes fundamentales del país, de las autoridades, en particular, o en general, del Gobierno.
 
-###### ARTÍCULO 11.
+Queda estrictamente prohibida la formación de toda clase de agrupaciones políticas cuyo título tenga alguna palabra o indicación cualquiera que la relacione con alguna confesión religiosa. No podrán celebrarse reuniones de carácter político en los templos abiertos al culto.
 
-El servicio público de limpieza a los comercios, instituciones públicas, sociales y privadas o personas particulares, a quienes se sujeta al pago de un derecho, se proporcionará de conformidad con el convenio que al efecto se celebre, el cual contendrá cuando menos los siguientes requisitos:
+Fuera de las prohibiciones de los dos párrafos anteriores, no se considerará ilegal y no podrá ser disuelta una asamblea o reunión que tenga por objeto hacer una petición o presentar una protesta por algún acto de una autoridad, si no se profieren injurias contra ésta, ni se hace uso de violencias o amenazas para intimidarla u obligarla a resolver en el sentido que se desea.
 
-l.- Nombre de los usuarios y lugar de la prestación del servicio;
+###### ARTICULO 20.
 
-II.- Volúmenes y tipo de basura materia del convenio;
+Los bienes que originariamente no han sido de la Federación, constituyen el patrimonio del Estado, el cual ha tenido y tiene el derecho de transmitir el dominio de ellos a los particulares, constituyendo la propiedad privada. Esta no podrá ser expropiada sino por causa de utilidad pública y mediante indemnización. Las necesidades de la agricultura, la ciencia, la industria, el comercio y las comunicaciones; las del orden público o de interés general, serán las bases para calificar la causa de la utilidad pública.
 
-III.- Características de los contenedores o depósitos para la recolección; y
+En el territorio del Estado, este tiene el derecho de regular el aprovechamiento de los elementos naturales susceptibles de apropiación para hacer una distribución equitativa de la riqueza pública y para cuidar de su conservación dictando las medidas necesarias para el desarrollo de la pequeña propiedad, para la creación de nuevos, centros de población agrícola con las tierras y aguas que les sean indispensables; para el fomento de la agricultura en intensidad y extensión; y para evitar la destrucción de los elementos nacionales y los daños que la propiedad pueda sufrir en perjuicio de la sociedad, conforme a las facultades que el artículo veintisiete de la Constitución General concede a los Estados.
 
-IV.- Costo del servicio.
+###### ARTICULO 21.
 
-###### ARTÍCULO 12.
+La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél.
 
-La recolección y transporte de la basura y desperdicios, se hará de acuerdo con las prevenciones y lineamientos que determine el Ayuntamiento y la direccion de limpieza, aprovechamiento y recolección de basura, de conformidad con la normatividad de la materia y atendiendo siempre los intereses de la colectividad.
+Compete a la autoridad administrativa el castigo de las infracciones de los reglamentos gubernativos y de policía, el cual únicamente consistirá en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, que jamás excederá de quince días.
 
-###### ARTÍCULO 13.
+Si el infractor fuere jornalero u obrero, no podrá ser castigado con multa mayor del importe de su jornal o sueldo en una semana.
 
-El Ayuntamiento, al proporcionar el servicio de recolección de basura, deberá:
+###### ARTICULO 22.
 
-I. Aplicar las normas técnicas y ecológicas vigentes para la recolección, tratamiento y disposición de residuos sólidos no peligrosos;
+Son obligaciones de los habitantes del Estado:
 
-II. Dar mantenimiento a los contenedores que sean propiedad del Ayuntamiento;
+I. Hacer que sus hijos o pupilos concurran a las escuelas públicas o particulares, para recibir la educación primaria elemental, durante el tiempo que señale la ley de la materia;
 
-II (SIC). Nombrar el personal necesario y proporcionar los elementos, equipo, útiles y en general todo el material indispensable, para efectuar el barrido manual y mecánico; así como la recolección de los residuos sólidos su transporte a las estaciones de transferencia, planta de tratamiento o sitios de disposición final
+II. Inscribirse en el padrón de la localidad en que residan, manifestando la propiedad que tengan, la industria, profesión o trabajo de que subsistan;
 
-###### ARTÍCULO 14.
+III. Contribuir para los gastos públicos de la Federación, del Estado y del Municipio, de la manera proporcional y equitativa que dispongan las leyes.
 
-El transporte de la basura y desperdicios deberá hacerse en vehículos acondicionados especialmente para este propósito, que llenarán los siguientes requisitos:
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1958)</small>
 
-I. Contar con una caja que sirva de depósito y que esté forrada de lámina metálica, con un mínimo de espesor de 5 mm;
+IV. Cooperar en la Campaña de Alfabetización.
 
-II. Ser susceptibles de perfecto aseo, el que deberá realizarse al concluir las jornadas de trabajo;
+## TITULO SEGUNDO. Del Orden Público
 
-III. Estar provistos de cubiertas de cierre hermético; y
+###### ARTICULO 23.
 
-IV. Tener las herramientas de trabajo necesarias.
+Son obligaciones del ciudadano:
 
-Todo camión recolector de basura, que no sea hermético, deberá ir cubierto con una lona en el trayecto hacia el relleno.
+I. Votar en las elecciones;
 
-Los chóferes de estos camiones, que no cumplan con esta disposición, deberán ser sancionados. En caso de reincidencia les será suspendido su permiso o licencia.
+II. Inscribirse en los padrones electorales;
 
-El particular o institución pública que adquiera un contenedor al cual el Ayuntamiento le proporcione el servicio de recolección, está obligado al uso adecuado del mismo y a cumplir con lo dispuesto en el presente ordenamiento en lo relativo a las condiciones y mantenimiento que deben proporcionarles.
+III. Desempeñar los cargos de elección popular, las funciones electorales y las de jurado;
 
-Para la identificación de los vehículos y equipo del servicio público de limpieza en el Municipio, la adoptará y usará un distintivo general.
+IV. Opinar en asuntos políticos y tomar parte activa en la cosa (sic) pública, en la esfera de sus facultades y con las limitaciones que fije la ley;
 
-Queda prohibida la propaganda política y comercial en el equipamiento y vehículos destinado al servicio de limpieza e instalaciones del relleno sanitario, excepto los de vehículos que proporcionen servicio de limpieza y sean propiedad de particulares, los cuales podrán portar, únicamente, propaganda comercial alusiva al negocio.
+V. Formar parte de la Guardia Nacional para la defensa del territorio y de las instituciones de la República y del Estado, en los términos que prescriban las leyes.
 
-###### ARTÍCULO 15.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE NOVIEMBRE DE 1956)</small>
 
-Es facultad municipal la autorización e instalación de contenedores en lugares donde no afecte al tráfico de vehículos, ni represente peligro o afecte el paisaje urbano. Los contenedores de residuos sólidos deberán cumplir con lo siguiente:
+###### ARTICULO 24.
 
-I. Que su capacidad, este en relación con la cantidad de residuos sólidos que deba contener, atendiendo a la superficie asignada y tomando en cuenta las necesidades del caso;
+Son prerrogativas de los ciudadanos hombres y mujeres:
 
-II. Que su construcción sea de material resistente;
+I.- Votar en las elecciones populares.
 
-III. Que sean aseados y revisados regularmente, para un adecuado mantenimiento, a fin de que no se favorezca la procreación de fauna nociva y microorganismos perjudiciales para la salud, así como, evitar la emisión de olores desagradables; y
+II.- Ser votados para los cargos de elección popular y ser promovidos a cualquier empleo o comisión conforme a las leyes.
 
-IV. Deberán tener inscripciones alusivas a su uso y podrán contener además, publicidad o propaganda de particulares y/o del servicio de limpieza del Municipio, cuando este sea concesionado por el Ayuntamiento.
+III.- Alistarse en la guardia nacional para la defensa del territorio y de las instituciones de la República y del Estado, en los términos que prescriben las leyes.
 
-###### ARTÍCULO 16.
+###### ARTICULO 25.
 
-Los constructores de nuevos desarrollos habitacionales, deberán proporcionar al Municipio, un contenedor para la basura de 4.5 metros cúbicos por cada 20 viviendas. Igual obligación tendrán los dueños de edificios o comercios de varios pisos y, quienes construyan privadas o fraccionamientos con andadores donde el acceso, para el camión recolector sea difícil. En tal caso el contenedor, deberá estar a la entrada de las mismas.
+Las elecciones deben ser enteramente libres, y todo ciudadano que reúna los requisitos que previene la ley, tiene derecho de elegir y ser electo.
 
-###### ARTÍCULO 17.
+## TITULO TERCERO. Del Estado, su soberanía y territorio
 
-Los bienes muebles e inmuebles del Ayuntamiento asignados al Departamento de Limpieza, tendrán como único destino el que sirva para cumplir los fines de esa Unidad Administrativa. La contravención de lo anterior ocasiona responsabilidad para el servidor público de que se trate.
+###### ARTICULO 26.
 
-###### ARTÍCULO 18.
+El Estado de Oaxaca es parte integrante de los Estados Unidos Mexicanos; pero es libre y soberano en todo lo que concierne a su régimen interior, conforme a los preceptos de la Constitución General de la República.
 
-En materia de recolección y transporte de basura y desperdicios provenientes de los edificios que tengan hornos incineradores, el servicio se limitará a la recolección de las cenizas que se produzcan, en las condiciones y modalidades que determine la dirección de limpieza, aprovechamiento y recolección de basura.
+###### ARTICULO 27.
 
-###### ARTÍCULO 19.
+La soberanía reside esencial y originariamente en el pueblo y se ejerce por medio de los Poderes del Estado, en lo relativo a su gobierno y administración interior, en los términos que establece esta Constitución. Todo poder público dimana del pueblo y se instituye para beneficio de éste.
 
-Los propietarios, usuarios y poseedores de vehículos destinados al transporte de basura, forrajes, escombros y materiales de construcción, cuidarán que los mismos no sean cargados sobre el límite de su capacidad; de igual forma se asegurarán contar con las condiciones mecánicas óptimas de las unidades y cumplir las prevenciones previstas en el presente Reglamento.
+###### ARTICULO 28.
 
-Los materiales a que se refiere el párrafo anterior deberán transportarse completamente cubiertos a fin de conservar limpio el Municipio.
+El territorio del Estado de Oaxaca es el que posee actualmente conforme a las jurisdicciones de hecho ejercidas por sus respectivas autoridades y el que por derecho le corresponda; y no podrá ser desmembrado sino en los términos prevenidos por la Constitución Federal.
 
-###### ARTÍCULO 20.
+## TITULO CUARTO. Del Gobierno del Estado
 
-La dirección de limpieza, aprovechamiento y recolección de basura difundirá los recorridos y horarios de los vehículos públicos de recolección, solo en casos extraordinarios, el personal a cargo de las unidades del servicio de limpia, anunciará su llegada a los vecinos.
+### CAPITULO I. De la Forma de Gobierno y División de Poderes
 
-###### ARTÍCULO 21.
+###### ARTICULO 29.
 
-Cuando los particulares contraten a otro particular para el traslado de los deshechos (sic) sólidos, ellos deberán verificar que tengan el permiso o licencia para cumplir con ese cometido expedido o autorizado por el Ayuntamiento.
+El Estado adopta para su régimen interior la forma de gobierno republicano, representativo y popular, teniendo como base de su organización política y administrativa, el Municipio Libre.
 
-En caso de líquidos depositados en el relleno sanitario se deberá cumplir con las normas ecológicas Federales, Estatales y Municipales así como con el pago que señale la Ley de Ingresos.
+###### ARTICULO 30.
 
-###### ARTÍCULO 22.
+El Poder público del Estado se divide, para el ejercicio de sus funciones, en Legislativo, Ejecutivo y Judicial. Estos poderes siempre se ejercerán en la forma y términos establecidos en esta Constitución; en consecuencia, nunca podrán reunirse uno o dos de ellos en cualquiera de los tres; sólo podrán concederse facultades legislativas al Ejecutivo en los términos prevenidos por el artículo 62 de esta Constitución.
 
-Cuando por razones de orden económico, la basura y desperdicios sean susceptibles de aprovecharse industrialmente, bien por cuenta de la administración pública o por empresas particulares, el R. Ayuntamiento de Abasolo fijará las bases y procedimientos a que sujetará dicho aprovechamiento.
-
-## TITULO SEGUNDO. DE LA PRESTACIÓN DEL SERVICIO PÚBLICO DE LIMPIEZA Y DEL APROVECHAMIENTO DE LOS RESIDUOS SÓLIDOS NO PELIGROSOS
-
-###### ARTÍCULO 23.
-
-Cuando los residuos sólidos no peligrosos, puedan ser industrializados, los concesionarios o el propio Ayuntamiento, se sujetarán a la legislación vigente, disponiendo, el Departamento, las medidas necesarias para evitar que las instalaciones y procesos de reutilización, afecten el medio ambiente y la salud pública.
-
-###### ARTÍCULO 24.
-
-Los residuos sólidos no peligrosos, depositados en la vía pública, los que recolecte el Ayuntamiento a través de los Departamentos de Limpieza y Parques y Jardines o aquellos que los particulares depositen en las instalaciones destinadas al efecto, son propiedad deL (sic) Ayuntamiento, quien podrá aprovecharlos directa o descentralizadamente o bien, asignar su aprovechamiento en virtud de permiso, concesión o contratación a particulares, de conformidad a lo establecido en este Reglamento.
-
-###### ARTÍCULO 25.
-
-Es responsabilidad de los habitantes del Municipio participar en el mantenimiento y conservación de la limpieza del Municipio, ejerciendo todas aquellas acciones que se consideren necesarias para ese fin, de acuerdo con las obligaciones previstas en el presente Reglamento.
-
-La autoridad municipal convocará a la comunidad a participar en actividades colectivas de limpieza y remozamiento.
-
-## TITULO TERCERO. DE LA PARTICIPACIÓN DE LA COMUNIDAD EN EL SERVICIO DE LIMPIEZA
-
-###### ARTÍCULO 26.
-
-El servicio de limpieza es de interés general y tanto la comunidad como las dependencias oficiales, tendrán la obligación de colaborar con el Ayuntamiento en la conservación y mantenimiento del aseo público del Municipio.
-
-###### ARTÍCULO 27.
-
-Los propietarios y poseedores de inmuebles del Municipio deberán:
-
-I. Barrer las banquetas y la mitad del arrollo de las calles que colindan con su domicilio particular, comercial o industrial, antes de las 8:30 horas; y
-
-II. Mantener limpios los terrenos, que no contengan construcción o con obra interrumpida, a efecto de evitar contaminación y molestias a los vecinos. En caso de incumplimiento el Departamento, tendrá la facultad de llevar a cabo el trabajo de limpia, cuyo costo será a cargo del propietario o poseedor.
-
-###### ARTÍCULO 28.
-
-Los propietarios o encargados de expendios y bodegas, cuya carga y descarga ensucie la vía pública, estarán obligados al aseo inmediato del lugar, una vez terminadas las maniobras respectivas.
-
-## TITULO CUARTO. DE LAS SANCIONES E INFRACCIONES
-
-### CAPITULO I. DISPOSICIONES GENERALES
-
-###### ARTÍCULO 29.
-
-Los peatones, no podrán arrojar basura en la vía pública. Los particulares que circulen en sus vehículos, de su interior no podrán arrojar basura.
-
-###### ARTÍCULO 30.
-
-Los conductores de vehículos destinados al transporte de materiales, deberán cubrir la caja de sus vehículos con el equipo adecuado para evitar que la carga se esparza en su trayecto.
-
-Cuando los materiales que se transporten corran el peligro de esparcirse o producir polvo, deberán cubrirse con lonas o costales húmedos.
-
-Deberán barrer el interior de la caja del vehículo, una vez que hayan terminado su recorrido o hayan descargado los materiales respectivos, para evitar que escapen polvos, desperdicios o residuos sólidos durante el recorrido de regreso.
-
-### CAPITULO II. DE LAS AUTORIDADES COMPETENTES EN LA MATERIA
+### CAPITULO II. Del Poder Legislativo
 
 #### SECCION PRIMERA. De la Legislatura
 
-###### ARTÍCULO 31.
+###### ARTICULO 31.
 
-Los propietarios o encargados de puestos comerciales en la vía pública fijos, semifijos y ambulantes, deberán realizar la limpieza del área que ocupen y tendrán además, la obligación de disponer de la basura y desperdicios que produzcan ellos o sus clientes, en los términos del presente Reglamento, en un lugar visible de su establecimiento un depósito de basura, el cual necesariamente deberá tener cubierta e identificación.
+El Poder Legislativo se ejerce por una Asamblea que se denominará Legislatura del Estado y estará integrada por Diputados electos directa y popularmente.
 
-###### ARTÍCULO 32.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
 
-Los propietarios o poseedores de establos, caballerizas o cualquier otro local o sitio destinados al alojamiento de animales, están obligados a transportar diariamente el estiércol y residuos sólidos no peligrosos producidos, llevándolos por cuenta propia a los depósitos señalados previamente para ello.
+###### ARTICULO 32.
 
-Los propietarios de animales domésticos estarán obligados a recoger y limpiar los desechos fecales que generen sus animales en las áreas de uso común.
+La legislatura se renovará totalmente cada tres años, en los términos que dispone la Ley respectiva y de acuerdo con las bases que establece esta Constitución.
 
-###### ARTÍCULO 33.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
 
-Los propietarios o poseedores de estacionamientos y talleres para la reparación de automóviles, carpintería, pintura y establecimientos similares, deberán ejecutar sus labores en el interior de los mismos y no en la vía pública y transportar por su cuenta al lugar que les indique el Departamento, los residuos sólidos que generan.
+###### ARTICULO 33.
 
-###### ARTÍCULO 34.
+Se elegirá un diputado por cada cien mil habitantes o fracción mayor de cincuenta mil. Por cada diputado propietario se elegirá un suplente.
 
-Los propietarios o encargados de expendios o bodegas de material para construcción, carbón, leña o mercancía similares, están obligados a mantener en perfecto estado el aseo del frente de sus establecimientos, así como evitar la propagación del polvo o residuos sólidos, poniendo especial cuidado en las maniobras de carga, descarga o despacho de dichos materiales.
+Los diputados propietarios no podrán ser reelectos para el período inmediato ni con el carácter de suplentes. Los diputados suplentes podrán ser reelectos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio.
 
-###### ARTÍCULO 35.
+> <small>(REFORMADO, 29 DE OCTUBRE DE 1938)</small>
 
-Los propietarios, directores, responsables de obra, contratistas y encargados de un inmueble en construcción o demolición, serán responsables solidariamente, de la diseminación de materiales, escombros y cualquier otra clase de residuos sólidos. El frente de las construcciones o inmuebles en demolición, deberán mantenerse en completa limpieza, quedando estrictamente prohibido acumular escombros y materiales en la vía pública. Los responsables, deberán transportar los escombros a los sitios que determine el Departamento, esto es aplicable a aquellos que realicen trabajos de construcción en la vía pública.
+###### ARTICULO 34.
 
-###### ARTÍCULO 36.
+Para ser Diputado Propietario o Suplente se requiere: ser ciudadano en el ejercicio de sus derechos; ser nativo del Estado de Oaxaca y con residencia en su territorio inmediatamente anterior de un año por lo menos; haber cumplido veinticinco años el día de la elección; no haber tomado participación directa ni indirecta en alguna asonada, motín o cuartelazo, y tener un modo honesto de vivir. La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular.
 
-Los propietarios, administradores o encargados de los establecimientos que se dedican a la venta de gasolina o servicios de lubricación, limpieza y reparación de vehículos, deberán mantenerlos aseados, así como la vía pública en que se ubique su local.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1939)</small>
 
-###### ARTÍCULO 37.
+###### ARTICULO 35.
 
-Los propietarios, concesionarios y/o transportistas de residuos industriales derramados, generados y/o esparcidos en forma líquida y/o sólida, deberán solicitar al Departamento la autorización para su tratamiento, confinamiento o disposición final. Esto en coordinación con las Direcciones de Ecología y Salud.
+No pueden ser electos Diputados: el Gobernador del Estado, el Secretario General del Despacho, el Subsecretario, los Magistrados del Tribunal Superior de Justicia, el Procurador General, el Jefe de la Defensoría de Oficio, el Contador Mayor de Glosa y el Tesorero General.
 
-###### ARTÍCULO 38.
+Tampoco podrán ser electos Diputados los funcionarios de la Federación y los demás del Estado, y los militares, si no se separan de sus cargos con anticipación de 90 días antes de la fecha de la elección. Para los efectos de esta última disposición, se consideran también como militares en servicio activo, los Jefes y Oficiales de las fuerzas de seguridad pública del Estado, cualquiera que sea su denominación.
 
-Los propietarios de los inmuebles con o sin construcción o baldíos, entregarán oportunamente al personal que cubra el servicio de limpieza, la basura y desperdicios que se genere en el interior de los mismos y los que provengan del aseo de la vía pública.
+###### ARTICULO 36.
 
-Lo anterior se llevará a cabo bajo lo siguiente:
+Ningún ciudadano podrá rehusarse a desempeñar el cargo de Diputado, si no es por causa justa calificada por la Legislatura, ante la cual se presentará la excusa.
 
-I. Es responsabilidad del Ayuntamiento la recolección domiciliaria de residuos sólidos domésticos que se generen en forma normal, siempre y cuando los particulares depositen los residuos en el lugar, horario y día establecidos para el sector que corresponda;
+###### ARTICULO 37.
 
-II. Cuando el servicio de recolección no se ofrezca en algún área de la cuidad, sus habitantes quedan obligados a trasladar los residuos sólidos a la esquina más cercana a su domicilio dónde se cumpla con este cometido. El Ayuntamiento promoverá la colocación de contenedores, cuidando que no perjudique a los vecinos; y
+Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo y nunca podrán ser reconvenidos por ellas.
 
-III. Cuando por cualquier eventualidad, la unidad recolectora no pase el día y hora establecidos, el habitante queda obligado a introducir los residuos a su domicilio y sacarlos nuevamente cuando se regularice el servicio.
+###### ARTICULO 38.
 
-###### ARTÍCULO 39.
+El ejercicio del cargo de Diputado es incompatible con cualquiera comisión o empleo del gobierno federal o del Estado, por el que se disfrute sueldo, sin licencia previa de la Legislatura; pero cesarán en sus funciones representativas mientras dure la nueva ocupación. La infracción a esta disposición se tendrá por la renuncia del cargo de Diputado con causa justificada, y se llamará desde luego al suplente o se declarará la vacante, en su caso.
 
-Los propietarios, administradores o encargados de camiones o transportes destinados al servicio de pasajeros y de carga, así como automóviles de alquiler, deberán mantener en perfecto estado de limpieza la vía pública de sus terminales o lugares de estacionamiento.
+###### ARTICULO 39.
 
-###### ARTÍCULO 40.
+Los presuntos diputados, propietarios y suplentes presentarán sus credenciales a la Secretaría de la Legislatura, para que sean registradas y se pase lista de ellas en la primera Junta Previa que deberá efectuarse el día primero de septiembre. En esta o en una segunda Junta Previa, se elegirá Mesa Directiva de las Juntas Preparatorias, con forme a la Fracción I del Artículo 41 de esta Constitución.
 
-Los propietarios, administradores, arrendatarios o encargados de edificaciones habitacionales, comerciales, industriales o públicos, mandarán colocar en los lugares que determine el Ayuntamiento, los depósitos necesarios a fin de que en ellos se recolecten los residuos sólidos, debiendo situarlos en los lugares y empaques que el Departamento disponga por medio de prevenciones generales, con el objeto de que su contenido sea recogido por el personal del vehículo recolector. Los depósitos deberán satisfacer las necesidades del servicio del inmueble y cumplir con las condiciones de seguridad e higiene que establece este Reglamento y conforme a la Ley Estatal de Salud.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
+
+###### ARTICULO 40.
+
+Dentro de los cinco días siguientes a la celebración de la primera Junta Previa, o de la segunda, en su caso, se efectuarán todas las Juntas Preparatorias que sean necesarias para la calificación de las credenciales, de manera que la Lesgislatura (sic) pueda instalarse el día 15 del mismo mes de septiembre, en cuya fecha se hará la elección de Presidente y Vice-presidente y Secretarios, en los términos del Reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 1944)</small>
 
 #### SECCION SEGUNDA. De la Instalación de la Legislatura y su Funcionamiento
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
 
-###### ARTÍCULO 41.
+###### ARTICULO 41.
 
-Los promotores de espectáculos públicos, serán responsables del aseo de las áreas aledañas al sitio de su presentación. Para el debido cumplimiento de esta obligación deberán otorgar garantías suficientes a juicio de la dirección de limpieza, aprovechamiento y recolección de basura previa la expedición de la Licencia Municipal correspondiente.
+Las Juntas Previas y Preparatorias se sujetarán a lo que disponga el Reglamento Interior de la Legislatura, el cual deberá comprender las bases siguientes:
 
-###### ARTÍCULO 42.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1944)</small>
 
-La basura y desperdicios que se produzcan en centros hospitalarios, clínicas y laboratorios químicos o médicos, deberán disponerse en los términos que establezcan las autoridades sanitarias y municipales, conforme a lo previsto en la legislación de la materia y las necesidades de salud pública.
+I. La Junta o Juntas Previas serán instaladas y dirigidas por la Comisión respectiva de la Legislatura, la que, una vez designada la Mesa Directiva de las Juntas Preparatorias, hará entrega a ésta de todos los expedientes electorales.
 
-El incumplimiento de las obligaciones previstas en el párrafo anterior acarrea las sanciones a que se refiere este Reglamento
+La elección de la Mesa Directiva de las Juntas Preparatorias se hará en escrutinio secreto y a mayoría absoluta de votos de los presuntos diputados;
 
-###### ARTÍCULO 43.
+II. De los presuntos diputados, solamente asistirán quienes hayan registrado sus credenciales en la Secretaría de la Legislatura;
 
-Es obligación de los propietarios o poseedores de edificios de departamentos, hoteles, restaurantes, establecimientos comerciales e industriales y en general de aquellos inmuebles que a juicio del Ayuntamiento lo ameriten, contar con los depósitos y hornos incineradores de basura debidamente autorizados de conformidad con la legislación de la materia.
+III. Unicamente se registrarán las credenciales que llenen los requisitos de autenticidad que determine la ley respectiva;
 
-###### ARTÍCULO 44.
+IV. Si hubiere dos o más credenciales con los requisitos legales, todas serán registradas; pero ninguno de los tenedores de ellas podrá asistir a las juntas previas, y así será juzgada y calificada la legitimidad;
 
-Queda prohibido:
+V. La calificación de la legitimidad de las credenciales será hecha por mayoría absoluta de votos de los presentes, y estas resoluciones serán definitivas.
 
-I. Arrojar o abandonar en la vía pública o en cualquier sitio no autorizado, residuos sólidos de cualquier especie;
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
-II. Orinar o defecar en cualquier lugar público o área de uso común, distinto de los autorizados para ese efecto;
+###### ARTICULO 42.
 
-III. Arrojar a la vía pública animales muertos o desechos y sustancias tóxicas peligrosas para la salud pública o que despidan olores desagradables;
+La Legislatura tendrá períodos ordinarios de sesiones dos veces al año; el primer período de sesiones dará principio el día diez y seis de septiembre, y el segundo, el primero de abril del año siguiente; y no podrán prolongarse más que hasta el diez y seis de diciembre y el treinta de junio, respectivamente.
 
-IV. Quemar en lugares no autorizados, cualquier tipo de residuos sólidos;
+Se reunirá, además, en períodos extraordinarios siempre que sea convocada por la Diputación Permanente o por el Ejecutivo; pero si éste hiciere la convocatoria, no se efectuará antes de diez días de la fecha de la publicación de aquella.
 
-V. Arrojar o abandonar en lotes baldíos o en obras interrumpidas, residuos sólidos;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 1963)</small>
 
-VI. Extraer los botes colectores, depósitos o contenedores que se encuentren en la vía pública, los residuos sólidos que contengan;
+###### ARTICULO 43.
 
-VII. Establecer depósitos de residuos sólidos en lugares no autorizados;
+A la apertura del Primer Período Ordinario de Sesiones, correspondiente al Primer Año de Ejercicio Legal de toda Legislatura Local, que tendrá lugar el 16 de septiembre, asistirá el Gobernador del Estado. La Legislatura Local, celebrará una Sesión Solemne el día primero de octubre de cada año, a la cual asistirá el C. Gobernador del Estado y leerá un informe sobre el estado que guarda la Administración Pública.
 
-VIII. Utilizar la vía pública como estancia de animales de cualquier especie;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
-IX. Arrojar escombro o ramas en los contenedores de residuos sólidos;
+Si se tratare de un período extraordinario convocado a petición del Ejecutivo, el informe versará sobre las causas que motivaron la convocatoria. En el caso de que ésta se hubiere hecho por la Diputación Permanente, el Gobernador se limitará a comunicar a la Legislatura que cumplió con el acuerdo de la Diputación haciendo publicar la convocatoria.
 
-X. Destinar para la recolección domiciliaria paquetes con residuos sólidos que excedan de 25 kilogramos;
+###### ARTICULO 44.
 
-XI. Depositar residuos sólidos que impliquen algún peligro para la salud en recipientes o bolsas inadecuadas, que generen emanaciones peligrosas;
+El primer período de sesiones se destinará de preferencia a la discusión y resolución de los Presupuestos de Ingresos y Egresos del Estado y Presupuestos de Ingresos de los Municipios.
 
-XII. Dejar los residuos sólidos para su recolección en lugares, fecha y horarios no autorizados; y
+###### ARTICULO 45.
 
-XIII. Todo acto y omisión que contribuya al desaseo de las vías públicas y áreas comunes o que impida la prestación del servicio público de limpieza.
+El segundo período de sesiones se destinará de preferencia a la revisión y calificación de las cuentas de inversión de las rentas del Estado y de los Municipios, relativas al año anterior.
 
-El cumplimiento a lo preceptuado en las Fracciones I, II, III y XIII de este artículo, se sancionará de acuerdo a la gravedad de la falta, en los términos previsto (sic) en este Reglamento, sin perjuicio de la aplicación de las sanciones que correspondan por violación a otras disposiciones legales, La dirección de limpieza, aprovechamiento y recolección de basura, deberá denunciar ante la Procuraduría Federal de Protección al Ambiente o ante las autoridades Federales o Locales competentes, todo hecho, acto u misión que produzca desequilibrio ecológico, daños al ambiente, o cualquier contravención a la legislación en la materia.
+###### ARTICULO 46.
 
-###### ARTÍCULO 45.
+Los períodos extraordinarios de sesiones, se destinarán exclusivamente a estudiar los asuntos contenidos en la convocatoria, y se cerrarán antes del día de la apertura del período ordinario, aun cuando no hubieren llegado a resolverse los asuntos que motivaren su reunión, reservando su conclusión para el período ordinario.
 
-Las sanciones contenidas en el presente Reglamento serán aplicadas, según sea el caso, por:
+###### ARTICULO 47.
 
-I.- El Presidente Municipal;
+La Legislatura no podrá abrir sus sesiones ni ejercer su cometido, sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes el día señalado por la ley, deberán compeler a los ausentes propietarios y suplentes a que concurran dentro de un plazo que no excederá de diez días apercibiendo a los propietarios de que si no lo hacen, se entenderá que renuncian al cargo; y si tampoco asistieren los suplentes, se declarará vacante el puesto y se convocará a nuevas elecciones.
 
-II.- El Director o Jefe de Departamento de la dirección de limpieza, aprovechamiento y reelección de basura y por los empleados de esta Dependencia que cuenten con autorización expresa para el efecto;
+Los diputados que falten a diez sesiones en un mes sin causa justificada, perderán el derecho de ejercer sus funciones en el período de sesiones en que ocurra la falta, y se llamará a los suplentes.
 
-III.- El titular de la Policía Preventiva Municipal y los elementos de la corporación, cuando conozcan de conductas contrarias a este reglamento y no se cuente con la presencia de personal de; la dirección de limpieza, aprovechamiento y recolección de basura y
+###### ARTICULO 48.
 
-IV.- Los empleados municipales que cuenten con autorización expresa del Presidente Municipal para realizar labores de inspección y vigilancia en esta materia.
+La Ciudad de Oaxaca de Juárez será el lugar donde la Legislatura celebre sus sesiones y donde residirán los Poderes del Estado; y no podrán trasladarse a otro punto, sin que así lo acuerden las tres cuartas partes de los diputados presentes.
 
-###### ARTÍCULO 46.
+###### ARTICULO 49.
 
-La dirección de limpieza, aprovechamiento y recolección de basura en los términos por este Reglamento, sancionará a quienes resulten responsables de las infracciones al presente ordenamiento. La imposición y cumplimiento de las sanciones, no exime al infractor de la obligación de corregir las irregularidades que hayan dado motivo a dicha sanción.
+Toda resolución que dicte la Legislatura, tendrá el carácter de ley, decreto, iniciativa ante el Congreso de la Unión o acuerdo.
 
-###### ARTÍCULO 47.
-
-La dirección de limpieza, aprovechamiento y recolección de basura, para aplicar la sanción correspondiente, deberá tomar en cuenta las condiciones personales del infractor, la gravedad de la infracción y las modalidades y demás circunstancias en que la misma se haya cometido.
-
-Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de un día de salario.
-
-Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
-
-###### ARTÍCULO 48.
-
-Se sancionará con multa de 4 hasta ocho salarios mínimos diarios vigentes en el Municipio, a quienes incurran en cualquiera de las conductas siguientes:
-
-I. Tirar basura en la vía pública o en lugares no autorizados para el efecto;
-
-En esta fracción queda comprendida la basura que generen y tiren en la vía pública automovilistas y peatones sin importar el volumen;
-
-II. Transportar basura o desperdicios en vehículos que no reúnan los requisitos o sin tomar las precauciones señaladas en este ordenamiento;
-
-III. Quemar basura o desperdicios fuera de los lugares autorizados por el Ayuntamiento;
-
-IV. Destruir, dañar o robar los depósitos o contenedores de basura instalados en la vía pública. La sanción señalada, es independiente de la responsabilidad de carácter penal o civil que se pueda generarse;
-
-V. Descuidar el aseo de tramo de la calle y banqueta que corresponda a los propietarios o poseedores de casa o edificios, independientemente de la procedencia de la basura; y (sic)
-
-VI. Sacar la basura a las áreas de recolección con una anticipación mayor de una hora al momento establecido para la recolección en el sector que corresponda;
-
-VII. Depositar en la vía pública o en lugares no autorizados de material de escombro;
-
-VIII. El depósito en la vía pública o en lugares no autorizados de material de escombro podrá, según su magnitud o gravedad, sancionarse hasta con un día de salarios mínimos diarios vigentes en el Municipio; y
-
-IX. No mantener limpia el área ocupada por los establecimientos comerciales, estén o no en funcionamiento.
-
-###### ARTÍCULO 49.
-
-Los propietarios de lotes baldíos y fraccionamientos que incumplan lo dispuesto en el presente Reglamento, se harán acreedores a una sanción de 1 hasta 15 salarios mínimos diarios vigentes en el Municipio por metros lineales del frente.
+Las leyes, decretos o iniciativas se comunicarán firmados por el Presidente y los Secretarios, y los acuerdos, por los Secretarios solamente.
 
 #### SECCION TERCERA. De la Iniciativa y Formación de las Leyes
 
-###### ARTÍCULO 50.
+###### ARTICULO 50.
 
-En caso de reincidir, se podrá aplicar al infractor hasta un tanto más del límite máximo señalado en los artículos anteriores.
+El derecho de iniciar leyes corresponde:
 
-###### ARTÍCULO 51.
+I. A los Diputados;
 
-La graduación de la sanción entre el mínimo y el máximo señalado en los artículos anteriores, se hará tomando en cuenta la gravedad de la infracción cometida, el daño que ocasionen al medio ambiente, las condiciones económicas del infractor, los posibles casos de reincidencia y la conveniencia de terminar prácticas que sean contrarias a la limpieza del Municipio.
+II. Al Gobernador del Estado;
 
-###### ARTÍCULO 52.
+III. Al Tribunal Superior de Justicia en todo lo administrativo y orgánico judicial;
 
-Los partidos políticos estatales y nacionales, concluidas las campañas, en los términos de la legislación electoral, tendrán la obligación de retirar la propaganda. Asimismo, deberán asegurarse que la propaganda sea colgada o instalada correctamente, a fin de evitar que la misma caiga y produzca basura en el Municipio de Abasolo.
+IV. A los Ayuntamientos en los asuntos que incumben a los Municipios, por lo que se refiere a sus respectivas localidades;
 
-Los partidos políticos sin registro no podrán colocar propaganda que invite a la población a votar por sus candidatos.
+V. A los ciudadanos del Estado en todos los ramos de la administración.
 
-La negativa a cumplir con la obligación que establece este artículo, previa notificación por escrito de la autoridad, ocasiona una sanción de hasta 8 días de salarios mínimos diarios vigentes en el Municipio.
+###### ARTICULO 51.
 
-###### ARTÍCULO 53.
+La discusión y aprobación de las leyes se hará con estricta sujeción al Reglamento de debates; pero las iniciativas del Ejecutivo y del Tribunal Superior de Justicia, se pasarán desde luego a Comisión.
 
-Las sanciones a que se refiere el presente Reglamento, son independientes de las acciones de limpieza y/o recolección que se requieran y a las cuales queda obligado el infractor. En caso de negativa expresa o tácita para ejecutarlas, la autoridad previa notificación por escrito, la realizará con cargo al infractor.
+###### ARTICULO 52.
 
-###### ARTÍCULO 54.
+En la discusión de los proyectos de leyes y decretos, el Ejecutivo tendrá la intervención que le asigna la presente Constitución.
 
-En caso de incumplimiento en el pago de sanciones impuestas por la autoridad, y de los actos no ejecutados con motivo de las obligaciones que se derivan del presente Reglamento, se dará vista a la Tesorería Municipal, para que en el marco de sus atribuciones las haga efectivas.
+###### ARTICULO 53.
+
+Aprobado un proyecto, se remitirá al Ejecutivo, quien, si no tuviere observaciones que hacer, lo publicará inmediatamente.
+
+Se reputará aprobado por el Ejecutivo todo proyecto que no sea devuelto dentro de diez días útiles, si el número de artículos que lo forman no excede de cien, o dentro de quince si el articulado pasare de ese número; pero si el período de sesiones hubiere de clausurarse corriendo ese término, se entenderá prorrogado para sólo el efecto de resolver sobre las observaciones; en consecuencia, no podrá tratarse ningún otro asunto durante la prórroga.
+
+###### ARTICULO 54.
+
+Todo proyecto que sea devuelto por el Ejecutivo con observaciones, sufrirá los trámites de Reglamento. La discusión se limitará a la parte observada. Si la Legislatura aprueba las observaciones por la mayoría absoluta de votos de los diputados presentes, todo el proyecto será ley o decreto; también será ley o decreto el proyecto que sea ratificado por el voto de la mayoría absoluta del número total de diputados; en caso contrario, se considerará desechado y no podrá volver a discusión sino hasta el siguiente período ordinario de sesiones. Si las observaciones fueren aprobadas en parte y en parte desechadas, se publicará todo lo aprobado, si pudiere hacerse sin perjuicio de lo no aprobado.
 
 ###### ARTICULO 55.
 
@@ -539,9 +467,13 @@ II. Arreglar y fijar los límites del Estado, en los términos que señala el ar
 
 III. Informar al Congreso de la Unión en los casos a que se refiere el inciso tercero de la fracción III del artículo setenta y tres de la Constitución General, y resolver lo conducente sobre la determinación del propio Congreso, de acuerdo con el inciso sexto de la misma fracción;
 
-IV. Erigir nuevos Municipios dentro de los ya existentes, siempre que los interesados comprueben que la nueva Institución contará con los elementos suficientes para su sostenimiento y con una población no menor de dos mil habitantes. En este caso, la Legislatura oirá la opinión de los Ayuntamientos que resulten afectados por la nueva erección;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1962)</small>
 
-V. Suprimir Municipios siempre que sus rentas no alcancen a cubrir su presupuesto de egresos;
+IV. Erigir nuevos municipios dentro de los ya existentes, siempre que los interesados comprueben debidamente que la nueva Institución contará con los elementos suficientes para su sostenimiento, administración y desarrollo, y con una población no menor de cinco mil habitantes. En este caso la Legislatura oirá la opinión de los Ayuntamientos que resulten afectados;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1962)</small>
+
+V. Suprimir Municipios siempre que sus rentas no alcancen a cubrir su Presupuesto de Egresos o carezcan de capacidad para manejarse por sí mismos y administrarse a través de su respectivo Ayuntamiento, o cuando los núcleos de población que lo integren, no lleguen a cinco mil habitantes;
 
 VI. Dictar todas las leyes necesarias para el funcionamiento de los Ayuntamientos, con arreglo a las disposiciones relativas de esta Constitución;
 
@@ -685,7 +617,7 @@ X. Dictaminar sobre todos los asuntos que queden sin resolución, a efecto de qu
 
 #### SECCION PRIMERA. Del Gobernador del Estado
 
-### CAPITULO I. DEL SERVICIO PUBLICO DE LIMPIEZA Y DE LA RECOLECCIÓN
+### CAPITULO III. Del Poder Ejecutivo
 
 #### SECCION SEGUNDA. De las Facultades, Obligaciones y Restricciones del Gobernador
 
@@ -827,9 +759,9 @@ I. Cuidar del exacto cumplimiento de la Constitución General y de las leyes y d
 
 II. Cuidar del puntual cumplimiento de esta Constitución y de las leyes, decretos, reglamentos, acuerdos y demás disposiciones que de ella emanen, expidiendo al efecto las órdenes correspondientes;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1963)</small>
 
-III. Concurrir a la apertura del primer período que dará principio el 16 de septiembre y a la de los extraordinarios que hubieren sido convocados a solicitud del Ejecutivo;
+III. Concurrir, el 16 de septiembre, a la apertura del Primer Período Ordinario de Sesiones, correspondiente al Primer Año de Ejercicio Legal de la Legislatura Local, a la de los extraordinarios que hubieren sido convocados a solicitud de Ejecutivo y a la Sesión Solemne a que se refiere el Artículo 43;
 
 IV. Presentar a la Legislatura antes del día veinticinco del mes de septiembre de cada año los proyectos de Ley de Ingresos y Presupuesto de Egresos generales del Estado, que deberán regir en el año inmediato siguiente;
 
@@ -961,6 +893,10 @@ El Gobernador del Estado, el Secretario del Despacho y el Subsecretario, durante
 
 El Estado de Oaxaca, para su régimen interior, se divide en Municipios Libres, los que se agrupan en Distritos rentísticos y judiciales, para la mejor administración de justicia y la fácil recaudación de las rentas generales del Estado.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1962)</small>
+
+Para tener la categoría de Municipio, se requiere que él o los núcleos de población en conjunto, cuenten por lo menos con cinco mil habitantes y con los elementos suficientes para su sostenimiento, administración y desarrollo.
+
 #### SECCION PRIMERA. Del Ejercicio del Poder Judicial
 
 ###### ARTICULO 93.
@@ -997,7 +933,7 @@ Los ayuntamientos serán asambleas formadas por elección popular directa, se co
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1959)</small>
 
-### CAPITULO II. DE LA RECOLECCIÓN Y TRANSPORTE
+### CAPITULO IV. Del Poder Judicial del Estado
 
 #### SECCION TERCERA. De los Jueces de Primera Instancia y de los Jurados
 
@@ -1423,30 +1359,6 @@ Son aplicables a los funcionarios municipales las disposiciones de los artículo
 
 ## TRANSITORIOS
 
-PRIMERO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, independientemente de que se haga lo propio en la Gaceta Municipal.
-
-SEGUNDO: En los casos en que otros ordenamientos legales, de mayor jerarquía, les atribuyan facultades a dependencias, unidades u organismos con distinta nomenclatura, pero con la materia prevista en este Reglamento, deberán entenderse conferidas estas últimas, en la forma y términos en que las disposiciones legales lo dispongan.
-
-TERCERO: CUARTO (SIC): Se aprueba el Reglamento de Limpieza, Aprovechamiento y Recolección de Basura, del municipio de Abasolo, Coahuila, a los 06 días del mes de Mayo del año 2008, el cual ha quedado trascrito con anterioridad en el cuerpo de la presente acta de sesión de cabildo y se derogan las disposiciones emitidas por el Ayuntamiento con anterioridad al presente ordenamiento.
-
-Solicítese al C. Secretario de Gobierno del Estado, se sirva girar las instrucciones a fin de que sea publicado el presente ordenamiento en el Periódico Oficial del Gobierno del Estado, independientemente de que se haga lo propio en la Gaceta Municipal.
-
-Imprimase, notifíquese y publíquese en el órgano oficial de difusión de este Gobierno Municipal y en el Periódico Oficial del Gobierno del Estado.
-
-D A D O en la Sala de Cabildos en sesión Ordinaria del Acta No. 62/06-05-08 del Ayuntamiento municipal de Abasolo en la ciudad de Abasolo día 06 del mes de Mayo de año dos mil ocho.
-
-C. JUAN MANUEL LERMA SANDOVAL
-
-PRESIDENTE MUNICIPAL
-
-(RÚBRICA)
-
-C. HÉCTOR MANUEL RODRÍGUEZ CAMPOS
-
-SECRETARIO DEL AYUNTAMIENTO
-
-(RÚBRICA)
-
 ###### ARTICULO 1°.
 
 El período constitucional del actual Gobernador del Estado terminará a las diez de la mañana del día primero de diciembre de mil novecientos veinticuatro.
@@ -1664,3 +1576,11 @@ Unico.- El presente Decreto comenzará a surtir sus efectos a partir de la fecha
 P.O. 14 DE NOVIEMBRE DE 1959.
 
 UNICO.- Las presentes reformas entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial, de acuerdo con lo dispuesto por el Artículo 164 de la Constitución Particular del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1962.
+
+Unico.- El presente Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 1963.
+
+UNICO.- Una vez aprobadas las presentes reformas, entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
