@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1944-03-24"
+last_updated: "1945-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MARZO 1944.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE FEBRERO DE 1945.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -289,7 +289,9 @@ II (SIC).- Relegación.
 
 12.- Suspensión o privación de derechos.
 
-13.- Destitución o suspensión de funciones o empleos.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 1945)</small>
+
+XIII (SIC).- Inhabilitación, destitución o suspensión de funciones o empleos.
 
 14.- Publicación especial de sentencia.
 
@@ -485,6 +487,8 @@ Si el delito por el que se impuso la publicación de sentencia, fue cometido por
 
 ### CAPITULO II. Aplicación de sanciones a los delitos de imprudencia
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE FEBRERO DE 1945)</small>
+
 ###### ARTICULO 51.
 
 Dentro de los límites fijados por la ley, los jueces y tribunales aplicarán las sanciones establecidas para cada delito, teniendo en cuenta las circunstancias exteriores de ejecución y las peculiares del delincuente.
@@ -537,7 +541,7 @@ Cuando un delito pueda ser considerado bajo dos o más aspectos, y bajo cada uno
 
 ###### ARTICULO 60.
 
-Los delitos de imprudencia se castigarán con prisión de tres días a cinco años y suspensión hasta de dos años, o privación definitiva de derechos para ejercer profesión u oficio, según sea la imprudencia leve o grave.
+Los delitos de imprudencia se castigarán con prisión de tres días a cinco años y suspensión hasta de dos años, o privación definitiva de derechos para ejercer profesión u oficio, según sea la imprudencia leve o grave. Sin embargo, cuando a consecuencia de actos u omisiones imprudentes que sean imputables al personal que preste sus servicios en una empresa ferroviaria, aeronáutica, naviera, o de cualesquiera otros transportes de concesión federal, se causen homicidios de dos o más personas, la pena será de cinco a veinte años de prisión, destitución del empleo, cargo o comisión e inhabilitación para obtener otros de la misma naturaleza.
 
 La calificación de la gravedad de la imprudencia queda al prudente arbitrio del juez, quien deberá tomar en consideración las circunstancias generales señaladas en el artículo 52 y las especiales siguientes:
 
@@ -549,9 +553,11 @@ III.- Si los acusados han delinquido anteriormente en circunstancias semejantes,
 
 IV.- Si tuvieron tiempo para obrar con la reflexión y el cuidado necesarios.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE FEBRERO DE 1945)</small>
+
 ###### ARTICULO 61.
 
-Las sanciones a que se refiere el artículo anterior en ningún caso excederán de las tres cuartas partes de la pena que correspondería si el delito fuera intencional.
+Fuera del caso consignado en el párrafo segundo del artículo anterior, los delitos de imprudencia se castigarán con penas que no excedan de las tres cuartas partes de las que corresponderían si el delito fuera intencional.
 
 Si al delito intencional debiera aplicarse una sanción pecuniaria, se aplicará hasta las tres cuartas partes de la multa al cometido por imprudencia.
 
@@ -3210,3 +3216,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE PREVENCIONES RELATIVA A 
 D.O.F. 24 DE MARZO DE 1944.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial".
+
+D.O.F. 10 DE FEBRERO DE 1945.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor tres días después del de la fecha de su publicación en el "Diario Oficial".
