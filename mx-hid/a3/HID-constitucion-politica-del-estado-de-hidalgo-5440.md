@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1945-04-01"
+last_updated: "1946-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 ABRIL DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1946.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -1019,19 +1019,79 @@ El Estado de Hidalgo es parte integrante de los Estados Unidos Mexicanos, y es l
 
 En tanto se expiden las leyes orgánicas relativas, continuaran rigiendo en el Estado, las vigentes en la actualidad así como los decretos y reglamentos que no se opongan a la presente Constitución ni a la General de 5 de febrero de 1917.
 
-###### Artículo 2°.
-
-Las autoridades y funcionarios del Estado no tienen mas facultades que las que expresamente les concedan esta Constitución, la General de la República y las leyes que de ellas emanen.
-
-> <small>(REFORMADO, PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1944)</small>
-
 ###### Artículo 3°.
 
 El período Constitucional de la actual Legislatura, terminara el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
 
+###### Artículo 2°.
+
+Las autoridades y funcionarios del Estado no tienen mas facultades que las que expresamente les concedan esta Constitución, la General de la República y las leyes que de ellas emanen.
+
+> <small>(ADICIONADO (N. DE E. REFORMADO], PRIMER PARRAFO, P.O. 16 DE JUNIO DE 1946)</small>
+
+###### Artículo 3°.
+
+El Territorio del Estado, es el expresado en el Supremo Decreto de Erección de 16 de enero de 1869 y se divide en los 15 Distritos a los que corresponden los 82 Municipios que a continuación se expresan:
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 1927)</small>
+
+Distrito de Actopan: Formado con los Municipios de Actopan, Mixquiahuala, El Arenal, San Salvador, Santiago, San Agustín Tlaxiaca y Francisco I. Madero.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1943)</small>
+
+Distrito de Apam: Formado con los Municipios de Apam, Tepeapulco, Tlanalapan, Almoloya y Emiliano Zapata.
+
+Distrito de Atotonilco el Grande: Formado con los Municipios de Atotonilco el Grande, Huasca y Omitlan.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE JUNIO DE 1946)</small>
+
+Distrito de Huejutla de Reyes: Formado con los Municipios de Huejutla de Reyes, Orizatlan, Huazalingo, Huautla, Yahualica, Xochiatipan y Tlanchinol.
+
+Distrito de Huichapan: Formado con los Municipios de Huichapan, Tecozautla, Nopala y Chapantongo
+
+Distrito de Ixmiquilpan: Formado con los Municipios de Ixmiquilpan, Alfajayucan, Cardonal y Chilcuautla.
+
+Distrito de Jacala: Formado con los Municipios de Jacala, Chapulhuacán, la Misión, Pacula y Pisaflores.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1937)</small>
+
+Distrito de Metztitlan: formado con los Municipios de Metztitlan, Metzquititlán, Juárez Hidalgo y Eloxochitlán.
+
+Distrito de Molango: Formado con los Municipios de Molango, Calnali, Xochicoatlán, Lolotla, Tlahuiltepa y Tepehuacán de Guerrero.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1935)</small>
+
+Distrito de Pachuca: Formado con los Municipios de Pachuca, Mineral del Monte, Mineral de Chico, Mineral de la Reforma, Epazoyucan, Tolcayuca, Tizayuca, Tezontepec, Zempoala y Zapotlán de Juárez.
+
+Distrito de Tenango de Doria: Formado con los Municipios de Tenango de Doria, San Bartolo Tutotepec, Agua Blanca, Iturbide y Huehuetla.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1936)</small>
+
+Distrito de Tula de Allende: Formado con los Municipios de Tula de Allende, Tlaxcoapan, Tepeji del Río, Tetepango, Tezontepec de Aldama, Atitalaquia, Tepetitlán, Atotonilco, Tula y Ajacuba.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1944)</small>
+
+Distrito de Tulancingo: Formado con los Municipios de Tulancingo, Acaxochitlán, Cuautepec, Acatlán, Metepec, Singuilucan y Santiago Tulantepec.
+
+Distrito de Zacualtipán: Formado con los Municipios de Zacualtipán y Tianguistengo.
+
+Distrito de Zimapán: Formado con los Municipios de Zimapán, Tasquillo y Santa María Tepeji;
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 1927)</small>
+
+Las Cabeceras de los Distritos y de los Municipios son los que corresponden a su denominación, con excepción del Municipio de Francisco I. Madero que tendrá por Cabecera el pueblo de Tepatepec.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1924)</small>
+
+Ésta división territorial podrá modificarse de acuerdo con el artículo 70 de la propia Constitución, las Cabeceras de Distrito o de Municipio de conformidad con leyes secundarias que se expidan al efecto.
+
 ###### Artículo 2o.
 
 La reforma al Artículo 74 empezará a surtir sus efectos para la integración de las próximas asambleas municipales.
+
+P.O. 16 DE JUNIO DE 1946.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
 
 ###### ARTICULO UNICO
 
