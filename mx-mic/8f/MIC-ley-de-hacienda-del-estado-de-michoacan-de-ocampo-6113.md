@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-6113"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "1999-12-30"
+last_updated: "2000-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 26 de diciembre de 1983.
 
@@ -911,7 +911,7 @@ a) Llevar un libro de ventas, en el que se hará constar de manera inalterable, 
 
 b) Verificar, al recibir mercancía materia de las operaciones gravadas, que se encuentran legalmente amparadas con la documentación correspondiente y que los marbetes comprobatorios del pago del impuesto federal respectivo, están debidamente adheridos;
 
-c) Abstenerse de introducir y de permitir la introducción en sus establecimientos, de bebidas alcohólicas que no forman parte de sus existencias legalmente adquiridas. Las que se introduzcan se considerarán para todos los efectos legales, como parte integrante de las existencias del establecimiento;
+c) Abstenerse de introducir y de permitir la introducción en sus establecimientos, de bebidas alcohólicas que no forman parte de sus existencias legalmente adquiridas. Las que se introduzcan se considerarán para todos los efectos, legales, como parte integrante de las existencias del establecimiento;
 
 d) No tener en los expendios al copeo, más envases abiertos de cada clase específica de bebidas alcohólicas, que las que sean necesarias en relación con la intensidad de sus operaciones, ni cambiar las bebidas alcohólicas de los envases abiertos a otros aún cuando sean de la misma clase específica de bebida, así como raspar las etiquetas de los envases terminados;
 
@@ -1187,7 +1187,7 @@ V. Las demás que señalen las autoridades fiscales.
 
 ###### ARTICULO 109.
 
-Los fabricantes o vendederos de azúcar, piloncillo, mieles cristalizables e incristalizables, deberán retener el impuesto a los sujetos directos del mismo y enterarlo en la oficina de rentas que corresponda a su jurisdicción, dentro de los días del primero al veinte del mes siguiente en que se hubiere efectuado la retención mediante la presentación de una declaración en las formas oficiales aprobadas.
+Los fabricantes o vendedores de azúcar, piloncillo, mieles cristalizables e incristalizables, deberán retener el impuesto a los sujetos directos del mismo y enterarlo en la oficina de rentas que corresponda a su jurisdicción, dentro de los días del primero al veinte del mes siguiente en que se hubiere efectuado la retención mediante la presentación de una declaración en las formas oficiales aprobadas.
 
 #### Sección Quinta. De las Declaraciones y Obligaciones
 
@@ -1661,7 +1661,7 @@ Las infracciones cometidas por los contribuyentes de este impuesto, se sancionar
 
 ### CAPITULO II. DE LOS DERECHOS POR SERVICIOS QUE SE PRESTAN PERIODICAMENTE
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2000)</small>
 
 #### Sección Sexta. De las Infracciones y Sanciones
 
@@ -1717,9 +1717,9 @@ Las infracciones al presente capítulo, serán sancionadas de conformidad a lo p
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO III. DE LOS RECARGOS Y SANCIONES
+### CAPITULO II Bis. DEL REGISTRO Y CONTROL DE LICENCIAS PARA CONDUCIR VEHÍCULOS AUTOMOTORES
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 184.
 
@@ -1731,13 +1731,13 @@ II.- Derechos por servicios que se prestan eventualmente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO IV. DEL REGISTRO Y CONTROL DE VEHICULOS
+### CAPITULO III. DE LOS RECARGOS Y SANCIONES
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 185.
 
-Para los efectos del artículo anterior, se consideran servicios periódicos por los que se deben pagar derechos, los servicios de control vehicular para vehículos de servicio particular y público siguientes:
+Para los efectos del artículo anterior, se consideran servicios periódicos por los que se deben pagar derechos, los servicios por la expedición y refrendo de licencias para conducir vehículos automotores y los de control vehicular, ambos para vehículos de servicio particular y público siguientes:
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
@@ -1747,13 +1747,21 @@ II.- Por refrendo anual de calcomanía de circulación.
 
 IlI.- Por renovación anual de concesiones de servicio público y
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2000)</small>
 
-IV. Refrendo de licencias de conducir.
+IV. La expedición y refrendo de licencias para conducir vehículos automotores de:
+
+Servicio particular; y,
+
+Servicio público
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 La expedición de permisos provisionales para circular sin placas, por las Autoridades de Tránsito del Estado, procederá únicamente tratándose de vehículos adquiridos en distribuidoras autorizadas y empresas cuya actividad sea la compra-venta de vehículos automotores, cuando éstos tengan que ser trasladados de la localidad donde se adquieran, a la localidad donde el adquirente realice el trámite de obtención de placas, en función de su domicilio.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2000)</small>
+
+La expedición de permisos provisionales para circular sin placas, procederá únicamente tratándose de vehículos adquiridos en distribuidoras autorizadas y empresas cuya actividad sea la compra venta de vehículos automotores, cuando éstos tengan que ser trasladados de la localidad donde se adquieran, a la localidad donde el adquirente realice el trámite de obtención de placas, en función de su domicilio.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
@@ -1761,13 +1769,15 @@ Asimismo, procederá la expedición de dichos permisos, cuando los vehículos re
 
 Los derechos por los servicios a que se refiere este artículo, se pagarán conforme a las cuotas que establezca la Ley de Ingresos del Estado, para el ejercicio fiscal de que se trate.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 186.
 
-Los servicios a que se refieren las fracciones I y II del artículo anterior, se prestarán por la Tesorería General del Estado, en los siguientes plazos:
+Los servicios a que se refieren las fracciones I, II y IV del artículo anterior, se prestarán por la Tesorería General del Estado, en los siguientes plazos:
 
-I.- La expedición original de placas de circulación para vehículos de servicio particular a que se refiere la fracción I, dentro de los quince días siguientes a la fecha de adquisición del vehículo.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2000)</small>
+
+I. La expedición original de placas de circulación para los vehículos, dentro de los quince días siguientes a la fecha de adquisición del vehículo. Tratándose de vehículos de servicio público, en la misma fecha en que se expida de concesión.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
@@ -1779,11 +1789,19 @@ B).- Para vehículos cuyo modelo corresponda a más de diez años anteriores al 
 
 En los años en que por disposición de la autoridad competente, se realice canje general de placas, el trámite se realizará en los mismos plazos a que se refieren los incisos A) y B) anteriores.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2000)</small>
+
+III. El refrendo de licencias para conducir vehículos automotores, se realizará dentro de los quince días siguientes a la fecha de su vencimiento. La expedición por primera vez, se realizará el mismo día en que se solicite por el interesado, previo cumplimiento de los requisitos a que se refiere el artículo 188 de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 187.
 
-Los servicios de renovación anual de concesiones de servicio público a que se refiere la fracción III del artículo 185 de esta ley, se realizarán coordinadamente entre la Tesorería General del Estado y la autoridad competente, dentro de los mismos plazos a que se refieren los incisos A) y B) de la fracción lI del artículo anterior.
+Los servicios de renovación anual de concesiones de servicio público a que se refiere la fracción III del artículo 185 de esta ley, se realizarán por la autoridad competente, dentro de los mismos plazos a que se refieren los incisos A) y B) de la fracción lI del artículo anterior. Asimismo, se realizarán por la autoridad competente, los trámites relativos a la expedición por primera vez de las concesiones de servicio público.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2000)</small>
+
+Simultáneamente con la prestación de los servicios de expedición y renovación de concesiones a que se refiere el párrafo anterior, la Tesorería General del Estado realizará el cobro de los derechos correspondientes, conforme a las cuotas que se establezcan en la Ley de Ingresos del Estado, para el ejercicio de que se trate.
 
 ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)
 
@@ -1793,19 +1811,51 @@ La revalidación de concesiones deberá realizarse de acuerdo al calendario ofic
 
 El incumplimiento a lo estipulado en este artículo se sancionará conforme al Código Fiscal del Estado de Michoacán.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2000)</small>
 
-### CAPITULO V. DE LOS DERECHOS POR SERVICIOS EVENTUALES
+### CAPITULO IV. DEL REGISTRO Y CONTROL DE VEHICULOS
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 188.
 
-El refrendo de licencias de conducir a que se refiere la fracción IV del artículo 185, se realizará por la autoridad competente dentro de los quince días siguientes a la fecha de su vencimiento.
+La Tesorería General del Estado simultáneamente a la recaudación de los derechos por la expedición y renovación o refrendo de licencias para conducir vehículos automotores, integrará y mantendrá permanentemente actualizado, el "Registro Estatal de Licencias para Conducir", conforme a lo siguiente:
+
+I. Para la expedición inicial de las licencias para conducir vehículos automotores que, entre otras característica de seguridad, contendrán fotografía, huella dactilar y firmas del conductor y del funcionario competente, digitalizadas a través de un sistema automatizado, se deberán cumplir ante la autoridad de tránsito correspondiente, los siguientes requisitos:
+
+A) Presentar solicitud en la que declare, bajo protesta de decir verdad, que sabe conducir vehículos automotores según el tipo de licencia que solicite, a la que deberá anexar un comprobante de domicilio.
+
+Tratándose de personas a las que se les expida licencia por primera vez, independientemente de las características de la misma, además, deberá aprobar un examen de manejo según el tipo de licencia que solicite;
+
+B) Acreditar la nacionalidad mexicana, mediante la presentación de copia de la Credencial para Votar con fotografía, expedida por el Instituto Federal Electoral. Tratándose de extranjeros, el documento vigente expedido por la autoridad competente, mediante el cual se acredite su legal estancia en el País.
+
+C) Acreditar haber cumplido 18 años de edad, mediante la presentación de copia certificada del acta de nacimiento. Tratándose de menores de 18 años, la solicitud a que se refiere el inciso A), deberá suscribirse por el padre o tutor, quien asumirá la responsabilidad correspondiente;
+
+D) Acreditar la capacidad visual, mediante la presentación de certificado correspondiente, que podrá ser expedido por instituciones oficiales del sector, como por cualquier oftalmólogo u optometrista titulado;
+
+E) Cuando por razones de previsión, el conductor requiera que se asiente el dato relativo al grupo sanguíneo y factor RH en la licencia de conducir, deberá proporcionar el documento que contenga el resultado del análisis de laboratorio correspondiente; y,
+
+F) Los demás que a juicio de la autoridad permitan la plena identificación del solicitante.
+
+Tratándose de conductores de vehículos de servicio público estatal, tanto para la expedición inicial, como para la renovación o refrendo de la licencia, además de los requisitos a que se refiere la fracción anterior, deberán acreditar la aptitud física y mental para conducir, mediante la presentación de certificado médico.
+
+II. Las licencias para conducir vehículos automotores deberán renovarse o refrendarse dentro de los 15 días siguientes a la fecha de su vencimiento, conforme a lo siguiente:
+
+Para conducir vehículos automotores de servicio público, tendrán vigencia de dos años, a partir de la fecha de su expedición.
+
+Para conducir vehículos automotores de servicio particular, la vigencia podrá ser de dos o cuatro años, a partir de la fecha de su expedición, según lo requiera el interesado.
+
+Para la renovación o refrendo, se deberán proporcionar únicamente aquellos documentos que contengan información diferente, respecto de la proporcionada al presentar la solicitud para la expedición inicial.
+
+No se renovará o refrendará la licencia para conducir vehículos automotores, a las personas a quienes sancione la autoridad competente, por conducir reincidentemente en estado de ebriedad o bajo el inlujo de drogas o enervantes.
+
+Para efectos de lo señalado en el párrafo anterior, se deberá llevar un registro de las incidencias que la autoridad competente informe a la Tesorería General del Estado.
+
+III. Los derechos por la expedición y renovación o refrendo de licencias para conducir vehículos automotores a que se refiere este Capítulo, se pagarán previamente a la expedición de éstas, conforme a las cuotas que se establezcan en la Ley de Ingresos del Estado para el ejercicio fiscal de que se trate.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO VI. DEL PAGO
+### CAPITULO V. DE LOS DERECHOS POR SERVICIOS EVENTUALES
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -1825,27 +1875,33 @@ La Tesorería General del Estado, solicitará el apoyo de la autoridad de Tráns
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO VII. DE LAS EXENCIONES
+### CAPITULO VI. DEL PAGO
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 190.
 
-La Tesorería General del Estado, simultáneamente a la recaudación de los derechos comprendidos en el Capítulo II de este Título, excepto por los servicios a que se refiere la fracción IV del Artículo 185, llevará el registro y control de vehículos, para lo cual deberá establecer y mantener actualizado el "Registro Estatal Vehicular" para su integración a la "Red Nacional del Sistema de Información Integral Tributaria" mediante la realización de las siguientes funciones:
+La Tesorería General del Estado, simultáneamente a la recaudación de los derechos comprendidos en el Capítulo II de este Título, llevará el registro y control de vehículos, para lo cual deberá establecer y mantener actualizado el "Registro Estatal Vehicular" para su integración a la "Red Nacional del Sistema Automatizado del Registro Vehícular Estatal" mediante la realización de las siguientes funciones:
 
-I. Efectuar los trámites de altas, bajas, cambios y rectificaciones que procedan en el registro, conforme a las reglas generales que expida la Secretaría de Hacienda y Crédito Público.
+I. Efectuar los trámites de altas, bajas, cambios y rectificaciones que procedan en el registro, conforme a las reglas generales que expida la Secretaría de Hacienda y Crédito Público;
 
-II. Realizar actos de verificación y comprobación para mantener actualizado el registro del Estado, conforme a los lineamientos y normatividad correspondientes.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2000)</small>
 
-III. Recibir y en su caso requerir los avisos, manifestaciones y demás documentos, que conforme a las diversas disposiciones legales aplicables, deban presentarse.
+II. Realizar actos de verificación y comprobación para mantener actualizado el "Registro Estatal Vehicular", conforme a los lineamientos y normatividad correspondientes;
 
-IV. Diseñar y emitir los formatos para control vehicular, que deberán contener como mínimo los requisitos que al efecto señale la Secretaría.
+III. Recibir y en su caso requerir los avisos, manifestaciones y demás documentos, que conforme a las diversas disposiciones legales aplicables, deban presentarse;
 
-V. Informar a la Secretaría de los movimientos efectuados en el "Registro Estatal Vehicular" y reponer dicho registro en su totalidad, conforme a los medios magnéticos y periodicidad que establezca la Secretaría.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2000)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+IV. Diseñar y emitir los formatos para control vehicular, que deberán contener como mínimo los requisitos que al efecto señale la Secretaría de Hacienda y Crédito Público, mediante la normatividad correspondiente;
 
-VI. Independientemente de que no se establezca dentro de las reglas generales que expida la Secretaría de Hacienda y Crédito Público, a que se refiere la fracción I de este artículo, los propietarios de vehículos solicitarán la baja de las placas anteriores y dotación de nuevas, dentro de los quince días siguientes en que se den los siguientes supuestos:
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2000)</small>
+
+V. Proporcionar a la Secretaría de Hacienda y Crédito Público la información actualizada de los registros efectuados en el "Registro Estatal Vehicular", en la forma y términos de la normatividad respectiva; y,
+
+> <small>(REFORMADO PRIMER PARRAFO, 25 DE DICIEMBRE DE 2000)</small>
+
+VI. Independientemente de que no lo establezca la normatividad correspondiente que expida la Secretaría de Hacienda y Crédito Público, los propietarios de vehículos solicitarán la baja de las placas anteriores y dotación de nuevas, dentro de los quince días siguientes en que se den los siguientes supuestos:
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
@@ -1869,7 +1925,9 @@ Lo referido en el párrafo anterior, también será aplicable tratándose del do
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO VIII. POR SERVICIOS PRESTADOS POR LAS OFICINAS DEL REGISTRO CIVIL
+### CAPITULO VII. DE LAS EXENCIONES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 191.
 
@@ -1877,7 +1935,7 @@ Para los efectos del artículo 184 de esta Ley, se consideran servicios eventual
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO IX. POR SERVICIOS PRESTADOS POR LOS CENTROS DE SALUD PUBLICA
+### CAPITULO VIII. POR SERVICIOS PRESTADOS POR LAS OFICINAS DEL REGISTRO CIVIL
 
 ###### ARTICULO 192.
 
@@ -1889,7 +1947,7 @@ Por lo que se refiere a los servicios de Catastro por concepto de registro de pr
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO X. POR SERVICIOS PRESTADOS POR LA DIRECCION DE CATASTRO
+### CAPITULO IX. POR SERVICIOS PRESTADOS POR LOS CENTROS DE SALUD PUBLICA
 
 ###### ARTICULO 193.
 
@@ -2005,7 +2063,7 @@ f) Los obreros, para asuntos laborales.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO XI. POR LA PRESENTACION DE SERVICIOS OFICIALES DIVERSOS
+### CAPITULO X. POR SERVICIOS PRESTADOS POR LA DIRECCION DE CATASTRO
 
 ###### ARTICULO 205.
 
@@ -2021,7 +2079,7 @@ f) Los obreros, para asuntos laborales.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO XII. DISPOSICIONES GENERALES
+### CAPITULO XI. POR LA PRESENTACION DE SERVICIOS OFICIALES DIVERSOS
 
 ###### ARTICULO 208.
 
@@ -2033,7 +2091,7 @@ f) Los obreros, para asuntos laborales.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO UNICO
+### CAPITULO XII. DISPOSICIONES GENERALES
 
 ###### ARTICULO 210.
 
@@ -2073,9 +2131,7 @@ f) Los obreros, para asuntos laborales.
 
 ## TITULO CUARTO. DE LAS CONTRIBUCIONES ESPECIALES
 
-### CAPITULO I. FONDOS DE APORTACIONES FEDERALES
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 217.
 
@@ -2083,7 +2139,7 @@ Las contribuciones especiales que se establezcan a cargo de las personas que se 
 
 ## TITULO QUINTO. DE LOS PRODUCTOS
 
-### CAPITULO II. TRANSFERENCIAS POR CONVENIO
+### CAPITULO I. FONDOS DE APORTACIONES FEDERALES
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -2117,9 +2173,9 @@ Estarán exentos del pago las inserciones en el Periódico Oficial ordenadas por
 
 ## TITULO SEXTO. DE LAS PARTICIPACIONES
 
-### CAPITULO UNICO
+### CAPITULO II. TRANSFERENCIAS POR CONVENIO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 221.
 
@@ -2133,15 +2189,25 @@ Las participaciones concedidas al Estado en ingresos federales o municipales por
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO I. DE LAS APORTACIONES PARA OBRAS O SERVICIOS PUBLICOS
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 221-A.
 
 Los ingresos del Estado provenientes de los Fondos de Aportaciones Federales, se percibirán conforme a lo que disponga la Ley de Coordinación Fiscal y en su caso, el Presupuesto de Egresos de la Federación para el año de que se trate.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO I. DE LAS APORTACIONES PARA OBRAS O SERVICIOS PUBLICOS
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 221-B.
+
+Los ingresos que se transfieran al Estado, derivados de reasignaciones del Presupuesto de Egresos de la Federación para el año de que se trate, para financiar programas coordinados, se percibirán conforme a los convenios respectivos.
+
+## TITULO SEPTIMO. DE LOS APROVECHAMIENTOS
 
 ### CAPITULO II. DE OTROS
 
@@ -2158,12 +2224,6 @@ III.- Apoyos extraordinarios o subsidios que otorgue la Federación; y,
 IV.- Cualquier otro concepto distinto a los regulados en la presente Ley.
 
 T R A N S I T O R I O S
-
-###### ARTICULO 221-B.
-
-Los ingresos que se transfieran al Estado, derivados de reasignaciones del Presupuesto de Egresos de la Federación para el año de que se trate, para financiar programas coordinados, se percibirán conforme a los convenios respectivos.
-
-## TITULO SEPTIMO. DE LOS APROVECHAMIENTOS
 
 ###### ARTICULO 222.
 
@@ -2312,3 +2372,17 @@ El Presente Decreto iniciará su vigencia el día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan aquellas disposiciones en lo que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1° de enero del año 2001.
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos de lo dispuesto por la fracción V del artículo 74 de la Ley de Agua Potable, Alcantarillado y Saneamiento del Estado de Michoacán, el Acuerdo de cabildo mediante el cual se establezcan las cuotas y tarifas para el año 2001, se publicará durante el mes de enero de dicho año.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
