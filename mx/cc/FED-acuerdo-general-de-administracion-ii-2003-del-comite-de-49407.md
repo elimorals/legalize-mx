@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-ii-2003-del-comite-de-49407"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-04-14"
-last_updated: "2003-04-14"
+last_updated: "2003-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49407&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-03-03"
 
 ACUERDO GENERAL DE ADMINISTRACION II/2003 DEL TRES DE MARZO DE DOS MIL TRES, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE CREA LA CONTRALORIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y SE ESTABLECEN SUS ATRIBUCIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE SEPTIEMBRE DE 2003.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 14 de abril de 2003.
 
@@ -51,7 +51,9 @@ PRIMERO. Se crea la Contraloría de la Suprema Corte de Justicia de la Nación, 
 
 SEGUNDO. El Contralor de la Suprema Corte de Justicia de la Nación será designado por el Comité de Gobierno y Administración y se encontrará jerárquicamente subordinado al Presidente, a dicho Comité y al Pleno de este Alto Tribunal; sin perjuicio de acatar las instrucciones y dar respuesta a las solicitudes que formulen cualquiera de los Ministros.
 
-TERCERO. Sin perjuicio de las atribuciones que la Constitución General de la República y las leyes aplicables asignan al Pleno de la Suprema Corte de Justicia de la Nación, a sus Comités y a su Presidente, la Contraloría tendrá las facultades y obligaciones siguientes:
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL DE ADMINISTRACION XI/2003 DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, 3 DE SEPTIEMBRE DE 2003)</small>
+
+TERCERO. Sin perjuicio de las atribuciones que la Constitución General de la República y las leyes aplicables asignan al Pleno de la Suprema Corte de Justicia de la Nación, a sus comités y a su presidente, la contraloría tendrá las facultades y obligaciones siguientes:
 
 I. Aplicar los Acuerdos del Pleno o del Comité de Gobierno y Administración en materia de control, vigilancia y disciplina;
 
@@ -93,7 +95,17 @@ XII. Practicar, en los términos de la Ley Federal de Responsabilidades Administ
 
 XIII. Llevar el registro, custodia y administración de los bienes a que se refiere el artículo 45 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y proponer al Comité de Gobierno y Administración el destino que deba dárseles;
 
-XIV. Recibir o formular quejas y denuncias por incumplimiento de las obligaciones o por inobservancia de la ley por parte de los servidores públicos de la Suprema Corte de Justicia de la Nación, practicar investigaciones sobre sus actos, acordar el inicio del procedimiento administrativo disciplinario, acordar el cierre de instrucción del procedimiento, fincar las responsabilidades e imponer las sanciones que correspondan, y llevar a cabo, en su caso, las acciones que procedan conforme a las leyes, a fin de garantizar el cobro de las sanciones económicas que se impongan a los servidores públicos con motivo de la infracción cometida, así como presentar, previo acuerdo del Comité de Gobierno y Administración, las denuncias o querellas respectivas en el supuesto de detectar conductas delictuosas, en los términos de la Ley Orgánica del Poder Judicial de la Federación, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y las demás disposiciones legales aplicables;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DE ADMINISTRACION XI/2003 DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, 3 DE SEPTIEMBRE DE 2003)</small>
+
+XIV. Recibir o formular quejas y denuncias por incumplimiento de las obligaciones o por inobservancia de la ley por parte de los servidores públicos de la Suprema Corte de Justicia de la Nación, practicar investigaciones sobre sus actos, acordar el inicio del procedimiento administrativo disciplinario, acordar el cierre de la instrucción y emitir los dictámenes que correspondan, los que se notificarán al servidor público que se proponga sancionar.
+
+Una vez notificado el referido dictamen, la Contraloría lo remitirá con el expediente del que derivó, a la Dirección General de Asuntos Jurídicos de la Suprema Corte de Justicia de la Nación.
+
+Ante la referida Dirección General, dentro de los diez días siguientes al en que la notificación del dictamen surta sus efectos, con el fin de desvirtuar los hechos o argumentos que lo sustenten, el servidor público afectado podrá manifestar por escrito lo que a su derecho convenga así como ofrecer las pruebas documentales que estime pertinentes.
+
+La citada Dirección con base en el referido dictamen, las constancias que obren en el expediente y, en su caso, las documentales ofrecidas ante ella por el servidor público afectado, emitirá su opinión en un plazo prudente, la que se turnará con el citado dictamen a la autoridad competente para resolver, en términos de lo dispuesto en el artículo 133, fracciones I y II, de la Ley Orgánica del Poder Judicial de la Federación.
+
+La Contraloría llevará a cabo, en su caso, las acciones que procedan conforme a las leyes, a fin de garantizar el cobro de las sanciones económicas que se impongan a los servidores públicos con motivo de la infracción cometida, así como presentar, previo acuerdo del Comité de Gobierno y Administración, las denuncias o querellas respectivas en el supuesto de detectar conductas delictuosas, en los términos de la Ley Orgánica del Poder Judicial de la Federación, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y las demás disposiciones legales aplicables;
 
 XV. Participar en el levantamiento de actas administrativas de entrega-recepción, destrucción o incineración de documentos, sellos, facsímiles y papelería obsoleta, de acuerdo con las políticas y procedimientos correspondientes;
 
@@ -126,3 +138,11 @@ QUINTO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su
 Así lo acordaron y firman los señores ministros: Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano y Juan Díaz Romero, integrantes del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación.- Rúbricas.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia del Acuerdo General de Administración Número II/2003 del tres de marzo del año en curso, constante de seis fojas útiles, concuerda fiel y exactamente con su original, y se certifica para dar cumplimiento a lo dispuesto en su punto Quinto Transitorio. México, Distrito Federal, a siete de abril de dos mil tres.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 3 DE SEPTIEMBRE DE 2003.
+
+PRIMERO. Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación.
