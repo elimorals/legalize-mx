@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-obras-publicas-del-estado-14672"
 country: "mx"
 rank: "ley"
 publication_date: "1986-02-13"
-last_updated: "1992-04-09"
+last_updated: "1999-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE OBRAS PÚBLICAS DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1999.
 
 Ley Publicada en el Periódico Oficial del Estado "La Sombra de Arteaga", el 13 de febrero de 1986.
 
@@ -259,13 +259,13 @@ III.- Se cuenten con los estudios y proyectos, las normas y especificaciones de 
 
 IV.- Se satisfagan los requisitos complementarios relacionados con la obra, incluyendo los que deban cumplirse conforme con las disposiciones estatales y municipales.
 
+> <small>(REFORMADO, P. O. EL 9 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 26.
 
-Los contratos de Obras Públicas se adjudicarán a través de licitaciones públicas, mediante convocatoria, para que libremente se presenten proposiciones en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado o al municipio las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley.
+La adjudicación de los contratos de Obra Pública a través de licitación pública, se realizará mediante convocatoria, para que libremente se presenten propuestas en sobre cerrado, que será abierto públicamente, a fin de asegurar a las dependencias, entidades o ayuntamientos las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás información pertinente, de acuerdo con lo que establece la presente Ley.
 
-Se exceptúan de lo dispuesto en el párrafo anterior aquellos casos en que existan las circunstancias que se mencionan en los artículos 28 y 30 de esta Ley.
-
-Toda persona que cumpla los requisitos de la convocatoria tendrá derecho a presentar proposiciones.
+Toda persona que cumpla con los requisitos de la convocatoria tendrá derecho a presentar propuestas.
 
 ###### ARTICULO 27.
 
@@ -285,17 +285,17 @@ VI.- La especialidad de acuerdo con el Padrón de Contratistas que se requiera p
 
 VII.- La garantía que deberá otorgarse para asegurar la seriedad de la proposición.
 
+> <small>(REFORMADO, P.O. EL 9 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 28.
 
-Cuando existan circunstancias extraordinarias o imprevisibles, producidas por fenómenos naturales o por casos fortuitos o de fuerza mayor, las Convocatorias para los Concursos no requerirán de publicación y serán dirigidas hacia las personas que cuenten con la capacidad de respuesta inmediata y los recursos técnicos, financieros y demás requisitos necesarios para el caso, previa resolución fundada que califique las razones y circunstancias que concurran. En lo demás quedarán sujetas a lo dispuesto en esta Ley.
-
-Las Dependencias, Entidades y Ayuntamientos deberán informar este hecho a la Coordinación de Planeación dentro de un plazo de 10 días hábiles a partir de la fecha de iniciación de las obras.
+Cuando existan circunstancias extraordinarias o casos fortuitos o de fuerza mayor, no será aplicable lo dispuesto por el artículo 30 de la presente Ley y de las dependencias, entidades o ayuntamientos, bajo su responsabilidad, podrán invitar a personas que cuenten con la capacidad de respuesta inmediata y los recursos técnicos, financieros y demás requisitos necesarios para el caso, previa resolución fundada y motivada por escrito que califique las razones y circunstancias que concurran, entendiéndose como casos de fuerza mayor entre otros: cuando el contrato sólo pueda celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos y cuando se hubiere rescindido el contrato respectivo por causas imputables al proveedor o contratista. En estos casos, la dependencia o entidad podrá adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente más baja, siempre que la diferencia en precio con respecto a la postura que inicialmente hubiere resultado ganadora no sea superior al 10% y como caso fortuito, entre otros: cuando peligre o se altere el orden social, la economía, los servicios públicos de salubridad, la seguridad o el ambiente de alguna zona o región del Estado, como consecuencia de desastres producidos por fenómenos naturales o existan circunstancias que puedan provocar pérdidas o costos adicionales importantes.
 
 ###### ARTICULO 29.
 
 Las circunstancias extraordinarias a las que se refiere el artículo anterior serán cuando:
 
-I.- A juicio de la Dependencia o Entidad ejecutoras y de común acuerdo con la Coordinación de Planeación y de los Ayuntamientos, en su caso, la obra sea de tal urgencia que deba iniciarse de inmediato y terminarse en un plazo perentorio y no se disponga del tiempo necesario para cumplir con requisitos establecidos.
+I.- A juicio de la Dependencia o Entidad ejecutoras y de común acuerdo con la Coordinación de Planeación y de los Ayuntamientos, en su caso, la obra sea de tal urgencia que deba iniciarse de inmediato y terminarse en un plazo perentorio y no se disponga del tiempo necesario para cumplir los requisitos establecidos.
 
 II.- Atendiendo al importe total de la obra, no se justifique efectuar los gastos que tanto el convocante como los participantes tenían que hacer para cumplir los requisitos establecidos.
 
@@ -303,13 +303,31 @@ III.- Por las características particulares de la obra, se advierta que ésta re
 
 IV.- El contrato sólo pueda celebrarse con una determinada persona por ser ésta el titular de la o las patentes necesarias para realizar las obras.
 
-(REFORMADO, P.O. 09 DE ABRIL DE 1992).
+> <small>(REFORMADO, P.O. EL 9 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 30.
 
-Cuando se trate de trabajos de mantenimiento de equipo o instalación, de su conservación o reparación o de ejecución de obra pública cuyo monto no rebase los máximos que se consignan en el Presupuesto de Egresos de la Federación, publicado en el Diario Oficial de la Federación, según al año que corresponda, en correlación a lo dispuesto por al artículo 57 de la Ley de Obras Públicas Federal, las dependencias, entidades y ayuntamientos podrán adjudicar contratos a persona físicas o morales, sin necesidad de convocatoria pública, previa invitación que se extenderá a cuando menos tres personas que cuenten con capacidad de respuesta y de recursos técnicos, financieros y demás que sean necesarios para la ejecución de la obra, y de la que se seleccionará la propuesta que cumpla con las condiciones y garantías a que se refiere el artículo 34 de la presente Ley pero que deberán estar inscritos en el padrón de contratistas del Gobierno del Estado de Querétaro.
+Para la ejecución de Obra Pública, así como de servicios relacionados con ésta a realizarse por contrato con cargo a fondos estatales o municipales, se utilizarán los siguientes criterios:
 
-Para los efectos de aplicación de este precepto, cada obra deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos y límites que se establecen en el presupuesto de egresos arriba mencionado, y en ningún caso el importe total de una obra podrá ser fraccionado para que sea comprendida en los supuestos a que se refiere el presente artículo.
+I.- Cuando el monto aprobado para la obra o servicios sea menor o igual a 0.004 por ciento del Presupuesto de Egresos del Estado, para el ejercicio fiscal vigente, el contrato respectivo se celebrará mediante adjudicación directa;
+
+II.- Cuando el monto aprobado para la obra o servicios sea superior al 0.004 por ciento y menor o igual al 0.08 por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal vigente, el contrato se celebrará mediante invitación o convocatoria restringida a cuando menos tres personas físicas o morales; y
+
+III.- Cuando el monto aprobado de la obra sea superior al 0.08 por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal vigente, el contrato se celebrará a través de licitación pública.
+
+Los montos establecidos en las fracciones que anteceden, se calcularán sin el importe del impuesto al valor agregado
+
+Para determinar el monto de las obras conforme a este artículo, cada una se considerará individualmente y no podrá fraccionarse su importe total para ser comprendida en los supuestos de las fracciones que anteceden.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1999)</small>
+
+ARTICULO 30 BIS.- En los casos de las fracciones II y III del artículo inmediato anterior, los contratos se adjudicarán en primer término a las personas físicas o morales que acrediten:
+
+I.- Poseer una experiencia mínima de tres años en el ejercicio de la actividad empresarial en el Estado de Querétaro y tener establecida en éste, con la misma antigüedad, la administración principal de su actividad al momento de realizarse la invitación o convocatoria.
+
+II.- Contar con capacidad financiera, técnica y de respuesta inmediata para la ejecución de la obra; y
+
+III.- Estar inscritas en el Padrón de Contratistas al que se refiere el artículo 18 de la Ley de Obras Públicas vigente.
 
 ###### ARTICULO 31.
 
@@ -560,3 +578,21 @@ Se derogan todas aquellas disposiciones que se opongan a la presente.
 ###### ARTICULO TERCERO.
 
 Los concursos por invitación que estén actualmente en trámite conforme lo dispuesto por el artículo 30 de la Ley de Obras Públicas aquí derogado, se llevarán a cabo hasta su conclusión conforme a lo dispuesto en dicho artículo.
+
+P O. 9 DE JULIO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+La presente Ley iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga".
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+###### ARTICULO CUARTO.
+
+Las invitaciones y convocatorias que estén actualmente en trámite conforme a lo dispuesto en el artículo 30 de la Ley de Obras Públicas del Estado, reformado por la presente Ley, se llevarán a cabo hasta su conclusión conforme a lo dispuesto en dicho artículo.
