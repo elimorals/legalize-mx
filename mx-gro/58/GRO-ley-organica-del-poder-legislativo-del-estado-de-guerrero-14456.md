@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2004-02-03"
+last_updated: "2004-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUM. 286
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286.
+LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -227,13 +227,23 @@ b) Que la elección hubiere sido declarada nula.
 
 c) Cuando sin causa justificada, no concurrieren los miembros necesarios para su instalación;
 
-XXII. Elegir por el voto de las dos terceras partes de sus miembros presentes a los magistrados del Tribunal Electoral del Estado y a los Consejeros Electorales del Consejo Estatal Electoral, de conformidad con lo previsto en la Ley de la materia;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2004)</small>
 
-XXIII. Discutir y aprobar en su caso, en el improrrogable término de diez días a partir de que son recibidos, los nombramientos de Magistrados del Tribunal Superior de Justicia hechos por el Gobernador. Si el Congreso no resuelve dentro del término antes citado, se tendrán por aprobados los nombramientos. Toda negativa de aprobación deberá estar fundada y motivada por el Congreso. En tal caso el Gobernador hará nombramiento en favor de persona distinta de la rechazada, hasta quedar definitivamente integrado el Tribunal;
+XXII. Elegir por el voto de las dos terceras partes de sus miembros presentes a los Magistrados del Tribunal Electoral del Estado y a los Consejeros Electorales del Consejo Estatal Electoral, de conformidad con lo previsto en la Ley de la materia y, recibirles la protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y las Leyes que de una u otra emanen.
 
-XXIV. Recibir de los Diputados, del Gobernador electo y de los Magistrados del Tribunal Superior de Justicia, la protesta de guardar y hacer guardar la Constitución General de la República, la particular del Estado y las Leyes que de una u otra emanen;
+Aprobar el nombramiento de los Magistrados del Tribunal de lo Contencioso Administrativo en los términos de la ley respectiva;
 
-XXV. Recibir de los magistrados de los Tribunales Electoral del Estado y de lo Contencioso Administrativo, la protesta de guardar la Constitución Federal, la del Estado y las Leyes que de una u otra emanen;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+XXIII. Discutir y aprobar en su caso, en el improrrogable término de diez días a partir de que son recibidos, los nombramientos de Magistrados del Tribunal Superior de Justicia y de los Consejeros de la Judicatura hechos por el Gobernador. Si el Congreso no resuelve dentro del término antes citado, se tendrán por aprobados los nombramientos. Toda negativa de aprobación deberá ser fundada y motivada por el Congreso. En el caso de dos rechazos consecutivos de las personas propuestas, el Gobernador hará el nombramiento a favor de persona distinta a las rechazadas.
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+XXIV. Recibir de los Diputados, del Gobernador electo, de los Magistrados del Tribunal Superior de Justicia, de los Consejeros de la Judicatura y de los Magistrados del Tribunal de lo Contencioso Administrativo, la protesta de guardar y hacer guardar la Constitución General de la República, la particular del Estado y las Leyes que de una u otra emanen;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+XXV. Elegir en los términos que establece la Constitución Política del Estado al Procurador General de Justicia del Estado y en términos de la Ley Orgánica de la Procuraduría de Justicia del Estado al Fiscal Especializado para la Atención de Delitos Electorales y recibirles la protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y las Leyes que de una u otra emanen.
 
 XXVI. Suspender Ayuntamientos o declarar que éstos han desaparecido, y suspender o revocar el mandato a alguno de sus miembros, conforme a las hipótesis previstas y al procedimiento de la Ley correspondiente.
 
@@ -1741,7 +1751,7 @@ El Pleno del Congreso podrá emitir opinión respecto de las comparecencias.
 
 El Congreso del Estado, conforme lo disponga la Constitución Política Local, ratificará los nombramientos de los Servidores Públicos que le sean propuestos por el Gobernador.
 
-###### Articulo 160.
+###### Artículo 160.
 
 El procedimiento para la ratificación de los nombramientos de Servidores Públicos se regirá conforme a lo siguiente:
 
@@ -1762,6 +1772,10 @@ V. Podrán inscribirse para argumentar hasta seis Diputados, debiéndose cuidar 
 VI. Terminadas las intervenciones de los Diputados inscritos, el Presidente de la Mesa Directiva someterá a votación el dictamen de la Comisión.
 
 En caso de que un nombramiento no fuese ratificado, se deberá hacer del inmediato conocimiento del Gobernador, para los efectos de que formule el nuevo nombramiento.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+Tratándose del nombramiento del Fiscal Especializado para la Atención de Delitos Electorales, en caso de ser rechazados los de la primera terna, deberá hacerse inmediatamente del conocimiento del Gobernador para que formule una nueva, en caso de no aprobarse ninguno de los que conforman dicha terna, se le comunicará para que realice el nombramiento de manera directa a favor de persona distinta de las rechazadas.
 
 ###### ARTICULO 161.
 
@@ -2304,3 +2318,9 @@ El presente Decreto entrará en vigor a partir del día siguiente de su expedici
 ###### ARTICULO SEGUNDO.
 
 Comuníquese al presente Decreto al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
+
+P.O. 13 DE FEBRERO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su expedición.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno del Estado.
