@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1978-06-18"
+last_updated: "1980-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 1978.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 1980.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -621,7 +621,7 @@ a).- De coordinación con las Secretarías de Estado.
 
 b).- Sobre límites con los Estados vecinos previa aprobación del Congreso.
 
-VIII.- Concertar empréstitos en los términos de la fracción V del artículo 27 de esta Constitución;
+VIII.- Concertar empréstitos en los términos de la fracción V del artículo 27 de esta Constitución.
 
 IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso tratándose de inmuebles;
 
@@ -725,11 +725,11 @@ Si fueren rechazados, el Gobernador, dentro de igual término, enviará ternas a
 
 Los Juzgados estarán a cargo de Jueces que nombrará el Supremo Tribunal de Justicia, en número, categoría y denominación que establezca la Ley Orgánica del Poder Judicial, la que también fijará los requisitos necesarios para ocupar esos cargos.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1980)</small>
 
 ###### Artículo 56.
 
-Los magistrados y jueces sólo podrán ser privados de sus cargos por mala conducta debidamente comprobada en los términos de la Ley Orgánica del Poder Judicial, o previo juicio de responsabilidad.
+Los Magistrados y Jueces serán inamovibles. Sólo podrán ser privados de sus cargos por mala conducta debidamente comprobada en los términos de la Ley Orgánica del Poder Judicial, o previo juicio de responsabilidad.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1129,12 +1129,6 @@ UNICO.- El presente decreto surtirá sus efectos desde la fecha de su expedició
 
 P.O. 17 DE JUNIO DE 1928.
 
-Art 3°.- El presente decreto surtirá sus efectos desde la fecha de su expedición.
-
-P.O. 24 DE MARZO DE 1929.
-
-> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 160.</small>
-
 ###### Art. 3°.
 
 El presente decreto surtirá sus efectos desde la fecha de su expedición.
@@ -1326,3 +1320,7 @@ El presente Decreto surtirá sus efectos a partir de la fecha de su publicación
 P.O. 18 DE JUNIO DE 1978.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE FEBRERO DE 1980.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
