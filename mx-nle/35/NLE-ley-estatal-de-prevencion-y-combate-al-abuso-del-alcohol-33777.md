@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-prevencion-y-combate-al-abuso-del-alcohol-33777"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-10"
-last_updated: "2003-09-10"
+last_updated: "2004-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE PREVENCION Y COMBATE AL ABUSO DEL ALCOHOL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de septiembre de 2003.
 
@@ -39,9 +39,11 @@ LEY ESTATAL DE PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto prevenir y combatir el abuso en el consumo de bebidas alcohólicas, inhibir la comisión de infracciones y delitos relacionados con dicho abuso, así como proteger la salud frente a los riesgos derivados del mismo.
+Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto prevenir y combatir el abuso en el consumo de bebidas alcohólicas, inhibir la comisión de infracciones y delitos relacionados con dicho abuso, proteger la salud frente a los riesgos derivados del mismo y promover campañas permanentes que combatan el abuso del consumo del alcohol.
 
 ###### Artículo 2.
 
@@ -51,41 +53,81 @@ I. Barra libre: venta, expendio u ofrecimiento ilimitado o excesivo de bebidas a
 
 II. Bebida adulterada: bebida alcohólica cuya naturaleza o composición no corresponda a aquéllas con que se etiquete, anuncie, expenda, suministre o cuando no coincida con las especificaciones de su autorización o haya sufrido tratamiento que disimule su alteración, se encubran defectos en su proceso o en la calidad sanitaria de las materias primas utilizadas;
 
-III. Bebida alcohólica: aquélla que contenga alcohol etílico en una proporción de dos por ciento y hasta cincuenta y cinco por ciento en volumen.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
-Cualquier otra bebida que tenga proporción mayor no podrá comercializarse para consumo humano;
+III. Dueño de Establecimiento: El propietario, la persona física o moral a nombre de la cual se encuentre la licencia de operación o por quien asuma esa responsabilidad con motivo de la operación y explotación del establecimiento en donde se hayan servido o vendido bebidas alcohólicas o aquellas que contengan una mayor proporción de alcohol al permitido por la ley a la persona que causó el daño;
 
-IV. Bebida alterada: bebida alcohólica cuyo contenido o materia prima por la acción de cualquier causa, haya sufrido modificaciones en su composición intrínseca que reduzcan su poder nutritivo o terapéutico, lo conviertan en nocivo para la salud o modifiquen sus características, siempre que éstas tengan repercusión en la calidad sanitaria de los mismos;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
-V. Bebida contaminada: bebida alcohólica cuyo contenido o materia prima contenga microorganismos, hormonas, bacteriostáticos, plaguicidas, partículas radiactivas, materia extraña, así como cualquier otra substancia en cantidades que rebasen los límites permisibles establecidos por la Secretaría;
+IV. Bebida alcohólica: aquélla que contenga alcohol etílico en una proporción de dos por ciento y hasta cincuenta y cinco por ciento en volumen. Cualquier otra bebida que tenga proporción mayor no podrá comercializarse para consumo humano;
 
-VI. Bebida preparada: bebida alcohólica que se compone de la mezcla de una o varias bebidas alcohólicas, ya sea entre sí o combinadas con bebidas no alcohólicas, como agua, jugos, refrescos u otras;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
-VII. Control sanitario: conjunto de acciones de orientación, educación, muestreo, verificación, y en su caso, la aplicación de medidas de seguridad y sanciones que ejerce la Secretaría con el propósito de vigilar y garantizar el cumplimiento de ésta y otras leyes por parte de las personas físicas y morales que realicen las actividades a que se refiere la misma;
+V. Bebida alterada: bebida alcohólica cuyo contenido o materia prima por la acción de cualquier causa, haya sufrido modificaciones en su composición intrínseca que reduzcan su poder nutritivo o terapéutico, lo conviertan en nocivo para la salud o modifiquen sus características, siempre que éstas tengan repercusión en la calidad sanitaria de los mismos;
 
-VIII. Cuota: salario mínimo diario general vigente en el área geográfica B, según la Comisión Nacional de los Salarios Mínimos;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
-IX. Establecimiento: negocio en el que se expenden o se consumen bebidas alcohólicas, ya sea en envase cerrado o abierto, o al copeo;
+VI. Bebida contaminada: bebida alcohólica cuyo contenido o materia prima contenga microorganismos, hormonas, bacteriostáticos, plaguicidas, partículas radiactivas, materia extraña, así como cualquier otra substancia en cantidades que rebasen los límites permisibles establecidos por la Secretaría;
 
-X. Establecimientos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos: aquéllos en los que las ventas de bebidas alcohólicas no exceda del cuarenta porciento de sus ingresos;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
-XI. Estado de ebriedad: condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 1.5 o más gramos de alcohol por litro de sangre o su equivalente en algún otro sistema de medición;
+VII. Bebida preparada: bebida alcohólica que se compone de la mezcla de una o varias bebidas alcohólicas, ya sea entre sí o combinadas con bebidas no alcohólicas, como agua, jugos, refrescos u otras;
 
-XII. Estado de ineptitud para conducir: condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene .8 o más gramos de alcohol por litro de sangre y de .3 o más gramos de alcohol por litro de sangre tratándose de conductores de servicio público de transporte; o en ambos casos, su equivalente en algún otro sistema de medición;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
-XIII. Ley de Salud: legislación vigente en el Estado en materia de salud;
+VIII. Control sanitario: conjunto de acciones de orientación, educación, muestreo, verificación, y en su caso, la aplicación de medidas de seguridad y sanciones que ejerce la Secretaría con el propósito de vigilar y garantizar el cumplimiento de ésta y otras leyes por parte de las personas físicas y morales que realicen las actividades a que se refiere la misma;
 
-XIV. Prevención: conjunto de acciones dirigidas a evitar o reducir el abuso en el consumo de bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
-XV. Reincidencia: cuando el infractor cometa la misma violación a las disposiciones de esta Ley dos o más veces dentro del período de dos años, contados a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior;
+IX. Cuota: salario mínimo diario general vigente en el área geográfica B, según la Comisión Nacional de los Salarios Mínimos;
 
-XVI. Salud pública: el conjunto de acciones que tienen por objeto promover, proteger, fomentar y restablecer la salud de las personas, elevar el nivel de bienestar y prolongar la vida humana, mismas que complementan los servicios de atención médica y asistencia social. Estas acciones comprenden, entre otras, la prevención y control de enfermedades y accidentes; la promoción de la salud, la organización y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud; la investigación para la salud y la información relativa para las condiciones, recursos y servicios de salud del Estado;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
-XVII. Secretaría: Secretaría de Salud del Estado;
+X. Establecimiento: negocio en el que se expenden o se consumen bebidas alcohólicas, ya sea en envase cerrado o abierto, o al copeo;
 
-XVIII. Sistemas de venta, consumo o expendio con descuento en precio: es el ofrecimiento de bebidas alcohólicas, en establecimientos, mediante promociones o sistemas de venta conocidos como barra libre, así como cualquier práctica mediante la cual se puedan consumir bebidas alcohólicas sin costo o con descuento de más del cincuenta por ciento en el precio, o bien, el consumo, expendio u ofrecimiento de bebidas alcohólicas a cambio o incluido en el pago para la admisión a un establecimiento; y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
-XIX. Tratamiento: conjunto de acciones que tienen por objeto la reducción o la abstinencia en el consumo de las bebidas alcohólicas.
+XI. Establecimientos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos: aquellos en las que el producto de las ventas de bebidas alcohólicas no exceda el cuarenta por ciento de sus ingresos totales;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+
+XII. Estado de ebriedad: condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 1.5 o más gramos de alcohol por litro de sangre o su equivalente en algún otro sistema de medición;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+
+XIII. Estado de ineptitud para conducir: condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 0.8 o más gramos de alcohol por litro de sangre y de más de 0.0 gramos de alcohol por litro de sangre tratándose de conductores de servicio público de transporte; o en ambos casos, su equivalente en algún otro sistema de medición;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+
+XIV. Evidente Estado de Ebriedad: Cuando a través de los sentidos por las manifestaciones externas aparentes, razonablemente se puede apreciar que la conducta o la condición física de una persona presenta alteraciones en la coordinación, en la respuesta de reflejos, en el equilibrio o en el lenguaje, con motivo del consumo de alcohol etílico;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+
+XV. Ley de Salud: legislación vigente en el Estado en materia de salud;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+
+XVI. Prevención: conjunto de acciones dirigidas a evitar o reducir el abuso en el consumo de bebidas alcohólicas;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+
+XVII. Reincidencia: cuando el infractor cometa la misma violación a las disposiciones de esta Ley dos o más veces dentro del período de dos años, contados a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+
+XVIII. Salud pública: el conjunto de acciones que tienen por objeto promover, proteger, fomentar y restablecer la salud de las personas, elevar el nivel de bienestar y prolongar la vida humana, mismas que complementan los servicios de atención médica y asistencia social. Estas acciones comprenden, entre otras, la prevención y control de enfermedades y accidentes; la promoción de la salud, la organización y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud; la investigación para la salud y la información relativa para las condiciones, recursos y servicios de salud del Estado;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+
+XIX. Secretaría: Secretaría de Salud del Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2004)</small>
+
+XX. Sistemas de venta, consumo o expendio con descuento en precio: es el ofrecimiento de bebidas alcohólicas, en establecimientos, mediante promociones u ofertas o sistema de barra libre, así como cualquier práctica mediante la cual se puedan vender o consumir bebidas alcohólicas, sin costo, con artículo agregado o con descuento de más del cincuenta por ciento en el precio, o bien, el consumo, expendio u ofrecimiento de bebidas alcohólicas a cambio o incluido en el pago para la admisión a un establecimiento; y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2004)</small>
+
+XXI. Tratamiento: conjunto de acciones que tienen por objeto la reducción o la abstinencia en el consumo de las bebidas alcohólicas.
 
 ###### Artículo 3.
 
@@ -111,7 +153,9 @@ III. Instruir la implementación en el sistema educativo estatal de programas or
 
 IV. Promover la participación de las instituciones en la planeación, programación y ejecución de acciones de naturaleza preventiva y correctiva del abuso del alcohol;
 
-V. Promover la formalización de acuerdos con asociaciones empresariales o empresas fabricantes y distribuidoras de bebidas alcohólicas, así como anunciantes, agencias, medios de publicidad, medios de comunicación y asociaciones de consumidores y usuarios, con el fin de lograr el cumplimiento de esta Ley;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+
+V. Promover la formalización de acuerdos con asociaciones empresariales o empresas fabricantes y distribuidoras de bebidas alcohólicas, así como anunciantes, agencias, medios de publicidad, medios de comunicación y asociaciones de consumidores y usuarios, con el fin de prevenir y combatir el abuso en el consumo de bebidas alcohólicas, proteger la salud frente a los riesgos derivados del mismo, así como otras acciones tendientes a lograr el cumplimiento de esta ley;
 
 VI. Fortalecer las estrategias de apoyo y ayuda dirigidas a familias donde alguno de sus miembros presente problemas de consumo abusivo de bebidas alcohólicas;
 
@@ -131,7 +175,9 @@ III. Vigilar el cumplimiento de esta Ley, en el ámbito de su competencia;
 
 IV. Ordenar y realizar la práctica de visitas de inspección o verificación, y en su caso, aplicar las medidas de seguridad, de conformidad con lo establecido en la Ley de Salud;
 
-V. Substanciar los procedimientos, y en su caso, aplicar las sanciones administrativas que correspondan a los Artículos 16 fracciones II, III y IV; 17 fracciones III y V, 18 y 19 fracción XII;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+
+V. Substanciar los procedimientos, y en su caso, aplicar las sanciones administrativas que correspondan al incumplimiento de las obligaciones contenidas en los Artículos 16 fracciones II, III y IV; 17 fracciones III y V, 18 y por la realización de las conductas enumeradas en el Artículo 19 fracción XII;
 
 VI. Llevar a cabo programas o acciones encaminadas a la prevención, combate y tratamiento del abuso del consumo de bebidas alcohólicas, y en su caso, la rehabilitación de los alcohólicos;
 
@@ -149,9 +195,11 @@ XI. Valorar la constancia que acredite que la persona sancionada cumplió con su
 
 XII. Las demás que señalen otras disposiciones de carácter general.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
+
 ###### Artículo 7.
 
-La Secretaría General de Gobierno, a través del área competente de la seguridad pública en el Estado, será responsable de vigilar el cumplimiento de esta Ley y aplicar las sanciones que correspondan al Artículo 19 en sus fracciones I, IX, X y XII.
+La Secretaría de Seguridad Pública en el Estado, en el ámbito de su competencia, será responsable de vigilar el cumplimiento de esta Ley y aplicar las sanciones que correspondan por la realización de las acciones enumeradas en el Artículo 19 en sus fracciones I, IX y XII.
 
 ###### Artículo 8.
 
@@ -163,15 +211,27 @@ II. Informar a la autoridad encargada de la expedición de las licencias de cond
 
 III. Impulsar alternativas de sano esparcimiento facilitando la utilización de centros comunitarios de tipo educativo, cultural o lúdico, como polideportivos, bibliotecas y centros culturales;
 
-IV. Establecer los criterios de ubicación, distancia y características de los establecimientos dedicados a la venta, consumo y expendio de bebidas alcohólicas, además de los que en su caso, establece esta Ley;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
-V. Aplicar, de conformidad con sus reglamentos, las sanciones administrativas que correspondan a los Artículos 4; 15; 16 fracciones I, III, V, y VI; 19 fracciones I, II, III, IV, V, VI, VII, VIII, IX, X y XII de esta Ley, sujetándose a los procedimientos municipales que para tal efecto se establezcan; y
+IV. Establecer en sus reglamentos los criterios de ubicación, distancia, publicidad, transportación y características de los establecimientos dedicados a la venta, distribución, consumo, anuncio y expendio de bebidas alcohólicas, además de los que en su caso establezca esta Ley;
 
-VI. Las demás que señalen otras disposiciones de carácter general.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+
+V. Aplicar, de conformidad con sus reglamentos, las sanciones administrativas que correspondan por el incumplimiento de las obligaciones contenidas en los artículos 4; 15; 16 fracciones I, III, V y VI; y por la realización de las conductas enumeradas en el artículo 19 fracciones I, II, III, IV, V, VI, VII, VIII, IX y XII de esta Ley, sujetándose a los procedimientos municipales que para tal efecto se establezcan;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+
+VI. En el caso de las infracciones señaladas en el artículo 19 fracciones VII y VIII de esta Ley, la autoridad municipal estará obligada a registrar las infracciones cometidas, señalando de manera indubitable el nombre del conductor sancionado, y deberá remitir esta información a la autoridad encargada de la expedición y renovación de las licencias de conducir en el Estado, la cual la concentrara en una base de datos; y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2004)</small>
+
+VII. Las demás que señalen otras disposiciones de carácter general.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
 ###### Artículo 9.
 
-El Consejo Tutelar de Menores será encargado de vigilar el cumplimiento de los Artículos 19, fracciones XI y XII de esta Ley, y aplicar en su caso las sanciones que correspondan.
+El Consejo Estatal de Menores será el encargado de aplicar en su caso, las sanciones previstas en las fracciones XV y XVII del artículo 20 de esta Ley, en el ámbito de su competencia.
 
 ### CAPÍTULO III. ACCIONES PARA PREVENIR O COMBATIR EL ABUSO EN EL CONSUMO DEL ALCOHOL
 
@@ -219,11 +279,27 @@ III. Los sábados, de las 0:00 a las 2:00 horas y de las 9:00 a las 24:00 horas;
 
 IV. Los domingos, de las 0:00 a las 2:00 horas y de las 9:00 a las 18:00 horas, con excepción de los establecimientos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos, que podrán dar el servicio hasta las 24:00 horas.
 
-Fuera del horario establecido, dichos establecimientos deberán permanecer cerrados, a excepción de aquéllos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos; hoteles; supermercados, tiendas de abarrotes, autoservicio y de conveniencia que operen las 24 horas; centros nocturnos y lugares públicos de reunión con variedad artística y similares; así como los establecimientos contratados para festejos privados, en los cuales los invitados no paguen entrada ni consumo. En estos casos de excepción, los establecimientos podrán permanecer abiertos, pero no podrán vender o expender bebidas alcohólicas fuera del horario que dispone este Artículo.
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2004)</small>
 
-La autoridad municipal llevará un registro de los establecimientos que deberán estar cerrados y de los que se encuentren excepcionados de tal supuesto, en los términos de esta disposición.
+El horario a que se refiere este artículo no será aplicable a quienes vendan y distribuyan bebidas alcohólicas directamente a mayoristas y detallistas; siempre y cuando fuera del horario referido, se evite la venta al público en general en los establecimientos.
 
-El horario a que se refiere este Artículo no será aplicable a quienes distribuyan bebidas alcohólicas como mayoristas.
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2004)</small>
+
+El horario establecido en este Artículo señala los límites máximos, por lo que los Ayuntamientos dentro de los parámetros establecidos en la presente Ley podrán reducir los horarios referidos de acuerdo a las circunstancias particulares de cada municipio.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
+
+Fuera del horario establecido, dichos establecimientos deberán permanecer cerrados, a excepción de aquellos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos; hoteles; supermercados; tiendas de abarrotes, autoservicio y de conveniencia que operen las 24 horas; centros nocturnos y lugares públicos de reunión con variedad artística y similares; así como los establecimientos contratados para festejos privados, en los cuales los invitados no pagan la entrada ni consumo. En estos casos de excepción los establecimientos podrán permanecer abiertos, pero no podrán vender o expender bebidas alcohólicas fuera del horario que dispone este Artículo.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
+
+La Autoridad Municipal llevará un registro de los establecimientos que deberán estar cerrados y de los que se encuentren exceptuados de tal supuesto en los términos de esta disposición.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
+
+Los Ayuntamientos de los municipios establecidos fuera del área conurbada podrán, por acuerdo de las dos terceras partes de sus integrantes, expedir permisos especiales para la venta o expendio de bebidas alcohólicas fuera de los horarios establecidos, en eventos o festejos tradicionales de su comunidad, mismos que deberán restringirse a períodos de tiempo claramente determinados.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
 Lo determinado en el presente precepto se aplicará sin perjuicio de lo dispuesto por otras disposiciones legales.
 
@@ -263,13 +339,17 @@ V. Participar, conjuntamente con los menores o incapaces, en los tratamientos o 
 
 Las autoridades que tengan conocimiento de que alguna persona ha participado en hechos o actos en los cuales las consecuencias legales dependan o se vean agravados por el hecho de que se encuentre en estado de ebriedad o de ineptitud para conducir, están obligadas a trasladarlos ante el personal competente, a fin de que se le tomen las muestras necesarias para llevar a cabo los análisis respectivos a la persona involucrada en estos hechos o actos.
 
-La toma de estas muestras se procurará que sea realizada de inmediato y será conservada durante tres meses por la autoridad, en condiciones que permitan su revisión posterior.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 5 DE MARZO DE 2004)</small>
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
 Los servidores públicos, así como el personal de los servicios de ambulancia, urgencias, servicios hospitalarios, paramédicos o de auxilio, que por motivo de su función tengan conocimiento de dichos hechos o actos, estarán obligados a requerirles que proporcionen las muestras necesarias para que se lleven a cabo los análisis respectivos.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
+
 El personal de las instituciones hospitalarias, de emergencia o de auxilio, deberá practicar la toma de muestras para llevar a cabo los análisis o exámenes que correspondan cuando reciban a personas que exhiban síntomas de haber ingerido bebidas alcohólicas.
 
-En ningún caso podrán ser detenidos los conductores de vehículos para el solo efecto de verificar si se encuentran en estado de ebriedad o de ineptitud para conducir. Únicamente podrán ser requeridos para tal efecto, en el caso de haber cometido una infracción a las disposiciones de la presente Ley o de los reglamentos correspondientes, en lo relativo a la conducción de vehículos.
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 5 DE MARZO DE 2004)</small>
 
 ###### Artículo 19.
 
@@ -279,11 +359,15 @@ I. El consumo de bebidas alcohólicas en la vía pública, o en lugares de uso c
 
 II. Servir o vender bebidas alcohólicas a menores de edad o incapaces, independientemente de que sean para consumirse en el lugar o para llevarse, en envase abierto o cerrado;
 
-III. Llevar a cabo sistemas de venta, consumo o expendio con descuento en precio, con excepción de los descuentos, ofertas o promociones realizados por distribuidores, así como los que lleven a cabo los supermercados, tiendas de autoservicio y de conveniencia, respecto a bebidas alcohólicas en envase cerrado de origen y para su consumo fuera de dichos establecimientos;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+
+III. Llevar a cabo sistemas de venta, consumo o expendio con descuentos en precio, con excepción de los descuentos realizados por distribuidores sólo a establecimientos autorizados;
 
 IV. Los concursos, promociones o cualquier tipo de ofertas o prácticas comerciales mediante las cuales se ofrezcan reconocimientos, premios, descuentos o cualquier tipo de incentivo en función del volumen de consumo de bebidas alcohólicas;
 
-V. Servir o vender bebidas alcohólicas a personas que se encuentren en evidente estado de ebriedad, bajo el efecto evidente de psicotrópicos, sean incapaces o estén ostensiblemente armadas;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+
+V. Servir o vender bebidas alcohólicas a personas que se encuentren en evidente estado de ebriedad, o estén ostensiblemente armadas;
 
 VI. El expendio o la venta de bebidas alcohólicas en las instituciones educativas, en los centros de readaptación social, instituciones de beneficencia, hospitales, sanatorios y similares;
 
@@ -293,7 +377,7 @@ VIII. Poseer, en el área de pasajeros de un vehículo, una botella, lata u otro
 
 IX. Obsequiar o vender bebidas alcohólicas a los oficiales de tránsito, agentes de policía, militares y demás encargados de la seguridad pública cuando estén en servicio o porten uniforme, así como a los inspectores en servicio en ese establecimiento;
 
-X. Permitir el consumo de bebidas alcohólicas a menores en eventos privados que se efectúen en propiedades particulares o en locales contratados para tal efecto, en el caso de quien de hecho o de derecho haga la función de anfitrión, jefe de la casa u organizador del evento;
+X. (DEROGADA, P.O. 5 DE MARZO DE 2004)
 
 XI. Proporcionar datos falsos sobre su edad para obtener bebidas alcohólicas, en el caso de ser menor de edad; y
 
@@ -305,25 +389,35 @@ En la aplicación de esta Ley se considerará que una persona se encuentra en ev
 
 Las sanciones aplicables serán las siguientes:
 
-I. Por incumplimiento a lo dispuesto por el Artículo 4, primer párrafo, multa de 500 a 6,000 cuotas y clausura del establecimiento;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+
+I. Por incumplimiento a lo dispuesto por el Artículo 4, primer párrafo, multa de 350 a 2,500 cuotas y clausura del establecimiento. En caso de reincidencia se duplicará la multa impuesta previamente;
 
 II. Por incumplimiento a lo dispuesto por el Artículo 4, segundo párrafo, clausura del establecimiento;
 
-III. Por incumplimiento a lo dispuesto por los Artículos 15, párrafo primero y 19 fracción II, multa de 500 a 6,000 cuotas.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MARZO DE 2004)</small>
+
+III. Por incumplimiento a lo supuesto por los Artículos 15, párrafo primero y 19 fracción II, multa de 350 a 2,500 cuotas;
 
 En caso de reincidencia, se duplicará el monto de la multa impuesta previamente y se suspenderá la licencia por tres días.
 
 En el caso de incurrir nuevamente en la violación se aplicará una multa igual que la determinada en el párrafo anterior y se clausurará el establecimiento;
 
-IV. Por incumplimiento a lo dispuesto por el Artículo 15, párrafo segundo, multa de 250 a 2,000 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
-V. Por incumplimiento a lo dispuesto por el Artículo 16, fracción II, multa de 250 a 2,000 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
+IV. Por incumplimiento a lo dispuesto por el Artículo 15, párrafo segundo, multa de 250 a 1,500 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
+
+V. Por incumplimiento a lo dispuesto por el Artículo 16, fracción II, multa de 250 a 1,500 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
 
 VI. Por incumplimiento a lo dispuesto por el Artículo 16, fracciones I, III, IV, V y VI, multa de 50 a 200 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
 
 VII. Por incumplimiento a lo dispuesto por el Artículo 17, fracciones III y V, multa de 10 a 100 cuotas;
 
-VIII. Por incumplimiento a lo dispuesto por el Artículo 19, fracción II, multa de 500 a 6,000 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
+
+VIII. Por incumplimiento a lo dispuesto por el Artículo 19, fracción IV, multa de 350 a 2,500 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
 
 IX. Por incumplimiento a lo dispuesto por el Artículo 19, fracción VII, multa de 30 a 200 cuotas, tratamiento y suspensión de la licencia de conducir hasta por 3 meses.
 
@@ -335,17 +429,23 @@ X. Por incumplimiento a lo dispuesto por el Artículo 19, fracción VIII en el c
 
 En caso de reincidencia se duplicará el monto de la multa impuesta previamente y la suspensión de la licencia será de hasta 18 meses;
 
-XI. Por incumplimiento a lo dispuesto por el Artículo 19, fracción X, multa de 30 a 200 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
+XI. (DEROGADA, P.O. 5 DE MARZO DE 2004)
 
-XII. Por incumplimiento a lo dispuesto por el Artículo 19, fracciones III, V, VI y IX, multa de 250 a 2,000 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+
+XII. Por incumplimiento a lo dispuesto por el Artículo 19, fracciones III, V, VI y IX, multa de 250 a 1,500. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
 
 XIII. Por incumplimiento a lo dispuesto por el Artículo 19, fracción I, multa de 20 a 100 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
 
 XIV. Por incumplimiento a lo dispuesto por el Artículo 19, fracción VIII, en el caso de que la persona que se encuentre consumiendo sea mayor de edad, multa de 20 a 100 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
 
-XV. Por incumplimiento a lo dispuesto por el Artículo 19, fracción XI, tratamiento. En caso de reincidencia, los padres, tutores, quienes ejerzan la patria potestad o tengan la custodia, deberán acompañar al infractor al tratamiento; y
+XV. Por incumplimiento a lo dispuesto por el Artículo 19, fracción XI, tratamiento. En caso de reincidencia, los padres, tutores, quienes ejerzan la patria potestad o tengan la custodia, deberán acompañar al infractor al tratamiento; y (sic)
 
-XVI. Por incumplimiento a lo dispuesto por los Artículos 18 y 19 fracción IX, en el caso de ser servidores públicos, se tendrá a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios de Nuevo León.
+XVI. Por incumplimiento a lo dispuesto por los Artículos 18 y 19 fracción IX, en el caso de ser servidores públicos, se tendrá a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios de Nuevo León;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2004)</small>
+
+XVII. Por incumplimiento a lo dispuesto en el Artículo 19 fracción XII, multa de 20 a 100 cuotas.
 
 Al aplicarse las sanciones se tomarán en cuenta la capacidad económica del infractor, la gravedad de la infracción, las circunstancias particulares del caso y la reincidencia.
 
@@ -361,21 +461,51 @@ II. La autoridad que teniendo la posibilidad de evitar que la persona que haya c
 
 También será solidariamente responsable quien haya fungido como intermediario o de otra forma haya contribuido a que se le sirvieran o vendieran bebidas a un menor de edad o incapaz, cuando este haya causado el daño.
 
-Los padres, tutores, quien ejerza la patria potestad o tenga la custodia de un menor de edad o incapaz se harán responsables de los daños que éste cause.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
+
+Los padres, tutores, quien ejerza la patria potestad o tenga la custodia de un menor de edad o incapaz se harán responsables directos de los daños que éste cause, en forma solidaria con las personas mencionadas en este artículo.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2004)</small>
+
+Artículo 21 bis. Los responsables solidarios antes referidos son pasivos y por lo tanto solamente responden frente a los terceros afectados, más no frente a la persona que causó el daño, en los términos del Código Civil del Estado de Nuevo León.
+
+Se presumirá que no existe responsabilidad solidaria en los términos del artículo anterior, para el dueño del establecimiento que acredite que cumple con todos los siguientes requisitos:
+
+I. Que proporcione el servicio de transporte alternativo, por su propia cuenta, a fin de trasladar a las personas que consuman bebidas alcohólicas en ese establecimiento;
+
+II. Que utilice mecanismos para verificar que las personas que consumen bebidas alcohólicas en esos establecimientos son mayores de edad;
+
+III. Que utilice mecanismos de supervisión para evitar que se sirvan o expendan bebidas alcohólicas a personas en evidente estado de ebriedad;
+
+IV. Que proporcione capacitación a su personal a fin de evitar que sirvan o expendan bebidas alcohólicas a personas menores de edad o en evidente estado de ebriedad, y en el conocimiento de esta ley;
+
+V. Que no expenda o sirva bebidas adulteradas, alteradas, contaminadas o con una mayor proporción de alcohol que la permitida por la ley;
+
+VI. Que cumpla con los horarios para el servicio de venta, expendio o consumo establecidos en los términos del artículo 15 de esta ley;
+
+VII. Que coloque en lugares visibles del establecimiento el horario autorizado de venta y consumo de bebidas alcohólicas, y
+
+VIII. Que tenga el establecimiento a disposición de su clientela al menos un aparato alcoholímetro para medir el grado de alcohol consumido, para ser usado por el cliente si así lo desea.
+
+La presunción que establece este Artículo, no operará para el dueño del establecimiento que haya cometido una infracción o haya sido sancionado, dentro de los seis meses anteriores contados a la fecha en que se causó el daño, por actos relacionados con el objeto de esta Ley o de los Reglamentos que regulen la venta de bebidas alcohólicas en el municipio correspondiente.
 
 ###### Artículo 22.
 
 Cuando la sanción consista en multa, ésta será considerada como crédito fiscal, de conformidad con lo dispuesto por el Código Fiscal del Estado.
 
-Tratándose de multas impuestas por infracción a lo dispuesto por los Artículos 17, fracciones III y V, y 19 fracciones I, VII, VIII y XI, a fin de que ésta no le sea aplicada, el infractor podrá solicitar cubrir un servicio en la comunidad de una hora por cada 10 cuotas, debiendo acreditarlo ante la autoridad competente.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
+
+Tratándose de multas impuestas por infracción a lo dispuesto por los Artículos 17, fracciones III y V, y 19 fracciones I, VII y VIII, a fin de que ésta no le sea aplicada, el infractor podrá solicitar cubrir un servicio en la comunidad de una hora por cada 10 cuotas, debiendo acreditarlo ante la autoridad competente.
 
 ###### Artículo 23.
 
 Cuando la sanción consista en la imposición de tratamiento, se estará a lo dispuesto en las normas oficiales mexicanas que se hayan expedido para tal efecto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MARZO DE 2004)</small>
+
 ###### Artículo 24.
 
-Cuando la infracción haya sido cometida por un menor de edad, la autoridad competente lo remitirá al Consejo Tutelar de Menores, quien deberá hacer del conocimiento de los padres, tutores, quienes ejerzan la patria potestad o tengan la custodia, así como los directivos de la institución educativa en que, en su caso, curse sus estudios, la advertencia que consista en señalar las infracciones cometidas y las sanciones correspondientes, de acuerdo con lo que establece esta Ley.
+Cuando la infracción haya sido cometida por un menor de edad la autoridad competente lo remitirá al Consejo Estatal de Menores, quien deberá hacer del conocimiento de los padres, tutores, quienes ejerzan la patria potestad o tengan la custodia, así como los directivos de la institución educativa en que, en su caso, curse sus estudios, la advertencia que consista en señalar las infracciones cometidas y las sanciones correspondientes, de acuerdo con lo que establece esta ley.
 
 Además, en el caso de que la infracción sea cometida por una persona mayor de edad que sea estudiante de alguna institución con reconocimiento oficial en el Estado, la autoridad competente deberá hacer del conocimiento de los directivos de la misma, las infracciones cometidas y las sanciones correspondientes, de acuerdo a lo que establece esta Ley.
 
@@ -426,3 +556,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 EL C. GOBERNADOR SUBSTITUTO DEL ESTADO
 
 LIC. FERNANDO ELIZONDO BARRAGÁN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE MARZO DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los Ayuntamientos dentro de un plazo de treinta días naturales a partir de la entrada en vigor de este Decreto, deberán expedir, o en su caso, modificar sus reglamentos municipales adecuando sus disposiciones en lo conducente a lo previsto en la Ley Estatal de Prevención y Combate al Abuso del Alcohol.
