@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1992-09-30"
+last_updated: "1993-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1993.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -1155,6 +1155,8 @@ Los bienes de dominio privado del Estado son los que le pertenecen en propiedad 
 
 ### CAPITULO II. De la Extensión, Límites y Cabeceras
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 115.
 
 La hacienda pública del Estado está constituida por:
@@ -1229,7 +1231,7 @@ Los Municipios en el ámbito de su competencia, sujetándose a las Leyes de la M
 
 ###### ARTICULO 129.
 
-El Estado de Quintana Roo, se integra con los siguientes municipios: Othón P. Blanco, Felipe Carrillo Puerto, José Ma. Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez e Isla Mujeres.
+El Estado de Quintana Roo, se integra con los siguientes municipios: Othón P. Blanco, Felipe Carrillo Puerto, José Ma. Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres y Solidaridad.
 
 ###### ARTICULO 130.
 
@@ -1245,15 +1247,29 @@ II.- MUNICIPIO DE FELIPE CARRILLO PUERTO, con cabecera en la población del mism
 
 III.- MUNICIPIO DE JOSE MARIA MORELOS, con cabecera en la población del mismo nombre: Al norte, la línea que partiendo del vértice del ángulo formado por los límites de los Estados de Yucatán y Campeche, doscientos metros al oeste de Put, llega hasta la intersección con el paralelo que pasa por la torre sur de Chemax, veinte kilómetros al oriente de este punto y colindando con el Estado de Yucatán. Al sur, el municipio de Othón P. Blanco. Al este, el municipio de Felipe Carrillo Puerto. Al oeste, la línea que partiendo del vértice del ángulo formado por los límites de los Estados de Yucatán y Campeche, doscientos metros al oeste de Put, desciende al sur hasta el paralelo límite de las Repúblicas de México y Guatemala.
 
-IV.- MUNICIPIO DE COZUMEL, con cabecera en la población del mismo nombre: Al norte, partiendo del paralelo que pasa por la Torre sur de Chemax, 20 kilómetros al oriente de este punto se continúa con rumbo este sobre el paralelo hasta encontrar el lindero poniente del ejido de Tres Reyes, se dobla al sur para seguir sobre el lindero poniente y sur del ejido Paacchen hasta encontrar el lindero sur del ejido de San Juan de Dios, continuando al este sobre el lindero mencionado hasta encontrar el vértice sureste de este ejido, de aquí se continúa por el parelelo (sic) que pasa por este lugar con rumbo este, hasta encontrar el lindero del ejido de Playa del Carmen, se continúa al norte sobre el lindero mencionado y al encontrar el vértice norte de este ejido se continúa por el paralelo del lugar hasta encontrar el vértice suroeste del ejido de Puerto Morelos, se continúa al este sobre el lindero del ejido hasta encontrar el límite del fundo Legal de Puerto Morelos, se continúa al sur hasta salir a la costa del Mar Caribe, por el sur, con el municipio de Felipe Carrillo Puerto, por el este, el Mar Caribe, y por el oeste el municipio de Felipe Carrillo Puerto y la línea que partiendo de Put con cordenadas (sic) de 19 grados 39 minutos y 07 segundos de latitud norte y 89 grados 24 minutos 52 segundos de longitud oeste de Greewich (sic), corta el paralelo que pasa por la Torre sur de Chemax, 20 kilómetros al oriente de este punto.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 1993)</small>
 
-Queda en este Municipio comprendida igualmente la Isla de Cozumel, islotes y cayos adyacentes.
+IV.- MUNICIPIO DE COZUMEL, con cabecera en la población del mismo nombre. Comprende la Isla de Cozumel, islotes y cayos adyacentes.
 
-V.- MUNICIPIO DE LAZARO CARDENAS, con cabecera en Kantunilkín: Al norte, el Canal de Yucatán; Al sur, el Municipio de Cozumel. Al este, partiendo de la esquina norte del ejido de Playa del Carmen se sigue con rumbo norte sobre el meridiano que pasa por este sitio hasta encontrar el lindero sur del ejido Leona Vicario, se dobla al oeste siguiendo el lindero sur de este ejido, se continúa sobre el lindero oeste y norte hasta la intersección con el meridiano 87 grados 05 minutos 50 segundos, de longitud oeste de Greenwich, se sigue con rumbo norte sobre este meridiano hasta encontrar el lindero poniente del ejido de Isla Mujeres, se continúa por el lindero de este ejido hasta la intersección con el meridiano 87 grados 06 minutos 21 segundo (sic) de longitud oeste de Greenwich se sigue sobre este meridiano hasta llegar al faro de Cabo Catoche. Al oeste, la línea que partiendo de la costa norte del canal de Yucatán, sigue el arco del meridiano 87 grados, 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paralelo que pasa por la torre sur de Chemax, veinte kilómetros al oriente de este punto, comprendiendo la Isla de Holbox.
+Quedan dentro de su jurisdicción las superficies de la zona continental siguientes: Polígono con un área de 1,119.42 hectáreas, con las siguientes medidas, rumbos y colindancias: partiendo del vértice número 7 ubicado al sureste del polígono con rumbo suroeste 22 grados 42 minutos y una distancia de 140 metros, se llega al vértice número 8, de este vértice con rumbo suroeste 38 grados 47 minutos y una distancia de 137 metros, se llega al vértice número 9, de este vértice con rumbo suroeste 37 grados 31 minutos y una distancia de 141 metros, se llega al vértice número 10, de este vértice con rumbo suroeste 42 grados 01 minutos y una distancia de 191 metros, se llega al vértice número 11, de este vértice con rumbo suroeste 24 grados 31 minutos y una distancia de 188 metros, se llega al vértice número 12, de este vértice con rumbo suroeste 56 grados 16 minutos y una distancia de 132 metros, se llega al vértice número 13, de este vértice con rumbo suroeste 41 grados 59 minutos y una distancia de 121 metros, se llega al vértice número 14, de este vértice con un rumbo suroeste 19 grados 41 minutos y una distancia de 101 metros, se llega al vértice número 15, colindando del vértice número 7 al vértice número 15 con el Mar Caribe; del vértice número 15 con rumbo noroeste 41 grados 16 minutos y una distancia de 1,916 metros, se llega al vértice número 16, colindando el vértice número 15 al vértice número 16 con el Rancho Punta Venado e Instituto Nacional de Antropología e Historia; del vértice número 16 con rumbo noroeste 41 grados 16 minutos y una distancia de 40 metros, se llega al vértice número 17, colindando el vértice número 16 y el 17 con la carretera federal número 307 Reforma Agraria-Puerto Juárez; del vértice número 17 con rumbo suroeste 51 grados 11 minutos y una distancia de 2,119 metros, se llega al vértice número 18, colindando el vértice número 17 y el 18 con el derecho de vía de la carretera federal número 307 Reforma Agraria-Puerto Juárez; del vértice número 18 con rumbo noroeste 64 grados 38 minutos y una distancia de 4,020 metros, se llega al vértice número 19, colindando el vértice número 18 y el 19 con el Rancho La Adelita; del vértice número 19 con rumbo noreste 44 grados 14 minutos y una distancia de 1,971 metros, se llega al vértice número 20, del vértice número 20 con rumbo sureste 74 grados 33 minutos y una distancia de 3,720 metros se llega al vértice número 21, colindando el vértice número 19 al vértice número 21 con terrenos nacionales; del vértice número 21 con rumbo noreste 88 grados 15 minutos y una distancia de 230 metros, se llega al vértice número 22, del vértice número 22 con rumbo sureste 46 grados 26 minutos y una distancia de 84 metros, se llega al vértice número 23, del vértice número 23, con rumbo noreste 77 grados 32 minutos y una distancia de 88 metros, se llega al vértice número 24, del vértice número 24 con rumbo sureste 80 grados 16 minutos y una distancia de 249 metros, se llega al vértice número 25, del vértice número 25 con rumbo sureste 53 grados 20 minutos y una distancia de 390 metros, se llega al vértice número 1, colindando del vértice número 21 al vértice número 1 con el Rancho Los Corchales. Del vértice número 1 con rumbo sureste 39 grados 48 minutos y una distancia de 40 metros, se llega al vértice número 2, colindando del vértice número 1 al vértice número 2 con carretera federal número 307 Reforma Agraria-Puerto Juárez. Del vértice número 2 con rumbo sureste 39 grados 48 minutos y una distancia de 117 metros, se llega al vértice número 3, colindando del vértice número 2 al vértice número 3 con el Rancho Los Corchales; del vértice número 3 con rumbo sureste 50 grados 10 minutos y una distancia de 1,328 metros, se llega al vértice número 4, del vértice número 4 con rumbo noreste 48 grados 48 minutos y una distancia de 276 metros, se llega al vértice número 5, del vértice número 5 con rumbo sureste 53 grados 56 minutos y una distancia de 228 metros, se llega al vértice número 6, del vértice número 6 con rumbo sureste 37 grados 52 minutos y una distancia de 91 metros, se llega al vértice número 7, que es el punto de partida para cerrar el polígono, colindando del vértice número 3 al vértice número 7 con el Rancho X-Caret III.
 
-VI.- MUNICIPIO DE BENITO JUAREZ, con cabecera en Cancún. al norte el paralelo que pasa 200 metros al sur del faro de la Punta del Meco. Al sur el municipio de Cozumel y el Mar Caribe. Al este, el Mar Caribe y al oeste, el municipio de Lázaro Cárdenas. Quedan en su jurisdicción la Isla de Cancún y cayos adyacentes, y
+Polígono con un área de 90 hectáreas que comprende el Parque Ecológico de Xel-Há, con las medidas, rumbos y colindancias siguientes: Partiendo del vértice número 1, ubicado al sureste del polígono, con rumbo sureste 36 grados 35 minutos y una distancia de 206 metros, se llega al vértice número 2, del vértice número 2 con rumbo suroeste 60 grados 56 minutos y una distancia de 206 metros, se llega al vértice número 3, del vértice número 3 con rumbo suroeste 33 grados y una distancia de 187 metros, se llega al vértice número 4, del vértice número 4 con rumbo sureste 23 grados 39 minutos y una distancia de 97 metros, se llega al vértice número 5, del vértice número 5 con rumbo suroeste 27 grados 35 minutos y una distancia de 125 metros, se llega al vértice número 6, del vértice número 6 con rumbo suroeste 10 grados 03 minutos y una distancia de 172 metros, se llega al vértice número 7, del vértice número 7 con rumbo suroeste 27 grados 15 minutos y una distancia de 111 metros, se llega al vértice número 8, colindando del vértice número 1 al vértice número 8 con el Mar Caribe; del vértice número 8 con rumbo noroeste 61 grados 36 minutos y una distancia de 126 metros, se llega al vértice número 9, del vértice número 9 con rumbo noroeste 24 grados 12 minutos y una distancia de 120 metros, se llega al vértice número 10, del vértice número 10 con rumbo noroeste 19 grados 52 minutos y una distancia de 138 metros, se llega al vértice número 11, del vértice número 11 con rumbo noroeste 11 grados 49 minutos y una distancia de 132 metros, se llega al vértice número 12, del vértice número 12 con rumbo noroeste 22 grados 51 minutos y una distancia de 111 metros, se llega al vértice número 13, del vértice número 13 con rumbo noroeste 19 grados 49 minutos y una distancia de 65 metros, se llega al vértice número 14, del vértice número 14 con rumbo suroeste 75 grados 27 minutos y una distancia de 112 metros, se llega al vértice número 15, del vértice número 15 con rumbo suroeste 26 grados 33 minutos y una distancia de 85 metros, se llega al vértice número 16, del vértice número 16 con rumbo suroeste 01 grados y una distancia de 113 metros, se llega al vértice número 17, del vértice número 17 con rumbo suroeste 23 grados 42 minutos y una distancia de 117 metros, se llega al vértice número 18, del vértice número 18, con rumbo sureste 48 grados y una distancia de 135 metros, se llega al vértice número 19, del vértice número 19 con rumbo sureste 45 grados 14 minutos y una distancia de 173 metros, se llega al vértice número 20, del vértice número 20 con rumbo sureste 71 grados 17 minutos y una distancia de 134 metros, se llega al vértice número 21, del vértice número 21 con rumbo sureste 46 grados 52 minutos y una distancia de 108 metros, se llega al vértice número 22, colindando del vértice número 8 al vértice número 22 con el Mar Caribe. Del vértice número 22 con rumbo sureste 09 grados 46 minutos y una distancia de 88 metros, se llega al vértice número 23, del vértice número 23 con rumbo suroeste 10 grados 05 minutos y una distancia de 74 metros, se llega al vértice número 24, del vértice número 24 con rumbo suroeste 32 grados 28 minutos y una distancia de 156 metros, se llega al vértice número 25, colindando del vértice número 22 al vértice número 25 con el Mar Caribe; del vértice número 25 con rumbo noroeste 66 grados 03 minutos y una distancia de 791 metros, se llega al vértice número 26, colindando el vértice 25 y el 26 con terrenos de propiedad particular; del vértice número 26 con rumbo noreste 26 grados 10 minutos y una distancia de 1,256 metros, se llega al vértice número 27, del vértice número 27 con rumbo sureste 66 grados 30 minutos y una distancia de 683 metros, se llega al vértice número 1, que es el punto de partida para cerrar el polígono.
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 1993)</small>
+
+V.- MUNICIPIO DE LAZARO CARDENAS, con cabecera en Kantunilkín: Al norte el Canal de Yucatán. Al sur, el Municipio de Solidaridad. Al este partiendo de la esquina norte del ejido de Playa del Carmen, se sigue con rumbo norte sobre el meridiano que pasa por este sitio hasta encontrar el lindero sur del ejido Leona Vicario, se dobla al oeste siguiendo el lindero sur de este Ejido, se continúa sobre el lindero oeste y norte hasta la intersección con el meridiano 87 grados 05 minutos 50 segundos, de longitud oeste de Greenwich, se sigue con rumbo norte sobre este meridiano hasta encontrar el lindero poniente del ejido de Isla Mujeres, se continúa por el lindero de este ejido hasta la intersección con el meridiano 87 grados 06 minutos 21 segundos de longitud oeste de Greenwich se sigue sobre este meridiano hasta llegar al faro de Cabo Catoche. Al oeste, la línea que partiendo de la costa norte del Canal de Yucatán, sigue el arco del meridiano 87 grados 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paralelo que pasa por la Torre Sur de Chemax, veinte kilómetros al oriente de este punto, comprendiendo la Isla de Holbox.
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 1993)</small>
+
+VI.- MUNICIPIO DE BENITO JUAREZ, con cabecera en Cancún: Al norte, el paralelo que pasa 200 metros al sur del faro de la Punta del Meco. Al sur, el municipio e Solidaridad y el Mar Caribe. Al este, el Mar Caribe y al oeste, el municipio de Lázaro Cárdenas. Quedan en su jurisdicción la isla de Cancún y cayos adyacentes.
 
 VII.- MUNICIPIO DE ISLA MUJERES, con cabecera en la población del mismo nombre: Al norte, el canal de Yucatán. Al sur, el municipio Benito Juárez. Al este, el Mar Caribe. Al oeste, el municipio Lázaro Cárdenas. Comprende las Islas de Mujeres, Contoy y Blanca, islotes y cayos adyacentes a su litoral.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 1993)</small>
+
+VIII.- MUNICIPIO SOLIDARIDAD, con cabecera en la ciudad de Playa del Carmen. Al norte, partiendo del paralelo que pasa por la Torre Sur de Chemax, 20 kilómetros al oriente de este punto se continúa con rumbo este sobre el paralelo hasta encontrar el lindero poniente del Ejido Tres Reyes, se dobla al sur para seguir el lindero poniente y sur del Ejido Paachaeen hasta encontrar el lindero sur del ejido San Juan de Dios, continuando al este sobre el lindero mencionado hasta encontrar el vértice sureste de este ejido, de aquí se continúa por el paralelo que pasa por este lugar con rumbo este, hasta encontrar el lindero del Ejido Playa del Carmen, se continúa al norte sobre el lindero mencionado y al encontrar el vértice norte de este Ejido se continúa por el paralelo del lugar hasta encontrar el vértice suroeste del ejido de Puerto Morelos, se continúa al este sobre el lindero del Ejido hasta encontrar el límite del fundo legal de Puerto Morelos, se continúa al sur hasta salir a la costa del Mar Caribe, por el sur, con el Municipio de Felipe Carrillo Puerto, por el este, el Mar Caribe, y por el oeste el Municipio de Felipe Carrillo Puerto y la línea que partiendo de Put con coordenadas de 19 grados 39 minutos 07 segundos de latitud norte y 89 grados 24 minutos 52 segundos de longitud oeste de Greenwich, corta el paralelo que pasa por la Torre Sur de Chemax, 20 kilómetros al oriente de este punto.
+
+Se excluyen de su jurisdicción, las áreas descritas en los párrafos tercero y cuarto de la Fracción IV de este Artículo.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
 
@@ -1391,9 +1407,11 @@ Los Ayuntamientos se integran en la siguiente forma:
 
 I.- En los municipios de Othón P. Blanco y Benito Juárez, con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y hasta tres regidores electos según el principio de representación proporcional.
 
-II.- En los municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas e Isla Mujeres, con un Presidente, un Síndico, seis Regidores de mayoría relativa y hasta dos Regidores de representación proporcional.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 1993)</small>
 
-Se elegirá un suplente para el Síndico y uno para cada Regidor.
+II.- En los municipios de Felipe Carrillo Puerto, José Ma. Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres y Solidaridad, con un Presidente, un Síndico, seis Regidores de mayoría relativa y hasta dos Regidores de representación proporcional.
+
+Se elegirá un suplente por el Síndico y uno por cada Regidor.
 
 ###### ARTICULO 146.
 
@@ -1411,9 +1429,9 @@ El ayuntamiento reside en la cabecera del municipio y sus miembros durarán tres
 
 Los miembros del Ayuntamiento se elegirán por sufragio universal directo, libre y secreto de los ciudadanos quintanarroenses en ejercicio de sus derechos, mediante el sistema electoral mixto de mayoría relativa y de representación proporcional conforme a las bases siguientes.
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 1993)</small>
 
-I. En los Municipios de Othón P. Blanco, y Benito Juárez, cada Partido Político postulará una lista de once personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas e Isla Mujeres, cada Partido Político postulará una lista de ocho personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
+I.- En los Municipios de Othón P. Blanco y Benito Juárez, cada partido político postulará una lista de once personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores. En los municipios de Felipe Carrillo Puerto, José Ma. Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres y Solidaridad, cada partido político postulará una lista de ocho personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
 
@@ -2024,3 +2042,9 @@ DECRETO QUE REFORMA ARTS. 131, 160, 163 Y 168.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
 
 SEGUNDO.- Dentro de los 10 días a la entrada en vigor de estas reformas, los Ayuntamientos habrán de establecer las primeras Alcaldías Municipales dentro de su circunscripción territorial.
+
+P.O. 28 DE JULIO DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
