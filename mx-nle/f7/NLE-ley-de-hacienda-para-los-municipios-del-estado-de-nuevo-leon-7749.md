@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1999-12-31"
+last_updated: "2000-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -537,9 +537,7 @@ d) Personas incapacitadas físicamente para trabajar.
 
 e) Jubilados y pensionados con ingresos propios, cuyo monto diario no exceda de dos cuotas y media.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
-
-f) Los predios pertenecientes a los trabajadores al servicio de la Federación, Estado o Municipio.
+f) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
 
 (REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)(F. DE E., P.O. 18 DE ENERO DE 1999)
 
@@ -549,17 +547,15 @@ Si el valor catastral del predio excede de 6,129 cuotas y no de 12,257 cuotas, s
 
 Para quedar dentro de los supuestos de esta fracción, las personas antes citadas deberán habitar el inmueble en cuestión y no poseer otro bien raíz en el Estado.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-X.- Los predios del dominio privado del Estado, Municipios y sus entidades paraestatales.
+X .- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2000)
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 XI.- Los predios pertenecientes a las asociaciones religiosas, siempre que los mismos sean destinados directamente a los fines de las mismas y no sean objeto de actividades lucrativas o de negocio.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-Los contribuyentes que soliciten la tarifa única especial a que se refiere este artículo, deberán estar al corriente en el pago del Impuesto Predial para ser considerados dentro de dicho beneficio.
+Los contribuyentes que soliciten la tarifa única especial a que se refiere este artículo, deberán estar al corriente en el pago del impuesto predial para ser considerados dentro de dicho beneficio. En los casos establecidos en las fracciones I, II, III, VII y IX, el Ayuntamiento, a propuesta del Presidente Municipal, podrá otorgar, si lo juzga conveniente, una bonificación de hasta un 50% en el monto del rezago de este impuesto, siempre y cuando el beneficiario acredite que tuvo derecho a gozar del citado beneficio durante el período del rezago.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -731,11 +727,11 @@ Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles, las perso
 
 Para los efectos de esta ley, se considera base del impuesto el valor gravable del inmueble, que será el que resulte mayor entre el de operación y el consignado en el certificado de valor actual real, que al efecto expida la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 28 Bis 1.
 
-En la adquisición de viviendas cuyo valor más alto en los términos del artículo 28 bis-3, fracción I, no exceda de 25 cuotas elevadas al año y siempre que el adquirente sea persona física y no sea propietario o poseedor de otro bien inmueble en el Estado, cubrirá el impuesto aplicando la tasa del 2% al valor del inmueble, después de reducirlo en 15 cuotas elevadas al año.
+En la adquisición de viviendas cuyo valor más alto en los términos del Artículo 28 bis-3, fracción I, no exceda de 25 cuotas elevadas al año y siempre que el adquirente sea persona física y no posea otro bien raíz en el Estado, cubrirá el impuesto aplicando la tasa del 2% al valor del inmueble, después de reducirlo en 15 cuotas elevadas al año.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -787,9 +783,9 @@ IX.- En las adquisiciones por informaciones ad-perpetuam y sentencias judiciales
 
 X.- En las adquisiciones, derechos o renta a perpetuidad de los lotes en los panteones municipales.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-XI.- En las adquisiciones de bienes del dominio privado que realicen el Estado, los Municipios y sus entidades paraestatales.
+XI.- En las adquisiciones de bienes del dominio privado que realicen los Municipios y las entidades paraestatales de los Municipios.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -815,6 +811,10 @@ XIV.- En las donaciones que se hagan entre ascendientes y descendientes en líne
 
 XV.- En las adquisiciones realizadas por asociaciones religiosas, respecto de bienes destinados exclusivamente a sus fines.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+En cualquier tiempo en que la Tesorería Municipal advierta que los contribuyentes beneficiados en los términos de este Artículo, no hayan cumplido con cualesquiera de los requisitos que sirvieron de base para gozar de la tarifa especial, previa audiencia al interesado en la que se le otorgue un plazo no menor de 15 días hábiles para proporcionar pruebas y expresar alegatos, podrá revocar y cancelar las franquicias otorgadas. En este caso se procederá al cobro integro de las contribuciones no cubiertas bajo el amparo de la presente disposición, más sus respectivos accesorios.
+
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 28 Bis 2.
@@ -831,9 +831,9 @@ III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará e
 
 IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las Fracciones II y III que anteceden.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-V.- Fusión y escisión de sociedades.
+V.- Fusión o escisión de sociedades, salvo lo dispuesto en el Código Fiscal del Estado en esta materia.
 
 VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
 
@@ -875,7 +875,9 @@ En la determinación de este impuesto se deberán seguir las reglas siguientes:
 
 I.- Para efectos de este impuesto, se utilizará el salario mínimo general de la zona económica en donde se encuentre ubicado el inmueble, vigente al momento en que se expida el certificado de valor actual real.
 
-Los certificados de valor actual real que expida la Secretaría de Finanzas y Tesorería General del Estado, caducarán en un plazo de tres meses, el que se interrumpirá al protocolizarse la adquisición.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+Los certificados de valor actual real que expida la Secretaría de Finanzas y Tesorería General del Estado, caducarán en un plazo de doce meses. En caso de que durante el plazo mencionado se realicen dos o más adquisiciones sobre determinado inmueble, se podrá utilizar para efectos del cálculo del Impuesto, el mismo certificado de valor actual real expedido respecto de la primera de dichas operaciones.
 
 El certificado de valor actual real que se utilice para la determinación del impuesto, será el vigente al momento en que se protocolice la escritura, y en los casos en que no se requiera o se cumpla esta formalidad, se aplicará el que esté vigente al momento en que se pague el impuesto.
 
@@ -1949,9 +1951,9 @@ C.- Lotes con superficie mayor de 300 m2 0.172 cuotas
 
 2.- Industriales ubicados en los municipios de Apodaca, Escobedo, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina 0.107 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-3.- Campestres ubicados en los municipios de Apodaca, Guadalupe, Monterrey, San Pedro Garza García, Santa Catarina y Santiago 0.107 cuotas
+3.- Campestres ubicados en los Municipios de Apodaca, Guadalupe, García, Monterrey, San Pedro Garza García, Santa Catarina y Santiago 0.107 cuotas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2067,17 +2069,9 @@ Cuando lo solicite directamente el propietario del predio, la asignación del n�
 
 En todo caso, la placa con el número oficial podrá adquirirse, a elección del contribuyente, en algún establecimiento comercial o ante la autoridad municipal, cubriendo en este último caso el costo de la placa que fije el Municipio.
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)(F. DE E., P.O. 2 DE FEBRERO DE 2000)
-
 ###### ARTICULO 56.
 
-Los nuevos fraccionamientos cederán suelo al municipio para destinos, en los mismos términos a que se refiere la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado, en los términos del artículo 151.
-
-Las construcciones para nuevas edificaciones en terrenos no comprendidos en fraccionamientos autorizados, deberán ceder la superficie o pagar al municipio, en los mismos términos a que se refiere el artículo 149 de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado.
-
-Los Fraccionamientos funerarios o cementerios cederán la superficie o pagarán al municipio en los mismos términos a que se refiere el Artículo 166 de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado.
-
-Las relotificaciones o subdivisiones, en su caso deberán complementar las áreas para equipamientos y fines públicos, cediendo o pagando al municipio en los mismos términos a que se refiere el Artículo 168 de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
 
 ### CAPITULO IV. POR CERTIFICACIONES, AUTORIZACIONES, CONSTANCIAS Y REGISTROS
 
@@ -2107,9 +2101,9 @@ II.- Por registro de regularización que a juicio de los Municipios deban llevar
 
 Por inscripción al inicio de las actividades que se señalan, así como por el refrendo anual de la licencia, autorización, permiso o concesión, se cubrirán las siguientes cuotas en los municipios de Apodaca, Cadereyta Jiménez, General Escobedo, García, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y Santiago:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-I.- Estadios de futbol y beisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15 mil personas, 1,500 cuotas y con capacidad de más de 15 mil personas, 2,700 cuotas.
+I.- Estadios de futbol y beisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15,000 personas, 1,500 cuotas, con capacidad de más de 15,000 personas y hasta 25,000 personas, 2,700 cuotas y con capacidad de más de 25,000 personas, 3,500 cuotas.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2187,17 +2181,19 @@ Centros o Clubes Sociales o Deportivos con consumo de cerveza, vinos y licores, 
 
 h) (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-i) Hoteles con restaurante, en los que se expendan o consuman cervezas, vinos o licores 600 cuotas
+i) Hoteles en los que se expendan o consuman cervezas, vinos o licores, pagarán:
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+Hasta 150 metros cuadrados de expendio o consumo abierto al público 150 cuotas.
 
-j) Hoteles con restaurante y bar, en los que se expendan o consuman cervezas, vinos o licores 1000 cuotas
+Por el excedente de 150 metros, pagarán por cada metro cuadrado o fracción de expendio o consumo abierto al público 0.6 cuotas.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+En ningún caso la cantidad a pagar será mayor a 1,000 cuotas.
 
-k) Hoteles con restaurante, bar y salones para evento, en los que se expendan o consuman cervezas, vinos o licores 1400 cuotas
+j) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
+
+k) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2391,17 +2387,19 @@ g) Centros o Clubes Sociales o Deportivos con expendio o consumo de cerveza, vin
 
 h) (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-i) Hoteles con restaurante, en los que se expendan o consuman cervezas, vinos o licores 600 cuotas
+i) Hoteles en los que se expendan o consuman cervezas, vinos o licores, pagarán:
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+Hasta 150 metros cuadrados de expendio o consumo abierto al público 38 cuotas.
 
-j) Hoteles con restaurante y bar, en los que se expendan o consuman cervezas, vinos o licores 1000 cuotas
+Por el excedente de 150 metros, pagarán por cada metro cuadrado o fracción de expendio o consumo abierto al público 0.6 cuotas.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+En ningún caso la cantidad a pagar será mayor a 250 cuotas.
 
-k) Hoteles con restaurante, bar y salones para evento, en los que se expendan o consuman cervezas, vinos o licores 1400 cuotas
+j) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
+
+k) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2633,79 +2631,93 @@ No estarán obligados al pago de este derecho por los anuncios ubicados en el es
 
 Serán responsables solidarios en la causación de este derecho, el sujeto anunciado y el dueño del predio en el que esté ubicada físicamente la estructura o la superficie en que se adhiera o coloque el anuncio.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-Por licencia para la utilización de equipamiento urbano o la vía pública para colocar o adherir anuncios publicitarios o de propaganda de cualquier tipo, que se dé a conocer mediante carteles, pendones y demás medios gráficos, se pagará .4 cuotas por metro cuadrado de exposición por día.
+Por licencia para la utilización de equipamiento urbano o la vía pública para colocar o adherir anuncios publicitarios o de propaganda de cualquier tipo, que se dé a conocer mediante carteles, pendones y demás medios gráficos, se pagará 0.4 cuotas por metro cuadrado de exposición por día. El Ayuntamiento, podrá otorgar una bonificación de hasta un 100% en el monto de este derecho, siempre que se trate de instituciones de beneficencia pública o privada, dependencias y organismos federales, estatales o municipales, que destinen el medio de difusión de que se trate, a la promoción de actividades que sean propias de su objeto.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+Están exentos del pago, a que se refiere el párrafo anterior, los partidos políticos, siempre que destinen el medio de difusión de que se trate, a la promoción de actividades que sean propias de su objeto.
 
 (REUBICADO, P.O. 31 DE DICIEMBRE DE 1986)
 
 ### CAPITULO IX. POR LIMPIEZA DE LOTES BALDIOS
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 65.
 
-Los propietarios de predios baldíos ubicados dentro del perímetro del área urbana de una ciudad, villa o congregación, deberán mantenerlos limpios, desmontados y deshierbados, cuando la altura de la hierba rebase 30 centímetros, debiendo informar a la autoridad de los trabajos realizados. De no ser así, el municipio podrá efectuar el servicio de limpieza, debiendo el propietario cubrir el costo que represente al municipio la prestación de este servicio, conforme a la siguiente tarifa por metro cuadrado:
+Los propietarios de predios baldíos ubicados dentro del perímetro del área urbana de una ciudad, villa o congregación, deberán efectuar el desmonte, desherbe o limpieza de su inmueble, retirando la rama, basura o escombro, dos veces al año, la primera en el período comprendido en los meses de Noviembre, Diciembre y Enero; la segunda en el periodo que comprende los meses de Mayo, Junio y Julio.
 
-a) Predios con superficie hasta 1,000 metros cuadrados .122 cuotas
+De no cumplirse con lo dispuesto en el párrafo anterior, el Municipio podrá efectuar el servicio de desmonte, desherbe o limpieza del predio baldío, según sea el caso; circunstancias en las cuales el propietario estará obligado a pagar al Municipio la prestación del servicio. Así mismo la autoridad municipal competente le impondrá una multa de uno a tres tantos de los derechos que le correspondería pagar, dependiendo de la reincidencia.
 
-b) Por el excedente de 1,000 metros cuadrados, por cada metro cuadrado excedente .110 cuotas
+El pago de la multa que se impusiere al infractor no lo exime de su obligación a que se refiere el primer párrafo de este artículo
+
+Cuando el Municipio efectúe los servicios a los que se refiere el párrafo anterior, se causarán los derechos conforme a la siguiente tarifa por metro cuadrado:
+
+a) Predios con superficie hasta 1,000 metros cuadrados 0.150 cuotas
+
+b) Por el excedente de 1,000 metros cuadrados, por cada metro cuadrado excedente 0.140 cuotas
 
 Para los efectos de este artículo deberá entenderse por:
 
-Monte.- Cuando existan arbustos de tallo leñoso, cuyo diámetro sea inferior a 5 centímetros.
+Desmonte.- Es la acción de cortar y retirar del predio baldío aquellos arbustos de tallo leñoso, cuyo diámetro sea inferior a 5 centimetros.
 
-Hierba.- Plantas de cualquier tipo con tallo herbáceo.
+Desherbe.- Es la acción de cortar y retirar del predio baldío aquellas plantas de tallo herbáceo que se encuentren en el mismo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+Reincidencia.- Se considera que se presenta la reincidencia cuando no se cumpla en más de una ocasión con la obligación que establece el primer párrafo de este artículo, habiéndose requerido previamente por el Municipio.
 
-Se entenderá que un lote baldío requiere limpieza, cuando el monte o hierba sobrepase una altura de 30 cm. o cuando exista basura, escombro, animales muertos, vehículos u objetos abandonados, en caso de que en el predio en cuestión se dé uno o más de estos supuestos, se aplicará al propietario una sanción que podrá ser de 20 a 50 cuotas, dependiendo de la gravedad de la infracción, reincidencia y grado de daño ambiental generado.
+El propietario podrá solicitar al Municipio el servicio de recolección de basura producto de la limpieza de su predio, siendo el costo de este servicio la cantidad de 1.2 cuotas por metro cúbico o fracción de materia recolectada.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ### CAPITULO X. POR LIMPIA Y RECOLECCION DE DESECHOS INDUSTRIALES Y COMERCIALES
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 65 Bis.
 
-Por el servicio de limpia y recolección de desechos industriales y comerciales que preste el Municipio, se cobrará por cada inmueble ubicado en el Municipio, por mes:
+Por el servicio de limpia y recolección de desechos industriales y comerciales, que preste el Municipio, se cobrará por cada inmueble ubicado en el Municipio, por mes:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-a) Inmuebles que en promedio generen hasta 5 kilogramos diarios de basura 1 cuota
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-b) Inmuebles que en promedio generen más de 5 kilogramos y hasta 10 kilogramos diarios de basura 2 cuotas
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-c) Inmuebles que en promedio generen más de 10 kilogramos y hasta 25 kilogramos diarios de basura 3 cuotas
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-d) Inmuebles que en promedio generen más de 25 kilogramos y hasta 50 kilogramos diarios de basura 6 cuotas
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-e) Inmuebles que en promedio generen más de 50 kilogramos y hasta 100 kilogramos diarios de basura 13 cuotas
+a) Inmuebles que en promedio generen hasta 5 kilogramos diarios de basura 0.5 cuotas
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-f) Inmuebles que en promedio generen más de 100 kilogramos y hasta 200 kilogramos diarios de basura 25 cuotas
+b) Inmuebles que en promedio generen más de 5 kilogramos y hasta 10 kilogramos diarios de basura 2 cuotas
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+c) Inmuebles que en promedio generen mas de 10 kilogramos y hasta 25 kilogramos diarios de basura 4 cuotas
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+d) Inmuebles que en promedio generen más de 25 kilogramos y hasta 50 kilogramos diarios de basura 10 cuotas
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+e) Inmuebles que en promedio generen más de 50 kilogramos y hasta 100 kilogramos diarios de basura 20 cuotas
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+f) Inmuebles que en promedio generen más de 100 kilogramos y hasta 200 kilogramos diarios de basura 40 cuotas
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 g) Inmuebles que en promedio generen más de 200 kilogramos de basura o el equivalente a tres metros cúbicos diarios, el cobro será fijado de común acuerdo entre el municipio y el particular, en función al costo que represente la prestación del servicio.
 
-Si el servicio se presta solamente hasta tres veces por semana, se pagará el 50% de la cuota.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-Estarán exentos del pago de esta contribución en los casos de casas-habitación, de inmuebles que no cuenten con edificaciones permanentes, así como cuando el particular haya contratado este servicio con algún organismo público descentralizado o con un particular autorizado por el Municipio para la prestación de este servicio.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+Estarán exentos del pago de esta contribución en los casos de casas-habitación, cuando en ellas no se realice algún acto de comercio, así como cuando el particular haya contratado este servicio con algún organismo público descentralizado o con un particular autorizado por el Municipio para la prestación de este servicio.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 Las personas físicas o morales obligadas al pago de esta contribución, al inscribirse en la Tesorería Municipal, declararán el volumen promedio diario de basura que generen, pudiendo en su caso solicitar la modificación de la cuota que cubran, debido a un aumento o disminución en el promedio diario de basura que generen. En este caso, la Tesorería Municipal previa comprobación y verificación, modificará la cuota a cargo del particular, con efectos a partir del mes siguiente a aquél en que esto ocurra.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1994)</small>
 
 Este derecho se pagará por mes, dentro de los primeros 15 días naturales del mismo.
 
@@ -2735,23 +2747,25 @@ Otras ocupaciones de la vía pública, se pagarán .081 cuotas diarias por metro
 
 II.- Por ocupar la vía pública, los propietarios de sitios de automóviles, de camiones y camionetas de carga o de pasajeros destinados al servicio público, pagarán 2 cuotas por unidad trimestralmente.
 
-III.- Por ocupar la vía pública con cajones para estacionamiento de vehículos, en la extensión que señale el Departamento de Tránsito de acuerdo con su Reglamento, se pagará una cuota anual en la forma siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+III.- Por ocupar la vía pública con cajones para estacionamiento de vehículos, en la extensión que señale el departamento de tránsito, de acuerdo con su reglamento, se pagará una tarifa anual en la forma siguiente:
 
-a) Las empresas comerciales 3 cuotas por metro cuadrado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+a) Las empresas comerciales 5 cuotas por metro cuadrado.
 
-b) Los particulares 2.5 cuotas por metro cuadrado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+b) Los particulares 1.5 cuotas por metro cuadrado.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 Se exceptúan de lo anterior, los lugares en donde se encuentren instalados parquímetros, en cuyo caso se pagará una cuota adicional por metro cuadrado.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-IV.- Por estacionamientos de vehículos en la vía pública, en aquellos lugares donde existen instalados parquímetros, por cada hora o fracción, $2.00.
+IV.- Por estacionamientos de vehículos en la vía pública, en aquellos lugares donde existen instalados parquímetros, por cada hora o fracción, $2.50.
 
 > <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
@@ -2761,9 +2775,25 @@ V.- Por ocupar la vía pública los organismos descentralizados del gobierno fed
 
 VI.- No especificados.
 
-## TITULO CUARTO. PRODUCTOS
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-## TITULO QUINTO. APROVECHAMIENTOS
+## TITULO CUARTO
+
+CONTRIBUCIONES POR NUEVOS FRACCIONAMIENTOS, EDIFICACIONES, RELOTIFICACIONES Y SUBDIVISIONES PREVISTAS EN LA LEY DE ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 65 Bis 2.
+
+Los fraccionadores, en la autorización de nuevos fraccionamientos, cederán suelo al Municipio para destinos, en los mismos términos a que se refiere la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado, en los términos de los artículos 151, 156, 162, 163 y 165, según el tipo de fraccionamiento. En los conjuntos urbanos o desarrollos sujetos al régimen de propiedad en condominio, los desarrolladores cederán suelo al Municipio en los términos de lo dispuesto por el artículo 185 de la citada Ley.
+
+Las construcciones para nuevas edificaciones en terrenos no comprendidos en fraccionamientos autorizados, deberán ceder la superficie o pagar al Municipio, en los términos a que se refiere el artículo 149 de la misma Ley.
+
+Los fraccionamientos funerarios o cementerios cederán la superficie o pagarán al municipio en los términos a que se refiere el artículo 166 de la Ley de referencia.
+
+Las relotificaciones o subdivisiones, en su caso deberán complementar proporcionalmente las áreas para equipamientos y fines públicos, o pagarlas al Municipio en los términos a que se refiere el artículo 168 de la citada Ley.
+
+## TITULO QUINTO. PRODUCTOS
 
 ### CAPITULO UNICO
 
@@ -2793,7 +2823,7 @@ VI.- Venta de impresos, formatos y papel especial.
 
 VII.- No especificados.
 
-## TITULO SEXTO. DISPOSICIONES GENERALES
+## TITULO SEXTO. APROVECHAMIENTOS
 
 ### CAPITULO UNICO
 
@@ -2828,6 +2858,8 @@ V.- No especificados.
 Formarán parte de los ingresos municipales las participaciones que les concedan las leyes fiscales de la Federación y del Estado.
 
 Las participaciones a los Municipios en los impuestos y en las participaciones del Estado, serán y se recaudarán en la forma que dispongan las Leyes de la materia.
+
+## TITULO SEPTIMO. DISPOSICIONES GENERALES
 
 ### CAPITULO UNICO
 
@@ -2979,17 +3011,11 @@ Para la aplicación de los derechos previstos en los artículos 58 y 59 de esta 
 
 Si algún expendio de bebidas alcohólicas no encuadra específicamente en la clasificación contenida en dichos artículos, se equiparará a la que por sus características le sea más semejante.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 92.
 
-Queda facultado el Presidente Municipal para disminuir o aún condonar los recargos y las sanciones que deban imponerse, así como el monto de la actualización que deba aplicarse conforme al Código Fiscal del Estado, debiendo sujetarse a las siguientes reglas:
-
-I.- En los Municipios de Apodaca, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y García, los Ayuntamientos expedirán las bases generales para el ejercicio de esta facultad, debiendo establecer en las mismas el monto en cuotas a partir del cual se requerirá de la ratificación del Ayuntamiento para otorgar la disminución o condonación. El Ayuntamiento vigilará el estricto cumplimiento de las bases expedidas.
-
-II.- En los Municipios no enunciados en la fracción anterior, cada disminución o condonación otorgada se someterá a la ratificación del Ayuntamiento, siempre que su monto sea superior a 45 cuotas.
-
-III.- Las operaciones derivadas del ejercicio de esta facultad deberán ser registradas en las cuentas municipales, e informadas trimestralmente al Ayuntamiento mediante reporte escrito que deberá ser debidamente fundado y motivado.
+Queda facultado el Presidente Municipal para disminuir o aún condonar los recargos y las sanciones que deban imponerse, así como el monto de la actualización que deba aplicarse conforme al Código Fiscal del Estado, debiendo sujetarse a las bases que al efecto emita el Ayuntamiento en esta materia.
 
 ## TRANSITORIOS
 
@@ -3047,9 +3073,11 @@ Tratándose de artículos de propaganda comercial, se pagará el 10% sobre el va
 
 El impuesto se cubrirá en el Municipio en cuya circunscripción territorial se vendan los boletos para la realización de las actividades gravadas o se expidan los boletos a título gratuito o condicionados al cumplimiento de algún requisito, entre otros, a la contratación de un servicio, a la adquisición de determinado producto o hasta determinada cantidad de compra, de pago o de depósito.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-b) De dos a siete cuotas, en el caso del inciso b), del Artículo 33 de esta Ley.
+b) De dos a siete cuotas, por día, en el caso del inciso b), del Artículo 33 de esta Ley.
+
+Se exceptúan de pago aquellas actividades, objeto de esta contribución, que sean administradas directamente por el Municipio.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3390,3 +3418,13 @@ DECRETO NUMERO 252.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día 1o. de Enero del año 2000.
+
+P.O. 29 DE DICIEMBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+Los contribuyentes que hayan realizado el pago de los derechos por la autorización del proyecto urbanístico, con base en el artículo 276 bis, fracción V, inciso b) de la Ley de Hacienda del Estado vigente hasta el 31 de diciembre de 1999, tratándose de servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas del Estado de Nuevo León, en caso de que la autorización del proyecto ejecutivo de fraccionamiento se realice con posterioridad a esa fecha, efectuarán el pago conforme al artículo 52 bis, fracción V, inciso c), de la Ley de Hacienda para los Municipios del Estado vigente hasta el 31 de diciembre de 1999.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el 1o. de Enero del año 2001.
