@@ -4,7 +4,7 @@ identifier: "VER-codigo-electoral-para-el-estado-de-veracruz-de-ignacio-de-18942
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-19"
-last_updated: "2000-10-19"
+last_updated: "2002-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18942&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO ELECTORAL PARA EL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE OCTUBRE DE 2002.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 19 de octubre de 2000.
 
@@ -161,9 +161,11 @@ La sección electoral, es la demarcación territorial en que se dividen los dist
 
 ### CAPÍTULO II. DEL PODER LEGISLATIVO
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE OCTUBRE DE 2002)</small>
+
 ###### Artículo 10.
 
-El Congreso del Estado se renovará cada tres años, debiendo celebrarse la elección el primer domingo de septiembre del año en que concluya el periodo constitucional respectivo.
+El Congreso del Estado se renovará cada tres años, debiendo celebrarse la elección el primer domingo de agosto del año en que concluya el periodo constitucional respectivo.
 
 El Congreso del Estado se integra por treinta Diputados electos por el principio de mayoría relativa, en los distritos electorales uninominales; y por veinte Diputados electos por el principio de representación proporcional, conforme a las listas que presenten los partidos políticos en la circunscripción plurinominal que se constituya en el territorio del Estado.
 
@@ -179,7 +181,9 @@ Por cada Diputado propietario se elegirá a un suplente. Tratándose de Diputado
 
 El ejercicio del Poder Ejecutivo se deposita en un solo individuo, denominado: Gobernador del Estado, electo por mayoría relativa y voto directo en toda la Entidad.
 
-La elección de Gobernador del Estado se realizará cada seis años, el primer domingo de septiembre del año en que concluya el periodo constitucional correspondiente.
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+La elección de Gobernador del Estado se realizará cada seis años, el primer domingo de agosto del año en que concluya el período constitucional correspondiente. El ciudadano que haya desempeñado el cargo de Gobernador del Estado, electo popularmente, o con el carácter de interino, provisional o sustituto, en ningún caso y por ningún motivo podrá volver a desempeñar ese puesto.
 
 ### CAPÍTULO IV. DE LOS AYUNTAMIENTOS
 
@@ -187,7 +191,9 @@ La elección de Gobernador del Estado se realizará cada seis años, el primer d
 
 Cada municipio será gobernado por un Ayuntamiento de elección popular, libre, directa y secreta, integrado por un Presidente, un Síndico y los Regidores que determine el Congreso.
 
-La elección de los Ediles se realizará cada tres años, debiendo celebrarse el primer domingo de septiembre del año en que concluya el periodo constitucional respectivo.
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+La elección de los Ediles se realizará cada tres años, debiendo celebrarse el último domingo de octubre del año en que concluya el período constitucional respectivo.
 
 En la elección de los Ediles, el partido político que alcance el mayor número de votos obtendrá la Presidencia y la Sindicatura. Las regidurías serán asignadas a cada partido político, incluyendo a aquél que obtuvo la mayor votación, de acuerdo al principio de representación proporcional en los términos que señala el artículo 200 de este Código.
 
@@ -1583,9 +1589,13 @@ X. Registrar los nombramientos de los representantes de los partidos políticos 
 
 XI. Registrar dentro del plazo máximo de cuarenta y ocho horas, a partir de su presentación, y en todo caso diez días antes del señalado para la elección, los nombramientos de los representantes a que se refiere la fracción anterior;
 
-XII. Recibir de la Secretaria Ejecutiva del Instituto Electoral Veracruzano las listas nominales de electores, boletas y formatos aprobados, para los comicios de Gobernador, Diputados e integrantes de Ayuntamientos;
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2002)</small>
 
-XIII. En coordinación con los Consejos Municipales del Instituto, entregar a los Presidentes o, en su caso, a los Secretarios de las Mesas Directivas de Casilla, las listas nominales de electores, boletas, formatos aprobados y útiles necesarios, para el cumplimiento de sus funciones;
+XII. Recibir de la Secretaria Ejecutiva del Instituto Electoral Veracruzano las listas nominales de electores, boletas y formatos aprobados, para los comicios de Gobernador y Diputados;
+
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+XIII. Entregar a los Presidentes o, en su caso, a los Secretarios de las Mesas Directivas de Casilla, las listas nominales de electores, boletas, formatos aprobados y útiles necesarios, para el cumplimiento de sus funciones;
 
 XIV. Recibir los paquetes de casilla, con su documentación adjunta, relativos a las elecciones de Gobernador y Diputados;
 
@@ -1611,9 +1621,11 @@ XXIV. Las demás que expresamente les confiera este Código.
 
 Los Consejos Distritales del Instituto tomarán sus resoluciones por mayoría de votos y, en caso de empate, su Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE OCTUBRE DE 2002)</small>
+
 ###### Artículo 106.
 
-A más tardar el día treinta de abril del año de la elección ordinaria, los Consejos Distritales deberán ser instalados e iniciarán sus sesiones y actividades regulares. A partir de esta fecha y hasta el término de los comicios sesionarán por lo menos una vez al mes.
+A más tardar el día treinta y uno de marzo del año de la elección ordinaria, los Consejos Distritales deberán ser instalados e iniciarán sus sesiones y actividades regulares. A partir de esta fecha y hasta el término de los comicios sesionarán por lo menos una vez al mes.
 
 Para que los Consejos Distritales puedan sesionar, será necesario que estén presentes la mayoría de sus integrantes, entre los que deberán estar cuando menos tres de los Consejeros Electorales, incluyendo su Presidente. En caso de no reunirse esta mayoría en primera convocatoria, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los Consejeros y Representantes que asistan.
 
@@ -1681,7 +1693,9 @@ III. Intervenir, conforme a este Código, dentro de sus respectivas municipalida
 
 IV. Registrar los nombramientos de representantes de los partidos políticos, que integren el propio Consejo;
 
-V. Colaborar con el Consejo Distrital respectivo en la publicación de los documentos en los que se indiquen el número, ubicación e integración de las Mesas Directivas de Casilla conforme al procedimiento señalado en el presente Código;
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+V. Publicar los documentos en los que se indiquen el número, ubicación e integración de las Mesas Directivas de Casilla conforme al procedimiento señalado en el presente Código;
 
 VI. Registrar las postulaciones para integrantes de Ayuntamientos;
 
@@ -1689,11 +1703,17 @@ VII. Proponer al Secretario Ejecutivo del Instituto Electoral Veracruzano, el no
 
 VIII. Tramitar, en los términos de este Código, los recursos que se presenten;
 
-IX. Coadyuvar con el Consejo Distrital respectivo, en la notificación y capacitación a los ciudadanos que fungirán como funcionarios de casilla, conforme a lo previsto en este Código, así como en la vigilancia de la instalación de las Mesas Directivas de Casilla que correspondan al municipio en los términos señalados en el presente ordenamiento;
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2002)</small>
 
-X. Recibir del Consejo Distrital respectivo, las listas nominales de electores, las boletas y formatos aprobados para la celebración de las elecciones en el municipio correspondiente;
+IX. Insacular, notificar y capacitar a los ciudadanos que fungirán como funcionarios de casilla, conforme a lo previsto en este Código, así como en la vigilancia de la instalación de las Mesas Directivas de Casilla que correspondan al municipio en los términos señalados en el presente ordenamiento;
 
-XI. En coordinación con los Consejos Distritales, entregar a los Presidentes de las Mesas Directivas de Casilla o, en su caso, a los Secretarios de las mismas, las listas nominales de electores, boletas y formatos aprobados y útiles necesarios para el cumplimiento de sus funciones;
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+X. Recibir de la Secretaría Ejecutiva del Instituto Electoral Veracruzano, las listas nominales de electores, las boletas y formatos aprobados para la celebración de las elecciones en el municipio correspondiente;
+
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+XI. Entregar a los Presidentes de las Mesas Directivas de Casilla o, en su caso, a los Secretarios de las mismas, las listas nominales de electores, boletas y formatos aprobados y útiles necesarios para el cumplimiento de sus funciones;
 
 XII. Recibir los paquetes de casilla, con su documentación adjunta, relativos a la elección de integrantes de Ayuntamientos;
 
@@ -1719,9 +1739,11 @@ XXII. Las demás que expresamente les confiera este Código.
 
 Los Consejos Municipales del Instituto tomarán sus resoluciones por mayoría de votos y, en caso de empate, su Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE OCTUBRE DE 2002)</small>
+
 ###### Artículo 110.
 
-A más tardar el día treinta de mayo del año de la elección ordinaria, los Consejos Municipales del Instituto deberán ser instalados e iniciarán sus funciones y actividades regulares. A partir de esta fecha y hasta el término de los comicios sesionarán por lo menos una vez al mes.
+A más tardar el día treinta de junio del año de la elección ordinaria, los Consejos Municipales del Instituto deberán ser instalados e iniciarán sus funciones y actividades regulares. A partir de esta fecha y hasta el término de los comicios sesionarán por lo menos una vez al mes.
 
 Para que los Consejos Municipales puedan sesionar será necesario que estén presentes la mayoría de sus integrantes, entre los que deberán estar cuando menos tres de los Consejeros Electorales, incluyendo su Presidente. En caso de no reunirse esta mayoría en primera convocatoria, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los Consejeros y Representantes que asistan.
 
@@ -1897,21 +1919,33 @@ I. La integración e instalación en el año de la elección de los siguientes o
 
 a) El Consejo General del Instituto Electoral Veracruzano, la primera decena del mes de enero para la elección de Gobernador, Diputados y Ediles;
 
-b) Los Consejos Distritales del Instituto, a más tardar el día treinta del mes de abril, conforme al siguiente procedimiento:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+b) Los Consejos Distritales del Instituto, a más tardar el día treinta y uno del mes de marzo, conforme al siguiente procedimiento:
 
 1. El Consejo General del Instituto, durante la segunda semana del mes de enero, aprobará y publicará la convocatoria pública para la designación de los Consejeros Electorales de los Consejos Distritales;
 
-2. Del primero de febrero al quince de marzo, conforme a los criterios aprobados por el Consejo General en lo relativo a la recepción y evaluación de las solicitudes que presenten los aspirantes, la Secretaría Ejecutiva, con base en la lista de los ciudadanos que cubran los requisitos señalados en la convocatoria, propondrá a dicho Consejo los nombramientos correspondientes;
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2002)</small>
 
-3. Del dieciséis de marzo al quince de abril, el Consejo General designará a quienes fungirán como Consejeros Electorales de los Consejos Distritales;
+2. Del quince de febrero al quince de marzo, conforme a los criterios aprobados por el Consejo General en lo relativo a la recepción y evaluación de las solicitudes que presenten los aspirantes, la Secretaría Ejecutiva, con base en la lista de los ciudadanos que cubran los requisitos señalados en la convocatoria, propondrá a dicho Consejo los nombramientos correspondientes;
 
-c) Los Consejos Municipales del Instituto, a más tardar el día treinta del mes de mayo;
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+3. Del dieciséis al treinta de marzo, el Consejo General designará a quienes fungirán como Consejeros Electorales de los Consejos Distritales;
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+c) Los Consejos Municipales del Instituto, a más tardar el día treinta del mes de junio;
 
 1. La convocatoria que emita el Consejo General en términos del inciso b, numeral 1, anterior, deberá comprender también los lineamientos para la designación de los Consejeros Electorales de los Consejos Municipales;
 
-2. Del primero de febrero al quince de abril, conforme a los criterios aprobados por el Consejo General en lo relativo a la recepción y evaluación de las solicitudes que presenten los aspirantes, la Secretaría Ejecutiva, con base en la lista de los ciudadanos que cubran los requisitos señalados en la convocatoria, propondrá a dicho Consejo los nombramientos correspondientes;
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2002)</small>
 
-3. Del quince de abril al quince de mayo, el Consejo General designará a quienes fungirán como Consejeros Electorales de los Consejos Municipales.
+2. Del quince de abril al quince de mayo, conforme a los criterios aprobados por el Consejo General en lo relativo a la recepción y evaluación de las solicitudes que presenten los aspirantes, la Secretaría Ejecutiva, con base en la lista de los ciudadanos que cubran los requisitos señalados en la convocatoria, propondrá a dicho Consejo los nombramientos correspondientes;
+
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+3. Del primero al quince de junio, el Consejo General designará a quienes fungirán como Consejeros Electorales de los Consejos Municipales;
 
 II. La exhibición y entrega a los organismos electorales y partidos políticos de las listas de electores por sección, en la fecha señalada para los efectos de las observaciones que, en su caso, hagan los partidos políticos, agrupaciones, asociaciones y ciudadanos en general.
 
@@ -2003,17 +2037,25 @@ X. En las postulaciones de candidatos a Diputados e integrantes de Ayuntamientos
 
 El registro de postulaciones a cargos de elección popular en el Estado quedará sujeto a los siguientes plazos:
 
-I. Para Gobernador del Estado, queda abierto en el Consejo General del Instituto Electoral Veracruzano del día dos al dieciséis de junio, inclusive, del año de la elección;
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2002)</small>
 
-II. El registro de postulaciones de fórmulas de candidatos para Diputados que serán electos según el principio de mayoría relativa, queda abierto en cada Consejo Distrital del Instituto del día veinte al día treinta de junio, inclusive, del año de la elección;
+I. Para Gobernador del Estado, queda abierto en el Consejo General del Instituto Electoral Veracruzano del día uno al diez de mayo, inclusive, del año de la elección;
 
-III. El registro de las listas de candidatos a Diputados que serán electos según el principio de representación proporcional, queda abierto en el Consejo General del Instituto Electoral Veracruzano del día primero al día diez de julio, inclusive, del año de la elección. Los partidos políticos que las presenten deberán comprobar previamente, ante el propio Consejo General, lo siguiente:
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+II. El registro de postulaciones de fórmulas de candidatos para Diputados que serán electos según el principio de mayoría relativa, queda abierto en cada Consejo Distrital del Instituto del día once al veinte de mayo, inclusive, del año de la elección;
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+III. El registro de las listas de candidatos a Diputados que serán electos según el principio de representación proporcional, queda abierto en el Consejo General del Instituto Electoral Veracruzano del día veintiuno al treinta de mayo, inclusive, del año de la elección. Los partidos políticos que las presenten deberán comprobar previamente, ante el propio Consejo General, lo siguiente:
 
 a) Que los partidos políticos postulantes han obtenido el registro de sus candidatos a Diputados por mayoría relativa en por lo menos veinte de los treinta distritos electorales uninominales; y
 
 b) Que se presentan listas de candidatos completas para la circunscripción plurinominal; y
 
-IV. El registro de postulaciones de fórmulas de candidatos para integrar los Ayuntamientos queda abierto en cada Consejo Municipal del día ocho al día dieciocho del mes de julio, inclusive, del año de la elección.
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+IV. El registro de postulaciones de fórmulas de candidatos para integrar los Ayuntamientos queda abierto en cada Consejo Municipal del día uno al diez de septiembre, inclusive, del año de la elección.
 
 La fórmula de candidatos para integrar un Ayuntamiento debe comprender a todos sus miembros, propietarios y suplentes, conforme a las disposiciones relativas de la Ley Orgánica del Municipio Libre.
 
@@ -2199,15 +2241,21 @@ V. Las demás que expresamente les confiera este Código.
 
 El procedimiento para integrar las Mesas Directivas de Casilla será el siguiente:
 
-I. El Consejo General, en el mes de abril del año electoral de que se trate, sorteará un mes del calendario que, junto con el que siga en su orden, serán tomados como base para la insaculación de los ciudadanos que integrarán las Mesas Directivas de Casilla;
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+I. El Consejo General, para la elección de Diputados y Gobernador a más tardar el treinta de marzo y para la elección de Ediles a más tardar el 15 de julio del año electoral, sorteará un mes del calendario que, junto con el que siga en su orden, serán tomados como base para la insaculación de los ciudadanos que integrarán las Mesas Directivas de Casilla;
 
 II. Conforme al resultado obtenido en el sorteo a que se refiere la fracción anterior, los Consejos Distritales del Instituto, diez días después de su instalación, procederán a insacular, de la lista nominal de electores, a cuando menos un diez por ciento de ciudadanos por cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor de cincuenta;
 
 III. A los ciudadanos sorteados, las vocalías de capacitación electoral de los Consejos respectivos les impartirán el curso correspondiente, que deberá iniciarse a más tardar quince días después de la insaculación mencionada en la fracción anterior.
 
-IV. Los Consejos Distritales harán una evaluación objetiva para seleccionar a los ciudadanos que resulten aptos en términos de este Código, prefiriendo a los de mayor escolaridad. El Consejo General, en el mes de mayo del año de las elecciones correspondientes, sorteará las veintinueve letras que comprenden el alfabeto a fin de obtener la letra a partir de la cual, con base en el apellido paterno, se seleccionará a los ciudadanos que integrarán las Mesas Directivas de Casilla;
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2002)</small>
 
-V. A más tardar el día 20 de julio del año de la elección, los Consejos Distritales insacularán, de entre los ciudadanos seleccionados conforme a la fracción anterior, a quienes integrarán las Mesas directivas de Casilla y determinarán según su escolaridad las funciones que cada uno desempeñará; y
+IV. Los Consejos Distritales o Municipales según sea la elección, harán una evaluación objetiva para seleccionar a los ciudadanos que resulten aptos en términos de este Código, prefiriendo a los de mayor escolaridad. El Consejo General, dentro del período comprendido del uno al treinta de marzo para el caso de las elecciones de Gobernador y Diputados y del quince al treinta y uno de agosto para la elección de Ediles, sorteará las veintinueve letras que comprenden el alfabeto a fin de obtener la letra a partir de la cual, con base en el apellido paterno, se seleccionará a los ciudadanos que integrarán las Mesas Directivas de Casilla;
+
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+V. Para el caso de las elecciones de Gobernador y Diputados a más tardar el quince de mayo y para la elección de Ediles a más tardar el veinte de agosto del año de la elección, los Consejos Distritales insacularán, de entre los ciudadanos seleccionados conforme a la fracción anterior, a quienes integrarán las Mesas directivas de Casilla y determinarán según su escolaridad las funciones que cada uno desempeñará; y
 
 VI. La capacitación electoral que se imparta a los funcionarios de casilla deberá concluir un día antes de la fecha de la elección correspondiente.
 
@@ -2237,31 +2285,45 @@ Para la ubicación de las casillas se preferirán, en caso de reunir los requisi
 
 El procedimiento para determinar la ubicación de las casillas será el siguiente:
 
-I. Los Consejos Distritales recorrerán las secciones de los correspondientes distritos con el propósito de localizar lugares que cumplan con los requisitos fijados por el artículo anterior;
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2002)</small>
 
-II. Con base en el recorrido señalado en la fracción anterior, los Consejos Distritales aprobarán la lista en que se contenga la ubicación de las casillas;
+I. Los Consejos Distritales o Municipales recorrerán las secciones de los correspondientes distritos con el propósito de localizar lugares que cumplan con los requisitos fijados por el artículo anterior;
 
-III. El Presidente del Consejo Distrital ordenará la publicación de la lista de ubicación de casillas aprobadas.
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+II. Con base en el recorrido señalado en la fracción anterior, el órgano desconcentrado correspondiente aprobará la lista en que se contenga la ubicación de las casillas;
+
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+III. El Presidente del Consejo Distrital o Municipal, según la elección de que se trate, ordenará la publicación de la lista de ubicación de casillas aprobadas.
 
 El Consejo General acordará los plazos a que deberán sujetarse estas actividades.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE OCTUBRE DE 2002)</small>
+
 ###### Artículo 152.
 
-A más tardar el veinticinco de julio del año de la elección de que se trate, los Consejos Distritales, con el apoyo de los Consejos Municipales, publicarán en cada municipio, numeradas progresivamente, la relación de las casillas electorales que se instalarán, su ubicación y el nombre de sus integrantes.
+A más tardar el veinte de junio del año de la elección de Diputados y Gobernador y a más tardar el veinticinco de septiembre del año de la elección de Ediles, los Consejos respectivos, publicarán en cada municipio, numeradas progresivamente, la relación de las casillas electorales que se instalarán, su ubicación y el nombre de sus integrantes.
 
 La publicación se hará fijando la lista de la ubicación de las casillas y los nombres de sus integrantes en las oficinas de los Consejos y en los edificios y lugares públicos más concurridos.
 
-El Secretario del Consejo Distrital, entregará una copia de las listas a cada uno de los representantes de los partidos políticos, los cuales extenderán el recibo correspondiente.
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+El Secretario del Consejo respectivo, entregará una copia de las listas a cada uno de los representantes de los partidos políticos, los cuales extenderán el recibo correspondiente.
+
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2002)</small>
 
 ###### Artículo 153.
 
-Los partidos políticos, candidatos y ciudadanos, dentro de los cinco días naturales siguientes a la publicación de la relación de casillas, podrán presentar, en su caso, objeciones por escrito ante el Consejo Distrital correspondiente, respecto al lugar señalado para la ubicación de las casillas o a los nombramientos de los miembros de las mesas directivas.
+Los partidos políticos, candidatos y ciudadanos, dentro de los cinco días naturales siguientes a la publicación de la relación de casillas, podrán presentar, en su caso, objeciones por escrito ante el órgano electoral correspondiente, respecto al lugar señalado para la ubicación de las casillas o a los nombramientos de los miembros de las mesas directivas.
 
-El Consejo Distrital resolverá por escrito lo procedente en un término de cinco días naturales posteriores a la recepción del escrito de objeción. En el caso de las objeciones declaradas fundadas, hará los cambios de los lugares señalados o de los ciudadanos designados para integrar Mesas Directivas de Casilla.
+El Consejo Distrital o Municipal, según la elección de que se trate, resolverá por escrito lo procedente en un término de cinco días naturales posteriores a la recepción del escrito de objeción. En el caso de las objeciones declaradas fundadas, hará los cambios de los lugares señalados o de los ciudadanos designados para integrar Mesas Directivas de Casilla.
+
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2002)</small>
 
 ###### Artículo 154.
 
-La segunda publicación de las listas de las casillas, con su ubicación y los nombres de sus integrantes, considerando las modificaciones que hubieren procedido, se hará el día quince del mes de agosto del año de la elección de que se trate.
+La segunda publicación de las listas de las casillas, con su ubicación y los nombres de sus integrantes, considerando las modificaciones que hubieren procedido, se hará el día diez de julio del año de la elección de Diputados y Gobernador, y para el caso de la elección de ayuntamientos el diez de octubre del año de la elección de que se trate.
 
 ### CAPÍTULO III. DEL REGISTRO DE REPRESENTANTES
 
@@ -2277,9 +2339,11 @@ Los propios representantes acreditarán su personalidad, con sus nombramientos d
 
 Los partidos políticos se abstendrán de acreditar como representantes ante las Mesas Directivas de Casilla, centros de acopio o generales, a los ciudadanos cuyos nombres aparezcan en la segunda publicación de integrantes de funcionarios de casilla.
 
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2002)</small>
+
 ###### Artículo 156.
 
-Cuando por cualquier motivo no se efectúe en el Consejo Distrital el registro de nombramientos de representantes generales o ante Mesas Directivas de Casilla, el Consejo General del Instituto Electoral Veracruzano, a solicitud de los partidos políticos podrá hacer el registro supletoriamente, siempre que dicha solicitud se presente en los plazos establecidos por este Código.
+Cuando por cualquier motivo no se efectúe en el órgano desconcentrado respectivo, el registro de nombramientos de representantes generales o ante Mesas Directivas de Casilla, el Consejo General del Instituto Electoral Veracruzano, a solicitud de los partidos políticos podrá hacer el registro supletoriamente, siempre que dicha solicitud se presente en los plazos establecidos por este Código.
 
 ###### Artículo 157.
 
@@ -2357,17 +2421,17 @@ En caso de cancelación o sustitución del registro de uno o más candidatos, la
 
 Si no se pudiere efectuar su corrección o sustitución por razones técnicas, o las boletas ya hubiesen sido repartidas a las casillas, los votos contarán para los partidos políticos y los candidatos que estuviesen legalmente registrados ante los órganos electorales respectivos al momento de la elección.
 
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2002)</small>
+
 ###### Artículo 161.
 
-Las boletas electorales deberán estar en poder de los Consejos Distritales veinte días antes de la jornada electoral.
+Las boletas electorales deberán estar en poder de los Consejos Distritales o Municipales, según la elección de que se trate, veinte días antes de la jornada electoral.
 
-El personal autorizado del Instituto Electoral Veracruzano transportará las boletas electorales en la fecha previamente establecida, y las entregará al Presidente del Consejo Distrital, quien estará acompañado de los demás integrantes del Consejo.
+El personal autorizado del Instituto Electoral Veracruzano transportará las boletas electorales en la fecha previamente establecida, y las entregará al Presidente del Consejo Distrital o Municipal que corresponda, quien estará acompañado de los demás integrantes del Consejo.
 
-El Secretario del Consejo Distrital levantará acta pormenorizada de la recepción de las boletas electorales, asentando en ella los datos relativos al número de boletas, características del embalaje que las contiene y los nombres y cargos de los funcionarios del Consejo, y representantes de los partidos políticos presentes.
+El Secretario del órgano desconcentrado correspondiente levantará acta pormenorizada de la recepción de las boletas electorales, asentando en ella los datos relativos al número de boletas, características del embalaje que las contiene y los nombres y cargos de los funcionarios del Consejo, y representantes de los partidos políticos presentes.
 
-Los Presidentes y Secretarios de los Consejos Distritales Electorales remitirán dentro de las veinticuatro horas siguientes a la recepción referida en el párrafo anterior a los Consejos Municipales Electorales, las boletas electorales correspondientes para su sellado. Para la recepción de este material, se llevará lo conducente en el párrafo tercero.
-
-El mismo día o a más tardar el siguiente, el Presidente del Consejo Municipal junto con los integrantes del mismo que estén presentes, procederán a contar y sellar las boletas.
+El mismo día o a más tardar el siguiente, el Presidente del Consejo correspondiente junto con los integrantes del mismo que estén presentes, procederán a contar y sellar las boletas.
 
 El sellado de las boletas, se realizará con la presencia de los representantes de los partidos políticos que decidan asistir.
 
@@ -2375,13 +2439,17 @@ El sellado de las boletas, se realizará con la presencia de los representantes 
 
 Las actas en que se asiente lo relativo a la instalación, cierre de votación, escrutinio y cómputo, formación y remisión del paquete electoral u otros actos del proceso electoral, serán impresas conforme al formato que apruebe el Consejo General del Instituto Electoral Veracruzano.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE OCTUBRE DE 2002)</small>
+
 ###### Artículo 163.
 
-La Dirección Ejecutiva de Organización Electoral del Instituto Electoral Veracruzano hará llegar oportunamente a los Consejos Distritales el material siguiente, que deberán entregar de uno a cinco días antes de la jornada electoral en coordinación con los Consejos Municipales respectivos, a cada Presidente de Mesa Directiva de Casilla o, en su caso, al Secretario de ésta:
+La Dirección Ejecutiva de Organización Electoral del Instituto Electoral Veracruzano hará llegar oportunamente a los Consejos Distritales o Municipales, según la elección de que se trate, el material siguiente, que deberán entregar de uno a cinco días antes de la jornada electoral, a cada Presidente de Mesa Directiva de Casilla o, en su caso, al Secretario de ésta:
 
 I. La lista nominal de electores que podrán votar en la casilla;
 
-II. La relación de los representantes de los partidos ante la Mesa Directiva de Casilla o generales registrados en el Consejo Distrital respectivo;
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+II. La relación de los representantes de los partidos ante la Mesa Directiva de Casilla o generales registrados en el Consejo Distrital o Municipal según sea el caso;
 
 III. Las boletas electorales para cada elección, en número igual al de los electores que figuren en la lista nominal de ciudadanos que podrán votar en la casilla, más el número de boletas que en su caso autorice expresamente el Consejo General del Instituto Electoral Veracruzano, considerando lo dispuesto en el artículo 170 de este Código.
 
@@ -2579,9 +2647,11 @@ III. Cuando no se pueda determinar el distintivo a que corresponde el cruzamient
 
 IV. Cuando el voto se emita en boleta electoral no autorizada por el Consejo General del Instituto Electoral Veracruzano.
 
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2002)</small>
+
 ###### Artículo 178.
 
-En el procedimiento de escrutinio y cómputo de las elecciones se seguirá el siguiente orden: elección de Gobernador, en su caso; elección de Diputados por mayoría relativa; elección de Diputados de representación proporcional; y elección de integrantes de Ayuntamientos.
+En el procedimiento de escrutinio y cómputo de las elecciones de Diputados y Gobernador se seguirá el siguiente orden: elección de Gobernador, en su caso; elección de Diputados por mayoría relativa; elección de Diputados de representación proporcional.
 
 ###### Artículo 179.
 
@@ -2629,7 +2699,9 @@ II. Dentro de las siguientes doce horas, cuando se trate de casillas ubicadas en
 
 III. Dentro de las siguientes veinticuatro horas, cuando se trate de casillas ubicadas en la zona rural.
 
-Los Consejos Distritales instalarán los centros de acopio necesarios para la recolección de la documentación de las casillas cuyo cómputo les corresponda, en los términos del presente Código. En dichos centros de acopio, los partidos políticos deberán acreditar un representante.
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2002)</small>
+
+Los Consejos Distritales o Municipales, según la elección de que se trate, instalarán los centros de acopio necesarios para la recolección de la documentación de las casillas cuyo cómputo les corresponda, en los términos del presente Código. En dichos centros de acopio, los partidos políticos deberán acreditar un representante.
 
 La demora en la entrega de los paquetes de casilla sólo se justificará cuando ocurra caso fortuito o de fuerza mayor.
 
@@ -3600,3 +3672,11 @@ JOSÉ DELFINO MARTÍNEZ JUÁREZ, DIPUTADO PRESIDENTE.- Rúbrica. GUILLERMO JERÓ
 Por tanto, en atención a lo dispuesto por el párrafo segundo del artículo 35 de la Constitución Política del Estado, y en cumplimiento del oficio número 2963, de los diputados presidente y secretario de la Quincuagésima Octava Legislatura del Honorable Congreso del Estado, mando se publique, y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los dieciocho días del mes de octubre del año dos mil.
 
 Atentamente Sufragio efectivo. No reelección, licenciado Miguel Alemán Velazco, Gobernador del estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 14 DE OCTUBRE DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este ordenamiento.
