@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-5-1996-del-tribunal-pleno-de-la-suprema-41041"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1996-11-26"
-last_updated: "1996-11-26"
+last_updated: "2003-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41041&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1996-11-18"
 
 ACUERDO NO. 5/1996 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DEL DIECIOCHO DE NOVIEMBRE DE MIL NOVECIENTOS NOVENTA Y SEIS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO NUMERO 5/2003 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DE VEINTICINCO DE MARZO DE DOS MIL TRES, RELATIVO A LAS REGLAS PARA LA ELABORACION, ENVIO Y PUBLICACION DE LAS TESIS QUE EMITEN LOS ORGANOS DEL PODER JUDICIAL DE LA FEDERACION, Y PARA LA VERIFICACION DE LA EXISTENCIA Y APLICABILIDAD DE LA JURISPRUDENCIA EMITIDA POR LA SUPREMA CORTE, PUBLICADO EN EL D.O.F. DE 8 DE ABRIL DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de noviembre de 1996.
 
@@ -582,3 +584,13 @@ SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en
 TERCERO.- Se derogan todas las disposiciones emitidas con anterioridad que se opongan a lo establecido en este acuerdo.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este acuerdo relativo a las reglas para la elaboración, envío y publicación de las tesis que emiten los órganos del Poder Judicial de la Federación, fue aprobado por el Tribunal Pleno en sesión privada de dieciocho de noviembre de mil novecientos noventa y seis, por unanimidad de nueve votos de los Ministros: presidente José Vicente Aguinaco Alemán, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juventino V. Castro y Castro, Juan Díaz Romero, Genaro David Góngora Pimentel, Guillermo I. Ortiz Mayagoitia, Olga María del Carmen Sánchez Cordero de García Villegas y Juan N. Silva Meza.- México, Distrito Federal, a dieciocho de noviembre de mil novecientos noventa y seis.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 8 DE ABRIL DE 2003.
+
+PRIMERO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Se abroga el Acuerdo Plenario Número 5/1996 y todas las disposiciones emitidas con anterioridad que se opongan a lo establecido en este acuerdo.
