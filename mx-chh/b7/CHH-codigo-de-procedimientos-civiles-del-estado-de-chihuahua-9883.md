@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1981-11-11"
+last_updated: "1985-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1985.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -3001,17 +3001,11 @@ El abogado o procurador podrá promover y continuar los recursos, aunque el pode
 
 811.- La denegada apelación sólo podrá interponerse por aquél a quien se negó la apelación, o por su representante legítimo o apoderado.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1985)</small>
 
-812.- La segunda instancia no puede abrirse sin que se interponga el recurso de apelación. Sin embargo serán revisables de oficio por el Tribunal de alzada:
+812.- La segunda instancia no puede abrirse sin que se interponga el recurso de apelación. Sin embargo, en los casos de sentencias recaídas en los juicios sobre rectificación de actas del estado civil, nulidad de matrimonio por las causas expresadas en los artículos 229, 230 y 236 a 239 del Código Civil, resoluciones que pongan fin al procedimiento a que aluden los artículos 2914, 2915 y 2916 del Código Civil, por las cuales el Juez declare que el poseedor se ha convertido en propietario en virtud de la prescripción y ordene que se inscriba en el Registro Público la posesión que se considere apta para prescribir y las que declaren aprobadas las solicitudes de adopción, la revisión de dichas resoluciones se hará de oficio por el Tribunal de apelación para resolver sobre la legalidad de las mismas, sin más trámite que la radicación del asunto y citación para sentencia, con intervención del Ministerio Público.
 
-a).- Las sentencias u otras resoluciones que pongan término al procedimiento, recaídas en los asuntos a que se refiere el artículo 56 Bis de la Ley Orgánica del Poder Judicial del Estado.
-
-b).- Las resoluciones con las que culmine el procedimiento a que se contraen los artículos 2914, 2915 y 2916 del Código Civil del Estado, mediante las cuales el Juez declara que el poseedor se ha convertido en propietario en virtud de la prescripción u ordena se inscriba en el Registro Público de la Propiedad la posesión apta para prescribir.
-
-La revisión tendrá por objeto resolver sobre la legalidad de las indicadas resoluciones o sentencias, sin más trámite que la radicación del asunto y citación para sentencia, previa la intervención del Ministerio Público.
-
-En el caso de que se haya interpuesto apelación por alguno de los interesados, dicha revisión también se hará aún sin expresión de agravios.
+En el caso de que se haya interpuesto apelación por alguno de los interesados, dicha revisión se hará aún sin expresión de agravios.
 
 813.- Contra las resoluciones dictadas para la ejecución de una sentencia no cabrá recurso alguno, salvo los casos en que la ley expresamente disponga otra cosa; pero aquellas otras resoluciones que, aunque dictadas en dicho procedimiento de ejecución, resuelvan puntos o cuestiones que no afectan directa e inmediatamente a la ejecución misma de la sentencia, admitirán los recursos que con arreglo a los Capítulos siguientes de este Título, convengan a su naturaleza.
 
@@ -3940,3 +3934,7 @@ PRIMERO.- Este Decreto entrará en toda la Entidad veinte días después de la f
 P.O. 11 DE NOVIEMBRE DE 1981.
 
 ARTICULO TRANSITORIO:- Este Decreto entrará en vigor en toda la Entidad el vigésimo día posterior a la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 1985.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Los asuntos regulados por el precepto derogado que se encuentran en trámite, a él se ajustarán hasta su revisión de oficio.
