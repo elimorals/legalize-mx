@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-la-secretaria-de-acuerdos-del-consejo-de-la-13240
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-01-31"
-last_updated: "1996-01-31"
+last_updated: "2003-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO DE LA SECRETARIA DE ACUERDOS DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL QUE REGULA EL FUNCIONAMIENTO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 26 DE NOVIEMBRE DE 2003, SE DEROGAN EN LO QUE SE REFIERAN AL SECRETARIO DE ACUERDOS, LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE ORDENAMIENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2003.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 31 de enero de 1996.
 
@@ -178,3 +180,13 @@ PDTE. DEL CONSEJO DE LA JUDICATURA
 C. FRANCISCO JAVIER LOPEZ AGRAZ
 
 SECRETARIO DE ACUERDOS DEL CONSEJO DE LA JUDICATURA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2003.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial Órgano del Gobierno del Estado y en el Boletín Judicial.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor diez días naturales después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan en lo que se refieran al Secretario de Acuerdos, las disposiciones del Reglamento de la Secretaría de Acuerdos del Consejo de la Judicatura, publicado en el Periódico Oficial Órgano del Gobierno del Estado con fecha 31 de enero de 1996.
