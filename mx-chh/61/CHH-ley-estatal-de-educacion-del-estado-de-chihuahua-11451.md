@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2000-05-31"
+last_updated: "2002-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2002.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -587,7 +587,15 @@ V.- Brindar a las niñas y a los niños los servicios médicos, psicológicos, d
 
 VI.- Promover el aprendizaje del idioma inglés; y
 
-VII.- Estimular en las niñas y en los niños el respeto por su entorno ecológico.
+VII.- Estimular en las niñas y en los niños el respeto por su entorno ecológico;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2002)</small>
+
+VIII.- Inculcar en los niños el respeto a la propiedad pública y privada; y
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2002)</small>
+
+IX.- Impulsar la creación de la cultura al no graffiti.
 
 #### SECCIÓN VIII. DE LA EDUCACIÓN PARA ADULTOS
 
@@ -632,6 +640,14 @@ X.- Impulsar la participación activa de las niñas y de los niños en acciones 
 XI.- Impulsar programas de educación vial, con la finalidad de preservar la integridad de los educandos; y
 
 XII.- Promover el aprendizaje del idioma inglés, así como la apropiación de los avances científicos y tecnológicos.
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2002)</small>
+
+XIII.- Fomentar en los niños y niñas el respeto a la propiedad privada y pública; y
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2002)</small>
+
+XIV.- Impulsar la creación de la cultura al no graffiti o pintas.
 
 ###### Artículo 41.
 
@@ -771,6 +787,14 @@ X.- Fomentar en el educando el estudio de la historia regional y salvaguardar lo
 
 XI.- Promover el aprendizaje del idioma inglés, así como la apropiación de los avances científicos y tecnológicos.
 
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2002)</small>
+
+XII.- Concientizar al educando sobre el respeto a la propiedad privada y pública; y
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2002)</small>
+
+XIII.- Concientizar al educando, que el graffiti o pintas que dañan propiedades privadas o públicas representan un delito.
+
 ###### Artículo 58.
 
 En el Estado funcionarán escuelas de educación secundaria:
@@ -837,7 +861,15 @@ VIII.- Fomentar en los alumnos la práctica cotidiana de valores universales, la
 
 IX.- Propiciar que los educandos valoren la educación artística como una opción de vida; y
 
-X.- Fortalecer en el educando el conocimiento de su sexualidad en los aspectos biopsicosociales para favorecer el ejercicio responsable de la misma.
+X.- Fortalecer en el educando el conocimiento de su sexualidad en los aspectos biopsicosociales para favorecer el ejercicio responsable de la misma;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2002)</small>
+
+XI.- Fortalecer en el educando el respeto a la propiedad privada y pública; y
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2002)</small>
+
+XII.- Crear y fomentar la conciencia en el educando, que el graffiti y las pintas que dañan la propiedad privada y pública, representan un delito.
 
 ###### Artículo 64.
 
@@ -1944,3 +1976,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo del Estado, deberá expedir el reglamento correspondiente en un término de noventa días contados apartir (sic) del siguiente día en que se publique en el Periódico Oficial del Estado.
+
+P.O. 6 DE MARZO DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
