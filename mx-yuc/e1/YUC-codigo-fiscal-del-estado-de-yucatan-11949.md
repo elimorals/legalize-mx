@@ -4,7 +4,7 @@ identifier: "YUC-codigo-fiscal-del-estado-de-yucatan-11949"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-12-01"
-last_updated: "1996-12-19"
+last_updated: "1998-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO FISCAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1998.
 
 Código publicado en el Suplemento al Diario Oficial el 1º. de diciembre de 1993.
 
@@ -650,6 +650,14 @@ Iniciado el ejercicio de las facultades de comprobación, únicamente se podrán
 Se presentará declaración complementaria conforme a lo previsto por el segundo párrafo del artículo 160 de este Código, caso en el cual se pagará la multa que corresponda, calculada sobre la parte consentida de la resolución y disminuida en los términos del artículo 90 fracción II del mismo.
 
 Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del artículo 29 de este Código, a partir de la fecha en que se debió de hacer el pago.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTÍCULO 48-A.
+
+Las personas físicas y morales que de acuerdo con el Código Fiscal de la Federación estén obligadas a dictaminar sus estados financieros por contador público autorizado, así como aquéllas que hubieren tomado la opción de dictaminarse, en términos de dicho Código, podrán a su vez optar por dictaminarse en materia de impuestos estatales, de conformidad con las disposiciones fiscales federales, aplicables supletoriamente para el caso particular.
+
+Los contribuyentes que tomen esta opción deberán presentar el aviso respectivo ante las autoridades estatales competentes, atendiendo a los plazos y requisitos que para la presentación del aviso de que dictaminaran sus estados financieros, se prevén en las disposiciones fiscales federales aplicables.
 
 ## TITULO III. DE LAS FACULTADES
 
@@ -2568,3 +2576,9 @@ ABOG. RICARDO AVILA HEREDIA
 D.O. 19 DE DICIEMBRE DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor el uno de enero de mil novecientos noventa y siete.
+
+D.O. 31 DE DICIEMBRE DE 1998.
+
+PRIMERO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
