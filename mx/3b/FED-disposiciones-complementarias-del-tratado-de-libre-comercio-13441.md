@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2000-12-29"
+last_updated: "2001-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,51 +18,239 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-DECRETO POR EL QUE SE ABROGA AL DIVERSO QUE ESTABLECE EL PROGRAMA DE IMPORTACION TEMPORAL PARA SERVICIOS INTEGRADOS A LA EXPORTACION, PUBLICADO EL 11 DE ABRIL DE 1997
+ACUERDO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LOS ESTADOS UNIDOS DE AMERICA SOBRE LA APLICACION DE SUS LEYES DE COMPETENCIA
 
-Decreto publicado en la Sexta Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 2000.
+Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 24 de enero de 2001.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Comisión Federal de Competencia.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y con fundamento en los artículos 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y
+Por instrucciones del Presidente de la Comisión Federal de Competencia y con fundamento en los artículos 28 y 29 de la Ley Federal de Competencia Económica, 8o. fracciones II y III, y 22 fracciones X y XVI del Reglamento Interior de la Comisión Federal de Competencia, se publican: el Acuerdo interinstitucional sobre la aplicación de leyes de competencia de los Estados Unidos Mexicanos y los Estados Unidos de América y disposiciones sobre competencia en el Tratado de Libre Comercio con la Unión Europea y con el Estado de Israel.
 
-CONSIDERANDO
+ACUERDO ENTRE EL GOBIERNO DE LOS ESTADOS UNIDOS MEXICANOS Y EL GOBIERNO DE LOS ESTADOS UNIDOS DE AMERICA SOBRE LA APLICACION DE SUS LEYES DE COMPETENCIA
 
-Que el Decreto que establece el Programa de Importación Temporal para Servicios Integrados a la Exportación fue publicado el 11 de abril de 1997 en el Diario Oficial de la Federación;
+El Gobierno de los Estados Unidos Mexicanos y el Gobierno de los Estados Unidos de América (en lo sucesivo, las Partes);
 
-Que el Tratado de Libre Comercio de América del Norte prevé que a partir del octavo año de su vigencia los beneficios de exención arancelaria a la importación de maquinaria y equipo deben ser eliminados cuando estén condicionados a la exportación;
+Considerando sus estrechas relaciones económicas y la cooperación en el marco del Tratado de Libre Comercio de América del Norte (TLCAN);
 
-Que el Acuerdo sobre Subvenciones y Medidas Compensatorias de la Organización Mundial de Comercio, en vigor desde 1995, establece que los beneficios de exención arancelaria a la importación de maquinaria y equipo deben ser eliminados cuando estén condicionados a la exportación, y
+Teniendo en cuenta que la adecuada y efectiva aplicación de sus leyes de competencia es un aspecto importante para la operación eficiente de los mercados dentro de la zona de libre comercio y del bienestar económico de los ciudadanos de las Partes;
 
-Que en el marco de las obligaciones internacionales adquiridas por México en el Tratado de Libre Comercio de América del Norte y la Organización Mundial de Comercio, el Programa de Importación Temporal para Servicios Integrados a la Exportación pierde los incentivos materia del mismo, ya que únicamente permite la importación temporal de maquinaria y equipo, he tenido a bien expedir el siguiente
+Considerando el compromiso asumido en el capítulo 15 del TLCAN en cuanto a la importancia de la cooperación y coordinación entre las autoridades de competencia para una aplicación más efectiva de la legislación de competencia en la zona de libre comercio;
 
-DECRETO
+Reconociendo que la coordinación de acciones en cuanto a la aplicación de las leyes de competencia de las Partes puede, en ciertos casos, resultar en una resolución más efectiva para los intereses respectivos de las Partes que las que se conseguirían a través de acciones independientes;
 
-## TITULO I: DISPOSICIONES GENERALES
+Reconociendo también que la cooperación técnica entre las autoridades de competencia de las Partes contribuirá a mejorar y fortalecer sus relaciones;
 
-1.- Para los efectos de la presente Resolución, salvo disposición en contrario, se entenderá por:
+Tomando en cuenta que en ocasiones pueden surgir diferencias entre las Partes con relación a la aplicación de sus leyes de competencia a conductas o transacciones que afecten a intereses importantes de ambas Partes;
 
-I.- “Aranceles”, cualquier impuesto o arancel a la importación, en los términos de lo dispuesto en los artículos 318 del Tratado y 12 de la Ley de Comercio Exterior.
+Considerando su compromiso a tomar en cuenta cuidadosamente los intereses importantes de cada una en la aplicación de sus leyes de competencia, y
 
-II.- “Autoridad aduanera”, la autoridad competente en los términos de la Ley Aduanera y del artículo 514 del Tratado.
+Considerando la creciente cooperación entre las Partes en asuntos relacionados con las leyes sobre la competencia, incluidos la Recomendación del Consejo de la OCDE de 1995 relativa a la cooperación entre países miembros sobre las prácticas anticompetitivas que afecten al comercio internacional; la Recomendación del Consejo de la OCDE de 1998 relativa a medidas eficaces contra los cárteles; y el Comunicado de la Reunión Cumbre de Panamá, de octubre de 1998;
 
-III.- “Bien”, cualquier mercancía en los términos de la Ley Aduanera.
+Han acordado lo siguiente:
 
-IV.- “Certificado de origen válido”, el certificado de origen que haya sido llenado por el exportador del bien en territorio de una Parte, de conformidad con lo dispuesto en la presente Resolución y en el instructivo de llenado del certificado de origen.
+Artículo I PROPOSITO Y DEFINICIONES
 
-V.- “Días”, salvo que se disponga lo contrario, días naturales, incluidos el sábado, el domingo y los días festivos.
+1. Los propósitos de este Acuerdo son promover la cooperación, tanto en la aplicación de la ley como en materia técnica, y la coordinación entre las autoridades de competencia de las Partes, a fin de evitar que surjan conflictos en la aplicación de las leyes de competencia de las Partes, y de minimizar el efecto de cualquier diferencia que pueda surgir sobre sus respectivos intereses importantes.
 
-VI.- “Partes”, los Estados Unidos Mexicanos, Canadá, y los Estados Unidos de América.
+2. A efectos del presente Acuerdo, los siguientes términos tendrán las siguientes definiciones:
 
-VII.- “Reglamentaciones Uniformes”, para efectos de los Títulos I, II y III de la presente Resolución, las “Reglamentaciones Uniformes para la Interpretación, Aplicación y Administración del Capítulo IV del Tratado de Libre Comercio de América del Norte”, contenidas en la Sección II del Título IV de la presente Resolución.
+(a) Actividades anticompetitivas: significa cualquier conducta o transacción sujeta a sanciones o medidas correctivas conforme a la legislación de competencia de una de las Partes;
 
-VIII.- “Reglas de marcado”, las reglas de marcado establecidas de conformidad con el Anexo 311, que se encuentran contenidas en el “Acuerdo por el que se establecen reglas de marcado de país de origen para determinar cuando una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense o canadiense de conformidad con el Tratado de Libre Comercio de América del Norte”, publicado en el Diario Oficial de la Federación el 7 de enero de 1994.
+(b) Autoridades de competencia: significa (i) para los Estados Unidos Mexicanos, la Comisión Federal de Competencia; (ii) para los Estados Unidos de América, el Departamento de Justicia de los Estados Unidos y la Comisión Federal de Comercio;
 
-IX.- “Territorio de una Parte”, el territorio de los Estados Unidos Mexicanos, de Canadá, o de los Estados Unidos de América como se define en el Anexo 201.1 del Tratado.
+(c) Legislación de competencia: significa (i) para los Estados Unidos Mexicanos, la Ley Federal de Competencia Económica del 24 de diciembre de 1992, excepto los artículos 14 y 15, y el Reglamento de la Ley Federal de Competencia Económica del 4 de marzo de 1998, excepto el artículo 8; (ii) para los Estados Unidos de América, la ley Sherman (secciones 1-7, título 15 del Código de los Estados Unidos), la ley Clayton (secciones 12-27 del mismo título y Código), la ley Wilson sobre aranceles (secciones 8-11 del mismo título y Código), y la ley sobre la Comisión Federal de Comercio (secciones 41-58 del mismo título y Código), en cuanto esta última se refiere a las medidas desleales en materia de competencia, así como cualquier enmienda de las mismas, y las otras leyes o reglamentos que las Partes puedan convenir por escrito que constituyen legislación de competencia para efectos del presente Acuerdo;
 
-X.- “Tratado”, el Tratado de Libre Comercio de América del Norte.
+(d) Actos de aplicación de la ley: significa cualquier investigación o procedimiento efectuado por una de las Partes con respecto a sus leyes de competencia.
 
-XI.- “Trato arancelario preferencial” o “tasa arancelaria preferencial”, el arancel o la tasa arancelaria aplicable a un bien originario de conformidad con la Lista de Desgravación de México contenida en la Sección B del Anexo 302.2 del Tratado.
+3. Cualquier referencia en el presente Acuerdo a disposiciones específicas de la legislación de competencia de las Partes se interpretará como una referencia a esa disposición tal y como se enmiende posteriormente y a cualquier disposición que la suceda. Cada Parte deberá notificar a la brevedad a la otra sobre toda reforma o enmienda de su legislación de competencia.
+
+Artículo II NOTIFICACION
+
+1. Cada Parte, con arreglo al párrafo 1 del artículo X, notificará a la otra Parte conforme a lo establecido en el presente artículo y en el artículo XII, cualquier acto de aplicación de la ley que pudiera afectar a los intereses importantes de la otra Parte.
+
+2. Los actos de aplicación de la ley que puedan afectar a los intereses importantes de la otra Parte y que, por tanto, ordinariamente requieran notificación, incluyen los que:
+
+(a) sean pertinentes a los actos de aplicación de la ley de la otra Parte;
+
+(b) se refieran a actividades anticompetitivas, además de las concentraciones o adquisiciones, realizadas total o sustancialmente en el territorio de la otra Parte;
+
+(c) se refieran a concentraciones o adquisiciones en las cuales -una o más de las Partes en la transacción, o- una empresa que controle a una o más de las partes en la transacción, sea una compañía constituida o estructurada conforme a las leyes de la otra Parte o de uno de sus estados;
+
+(d) se refieran a alguna conducta que haya sido requerida, impulsada o aprobada por la otra Parte;
+
+(e) se refieran a medidas correctivas que expresamente requieran o prohíban ciertas conductas en el territorio de la otra Parte o vayan de alguna manera dirigidas a conductas que se realizan en el territorio de la otra Parte, o
+
+(f) se refieran a la búsqueda de información localizada en el territorio de la otra Parte.
+
+3. La notificación a que se refiere este artículo se efectuará tan pronto como las autoridades de competencia de una de las Partes se enteren de la existencia de circunstancias notificables, y en todo caso, con la suficiente anticipación para permitir que la opinión de la otra Parte se tome en consideración.
+
+4. Cuando las autoridades de competencia de una de las Partes soliciten que una persona proporcione información, documentos u otras constancias localizadas en el territorio de la Parte notificada, o soliciten testimonio oral en un procedimiento o que se interrogue personalmente a alguien localizado en el territorio de la Parte notificada, la notificación deberá darse:
+
+(a) en caso de que el acatamiento de la solicitud de información escrita, documentos u otras constancias sea voluntario, en el momento en que la solicitud sea formulada o antes;
+
+(b) en caso de que el acatamiento de la solicitud de información escrita, documentos u otras constancias sea obligatorio, por lo menos siete (7) días antes de la solicitud (o cuando no se pueda notificar con siete (7) días de anticipación, tan pronto como las circunstancias lo permitan), y
+
+(c) en caso de testimonio oral o interrogatorio personal, en el momento en que se concierte el interrogatorio o el desahogo del testimonio o con anterioridad.
+
+5. La notificación requerida conforme a este artículo no es necesaria en el caso de comunicación por vía telefónica con alguna persona si:
+
+(a) esa persona no es objeto de una investigación,
+
+(b) la comunicación procura solamente una respuesta oral de carácter voluntario (aunque se hable sobre la disponibilidad y posible entrega voluntaria de documentos), y
+
+(c) los intereses importantes de la otra Parte no estén, al parecer afectados, a menos que la otra Parte solicite dicha notificación con relación a un asunto en particular.
+
+6. No se requerirá notificación para cada solicitud posterior de información con relación al mismo asunto, a menos que la Parte que solicite la información se entere de nuevos aspectos que afecten a los intereses importantes de la otra Parte o que la otra Parte así lo requiera con relación a un asunto en particular.
+
+7. Las Partes reconocen que los funcionarios de cualquiera de las Partes podrán visitar el territorio de la otra Parte en el curso de investigaciones en cumplimiento de sus respectivas leyes de competencia. Dichas visitas estarán sujetas a notificación conforme a lo dispuesto en este artículo y al consentimiento de la Parte notificada.
+
+8. Las notificaciones deberán ser suficientemente detalladas para permitir a la Parte notificada realizar una evaluación inicial del efecto del acto de aplicación de la ley sobre sus propios intereses importantes, y deberán exponer la índole de las actividades que se investigan y las disposiciones jurídicas aplicables. Cuando sea posible, las notificaciones deberán mencionar los nombres y la ubicación de las personas involucradas. Las notificaciones relativas a una propuesta de aprobación condicionada o de decreto o auto judicial con el consentimiento de las Partes, llevarán anexas copias de los documentos que las sustenten, así como de cualquier dictamen sobre el efecto competitivo del caso, pero si esto no fuera factible, esas copias se remitirán en cuanto lo sea.
+
+9. Cada una de las Partes deberá notificar también a la otra cuando sus autoridades de competencia intervengan o participen públicamente en un procedimiento regulatorio o judicial que no sea un acto de aplicación de la ley, si el caso objeto de la intervención o participación puede afectar a los intereses importantes de la otra Parte. Esa notificación deberá realizarse en el momento de la intervención o participación, o posteriormente, en cuanto sea posible.
+
+Artículo III COOPERACION EN LA APLICACION DE LA LEY
+
+1. (a) Las Partes reconocen que es en su interés común cooperar en la detección de actividades anticompetitivas y en la aplicación de su legislación de competencia en la medida que sea compatible con sus respectivas leyes e intereses importantes, y tomando en cuenta los recursos de que razonablemente dispongan.
+
+(b) Las Partes reconocen que es en su interés común compartir información para facilitar la aplicación efectiva de su legislación de competencia y promover el mejor entendimiento de sus respectivas políticas y actos de aplicación de la ley.
+
+2. Las Partes considerarán la adopción de otros acuerdos, cuando sea factible y conveniente, para fortalecer la cooperación en la aplicación de sus leyes de competencia.
+
+3. Las autoridades de competencia de cada una de las Partes, en la medida que sea compatible con su legislación, políticas de aplicación de la ley y otros intereses importantes, deberán:
+
+(a) asistir a las autoridades de competencia de la otra Parte, previa solicitud, en la localización y obtención de pruebas y testimonios, y en la obtención de consentimiento para desahogar voluntariamente las solicitudes de información en el territorio de la Parte requerida;
+
+(b) informar a las autoridades de competencia de la otra Parte sobre los actos de aplicación de la ley relativos a conductas que puedan también perjudicar la competencia en el territorio de la otra Parte;
+
+(c) proporcionar a las autoridades de competencia de la otra Parte, previa solicitud, la información que posean y que las autoridades de competencia de la Parte requirente especifiquen que es pertinente para sus actos de aplicación de la ley, y
+
+(d) proporcionar a las autoridades de competencia de la otra Parte cualquier información significativa de la que se enteren acerca de actividades anticompetitivas que sea pertinente o justifique actos de aplicación de la ley por parte de las autoridades de competencia de la otra Parte.
+
+4. Nada de lo dispuesto en este Acuerdo impedirá a las Partes solicitar o proporcionar asistencia recíproca conforme a otros acuerdos, tratados, arreglos o prácticas que se hayan concertado entre ellas.
+
+Artículo IV COORDINACION SOBRE TEMAS AFINES
+
+1. Cuando las autoridades de competencia de las Partes lleven a cabo actos de aplicación de la ley con respecto a temas afines, considerarán su posible coordinación. En esos casos, las Partes podrán recurrir a los acuerdos de asistencia mutua que estén en vigor en cada oportunidad.
+
+2. Al considerar si deben coordinarse ciertos actos de aplicación de la ley, ya sea total o parcialmente, las autoridades de competencia de las Partes deberán tomar en cuenta los siguientes factores, entre otros:
+
+(a) el efecto de dicha coordinación sobre la capacidad de ambas Partes para lograr sus respectivos objetivos;
+
+(b) las capacidades relativas de las autoridades de competencia de las Partes para obtener la información necesaria para llevar a cabo actos de aplicación de la ley;
+
+(c) la medida en la cual las autoridades de competencia de las Partes pueden obtener una solución eficaz con respecto a las actividades anticompetitivas en cuestión;
+
+(d) la posible reducción del costo para las Partes y para las personas que sean objeto de los actos de aplicación de la ley, y
+
+(e) las posibles ventajas que implicaría la coordinación de la aplicación de medidas correctivas para las Partes y para las personas que sean objeto de los actos de aplicación de la ley.
+
+3. En cualquier acuerdo de coordinación, las autoridades de competencia de cada una de las Partes procurarán llevar a cabo sus actos de aplicación de la ley de manera compatible con los objetivos de aplicación de la ley de las autoridades de competencia de la otra Parte.
+
+4. En el caso de actos de aplicación de la ley concurrentes o coordinados, las autoridades de competencia de cada una de las Partes deberán considerar, previa solicitud de las autoridades de competencia de la otra Parte y de manera compatible con los intereses de la Parte requerida en materia de aplicación de la ley, si las personas que han proporcionado información confidencial relativa a esos actos de aplicación consentirían que dicha información se comparta entre las autoridades de competencia de las Partes.
+
+5. Las autoridades de competencia de cualquiera de las Partes podrán notificar en cualquier momento a las autoridades de competencia de la otra Parte su intención de limitar o concluir las acciones de coordinación y continuar con la aplicación independiente de sus leyes conforme a las disposiciones del presente Acuerdo.
+
+Artículo V COOPERACION RELATIVA A LAS ACTIVIDADES ANTICOMPETITIVAS EN EL TERRITORIO DE UNA DE LAS PARTES QUE PERJUDIQUEN LOS INTERESES DE LA OTRA PARTE
+
+1. Las Partes reconocen que pueden presentarse conductas anticompetitivas en el territorio de una de las Partes que, además de infringir las leyes de competencia de esa Parte, perjudiquen intereses importantes de la otra Parte. Las Partes convienen en que tienen un interés común en solucionar las conductas anticompetitivas de esta naturaleza.
+
+2. Si una de las Partes considera que en el territorio de la otra Parte se realizan actividades anticompetitivas que perjudican sus intereses importantes, podrá solicitar a las autoridades de competencia de la otra Parte que inicien los actos de aplicación de la ley pertinentes. La solicitud deberá ser tan específica como sea posible con relación a la naturaleza de las actividades anticompetitivas y a sus efectos sobre los intereses de la Parte solicitante, y deberá traer una oferta de información y cooperación adicionales que las autoridades de competencia de la Parte solicitante puedan proporcionar.
+
+3. Las autoridades de competencia de la Parte que ha sido solicitada deben considerar cuidadosamente el inicio de actos de aplicación de la ley, o ampliar los ya iniciados, con respecto a las actividades anticompetitivas indicadas en la solicitud. Las autoridades de competencia de la Parte solicitada deben informar tan pronto como sea posible a la otra Parte sobre su decisión. Si se inician actos de aplicación de la ley, las autoridades de competencia de la Parte solicitada deben informar a la Parte solicitante de los resultados y, en la medida de lo posible, de cualquier avance provisional significativo.
+
+4. Nada de lo dispuesto en este artículo limita la facultad de las autoridades de competencia de la Parte solicitada, conforme a su legislación de competencia y sus políticas, a decidir si emprenden o no actos de aplicación de la ley con respecto a las actividades anticompetitivas señaladas en una solicitud, ni impide que las autoridades de competencia de la Parte solicitante realicen actos de aplicación de la ley con respecto a las mismas.
+
+Artículo VI PREVENCION DE CONFLICTOS
+
+1. Conforme a su ordenamiento jurídico y en la medida que sea compatible con sus intereses importantes, cada una de las Partes deberá, considerando el propósito del presente Acuerdo y conforme lo establece el artículo I, tomar en cuenta cuidadosamente los intereses importantes de la otra Parte en todas las etapas de sus actos de aplicación de la ley, incluidas las decisiones relacionadas con el inicio de una investigación o procedimiento, el alcance de una investigación o procedimiento y la naturaleza de la medida correctiva o sanción reclamada en cada caso.
+
+2. Cuando una Parte informe a la otra que un acto específico de aplicación de la ley puede afectar a sus intereses importantes, la otra Parte deberá informar oportunamente de las novedades que surjan, pertinentes a dichos intereses.
+
+3. Si bien puede existir un interés importante de una de las Partes aunque no haya participación oficial de esa Parte respecto de la actividad en cuestión, se reconoce que normalmente debe haber constancia previa de dicho interés en leyes o en decisiones o declaraciones normativas formuladas por sus autoridades competentes.
+
+4. Los intereses importantes de una de las Partes pueden resultar afectados en cualquier etapa del acto de aplicación de la ley de la otra Parte. Cada una de las Partes reconoce su deseo de minimizar cualquier efecto adverso de los actos de aplicación de la ley sobre los intereses importantes de la otra, particularmente en la selección de medidas correctivas. Por lo general, el posible perjuicio a los intereses importantes de una de las Partes que surja de los actos de aplicación de la ley de la otra Parte será menor en la etapa de investigación y mayor cuando una conducta se prohíba o sancione o cuando otras medidas correctivas sean impuestas.
+
+5. Cuando se considere que los actos de aplicación de la ley de una de las Partes puedan perjudicar los intereses importantes de la otra Parte, cada Parte deberá, en el momento de evaluar las medidas a tomar, considerar todos los elementos necesarios, entre otros:
+
+(a) la importancia relativa para las actividades anticompetitivas en cuestión de las conductas que se lleven a cabo en el territorio de una de las Partes en comparación con las que se lleven a cabo en el territorio de la otra Parte;
+
+(b) la importancia relativa y posible previsión de los efectos de las actividades anticompetitivas sobre los intereses importantes de una de las Partes en comparación con los efectos sobre los intereses importantes de la otra Parte;
+
+(c) la presencia o ausencia de intencionalidad, por parte de los que realizan las actividades anticompetitivas, de afectar a consumidores, proveedores o competidores en el territorio de la Parte que lleve a cabo el acto de aplicación de la ley;
+
+(d) la medida en que están opuestos o son compatibles entre sí los actos de aplicación de la ley de una de las Partes (incluyendo medidas correctivas) y las leyes u otros intereses importantes de la otra Parte;
+
+(e) si las personas privadas, ya sean físicas o morales, serán afectadas por exigencias de las Partes que resulten incompatibles;
+
+(f) la existencia o ausencia de expectativas razonables que resultarían favorecidas o frustradas a causa de los actos de aplicación de la ley;
+
+(g) la ubicación de los activos pertinentes;
+
+(h) el grado en que una medida correctiva, para ser eficaz, deba realizarse en el territorio de la otra Parte; y
+
+(i) la medida en que resultarían afectados los actos de aplicación de la ley de la otra Parte con respecto a las mismas personas, incluyendo las sentencias o las aprobaciones condicionadas que resulten de esos actos.
+
+Artículo VII COOPERACION TECNICA
+
+Las Partes acuerdan que es de interés común para sus autoridades de competencia trabajar conjuntamente en actividades de cooperación técnica relativas a su legislación y política de competencia. Estas actividades pueden incluir, considerando los recursos que estén razonablemente a disposición de sus organismos de competencia y en la medida que lo autoricen sus respectivas legislaciones: el intercambio de información en cumplimiento del artículo III del presente Acuerdo; el intercambio de personal de los organismos de competencia para su capacitación; la participación de personal de los organismos de competencia como instructores o consultores en cursos de capacitación sobre legislación y política de competencia organizados o patrocinados por las autoridades de competencia de cualquiera de las Partes; y otras formas de cooperación técnica que las autoridades de competencia de ambas Partes consideren pertinentes a efectos del presente Acuerdo.
+
+Artículo VIII CONSULTAS
+
+1. Cualquiera de las Partes puede solicitar la celebración de consultas respecto de cualquier asunto relacionado con el presente Acuerdo. La solicitud de consultas debe indicar las razones por las que se requieren y si existen plazos en los procedimientos u otras restricciones que exijan que las consultas se celebren con mayor prontitud. Cada una de las Partes deberá desahogar la consulta lo más pronto posible, cuando así se le solicite, a fin de llegar a una conclusión que sea compatible con los principios establecidos en el presente Acuerdo.
+
+2. Las consultas conforme a este artículo deberán llevarse a cabo al nivel que cada una de las Partes estime pertinente.
+
+3. Durante las consultas conforme a este artculo (sic), cada Parte deberá proporcionar a la otra tanta información como pueda a fin de facilitar el debate más amplio posible sobre los aspectos pertinentes del asunto objeto de la consulta. Cada Parte deberá considerar cuidadosamente las declaraciones de la otra Parte a la luz de los principios establecidos en el presente Acuerdo y deberá estar preparada para explicar los resultados específicos de la aplicación de esos principios al asunto objeto de la consulta.
+
+Artículo IX REUNIONES PERIODICAS
+
+Se celebrarán reuniones periódicas entre funcionarios de las autoridades de competencia de las Partes para:
+
+(a) intercambiar información sobre sus actuales medidas y prioridades de aplicación de la ley relativas a su legislación de competencia;
+
+(b) intercambiar información sobre sectores económicos de interés común;
+
+(c) discutir los cambios de política que estén considerando, y
+
+(d) discutir otros asuntos de interés común relacionados con la aplicación de su legislación de competencia y el cumplimiento del presente Acuerdo.
+
+Artículo X CONFIDENCIALIDAD DE LA INFORMACION
+
+1. No obstante cualquier otra disposición del presente Acuerdo, ninguna de las Partes está obligada a proporcionar información a la otra Parte si esa comunicación está prohibida por la legislación de la Parte que posee la información o, es incompatible con los intereses importantes de esa Parte.
+
+2. Salvo que las Partes acuerden lo contrario, cada una deberá, en la medida de lo posible y de manera compatible con su respectiva legislación: (i) mantener la confidencialidad de cualquier información que le sea comunicada por la otra Parte en confidencia, según lo establecido en el presente Acuerdo, y (ii) oponerse a cualquier solicitud de terceros de revelar dicha información confidencial.
+
+Artículo XI LEGISLACION VIGENTE
+
+Nada de lo dispuesto en el presente Acuerdo obliga a cualquiera de las Partes a realizar cualquier acto o a abstenerse de actuar de manera incompatible con sus leyes vigentes, o a modificar su legislación o la de sus respectivos estados.
+
+Artículo XII COMUNICACIONES CONFORME AL PRESENTE ACUERDO
+
+Las comunicaciones conforme al presente Acuerdo pueden realizarse directamente entre las autoridades de competencia de las Partes. Las solicitudes conforme al párrafo 2 del artículo V y al párrafo 1 del artículo VIII deberán, no obstante, confirmarse por escrito por la vía diplomática acostumbrada.
+
+Artículo XIII ENTRADA EN VIGOR Y TERMINACION
+
+1. El presente Acuerdo entrará en vigor a partir de su firma.
+
+2. El presente Acuerdo permanecerá en vigor hasta 60 días después de la fecha en que cualquiera de las Partes notifique por escrito a la otra su deseo de terminar el mismo.
+
+En fe de lo cual, los infrascritos, debidamente autorizados por sus respectivos Gobiernos, han firmado el presente Acuerdo.
+
+Hecho en la Ciudad de México, el once de julio de 2000, por duplicado, en los idiomas español e inglés, en textos igualmente auténticos.
+
+Decisión 2/2000 del Consejo Conjunto Comunidad Europea-México
+
+## TITULO IV - COMPETENCIA
+
+###### Artículo 39
+
+Mecanismo de cooperación
+
+1. En el anexo XV se establece un mecanismo de cooperación entre las autoridades de las Partes responsables de aplicar las respectivas legislaciones de competencia.
+
+2. Las autoridades de competencia de ambas Partes presentarán al Comité Conjunto un informe anual sobre la aplicación del mecanismo referido en el primer párrafo.
+
+ANEXO XV (PREVISTO EN EL ARTICULO 39)
 
 ###### ARTICULO PRIMERO.
 
@@ -72,215 +260,93 @@ Se establecen las reglas de marcado de país de origen para determinar cuando un
 
 Se abroga el Decreto que establece el Programa de Importación Temporal para Servicios Integrados a la Exportación, publicado en el Diario Oficial de la Federación el 11 de abril de 1997.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO I - DISPOSICIONES GENERALES
 
-PRIMERA.- Para los efectos de las presentes Reglas, se entenderá por:
+### CAPITULO II - COOPERACION Y COORDINACION
 
-a) Catálogo: Catálogo de clasificación para las adquisiciones y obra pública disponible a través del Sistema;
+### Capítulo VIII Políticas en Materia de Competencia, Monopolios y Empresas del Estado
 
-b) CFE: Comisión Federal de Electricidad;
+###### Artículo 8
 
-c) Contratos de compra: Los contratos de adquisiciones y arrendamientos de bienes muebles, con o sin opción de compra, de prestación de servicios en general, los de obra pública, y los de servicios relacionados con la obra pública;
+01: Definiciones
 
-d) Dependencias y entidades sujetas: Las dependencias, empresas de participación estatal mayoritaria, órganos desconcentrados, organismos descentralizados y entidades de la Administración Pública Federal, contenidos en las Listas de México ubicadas en los anexos 1001.1a-1 y 1001.1a-2 del Capítulo de Compras del Sector Público del Tratado de Libre Comercio de América del Norte;
+Para efectos de este capítulo, se entenderá por:
 
-e) Dirección: La Dirección General de Industrias;
+Designar: establecer, autorizar o ampliar el ámbito del monopolio para incluir un bien o servicio adicional, después de la fecha de entrada en vigor de este Tratado.
 
-f) Dólares: Dólares de los Estados Unidos de América;
+Empresa de un Estado: una empresa propiedad o bajo control de una Parte mediante participación accionaria, y
 
-g) Leyes: La Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+Legislación de competencia: legislación de competencia, tal como se define en el Anexo 8-01 (Legislación de Competencia), y
 
-h) Obras Públicas: Las consideradas como servicios de construcción en la segunda definición del artículo 1025 del Capítulo X del Tratado de Libre Comercio de América del Norte y las consideradas como tales en el artículo 3 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+Monopolio: una entidad, incluido un consorcio u organismo gubernamental que, en cualquier mercado pertinente en territorio de una Parte, ha sido designado proveedor o comprador único de un bien o servicio, pero no incluye a una entidad a la que se le haya otorgado un derecho de propiedad intelectual exclusivo derivado solamente de dicho otorgamiento.
 
-i) PEMEX: Petróleos Mexicanos y sus organismos subsidiarios;
+###### Artículo 8
 
-j) Procedimientos de contratación: las licitaciones públicas e invitaciones a cuando menos tres personas, en términos de los artículos 26 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 27 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+02: Política de competencia
 
-k) Reservas: Disposiciones que permiten a las dependencias y entidades sujetas exceptuar ciertas compras de las obligaciones establecidas en el Capítulo X del Tratado de Libre Comercio de América del Norte con sus respectivos anexos;
+1. Las Partes aplicarán su legislación de competencia para evitar prácticas contrarias a la competencia que puedan tener efectos adversos en sus relaciones comerciales que afecten los objetivos de este Tratado. Con este fin, las Partes realizarán ocasionalmente consultas sobre la eficacia de las medidas adoptadas por cada Parte.
 
-l) Reserva permanente: La reserva establecida en la Lista de México del Anexo 1001.2b párrafo 3 del Capítulo X del Tratado de Libre Comercio de América del Norte;
+2. En la aplicación de su legislación de competencia, cada Parte otorgará a los proveedores de bienes y servicios originarios de la otra Parte un trato no menos favorable al que se les otorga a los proveedores nacionales de cualquier otro país, de conformidad con los derechos y obligaciones previstos en su legislación de competencia.
 
-m) Reserva transitoria: La reserva establecida en el Anexo 1001.2a párrafos 1 al 5 del Capítulo X del Tratado de Libre Comercio de América del Norte;
+3. Ninguna Parte podrá recurrir a los procedimientos de solución de controversias de este Tratado con respecto a los asuntos previstos en este artículo, cuando la legislación de la otra Parte prevea medios de impugnación.
 
-n) Secretaría: La Secretaría de Comercio y Fomento Industrial;
+###### Artículo 8
 
-o) Servicios: Tanto los servicios en general como los servicios relacionados con la obra pública;
+03: Cooperación
 
-p) Sistema: Sistema de Consultas y Orientación sobre las Reservas de Compras administrado por la Secretaría, con dirección en Internet: www.secofi-sicorc.gob.mx;
+Cada Parte reconoce la importancia de la cooperación y la coordinación entre sus autoridades de competencia para impulsar la aplicación efectiva de la legislación de competencia con el fin de cumplir con los objetivos de este Tratado. Las Partes expresan su deseo de cooperar en la aplicación de su legislación de competencia, en los asuntos que puedan afectar el comercio bilateral. Esta cooperación incluye las notificaciones, consultas y el intercambio de información.
 
-q) Tratado: El Tratado de Libre Comercio de América del Norte, y
+###### Artículo 8
 
-r) Umbrales: Montos de referencia establecidos en el artículo 1001 párrafo 1 inciso c) del Capítulo X del Tratado de Libre Comercio de América del Norte, a partir de los cuales se define el ámbito de aplicación de las disposiciones de dicho capítulo.
+04: Acuerdos restrictivos a la competencia
 
-SEGUNDA.- La Secretaría estará facultada para interpretar estas Reglas a efectos administrativos.
+1. Nada de lo dispuesto en este Tratado se interpretará en el sentido de impedir a una Parte aprobar, en los términos previstos en su legislación, un acuerdo restrictivo a la competencia.
 
-TERCERA.- Estas Reglas también normarán en la aplicación de las reservas contempladas en otros tratados comerciales internacionales de los que México sea parte, en lo que no se opongan a las disposiciones de tales tratados.
+2. Cuando alguna Parte apruebe un acuerdo restrictivo a la competencia que pueda afectar los intereses de la otra Parte, deberá: a) siempre que sea posible, notificar previamente a la otra Parte o publicar la aprobación del citado Acuerdo; y b) al momento de la aprobación, procurar sujetar el acuerdo mencionado a condiciones que minimicen cualquiera de sus efectos adversos a la competencia.
 
-CUARTA.- En los procedimientos de contratación que sigan las dependencias y entidades sujetas deberán observarse, en lo conducente, estas Reglas.
+###### Artículo 8
 
-QUINTA.- Estas Reglas no se aplicarán cuando se trate de compras entre una y otra entidad o dependencia o cuando las compras se realicen con préstamos de instituciones financieras regionales o multilaterales otorgados al Gobierno Federal o con su aval, puesto que las mismas están fuera del campo de aplicación del Tratado.
+05: Monopolios
 
-SEXTA.- Las dependencias y entidades sujetas realizarán procedimientos de contratación de carácter nacional, salvo que se presente alguno de los supuestos para procedimientos de contratación internacional en términos de los artículos 28 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 30 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+1. Ninguna disposición de este Tratado se interpretará en el sentido de impedir a las Partes designar un monopolio.
 
-SEPTIMA.- Las dependencias y entidades sujetas no están obligadas a realizar licitaciones públicas internacionales bajo la cobertura del Tratado, cuando:
+2. Cuando una Parte pretenda designar un monopolio, y esta designación pueda afectar los intereses de personas de la otra Parte, la Parte: a) siempre que sea posible, notificará previamente y por escrito, la designación a la otra Parte; y b) al momento de la designación, procurará introducir en la operación del monopolio condiciones que minimicen o eliminen cualquier anulación o menoscabo de beneficios.
 
-a) El valor estimado del contrato sea menor al monto de los umbrales;
+3. Cada Parte se asegurará, mediante el control reglamentario, supervisión administrativa o con la aplicación de otras medidas, que cualquier monopolio privado que la Parte designe, o gubernamental que mantenga o designe:
 
-b) El valor estimado de la contratación sea por un monto igual o mayor al de los umbrales, pero se presente uno de los siguientes supuestos contemplados en el Tratado:
+a) actúe de manera que no sea incompatible con las obligaciones de la Parte en este Tratado, cuando ese monopolio ejerza facultades reglamentarias, administrativas u otras funciones gubernamentales que la Parte le haya delegado con relación al bien o servicio monopolizado, tales como la facultad para otorgar permisos de importación o exportación, aprobar operaciones comerciales o imponer cuotas, derechos u otros cargos;
 
-b.1) El objeto del contrato se refiera a bienes o servicios excluidos de la aplicación del Tratado, conforme a lo establecido en los anexos 1001.1b-1 y 1001.1b-2 del Capítulo X del propio Tratado;
+b) excepto cuando se trate del cumplimiento de cualquiera de los términos de su designación que no sean incompatibles con el literal c), actúe solamente según consideraciones comerciales en la compra o venta del bien o servicio monopolizado en el mercado pertinente, incluso en lo referente a su precio, calidad, disponibilidad, capacidad de venta, transporte y otros términos y condiciones para su compra y venta, y
 
-b.2) Se trate de compras de bienes agrícolas para fomentar programas de apoyo a la agricultura o bienes para la alimentación humana que lleven a cabo Leche Industrializada Conasupo, S. A. de C.V. (LICONSA) o el Sistema Nacional para el Desarrollo Integral de la Familia (DIF);
+c) no utilice su posición monopólica para llevar a cabo prácticas contrarias a la competencia en un mercado no monopolizado en su territorio que afecten desfavorablemente la inversión de un inversionista de otra Parte, de manera directa o indirecta, inclusive a través de las operaciones con su matriz, subsidiaria u otra empresa de participación común, y asimismo a través del suministro discriminatorio del bien o servicio monopolizado, del otorgamiento de subsidios cruzados o de conducta predatoria.
 
-b.3) Los bienes a adquirir estén sujetos a restricciones cuantitativas o permisos de importación;
+4. El párrafo 3 no se aplica a la adquisición de bienes o servicios por parte de organismos gubernamentales, para fines oficiales, y sin el propósito de reventa comercial o de utilizarlos en la producción de bienes o en la prestación de servicios para su venta comercial.
 
-b.4) Hasta el 1 de enero de 2002, se trate de la adquisición de medicamentos que no hayan estado patentados en México al 1 de enero de 1994 o cuya patente en México haya expirado a partir de esa fecha, y que realicen la Secretaría de Salud, el Instituto Mexicano del Seguro Social (IMSS), el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE), las Secretarías de la Defensa Nacional y de Marina. La vigencia de la patente deberá verificarse en el Instituto Mexicano de la Propiedad Industrial;
+5. Para efectos de este artículo, mantener significa la designación antes de la entrada en vigor de este Tratado, así como la vigencia de dicha designación a la fecha de entrada en vigor del último, de conformidad con el artículo 12-03.
 
-b.5) Las compras se realicen con miras a la reventa comercial en tiendas gubernamentales, y
+###### Artículo 8
 
-b.6) Exista en el Tratado algún supuesto distinto a los anteriores que, de manera opcional, permita eximir la operación de las disposiciones del propio Tratado.
+06: Empresas del Estado
 
-La verificación de la vigencia de la patente a la que se refiere el inciso b.4) anterior, se deberá acreditar a través de la constancia o certificación que, para tal efecto, expida el Instituto Mexicano de la Propiedad Industrial, a solicitud de la convocante o del proveedor, según se determine en las bases del procedimiento de contratación correspondientes.
+1. Nada de lo dispuesto en este Tratado se interpretará para impedir a una Parte mantener o establecer empresas del Estado.
 
-En caso de que sea el proveedor el que realice la verificación, deberá presentar ante la convocante copia de la respuesta del Instituto Mexicano de la Propiedad Industrial, en donde se señale la vigencia de la patente correspondiente al medicamento que oferta.
+2. Cada Parte se asegurará, mediante el control reglamentario, la supervisión administrativa o la aplicación de otras medidas, que toda empresa del Estado que la misma mantenga o establezca actúe de manera que no sea incompatible con las obligaciones de la Parte cuando dichas empresas ejerzan facultades reglamentarias, administrativas u otras funciones gubernamentales que la Parte les haya delegado, como la facultad para expropiar, otorgar licencias, aprobar operaciones comerciales o imponer cuotas, derechos u otros cargos.
 
-Las contrataciones comprendidas en los supuestos a que alude esta Regla, se sujetarán únicamente a lo dispuesto por las Leyes.
+3. Cada Parte se asegurará de que cualquier empresa del Estado, que la misma mantenga o establezca, otorgue trato no discriminatorio a la venta de sus bienes.
 
-### CAPITULO II
+Anexo 8-01
 
-DE LA DETERMINACION Y EJERCICIO DE LA RESERVA PERMANENTE PARA LAS ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS PARA LAS ENTIDADES Y DEPENDENCIAS SUJETAS, EXCEPTO PEMEX Y CFE
+Legislación de competencia
 
-OCTAVA.- La reserva permanente anual se encuentra determinada en los términos del Anexo 1001.2b, Lista de México párrafo 3 del Capítulo X del Tratado.
+Para efectos de este capítulo, se entenderá por ley de competencia:
 
-NOVENA.- Hasta el 31 de diciembre de 2002, las Reglas contenidas en este capítulo sólo son aplicables a las dependencias y entidades sujetas, con excepción de PEMEX y CFE.
+a) para el caso de Israel, Restrictive Business Practices Law (Ley de Prácticas Comerciales Restrictivas) 5748-1988 y sus reglamentos, y
 
-DECIMA.- Cuando las dependencias y entidades sujetas, pretendan realizar un procedimiento para la contratación de adquisiciones, arrendamientos o prestación de servicios y se presenten las circunstancias que enseguida se detallan, deberán solicitar a la Dirección les determine la inclusión o no de dicha contratación en la reserva permanente del Tratado, a través de la indicación del carácter que deberá tener dicho procedimiento:
+b) para el caso de México, la Ley Federal de Competencia Económica (LFCE) (1993), el Reglamento de la LFCE (1998) y el Reglamento Interior de la Comisión Federal de Competencia (1998).
 
-(a) Tenga obligatoriedad de cobertura del Tratado, es decir que no se presenten los supuestos establecidos en la Regla séptima de este Acuerdo;
+Así como cualquier reforma, y otras leyes y reglamentos que las Partes acuerden por escrito que sean consideradas leyes de competencia, para efectos de este Tratado.
 
-(b) Corresponda a los bienes y/o servicios listados en el Anexo (A) de este Acuerdo, y
-
-(c) La convocante considere que, en términos de precio, cantidad, calidad o capacidad de ejecución, es conveniente la realización de un procedimiento de contratación de carácter nacional.
-
-Esta solicitud se hará por escrito o por transmisión electrónica a través del Sistema, mediante el requisitado del formato RESE-1, incluido tanto en el Anexo (E) de este Acuerdo como en el Sistema, informando, conforme al Catálogo, sobre el tipo de bien o servicios a contratar y el monto estimado del contrato.
-
-DECIMAPRIMERA.- Cuando se cumplan los supuestos de los incisos (a) y (c) de la Regla Décima y los bienes y servicios objeto del contrato no correspondan a los listados en el Anexo (A) de este Acuerdo, la dependencia o entidad podrá solicitar a la Dirección, en términos de dicha Regla, le determine la inclusión o no en la reserva permanente, indicándole el carácter que deberá tener la licitación.
-
-DECIMASEGUNDA.- Cuando las dependencias y entidades sujetas, pretendan seguir un procedimiento de excepción a la licitación pública, en el que participen exclusivamente proveedores o contratistas nacionales y se trate de operaciones de compra dentro del ámbito de aplicación del Tratado, al amparo de un supuesto contenido en las Leyes que no esté contemplado en alguna de las circunstancias para licitación restringida relacionadas en el artículo 1016 párrafo 2 del Capítulo X del Tratado, sólo podrán hacerlo si la Dirección determina su inclusión en la reserva permanente.
-
-Para ello, se deberá consultar a la Dirección por escrito o por transmisión electrónica a través del Sistema, en términos de la Regla Décima, si el procedimiento de invitación restringida puede ser contabilizado en dicha reserva.
-
-DECIMATERCERA.- No será necesario solicitar la inclusión en la reserva permanente para los procedimientos que se realicen amparados en las circunstancias de licitación restringida comprendidas en el artículo 1016 párrafo 2 del Capítulo X del Tratado. Estas circunstancias sólo podrán aplicarse si a su vez están previstas en los supuestos contenidos en las Leyes.
-
-DECIMACUARTA.- En cualquier supuesto de invitación a cuando menos tres personas contenido en las Leyes o de licitación restringida establecido en el Tratado, las dependencias y entidades deberán observar lo dispuesto en los artículos 43 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 44 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
-
-DECIMAQUINTA.- La Dirección responderá a la consulta por el mismo medio en que fue presentada, en un plazo máximo de cinco días hábiles, contado a partir de la fecha de presentación de la solicitud respectiva. En caso contrario, la dependencia o entidad solicitante entenderá que el procedimiento de contratación quedará incluido en la reserva permanente, y realizará una licitación pública nacional, para el caso de las Reglas Décima y Decimaprimera, o un procedimiento de invitación a cuando menos tres personas de carácter nacional conforme a las Leyes, para el caso de la Regla Decimasegunda.
-
-En caso de que la Dirección resuelva que el procedimiento no queda cubierto por la reserva permanente, las dependencias y entidades deberán realizar una licitación internacional bajo la cobertura del Tratado.
-
-DECIMASEXTA.- Dentro de un plazo de treinta días naturales posteriores a la firma del (los) contrato(s) de operaciones que hayan sido determinados con cargo a la reserva permanente, las dependencias y entidades sujetas deberán informar a la Dirección sobre dicha formalización. Esto se hará por escrito o por transmisión electrónica a través del Sistema, mediante el requisitado del formato RESE-2 incluido en el Anexo (E) de este Acuerdo y en el Sistema, indicando, con base en el Catálogo, el (los) bien(es) o servicio(s) contratado(s) y monto total de la contratación.
-
-DECIMASEPTIMA.- En caso de que alguna de las operaciones determinadas por la Dirección para su inclusión en la reserva permanente sea declarada desierta, la dependencia o entidad convocante deberá informar de ello a la Dirección por escrito o por transmisión electrónica a través del Sistema, dentro de un plazo de diez días naturales posteriores a la resolución respectiva.
-
-DECIMAOCTAVA.- En el ejercicio anual de la reserva permanente, corresponderá a la Dirección supervisar las disposiciones siguientes:
-
-a) Que no se aplique más de 10 por ciento del monto de la reserva permanente a un solo código a cinco dígitos para bienes muebles del Catálogo, y
-
-b) Que ninguna dependencia o entidad reserve contratos de bienes y servicios en cualquier año, por un valor mayor al 20 por ciento del total de la reserva permanente.
-
-### CAPITULO III
-
-DE LA DETERMINACION Y EL EJERCICIO DE LA RESERVA TRANSITORIA PARA PEMEX Y CFE Y, EN MATERIA DE OBRAS PUBLICAS, PARA LAS DEMAS DEPENDENCIAS Y ENTIDADES SUJETAS, PARA EL PERIODO 2000-2002
-
-DECIMANOVENA.- En términos del Tratado, la reserva transitoria hasta el 31 de diciembre del año 2002, para PEMEX y CFE, es un porcentaje definido anualmente del monto total de sus contratos de adquisiciones, arrendamientos, prestación de servicios y obra pública, que igualen o superen el valor de los umbrales y, para las demás dependencias y entidades sujetas, de un porcentaje calculado anualmente, del monto total de sus contratos de obra pública que igualen o superen el valor de los umbrales.
-
-Para efectos del párrafo anterior no se incluirán en el cálculo del monto total de los contratos, aquellos contratos financiados por préstamos otorgados al Gobierno Federal o con su aval, a través de instituciones financieras regionales o multilaterales.
-
-Las dependencias y entidades sujetas deberán observar las Reglas contenidas en este Capítulo hasta el 31 de diciembre del año 2002.
-
-VIGESIMA.- Las dependencias y entidades sujetas determinarán anualmente el monto de su reserva transitoria, multiplicando la base de la reserva Bt por el factor rt que les corresponda, de acuerdo con la siguiente expresión:
-
-Rt = Bt (rt)
-
-En donde:
-
-Rt = Reserva para el año t.
-
-Bt = Base de la reserva para el año t.
-
-rt = Porcentaje correspondiente al año t, expresado en decimales.
-
-Año 2000 2001 2002
-
-rt 0.35 0.30 0.30
-
-PEMEX y CFE determinarán la base de sus respectivas reservas restando al monto total de los contratos de adquisiciones, arrendamientos, contratación de servicios y obras públicas que realizarán en el año, el monto de los contratos que se encuentren abajo de umbrales y los que se ubiquen por arriba de los umbrales, pero que serán financiados por préstamos de instituciones financieras regionales o multilaterales, conforme a la siguiente expresión:
-
-Bt = (bt + st + ct) - (ut + ft)
-
-Las dependencias y entidades sujetas, con excepción de PEMEX y CFE, determinarán anualmente la base de su reserva transitoria, en materia de obras públicas, restando al monto total de los contratos de obra pública que realizarán en el año, el monto de dichos contratos que se encuentren abajo de umbrales y los que se ubiquen por arriba de los umbrales, pero que serán financiados por préstamos de instituciones financieras regionales o multilaterales, conforme a la siguiente expresión:
-
-Btc = ct - (utc + ftc)
-
-En donde:
-
-Bt = Base de la reserva para el año t.
-
-Btc = Base de la reserva de obra pública para el año t.
-
-bt = Monto total de los contratos de adquisiciones y arrendamientos para el año t.
-
-st = Monto total de los contratos de servicios para el año t.
-
-ct = Monto total de los contratos de obra pública para el año t.
-
-ut = Monto total de los contratos por abajo de los umbrales para el año t.
-
-utc = Monto total de los contratos de obra pública por abajo de los umbrales para el año t.
-
-ft = Monto total de los contratos por arriba de los umbrales, financiados por préstamos de instituciones financieras regionales o multilaterales para el año t.
-
-ftc = Monto total de los contratos de obra pública por arriba de los umbrales, financiados por préstamos de instituciones financieras regionales o multilaterales para el año t.
-
-El monto total de los contratos al que se refieren las variables de la expresión para el cálculo de la base de la reserva incluye, entre otros, el de los proyectos llave en mano, los proyectos integrales, los proyectos de infraestructura productiva de impacto diferido en el registro del gasto público, las compras intragubernamentales y las contrataciones por invitación a cuando menos tres personas o por adjudicación directa.
-
-Cuando se trate de contratos multianuales, se deberá considerar el monto total para el periodo total que abarcará el contrato respectivo.
-
-VIGESIMAPRIMERA.- PEMEX, CFE y, en materia de obras públicas, las otras dependencias y entidades sujetas, deberán informar a la Dirección, por escrito o por transmisión electrónica a través del Sistema, el monto de su reserva transitoria con base en valores estimados de los procedimientos de contratación que se esperan realizar, calculada conforme a la Regla Vigésima, a más tardar el 31 de marzo de cada año.
-
-El cálculo de este monto deberá ser actualizado por PEMEX y CFE e informado a la Dirección, por escrito o por transmisión electrónica a través del Sistema, en dos reportes posteriores al citado en el párrafo previo, antes del 31 de julio y del 31 de enero del año siguiente, a efecto de determinar la evolución de los montos correspondientes a la reserva en el primer semestre y en el año en su conjunto, respectivamente.
-
-Las cifras que se utilicen para informar el monto actualizado de la reserva transitoria deberán considerar los ajustes necesarios por el ejercicio de la reserva que se haya realizado en el periodo previo al que se reporta y en función de las operaciones de compra en su totalidad llevadas a cabo.
-
-El informe se deberá presentar mediante el requisitado de los formatos RESE-3, para PEMEX y CFE, o RESE-4, para el resto de las dependencias y entidades sujetas. Estos formatos se encuentran incluidos tanto en el Anexo (E) de este Acuerdo como en el Sistema.
-
-VIGESIMASEGUNDA.- PEMEX y CFE deberán ejercer su correspondiente reserva transitoria, por un monto no mayor a su reserva calculada conforme a la Regla Vigésima, atendiendo las prioridades establecidas para adquisición de bienes, arrendamientos, prestación de servicios y obras públicas a que se refieren los Anexos (B) y (C) de este Acuerdo, cuyos procedimientos de contratación se estime que superen el valor de los umbrales respectivos, a menos que, previa investigación de mercado conforme los artículos 28 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 30 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, dichas entidades consideren conveniente la realización de una licitación pública internacional, en cuyo caso se aplicarán las disposiciones del Tratado.
-
-Para estos efectos, PEMEX y CFE deberán mantener un registro del monto que se haya estimado, antes de la publicación de la convocatoria, para cada uno de los procedimientos de contratación realizados al amparo de su respectiva reserva.
-
-VIGESIMATERCERA.- PEMEX y CFE deberán dar seguimiento a la evolución de su respectiva reserva transitoria, a efecto de que se cumplan las siguientes disposiciones:
-
-a) Que el ejercicio de la reserva no exceda en cada año el monto total reservable;
-
-b) En cada año, no aplicar a la reserva, más de 10 por ciento del monto total reservable para ese año, a un solo código a cinco dígitos de bienes muebles del Catálogo, y
-
-c) Procurar que no se reserve más de 50 por ciento del monto total anual de contratos correspondientes a cualquier código a cinco dígitos de bienes muebles del Catálogo.
-
-VIGESIMACUARTA.- Las dependencias y entidades sujetas, con excepción de PEMEX y CFE, reservarán hasta un monto equivalente a su reserva transitoria anual calculada conforme a la Regla Vigésima, los contratos de obra pública a que se refiere el Anexo (D) de este Acuerdo que se estime igualen o superen el valor de los umbrales, a menos que, previa investigación de mercado en términos del artículo 30 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, se considere conveniente la realización de una licitación pública internacional, en cuyo caso se aplicarán las disposiciones del Tratado.
-
-VIGESIMAQUINTA.- Cuando las dependencias y entidades sujetas, con excepción de PEMEX y CFE, pretendan reservar un contrato de obra pública, cuyo valor estimado exceda al monto de su reserva transitoria anual, calculada conforme a la Regla Vigésima, deberán consultar a la Dirección por escrito o por transmisión electrónica a través del Sistema, sobre el carácter que deberá tener el procedimiento de contratación y si podrá ser con cargo a su reserva transitoria, informando sobre las características y el valor del contrato a celebrar, procurando realizar esta consulta antes del 31 de marzo de cada año.
-
-VIGESIMASEXTA.- Cuando las dependencias y entidades sujetas, en materia de obras públicas, o PEMEX y CFE, pretendan seguir un procedimiento de excepción a la licitación pública, en el que participen exclusivamente proveedores o contratistas nacionales y se trate de operaciones de compra dentro del ámbito de aplicación del Tratado, al amparo de un supuesto contenido en las Leyes que no esté contemplado en alguna de las circunstancias para licitación restringida relacionadas en el artículo 1016 párrafo 2 del Capítulo X del Tratado, sólo podrán hacerlo si lo realizan con cargo a su reserva transitoria.
-
-VIGESIMASEPTIMA.- No será necesario incluir en la reserva transitoria procedimientos que se realicen amparados en las circunstancias de licitación restringida comprendidas en el artículo 1016 párrafo 2 del Capítulo X del Tratado. Estas circunstancias sólo podrán aplicarse si a su vez están previstas en los supuestos contenidos en las Leyes.
-
-VIGESIMAOCTAVA.- En cualquier supuesto de invitación a cuando menos tres personas contenido en las Leyes o de licitación restringida establecido en el Tratado, las dependencias y entidades sujetas deberán observar lo dispuesto en los artículos 43 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 44 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
-
-VIGESIMANOVENA.- PEMEX, CFE y las otras dependencias y entidades sujetas deberán informar a la Dirección, por escrito o por transmisión electrónica a través del Sistema, en los meses de enero, abril, julio y octubre, sobre los contratos formalizados cubiertos por la reserva transitoria, acumulados en el año hasta el trimestre inmediato anterior, indicando su número, monto respectivo y clasificación con base en el Catálogo. El informe contendrá los contratos formalizados que hayan sido convocados en el año que se reporta.
-
-El informe se deberá presentar mediante el requisitado de los formatos RESE-5, para PEMEX y CFE, o RESE-6, para el resto de las dependencias y entidades sujetas. Estos formatos se encuentran incluidos tanto en el Anexo (E) de este Acuerdo como en el Sistema.
-
-En el caso de que, de acuerdo al requisitado del formato RESE-4, la dependencia o entidad determine que el monto calculado de su reserva transitoria de obra pública es cero, no estará obligada a presentar posteriormente el formato RESE-6.
+México, D.F., a 15 de diciembre de 2000.- El Secretario Ejecutivo de la Comisión Federal de Competencia, Luis A. Prado Robles.- Rúbrica.
 
 ### CAPITULO IV. DE LA DETERMINACION Y APLICACION DEL CONTENIDO NACIONAL EN LOS PROCEDIMIENTOS DE CONTRATACION DE OBRAS PUBLICAS
 
@@ -570,17 +636,169 @@ II.- Para propósitos de determinar el carácter esencial de un bien de conformi
 
 Para propósitos de la aplicación del artículo cuarto, sólo los materiales nacionales y extranjeros que estén clasificados en las disposiciones arancelarias a partir de las cuales no está permitido el cambio arancelario en la regla dispuesta para el bien en el Anexo de Reglas Específicas, se tomarán en consideración al determinar las partes o materiales que confieren el carácter esencial del bien.
 
-###### ARTÍCULO 1.
+###### Artículo 1
 
-Se crean y modifican diversos aranceles de la Tarifa de la Ley del Impuesto General de Importación, en los términos siguientes:
+Objetivos
 
-(VEASE ARCHIVO ANEXO)
+1. Las Partes se comprometen a aplicar sus respectivas leyes en materia de competencia de modo que se evite que los beneficios de la decisión sean disminuidos o anulados por actividades anticompetitivas.
 
-###### ARTÍCULO 2.
+2. Los objetivos de este mecanismo son:
 
-Se adicionan al Apéndice del Decreto que establece la tasa aplicable para 2000 del Impuesto General de Importación para las mercancías originarias de América del Norte, Colombia, Venezuela, Costa Rica, Bolivia, Chile y Nicaragua publicado en el Diario Oficial de la Federación el 31 de diciembre de 1999, únicamente las fracciones arancelarias siguientes:
+(a) promover la cooperación y coordinación entre las Partes en relación con la aplicación de sus leyes de competencia en sus respectivos territorios y proveerse asistencia mutua en cualquier campo de la competencia que consideren necesario;
 
-(VEASE ARCHIVO ANEXO)
+(b) eliminar actividades anticompetitivas por medio de la aplicación de la legislación apropiada, con el fin de evitar efectos negativos sobre el comercio y el desarrollo económico, así como los posibles efectos adversos que esas restricciones puedan tener para los intereses de la otra Parte, y
+
+(c) promover la cooperación a fin de aclarar cualquier diferencia en la aplicación de sus respectivas leyes de competencia.
+
+3. Con el fin de prevenir distorsiones o restricciones a la competencia, que puedan afectar el comercio entre México y la Comunidad, las Partes prestarán particular atención a los siguientes aspectos al implementar este mecanismo:
+
+(a) para la Comunidad: los acuerdos entre empresas, las decisiones para formar una asociación entre empresas y las prácticas concertadas entre empresas, el abuso de una posición dominante y las concentraciones, y
+
+(b) para México: las prácticas monopólicas absolutas o relativas y las concentraciones.
+
+###### Artículo 2
+
+Definiciones
+
+Para efectos de este anexo:
+
+(a) leyes de competencia incluye: (i) respecto de la Comunidad, los artículos 81, 82, 85 y 86 del Tratado Constitutivo de la Comunidad Europea, el Reglamento del Consejo (CEE) No. 4064/89 sobre el control de las operaciones de concentración entre empresas, los artículos 65 y 66 del Tratado Constitutivo de la Comunidad Europea del Carbón y del Acero (CECA) y los reglamentos para su aplicación, incluida la Decisión de Alta Autoridad No. 24/54; (ii) respecto de México, la Ley Federal de Competencia Económica del 24 de diciembre de 1992, el Reglamento Interior de la Comisión Federal de Competencia del 25 de agosto de 1998 y el Reglamento de la Ley Federal de Competencia Económica del 4 de marzo de 1998; y (iii) cualquier reforma que las leyes antes mencionadas puedan sufrir; y (iv) puede también incluir legislación adicional, en la medida que pueda tener efectos a la competencia en los términos de este mecanismo;
+
+(b) autoridad de competencia significa: (i) para la Comunidad Europea, la Comisión de las Comunidades Europeas; y (ii) para México, la Comisión Federal de Competencia.
+
+(c) actividades de aplicación de la ley significa: cualquier acción a aplicar las leyes de competencia mediante investigaciones o procedimientos efectuados por las autoridades de competencia de una Parte, que pueda resultar en sanciones o medidas correctivas, y
+
+(d) actividades anticompetitivas y conductas o prácticas que restringen la competencia significa: cualquier conducta, operación o acto, según lo definan las leyes de competencia de una Parte, sujetos a sanciones y medidas correctivas.
+
+###### Artículo 3
+
+Notificación
+
+1. Cada autoridad de competencia notificará a la autoridad de competencia de la otra Parte una actividad de aplicación de la ley si:
+
+(a) es pertinente para las actividades de aplicación de la ley de la otra Parte;
+
+(b) puede afectar intereses importantes de la otra Parte;
+
+(c) se refiere a restricciones a la competencia que puedan afectar el territorio de la otra Parte, y
+
+(d) puede llevar a adoptar decisiones que condicionen o prohíban acciones en el territorio de la otra Parte.
+
+2. En la medida de lo posible, siempre que no sea contrario a las leyes de competencia de las Partes y no afecte adversamente a una investigación que se esté llevando a cabo, la notificación se realizará durante la fase inicial del procedimiento, a fin de permitir que la autoridad de competencia notificada manifieste su opinión. Las opiniones recibidas podrán ser tomadas en consideración por la autoridad de competencia de la otra Parte en su toma de decisiones.
+
+3. La notificación prevista en el párrafo 1 será lo suficientemente detallada, para permitir una evaluación a la luz de los intereses de la otra Parte. Las notificaciones incluirán, entre otra, la información siguiente:
+
+(a) una descripción de los efectos restrictivos de la transacción en la competencia y el fundamento legal aplicable;
+
+(b) el mercado relevante del producto o servicio y su ámbito geográfico, las características del sector económico implicado y los datos de los agentes económicos involucrados en la transacción, y
+
+(c) los plazos estimados de resolución, en los casos en que el procedimiento haya sido iniciado y, en la medida de lo posible, una indicación sobre el posible resultado así como las medidas que puedan ser adoptadas o contempladas.
+
+4. Considerando lo dispuesto en el párrafo 1, cada autoridad de competencia notificará a la autoridad de competencia de la otra Parte, tan pronto como sea posible, la existencia de medidas distintas a las actividades de aplicación de sus leyes, que puedan afectar los intereses importantes de la otra Parte.
+
+En particular, lo harán en los casos siguientes:
+
+(a) procedimientos administrativos o judiciales, y
+
+(b) medidas adoptadas por otras dependencias del gobierno, incluidas órganos reguladores existentes o futuros, que puedan tener un impacto en la competencia en sectores sujetos a una regulación específica.
+
+###### Artículo 4
+
+Intercambio de información
+
+1. Con miras a facilitar la aplicación efectiva de sus leyes de competencia y promover un mejor entendimiento de sus respectivos marcos jurídicos, las autoridades de competencia intercambiarán la información siguiente:
+
+(a) en la medida que sea factible, textos de doctrina jurídica, jurisprudencia o estudios públicos de mercado o, a falta de tales documentos, datos o resúmenes no confidenciales;
+
+(b) información relacionada con la aplicación de la legislación de competencia, siempre que no afecte adversamente a la persona que suministre tal información y con el único propósito de ayudar a resolver el procedimiento, y
+
+(c) información sobre cualquier actividad anticompetitiva de que se tenga conocimiento, así como sobre cualesquier reformas a sus respectivos sistemas jurídicos con el propósito de mejorar la aplicación de sus leyes de competencia.
+
+2. Si las circunstancias lo requieren, las autoridades de competencia se ayudarán para recopilar otro tipo de información en sus respetivos territorios.
+
+3. Los representantes de las autoridades de competencia efectuarán reuniones con el fin de promover el conocimiento de sus respectivas leyes y políticas de competencia, y para evaluar los resultados del mecanismo de cooperación. Podrán reunirse informalmente, así como en reuniones institucionales en el contexto multilateral, cuando las circunstancias lo permitan.
+
+###### Artículo 5
+
+Coordinación de las actividades de aplicación de la ley
+
+1. Una autoridad de competencia podrá notificar su disposición para coordinar actividades de aplicación de la ley relativas a un caso específico. Esta coordinación no impedirá que las Partes tomen decisiones autónomas.
+
+2. Al determinar el alcance de la coordinación, las Partes considerarán:
+
+(a) los resultados efectivos que la coordinación produciría;
+
+(b) la información adicional a ser obtenida;
+
+(c) la reducción en los costos para las autoridades de competencia y los agentes involucrados, y
+
+(d) los términos aplicables de acuerdo con sus respectivas legislaciones.
+
+###### Artículo 6
+
+Consultas cuando intereses importantes de una de las Partes se vean afectados adversamente en el territorio de la otra Parte
+
+1. Cuando una autoridad de competencia considere que una investigación o un procedimiento que la otra autoridad de competencia de la otra Parte lleve a cabo pueda afectar sus intereses importantes enviará su opinión sobre el asunto a la otra autoridad de competencia o le solicitará consultas. Sin perjuicio de continuar con cualquier acción conforme a su ley de competencia y a su total autonomía en cuanto a la resolución final, la autoridad de competencia receptora de la solicitud mencionada debería considerar de manera plena y favorable las opiniones de la autoridad de competencia solicitante y, en particular, a cualquier sugerencia sobre un medio alternativo para cumplir con sus necesidades o lograr los objetivos de la investigación o procedimientos en materia de competencia.
+
+2. Cuando una autoridad de competencia de una Parte considere que una o más empresas situadas en la otra Parte están o han estado incurriendo en prácticas anticompetitivas, cualquiera que sea su origen, que puedan afectar de manera sustancial y adversa a los intereses de la primera, podrá solicitar consultas a la otra autoridad de competencia, reconociendo que la celebración de esas consultas es sin perjuicio de cualquier acción que pueda tomar conforme a su ley de competencia y de la total libertad de la autoridad de competencia respectiva para tomar la decisión final. La autoridad de competencia receptora debería considerar plena y favorablemente las opiniones y el sustento fáctico presentados por la autoridad de competencia solicitante y, en particular, la naturaleza de las prácticas anticompetitivas en cuestión, las empresas involucradas y los supuestos efectos perjudiciales sobre los intereses de la autoridad investigadora solicitante.
+
+###### Artículo 7
+
+Prevención de conflictos
+
+1. Cuando sea posible y de conformidad con su legislación, cada Parte tomará en consideración los intereses importantes de la otra Parte en el curso de actividades de aplicación de la ley.
+
+2. Cuando resulten efectos adversos para una Parte, aun cuando se haya respetado las consideraciones referidas en el párrafo anterior, las autoridades de competencia buscarán una solución mutuamente aceptable. Para estos efectos podrá considerarse:
+
+(a) la importancia de la medida y los efectos que tenga sobre los intereses de una Parte, comparándolos con los beneficios que la otra Parte pueda obtener;
+
+(b) la presencia o ausencia de la intención de afectar a los consumidores, proveedores o competidores en las acciones de los agentes económicos implicados;
+
+(c) el grado de incompatibilidad entre la legislación de una Parte y las medidas que la otra Parte vaya a adoptar;
+
+(d) si los agentes económicos implicados serán sometidos a requerimientos incompatibles por ambas Partes;
+
+(e) el inicio del procedimiento o la imposición de sanciones o medidas correctivas;
+
+(f) la ubicación de los activos de los agentes económicos implicados, y
+
+(g) la importancia de la sanción a ser impuesta en el territorio de la otra Parte.
+
+###### Artículo 8
+
+Confidencialidad
+
+El intercambio de información estará sujeto a las normas de confidencialidad aplicables en cada Parte. No podrá ser suministrada sin el expreso consentimiento de quien la suministra, la información confidencial cuya divulgación esté expresamente prohibida o que, de divulgarse, pudiere afectar adversamente a las Partes. Cada autoridad de competencia mantendrá la confidencialidad de cualquier información que la otra autoridad de competencia le suministre en confidencia conforme a este mecanismo, y se opondrá a cualquier solicitud para revelar esa información, de una tercera parte no autorizada por la autoridad de competencia que la suministró.
+
+###### Artículo 9
+
+Cooperación técnica
+
+1. Las Partes se prestarán asistencia técnica mutua, a fin de aprovechar sus experiencias y reforzar la implementación de sus políticas y leyes de competencia.
+
+2. La cooperación incluirá las siguientes actividades:
+
+(a) capacitación para funcionarios de las autoridades de competencia de ambas Partes, a fin de permitirles ampliar su experiencia práctica;
+
+(b) seminarios, en particular para funcionarios del servicio civil.
+
+3. Con el fin de promover su desarrollo, las Partes podrán realizar estudios conjuntos sobre competencia o políticas y leyes de competencia.
+
+4. Las Partes reconocen que los avances en los sistemas de comunicación y de computación son pertinentes a las actividades que desean desarrollar y que deberían ser utilizados para fomentar la comunicación y facilitar el acceso a la información sobre políticas de competencia, tanto como sea posible. A tal fin, buscarán:
+
+(a) ampliar sus páginas en internet, para suministrar información sobre los desarrollos de sus actividades;
+
+(b) promover la difusión de temas relacionados con estudios sobre competencia a través de publicaciones como el Boletín Latinoamericano de Competencia, la Competition Policy Newsletter de la Dirección General de Competencia de la Comunidad Europea, los informes anuales y la Gaceta de Competencia Económica publicados por la Comisión Federal de Competencia de México, y
+
+(c) desarrollar un archivo electrónico sobre precedentes, relacionados con los casos investigados, que permita la identificación de casos particulares, la naturaleza de la práctica o conducta analizada, su marco jurídico y los resultados y fechas de resolución.
+
+###### Artículo 10
+
+Enmiendas
+
+El Comité Conjunto podrá modificar este anexo.
+
+TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y EL ESTADO DE ISRAEL
 
 ## TRANSITORIOS
 
