@@ -4,7 +4,7 @@ identifier: "FED-ley-para-regular-las-agrupaciones-financieras-180"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1990-07-18"
+last_updated: "1992-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRAF"
 
 LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 1992.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -63,6 +63,10 @@ I. La legislación mercantil;
 II. Los usos y prácticas mercantiles, y
 
 III. El Código Civil para el Distrito Federal.
+
+> <small>(ADICIONADA, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+IV. Código Fiscal de la Federación, para efectos de las notificaciones y del recurso a que se refiere el artículo 27 de esta Ley.
 
 Cada entidad financiera integrante de los grupos se regirá por lo dispuesto en las respectivas leyes que le sean aplicables.
 
@@ -186,23 +190,35 @@ Los estatutos de la controladora, el convenio de responsabilidades mencionado en
 
 Una vez aprobados los documentos citados, se inscribirán en el Registro Público de Comercio sin que sea preciso mandamiento judicial.
 
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 18.
 
-Las acciones emitidas por la controladora en todo tiempo deberán mantenerse en depósito en alguna de las instituciones para el depósito de valores reguladas en la Ley del Mercado de Valores, quien en ningún momento se encontrará obligada a entregarlas a sus titulares. Dichas acciones podrán dividirse en tres series:
+El capital pagado de las sociedades controladoras se integrará por acciones serie "A", que representarán el cincuenta y uno por ciento del capital ordinario de la sociedad.
 
-I. La serie "A", que deberá representar el cincuenta y uno por ciento del capital pagado de la sociedad.
+Asimismo, el cuarenta y nueve por ciento de la parte ordinaria del capital, podrá integrarse indistinta o conjuntamente por acciones series "A", "B" y "C"; la serie "C", sólo podrá emitirse hasta por el treinta por ciento de dicho capital.
 
-Las acciones de esta serie sólo podrán adquirirse por personas físicas mexicanas; por el Fondo Bancario de Protección al Ahorro, así como por el fondo de protección y garantía a que se refiere la Ley del Mercado de Valores;
+El capital pagado también podrá integrarse con una parte adicional, representada por acciones serie "L", que se emitirán hasta por un monto equivalente al treinta por ciento del capital ordinario de la sociedad, previa autorización de la Comisión Nacional de Valores.
 
-II. La serie "B", que podrá representar hasta el cuarenta y nueve por ciento del capital pagado de la sociedad.
+Las acciones de la serie "A" sólo podrán adquirirse por personas físicas mexicanas y sociedades de inversión comunes exclusivas para esas personas; por el Fondo Bancario de Protección al Ahorro, así como por el fondo de protección y garantía a que se refiere la Ley del Mercado de Valores.
 
-Las acciones de esta serie sólo podrán adquirirse por personas señaladas en la fracción anterior; por personas morales mexicanas cuyos estatutos contengan cláusula de exclusión directa e indirecta de extranjeros, así como por inversionistas institucionales de los mencionados en el artículo 19 de esta Ley, y
+Las acciones de la serie "B" sólo podrán adquirirse por las personas señaladas en el párrafo anterior; por personas morales mexicanas cuyos estatutos contengan cláusula de exclusión directa e indirecta de extranjeros, así como por inversionistas institucionales de los mencionados en el artículo 19 de esta Ley.
 
-III. En su caso la serie "C", que podrá representar hasta el treinta por ciento del capital pagado de la sociedad, y sólo se emitirá con autorización de la Secretaría de Hacienda y Crédito Público.
+Las acciones de las series "C" y "L", podrán adquirirse por las personas a que se refiere el párrafo anterior; por las demás personas mexicanas, así como por personas físicas o morales extranjeras.
 
-Las acciones de esta última serie podrán adquirirse por las personas a que se refiere la fracción anterior, por las demás personas morales mexicanas, así como por personas físicas y morales extranjeras.
+En ningún momento podrán participar en forma alguna en el capital de la controladora, personas morales extranjeras que ejerzan funciones de autoridad. Tampoco podrán hacerlo entidades financieras del país, incluso las que formen parte del respectivo grupo, salvo cuando actúen como inversionistas institucionales, en términos del artículo 19 de esta Ley.
 
-En ningún momento podrán participar en forma alguna en el capital de la controladora, directamente o a través de interpósita persona, gobiernos o dependencias oficiales extranjeros. Tampoco podrán hacerlo entidades financieras del país, incluso las que formen parte del respectivo grupo, salvo cuando actúen como inversionistas institucionales, en términos del artículo 19 de esta Ley.
+> <small>(ADICIONADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+###### ARTICULO 18
+
+Bis.- Las acciones serán de igual valor; dentro de cada serie, conferirán a sus tenedores los mismos derechos, y deberán pagarse íntegramente en efectivo en el acto de ser suscritas. Las mencionadas acciones se mantendrán en depósito en alguna de las instituciones para el depósito de valores reguladas en la Ley del Mercado de Valores, quienes en ningún caso se encontrarán obligadas a entregarlas a los titulares.
+
+Las acciones serie "L" serán de voto limitado y otorgarán derecho de voto únicamente en los asuntos relativos a cambio de objeto, fusión, escisión, transformación, disolución y liquidación, así como cancelación de su inscripción en cualesquiera bolsas de valores.
+
+Además, las acciones serie "L" podrán conferir derecho a recibir un dividendo preferente y acumulativo, así como a un dividendo superior al de las acciones representativas del capital ordinario, siempre y cuando así se establezca en los estatutos sociales de la sociedad emisora. En ningún caso los dividendos de esta serie podrán ser inferiores a los de las otras series.
+
+Las sociedades podrán emitir acciones no suscritas, que conservarán en tesorería. Los suscriptores recibirán las constancias respectivas contra el pago total de su valor nominal y de las primas que, en su caso, fije la sociedad.
 
 ###### ARTICULO 19.
 
@@ -220,7 +236,9 @@ Dichos límites también se aplicarán a las personas que la citada Secretaría 
 
 Se exceptúa de lo dispuesto en los párrafos anteriores:
 
-I. A los inversionistas institucionales a que se refiere el artículo anterior, quienes podrán adquirir en lo individual hasta un quince por ciento del capital pagado de la sociedad. Las inversiones que en su caso realicen sociedades de inversión conforme a esta fracción, computarán dentro del límite a que se refiere el último párrafo de dicho artículo;
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+I. A los inversionistas institucionales, siempre y cuando su inversión no exceda en lo individual o en conjunto del quince por ciento del capital pagado de la sociedad emisora, las controladoras deberán establecer mecanismos que permitan el cumplimiento de lo dispuesto en esta fracción. Las inversiones que en su caso realicen sociedades de inversión conforme al último párrafo del artículo anterior, computarán dentro del límite previsto en esta fracción;
 
 II. Al Fondo Bancario de Protección al Ahorro y al fondo de protección y garantía previsto en la Ley del Mercado de Valores;
 
@@ -268,21 +286,27 @@ II. Inmuebles, mobiliario y equipo, estrictamente indispensables para la realiza
 
 III. Valores a cargo del Gobierno Federal, instrumentos de captación bancaria y otras inversiones que autorice la referida Secretaría.
 
-La controladora no podrá contraer pasivos directos o contingentes, ni dar en garantía sus propiedades, salvo en el caso del convenio de responsabilidades a que se refiere el artículo 28 de esta Ley, así como de operaciones con el Fondo Bancario de Protección al Ahorro o con el fondo de protección y garantía previsto en la Ley del Mercado de Valores.
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+La controladora sólo podrá contraer pasivos directos o contingentes, y dar en garantía sus propiedades cuando se trate del convenio de responsabilidades a que se refiere el artículo 28 de esta Ley; de las operaciones con el Fondo Bancario de Protección al Ahorro o con el fondo de protección y garantía previsto en la Ley del Mercado de Valores, y con autorización del Banco de México, tratándose de la emisión de obligaciones subordinadas de conversión forzosa a títulos representativos de su capital y de obtención de créditos a corto plazo, en tanto se realiza la colocación de acciones con motivo de la incorporación o fusión a que se refiere el artículo 10 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+La emisión de obligaciones subordinadas se sujetará a lo dispuesto en el artículo 64 de la Ley de Instituciones de Crédito.
+
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 24.
 
-El consejo de administración estará integrado, a elección de los accionistas de la sociedad, por once o por veintidós consejeros, o por múltiplos de once.
+El consejo de administración estará integrado, a elección de los accionistas de la sociedad, por once consejeros o sus múltiplos.
 
-En el primer caso, los accionistas de la serie "A" designarán a seis consejeros. Los de la serie "B" hasta cinco y, los de la serie "C", por cada diez por ciento del capital pagado correspondiente a esta serie, podrán nombrar a un consejero.
+En el supuesto de que el consejo se integre con once miembros, los accionistas de la serie "A" designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que exceda del cincuenta por ciento del capital pagado ordinario, tendrán derecho a designar un consejero más, y en su caso los de la serie "B" hasta cinco y los de la serie "C", por cada diez por ciento del capital pagado ordinario correspondiente a esta serie, podrán nombrar a un consejero. Los consejeros de la serie "B" deberán disminuirse según corresponda, en caso de que las acciones serie "C" den derecho a nombrar consejeros o que por las acciones serie "A" se designen más de seis consejeros.
 
-En el segundo caso, los accionistas de la serie "A" designarán a doce miembros. Los de la serie "B" hasta diez y, los de la serie "C", por cada cinco por ciento del capital pagado correspondiente a esta serie, podrán nombrar a un consejero.
+Los accionistas de cada una de las citadas series, que representen cuando menos un diez por ciento del capital pagado ordinario de la sociedad, tendrán derecho a designar un consejero de la serie que corresponda. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
 
-Los accionistas de cada una de las series, que representen cuando menos un diez o un cinco por ciento del capital pagado de la controladora, tendrán derecho a designar un consejero de la serie que corresponda, según se trate de consejos de administración integrados por once o por veintidós miembros, respectivamente. Sólo podrá revocare el nombramiento de los consejeros a que se refiere este párrafo, cuando se revoque el de todos los demás de la misma serie.
+En los supuestos de los consejos que se integren por múltiplos de once, así como en los casos previstos en el párrafo anterior y en el artículo 25 fracción II de esta Ley, se deben guardar las proporciones correspondientes conforme a lo dispuesto en este artículo.
 
-En el supuesto de los consejos que se integren por múltiplos de once, así como en los casos previstos en el párrafo anterior y en el artículo 25 fracción II de esta Ley, se deben guardar las proporciones correspondientes conforme a lo dispuesto en este artículo.
-
-El Presidente del consejo deberá elegirse de entre los propietarios de la serie "A". Por cada propietario se nombrará un suplente.
+El Presidente del consejo deberá elegirse de entre los propietarios de la serie "A", y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
 
 ###### ARTICULO 25.
 
@@ -290,9 +314,13 @@ La designación de consejeros deberá recaer en personas con reconocida honorabi
 
 En ningún caso podrán ser consejeros:
 
-I. Los funcionarios y empleados de la controladora y de los demás integrantes del grupo, con excepción del director general de la misma;
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
 
-II. El cónyuge. Las personas que tengan parentesco por consanguinidad o afinidad hasta el segundo grado, o civil, con más de uno o dos consejeros, según se trate de consejos de administración integrados por once o por veintidós miembros, respectivamente.
+I. Los funcionarios y empleados de la controladora y de los demás integrantes del grupo, con excepción de sus directores generales y de los funcionarios que ocupen cargos con las dos jerarquías administrativas inmediatas inferiores, sin que éstos constituyan más de la tercera parte del consejo de administración;
+
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+II. El cónyuge. Las personas que tengan parentesco por consanguinidad o afinidad hasta el segundo grado, o civil, con más de dos consejeros;
 
 III. Quienes tengan litigio pendiente con la controladora o con alguno de los integrantes del grupo;
 
@@ -427,3 +455,23 @@ Dichos accionistas deberán vender los títulos que mantengan en exceso, dentro 
 México, D.F., a 14 de julio de 1990.- Dip. Humberto Roque Villanueva, Presidente.- Sen. Enrique Burgos García.- Presidente.- Dip. Hilda Anderson Nevárez de Rojas, Secretario.- Sen. José Joaquín González Castro, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal a los dieciséis días del mes de julio de mil novecientos noventa.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 9 DE JUNIO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Los inversionistas institucionales que a la entrada en vigor de este Decreto, excedan conjuntamente el porcentaje a que se refiere el artículo 17 fracción II de la Ley de Instituciones de Crédito, podrán conservar su participación accionaria en exceso, no debiendo adquirir en caso alguno nuevas acciones del capital ordinario de la institución emisora, ni aún tratándose de posteriores aumentos de capital, en tanto rebasen el límite permitido.
+
+###### ARTICULO CUARTO.
+
+Los inversionistas institucionales que a la entrada en vigor de este Decreto, excedan conjuntamente el porcentaje a que se refiere el artículo 20 fracción I de la Ley para Regular las Agrupaciones Financieras, podrán conservar su participación accionaria en exceso, no pudiendo adquirir en caso alguno nuevas acciones del capital ordinario de la emisora, ni aún tratándose de posteriores aumentos de capital en tanto rebasen el límite permitido.
