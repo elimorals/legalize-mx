@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2004-09-21"
+last_updated: "2005-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2005.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -561,7 +561,7 @@ IV. Proponer la creación, ampliación y supresión de rutas;
 
 V. Proponer criterios de coordinación para solucionar problemas del transporte entre el Estado y los municipios;
 
-VI. Formular, revisar y aprobar los procedimientos y criterios técnicos para que el Organismo Coordinador de la operación integral del servicio de transporte público del estado calcule las tarifas aplicables al servicio público de transporte en sus distintas modalidades; y
+VI. (DEROGADA, P.O. 24 DE FEBRERO DE 2005)
 
 VII. Formular su reglamento interno.
 
@@ -603,13 +603,25 @@ II. Recibir, estudiar y dictaminar en coordinación con el CEIT, las propuestas 
 
 III. Instrumentar, en coordinación con el CEIT, las normas de calidad para el servicio de transporte público;
 
-IV. Con base en los procedimientos y criterios técnicos aprobados por el Consejo Consultivo de Vialidad Tránsito y Transporte y en coordinación con el CEIT, proponer las tarifas aplicables al servicio público de transporte en sus distintas modalidades, que deberán ser presentadas a la Dependencia del Ejecutivo competente en materia de vialidad, tránsito y transporte, para que a su vez gestione la autorización del Titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2005)</small>
 
-V. Mantener informada a la ciudadanía sobre el uso y alternativas de transporte público a través de elementos visuales, orales e impresos, para optimizar, facilitar y promover el uso del transporte público;
+IV. Convocar a la Comisión de Tarifas cuando considere que debe existir una revisión o modificación a las mismas, y enviarle los informes técnicos y financieros necesarios para que sustente su decisión;
 
-VI. Llevar un registro de los principales indicadores y estadísticas en materia de servicio público de transporte, que permitan informar, apoyar y facilitar la toma de decisiones, con la finalidad de resolver la problemática existente; y
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2005)</small>
 
-VII. Formular su reglamento interno.
+V. Establecer los procedimientos y criterios técnicos y proponer a la Comisión de Tarifas, en base a los mismos, los costos aplicables al servicio público de transporte en sus distintas modalidades, para que a su vez resuelva de conformidad con las disposiciones legales aplicables.
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2005)</small>
+
+VI. Mantener informada a la ciudadanía sobre el uso y alternativas de transporte público a través de elementos visuales, orales e impresos, para optimizar, facilitar y promover el uso del transporte público;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2005)</small>
+
+VII. Llevar un registro de los principales indicadores y estadísticas en materia de servicio público de transporte, que permitan informar, apoyar y facilitar la toma de decisiones, con la finalidad de resolver la problemática existente; y
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2005)</small>
+
+VIII. Formular su reglamento interno.
 
 ###### Artículo 36.
 
@@ -1839,13 +1851,23 @@ La dependencia del Ejecutivo del Estado, competente en materia de vialidad, trá
 
 ### CAPITULO XII. De las tarifas, horarios e itinerarios
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 141.
 
-El Organismo Coordinador, considerando las opiniones y datos proporcionados por el Consejo Consultivo y el CEIT, propondrá al Titular del Poder Ejecutivo, la aprobación, revisión o modificación de las tarifas del servicio público de transporte, a través de su dependencia competente en materia de vialidad, tránsito y transporte, con base en:
+Al proponer la revisión, aprobación o modificación de las tarifas del servicio público de transporte, el Organismo Coordinador procurará que el prestador obtenga una utilidad razonable, tomando como base la relación existente entre los siguientes elementos:
 
-I. Los elementos que conforman el costo administrativo y operativo, que determinen la costeabilidad del servicio, los cuales se tomarán como base para proponer las tarifas aplicables a las distintas modalidades y clases del servicio público del transporte; y
+I.- Financieros, que estarán encaminados a evaluar los cotos para los prestadores del servicio público de transporte y que comprenderán por lo menos:
 
-II. Además se deberán tomar en cuenta, entre otros conceptos, los horarios de prestación del servicio, las tablas de distancias, tipo de piso, clasificación de carga, costos de transporte, problemas de circulación y riesgos de accidentes.
+a) Los elementos que conforman el costo administrativo y operativo, que determinen la costeabilidad del servicio, los cuales se tomarán como base para proponer las tarifas aplicables a las distintas modalidades y clases del servicio público del transporte; y
+
+b) La revisión, entre otros conceptos, de los horarios de prestación del servicio, las tablas de distancias, tipo de piso, clasificación de carga, costos de transporte, problemas de circulación y riegos de accidentes.
+
+II. Técnicos, que estarán encaminados a evaluar la calidad del servicio que reciben los usuarios del servicio público de transporte, deberá comprender por lo menos:
+
+a) La evaluación de la funcionalidad y eficiencia del servicio, considerando la cantidad de usuarios, los horarios de las rutas, el espaciamiento entre unidades y el cumplimiento, tanto de las rutas como de los horarios; y
+
+b) La revisión de la calidad del servicio con base en los lineamientos mínimos impuestos por la Secretaría de Vialidad y Transporte y en los convenios respectivos.
 
 ###### Artículo 142.
 
@@ -1861,7 +1883,51 @@ II. Observar en la aprobación de las tarifas, igual tratamiento para todos los 
 
 III. Que la vigencia de las tarifas será indefinida y éstas sólo se modificarán al entrar en vigor las que se publiquen con posterioridad; y
 
-IV. Una vez aprobadas las tarifas, entrarán en vigor quince días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+IV. (DEROGADA, P.O. 24 DE FEBRERO DE 2005)
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2005)</small>
+
+ARTICULO 143 bis.- La comisión de Tarifas es un órgano auxiliar del Poder Ejecutivo del Estado de Jalisco, que tendrá la facultad, a propuesta del Organismo Coordinador, de revisar, aprobar y modificar las tarifas, para el servicio público de transporte en sus distintas modalidades y se conformará por representantes gubernamentales, sociales, empresariales y prestadores del servicio, con la siguiente integración:
+
+I. El presidente que será el Gobernador del Estado, o la persona que éste designe;
+
+II. El Secretario de Vialidad Tránsito y Transporte o su representante;
+
+III. Los representantes de los municipios de Guadalajara, Zapopán, Tlaquepaque, Tonalá, Tlajomulco de Zúñiga, El Salto, Juanacatlán, Puerto Vallarta, Zapotlán el Grande y Tepatitlán de Morelos.
+
+IV. Los representantes debidamente acreditados de los organismos concesionarios, permisionarios y subrogatarios del servicio de transporte público, debiendo designar por parte del servicio subrogado del SISTECOZOME a tres representantes;
+
+V. El Director del Centro Estatal de Investigación de la Vialidad y el Transporte;
+
+VI. Un representante de la Confederación de Trabajadores de México, CTM;
+
+VII. El representante de la Confederación Revolucionaria de Obreros y Campesinos, CROC;
+
+VIII. El representante de la Cámara Nacional de Comercio de Guadalajara;
+
+IX. El representante del Consejo de Cámaras Industriales de Jalisco;
+
+X. El representante de la Confederación Patronal de la República Mexicana, delegación Jalisco;
+
+XI. El Director del Organismo Coordinador de la Operación Integral del servicio de Transporte Público del Estado; quien participa solamente con derecho a voz y funge como Secretario Técnico;
+
+XII. Un representante de la Federación de Estudiantes Universitarios; y
+
+XIII. Un representante por cada una de las secciones 16 y 47 del SNTE.
+
+El cargo de integrante de la Comisión de Tarifas, es honorífico y por tanto no remunerado y en el caso de los servidores públicos que participan en él, este encargo se entiende inherente a su función pública. Los particulares que participan en la Comisión de Tarifas, carecen de la calidad de servidores públicos.
+
+La Comisión de Tarifas, bajo ninguna circunstancia puede asumir atribuciones que legalmente correspondan a las autoridades del Estado de Jalisco y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2004)</small>
+
+ARTICULO 143 ter.- La Comisión de Tarifas sesionará previa convocatoria por parte del Organismo Coordinador, durante el tiempo necesario para resolver la situación que le sea planteada por el mismo.
+
+La resolución en que se determine la procedencia o no de una modificación a las tarifas, así como el monto de las mismas, deberán basarse en los estudios recibidos del Organismo Coordinador, y en caso de no adoptar su propuesta, deberá fundarse y motivarse la resolución adoptada.
+
+La resolución emitida deberá ser razonada y aprobada de conformidad con los lineamientos establecidos por el artículo 141 de la presente ley, en sesión formal por la mayoría de votos de los participantes. Una vez aprobadas las tarifas deberán ser enviadas al Periódico Oficial "El Estado de Jalisco", para su publicación, entrando en vigor quince días después de la misma.
+
+Las tarifas a que se refiere el párrafo anterior, regirán para todos los prestadores del servicio público de transporte según la modalidad de que se trate.
 
 ###### Artículo 144.
 
@@ -2235,7 +2301,7 @@ VI. Negarse a acatar la medida que ordene retirar a un vehículo de circulación
 
 VII. Conducir un vehículo al que la autoridad de vialidad y tránsito lo haya declarado fuera de circulación;
 
-VIII. Circular con placas ocultas, total o parcialmente; o llevar en la parte exterior del vehículo, además de las placas autorizadas, otras diferentes que contengan numeración o que impidan la visibilidad de aquéllas.;
+VIII. Circular con placas ocultas, total o parcialmente; o llevar en la parte exterior del vehículo, además de las placas autorizadas, otras diferentes que contengan numeración o que impidan la visibilidad de aquéllas;
 
 IX. Estacionarse en lugares reservados para vehículos conducidos por personas con problemas de discapacidad;
 
@@ -2886,3 +2952,9 @@ PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes a 
 SEGUNDO. Dentro de los treinta días que refiere el artículo anterior, el Poder Ejecutivo implementará una campaña de concientización ciudadana.
 
 TERCERO. El titular del Poder Ejecutivo, en un plazo no mayor a 90 días naturales, deberá realizar las adecuaciones necesarias al Reglamento de la Ley para los Servicios de Vialidad, Tránsito y Transporte, derivadas de las disposiciones del presente decreto.
+
+P.O. 24 DE FEBRERO DE 2005.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en este decreto.
