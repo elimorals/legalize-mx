@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "1995-05-06"
+last_updated: "1995-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1995.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -321,7 +321,11 @@ VII.- El Estado, subsidiariamente, por sus funcionarios y empleados.
 
 Si el daño produce incapacidad total o parcial, permanente o temporal, el monto de la indemnización se fijará de acuerdo con las tablas que para esta clase de incapacidades establece la Ley Federal del Trabajo, siendo aplicable en lo conducente lo dispuesto en el párrafo anterior.
 
-35.- La reparación del daño en los casos estupro o violación, comprenderá el pago de todo tipo de gastos derivados de tratamientos médicos que requiera el ofendido, así como alimentos a la mujer o al hijo, si lo hubiere. Este último concepto se pagará en la forma y términos que el Código Civil fija para los casos de divorcio.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1995)</small>
+
+35.- La reparación del daño en los casos de los delitos comprendidos en el Título Décimo Segundo de este Código, comprenderá el pago de todo tipo de gastos derivados de tratamientos médicos y psicológicos que requiera el ofendido, por todo el tiempo que éstos sean necesarios a juicio de peritos.
+
+Cuando a consecuencia de la comisión de los delitos de estupro o violación resulten hijos, la reparación del daño comprenderá además, el pago de alimentos para éstos y para la madre, sin que por este concepto el obligado adquiera ningún derecho sobre los mismos. Este último concepto se pagará en la forma y términos que establece el Código Familiar.
 
 ### CAPITULO VI. DECOMISO DE LOS INSTRUMENTOS Y PRODUCTOS DEL DELITO
 
@@ -1379,7 +1383,7 @@ IV.- Al que por cualquier medio manifieste ante la autoridad una nacionalidad fa
 
 I.- Al que, sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal;
 
-II.- Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 5º. Constitucional:
+II.- Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 5º, Constitucional:
 
 a) Se atribuya el carácter de profesionista;
 
@@ -1403,41 +1407,99 @@ e) Con objeto de lucrar, se asocie a profesionistas legalmente autorizados con f
 
 Las disposiciones contenidas en este Título, no se aplicarán sino en lo que no esté previsto en las leyes especiales y no se oponga a lo establecido en ellas.
 
-## TITULO DECIMO SEGUNDO. DELITOS SEXUALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 1995)</small>
 
-### CAPITULO I. ATENTADOS AL PUDOR
+## TITULO DECIMO SEGUNDO. DELITOS CONTRA LA LIBERTAD SEXUAL E INTEGRIDAD DE LAS PERSONAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 1995)</small>
 
-231.- Al que sin consentimiento de una persona púber o impúber, o con consentimiento de ésta última, o de persona que por cualquier causa no pudiere resistir, ejecute en ella un acto erótico, sin el propósito directo o inmediato de llegar a la cópula, se le impondrá sanción tres meses a seis meses de prisión y multa de tres a cinco cuotas.
+### CAPITULO I. ATENTADOS A LA INTEGRIDAD DE LAS PERSONAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 1995)</small>
+
+231.- A quien sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual o la obligue a ejecutarlo, se le impondrá pena de tres meses a dos años de prisión y multa de tres a veinticinco cuotas.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 1994)</small>
 
 Si se hiciere uso de la violencia física o moral, la sanción será de tres meses a dos años de prisión y multa de cinco a diez cuotas. Existe la presunción legal de que la violencia fue el medio utilizado para la comisión del delito, cuando la víctima tuviere menos de doce años cumplidos.
 
-232.- Los atentados al pudor se sancionarán a petición del ofendido o de sus representantes.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1995)</small>
 
-### CAPITULO II. ESTUPRO
+232.- A quien sin el propósito de llegar a la cópula, ejecute un acto sexual en persona menor de doce años de edad o en persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, o la obligue a ejecutarlo, se le aplicará una pena de seis meses a tres años de prisión y multa de seis a treinta cuotas.
 
-233.- Al que tenga cópula con mujer púber, casta y honesta y menor de dieciocho años, obteniendo su consentimiento por medio de la seducción o del engaño, se le impondrán de tres meses a tres años de prisión y multa de una a diez cuotas. La castidad, la honestidad y la seducción o el engaño se presumen, salvo prueba en contrario.
+Si se hiciere uso de la violencia física o moral, la pena será de uno a cuatro años de prisión y multa de ocho a cuarenta cuotas.
 
-234.- No se procederá contra el estuprador sino por queja de la mujer ofendida o de sus padres, o a falta de éstos, de sus representantes legítimos; pero cuando el delincuente se case con la mujer ofendida, cesarán toda acción para perseguirlo y las sanciones impuestas, salvo que se declare nulo el matrimonio.
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 1995)</small>
 
-### CAPITULO III. VIOLACION
+232-Bis.- Los atentados a la integridad de la persona, se sancionarán a petición del ofendido o de sus representantes.
 
-235.- Se sancionará con prisión de tres a diez años y multa de diez a cincuenta cuotas a quien por medio de la violencia física o moral tenga cópula con una persona, cualquiera que sea su sexo.
+En el caso de los dos anteriores artículos, no se procederá contra el sujeto activo, sino por queja de la persona ofendida o de sus representantes.
 
-236.- Se sancionará como violación al que tenga cópula con persona impúber o con persona privada de razón o de sentido, o cuando por enfermedad o por cualquier causa no pudiera resistir.
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 1995)</small>
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 1994)</small>
+### CAPITULO II. HOSTIGAMIENTO SEXUAL
 
-Si la persona impúber fuera menor de doce años, la sanción será de cinco a veinte años de prisión y multa de diez a sesenta cuotas.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1995)</small>
 
-La sanción prevista en el párrafo anterior se aplicará también en los casos de violación de un ascendiente a su descendiente o de éste a aquél.
+233.- A quien con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá pena de dos meses a un año de prisión y multa de tres a ocho cuotas.
 
-La violación de un hermano a su hermana o hermano; del padrastro a la hijastra o hijastro y la ejecutada por éste a su madrastra, o entre ascendientes y descendientes adoptivos, se sancionará con prisión de tres a nueve años y multa de diez a cincuenta cuotas.
+En el caso de que fuere Servidor Público, además se le destituirá de su cargo.
 
-237.- Cuando en una violación intervengan tres o más personas aún cuando solo una de ellas efectúe la cópula, se aplicarán a todas ellas de cinco a veinticinco años de prisión y multa de diez a cincuenta cuotas, según las circunstancias a que se refieren los párrafos anteriores.
+Si el ofendido es persona menor de dieciséis años la pena se duplicará.
+
+Sólo se procederá en contra del sujeto activo a petición de parte ofendida o de su legítimo representante y dentro de los seis meses siguientes de producido el daño o perjuicio.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 1995)</small>
+
+### CAPITULO III. ESTUPRO
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1995)</small>
+
+234.- A quien tenga cópula con mujer mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio de engaño, se le aplicará de tres meses a tres años de prisión y multa de una a diez cuotas. Si la mujer fuere de mayor edad que el sujeto activo del delito, la pena será de dos meses a dos años de prisión.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1995)</small>
+
+235.- En el caso del artículo anterior, no se procederá contra el sujeto activo, sino por querella del ofendido o sus representantes legales.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 1995)</small>
+
+### CAPITULO IV. VIOLACION
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1995)</small>
+
+236.- Se sancionará con prisión de cuatro a diez años y multa de diez a cincuenta cuotas a quien, por medio de la violencia física o moral, tenga cópula con una persona, cualquiera que sea su sexo.
+
+Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima, por vía vaginal, anal u oral, independientemente de su sexo.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1995)</small>
+
+237.- Se equiparará a la violación y se sancionará con la misma pena:
+
+I.- Al que sin violencia realice cópula con persona menor de doce años de edad, en este caso, la sanción será de cinco a veinte años de prisión y multa de diez hasta sesenta cuotas.
+
+II.- Al que sin violencia realice cópula con persona que no tenga la capacidad de comprender el significado del hecho, o que por cualquier causa no pueda resistirlo. Se aplicará la misma sanción que señala la fracción I de este artículo.
+
+Si se ejerciera violencia física o moral, a la pena impuesta se aumentarán hasta dos años.
+
+III.- Al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido, se le impondrá una pena de cuatro a diez años de prisión y multa de cinco a treinta cuotas, independientemente del delito de lesiones que pudieran resultar.
+
+Para los efectos de los delitos de violación y los equiparables a la violación contemplados en los artículos 236 y 237, no gozarán del beneficio de la libertad provisional bajo caución.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 1995)</small>
+
+### CAPITULO V. REGLAS COMUNES PARA ATENTADOS A LA INTEGRIDAD PERSONAL Y VIOLACION
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 1995)</small>
+
+237 Bis.- Las penas y multas previstas para los atentados a la integridad personal y la violación se aumentarán en una mitad en su mínimo y máximo, cuando:
+
+I.- El delito fuere cometido con intervención directa o inmediata de dos o más personas;
+
+II.- El delito fuere cometido por un ascendiente contra su descendiente, éste contra aquél, entre ascendientes y descendientes adoptivos, el hermano contra su colateral, el tutor contra su pupilo, o por el padrastro o amasio de la madre en contra del hijastro o hijastra. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que la ejerciere legalmente sobre la víctima.
+
+III.- El delito fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión utilizando los medios o circunstancias que ellos le proporcionen; además de la pena de prisión, el condenado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión; y
+
+IV.- El delito fuere cometido por la persona que tiene el ofendido bajo su custodia, guarda o educación, o aproveche la confianza en él depositada.
 
 ### CAPITULO I. DE LA SUPOSICION Y SUPRESION DEL ESTADO CIVIL
 
@@ -1475,6 +1537,8 @@ A los testigos y a las personas que intervengan en la celebración del nuevo mat
 
 245.- El término para la prescripción de la acción penal por bigamia, empezará a correr desde que uno de los dos matrimonios haya quedado disuelto por la muerte de alguno de los cónyuges, o desde que el segundo haya sido declarado nulo por la causal de bigamia.
 
+## TITULO DECIMO TERCERO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
+
 ### CAPITULO V. INCESTO
 
 246.- Se impondrán sanciones de dos a ocho años de prisión y multa de cinco a veinte cuotas a los ascendientes que tengan relaciones sexuales con sus descendientes, cuando exista la anuencia de ambos. La sanción aplicable a los descendientes será de uno a cuatro años de prisión y multa de tres a diez cuotas.
@@ -1498,8 +1562,6 @@ Tampoco se procederá contra el adúltero que ignore la relación conyugal del o
 249.- Sólo se sancionará el adulterio consumado.
 
 250.- Cuando el ofendido perdone a uno de los responsables cesará todo procedimiento contra ambos, si no se ha dictado sentencia; y si ésta ya se dictó no producirá efecto alguno.
-
-## TITULO DECIMO TERCERO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
 
 ### CAPITULO VII. ABANDONO DE FAMILIARES
 
@@ -1571,6 +1633,8 @@ IV.- Realizar en forma directa o encubierta una campaña de difamación.
 
 262.- Se impondrá de seis meses a dos años de prisión y multa de una a tres cuotas al que, sin motivo justificado, se introduzca o permanezca furtivamente o con engaños, o violencia, o sin permiso de la persona autorizada para darlo, a un departamento, vivienda, aposento o dependencia de una casa habitada.
 
+## TITULO DECIMO CUARTO
+
 ### CAPITULO III. ASALTO
 
 263.- Al que en despoblado o en paraje solitario haga uso de violencia sobre una persona con el propósito de causar un mal, obtener un lucro o beneficio o de exigir su asentimiento para cualquier fin, y cualesquiera que sean los medios y el grado de violencia que se emplee, independientemente de cualquier hecho delictuoso que resulte cometido, se le aplicará prisión de dos a seis años y multa de diez a treinta cuotas. El asalto a que se refiere este artículo dará lugar a la sanción anterior aun cuando se ignore el propósito que llevó al asaltante a ejecutar el delito.
@@ -1606,8 +1670,6 @@ III.- Cuando la detención se haga en camino público o en paraje solitario; y
 IV.- Cuando los plagiarios obren en grupo o banda.
 
 267.- Si el plagiario pone en libertad a la persona secuestrada, espontáneamente, antes de tres días y sin causarle perjuicio alguno, sólo se aplicarán las sanciones que señala el artículo 265.
-
-## TITULO DECIMO CUARTO
 
 ### CAPITULO V. RAPTO
 
@@ -1765,6 +1827,8 @@ III.- Cuando sean varias las lesiones, unas mortales y otras no y se ignore quie
 
 299.- Al responsable de homicidio calificado se le impondrán de dieciséis a treinta años de prisión y multa de veinte a sesenta cuotas.
 
+## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
+
 ### CAPITULO III. REGLAS COMUNES PARA LOS DELITOS DE LESIONES Y HOMICIDIO
 
 300.- La riña es la contienda de obra con propósito de dañarse recíprocamente.
@@ -1805,17 +1869,15 @@ I.- Declarar a los reos sujetos a la vigilancia de la policía; y
 
 II.- Prohibirles ir a determinado lugar, municipio o distrito del Estado, o residir en él.
 
+## TITULO DECIMO SEXTO. DELITOS CONTRA EL HONOR
+
 ### CAPITULO IV. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
 
 304.- Se impondrá prisión de tres meses a dos años y multa de cinco a quince cuotas, al que dispare sobre alguna persona un arma de fuego, o la ataque de tal manera que, en razón del arma empleada, de la fuerza o destreza del agresor o de cualquiera otra circunstancia semejante, pueda producir como resultado del disparo o del ataque, la muerte. Si con uno u otro se causa algún daño, se aplicarán las sanciones correspondientes a éste.
 
-## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
-
 ### CAPITULO V. INSTIGACION O AYUDA AL SUICIDIO
 
 305.- Al que instigue o ayude a otro al suicidio, se le impondrá sanción de tres a diez años de prisión si el suicidio se consuma. Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la prisión será de cinco a doce años. Si el suicidio no se lleva a efecto, pero su intento produce lesiones, la sanción será de tres meses a tres años. En todos los casos de este artículo se impondrá multa de cinco a quince cuotas.
-
-## TITULO DECIMO SEXTO. DELITOS CONTRA EL HONOR
 
 ### CAPITULO VI. PARRICIDIO
 
@@ -1945,6 +2007,8 @@ Si además de las personas a que se refiere el párrafo anterior tuviere interve
 
 329.- Si precediere, acompañare o siguiere al robo algún otro hecho que por sí solo constituya un delito, se aplicarán las reglas del concurso.
 
+## TITULO DECIMO OCTAVO. DELITOS CONTRA EL PATRIMONIO
+
 ### CAPITULO II. ABIGEATO
 
 330.- Al que se apodera de una o más cabezas de ganado ajeno cualquiera que sea su especie, sin consentimiento de quien legalmente pueda disponer de ellas, independientemente del lugar en que se encuentren y de que formen o no hato, se le impondrá prisión de dos a doce años y multa de diez hasta cincuenta cuotas, si el valor del ganado robado es mayor de ciento sesenta cuotas. Si el valor es menor de esta cantidad, la sanción será de hasta la mitad de la anteriormente señalada.
@@ -1992,8 +2056,6 @@ III.- El hecho de que una persona haga aparecer como suyo el depósito que garan
 337.- Se aplicarán las mismas sanciones del abuso de confianza a quien requerido formalmente, retenga la cosa que estuviere obligado a entregar si la hubiere recibido por un título gratuito o precario que produzca la obligación de entregar o devolver, o cuando la cosa debe entregarse a resultas de una resolución firme de autoridad competente.
 
 338.- El delito previsto en este capítulo solamente se perseguirá a petición de parte ofendida, siendo aplicables en lo conducente los artículos 325 y 329 de este Código.
-
-## TITULO DECIMO OCTAVO. DELITOS CONTRA EL PATRIMONIO
 
 ### CAPITULO IV. FRAUDE
 
@@ -2269,6 +2331,8 @@ Se entenderá que el inculpado queda a disposición del juzgador, para los efect
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
+## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA PUBLICA Y CONTRA EL TRABAJO Y LA PREVISION SOCIAL
+
 ### CAPITULO III. DETENCION Y PRISION PREVENTIVA ILEGITIMA
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
@@ -2292,8 +2356,6 @@ IV.- Demore injustificadamente el incumplimiento de la resolución de autoridad 
 368.- Se aplicará prisión de tres meses a tres años y multa de cincuenta a cien cuotas al servidor público que no dicte según el caso y dentro del término legal auto de formal prisión, de sujeción a proceso o de no sujeción a proceso con efectos de libertad.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
-## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA PUBLICA Y CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
 ### CAPITULO V. PERVERTIMIENTO DE LA FUNCION PERSECUTORIA Y JUDICIAL
 
@@ -2469,6 +2531,8 @@ V.- Sustraiga, destruya, oculte, altere algún expediente, paquete electoral u o
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
 
+## TITULO VIGESIMO
+
 ### CAPITULO QUINTO. DE LOS DIRIGENTES PARTIDISTAS
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 1995)</small>
@@ -2519,7 +2583,9 @@ III.- Propale noticias falsas en torno al desarrollo de la jornada electoral o r
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
-## TITULO VIGESIMO
+## TITULO VIGESIMO PRIMERO. DELITOS CONTRA LA FUNCION PERSECUTORIA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO SEPTIMO. DE LOS ENCUESTADORES
 
@@ -2563,10 +2629,6 @@ V.- Condicione la prestación de un servicio público, el cumplimiento de progra
 
 VI.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, tales como: vehículos, inmuebles y equipos, al apoyo de un partido político o candidato, sin perjuicio de las penas que puedan corresponder por delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo a sus labores para que éstos presten servicio a un partido político o candidato. En la comisión de este delito no habrá el beneficio de la libertad provisional.
 
-## TITULO VIGESIMO PRIMERO. DELITOS CONTRA LA FUNCION PERSECUTORIA
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
 ## TITULO VIGESIMO SEGUNDO. DELITOS CONTRA LAS GARANTIAS RECTORAS DEL JUICIO PENAL
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
@@ -2601,7 +2663,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 30 DE DICIEMBRE DE 1989.
 
-DECRETO NUM. 83
+DECRETO No. 83
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
@@ -2613,7 +2675,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 10 DE JULIO DE 1993.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
 
@@ -2632,3 +2694,13 @@ P.O. 6 DE MAYO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor a los treinta días de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo dispuesto en las presentes reformas.
