@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1998-05-31"
+last_updated: "1999-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE NOVIEMBRE DE 1999.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -179,7 +179,7 @@ IV.- Los contribuyentes que paguen el Impuesto Predial del ejercicio, en una sol
 
 El pago por anticipado del Impuesto Predial del ejercicio no impide el cobro de diferencias que deba hacer la oficina Recaudadora correspondiente, por cambio de las bases gravables o alteraciones de las cuotas del Impuesto.
 
-V.- La cuota del impuesto sobre el valor más alto entre el catastral, el de adquisición, el declarado por el causante y el de avalúo pericial, entrará en vigor a partir del bimestre siguiente al de aquel en que ocurra el hecho o circunstancia que de lugar a la práctica del avalúo conforme al Código Fiscal y Ley de Catastro; sin perjuicio de que si tal hecho o circunstancia ocurre en el caso de predios, construcciones, los llenos de las fincas rústicas y ejidales y los terrenos inexactamente clasificados por los que no se hubiese cubierto el impuesto, la dependencia correspondiente determinará el gravamen en cantidad líquida y lo haga efectivo respecto de los cinco años anteriores, conforme a las disposiciones legales vigentes de ese entonces.
+V.- (DEROGADA, B.O. 30 DE NOVIEMBRE DE 1999)
 
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -2141,13 +2141,13 @@ El incumplimiento del Artículo 110, será acrredor (sic) a una sanción de 3 a 
 
 (DEROGADO, B.O. 31 DE MAYO DE 1998)
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE MAYO DE 1998)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 112.
 
 Los giros que no estén inscritos en el padrón correspondiente o por los que no se hubiera obtenido licencia para su funcionamiento y operen infringiendo los términos de la licencia concedida, serán clausurados por las autoridades fiscales sin perjuicio de las sanciones correspondientes.
 
-### CAPITULO PRIMERO
+### CAPITULO TERCERO
 
 ###### ARTICULO 106-G.
 
@@ -2157,7 +2157,7 @@ Los giros que no estén inscritos en el padrón correspondiente o por los que no
 
 (DEROGADO, B.O. 31 DE MAYO DE 1998)
 
-DISPOSICIONES GENERALES.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 113.
 
@@ -2225,7 +2225,7 @@ Todas las liquidaciones de créditos fiscales se elevarán a múltiples de $ 1.0
 
 El Tesorero Municipal tendrá todas las facultades para requerir a los contribuyentes el cumplimiento de los créditos y obligaciones fiscales, aplicar el procedimiento económico coactivo e imponer sanciones y todas las atribuciones que para el Secretario de Finanzas del Gobierno del Estado establece el Código Fiscal para el Estado y Municipios de Baja California Sur y demás Leyes tributarias.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 124.
 
@@ -2275,11 +2275,11 @@ Los recargos y gastos de ejecución originados por la falta de pago de un crédi
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
-## TITULO SEXTO
+## TITULO SEPTIMO
 
-DE LAS REDUCCIONES PARA PENSIONADOS Y JUBILADOS.
+DE LOS ESTIMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSION PRODUCTIVA Y LA GENERACION DE EMPLEOS.
 
-T R A N S I T O R I O S :
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 129.
 
@@ -2315,25 +2315,25 @@ Para efectos de lo dispuesto en este Capítulo, se considerarán sujetos benefic
 
 Las Tesorerías Municipales expedirán los Certificados de Promoción Fiscal donde se especificarán los estímulos fiscales de que gozarán los sujetos beneficiarios, de conformidad a la resolución que emita la Comisión Dictaminadora a que refiere la Ley de Fomento Económico del Estado.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
+T R A N S I T O R I O S :
 
 ## TITULO QUINTO BIS.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE MAYO DE 1998)</small>
 
-### CAPITULO TERCERO
+### CAPITULO PRIMERO
 
 ###### ARTICULO 106-A.
 
 (DEROGADO, B.O. 31 DE MAYO DE 1998)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE MAYO DE 1998)</small>
+DISPOSICIONES GENERALES.
 
-## TITULO SEPTIMO
+## TITULO SEXTO
 
-DE LOS ESTIMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSION PRODUCTIVA Y LA GENERACION DE EMPLEOS.
+DE LAS REDUCCIONES PARA PENSIONADOS Y JUBILADOS.
 
-> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO UNICO
 
@@ -2451,15 +2451,15 @@ DURANTE LOS AÑOS DE 1991, 1992 Y 1993 SE APLICARAN LAS TASAS DEL 8%, 6% Y 4% RE
 
 EL PRESENTE DECRETO, SURTIRA EFECTOS A PARTIR DEL DIA PRIMERO DE JULIO DE 1991, PREVIA PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
 
-B.O. 10 DE DICIEMBRE DE 1993.
-
-UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL DIA PRIMERO DE ENERO DE MIL NOVECIENTOS NOVENTA Y CUATRO.
-
 B.O. 31 DE DICIEMBRE DE 1991.
 
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
+
+B.O. 10 DE DICIEMBRE DE 1993.
+
+UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL DIA PRIMERO DE ENERO DE MIL NOVECIENTOS NOVENTA Y CUATRO.
 
 B.O. 10 DE OCTUBRE DE 1994.
 
@@ -2508,3 +2508,9 @@ El presente Decreto entrará en vigor el día primero de enero de mil noveciento
 B.O. 31 DE MAYO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE NOVIEMBRE DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
