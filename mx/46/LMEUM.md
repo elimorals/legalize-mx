@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1935-06-26"
+last_updated: "1936-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 1936.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -56,7 +56,9 @@ a). Los billetes del Banco de México, con las siguientes denominaciones: uno, c
 
 b). Las monedas fraccionarias de cincuenta centavos, del cuño y ley que establezca el decreto respectivo;
 
-c). Las monedas fraccionarias de uno, dos, cinco, diez y veinte centavos, de las ligas y cuños creados por la ley de 25 de marzo de 1905, el decreto de 15 de octubre de 1914, y los que se establecen por el decreto de esta fecha.
+> <small>(REFORMADO, D.O.F. 6 DE MAYO DE 1936)</small>
+
+c). Las monedas fraccionarias de bronce de uno, dos, cinco, diez y veinte centavos, de las ligas y cuños creados por la Ley de 25 de marzo de 1905, el Decreto de 15 de octubre de 1914, el Decreto de 26 de abril de 1935 y las que se establecen por el Decreto de esta fecha.
 
 > <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 1935)</small>
 
@@ -72,9 +74,9 @@ D.O.F. 27 DE ABRIL DE 1935.
 
 ###### ARTICULO 5°.
 
-Las monedas fraccionarias de diez, veinte y cincuenta centavos, tendrán poder liberatorio limitado a veinte pesos en un mismo pago.
+Las monedas fraccionarias de veinte y cincuenta centavos, tendrán poder liberatorio limitado a veinte pesos en un mismo pago.
 
-Las monedas de uno, dos y cinco centavos, tendrán poder liberatorio limitado a dos pesos en un mismo pago.
+Las monedas de uno, dos, cinco y diez centavos, tendrán poder liberatorio limitado a dos pesos en un mismo pago.
 
 ###### ARTICULO 6°.
 
@@ -174,7 +176,7 @@ Los billetes del Banco de México tendrán poder liberatorio ilimitado.
 
 (DEROGADO, D.O.F. 27 DE ABRIL DE 1935)
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 1935)</small>
+> <small>(REFORMADO, D.O.F. 6 DE MAYO DE 1936)</small>
 
 ###### ARTICULO 5°.
 
@@ -363,6 +365,10 @@ Se prorroga por treinta días más -que concluirán el veintiséis de julio del 
 ## TRANSITORIO
 
 Este Decreto entrará en vigor desde la fecha de su publicación.
+
+D.O.F. 6 DE MAYO DE 1936.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 ###### ARTICULO 3°.
 
