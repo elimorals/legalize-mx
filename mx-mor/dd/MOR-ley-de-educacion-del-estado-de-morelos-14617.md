@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "1996-08-26"
+last_updated: "1998-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACION DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -485,7 +485,7 @@ La educación especial se ofrecerá en planteles educativos estatales, municipal
 
 En la impartición de la educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
 
-### CAPITULO II. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
+### CAPITULO I. DE LOS PADRES DE FAMILIA
 
 ###### ARTICULO 47.
 
@@ -525,7 +525,7 @@ III.- Será bivalente el que atienda las dos finalidades señaladas en las dos f
 
 En la impartición de la educación media superior con preparación de conocimientos técnicos especializados y formación para el trabajo, las autoridades educativas locales podrán escuchar las opiniones del sector productivo para la elaboración de planes y programas de estudio que permitan a los educandos adquirir los conocimientos, habilidades y destrezas que faciliten su incorporación al desarrollo económico tanto estatal como nacional.
 
-### CAPITULO I. DE LOS PADRES DE FAMILIA
+### CAPITULO II. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
 
 ###### ARTICULO 52.
 
@@ -889,7 +889,7 @@ En el Estado de Morelos los medios de comunicación masiva en el desarrollo de s
 
 Los particulares podrán impartir educación en todos sus tipos, niveles y modalidades.
 
-Por lo que concierne a la educación primaria, secundaria, la normal y demás para la formación de maestros de educación básica deberán obtener previamente en cada caso la autorización expresa del Estado. Tratándose de estudios distintos de los antes mencionados podrán obtener el reconocimiento de validez oficial de estudios.
+Por lo que concierne a la educación primaria, secundaria, la normal y demás para la formación de maestros de educación básica, deberán obtener previamente en cada caso, la autorización expresa del Estado. Tratándose de estudios distintos de los antes mencionados podrán obtener el reconocimiento de validez oficial de estudios.
 
 ###### ARTICULO 100.
 
@@ -917,9 +917,11 @@ I.- Cumplir con lo dispuesto en el Artículo 3º de la Constitución Política d
 
 II.- Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes;
 
-III.- Proporcionar un mínimo de becas para alumnos destacados académicamente y de escasos recursos, en un porcentaje que nunca será inferior al cinco por ciento del total de la matrícula de la Institución Educativa del ciclo escolar de que se trate y que podrá ampliarse de acuerdo a la capacidad económica de la misma. Las becas a que se refiere esta fracción deberán ser otorgadas por una comisión especial de becas, que estará integrada cuando menos por los siguientes cinco miembros: un representante del Titular del Poder Ejecutivo, un Representante de la Autoridad Auxiliar Educativa Estatal, el Diputado Presidente de la Comisión que al interior del Congreso del Estado deba de conocer de los asuntos educativos, un representante de las asociaciones legalmente constituidas de los padres de familia de los centros de educación privado y otro de las correspondientes a las escuelas particulares.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1998)</small>
 
-El reglamento respectivo determinará las atribuciones, organización y funcionamiento de la Comisión a que se refiere esta fracción.
+III.- Proporcionar un mínimo de becas para alumnos destacados académicamente y de escasos recursos, en un porcentaje que nunca será inferior al cinco por ciento del total de la matrícula de la institución educativa del ciclo escolar inmediato anterior al en que se asignen las becas y que podrá ampliarse de acuerdo a la capacidad económica de la misma. Las becas a que se refiere esta fracción deberán ser otorgadas por una comisión especial de becas, que estará integrada cuando menos por los siguientes: un representante del Titular del Poder Ejecutivo, un representante de la Autoridad Auxiliar Educativa Estatal, el Diputado Presidente de la Comisión que al interior del Congreso del Estado deba conocer de los asuntos educativos, un representante de las Asociaciones legalmente constituidas de los padres de familia de los Centros de Educación Privados y otro de las correspondientes a las escuelas particulares.
+
+El Reglamento respectivo determinará las atribuciones, organización y funcionamiento de la comisión a que se refiere esta fracción.
 
 IV.- Rendir semestralmente a la Autoridad Educativa Estatal o Municipal, las estadísticas correspondientes a la organización, administración, escolaridad y aspectos técnicos de las Instituciones, y
 
@@ -1158,3 +1160,13 @@ SECRETARIO GENERAL DE GOBIERNO
 GUILLERMO MALO VELASCO
 
 RUBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE DICIEMBRE DE 1998.
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Remítase el presente decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales correspondientes.
