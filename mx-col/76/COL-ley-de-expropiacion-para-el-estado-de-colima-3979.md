@@ -4,7 +4,7 @@ identifier: "COL-ley-de-expropiacion-para-el-estado-de-colima-3979"
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-12"
-last_updated: "1999-11-06"
+last_updated: "2001-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EXPROPIACION PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 12 de septiembre de 1992.
 
@@ -67,37 +67,37 @@ La expropiación procederá contra el propietario, poseedor o sus causahabientes
 
 ### CAPITULO II. DE LAS CAUSAS DE UTILIDAD PUBLICA
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 5o.
 
-Se consideran causas de utilidad pública para los efectos de la presente Ley:
+Se consideran causas de utilidad pública para los efectos de la presente ley:
 
-I.- El establecimiento, explotación, ampliación o conservación de un servicio público;
+I.- El establecimiento, explotación, ampliación, modificación o conservación de un servicio público;
 
-II.- La apertura, prolongación, ampliación y alineamiento de arterias de circulación peatonal o vehicular, de cualquier naturaleza como boulevares, malecones, calzadas, puentes, caminos, pasos a desnivel, libramientos, andadores y túneles para facilitar el tránsito y demás similares;
+II.- La apertura, prolongación, ampliación y alineamiento de arterias de circulación peatonal o vehicular, de cualquier naturaleza como calles, avenidas, bulevares, malecones, calzadas, puentes, caminos, pasos a desnivel, libramientos, andadores y túneles para facilitar el tránsito, así como los accesos que se requieran;
 
 III.- La creación, ampliación, saneamiento y mejoramiento de centros de población;
 
-IV.- La construcción de cementerios, hospitales, centros de salud, oficinas públicas, viviendas y conjuntos habitacionales de interés social, escuelas, bibliotecas, parques, jardines, instalaciones deportivas, teatros, cárceles, instalaciones para fomentar la cultura o cualquiera otras cuyo destino sea prestar un servicio para beneficio colectivo;
+IV.- La construcción y ampliación de cementerios, hospitales, centros y clínicas de salud, oficinas públicas, centrales de autobuses, viviendas y conjuntos habitacionales de interés social, escuelas, bibliotecas, parques, jardines, instalaciones deportivas, teatros, auditorios, casas de usos múltiples, establecimientos penitenciarios e instalaciones para fomentar la cultura, la recreación y el sano esparcimiento;
 
-V.- La creación, fomento y conservación de empresas, para beneficio de la colectividad;
+V.- La creación, fomento y conservación de empresas e industrias, para beneficio de la colectividad;
 
-VI.- La conservación de los edificios y monumentos arqueológicos o de interés histórico o artístico y de los bienes o cosas que se consideren como características notables de nuestra cultura;
+VI.- La conservación de los edificios y monumentos arqueológicos o de interés histórico o artístico y de los bienes o cosas que se consideran como características notables de nuestra cultura;
 
-VII.- El abastecimiento y distribución de medicamentos, víveres o artículos de consumo necesarios en caso de siniestros, epidemias, plagas, incendios o cualquier otra calamidad pública;
+VII.- El almacenamiento, abastecimiento y distribución de medicamentos, víveres o artículos de consumo necesarios en caso de siniestros, terremotos, derrumbes, inundaciones, epidemias, plagas e incendios;
 
 VIII.- La creación y conservación de reservas territoriales para el crecimiento de las poblaciones, así como la regularización de asentamientos humanos;
 
 IX.- Las medidas necesarias para evitar la destrucción de los elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la colectividad o bien cuando por cualquier medio se ataque el equilibrio ecológico;
 
-X.- La construcción de caminos y carreteras locales, comunales, vecinales o de penetración, entendiéndose por estos los que comuniquen una o más regiones agrícolas con carreteras, caminos o con algún centro de población;
+X.- La construcción de carreteras, así como de caminos locales, comunales, vecinales o de penetración, entendiéndose por éstos los que comuniquen una o más regiones agrícolas con carreteras, caminos o con algún centro de población;
 
-XI.- La dotación de fundos legales o las poblaciones y la ampliación de los mismos cuando sus necesidades lo requieran;
+XI.- La dotación de fundos legales de las poblaciones y la ampliación de los mismos, cuando sus necesidades lo requieran;
 
-XII.- La construcción de presas, canales, establecimientos y explotación de pozos artesianos y desecación de pantanos por salubridad pública;
+XII.- La construcción de presas, canales, bordos, establecimiento y explotación de pozos profundos, artesianos y desecación de pantanos; y
 
-XIII.- La construcción de edificios e infraestructura de apoyo administrativo para los gobiernos estatal o municipales; y
-
-XIV.- Todos los bienes no especificados en el presente artículo, siempre que el interés público exija su expropiación y quede debidamente justificado por el Ejecutivo.
+XIII.- La construcción de edificios e infraestructura de apoyo administrativo para los gobiernos estatal o municipales.
 
 ### CAPITULO III. DE LAS AUTORIDADES EN MATERIA DE EXPROPIACION
 
@@ -243,6 +243,10 @@ Los titulares de derechos reales sobre un bien objeto de expropiación deberán 
 
 Los gravámenes y derechos que personas distintas al propietario tengan sobre los bienes afectados, se extinguirán de pleno derecho con la declaratoria respectiva, quedando a salvo los derechos de los acreedores. Los encargados del Registro Público de la Propiedad y del Comercio, harán oportunamente las anotaciones correspondientes, cancelando los gravámenes.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2001)</small>
+
+ARTICULO 27 BIS.- El Gobernador del Estado podrá determinar la revocación de un Decreto expropiatorio, siempre que a su juicio existan elementos de índole jurídica, técnica o de diversa naturaleza, que imposibiliten o dificulten los fines de la expropiación. Lo dispuesto en el presente artículo no otorga legitimación a los interesados en un procedimiento expropiatorio, para pedir la revocación del Decreto respectivo.
+
 ### CAPITULO VI. DE LAS INDEMNIZACIONES
 
 ###### ARTICULO 28.
@@ -259,9 +263,13 @@ III.- Los poseedores originarios que acrediten que su posesión data de cuando m
 
 La indemnización se pagará en la forma y términos que se establezcan en el Decreto expropiatorio y estará a cargo del beneficiario de la expropiación de conformidad con el artículo 15 de esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 30.
 
-El precio de la indemnización será la cantidad que como valor catastral del bien esté fijado en la Dirección de Catastro del Estado, más un diez por ciento de ese valor, ya sea que éste haya sido declarado por el propietario o aceptado por él de un modo tácito por haber pagado sus impuestos con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de asignación del valor catastral, quedarán sujetos a juicio pericial, debiéndose observar lo mismo cuando se trate de objetos cuyo valor no esté fijado en la Dirección mencionada.
+El precio de la indemnización será la cantidad que como valor catastral del bien esté fijado en la Dirección de Catastro del Estado, ya sea que éste haya sido declarado por el propietario o aceptado por él de un modo tácito por haber pagado sus impuestos con esta base.
+
+El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de asignación del valor catastral, quedarán sujetos a juicio pericial, debiéndose observar lo mismo cuando se trate de objetos cuyo valor no esté fijado en la Dirección mencionada.
 
 ###### ARTICULO 31.
 
@@ -326,3 +334,9 @@ P.O. 6 DE NOVIEMBRE DE 1999.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE MARZO DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
