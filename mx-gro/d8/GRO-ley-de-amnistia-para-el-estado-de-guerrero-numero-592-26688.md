@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-amnistia-para-el-estado-de-guerrero-numero-592-26688"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-12"
-last_updated: "2002-11-12"
+last_updated: "2003-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE AMNISTIA PARA EL ESTADO DE GUERRERO NUMERO 592
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2003.
 
 Ley publicada en el Alcance Número 1 del Periódico Oficial del Estado de Guerrero, el martes 12 de noviembre del 2002.
 
@@ -121,9 +121,11 @@ En ninguna circunstancia y bajo ningún argumento, se podrá aplicar la presente
 
 Se integrará una Comisión que se encargará de implementar los actos necesarios para la aplicación de esta Ley, conformada por dos Representantes del Poder Ejecutivo que serán el Procurador General de Justicia y el Secretario de Seguridad Pública y Protección Ciudadana, el Presidente del Comité de Consulta y Participación Ciudadana del Consejo Estatal de Seguridad Pública; el Presidente de la Comisión Ordinaria de Derechos Humanos del Congreso del Estado y el Presidente de la Comisión de Defensa de los Derechos Humanos del Estado de Guerrero.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 3.
 
-La Comisión de Amnistía, tomará decisiones por mayoría de votos y sus labores no excederán de seis meses contados a partir de su instalación.
+La Comisión de Amnistía, tomará decisiones por unanimidad o por mayoría de votos y sus labores no excederán del 12 de noviembre del año 2003, en que termina la vigencia de la misma.
 
 Los integrantes de la Comisión de Amnistía están obligados a guardar confidencia (sic) de los asuntos que se presenten a su conocimiento.
 
@@ -135,9 +137,11 @@ La amnistía extingue la acción penal y la potestad de ejecutar las sanciones i
 
 El Procurador General de Justicia del Estado en cumplimiento a los dictámenes o resoluciones que emita la Comisión, aplicará y en su caso solicitará de oficio, la aplicación de los beneficios de esta Ley ante las autoridades judiciales y administrativas correspondientes.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 6.
 
-Los individuos que se encuentren actualmente sustraídos de la acción de la justicia, dentro o fuera del Estado, por los motivos a que se refiere el artículo 1 de esta Ley, podrán beneficiarse de la amnistía condicionada a la restitución de bienes muebles e inmuebles materia del ilícito y a la entrega de todo tipo de instrumentos, armas, explosivos u otros objetos empleados en la comisión de los delitos, dentro del plazo de noventa días a partir de la instalación de la Comisión.
+Este beneficio es aplicable a las personas que se encuentren sustraídas a la acción de la Justicia dentro o fuera del territorio del Estado de Guerrero, siempre que entreguen previamente los instrumentos, armas, explosivos u otros objetos empleados en la comisión de los delitos a que se refiere el Artículo 1, en un término que no exceda de noventa días a partir de la entrada en vigor del presente Decreto.
 
 ###### ARTICULO 7.
 
@@ -194,3 +198,15 @@ El Secretario General de Gobierno.
 C. MARCELINO MIRANDA AÑORVE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE MAYO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto será difundido en los principales medios de comunicación del Estado para conocimiento general de la población.
