@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1938-06-29"
+last_updated: "1941-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 1941.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -343,15 +343,11 @@ El día de la instalación, y antes del acto, los Diputados otorgarán la protes
 
 Para que el Congreso pueda instalarse y ejercer sus funciones, se necesita, por lo menos, la presencia de las dos terceras partes del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la ley, y compeler, bajo las penas que ella designe, a efecto de que concurran, a los ausentes cuya elección se hubiere declarado legal por las respectivas juntas electorales.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1935)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1941)</small>
 
 ###### Artículo 37.
 
-Cada Legislatura tendrá dos períodos ordinarios de sesiones que comenzarán el primero de marzo y terminarán el treinta de junio.
-
-Los períodos ordinarios podrán prorrogarse hasta por el término de treinta días, para tratar los asuntos pendientes, cuando éstos así lo requieran.
-
-En caso de que por alguna circunstancia imprevista, no pudieren abrirse o cerrarse las sesiones en los días señalados, tendrán verificativo estos actos en la fecha que respectivamente acuerden los Diputados.
+I.- Habrá en cada año dos períodos de Sesiones ordinarios; el primero comenzará el 1o. de marzo y terminará el 30 de junio y el segundo el 1o. de septiembre y terminará el 31 de diciembre; ambos períodos podrán prorrogarse por el tiempo que acuerde el Congreso y lo requiera la importancia de los asuntos pendientes. En caso que por alguna circunstancia imprevista no pudieren abrirse o cerrarse las sesiones en los días señalados, estos actos se verificarán en la forma que respectivamente acuerden los CC. Diputados.
 
 ### CAPITULO II.
 
@@ -1284,3 +1280,17 @@ Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicac
 P.O. 29 DE JUNIO DE 1938.
 
 Este Decreto surtirá sus efectos desde su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 1941.
+
+###### Artículo 1o.
+
+Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### Artículo 2o.
+
+Se derogan todas las disposiciones anteriores que se opongan a este Decreto.
+
+###### Artículo 3o.
+
+Por solo este año el segundo Período ordinario de Sesiones se iniciará el 1o. de octubre y terminará el 31 de diciembre.
