@@ -4,7 +4,7 @@ identifier: "COA-codigo-financiero-para-los-municipios-del-estado-de-15544"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-23"
-last_updated: "1999-07-23"
+last_updated: "2001-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de julio de 1999.
 
@@ -285,9 +285,11 @@ La tasa o tarifa aplicable a este impuesto será la que al efecto establezca la 
 
 DE LAS EXENCIONES DEL IMPUESTO
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 30.
 
-Sólo los bienes del dominio público de la Federación, del Estado y de los Municipios estarán exentos del pago del impuesto predial.
+Sólo los bienes del dominio público de la Federación, de los Estados o los Municipios estarán exentos del pago del impuesto predial, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 DE LA DETERMINACIÓN Y PAGO DEL IMPUESTO
 
@@ -1761,15 +1763,25 @@ La Tesorería Municipal, es la Dependencia del Ayuntamiento facultada para deter
 
 Los montos aplicables por concepto de multas estarán determinados por las leyes o reglamentos municipales que contemplen las infracciones cometidas.
 
-### CAPÍTULO III. DE LAS PARTICIPACIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE MARZO DE 2001)</small>
+
+### CAPÍTULO III. DE LAS PARTICIPACIONES Y APORTACIONES
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 235.
 
-Constituyen este ingreso las cantidades que perciban los Municipios del Estado de Coahuila, de conformidad con la Ley Federal de Coordinación Fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado por el Gobierno del Estado con el Gobierno Federal, así como de conformidad con las disposiciones legales del Estado y los convenios y acuerdos que se celebren entre éste y sus Municipios para otorgar participaciones a éstos.
+Constituyen este ingreso las cantidades que perciban los Municipios del Estado de Coahuila, con arreglo a las bases, montos y plazos que anualmente determine, en el ámbito de su competencia, el Congreso del Estado, de conformidad con la Ley Federal de Coordinación Fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado por el Gobierno del Estado con el Gobierno Federal, así como de conformidad con las disposiciones del Estado y demás convenios y acuerdos que se celebren entre éste y sus Municipios para otorgar participaciones a éstos.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 236.
 
-Los ingresos por participaciones y aportaciones provenientes del Sistema Nacional de Coordinación Fiscal que perciban los Municipios del Estado de Coahuila, se determinarán conforme a las bases, montos y plazos que establezca la Ley para la Distribución de Participaciones y Aportaciones Federales a los Municipios del Estado y la Ley que establece las bases para la distribución de Fondos Estatales para el Desarrollo Social en Coahuila.
+Los ingresos por participaciones y aportaciones provenientes del Sistema Nacional de Coordinación Fiscal que perciban los Municipios del Estado de Coahuila, se determinarán con arreglo a las bases, montos y plazos que anualmente determine el Congreso del Estado, conforme a las bases que establezca la Ley para la Distribución de Participaciones y Aportaciones Federales a los Municipios del Estado, la Ley que establece las Bases para la Distribución de Fondos Estatales para el Desarrollo Social en Coahuila y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+ARTÍCULO 236 BIS. Para fijar la distribución de las participaciones o aportaciones federales y estatales a los Municipios, el Congreso del Estado deberá tomar en cuenta, por lo menos, los criterios de población, marginación social, desarrollo económico, esfuerzo recaudatorio y eficiencia de los servicios públicos, a fin de que la distribución de los ingresos a los Municipios genere un desarrollo integral, armónico, sustentable y equitativo en todas las regiones del Estado, bajo los principios de fidelidad federal y municipal.
 
 ###### ARTÍCULO 237.
 
@@ -1857,6 +1869,10 @@ III. Explicación y comentarios de los programas prioritarios.
 
 IV. Estimación de los ingresos y de los gastos, tanto del ejercicio fiscal en curso, como del ejercicio que abarque el proyecto.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+En lo referente a gastos de difusión, promoción y publicidad, las erogaciones no podrán exceder del 3% de los ingresos presupuestales totales.
+
 V. Los montos de endeudamiento pendientes de pago, así como las necesidades de financiamiento, y en su caso, las cantidades autorizadas por el Congreso del Estado para tal fin.
 
 VI. Los demás informes financieros y datos estadísticos que se consideren convenientes, para la mejor comprensión de la política hacendaria y del programa general de la administración pública municipal.
@@ -1864,6 +1880,10 @@ VI. Los demás informes financieros y datos estadísticos que se consideren conv
 ###### ARTÍCULO 252.
 
 El proyecto de presupuesto de egresos municipal será presentado por el Presidente Municipal ante el ayuntamiento para su análisis y aprobación, junto con el Presupuesto de Ingresos correspondiente al mismo ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+El Presupuesto de Egresos del Municipio deberá ser aprobado a más tardar el día 31 de diciembre del año anterior a su ejercicio. El Presidente Municipal dispondrá su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO 253.
 
@@ -1874,6 +1894,10 @@ A toda proposición de aumento o creación de programas, conceptos o partidas al
 ###### ARTÍCULO 254.
 
 La Tesorería Municipal es la única dependencia administrativa facultada para efectuar cualquier clase de pagos autorizados y con cargo al presupuesto de egresos del municipio.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+En el caso previsto por el párrafo segundo de la fracción IV del artículo 251 de este código, dicho gasto corriente deberá estar respaldado por los convenios correspondientes.
 
 ###### ARTÍCULO 255.
 
@@ -1975,11 +1999,29 @@ El ayuntamiento podrá aprobar transferencias, reducciones, cancelaciones o adec
 
 El arrendamiento de los bienes del Municipio se sujetará a las disposiciones que, al celebrarlo, establezca al Ayuntamiento sin que por ningún motivo el término estipulado en el contrato exceda del período de la administración que lo celebre.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Tratándose del arrendamiento de bienes inmuebles se requerirá, independientemente del tiempo por el que se pacte, de la aprobación de las dos terceras partes de los miembros del ayuntamiento.
+
 ###### ARTÍCULO 273.
 
 Ninguna enajenación, ni concesión de uso o usufructo de bienes inmuebles del Municipio, podrá hacerse a los miembros y servidores públicos del ayuntamiento, ni a sus parientes en línea recta sin limitación de grado, colaterales hasta el cuarto grado y afines hasta el segundo.
 
-Serán nulos de pleno derecho los actos jurídicos celebrados en contravención de las disposiciones de este Título.
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+De igual forma, cualquier operación o resolución que afecte el patrimonio inmobiliario de los ayuntamientos deberá atender a las formalidades previstas en este ordenamiento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+El Congreso del Estado podrá invalidar las resoluciones de los ayuntamientos en los casos en que dicten resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al municipio por un plazo mayor al período del ayuntamiento, cuando dejen de observar o contravengan las disposiciones aplicables. En estos casos, el ayuntamiento dentro de los cinco días hábiles siguientes de haber dictado la resolución de que se trate, deberá enviarla al Congreso del Estado, el cual dentro de los treinta días naturales siguientes determinará su validez o invalidez de acuerdo con las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+El ayuntamiento no podrá formalizar la operación hasta en tanto quede firme la autorización correspondiente. La resolución de la legislatura podrá ser impugnada por el ayuntamiento en los términos del artículo 158 de la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Serán nulos los actos celebrados en contravención de las disposiciones de este Título y demás disposiciones aplicables.
 
 ## TÍTULO SEGUNDO. DE LOS BIENES DEL DOMINIO PÚBLICO Y DEL DOMINIO PRIVADO
 
@@ -2021,13 +2063,33 @@ X. Los demás que señalen las leyes.
 
 Los bienes de dominio público son inalienables e imprescriptibles, y no podrán ser objeto de gravamen alguno.
 
-Los bienes inmuebles del dominio público, sólo podrán ser enajenados conforme a la Ley General de Bienes del Estado y previo decreto de desincorporación dictado por el Congreso del Estado cuando por algún motivo dejen de servir para el fin a que hayan sido destinados: tanto los bienes inmuebles de dominio público como los de dominio privado sólo podrán ser enajenados, a título gratuito u oneroso, previa autorización del Congreso del Estado.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Los bienes inmuebles de dominio público sólo podrán ser enajenados mediante el acuerdo de autorización de las dos terceras partes de los miembros del ayuntamiento, previo decreto de desincorporación dictado por el Congreso del Estado y conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Sólo procederá el acuerdo del ayuntamiento autorizando la enajenación, en los casos siguientes:
+
+I. Cuando el propósito de la enajenación lo sea el fomento de la vivienda, regularización de la tenencia de la tierra o cualesquiera otra necesidad de interés público.
+
+II. Cuando se realice a favor de instituciones, asociaciones o particulares que requieran, para cumplir con su objeto social o disponer por otro motivo suficiente e indispensable del inmueble en beneficio de la comunidad, así como cuando sea para la creación, fomento o conservación de una empresa de beneficio social o colectivo.
+
+III. Cuando se realice para disponer del monto de su venta a la adquisición o construcción de inmuebles que se destinarán a la prestación de servicios públicos.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Una vez desincorporado el inmueble del dominio público por el Congreso del Estado, los ayuntamientos, en los supuestos señalados, acordarán las formalidades que deberán satisfacerse para la enajenación correspondiente; en todo caso, deberán prever siempre un plazo cierto y determinado para su formalización. La resolución deberá insertarse en el instrumento público mediante el cual se formalice la operación respectiva.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 277.
 
-Las enajenaciones de los bienes de dominio público de los municipios, se harán en subasta pública, salvo autorización en contrario del Congreso del Estado.
+Las enajenaciones de los bienes que en los términos de la ley aprueben los ayuntamientos se harán en subasta pública, salvo cuando, por causas plenamente justificadas, así lo determine el propio ayuntamiento mediante el acuerdo de las dos terceras partes de sus miembros.
 
-La enajenación se anunciará en el periódico oficial del Estado y en uno de los periódicos de mayor circulación del municipio, por dos veces de siete en siete días, previo avalúo y si no hubiere postores se anunciarán nuevas almonedas con deducción en cada una de ellas de un diez por ciento. En ningún caso se podrá reducir a menos del cincuenta por ciento del valor que se fijó en el avalúo.
+El precio que servirá de base para la enajenación será aquel que resulte del avalúo que se practique y aprueben las dos terceras partes de los miembros del ayuntamiento. La enajenación se anunciará en el Periódico Oficial del Gobierno del Estado y en uno de los periódicos de mayor circulación del municipio, por dos veces de siete en siete días.
+
+Si no hubiere postores se anunciarán nuevas almonedas con reducción en cada una de ellas de un diez por ciento del valor correspondiente. En ningún caso se podrá reducir a menos del cincuenta por ciento del valor que se fijó en el avalúo.
 
 ### CAPÍTULO II. DE LOS BIENES DEL DOMINIO PRIVADO
 
@@ -2042,6 +2104,10 @@ II. Los bienes vacantes situados dentro del territorio municipal.
 III. Los bienes que hayan formado parte del patrimonio de una corporación pública municipal, creada por alguna Ley, y que por disolución o liquidación de la misma, se desafecten y se desincorporen del patrimonio del Municipio.
 
 IV. Los demás muebles e inmuebles que por cualquier título traslativo de dominio adquiera el Municipio y que no estén comprendidos en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Tratándose de la enajenación de inmuebles de dominio privado del ayuntamiento, sea a título oneroso o gratuito, se requerirá del acuerdo de autorización de las dos terceras partes de sus miembros, conforme a las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO III. DE LOS MUEBLES DEL DOMINIO PRIVADO
 
@@ -2075,7 +2141,9 @@ IV. Las informaciones ad–perpetuam promovidas por el municipio para acreditar 
 
 V. Las resoluciones judiciales definitivas que produzcan algunos de los efectos mencionados en la fracción I.
 
-VI. Los decretos que incorporen o desincorporen del dominio público los bienes inmuebles.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VI. Los decretos que desincorporen del dominio público los bienes inmuebles y demás que dicte el Congreso del Estado sobre propiedad municipal, y los acuerdos municipales que incorporen bienes del dominio privado al dominio público.
 
 VII. Las declaratorias de áreas verdes para protección del ambiente.
 
@@ -2521,9 +2589,15 @@ La observancia de este libro en materia de contabilidad no releva a los municipi
 
 ### CAPÍTULO I. DE LA INFORMACIÓN
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 336.
 
-La Tesorería Municipal deberá proporcionar a la Contaduría Mayor de Hacienda la información de la cuenta pública municipal en la forma y plazos que determine la ley orgánica de la Contaduría Mayor de Hacienda y demás disposiciones aplicables.
+La Tesorería Municipal deberá proporcionar al Congreso del Estado, por conducto de la Contaduría Mayor de Hacienda, la información de la cuenta pública municipal en la forma y plazos que determine la Ley Orgánica de la Contaduría Mayor de Hacienda y demás disposiciones aplicables.
+
+El incumplimiento de lo que se establece en el párrafo que antecede, dará motivo a aplicar la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado.
+
+El Congreso del Estado en coordinación con los municipios garantizarán la disposición de la información de la cuenta pública municipal a la comunidad en general, a través de instrumentos confiables, oportunos y transparentes.
 
 ### CAPÍTULO II. DE LA FORMULACIÓN DE LA CUENTA PÚBLICA
 
@@ -2535,9 +2609,13 @@ La Cuenta Pública se constituye por los estados contables y financieros y demá
 
 La Tesorería Municipal proporcionará la información complementaria requerida por la Contaduría Mayor de Hacienda para el análisis y evaluación de la Cuenta Pública.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 339.
 
-Con base en los estados financieros y demás información financiera, presupuestal y contable que emane de los registros de las dependencias y entidades comprendidas en el presupuesto de egresos del municipio, la Tesorería Municipal formulará la Cuenta Pública y la someterá a la consideración del Presidente Municipal y a la aprobación del Ayuntamiento, para su presentación en los términos de la Constitución y de este código.
+Con base en los estados financieros y demás información financiera, presupuestal y contable que emane de los registros de las dependencias y entidades comprendidas en el presupuesto de egresos del municipio, la Tesorería Municipal formulará la cuenta pública y la someterá a la consideración del Presidente Municipal y a la aprobación del Ayuntamiento, para su presentación en los términos de la Constitución, este código y demás disposiciones aplicables.
+
+Verificado lo anterior, el Ayuntamiento presentará al Congreso del Estado, por conducto de la Contaduría Mayor de Hacienda la cuenta pública de la hacienda municipal, centralizada, descentralizada y paramunicipal, integrada por los informes trimestrales de origen y aplicación de los recursos públicos dentro de otros, mismos que deberán ser presentados dentro de los quince días siguientes al término del trimestre que corresponda.
 
 # LIBRO SEXTO. DE LA COORDINACIÓN Y COLABORACIÓN FINANCIERA INTERGUBERNAMENTAL
 
@@ -2561,11 +2639,11 @@ Este título será aplicable en tanto no contravenga las disposiciones de la Con
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTÍCULO 343.
 
-Los Municipios del Estado podrán celebrar Convenios de Coordinación en materia de ingresos, gasto, patrimonio y deuda pública.
-
-Estos convenios los celebrarán los municipios en lo particular, según lo que dispone este código; y con el propio Estado, de conformidad con la Legislación respectiva.
+Los Municipios del Estado podrán celebrar Convenios de Coordinación en materia de ingresos, gasto, patrimonio y deuda pública. Para tal efecto, atenderán las disposiciones conducentes previstas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, este Código, el Código Municipal y demás disposiciones en materia municipal aplicables.
 
 #### SECCIÓN I. COORDINACION EN INGRESOS
 
@@ -4050,3 +4128,45 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 20 DE MARZO DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado en coordinación con todos los Ayuntamientos de la entidad, antes del inicio del ejercicio fiscal del año 2002, establecerán los criterios necesarios para que los valores unitarios de suelo y de construcción que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, sean equiparables a los valores del mercado de dicha propiedad y procederán, en su caso, a realizar las reformas o adiciones legales correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+Para tal efecto, el Congreso del Estado a través de la Comisión de Finanzas coordinará, a partir de la entrada en vigor de este decreto, un programa con los municipios para definir los criterios proporcionales y equitativos que se deben establecer para fijar la base de las contribuciones sobre la propiedad inmobiliaria, de conformidad con las disposiciones aplicables.
+
+En este programa deberá participar el Instituto Coahuilense del Catastro y la Información Territorial como órgano de apoyo y asesoría necesaria.
+
+###### ARTÍCULO TERCERO.
+
+Los juzgados de conciliación deberán continuar con la denominación y competencia que actualmente tienen, hasta el treinta y uno de agosto del año dos mil uno, fecha en que concluirán sus funciones, quedando sin efecto los nombramientos de sus titulares. Consecuentemente, las disposiciones contenidas en los artículos de la Ley Orgánica del Poder Judicial que hagan referencia a los juzgados de conciliación estarán en vigor hasta la fecha señalada, con excepción de lo dispuesto en la fracción I del artículo 43.
+
+El personal que formaba parte de los Juzgados de Conciliación podrán integrar los juzgados municipales que establece el Código Municipal, según lo acuerde el Ayuntamiento respectivo.
+
+En todo caso, se deberán respetar los derechos laborales del personal que formaba parte de los Juzgados de Conciliación. Los ayuntamientos emitirán los acuerdos necesarios para regularizar su situación laboral y su reorganización dentro de la administración pública municipal.
+
+Hasta en tanto el Consejo de la Judicatura determine nuevos distritos judiciales, seguirán vigentes, para todos los efectos legales, los ocho distritos previstos en el texto anterior del artículo 5° de la Ley Orgánica del Poder Judicial, que ahora se reforma; y que tienen como cabecera las ciudades de: Saltillo, Monclova, Sabinas, Piedras Negras, Acuña, Torreón, San Pedro de las Colonia y Parras de la Fuente.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, deberán instalar las Unidades Municipales de Protección Civil, según sus necesidades, condiciones y particularidades socioeconómicas.
+
+Estas unidades formarán parte de la administración pública municipal, según el acuerdo que emita el Ayuntamiento.
+
+En aquellos municipios que no cuenten con estas unidades, el Ejecutivo del Estado a través de la instancia correspondiente podrá coadyuvar, colaborar o sustituir la función de las mismas hasta en tanto el municipio pueda asumir plenamente esta función.
+
+###### ARTÍCULO QUINTO.
+
+Dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, los ayuntamientos deberán adecuar su reglamentación, acuerdos, circulares y demás disposiciones generales.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones en contrario.
