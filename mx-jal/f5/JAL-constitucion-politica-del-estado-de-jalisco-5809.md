@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2001-03-15"
+last_updated: "2001-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -625,9 +625,11 @@ X. Designar a los ciudadanos que desempeñen los cargos de consejeros ante el Co
 
 XI. Autorizar al titular del Poder Ejecutivo para que celebren actos jurídicos que trasciendan el ejercicio de su administración o representen enajenaciones de su respectivo patrimonio, en los términos que disponga la ley;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2001)</small>
 
-XII. Aceptar o rechazar los nombramientos del Presidente y de los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos que haga el titular del Poder Ejecutivo, con la aprobación de las dos terceras partes de los diputados presentes, en los términos que establezca la ley;
+XII. Elegir al Presidente y a los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos con la aprobación de las dos terceras partes de los diputados presentes, en los términos que establezca la ley de la materia;
+
+El Presidente de la Comisión Estatal de Derechos Humanos durará en su encargo cinco años y solo podrá ser removido de sus funciones en los términos del Título Octavo de esta Constitución.
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2248,3 +2250,9 @@ P.O. 15 DE MARZO DE 2001.
 PRIMERO: Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de debates, en el que consten las discusiones que hubiere provocado, para que con fundamento en lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
 
 SEGUNDO: El presente decreto que contiene la reforma de los artículos 30 de la Constitución Política del Estado y 91 de la Ley Orgánica del Poder Legislativo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE ABRIL DE 2001.
+
+PRIMERO.- Envíese copia certificada del presente dictamen de ley a los 124 ayuntamientos del Estado, con el diario de debates, en el que consten las discusiones que hubiere provocado, para que con fundamento en lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco, en vigor, procedan conforme a derecho corresponda.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
