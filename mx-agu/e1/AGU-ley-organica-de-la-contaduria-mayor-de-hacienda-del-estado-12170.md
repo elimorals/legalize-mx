@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-contaduria-mayor-de-hacienda-del-estado-1217
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-06-21"
-last_updated: "1992-12-13"
+last_updated: "1998-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 1998.
 
 Ley publicada en el Suplemento 2 al Número 25 del Periódico Oficial del Estado de Aguascalientes, el 21 de junio de 1981.
 
@@ -95,19 +95,25 @@ VI.- Los actos, convenios y contratos celebrados entre las entidades o entre és
 
 También le corresponde elaborar los estudios económicos, administrativos, contables, fiscales y de índole similar que requieran las Comisiones de Dictamen Legislativo del Congreso del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 7o.
 
-La Contaduría Mayor de Hacienda, tendrá las siguientes atribuciones y obligaciones:
+La Contaduría Mayor de Hacienda tendrá las siguientes atribuciones y obligaciones:
 
 I.- Verificar si las entidades sujetas a la revisión de la cuenta publica:
 
-a).- Realizaron sus operaciones con apego a las Leyes de Ingresos y a los Presupuestos de Egresos aprobados por el Congreso del Estado;
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1998)</small>
+
+a).- Realizaron sus obligaciones con apego a las Leyes de Ingresos y a los Presupuestos de Egresos aprobados por el Congreso del Estado o por el Cabildo de los Ayuntamientos.
 
 b).- Ejercieron correcta y estrictamente sus Presupuestos conforme a sus programas; y
 
 c).- Ejecutaron los programas de inversión de conformidad con las partidas autorizadas.
 
-II.- Informar a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda sobre el resultado de la revisión de la cuenta pública de las entidades dentro del término de un mes a partir de su recepción.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 1998)</small>
+
+II.- Informar a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda sobre el resultado de la revisión de la cuenta pública de las entidades, dentro del término de cuarenta días a partir de su recepción;
 
 La rvisión (sic) tomará en consideración:
 
@@ -147,9 +153,11 @@ X.- Rendir al Congreso del Estado informe mensual de sus labores.
 
 ### CAPITULO III. De la Comisión de Vigilancia de la Contaduría Mayor de Hacienda del Estado
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 8o.
 
-La Comisión de Vigilancia de la Contaduría Mayor de Hacienda del Estado, tendrá las siguientes atribuciones:
+La Comisión de Vigilancia de la Contaduría Mayor de Hacienda tendrá las siguientes atribuciones:
 
 I.- Recibir de las entidades la información y datos relativos a la cuenta pública, la que turnarán a la Contaduría Mayor de Hacienda para su revisión;
 
@@ -157,41 +165,61 @@ II.- Ordenar a la Contaduría Mayor de Hacienda cuando lo estime conveniente, pa
 
 III.- Proponer al Congreso del Estado, para su aprobación, el proyecto de presupuesto anual del Poder Legislativo, que elaborará la Contaduría Mayor de Hacienda;
 
-IV.- Vigilar el debido ejercicio del presupuesto anual del Poder Legislativo;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 1998)</small>
 
-V.- Proponer al Congreso del Estado, el nombramiento del Contador Mayor de Hacienda, del personal de confianza, así como su remoción; y
+IV.- Vigilar el debido ejercicio del presupuesto anual del Poder Legislativo y el de la Contaduría Mayor de Hacienda;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 1998)</small>
+
+V.- Proponer al Congreso del Estado el nombramiento del Contador Mayor de Hacienda y de sus Directores, así como su remoción; y
 
 VI.- Dictar las medidas que estime necesarias para que la Contaduría Mayor de Hacienda cumpla con las funciones que le correspondan.
 
 ### CAPITULO IV. De los Funcionarios y Empleados
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 9o.
 
-Al frente de la Contaduría Mayor de Hacienda del Estado, como autoridad ejecutiva, estará un Contador Mayor de Hacienda, quien será auxiliado por el personal que sea necesario, nombrados todos por el Congreso del Estado.
+Al frente de la Contaduría Mayor de Hacienda del Estado, como autoridad ejecutiva, estará un Contador Mayor de Hacienda, quien será auxiliado por el personal que sea necesario.
 
 ###### ARTICULO 10.
 
 Para ser Contador Mayor de Hacienda se requiere satisfacer los siguientes requisitos:
 
-I.- Ser ciudadano mexicano, mayor de 25 años, con residencia en el Estado, no menor de 2 años anteriores al día de su nombramiento, y estar en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 1998)</small>
 
-II.- Poseer Título de Contador Público, legalmente expedido y registrado en la Dirección General de Profesiones de la Secretaría de Educación Pública y tener cuando menos 2 años de ejercicio profesional;
+I.- Ser ciudadano mexicano, mayor de 30 años, con residencia en el Estado no menor de tres años anteriores al día de su nombramiento y estar en pleno ejercicio de sus derechos;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 1998)</small>
+
+II.- Poseer título de Contador Público Auditor y tener cuando menos dos años de ejercicio profesional, con experiencia en auditoría;
 
 III.- Ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de las funciones públicas que le hayan sido encomendadas;
 
-IV.- No desempeñar cargo de elección popular durante el ejercicio de su puesto;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 1998)</small>
 
-V.- No prestar servicios profesionales a las entidades ni a la Administración Pública Federal durante el desempeño del puesto, a excepción de cargos docentes; y
+IV.- No desempeñar puesto de elección popular durante el ejercicio del cargo ni haberlo hecho en los tres años anteriores;
 
-VI.- No estar al servicio de organismos, empresas, instituciones privadas o particulares, que presten cualesquier servicio a las entidades durante el desempeño del cargo.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 1998)</small>
+
+V.- No prestar servicios profesionales a entidades públicas o particulares, con excepción de las actividades docentes;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 1998)</small>
+
+VI.- No desempeñar ni haber desempeñado cargo alguno en el Comité Ejecutivo Estatal o Municipal o en el equivalente dentro de un partido político o cualquier otro tipo de organización política en los tres años anteriores a la fecha de su designación.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 11.
 
-El Contador Mayor de Hacienda será inamovible en su cargo 7 años, pudiendo ser nombrado para otro período igual, si así lo determina el Congreso del Estado. Sólo podrá ser removido si se comprueba haber incurrido en falta de honradez, notoria ineficiencia, incapacidad física o mental o comete algún delito intencional.
+El Contador Mayor de Hacienda será inamovible en su cargo siete años, pudiendo ser nombrado para otro período igual. Sólo podrá ser removido con aprobación por mayoría absoluta del Congreso, si se comprueba haber incurrido en falta de probidad, notoria ineficiencia, incapacidad física o mental que le impida cumplir con su responsabilidad o cometa algún delito intencional.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 12.
 
-El Contador Mayor de Hacienda será suplido en sus ausencias temporales, siempre que no excedan de 3 meses por la persona que designe la Comisión de Vigilancia de la Contaduría Mayor de Hacienda. Si la ausencia fuere mayor, el Congreso del Estado nombrará nuevo Contador Mayor de Hacienda, salvo causa justificada de ausencias, calificada así por el Congreso del Estado.
+El Contador Mayor de Hacienda será suplido en sus ausencias temporales, siempre que no excedan de tres meses, por el Director de Auditoría. Si la ausencia fuese mayor, el Congreso del Estado nombrará nuevo Contador Mayor de Hacienda, salvo causa justificada de ausencias, calificada así por el Congreso del Estado.
 
 ###### ARTICULO 13.
 
@@ -199,11 +227,15 @@ El Contador Mayor de Hacienda tendrá las siguientes atribuciones:
 
 I.- Representar a la Contaduría Mayor de Hacienda ante toda clase de autoridades, entidades y personas físicas y morales;
 
-II.- Elaborar el proyecto de presupuesto anual del Poder Legislativo, con apoyo en programas que señalan objetivos y metas y turnarlo a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 1998)</small>
+
+II.- Elaborar el proyecto de presupuesto anual del Poder Legislativo que contendrá el de la Contaduría Mayor de Hacienda, con apoyo en programas que señalen objetivos y metas y turnarlo a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda;
 
 III.- Rendir mensualmente a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, un informe de la administración y ejercicio del presupuesto del Poder Legislativo y en lo que corresponde a la Contaduría Mayor de Hacienda;
 
-IV.- Rendir un informe anual para el efecto a que se refiere la fracción IV del Artículo 8o. de esta Ley;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 1998)</small>
+
+IV.- Rendir informes anuales para el efecto a que se refiere la fracción IV del Artículo 8o. de esta Ley;
 
 V.- Formular y ejecutar los programas de trabajo de la Contaduría Mayor de Hacienda;
 
@@ -221,7 +253,9 @@ b).- El cobro de los recargos, daños y perjuicios causados a la Hacienda Public
 
 c).- La ejecución, cuando ello fuere necesario, de los actos convenidos o contratos que afectan a los programas y partidas presupuestales;
 
-X.- Proponer en los términos de esta Ley, a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, el nombramiento y remoción del personal de confianza de la Contaduría Mayor de Hacienda, para que sea sometido a la aprobación del Congreso del Estado;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 1998)</small>
+
+X.- Proponer en los términos de esta Ley, a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, el nombramiento y remoción de los Directores de la Contaduría Mayor de Hacienda, para que sea sometido a la aprobación del Congreso del Estado;
 
 XI.- Contratar, conforme el presupuesto de la Contaduría, los servicios de profesionistas necesarios para el mejor funcionamiento de la Contaduría Mayor de Hacienda; y
 
@@ -237,9 +271,11 @@ El Reglamento Interior de la Contaduría Mayor de Hacienda fijará las facultade
 
 ### CAPITULO V. De la Revisión de la Cuenta Pública
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 16.
 
-La documentación comprobatoria y justificativa de la cuenta pública del Gobierno del Estado y de los Ayuntamientos se remitirá a las oficinas de la Contaduría Mayor de Hacienda, de acuerdo con los términos del Artículo 27 fracción VI de la Constitución Política del Estado.
+La documentación comprobatoria y justificativa de la cuenta pública del Gobierno del Estado y de los Ayuntamientos se remitirá a la Contaduría Mayor de Hacienda, de acuerdo con los términos del Artículo 27 fracción V de la Constitución Política del Estado.
 
 ###### ARTICULO 17.
 
@@ -253,9 +289,11 @@ Las entidades deberán proporcionar a la Contaduría Mayor de Hacienda la inform
 
 A solicitud de la Contaduría Mayor de Hacienda las entidades le informarán de los actos, convenios y contratos de los que resulten derechos u obligaciones que tengan efecto sobre sus presupuestos o sus patrimonios.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 20.
 
-La Contaduría Mayor de Hacienda, para revisar la cuenta pública, tomará en cuenta los datos de la documentación respectiva, conducente a un conocimiento de aquélla y, en caso necesario, podrá practicar la auditoría que corresponda. Al mismo efecto establecerá los manuales necesarios para realizar dicha revisión.
+La Contaduría Mayor de Hacienda, para revisar la cuenta pública, tomará en cuenta los datos de la documentación respectiva, conducente a un conocimiento de aquélla y podrá practicar las auditorías que correspondan. Para el mismo efecto formulará los manuales necesarios para realizar dicha revisión.
 
 ###### ARTICULO 21.
 
@@ -271,9 +309,11 @@ d).- Comprobar que el gasto público se ajusto a los presupuestos de egresos y s
 
 La revisión no sólo comprenderá la conformidad de las partidas de ingresos y egresos, sino también la verificación contable y administrativa de los ingresos y gastos autorizados.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 22.
 
-Las auditorías que debe practicar la Contaduría Mayor de Hacienda, cuando éstas sean necesarias, se efectuarán por auditor y personal expresamente comisionado al efecto, mediante oficio expedido por el Contador Mayor de Hacienda.
+Las auditorías que debe practicar la Contaduría Mayor de Hacienda se efectuarán por auditor y personal expresamente comisionado al efecto, mediante oficio expedido por el Contador Mayor de Hacienda.
 
 ###### ARTICULO 23.
 
@@ -281,9 +321,11 @@ Los particulares auxiliarán a la Contaduría Mayor de Hacienda con los informes
 
 ### CAPITULO VI. De las Observaciones a las Cuentas, su Solventación y Recomendaciones
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 24.
 
-Concluida la revisión de la cuenta pública, se formularán en un pliego, en su caso, las observaciones sobre las deficiencias o irregularidades que se hayan determinado, haciéndose en otro pliego las recomendaciones que procedan.
+Concluida la revisión de la cuenta pública, se formularán en un pliego, en su caso, las observaciones sobre las deficiencias o irregularidades que se hayan determinado y las recomendaciones que procedan.
 
 ###### ARTICULO 25.
 
@@ -301,27 +343,35 @@ IV.- Por deficiencias o irregularidades en que incurra la entidad, por cuanto a 
 
 Las recomendaciones se fundamentarán en las Leyes de Ingresos, Presupuestos de Egresos y en los programas aprobados para las entidades.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 27.
 
-Las entidades dentro de un plazo de 30 días contados a partir de la fecha en que reciban los pliegos de observaciones y recomendaciones, solventarán las observaciones y atenderán las recomendaciones, de la Contaduría Mayor de Hacienda.
+Las entidades, dentro de un plazo de quince días hábiles contados a partir de la fecha en que reciban el pliego de observaciones y recomendaciones, solventarán las observaciones y atenderán las recomendaciones de la Contaduría Mayor de Hacienda.
 
 ###### ARTICULO 28.
 
 Después de revisadas las cuentas públicas y solventadas o no las observaciones y recomendaciones, en el plazo señalado en el artículo anterior, la Contaduría Mayor de Hacienda, expresará su opinión al respecto, la cual contendrá en forma concreta y sintetizada el resultado.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 29.
 
 La Contaduría Mayor de Hacienda emitirá opinión respecto de la cuenta pública que se rinda y ella se referirá al período que comprenda.
 
-Asimismo podrá emitir opinión parcial por una cuenta anual o mensual aún cuando se encuentren otra anterior pendiente de revisarse o alguno de los rubros o partidas.
+Asimismo, podrá emitir opinión parcial por una cuenta trimestral o mensual aún cuando se encuentren pendientes de revisión otra cuenta anterior o alguno de los rubros o partidas.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 30.
 
-La Comisión de Vigilancia de la Contaduría Mayor de Hacienda rendirá dictamen al Congreso del Estado, para que si así lo acuerda, apruebe la cuenta de la entidad.
+La Comisión de Vigilancia de la Contaduría Mayor de Hacienda rendirá dictamen al Congreso del Estado para que, si así lo acuerda, declare revisada la cuenta de la Entidad.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 31.
 
-La aprobación de la cuenta pública por parte del Congreso del Estado, produce el efecto de extinguir las cauciones, otorgadas para el manejo de los fondos o valores públicos a los funcionarios y empleados, cuando existen.
+Una vez declarada la revisión de la cuenta pública por parte del Congreso del Estado, produce el efecto de extinguir las cauciones otorgadas para el manejo de los fondos o valores públicos a los funcionarios y empleados, cuando existan.
 
 ### CAPITULO VII. De la Contabilidad, Auditoria Gubernamental y Archivo Contable
 
@@ -333,17 +383,15 @@ Las entidades que en su funcionamiento tengan que llevar contabilidad, ésta com
 
 La contabilidad de las entidades llevará con base anual acumulativa, para determinar costos y facilitar la formulación, ejercicios y evaluación de los presupuestos y sus programas con objetivos, metas y unidades responsables de su ejecución.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
-
 ###### ARTICULO 34.
 
-Con objeto de uniformar los criterios en materia de contabilidad, la Secretaría de Finanzas y la Secretaría de Desarrollo Social, darán a conocer con oportunidad a la Contaduría Mayor de Hacienda, las normas, procedimientos y sistema que implanten, a los cuales se sujetarán las entidades.
+(DEROGADO, P.O. 8 DE MARZO DE 1998)
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 35.
 
-La Secretaría de Finanzas dará a conocer oportunamente a la Contaduría Mayor de Hacienda los programas mínimos de auditoría interna que fija para las entidades.
+La Contaduría del Estado dará a conocer con oportunidad a la Contaduría Mayor de Hacienda los programas mínimos de auditoría interna para las entidades, sin contravenir los programas de la Contaduría Mayor de Hacienda.
 
 ###### ARTICULO 36.
 
@@ -367,7 +415,43 @@ A los empleados o funcionarios de la Contaduría Mayor de Hacienda, que en el de
 
 ###### ARTICULO 40.
 
-Las responsabilidades de carácter civil, penal y administrativo, en que incurran los empleados o funcionarios de las entidades, en el desempeño del empleo o ejercicio del cargo, prescribirán en los términos que fijen las leyes aplicables.
+(DEROGADO, P.O. 8 DE MARZO DE 1998)
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE MARZO DE 1998)</small>
+
+### CAPITULO X. De las Sanciones
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 1998)</small>
+
+###### ARTICULO 41.
+
+La Contaduría Mayor de Hacienda amonestará, y prevendrá a los servidores públicos responsables de las finanzas en el Estado y los Municipios, que incurran en las faltas que se señalan en la Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 1998)</small>
+
+###### ARTICULO 42.
+
+Las amonestaciones proceden por:
+
+I.- No presentar dentro de los diez primeros días del mes la cuenta pública, el estado de origen y aplicación de los recursos respectivos;
+
+II.- No dar contestación al pliego de observaciones y recomendaciones dentro de treinta días naturales contados a partir de su notificación;
+
+III.- No presentar el Presupuesto de Egresos del Gobierno del Estado, del ejercicio fiscal correspondiente;
+
+IV.- Obstaculizar e impedir, de manera intencional, el ejercicio de las atribuciones que esta Ley y las demás aplicables le señalan a la Contaduría Mayor de Hacienda.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 1998)</small>
+
+###### ARTICULO 43.
+
+La sanción a que se refiere el artículo anterior sólo se aplicará a quienes administren fondos públicos o cualquier otro recurso proveniente del Gobierno del Estado, de los Municipios o de cualquier otra fuente de financiamiento, que afecte o modifique el erario o el patrimonio público, así como el de las instituciones públicas o y, en general, el de las entidades objeto de fiscalización de esta ley.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 1998)</small>
+
+###### ARTICULO 44.
+
+Cualquier otra falta en que incurran los servidores públicos a que se refiere este capítulo se sancionará de conformidad con las leyes correspondientes.
 
 EL DECRETO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGOR DEL TEXTO, EN CONSECUENCIA, SERAN APLICADOS SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
@@ -406,3 +490,7 @@ C.P. Alfredo de Alba Olavarrieta.
 P.O. 13 DE DICIEMBRE DE 1992.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 8 DE MARZO DE 1998.
+
+UNICO.- Las presentes reformas, derogaciones y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
