@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transito-del-estado-de-chihuahua-19595"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-31"
-last_updated: "2004-10-02"
+last_updated: "2005-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2005.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 31 de enero de 2001.
 
@@ -773,6 +773,22 @@ El estacionamiento de vehículos destinados al transporte colectivo urbano o for
 
 Los vehículos indebidamente estacionados, los que se encuentren abandonados y aquellos que sean reparados en las vías públicas sin tener el carácter de urgente, serán retirados y trasladados a los corralones que disponga la autoridad de Tránsito. Los gastos que por este concepto se ocasionen correrán por cuenta del propietario o poseedor del vehículo.
 
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2005)</small>
+
+###### Artículo 73
+
+Bis.- En lugares donde haya instalados relojes estacionómetros, es obligación de los conductores pagar la cuota fijada en los mismos. El incumplimiento de dicha obligación motivará la aplicación de la multa correspondiente; en caso de no poder aplicar la multa por carecer de identificación en general, ello motivará la aplicación del inmovilizador.
+
+Será inmovilizado el vehículo en el lugar donde se encuentre estacionado cuando sin llevar colocadas las placas correspondientes o la calcomanía u holograma que lo identifique o, en su caso, la autorización provisional otorgada por la autoridad competente, se estacionen o invadan los espacios exclusivos y prohibidos señalados en las fracciones I, III excepto en doble fila, en las fracciones V, X y XII del artículo 68 de esta Ley.
+
+Los municipios que tengan reglamentado el uso de los inmovilizadores, en los casos que aparecen en los párrafos anteriores, atenderán a lo estipulado en su propio Reglamento.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2005)</small>
+
+###### Artículo 73
+
+TER.- Al darse el supuesto que prevé el artículo anterior, será necesario que el infractor se presente a cubrir las sanciones a que se haya hecho acreedor y los gastos que se hayan ocasionado para obtener la liberación de su vehículo. En los casos de automovilistas que no acudan a liquidar sus infracciones, si la multa no se hace líquida en el plazo de cinco días hábiles, el infractor se hará acreedor al pago de recargos previstos por la Ley de Ingresos.
+
 ### Capítulo III.
 
 De la Velocidad Legal.
@@ -1030,3 +1046,9 @@ P.O. 5 DE JUNIO DE 2004.
 P.O. 2 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ENERO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del primero de enero de dos mil cinco.
