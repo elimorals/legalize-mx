@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-municipal-del-7428"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-01-28"
-last_updated: "1996-01-26"
+last_updated: "1996-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de enero de 1991.
 
@@ -231,7 +231,9 @@ VII.- Publicar trimestralmente en la tabla de avisos del Ayuntamiento o en el pe
 
 VIII.- Enviar trimestralmente al Congreso, los documentos y estados financieros que comprenderán la balanza de comprobación, el balance general y el estado de resultados del ejercicio presupuestario de ingresos y egresos que corresponda a la fecha.
 
-IX.- Solicitar al H. Congreso del Estado, por conducto del Ejecutivo, autorización para contratar créditos para obras de beneficio general.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1996)</small>
+
+IX.- Solicitar al H. Congreso del Estado, autorización para contratar créditos para obras de beneficio general.
 
 X.- Solicitar al H. Congreso del Estado, en los términos de la Constitución Política estatal, expedición de Decretos para la venta, desafectación, gravámen o donación de bienes del Patrimonio Municipal.
 
@@ -1430,3 +1432,7 @@ P.O. 26 DE ENERO DE 1996.
 DECRETO No. 153, QUE REFORMA EL ARTICULO 26.
 
 UNICO:- El presente decreto entrará en vigor a partir del día 1o. de Enero de 1996.
+
+P.O. 24 DE MAYO DE 1996.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
