@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "1995-05-24"
+last_updated: "1996-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO PENAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1996.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -1687,7 +1687,7 @@ Iguales sanciones se impondrán a las personas que acepten los nombramientos, co
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO VII. PECULADO Y CONCUSION
+### CAPITULO VIII. INTIMIDACION
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -1699,7 +1699,7 @@ Al que cometa el delito de coalición de servidores públicos se le impondrán d
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO VIII. INTIMIDACION
+### CAPITULO VII. PECULADO Y CONCUSION
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -1981,7 +1981,7 @@ Igualmente serán responsables en la forma que previene el artículo 202, todos 
 
 ### CAPITULO III. FALSIFICACION DE DOCUMENTOS EN GENERAL
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1996)</small>
 
 ###### Art. 205.
 
@@ -2073,7 +2073,7 @@ Se impondrán prisión de uno a cinco años y multa de cincuenta a ciento cincue
 
 ###### Art. 214.
 
-El delito de falsificación de documentos públicos o privados se castigará con prisión de seis meses a tres años y multa de cincuenta a cien días de salario mínimo.
+El delito de falsificación de documentos públicos o privados se castigará con prisión de uno a seis años y multa de cien a trescientos días de salario mínimo.
 
 ###### Art. 215.
 
@@ -3421,7 +3421,9 @@ II.- Al que de propia autoridad y haciendo uso de los medios indicados en la fra
 
 III.- Al que en los términos de las fracciones anteriores cometa despojo de aguas.
 
-La pena será aplicable aún cuando el derecho a la posesión de la cosa usurpada sea dudoso o esté en disputa. Cuando el despojo se realice por grupo o grupos, que en conjunto sean mayores de cinco personas, además de la pena señalada en este artículo se aplicarán a los autores intelectuales y a quienes dirijan la invasión, de uno a seis años de prisión.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1996)</small>
+
+La pena será aplicable aún cuando el derecho a la posesión de la cosa usurpada sea dudoso o esté en disputa. Cuando el despojo se realice por grupo o grupos de tres o más personas, a los autores intelectuales y a quienes dirijan la invasión, además de la pena señalada en el primer párrafo de este artículo, se les aplicarán de tres a diez años de prisión.
 
 ###### Art. 372.
 
@@ -3688,3 +3690,9 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se deroga (sic) todas las disposiciones legales y reglamentarias que se opongan a este decreto.
 
 Tercero.- Queda a la elección de los sentenciados el acogerse al beneficio que se contrae el artículo Primero de este decreto.
+
+P.O. 7 DE DICIEMBRE DE 1996.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan, en lo que se opongan al contenido del presente decreto, todas las disposiciones legales y reglamentarias que conforman el marco jurídico propio de esta Entidad Federativa.
