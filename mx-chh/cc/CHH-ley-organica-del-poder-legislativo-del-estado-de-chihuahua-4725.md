@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "1999-09-18"
+last_updated: "1999-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1999.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -103,6 +103,10 @@ El Congreso se erigirá en Gran Jurado en caso de Juicio Político o declaració
 
 Diez días antes del fijado para la instalación de la Legislatura, los diputados que hayan sido declarados electos tanto por el Consejo Estatal de Elecciones como por el Tribunal Estatal de Elecciones en su caso, se reunirán en el Salón de Sesiones del Congreso a las once horas, a fin de nombrar la mesa directiva que presidirá los trabajos del Primer Período Ordinario de Sesiones.
 
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+Los Diputados que habiendo obtenido del Instituto Estatal Electoral la constancia que los acredite como tales, se abstendrán de concurrir a la reunión referida en el párrafo que antecede, así como a la instalación de la Legislatura respectiva, cuando su constancia haya sido impugnada, por consecuencia, tampoco podrán rendir la protesta como integrantes de la Legislatura hasta en tanto queden resueltas en definitiva las impugnaciones hechas en contra de su respectiva constancia.
+
 El primero de octubre del año correspondiente, previa protesta de sus integrantes, se instalará solemnemente el Congreso, declarando instalada la nueva Legislatura, con indicación del número que le corresponda así como declarando abierto su primer periodo ordinario de sesiones.
 
 En la sesión solemne a que se refiere el párrafo anterior, el presidente exhortará a los reunidos a ponerse de pie y, hecho que fuere, rendirá su protesta en los siguientes términos:
@@ -181,7 +185,7 @@ Son inviolables por las opiniones que manifiesten en el desempeño de sus cargos
 
 El Presidente del Congreso o, en su caso, de la Diputación Permanente, velará por el respeto al fuero de los diputados. Todo acto de autoridad que vulnere el fuero mencionado se castigará conforme a lo previsto por la ley respectiva.
 
-Los diputados, son responsables por los delitos comunes que cometan durante el tiempo de su encargo y por los actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despecho; pero no podrán ser detenidos ni ejercitarse en contra de ellos acción penal hasta que seguido el procedimiento constitucional, se decida la separación del cargo.
+Los diputados, son responsables por los delitos comunes que cometan durante el tiempo de su encargo y por los actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho; pero no podrán ser detenidos ni ejercitarse en contra de ellos acción penal hasta que seguido el procedimiento constitucional, se decida la separación del cargo.
 
 ###### Art. 18.
 
@@ -337,9 +341,13 @@ VIII.- Velar por el respeto al fuero de los diputados y preservar la inviolabili
 
 IX.- Designar las comisiones a las que se deban turnar los asuntos que se presenten a la consideración del Congreso y sean de su competencia;
 
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
+El turno a las comisiones podrá hacerse de manera económica por el Presidente, cuando la urgencia del asunto así lo amerite, contando para ello con el Acuerdo previo de la Junta de Coordinación Parlamentaria;
+
 X.- Conceder la palabra al Gobernador del Estado, al Presidente del Supremo Tribunal de Justicia, a los representantes de los Ayuntamientos, a los Chihuahuenses que hayan presentado Iniciativa Popular, así como a los representantes de los Pueblos Indígenas, cuando asistan para la discusión de iniciativas, de conformidad con la Constitución Política del Estado;
 
-XI.- Imponer a los diputados sanciones pecuniarias por el monto de la dieta que corresponda a los días que falten a sesión sin justificación o permiso del propio Presidente;
+XI.- Imponer a los diputados sanciones pecuniarias por el monto de la dieta que corresponda a los días que falten a sesión sin justificación o permiso del propio Presidente.
 
 XII.- Conceder licencia a los diputados para que en un mes puedan faltar hasta tres sesiones. No se concederá licencia alguna cuando se perjudique el quórum;
 
@@ -491,9 +499,11 @@ IX.- Ejercer las demás atribuciones que le asignen esta Ley y otros ordenamient
 
 ### CAPITULO VI. DE LAS COMISIONES
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
 ###### Art. 43.
 
-Las comisiones del Congreso son órganos colegiados que se integran por diputados, cuyas funciones son las de analizar y discutir las iniciativas de ley, los proyectos de decreto y demás asuntos que les sean turnados por el pleno para elaborar, en su caso, los dictámenes correspondientes.
+Las comisiones del Congreso son órganos colegiados que se integran por diputados, cuyas funciones son las de analizar y discutir las Iniciativas de Ley, los proyectos de decreto y demás asuntos que les sean turnados para elaborar, en su caso, los dictámenes correspondientes.
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
 
@@ -1602,3 +1612,15 @@ P.O. 18 DE SEPTIEMBRE DE 1999.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE NOVIEMBRE DE 1999.
+
+DECRETO No. 249
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE NOVIEMBRE DE 1999.
+
+DECRETO No. 252
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
