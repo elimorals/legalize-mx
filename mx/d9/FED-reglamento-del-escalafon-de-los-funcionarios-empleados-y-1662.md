@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-escalafon-de-los-funcionarios-empleados-y-1662"
 country: "mx"
 rank: "reglamento"
 publication_date: "1942-01-15"
-last_updated: "1943-02-23"
+last_updated: "1988-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1662&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,9 +18,11 @@ issue_date: "1942-01-15"
 ---
 # REGLAMENTO DEL ESCALAFON DE LOS FUNCIONARIOS, EMPLEADOS Y TRABAJADORES QUE DEPENDEN DIRECTAMENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE ESCALAFÓN, PUBLICADO EN EL S.J.F. DE 16 DE AGOSTO DE 1989, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL ESCALAFÓN DE LOS FUNCIONARIOS, EMPLEADOS Y TRABAJADORES QUE DEPENDEN DIRECTAMENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.
 
-ÚLTIMA REFORMA APROBADA POR EL TRIBUNAL PLENO: 23 DE FEBRERO DE 1943.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 16 DE AGOSTO DE 1989 (ABROGADO).
 
 Reglamento expedido por el Pleno de la Suprema Corte de Justicia de la Nación, México, D.F., a 15 de enero de 1942.
 
@@ -513,3 +515,13 @@ México, D. F., a 15 de enero de 1942.
 ## [N. DE E. TRANSITORIOS DE “REFORMAS Y ADICIONES AL REGLAMENTO DEL ESCALAFÓN DE LOS FUNCIONARIOS EMPLEADOS Y TRABAJADORES QUE DEPENDEN DIRECTAMENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, APROBADOS POR EL TRIBUNAL PLENO EL DÍA 23 DE FEBRERO DE 1943”.]
 
 > <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.]</small>
+
+S.J.F. 16 DE AGOSTO DE 1989.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE ESCALAFÓN”.]
+
+PRIMERO. El presente Reglamento entrará en vigor a partir del dieciséis de septiembre de mil novecientos ochenta y ocho.
+
+SEGUNDO. El Poder Judicial y el Sindicato dispondrán de un plazo de treinta días a partir de la fecha de iniciación de vigencia de este Reglamento, para instalar formalmente las Comisiones.
+
+TERCERO. Se abroga el Reglamento de Escalafón de los Funcionarios, Empleados y Trabajadores que dependen directamente de la Suprema Corte de Justicia de la Nación de 15 de enero de 1942 y sus reformas y adiciones aprobadas por el Tribunal Pleno, el 23 de febrero de 1943.
