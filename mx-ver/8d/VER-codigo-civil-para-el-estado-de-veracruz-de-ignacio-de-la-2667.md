@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1981-12-31"
+last_updated: "1989-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ABRIL DE 1989.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -8123,7 +8123,9 @@ IV.- Si concurre con descendientes del autor de la herencia tendrá derecho a la
 
 V.- Si concurre con parientes colaterales dentro del cuarto grado del autor de la sucesión, tendrá derecho a las dos terceras partes de ésta;
 
-VI.- Si el autor de la herencia no deja descendientes, ascendientes, cónyuge o parientes colaterales dentro del cuarto grado, las tres cuartas partes de los bienes de la sucesión, pertenecen a la concubina o concubinario, y el resto al Fisco del Estado.
+> <small>(REFORMADA, G.O. 1 DE ABRIL DE 1989)</small>
+
+VI.- Si el autor de la herencia no deja descendientes, ascendientes, cónyuge o parientes colaterales dentro del cuarto grado, el total de los bienes de la sucesión, pertenecen a la concubina o concubinario.
 
 En los casos a que se refieren las fracciones II, III y IV, debe observarse lo dispuesto en los artículos 1557 y 1558, si el heredero tiene bienes.
 
@@ -11051,9 +11053,9 @@ ARTICULO 2207
 
 Los extranjeros y las personas morales no pueden comprar bienes raíces, sino sujetándose a lo dispuesto en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y en sus leyes reglamentarias.
 
-ARTICULO 2208
-
 > <small>(DEROGADO, G.O. 1 DE ENERO DE 1976)</small>
+
+ARTICULO 2208
 
 ARTICULO 2209
 
@@ -15568,3 +15570,13 @@ TERCERO.- Las actuaciones de los juicios de desocupación por terminación de ar
 G.O. 31 DE DICIEMBRE DE 1981.
 
 Artículo Unico.- Esta Ley será publicada en la "Gaceta Oficial", órgano del Gobierno del Estado y entrará en vigor el día primero de enero de mil novecientos ochenta y dos.
+
+G.O. 1 DE ABRIL DE 1989.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente reforma.
